@@ -1,29 +1,21 @@
-# Supplemental Patient Material
+# PATIENT PACKAGE INSERT
 
-## Patient Package Insert
-
-Patient Information
-
-COZAAR®(CO-zar)
-
-(losartan potassium tablets)
-
-25mg, 50mg, 100mg
+Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25mg, 50mg, 100mg
 
 Rx only
 
-Read the Patient Information that comes with COZAAR before you start taking it and each time you get a refill.
+Read the Patient Information that comes with COZAARRegistered trademark of E.I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
-### What is the most important information I should know about COZAAR?
+## What is the most important information I should know about COZAAR?
 
 Do not take COZAAR if you are pregnant or plan to become pregnant.
 COZAAR can harm your unborn baby causing injury and even death.
 Stop taking COZAAR if you become pregnant and call your doctor right away.
 If you plan to become pregnant, talk to your doctor about other treatment options before taking COZAAR.
 
-### What is COZAAR?
+## What is COZAAR?
 
 COZAAR is a prescription medicine called an angiotensin receptor blocker (ARB).
 It is used:
@@ -48,12 +40,12 @@ Type 2 Diabetes with Nephropathy.
 Type 2 diabetes is a type of diabetes that happens mainly in adults.
 If you have diabetic nephropathy it means that your kidneys do not work properly because of damage from the diabetes.
 
-### Who should not take COZAAR?
+## Who should not take COZAAR?
 
 - Do not take COZAAR if you are allergic to any of the ingredients in COZAAR.
   See the end of this leaflet for a complete list of ingredients in COZAAR.
 
-### What should I tell my doctor before taking COZAAR?
+## What should I tell my doctor before taking COZAAR?
 
 Tell your doctor about all of your medical conditions including if you:
 
@@ -66,32 +58,31 @@ Tell your doctor about all of your medical conditions including if you:
 - have liver problems
 - have kidney problems
 
-### Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 COZAAR and certain other medicines may interact with each other.
 Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors.
+- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
 
-### How should I take COZAAR?
+## How should I take COZAAR?
 
 - Take COZAAR exactly as prescribed by your doctor.
   Your doctor may change your dose if needed.
 - COZAAR can be taken with or without food.
 - If you miss a dose, take it as soon as you remember.
-  If it is close to your next dose, donot take the missed dose.
+  If it is close to your next dose, do not take the missed dose.
   Just take the next dose at your regular time.
 - If you take too much COZAAR, call your doctor or Poison Control Center, or go to the nearest hospital emergency room right away.
 
-### What are the possible side effects of COZAAR?
+## What are the possible side effects of COZAAR?
 
 COZAAR may cause the following side effects that may be serious:
 
 - Injury or death of unborn babies.
-  See“What is the most important information I should know about COZAAR?”
+  See “What is the most important information I should know about COZAAR?”
 - Allergic reaction.
   Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
   Get emergency medical help right away and stop taking COZAAR.
@@ -123,13 +114,15 @@ Tell your doctor if you get any side effect that bothers you or that won’t go 
 This is not a complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
 
-### How do I store COZAAR?
+## How do I store COZAAR?
 
 - Store COZAAR tablets at 59°F to 86°F (15°C to 30°C).
 - Keep COZAAR in a tightly closed container that protects the medicine from light.
 - Keep COZAAR and all medicines out of the reach of children.
 
-General information about COZAAR Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+## General information about COZAAR
+
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use COZAAR for a condition for which it was not prescribed.
 Do not give COZAAR to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -138,19 +131,15 @@ This leaflet summarizes the most important information about COZAAR.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about COZAAR that is written for health professionals.
 
-### What are the ingredients in COZAAR?
+## What are the ingredients in COZAAR?
 
 Active ingredients: losartan potassium
 
-Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2 aluminum lake.
+Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 COZAAR 25 mg, COZAAR 50 mg, and COZAAR 100 mg may also contain carnauba wax.
 
-Manufactured for:
+Issued December 2009
 
-MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
+Manufactured For: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued October 2006
-
-9730503
-
-Printed in USA
+9964201

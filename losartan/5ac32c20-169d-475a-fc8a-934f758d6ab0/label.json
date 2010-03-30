@@ -1,27 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020386"
+  ],
   "inn": "losartan",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
-    "0006-0951-01",
-    "0006-0951-28",
     "0006-0951-54",
     "0006-0951-82",
-    "0006-0951-87",
-    "0006-0952-01",
-    "0006-0952-28",
     "0006-0952-31",
     "0006-0952-54",
     "0006-0952-82",
-    "0006-0952-87",
-    "0006-0960-01",
-    "0006-0960-28",
     "0006-0960-31",
     "0006-0960-54",
-    "0006-0960-82",
-    "0006-0960-86"
+    "0006-0960-82"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "COZAAR"
+    }
+  ],
   "setid": "5ac32c20-169d-475a-fc8a-934f758d6ab0",
   "source": "dailymed"
 }

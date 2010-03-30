@@ -79,7 +79,7 @@ The following additional adverse reactions have been reported in post-marketing 
 
 Digestive: Hepatitis (reported rarely).
 
-General disorders and administration site conditions: Malaise.
+General Disorders and Administration Site Conditions: Malaise.
 
 Hemic: Thrombocytopenia (reported rarely).
 
@@ -101,7 +101,7 @@ Skin: Erythroderma
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of COZAAR.
 
-Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen (BUN) or serum creatininewere observed in less than 0.1 percent of patients with essential hypertension treated with COZAAR alone (see PRECAUTIONS, Impaired Renal Function).
+Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen (BUN) or serum creatinine were observed in less than 0.1 percent of patients with essential hypertension treated with COZAAR alone (see PRECAUTIONS, Impaired Renal Function).
 
 Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.11 grams percent and 0.09 volume percent, respectively) occurred frequently in patients treated with COZAAR alone, but were rarely of clinical importance.
 No patients were discontinued due to anemia.

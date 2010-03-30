@@ -40,8 +40,7 @@ These conditions should be corrected prior to administration of COZAAR, or a low
 
 ## General
 
-## Hypersensitivity: Angioedema.
-
+Hypersensitivity: Angioedema.
 See ADVERSE REACTIONS, Post-Marketing Experience.
 
 ## Impaired Hepatic Function
@@ -70,7 +69,9 @@ These patients should be asked to report pregnancies to their physicians as soon
 
 Potassium Supplements: A patient receiving COZAAR should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician (see PRECAUTIONS, Drug Interactions).
 
-Drug Interactions: No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.
+## Drug Interactions
+
+No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.
 Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.
 (See CLINICAL PHARMACOLOGY, Drug Interactions.)
 In humans, two inhibitors of P450 3A4 have been studied.
@@ -85,11 +86,12 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 Lithium: As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be co-administered with angiotensin II receptor antagonists.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan may result in a further deterioration of renal function.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan, or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
+Therefore, the combination should be administered with caution in patients with compromised renal function.
 
-Reports suggest that NSAIDs including selective COX-2 inhibitors may diminish the antihypertensive effect of angiotensin II receptor antagonists, including losartan.
-This interaction should be given consideration in patients taking NSAIDs including selective COX-2 inhibitors concomitantly with angiotensin II receptor antagonists.
+NSAIDs including selective COX-2 inhibitors may diminish the effects of diuretics and other antihypertensive drugs, including losartan.
+Therefore, the antihypertensive effect of angiotensin II receptor antagonists or ACE inhibitors may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -108,7 +110,8 @@ In nonpregnant rats dosed at 135 mg/kg/day for 7 days, systemic exposure (AUCs) 
 
 ## Pregnancy
 
-Pregnancy Categories C (first trimester) and D (second and third trimesters).See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
+Pregnancy Categories C (first trimester) and D (second and third trimesters).
+See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
 
 ## Nursing Mothers
 
@@ -118,11 +121,11 @@ Because of the potential for adverse effects on the nursing infant, a decision s
 ## Pediatric Use
 
 Antihypertensive effects of COZAAR have been established in hypertensive pediatric patients aged 6 to 16 years.
-There are no data on the effect of COZAAR on blood pressure in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects and DOSAGE AND ADMINISTRATION).
+There are no data on the effect of COZAAR on blood pressure in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Special Populations and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
-Of the total numberof patients receiving COZAAR in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
+Of the total number of patients receiving COZAAR in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
 In a controlled clinical study for renal protection in type 2 diabetic patients with proteinuria, 248 patients (33%) were 65 years and over.
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

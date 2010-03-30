@@ -47,13 +47,13 @@ Both losartan and its active metabolite are highly bound to plasma proteins, pri
 Plasma protein binding is constant over the concentration range achieved with recommended doses.
 Studies in rats indicate that losartan crosses the blood-brain barrier poorly, if at all.
 
-## Special Populations
+### Special Populations
 
 Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 1 below.
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
 The principal pharmacokinetic parameters in adults and children are shown in the table below.
 
-Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing
+Table 1: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 Following Multiple Dosing
 
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6-16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | --- | --- | --- | --- | --- |
@@ -133,12 +133,12 @@ There was essentially no change in average heart rate in losartan-treated patien
 ### Pediatric Hypertension
 
 The antihypertensive effect of losartan was studied in one trial enrolling 177 hypertensive pediatric patients aged 6 to 16 years old.
-Children who weighed<50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
+Children who weighed <50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
 Children in the lowest dose group were given losartan in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
 The majority of the children had hypertension associated with renal and urogenital disease.
 The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient’s age, gender, and height.
 At the end of three weeks, losartan reduced systolic and diastolic blood pressure, measured at trough, in a dose-dependent manner.
-Overall, the two higher doses (25 to 50 mg in patients<50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
+Overall, the two higher doses (25 to 50 mg in patients <50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
 The lowest dose, corresponding to an average daily dose of 0.07 mg/kg, did not appear to offer consistent antihypertensive efficacy.
 When patients were randomized to continue losartan at the two higher doses or to placebo after 3 weeks of therapy, trough diastolic blood pressure rose in patients on placebo between 5 and 7 mmHg more than patients randomized to continuing losartan.
 When the low dose of losartan was randomly withdrawn, the rise in trough diastolic blood pressure was the same in patients receiving placebo and in those continuing losartan, again suggesting that the lowest dose did not have significant antihypertensive efficacy.
@@ -181,7 +181,7 @@ The primary endpoint was the first occurrence of stroke, myocardial infarction o
 The table shows the number of events for each component in two different ways.
 The Components of Primary Endpoint (as a first event) counts only the events that define the primary endpoint, while the Secondary Endpoints count all first events of a particular type, whether or not they were preceded by a different type of event.
 
-Table 2 Incidence of Primary Endpoint Events
+Table 2: Incidence of Primary Endpoint Events
 
 |  | COZAAR |  | Atenolol |  | Risk ReductionAdjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy | 95% CI | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -241,7 +241,7 @@ At the end of the study, the mean blood pressures were 143/76 mmHg for the group
 Figure 4.
 Kaplan-Meier curve for the primary composite endpoint of doubling of serum creatinine, end stage renal disease (need for dialysis or transplantation) or death.
 
-Table 3 Incidence of Primary Endpoint Events
+Table 3: Incidence of Primary Endpoint Events
 
 |  | Incidence |  | Risk Reduction | 95% C.I. | p-Value |
 | --- | --- | --- | --- | --- | --- |
@@ -265,7 +265,7 @@ The favorable effects of COZAAR were seen in patients also taking other anti-hyp
 For the primary endpoint and ESRD, the effects of COZAAR in patient subgroups defined by age, gender and race are shown in Table 4 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 
-Table 4 Efficacy Outcomes within Demographic Subgroups
+Table 4: Efficacy Outcomes within Demographic Subgroups
 
 |  |  | Primary Composite Endpoint |  |  | ESRD |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
