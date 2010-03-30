@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021451"
+  ],
   "inn": "lidocaine",
   "labeler": "DENTSPLY Pharmaceutical",
   "package_ndcs": [
     "66312-110-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "lidocaine and prilocaine",
+      "name": "Oraqix"
+    }
+  ],
   "setid": "b501d239-923b-48b2-82ed-6c5c253a67e2",
   "source": "dailymed"
 }
