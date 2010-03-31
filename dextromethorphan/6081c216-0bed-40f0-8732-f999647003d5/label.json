@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090575"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-680-86",
+    "65162-680-90"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "promethazine hydrochloride and dextomethorphan hydrobromide",
+      "name": "Promethazine Hydrochloride and Dextomethorphan Hydrobromide"
+    }
+  ],
+  "setid": "6081c216-0bed-40f0-8732-f999647003d5",
+  "source": "dailymed"
+}
