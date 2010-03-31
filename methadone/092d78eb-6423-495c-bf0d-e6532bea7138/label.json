@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021624"
+  ],
+  "inn": "methadone",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-217-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methadone hydrochloride",
+      "name": "Methadone Hydrochloride"
+    }
+  ],
+  "setid": "092d78eb-6423-495c-bf0d-e6532bea7138",
+  "source": "dailymed"
+}
