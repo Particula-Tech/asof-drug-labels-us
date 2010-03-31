@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021566"
+  ],
   "inn": "lansoprazole",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
     "64764-954-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "lansoprazole",
+      "name": "Prevacid IV"
+    }
+  ],
   "setid": "7bf9ddb1-d1b6-42ee-98bf-5a482118211e",
   "source": "dailymed"
 }
