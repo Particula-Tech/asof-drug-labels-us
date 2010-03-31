@@ -1,14 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021526"
+  ],
   "inn": "ranolazine",
-  "labeler": "CV Therapeutics, Inc.",
+  "labeler": "Gilead Palo Alto, Inc.",
   "package_ndcs": [
     "67159-112-03",
-    "67159-112-04",
-    "67159-114-03",
-    "67159-114-04"
+    "67159-114-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "Ranexa"
+    }
+  ],
   "setid": "739d7705-907b-4408-8490-2052514a1a50",
   "source": "dailymed"
 }

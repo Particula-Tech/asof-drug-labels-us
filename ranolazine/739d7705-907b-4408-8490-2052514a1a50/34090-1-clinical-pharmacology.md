@@ -39,7 +39,7 @@ For example, at a dose of 1000 mg twice daily, the mean steady-state Cmax was 26
 The pharmacokinetics of the (+) R- and (-) S-enantiomers of ranolazine are similar in healthy volunteers.
 The apparent terminal half-life of ranolazine is 7 hours.
 Steady state is generally achieved within 3 days of twice-daily dosing with Ranexa.
-At steady state over the dose range of 500 to 1000 mg twice daily, Cmax and AUC0-τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
+At steady state over the dose range of 500 to 1000 mg twice daily, Cmax and AUC0–τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
 With twice-daily dosing, the trough:peak ratio of the ranolazine plasma concentration is 0.3 to 0.6.
 The pharmacokinetics of ranolazine is unaffected by age, gender, or food.
 
