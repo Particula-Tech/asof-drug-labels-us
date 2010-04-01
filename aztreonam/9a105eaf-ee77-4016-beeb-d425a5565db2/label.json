@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050580"
+  ],
+  "inn": "aztreonam",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0003-2560-16",
+    "0003-2570-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "aztreonam",
+      "name": "AZACTAM"
+    }
+  ],
+  "setid": "9a105eaf-ee77-4016-beeb-d425a5565db2",
+  "source": "dailymed"
+}
