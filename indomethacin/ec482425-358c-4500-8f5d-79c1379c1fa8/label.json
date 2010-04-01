@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022536"
+  ],
+  "inn": "indomethacin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-659-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "indomethacin",
+      "name": "INDOMETHACIN"
+    }
+  ],
+  "setid": "ec482425-358c-4500-8f5d-79c1379c1fa8",
+  "source": "dailymed"
+}
