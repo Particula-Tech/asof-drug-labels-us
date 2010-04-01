@@ -1,5 +1,10 @@
 # WARNINGS
 
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+HALDOL Decanoate is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+
 ## Cardiovascular Effects
 
 Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving haloperidol.
@@ -56,6 +61,21 @@ Therefore, if the above signs and symptoms appear, especially in the elderly, th
 Although not reported with HALDOL, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs.
 
 # PRECAUTIONS
+
+## Leukopenia, Neutropenia, and Agranulocytosis
+
+### Class Effect
+
+In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including HALDOL Decanoate.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of HALDOL Decanoate should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue HALDOL Decanoate and have their WBC followed until recovery.
+
+## Other
 
 HALDOL Decanoate 50 and HALDOL Decanoate 100 should be administered cautiously to patients:
 
@@ -116,7 +136,9 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 ## Usage in Pregnancy
 
-Pregnancy Category C. Rodents given up to 3 times the usual maximum human dose of haloperidol decanoate showed an increase in incidence of resorption, fetal mortality, and pup mortality.
+### Pregnancy Category C
+
+Rodents given up to 3 times the usual maximum human dose of haloperidol decanoate showed an increase in incidence of resorption, fetal mortality, and pup mortality.
 No fetal abnormalities were observed.
 
 Cleft palate has been observed in mice given oral haloperidol at 15 times the usual maximum human dose.

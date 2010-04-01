@@ -34,14 +34,12 @@ If, therefore, conversion requires more than 100 mg of haloperidol decanoate as 
 The maintenance dosage of haloperidol decanoate must be individualized with titration upward or downward based on therapeutic response.
 The usual maintenance range is 10 to 15 times the previous daily dose in oral haloperidol equivalents dependent on the clinical response of the patient.
 
-Haldol Decanoate Dosing Recommendations
+HALDOL DECANOATE DOSING RECOMMENDATIONS
 
 | Patients | Monthly 1st Month | Maintenance |
 | --- | --- | --- |
-| Stabilized on low daily oral doses (up to 10 mg/day) | 10–15 × Daily Oral Dose | 10–15 × Previous Daily Oral Dose |
-| Elderly or Debilitated |  |  |
-| High Dose | 20 × Daily Oral Dose | 10–15 × Previous Daily Oral Dose |
-| Risk of relapse |  |  |
+| Stabilized on low daily oral doses (up to 10 mg/day) Elderly or Debilitated | 10–15 × Daily Oral Dose | 10–15 × Previous Daily Oral Dose |
+| High dose Risk of relapse | 20 × Daily Oral Dose | 10–15 × Previous Daily Oral Dose |
 | Tolerant to oral haloperidol |  |  |
 
 Close clinical supervision is required during initiation and stabilization of haloperidol decanoate therapy.

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018701"
+  ],
   "inn": "haloperidol",
-  "labeler": "Ortho-McNeil Pharmaceutical, Inc.",
+  "labeler": "McNeil Pharmaceuticals",
   "package_ndcs": [
     "0045-0253-01",
     "0045-0253-03",
     "0045-0254-14"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "haloperidol decanoate",
+      "name": "Haldol Decanoate"
+    }
+  ],
   "setid": "33cb1224-154c-44f8-908f-554d86d89463",
   "source": "dailymed"
 }

@@ -1,19 +1,10 @@
-# Rx Only
+For IM Injection Only
 
-Manufactured by:
-
-Janssen Pharmaceutica N.V.
-
+Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
-Distributed by:
+Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Ortho-McNeil Pharmaceutical, Inc.
+Revised July 2009 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2005
 
-Raritan, NJ 08869
-
-(ORTHO-McNEIL LOGO)
-
-February 2008
-
-©OMP 2005
+US-XXXXXX
