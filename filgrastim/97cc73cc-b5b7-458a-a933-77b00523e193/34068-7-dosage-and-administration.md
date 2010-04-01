@@ -28,11 +28,9 @@ During the period of neutrophil recovery‚ the daily dose of NEUPOGEN® should 
 
 | Absolute Neutrophil Count | NEUPOGEN® Dose Adjustment |
 | --- | --- |
-| When ANC > 1000/mm3 for |  |
-| 3 consecutive days | Reduce to 5 mcg/kg/day If ANC decreases to < 1000/mm3 at any time during the 5 mcg/kg/day administration‚ NEUPOGEN® should be increased to 10 mcg/kg/day‚ and the above steps should then be followed. |
+| When ANC > 1000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/day If ANC decreases to < 1000/mm3 at any time during the 5 mcg/kg/day administration‚ NEUPOGEN® should be increased to 10 mcg/kg/day‚ and the above steps should then be followed. |
 | then: |  |
-| If ANC remains > 1000/mm3 |  |
-| for 3 more consecutive days | Discontinue NEUPOGEN® |
+| If ANC remains > 1000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN® |
 | then: |  |
 | If ANC decreases to < 1000/mm3 | Resume at 5 mcg/kg/day |
 

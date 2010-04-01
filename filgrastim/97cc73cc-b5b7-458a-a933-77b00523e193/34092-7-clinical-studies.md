@@ -34,40 +34,27 @@ Such phase 1/2 studies are summarized in the following table.
 
 | Type of Malignancy | Regimen | Chemotherapy Dose |  | No. Pts. | Trial Phase | NEUPOGEN® Daily DosageNEUPOGEN® doses were those that accelerated neutrophil production. Doses which provided no additional acceleration beyond that achieved at the next lower dose are not reported. |
 | --- | --- | --- | --- | --- | --- | --- |
-| Small Cell |  |  |  |  |  |  |
-| Lung Cancer | Cyclophosphamide | 1 g/m2/day |  | 210 | 3 | 4 – 8 mcg/kg SC |
-|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 – 17 |
-|  | Etoposide | 120 mg/m2/day x 3 |  |  |  |  |
-|  |  | q 21 days |  |  |  |  |
-| Small Cell |  |  |  |  |  |  |
-| Lung Cancer11 | Ifosfamide | 5 g/m2/day |  | 12 | 1/2 | 5.75 – 46 mcg/kg IV |
-|  | Doxorubicin | 50 mg/m2/day |  |  |  | days 4 – 17 |
-|  | Etoposide | 120 mg/m2/day x 3 |  |  |  |  |
-|  | Mesna | 8 g/m2/day |  |  |  |  |
-|  |  | q 21 days |  |  |  |  |
-| Urothelial |  |  |  |  |  |  |
-| Cancer12 | Methotrexate | 30 mg/m2/day x 2 |  | 40 | 1/2 | 3.45 – 69 mcg/kg IV |
-|  | Vinblastine | 3 mg/m2/day x 2 |  |  |  | days 4 – 11 |
-|  | Doxorubicin | 30 mg/m2/day |  |  |  |  |
-|  | Cisplatin | 70 mg/m2/day |  |  |  |  |
-|  |  | q 28 days |  |  |  |  |
-| Various |  |  |  |  |  |  |
-| Nonmyeloid |  |  |  |  |  |  |
-| Malignancies13 | Cyclophosphamide | 2.5 g/m2/day x 2 |  | 18 | 1/2 | 23 – 69 mcg/kgLowest dose(s) tested in the study. IV |
-|  | Etoposide | 500 mg/m2/day x 3 |  |  |  | days 8 – 28 |
-|  | Cisplatin | 50 mg/m2/day x 3 |  |  |  |  |
-|  |  | q 28 days |  |  |  |  |
-| Breast/Ovarian |  |  |  |  |  |  |
-| Cancer14 | DoxorubicinPatients received doxorubicin at either 75‚ 100‚ 125‚ or 150 mg/m2. | 75 mg/m2 |  | 21 | 2 | 11.5 mcg/kg IV |
-|  |  | 100 mg/m2 |  |  |  | days 2 – 9 |
-|  |  | 125 mg/m2 |  |  |  | 5.75 mcg/kg IV |
-|  |  | 150 mg/m2 |  |  |  | days 10 – 12 |
-|  |  | q 14 days |  |  |  |  |
-| Neuroblastoma | Cyclophosphamide | 150 mg/m2 x 7 |  | 12 | 2 | 5.45 – 17.25 mcg/kg SC |
-|  | Doxorubicin | 35 mg/m2 |  |  |  | days 6 – 19 |
-|  | Cisplatin | 90 mg/m2 |  |  |  |  |
-|  |  | q 28 days |  |  |  |  |
-|  |  | (cycles 1‚3‚5)Cycles 2‚6 = cyclophosphamide 150 mg/m2 x 7 and etoposide 280 mg/m2 x 3. Cycle 4 = cisplatin 90 mg/m2 x 1 and etoposide 280 mg/m2 x 3. |  |  |  |  |
+| Small Cell Lung Cancer | Cyclophosphamide | 1 g/m2/day |  | 210 | 3 | 4 – 8 mcg/kg SC days 4 – 17 |
+| Doxorubicin | 50 mg/m2/day |  |  |  |  |  |
+| Etoposide | 120 mg/m2/day x 3 q 21 days |  |  |  |  |  |
+| Small Cell Lung Cancer11 | Ifosfamide | 5 g/m2/day |  | 12 | 1/2 | 5.75 – 46 mcg/kg IV days 4 – 17 |
+| Doxorubicin | 50 mg/m2/day |  |  |  |  |  |
+| Etoposide | 120 mg/m2/day x 3 |  |  |  |  |  |
+| Mesna | 8 g/m2/day q 21 days |  |  |  |  |  |
+| Urothelial Cancer12 | Methotrexate | 30 mg/m2/day x 2 |  | 40 | 1/2 | 3.45 – 69 mcg/kg IV days 4 – 11 |
+| Vinblastine | 3 mg/m2/day x 2 |  |  |  |  |  |
+| Doxorubicin | 30 mg/m2/day |  |  |  |  |  |
+| Cisplatin | 70 mg/m2/day q 28 days |  |  |  |  |  |
+| Various Nonmyeloid Malignancies13 | Cyclophosphamide | 2.5 g/m2/day x 2 |  | 18 | 1/2 | 23 – 69 mcg/kgLowest dose(s) tested in the study. IV days 8 – 28 |
+| Etoposide | 500 mg/m2/day x 3 |  |  |  |  |  |
+| Cisplatin | 50 mg/m2/day x 3 q 28 days |  |  |  |  |  |
+| Breast/Ovarian Cancer14 | DoxorubicinPatients received doxorubicin at either 75‚ 100‚ 125‚ or 150 mg/m2. | 75 mg/m2 |  | 21 | 2 | 11.5 mcg/kg IV days 2 – 9 |
+|  | 100 mg/m2 |  |  |  |  |  |
+|  | 125 mg/m2 |  |  |  | 5.75 mcg/kg IV days 10 – 12 |  |
+|  | 150 mg/m2 q 14 days |  |  |  |  |  |
+| Neuroblastoma | Cyclophosphamide | 150 mg/m2 x 7 |  | 12 | 2 | 5.45 – 17.25 mcg/kg SC days 6 – 19 |
+| Doxorubicin | 35 mg/m2 |  |  |  |  |  |
+| Cisplatin | 90 mg/m2 q 28 days (cycles 1‚3‚5) Cycles 2‚6 = cyclophosphamide 150 mg/m2 x 7 and etoposide 280 mg/m2 x 3. Cycle 4 = cisplatin 90 mg/m2 x 1 and etoposide 280 mg/m2 x 3. |  |  |  |  |  |
 
 ## Patients With Acute Myeloid Leukemia Receiving Induction or Consolidation Chemotherapy
 

@@ -67,7 +67,7 @@ What are possible serious side effects of NEUPOGEN®?
 - Serious Allergic Reactions.
   NEUPOGEN® can cause serious allergic reactions.
   These reactions can cause a rash over the whole body, shortness of breath, wheezing, dizziness, swelling around the mouth or eyes, fast pulse, and sweating.
-  If you or your child starts to have any of these symptoms, stop using NEUPOGEN and call your doctor or seek emergency care right away.
+  If you or your child starts to have any of these symptoms, stop using NEUPOGEN® and call your doctor or seek emergency care right away.
   If you or your child has an allergic reaction during the injection of NEUPOGEN®, stop the injection right away.
 - A serious lung problem called acute respiratory distress syndrome (ARDS).
   Call your doctor or seek emergency care right away if you or your child has shortness of breath, trouble breathing or a fast rate of breathing.

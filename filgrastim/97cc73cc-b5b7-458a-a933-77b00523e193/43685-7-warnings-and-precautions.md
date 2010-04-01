@@ -170,6 +170,9 @@ Reproductive studies in pregnant rats have shown that NEUPOGEN® was not associa
 In Segment III studies in rats‚ offspring of dams treated at > 20 mcg/kg/day exhibited a delay in external differentiation (detachment of auricles and descent of testes) and slight growth retardation‚ possibly due to lower body weight of females during rearing and nursing.
 Offspring of dams treated at 100 mcg/kg/day exhibited decreased body weights at birth‚ and a slightly reduced 4-day survival rate.
 
+Women who become pregnant during Neupogen treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
+Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
+
 ## Nursing Mothers
 
 It is not known whether NEUPOGEN® is excreted in human milk.

@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA103353"
+  ],
   "inn": "filgrastim",
-  "labeler": "Amgen Manufacturing, Limited",
+  "labeler": "AMGEN, INC",
   "package_ndcs": [
     "55513-209-01",
     "55513-209-10",
@@ -12,7 +14,13 @@
     "55513-924-01",
     "55513-924-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "filgrastim",
+      "name": "NEUPOGEN"
+    }
+  ],
   "setid": "97cc73cc-b5b7-458a-a933-77b00523e193",
   "source": "dailymed"
 }

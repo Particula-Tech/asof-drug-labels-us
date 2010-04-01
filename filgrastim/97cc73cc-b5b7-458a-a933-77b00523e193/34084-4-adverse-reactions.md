@@ -14,8 +14,7 @@ Events are reported as exposure-adjusted since patients remained on double-blind
 
 |  | % of Blinded Cycles With Events |  |
 | --- | --- | --- |
-|  | NEUPOGEN® N = 384 Patient Cycles | Placebo N = 257 Patient Cycles |
-| Event |  |  |
+| Event | NEUPOGEN® N = 384 Patient Cycles | Placebo N = 257 Patient Cycles |
 | Nausea/Vomiting | 57 | 64 |
 | Skeletal Pain | 22 | 11 |
 | Alopecia | 18 | 27 |
@@ -101,7 +100,7 @@ Fewer than 6% of patients had thrombocytopenia (< 50‚000/mm3) during NEUPOGEN�
 In most cases‚ thrombocytopenia was managed by NEUPOGEN® dose reduction or interruption.
 An additional 5% of patients had platelet counts between 50‚000 and 100‚000/mm3.
 There were no associated serious hemorrhagic sequelae in these patients.
-Epistaxis was noted in 15% of patients treated with NEUPOGEN®‚ but was associated with thrombocytopenia in 2% of patients.
+Epistaxis was noted in 15% of patients treated with NEUPOGEN®, but was associated with thrombocytopenia in 2% of patients.
 Anemia was reported in approximately 10% of patients‚ but in most cases appeared to be related to frequent diagnostic phlebotomy‚ chronic illness, or concomitant medications.
 Other adverse events infrequently observed and possibly related to NEUPOGEN® therapy were: injection site reaction‚ rash‚ hepatomegaly‚ arthralgia‚ osteoporosis‚ cutaneous vasculitis‚ hematuria/proteinuria‚ alopecia‚ and exacerbation of some pre-existing skin disorders (eg‚ psoriasis).
 
