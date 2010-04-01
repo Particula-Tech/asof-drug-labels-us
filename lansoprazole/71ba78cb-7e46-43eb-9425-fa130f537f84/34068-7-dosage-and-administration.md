@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-PREVACID is available as a capsule, orally disintegrating tablet and oral suspension, and is available in 15 mg and 30 mg strengths.
+PREVACID is available as a capsule and an orally disintegrating tablet, and is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for each of these dosage forms is presented below.
 PREVACID should be taken before eating.
 PREVACID products SHOULD NOT BE CRUSHED OR CHEWED.
@@ -28,7 +28,7 @@ In the clinical trials, antacids were used concomitantly with PREVACID.
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short -Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with PREVACID for 8 weeks (5–10%), it may be helpful to give an additional 8 weeks of treatment. If there is a recurrence of erosive esophagitis, an additional 8 week course of PREVACID may be considered. |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with PREVACID for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment. If there is a recurrence of erosive esophagitis, an additional 8 week course of PREVACID may be considered. |
 | Pediatric |  |  |
 | (1 to 11 years of age) Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
 | ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe PREVACID dose was increased (up to 30 mg twice daily) in some pediatric patients after 2 or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
@@ -42,8 +42,7 @@ In the clinical trials, antacids were used concomitantly with PREVACID.
 ## 2.2 Special Populations
 
 Renal impairment patients and geriatric patients do not require dosage adjustment.
-However, consider dose adjustment in patients with severe liver impairment.
-[See Use in Specific Populations (8.5, 8.6 and 8.7]
+However, consider dose adjustment in patients with severe liver impairment [see Use in Specific Populations (8.5, 8.6 and 8.7)].
 
 ## 2.3 Important Administration Information
 
@@ -63,9 +62,7 @@ PREVACID Delayed-Release Capsules - Oral Administration
   - Swallow immediately.
   - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
-USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
-
-PREVACID Capsules - Nasogastric Tube Administration
+PREVACID Delayed-Release Capsules - Nasogastric Tube (≥16 French) Administration
 
 - For patients who have a nasogastric tube in place, PREVACID Delayed-Release Capsules can be administered as follows:
   - Open capsule.
@@ -74,13 +71,16 @@ PREVACID Capsules - Nasogastric Tube Administration
   - Inject through the nasogastric tube into the stomach.
   - Flush with additional apple juice to clear the tube.
 
+USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
+
 PREVACID SoluTab™ Delayed-Release Orally Disintegrating Tablets
 
+- PREVACID SoluTab should not be broken or cut.
 - PREVACID SoluTab should not be chewed.
   - Place the tablet on the tongue and allow it to disintegrate, with or without water, until the particles can be swallowed.
   - The tablet typically disintegrates in less than 1 minute.
   - Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be delivered in two different ways.
-    PREVACID SoluTab – Oral Syringe For administration via oral syringe, PREVACID SoluTab can be administered as follows: PREVACID SoluTab – Nasogastric Tube Administration (≥ 8 French) For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
+    PREVACID SoluTab – Oral Syringe For administration via oral syringe, PREVACID SoluTab can be administered as follows: PREVACID SoluTab – Nasogastric Tube (≥ 8 French) Administration For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
     - Place a 15 mg tablet in oral syringe and draw up approximately 4 mL of water, or place a 30 mg tablet in oral syringe and draw up approximately 10 mL of water.
     - Shake gently to allow for a quick dispersal.
     - After the tablet has dispersed, administer the contents within 15 minutes.
@@ -89,13 +89,3 @@ PREVACID SoluTab™ Delayed-Release Orally Disintegrating Tablets
     - Shake gently to allow for a quick dispersal.
     - After the tablet has dispersed, inject through the nasogastric tube into the stomach within 15 minutes.
     - Refill the syringe with approximately 5 mL of water, shake gently, and flush the nasogastric tube.
-
-PREVACID for Delayed-Release Oral Suspension
-
-- PREVACID for Delayed-Release Oral Suspension should be administered as follows:
-  - Open packet.
-  - To prepare a dose, empty the packet contents into a container containing 2 tablespoons of WATER.
-    DO NOT USE OTHER LIQUIDS OR FOODS.
-  - Stir well, and drink immediately.
-  - If any material remains after drinking, add more water, stir, and drink immediately.
-  - This product should not be given through enteral administration tubes.

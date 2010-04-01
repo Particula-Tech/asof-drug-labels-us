@@ -1,20 +1,34 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020406",
+    "NDA021428"
+  ],
   "inn": "lansoprazole",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
     "64764-046-11",
     "64764-046-13",
     "64764-046-19",
-    "64764-309-30",
-    "64764-311-30",
     "64764-541-11",
     "64764-541-19",
     "64764-541-30",
     "64764-543-11",
-    "64764-544-11"
+    "64764-543-30",
+    "64764-544-11",
+    "64764-544-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Prevacid"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Prevacid"
+    }
+  ],
   "setid": "71ba78cb-7e46-43eb-9425-fa130f537f84",
   "source": "dailymed"
 }
