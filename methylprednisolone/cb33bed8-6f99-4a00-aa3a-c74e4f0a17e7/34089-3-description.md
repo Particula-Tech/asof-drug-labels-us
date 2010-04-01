@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-DEPO-MEDROL is an anti-inflammatory glucocorticoid for intramuscular, intra-articular, soft tissue or intralesional injection.
+DEPO-MEDROL is an anti-inflammatory glucocorticoid for intramuscular, intra-articular, soft tissue, or intralesional injection.
 It is available in three strengths: 20 mg/mL; 40 mg/mL; 80 mg/mL.
 
 Each mL of these preparations contains:
@@ -24,5 +24,5 @@ The structural formula is represented below:
 
 DEPO-MEDROL Sterile Aqueous Suspension contains methylprednisolone acetate which is the 6-methyl derivative of prednisolone.
 Methylprednisolone acetate is a white or practically white, odorless, crystalline powder which melts at about 215° with some decomposition.
-It is soluble in dioxane, sparingly soluble in acetone, in alcohol, in chloroform, and in methanol, and slightly soluble in ether.
+It is soluble in dioxane, sparingly soluble in acetone, alcohol, chloroform, and methanol, and slightly soluble in ether.
 It is practically insoluble in water.

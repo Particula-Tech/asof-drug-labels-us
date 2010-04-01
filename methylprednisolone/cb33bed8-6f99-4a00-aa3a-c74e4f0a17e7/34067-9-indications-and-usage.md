@@ -8,9 +8,9 @@ Allergic States: Control of severe or incapacitating allergic conditions intract
 
 Dermatologic Diseases: Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus, severe erythema multiforme (Stevens-Johnson syndrome).
 
-Endocrine Disorders: Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance) congenital adrenal hyperplasia, hypercalcemia associated with cancer, nonsuppurative thyroiditis.
+Endocrine Disorders: Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance), congenital adrenal hyperplasia, hypercalcemia associated with cancer, nonsuppurative thyroiditis.
 
-Gastrointestinal Diseases: To tide the patient over a critical period of the disease in regional enteritis (systemic therapy), ulcerative colitis
+Gastrointestinal Diseases: To tide the patient over a critical period of the disease in regional enteritis (systemic therapy), ulcerative colitis.
 
 Hematologic Disorders: Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond blackfan anemia), pure red cell aplasia, select cases of secondary thrombocytopenia.
 
@@ -21,7 +21,7 @@ Neoplastic Diseases: For palliative management of leukemias and lymphomas.
 Nervous System: Acute exacerbations of multiple sclerosis.
 Cerebral edema associated with primary or metastatic brain tumor or craniotomy.
 
-Ophthalmic Diseases: Sympathetic ophthalmia, temporal arteritis, Uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids.
+Ophthalmic Diseases: Sympathetic ophthalmia, temporal arteritis, uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids.
 
 Renal Diseases: To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome, or that due to lupus erythematosus.
 
@@ -34,7 +34,7 @@ For the treatment of dermatomyositis, polymyositis, and systemic lupus erythemat
 
 (See WARNINGS)
 
-DEPO-MEDROL is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis
+DEPO-MEDROL is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis.
 
 ## C. FOR INTRALESIONAL ADMINISTRATION
 

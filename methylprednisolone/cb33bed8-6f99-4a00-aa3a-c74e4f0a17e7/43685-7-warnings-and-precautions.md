@@ -8,13 +8,13 @@ There have been rare reports of deaths, primarily in preterm infants, associated
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is not known.
-If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS: Pediatric Use).
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use).
 
 Multidose use of DEPO-MEDROL Sterile Aqueous Suspension from a single vial requires special care to avoid contamination.
 Although initially sterile, any multidose use of vials may lead to contamination unless strict aseptic technique is observed.
 Particular care, such as use of disposable sterile syringes and needles is necessary.
 
-Injection of Depo-Medrol may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
+Injection of DEPO-MEDROL may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
 
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
 Multiple small injections into the area of the lesion should be made whenever possible.
@@ -25,7 +25,7 @@ It is critical that, during administration of DEPO-MEDROL, appropriate technique
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy.
 
-Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, or after the stressful situation.
+Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, or after the stressful situation (see ADVERSE REACTIONS).
 
 Results from one multicenter, randomized, placebo controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including DEPO-MEDROL, should not be used for the treatment of traumatic brain injury.
@@ -41,8 +41,7 @@ Literature reports suggest an apparent association between the use of corticoste
 
 ## Endocrine
 
-Hypothalamic-pituitary adrenal (HPA) axis suppression.
-Cushing's syndrome, and hyperglycemia.
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
 Monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
@@ -60,21 +59,21 @@ Infections with any pathogen (viral, fungal, protozoan, or helminthic), in any l
 These infections may be mild, but can be severe and at times fatal.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may mask some signs of current infection.
-Do not use intra-articularly, intrabursally or for intratendinous administration for local effect in the presence of acute local infection.
+Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of acute local infection.
 
 ### Fungal Infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injections and potassium depleting agents).
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
-### Special pathogens
+### Special Pathogens
 
 Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Taxoplasma.
 
 It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
 
 Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
-In such patients, corticosteroid-induced immunosuppression may lead to Stronglyoides hyperinfection and dissemination with wide-spread larval migration, often accompanied by severe entercolitis and potentially fatal gram-negative septicemia.
+In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe entercolitis and potentially fatal gram-negative septicemia.
 
 Corticosteroids should not be used in cerebral malaria.
 There is currently no evidence of benefit from steroids in this condition.
@@ -91,7 +90,7 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines can not be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids, as replacement therapy, e.g. for Addison's disease.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
 ### Viral Infections
 
@@ -105,9 +104,9 @@ If chicken pox develops, treatment with antiviral agents should be considered.
 
 ## Ophthalmic
 
-Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi or viruses.
+Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
 The use of systemic corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
-Corticosteroids should be used cautiously in patients with active ocular herpes simplex because of corneal perforation.
+Corticosteroids should be used cautiously in patients with ocular herpes simplex because of corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
 
 # PRECAUTIONS
@@ -144,7 +143,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ### Gastrointestinal
 
-Steroids should be used in caution in active or latent peptic ulcer, diverticulitis, fresh intestinal anastomoses, and non-specific ulcerative colitis, since they may increase the risk of a perforation.
+Steroids should be used with caution in active or latent peptic ulcer, diverticulitis, fresh intestinal anastomoses, and non-specific ulcerative colitis, since they may increase the risk of a perforation.
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
@@ -156,7 +155,7 @@ Intra-articular injected corticosteroids may be systemically absorbed.
 
 Appropriate examination of any joint fluid is necessary to exclude a septic process.
 
-A marked increase in pain associated by local swelling, further restriction of joint motion, fever, malaise are suggestive of septic arthritis.
+A marked increase in pain associated by local swelling, further restriction of joint motion, fever, and malaise are suggestive of septic arthritis.
 If this complication occurs and the diagnosis of sepsis is confirmed, appropriate antimicrobial therapy should be instituted.
 
 Injection of a steroid into an infected site is to be avoided.
@@ -165,7 +164,8 @@ Local injection of a steroid into a previously infected joint is not usually rec
 ### Musculoskeletal
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (e.g., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
-This, together with a decrease in protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age (e.g., postmenopausal women) before initiating corticosteroid therapy.
+This, together with a decrease in protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
+Special consideration should be given to increased risk of osteoporosis (e.g., postmenopausal women) before initiating corticosteroid therapy.
 
 ### Neuro-psychiatric
 
@@ -174,7 +174,7 @@ The studies do show that relatively high doses of corticosteroids are necessary 
 (See DOSAGE AND ADMINISTRATION.)
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
-This acute myopathy is generalized, may involve ocular and respiratory muscles, and may results in quadriparesis.
+This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
 Elevation of creatine kinase may occur.
 Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
 
@@ -190,25 +190,25 @@ Corticosteroids should be used cautiously in patients with ocular herpes simplex
 
 ## Information for the Patient
 
-Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
+Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 ### Aminoglutethimide
 
 Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 
-### Amphotericin B injection and potassium- depleting agents
+### Amphotericin B injection and potassium-depleting agents
 
 When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 ### Antibiotics
 
-Macrolide antibiotics have been reported to cause significant decrease in corticosteroid clearance (see DRUG INTERACTIONS, Hepatic Enzyme Inhibitors).
+Macrolide antibiotics have been reported to cause significant decrease in corticosteroid clearance (see Drug Interactions, Hepatic Enzyme Inhibitors).
 
 ### Anticholinesterases
 
@@ -243,7 +243,7 @@ Patients on digitalis glycosides may be at increased risk of arrhythmias due to 
 
 ### Estrogens, including oral contraceptives
 
-Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect
+Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
 ### Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin)
 
@@ -259,7 +259,7 @@ Ketoconazole has been reported to significantly decrease the metabolism of certa
 
 ### Non-steroidal anti-inflammatory agents (NSAIDs)
 
-Concomitant use of aspirin (or other non-steroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side-effects.
+Concomitant use of aspirin (or other non-steroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with concurrent use of corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 
@@ -285,7 +285,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 #### Pregnancy Category C
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to human dose.
-Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits, have yielded an increase incidence of cleft palate in the off-spring.
+Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits, have yielded an increased incidence of cleft palate in the offspring.
 There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
@@ -299,7 +299,7 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 This product contains benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The "gasping syndrome", (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
+The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.

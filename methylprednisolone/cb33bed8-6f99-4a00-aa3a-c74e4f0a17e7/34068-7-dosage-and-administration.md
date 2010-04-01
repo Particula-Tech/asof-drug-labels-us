@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use).
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 Because of possible physical incompatibilities, DEPO-MEDROL Sterile Aqueous Suspension should not be diluted or mixed with other solutions.
 
@@ -33,7 +33,7 @@ The doses in the following table are given as a general guide:
 #### Procedure
 
 It is recommended that the anatomy of the joint involved be reviewed before attempting intra-articular injection.
-In order to obtain the full anti-inflammatory effect it is important that the injection be made into the synovial space.
+In order to obtain the full anti-inflammatory effect, it is important that the injection be made into the synovial space.
 Employing the same sterile technique as for a lumbar puncture, a sterile 20 to 24 gauge needle (on a dry syringe) is quickly inserted into the synovial cavity.
 Procaine infiltration is elective.
 The aspiration of only a few drops of joint fluid proves the joint space has been entered by the needle.
@@ -95,16 +95,16 @@ In patients with the adrenogenital syndrome, a single intramuscular injection of
 For maintenance of patients with rheumatoid arthritis, the weekly intramuscular dose will vary from 40 to 120 mg.
 The usual dosage for patients with dermatologic lesions benefited by systemic corticoid therapy is 40 to 120 mg of methylprednisolone acetate administered intramuscularly at weekly intervals for one to four weeks.
 In acute severe dermatitis due to poison ivy, relief may result within 8 to 12 hours following intramuscular administration of a single dose of 80 to 120 mg.
-In chronic contact dermatitis repeated injections at 5 to 10 day intervals may be necessary.
+In chronic contact dermatitis, repeated injections at 5 to 10 day intervals may be necessary.
 In seborrheic dermatitis, a weekly dose of 80 mg may be adequate to control the condition.
 
 Following intramuscular administration of 80 to 120 mg to asthmatic patients, relief may result within 6 to 48 hours and persist for several days to two weeks.
-Similarly in patients with allergic rhinitis (hay fever) an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
+Similarly in patients with allergic rhinitis (hay fever), an intramuscular dose of 80 to 120 mg may be followed by relief of coryzal symptoms within six hours persisting for several days to three weeks.
 
 If signs of stress are associated with the condition being treated, the dosage of the suspension should be increased.
 If a rapid hormonal effect of maximum intensity is required, the intravenous administration of highly soluble methylprednisolone sodium succinate is indicated.
 
-In treatment of acute exacerbations of multiple sclerosis daily doses of 160 mg of methylprednisolone for a week followed by 64 mg every other day for 1 month have been shown to be effective.
+In treatment of acute exacerbations of multiple sclerosis, daily doses of 160 mg of methylprednisolone for a week followed by 64 mg every other day for 1 month have been shown to be effective.
 
 For the purpose of comparison, the following is the equivalent milligram dose of the various glucocorticoids:
 
@@ -115,5 +115,5 @@ For the purpose of comparison, the following is the equivalent milligram dose of
 | Prednisone, 5 | Dexamethasone, 0.75 |
 | Methylprednisolone, 4 |  |
 
-Those dose relationships apply only to oral or intravenous administration of these compounds.
+These dose relationships apply only to oral or intravenous administration of these compounds.
 When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.

@@ -1,7 +1,3 @@
-NOT FOR USE IN NEONATES CONTAINS BENZYL ALCOHOL
-
-Not For Intravenous Use
-
 Rx only
 
-LAB-0159-3.0 April 2009
+LAB-0159-4.0 July 2009
