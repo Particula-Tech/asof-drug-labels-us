@@ -63,7 +63,7 @@ Varying degrees of hepatic and renal insufficiency do not affect the protein bin
 
 ## Metabolism
 
-In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 (see CLINICAL PHARMACOLOGY - Drug Interactions).
+In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 (see CLINICAL PHARMACOLOGY - ctions).
 
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
 This enzyme exhibits genetic polymorphism.
@@ -223,6 +223,16 @@ An increase in the incidence of delayed and persistent alfentanil-associated nau
 Reduction in the dose of alfentanil or other opiates that are also metabolized by CYP3A4 (e.g., sufentanil), and extended close monitoring of patients for respiratory and other opiate-associated adverse events, may be necessary when any of these opiates is coadministered with voriconazole.
 (see PRECAUTIONS – Drug Interactions).
 
+Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg Q12h on Day 1, then 200 mg Q12h on Day 2) with a single intravenous dose of fentanyl (5 µg/kg) resulted in an increase in the mean AUC 0–∞ of fentanyl by 1.4-fold (range 1.12-1.60-fold).
+When voriconazole is co-administered with fentanyl IV, oral or transdermal dosage forms, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted.
+(see PRECAUTIONS – Drug Interactions).
+
+Oxycodone (CYP3A4 substrate): In an independent published study, coadministration of multiple doses of oral voriconazole (400 mg Q12h, on Day 1 followed by five doses of 200 mg Q12h on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean Cmax and AUC0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively.
+The mean elimination half-life of oxycodone was also increased by 2.0-fold (range 1.4- to 2.5-fold).
+A reduction in oxycodone dosage may be needed during voriconazole treatment to avoid opioid related adverse effects.
+Extended and frequent monitoring for adverse effects associated with oxycodone and other long-acting opiates metabolized by CYP3A4 is recommended.
+(see PRECAUTIONS - Drug Interactions).
+
 Cyclosporine (CYP3A4 substrate): In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg Q12h for 8 days) increased cyclosporine Cmax and AUCτ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2.0), respectively, as compared to when cyclosporine was administered without voriconazole.
 When initiating therapy with voriconazole in patients already receiving cyclosporine, it is recommended that the cyclosporine dose be reduced to one-half of the original dose and followed with frequent monitoring of the cyclosporine blood levels.
 Increased cyclosporine levels have been associated with nephrotoxicity.
@@ -264,6 +274,13 @@ Frequent monitoring of blood glucose and appropriate adjustment (i.e., reduction
 
 Vinca Alkaloids (CYP3A4 substrates): Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity.
 Therefore, it is recommended that dose adjustment of the vinca alkaloid be considered.
+
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs; CYP2C9 substrates): In two independent published studies, single doses of ibuprofen (400 mg) and diclofenac (50 mg) were coadministered with the last dose of voriconazole (400 mg Q12h on Day 1, followed by 200 mg Q12h on Day 2).
+Voriconazole increased the mean Cmax and AUC of the pharmacologically active isomer, S (+)-ibuprofen by 20% and 100%, respectively.
+Voriconazole increased the mean Cmax and AUC of diclofenac by 114% and 78%, respectively.
+A reduction in ibuprofen and diclofenac dosage may be needed during concomitant administration with voriconazole.
+Patients receiving voriconazole concomitantly with other NSAIDs (e.g.. celecoxib, naproxen, lornoxicam, meloxicam) that are also metabolized by CYP2C9 should be carefully monitored for NSAID-related adverse events and toxicity, and dosage reduction should be made if warranted.
+(see PRECAUTIONS - Drug Interactions).
 
 No significant pharmacokinetic interactions were observed when voriconazole was coadministered with the following agents.
 Therefore, no dosage adjustment for these agents is recommended:
@@ -313,7 +330,7 @@ When initiating voriconazole in patients already receiving omeprazole doses of 4
 The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of these drugs.
 
 Oral Contraceptives (CYP3A4 substrate; CYP2C19 inhibitor): Coadministration of oral voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 3 days) and oral contraceptive (Ortho-Novum1/35® consisting of 35 mcg ethinyl estradiol and 1 mg norethindrone, Q24h) to healthy female subjects at steady state increased the Cmax and AUCτ of ethinyl estradiol by an average of 36% (90% CI: 28%, 45%) and 61% (90% CI: 50%, 72%), respectively, and that of norethindrone by 15% (90% CI: 3%, 28%) and 53% (90% CI: 44%, 63%), respectively in healthy subjects.
-Voriconazole Cmax and AUCτ increased by an average of 14% (90% CI: 3%, 27%) and 46% (90% CI: 32%, 61%), respectively.
+Voriconazole Cmax and AUCτ increased by an average of 14% (90% CI: 3%, 27%)and 46% (90% CI: 32%, 61%), respectively.
 Monitoring for adverse events related to oral contraceptives, in addition to those for voriconazole, is recommended during coadministration (see PRECAUTIONS - Drug Interactions).
 
 No significant pharmacokinetic interaction was seen and no dosage adjustment of these drugs is recommended:

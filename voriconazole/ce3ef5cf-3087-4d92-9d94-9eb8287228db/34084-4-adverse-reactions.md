@@ -23,7 +23,7 @@ Table 13 Treatment Emergent Adverse Events
 
 | Special SensesSee WARNINGS – Visual Disturbances, PRECAUTIONS – Information for Patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305. Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis |  |  |  |  |  |  |
+| Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305. Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis |  |  |  |  |  |  |
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
 | Voriconazole N = 1655 | Voriconazole N = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N= 131 | Voriconazole N = 200 | Fluconazole N =191 |  |
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -65,7 +65,7 @@ The visual disturbances were generally mild and rarely resulted in discontinuati
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events (see WARNINGS).
+These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which could have contributed to these events (see WARNINGS).
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.

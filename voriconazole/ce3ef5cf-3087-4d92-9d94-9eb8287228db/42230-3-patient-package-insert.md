@@ -1,4 +1,4 @@
-## PATIENT INFORMATION VFEND ® (VEE-fend) (voriconazole IV injection, tablets, liquid)
+# PATIENT INFORMATION VFEND ® (VEE-fend) (voriconazole IV injection, tablets, liquid)
 
 Read the Patient Information that comes with VFEND before you start taking it and each time you get a refill.
 There may be new information.
@@ -171,4 +171,4 @@ Rx Only
 
 Trademarks are the property of their respective owners.
 
-LAB-0311-5.0 March 2008
+LAB-0311-6.0 December 2009

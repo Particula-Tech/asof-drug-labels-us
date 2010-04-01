@@ -1,5 +1,5 @@
 Rx only
 
-LAB-0271-22.0
+LAB-0271-24.0
 
-May 2008
+December 2009
