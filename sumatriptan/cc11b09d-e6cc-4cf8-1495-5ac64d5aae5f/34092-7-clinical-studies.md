@@ -23,28 +23,28 @@ Percentage of Patients With Headache Response (No or Mild Pain) 2 Hours Followin
 
 |  | Placebo | IMITREX Nasal Spray5 mg | IMITREX Nasal Spray10 mg | IMITREX Nasal Spray20 mg |
 | --- | --- | --- | --- | --- |
-| Study 1 | 25% | 49%* | 46%* | 64%*†‡ |
+| Study 1 | 25% | 49%a | 46%a | 64%abc |
 |  | (n = 63) | (n = 121) | (n = 112) | (n = 118) |
-| Study 2 | 25% | Not applicable | 44%* | 55%*† |
+| Study 2 | 25% | Not applicable | 44%a | 55%ab |
 |  | (n = 138) |  | (n = 273) | (n = 277) |
-| Study 3 | 35% | Not applicable | 54%* | 63%* |
+| Study 3 | 35% | Not applicable | 54%a | 63%a |
 |  | (n = 100) |  | (n = 106) | (n = 202) |
-| Study 4 | 29% | Not applicable | 43% | 62%*† |
+| Study 4 | 29% | Not applicable | 43% | 62%ab |
 |  | (n = 112) |  | (n = 106) | (n = 215) |
-| Study 5§ | 36% | 45%* | 53%* | 60%*‡ |
+| Study 5d | 36% | 45%* | 53%a | 60%ac |
 |  | (n = 198) | (n = 296) | (n = 291) | (n = 286) |
 
-*p<0.05 in comparison with placebo.
+ap<0.05 in comparison with placebo.
 
-†p<0.05 in comparison with 10 mg.
+bp<0.05 in comparison with 10 mg.
 
-‡p<0.05 in comparison with 5 mg.
+cp<0.05 in comparison with 5 mg.
 
-§Data are for attack 1 only of multiattack study for comparison.
+dData are for attack 1 only of multiattack study for comparison.
 
 The estimated probability of achieving an initial headache response over the 2 hours following treatment is depicted in Figure 1.
 
-*The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with intranasal sumatriptan.
+aThe figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with intranasal sumatriptan.
 The averages displayed are based on pooled data from the 5 clinical controlled trials providing evidence of efficacy.
 Kaplan-Meier plot with patients not achieving response within 120 minutes censored to 120 minutes.
 
@@ -53,7 +53,7 @@ For patients with migraine-associated nausea, photophobia, and phonophobia at ba
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-*Kaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+aKaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
 Plot also includes patients who had no response to the initial dose.
 No remedication was allowed within 2 hours postdose.
 

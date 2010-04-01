@@ -15,8 +15,8 @@ In the cat, sumatriptan selectively constricts the carotid arteriovenous anastom
 ## Pharmacokinetics
 
 In a study of 20 female volunteers, the mean maximum concentration following a 5- and 20-mg intranasal dose was 5 and 16 ng/mL, respectively.
-The mean Cmax following a 6-mg subcutaneous injection is 71 ng/mL (range, 49 to 110 ng/mL).
-The mean Cmax is 18 ng/mL (range, 7 to 47 ng/mL) following oral dosing with 25 mg and 51 ng/mL (range, 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
+The mean Cmax following a 6-mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
+The mean Cmax is 18 ng/mL (range: 7 to 47 ng/mL) following oral dosing with 25 mg and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
 In a study of 24 male volunteers, the bioavailability relative to subcutaneous injection was low, approximately 17%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 
 Protein binding, determined by equilibrium dialysis over the concentration range of 10 to 1,000 ng/mL, is low, approximately 14% to 21%.
@@ -46,7 +46,7 @@ The swallowed intranasal dose is small, however, compared to the usual oral dose
 
 ### Age
 
-The pharmacokinetics of oral sumatriptan in the elderly (mean age, 72 years; 2 males and 4 females) and in patients with migraine (mean age, 38 years; 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years).
+The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 Intranasal sumatriptan has not been evaluated for age differences (see PRECAUTIONS: Geriatric Use).
 
 ### Race
