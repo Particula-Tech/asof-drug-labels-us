@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020757"
+  ],
   "inn": "irbesartan",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Bristol-Myers Squibb Company",
   "package_ndcs": [
     "0087-2771-31",
     "0087-2771-32",
@@ -9,11 +11,19 @@
     "0087-2772-31",
     "0087-2772-32",
     "0087-2772-35",
+    "0087-2772-94",
     "0087-2773-15",
     "0087-2773-31",
-    "0087-2773-32"
+    "0087-2773-32",
+    "0087-2773-94"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "AVAPRO"
+    }
+  ],
   "setid": "b7f1a9ef-c7bb-465c-e4d7-a41395205cad",
   "source": "dailymed"
 }

@@ -43,7 +43,7 @@ There was no induction or inhibition of 3A4.
 
 ## Distribution
 
-Irbesartan is 90% bound to serum proteins (primarily albumin andα1-acid glycoprotein) with negligible binding to cellular components of blood.
+Irbesartan is 90% bound to serum proteins (primarily albumin and α1-acid glycoprotein) with negligible binding to cellular components of blood.
 The average volume of distribution is 53 liters to 93 liters.
 Total plasma and renal clearances are in the range of 157 mL/min to 176 mL/min and 3.0 mL/min to 3.5 mL/min, respectively.
 With repetitive dosing, irbesartan accumulates to no clinically relevant extent.
