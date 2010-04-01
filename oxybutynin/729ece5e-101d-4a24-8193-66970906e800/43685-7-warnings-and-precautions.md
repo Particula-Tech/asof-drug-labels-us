@@ -61,7 +61,9 @@ Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and 
 
 ## Pregnancy
 
-Category B. Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus.
+### Category B
+
+Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus.
 The safety of DITROPAN administered to women who are or who may become pregnant has not been established.
 Therefore, DITROPAN should not be given to pregnant women unless, in the judgment of the physician, the probable clinical benefits outweigh the possible hazards.
 
@@ -74,7 +76,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The safety and efficacy of DITROPAN administration have been demonstrated for pediatric patients 5 years of age and older (see DOSAGE AND ADMINISTRATION).
 
-The safety and efficacy of DITROPAN Tablets and DITROPAN Syrup were studied in 30 and in 26 children, respectively, in a 24-week, open-label trial.
+The safety and efficacy of DITROPAN Tablets were studied in 30 children in a 24-week, open-label trial.
 Patients were aged 5–15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
 Study results demonstrated that the administration of DITROPAN was associated with improvement in clinical and urodynamic parameters.
 
@@ -82,13 +84,9 @@ At total daily doses ranging from 5 mg to 15 mg, treatment with DITROPAN Tablets
 Urodynamic results in these patients were consistent with the clinical results.
 Treatment with DITROPAN Tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H20 to 33 cm H20, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H20) from 39% to 20%.
 
-At total daily doses ranging from 5 mg to 30 mg, treatment with DITROPAN Syrup was associated with an increase from baseline in mean urine volume per catheterization from 113 mL to 133 mL, an increase from baseline in mean urine volume after morning awakening from 143 mL to 165 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 63%.
-Urodynamic results were consistent with these clinical results.
-Treatment with DITROPAN Syrup was associated with an increase from baseline in maximum cystometric capacity from 192 mL to 294 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 46 cm H20 to 37 cm H20, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H20) from 67% to 28%.
-
 As there is insufficient clinical data for pediatric populations under age 5, DITROPAN is not recommended for this age group.
 
 ## Geriatric Use
 
 Clinical studies of DITROPAN did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2–3 hours to 5 hours.2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2–3 hours to 5 hours.2, 3, 4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

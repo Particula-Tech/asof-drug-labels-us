@@ -1,12 +1,19 @@
 {
-  "application_numbers": [],
-  "inn": "oxybutynin",
-  "labeler": "Ortho-McNeil Pharmaceutical, Inc.",
-  "package_ndcs": [
-    "17314-9200-1",
-    "17314-9201-4"
+  "application_numbers": [
+    "NDA017577"
   ],
-  "products": [],
+  "inn": "oxybutynin",
+  "labeler": "Ortho-McNeil-Janssen-Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "17314-9200-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxybutynin chloride",
+      "name": "Ditropan"
+    }
+  ],
   "setid": "729ece5e-101d-4a24-8193-66970906e800",
   "source": "dailymed"
 }

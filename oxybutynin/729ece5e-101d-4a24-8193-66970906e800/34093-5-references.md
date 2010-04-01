@@ -10,5 +10,15 @@
    J. Urol.
    1988; 140: 47–50.
 4. Yarker Y et al. Oxybutynin: A review of its Pharmacodynamic and Pharmacokinetic Properties, and its Therapeutic Use in Detrusor Instability.
-   Drugs& Aging.
+   Drugs & Aging.
    1995; 6(3): 243–262.
+
+Manufactured by sanofi-aventis U.S. LLC, Kansas City, MO 64137.
+
+Marketed by Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869
+
+(OMP Logo)
+
+Revised July 2009
+
+633-20-616-4
