@@ -59,7 +59,12 @@ If skin reactions are severe or progressive, TREANDA should be withheld or disco
 There are reports of pre-malignant and malignant diseases that have developed in patients who have been treated with TREANDA, including myelodysplastic syndrome, myeloproliferative disorders, acute myeloid leukemia and bronchial carcinoma.
 The association with TREANDA therapy has not been determined.
 
-## 5.7 Use in Pregnancy
+## 5.7 Extravasation
+
+There are postmarketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
+Precautions should be taken to avoid extravasation, including monitoring of the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
+
+## 5.8 Use in Pregnancy
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.

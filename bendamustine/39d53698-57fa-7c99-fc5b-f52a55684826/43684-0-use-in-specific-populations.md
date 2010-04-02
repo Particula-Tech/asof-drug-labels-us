@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions (5.7)]
+Pregnancy Category D [See Warnings and Precautions (5.8)]
 
 TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine from 210 mg/m2 (70 mg/kg) in mice administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations (exencephaly, cleft palates, accessory rib, and spinal deformities) and decreased fetal body weights.

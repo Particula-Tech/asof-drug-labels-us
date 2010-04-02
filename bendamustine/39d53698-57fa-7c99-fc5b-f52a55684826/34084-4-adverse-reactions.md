@@ -171,7 +171,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
-Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
+Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
 
 Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies
 
