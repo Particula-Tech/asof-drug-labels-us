@@ -26,20 +26,20 @@ Percentage of Patients With Headache Response (No or Mild Pain) 2 and 4 Hours Fo
 
 |  | Placebo2 hr 4 hr | IMITREX Tablets25 mg2 hr 4 hr | IMITREX Tablets50 mg2 hr 4 hr | IMITREX Tablets100 mg2 hr 4 hr |
 | --- | --- | --- | --- | --- |
-| Study 1 | 27% 38% | 52%* 67%* | 61%*† 78%*† | 62%*† 79%*† |
+| Study 1 | 27% 38% | 52%a 67%a | 61%ab 78%ab | 62%ab 79%ab |
 |  | (N = 94) | (N = 298) | (N = 296) | (N = 296) |
-| Study 2 | 26% 38% | 52%* 70%* | 50%* 68%* | 56%* 71%* |
+| Study 2 | 26% 38% | 52%a 70%a | 50%a 68%a | 56%a 71%a |
 |  | (N = 65) | (N = 66) | (N = 62) | (N = 66) |
-| Study 3 | 17% 19% | 52%* 65%* | 54%* 72%* | 57%* 78%* |
+| Study 3 | 17% 19% | 52%a 65%a | 54%a 72%a | 57%a 78%a |
 |  | (N = 47) | (N = 48) | (N = 46) | (N = 46) |
 
-*p<0.05 in comparison with placebo.
+ap<0.05 in comparison with placebo.
 
-†p<0.05 in comparison with 25 mg.
+bp<0.05 in comparison with 25 mg.
 
 The estimated probability of achieving an initial headache response over the 4 hours following treatment is depicted in Figure 1.
 
-*The figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with sumatriptan.
+aThe figure shows the probability over time of obtaining headache response (no or mild pain) following treatment with sumatriptan.
 The averages displayed are based on pooled data from the 3 clinical controlled trials providing evidence of efficacy.
 Kaplan-Meier plot with patients not achieving response and/or taking rescue within 240 minutes censored to 240 minutes.
 
@@ -48,7 +48,7 @@ For patients with migraine-associated nausea, photophobia, and/or phonophobia at
 As early as 2 hours in Studies 2 and 3 or 4 hours in Study 1, through 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain relief in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-*Kaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+aKaplan-Meier plot based on data obtained in the 3 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
 Plot also includes patients who had no response to the initial dose.
 No remedication was allowed within 2 hours postdose.
 

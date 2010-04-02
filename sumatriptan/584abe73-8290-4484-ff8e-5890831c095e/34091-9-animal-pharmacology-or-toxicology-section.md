@@ -8,3 +8,17 @@ Defects in the corneal epithelium were noted in a 60-week study.
 Earlier examinations for these toxicities were not conducted and no-effect doses were not established; however, the relative exposure at the lowest dose tested was approximately 5 times the human exposure after a 100-mg oral dose.
 There is evidence of alterations in corneal appearance on the first day of intranasal dosing to dogs.
 Changes were noted at the lowest dose tested, which was approximately one half the maximum single human oral dose of 100 mg on a mg/m2 basis.
+
+This product's prescribing information may have been updated.
+Please refer to www.gsk.com for the most current version.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2010, GlaxoSmithKline.
+All rights reserved.
+
+February 2010
+
+IMT:2PI

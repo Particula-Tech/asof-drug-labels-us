@@ -14,7 +14,7 @@ The events cited reflect experience gained under closely monitored conditions of
 In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
 
 Table 2.
-Treatment Emergent Adverse Events Reported by at Least 2% of Patients in Controlled Migraine Trials*
+Treatment Emergent Adverse Events Reported by at Least 2% of Patients in Controlled Migraine Trialsa
 
 | Adverse Event Type | Percent of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Treatment Emergent Adverse Events Reported by at Least 2% of Patients in Control
 | Other |  |  |  |  |
 | Malaise/fatigue | <1% | 2% | 2% | 3% |
 
-*Events that occurred at a frequency of 2% or more in the group treated with IMITREX Tablets and that occurred more frequently in that group than the placebo group.
+aEvents that occurred at a frequency of 2% or more in the group treated with IMITREX Tablets and that occurred more frequently in that group than the placebo group.
 
 Other events that occurred in more than 1% of patients receiving IMITREX Tablets and at least as often on placebo included nausea and/or vomiting, migraine, headache, hyposalivation, dizziness, and drowsiness/sleepiness.
 

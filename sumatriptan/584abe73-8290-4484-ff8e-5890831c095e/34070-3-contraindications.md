@@ -2,7 +2,7 @@
 
 IMITREX Tablets should not be given to patients with history, symptoms, or signs of ischemic cardiac, cerebrovascular, or peripheral vascular syndromes.
 In addition, patients with other significant underlying cardiovascular diseases should not receive IMITREX Tablets.
-Ischemic cardiac syndromes include, but are not limited to, angina pectoris of any type (e.g., stable angina of effort and vasospastic forms of angina such as the Prinzmetal variant), all forms of myocardial infarction, and silent myocardial ischemia.
+Ischemic cardiac syndromes include, but are not limited to, angina pectoris of any type (e.g., stable angina of effort, vasospastic forms of angina such as the Prinzmetal variant), all forms of myocardial infarction, and silent myocardial ischemia.
 Cerebrovascular syndromes include, but are not limited to, strokes of any type as well as transient ischemic attacks.
 Peripheral vascular disease includes, but is not limited to, ischemic bowel disease (see WARNINGS).
 

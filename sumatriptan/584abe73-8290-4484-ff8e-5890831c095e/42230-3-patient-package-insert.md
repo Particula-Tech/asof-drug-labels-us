@@ -69,15 +69,16 @@ Important points about IMITREX Tablets
    For any attack where you have no response to the first tablet, do not take a second tablet without first talking to your healthcare provider.
    Do not take more than a total of 200 mg of IMITREX Tablets in any 24-hour period.
    The safety of treating an average of more than 4 headaches in a 30 day period has not been established.
-3. What to do if you take an overdose: If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center right away.
-4. How to store your medicine: Keep your medicine in a safe place where children cannot reach it.
+3. Caution for activities requiring alertness:You may feel drowsy or dizzy because of your migraine or treatment with IMITREX Tablets.
+   Use caution for activities requiring alertness (like driving or using machines).
+4. What to do if you take an overdose: If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center right away.
+5. How to store your medicine: Keep your medicine in a safe place where children cannot reach it.
    It may be harmful to children.
    Do not take tablets out of the packaging until you are ready to take them.
    Do not store the tablets in any other container.Store your medicine away from heat and light.
    Do not store at temperatures above 86°F (30°C) or below 36°F (2°C).
    The expiration date of your medicine is printed on the packaging.
-   If your medicine has expired, throw it away.
-   If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
+   If your medicine has expired, throw it away.If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
 
 Some possible side effects of IMITREX Tablets
 
@@ -96,8 +97,6 @@ Some possible side effects of IMITREX Tablets
   If you have any of these symptoms, tell your healthcare provider at your next visit.
 - If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
 
-October 2007 IMT:1PIL
-
 IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
@@ -106,7 +105,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2007, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-October 2007 IMT:1PI
+February 2010
+
+IMT:2PIL

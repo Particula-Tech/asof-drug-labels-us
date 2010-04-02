@@ -5,12 +5,12 @@ IMITREX Tablets should only be used where a clear diagnosis of migraine headache
 ## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
 
 Sumatriptan should not be given to patients with documented ischemic or vasospastic coronary artery disease (CAD) (see CONTRAINDICATIONS).
-It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
+It is strongly recommended that sumatriptan not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of, or consistent with, coronary artery vasospasm or myocardial ischemia, sumatriptan should not be administered (see CONTRAINDICATIONS).
 
 For patients with risk factors predictive of CAD, who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan tablets take place in the setting of a physician’s office or similar medically staffed and equipped facility unless the patient has previously received sumatriptan.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following IMITREX Tablets, in these patients with risk factors.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following IMITREX Tablets in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of sumatriptan and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan.
 
@@ -33,7 +33,7 @@ Among the more than 1,900 patients with migraine who participated in premarketin
 Six of these 8 patients had ECG changes consistent with transient ischemia, but without accompanying clinical symptoms or signs.
 Of these 8 patients, 4 had either findings suggestive of CAD or risk factors predictive of CAD prior to study enrollment.
 
-Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinicaltrials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
+Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
 ### Postmarketing Experience With Sumatriptan
 
@@ -154,7 +154,7 @@ IMITREX Tablets are not known to interfere with commonly employed clinical labor
 
 ### Carcinogenesis
 
-In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats, 104 weeks) or drinking water (mice, 78 weeks).
+In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats: 104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose (target dose of 160 mg/kg/day) were approximately 40 times the exposure attained in humans after the maximum recommended single oral dose of 100 mg.
 The highest dose administered to rats (160 mg/kg/day, reduced from 360 mg/kg/day during week 21) was approximately 15 times the maximum recommended single human oral dose of 100 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
