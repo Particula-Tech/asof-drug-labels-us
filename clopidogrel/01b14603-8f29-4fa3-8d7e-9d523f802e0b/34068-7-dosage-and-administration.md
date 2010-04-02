@@ -1,23 +1,19 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
+## 2.1 Acute Coronary Syndrome
 
-The recommended daily dose of PLAVIX is 75 mg once daily.
+Plavix can be administered with or without food [see Clinical Pharmacology (12.3)]
 
-## Acute Coronary Syndrome
+- For patients with non-ST-elevation ACS (UA/NSTEMI), initiate Plavix with a single 300 mg oral loading dose and then continue at 75 mg once daily.
+  Initiate aspirin (75–325 mg once daily) and continue in combination with Plavix [see Clinical Studies (14.1)].
+- For patients with STEMI, the recommended dose of Plavix is 75 mg once daily orally, administered in combination with aspirin (75–325 mg once daily), with or without thrombolytics.
+  Plavix may be initiated with or without a loading dose [see Clinical Studies (14.1)].
 
-For patients with non-ST-segment elevation acute coronary syndrome (unstable angina/non-Q-wave MI), PLAVIX should be initiated with a single 300-mg loading dose and then continued at 75 mg once daily.
-Aspirin (75 mg-325 mg once daily) should be initiated and continued in combination with PLAVIX.
-In CURE, most patients with Acute Coronary Syndrome also received heparin acutely (see CLINICAL STUDIES).
+## 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
 
-For patients with ST-segment elevation acute myocardial infarction, the recommended dose of PLAVIX is 75 mg once daily, administered in combination with aspirin, with or without thrombolytics.
-PLAVIX may be initiated with or without a loading dose (300 mg was used in CLARITY; see CLINICAL STUDIES).
+The recommended daily dose of Plavix is 75 mg once daily orally, with or without food [see Clinical Pharmacology (12.3)].
 
-## Pharmacogenetics
+## 2.3 CYP2C19 Poor Metabolizers
 
-CYP2C19 poor metabolizer status is associated with diminished response to clopidogrel.
-The optimal dose regimen for poor metabolizers has yet to be determined.
-(See CLINICAL PHARMACOLOGY: Pharmacogenetics.)
-
-No dosage adjustment is necessary for elderly patients or patients with renal disease.
-(See CLINICAL PHARMACOLOGY: Special Populations.)
+CYP2C19 poor metabolizer status is associated with diminished antiplatelet response to clopidogrel.
+Although a higher dose regimen (600 mg loading dose followed by 150 mg once daily) in poor metabolizers increases antiplatelet response [see Clinical Pharmacology (12.5)], an appropriate dose regimen for this patient population has not been established in clinical outcome trials.

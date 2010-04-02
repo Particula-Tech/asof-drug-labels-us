@@ -1,144 +1,34 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Reduced effectiveness due to impaired CYP2C19 function
+## 5.1 Diminished Antiplatelet Activity Due to Impaired CYP2C19 Function
 
-The inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
-Clopidogrel is metabolized to this active metabolite in part by CYP2C19.
-This metabolism can be impaired by genetic variations in CYP2C19 and by concomitant medications that interfere with CYP2C19.
-Avoid use of PLAVIX in patients with impaired CYP2C19 function due to known genetic variation or due to drugs that inhibit CYP2C19 activity.
+Clopidogrel is a prodrug.
+Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning] and by concomitant medications that interfere with CYP2C19.
+Avoid concomitant use of Plavix and drugs that inhibit CYP2C19 activity.
+Co-administration of Plavix with omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of Plavix if given concomitantly or if given 12 hours apart [see Drug Interactions (7.1)].
 
-### Genetic variations
+## 5.2 General Risk of Bleeding
 
-Patients with genetically reduced CYP2C19 function have diminished antiplatelet responses and generally exhibit higher cardiovascular event rates following myocardial infarction than do patients with normal CYP2C19 function (see CLINICAL PHARMACOLOGY: Pharmacogenetics).
+Thienopyridines, including Plavix, increase the risk of bleeding.
+If a patient is to undergo surgery and an antiplatelet effect is not desired, discontinue Plavix 5 days prior to surgery.
+In patients who stopped therapy more than five days prior to CABG the rates of major bleeding were similar (event rate 4.4% Plavix + aspirin; 5.3% placebo + aspirin).
+In patients who remained on therapy within five days of CABG, the major bleeding rate was 9.6% for Plavix + aspirin, and 6.3% for placebo + aspirin.
 
-### Drug interactions
+Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7–10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure.
+Because the half-life of clopidogrel's active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
 
-Co-administration of PLAVIX with omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of PLAVIX if given concomitantly or if given 12 hours apart.
-There is no evidence that other drugs that reduce stomach acid, such as most H2 blockers (except cimetidine, which is a CYP2C19 inhibitor) or antacids interfere with the antiplatelet activity of clopidogrel (see PRECAUTIONS: Drug Interactions).
+## 5.3 Discontinuation of Plavix
 
-## Thrombotic thrombocytopenic purpura (TTP)
+Avoid lapses in therapy, and if Plavix must be temporarily discontinued, restart as soon as possible.
+Premature discontinuation of Plavix may increase the risk of cardiovascular events.
 
-TTP has been reported rarely following use of PLAVIX, sometimes after a short exposure (<2 weeks).
-TTP is a serious condition that can be fatal and requires urgent treatment including plasmapheresis (plasma exchange).
-It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever.
-(See ADVERSE REACTIONS.)
+## 5.4 Patients with Recent Transient Ischemic Attack (TIA) or Stroke
 
-# PRECAUTIONS
+In patients with recent TIA or stroke who are at high risk for recurrent ischemic events, the combination of aspirin and Plavix has not been shown to be more effective than Plavix alone, but the combination has been shown to increase major bleeding.
 
-General: PLAVIX prolongs the bleeding time and therefore should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery, or other pathological conditions (particularly gastrointestinal and intraocular).
-If a patient is to undergo elective surgery and an antiplatelet effect is not desired, PLAVIX should be discontinued 5 days prior to surgery.
+## 5.5 Thrombotic Thrombocytopenic Purpura (TTP)
 
-Due to the risk of bleeding and undesirable hematological effects, blood cell count determination and/or other appropriate testing should be promptly considered, whenever such suspected clinical symptoms arise during the course of treatment (see ADVERSE REACTIONS).
-
-In patients with recent TIA or stroke who are at high risk of recurrent ischemic events, the combination of aspirin and PLAVIX has not been shown to be more effective than PLAVIX alone, but the combination has been shown to increase major bleeding.
-
-GI Bleeding: In CAPRIE, PLAVIX was associated with a rate of gastrointestinal bleeding of 2.0%, vs. 2.7% on aspirin.
-In CURE, the incidence of major gastrointestinal bleeding was 1.3% vs. 0.7% (PLAVIX + aspirin vs. placebo + aspirin, respectively).
-PLAVIX should be used with caution in patients who have lesions with a propensity to bleed (such as ulcers).
-Drugs that might induce such lesions should be used with caution in patients taking PLAVIX.
-
-Use in Hepatically-Impaired Patients: Experience is limited in patients with severe hepatic disease, who may have bleeding diatheses.
-PLAVIX should be used with caution in this population.
-
-Use in Renally-Impaired Patients: Experience is limited in patients with severe renal impairment.
-PLAVIX should be used with caution in this population.
-
-## Information for Patients
-
-Patients should be told that while taking PLAVIX or PLAVIX combined with aspirin:
-
-- it may take them longer than usual to stop bleeding;
-- they may bruise and/or bleed more easily;
-- they should report any unusual bleeding to their physician;
-- they should tell their physician about any other medications they are taking, including prescription or over-the-counter omeprazole;
-- they should inform physicians and dentists that they are taking PLAVIX and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken.
-
-## Drug Interactions
-
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant use of drugs that inhibit CYP2C19, including omeprazole, esomeprazole, cimetidine, fluconazole, ketoconazole, voriconazole, etravirine, felbamate, fluoxetine, fluvoxamine, and ticlopidine (see WARNINGS).
-
-Studies of specific drug interactions yielded the following results:
-
-### Omeprazole
-
-In a crossover clinical study, 72 healthy subjects were administered PLAVIX (300-mg loading dose followed by 75 mg/day) alone and with omeprazole (80 mg at the same time as PLAVIX) for 5 days.
-The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when PLAVIX and omeprazole were administered together.
-Mean inhibition of platelet aggregation (IPA) was diminished by 47% (24 hours) and 30% (Day 5) when PLAVIX and omeprazole were administered together.
-In another study 72 healthy subjects were given the same doses of PLAVIX and omeprazole but the drugs were administered 12 hours apart; the results were similar indicating that administering PLAVIX and omeprazole at different times does not prevent their interaction (see WARNINGS).
-
-### Aspirin
-
-Aspirin did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation.
-Concomitant administration of 500 mg of aspirin twice a day for 1 day did not significantly increase the prolongation of bleeding time induced by PLAVIX.
-PLAVIX potentiated the effect of aspirin on collagen-induced platelet aggregation.
-PLAVIX and aspirin have been administered together for up to one year.
-
-### Heparin
-
-In a study in healthy volunteers, PLAVIX did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
-Coadministration of heparin had no effect on inhibition of platelet aggregation induced by PLAVIX.
-
-### Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
-
-In healthy volunteers receiving naproxen, concomitant administration of PLAVIX was associated with increased occult gastrointestinal blood loss.
-NSAIDs and PLAVIX should be coadministered with caution.
-
-### Warfarin
-
-Because of the increased risk of bleeding, the concomitant administration of warfarin with PLAVIX should be undertaken with caution.
-(See PRECAUTIONS: General.)
-
-### Other Concomitant Therapy
-
-No clinically significant pharmacodynamic interactions were observed when PLAVIX was coadministered with atenolol, nifedipine, or both atenolol and nifedipine.
-The pharmacodynamic activity of PLAVIX was also not significantly influenced by the coadministration of phenobarbital or estrogen.
-
-The pharmacokinetics of digoxin or theophylline were not modified by the coadministration of PLAVIX (clopidogrel bisulfate).
-
-At high concentrations in vitro, clopidogrel inhibits P450 (2C9).
-Accordingly, PLAVIX may interfere with the metabolism of phenytoin, tamoxifen, tolbutamide, warfarin, torsemide, fluvastatin, and many non-steroidal anti-inflammatory agents, but there are no data with which to predict the magnitude of these interactions.
-Caution should be used when any of these drugs is coadministered with PLAVIX.
-
-In addition to the above specific interaction studies, patients entered into clinical trials with PLAVIX received a variety of concomitant medications including diuretics, beta-blocking agents, angiotensin converting enzyme inhibitors, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), thrombolytics, heparins (unfractionated and LMWH), GPIIb/IIIa antagonists, antiepileptic agents and hormone replacement therapy without evidence of clinically significant adverse interactions.
-
-There are no data on the concomitant use of oral anticoagulants, non study oral anti-platelet drugs and chronic NSAIDs with clopidogrel.
-
-## Drug/Laboratory Test Interactions
-
-None known.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-There was no evidence of tumorigenicity when clopidogrel was administered for 78 weeks to mice and 104 weeks to rats at dosages up to 77 mg/kg per day, which afforded plasma exposures >25 times that in humans at the recommended daily dose of 75 mg.
-
-Clopidogrel was not genotoxic in four in vitro tests (Ames test, DNA-repair test in rat hepatocytes, gene mutation assay in Chinese hamster fibroblasts, and metaphase chromosome analysis of human lymphocytes) and in one in vivo test (micronucleus test by oral route in mice).
-
-Clopidogrel was found to have no effect on fertility of male and female rats at oral doses up to 400 mg/kg per day (52 times the recommended human dose on a mg/m2 basis).
-
-## Pregnancy
-
-### Pregnancy Category B
-
-Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day (respectively, 65 and 78 times the recommended daily human dose on a mg/m2 basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of a human response, PLAVIX should be used during pregnancy only if clearly needed.
-
-## Nursing Mothers
-
-Studies in rats have shown that clopidogrel and/or its metabolites are excreted in the milk.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness in the pediatric population have not been established.
-
-## Geriatric Use
-
-Of the total number of subjects in the CAPRIE, CURE and CLARITY controlled clinical studies, approximately 50% of patients treated with PLAVIX were 65 years of age and older, and 15% were 75 years and older.
-In COMMIT, approximately 58% of the patients treated with PLAVIX were 60 years and older, 26% of whom were 70 years and older.
-
-The observed risk of thrombotic events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Figures 3 and 6 for the CURE and COMMIT trials, respectively (see CLINICAL STUDIES).
-The observed risk of bleeding events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Tables 6 and 7 for the CURE and COMMIT trials, respectively (see ADVERSE REACTIONS).
+TTP, sometimes fatal, has been reported following use of Plavix, sometimes after a short exposure (<2 weeks).
+TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange).
+It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see Adverse Reactions (6.2)].
