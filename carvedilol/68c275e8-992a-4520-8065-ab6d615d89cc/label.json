@@ -1,14 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076373"
+  ],
   "inn": "carvedilol",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-0051-01",
+    "0093-0051-05",
     "0093-0135-01",
+    "0093-0135-05",
     "0093-7295-01",
-    "0093-7296-01"
+    "0093-7295-05",
+    "0093-7296-01",
+    "0093-7296-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Carvedilol"
+    }
+  ],
   "setid": "68c275e8-992a-4520-8065-ab6d615d89cc",
   "source": "dailymed"
 }
