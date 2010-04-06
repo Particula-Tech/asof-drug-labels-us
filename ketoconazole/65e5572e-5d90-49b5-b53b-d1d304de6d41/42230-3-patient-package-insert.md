@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-XOLEGEL® (Xol-a-gel)
+XOLEGEL®(Xol-a-gel)
 
 (Ketoconazole, USP) Gel, 2%
 
@@ -113,6 +113,8 @@ Coral Gables, FL 33134
 US Patent Number 7,179,475 and application 10,722,134 (Patent Pending)
 
 Revised January 2010
+
+XGL:1PI
 
 SAP
 
