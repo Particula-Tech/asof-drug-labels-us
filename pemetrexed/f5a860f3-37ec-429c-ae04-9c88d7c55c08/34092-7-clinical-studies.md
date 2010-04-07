@@ -48,7 +48,7 @@ Patients treated with gemcitabine plus cisplatin received a relative dose intens
 The primary endpoint in this study was overall survival.
 The median survival time was 10.3 months in the ALIMTA plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
 
-Table 10: First-Line Therapy: Efficacy in NSCLC ITT Population
+Table 10: First-Line Therapy: Efficacy in NSCLC – ITT Population
 
 |  | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
