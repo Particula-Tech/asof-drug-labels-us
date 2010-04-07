@@ -1,3 +1,14 @@
+# Storage
+
+Store upright between 15°–25°C (59°–77°F).
+DO NOT FREEZE.
+
+KEEP OUT OF REACH OF CHILDREN.
+
+STERILE OPHTHALMIC SUSPENSION
+
+Rx Only
+
 # Manufacturer Information
 
 Revised April 2006
@@ -14,4 +25,4 @@ U.S. Patent No. 5,747,061
 
 Lotemax is a registered trademark of Bausch & Lomb Incorporated.
 
-9067501 (Folded) 9067401 (Flat)
+9007802 (Folded) 9005902 (Flat)

@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020583"
+  ],
   "inn": "loteprednol",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "24208-299-15",
     "24208-299-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "LOTEMAX"
+    }
+  ],
   "setid": "f37d74ac-5f9c-40a8-b43b-35148fc66bbe",
   "source": "dailymed"
 }
