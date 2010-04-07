@@ -37,7 +37,7 @@ Patients should be advised not to wear a contact lens if their eye is red.
 ALREX should not be used to treat contact lens related irritation.
 
 The preservative in ALREX, benzalkonium chloride, may be absorbed by soft contact lenses.
-Patients who wear soft contact lenses andwhose eyes are not red, should be instructed to wait at least ten minutes after instilling ALREX before they insert their contact lenses.
+Patients who wear soft contact lenses and whose eyes are not red, should be instructed to wait at least ten minutes after instilling ALREX before they insert their contact lenses.
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
@@ -57,6 +57,9 @@ Loteprednol etabonate was maternally toxic (significantly reduced body weight ga
 
 Oral exposure of female rats to 50 mg/kg/day of loteprednol etabonate from the start of the fetal period through the end of lactation, a maternally toxic treatment regimen (significantly decreased body weight gain), gave rise to decreased growth and survival, and retarded development in the offspring during lactation; the NOEL for these effects was 5 mg/kg/day.
 Loteprednol etabonate had no effect on the duration of gestation or parturition when administered orally to pregnant rats at doses up to 50 mg/kg/day during the fetal period.
+
+There are no adequate and well controlled studies in pregnant women.
+ALREX Ophthalmic Suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing mothers
 

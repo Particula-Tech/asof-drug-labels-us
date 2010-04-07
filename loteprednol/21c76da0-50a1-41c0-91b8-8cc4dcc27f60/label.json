@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020803"
+  ],
   "inn": "loteprednol",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
+    "24208-353-01",
     "24208-353-05",
     "24208-353-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "ALREX"
+    }
+  ],
   "setid": "21c76da0-50a1-41c0-91b8-8cc4dcc27f60",
   "source": "dailymed"
 }

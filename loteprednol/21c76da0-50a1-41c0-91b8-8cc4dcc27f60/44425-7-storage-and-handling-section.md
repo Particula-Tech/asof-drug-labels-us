@@ -4,5 +4,3 @@ Store upright between 15°–25°C (59°–77°F).
 DO NOT FREEZE.
 
 KEEP OUT OF REACH OF CHILDREN.
-
-Revised April 2006

@@ -19,7 +19,7 @@ Each mL contains:
 ACTIVE: Loteprednol Etabonate 2 mg (0.2%);
 
 INACTIVES: Edetate Disodium, Glycerin, Povidone, Purified Water and Tyloxapol.
-Hydrochloric Acid and/or Sodium Hydroxide may be added to adjust the pH to 5.3-5.6.
+Hydrochloric Acid and/or Sodium Hydroxide may be added to adjust the pH to 5.4-5.5.
 The suspension is essentially isotonic with a tonicity of 250 to 310 mOsmol/kg.
 
 PRESERVATIVE ADDED: Benzalkonium Chloride 0.01%.

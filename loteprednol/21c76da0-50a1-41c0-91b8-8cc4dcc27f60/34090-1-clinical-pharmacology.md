@@ -13,7 +13,7 @@ Loteprednol etabonate is structurally similar to other corticosteroids.
 However, the number 20 position ketone group is absent.
 It is highly lipid soluble which enhances its penetration into cells.
 Loteprednol etabonate is synthesized through structural modifications of prednisolone-related compounds so that it will undergo a predictable transformation to an inactive metabolite.
-Based upon in vivo and invitro preclinical metabolism studies, loteprednol etabonate undergoes extensive metabolism to inactive carboxylic acid metabolites.
+Based upon in vivo and in vitro preclinical metabolism studies, loteprednol etabonate undergoes extensive metabolism to inactive carboxylic acid metabolites.
 
 Results from a bioavailability study in normal volunteers established that plasma levels of loteprednol etabonate and Δ1 cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
 The results were obtained following the ocular administration of one drop in each eye of 0.5% loteprednol etabonate 8 times daily for 2 days or 4 times daily for 42 days.
