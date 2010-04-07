@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076128"
+  ],
+  "inn": "ofloxacin",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-410-05",
+    "24208-410-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ofloxacin",
+      "name": "Ofloxacin"
+    }
+  ],
+  "setid": "c5484f1a-2321-453f-9469-dfcf709e2e2e",
+  "source": "dailymed"
+}
