@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-INVEGA® SUSTENNA™ (paliperidone) is not a controlled substance.
+INVEGA® SUSTENNA® (paliperidone) is not a controlled substance.
 
 ## 9.2 Abuse
 

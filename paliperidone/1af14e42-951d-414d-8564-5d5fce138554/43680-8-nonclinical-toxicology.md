@@ -5,7 +5,7 @@
 Carcinogenesis
 
 The carcinogenic potential of intramuscularly injected paliperidone palmitate was assessed in rats.
-There was an increase in mammary gland adenocarcinomas in female rats at 16, 47, and 94 mg/kg/month, which is 0.6, 2, and 4 times, respectively, the maximum recommended human 234 mg dose of INVEGA® SUSTENNA™ on a mg/m2 basis.
+There was an increase in mammary gland adenocarcinomas in female rats at 16, 47, and 94 mg/kg/month, which is 0.6, 2, and 4 times, respectively, the maximum recommended human 234 mg dose of INVEGA® SUSTENNA® on a mg/m2 basis.
 A no-effect dose was not established.
 Male rats showed an increase in mammary gland adenomas, fibroadenomas, and carcinomas at 47 mg and 94 mg/kg/month.
 A carcinogenicity study in mice has not been conducted with paliperidone palmitate.

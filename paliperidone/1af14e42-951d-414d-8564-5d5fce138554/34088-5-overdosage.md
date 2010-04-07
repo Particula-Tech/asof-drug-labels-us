@@ -2,12 +2,13 @@
 
 ## 10.1 Human Experience
 
-No cases of overdose were reported in premarketing studies with INVEGA® SUSTENNA™.
-Because INVEGA® SUSTENNA™ is to be administered by health care professionals, the potential for overdosage by patients is low.
+No cases of overdose were reported in premarketing studies with INVEGA® SUSTENNA®.
+Because INVEGA® SUSTENNA® is to be administered by health care professionals, the potential for overdosage by patients is low.
 
 While experience with paliperidone overdose is limited, among the few cases of overdose reported in premarketing trials with oral paliperidone, the highest estimated ingestion was 405 mg.
 Observed signs and symptoms included extrapyramidal symptoms and gait unsteadiness.
 Other potential signs and symptoms include those resulting from an exaggeration of paliperidone's known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, and QT prolongation.
+Torsade de pointes and ventricular fibrillation have been reported in a patient in the setting of overdose with oral paliperidone.
 
 Paliperidone is the major active metabolite of risperidone.
 Overdose experience reported with risperidone can be found in the OVERDOSAGE section of the risperidone package insert.
@@ -15,7 +16,7 @@ Overdose experience reported with risperidone can be found in the OVERDOSAGE sec
 ## 10.2 Management of Overdosage
 
 There is no specific antidote to paliperidone, therefore, appropriate supportive measures should be instituted and close medical supervision and monitoring should continue until the patient recovers.
-Consideration should be given to the prolonged-release characteristics of INVEGA® SUSTENNA™ and the long apparent half-life of paliperidone when assessing treatment needs and recovery.
+Consideration should be given to the prolonged-release characteristics of INVEGA® SUSTENNA® and the long apparent half-life of paliperidone when assessing treatment needs and recovery.
 Multiple drug involvement should also be considered.
 
 In case of acute overdose, establish and maintain an airway and ensure adequate oxygenation and ventilation.

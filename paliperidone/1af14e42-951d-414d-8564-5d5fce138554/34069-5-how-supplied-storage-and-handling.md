@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVEGA® SUSTENNA™ is available as a white to off-white sterile aqueous extended-release suspension for intramuscular injection in dose strengths of 39 mg, 78 mg, 117 mg, 156 mg, and 234 mg paliperidone palmitate.
+INVEGA® SUSTENNA® is available as a white to off-white sterile aqueous extended-release suspension for intramuscular injection in dose strengths of 39 mg, 78 mg, 117 mg, 156 mg, and 234 mg paliperidone palmitate.
 The kit contains a prefilled syringe and 2 safety needles (a 1 ½-inch 22 gauge safety needle and a 1-inch 23 gauge safety needle).
 
 39 mg paliperidone palmitate kit (NDC 50458-560-01)
