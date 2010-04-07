@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009866"
+  ],
   "inn": "hydrocortisone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -11,7 +13,13 @@
     "0009-0912-05",
     "0009-0920-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "hydrocortisone sodium succinate",
+      "name": "SOLU-CORTEF"
+    }
+  ],
   "setid": "65eefd58-b166-4d71-ade6-45c8fdf86922",
   "source": "dailymed"
 }

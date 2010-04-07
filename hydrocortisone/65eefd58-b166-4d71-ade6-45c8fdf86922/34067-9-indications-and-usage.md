@@ -1,17 +1,52 @@
-# INDICATIONS
+# INDICATIONS AND USAGE
 
-When oral therapy is not feasible, and the strength, dosage form and route of administration of the drug reasonably lend the preparation to the treatment of the condition, SOLU-CORTEF Sterile Powder is indicated for intravenous or intramuscular use in the following conditions:
+When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramusculat use of SOLU-CORTEF Sterile Powder is indicated as follows:
 
-1. 1.Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance) Acute adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; mineralocorticoid supplementation may be necessary, particularly when synthetic analogs are used) Preoperatively and in the event of serious trauma or illness, in patients with known adrenal insufficiency or when adrenocortical reserve is doubtful Shock unresponsive to conventional therapy if adrenocortical insufficiency exists or is suspected Congenital adrenal hyperplasia Hypercalcemia associated with cancer Nonsuppurative thyroiditis
-2. 2.Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Post-traumatic osteoarthritis Synovitis of osteoarthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy) Acute and subacute bursitis Epicondylitis Acute nonspecific tenosynovitis Acute gouty arthritis Psoriatic arthritis Ankylosing spondylitis
-3. 3.Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Systemic dermatomyositis (polymyositis) Acute rheumatic carditis
-4. 4.Dermatologic Diseases Pemphigus Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Bullous dermatitis herpetiformis Severe seborrheic dermatitis Severe psoriasis Mycosis fungoides
-5. 5.Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in: Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Seasonal or perennial allergic rhinitis Drug hypersensitivity reactions Urticarial transfusion reactions Acute noninfectious laryngeal edema (epinephrine is the drug of first choice)
-6. 6.Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye, such as: Herpes zoster ophthalmicus Iritis, iridocyclitis Chorioretinitis Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia Anterior segment inflammation Allergic conjunctivitis Allergic corneal marginal ulcers Keratitis
-7. 7.Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis (systemic therapy) Regional enteritis (systemic therapy)
-8. 8.Respiratory Diseases Symptomatic sarcoidosis Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy Loeffler's syndrome not manageable by other means Aspiration pneumonitis
-9. 9.Hematologic Disorders Acquired (autoimmune) hemolytic anemia Idiopathic thrombocytopenic purpura in adults (IV only; IM administration is contraindicated) Secondary thrombocytopenia in adults Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia
-10. 10.Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood
-11. 11.Edematous States To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus
-12. 12.Nervous System Acute exacerbations of multiple sclerosis
-13. 13.Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement
+## Allergic states
+
+Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, serum sickness, transfusion reactions.
+
+## Dermatologic diseases
+
+Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus, severe erythema multiforme (Stevens-Johnson syndrome).
+
+## Endocrine disorders
+
+Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance), congenital adrenal hyperplasia, hypercalcemia associated with cancer, nonsuppurative thyroiditis.
+
+## Gastrointestinal diseases
+
+To tide the patient over a critical period of the disease in regional enteritis (systemic therapy) and ulcerative colitis.
+
+## Hematologic disorders
+
+Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia), idiopathic thrombocytopenic purpura in adults (intravenous administration only; intramuscular administration is contraindicated), pure red cell aplasia, selected cases of secondary thrombocytopenia.
+
+## Miscellaneous
+
+Trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy.
+
+## Neoplastic diseases
+
+For the palliative management of leukemias and lymphomas.
+
+## Nervous System
+
+Acute exacerbations of multiple sclerosis; cerebral edema associated with primary or metastatic brain tumor, or craniotomy.
+
+## Ophthalmic diseases
+
+Sympathetic ophthalmia, uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids.
+
+## Renal diseases
+
+To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
+
+## Respiratory diseases
+
+Berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
+
+## Rheumatic disorders
+
+As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis; acute rheumatic carditis; ankylosing spondylitis; psoriatic arthritis; rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy).
+For the treatment of dermatomyositis, temporal arteritis, polymyositis, and systemic lupus erythematosus.
