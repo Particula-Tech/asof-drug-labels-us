@@ -6,3 +6,5 @@ Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution USP*, containing 10,000
 No. 31509
 
 DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
+
+*Does not meet USP packaging specification for light resistance.
