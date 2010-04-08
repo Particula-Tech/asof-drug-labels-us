@@ -9,7 +9,7 @@ The more commonly observed untoward events associated with the use of buspirone 
 ## Associated with Discontinuation of Treatment
 
 One guide to the relative clinical importance of adverse events associated with buspirone is provided by the frequency with which they caused drug discontinuation during clinical testing.
-Approximately 10% of the 2200 anxious patients who participated in the buspirone premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
+Approximately 10% of the 2,200 anxious patients who participated in the buspirone premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
 The more common events causing discontinuation included: central nervous system disturbances (3.4%), primarily dizziness, insomnia, nervousness, drowsiness, and lightheaded feeling; gastrointestinal disturbances (1.2%), primarily nausea; and miscellaneous disturbances (1.1%), primarily headache and fatigue.
 In addition, 3.4% of patients had multiple complaints, none of which could be characterized as primary.
 
@@ -19,7 +19,7 @@ The table that follows enumerates adverse events that occurred at a frequency of
 The frequencies were obtained from pooled data for 17 trials.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-Comparison of the cited figures, however, does provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
+Comparison of the cited figures, however, does provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
 TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALSEvents reported by at least 1% of buspirone patients are included.
 (Percent of Patients Reporting)
@@ -66,9 +66,9 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 
 ## Other Events Observed During the Entire Premarketing Evaluation of Buspirone
 
-During its premarketing assessment, buspirone was evaluated in over 3500 subjects.
-This section reports event frequencies for adverse events occurring in approximately 3000 subjects from this group who took multiple doses of buspirone in the dose range for which buspirone hydrochloride is being recommended (i.e., the modal daily dose of buspirone hydrochloride fell between 10 and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
-The conditions and duration of exposure to buspirone varied greatly, involving well-controlled studies as well as experience in open and uncontrolled clinical settings.
+During its premarketing assessment, buspirone was evaluated in over 3,500 subjects.
+This section reports event frequencies for adverse events occurring in approximately 3,000 subjects from this group who took multiple doses of buspirone in the dose range for which buspirone hydrochloride is being recommended (i.e., the modal daily dose of buspirone hydrochloride fell between 10 mg and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
+The conditions and duration of exposure to buspirone varied greatly, involving well controlled studies as well as experience in open and uncontrolled clinical settings.
 As part of the total experience gained in clinical studies, various adverse events were reported.
 In the absence of appropriate controls in some of the studies, a causal relationship to buspirone treatment cannot be determined.
 The list includes all undesirable events reasonably associated with the use of the drug.
@@ -77,11 +77,11 @@ The following enumeration by organ system describes events in terms of their rel
 Events of major clinical importance are also described in the PRECAUTIONS section.
 
 The following definitions of frequency are used: Frequent adverse events are defined as those occurring in at least 1/100 patients.
-Infrequent adverse events are those occurring in 1/100 to 1/1000 patients, while rare events are those occurring in less than 1/1000 patients.
+Infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, while rare events are those occurring in less than 1/1,000 patients.
 
 Cardiovascular: Frequent was nonspecific chest pain; infrequent were syncope, hypotension, and hypertension; rare were cerebrovascular accident, congestive heart failure, myocardial infarction, cardiomyopathy, and bradycardia.
 
-Central Nervous System: Frequent were dream disturbances; infrequent were depersonalization, dysphoria, noise intolerance, euphoria, akathisia, fearfulness, loss of interest, dissociative reaction, hallucinations, involuntary movements, slowed reaction time, suicidal ideation, and seizures; rare were feelings of claustrophobia, cold intolerance, stupor, and slurred speech and psychosis.
+Central Nervous System:Frequent were dream disturbances; infrequent were depersonalization, dysphoria, noise intolerance, euphoria, akathisia, fearfulness, loss of interest, dissociative reaction, hallucinations, involuntary movements, slowed reaction time, suicidal ideation, and seizures; rare were feelings of claustrophobia, cold intolerance, stupor, and slurred speech and psychosis.
 
 EENT: Frequent were tinnitus, sore throat, and nasal congestion; infrequent were redness and itching of the eyes, altered taste, altered smell, and conjunctivitis; rare were inner ear abnormality, eye pain, photophobia, and pressure on eyes.
 
@@ -91,7 +91,7 @@ Gastrointestinal: Infrequent were flatulence, anorexia, increased appetite, sali
 
 Genitourinary: Infrequent were urinary frequency, urinary hesitancy, menstrual irregularity and spotting, and dysuria; rare were amenorrhea, pelvic inflammatory disease, enuresis, and nocturia.
 
-Musculoskeletal: Infrequent were muscle cramps, muscle spasms, rigid/stiff muscles, and arthralgias; rare was muscle weakness.
+Musculoskeletal:Infrequent were muscle cramps, muscle spasms, rigid/stiff muscles, and arthralgias; rare was muscle weakness.
 
 Respiratory: Infrequent were hyperventilation, shortness of breath, and chest congestion; rare was epistaxis.
 
@@ -102,3 +102,9 @@ Skin: Infrequent were edema, pruritus, flushing, easy bruising, hair loss, dry s
 Clinical Laboratory: Infrequent were increases in hepatic aminotransferases (SGOT, SGPT); rare were eosinophilia, leukopenia, and thrombocytopenia.
 
 Miscellaneous: Infrequent were weight gain, fever, roaring sensation in the head, weight loss, and malaise; rare were alcohol abuse, bleeding disturbance, loss of voice, and hiccoughs.
+
+## Post-Marketing Experience
+
+Post-marketing experience has shown an adverse experience profile similar to that given above.
+Voluntary reports since introduction have included rare occurrences of allergic reactions (including urticaria), angioedema, cogwheel rigidity, dizziness (rarely reported as vertigo), dystonic reactions (including dystonia), ataxias, extrapyramidal symptoms, dyskinesias (acute and tardive), ecchymosis, emotional lability, serotonin syndrome, transient difficulty with recall, urinary retention, and visual changes (including tunnel vision), parkinsonism, akathisia, restless leg syndrome, and restlessness.
+Because of the uncontrolled nature of these spontaneous reports, a causal relationship to buspirone treatment has not been determined.

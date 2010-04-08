@@ -26,14 +26,13 @@ Rebound or withdrawal symptoms may occur over varying time periods, depending in
 
 The syndrome of withdrawal from sedative/hypnotic/anxiolytic drugs can appear as any combination of irritability, anxiety, agitation, insomnia, tremor, abdominal cramps, muscle cramps, vomiting, sweating, flu-like symptoms without fever, and occasionally, even as seizures.
 
-### Possible Concerns Related to Buspirone's Binding to Dopamine Receptors
+### Possible Concerns Related to Buspirone’s Binding to Dopamine Receptors
 
 Because buspirone can bind to central dopamine receptors, a question has been raised about its potential to cause acute and chronic changes in dopamine-mediated neurological function (e.g., dystonia, pseudo-parkinsonism, akathisia, and tardive dyskinesia).
 Clinical experience in controlled trials has failed to identify any significant neuroleptic-like activity; however, a syndrome of restlessness, appearing shortly after initiation of treatment, has been reported in some small fraction of buspirone-treated patients.
 The syndrome may be explained in several ways.
 For example, buspirone may increase central noradrenergic activity; alternatively, the effect may be attributable to dopaminergic effects (i.e., represent akathisia).
-Obviously, the question cannot be totally resolved at this point in time.
-Generally, long-term sequelae of any drug's use can be identified only after several years of marketing.
+See ADVERSE REACTIONS: Post-Marketing Experience.
 
 ## Information for Patients
 
@@ -56,7 +55,7 @@ There are no specific laboratory tests recommended.
 
 #### MAO inhibitors
 
-It is recommended that buspirone not be used concomitantly with MAO inhibitors (see WARNINGS section).
+It is recommended that buspirone not be used concomitantly with MAO inhibitors (see WARNINGS).
 
 #### Amitriptyline
 
@@ -73,11 +72,11 @@ The clinical significance of this finding is not clear.
 
 #### Nefazodone
 
-[see Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4)]
+(see Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4))
 
 #### Trazodone
 
-There is one report suggesting that the concomitant use of trazodone and buspirone may have caused 3- to 6-fold elevations of SGPT (ALT) in a few patients.
+There is one report suggesting that the concomitant use of trazodone and buspirone may have caused 3-fold to 6-fold elevations of SGPT (ALT) in a few patients.
 In a similar study attempting to replicate this finding, no interactive effect on hepatic transaminases was identified.
 
 #### Triazolam/Flurazepam
@@ -86,7 +85,7 @@ Coadministration of buspirone with either triazolam or flurazepam did not appear
 
 #### Other Psychotropics
 
-Because the effects of concomitant administration of buspirone with most other psychotropic drugs have not been studied, the concomitant use of buspirone with other CNS-active drugs should be approached with caution.
+Because the effects of concomitant administration of buspirone with most other psychotropic drugs have not been studied, the concomitant use of buspirone with other CNS active drugs should be approached with caution.
 
 ### Inhibitors and Inducers of Cytochrome P450 3A4 (CYP3A4)
 
@@ -95,7 +94,7 @@ This finding is consistent with the in vivo interactions observed between buspir
 
 #### Diltiazem and Verapamil
 
-In a study of nine healthy volunteers, coadministration of buspirone (10 mg as a single dose) with verapamil (80 mg t.i.d.) or diltiazem (60 mg t.i.d.) increased plasma buspirone concentrations (verapamil increased AUC and Cmax of buspirone 3.4-fold while diltiazem increased AUC and Cmax 5.3-fold and 4-fold, respectively).
+In a study of nine healthy volunteers, coadministration of buspirone (10 mg as a single dose) with verapamil (80 mg t.i.d.) or diltiazem (60 mg t.i.d.) increased plasma buspirone concentrations (verapamil increased AUC and Cmax of buspirone 3.4-fold while diltiazem increased AUC and Cmax 5.5-fold and 4-fold, respectively).
 Adverse events attributable to buspirone may be more likely during concomitant administration with either diltiazem or verapamil.
 Subsequent dose adjustment may be necessary and should be based on clinical assessment.
 
@@ -120,7 +119,7 @@ Subsequent dose adjustment of either drug should be based on clinical assessment
 
 #### Nefazodone
 
-In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in Cmax and up to 50-fold in AUC) and statistically significant decreases (about 50%) in plasma concentrations of the buspirone metabolite 1-PP.
+In a study of steady-state pharmacokinetics in healthy volunteers, coadministration of buspirone (2.5 mg or 5 mg b.i.d.) with nefazodone (250 mg b.i.d.) resulted in marked increases in plasma buspirone concentrations (increases up to 20-fold in Cmax and up to 50-fold in AUC) and statistically significant decreases (about 50%) in plasma concentrations of the buspirone metabolite 1-PP.
 With 5 mg b.i.d. doses of buspirone, slight increases in AUC were observed for nefazodone (23%) and its metabolites hydroxynefazodone (HO-NEF) (17%) and meta-chlorophenylpiperazine (9%).
 Slight increases in Cmax were observed for nefazodone (8%) and its metabolite HO-NEF (11%).
 Subjects receiving buspirone 5 mg b.i.d. and nefazodone 250 mg b.i.d. experienced lightheadedness, asthenia, dizziness, and somnolence, adverse events also observed with either drug alone.
@@ -134,7 +133,7 @@ If the two drugs are to be used in combination, the dosage of buspirone may need
 
 #### Other Inhibitors and Inducers of CYP3A4
 
-Substances that inhibit CYP3A4, such as ketoconazole or ritonavir, may inhibit buspirone metabolism and increase plasma concentrations of buspirone while substances that induce CYP3A4, such as dexamethasone, or certain anticonvulsants (phenytoin, phenobarbital, carbamazepine), may increase the rate of buspirone metabolism.
+Substances that inhibit CYP3A4, such as ketoconazole or ritonavir, may inhibit buspirone metabolism and increase plasma concentrations of buspirone while substances that induce CYP3A4, such as dexamethasone or certain anticonvulsants (phenytoin, phenobarbital, carbamazepine), may increase the rate of buspirone metabolism.
 If a patient has been titrated to a stable dosage on buspirone, a dose adjustment of buspirone may be necessary to avoid adverse events attributable to buspirone or diminished anxiolytic activity.
 Consequently, when administered with a potent inhibitor of CYP3A4, a low dose of buspirone used cautiously is recommended.
 When used in combination with a potent inducer of CYP3A4 the dosage of buspirone may need adjusting to maintain anxiolytic effect.
@@ -153,7 +152,7 @@ The patient was also chronically receiving phenytoin, phenobarbital, digoxin, an
 In vitro, buspirone may displace less firmly bound drugs like digoxin.
 The clinical significance of this property is unknown.
 
-Therapeutic levels of aspirin, desipramine, diazepam, flurazepam, ibuprofen, propranolol, thioridazine, and tolbutamide had only a limited effect on the extent of binding of buspirone to plasma proteins (see CLINICAL PHARMACOLOGY section).
+Therapeutic levels of aspirin, desipramine, diazepam, flurazepam, ibuprofen, propranolol, thioridazine, and tolbutamide had only a limited effect on the extent of binding of buspirone to plasma proteins (see CLINICAL PHARMACOLOGY).
 
 ## Drug/Laboratory Test Interactions
 
@@ -168,12 +167,10 @@ Chromosomal aberrations or abnormalities did not occur in bone marrow cells of m
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+### Teratogenic Effects. Pregnancy Category B
 
 No fertility impairment or fetal damage was observed in reproduction studies performed in rats and rabbits at buspirone doses of approximately 30 times the maximum recommended human dose.
-In humans, however, adequate and well-controlled studies during pregnancy have not been performed.
+In humans, however, adequate and well controlled studies during pregnancy have not been performed.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Labor and Delivery
@@ -190,7 +187,7 @@ Buspirone administration to nursing women should be avoided if clinically possib
 ## Pediatric Use
 
 The safety and effectiveness of buspirone were evaluated in two placebo-controlled 6-week trials involving a total of 559 pediatric patients (ranging from 6 to 17 years of age) with GAD.
-Doses studied were 7.5 to 30 mg b.i.d.
+Doses studied were 7.5 mg to 30 mg b.i.d.
 (15 to 60 mg/day).
 There were no significant differences between buspirone and placebo with regard to the symptoms of GAD following doses recommended for the treatment of GAD in adults.
 Pharmacokinetic studies have shown that, for identical doses, plasma exposure to buspirone and its active metabolite, 1-PP, are equal to or higher in pediatric patients than adults.
@@ -199,13 +196,13 @@ There are no long-term safety or efficacy data in this population.
 
 ## Geriatric Use
 
-In one study of 6632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
-The review of other spontaneously reported adverse clinical events has not identified differences in reporting between elderly and younger patients, but greater sensitivity of some older patients can not be ruled out.
+In one study of 6,632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
+Review of spontaneously reported adverse clinical events has not identified differences in reporting between elderly and younger patients, but greater sensitivity of some older patients can not be ruled out.
 
-There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY: Special Populations section).
+There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY: Special Populations).
 
 ## Use in Patients with Impaired Hepatic or Renal Function
 
 Buspirone is metabolized by the liver and excreted by the kidneys.
 A pharmacokinetic study in patients with impaired hepatic or renal function demonstrated increased plasma levels and a lengthened half-life of buspirone.
-Therefore, the administration of buspirone to patients with severe hepatic or renal impairment cannot be recommended (see CLINICAL PHARMACOLOGY section).
+Therefore, the administration of buspirone to patients with severe hepatic or renal impairment cannot be recommended (see CLINICAL PHARMACOLOGY).

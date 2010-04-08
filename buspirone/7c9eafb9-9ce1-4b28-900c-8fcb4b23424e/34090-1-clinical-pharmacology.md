@@ -17,8 +17,7 @@ The single-dose bioavailability of unchanged buspirone when taken as a tablet is
 
 The effects of food upon the bioavailability of buspirone have been studied in eight subjects.
 They were given a 20 mg dose with and without food; the area under the plasma concentration-time curve (AUC) and peak plasma concentration (Cmax) of unchanged buspirone increased by 84% and 116% respectively, but the total amount of buspirone immunoreactive material did not change.
-This suggests that food may decrease the extent of presystemic clearance of buspirone.
-(See DOSAGE AND ADMINISTRATION section.)
+This suggests that food may decrease the extent of presystemic clearance of buspirone (see DOSAGE AND ADMINISTRATION).
 
 A multiple-dose study conducted in 15 subjects suggests that buspirone has nonlinear pharmacokinetics.
 Thus, dose increases and repeated dosing may lead to somewhat higher blood levels of unchanged buspirone than would be predicted from results of single-dose studies.
@@ -26,16 +25,16 @@ Thus, dose increases and repeated dosing may lead to somewhat higher blood level
 An in vitro protein binding study indicated that approximately 86% of buspirone is bound to plasma proteins.
 It was also observed that aspirin increased the plasma levels of free buspirone by 23%, while flurazepam decreased the plasma levels of free buspirone by 20%.
 However, it is not known whether these drugs cause similar effects on plasma levels of free buspirone in vivo, or whether such changes, if they do occur, cause clinically significant differences in treatment outcome.
-An in vitro study indicated that buspirone did not displace highly protein-bound drugs such as phenytoin, warfarin, and propranolol from plasma protein, and that buspirone may displace digoxin.
+An in vitro study indicated that buspirone did not displace highly protein bound drugs such as phenytoin, warfarin, and propranolol from plasma protein, and that buspirone may displace digoxin.
 
 Buspirone is metabolized primarily by oxidation, which in vitro has been shown to be mediated by cytochrome P450 3A4 (CYP3A4).
-(See PRECAUTIONS: Drug Interactions section.)
+(See PRECAUTIONS: Drug Interactions.)
 Several hydroxylated derivatives and a pharmacologically active metabolite, 1-pyrimidinylpiperazine (1-PP), are produced.
 In animal models predictive of anxiolytic potential, 1-PP has about one quarter of the activity of buspirone, but is present in up to 20-fold greater amounts.
 However, this is probably not important in humans; blood samples from humans chronically exposed to buspirone do not exhibit high levels of 1-PP; mean values are approximately 3 ng/mL and the highest human blood level recorded among 108 chronically dosed patients was 17 ng/mL, less than 1/200th of 1-PP levels found in animals given large doses of buspirone without signs of toxicity.
 
 In a single-dose study using 14C-labeled buspirone, 29% to 63% of the dose was excreted in the urine within 24 hours, primarily as metabolites; fecal excretion accounted for 18% to 38% of the dose.
-The average elimination half-life of unchanged buspirone after single doses of 10 to 40 mg is about 2 to 3 hours.
+The average elimination half-life of unchanged buspirone after single doses of 10 mg to 40 mg is about 2 to 3 hours.
 
 ## Special Populations
 
@@ -45,11 +44,11 @@ After single or multiple doses in adults, no significant differences in buspiron
 
 ### Hepatic Impairment
 
-After multiple-dose administration of buspirone to patients with hepatic impairment, steady-state AUC of buspirone increased 13-fold compared with healthy subjects (see PRECAUTIONS section).
+After multiple-dose administration of buspirone to patients with hepatic impairment, steady-state AUC of buspirone increased 13-fold compared with healthy subjects (see PRECAUTIONS).
 
 ### Renal Impairment
 
-After multiple-dose administration of buspirone to renally impaired (Clcr = 10 to 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4-fold compared with healthy (Clcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS section).
+After multiple-dose administration of buspirone to renally impaired (CIcr = 10 to 70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4-fold compared with healthy (CIcr ≥ 80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
 
 ### Race Effects
 

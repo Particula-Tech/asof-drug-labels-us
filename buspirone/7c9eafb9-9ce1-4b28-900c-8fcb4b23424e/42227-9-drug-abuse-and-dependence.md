@@ -14,5 +14,5 @@ Studies in monkeys, mice, and rats have indicated that buspirone lacks potential
 
 Following chronic administration in the rat, abrupt withdrawal of buspirone did not result in the loss of body weight commonly observed with substances that cause physical dependency.
 
-Although there is no direct evidence that buspirone causes physical dependence or drug-seeking behavior, it is difficult to predict from experiments the extent to which a CNS-active drug will be misused, diverted, and/or abused once marketed.
-Consequently, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of buspirone misuse or abuse (e.g., development of tolerance, incrementation of dose, drug-seeking behavior).
+Although there is no direct evidence that buspirone causes physical dependence or drug seeking behavior, it is difficult to predict from experiments the extent to which a CNS active drug will be misused, diverted, and/or abused once marketed.
+Consequently, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of buspirone misuse or abuse (e.g., development of tolerance, incrementation of dose, drug seeking behavior).
