@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021217"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "MALLINCKRODT INC (BRAND PHARMACEUTICALS)",
+  "package_ndcs": [
+    "23635-408-01",
+    "23635-412-01",
+    "23635-416-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "hydromorphone hydrochloride",
+      "name": "EXALGO"
+    }
+  ],
+  "setid": "22e635cb-98c0-e4f9-6a71-62d7487a0a6c",
+  "source": "dailymed"
+}
