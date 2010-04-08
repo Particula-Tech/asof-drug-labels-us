@@ -1,4 +1,4 @@
-# PACKAGE CARTON – Gemzar 200 mg carton 1ct
+PACKAGE CARTON – Gemzar 200 mg carton 1ct
 
 NDC 0002-7501-01
 
@@ -22,7 +22,7 @@ DO NOT REFRIGERATE
 
 Rx only
 
-# PACKAGE CARTON – Gemzar 1 g carton 1ct
+PACKAGE CARTON – Gemzar 1 g carton 1ct
 
 NDC 0002-7502-01
 

@@ -1,69 +1,76 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Gemcitabine exhibits cell phase specificity, primarily killing cells undergoing DNA synthesis (S–phase) and also blocking the progression of cells through the G1/S–phase boundary.
+## 12.1 Mechanism of Action
+
+Gemcitabine exhibits cell phase specificity, primarily killing cells undergoing DNA synthesis (S-phase) and also blocking the progression of cells through the G1/S-phase boundary.
 Gemcitabine is metabolized intracellularly by nucleoside kinases to the active diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.
 The cytotoxic effect of gemcitabine is attributed to a combination of two actions of the diphosphate and the triphosphate nucleosides, which leads to inhibition of DNA synthesis.
 First, gemcitabine diphosphate inhibits ribonucleotide reductase, which is responsible for catalyzing the reactions that generate the deoxynucleoside triphosphates for DNA synthesis.
 Inhibition of this enzyme by the diphosphate nucleoside causes a reduction in the concentrations of deoxynucleotides, including dCTP.
 Second, gemcitabine triphosphate competes with dCTP for incorporation into DNA.
-The reduction in the intracellular concentration of dCTP (by the action of the diphosphate) enhances the incorporation of gemcitabine triphosphate into DNA (self–potentiation).
+The reduction in the intracellular concentration of dCTP (by the action of the diphosphate) enhances the incorporation of gemcitabine triphosphate into DNA (self-potentiation).
 After the gemcitabine nucleotide is incorporated into DNA, only one additional nucleotide is added to the growing DNA strands.
 After this addition, there is inhibition of further DNA synthesis.
 DNA polymerase epsilon is unable to remove the gemcitabine nucleotide and repair the growing DNA strands (masked chain termination).
 In CEM T lymphoblastoid cells, gemcitabine induces internucleosomal DNA fragmentation, one of the characteristics of programmed cell death.
 
-Gemcitabine demonstrated dose–dependent synergistic activity with cisplatin in vitro.
-No effect of cisplatin on gemcitabine triphosphate accumulation or DNA double–strand breaks was observed.
-In vivo, gemcitabine showed activity in combination with cisplatin against the LX–1 and CALU–6 human lung xenografts, but minimal activity was seen with the NCI–H460 or NCI–H520 xenografts.
+## 12.2 Pharmacodynamics
+
+Gemcitabine demonstrated dose-dependent synergistic activity with cisplatin in vitro.
+No effect of cisplatin on gemcitabine triphosphate accumulation or DNA double-strand breaks was observed.
+In vivo, gemcitabine showed activity in combination with cisplatin against the LX-1 and CALU-6 human lung xenografts, but minimal activity was seen with the NCI-H460 or NCI-H520 xenografts.
 Gemcitabine was synergistic with cisplatin in the Lewis lung murine xenograft.
 Sequential exposure to gemcitabine 4 hours before cisplatin produced the greatest interaction.
 
-## Human Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m2/30 minute infusion of radiolabeled drug.
-Within one (1) week, 92% to 98% of the dose was recovered, almost entirely in the urine.
-Gemcitabine (<10%) and the inactive uracil metabolite, 2′–deoxy–2′,2′–difluorouridine (dFdU), accounted for 99% of the excreted dose.
-The metabolite dFdU is also found in plasma.
-Gemcitabine plasma protein binding is negligible.
+Absorption and Distribution
 
-The pharmacokinetics of gemcitabine were examined in 353 patients, about 2/3 men, with various solid tumors.
+The pharmacokinetics of gemcitabine were examined in 353 patients, with various solid tumors.
 Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes).
 The total Gemzar dose varied from 500 to 3600 mg/m2.
 
-Gemcitabine pharmacokinetics are linear and are described by a 2–compartment model.
+The volume of distribution was increased with infusion length.
+Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes.
+For long infusions, the volume of distribution rose to 370 L/m2.
+
+Gemcitabine pharmacokinetics are linear and are described by a 2-compartment model.
 Population pharmacokinetic analyses of combined single and multiple dose studies showed that the volume of distribution of gemcitabine was significantly influenced by duration of infusion and gender.
-Clearance was affected by age and gender.
-Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half–life and plasma concentrations.
-Table 1 shows plasma clearance and half–life of gemcitabine following short infusions for typical patients by age and gender.
+Gemcitabine plasma protein binding is negligible.
 
-Table 1: Gemcitabine Clearance and Half–Life for the “Typical” Patient
+Metabolism
 
-| Age | Clearance Men (L/hr/m2) | Clearance Women (L/hr/m2) | Half–LifeHalf–life for patients receiving a short infusion (<70 min). Men (min) | Half–Life Women (min) |
+Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m2/30 minute infusion of radiolabeled drug.
+Within one (1) week, 92% to 98% of the dose was recovered, almost entirely in the urine.
+Gemcitabine (<10%) and the inactive uracil metabolite, 2′-deoxy-2′,2′-difluorouridine (dFdU), accounted for 99% of the excreted dose.
+The metabolite dFdU is also found in plasma.
+
+The active metabolite, gemcitabine triphosphate, can be extracted from peripheral blood mononuclear cells.
+The half-life of the terminal phase for gemcitabine triphosphate from mononuclear cells ranges from 1.7 to 19.4 hours.
+
+Excretion
+
+Clearance of gemcitabine was affected by age and gender.
+The lower clearance in women and the elderly results in higher concentrations of gemcitabine for any given dose.
+Differences in either clearance or volume of distribution based on patient characteristics or the duration of infusion result in changes in half-life and plasma concentrations.
+Table 9 shows plasma clearance and half-life of gemcitabine following short infusions for typical patients by age and gender.
+
+Table 9: Gemcitabine Clearance and Half-Life for the “Typical” Patient
+
+| Age | Clearance Men (L/hr/m2) | Clearance Women (L/hr/m2) | Half-Lifea Men (min) | Half-Lifea Women (min) |
 | --- | --- | --- | --- | --- |
 | 29 | 92.2 | 69.4 | 42 | 49 |
 | 45 | 75.7 | 57.0 | 48 | 57 |
 | 65 | 55.1 | 41.5 | 61 | 73 |
 | 79 | 40.7 | 30.7 | 79 | 94 |
+| a Half-life for patients receiving a short infusion (<70 min). |  |  |  |  |
 
-Gemcitabine half–life for short infusions ranged from 42 to 94 minutes, and the value for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
-The lower clearance in women and the elderly results in higher concentrations of gemcitabine for any given dose.
+Gemcitabine half-life for short infusions ranged from 42 to 94 minutes, and the value for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
 
-The volume of distribution was increased with infusion length.
-Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes, indicating that gemcitabine, after short infusions, is not extensively distributed into tissues.
-For long infusions, the volume of distribution rose to 370 L/m2, reflecting slow equilibration of gemcitabine within the tissue compartment.
-
-The maximum plasma concentrations of dFdU (inactive metabolite) were achieved up to 30 minutes after discontinuation of the infusions and the metabolite is excreted in urine without undergoing further biotransformation.
-The metabolite did not accumulate with weekly dosing, but its elimination is dependent on renal excretion, and could accumulate with decreased renal function.
-
-The effects of significant renal or hepatic insufficiency on the disposition of gemcitabine have not been assessed.
-
-The active metabolite, gemcitabine triphosphate, can be extracted from peripheral blood mononuclear cells.
-The half–life of the terminal phase for gemcitabine triphosphate from mononuclear cells ranges from 1.7 to 19.4 hours.
-
-## Drug Interactions
+Drug Interactions
 
 When Gemzar (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in NSCLC patients, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
-The clearance of cisplatin in the same study was reported to be 3.94 mL/min/m2 with a corresponding half–life of 134 hours (see Drug Interactions under PRECAUTIONS).
-Analysis of data from metastatic breast cancer patients shows that, on average, Gemzar has little or no effect on the pharmacokinetics (clearance and half–life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of Gemzar.
+The clearance of cisplatin in the same study was reported to be 3.94 mL/min/m2 with a corresponding half-life of 134 hours [see Drug Interactions (7)].
+Analysis of data from metastatic breast cancer patients shows that, on average, Gemzar has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of Gemzar.
 Data from NSCLC patients demonstrate that Gemzar and carboplatin given in combination does not alter the pharmacokinetics of Gemzar or carboplatin compared to administration of either single-agent.
 However, due to wide confidence intervals and small sample size, interpatient variability may be observed.
