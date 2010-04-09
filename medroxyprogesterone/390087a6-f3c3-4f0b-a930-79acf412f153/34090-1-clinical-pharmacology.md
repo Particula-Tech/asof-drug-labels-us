@@ -17,7 +17,7 @@ Pharmacokinetic Parameters of MPA after a Single SC Injection of depo-subQ prove
 | Mean | 1.56 | 8.8 | 0.402 | 66.98 | 92.84 | 43 |
 | Min | 0.53 | 2.0 | 0.133 | 20.63 | 31.36 | 16 |
 | Max | 3.08 | 80.0 | 0.733 | 139.79 | 162.29 | 114 |
-| Cmax = peak serum concentration; Tmax = time when Cmax is observed; C91 = serum concentration at 91 days; AUC0–91 and AUC0–∞= area under the concentration-time curve over 91 days or infinity, respectively; t½ = terminal half-life |  |  |  |  |  |  |
+| Cmax = peak serum concentration; Tmax = time when Cmax is observed; C91 = serum concentration at 91 days; AUC0–91 and AUC0–∞ = area under the concentration-time curve over 91 days or infinity, respectively; t½ = terminal half-life |  |  |  |  |  |  |
 
 ### Absorption
 

@@ -4,8 +4,8 @@ Patients should be counseled that this product does not protect against HIV infe
 
 Rx only
 
-LAB-0295-5.0 October 2007
+LAB-0295-9.0 July 2009
 
 Rx only
 
-LAB-0298-2.0
+LAB-0298-2.0 May 2006

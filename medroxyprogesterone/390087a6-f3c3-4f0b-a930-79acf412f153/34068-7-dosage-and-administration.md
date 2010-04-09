@@ -30,10 +30,12 @@ Similarly, contraceptive coverage will be maintained in switching from Depo-Prov
 Treatment for longer than two years is not recommended, due to the impact of long-term depo-subQ provera 104 on bone mineral density.
 If symptoms return after discontinuation of treatment, bone mineral density should be evaluated prior to retreatment.
 
-## Instructions for Administration of depo-subQ provera 104 for Subcutaneous Use
+## Instructions for Use of depo-subQ provera 104
+
+FOR SUBCUTANEOUS ADMINISTRATION ONLY
 
 Please read these instructions carefully.
-It is very important that the entire dose of depo-subQ provera 104 is given
+It is very important that the entire dose of depo-subQ provera 104 is given.
 
 Getting ready
 
@@ -44,18 +46,19 @@ depo-subQ provera 104, as with other parenteral drug products, should be inspect
 
 Step 1: Choosing & preparing the injection Area
 
-| Choose the injection area. Avoid boney areas and the umbilicusThe upper thigh & abdomen are preferred injection sites. See shaded areas to right | Preferred injection areas: |
+| Choose the injection area. Avoid boney areas and the umbilicusThe upper thigh & abdomen are preferred injection sites. See shaded areas in diagram | Preferred injection areas: |
 | --- | --- |
 | Use an alcohol pad to wipe the skin in the injection area you have chosen. Allow the skin to dry |  |
 
 Step 2: Syringe preparation
 
-| Gently twist off the protective end cap from the needle to break the seal. Set cap aside |  |
+| Carefully remove the needle and syringe from the packaging. Hold the syringe firmly by the barrel, with the barrel pointing upward. Shake it forcefully for at least 1 minute to thoroughly mix the medication |  |
 | --- | --- |
-| Hold the syringe firmly by the barrel pointing upward. Shake it forcefully for at least 1 minute to thoroughly mix the medication |  |
-| Hold the syringe barrel firmly. Remove the protective tip cap from the syringe and attach the needle by pushing it onto the barrel tip. |  |
-| Continue to hold the syringe barrel firmly. Remove the clear protective plastic cover from the needle, making sure the needle is still firmly attached to the syringe |  |
-| While holding the syringe with the needle pointing upward, Gently push in the plunger until the medicine is up to the top of the syringe—there should be no air within the barrel |  |
+| Hold the syringe barrel firmly. Unscrew the protective cap from the tip of the syringe barrel |  |
+| Hold the syringe barrel firmly. Attach the needle to the barrel of the syringe by pushing down firmly with a slight twist |  |
+| Move the safety shield away from the needle and toward the syringe barrel. The safety shield will remain in an open 45 to 90 degree position |  |
+| While holding the syringe barrel firmly, remove the plastic cover from the needle without twisting, ensuring the needle is still firmly attached to the syringe |  |
+| While holding the syringe with the needle pointing upward, gently push in the plunger until the medicine is up to the top of the syringe. There should be no air within the barrel |  |
 
 Step 3: Injecting the dose
 
@@ -63,7 +66,13 @@ Step 3: Injecting the dose
 | --- | --- |
 | Insert the needle at a 45 degree angle so that most of the needle is in the fatty tissue. The plastic hub of the needle should be nearly or almost touching the skin |  |
 | Inject the medication slowly until the syringe is empty. It is important that the entire dose of depo-subQ provera 104 is givenThis should take about 5–7 seconds |  |
-| After the entire dose is delivered, the plunger reaches the activation arms (see diagram to right) Some resistance might be felt when the activation arms are pushed open by the plunger rod |  |
-| Remove your thumb from the plunger while the syringe is still in the tissue. The syringe will automatically retract from the tissue and into the device, activating the needle guardYou may feel the spring’s force when the needle retracts |  |
+
+Step 4: Disposing the needle and syringe
+
+| After completing the injection, remove the needle from the skin and activate the safety shield. |  |
+| --- | --- |
+| Position shield about 40°– 45°. With a firm quick motion, press down against a flat surface until a click is heard or felt |  |
+| If uncertain that the safety shield is fully engaged, repeat this step. |  |
 | Use a clean cotton pad to press lightly on the injection area for a few seconds. Do NOT rub the area |  |
-| Following the administration of each dose, the used syringe should be discarded in a safe and proper manner. Keep away from children. |  |
+| Following the administration of each dose, the used syringe should be discarded in a safe and proper manner. |  |
+| Keep away from children. |  |

@@ -42,9 +42,9 @@ Table 4 shows the extent of recovery of BMD for women who completed 5 years of t
 Table 4.
 Mean Percent Change from Baseline in BMD in Women Using Depo-Provera CI (150 mg) or in Control Subjects
 
-| Time in Study | Depo-Provera CI (150 mg)The treatment group consisted of women who received Depo-Provera CI (150 mg) for 5 years and were then followed for 2 years post-use. | ControlThe control group consisted of women who did not use hormonal contraception and were followed for 7 years. | Depo-Provera CI (150 mg) | Control | Depo-Provera CI (150 mg) | Control |
+|  | Depo-Provera CI (150 mg)The treatment group consisted of women who received Depo-Provera CI (150 mg) for 5 years and were then followed for 2 years post-use. | ControlThe control group consisted of women who did not use hormonal contraception and were followed for 7 years. | Depo-Provera CI (150 mg) | Control | Depo-Provera CI (150 mg) | Control |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Lumbar Spine |  | Total Hip |  | Femoral Neck |  |
+| Time in Study | Lumbar Spine |  | Total Hip |  | Femoral Neck |  |
 | 5 years | n=33 -5.38% | n=105 0.43% | n=21 -5.16% | n=65 0.19% | n=34 -6.12% | n=106 -0.27% |
 | 7 years | n=12 -3.13% | n=60 0.53% | n=7 -1.34% | n=39 0.94% | n=13 -5.38 | n=63 -0.11% |
 
@@ -93,27 +93,23 @@ If abnormal bleeding is persistent or severe, appropriate investigation and trea
 In three contraception trials, 39.0 % of women experienced amenorrhea during month six, and 56.5% experienced amenorrhea during month 12.
 The changes in menstrual bleeding patterns from the three contraception trials are presented in Figures 3 and 4.
 
-Figure 3.
-Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Contraception Studies (ITT Population, N=2053)
+| Figure 3. Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Contraception Studies (ITT Population, N=2053) |
+| --- |
+| N = Number of subjects in analysis for indicated month |
 
-N = Number of subjects in analysis for indicated month
-
-Figure 4.
-Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Contraception Studies
-
-N = Number of subjects with bleeding and/or spotting during indicated month
+| Figure 4. Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Contraception Studies |
+| --- |
+| N = Number of subjects with bleeding and/or spotting during indicated month |
 
 The changes in menstrual patterns in the two endometriosis trials are presented in Figures 5 and 6.
 
-Figure 5.
-Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Endometriosis Studies (Combined ITT Population, N=289)
+| Figure 5. Percentages of depo-subQ provera 104 Treated Women with Amenorrhea per 30-Day Month in Endometriosis Studies (Combined ITT Population, N=289) |
+| --- |
+| N = Number of subjects in analysis for indicated month |
 
-N = Number of subjects in analysis for indicated month
-
-Figure 6.
-Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Endometriosis Studies Combined
-
-N = Number of subjects with bleeding and/or spotting during indicated month
+| Figure 6. Mean (25th, 75th Percentiles) Number of Bleeding and/or Spotting Days in the Subgroup of Women with Bleeding and/or Spotting by Month for Women Treated with depo-subQ provera 104 in Endometriosis Studies Combined |
+| --- |
+| N = Number of subjects with bleeding and/or spotting during indicated month |
 
 ## 3. Cancer Risks
 
