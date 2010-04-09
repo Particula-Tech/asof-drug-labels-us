@@ -31,6 +31,8 @@ Made in Canada
 A001970 Rev.
 8/03
 
+# Principal Display Panel
+
 NDC 0173-0676-01
 
 MALARONE®
