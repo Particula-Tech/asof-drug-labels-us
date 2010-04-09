@@ -1,0 +1,21 @@
+# DOSAGE AND ADMINISTRATION
+
+The dose of prazosin hydrochloride capsules USP should be adjusted according to the patient’s individual blood pressure response.
+The following is a guide to its administration:
+
+## Initial Dose
+
+1 mg two or three times a day (see WARNINGS).
+
+## Maintenance Dose
+
+Dosage may be slowly increased to a total daily dose of 20 mg given in divided doses.
+The therapeutic dosages most commonly employed have ranged from 6 mg to 15 mg daily given in divided doses.
+Doses higher than 20 mg usually do not increase efficacy, however a few patients may benefit from further increases up to a daily dose of 40 mg given in divided doses.
+After initial titration some patients can be maintained adequately on a twice daily dosage regimen.
+
+## Use With Other Drugs
+
+When adding a diuretic or other antihypertensive agent, the dose of prazosin hydrochloride capsules USP should be reduced to 1 mg or 2 mg three times a day and retitration then carried out.
+
+Concomitant administration of prazosin hydrochloride capsules USP with a PDE-5 inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension; therefore, PDE-5 inhibitor therapy should be initiated at the lowest dose in patients taking prazosin hydrochloride capsules USP.

@@ -1,0 +1,59 @@
+# PRINCIPAL DISPLAY PANEL
+
+## 1 mg - 250 Capsules Label Text
+
+NDC 0093-4067-52
+
+PRAZOSIN
+
+HYDROCHLORIDE
+
+Capsules USP
+
+1 mg*
+
+Rx only
+
+250 CAPSULES
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
+## 2 mg - 250 Capsules Label Text
+
+NDC 0093-4068-52
+
+PRAZOSIN
+
+HYDROCHLORIDE
+
+Capsules USP
+
+2 mg*
+
+Rx only
+
+250 CAPSULES
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
+## 5 mg - 250 Capsules Label Text
+
+NDC 0093-4069-52
+
+PRAZOSIN
+
+HYDROCHLORIDE
+
+Capsules USP
+
+5 mg*
+
+Rx only
+
+250 CAPSULES
+
+TEVA

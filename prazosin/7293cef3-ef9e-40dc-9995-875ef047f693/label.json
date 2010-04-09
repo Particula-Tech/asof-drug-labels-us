@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA071745",
+    "ANDA071994",
+    "ANDA071995"
+  ],
+  "inn": "prazosin",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-4067-01",
+    "0093-4067-10",
+    "0093-4067-52",
+    "0093-4068-01",
+    "0093-4068-10",
+    "0093-4068-52",
+    "0093-4069-01",
+    "0093-4069-05",
+    "0093-4069-52"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "prazosin hydrochloride",
+      "name": "Prazosin Hydrochloride"
+    }
+  ],
+  "setid": "7293cef3-ef9e-40dc-9995-875ef047f693",
+  "source": "dailymed"
+}
