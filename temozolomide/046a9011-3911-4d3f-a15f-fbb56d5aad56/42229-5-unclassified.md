@@ -1,11 +1,11 @@
-TEMODAR Capsules manufactured by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
+TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA.
 
-TEMODAR for Injection manufactured for Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
+TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany.
+Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA.
 
-© 1999, 2008, Schering Corporation.
-All rights reserved.
+Copyright© 1999, 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 U.S. Patent Nos. 5,260,291 and 6,987,108.
-Rev 2/10 31850924T
+Rev 4/10 318509XXT
 
 PHARMACIST:
 
@@ -169,10 +169,9 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 180-mg capsules (14 count) | 0085-1430-02 |
 | 250-mg capsules (5 count) | 0085-1417-01 |
 
-Manufactured by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
+TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK& CO., INC., Whitehouse Station, NJ 08889, USA.
 
-© 2005, Schering Corporation.
-All rights reserved.
+Copyright© 2005 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 U.S. Patent No. 5,260,291.
 Rev.
-2/09 33276907T
+4/10 332769XXT

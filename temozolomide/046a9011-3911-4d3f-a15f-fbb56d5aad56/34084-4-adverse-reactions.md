@@ -172,5 +172,5 @@ TEMODAR Capsules: allergic reactions, including anaphylaxis, have been reported.
 Erythema multiforme has been reported, which resolved after discontinuation of TEMODAR and, in some cases, recurred upon rechallenge.
 Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported.
 Opportunistic infections including Pneumocystis carinii pneumonia (PCP) have also been reported.
-Cases of interstitial pneumonitis/pneumonitis have been reported.
+Cases of interstitial pneumonitis/pneumonitis, alveolitis, and pulmonary fibrosis have been reported.
 Prolonged pancytopenia, which may result in aplastic anemia, has been reported, and in some cases has resulted in a fatal outcome.
