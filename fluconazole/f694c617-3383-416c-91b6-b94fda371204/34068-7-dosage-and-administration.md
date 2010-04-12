@@ -120,6 +120,7 @@ K × linear length or height (cm) serum creatinine (mg/100 mL)
 ## Administration
 
 DIFLUCAN may be administered either orally or by intravenous infusion.
+DIFLUCAN can be taken with or without food.
 DIFLUCAN injection has been used safely for up to fourteen days of intravenous therapy.
 The intravenous infusion of DIFLUCAN should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 

@@ -10,6 +10,10 @@ Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 an
 
 In fasted normal volunteers, administration of a single oral 400 mg dose of DIFLUCAN (fluconazole) leads to a mean Cmax of 6.72 µg/mL (range: 4.12 to 8.08 µg/mL) and after single oral doses of 50–400 mg, fluconazole plasma concentrations and AUC (area under the plasma concentration-time curve) are dose proportional.
 
+The Cmax and AUC data from a food-effect study involving administration of DIFLUCAN (fluconazole) tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that exposure to the drug is not affected by food.
+Therefore, DIFLUCAN may be taken without regard to meals.
+(see DOSAGE AND ADMINISTRATION.)
+
 Administration of a single oral 150 mg tablet of DIFLUCAN (fluconazole) to ten lactating women resulted in a mean Cmax of 2.61 µg/mL (range: 1.57 to 3.65 µg/mL).
 
 Steady-state concentrations are reached within 5–10 days following oral doses of 50–400 mg given once daily.

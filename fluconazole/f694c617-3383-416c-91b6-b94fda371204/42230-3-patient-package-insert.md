@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 DIFLUCAN® (fluconazole tablets)
 
