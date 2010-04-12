@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA077634"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-258-01",
+    "62756-258-02",
+    "62756-258-03",
+    "62756-258-04",
+    "62756-259-01",
+    "62756-259-02",
+    "62756-259-03",
+    "62756-259-04",
+    "62756-260-01",
+    "62756-260-02",
+    "62756-260-03",
+    "62756-260-04",
+    "62756-260-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "ZONISAMIDE"
+    }
+  ],
+  "setid": "3164d438-90bf-420a-9a56-5498b987f91c",
+  "source": "dailymed"
+}
