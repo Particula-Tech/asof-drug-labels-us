@@ -7,22 +7,12 @@
 
 Rx only
 
-Manufactured by:
+Manufactured by: Takeda Pharmaceutical Company Limited Osaka, Japan
 
-Takeda Pharmaceutical Company Limited
-
-Osaka, Japan
-
-Marketed by:
-
-Takeda Pharmaceuticals America, Inc.
-
-One Takeda Parkway
-
-Deerfield, IL 60015
+Marketed by: Takeda Pharmaceuticals America, Inc. One Takeda Parkway Deerfield, IL 60015
 
 ACTOS® is a registered trademark of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-05-1150 August 2008
+August 2008 ACT0808-R14
