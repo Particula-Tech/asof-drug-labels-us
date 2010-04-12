@@ -16,7 +16,7 @@ Therefore, caution should be used when treating individuals who have previously 
 With some NSAIDs, there exists the potential for increased bleeding time due to interference with thrombocyte aggregation.
 There have been reports that ocularly applied nonsteroidal anti-inflammatory drugs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.
 
-It is recommended that ACUVAIL™ ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
+It is recommended that ACUVAIL® ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
 
 ## 5.4 Corneal Effects
 
@@ -32,4 +32,4 @@ Postmarketing experience with topical NSAIDs also suggests that use more than 1 
 
 ## 5.5 Contact Lens Wear
 
-ACUVAIL™ should not be administered while wearing contact lenses.
+ACUVAIL® should not be administered while wearing contact lenses.
