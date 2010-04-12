@@ -1,8 +1,8 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 HYCAMTIN (topotecan hydrochloride) is a semi-synthetic derivative of camptothecin and is an anti-tumor drug with topoisomerase I-inhibitory activity.
 
-HYCAMTIN for Injection is supplied as a sterile lyophilized, buffered, light yellow to greenishpowder available in single-dose vials.
+HYCAMTIN for Injection is supplied as a sterile lyophilized, buffered, light yellow to greenish powder available in single-dose vials.
 Each vial contains topotecan hydrochloride equivalent to 4 mg of topotecan as free base.
 The reconstituted solution ranges in color from yellow to yellow-green and is intended for administration by intravenous infusion.
 

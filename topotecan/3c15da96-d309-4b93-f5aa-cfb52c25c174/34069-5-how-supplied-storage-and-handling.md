@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 HYCAMTIN for Injection is supplied in 4-mg (free base) single-dose vials.
 
@@ -6,11 +6,4 @@ NDC 0007-4201-01 (package of 1)
 
 NDC 0007-4201-05 (package of 5)
 
-## Storage
-
-Store the vials protected from light in the original cartons at controlled room temperature between 20° and 25°C (68° and 77°F) [see USP].
-
-## Handling and Disposal
-
-Procedures for proper handling and disposal of anticancer drugs should be used.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Storage: Store the vials protected from light in the original cartons at controlled room temperature between 20° and 25°C (68° and 77°F) [see USP].

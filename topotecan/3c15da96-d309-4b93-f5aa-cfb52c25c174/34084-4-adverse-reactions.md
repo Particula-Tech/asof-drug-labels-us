@@ -1,217 +1,156 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Ovarian Cancer and Small Cell Lung Cancer
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+### Ovarian Cancer and Small Cell Lung Cancer:
 
 Data in the following section are based on the combined experience of 453 patients with metastatic ovarian carcinoma, and 426 patients with small cell lung cancer treated with HYCAMTIN.
-Table 4 lists the principal hematologic toxicities, and Table 5 lists non-hematologic toxicities occurring in at least 15% of patients.
+Table 1 lists the principal hematologic adverse reactions and Table 2 lists non-hematologic adverse reactions occurring in at least 15% of patients.
 
-Table 4.
-Summary of Hematologic Adverse Events in Patients Receiving HYCAMTIN
+Table 1.
+Hematologic Adverse Reactions Experienced in ≥15% Ovarian Cancer and Small Cell Lung Cancer Patients Receiving HYCAMTIN
 
-| Hematologic Adverse Event | Patientsn = 879% Incidence | Coursesn = 4124% Incidence |
-| --- | --- | --- |
-| Neutropenia |  |  |
-| <1,500 cells/mm3 | 97 | 81 |
-| <500 cells/mm3 | 78 | 39 |
-| Leukopenia |  |  |
-| <3,000 cells/mm3 | 97 | 80 |
-| <1,000 cells/mm3 | 32 | 11 |
-| Thrombocytopenia |  |  |
-| <75,000/mm3 | 69 | 42 |
-| <25,000/mm3 | 27 | 9 |
-| Anemia |  |  |
-| <10 g/dL | 89 | 71 |
-| <8 g/dL | 37 | 14 |
-| Platelet transfusions | 15 | 4 |
-| RBC transfusions | 52 | 22 |
+| Hematologic Adverse Reaction | Patients(n = 879)% Incidence |
+| --- | --- |
+| Neutropenia |  |
+| <1,500 cells/mm3 | 97 |
+| <500 cells/mm3 | 78 |
+| Leukopenia |  |
+| <3,000 cells/mm3 | 97 |
+| <1,000 cells/mm3 | 32 |
+| Thrombocytopenia |  |
+| <75,000/mm3 | 69 |
+| <25,000/mm3 | 27 |
+| Anemia |  |
+| <10 g/dL | 89 |
+| <8 g/dL | 37 |
 
-Table 5.
-Summary of Non-hematologic Adverse Events in Patients Receiving HYCAMTIN
+Table 2.
+Non-hematologic Adverse Reactions Experienced by ≥15% of Ovarian Cancer and Small Cell Lung Cancer Patients Receiving HYCAMTIN
 
-| Non-hematologicAdverse Event | All Grades% Incidence |  | Grade 3% Incidence |  | Grade 4% Incidence |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| n = 879 | n = 4124 | n = 879 | n = 4124 | n = 879 | n = 4124 |  |
-| Patients | Courses | Patients | Courses | Patients | Courses |  |
-| Infections and infestations |  |  |  |  |  |  |
-| Sepsis or pyrexia/infection with neutropenia* | 43 | 15 | NR | NR | 23 | 7 |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| Anorexia | 19 | 9 | 2 | 1 | <1 | <1 |
-| Nervous system disorders |  |  |  |  |  |  |
-| Headache | 18 | 7 | 1 | <1 | <1 | 0 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |  |  |
-| Dyspnea | 22 | 11 | 5 | 2 | 3 | 1 |
-| Coughing | 15 | 7 | 1 | <1 | 0 | 0 |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| Nausea | 64 | 42 | 7 | 2 | 1 | <1 |
-| Vomiting | 45 | 22 | 4 | 1 | 1 | <1 |
-| Diarrhea | 32 | 14 | 3 | 1 | 1 | <1 |
-| Constipation | 29 | 15 | 2 | 1 | 1 | <1 |
-| Abdominal pain | 22 | 10 | 2 | 1 | 2 | <1 |
-| Stomatitis | 18 | 8 | 1 | <1 | <1 | <1 |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
-| Alopecia | 49 | 54 | NA | NA | NA | NA |
-| Rash† | 16 | 6 | 1 | <1 | 0 | 0 |
-| General disorders and administrative site conditions |  |  |  |  |  |  |
-| Fatigue | 29 | 22 | 5 | 2 | 0 | 0 |
-| Pyrexia | 28 | 11 | 1 | <1 | <1 | <1 |
-| Pain‡ | 23 | 11 | 2 | 1 | 1 | <1 |
-| Asthenia | 25 | 13 | 4 | 1 | 2 | <1 |
+| Non-hematologicAdverse Reaction | Percentage of Patients with Adverse Reaction (879 Patients) |  |  |
+| --- | --- | --- | --- |
+| All Grades | Grade 3 | Grade 4 |  |
+| Infections and infestations |  |  |  |
+| Sepsis or pyrexia/infection with neutropenia a | 43 | NR | 23 |
+| Metabolism and nutrition disorders |  |  |  |
+| Anorexia | 19 | 2 | <1 |
+| Nervous system disorders |  |  |  |
+| Headache | 18 | 1 | <1 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |
+| Dyspnea | 22 | 5 | 3 |
+| Coughing | 15 | 1 | 0 |
+| Gastrointestinal disorders |  |  |  |
+| Nausea | 64 | 7 | 1 |
+| Vomiting | 45 | 4 | 1 |
+| Diarrhea | 32 | 3 | 1 |
+| Constipation | 29 | 2 | 1 |
+| Abdominal pain | 22 | 2 | 2 |
+| Stomatitis | 18 | 1 | <1 |
+| Skin and subcutaneous tissue disorders |  |  |  |
+| Alopecia | 49 | NA | NA |
+| Rashb | 16 | 1 | 0 |
+| General disorders and administrative site conditions |  |  |  |
+| Fatigue | 29 | 5 | 0 |
+| Pyrexia | 28 | 1 | <1 |
+| Painc | 23 | 2 | 1 |
+| Asthenia | 25 | 4 | 2 |
 
 NA = Not applicable
 
 NR = Not reported separately
 
-* Does not include Grade 1 sepsis or pyrexia.
+a Does not include Grade 1 sepsis or pyrexia.
 
-† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+b Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
 
-‡ Pain includes body pain, back pain, and skeletal pain.
+c Pain includes body pain, back pain, and skeletal pain.
 
-Premedications were not routinely used in these clinical studies.
+### Nervous System Disorders:
 
-## Hematologic
-
-(See WARNINGS.)
-
-## Nervous System Disorders
-
-Headache (18% of patients) was the most frequently reported neurologic toxicity.
 Paresthesia occurred in 7% of patients but was generally grade 1.
 
-## Respiratory, Thoracic, and Mediastinal Disorders
-
-The incidence of grade 3/4 dyspnea was 4% in ovarian cancer patients and 12% in small cell lung cancer patients.
-
-## Gastrointestinal Disorders
-
-The incidence of nausea was 64% (8% grade 3/4), and vomiting occurred in 45% (6% grade 3/4) of patients (see Table 5).
-The prophylactic use of antiemetics was not routine in patients treated with HYCAMTIN.
-Thirty-two percent of patients had diarrhea (4% grade 3/4), 29% constipation (2% grade 3/4), and 22% had abdominal pain (4% grade 3/4).
-Grade 3/4 abdominal pain was 6% in ovarian cancer patients and 2% in small cell lung cancer patients.
-
-## Skin and Subcutaneous Tissue Disorders
-
-Total alopecia (grade 2) occurred in 31% of patients.
-
-## Hepatobiliary Disorders
+### Hepatobiliary Disorders:
 
 Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
 Greater elevations, grade 3/4, occurred in 4%.
 Grade 3/4 elevated bilirubin occurred in <2% of patients.
 
-Table 6 shows the grade 3/4 hematologic and major non-hematologic adverse events in the topotecan/paclitaxel comparator trial in ovarian cancer.
+Table 3 shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/paclitaxel comparator trial in ovarian cancer.
 
-Table 6.
-Comparative Toxicity Profiles for Ovarian Cancer Patients Randomized to Receive HYCAMTIN or Paclitaxel
+Table 3.
+Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to Receive HYCAMTIN or Paclitaxel
 
-| Adverse Event | HYCAMTIN |  | Paclitaxel |  |
-| --- | --- | --- | --- | --- |
-| Patients | Courses | Patients | Courses |  |
-| n = 112 | n = 597 | n = 114 | n = 589 |  |
-| Hematologic Grade 3/4 | % | % | % | % |
-| Grade 4 neutropenia (<500 cells/mm3) | 80 | 36 | 21 | 9 |
-| Grade 3/4 anemia (Hgb <8 g/dL) | 41 | 16 | 6 | 2 |
-| Grade 4 thrombocytopenia (<25,000 plts/mm3) | 27 | 10 | 3 | <1 |
-| Pyrexia/Grade 4 neutropenia | 23 | 6 | 4 | 1 |
-| Non-hematologic Grade 3/4 | % | % | % | % |
-| Infections and infestations |  |  |  |  |
-| Documented sepsis | 5 | 1 | 2 | <1 |
-| Death related to sepsis | 2 | NA | 0 | NA |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Anorexia | 4 | 1 | 0 | 0 |
-| Nervous system disorders |  |  |  |  |
-| Headache | 1 | <1 | 2 | 1 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
-| Dyspnea | 6 | 2 | 5 | 1 |
-| Gastrointestinal disorders |  |  |  |  |
-| Abdominal pain | 5 | 1 | 4 | 1 |
-| Constipation | 5 | 1 | 0 | 0 |
-| Diarrhea | 6 | 2 | 1 | <1 |
-| Intestinal obstruction | 5 | 1 | 4 | 1 |
-| Nausea | 10 | 3 | 2 | <1 |
-| Stomatitis | 1 | <1 | 1 | <1 |
-| Vomiting | 10 | 2 | 3 | <1 |
-| Hepatobiliary Disorders |  |  |  |  |
-| Hepatic enzymes increased* | 1 | <1 | 1 | <1 |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash† | 0 | 0 | 1 | <1 |
-| Musculoskeletal, connective tissue, and bone disorders |  |  |  |  |
-| Arthralgia | 1 | <1 | 3 | <1 |
-| General disorders and administrative site conditions |  |  |  |  |
-| Fatigue | 7 | 2 | 6 | 2 |
-| Malaise | 2 | <1 | 2 | <1 |
-| Asthenia | 5 | 2 | 3 | 1 |
-| Chest pain | 2 | <1 | 1 | <1 |
-| Myalgia | 0 | 0 | 3 | 2 |
-| Pain‡ | 5 | 1 | 7 | 2 |
+| Adverse Reaction | HYCAMTIN (n = 112) | Paclitaxel (n = 114) |
+| --- | --- | --- |
+| Hematologic Grade 3/4 | % | % |
+| Grade 4 neutropenia (<500 cells/mm3) | 80 | 21 |
+| Grade 3/4 anemia (Hgb <8 g/dL) | 41 | 6 |
+| Grade 4 thrombocytopenia (<25,000 plts/mm3) | 27 | 3 |
+| Pyrexia/Grade 4 neutropenia | 23 | 4 |
+| Non-hematologic Grade 3/4 | % | % |
+| Infections and infestations |  |  |
+| Documented sepsisa | 5 | 2 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Dyspnea | 6 | 5 |
+| Gastrointestinal disorders |  |  |
+| Abdominal pain | 5 | 4 |
+| Constipation | 5 | 0 |
+| Diarrhea | 6 | 1 |
+| Intestinal obstruction | 5 | 4 |
+| Nausea | 10 | 2 |
+| Vomiting | 10 | 3 |
+| General disorders and administrative site conditions |  |  |
+| Fatigue | 7 | 6 |
+| Asthenia | 5 | 3 |
+| Painb | 5 | 7 |
 
-* Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
+a Death related to sepsis occurred in 2% of patients receiving HYCAMTIN, and 0% of patients receiving paclitaxel.
 
-† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+b Pain includes body pain, skeletal pain, and back pain.
 
-‡ Pain includes body pain, skeletal pain, and back pain.
+Table 4 shows the grade 3/4 hematologic and major non-hematologic adverse reactions in the topotecan/CAV comparator trial in small cell lung cancer.
 
-Premedications were not routinely used in patients randomized to HYCAMTIN, whereas patients receiving paclitaxel received routine pretreatment with corticosteroids, diphenhydramine, and histamine receptor type 2 blockers.
+Table 4.
+Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive HYCAMTIN or CAV
 
-Table 7 shows the grade 3/4 hematologic and major non-hematologic adverse events in the topotecan/CAV comparator trial in small cell lung cancer.
+| Adverse Reaction | HYCAMTIN (n = 107) | CAV |
+| --- | --- | --- |
+| (n = 104) |  |  |
+| Hematologic Grade 3/4 | % | % |
+| Grade 4 neutropenia (<500 cells/mm3) | 70 | 72 |
+| Grade 3/4 anemia (Hgb <8 g/dL) | 42 | 20 |
+| Grade 4 thrombocytopenia (<25,000 plts/mm3) | 29 | 5 |
+| Pyrexia/Grade 4 neutropenia | 28 | 26 |
+| Non-hematologic Grade 3/4 | % | % |
+| Infections and infestations |  |  |
+| Documented sepsisa | 5 | 5 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Dyspnea | 9 | 14 |
+| Pneumonia | 8 | 6 |
+| Gastrointestinal disorders |  |  |
+| Abdominal pain | 6 | 4 |
+| Nausea | 8 | 6 |
+| General disorders and administrative site conditions |  |  |
+| Fatigue | 6 | 10 |
+| Asthenia | 9 | 7 |
+| Painb | 5 | 7 |
 
-Table 7.
-Comparative Toxicity Profiles for Small Cell Lung Cancer Patients Randomized to Receive HYCAMTIN or CAV
+a Death related to sepsis occurred in 3% of patients receiving HYCAMTIN, and 1% of patients receiving CAV.
 
-| Adverse Event | HYCAMTIN |  | CAV |  |
-| --- | --- | --- | --- | --- |
-| Patients | Courses | Patients | Courses |  |
-| n = 107 | n = 446 | n = 104 | n = 359 |  |
-| Hematologic Grade 3/4 | % | % | % | % |
-| Grade 4 neutropenia (<500 cells/mm3) | 70 | 38 | 72 | 51 |
-| Grade 3/4 anemia (Hgb <8 g/dL) | 42 | 18 | 20 | 7 |
-| Grade 4 thrombocytopenia (<25,000 plts/mm3) | 29 | 10 | 5 | 1 |
-| Pyrexia/Grade 4 neutropenia | 28 | 9 | 26 | 13 |
-| Non-hematologic Grade 3/4 | % | % | % | % |
-| Infections and infestations |  |  |  |  |
-| Documented sepsis | 5 | 1 | 5 | 1 |
-| Death related to sepsis | 3 | NA | 1 | NA |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Anorexia | 3 | 1 | 4 | 2 |
-| Nervous system disorders |  |  |  |  |
-| Headache | 0 | 0 | 2 | <1 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
-| Dyspnea | 9 | 5 | 14 | 7 |
-| Coughing | 2 | 1 | 0 | 0 |
-| Pneumonia | 8 | 2 | 6 | 2 |
-| Gastrointestinal disorders |  |  |  |  |
-| Abdominal pain | 6 | 1 | 4 | 2 |
-| Constipation | 1 | <1 | 0 | 0 |
-| Diarrhea | 1 | <1 | 0 | 0 |
-| Nausea | 8 | 2 | 6 | 2 |
-| Stomatitis | 2 | <1 | 1 | <1 |
-| Vomiting | 3 | <1 | 3 | 1 |
-| Hepatobiliary Disorders |  |  |  |  |
-| Increased hepatic enzymes* | 1 | <1 | 0 | 0 |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash† | 1 | <1 | 1 | <1 |
-| General disorders and administrative site conditions |  |  |  |  |
-| Fatigue | 6 | 4 | 10 | 3 |
-| Asthenia | 9 | 4 | 7 | 2 |
-| Pain‡ | 5 | 2 | 7 | 4 |
+b Pain includes body pain, skeletal pain, and back pain.
 
-* Increased hepatic enzymes includes increased SGOT/AST, increased SGPT/ALT, and increased hepatic enzymes.
+### Cervical Cancer:
 
-† Rash also includes pruritus, rash erythematous, urticaria, dermatitis, bullous eruption, and maculopapular rash.
+In the comparative trial with HYCAMTIN plus cisplatin versus cisplatin in patients with cervical cancer, the most common dose-limiting adverse reaction was myelosuppression.
+Table 5 shows the hematologic adverse reactions and Table 6 shows the non-hematologic adverse reactions in patients with cervical cancer.
 
-‡ Pain includes body pain, skeletal pain, and back pain.
+Table 5.
+Hematologic Adverse Reactions in Patients with Cervical Cancer Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapya
 
-Premedications were not routinely used in patients randomized to HYCAMTIN, whereas patients receiving CAV received routine pretreatment with corticosteroids, diphenhydramine, and histamine receptor type 2 blockers.
-
-## Cervical Cancer
-
-In the HYCAMTIN plus cisplatin versus cisplatin comparative trial in cervical cancer patients, the most common dose-limiting toxicity was myelosuppression.
-Table 8 shows the hematologic adverse events and Table 9 shows the non-hematologic adverse events in cervical cancer patients.
-
-Table 8.
-Hematologic Adverse Events in Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy*
-
-| Hematologic Adverse Event | HYCAMTIN Plus Cisplatin (n = 140) | Cisplatin(n = 144) |
+| Hematologic Adverse Reaction | HYCAMTIN Plus Cisplatin (n = 140) | Cisplatin(n = 144) |
 | --- | --- | --- |
 | Anemia |  |  |
 | All grades (Hgb <12 g/dL) | 131 (94%) | 130 (90%) |
@@ -230,18 +169,18 @@ Hematologic Adverse Events in Cervical Cancer Patients Treated with HYCAMTIN Plu
 | Grade 3 (<50,000-10,000 cells/mm3) | 36 (26%) | 5 (3%) |
 | Grade 4 (<10,000 cells/mm3) | 10 (7%) | 0 (0%) |
 
-* Includes patients who were eligible and treated.
+a Includes patients who were eligible and treated.
 
-Table 9.
-Non-hematologic Adverse Events Experienced by ≥5% of Cervical Cancer Patients Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapy*
+Table 6.
+Non-hematologic Adverse Reactions Experienced by ≥5% of Patients with Cervical Cancer Treated with HYCAMTIN Plus Cisplatin or Cisplatin Monotherapya
 
 |  | HYCAMTIN Plus Cisplatin |  |  | Cisplatin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | n = 140 |  |  | n = 144 |  |  |
-| Adverse Event | All Grades† | Grade 3 | Grade 4 | All Grades† | Grade 3 | Grade 4 |
+|  | (n = 140) |  |  | (n = 144) |  |  |
+| Adverse Reaction | All Gradesb | Grade 3 | Grade 4 | All Gradesb | Grade 3 | Grade 4 |
 | General disorders and administrative site conditions |  |  |  |  |  |  |
-| Constitutional‡ | 96 (69%) | 11 (8%) | 0 | 89 (62%) | 17 (12%) | 0 |
-| Pain§ | 82 (59%) | 28 (20%) | 3 (2%) | 72 (50%) | 18 (13%) | 5 (3%) |
+| Constitutionalc | 96 (69%) | 11 (8%) | 0 | 89 (62%) | 17 (12%) | 0 |
+| Paind | 82 (59%) | 28 (20%) | 3 (2%) | 72 (50%) | 18 (13%) | 5 (3%) |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Vomiting | 56 (40%) | 20 (14%) | 2 (1%) | 53 (37%) | 13 (9%) | 0 |
 | Nausea | 77 (55%) | 18 (13%) | 2 (1%) | 79 (55%) | 13 (9%) | 0 |
@@ -268,38 +207,44 @@ Non-hematologic Adverse Events Experienced by ≥5% of Cervical Cancer Patients 
 
 Data were collected using NCI Common Toxicity Criteria, v. 2.0.
 
-* Includes patients who were eligible and treated.
+a Includes patients who were eligible and treated.
 
-† Grades 1 through 4 only.
+b Grades 1 through 4 only.
 There were 3 patients who experienced grade 5 deaths with investigator-designated attribution.
 One was a grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
 A second patient experienced bowel obstruction, cardiac arrest, pleural effusion and respiratory failure which were not treatment related but probably aggravated by treatment.
 A third patient experienced a pulmonary embolism and adult respiratory distress syndrome, the latter was indirectly treatment-related.
 
-‡ Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
+c Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
 
-§ Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
+d Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
 
-## Postmarketing Reports of Adverse Events
+## 6.2 Postmarketing Experience
 
-Reports of adverse events in patients taking HYCAMTIN received after market introduction, which are not listed above, include the following:
+In addition to adverse reactions reported from clinical trials or listed in other sections of the prescribing information, the following reactions have been identified during post-marketing use of HYCAMTIN.
+Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to HYCAMTIN.
 
-### Blood and Lymphatic System Disorders
+### Blood and Lymphatic System Disorders:
 
-Rare: Severe bleeding (in association with thrombocytopenia).
+Severe bleeding (in association with thrombocytopenia) [see Warnings and Precautions (5.1)].
 
-### Immune System Disorders
+### Immune System Disorders:
 
-Infrequent: Allergic manifestations; rare: Anaphylactoid reactions.
+Allergic manifestations; Anaphylactoid reactions.
 
-### Gastrointestinal Disorders
+### Gastrointestinal Disorders:
 
-Abdominal pain potentially associated with neutropenic colitis (see WARNINGS).
+Abdominal pain potentially associated with neutropenic colitis [see Warnings and Precautions (5.2)].
 
-### Pulmonary Disorders
+### Pulmonary Disorders:
 
-Interstitial lung disease.
+Interstitial lung disease [see Warnings and Precautions (5.3)].
 
-### Skin and Subcutaneous Tissue Disorders
+### Skin and Subcutaneous Tissue Disorders:
 
-Rare: Angioedema, severe dermatitis, severe pruritus.
+Angioedema, severe dermatitis, severe pruritus.
+
+### General Disorders and Administrative Site Conditions:
+
+Inadvertant extravastation [see Warnings and Precautions (5.5)].
