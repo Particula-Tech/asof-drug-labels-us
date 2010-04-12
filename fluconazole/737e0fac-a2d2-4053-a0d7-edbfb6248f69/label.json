@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019949",
+    "NDA019950",
+    "NDA020090"
+  ],
   "inn": "fluconazole",
-  "labeler": "Roerig",
+  "labeler": "Greenstone LLC",
   "package_ndcs": [
     "59762-5015-1",
     "59762-5016-1",
@@ -9,11 +13,28 @@
     "59762-5018-1",
     "59762-5029-1",
     "59762-5030-1",
+    "59762-5034-2",
     "59762-5035-2",
     "59762-5036-2",
     "59762-5037-2"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    },
+    {
+      "form": "TABLET",
+      "generic": "fluconazole",
+      "name": "Fluconazole"
+    }
+  ],
   "setid": "737e0fac-a2d2-4053-a0d7-edbfb6248f69",
   "source": "dailymed"
 }

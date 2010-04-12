@@ -61,7 +61,7 @@ The following dose equivalency scheme should generally provide equivalent exposu
 | 12Some older children may have clearances similar to that of adults. Absolute doses exceeding 600 mg/day are not recommended. mg/kg | 400 mg |
 
 Experience with fluconazole in neonates is limited to pharmacokinetic studies in premature newborns.
-(see CLINICAL PHARMACOLOGY.)
+(See CLINICAL PHARMACOLOGY.)
 Based on the prolonged half-life seen in premature newborns (gestational age 26 to 29 weeks), these children, in the first two weeks of life, should receive the same dosage (mg/kg) as in older children, but administered every 72 hours.
 After the first two weeks, these children should be dosed once daily.
 No information regarding fluconazole pharmacokinetics in full-term newborns is available.
@@ -120,6 +120,7 @@ K × linear length or height (cm) serum creatinine (mg/100 mL)
 ## Administration
 
 Fluconazole may be administered either orally or by intravenous infusion.
+Fluconazole can be taken with or without food.
 Fluconazole injection has been used safely for up to fourteen days of intravenous therapy.
 The intravenous infusion of fluconazole should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 

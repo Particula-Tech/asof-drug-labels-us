@@ -82,8 +82,8 @@ Careful monitoring of serum theophylline concentrations in patients receiving fl
 ### Terfenadine
 
 Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
-One study at a 200-mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
-Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
@@ -93,7 +93,7 @@ The coadministration of fluconazole at doses lower than 400 mg/day with terfenad
 There have been reports of cardiac events, including torsade de pointes in patients to whom fluconazole and cisapride were coadministered.
 A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
 The combined use of fluconazole with cisapride is contraindicated.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+(See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Astemizole
 
@@ -171,7 +171,7 @@ Therefore, the use of fluconazole in nursing mothers is not recommended.
 An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in children 6 months to 13 years of age.
 (See CLINICAL STUDIES.)
 
-The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candidainfections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
+The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
 In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
 (See DOSAGE AND ADMINISTRATION.)
 
@@ -203,4 +203,4 @@ Other reported clinical experience has not identified differences in responses b
 Fluconazole is primarily cleared by renal excretion as unchanged drug.
 Because elderly patients are more likely to have decreased renal function, care should be taken to adjust dose based on creatinine clearance.
 It may be useful to monitor renal function.
-(see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)

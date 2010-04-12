@@ -1,1 +1,1 @@
-Rx only
+LAB-0289-7.0 January 2010
