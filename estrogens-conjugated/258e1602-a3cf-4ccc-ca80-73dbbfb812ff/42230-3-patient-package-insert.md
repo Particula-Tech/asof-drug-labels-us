@@ -151,7 +151,7 @@ You can get more information by calling the toll free number 800-934-5556.
 
 PREMARIN contains a mixture of conjugated estrogens, which are a mixture of sodium estrone sulfate and sodium equilin sulfate and other components including sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol, and 17 β-dihydroequilin.
 
-PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the following inactive ingredients: calcium phosphate tribasic, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose and titanium dioxide.
+PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the following inactive ingredients: calcium phosphate tribasic, carnauba wax, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, powdered cellulose, sucrose and titanium dioxide.
 
 The tablets come in different strengths and each strength tablet is a different color.
 The color ingredients are:
@@ -179,8 +179,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10405C025
+W10405C026
 
 ET01
 
-Rev 02/10
+Rev 03/10

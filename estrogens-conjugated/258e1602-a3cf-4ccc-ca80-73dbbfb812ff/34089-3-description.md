@@ -5,7 +5,7 @@ It is a mixture of sodium estrone sulfate and sodium equilin sulfate.
 It contains as concomitant components, as sodium sulfate conjugates, 17α-dihydroequilin, 17α-estradiol, and 17β-dihydroequilin.
 Tablets for oral administration are available in 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg strengths of conjugated estrogens.
 
-PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the following inactive ingredients: calcium phosphate tribasic, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, and titanium dioxide.
+PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the following inactive ingredients: calcium phosphate tribasic, carnauba wax, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, powdered cellulose, sucrose, and titanium dioxide.
 
 — 0.3 mg tablets also contain: D&C Yellow No. 10 and FD&C Blue No. 2.
 
