@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA012041"
+  ],
   "inn": "triamcinolone-acetonide",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-0494-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "KENALOG-10"
+    }
+  ],
   "setid": "ec04ecbb-2896-3feb-85fd-a64aba93b289",
   "source": "dailymed"
 }

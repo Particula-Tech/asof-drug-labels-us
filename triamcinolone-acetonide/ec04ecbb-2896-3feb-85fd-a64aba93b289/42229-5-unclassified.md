@@ -6,4 +6,4 @@ NOT FOR INTRAVENOUS, INTRAMUSCULAR, OR INTRAOCULAR USE
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Italy
 
-1221154A1 Rev December 2007
+Rev February 2010

@@ -18,6 +18,9 @@ Increased dosage of rapidly acting corticosteroids is indicated in patients on c
 
 Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) is a long-acting preparation, and is not suitable for use in acute stress situations.
 
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+High doses of systemic corticosteroids, including Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP), should not be used for the treatment of traumatic brain injury.
+
 ## Cardio-Renal
 
 Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
@@ -94,7 +97,6 @@ The use of oral corticosteroids is not recommended in the treatment of optic neu
 Corticosteroids should not be used in active ocular herpes simplex.
 
 Adequate studies to demonstrate the safety of Kenalog Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar and intraocular (intravitreal) injections have not been performed.
-Several instances of blindness have been reported following injection of corticosteroid suspensions into the nasal turbinates and intralesional injection about the head.
 Endophthalmitis, eye inflammation, increased intraocular pressure and visual disturbances including vision loss have been reported with intravitreal administration.
 Administration of Kenalog Injection (triamcinolone acetonide injectable suspension, USP) intraocularly or into the nasal turbinates is not recommended.
 
@@ -250,7 +252,7 @@ This product contains benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
 The “gasping syndrome” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Although normal therapeutic dosesof this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome,” the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome,” the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
