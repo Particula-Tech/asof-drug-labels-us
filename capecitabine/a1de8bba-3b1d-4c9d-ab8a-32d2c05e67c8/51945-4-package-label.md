@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Label
 
 NDC 0004-1100-20
 
@@ -6,13 +6,13 @@ Xeloda® (capecitabine) Tablets
 
 150 mg
 
-Each tablet contains 150 mg capecitabine
+Each tablet contains 150 mg capecitabine.
 
 60 tablets Rx only
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Label
 
 NDC 0004-1101-50
 
