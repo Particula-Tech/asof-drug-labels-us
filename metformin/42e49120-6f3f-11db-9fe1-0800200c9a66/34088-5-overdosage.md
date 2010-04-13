@@ -6,7 +6,7 @@ During controlled clinical trials, one case of overdose with pioglitazone was re
 A male patient took 120 mg per day for four days, then 180 mg per day for seven days.
 The patient denied any clinical symptoms during this period.
 
-In the event of overdosage, appropriate supportive treatment should be initiated according to patient’s clinical signs and symptoms.
+In the event of overdosage, appropriate supportive treatment should be initiated according to patient's clinical signs and symptoms.
 
 ## Metformin hydrochloride
 

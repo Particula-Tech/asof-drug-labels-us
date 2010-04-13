@@ -1,14 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021842"
+  ],
   "inn": "metformin",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
     "64764-155-18",
+    "64764-155-41",
     "64764-155-60",
     "64764-158-18",
+    "64764-158-41",
     "64764-158-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pioglitazone hydrochloride and metformin hydrochloride",
+      "name": "Actoplus Met"
+    }
+  ],
   "setid": "42e49120-6f3f-11db-9fe1-0800200c9a66",
   "source": "dailymed"
 }

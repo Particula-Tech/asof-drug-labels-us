@@ -18,7 +18,7 @@ Table 5 Number of First and Total Events for Each Component within the Cardiovas
 | Non-fatal MI | 118 | 157 | 105 | 131 |
 | Stroke | 96 | 119 | 76 | 92 |
 | ACS | 63 | 78 | 42 | 65 |
-| Cardiac intervention (CABG/PCI) | 101 | 240 | 101 | 195 |
+| Cardiac intervention | 101 | 240 | 101 | 195 |
 | Major leg amputation | 15 | 28 | 9 | 28 |
 | Leg revascularization | 57 | 92 | 71 | 115 |
 
@@ -59,4 +59,4 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 ©2005 Takeda Pharmaceuticals America, Inc.
 
-05-1151 December 2008
+December 2008 APM0808-R6

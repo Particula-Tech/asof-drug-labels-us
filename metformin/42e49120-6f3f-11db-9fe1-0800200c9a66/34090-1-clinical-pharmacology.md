@@ -34,12 +34,12 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 
 #### ACTOPLUS MET
 
-In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS® 15 mg concomitantly administered with Glucophage® (500 mg or 850 mg, respectively) tablets under fasted conditions in healthy subjects (Table 1).
+In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS® 15 mg concomitantly administered with Glucophage® (500 mg or 850 mg respectively) tablets under fasted conditions in healthy subjects (Table 1).
 
 Table 1.
 Mean (SD) Pharmacokinetic Parameters for ACTOPLUS MET®
 
-| Regimen | N | AUC(0-inf) (ng· h/mL) |  | N | Cmax (ng/mL) | N |  | Tmax (h) | N | T1/2 (h) |
+| Regimen | N | AUC(0-inf) (ng∙ h/mL) |  | N | Cmax (ng/mL) | N |  | Tmax (h) | N | T1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | pioglitazone HCl |  |  |  |  |  |  |  |  |  |  |
 | 15 mg/500 mg ACTOPLUS MET® | 51 | 5984 (1599) | 63 |  | 585 (198) |  | 63 | 1.83 (0.93) | 51 | 8.69 (3.86) |
@@ -123,7 +123,7 @@ The serum elimination half-life of pioglitazone, M-III and M-IV remains unchange
 
 #### Metformin hydrochloride
 
-In patients with decreased renal function (based on creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance (see CONTRAINDICATIONS and WARNINGS,Metformin hydrochloride, also see GLUCOPHAGE® prescribing information, CLINICAL PHARMACOLOGY, Pharmacokinetics).
+In patients with decreased renal function (based on creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance (see CONTRAINDICATIONS and WARNINGS, Metformin hydrochloride, also see GLUCOPHAGE® prescribing information, CLINICAL PHARMACOLOGY, Pharmacokinetics).
 Since metformin is contraindicated in patients with renal impairment, ACTOPLUS MET is also contraindicated in these patients.
 
 ### Hepatic Insufficiency:
@@ -168,7 +168,7 @@ After administration of a single oral metformin 500 mg tablet with food, geometr
 
 As monotherapy and in combination with sulfonylurea, metformin, or insulin, pioglitazone improved glycemic control in both males and females.
 The mean Cmax and AUC values were increased 20% to 60% in females.
-In controlled clinical trials, hemoglobin A1C(A1C) decreases from baseline were generally greater for females than for males (average mean difference in A1C 0.5%).
+In controlled clinical trials, hemoglobin A1C (A1C) decreases from baseline were generally greater for females than for males (average mean difference in A1C 0.5%).
 Since therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.
 
 #### Metformin hydrochloride

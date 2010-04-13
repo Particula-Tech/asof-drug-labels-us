@@ -179,7 +179,7 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 Patients should be instructed regarding the importance of adhering to dietary instructions, a regular exercise program, and regular testing of blood glucose and A1C.
 During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be reminded to seek medical advice promptly.
 
-The risks of lactic acidosis, its symptoms and conditions that predispose to its development, as noted in the WARNINGS,Metformin hydrochloride and PRECAUTIONS, General: Metformin hydrochloride sections, should be explained to patients.
+The risks of lactic acidosis, its symptoms and conditions that predispose to its development, as noted in the WARNINGS, Metformin hydrochloride and PRECAUTIONS, General: Metformin hydrochloride sections, should be explained to patients.
 Patients should be advised to discontinue ACTOPLUS MET immediately and to promptly notify their health care professional if unexplained hyperventilation, myalgia, malaise, unusual somnolence or other nonspecific symptoms occur.
 Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of ACTOPLUS MET therapy; however, patients should consult with their physician if they develop unexplained symptoms.
 Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
@@ -210,7 +210,7 @@ Patients should be told to take ACTOPLUS MET as prescribed and instructed that a
 In vivo drug-drug interaction studies have suggested that pioglitazone may be a weak inducer of CYP450 isoform 3A4 substrate.
 
 An enzyme inhibitor of CYP2C8 (such as gemfibrozil) may significantly increase the AUC of pioglitazone and an enzyme inducer of CYP2C8 (such as rifampin) may significantly decrease the AUC of pioglitazone.
-Therefore, if an inhibitor or inducer of CYP2C8 is started or stopped during treatment with pioglitazone, changes in diabetes treatment may be needed based on clinical response (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions,Pioglitazone hydrochloride).
+Therefore, if an inhibitor or inducer of CYP2C8 is started or stopped during treatment with pioglitazone, changes in diabetes treatment may be needed based on clinical response (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions, Pioglitazone hydrochloride).
 
 ### Metformin hydrochloride
 
