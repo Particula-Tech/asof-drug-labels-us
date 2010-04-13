@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-Immediately before dental extraction in patients with hemophilia, administer 10 mg per kg body weight of CYKLOKAPRON intravenously together with replacement therapy (see PRECAUTIONS).
-Following surgery, parenteral therapy, at a dose of 10 mg per kg body weight three to four times daily, may be used for 2 to 8 days.
+Immediately before tooth extraction in patients with hemophilia, administer 10 mg per kg body weight of CYKLOKAPRON intravenously together with replacement therapy (see PRECAUTIONS).
+Following tooth extraction, intravenous therapy, at a dose of 10 mg per kg body weight three to four times daily, may be used for 2 to 8 days.
 
 Note: For patients with moderate to severe impaired renal function, the following dosages are recommended:
 
