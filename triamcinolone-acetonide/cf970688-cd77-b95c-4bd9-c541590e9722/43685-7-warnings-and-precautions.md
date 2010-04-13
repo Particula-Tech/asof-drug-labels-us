@@ -21,6 +21,9 @@ Increased dosage of rapidly acting corticosteroids is indicated in patients on c
 Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) is a long-acting preparation, and is not suitable for use in acute stress situations.
 To avoid drug-induced adrenal insufficiency, supportive dosage may be required in times of stress (such as trauma, surgery or severe illness) both during treatment with Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) and for a year afterwards.
 
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+High doses of systemic corticosteroids, including Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP), should not be used for the treatment of traumatic brain injury.
+
 ## Cardio-Renal
 
 Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
@@ -51,7 +54,7 @@ Corticosteroids may also mask some signs of current infection.
 ### Fungal Infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions:Amphotericin B injection and potassium-depleting agents).
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions: Amphotericin B injection and potassium-depleting agents).
 
 ### Special Pathogens
 
@@ -89,7 +92,7 @@ If chicken pox develops, treatment with antiviral agents should be considered.
 
 ## Neurologic
 
-Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS:Gastrointestinal and Neurologic/Psychiatric).
+Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS: Gastrointestinal and Neurologic/Psychiatric).
 
 ## Ophthalmic
 
@@ -98,7 +101,6 @@ The use of oral corticosteroids is not recommended in the treatment of optic neu
 Corticosteroids should not be used in active ocular herpes simplex.
 
 Adequate studies to demonstrate the safety of Kenalog Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar and intraocular (intravitreal) injections have not been performed.
-Several instances of blindness have been reported following injection of corticosteroid suspensions into the nasal turbinates and intralesional injection about the head.
 Endophthalmitis, eye inflammation, increased intraocular pressure and visual disturbances including vision loss have been reported with intravitreal administration.
 Administration of Kenalog Injection (triamcinolone acetonide injectable suspension, USP) intraocularly or into the nasal turbinates is not recommended.
 
@@ -151,7 +153,7 @@ Local injection of a steroid into a previously infected joint is not usually rec
 
 Corticosteroid injection into unstable joints is generally not recommended.
 
-Intra-articular injection may result in damage to joint tissues (see ADVERSE REACTIONS:Musculoskeletal).
+Intra-articular injection may result in damage to joint tissues (see ADVERSE REACTIONS: Musculoskeletal).
 
 ## Musculoskeletal
 
@@ -259,7 +261,7 @@ Premature and low-birth-weight infants, as well as patients receiving high dosag
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
-Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephroticsyndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
+Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
 Other indications for pediatric use of corticosteroids, eg, severe asthma and wheezing, are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
