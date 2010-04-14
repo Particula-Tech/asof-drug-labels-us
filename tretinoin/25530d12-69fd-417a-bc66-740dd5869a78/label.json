@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020438"
+  ],
   "inn": "tretinoin",
-  "labeler": "Roche Pharmaceuticals",
+  "labeler": "Hoffmann-La Roche",
   "package_ndcs": [
     "0004-0250-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "tretinoin",
+      "name": "Vesanoid"
+    }
+  ],
   "setid": "25530d12-69fd-417a-bc66-740dd5869a78",
   "source": "dailymed"
 }
