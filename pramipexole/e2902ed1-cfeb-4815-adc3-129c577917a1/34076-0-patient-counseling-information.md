@@ -8,7 +8,7 @@ This leaflet does not take the place of discussions with your doctor about your 
 
 What is MIRAPEX ER?
 
-MIRAPEX ER tablets are a prescription medicine to treat the signs and symptoms of early Parkinson's disease.
+MIRAPEX ER tablets are a prescription medicine to treat the signs and symptoms of Parkinson's disease.
 
 MIRAPEX ER tablets have not been studied in children.
 It is not known if MIRAPEX ER tablets are safe or effective in children.
@@ -114,7 +114,9 @@ MIRAPEX ER tablets can cause serious side effects, including:
 - unusual urges.
   See "What important safety information should I know about MIRAPEX ER?"
 
-The most common side effects in people taking MIRAPEX ER tablets for Parkinson’s disease are sleepiness, nausea and vomiting, constipation, dizziness, fatigue, hallucinations, dry mouth, muscle spasms, and edema (swelling of the feet and ankles).
+The most common side effects in people taking MIRAPEX ER tablets for early Parkinson’s disease are sleepiness, nausea and vomiting, constipation, dizziness, fatigue, hallucinations, dry mouth, muscle spasms, and edema (swelling of the feet and ankles).
+
+The most common side effects in people taking MIRAPEX ER tablets who have later stage Parkinson’s disease are abnormal movements, nausea, constipation, hallucinations, headache, and anorexia.
 
 These are not all the possible side effects of MIRAPEX ER tablets.
 Tell your doctor if you have any side effect that bothers you.

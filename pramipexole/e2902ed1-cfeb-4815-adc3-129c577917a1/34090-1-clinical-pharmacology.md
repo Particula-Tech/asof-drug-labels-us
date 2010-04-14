@@ -59,7 +59,7 @@ Race No racial differences in metabolism and elimination have been identified.
 Hepatic Impairment The influence of hepatic insufficiency on pramipexole pharmacokinetics has not been evaluated.
 Because approximately 90% of the recovered dose is excreted in the urine as unchanged drug, hepatic impairment would not be expected to have a significant effect on pramipexole elimination.
 
-Renal Impairment Clearance of immediate-release pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)].
+Renal Impairment Clearance of immediate-release pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
 In patients with varying degrees of renal impairment, pramipexole clearance correlates well with creatinine clearance.
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 

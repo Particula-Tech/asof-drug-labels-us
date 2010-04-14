@@ -35,4 +35,4 @@ MIRAPEX ER tablets have not been studied in patients with severe renal impairmen
 ## 2.3 Switching from Immediate-Release Pramipexole Tablets to MIRAPEX ER
 
 Patients may be switched overnight from immediate-release pramipexole tablets to MIRAPEX ER tablets at the same daily dose.
-When switching between immediate-release pramipexole tablets and MIRAPEX ER tablets, patients should be monitored to determine if dosage adjustment is necessary [see Clinical Studies (14)].
+When switching between immediate-release pramipexole tablets and MIRAPEX ER tablets, patients should be monitored to determine if dosage adjustment is necessary.

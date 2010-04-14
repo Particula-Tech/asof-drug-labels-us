@@ -17,10 +17,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-U.S. Patent No. 4,886,812
-
 ©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: February 2010
+Rev: March 2010
 
-OT220011DB1710 74988-01
+OT220011FC1910 74988-02

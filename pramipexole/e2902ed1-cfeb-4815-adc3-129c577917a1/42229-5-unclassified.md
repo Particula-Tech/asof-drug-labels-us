@@ -23,17 +23,13 @@ Since somnolence is a frequent adverse event with potentially serious consequenc
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
 Because of possible additive effects, caution should be advised when patients are taking other sedating medications or alcohol in combination with MIRAPEX ER and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
 
-## 17.3 Hallucinations
+## 17.3 Impulse Control Symptoms Including Compulsive Behaviors
 
-Inform patients that hallucinations can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.3)].
+Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking MIRAPEX ER [see Warnings and Precautions (5.3)].
 
-## 17.4 Impulse Control Symptoms Including Compulsive Behaviors
+## 17.4 Hallucinations
 
-There have been reports of patients experiencing intense urges to gamble, increased sexual urges, other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson’s disease, including pramipexole.
-Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
-Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other urges while being treated with MIRAPEX ER tablets.
-Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking MIRAPEX ER tablets.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking MIRAPEX ER tablets [see Adverse Reactions (6.1)].
+Inform patients that hallucinations can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
 
 ## 17.5 Postural (Orthostatic) Hypotension
 
@@ -50,4 +46,4 @@ Because the teratogenic potential of pramipexole has not been completely establi
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Licensed from: Boehringer Ingelheim International GmbH Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
-Trademark under license from: Boehringer Ingelheim International GmbH U.S. Patent No. 4,886,812 ©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED Rev: February 2010 OT220011DB1710 74988-01
+Trademark under license from: Boehringer Ingelheim International GmbH ©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED Rev: March 2010 OT220011FC1910 74988-02

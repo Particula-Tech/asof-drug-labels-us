@@ -36,4 +36,4 @@ Among patients receiving MIRAPEX ER tablets, hallucinations were more common in 
 ## 8.6 Patients with Renal Impairment
 
 The elimination of pramipexole is dependent upon renal function.
-Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.5), and Clinical Pharmacology (12.3)].
+Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
