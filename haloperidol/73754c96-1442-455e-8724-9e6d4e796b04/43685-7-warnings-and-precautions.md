@@ -1,5 +1,10 @@
 # WARNINGS
 
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+HALDOL Injection is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
+
 ## Cardiovascular Effects
 
 Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving HALDOL.
@@ -22,7 +27,7 @@ Antipsychotic treatment, itself, however, may suppress (or partially suppress) t
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
@@ -81,6 +86,21 @@ The use of alcohol with this drug should be avoided due to possible additive eff
 
 # PRECAUTIONS
 
+## Leukopenia, Neutropenia, and Agranulocytosis
+
+### Class Effect
+
+In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including HALDOL.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of HALDOL should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue HALDOL and have their WBC followed until recovery.
+
+## Other
+
 HALDOL (haloperidol) should be administered cautiously to patients:
 
 - –with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
@@ -97,7 +117,7 @@ The physician should keep in mind the possible increase in intraocular pressure 
 
 As with other antipsychotic agents, it should be noted that HALDOL may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
 
-In a study of 12 schizophrenic patients coadministered haloperidoland rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
+In a study of 12 schizophrenic patients coadministered haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
 In 5 other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
 Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
 
@@ -109,7 +129,7 @@ No mutagenic potential of haloperidol was found in the Ames Salmonella microsoma
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number.
 The available cytogenetic evidence is considered too inconsistent to be conclusive at this time.
 
-Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed up to 5 mg/kg daily for 18 months).
+Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors.
 However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
 Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
@@ -126,7 +146,7 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 There are no well controlled studies with HALDOL (haloperidol) in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of HALDOL along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
-Since such experience does not exclude the possibility of fetal damage due to HALDOL, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearlyjustifies a potential risk to the fetus.
+Since such experience does not exclude the possibility of fetal damage due to HALDOL, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
 
 ## Pediatric Use
@@ -137,5 +157,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
-However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNNGS, Tardive Dyskinesia).
+However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).

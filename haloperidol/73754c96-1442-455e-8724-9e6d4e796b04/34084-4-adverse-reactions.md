@@ -11,16 +11,19 @@ The possibility that HALDOL caused death cannot, of course, be excluded, but it 
 
 ## CNS Effects
 
-### Extrapyramidal Symptoms(EPS)
+### Extrapyramidal Symptoms (EPS)
 
-EPS during the administration of HALDOL (haloperidol) have been reported frequently, often during the first few days of treatment, EPS can be categorized generally as Parkinson-like symptoms, akathisia or dystonia (including opisthotonos and oculogyric crisis).
+EPS during the administration of HALDOL (haloperidol) have been reported frequently, often during the first few days of treatment.
+EPS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis).
 While all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses.
 The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate USP or trihexyphenidyl hydrochloride USP.
 It should be noted that persistent EPS have been reported; the drug may have to be discontinued in such cases.
 
 ### Dystonia
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+#### Class Effect
+
+Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -76,7 +79,7 @@ Maculopapular and acneiform skin reactions and isolated cases of photosensitivit
 
 ## Endocrine Disorders
 
-Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia, and hyponatremia.
+Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
 
 ## Gastrointestinal Effects
 

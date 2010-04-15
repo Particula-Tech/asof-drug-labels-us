@@ -1,19 +1,16 @@
-# Rx Only
+(For Immediate Release)
 
 # ACTIONS
 
 The precise mechanism of action has not been clearly established.
 
-# Cardiovascular Effects
-
-Manufactured by:
-
-Janssen Pharmaceutica N.V.
-
+Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
-Distributed by: ORTHO-McNEIL PHARMACEUTICAL, INC. Raritan, New Jersey 08869
+Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-February 2008
+Revised July 2009
 
-©OMP 2005
+©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2005
+
+US-XXXXXX

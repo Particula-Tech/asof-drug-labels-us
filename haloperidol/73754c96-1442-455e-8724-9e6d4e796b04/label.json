@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA015923"
+  ],
   "inn": "haloperidol",
-  "labeler": "ORTHO-McNEIL PHARMACEUTICAL, INC.",
+  "labeler": "McNeil Pharmaceuticals",
   "package_ndcs": [
     "0045-0255-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "haloperidol lactate",
+      "name": "Haldol"
+    }
+  ],
   "setid": "73754c96-1442-455e-8724-9e6d4e796b04",
   "source": "dailymed"
 }
