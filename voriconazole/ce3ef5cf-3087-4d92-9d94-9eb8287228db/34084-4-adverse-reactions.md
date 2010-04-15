@@ -23,7 +23,7 @@ Table 13 Treatment Emergent Adverse Events
 
 | Special SensesSee WARNINGS – Visual Disturbances, PRECAUTIONS – Information for Patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305. Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis |  |  |  |  |  |  |
+| Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305. Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis |  |  |  |  |  |  |
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
 | Voriconazole N = 1655 | Voriconazole N = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N= 131 | Voriconazole N = 200 | Fluconazole N =191 |  |
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -65,7 +65,7 @@ The visual disturbances were generally mild and rarely resulted in discontinuati
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which could have contributed to these events (see WARNINGS).
+These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events (see WARNINGS).
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
@@ -79,10 +79,13 @@ Dermatological reactions were common in the patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse events remains unknown.
 In clinical trials, rashes considered related to therapy were reported by 7% (110/1655) of voriconazole-treated patients.
 The majority of rashes were of mild to moderate severity.
-Cases of photosensitivity reactions appear to be more likely to occur with long-term treatment.
+
 Patients have rarely developed serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme during treatment with VFEND.
-If patients develop a rash, they should be monitored closely and consideration given to discontinuation of VFEND.
+If a patient develops an exfoliative cutaneous reaction, VFEND should be discontinued.
+In addition, VFEND has been associated with photosensitivity skin reactions, which seem to be more likely to occur with long-term treatment.
 It is recommended that patients avoid strong, direct sunlight during VFEND therapy.
+In patients with photosensitivity skin reactions and additional risk factors, squamous cell carcinoma of the skin and melanoma have been reported during long-term therapy.
+If a patient develops a skin lesion consistent with squamous cell carcinoma or melanoma, voriconazole discontinuation should be considered.
 
 ## Less Common Adverse Events
 
@@ -108,7 +111,7 @@ Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amn
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanosis, photosensitivity skin reaction, pruritus, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, sweating, toxic epidermal necrolysis, urticaria
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect
 

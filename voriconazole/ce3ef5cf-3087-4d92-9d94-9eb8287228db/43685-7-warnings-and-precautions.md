@@ -4,7 +4,7 @@
 
 The effect of VFEND on visual function is not known if treatment continues beyond 28 days.
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
-These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which could have contributed to these events.
+These events occurred primarily in severely ill patients who had underlying conditions and/or concomitant medications which may have caused or contributed to these events.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field and color perception should be monitored (see PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – Visual Disturbances).
 
 ## HEPATIC TOXICITY
@@ -111,10 +111,7 @@ Table 12: Effect of Voriconazole on Pharmacokinetics of Other Drugs
 | Ergot Alkaloids (CYP450 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated |
 | Cyclosporine (CYP3A4 Inhibition) | AUCτ Significantly Increased; No Significant Effect on Cmax | When initiating therapy with VFEND in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When VFEND is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary. |
 | MethadoneResults based on in vivo clinical study following repeat oral dosing with 400 mg Q12h for 1 day, then 200 mg Q12h for 4 days voriconazole to subjects receiving a methadone maintenance dose (30–100 mg QD) (CYP3A4 Inhibition) | Increased | Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed |
-| Fentanyl (CYP3A4 Inhibition)) | Increased | Reduction in the dose of fentanyl and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with VFEND. Extended and frequent monitoring for opiate-associated adverse events may be necessary (see CLINICAL PHARMACOLOGY-Drug Interactions) |
 | Alfentanil (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of alfentanil and other opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when coadministered with VFEND. A longer period for monitoring respiratory and other opiate-associated adverse events may be necessary (see CLINICAL PHARMACOLOGY - Drug Interactions). |
-| Oxycodone (CYP3A4 Inhibition) | Significantly Increased | Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with VFEND. Extended and frequent monitoring for opiate-associated adverse events may be necessary (see CLINICAL PHARMACOLOGY-Drug Interactions). |
-| NSAIDsNon-Steroidal Anti-Inflammatory Drug including. ibuprofen and diclofenac (CYP2C9 Inhibition) | Increased | Frequent monitoring for adverse events and toxicity related to NSAIDs. Dose reduction of NSAIDs may be needed. (see CLINICAL PHARMACOLOGY-Drug Interactions). |
 | Tacrolimus (CYP3A4 Inhibition) | Significantly Increased | When initiating therapy with VFEND in patients already receiving tacrolimus, reduce the tacrolimus dose to one-third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When VFEND is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary. |
 | Phenytoin (CYP2C9 Inhibition) | Significantly Increased | Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin. |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition) | Increased | Monitoring for adverse events related to oral contraceptives is recommended during coadministration. |
@@ -155,12 +152,15 @@ This should include laboratory evaluation, particularly serum creatinine.
 
 Adults and children with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during VFEND treatment.
 
-## Dermatological Reactions
+## Dermatological Adverse Events
 
-Patients have rarely developed serious cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
-If patients develop a rash, they should be monitored closely and consideration given to discontinuation of VFEND.
-VFEND has been infrequently associated with photosensitivity skin reaction, especially during long-term therapy.
-It is recommended that patients avoid strong, direct sunlight during VFEND therapy.
+Patients have rarely developed serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
+If a patient develops an exfoliative cutaneous reaction, VFEND should be discontinued.
+
+In addition VFEND has been associated with photosensitivity skin reaction.
+It is recommended that patients avoid intense or prolonged exposure to direct sunlight during VFEND treatment.
+In patients with photosensitivity skin reactions and additional risk factors, squamous cell carcinoma of the skin and melanoma have been reported during long-term therapy.
+If a patient develops a skin lesion consistent with squamous cell carcinoma and melanoma, VFEND discontinuation should be considered.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

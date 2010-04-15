@@ -171,4 +171,4 @@ Rx Only
 
 Trademarks are the property of their respective owners.
 
-LAB-0311-6.0 December 2009
+LAB-0311-5.0 March 2008
