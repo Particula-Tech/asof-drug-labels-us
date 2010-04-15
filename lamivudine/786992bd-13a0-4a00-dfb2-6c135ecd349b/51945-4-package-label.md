@@ -33,6 +33,8 @@ Made in Singapore
 A055608 Rev.
 4/08
 
+PRINCIPAL DISPLAY PANEL
+
 NDC 0173-0470-01
 
 EPIVIR®
@@ -64,3 +66,37 @@ Research Triangle Park, NC 27709
 Made in Singapore
 
 A056094 Rev.5/08
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0173-0714-00
+
+EPIVIR®
+
+(lamivudine)
+
+TABLETS
+
+300 mg
+
+Rx only
+
+30 Tablets
+
+Each scored tablet contains 300 mg of lamivudine.
+
+See prescribing information for Dosage and Administration.
+
+Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
+
+Manufactured under agreement from Shire Pharmaceuticals Group plc
+
+Basingstoke, UK
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Made in Singapore
+
+A041738 Rev.5/07
