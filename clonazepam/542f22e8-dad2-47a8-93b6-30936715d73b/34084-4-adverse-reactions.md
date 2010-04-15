@@ -9,7 +9,7 @@ Experience in treatment of seizures has shown that drowsiness has occurred in ap
 In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients.
 Others, listed by system, are:
 
-Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
+Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, ''glassy-eyed'' appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
 Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
 The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
@@ -48,7 +48,7 @@ An event was considered treatment-emergent if it occurred for the first time or 
 Overall, the incidence of discontinuation due to adverse events was 17% in Klonopin compared to 9% for placebo in the combined data of two 6- to 9-week trials.
 The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for Klonopin than that of placebo included the following:
 
-Table 2Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
+Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
 | Adverse Event | Klonopin (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -70,9 +70,9 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with Klonopin and for which the incidence was greater than that for placebo.
 
-| Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Klonopin Groups N=574 % | Placebo N=294 % |
-| --- | --- | --- | --- | --- | --- | --- |
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Klonopin Groups N=574 % | Placebo N=294 % |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
 | SomnolenceIndicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |
@@ -122,7 +122,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 
 Table 4 Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients. in Acute Therapy in Pool of 6- to 9-Week Trials
 
-| Adverse Event (Roche Preferred Term) | Clonazepam (N=574) | Placebo (N=294) |
+| Adverse Event (Genentech Preferred Term) | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 37% | 10% |
 | Depression | 7% | 1% |

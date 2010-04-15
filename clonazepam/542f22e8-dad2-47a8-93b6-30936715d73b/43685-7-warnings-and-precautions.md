@@ -68,7 +68,7 @@ An increased risk of congenital malformations associated with the use of benzodi
 
 There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy.
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
-In addition, children born to mothers receiving benzodiazepines late in pregnancy may beat some risk of experiencing withdrawal symptoms during the postnatal period.
+In addition, children born to mothers receiving benzodiazepines late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
 
 ### Advice Regarding the Use of Klonopin in Women of Childbearing Potential
 
@@ -186,7 +186,9 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 ### Teratogenic Effects
 
-Pregnancy Category D (see WARNINGS: Pregnancy Risks).
+#### Pregnancy Category D
+
+(see WARNINGS: Pregnancy Risks).
 
 To provide information regarding the effects of in utero exposure to Klonopin, physicians are advised to recommend that pregnant patients taking Klonopin enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.

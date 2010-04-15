@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017533",
+    "NDA020813"
+  ],
   "inn": "clonazepam",
-  "labeler": "Roche Pharmaceuticals",
+  "labeler": "Hoffmann-La Roche Inc",
   "package_ndcs": [
     "0004-0058-01",
     "0004-0068-01",
@@ -12,7 +15,18 @@
     "0004-0282-22",
     "0004-0283-22"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Klonopin"
+    },
+    {
+      "form": "WAFER",
+      "generic": "clonazepam",
+      "name": "Klonopin"
+    }
+  ],
   "setid": "542f22e8-dad2-47a8-93b6-30936715d73b",
   "source": "dailymed"
 }
