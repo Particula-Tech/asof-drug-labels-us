@@ -27,8 +27,10 @@ Research Triangle Park, NC 27709
 
 Made in South Korea
 
-10000000036360 Rev.
-10/07
+10000000076415 Rev.
+1/10
+
+Principal Display Panel
 
 NDC 0173-0501-00
 
@@ -46,7 +48,7 @@ Rx only
 
 Each tablet contains 300 mg of zidovudine.
 
-See package insert for Dosage and Administration.
+See package insert for dosage information.
 
 Store at 15o to 25oC (59o to 77oF).
 
@@ -54,8 +56,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-4156668 Rev.
-7/03
+Made in England
+
+10000000076416 Rev.
+1/10
+
+Principal Display Panel
 
 NDC 0173-0113-18
 
@@ -71,7 +77,7 @@ Rx only
 
 Each 5 mL (1 teaspoonful) contains zidovudine 50 mg and sodium benzoate 0.2% added as a preservative.
 
-See package insert for Dosage and Administration.
+See prescribing information for dosage information.
 
 Store at 15o to 25oC (59o to 77oF).
 
@@ -79,7 +85,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Canada
+Made in South Korea
 
-A022404 Rev.
-12/05
+A074003 Rev.
+10/09
