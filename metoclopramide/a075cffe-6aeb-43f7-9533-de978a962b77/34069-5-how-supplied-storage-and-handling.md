@@ -8,7 +8,7 @@ REGLAN Injection (metoclopramide injection, USP) 5 mg metoclopramide base (as th
 
 30 mL single dose vials in cartons of 25 (NDC 60977-451-03).
 
-| Container | Total Contents# | Concentration# | Administration |
+| Container | Total Contents # | Concentration# | Administration |
 | --- | --- | --- | --- |
 | 2 mL single dose vial | 10 mg | 5 mg/mL | FOR IV or IM ADMINISTRATION |
 | 10 mL single dose vial | 50 mg | 5 mg/mL | FOR IV INFUSION ONLY; DILUTE BEFORE USING |
@@ -25,7 +25,9 @@ Dilutions may be stored unprotected from light under normal light conditions up 
 
 REGLAN Injection should be stored at Controlled Room Temperature, 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
-Reglan is a registered trademark of Schwartz Pharma, Inc.
+Reglan is a trademark of Alaven Pharmaceutical LLC, its agents or assignees.
+
+ESI logo is a trademark of Baxter International, Inc.
 
 Manufactured by
 
@@ -33,6 +35,6 @@ Baxter Healthcare Corporation
 
 Deerfield, IL 60015 USA
 
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+For Product Inquiry 1 800 933 0303
 
-MLT-23/2.0
+MLT00066,G

@@ -7,8 +7,14 @@ However, if severe symptoms are present, therapy should begin with REGLAN Inject
 Doses of 10 mg may be administered slowly by the intravenous route over a 1- to 2-minute period.
 
 Administration of REGLAN Injection (metoclopramide injection, USP) up to 10 days may be required before symptoms subside, at which time oral administration of metoclopramide may be instituted.
+The physician should make a thorough assessment of the risks and benefits prior to prescribing further metoclopramide treatment.
 
 ## For the Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy
+
+Intravenous infusions should be made slowly over a period of not less than 15 minutes, 30 minutes before beginning cancer chemotherapy and repeated every 2 hours for two doses, then every 3 hours for three doses.
+
+The initial two doses should be 2 mg/kg if highly emetogenic drugs such as cisplatin or dacarbazine are used alone or in combination.
+For less emetogenic regimens, 1 mg/kg per dose may be adequate.
 
 For doses in excess of 10 mg, REGLAN Injection should be diluted in 50 mL of a parenteral solution.
 
@@ -17,12 +23,7 @@ REGLAN Injection is degraded when admixed and frozen with Dextrose-5% in Water.
 REGLAN Injection diluted in Sodium Chloride Injection, Dextrose-5% in Water, Dextrose-5% in 0.45% Sodium Chloride, Ringer’s Injection, or Lactated Ringer’s Injection may be stored up to 48 hours (without freezing) after preparation if protected from light.
 All dilutions may be stored unprotected from light under normal light conditions up to 24 hours after preparation.
 
-Intravenous infusions should be made slowly over a period of not less than 15 minutes, 30 minutes before beginning cancer chemotherapy and repeated every 2 hours for two doses, then every 3 hours for three doses.
-
-The initial two doses should be 2 mg/kg if highly emetogenic drugs such as cisplatin or dacarbazine are used alone or in combination.
-For less emetogenic regimens, 1 mg/kg per dose may be adequate.
-
-If extrapyramidal symptoms should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and EPS usually will subside.
+If acute dystonic reactions should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and the symptoms usually will subside.
 
 ## For the Prevention of Postoperative Nausea and Vomiting
 
@@ -47,7 +48,7 @@ For dosage, see intubation above.
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.
 
-SeeOVERDOSAGE section for information regarding dialysis.
+See OVERDOSAGE section for information regarding dialysis.
 
 Metoclopramide undergoes minimal hepatic metabolism, except for simple conjugation.
 Its safe use has been described in patients with advanced liver disease whose renal function was normal.

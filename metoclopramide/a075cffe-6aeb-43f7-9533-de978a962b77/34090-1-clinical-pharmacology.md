@@ -50,7 +50,7 @@ Adult Pharmacokinetic Data
 | --- | --- |
 | Vd (L/kg) | ~ 3.5 |
 | Plasma Protein Binding | ~ 30% |
-| T1/2 (hr) | 5-6 |
+| t1/2 (hr) | 5-6 |
 | Oral Bioavailability | 80%±15.5% |
 
 In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
@@ -74,11 +74,11 @@ The mean elimination half-life, clearance, and volume of distribution of metoclo
 
 Pediatric Pharmacokinetic Studies
 
-| Reference | Dose, Route | t1/2 (hr) | Cl (L/hr/kg) | Vd (L/kg) | Cmax (µg/L) |
+| Reference | Dose, Route | t1/2(hr) | Cl(L/hr/kg) | Vd(L/kg) | Cmax(µg/L) |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 0.35 mg/kg, IV over 5 min | 4.4±0.56 | 0.56±0.10 | 3.0±0.38 (Dose/Cp0) | 152±31 |
 | 2 | 2 mg/kg 30 min IV infusion 4-5 times within 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
 | a. SEM not available |  |  |  |  |  |
 
-Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983.
-Ford, C. Clin Pharmac Ther 43:196, 1988.
+1. Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983.
+2. Ford, C. Clin Pharmac Ther 43:196, 1988.
