@@ -12,6 +12,8 @@ Rx only
 
 Each mL contains 10 mg zidovudine.
 
+20-mL Single-Use Vial
+
 FOR INTRAVENOUS INFUSION ONLY.
 MUST BE DILUTED FOR ADMINISTRATION.
 
@@ -25,7 +27,7 @@ Store at 15o to 25oC (59o to 77oF) and protect from light.
 
 GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Made in England
+Made in South Korea
 
-10000000062691 Rev.
-11/08
+10000000075404 Rev.
+11/09
