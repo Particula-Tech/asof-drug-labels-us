@@ -183,6 +183,11 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 
 Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.
 
+#### Clonidine
+
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
+Monitor heart rate in patients receiving concomitant verapamil and clonidine.
+
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
