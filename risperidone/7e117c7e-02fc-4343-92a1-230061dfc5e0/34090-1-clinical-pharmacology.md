@@ -77,12 +77,12 @@ The pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after sin
 Renal Impairment
 
 In patients with moderate to severe renal disease, clearance of the sum of risperidone and its active metabolite decreased by 60% compared to young healthy subjects.
-RISPERDAL® doses should be reduced in patients with renal disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.16)].
+RISPERDAL® doses should be reduced in patients with renal disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.17)].
 
 Hepatic Impairment
 
 While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein.
-RISPERDAL® doses should be reduced in patients with liver disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.16)].
+RISPERDAL® doses should be reduced in patients with liver disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.17)].
 
 Elderly
 
