@@ -36,6 +36,7 @@ Who should not take ACTONEL?
 
 Do not take ACTONEL if you:
 
+- have problems of the esophagus which delay emptying
 - have low blood calcium (hypocalcemia)
 - cannot sit or stand up for 30 minutes
 - have kidneys that work poorly
@@ -172,6 +173,6 @@ Dose-strength specific ingredients include: 5 mg—ferric oxide yellow, lactose 
 
 ACTONEL® is marketed by: Procter & Gamble Pharmaceuticals, Inc. Cincinnati, OH 45202 and sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-April 2008
+December 2009
 
-© 2008 Procter & Gamble Pharmaceuticals, Inc.
+© 2009 Procter & Gamble Pharmaceuticals, Inc.

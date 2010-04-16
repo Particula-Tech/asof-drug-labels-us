@@ -133,7 +133,7 @@ Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment
 | Femoral Trochanter | 3.2 ± 0.28 | 3.7 ± 0.25 |
 | Midshaft Radius | 0.4 ± 0.14 | 0.7 ± 0.17 |
 | Distal Radius | 1.7 ± 0.24 | 1.6 ± 0.28 |
-| Values shown are mean (± SEM) percent change from baseline. |  |  |
+| Values shown are mean (±SEM) percent change from baseline. |  |  |
 
 Histology/Histomorphometry
 

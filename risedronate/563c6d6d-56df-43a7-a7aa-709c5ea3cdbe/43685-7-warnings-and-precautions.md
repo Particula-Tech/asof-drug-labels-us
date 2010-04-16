@@ -2,10 +2,18 @@
 
 ## 5.1 Upper Gastrointestinal Adverse Reactions
 
-Bisphosphonates, including ACTONEL, may cause upper gastrointestinal disorders such as dysphagia, esophagitis, and esophageal or gastric ulcers.
-ACTONEL should be taken according to the dosing instructions to minimize the risk of these events.
-Patients should discontinue use if new or worsening symptoms occur.
-[see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+ACTONEL, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when ACTONEL is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+
+Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates.
+In some cases, these have been severe and required hospitalization.
+Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue ACTONEL and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
+
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates and/or who fail to swallow it with the recommended full glass (6-8 oz) of water, and/or who continue to take oral bisphosphonates after developing symptoms suggestive of esophageal irritation.
+Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2)].
+In patients who cannot comply with dosing instructions due to mental disability, therapy with ACTONEL should be used under appropriate supervision.
+
+There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
 
 ## 5.2 Mineral Metabolism
 
