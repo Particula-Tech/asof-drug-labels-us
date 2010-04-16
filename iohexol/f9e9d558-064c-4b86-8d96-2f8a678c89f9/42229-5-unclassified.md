@@ -41,7 +41,7 @@ Contrast enhancement is thus due to the relative differences in extravascular di
 
 Distributed by GE Healthcare Inc. Princeton, NJ 08540 U.S.A.
 
-Manufactured by GE Healthcare Ireland Cork, Ireland
+Manufactured by GE Healthcare AS Oslo, Norway
 
 Omnipaque is a registered trademark of GE Healthcare.
 GE and the GE Monogram are trademarks of General Electric Company.
@@ -49,6 +49,8 @@ Novation, the supply company of VHA and UHC, and NOVAPLUS are trademarks of Nova
 
 Revised February 2009
 
-1166988 USA NP
+1166996 USA NP
+
+OVH-3H-OSLO
 
 © 2009 General Elecric Company - All rights reserved.

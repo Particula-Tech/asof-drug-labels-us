@@ -11,7 +11,6 @@ OMNIPAQUE 300
 
 - Vials of 50 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-41)
 - 50 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-42)
-- 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-86)
 - 100 mL fill in 100 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-43)
 - 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-87)
 - 125 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-47)
@@ -31,7 +30,7 @@ OMNIPAQUE 350
 - 200 mL fill in 200 mL bottle with hanger, 350 mgI/mL, boxes of 10 (NDC 0407-1414-42)
 - 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-87)
 
-Protect vials, glass and polymer bottles,of OMNIPAQUE from strong daylight and direct exposure to sunlight.
+Protect vials, glass and polymer bottles of OMNIPAQUE from strong daylight and direct exposure to sunlight.
 Do not freeze.
 OMNIPAQUE should be stored at controlled room temperature, 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
