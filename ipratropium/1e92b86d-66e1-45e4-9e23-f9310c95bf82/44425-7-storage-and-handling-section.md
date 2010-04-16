@@ -5,6 +5,4 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-Patients should be reminded to read and follow the accompanying Patient Instructions For Use, which should be dispensed with the product.
-
-Rx Only
+Patients should be reminded to read and follow the accompanying Patient's Instructions For Use, which should be dispensed with the product.

@@ -28,6 +28,6 @@ Drug-Drug Interactions: No specific pharmacokinetic studies were conducted to ev
 In two single dose trials (n=17), doses up to 336 mcg of ipratropium bromide did not significantly affect pupillary diameter, heart rate, or systolic/diastolic blood pressure.
 Similarly, in patients with induced-colds, ipratropium bromide nasal solution 0.06% (Nasal Spray) (84 mcg/nostril four times a day) had no significant effects on pupillary diameter, heart rate, or systolic/diastolic blood pressure.
 
-Two nasal provocation trials in perennial rhinitis patients (n=44) using ipratropium nasal spray showed a dose dependent increase in inhibition of methacholine induced nasal secretion with an onset of action within 15 minutes (time of first observation).
+Two nasal provocation trials in perennial rhinitis patients (n=44) using ipratropium bromide nasal spray showed a dose dependent increase in inhibition of methacholine induced nasal secretion with an onset of action within 15 minutes (time of first observation).
 
 Controlled clinical trials demonstrated that intranasal fluorocarbon-propelled ipratropium bromide does not alter physiologic nasal functions (e.g., sense of smell, ciliary beat frequency, mucociliary clearance, or the air conditioning capacity of the nose).

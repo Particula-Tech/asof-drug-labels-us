@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076025"
+  ],
   "inn": "ipratropium",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
     "24208-398-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "ipratropium bromide",
+      "name": "Ipratropium bromide"
+    }
+  ],
   "setid": "1e92b86d-66e1-45e4-9e23-f9310c95bf82",
   "source": "dailymed"
 }

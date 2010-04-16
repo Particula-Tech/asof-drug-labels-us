@@ -42,3 +42,5 @@ Patient discontinuation for epistaxis or nasal dryness was infrequent in both th
 There was no evidence of nasal rebound (i.e., a clinically significant increase in rhinorrhea, posterior nasal drip, sneezing or nasal congestion severity compared to baseline) upon discontinuation of double-blind therapy in these trials.
 
 Adverse events reported by less than 2% of the patients receiving ipratropium bromide nasal solution 0.03% (Nasal Spray) during the controlled clinical trials or during the open-label follow-up trial, which are potentially related to ipratropium bromide’s local effects or systemic anticholinergic effects include: dry mouth/throat, dizziness, ocular irritation, blurred vision, conjunctivitis, hoarseness, cough, and taste perversion.
+
+There were infrequent reports of skin rash in both the controlled and uncontrolled clinical studies.

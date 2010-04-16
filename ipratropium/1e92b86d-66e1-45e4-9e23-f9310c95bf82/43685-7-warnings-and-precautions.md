@@ -15,16 +15,15 @@ It should be used with caution in those patient populations.
 
 ## Information for patients
 
-Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, visual halos or colored images in association with red eyes from conjunctival and corneal congestion may result if ipratropium bromide nasal solution 0.03% (Nasal Spray) comes into direct contact with the eyes.
+Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, visual halos or colored images in association with red eyes from conjunctival and corneal congestion or eye pain may result if ipratropium bromide nasal solution 0.03% (Nasal Spray) comes into direct contact with the eyes.
 Patients should be instructed to avoid spraying ipratropium bromide nasal solution 0.03% (Nasal Spray) in or around their eyes.
 Patients who experience eye pain, blurred vision, excessive nasal dryness, or episodes of nasal bleeding should be instructed to contact their doctor.
-To ensure proper dosing, patients should be advised not to alter the size of the nasal spray opening.
-Patients should be reminded to carefully read and follow the accompanying Patient Instructions For Use.
+Patients should be reminded to carefully read and follow the accompanying Patient's Instructions For Use.
 
 ## Drug interactions
 
 No controlled clinical trials were conducted to investigate drug-drug interactions.
-Ipratropium bromide nasal solution 0.03% (Nasal Spray) is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including ipratropium bromide for oral inhalation.
+Ipratropium bromide nasal solution 0.03% (Nasal Spray) is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered anticholinergic medications, including ipratropium bromide for oral inhalation.
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
@@ -32,7 +31,7 @@ Two-year oral carcinogenicity studies in rats and mice have revealed no carcinog
 This dose corresponds in rats and mice to approximately 190 and 95 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 110 and 55 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis.
 Results of various mutagenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test, and chromosome aberration of bone marrow in Chinese hamsters) were negative.
 
-Fertility of male or female rats at oral doses up to 50 mg/kg (approximately 1,600 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis) was unaffected by ipratropium bromide administration.
+Fertility of male or female rats was unaffected by ipratropium bromide at oral doses up to 50 mg/kg (approximately 1,600 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 At an oral dose of 500 mg/kg (approximately 16,000 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis), ipratropium bromide produced a decrease in the conception rate.
 
 ## Pregnancy
@@ -56,7 +55,7 @@ However, because many drugs are excreted in human milk, caution should be exerci
 
 ## Pediatric use
 
-The safety of ipratropium bromide nasal solution 0.03% (Nasal Spray) at a dose of two sprays (42 mcg) per nostril two or three times a day (total dose 168 to 252 mcg/day) has been demonstrated in 77 pediatric patients 6-12 years of age in placebo-controlled, 4-week trials and in 55 pediatric patients in active-controlled, 6 month trials.
+The safety of ipratropium bromide nasal solution 0.03% (Nasal Spray) at a dose of two sprays (42 mcg) per nostril two or three times daily (total dose 168 to 252 mcg/day) has been demonstrated in 77 pediatric patients 6-12 years of age in placebo-controlled, 4-week trials and in 55 pediatric patients in active-controlled, 6 month trials.
 The effectiveness of ipratropium bromide nasal solution 0.03% (Nasal Spray) for the treatment of rhinorrhea associated with allergic and nonallergic perennial rhinitis in this pediatric age group is based on an extrapolation of the demonstrated efficacy of ipratropium bromide nasal solution 0.03% (Nasal Spray) in adults with these conditions and the likelihood that the disease course, pathophysiology, and the drug’s effects are substantially similar to that of adults.
 The recommended dose for the pediatric population is based on within and cross-study comparisons of the efficacy of ipratropium bromide nasal solution 0.03% (Nasal Spray) in adults and pediatric patients and on its safety profile in both adults and pediatric patients.
-The safety and effectiveness of ipratropium bromide nasal solution 0.03% (Nasal Spray) in pediatric patients under 6 years of age have not been established.
+The safety and effectiveness of ipratropium bromide nasal solution 0.03% (Nasal Spray) in patients under 6 years of age have not been established.
