@@ -666,15 +666,15 @@ Rx ONLY
 
 Distributed by GE Healthcare Inc. Princeton, NJ 08540
 
-Manufactured by GE Healthcare (Shanghai) Co., Ltd., Shanghai, China
+Manufactured by GE Healthcare AS, Oslo, Norway
 
 OMNIPAQUE is a trademark of GE Healthcare.
 GE and the GE Monogram are trademarks of General Electric Company.
 
 Revised April 2009
 
-1168139 USA
+1168138 USA
 
 © 2009 General Electric Company - All rights reserved.
 
-ONC-1N-CHI
+ONC-1O-OSLO
