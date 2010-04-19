@@ -23,7 +23,7 @@ Therapy may begin at full replacement doses in otherwise healthy individuals les
 The average full replacement dose of levothyroxine sodium is approximately 1.7 mcg/kg/day (e.g., 100-125 mcg/day for a 70 kg adult).
 Older patients may require less than 1 mcg/kg/day.
 Levothyroxine sodium doses greater than 200 mcg/day are seldom required.
-An inadequate response to daily doses > 300 mcg/day is rare and may indicate poor compliance, malabsorption, and/or drug interactions.
+An inadequate response to daily doses ≥ 300 mcg/day is rare and may indicate poor compliance, malabsorption, and/or drug interactions.
 
 For most patients older than 50 years or for patients under 50 years of age with underlying cardiac disease, an initial starting dose of 25-50 mcg/day of levothyroxine sodium is recommended, with gradual increments in dose at 6-8 week intervals, as needed.
 The recommended starting dose of levothyroxine sodium in elderly patients with cardiac disease is 12.5-25 mcg/day, with gradual dose increments at 4-6 week intervals.
@@ -57,9 +57,10 @@ However, in children with chronic or severe hypothyroidism, an initial dose of 2
 
 Hyperactivity in an older child can be minimized if the starting dose is one-fourth of the recommended full replacement dose, and the dose is then increased on a weekly basis by an amount equal to one-fourth the full-recommended replacement dose until the full recommended replacement dose is reached.
 
+Table 3: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism
+
 | Age | Daily Dose Per Kg Body Weight1 |
 | --- | --- |
-| Table 3: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism |  |
 | 0-3 months | 10-15 mcg/kg/day |
 | 3-6 months | 8-10 mcg/kg/day |
 | 6-12 months | 6-8 mcg/kg/day |
@@ -68,12 +69,12 @@ Hyperactivity in an older child can be minimized if the starting dose is one-fou
 | Growth and puberty complete | 1.7 mcg/kg/day |
 | 1 The dose should be adjusted based on clinical response and laboratory parameters (see PRECAUTIONS, Laboratory Tests and Pediatric Use). |  |
 
-Pregnancy- Pregnancy may increase levothyroxine requirements (see PREGNANCY).
+Pregnancy - Pregnancy may increase levothyroxine requirements (see PREGNANCY).
 
-Subclinical Hypothyroidism- If this condition is treated, a lower levothyroxine sodium dose (e.g., 1 mcg/kg/day) than that used for full replacement may be adequate to normalize the serum TSH level.
+Subclinical Hypothyroidism - If this condition is treated, a lower levothyroxine sodium dose (e.g., 1 mcg/kg/day) than that used for full replacement may be adequate to normalize the serum TSH level.
 Patients who are not treated should be monitored yearly for changes in clinical status and thyroid laboratory parameters.
 
-TSH Suppression in Well-differentiated Thyroid Cancer and Thyroid Nodules- The target level for TSH suppression in these conditions has not been established with controlled studies.
+TSH Suppression in Well-differentiated Thyroid Cancer and Thyroid Nodules - The target level for TSH suppression in these conditions has not been established with controlled studies.
 In addition, the efficacy of TSH suppression for benign nodular disease is controversial.
 Therefore, the dose of TIROSINT used for TSH suppression should be individualized based on the specific disease and the patient being treated.
 

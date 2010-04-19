@@ -40,7 +40,7 @@ Thyroid hormones do not readily cross the placental barrier (see PRECAUTIONS, Pr
 
 Metabolism - T4 is slowly eliminated (see Table 1).
 The major pathway of thyroid hormone metabolism is through sequential deiodination.
-Approximately eighty percent of circulating T3 is derived from peripheral T4 by monodeiodination.
+Approximately eighty-percent of circulating T3 is derived from peripheral T4 by monodeiodination.
 The liver is the major site of degradation for both T4 and T3, with T4 deiodination also occurring at a number of additional sites, including the kidney and other tissues.
 Approximately 80% of the daily dose of T4 is deiodinated to yield equal amounts of T3 and reverse T3 (r T3).
 T3 and r T3 are further deiodinated to diiodothyronine.
@@ -52,9 +52,10 @@ A portion of the conjugated hormone reaches the colon unchanged and is eliminate
 Approximately 20% of T4 is eliminated in the stool.
 Urinary excretion of T4 decreases with age.
 
-| Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patient |  |  |  |  |
+Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patient
+
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | t1/2 (days) | Protein Binding (%) |
 | --- | --- | --- | --- | --- |
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | t1/2(days) | Protein Binding (%)2 |
 | Levothyroxine (T4) | 10 - 20 | 1 | 6 - 71 | 99.96 |
 | Liothyronine (T3) | 1 | 4 | < 2 | 99.5 |
 | 1 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism 2 Includes TBG, TBPA, and TBA |  |  |  |  |

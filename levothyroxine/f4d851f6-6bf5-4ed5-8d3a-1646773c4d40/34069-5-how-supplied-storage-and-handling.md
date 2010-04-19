@@ -22,32 +22,21 @@ Please do not separate the individual cavities containing the drug from the inta
 | 125 | brown | 24090-497-77 |
 | 137 | turquoise | 24090-498-77 |
 | 150 | blue | 24090-499-77 |
-
-* On box and blister packing, not in individual capsules.
+| * On box and blister packing, not in individual capsules. |  |  |
 
 Storage Conditions
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 TIROSINT capsules should be protected from light and moisture.
 
-Manufactured for Akrimax Pharmaceuticals, LLC by:
+Manufactured for Akrimax Pharmaceuticals, LLC by: IBSA Institut Biochimique SA 6903 Lugano, Switzerland
 
-IBSA Institut Biochimique SA
-
-6903 Lugano, Switzerland
-
-Marketed & Distributed by:
-
-Akrimax Pharmaceuticals, LLC
-
-Cranford, NJ 07016
-
-USA
+Marketed & Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 1047F000 Rev.
 01/10
 
-FI/152 (USA) 9004
+FI/152 9004
 
 Ed.
 I/01.10

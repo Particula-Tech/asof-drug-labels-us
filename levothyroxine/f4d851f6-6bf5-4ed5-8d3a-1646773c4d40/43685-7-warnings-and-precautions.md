@@ -1,10 +1,3 @@
-# WARNINGS
-
-Levothyroxine sodium should not be used in the treatment of male or female infertility unless this condition is associated with hypothyroidism.
-
-In patients with nontoxic diffuse goiter or nodular thyroid disease, particularly the elderly or those with underlying cardiovascular disease, levothyroxine sodium therapy is contraindicated if the serum TSH level is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS).
-If the serum TSH level is not suppressed, TIROSINT should be used with caution in conjunction with careful monitoring of thyroid function for evidence of hyperthyroidism and clinical monitoring for potential associated adverse cardiovascular signs and symptoms of hyperthyroidism.
-
 # PRECAUTIONS
 
 ## General
@@ -14,11 +7,11 @@ Regardless of the indication for use, careful dosage titration is necessary to a
 These consequences include, among others, effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, emotional state, gastrointestinal function, and on glucose and lipid metabolism.
 Many drugs interact with levothyroxine sodium necessitating adjustments in dosing to maintain therapeutic response (see Drug Interactions).
 
-Effects on bone mineral density- In women, long-term levothyroxine sodium therapy has been associated with increased bone resorption, thereby decreasing bone mineral density, especially in post-menopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
+Effects on bone mineral density - In women, long-term levothyroxine sodium therapy has been associated with increased bone resorption, thereby decreasing bone mineral density, especially in post-menopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
 The increased bone resorption may be associated with increased serum levels and urinary excretion of calcium and phosphorous, elevations in bone alkaline phosphatase and suppressed serum parathyroid hormone levels.
 Therefore, it is recommended that patients receiving levothyroxine sodium be given the minimum dose necessary to achieve the desired clinical and biochemical response.
 
-Patients with underlying cardiovascular disease- Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
+Patients with underlying cardiovascular disease - Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
 In these patients, levothyroxine therapy should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease and it should be noted that unlike levothyroxine sodium tablets, TIROSINT capsules cannot be cut in half.
 (see WARNINGS; PRECAUTIONS, Geriatric Use; and DOSAGE AND ADMINISTRATION).
 If cardiac symptoms develop or worsen, the levothyroxine dose should be reduced or withheld for one week and then cautiously restarted at a lower dose.
@@ -26,19 +19,19 @@ Overtreatment with levothyroxine sodium may have adverse cardiovascular effects 
 Patients with coronary artery disease who are receiving levothyroxine therapy should be monitored closely during surgical procedures, since the possibility of precipitating cardiac arrhythmias may be greater in those treated with levothyroxine.
 Concomitant administration of levothyroxine and sympathomimetic agents to patients with coronary artery disease may precipitate coronary insufficiency.
 
-Patients with nontoxic diffuse goiter or nodular thyroid disease- Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
+Patients with nontoxic diffuse goiter or nodular thyroid disease - Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
 If the serum TSH is already suppressed, levothyroxine sodium should not be administered (see CONTRAINDICATIONS).
 
-Associated endocrine disorders
+## Associated endocrine disorders
 
-Hypothalamic pituitary hormone deficiencies- In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS, Autoimmune polyglandular syndrome for adrenal insufficiency).
+Hypothalamic pituitary hormone deficiencies - In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS, Autoimmune polyglandular syndrome for adrenal insufficiency).
 
-Autoimmune polyglandular syndrome- Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
+Autoimmune polyglandular syndrome - Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
 Patients with concomitant adrenal insufficiency should be treated with replacement glucocorticoids prior to initiation of treatment with levothyroxine sodium.
 Failure to do so may precipitate an acute adrenal crisis when thyroid hormone therapy is initiated, due to increased metabolic clearance of glucocorticoids by thyroid hormone.
 Patients with diabetes mellitus may require upward adjustments of their antidiabetic therapeutic regimens when treated with levothyroxine (see PRECAUTIONS, Drug Interactions).
 
-Other associated medical conditions
+## Other associated medical conditions
 
 Infants with congenital hypothyroidism appear to be at increased risk for other congenital anomalies, with cardiovascular anomalies (pulmonary stenosis, atrial septal defect, and ventricular septal defect) being the most common association.
 
@@ -135,9 +128,10 @@ A listing of drug-thyroidal axis interactions is contained in Table 2.
 The list of drug-thyroidal axis interactions in Table 2 may not be comprehensive due to the introduction of new drugs that interact with the thyroidal axis or the discovery of previously unknown interactions.
 The prescriber should be aware of this fact and should consult appropriate reference sources (e.g., package inserts of newly approved drugs, medical literature) for additional information if a drug-drug interaction with levothyroxine is suspected.
 
+Table 2: Drug-Thyroidal Axis Interactions
+
 | Drug or Drug Class | Effect |
 | --- | --- |
-| Table 2: Drug-Thyroidal Axis Interactions |  |
 | Drugs that may reduce TSH secretion-the reduction is not sustained; therefore, hypothyroidism does not occur |  |
 | Dopamine/Dopamine Agonists | Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine (≥ 1 mcg/kg/min); Glucocorticoids (hydrocortisone ≥ 100 mg/day or equivalent); Octreotide (> 100 mcg/day). |
 | Glucocorticoids |  |
@@ -237,11 +231,11 @@ The prescriber should be aware of this fact and should consult appropriate refer
 | Resorcinol (excessive topical use) |  |
 | Thiazide Diuretics |  |
 
-Oral anticoagulants- Levothyroxine increases the response to oral anticoagulant therapy.
+Oral anticoagulants - Levothyroxine increases the response to oral anticoagulant therapy.
 Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the TIROSINT dose is increased.
 Prothrombin time should be closely monitored to permit appropriate and timely dosage adjustments (see Table 2).
 
-Digitalis glycosides- The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
+Digitalis glycosides - The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
 Serum digitalis glycoside levels may be decreased when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides (see Table 2).
 
 ## Drug-Food Interactions
@@ -268,7 +262,6 @@ Patients receiving TIROSINT for appropriate clinical indications should be titra
 Category A - Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
 Therefore, the possibility of fetal harm appears remote.
 TIROSINT should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
-
 Hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, pre-eclampsia, stillbirth and premature delivery.
 Maternal hypothyroidism may have an adverse effect on fetal and childhood growth and development.
 During pregnancy, serum T4 levels may decrease and serum TSH levels increase to values outside the normal range.
@@ -280,7 +273,7 @@ A serum TSH level should be obtained 6-8 weeks postpartum.
 Thyroid hormones cross the placental barrier to some extent as evidenced by levels in cord blood of athyreotic fetuses being approximately one-third maternal levels.
 Transfer of thyroid hormone from the mother to the fetus, however, may not be adequate to prevent in utero hypothyroidism.
 
-## Nursing Mothers
+### Nursing Mothers
 
 Although thyroid hormones are excreted only minimally in human milk, caution should be exercised when TIROSINT is administered to a nursing woman.
 However, adequate replacement doses of levothyroxine are generally needed to maintain normal lactation.
