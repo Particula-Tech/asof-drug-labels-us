@@ -1,0 +1,10 @@
+# DOSAGE AND ADMINISTRATION
+
+One tablet should be dissolved under the tongue or in the buccal pouch at the first sign of an acute anginal attack.
+The dose may be repeated approximately every 5 minutes, until relief is obtained.
+If the pain persists after a total of 3 tablets in a 15-minute period, prompt medical attention is recommended.
+Nitroglycerin tablets may be used prophylactically 5 to 10 minutes prior to engaging in activities which might precipitate an acute attack.
+
+During administration the patient should rest, preferably in the sitting position.
+
+No dosage adjustment is required in patients with renal failure.

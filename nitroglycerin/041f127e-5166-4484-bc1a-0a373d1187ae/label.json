@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021134"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0489-1",
+    "59762-3304-1",
+    "59762-3304-3",
+    "59762-4921-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "nitroglycerin",
+      "name": "NITROGLYCERIN"
+    }
+  ],
+  "setid": "041f127e-5166-4484-bc1a-0a373d1187ae",
+  "source": "dailymed"
+}
