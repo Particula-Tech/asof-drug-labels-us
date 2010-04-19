@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020552"
+  ],
   "inn": "verapamil",
-  "labeler": "G.D. Searle LLC",
+  "labeler": "G.D. Searle LLC Division of Pfizer Inc",
   "package_ndcs": [
     "0025-2011-31",
     "0025-2011-34",
     "0025-2021-31",
     "0025-2021-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "Covera-HS"
+    }
+  ],
   "setid": "c56b20d8-eeee-4d87-94a1-ae186f9b550e",
   "source": "dailymed"
 }

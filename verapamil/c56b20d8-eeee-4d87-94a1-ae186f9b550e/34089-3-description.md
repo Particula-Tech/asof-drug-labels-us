@@ -5,8 +5,6 @@ COVERA-HS is available for oral administration as pale yellow, round, film-coate
 Verapamil is administered as a racemic mixture of the R and S enantiomers.
 The structural formulae of the verapamil HCl enantiomers are:
 
-Benzeneacetonitrile, (±)-α-[3 [[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-α-(1-methylethyl) hydrochloride
-
 Verapamil HCl is an almost white, crystalline powder, practically free of odor, with a bitter taste.
 It is soluble in water, chloroform, and methanol.
 Verapamil HCl is not chemically related to other cardioactive drugs.

@@ -11,7 +11,7 @@ Patients with milder ventricular dysfunction should, if possible, be controlled 
 ## Hypotension
 
 Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension.
-In previous verapamil clinical trials the incidence observed in 4,954 patients was 2.5%.
+In previous verapamil clinical trials, the incidence observed in 4,954 patients was 2.5%.
 In clinical studies of COVERA-HS, 0.4% of hypertensive patients and 1.0% of angina patients developed significant hypotension.
 In hypertensive patients, decreases in blood pressure below normal are unusual.
 Tilt-table testing (60 degrees) was not able to induce orthostatic hypotension.
@@ -98,7 +98,7 @@ In a few reported cases, coadministration of verapamil with aspirin has led to i
 ### Grapefruit juice
 
 Grapefruit juice may significantly increase concentrations of verapamil.
-Grapefruit juice given to nine healthy volunteers increased S- and R-verapamil AUC0–12 by 36% and 28%, respectively.
+Grapefruit juice given to nine healthy volunteers increased S- and R- verapamil AUC0–12 by 36% and 28%, respectively.
 Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively, with grapefruit juice compared to control.
 Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively.
 Grapefruit juice did not affect half-life, nor was there a significant change in AUC0–12 ratio R/S compared to control.
@@ -207,6 +207,11 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 #### Telithromycin
 
 Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.
+
+#### Clonidine
+
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
+Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 

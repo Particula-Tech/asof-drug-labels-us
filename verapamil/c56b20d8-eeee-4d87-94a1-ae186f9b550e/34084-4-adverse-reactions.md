@@ -38,7 +38,7 @@ In previous experience with other formulations of verapamil, the following react
 
 The following reactions, reported with orally administered verapamil in 2% or less of patients, occurred under conditions (open trials, marketing experience) where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship:
 
-Cardiovascular: angina pectoris, AV block (2°& 3°), atrioventricular dissociation, CHF, pulmonary edema, chest pain, claudication, myocardial infarction, palpitations, purpura (vasculitis), syncope.
+Cardiovascular: angina pectoris, AV block (2° & 3°), atrioventricular dissociation, CHF, pulmonary edema, chest pain, claudication, myocardial infarction, palpitations, purpura (vasculitis), syncope.
 
 Digestive system: diarrhea, dry mouth, gastrointestinal distress, gingival hyperplasia.
 

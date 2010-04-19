@@ -23,7 +23,7 @@ Verapamil produces its antihypertensive effect by a combination of vascular and 
 It acts as a vasodilator with selectivity for the arterial portion of the peripheral vasculature.
 As a result, the systemic vascular resistance is reduced and usually without orthostatic hypotension or reflex tachycardia.
 Bradycardia (rate less than 50 beats/min) is uncommon (<1% with COVERA-HS as assessed by ECG).
-During isometric or dynamic exercise COVERA-HS does not alter systolic cardiac function in patients with normal ventricular function.
+During isometric or dynamic exercise, COVERA-HS does not alter systolic cardiac function in patients with normal ventricular function.
 
 COVERA-HS does not alter total serum calcium levels.
 However, one report has suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil.
@@ -58,7 +58,7 @@ COVERA-HS was evaluated in two placebo-controlled, parallel design, double-blind
 
 In the first clinical trial, 277 patients were randomized to placebo, 180 mg, 360 mg, or 540 mg and treated for 4 weeks (the two higher doses were titrated from low doses and maintained for 3 and 2 weeks, respectively).
 A single dose of 240 mg was compared to placebo in a separate study of 176 patients.
-In these studies COVERA-HS was significantly more effective than placebo in improvement of exercise tolerance.
+In these studies, COVERA-HS was significantly more effective than placebo in improvement of exercise tolerance.
 Placebo-adjusted net increases in median exercise times at the end of the dosing interval were 0.1 to 1.0 minute for symptom limited duration, 0.3 to 1.4 minutes for time to angina, and 0.1 to 1.1 minutes for time to ST change.
 Increases in exercise tolerance were in general greater at higher doses, but dose-response relationship was not well defined due to shorter treatment duration for high doses.
 
@@ -89,14 +89,14 @@ The R and S enantiomers have differing levels of pharmacologic activity.
 In studies in animals and humans, the S enantiomer has 8 to 20 times the activity of the R enantiomer in slowing AV conduction.
 In animal studies, the S enantiomer has 15 and 50 times the activity of the R enantiomer in reducing myocardial contractility in isolated blood-perfused dog papillary muscle and isolated rabbit papillary muscle, respectively, and twice the effect in reducing peripheral resistance.
 In isolated septal strip preparations from 5 patients, the S enantiomer was 8 times more potent than the R in reducing myocardial contractility.
-Dose escalation study data indicate that verapamil concentrations increase disproportionally to dose as measured by relative peak plasma concentrations (Cmax) or areas under the plasma concentration vs time curves (AUC).
+Dose escalation study data indicate that verapamil concentrations increase disproportionally to dose as measured by relative peak plasma concentrations (Cmax) or areas under the plasma concentration vs. time curves (AUC).
 
 Pharmacokinetic Characteristics of Verapamil Enantiomers After Administration of Escalating Doses
 
 |  | Isomer | 120 | 180 | 360 | 540 |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Total Dose of Racemic Verapamil (mg) |  |  |  |
-| Dose Ratio | – | 1 | 1.5 | 3 | 4.5 |
+| Dose Ratio | — | 1 | 1.5 | 3 | 4.5 |
 | Relative Cmax | R S | 1 1 | 1.55 1.62 | 4.47 5.17 | 7.06 9.21 |
 | Relative AUC | R S | 1 1 | 1.59 1.89 | 6.14 8.17 | 11.1 15.9 |
 
@@ -136,6 +136,7 @@ R-verapamil is 94% bound to plasma albumin, while S-verapamil is 88% bound.
 In addition, R-verapamil is 92% and S-verapamil 86% bound to alpha-1 acid glycoprotein.
 In patients with hepatic insufficiency, metabolism of immediate-release verapamil is delayed and elimination half-life prolonged up to 14 to 16 hours because of the extensive hepatic metabolism (see PRECAUTIONS).
 In addition, in these patients there is a reduced first-pass effect, and verapamil is more bioavailable.
+
 Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function.
 
 After four weeks of oral dosing of immediate release verapamil (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.
