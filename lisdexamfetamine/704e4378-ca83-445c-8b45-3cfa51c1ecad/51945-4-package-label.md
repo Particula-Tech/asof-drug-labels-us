@@ -1,25 +1,13 @@
-# Carton and Container Labels
+# PRINCIPAL DISPLAY PANEL
 
-Patheon 20mg
+NDC 59417-102-10 20 mg bottle of 100 Capsules
 
-Patheon 30mg
+NDC 59417-103-10 30 mg bottle of 100 Capsules
 
-Patheon 40mg
+NDC 59417-104-10 40 mg bottle of 100 Capsules
 
-Patheon 50mg
+NDC 59417-105-10 50 mg bottle of 100 Capsules
 
-Patheon 60mg
+NDC 59417-106-10 60 mg bottle of 100 Capsules
 
-Patheon 70mg
-
-Sharp 20mg
-
-Sharp 30mg
-
-Sharp 40mg
-
-Sharp 50mg
-
-Sharp 60mg
-
-Sharp 70mg
+NDC 59417-107-10 70 mg bottle of 100 Capsules

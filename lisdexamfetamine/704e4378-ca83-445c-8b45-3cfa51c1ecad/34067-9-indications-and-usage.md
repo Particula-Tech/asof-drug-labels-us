@@ -4,7 +4,7 @@
 
 Vyvanse® is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 
-The efficacy of Vyvanse in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12 and one controlled trial in adults who met DSM-IV-TR® criteria for ADHD [see CLINICAL STUDIES (14)].
+The efficacy of Vyvanse in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12 and two controlled trials in adults who met DSM-IV-TR® criteria for ADHD [see CLINICAL STUDIES (14)].
 
 A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV®) implies the presence of hyperactive-impulsive and/or inattentive symptoms that cause impairment and were present before the age of 7 years.
 The symptoms must cause clinically significant impairment, e.g. in social, academic, or occupational functioning, and be present in two or more settings, e.g. school (or work) and at home.

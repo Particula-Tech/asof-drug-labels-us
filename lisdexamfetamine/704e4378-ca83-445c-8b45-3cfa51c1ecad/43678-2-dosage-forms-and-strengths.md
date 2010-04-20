@@ -1,4 +1,4 @@
-# 3 Dosage Form and strengths
+# 3 DOSAGE FORM AND STRENGTHS
 
 Vyvanse capsules 20 mg: ivory body/ivory cap (imprinted with NRP104 or S489 and 20 mg)
 

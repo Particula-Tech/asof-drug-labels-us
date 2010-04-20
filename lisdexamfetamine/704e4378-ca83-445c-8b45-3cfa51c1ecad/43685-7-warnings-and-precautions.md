@@ -40,9 +40,9 @@ Such screening should include a detailed psychiatric history, including a family
 
 Emergence of New Psychotic or Manic Symptoms
 
-Treatment-emergent psychotic or manic symptoms, e.g. hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
+Treatment-emergent psychotic or manic symptoms, e.g. hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania, can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) or stimulant-treated patients compared to 0 in placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
 
 Aggression
 
@@ -70,7 +70,7 @@ In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adoles
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
 In a controlled trial of Vyvanse in children ages 6 to 12 years, mean weight loss from baseline after 4 weeks of therapy was -0.9, -1.9, and -2.5 lbs., respectively, for patients receiving 30 mg, 50 mg, and 70 mg of Vyvanse, compared to a 1 lb weight gain for patients receiving placebo.
 Higher doses were associated with greater weight loss with 4 weeks of treatment.
-Careful follow-up for weight in children ages 6 to 12 years who received Vyvanse over 12 months suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a slowing in growth rate, measured by body weight as demonstrated by an age- and sex-normalized mean change from baseline in percentile, of -13.4 over 1 year (average percentiles at baseline and 12 months, were 60.6 and 47.2, respectively).
+Careful follow-up for weight in children ages 6 to 12 years who received Vyvanse over 12 months suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a slowing in growth rate, measured by body weight as demonstrated by an age- and sex-normalized mean change from baseline in percentile, of -13.4 over 1 year (average percentiles at baseline and 12 months were 60.6 and 47.2, respectively).
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted.
 
 ## 5.7 Prescribing and Dispensing

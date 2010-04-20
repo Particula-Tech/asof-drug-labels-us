@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of Vyvanse in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12 years and one controlled trial in adults who met Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV-TR) criteria for ADHD [see INDICATIONS AND USAGE (1)].
+The efficacy of Vyvanse in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12 and two controlled trials in adults who met Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV-TR) criteria for ADHD [see INDICATIONS AND USAGE (1)].
 
 Pediatric
 
@@ -27,4 +27,12 @@ A double-blind, randomized, placebo-controlled, parallel-group, study was conduc
 In this four-week study, patients were randomized to fixed dose treatment groups receiving final doses of 30, 50, or 70 mg of Vyvanse or placebo.
 All subjects receiving Vyvanse were initiated on 30 mg for the first week of treatment.
 Subjects assigned to the 50 and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
-Significant improvements in ADHD symptoms, based upon investigator ratings on the ADHD Rating Scale (ADHD-RS), were observed at endpoint for all Vyvanse doses compared to placebo.
+Significant improvements in ADHD symptoms, based upon investigator ratings on the ADHD Rating Scale (ADHD-RS), were observed at end point for all Vyvanse doses compared to placebo.
+
+The second study was a multi-center, randomized, double-blind, placebo-controlled, crossover design, modified analog classroom study of Vyvanse to simulate a workplace environment in 142 adults who met DSM-IV-TR criteria for ADHD.
+There was a 4-week open-label, dose optimization phase with Vyvanse (30, 50, or 70 mg/day in the morning).
+Subjects were then randomized to one of two treatment sequences: 1) Vyvanse (optimized dose) followed by placebo, each for one week, or 2) placebo followed by Vyvanse, each for one week.
+Efficacy assessments occurred at the end of each week, using the Permanent Product Measure of Performance (PERMP).
+The PERMP is a skill-adjusted math test that measures attention in ADHD.
+Vyvanse treatment, compared to placebo, resulted in a statistically significant improvement in attention across all post-dose time points, as measured by average PERMP total scores over the course of one assessment day, as well as at each time point measured.
+The PERMP assessments were administered at pre-dose (-0.5 hours) and at 2, 4, 8, 10, 12, and 14 hours post-dose.
