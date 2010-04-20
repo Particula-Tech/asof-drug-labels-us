@@ -1,13 +1,14 @@
 # HOW SUPPLIED
 
-Sorbitol-Mannitol Irrigation is supplied in single-dose 3000 mL flexible irrigation container (List No. 7981).
+Sorbitol-Mannitol Irrigation is supplied in single-dose 3000 mL flexible irrigation container (NDC No. 0409–7981–08).
 
-Exposure of pharmaceutical products to heat should be minimized.
-Avoid excessive heat.
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
 Protect from freezing.
-It is recommended that the product be stored at room temperature (25°C/77°F).
 
-| ©Hospira 2004 | EN-0364 | Printed in USA |
-| --- | --- | --- |
+Revised: May, 2009
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+|  | EN-2127 |  |  |
+| --- | --- | --- | --- |
+| Printed in USA |  |  |  |
+| Hospira, Inc., Lake Forest, IL 60045 USA |  |  |  |
