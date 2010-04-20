@@ -1,5 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050537",
+    "NDA050600",
+    "NDA050615"
+  ],
   "inn": "clindamycin",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
@@ -10,7 +14,23 @@
     "59762-3743-2",
     "59762-3744-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    },
+    {
+      "form": "LOTION",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "clindamycin phosphate",
+      "name": "clindamycin phosphate"
+    }
+  ],
   "setid": "f7480256-8b32-419a-8983-e2c413040dba",
   "source": "dailymed"
 }

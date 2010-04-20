@@ -10,9 +10,9 @@ Carton of 60 single-use pledget applicators—NDC 59762-3728-3
 
 Clindamycin phosphate topical gel containing clindamycin phosphate equivalent to 10 mg clindamycin per gram is available in the following sizes:
 
-60 gram tube—NDC 59762-3743-1
+30 gram tube—NDC 59762-3743-1
 
-30 gram tube—NDC 59762-3743-2
+60 gram tube—NDC 59762-3743-2
 
 Clindamycin phosphate topical lotion containing clindamycin phosphate equivalent to 10 mg clindamycin per milliliter is available in the following size:
 
