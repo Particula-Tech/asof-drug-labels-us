@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016798",
+    "NDA017516"
+  ],
   "inn": "doxepin",
   "labeler": "Roerig",
   "package_ndcs": [
@@ -11,7 +14,18 @@
     "0049-5380-66",
     "0049-5390-66"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxepin hydrochloride",
+      "name": "Sinequan"
+    },
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "doxepin hydrochloride",
+      "name": "Sinequan"
+    }
+  ],
   "setid": "880ecbfb-a1fa-463f-9e20-3cba4b6db963",
   "source": "dailymed"
 }
