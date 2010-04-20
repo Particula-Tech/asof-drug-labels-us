@@ -201,19 +201,19 @@ NovoLog ingredients include:
 
 All NovoLog vials, PenFill cartridges and NovoLog FlexPen are latex free.
 
-Date of Issue: July 14, 2009
+Date of Issue: March 17, 2010
 
-Version: 8
+Version: 9
 
-NovoLog®, PenFill®, FlexPen®, NovoPen®, NovoFine®, PenMate®, are trademarks of Novo Nordisk A/S.
+NovoLog®, PenFill®, FlexPen®, NovoPen®, NovoFine®, PenMate®, are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004, and other patents pending.
 
-PenFill® is covered by US Patent Nos. 6,126,646, 5,693,027, DES 347894, and other patents pending.
+PenFill® is covered by US Patent No. 5,693,027
 
-© 2002-2009 Novo Nordisk Inc.
+© 2002-2010 Novo Nordisk A/S
 
 Manufactured by:
 
