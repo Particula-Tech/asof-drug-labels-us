@@ -1,4 +1,6 @@
-OVERDOSAGEPoisindex® Toxicologic Management.
+# OVERDOSAGE*
+
+*Poisindex® Toxicologic Management.
 Topic: Antidepressants, Tricyclic.
 Micromedex Inc. Vol. 85.
 

@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for chlordiazepoxide and amitriptyline should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -50,19 +50,6 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that chlordiazepoxide and amitriptyline is not approved for use in treating bipolar depression.
-
-Because of the atropine like action of the amitriptyline component, great care should be used in treating patients with a history of urinary retention or angle closure glaucoma.
-In patients with glaucoma, even average doses may precipitate an attack.
-Severe constipation may occur in patients taking tricyclic antidepressants in combination with anticholinergic type drugs.
-
-Patients with cardiovascular disorders should be watched closely.
-Tricyclic antidepressant drugs, particularly when given in high doses, have been reported to produce arrhythmias, sinus tachycardia and prolongation of conduction time.
-Myocardial infarction and stroke have been reported in patients receiving drugs of this class.
-
-Because of the sedative effects of chlordiazepoxide and amitriptyline hydrochloride, patients should be cautioned about combined effects with alcohol or other CNS depressants.
-The additive effects may produce a harmful level of sedation and CNS depression.
-
-Patients receiving chlordiazepoxide and amitriptyline hydrochloride should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ## General
 
@@ -134,7 +121,7 @@ Because of its amitriptyline component, chlordiazepoxide and amitriptyline hydro
 
 ## Drugs Metabolized by P450 2D6
 
-The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7 to 10% of caucasians are so called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.
+The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of caucasians are so called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).
 
