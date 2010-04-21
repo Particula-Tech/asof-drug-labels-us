@@ -1,13 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075417"
+  ],
   "inn": "clozapine",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-0825-01",
     "0378-0860-01",
-    "0378-0860-05"
+    "0378-0860-05",
+    "0378-0972-01",
+    "0378-0972-05",
+    "0378-0973-01",
+    "0378-0973-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clozapine",
+      "name": "Clozapine"
+    }
+  ],
   "setid": "883b5d43-0339-7dc1-f775-93791fb9b978",
   "source": "dailymed"
 }

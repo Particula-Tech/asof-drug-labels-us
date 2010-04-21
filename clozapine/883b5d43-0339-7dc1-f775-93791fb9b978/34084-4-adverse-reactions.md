@@ -107,7 +107,7 @@ The following table enumerates adverse events that occurred at a frequency of 10
 These rates are not adjusted for duration of exposure.
 
 Treatment-Emergent Adverse Experience IncidenceAEs are listed by frequency in clozapine group, and included in the table are those for which the risk ratio of clozapine over Zyprexa or of Zyprexa over clozapine was greater than 1.5.
-Among Patients Taking clozapine or Zyprexa® (olanzapine) in the InterSePTTM Study (Percentage of Patients Reporting)
+Among Patients Taking Clozapine or Zyprexa® (olanzapine) in the InterSePTTM Study (Percentage of Patients Reporting)
 
 |  | Clozapine N = 479 % Reporting | Zyprexa® N = 477 % Reporting |
 | --- | --- | --- |
@@ -155,7 +155,7 @@ Miscellaneous: chills/chills with fever, malaise, appetite increase, ear disorde
 Post-marketing experience has shown an adverse experience profile similar to that presented above.
 Voluntary reports of adverse events temporally associated with clozapine not mentioned above that have been received since market introduction and that may have no causal relationship with the drug include the following:
 
-Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy; and status epilepticus.
+Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy; status epilepticus; and obsessive compulsive symptoms.
 
 Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
 
@@ -169,11 +169,11 @@ Urogenital System: acute interstitial nephritis and priapism.
 
 Integumentary (Skin): hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, and Stevens-Johnson Syndrome.
 
-Metabolic and Nutritional Disorders: hypercholesterolemia (very rare); and hypertriglyceridemia (very rare).
+Metabolic and Nutritional Disorders: hypercholesterolemia, hypertriglyceridemia and new onset diabetes.
 
 Musculoskeletal System: myasthenic syndrome and rhabdomyolysis.
 
-Respiratory System: aspiration and pleural effusion.
+Respiratory System: aspiration, pleural effusion and pneumonia and lower respiratory tract infection which may be fatal.
 
 Hemic and Lymphatic System: deep vein thrombosis; elevated hemoglobin/hematocrit; ESR increased; pulmonary embolism; sepsis; thrombocytosis; and thrombocytopenia.
 

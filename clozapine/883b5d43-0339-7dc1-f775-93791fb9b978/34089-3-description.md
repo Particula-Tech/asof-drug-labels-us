@@ -5,6 +5,6 @@ Clozapine’s structural formula, molecular formula, and molecular weight are as
 
 Clozapine, USP is a yellow, crystalline powder, very slightly soluble in water.
 
-Clozapine tablets, for oral administration, are available containing 25 mg and 100 mg of clozapine.
+Clozapine tablets, for oral administration, are available containing 25 mg, 50 mg, 100 mg and 200 mg of clozapine.
 In addition, each tablet contains the following inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium lauryl sulfate.
-In addition, the 25 mg tablet contains FD&C Red No. 40 Aluminum Lake and the 100 mg tablet contains FD&C Blue No. 2 Aluminum Lake.
+In addition, the 25 mg tablets contain FD&C Red No. 40 Aluminum Lake and the 50 mg, 100 mg and 200 mg tablets contain FD&C Blue No. 2 Aluminum Lake.

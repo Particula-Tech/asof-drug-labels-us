@@ -4,7 +4,7 @@
 
 ### INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
-ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH COMPARED TO PLACEBO.
+ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH.
 CLOZAPINE IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS (SEE BOXED WARNING).
 
 ### AGRANULOCYTOSIS
@@ -65,9 +65,9 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | All results for WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of Therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥3500/mm3 and ANC > 2000/mm3 |
-| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | 1. Repeat WBC and ANC 2. If repeat values are 3000/mm3 ≤ WBC ≤3500/mm3 and ANC < 2000/mm3, then monitor twice weekly |
-| Mild Leukopenia ----- Mild Granulocytopenia | 3500/mm3 > WBC ≥ 3000/mm3and/or 2000/mm3 > ANC ≥ 1500/mm3 | Twice-weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
-| Moderate Leukopenia ----- Moderate Granulocytopenia | 3000/mm3 > WBC ≥2000/mm3and/or 1500/mm3 > ANC ≥1000/mm3 | 1. Interrupt therapy 2. Daily until WBC > 3000/mm3 and ANC > 1500/mm33. Twice-weekly until WBC > 3500/mm3 and ANC > 2000/mm34. May rechallenge when WBC > 3500/mm3 and ANC >2000/mm35. If rechallenged, monitor weekly for one year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
+| Substantial drop in WBC or ANC | Single drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | 1. Repeat WBC and ANC 2. If repeat values are 3000/mm3 ≤ WBC ≤ 3500/mm3 and ANC < 2000/mm3, then monitor twice weekly |
+| Mild Leukopenia ----- Mild Granulocytopenia | 3500/mm3 > WBC ≥ 3000/mm3 and/or 2000/mm3 > ANC ≥ 1500/mm3 | Twice-weekly until WBC > 3500/mm3 and ANC > 2000/mm3 then return to previous monitoring frequency |
+| Moderate Leukopenia ----- Moderate Granulocytopenia | 3000/mm3 > WBC ≥2000/mm3 and/or 1500/mm3 > ANC ≥1000/mm3 | 1. Interrupt therapy 2. Daily until WBC > 3000/mm3 and ANC > 1500/mm3 3. Twice-weekly until WBC > 3500/mm3 and ANC > 2000/mm3 4. May rechallenge when WBC > 3500/mm3 and ANC >2000/mm3 5. If rechallenged, monitor weekly for one year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
 | Severe Leukopenia ----- Severe Granulocytopenia | WBC < 2000/mm3 and/or ANC < 1000/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
 | Agranulocytosis | ANC ≤ 500/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
 | * WBC = white blood cell count; ANC = absolute neutrophil count |  |  |
@@ -284,6 +284,13 @@ Clozapine has potent anticholinergic effects and care should be exercised in usi
 Because of initial sedation, clozapine may impair mental and/or physical abilities, especially during the first few days of therapy.
 The recommendations for gradual dose escalation should be carefully adhered to, and patients cautioned about activities requiring alertness.
 
+## Cerebrovascular Adverse Events
+
+An increased risk of cerebrovascular adverse events has been observed in dementia patients treated with some atypical antipsychotics.
+The mechanism for this increased risk is not known.
+An increased risk cannot be excluded for dementia patients or other patients treated with clozapine.
+Clozapine should be used with caution in patients with dementia or risk factors for stroke.
+
 ## Use in Patients with Concomitant Illness
 
 Clinical experience with clozapine in patients with concomitant systemic diseases is limited.
@@ -300,8 +307,12 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 - Patients who are to receive clozapine should be warned about the significant risk of developing agranulocytosis.
   Patients should be advised to report immediately the appearance of lethargy, weakness, fever, sore throat, malaise, mucous membrane ulceration or other possible signs of infection.
-  Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection. ▪ Patients should be informed that clozapine tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
-  Patients should be informed that their WBC count and ANC will be monitored as follows: □Weekly blood tests are required for the first 6 months. □If acceptable WBC counts and ANCs (WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months. □Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
+  Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
+  - Patients should be informed that clozapine tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
+    Patients should be informed that their WBC count and ANC will be monitored as follows:
+    - Weekly blood tests are required for the first 6 months.
+    - If acceptable WBC counts and ANCs (WBC ≥ 3500/mm3 and ANC ≥ 2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
+    - Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
 - Patients should be informed of the significant risk of seizure during clozapine treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking clozapine.
 - Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
 - Patients should be informed that if they miss taking clozapine for more than 2 days, they should not restart their medication at the same dosage, but should contact their physician for dosing instructions.
@@ -334,7 +345,7 @@ The risk of metabolic interactions caused by an effect on an individual isoform 
 Nevertheless, caution should be used in patients receiving concomitant treatment with other drugs that are either inhibitors or inducers of these enzymes.
 
 Concomitant administration of drugs known to induce cytochrome P450 enzymes may decrease the plasma levels of clozapine.
-Phenytoin, nicotine, and rifampin may decrease clozapine plasma levels, resulting in a decrease in effectiveness of a previously effective clozapine dose.
+Phenytoin, tobacco smoke, and rifampin may decrease clozapine plasma levels, resulting in a decrease in effectiveness of a previously effective clozapine dose.
 
 Concomitant administration of drugs known to inhibit the activity of cytochrome P450 isozymes may increase the plasma levels of clozapine.
 Cimetidine, caffeine, citalopram, ciprofloxacin and erythromycin may increase plasma levels of clozapine, potentially resulting in adverse effects.
@@ -380,7 +391,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical Studies of clozapine did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of clozapine did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
 
 Orthostatic hypotension can occur with clozapine treatment and tachycardia, which may be sustained, has been observed in about 25% of patients taking clozapine (see BOXED WARNING: Other Adverse Cardiovascular and Respiratory Effects).
 Elderly patients, particularly those with compromised cardiovascular functioning, may be more susceptible to these effects.
