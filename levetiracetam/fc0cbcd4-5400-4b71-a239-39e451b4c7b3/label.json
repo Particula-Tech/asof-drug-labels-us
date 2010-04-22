@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021035"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "UCB Farchim S.A.",
+  "package_ndcs": [
+    "28877-5970-0"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levetiracetam",
+      "name": "Keppra"
+    }
+  ],
+  "setid": "fc0cbcd4-5400-4b71-a239-39e451b4c7b3",
+  "source": "dailymed"
+}
