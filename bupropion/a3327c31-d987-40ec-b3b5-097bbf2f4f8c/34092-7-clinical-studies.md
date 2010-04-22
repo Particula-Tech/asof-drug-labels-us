@@ -23,7 +23,7 @@ Dose-Response Trial: Quit Rates by Treatment Group
 | Placebo (n = 151)%(95% CI) | ZYBAN 100 mg/day (n = 153)%(95% CI) | ZYBAN 150 mg/day(n = 153)%(95% CI) | ZYBAN 300 mg/day (n = 156)%(95% CI) |  |
 | Week 7 (4-week quit) | 17%(11-23) | 22%(15-28) | 27%a(20-35) | 36%a(28-43) |
 | Week 12 | 14%(8-19) | 20%(13-26) | 20%(14-27) | 25%a(18-32) |
-| Week 26 | 11%(6-16) | 16%(11-22) | 18%(12-24) | 19%*(13-25) |
+| Week 26 | 11%(6-16) | 16%(11-22) | 18%(12-24) | 19%a(13-25) |
 
 aSignificantly different from placebo (P≤0.05).
 

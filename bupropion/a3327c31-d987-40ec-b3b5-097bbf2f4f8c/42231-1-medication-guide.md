@@ -212,17 +212,17 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store ZYBAN?
 
 - Store ZYBAN at room temperature.
-  Store out of direct sunlight.
-  Keep ZYBAN in its tightly closed bottle.
+- Store out of direct sunlight.
+- Keep ZYBAN in its tightly closed bottle.
 - ZYBAN may have an odor.
 
 General Information about ZYBAN.
 
-- Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-  Do not use ZYBAN for a condition for which it was not prescribed.
-  Do not give ZYBAN to other people, even if they have the same symptoms you have.
-  It may harm them.
-  Keep ZYBAN out of the reach of children.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use ZYBAN for a condition for which it was not prescribed.
+Do not give ZYBAN to other people, even if they have the same symptoms you have.
+It may harm them.
+Keep ZYBAN out of the reach of children.
 
 This Medication Guide summarizes important information about ZYBAN.
 For more information, talk with your doctor.

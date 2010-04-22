@@ -12,8 +12,6 @@ Sustained-Release Tablets 150 mg
 
 Rx only
 
-open here
-
 Twice-A-Day
 
 (After Initial Titration)
@@ -36,5 +34,7 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-10000000056458 Rev.
-5/08
+Made in Germany
+
+10000000071809 Rev.
+8/09

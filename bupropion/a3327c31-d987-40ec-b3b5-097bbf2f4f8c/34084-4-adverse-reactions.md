@@ -69,8 +69,10 @@ Treatment-Emergent Adverse Event Incidence in the Comparative Triala
 | Application site reactionb Rash Pruritus Urticaria | 11432 | 17310 | 15352 | 7210 |
 | Special Senses |  |  |  |  |
 | Taste perversion Tinnitus | 31 | 10 | 3<1 | 20 |
-| aSelected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group. |  |  |  |  |
-| b Patients randomized to ZYBAN or placebo received placebo patches. |  |  |  |  |
+
+aSelected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group.
+
+b Patients randomized to ZYBAN or placebo received placebo patches.
 
 ZYBAN was well tolerated in the long-term maintenance trial that evaluated chronic administration of ZYBAN for up to 1 year and in the COPD trial that evaluated patients with mild-to-moderate COPD for a 12-week period.
 Adverse events in both studies were quantitatively and qualitatively similar to those observed in the dose-response and comparative trials.

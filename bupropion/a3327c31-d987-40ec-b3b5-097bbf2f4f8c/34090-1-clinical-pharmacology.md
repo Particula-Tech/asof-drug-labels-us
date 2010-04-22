@@ -46,8 +46,8 @@ Because bupropion is extensively metabolized, there is the potential for drug-dr
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
 Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of ZYBAN Tablets.
-Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steadystate.
-The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady-state is about 17 times that of bupropion.
+Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
+The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite; however, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs are 1.5 and 7 times that of bupropion, respectively.
 
 Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg/day.
