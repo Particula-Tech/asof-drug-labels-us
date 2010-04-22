@@ -70,7 +70,7 @@ Schering Corporation
 
 PRINCIPAL DISPLAY PANEL - 250 mg Carton
 
-NDC 0085-1252-01
+NDC 0085-1417-01
 
 250 mg per capsule
 
@@ -86,7 +86,7 @@ PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
 NDC 0085-1381-01
 
-Temodar® (temozolomide) for Injection
+Temodar® [temozolomide] for Injection
 
 100 mg/VIAL
 
