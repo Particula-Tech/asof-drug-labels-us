@@ -20,9 +20,9 @@ Tenofovir is principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [See Adverse Reactions (6.2)].
 
 It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with VIREAD.
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment.
+Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment, including patients who have previously experienced renal events while receiving HEPSERA.
 
-Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance <50 mL/min [See Dosage and Administration (2.2)].
+Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance <50 mL/min [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
 VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
@@ -42,19 +42,28 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 
 ## 5.6 Decreases in Bone Mineral Density
 
-Bone mineral density (BMD) monitoring should be considered for patients who have a history of pathologic bone fracture or are at risk for osteopenia.
+Assessment of bone mineral density (BMD) should be considered for adults and adolescents who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-In HIV-infected patients treated with VIREAD in Study 903 through 144 weeks, decreases from baseline in BMD were seen at the lumbar spine and hip in both arms of the study.
-At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in patients receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with patients receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
+In HIV-1 infected adult subjects treated with VIREAD in Study 903 through 144 weeks, decreases from baseline in BMD were seen at the lumbar spine and hip in both arms of the study.
+At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz (-2.2% ± 3.9) compared with subjects receiving stavudine + lamivudine + efavirenz (-1.0% ± 4.6).
 Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the VIREAD group vs. -2.4% ± 4.5 in the stavudine group).
 In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through Week 144.
-Twenty-eight percent of VIREAD-treated patients vs. 21% of the stavudine-treated patients lost at least 5% of BMD at the spine or 7% of BMD at the hip.
-Clinically relevant fractures (excluding fingers and toes) were reported in 4 patients in the VIREAD group and 6 patients in the stavudine group.
+Twenty-eight percent of VIREAD-treated subjects vs. 21% of the stavudine-treated subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
+Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the VIREAD group and 6 subjects in the stavudine group.
 In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide) in the VIREAD group relative to the stavudine group, suggesting increased bone turnover.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
 Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
+
+In a clinical study of HIV-1 infected adolescent subjects (Study 321), bone effects were similar to adult subjects.
+Under normal circumstances BMD increases rapidly in adolescents.
+In this study, the mean rate of bone gain was less in the VIREAD-treated group compared to the placebo group.
+Six VIREAD treated adolescents and one placebo treated adolescent had significant (>4%) lumbar spine BMD loss in 48 weeks.
+Among 28 subjects receiving 96 weeks of VIREAD, Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
+Skeletal growth (height) appeared to be unaffected.
+Markers of bone turnover in VIREAD-treated adolescents suggest increased bone turnover, consistent with the effects observed in adults.
+
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 
 Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
@@ -74,7 +83,7 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 ## 5.9 Early Virologic Failure
 
-Clinical studies in HIV-infected patients have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
+Clinical studies in HIV-infected subjects have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
 In particular, early virological failure and high rates of resistance substitutions have been reported.
 Triple nucleoside regimens should therefore be used with caution.
 Patients on a therapy utilizing a triple nucleoside-only regimen should be carefully monitored and considered for treatment modification.
