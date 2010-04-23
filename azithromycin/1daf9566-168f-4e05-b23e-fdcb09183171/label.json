@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050797"
+  ],
   "inn": "azithromycin",
-  "labeler": "Pfizer, Inc",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-4170-02",
     "0069-4170-21"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "azithromycin",
+      "name": "Zmax"
+    }
+  ],
   "setid": "1daf9566-168f-4e05-b23e-fdcb09183171",
   "source": "dailymed"
 }

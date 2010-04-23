@@ -3,4 +3,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Brand names are registered trademarks of their respective owners.
 Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc. Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
 
-LAB-0384-2.0 October 2008
+LAB-0384-3.0 June 2009
