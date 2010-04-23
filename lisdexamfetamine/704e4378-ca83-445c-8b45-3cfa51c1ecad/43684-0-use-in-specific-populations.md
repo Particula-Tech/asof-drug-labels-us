@@ -13,7 +13,7 @@ Amphetamine (d- to l-enantiomer ratio of 3:1) had no apparent effects on embryof
 Fetal malformations and death have been reported in mice following parenteral administration of d-amphetamine doses of 50 mg/kg/day or greater to pregnant animals.
 Administration of these doses was also associated with severe maternal toxicity.
 
-A number of studies in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
+A number of studies in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d,l-) at doses similar to those used clinically can result in longterm neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
 There are no adequate and well-controlled studies in pregnant women.

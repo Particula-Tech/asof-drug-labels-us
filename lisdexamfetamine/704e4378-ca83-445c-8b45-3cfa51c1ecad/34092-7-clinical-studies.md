@@ -23,7 +23,7 @@ A significant difference in patient behavior, based upon the average of investig
 
 Adult
 
-A double-blind, randomized, placebo-controlled, parallel-group, study was conducted in adults (N=420) who met DSM-IV criteria for ADHD.
+A double-blind, randomized, placebo-controlled, parallel-group study was conducted in adults (N=420) who met DSM-IV criteria for ADHD.
 In this four-week study, patients were randomized to fixed dose treatment groups receiving final doses of 30, 50, or 70 mg of Vyvanse or placebo.
 All subjects receiving Vyvanse were initiated on 30 mg for the first week of treatment.
 Subjects assigned to the 50 and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.

@@ -91,7 +91,7 @@ Cardiac Disorders - Palpitation
 
 Eye Disorders - Vision blurred, mydriasis, diplopia
 
-Immune System Disorders - Hypersensitivity
+Immune System Disorders - Anaphylactic reaction, hypersensitivity
 
 Nervous System Disorders - Seizure, dyskinesia
 

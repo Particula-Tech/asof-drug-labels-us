@@ -108,7 +108,7 @@ Vyvanse may affect your or your child's ability to drive or do other dangerous a
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
 This is not a complete list of possible side effects.
-Ask your doctor or pharmacist for more information
+Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
