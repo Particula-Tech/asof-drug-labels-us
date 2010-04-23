@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074754"
+  ],
   "inn": "ketorolac",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-0314-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ketorolac tromethamine",
+      "name": "Ketorolac Tromethamine"
+    }
+  ],
   "setid": "688f5dec-a6db-43c6-a1f8-5df99d08d395",
   "source": "dailymed"
 }

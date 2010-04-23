@@ -1,4 +1,6 @@
-# MEDICATION GUIDE FOR NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS)
+Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+
+Rx only
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -10,7 +12,7 @@ This chance increases:
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG."
+NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
@@ -49,7 +51,7 @@ Do not take an NSAID medicine:
 
 Tell your healthcare provider:
 
-- about all of your medical conditions
+- about all of your medical conditions.
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
@@ -102,10 +104,10 @@ Talk to your healthcare provider or pharmacist for more information about NSAID 
 
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-- Aspirin is an NSAID medicine but it does not increase the chance of heart attack.
+- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-- Some of the NSAID medicines are sold in lower doses without a prescription (over-the-counter).
+- Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 NSAID medicines that need a prescription
@@ -118,17 +120,29 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
 | Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen (combined with hydrocodone), Combunox (combined with oxycodone) |
+| Ibuprofen | Motrin, Tab-Profen, VicoprofenVicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. (combined with hydrocodone), Combunox (combined with oxycodone) |
 | Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naproxyn, Naprelan, Naprapac (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (copackaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured By:
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Rev.
+B 7/2009

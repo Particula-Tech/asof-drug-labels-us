@@ -5,3 +5,12 @@ Ketorolac tromethamine tablets USP, 10 mg are round, white, unscored, film-coate
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+Manufactured By:
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Rev.
+H 10/2009

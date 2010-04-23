@@ -1,4 +1,69 @@
-# WARNINGS (SEE ALSO BOXED WARNING)
+# WARNINGS
+
+(See also Boxed WARNING.)
+
+The total combined duration of use of ketorolac tromethamine tablets and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+Ketorolac tromethamine tablets are not indicated for use in pediatric patients.
+
+The most serious risks associated with ketorolac tromethamine are:
+
+## Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation
+
+Ketorolac tromethamine is contraindicated in patients with previously documented peptic ulcers and/or GI bleeding.
+Ketorolac tromethamine can cause serious gastrointestinal (GI) adverse events including bleeding, ulceration and perforation, of the stomach, small intestine, or large intestine, which can be fatal.
+These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with ketorolac tromethamine.
+
+Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
+Minor upper gastrointestinal problems, such as dyspepsia, are common and may also occur at any time during NSAID therapy.
+The incidence and severity of gastrointestinal complications increases with increasing dose of, and duration of treatment with, ketorolac tromethamine.
+Do not use ketorolac tromethamine for more than five days.
+However, even short-term therapy is not without risk.
+In addition to past history of ulcer disease, other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids, or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
+Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
+
+To minimize the potential risk for an adverse GI event, the lowest effective dose should be used for the shortest possible duration.
+Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
+This should include discontinuation of ketorolac tromethamine until a serious GI adverse event is ruled out.
+For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
+
+NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn's disease) as their condition may be exacerbated.
+
+## Hemorrhage
+
+Because prostaglandins play an important role in hemostasis and NSAIDs affect platelet aggregation as well, use of ketorolac tromethamine in patients who have coagulation disorders should be undertaken very cautiously, and those patients should be carefully monitored.
+Patients on therapeutic doses of anticoagulants (e.g., heparin or dicumarol derivatives) have an increased risk of bleeding complications if given ketorolac tromethamine concurrently; therefore, physicians should administer such concomitant therapy only extremely cautiously.
+The concurrent use of ketorolac tromethamine and therapy that affects hemostasis, including prophylactic low-dose heparin (2500 to 5000 units q12h), warfarin and dextrans have not been studied extensively, but may also be associated with an increased risk of bleeding.
+Until data from such studies are available, physicians should carefully weigh the benefits against the risks and use such concomitant therapy in these patients only extremely cautiously.
+Patients receiving therapy that affects hemostasis should be monitored closely.
+
+In postmarketing experience, postoperative hematomas and other signs of wound bleeding have been reported in association with the peri-operative use of IV or IM dosing of ketorolac tromethamine.
+Therefore, peri-operative use of ketorolac tromethamine should be avoided and postoperative use be undertaken with caution when hemostasis is critical (see PRECAUTIONS).
+
+## Renal Effects
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients, administration of a NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+Ketorolac tromethamine and its metabolites are eliminated primarily by the kidneys, which, in patients with reduced creatinine clearance, will result in diminished clearance of the drug (see CLINICAL PHARMACOLOGY).
+Therefore, ketorolac tromethamine should be used with caution in patients with impaired renal function (see DOSAGE AND ADMINISTRATION) and such patients should be followed closely.
+With the use of ketorolac tromethamine, there have been reports of acute renal failure, interstitial nephritis and nephrotic syndrome.
+
+## Impaired Renal Function
+
+Ketorolac tromethamine is contraindicated in patients with serum creatinine concentrations indicating advanced renal impairment (see CONTRAINDICATIONS).
+Ketorolac tromethamine should be used with caution in patients with impaired renal function or a history of kidney disease because it is a potent inhibitor of prostaglandin synthesis.
+Because patients with underlying renal insufficiency are at increased risk of developing acute renal decompensation or failure, the risks and benefits should be assessed prior to giving ketorolac tromethamine to these patients.
+
+## Anaphylactoid Reactions
+
+As with other NSAIDs, anaphylactoid reactions may occur in patients without a known previous exposure or hypersensitivity to ketorolac tromethamine.
+Ketorolac tromethamine should not be given to patients with the aspirin triad.
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
+Anaphylactoid reactions, like anaphylaxis, may have a fatal outcome.
+Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
 ## Cardiovascular Effects
 
@@ -12,151 +77,134 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS).
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects – RiskofUlceration, Bleeding, and Perforation).
+Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ### Hypertension
 
-NSAIDs, including ketorolac tromethamine tablets, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including ketorolac tromethamine, can lead to onset of new hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-NSAIDs, including ketorolac tromethamine tablets, should be used with caution in patients with hypertension.
+NSAIDs, including ketorolac tromethamine, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
+## Congestive Heart Failure and Edema
 
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-Ketorolac tromethamine tablets should be used with caution in patients with fluid retention or heart failure.
-
-## Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation
-
-NSAIDs, including ketorolac tromethamine tablets, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
-These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
-Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3 to 6 months, and in about 2 to 4% of patients treated for one year.
-These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
-However, even short-term therapy is not without risk.
-
-NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
-Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10 fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
-Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
-
-To minimize the potential risk for an adverse GI event in patients treated with an NSAID, the lowest effective dose should be used for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
-For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
-
-## Renal Effects
-
-Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
-Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
-
-## Advanced Renal Disease
-
-No information is available from controlled clinical studies regarding the use of ketorolac tromethamine tablets in patients with advanced renal disease.
-Therefore, treatment with ketorolac tromethamine tablets is not recommended in these patients with advanced renal disease.
-If Ketorolac tromethamine tablet therapy must be initiated, close monitoring of the patient's renal function is advisable.
-
-## Anaphylactoid Reactions
-
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to ketorolac tromethamine tablets.
-Ketorolac tromethamine tablets should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Fluid retention, edema, retention of NaCl, oliguria, elevations of serum urea nitrogen and creatinine have been reported in clinical trials with ketorolac tromethamine.
+Therefore, ketorolac tromethamine should be used only very cautiously in patients with cardiac decompensation, hypertension or similar conditions.
 
 ## Skin Reactions
 
-NSAIDs, including ketorolac tromethamine tablets, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including ketorolac tromethamine, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
 ## Pregnancy
 
-In late pregnancy, as with other NSAIDs, ketorolac tromethamine tablets should be avoided because it may cause premature closure of the ductus arteriosus.
+In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it may cause premature closure of the ductus arteriosus.
 
 # PRECAUTIONS
 
 ## General
 
-Ketorolac tromethamine tablets cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+Ketorolac tromethamine cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
 Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
 
-The pharmacological activity of ketorolac tromethamine tablets in reducing inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+The pharmacological activity of ketorolac tromethamine in reducing inflammation may diminish the utility of this diagnostic sign in detecting complications of presumed noninfectious, painful conditions.
 
-## Hepatic Effects
+### Hepatic Effect
 
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including ketorolac tromethamine tablets.
+Ketorolac tromethamine should be used with caution in patients with impaired hepatic function or a history of liver disease.
+Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including ketorolac tromethamine.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
 Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
 In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
 
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ketorolac tromethamine tablets.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ketorolac tromethamine tablets should be discontinued.
+A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ketorolac tromethamine.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ketorolac tromethamine should be discontinued.
 
-## Hematological Effects
+### Hematologic Effect
 
-Anemia is sometimes seen in patients receiving NSAIDs, including ketorolac tromethamine tablets.
+Anemia is sometimes seen in patients receiving NSAIDs, including ketorolac tromethamine.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs, including ketorolac tromethamine tablets, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
-
+Patients on long-term treatment with NSAIDs, including ketorolac tromethamine, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving ketorolac tromethamine tablets who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
+Patients receiving ketorolac tromethamine who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
 
 ## Preexisting Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ketorolac tromethamine tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
+Since cross reactivity, including bronchospasm, between aspirin and other non-steroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ketorolac tromethamine should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
 
 ## Information for Patients
+
+Ketorolac tromethamine is a potent NSAID and may cause serious side effects such as gastrointestinal bleeding or kidney failure, which may result in hospitalization and even fatal outcome.
+
+Physicians, when prescribing ketorolac tromethamine, should inform their patients or their guardians of the potential risks of ketorolac tromethamine treatment (see Boxed WARNING, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS), instruct patients to seek medical advice if they develop treatment-related adverse events, and advise patients not to giveketorolac tromethamine tablets to other family members and to discard any unused drug.
+
+Remember that the total combined duration of use of ketorolac tromethamine tablets and IV or IM dosing of ketorolac tromethamine is not to exceed 5 days in adults.
+Ketorolac tromethamine tablets are not indicated for use in pediatric patients.
 
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1. Ketorolac tromethamine tablets, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
+1. Ketorolac tromethamine, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
    Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
    Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-2. Ketorolac tromethamine tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+2. Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
-3. Ketorolac tromethamine tablets, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
+   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation).
+3. Ketorolac tromethamine, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
+6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, ketorolac tromethamine tablets should be avoided because it will cause premature closure of the ductus arteriosus.
+7. In late pregnancy, as with other NSAIDs, ketorolac tromethamine should be avoided because it will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, ketorolac tromethamine tablets should be discontinued.
+If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, ketorolac tromethamine should be discontinued.
 
 ## Drug Interactions
 
-### ACE-inhibitors
+Ketorolac is highly bound to human plasma protein (mean 99.2%).
+There is no evidence in animal or human studies that ketorolac tromethamine induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs.
 
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+### Warfarin, Digoxin, Salicylate, and Heparin
+
+The in vitro binding of warfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to 10 mcg/mL.
+Ketorolac does not alter digoxin protein binding.
+In vitro studies indicate that, at therapeutic concentrations of salicylate (300 mcg/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential twofold increase in unbound ketorolac plasma levels.
+Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin and tolbutamide did not alter ketorolac tromethamine protein binding.
+
+In a study involving 12 adult volunteers, ketorolac tromethamine tablets were coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.
+In another study, ketorolac tromethamine dosed IV or IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.
+Although these results do not indicate a significant interaction between ketorolac tromethamine and warfarin or heparin, the administration of ketorolac tromethamine to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored (see WARNINGS and PRECAUTIONS, Hematologic Effect).
+
+The effects of warfarin and NSAIDs, in general, on GI bleeding are synergistic, such that the users of both drugs together have a risk of serious GI bleeding higher than the users of either drug alone.
 
 ### Aspirin
 
-When ketorolac tromethamine tablets are administered with aspirin, its protein binding is reduced, although the clearance of free ketorolac is not altered.
-The clinical significance of this interaction is not known, however, as with other NSAIDs, concomitant administration of ketorolac tromethamine tablets and aspirin is not generally recommended because of the potential of increased adverse effects.
+When ketorolac tromethamine is administered with aspirin, its protein binding is reduced, although the clearance of free ketorolac tromethamine is not altered.
+The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of ketorolac tromethamine and aspirin is not generally recommended because of the potential of increased adverse effects.
 
-### Furosemide
+### Diuretics
 
-Clinical studies, as well as post marketing observations, have shown that ketorolac tromethamine tablets can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Clinical studies, as well as postmarketing observations, have shown that ketorolac tromethamine can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
+
+### Probenecid
+
+Concomitant administration of ketorolac tromethamine tablets and probenecid resulted in decreased clearance and volume of distribution of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 mcg/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.
+Therefore, concomitant use of ketorolac tromethamine and probenecid is contraindicated.
 
 ### Lithium
 
@@ -171,13 +219,38 @@ NSAIDs have been reported to competitively inhibit methotrexate accumulation in 
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
 
-### Warfarin
+### ACE Inhibitors/Angiotensin II Receptor Antagonists
 
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
+Concomitant use of ACE inhibitors and/or angiotensin II receptor antagonists may increase the risk of renal impairment, particularly in volume-depleted patients.
+
+Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors and/or angiotensin II receptor antagonists.
+This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors and/or angiotensin II receptor antagonists.
+
+### Antiepileptic Drugs
+
+Sporadic cases of seizures have been reported during concomitant use of ketorolac tromethamine and antiepileptic drugs (phenytoin, carbamazepine).
+
+### Psychoactive Drugs
+
+Hallucinations have been reported when ketorolac tromethamine was used in patients taking psychoactive drugs (fluoxetine, thiothixene, alprazolam).
+
+### Pentoxifylline
+
+When ketorolac tromethamine is administered concurrently with pentoxifylline, there is an increased tendency to bleeding.
+
+### Nondepolarizing Muscle Relaxants
+
+In postmarketing experience there have been reports of a possible interaction between ketorolac tromethamineIV/IM and nondepolarizing muscle relaxants that resulted in apnea.
+The concurrent use of ketorolac tromethamine with muscle relaxants has not been formally studied.
+
+### Selective Serotonin Reuptake Inhibitors (SSRIs)
+
+There is an increased risk of gastrointestinal bleeding when selective serotonin reuptake inhibitors (SSRIs) are combined with NSAIDs.
+Caution should be used when NSAIDs are administered concomitantly with SSRIs.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-An 18 month study in mice with oral doses of ketorolac tromethamine at 2 mg/kg/day (0.9 times the human systemic exposure at the recommended I.M. or I.V. dose of 30 mg q.i.d., based on area-under-the-plasma-concentration curve [AUC]), and a 24 month study in rats at 5 mg/kg/day (0.5 times the human AUC), showed no evidence of tumorigenicity.
+An 18 month study in mice with oral doses of ketorolac tromethamine at 2 mg/kg/day (0.9 times the human systemic exposure at the recommended IM or IV dose of 30 mg qid, based on area-under-the-plasma-concentration curve [AUC]), and a 24 month study in rats at 5 mg/kg/day (0.5 times the human AUC) showed no evidence of tumorigenicity.
 
 Ketorolac tromethamine was not mutagenic in the Ames test, unscheduled DNA synthesis and repair, and in forward mutation assays.
 Ketorolac tromethamine did not cause chromosome breakage in the in vivo mouse micronucleus assay.
@@ -191,29 +264,38 @@ Impairment of fertility did not occur in male or female rats at oral doses of 9 
 
 #### Pregnancy category C
 
-Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
+Reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1.0 times the human AUC) in rats.
+Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
-There are no adequate and well-controlled studies in pregnant women.
 
 ### Nonteratogenic Effects
 
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of the ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+Because of the known effects of non-steroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+Oral doses of ketorolac tromethamine at 1.5 mg/kg (0.14 times the human AUC), administered after gestation Day 17, caused dystocia and higher pup mortality in rats.
+
+There are no adequate and well-controlled studies of ketorolac tromethamine in pregnant women.
+Ketorolac tromethamine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Labor and Delivery
 
-In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
-The effects of ketorolac tromethamine tablets on labor and delivery in pregnant women are unknown.
+The use of ketorolac tromethamine is contraindicated in labor and delivery because, through its prostaglandin synthesis inhibitory effect, it may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage (see CONTRAINDICATIONS).
+
+### Effects on Fertility
+
+The use of ketorolac tromethamine, as with any drug known to inhibit cyclooxygenase/prostaglandin synthesis, may impair fertility and is not recommended in women attempting to conceive.
+In women who have difficulty conceiving or are undergoing investigation of infertility, withdrawal of ketorolac tromethamine should be considered.
 
 ## Nursing Mothers
 
-After a single administration of 10 mg of ketorolac tromethamine tablets to humans, the maximum milk concentration observed was 7.3 ng/mL and the maximum milk-to-plasma ratio was 0.037.
-After one day of dosing (q.i.d.), the maximum milk concentration was 7.9 ng/mL and the maximum milk-to-plasma ratio was 0.025.
+After a single administration of 10 mg of ketorolac tromethamine tablets to humans, the maximum milk concentration observed was 7.3 ng/mL, and the maximum milk-to-plasma ratio was 0.037.
+After 1 day of dosing (qid), the maximum milk concentration was 7.9 ng/mL, and the maximum milk-to-plasma ratio was 0.025.
 Because of the possible adverse effects of prostaglandin-inhibiting drugs on neonates, use in nursing mothers is contraindicated.
 
 ## Pediatric Use
 
-Safety and efficacy in pediatric patients (less than 16 years of age) have not been established.
+Ketorolac tromethamine tablets are not indicated for use in pediatric patients.
+The safety and effectiveness of ketorolac tromethamine tablets in pediatric patients below the age of 17 have not been established.
 
-## Geriatric Use
+## Geriatric Use (≥ 65 Years of Age)
 
-As with any NSAIDs, caution should be exercised in treating the elderly (65 years and older).
+Because ketorolac tromethamine may be cleared more slowly by the elderly (see CLINICALPHARMACOLOGY) who are also more sensitive to the dose-related adverse effects of NSAIDs (see WARNINGS, Gastrointestinal Effects – Risk of Ulceration, Bleeding, and Perforation), extreme caution, reduced dosages (see DOSAGE AND ADMINISTRATION), and careful clinical monitoring must be used when treating the elderly with ketorolac tromethamine.
