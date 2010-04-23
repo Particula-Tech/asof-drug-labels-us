@@ -38,9 +38,9 @@ In these multicenter clinical trials, there were no statistically significant di
 
 The following reactions have also been reported during treatment with metronidazole:
 
-Central Nervous System: Two serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
+Central Nervous System: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole, patients should be specifically warned about these reactions and should be told to stop the drug and report immediately to their physicians if any neurologic symptoms occur.
-In addition, patients have reported dizziness, vertigo, incoordination, ataxia, confusion, irritability, depression, weakness, and insomnia.
+In addition, patients have reported dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
 (See WARNINGS.)
 
 Gastrointestinal: The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea reported by about 12% of patients, sometimes accompanied by headache, anorexia, and occasionally vomiting, diarrhea, epigastric distress, and abdominal cramping.
@@ -53,7 +53,7 @@ Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocy
 
 Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-Hypersensitivity: Urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
+Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 
 Renal: Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure.
 Instances of darkened urine have been reported by approximately one patient in 100,000.

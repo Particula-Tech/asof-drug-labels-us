@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020868"
+  ],
   "inn": "metronidazole",
-  "labeler": "G.D. Searle, LLC",
+  "labeler": "G.D. Searle LLC",
   "package_ndcs": [
     "0025-1961-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "metronidazole",
+      "name": "Flagyl ER"
+    }
+  ],
   "setid": "0b0ba593-fe54-456c-a3d7-651c50036e3e",
   "source": "dailymed"
 }

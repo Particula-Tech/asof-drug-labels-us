@@ -4,6 +4,6 @@ Rx only
 
 Manufactured by: MOVA Pharmaceutical Corporation Caguas, PR 00725
 
-LAB-0166-4.0
+LAB-0166-5.0
 
-Rev August 2006
+July 2009

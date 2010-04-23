@@ -1,8 +1,8 @@
 # WARNINGS
 
-## Convulsive seizures and peripheral neuropathy
+## Central and Peripheral Nervous System Effects
 
-Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
 The appearance of abnormal neurologic signs demands the prompt discontinuation of metronidazole therapy.
 Metronidazole should be administered with caution to patients with central nervous system diseases.
 
@@ -92,7 +92,7 @@ Since metronidazole is secreted in human milk in concentrations similar to those
 
 ## Geriatric use
 
-Decreased renal function does not alter the singledose pharmacokinetics of metronidazole.
+Decreased renal function does not alter the single-dose pharmacokinetics of metronidazole.
 However, plasma clearance of metronidazole is decreased in patients with decreased liver function.
 Therefore, in elderly patients, monitoring of serum levels may be necessary to adjust the metronidazole dosage accordingly.
 
