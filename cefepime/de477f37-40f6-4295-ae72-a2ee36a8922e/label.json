@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065441"
+  ],
+  "inn": "cefepime",
+  "labeler": "Sagent Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "25021-121-20",
+    "25021-122-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime hydrochloride",
+      "name": "Cefepime"
+    }
+  ],
+  "setid": "de477f37-40f6-4295-ae72-a2ee36a8922e",
+  "source": "dailymed"
+}
