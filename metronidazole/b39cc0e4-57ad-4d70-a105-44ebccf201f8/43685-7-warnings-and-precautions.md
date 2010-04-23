@@ -1,8 +1,8 @@
 # WARNINGS
 
-## Convulsive Seizures and Peripheral Neuropathy
+## Central and Peripheral Nervous System Effects
 
-Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
 The appearance of abnormal neurologic signs demands the prompt discontinuation of Flagyl (metronidazole) therapy.
 Flagyl should be administered with caution to patients with central nervous system diseases.
 
