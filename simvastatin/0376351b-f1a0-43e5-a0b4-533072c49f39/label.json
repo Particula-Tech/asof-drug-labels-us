@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA077691"
+  ],
+  "inn": "simvastatin",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "16714-681-01",
+    "16714-681-02",
+    "16714-682-01",
+    "16714-682-02",
+    "16714-682-03",
+    "16714-683-01",
+    "16714-683-02",
+    "16714-683-03",
+    "16714-684-01",
+    "16714-684-02",
+    "16714-684-03",
+    "16714-685-01",
+    "16714-685-02",
+    "16714-685-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "simvastatin",
+      "name": "Simvastatin"
+    }
+  ],
+  "setid": "0376351b-f1a0-43e5-a0b4-533072c49f39",
+  "source": "dailymed"
+}
