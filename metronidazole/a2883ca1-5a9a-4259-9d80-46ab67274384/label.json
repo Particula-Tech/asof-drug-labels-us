@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020334"
+  ],
+  "inn": "metronidazole",
+  "labeler": "G.D. Searle LLC",
+  "package_ndcs": [
+    "0025-1942-34",
+    "0025-1942-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "metronidazole",
+      "name": "Flagyl"
+    }
+  ],
+  "setid": "a2883ca1-5a9a-4259-9d80-46ab67274384",
+  "source": "dailymed"
+}
