@@ -1,13 +1,13 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-### SYMBICORT
+SYMBICORT
 
 SYMBICORT contains both budesonide and formoterol; therefore, the mechanisms of action described below for the individual components apply to SYMBICORT.
-These drugs represent two classes of medications (a synthetic corticosteroid and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical, physiological, and inflammatory indices of asthma.
+These drugs represent two classes of medications (a synthetic corticosteroid and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical, physiological, and inflammatory indices of Chronic Obstructive Pulmonary Disease (COPD) and asthma.
 
-### Budesonide
+Budesonide
 
 Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity.
 In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay).
@@ -16,21 +16,21 @@ As a measure of systemic activity, budesonide is 40 times more potent than corti
 In glucocorticoid receptor affinity studies, the 22R form of budesonide was two times as active as the 22S epimer.
 In vitro studies indicated that the two forms of budesonide do not interconvert.
 
-Inflammation is an important component in the pathogenesis of asthma.
-Corticosteroids have a wide range of inhibitory activities against multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic and non-allergic-mediated inflammation.
-These anti-inflammatory actions of corticosteroids may contribute to their efficacy in asthma.
+Inflammation is an important component in the pathogenesis of COPD and asthma.
+Corticosteroids have a wide range of inhibitory activities against multiple cell types (eg, mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (eg, histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic and non–allergic-mediated inflammation.
+These anti-inflammatory actions of corticosteroids may contribute to their efficacy in COPD and asthma.
 
 Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activity and systemic corticosteroid effects over a wide range of doses of budesonide.
-This is explained by a combination of a relatively high local anti-inflammatory effect, extensive first pass hepatic degradation of orally absorbed drug (85-95%), and the low potency of formed metabolites.
+This is explained by a combination of a relatively high local anti-inflammatory effect, extensive first pass hepatic degradation of orally absorbed drug (85%-95%), and the low potency of formed metabolites.
 
-### Formoterol
+Formoterol
 
 Formoterol fumarate is a long-acting selective beta2-adrenergic agonist (beta2-agonist) with a rapid onset of action.
 Inhaled formoterol fumarate acts locally in the lung as a bronchodilator.
 In vitro studies have shown that formoterol has more than 200-fold greater agonist activity at beta2-receptors than at beta1-receptors.
-The in vitro binding selectivity to beta2- over beta1-adrenoceptors is higher for formoterol than for albuterol (5 times), whereas salmeterol has a higher (3 times) beta2-selectivity ratio than formoterol.
+The in vitro binding selectivity to beta2- over beta1-adrenoceptors is higher for formoterol than for albuterol (5 times), whereas salmeterol has a higher (3 times) beta 2-selectivity ratio than formoterol.
 
-Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10%-50% of the total beta-adrenergic receptors.
+Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10% to 50% of the total beta-adrenergic receptors.
 The precise function of these receptors has not been established, but they raise the possibility that even highly selective beta2-agonists may have cardiac effects.
 
 The pharmacologic effects of beta2-adrenoceptor agonist drugs, including formoterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3', 5'-adenosine monophosphate (cyclic AMP).
@@ -40,146 +40,48 @@ In vitro tests show that formoterol is an inhibitor of the release of mast cell 
 Formoterol also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-responsiveness.
 The relevance of these in vitro and animal findings to humans is unknown.
 
-## Animal Pharmacology
+## 12.2 Pharmacodynamics
 
-Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
-The clinical significance of these findings is unknown.
+Asthma
 
-## Pharmacokinetics
-
-### SYMBICORT
-
-In a single-dose study, higher than recommended doses of SYMBICORT (12 inhalations of SYMBICORT 160/4.5 mcg) were administered to patients with moderate asthma.
-Peak plasma concentrations for budesonide of 4.5 nmol/L occurred at 20 minutes following dosing and peak concentrations for formoterol of 136 pmol occurred at 10 minutes following dosing.
-Approximately 8% of the delivered dose of formoterol was recovered in the urine as unchanged drug.
-This study also demonstrated that the total systemic exposure to budesonide from SYMBICORT was approximately 30% lower than from inhaled budesonide via a dry powder inhaler (DPI) at the same delivered dose.
-Following administration of SYMBICORT, the half-life of the budesonide component was 4.7 hours and for the formoterol component was 7.9 hours.
-
-In a repeat dose study, the highest recommended dose of SYMBICORT (160/4.5 mcg, 2 inhalations twice daily) was administered to patients with moderate asthma and healthy subjects for one week.
-Peak plasma concentrations of budesonide (1.2 nmol/L) and formoterol (28 pmol/L) occurred at 21 and 10 minutes, respectively, in asthma patients.
-Peak plasma concentrations for budesonide and formoterol were about 30 to 40% higher in healthy subjects compared to that in asthma patients.
-However, the total systemic exposure was comparable to that in asthma patients.
-
-Following administration of SYMBICORT (160/4.5 mcg, two or four inhalations twice daily) for five days in healthy subjects, plasma concentrations of budesonide and formoterol generally increased in proportion to dose.
-Additionally in this study, the accumulation index for the group that received two inhalations twice daily was 1.32 for budesonide and 1.77 for formoterol.
-
-#### Special Populations
-
-##### Geriatric
-
-The pharmacokinetics of SYMBICORT in geriatric patients have not been specifically studied.
-
-##### Pediatric
-
-Plasma concentrations of budesonide were measured following administration of 4 inhalations of SYMBICORT 160/4.5 mcg in a single dose study in pediatric patients with asthma, 6-11 years of age.
-Urine was collected for determination of formoterol excretion.
-Peak budesonide concentrations of 1.4 nmol/L occurred at 20 minutes post-dose.
-Approximately 3.5% of the delivered formoterol dose was recovered in the urine as unchanged formoterol.
-This study also demonstrated that the total systemic exposure to budesonide from SYMBICORT was approximately 30% lower than from inhaled budesonide via a dry powder inhaler which was also evaluated at the same delivered dose.
-
-##### Gender/Race
-
-Specific studies to examine the effects of gender and race on the pharmacokinetics of SYMBICORT have not been conducted.
-Population PK analysis of the SYMBICORT data indicates that gender does not affect the pharmacokinetics of budesonide and formoterol.
-No conclusions can be drawn on the effect of race due to the low number of non-Caucasians evaluated for PK.
-
-##### Renal or Hepatic Insufficiency
-
-There are no data regarding the specific use of SYMBICORT in patients with hepatic or renal impairment.
-Reduced liver function may affect the elimination of corticosteroids.
-Budesonide pharmacokinetics was affected by compromised liver function as evidenced by a doubled systemic availability after oral ingestion.
-The intravenous budesonide pharmacokinetics was, however, similar in cirrhotic patients and in healthy subjects.
-Specific data with formoterol is not available, but since formoterol is primarily eliminated via hepatic metabolism, an increased exposure can be expected in patients with severe liver impairment.
-
-##### Drug-Drug Interactions
-
-A single-dose crossover study was conducted to compare the pharmacokinetics of eight inhalations of the following: budesonide, formoterol, and budesonide plus formoterol administered concurrently.
-The results of the study indicated that there was no evidence of a pharmacokinetic interaction between the two components of SYMBICORT.
-
-Ketoconazole, a potent inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide.
-At recommended doses, cimetidine had a slight but clinically insignificant effect on the pharmacokinetics of oral budesonide.
-Specific drug-drug interaction studies with formoterol have not been performed.
-
-### Budesonide
-
-#### Absorption
-
-Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
-After oral administration of budesonide, peak plasma concentration was achieved in about 1 to 2 hours and the absolute systemic availability was 6-13%, due to extensive first pass metabolism.
-In contrast, most of the budesonide delivered to the lungs was systemically absorbed.
-In healthy subjects, 34% of the metered dose was deposited in the lung (as assessed by plasma concentration method and using a budesonide containing dry-powder inhaler) with an absolute systemic availability of 39% of the metered dose.
-Peak steady-state plasma concentrations of budesonide administered by DPI in adults with asthma averaged 0.6 and 1.6 nmol/L at doses of 180 mcg and 360 mcg twice daily, respectively.
-
-In asthmatic patients, budesonide showed a linear increase in AUC and Cmax with increasing dose after both a single dose and repeated dosing of inhaled budesonide.
-
-#### Distribution
-
-The volume of distribution of budesonide was approximately 3 L/kg.
-It was 85-90% bound to plasma proteins.
-Protein binding was constant over the concentration range (1-100 nmol/L) achieved with, and exceeding, recommended inhaled doses.
-Budesonide showed little or no binding to corticosteroid binding globulin.
-Budesonide rapidly equilibrated with red blood cells in a concentration independent manner with a blood/plasma ratio of about 0.8.
-
-#### Metabolism
-
-In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
-Two major metabolites formed via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) catalyzed biotransformation have been isolated and identified as 16α-hydroxyprednisolone and 6β-hydroxybudesonide.
-The corticosteroid activity of each of these two metabolites was less than 1% of that of the parent compound.
-No qualitative differences between the in vitro and in vivo metabolic patterns were detected.
-Negligible metabolic inactivation was observed in human lung and serum preparations.
-
-#### Excretion/Elimination
-
-Budesonide was excreted in urine and feces in the form of metabolites.
-Approximately 60% of an intravenous radiolabeled dose was recovered in the urine.
-No unchanged budesonide was detected in the urine.
-The 22R form of budesonide was preferentially cleared by the liver with systemic clearance of 1.4 L/min vs. 1.0 L/min for the 22S form.
-The terminal half-life, 2 to 3 hours, was the same for both epimers and was independent of dose.
-
-### Formoterol
-
-#### Absorption
-
-Inhaled formoterol is rapidly absorbed; peak plasma concentrations are typically reached at the first plasma sampling time, within 5-10 minutes after dosing.
-As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol delivered is swallowed and then absorbed from the gastrointestinal tract.
-
-#### Distribution
-
-Over the concentration range of 10-500 nmol/L, plasma protein binding for the RR and SS enantiomers of formoterol was 46 and 58%, respectively.
-The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 54 mcg dose.
-
-#### Metabolism and Excretion
-
-The metabolism and excretion of formoterol were studied in 4 healthy subjects following simultaneous administration of radiolabeled formoterol via the oral and IV routes.
-In that study, 62% of the radiolabeled formoterol was excreted in the urine while 24% was eliminated in the feces.
-The primary metabolism of formoterol is by direct glucuronidation and by O-demethylation followed by conjugation to inactive metabolites.
-Secondary metabolic pathways include deformylation and sulfate conjugation.
-CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
-
-## Pharmacodynamics
-
-### SYMBICORT
-
-In a single-dose cross-over study involving 201 patients with persistent asthma, single-dose treatments of 4.5, 9, and 18 mcg of formoterol in combination with 320 mcg of budesonide delivered via SYMBICORT were compared to budesonide 320 mcg alone.
+Cardiovascular effects: In a single-dose cross-over study involving 201 patients with persistent asthma, single-dose treatments of 4.5, 9, and 18 mcg of formoterol in combination with 320 mcg of budesonide delivered via SYMBICORT were compared to budesonide 320 mcg alone.
 Dose-ordered improvements in FEV1 were demonstrated when compared with budesonide.
-ECGs and blood samples for glucose and potassium were obtained post dose.
+ECGs and blood samples for glucose and potassium were obtained postdose.
 For SYMBICORT, small mean increases in serum glucose and decreases in serum potassium (+0.44 mmol/L and -0.18 mmol/L at the highest dose, respectively) were observed with increasing doses of formoterol, compared to budesonide.
 In ECGs, SYMBICORT produced small dose-related mean increases in heart rate (approximately 3 bpm at the highest dose), and QTc intervals (3-6 msec) compared to budesonide alone.
 No subject had a QT or QTc value ≥500 msec.
 
-In the United States, five 12-week, active- and placebo- controlled studies evaluated 2152 patients aged 12 and older with asthma.
-Systemic pharmacodynamic effects of formoterol (heart/pulse rate, blood pressure, QTc interval, potassium, and glucose) were similar in patients treated with SYMBICORT compared with patients treated with formoterol dry inhalation powder 4.5 mcg, 2 inhalations twice daily.
+In the United States, five 12-week, active- and placebo-controlled studies evaluated 2152 patients aged 12 years and older with asthma.
+Systemic pharmacodynamic effects of formoterol (heart/pulse rate, blood pressure, QTc interval, potassium, and glucose) were similar in patients treated with SYMBICORT, compared with patients treated with formoterol dry inhalation powder 4.5 mcg, two inhalations twice daily.
 No patient had a QT or QTc value ≥500 msec during treatment.
 
-In 3 placebo-controlled studies in adolescents and adults with asthma aged 12 and older, a total of 1232 patients (553 patients in the SYMBICORT group) had evaluable continuous 24-hour electrocardiographic monitoring.
+In three placebo-controlled studies in adolescents and adults with asthma, aged 12 years and older, a total of 1232 patients (553 patients in the SYMBICORT group) had evaluable continuous 24-hour electrocardiographic monitoring.
 Overall, there were no important differences in the occurrence of ventricular or supraventricular ectopy and no evidence of increased risk for clinically significant dysrhythmia in the SYMBICORT group compared to placebo.
 
-Overall, no clinically important effects on HPA axis, as measured by 24-hour urinary cortisol, were observed for SYMBICORT-treated adult or adolescent patients at doses up to 640/18 mcg/day compared to budesonide.
+HP axis effects: Overall, no clinically important effects on HPA axis, as measured by 24-hour urinary cortisol, were observed for SYMBICORT treated adult or adolescent patients at doses up to 640/18 mcg/day compared to budesonide.
 
-### Budesonide
+Chronic Obstructive Pulmonary Disease:
+
+Cardiovascular effects: In 2 clinical studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo.
+[see Clinical Studies (14.2)].
+
+ECGs recorded at multiple clinic visits on treatment in both studies showed no clinically important differences for heart rate, PR interval, QRS duration, heart rate, signs of cardiac ischemia or arrhythmias between SYMBICORT 160/4.5 the monoproducts and placebo, all administered as two inhalations twice daily.
+Based on ECGs, 6 patients treated with SYMBICORT 160/4.5, 6 patients treated with formoterol 4.5, and 6 patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
+There were no cases of nonsustained ventricular tachycardia in the SYMBICORT 160/4.5, formoterol 4.5, or placebo groups.
+
+In the 12-month study, 520 patients had evaluable continuous 24-hour ECG (Holter) monitoring prior to the first dose and after approximately 1 and 4 months on treatment.
+No clinically important differences in ventricular or supraventricular arrhythmias, ventricular or supraventricular ectopic beats, or heart rate were observed among the groups treated with SYMBICORT 160/4.5, formoterol or placebo taken as two inhalations twice daily.
+Based on ECG (Holter) monitoring, one patient on SYMBICORT 160/4.5, no patients on formoterol 4.5, and three patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
+
+HPA axis effects: Twenty-four hour urinary cortisol measurements were collected in a pooled subset (n=616) of patients from two COPD studies.
+The data indicated approximately 30% lower mean 24-hour urinary free cortisol values following chronic administration (> 6 months) of SYMBICORT relative to placebo.
+SYMBICORT appeared to exhibit comparable cortisol suppression to budesonide 160 mcg alone or coadministration of budesonide 160 mcg and formoterol 4.5 mcg.
+For patients treated with SYMBICORT or placebo for up to 12 months, the percentage of patients who shifted from normal to low for this measure were generally comparable.
+
+Other Budesonide Products
 
 To confirm that systemic absorption is not a significant factor in the clinical efficacy of inhaled budesonide, a clinical study in patients with asthma was performed comparing 400 mcg budesonide administered via a pressurized metered dose inhaler with a tube spacer to 1400 mcg of oral budesonide and placebo.
-The study demonstrated the efficacy of inhaled budesonide but not orally ingested budesonide despite comparable systemic levels.
+The study demonstrated the efficacy of inhaled budesonide but not orally ingested budesonide, despite comparable systemic levels.
 Thus, the therapeutic effect of conventional doses of orally inhaled budesonide are largely explained by its direct action on the respiratory tract.
 
 Inhaled budesonide has been shown to decrease airway reactivity to various challenge models, including histamine, methacholine, sodium metabisulfite, and adenosine monophosphate in patients with hyperreactive airways.
@@ -188,150 +90,161 @@ The clinical relevance of these models is not certain.
 Pretreatment with inhaled budesonide, 1600 mcg daily (800 mcg twice daily) for 2 weeks reduced the acute (early-phase reaction) and delayed (late-phase reaction) decrease in FEV1 following inhaled allergen challenge.
 
 The systemic effects of inhaled corticosteroids are related to the systemic exposure to such drugs.
-Pharmacokinetic studies have demonstrated that in both adults and children with asthma the systemic exposure to budesonide is lower with SYMBICORT compared with inhaled budesonide administered at the same delivered dose via a dry powder inhaler (see CLINICAL PHARMACOLOGY, Pharmacokinetics, SYMBICORT).
-Therefore, the systemic effects (HPA axis and growth) of budesonide delivered from SYMBICORT would be expected to be no greater than what is reported for inhaled budesonide when administered at comparable doses via the dry powder inhaler (see PRECAUTIONS, Pediatric Use).
+Pharmacokinetic studies have demonstrated that in both adults and children with asthma the systemic exposure to budesonide is lower with SYMBICORT compared with inhaled budesonide administered at the same delivered dose via a dry powder inhaler [see Clinical Pharmacology, Pharmacokinetics, SYMBICORT (12.3)].
+Therefore, the systemic effects (HPA axis and growth) of budesonide delivered from SYMBICORT would be expected to be no greater than what is reported for inhaled budesonide when administered at comparable doses via the dry powder inhaler [see Use in Specific Populations, Pediatric Use (8.4)].
 
-The effects of inhaled budesonide administered via a dry powder inhaler on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 905 adults and 404 pediatric patients with asthma.
+HPA Axis Effexts: The effects of inhaled budesonide administered via a dry powder inhaler on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 905 adults and 404 pediatric patients with asthma.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by cosyntropin (ACTH) stimulation test, remained intact with budesonide treatment at recommended doses.
-For adult patients treated with 100, 200, 400, or 800 mcg twice daily for 12 weeks, 4%, 2%, 6%, and 13% respectively, had an abnormal stimulated cortisol response (peak cortisol <14.5 mcg/dL assessed by liquid chromatography following short-cosyntropin test) as compared to 8% of patients treated with placebo.
+For adult patients treated with 100, 200, 400, or 800 mcg twice daily for 12 weeks, 4%, 2%, 6%, and 13%, respectively, had an abnormal stimulated cortisol response (peak cortisol <14.5 mcg/dL assessed by liquid chromatography following short-cosyntropin test) as compared to 8% of patients treated with placebo.
 Similar results were obtained in pediatric patients.
-In another study in adults, doses of 400, 800 and 1600 mcg of inhaled budesonide twice daily for 6 weeks were examined; 1600 mcg twice daily (twice the maximum recommended dose) resulted in a 27% reduction in stimulated cortisol (6-hour ACTH infusion) while 10 mg prednisone resulted in a 35% reduction.
-In this study, no patient on budesonide at doses of 400 and 800 mcg twice daily met the criterion for an abnormal stimulated cortisol response (peak cortisol <14.5 mcg/dL assessed by liquid chromatography) following ACTH infusion.
-An open-label, long-term follow-up of 1133 patients for up to 52 weeks confirmed the minimal effect on the HPA axis (both basal and stimulated plasma cortisol) of budesonide when administered at recommended doses.
-In patients who had previously been oral steroid-dependent, use of budesonide in recommended doses was associated with higher stimulated cortisol response compared to baseline following 1 year of therapy.
+In another study in adults, doses of 400, 800, and 1600 mcg of inhaled budesonide twice daily for 6 weeks were examined; 1600 mcg twice daily (twice the maximum recommended dose) resulted in a 27% reduction in stimulated cortisol (6-hour ACTH infusion) while 10-mg prednisone resulted in a 35% reduction.
+In this study, no patient on budesonide at doses of 400 and 800 mcg twice daily met the criterion for an abnormal stimulated-cortisol response (peak cortisol <14.5 mcg/dL assessed by liquid chromatography) following ACTH infusion.
+An open-label, long-term follow-up of 1133 patients for up to 52 weeks confirmed the minimal effect on the HPA axis (both basal- and stimulated-plasma cortisol) of budesonide when administered at recommended doses.
+In patients who had previously been oral-steroid−dependent, use of budesonide in recommended doses was associated with higher stimulated-cortisol response compared to baseline following 1 year of therapy.
 
-### Formoterol
+Other Formoterol Products
 
-While the pharmacodynamic effect is via stimulation of beta-adrenergic receptors; excessive activation of these receptors commonly leads to skeletal muscle tremor and cramps, insomnia, tachycardia, decreases in plasma potassium, and increases in plasma glucose.
-Inhaled formoterol, like other beta-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium (see PRECAUTIONS, General).
-For SYMBICORT, these effects are detailed in the CLINICAL PHARMACOLOGY, Pharmacodynamics, SYMBICORT section.
+While the pharmacodynamic effect is via stimulation of beta-adrenergic receptors, excessive activation of these receptors commonly leads to skeletal muscle tremor and cramps, insomnia, tachycardia, decreases in plasma potassium, and increases in plasma glucose.
+Inhaled formoterol, like other beta2-adrenergic agonist drugs, can produce dose-related cardiovascular effects and effects on blood glucose and/or serum potassium [see Warnings and Precautions (5)].
+For SYMBICORT, these effects are detailed in the Clinical Pharmacology, Pharmacodynamics, SYMBICORT (12.2) section.
 
 Use of long-acting beta2-adrenergic agonist drugs can result in tolerance to bronchoprotective and bronchodilatory effects.
 
-Rebound bronchial hyper-responsiveness after cessation of chronic long-acting beta-agonist therapy has not been observed.
+Rebound bronchial hyperresponsiveness after cessation of chronic long-acting beta-agonist therapy has not been observed.
 
-## Clinical Studies
+## 12.3 Pharmacokinetics
 
-SYMBICORT has been studied in patients with asthma 12 years of age and older.
-In two clinical studies comparing SYMBICORT with the individual components, improvements in most efficacy endpoints were greater with SYMBICORT than with the use of either budesonide or formoterol alone.
-In addition, one clinical study showed similar results between SYMBICORT and the concurrent use of budesonide and formoterol at corresponding doses from separate inhalers.
+SYMBICORT
 
-The safety and efficacy of SYMBICORT were demonstrated in two randomized, double-blind, placebo-controlled US clinical studies involving 1076 patients 12 years of age and older.
-Fixed SYMBICORT dosages of 160/9 mcg, and 320/9 mcg twice daily (each dose administered as 2 inhalations of the 80/4.5- and 160/4.5-mcg strengths, respectively) were compared with the monocomponents (budesonide and formoterol) and placebo to provide information about appropriate dosing to cover a range of asthma severity.
+Absorption: Budesonide: Healthy Subjects: Orally inhaled budesonide is rapidly absorbed in the lungs and peak concentration is typically reached within 20 minutes.
+After oral administration of budesonide peak plasma concentration was achieved in about 1 to 2 hours and the absolute systemic availability was 6%-13% due to extensive first pass metabolism.
+In contrast, most of the budesonide delivered to the lungs was systemically absorbed.
+In healthy subjects, 34% of the metered dose was deposited in the lung (as assessed by plasma concentration method and using a budesonide-containing dry powder inhaler) with an absolute systemic availability of 39% of the metered dose.
 
-### Study 1: Clinical Study with SYMBICORT 160/4.5
+Following administration of SYMBICORT 160/4.5 mcg, two or four inhalations twice daily) for 5 days in healthy subjects, plasma concentration of budesonide generally increased in proportion to dose.
+The accumulation index for the group that received two inhalations twice daily was 1.32 for budesonide.
 
-This 12-week study evaluated 596 patients 12 years of age and older by comparing: SYMBICORT 160/4.5 mcg, the free combination of budesonide 160 mcg plus formoterol 4.5 mcg in separate inhalers, budesonide 160 mcg, formoterol 4.5 mcg, and placebo; each administered as 2 inhalations twice daily.
-The study included a 2-week run-in period with budesonide 80 mcg, 2 inhalations twice daily.
-Most patients had moderate to severe asthma and were using moderate to high doses of inhaled corticosteroids prior to study entry.
-Randomization was stratified by previous inhaled corticosteroid treatment (71.6% on moderate- and 28.4% on high-dose inhaled corticosteroid).
-Mean percent predicted FEV1 at baseline was 68.1% and was similar across treatment groups.
-The co-primary efficacy endpoints were 12-hour-average post-dose FEV1 at week 2, and pre-dose FEV1 averaged over the course of the study.
-The study also required that patients who satisfied a pre-defined asthma worsening criterion be withdrawn.
-The pre-defined asthma worsening criteria were: a clinically important decrease in FEV1 or peak expiratory flow (PEF), increase in rescue albuterol use, nighttime awakening due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
-For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other asthma worsening criteria were met.
-The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 1.
+Asthma Patients: In a single-dose study, higher than recommended doses of SYMBICORT (12 inhalations of SYMBICORT 160/4.5 mcg) were administered to patients with moderate asthma.
+Peak budesonide plasma concentration of 4.5 nmol/L occurred at 20 minutes following dosing.
+This study demonstrated that the total systemic exposure to budesonide from SYMBICORT was approximately 30% lower than from inhaled budesonide via a dry powder inhaler (DPI) at the same delivered dose.
+Following administration of SYMBICORT, the half-life of the budesonide component was 4.7 hours.
 
-Table 1 — The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
+In a repeat dose study, the highest recommended dose of SYMBICORT (160/4.5 mcg, two inhalations twice daily) was administered to patients with moderate asthma and healthy subjects for 1 week.
+Peak budesonide plasma concentration of 1.2 nmol/L occurred at 21 minutes in asthma patients.
+Peak budesonide plasma concentration was 27% lower in asthma patients compared to that in healthy subjects.
+However, the total systemic exposure of budesonide was comparable to that in asthma patients.
 
-|  | SYMBICORT 160/4.5 (N=124) | Budesonide 160 mcg plus Formoterol 4.5 mcg (N=115) | Budesonide 160 mcg (N=109) | Formoterol 4.5 mcg (N=123) | Placebo (N=125) |
-| --- | --- | --- | --- | --- | --- |
-| Patients withdrawn due to predefined asthma event* | 13 (10.5) | 13 (11.3) | 22 (20.2) | 44 (35.8) | 62 (49.6) |
-| Patients with a predefined asthma event*† | 37 (29.8) | 24 (20.9) | 48 (44.0) | 68 (55.3) | 84 (67.2) |
-| Decrease in FEV1 | 4 (3.2) | 8 (7.0) | 7 (6.4) | 15 (12.2) | 14 (11.2) |
-| Rescue medication use | 2 (1.6) | 0 | 3 (2.8) | 3 (2.4) | 7 (5.6) |
-| Decrease in AM PEF | 2 (1.6) | 5 (4.3) | 5 (4.6) | 17 (13.8) | 15 (12.0) |
-| Nighttime awakening‡ | 24 (19.4) | 11 (9.6) | 29 (26.6) | 32 (26.0) | 49 (39.2) |
-| Clinical exacerbation | 7 (5.6) | 6 (5.2) | 5 (4.6) | 17 (13.8) | 16 (12.8) |
+Peak steady-state plasma concentrations of budesonide administered by DPI in adults with asthma averaged 0.6 and 1.6 nmol/L at doses of 180 mcg and 360 mcg twice daily, respectively.
+In asthmatic patients, budesonide showed a linear increase in AUC and Cmax with increasing dose after both single and repeated dosing of inhaled budesonide.
 
-*These criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1 which was assessed at each clinic visit.
+COPD Patients: In a single-dose study, 12 inhalations of SYMBICORT 80/4.5 mcg (total dose 960/54 mcg) were administered to patients with COPD.
+Mean budesonide peak plasma concentration of 3.3 nmol/L occurred at 30 minutes following dosing.
+Budesonide systemic exposure was comparable between SYMBICORT pMDI and coadministration of budesonide via a metered-dose inhaler and formoterol via a dry powder inhaler (budesonide 960 mcg and formoterol 54 mcg).
+In the same study, an open-label group of moderate asthma patients also received the same higher dose of SYMBICORT.
+For budesonide, COPD patients exhibited 12% greater AUC and 10% lower Cmax compared to asthma patients.
 
-†Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status.
+In the 6 month pivotal clinical study, steady-state pharmacokinetic data of budesonide was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5 mcg, SYMBICORT pMDI 80/4.5 mcg, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as two inhalations twice daily.
+Budesonide systemic exposure (AUC and Cmax) increased proportionally with doses from 80 mcg to 160 mcg and was generally similar between the 3 treatment groups receiving the same dose of budesonide (SYMBICORT pMDI 160/4.5 mcg, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg administered together).
 
-‡For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other criteria were met.
+Formoterol:
 
-Mean percent change from baseline in FEV1 measured immediately prior to dosing (predose) over 12 weeks is displayed in Figure 1.
-Because this study used predefined withdrawal criteria for worsening asthma, which caused a differential withdrawal rate in the treatment groups, predose FEV1 results at the last available study visit (end of treatment, EOT) are also provided.
-Patients receiving SYMBICORT 160/4.5 mcg had significantly greater mean improvements from baseline in predose FEV1 at the end of treatment (0.19 L, 9.4%) compared with budesonide 160 mcg (0.10 L, 4.9%), formoterol 4.5 mcg (-0.12 L, -4.8%), and placebo (-0.17 L, -6.9%).
+Inhaled formoterol is rapidly absorbed; peak plasma concentrations are typically reached at the first plasma sampling time, within 5-10 minutes after dosing.
+As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol delivered is swallowed and then absorbed from the gastrointestinal tract.
 
-Figure 1 — Mean Percent Change From Baseline in predose FEV1 Over 12 Weeks (Study 1)
+Healthy Subjects: Following administration of SYMBICORT (160/4.5 mcg, two or four inhalations twice daily) for 5 days in healthy subjects, plasma concentration of formoterol generally increased in proportion to dose.
+The accumulation index for the group that received two inhalations twice daily was 1.77 for formoterol.
 
-The effect of SYMBICORT 160/4.5 mcg 2 inhalations twice daily on selected secondary efficacy variables, including morning and evening PEF, albuterol rescue use, and asthma symptoms over 24 hours on a 0-3 scale is shown in Table 2.
+Asthma patients: In a single-dose study, higher than recommended doses of SYMBICORT (12 inhalations of SYMBICORT 160/4.5 mcg) were administered to patients with moderate asthma.
+Peak plasma concentration for formoterol of 136 pmol occurred at 10 minutes following dosing.
+Approximately 8% of the delivered dose of formoterol was recovered in the urine as unchanged drug.
 
-Table 2 — Mean values for selected secondary efficacy variables (Study 1)
+In a repeat dose study, the highest recommended dose of SYMBICORT (160/4.5 mcg, two inhalations twice daily) was administered to patients with moderate asthma and healthy subjects for 1 week.
+Peak formoterol plasma concentration of 28 pmol/L occurred at 10 minutes in asthma patients.
+Peak formoterol plasma concentration was about 42% lower in asthma patients compared to that in healthy subjects.
+However, the total systemic exposure of formoterol was comparable to that in asthma patients.
 
-| Efficacy Variable | SYMBICORT 160/4.5 (N*=124) | Budesonide 160 mcg plus Formoterol 4.5 mcg (N*=115) | Budesonide 160 mcg (N*=109) | Formoterol 4.5 mcg (N*=123) | Placebo (N*=125) |
-| --- | --- | --- | --- | --- | --- |
-| AM PEF (L/min) |  |  |  |  |  |
-| Baseline | 341 | 338 | 342 | 339 | 355 |
-| Change from Baseline | 35 | 28 | 9 | –9 | –18 |
-| PM PEF (L/min) |  |  |  |  |  |
-| Baseline | 351 | 348 | 357 | 354 | 369 |
-| Change from Baseline | 34 | 26 | 7 | –7 | –18 |
-| Albuterol rescue use |  |  |  |  |  |
-| Baseline | 2.1 | 2.3 | 2.7 | 2.5 | 2.4 |
-| Change from Baseline | –1.0 | –1.5 | –0.8 | –0.3 | 0.8 |
-| Average symptom score/day (0–3 scale) |  |  |  |  |  |
-| Baseline | 0.99 | 1.03 | 1.04 | 1.04 | 1.08 |
-| Change from Baseline | –0.28 | –0.32 | –0.14 | –0.05 | 0.10 |
+COPD patients: Following single-dose administration of 12 inhalations of SYMBICORT 80/4.5, mean peak formoterol plasma concentration of 167 pmol/L was rapidly achieved at 15 minutes after dosing.
+Formoterol exposure was slightly greater (~16-18%) from SYMBICORT pMDI compared to coadministration of budesonide via a metered-dose inhaler and formoterol via a dry powder inhaler (total dose of budesonide 960 mcg and formoterol 54 mcg).
+In the same study, an open label group of moderate asthma patients received the same dose of SYMBICORT.
+COPD patients exhibited 12-15% greater AUC and Cmax for formoterol compared to asthma patients.
 
-*Number of patients (N) varies slightly due to the number of patients for whom data were available for each variable.
-Results shown are based on last available data for each variable.
+In the 6 month pivotal clinical study, steady-state pharmacokinetic data of formoterol was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5 mcg, SYMBICORT pMDI 80/4.5. mcg, formoterol 4.5 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as two inhalations twice daily.
+The systemic exposure of formoterol as evidenced by AUC, was about 30% and 16% higher from SYMBICORT pMDI compared to formoterol alone treatment arm and coadministration of individual components of budesonide and formoterol treatment arm, respectively.
 
-The subjective impact of asthma on patients’ health-related quality of life was evaluated through the use of the standardized Asthma Quality of Life Questionnaire (AQLQ(S)) (based on a 7-point scale where 1 = maximum impairment and 7 = no impairment).
-Patients receiving SYMBICORT 160/4.5 had clinically meaningful improvement in overall asthma-specific quality of life, as defined by a mean difference between treatment groups of >0.5 points in change from baseline in overall AQLQ score (difference in AQLQ score of 0.70 [95% CI 0.47, 0.93] compared to placebo).
+Distribution: Budesonide: The volume of distribution of budesonide was approximately 3 L/kg.
+It was 85%-90% bound to plasma proteins.
+Protein binding was constant over the concentration range (1-100 nmol/L) achieved with, and exceeding, recommended inhaled doses.
+Budesonide showed little or no binding to corticosteroid binding globulin.
+Budesonide rapidly equilibrated with red blood cells in a concentration independent manner with a blood plasma ratio of about 0.8.
 
-### Study 2: Clinical Study with SYMBICORT 80/4.5
+Formoterol: Over the concentration range of 10-500 nmol/L, plasma protein binding for the RR and SS enantiomers of formoterol was 46% and 58%, respectively.
+The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 54 mcg dose.
 
-This 12-week study was similar in design to Study 1, and included 480 patients 12 years of age and older.
-This study compared: SYMBICORT 80/4.5 mcg, budesonide 80 mcg, formoterol 4.5 mcg, and placebo; each administered as 2 inhalations twice daily.
-The study included a 2-week placebo run-in period.
-Most patients had mild to moderate asthma and were using low to moderate doses of inhaled corticosteroids prior to study entry.
-Mean percent predicted FEV1 at baseline was 71.3% and was similar across treatment groups.
-Efficacy variables and endpoints were identical to those in Study 1.
+Metabolism: Budesonide: In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
+Two major metabolites formed via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) catalyzed biotransformation have been isolated and identified as 16a-hydroxyprednisolone and 6ß-hydroxybudesonide.
+The corticosteroid activity of each of these two metabolites was less than 1% of that of the parent compound.
+No qualitative differences between the in vitro and in vivo metabolic patterns were detected.
+Negligible metabolic inactivation was observed in human lung and serum preparations.
 
-The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 3.
-The method of assessment and criteria used were identical to that in Study 1.
+Formoterol: The primary metabolism of formoterol is by direct glucuronidation and by O-demethylation followed by conjugation to inactive metabolites.
+Secondary metabolic pathways include deformylation and sulfate conjugation.
+CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
 
-Table 3 — The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 2)
+Elimination: Budesonide: Budesonide was excreted in urine and feces in the form of metabolites.
+Approximately 60% of an intravenous radiolabeled dose was recovered in the urine.
 
-|  | SYMBICORT 80/4.5 (N=123) | Budesonide 80 mcg (N=121) | Formoterol 4.5 mcg (N=114) | Placebo (N=122) |
-| --- | --- | --- | --- | --- |
-| Patients withdrawn due to predefined asthma event* | 9 (7.3) | 8 (6.6) | 21 (18.4) | 40 (32.8) |
-| Patients with a predefined asthma event*† | 23 (18.7) | 26 (21.5) | 48 (42.1) | 69 (56.6) |
-| Decrease in FEV1 | 3 (2.4) | 3 (2.5) | 11 (9.6) | 9 (7.4) |
-| Rescue medication use | 1 (0.8) | 3 (2.5) | 1 (0.9) | 3 (2.5) |
-| Decrease in AM PEF | 3 (2.4) | 1 (0.8) | 8 (7.0) | 14 (11.5) |
-| Nighttime awakening‡ | 17 (13.8) | 20 (16.5) | 31 (27.2) | 52 (42.6) |
-| Clinical exacerbation | 1 (0.8) | 3 (2.5) | 5 (4.4) | 20 (16.4) |
+No unchanged budesonide was detected in the urine.
+The 22R form of budesonide was preferentially cleared by the liver with systemic clearance of 1.4 L/min vs 1.0 L/min for the 22S form.
+The terminal half-life, 2 to 3 hours, was the same for both epimers and was independent of dose.
 
-*These criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1 which was assessed at each clinic visit.
+Formoterol: The excretion of formoterol was studied in four healthy subjects following simultaneous administration of radiolabeled formoterol via the oral and IV routes.
+In that study, 62% of the radiolabeled formoterol was excreted in the urine while 24% was eliminated in the feces.
 
-†Individual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status.
+Special Populations
 
-‡For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other criteria were met.
+Geriatric
 
-Mean percent change from baseline in predose FEV1 over 12 weeks is displayed in Figure 2.
+The pharmacokinetics of SYMBICORT in geriatric patients have not been specifically studied.
 
-Figure 2 — Mean percent change from baseline in predose FEV1 over 12 weeks (Study 2)
+Pediatric
 
-Efficacy results for other secondary endpoints, including quality of life, were similar to those observed in Study 1.
+Plasma concentrations of budesonide were measured following administration of four inhalations of SYMBICORT 160/4.5 mcg in a single-dose study in pediatric patients with asthma, 6-11 years of age.
+Urine was collected for determination of formoterol excretion.
+Peak budesonide concentrations of 1.4 nmol/L occurred at 20 minutes post-dose.
+Approximately 3.5% of the delivered formoterol dose was recovered in the urine as unchanged formoterol.
+This study also demonstrated that the total systemic exposure to budesonide from SYMBICORT was approximately 30% lower than from inhaled budesonide via a dry powder inhaler that was also evaluated at the same delivered dose.
 
-### Onset and Duration of Action and Progression of Improvement in Asthma Control
+Gender/Race
 
-The onset of action and progression of improvement in asthma control were evaluated in the 2 pivotal clinical studies.
-The median time to onset of clinically significant bronchodilation (>15% improvement in FEV1) was seen within 15 minutes.
-Maximum improvement in FEV1 occurred within 3 hours, and clinically significant improvement was maintained over 12 hours.
-Figures 3 and 4 show the percent change from baseline in postdose FEV1 over 12 hours on the day of randomization and on the last day of treatment for Study 1.
+Specific studies to examine the effects of gender and race on the pharmacokinetics of SYMBICORT have not been conducted.
+Population PK analysis of the SYMBICORT data indicates that gender does not affect the pharmacokinetics of budesonide and formoterol.
+No conclusions can be drawn on the effect of race due to the low number of non-Caucasians evaluated for PK.
 
-Reduction in asthma symptoms and in albuterol rescue use, as well as improvement in morning and evening PEF, occurred within 1 day of the first dose of SYMBICORT; improvement in these variables was maintained over the 12 weeks of therapy.
+Nursing Mothers
 
-Following the initial dose of SYMBICORT, FEV1 improved markedly during the first 2 weeks of treatment, continued to show improvement at the Week 6 assessment, and was maintained through Week 12 for both studies.
+The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.
+Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
+Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg total daily doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
+The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breastfeeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) [see Use in Specific Populations, Nursing Mothers (8.3)].
 
-No diminution in the 12-hour bronchodilator effect was observed with either SYMBICORT 80/4.5 mcg or SYMBICORT 160/4.5 mcg as assessed by FEV1 following 12 weeks of therapy or at the last available visit.
+Renal or Hepatic Insufficiency
 
-FEV1 data from Study 1 evaluating SYMBICORT 160/4.5 mcg is displayed in Figures 3 and 4.
+There are no data regarding the specific use of SYMBICORT in patients with hepatic or renal impairment.
+Reduced liver function may affect the elimination of corticosteroids.
+Budesonide pharmacokinetics was affected by compromised liver function as evidenced by a doubled systemic availability after oral ingestion.
+The intravenous budesonide pharmacokinetics was, however, similar in cirrhotic patients and in healthy subjects.
+Specific data with formoterol is not available, but because formoterol is primarily eliminated via hepatic metabolism, an increased exposure can be expected in patients with severe liver impairment.
 
-Figure 3 — Mean Percent Change From Baseline in FEV1 on Day of Randomization (Study 1)
+Drug-Drug Interactions
 
-Figure 4 — Mean Percent Change From Baseline in FEV1 At End of Treatment (Study 1)
+A single-dose crossover study was conducted to compare the pharmacokinetics of eight inhalations of the following: budesonide, formoterol, and budesonide plus formoterol administered concurrently.
+The results of the study indicated that there was no evidence of a pharmacokinetic interaction between the two components of SYMBICORT.
+
+Inhibitors of cytochrome P450 enzymes
+
+Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide.
+
+Cimetidine: At recommended doses, cimetidine, a non-specific inhibitor of CYP enzymes, had a slight but clinically insignificant effect on the pharmacokinetics of oral budesonide.
+
+Specific drug-drug interaction studies with formoterol have not been performed.
