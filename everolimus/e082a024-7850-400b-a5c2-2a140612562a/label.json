@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021560"
+  ],
+  "inn": "everolimus",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0414-20",
+    "0078-0414-61",
+    "0078-0415-20",
+    "0078-0415-61",
+    "0078-0417-20",
+    "0078-0417-61"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Zortress"
+    }
+  ],
+  "setid": "e082a024-7850-400b-a5c2-2a140612562a",
+  "source": "dailymed"
+}
