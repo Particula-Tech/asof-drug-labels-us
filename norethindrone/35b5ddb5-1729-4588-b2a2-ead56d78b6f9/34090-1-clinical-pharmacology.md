@@ -1,0 +1,45 @@
+# CLINICAL PHARMACOLOGY
+
+## Mode of Action
+
+HEATHER progestin-only oral contraceptives prevent conception by suppressing ovulation in approximately half of users, thickening the cervical mucus to inhibit sperm penetration, lowering the mid-cycle LH and FSH peaks, slowing the movement of the ovum through the fallopian tubes, and altering the endometrium.
+
+## Pharmacokinetics
+
+### Absorption:
+
+Norethindrone is rapidly absorbed with maximum plasma concentrations occurring within 1 to 2 hours after HEATHER administration (see Table 1).
+Norethindrone appears to be completely absorbed following oral administration; however, it is subject to first pass metabolism resulting in an absolute bioavailability of approximately 65%.
+
+Peak plasma concentrations occur approximately 1 hour after administration (mean Tmax 1.2 hours).
+The mean (SD) Cmax was 4816.8 (1532.6) pg/mL and generally occurred within 1 hour (mean) of tablet administration, ranging from 0.5 to 2 hours.
+The mean (SD) Cavg was 885 (250) pg/mL, however, the mean concentration at 24 hrs was 130 (47) pg/mL.
+
+Table 1 provides summary statistics of the pharmacokinetic parameters associated with single dose HEATHER administration.
+
+Table 1: Mean ± SD Pharmacokinetic Parameters Following Single Dose Administration of HEATHER in 12 Healthy Female Subjects Under Fasting Conditions
+
+| Pharmacokinetic Parameter | Norethindrone 0.35 mg |
+| --- | --- |
+| Tmax (hr) | 1.2 ± 0.5 |
+| Cmax (pg/mL) | 4817 ± 1533 |
+| AUC(0-48) (pg•h/mL) | 21233 ± 6002 |
+| t1/2 (h) | 7.7 ± 0.5 |
+
+The food effect on the rate and extent of norethindrone absorption after HEATHER administration has not been evaluated.
+
+### Distribution:
+
+Following oral administration, norethindrone is 36% bound to sex hormone-binding globulin (SHBG) and 61% bound to albumin.
+Volume of distribution of norethindrone is approximately 4 L/kg.
+
+### Metabolism:
+
+Norethindrone undergoes extensive biotransformation, primarily via reduction, followed by sulfate and glucuronide conjugation; less than 5% of a norethindrone dose is excreted unchanged; greater than 50% and 20-40% of a dose is excreted in urine and feces, respectively.
+The majority of metabolites in the circulation are sulfate, with glucuronides accounting for most of the urinary metabolites.
+
+### Excretion:
+
+Plasma clearance rate for norethindrone has been estimated to be approximately 600 L/day.
+Norethindrone is excreted in both urine and feces, primarily as metabolites.
+The mean terminal elimination half-life of norethindrone following single dose administration of HEATHER is approximately 8 hours.

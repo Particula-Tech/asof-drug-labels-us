@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090454"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Glenmark Generics Inc",
+  "package_ndcs": [
+    "68462-303-29"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone",
+      "name": "HEATHER"
+    }
+  ],
+  "setid": "35b5ddb5-1729-4588-b2a2-ead56d78b6f9",
+  "source": "dailymed"
+}
