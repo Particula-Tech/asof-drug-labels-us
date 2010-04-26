@@ -165,9 +165,9 @@ In Paget’s disease, bone breaks down too much and the new bone made is not nor
 Bones affected by Paget’s disease like the skull, spine, and legs, become deformed and weaker than normal.
 This can cause problems like bone pain and the bones can bend or break.
 
-MAY 2009
+REV: JANUARY 2010
 
-T2009-79
+T2010-11
 
 Manufactured by:
 

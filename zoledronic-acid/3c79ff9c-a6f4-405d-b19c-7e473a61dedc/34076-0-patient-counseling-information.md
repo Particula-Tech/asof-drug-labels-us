@@ -2,7 +2,7 @@
 
 See FDA-Approved Patient Labeling.
 
-## 17.1 Information for Patients
+Information for Patients
 
 Patients should be made aware that Reclast contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with Reclast.
 

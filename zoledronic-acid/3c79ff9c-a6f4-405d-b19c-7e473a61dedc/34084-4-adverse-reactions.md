@@ -408,7 +408,7 @@ Symptoms may be significant and lead to dehydration.
 Acute Renal Impairment
 
 Transient rise in serum creatinine correctable with intravenous fluids; acute renal failure requiring hospitalization and/or dialysis.
-Increased serum creatinine was reported in patients with underlying renal disease and dehydration secondary to fever, gastrointestinal losses, diuretic therapy, etc., in the post-infusion period.
+Increased serum creatinine was reported in patients with underlying renal disease and 1) dehydration secondary to fever, gastrointestinal losses, diuretic therapy or 2) other risk factors such as concomitant nephrotoxic drugs in the post-infusion period.
 
 Allergic Reactions
 
@@ -417,4 +417,4 @@ Rare cases of anaphylactic reaction/shock have also been reported.
 
 Other
 
-Hypocalcemia
+Rare cases of the following events have been reported: hypocalcemia, hypotension in patients with underlying risk factors, osteonecrosis of the jaw, scleritis and orbital inflammation.
