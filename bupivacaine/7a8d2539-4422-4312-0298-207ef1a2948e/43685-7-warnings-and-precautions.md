@@ -4,6 +4,12 @@ LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN D
 (See also ADVERSE REACTIONS, PRECAUTIONS and OVERDOSAGE.)
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST, AND, POSSIBLY, DEATH.
 
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
 Spinal anesthetics should not be injected during uterine contractions, because spinal fluid current may carry the drug further cephalad than desired.
 
 A free flow of cerebrospinal fluid during the performance of spinal anesthesia is indicative of entry into the subarachnoid space.
@@ -45,7 +51,7 @@ Patients with severe hepatic disease, because of their inability to metabolize l
 Local anesthetics should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.
 However, dosage recommendations for spinal anesthesia are much lower than dosage recommendations for other major blocks and most experience regarding hepatic and cardiovascular disease dose-related toxicity is derived from these other major blocks.
 
-Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine are employed in patients during or following the administrationof potent inhalation agents.
+Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine are employed in patients during or following the administration of potent inhalation agents.
 In deciding whether to use these products concurrently in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.
 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.

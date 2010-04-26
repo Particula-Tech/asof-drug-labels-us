@@ -6,6 +6,9 @@ Dosages of Bupivacaine Spinal (Bupivacaine in Dextrose Injection, USP) should be
 
 For specific techniques and procedures, refer to standard textbooks.
 
+There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
+Bupivacaine Spinal is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).
+
 The extent and degree of spinal anesthesia depends upon several factors including dosage, specific gravity of the anesthetic solution, volume of solution used, force of injection, level of puncture, and position of the patient during and immediately after injection.
 
 Seven and one-half mg (7.5 mg or 1.0 mL) Bupivacaine Spinal has generally proven satisfactory for spinal anesthesia for lower extremity and perineal procedures including TURP and vaginal hysterectomy.
@@ -22,5 +25,5 @@ Unused portions of solutions should be discarded following initial use.
 
 Bupivacaine Spinal should be inspected visually for discoloration and particulate matter prior to administration; solutions which are discolored or which contain particulate matter should not be administered.
 
-Bupivacaine Spinal may be autoclaved once at 15 pounds pressure, 121° C (250° F) for 15 minutes.
+Bupivacaine Spinal may be autoclaved once at 15 pounds pressure, 121°C (250°F) for 15 minutes.
 Do not administer any solution which is discolored or contains particulate matter.

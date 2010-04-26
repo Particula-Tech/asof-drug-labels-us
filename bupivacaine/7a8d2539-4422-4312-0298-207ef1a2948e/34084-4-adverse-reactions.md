@@ -29,7 +29,7 @@ Many of these effects may be related to local anesthetic techniques, with or wit
 
 Neurologic effects following spinal anesthesia may include loss of perineal sensation and sexual function, persistent anesthesia, paresthesia, weakness and paralysis of the lower extremities, and loss of sphincter control all of which may have slow, incomplete, or no recovery, hypotension, high or total spinal block, urinary retention, headache, backache, septic meningitis, meningismus, arachnoiditis, slowing of labor, increased incidence of forceps delivery, shivering, cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid, and fecal and urinary incontinence.
 
-Allergic:Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic.
+Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic.
 These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and, possibly, anaphylactoid-like symptomatology (including severe hypotension).
 Cross sensitivity among members of the amide-type local anesthetic group has been reported.
 The usefulness of screening for sensitivity has not been definitely established.

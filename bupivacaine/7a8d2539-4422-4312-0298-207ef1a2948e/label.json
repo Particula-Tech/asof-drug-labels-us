@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "bupivacaine",
-  "labeler": "HOSPIRA, INC.",
-  "package_ndcs": [
-    "0409-3613-01"
+  "application_numbers": [
+    "ANDA071810"
   ],
-  "products": [],
+  "inn": "bupivacaine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-3613-01",
+    "0409-3613-52"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride and anhydrous dextrose",
+      "name": "Bupivacaine"
+    }
+  ],
   "setid": "7a8d2539-4422-4312-0298-207ef1a2948e",
   "source": "dailymed"
 }

@@ -45,7 +45,7 @@ The third compartment represents an equilibration of the drug with poorly perfus
 The elimination of drug from tissue distribution depends largely upon the ability of binding sites in the circulation to carry it to the liver where it is metabolized.
 
 Various pharmacokinetic parameters of the local anesthetics can be significantly altered by the presence of hepatic or renal disease, addition of epinephrine, factors affecting urinary pH, renal blood flow, the route of drug administration, and the age of the patient.
-The half-life of bupivacaine in adults is 3.5± 2 hours and in neonates 8.1 hours.
+The half-life of bupivacaine in adults is 3.5 ± 2 hours and in neonates 8.1 hours.
 
 Amide-type local anesthetics such as bupivacaine are metabolized primarily in the liver via conjugation with glucuronic acid.
 Patients with hepatic disease, especially those with severe hepatic disease, may be more susceptible to the potential toxicities of the amide-type local anesthetics.
