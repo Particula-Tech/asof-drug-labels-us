@@ -245,7 +245,7 @@ Active ingredient: desvenlafaxine
 
 Inactive ingredients: For the 50 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
 
-For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate, a film coating which consists of sodium carboxymethylcellulose, maltodextrin, dextrose, titanium dioxide, stearic acid and iron oxides.
+For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium stearate, a film coating which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, iron oxide and FD&C yellow #6.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -264,8 +264,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C012
+W10529C013
 
 ET01
 
-Rev 12/09
+Rev 02/10

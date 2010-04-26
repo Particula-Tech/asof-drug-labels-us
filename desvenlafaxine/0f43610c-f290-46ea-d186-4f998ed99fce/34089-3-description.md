@@ -17,4 +17,4 @@ Each tablet contains 76 or 152 mg of desvenlafaxine succinate equivalent to 50 o
 
 Inactive ingredients for the 50 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, and iron oxides.
 
-Inactive ingredients for the 100 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of sodium carboxymethylcellulose, maltodextrin, dextrose, titanium dioxide, stearic acid and iron oxides.
+Inactive ingredients for the 100 mg tablet consist of hypromellose, microcrystalline cellulose, talc, magnesium stearate and film coating, which consists of polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, iron oxide and FD&C yellow #6.
