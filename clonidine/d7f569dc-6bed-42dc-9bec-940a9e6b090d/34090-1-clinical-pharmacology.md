@@ -24,4 +24,4 @@ The plasma level of clonidine peaks in approximately 3 to 5 hours and the plasma
 The half-life increases up to 41 hours in patients with severe impairment of renal function.
 Following oral administration about 40-60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.
 About 50% of the absorbed dose is metabolized in the liver.
-Neither food nor the race of the patient influence the pharmacokinetics of clonidine.
+Neither food nor the race of the patient influences the pharmacokinetics of clonidine.
