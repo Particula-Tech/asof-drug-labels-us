@@ -31,13 +31,13 @@ A variable effect has been seen when verapamil and atenolol were given together.
 
 ## 7.4 Digitalis
 
-Clinical use of verapamil in patients taking digoxin has shown the combination to be well tolerated if digoxin doses are properly adjusted.
-However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
+Consider reducing digoxin dose when verapamil and digoxin are to be given together.
+Monitor digoxin level periodically during therapy.
+Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
 In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified.
-Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.
-Reduce maintenance and digitalization doses when verapamil is administered, and reassess the patient to avoid over- or underdigitalization.
-Whenever overdigitalization is suspected, reduce the daily dose of digoxin or temporarily discontinued.
-On discontinuation of verapamil use, reassess the patient to avoid underdigitalization.
+Verapamil may reduce total body clearance and extra-renal clearance of digitoxin by 27% and 29%, respectively.
+If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
+
 In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
 
 ## 7.5 Alcohol
