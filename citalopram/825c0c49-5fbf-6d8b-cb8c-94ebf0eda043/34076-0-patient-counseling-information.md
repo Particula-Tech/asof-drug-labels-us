@@ -7,7 +7,7 @@ Talk to your, or your family member’s, healthcare provider about:
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
 
-## What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
+What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
@@ -32,7 +32,7 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-## What else do I need to know about antidepressant medicines?
+What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.

@@ -156,7 +156,7 @@ Patients should be cautioned about the concomitant use of citalopram and NSAIDs,
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
-Patients should be advised to notify their physician if they are breastfeeding an infant.
+Patients should be advised to notify their physician if they are breast-feeding an infant.
 
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
@@ -238,7 +238,7 @@ The effect of theophylline on the pharmacokinetics of citalopram was not evaluat
 
 ### Sumatriptan
 
-There have been rare post-marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a SSRI and sumatriptan.
+There have been rare post-marketing reports describing patients with weakness, hyper-reflexia, and incoordination following the use of a SSRI and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram) is clinically warranted, appropriate observation of the patient is advised.
 
 ### Warfarin

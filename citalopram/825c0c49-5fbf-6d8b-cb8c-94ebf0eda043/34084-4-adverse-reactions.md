@@ -53,8 +53,9 @@ The only commonly observed adverse event that occurred in citalopram patients wi
 TABLE 3 Treatment Emergent Adverse Events: Incidence in Placebo-Controlled Clinical TrialsEvents reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
 (Percentage of Patients Reporting Event)
 
-| Body System/Adverse Event | Citalopram (N = 1,063) | Placebo (N = 446) |
+| Body System/Adverse Event | Citalopram | Placebo |
 | --- | --- | --- |
+|  | (N = 1,063) | (N = 446) |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
 | Sweating Increased | 11% | 9% |
@@ -87,7 +88,7 @@ TABLE 3 Treatment Emergent Adverse Events: Incidence in Placebo-Controlled Clini
 | Sinusitis | 3% | < 1% |
 | Urogenital |  |  |
 | Ejaculation DisorderPrimarily ejaculatory delay.Denominator used was for males only (N = 425 citalopram; N = 194 placebo). | 6% | 1% |
-| Impotence§ | 3% | < 1% |
+| Impotence | 3% | < 1% |
 
 ### Dose Dependency of Adverse Events
 
