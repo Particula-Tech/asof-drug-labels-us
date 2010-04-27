@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021434"
+  ],
   "inn": "alprazolam",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0009-0066-07",
     "0009-0068-07"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "alprazolam",
+      "name": "Xanax XR"
+    }
+  ],
   "setid": "aa58fff3-c297-49be-838b-599c32ad9835",
   "source": "dailymed"
 }
