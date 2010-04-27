@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018276"
+  ],
   "inn": "alprazolam",
-  "labeler": "Pharmacia and Upjohn",
+  "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-0029-01",
     "0009-0029-02",
@@ -17,7 +19,13 @@
     "0009-0094-01",
     "0009-0094-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alprazolam",
+      "name": "Xanax"
+    }
+  ],
   "setid": "388e249d-b9b6-44c3-9f8f-880eced0239f",
   "source": "dailymed"
 }
