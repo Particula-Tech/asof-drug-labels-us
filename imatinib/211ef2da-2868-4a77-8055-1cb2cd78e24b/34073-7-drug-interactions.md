@@ -3,7 +3,15 @@
 ## 7.1 Agents Inducing CYP3A Metabolism
 
 Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of Gleevec, increased Gleevec oral-dose clearance by 3.8-fold, which significantly (p<0.05) decreased mean Cmax and AUC.
-If alternative treatment cannot be administered, a dose adjustment should be considered [see Dosage and Administration (2.9)].
+
+Similar findings were observed in patients receiving 400-1200 mg/day Gleevec concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
+The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
+
+Concomitant administration of Gleevec and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
+
+Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
+Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers.
+[see Dosage and Administration (2.9)].
 
 ## 7.2 Agents Inhibiting CYP3A Metabolism
 
@@ -23,9 +31,8 @@ Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require antic
 
 ## 7.4 Interactions with Drugs Metabolized by CYP2D6
 
-In vitro, Gleevec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at similar concentrations that affect CYP3A4 activity.
-Systemic exposure to substrates of CYP2D6 is expected to be increased when coadministered with Gleevec.
-No specific studies have been performed and caution is recommended.
+Gleevec increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that Gleevec has a weak inhibitory effect on CYP2D6-mediated metabolism.
+No dose adjustment is necessary, however, caution is recommended when administering Gleevec with CYP2D6 substrates that have a narrow therapeutic window.
 
 ## 7.5 Interaction with Acetaminophen
 

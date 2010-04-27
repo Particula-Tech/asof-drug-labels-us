@@ -528,7 +528,7 @@ Respiratory, thoracic and mediastinal disorders: acute respiratory failure1, int
 
 Gastrointestinal disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal perforation1 [see Warnings and Precautions (5.6)], diverticulitis
 
-Skin and subcutaneous tissue disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis
+Skin and subcutaneous tissue disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome
 
 Musculoskeletal and connective tissue disorders: avascular necrosis/hip osteonecrosis
 

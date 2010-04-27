@@ -23,12 +23,12 @@ Examples of other medications that should not be taken with Gleevec are warfarin
 Patients should also be advised to tell their doctor if they are taking or plan to take iron supplements.
 Patients should also avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking Gleevec.
 
+T2010-21
+
 Distributed by:
 
 Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
-
-REV: MAY 2009 T2009-72
 
 © Novartis

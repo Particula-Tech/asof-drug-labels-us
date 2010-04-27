@@ -71,7 +71,7 @@ The mean exposure to imatinib (dose normalized AUC) in patients with mild and mo
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
-Dose reductions are necessary for patients with moderate and severe renal impairment [See Dose Modification Guidelines (2.9)].
+Dose reductions are necessary for patients with moderate and severe renal impairment [See Dosage and Administration (2.9)].
 
 Table 13 Renal Function Classification
 

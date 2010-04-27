@@ -68,7 +68,7 @@ If patients must be co-administered a strong CYP3A4 inducer, based on pharmacoki
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment: Patients with moderate renal impairment (CrCL = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Renal Impairment:Patients with moderate renal impairment (CrCL = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
 Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40-59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
