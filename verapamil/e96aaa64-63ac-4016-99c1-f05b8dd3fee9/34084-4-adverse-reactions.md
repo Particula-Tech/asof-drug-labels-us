@@ -51,7 +51,7 @@ Respiratory: dyspnea.
 
 Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, maculae, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
 
-Special Senses: blurred vision, tinnitis.
+Special Senses: blurred vision, tinnitus.
 
 Urogenital: gynecomastia, impotence, increased urination, spotty menstruation.
 

@@ -18,12 +18,3 @@ Avoid excessive heat.
 Brief digressions above 25°C, while not detrimental, should be avoided.
 Protect from moisture.
 Dispense in tight, light-resistant container as defined in USP.
-
-Rxonly
-
-Manufactured for: SCHWARZ P H A R M A Milwaukee, WI 53201, USA
-
-Verelan® is a registered trademark of Elan Corporation, plc by: ELAN HOLDINGS, INC. Gainesville, GA 30504, USA
-
-U.S. Patent No.: 4,863,742 PC3799E Rev.
-03/05

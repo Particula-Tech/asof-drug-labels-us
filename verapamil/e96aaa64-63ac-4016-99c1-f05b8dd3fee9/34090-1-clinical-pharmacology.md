@@ -35,11 +35,11 @@ The quantitative relationship between plasma verapamil concentrations and blood 
 In a multiple dose pharmacokinetic study, peak concentrations for a single daily dose of Verelan 240 mg were approximately 65% of those obtained with an 80 mg t.i.d. dose of the conventional immediate-release tablets, and the 24 hour post-dose concentrations were approximately 30% higher.
 At a total daily dose of 240 mg, Verelan was shown to have a similar extent of verapamil bioavailability based on the AUC-24 as that obtained with the conventional immediate-release tablets.
 In this same study Verelan doses of 120 mg, 240 mg and 360 mg once daily were compared after multiple doses.
-The ratios of the verapamil and norverapamil AUCs for the Verelan 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng·hr/mL):3 (1660 ng·hr/mL):5 (2729 ng·hr/mL) and 1 (621 ng·hr/mL):3 (1614 ng· hr/mL):4 (2535 ng·hr/mL) respectively, indicating that the AUC increased non-proportionately with increasing doses.
+The ratios of the verapamil and norverapamil AUCs for the Verelan 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng∙hr/mL):3 (1660 ng∙hr/mL):5 (2729 ng∙hr/mL) and 1 (621 ng∙hr/mL):3 (1614 ng∙ hr/mL):4 (2535 ng∙hr/mL) respectively, indicating that the AUC increased non-proportionately with increasing doses.
 
 Food does not affect the extent or rate of the absorption of verapamil from the controlled release Verelan capsule.
-The Verelan 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9.0 hours after dosing, and an AUC(O-inf) of 1387 ng·hr/mL.
-Verelan 240 mg under fasting conditions had a Cmax of 77 ng/mL which occurred 9.8 hours after dosing, and an AUC(O-inf) of 1541 ng·hr/mL.
+The Verelan 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9.0 hours after dosing, and an AUC(O-inf) of 1387 ng∙hr/mL.
+Verelan 240 mg under fasting conditions had a Cmax of 77 ng/mL which occurred 9.8 hours after dosing, and an AUC(O-inf) of 1541 ng∙hr/mL.
 
 The bioequivalence of Verelan 240 mg, administered as the pellets sprinkled on applesauce and as the intact capsule, was demonstrated in a single-dose, cross-over study in 32 healthy adults.
 Comparative ratios (sprinkled/intact) of verapamil were 0.95, 1.02, and 1.01 for Cmax, Tmax, and AUC(O-inf) respectively.
@@ -67,12 +67,14 @@ After four weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil leve
 In 10 healthy males, administration of oral verapamil (80 mg every 8 hours for 6 days) and a single oral dose of ethanol (0.8 g/kg), resulted in a 17% increase in mean peak ethanol concentrations (106.45 ± 21.40 to 124.23 ± 24.74 mg/dL) compared with placebo.
 (See PRECAUTIONS-Drug Interactions.)
 
-The area under the blood ethanol concentration versus time curve (AUC over 12 hours) increased by 30% (365.67 ± 93.52 to 475.07 ± 97.24 mg·hr/dL).
+The area under the blood ethanol concentration versus time curve (AUC over 12 hours) increased by 30% (365.67 ± 93.52 to 475.07 ± 97.24 mg∙hr/dL).
 Verapamil AUCs were positively correlated (r = 0.71) to increased ethanol blood AUC values.
 
-Geriatric Use: The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80years) male and female subjects.
-Older subjects had significantly higher mean veapamil Cmax, Cmin and AUC (0-24h) compared to younger subjects.
-Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs 13 hr).
+### Geriatric Use
+
+The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80years) male and female subjects.
+Older subjects had significantly higher mean verapamil Cmax, Cmin and AUC (0-24h) compared to younger subjects.
+Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs. 13 hr).
 
 ## Hemodynamics and Myocardial Metabolism
 
