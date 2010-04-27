@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018276"
+  ],
   "inn": "alprazolam",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
@@ -15,7 +17,13 @@
     "59762-3722-1",
     "59762-3722-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alprazolam",
+      "name": "Alprazolam"
+    }
+  ],
   "setid": "13930c94-d83a-414f-be35-b1fef35f738d",
   "source": "dailymed"
 }
