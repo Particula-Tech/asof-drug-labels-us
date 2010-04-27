@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021434"
+  ],
   "inn": "alprazolam",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "59762-0066-1",
     "59762-0068-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "alprazolam",
+      "name": "Alprazolam XR"
+    }
+  ],
   "setid": "1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3",
   "source": "dailymed"
 }
