@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+Drug interaction studies have not been performed with Soliris.

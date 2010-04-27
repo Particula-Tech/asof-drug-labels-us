@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125166"
+  ],
+  "inn": "eculizumab",
+  "labeler": "Alexion Pharmaceuticals",
+  "package_ndcs": [
+    "25682-001-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eculizumab",
+      "name": "Soliris"
+    }
+  ],
+  "setid": "ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722",
+  "source": "dailymed"
+}
