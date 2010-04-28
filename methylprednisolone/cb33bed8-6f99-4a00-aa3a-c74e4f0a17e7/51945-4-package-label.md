@@ -1,35 +1,27 @@
-# PRINCIPAL DISPLAY PANEL - 20 mg Multidose Vial Label
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
 
-NDC 0009-0274-01
+NDC 0009-0280-24
 
-5 mL Multidose Vial Rx only
-
-Depo-Medrol®
-
-methylprednisolone acetate injectable suspension, USP
-
-20 mg/mL
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Multidose Vial Label
-
-NDC 0009-0280-02
-
-5 mL Multidose Vial Rx only
-
-Depo-Medrol®
-
-methylprednisolone acetate injectable suspension, USP
+DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
 
 40 mg/mL
 
-# PRINCIPAL DISPLAY PANEL - 80 mg Multidose Vial Label
+5 mL Multidose Vial
 
-NDC 0009-0306-02
+Rx ONLY
 
-5 mL Multidose Vial Rx only
+NOVAPLUS®
 
-Depo-Medrol®
+# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Label
 
-methylprednisolone acetate injectable suspension, USP
+NDC 0009-0306-24
+
+DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
 
 80 mg/mL
+
+5 mL Multidose Vial
+
+Rx ONLY
+
+NOVAPLUS®
