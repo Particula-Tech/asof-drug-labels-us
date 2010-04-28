@@ -33,7 +33,6 @@ Clarithromycin should not be used in pregnant women except in clinical circumsta
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
 (See Warnings in prescribing information for clarithromycin.)
 
-Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14-hydroxy-clarithromycin.
-[See Clinical Pharmacology (12)]
+Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14-hydroxy-clarithromycin [See Clinical Pharmacology (12)].
 
 Concomitant administration of clarithromycin with cisapride or pimozide, is contraindicated.

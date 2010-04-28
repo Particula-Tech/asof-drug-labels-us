@@ -7,63 +7,6 @@ Because this enzyme system is regarded as the acid (proton) pump within the gast
 This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.
 Animal studies indicate that after rapid disappearance from plasma, omeprazole can be found within the gastric mucosa for a day or more.
 
-Antisecretory Activity
-
-After oral administration, the onset of the antisecretory effect of omeprazole occurs within one hour, with the maximum effect occurring within two hours.
-Inhibition of secretion is about 50% of maximum at 24 hours and the duration of inhibition lasts up to 72 hours.
-The antisecretory effect thus lasts far longer than would be expected from the very short (less than one hour) plasma half-life, apparently due to prolonged binding to the parietal H+/K+ ATPase enzyme.
-When the drug is discontinued, secretory activity returns gradually, over 3 to 5 days.
-The inhibitory effect of omeprazole on acid secretion increases with repeated once-daily dosing, reaching a plateau after four days.
-
-Results from numerous studies of the antisecretory effect of multiple doses of 20 mg and 40 mg of omeprazole in normal volunteers and patients are shown below.
-The “max” value represents determinations at a time of maximum effect (2-6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
-
-Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
-
-|  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
-| --- | --- | --- | --- | --- |
-| Parameter | Max | Min | Max | Min |
-| % Decrease in Basal Acid Output | 78* | 58–80 | 94* | 80–93 |
-| % Decrease in Peak Acid Output | 79* | 50–59 | 88* | 62–68 |
-| % Decrease in 24–hr Intragastric Acidity |  | 80–97 |  | 92–94 |
-| * Single Studies |  |  |  |  |
-
-Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
-
-Serum Gastric Effects
-
-In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
-No further increase in serum gastrin occurred with continued treatment.
-In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
-Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
-
-Enterochromaffin-like (ECL) Cell Effects
-
-Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See Clinical Pharmacology (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
-
-Other Effects
-
-Systemic effects of omeprazole in the CNS, cardiovascular and respiratory systems have not been found to date.
-Omeprazole, given in oral doses of 30 or 40 mg for 2 to 4 weeks, had no effect on thyroid function, carbohydrate metabolism, or circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
-
-No effect on gastric emptying of the solid and liquid components of a test meal was demonstrated after a single dose of omeprazole 90 mg.
-In healthy subjects, a single I.V. dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
-No systematic dose-dependent effect has been observed on basal or stimulated pepsin output in humans.
-
-However, when intragastric pH is maintained at 4.0 or above, basal pepsin output is low, and pepsin activity is decreased.
-
-As do other agents that elevate intragastric pH, omeprazole administered for 14 days in healthy subjects produced a significant increase in the intragastric concentrations of viable bacteria.
-The pattern of the bacterial species was unchanged from that commonly found in saliva.
-All changes resolved within three days of stopping treatment.
-
-The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of omeprazole 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
-No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
-Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
-No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
-No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [See Clinical Pharmacology (12)].
-
 ## 12.2 Pharmacodynamics
 
 Antisecretory Activity
@@ -99,8 +42,8 @@ Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks afte
 Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See Clinical Pharmacology (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [See Clinical Pharmacology (12)].
+However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
 
@@ -117,7 +60,7 @@ As do other agents that elevate intragastric pH, omeprazole administered for 14 
 The pattern of the bacterial species was unchanged from that commonly found in saliva.
 All changes resolved within three days of stopping treatment.
 
-The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of omeprazole 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
+The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of Omeprazole Delayed-Release Capsules 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
 No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
 No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
@@ -181,23 +124,20 @@ Table 2 Clarithromycin Tissue Concentrations 2 hours after Dose*
 
 Special Populations
 
-### Geriatric Population
+Geriatric Population
 
 The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
 Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly volunteers, versus 58% in young volunteers given the same dose.
 Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
 
-The elimination rate of omeprazole was somewhat decreased in the elderly, and bioavailability was increased.
-Omeprazole was 76% bioavailable when a single 40 mg oral dose of omeprazole (buffered solution) was administered to healthy elderly volunteers, versus 58% in young volunteers given the same dose.
-Nearly 70% of the dose was recovered in urine as metabolites of omeprazole and no unchanged drug was detected.
-The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
+Pediatric Use
 
-#### Pediatric Use
+The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age
 
-The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age:
+Table 3
 
-Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
+Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
 | Single or Repeated Oral Dosing /Parameter | Children* ≤ 20 kg 2-5 years | Children* > 20 kg 6-16 years | Adults†(mean 76 kg) 23-29 years(n=12) |
 | --- | --- | --- | --- |
@@ -207,41 +147,29 @@ Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated O
 | AUC‡(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
 | Cmax ‡(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUCc(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
-| * Data from single and repeated dose studies† Data from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets‡ Note: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg. |  |  |  |
+| AUC‡(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| Note: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg.* Data from single and repeated dose studies† Data from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets |  |  |  |
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ.
-[See Dosage and Administration (2)]
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ [See Dosage and Administration (2)].
 
-##### Hepatic Impairment
-
-In patients with chronic hepatic disease, the bioavailability increased to approximately 100% compared with an I.V. dose, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared with the half-life in normals of 0.5-1 hour.
-Plasma clearance averaged 70 mL/min, compared with a value of 500-600 mL/min in normal subjects.
-Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for the hepatically impaired should be considered.
+Hepatic Impairment
 
 In patients with chronic hepatic disease, the bioavailability increased to approximately 100% compared with an I.V. dose, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared with the half-life in normals of 0.5-1 hour.
 Plasma clearance averaged 70 mL/min, compared with a value of 500-600 mL/min in normal subjects.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for the hepatically impaired should be considered.
 
-##### Renal Impairment
+Renal Impairment
 
 In patients with chronic renal impairment, whose creatinine clearance ranged between 10 and 62 mL/min/1.73 m2, the disposition of omeprazole was very similar to that in healthy volunteers, although there was a slight increase in bioavailability.
 Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
 No dose reduction is necessary in patients with renal impairment.
 
-In patients with chronic renal impairment, whose creatinine clearance ranged between 10 and 62 mL/min/1.73 m2, the disposition of omeprazole was very similar to that in healthy volunteers, although there was a slight increase in bioavailability.
-Because urinary excretion is a primary route of excretion of omeprazole metabolites, their elimination slowed in proportion to the decreased creatinine clearance.
-No dose reduction is necessary in patients with renal impairment.
-
-##### Asian Population
+Asian Population
 
 In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared with Caucasians.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.
 
-In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared with Caucasians.
-Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.
-
-## 12.4 Microbiology Information in H. pylori
+## 12.4 Microbiology
 
 Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the Indications and Usage section (1.1).
 
@@ -255,22 +183,7 @@ Amoxicillin pretreatment susceptible isolates (≤ 0.25 µg/mL) were found in 99
 Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 µg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
 One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 µg/mL by Etest®.
 
-Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
-
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes* |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
-|  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  | S† | I† | R† | No MIC |  |
-| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies M93-067, M93-100) |  |  |  |  |  |
-| Susceptible †108 | 72 | 1 |  | 26 | 9 |
-| Intermediate †1 |  |  |  | 1 |  |
-| Resistant †4 |  |  |  | 4 |  |
-| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 126, 127, M96-446; followed by omeprazole 20 mg once daily for another 18 days – Studies 126, 127) |  |  |  |  |  |
-| Susceptible †171 | 153 | 7 |  | 3 | 8 |
-| Intermediate † |  |  |  |  |  |
-| Resistant †14 | 4 | 1 |  | 6 | 3 |
-| * Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL |  |  |  |  |  |
+- Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesClarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes*Clarithromycin Pretreatment ResultsClarithromycin Post-treatment ResultsH. pylori negative – eradicatedH. pylori positive – not eradicatedPost-treatment susceptibility resultsS†I†R†No MICDual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)Susceptible †108721269Intermediate †11Resistant †44Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2)Susceptible †171153738Intermediate †Resistant †144163* Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
@@ -313,4 +226,4 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.

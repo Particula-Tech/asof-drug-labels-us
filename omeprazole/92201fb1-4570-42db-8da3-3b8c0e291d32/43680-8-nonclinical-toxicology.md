@@ -23,7 +23,8 @@ Omeprazole was negative in the in vitro Ames test, an in vitro mouse lymphoma ce
 
 Omeprazole at oral doses up to 138 mg/kg/day in rats (about 56 times the human dose on a body surface area basis) was found to have no effect on fertility and reproductive performance.
 
-In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Warnings and Precautions(5)] Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+In 24-month carcinogenicity studies in rats, a dose-related significant increase in gastric carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [See Warnings and Precautions (5)].
+Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

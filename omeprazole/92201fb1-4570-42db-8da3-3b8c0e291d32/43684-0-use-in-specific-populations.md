@@ -2,8 +2,10 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Category C
+
 Reproductive studies in rats and rabbits with omeprazole and multiple cohort studies in pregnant women with omeprazole use during the first trimester do not show an increased risk of congenital anomalies or adverse pregnancy outcomes.
-There are no adequate and well controlled studies on the use of omeprazole in pregnant women.
+There are no adequate and well -controlled studies on the use of omeprazole in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 The vast majority of reported experience with omeprazole during human pregnancy is first trimester exposure and the duration of use is rarely specified, e.g., intermittent vs. chronic.
 An expert review of published data on experiences with omeprazole use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as fair).
@@ -28,8 +30,7 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
 In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.
-In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring.
-[See Animal Toxicology and/or Pharmacology (13.2)].
+In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring [See Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -40,9 +41,9 @@ Because omeprazole is excreted in human milk, because of the potential for serio
 
 ## 8.4 Pediatric Use
 
-Use of Omeprazole Delayed-Release Capsules in pediatric and adolescent patients 2 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of Omeprazole Delayed-Release Capsules for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3) and Dosage and Administration (2).
-Adverse Reactions (6.1) and Clinical Studies, (14.6)].
+Use of Omeprazole Delayed-Release Capsules in pediatric and adolescent patients 1 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of Omeprazole Delayed-Release Capsules for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
+[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3)and Dosage and Administration (2).
+Adverse Reactions (6.1) and Clinicial Studies (14.6)].
 The safety and effectiveness of Omeprazole Delayed-Release Capsules for the treatment of GERD in patients < 1 year of age have not been established.
 The safety and effectiveness of Omeprazole Delayed-Release Capsules for other pediatric uses have not been established.
 
@@ -54,20 +55,16 @@ Other reported clinical experience has not identified differences in response be
 
 Pharmacokinetic studies have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
-However, no dosage adjustment is necessary in the elderly.
-[See Clinical Pharmacology (12.3)]
+However, no dosage adjustment is necessary in the elderly [See Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [See Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-No dosage reduction is necessary.
-[See Clinical Pharmacology (12.3)]
+No dosage reduction is necessary [See Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Population
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [See Clinical Pharmacology (12.3)].
