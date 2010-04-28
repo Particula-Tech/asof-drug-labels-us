@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA078512"
+  ],
+  "inn": "atenolol",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-168-01",
+    "65862-168-76",
+    "65862-168-99",
+    "65862-169-01",
+    "65862-169-81",
+    "65862-169-99",
+    "65862-170-01",
+    "65862-170-61",
+    "65862-170-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "Atenolol"
+    }
+  ],
+  "setid": "1b8a4689-3916-4f4b-b54a-bbb4e322d79b",
+  "source": "dailymed"
+}
