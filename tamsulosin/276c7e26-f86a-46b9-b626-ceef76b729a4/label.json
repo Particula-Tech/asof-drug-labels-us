@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078225"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-695-01",
+    "65841-695-05",
+    "65841-695-06",
+    "65841-695-10",
+    "65841-695-14",
+    "65841-695-16"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "Tamsulosin Hydrochloride"
+    }
+  ],
+  "setid": "276c7e26-f86a-46b9-b626-ceef76b729a4",
+  "source": "dailymed"
+}
