@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021790"
+  ],
+  "inn": "decitabine",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-600-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Dacogen"
+    }
+  ],
+  "setid": "acaf6e50-7cd3-4431-98ef-d1c07e3ed8c2",
+  "source": "dailymed"
+}

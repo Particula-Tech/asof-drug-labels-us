@@ -1,0 +1,35 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis.
+Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis.
+Decitabine-induced hypomethylation in neoplastic cells may restore normal function to genes that are critical for the control of cellular differentiation and proliferation.
+In rapidly dividing cells, the cytotoxicity of decitabine may also be attributed to the formation of covalent adducts between DNA methyltransferase and decitabine incorporated into DNA.
+Non-proliferating cells are relatively insensitive to decitabine.
+
+## 12.2 Pharmacodynamics
+
+Decitabine has been shown to induce hypomethylation both in vitro and in vivo.
+However, there have been no studies of decitabine-induced hypomethylation and pharmacokinetic parameters.
+
+## 12.3 Pharmacokinetics
+
+Pharmacokinetic parameters were evaluated in patients.
+Eleven patients received 20 mg/m2 infused over 1 hour intravenously (treatment Option 2), Fourteen patients received 15 mg/m2 infused over 3 hours (treatment Option 1).
+PK parameters are shown in Table 3.
+Plasma concentration-time profiles after discontinuation of infusion showed a biexponential decline.
+The CL of decitabine was higher following treatment Option 2.
+Upon repeat doses there was no systemic accumulation of decitabine or any changes in PK parameters.
+Population PK analysis (N=35) showed that the cumulative AUC per cycle for treatment Option 2 was 2.3-fold lower than the cumulative AUC per cycle following treatment Option 1.
+
+Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
+
+| Dose | Cmax (ng/mL) | AUC0-∞ (ng•h/mL) | T1/2(h) | CL (L/h/m2) | AUCCumulative*** (ng•h/mL) |
+| --- | --- | --- | --- | --- | --- |
+| 15 mg/m2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 (66) | 163 (62) | 0.62 (49) | 125 (53) | 1332 (1010-1730) |
+| 20 mg/m2 1-hr infusion daily for 5 days (Option 2)** | 147 (49) | 115 (43) | 0.54 (43) | 210 (47) | 570 (470-700) |
+| * N=14, **N=11, ***N=35 Cumulative AUC per cycle |  |  |  |  |  |
+
+The exact route of elimination and metabolic fate of decitabine is not known in humans.
+One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
