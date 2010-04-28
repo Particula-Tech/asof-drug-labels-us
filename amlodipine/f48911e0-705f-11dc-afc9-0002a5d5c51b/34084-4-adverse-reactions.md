@@ -27,7 +27,7 @@ Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
 |  |  | Olmesartan Medoxomil |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Placebo | 20 mg | 40 mg |  |
-| Amlodipine | Placebo | －%* | -2.4% | 6.2% |  |
+| Amlodipine | Placebo | –%* | -2.4% | 6.2% |  |
 | 5mg | 0.7% | 5.7% | 6.2% |  |  |
 | 10 mg | 24.5% | 13.3% | 11.2% |  |  |
 | *12.3%=actual placebo incidence |  |  |  |  |  |
