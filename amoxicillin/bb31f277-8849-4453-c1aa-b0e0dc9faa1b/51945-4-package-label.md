@@ -30,6 +30,8 @@ Research Triangle Park, NC 27709
 
 10000000028387
 
+Principal Display Panel
+
 NDC 0029-6009-23
 
 AMOXIL®
@@ -72,6 +74,8 @@ Rev.
 
 9420002-A
 
+Principal Display Panel
+
 NDC 0029-6038-39
 
 AMOXIL®
@@ -108,3 +112,9 @@ CALIBRATED DROPPER ENCLOSED.
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
+
+Principal Display Panel
+
+NDC 0029-6049-59
+
+Product Discontinued 3/26/2010
