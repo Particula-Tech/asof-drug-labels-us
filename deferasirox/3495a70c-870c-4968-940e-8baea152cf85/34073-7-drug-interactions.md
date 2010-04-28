@@ -23,25 +23,14 @@ Exercise caution when Exjade and other CYP2C8 substrates like paclitaxel are co-
 ## 7.4 Interaction with Agents Inducing UDP-glucuronosyltransferase (UGT) Metabolism
 
 In a healthy volunteer study, the concomitant administration of Exjade (single dose of 30 mg/kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44%.
-Therefore, the concomitant use of Exjade with potent UGT inducers (e.g. rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy.
-If Exjade and a potent UGT inducer are used concomitantly, increase the dose of Exjade and monitor serum ferritin levels and clinical responses for further dose modification.
-Doses above 40 mg/kg are not recommended [see Dosage and Administration (2.2)].
+Therefore, the concomitant use of Exjade with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy.
 
-## 7.5 Interaction with Digoxin
+Avoid the concomitant use of potent UGT inducers with Exjade.
+If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.2)].
 
-In healthy volunteers, Exjade had no effect on the pharmacokinetics of digoxin.
-The effect of digoxin on Exjade pharmacokinetics has not been studied.
+## 7.5 Interaction with Cholestyramine
 
-## 7.6 Interaction with Vitamin C
-
-The concomitant administration of Exjade and vitamin C has not been formally studied.
-Doses of vitamin C up to 200 mg were allowed in clinical studies without negative consequences.
-
-## 7.7 Interaction with Hydroxyurea
-
-The interaction of Exjade with hydroxyurea has not been formally studied.
-No inhibition of deferasirox metabolism by hydroxyurea is expected based on the results of an in-vitro study.
-
-## 7.8 Interaction with other Iron Chelator Therapies
-
-Do not administer Exjade with other iron chelator therapies, as safety of such combinations has not been established.
+The concomitant use of Exjade with cholestyramine may result in a decrease in Exjade efficacy.
+In healthy volunteers, the administration of cholesytramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
+Avoid the concomitant use of cholestyramine with Exjade.
+If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.2)].

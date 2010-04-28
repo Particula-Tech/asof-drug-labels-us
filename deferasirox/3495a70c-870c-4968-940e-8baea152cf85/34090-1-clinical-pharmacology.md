@@ -34,6 +34,7 @@ Glucuronidation is the main metabolic pathway for deferasirox, with subsequent b
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur.
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalyzed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
+Deconjugation of glucuronide metabolites in the intestine and subsequent reabsorption (enterohepatic recycling) was confirmed in a healthy volunteer study in which the administration of cholestyramine 12 g twice daily (strongly binds to deferasirox and its conjugates) 4 and 10 hours after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) by interfering with the enterohepatic recycling of deferasirox.
 
 Excretion
 
@@ -56,7 +57,7 @@ Hepatic Impairment: Deferasirox is principally excreted by glucuronidation and i
 Exjade treatment has been initiated in patients with baseline liver transaminase levels up to 5 times the upper limit of the normal range.
 The pharmacokinetics of deferasirox were not influenced by such transaminase levels.
 
-## 12.4 QT Prolongation
+## 12.6 QT Prolongation
 
 The effect of 20 and 40 mg/kg per day of deferasirox on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female volunteers age 18-65 years.
 No evidence of prolongation of the QTc interval was observed in this study.

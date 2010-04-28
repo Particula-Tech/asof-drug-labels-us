@@ -17,7 +17,7 @@ In patients who had an LIC at baseline and at end of study, the mean change in L
 
 Reduction of LIC and serum ferritin was observed with Exjade doses of 20 to 30 mg/kg per day.
 Exjade doses below 20 mg/kg per day failed to provide consistent lowering of LIC and serum ferritin levels (Figure 1).
-Therefore, a starting dose of 20 mg/kg per day is recommended [See Dosage and Administration (2.1)].
+Therefore, a starting dose of 20 mg/kg per day is recommended [see Dosage and Administration (2.1)].
 
 Study 2 was an open-label, noncomparative trial of efficacy and safety of Exjade given for 1 year to patients with chronic anemias and transfusional hemosiderosis.
 Similar to Study 1, patients received 5, 10, 20, or 30 mg/kg per day of Exjade based on baseline LIC.

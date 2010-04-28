@@ -2,6 +2,9 @@
 
 ## 2.1 Dosing Information
 
+Prior to starting therapy, obtain baseline serum ferritin and iron levels.
+The risk for toxicity may be increased when Exjade is given to patients with low iron burden or with serum ferritin levels that are only slightly elevated [see Dose Modifications (2.2)].
+
 The recommended initial daily dose of Exjade is 20 mg/kg body weight.
 
 Take Exjade once daily on an empty stomach at least 30 minutes before food, preferably at the same time each day.
@@ -17,15 +20,24 @@ In patients who are in need of iron chelation therapy, it is recommended that th
 
 ## 2.2 Dose Modifications
 
+Exjade may require dose adjustment, interruption or cessation of the therapy due to toxicity or any of the following [see Warnings and Precautions (5.1-5.6), Geriatric Use (8.5)]:
+
+Based on Serum Ferritin
+
 After commencing initial therapy, monitor serum ferritin every month and adjust the dose of Exjade if necessary every 3-6 months based on serum ferritin trends.
 Make dose adjustments in steps of 5 or 10 mg/kg and tailor adjustments to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
-In patients not adequately controlled with doses of 30 mg/kg (e.g. serum ferritin levels persistently above 2500 mcg/L and not showing a decreasing trend over time), doses of up to 40 mg/kg may be considered.
+In patients not adequately controlled with doses of 30 mg/kg (e.g., serum ferritin levels persistently above 2500 mcg/L and not showing a decreasing trend over time), doses of up to 40 mg/kg may be considered.
 Doses above 40 mg/kg are not recommended.
 
 If the serum ferritin falls consistently below 500 mcg/L, consider temporarily interrupting therapy with Exjade.
 
-The risk of toxicity of Exjade may be increased when inappropriately high doses are given in patients with low iron burden or with serum ferritin levels that are only slightly elevated.
-The safety and efficacy of Exjade when administered with other iron chelation therapy have not been established.
+Based on Serum Creatinine
 
-Increase the dose of Exjade and monitor serum ferritin levels and clinical response for further dose modification when it is used concomitantly with potent UGT inducers (e.g. rifampicin, phenytoin, phenobarbital, ritonavir).
-Doses above 40 mg/kg are not recommended.
+For adults, reduce the daily dose of Exjade by 10 mg/kg if a rise in serum creatinine to >33% above the average of the pretreatment measurements is seen at 2 consecutive visits, and cannot be attributed to other causes.
+For pediatric patients, reduce the dose by 10 mg/kg if serum creatinine levels rise above the age-appropriate upper limit of normal at 2 consecutive visits.
+
+Concomitant UGT inducers or Cholestyramine
+
+Concomitant use of UGT inducers or cholestyramine decreases deferasirox systemic exposure (AUC).
+Avoid the concomitant use of cholestyramine or potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) with Exjade.
+If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg, and monitor serum ferritin levels and clinical responses for further dose modification [see Drug Interactions (7.4, 7.5)].
