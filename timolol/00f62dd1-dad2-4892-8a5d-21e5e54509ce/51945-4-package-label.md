@@ -1,0 +1,23 @@
+# PRINCIPAL DISPLAY PANEL - 0.25% Carton
+
+NDC 68669-522-05
+
+BETIMOL® (TIMOLOL OPHTHALMIC SOLUTION) 0.25%
+
+Timolol equivalent (timolol hemihydrate 2.56 mg/mL)
+
+Rx Only
+
+5 mL
+
+VISTAKON® PHARMACEUTICALS, LLC
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
+
+NDC 68669-525-05
+
+BETIMOL® (TIMOLOL OPHTHALMIC SOLUTION) 0.5%
+
+Timolol equivalent (timolol hemihydrate 5.12 mg/mL) 5 mL
+
+VISTAKON® PHARMACEUTICALS, LLC

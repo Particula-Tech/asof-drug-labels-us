@@ -1,6 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Timolol is a non-selective beta-adrenergic antagonist.
+
 It blocks both beta1-and beta2-adrenergic receptors.
 Timolol does not have significant intrinsic sympathomimetic activity, local anesthetic (membrane-stabilizing) or direct myocardial depressant activity.
 

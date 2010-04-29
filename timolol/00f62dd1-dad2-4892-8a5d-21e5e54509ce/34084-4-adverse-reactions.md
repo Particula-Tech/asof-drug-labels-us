@@ -4,74 +4,74 @@ The most frequently reported ocular event in clinical trials was burning/stingin
 
 The following adverse events were associated with use of Betimol® in frequencies of more than 5% in two controlled, double-masked clinical studies in which 184 patients received 0.25% or 0.5% Betimol®:
 
-### Ocular:
+OCULAR:
 
 Dry eyes, itching, foreign body sensation, discomfort in the eye, eyelid erythema, conjunctival injection, and headache.
 
-### Body As A Whole:
+BODY AS A WHOLE:
 
 Headache.
 
 The following side effects were reported in frequencies of 1 to 5%:
 
-### Ocular:
+OCULAR:
 
 Eye pain, epiphora, photophobia, blurred or abnormal vision, corneal fluorescein staining, keratitis, blepharitis and cataract.
 
-### Body As A Whole:
+BODY AS A WHOLE:
 
 Allergic reaction, asthenia, common cold and pain in extremities.
 
-### Cardiovascular:
+CARDIOVASCULAR:
 
 Hypertension.
 
-### Digestive:
+DIGESTIVE:
 
 Nausea.
 
-### Metabolic/Nutritional:
+METABOLlC/NUTRITIONAL:
 
 Peripheral edema.
 
-### Nervous System/Psychiatry:
+NERVOUS SYSTEM/PSYCHIATRY:
 
 Dizziness and dry mouth.
 
-### Respiratory:
+RESPIRATORY:
 
 Respiratory infection and sinusitis.
 
 In addition, the following adverse reactions have been reported with ophthalmic use of beta blockers:
 
-### Ocular:
+OCULAR:
 
 Conjunctivitis, blepharoptosis, decreased corneal sensitivity, visual disturbances including refractive changes, diplopia and retinal vascular disorder.
 
-### Body As A Whole:
+BODY AS A WHOLE:
 
 Chest pain.
 
-### Cardiovascular:
+CARDIOVASCULAR:
 
 Arrhythmia, palpitation, bradycardia, hypotension, syncope, heart block, cerebral vascular accident, cerebral ischemia, cardiac failure and cardiac arrest.
 
-### Digestive:
+DIGESTIVE:
 
 Diarrhea.
 
-### Endocrine:
+ENDOCRINE:
 
 Masked symptoms of hypoglycemia in insulin dependent diabetics (See WARNINGS).
 
-### Nervous System/Psychiatry:
+NERVOUS SYSTEM/PSYCHIATRY:
 
 Depression, impotence, increase in signs and symptoms of myasthenia gravis and paresthesia.
 
-### Respiratory:
+RESPIRATORY:
 
 Dyspnea, bronchospasm, respiratory failure and nasal congestion.
 
-### Skin:
+SKIN:
 
-Alopecia, hypersensitivity including localized and generalized rash, urticaria.
+AIOPecia, hypersensitivity including localized and generalized rash, urticaria.
