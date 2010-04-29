@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078015"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-2076-01",
+    "0781-2076-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "tamsulosin hydrochloride"
+    }
+  ],
+  "setid": "fb120098-b007-4a33-80b8-b7279c7668ee",
+  "source": "dailymed"
+}
