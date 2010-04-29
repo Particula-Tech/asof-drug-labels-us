@@ -1,10 +1,11 @@
 # WARNINGS
 
 NOT FOR INJECTION.
+
 QUIXIN® solution should not be injected subconjunctivally, nor should it be introduced directly into the anterior chamber of the eye.
 
 In patients receiving systemic quinolones, serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported, some following the first dose.
-Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria, and itching.
+Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria and itching.
 If an allergic reaction to levofloxacin occurs, discontinue the drug.
 Serious acute hypersensitivity reactions may require immediate emergency treatment.
 Oxygen and airway management should be administered as clinically indicated.
@@ -44,9 +45,11 @@ Levofloxacin caused no impairment of fertility or reproduction in rats at oral d
 
 ### Teratogenic Effects
 
-Pregnancy Category C: Levofloxacin at oral doses of 810 mg/kg/day in rats, which corresponds to approximately 7,000 times the highest recommended human ophthalmic dose, caused decreased fetal body weight and increased fetal mortality.
+#### Pregnancy Category C
 
-No teratogenic effect was observed when rabbits were dosed orally as high as 50 mg/kg/day, which corresponds to approximately 400 times the highest recommended maximum human ophthalmic dose, or when dosed intravenously as high as 25 mg/kg/day, corresponding to approximately 200 times the highest recommended human ophthalmic dose.
+Levofloxacin at oral doses of 810 mg/kg/day in rats, which corresponds to approximately 7,000 times the highest recommended human ophthalmic dose, caused decreased fetal body weight and increased fetal mortality.
+
+No teratogenic effect was observed when rabbits were dosed orally as high as 50 mg/kg/day, which correponds to approximately 400 times the highest recommended maximum human ophthalmic dose, or when dosed intravenously as high as 25 mg/kg/day, corresponding to approximately 200 times the highest recommended human ophthalmic dose.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Levofloxacin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -65,4 +68,4 @@ There is no evidence that the ophthalmic administration of levofloxacin has any 
 
 ## Geriatric Use
 
-No overall differences in safety or effectiveness have been observed between elderly and other adult patients.
+No overall differences in safety or effectiveness have been observed between elderly and other adult patients

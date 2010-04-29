@@ -8,8 +8,8 @@ The highest maximum mean levofloxacin concentration of 2.25 ng/mL was measured o
 Maximum mean levofloxacin concentrations increased from 0.94 ng/mL on Day 1 to 2.15 ng/mL on Day 15, which is more than 1,000 times lower than those reported after standard oral doses of levofloxacin.
 
 Levofloxacin concentration in tears was measured in 30 healthy adult volunteers at various time points following instillation of a single drop of QUIXIN® solution.
-Mean levofloxacin concentrations in tears ranged from 34.9 to 221.1 μg/mL during the 60-minute period following the single dose.
-The mean tear concentrations measured 4 and 6 hours postdose were 17.0 and 6.6 μg/mL.
+Mean levofloxacin concentrations in tears ranged from 34.9 to 221.1 µg/mL during the 60-minute period following the single dose.
+The mean tear concentrations measured 4 and 6 hours postdose were 17.0 and 6.6 µg/mL.
 The clinical significance of these concentrations is unknown.
 
 ## Microbiology
@@ -23,19 +23,19 @@ Levofloxacin has in vitro activity against a wide range of Gram-negative and Gra
 Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from β-lactam antibiotics and aminoglycosides, and therefore may be active against bacteria resistant to β-lactam antibiotics and aminoglycosides.
 Additionally, β-lactam antibiotics and aminoglycosides may be active against bacteria resistant to levofloxacin.
 
-Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
+Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10)
 
 Levofloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
-### AEROBIC GRAM-POSITIVE MICROORGANISMS
-
-Corynebacterium species* Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus (Groups C/F) Streptococcus (Group G) Viridans group streptococci
-
-### AEROBIC GRAM-NEGATIVE MICROORGANISMS
-
-Acinetobacter lwoffii* Haemophilus influenzae Serratia marcescens*
-
-*Efficacy for this organism was studied in fewer than 10 infections.
+| AEROBIC GRAM-POSITIVE MICROORGANISMS | AEROBIC GRAM-NEGATIVE MICROORGANISMS |
+| --- | --- |
+| Corynebacterium speciesEfficacy for this organism was studied in fewer than 10 infections. | Acinetobacter lwoffii |
+| Staphylococcus aureus | Haemophilus influenzae |
+| Staphylococcus epidermidis | Serratia marcescens |
+| Streptococcus pneumoniae |  |
+| Streptococcus (Groups C/F) |  |
+| Streptococcus (Group G) |  |
+| Viridans group streptococci |  |
 
 The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown.
 The safety and effectiveness of levofloxacin in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
@@ -43,40 +43,24 @@ The safety and effectiveness of levofloxacin in treating ophthalmological infect
 These organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
-Levofloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens.
+Levofloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 µg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens.
 
-### AEROBIC GRAM-POSITIVE MICROORGANISMS
-
-| Enterococcus faecalis |
-| --- |
-| Staphylococcus saprophyticus |
-| Streptococcus agalactiae |
-| Streptococcus pyogenes |
-
-### AEROBIC GRAM-NEGATIVE MICROORGANISMS
-
-| Acinetobacter anitratus |
-| --- |
-| Acinetobacter baumannii |
-| Citrobacter diversus |
-| Citrobacter freundii |
-| Enterobacter aerogenes |
-| Enterobacter agglomerans |
-| Enterobacter cloacae |
-| Escherichia coli |
-| Haemophilus parainfluenzae |
-| Klebsiella oxytoca |
-| Klebsiella pneumoniae |
-| Legionella pneumophila |
-| Moraxella catarrhalis |
-| Morganella morganii |
-| Neisseria gonorrhoeae |
-| Proteus mirabilis |
-| Proteus vulgaris |
-| Providencia rettgeri |
-| Providencia stuartii |
-| Pseudomonas aeruginosa |
-| Pseudomonas fluorescens |
+| AEROBIC GRAM-POSITIVE MICROORGANISMS |  |
+| --- | --- |
+| Enterococcus faecalis | Streptococcus agalactiae |
+| Staphylococcus saprophyticus | Streptococcus pyogenes |
+| AEROBIC GRAM-NEGATIVE MICROORGANISMS |  |
+| Acinetobacter anitratus | Legionella pneumophila |
+| Acinetobacter baumannii | Moraxella catarrhalis |
+| Citrobacter diversus | Morganella morganii |
+| Citrobacter freundii | Neisseria gonorrhoeae |
+| Enterobacter aerogenes | Proteus mirabilis |
+| Enterobacter agglomerans | Proteus vulgaris |
+| Enterobacter cloacae | Providencia rettgeri |
+| Escherichia coli | Providencia stuartii |
+| Haemophilus parainfluenzae | Pseudomonas aeruginosa |
+| Klebsiella oxytoca | Pseudomonas fluorescens |
+| Klebsiella pneumoniae |  |
 
 ## Clinical Studies
 

@@ -5,13 +5,22 @@ Levofloxacin is a fluoroquinolone antibacterial active against a broad spectrum 
 Levofloxacin is the pure (-)-(S)-enantiomer of the racemic drug substance, ofloxacin.
 It is more soluble in water at neutral pH than ofloxacin.
 
-Chemical Name: (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4 benzoxazine-6-carboxylic acid hemihydrate.
+| Structural formula |
+| --- |
+| levofloxacin hemihydrate |
+| C18H20FN3 • 1/2 H2O Mol Wt 370.38 |
+
+## Chemical Name
+
+(-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4 benzoxazine-6-carboxylic acid hemihydrate.
 
 Levofloxacin (hemihydrate) is a yellowish-white crystalline powder.
 
 Each mL of QUIXIN® contains 5.12 mg of levofloxacin hemihydrate equivalent to 5 mg levofloxacin.
 
-Contains: Active: Levofloxacin 0.5% (5 mg/mL); Preservative: benzalkonium chloride 0.005%; Inactives: sodium chloride and water.
+## Contains
+
+Active: Levofloxacin 0.5% (5 mg/mL); Preservative: benzalkonium chloride 0.005%; Inactives: sodium chloride and water.
 May also contain hydrochloric acid and/or sodium hydroxide to adjust pH.
 
 QUIXIN® solution is isotonic and formulated at pH 6.5 with an osmolality of approximately 300 mOsm/kg.

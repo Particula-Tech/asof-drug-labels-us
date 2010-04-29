@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "levofloxacin",
-  "labeler": "VISTAKON Pharmaceuticals, LLC",
-  "package_ndcs": [
-    "68669-135-05"
+  "application_numbers": [
+    "NDA021199"
   ],
-  "products": [],
+  "inn": "levofloxacin",
+  "labeler": "Vistakon Pharmaceuticals LLC",
+  "package_ndcs": [
+    "68669-135-05",
+    "68669-135-98"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levofloxacin",
+      "name": "QUIXIN"
+    }
+  ],
   "setid": "09b3a912-97f9-45ae-a162-9f45c860dc22",
   "source": "dailymed"
 }
