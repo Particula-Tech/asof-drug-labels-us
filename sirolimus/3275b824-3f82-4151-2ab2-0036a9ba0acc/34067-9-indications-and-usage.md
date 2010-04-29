@@ -7,7 +7,7 @@ Therapeutic drug monitoring is recommended for all patients receiving Rapamune [
 
 In patients at low- to moderate-immunologic risk, it is recommended that Rapamune be used initially in a regimen with cyclosporine and corticosteroids; cyclosporine should be withdrawn 2 to 4 months after transplantation [see Dosage and Administration (2.1)].
 
-In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first year following transplantation [see Dosage and Administration (2.2), Clinical Studies (14.2)].
+In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first year following transplantation [see Dosage and Administration (2.2), Clinical Studies (14.3)].
 
 ## 1.2 Limitations of Use
 
@@ -18,4 +18,4 @@ In patients at high-immunologic risk, the safety and efficacy of Rapamune used i
 In pediatric patients, the safety and efficacy of Rapamune have not been established in patients < 13 years old, or in pediatric (< 18 years) renal transplant patients considered at high-immunologic risk [see Adverse Reactions (6.5), Clinical Studies (14.6)].
 The safety and efficacy of de novo use of Rapamune without cyclosporine have not been established in renal transplant patients [see Warnings and Precautions (5.12)].
 
-The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established [see Clinical Studies (14.2)].
+The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established [see Clinical Studies (14.4)].

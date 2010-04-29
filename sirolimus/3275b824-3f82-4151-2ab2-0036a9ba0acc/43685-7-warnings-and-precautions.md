@@ -43,7 +43,7 @@ Lymphocele, a known surgical complication of renal transplantation, occurred sig
 Appropriate measures should be considered to minimize such complications.
 Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
 
-There have also been reports of fluid accumulation, including peripheral edema, lymphedema, pleural effusion and pericardial effusions (including hemodynamically significant effusions and tamponade requiring intervention in children and adults), in patients receiving Rapamune.
+There have also been reports of fluid accumulation, including peripheral edema, lymphedema, pleural effusion, ascites, and pericardial effusions (including hemodynamically significant effusions and tamponade requiring intervention in children and adults), in patients receiving Rapamune.
 
 ## 5.7 Hyperlipidemia
 
@@ -114,9 +114,8 @@ Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantat
 
 ## 5.15 Assay for Sirolimus Therapeutic Drug Monitoring
 
-The label-recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
-Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
-These concentration values are not interchangeable [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
+Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.3)].
 
 ## 5.16 Skin Cancer Events
 

@@ -174,7 +174,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Body as a Whole – Lymphedema.
-- Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults).
+- Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and fluid accumulation.
+- Digestive System – Ascites.
 - Hematological/Lymphatic – The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]; pancytopenia, neutropenia.
 - Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
 - Immune System – Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].

@@ -34,7 +34,7 @@ Because cyclosporine inhibits the metabolism and transport of sirolimus, sirolim
 
 ## 2.2 Patients at High-Immunologic Risk
 
-In patients with high-immunologic risk, it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first 12 months following transplantation [see Clinical Studies (14.2)].
+In patients with high-immunologic risk, it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first 12 months following transplantation [see Clinical Studies (14.3)].
 The safety and efficacy of this combination in high-immunologic risk patients has not been studied beyond the first 12 months.
 Therefore, after the first 12 months following transplantation, any adjustments to the immunosuppressive regimen should be considered on the basis of the clinical status of the patient.
 
@@ -63,6 +63,7 @@ Currently in clinical practice, sirolimus whole blood concentrations are being m
 Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.15), Clinical Pharmacology (12.3)].
 Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.
 Since results are assay and laboratory dependent, and the results may change over time, adjustments to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used.
+Therefore, communication should be maintained with the laboratory performing the assay.
 A discussion of different assay methods is contained in Clinical Therapeutics, Volume 22, Supplement B, April 2000 [see References (15)].
 
 ## 2.4 Patients with Low Body Weight

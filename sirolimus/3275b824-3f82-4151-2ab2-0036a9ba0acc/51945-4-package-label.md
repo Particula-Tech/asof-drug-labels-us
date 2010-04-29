@@ -64,7 +64,7 @@ Each mL of RAPAMUNE contains 1 mg sirolimus.
 
 1.5%-2.5% ethanol
 
-Also contains a mixture of propylene glycol and phosphatidyl-choline derived from soy lecithin (and other components) and polysorbate 80.
+Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
 
 Rx only
 
