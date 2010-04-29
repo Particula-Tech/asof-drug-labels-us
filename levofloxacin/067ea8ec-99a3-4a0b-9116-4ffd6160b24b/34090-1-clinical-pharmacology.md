@@ -2,41 +2,43 @@
 
 ## Pharmacokinetics
 
-Levofloxacin concentration in plasma was measured in 14 healthy adult volunteers during a 16-day course of treatment with IQUIX®solution.
+Levofloxacin concentration in plasma was measured in 14 healthy adult volunteers during a 16-day course of treatment with IQUIX® solution.
 The dosing schedule was 1-2 drops per eye once in the morning on Days 1 and 16; 1-2 drops per eye every two hours Days 2 through 8; and 1-2 drops per eye every four hours Days 9 through 15.
 The mean levofloxacin concentration in plasma 1 hour postdose ranged from 3.13 ng/mL on Day 1 to 10.4 ng/mL on Day 16.
-Maximum mean levofloxacin concentrations increased from 3.22 ng/mL on Day 1 to 10.9 ng/mL on Day 16, which is more than 400 times lower than those reported after standard oral doses of levofloxacin.Levofloxacin concentration in tears was measured in 100 healthy adult volunteers at various time points following instillation of 2 drops of IQUIX®solution.
-Mean tear concentration measured 15 minutes after instillation was 757 μg/mL.
+Maximum mean levofloxacin concentrations increased from 3.22 ng/mL on Day 1 to 10.9 ng/mL on Day 16, which is more than 400 times lower than those reported after standard oral doses of levofloxacin.
+
+Levofloxacin concentration in tears was measured in 100 healthy adult volunteers at various time points following instillation of 2 drops of IQUIX® solution.
+Mean tear concentration measured 15 minutes after instillation was 757 µg/mL.
 
 ## Microbiology
 
 Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent.
 The antibacterial activity of ofloxacin resides primarily in the L-isomer.
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves the inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair, and recombination.
+
 Levofloxacin has in vitro activity against a wide range of Gram-negative and Gram-positive microorganisms and is often bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
-Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from β-lactam antibiotics and aminoglycosides, and therefore may be active against bacteria resistant to β-lactam antibiotics and aminoglycosides.
-Additionally, β-lactam antibiotics and aminoglycosides may be active against bacteria resistant to levofloxacin.
+
+Fluoroquinolones, including levofloxacin, differ in chemical structure and mode of action from β-Iactam antibiotics and aminoglycosides, and therefore may be active against bacteria resistant to β-Iactarn antibiotics and aminoglycosides.
+Additionally, β-Iactam antibiotics and aminoglycosides may be active against bacteria resistant to levofloxacin.
 Resistance to levofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-10).
+
 Levofloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
-| AEROBIC GRAM-POSITIVE MICROORGANISMS: |
-| --- |
-| Corynebacterium species* |
-| Staphylococcus aureus |
-| Staphylococcus epidermidis |
-| Streptococcus pneumoniae |
-| Viridans group streptococci* |
-| AEROBIC GRAM-NEGATIVE MICROORGANISMS: |
-| Pseudomonas aeruginosa |
-| Serratia marcescens* |
-| *Efficacy for this organism was studied in fewer than 10 infections. |
+| AEROBIC GRAM-POSITIVE MICROORGANISMS: | AEROBIC GRAM-NEGATIVE MICROORGANISMS: |
+| --- | --- |
+| Corynebacterium species Efficacy for this organism was studied in fewer than 10 infections. | Pseudomonas aeruginosa |
+| Staphylococcus aureus | Serratia marcescens |
+| Staphylococcus epidermidis |  |
+| Streptococcus pneumoniae |  |
+| Viridans group streptococci |  |
 
 The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown.
 The safety and effectiveness of levofloxacin in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
+
 These organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of corneal ulcer.
-Levofloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens:
+Levofloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 µg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens:
 
 | AEROBIC GRAM-POSITIVE MICROORGANISMS: |
 | --- |
@@ -47,29 +49,19 @@ Levofloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg
 | Streptococcus (Group C/F) |
 | Streptococcus (Group G) |
 
-| AEROBIC GRAM-NEGATIVE MICROORGANISMS: |
-| --- |
-| Acinetobacter baumannii |
-| Acinetobacter lwoffii |
-| Citrobacter koseri |
-| Citrobacter freundii |
-| Enterobacter aerogenes |
-| Enterobacter cloacae |
-| Escherichia coli |
-| Haemophilus influenzae |
-| Haemophilus parainfluenzae |
-| Klebsiella oxytoca |
-| Klebsiella pneumoniae |
-| Legionella pneumophila |
-| Moraxella catarrhalis |
-| Morganella morganii |
-| Neisseria gonorrhoeae |
-| Pantoea agglomerans |
-| Proteus mirabilis |
-| Proteus vulgaris |
-| Providencia rettgeri |
-| Providencia stuartii |
-| Pseudomonas fluorescens |
+| AEROBIC GRAM-NEGATIVE MICROORGANISMS: |  |
+| --- | --- |
+| Acinetobacter baumannii | Legionella pneumophila |
+| Acinetobacter Iwoffii | Moraxella catarrhalis |
+| Citrobacter koseri | Morganella morganii |
+| Citrobacter freundii | Neisseria gonorrhoeae |
+| Enterobacter aerogenes | Pantoea agglomerans |
+| Enterobacter cloacae | Proteus mirabilis |
+| Escherichia coli | Proteus vulgaris |
+| Haemophilus influenzae | Providencia rettgeri |
+| Haemophilus parainfluenzae | Providencia stuartii |
+| Klebsiella oxytoca | Pseudomonas fluorescens |
+| Klebsiella pneumoniae |  |
 
 ## Clinical Studies
 

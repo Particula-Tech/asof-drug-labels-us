@@ -14,7 +14,7 @@ Oxygen and airway management should be administered as clinically indicated.
 
 ## General
 
-As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, including fungi.
+As with other anti-infectives, prolonged use may result in overgrowth of non-susceptible organisms, induding fungi.
 If superinfection occurs, discontinue use and institute alternative therapy.
 Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining.
 
@@ -41,11 +41,13 @@ It was positive in the in vitro chromosomal aberration (CHL cell line) and in vi
 
 Levofloxacin caused no impairment of fertility or reproduction in rats at oral doses as high as 360 mg/kg/day, corresponding to 400 times the highest recommended human ophthalmic dose.
 
-## Pregnancy:
+## Pregnancy
 
 ### Teratogenic Effects
 
-Pregnancy Category C: Levofloxacin at oral doses of 810 mg/kg/day in rats, which corresponds to approximately 1000 times the highest recommended human ophthalmic dose, caused decreased fetal body weight and increased fetal mortality.
+#### Pregnancy Category C
+
+Levofloxacin at oral doses of 810 mg/kg/day in rats, which corresponds to approximately 1000 times the highest recommended human ophthalmic dose, caused decreased fetal body weight and increased fetal mortality.
 
 No teratogenic effect was observed when rabbits were dosed orally as high as 50 mg/kg/day, which corresponds to approximately 60 times the highest recommended maximum human ophthalmic dose, or when dosed intravenously as high as 25 mg/kg/day, corresponding to approximately 30 times the highest recommended human ophthalmic dose.
 
