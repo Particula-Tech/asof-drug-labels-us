@@ -39,7 +39,7 @@ It may also contain a solution of sodium hydroxide for pH adjustment.
 
 LEVAQUIN® Injection
 
-The appearance of LEVAQUIN® Injection may range from a clear yellow to a greenish-yellow solution.
+The appearance of LEVAQUIN® Injection may range from a clear yellow to a clear greenish-yellow solution.
 This does not adversely affect product potency.
 
 LEVAQUIN® Injection in Single-Use Vials is a sterile, preservative-free aqueous solution of levofloxacin in Water for Injection, with pH ranging from 3.8 to 5.8.

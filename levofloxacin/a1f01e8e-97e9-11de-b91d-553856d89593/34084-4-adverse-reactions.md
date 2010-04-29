@@ -101,7 +101,7 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.8)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.3)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.3), (5.4)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.3),(5.4)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.3)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.3)]. |

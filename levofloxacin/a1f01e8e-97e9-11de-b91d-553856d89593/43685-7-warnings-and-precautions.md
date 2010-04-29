@@ -86,7 +86,7 @@ An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tend
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
-Other quinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
+Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 5.10 Blood Glucose Disturbances
 
@@ -96,7 +96,7 @@ If a hypoglycemic reaction occurs in a patient being treated with LEVAQUIN®, LE
 
 ## 5.11 Photosensitivity/Phototoxicity
 
-Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
+Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 

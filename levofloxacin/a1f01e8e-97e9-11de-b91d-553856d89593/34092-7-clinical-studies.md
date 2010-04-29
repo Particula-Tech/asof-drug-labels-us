@@ -45,12 +45,12 @@ Table 14: Microbiologic Eradication Rates Across 2 Community Acquired Pneumonia 
 
 | Pathogen | No. Pathogens | Microbiologic Eradication Rate (%) |
 | --- | --- | --- |
-| H. influenzae | 55 | 98 |
-| S. pneumoniae | 83 | 95 |
+| H. influenza | 55 | 98 |
+| S. pneumonia | 83 | 95 |
 | S. aureus | 17 | 88 |
 | M. catarrhalis | 18 | 94 |
 | H. parainfluenzae | 19 | 95 |
-| K. pneumoniae | 10 | 100.0 |
+| K. pneumonia | 10 | 100.0 |
 
 Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
 
@@ -95,12 +95,12 @@ The microbiological efficacy of the 5-day regimen was documented for infections 
 
 Table 17: Microbiological Eradication Rates (Community-Acquired Pneumonia)
 
-| Penicillin susceptible S. pneumoniae | 19/20 |
+| Penicillin susceptible S. pneumonia | 19/20 |
 | --- | --- |
-| Haemophilus influenzae | 12/12 |
+| Haemophilus influenza | 12/12 |
 | Haemophilus parainfluenzae | 10/10 |
-| Mycoplasma pneumoniae | 26/27 |
-| Chlamydophila pneumoniae | 13/15 |
+| Mycoplasma pneumonia | 26/27 |
+| Chlamydophila pneumonia | 13/15 |
 
 ## 14.4 Acute Bacterial Sinusitis: 5-day and 10–14 day Treatment Regimens
 
@@ -183,7 +183,7 @@ Table 21: Microbiological Eradication Rates for Individual Pathogens Recovered F
 | Pathogen | Microbiologic Eradication Rate (n/N) | % |
 | --- | --- | --- |
 | Escherichia coliThe predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI. | 155/172 | 90 |
-| Klebsiella pneumoniae | 20/23 | 87 |
+| Klebsiella pneumonia | 20/23 | 87 |
 | Proteus mirabilis | 12/12 | 100 |
 
 ## 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day Treatment Regimen
@@ -226,5 +226,5 @@ The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strai
 In the animals studied, mean plasma concentrations of levofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL.
 Steady state trough concentrations at 24 hours post-dose ranged from 0.107 to 0.164 mcg/mL.
 Mean (SD) steady state AUC0–24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
-Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher’s Exact Test].
+Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher's Exact Test].
 The one levofloxacin treated animal that died of anthrax did so following the 30-day drug administration period.

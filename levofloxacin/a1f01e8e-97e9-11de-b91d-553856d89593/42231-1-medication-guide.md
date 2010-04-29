@@ -11,7 +11,7 @@ LEVAQUIN® can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take LEVAQUIN®.
 
-- Tendon rupture or swelling of the tendon (tendinitis).
+- Tendon rupture or swelling of the tendon (tendinitis)..
   - Tendons are tough cords of tissue that connect muscles to bones.
   - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including LEVAQUIN®.
     The risk of getting tendon problems is higher if you:
@@ -37,7 +37,7 @@ Talk with your healthcare provider about whether you should continue to take LEV
     - bruising right after an injury in a tendon area
     - unable to move the affected area or bear weight
 
-See the section “What are the possible side effects of LEVAQUIN®?” for more information about side effects
+See the section "What are the possible side effects of LEVAQUIN®?" for more information about side effects
 
 What is LEVAQUIN®?
 
@@ -66,14 +66,14 @@ See the list of the ingredients in LEVAQUIN® at end of this Medication Guide.
 
 What should I tell my healthcare provider before taking LEVAQUIN®?
 
-See “What is the most important information I should know about LEVAQUIN®?”
+See "What is the most important information I should know about LEVAQUIN®?"
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
-- have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation.”
+- have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation."
 - have low blood potassium (hypokalemia)
 - have a history of seizures
 - have bone and joint problems
@@ -94,17 +94,17 @@ Especially tell your healthcare provider if you take:
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take LEVAQUIN® or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of LEVAQUIN®?”
+  See "What are the possible side effects of LEVAQUIN®?"
 - an oral anti-diabetes medicine or insulin
 - a blood thinner (warfarin, Coumadin, Jantoven)
 - a medicine to control your heart rate or rhythm (antiarrhythmics).
-  See “What are the possible side effects of LEVAQUIN®?”.
+  See "What are the possible side effects of LEVAQUIN®".
 - an anti-psychotic medicine
 - a tricyclic antidepressant
 - a water pill (diuretic)
 - a steroid medicine.
   Corticosteroids taken by mouth or by injection may increase the chance of tendon injury.
-  See “What is the most important information I should know about LEVAQUIN®?”.
+  See "What is the most important information I should know about LEVAQUIN®?".
 - theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
 - Certain medicines may keep LEVAQUIN® from working correctly.
   Take LEVAQUIN® Tablets or Oral Solution either 2 hours before or 2 hours after taking these products:
@@ -127,10 +127,10 @@ How should I take LEVAQUIN®?
 - If you miss a dose of LEVAQUIN®, take it as soon as you remember.
   Do not take more than one dose in one day.
 - LEVAQUIN® for Injection is given to you by intravenous (I.V.) infusion into your vein, slowly, over 60 or 90 minutes, as prescribed by your healthcare provider.
-  See “What are the possible side effects of LEVAQUIN®?”
+  See "What are the possible side effects of LEVAQUIN®?"
 - Do not skip any doses, or stop taking LEVAQUIN® even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - you have tendon effects (see “What is the most important information I should know about LEVAQUIN®?”),
-  - you have a serious allergic reaction (see “What are the possible side effects of LEVAQUIN®?”), or
+  - you have tendon effects (see "What is the most important information I should know about LEVAQUIN®?"),
+  - you have a serious allergic reaction (see "What are the possible side effects of LEVAQUIN®?"), or
   - your healthcare provider tells you to stop.
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to LEVAQUIN®.
   If this happens, LEVAQUIN® and other antibiotic medicines may not work in the future.
@@ -156,13 +156,13 @@ What should I avoid while taking LEVAQUIN®?
 - Avoid sunlamps, tanning beds, and try to limit your time in the sun.
   LEVAQUIN® can make your skin sensitive to the sun (photosensitivity) and the light from sunlamps and tanning beds.
   You could get severe sunburn, blisters or swelling of your skin.
-  If you get any of these symptoms while taking LEVAQUIN® call your healthcare provider right away.
+  If you get any of these symptoms while taking LEVAQUIN®, call your healthcare provider right away.
   You should use a sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
 
 What are the possible side effects of LEVAQUIN®?
 
 LEVAQUIN®can cause side effects that may be serious or even cause death.
-See “What is the most important information I should know about LEVAQUIN®?”
+See "What is the most important information I should know about LEVAQUIN®?"
 
 Other serious side effects of LEVAQUIN® include:
 
@@ -220,7 +220,7 @@ Other serious side effects of LEVAQUIN® include:
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
 - Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVAQUIN®.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
+  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:.
   - pain
   - burning
   - tingling
@@ -239,15 +239,14 @@ LEVAQUIN® may need to be stopped to prevent permanent nerve damage
   - who take certain medicines to control heart rhythm (antiarrhythmics)
 
 - Changes in blood sugar [low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia)] People who take LEVAQUIN® and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
-  Follow your healthcare provider’s instructions for how often to check your blood sugar.
+  Follow your healthcare provider's instructions for how often to check your blood sugar.
   If you have diabetes and you get low blood sugar while taking LEVAQUIN®, stop taking LEVAQUIN® and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
 
-- Sensitivity to sunlight (photosensitivity) See “What should I avoid while taking LEVAQUIN®?”
+- Sensitivity to sunlight (photosensitivity) See "What should I avoid while taking LEVAQUIN®?"
 
-- Joint Problems.
-  Increased chance of problems with joints and tissues around joints in children.
-  Tell your child’s healthcare provider if your child has any joint problems during or after treatment with LEVAQUIN®.
+- Joint Problems Increased chance of problems with joints and tissues around joints in children.
+  Tell your child's healthcare provider if your child has any joint problems during or after treatment with LEVAQUIN®.
 
 The most common side effects of LEVAQUIN® include:
 
