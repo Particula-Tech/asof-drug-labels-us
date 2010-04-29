@@ -2,7 +2,7 @@
 
 ## Fluconazole Tablets
 
-Pink trapezoidal tablets containing 50, 100 or 200 mg of fluconazole are packaged in bottles or unit dose blisters.
+Pink trapezoidal tablets containing 50, 100, or 200 mg of fluconazole are packaged in bottles or unit dose blisters.
 The 150 mg fluconazole tablets are pink and oval shaped, packaged in a single dose unit blister.
 
 Fluconazole Tablets are supplied as follows:
@@ -27,7 +27,7 @@ Storage: Store tablets below 86°F (30°C).
 
 ## Fluconazole for Oral Suspension
 
-Fluconazole for oral suspension is supplied as an orange-flavored powder to provide 35 mL per bottle as follows:
+Fluconazole for Oral Suspension is supplied as an orange-flavored powder to provide 35 mL per bottle as follows:
 
 NDC 59762-5029-1 Fluconazole 350 mg per bottle NDC 59762-5030-1 Fluconazole 1400 mg per bottle
 
@@ -38,7 +38,7 @@ Protect from freezing.
 ## Fluconazole Injections
 
 Fluconazole injections for intravenous infusion administration are formulated as sterile iso-osmotic solutions containing 2 mg/mL of fluconazole.
-They are supplied in Viaflex® Plus plastic containers containing volumes of 100 mL or 200 mL affording doses of 200 mg and 400 mg of fluconazole, respectively.
+They are supplied in Viaflex® Plus plastic containers containing volumes of 100 mL or 200 mL, affording doses of 200 mg and 400 mg of fluconazole, respectively.
 Fluconazole injections in Viaflex® Plus plastic containers are available in both sodium chloride and dextrose diluents.
 
 Fluconazole Injections in Viaflex® Plus Plastic Containers:
