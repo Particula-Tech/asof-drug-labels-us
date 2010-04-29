@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020427"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Lundbeck Inc.",
+  "package_ndcs": [
+    "67386-111-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "vigabatrin",
+      "name": "Sabril"
+    }
+  ],
+  "setid": "a5d389d2-d0e1-4395-a2a2-b552808e7f98",
+  "source": "dailymed"
+}
