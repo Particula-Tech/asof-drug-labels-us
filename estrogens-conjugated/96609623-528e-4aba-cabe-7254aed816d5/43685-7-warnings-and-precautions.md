@@ -34,7 +34,7 @@ In the WHI estrogen plus progestin substudy, there was a statistically non-signi
 
 In postmenopausal women with documented heart disease (n = 2,763), average age 66.7 years, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
-There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during subsequent users.
+There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during subsequent years.
 Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
 Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2.5 mg) group and the placebo group in HERS, HERS II, and overall.
@@ -97,7 +97,7 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo, was 1.58 (95 percent nCI 0.77-3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen-plus progestin and estrogen-only products has been associated with an increased risk of ovarian cancer over multiple years of use.
 However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
 
 ## 5.4 Probable Dementia
