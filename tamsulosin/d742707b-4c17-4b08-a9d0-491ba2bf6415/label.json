@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090931"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-160-08",
+    "62756-160-18",
+    "62756-160-83",
+    "62756-160-88"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "Tamsulosin Hydrochloride"
+    }
+  ],
+  "setid": "d742707b-4c17-4b08-a9d0-491ba2bf6415",
+  "source": "dailymed"
+}
