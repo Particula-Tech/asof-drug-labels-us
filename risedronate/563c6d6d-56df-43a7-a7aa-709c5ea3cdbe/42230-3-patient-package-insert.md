@@ -11,10 +11,10 @@ If you have any questions or are not sure about something, ask your healthcare p
 What is the most important information I should know about ACTONEL?
 
 ACTONEL may cause problems in your stomach and esophagus (the tube that connects the mouth and the stomach), such as trouble swallowing (dysphagia), heartburn (esophagitis), and ulcers.
-You might feel pain in your bones, joints, or muscles (See “What are the Possible Side Effects of ACTONEL?”).
+You might feel pain in your bones, joints, or muscles (See "What are the Possible Side Effects of ACTONEL?").
 
 You must follow the instructions exactly for ACTONEL to work and to lower the chance of serious side effects.
-(See “How should I take ACTONEL?”).
+(See "How should I take ACTONEL?").
 
 What is ACTONEL?
 
@@ -101,7 +101,7 @@ You should call your healthcare provider for instructions.
 What should I avoid while taking ACTONEL?
 
 - Do not eat or drink anything except water before you take ACTONEL and for at least 30 minutes after you take it.
-  See “How should I take ACTONEL?”.
+  See "How should I take ACTONEL?".
 - Do not lie down for at least 30 minutes after you take ACTONEL.
 - Foods and some vitamin supplements and medicines can stop your body from absorbing (using) ACTONEL.
   Therefore, do not take anything other than plain water at or near the time you take ACTONEL.
@@ -171,8 +171,8 @@ All dose strengths contain: crospovidone, hydroxypropyl cellulose, hypromellose,
 
 Dose-strength specific ingredients include: 5 mg—ferric oxide yellow, lactose monohydrate; 30 mg—lactose monohydrate; 35 mg—ferric oxide red, ferric oxide yellow, lactose monohydrate; 75 mg—ferric oxide red; 150 mg—FD&C blue #2 aluminum lake.
 
-ACTONEL® is marketed by: Procter & Gamble Pharmaceuticals, Inc. Cincinnati, OH 45202 and sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+ACTONEL® is marketed by: Warner Chilcott Pharmaceuticals Inc., Mason, OH 45040
 
-December 2009
+March 2010
 
-© 2009 Procter & Gamble Pharmaceuticals, Inc.
+To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-836-0658 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

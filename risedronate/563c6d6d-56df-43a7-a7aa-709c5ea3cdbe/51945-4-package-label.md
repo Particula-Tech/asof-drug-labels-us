@@ -36,19 +36,17 @@ PRINCIPAL DISPLAY PANEL - 35 mg Carton
 
 4 Week Supply (4 tablets)
 
-Actonel® (risedronate sodium tablets)
+Actonel® (risedronate sodium) tablets
 
 35 mg
 
-98576983
+99568881
 
 NDC 0149-0472-01 List 80047201
 
 Rx Only
 
 Once-a-Week
-
-4 tablets
 
 Lift to Open
 
@@ -82,7 +80,7 @@ Actonel® (risedronate sodium) tablets
 
 150 mg
 
-98553566
+98639666
 
 NDC 0149-0478-01 List 84986719
 

@@ -43,10 +43,8 @@ Patients should be instructed that any time they have a medical problem they thi
 
 Covered under one or more of U.S. Patent Nos. 5,583,122; 5,994,329; 6,015,801; 6,096,342; 6,165,513; 6,410,520; 6,432,932; 6,465,443; and 6,562,974.
 
-Mfg. by: Procter & Gamble Pharmaceuticals, Inc. Cincinnati, OH 45202, or Norwich Pharmaceuticals, Inc. North Norwich, NY 13814
+Mfg. by: Warner Chilcott Puerto Rico LLC, Manati, Puerto Rico 00674 or Norwich Pharmaceuticals, Inc., North Norwich, NY 13814 or Chinoin Pharmaceutical and Chemical Works Private Co. Ltd Veresegyhaz, Hungary
 
-Dist. by: Procter & Gamble Pharmaceuticals, Inc., TM Owner Cincinnati, OH 45202
-
-Marketed with: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Mkt. by: Warner Chilcott Pharmaceuticals Inc., Mason, OH 45040
 
 ## 17.1 FDA-Approved Patient Labeling
