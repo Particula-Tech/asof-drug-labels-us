@@ -12,26 +12,11 @@ Storage
 
 Store at room temperature 25°C (77°F); Excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature].
 
-Disposal
-
-Used Testim® tubes should be discarded in household trash in a manner that prevents accidental application or ingestion by children or pets; contents flammable.
+Disposal Keep out of the reach of children.
+Used Testim® tubes should be discarded in household trash in a manner that prevents accidental exposure of children or pets; contents flammable.
 
 RX Only
 
-Manufactured for:
+Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA By: DPT Laboratories, Ltd. San Antonio, TX 78215
 
-Auxilium Pharmaceuticals, Inc.
-
-Norristown, PA, 19401 USA
-
-By: Contract Pharmaceuticals Limited
-
-Mississauga, Ontario, Canada L5N 6L6
-
-Labeling Code: AA2500.09
-
-Issued: January 2005
-
-0105-001.a
-
-127997
+Issued: September 2009 PL-0705-001.b 129092

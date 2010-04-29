@@ -6,7 +6,7 @@ Patients with adverse events that were possibly or probably related to study dru
 
 Table 3: Incidence of Adverse Events Judged Possibly, Probably or Definitely Related to Use of Testim® in the Controlled Clinical Trial
 
-| Event | Testim®50 mg | Testim®100 mg | Placebo |
+| Event | Testim® 50 mg | Testim® 100 mg | Placebo |
 | --- | --- | --- | --- |
 | Application Site Reactions | 2% | 4% | 3% |
 | Benign Prostatic Hyperplasia | 0% | 1% | 1% |
@@ -35,3 +35,17 @@ However, in the 100 mg dose group, 2.3% and 2.8% of patients had a clinically no
 
 In the combined ongoing U.S. and European open label extension studies, approximately 140 patients received Testim® for at least 6 months.
 The preliminary results from these studies are consistent with those reported for the U.S. controlled clinical trial.
+
+Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of testosterone gel products.
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Secondary Exposure to Testosterone in Children
+
+Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarketing surveillance of testosterone gel products.
+Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or of the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
+In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
+In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
+In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
+In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user’s shirts and/or other fabrics, such as towels and sheets (see WARNINGS).

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021454"
+  ],
   "inn": "testosterone",
-  "labeler": "Auxilium Pharms",
+  "labeler": "Auxilium Pharmaceuticals, Inc.",
   "package_ndcs": [
     "66887-001-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "Testim"
+    }
+  ],
   "setid": "9f2aae1f-898d-4955-be31-678e0cf85395",
   "source": "dailymed"
 }
