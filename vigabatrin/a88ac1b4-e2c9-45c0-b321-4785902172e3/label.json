@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022006"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Lundbeck Inc.",
+  "package_ndcs": [
+    "67386-211-65"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "vigabatrin",
+      "name": "Sabril"
+    }
+  ],
+  "setid": "a88ac1b4-e2c9-45c0-b321-4785902172e3",
+  "source": "dailymed"
+}
