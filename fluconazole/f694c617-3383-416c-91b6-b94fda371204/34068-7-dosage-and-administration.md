@@ -47,7 +47,7 @@ The recommended dosage of DIFLUCAN for suppression of relapse of cryptococcal me
 
 #### Prophylaxis in patients undergoing bone marrow transplantation
 
-The recommended DIFLUCAN daily dosage for the prevention of candidiasis of patients undergoing bone marrow transplantation is 400 mg, once daily.
+The recommended DIFLUCAN daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
 Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start DIFLUCAN prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
 
 ## Dosage and Administration in Children
@@ -74,7 +74,7 @@ Treatment should be administered for at least 2 weeks to decrease the likelihood
 ### Esophageal candidiasis
 
 For the treatment of esophageal candidiasis, the recommended dosage of DIFLUCAN in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
-Doses up to 12 mg/kg/day may be used based on medical judgment of the patient's response to therapy.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient's response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
 
 ### Systemic Candida infections
@@ -106,7 +106,7 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-Males: Weight (kg) × (140-age) 72 × serum creatinine (mg/100 mL)
+Males: Weight (kg) × (140–age) 72 × serum creatinine (mg/100 mL)
 
 Females: 0.85 × above value
 

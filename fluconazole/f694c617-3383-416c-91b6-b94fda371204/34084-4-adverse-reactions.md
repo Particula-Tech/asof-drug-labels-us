@@ -1,5 +1,9 @@
 # ADVERSE REACTIONS
 
+DIFLUCAN is generally well tolerated.
+
+In some patients, particularly those with serious underlying diseases such as AIDS and cancer, changes in renal and hematological function test results and hepatic abnormalities have been observed during treatment with fluconazole and comparative agents, but the clinical significance and relationship to treatment is uncertain.
+
 ## In Patients Receiving a Single Dose for Vaginal Candidiasis
 
 During comparative clinical studies conducted in the United States, 448 patients with vaginal candidiasis were treated with DIFLUCAN, 150 mg single dose.
@@ -36,29 +40,37 @@ The incidence of abnormally elevated serum transaminases was greater in patients
 
 #### Post-Marketing Experience
 
-In addition, the following adverse events have occurred during postmarketing experience.
+In addition, the following adverse events have occurred during post-marketing experience.
 
 Immunologic: In rare cases, anaphylaxis (including angioedema, face edema and pruritus) has been reported.
+
+Body as a Whole: Asthenia, fatigue, fever, malaise.
 
 Cardiovascular: QT prolongation, torsade de pointes.
 (See PRECAUTIONS.)
 
 Central Nervous System: Seizures, dizziness.
 
-Dermatologic: Exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
-
 Hematopoietic and Lymphatic: Leukopenia, including neutropenia and agranulocytosis, thrombocytopenia.
 
 Metabolic: Hypercholesterolemia, hypertriglyceridemia, hypokalemia.
 
-Gastrointestinal: Dyspepsia, vomiting.
+Gastrointestinal: Cholestasis, dry mouth, hepatocellular damage, dyspepsia, vomiting.
 
 Other Senses: Taste perversion.
 
+Musculoskeletal System: myalgia.
+
+Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
+
+Skin and Appendages: Acute generalized exanthematous-pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
+
 ## Adverse Reactions in Children
 
+The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
+
 In Phase II/III clinical trials conducted in the United States and in Europe, 577 pediatric patients, ages 1 day to 17 years were treated with DIFLUCAN at doses up to 15 mg/kg/day for up to 1,616 days.
-Thirteen percent of children experienced treatment related adverse events.
+Thirteen percent of children experienced treatment-related adverse events.
 The most commonly reported events were vomiting (5%), abdominal pain (3%), nausea (2%), and diarrhea (2%).
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.

@@ -20,7 +20,7 @@ Steady-state concentrations are reached within 5–10 days following oral doses 
 Administration of a loading dose (on day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
 Plasma protein binding is low (11–12%).
-Following either single- or multiple-oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see table below).
+Following either single- or multiple oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see table below).
 In normal volunteers, saliva concentrations of fluconazole were equal to or slightly greater than plasma concentrations regardless of dose, route, or duration of dosing.
 In patients with bronchiectasis, sputum concentrations of fluconazole following a single 150 mg oral dose were equal to plasma concentrations at both 4 and 24 hours post dose.
 In patients with fungal meningitis, fluconazole concentrations in the CSF are approximately 80% of the corresponding plasma concentrations.
@@ -55,7 +55,7 @@ In normal volunteers, DIFLUCAN administration (doses ranging from 200 mg to 400 
 
 ## Pharmacokinetics in Children
 
-In children, the following pharmacokinetic data {Mean(%cv)} have been reported:
+In children, the following pharmacokinetic data {Mean (%cv)} have been reported:
 
 | Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (µg/mL) | Vdss (L/kg) |
 | --- | --- | --- | --- | --- | --- |
@@ -76,10 +76,10 @@ Similarly, the half-life was 73.6 hours, which decreased with time to a mean of 
 A pharmacokinetic study was conducted in 22 subjects, 65 years of age or older receiving a single 50 mg oral dose of fluconazole.
 Ten of these patients were concomitantly receiving diuretics.
 The Cmax was 1.54 mcg/mL and occurred at 1.3 hours post dose.
-The mean AUC was 76.4+ 20.3 mcg∙h/mL, and the mean terminal half-life was 46.2 hours.
+The mean AUC was 76.4 ± 20.3 mcg∙h/mL, and the mean terminal half-life was 46.2 hours.
 These pharmacokinetic parameter values are higher than analogous values reported for normal young male volunteers.
 Coadministration of diuretics did not significantly alter AUC or Cmax.
-In addition, creatinine clearance (74 mL/min), the percent of drug recovered unchanged in urine (0–24 hr, 22%) and the fluconazole renal clearance estimates (0.124 mL/min/kg) for the elderly were generally lower than those of younger volunteers.
+In addition, creatinine clearance (74 mL/min), the percent of drug recovered unchanged in urine (0–24 hr, 22%), and the fluconazole renal clearance estimates (0.124 mL/min/kg) for the elderly were generally lower than those of younger volunteers.
 Thus, the alteration of fluconazole disposition in the elderly appears to be related to reduced renal function characteristic of this group.
 A plot of each subject's terminal elimination half-life versus creatinine clearance compared with the predicted half-life – creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life – creatinine clearance curves.
 These results are consistent with the hypothesis that higher values for the pharmacokinetic parameters observed in the elderly subjects compared with normal young male volunteers are due to the decreased kidney function that is expected in the elderly.
@@ -96,12 +96,12 @@ In a second study, twenty-five normal females received daily doses of both 200 m
 The treatment cycles were one month apart with all subjects receiving DIFLUCAN during one cycle and placebo during the other.
 The order of study treatment was random.
 Single doses of an oral contraceptive tablet containing levonorgestrel and ethinyl estradiol were administered on the final treatment day (day 10) of both cycles.
-Following administration of 200 mg of DIFLUCAN, the mean percentage increase of AUC for levonorgestrel compared to placebo was 25% (range: -12 to 82%) and the mean percentage increase for ethinyl estradiol compared to placebo was 38% (range: -11 to 101%).
+Following administration of 200 mg of DIFLUCAN, the mean percentage increase of AUC for levonorgestrel compared to placebo was 25% (range: –12 to 82%) and the mean percentage increase for ethinyl estradiol compared to placebo was 38% (range: –11 to 101%).
 Both of these increases were statistically significantly different from placebo.
 
 A third study evaluated the potential interaction of once weekly dosing of fluconazole 300 mg to 21 normal females taking an oral contraceptive containing ethinyl estradiol and norethindrone.
 In this placebo-controlled, double-blind, randomized, two-way crossover study carried out over three cycles of oral contraceptive treatment, fluconazole dosing resulted in small increases in the mean AUCs of ethinyl estradiol and norethindrone compared to similar placebo dosing.
-The mean AUCs of ethinyl estradiol and norethindrone increased by 24% (95% C.I. range 18–31%) and 13% (95% C.I. range 8–18%), respectively relative to placebo.
+The mean AUCs of ethinyl estradiol and norethindrone increased by 24% (95% C.I. range: 18–31%) and 13% (95% C.I. range: 8–18%), respectively, relative to placebo.
 Fluconazole treatment did not cause a decrease in the ethinyl estradiol AUC of any individual subject in this study compared to placebo dosing.
 The individual AUC values of norethindrone decreased very slightly (<5%) in 3 of the 21 subjects after fluconazole treatment.
 
@@ -179,14 +179,14 @@ Fluconazole 200 mg was administered daily from days 9 through 15.
 Fluconazole did not affect terfenadine plasma concentrations.
 Terfenadine acid metabolite AUC increased 36% ± 36% (range: 7 to 102%) from day 8 to day 15 with the concomitant administration of fluconazole.
 There was no change in cardiac repolarization as measured by Holter QTc intervals.
-Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
 
 ### Oral hypoglycemics
 
 The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
 All subjects received the sulfonylurea alone as a single dose and again as a single dose following the administration of DIFLUCAN 100 mg daily for 7 days.
-In these three studies 22/46 (47.8%) of DIFLUCAN treated patients and 9/22 (40.1%) of placebo treated patients experienced symptoms consistent with hypoglycemia.
+In these three studies, 22/46 (47.8%) of DIFLUCAN treated patients and 9/22 (40.1%) of placebo-treated patients experienced symptoms consistent with hypoglycemia.
 (See PRECAUTIONS.)
 
 #### Tolbutamide
@@ -239,7 +239,7 @@ On the first day of dosing, fluconazole increased the midazolam AUC and Cmax by 
 On the sixth day of dosing, fluconazole increased the midazolam AUC and Cmax by 259% and 74%, respectively.
 The psychomotor effects of midazolam were significantly increased after oral administration of midazolam but not significantly affected following intravenous midazolam.
 
-A second randomized, double-dummy, placebo-controlled, cross-over study in three phases was performed to determine the effect of route of administration of fluconazole on the interaction between fluconazole and midazolam.
+A second randomized, double-dummy, placebo-controlled, cross over study in three phases was performed to determine the effect of route of administration of fluconazole on the interaction between fluconazole and midazolam.
 In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and IV saline.
 An oral dose of 7.5 mg of midazolam was ingested after fluconazole/placebo.
 The AUC and Cmax of midazolam were significantly higher after oral than IV administration of fluconazole.
@@ -257,7 +257,7 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 
 ### Mechanism of Action
 
-Fluconazole is a highly selective inhibitor of fungal cytochrome P-450 dependent enzyme lanosterol 14-α-demethylase.
+Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase.
 This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
@@ -266,15 +266,15 @@ Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
 
 Fluconazole has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections.
 
-Candida albicans Candida glabrata (Many strains are intermediately susceptible) In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16µg/ml).
+Candida albicans Candida glabrata (Many strains are intermediately susceptible)* In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 µg/mL).
 Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as intermediate (16 to 32 µg/ml, see Table 1), the highest dose is recommended (see Dosage and Administration).
-For resistant isolates alternative therapy is recommended.
+For an isolate where the MIC is categorized as intermediate (16 to 32 µg/mL, see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
+For resistant isolates, alternative therapy is recommended.
 Candida parapsilosis Candida tropicalis Cryptococcus neoformans
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Fluconazole exhibits in vitro minimum inhibitory concentrations (MIC values) of 8 µg/mL or less against most (≥90%) strains of the following microorganisms, however, the safety and effectiveness of fluconazole in treating clinical infections due to these microorganisms have not been established in adequate and well controlled trials.
+Fluconazole exhibits in vitro minimum inhibitory concentrations (MIC values) of 8 µg/mL or less against most (≥90%) strains of the following microorganisms, however, the safety and effectiveness of fluconazole in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
 Candida dubliniensis Candida guilliermondii Candida kefyr Candida lusitaniae
 
