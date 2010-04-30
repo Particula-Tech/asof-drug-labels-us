@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 0.5mg, 11 tablet Card
+PRINCIPAL DISPLAY PANEL - 0.5mg, 11 tablet Card
 
 Starting Week
 
@@ -12,7 +12,7 @@ CHANTIX™ (varenicline) TABLETS
 
 1 card x 11 tablets
 
-# PRINCIPAL DISPLAY PANEL - 1mg Starting Pack Carton
+PRINCIPAL DISPLAY PANEL - 1mg Starting Pack Carton
 
 CHANTIX™ (varenicline) TABLETS
 
@@ -24,7 +24,7 @@ Rx only
 
 Starting Month PAK Contains: 1 card (0.5 mg x 11 tablets) 3 cards (1 mg x 14 tablets)
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Label
+PRINCIPAL DISPLAY PANEL - 0.5 mg Label
 
 Rx only
 
@@ -36,7 +36,7 @@ Chantix™ (varenicline) tablets
 
 Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 1 mg Label
+PRINCIPAL DISPLAY PANEL - 1 mg Label
 
 Rx only
 
@@ -48,7 +48,7 @@ Chantix™ (varenicline) tablets
 
 Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 1mg, 14 Tablet Card
+PRINCIPAL DISPLAY PANEL - 1mg, 14 Tablet Card
 
 Continuing Week
 
@@ -62,7 +62,7 @@ CHANTIX™ (varenicline) TABLETS
 
 1 card x 14 tablets
 
-# PRINCIPAL DISPLAY PANEL - 4 cards (1 mg x 14 tablets)
+PRINCIPAL DISPLAY PANEL - 4 cards (1 mg x 14 tablets)
 
 CHANTIX™ (varenicline) TABLETS
 
