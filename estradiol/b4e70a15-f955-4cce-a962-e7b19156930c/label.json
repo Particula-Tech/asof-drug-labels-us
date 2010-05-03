@@ -6,7 +6,9 @@
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0480-42",
-    "0078-0481-42"
+    "0078-0480-62",
+    "0078-0481-42",
+    "0078-0481-62"
   ],
   "products": [
     {
