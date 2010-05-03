@@ -1,28 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020387"
+  ],
   "inn": "hydrochlorothiazide",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
-    "0006-0717-01",
-    "0006-0717-28",
     "0006-0717-31",
     "0006-0717-54",
     "0006-0717-82",
-    "0006-0717-86",
     "0006-0745-01",
     "0006-0745-28",
     "0006-0745-31",
     "0006-0745-54",
     "0006-0745-82",
     "0006-0745-86",
-    "0006-0747-01",
-    "0006-0747-28",
     "0006-0747-31",
     "0006-0747-54",
-    "0006-0747-81",
     "0006-0747-82"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium and hydrochlorothiazide",
+      "name": "HYZAAR"
+    }
+  ],
   "setid": "d3e434b9-2f56-4dec-8cbf-a61e23abcc6a",
   "source": "dailymed"
 }

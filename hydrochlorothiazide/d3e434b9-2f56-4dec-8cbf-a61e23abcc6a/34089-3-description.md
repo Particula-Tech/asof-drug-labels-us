@@ -1,6 +1,7 @@
 # DESCRIPTION
 
-HYZAARRegistered trademark of E.I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 1995, 2005 MERCK & CO., Inc., Whitehouse Station, NJ, USA All rights reserved 50-12.5 (losartan potassium-hydrochlorothiazide), HYZAAR 100-12.5 (losartan potassium-hydrochlorothiazide) and HYZAAR 100-25 (losartan potassium-hydrochlorothiazide), combine an angiotensin II receptor (type AT1) antagonist and a diuretic, hydrochlorothiazide.
+HYZAARRegistered trademark of E.I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 1995, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+50-12.5 (losartan potassium-hydrochlorothiazide), HYZAAR 100-12.5 (losartan potassium-hydrochlorothiazide) and HYZAAR 100-25 (losartan potassium-hydrochlorothiazide), combine an angiotensin II receptor (type AT1) antagonist and a diuretic, hydrochlorothiazide.
 
 Losartan potassium, a non-peptide molecule, is chemically described as 2-butyl-4-chloro-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]imidazole-5-methanol monopotassium salt.
 Its empirical formula is C22H22ClKN6O, and its structural formula is:

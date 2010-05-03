@@ -167,7 +167,7 @@ Treatment with losartan reduced the risk of stroke by 25% relative to atenolol (
 
 For additional details on the LIFE study see the label for COZAAR.
 
-##### Race
+#### Race
 
 In the LIFE study, Black patients treated with atenolol were at lower risk of experiencing the primary composite endpoint compared with Black patients treated with losartan.
 In the subgroup of Black patients (n=533, 6% of the LIFE study patients), there were 29 primary endpoints among 263 patients on atenolol (11%, 26 per 1000 patient-years) and 46 primary endpoints among 270 patients (17%, 42 per 1000 patient-years) on losartan.
@@ -201,7 +201,7 @@ Patients on combination therapy were titrated from losartan 50 mg/hydrochlorothi
 Patients on monotherapy were titrated from losartan 50 mg to losartan 100 mg to losartan 150 mg, as needed.
 The primary endpoint was a comparison at 4 weeks of patients who achieved goal diastolic blood pressure (trough SiDBP <90 mmHg).
 
-The study enrolled 585 patients, including 264 (45%) females, 124 (21%) blacks, and 21 (4%) ≥65 years of age.
+The study enrolled 585 patients, including 264 (45%) females, 124 (21%) Blacks, and 21 (4%) ≥65 years of age.
 The mean blood pressure at baseline for the total population was 171/113 mmHg.
 The mean age was 53 years.
 After 4 weeks of therapy, the mean SiDBP was 3.1 mmHg lower and the mean SiSBP was 5.6 mmHg lower in the group treated with HYZAAR.

@@ -1,6 +1,8 @@
-# SPL Patient Package Insert Patient Information HYZAAR® ("HY-zar”) (losartan potassium-hydrochlorothiazide tablets) 50-12.5 mg, 100-12.5 mg, 100-25 mg Rx only
+# PATIENT PACKAGE INSERT
 
-Read the Patient Information that comes with HYZAAR before you start taking it and each time you get a refill.
+Patient Information HYZAAR® ("HY-zar") (losartan potassium-hydrochlorothiazide tablets) 50-12.5 mg, 100-12.5 mg, 100-25 mg Rx only
+
+Read the Patient Information that comes with HYZAARRegistered trademark of E. I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
@@ -40,7 +42,7 @@ Do not take HYZAAR if you:
   See a complete list of ingredients in HYZAAR at the end of this leaflet.
 - are allergic to any sulfonamide-containing ("sulfa") medicines.
   Ask your doctor if you are not sure what sulfonamide-containing ("sulfa") medicines are.
-- are not passing urine
+- are not passing urine.
 
 ## What should I tell my doctor before taking HYZAAR?
 
@@ -148,10 +150,8 @@ HYZAAR 50-12.5, HYZAAR 100-12.5, and HYZAAR 100-25 may also contain carnauba wax
 
 Manufactured For:
 
-MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued December 2006
+Issued December 2009
 
-Printed in USA
-
-9769800
+9964301

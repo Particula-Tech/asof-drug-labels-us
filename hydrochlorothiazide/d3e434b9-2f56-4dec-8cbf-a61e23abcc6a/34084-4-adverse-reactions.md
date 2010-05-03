@@ -33,7 +33,7 @@ Superficial peeling of palms and hemolysis were reported in one subject treated 
 
 Other adverse experiences that have been reported with losartan, without regard to causality, are listed below:
 
-Body as a Whole: chest pain, facial edema, fever, orthostatic effects, syncope; Cardiovascular: angina pectoris, arrhythmias including atrial fibrillation, sinus bradycardia, tachycardia, ventricular tachycardia and ventricular fibrillation, CVA, hypotension, myocardial infarction, second degree AV block; Digestive: anorexia, constipation, dental pain, dry mouth, dyspepsia, flatulence, gastritis, vomiting; General disorders and administration site conditions: malaise;Hematologic: anemia; Metabolic: gout; Musculoskeletal: arm pain, arthralgia, arthritis, fibromyalgia, hip pain, joint swelling, knee pain, leg pain, muscle cramps, muscle weakness, musculoskeletal pain, myalgia, shoulder pain, stiffness; Nervous System/Psychiatric: anxiety, anxiety disorder, ataxia, confusion, depression, dream abnormality, hypesthesia, insomnia, libido decreased, memory impairment, migraine, nervousness, panic disorder, paresthesia, peripheral neuropathy, sleep disorder, somnolence, tremor, vertigo; Respiratory: dyspnea, epistaxis, nasal congestion, pharyngeal discomfort, respiratory congestion, rhinitis, sinus disorder; Skin: alopecia, dermatitis, dry skin, ecchymosis, erythema, flushing, photosensitivity, pruritus, sweating, urticaria; Special Senses: blurred vision, burning/stinging in the eye, conjunctivitis, decrease in visual acuity, taste perversion, tinnitus; Urogenital: impotence, nocturia, urinary frequency, urinary tract infection.
+Body as a Whole: chest pain, facial edema, fever, orthostatic effects, syncope; Cardiovascular: angina pectoris, arrhythmias including atrial fibrillation, sinus bradycardia, tachycardia, ventricular tachycardia and ventricular fibrillation, CVA, hypotension, myocardial infarction, second degree AV block; Digestive: anorexia, constipation, dental pain, dry mouth, dyspepsia, flatulence, gastritis, vomiting; General disorders and administration site conditions: malaise; Hematologic: anemia; Metabolic: gout; Musculoskeletal: arm pain, arthralgia, arthritis, fibromyalgia, hip pain, joint swelling, knee pain, leg pain, muscle cramps, muscle weakness, musculoskeletal pain, myalgia, shoulder pain, stiffness; Nervous System/Psychiatric: anxiety, anxiety disorder, ataxia, confusion, depression, dream abnormality, hypesthesia, insomnia, libido decreased, memory impairment, migraine, nervousness, panic disorder, paresthesia, peripheral neuropathy, sleep disorder, somnolence, tremor, vertigo; Respiratory: dyspnea, epistaxis, nasal congestion, pharyngeal discomfort, respiratory congestion, rhinitis, sinus disorder; Skin: alopecia, dermatitis, dry skin, ecchymosis, erythema, flushing, photosensitivity, pruritus, sweating, urticaria; Special Senses: blurred vision, burning/stinging in the eye, conjunctivitis, decrease in visual acuity, taste perversion, tinnitus; Urogenital: impotence, nocturia, urinary frequency, urinary tract infection.
 
 ## Hydrochlorothiazide
 
@@ -47,10 +47,10 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
-| Study 1Demographics = (89% caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
+| Study 1Demographics = (89% Caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
-| Study 2Demographics = (90% caucasian, 51% female) | Placebo | Losartan | Lisinopril |
+| Study 2Demographics = (90% Caucasian, 51% female) | Placebo | Losartan | Lisinopril |
 | Cough | 35% | 29% | 62% |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.

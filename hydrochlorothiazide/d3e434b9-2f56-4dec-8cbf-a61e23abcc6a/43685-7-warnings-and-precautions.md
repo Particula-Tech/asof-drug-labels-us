@@ -162,11 +162,12 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 Lithium: As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be co-administered with angiotensin II receptor antagonists.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan, may result in a further deterioration of renal function.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan, or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
+Therefore, the combination should be administered with caution in patients with compromised renal function.
 
-Reports suggest that NSAIDs including selective COX-2 inhibitors may diminish the antihypertensive effect of angiotensin II receptor antagonists, including losartan.
-This interaction should be given consideration in patients taking NSAIDs including selective COX-2 inhibitors concomitantly with angiotensin II receptor antagonists.
+NSAIDs including selective COX-2 inhibitors may diminish the effects of diuretics and other antihypertensive drugs, including losartan.
+Therefore, the antihypertensive effect of angiotensin II receptor antagonists or ACE inhibitors may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 ### Hydrochlorothiazide
 
@@ -191,8 +192,12 @@ Lithium — should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with HYZAAR.
 
-Non-steroidal Anti-inflammatory Drugs including Selective Cyclooxygenase-2 Inhibitors — In some patients, the administration of a non-steroidal anti-inflammatory agent including a selective cyclooxygenase-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal Anti-inflammatory Drugs including Selective Cyclooxygenase-2 Inhibitors — The administration of a non-steroidal anti-inflammatory agent including a selective cyclooxygenase-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when HYZAAR and non-steroidal anti-inflammatory agents including selective cyclooxygenase-2 inhibitors are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs, including selective cyclooxygenase-2 inhibitors, the co-administration of angiotensin II receptor antagonists or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Therefore, the combination should be administered with caution in patients with compromised renal function.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -200,7 +205,7 @@ Therefore, when HYZAAR and non-steroidal anti-inflammatory agents including sele
 
 No carcinogenicity studies have been conducted with the losartan potassium-hydrochlorothiazide combination.
 
-Losartan potassium-hydrochlorothiazide when tested at a weight ratio of 4:1, was negative in the Ames microbial mutagenesis assay and the V-79 Chinese hamster lung cell mutagenesis assay.
+Losartan potassium-hydrochlorothiazide when tested at a weight ratio of 4:1 was negative in the Ames microbial mutagenesis assay and the V-79 Chinese hamster lung cell mutagenesis assay.
 In addition, there was no evidence of direct genotoxicity in the in vitro alkaline elution assay in rat hepatocytes and in vitro chromosomal aberration assay in Chinese hamster ovary cells at noncytotoxic concentrations.
 
 Losartan potassium, coadministered with hydrochlorothiazide, had no effect on the fertility or mating behavior of male rats at dosages up to 135 mg/kg/day of losartan and 33.75 mg/kg/day of hydrochlorothiazide.
@@ -236,7 +241,7 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 ## Pregnancy
 
 Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality
+See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
 
 ## Nursing Mothers
 

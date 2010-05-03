@@ -16,7 +16,7 @@ Therapy with any combination of losartan and hydrochlorothiazide will be associa
 
 Replacement Therapy: The combination may be substituted for the titrated components.
 
-Dose Titration by Clinical Effect: A patient whose blood pressure is not adequately controlled with losartan monotherapy (see above) or hydrochlorothiazide alone, may be switched to HYZAAR 50-12.5 (losartan 50 mg/hydrochlorothiazide 12.5 mg) once daily.
+Dose Titration by Clinical Effect: A patient whose blood pressure is not adequately controlled with losartan monotherapy (see above) or hydrochlorothiazide alone may be switched to HYZAAR 50-12.5 (losartan 50 mg/hydrochlorothiazide 12.5 mg) once daily.
 If blood pressure remains uncontrolled after about 3 weeks of therapy, the dose may be increased to two tablets of HYZAAR 50-12.5 once daily or one tablet of HYZAAR 100-25 (losartan 100 mg/hydrochlorothiazide 25 mg) once daily.
 A patient whose blood pressure is not adequately controlled with losartan 100 mg monotherapy (see above) may be switched to HYZAAR 100-12.5 once daily.
 If blood pressure remains uncontrolled after about 3 weeks of therapy, the dose may be increased to two tablets of HYZAAR 50-12.5 once daily or one tablet of HYZAAR 100-25 (losartan 100 mg/hydrochlorothiazide 25 mg) once daily.
