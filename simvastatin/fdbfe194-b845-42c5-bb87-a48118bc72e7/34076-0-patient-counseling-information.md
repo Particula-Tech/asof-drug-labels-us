@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
@@ -27,14 +27,10 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use ZOCOR.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured for:
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-By:
+Issued March 2010
 
-MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Issued June 2008
-
-9876252
+9876254

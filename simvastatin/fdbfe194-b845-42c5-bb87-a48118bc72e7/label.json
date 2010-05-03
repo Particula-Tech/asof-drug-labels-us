@@ -1,15 +1,17 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019766"
+  ],
   "inn": "simvastatin",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
+    "0006-0543-01",
     "0006-0543-28",
     "0006-0543-31",
     "0006-0543-54",
     "0006-0543-82",
     "0006-0726-31",
     "0006-0726-54",
-    "0006-0726-82",
     "0006-0735-31",
     "0006-0735-54",
     "0006-0735-82",
@@ -20,7 +22,13 @@
     "0006-0749-54",
     "0006-0749-82"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "simvastatin",
+      "name": "ZOCOR"
+    }
+  ],
   "setid": "fdbfe194-b845-42c5-bb87-a48118bc72e7",
   "source": "dailymed"
 }

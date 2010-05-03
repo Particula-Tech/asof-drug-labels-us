@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration.
 Simvastatin is a specific inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol.
@@ -40,11 +40,11 @@ The increase in AUC for simvastatin acid is presumably due, in part, to inhibiti
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-TABLE 3: Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
+TABLE 3: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
 
 |  | AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Co-Administered Drug or Grapefruit Juice | Dosing of Co-Administered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (RatioResults based on a chemical assay except results with propranolol as indicated. with / without co-administered drug)No Effect = 1.00 |  |  |
+| Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (RatioResults based on a chemical assay except results with propranolol as indicated. with / without coadministered drug)No Effect = 1.00 |  |  |
 | Avoid taking with simvastatin [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid simvastatin | 6 | 6.2 |
@@ -56,12 +56,14 @@ TABLE 3: Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Syst
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
 | Avoid taking with >20 mg simvastatin, based on clinical and/or post-marketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
+| Avoid taking with >40 mg simvastatin, based on clinical and/or post-marketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
+| Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD X 14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
-| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
+| Niacin extended-releaseBecause Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see Warnings and Precautions (5.1) and Drug Interactions (7.5)]. | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
 | Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
-| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/ml ↓ from 7.0 to 4.7 ng·eq/mL |
+| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |
 
 In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
 This indicates that simvastatin is not an inhibitor of CYP3A4, and, therefore, is not expected to affect the plasma levels of other drugs metabolized by CYP3A4.

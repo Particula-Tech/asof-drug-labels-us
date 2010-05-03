@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 ZOCOR (simvastatin) is a lipid-lowering agent that is derived synthetically from a fermentation product of Aspergillus terreus.
 After oral ingestion, simvastatin, which is an inactive lactone, is hydrolyzed to the corresponding β-hydroxyacid form.

@@ -1,13 +1,11 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 No. 8360 — Tablets ZOCOR 5 mg are buff, oval, film-coated tablets, coded MSD 726 on one side and ZOCOR 5 on the other.
 They are supplied as follows:
 
 NDC 0006-0726-31 unit of use bottles of 30
 
-NDC 0006-0726-54 unit of use bottles of 90
-
-NDC 0006-0726-82 bottles of 1000.
+NDC 0006-0726-54 unit of use bottles of 90.
 
 No. 8146 — Tablets ZOCOR 10 mg are peach, oval, film-coated tablets, coded MSD 735 on one side and plain on the other.
 They are supplied as follows:

@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 72-week carcinogenicity study, mice were administered daily doses of simvastatin of 25, 100, and 400 mg/kg body weight, which resulted in mean plasma drug levels approximately 1, 4, and 8 times higher than the mean human plasma drug level, respectively (as total inhibitory activity based on AUC) after an 80-mg oral dose.
 Liver carcinomas were significantly increased in high-dose females and mid- and high-dose males with a maximum incidence of 90% in males.
@@ -27,7 +27,7 @@ At 180 mg/kg/day, (which produces exposure levels 22 times higher than those in 
 In dogs, there was drug-related testicular atrophy, decreased spermatogenesis, spermatocytic degeneration and giant cell formation at 10 mg/kg/day, (approximately 2 times the human exposure, based on AUC, at 80 mg/day).
 The clinical significance of these findings is unclear.
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 CNS Toxicity
 

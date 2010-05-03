@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myopathy/Rhabdomyolysis
 
@@ -30,11 +30,16 @@ The use of ZOCOR concomitantly with these CYP3A4 inhibitors should be avoided.
 If treatment with itraconazole, ketoconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with ZOCOR should be suspended during the course of treatment.
 [See Drug Interactions (7).]
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: gemfibrozil, other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), cyclosporine, danazol, amiodarone, or verapamil.
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: gemfibrozil, other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), cyclosporine, danazol, amiodarone, verapamil or diltiazem.
 
-Caution should be used when prescribing other fibrates or lipid-lowering doses (≥1 g/day) of niacin with simvastatin, as these agents can cause myopathy when given alone.
+Caution should be used when prescribing other fibrates with simvastatin, as these agents can cause myopathy when given alone.
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.5), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
+Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
+It is unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.
+
+Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
@@ -43,6 +48,7 @@ TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | ItraconazoleKetoconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsNefazodone | Avoid simvastatin |
 | GemfibrozilThe combined use of simvastatin with gemfibrozil should be avoided, unless the benefits are likely to outweigh the increased risks of this drug combination.CyclosporineThe benefits of the use of simvastatin in patients receiving cyclosporine or danazol should be carefully weighed against the risks of these combinations.Danazol | Do not exceed 10 mg simvastatin daily |
 | AmiodaroneThe combined use of simvastatin at doses higher than 20 mg daily with amiodarone or verapamil should be avoided unless the clinical benefit is likely to outweigh the increased risk of myopathy.Verapamil | Do not exceed 20 mg simvastatin daily |
+| DiltiazemThe combined use of simvastatin in patients receiving diltiazem should not exceed 40 mg daily unless the clinical benefit is likely to outweigh the increased risk of myopathy. | Do not exceed 40 mg simvastatin daily |
 | Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
 
 ## 5.2 Liver Dysfunction
