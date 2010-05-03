@@ -1,0 +1,19 @@
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – VIAL LABEL
+
+NDC 25021-404-01
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+Rx only
+
+Heparin Sodium Injection, USP 20,000 USP units per mL – 1 mL Multi-Dose Vial
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – CARTON
+
+NDC 25021-404-01
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+Rx only
+
+Heparin Sodium Injection, USP 20,000 USP units per mL – 1 mL Multi-Dose Vial
