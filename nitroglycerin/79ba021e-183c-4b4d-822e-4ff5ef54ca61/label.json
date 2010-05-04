@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021134"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Parke-Davis Division of Pfizer Inc",
+  "package_ndcs": [
+    "0071-0417-24",
+    "0071-0418-13",
+    "0071-0418-24",
+    "0071-0419-24"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "nitroglycerin",
+      "name": "Nitrostat"
+    }
+  ],
+  "setid": "79ba021e-183c-4b4d-822e-4ff5ef54ca61",
+  "source": "dailymed"
+}
