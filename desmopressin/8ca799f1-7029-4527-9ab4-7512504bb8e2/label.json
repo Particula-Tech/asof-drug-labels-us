@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074830"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Bauch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-342-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "desmopressin acetate",
+      "name": "Desmopressin Acetate"
+    }
+  ],
+  "setid": "8ca799f1-7029-4527-9ab4-7512504bb8e2",
+  "source": "dailymed"
+}
