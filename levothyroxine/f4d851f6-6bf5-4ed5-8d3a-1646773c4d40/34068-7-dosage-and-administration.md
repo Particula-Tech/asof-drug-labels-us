@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-General Principles
+## General Principles
 
 The goal of replacement therapy is to achieve and maintain a clinical and biochemical euthyroid state.
 The goal of suppressive therapy is to inhibit growth and/or function of abnormal thyroid tissue.
@@ -15,7 +15,7 @@ Due to the long half-life of levothyroxine, the peak therapeutic effect at a giv
 
 Caution should be exercised when administering TIROSINT to patients with underlying cardiovascular disease, to the elderly, and to those with concomitant adrenal insufficiency (see PRECAUTIONS).
 
-Specific Patient Populations
+## Specific Patient Populations
 
 Hypothyroidism in Adults and in Children in Whom Growth and Puberty are Complete (see WARNINGS and PRECAUTIONS, Laboratory Tests)
 

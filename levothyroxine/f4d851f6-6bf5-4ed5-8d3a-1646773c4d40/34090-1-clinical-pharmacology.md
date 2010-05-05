@@ -21,7 +21,7 @@ Levothyroxine, at doses individualized according to patient response, is effecti
 
 Levothyroxine is also effective in the suppression of pituitary TSH secretion, in the treatment or prevention of various types of euthyroid goiters, including thyroid nodules, Hashimoto's thyroiditis, multinodular goiter and, as adjunctive therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer (see INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-Pharmacokinetics
+## Pharmacokinetics
 
 Absorption - Absorption of orally administered T4 from the gastrointestinal (GI) tract ranges from 40% to 80%.
 The majority of the levothyroxine dose is absorbed from the jejunum and upper ileum.
@@ -52,10 +52,10 @@ A portion of the conjugated hormone reaches the colon unchanged and is eliminate
 Approximately 20% of T4 is eliminated in the stool.
 Urinary excretion of T4 decreases with age.
 
-Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patient
+Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | t1/2 (days) | Protein Binding (%) |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | t1/2 (days) | Protein Binding (%)2 |
 | --- | --- | --- | --- | --- |
 | Levothyroxine (T4) | 10 - 20 | 1 | 6 - 71 | 99.96 |
-| Liothyronine (T3) | 1 | 4 | < 2 | 99.5 |
+| Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |
 | 1 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism 2 Includes TBG, TBPA, and TBA |  |  |  |  |

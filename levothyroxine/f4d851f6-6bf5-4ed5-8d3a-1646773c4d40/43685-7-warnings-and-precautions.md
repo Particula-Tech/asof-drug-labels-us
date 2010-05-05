@@ -12,8 +12,7 @@ The increased bone resorption may be associated with increased serum levels and 
 Therefore, it is recommended that patients receiving levothyroxine sodium be given the minimum dose necessary to achieve the desired clinical and biochemical response.
 
 Patients with underlying cardiovascular disease - Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
-In these patients, levothyroxine therapy should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease and it should be noted that unlike levothyroxine sodium tablets, TIROSINT capsules cannot be cut in half.
-(see WARNINGS; PRECAUTIONS, Geriatric Use; and DOSAGE AND ADMINISTRATION).
+In these patients, levothyroxine therapy should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease and it should be noted that unlike levothyroxine sodium tablets, TIROSINT capsules cannot be cut in half (see WARNINGS; PRECAUTIONS, Geriatric Use; and DOSAGE AND ADMINISTRATION).
 If cardiac symptoms develop or worsen, the levothyroxine dose should be reduced or withheld for one week and then cautiously restarted at a lower dose.
 Overtreatment with levothyroxine sodium may have adverse cardiovascular effects such as an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias.
 Patients with coronary artery disease who are receiving levothyroxine therapy should be monitored closely during surgical procedures, since the possibility of precipitating cardiac arrhythmias may be greater in those treated with levothyroxine.
@@ -191,7 +190,7 @@ Table 2: Drug-Thyroidal Axis Interactions
 | Beta-adrenergic antagonists |  |
 | -(e.g., Propranolol > 160 mg/day) |  |
 | Glucocorticoids |  |
-| -(e.g., Dexamethasone > 4 mg/day) |  |
+| -(e.g., Dexamethasone ≥ 4 mg/day) |  |
 | Propylthiouracil (PTU) |  |
 | Miscellaneous |  |
 | Anticoagulants (oral) | Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly. |
@@ -257,11 +256,12 @@ The synthetic T4 in TIROSINT is identical to that produced naturally by the huma
 Although there has been a reported association between prolonged thyroid hormone therapy and breast cancer, this has not been confirmed.
 Patients receiving TIROSINT for appropriate clinical indications should be titrated to the lowest effective replacement dose.
 
-## Pregnancy
+## Pregnancy - Category A
 
-Category A - Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
+Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
 Therefore, the possibility of fetal harm appears remote.
 TIROSINT should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
+
 Hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, pre-eclampsia, stillbirth and premature delivery.
 Maternal hypothyroidism may have an adverse effect on fetal and childhood growth and development.
 During pregnancy, serum T4 levels may decrease and serum TSH levels increase to values outside the normal range.
@@ -303,7 +303,9 @@ However, if the serum TSH has not risen to greater than 20 mU/L, levothyroxine t
 
 The presence of concomitant medical conditions should be considered in certain clinical circumstances and, if present, appropriately treated (see PRECAUTIONS).
 
-Congenital Hypothyroidism (see PRECAUTIONS, Laboratory Tests and DOSAGE AND ADMINISTRATION)
+Congenital Hypothyroidism
+
+(see PRECAUTIONS, Laboratory Tests and DOSAGE AND ADMINISTRATION)
 
 Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
 Therefore, TIROSINT therapy should be initiated immediately upon diagnosis and is generally continued for life.
