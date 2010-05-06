@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 63032-111-50
 
@@ -31,7 +31,6 @@ Do not expose to heat or store at temperatures above 120oF (49oC).
 
 Avoid contact with eyes or other mucous membranes.
 Keep out of reach of children.
-
 Store at controlled room temperature, 68o – 77oF (20o – 25oC).
 
 CFC FREE

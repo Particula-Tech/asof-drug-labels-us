@@ -1,4 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
+
+Verdeso Foam is not for oral, ophthalmic, or intravaginal use.
 
 A thin layer of Verdeso Foam should be applied to the affected area(s) twice daily.
 Shake the can before use.
@@ -10,8 +12,10 @@ Dispense in hands and gently massage into affected areas of the face until the m
 For areas other than the face, the medication may be dispensed directly onto the affected area.
 Take care to avoid contact with the eyes or other mucous membranes.
 
+Patients should dispense the smallest amount of foam as necessary to adequately cover the affected area with a thin layer.
 Therapy should be discontinued when control is achieved.
 If no improvement is seen within 4 weeks, reassessment of diagnosis may be necessary.
+The safety and efficacy of Verdeso Foam has not been established beyond 4 weeks of use.
 Treatment should not exceed 4 consecutive weeks.
 
 Unless directed by a physician, Verdeso Foam should not be used with occlusive dressings.
