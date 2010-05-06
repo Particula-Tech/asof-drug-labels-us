@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA011153"
+  ],
   "inn": "methylprednisolone",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "0009-0073-01",
     "0009-0176-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methylprednisolone",
+      "name": "Medrol"
+    }
+  ],
   "setid": "39d5270b-d957-4821-93d6-501b7b9f02d4",
   "source": "dailymed"
 }

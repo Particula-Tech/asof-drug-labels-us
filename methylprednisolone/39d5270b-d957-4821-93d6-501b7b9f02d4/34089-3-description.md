@@ -13,23 +13,23 @@ Each MEDROL Tablet for oral administration contains 2 mg, 4 mg, 8 mg, 16 mg or 3
 
 Inactive ingredients:
 
-| 2 mg | 4 and 16 mg |  |
-| --- | --- | --- |
-| Calcium Stearate | Calcium Stearate |  |
-| Corn Starch | Corn Starch |  |
-| Erythrosine Sodium | Lactose |  |
-| Lactose | Mineral Oil |  |
-| Mineral Oil | Sorbic Acid |  |
-| Sorbic Acid | Sucrose |  |
-| Sucrose |  |  |
-| 8 and 32 mg |  |  |
-| Calcium Stearate |  |  |
-| Corn Starch |  |  |
-| F D & C Yellow No. 6 |  |  |
-| Lactose |  |  |
-| Mineral Oil |  |  |
-| Sorbic Acid |  |  |
-| Sucrose |  |  |
+| 2 mg | 4 and 16 mg |
+| --- | --- |
+| Calcium Stearate | Calcium Stearate |
+| Corn Starch | Corn Starch |
+| Erythrosine Sodium | Lactose |
+| Lactose | Mineral Oil |
+| Mineral Oil | Sorbic Acid |
+| Sorbic Acid | Sucrose |
+| Sucrose |  |
+| 8 and 32 mg |  |
+| Calcium Stearate |  |
+| Corn Starch |  |
+| F D & C Yellow No. 6 |  |
+| Lactose |  |
+| Mineral Oil |  |
+| Sorbic Acid |  |
+| Sucrose |  |
 
 ## ACTIONS
 
