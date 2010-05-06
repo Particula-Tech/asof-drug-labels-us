@@ -18,10 +18,9 @@ Baclofen should be used during pregnancy only if the benefit clearly justifies t
 
 # PRECAUTIONS
 
-Safe use of baclofen in children under age 12 has not been established, and it is, therefore, not recommended for use in children.
-
 Because of the possibility of sedation, patients should be cautioned regarding the operation of automobiles or other dangerous machinery, and activities made hazardous by decreased alertness.
 Patients should also be cautioned that the central nervous system effects of baclofen may be additive to those of alcohol and other CNS depressants.
+
 Baclofen should be used with caution where spasticity is utilized to sustain upright posture and balance in locomotion or whenever spasticity is utilized to obtain increased function.
 In patients with epilepsy, the clinical state and electroencephalogram should be monitored at regular intervals, since deterioration in seizure control and EEG have been reported occasionally in patients taking baclofen.
 
@@ -33,3 +32,7 @@ A dose-related increase in incidence of ovarian cysts and a less marked increase
 Ovarian cysts have been found by palpation in about 4% of the multiple sclerosis patients that were treated with baclofen for up to one year.
 In most cases these cysts disappeared spontaneously while patients continued to receive the drug.
 Ovarian cysts are estimated to occur spontaneously in approximately 1% to 5% of the normal female population.
+
+## Pediatric Use
+
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
