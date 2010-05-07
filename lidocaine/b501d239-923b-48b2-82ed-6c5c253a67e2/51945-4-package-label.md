@@ -12,3 +12,15 @@ Please see enclosed package insert for full prescribing information.
 20 cartridges x 1.7 g gel Not for injection.
 
 DENTSPLY PHARMACEUTICAL
+
+# PRINCIPAL DISPLAY PANEL - Dispenser Carton
+
+oraqix®
+
+Dispenser
+
+Not for Injection
+
+PN 66400
+
+DENTSPLY
