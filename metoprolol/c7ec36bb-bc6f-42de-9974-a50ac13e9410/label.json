@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077761"
+  ],
+  "inn": "metoprolol",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9873-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
+  "setid": "c7ec36bb-bc6f-42de-9974-a50ac13e9410",
+  "source": "dailymed"
+}
