@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.5)]
+[See FDA-Approved Patient Labeling]
 
 A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with PREZISTA.
 A Patient Package Insert for PREZISTA is available for patient information.
@@ -55,5 +55,3 @@ NORVIR® is a registered trademark of its respective owner.
 PREZISTA® is a registered trademark of Tibotec Pharmaceuticals
 
 © Tibotec, Inc. 2006
-
-10101710

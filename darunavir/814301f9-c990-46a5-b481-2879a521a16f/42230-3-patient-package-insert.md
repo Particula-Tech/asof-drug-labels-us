@@ -96,6 +96,7 @@ Do not take or administer PREZISTA:
 | Herbal Product | St. John's wort (Hypericum perforatum) |
 | HMG-CoA Reductase Inhibitors (also known as statins) (to lower cholesterol levels) | lovastatin (Mevacor®, Altoprev®, Advicor®) simvastatin (Zocor®, Simcor®, Vytorin®) |
 | Antimycobacterial (to treat tuberculosis or Mycobacterium avium complex) | rifampin (Rifadin®, Rifater®, Rifamate®, Rimactane®) |
+| PDE-5 inhibitor (to treat pulmonary arterial hypertension) | sildenafil (Revatio®) |
 
 CAN PREZISTA BE TAKEN WITH OTHER MEDICATIONS?
 
@@ -118,6 +119,7 @@ Tell your doctor if you are taking any of the following medicines:
 | Anticoagulants (to treat and prevent blood clots) | warfarin (Coumadin®) |
 | Anticonvulsants (to treat epilepsy and prevent seizures) | carbamazepine (Tegretol®, Carbatrol®) phenobarbital phenytoin (Dilantin®, Phenytek®) |
 | Antidepressants (to treat depression) | trazodone (Desyrel®) desipramine (Norpramin®) |
+| Antigout (to treat gout and familial Mediterranean fever) | colchicine (Colcrys®) |
 | Anti-infectives (to treat bacterial infections) | clarithromycin (Biaxin®) |
 | Antifungals (to treat fungal infections) | ketoconazole (Nizoral®) itraconazole (Sporanox®) voriconazole (Vfend®) |
 | Antimycobacterials (to treat tuberculosis or Mycobacterium avium complex) | rifabutin (Mycobutin®) |
@@ -125,11 +127,14 @@ Tell your doctor if you are taking any of the following medicines:
 | Benzodiazepines (to treat anxiety and/or trouble with sleeping) | midazolam administered by injection |
 | Calcium Channel Blockers (to treat heart disease) | felodipine (Plendil®) nifedipine (Adalat®) nicardipine (Cardene®) |
 | Corticosteroids (to treat inflammation or asthma) | dexamethasone fluticasone (Advair Diskus®, Cutivate®, Flonase®, Flovent Diskus®) |
+| Endothelin receptor antagonist (to treat pulmonary arterial hypertension) | bosentan (Tracleer®) |
 | HMG-CoA Reductase Inhibitors (also known as statins) (to lower cholesterol levels) | atorvastatin (Lipitor®) pravastatin (Pravachol®) rosuvastatin (Crestor®) |
 | Immunosuppressants (to prevent organ transplant rejection) | cyclosporine (Sandimmune®, Neoral®) tacrolimus (Prograf®) sirolimus (Rapamune®) |
+| Inhaled beta agonist | salmeterol (Serevent®) |
 | Narcotic Analgesics/Treatment of Opioid Dependence (to treat narcotic withdrawal and dependence) | methadone buprenorphine/naloxone |
 | Neuroleptics (to treat schizophrenia or bipolar disorder) | risperidone (Risperdal®, Risperdal® Consta®, Risperdal® M-TAB®) thioridazine |
 | PDE-5 Inhibitors (to treat erectile dysfunction) | sildenafil (Viagra®) vardenafil (Levitra®) tadalafil (Cialis®) |
+| PDE-5 Inhibitors (to treat pulmonary arterial hypertension) | tadalafil (Adcirca®) |
 | Selective Serotonin Reuptake Inhibitors (SSRIs) (to treat depression, anxiety, or panic disorder) | paroxetine (Paxil®) sertraline (Zoloft®) |
 
 Tell your doctor if you are taking any medicines that you obtained without a prescription.
@@ -265,6 +270,4 @@ NORVIR® is a registered trademark of its respective owner.
 
 PREZISTA® is a registered trademark of Tibotec Pharmaceuticals
 
-© Tibotec, Inc. 2006 Revised: January 2010
-
-10101710
+© Tibotec, Inc. 2006 Revised: April 2010
