@@ -1,11 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050781"
+  ],
   "inn": "minocycline",
-  "labeler": "Cord Logistics, Inc.",
+  "labeler": "OraPharma, Inc.",
   "package_ndcs": [
+    "65976-100-01",
+    "65976-100-12",
     "65976-100-24"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "minocycline hydrochloride",
+      "name": "Arestin"
+    }
+  ],
   "setid": "8515df41-1936-4f3b-86ba-d2bb2a8441fb",
   "source": "dailymed"
 }

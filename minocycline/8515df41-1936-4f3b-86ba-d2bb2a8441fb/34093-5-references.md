@@ -8,7 +8,3 @@
    Antibiotics in periodontal therapy: advantages and disadvantages.
    J Clin Periodontol.
    1990;17:479-493.
-
-OraPharma, Inc.
-
-04/05 R3
