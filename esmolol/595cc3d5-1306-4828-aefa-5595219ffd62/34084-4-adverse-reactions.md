@@ -2,7 +2,7 @@
 
 The following adverse reaction rates are based on use of BREVIBLOC (Esmolol Hydrochloride) in clinical trials involving 369 patients with supraventricular tachycardia and over 600 intraoperative and postoperative patients enrolled in clinical trials.
 Most adverse effects observed in controlled clinical trial settings have been mild and transient.
-The most important adverse effect has been hypotension (seeWARNINGS).
+The most important adverse effect has been hypotension (see WARNINGS).
 Deaths have been reported in post-marketing experience occurring during complex clinical states where BREVIBLOC was presumably being used simply to control ventricular rate (see WARNINGS, Cardiac Failure).
 
 ## Cardiovascular

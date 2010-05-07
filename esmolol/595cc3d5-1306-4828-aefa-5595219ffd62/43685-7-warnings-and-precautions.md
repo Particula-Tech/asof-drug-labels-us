@@ -13,7 +13,7 @@ Decrease of dose or termination of infusion reverses hypotension, usually within
 Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
 Continued depression of the myocardium with beta blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of impending cardiac failure, BREVIBLOC (Esmolol Hydrochloride) should be withdrawn.
-Although withdrawal may be sufficient because of the short elimination half-life of BREVIBLOC, specific treatment may also be considered (seeOVERDOSAGE).
+Although withdrawal may be sufficient because of the short elimination half-life of BREVIBLOC, specific treatment may also be considered (see OVERDOSAGE).
 The use of BREVIBLOC for control of ventricular response in patients with supraventricular arrhythmias should be undertaken with caution when the patient is compromised hemodynamically or is taking other drugs that decrease any or all of the following: peripheral resistance, myocardial filling, myocardial contractility, or electrical impulse propagation in the myocardium.
 Despite the rapid onset and offset of the effects of BREVIBLOC, several cases of death have been reported in complex clinical states where BREVIBLOC was presumably being used to control ventricular rate.
 
@@ -37,13 +37,8 @@ Beta blockers may mask tachycardia occurring with hypoglycemia, but other manife
 
 ## General
 
-Infusion concentrations of 20 mg/mL were associated with more serious venous irritation, including thrombophlebitis, than concentrations of 10 mg/mL with BREVIBLOC CONCENTRATE, extravasation of 20 mg/mL or higher may lead to a serious local reaction and possible skin necrosis.
-Concentrations greater than 10 mg/mL or infusion into small veins or through a butterfly catheter should be avoided.
-
 Because the acid metabolite of BREVIBLOC is primarily excreted unchanged by the kidney, BREVIBLOC (Esmolol Hydrochloride) should be administered with caution to patients with impaired renal function.
 The elimination half-life of the acid metabolite was prolonged ten-fold and the plasma level was considerably elevated in patients with end‑stage renal disease.
-
-Care should be taken in the intravenous administration of BREVIBLOC CONCENTRATE as sloughing of the skin and necrosis have been reported in association with infiltration and extravasation of intravenous infusions.
 
 ## Drug Interactions
 
@@ -74,11 +69,7 @@ Additionally, BREVIBLOC should not be used to control supraventricular tachycard
 
 Because of its short term usage no carcinogenicity, mutagenicity or reproductive performance studies have been conducted with BREVIBLOC (Esmolol Hydrochloride).
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
+## Pregnancy Category C
 
 Teratogenicity studies in rats at intravenous dosages of BREVIBLOC (Esmolol Hydrochloride) up to 3000 mcg/kg/min (3 mg/kg/min) (ten times the maximum human maintenance dosage) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while a dosage of 10,000 mcg/kg/min (10 mg/kg/min) produced maternal toxicity and lethality.
 In rabbits, intravenous dosages up to 1000 mcg/kg/min (1 mg/kg/min) for 30 minutes daily produced no evidence of maternal toxicity, embryotoxicity or teratogenicity, while 2500 mcg/kg/min (2.5 mg/kg/min) produced minimal maternal toxicity and increased fetal resorptions.

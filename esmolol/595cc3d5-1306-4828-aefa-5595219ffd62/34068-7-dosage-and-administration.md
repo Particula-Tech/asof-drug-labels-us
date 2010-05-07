@@ -24,7 +24,7 @@ There should be no 4th loading dose, but the maintenance dose may be incremented
 
 | Elapsed Time | Loading Dose (over 1 minute) |  | Maintenance Dose (over 4 minutes) |  |
 | --- | --- | --- | --- | --- |
-| (minutes) | micrograms/kg/min | milligrams/kg/min | micrograms/kg/min | milligrams/kg/min |
+| (minutes) | micrograms/ kg/min | milligrams/ kg/min | micrograms/ kg/min | milligrams/ kg/min |
 | 0 – 1 | 500 | 0.5 |  |  |
 | 1 – 5 |  |  | 50 | 0.05 |
 | 5 – 6 | 500 | 0.5 |  |  |
@@ -73,16 +73,18 @@ The use of infusions of BREVIBLOC up to 24 hours has been well documented; in ad
 In the intraoperative and postoperative settings it is not always advisable to slowly titrate the dose of BREVIBLOC (Esmolol Hydrochloride) to a therapeutic effect.
 Therefore, two dosing options are presented: immediate control dosing and a gradual control when the physician has time to titrate.
 
-1.Immediate Control
+1.
+Immediate Control
 
 For intraoperative treatment of tachycardia and/or hypertension give an 80 mg (approximately 1 mg/kg) bolus dose over 30 seconds followed by a 150 mcg/kg/min infusion, if necessary.
 Adjust the infusion rate as required up to 300 mcg/kg/min to maintain desired heart rate and/or blood pressure.
 
-2.Gradual Control
+2.
+Gradual Control
 
 For postoperative tachycardia and hypertension, the dosing schedule is the same as that used in supraventricular tachycardia.
 To initiate treatment, administer a loading dosage infusion of 500 mcg/kg/min of BREVIBLOC for one minute followed by a four-minute maintenance infusion of 50 mcg/kg/min.
-If an adequate therapeutic effect is not observed within five minutes, repeat the same loading dosage and follow with a maintenance infusion increased to 100 mcg/kg/min (see above Supraventricular Tachycardia).
+If an adequate therapeutic effect is not observed within five minutes, repeat the same loading dosage and follow with a maintenance infusion increased to 100 mcg/kg/min (see above SUPRAVENTRICULAR TACHYCARDIA).
 
 Notes:
 
@@ -102,12 +104,10 @@ Brevibloc Premixed Injection (10 mg/mL) 250 mL IntraVia Bag
 
 Brevibloc DOUBLE STRENGTH Premixed Injection (20 mg/mL) 100 mL IntraVia Bag
 
-BREVIBLOC PREMIXED INJECTION (10 mg/mL) and BREVIBLOC DOUBLE STRENGTH PREMIXED INJECTION (20 mg/mL) are provided in ready-to-use, non-latex, non-PVC bags with two PVC ports, a medication port and a delivery port.
-The medication port is to be used solely for withdrawing an initial bolus from the bag; the medication withdrawal port is not intended for repeat bolus administration.
+BREVIBLOC PREMIXED INJECTION (10 mg/mL) and BREVIBLOC DOUBLE STRENGTH PREMIXED INJECTION (20 mg/mL) are provided in ready-to-use, non-latex, non-PVC bags with two PVC ports, a medication port and a delivery port.The medication port is to be used solely for withdrawing an initial bolus from the bag; the medication withdrawal port is not intended for repeat bolus administration.
 The sterility of the premixed bag cannot be assured after repeat withdrawals from the bag.
 The use of aseptic technique is required when withdrawing the bolus dose.
-Do not add any additional medications to BREVIBLOC PREMIXED INJECTION.
-Each bag is for single-patient use only and contains no preservative.
+Do not add any additional medications to BREVIBLOC PREMIXED INJECTION.Each bag is for single-patient use only and contains no preservative.
 It is advised that once drug has been withdrawn from BREVIBLOC PREMIXED INJECTION, the bag should be used within 24 hours, with any unused portion discarded.
 
 The Brevibloc Premixed Injection contains Esmolol Hydrochloride at a concentration of 10 milligrams/mL.
@@ -170,33 +170,27 @@ When using a 10 milligrams/mL concentration, a loading dose of 0.5 mg/kg infused
 The 5 mL DOUBLE STRENGTH Ready-to-use Vial contains Esmolol Hydrochloride at a concentration of 20 milligrams/mL.
 When using a 20 milligrams/mL concentration, a loading dose of 0.5 mg/kg infused over 1 minute period of time, for a 70 kg patient is 1.75 mL.
 
-## Directions for Use of the Brevibloc Concentrate 10 mL Ampul (250 milligrams/mL)
-
-THE 2500 mg AMPUL IS NOT FOR DIRECT INTRAVENOUS INJECTION.
-THIS DOSAGE FORM IS A CONCENTRATED, POTENT DRUG WHICH MUST BE DILUTED PRIOR TO ITS INFUSION.
-BREVIBLOC SHOULD NOT BE ADMIXED WITH SODIUM BICARBONATE.
-BREVIBLOC SHOULD NOT BE MIXED WITH OTHER DRUGS PRIOR TO DILUTION IN A SUITABLE INTRAVENOUS FLUID.(SeeCompatibility Section below.)
-
-Dilution: Aseptically prepare a 10 mg/mL infusion by adding two 2500 mg ampuls to a 500 mL container or one 2500 mg ampul to a 250 mL container of a compatible intravenous solution listed below.
-(Remove overage prior to dilution as appropriate.)
-This yields a final concentration of 10 mg/mL.
-The diluted solution is stable for at least 24 hours at room temperature.
-Note: The use of esmolol with propylene glycol has been associated with a higher incidence of venous irritation at concentrations greater than 10 mg/mL on continued infusion.
-Mixed from the ampul at concentrations of greater than 10 mg/mL BREVIBLOC has, however, been well tolerated when administered via a central vein.
-
 ## Compatibility with Commonly Used Intravenous Fluids
 
 BREVIBLOC was tested for compatibility with ten commonly used intravenous fluids at a final concentration of 10 mg Esmolol Hydrochloride per mL.
 BREVIBLOC was found to be compatible with the following solutions and was stable for at least 24 hours at controlled room temperature or under refrigeration:
 
-- Dextrose (5%) Injection, USP
-- Dextrose (5%) in Lactated Ringer’s Injection
-- Dextrose (5%) in Ringer’s Injection
-- Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
-- Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
-- Lactated Ringer’s Injection, USP
-- Potassium Chloride (40 mEq/liter) in Dextrose (5%) Injection, USP
-- Sodium Chloride (0.45%) Injection, USP
-- Sodium Chloride (0.9%) Injection, USP
+Dextrose (5%) Injection, USP
+
+Dextrose (5%) in Lactated Ringer’s Injection
+
+Dextrose (5%) in Ringer’s Injection
+
+Dextrose (5%) and Sodium Chloride (0.45%) Injection, USP
+
+Dextrose (5%) and Sodium Chloride (0.9%) Injection, USP
+
+Lactated Ringer’s Injection, USP
+
+Potassium Chloride (40 mEq/liter) in Dextrose (5%) Injection, USP
+
+Sodium Chloride (0.45%) Injection, USP
+
+Sodium Chloride (0.9%) Injection, USP
 
 BREVIBLOC is NOT compatible with Sodium Bicarbonate (5%) Injection, USP.

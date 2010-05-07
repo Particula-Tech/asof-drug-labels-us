@@ -78,18 +78,16 @@ Single Patient Use Only
 
 No Preservatives Added
 
-# BREVIBLOC CONCENTRATE
-
-(Esmolol Hydrochloride)
-
-2,500 mg/10 mL (250 mg/mL) Ampuls for Dilution
-
-10 mL Ampuls
-
-NOT FOR DIRECT INTRAVENOUS INJECTION.
-
-Esmolol Hydrochloride concentration = 250 milligrams/mL (250,000 micrograms/mL)
-
-AMPULS MUST BE DILUTED PRIOR TO INFUSION - SEE DOSAGE AND ADMINISTRATION, Directions for Use of the Brevibloc Concentrate 10 mL Ampul (250 milligrams/mL).
-
 Rx only
+
+Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Baxter, Brevibloc, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+Brevibloc (esmolol hydrochloride) and its packaging are protected by one or more of the following: U.S. Pat.
+Nos. 5,849,843; 5,998,019; 6,310,094; 6,528,540; Pat.
+Pending.
+
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+
+MLT-01088/5.0
