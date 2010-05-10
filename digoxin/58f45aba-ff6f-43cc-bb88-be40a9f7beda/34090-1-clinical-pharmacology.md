@@ -22,11 +22,9 @@ Comparisons of the systemic availability and equivalent doses for preparations o
 Table 1.
 Comparisons of the Systemic Availability and Equivalent Doses for Preparations of Digoxin Injection
 
-| Product | AbsoluteBioavailability | Equivalent Doses(mcg)For example, 125 mcg Digoxin Tablets equivalent to 125 mcg Digoxin Elixir Pediatric equivalent to 100 mcg Digoxin Caps equivalent to 100 mcg Digoxin Injection IV.Among Dosage Form |  |  |  |
+| Product | AbsoluteBioavailability | Equivalent Doses(mcg)For example, 125 mcg Digoxin Tablets equivalent to 100 mcg Digoxin Injection IV.Among Dosage Form |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Digoxin Tablets | 60-80% | 62.5 | 125 | 250 | 500 |
-| Digoxin Elixir Pediatric | 70-85% | 62.5 | 125 | 250 | 500 |
-| Digoxin Caps | 90-100% | 50 | 100 | 200 | 400 |
 | Digoxin Injection/IV | 100% | 50 | 100 | 200 | 400 |
 
 ### Distribution
@@ -79,8 +77,6 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Dig
 | Product | Time to onsetof effectDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. | Time to PeakEffect |
 | --- | --- | --- |
 | Digoxin Tablets | 0.5 – 2 hours | 2 – 6 hours |
-| Digoxin Elixir Pediatric | 0.5 – 2 hours | 2 – 6 hours |
-| Digoxin Caps | 0.5 – 2 hours | 2 – 6 hours |
 | Digoxin Injection/IV | 5 – 30 minutesDepending upon rate of infusion. | 1 – 4 hours |
 
 ### Hemodynamic Effects

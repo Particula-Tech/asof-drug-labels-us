@@ -9,17 +9,17 @@ Intramuscular injection can lead to severe pain at the injection site; thus intr
 If the drug must be administered by the intramuscular route, it should be injected deep into the muscle followed by massage.
 No more than 500 mcg (2 mL) should be injected into a single site.
 
-Digoxin injection USP can be administered undiluted or diluted with a 4-fold or greater volume of sterile water for injection, 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
+Digoxin injection can be administered undiluted or diluted with a 4-fold or greater volume of sterile water for injection, 0.9% Sodium Chloride Injection, or 5% Dextrose Injection.
 The use of less than a 4-fold volume of diluent could lead to precipitation of the digoxin.
 Immediate use of the diluted product is recommended.
 
 If tuberculin syringes are used to measure very small doses, one must be aware of the problem of inadvertent overadministration of digoxin.
 The syringe should not be flushed with the parenteral solution after its contents are expelled into an indwelling vascular catheter.
 
-Slow infusion of digoxin injection USP is preferable to bolus administration.
+Slow infusion of digoxin injection is preferable to bolus administration.
 Rapid infusion of digitalis glycosides has been shown to cause systemic and coronary arteriolar constriction, which may be clinically undesirable.
-Caution is thus advised and digoxin injection USP should probably be administered over a period of 5 minutes or longer.
-Mixing of digoxin injection USP with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.
+Caution is thus advised and digoxin injection should probably be administered over a period of 5 minutes or longer.
+Mixing of digoxin injection with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.
 
 In selecting a dose of digoxin, the following factors must be considered:
 
@@ -35,13 +35,11 @@ In selecting a dose of digoxin, the following factors must be considered:
 
 In general, the dose of digoxin used should be determined on clinical grounds.
 However, measurement of serum digoxin concentrations can be helpful to the clinician in determining the adequacy of digoxin therapy and in assigning certain probabilities to the likelihood of digoxin intoxication.
-
-About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2.0 ng/mL.
+About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2.0 ng/mL (lower serum trough concentrations of 0.5 to 1 ng/mL may be appropriate in some adult patients, see Maintenance Dosing).
 However, digoxin may produce clinical benefits even at serum concentrations below this range.
 About two-thirds of adult patients with clinical toxicity have serum digoxin concentrations greater than 2.0 ng/mL.
 However, since one-third of patients with clinical toxicity have concentrations less than 2.0 ng/mL, values below 2.0 ng/mL do not rule out the possibility that a certain sign or symptom is related to digoxin therapy.
 Rarely, there are patients who are unable to tolerate digoxin at serum concentrations below 0.8 ng/mL.
-
 Consequently, the serum concentration of digoxin should always be interpreted in the overall clinical context, and an isolated measurement should not be used alone as the basis for increasing or decreasing the dose of the drug.
 
 To allow adequate time for equilibration of digoxin between serum and tissue, sampling of serum concentrations should be done just before the next scheduled dose of the drug.
@@ -71,8 +69,8 @@ Digitalization may be accomplished by either of two general approaches that vary
 
 ### Rapid Digitalization with a Loading Dose
 
-Digoxin injection USP is frequently used to achieve rapid digitalization, with conversion to digoxin tablets or digoxin caps (Lanoxicaps® – Digoxin Solution in Capsules) for maintenance therapy.
-If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosage (see Table 1, CLINICAL PHARMACOLOGY: Pharmacokinetics and dosing Table 5 below).
+Digoxin injection is frequently used to achieve rapid digitalization, with conversion to digoxin tablets for maintenance therapy.
+If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY: Pharmacokinetics and dosing Table 5 below).
 
 Intramuscular injection of digoxin is extremely painful and offers no advantages unless other routes of administration are contraindicated.
 
@@ -83,9 +81,9 @@ The loading dose should be administered in several portions, with roughly half t
 Additional fractions of this planned total dose may be given at 6 to 8-hour intervals, with careful assessment of clinical response before each additional dose.
 If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given.
 
-A single initial intravenous dose of 400 to 600 mcg (0.4 to 0.6 mg) of digoxin injection USP usually produces a detectable effect in 5 to 30 minutes that becomes maximal in 1 to 4 hours.
+A single initial intravenous dose of 400 to 600 mcg (0.4 to 0.6 mg) of digoxin injection usually produces a detectable effect in 5 to 30 minutes that becomes maximal in 1 to 4 hours.
 Additional doses of 100 to 300 mcg (0.1 to 0.3 mg) may be given cautiously at 6- to 8-hour intervals until clinical evidence of an adequate effect is noted.
-The usual amount of digoxin injection USP that a 70 kg patient requires to achieve 8- to 12 mcg/kg peak body stores is 600 to 1000 mcg (0.6 to 1 mg).
+The usual amount of digoxin injection that a 70 kg patient requires to achieve 8- to 12 mcg/kg peak body stores is 600 to 1000 mcg (0.6 to 1 mg).
 
 ### Maintenance Dosing
 
@@ -95,6 +93,8 @@ Therapy is generally initiated at a dose of 250 mcg (0.25 mg) once daily in pati
 Doses may be increased every 2 weeks according to clinical response.
 
 In a subset of approximately 1800 patients enrolled in the DIG trial (wherein dosing was based on an algorithm similar to that in Table 5) the mean (± SD) serum digoxin concentrations at 1 month and 12 months were 1.01 ± 0.47 ng/mL and 0.97 ± 0.43 ng/mL, respectively.
+There are no rigid guidelines as to the range of serum concentrations that are most efficacious.
+Several post hoc analyses of heart failure patients in the DIG trial suggest that the optimal trough digoxin serum level may be 0.5 ng/mL to 1 ng/mL.
 
 The maintenance dose should be based upon the percentage of the peak body stores lost each day through elimination.
 The following formula has had wide clinical use:
@@ -104,7 +104,7 @@ The following formula has had wide clinical use:
 |  | Where:% Daily Loss = 14 + Ccr/5 |
 |  | (Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.) |
 
-Table 5 provides average daily maintenance dose requirements of digoxin injection USP for patients with heart failure based upon lean body weight and renal function:
+Table 5 provides average daily maintenance dose requirements of digoxin injection for patients with heart failure based upon lean body weight and renal function:
 
 Table 5.
 Usual Daily Maintenance Dose Requirements (mcg) of Digoxin Injection for Estimated Peak Body Stores of 10 mcg/kgDaily maintenance doses have been rounded to the nearest 25 mcg increment.
@@ -124,7 +124,7 @@ Usual Daily Maintenance Dose Requirements (mcg) of Digoxin Injection for Estimat
 | 90 |  | 150 | 200 | 225 | 250 | 300 | 325 | 8 |
 | 100 |  | 175 | 200 | 250 | 275 | 300 | 350 | 7 |
 
-Example: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of digoxin injection USP.
+Example: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of digoxin injection.
 If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days.
 
 ### Infants and Children
@@ -142,6 +142,4 @@ Data are not available to establish the appropriate resting or exercise target r
 
 ## Dosage Adjustment When Changing Preparations
 
-The difference in bioavailability between digoxin injection USP or digoxin solution in capsules (Lanoxicaps®) and digoxin elixir pediatric or digoxin tablets must be considered when changing patients from one dosage form to another.
-
-Doses of 100 mcg (0.1 mg) and 200 mcg (0.2 mg) of digoxin caps are approximately equivalent to125 mcg (0.125 mg) and 250 mcg (0.25 mg) doses of digoxin tablets and elixir pediatric, respectively(see Table 1 in CLINICAL PHARMACOLOGY: Pharmacokinetics).
+The difference in bioavailability between digoxin injection or digoxin tablets must be considered when changing patients from one dosage form to the other.

@@ -17,6 +17,7 @@ The treatment of paroxysmal supraventricular tachycardia in such patients is usu
 Patients with certain disorders involving heart failure associated with preserved left ventricular ejection fraction may be particularly susceptible to toxicity of the drug.
 Such disorders include restrictive cardiomyopathy, constrictive pericarditis, amyloid heart disease, and acute cor pulmonale.
 Patients with idiopathic hypertrophic subaortic stenosis may have worsening of the outflow obstruction due to the inotropic effects of digoxin.
+Digoxin should generally be avoided in these patients, although it has been used for ventricular rate control in the subgroup of patients with atrial fibrillation.
 
 # PRECAUTIONS
 
@@ -49,11 +50,19 @@ Care must be taken to avoid toxicity if digoxin is used.
 Digoxin should be used with caution in patients with acute myocardial infarction.
 The use of inotropic drugs in some patients in this setting may result in undesirable increases in myocardial oxygen demand and ischemia.
 
-## Use during Electrical Cardioversion
+## Use During Electrical Cardioversion
 
 It may be desirable to reduce the dose of digoxin for 1 to 2 days prior to electrical cardioversion of atrial fibrillation to avoid the induction of ventricular arrhythmias, but physicians must consider the consequences of increasing the ventricular response if digoxin is withdrawn.
 If digitalis toxicity is suspected, elective cardioversion should be delayed.
 If it is not prudent to delay cardioversion, the lowest possible energy level should be selected to avoid provoking ventricular arrhythmias.
+
+## Use in Patients With Myocarditis
+
+Digoxin can rarely precipitate vasoconstriction and therefore should be avoided in patients with myocarditis.
+
+## Use in Patients With Beri Beri Heart Disease
+
+Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
 
 ## Laboratory Test Monitoring
 
@@ -73,7 +82,11 @@ There have been inconsistent reports regarding the effects of other drugs (e.g.,
 Thyroid administration to a digitalized, hypothyroid patient may increase the dose requirement of digoxin.
 Concomitant use of digoxin and sympathomimetics increases the risk of cardiac arrhythmias.
 Succinylcholine may cause a sudden extrusion of potassium from muscle cells, and may thereby cause arrhythmias in digitalized patients.
-Although beta-adrenergic blockers or calcium channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in advanced or complete heart block.
+Although calcium channel blockers and digoxin may be useful in combination to control atrial fibrillation, their additive effects on AV node conduction can result in advanced or complete heart block.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
+Digoxin concentrations are increased by about 15% when digoxin and carvedilol are administered concomitantly.
+Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing carvedilol.
 
 Due to the considerable variability of these interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently.
 Furthermore, caution should be exercised when combining digoxin with any drug that may cause a significant deterioration in renal function, since a decline in glomerular filtration or tubular secretion may impair the excretion of digoxin.
@@ -95,7 +108,7 @@ There have been no long-term studies performed in animals to evaluate carcinogen
 #### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with digoxin.
-It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 Digoxin should be given to a pregnant woman only if clearly needed.
 
 ## Nursing Mothers
