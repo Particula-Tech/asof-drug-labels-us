@@ -2,16 +2,16 @@
 
 ## Mortality
 
-The National Heart, Lung, and Blood Institute’s Cardiac Arrhythmia Suppression Trial I (CAST I) was a long-term, multi-center double-blind study in patients with symptomatic, non-life-threatening ventricular arrhythmias, 1 to 103 weeks after acute myocardial infarction.
+The National Heart, Lung, and Blood Institute’s Cardiac Arrhythmia Suppression Trial I (CAST I) was a long-term, multi-center, double-blind study in patients with asymptomatic, non-life-threatening ventricular arrhythmias, 1 to 103 weeks after acute myocardial infarction.
 Patients in CAST I were randomized to receive placebo or individually optimized doses of encainide, flecainide, or moricizine.
 The Cardiac Arrhythmia Suppression Trial II (CAST II) was similar, except that the recruited patients had had their index infarction 4 to 90 days before randomization, patients with left ventricular ejection fractions greater than 40% were not admitted, and the randomized regimens were limited to placebo and moricizine.
 
 CAST I was discontinued after an average time-on-treatment of 10 months, and CAST II was discontinued after an average time-on-treatment of 18 months.
 As compared to placebo treatment, all three active therapies were associated with increases in short-term (14 day) mortality, and encainide and flecainide were associated with significant increases in longer-term mortality as well.
-The longer-term mortality rate associated with moricizine treatment could not be statistically distinguished from that of placebo.
+The longer-term mortality rate associated with moricizine treatment could not be statistically distinguished from that associated with placebo.
 
 The applicability of these results to other populations (e.g., those without recent myocardial infarction) and to other than Class I antiarrhythmic agents is uncertain.
-Sotalol is devoid of Class I effects, and in a large (n = 1,456) controlled trial in patients with a recent myocardial infarction, who did not necessarily have ventricular arrhythmias, sotalol did not produce increased mortality at doses up to 320 mg/day (see Clinical Actions).
+Sotalol hydrochloride is devoid of Class I effects, and in a large (n = 1,456) controlled trial in patients with a recent myocardial infarction, who did not necessarily have ventricular arrhythmias, sotalol did not produce increased mortality at doses up to 320 mg/day (see Clinical Actions).
 On the other hand, in the large post-infarction study using a non-titrated initial dose of 320 mg once daily and in a second small randomized trial in high-risk post-infarction patients treated with high doses (320 mg BID), there have been suggestions of an excess of early sudden deaths.
 
 ## Proarrythmia
@@ -29,13 +29,13 @@ It is clear from the NIH-sponsored CAST (see WARNINGS, Mortality) that some anti
 Overall in clinical trials with sotalol, 4.3% of 3257 patients experienced a new or worsened ventricular arrhythmia.
 Of this 4.3%, there was new or worsened sustained ventricular tachycardia in approximately 1% of patients and torsade de pointes in 2.4%.
 Additionally, in approximately 1% of patients, deaths were considered possibly drug-related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events.
-In patients with a history of sustained ventricular tachycardia, the incidence of torsade de pointes was 4% and worsened VT inabout 1%; in patients with other, less serious, ventricular arrhythmias and supraventricular arrhythmias, the incidence of torsade de pointes was 1% and 1.4%, respectively.
+In patients with a history of sustained ventricular tachycardia, the incidence of torsade de pointes was 4% and worsened VT in about 1%; in patients with other, less serious, ventricular arrhythmias and supraventricular arrhythmias, the incidence of torsade de pointes was 1% and 1.4%, respectively.
 
 Torsade de pointes arrhythmias were dose related, as is the prolongation of QT (QTc) interval, as shown in the table below.
 
-Percent Incidence of Torsade de Pointes and MeanQTc Interval by Dose For Patients With Sustained VT/VF
+Percent Incidence of Torsade de Pointes and Mean QTc Interval by Dose For Patients With Sustained VT/VF
 
-| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QTc* (msec) |
+| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QTchighest on-therapy value (msec) |
 | --- | --- | --- |
 | 80 | 0 (69) | 463 (17) |
 | 160 | 0.5 (832) | 467 (181) |
@@ -43,7 +43,7 @@ Percent Incidence of Torsade de Pointes and MeanQTc Interval by Dose For Patient
 | 480 | 4.4 (459) | 483 (234) |
 | 640 | 3.7 (324) | 490 (185) |
 | > 640 | 5.8 (103) | 512 (62) |
-| () Number of patients assessed* highest on-therapy value |  |  |
+| () Number of patients assessed |  |  |
 
 In addition to dose and presence of sustained VT, other risk factors for torsade de pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval (see table below) and history of cardiomegaly or congestive heart failure.
 Patients with sustained ventricular tachycardia and a history of congestive heart failure appear to have the highest risk for serious proarrhythmia (7%).
@@ -59,14 +59,14 @@ It should be noted, however, that the highest on-therapy QTc was in many cases t
 
 Relationship Between QTc Interval Prolongation and Torsade de Pointes
 
-| On-Therapy QTc Interval (msec) | Incidence of Torsade de Pointes |  | Change in QTc Interval From Baseline (msec) | Incidence of Torsade de Pointes |
-| --- | --- | --- | --- | --- |
-| < 500 | 1.3% (1787) |  | < 65 | 1.6% (1516) |
-| 500 to 525 | 3.4% (236) |  | 65 to 80 | 3.2% (158) |
-| 525 to 550 | 5.6% (125) |  | 80 to 100 | 4.1% (146) |
-| > 550 | 10.8% (157) |  | 100 to 130 | 5.2% (115) |
-|  |  |  | > 130 | 7.1% (99) |
-| () Number of patients assessed |  |  |  |  |
+| On-Therapy QTc Interval (msec) | Incidence of Torsade de Pointes | Change in QTc Interval From Baseline (msec) | Incidence of Torsade de Pointes |
+| --- | --- | --- | --- |
+| < 500 | 1.3% (1787) | < 65 | 1.6% (1516) |
+| 500 to 525 | 3.4% (236) | 65 to 80 | 3.2% (158) |
+| 525 to 550 | 5.6% (125) | 80 to 100 | 4.1% (146) |
+| > 550 | 10.8% (157) | 100 to 130 | 5.2% (115) |
+|  |  | > 130 | 7.1% (99) |
+| () Number of patients assessed |  |  |  |
 
 Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment.
 Proarrhythmic events most often occur within 7 days of initiating therapy or of an increase in dose; 75% of serious proarrhythmias (torsade de pointes and worsened VT) occurred within 7 days of initiating sotalol therapy, while 60% of such events occurred within 3 days of initiation or a dosage change.
@@ -95,7 +95,7 @@ Excessive prolongation of the QT interval (> 550 msec) can promote serious arrhy
 Sinus bradycardia (heart rate less than 50 bpm) occurred in 13% of patients receiving sotalol in clinical trials, and led to discontinuation in about 3% of patients.
 Bradycardia itself increases the risk of torsade de pointes.
 Sinus pause, sinus arrest and sinus node dysfunction occur in less than 1% of patients.
-The incidence of 2nd- or 3rd-degree AV block is approximately 1%.
+The incidence of 2nd or 3rd degree AV block is approximately 1%.
 
 ## Recent Acute MI
 
@@ -121,7 +121,7 @@ Because coronary artery disease is common and may be unrecognized in patients re
 (e.g., chronic bronchitis and emphysema)
 
 PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS.
-It is prudent, if sotalol is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
+It is prudent, if sotalol hydrochloride is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
 
 ## Anaphylaxis
 
@@ -150,9 +150,9 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 
 ## Renal Impairment
 
-Sotalol is mainly eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
+Sotalol hydrochloride is mainly eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
 There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol.
-Guidance for dosing in conditions of renal impairment can be found under “DOSAGE AND ADMINISTRATION”.
+Guidance for dosing in conditions of renal impairment can be found under “DOSAGE AND ADMINISTRATION."
 
 ## Drug Interactions
 
@@ -172,22 +172,22 @@ Additive Class II effects would also be anticipated with the use of other beta-b
 Single and multiple doses of sotalol do not substantially affect serum digoxin levels.
 Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
 
-### Calcium Blocking Agents
+### Calcium-Blocking Drugs
 
-Sotalol should be administered with caution in conjunction with calcium blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function.
+Sotalol should be administered with caution in conjunction with calcium-blocking drugs because of possible additive effects on atrioventricular conduction or ventricular function.
 Additionally, concomitant use of these drugs may have additive effects on blood pressure, possibly leading to hypotension.
 
-### Catecholamine-depleting Agents
+### Catecholamine-Depleting Agents
 
 Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.
-Patients treated with sotalol plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and or marked bradycardia which may produce syncope.
+Patients treated with sotalol plus a catecholamine depletor should therefore be closely monitored for evidence of hypotension and/or marked bradycardia which may produce syncope.
 
 ### Insulin and Oral Antidiabetics
 
 Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment.
 Symptoms of hypoglycemia may be masked.
 
-### Beta-2-receptor Stimulants
+### Beta-2-Receptor Stimulants
 
 Beta-agonists such as salbutamol, terbutaline and isoprenaline may have to be administered in increased dosages when used concomitantly with sotalol.
 
@@ -208,7 +208,7 @@ Administration of the antacid two hours after sotalol has no effect on the pharm
 
 Sotalol should be administered with caution in conjunction with other drugs known to prolong the QT interval such as Class I and Class III antiarrhythmic agents, phenothiazines, tricyclic antidepressants, astemizole, bepridil, certain oral macrolides, and certain quinolone antibiotics (see WARNINGS).
 
-## Drug/Laboratory Test Interactions
+## DRUG/Laboratory Test Interactions
 
 The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
 In screening patients suspected of having a pheochromocytoma and being treated with sotalol, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr.
@@ -222,7 +222,11 @@ Sotalol has not been evaluated in any specific assay of mutagenicity or clastoge
 
 No significant reduction in fertility occurred in rats at oral doses of 1000 mg/kg/day (approximately 100 times the MRHD as mg/kg or 9 times the MRHD as mg/m2) prior to mating, except for a small reduction in the number of offspring per litter.
 
-## Pregnancy Category B
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy category B
 
 Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg/kg (9 and 7 times the MRHD as mg/m2), respectively, did not reveal any teratogenic potential associated with sotalol HCl.
 In rabbits, a high dose of sotalol HCl (160 mg/kg/day) at 16 times the MRHD as mg/kg (6 times the MRHD as mg/m2) produced a slight increase in fetal death likely due to maternal toxicity.
@@ -241,6 +245,5 @@ Because of the potential for adverse reactions in nursing infants from sotalol, 
 
 ## Pediatric Use
 
-The safety and effectiveness of sotalol in pediatric patients have not been established.
-However, information relating to the clinical pharmacology in pediatric patients is approved for Berlex Laboratories’ sotalol hydrochloride tablets.
-Due to Berlex’s marketing exclusivity rights, this drug product is not labeled for pediatric use.
+The safety and effectiveness of sotalol in children have not been established.
+However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 year old (see CLINICAL PHARMACOLOGY).

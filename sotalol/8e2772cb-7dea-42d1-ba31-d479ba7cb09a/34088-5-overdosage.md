@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Intentional or accidental overdosage with sotalol has rarely resulted in death.
+Intentional or accidental overdosage with sotalol hydrochloride has rarely resulted in death.
 
 ## Symptoms and Treatment of Overdosage
 
@@ -17,4 +17,4 @@ In addition, if required, the following therapeutic measures are suggested:
 | Heart Block: | (second and third degree) transvenous cardiac pacemaker. |
 | Hypotension: | (depending on associated factors) epinephrine rather than isoproterenol or norepinephrine may be useful. |
 | Bronchospasm: | Aminophylline or aerosol beta-2-receptor stimulant. |
-| Torsade de pointes: | DC cardioversion, transvenous cardiac pacing, epinephrine, magnesium sulfate. |
+| Torsade de Pointes: | DC cardioversion, transvenous cardiac pacing, epinephrine, magnesium sulfate. |

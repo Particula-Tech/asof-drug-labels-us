@@ -16,14 +16,13 @@ Store at 20o to 25oC (68o to 77oF) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Betapace AFäis a trademark of Berlex.
+Betapace AF™ is a trademark of Berlex.
 
-Manufactured In Israel By:
+Manufactured In Canada By:
 
-TEVA PHARMACEUTICAL IND.
-LID.
+NOVOPHARM LIMITED
 
-Jerusalem, 91010, Israel
+Toronto, Canada M1B 2K9
 
 Manufactured For:
 
@@ -32,4 +31,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-H 3/2005
+J 1/2010

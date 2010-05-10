@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075429"
+  ],
   "inn": "sotalol",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-1060-01",
     "0093-1061-01",
     "0093-1062-01",
     "0093-1063-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "Sotalol Hydrochloride"
+    }
+  ],
   "setid": "8e2772cb-7dea-42d1-ba31-d479ba7cb09a",
   "source": "dailymed"
 }
