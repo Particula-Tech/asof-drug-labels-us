@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-TOPROL-XL is an extended release tablet intended for once daily administration.
-For treatment of hypertension and angina, when switching from immediate release metoprolol to TOPROL-XL, use the same total daily dose of TOPROL-XL.
+TOPROL-XL is an extended-release tablet intended for once daily administration.
+For treatment of hypertension and angina, when switching from immediate-release metoprolol to TOPROL-XL, use the same total daily dose of TOPROL-XL.
 Individualize the dosage of TOPROL-XL.
 Titration may be needed in some patients.
 

@@ -1,35 +1,35 @@
 # 14 CLINICAL STUDIES
 
-In five controlled studies in normal healthy subjects, the same daily doses of TOPROL-XL and immediate release metoprolol were compared in terms of the extent and duration of beta1- blockade produced.
-Both formulations were given in a dose range equivalent to 100-400 mg of immediate release metoprolol per day.
-In these studies, TOPROL-XL was administered once a day and immediate release metoprolol was administered once to four times a day.
+In five controlled studies in normal healthy subjects, the same daily doses of TOPROL-XL and immediate-release metoprolol were compared in terms of the extent and duration of beta1- blockade produced.
+Both formulations were given in a dose range equivalent to 100-400 mg of immediate-release metoprolol per day.
+In these studies, TOPROL-XL was administered once a day and immediate-release metoprolol was administered once to four times a day.
 A sixth controlled study compared the beta1-blocking effects of a 50 mg daily dose of the two formulations.
 In each study, beta1-blockade was expressed as the percent change from baseline in exercise heart rate following standardized submaximal exercise tolerance tests at steady state.
-TOPROL-XL administered once a day, and immediate release metoprolol administered once to four times a day, provided comparable total beta1-blockade over 24 hours (area under the beta1-blockade versus time curve) in the dose range 100-400 mg.
-At a dosage of 50 mg once daily, TOPROL-XL produced significantly higher total beta1-blockade over 24 hours than immediate release metoprolol.
+TOPROL-XL administered once a day, and immediate-release metoprolol administered once to four times a day, provided comparable total beta1-blockade over 24 hours (area under the beta1-blockade versus time curve) in the dose range 100-400 mg.
+At a dosage of 50 mg once daily, TOPROL-XL produced significantly higher total beta1-blockade over 24 hours than immediate-release metoprolol.
 For TOPROL-XL, the percent reduction in exercise heart rate was relatively stable throughout the entire dosage interval and the level of beta1-blockade increased with increasing doses from 50 to 300 mg daily.
 The effects at peak/trough (ie, at 24-hours post-dosing) were: 14/9, 16/10, 24/14, 27/22 and 27/20% reduction in exercise heart rate for doses of 50, 100, 200, 300 and 400 mg TOPROL-XL once a day, respectively.
-In contrast to TOPROL-XL, immediate release metoprolol given at a dose of 50-100 mg once a day produced a significantly larger peak effect on exercise tachycardia, but the effect was not evident at 24 hours.
-To match the peak to trough ratio obtained with TOPROL-XL over the dosing range of 200 to 400 mg, a t.i.d. to q.i.d. divided dosing regimen was required for immediate release metoprolol.
-A controlled cross-over study in heart failure patients compared the plasma concentrations and beta1-blocking effects of 50 mg immediate release metoprolol administered t.i.d., 100 mg and 200 mg TOPROL-XL once daily.
-A 50 mg dose of immediate release metoprolol t.i.d. produced a peak plasma level of metoprolol similar to the peak level observed with 200 mg of TOPROL-XL.
-A 200 mg dose of TOPROL-XL produced a larger effect on suppression of exercise-induced and Holter-monitored heart rate over 24 hours compared to 50 mg t.i.d. of immediate release metoprolol.
+In contrast to TOPROL-XL, immediate-release metoprolol given at a dose of 50-100 mg once a day produced a significantly larger peak effect on exercise tachycardia, but the effect was not evident at 24 hours.
+To match the peak to trough ratio obtained with TOPROL-XL over the dosing range of 200 to 400 mg, a t.i.d. to q.i.d. divided dosing regimen was required for immediate-release metoprolol.
+A controlled cross-over study in heart failure patients compared the plasma concentrations and beta1-blocking effects of 50 mg immediate-release metoprolol administered t.i.d., 100 mg and 200 mg TOPROL-XL once daily.
+A 50 mg dose of immediate-release metoprolol t.i.d. produced a peak plasma level of metoprolol similar to the peak level observed with 200 mg of TOPROL-XL.
+A 200 mg dose of TOPROL-XL produced a larger effect on suppression of exercise-induced and Holter-monitored heart rate over 24 hours compared to 50 mg t.i.d. of immediate-release metoprolol.
 
-In a double-blind study, 1092 patients with mild-to-moderate hypertension were randomized to once daily TOPROL-XL (25, 100, or 400 mg), PLENDIL® (felodipine extended release tablets), the combination, or placebo.
+In a double-blind study, 1092 patients with mild-to-moderate hypertension were randomized to once daily TOPROL-XL (25, 100, or 400 mg), PLENDIL® (felodipine extended-release tablets), the combination, or placebo.
 After 9 weeks, TOPROL-XL alone decreased sitting blood pressure by 6-8/4-7 mmHg (placebo-corrected change from baseline) at 24 hours post-dose.
 The combination of TOPROL-XL with PLENDIL has greater effects on blood pressure.
 
-In controlled clinical studies, an immediate release dosage form of metoprolol was an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics at dosages of 100-450 mg daily.
+In controlled clinical studies, an immediate-release dosage form of metoprolol was an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics at dosages of 100-450 mg daily.
 TOPROL-XL, in dosages of 100 to 400 mg once daily, produces similar β1-blockade as conventional metoprolol tablets administered two to four times daily.
 In addition, TOPROL-XL administered at a dose of 50 mg once daily lowered blood pressure 24-hours post-dosing in placebo-controlled studies.
-In controlled, comparative, clinical studies, immediate release metoprolol appeared comparable as an antihypertensive agent to propranolol, methyldopa, and thiazide-type diuretics, and affected both supine and standing blood pressure.
+In controlled, comparative, clinical studies, immediate-release metoprolol appeared comparable as an antihypertensive agent to propranolol, methyldopa, and thiazide-type diuretics, and affected both supine and standing blood pressure.
 Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to drug plasma concentration, selection of proper dosage requires individual titration.
 
 ## 14.1 Angina Pectoris
 
 By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
 
-In controlled clinical trials, an immediate release formulation of metoprolol has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
+In controlled clinical trials, an immediate-release formulation of metoprolol has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
 The dosage used in these studies ranged from 100 to 400 mg daily.
 TOPROL-XL, in dosages of 100 to 400 mg once daily, has been shown to possess beta-blockade similar to conventional metoprolol tablets administered two to four times daily.
 

@@ -1,4 +1,4 @@
-# WARNING: ISCHEMIC HEART DISEASE
+# WARNING: ISCHEMIC HEART DISEASE:
 
 Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have occurred.
 When discontinuing chronically administered TOPROL-XL, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of 1 - 2 weeks and the patient should be carefully monitored.

@@ -10,5 +10,5 @@ Tablets containing metoprolol succinate equivalent to the indicated weight of me
 | 200 mg | Oval | A/ my | 1094-05 | N/A |
 
 Store at 25°C (77°F).
-Excursions permitted To 15-30°C (59- 86°F).
+Excursions permitted to 15-30°C (59- 86°F).
 (See USP Controlled Room Temperature.)

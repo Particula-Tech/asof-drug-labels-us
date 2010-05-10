@@ -23,7 +23,7 @@ This contrasts with the effect of nonselective beta-blockers, which completely r
 The relationship between plasma metoprolol levels and reduction in exercise heart rate is independent of the pharmaceutical formulation.
 Using an Emax model, the maximum effect is a 30% reduction in exercise heart rate, which is attributed to beta1-blockade.
 Beta1-blocking effects in the range of 30-80% of the maximal effect (approximately 8-23% reduction in exercise heart rate) correspond to metoprolol plasma concentrations from 30-540 nmol/L.
-The relative beta1-selectivity of metoprolol diminishes and blockade or beta2-adrenoceptors increases at plasma concentration above 300 nmol/L.
+The relative beta1-selectivity of metoprolol diminishes and blockade of beta2-adrenoceptors increases at plasma concentration above 300 nmol/L.
 
 Although beta-adrenergic receptor blockade is useful in the treatment of angina, hypertension, and heart failure there are situations in which sympathetic stimulation is vital.
 In patients with severely damaged hearts, adequate ventricular function may depend on sympathetic drive.

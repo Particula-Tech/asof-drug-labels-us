@@ -12,15 +12,11 @@ TOPROL-XL and PLENDIL are trademarks of the AstraZeneca group of companies.
 
 © AstraZeneca 2010
 
-Manufactured for: AstraZeneca LP
+Distributed by: AstraZeneca LP
 
 Wilmington, DE 19850
 
-By: AstraZeneca AB
-
-S-151 85 Södertälje, Sweden
-
-Made in Sweden
+35556–01
 
 Rev.
-01/2010
+04/2010
