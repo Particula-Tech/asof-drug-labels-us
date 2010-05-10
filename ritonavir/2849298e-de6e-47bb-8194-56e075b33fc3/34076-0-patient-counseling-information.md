@@ -73,3 +73,6 @@ Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in pati
 Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
+
+Rev.
+04/2010

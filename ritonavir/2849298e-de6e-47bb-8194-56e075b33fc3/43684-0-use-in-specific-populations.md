@@ -9,9 +9,6 @@ Pregnancy Category B
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Ritonavir produced no effects on fertility in rats at drug exposures approximately 40% (male) and 60% (female) of that achieved with the proposed therapeutic dose.
-Higher dosages were not feasible due to hepatic toxicity.
-
 No treatment related malformations were observed when ritonavir was administered to pregnant rats or rabbits.
 Developmental toxicity observed in rats (early resorptions, decreased fetal body weight and ossification delays and developmental variations) occurred at a maternally toxic dosage at an exposure equivalent to approximately 30% of that achieved with the proposed therapeutic dose.
 A slight increase in the incidence of cryptorchidism was also noted in rats at an exposure approximately 22% of that achieved with the proposed therapeutic dose.

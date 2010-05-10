@@ -1,8 +1,6 @@
 NDC 0074-3333-30
 
-Norvir® Ritonavir Tablets 100 mg
-
-30 Tablets
+Norvir® Ritonavir Tablets 100 mg 30 tablets
 
 Attention Pharmacists and Patients: Tablet formulation.
 Store at room temperature (see side panel).
@@ -15,11 +13,11 @@ Package insert is provided with tear-off patient information.
 
 Rx only Abbott
 
-NDC 0074–1940–63
+NDC 0074-1940-63
 
 Norvir® Ritonavir Oral Solution
 
-80 mg per mL
+80mg per mL
 
 240 mL
 
