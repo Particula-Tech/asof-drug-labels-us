@@ -1,4 +1,4 @@
-Nizoral 2% Shampoo — Front Panel
+Nizoral 2% Shampoo — Front Panel of Bottle
 
 NDC 50458–680–08
 
@@ -20,9 +20,9 @@ Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
 © OMJPI 2004
 
-US - 971374
+US - 974525
 
-Nizoral 2% Shampoo — Rear Panel
+Nizoral 2% Shampoo — Rear Panel of Bottle
 
 NDC 50458–680–08
 
