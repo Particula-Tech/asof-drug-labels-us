@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090317"
+  ],
+  "inn": "metoprolol",
+  "labeler": "Sagent Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "25021-303-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
+  "setid": "f3817543-544a-4afa-ac7c-c1b48c1307c2",
+  "source": "dailymed"
+}
