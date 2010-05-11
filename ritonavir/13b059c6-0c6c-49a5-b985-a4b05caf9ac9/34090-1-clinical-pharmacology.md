@@ -89,8 +89,7 @@ The maximum mean (95% upper confidence bound) time-matched difference in QTcF fr
 Ritonavir 400 mg twice daily resulted in Day 3 ritonavir exposure that was approximately 1.5 fold higher than observed with ritonavir 600 mg twice-daily dose at steady state.
 
 PR interval prolongation was also noted in subjects receiving ritonavir in the same study on Day 3.
-The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir.
-See PRECAUTIONS – PR Interval Prolongation.
+The maximum mean (95% confidence interval) difference from placebo in the PR interval after baseline correction was 22 (25) msec for 400 mg twice-daily ritonavir (See PRECAUTIONS – PR Interval Prolongation).
 
 ### Special Populations
 

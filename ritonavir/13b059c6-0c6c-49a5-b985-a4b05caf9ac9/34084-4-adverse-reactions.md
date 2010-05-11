@@ -173,7 +173,7 @@ Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and H
 | Neutrophils | ≤ 0.5 x 109/L | - | - | - | 6.0 | 8.3 | - |
 | RBC | < 3.0 x 1012/L | 1.8 | - | 5.9 | 18.6 | 24.4 | - |
 | WBC | < 2.5 x 109/L | - | 0.9 | 6.8 | 36.9 | 59.4 | 3.5 |
-| 1 ULN = upper limit of the normal range.- Indicates no events reported. |  |  |  |  |  |  |  |
+| - Indicates no events reported. |  |  |  |  |  |  |  |
 
 ## Pediatrics
 

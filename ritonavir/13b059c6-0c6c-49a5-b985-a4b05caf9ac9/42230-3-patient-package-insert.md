@@ -1,4 +1,4 @@
-# NORVIR® (ritonavir capsules) Soft Gelatin (ritonavir oral solution)
+# NORVIR® (ritonavir capsules) Soft Gelatin
 
 ALERT: Find out about medicines that should NOT be taken with NORVIR.
 Please also read the section "MEDICINES YOU SHOULD NOT TAKE WITH NORVIR."
@@ -137,6 +137,7 @@ Remember to tell your doctor all medicines you are taking or plan to take.
 
 If you are taking PDE5 inhibitors for erectile dysfunction including Viagra® (sildenafil), Cialis® (tadalafil), or Levitra® (vardenafil), your doctor may lower your dose of these medications.
 You should not use sildenafil (Revatio®) with NORVIR if you are being treated for pulmonary arterial hypertension.
+If you are taking AdcircaTM (tadalafil) for pulmonary arterial hypertension, your doctor may change your dose of this medicine.
 
 Before you take Viagra®, Cialis® or Levitra® with NORVIR, talk to your doctor about possible drug interactions and side effects.
 If you take these medications with NORVIR you may be at risk of side effects such as low blood pressure, visual changes, and penile erection lasting more than 4 hours.
@@ -145,6 +146,8 @@ Your doctor can explain these symptoms to you.
 
 - If you are taking Oral contraceptives ("the pill") or the contraceptive patch to prevent pregnancy, you should use a different type of contraception since NORVIR may reduce the effectiveness of oral or patch contraceptives.
 - If you are taking Mycobutin® (rifabutin), your doctor will lower the dose of Mycobutin.
+- If you are taking Colcrys® (colchicine), your doctor will tell you what dose to use.
+- If you are taking Tracleer® (bosentan), your doctor will tell you what dose to use.
 - Other Special Considerations: NORVIR oral solution contains alcohol.
   Talk with your doctor if you are taking or planning to take metronidazole or disulfiram.
   Severe nausea and vomiting can occur.
@@ -240,4 +243,4 @@ Abbott Laboratories
 North Chicago, IL 60064, U.S.A.
 
 Rev.
-11/2009
+04/2010
