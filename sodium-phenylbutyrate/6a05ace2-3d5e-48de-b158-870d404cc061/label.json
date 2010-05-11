@@ -1,12 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020572",
+    "NDA020573"
+  ],
   "inn": "sodium-phenylbutyrate",
-  "labeler": "Ucyclyd Pharma, Inc.",
+  "labeler": "Ucyclyd Pharma Inc.",
   "package_ndcs": [
     "62592-188-64",
     "62592-496-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "sodium phenylbutyrate",
+      "name": "Buphenyl"
+    },
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "Buphenyl"
+    }
+  ],
   "setid": "6a05ace2-3d5e-48de-b158-870d404cc061",
   "source": "dailymed"
 }
