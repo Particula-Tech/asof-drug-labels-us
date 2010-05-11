@@ -6,15 +6,17 @@ Immediate hypersensitivity reactions may occur after administration of ipratropi
 
 ## General
 
-Ipratropium bromide nasal solution 0.06% (Nasal Spray) should be used with caution in patients with narrow-angle glaucoma, prostatic hypertrophy or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
-Cases of precipitation or worsening of narrow-angle glaucoma and acute eye pain have been reported with direct eye contact of ipratropium bromide administered by oral inhalation.
+1. Effects Seen with Anticholinergic Drugs: Ipratropium bromide nasal solution 0.06% (Nasal Spray)should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
+2. Use in Hepatic or Renal Disease: Ipratropium bromide nasal solution 0.06% (Nasal Spray) has not been studied in patients with hepatic or renal insufficiency.
+   It should be used with caution in those patient populations.
 
 ## Information for patients
 
-Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma or eye pain may result if ipratropium bromide nasal solution 0.06% (Nasal Spray) comes into direct contact with the eyes.
+Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, visual halos or colored images in association with red eyes from conjunctival and corneal congestion may result if ipratropium bromide nasal solution 0.06% (Nasal Spray) comes into direct contact with the eyes.
 Patients should be instructed to avoid spraying ipratropium bromide nasal solution 0.06% (Nasal Spray) in or around the eyes.
 Patients who experience eye pain, blurred vision, excessive nasal dryness or episodes of nasal bleeding should be instructed to contact their doctor.
-Patients should be reminded to carefully read and follow the accompanying Patient’s Instructions for Use.
+To ensure proper dosing, patients should be advised not to alter the size of the nasal spray opening.
+Patients should be reminded to carefully read and follow the accompanying Patient's Instructions For Use.
 
 ## Drug interactions
 
@@ -23,7 +25,8 @@ Ipratropium bromide nasal solution 0.06% (Nasal Spray) is minimally absorbed int
 
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
-In two-year oral carcinogenicity studies in rats and mice, ipratropium bromide at oral doses up to 6 mg/kg (approximately 70 and 35 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 45 and 25 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis) showed no carcinogenic activity.
+Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg.
+This dose corresponds in rats and mice to approximately 70 and 35 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 55 and 30 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis.
 Results of various mutagenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test, and chromosome aberration of bone marrow in Chinese hamsters) were negative.
 
 Fertility of male or female rats was unaffected by ipratropium bromide at oral doses up to 50 mg/kg (approximately 600 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).

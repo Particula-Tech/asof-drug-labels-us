@@ -10,8 +10,8 @@ C20H30BrNO3 • H2O Mol.
 Wt.
 430.4
 
-Ipratropium bromide is a white to off-white, crystalline substance.
-It is freely soluble in lower alcohols and water, existing in an ionized state in aqueous solutions, and relatively insoluble in non-polar media.
+Ipratropium bromide is a white to off-white crystalline substance, freely soluble in water and methanol, sparingly soluble in ethanol, and insoluble in non-polar media.
+In aqueous solution, it exists in an ionized state as a quaternary ammonium compound.
 
 Ipratropium bromide nasal solution 0.06% (Nasal Spray) is a metered-dose, manual pump spray unit which delivers 42 mcg ipratropium bromide (on an anhydrous basis) per spray (70 μL) in an isotonic, aqueous solution with pH-adjusted to 4.7.
 It also contains benzalkonium chloride, edetate disodium, sodium chloride, sodium hydroxide, hydrochloric acid, and purified water.

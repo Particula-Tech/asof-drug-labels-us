@@ -3,6 +3,7 @@
 For Symptomatic Relief of Rhinorrhea Associated with the Common Cold: The recommended dose of ipratropium bromide nasal solution 0.06% (Nasal Spray) is two sprays (84 mcg) per nostril three or four times daily (total dose 504 to 672 mcg/day) in adults and children age 12 years and older.
 Optimum dosage varies with response of the individual patient.
 The recommended dose of ipratropium bromide nasal solution 0.06% (Nasal Spray) for children age 5-11 years is two sprays (84 mcg) per nostril three times daily (total dose of 504 mcg/day).
+
 The safety and effectiveness of the use of ipratropium bromide nasal solution 0.06% (Nasal Spray) beyond four days in patients with the common cold have not been established.
 
 For Symptomatic Relief of Rhinorrhea Associated with Seasonal Allergic Rhinitis: The recommended dose of ipratropium bromide nasal solution 0.06% (Nasal Spray) is two sprays (84 mcg) per nostril four times daily (total dose 672 mcg/day) in adults and children age 5 years and older.
@@ -12,3 +13,5 @@ The safety and effectiveness of the use of ipratropium bromide nasal solution 0.
 Initial pump priming requires seven sprays of the pump.
 If used regularly as recommended, no further priming is required.
 If not used for more than 24 hours, the pump will require two sprays, or if not used for more than seven days, the pump will require seven sprays to reprime.
+
+Avoid spraying into eyes.
