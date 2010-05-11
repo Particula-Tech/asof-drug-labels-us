@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION SECTION
 
 Budesonide, the active ingredient of ENTOCORT® EC capsules, is a synthetic corticosteroid.
 It is designated chemically as (RS)-11β, 16α, 17,21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with butyraldehyde.

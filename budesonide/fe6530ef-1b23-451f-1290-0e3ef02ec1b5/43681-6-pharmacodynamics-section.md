@@ -7,7 +7,3 @@ Markers, indirect and direct, of this are cortisol levels in plasma or urine and
 
 Plasma cortisol suppression was compared following five days’ administration of ENTOCORT EC capsules and prednisolone in a crossover study in healthy volunteers.
 The mean decrease in the integrated 0-24 hour plasma cortisol concentration was greater (78%) with prednisolone 20 mg/day compared to 45% with ENTOCORT EC 9 mg/day.
-
-# CLINICAL LABORATORY TEST FINDINGS
-
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to ENTOCORT EC, were reported in ≥1% of patients: hypokalemia, leukocytosis, anemia, hematuria, pyuria, erythrocyte sedimentation rate increased, alkaline phosphatase increased, atypical neutrophils, C-reactive protein increased, and adrenal insufficiency.

@@ -1,83 +1,54 @@
-# HOW SUPPLIED
+# PATIENT PACKAGE INSERT
 
-ENTOCORT EC 3 mg capsules are hard gelatin capsules with an opaque light grey body and an opaque pink cap, coded with ENTOCORT EC 3 mg on the capsule.
-
-They are supplied as follows:
-
-NDC 65483-702-10Bottles of 100
-
-## Storage:
-
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature].
-
-Keep container tightly closed.
-
-ENTOCORT is a trademark of the AstraZeneca group of companies.
-
-PROMETHEUS is a trademark of Prometheus Laboratories Inc.
-
-© AstraZeneca 2005
-
-Manufactured by: AstraZeneca AB
-
-S-151 85 Sodertalje, Sweden
-
-Distributed by:
-
-Prometheus Laboratories Inc.
-
-Sand Diego, CA 92121
-
-Product of Sweden
-
-EN004B05
-
-30029-02
-
-Rev 04/05
-
-## PATIENT INFORMATION
+ENTOCORT ® EC (budesonide) Capsules
 
 Read this information carefully before you begin treatment.
 Read the information you get whenever you get more medicine.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about ENTOCORT EC (EN-toe-cort EE CEE), ask your health care provider (provider).
+If you have any questions about ENTOCORT EC (EN-toe-cort EE-CEE), ask your health care provider (provider).
 Only your provider can determine if ENTOCORT EC is right for you.
 
 What is ENTOCORT EC?
 
-ENTOCORT EC is a medicine to treat mild to moderate Crohn’s Disease in many people.
+ENTOCORT EC is a medicine to treat mild to moderate Crohn’s disease in many people.
 However, it does not work for everyone who takes it.
 ENTOCORT EC is a nonsystemic corticosteroid, which means it works mainly in one area of the body.
 The medicine in ENTOCORT EC is released in the intestine.
 Therefore, it controls the symptoms of Crohn’s disease even though 90% of the drug does not go into the bloodstream.
 Because of this, it causes fewer severe side effects than other corticosteroids.
-(See the end of this Patient Information for information about Crohn’s Disease.)
+(See the end of this Patient Information for information about Crohn’s disease.)
 
 Who should not take ENTOCORT EC?
 
 Do not take ENTOCORT EC if:
 
-- you are breast feeding.
-  Because ENTOCORT EC is carried in human milk, it may harm the baby.
-  Talk with your provider about whether you should stop breast feeding to take ENTOCORT EC or should use another treatment
-- you have had an allergic reaction to ENTOCORT EC or any of its ingredients
+· you have had an allergic reaction to ENTOCORT EC or any of its ingredients
 
 To help your provider decide if ENTOCORT EC is right for you, tell your provider:
 
-- if you had an allergic reaction to any medicine in the past
-- the names of all the prescription and nonprescription medicines you now take.
-  Be sure to tell your provider if you take ketoconazole, which can affect processing of ENTOCORT EC by the liver, steroids such as prednisone, or any other drug that suppresses your immune system
-- if you are pregnant, think you may be pregnant, or plan to get pregnant.
-  Your provider will talk about whether ENTOCORT EC is right for you
-- if you ever had liver problems.
-  Liver problems affect the amount of ENTOCORT EC that stays in your system, and dosage may need to be changed
-- if you are about to have surgery for any reason.
-  Your dosage may need to be changed
-- if you have chicken pox or measles, or any other condition that suppresses the immune system
-- if you or anyone in your family has had diabetes or glaucoma
-- if you ever had tuberculosis, high blood pressure, osteoporosis, ulcers, or cataracts.
+· if you had an allergic reaction to any medicine in the past
+
+· the names of all the prescription and nonprescription medicines you now take.
+Be sure to tell your provider if you take ketoconazole, which can affect processing of ENTOCORT EC by the liver, steroids such as prednisone, or any other drug that suppresses your immune system
+
+· if you are pregnant, think you may be pregnant, or plan to get pregnant.
+Your provider will talk about whether ENTOCORT EC is right for you
+
+· if you are breast feeding talk with your provider because ENTOCORT EC is carried in human milk and it may harm the baby.
+Your provider should tell you whether you should stop breast feeding to take ENTOCORT EC or should use another treatment.
+
+· if you ever had liver problems.
+Liver problems affect the amount of ENTOCORT EC that stays in your system, and dosage may need to be changed
+
+· if you are about to have surgery for any reason.
+Your dosage may need to be changed
+
+· if you have chicken pox or measles, or any other condition that suppresses the immune system
+
+· if you or anyone in your family has had diabetes or glaucoma
+
+· if you ever had tuberculosis, high blood pressure, osteoporosis, ulcers, or cataracts.
 
 How should I take ENTOCORT EC?
 
@@ -109,10 +80,12 @@ These may be signs that you are allergic to the medicine and you may need emerge
 
 Switching from a systemic medicine, like prednisone, to a nonsystemic medicine, such as ENTOCORT EC, can cause allergies controlled by the systemic medicine to come back.
 These allergies may include eczema (a skin disease) or rhinitis (inflammation inside the nose).
-Call your provider if
 
-- your Crohn’s disease symptoms worsen during treatment
-- you notice any side effects or any other symptoms that concern you
+Call your provider if:
+
+· your Crohn’s disease symptoms worsen during treatment
+
+· you notice any side effects or any other symptoms that concern you
 
 These are not all the possible side effects of ENTOCORT EC.
 Ask your provider or pharmacist for a complete listing of all possible side effects of ENTOCORT EC.
@@ -152,12 +125,20 @@ ENTOCORT is a trademark of the AstraZeneca group of companies.
 
 PROMETHEUS is a trademark of Prometheus Laboratories Inc.
 
-© AstraZeneca 2005
+© AstraZeneca 2009
 
-Manufactured by: AstraZeneca AB S-151 85 Sodertalje, Sweden
+Manufactured by:
 
-Distributed by: Prometheus Laboratories Inc. San Diego, CA 92121
+AstraZeneca AB
+
+S-151 85 Södertälje, Sweden
+
+Distributed by:
+
+Prometheus Laboratories Inc.
+
+San Diego, CA 92121
 
 Product of Sweden
 
-EN004B05 30029-02 Rev 04/05
+June 2009

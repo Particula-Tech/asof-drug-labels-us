@@ -61,7 +61,7 @@ In rats, budesonide had no effect on fertility at subcutaneous doses up to 80 mc
 However, it caused a decrease in prenatal viability and viability in pups at birth and during lactation, along with a decrease in maternal body-weight gain, at subcutaneous doses of 20 mcg/kg (approximately 0.02 times the maximum recommended human dose on a body surface area basis) and above.
 No such effects were noted at 5 mcg/kg (approximately 0.005 times the maximum recommended human dose on a body surface area basis).
 
-## Pregnancy:
+## Pregnancy
 
 Teratogenic Effects:Pregnancy Category C: As with other corticosteroids, budesonide was teratogenic and embryocidal in rabbits and rats.
 Budesonide produced fetal loss, decreased pup weights, and skeletal abnormalities at subcutaneous doses of 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
@@ -74,9 +74,19 @@ Such infants should be carefully observed.
 
 ## Nursing Mothers
 
-Glucocorticosteroids are secreted in human milk.
-Because of the potential for adverse reactions in nursing infants from any corticosteroid, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
-The amount of budesonide secreted in breast milk has not been determined.
+The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.1 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
+Breast milk obtained over eight hours post-dose revealed that the maximum budesonide concentration for the 400 and 800 mcg total daily doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after inhalation.
+The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
+Budesonide plasma concentrations obtained from five infants at about 90 minutes after breast feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant).
+
+The recommended daily dose of ENTOCORT EC capsules is higher (up to 9 mg daily) compared with inhaled budesonide (up to 800 μg daily) given to mothers in the above study.
+The maximum budesonide plasma concentration following a 9 mg daily dose (in both single- and repeated-dose pharmacokinetic studies) of oral budesonide is approximately 5-10 nmol/L which is up to 10 times higher than the 1-2 nmol/L for a 800 μg daily dose of inhaled budesonide at steady state in the above inhalation study.
+
+Since there are no data from controlled trials on the use of ENTOCORT EC by nursing mothers or their infants, and because of the potential for serious adverse reactions in nursing infants from ENTOCORT EC, a decision should be made whether to discontinue nursing or to discontinue ENTOCORT EC, taking into account the clinical importance of ENTOCORT EC to the mother.
+
+Budesonide, like other corticosteroids, is secreted in human milk.
+Data from budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother.
+Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of ENTOCORT EC, budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
 
 ## Pediatric Use
 

@@ -13,9 +13,9 @@ One study (Study 1) compared the safety and efficacy of ENTOCORT EC 9 mg qd in t
 At baseline, the median CDAI was 272.
 ENTOCORT EC 9 mg qd resulted in a significantly higher clinical improvement rate at Week 8 than the comparator (Table 1).
 
-Table 1Clinical Improvement Rates (CDAI≤150) After 8 weeks of Treatment
+Table 1 Clinical Improvement Rates (CDAI≤150) After 8 weeks of Treatment
 
-| 9 mg QD | 4.5 mg BID | ComparatorThis drug is not approved for the treatment of Crohn’s disease in the United States. | Placebo | Prednisolone |  |
+| 9 mg QD | 4.5 mg BID | ComparatorThis drug is not approved for the treatment of Crohn's disease in the United States | Placebo | Prednisolone |  |
 | --- | --- | --- | --- | --- | --- |
 | Clinical Study | ENTOCORT EC |  |  |  |  |
 | 1 | 62/91 (69%) |  | 37/83 (45%) |  |  |

@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE & ADMINISTRATION
 
 The recommended adult dosage for the treatment of mild to moderate active Crohn's disease involving the ileum and/or the ascending colon is 9 mg taken once daily in the morning for up to 8 weeks.
 

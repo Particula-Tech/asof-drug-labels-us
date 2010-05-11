@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS & USAGE
 
 ENTOCORT EC is indicated for
 

@@ -4,7 +4,7 @@ Budesonide has a high topical glucocorticosteroid (GCS) activity and a substanti
 The formulation contains granules which are coated to protect dissolution in gastric juice, but which dissolve at pH >5.5, ie, normally when the granules reach the duodenum.
 Thereafter, a matrix of ethylcellulose with budesonide controls the release of the drug into the intestinal lumen in a time-dependent manner.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
 ### Absorption
 
@@ -56,7 +56,7 @@ Intact budesonide is not renally excreted, but metabolites are to a large extent
 However, these metabolites have negligible corticosteroid activity as compared with budesonide (<1/100).
 Thus, patients with impaired renal function taking budesonide are not expected to have an increased risk of adverse effects.
 
-## Drug-Drug Interactions
+### DRUG-DRUG INTERACTIONS
 
 Budesonide is metabolized via CYP3A4.
 Potent inhibitors of CYP3A4 can increase the plasma levels of budesonide severalfold.
