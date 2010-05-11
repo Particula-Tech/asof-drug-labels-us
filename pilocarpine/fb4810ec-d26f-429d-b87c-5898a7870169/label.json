@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020237"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-705-10",
+    "62856-705-30",
+    "62856-775-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hyrochloride",
+      "name": "Salagen"
+    }
+  ],
+  "setid": "fb4810ec-d26f-429d-b87c-5898a7870169",
+  "source": "dailymed"
+}
