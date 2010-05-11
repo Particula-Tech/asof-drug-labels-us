@@ -1,18 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Fluoxetine hydrochloride is contraindicated in patients known to be hypersensitive to it.
+When using fluoxetine and olanzapine in combination, also refer to the Contraindications section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
-## Monoamine Oxidase Inhibitors
+The use of fluoxetine is contraindicated with the following:
 
-There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, fluoxetine should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI.
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks [perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses (see CLINICAL PHARMACOLOGY, Accumulation and slow elimination)] should be allowed after stopping fluoxetine before starting an MAOI.
-
-## Pimozide
-
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
-
-## Thioridazine
-
-Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued (see WARNINGS).
+- Monoamine Oxidase Inhibitors [see Drug Interactions (7.1)]
+- Pimozide [see Drug Interactions (7.9)]
+- Thioridazine [see Drug Interactions (7.9)]

@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Fluoxetine capsules are a psychotropic drug for oral administration.
+Fluoxetine capsules USP is a selective serotonin reuptake inhibitor for oral administration.
 They are also marketed for the treatment of premenstrual dysphoric disorder (Sarafem®, fluoxetine hydrochloride).
 It is designated (±)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine hydrochloride and has the following structural formula:
 
