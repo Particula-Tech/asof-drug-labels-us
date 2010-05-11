@@ -6,8 +6,10 @@ Metoclopramide Injection, USP
 
 10 mg/2 mL (5 mg/mL) of metoclopramide present as the hydrochloride
 
-2 mL Single Dose Vials
+25 x 2 mL Single Dose Vials
 
 For IM or IV Use
 
-25 Vials
+Dispense the accompanying Medication Guide to each patient.
+
+TEVA

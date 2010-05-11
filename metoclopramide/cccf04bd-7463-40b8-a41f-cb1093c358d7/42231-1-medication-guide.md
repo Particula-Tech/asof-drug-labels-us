@@ -2,7 +2,7 @@
 
 You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection, USP and before you get another dose of metoclopramide injection, USP.
 There may be new information.
-If you take another product that contains metoclopramide (such as metoclopramide tablets, metoclopramide ODT, or metoclopramide oral syrup), you should read the Medication Guide that comes with that product.
+If you take another product that contains metoclopramide (such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution), you should read the Medication Guide that comes with that product.
 Some of the information may be different.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment.
 
@@ -83,7 +83,7 @@ Do not start any new medicines while receiving metoclopramide until you talk wit
 
 Especially tell your doctor if you take:
 
-- another medicine that contains metoclopramide, such as metoclopramide tablets, metoclopramide ODT, or metoclopramide oral syrup
+- another medicine that contains metoclopramide, such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution
 - a blood pressure medicine
 - a medicine for depression, especially a Monoamine Oxidase Inhibitor (MAOI)
 - insulin
@@ -114,7 +114,7 @@ Metoclopramide can cause serious side effects, including:
 
 - Abnormal muscle movements.
   See the section "What is the most important information I should know about metoclopramide?"
-- Uncontrolled spasms of your face and neck muscles, or muscles of your bod.y, arms, and legs (dystonia).
+- Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
   These muscle spasms can cause abnormal movements and body positions.
   These spasms usually start within the first 2 days of treatment.
   These spasms happen more often in children and adults under age 30.
@@ -171,7 +171,7 @@ Active ingredient: metoclopramide
 
 Inactive ingredients: sodium chloride, water, hydrochloric acid or sodium hydroxide
 
-Revised October 2009
+Revised April 2010
 
 Manufactured by: Teva Parenteral Medicines, Inc. Irvine, CA 92618
 

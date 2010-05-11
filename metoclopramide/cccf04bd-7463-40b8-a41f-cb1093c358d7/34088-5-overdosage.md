@@ -9,7 +9,7 @@ Similarly, continuous ambulatory peritoneal dialysis does not remove significant
 It is unlikely that dosage would need to be adjusted to compensate for losses through dialysis.
 Dialysis is not likely to be an effective method of drug removal in overdose situations.
 
-Unintentional overdose due to misadministration has been reported in infants and children with the use of metoclopramide syrup.
+Unintentional overdose due to misadministration has been reported in infants and children with the use of metoclopramide oral solution.
 While there was no consistent pattern to the reports associated with these overdoses, events included seizures, extrapyramidal reactions, and lethargy.
 
 Methemoglobinemia has occurred in premature and full-term neonates who were given overdoses of metoclopramide (1-4 mg/kg/day orally, intramuscularly or intravenously for 1-3 or more days).
