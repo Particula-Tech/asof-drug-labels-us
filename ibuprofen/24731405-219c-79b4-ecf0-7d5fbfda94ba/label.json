@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA075682"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-682-01",
+    "55111-682-05",
+    "55111-682-09",
+    "55111-683-01",
+    "55111-683-05",
+    "55111-683-09",
+    "55111-683-30",
+    "55111-683-50",
+    "55111-684-01",
+    "55111-684-05",
+    "55111-684-09",
+    "55111-684-30",
+    "55111-684-50",
+    "55111-684-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ibuprofen",
+      "name": "IBU"
+    }
+  ],
+  "setid": "24731405-219c-79b4-ecf0-7d5fbfda94ba",
+  "source": "dailymed"
+}
