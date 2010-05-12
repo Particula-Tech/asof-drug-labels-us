@@ -4,7 +4,7 @@ In the controlled clinical trials, mild pain (including transient burning and st
 Local pruritus occurred in 4% of these patients.
 In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings.
 
-## Observed During Clinical Practice
+## Observed During Clinical Practice:
 
 Based on clinical practice experience in patients treated with ZOVIRAX Ointment in the US, spontaneously reported adverse events are uncommon.
 Data are insufficient to support an estimate of their incidence or to establish causation.

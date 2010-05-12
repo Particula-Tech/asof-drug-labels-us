@@ -5,6 +5,8 @@ It is supplied as follows:
 
 15-g tubes (NDC 64455-993-94)
 
+30-g tubes (NDC 64455-993-95)
+
 Store at 15° to 25°C (59° to 77°F) in a dry place.
 
 Manufactured by
@@ -15,7 +17,7 @@ for
 
 BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-July 2009 ZVO:2PI
+September 2010 ZVO:3PI
