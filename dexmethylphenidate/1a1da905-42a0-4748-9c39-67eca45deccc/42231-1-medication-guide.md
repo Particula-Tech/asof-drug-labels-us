@@ -138,7 +138,7 @@ SODAS® is a registered trademark of Elan Pharma International Ltd.
 
 This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398, 6,355,656, and 6,635,284.
 
-REV: OCTOBER 2009 T2009-110/T2009-111
+T2010-41/T2009-111
 
 Manufactured for
 

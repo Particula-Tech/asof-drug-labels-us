@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 5 mg
 
@@ -16,7 +16,7 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 10 mg
 
@@ -34,7 +34,7 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 15 mg
 
@@ -52,7 +52,7 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 20 mg
 
@@ -70,7 +70,7 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 30 mg
 
