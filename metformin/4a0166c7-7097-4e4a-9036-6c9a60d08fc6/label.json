@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020357",
+    "NDA021202"
+  ],
   "inn": "metformin",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Bristol-Myers Squibb Company",
   "package_ndcs": [
     "0087-6060-05",
     "0087-6060-10",
@@ -10,7 +13,18 @@
     "0087-6070-05",
     "0087-6071-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "GLUCOPHAGE"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "metformin hydrochloride",
+      "name": "GLUCOPHAGE"
+    }
+  ],
   "setid": "4a0166c7-7097-4e4a-9036-6c9a60d08fc6",
   "source": "dailymed"
 }

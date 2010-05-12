@@ -153,11 +153,3 @@ You can ask your doctor or pharmacist for the information about GLUCOPHAGE and G
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use GLUCOPHAGE or GLUCOPHAGE XR for a condition for which it was not prescribed.
 Do not share your medicine with other people.
-
-GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Myers Squibb Company.
-Other brands listed are the trademarks of their respective owners.
-
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-1125493A8 Rev January 2009

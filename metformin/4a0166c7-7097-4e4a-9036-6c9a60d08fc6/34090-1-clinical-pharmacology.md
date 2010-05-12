@@ -173,12 +173,12 @@ The improvement in glycemic control was achieved at the final study visit with 1
 
 Table 5: Combined GLUCOPHAGE/Insulin vs Placebo/Insulin Summary of Mean Changes from Baseline in HbA1c and Daily Insulin Dose
 
-|  | GLUCOPHAGE/ Insulin (n=26) | Placebo/ Insulin (n=28) | Treatment Difference Mean± SE |
+|  | GLUCOPHAGE/ Insulin (n=26) | Placebo/ Insulin (n=28) | Treatment Difference Mean ± SE |
 | --- | --- | --- | --- |
 | Hemoglobin A1c (%) |  |  |  |
 | Baseline Change at FINAL VISIT | 8.95 –2.10 | 9.32 –1.56 | –0.54 ± 0.43a |
 | Insulin Dose (U/day) |  |  |  |
-| Baseline Change at FINAL VISIT | 93.12 –0.15 | 94.64 15.93 | –16.08± 7.77b |
+| Baseline Change at FINAL VISIT | 93.12 –0.15 | 94.64 15.93 | –16.08 ± 7.77b |
 | a Statistically significant using analysis of covariance with baseline as covariate (p=0.04) Not significant using analysis of variance (values shown in table) |  |  |  |
 | b Statistically significant for insulin (p=0.04) |  |  |  |
 
@@ -190,7 +190,7 @@ In addition, this study demonstrated that the combination of GLUCOPHAGE plus ins
 A 24-week, double-blind, placebo-controlled study of GLUCOPHAGE XR, taken once daily with the evening meal, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0%-10.0%, FPG 126-270 mg/dL).
 Patients entering the study had a mean baseline HbA1c of 8.0% and a mean baseline FPG of 176 mg/dL.
 After 12 weeks treatment, mean HbA1c had increased from baseline by 0.1% and mean FPG decreased from baseline by 2 mg/dL in the placebo group, compared with a decrease in mean HbA1c of 0.6% and a decrease in mean FPG of 23 mg/dL in patients treated with GLUCOPHAGE XR 1000 mg once daily.
-Subsequently, the treatment dose was increased to 1500 mg once daily if HbA1c was≥7.0% but <8.0% (patients with HbA1c ≥8.0% were discontinued from the study).
+Subsequently, the treatment dose was increased to 1500 mg once daily if HbA1c was ≥7.0% but <8.0% (patients with HbA1c ≥8.0% were discontinued from the study).
 At the final visit (24-week), mean HbA1c had increased 0.2% from baseline in placebo patients and decreased 0.6% with GLUCOPHAGE XR.
 
 A 16-week, double-blind, placebo-controlled, dose-response study of GLUCOPHAGE XR, taken once daily with the evening meal or twice daily with meals, was conducted in patients with type 2 diabetes who had failed to achieve glycemic control with diet and exercise (HbA1c 7.0%-11.0%, FPG 126-280 mg/dL).
@@ -221,7 +221,7 @@ Compared with placebo, improvement in glycemic control was seen at all dose leve
 
 A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE (metformin hydrochloride) Tablets, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
 The GLUCOPHAGE dose had not necessarily been titrated to achieve a specific level of glycemic control prior to study entry.
-Patients qualified for the study if HbA1c was≤8.5% and FPG was ≤200 mg/dL.
+Patients qualified for the study if HbA1c was ≤8.5% and FPG was ≤200 mg/dL.
 Changes in glycemic control and body weight are shown in Table 7.
 
 Table 7: Summary of Mean Changes from Baseline* in HbA1c, Fasting Plasma Glucose, and Body Weight at Week 12 and at Final Visit (24-week study)

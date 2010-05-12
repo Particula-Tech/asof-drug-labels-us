@@ -80,7 +80,7 @@ Thereafter, both glucose and glycosylated hemoglobin should be monitored.
 Measurements of glycosylated hemoglobin may be especially useful for evaluating long-term control (see also DOSAGE AND ADMINISTRATION).
 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
-While megaloblasticanemia has rarely been seen with GLUCOPHAGE therapy, if this is suspected, vitamin B12 deficiency should be excluded.
+While megaloblastic anemia has rarely been seen with GLUCOPHAGE therapy, if this is suspected, vitamin B12 deficiency should be excluded.
 
 ## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted with GLUCOPHAGE)
 
