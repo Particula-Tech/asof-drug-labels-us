@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021055"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-602-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "bexarotene",
+      "name": "Targretin"
+    }
+  ],
+  "setid": "1fe10df7-f710-419d-9035-3b4936ada303",
+  "source": "dailymed"
+}
