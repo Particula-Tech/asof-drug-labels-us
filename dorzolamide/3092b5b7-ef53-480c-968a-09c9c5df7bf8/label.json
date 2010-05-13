@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020869"
+  ],
   "inn": "dorzolamide",
-  "labeler": "MERCK & CO., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-3628-36"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dorzolamide hydrochloride and timolol maleate",
+      "name": "COSOPT"
+    }
+  ],
   "setid": "3092b5b7-ef53-480c-968a-09c9c5df7bf8",
   "source": "dailymed"
 }

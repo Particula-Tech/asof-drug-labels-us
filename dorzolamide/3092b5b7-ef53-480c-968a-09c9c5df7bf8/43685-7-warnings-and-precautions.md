@@ -79,7 +79,7 @@ Patients with bronchial asthma, a history of bronchial asthma, severe chronic ob
 (See CONTRAINDICATIONS.)
 
 COSOPT contains dorzolamide (which is a sulfonamide) and, although administered topically, is absorbed systemically.
-Therefore the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration.
+Therefore the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration, including severe skin reactions.
 Patients should be advised that if serious or unusual reactions or signs of hypersensitivity occur, they should discontinue the use of the product (see WARNINGS).
 
 Patients should be advised that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should discontinue use and seek their physician's advice.
@@ -127,7 +127,7 @@ Injectable Epinephrine: (See PRECAUTIONS, General, Anaphylaxis.)
 
 In a two-year study of dorzolamide hydrochloride administered orally to male and female Sprague-Dawley rats, urinary bladder papillomas were seen in male rats in the highest dosage group of 20 mg/kg/day (250 times the recommended human ophthalmic dose).
 Papillomas were not seen in rats given oral doses equivalent to approximately 12 times the recommended human ophthalmic dose.
-No treatment-related tumors were seen in a 21 month study in female and male mice given oral doses up to 75 mg/kg/day (~900 times the recommended human ophthalmic dose).
+No treatment-related tumors were seen in a 21-month study in female and male mice given oral doses up to 75 mg/kg/day (~900 times the recommended human ophthalmic dose).
 
 The increased incidence of urinary bladder papillomas seen in the high-dose male rats is a class-effect of carbonic anhydrase inhibitors in rats.
 Rats are particularly prone to developing papillomas in response to foreign bodies, compounds causing crystalluria, and diverse sodium salts.
@@ -155,7 +155,7 @@ Reproduction and fertility studies in rats with either timolol maleate or dorzol
 
 ## Pregnancy
 
-## Teratogenic Effects
+### Teratogenic Effects
 
 Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
 These malformations occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased fetal weights.

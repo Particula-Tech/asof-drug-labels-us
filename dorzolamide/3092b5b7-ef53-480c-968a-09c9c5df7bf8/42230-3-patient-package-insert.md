@@ -1,6 +1,6 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# PATIENT PACKAGE INSERT
 
-Patient Information about COSOPT®Registered trademark of MERCK & CO., Inc., COPYRIGHT © 2005 MERCK & CO., Inc., All rights reserved (dorzolamide hydrochloride–timolol maleate ophthalmic solution) COSOPT (pronounced “CO-sopt”)
+Patient Information about COSOPT®Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (dorzolamide hydrochloride–timolol maleate ophthalmic solution) COSOPT (pronounced “CO-sopt”)
 
 Read this information before you start using COSOPT and each time you refill your prescription.
 This is in case any information has changed.
@@ -10,7 +10,7 @@ This leaflet does not take the place of careful discussions with your doctor.
 You and your doctor should discuss COSOPT when you start using your medicine and at regular checkups.
 Only your doctor can prescribe COSOPT for you.
 
-### What is COSOPT?
+## What is COSOPT?
 
 COSOPT is an eyedrop.
 It contains dorzolamide hydrochloride, which is an ophthalmic carbonic anhydrase inhibiting drug.
@@ -20,7 +20,7 @@ Both drugs work to lower pressure in the eye, but in different ways.
 COSOPT is a medicine for lowering pressure in the eye in people with open-angle glaucoma or ocular hypertension.
 It is used when a beta-blocker eyedrop alone is not adequate to control eye pressure.
 
-### What should I know about high pressure in the eye?
+## What should I know about high pressure in the eye?
 
 People with open-angle glaucoma or ocular hypertension have pressures in one or both of their eye(s) that are too high for them.
 
@@ -30,7 +30,7 @@ There generally are few symptoms that you can feel to tell you whether you have 
 Your doctor needs to examine your eyes to determine this.
 If you have high pressure in your eye, you will need your pressure checked and your eyes examined regularly.
 
-### Who should not use COSOPT?
+## Who should not use COSOPT?
 
 Do not use COSOPT if you have:
 
@@ -42,7 +42,7 @@ Do not use COSOPT if you have:
 
 If you are not sure whether you should use COSOPT, contact your doctor or pharmacist.
 
-### What should I tell my doctor before and during treatment with COSOPT?
+## What should I tell my doctor before and during treatment with COSOPT?
 
 Tell your doctor:
 
@@ -56,7 +56,7 @@ Tell your doctor:
 - if you develop an eye infection, develop a red or swollen eye or eyelid, receive an eye injury, have eye surgery, or develop new or worsening eye symptoms,
 - if you plan on having any type of surgery.
 
-### How should I use COSOPT?
+## How should I use COSOPT?
 
 COSOPT is an eyedrop.
 The usual dose is one drop in the morning and one drop in the evening.
@@ -76,7 +76,7 @@ The bottle may become contaminated with bacteria.
 This can cause eye infections leading to serious damage to the eye, even loss of vision.
 Keep the tip of the bottle away from contact with any surface to avoid contamination.
 
-### INSTRUCTIONS FOR USE
+## INSTRUCTIONS FOR USE
 
 Please follow these instructions carefully when using COSOPT.
 Use COSOPT as prescribed by your doctor.
@@ -105,7 +105,7 @@ Use COSOPT as prescribed by your doctor.
     You should not be concerned since an extra amount of COSOPT has been added and you will get the full amount of COSOPT that your doctor prescribed.
     Do not attempt to remove excess medicine from the bottle.
 
-### Can I use COSOPT with other medicines?
+## Can I use COSOPT with other medicines?
 
 Tell your doctor or pharmacist about all drugs that you are using or plan to use.
 This includes other eyedrops and drugs obtained without a prescription.
@@ -125,7 +125,7 @@ Ask your doctor’s advice about taking COSOPT if you are also using:
 
 Your doctor or pharmacist can tell you if any of the drugs you are using are in the above list.
 
-### What are the possible side effects of COSOPT?
+## What are the possible side effects of COSOPT?
 
 Any medicine may have unintended or undesirable effects.
 These are called side effects.
@@ -133,45 +133,46 @@ Side effects may not occur, but if they do occur, you may need medical attention
 The most common side effects you may experience are:
 
 - eye symptoms such as burning and stinging, redness of the eye(s), blurred vision, tearing or itching.
-- a bitter, sour or unusual taste after putting in your eye drops.
+- a bitter, sour or unusual taste after putting in your eyedrops.
 
 Other side effects may occur rarely, and some of these may be serious.
 Tell your doctor right away if you experience:
 
 - shortness of breath
 - visual changes
-- an irregular heartbeat and/or a slowing of your heart rate.
+- an irregular heartbeat and/or a slowing of your heart rate
+- severe skin reactions
 
 The above list is NOT a complete list of side effects reported with COSOPT.
 Your doctor can discuss with you a more complete list of side effects.
 Please tell your doctor [or pharmacist] promptly about any of these or any other unusual symptom.
 
-### What should I do in case of an overdose?
+## What should I do in case of an overdose?
 
 If you swallow the contents of the bottle, contact your doctor immediately.
 Among other effects, you may feel light-headed, have difficulty breathing, or feel your heart rate has slowed.
 
-### How should I store COSOPT?
+## How should I store COSOPT?
 
 Keep your medicine in a safe place where children cannot reach it.
 Store COSOPT at room temperature (59-86°F, 15-30°C).
 Protect the bottle from light.
 Do not use your medicine after the expiration date on the bottle.
 
-### What else should I know about COSOPT?
+## What else should I know about COSOPT?
 
 Do not use COSOPT for a condition for which it was not prescribed.
 Do not give COSOPT to other people, even if they have the same condition you have.
 It may harm them.
 
-### Inactive ingredients:
+## Inactive ingredients:
 
 The inactive ingredients of COSOPT are sodium citrate, hydroxyethylcellulose, sodium hydroxide, mannitol, water for injection and benzalkonium chloride added as a preservative.
 
-Issued July 2008
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
+Issued December 2009
 
-9711303
+9711305
 
-309A-07/08 516023Z
+219A-12/09 516149Z

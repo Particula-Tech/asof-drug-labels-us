@@ -31,12 +31,12 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of COSOPT, please consult your doctor.
 
-Manuf. for: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret, 63963 Clermont-Ferrand Cedex 9, France
+By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
-Issued July 2008
+Issued December 2009
 
-9711303
+9711305
 
-309A-07/08 516023Z
+219A-12/09 516149Z

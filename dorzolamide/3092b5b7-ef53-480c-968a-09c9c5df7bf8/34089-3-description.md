@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-COSOPTRegistered trademark of MERCK & CO., Inc., COPYRIGHT © 1998, 2004, 2005 MERCK & CO., Inc., All rights reserved (dorzolamide hydrochloride-timolol maleate ophthalmic solution) is the combination of a topical carbonic anhydrase inhibitor and a topical beta-adrenergic receptor blocking agent.
+COSOPT Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1998, 2004, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (dorzolamide hydrochloride-timolol maleate ophthalmic solution) is the combination of a topical carbonic anhydrase inhibitor and a topical beta-adrenergic receptor blocking agent.
 
-Dorzolamide hydrochloride is described chemically as: (4S- trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H -thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
+Dorzolamide hydrochloride is described chemically as: (4S-trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
 Dorzolamide hydrochloride is optically active.
 The specific rotation is:
 
@@ -15,7 +15,7 @@ Its empirical formula is C10H16N2O4S3•HCl and its structural formula is:
 Dorzolamide hydrochloride has a molecular weight of 360.91.
 It is a white to off-white, crystalline powder, which is soluble in water and slightly soluble in methanol and ethanol.
 
-Timolol maleate is described chemically as: (-)-1-(tert -butylamino)-3-[(4-morpholino-1,2,5-thiadiazol-3-yl)oxy]-2-propanol maleate (1:1) (salt).
+Timolol maleate is described chemically as: (-)-1-(tert-butylamino)-3-[(4-morpholino-1,2,5-thiadiazol-3-yl)oxy]-2-propanol maleate (1:1) (salt).
 Timolol maleate possesses an asymmetric carbon atom in its structure and is provided as the levo-isomer.
 The optical rotation of timolol maleate is:
 
