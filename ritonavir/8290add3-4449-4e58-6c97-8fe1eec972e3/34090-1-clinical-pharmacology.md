@@ -17,7 +17,7 @@ Therefore, the antiviral activity of KALETRA is due to lopinavir.
 Figure 1 displays the mean steady-state plasma concentrations of lopinavir and ritonavir after KALETRA 400/100 mg twice daily with food for 3 weeks from a pharmacokinetic study in HIV-1 infected adult subjects (n = 19).
 
 Figure 1.
-Mean Steady-state Plasma Concentrations with 95% Confidence Intervals (CI) for HIV-1 Infected Adult Subjects (N = 19)
+Mean Steady-State Plasma Concentrations with 95% Confidence Intervals (CI) for HIV-1 Infected Adult Subjects (N = 19)
 
 Absorption In a pharmacokinetic study in HIV-1 positive subjects (n = 19), multiple dosing with 400/100 mg KALETRA twice daily with food for 3 weeks produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 9.8 ± 3.7 µg/mL, occurring approximately 4 hours after administration.
 The mean steady-state trough concentration prior to the morning dose was 7.1 ± 2.9 µg/mL and minimum concentration within a dosing interval was 5.5 ± 2.7 µg/mL.
@@ -58,6 +58,9 @@ KALETRA 800/200 mg was administered in combination with emtricitabine 200 mg and
 Multiple dosing of 800/200 mg KALETRA once daily for 4 weeks with food (n = 24) produced a mean ± SD lopinavir peak plasma concentration (Cmax) of 11.8 ± 3.7 µg/mL, occurring approximately 6 hours after administration.
 The mean steady-state lopinavir trough concentration prior to the morning dose was 3.2 ± 2.1 µg/mL and minimum concentration within a dosing interval was 1.7 ± 1.6 µg/mL.
 Lopinavir AUC over a 24 hour dosing interval averaged 154.1 ± 61.4 µg• h/mL.
+
+The pharmacokinetics of once daily KALETRA has also been evaluated in treatment experienced HIV-1 infected subjects.
+Lopinavir exposure (Cmax, AUC[0-24h], Ctrough) with once daily KALETRA administration in treatment experienced subjects is comparable to the once daily lopinavir exposure in treatment naïve subjects.
 
 Effects on Electrocardiogram
 
@@ -169,7 +172,7 @@ Drug Interactions: Pharmacokinetic Parameters for co-administered Drug in the Pr
 | Rifabutin + 25-O-desacetyl rifabutin4 |  |  |  | 3.46 (3.07, 3.91) | 5.73 (5.08, 6.46) | 9.53 (7.56, 12.01) |
 | Rosuvastatin5 | 20 mg once daily, 7 d | 400/100 tablet twice daily, 7 d | 15 | 4.66 (3.4, 6.4) | 2.08 (1.66, 2.6) | 1.04 (0.9, 1.2) |
 | Tenofovir6 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | 1.32 (1.26, 1.38) | 1.51 (1.32, 1.66) |
-| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated.1 Ratio of parameters for amprenavir, indinavir, and nelfinavir, are not normalized for dose.2 Desipramine is a probe substrate for assessing effects on CYP2D6-mediated metabolism.3 Data extracted from the fosamprenavir package insert.4 Effect on the dose-normalized sum of rifabutin parent and 25-O -desacetyl rifabutin active metabolite.5 Data extracted from the rosuvastatin package insert and results presented at the 2007 Conference on Retroviruses and Opportunistic Infection (Hoody, et al, abstract L-107, poster #564).6 Data extracted from the tenofovir package insert.* Parallel group design; n for KALETRA + co-administered drug, n for co-administered drug alone.N/A = Not available.† NC = No change. |  |  |  |  |  |  |
+| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated.1 Ratio of parameters for amprenavir, indinavir, and nelfinavir, are not normalized for dose.2 Desipramine is a probe substrate for assessing effects on CYP2D6-mediated metabolism.3 Data extracted from the fosamprenavir package insert.4 Effect on the dose-normalized sum of rifabutin parent and 25-O-desacetyl rifabutin active metabolite.5 Data extracted from the rosuvastatin package insert and results presented at the 2007 Conference on Retroviruses and Opportunistic Infection (Hoody, et al, abstract L-107, poster #564).6 Data extracted from the tenofovir package insert.* Parallel group design; n for KALETRA + co-administered drug, n for co-administered drug alone.N/A = Not available.† NC = No change. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -181,7 +184,7 @@ Antiviral Activity
 
 The antiviral activity of lopinavir against laboratory HIV strains and clinical HIV-1 isolates was evaluated in acutely infected lymphoblastic cell lines and peripheral blood lymphocytes, respectively.
 In the absence of human serum, the mean 50% effective concentration (EC50) values of lopinavir against five different HIV-1 subtype B laboratory strains ranged from 10-27 nM (0.006-0.017 µg/mL, 1 µg/mL = 1.6 µM) and ranged from 4-11 nM (0.003-0.007 µg/mL) against several HIV-1 subtype B clinical isolates (n = 6).
-In the presence of 50% human serum, the mean EC50 values of lopinavir against these five HIV-1 laboratory strains ranged from 65-289 nM (0.04-0.18 µg/mL), representing a 7- to 11-fold attenuation.
+In the presence of 50% human serum, the mean EC50 values of lopinavir against these five HIV-1 laboratory strains ranged from 65-289 nM (0.04-0.18 µg/mL), representing a 7 to 11-fold attenuation.
 Combination antiviral drug activity studies with lopinavir in cell cultures demonstrated additive to antagonistic activity with nelfinavir and additive to synergistic activity with amprenavir, atazanavir, indinavir, saquinavir and tipranavir.
 The EC50 values of lopinavir against three different HIV-2 strains ranged from 12-180 nM (0.008-113 μg/mL).
 
@@ -201,7 +204,7 @@ In studies of 227 antiretroviral treatment naïve and protease inhibitor experie
 Three of these patients had previously received treatment with a single protease inhibitor (indinavir, nelfinavir, or saquinavir) and one patient had received treatment with multiple protease inhibitors (indinavir, ritonavir, and saquinavir).
 All four of these patients had at least 4 substitutions associated with protease inhibitor resistance immediately prior to KALETRA therapy.
 Following viral rebound, isolates from these patients all contained additional substitutions, some of which are recognized to be associated with protease inhibitor resistance.
-However, there are insufficient data at this time to identify patterns of lopinavir-associated substitutions in isolates from patients on KALETRA therapy.
+However, there are insufficient data at this time to identify patterns of lopinavir resistance-associated substitutions in isolates from patients on KALETRA therapy.
 The assessment of these patterns is under study.
 
 Cross-resistance - Preclinical Studies
@@ -219,7 +222,8 @@ Clinical Studies - Antiviral Activity of KALETRA in Patients with Previous Prote
 The clinical relevance of reduced susceptibility in cell culture to lopinavir has been examined by assessing the virologic response to KALETRA therapy in treatment-experienced patients, with respect to baseline viral genotype in three studies and baseline viral phenotype in one study.
 
 Virologic response to KALETRA has been shown to be affected by the presence of three or more of the following amino acid substitutions in protease at baseline: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V.
-Table 12 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance mutations at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
+Table 12 shows the 48-week virologic response (HIV-1 RNA <400 copies/mL) according to the number of the above protease inhibitor resistance-associated substitutions at baseline in studies 888 and 765 [see Clinical Studies (14.2) and (14.3)] and study 957 (see below).
+Once daily administration of KALETRA for adult patients with three or more of the above substitutions is not recommended.
 
 Table 12.
 Virologic Response (HIV-1 RNA <400 copies/mL) at Week 48 by Baseline KALETRA Susceptibility and by Number of Protease Substitutions Associated with Reduced Response to KALETRA1
@@ -228,7 +232,7 @@ Virologic Response (HIV-1 RNA <400 copies/mL) at Week 48 by Baseline KALETRA Sus
 | --- | --- | --- | --- |
 | 0-2 | 76/103 (74%) | 34/45 (76%) | 19/20 (95%) |
 | 3-5 | 13/26 (50%) | 8/11 (73%) | 18/26 (69%) |
-| 6 or more | 0/1 (0%) | n/a | 1/4 (25%) |
+| 6 or more | 0/1 (0%) | N/A | 1/4 (25%) |
 | 1 Substitutions considered in the analysis included L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V.2 43% indinavir, 42% nelfinavir, 10% ritonavir, 15% saquinavir.3 41% indinavir, 38% nelfinavir, 4% ritonavir, 16% saquinavir.4 86% indinavir, 54% nelfinavir, 80% ritonavir, 70% saquinavir. |  |  |  |
 
 Virologic response to KALETRA therapy with respect to phenotypic susceptibility to lopinavir at baseline was examined in Study 957.

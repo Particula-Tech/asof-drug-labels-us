@@ -2,9 +2,9 @@
 
 ## 14.1 Patients Without Prior Antiretroviral Therapy
 
-Study 863: KALETRA Capsules twice daily + stavudine + lamivudine compared to nelfinavir three-times daily + stavudine + lamivudine
+Study 863: KALETRA Capsules twice daily + stavudine + lamivudine compared to nelfinavir three times daily + stavudine + lamivudine
 
-Study 863 was a randomized, double-blind, multicenter trial comparing treatment with KALETRA capsules (400/100 mg twice daily) plus stavudine and lamivudine versus nelfinavir (750 mg three-times daily) plus stavudine and lamivudine in 653 antiretroviral treatment naïve patients.
+Study 863 was a randomized, double-blind, multicenter trial comparing treatment with KALETRA capsules (400/100 mg twice daily) plus stavudine and lamivudine versus nelfinavir (750 mg three times daily) plus stavudine and lamivudine in 653 antiretroviral treatment naïve patients.
 Patients had a mean age of 38 years (range: 19 to 84), 57% were Caucasian, and 80% were male.
 Mean baseline CD4+ cell count was 259 cells/mm3 (range: 2 to 949 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.9 log10 copies/mL (range: 2.6 to 6.8 log10 copies/mL).
 
@@ -57,7 +57,7 @@ Outcomes of Randomized Treatment Through Week 48 (Study 730)
 | Outcome | KALETRA Once Daily + TDF + FTC (n = 333) | KALETRA Twice Daily + TDF + FTC (n = 331) |
 | --- | --- | --- |
 | Responder1 | 78% | 77% |
-| Virologic failure2 Rebounded Never suppressed through Week 48 | 10% 5% 5% | 8% 5% 3% |
+| Virologic failure2 Rebound Never suppressed through Week 48 | 10% 5% 5% | 8% 5% 3% |
 | Death | 1% | <1% |
 | Discontinued due to adverse events | 4% | 3% |
 | Discontinued for other reasons3 | 8% | 11% |
@@ -72,7 +72,7 @@ Study 888: KALETRA Capsules twice daily + nevirapine + NRTIs compared to investi
 
 Study 888 was a randomized, open-label, multicenter trial comparing treatment with KALETRA capsules (400/100 mg twice daily) plus nevirapine and nucleoside reverse transcriptase inhibitors versus investigator-selected protease inhibitor(s) plus nevirapine and nucleoside reverse transcriptase inhibitors in 288 single protease inhibitor-experienced, non-nucleoside reverse transcriptase inhibitor (NNRTI)-naïve patients.
 Patients had a mean age of 40 years (range: 18 to 74), 68% were Caucasian, and 86% were male.
-Mean baseline CD4+cell count was 322 cells/mm3 (range: 10 to 1059 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.1 log10 copies/mL (range: 2.6 to 6.0 log10 copies/mL).
+Mean baseline CD4+ cell count was 322 cells/mm3 (range: 10 to 1059 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.1 log10 copies/mL (range: 2.6 to 6.0 log10 copies/mL).
 
 Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 17.
 
@@ -82,8 +82,7 @@ Outcomes of Randomized Treatment Through Week 48 (Study 888)
 | Outcome | KALETRA + nevirapine + NRTIs (n = 148) | Investigator-Selected Protease Inhibitor(s) + nevirapine + NRTIs (n = 140) |
 | --- | --- | --- |
 | Responder1 | 57% | 33% |
-| Virologic failure2 | 24% | 41% |
-| Rebound Never suppressed through Week 48 | 11% 13% | 19% 23% |
+| Virologic failure2 Rebound Never suppressed through Week 48 | 24% 11% 13% | 41% 19% 23% |
 | Death | 1% | 2% |
 | Discontinued due to adverse events | 5% | 11% |
 | Discontinued for other reasons3 | 14% | 13% |
@@ -92,6 +91,32 @@ Outcomes of Randomized Treatment Through Week 48 (Study 888)
 Through 48 weeks of therapy, there was a statistically significantly higher proportion of patients in the KALETRA arm compared to the investigator-selected protease inhibitor(s) arm with HIV-1 RNA < 400 copies/mL (57% vs. 33%, respectively).
 
 Through 48 weeks of therapy, the mean increase from baseline in CD4+ cell count was 111 cells/mm3 for the KALETRA arm and 112 cells/mm3 for the investigator-selected protease inhibitor(s) arm.
+
+Study 802: KALETRA Tablets 800/200 mg Once Daily Versus 400/100 mg Twice Daily when Coadministered with Nucleoside/Nucleotide Reverse Transcriptase Inhibitors in Antiretroviral-Experienced, HIV-1 Infected Subjects
+
+M06-802 was a randomized open-label study comparing the safety, tolerability, and antiviral activity of once daily and twice daily dosing of KALETRA tablets in 599 subjects with detectable viral loads while receiving their current antiviral therapy.
+Of the enrolled subjects, 55% on both treatment arms had not been previously treated with a protease inhibitor and 81 – 88% had received prior NNRTIs as part of their anti-HIV treatment regimen.
+Patients were randomized in a 1:1 ratio to receive either KALETRA 800/200 mg once daily (n = 300) or KALETRA 400/100 mg twice daily (n = 299).
+Patients were administered at least two nucleoside/nucleotide reverse transcriptase inhibitors selected by the investigator.
+Mean age of patients enrolled was 41 years (range: 21 to 73); 51% were Caucasian, and 66% were male.
+Mean baseline CD4+ cell count was 254 cells/mm3 (range: 4 to 952 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.3 log10 copies/mL (range: 1.7 to 6.6 log10 copies/mL).
+
+Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 18.
+
+Table 18.
+Outcomes of Randomized Treatment Through Week 48 (Study 802)
+
+| Outcome | KALETRA Once Daily + NRTIs (n = 300) | KALETRA Twice Daily + NRTIs (n = 299) |
+| --- | --- | --- |
+| Virologic Success (HIV-1 RNA <50 copies/mL) | 57% | 54% |
+| Virologic failure1 | 22% | 24% |
+| No virologic data in Week 48 window |  |  |
+| Discontinued study due to adverse event or death2 | 5% | 7% |
+| Discontinued study for other reasons3 | 13% | 12% |
+| Missing data during window but on study | 3% | 3% |
+| 1 Includes patients who discontinued prior to Week 48 for lack or loss of efficacy and patients with HIV-1 RNA ≥ 50 copies/mL at Week 48. 2 Includes patients who discontinued due to adverse events or death at any time from Day 1 through Week 48 if this resulted in no virologic data on treatment at Week 48. 3 Includes withdrawal of consent, loss to follow-up, non-compliance, protocol violation and other reasons. |  |  |
+
+Through 48 weeks of treatment, the mean change from baseline for CD4 + cell count was 135 cells/mm3 for the once daily group and 122 cells/mm3 for the twice daily group.
 
 ## 14.3 Other Studies Supporting Approval
 
@@ -104,10 +129,10 @@ Mean (range) baseline CD4+ cell counts for patients in study 720 and study 765 w
 Mean (range) baseline plasma HIV-1 RNA levels for patients in study 720 and study 765 were 4.9 (3.3 to 6.3) and 4.0 (2.9 to 5.8) log10 copies/mL, respectively.
 
 Through 360 weeks of treatment in study 720, the proportion of patients with HIV-1 RNA < 400 (< 50) copies/mL was 61% (59%) [n = 100].
-Among patients completing 360 weeks of treatment with CD4+ cell count measurements [n=60], the mean (median) increase in CD4+cell count was 501 (457) cells/mm3.
+Among patients completing 360 weeks of treatment with CD4+ cell count measurements [n=60], the mean (median) increase in CD4+ cell count was 501 (457) cells/mm3.
 Thirty-nine patients (39%) discontinued the study, including 13 (13%) discontinuations due to adverse reactions and 1 (1%) death.
 
-Through 144 weeks of treatment in study 765, the proportion of patients with HIV-1 RNA < 400 (< 50) copies/mL was 54% (50%) [n = 70], and the corresponding mean increase in CD4+cell count was 212 cells/mm3.
+Through 144 weeks of treatment in study 765, the proportion of patients with HIV-1 RNA < 400 (< 50) copies/mL was 54% (50%) [n = 70], and the corresponding mean increase in CD4+ cell count was 212 cells/mm3.
 Twenty-seven patients (39%) discontinued the study, including 5 (7%) discontinuations secondary to adverse reactions and 2 (3%) deaths.
 
 ## 14.4 Pediatric Studies
@@ -138,7 +163,7 @@ Patients had a mean age of 5 years (range 6 months to 12 years) with 14% less th
 Mean baseline CD4+ cell count was 838 cells/mm3 and mean baseline plasma HIV-1 RNA was 4.7 log10 copies/mL.
 
 Through 48 weeks of therapy, the proportion of patients who achieved and sustained an HIV-1 RNA < 400 copies/mL was 80% for antiretroviral naïve patients and 71% for antiretroviral experienced patients.
-The mean increase from baseline in CD4+cell count was 404 cells/mm3 for antiretroviral naïve and 284 cells/mm3 for antiretroviral experienced patients treated through 48 weeks.
+The mean increase from baseline in CD4+ cell count was 404 cells/mm3 for antiretroviral naïve and 284 cells/mm3 for antiretroviral experienced patients treated through 48 weeks.
 At 48 weeks, two patients (2%) had prematurely discontinued the study.
 One antiretroviral naïve patient prematurely discontinued secondary to an adverse reaction, while one antiretroviral experienced patient prematurely discontinued secondary to an HIV-1 related event.
 
@@ -151,4 +176,4 @@ Dose selection in pediatric patients was based on the following:
 - Among patients 12 to 18 years of age receiving 400/100 mg/m2 or 480/120 mg/m2 (with efavirenz) twice daily, plasma concentrations were 60-100% higher than among 6 to 12 year old patients receiving 230/57.5 mg/m2.
   Mean apparent clearance was similar to that observed in adult patients receiving standard dose and in patients 6 to 12 years of age.
   Although changes in HIV-1 RNA in patients with prior treatment failure were less than anticipated, the pharmacokinetic data supports use of similar dosing as in patients 6 to 12 years of age, not to exceed the recommended adult dose.
-- For all age groups, the body surface area dosing was converted to body weight dosing using the actual patient dose.
+- For all age groups, the body surface area dosing was converted to body weight dosing using the patient’s prescribed lopinavir dose.

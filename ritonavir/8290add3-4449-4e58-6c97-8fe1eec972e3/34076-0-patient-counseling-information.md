@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17)
+See Medication Guide
 
-## 17.1 Information For Patients
+Information For Patients
 
 Patients or parents of patients should be informed that:
 
@@ -20,12 +20,24 @@ For their health and the health of others, it is important that they always prac
 They should also be advised to never re-use or share needles.
 
 Drug Interactions  KALETRA may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.  KALETRA tablets can be taken at the same time as didanosine without food.
-Patients taking didanosine should take didanosine one hour before or two hours after KALETRA oral solution.  If they are receiving sildenafil, tadalafil, or vardenafil, there may be at an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.  If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with KALETRA.
-
+Patients taking didanosine should take didanosine one hour before or two hours after KALETRA oral solution.  If they are receiving sildenafil, tadalafil, or vardenafil, there may be an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.  If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with KALETRA.  If they are taking or before they begin using Serevent® (salmeterol) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
+The doctor may choose not to keep someone on Serevent® (salmeterol).  If they are taking or before they begin taking Advair® (salmeterol in combination with fluticasone propionate) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
+The doctor may choose not to keep someone on Advair® (salmeterol in combination with fluticasone propionate).
 Potential Adverse Effects  Skin rashes ranging in severity from mild to Stevens Johnson syndrome and Erythema multiforme have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
 Patients should be advised to contact their healthcare provider if they develop a rash while taking KALETRA.
-The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.  Pre-existing liver disease including Hepatitis B or C can worsen with use of KALETRA.
+The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.  Patients should be advised that appropriate liver function testing will be conducted prior to initiating and during therapy with KALETRA.
+Pre-existing liver disease including Hepatitis B or C can worsen with use of KALETRA.
 This can be seen as worsening of transaminase elevations or hepatic decompensation.
 Patients should be advised that their liver function tests will need to be monitored closely especially during the first several months of KALETRA treatment and that they should notify their healthcare provider if they develop the signs and symptoms of worsening liver disease including loss of appetite, abdominal pain, jaundice, and itchy skin.  New onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during KALETRA use.
 Patients should be advised to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on KALETRA as they may require a change in their diabetes treatment or new treatment.  KALETRA might produce changes in the electrocardiogram (e.g., PR and/or QT prolongation).
 Patients should consult their physician if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness.  They should seek medical assistance immediately if they develop a sustained penile erection lasting more than 4 hours while taking KALETRA and a PDE 5 Inhibitor such as Viagra, Cialis or Levitra.  Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time.  Patients should be informed that there may be a greater chance of developing diarrhea with the once daily regimen as compared with the twice daily regimen.
+
+KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
+
+Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617
+
+for Abbott Laboratories, North Chicago, IL 60064, U.S.A
+
+KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
+
+Abbott Laboratories, North Chicago, IL 60064, U.S.A.

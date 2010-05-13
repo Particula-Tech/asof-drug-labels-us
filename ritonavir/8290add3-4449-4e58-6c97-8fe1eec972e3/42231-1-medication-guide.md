@@ -1,4 +1,4 @@
-# Medication Guide
+Medication Guide
 
 MEDICATION GUIDE
 
@@ -30,7 +30,7 @@ KALETRA may cause serious side effects, including:
 - Changes in your heart rhythm and the electrical activity of your heart.
   These changes may be seen on an EKG (electrocardiogram) and can lead to serious heart problems.
   Your risk for these problems may be higher if you:
-  - already have a history of abnormal heart rhythm or other types of heart disease
+  - already have a history of abnormal heart rhythm or other types of heart disease.
   - take other medicines that can affect your heart rhythm while you take KALETRA.
 
 Tell your doctor right away if you have any of these symptoms while taking KALETRA:
@@ -58,7 +58,7 @@ Who should not take KALETRA?
 
 What should I tell my doctor before taking KALETRA?
 
-Kaletra may not be right for you.
+KALETRA may not be right for you.
 Tell your doctor about all your medical conditions, including if you:
 
 - have any heart problems, including if you have a condition called Congenital Long QT Syndrome.
@@ -99,10 +99,13 @@ Serious problems or death can happen if you take these medicines with KALETRA:
 - triazolam (Halcion®), midazolam hydrochloride oral syrup
 - pimozide (Orap®)
 - the cholesterol lowering medicines lovastatin (Mevacor®) or simvastatin (Zocor®)
+- sildenafil (Revatio®) only when used for the treatment of pulmonary arterial hypertension.
+  (See “Medicines that may need changes” and “What are the possible side effects of Kaletra?” for information about the use of sildenafil for erectile problems.)
+- alfuzosin (Uroxatral®)
 
 Medicines that you should not take with KALETRA since they may make KALETRA not work as well:
 
-- the herbal supplement St Johns Wort (hypericum perforatum)
+- the herbal supplement St. John's Wort (hypericum perforatum)
 - rifampin (Rimactane®, Rifadin®, Rifater®, or Rifamate®)
 
 Medicines that may need changes:
@@ -111,9 +114,13 @@ Medicines that may need changes:
 - certain cholesterol lowering medicines, such as atorvastatin (Lipitor®) or rosuvastatin (Crestor®)
 - certain other antiretroviral medicines, such as efavirenz (Atripla® and Sustiva®), nevirapine (Viramune®), amprenavir (Agenerase®), fosamprenavir calcium (Lexiva®) and nelfinavir (Viracept®)
 - anti-seizure medicines, such as phenytoin (Dilantin®) carbamazepine, (Tegretol®), phenobarbital
-- sildenafil (Viagra®, Revatio®), tadalafil (Cialis®), or vardenafil (Levitra®)
+- medicines for erectile problems, such as sildenafil (Viagra®), tadalafil (Cialis®), or vardenafil (Levitra®)
 - medicines for tuberculosis (TB), such as rifabutin (Mycobutin®)
 - inhaled steroid medicines, such as fluticasone propionate (Flonase®)
+- inhaled medicines such as salmeterol (Serevent®) or salmeterol in combination with fluticasone propionate (Advair®).
+  Your doctor may need to change to a different medicine
+- medicines for gout, such as colchicine (Colcrys®)
+- medicines to treat pulmonary arterial hypertension (PAH), such as bosentan (Tracleer®) or tadalafil (AdcircaTM)
 
 If you are not sure if you are taking a medicine above, ask your doctor.
 
@@ -148,7 +155,8 @@ How should I take KALETRA?
   It is important not to run out of KALETRA.
   The amount of HIV-1 virus in your blood may increase if the medicine is stopped for even a short time.
   The virus may become resistant to KALETRA and become harder to treat.
-- KALETRA can be taken with acid reducing agents used for heartburn or reflux (such as Prilosec® (omeprazole) and Zantac® (ranitidine) with no dose adjustment.
+- KALETRA can be taken with acid reducing agents used for heartburn or reflux such as omeprazole (Prilosec®) and ranitidine (Zantac®) with no dose adjustment.
+- KALETRA should not be administered once daily in combination with carbamazepine (Tegretol® and Epitol®), phenobarbital (Luminol®), or phenytoin (Dilantin®).
 
 Avoid doing things that can spread HIV infection.
 KALETRA does not stop you from passing HIV infection to others.
@@ -188,7 +196,7 @@ KALETRA can cause serious side effects.
   The cause and long-term health effects of these conditions are not known at this time.
 - Increased bleeding for hemophiliacs.
   Some people with hemophilia have increased bleeding with protease inhibitors including KALETRA.
-- Increased risk of certain problems when you take medicines such as sildenafil (Viagra®, Revatio®), tadalafil (Cialis®), or vardenafil (Levitra ®) with KALETRA:
+- Increased risk of certain problems when you take medicines used for the treatment of erectile problems such as sildenafil (Viagra®), tadalafil (Cialis®), or vardenafil (Levitra®) with KALETRA:
   - low blood pressure.
     If you get dizzy or faint, you need to lie down.
     Tell your doctor if you feel dizzy, or have fainting spells.
@@ -272,12 +280,12 @@ KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir Manufactured by Abbott Pharmac
 
 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution Abbott Laboratories, North Chicago, IL 60064, U.S.A.
 
-2009, ALL RIGHTS RESERVED
+2010, ALL RIGHTS RESERVED
 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-04/2009
+04/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

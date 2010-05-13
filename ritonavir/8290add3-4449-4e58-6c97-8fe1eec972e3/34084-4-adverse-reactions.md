@@ -11,15 +11,19 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Adults - Clinical Trials Experience
 
-The safety profile of KALETRA in adults is primarily based on 1555 HIV-1 infected patients in clinical trials.
+The safety profile of KALETRA in adults is primarily based on 1964 HIV-1 infected patients in clinical trials.
 
 The most common adverse reaction was diarrhea, which was generally of mild to moderate severity.
 In study 730, the incidence of diarrhea of any severity during 48 weeks of therapy was 60% in patients receiving KALETRA tablets once daily compared to 57% in patients receiving KALETRA tablets twice daily.
 More patients receiving KALETRA tablets once daily (14, 4.2%) had ongoing diarrhea at the time of discontinuation as compared to patients receiving KALETRA tablets twice daily (6, 1.8%).
 In study 730, discontinuations due to any adverse reaction were 4.8% in patients receiving KALETRA tablets once daily as compared to 3% in patients receiving KALETRA tablets twice daily.
+In study 802, the incidence of diarrhea of any severity during 48 weeks of therapy was 50% in patients receiving KALETRA tablets once daily compared to 39% in patients receiving KALETRA tablets twice daily.
+Moderate or severe drug-related diarrhea occurred in 14% of patients receiving KALETRA tablets once daily as compared to 11% in patients receiving KALETRA tablets twice daily.
+At the time of discontinuation, 19 (6.3%) patients receiving KALETRA tablets once daily had ongoing diarrhea, as compared to 11 (3.7%) patients receiving KALETRA tablets twice daily.
+Discontinuations due to any adverse reaction occurred in 4.3% of patients receiving KALETRA tablets once daily compared to 7.0% in patients receiving KALETRA tablets twice daily.
 In study 863, discontinuations of randomized therapy due to adverse reactions were 3.4% in KALETRA-treated and 3.7% in nelfinavir-treated patients.
 
-Treatment-emergent clinical adverse reactions of moderate or severe intensity in ≥ 2% of patients treated with combination therapy for up to 48 weeks (Study 863 and 730) and for up to 360 weeks (Study 720) are presented in Table 4 (treatment-naïve patients); and for up to 48 weeks (Study 888), 84 weeks (Study 957) and 144 weeks (Study 765) in Table 5 (protease inhibitor experienced patients).
+Treatment-emergent clinical adverse reactions of moderate or severe intensity in ≥ 2% of patients treated with combination therapy for up to 48 weeks (Studies 863 and 730) and for up to 360 weeks (Study 720) are presented in Table 4 (treatment-naïve patients); and for up to 48 weeks (Studies 888 and 802), 84 weeks (Study 957) and 144 weeks (Study 765) in Table 5 (protease inhibitor-experienced patients).
 
 Table 4.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
@@ -62,38 +66,39 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 Table 5.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) |
-| --- | --- | --- | --- |
-|  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) |
-| Gastrointestinal Disorders |  |  |  |
-| Diarrhea | 7% | 9% | 23% |
-| Nausea | 7% | 16% | 5% |
-| Vomiting | 4% | 12% | 2% |
-| Abdominal Pain | 2% | 2% | 4% |
-| Dyspepsia | 1% | 1% | 2% |
-| Flatulence | 1% | 2% | 2% |
-| Dysphasia | 2% | 1% | 0% |
-| General Disorders and Administration Site Conditions |  |  |  |
-| Asthenia | 3% | 6% | 9% |
-| Pyrexia | 2% | 1% | 2% |
-| Chills | 2% | 0% | 0% |
-| Investigations |  |  |  |
-| Weight decreased | 0% | 1% | 3% |
-| Metabolism and Nutrition Disorders |  |  |  |
-| Anorexia | 1% | 3% | 0% |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |
-| Myalgia | 1% | 1% | 2% |
-| Nervous System Disorders |  |  |  |
-| Headache | 2% | 3% | 2% |
-| Paresthesia | 1% | 0% | 2% |
-| Psychiatric Disorders |  |  |  |
-| Depression | 1% | 2% | 2% |
-| Insomnia | 0% | 2% | 2% |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |
-| Rash | 2% | 1% | 2% |
-| Vascular Disorders |  |  |  |
-| Hypertension | 0% | 0% | 2% |
-| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg Twice Daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg Twice Daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |
+|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily + NRTIs (N=299) |
+| --- | --- | --- | --- | --- | --- |
+|  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Diarrhea | 7% | 9% | 23% | 14% | 11% |
+| Nausea | 7% | 16% | 5% | 3% | 7% |
+| Vomiting | 4% | 12% | 2% | 2% | 3% |
+| Abdominal Pain | 2% | 2% | 4% | 2% | <1% |
+| Abdominal Pain Upper | N/A | N/A | N/A | 1% | 2% |
+| Dyspepsia | 1% | 1% | 2% | 1% | <1% |
+| Flatulence | 1% | 2% | 2% | 1% | 1% |
+| Dysphasia | 2% | 1% | 0% | 0% | 0% |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| Asthenia | 3% | 6% | 9% | <1% | <1% |
+| Pyrexia | 2% | 1% | 2% | 0% | <1% |
+| Chills | 2% | 0% | 0% | 0% | 0% |
+| Investigations |  |  |  |  |  |
+| Weight decreased | 0% | 1% | 3% | <1% | <1% |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |
+| Anorexia | 1% | 3% | 0% | 0% | 1% |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
+| Myalgia | 1% | 1% | 2% | 0% | 0% |
+| Nervous System Disorders |  |  |  |  |  |
+| Headache | 2% | 3% | 2% | <1% | 0% |
+| Paresthesia | 0% | 1% | 2% | 0% | 0% |
+| Psychiatric Disorders |  |  |  |  |  |
+| Depression | 1% | 2% | 3% | <1% | 0% |
+| Insomnia | 0% | 2% | 2% | 0% | <1% |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
+| Rash | 2% | 1% | 2% | 0% | 0% |
+| Vascular Disorders |  |  |  |  |  |
+| Hypertension | 0% | 0% | 2% | 0% | 0% |
+| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |  |  |
 
 Less Common Adverse Reactions
 
@@ -101,11 +106,11 @@ Treatment-emergent adverse reactions occurring in less than 2% of adult patients
 
 Blood and Lymphatic System Disorders
 
-Anemia, leukopenia, lymphadenopathy, and splenomegaly.
+Anemia, leukopenia, lymphadenopathy, neutropenia, and splenomegaly.
 
 Cardiac Disorders
 
-Atrial fibrillation, atrioventricular block, myocardial infarction, palpitation.
+Angina pectoris, atrial fibrillation, atrioventricular block, myocardial infarction, palpitations, and tricuspid valve incompetence.
 
 Ear and Labyrinth Disorders
 
@@ -121,7 +126,7 @@ Eye disorder and visual disturbance.
 
 Gastrointestinal Disorders
 
-Abdominal distension, abdominal pain upper, constipation, dry mouth, enteritis, enterocolitis, enterocolitis hemorrhagic, eructation, esophagitis, fecal incontinence, gastric disorder, gastritis, gastroesophageal reflux disease, hemorrhoids, mouth ulceration, pancreatitis, periodontitis, stomach discomfort, and stomatitis.
+Abdominal discomfort, abdominal distension, abdomen pain lower, constipation, duodenitis, dry mouth, enteritis, enterocolitis, enterocolitis hemorrhagic, eructation, esophagitis, fecal incontinence, gastric disorder, gastric ulcer, gastritis, gastroesophageal reflux disease, hemorrhoids, mouth ulceration, pancreatitis, periodontitis, rectal hemorrhage, stomach discomfort, and stomatitis.
 
 General Disorders and Administration Site Conditions
 
@@ -137,7 +142,7 @@ Drug hypersensitivity, hypersensitivity, and immune reconstitution syndrome.
 
 Infections and Infestations
 
-Bacterial infection, cellulitis, folliculitis, furuncle, gastroenteritis, influenza, otitis media, perineal abscess, pharyngitis, rhinitis, sialoadenitis, sinusitis, and viral infection.
+Bacterial infection, bronchopneumonia, cellulitis, folliculitis, furuncle, gastroenteritis, influenza, otitis media, perineal abscess, pharyngitis, rhinitis, sialoadenitis, sinusitis, and viral infection.
 
 Investigations
 
@@ -157,19 +162,19 @@ Benign neoplasm of skin, lipoma, and neoplasm.
 
 Nervous System Disorders
 
-Ageusia, amnesia, ataxia, cerebral infarction, convulsion, dizziness, dysgeusia, dyskinesia, encephalopathy, extrapyramidal disorder, facial palsy, hypertonia, migraine, neuropathy, neuropathy peripheral, somnolence, and tremor.
+Ageusia, amnesia, ataxia, balance disorder, cerebral infarction, convulsion, dizziness, dysgeusia, dyskinesia, encephalopathy, extrapyramidal disorder, facial palsy, hypertonia, migraine, neuropathy, neuropathy peripheral, somnolence, and tremor.
 
 Psychiatric Disorders
 
-Abnormal dreams, affect lability, agitation, anxiety, apathy, confusional state, nervousness, and thinking abnormal.
+Abnormal dreams, affect lability, agitation, anxiety, apathy, confusional state, disorientation, mood swings, nervousness, and thinking abnormal.
 
 Renal and Urinary Disorders
 
-Nephritis, nephrolithiasis, renal disorder, and urine abnormality.
+Hematuria, nephritis, nephrolithiasis, renal disorder, urine abnormality, and urine odor abnormal.
 
 Reproductive System and Breast Disorders
 
-Breast enlargement, ejaculation disorder, erectile dysfunction, and gynecomastia.
+Breast enlargement, ejaculation disorder, erectile dysfunction, gynecomastia, and menorrhagia.
 
 Respiratory, Thoracic and Mediastinal Disorders
 
@@ -212,23 +217,27 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Na
 Table 7.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) |
-| --- | --- | --- | --- | --- |
-|  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) |
-| Chemistry | High |  |  |  |
-| Glucose | >250 mg/dL | 1% | 2% | 5% |
-| Total Bilirubin | >3.48 mg/dL | 1% | 3% | 1% |
-| SGOT/AST | >180 U/L | 5% | 11% | 8% |
-| SGPT/ALT | >215 U/L | 6% | 13% | 10% |
-| GGT | >300 U/L | N/A | N/A | 29% |
-| Total Cholesterol | >300 mg/dL | 20% | 21% | 39% |
-| Triglycerides | >750 mg/dL | 25% | 21% | 36% |
-| Amylase | >2 x ULN | 4% | 8% | 8% |
-| Chemistry | Low |  |  |  |
-| Inorganic Phosphorus | <1.5 mg/dL | 1% | 0% | 2% |
-| Hematology | Low |  |  |  |
-| Neutrophils | <0.75 x 109/L | 1% | 2% | 4% |
-| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. |  |  |  |  |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily +NRTIs (N=299) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
+| Chemistry | High |  |  |  |  |  |
+| Glucose | >250 mg/dL | 1% | 2% | 5% | 2% | 2% |
+| Total Bilirubin | >3.48 mg/dL | 1% | 3% | 1% | 1% | 1% |
+| SGOT/AST4 | >180 U/L | 5% | 11% | 8% | 3% | 2% |
+| SGPT/ALT4 | >215 U/L | 6% | 13% | 10% | 2% | 2% |
+| GGT | >300 U/L | N/A | N/A | 29% | N/A | N/A |
+| Total Cholesterol | >300 mg/dL | 20% | 21% | 39% | 6% | 7% |
+| Triglycerides | >750 mg/dL | 25% | 21% | 36% | 5% | 6% |
+| Amylase | >2 x ULN | 4% | 8% | 8% | 4% | 4% |
+| Lipase | >2 x ULN | N/A | N/A | N/A | 4% | 1% |
+| Creatine Phosphokinase | >4 x ULN | N/A | N/A | N/A | 4% | 5% |
+| Chemistry | Low |  |  |  |  |  |
+| Calculated Creatinine Clearance | <50 mL/min | N/A | N/A | N/A | 3% | 3% |
+| Inorganic Phosphorus | <1.5 mg/dL | 1% | 0% | 2% | 1% | <1% |
+| Hematology | Low |  |  |  |  |  |
+| Neutrophils | <0.75 x 109/L | 1% | 2% | 4% | 3% | 4% |
+| Hemoglobin | <80 g/L | 1% | 1% | 1% | 1% | 2% |
+| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.4 Criterion for Study 802 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
 ## 6.2 Pediatric Patients - Clinical Trials Experience
 

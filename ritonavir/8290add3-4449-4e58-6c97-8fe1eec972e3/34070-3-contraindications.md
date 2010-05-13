@@ -10,13 +10,15 @@ These drugs are listed in Table 3.
 Table 3.
 Drugs That Are Contraindicated With KALETRA
 
-| Drug Class | Drugs Within Class That Are Contraindicated With KALETRA | Clinical comments: |
+| Drug Class | Drugs Within Class That Are Contraindicated With KALETRA | Clinical comments |
 | --- | --- | --- |
-| Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents. [see Drug Interactions (7)] |
+| Alpha 1- Adrenoreceptor antagonist | Alfuzosi | Potentially increased alfuzosin concentrations can result in hypotension. |
+| Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents [see Drug Interactions (7)]. |
 | Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI motility agent | Cisapride | Potential for cardiac arrhythmias. |
-| Herbal Products | St Johns wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors. |
+| Herbal Products | St. John's Wort (hypericum perforatum) | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for myopathy including rhabdomyolysis. |
+| PDE5 enzyme inhibitor | Sildenafila (Revatio®) when used for the treatment of pulmonary arterial hypertension | A safe and effective dose has not been established when used with KALETRA. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Drug Interactions (7)]. |
 | Neuroleptic | Pimozide | Potential for cardiac arrhythmias. |
-| Sedative/Hypnotics | Triazolam; orally administered midazolama | Prolonged or increased sedation or respiratory depression. |
-| asee Drug Interactions, Table 9 for parenterally administered midazolam |  |  |
+| Sedative/Hypnotics | Triazolam; orally administered midazolamb | Prolonged or increased sedation or respiratory depression. |
+| a see Drug Interactions (7) for coadministration of sildenafil in patients with erectile dysfunction.bsee Drug Interactions, Table 9 for parenterally administered midazolam. |  |  |

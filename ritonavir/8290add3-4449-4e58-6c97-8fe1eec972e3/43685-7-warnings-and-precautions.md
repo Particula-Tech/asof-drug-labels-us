@@ -22,6 +22,9 @@ There have been postmarketing reports of hepatic dysfunction, including some fat
 These have generally occurred in patients with advanced HIV-1 disease taking multiple concomitant medications in the setting of underlying chronic hepatitis or cirrhosis.
 A causal relationship with KALETRA therapy has not been established.
 
+Elevated transaminases with or without elevated bilirubin levels have been reported in HIV-1 mono-infected and uninfected patients as early as 7 days after the initiation of KALETRA in conjunction with other antiretroviral agents.
+In some cases, the hepatic dysfunction was serious; however, a definitive causal relationship with KALETRA therapy has not been established.
+
 Appropriate laboratory testing should be conducted prior to initiating therapy with KALETRA and patients should be monitored closely during treatment.
 Increased AST/ALT monitoring should be considered in the patients with underlying chronic hepatitis or cirrhosis, especially during the first several months of KALETRA treatment [see Use In Specific Populations (8.6)].
 
@@ -37,7 +40,7 @@ Because these events have been reported voluntarily during clinical practice, es
 
 Lopinavir/ritonavir prolongs the PR interval in some patients.
 Cases of second or third degree atrioventricular block have been reported.
-KALETRA should be used with caution in patients with underlying structural heart disease, preexisting conduction system abnormalities, ischemic heart disease or cardiomyopathies, as these patients may be at increased risk for developing cardiac conduction abnormalities.
+KALETRA should be used with caution in patients with underlying structural heart disease, pre-existing conduction system abnormalities, ischemic heart disease or cardiomyopathies, as these patients may be at increased risk for developing cardiac conduction abnormalities.
 
 The impact on the PR interval of co-administration of KALETRA with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
 As a result, co-administration of KALETRA with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
