@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA011757"
+  ],
+  "inn": "methylprednisolone",
+  "labeler": "Pharmacia and Upjohn Company",
+  "package_ndcs": [
+    "0009-3073-22",
+    "0009-3073-23",
+    "0009-3475-22",
+    "0009-3475-23"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "methylprednisolone acetate",
+      "name": "Depo-Medrol"
+    }
+  ],
+  "setid": "bf1b104d-85cb-414d-a366-78068c82c883",
+  "source": "dailymed"
+}
