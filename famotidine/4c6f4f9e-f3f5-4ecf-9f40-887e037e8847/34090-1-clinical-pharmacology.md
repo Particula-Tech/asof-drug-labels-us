@@ -15,7 +15,7 @@ The same doses given in the morning suppressed food-stimulated acid secretion in
 The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration.
 In some subjects who received the 20 mg dose, however, the antisecretory effect was dissipated within 6 to 8 hours.
 There was no cumulative effect with repeated doses.
-The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of famotidine to mean values of 5.0 and 6.4, respectively.
+The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of famotidine to mean values of 5 and 6.4, respectively.
 When famotidine was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 or 40 mg of famotidine was raised to about 5.
 
 Famotidine had little or no effect on fasting or postprandial serum gastrin levels.
@@ -24,14 +24,13 @@ Gastric emptying and exocrine pancreatic function were not affected by famotidin
 ## Other Effects
 
 Systemic effects of famotidine in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
-Also, no antiandrogenic effects were noted (See ADVERSE REACTIONS).
+Also, no antiandrogenic effects were noted (see ADVERSE REACTIONS).
 Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with famotidine.
 
 ## Pharmacokinetics
 
 Famotidine is incompletely absorbed.
 The bioavailability of oral doses is 40 to 45%.
-Famotidine tablets, famotidine for oral suspension and famotidine RPD orally disintegrating tablets are bioequivalent.
 Bioavailability may be slightly increased by food, or slightly decreased by antacids; however, these effects are of no clinical consequence.
 Famotidine undergoes minimal first-pass metabolism.
 After oral doses, peak plasma levels occur in 1 to 3 hours.
@@ -113,9 +112,9 @@ Table 3: % Successful Symptomatic Outcome
 | 20 mg b.i.d. | 40 mg h.s. | Placebo |  |
 | (N = 154) | (N = 149) | (N = 73) |  |
 | Week 6 | 82†† | 69 | 62 |
-| ††p≤0.01 vs placebo |  |  |  |
+| ††p≤0.01 vs. placebo |  |  |  |
 
-By two weeks of treatment symptomatic success was observed in a greater percentage of patients taking famotidine 20 mg b.i.d. compared to placebo (p≤0.01).
+By two weeks of treatment, symptomatic success was observed in a greater percentage of patients taking famotidine 20 mg b.i.d. compared to placebo (p≤0.01).
 
 Symptomatic improvement and healing of endoscopically verified erosion and ulceration were studied in two additional trials.
 Healing was defined as complete resolution of all erosions or ulcerations visible with endoscopy.
@@ -127,7 +126,7 @@ Table 4: % Endoscopic Healing – U.S. Study
 | --- | --- | --- | --- |
 | 40 mg b.i.d. | 20 mg b.i.d. | Placebo |  |
 | (N = 127) | (N = 125) | (N = 66) |  |
-| Week 6 | 48†††,‡‡ | 32 | 18 |
+| Week 6 | 48†††, ‡‡ | 32 | 18 |
 | Week 12 | 69†††,‡ | 54††† | 29 |
 | ††† p≤0.01 vs. placebo‡ p≤0.05 vs. famotidine 20 mg b.i.d.‡‡ p≤0.01 vs. famotidine 20 mg b.i.d. |  |  |  |
 
@@ -149,7 +148,7 @@ Table 5: % Endoscopic Healing – International Study
 
 ## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
-In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison Syndrome with or without multiple endocrine adenomas, famotidine significantly inhibited gastric acid secretion and controlled associated symptoms.
+In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison syndrome with or without multiple endocrine adenomas, famotidine significantly inhibited gastric acid secretion and controlled associated symptoms.
 Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
 Famotidine was well tolerated at these high dose levels for prolonged periods (greater than 12 months) in eight patients, and there were no cases reported of gynecomastia, increased prolactin levels, or impotence which were considered to be due to the drug.
 
@@ -161,16 +160,16 @@ Table 6 presents pharmacokinetic data from clinical trials and a published study
 0.5 mg/kg and from published studies of small numbers of pediatric patients (1 to 15 years of age) given famotidine intravenously.
 Areas under the curve (AUCs) are normalized to a dose of 0.5 mg/kg I.V. for pediatric patients 1 to 15 years of age and compared with an extrapolated 40 mg intravenous dose in adults (extrapolation based on results obtained with a 20 mg I.V. adult dose).
 
-Table 6: Pharmacokinetic Parametersa of Intravenous Famotidine
+Table 6: Pharmacokinetic Parameters a of Intravenous Famotidine
 
 | Age (N=Number of Patients) | Area Under the Curve (AUC) (ng-hr/mL) | Total Clearance (CI) (L/hr/kg) | Volume of Distribution (Vd) (L/kg) | Elimination Half-life (T½) (hours) |
 | --- | --- | --- | --- | --- |
-| 0 to 1 monthc (N=10) | NA | 0.13 ± 0.06 | 1.4 ± 0.4 | 10.5 ± 5.4 |
-| 0 to 3 monthsd (N=6) | 2688 ± 847 | 0.21 ± 0.06 | 1.8 ± 0.3 | 8.1 ± 3.5 |
-| >3 to 12 monthsd (N=11) | 1160 ± 474 | 0.49 ± 0.17 | 2.3 ± 0.7 | 4.5 ± 1.1 |
+| 0 to 1 month c(N=10) | NA | 0.13 ± 0.06 | 1.4 ± 0.4 | 10.5 ± 5.4 |
+| 0 to 3 months d (N=6) | 2688 ± 847 | 0.21 ± 0.06 | 1.8 ± 0.3 | 8.1 ± 3.5 |
+| >3 to 12 months d(N=11) | 1160 ± 474 | 0.49 ± 0.17 | 2.3 ± 0.7 | 4.5 ± 1.1 |
 | 1 to 11 years (N=20) | 1089 ± 834 | 0.54 ± 0.34 | 2.07 ± 1.49 | 3.38 ± 2.60 |
 | 11 to 15 years (N=6) | 1140 ± 320 | 0.48 ± 0.14 | 1.5 ± 0.4 | 2.3 ± 0.4 |
-| Adult (N=16) | 1726b | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
+| Adult (N=16) | 1726 b | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
 | a Values are presented as means ± SD unless indicated otherwise.b Mean value only.c Single center study.d Multicenter study. |  |  |  |  |
 
 Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients 0 to 3 months of age compared to older pediatric patients.
@@ -186,7 +185,7 @@ These data suggest that the relationship between serum concentration of famotidi
 
 Table 7: Pharmacodynamics of Famotidine Using The Sigmoid Emax Model
 
-|  | EC50 (ng/mL)* |
+|  | EC 50 (ng/mL)* |
 | --- | --- |
 | Pediatric Patients | 26 ± 13 |
 | Data from one study |  |
@@ -202,13 +201,13 @@ Table 8
 | Dosage | Route | Effecta | Number of Patients |
 | --- | --- | --- | --- |
 |  |  |  | (age range) |
-| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8)c | 11 (5 to 19 days) |
-| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7b hours | 6 (2 to 7 years) |
+| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8) c | 11 (5 to 19 days) |
+| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7 b hours | 6 (2 to 7 years) |
 | 0.4 to 0.8 mg/kg | I.V. | gastric pH >4 for 6 to 9 hours | 18 (2 to 69 months) |
 | 0.5 mg/kg, single dose | I.V. | a >2 pH unit increase above baseline in gastric pH for >8 hours | 9 (2 to 13 years) |
-| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ±1.8b hours | 4 (6 to 15 years) |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ±1.1b hours | 4 (11 to 15 years) |
-| a values reported in published literature.b Means ± SD.c Mean (95% confidence interval). |  |  |  |
+| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ±1.8 b hours | 4 (6 to 15 years) |
+| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5 ±1.1 bhours | 4 (11 to 15 years) |
+| a Values reported in published literature.bMeans ± SD.cMean (95% confidence interval). |  |  |  |
 
 The duration of effect of famotidine I.V.
 0.5 mg/kg on gastric pH and acid suppression was shown in one study to be longer in pediatric patients <1 month of age than in older pediatric patients.

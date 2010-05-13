@@ -19,7 +19,7 @@ Arrhythmia, AV block, palpitation
 
 ## Gastrointestinal
 
-Cholestatic jaundice, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+Cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
 ## Hematologic
 

@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 The active ingredient in famotidine is a histamine H2-receptor antagonist.
-Famotidine is [1-Amino-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]-methyl]thio] propylidene] sulfamide and has the following structural formula:
+Famotidine is [1-Amino-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio] propylidene] sulfamide and has the following structural formula:
 
 C8H15N7O2S3 M.W.
 337.45

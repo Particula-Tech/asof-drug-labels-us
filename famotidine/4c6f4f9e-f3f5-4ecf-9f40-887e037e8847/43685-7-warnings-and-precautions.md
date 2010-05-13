@@ -26,7 +26,9 @@ In studies with rats given oral doses of up to 2000 mg/kg/day or intravenous dos
 
 ## Pregnancy
 
-### Pregnancy Category B
+### Teratogenic Effects
+
+#### Pregnancy Category B
 
 Reproductive studies have been performed in rats and rabbits at oral doses of up to 2000 and 500 mg/kg/day, respectively, and in both species at I.V. doses of up to 200 mg/kg/day, and have revealed no significant evidence of impaired fertility or harm to the fetus due to famotidine.
 While no direct fetotoxic effects have been observed, sporadic abortions occurring only in mothers displaying marked decreased food intake were seen in some rabbits at oral doses of 200 mg/kg/day (250 times the usual human dose) or higher.

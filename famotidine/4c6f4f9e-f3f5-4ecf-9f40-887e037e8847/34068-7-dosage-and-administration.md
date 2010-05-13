@@ -21,21 +21,21 @@ The recommended adult oral dosage for active benign gastric ulcer is 40 mg once 
 ## Gastroesophageal Reflux Disease (GERD)
 
 The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
-The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
+The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, ClinicalStudies).
 
 ## Dosage for Pediatric Patients <1 year of age Gastroesophageal Reflux Disease (GERD)
 
 See PRECAUTIONS, Pediatric Patients < 1 year of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients <1 year of age suggest the following starting doses in pediatric patients <1 year of age: Gastroesophageal Reflux Disease (GERD) - 0.5 mg/kg/dose of famotidine oral suspension for the treatment of GERD for up to 8 weeks once daily in patients <3 months of age and 0.5 mg/kg/dose twice daily in patients 3 months to <1 year of age.
+The studies described in PRECAUTIONS, Pediatric Patients<1 year of age suggest the following starting doses in pediatric patients <1 year of age: Gastroesophageal Reflux Disease (GERD) - 0.5 mg/kg/dose of famotidine oral suspension for the treatment of GERD for up to 8 weeks once daily in patients <3 months of age and 0.5 mg/kg/dose twice daily in patients 3 months to <1 year of age.
 Patients should also be receiving conservative measures (e.g., thickened feedings).
 The use of intravenous famotidine in pediatric patients <1 year of age with GERD has not been adequately studied.
 
 ## Dosage for Pediatric Patients 1 to 16 years of age
 
-See PRECAUTIONS, Pediatric Patients 1 to 16 years of age.
+See PRECAUTIONS, Pediatric Patients1 to 16 years of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients 1 to 16 years of age suggest the following starting doses in pediatric patients 1 to 16 years of age:
+The studies described in PRECAUTIONS, Pediatric Patients1 to 16 years of age suggest the following starting doses in pediatric patients 1 to 16 years of age:
 
 ### Peptic Ulcer
 
@@ -54,7 +54,7 @@ Published uncontrolled clinical studies in pediatric patients 1 to 16 years of a
 The dosage of famotidine in patients with pathological hypersecretory conditions varies with the individual patient.
 The recommended adult oral starting dose for pathological hypersecretory conditions is 20 mg q 6 h. In some patients, a higher starting dose may be required.
 Doses should be adjusted to individual patient needs and should continue as long as clinically indicated.
-Doses up to 160 mg q 6 h have been administered to some adult patients with severe Zollinger-Ellison Syndrome.
+Doses up to 160 mg q 6 h have been administered to some adult patients with severe Zollinger-Ellison syndrome.
 
 ## Concomitant Use of Antacids
 

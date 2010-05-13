@@ -1,19 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075511"
+  ],
   "inn": "famotidine",
   "labeler": "IVAX Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "0172-5728-00",
     "0172-5728-10",
     "0172-5728-60",
     "0172-5728-70",
     "0172-5728-80",
+    "0172-5729-00",
     "0172-5729-10",
-    "0172-5729-46",
     "0172-5729-60",
-    "0172-5729-70",
-    "0172-5729-80"
+    "0172-5729-70"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "famotidine",
+      "name": "Famotidine"
+    }
+  ],
   "setid": "4c6f4f9e-f3f5-4ecf-9f40-887e037e8847",
   "source": "dailymed"
 }
