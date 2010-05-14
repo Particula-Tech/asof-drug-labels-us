@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA090509"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-525-01",
+    "55111-525-05",
+    "55111-525-30",
+    "55111-525-78",
+    "55111-525-79",
+    "55111-526-01",
+    "55111-526-05",
+    "55111-526-30",
+    "55111-526-78",
+    "55111-526-79",
+    "55111-527-01",
+    "55111-527-05",
+    "55111-527-30",
+    "55111-527-78",
+    "55111-527-79"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "61dee012-43af-0e9a-3843-9b9b91e022c4",
+  "source": "dailymed"
+}
