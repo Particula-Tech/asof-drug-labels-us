@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 18 mL Label
+PRINCIPAL DISPLAY PANEL - 50 mg/mL Vial Label
 
 18 mL Sterile Single Use Vial
 

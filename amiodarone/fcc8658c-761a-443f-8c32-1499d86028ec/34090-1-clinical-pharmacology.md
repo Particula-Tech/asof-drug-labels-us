@@ -1,103 +1,82 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanisms of Action
+## 12.1 Mechanism of Action
 
 Amiodarone is generally considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes.
-Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, it exerts a noncompetitive antisympathetic action.
+Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action.
 One of its main effects, with prolonged administration, is to lengthen the cardiac action potential, a class III effect.
 The negative chronotropic effect of amiodarone in nodal tissues is similar to the effect of class IV drugs.
 In addition to blocking sodium channels, amiodarone blocks myocardial potassium channels, which contributes to slowing of conduction and prolongation of refractoriness.
 The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node.
 Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption.
 
-Amiodarone Hydrochloride Injection administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN), but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infranodal conduction (Hisventricular, HV).
-A comparison of the electrophysiologic effects of Amiodarone Hydrochloride Injection and oral amiodarone HCl is shown in the table below.
+Intravenous amiodarone administration prolongs intranodal conduction (Atrial-His, AH) and refractoriness of the atrioventricular node (ERP AVN), but has little or no effect on sinus cycle length (SCL), refractoriness of the right atrium and right ventricle (ERP RA and ERP RV), repolarization (QTc), intraventricular conduction (QRS), and infra-nodal conduction (His-ventricular, HV).
+A comparison of the electrophysiologic effects of intravenous amiodarone and oral amiodarone is shown in the table below.
 
-EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE HYDROCHLORIDE ON ELECTROPHYSIOLOGIC PARAMETERS
+Table 6: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAMETERS
 
 | Formulation | SCL | QRS | QTc | AH | HV | ERP RA | ERP RV | ERP AVN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I.V. | ↔ | ↔ | ↔ | ↑ | ↔ | ↔ | ↔ | ↑ |
+| Intravenous | ↔ | ↔ | ↔ | ↑ | ↔ | ↔ | ↔ | ↑ |
 | Oral | ↑ | ↔ | ↑ | ↑ | ↔ | ↑ | ↑ | ↑ |
 | ↔ No change |  |  |  |  |  |  |  |  |
 
-At higher doses (>10 mg/kg) of Amiodarone Hydrochloride Injection, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
-These differences between oral and intravenous administration suggest that the initial acute effects of Amiodarone Hydrochloride Injection may be predominantly focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
+At higher doses (>10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
+These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
 
-## Pharmacokinetics and Metabolism
+## 12.2 Pharmacodynamics
 
-Amiodarone exhibits complex disposition characteristics after intravenous administration.
-Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L.
-Peak concentrations after 10-minute infusions of 150 mg Amiodarone Hydrochloride Injection in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L.
-Due to rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion.
-In clinical trials, after 48 hours of continued infusions (125, 500, or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260).
-
-N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans.
-DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone.
-Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P450 3A4 (CYP3A4) and CYP2C8.
-The CYP3A4 isoenzyme is present in both the liver and intestines.
-The highly variable systemic availability of oral amiodarone may be attributed potentially to large interindividual variability in CYP3A4 activity.
-
-Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
-Neither amiodarone nor DEA is dialyzable.
-Amiodarone and DEA cross the placenta and both appear in breast milk.
+Intravenous amiodarone has been reported to produce negative inotropic and vasodilatory effects in animals and humans.
+In clinical studies of patients with refractory VF or hemodynamically unstable VT, treatment-emergent, drug-related hypotension occurred in 288 of 1836 patients (16%) treated with intravenous amiodarone.
+No correlations were seen between the baseline ejection fraction and the occurrence of clinically significant hypotension during infusion of intravenous amiodarone.
 
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
 DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
-The development of maximal ventricular class III effects after oral amiodarone HCl administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
-On the other hand (see CLINICAL TRIALS), after Amiodarone Hydrochloride Injection administration, there is evidence of activity well before significant concentrations of DEA are attained.
+The development of maximal ventricular class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
+On the other hand, after intravenous amiodarone administration, there is evidence of activity well before significant concentrations of DEA are attained [see Clinical Studies(14)].
 
-The following table summarizes the mean ranges of pharmacokinetic parameters of amiodarone reported in single dose i.v.
-(5 mg/kg over 15 min) studies of healthy subjects.
+## 12.3 Pharmacokinetics
 
-PHARMACOKINETIC PROFILE AFTER I.V.
-AMIODARONE ADMINISTRATION
+Disposition:
 
-| Drug | (mL/h/kg) | (L/kg) | (L/kg) | (days) |
-| --- | --- | --- | --- | --- |
-|  | Clearance | Vc | Vss | t1/2 |
-| Amiodarone | 90-158 | 0.2 | 40-84 | 20-47 |
-| Desethylamiodarone | 197-290 | - | 68-168 | ≥ AMI t1/2 |
-| Notes: Vc and Vss denote the central and steady-state volumes of distribution from i.v. studies. |  |  |  |  |
-| "-" denotes not available. |  |  |  |  |
+Amiodarone exhibits complex disposition characteristics after intravenous administration.
+Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L.
+Peak concentrations after 10-minute infusions of 150 mg intravenous amiodarone in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L.
+Due to rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion.
+In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260).
 
-Desethylamiodarone clearance and volume involve an unknown biotransformation factor.
+Metabolism:
 
-The systemic availability of oral amiodarone in healthy subjects ranges between 33% and 65%.
+N-desethylamiodarone (DEA) is the major active metabolite of amiodarone in humans.
+DEA serum concentrations above 0.05 mg/L are not usually seen until after several days of continuous infusion but with prolonged therapy reach approximately the same concentration as amiodarone.
+Amiodarone is metabolized to DEA by the cytochrome P450 enzyme group, specifically cytochromes CYP3A and CYP2C8.
+The CYP3A isoenzyme is present in both the liver and intestines.
+The highly variable systemic availability of oral amiodarone may be attributed to large interindividual variability in CYP3A activity.
+
+Distribution/Elimination:
+
 From in vitro studies, the protein binding of amiodarone is >96%.
+Amiodarone and DEA cross the placenta and both appear in breast milk.
+Neither amiodarone nor DEA is dialyzable.
 
-In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/h/kg.
-Age, sex, renal disease, and hepatic disease (cirrhosis) do not have marked effects on the disposition of amiodarone or DEA.
-Renal impairment does not influence the pharmacokinetics of amiodarone.
-After a single dose of Amiodarone Hydrochloride Injection in cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
-Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t1/2 from about 20 to 47 days.
-In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal disposition t1/2 of DEA is prolonged.
-Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone HCl, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
+Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
+In studies in healthy subjects following single intravenous administration (5 mg/kg of amiodarone over 15 min), the plasma concentration vs. time profile could be characterized by linear sum of four exponential terms with terminal elimination half-lives (t½) of 9 - 36 days for amiodarone and 9 - 30 days for DEA.
+The clearance of amiodarone and DEA ranged between 63 - 231 mL/hr/kg and 140 - 400 mL/hr/kg, respectively.
+In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous administration in patients with VT and VF ranged between 220 and 440 mL/hr/kg.
 
-There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.
-Steady-state amiodarone concentrations of 1 to 2.5 mg/L have been associated with antiarrhythmic effects and acceptable toxicity following chronic oral amiodarone HCl therapy.
+Special Populations:
 
-## Pharmacodynamics
+Effect of Age: The pharmacokinetics of amiodarone and DEA are affected by age.
+Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t½ from about 20 to 47 days.
 
-Amiodarone Hydrochloride Injection has been reported to produce negative inotropic and vasodilatory effects in animals and humans.
-In clinical studies of patients with refractory VF or hemodynamically unstable VT, treatment-emergent, drug-related hypotension occured in 288 of 1836 patients (16%) treated with Amiodarone Hydrochloride Injection.
-No correlations were seen between the baseline injection fraction and the occurence of clinically significant hypotension during infusion of Amiodarone Hydrochloride Injection.
+Effect of Gender: Pharmacokinetics of amiodarone and DEA are similar in males and females.
 
-## Clinical Trials
+Renal Impairment: Renal disease does not influence the pharmacokinetics of amiodarone or DEA.
 
-Apart from studies in patients with VT or VF, described below, there are two other studies of amiodarone showing an antiarrhythmic effect before significant levels of DEA could have accumulated.
-A placebo-controlled study of i.v. amiodarone (300 mg over 2 hours followed by 1200 mg/day) in post-coronary artery bypass graft patients with supraventricular and 2- to 3-consecutive-beat ventricular arrhythmias showed a reduction in arrhythmias from 12 hours on.
-A baseline-controlled study using a similar i.v. regimen in patients with recurrent, refractory VT/VF also showed rapid onset of antiarrhythmic activity; amiodarone therapy reduced episodes of VT by 85% compared to baseline.
+Hepatic Impairment: After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
 
-The acute effectiveness of Amiodarone Hydrochloride Injection in suppressing recurrent VF or hemodynamically unstable VT is supported by two randomized, parallel, dose-response studies of approximately 300 patients each.
-In these studies, patients with at least two episodes of VF or hemodynamically unstable VT in the preceding 24 hours were randomly assigned to receive doses of approximately 125 or 1000 mg over the first 24 hours, an 8-fold difference.
-In one study, a middle dose of approximately 500 mg was evaluated.
-The dose regimen consisted of an initial rapid loading infusion, followed by a slower 6-hour loading infusion, and then an 18-hour maintenance infusion.
-The maintenance infusion was continued up to hour 48.
-Additional 10-minute infusions of 150 mg Amiodarone Hydrochloride Injection were given for "breakthrough" VT/VF more frequently to the 125-mg dose group, thereby considerably reducing the planned 8-fold differences in total dose to 1.8- and 2.6- fold, respectively, in the two studies.
+Cardiac Disease: In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged.
 
-The prospectively defined primary efficacy end point was the rate of VT/VF episodes per hour.
-For both studies, the median rate was 0.02 episodes per hour in patients receiving the high dose and 0.07 episodes per hour in patients receiving the low dose, or approximately 0.5 versus 1.7 episodes per day (p=0.07, 2-sided, in both studies).
-In one study, the time to first episode of VT/VF was significantly prolonged (approximately 10 hours in patients receiving the low dose and 14 hours in patients receiving the high dose).
-In both studies, significantly fewer supplemental infusions were given to patients in the high-dose group.
-Mortality was not affected in these studies; at the end of double-blind therapy or after 48 hours, all patients were given open access to whatever treatment (including Amiodarone Hydrochloride Injection) was deemed necessary.
+Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
+
+Exposure-Response: There is no established relationship between drug concentration and therapeutic response for short-term intravenous use.
