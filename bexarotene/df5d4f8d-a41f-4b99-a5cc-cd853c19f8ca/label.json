@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020287"
+  ],
+  "inn": "bexarotene",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-604-22"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "bexarotene",
+      "name": "Targretin"
+    }
+  ],
+  "setid": "df5d4f8d-a41f-4b99-a5cc-cd853c19f8ca",
+  "source": "dailymed"
+}
