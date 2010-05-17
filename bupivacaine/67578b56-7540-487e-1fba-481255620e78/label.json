@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016694",
+    "NDA016964"
+  ],
   "inn": "bupivacaine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
@@ -19,7 +22,18 @@
     "0409-1752-50",
     "0409-1755-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "Marcaine"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bupivacaine hydrochloride and epinephrine bitartrate",
+      "name": "Marcaine with Epinephrine"
+    }
+  ],
   "setid": "67578b56-7540-487e-1fba-481255620e78",
   "source": "dailymed"
 }

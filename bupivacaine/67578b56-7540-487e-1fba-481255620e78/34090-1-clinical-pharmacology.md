@@ -20,7 +20,7 @@ Pharmacokinetics: The rate of systemic absorption of local anesthetics is depend
 A dilute concentration of epinephrine (1:200,000 or 5 mcg/mL) usually reduces the rate of absorption and peak plasma concentration of MARCAINE, permitting the use of moderately larger total doses and sometimes prolonging the duration of action.
 
 The onset of action with MARCAINE is rapid and anesthesia is long lasting.
-The duration of anesthesia is significantly longer with MARCAINE thanwith any other commonly used local anesthetic.
+The duration of anesthesia is significantly longer with MARCAINE than with any other commonly used local anesthetic.
 It has also been noted that there is a period of analgesia that persists after the return of sensation, during which time the need for strong analgesics is reduced.
 
 The onset of action following dental injections is usually 2 to 10 minutes and anesthesia may last two or three times longer than lidocaine and mepivacaine for dental use, in many patients up to 7 hours.

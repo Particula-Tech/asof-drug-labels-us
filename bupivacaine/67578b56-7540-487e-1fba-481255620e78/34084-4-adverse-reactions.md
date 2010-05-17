@@ -21,7 +21,7 @@ The incidence of convulsions associated with the use of local anesthetics varies
 In a survey of studies of epidural anesthesia, overt toxicity progressing to convulsions occurred in approximately 0.1% of local anesthetic administrations.
 
 Cardiovascular System Reactions: High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest.
-(See WARNINGS, PRECAUTIONS, and OVERDOSAGE sections.)
+(See WARNINGS, PRECAUTIONS, and OVERDOSAGE.)
 
 Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-dose vials or sulfites in epinephrine-containing solutions.
 These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and possibly, anaphylactoid-like symptomatology (including severe hypotension).
