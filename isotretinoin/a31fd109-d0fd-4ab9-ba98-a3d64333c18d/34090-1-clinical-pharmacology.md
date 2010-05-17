@@ -21,7 +21,8 @@ The time to peak concentration (Tmax) was also increased with food and may be re
 Therefore, Claravis capsules should always be taken with food (see DOSAGE AND ADMINISTRATION).
 Clinical studies have shown that there is no difference in the pharmacokinetics of isotretinoin between patients with nodular acne and healthy subjects with normal skin.
 
-Table 2: Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N=74
+Table 2.
+Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N=74
 
 | Claravis 2 x 40 mg Capsules | AUCo-∞(ng • hr/mL) | Cmax(ng/mL) | Tmax(hr) | t½(hr) |
 | --- | --- | --- | --- | --- |
@@ -36,7 +37,7 @@ Isotretinoin is more than 99.9% bound to plasma proteins, primarily albumin.
 
 Following oral administration of isotretinoin, at least three metabolites have been identified in human plasma: 4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin).
 Retinoic acid and 13-cis-retinoic acid are geometric isomers and show reversible interconversion.
-The administration on one isomer will give rise to the other.
+The administration of one isomer will give rise to the other.
 Isotretinoin is also irreversibly oxidized to 4-oxo-isotretinoin, which forms its geometric isomer 4-oxo-tretinoin.
 
 After a single 80 mg oral dose of isotretinoin to 74 healthy adult subjects, concurrent administration of food increased the extent of formation of all metabolites in plasma when compared to the extent of formation under fasted conditions.
@@ -64,7 +65,8 @@ In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4
 The dose-normalized pharmacokinetic parameters for isotretinoin following single and multiple doses are summarized in Table 3 for pediatric patients.
 There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.
 
-Table 3: Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N=38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
+Table 3.
+Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Administration in Pediatric Patients, 12 to 15 Years of Age Mean (± SD), N=38The single and multiple dose data in this table were obtained following a non-standardized meal that is not comparable to the high-fat meal that was used in the study in Table 2.
 
 | Parameter | Isotretinoin (Single Dose) | Isotretinoin (Steady-State) |
 | --- | --- | --- |

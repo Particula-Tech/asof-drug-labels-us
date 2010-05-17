@@ -1,12 +1,14 @@
-Revised JANUARY 2009
+Iss.
+2/1010
 
-17000003
+17000005
 
 Rx only
 
-Table 1: Monthly Required iPLEDGE Interactions
+Table 1.
+Monthly Required iPLEDGE Interactions
 
-|  | Female Patients Of Childbearing Potential | Male Patients, And Female Patients Not Of Childbearing Potential |
+|  | Female Patients of Childbearing Potential | Male Patients, And Female Patients Not of Childbearing Potential |
 | --- | --- | --- |
 | PRESCRIBER |  |  |
 | Confirms patient counseling | X | X |
@@ -16,8 +18,9 @@ Table 1: Monthly Required iPLEDGE Interactions
 | Answers educational questions before every prescription | X |  |
 | Enters 2 forms of contraception | X |  |
 | PHARMACIST |  |  |
-| Calls system to get an authorization | X | X |
+| Contacts system to get an authorization | X | X |
 
 BARR LABORATORIES, INC. POMONA, NY 10970
 
-Revised JANUARY 2009 BR-1054, 1055, 1056, 1057
+Iss.
+2/2010 BR-1054, 1055, 1056, 1057

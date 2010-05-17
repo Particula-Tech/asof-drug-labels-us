@@ -10,4 +10,4 @@ Because of significant adverse effects associated with its use, Claravis should 
 In addition, Claravis is indicated only for those female patients who are not pregnant, because Claravis can cause severe birth defects (see Boxed CONTRAINDICATIONS AND WARNINGS).
 
 A single course of therapy for 15 to 20 weeks has been shown to result in complete and prolonged remission of disease in many patients.1,3,4 If a second course of therapy is needed, it should not be initiated until at least 8 weeks after completion of the first course, because experience has shown that patients may continue to improve while off Claravis.
-The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosisand Premature Epiphyseal Closure).
+The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth (see WARNINGS, Skeletal, Bone Mineral Density, Hyperostosis, and Premature Epiphyseal Closure).

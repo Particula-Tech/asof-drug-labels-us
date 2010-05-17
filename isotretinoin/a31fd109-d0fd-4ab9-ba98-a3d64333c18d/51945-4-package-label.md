@@ -1,35 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 10 mg Box Wallet Text
-
-Barr Laboratories Inc.
-
-ClaravisTM
-
-(isotretinoin capsules, USP)
-
-Each capsule contains 10 mg isotretinoin
-
-Prescription Blister Pack
-
-10 Capsules
-
-Rx only
-
-PATIENT:
-
-READ INFORMATION CAREFULLY,
-
-CAUSES BIRTH DEFECTS
-
-DO NOT GET PREGNANT
-
-10 MG PHARMACISTS:DISPENSE INTACT.
-
-THIS AREA FOR
-
-PRESCRIPTION LABEL
-
 ## 10 mg Carton Text 30s
 
 Barr Laboratories Inc.
@@ -64,35 +34,7 @@ CAUSES BIRTH DEFECTS
 
 DO NOT GET PREGNANT
 
-## 20 mg Box Wallet Text
-
-Barr Laboratories Inc.
-
-ClaravisTM
-
-(isotretinoin capsules, USP)
-
-Each capsule contains 20 mg isotretinoin
-
-Prescription Blister Pack
-
-10 Capsules
-
-Rx only
-
-PATIENT:
-
-READ INFORMATION CAREFULLY,
-
-CAUSES BIRTH DEFECTS
-
-DO NOT GET PREGNANT
-
-20 MG PHARMACISTS:DISPENSE INTACT.
-
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+# PRINCIPAL DISPLAY PANEL
 
 ## 20 mg Carton Text 30s
 
@@ -128,35 +70,7 @@ CAUSES BIRTH DEFECTS
 
 DO NOT GET PREGNANT
 
-## 30 mg Box Wallet Text
-
-Barr Laboratories Inc.
-
-ClaravisTM
-
-(isotretinoin capsules, USP)
-
-Each capsule contains 30 mg isotretinoin
-
-Prescription Blister Pack
-
-10 Capsules
-
-Rx only
-
-PATIENT:
-
-READ INFORMATION CAREFULLY,
-
-CAUSES BIRTH DEFECTS
-
-DO NOT GET PREGNANT
-
-30 MG PHARMACISTS:DISPENSE INTACT.
-
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+# PRINCIPAL DISPLAY PANEL
 
 ## 30 mg Carton Text 30s
 
@@ -192,35 +106,7 @@ CAUSES BIRTH DEFECTS
 
 DO NOT GET PREGNANT
 
-## 40 mg Box Wallet Text
-
-Barr Laboratories Inc.
-
-ClaravisTM
-
-(isotretinoin capsules, USP)
-
-Each capsule contains 40 mg isotretinoin
-
-Prescription Blister Pack
-
-10 Capsules
-
-Rx only
-
-PATIENT:
-
-READ INFORMATION CAREFULLY,
-
-CAUSES BIRTH DEFECTS
-
-DO NOT GET PREGNANT
-
-40 MG PHARMACISTS:DISPENSE INTACT.
-
-THIS AREA FOR
-
-PRESCRIPTION LABEL
+# PRINCIPAL DISPLAY PANEL
 
 ## 40 mg Carton Text 30s
 

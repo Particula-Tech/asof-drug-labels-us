@@ -3,9 +3,9 @@
 Claravis should be administered with a meal (see PRECAUTIONS, Information for Patients).
 
 The recommended dosage range for Claravis is 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5 and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
+In studies comparing 0.1, 0.5, and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
 During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects – some of which may be dose related.
-Adult patients whose disease is very severe with scarring or its primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
+Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
 Failure to take Claravis with food will significantly decrease absorption.
 Before upward dose adjustments are made, the patients should be questioned about their compliance with food instructions.
 
@@ -21,7 +21,8 @@ The effect of long-term use of Claravis on bone loss is unknown (see WARNINGS, S
 
 Contraceptive measures must be followed for any subsequent course of therapy (see PRECAUTIONS).
 
-Table 4: Claravis Dosing by Body Weight (Based on Administration With Food)
+Table 4.
+Claravis Dosing by Body Weight (Based on Administration With Food)
 
 | Body Weight |  | Total mg/day |  |  |
 | --- | --- | --- | --- | --- |

@@ -1,5 +1,9 @@
 # MEDICATION GUIDE
 
+Claravis™
+
+(isotretinoin capsules, USP)
+
 Read the Medication Guide that comes with Claravis before you start taking it and each time you get a prescription.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -10,7 +14,7 @@ What is the most important information I should know about Claravis?
 - Because Claravis can cause birth defects, Claravis is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
 - Claravis may cause serious mental health problems.
 
-1. Birth defects(deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+1. Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
    Female patients who are pregnant or who plan to become pregnant must not take Claravis.
    Female patients must not get pregnant:
 
@@ -87,7 +91,7 @@ Tell your doctor if you or a family member has any of the following health condi
 - diabetes
 - heart disease
 - bone loss (osteoporosis) or weak bones
-- an eating problem called anorexia nervosa (where people eat too little),
+- an eating problem called anorexia nervosa (where people eat too little)
 - food or medicine allergies
 
 Tell your doctor if you are pregnant or breastfeeding.
@@ -189,10 +193,14 @@ What are the possible side effects of Claravis?
 - bad headache
 - blurred vision
 - dizziness
-- nausea, or vomiting
+- nausea or vomiting
 - seizures (convulsions)
 - stroke
-- stomach area (abdomen) problems.
+- skin problems.
+  Skin rash can occur in patients taking Claravis.
+  In some patients a rash can be serious.
+  Stop using Claravis and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like “pink eye”), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
+- stomach area (abdomen)problems.
   Certain symptoms may mean that your internal organs are being damaged.
   These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
   If your organs are damaged, they may not get better even after you stop taking Claravis.
@@ -240,12 +248,13 @@ Claravis may stop long bone growth in teenagers who are still growing.
   Tell your doctor if you are very thirsty or urinate a lot.
 - decreased red and white blood cells.
   Call your doctor if you have trouble breathing, faint, or feel weak.
-
-The common, less serious side effects of Claravis are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
-Call your doctor if you get any side effect that bothers you or that does not go away.
+- The common, less serious side effects of Claravis are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
+  Call your doctor if you get any side effect that bothers you or that does not go away.
 
 These are not all of the possible side effects with Claravis.
 Your doctor or pharmacist can give you more detailed information.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Claravis?
 
@@ -262,7 +271,7 @@ It may harm them.
 
 This Medication Guide summarizes the most important information about Claravis.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Claravis that is written for health care professionals.
+You can ask your doctor or pharmacist for information about Claravis that is written for healthcare professionals.
 You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Claravis?
@@ -276,7 +285,7 @@ The 20 mg capsule contains black iron oxide, red iron oxide and yellow iron oxid
 The 30 mg capsule contains red iron oxide and yellow iron oxide.
 The 40 mg capsule FD&C yellow no. 6.
 
-The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, ethylene glycol monoethyl ether, FD&C yellow no. 6, pharmaceutical shellac and titanium dioxide; 20 mg strength, ammonium hydroxide, pharmaceutical glaze, propylene glycol, simethicone and titanium dioxide; the 30 mg strength, D&C yellow no. 10, FD&C blue no.1, FD&C blue no. 2, FD&C red no. 40, iron oxide black, propylene glycol, and shellac glaze; the 40 mg strength, ammonium hydroxide, FD&C blue no. 2, iron oxide black, propylene glycol, and shellac glaze.
+The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, ethylene glycol monoethyl ether, FD&C yellow no. 6 aluminum lake, pharmaceutical shellac and titanium dioxide; 20 mg strength, ammonium hydroxide, pharmaceutical glaze, propylene glycol, simethicone and titanium dioxide; the 30 mg strength, D&C yellow no. 10 aluminum lake, FD&C blue no.1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, iron oxide black, propylene glycol, and shellac glaze; the 40 mg strength, ammonium hydroxide, FD&C blue no. 2, iron oxide black, propylene glycol, and shellac glaze.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

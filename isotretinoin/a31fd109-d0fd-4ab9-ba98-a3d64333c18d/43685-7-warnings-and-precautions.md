@@ -4,7 +4,7 @@
 
 Claravis may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
 No mechanism of action has been established for these events (see ADVERSE REACTIONS, Psychiatric).
-Prescribers should read the brochure “Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin”.
+Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
 Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
 Therefore,prior to initiation of Claravis therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
 Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
@@ -22,6 +22,12 @@ Claravis use has been associated with a number of cases of pseudotumor cerebri (
 Concomitant treatment with tetracyclines should therefore be avoided.
 Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
 Patients with these symptoms should be screened for papilledema and, if present, they should be told to discontinue Claravis immediately and be referred to a neurologist for further diagnosis and care (see ADVERSE REACTIONS, Neurological).
+
+## Serious Skin Reactions
+
+There have been post-marketing reports of erythema multiforme and severe skin reactions [e.g., Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)] associated with isotretinoin use.
+These events may be serious and result in death, life-threatening events, hospitalization, or disability.
+Patients should be monitored closely for severe skin reactions, and discontinuation of Claravis should be considered if warranted.
 
 ## Pancreatitis
 
@@ -46,7 +52,7 @@ The cardiovascular consequences of hypertriglyceridemia associated with Claravis
 ### Animal Studies:
 
 In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries, and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
-Focal endocardial and myocardial calcifications associated with calcification of the coronary arteries were observed in two dogs after approximately 6 to 7 months of treatment with isotretinoin at a dosage of 60 to 120 mg/kg/day (30 to 60 times the recommended clinical dose of 1 mg/kg/day, respectively after normalization for total body surface area).
+Focal endocardial and myocardial calcifications associated with calcification of the coronary arteries were observed in two dogs after approximately 6 to 7 months of treatment with isotretinoin at a dosage of 60 to 120 mg/kg/day (30 to 60 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
 
 ## Hearing Impairment
 
@@ -84,7 +90,7 @@ In a separate open-label extension study of 10 patients, ages 13 to 18 years, wh
 
 Spontaneous reports of osteoporosis, osteopenia, bone fractures, and delayed healing of bone fractures have been seen in the Claravis population.
 While causality to Claravis has not been established, an effect cannot be ruled out.
-Longer-term effects have not been studied.
+Longer term effects have not been studied.
 It is important that Claravis be given at the recommended doses for no longer than the recommended duration.
 
 ### Hyperostosis:
@@ -123,7 +129,7 @@ Claravis must only be prescribed by prescribers who are registered and activated
 Claravis must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
 Registered and activated pharmacies must receive isotretinoin only from wholesalers registered with iPLEDGE.
 
-iPLEDGE program requirements for wholesalers, prescribers and pharmacists are described below:
+iPLEDGE program requirements for wholesalers, prescribers, and pharmacists are described below:
 
 ## Wholesalers
 
@@ -137,8 +143,7 @@ These include:
 - Only shipping isotretinoin to -wholesalers registered in the iPLEDGE program with prior written consent from the manufacturer or -pharmacies licensed in the US and registered and activated in the iPLEDGE program
 - Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
 - Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE program by the isotretinoin manufacturer (or delegate)
-- Returning to the manufacturer (or delegate) any undistributed product if registration is revoked by the manufacturer or if the wholesaler chooses to not reregister annually
-- Providing product flow data to manufacturer (or delegate) as detailed in the wholesalers agreement
+- Returning to the manufacturer (or delegate) any undistributed product if registration is revoked by the manufacturer or if the wholesaler chooses to not re-register annually
 
 ## Prescribers
 
@@ -147,15 +152,15 @@ Prescribers can register by signing and returning the completed registration for
 Prescribers can only activate their registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
-- I know the risk factors for unplanned pregnancy and the effective measures for avoidancef unplanned pregnancy.
-- I have the expertise to provide the patient with detailed pregnancy prevention counselingor I will refer her to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE program requirements described in the booklets entitledThe Guide to Best Practices for the iPLEDGE Program and The iPLEDGEProgram Prescriber Contraception Counseling Guide.
-- Before beginning treatment of female patients of child bearing potential with isotretinoinnd on a monthly basis, the patient will be counseled to avoid pregnancy by using twoorms of contraception simultaneously and continuously one month before, during, andne month after isotretinoin therapy, unless the patient commits to continuous abstinence.
-- I will not prescribe isotretinoin to any female patient of childbearing potential until verifyinghe has a negative screening pregnancy test and monthly negative CLIA-certified(Clinical Laboratory Improvement Amendment) pregnancy tests.
-  Patientshould have a pregnancy test at the completion of the entire course of isotretinoin andnother pregnancy test 1 month later.
+- I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
+- I have the expertise to provide the patient with detailed pregnancy prevention counseling or I will refer her to an expert for such counseling, reimbursed by the manufacturer.
+- I will comply with the iPLEDGE program requirements described in the booklets entitled The Guide to Best Practices for the iPLEDGE Program and The iPLEDGE Program Prescriber Contraception Counseling Guide.
+- Before beginning treatment of female patients of childbearing potential with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously one month before, during, and one month after isotretinoin therapy, unless the patient commits to continuous abstinence.
+- I will not prescribe isotretinoin to any female patient of childbearing potential until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified(Clinical Laboratory Improvement Amendment) pregnancy tests.
+  Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test 1 month later.
 - I will report any pregnancy case that I become aware of while the female patient is on isotretinoin or 1 month after the last dose to the pregnancy registry.
 
-To prescribe isotretinoin, the Prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
+To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
 1. Register each patient in the iPLEDGE program.
 2. Confirm monthly that each patient has received counseling and education.
@@ -175,7 +180,7 @@ Meeting the requirements for a female patient of childbearing potential signifie
 - Has had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial isotretinoin prescription.
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for isotretinoin.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
-  The interval between the 2 tests should be at least 19 days. - For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period, immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month. -For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done, immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month.
+  The interval between the 2 tests should be at least 19 days. - For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month. -For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used 2 forms of contraception for 1 month.
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
 - Has selected and has committed to use 2 forms of effective contraception simultaneously, at least 1 of which must be a primary form, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
@@ -250,7 +255,7 @@ In addition to the requirements for all patients described above, female patient
 - Must comply with the required pregnancy testing at a CLIA-certified laboratory
 - Must fill and pick up the prescription within 7 days of the date of specimen collection for the pregnancy test
 - Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence from heterosexual intercourse, and understand behaviors associated with an increased risk of pregnancy
-- Must understand that it is her responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
+- Must understand that it is her responsibility to avoid pregnancy 1 month before, during and 1 month after isotretinoin therapy
 - Must have signed an additional Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
 - Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
 - Must have been informed of the purpose and importance of providing information to the iPLEDGE program should she become pregnant while taking isotretinoin or within 1 month of the last dose
@@ -263,7 +268,7 @@ The Responsible Site Pharmacist must register the pharmacy by signing and return
 After registration, the Responsible Site Pharmacist can only activate the pharmacy registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
-- I will train all pharmacists, who participate in the filling and dispensing of isotretinoin prescriptions on the iPLEDGE program requirements.
+- I will train all pharmacists, who participate in the filling and dispensing of isotretinoin prescriptions, on the iPLEDGE program requirements.
 - I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE program requirements described in the booklet entitled Pharmacist Guide for the iPLEDGE Program.
 - I will obtain Claravis product only from iPLEDGE registered wholesalers.
 - I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
@@ -299,9 +304,9 @@ The main goal of these educational materials is to explain the iPLEDGE program r
 2. TheiPLEDGE Program Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive methods, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
 3. The Pharmacist Guide for the iPLEDGE Program includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription
 4. The iPLEDGE program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-   The iPLEDGE program includes information on the risk and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription
+   The iPLEDGE program includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription
 5. Female patients not of childbearing potential and male patients, and female patients of childbearing potential are provided with separate booklets.
-   Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line, which provides isotretinoin information in 2 languages.
+   Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in 2 languages.
 6. The booklet for female patients not of childbearing potential and male patients, TheiPLEDGEProgram Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for 1 month following discontinuation of isotretinoin
 7. The booklet for female patients of childbearing potential, TheiPLEDGEProgram Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects
 8. The booklet, The iPLEDGE Program Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
@@ -325,10 +330,10 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
   For additional information, patients must also be instructed to read the iPLEDGE program patient educational materials.
   All patients must sign the Patient Information/Informed Consent (for all patients) form.
 - Female patients of childbearing potential must be instructed that they must not be pregnant when Claravis therapy is initiated, and that they should use 2 forms of effective contraception simultaneously for 1 month before starting Claravis, while taking Claravis, and for 1 month after Claravis has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
-  They should also sign a second Patient Information/Informed Consent About Birth defects (for female patients who can get pregnant) form prior to beginning Claravis therapy.
+  They should also sign a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning Claravis therapy.
   They should be given an opportunity to view the patient DVD provided by the manufacturer to the prescriber.
   The DVD includes information about contraception, the most common reasons that contraception fails, and the importance of using 2 forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects, which could occur if a female patient who is pregnant takes Claravis at any time during pregnancy.
-  Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Claravis prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS).
+  Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Claravis prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS and PRECAUTIONS).
 - Claravis is found in the semen of male patients taking Claravis, but the amount delivered to a female partner would be about 1 million times lower than an oral dose of 40 mg.
   While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include 4 with isolated defects compatible with features of retinoid exposed fetuses; however 2 of these reports were incomplete, and 2 had other possible explanations for the defects observed.
 - Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
@@ -365,12 +370,14 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
   There have been rare postmarketing reports of rhabdomyolysis, some associated with strenuous physical activity (see Laboratory Tests, CPK).
 - Pediatric patients and their caregivers should be informed that approximately 29% (104/358) of pediatric patients treated with Claravis developed back pain.
   Back pain was severe in 13.5% (14/104) of the cases and occurred at a higher frequency in female patients than male patients.
-  Arthralagias were experienced in 22% (79/358) of pediatric patients.
-  Arthralagias were severe in 7.6% (6/79) of patients.
+  Arthralgias were experienced in 22% (79/358) of pediatric patients.
+  Arthralgias were severe in 7.6% (6/79) of patients.
   Appropriate evaluation of the musculoskeletal system should be done in patients who present with these symptoms during or after a course of Claravis.
   Consideration should be given to discontinuation of Claravis if any significant abnormality is found.
 - Neutropenia and rare cases of agranulocytosis have been reported.
   Claravis should be discontinued if clinically significant decreases in white cell counts occur.
+- Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in post-marketing data.
+  Claravis should be discontinued if clinically significant skin reactions occur.
 
 ### Hypersensitivity:
 
@@ -403,9 +410,9 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 
 ## Laboratory Tests
 
-### - Pregnancy Test:
+### • Pregnancy Test:
 
-Female patients of childbearing potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Claravis prescription.
+- Female patients of childbearing potential must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Claravis prescription.
 The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for Claravis.
 The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
 The interval between the two tests must be at least 19 days.
@@ -432,7 +439,7 @@ A pregnancy test must be repeated each month, in a CLIA-certified laboratory, pr
 
 ### Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-In male and female Fischer 344 rats given oral isotretinoin at dosages of 8 or 32 mg/kg/day (1.3 or 5.3 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area) for greater than 18 months, there was a dose-related increased incidence of pheochromocytoma relative to controls.
+In male and female Fischer 344 rats given oral isotretinoin at dosages of 8 or 32 mg/kg/day (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area) for greater than 18 months, there was a dose-related increased incidence of pheochromocytoma relative to controls.
 The incidence of adrenal medullary hyperplasia was also increased at the higher dosage in both sexes.
 The relatively high level of spontaneous pheochromocytomas occurring in the male Fischer 344 rat makes it an equivocal model for study of this tumor; therefore, the relevance of this tumor to the human population is uncertain.
 
@@ -441,14 +448,14 @@ The results of the tests in one laboratory were negative while in the second lab
 No dose-response effect was seen and all other strains were negative.
 Additionally, other tests designed to assess genotoxicity (Chinese hamster cell assay, mouse micronucleus test, S. cerevisiae D7 assay, in vitro clastogenesis assay with human-derived lymphocytes, and unscheduled DNA synthesis assay) were all negative.
 
-In rats, no adverse effects on gonadal function, fertility, conception rate, gestation or parturition were observed at oral dosages of isotretinoin of 2, 8 or 32 mg/kg/day (0.3, 1.3, or 5.3 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
+In rats, no adverse effects on gonadal function, fertility, conception rate, gestation or parturition were observed at oral dosages of isotretinoin of 2, 8, or 32 mg/kg/day (0.3, 1.3, or 5.3 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
 
 In dogs, testicular atrophy was noted after treatment with oral isotretinoin for approximately 30 weeks at dosages of 20 or 60 mg/kg/day (10 or 30 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
 In general, there was microscopic evidence for appreciable depression of spermatogenesis but some sperm were observed in all testes examined and in no instance were completely atrophic tubules seen.
 In studies of 66 men, 30 of whom were patients with nodular acne under treatment with oral isotretinoin, no significant changes were noted in the count or motility of spermatozoa in the ejaculate.
 In a study of 50 men (ages 17 to 32 years) receiving isotretinoin therapy for nodular acne, no significant effects were seen on ejaculate volume, sperm count, total sperm motility, morphology or seminal plasma fructose.
 
-## Pregnancy Category X
+## Pregnancy: Category X
 
 See Boxed CONTRAINDICATIONS AND WARNINGS.
 
@@ -470,7 +477,6 @@ In an open-label clinical trial (N=217) of a single course of therapy with Clara
 One patient had a decrease in lumbar spine bone mineral density >4% based on unadjusted data.
 Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density >4%, and all the other patients (92%) did not have significant decreases or had increases (adjusted for body mass index).
 Nine patients (4.5%) had a decrease in total hip bone mineral density >5% based on unadjusted data.
-
 Twenty-one (10.6%) patients had decreases in total hip bone mineral density >5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
 Follow-up studies performed in 8 of the patients with decreased bone mineral density for up to 11 months thereafter demonstrated increasing bone density in 5 patients at the lumbar spine, while the other 3 patients had lumbar spine bone density measurements below baseline values.
 Total hip bone mineral densities remained below baseline (range -1.6% to -7.6%) in 5 of 8 patients (62.5%).
