@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018240"
+  ],
   "inn": "atenolol",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0310-0105-10",
     "0310-0107-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "TENORMIN"
+    }
+  ],
   "setid": "fcfc9676-4edc-460e-6199-8161b824908f",
   "source": "dailymed"
 }

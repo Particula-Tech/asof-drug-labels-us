@@ -3,8 +3,6 @@
 ## Cardiac Failure
 
 Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
-In patients who have congestive heart failure controlled by digitalis and/or diuretics, TENORMIN should be administered cautiously.
-Both digitalis and atenolol slow AV conduction.
 
 In patients with acute myocardial infarction, cardiac failure which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy is a contraindication to beta-blocker treatment.
 
@@ -87,6 +85,11 @@ Patients treated with TENORMIN plus a catecholamine depletor should therefore be
 
 Calcium channel blockers may also have an additive effect when given with TENORMIN (See WARNINGS).
 
+Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
+Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+
 Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
 If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine.
 If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
@@ -98,6 +101,9 @@ Data from several studies, ie, TIMI-II, ISIS-2, currently do not suggest any cli
 
 While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

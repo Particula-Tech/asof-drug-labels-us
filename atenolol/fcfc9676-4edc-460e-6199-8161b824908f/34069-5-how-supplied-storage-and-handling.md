@@ -15,7 +15,7 @@ Dispense in well-closed, light-resistant containers.
 
 TENORMIN is a trademark of the Astrazeneca group of companies
 
-©AstraZeneca 2001, 2003, 2004
+©AstraZeneca 2002, 2003, 2004, 2008
 
 Manufactured for:
 
@@ -25,8 +25,8 @@ Wilmington, DE 19850
 
 By: IPR Pharmaceuticals, Inc.
 
-Carolina, PR 00984
+Canovanas, PR 00729
 
-610202
+6102–04
 
-Rev 02/05
+Rev 04/08
