@@ -128,6 +128,6 @@ Distributed by Abraxis BioScience, LLC Bridgewater, NJ 08807
 
 This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
 
-Based on: ABRAXANE Package Insert Revised: September 2009
+Based on: ABRAXANE Package Insert Revised: March 2010
 
-Revised: September 2009
+Revised: March 2010

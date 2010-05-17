@@ -89,6 +89,8 @@ In the randomized metastatic breast cancer study, bleeding episodes were reporte
 Anemia (Hb <11 g/dL) was observed in 33% of patients treated with ABRAXANE in the randomized trial and was severe (Hb <8 g/dL) in 1% of the cases.
 Among all patients with normal baseline hemoglobin, 31% became anemic on study and 1% had severe anemia.
 
+Rare reports of pancytopenia have been observed in clinical trials and during postmarketing surveillance of ABRAXANE.
+
 ### Hypersensitivity Reactions (HSRs)
 
 In the randomized controlled metastatic breast cancer study, Grade 1 or 2 HSRs occurred on the day of ABRAXANE administration and consisted of dyspnea (1%) and flushing, hypotension, chest pain, and arrhythmia (all <1%).
@@ -113,6 +115,9 @@ ECG abnormalities on study did not usually result in symptoms, were not dose-lim
 ECG abnormalities were noted in 60% of patients in the metastatic breast cancer randomized trial.
 Among patients with a normal ECG prior to study entry, 35% of all patients developed an abnormal tracing while on study.
 The most frequently reported ECG modifications were non-specific repolarization abnormalities, sinus bradycardia, and sinus tachycardia.
+
+During postmarketing surveillance, rare reports of congestive heart failure and left ventricular dysfunction have been observed among individuals receiving ABRAXANE.
+Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
 
 ### Respiratory
 
@@ -191,6 +196,7 @@ Rare cases of cardiac ischemia/infarction and thrombosis/embolism possibly relat
 Alopecia was observed in almost all of the patients.
 Nail changes (changes in pigmentation or discoloration of nail bed) were uncommon.
 Edema (fluid retention) was infrequent (10% of randomized trial patients); no patients had severe edema.
+In clinical trials and during postmarketing surveillance of ABRAXANE, dehydration was common and pyrexia was very common.
 
 The following rare adverse events have been reported as part of the continuing surveillance of paclitaxel injection safety and may occur following ABRAXANE treatment: skin abnormalities related to radiation recall as well as reports of Stevens-Johnson syndrome, toxic epidermal necrolysis, conjunctivitis, and increased lacrimation.
 As part of the continuing surveillance of ABRAXANE, skin reactions including generalized or maculo-papular rash, erythema, and pruritis have been observed.
