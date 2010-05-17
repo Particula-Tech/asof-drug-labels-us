@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022430"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Xanodyne Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "66479-650-01",
+    "66479-650-30",
+    "66479-650-31",
+    "66479-650-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tranexamic acid",
+      "name": "LYSTEDA"
+    }
+  ],
+  "setid": "aea7e4e6-632f-4f49-90aa-9642d6d23df8",
+  "source": "dailymed"
+}
