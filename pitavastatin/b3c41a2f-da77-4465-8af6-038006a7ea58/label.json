@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022363"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-4770-90",
+    "0002-4771-90",
+    "0002-4772-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin",
+      "name": "Livalo"
+    }
+  ],
+  "setid": "b3c41a2f-da77-4465-8af6-038006a7ea58",
+  "source": "dailymed"
+}
