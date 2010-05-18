@@ -1,0 +1,42 @@
+# INDICATIONS AND USAGE
+
+## A. For Intramuscular Administration
+
+When oral therapy is not feasible and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intramuscular use of DEPO-MEDROL Sterile Aqueous Suspension is indicated as follows:
+
+Allergic States: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, seasonal or perennial allergic rhinitis, serum sickness, transfusion reactions.
+
+Dermatologic Diseases: Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus, severe erythema multiforme (Stevens-Johnson syndrome).
+
+Endocrine Disorders: Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance), congenital adrenal hyperplasia, hypercalcemia associated with cancer, nonsuppurative thyroiditis.
+
+Gastrointestinal Diseases: To tide the patient over a critical period of the disease in regional enteritis (systemic therapy), ulcerative colitis.
+
+Hematologic Disorders: Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond blackfan anemia), pure red cell aplasia, select cases of secondary thrombocytopenia.
+
+Miscellaneous: Trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy.
+
+Neoplastic Diseases: For palliative management of leukemias and lymphomas.
+
+Nervous System: Acute exacerbations of multiple sclerosis.
+Cerebral edema associated with primary or metastatic brain tumor or craniotomy.
+
+Ophthalmic Diseases: Sympathetic ophthalmia, temporal arteritis, uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids.
+
+Renal Diseases: To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome, or that due to lupus erythematosus.
+
+Respiratory Diseases: Berylliosis, symptomatic sarcoidosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy, idiopathic eosinophilic pneumonias, symptomatic sarcoidosis.
+
+Rheumatic Disorders: As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute rheumatic carditis, ankylosing spondylitis, psoriatic arthritis, rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy).
+For the treatment of dermatomyositis, polymyositis, and systemic lupus erythematosus.
+
+## B. FOR INTRA-ARTICULAR OR SOFT TISSUE ADMINISTRATION
+
+(See WARNINGS)
+
+DEPO-MEDROL is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis of osteoarthritis.
+
+## C. FOR INTRALESIONAL ADMINISTRATION
+
+DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus, keloids, localized hypertrophic, infiltrated, inflammatory lesions of granuloma annulare, lichen planus, lichen simplex chronicus (neurodermatitis), and psoriatic plaques, necrobiosis lipoidica diabeticorum.
+DEPO-MEDROL also may be useful in cystic tumors of an aponeurosis or tendon (ganglia).
