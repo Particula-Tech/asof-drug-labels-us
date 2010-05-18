@@ -1,14 +1,29 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021093",
+    "NDA021293"
+  ],
   "inn": "candesartan",
   "labeler": "AstraZeneca LP",
   "package_ndcs": [
     "0186-0162-28",
     "0186-0162-54",
     "0186-0322-28",
-    "0186-0322-54"
+    "0186-0322-54",
+    "0186-0324-54"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil and hydrochlorothiazide",
+      "name": "ATACAND HCT"
+    },
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil hydrochlorothiazide",
+      "name": "ATACAND HCT"
+    }
+  ],
   "setid": "48b021e4-5897-42fd-12be-3190a9b087e8",
   "source": "dailymed"
 }

@@ -16,9 +16,10 @@ Its empirical formula is C7H8ClN3O4S2 and its structural formula is
 
 Hydrochlorothiazide is a white, or practically white, crystalline powder with a molecular weight of 297.72, which is slightly soluble in water, but freely soluble in sodium hydroxide solution.
 
-ATACAND HCT is available for oral administration in two tablet strengths of candesartan cilexetil and hydrochlorothiazide.
+ATACAND HCT is available for oral administration in three tablet strengths of candesartan cilexetil and hydrochlorothiazide.
 
 ATACAND HCT 16-12.5 contains 16 mg of candesartan cilexetil and 12.5 mg of hydrochlorothiazide.
 ATACAND HCT 32-12.5 contains 32 mg of candesartan cilexetil and 12.5 mg of hydrochlorothiazide.
-The inactive ingredients of the tablets are calcium carboxymethylcellulose, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, corn starch, polyethylene glycol 8000, and ferric oxide (yellow).
-Ferric oxide (reddish brown) is also added to the 16-12.5 mg tablet as colorant.
+ATACAND HCT 32–25 contains 32 mg of candesartan cilexetil and 25 mg of hydrochlorothiazide.
+The inactive ingredients of the tablets are carboxymethylcellulose calcium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, corn starch, polyethylene glycol 8000, and ferric oxide (yellow).
+Ferric oxide (reddish brown) is also added to the 16-12.5 mg and 32–25 mg tablets as colorant.

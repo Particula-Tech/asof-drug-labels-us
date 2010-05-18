@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE & ADMINISTRATION
 
 The usual recommended starting dose of candesartan cilexetil is 16 mg once daily when it is used as monotherapy in patients who are not volume depleted.
 ATACAND can be administered once or twice daily with total daily doses ranging from 8 mg to 32 mg.
