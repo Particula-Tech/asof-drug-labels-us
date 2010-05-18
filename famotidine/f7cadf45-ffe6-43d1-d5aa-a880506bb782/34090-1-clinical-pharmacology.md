@@ -61,7 +61,7 @@ Table 1: Outpatients with Endoscopically Confirmed Healed Duodenal Ulcers
 |  | (N = 89) | (N = 84) | (N = 97) |
 | --- | --- | --- | --- |
 |  | PEPCID | PEPCID | Placebo |
-|  | 40 mg h.s. | 20 mg b.i.d | h.s. |
+|  | 40 mg h.s. | 20 mg b.i.d. | h.s. |
 | Week 2 | Statistically significantly different than placebo (p<0.001)32% | 38% | 17% |
 | Week 4 | 70% | 67% | 31% |
 
@@ -112,7 +112,7 @@ Table 3: % Successful Symptomatic Outcome
 |  | 20 mg b.i.d. | 40 mg h.s. | Placebo |
 | Week 6 | 82p≤0.01 vs Placebo | 69 | 62 |
 
-By two weeks of treatment symptomatic success was observed in a greater percentage of patients taking PEPCID 20 mg b.i.d. compared to placebo (p≤0.01).
+By two weeks of treatment, symptomatic success was observed in a greater percentage of patients taking PEPCID 20 mg b.i.d. compared to placebo (p≤0.01).
 
 Symptomatic improvement and healing of endoscopically verified erosion and ulceration were studied in two additional trials.
 Healing was defined as complete resolution of all erosions or ulcerations visible with endoscopy.
@@ -124,8 +124,8 @@ Table 4: % Endoscopic Healing - U.S. Study
 | --- | --- | --- | --- |
 |  | PEPCID | PEPCID |  |
 |  | 40 mg b.i.d. | 20 mg b.i.d. | Placebo |
-| Week 6 | 48p≤0.01 vs Placebop≤0.01 vs PEPCID 20 mg b.i.d. | 32 | 18 |
-| Week 12 | 69p≤0.05 vs PEPCID 20 mg b.i.d. | 54 | 29 |
+| Week 6 | 48p≤0.01 vs Placebo,p≤0.01 vs PEPCID 20 mg b.i.d. | 32 | 18 |
+| Week 12 | 69,p≤0.05 vs PEPCID 20 mg b.i.d. | 54 | 29 |
 
 As compared to placebo, patients who received PEPCID had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
 These differences were statistically significant.

@@ -13,7 +13,7 @@ Body as a Whole: fever, asthenia, fatigue
 
 Cardiovascular: arrhythmia, AV block, palpitation
 
-Gastrointestinal: cholestatic jaundice, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+Gastrointestinal: cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
 Hematologic: rare cases of agranulocytosis, pancytopenia, leukopenia, thrombocytopenia
 
@@ -26,7 +26,7 @@ Convulsions, in patients with impaired renal function, have been reported very r
 
 Respiratory: bronchospasm, interstitial pneumonia
 
-Skin: toxic epidermal necrolysis/Stevens Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
+Skin: toxic epidermal necrolysis/Stevens-Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
 
 Special Senses: tinnitus, taste disorder
 

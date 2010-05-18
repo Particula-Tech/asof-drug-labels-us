@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019462"
+  ],
   "inn": "famotidine",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0963-31",
     "0006-0963-58",
     "0006-0964-31",
     "0006-0964-58"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "famotidine",
+      "name": "PEPCID"
+    }
+  ],
   "setid": "f7cadf45-ffe6-43d1-d5aa-a880506bb782",
   "source": "dailymed"
 }
