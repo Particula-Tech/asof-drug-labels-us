@@ -7,7 +7,9 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 The safety data presented in Table 1 (below) reflect exposure to EXTINA® Foam in 672 subjects, 12 years and older with seborrheic dermatitis.
 Subjects applied EXTINA® Foam or vehicle foam twice daily for 4 weeks to affected areas on the face, scalp, and/or chest.
-Adverse reactions occurring in > 1% of subjects are presented in Table 1.
+Adverse reactions occurring in > 1% of subjects are presented in
+
+Table 1.
 
 Table 1: Adverse Reactions Reported by > 1% Subjects in Clinical Trials
 

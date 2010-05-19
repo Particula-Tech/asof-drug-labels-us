@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling.
+(17.3)
 
 ## 17.1 Instructions for Use
 
@@ -18,3 +19,7 @@ Dispense onto a cool surface, and apply to the affected areas using the fingerti
 • As with any topical medication, patients should wash their hands after application.
 
 • Inform a physician if the area of application shows signs of increased irritation and report any signs of adverse reactions.
+
+## 17.3 Patient Package Insert
+
+-See below-

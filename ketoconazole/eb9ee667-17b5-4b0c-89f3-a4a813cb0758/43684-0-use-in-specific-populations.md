@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects, Pregnancy Category C: Ketoconazole has been shown to be teratogenic (syndactylia and oligodactylia) in the rat when given orally in the diet at 80 mg/kg/day (4.8 times the maximum expected human topical dose based on a mg/m2 comparison, assuming 100% absorption from 8 g of foam).
+Teratogenic Effects, Pregnancy Category C:
+
+Ketoconazole has been shown to be teratogenic (syndactylia and oligodactylia) in the rat when given orally in the diet at 80 mg/kg/day (4.8 times the maximum expected human topical dose based on a mg/m2 comparison, assuming 100% absorption from 8 g of foam).
 However, these effects may be partly related to maternal toxicity, which was also observed at this dose level.
 [See Pharmacokinetics (12.3)]
 

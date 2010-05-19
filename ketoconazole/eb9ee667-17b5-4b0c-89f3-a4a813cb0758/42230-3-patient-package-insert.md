@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 EXTINA® (ex-TEEN-ah) Foam (ketoconazole, 2%)
 
@@ -101,7 +101,7 @@ Manufactured for
 
 Stiefel Laboratories, Inc., Coral Gables, FL 33134 USA
 
-VERSAFOAM-HF, VERSAFOAM-HF and Design, EXTINA, and V Design, STIEFEL, and STIEFEL and Design are registered trademarks of Stiefel Laboratories, Inc.
+VERSAFOAM-HF, VERSAFOAM-HF and Design, EXTINA®, and V Design, STIEFEL, and STIEFEL and Design are registered trademarks of Stiefel Laboratories, Inc.
 
 U.S. Patent Pending
 
@@ -109,4 +109,4 @@ U.S. Patent Pending
 
 302418
 
-AW-0854
+AW No.: AW-0854
