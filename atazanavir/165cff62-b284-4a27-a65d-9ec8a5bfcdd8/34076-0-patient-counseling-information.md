@@ -20,7 +20,9 @@ However, if a dose is skipped the patient should not double the next dose.
 
 REYATAZ may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort.
 
-Patients receiving a PDE5 inhibitor and atazanavir should be advised that they may be at an increased risk of PDE5 inhibitor-associated adverse events including hypotension, visual changes, and prolonged penile erection, and should promptly report any symptoms to their doctor.
+Patients receiving a PDE5 inhibitor and atazanavir should be advised that they may be at an increased risk of PDE5 inhibitor-associated adverse events including hypotension, syncope, visual disturbances, and priapism, and should promptly report any symptoms to their doctor.
+
+Patients should be informed that REVATIO® (used to treat pulmonary arterial hypertension) is contraindicated with REYATAZ and that dose adjustments are necessary when REYATAZ is used with CIALIS®, LEVITRA® or VIAGRA® (used to treat erectile dysfunction), or ADCIRCA® (used to treat pulmonary arterial hypertension).
 
 ## 17.3 Cardiac Conduction Abnormalities
 

@@ -35,7 +35,7 @@ Some of these conditions are pneumonia, herpes virus infections, and Mycobacteri
 It is very important that you see your healthcare provider regularly while taking REYATAZ.
 
 REYATAZ does not lower your chance of passing HIV to other people through sexual contact, sharing needles, or being exposed to your blood.
-For your health and the health of others, it is important to always practice safe sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+For your health and the health of others, it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 Never use or share dirty needles.
 
 Who should not take REYATAZ?
@@ -43,7 +43,7 @@ Who should not take REYATAZ?
 Do not take REYATAZ if you:
 
 - are taking certain medicines.
-  (See “What important information should I know about taking REYATAZ with other medicines?")
+  (See "What important information should I know about taking REYATAZ with other medicines?")
   Serious life-threatening side effects or death may happen.
   Before you take REYATAZ, tell your healthcare provider about all medicines you are taking or planning to take.
   These include other prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -66,7 +66,7 @@ Tell your healthcare provider:
   Also, it is not known if REYATAZ can pass into your breast milk and if it can harm your baby.
   If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
 - If you have liver problems or are infected with the hepatitis B or C virus.
-  See “What are the possible side effects of REYATAZ?"
+  See "What are the possible side effects of REYATAZ?"
 - If you have end stage kidney disease managed with hemodialysis.
 - If you have diabetes.
   See "What are the possible side effects of REYATAZ?"
@@ -174,6 +174,8 @@ Do not take the following medicines with REYATAZ because of possible serious sid
 - CRIXIVAN® (indinavir, used for HIV infection).
   Both REYATAZ and CRIXIVAN sometimes cause increased levels of bilirubin in the blood.
 - Cholesterol-lowering medicines MEVACOR® (lovastatin) or ZOCOR® (simvastatin).
+- UROXATRAL® (alfuzosin, used to treat benign enlargement of the prostate).
+- REVATIO® (sildenafil, used to treat pulmonary arterial hypertension).
 
 Do not take the following medicines with REYATAZ because they may lower the amount of REYATAZ in your blood.
 This may lead to an increased HIV viral load.
@@ -183,15 +185,20 @@ Resistance to REYATAZ or cross-resistance to other HIV medicines may develop:
 - St. John’s wort (Hypericum perforatum), an herbal product sold as a dietary supplement, or products containing St. John’s wort.
 - VIRAMUNE® (nevirapine, used for HIV infection).
 
+The following medicines are not recommended with REYATAZ:
+
+- SEREVENT DISKUS® (salmeterol) and ADVAIR® (salmeterol with fluticasone), used to treat asthma, emphysema/chronic obstructive pulmonary disease also known as COPD.
+
 Do not take the following medicine if you are taking REYATAZ and NORVIR® together:
 
 - VFEND® (voriconazole).
 
-The following medicines may require your healthcare provider to monitor your therapy more closely:
+The following medicines may require your healthcare provider to monitor your therapy more closely (for some medicines a change in the dose or dose schedule may be needed):
 
-- CIALIS® (tadalafil), LEVITRA® (vardenafil), or VIAGRA® (sildenafil).
+- CIALIS® (tadalafil), LEVITRA® (vardenafil), or VIAGRA® (sildenafil), used to treat erectile dysfunction.
   REYATAZ may increase the chances of serious side effects that can happen with CIALIS, LEVITRA, or VIAGRA.
   Do not use CIALIS, LEVITRA, or VIAGRA while you are taking REYATAZ unless your healthcare provider tells you it is okay.
+- ADCIRCA® (tadalafil) or TRACLEER® (bosentan), used to treat pulmonary arterial hypertension.
 - LIPITOR® (atorvastatin) or CRESTOR® (rosuvastatin).
   There is an increased chance of serious side effects if you take REYATAZ with this cholesterol-lowering medicine.
 - Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
@@ -202,8 +209,9 @@ The following medicines may require your healthcare provider to monitor your the
 - Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
 - Medicines to prevent organ transplant rejection: SANDIMMUNE® or NEORAL® (cyclosporin), RAPAMUNE® (sirolimus), or PROGRAF® (tacrolimus).
 - The antidepressant trazodone (DESYREL® and others).
-- Fluticasone propionate (ADVAIR®, FLONASE®, FLOVENT®), given by nose or inhaled to treat allergic symptoms or asthma.
+- Fluticasone propionate (FLONASE®, FLOVENT®), given by nose or inhaled to treat allergic symptoms or asthma.
   Your doctor may choose not to keep you on fluticasone, especially if you are also taking NORVIR®.
+- Colchicine (COLCRYS®), used to prevent or treat gout or treat familial Mediterranean fever.
 
 The following medicines may require a change in the dose or dose schedule of either REYATAZ or the other medicine:
 
@@ -260,8 +268,6 @@ COUMADIN® and SUSTIVA® are registered trademarks of Bristol-Myers Squibb Pharm
 DESYREL® is a registered trademark of Mead Johnson and Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
 
-US Patent Nos: 5,849,911 and 6,087,383
-
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226A6 Rev January 2010
+1246226A7 Rev April 2010
