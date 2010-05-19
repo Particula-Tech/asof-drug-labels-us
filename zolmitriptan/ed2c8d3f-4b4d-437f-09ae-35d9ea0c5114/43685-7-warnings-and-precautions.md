@@ -1,6 +1,4 @@
-# WARNINGS:
-
-ZOMIG should only be used where a clear diagnosis of migraine has been established.
+# WARNINGS
 
 Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events: ZOMIG should not be given to patients with documented ischemic or vasospastic coronary artery disease (see CONTRAINDICATIONS).
 It is strongly recommended that zolmitriptan not be given to patients in whom unrecognized coronary artery disease (CAD) is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, or male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
@@ -39,11 +37,12 @@ The uncontrolled nature of postmarketing surveillance, however, makes it impossi
 Cerebral hemorrhage, subarachnoid hemorrhage, stroke, and other cerebrovascular events have been reported in patients treated with 5-HT1 agonists; and some have resulted in fatalities.
 In a number of cases, it appears possible that the cerebrovascular events were primary, the agonist having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine, when they were not.
 It should be noted that patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, transient ischemic attack).
+(See CONTRAINDICATIONS.)
 
 ## Serotonin Syndrome:
 
 The development of a potentially life-threatening serotonin syndrome may occur with triptans, including ZOMIG treatment, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
-If concomitant treatment with ZOMIG and an SSRI (e.g. fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, and escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment with ZOMIG and an SSRI (e.g. fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g. hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhea).
 (See PRECAUTIONS, Drug Interactions).
 
@@ -51,6 +50,10 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 
 5-HT1 agonists may cause vasospastic reactions other than coronary artery vasospasm such as peripheral and gastrointestinal vascular ischemia.
 As with other serotonin 5HT1 agonists, very rare gastrointestinal ischemic events including ischemic colitis and gastrointestinal infarction or necrosis have been reported with ZOMIG Tablets; these may present as bloody diarrhea or abdominal pain.
+(See CONTRAINDICATIONS.)
+
+Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5- HT1 agonists.
+Visual disorders may also be part of a migraine attack.
 
 ## Increase in Blood Pressure:
 
@@ -69,7 +72,7 @@ An 18% increase in mean pulmonary artery pressure was seen following dosing with
 As with other 5-HT1B/1D agonists, sensations of tightness, pain, pressure, and heaviness have been reported after treatment with ZOMIG Tablets in the precordium, throat, neck, and jaw.
 Because zolmitriptan may cause coronary artery vasospasm, patients who experience signs or symptoms suggestive of angina following dosing should be evaluated for the presence of CAD or a predisposition to Prinzmetal’s variant angina before receiving additional doses of medication, and should be monitored electrocardiographically if dosing is resumed and similar symptoms recur.
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud’s syndrome following the use of any 5-HT1 agonist are candidates for further evaluation.
-(see WARNINGS).
+(see CONTRAINDICATIONS and WARNINGS.)
 
 Zolmitriptan should also be administered with caution to patients with diseases that may alter the absorption, metabolism, or excretion of drugs, such as impaired hepatic function (see CLINICAL PHARMACOLOGY).
 
@@ -89,9 +92,9 @@ Phenylketonuric patients should be informed that ZOMIG-ZMT contain phenylalanine
 Each 2.5 mg orally disintegrating tablet contains 2.81 mg phenylalanine.
 Each 5 mg orally disintegrating tablet contains 5.62 mg phenylalanine.
 
-## Information for Patients:
+## Information for Patients
 
-See PATIENT INFORMATIONat the end of this labeling for the text of the separate leaflet provided for patients.
+See PATIENT INFORMATION at the end of this labeling for the text of the separate leaflet provided for patients.
 
 ### ZOMIG-ZMT Orally Disintegrating Tablets
 
@@ -105,7 +108,7 @@ Patients should be cautioned about the risk of serotonin syndrome with the use o
 
 No monitoring of specific laboratory tests is recommended.
 
-## Drug Interactions:
+## Drug Interactions
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
 Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and zolmitriptan within 24 hours of each other should be avoided (see CONTRAINDICATIONS).

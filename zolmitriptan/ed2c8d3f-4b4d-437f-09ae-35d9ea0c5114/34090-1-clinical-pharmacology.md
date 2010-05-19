@@ -1,9 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## Mechanism of Action:
 
 Zolmitriptan binds with high affinity to human recombinant 5-HT1D and 5-HT1B receptors.
-Zolmitriptan exhibits modest affinity for 5-HT1A receptors, but has no significant affinity (as measured by radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3, 5-HT4, alpha1-, alpha2- or beta1-adrenergic; H1, H2, histaminic; muscarinic; dopamine1, or dopamine2 receptors.
+Zolmitriptan exhibits modest affinity for 5-HT1A receptors, but has no significant affinity (as measured by radioligand binding assays) or pharmacological activity at 5-HT2, 5-HT3, 5-HT4, alpha1-, alpha2-, or beta1- adrenergic; H1, H2, histaminic; muscarinic; dopamine1, or dopamine2 receptors.
 The N-desmethyl metabolite also has high affinity for 5-HT1B/1D and modest affinity for 5-HT1A receptors.
 
 Current theories proposed to explain the etiology of migraine headache suggest that symptoms are due to local cranial vasodilatation and/or to the release of sensory neuropeptides (vasoactive intestinal peptide, substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
@@ -45,7 +45,7 @@ The indole acetic acid and N-oxide metabolites are inactive.
 Mean total plasma clearance is 31.5mL/min/kg, of which one-sixth is renal clearance.
 The renal clearance is greater than the glomerular filtration rate suggesting renal tubular secretion.
 
-#### Special Populations:
+### Special Populations:
 
 Age: Zolmitriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65−76 yrs) were similar to those in younger non-migraineur volunteers (age 18 - 39 yrs).
 
@@ -59,9 +59,9 @@ Zolmitriptan should be administered with caution in subjects with liver disease,
 
 Hypertensive Patients: No differences in the pharmacokinetics of zolmitriptan or its effects on blood pressure were seen in mild to moderate hypertensive volunteers compared to normotensive controls.
 
-Race: Retrospective analysis of pharmacokinetic data between Japanese and Caucasians revealed no significant differences.
+Race:: Retrospective analysis of pharmacokinetic data between Japanese and Caucasians revealed no significant differences.
 
-#### Drug Interactions:
+### Drug Interactions:
 
 All drug interaction studies were performed in healthy volunteers using a single 10 mg dose of zolmitriptan and a single dose of the other drug except where otherwise noted.
 

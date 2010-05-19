@@ -1,5 +1,3 @@
-# Rx only
-
 # PATIENT INFORMATION
 
 The following wording is contained in a separate leaflet provided for patients.
@@ -35,6 +33,7 @@ This medicine was prescribed for you to treat your particular condition and shou
    - Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
      Have you had a heart attack?
    - Do you have risk factors for heart disease (such as high blood pressure, high cholesterol, obesity, diabetes, smoking, strong family history of heart disease, or you are postmenopausal or a male over the age of 40)?
+   - Have you had a stroke or problems with your blood circulation?
    - Do you have high blood pressure?
    - Are you pregnant?
      Do you think you might be pregnant?
@@ -91,7 +90,7 @@ ZOMIG and ZOMIG-ZMT are registered trademarks of the AstraZeneca group of compan
 Other brands mentioned are trademarks of their respective owners and are not trademarks of the AstraZeneca group of companies.
 The makers of these brands are not affiliated with AstraZeneca or its products.
 
-© AstraZeneca 2007
+© AstraZeneca 2007, 2008
 
 ZOMIG®(zolmitriptan) Tablets
 
@@ -103,7 +102,7 @@ Wilmington, Delaware 19850
 
 By: IPR Pharmaceuticals, Inc.
 
-Carolina, Puerto Rico 00984-1967
+Canóvanas, PR 00729
 
 ZOMIG-ZMT® (zolmitriptan) Orally Disintegrating Tablets
 
@@ -117,4 +116,4 @@ By: CIMA Labs, Inc.
 
 Eden Prairie, Minnesota 55344
 
-Rev 01/07SIC 30086–02
+Rev 10/08 SIC 30086–05
