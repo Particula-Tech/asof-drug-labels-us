@@ -19,4 +19,4 @@ The inactive ingredients are hypromellose, diacetylated monoglycerides, microcry
 The tablet imprint contains iron oxide black ink.
 
 Renvela® Powder: Each packet of Renvela Powder contains 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis.
-The inactive ingredients are natural and artificial citrus cream flavor, propylene glycol alginate, sodium chloride, sucralose, and ferric oxide (yellow).
+The inactive ingredients are natural and artificial citrus flavor, propylene glycol alginate, sodium chloride, sucralose, and ferric oxide (yellow).

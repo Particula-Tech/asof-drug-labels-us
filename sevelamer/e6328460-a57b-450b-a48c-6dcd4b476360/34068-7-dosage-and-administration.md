@@ -8,7 +8,7 @@ Renvela should be given three times a day with meals.
 
 Patients Not Taking a Phosphate Binder.
 The recommended starting dose of Renvela is 0.8 to 1.6 g with meals based on serum phosphorus level.
-Table1 provides recommended starting doses of Renvela for patients not taking a phosphate binder.
+Table 1 provides recommended starting doses of Renvela for patients not taking a phosphate binder.
 
 Table 1.
 Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
@@ -41,7 +41,7 @@ Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renvela
 | 3 tablets | 3 tablets | 2.4 g |
 
 Dose Titration for All Patients Taking Renvela.
-Titrate the Renvela dose by 0.8 g TID with meals at two-week intervals as necessary with the goal of controlling serum phosphorus within the target range.
+Titrate the Renvela dose by 0.8 g three times per day with meals at two-week intervals as necessary with the goal of controlling serum phosphorus within the target range.
 
 ## 2.2 Sevelamer Carbonate Powder Preparation Instructions
 
@@ -57,6 +57,6 @@ Sevelamer Carbonate Powder Preparation Instructions
 | 2.4 g | 2 | 60 | 4 Tablespoons |
 
 Multiple packets may be mixed together with the appropriate amount of water.
-Patients should be instructed to stir the mixture vigorously (it does not dissolve) and drink the entire preparation within 30 minutes or resuspend the preparation right before drinking.
+Patients should be instructed to stir the mixture vigorously (it does not dissolve) and drink the entire preparation within 30 minutes and resuspend the preparation right before drinking.
 
 Based on clinical studies, the average prescribed daily dose of sevelamer carbonate is approximately 7.2 g per day.

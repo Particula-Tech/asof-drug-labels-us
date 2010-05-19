@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
 The ability of sevelamer to control serum phosphorus in CKD patients on dialysis was predominantly determined from the effects of the hydrochloride salt to bind phosphate.
-Six clinical trials used sevelamer hydrochloride and two clinical trials used sevelamer carbonate.
+Six clinical trials used sevelamer hydrochloride and three clinical trials used sevelamer carbonate.
 The sevelamer hydrochloride studies include one double-blind, placebo-controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220) and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256).
-The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79) and one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31).
-Five of the active-controlled studies are described here (two sevelamer carbonate and three sevelamer hydrochloride studies).
+The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79), one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31) and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
+Six of the active-controlled studies are described here (three sevelamer carbonate and three sevelamer hydrochloride studies).
 
 ## 14.1 Cross-Over Study of Sevelamer Carbonate (Renvela®) 800 mg Tablets and Sevelamer Hydrochloride (Renagel®) 800 mg Tablets
 
@@ -35,11 +35,16 @@ Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 |  | Sevelamer Hydrochloride (N=81) | Active Control (N=83) |
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
+| Endpoint | 6.4 | 5.9 |
 | Change from Baseline at Endpoint (95% Confidence Interval) | -2.0 p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
 
+The distribution of responses is shown in Figure 2.
+The distributions are similar for sevelamer hydrochloride and active control.
+The median response is a reduction of about 2 mg/dL in both groups.
+About 50% of subjects have reductions between 1 and 3 mg/dL.
+
 Figure 2.
-Cumulative percentage of patients (Y-axis) attaining a phosphorus change from baseline (mg/dL) at least as great as the value of the X-axis.
-A shift to the left of a curve indicates a better response.
+Percentage of patients (Y-axis) attaining a phosphorus reduction from baseline (mg/dL) at least as great as the value of the X-axis.
 
 Average daily sevelamer hydrochloride dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g).
 
@@ -73,10 +78,10 @@ There were statistically significant changes in serum phosphorus (p<0.001) for s
 
 ## 14.6 Once a Day Versus Three Times a Day Dosing
 
-Stage 5 CKD patients on hemodialysis with a serum phosphate level of > 5.5 mg/dL after washout from baseline therapies were randomized in a 2:1 ratio to receive either sevelamer carbonate powder once-daily (N=144) or sevelamer hydrochloride as a tablet with the dose divided TID (N=73) for 24 weeks.
+Stage 5 CKD patients on hemodialysis with a serum phosphate level of > 5.5 mg/dL after washout from baseline therapies were randomized in a 2:1 ratio to receive either sevelamer carbonate powder once-daily (N=144) or sevelamer hydrochloride as a tablet with the dose divided three times per day (N=73) for 24 weeks.
 The initial dose for the two groups was 4.8 g/day.
-At the end of the study, the total daily dose was 6.2 ± 2.6 g/day of sevelamer carbonate powder QD and 6.7 ± 3.0 g/day of sevelamer hydrochloride tablets TID.
-A greater percentage of subjects on the once daily dose than TID regimen discontinued therapy prematurely, 35% versus 15%.
+At the end of the study, the total daily dose was 6.2 g/day of sevelamer carbonate powder once daily and 6.7 g/day of sevelamer hydrochloride tablets three times per day.
+A greater percentage of subjects on the once daily dose than three times per day regimen discontinued therapy prematurely, 35% versus 15%.
 The reasons for discontinuation were largely driven by adverse events and withdrawal of consent in the once daily dosing regimen.
-Serum phosphate levels and calcium-phosphate product were better controlled on the TID regimen than on the QD regimen.
-Mean serum phosphorus decreased 2.0 ± 1.8 mg/dL for sevelamer carbonate powder QD and 2.9 ± 1.3 mg/dL for sevelamer hydrochloride tablets TID.
+Serum phosphate levels and calcium-phosphate product were better controlled on the three times per day regimen than on the once daily regimen.
+Mean serum phosphorus decreased 2.0 mg/dL for sevelamer carbonate powder once daily and 2.9 mg/dL for sevelamer hydrochloride tablets three times per day.

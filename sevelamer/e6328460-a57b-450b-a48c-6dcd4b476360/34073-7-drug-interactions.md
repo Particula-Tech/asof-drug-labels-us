@@ -11,13 +11,13 @@ In a study of 15 healthy subjects, a co-administered single dose of 2.8 grams of
 
 In 19 healthy subjects receiving 2.4 grams of sevelamer hydrochloride three times a day with meals for 2 days, sevelamer did not alter the pharmacokinetics of a single dose of digoxin.
 
-In 18 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily, sevelamer did not alter the pharmacokinetics of a single dose of digoxin.
+In 18 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily with a meal, sevelamer did not alter the pharmacokinetics of a single dose of digoxin.
 
 ## 7.3 Warfarin
 
-In 14 healthy subjects receiving 2.4 g of sevelamer hydrochloride three times a day with meals, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
+In 14 healthy subjects receiving 2.4 g of sevelamer hydrochloride three times a day with meals for two days sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
 
-In 14 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily with meal, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
+In 14 healthy subjects receiving 9.6 grams of sevelamer carbonate once daily with a meal, sevelamer did not alter the pharmacokinetics of a single dose of warfarin.
 
 ## 7.4 Enalapril
 
@@ -38,5 +38,5 @@ During postmarketing experience, very rare cases of increased thyroid stimulatin
 Monitor TSH levels and signs of hypothyroidism in patients receiving both medications.
 
 When administering an oral medication where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, there is no information that suggests a dosing regimen that would be universally appropriate for all drugs.
-One may, however, administer the drug one hour before or three hours after Renvela, and when important, monitor blood levels of the drug.
+One may, however, administer the drug one hour before or three hours after Renvela, and monitor blood levels of the drug.
 Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials.
