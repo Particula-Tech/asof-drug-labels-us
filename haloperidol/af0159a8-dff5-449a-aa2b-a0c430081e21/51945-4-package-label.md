@@ -5,11 +5,11 @@
 50 INJECTION 50 mg/mL
 
 Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium Distributed by: Ortho-McNeil Pharmaceutical, Inc. Raritan, NJ 08869
+Beerse, Belgium Distributed by: Ortho-McNeil Neurologics, Division of OMJPI Inc. Raritan, NJ 08869
 
 # PRINCIPAL DISPLAY PANEL- 50 mg/mL box
 
-NDC 0045-0253-03
+NDC 50458-253-03
 
 IM Use Only
 
@@ -36,4 +36,6 @@ The dose of HALDOL Decanoate 50 should be expressed in terms of its haloperidol 
 
 Dispense in a light-resistant container as defined in the official compendium.
 
-ORTHO-McNEIL
+ORTHO-McNEIL NEUROLOGICS
+
+Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
