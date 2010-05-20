@@ -1,7 +1,5 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use)
-
 Because of possible physical incompatilitbilites, SOLU-CORTEF should not be diluted or mixed with other solutions.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

@@ -2,14 +2,6 @@
 
 ## General
 
-This product contains benzyl alcohol which is potentially toxic when administered locally to neural tissue.
-Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
-There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
-The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
-Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
-The amount of benzyl alcohol at which toxicity may occur is not known.
-If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS: Pediatric Use).
-
 Injection of SOLU-CORTEF may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
@@ -273,14 +265,6 @@ Systemically administered corticosteroids appear in human milk and could suppres
 Because of the potential for serious adverse reactions in nursing infants from corticosteroids, a decision should be made whether to continue nursing, or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
-
-This product contains benzyl alcohol as a preservative.
-Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The "gasping syndrome", (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
-Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
-Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
 Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
