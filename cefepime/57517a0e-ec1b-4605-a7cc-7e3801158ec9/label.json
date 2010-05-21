@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050821"
+  ],
+  "inn": "cefepime",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-3193-11",
+    "0264-3195-11"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cefepime hydrochloride",
+      "name": "CEFEPIME HYDROCHLORIDE and DEXTROSE"
+    }
+  ],
+  "setid": "57517a0e-ec1b-4605-a7cc-7e3801158ec9",
+  "source": "dailymed"
+}
