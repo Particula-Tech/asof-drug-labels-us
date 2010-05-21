@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077789"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Darby Dental Supply Co Inc",
+  "package_ndcs": [
+    "66467-2560-1"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "chlorhexidine gluconate",
+      "name": "Superdent"
+    }
+  ],
+  "setid": "0f8bc307-3069-45f2-aa03-8a4178d562a9",
+  "source": "dailymed"
+}
