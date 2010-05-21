@@ -40,7 +40,7 @@ Dose reduction or discontinuation of interferon alfa, ribavirin, or both should 
 
 ## 5.5 Use With Other Zidovudine-Containing Products
 
-RETROVIR should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR® or TRIZIVIR®).
+RETROVIR should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR® [lamivudine and zidovudine] Tablets or TRIZIVIR®[abacavir sulfate, lamivudine, and zidovudine] Tablets).
 
 ## 5.6 Immune Reconstitution Syndrome
 

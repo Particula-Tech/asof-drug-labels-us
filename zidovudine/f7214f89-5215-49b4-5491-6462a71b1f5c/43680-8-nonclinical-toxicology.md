@@ -39,5 +39,5 @@ The doses used in the teratology studies resulted in peak zidovudine plasma conc
 In an in vitro experiment with fertilized mouse oocytes, zidovudine exposure resulted in a dose-dependent reduction in blastocyst formation.
 In an additional teratology study in rats, a dose of 3,000 mg/kg/day (very near the oral median lethal dose in rats of 3,683 mg/kg) caused marked maternal toxicity and an increase in the incidence of fetal malformations.
 This dose resulted in peak zidovudine plasma concentrations 350 times peak human plasma concentrations.
-(Estimated area under the curve [AUC] in rats at this dose level was 300 times the daily AUC in humans given 600 mg/day.)
+(Estimated AUC in rats at this dose level was 300 times the daily AUC in humans given 600 mg/day.)
 No evidence of teratogenicity was seen in this experiment at doses of 600 mg/kg/day or less.

@@ -13,7 +13,7 @@ Lactic Acidosis/Hepatomegaly: Patients should be informed that some HIV medicine
 
 HIV-1/HCV Co-Infection: Patients with HIV-1/HCV co-infection should be informed that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
 
-Redistribution/Accumulation of Body Fat: Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.6)].
+Redistribution/Accumulation of Body Fat: Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
 
 Common Adverse Reactions: Patients should be informed that the most commonly reported adverse reactions in adult patients being treated with RETROVIR were headache, malaise, nausea, anorexia, and vomiting.
 The most commonly reported adverse reactions in pediatric patients receiving RETROVIR were fever, cough, and digestive disorders.
@@ -39,7 +39,7 @@ RETROVIR, COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of GlaxoSmith
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-November 2009 RTT:2PI
+May 2010 RTT:3PI

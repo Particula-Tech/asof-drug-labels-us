@@ -7,7 +7,7 @@ Zidovudine is an antiviral agent [see Clinical Pharmacology (12.4)].
 ## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability: In adults, following oral administration, zidovudine is rapidly absorbed and extensively distributed, with peak serum concentrations occurring within 0.5 to 1.5 hours.
-The extent of absorption (AUC) was equivalent when zidovudine was administered as RETROVIR Tablets or Syrup compared with RETROVIR Capsules.
+The AUC was equivalent when zidovudine was administered as RETROVIR Tablets or Syrup compared with RETROVIR Capsules.
 The pharmacokinetic properties of zidovudine in fasting adult patients are summarized in Table 6.
 
 Table 6.
@@ -36,7 +36,7 @@ The AMT AUC was one fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg/kg every 8 hours to 10 mg/kg every 4 hours.
 
 Effect of Food on Absorption: RETROVIR may be administered with or without food.
-The extent of zidovudine absorption (AUC) was similar when a single dose of zidovudine was administered with food.
+The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
 
 Special Populations: Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in patients with impaired renal function (n = 14) following a single 200-mg oral dose (Table 7).
 Plasma concentrations of AMT were not determined.
@@ -94,11 +94,11 @@ Consistent with passive transmission of the drug across the placenta, zidovudine
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
 
 Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
-After administration of a single dose of 200 mg zidovudine to 13 HIV-1-infected women, the mean concentration of zidovudine was similar in human milk and serum [see Use In Specific Populations (8.3)].
+After administration of a single dose of 200 mg zidovudine to 13 HIV-1-infected women, the mean concentration of zidovudine was similar in human milk and serum [see Use in Specific Populations (8.3)].
 
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in patients over 65 years of age.
 
-Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine exposure (AUC) when a single dose of zidovudine was administered as the 300-mg RETROVIR Tablet.
+Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as the 300-mg RETROVIR Tablet.
 
 Drug Interactions: [See Drug Interactions (7)].
 
@@ -110,6 +110,7 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | Coadministered Drug and Dose | Zidovudine Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
 | AUC | Variability |  |  |  |  |
 | Atovaquone750 mg q 12 hr with food | 200 mg q 8 hr | 14 | ↑AUC 31% | Range 23% to 78%b | ↔ |
+| Clarithromycin 500 mg twice daily | 100 mg q 4 hr x 7 days | 4 | ↓AUC 12% | Range ↓34% to ↑14% | Not Reported |
 | Fluconazole 400 mg daily | 200 mg q 8 hr | 12 | ↑AUC 74% | 95% CI: 54% to 98% | Not Reported |
 | Lamivudine300 mg q 12 hr | single 200 mg | 12 | ↑AUC 13% | 90% CI: 2% to 27% | ↔ |
 | Methadone 30 to 90 mg daily | 200 mg q 4 hr | 9 | ↑AUC 43% | Range 16% to 64%b | ↔ |
@@ -138,7 +139,7 @@ ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has bee
 
 Antiviral Activity: The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes).
 The EC50 and EC90 values for zidovudine were 0.01 to 0.49 µM (1 μM = 0.27 mcg/mL) and 0.1 to 9 μM, respectively.
-HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC50 values of 0.011 µM (range: 0.005 to 0.110 µM) from Virco (n = 92 baseline samples from COLA40263) and 0.0017 µM (0.006 to 0.0340 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
+HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC50 values of 0.011 µM (range: 0.005 to 0.110 µM) from Virco (n = 92 baseline samples from COL40263) and 0.0017 µM (0.006 to 0.0340 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
 The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 μM, and against HIV-2 isolates from 0.00049 to 0.004 μM.
 In cell culture drug combination studies, zidovudine demonstrates synergistic activity with the nucleoside reverse transcriptase inhibitors abacavir, didanosine, and lamivudine; the non-nucleoside reverse transcriptase inhibitors delavirdine and nevirapine; and the protease inhibitors indinavir, nelfinavir, ritonavir, and saquinavir; and additive activity with interferon alfa.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.

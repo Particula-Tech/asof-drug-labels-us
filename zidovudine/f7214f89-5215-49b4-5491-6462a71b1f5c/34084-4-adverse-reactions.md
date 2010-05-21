@@ -51,10 +51,10 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients With As
 
 Pediatrics: The clinical adverse reactions reported among adult recipients of RETROVIR may also occur in pediatric patients.
 
-Study ACTG300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR 4 mg/kg twice daily plus RETROVIR 160 mg/m2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
+Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR® (lamivudine) Oral Suspension 4 mg/kg twice daily plus RETROVIR 160 mg/m2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
 
 Table 4.
-Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG300
+Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG 300
 
 | Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in P
 Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
 
 Table 5.
-Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patients in Study ACTG300
+Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patients in Study ACTG 300
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ In addition to adverse reactions reported from clinical trials, the following re
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to RETROVIR.
 
-Body as a Whole: Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.6)].
+Body as a Whole: Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
 
 Cardiovascular: Cardiomyopathy, syncope.
 

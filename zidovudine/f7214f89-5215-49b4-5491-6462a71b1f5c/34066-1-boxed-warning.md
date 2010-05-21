@@ -1,6 +1,6 @@
 # WARNING: RISK OF HEMATOLOGICAL TOXICITY, MYOPATHY, LACTIC ACIDOSIS
 
-RETROVIR® (zidovudine) has been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
+RETROVIR® (zidovudine) Tablets, Capsules, and Syrup have been associated with hematologic toxicity including neutropenia and severe anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
 
 Prolonged use of RETROVIR has been associated with symptomatic myopathy [see Warnings and Precautions (5.2)].
 
