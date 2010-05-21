@@ -5,7 +5,7 @@
 The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known.
 However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein.
 
-The mechanisms by which DROXIA (hydroxyurea capsules, USP) produces its beneficial effects in patients with sickle cell anemia (SCA) are uncertain.
+The mechanisms by which DROXIA produces its beneficial effects in patients with sickle cell anemia (SCA) are uncertain.
 Known pharmacologic effects of DROXIA that may contribute to its beneficial effects include increasing hemoglobin F levels in RBCs, decreasing neutrophils, increasing the water content of RBCs, increasing deformability of sickled cells, and altering the adhesion of RBCs to endothelium.
 
 ## Pharmacokinetics
@@ -41,7 +41,7 @@ In adults with SCA, mean cumulative urinary recovery of hydroxyurea was about 40
 
 ### Geriatric, Gender, Race
 
-No information is available regarding pharmacokinetic differences due to age, gender or race.
+No information is available regarding pharmacokinetic differences due to age, gender, or race.
 
 ### Pediatric
 
@@ -51,9 +51,9 @@ No pharmacokinetic data are available in pediatric patients treated with hydroxy
 
 As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment.
 In adult patients with sickle cell disease, an open-label, non-randomized, single-dose, multicenter study was conducted to assess the influence of renal function on the pharmacokinetics of hydroxyurea.
-Patients in the study with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50–80 mL/min), moderate (CrCl = 30–<50 mL/min), or severe (<30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
+Patients in the study with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50-80 mL/min), moderate (CrCl = 30-<50 mL/min), or severe (<30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
 Patients with end-stage renal disease (ESRD) received two doses of 15 mg/kg separated by 7 days, the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
-In this study the mean exposure (AUC) in patients whose creatinine clearance was <60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
+In this study, the mean exposure (AUC) in patients whose creatinine clearance was <60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
 The results suggest that the initial dose of hydroxyurea should be reduced when used to treat patients with renal impairment.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 The table below describes the recommended dosage modification.

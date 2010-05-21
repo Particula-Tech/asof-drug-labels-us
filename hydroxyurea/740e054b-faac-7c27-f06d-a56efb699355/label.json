@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016295"
+  ],
   "inn": "hydroxyurea",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-6335-17",
     "0003-6336-17",
     "0003-6337-17"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "DROXIA"
+    }
+  ],
   "setid": "740e054b-faac-7c27-f06d-a56efb699355",
   "source": "dailymed"
 }

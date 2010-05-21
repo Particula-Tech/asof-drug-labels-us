@@ -60,7 +60,7 @@ To decrease the risk of exposure, wear disposable gloves when handling DROXIA or
 Anyone handling DROXIA should wash their hands before and after contact with the bottle or capsules.
 If the powder from the capsule is spilled, it should be wiped up immediately with a damp disposable towel and discarded in a closed container, such as a plastic bag.
 DROXIA should be kept out of the reach of children and pets.
-Contact your doctor for instructions on how to dispose of outdated capsules.
+Contact your doctor or pharmacist for instructions on how to dispose of outdated capsules.
 
 What if I miss a dose of DROXIA capsules?
 
@@ -83,12 +83,12 @@ As with other medicines, DROXIA may cause unwanted effects, although it is not a
 Any side effects or unusual symptoms that you experience should be reported to your doctor, particularly if they persist or are troublesome.
 
 The most serious side effects of DROXIA involve the blood, and may include severely low white blood cell counts (leukopenia, neutropenia), which can decrease your resistance to infections, severely low red blood cell counts (anemia), or severely low platelet counts (thrombocytopenia), which can cause bleeding.
-Almost all patients who received DROXIA in clinical studiesneeded to have their medication stopped for a time to allow their low blood counts to return to acceptable levels.
+Almost all patients who received DROXIA in clinical studies needed to have their medication stopped for a time to allow their low blood counts to return to acceptable levels.
 
 The side effects reported most often by adults with sickle cell anemia participating in studies of DROXIA included hair loss, skin rash, fever, stomach and/or bowel disturbances, weight gain, bleeding, virus infection, and discolored nails (melanonychia), but these were equally common in people getting a placebo (sugar pill).
 
 Skin cancer and leukemia, which can be fatal, have been reported in patients receiving long-term hydroxyurea for conditions other than sickle cell anemia.
-In laboratory tests DROXIA causes changes in chromosomes and DNA (genetic material) that strongly suggest it can cause cancer in people, especially if it is taken for a long time.
+In laboratory tests, DROXIA causes changes in chromosomes and DNA (genetic material) that strongly suggest it can cause cancer in people, especially if it is taken for a long time.
 
 Skin ulcers have been seen in patients taking DROXIA therapy.
 Contact your doctor if skin ulcers develop while you are taking DROXIA.
@@ -111,7 +111,11 @@ What else should I do to control my sickle cell crises?
 
 Because painful crises can be brought on by factors such as infection, dehydration, worsening anemia, emotional stress, extreme temperature exposure, or ingestion of substances such as alcohol or other recreational drugs, you should be aware of the following general guidelines that will help keep you pain-free:
 
-—Seek immediate medical attention when a fever develops or signs of infection appear. —Avoid smoking and drinking more than 1–2 alcoholic beverages a day. —Drink 8 to 10 glasses of water or other fluid each day. —Avoid any types of physical exertion that seem to bring on painful crises or other discomfort. —Avoid extreme temperature changes and dress appropriately in hot and cold weather.
+- Seek immediate medical attention when a fever develops or signs of infection appear.
+- Avoid smoking and drinking more than 1 to 2 alcoholic beverages a day.
+- Drink 8 to 10 glasses of water or other fluid each day.
+- Avoid any types of physical exertion that seem to bring on painful crises or other discomfort.
+- Avoid extreme temperature changes and dress appropriately in hot and cold weather.
 
 What should I know if I am HIV-positive?
 
@@ -121,14 +125,12 @@ Some studies have shown a decrease in the number of CD4 (T-cells) for HIV-positi
 Although DROXIA is approved by the U.S. Food and Drug Administration for treating sickle cell anemia, it is not approved for treating HIV infection.
 
 This medicine was prescribed for your particular condition.
-Do not use DROXIA Capsules for another condition or give it to others.
+Do not use DROXIA capsules for another condition or give it to others.
 
-This summary does not include everything there is to know about DROXIA Capsules.
+This summary does not include everything there is to know about DROXIA capsules.
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-If you have questions or concerns, or want more information about DROXIA Capsules, your physician and pharmacist have the complete prescribing information upon which this guide is based.
+If you have questions or concerns, or want more information about DROXIA capsules, your physician and pharmacist have the complete prescribing information upon which this guide is based.
 You may want to read it and discuss it with your doctor.
 Remember, no written summary can replace careful discussion with your doctor.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA Made in Italy 1053547A5 Rev December 2006
