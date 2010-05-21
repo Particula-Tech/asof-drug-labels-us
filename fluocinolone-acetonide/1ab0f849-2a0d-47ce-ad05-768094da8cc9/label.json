@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021737"
+  ],
   "inn": "fluocinolone-acetonide",
-  "labeler": "Bausch & Lomb",
+  "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
     "24208-416-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "fluocinolone acetonide",
+      "name": "Retisert"
+    }
+  ],
   "setid": "1ab0f849-2a0d-47ce-ad05-768094da8cc9",
   "source": "dailymed"
 }

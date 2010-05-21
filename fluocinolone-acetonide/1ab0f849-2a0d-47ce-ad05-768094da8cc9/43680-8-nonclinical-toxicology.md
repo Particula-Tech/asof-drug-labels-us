@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been performed on RETISERT to evaluate the carcinogenic potential or the effect on fertility of fluocinolone acetonide.
 

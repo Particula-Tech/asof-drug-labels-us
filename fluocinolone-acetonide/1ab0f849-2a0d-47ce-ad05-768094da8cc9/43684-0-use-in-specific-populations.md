@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Category C
+
 No adequate animal reproduction studies have been conducted with fluocinolone acetonide.
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.

@@ -11,17 +11,10 @@ Table 1: Uveitis Recurrence Rates
 | Time Point | Study 1 | Study 2 |
 | --- | --- | --- |
 | N=108 | N=116 |  |
-| Uveitis Recurrence Rates1,2N (%) |  |  |
+| Uveitis Recurrence RatesRecurrence of uveitis for all post-implantation time points was compared to the 34 weeks pre-implantation time point.p-value<0.01 from McNemar’s χ2 test.N (%) |  |  |
 | 34 Weeks Pre-implantation | 58 (53.7) | 46 (39.7) |
 | 34 Weeks Post-implantation | 2 (1.8) | 15 (12.9) |
 | 1 Year Post-implantation | 4 (3.7) | 15 (12.9) |
 | 2 Years Post-implantation | 11 (10.2) | 16 (13.8) |
 | 3 Years Post-implantation | 22 (20.4) | 20 (17.2) |
-| 3 Years3 Post-implantation | 33 (30.6) | 28 (24.1) |
-
-1 Recurrence of uveitis for all post-implantation time points was compared to the 34 weeks pre-implantation time point.
-
-2 p-value<0.01 from McNemar’s χ2 test.
-
-3 Results presented include imputed recurrences.
-Recurrences were imputed when a subject was not seen within 10 weeks of their final scheduled visit.
+| 3 YearsResults presented include imputed recurrences. Recurrences were imputed when a subject was not seen within 10 weeks of their final scheduled visit. Post-implantation | 33 (30.6) | 28 (24.1) |
