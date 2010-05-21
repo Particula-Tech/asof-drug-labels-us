@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090121"
+  ],
+  "inn": "finasteride",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-090-01",
+    "16729-090-10",
+    "16729-090-15",
+    "16729-090-17"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "Finasteride"
+    }
+  ],
+  "setid": "adfb8f6b-a7bb-4ac2-b2aa-fec6d56630ad",
+  "source": "dailymed"
+}
