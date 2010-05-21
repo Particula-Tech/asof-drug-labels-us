@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016295"
+  ],
   "inn": "hydroxyurea",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-0830-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDREA"
+    }
+  ],
   "setid": "050bd2a2-a125-721a-e366-255c5466f018",
   "source": "dailymed"
 }

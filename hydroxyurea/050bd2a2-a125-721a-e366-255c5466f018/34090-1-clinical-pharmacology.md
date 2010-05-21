@@ -52,9 +52,9 @@ No pharmacokinetic data are available in pediatric patients treated with hydroxy
 
 As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment.
 In adult patients with sickle cell disease, an open-label, non-randomized, single-dose, multicenter study was conducted to assess the influence of renal function on the pharmacokinetics of hydroxyurea.
-Patients in the study with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50–80 mL/min), moderate (CrCl = 30–<50 mL/min), or severe (<30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
+Patients in the study with normal renal function (creatinine clearance [CrCl] >80 mL/min), mild (CrCl 50-80 mL/min), moderate (CrCl = 30-<50 mL/min), or severe (<30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
 Patients with end-stage renal disease (ESRD) received two doses of 15 mg/kg separated by 7 days, the first was given following a 4-hour hemodialysis session, the second prior to hemodialysis.
-In this study the mean exposure (AUC) in patients whose creatinine clearance was <60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
+In this study, the mean exposure (AUC) in patients whose creatinine clearance was <60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
 The results suggest that the initial dose of hydroxyurea should be reduced when used to treat patients with renal impairment.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 Close monitoring of hematologic parameters is advised in these patients.
@@ -72,8 +72,8 @@ There are no data on concomitant use of hydroxyurea with other drugs in humans.
 
 The oral LD50 of hydroxyurea is 7330 mg/kg in mice and 5780 mg/kg in rats, given as a single dose.
 
-In subacute and chronic toxicity studies in the rat, the most consistent pathological findings were an apparent dose-related mild to moderate bonemarrow hypoplasia as well as pulmonary congestion and mottling of the lungs.
-At the highest dosage levels (1260 mg/kg/day for 37 days then 2520 mg/kg/day for 40 days), testicular atrophy with absence of spermatogenesis occurred; in several animals, hepatic cell damage with fatty metamorphosis was noted.
+In subacute and chronic toxicity studies in the rat, the most consistent pathological findings were an apparent dose-related mild to moderate bone marrow hypoplasia as well as pulmonary congestion and mottling of the lungs.
+At the highest dosage levels (1260 mg/kg/day for 37 days, then 2520 mg/kg/day for 40 days), testicular atrophy with absence of spermatogenesis occurred; in several animals, hepatic cell damage with fatty metamorphosis was noted.
 In the dog, mild to marked bone marrow depression was a consistent finding except at the lower dosage levels.
 Additionally, at the higher dose levels (140 to 420 mg or 140 to 1260 mg/kg/week given 3 or 7 days weekly for 12 weeks), growth retardation, slightly increased blood glucose values, and hemosiderosis of the liver or spleen were found; reversible spermatogenic arrest was noted.
 In the monkey, bone marrow depression, lymphoid atrophy of the spleen, and degenerative changes in the epithelium of the small and large intestines were found.

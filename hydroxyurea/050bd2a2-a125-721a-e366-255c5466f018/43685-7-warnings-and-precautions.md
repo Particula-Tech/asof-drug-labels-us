@@ -8,7 +8,7 @@ It should be borne in mind that bone marrow depression is more likely in patient
 
 Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
 
-Fatal and nonfatal pancreatitis have occurred in HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine.
+In HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine, fatal and nonfatal pancreatitis have occurred.
 Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
 This combination should be avoided.
@@ -38,7 +38,7 @@ It is unknown whether this leukemogenic effect is secondary to hydroxyurea or is
 Skin cancer has also been reported in patients receiving long-term hydroxyurea.
 
 Conventional long-term studies to evaluate the carcinogenic potential of hydroxyurea have not been performed.
-However, intraperitoneal administration of 125–250 mg/kg hydroxyurea (about 0.6–1.2 times the maximum recommended human oral daily dose on an mg/m2 basis) thrice weekly for 6 months to female rats increased the incidence of mammary tumors in rats surviving to 18 months compared to control.
+However, intraperitoneal administration of 125 to 250 mg/kg hydroxyurea (about 0.6-1.2 times the maximum recommended human oral daily dose on a mg/m2 basis) thrice weekly for 6 months to female rats increased the incidence of mammary tumors in rats surviving to 18 months compared to control.
 Hydroxyurea is mutagenic in vitro to bacteria, fungi, protozoa, and mammalian cells.
 Hydroxyurea is clastogenic in vitro (hamster cells, human lymphoblasts) and in vivo (SCE assay in rodents, mouse micronucleus assay).
 Hydroxyurea causes the transformation of rodent embryo cells to a tumorigenic phenotype.
@@ -49,11 +49,11 @@ Drugs which affect DNA synthesis, such as hydroxyurea, may be potential mutageni
 The physician should carefully consider this possibility before administering this drug to male or female patients who may contemplate conception.
 
 HYDREA can cause fetal harm when administered to a pregnant woman.
-Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on an mg/m2 basis.
-Hydroxyurea is embryotoxic and causes fetal malformations (partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae) at 180 mg/kg/day (about 0.8 times the maximum recommended human daily dose on an mg/m2 basis) in rats and at 30 mg/kg/day (about 0.3 times the maximum recommended human daily dose on an mg/m2 basis) in rabbits.
+Hydroxyurea has been demonstrated to be a potent teratogen in a wide variety of animal models, including mice, hamsters, cats, miniature swine, dogs, and monkeys at doses within 1-fold of the human dose given on a mg/m2 basis.
+Hydroxyurea is embryotoxic and causes fetal malformations (partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae) at 180 mg/kg/day (about 0.8 times the maximum recommended human daily dose on a mg/m2 basis) in rats and at 30 mg/kg/day (about 0.3 times the maximum recommended human daily dose on a mg/m2 basis) in rabbits.
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
 Hydroxyurea crosses the placenta.
-Single doses of ≥375 mg/kg (about 1.7 times the maximum recommended human daily dose on an mg/m2 basis) to rats caused growth retardation and impaired learning ability.
+Single doses of ≥375 mg/kg (about 1.7 times the maximum recommended human daily dose on a mg/m2 basis) to rats caused growth retardation and impaired learning ability.
 There are no adequate and well-controlled studies in pregnant women.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
@@ -82,7 +82,7 @@ This combination should be avoided.
 
 See WARNINGS for Carcinogenesis and Mutagenesis information.
 
-Impairment of Fertility: Hydroxyurea administered to male rats at 60 mg/kg/day (about 0.3 times the maximum recommended human daily dose on an mg/m2 basis) produced testicular atrophy, decreased spermatogenesis, and significantly reduced their ability to impregnate females.
+Impairment of Fertility: Hydroxyurea administered to male rats at 60 mg/kg/day (about 0.3 times the maximum recommended human daily dose on a mg/m2 basis) produced testicular atrophy, decreased spermatogenesis, and significantly reduced their ability to impregnate females.
 
 ## Pregnancy
 

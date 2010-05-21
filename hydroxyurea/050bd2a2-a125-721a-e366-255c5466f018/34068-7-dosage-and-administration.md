@@ -1,10 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-To minimize the risk of dermal exposure, always wear impervious gloves when handling bottles containing HYDREA capsules.
-This includes all handling activities in clinical settings, pharmacies, storerooms, and home healthcare settings, including during unpacking and inspection, transport within a facility, and dose preparation and administration.
+Procedures for proper handling and disposal of cytotoxic drugs should be considered.
+Several guidelines on this subject have been published.1-4
 
-Procedures for proper handling and disposal of antineoplastic drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+To minimize the risk of dermal exposure, always wear impervious gloves when handling bottles containing HYDREA capsules.
+HYDREA capsules should not be opened.
+Personnel should avoid exposure to crushed or opened capsules.
+If contact with crushed or opened capsules occurs, wash immediately and throroughly.
+More information is available in the references listed below.
 
 Because of the rarity of melanoma, resistant chronic myelocytic leukemia, carcinoma of the ovary, and carcinomas of the head and neck in pediatric patients, dosage regimens have not been established.
 
@@ -29,9 +32,9 @@ Administration of hydroxyurea should begin at least seven days before initiation
 
 ## Resistant Chronic Myelocytic Leukemia
 
-Until the intermittent therapy regimen has been evaluated, CONTINUOUS therapy (20 to 30 mg/kg administered orally as a single dose daily) is recommended.
+Until the intermittent therapy regimen has been evaluated, CONTINUOUS therapy (20-30 mg/kg administered orally as a single dose daily) is recommended.
 
-An adequate trial period for determining the antineoplastic effectivenessof hydroxyurea is six weeks of therapy.
+An adequate trial period for determining the antineoplastic effectiveness of hydroxyurea is six weeks of therapy.
 When there is regression in tumor size or arrest in tumor growth, therapy should be continued indefinitely.
 Therapy should be interrupted if the white blood cell count drops below 2500/mm3, or the platelet count below 100,000/mm3.
 In these cases, the counts should be reevaluated after three days, and therapy resumed when the counts return to acceptable levels.
