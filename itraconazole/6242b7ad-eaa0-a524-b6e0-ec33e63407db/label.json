@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020083"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Patriot Pharmaceuticals LLC",
+  "package_ndcs": [
+    "10147-1700-3",
+    "10147-1700-7"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "itraconazole",
+      "name": "ITRACONAZOLE"
+    }
+  ],
+  "setid": "6242b7ad-eaa0-a524-b6e0-ec33e63407db",
+  "source": "dailymed"
+}
