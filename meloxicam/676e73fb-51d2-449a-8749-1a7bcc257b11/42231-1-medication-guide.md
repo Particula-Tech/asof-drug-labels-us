@@ -1,5 +1,4 @@
-Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs.)
-(See the end of this Medication Guide for a list of prescription NSAID medicines.)
+Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -56,8 +55,32 @@ Tell your healthcare provider:
 - if you are breastfeeding.
   Talk to your doctor.
 
-| What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)? Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
-| --- |
+What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+
+Serious side effects include:
+
+- heart attack
+- stroke
+- high blood pressure
+- heart failure from body swelling (fluid retention)
+- kidney problems including kidney failure
+- bleeding and ulcers in the stomach and intestine
+- low red blood cells (anemia)
+- life-threatening skin reactions
+- life-threatening allergic reactions
+- liver problems including liver failure
+- asthma attacks in people who have asthma
+
+Other side effects include:
+
+- stomach pain
+- constipation
+- diarrhea
+- gas
+- heartburn
+- nausea
+- vomiting
+- dizziness
 
 Get emergency help right away if you have any of the following symptoms:
 
@@ -77,20 +100,23 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 - flu-like symptoms
 - vomit blood
 - there is blood in your bowel movement or it is black and sticky like tar
-- skin rash or blisters with fever
 - unusual weight gain
+- skin rash or blisters with fever
 - swelling of the arms and legs, hands and feet
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
-Aspirin can cause bleeding in the brain, stomach, and intestines.
-Aspirin can also cause ulcers in the stomach and intestines.
-Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
-Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
+- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
+  Aspirin can cause bleeding in the brain, stomach, and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
+- Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 NSAID medicines that need a prescription
 
@@ -109,14 +135,13 @@ NSAID medicines that need a prescription
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (co-packaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (copackaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+*Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain.
+The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

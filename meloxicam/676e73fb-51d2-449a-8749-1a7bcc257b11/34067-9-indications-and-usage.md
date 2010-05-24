@@ -1,8 +1,13 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Carefully consider the potential benefits and risks of Mobic® (meloxicam) tablets/oral suspension and other treatment options before deciding to use MOBIC tablets/oral suspension.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+## 1.1 Osteoarthritis (OA)
 
-MOBIC tablets/oral suspension is indicated for relief of the signs and symptoms of osteoarthritis and rheumatoid arthritis.
+MOBIC is indicated for relief of the signs and symptoms of osteoarthritis [see Clinical Studies (14.1)].
 
-MOBIC tablets/oral suspension is indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients 2 years of age and older.
+## 1.2 Rheumatoid Arthritis (RA)
+
+MOBIC is indicated for relief of the signs and symptoms of rheumatoid arthritis [see Clinical Studies (14.1)].
+
+## 1.3 Juvenile Rheumatoid Arthritis (JRA) Pauciarticular and Polyarticular Course
+
+MOBIC is indicated for relief of the signs and symptoms of pauciarticular or polyarticular course Juvenile Rheumatoid Arthritis in patients 2 years of age and older [see Clinical Studies (14.2)].
