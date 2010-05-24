@@ -10,6 +10,7 @@ Manufactured for Abbott Laboratories North Chicago, IL 60064 by Takeda Pharmaceu
 ™-Trademark ® – Registered trademark
 
 (No.
-3346) Revised: October, 2008
+3346) Rev.
+05/2010
 
 ©2008, Abbott Laboratories
