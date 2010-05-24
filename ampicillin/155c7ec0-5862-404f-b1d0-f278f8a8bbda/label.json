@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA050608"
+    "NDA050608",
+    "NDA062901"
   ],
   "inn": "ampicillin",
   "labeler": "Roerig",
@@ -9,7 +10,6 @@
     "0049-0014-83",
     "0049-0022-83",
     "0049-0023-83",
-    "0049-0024-28",
     "0049-0031-83",
     "0049-0032-83"
   ],
@@ -17,7 +17,7 @@
     {
       "form": "INJECTION, POWDER, FOR SOLUTION",
       "generic": "ampicillin sodium and sulbactam sodium",
-      "name": "Unasyn"
+      "name": "UNASYN"
     }
   ],
   "setid": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
