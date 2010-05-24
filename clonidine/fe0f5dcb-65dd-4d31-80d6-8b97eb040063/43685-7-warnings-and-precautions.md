@@ -65,12 +65,10 @@ These instructions are also included in each box of CATAPRES-TTS transdermal the
 Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
 If a patient receiving clonidine is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
 
-Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction e.g., digitalis, calcium channel blockers and beta-blockers.
+Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction e.g., digitalis, calcium channel blockers, and beta-blockers.
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concomitantly with diltiazem or verapamil.
 
 Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see Toxicology).
-
-Serious adverse events, including death, have been reported in concomitant use with methylphenidate in patients with underlying cardiovascular conditions, although no association for the combination has been established.
-The safety of using clonidine in combination with methylphenidate has not been systematically evaluated.
 
 ## Toxicology
 
