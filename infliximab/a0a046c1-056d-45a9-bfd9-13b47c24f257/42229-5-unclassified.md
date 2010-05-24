@@ -1,8 +1,0 @@
-# Post-marketing Adverse Events
-
-The following adverse events, some with fatal outcomes, have been reported during post-approval use of REMICADE: neutropenia (see WARNINGS, Hematologic Events), interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), psoriasis (including new onset and pustular, primarily palmar/plantar), transverse myelitis, and neuropathies (additional neurologic events have also been observed, see WARNINGS, Neurologic Events) and acute liver failure, jaundice, hepatitis, and cholestasis (see WARNINGS, Hepatotoxicity).
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to REMICADE exposure.
-
-The following serious adverse events have been reported in the post-marketing experience in children: infections (some fatal) including opportunistic infections and tuberculosis, infusion reactions, and hypersensitivity reactions.
-
-Serious adverse events in the post-marketing experience with REMICADE in the pediatric population have also included malignancies, including hepatosplenic T-cell lymphomas (see Boxed WARNINGS and WARNINGS), transient hepatic enzyme abnormalities, lupus-like syndromes, and the development of autoantibodies.

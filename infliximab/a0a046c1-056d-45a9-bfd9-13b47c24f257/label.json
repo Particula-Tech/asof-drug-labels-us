@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA103772"
+  ],
   "inn": "infliximab",
-  "labeler": "Centocor, Inc.",
+  "labeler": "Centocor Ortho Biotech Inc.",
   "package_ndcs": [
     "57894-030-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "infliximab",
+      "name": "REMICADE"
+    }
+  ],
   "setid": "a0a046c1-056d-45a9-bfd9-13b47c24f257",
   "source": "dailymed"
 }
