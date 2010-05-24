@@ -46,13 +46,20 @@ Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomniaN = 7274 [see Warnings and Precautions (5.5)] | 4 |
+| Psychiatric Disorders | insomniaN=7274 [see Warnings and Precautions (5.5)] | 4 |
 | Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.5)] | 6 3 |
 | Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.2)] | 1 |
-| Gastrointestinal Disorders | nausea diarrhea constipation abdominal pain vomiting dyspepsia | 7 5 3 2 2 2 |
+| Gastrointestinal Disorders | nausea | 7 |
+| diarrhea | 5 |  |
+| constipation | 3 |  |
+| abdominal pain | 2 |  |
+| vomiting | 2 |  |
+| dyspepsia | 2 |  |
 | Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.2)] pruritus | 2 1 |
 | Reproductive System and Breast Disorders | vaginitis | 1N=3758 (women) |
-| General Disorders and Administration Site Conditions | edema injection site reaction chest pain | 1 1 1 |
+| General Disorders and Administration Site Conditions | edema | 1 |
+| injection site reaction | 1 |  |
+| chest pain | 1 |  |
 
 Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN® (N=7537)
 
@@ -94,9 +101,9 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.8)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.3)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions 5.3, 5.4)] |
-| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.3)] photosensitivity/photoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.3),(5.4)] |
+| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.3)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
-| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.3)] |
+| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.3)]. |
 | General Disorders and Administration Site Conditions | multi-organ failure pyrexia |
 | Investigations | prothrombin time prolonged international normalized ratio prolonged muscle enzymes increased |

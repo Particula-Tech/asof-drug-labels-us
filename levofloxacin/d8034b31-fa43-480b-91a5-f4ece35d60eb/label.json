@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020634",
+    "NDA020635",
+    "NDA021721"
+  ],
   "inn": "levofloxacin",
-  "labeler": "PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "labeler": "McNeil Pharmaceuticals",
   "package_ndcs": [
     "0045-0065-55",
     "0045-0066-01",
@@ -13,11 +17,32 @@
     "0045-1520-50",
     "0045-1525-10",
     "0045-1525-50",
-    "0045-1530-05",
+    "0045-1530-06",
     "0045-1530-10",
     "0045-1530-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "levofloxacin",
+      "name": "LEVAQUIN"
+    },
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "levofloxacin",
+      "name": "LEVAQUIN"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "levofloxacin",
+      "name": "LEVAQUIN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levofloxacin",
+      "name": "LEVAQUIN"
+    }
+  ],
   "setid": "d8034b31-fa43-480b-91a5-f4ece35d60eb",
   "source": "dailymed"
 }

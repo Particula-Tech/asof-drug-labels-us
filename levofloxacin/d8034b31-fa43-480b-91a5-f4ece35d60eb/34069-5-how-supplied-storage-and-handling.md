@@ -29,7 +29,7 @@ Each bottle contains 480 mL of the 25 mg/mL levofloxacin oral solution
 
 LEVAQUIN® Oral Solution should be stored at 25°C (77°F); excursions permitted to 15° – 30°C (59° to 86°F) [refer to USP controlled room temperature].
 
-LEVAQUIN® Oral Solution is manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Janssen Pharmaceutica N.V., Beerse, Belgium.
+LEVAQUIN® Oral Solution is manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Janssen Pharmaceutica N.V, Beerse, Belgium.
 
 ## 16.3 LEVAQUIN® Injection, Single-Use Vials
 

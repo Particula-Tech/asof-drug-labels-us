@@ -25,7 +25,7 @@ Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combinatio
 
 LEVAQUIN® is indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
 
-MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
 ## 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
 
@@ -49,7 +49,7 @@ LEVAQUIN® is indicated for the treatment of uncomplicated skin and skin structu
 
 ## 1.8 Chronic Bacterial Prostatitis
 
-LEVAQUIN® is indicated for the treatment of chronic bacterial prostatitis due to Escherichiacoli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
+LEVAQUIN® is indicated for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
 
 ## 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
 
@@ -73,4 +73,4 @@ LEVAQUIN® is indicated for inhalational anthrax (post-exposure) to reduce the i
 The effectiveness of LEVAQUIN® is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 LEVAQUIN® has not been tested in humans for the post-exposure prevention of inhalation anthrax.
 The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
-Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.9)].
+Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1), (2.2) and Clinical Studies (14.9)].

@@ -18,13 +18,13 @@ Clinical success and microbiological eradication rates by pathogen are detailed 
 
 Table 13: Clinical Success Rates and Microbiological Eradication Rates (Nosocomial Pneumonia)
 
-| Pathogen | N | LEVAQUIN® No. (%) of Patients Microbiologic/ Clinical Outcomes | N | Imipenem/Cilastatin No. (%) of Patients Microbiologic/ Clinical Outcomes |
+| Pathogen | N | LEVAQUIN® No. (%) of Patients Microbiologic/Clinical Outcomes | N | Imipenem/Cilastatin No. (%) of Patients Microbiologic/Clinical Outcomes |
 | --- | --- | --- | --- | --- |
 | MSSAMethicillin-susceptible S. aureus | 21 | 14 (66.7)/13 (61.9) | 19 | 13 (68.4)/15 (78.9) |
-| P. aeruginosa See above text for use of combination therapy | 17 | 10 (58.8)/11 (64.7) | 17 | 5 (29.4)/7 (41.2) |
+| P. aeruginosaSee above text for use of combination therapy | 17 | 10 (58.8)/11 (64.7) | 17 | 5 (29.4)/7 (41.2) |
 | S. marcescens | 11 | 9 (81.8)/7 (63.6) | 7 | 2 (28.6)/3 (42.9) |
 | E. coli | 12 | 10 (83.3)/7 (58.3) | 11 | 7 (63.6)/8 (72.7) |
-| K. pneumoniae The observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
+| K. pneumoniaeThe observed differences in rates for the clinical and microbiological outcomes may reflect other factors that were not accounted for in the study | 11 | 9 (81.8)/5 (45.5) | 7 | 6 (85.7)/3 (42.9) |
 | H. influenzae | 16 | 13 (81.3)/10 (62.5) | 15 | 14 (93.3)/11 (73.3) |
 | S. pneumoniae | 4 | 3 (75.0)/3 (75.0) | 7 | 5 (71.4)/4 (57.1) |
 
@@ -45,17 +45,17 @@ Table 14: Microbiologic Eradication Rates Across 2 Community Acquired Pneumonia 
 
 | Pathogen | No. Pathogens | Microbiologic Eradication Rate (%) |
 | --- | --- | --- |
-| H. influenzae | 55 | 98 |
-| S. pneumoniae | 83 | 95 |
+| H. influenza | 55 | 98 |
+| S. pneumonia | 83 | 95 |
 | S. aureus | 17 | 88 |
 | M. catarrhalis | 18 | 94 |
 | H. parainfluenzae | 19 | 95 |
-| K. pneumoniae | 10 | 100.0 |
+| K. pneumonia | 10 | 100.0 |
 
 Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
 
 LEVAQUIN® was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP).
-MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
+MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/ml), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
 Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy.
 The clinical and bacterial success rates are shown in Table 15.
 
@@ -95,17 +95,17 @@ The microbiological efficacy of the 5-day regimen was documented for infections 
 
 Table 17: Microbiological Eradication Rates (Community-Acquired Pneumonia)
 
-| Penicillin susceptible S. pneumoniae | 19/20 |
+| Penicillin susceptible S. pneumonia | 19/20 |
 | --- | --- |
-| Haemophilus influenzae | 12/12 |
+| Haemophilus influenza | 12/12 |
 | Haemophilus parainfluenzae | 10/10 |
-| Mycoplasma pneumoniae | 26/27 |
-| Chlamydophila pneumoniae | 13/15 |
+| Mycoplasma pneumonia | 26/27 |
+| Chlamydophila pneumonia | 13/15 |
 
 ## 14.4 Acute Bacterial Sinusitis: 5-day and 10–14 day Treatment Regimens
 
 LEVAQUIN® is approved for the treatment of acute bacterial sinusitis (ABS) using either 750 mg by mouth × 5 days or 500 mg by mouth once daily × 10–14 days.
-To evaluate the safety and efficacy of a high dose short course of LEVAQUIN®, 780 outpatient adults with clinically and radiologically determined acute bacterialsinusitis were evaluated in a double-blind, randomized, prospective, multicenter study comparing LEVAQUIN® 750 mg by mouth once daily for five days to LEVAQUIN® 500 mg by mouth once daily for 10 days.
+To evaluate the safety and efficacy of a high dose short course of LEVAQUIN®, 780 outpatient adults with clinically and radiologically determined acute bacterial sinusitis were evaluated in a double-blind, randomized, prospective, multicenter study comparing LEVAQUIN® 750 mg by mouth once daily for five days to LEVAQUIN® 500 mg by mouth once daily for 10 days.
 
 Clinical success rates (defined as complete or partial resolution of the pre-treatment signs and symptoms of ABS to such an extent that no further antibiotic treatment was deemed necessary) in the microbiologically evaluable population were 91.4% (139/152) in the LEVAQUIN® 750 mg group and 88.6% (132/149) in the LEVAQUIN® 500 mg group at the test-of-cure (TOC) visit (95% CI [-4.2, 10.0] for LEVAQUIN® 750 mg minus LEVAQUIN® 500 mg).
 
@@ -133,7 +133,7 @@ These rates were equivalent to those seen with comparator drugs.
 
 ## 14.6 Chronic Bacterial Prostatitis
 
-Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral LEVAQUIN® 500 mg, once dailyfor a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
+Adult patients with a clinical diagnosis of prostatitis and microbiological culture results from urine sample collected after prostatic massage (VB3) or expressed prostatic secretion (EPS) specimens obtained via the Meares-Stamey procedure were enrolled in a multicenter, randomized, double-blind study comparing oral LEVAQUIN® 500 mg, once daily for a total of 28 days to oral ciprofloxacin 500 mg, twice daily for a total of 28 days.
 The primary efficacy endpoint was microbiologic efficacy in microbiologically evaluable patients.
 A total of 136 and 125 microbiologically evaluable patients were enrolled in the LEVAQUIN® and ciprofloxacin groups, respectively.
 The microbiologic eradication rate by patient infection at 5–18 days after completion of therapy was 75.0% in the LEVAQUIN® group and 76.8% in the ciprofloxacin group (95% CI [-12.58, 8.98] for LEVAQUIN® minus ciprofloxacin).
@@ -146,7 +146,7 @@ Table 19: Microbiological Eradication Rates (Chronic Bacterial Prostatitis)
 |  | LEVAQUIN® (N=136) |  | Ciprofloxacin (N=125) |  |
 | E. coli | 15 | 14 (93.3%) | 11 | 9 (81.8%) |
 | E. faecalis | 54 | 39 (72.2%) | 44 | 33 (75.0%) |
-| S. epidermidis Eradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded. | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
+| S. epidermidisEradication rates shown are for patients who had a sole pathogen only; mixed cultures were excluded. | 11 | 9 (81.8%) | 14 | 11 (78.6%) |
 
 Eradication rates for S. epidermidis when found with other co-pathogens are consistent with rates seen in pure isolates.
 
@@ -183,7 +183,7 @@ Table 21: Microbiological Eradication Rates for Individual Pathogens Recovered F
 | Pathogen | Microbiologic Eradication Rate (n/N) | % |
 | --- | --- | --- |
 | Escherichia coliThe predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI. | 155/172 | 90 |
-| Klebsiella pneumoniae | 20/23 | 87 |
+| Klebsiella pneumonia | 20/23 | 87 |
 | Proteus mirabilis | 12/12 | 100 |
 
 ## 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day Treatment Regimen
@@ -200,17 +200,17 @@ Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Cure1–9 days postthe
 |  | n/N | % | n/N | % |
 | --- | --- | --- | --- | --- |
 |  | LEVAQUIN® 250 mg once daily for 10 days |  | Ciprofloxacin 500 mg twice daily for 10 days |  |
-| mITT Population The mITT population included patients who had a pathogen isolated at baseline. Patients with missing response were counted as failures in this analysis. | 174/209 | 83.3 | 184/219 | 84.0 |
+| mITT PopulationThe mITT population included patients who had a pathogen isolated at baseline. Patients with missing response were counted as failures in this analysis. | 174/209 | 83.3 | 184/219 | 84.0 |
 | Microbiologically Evaluable PopulationThe Microbiologically Evaluable population included mITT patients who met protocol-specified evaluability criteria. | 164/177 | 92.7 | 159/171 | 93.0 |
 
 ## 14.9 Inhalational Anthrax (Post-Exposure)
 
 The effectiveness of LEVAQUIN® for this indication is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 LEVAQUIN® has not been tested in humans for the post-exposure prevention of inhalation anthrax.
-The mean plasma concentrations of LEVAQUIN® associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13); Dosage and Administration (2.1, 2.2)].
+The mean plasma concentrations of LEVAQUIN® associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13); Dosage and Administration (2.1), (2.2)].
 
 Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients.
-The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0-24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
+The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0–24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
 The predicted steady-state pharmacokinetic parameters in pediatric patients ranging in age from 6 months to 17 years receiving 8 mg/kg orally every 12 hours (not to exceed 250 mg per dose) were calculated to be comparable to those observed in adults receiving 500 mg orally once daily [see Clinical Pharmacology (12.3)].
 
 In adults, the safety of LEVAQUIN® for treatment durations of up to 28 days is well characterized.
@@ -221,10 +221,10 @@ In pediatric patients, the safety of levofloxacin for treatment durations of mor
 An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendonopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
 Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
 
-A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 X 106) spores (range 17 - 118 LD50) of B. anthracis (Ames strain) was conducted.
+A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 × 106) spores (range 17 – 118 LD50) of B. anthracis (Ames strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strain used in this study was 0.125 mcg/mL.
-In the animals studied, mean plasma concentrations of levofloxacin achieved at expected Tmax (1 hour post dose) following oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL.
+In the animals studied, mean plasma concentrations of levofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady state ranged from 2.79 to 4.87 mcg/mL.
 Steady state trough concentrations at 24 hours post-dose ranged from 0.107 to 0.164 mcg/mL.
-Mean (SD) steady state AUC0-24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
-Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher’s Exact Test].
+Mean (SD) steady state AUC0–24 was 33.4 ± 3.2 mcg.h/mL (range 30.4 to 36.0 mcg.h/mL).
+Mortality due to anthrax for animals that received a 30 day regimen of oral LEVAQUIN® beginning 24 hrs post exposure was significantly lower (1/10), compared to the placebo group (9/10) [P=0.0011, 2-sided Fisher's Exact Test].
 The one levofloxacin treated animal that died of anthrax did so following the 30-day drug administration period.

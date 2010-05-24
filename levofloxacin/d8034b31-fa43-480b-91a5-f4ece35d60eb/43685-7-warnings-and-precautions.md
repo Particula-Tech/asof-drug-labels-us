@@ -19,7 +19,7 @@ Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions ha
 These reactions often occur following the first dose.
 Some reactions have been accompanied by cardiovascular collapse, hypotension/shock, seizure, loss of consciousness, tingling, angioedema (including tongue, laryngeal, throat, or facial edema/swelling), airway obstruction (including bronchospasm, shortness of breath, and acute respiratory distress), dyspnea, urticaria, itching, and other serious skin reactions.
 LEVAQUIN® should be discontinued immediately at the first appearance of a skin rash or any other sign of hypersensitivity.
-Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines,corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6); Patient Counseling Information (17.3)].
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other resuscitative measures, including oxygen, intravenous fluids, antihistamines, corticosteroids, pressor amines, and airway management, as clinically indicated [see Adverse Reactions (6); Patient Counseling Information (17.3)].
 
 ## 5.3 Other Serious and Sometimes Fatal Reactions
 
@@ -43,7 +43,7 @@ No evidence of serious drug-associated hepatotoxicity was detected in clinical t
 Severe hepatotoxicity generally occurred within 14 days of initiation of therapy and most cases occurred within 6 days.
 Most cases of severe hepatotoxicity were not associated with hypersensitivity [see Warnings and Precautions (5.3)].
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-LEVAQUIN ® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6); Patient Counseling Information (17.3)].
+LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Adverse Reactions (6); Patient Counseling Information (17.3).]]
 
 ## 5.5 Central Nervous System Effects
 
@@ -56,7 +56,7 @@ As with other fluoroquinolones, LEVAQUIN® should be used with caution in patien
 
 ## 5.6 Clostridium difficile-Associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including LEVAQUIN ®, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including LEVAQUIN®, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -70,7 +70,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## 5.7 Peripheral Neuropathy
 
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including LEVAQUIN®.
-LEVAQUIN® should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see Adverse Reactions (6), Patient Counseling Information (17.3)].
+LEVAQUIN® should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition [see Adverse Reactions (6), Patient Counseling Information (17.3)]
 
 ## 5.8 Prolongation of the QT Interval
 
@@ -81,12 +81,12 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 
 ## 5.9 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
-LEVAQUIN® is indicated in pediatric patients (≥ 6 months of age) only for the prevention of inhalational anthrax (post-exposure) [see Indications and Usage (1.13)].
+LEVAQUIN® is indicated in pediatric patients (≥6 months of age) only for the prevention of inhalational anthrax (post-exposure) [see Indications and Usage (1.13)].
 An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendonopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving LEVAQUIN®[see Use in Specific Populations (8.4)].
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.
-Other quinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
+Other fluoroquinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 5.10 Blood Glucose Disturbances
 
@@ -96,7 +96,7 @@ If a hypoglycemic reaction occurs in a patient being treated with LEVAQUIN®, LE
 
 ## 5.11 Photosensitivity/Phototoxicity
 
-Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
+Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of fluoroquinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if photosensitivity/phototoxicity occurs [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 

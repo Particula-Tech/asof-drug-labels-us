@@ -4,7 +4,7 @@
 
 Pregnancy Category C. Levofloxacin was not teratogenic in rats at oral doses as high as 810 mg/kg/day which corresponds to 9.4 times the highest recommended human dose based upon relative body surface area, or at intravenous doses as high as 160 mg/kg/day corresponding to 1.9 times the highest recommended human dose based upon relative body surface area.
 The oral dose of 810 mg/kg/day to rats caused decreased fetal body weight and increased fetal mortality.
-No teratogenicity was observed when rabbitswere dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
+No teratogenicity was observed when rabbits were dosed orally as high as 50 mg/kg/day which corresponds to 1.1 times the highest recommended human dose based upon relative body surface area, or when dosed intravenously as high as 25 mg/kg/day, corresponding to 0.5 times the highest recommended human dose based upon relative body surface area.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
 LEVAQUIN® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -17,7 +17,7 @@ Because of the potential for serious adverse reactions from LEVAQUIN® in nursin
 ## 8.4 Pediatric Use
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species.
-[see Warnings and Precautions [5.9] and Animal Toxicology and/or Pharmacology (13.2)].
+[see Warnings and Precautions (5.9) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Inhalational Anthrax (Post-Exposure)
 
@@ -40,7 +40,7 @@ Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 | Follow-up Period | LEVAQUIN® N = 1340 | Non-FluoroquinoloneNon-Fluoroquinolone: ceftriaxone, amoxicillin/ clavulanate, clarithromycin N = 893 | p-value2-sided Fisher's Exact Test |
 | --- | --- | --- | --- |
 | 60 days | 28 (2.1%) | 8 (0.9%) | p = 0.038 |
-| 1 year There were 1199 LEVAQUIN®-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders were calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
+| 1 yearThere were 1199 LEVAQUIN®-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders were calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
 
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.

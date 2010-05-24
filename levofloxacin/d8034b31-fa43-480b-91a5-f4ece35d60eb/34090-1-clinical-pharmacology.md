@@ -37,20 +37,7 @@ Table 10: Mean ±SD Levofloxacin PK Parameters
 | CLCR <20 mL/min | 8.2 ± 2.6 | 1.1 ± 1.0 | 263.5 ± 72.5 | 33 ± 8 | ND | 35 ± 5 | 13 ± 3 |
 | Hemodialysis | 5.7 ± 1.0 | 2.8 ± 2.2 | ND | ND | ND | 76 ± 42 | ND |
 | CAPD | 6.9 ± 2.3 | 1.4 ± 1.1 | ND | ND | ND | 51 ± 24 | ND |
-| 1 clearance/bioavailability |  |  |  |  |  |  |  |
-| 2 volume of distribution/bioavailability |  |  |  |  |  |  |  |
-| 3 healthy males 18–53 years of age |  |  |  |  |  |  |  |
-| 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose |  |  |  |  |  |  |  |
-| 5 healthy male and female subjects 18–54 years of age |  |  |  |  |  |  |  |
-| 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin |  |  |  |  |  |  |  |
-| 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling |  |  |  |  |  |  |  |
-| 8 healthy males 22–75 years of age |  |  |  |  |  |  |  |
-| 9 healthy females 18–80 years of age |  |  |  |  |  |  |  |
-| 10 young healthy male and female subjects 18–36 years of age |  |  |  |  |  |  |  |
-| 11 healthy elderly male and female subjects 66–80 years of age |  |  |  |  |  |  |  |
-| 12 healthy males and females 19–55 years of age. |  |  |  |  |  |  |  |
-| *Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; |  |  |  |  |  |  |  |
-| ND=not determined. |  |  |  |  |  |  |  |
+| 1 clearance/bioavailability 2 volume of distribution/bioavailability 3 healthy males 18–53 years of age 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose 5 healthy male and female subjects 18–54 years of age 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20–50 mL/min) and infections of the respiratory tract or skin 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling 8 healthy males 22–75 years of age 9 healthy females 18–80 years of age 10 young healthy male and female subjects 18–36 years of age 11 healthy elderly male and female subjects 66–80 years of age 12 healthy males and females 19–55 years of age. *Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; ND=not determined. |  |  |  |  |  |  |  |
 
 Absorption
 
@@ -63,7 +50,7 @@ LEVAQUIN® Oral Solution and Tablet formulations are bioequivalent.
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
 The mean ±SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ±1.4 and 0.5 ±0.2 mcg/mL after the 500 mg doses, and 8.6 ±1.9 and 1.1 ±0.4 mcg/mL after the 750 mg doses, respectively.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4±0.8 and 0.6 ±0.2 mcg/mL after the 500 mg doses, and 12.1 ±4.1 and 1.3±0.71 mcg/mL after the 750 mg doses, respectively.
+The mean ±SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ±0.8 and 0.6 ±0.2 mcg/mL after the 500 mg doses, and 12.1 ±4.1 and 1.3 ±0.71 mcg/mL after the 750 mg doses, respectively.
 Oral administration of a 500 mg dose of LEVAQUIN® with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, LEVAQUIN® Tablets can be administered without regard to food.
 It is recommended that LEVAQUIN® Oral Solution be taken 1 hour before, or 2 hours after eating.
@@ -71,9 +58,9 @@ It is recommended that LEVAQUIN® Oral Solution be taken 1 hour before, or 2 hou
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for LEVAQUIN® Tablets when equal doses (mg/mg) are administered.
 Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
 
-Figure 2: Mean Levofloxacin Plasma Concentration vs. Time Profile: 750 mg
-
-Figure 3: Mean Levofloxacin Plasma Concentration vs. Time Profile: 500 mg
+| Figure 2: Mean Levofloxacin Plasma Concentration vs. Time Profile: 750 mg |
+| --- |
+| Figure 3: Mean Levofloxacin Plasma Concentration vs. Time Profile: 500 mg |
 
 Distribution
 
@@ -116,7 +103,7 @@ Pediatrics
 
 The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
 Pediatric patients cleared levofloxacin faster than adult patients, resulting in lower plasma exposures than adults for a given mg/kg dose.
-Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0-24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
+Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0–24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
 
 Gender
 
@@ -133,7 +120,7 @@ The apparent total body clearance and apparent volume of distribution were not a
 
 Renal Impairment
 
-Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance< 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
+Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
 Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of LEVAQUIN® are not required following hemodialysis or CAPD [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Hepatic Impairment
@@ -180,7 +167,7 @@ Levofloxacin has been shown to be active against most strains of the following m
   - Staphylococcus aureus (methicillin-susceptible strains)
   - Staphylococcus epidermidis (methicillin-susceptible strains)
   - Staphylococcus saprophyticus
-  - Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
+  - Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP])MDRSP (Multi-drug resistant Streptococcus pneumoniae) isolates are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime; macrolides, tetracyclines and trimethoprim/sulfamethoxazole.)
   - Streptococcus pyogenes
 
 - Aerobic Gram-Negative Microorganisms
@@ -234,23 +221,59 @@ Susceptibility Tests
 
 Susceptibility testing for levofloxacin should be performed, as it is the optimal predictor of activity.
 
-- Dilution techniques: Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC values).
-  These MIC values provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-  The MIC values should be determined using a standardized procedure.
-  Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
-  The MIC values should be interpreted according to the criteria outlined in Table 11.
-- Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-  One such standardized procedure2 requires the use of standardized inoculum concentrations.
-  This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
-  Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
-  Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
-  Table 11: Susceptibility Interpretive Criteria for LEVAQUIN®Minimum Inhibitory Concentrations (mcg/mL)Disk Diffusion (zone diameter in mm)S = Susceptible, I = Intermediate, R = ResistantPathogen SIRSIREnterobacteriaceae ≤24≥8≥1714–16≤13Enterococcus faecalis≤24≥8≥1714–16≤13Methicillin-susceptible Staphylococcus species≤24≥8≥1714–16≤13Pseudomonas aeruginosa≤24≥8≥1714–16≤13Haemophilus influenzae≤2These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1 --The current absence of data on resistant strains precludes defining any categories other than "Susceptible."
-  Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.--≥17These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2----Haemophilus parainfluenzae≤2----≥17----Streptococcus pneumoniae≤2These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.4≥8≥17These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.14–16≤13 Streptococcus pyogenes≤24≥8≥1714–16≤13 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-  A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-  This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-  This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-  A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-- Quality Control: Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-  For dilution technique, standard levofloxacin powder should give the MIC values provided in Table 12.
-  For diffusion technique, the 5 mcg levofloxacin disk should provide zone diameters provided in Table 12.
-  Table 12: Quality Control for Susceptibility TestingMicroorganismMicroorganism QC NumberMIC (mcg/mL)Disk Diffusion (zone diameter in mm)Enterococcus faecalisATCC 292120.25 – 2Not applicableEscherichia coliATCC 259220.008 – 0.0629 – 37Escherichia coliATCC 352180.015 – 0.06Not applicableHaemophilus influenzaeATCC 492470.008 – 0.03This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).132 – 40This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2Pseudomonas aeruginosaATCC 278530.5 – 419 – 26Staphylococcus aureusATCC 292130.06 – 0.5Not applicableStaphylococcus aureusATCC 25923Not applicable25 – 30Streptococcus pneumoniaeATCC 496190.5 – 2This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood.20 – 25This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
+- Dilution techniques:
+
+Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC values).
+These MIC values provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC values should be determined using a standardized procedure.
+Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
+The MIC values should be interpreted according to the criteria outlined in Table 11.
+
+- Diffusion techniques:
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure2 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
+
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
+
+Table 11: Susceptibility Interpretive Criteria for LEVAQUIN®
+
+|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | S | I | R | S | I | R |
+| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
+| Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
+| Methicillin-susceptible Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
+| Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
+| Haemophilus influenza | ≤2These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1 | --The current absence of data on resistant strains precludes defining any categories other than "Susceptible." Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing. | -- | ≥17These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2 | -- | -- |
+| Haemophilus parainfluenzae | ≤2 | -- | -- | ≥17 | -- | -- |
+| Streptococcus pneumonia | ≤2These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. | 4 | ≥8 | ≥17These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. | 14–16 | ≤13 |
+| Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14–16 | ≤13 |
+| S = Susceptible, I = Intermediate, R = Resistant |  |  |  |  |  |  |
+
+A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
+This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+
+- Quality Control:
+
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+For dilution technique, standard levofloxacin powder should give the MIC values provided in Table 12.
+For diffusion technique, the 5 mcg levofloxacin disk should provide zone diameters provided in Table 12.
+
+Table 12: Quality Control for Susceptibility Testing
+
+| Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
+| --- | --- | --- | --- |
+| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | Not applicable |
+| Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
+| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | Not applicable |
+| Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 | 32 – 40This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 |
+| Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | Not applicable |
+| Staphylococcus aureus | ATCC 25923 | Not applicable | 25 – 30 |
+| Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. | 20 – 25This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. |
