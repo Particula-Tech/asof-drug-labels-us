@@ -29,8 +29,9 @@ Following single doses, Cmax is dose-proportional between 5 mg and 10 mg.
 At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range.
 Steady-state was achieved within two weeks following once-daily dosing.
 
-Food effect: Based on data in healthy subjects taking 1 mg everolimus tablets, a high-fat meal reduced Cmax and AUC by 60% and 16%, respectively.
-No data are available with AFINITOR 5 mg and 10 mg tablets.
+Food effect: In healthy subjects, high fat meals reduced systemic exposure to Afinitor 10 mg tablet (as measured by AUC) by 22% and the peak plasma concentration Cmax by 54%.
+Light fat meals reduced AUC by 32% and Cmax by 42%.
+Food, however, had no apparent effect on the post absorption phase concentration-time profile.
 
 Distribution
 
