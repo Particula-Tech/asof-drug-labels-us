@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076509"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
+  "package_ndcs": [
+    "0115-5511-01",
+    "0115-5511-02",
+    "0115-5511-03",
+    "0115-5511-10",
+    "0115-5522-01",
+    "0115-5522-02",
+    "0115-5522-03",
+    "0115-5522-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fenofibrate",
+      "name": "Fenofibrate"
+    }
+  ],
+  "setid": "fa08cf6a-d306-4979-9b23-ac7febf4fd12",
+  "source": "dailymed"
+}

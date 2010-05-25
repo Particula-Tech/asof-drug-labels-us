@@ -1,0 +1,178 @@
+# WARNINGS
+
+## Liver Function
+
+Fenofibrate at doses equivalent to 107 mg to 160 mg fenofibrate tablets per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
+In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
+
+When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.
+The incidence of increases in transaminase related to fenofibrate therapy appear to be dose related.
+In an 8-week dose-ranging study, the incidence of ALT or AST elevations to at least three times the upper limit of normal was 13% in patients receiving dosages equivalent to 107 mg to 160 mg fenofibrate tablets per day.
+Hepatocellular, chronic active and cholestatic hepatitis associated with fenofibrate therapy have been reported after exposures of weeks to several years.
+In extremely rare cases, cirrhosis has been reported in association with chronic active hepatitis.
+
+Regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate tablets, and therapy discontinued if enzyme levels persist above three times the normal limit.
+
+## Cholelithiasis
+
+Fenofibrate, like clofibrate and gemfibrozil, may increase cholesterol excretion into the bile, leading to cholelithiasis.
+If cholelithiasis is suspected, gallbladder studies are indicated.
+Fenofibrate tablets therapy should be discontinued if gallstones are found.
+
+## Concomitant Oral Anticoagulants
+
+Caution should be exercised when anticoagulants are given in conjunction with fenofibrate tablets because of the potentiation of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
+The dosage of the anticoagulant should be reduced to maintain the prothrombin time/INR at the desired level to prevent bleeding complications.
+Frequent prothrombin time/INR determinations are advisable until it has been definitely determined that the prothrombin time/INR has stabilized.
+
+## Concomitant HMG-CoA reductase inhibitors
+
+The combined use of fenofibrate tablets and HMG-CoA reductase inhibitors should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination.
+
+In a single-dose drug interaction study in 23 healthy adults the concomitant administration of fenofibrate tablets and pravastatin resulted in no clinically important difference in the pharmacokinetics of fenofibric acid, pravastatin or its active metabolite 3a-hydroxy iso-pravastatin when compared to either drug given alone.
+
+The combined use of fibric acid derivatives and HMG-CoA reductase inhibitors has been associated, in the absence of a marked pharmacokinetic interaction, in numerous case reports, with rhabdomyolysis, markedly elevated creatine kinase (CK) levels and myoglobinuria, leading in a high proportion of cases to acute renal failure.
+
+The use of fibrates alone, including fenofibrate tablets, may occasionally be associated with myositis, myopathy, or rhabdomyolysis.
+Patients receiving fenofibrate tablets and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myopathy, including serum creatine kinase level determination.
+If myopathy/myositis is suspected or diagnosed, fenofibrate tablets therapy should be stopped.
+
+## Mortality
+
+The effect of fenofibrate tablets on coronary heart disease morbidity and mortality and non-cardiovascular mortality has not been established.
+
+## Other Considerations
+
+In the Coronary Drug Project, a large study of post myocardial infarction of patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
+There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
+
+Because of chemical, pharmacological, and clinical similarities between fenofibrate tablets, Atromid-S (clofibrate), and Lopid (gemfibrozil), the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to fenofibrate tablets.
+
+In a study conducted by the World Health Organization (WHO), 5000 subjects without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional one year.
+There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p=<0.01).
+Excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
+This appeared to confirm the higher risk of gallbladder disease seen in clofibrate-treated patients studied in the Coronary Drug Project.
+
+The Helsinki Heart Study was a large (n=4081) study of middle-aged men without a history of coronary artery disease.
+Subjects received either placebo or gemfibrozil for 5 years, with a 3.5 year open extension afterward.
+Total mortality was numerically higher in the gemfibrozil randomization group but did not achieve statistical significance (p=0.19, 95% confidence interval for relative risk G:P=0.91-1.64).
+Although cancer deaths trended higher in the gemfibrozil group (p=0.11), cancers (excluding basal cell carcinoma) were diagnosed with equal frequency in both study groups.
+Due to the limited size of the study, the relative risk of death from any cause was not shown to be different than that seen in the 9 year follow-up data from World Health Organization study (RR=1.29).
+Similarly, the numerical excess of gallbladder surgeries in the gemfibrozil group did not differ statistically from that observed in the WHO study.
+
+A secondary prevention component of the Helsinki Heart Study enrolled middle-aged men excluded from the primary prevention study because of known or suspected coronary heart disease.
+Subjects received gemfibrozil or placebo for 5 years.
+Although cardiac deaths trended higher in the gemfibrozil group, this was not statistically significant (hazard ratio 2.2, 95% confidence interval: 0.94-5.05).
+The rate of gallbladder surgery was not statistically significant between study groups, but did trend higher in the gemfibrozil group, (1.9% vs. 0.3%, p=0.07).
+There was a statistically significant difference in the number of appendectomies in the gemfibrozil group (6/311 vs. 0/317, p=0.029).
+
+# PRECAUTIONS
+
+## General
+
+### Initial Therapy
+
+Laboratory studies should be done to ascertain that the lipid levels are consistently abnormal before instituting fenofibrate tablets therapy.
+Every attempt should be made to control serum lipids with appropriate diet, exercise, weight loss in obese patients, and control of any medical problems such as diabetes mellitus and hypothyroidism that are contributing to the lipid abnormalities.
+Medications known to exacerbate hypertriglyceridemia (beta-blockers, thiazides, estrogens) should be discontinued or changed if possible prior to consideration of triglyceride-lowering drug therapy.
+
+### Continued therapy
+
+Periodic determination of serum lipids should be obtained during initial therapy in order to establish the lowest effective dose of fenofibrate tablets.
+Therapy should be withdrawn in patients who do not have an adequate response after two months of treatment with the maximum recommended dose of 160 mg per day.
+
+### Pancreatitis
+
+Pancreatitis has been reported in patients taking fenofibrate, gemfibrozil, and clofibrate.
+This occurrence may represent a failure of efficacy in patients with severe hypertriglyceridemia, a direct drug effect, or a secondary phenomenon mediated through biliary tract stone or sludge formation with obstruction of the common bile duct.
+
+### Hypersensitivity Reactions
+
+Acute hypersensitivity reactions including severe skin rashes requiring patient hospitalization and treatment with steroids have occurred very rarely during treatment with fenofibrate, including rare spontaneous reports of Stevens-Johnson syndrome, and toxic epidermal necrolysis.
+Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients respectively in controlled trials.
+
+### Hematologic Changes
+
+Mild to moderate hemoglobin, hematocrit, and white blood cell decreases have been observed in patients following initiation of fenofibrate therapy.
+However, these levels stabilize during long-term administration.
+Extremely rare spontaneous reports of thrombocytopenia and agranulocytosis have been received during post-marketing surveillance outside of the U.S. Periodic blood counts are recommended during the first 12 months of fenofibrate tablets administration.
+
+### Skeletal muscle
+
+The use of fibrates alone, including fenofibrate tablets, may occasionally be associated with myopathy.
+Treatment with drugs of the fibrate class has been associated on rare occasions with rhabdomyolysis, usually in patients with impaired renal function.
+Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevations of creatine phosphokinase levels.
+
+Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
+CPK levels should be assessed in patients reporting these symptoms, and fenofibrate therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed.
+
+## Drug Interactions
+
+### Oral Anticoagulants
+
+CAUTION SHOULD BE EXERCISED WHEN COUMARIN ANTICOAGULANTS ARE GIVEN IN CONJUNCTION WITH FENOFIBRATE TABLETS.
+THE DOSAGE OF THE ANTICOAGULANTS SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME/INR AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS.
+FREQUENT PROTHROMBIN TIME/INR DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN TIME/INR LEVEL HAS STABILIZED.
+
+### HMG-CoA reductase inhibitors
+
+The combined use of fenofibrate tablets and HMG-CoA reductase inhibitors should be avoided unless the benefit of further alterations in lipid levels is likely to outweigh the increased risk of this drug combination (see WARNINGS).
+
+### Resins
+
+Since bile acid sequestrants may bind other drugs given concurrently, patients should take fenofibrate tablets at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption.
+
+### Cyclosporine
+
+Because cyclosporine can produce nephrotoxicity with decreases in creatinine clearance and rises in serum creatinine, and because renal excretion is the primary elimination route of fibrate drugs including fenofibrate tablets, there is a risk that an interaction will lead to deterioration.
+
+The benefits and risks of using fenofibrate tablets with immunosuppresants and other potentially nephrotoxic agents should be carefully considered, and the lowest effective dose employed.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a 24-month study in rats (10, 45, and 200 mg/kg; 0.3, 1, and 6 times the maximum recommended human dose on the basis of mg/meter2 of surface area), the incidence of liver carcinoma was significantly increased at 6 times the maximum recommended human dose in males and females.
+A statistically significant increase in pancreatic carcinomas occurred in males at 1 and 6 times the maximum recommended human dose; there were also increases in pancreatic adenomas and benign testicular interstitial cell tumors at 6 times the maximum recommended human dose in males.
+In a second 24-month study in a different strain of rats (doses of 10 and 60 mg/kg; 0.3 and 2 times the maximum recommended human dose based on mg/meter2 surface area), there were significant increases in the incidence of pancreatic acinar adenomas in both sexes and increases in interstitial cell tumors of the testes at 2 times the maximum recommended human dose.
+
+A comparative carcinogenicity study was done in rats comparing three drugs: fenofibrate (10 and 70 mg/kg; 0.3 and 1.6 times the maximum recommended human dose), clofibrate (400 mg/kg; 1.6 times the human dose), and gemfibrozil (250 mg/kg; 1.7 times the human dose) (multiples based on mg/meter2 surface area).
+Pancreatic acinar adenomas were increased in males and females on fenofibrate; hepatocellular carcinoma and pancreatic acinar adenomas were increased in males and hepatic neoplastic nodules in females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with gemfibrozil while testicular interstitial cell tumors were increased in males on all three drugs.
+
+In a 21-month study in mice at doses of 10, 45, and 200 mg/kg (approximately 0.2, 0.7 and 3 times the maximum recommended human dose on the basis of mg/meter2 surface area), there were statistically significant increases in liver carcinoma at 3 times the maximum recommended human dose in both males and females.
+In a second 18-month study at the same doses, there was a significant increase in liver carcinoma in male mice and liver adenoma in female mice at 3 times the maximum recommended human dose.
+
+Electron microscopy studies have demonstrated peroxisomal proliferation following fenofibrate administration to the rat.
+An adequate study to test for peroxisome proliferation in humans has not been done, but changes in peroxisome morphology and numbers have been observed in humans after treatment with other members of the fibrate class when liver biopsies were compared before and after treatment in the same individual.
+
+Fenofibrate has been demonstrated to be devoid of mutagenic potential in the following tests: Ames, mouse lymphoma, chromosomal aberration and unscheduled DNA synthesis.
+
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category C
+
+Fenofibrate has been shown to be embryocidal and teratogenic in rats when given in doses 7 to 10 times the maximum recommended human dose and embryocidal in rabbits when given at 9 times the maximum recommended human dose (on the basis of mg/meter2 surface area).
+There are no adequate and wellcontrolled studies in pregnant women.
+Fenofibrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Administration of 9 times the maximum recommended human dose of fenofibrate to female rats before and throughout gestation caused 100% of dams to delay delivery and resulted in a 60% increase in post-implantation loss, a decrease in litter size, a decrease in birth weight, a 40% survival of pups at birth, a 4% survival of pups as neonates, and a 0% survival of pups to weaning, and an increase in spina bifida.
+
+Administration of 10 times the maximum recommended human dose to female rats on days 6 – 15 of gestation caused an increase in gross, visceral and skeletal findings in fetuses (domed head/hunched shoulders/rounded body/abnormal chest, kyphosis, stunted fetuses, elongated sternal ribs, malformed sternebrae, extra foramen in palatine, misshapen vertebrae, supernumerary ribs).
+
+Administration of 7 times the maximum recommended human dose to female rats from day 15 of gestation through weaning caused a delay in delivery, a 40% decrease in live births, a 75% decrease in neonatal survival, and decreases in pup weight, at birth as well as on days 4 and 21 post-partum.
+
+Administration of 9 and 18 times the maximum recommended human dose to female rabbits caused abortions in 10% of dams at 9 times and 25% of dams at 18 times the maximum recommended human dose and death of 7% of fetuses at 18 times the maximum recommended human dose.
+
+## Nursing mothers
+
+Fenofibrate should not be used in nursing mothers.
+Because of the potential for tumorigenicity seen in animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug.
+
+## Pediatric Use
+
+Safety and efficacy in pediatric patients have not been established.
+
+## Geriatric Use
+
+Fenofibric acid is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
