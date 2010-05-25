@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019732"
+  ],
+  "inn": "leuprolide",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-3642-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "leuprolide acetate for depot suspension",
+      "name": "Lupron Depot"
+    }
+  ],
+  "setid": "07239db8-8d73-4cf9-7ea6-52aee7ef7f11",
+  "source": "dailymed"
+}
