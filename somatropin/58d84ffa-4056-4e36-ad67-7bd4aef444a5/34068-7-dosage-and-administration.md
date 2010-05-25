@@ -1,15 +1,14 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-For subcutaneous injection.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD and adult patients with either childhood onset or adult onset GHD.
+Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), those who were born small for gestational age (SGA), and adult patients with either childhood onset or adult onset GHD.
 
 ## 2.1 Dosing of Pediatric Patients
 
 ### General Pediatric Dosing Information
 
 The Omnitrope® dosage and administration schedule should be individualized based on the growth response of each patient.
-Serum insulin-like growth factor I (IGF-I) levels may be useful during dose titration.
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
 However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
@@ -18,7 +17,18 @@ Treatment with Omnitrope® for short stature should be discontinued when the epi
 
 ### Pediatric Growth Hormone Deficiency (GHD)
 
-Generally, a dosage of 0.16 - 0.24 mg/kg body weight/week, divided into 6 - 7 daily doses, is recommended.
+Generally, a dosage of 0.16 - 0.24 mg/kg body weight/week is recommended.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
+
+Prader-Willi Syndrome (PWS)
+
+Generally, a dosage of 0.24 mg/kg body weight/week is recommended.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
+
+Small for Gestational Age (SGA)
+
+Generally, a dosage of up to 0.48 mg/kg body weight/week is recommended.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 ## 2.2 Dosing of Adult Patients
 
@@ -45,7 +55,7 @@ Oral estrogen administration may increase the dose requirements in women.
 Each cartridge of Omnitrope® must be inserted into its corresponding Omnitrope® Pen 5 or Omnitrope® Pen 10 delivery system.
 Instructions for delivering the dosage are provided in the Omnitrope® INSTRUCTIONS FOR USE booklet enclosed with the Omnitrope® drug and the Omnitrope® Pens.
 
-### OMNITROPE® for injection 1.5 mg/vial and 5.8 mg/vial
+### Omnitrope® for injection 5.8 mg/vial
 
 Instructions for delivering the dosage are provided in the INSTRUCTIONS FOR USE leaflets enclosed with the Omnitrope® drug.
 
@@ -57,10 +67,10 @@ Omnitrope® MUST NOT BE INJECTED if the solution is cloudy or contains particula
 Use it only if it is clear and colorless.
 Omnitrope must be refrigerated at 2° to 8°C (36° to 46°F).
 
-Patients and caregivers who will administer OMNITROPE® in medically unsupervised situations should receive appropriate training and instruction on the proper use of OMNITROPE® from the physician or other suitably qualified health professional.
+Patients and caregivers who will administer Omnitrope® in medically unsupervised situations should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health professional.
 
-The dosage of OMNITROPE® must be adjusted for the individual patient.
+The dosage of Omnitrope® must be adjusted for the individual patient.
 The dose should be given daily by subcutaneous injections (administered preferably in the evening).
-OMNITROPE® may be given in the thigh, buttocks, or abdomen.
+Omnitrope® may be given in the thigh, buttocks, or abdomen.
 
 Injection sites should always be rotated to avoid lipoatrophy.

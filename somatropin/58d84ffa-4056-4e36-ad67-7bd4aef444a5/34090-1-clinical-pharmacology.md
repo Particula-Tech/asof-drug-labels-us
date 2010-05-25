@@ -1,23 +1,23 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Somatropin (as well as endogenous GH) binds to a dimeric GH receptor in the cell membrane of target cells resulting in intracellular signal transduction and a host of pharmacodynamic effects.
-Some of these pharmacodynamic effects are primarily mediated by IGF-I produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see CLINICAL PHARMACOLOGY (12.2)].
+Some of these pharmacodynamic effects are primarily mediated by IGF-1 produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see CLINICAL PHARMACOLOGY (12.2)].
 
 ## 12.2 Pharmacodynamics
 
 ### Tissue Growth
 
 The primary and most intensively studied action of somatropin is the stimulation of linear growth.
-This effect is demonstrated in children with GHD.
+This effect is demonstrated in children with GHD and children who have PWS or were born SGA.
 
 ### Skeletal Growth
 
 The measurable increase in bone length after administration of somatropin results from its effect on the cartilaginous growth areas of long bones.
 Studies in vitro have shown that the incorporation of sulfate into proteoglycans is not due to a direct effect of somatropin, but rather is mediated by the somatomedins or insulin-like growth factors (IGFs).
-The somatomedins, among them IGF-I, are polypeptide hormones which are synthesized in the liver, kidney, and various other tissues.
-IGF-I levels are low in the serum of hypopituitary dwarfs and hypophysectomized humans or animals, and increase after treatment with somatropin.
+The somatomedins, among them IGF-1, are polypeptide hormones which are synthesized in the liver, kidney, and various other tissues.
+IGF-1 levels are low in the serum of hypopituitary dwarfs and hypophysectomized humans or animals, and increase after treatment with somatropin.
 
 ### Cell Growth
 
@@ -62,16 +62,31 @@ Somatropin stimulates the synthesis of chondroitin sulfate and collagen, and inc
 
 ## 12.3 Pharmacokinetics
 
-Following a subcutaneous injection of single dose of 5 mg OMNITROPE® 5 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) and tmax values were 72 ± 28 mcg/L and 4.0 ± 2.0 hours, respectively.
-There are no pharmacokinetic data from patients with GHD.
+There are no pharmacokinetic studies using Omnitrope® Cartridges in patients with growth hormone deficiency.
 
-The mean terminal half-life of somatropin after subcutaneous administration of OMNITROPE® Cartridge in healthy adults is 2.8 hours.
-The mean clearance of subcutaneously administered OMNITROPE® Cartridge in healthy adults was 0.14 (± 0.04) L/hr∙kg.
+### Absorption
 
-Following a subcutaneous injection of single dose of 5 mg OMNITROPE® 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) and tmax values were 74 ± 22 mcg/L and 4.0 ± 2.0 hours, respectively.
-There are no pharmacokinetic data from patients with GHD.
+Following a subcutaneous injection of single dose of 5 mg Omnitrope® 5 mg/1.5 mL Cartridge or 5 mg Omnitrope® 10 mg/1.5 mL Cartridge in healthy male and female adults, the peak concentration (Cmax) was 72-74 mcg/L.
+The time to reach Cmax (tmax) for Omnitrope was 4.0 hours.
 
-The mean terminal half-life of somatropin after subcutaneous administration of OMNITROPE® Cartridge in healthy adults is 2.5 hours.
-The mean clearance of subcutaneously administered OMNITROPE® Cartridge in healthy adults was 0.13 (± 0.02) L/hr∙kg.
+The aqueous formulations of 5 mg/1.5 mL Omnitrope® cartridge and 10 mg/mL Omnitrope® cartridge are bioequivalent to the lyophilized 5.8 mg/vial Omnitrope® formulation.
 
-The aqueous formulations 5 mg/1.5 mL Omnitrope® cartridge and 10 mg/mL Omnitrope® cartridge are bioequivalent to the lyophilized 5.8 mg/vial Omnitrope® formulation.
+### Metabolism
+
+Somatropin is metabolized in both the liver and kidneys by proteolytic degradation.
+In renal cells, at least a portion of the breakdown products are returned to the systemic circulation.
+
+### Excretion
+
+The mean terminal half-life of somatropin after subcutaneous administration of Omnitrope® Cartridge in healthy adults is 2.5-2.8 hours.
+The mean clearance of subcutaneously administered Omnitrope® Cartridge in healthy adults was about 0.14 L/hr∙kg.
+
+Specific Populations
+
+Pediatric: No pharmacokinetic studies of Omnitrope® have been conducted in pediatric patients.
+
+Gender: The effect of gender on pharmacokinetics of Omnitrope® has not been evaluated in pediatric patients.
+
+Race: No studies have been conducted with Omnitrope® to assess pharmacokinetic differences among races.
+
+Renal or hepatic impairment: No pharmacokinetic studies have been conducted with Omnitrope® in patients with renal or hepatic impairment.

@@ -1,15 +1,18 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-## 7.1 Inhibition of 11β-Hydroxysteroid Dehydrogenase Type 1 (11βHSD-1)
+## 7.1 11β-Hydroxysteroid Dehydrogenase Type 1 (11βHSD-1)
 
-Somatropin inhibits 11β-hydroxysteroid dehydrogenase type 1 (11βHSD-1) in adipose/hepatic tissue and may significantly impact the metabolism of cortisol and cortisone.
-As a consequence, in patients treated with somatropin, previously undiagnosed central (secondary) hypoadrenalism may be unmasked requiring glucocorticoid replacement therapy.
-In addition, patients treated with glucocorticoid replacement therapy for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses; this may be especially true for patients treated with cortisone acetate and prednisone since conversion of these drugs to their biologically active metabolites is dependent on the activity of the 11βHSD-1 enzyme.
+The microsomal enzyme 11β-hydroxysteroid dehydrogenase type 1 (11βHSD-1) is required for conversion of cortisone to its active metabolite, cortisol, in hepatic and adipose tissue.
+GH and somatropin inhibit 11βHSD-1.
+Consequently, individuals with untreated GH deficiency have relative increases in 11βHSD-1 and serum cortisol.
+Introduction of somatropin treatment may result in inhibition of 11βHSD-1 and reduced serum cortisol concentrations.
+As a consequence, previously undiagnosed central (secondary) hypoadrenalism may be unmasked and glucocorticoid replacement may be required in patients treated with somatropin.
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment; this may be especially true for patients treated with cortisone acetate and prednisone since conversion of these drugs to their biologically active metabolites is dependent on the activity of 11βHSD-1.
 
-## 7.2 Glucocorticoid Replacement
+## 7.2 Pharmacologic Glucocorticoid Therapy and Supraphysiologic Glucocorticoid Treatment
 
-Excessive glucocorticoid therapy may attenuate the growth promoting effects of somatropin in children.
-Therefore, glucocorticoid replacement therapy should be carefully adjusted in children with concomitant GH and glucocorticoid deficiency to avoid both hypoadrenalism and an inhibitory effect on growth.
+Pharmacologic glucocorticoid therapy and supraphysiologic glucocorticoid treatment may attenuate the growth promoting effects of somatropin in children.
+Therefore, glucocorticoid replacement dosing should be carefully adjusted in children receiving concomitant somatropin and glucocorticoid treatments to avoid both hypoadrenalism and an inhibitory effect on growth.
 
 ## 7.3 Cytochrome P450-Metabolized Drugs
 

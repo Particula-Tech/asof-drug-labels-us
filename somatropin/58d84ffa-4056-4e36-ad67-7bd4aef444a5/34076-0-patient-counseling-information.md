@@ -1,24 +1,22 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling.
 
-Patients being treated with OMNITROPE® (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment [in particular, see ADVERSE REACTIONS (6.1) for a listing of the most serious and/or most frequently observed adverse reactions associated with somatropin treatment in children and adults].
+Patients being treated with Omnitrope® (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment [in particular, see ADVERSE REACTIONS (6.1) for a listing of the most serious and/or most frequently observed adverse reactions associated with somatropin treatment in children and adults].
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
 
-Patients and caregivers who will administer OMNITROPE® should receive appropriate training and instruction on the proper use of OMNITROPE® from the physician or other suitably qualified health care professional.
+Patients and caregivers who will administer Omnitrope® should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health care professional.
 A puncture-resistant container for the disposal of used syringes and needles should be strongly recommended.
 Patients and/or parents should be thoroughly instructed in the importance of proper disposal, and cautioned against any reuse of needles and syringes.
 This information is intended to aid in the safe and effective administration of the medication.
 
 If patients are prescribed Omnitrope® Cartridge 5 mg/1.5 mL or 10 mg/1.5 mL (to be inserted into Omnitrope Pen 5 or Pen 10 delivery systems), physicians should instruct patients to read the corresponding INSTRUCTIONS FOR USE provided with the Omnitrope® Pens delivery systems and the Omnitrope® Cartridges.
 
-If patients are prescribed Omnitrope® for injection, physicians should instruct patients to read the INSTRUCTIONS FOR USE leaflets provided with the Omnitrope® for injection 1.5 mg/vial or 5.8 mg/vial.
+If patients are prescribed Omnitrope® for injection, physicians should instruct patients to read the INSTRUCTIONS FOR USE leaflets provided with the Omnitrope® for injection 5.8 mg/vial.
 
 Omnitrope® is a trademark of Novartis.
 
-08-2008
-
-92 238 5
+06-2010
 
 Manufactured in Austria by Sandoz GmbH
 
@@ -303,7 +301,7 @@ Once your Omnitrope® Pen 5 contains a somatropin cartridge, it has to be stored
 
 Protect your Omnitrope® Pen 5 and cartridge from light by storing in its pouch or refrigerator storage box.
 
-The Omnitrope cartridge must be discarded 21 days after the first injection.
+The Omnitrope cartridge must be discarded 28 days after the first injection.
 The Omnitrope® Pen 5 can be reloaded with a new cartridge and be used multiple times.
 
 Your Omnitrope® Pen 5 must be properly cared for.
@@ -313,18 +311,20 @@ Your Omnitrope® Pen 5 must be properly cared for.
 - Avoid exposure to dust, moisture and temperature extremes.
   Do not expose to heat or freeze.
 
-If your Omnitrope® Pen 5 is damaged or you cannot get it to work contact your local Omnitrope® Pen 5 provider (phone 1-800-525-8747).
-For questions or additional information please call 1-800-525-8747.
+If your Omnitrope® Pen 5 is damaged or you cannot get it to work, contact the pharmacy that provided you the Omnitrope® Pen 5 or, if OmniSource provided you with your Omnitrope® Pen 5, call 1-877-456-6794.
+For other questions or additional information please call OmniSource at 1-877-456-6794.
 Do not attempt to repair the pen yourself.
 
 GUARANTEE
 
 Your Omnitrope® Pen 5 is covered by a 2 year guarantee.
-Contact your local pen provider after you have used the pen for 2 years to have it replaced by a new one.
+Contact your Omnitrope® Pen 5 provider after you have used the pen for 2 years to have it replaced by a new one.
 
-If your Omnitrope® Pen 5 is defective in materials or workmanship within the period of the guarantee, the local pen provider will replace the Omnitrope® Pen 5 and/or rectify the fault at its own cost.
+If your Omnitrope® Pen 5 is defective in materials or workmanship within the period of the guarantee, the provider of your Omnitrope® Pen 5 will replace your pen and/or rectify the fault at its own cost.
+If OmniSource provided your Omnitrope® Pen 5, call 1-877-456-6794.
+Otherwise call the pharmacy that provided the Omnitrope® Pen 5.
 
-In case of complaints, please contact your local pen provider to report a complaint.
+In case of complaints, please contact your Omnitrope® Pen 5 provider to report a complaint.
 
 This guarantee is invalid if your Omnitrope® Pen 5 has not been used in accordance with the manufacturer`s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
@@ -352,7 +352,7 @@ Omnitrope® is a trademark of Novartis.
 
 BD and BD Logo are trademarks of Becton, Dickinson and Company.
 
-OP5.ifU.07.1
+OP5.ifU.06.1
 
 Manufactured by
 
@@ -367,6 +367,8 @@ Sandoz GmbH, Kundl, Austria
 Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
+
+06-2010
 
 ## OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
 
@@ -657,18 +659,20 @@ Your Omnitrope® Pen 10 must be properly cared for.
 - Avoid exposure to dust, moisture and temperature extremes.
   Do not expose to heat or freeze.
 
-If your Omnitrope® Pen 10 is damaged or you cannot get it to work contact your local Omnitrope® Pen 10 provider (phone 1-800-525-8747).
-For questions or additional information please call 1-800-525-8747.
+If your Omnitrope® Pen 10 is damaged or you cannot get it to work, contact the pharmacy that provided you the Omnitrope® Pen 10 or, if OmniSource provided you with your Omnitrope® Pen 10, call 1-877-456-6794.
+For other questions or additional information please call OmniSource at 1-877-456-6794.
 Do not attempt to repair the pen yourself.
 
 GUARANTEE
 
 Your Omnitrope® Pen 10 is covered by a 2 year guarantee.
-Contact your local pen provider after you have used the pen for 2 years to have it replaced by a new one.
+Contact your Omnitrope® Pen 10 provider after you have used the pen for 2 years to have it replaced by a new one.
 
-If your Omnitrope® Pen 10 is defective in materials or workmanship within the period of the guarantee, the local pen provider will replace the Omnitrope® Pen 10 and/or rectify the fault at its own cost.
+If your Omnitrope® Pen 10 is defective in materials or workmanship within the period of the guarantee, the provider of your Omnitrope® Pen 10 will replace your pen and/or rectify the fault at its own cost.
+If OmniSource provided your Omnitrope® Pen 10, call 1-877-456-6794.
+Otherwise call the pharmacy that provided the Omnitrope® Pen 10.
 
-In case of complaints, please contact your local pen provider to report a complaint.
+In case of complaints, please contact your Omnitrope® Pen 10 provider to report a complaint.
 
 This guarantee is invalid if your Omnitrope® Pen 10 has not been used in accordance with the manufacturer`s instruction leaflet or if the defect has been caused by neglect, misuse or accident.
 
@@ -712,108 +716,7 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-## INSTRUCTIONS FOR OMNITROPE® 1.5 MG/VIAL
-
-The following instructions explain how to inject OMNITROPE® 1.5 mg.
-Do not inject OMNITROPE® yourself until your healthcare provider has taught you and you understand the instructions.
-Ask your healthcare provider or pharmacist if you have any questions about injecting OMNITROPE®.
-
-- OMNITROPE® 1.5 mg is for single use.
-- The concentration of OMNITROPE® after mixing is 1.3 mg/mL.
-
-Preparation
-
-Collect necessary items before you begin:
-
-- a vial with OMNITROPE® 1.5 mg
-- a vial with diluent (mixing liquid - Sterile Water for Injection) for OMNITROPE® 1.5 mg
-- a sterile, disposable 3 mL syringe and needle for withdrawing the diluent from the vial (not supplied in the pack)
-- sterile disposable 1 mL syringes and needles for under the skin (subcutaneous) injection (not supplied in the pack)
-- 2 alcohol swabs (not supplied in the pack)
-
-Wash your hands before you start with the next steps.
-
-Mixing OMNITROPE® 1.5 mg
-
-- Remove the protective caps from the two vials.
-  With one alcohol swab, clean both the rubber top of the vial that contains the powder and the rubber top of the vial that contains diluent.
-
-- Use next the sterile diluent vial, the disposal 3 mL syringe and a needle.
-- Attach the needle to the syringe (if not attached already).
-  Pull back the syringe plunger and fill the syringe with air.
-  Push the needle fitted to the syringe through the rubber top of the diluent vial, push all the air from the syringe into the vial, turn the vial upside down, and withdraw all the diluent from the vial into the syringe.
-  Remove the syringe and needle.
-
-- Next take the syringe with the diluent in it and push the needle through the rubber stopper of the vial that contains the white powder.
-  Inject the diluent slowly.
-  Aim the stream of liquid against the glass wall in order to avoid foam.
-  Remove the syringe and needle and dispose of them.
-
-- Gently swirl the vial until the content is completely dissolved.
-
-Do not shake.
-
-- If the medicine is cloudy or contains particles, it should not be used.
-  The medicine must be clear and colorless after mixing.
-- After mixing the medicine use the solution immediately or at a maximum 24 hours after reconstitution.
-
-Measuring the Dose of OMNITROPE® 1.5 mg to Be Injected
-
-- Next use the sterile, disposable 1 mL (or similar) syringe and needle for subcutaneous injection.
-  Push the needle through the rubber top of the vial that contains the medicine that you have just mixed.
-- Turn the vial and the syringe upside down.
-
-- Be sure the tip of the syringe is in the OMNITROPE® mixed medicine.
-- Pull back on the plunger slowly and withdraw the dose prescribed by your doctor into the syringe.
-- Hold the syringe with the needle in the vial pointing up and remove the syringe from the vial.
-- Check for air bubbles in the syringe.
-  If you see any bubbles, pull the plunger slightly back; tap the syringe gently, with the needle pointing upwards, until the bubble disappears.
-  Push the plunger slowly back up to the correct dose.
-  If there is not enough medicine in the syringe after removing the air bubbles, draw more medicine into the syringe from the mixed medicine vial and repeat checking for bubbles.
-- Look at the mixed medicine in the syringe before using.
-  Do not use if discolored or particles are present.
-  You are now ready to inject the dose.
-
-Injecting OMNITROPE® 1.5 mg
-
-- Choose the site of injection on your body.
-  The best sites for injection are tissues with a layer of fat between skin and muscle such as the upper leg (thigh), buttocks, or stomach area (abdomen) as in the picture shown below.
-  Do not inject near your belly button (navel) or waistline.
-
-- Make sure you rotate the injection sites on your body.
-  Inject at least 1/2 inch from the last injection.
-  Change the places on your body where you inject, as you have been taught.
-- Before you make an injection, clean your skin well with an alcohol swab.
-  Wait for the area to air dry.
-
-- With one hand, pinch a fold of loose skin at the injection site.
-  With your other hand, hold the syringe as you would a pencil.
-  Insert the needle into the pinched skin straight in or at a slight angle (an angle of 45° to 90°).
-  After the needle is in, remove the hand used to pinch the skin and use it to hold the syringe barrel.
-  Pull back the plunger very slightly with one hand.
-  If blood comes into the syringe, the needle has entered a blood vessel.
-  Do not inject into this site; withdraw the needle and repeat the procedure at a different site.
-  If no blood comes into the syringe, inject the solution by pushing the plunger all the way down gently.
-
-- Pull the needle straight out of the skin.
-  After injection, press the injection site with a small bandage or sterile gauze if needed for bleeding, for several seconds.
-  Do not massage or rub the injection site.
-
-After Injecting OMNITROPE® 1.5 mg
-
-- Discard the vials and injection materials.
-- Dispose the syringes safely in a closed container.
-  You can ask your healthcare provider or pharmacist for a “sharps” container.
-  A sharps container is a special container to put used needles and syringes in.
-  You can return a full sharps container to your pharmacist or healthcare provider for disposal.
-
-Omnitrope® is a trademark of Novartis.
-
-92 238 5
-
-Manufactured in Austria by Sandoz GmbH
-
-Distributed by Sandoz Inc., Princeton, NJ 08540
+06-2010
 
 ## INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
 
@@ -921,9 +824,7 @@ After Injecting OMNITROPE® 5.8 mg
 
 Omnitrope® is a trademark of Novartis.
 
-08-2008
-
-92 238 5
+06-2010
 
 Manufactured in Austria by Sandoz GmbH
 

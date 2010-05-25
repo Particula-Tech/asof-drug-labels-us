@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 ## 4.1 Acute Critical Illness
 
@@ -7,9 +7,8 @@ Two placebo-controlled clinical trials in non-growth hormone deficient adult pat
 
 ## 4.2 Prader-Willi Syndrome in Children
 
-Somatropin is contraindicated in patients with Prader-Willi syndrome who are severely obese, have a history of upper airway obstruction or sleep apnea, or have severe respiratory impairment.
-There have been reports of sudden death when somatropin was used in such patients.
-Omnitrope® is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
+Somatropin is contraindicated in patients with Prader-Willi Syndrome who are severely obese, have a history of upper airway obstruction or sleep apnea, or have severe respiratory impairment.
+There have been reports of sudden death when somatropin was used in such patients [see WARNINGS AND PRECAUTIONS (5.2)].
 
 ## 4.3 Active Malignancy
 
@@ -36,4 +35,4 @@ Localized reactions are the most common hypersensitivity reactions.
 
 Benzyl alcohol, a preservative in Omnitrope Cartridge 5 mg/1.5 mL and in Bacteriostatic Water for Injection, has been associated with toxicity in newborns.
 
-Omnitrope Cartridge 5 mg/1.5 mL and Omnitrope for Injection 5.8 mg/vial must not be given to premature babies or neonates.
+Omnitrope® Cartridge 5 mg/1.5 mL and Omnitrope® for Injection 5.8 mg/vial must not be given to premature babies or neonates.
