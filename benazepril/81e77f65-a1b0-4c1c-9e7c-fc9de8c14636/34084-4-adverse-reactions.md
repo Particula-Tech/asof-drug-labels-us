@@ -64,8 +64,11 @@ Monotherapy with benazepril has been evaluated for safety in over 6000 patients.
 In clinical trials, the observed adverse reactions to benazepril were similar to those seen in trials of Lotensin HCT.
 In post-marketing experience with benazepril, there have been rare reports of Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombo-cytopenia.
 Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
+
 Hydrochlorothiazide has been extensively prescribed for many years, but there has not been enough systematic collection of data to support an estimate of the frequency of the observed adverse reactions.
 Within organ-system groups, the reported reactions are listed here in decreasing order of severity, without regard to frequency.
+
+Unknown frequency: small bowel angioedema, anaphylactoid reactions, hyperkalemia, agranulocytosis, neutropenia.
 
 Cardiovascular: Orthostatic hypotension (may be potentiated by alcohol, barbiturates, or narcotics).
 
