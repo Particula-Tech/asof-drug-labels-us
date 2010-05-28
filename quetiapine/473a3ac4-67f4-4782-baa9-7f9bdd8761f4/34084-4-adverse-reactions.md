@@ -22,7 +22,7 @@ There were no adverse reactions leading to discontinuation that occurred at an i
 
 Bipolar Disorder:
 
-Mania: In a single clinical trial in patients with bipolar mania, 4.6% (7/151) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 8.1% (13/160) on placebo.
+Mania: In a single clinical trial in patients with bipolar mania, 4.6% (7/151) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 8.1% (13/160) on placebo.
 There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in Bipolar Mania trials.
 
 Depression: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 4% (5/140) on placebo.
@@ -40,17 +40,15 @@ In short-term placebo-controlled studies for schizophrenia the most commonly obs
 Adverse Reactions Occurring at an Incidence of 1% or More Among SEROQUEL XR Treated Patients in Short-Term, Placebo-Controlled Trials
 
 Table 10 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 1% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
-Table 12:
 
-Table 10:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia1
+Table 10: Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia1
 
 Table 10:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
 
-|  | (n=319) | (n=951) |
-| --- | --- | --- |
-|  | Table 10 |  |
-| Body System/Preferred Term | PLACEBO | SEROQUEL XR |
 | Cardiac Disorders |  |  |
+| --- | --- | --- |
+| Body System/Preferred Term | PLACEBO | SEROQUEL XR |
+|  | (n=319) | (n=951) |
 | Tachycardia | 1% | 3% |
 | Eye Disorders |  |  |
 | Vision blurred | 1% | 2% |
@@ -89,11 +87,10 @@ Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Table 11: Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar ManiaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, peripheral edema, diarrhea, nausea, vomiting, decreased appetite, muscle spasms, musculoskeletal stiffness, myalgia, tremor, akathisia, insomnia, agitation, nightmare, restlessness, erectile dysfunction, pharyngolaryngeal pain, cough, and hypotension.
 
-|  | n=160 | n=151 |
-| --- | --- | --- |
-|  | Table 11 |  |
-| Body System/Preferred Term | PLACEBO | SEROQUEL XR |
 | Cardiac Disorders |  |  |
+| --- | --- | --- |
+| Body System/Preferred Term | PLACEBO | SEROQUEL XR |
+|  | (n=160) | (n=151) |
 | Tachycardia | 1% | 2% |
 | Eye Disorders |  |  |
 | Vision blurred | 1% | 2% |
@@ -138,11 +135,10 @@ Table 12: enumerates the incidence, rounded to the nearest percent, of treatment
 
 Table 12: Treatment-Emergent Adverse Reactions in an 8-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar DepressionReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache insomnia, nausea, diarrhea, vomiting, nasopharyngitis, upper respiratory tract infection, influenza, pain in extremity, cough and nasal congestion.
 
-|  | (n=140) | (n=137) |
-| --- | --- | --- |
-|  | Table 12 |  |
-| Body System/Preferred Term | Placebo | SEROQUEL XR |
 | Ear And Labyrinth Disorders |  |  |
+| --- | --- | --- |
+| Body System/Preferred Term | Placebo | SEROQUEL XR |
+|  | (n=140) | (n=137) |
 | Ear Pain | 1% | 2% |
 | Gastrointestinal Disorders |  |  |
 | Dry Mouth | 7% | 37% |
@@ -203,12 +199,11 @@ In the 6-week placebo-controlled fixed dose adjunctive therapy clinical trials, 
 
 Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during short-term adjunctive therapy of MDD (up to 6 weeks) in 1% or more of patients treated with SEROQUEL XR (at doses of either 150 mg or 300 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 13: Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Therapy Clinical Trials for the Treatment of MDD by Fixed Dose1Reactions for which the SEROQUEL XR incidence was 1% or more but equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, nausea, disturbance in attention, dysarthria, paraesthesia, tremor, diarrhea, upper abdominal pain, nightmare, nasopharyngitis, sinusitis, decreased appetite, myalgia, arthralgia, pain in extremity, hyperhidrosis, night sweats and nasal congestion.
+Table 13: Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Therapy Clinical Trials for the Treatment of MDD by Fixed DoseReactions for which the SEROQUEL XR incidence was 1% or more but equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, nausea, disturbance in attention, dysarthria, paraesthesia, tremor, diarrhea, upper abdominal pain, nightmare, nasopharyngitis, sinusitis, decreased appetite, myalgia, arthralgia, pain in extremity, hyperhidrosis, night sweats and nasal congestion.
 
-| Body System/Preferred Term | Placebo (n=309) | SEROQUEL XR 150 mg (n=315) | SEROQUEL XR 300 mg (n=312) |
-| --- | --- | --- | --- |
-|  |  | Table 13 |  |
 | Ear And Labyrinth Disorders |  |  |  |
+| --- | --- | --- | --- |
+| Body System/Preferred Term | Placebo (n=309) | SEROQUEL XR 150 mg (n=315) | SEROQUEL XR 300 mg (n=312) |
 | Vertigo | 1% | 2% | 2% |
 | Eye Disorders |  |  |  |
 | Vision Blurred | 1% | 2% | 1% |
@@ -238,7 +233,7 @@ Table 13: Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Ad
 | Nervous System Disorders |  |  |  |
 | SomnolenceSomnolence combines adverse event terms somnolence and sedation. | 9% | 37% | 43% |
 | Dizziness | 7% | 11% | 12% |
-| Extrapyramidal Symptoms3Extrapyramidal symptoms that were reported for SEROQUEL XR or placebo include the terms: akathisia, cogwheel rigidity, drooling, dyskinesia, extrapyramidal disorder, hypertonia, hypokinesia, psychomotor hyperactivity, restlessness, and tremor. | 4% | 4% | 6% |
+| Extrapyramidal SymptomsExtrapyramidal symptoms that were reported for SEROQUEL XR or placebo include the terms: akathisia, cogwheel rigidity, drooling, dyskinesia, extrapyramidal disorder, hypertonia, hypokinesia, psychomotor hyperactivity, restlessness, and tremor. | 4% | 4% | 6% |
 | Hypersomnia | 0% | 1% | 2% |
 | Dysarthia | 0% | 1% | 1% |
 | Dysgeusia | 0% | 1% | 1% |
@@ -303,23 +298,23 @@ Table 15: Adverse Experiences Associated with Extrapyramidal Symptoms in a Place
 | Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=160) |  | SEROQUEL XR (N=151) |  |
 | --- | --- | --- | --- | --- |
 | n | % | n | % |  |
-| Dystonic event: Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.7 |
-| Parkinsonism: Patients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 3 | 1.9 | 4 | 2.7 |
-| Akathisia: Patients with the following terms were counted in this category: akathisia, psychomotor agitation | 1 | 0.6 | 2 | 1.3 |
-| Other extrapyramidal event: Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 2 | 1.3 | 3 | 2.0 |
+| Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.7 |
+| ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 3 | 1.9 | 4 | 2.7 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia, psychomotor agitation | 1 | 0.6 | 2 | 1.3 |
+| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 2 | 1.3 | 3 | 2.0 |
 
 In a placebo-controlled clinical trial for the treatment of bipolar depression utilizing 300 mg of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 4.4% for SEROQUEL XR and 0.7% in the placebo group.
 In this study, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dystonia, hypertonia) did not exceed 1.5% for any individual adverse reaction.
 
 Table 16: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Depression
 
-| Preferred Term: There were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=140) |  | SEROQUEL XR (N=137) |  |
+| Preferred TermThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=140) |  | SEROQUEL XR (N=137) |  |
 | --- | --- | --- | --- | --- |
 | n | % | n | % |  |
-| Dystonic event: Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 2 | 1.5 |
-| Parkinsonism: Patients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 1 | 0.7 | 1 | 0.7 |
-| Akathisia: Patients with the following terms were counted in this category: akathisia, psychomotor agitation | 0 | 0.0 | 2 | 1.5 |
-| Other extrapyramidal event: Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 0 | 0.0 | 1 | 0.7 |
+| Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 2 | 1.5 |
+| ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 1 | 0.7 | 1 | 0.7 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia, psychomotor agitation | 0 | 0.0 | 2 | 1.5 |
+| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 0 | 0.0 | 1 | 0.7 |
 
 In two placebo-controlled short-term adjunctive therapy clinical trials for the treatment of MDD utilizing between 150 mg and 300 mg of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 5.1% for SEROQUEL XR and 4.2% for the placebo group.
 
@@ -330,39 +325,41 @@ Table 17: Adverse Reactions Potentially Associated with EPS in MDD Trials by Dos
 | Preferred term | Placebo (N=309) |  | SEROQUEL XR 150 mg/day (N=315) |  | SEROQUEL XR 300 mg/day (N=312) |  | All Doses (N=627) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
-| Dystonic event: Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.3 | 0 | 0.0 | 1 | 0.2 |
-| Parkinsonism: Patients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 5 | 1.6 | 3 | 1.0 | 4 | 1.3 | 7 | 1.1 |
-| Akathisia: Patients with the following terms were counted in this category: akathisia, psychomotor agitation | 3 | 1.0 | 5 | 1.6 | 8 | 2.6 | 12 | 2.1 |
-| Dyskinetic event: Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 0 | 0.0 | 1 | 0.3 | 1 | 0.2 |
-| Other extrapyramidal event: Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 5 | 1.6 | 5 | 1.6 | 7 | 2.2 | 12 | 1.9 |
+| Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.3 | 0 | 0.0 | 1 | 0.2 |
+| Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor, drooling, hypokinesia | 5 | 1.6 | 3 | 1.0 | 4 | 1.3 | 7 | 1.1 |
+| Akathisia Patients with the following terms were counted in this category: akathisia, psychomotor agitation | 3 | 1.0 | 5 | 1.6 | 8 | 2.6 | 13 | 2.1 |
+| Dyskinetic event Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 0 | 0.0 | 1 | 0.3 | 1 | 0.2 |
+| Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder, movement disorder | 5 | 1.6 | 5 | 1.6 | 7 | 2.2 | 12 | 1.9 |
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
 In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% for SEROQUEL and 5.3% for placebo, though the incidence of the individual adverse events (eg, akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
 In a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% for SEROQUEL and 1.1% for placebo.
 
-Table 18 below presents a listing of patients with Adverse Experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
+Table 18 below presents a listing of patients with adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-Table 18 Adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
+Table 18: Adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-| Preferred term | Placebo (N=75) |  | Quetiapine 400 mg/day (N=73) |  | Quetiapine 800 mg/day (N=74) |  | All Quetiapine (N=147) |  |
+| Preferred term | Placebo (N=75) |  | SEROQUEL 400 mg/day (N=73) |  | SEROQUEL 800 mg/day (N=74) |  | All SEROQUEL(N=147) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
-| Dystonic event: Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
-| Parkinsonism: Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
-| Akathisia: Patients with the following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
-| Dyskinetic event: Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
-| Other extrapyramidal event: Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
+| Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
+| Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
+| Akathisia Patients with the following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
+| Dyskinetic event Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
+| Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
 
 Table 19 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
 Table 19: Adverse experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
-| Preferred term: There were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo (N=90) |  | Quetiapine 400 mg (N=95) |  | Quetiapine 600 mg (N=98) |  | All Quetiapine (N=193) |  |
+Table 19
+
+| Preferred termThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo (N=90) |  | SEROQUEL 400 mg/day (N=95) |  | SEROQUEL 600 mg/day (N=98) |  | All SEROQUEL(N=193) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
-| Parkinsonism: Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
-| Akathisia: Patients with the following terms were counted in this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
-| Other extrapyramidal event: Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
+| Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
+| Akathisia Patients with the following terms were counted in this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
+| Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increased appetite was 7.6% for SEROQUEL compared to 2.4% for placebo.
@@ -382,10 +379,15 @@ In three-arm SEROQUEL XR placebo-controlled monotherapy clinical trials, among p
 In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo.
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue SEROQUEL XR at the first sign of a decline in WBC in absence of other causative factors [see Warnings and Precautions (5.10)].
 
+Decreased Hemoglobin
+
+In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
+In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
+
 ECG Changes:
 
 2.5% of SEROQUEL XR patients, and 2.3% of placebo patients, had tachycardia (>120 bpm) at any time during the trials.
-SEROQUEL XR was associated with a mean increase in heart rate, assessed by ECG, of 6.3 beats per minute compared to a mean increase of 0.5 beats per minute for placebo.
+SEROQUEL XR was associated with a mean increase in heart rate, assessed by ECG, of 6.3 beats per minute compared to a mean increase of 0.4 beats per minute for placebo.
 This is consistent with the rates for SEROQUEL.
 The incidence of adverse reactions of tachycardia was 1.9% for SEROQUEL XR compared to 0.5% for placebo.
 SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
@@ -403,7 +405,7 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 
 The following adverse reactions were identified during post approval use of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to SEROQUEL therapy includes anaphylactic reaction and galactorrhea.
+Adverse reactions reported since market introduction which were temporally related to SEROQUEL therapy include anaphylactic reaction and galactorrhea.
 
 Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 

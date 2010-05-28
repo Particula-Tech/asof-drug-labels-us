@@ -55,7 +55,7 @@ What else do I need to know about antidepressant medicines?
 - Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
 - Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
+  Know all of the medicines that you or your family member take.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
@@ -123,6 +123,9 @@ Do not start or stop any medicines while taking SEROQUEL XR without talking to y
 Know the medicines you take.
 Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
 
+Tell your healthcare provider if you are having a urine drug screen because SEROQUEL XR may affect your test results.
+Tell those giving the test that you are taking SEROQUEL XR.
+
 How should I take SEROQUEL XR?
 
 - Take SEROQUEL XR exactly as your healthcare provider tells you to take it.
@@ -188,8 +191,8 @@ Also see “What is the most important information I should know about SEROQUEL 
 - Cataracts
 - Seizures
 - Abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
-- Increases in prolactin levels: Your healthcare provider may do blood test to check your prolactin levels.
-- Increases in liver enzymes: Your healthcare provider may do blood test to check your liver enzyme levels.
+- Increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
+- Increases in liver enzymes: Your healthcare provider may do blood tests to check your liver enzyme levels.
 - Long lasting and painful erection
 - Difficulty swallowing
 
@@ -204,7 +207,6 @@ Common possible side effects with SEROQUEL XR include:
 - weight gain
 - fatigue
 - disturbance in speech and language
-- abdominal pain
 - stuffy nose
 
 These are not all the possible side effects of SEROQUEL XR.
@@ -220,7 +222,7 @@ How should I store SEROQUEL XR?
 
 General information about SEROQUEL XR
 
-Do not take SEROQUEL unless your healthcare provider has prescribed it for you for your condition.
+Do not take SEROQUEL XR unless your healthcare provider has prescribed it for you for your condition.
 Do not share SEROQUEL XR with other people, even if they have the same condition.
 It may harm them.
 
@@ -234,7 +236,7 @@ Active ingredient: quetiapine fumarate
 
 Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium citrate, hypromellose, and magnesium stearate.
 The film coating for all SEROQUEL XR tablets contain hypromellose, polyethylene glycol 400 and titanium dioxide.
-In addition yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (50 tablets) are included in the film coating of specific strengths.
+In addition, yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (50 mg tablets) are included in the film coating of specific strengths.
 
 The symptoms of Schizophrenia include:
 
@@ -246,26 +248,26 @@ The symptoms of Schizophrenia include:
 The symptoms of Bipolar Disorder include:
 
 - General symptoms of bipolar disorder include: extreme mood swings, along with other specific symptoms and behaviors.
-  These mood swings, or "episodes," include manic (highs) and depressive (lows).
-- Common symptoms of a manic episode include: feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual.
-- Common symptoms of a depressive episode include: feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite and
+  These mood swings, or "episodes," include manic (highs) and depressive (lows)
+- Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual
+- Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite and
 - Thoughts of death or suicide.
 
 The symptoms of Major Depressive Disorder (MDD) include:
 
-- Feeling of sadness, emptiness and increase tearfulness,
-- Loss of interest in activities that you once enjoyed and loss of energy
-- Problems focusing and making decisions,
+- Feeling of sadness, emptiness and increased tearfulness,
+- Loss of interest in activities that you once enjoyed and loss of energy,
+- Problems focusing and making decisions
 - Feeling of worthlessness or guilt
 - Changes in sleep or eating patterns
-- Thoughts of death or suicide.
-- MDD symptoms last most of the day, nearly every day for at least two weeks, and interfere with daily life at home and at work
+- Thoughts of death or suicide
+- MDD symptoms last most of the day, nearly every day for at least two weeks, and interfere with daily life at home and at work.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-SEROQUEL XR is a registered trademark of the AstraZeneca group of companies
+SEROQUEL XR is a trademark of the AstraZeneca group of companies
 
-©AstraZeneca 2009
+©AstraZeneca 2010
 
 Distributed by:
 
@@ -273,5 +275,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
+SIC 35537–03
+
 Rev.
-12/09
+05/2010

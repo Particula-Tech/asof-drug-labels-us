@@ -86,11 +86,11 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo Controlled Studies
 
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n(%) |
+| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
-| Borderline to High (≥ 100 mg/dL and <126 mg/dL) to ≥ 126 mg/dL | Quetiapine | 572 | 67 (11.7%) |  |
+| Borderline to High (≥ 100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
 
 Adults:
@@ -104,8 +104,6 @@ The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) 
 Table 3 shows the percentage of patients with shifts in blood glucose to ≥ 126 mg/dL from normal baseline in MDD adjunct therapy trials by dose.
 
 Table 3: Percentage of Patients with Shifts from Normal Baseline in Blood Glucose to ≥ 126 mg/dL (assumed fasting) in MDD Adjunct Therapy Trials by Dose
-
-Table 3
 
 | Laboratory Analyte | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- |
@@ -127,19 +125,17 @@ Table 4 shows the percentage of patients with changes in cholesterol and triglyc
 
 Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
-Table 4
-
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥240 mg/dL | Schizophrenia: 6 weeks duration | SEROQUEL XR | 718 | 67 (9%) |
+| Total Cholesterol ≥240 mg/dL | Schizophrenia6 weeks duration | SEROQUEL XR | 718 | 67 (9%) |
 | Placebo | 232 | 21 (9%) |  |  |
-| Bipolar Depression: 8 weeks duration | SEROQUEL XR | 85 | 6 (7%) |  |
+| Bipolar Depression8 weeks duration | SEROQUEL XR | 85 | 6 (7%) |  |
 | Placebo | 106 | 3 (3%) |  |  |
-| Bipolar Mania: 3 weeks duration | SEROQUEL XR | 128 | 9 (7%) |  |
+| Bipolar Mania3 weeks duration | SEROQUEL XR | 128 | 9 (7%) |  |
 | Placebo | 134 | 5 (4%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy): 6 weeks duration | SEROQUEL XR | 420 | 67 (16%) |  |
+| Major Depressive Disorder (Adjunct Therapy)6 weeks duration | SEROQUEL XR | 420 | 67 (16%) |  |
 | Placebo | 213 | 15 (7%) |  |  |
-| Triglycerides ≥200 mg/dL | Schizophrenia | SEROQUEL XR | 658 | 118 (18%) |
+| Triglycerides ≥200 mg/dL | Schizophrenia | SEROQUEL XR | 659 | 118 (18%) |
 | Placebo | 214 | 11 (5%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 84 | 7 (8%) |  |
 | Placebo | 93 | 7 (8%) |  |  |
@@ -173,9 +169,7 @@ Table 5 shows the percentage of patients in MDD adjunctive therapy trials with c
 
 Table 5: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels in MDD Adjunctive Therapy Trials by Dose
 
-Table 5
-
-| Laboratory Analyte | Treatment Arm: 6 weeks duration | N | Patients n (%) |
+| Laboratory Analyte | Treatment Arm6 weeks duration | N | Patients n (%) |
 | --- | --- | --- | --- |
 | Cholesterol ≥ 240 mg/dL | Placebo | 213 | 15 (7%) |
 | SEROQUEL XR 150 mg | 223 | 41 (18%) |  |
@@ -183,9 +177,9 @@ Table 5
 | Triglycerides ≥ 200 mg/dL | Placebo | 223 | 18 (8%) |
 | SEROQUEL XR 150 mg | 232 | 36 (16%) |  |
 | SEROQUEL XR 300 mg | 226 | 39 (17%) |  |
-| LDLCholesterol ≥ 160 mg/dL | Placebo | 219 | 21 (8%) |
-| SEROQUEL XR 150 mg | 242 | 29 (16%) |  |
-| SEROQUEL XR 300 mg | 215 | 22 (17%) |  |
+| LDL-Cholesterol ≥ 160 mg/dL | Placebo | 219 | 21 (10%) |
+| SEROQUEL XR 150 mg | 242 | 29 (12%) |  |
+| SEROQUEL XR 300 mg | 215 | 22 (10%) |  |
 | HDL-Cholesterol ≤ 40 mg/dL | Placebo | 230 | 19 (8%) |
 | SEROQUEL XR 150 mg | 238 | 14 (6%) |  |
 | SEROQUEL XR 300 mg | 232 | 20 (9%) |  |
@@ -198,13 +192,11 @@ Table 6 shows the percentage of children and adolescents with shifts in total ch
 
 Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDLCholesterol from Baseline to Clinically Significant Levels by Indication
 
-Table 6
-
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 200 mg/dL | Schizophrenia: 13- 17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
+| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13- 17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
-| Bipolar Mania: 10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
+| Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
 | Triglycerides ≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
@@ -224,49 +216,45 @@ Table 6
 Increases in weight have been observed in clinical trials.
 Patients receiving quetiapine should receive regular monitoring of weight [see Patient Counseling Information (17)].
 
-Adults: Table 7 shows the percentage of adult patients with weight gain of ≥7% of body weight by indication.
+Adults: Table 7 shows the percentage of adult patients with weight gain of ≥ 7% of body weight by indication.
 
-Table 7: Percentage of Patients with Weight Gain ≥7% of Body Weight (Adults) by Indication
+Table 7: Percentage of Patients with Weight Gain ≥ 7% of Body Weight (Adults) by Indication
 
 | Vital sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophrenia: 6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
+| Weight Gain ≥ 7% of Body Weight | Schizophrenia: 6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
 | Placebo | 299 | 16 (5%) |  |  |
-| Bipolar Mania: 3 weeks duration | SEROQUEL XR | 138 | 7 (5%) |  |
+| Bipolar Mania 3 weeks duration | SEROQUEL XR | 138 | 7 (5%) |  |
 | Placebo | 150 | 0 (0%) |  |  |
-| Bipolar Depression: 8 weeks duration | SEROQUEL XR | 110 | 9 (8%) |  |
+| Bipolar Depression8 weeks duration | SEROQUEL XR | 110 | 9 (8%) |  |
 | Placebo | 125 | 1 (1%) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy): 6 weeks duration | SEROQUEL XR | 616 | 32 (5%) |  |
+| Major Depressive Disorder (Adjunctive Therapy)6 weeks duration | SEROQUEL XR | 616 | 32 (5%) |  |
 | Placebo | 302 | 5 (2%) |  |  |
 
-In schizophrenia trials, the proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 3- to 6-week placebo-controlled clinical trials, revealing a statistically significant greater incidence of weight gain for SEROQUEL (23%) compared to placebo (6%).
+In schizophrenia trials, the proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 3- to 6-week placebo-controlled clinical trials, revealing a statistically significant greater incidence of weight gain for SEROQUEL (23%) compared to placebo (6%).
 
-Table 8 shows the percentage of adult patients with weight gain of ≥7% of body weight for MDD by dose.
+Table 8 shows the percentage of adult patients with weight gain of ≥ 7% of body weight for MDD by dose.
 
-Table 8: Percentage of Patients with Weight Gain ≥7% of Body Weight in MDD Adjunctive Therapy Trials by Dose (Adults)
-
-Table 8
+Table 8: Percentage of Patients with Weight Gain ≥ 7% of Body Weight in MDD Adjunctive Therapy Trials by Dose (Adults)
 
 | Vital sign | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body in MDD Adjunctive Therapy | Placebo | 302 | 5 (2%) |
+| Weight Gain ≥7% of Body weight in MDD Adjunctive Therapy | Placebo | 302 | 5 (2%) |
 | SEROQUEL XR 150 mg | 309 | 10 (3%) |  |
 | SEROQUEL XR 300 mg | 307 | 22 (7%) |  |
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
 In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophrenia, reported increases in weight are included in table 9 below.
 
-Table 9 shows the percentage of patients with weight gain ≥7% of body weight in clinical trials with SEROQUEL.
+Table 9 shows the percentage of patients with weight gain ≥ 7% of body weight in clinical trials with SEROQUEL.
 
-Table 9: Percentage of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
-
-Table 9
+Table 9: Percentage of Patients with Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain | Schizophrenia: 6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Weight gain ≥ 7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
-| Bipolar Mania: 3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
+| Bipolar Mania3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
 
 The mean change in body weight in the schizophrenia trial was 2.0 kg in the SEROQUEL group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the SEROQUEL group and 0.4 kg in the placebo group.
@@ -285,7 +273,7 @@ Although the prevalence of the syndrome appears to be highest among the elderly,
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
+However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
@@ -312,7 +300,7 @@ If hypotension occurs during titration to the target dose, a return to the previ
 ## 5.9 Increases in Blood Pressure (Children and Adolescents)
 
 Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
-In placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3- week duration), the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 15.2% (51/335) for SEROQUEL and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 40.6% (136/335) for SEROQUEL and 24.5% (40/163) for placebo.
+In placebo-controlled trials in children and adolescents with schizophrenia (6-week duration) or bipolar mania (3- week duration), the incidence of increases at any time in systolic blood pressure (≥ 20 mmHg) was 15.2% (51/335) for SEROQUEL and 5.5% (9/163) for placebo; the incidence of increases at any time in diastolic blood pressure (≥ 10 mmHg) was 40.6% (136/335) for SEROQUEL and 24.5% (40/163) for placebo.
 In the 26-week open-label clinical trial, one child with a reported history of hypertension experienced a hypertensive crisis.
 Blood pressure in children and adolescents should be measured at the beginning of, and periodically during treatment.
 
@@ -428,10 +416,14 @@ SEROQUEL XR has not been evaluated or used to any appreciable extent in patients
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of orthostatic hypotension with SEROQUEL XR, caution should be observed in cardiac patients [see Warnings and Precautions (5.8)].
 
+In clinical trials quetiapine was not associated with a persistent increase in absolute QT intervals.
+However, in post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7)].
+Caution should be exercised when quetiapine is prescribed in patients with cardiovascular disease or family history of QT prolongation.
+Also, caution should be exercised when quetiapine is prescribed with medicines known to cause electrolyte imbalance or increase QT interval or with concomitant neuroleptics, especially for patients with increased risk of QT prolongation, i.e., the elderly, patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalemia, or hypomagnesemia.
+
 ## 5.22 Withdrawal
 
-Acute withdrawal symptoms, such as nausea, vomiting, and insomnia have very rarely been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
+Acute withdrawal symptoms, such as insomnia, nausea and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
+In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.
+The incidence of the individual adverse events (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.
-
-In short-term placebo-controlled, monotherapy clinical trials, in patients with MDD, which evaluated discontinuation symptoms, the aggregated incidence of discontinuation symptoms after abrupt cessation was 16.0% (89/556) for quetiapine and 7.3% (29/400) for placebo.
-The incidence of the individual adverse events (ie, insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 6.7% in any treatment group and usually resolved after 1 week post-discontinuation.

@@ -14,7 +14,7 @@ All tablets are capsule shaped and film coated.
 
 Inactive ingredients for SEROQUEL XR are lactose monohydrate, microcrystalline cellulose, sodium citrate, hypromellose, and magnesium stearate.
 The film coating for all SEROQUEL XR tablets contain hypromellose, polyethylene glycol 400 and titanium dioxide.
-In addition yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (50 mg tablets) are included in the film coating of specific strengths.
+In addition, yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (50 mg tablets) are included in the film coating of specific strengths.
 
 Each 50 mg tablet contains 58 mg of quetiapine fumarate equivalent to 50 mg quetiapine.
 Each 150 mg tablet contains 173 mg of quetiapine fumarate equivalent to 150 mg quetiapine.

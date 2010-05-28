@@ -8,6 +8,11 @@ Because of its potential for inducing hypotension, SEROQUEL XR may enhance the e
 
 SEROQUEL XR may antagonize the effects of levodopa and dopamine agonists.
 
+Caution should be exercised when quetiapine is used concomitantly with drugs known to cause electrolyte imbalance or to increase QT interval [see Warnings and Precautions (5.21)].
+
+There have been reports of false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
+If false positive results are suspected, confirmation by an appropriate chromatographic technique is recommended.
+
 ## 7.1 The Effect of Other Drugs on Quetiapine
 
 Phenytoin

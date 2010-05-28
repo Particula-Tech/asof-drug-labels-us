@@ -3,7 +3,7 @@
 ## 1.1 Schizophrenia
 
 SEROQUEL XR is indicated for the treatment of schizophrenia.
-The efficacy of SEROQUEL XR in schizophrenia was established in one 6- week and one maintenance trial in adults with schizophrenia as well by extrapolation from three 6-week trials in adults with schizophrenia treated with SEROQUEL[see Clinical Studies (14.1)].
+The efficacy of SEROQUEL XR in schizophrenia was established in one 6- week and one maintenance trial in adults with schizophrenia as well by extrapolation from three 6-week trials in adults with schizophrenia treated with SEROQUEL [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Disorder
 
