@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -29,7 +29,7 @@ Table 1
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -53,10 +53,10 @@ It should be noted that REMERON (mirtazapine) Tablets are not approved for use i
 
 ## Agranulocytosis
 
-In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, eg, fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
+In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after REMERON was stopped.
-These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, ie, 2.2 cases per 10,000 to 3.1 cases per 1000.
+These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with REMERON should be discontinued and the patient should be closely monitored.
 
 ## MAO Inhibitors
@@ -64,13 +64,39 @@ If a patient develops a sore throat, fever, stomatitis, or other signs of infect
 In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
 Although there are no human data pertinent to such an interaction with REMERON (mirtazapine) Tablets, it is recommended that REMERON not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
 
+## Serotonin Syndrome
+
+On rare occasions serotonin syndrome has occurred in association with treatment of REMERON Tablets, particularly when given in combination with other serotonergic drugs.
+As serotonin syndrome may result in potentially life-threatening conditions, treatment with REMERON should be discontinued if patients develop a combination of symptoms possibly including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes including confusion, irritability, extreme agitation progressing to delirium and coma, and supportive symptomatic treatment should be initiated.
+Due to the risk of serotonin syndrome, REMERON should not be used in combination with MAO inhibitors or serotonin-precursors (such as L-tryptophan and oxitriptan) and should be used with caution in patients receiving other serotonergic drugs (e.g., triptans, lithium, tramadol, St. John's wort, and most tricyclic antidepressants) (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
+
 # PRECAUTIONS
 
 ## General
 
+### Discontinuation Symptoms
+
+There have been reports of adverse reactions upon the discontinuation of REMERON® (mirtazapine) Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+The majority of the reported cases are mild and self-limiting.
+Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
+
+Patients currently taking REMERON should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
+At the time that a medical decision is made to discontinue treatment with REMERON, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
+
+### Akathisia/Psychomotor Restlessness
+
+The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move, often accompanied by an inability to sit or stand still.
+This is most likely to occur within the first few weeks of treatment.
+In patients who develop these symptoms, increasing the dose may be detrimental.
+
+### Hyponatremia
+
+Hyponatremia has been reported very rarely with the use of mirtazapine.
+Caution should be exercised in patients at risk, such as elderly patients or patients concomitantly treated with medications known to cause hyponatremia.
+
 ### Somnolence
 
-In US controlled studies, somnolence was reported in 54% of patients treated with REMERON® (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline.
+In US controlled studies, somnolence was reported in 54% of patients treated with REMERON (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline.
 In these studies, somnolence resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo.
 It is unclear whether or not tolerance develops to the somnolent effects of REMERON.
 Because of the potentially significant effects of REMERON on impairment of performance, patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see Information for Patients).
@@ -179,7 +205,15 @@ There are no routine laboratory tests recommended.
 
 ## Drug Interactions
 
-As with other drugs, the potential for interaction by a variety of mechanisms (eg, pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY).
+As with other drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY).
+
+### Monoamine Oxidase Inhibitors
+
+(See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+
+### Serotonergic drugs
+
+Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when REMERON Tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS).
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -187,9 +221,58 @@ The metabolism and pharmacokinetics of REMERON (mirtazapine) Tablets may be affe
 
 ### Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes
 
-Many drugs are metabolized by and/or inhibit various cytochrome P450 enzymes, eg, 2D6, 1A2, 3A4, etc. In vitro studies have shown that mirtazapine is a substrate for several of these enzymes, including 2D6, 1A2, and 3A4.
-While in vitro studies have shown that mirtazapine is not a potent inhibitor of any of these enzymes, an indication that mirtazapine is not likely to have a clinically significant inhibitory effect on the metabolism of other drugs that are substrates for these cytochrome P450 enzymes, the concomitant use of REMERON with most other drugs metabolized by these enzymes has not been formally studied.
-Consequently, it is not possible to make any definitive statements about the risks of coadministration of REMERON with such drugs.
+#### CYP Enzyme Inducers (these studies used both drugs at steady state)
+
+##### Phenytoin
+
+In healthy male patients (n=18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%.
+Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
+
+##### Carbamazepine
+
+In healthy male patients (n=24), carbamazepine (400 mg b.i.d.) increased mirtazapine (15 mg b.i.d.) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%.
+
+When phenytoin, carbamazepine, or another inducer of hepatic metabolism (such as rifampicin) is added to mirtazapine therapy, the mirtazapine dose may have to be increased.
+If treatment with such a medicinal product is discontinued, it may be necessary to reduce the mirtazapine dose.
+
+#### CYP Enzyme Inhibitors
+
+##### Cimetidine
+
+In healthy male patients (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%.
+Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
+The mirtazapine dose may have to be decreased when concomitant treatment with cimetidine is started, or increased when cimetidine treatment is discontinued.
+
+##### Ketoconazole
+
+In healthy, male, Caucasian patients (n=24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30-mg dose of mirtazapine by approximately 40% and 50%, respectively.
+
+Caution should be exercised when coadministering mirtazapine with potent CYP3A4 inhibitors, HIV protease inhibitors, azole antifungals, erythromycin, or nefazodone.
+
+##### Paroxetine
+
+In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+
+### Other Drug-Drug Interactions
+
+#### Amitriptyline
+
+Amitriptyline: In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+
+#### Warfarin
+
+In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
+It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+
+#### Lithium
+
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30 mg dose of mirtazapine.
+The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
+
+#### Risperidone
+
+In an in vivo, nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
 
 ### Alcohol
 

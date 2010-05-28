@@ -21,5 +21,13 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## Switching Patients To or From a Monoamine Oxidase Inhibitor
 
+Concomitant use of REMERON (mirtazapine) Tablets with MAOIs is contraindicated.
 At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with REMERON (mirtazapine) Tablets.
 In addition, at least 14 days should be allowed after stopping REMERON before starting an MAOI.
+
+## Discontinuation of Remeron Treatment
+
+Symptoms associated with the discontinuation or dose reduction of REMERON Tablets have been reported.
+Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
+A gradual reduction in the dose over several weeks, rather than abrupt cessation, is recommended whenever possible.
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, dose titration should be managed on the basis of the patient's clinical response (see PRECAUTIONS and ADVERSE REACTIONS).

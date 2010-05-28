@@ -3,7 +3,7 @@
 ## Associated with Discontinuation of Treatment
 
 Approximately 16% of the 453 patients who received REMERON® (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common events (≥1%) associated with discontinuation and considered to be drug related (ie, those events associated with dropout at a rate at least twice that of placebo) included:
+The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
 Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US REMERON Trials
 
@@ -102,11 +102,11 @@ Endocrine System: rare: goiter, hypothyroidism.
 
 Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia, thrombocytopenia, lymphocytosis, pancytopenia.
 
-Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus.
+Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia.
 
 Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 
-Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia, stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome.
+Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
 
 Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 
