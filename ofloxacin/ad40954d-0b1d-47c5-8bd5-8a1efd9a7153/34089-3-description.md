@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION:
 
 Ofloxacin Ophthalmic Solution 0.3% is a sterile ophthalmic solution.
 It is a fluorinated carboxyquinolone anti-infective for topical ophthalmic use.

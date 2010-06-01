@@ -1,7 +1,7 @@
-# STORAGE
-
 Storage: Store at 15º-25°C (59º-77°F)
 
 KEEP OUT OF REACH OF CHILDREN.
 
 FOR OPHTHALMIC USE ONLY.
+
+Revised August 2007

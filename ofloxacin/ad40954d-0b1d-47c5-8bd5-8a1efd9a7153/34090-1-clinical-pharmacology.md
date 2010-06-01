@@ -1,6 +1,6 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY:
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Serum, urine and tear concentrations of ofloxacin were measured in 30 healthy women at various time points during a ten-day course of treatment with ofloxacin ophthalmic solution.
 The mean serum ofloxacin concentration ranged from 0.4 ng/mL to 1.9 ng/mL.
@@ -13,7 +13,7 @@ Mean tear concentration measured four hours after topical ophthalmic dosing was 
 Corneal tissue concentrations of 4.4 μg/mL were observed four hours after beginning topical ocular application of two drops of ofloxacin ophthalmic solution every 30 minutes.
 Ofloxacin was excreted in the urine primarily unmodified.
 
-## Microbiology
+## Microbiology:
 
 Ofloxacin has in vitro activity against a broad range of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Ofloxacin is bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
@@ -21,27 +21,15 @@ Ofloxacin is thought to exert a bactericidal effect on susceptible bacterial cel
 
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
-Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections as described in the Indications and Usage section.
+Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections as described in the INDICATIONS AND USAGE section.
 
 AEROBES, GRAM-POSITIVE:
 
-Staphylococcus aureus
-
-Staphylococcus epidermidis
-
-Streptococcus pneumoniae
+Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae
 
 AEROBES, GRAM-NEGATIVE:
 
-Enterobacter cloacae
-
-Haemophilus influenzae
-
-Proteus mirablis
-
-Pseudomonas aeruginosa
-
-Serratia marcescens*
+Enterobacter cloacae Haemophilus influenzae Proteus mirablis Pseudomonas aeruginosa Serratia marcescens*
 
 ANAEROBIC SPECIES:
 
@@ -54,59 +42,17 @@ Ofloxacin ophthalmic solution has been shown to be active in vitro against most 
 
 AEROBES, GRAM-POSITIVE:
 
-Enterococcus faecalis
-
-Listeria monocytogenes
-
-Staphylococcus capitis
-
-Staphylococcus hominus
-
-Staphylococcus simulans
-
-Streptococcus pyogenes
+Enterococcus faecalis Listeria monocytogenes Staphylococcus capitis Staphylococcus hominus Staphylococcus simulans Streptococcus pyogenes
 
 AEROBES, GRAM-NEGATIVE:
 
-Acinetobacter calcoaceticus var. anitratus
-
-Acinetobacter calcoaceticus var. lwoffi
-
-Citrobacter diversus
-
-Citrobacter freundii
-
-Enterobacter aerogenes
-
-Enterobacter agglomerans
-
-Escherichia coli
-
-Haemophilus parainfluenzae
-
-Klebsiella oxytoca
-
-Klebsiella pneumoniae
-
-Moraxella (Branhamella) catarrhalis
-
-Moraxella lacunata
-
-Morganella morganii
-
-Neisseria gonorrhoeae
-
-Pseudomonas acidovorans
-
-Pseudomonas fluorescens
-
-Shigella sonnei
+Acinetobacter calcoaceticus var. anitratus Acinetobacter calcoaceticus var. lwoffi Citrobacter diversus Citrobacter freundii Enterobacter aerogenes Enterobacter agglomerans Escherichia coli Haemophilus parainfluenzae Klebsiella oxytoca Klebsiella pneumoniae Moraxella (Branhamella) catarrhalis Moraxella lacunata Morganella morganii Neisseria gonorrhoeae Pseudomonas acidovorans Pseudomonas fluorescens Shigella sonnei
 
 OTHER:
 
 Chlamydia trachomatis
 
-## Clinical Studies
+## Clinical Studies:
 
 Conjunctivitis: In a randomized, double-masked, multicenter clinical trial, ofloxacin ophthalmic solution was superior to its vehicle after 2 days of treatment in patients with conjunctivitis and positive conjunctival cultures.
 Clinical outcomes for the trial demonstrated a clinical improvement rate of 86% (54/63) for the ofloxacin treated group versus 72% (48/67) for the placebo treated group after 2 days of therapy.
