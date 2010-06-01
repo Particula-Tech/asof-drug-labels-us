@@ -51,7 +51,7 @@ Table 7: Effect of FOSAMAX on Fracture Incidence in OsteoporoticBaseline femoral
 | --- | --- | --- | --- | --- |
 |  | Percent of Patients |  |  |  |
 | Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X ray)Number evaluable for vertebral fractures: FOSAMAX, n=1426; placebo, n=1428 |  |  |  |  |
+| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: FOSAMAX, n=1426; placebo, n=1428 |  |  |  |  |
 | ≥1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48p<0.001 |
 | ≥2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78p=0.035 |
 | Clinical (symptomatic) fractures |  |  |  |  |

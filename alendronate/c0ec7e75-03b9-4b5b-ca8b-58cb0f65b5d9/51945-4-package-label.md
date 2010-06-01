@@ -15,7 +15,9 @@ USUAL ADULT DOSAGE: ONE 70 mg/2800 IU TABLET ONCE WEEKLY
 
 See accompanying circular for dosage information.
 
-Manuf. for: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA By: MSD FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+By: MSD FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
 
 Made in Spain
 
@@ -33,7 +35,9 @@ USUAL ADULT DOSAGE: ONE 70 mg/5600 IU TABLET ONCE WEEKLY
 
 See accompanying circular for dosage information.
 
-Manuf. for: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA By: MSD FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+By: MSD FROSST IBERICA, S. A. 28805 Alcalá de Henares Madrid, Spain
 
 Alendronate sodium (Active Ingred.)
 Made in Ireland Cholecalciferol (Active Ingred.)

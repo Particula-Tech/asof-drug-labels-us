@@ -82,9 +82,9 @@ Rarely, symptomatic hypocalcemia has occurred, generally in association with pre
 Rarely, peripheral edema.
 
 Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, rarely esophageal stricture or perforation, and oropharyngeal ulceration.
-Gastric or duodenal ulcers, some severe and with complications have also been reported [see Dosage and Administration (2.3); Warnings and Precautions (5.1); FDA-Approved Patient Labeling (17.3)].
+Gastric or duodenal ulcers, some severe and with complications have also been reported [see Dosage and Administration (2.3); Warnings and Precautions (5.1); Patient Counseling Information (17.3)].
 
-Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported rarely [see Warnings and Precautions (5.4)].
+Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported rarely [see Warnings and Precautions (5.4)].
 
 Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures.
 

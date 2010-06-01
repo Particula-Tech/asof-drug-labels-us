@@ -12,13 +12,13 @@ For most osteoporotic men, the appropriate dose is FOSAMAX PLUS D (70 mg alendro
 
 ## 2.3 Dosing Instructions
 
-FOSAMAX PLUS D must be taken at least one-half hour before the first food, beverage, or medication of the day with plain water only [see FDA-Approved Patient Labeling (17.3)].
+FOSAMAX PLUS D must be taken at least one-half hour before the first food, beverage, or medication of the day with plain water only [see Patient Counseling Information (17.3)].
 Other beverages (including mineral water), food, and some medications are likely to reduce the absorption of alendronate [see Drug Interactions (7.1)].
 Waiting less than 30 minutes, or taking FOSAMAX PLUS D with food, beverages (other than plain water) or other medications will lessen the effect of alendronate by decreasing its absorption into the body.
 
 To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, FOSAMAX PLUS D should only be swallowed upon arising for the day with a full glass of water (6-8 oz) and patients should not lie down for at least 30 minutes and until after their first food of the day.
 FOSAMAX PLUS D should not be taken at bedtime or before arising for the day.
-Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1); FDA-Approved Patient Labeling (17.3)].
+Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1); Patient Counseling Information (17.3)].
 
 ## 2.4 Recommendations for Calcium and Vitamin D Supplementation
 

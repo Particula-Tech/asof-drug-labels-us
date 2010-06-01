@@ -2,19 +2,17 @@
 
 ## 5.1 Upper Gastrointestinal Adverse Reactions
 
-FOSAMAX PLUS D, like other bisphosphonate-containing products, may cause local irritation of the upper gastrointestinal mucosa.
+FOSAMAX PLUS D, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when FOSAMAX PLUS D is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis, or ulcers).
 
-Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with alendronate.
-In some cases these have been severe and required hospitalization.
+Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral biphosphonates including FOSAMAX PLUS D. In some cases these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue FOSAMAX PLUS D and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking FOSAMAX PLUS D and/or who fail to swallow it with a full glass (6-8 oz) of water, and/or who continue to take FOSAMAX PLUS D after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral biphosphonates including FOSAMAX PLUS D and/or who fail to swallow oral biphosphonates including FOSAMAX PLUS D with the recommended full glass (6-8 oz) of water, and/or who continue to take oral biphosphonates including FOSAMAX PLUS D after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.3)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with FOSAMAX PLUS D should be used under appropriate supervision.
 
-Because of possible irritant effects of alendronate on the upper gastrointestinal mucosa and a potential for worsening of the underlying disease, caution should be used when FOSAMAX PLUS D is given to patients with active upper gastrointestinal problems (such as dysphagia, esophageal diseases, gastritis, duodenitis, or ulcers).
-
-There have been post-marketing reports of gastric and duodenal ulcers with alendronate, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
+There have been post-marketing reports of gastric and duodenal ulcers with oral biphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
 
 ## 5.2 Mineral Metabolism
 
@@ -49,14 +47,14 @@ In placebo-controlled clinical studies of FOSAMAX, the percentages of patients w
 
 ## 5.4 Osteonecrosis of the Jaw
 
-Osteonecrosis of the jaw (ONJ), generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported in patients taking bisphosphonates.
-Most reported cases of bisphosphonate-associated osteonecrosis of the jaw have been in cancer patients treated with intravenous bisphosphonates, but some have occurred in patients with postmenopausal osteoporosis taking oral bisphosphonates.
-Known risk factors for osteonecrosis of the jaw include a diagnosis of cancer, concomitant therapies (e.g., chemotherapy, radiotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., pre-existing dental disease, anemia, coagulopathy, infection).
+Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including FOSAMAX PLUS D. Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+
+For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
+Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
 
 Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
-Dental surgery may exacerbate the condition.
-For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk for ONJ.
-Clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment.
+In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
 
 ## 5.5 Renal Insufficiency
 

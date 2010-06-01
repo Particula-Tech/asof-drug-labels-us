@@ -47,7 +47,7 @@ Do not take FOSAMAX PLUS D if you:
 
 What should I tell my doctor before using FOSAMAX PLUS D?
 
-Tell your doctor about all of your medical conditions, including if you:
+Tell your doctor about all of your medical or dental conditions, including if you:
 
 - have problems with swallowing
 - have stomach or digestive problems
@@ -235,15 +235,11 @@ In addition to FOSAMAX PLUS D, your doctor may suggest one or more of the follow
 
 Rx only
 
-Manufactured for:
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By:
-
-MSD FROSST IBERICA, S.A.
+By: MSD FROSST IBERICA, S.A.
 28805 Alcalá de Henares Madrid, Spain
 
-Issued June 2009
+Issued March 2010
 
-9664507
+9664508

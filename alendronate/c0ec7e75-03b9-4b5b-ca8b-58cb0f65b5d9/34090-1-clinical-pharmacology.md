@@ -90,7 +90,7 @@ Table 5: 25-hydroxyvitamin D Levels after Treatment with FOSAMAX PLUS D at Week 
 |  | Number (%) of Patients |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 25-hydroxyvitamin D Ranges (ng/mL) | <9 | 9-14 | 15-19 | 20-24 | 25-29 | 30-59 |
-| FOSAMAX PLUS D (Vitamin D3 5600 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for the 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and 2800 IU additional vitamin D3 for the 24-week extension study.(N=321) | 0 | 10 (3.1) | 29 (9.0) | 79 (24.6) | 87 (27.1) | 116 (36.1) |
+| FOSAMAX PLUS D (Vitamin D3 5600 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for the 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and 2800 IU additional vitamin D3 for the 24-week extension study. (-N=321) | 0 | 10 (3.1) | 29 (9.0) | 79 (24.6) | 87 (27.1) | 116 (36.1) |
 | FOSAMAX PLUS D (Vitamin D3 2800 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and placebo for the additional vitamin D3 for 24-week extension study. (N=320) | 1 (0.3) | 17 (5.3) | 56 (17.5) | 80 (25.0) | 74 (23.1) | 92 (28.8) |
 
 ## 12.3 Pharmacokinetics
@@ -152,7 +152,7 @@ Excretion
 
 Alendronate Sodium
 
-Following a single IV dose of [14C] alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
+Following a single IV dose of [14C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
 Following a single 10-mg IV dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min.
 Plasma concentrations fell by more than 95% within 6 hours following IV administration.
 The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton.
