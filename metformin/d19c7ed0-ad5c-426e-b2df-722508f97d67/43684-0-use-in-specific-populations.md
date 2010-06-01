@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -9,7 +9,7 @@ JANUMET
 There are no adequate and well-controlled studies in pregnant women with JANUMET or its individual components; therefore, the safety of JANUMET in pregnant women is not known.
 JANUMET should be used during pregnancy only if clearly needed.
 
-Merck & Co., Inc. maintains a registry to monitor the pregnancy outcomes of women exposed to JANUMET while pregnant.
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to JANUMET while pregnant.
 Health care providers are encouraged to report any prenatal exposure to JANUMET by calling the Pregnancy Registry at (800) 986-8999.
 
 No animal studies have been conducted with the combined products in JANUMET to evaluate effects on reproduction.
@@ -53,7 +53,7 @@ JANUMET
 
 Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, JANUMET should be used with caution as age increases.
 Care should be taken in dose selection and should be based on careful and regular monitoring of renal function.
-[See Warnings and Precautions (5.1, 5.3); Clinical Pharmacology (12.3).]
+[See Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
 
 Sitagliptin
 
@@ -67,4 +67,4 @@ Controlled clinical studies of metformin did not include sufficient numbers of e
 Metformin should only be used in patients with normal renal function.
 The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
 Any dose adjustment should be based on a careful assessment of renal function.
-[See Contraindications (4); Warnings and Precautions (5.3); and Clinical Pharmacology (12.3).]
+[See Contraindications (4); Warnings and Precautions (5.4); and Clinical Pharmacology (12.3).]

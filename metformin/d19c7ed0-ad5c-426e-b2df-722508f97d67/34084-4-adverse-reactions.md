@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,12 +23,6 @@ Sitagliptin Add-on Therapy in Patients with Type 2 Diabetes Inadequately Control
 In a 24-week placebo-controlled trial of sitagliptin 100 mg administered once daily added to a twice daily metformin regimen, there were no adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo.
 Discontinuation of therapy due to clinical adverse reactions was similar to the placebo treatment group (sitagliptin and metformin, 1.9%; placebo and metformin, 2.5%).
 
-Hypoglycemia
-
-Adverse reactions of hypoglycemia were based on all reports of hypoglycemia; a concurrent glucose measurement was not required.
-The overall incidence of pre-specified adverse reactions of hypoglycemia in patients with type 2 diabetes inadequately controlled on diet and exercise was 0.6% in patients given placebo, 0.6% in patients given sitagliptin alone, 0.8% in patients given metformin alone, and 1.6% in patients given sitagliptin in combination with metformin.
-In patients with type 2 diabetes inadequately controlled on metformin alone, the overall incidence of adverse reactions of hypoglycemia was 1.3% in patients given add-on sitagliptin and 2.1% in patients given add-on placebo.
-
 Gastrointestinal Adverse Reactions
 
 The incidences of pre-selected gastrointestinal adverse experiences in patients treated with sitagliptin and metformin were similar to those reported for patients treated with metformin alone.
@@ -48,9 +42,44 @@ Table 2: Pre-selected Gastrointestinal Adverse Reactions (Regardless of Investig
 
 Sitagliptin in Combination with Metformin and Glimepiride
 
-In a 24-week placebo-controlled study of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes inadequately controlled on metformin and glimepiride (sitagliptin, N=116; placebo, N=113), the adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients treated with sitagliptin and more commonly than in patients treated with placebo were: hypoglycemia (sitagliptin, 16.4%; placebo, 0.9%) and headache (6.9%, 2.7%).
+In a 24-week placebo-controlled study of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes inadequately controlled on metformin and glimepiride (sitagliptin, N=116; placebo, N=113), the adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients treated with sitagliptin and more commonly than in patients treated with placebo were: hypoglycemia (Table 3) and headache (6.9%, 2.7%).
 
-No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with the combination of sitagliptin and metformin.
+Sitagliptin in Combination with Metformin and Rosiglitazone
+
+In a placebo-controlled study of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes inadequately controlled on metformin and rosiglitazone (sitagliptin, N=181; placebo, N=97), the adverse reactions reported regardless of investigator assessment of causality through Week 18 in ≥5% of patients treated with sitagliptin and more commonly than in patients treated with placebo were: upper respiratory tract infection (sitagliptin, 5.5%; placebo, 5.2%) and nasopharyngitis (6.1%, 4.1%).
+Through Week 54, the adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients treated with sitagliptin and more commonly than in patients treated with placebo were: upper respiratory tract infection (sitagliptin, 15.5%; placebo, 6.2%), nasopharyngitis (11.0%, 9.3%), peripheral edema (8.3%, 5.2%), and headache (5.5%, 4.1%).
+
+Sitagliptin in Combination with Metformin and Insulin
+
+In a 24-week placebo-controlled study of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes inadequately controlled on metformin and insulin (sitagliptin, N=229; placebo, N=233), the only adverse reaction reported regardless of investigator assessment of causality in ≥5% of patients treated with sitagliptin and more commonly than in patients treated with placebo was hypoglycemia (Table 3).
+
+Hypoglycemia
+
+In all (N=5) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
+When the combination of sitagliptin and metformin was co-administered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin co-administered with a sulfonylurea or with insulin (Table 3).
+
+Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent to Treat Population.
+(Regardless of Investigator Assessment of Causality) in Placebo-Controlled Clinical Studies of Sitagliptin in Combination with Metformin Co-administered with Glimepiride or Insulin
+
+| Add-On to Glimepiride + Metformin (24 weeks) | Sitagliptin 100 mg+ Metformin+ Glimepiride | Placebo+ Metformin+ Glimepiride |
+| --- | --- | --- |
+|  | N = 116 | N = 113 |
+| Overall (%) | 19 (16.4) | 1 (0.9) |
+| Rate (episodes/patient-year)Based on total number of events (i.e., a single patient may have had multiple events). | 0.82 | 0.02 |
+| Severe (%)Severe events of hypoglycemia were defined as those events requiring medical assistance or exhibiting depressed level/loss of consciousness or seizure. | 0 (0.0) | 0 (0.0) |
+| Add-On to Insulin + Metformin (24 weeks) | Sitagliptin 100 mg+ Metformin+ Insulin | Placebo+ Metformin+ Insulin |
+|  | N = 229 | N = 233 |
+| Overall (%) | 35 (15.3) | 19 (8.2) |
+| Rate (episodes/patient-year) | 0.98 | 0.61 |
+| Severe (%) | 1 (0.4) | 1 (0.4) |
+
+The overall incidence of reported adverse reactions of hypoglycemia in patients with type 2 diabetes inadequately controlled on diet and exercise was 0.6% in patients given placebo, 0.6% in patients given sitagliptin alone, 0.8% in patients given metformin alone, and 1.6% in patients given sitagliptin in combination with metformin.
+In patients with type 2 diabetes inadequately controlled on metformin alone, the overall incidence of adverse reactions of hypoglycemia was 1.3% in patients given add-on sitagliptin and 2.1% in patients given add-on placebo.
+
+In the study of sitagliptin and add-on combination therapy with metformin and rosiglitazone, the overall incidence of hypoglycemia was 2.2% in patients given add-on sitagliptin and 0.0% in patients given add-on placebo through Week 18.
+Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients given add-on sitagliptin and 1.0% in patients given add-on placebo.
+
+With the combination of sitagliptin and metformin, no clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed.
 
 The most common adverse experience in sitagliptin monotherapy reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo was nasopharyngitis.
 
@@ -68,11 +97,11 @@ Metformin hydrochloride
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
-[See Warnings and Precautions (5.4).]
+[See Warnings and Precautions (5.5).]
 
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.13)]; upper respiratory tract infection; hepatic enzyme elevations; pancreatitis.
+Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Limitations of Use (1); Warnings and Precautions (5.2)].

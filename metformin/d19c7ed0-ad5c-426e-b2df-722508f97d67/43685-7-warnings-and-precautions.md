@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Lactic Acidosis
 
@@ -20,30 +20,37 @@ Metformin treatment should not be initiated in patients ≥80 years of age unles
 In addition, metformin should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
 Because impaired hepatic function may significantly limit the ability to clear lactate, metformin should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 Patients should be cautioned against excessive alcohol intake, either acute or chronic, when taking metformin, since alcohol potentiates the effects of metformin hydrochloride on lactate metabolism.
-In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure [see Warnings and Precautions (5.3, 5.5, 5.6, 5.10)].
+In addition, metformin should be temporarily discontinued prior to any intravascular radiocontrast study and for any surgical procedure [see Warnings and Precautions (5.4, 5.6, 5.7, 5.11)].
 
 The onset of lactic acidosis often is subtle, and accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, increasing somnolence, and nonspecific abdominal distress.
 There may be associated hypothermia, hypotension, and resistant bradyarrhythmias with more marked acidosis.
-The patient and the patient's physician must be aware of the possible importance of such symptoms and the patient should be instructed to notify the physician immediately if they occur [see Warnings and Precautions (5.11)].
+The patient and the patient's physician must be aware of the possible importance of such symptoms and the patient should be instructed to notify the physician immediately if they occur [see Warnings and Precautions (5.12)].
 Metformin should be withdrawn until the situation is clarified.
 Serum electrolytes, ketones, blood glucose, and if indicated, blood pH, lactate levels, and even blood metformin levels may be useful.
 Once a patient is stabilized on any dose level of metformin, gastrointestinal symptoms, which are common during initiation of therapy, are unlikely to be drug related.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
-Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling [see Warnings and Precautions (5.7, 5.12)].
+Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking metformin do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling [see Warnings and Precautions (5.8, 5.13)].
 
 Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
 
 Lactic acidosis is a medical emergency that must be treated in a hospital setting.
 In a patient with lactic acidosis who is taking metformin, the drug should be discontinued immediately and general supportive measures promptly instituted.
 Because metformin hydrochloride is dialyzable (with a clearance of up to 170 mL/min under good hemodynamic conditions), prompt hemodialysis is recommended to correct the acidosis and remove the accumulated metformin.
-Such management often results in prompt reversal of symptoms and recovery [see Contraindications (4); Warnings and Precautions (5.5, 5.6, 5.9, 5.10, 5.11)].
+Such management often results in prompt reversal of symptoms and recovery [see Contraindications (4); Warnings and Precautions (5.6, 5.7, 5.10, 5.11, 5.12)].
 
-## 5.2 Impaired Hepatic Function
+## 5.2 Pancreatitis
+
+There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, in patients taking JANUMET.
+After initiation of JANUMET, patients should be observed carefully for signs and symptoms of pancreatitis.
+If pancreatitis is suspected, JANUMET should promptly be discontinued and appropriate management should be initiated.
+It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JANUMET.
+
+## 5.3 Impaired Hepatic Function
 
 Since impaired hepatic function has been associated with some cases of lactic acidosis, JANUMET should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 
-## 5.3 Assessment of Renal Function
+## 5.4 Assessment of Renal Function
 
 Metformin and sitagliptin are known to be substantially excreted by the kidney.
 The risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
@@ -54,7 +61,7 @@ In the elderly, JANUMET should be carefully titrated to establish the minimum do
 Before initiation of therapy with JANUMET and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET discontinued if evidence of renal impairment is present.
 
-## 5.4 Vitamin B12 Levels
+## 5.5 Vitamin B12 Levels
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
@@ -64,27 +71,27 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
 In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
 
-## 5.5 Alcohol Intake
+## 5.6 Alcohol Intake
 
 Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake, acute or chronic, while receiving JANUMET.
 
-## 5.6 Surgical Procedures
+## 5.7 Surgical Procedures
 
 Use of JANUMET should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
 
-## 5.7 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
+## 5.8 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
 
 A patient with type 2 diabetes previously well controlled on JANUMET who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
 Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
 If acidosis of either form occurs, JANUMET must be stopped immediately and other appropriate corrective measures initiated.
 
-## 5.8 Use with Medications Known to Cause Hypoglycemia
+## 5.9 Use with Medications Known to Cause Hypoglycemia
 
 Sitagliptin
 
-As is typical with other antihyperglycemic agents used in combination with a sulfonylurea, when sitagliptin was used in combination with metformin and a sulfonylurea, a medication known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo in combination with metformin and a sulfonylurea [see Adverse Reactions (6)].
-Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea, meglitinide) may require a lower dose of the insulin secretagogue to reduce the risk of hypoglycemia [see Dosage and Administration (2.1)].
+When sitagliptin was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6)].
+Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Dosage and Administration (2.1)].
 
 Metformin hydrochloride
 
@@ -92,27 +99,27 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.9 Concomitant Medications Affecting Renal Function or Metformin Disposition
+## 5.10 Concomitant Medications Affecting Renal Function or Metformin Disposition
 
 Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion [see Drug Interactions (7.1)], should be used with caution.
 
-## 5.10 Radiologic Studies with Intravascular Iodinated Contrast Materials
+## 5.11 Radiologic Studies with Intravascular Iodinated Contrast Materials
 
 Intravascular contrast studies with iodinated materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials) can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin [see Contraindications (4)].
 Therefore, in patients in whom any such study is planned, JANUMET should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
 
-## 5.11 Hypoxic States
+## 5.12 Hypoxic States
 
 Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on JANUMET therapy, the drug should be promptly discontinued.
 
-## 5.12 Loss of Control of Blood Glucose
+## 5.13 Loss of Control of Blood Glucose
 
 When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
 At such times, it may be necessary to withhold JANUMET and temporarily administer insulin.
 JANUMET may be reinstituted after the acute episode is resolved.
 
-## 5.13 Hypersensitivity Reactions
+## 5.14 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -121,6 +128,6 @@ Onset of these reactions occurred within the first 3 months after initiation of 
 If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
 
-## 5.14 Macrovascular Outcomes
+## 5.15 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other anti-diabetic drug.

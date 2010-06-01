@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 JANUMET
 
@@ -23,7 +23,7 @@ Metformin hydrochloride
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike sulfonylureas, metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects (except in special circumstances [see Warnings and Precautions (5.8)]) and does not cause hyperinsulinemia.
+Unlike sulfonylureas, metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects (except in special circumstances [see Warnings and Precautions (5.9)]) and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
@@ -59,7 +59,7 @@ In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitag
 
 JANUMET
 
-The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA™2) and metformin hydrochloride as individual tablets.
+The results of a bioequivalence study in healthy subjects demonstrated that the JANUMET (sitagliptin/metformin HCl) 50 mg/500 mg and 50 mg/1000 mg combination tablets are bioequivalent to co-administration of corresponding doses of sitagliptin (JANUVIA®2) and metformin hydrochloride as individual tablets.
 
 Absorption
 
@@ -128,7 +128,7 @@ Renal Insufficiency
 
 JANUMET
 
-JANUMET should not be used in patients with renal insufficiency [see Contraindications (4); Warnings and Precautions (5.3)].
+JANUMET should not be used in patients with renal insufficiency [see Contraindications (4); Warnings and Precautions (5.4)].
 
 Sitagliptin
 
@@ -174,7 +174,7 @@ Metformin hydrochloride
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see GLUCOPHAGE3 prescribing information: CLINICAL PHARMACOLOGY, Special Populations, Geriatrics).
 
-JANUMET treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.3)].
+JANUMET treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced [see Warnings and Precautions (5.1, 5.4)].
 
 Pediatric
 
@@ -226,7 +226,7 @@ Digoxin: Sitagliptin had a minimal effect on the pharmacokinetics of digoxin.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of sitagliptin daily for 10 days, the plasma AUC of digoxin was increased by 11%, and the plasma Cmax by 18%.
 
 Sulfonylureas: Single-dose pharmacokinetics of glyburide, a CYP2C9 substrate, was not meaningfully altered in subjects receiving multiple doses of sitagliptin.
-Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glyburide, are primarily eliminated by CYP2C9 [see Warnings and Precautions (5.8)].
+Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glyburide, are primarily eliminated by CYP2C9 [see Warnings and Precautions (5.9)].
 
 Simvastatin: Single-dose pharmacokinetics of simvastatin, a CYP3A4 substrate, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin.
 Therefore, sitagliptin is not an inhibitor of CYP3A4-mediated metabolism.
@@ -250,4 +250,4 @@ Therefore, meaningful interactions would not be expected with other p-glycoprote
 
 Metformin hydrochloride
 
-[See Drug Interactions (7.1, 7.3, 7.4, 7.5, 7.6.]
+[See Drug Interactions (7.1, 7.3, 7.4, 7.5, 7.6).]
