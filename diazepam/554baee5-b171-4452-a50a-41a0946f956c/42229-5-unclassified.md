@@ -41,3 +41,5 @@ Revised: January 2008
 Printed in USA
 
 Copyright© 1987-2008 by Roche Products Inc. All rights reserved.
+
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):
