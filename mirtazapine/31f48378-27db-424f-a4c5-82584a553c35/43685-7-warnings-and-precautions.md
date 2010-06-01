@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -29,7 +29,7 @@ Table 1
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -53,10 +53,10 @@ It should be noted that REMERONSolTab (mirtazapine) Orally Disintegrating Tablet
 
 ## Agranulocytosis
 
-In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON® (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, eg, fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
+In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with REMERON® (mirtazapine) Tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after REMERON was stopped.
-These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, ie, 2.2 cases per 10,000 to 3.1 cases per 1000.
+These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low WBC count, treatment with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets should be discontinued and the patient should be closely monitored.
 
 ## MAO Inhibitors
@@ -64,9 +64,35 @@ If a patient develops a sore throat, fever, stomatitis, or other signs of infect
 In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
 Although there are no human data pertinent to such an interaction with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets, it is recommended that REMERONSolTab not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
 
+## Serotonin Syndrome
+
+On rare occasions, serotonin syndrome has occurred in association with treatment of REMERONSolTab Orally Disintegrating Tablets, particularly when given in combination with other serotonergic drugs.
+As serotonin syndrome may result in potentially life-threatening conditions, treatment with REMERON should be discontinued if patients develop a combination of symptoms possibly including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes including confusion, irritability, extreme agitation progressing to delirium and coma, and supportive symptomatic treatment should be initiated.
+Due to the risk of serotonin syndrome, REMERON should not be used in combination with MAO inhibitors or serotonin-precursors (such as L-tryptophan and oxitriptan) and should be used with caution in patients receiving other serotonergic drugs (e.g., triptans, lithium, tramadol, St. John's wort, and most tricyclic antidepressants) (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
+
 # PRECAUTIONS
 
 ## General
+
+### Discontinuation Symptoms
+
+There have been reports of adverse reactions upon the discontinuation of REMERON®/ REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets (particularly when abrupt), including but not limited to the following: dizziness, abnormal dreams, sensory disturbances (including paresthesia and electric shock sensations), agitation, anxiety, fatigue, confusion, headache, tremor, nausea, vomiting, and sweating, or other symptoms which may be of clinical significance.
+The majority of the reported cases are mild and self-limiting.
+Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
+
+Patients currently taking REMERON should NOT discontinue treatment abruptly, due to risk of discontinuation symptoms.
+At the time that a medical decision is made to discontinue treatment with REMERON, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
+
+### Akathisia/Psychomotor Restlessness
+
+The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move, often accompanied by an inability to sit or stand still.
+This is most likely to occur within the first few weeks of treatment.
+In patients who develop these symptoms, increasing the dose may be detrimental.
+
+### Hyponatremia
+
+Hyponatremia has been reported very rarely with the use of mirtazapine.
+Caution should be exercised in patients at risk, such as elderly patients or patients concomitantly treated with medications known to cause hyponatremia.
 
 ### Somnolence
 
@@ -83,7 +109,7 @@ It is unclear whether or not tolerance develops to the dizziness observed in ass
 ### Increased Appetite/Weight Gain
 
 In US controlled studies, appetite increase was reported in 17% of patients treated with REMERON, compared to 2% for placebo and 6% for amitriptyline.
-In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
+In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline.
 In a pool of premarketing US studies, including many patients for long-term, open-label treatment, 8% of patients receiving REMERON discontinued for weight gain.
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients (see PRECAUTIONS: Pediatric Use).
 
@@ -165,7 +191,7 @@ Patients should be advised to inform their physician if they are taking, or inte
 The impairment of cognitive and motor skills produced by REMERON has been shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking any dosage form of mirtazapine.
 
-### Phenylketonurics
+### Phenylalanine
 
 Phenylketonuric patients should be informed that REMERONSolTab contains phenylalanine 2.6 mg per 15-mg tablet, 5.2 mg per 30-mg tablet, and 7.8 mg per 45-mg tablet.
 
@@ -183,7 +209,15 @@ There are no routine laboratory tests recommended.
 
 ## Drug Interactions
 
-As with other drugs, the potential for interaction by a variety of mechanisms (eg, pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY).
+As with other drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see CLINICAL PHARMACOLOGY).
+
+### Monoamine Oxidase Inhibitors
+
+(See CONTRAINDICATIONS, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+
+### Serotonergic drugs
+
+Based on the mechanism of action of mirtazapine and the potential for serotonin syndrome, caution is advised when REMERONSolTab Orally Disintegrating Tablets are coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as tryptophan, triptans, linezolid, serotonin reuptake inhibitors, venlafaxine, lithium, tramadol, or St. John's wort (see CONTRAINDICATIONS and WARNINGS).
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -191,25 +225,74 @@ The metabolism and pharmacokinetics of REMERONSolTab (mirtazapine) Orally Disint
 
 ### Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes
 
-Many drugs are metabolized by and/or inhibit various cytochrome P450 enzymes, eg, 2D6, 1A2, 3A4, etc. In vitro studies have shown that mirtazapine is a substrate for several of these enzymes, including 2D6, 1A2, and 3A4.
-While in vitro studies have shown that mirtazapine is not a potent inhibitor of any of these enzymes, an indication that mirtazapine is not likely to have a clinically significant inhibitory effect on the metabolism of other drugs that are substrates for these cytochrome P450 enzymes, the concomitant use of REMERONSolTab with most other drugs metabolized by these enzymes has not been formally studied.
-Consequently, it is not possible to make any definitive statements about the risks of coadministration of REMERONSolTab with such drugs.
+#### CYP Enzyme Inducers (these studies used both drugs at steady state)
 
-#### Alcohol
+##### Phenytoin
+
+In healthy male patients (n=18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%.
+Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
+
+##### Carbamazepine
+
+In healthy male patients (n=24), carbamazepine (400 mg b.i.d.) increased mirtazapine (15 mg b.i.d.) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%.
+
+When phenytoin, carbamazepine, or another inducer of hepatic metabolism (such as rifampicin) is added to mirtazapine therapy, the mirtazapine dose may have to be increased.
+If treatment with such a medicinal product is discontinued, it may be necessary to reduce the mirtazapine dose.
+
+#### CYP Enzyme Inhibitors
+
+##### Cimetidine
+
+In healthy male patients (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%.
+Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
+The mirtazapine dose may have to be decreased when concomitant treatment with cimetidine is started, or increased when cimetidine treatment is discontinued.
+
+##### Ketoconazole
+
+In healthy, male, Caucasian patients (n=24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30-mg dose of mirtazapine by approximately 40% and 50%, respectively.
+
+Caution should be exercised when coadministering mirtazapine with potent CYP3A4 inhibitors, HIV protease inhibitors, azole antifungals, erythromycin, or nefazodone.
+
+##### Paroxetine
+
+In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+
+### Other Drug-Drug Interactions
+
+#### Amitriptyline
+
+In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+
+#### Warfarin
+
+In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant increase in the International Normalized Ratio (INR) in subjects treated with warfarin.
+As at a higher dose of mirtazapine, a more pronounced effect can not be excluded.
+It is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+
+#### Lithium
+
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30 mg dose of mirtazapine.
+The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
+
+#### Risperidone
+
+In an in vivo, nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychiatric and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
+
+### Alcohol
 
 Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects.
 However, the impairment of cognitive and motor skills produced by REMERON were shown to be additive with those produced by alcohol.
 Accordingly, patients should be advised to avoid alcohol while taking REMERONSolTab.
 
-#### Diazepam
+### Diazepam
 
 Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects.
 However, the impairment of motor skills produced by REMERON has been shown to be additive with those caused by diazepam.
 Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking REMERONSolTab.
 
-### Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-#### Carcinogenesis
+### Carcinogenesis
 
 Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats.
 The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on an mg/m2 basis in mice and rats, respectively.
@@ -219,20 +302,18 @@ The data suggest that the above effects could possibly be mediated by non-genoto
 
 The doses used in the mouse study may not have been high enough to fully characterize the carcinogenic potential of REMERON(mirtazapine) Tablets.
 
-#### Mutagenesis
+### Mutagenesis
 
 Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
 
-#### Impairment of Fertility
+### Impairment of Fertility
 
 In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m2 basis].
 Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and pre-implantation losses occurred at 20 times the MRHD.
 
-### Pregnancy
+## Pregnancy
 
-#### Teratogenic Effects
-
-##### Pregnancy Category C
+### Teratogenic Effects – Pregnancy Category C
 
 Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
@@ -242,12 +323,12 @@ The effects occurred at doses that were 20 times the MRHD, but not at 3 times th
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nursing Mothers
+## Nursing Mothers
 
 It is not known whether mirtazapine is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when REMERONSolTab (mirtazapine) Orally Disintegrating Tablets are administered to nursing women.
 
-### Pediatric Use
+## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with REMERON (mirtazapine) Tablets, and the data were not sufficient to support a claim for use in pediatric patients.
@@ -256,7 +337,7 @@ Anyone considering the use of REMERONSolTab (mirtazapine) Orally Disintegrating 
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
 The mean increase in weight was 4 kg (2 kg SD) for REMERON-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see PRECAUTIONS: Increased Appetite/Weight Gain).
 
-### Geriatric Use
+## Geriatric Use
 
 Approximately 190 elderly individuals (≥65 years of age) participated in clinical studies with REMERON (mirtazapine) Tablets.
 This drug is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
@@ -265,240 +346,3 @@ Sedating drugs may cause confusion and over-sedation in the elderly.
 No unusual adverse age-related phenomena were identified in this group.
 Pharmacokinetic studies revealed a decreased clearance in the elderly.
 Caution is indicated in administering REMERONSolTab (mirtazapine) Orally Disintegrating Tablets to elderly patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-## ADVERSE REACTIONS
-
-### Associated with Discontinuation of Treatment
-
-Approximately 16% of the 453 patients who received REMERON® (mirtazapine) Tablets in US 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common events (≥1%) associated with discontinuation and considered to be drug related (ie, those events associated with dropout at a rate at least twice that of placebo) included:
-
-Common Adverse Events Associated with Discontinuation of Treatment in 6-Week US REMERON Trials
-
-| REMERON (n=453) | Placebo (n=361) |  |
-| --- | --- | --- |
-| Adverse Event | Percentage of Patients Discontinuing with Adverse Event |  |
-| Somnolence | 10.4% | 2.2% |
-| Nausea | 1.5% | 0% |
-
-### Commonly Observed Adverse Events in US Controlled Clinical Trials
-
-The most commonly observed adverse events associated with the use of REMERON (mirtazapine) Tablets (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (REMERON incidence at least twice that for placebo) were:
-
-Common Treatment-Emergent Adverse Events Associated with the Use of REMERON in 6-Week US Trials
-
-| REMERON (n=453) | Placebo (n=361) |  |
-| --- | --- | --- |
-| Adverse Event | Percentage of Patients Reporting Adverse Event |  |
-| Somnolence | 54% | 18% |
-| Increased Appetite | 17% | 2% |
-| Weight Gain | 12% | 2% |
-| Dizziness | 7% | 3% |
-
-### Adverse Events Occurring at an Incidence of 1% or More Among REMERON-Treated Patients
-
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among REMERON (mirtazapine) Tablets-treated patients who participated in short-term US placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
-This table shows the percentage of patients in each group who had at least 1 episode of an event at some time during their treatment.
-Reported adverse events were classified using a standard COSTART-based dictionary terminology.
-
-The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
-
-INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with REMERON are included, except the following events which had an incidence on placebo greater than or equal to REMERON: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
-(≥1%) IN SHORT-TERM US CONTROLLED STUDIES
-
-| Body System Adverse Clinical Experience | REMERON (n=453) | Placebo (n=361) |
-| --- | --- | --- |
-| Body as a Whole |  |  |
-| Asthenia | 8% | 5% |
-| Flu Syndrome | 5% | 3% |
-| Back Pain | 2% | 1% |
-| Digestive System |  |  |
-| Dry Mouth | 25% | 15% |
-| Increased Appetite | 17% | 2% |
-| Constipation | 13% | 7% |
-| Metabolic and Nutritional Disorders |  |  |
-| Weight Gain | 12% | 2% |
-| Peripheral Edema | 2% | 1% |
-| Edema | 1% | 0% |
-| Musculoskeletal System |  |  |
-| Myalgia | 2% | 1% |
-| Nervous System |  |  |
-| Somnolence | 54% | 18% |
-| Dizziness | 7% | 3% |
-| Abnormal Dreams | 4% | 1% |
-| Thinking Abnormal | 3% | 1% |
-| Tremor | 2% | 1% |
-| Confusion | 2% | 0% |
-| Respiratory System |  |  |
-| Dyspnea | 1% | 0% |
-| Urogenital System |  |  |
-| Urinary Frequency | 2% | 1% |
-
-### ECG Changes
-
-The electrocardiograms for 338 patients who received REMERON (mirtazapine) Tablets and 261 patients who received placebo in 6-week, placebo-controlled trials were analyzed.
-Prolongation in QTc ≥500 msec was not observed among mirtazapine-treated patients; mean change in QTc was +1.6 msec for mirtazapine and –3.1 msec for placebo.
-Mirtazapine was associated with a mean increase in heart rate of 3.4 bpm, compared to 0.8 bpm for placebo.
-The clinical significance of these changes is unknown.
-
-### Other Adverse Events Observed During the Premarketing Evaluation of REMERON
-
-During its premarketing assessment, multiple doses of REMERON (mirtazapine) Tablets were administered to 2796 patients in clinical studies.
-The conditions and duration of exposure to mirtazapine varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies.
-Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
-
-In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
-The frequencies presented, therefore, represent the proportion of the 2796 patients exposed to multiple doses of REMERON who experienced an event of the type cited on at least 1 occasion while receiving REMERON.
-All reported events are included except those already listed in the previous table, those adverse experiences subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, and those events for which a drug cause was very remote.
-It is important to emphasize that, although the events reported occurred during treatment with REMERON, they were not necessarily caused by it.
-
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
-Only those events not already listed in the previous table appear in this listing.
-Events of major clinical importance are also described in the WARNINGS and PRECAUTIONS sections.
-
-Body as a Whole: frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
-
-Cardiovascular System: frequent: hypertension, vasodilatation; infrequent: angina pectoris, myocardial infarction, bradycardia, ventricular extrasystoles, syncope, migraine, hypotension; rare: atrial arrhythmia, bigeminy, vascular headache, pulmonary embolus, cerebral ischemia, cardiomegaly, phlebitis, left heart failure.
-
-Digestive System: frequent: vomiting, anorexia; infrequent: eructation, glossitis, cholecystitis, nausea and vomiting, gum hemorrhage, stomatitis, colitis, liver function tests abnormal; rare: tongue discoloration, ulcerative stomatitis, salivary gland enlargement, increased salivation, intestinal obstruction, pancreatitis, aphthous stomatitis, cirrhosis of liver, gastritis, gastroenteritis, oral moniliasis, tongue edema.
-
-Endocrine System: rare: goiter, hypothyroidism.
-
-Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia, thrombocytopenia, lymphocytosis, pancytopenia.
-
-Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus.
-
-Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
-
-Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia, stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome.
-
-Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
-
-Skin and Appendages: frequent: pruritus, rash; infrequent: acne, exfoliative dermatitis, dry skin, herpes simplex, alopecia; rare: urticaria, herpes zoster, skin hypertrophy, seborrhea, skin ulcer.
-
-Special Senses: infrequent: eye pain, abnormality of accommodation, conjunctivitis, deafness, keratoconjunctivitis, lacrimation disorder, glaucoma, hyperacusis, ear pain; rare: blepharitis, partial transitory deafness, otitis media, taste loss, parosmia.
-
-Urogenital System: frequent: urinary tract infection; infrequent: kidney calculus, cystitis, dysuria, urinary incontinence, urinary retention, vaginitis, hematuria, breast pain, amenorrhea, dysmenorrhea, leukorrhea, impotence; rare: polyuria, urethritis, metrorrhagia, menorrhagia, abnormal ejaculation, breast engorgement, breast enlargement, urinary urgency.
-
-### Other Adverse Events Observed During Postmarketing Evaluation of REMERON
-
-Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include 4 cases of the ventricular arrhythmia torsades de pointes.
-In 3 of the 4 cases, however, concomitant drugs were implicated.
-All patients recovered.
-
-Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.
-
-## DRUG ABUSE AND DEPENDENCE
-
-### Controlled Substance Class
-
-REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets are not a controlled substance.
-
-### Physical and Psychologic Dependence
-
-REMERONSolTab (mirtazapine) Orally Disintegrating Tablets have not been systematically studied in animals or humans for its potential for abuse, tolerance, or physical dependence.
-While the clinical trials did not reveal any tendency for any drug-seeking behavior, these observations were not systematic and it is not possible to predict on the basis of this limited experience the extent to which a CNS-active drug will be misused, diverted and/or abused once marketed.
-Consequently, patients should be evaluated carefully for history of drug abuse, and such patients should be observed closely for signs of REMERONSolTab misuse or abuse (eg, development of tolerance, incrementations of dose, drug-seeking behavior).
-
-## OVERDOSAGE
-
-### Human Experience
-
-There is very limited experience with REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets overdose.
-In premarketing clinical studies, there were 8 reports of REMERON® overdose alone or in combination with other pharmacological agents.
-The only drug overdose death reported while taking REMERON was in combination with amitriptyline and chlorprothixene in a non-US clinical study.
-Based on plasma levels, the REMERON dose taken was 30 to 45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.
-All other premarketing overdose cases resulted in full recovery.
-Signs and symptoms reported in association with overdose included disorientation, drowsiness, impaired memory, and tachycardia.
-There were no reports of ECG abnormalities, coma, or convulsions following overdose with REMERON alone.
-
-### Overdose Management
-
-Treatment should consist of those general measures employed in the management of overdose with any drug effective in the treatment of major depressive disorder.
-Ensure an adequate airway, oxygenation, and ventilation.
-Monitor cardiac rhythm and vital signs.
-General supportive and symptomatic measures are also recommended.
-Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
-Because of the rapid disintegration of REMERONSolTab (mirtazapine) Orally Disintegrating Tablets, pill fragments may not appear in gastric contents obtained with lavage.
-Activated charcoal should be administered.
-There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the treatment of mirtazapine overdosage.
-No specific antidotes for mirtazapine are known.
-
-In managing overdosage, consider the possibility of multiple-drug involvement.
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians' Desk Reference (PDR).
-
-## DOSAGE AND ADMINISTRATION
-
-### Initial Treatment
-
-The recommended starting dose for REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
-In the controlled clinical trials establishing the efficacy of REMERON® in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
-While the relationship between dose and satisfactory response in the treatment of major depressive disorder for REMERON has not been adequately explored, patients not responding to the initial 15-mg dose may benefit from dose increases up to a maximum of 45 mg/day.
-REMERON has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than 1 to 2 weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
-
-### Administration of REMERONSolTab (mirtazapine) Orally Disintegrating Tablets
-
-Patients should be instructed to open tablet blister pack with dry hands and place the tablet on the tongue.
-The tablet should be used immediately after removal from its blister; once removed, it cannot be stored.
-REMERONSolTab (mirtazapine) Orally Disintegrating Tablets will disintegrate rapidly on the tongue and can be swallowed with saliva.
-No water is needed for taking the tablet.
-Patients should not attempt to split the tablet.
-
-### Elderly and Patients with Renal or Hepatic Impairment
-
-The clearance of mirtazapine is reduced in elderly patients and in patients with moderate to severe renal or hepatic impairment.
-Consequently, the prescriber should be aware that plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in younger adults without renal or hepatic impairment (see PRECAUTIONS and CLINICAL PHARMACOLOGY).
-
-### Maintenance/Extended Treatment
-
-It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-Systematic evaluation of REMERON (mirtazapine) Tablets has demonstrated that its efficacy in major depressive disorder is maintained for periods of up to 40 weeks following 8 to 12 weeks of initial treatment at a dose of 15 to 45 mg/day (see CLINICAL PHARMACOLOGY).
-Based on these limited data, it is unknown whether or not the dose of REMERON needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
-
-### Switching Patients To or From a Monoamine Oxidase Inhibitor
-
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with REMERONSolTab (mirtazapine) Orally Disintegrating Tablets.
-In addition, at least 14 days should be allowed after stopping REMERONSolTab before starting an MAOI.
-
-## HOW SUPPLIED
-
-REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets are supplied as:
-
-15 mg Tablets — round, white, with "T1Z" debossed on 1 side.
-
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0106-30 |
-| --- | --- | --- |
-| Long Term Care Carton |  |  |
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0106-93 |
-
-30 mg Tablets — round, white, with "T2Z" debossed on 1 side.
-
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0108-30 |
-| --- | --- | --- |
-| Long Term Care Carton |  |  |
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0108-93 |
-
-45 mg Tablets — round, white, with "T4Z" debossed on 1 side.
-
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0110-30 |
-| --- | --- | --- |
-
-### Storage
-
-Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
-Protect from light and moisture.
-Use immediately upon opening individual tablet blister.
-
-Rx only
-
-Manufactured by CIMA Labs Inc., Eden Prairie, MN 55344 USA.
-Distributed by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA. © 2001, 2007, 2010, Schering Corporation.
-All rights reserved.
-Rev.
-X/XX

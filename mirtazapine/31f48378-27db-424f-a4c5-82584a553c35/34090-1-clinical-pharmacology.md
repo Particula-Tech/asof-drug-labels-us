@@ -51,7 +51,7 @@ Safety and effectiveness of mirtazapine in the pediatric population have not bee
 
 #### Gender
 
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males) (see Pharmacokinetics).
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics).
 
 #### Race
 
