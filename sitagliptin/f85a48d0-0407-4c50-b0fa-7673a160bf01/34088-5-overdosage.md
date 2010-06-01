@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 During controlled clinical trials in healthy subjects, single doses of up to 800 mg JANUVIA were administered.
 Maximal mean increases in QTc of 8.0 msec were observed in one study at a dose of 800 mg JANUVIA, a mean effect that is not considered clinically important [see Clinical Pharmacology (12.2)].

@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing
 
@@ -18,7 +18,7 @@ Because there is a need for dosage adjustment based upon renal function, assessm
 Creatinine clearance can be estimated from serum creatinine using the Cockcroft-Gault formula.
 [See Clinical Pharmacology (12.3).]
 
-## 2.3 Concomitant Use with a Sulfonylurea
+## 2.3 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 
-When JANUVIA is used in combination with a sulfonylurea, a lower dose of sulfonylurea may be required to reduce the risk of hypoglycemia.
-[See Warnings and Precautions (5.2).]
+When JANUVIA is used in combination with an insulin secretagogue (e.g., sulfonylurea) or with insulin, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia.
+[See Warnings and Precautions (5.3).]

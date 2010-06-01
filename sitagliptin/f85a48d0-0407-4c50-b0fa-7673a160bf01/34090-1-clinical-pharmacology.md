@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Sitagliptin is a DPP-4 inhibitor, which is believed to exert its actions in patients with type 2 diabetes by slowing the inactivation of incretin hormones.
 Concentrations of the active intact hormones are increased by JANUVIA, thereby increasing and prolonging the action of these hormones.
@@ -83,7 +83,7 @@ Renal Insufficiency
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of JANUVIA (50 mg dose) in patients with varying degrees of chronic renal insufficiency compared to normal healthy control subjects.
 The study included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to <80 mL/min), moderate (30 to <50 mL/min), and severe (<30 mL/min), as well as patients with ESRD on hemodialysis.
 In addition, the effects of renal insufficiency on sitagliptin pharmacokinetics in patients with type 2 diabetes and mild or moderate renal insufficiency were assessed using population pharmacokinetic analyses.
-Creatinine clearance was measured by 24‑hour urinary creatinine clearance measurements or estimated from serum creatinine based on the Cockcroft‑Gault formula:
+Creatinine clearance was measured by 24‑hour urinary creatinine clearance measurements or estimated from serum creatinine based on the Cockcroft-Gault formula:
 
 CrCl = [140 - age (years)] x weight (kg) {x 0.85 for female patients} [72 x serum creatinine (mg/dL)]
 
@@ -132,7 +132,7 @@ Drug Interactions
 In Vitro Assessment of Drug Interactions
 
 Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4.
-Sitagliptin is a p‑glycoprotein substrate, but does not inhibit p‑glycoprotein mediated transport of digoxin.
+Sitagliptin is a p-glycoprotein substrate, but does not inhibit p‑glycoprotein mediated transport of digoxin.
 Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
 
 Sitagliptin is not extensively bound to plasma proteins.

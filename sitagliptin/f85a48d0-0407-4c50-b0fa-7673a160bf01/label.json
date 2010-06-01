@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021995"
+  ],
   "inn": "sitagliptin",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0112-01",
     "0006-0112-28",
@@ -12,13 +14,21 @@
     "0006-0221-31",
     "0006-0221-54",
     "0006-0277-01",
+    "0006-0277-27",
     "0006-0277-28",
+    "0006-0277-30",
     "0006-0277-31",
     "0006-0277-54",
     "0006-0277-74",
     "0006-0277-82"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sitagliptin",
+      "name": "JANUVIA"
+    }
+  ],
   "setid": "f85a48d0-0407-4c50-b0fa-7673a160bf01",
   "source": "dailymed"
 }

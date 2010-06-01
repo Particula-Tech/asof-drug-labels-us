@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 No. 6737 — Tablets JANUVIA, 25 mg, are pink, round, film-coated tablets with “221” on one side.
 They are supplied as follows:
@@ -34,3 +34,14 @@ NDC 0006-0277-82 bottles of 1000.
 Storage
 
 Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F), [see USP Controlled Room Temperature].
+
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
+Via Emilia, 21 27100 – Pavia, Italy
+
+9984400
+
+US Patent No.: 6,699,871
+
+1Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

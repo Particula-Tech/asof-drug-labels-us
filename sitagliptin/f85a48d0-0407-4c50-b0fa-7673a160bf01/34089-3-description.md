@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 JANUVIA Tablets contain sitagliptin phosphate, an orally-active inhibitor of the dipeptidyl peptidase-4 (DPP-4) enzyme.
 

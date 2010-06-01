@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A two-year carcinogenicity study was conducted in male and female rats given oral doses of sitagliptin of 50, 150, and 500 mg/kg/day.
 There was an increased incidence of combined liver adenoma/carcinoma in males and females and of liver carcinoma in females at 500 mg/kg.

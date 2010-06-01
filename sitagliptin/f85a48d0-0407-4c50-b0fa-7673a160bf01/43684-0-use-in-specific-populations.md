@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -8,7 +8,7 @@ Reproduction studies have been performed in rats and rabbits.
 Doses of sitagliptin up to 125 mg/kg (approximately 12 times the human exposure at the maximum recommended human dose) did not impair fertility or harm the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-Merck & Co., Inc. maintains a registry to monitor the pregnancy outcomes of women exposed to JANUVIA while pregnant.
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to JANUVIA while pregnant.
 Health care providers are encouraged to report any prenatal exposure to JANUVIA by calling the Pregnancy Registry at (800) 986-8999.
 
 Sitagliptin administered to pregnant female rats and rabbits from gestation day 6 to 20 (organogenesis) was not teratogenic at oral doses up to 250 mg/kg (rats) and 125 mg/kg (rabbits), or approximately 30- and 20-times human exposure at the maximum recommended human dose (MRHD) of 100 mg/day based on AUC comparisons.
