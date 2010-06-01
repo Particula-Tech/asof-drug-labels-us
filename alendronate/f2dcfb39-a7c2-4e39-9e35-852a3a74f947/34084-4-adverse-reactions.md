@@ -130,9 +130,9 @@ Rarely, peripheral edema.
 Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, rarely esophageal stricture or perforation, and oropharyngeal ulceration.
 Gastric or duodenal ulcers, some severe and with complications have also been reported (see WARNINGS, PRECAUTIONS, Information for Patients, and DOSAGE AND ADMINISTRATION).
 
-Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported rarely (see PRECAUTIONS, Dental).
+Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported rarely (see PRECAUTIONS, Dental).
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain); joint swelling.
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain); joint swelling; low-energy femoral shaft and subtrochanteric fractures.
 
 Nervous system: dizziness and vertigo.
 

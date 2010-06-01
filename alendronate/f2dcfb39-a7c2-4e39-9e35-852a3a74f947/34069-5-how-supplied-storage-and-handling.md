@@ -53,12 +53,10 @@ Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature.]
 Do not freeze.
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued February 2008
+Issued March 2010
 
 Printed in USA
 
-9635608
-
-9636808
+9635610 9636810

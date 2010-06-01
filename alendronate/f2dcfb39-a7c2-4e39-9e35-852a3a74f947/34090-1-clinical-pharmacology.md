@@ -157,7 +157,7 @@ As a result of the inhibition of bone resorption, FOSAMAX induced generally mild
 
 ## Clinical Studies
 
-### Treatment of Osteoporosis
+### Treatment of osteoporosis
 
 #### Postmenopausal women
 

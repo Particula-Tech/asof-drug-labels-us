@@ -1,26 +1,20 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# PATIENT PACKAGE INSERT
 
-## Patient Information
+Patient Information Once Weekly FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets and Oral Solution
 
-Once Weekly FOSAMAX® (FOSS-ah-max)
-
-(alendronate sodium)
-
-Tablets and Oral Solution
-
-Read this information before you start taking FOSAMAXRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 2000 MERCK & CO., Inc. All rights reserved.
+Read this information before you start taking FOSAMAXRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 Also, read the leaflet each time you refill your prescription, just in case anything has changed.
 This leaflet does not take the place of discussions with your doctor.
 You and your doctor should discuss FOSAMAX when you start taking your medicine and at regular checkups.
 
-### What is the most important information I should know about once weekly FOSAMAX?
+## What is the most important information I should know about once weekly FOSAMAX?
 
 - You must take once weekly FOSAMAX exactly as directed to help make sure it works and to help lower the chance of problems in your esophagus (the tube that connects your mouth and stomach).
   (See “How should I take once weekly FOSAMAX?”).
 - If you have chest pain, new or worsening heartburn, or have trouble or pain when you swallow, stop taking FOSAMAX and call your doctor.
   (See “What are the possible side effects of FOSAMAX?”).
 
-### What is FOSAMAX?
+## What is FOSAMAX?
 
 FOSAMAX is a prescription medicine for:
 
@@ -37,7 +31,7 @@ FOSAMAX is not a hormone.
 
 There is more information about osteoporosis at the end of this leaflet.
 
-### Who should not take FOSAMAX?
+## Who should not take FOSAMAX?
 
 Do not take FOSAMAX (tablets or oral solution) if you:
 
@@ -49,9 +43,9 @@ Do not take FOSAMAX (tablets or oral solution) if you:
 
 Do not take FOSAMAX oral solution if you have trouble swallowing liquids.
 
-### What should I tell my doctor before using FOSAMAX?
+## What should I tell my doctor before using FOSAMAX?
 
-Tell your doctor about all of your medical conditions, including if you:
+Tell your doctor about all of your medical or dental conditions, including if you:
 
 - have problems with swallowing
 - have stomach or digestive problems
@@ -66,7 +60,7 @@ Tell your doctor about all medicines you take, including prescription and non-pr
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
 
-### How should I take once weekly FOSAMAX?
+## How should I take once weekly FOSAMAX?
 
 - Choose the day of the week that best fits your schedule.
 - Take 1 dose of FOSAMAX every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine
@@ -95,7 +89,7 @@ Do not lie down until after your first food of the day.
 - It is important that you keep taking FOSAMAX for as long as your doctor says to take it.
   For FOSAMAX to continue to work, you need to keep taking it.
 
-### What should I do if I miss a dose of FOSAMAX or if I take too many?
+## What should I do if I miss a dose of FOSAMAX or if I take too many?
 
 - If you miss a dose, take only 1 dose of FOSAMAX on the morning after you remember.
   Do not take 2 doses on the same day.
@@ -104,14 +98,14 @@ Do not lie down until after your first food of the day.
   Do not try to vomit.
   Do not lie down.
 
-### What should I avoid while taking FOSAMAX?
+## What should I avoid while taking FOSAMAX?
 
 - Do not eat, drink, or take other medicines or supplements before taking FOSAMAX.
 - Wait for at least 30 minutes after taking FOSAMAX to eat, drink, or take other medicines or supplements.
 - Do not lie down for at least 30 minutes after taking FOSAMAX.
   Do not lie down until after your first food of the day.
 
-### What are the possible side effects of FOSAMAX?
+## What are the possible side effects of FOSAMAX?
 
 FOSAMAX may cause problems in your esophagus (the tube that connects the mouth and stomach).
 (See “What is the most important information I should know about once weekly FOSAMAX?”.)
@@ -131,19 +125,21 @@ This may occur especially if you do not drink a full glass of water with FOSAMAX
 - The most common side effect is stomach area (abdominal) pain.
   Less common side effects are nausea, vomiting, a full or bloated feeling in the stomach, constipation, diarrhea, black or bloody stools (bowel movements), gas, eye pain, rash that may be made worse by sunlight, hair loss, headache, dizziness, a changed sense of taste, joint swelling or swelling in the hands or legs, and bone, muscle, or joint pain.
 - Call your doctor if you develop severe bone, muscle, or joint pain.
+- Some patients have experienced fracture in a specific part of the thigh bone.
+  Call your doctor if you develop new or unusual pain in the hip or thigh.
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
 These are not all the side effects with FOSAMAX.
 Ask your doctor or pharmacist for more information.
 
-### How do I store FOSAMAX?
+## How do I store FOSAMAX?
 
 - Store at room temperature, 59 to 86°F (15 to 30°C).
 - Safely discard FOSAMAX that is out-of-date or no longer needed.
 - Keep FOSAMAX and all medicines out of the reach of children.
 
-### General information about using FOSAMAX safely and effectively
+## General information about using FOSAMAX safely and effectively
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use FOSAMAX for a condition for which it was not prescribed.
@@ -157,13 +153,13 @@ If you have any questions or concerns about FOSAMAX or osteoporosis, talk to you
 You can ask your doctor or pharmacist for information about FOSAMAX written for health care providers.
 For more information, call 1-877-408-4699 (toll-free) or visit the following website: www.fosamax.com.
 
-### What are the ingredients in FOSAMAX?
+## What are the ingredients in FOSAMAX?
 
 Tablets FOSAMAX tablets contain alendronate sodium as the active ingredient and the following inactive ingredients: cellulose, lactose, croscarmellose sodium and magnesium stearate.
 
 Oral Solution Fosamax oral solution contains alendronate sodium as the active ingredient and the following inactive ingredients: sodium citrate, citric acid, sodium saccharin, artificial raspberry flavor, purified water, sodium propylparaben and sodium butylparaben.
 
-### What should I know about osteoporosis?
+## What should I know about osteoporosis?
 
 Normally your bones are being rebuilt all the time.
 First, old bone is removed (resorbed).
@@ -184,7 +180,7 @@ Fractures may happen during normal, everyday activity, such as lifting, or from 
 Fractures most often occur at the hip, spine, or wrist.
 This can lead to pain, severe disability, or loss of ability to move around (mobility).
 
-### Who is at risk for osteoporosis?
+## Who is at risk for osteoporosis?
 
 Many things put people at risk of osteoporosis.
 The following people have a higher chance of getting osteoporosis:
@@ -208,7 +204,7 @@ People who:
 - Drink alcohol often
 - Take bone thinning medicines (like prednisone or other corticosteroids) for a long time
 
-### What can I do to help prevent or treat osteoporosis?
+## What can I do to help prevent or treat osteoporosis?
 
 In addition to FOSAMAX, your doctor may suggest one or more of the following lifestyle changes:
 
@@ -226,31 +222,29 @@ In addition to FOSAMAX, your doctor may suggest one or more of the following lif
 
 Rx only
 
-MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued February 2008
+Issued March 2010
 
-9635608
+9635610
 
-## Patient Information
+# PATIENT PACKAGE INSERT
 
-FOSAMAX® (FOSS-ah-max)
+Patient Information FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets
 
-(alendronate sodium) Tablets
-
-Read this information before you start taking FOSAMAX Registered trademark of MERCK & CO., Inc. COPYRIGHT © 1995, 1997, 2000 MERCK & CO., Inc. All rights reserved.
+Read this information before you start taking FOSAMAXRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright ©1995, 1997, 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 Also, read the leaflet each time you refill your prescription, just in case anything has changed.
 This leaflet does not take the place of discussions with your doctor.
 You and your doctor should discuss FOSAMAX when you start taking your medicine and at regular checkups.
 
-### What is the most important information I should know about FOSAMAX?
+## What is the most important information I should know about FOSAMAX?
 
 - You must take FOSAMAX exactly as directed to help make sure it works and to help lower the chance of problems in your esophagus (the tube that connects your mouth and stomach).
   (See “How should I take FOSAMAX?”).
 - If you have chest pain, new or worsening heartburn, or have trouble or pain when you swallow, stop taking FOSAMAX and call your doctor.
   (See “What are the possible side effects of FOSAMAX?”).
 
-### What is FOSAMAX?
+## What is FOSAMAX?
 
 FOSAMAX is a prescription medicine for:
 
@@ -266,7 +260,7 @@ FOSAMAX is not a hormone.
 
 There is more information about osteoporosis at the end of this leaflet.
 
-### Who should not take FOSAMAX?
+## Who should not take FOSAMAX?
 
 Do not take FOSAMAX if you:
 
@@ -276,9 +270,9 @@ Do not take FOSAMAX if you:
 - Are allergic to FOSAMAX or any of its ingredients.
   A list of ingredients is at the end of this leaflet.
 
-### What should I tell my doctor before using FOSAMAX?
+## What should I tell my doctor before using FOSAMAX?
 
-Tell your doctor about all of your medical conditions, including if you:
+Tell your doctor about all of your medical or dental conditions, including if you:
 
 - have problems with swallowing
 - have stomach or digestive problems
@@ -293,7 +287,7 @@ Tell your doctor about all medicines you take, including prescription and non-pr
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
 
-### How should I take FOSAMAX?
+## How should I take FOSAMAX?
 
 - Take 1 FOSAMAX tablet once a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
 - Take FOSAMAX while you are sitting or standing.
@@ -319,7 +313,7 @@ Do not lie down until after first food of the day.
 - It is important that you keep taking FOSAMAX for as long as your doctor says to take it.
   For FOSAMAX to continue to work, you need to keep taking it.
 
-### What should I do if I miss a dose of FOSAMAX or if I take too many?
+## What should I do if I miss a dose of FOSAMAX or if I take too many?
 
 - If you miss a dose, do not take it later in the day.
   Continue your usual schedule of 1 tablet once a day the next morning.
@@ -327,14 +321,14 @@ Do not lie down until after first food of the day.
   Do not try to vomit.
   Do not lie down.
 
-### What should I avoid while taking FOSAMAX?
+## What should I avoid while taking FOSAMAX?
 
 - Do not eat, drink, or take other medicines or supplements before taking FOSAMAX.
 - Wait for at least 30 minutes after taking FOSAMAX to eat, drink, or take other medicines or supplements.
 - Do not lie down for at least 30 minutes after taking FOSAMAX.
   Do not lie down until after your first food of the day.
 
-### What are the possible side effects of FOSAMAX?
+## What are the possible side effects of FOSAMAX?
 
 FOSAMAX may cause problems in your esophagus (the tube that connects the mouth and stomach).
 (See “What is the most important information I should know about FOSAMAX?”.)
@@ -354,19 +348,21 @@ This may occur especially if you do not drink a full glass of water with FOSAMAX
 - The most common side effect is stomach area (abdominal) pain.
   Less common side effects are nausea, vomiting, a full or bloated feeling in the stomach, constipation, diarrhea, black or bloody stools (bowel movements), gas, eye pain, rash that may be made worse by sunlight, hair loss, headache, dizziness, a changed sense of taste, joint swelling or swelling in the hands or legs, and bone, muscle, or joint pain.
 - Call your doctor if you develop severe bone, muscle, or joint pain.
+- Some patients have experienced fracture in a specific part of the thigh bone.
+  Call your doctor if you develop new or unusual pain in the hip or thigh.
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
 These are not all the side effects with FOSAMAX.
 Ask your doctor or pharmacist for more information.
 
-### How do I store FOSAMAX?
+## How do I store FOSAMAX?
 
 - Store FOSAMAX at room temperature, 59 to 86°F (15 to 30°C).
 - Safely discard FOSAMAX that is out-of-date or no longer needed.
 - Keep FOSAMAX and all medicines out of the reach of children.
 
-### General information about using FOSAMAX safely and effectively
+## General information about using FOSAMAX safely and effectively
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use FOSAMAX for a condition for which it was not prescribed.
@@ -380,12 +376,12 @@ If you have any questions or concerns about FOSAMAX or osteoporosis, talk to you
 You can ask your doctor or pharmacist for information about FOSAMAX written for health care providers.
 For more information, call 1-877-408-4699 (toll-free) or visit the following website: www.fosamax.com.
 
-### What are the ingredients in FOSAMAX?
+## What are the ingredients in FOSAMAX?
 
 FOSAMAX contains alendronate sodium as the active ingredient and the following inactive ingredients: cellulose, lactose, croscarmellose sodium and magnesium stearate.
 The 10 mg tablet also contains carnauba wax.
 
-### What should I know about osteoporosis?
+## What should I know about osteoporosis?
 
 Normally your bones are being rebuilt all the time.
 First, old bone is removed (resorbed).
@@ -406,7 +402,7 @@ Fractures may happen during normal, everyday activity, such as lifting, or from 
 Fractures most often occur at the hip, spine, or wrist.
 This can lead to pain, severe disability, or loss of ability to move around (mobility).
 
-### Who is at risk for osteoporosis?
+## Who is at risk for osteoporosis?
 
 Many things put people at risk of osteoporosis.
 The following people have a higher chance of getting osteoporosis:
@@ -430,7 +426,7 @@ People who:
 - Drink alcohol often
 - Take bone thinning medicines (like prednisone or other corticosteroids) for a long time
 
-### What can I do to help prevent or treat osteoporosis?
+## What can I do to help prevent or treat osteoporosis?
 
 In addition to FOSAMAX, your doctor may suggest one or more of the following lifestyle changes:
 
@@ -448,8 +444,8 @@ In addition to FOSAMAX, your doctor may suggest one or more of the following lif
 
 Rx Only
 
-MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued February 2008
+Issued March 2010
 
-9636808
+9636810
