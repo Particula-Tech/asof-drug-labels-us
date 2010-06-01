@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078738"
+  ],
+  "inn": "azelastine",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-938-90"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "azelastine hydrochloride",
+      "name": "Azelastine Hydrochloride"
+    }
+  ],
+  "setid": "04e5eede-17ff-4765-af77-d46c139da703",
+  "source": "dailymed"
+}
