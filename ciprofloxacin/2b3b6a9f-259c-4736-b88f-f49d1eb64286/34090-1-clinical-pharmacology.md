@@ -6,24 +6,30 @@ Ciprofloxacin given as an oral tablet is rapidly and well absorbed from the gast
 The absolute bioavailability is approximately 70% with no substantial loss by first pass metabolism.
 Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range.
 
-| Dose (mg) | Maximum Serum Concentrations (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
+| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
 | --- | --- | --- |
-| 250 500 750 1000 | 1.2 2.4 4.3 5.4 | 4.8 11.6 20.2 30.8 |
+| 250 | 1.2 | 4.8 |
+| 500 | 2.4 | 11.6 |
+| 750 | 4.3 | 20.2 |
+| 1000 | 5.4 | 30.8 |
 
 Maximum serum concentrations are attained 1 to 2 hours after oral dosing.
 Mean concentrations 12 hours after dosing with 250, 500, or 750 mg are 0.1, 0.2, and 0.4 mcg/mL, respectively.
-The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
+The serum elimi­nation half-life in subjects with normal renal function is approximately 4 hours.
 Serum concentrations increase proportionately with doses up to 1000 mg.
 A 500 mg oral dose given every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a C max similar to that observed with a 400 mg I.V. dose.
 A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours.
 
-| Steady-state Pharmacokinetic Parameters Following Multiple Oral and I.V. Doses |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Parameters AUC (mcg•hr/mL) Cmax (mcg/mL) | 500 mg q12h, P.O. 13.7a 2.97 | 400 mg q12h, I.V. 12.7a 4.56 | 750 mg q12h, P.O. 31.6b 3.59 | 400 mg q8h, I.V. 32.9c 4.07 |
+Steady-state Pharmacokinetic Parameters Following Multiple Oral and I.V.
+Doses
 
-a AUC 0-12h b AUC 24h=AUC 0-12h x 2 c AUC 24h=AUC 0-8h x 3
+| Parameters | 500 mg q12h, P.O. | 400 mg q12h, I.V. | 750 mg q12h, P.O. | 400 mg q8h, I.V. |
+| --- | --- | --- | --- | --- |
+| AUC (mcg•hr/mL) | 13.7a | 12.7a | 31.6b | 32.9c |
+| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+| aAUC 0-12h bAUC 24h=AUC0-12h x 2 cAUC 24h=AUC0-8h x 3 |  |  |  |  |
 
 ## Distribution
 
@@ -40,7 +46,7 @@ Low levels of the drug have been detected in the aqueous and vitreous humors of 
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (See CONTRAINDICATIONS ; WARNINGS; PRECAUTIONS: Drug Interactions ).
+Coadministration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the coadministered drug (see CONTRAINDICATIONS ; WARNINGS; PRECAUTIONS: Drug Interactions ).
 
 ## Excretion
 
@@ -55,8 +61,8 @@ Although bile concentrations of ciprofloxacin are several fold higher than serum
 An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.
 Approximately 20 to 35% of an oral dose is recovered from the feces within 5 days after dosing.
 This may arise from either biliary clearance or transintestinal elimination.
-With oral administration, a 500 mg dose, given as 10 mL of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5 mL) is bioequivalent to the 500 mg tablet.
-A 10 mL volume of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5 mL) is bioequivalent to a 5 mL volume of the 10% ciprofloxacin suspension (containing 500 mg ciprofloxacin/5 mL).
+With oral administration, a 500 mg dose, given as 10 mL of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5mL) is bioequivalent to the 500 mg tablet.
+A 10 mL volume of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5mL) is bioequivalent to a 5 mL volume of the 10% ciprofloxacin suspension (containing 500 mg ciprofloxacin/5mL).
 
 ## Drug-drug Interactions
 
@@ -65,8 +71,7 @@ The overall absorption of ciprofloxacin tablet, however, is not substantially af
 Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90%.
 (See PRECAUTIONS .)
 The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
-Concomitant administration with tizanidine is contraindicated.
-(See CONTRAINDICATIONS ).
+Concomitant administration with tizanidine is contraindicated (See CONTRAINDICATIONS ).
 Concomitant administration of ciprofloxacin with theophylline decreases the clearance of theophylline resulting in elevated serum theophylline levels and increased risk of a patient developing CNS or other adverse reactions.
 Ciprofloxacin also decreases caffeine clearance and inhibits the formation of paraxanthine after caffeine administration.
 (See WARNINGS: PRECAUTIONS .)
@@ -83,10 +88,9 @@ Dosage adjustments may be required.
 (See DOSAGE AND ADMINISTRATION .)
 In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, however, have not been fully elucidated.
-
-Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 to 14.9 mcg*h/mL).
-There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg TID).
-In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 to 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
+Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean C max was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*h/mL (range: 5.8 to 14.9 mcg*h/mL).
+There was no apparent age-dependence, and no notable increase in C max or AUC upon multiple dosing (10 mg/kg TID).
+In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean C max was 6.1 mcg/mL (range: 4.6 to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 to 11.8 mcg/mL) in 10 children between 1 and 5 years of age.
 The AUC values were 17.4 mcg*h/mL (range: 11.8 to 32 mcg*h/mL) and 16.5 mcg*h/mL (range: 11 to 23.8 mcg*h/mL) in the respective age groups.
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 to 5 hours, and the bioavailability of the oral suspension is approximately 60%.
@@ -134,16 +138,16 @@ The MIC values should be interpreted according to the following criteria: For te
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤1 | Susceptible (S) |
+| ≤ 1 | Susceptible (S) |
 | 2 | Intermediate (I) |
-| ≥4 | Resistant (R) |
+| ≥ 4 | Resistant (R) |
 
 a These interpretive standards are applicable only to broth microdilution susceptibility tests with streptococci using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
 For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤1 | Susceptible (S) |
+| ≤ 1 | Susceptible (S) |
 
 b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium 1 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
@@ -154,7 +158,7 @@ For testing Neisseria gonorrhoeae c :
 | --- | --- |
 | ≤ 0.06 | Susceptible (S) |
 | 0.12 – 0.5 | Intermediate (I) |
-| ≥1 | Resistant (R) |
+| ≥ 1 | Resistant (R) |
 
 c This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement.
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
@@ -170,18 +174,19 @@ Standard ciprofloxacin powder should provide the following MIC values:
 | E. faecalis | ATCC 29212 | 0.25 – 2 |
 | E. coli | ATCC 25922 | 0.004 – 0.015 |
 | H. influenzaea | ATCC 49247 | 0.004 – 0.03 |
-| N. gonorrhoeaeb | ATCC 49226 | 0.001 – 0.008 |
 | P. aeruginosa | ATCC 27853 | 0.25 – 1 |
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |
+| C. jejunib | ATCC 33560 | 0.06 – 0.25 and 0.03 – 0.12 |
+| N. gonorrhoeaec | ATCC 49226 | 0.001 – 0.008 |
 
-a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1 . b This quality control range is applicable to only N. gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar base and 1% defined growth supplement.
+a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1 . b C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5 to 5% lysed horse blood in a microaerophilic environment at 36 to 37 o C for 48 hours and for 42 o C at 24 hours 2 , respectively. c N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO 2 environment at 35 to 37 o C for 20 to 24 hours 3 .
 
 ### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure 2 requires the use of standardized inoculum concentrations.
+One such standardized procedure 3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -196,14 +201,14 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 | --- | --- |
 | ≥ 21 | Susceptible (S) |
 
-b This zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM) 2 .
+b This zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM) 3 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 For testing Neisseria gonorrhoeae c :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥ 41 | Susceptible (S) |
+| ≥41 | Susceptible (S) |
 | 28 – 40 | Intermediate (I) |
 | ≤ 27 | Resistant (R) |
 
@@ -221,4 +226,4 @@ For the diffusion technique, the 5 mcg ciprofloxacin disk should provide the fol
 | P. aeruginosa | ATCC 27853 | 25 – 33 |
 | S. aureus | ATCC 25923 | 22 – 30 |
 
-a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM) 2 . b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement.
+a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM) 3 . b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement.

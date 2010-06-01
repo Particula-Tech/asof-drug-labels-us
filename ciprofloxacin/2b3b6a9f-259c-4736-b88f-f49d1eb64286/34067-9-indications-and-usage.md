@@ -23,17 +23,16 @@ Uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae.
 ## Pediatric patients (1 to 17 years of age)
 
 Complicated Urinary Tract Infections and Pyelonephritis due to Escherichia coli.
-
 NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
-(See WARNINGS, PRECAUTIONS, Pediatric Use, ADVERSE REACTIONS and CLINICAL STUDIES.)
+(See WARNINGS, PRECAUTIONS, Pediatric Use, ADVERSE REACTIONS and CLINICAL STUDIES .)
 Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals.
-(See ANIMAL PHARMACOLOGY.)
+(See ANIMAL PHARMACOLOGY .)
 
 ## Adult and Pediatric Patients
 
 Inhalational anthrax (post-exposure): To reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.
-4 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
+5 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001.
 (See also, INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION ). † Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 If anaerobic organisms are suspected of contributing to the infection, appropriate therapy should be administered.
 Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to ciprofloxacin.
