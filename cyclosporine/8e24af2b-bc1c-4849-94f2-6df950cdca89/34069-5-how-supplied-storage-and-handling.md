@@ -13,8 +13,8 @@ KEEP OUT OF THE REACH OF CHILDREN.
 
 Rx Only
 
-Revised: 01/2009
+Revised: 02/2010
 
-© 2009 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 4,839,342 and 5,474,979 www.restasis.com
+© 2010 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent 5,474,979 Made in the U.S.A.
 
-71876US12A
+71876US14B

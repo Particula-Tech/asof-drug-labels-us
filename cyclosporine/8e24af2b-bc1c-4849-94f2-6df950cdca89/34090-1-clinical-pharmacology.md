@@ -1,19 +1,19 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of action:
+## Mechanism of Action
 
 Cyclosporine is an immunosuppressive agent when administered systemically.
 
 In patients whose tear production is presumed to be suppressed due to ocular inflammation associated with keratoconjunctivitis sicca, cyclosporine emulsion is thought to act as a partial immunomodulator.
 The exact mechanism of action is not known.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
 Blood cyclosporin A concentrations were measured using a specific high pressure liquid chromatography-mass spectrometry assay.
 Blood concentrations of cyclosporine, in all the samples collected, after topical administration of RESTASIS® 0.05%, BID, in humans for up to 12 months, were below the quantitation limit of 0.1 ng/mL.
 There was no detectable drug accumulation in blood during 12 months of treatment with RESTASIS® ophthalmic emulsion.
 
-## Clinical Evaluations:
+## Clinical Evaluations
 
 Four multicenter, randomized, adequate and well-controlled clinical studies were performed in approximately 1200 patients with moderate to severe keratoconjunctivitis sicca.
 RESTASIS® demonstrated statistically significant increases in Schirmer wetting of 10 mm versus vehicle at six months in patients whose tear production was presumed to be suppressed due to ocular inflammation.
