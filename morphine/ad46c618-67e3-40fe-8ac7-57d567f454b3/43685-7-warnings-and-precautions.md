@@ -14,8 +14,8 @@ Because epidural administration has been associated with less potential for imme
 
 SEVERE RESPIRATORY DEPRESSION UP TO 24 HOURS FOLLOWING EPIDURAL OR INTRATHECAL ADMINISTRATION HAS BEEN REPORTED.
 
-| BECAUSE OF THE RISK OF SEVERE ADVERSE EFFECTS WHEN THE EPIDURAL OR INTRATHECAL ROUTE OF ADMINISTRATION IS EMPLOYED, PATIENTS MUST BE OBSERVED IN A FULLY EQUIPPED AND STAFFED ENVIRONMENT FOR AT LEAST 24 HOURS AFTER THE INITIAL DOSE. |
-| --- |
+|  | BECAUSE OF THE RISK OF SEVERE ADVERSE EFFECTS WHEN THE EPIDURAL OR INTRATHECAL ROUTE OF ADMINISTRATION IS EMPLOYED, PATIENTS MUST BE OBSERVED IN A FULLY EQUIPPED AND STAFFED ENVIRONMENT FOR AT LEAST 24 HOURS AFTER THE INITIAL DOSE. |  |
+| --- | --- | --- |
 
 THE FACILITY MUST BE EQUIPPED TO RESUSCITATE PATIENTS WITH SEVERE OPIATE OVERDOSAGE, AND THE PERSONNEL MUST BE FAMILIAR WITH THE USE AND LIMITATIONS OF SPECIFIC NARCOTIC ANTAGONISTS (NALOXONE, NALTREXONE) IN SUCH CASES.
 
@@ -80,7 +80,9 @@ Morphine is without known carcinogenic or mutagenic effects and is not known to 
 
 ## Pregnancy
 
-### Teratogenic Effects—Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Morphine sulfate is not teratogenic in rats at 35 mg/kg/day (thirty-five times the usual human dose) but does result in increased pup mortality and growth retardation at doses that narcotize the animal (> 10 mg/kg/day, ten times the usual human dose).
 DURAMORPH should only be given to pregnant women when no other method of controlling pain is available and means are at hand to manage the delivery and perinatal care of the opiate-dependent infant.

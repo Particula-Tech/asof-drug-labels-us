@@ -2,6 +2,8 @@
 
 DURAMORPH is intended for intravenous, epidural or intrathecal administration.
 
+Not For Use in Continuous Microinfusion Devices
+
 ## Intravenous Administration
 
 ### Dosage
@@ -34,9 +36,6 @@ No more than 10 mg/24 hr should be administered.
 
 Thoracic administration has been shown to dramatically increase the incidence of early and late respiratory depression even at doses of 1 to 2 mg.
 
-For continuous infusion, an initial dose of 2 to 4 mg/24 hours is recommended.
-Further doses of 1 to 2 mg may be given if pain relief is not achieved initially.
-
 #### Geriatric Use
 
 Administer with extreme caution.
@@ -49,8 +48,8 @@ No information on use in pediatric patients is available.
 
 ## Intrathecal Administration
 
-| NOTE: INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL DOSAGE. |
-| --- |
+|  | NOTE: INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL DOSAGE. |  |
+| --- | --- | --- |
 
 DURAMORPH SHOULD BE ADMINISTERED INTRATHECALLY BY OR UNDER THE DIRECTION OF A PHYSICIAN EXPERIENCED IN THE TECHNIQUE OF INTRATHECAL ADMINISTRATION AND WHO IS THOROUGHLY FAMILIAR WITH THE LABELING.
 IT SHOULD BE ADMINISTERED ONLY IN SETTINGS WHERE ADEQUATE PATIENT MONITORING IS POSSIBLE.

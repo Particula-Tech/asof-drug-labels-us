@@ -2,16 +2,17 @@
 
 The most serious adverse experience encountered during administration of DURAMORPH is respiratory depression and/or respiratory arrest.
 This depression and/or respiratory arrest may be severe and could require intervention.
-(SeeWARNINGS and OVERDOSAGE.)
+(See WARNINGS and OVERDOSAGE.)
 Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
 Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
 
 ## Tolerance and Myoclonus
 
-SeeWARNINGS for discussion of these and related hazards.
+See WARNINGS for discussion of these and related hazards.
 
 While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
-Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
+Excitation of the central nervous system, resulting in convulsions, may accompany high doses of morphine given intravenously.
+Dysphoric reactions may occur after any size dose and toxic psychoses have been reported.
 
 ## Pruritus
 
@@ -34,7 +35,7 @@ Lumbar puncture-type headache is encountered in a significant minority of cases 
 
 ## Other
 
-Other adverse experiences reported following morphine therapy include—Dizziness, euphoria, anxiety, hypotension, confusion, reduced male potency, decreased libido in men and women, and menstrual irregularities including amenorrhea, depression of cough reflex, interference with thermal regulation andoliguria.
+Other adverse experiences reported following morphine therapy include—Dizziness, euphoria, anxiety, hypotension, confusion, reduced male potency, decreased libido in men and women, and menstrual irregularities including amenorrhea, depression of cough reflex, interference with thermal regulation and oliguria.
 Evidence of histamine release such as urticaria, wheals and/or local tissue irritation may occur.
 Nausea and vomiting are frequently seen in patients following morphine administration.
 
@@ -43,5 +44,5 @@ The risks of using narcotic antagonists in patients chronically receiving narcot
 
 In general, side effects are amenable to reversal by narcotic antagonists.
 
-| NALOXONE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY AVAILABLE FOR ADMINISTRATION IN CASE OF LIFE-THREATENING OR INTOLERABLE SIDE EFFECTS AND WHENEVER DURAMORPH THERAPY IS BEING INITIATED. |
-| --- |
+|  | NALOXONE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY AVAILABLE FOR ADMINISTRATION IN CASE OF LIFE-THREATENING OR INTOLERABLE SIDE EFFECTS AND WHENEVER DURAMORPH THERAPY IS BEING INITIATED. |  |
+| --- | --- | --- |

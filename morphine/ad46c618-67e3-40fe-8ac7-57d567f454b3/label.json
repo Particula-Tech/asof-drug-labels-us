@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018565"
+  ],
   "inn": "morphine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "60977-016-02",
-    "60977-017-01"
+    "60977-016-73",
+    "60977-017-01",
+    "60977-017-73"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "Duramorph"
+    }
+  ],
   "setid": "ad46c618-67e3-40fe-8ac7-57d567f454b3",
   "source": "dailymed"
 }

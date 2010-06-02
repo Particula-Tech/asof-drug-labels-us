@@ -4,10 +4,10 @@ Morphine produces a wide spectrum of pharmacologic effects including analgesia, 
 Opiate analgesia involves at least three anatomical areas of the central nervous system: the periaqueductal-periventricular gray matter, the ventromedial medulla and the spinal cord.
 A systematically administered opiate may produce analgesia by acting at any, all or some combination of these distinct regions.
 Morphine interacts predominantly with the μ-receptor.
-Theμ-binding sites of opioids are very discretely distributed in the human brain, with high densities of sites found in the posterior amygdala, hypothalamus, thalamus, nucleus caudatus, putamen and certain cortical areas.
+The μ-binding sites of opioids are very discretely distributed in the human brain, with high densities of sites found in the posterior amygdala, hypothalamus, thalamus, nucleus caudatus, putamen and certain cortical areas.
 They are also found on the terminal axons of primary afferents within laminae I and II (substantia gelatinosa) of the spinal cord and in the spinal nucleus of the trigeminal nerve.
 
-Morphine has an apparent volume of distribution ranging from 1.0 to 4.7 L/kg afterintravenous dosage.
+Morphine has an apparent volume of distribution ranging from 1.0 to 4.7 L/kg after intravenous dosage.
 Protein binding is low, about 36%, and muscle tissue binding is reported as 54%.
 A blood-brain barrier exists, and when morphine is introduced outside of the CNS (e.g.,intravenously), plasma concentrations of morphine remain higher than the corresponding CSF morphine levels.
 Conversely, when morphine is injected into the intrathecal space, it diffuses out into the systemic circulation slowly, accounting for the long duration of action of morphine administered by this route.
@@ -50,5 +50,5 @@ Morphine concentrations in the CSF averaged 332±137 ng/mL at 6 hours, following
 The apparent volume of distribution of morphine in the intrathecal space is about 22±8 mL.
 
 Time-to-peak plasma concentrations, however, are similar (5-10 min) after either epidural or intrathecal bolus administration of morphine.
-Maximum plasma morphine concentrations after 0.3 mg intrathecal morphine have been reported from< 1 to 7.8 ng/mL.
+Maximum plasma morphine concentrations after 0.3 mg intrathecal morphine have been reported from < 1 to 7.8 ng/mL.
 The minimum analgesic morphine plasma concentration during Patient‑Controlled Analgesia (PCA) has been reported as 20–40 ng/mL, suggesting that any analgesic contribution from systemic redistribution would be minimal after the first 30–60 minutes with epidural administration and virtually absent with intrathecal administration of morphine.
