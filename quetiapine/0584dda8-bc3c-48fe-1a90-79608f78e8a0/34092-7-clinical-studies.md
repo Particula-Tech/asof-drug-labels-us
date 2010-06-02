@@ -13,17 +13,17 @@ A second traditional assessment, the Clinical Global Impression (CGI), reflects 
 
 The results of the trials follow:
 
-1. In a 6-week, placebo-controlled trial (n=361) involving 5 fixed doses of SEROQUEL (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day and 750 mg/day given in divided doses three times per day), the 4 highest doses of SEROQUEL were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 to 750 mg/day were generally indistinguishable.
+1. In a 6-week, placebo-controlled trial (n=361) involving 5 fixed doses of SEROQUEL (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day and 750 mg/day given in divided doses three times per day), the 4 highest doses of SEROQUEL were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
 2. In a 6-week, placebo-controlled trial (n=286) involving titration of SEROQUEL in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose SEROQUEL group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 3. In a 6-week dose and dose regimen comparison trial (n=618) involving two fixed doses of SEROQUEL (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) SEROQUEL dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 
-Examination of population subsets (race, gender, and age) did not reveal any differential responsiveness on the basis of race or gender, with an apparently greater effect in patients under the age of 40 compared to those older than 40.
+Examination of population subsets (race, gender, and age) did not reveal any differential responsiveness on the basis of race or gender, with an apparently greater effect in patients under the age of 40 years compared to those older than 40.
 The clinical significance of this finding is unknown.
 
 Adolescents (ages 13-17)
 
-The efficacy of SEROQUEL in the treatment of schizophrenia in adolescents (13–17 years of age) was demonstrated in a six week, double-blind, placebo-controlled trial.
-Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400mg/day (n = 73), SEROQUEL 800 mg/day (n = 74), or placebo (n = 75).
+The efficacy of SEROQUEL in the treatment of schizophrenia in adolescents (13–17 years of age) was demonstrated in a 6–week, double-blind, placebo-controlled trial.
+Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 73), SEROQUEL 800 mg/day (n = 74), or placebo (n = 75).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
 The primary efficacy variable was the mean change from baseline in total Positive and Negative Syndrome Scale (PANSS).
@@ -63,19 +63,19 @@ In a similarly designed trial (n=200), SEROQUEL was associated with an improveme
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial.
+The efficacy of SEROQUEL in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial.
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n = 95), SEROQUEL 600 mg/day (n = 98), or placebo (n = 91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
 The primary efficacy variable was the mean change from baseline in total YMRS score.
 
-SEROQUEL 400 mg/day and 600mg/day were superior to placebo in the reduction of YMRS total score.
+SEROQUEL 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score.
 
 Depressive Episodes
 
 Adults
 
-The efficacy of SEROQUEL for the treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1045).
+The efficacy of SEROQUEL for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1045).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
 Patients randomized to SEROQUEL were administered fixed doses of either 300 mg or 600 mg once daily.
 

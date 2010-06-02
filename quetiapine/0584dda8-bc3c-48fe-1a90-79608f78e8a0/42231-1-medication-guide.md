@@ -4,7 +4,9 @@ Medication Guide
 
 SEROQUEL (SER-oh-kwell)
 
-Generic name: quetiapine fumarate
+(quetiapine fumarate)
+
+Tablets
 
 Read this Medication Guide before you start taking SEROQUEL and each time you get a refill.
 There may be new information.
@@ -12,7 +14,7 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about SEROQUEL?
 
-Serious side effects may happen when you take SEROQUEL, including:
+Serious side effects may happen when you take SEROQUEL, including
 
 - Risk of death in the elderly with dementia: Medicines like SEROQUEL can raise the risk of death in elderly people who have lost touch with reality due to confusion and memory loss (dementia).
   SEROQUEL is not approved for treating psychosis in the elderly with dementia.
@@ -74,7 +76,7 @@ What should I tell my healthcare provider before taking SEROQUEL?
 
 Before taking SEROQUEL, tell your healthcare provider if you have or have had:
 
-- diabetes or high blood sugar in you or your family: your healthcare provider should check your blood sugar before you start SEROQUEL and also during therapy.
+- diabetes or high blood sugar in you or your family: your healthcare provider should check your blood sugar before you start SEROQUEL and also during therapy
 - high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL- cholesterol
 - low or high blood pressure
 - low white blood cell count
@@ -86,8 +88,8 @@ Before taking SEROQUEL, tell your healthcare provider if you have or have had:
 - liver problems
 - any other medical condition
 - pregnancy or plans to become pregnant.
-  It is not known if SEROQUEL will harm your unborn baby.
-- reast-feeding or plans to breast-feed.
+  It is not known if SEROQUEL will harm your unborn baby
+- breast-feeding or plans to breast-feed.
   It is not known if SEROQUEL will pass into your breast milk.
   You and your healthcare provider should decide if you will take SEROQUEL or breast-feed.
   You should not do both.
@@ -120,6 +122,9 @@ Your doctor can tell you if it is safe to take SEROQUEL with your other medicine
 Do not start or stop any medicines while taking SEROQUEL without talking to your healthcare provider first.
 Know the medicines you take.
 Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
+
+Tell your healthcare provider if you are having a urine drug screen because SEROQUEL may affect your test results.
+Tell those giving the test that you are taking SEROQUEL.
 
 How should I take SEROQUEL?
 
@@ -171,9 +176,9 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 - feel very hungry
 - feel weak or tired
 - feel sick to your stomach
-- feel confused, or your breath smells fruity.
+- feel confused, or your breath smells fruity
 
-- High cholesterol and triglyceride levels in the blood (fat in the blood) Increases in total cholesterol, triglycerides and LDL (bad) cholesterol and decreases in HDL (good) cholesterol have been reported in clinical trials with SEROQUEL.
+- High cholesterol and triglyceride levels in the blood (fat in the blood): Increases in total cholesterol, triglycerides and LDL (bad) cholesterol and decreases in HDL (good) cholesterol have been reported in clinical trials with SEROQUEL.
   You may not have any symptoms, so your healthcare provider should do blood tests to check your cholesterol and triglyceride levels before you start taking SEROQUEL and during therapy.
 - Increase in weight (weight gain): Weight gain has been seen in patients who take SEROQUEL so you and your healthcare provider should check your weight regularly.
 - Tardive dyskinesia: Tell your healthcare provider about any movements you cannot control in your face, tongue, or other body parts.
@@ -197,32 +202,34 @@ Common possible side effects with SEROQUEL include:
 Adults:
 
 - drowsiness
-- upset stomach
 - dry mouth
-- weight gain
 - dizziness
-- a sudden drop in blood pressure upon standing
 - weakness
+- weight gain
 - abdominal pain
-- adnormal liver tests
 - constipation
 - sore throat
 - sluggishness
+- upset stomach
+- weight gain
+- a sudden drop in blood pressure upon standing
+- adnormal liver tests
 
 Children and Adolescents:
 
 - drowsiness
-- dizziness
 - fatigue
-- increased appetite
 - nausea
-- vomiting
 - dry mouth
-- rapid heart rate
 - weight gain
+- dizziness
+- increased appetite
+- vomiting
+- rapid heart rate
 
 These are not all the possible side effects of SEROQUEL.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -251,24 +258,24 @@ The 100 mg and 400 mg tablets contain only yellow ferric oxide
 
 The symptoms of Schizophrenia include:
 
-- Having lost touch with reality (psychosis),
-- Seeing things that are not there or hearing voices (hallucinations),
-- Believing things that are not true (delusions) and
+- Having lost touch with reality (psychosis)
+- Seeing things that are not there or hearing voices (hallucinations)
+- Believing things that are not true (delusions)
 - Being suspicious (paranoia).
 
 The symptoms of Bipolar Disorder include:
 
-- General symptoms of bipolar disorder include: extreme mood swings, along with other specific symptoms and behaviors.
-  These mood swings, or "episodes," include manic (highs) and depressive (lows).
-- Common symptoms of a manic episode include: feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual.
-- Common symptoms of a depressive episode include: feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite and
+- General symptoms of bipolar disorder include extreme mood swings, along with other specific symptoms and behaviors.
+  These mood swings, or "episodes," include manic (highs) and depressive (lows)
+- Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual
+- Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite.
 - Thoughts of death or suicide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-SEROQUEL is a registered trademark of the AstraZeneca group of companies.
+SEROQUEL is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2009
+©AstraZeneca 2010
 
 Distributed by:
 
@@ -276,9 +283,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Made in U.S.A.
-
-SIC 35534–00
+SIC 35534–03
 
 Rev.
-12/09
+05/10

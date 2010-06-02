@@ -8,7 +8,8 @@ Death has been reported in a clinical trial following an overdose of 13.6 grams 
 In general, reported signs and symptoms were those resulting from an exaggeration of the drugs known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.
 Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [seeWarnings and Precautions (5)].
 One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
-In post-marketing experience, there have been very rare reports of overdose of SEROQUEL alone resulting in death, coma, or QTc prolongation.
+In post-marketing experience, there were cases reported of QT prolongation with overdose.
+There were also very rare reports of overdose of SEROQUEL alone resulting in death or coma.
 
 ## 10.2 Management of Overdosage
 

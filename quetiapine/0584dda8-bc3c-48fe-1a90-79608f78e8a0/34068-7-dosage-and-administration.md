@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+SEROQUEL can be taken with or without food.
+
 ## 2.1 Schizophrenia
 
 Adults
@@ -60,7 +62,7 @@ Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg
 Maintenance Treatment of Bipolar I Disorder
 
 Maintenance of efficacy in bipolar I disorder was demonstrated with SEROQUEL (administered twice daily totaling 400 to 800 mg per day) as adjunct therapy to lithium or divalproex.
-Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized during the stabilization phase [see Clinical Studies(14.2)].
+Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized during the stabilization phase [see Clinical Studies (14.2)].
 
 Children and Adolescents (10 to 17 years)
 
@@ -86,7 +88,7 @@ Consideration should be given to a slower rate of dose titration and a lower tar
 When indicated, dose escalation should be performed with caution in these patients.
 
 Patients with hepatic impairment should be started on 25 mg/day.
-The dose should be increased daily in increments of 25 mg/day — 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
+The dose should be increased daily in increments of 25 mg/day – 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
 
 ## 2.4 Reinitiation of Treatment in Patients Previously Discontinued
 

@@ -34,7 +34,7 @@ Orthostatic hypotension occurred more frequently in adults (4-7%) compared to ch
 
 Schizophrenia
 
-The efficacy and safety of SEROQUEL in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one six week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies(14.1)].
+The efficacy and safety of SEROQUEL in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6–week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 Safety and effectiveness of SEROQUEL in pediatric patients less than 13 years of age with schizophrenia have not been established.
 
@@ -45,8 +45,7 @@ The safety and effectiveness of SEROQUEL in the maintenance treatment of schizop
 
 Bipolar Mania
 
-The efficacy and safety of SEROQUEL in the treatment of mania in children and adolescents ages 10 to 17 years with Bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial.
-[see Indications and Usage (1.2), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of SEROQUEL in the treatment of mania in children and adolescents ages 10 to 17 years with Bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of SEROQUEL in pediatric patients less than 10 years of age with bipolar mania have not been established.
 
