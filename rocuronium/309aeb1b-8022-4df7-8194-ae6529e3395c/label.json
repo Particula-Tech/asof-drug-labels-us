@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA078519"
+  ],
+  "inn": "rocuronium",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-9558-05",
+    "0409-9558-10",
+    "0409-9558-49",
+    "0409-9558-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium Bromide"
+    }
+  ],
+  "setid": "309aeb1b-8022-4df7-8194-ae6529e3395c",
+  "source": "dailymed"
+}
