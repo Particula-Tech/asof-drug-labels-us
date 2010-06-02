@@ -1,0 +1,61 @@
+# ADVERSE REACTIONS
+
+## Adult Patients
+
+UNASYN is generally well tolerated.
+The following adverse reactions have been reported.
+
+### Local Adverse Reactions
+
+Pain at IM injection site – 16%
+
+Pain at IV injection site – 3%
+
+Thrombophlebitis – 3%
+
+### Systemic Adverse Reactions
+
+The most frequently reported adverse reactions were diarrhea in 3% of the patients and rash in less than 2% of the patients.
+
+Additional systemic reactions reported in less than 1% of the patients were: itching, nausea, vomiting, candidiasis, fatigue, malaise, headache, chest pain, flatulence, abdominal distension, glossitis, urine retention, dysuria, edema, facial swelling, erythema, chills, tightness in throat, substernal pain, epistaxis and mucosal bleeding.
+
+## Pediatric Patients
+
+Available safety data for pediatric patients treated with UNASYN demonstrate a similar adverse events profile to those observed in adult patients.
+Additionally, atypical lymphocytosis has been observed in one pediatric patient receiving UNASYN.
+
+### Adverse Laboratory Changes
+
+Adverse laboratory changes without regard to drug relationship that were reported during clinical trials were:
+
+Hepatic: Increased AST (SGOT), ALT (SGPT), alkaline phosphatase, and LDH.
+
+Hematologic: Decreased hemoglobin, hematocrit, RBC, WBC, neutrophils, lymphocytes, platelets and increased lymphocytes, monocytes, basophils, eosinophils, and platelets.
+
+Blood Chemistry: Decreased serum albumin and total proteins.
+
+Renal: Increased BUN and creatinine.
+
+Urinalysis: Presence of RBC's and hyaline casts in urine.
+
+The following adverse reactions have been reported with ampicillin-class antibiotics and can also occur with UNASYN.
+
+### Gastrointestinal
+
+Gastritis, stomatitis, black "hairy" tongue and enterocolitis.
+Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
+(See WARNINGS.)
+
+### Hypersensitivity Reactions
+
+Urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis have been reported.
+These reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
+Whenever such reactions occur, the drug should be discontinued, unless the opinion of the physician dictates otherwise.
+Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur with a penicillin.
+(See WARNINGS.)
+
+### Hematologic
+
+In addition to the adverse laboratory changes listed above for UNASYN, agranulocytosis has been reported during therapy with penicillins.
+All of these reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
+Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibiotics.

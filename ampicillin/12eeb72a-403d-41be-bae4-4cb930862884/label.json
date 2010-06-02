@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050608"
+  ],
+  "inn": "ampicillin",
+  "labeler": "Roerig",
+  "package_ndcs": [
+    "0049-0024-28"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin sodium and sulbactam sodium",
+      "name": "UNASYN"
+    }
+  ],
+  "setid": "12eeb72a-403d-41be-bae4-4cb930862884",
+  "source": "dailymed"
+}
