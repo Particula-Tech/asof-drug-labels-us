@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA050722",
+    "NDA050723"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "labeler": "F. Hoffmann-La Roche Ltd",
+  "package_ndcs": [
+    "12806-0259-1",
+    "12806-0259-4",
+    "12806-0259-5",
+    "12806-0260-1",
+    "12806-0260-4"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "CellCept"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mycophenolate mofetil",
+      "name": "CellCept"
+    }
+  ],
+  "setid": "c2930c05-01ba-49ec-bd00-cdaa8f31169d",
+  "source": "dailymed"
+}
