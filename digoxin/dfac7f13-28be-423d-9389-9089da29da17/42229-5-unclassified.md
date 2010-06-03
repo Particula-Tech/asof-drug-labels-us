@@ -5,4 +5,4 @@ Rx Only
 Distributed By: Global Pharmaceuticals Division of IMPAX Laboratories, Inc. Philadelphia, PA 19124 USA
 
 Rev.
-09/2009 684-04
+03/2010 684-06

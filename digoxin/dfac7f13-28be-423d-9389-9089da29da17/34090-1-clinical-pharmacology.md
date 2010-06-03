@@ -16,25 +16,24 @@ This increase in sympathetic activity may be an important factor in digitalis to
 ### Absorption
 
 Following oral administration, peak serum concentrations of digoxin occur at 1 to 3 hours.
-Absorption of digoxin from digoxin tablets has been demonstrated to be 60% to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability) or digoxin solution in capsules (relative bioavailability).
+Absorption of digoxin from digoxin tablets has been demonstrated to be 60% to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
 When digoxin tablets are taken after meals, the rate of absorption is slowed, but the total amount of digoxin absorbed is usually unchanged.
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
 Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin are shown in Table 1.
 
-Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Oral Preparations of Digoxin
+Table 1.
+Comparisons of the Systemic Availability and Equivalent Doses for Oral Preparations of Digoxin
 
-| Product | Absolute Bioavailability | Equivalent Doses (mcg)For example, 125 mcg digoxin tablets equivalent to 125 mcg digoxin elixir pediatric equivalent to 100 mcg digoxin solution in capsules equivalent to 100 mcg digoxin injection/IV. Among Dosage Forms |  |  |  |
+| Product | Absolute Bioavailability | Equivalent Doses (mcg)For example, 125-mcg digoxin tablets equivalent to 100-mcg digoxin injection/IV. Among Dosage Forms |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Digoxin Tablets | 60 - 80% | 62.5 | 125 | 250 | 500 |
-| Digoxin Elixir Pediatric | 70 - 85% | 62.5 | 125 | 250 | 500 |
-| Digoxin Solution in Capsules | 90 - 100% | 50 | 100 | 200 | 400 |
+| Digoxin Tablets | 60 to 80% | 62.5 | 125 | 250 | 500 |
 | Digoxin Injection/IV | 100% | 50 | 100 | 200 | 400 |
 
 In some patients, orally administered digoxin is converted to inactive reduction products (e.g., dihydrodigoxin) by colonic bacteria in the gut.
-Data suggest that one in ten patients treated with digoxin tablets will degrade 40% or more of the ingested dose.
+Data suggest that 1 in 10 patients treated with digoxin tablets will degrade 40% or more of the ingested dose.
 As a result, certain antibiotics may increase the absorption of digoxin in such patients.
 Although inactivation of these bacteria by antibiotics is rapid, the serum digoxin concentration will rise at a rate consistent with the elimination half-life of digoxin.
-The magnitude of rise in serum digoxin concentration relates to the extent of bacterial inactivation, and may be as much as two-fold in some cases.
+The magnitude of rise in serum digoxin concentration relates to the extent of bacterial inactivation, and may be as much as 2-fold in some cases.
 
 ### Distribution
 
@@ -81,14 +80,13 @@ Plasma digoxin concentration profiles in patients with acute hepatitis generally
 
 The times to onset of pharmacologic effect and to peak effect of preparations of digoxin are shown in Table 2.
 
-Table 2: Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin
+Table 2.
+Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin
 
 | Product | Time to Onset of EffectDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes. | Time to Peak Effect |
 | --- | --- | --- |
-| Digoxin Tablets | 0.5 - 2 hours | 2 - 6 hours |
-| Digoxin Elixir Pediatric | 0.5 - 2 hours | 2 - 6 hours |
-| Digoxin Solution in Capsules | 0.5 - 2 hours | 2 - 6 hours |
-| Digoxin Injection/IV | 5 - 30 minutesDepending upon rate of infusion. | 1 - 4 hours |
+| Digoxin Tablets | 0.5 to 2 hours | 2 to 6 hours |
+| Digoxin Injection/IV | 5 to 30 minutesDepending upon rate of infusion. | 1 to 4 hours |
 
 ### Hemodynamic Effects
 
@@ -104,30 +102,31 @@ Continued treatment with digoxin reduced the risk of developing worsening heart 
 The larger study also showed treatment-related benefits in NYHA class and patients' global assessment.
 In the smaller trial, these trended in favor of a treatment benefit.
 
-The Digitalis Investigation Group (DIG) main trial was a multicenter, randomized, double-blind, placebo-controlled mortality study of 6801 patients with heart failure and left ventricular ejection fraction ≤0.45.
+The Digitalis Investigation Group (DIG) main trial was a multicenter, randomized, double-blind, placebo-controlled mortality study of 6,801 patients with heart failure and left ventricular ejection fraction ≤0.45.
 At randomization, 67% were NYHA class I or II, 71% had heart failure of ischemic etiology, 44% had been receiving digoxin, and most were receiving concomitant ACE inhibitor (94%) and diuretic (82%).
 Patients were randomized to placebo or digoxin, the dose of which was adjusted for the patient's age, sex, lean body weight, and serum creatinine (see DOSAGE AND ADMINISTRATION), and followed for up to 58 months (median 37 months).
 The median daily dose prescribed was 0.25 mg.
 Overall all-cause mortality was 35% with no difference between groups (95% confidence limits for relative risk of 0.91 to 1.07).
-Digoxin was associated with a 25% reduction in the number of hospitalizations for heart failure, a 28% reduction in the risk of a patient having at least one hospitalization for heart failure, and a 6.5% reduction in total hospitalizations (for any cause).
+Digoxin was associated with a 25% reduction in the number of hospitalizations for heart failure, a 28% reduction in the risk of a patient having at least 1 hospitalization for heart failure, and a 6.5% reduction in total hospitalizations (for any cause).
 
 Use of digoxin was associated with a trend to increase time to all-cause death or hospitalization.
 The trend was evident in subgroups of patients with mild heart failure as well as more severe disease, as shown in Table 3.
 Although the effect on all-cause death or hospitalization was not statistically significant, much of the apparent benefit derived from effects on mortality and hospitalization attributed to heart failure.
 
-Table 3: Subgroup Analyses of Mortality and Hospitalization During the First Two Years Following Randomization
+Table 3.
+Subgroup Analyses of Mortality and Hospitalization During the First 2 Years Following Randomization
 
 | Placebo | Digoxin | Relative riskRelative risk (95% confidence interval). | Placebo | Digoxin | Relative risk |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | n | Risk of All-Cause Mortality or All-Cause HospitalizationNumber of patients with an event during the first 2 years per 1000 randomized patients. |  |  | Risk of HF-Related Mortality or HF-Related Hospitalization |  |  |
-| All patients (EF ≤0.45) | 6801 | 604 | 593 | 0.94 (0.88-1.00) | 294 | 217 | 0.69 (0.63-0.76) |
-| NYHA I/II | 4571 | 549 | 541 | 0.96 (0.89-1.04) | 242 | 178 | 0.70 (0.62-0.80) |
-| EF 0.25-0.45 | 4543 | 568 | 571 | 0.99 (0.91-1.07) | 244 | 190 | 0.74 (0.66-0.84) |
-| CTR ≤0.55 | 4455 | 561 | 563 | 0.98 (0.91-1.06) | 239 | 180 | 0.71 (0.63-0.81) |
-| NYHA III/IV | 2224 | 719 | 696 | 0.88 (0.80-0.97) | 402 | 295 | 0.65 (0.57-0.75) |
-| EF <0.25 | 2258 | 677 | 637 | 0.84 (0.76-0.93) | 394 | 270 | 0.61 (0.53-0.71) |
-| CTR >0.55 | 2346 | 687 | 650 | 0.85 (0.77-0.94) | 398 | 287 | 0.65 (0.57-0.75) |
-| EF >0.45DIG Ancillary Study. | 987 | 571 | 585 | 1.04 (0.88-1.23) | 179 | 136 | 0.72 (0.53-0.99) |
+|  | n | Risk of All-Cause Mortality or All-Cause HospitalizationNumber of patients with an event during the first 2 years per 1,000 randomized patients. |  |  | Risk of HF-Related Mortality or HF-Related Hospitalization |  |  |
+| All patients (EF ≤0.45) | 6,801 | 604 | 593 | 0.94 (0.88 to 1.00) | 294 | 217 | 0.69 (0.63 to 0.76) |
+| NYHA I/II | 4,571 | 549 | 541 | 0.96 (0.89 to 1.04) | 242 | 178 | 0.70 (0.62 to 0.80) |
+| EF 0.25 to 0.45 | 4,543 | 568 | 571 | 0.99 (0.91 to 1.07) | 244 | 190 | 0.74 (0.66 to 0.84) |
+| CTR ≤0.55 | 4,455 | 561 | 563 | 0.98 (0.91 to 1.06) | 239 | 180 | 0.71 (0.63 to 0.81) |
+| NYHA III/IV | 2,224 | 719 | 696 | 0.88 (0.80 to 0.97) | 402 | 295 | 0.65 (0.57 to 0.75) |
+| EF <0.25 | 2,258 | 677 | 637 | 0.84 (0.76 to 0.93) | 394 | 270 | 0.61 (0.53 to 0.71) |
+| CTR >0.55 | 2,346 | 687 | 650 | 0.85 (0.77 to 0.94) | 398 | 287 | 0.65 (0.57 to 0.75) |
+| EF >0.45DIG Ancillary Study. | 987 | 571 | 585 | 1.04 (0.88 to 1.23) | 179 | 136 | 0.72 (0.53 to 0.99) |
 
 In situations where there is no statistically significant benefit of treatment evident from a trial's primary endpoint, results pertaining to a secondary endpoint should be interpreted cautiously.
 

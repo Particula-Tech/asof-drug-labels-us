@@ -14,6 +14,6 @@ NDC 0115-9822-01 Bottles of 500.................................................
 NDC 0115-9822-02 Bottles of 1000.................................................................................
 NDC 0115-9822-03
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in tightly-closed, light-resistant container as defined in the USP, with child-resistant closure, as required.
