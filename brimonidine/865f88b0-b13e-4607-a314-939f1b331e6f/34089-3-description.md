@@ -1,10 +1,12 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Brimonidine Tartrate Ophthalmic Solution 0.2% is a relatively selective alpha-2 adrenergic agonist for ophthalmic use.
 In solution, brimonidine tartrate ophthalmic solution 0.2% has a clear, greenish-yellow color.
 It has an osmolality of 280-330 mOsml/kg and a pH of 5.6-6.6 The structural formula is
 
-C11H10BrN5 • C4H6O6 Mol.
+C11H10BrN5 • C4H6O6
+
+Mol.
 Wt.
 442.24 (as the tartrate salt)
 

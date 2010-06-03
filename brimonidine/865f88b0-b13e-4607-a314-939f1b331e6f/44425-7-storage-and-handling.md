@@ -1,9 +1,0 @@
-# STORAGE
-
-Storage: Store between 15° – 25°C (59° – 77°F).
-
-KEEP OUT OF THE REACH OF CHILDREN.
-
-DO NOT USE IF IMPRINTED “Protective Seal” WITH YELLOW IS NOT INTACT.
-
-Rx Only

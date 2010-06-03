@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Brimonidine Tartrate Ophthalmic Solution 0.2% is supplied sterile in a plastic bottle with a controlled drop tip in the following sizes:
 

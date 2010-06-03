@@ -1,12 +1,12 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
-## Mechanism of Action
+## Mechanism of Action:
 
 Brimonidine tartrate ophthalmic solution 0.2% is an alpha adrenergic receptor agonist.
 It has a peak ocular hypotensive effect occurring at two hours post-dosing.
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 After ocular administration of a 0.2% solution, plasma concentrations peaked within 1 to 4 hours and declined with a systemic half-life of approximately 3 hours.
 In humans, systemic metabolism of brimonidine is extensive.
@@ -14,7 +14,7 @@ It is metabolized primarily by the liver.
 Urinary excretion is the major route of elimination of the drug and its metabolites.
 Approximately 87% of an orally administered radioactive dose was eliminated within 120 hours, with 74% found in the urine.
 
-## Clinical Evaluations
+## Clinical Evaluations:
 
 Elevated IOP presents a major risk factor in glaucomatous field loss.
 The higher the level of lOP, the greater the likelihood of optic nerve damage and visual field loss.
