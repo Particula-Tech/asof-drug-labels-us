@@ -16,14 +16,14 @@
    Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria – Sixth Edition; Approved Standard, CLSI Document M11-A6.
    Clinical and Laboratory Standards Institute, Wayne, PA, January 2004.
 
-Manuf for: Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued May 2009
+Issued March 2010
 
-9709707
+9709712
 
-047A-03/09 515045Z
+016A-02/10 515094Z

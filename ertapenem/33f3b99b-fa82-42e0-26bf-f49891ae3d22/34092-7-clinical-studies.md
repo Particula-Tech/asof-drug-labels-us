@@ -32,8 +32,8 @@ The clinical success rates at 10 days posttherapy were 75.0% (153/204) for ertap
 Ertapenem was evaluated in adults for the treatment of community acquired pneumonia in two clinical trials.
 Both studies compared ertapenem (1 g parenterally once a day) with ceftriaxone (1 g parenterally once a day) and enrolled a total of 866 patients.
 Both regimens allowed the option to switch to oral amoxicillin/clavulanate for a total of 10 to 14 days of treatment (parenteral and oral).
-In the first study the primary efficacy parameter was the clinical success rate in the clinically evaluable population and success rates were 92.3% (168/182) for ertapenem and 91.0% (183/201) for ceftriaxone at 7 to 14 days posttherapy (test-of-cure).
-In the second study the primary efficacy parameter was the clinical success rate in the microbiologically evaluable population and success rates were 91% (91/100) for ertapenem and 91.8% (45/49) for ceftriaxone at 7 to 14 days posttherapy (test-of-cure).
+In the first study, the primary efficacy parameter was the clinical success rate in the clinically evaluable population and success rates were 92.3% (168/182) for ertapenem and 91.0% (183/201) for ceftriaxone at 7 to 14 days posttherapy (test-of-cure).
+In the second study, the primary efficacy parameter was the clinical success rate in the microbiologically evaluable population and success rates were 91% (91/100) for ertapenem and 91.8% (45/49) for ceftriaxone at 7 to 14 days posttherapy (test-of-cure).
 
 ### Complicated Urinary Tract Infections Including Pyelonephritis
 
@@ -48,7 +48,7 @@ Ertapenem was evaluated in adults for the treatment of acute pelvic infections i
 This study compared ertapenem (1 g intravenously once a day) with piperacillin/tazobactam (3.375 g intravenously every 6 hours) for 3 to 10 days and enrolled 412 patients including 350 patients with obstetric/postpartum infections and 45 patients with septic abortion.
 The clinical success rates in the clinically evaluable population at 2 to 4 weeks posttherapy (test-of-cure) were 93.9% (153/163) for ertapenem and 91.5% (140/153) for piperacillin/tazobactam.
 
-Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
+### Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
 
 Ertapenem was evaluated in adults for prophylaxis of surgical site infection following elective colorectal surgery in a multicenter, randomized, double-blind clinical trial.
 This study compared a single intravenous dose of ertapenem (1 g) versus cefotetan (2 g) administered over 30 minutes, 1 hour before elective colorectal surgery.

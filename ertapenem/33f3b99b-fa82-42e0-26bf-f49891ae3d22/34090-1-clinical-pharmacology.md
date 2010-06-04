@@ -50,7 +50,7 @@ The apparent volume of distribution at steady state (Vss) of ertapenem in adults
 The concentrations of ertapenem achieved in suction-induced skin blister fluid at each sampling point on the third day of 1 g once daily IV doses are presented in Table 3.
 The ratio of AUC0-24 in skin blister fluid/AUC0-24 in plasma is 0.61.
 
-Table 3: Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1-g Once Daily IV Doses
+Table 3: Concentrations (mcg/mL) of Ertapenem in Adult Skin Blister Fluid at each Sampling Point on the Third Day of 1 g Once Daily IV Doses
 
 | 0.5 hr | 1 hr | 2 hr | 4 hr | 8 hr | 12 hr | 24 hr |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -134,8 +134,7 @@ In Escherichia coli, it has strong affinity toward PBPs 1a, 1b, 2, 3, 4 and 5 wi
 Ertapenem is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.
 Ertapenem is hydrolyzed by metallo-beta-lactamases.
 
-Ertapenem has been shown to be active against most isolates of the following microorganisms in vitro and in clinical infections.
-(See INDICATIONS AND USAGE):
+Ertapenem has been shown to be active against most isolates of the following microorganisms in vitro and in clinical infections (See INDICATIONS AND USAGE.):
 
 ### Aerobic and facultative gram-positive microorganisms:
 
@@ -177,19 +176,19 @@ These reports should aid the physician in selecting the most effective antimicro
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a broth dilution method(1,2) or equivalent with standardized inoculum concentrations and standardized concentrations of ertapenem powder.
+Standardized procedures are based on a broth dilution method (1,2) or equivalent with standardized inoculum concentrations and standardized concentrations of ertapenem powder.
 The MIC values should be interpreted according to criteria provided in Table 4.
 
 #### Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure(2,3) requires the use of standardized inoculum concentrations.
+One such standardized procedure (2,3) requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 10-µg ertapenem to test the susceptibility of microorganisms to ertapenem.
 The disk diffusion interpretive criteria should be interpreted according to criteria provided in Table 4.
 
 #### Anaerobic Techniques:
 
-For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods(4).
+For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods (4).
 The MIC values obtained should be interpreted according to criteria provided in Table 4.
 
 Table 4: Susceptibility Interpretive Criteria for Ertapenem
@@ -236,6 +235,6 @@ Table 5: Acceptable Quality Control Ranges for Ertapenem
 | Staphylococcus aureus ATCC 29213 | 0.06-0.25 | - |
 | Staphylococcus aureus ATCC 25923 | - | 24-31 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03-0.25 | 28-35 |
-| Bacteroides fragilis ATCC 25285 | 0.06-0.5 Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar microdilution testing | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 0.25-1.0 | - |
-| Eubacterium lentum ATCC 43055 | 0.5-4.0 0.5-2.0 | - |
+| Bacteroides fragilis ATCC 25285 | 0.06-0.5Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar microdilution testing | - |
+| Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.00.25-1.0 | - |
+| Eubacterium lentum ATCC 43055 | 0.5-4.00.5-2.0 | - |

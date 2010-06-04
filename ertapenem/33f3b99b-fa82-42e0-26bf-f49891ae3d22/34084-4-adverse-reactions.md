@@ -185,15 +185,17 @@ Skin and Subcutaneous Tissue Disorders: dermatitis atopic, rash erythematous, sk
 
 Vascular Disorders: phlebitis.
 
-## Post-Marketing Experience:
+## Post-Marketing Experience
 
 The following post-marketing adverse experiences have been reported:
 
 Immune System: anaphylaxis including anaphylactoid reactions
 
-Psychiatric Disorders: altered mental status (including aggression, delirium)
+Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
-Nervous System & Psychiatric: dyskinesia, hallucinations, myoclonus, tremor
+Nervous System: dyskinesia, myoclonus, tremor
+
+Skin and Subcutaneous Tissue Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome)
 
 ## Adverse Laboratory Changes
 

@@ -2,7 +2,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 For Intravenous or Intramuscular Use
 
-INSTRUCTIONS FOR USE OF INVANZ®Registered trademark of MERCK & CO., Inc. COPYRIGHT © 2006 MERCK & CO., Inc. All rights reserved
+INSTRUCTIONS FOR USE OF INVANZ®Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
 (Ertapenem for Injection) IN ADD-Vantage® VIALS For I.V.
 Use Only.
@@ -79,14 +79,14 @@ Solutions of INVANZ should not be frozen.
 
 Before administering, see accompanying package circular for INVANZ (Ertapenem for Injection).
 
-Manuf for: Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Manuf for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
 US Patent Nos.: 5,478,820; 5,952,323; 5,652,233
 
-Issued May 2009
+Issued March 2010
 
-9709707
+9709712
 
-047A-03/09 515045Z
+016A-02/10 515094Z

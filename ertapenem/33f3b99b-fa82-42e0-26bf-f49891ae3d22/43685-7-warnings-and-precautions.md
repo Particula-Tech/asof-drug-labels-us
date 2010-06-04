@@ -13,9 +13,12 @@ OTHER THERAPY MAY ALSO BE ADMINISTERED AS INDICATED.
 Seizures and other CNS adverse experiences have been reported during treatment with INVANZ.
 (See PRECAUTIONS and ADVERSE REACTIONS.)
 
-Carbapenems, including ertapenem, may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
-Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop below the therapeutic range or a seizure occurs.
+Case reports in the literature have shown that co-administration of carbapenems, including ertapenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
+The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
+Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
+The concomitant use of ertapenem and valproic acid/divalproex sodium is generally not recommended.
+Anti-bacterials other than carbapenems should be considered to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
+If administration of INVANZ is necessary, supplemental anti-convulsant therapy should be considered.
 (See PRECAUTIONS, Drug Interactions.)
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ertapenem, and may range in severity from mild diarrhea to fatal colitis.
@@ -41,7 +44,7 @@ During clinical investigations in adult patients treated with INVANZ (1 g once a
 These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function.
 Close adherence to the recommended dosage regimen is urged, especially in patients with known factors that predispose to convulsive activity.
 Anticonvulsant therapy should be continued in patients with known seizure disorders.
-If focal tremors, myoclonus, or seizures occur, patients should be evaluated neurologically, placed on anticonvulsant therapy if not already instituted, and the dosage of INVANZ reexamined to determine whether it should be decreased or the antibiotic discontinued.
+If focal tremors, myoclonus, or seizures occur, patients should be evaluated neurologically, placed on anticonvulsant therapy if not already instituted, and the dosage of INVANZ re-examined to determine whether it should be decreased or the antibiotic discontinued.
 Dosage adjustment of INVANZ is recommended in patients with reduced renal function.
 (See DOSAGE AND ADMINISTRATION.)
 
@@ -58,6 +61,10 @@ Lidocaine HCl is the diluent for intramuscular administration of INVANZ.
 Refer to the prescribing information for lidocaine HCl for additional precautions.
 
 ## Information for Patients
+
+Patients should be counseled to inform their physician if they are taking valproic acid or divalproex sodium.
+Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with INVANZ.
+If treatment with INVANZ is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed.
 
 Patients should be counseled that antibacterial drugs including INVANZ should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -86,10 +93,9 @@ Drug interactions caused by inhibition of P-glycoprotein-mediated drug clearance
 
 Other than with probenecid, no specific clinical drug interaction studies have been conducted.
 
-A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics and may result in loss of seizure control.
-Although the mechanism of this interaction is not fully understood, data from in vitro and animal studies suggest that carbapenem antibiotics may inhibit valproic acid glucuronide hydrolysis.
-Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop below the therapeutic range or a seizure occurs.
+Case reports in the literature have shown that co-administration of carbapenems, including ertapenem, to patients receiving valproic acid or divalproex sodium results in a reduction of valproic acid concentrations.
+The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
+Although the mechanism of this interaction is unknown, data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid’s glucuronide metabolite (VPA-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid.
 (See WARNINGS, Seizure Potential.)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility

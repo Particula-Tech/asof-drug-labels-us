@@ -17,7 +17,7 @@ Table 11: Treatment Guidelines for Adults and Pediatric Patients With Normal Ren
 | Infectiondue to the designated pathogens (see INDICATIONS AND USAGE) | Daily Dose (IV or IM) Adults and Pediatric Patients 13 years of age and older | Daily Dose (IV or IM) Pediatric Patients 3 months to 12 years of age | Recommended Duration of Total Antimicrobial Treatment |
 | --- | --- | --- | --- |
 | Complicated intra-abdominal infections | 1 g | 15 mg/kg twice dailynot to exceed 1 g/day | 5 to 14 days |
-| Complicated skin and skin structure infections, including diabetic foot infectionsINVANZ has not been studied in diabetic foot infections with concomitant osteomyelitis (See CLINICAL STUDIES). | 1 g | 15 mg/kg twice daily | 7 to 14 daysadult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) |
+| Complicated skin and skin structure infections, including diabetic foot infectionsINVANZ has not been studied in diabetic foot infections with concomitant osteomyelitis (see CLINICAL STUDIES). | 1 g | 15 mg/kg twice daily | 7 to 14 daysadult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) |
 | Community acquired pneumonia | 1 g | 15 mg/kg twice daily | 10 to 14 daysduration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |
 | Complicated urinary tract infections, including pyelonephritis | 1 g | 15 mg/kg twice daily | 10 to 14 days |
 | Acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections | 1 g | 15 mg/kg twice daily | 3 to 10 days |
@@ -54,7 +54,7 @@ Patients with Hepatic Insufficiency: No dose adjustment recommendations can be m
 (See CLINICAL PHARMACOLOGY, Special Populations, Hepatic Insufficiency and PRECAUTIONS.)
 
 No dosage adjustment is recommended based on age (13 years of age and older) or gender.
-(SeeCLINICAL PHARMACOLOGY, Special Populations.)
+(See CLINICAL PHARMACOLOGY, Special Populations.)
 
 ## PREPARATION OF SOLUTION
 
@@ -107,7 +107,7 @@ INVANZ MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 
-ADD-Vantage®Registered trademark of Hospira Laboratories, Inc Vials
+ADD-Vantage®Registered trademark of Hospira Laboratories, Inc. Vials
 
 See separate INSTRUCTIONS FOR USE OF INVANZ (Ertapenem for Injection) IN ADD-Vantage® VIALS.
 INVANZ in ADD-Vantage® vials should be reconstituted with ADD-Vantage® diluent containers containing 50 mL or 100 mL of 0.9% Sodium Chloride Injection.
