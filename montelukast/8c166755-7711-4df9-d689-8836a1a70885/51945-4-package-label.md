@@ -1,10 +1,18 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - ORAL GRANULES - CARTON - 4 mg
+This is a representative sample of the packaging.
+Please see How Supplied section for a complete list of available packaging.
 
-Singulair® 4 mg (Montelukast Sodium) ORAL GRANULES For Pediatric Patients 6 months to 5 years of age.
+PRINCIPAL DISPLAY PANEL - Oral Granules - Carton 4 mg
+
+Singulair® 4 mg (Montelukast Sodium) ORAL GRANULES
+
+For Pediatric Patients 6 months to 5 years of age.
 
 NDC 0006-3841-30
 
-MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Montelukast Sodium (active ingred.)
+Made in Ireland Formulated in USA
 
 DIRECTIONS FOR USE: See accompanying circular.
 Once opened, use the contents of this packet within 15 minutes (with or without mixing with food).
@@ -12,11 +20,17 @@ Discard any unused portion.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - CHEWABLE TABLETS - BOTTLE LABEL - 4 mg
+PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 4 mg
 
-Singulair® 4 mg (Montelukast Sodium) CHEWABLE TABLETS For Pediatric Patients 2-5 Years of Age
+Singulair® 4 mg (Montelukast Sodium) CHEWABLE TABLETS
 
-Dist. by: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+For Pediatric Patients 2-5 Years of Age
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+
+Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in UK
 
 Phenylketonurics: contains phenylalanine (a component of aspartame) 0.674 mg per 4-mg chewable tablet.
@@ -36,13 +50,19 @@ Keep this and all drugs out of the reach of children
 
 Rx only
 
-9809300 30 | No. 3796
+9917500 30 | No. 3796
 
-# PRINCIPAL DISPLAY PANEL - CHEWABLE TABLETS - BOTTLE LABEL - 5 mg
+PRINCIPAL DISPLAY PANEL - Chewable Tablets - Bottle Label 5 mg
 
-Singulair® 5 mg (Montelukast Sodium) CHEWABLE TABLETS For Pediatric Patients 6-14 Years of Age
+Singulair® 5 mg (Montelukast Sodium) CHEWABLE TABLETS
 
-Dist. by: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+For Pediatric Patients 6-14 Years of Age
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+
+Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in UK
 
 Phenylketonurics: contains phenylalanine (a component of aspartame) 0.842 mg per 5-mg chewable tablet.
@@ -62,13 +82,19 @@ Keep this and all drugs out of the reach of children
 
 Rx only
 
-9808900 30 | No. 3760
+9917000 30 | No. 3760
 
-# PRINCIPAL DISPLAY PANEL - TABLETS - BOTTLE LABEL - 10 mg
+PRINCIPAL DISPLAY PANEL - Tablets - Bottle Label 10 mg
 
-Singulair® 10 mg (Montelukast Sodium) TABLETS For Adults 15 Years of Age and Older
+Singulair® 10 mg (Montelukast Sodium) TABLETS
 
-Dist. by: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+For Adults 15 Years of Age and Older
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+
+Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in UK
 
 Each tablet contains 10.4 mg Montelukast Sodium equivalent to 10 mg Montelukast.
@@ -85,4 +111,4 @@ USUAL DOSAGE: See accompanying circular.
 
 Rx only
 
-9764000 30 | No. 3761
+9916200 30 | No. 3761

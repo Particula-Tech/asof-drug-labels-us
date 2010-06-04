@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 No mortality occurred following single oral doses of montelukast up to 5000 mg/kg in mice (estimated exposure was approximately 335 and 210 times the AUC for adults and children, respectively, at the maximum recommended daily oral dose) and rats (estimated exposure was approximately 230 and 145 times the AUC for adults and children, respectively, at the maximum recommended daily oral dose).
 

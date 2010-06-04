@@ -1,6 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils.
 These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors.
@@ -8,16 +8,24 @@ The CysLT type-1 (CysLT1) receptor is found in the human airway (including airwa
 CysLTs have been correlated with the pathophysiology of asthma and allergic rhinitis.
 In asthma, leukotriene-mediated effects include airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process.
 In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure during both early- and late-phase reactions and are associated with symptoms of allergic rhinitis.
-Intranasal challenge with CysLTs has been shown to increase nasal airway resistance and symptoms of nasal obstruction.
-SINGULAIR has not been assessed in intranasal challenge studies.
-The clinical relevance of intranasal challenge studies is unknown.
 
 Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
 Montelukast inhibits physiologic actions of LTD4 at the CysLT1 receptor without any agonist activity.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-### Absorption
+Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD4 in asthmatics.
+Doses as low as 5 mg cause substantial blockage of LTD4-induced bronchoconstriction.
+In a placebo-controlled, crossover study (n=12), SINGULAIR inhibited early- and late-phase bronchoconstriction due to antigen challenge by 75% and 57%, respectively.
+
+The effect of SINGULAIR on eosinophils in the peripheral blood was examined in clinical trials.
+In patients with asthma aged 2 years and older who received SINGULAIR, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
+In patients with seasonal allergic rhinitis aged 15 years and older who received SINGULAIR, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of SINGULAIR.
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
+
+## 12.3 Pharmacokinetics
+
+Absorption
 
 Montelukast is rapidly absorbed following oral administration.
 After administration of the 10-mg film-coated tablet to fasted adults, the mean peak montelukast plasma concentration (Cmax) is achieved in 3 to 4 hours (Tmax).
@@ -39,24 +47,24 @@ The safety and efficacy of SINGULAIR in patients with seasonal allergic rhinitis
 
 The comparative pharmacokinetics of montelukast when administered as two 5-mg chewable tablets versus one 10-mg film-coated tablet have not been evaluated.
 
-### Distribution
+Distribution
 
 Montelukast is more than 99% bound to plasma proteins.
 The steady state volume of distribution of montelukast averages 8 to 11 liters.
 Studies in rats with radiolabeled montelukast indicate minimal distribution across the blood-brain barrier.
 In addition, concentrations of radiolabeled material at 24 hours postdose were minimal in all other tissues.
 
-### Metabolism
+Metabolism
 
 Montelukast is extensively metabolized.
 In studies with therapeutic doses, plasma concentrations of metabolites of montelukast are undetectable at steady state in adults and pediatric patients.
 
-In vitro studies using human liver microsomes indicate that cytochromes P450 3A4 and 2C9 are involved in the metabolism of montelukast.
-Clinical studies investigating the effect of known inhibitors of cytochromes P450 3A4 (e.g., ketoconazole, erythromycin) or 2C9 (e.g., fluconazole) on montelukast pharmacokinetics have not been conducted.
-Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of montelukast do not inhibit cytochromes P450 3A4, 2C9, 1A2, 2A6, 2C19, or 2D6 (see Drug Interactions).
-In vitro studies have shown that montelukast is a potent inhibitor of cytochrome P450 2C8; however, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) demonstrated that montelukast does not inhibit CYP2C8 in vivo, and therefore is not anticipated to alter the metabolism of drugs metabolized by this enzyme (see Drug Interactions).
+In vitro studies using human liver microsomes indicate that CYP3A4 and 2C9 are involved in the metabolism of montelukast.
+Clinical studies investigating the effect of known inhibitors of CYP3A4 (e.g., ketoconazole, erythromycin) or 2C9 (e.g., fluconazole) on montelukast pharmacokinetics have not been conducted.
+Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of montelukast do not inhibit CYP3A4, 2C9, 1A2, 2A6, 2C19, or 2D6 [see Drug Interactions (7) and Clinical Pharmacology, Drug-Drug Interactions (12.3)].
+In vitro studies have shown that montelukast is a potent inhibitor of CYP2C8; however, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) demonstrated that montelukast does not inhibit CYP2C8 in vivo, and therefore is not anticipated to alter the metabolism of drugs metabolized by this enzyme [see Drug Interactions (7) and Clinical Pharmacology, Drug-Drug Interactions (12.3)].
 
-### Elimination
+Elimination
 
 The plasma clearance of montelukast averages 45 mL/min in healthy adults.
 Following an oral dose of radiolabeled montelukast, 86% of the radioactivity was recovered in 5-day fecal collections and <0.2% was recovered in urine.
@@ -66,37 +74,21 @@ In several studies, the mean plasma half-life of montelukast ranged from 2.7 to 
 The pharmacokinetics of montelukast are nearly linear for oral doses up to 50 mg.
 During once-daily dosing with 10-mg montelukast, there is little accumulation of the parent drug in plasma (14%).
 
-### Special Populations
+Special Populations
 
-#### Gender
-
-The pharmacokinetics of montelukast are similar in males and females.
-
-#### Elderly
-
-The pharmacokinetic profile and the oral bioavailability of a single 10-mg oral dose of montelukast are similar in elderly and younger adults.
-The plasma half-life of montelukast is slightly longer in the elderly.
-No dosage adjustment in the elderly is required.
-
-#### Race
-
-Pharmacokinetic differences due to race have not been studied.
-
-#### Hepatic Insufficiency
-
-Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast area under the plasma concentration curve (AUC) following a single 10-mg dose.
+Hepatic Insufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
 The elimination of montelukast was slightly prolonged compared with that in healthy subjects (mean half-life, 7.4 hours).
 No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency.
 The pharmacokinetics of SINGULAIR in patients with more severe hepatic impairment or with hepatitis have not been evaluated.
 
-#### Renal Insufficiency
-
-Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
+Renal Insufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
 No dosage adjustment is recommended in these patients.
 
-#### Adolescents and Pediatric Patients
+Gender: The pharmacokinetics of montelukast are similar in males and females.
 
-Pharmacokinetic studies evaluated the systemic exposure of the 4-mg oral granule formulation in pediatric patients 6 to 23 months of age, the 4-mg chewable tablets in pediatric patients 2 to 5 years of age, the 5-mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
+Race: Pharmacokinetic differences due to race have not been studied.
+
+Adolescents and Pediatric Patients: Pharmacokinetic studies evaluated the systemic exposure of the 4-mg oral granule formulation in pediatric patients 6 to 23 months of age, the 4-mg chewable tablets in pediatric patients 2 to 5 years of age, the 5-mg chewable tablets in pediatric patients 6 to 14 years of age, and the 10-mg film-coated tablets in young adults and adolescents ≥15 years of age.
 
 The plasma concentration profile of montelukast following administration of the 10-mg film-coated tablet is similar in adolescents ≥15 years of age and young adults.
 The 10-mg film-coated tablet is recommended for use in patients ≥15 years of age.
@@ -108,228 +100,29 @@ In children 6 to 11 months of age, the systemic exposure to montelukast and the 
 Based on population analyses, the mean AUC (4296 ng•hr/mL [range 1200 to 7153]) was 60% higher and the mean Cmax (667 ng/mL [range 201 to 1058]) was 89% higher than those observed in adults (mean AUC 2689 ng•hr/mL [range 1521 to 4595]) and mean Cmax (353 ng/mL [range 180 to 548]).
 The systemic exposure in children 12 to 23 months of age was less variable, but was still higher than that observed in adults.
 The mean AUC (3574 ng•hr/mL [range 2229 to 5408]) was 33% higher and the mean Cmax (562 ng/mL [range 296 to 814]) was 60% higher than those observed in adults.
-Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above (see ADVERSE REACTIONS).
+Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above [see Adverse Reactions (6.1)].
 The 4-mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
 Since the 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet, it can also be used as an alternative formulation to the 4-mg chewable tablet in pediatric patients 2 to 5 years of age.
 
-## Drug Interactions
+Drug-Drug Interactions
 
-Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state:
+Theophylline, Prednisone, and Prednisolone: SINGULAIR has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions.
+In drug-interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: theophylline, prednisone, and prednisolone.
 
-- did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline (predominantly a cytochrome P450 1A2 substrate).
-- did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP 2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the INR (International Normalized Ratio).
-- did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin.
-- did not change the plasma concentration profile of terfenadine (a substrate of CYP 3A4) or fexofenadine, its carboxylated metabolite, and did not prolong the QTc interval following co-administration with terfenadine 60 mg twice daily.
+Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state, did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline [predominantly a cytochrome P450 (CYP) 1A2 substrate].
+Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state, did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.
 
-Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state:
+Oral Contraceptives, Terfenadine, Digoxin, and Warfarin: In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin.
+Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.
+Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state did not change the plasma concentration profile of terfenadine (a substrate of CYP3A4) or fexofenadine, the carboxylated metabolite, and did not prolong the QTc interval following co-administration with terfenadine 60 mg twice daily; did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin; did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the International Normalized Ratio (INR).
 
-- did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.
-- did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.
+Thyroid Hormones, Sedative Hypnotics, Non-Steroidal Anti-Inflammatory Agents, Benzodiazepines, and Decongestants: Although additional specific interaction studies were not performed, SINGULAIR was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions.
+These medications included thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, and decongestants.
 
-Phenobarbital, which induces hepatic metabolism, decreased the AUC of montelukast approximately 40% following a single 10-mg dose of montelukast.
+Cytochrome P450 (CYP) Enzyme Inducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
 No dosage adjustment for SINGULAIR is recommended.
-It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as phenobarbital or rifampin, are co-administered with SINGULAIR.
+It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with SINGULAIR.
 
-Montelukast is a potent inhibitor of P450 2C8 in vitro.
+Montelukast is a potent inhibitor of CYP2C8 in vitro.
 However, data from a clinical drug-drug interaction study involving montelukast and rosiglitazone (a probe substrate representative of drugs primarily metabolized by CYP2C8) in 12 healthy individuals demonstrated that the pharmacokinetics of rosiglitazone are not altered when the drugs are coadministered, indicating that montelukast does not inhibit CYP2C8 in vivo.
-Therefore, montelukast is not anticipated to alter the metabolism of drugs metabolized by this enzyme (e.g., paclitaxel, rosiglitazone, and repaglinide.)
-
-## Pharmacodynamics
-
-Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD4 in asthmatics.
-Doses as low as 5 mg cause substantial blockage of LTD4-induced bronchoconstriction.
-In a placebo-controlled, crossover study (n=12), SINGULAIR inhibited early- and late-phase bronchoconstriction due to antigen challenge by 75% and 57%, respectively.
-
-The effect of SINGULAIR on eosinophils in the peripheral blood was examined in clinical trials.
-In patients with asthma aged 2 years and older who received SINGULAIR, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
-In patients with seasonal allergic rhinitis aged 15 years and older who received SINGULAIR, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of SINGULAIR.
-The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known (see CLINICAL PHARMACOLOGY, Clinical Studies).
-
-## Clinical Studies
-
-### GENERAL
-
-There have been no clinical trials in asthmatics to evaluate the relative efficacy of morning versus evening dosing.
-The pharmacokinetics of montelukast are similar whether dosed in the morning or evening.
-Efficacy has been demonstrated for asthma when montelukast was administered in the evening without regard to time of food ingestion.
-Efficacy was demonstrated for seasonal allergic rhinitis when montelukast was administered in the morning or the evening without regard to time of food ingestion.
-
-## Clinical Studies – Asthma
-
-### ADULTS AND ADOLESCENTS 15 YEARS OF AGE AND OLDER
-
-Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
-This was shown in two chronic asthma trials using doses up to 200 mg once daily and in one exercise challenge study using doses up to 50 mg, evaluated at the end of the once-daily dosing interval.
-
-The efficacy of SINGULAIR for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1576 patients (795 treated with SINGULAIR, 530 treated with placebo, and 251 treated with active control).
-The patients studied were mild and moderate, non-smoking asthmatics who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.
-The patients had a mean baseline percent of predicted forced expiratory volume in 1 second (FEV1) of 66% (approximate range, 40 to 90%).
-The co-primary endpoints in these trials were FEV1 and daytime asthma symptoms.
-Secondary endpoints included morning and evening peak expiratory flow rates (AM PEFR, PM PEFR), rescue β-agonist requirements, nocturnal awakening due to asthma, and other asthma-related outcomes.
-In both studies after 12 weeks, a random subset of patients receiving SINGULAIR was switched to placebo for an additional 3 weeks of double-blind treatment to evaluate for possible rebound effects.
-The results of the U.S. trial on the primary endpoint, FEV1, expressed as mean percent change from baseline, are shown in FIGURE 1.
-
-The effect of SINGULAIR on other primary and secondary endpoints is shown in TABLE 1 as combined analyses of the U.S. and Multinational trials.
-
-TABLE 1: Effect of SINGULAIR on Primary and Secondary Endpoints in Placebo-controlled Trials (Combined Analyses - U.S. and Multinational Trials)
-
-| Endpoint | Baseline | Mean Change from Baseline | Baseline | Mean Change from Baseline |
-| --- | --- | --- | --- | --- |
-|  | SINGULAIR |  | Placebo |  |
-| Daytime Asthma Symptoms (0 to 6 scale) | 2.43 | -0.45p<0.001, compared with placebo | 2.45 | -0.22 |
-| β-agonist (puffs per day) | 5.38 | -1.56 | 5.55 | -0.41 |
-| AM PEFR (L/min) | 361.3 | 24.5 | 364.9 | 3.3 |
-| PM PEFR (L/min) | 385.2 | 17.9 | 389.3 | 2.0 |
-| Nocturnal Awakenings (#/week) | 5.37 | -1.84 | 5.44 | -0.79 |
-
-In adult patients, SINGULAIR reduced “as-needed” β-agonist use by 26.1% from baseline compared with 4.6% for placebo.
-In patients with nocturnal awakenings of at least 2 nights per week, SINGULAIR reduced the nocturnal awakenings by 34% from baseline, compared with 15% for placebo (combined analysis).
-
-SINGULAIR, compared with placebo, significantly improved other protocol-defined, asthma-related outcome measurements (see TABLE 2).
-
-TABLE 2: Effect of SINGULAIR on Asthma-Related Outcome Measurements (Combined Analyses - U.S. and Multinational Trials)
-
-|  | SINGULAIR | Placebo |
-| --- | --- | --- |
-| Asthma AttackAsthma Attack defined as utilization of health-care resources such as an unscheduled visit to a doctor's office, emergency room, or hospital; or treatment with oral, intravenous, or intramuscular corticosteroid. (% of patients) | 11.6 p<0.001, compared with placebo | 18.4 |
-| Oral Corticosteroid Rescue (% of patients) | 10.7 | 17.5 |
-| Discontinuation Due to Asthma (% of patients) | 1.4p<0.01, compared with placebo | 4.0 |
-| Asthma ExacerbationsAsthma Exacerbation defined by specific clinically important decreases in PEFR, increase in β-agonist use, increases in day or nighttime symptoms, or the occurrence of an asthma attack. (% of days) | 12.8 | 20.5 |
-| Asthma Control DaysAn Asthma Control Day defined as a day without any of the following: nocturnal awakening, use of more than 2 puffs of β-agonist, or an asthma attack. (% of days) | 38.5 | 27.2 |
-| Physicians’ Global Evaluation (score)Physicians’ evaluation of the patient’s asthma, ranging from 0 to 6 (“very much better” through “very much worse”, respectively). | 1.77 | 2.43 |
-| Patients’ Global Evaluation (score)Patients’ evaluation of asthma, ranging from 0 to 6 (“very much better” through “very much worse”, respectively). | 1.60 | 2.15 |
-
-In one of these trials, a non-U.S. formulation of inhaled beclomethasone dipropionate dosed at 200 mcg (two puffs of 100 mcg ex-valve) twice daily with a spacer device was included as an active control.
-Over the 12-week treatment period, the mean percentage change in FEV1 over baseline for SINGULAIR and beclomethasone were 7.49% vs 13.3% (p<0.001) respectively, see FIGURE 2; and the change in daytime symptom scores was -0.49 vs -0.70 on a 0 to 6 scale (p<0.001) for SINGULAIR and beclomethasone, respectively.
-The percentages of individual patients treated with SINGULAIR or beclomethasone achieving any given percentage change in FEV1 from baseline are shown in FIGURE 3.
-
-#### Onset of Action and Maintenance of Benefits
-
-In each placebo-controlled trial in adults, the treatment effect of SINGULAIR, measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
-No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year.
-Withdrawal of SINGULAIR in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
-
-### PEDIATRIC PATIENTS 6 TO 14 YEARS OF AGE
-
-The efficacy of SINGULAIR in pediatric patients 6 to 14 years of age was demonstrated in one 8-week, double-blind, placebo-controlled trial in 336 patients (201 treated with SINGULAIR and 135 treated with placebo) using an inhaled β-agonist on an “as-needed” basis.
-The patients had a mean baseline percent predicted FEV1 of 72% (approximate range, 45 to 90%) and a mean daily inhaled β-agonist requirement of 3.4 puffs of albuterol.
-Approximately 36% of the patients were on inhaled corticosteroids.
-
-Compared with placebo, treatment with one 5-mg SINGULAIR chewable tablet daily resulted in a significant improvement in mean morning FEV1 percent change from baseline (8.7% in the group treated with SINGULAIR vs 4.2% change from baseline in the placebo group, p<0.001).
-There was a significant decrease in the mean percentage change in daily “as-needed” inhaled β-agonist use (11.7% decrease from baseline in the group treated with SINGULAIR vs 8.2% increase from baseline in the placebo group, p<0.05).
-This effect represents a mean decrease from baseline of 0.56 and 0.23 puffs per day for the montelukast and placebo groups, respectively.
-Subgroup analyses indicated that younger pediatric patients aged 6 to 11 had efficacy results comparable to those of the older pediatric patients aged 12 to 14.
-
-SINGULAIR, one 5-mg chewable tablet daily at bedtime, significantly decreased the percent of days asthma exacerbations occurred (SINGULAIR 20.6% vs placebo 25.7%, p≤0.05).
-(See TABLE 2 for definition of asthma exacerbation.)
-Parents’ global asthma evaluations (parental evaluations of the patients’ asthma, see TABLE 2 for definition of score) were significantly better with SINGULAIR compared with placebo (SINGULAIR 1.34 vs placebo 1.69, p≤0.05).
-
-Similar to the adult studies, no significant change in the treatment effect was observed during continuous once-daily administration in one open-label extension trial without a concurrent placebo group for up to 6 months.
-
-### PEDIATRIC PATIENTS 2 TO 5 YEARS OF AGE
-
-The efficacy of SINGULAIR for the chronic treatment of asthma in pediatric patients 2 to 5 years of age was explored in a 12-week, placebo-controlled safety and tolerability study in 689 patients, 461 of whom were treated with SINGULAIR.
-While the primary objective was to determine the safety and tolerability of SINGULAIR in this age group, the study included exploratory efficacy evaluations, including daytime and overnight asthma symptom scores, β-agonist use, oral corticosteroid rescue, and the physician’s global evaluation.
-The findings of these exploratory efficacy evaluations, along with pharmacokinetics and extrapolation of efficacy data from older patients, support the overall conclusion that SINGULAIR is efficacious in the maintenance treatment of asthma in patients 2 to 5 years of age.
-
-### EFFECTS IN PATIENTS ON CONCOMITANT INHALED CORTICOSTEROIDS
-
-Separate trials in adults evaluated the ability of SINGULAIR to add to the clinical effect of inhaled corticosteroids and to allow inhaled corticosteroid tapering when used concomitantly.
-
-One randomized, placebo-controlled, parallel-group trial (n=226) enrolled stable asthmatic adults with a mean FEV1 of approximately 84% of predicted who were previously maintained on various inhaled corticosteroids (delivered by metered-dose aerosol or dry powder inhalers).
-The types of inhaled corticosteroids and their mean baseline requirements included beclomethasone dipropionate (mean dose, 1203 mcg/day), triamcinolone acetonide (mean dose, 2004 mcg/day), flunisolide (mean dose, 1971 mcg/day), fluticasone propionate (mean dose, 1083 mcg/day), or budesonide (mean dose, 1192 mcg/day).
-Some of these inhaled corticosteroids were non-U.S.-approved formulations, and doses expressed may not be ex-actuator.
-The pre-study inhaled corticosteroid requirements were reduced by approximately 37% during a 5- to 7-week placebo run-in period designed to titrate patients toward their lowest effective inhaled corticosteroid dose.
-Treatment with SINGULAIR resulted in a further 47% reduction in mean inhaled corticosteroid dose compared with a mean reduction of 30% in the placebo group over the 12-week active treatment period (p≤0.05).
-Approximately 40% of the montelukast-treated patients and 29% of the placebo-treated patients could be tapered off inhaled corticosteroids and remained off inhaled corticosteroids at the conclusion of the study (p=NS).
-It is not known whether the results of this study can be generalized to asthmatics who require higher doses of inhaled corticosteroids or systemic corticosteroids.
-
-In another randomized, placebo-controlled, parallel-group trial (n=642) in a similar population of adult patients previously maintained, but not adequately controlled, on inhaled corticosteroids (beclomethasone 336 mcg/day), the addition of SINGULAIR to beclomethasone resulted in statistically significant improvements in FEV1 compared with those patients who were continued on beclomethasone alone or those patients who were withdrawn from beclomethasone and treated with montelukast or placebo alone over the last 10 weeks of the 16-week, blinded treatment period.
-Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to SINGULAIR alone or placebo alone as indicated by FEV1, daytime asthma symptoms, PEFR, nocturnal awakenings due to asthma, and “as-needed” β-agonist requirements.
-
-In adult asthmatic patients with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that SINGULAIR, compared with placebo, resulted in significant improvement in parameters of asthma control.
-The magnitude of effect of SINGULAIR in aspirin-sensitive patients was similar to the effect observed in the general population of asthmatic patients studied.
-The effect of SINGULAIR on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated (see PRECAUTIONS, General).
-
-## Clinical Studies – Exercise-Induced Bronchoconstriction
-
-### SINGLE-DOSE ADMINISTRATION (ADULTS AND ADOLESCENTS)
-
-The efficacy of SINGULAIR, 10 mg, when given as a single dose 2 hours before exercise for the prevention of exercise-induced bronchoconstriction (EIB) was investigated in three (U.S. and Multinational), randomized, double-blind, placebo-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with exercise-induced bronchoconstriction.
-Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (SINGULAIR 10 mg or placebo).
-The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge in all three studies (Study A, Study B, and Study C). In Study A, a single dose of SINGULAIR 10 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise.
-Some patients were protected from exercise-induced bronchoconstriction at 8.5 and 24 hours after administration; however, some patients were not.
-The results for the mean maximum percent fall at each timepoint in Study A are shown in the TABLE 3 below and are representative of the results from the other two studies.
-
-TABLE 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47)
-
-|  | SINGULAIR | Placebo |  |
-| --- | --- | --- | --- |
-| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1Least squares-mean |  | Treatment difference % for SINGULAIR versus Placebo (95%CI) |
-| 2 hours | 13 | 22 | -9 (-12, -5) |
-| 8.5 hours | 12 | 17 | -5 (-9, -2) |
-| 24 hours | 10 | 14 | -4 (-7, -1) |
-
-### CHRONIC ADMINISTRATION (ADULTS AND PEDIATRIC PATIENTS)
-
-In a 12-week, randomized, double-blind, parallel group study of 110 adult and adolescent asthmatics 15 years of age and older, with a mean baseline FEV1 percent of predicted of 83% and with documented exercise-induced exacerbation of asthma, treatment with SINGULAIR, 10 mg, once daily in the evening, resulted in a statistically significant reduction in mean maximal percent fall in FEV1 and mean time to recovery to within 5% of the pre-exercise FEV1.
-Exercise challenge was conducted at the end of the dosing interval (i.e., 20 to 24 hours after the preceding dose).
-This effect was maintained throughout the 12-week treatment period indicating that tolerance did not occur.
-SINGULAIR did not, however, prevent clinically significant deterioration in maximal percent fall in FEV1 after exercise (i.e., ≥20% decrease from pre-exercise baseline) in 52% of patients studied.
-In a separate crossover study in adults, a similar effect was observed after two once-daily 10-mg doses of SINGULAIR.
-
-In pediatric patients 6 to 14 years of age, using the 5-mg chewable tablet, a 2-day crossover study demonstrated effects similar to those observed in adults when exercise challenge was conducted at the end of the dosing interval (i.e., 20 to 24 hours after the preceding dose).
-
-Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of exercise-induced bronchoconstriction.
-
-## Clinical Studies – Growth Rate in Pediatric Patients
-
-A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of SINGULAIR on growth rate in 360 patients with mild asthma, aged 6 to 8 years.
-Treatment groups included SINGULAIR 5 mg once daily, placebo, and beclomethasone dipropionate administered as 168 mcg twice daily with a spacer device.
-For each subject, a growth rate was defined as the slope of a linear regression line fit to the height measurements over 56 weeks.
-The primary comparison was the difference in growth rates between SINGULAIR and placebo groups.
-Growth rates, expressed as least-squares (LS) mean (95% CI) in cm/year, for the SINGULAIR, placebo, and beclomethasone treatment groups were 5.67 (5.46, 5.88), 5.64 (5.42, 5.86), and 4.86 (4.64, 5.08), respectively.
-The differences in growth rates, expressed as least squares (LS) mean (95% CI) in cm/year, for SINGULAIR minus placebo, beclomethasone minus placebo, and SINGULAIR minus beclomethasone treatment groups were 0.03 (-0.26, 0.31), -0.78 (-1.06, -0.49); and 0.81 (0.53, 1.09), respectively.
-Growth rate (expressed as mean change in height over time) for each treatment group is shown in Figure 4.
-
-## Clinical Studies – Seasonal Allergic Rhinitis
-
-The efficacy of SINGULAIR tablets for the treatment of seasonal allergic rhinitis was investigated in 5 similarly designed, randomized, double-blind, parallel-group, placebo- and active-controlled (loratadine) trials conducted in North America.
-The 5 trials enrolled a total of 5029 patients, of whom 1799 were treated with SINGULAIR tablets.
-Patients were 15 to 82 years of age with a history of seasonal allergic rhinitis, a positive skin test to at least one relevant seasonal allergen, and active symptoms of seasonal allergic rhinitis at study entry.
-
-The period of randomized treatment was 2 weeks in 4 trials and 4 weeks in one trial.
-The primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing) as assessed by patients on a 0-3 categorical scale.
-
-Four of the five trials showed a significant reduction in daytime nasal symptoms scores with SINGULAIR 10-mg tablets compared with placebo.
-The efficacy results of one trial are shown below; the remaining three trials that demonstrated efficacy showed similar results.
-The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received SINGULAIR tablets, loratadine and placebo are shown in TABLE 4.
-
-TABLE 4: Effects of SINGULAIR on Daytime Nasal Symptoms ScoreAverage of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis
-
-| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
-| --- | --- | --- | --- |
-| SINGULAIR 10 mg (344) | 2.09 | -0.39 | -0.13Statistically different from placebo (p≤0.001). (-0.21, -0.06) |
-| Placebo (351) | 2.10 | -0.26 | N.A. |
-| Active ControlThe study was not designed for statistical comparison between SINGULAIR and the active control (loratadine). (Loratadine 10 mg) (599) | 2.06 | -0.46 | -0.24 (-0.31, -0.17) |
-
-## Clinical Studies – Perennial Allergic Rhinitis
-
-The efficacy of SINGULAIR tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized, double-blind, placebo-controlled studies conducted in North America and Europe.
-The two studies enrolled a total of 3357 patients, of whom 1632 received SINGULAIR 10-mg tablets.
-Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen (dust mites, animal dander, and/or mold spores), who had active symptoms at the time of study entry, were enrolled.
-
-In the study in which efficacy was demonstrated, SINGULAIR 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 5); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
-
-TABLE 5: Effects of SINGULAIR on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis
-
-| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
-| --- | --- | --- | --- |
-| SINGULAIR 10 mg (1000) | 2.09 | -0.42 | -0.08Statistically different from placebo (p≤0.001). (-0.12, -0.04) |
-| Placebo (980) | 2.10 | -0.35 | N.A. |
-
-The other 6-week study evaluated SINGULAIR 10 mg (n=626), placebo (n=609), and an active-control (cetirizine 10 mg; n=120).
-The primary analysis compared the mean change from baseline in daytime nasal symptoms score for SINGULAIR vs. placebo over the first 4 weeks of treatment; the study was not designed for statistical comparison between SINGULAIR and the active-control.
-The primary outcome variable included nasal itching in addition to nasal congestion, rhinorrhea, and sneezing.
-The estimated difference between SINGULAIR and placebo was -0.04 with a 95% CI of (-0.09, 0.01).
-The estimated difference between the active-control and placebo was -0.10 with a 95% CI of (-0.19, -0.01).
+Therefore, montelukast is not anticipated to alter the metabolism of drugs metabolized by this enzyme (e.g., paclitaxel, rosiglitazone, and repaglinide).
