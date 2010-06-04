@@ -207,4 +207,4 @@ Skin and subcutaneous tissue disorders – Angioedema.
 
 ## 6.3 Adverse Reactions Reported With Other SNRIs
 
-Although the following are not considered adverse reactions for desvenlafaxine succinate, they are adverse reactions for other SNRIs and may also occur with desvenlafaxine succinate: gastrointestinal bleeding, hallucinations, and photosensitivity reactions.
+Although the following are not considered adverse reactions for PRISTIQ, they are adverse reactions for other SNRIs and may also occur with PRISTIQ: gastrointestinal bleeding, hallucinations, photosensitivity reactions and severe cutaneous reactions (such as Stevens-Johnson Syndrome, toxic epidermal necrolysis, and/or erythema multiforme).
