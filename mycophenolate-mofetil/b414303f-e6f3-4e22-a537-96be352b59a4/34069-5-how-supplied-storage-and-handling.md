@@ -20,6 +20,15 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Maalox® is a registered trademark of Novartis Consumer Health, Inc.
 
+Manufactured In Israel By:
+
+TEVA PHARMACEUTICAL IND.
+LTD.
+
+Jerusalem, 91010, Israel
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960

@@ -291,6 +291,15 @@ Questran Light® and Questran® are registered trademarks of Par Pharmaceutical,
 
 Prevalite® is a registered trademark of Upsher-Smith Laboratories Inc.
 
+Manufactured In Israel By:
+
+TEVA PHARMACEUTICAL IND.
+LTD.
+
+Jerusalem, 91010, Israel
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
