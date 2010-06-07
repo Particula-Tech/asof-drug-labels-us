@@ -7,8 +7,8 @@ Read the Medication Guide that comes with DaytranaTM before you or your child st
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with DaytranaTM.
 
-| What is the most important information I should know about DaytranaTM? Daytrana™ is a stimulant medicine. The following have been reported with use of DaytranaTM (methylphenidate transdermal system) or other stimulant medicines: 1. Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting DaytranaTM. Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with DaytranaTM. Remove patch immediately and call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while using DaytranaTM. 2. Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child has, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child has any new or worsening mental symptoms or problems while using DaytranaTM, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |  |
-| --- | --- |
+| What is the most important information I should know about DaytranaTM? Daytrana™ is a stimulant medicine. The following have been reported with use of DaytranaTM (methylphenidate transdermal system) or other stimulant medicines: 1. Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting DaytranaTM. Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with DaytranaTM. Remove patch immediately and call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while using DaytranaTM. 2. Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child has, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child has any new or worsening mental symptoms or problems while using DaytranaTM, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| --- |
 
 What Is DaytranaTM?
 
@@ -37,7 +37,6 @@ DaytranaTM should not be used if you or your child:
 
 - is very anxious, tense, or agitated
 - has an eye problem called glaucoma
-
 - has tics or Tourette's syndrome, or a family history of Tourette's syndrome.
   Tics are hard to control repeated movements or sounds.
 - is taking or has taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
@@ -80,22 +79,19 @@ Do not start any new medicine while using DaytranaTM without talking to your doc
 
 How should DaytranaTM be used?
 
-| Do not use hair dryers, heating pads, electric blankets, heated water beds or other heat sources while wearing a DaytranaTM patch. Too much medicine can pass into your or your child's body and cause serious side effects. |  |
-| --- | --- |
+| Do not use hair dryers, heating pads, electric blankets, heated water beds or other heat sources while wearing a DaytranaTM patch. Too much medicine can pass into your or your child's body and cause serious side effects. |
+| --- |
 
 See the complete instructions for applying DaytranaTM at the end of this Medication Guide.
 
-Use DaytranaTM exactly as prescribed.
-DaytranaTM comes in four different size (strength) patches.
-Your doctor may adjust the dose until it is right for you or your child.
-
-From time to time, your doctor may stop DaytranaTM treatment for a while to check ADHD symptoms.
-
-Your doctor may do regular checks of the blood, heart, and blood pressure while using DaytranaTM.
-Children should have their height and weight checked often while using DaytranaTM.
-DaytranaTM treatment may be stopped if a problem is found during these check-ups.
-
-If you or your child uses too much DaytranaTM or overdoses, remove all patches and call your doctor or poison control center right away or get emergency treatment.
+- Use DaytranaTM exactly as prescribed.
+  DaytranaTM comes in four different size (strength) patches.
+  Your doctor may adjust the dose until it is right for you or your child.
+- From time to time, your doctor may stop DaytranaTM treatment for a while to check ADHD symptoms.
+- Your doctor may do regular checks of the blood, heart, and blood pressure while using DaytranaTM.
+  Children should have their height and weight checked often while using DaytranaTM.
+  DaytranaTM treatment may be stopped if a problem is found during these check-ups.
+- If you or your child uses too much DaytranaTM or overdoses, remove all patches and call your doctor or poison control center right away or get emergency treatment.
 
 What are possible side effects of DaytranaTM?
 
@@ -128,7 +124,7 @@ Ask your doctor or pharmacist for more information.
 How should I store DaytranaTM?
 
 - Store DaytranaTM in a safe place at room temperature, 59 to 86° F (15 to 30° C). Keep DaytranaTM patches in their unopened pouches until ready to use.
-- Once a tray of patches has been opened, use or discard the patches within 2 months.
+- Once the sealed tray or outer pouch has been opened, use or discard the patches within 2 months.
 - Do not store Daytrana™ in the refrigerator or freezer.
 - Keep DaytranaTM and all medicines out of the reach of children.
 
@@ -168,16 +164,16 @@ To use the administration chart, follow these instructions:
 
 Timetable for 9-Hour DaytranaTM Application and Removal
 
-| If you applied the patch at: | Remove the patch at: |  |  |
-| --- | --- | --- | --- |
-| 5:00 a.m. | 2:00 p.m. |  |  |
-| 6:00 a.m. | 3:00 p.m. |  |  |
-| 7:00 a.m. | 4:00 p.m. |  |  |
-| 8:00 a.m. | 5:00 p.m. |  |  |
-| 9:00 a.m. | 6:00 p.m. |  |  |
-| 10:00 a.m. | 7:00 p.m. |  |  |
-| 11:00 a.m. | 8:00 p.m. |  |  |
-| 12:00 p.m. | 9:00 p.m. |  |  |
+| If you applied the patch at: | Remove the patch at: |
+| --- | --- |
+| 5:00 a.m. | 2:00 p.m. |
+| 6:00 a.m. | 3:00 p.m. |
+| 7:00 a.m. | 4:00 p.m. |
+| 8:00 a.m. | 5:00 p.m. |
+| 9:00 a.m. | 6:00 p.m. |
+| 10:00 a.m. | 7:00 p.m. |
+| 11:00 a.m. | 8:00 p.m. |
+| 12:00 p.m. | 9:00 p.m. |
 
 2.
 WHERE TO APPLY DAYTRANATM
@@ -209,13 +205,13 @@ Make sure the child's skin is:
 4.
 HOW TO APPLY DAYTRANATM
 
-- Open the tray containing DaytranaTM and discard the small packet (drying agent) included in the tray.
+- Open the sealed tray or outer pouch and discard the small packet (drying agent).
 - Each patch is sealed in its own protective pouch.
 - Carefully cut the protective pouch open with scissors, being careful not to cut the patch.
   Do not use patches that have been cut or damaged in any way.
-- Remove the patch from the pouch.
+- Remove the patch from the protective pouch.
 
-- Apply the patch right away after removing from pouch.
+- Apply the patch right away after removing from protective pouch.
 - Hold the patch with the rigid protective liner facing you - the word Daytrana™ will appear backwards.
 - Gently bend the patch along the faint line and slowly peel half the liner, which covers the sticky surface of the patch.
 - Avoid touching the sticky side of the patch with your fingers.
@@ -230,32 +226,26 @@ HOW TO APPLY DAYTRANATM
 - Avoid touching the sticky side of the patch with your fingers.
 - If you do touch the sticky side of the patch, wash your hands immediately after application.
 
-Press the entire patch firmly into place with the palm of your hand over the patch, for about 30 seconds.
-
-Make sure that the patch firmly sticks to the child's skin.
-
-Go over the edges with your fingers to assure good contact around the patch.
-
-Wash your hands after applying the patch.
-
-After the patch is applied, record the time on the administration chart on each carton, and use the timetable to calculate what time the patch should be removed.
+- Press the entire patch firmly into place with the palm of your hand over the patch, for about 30 seconds.
+- Make sure that the patch firmly sticks to the child's skin.
+- Go over the edges with your fingers to assure good contact around the patch.
+- Wash your hands after applying the patch.
+- After the patch is applied, record the time on the administration chart on each carton, and use the timetable to calculate what time the patch should be removed.
 
 PLEASE NOTE:
 
-Contact with water while bathing, swimming, or showering can make the patch not stick well or make it fall off.
-If a patch falls off, do not touch the sticky side of the patch with your fingers.
-A new patch may be applied to a different area of the same hip.
-Patches that fall off should not be re-applied.
-Do not use bandages, tape, or other household adhesives (glue) to hold the patch on the skin.
-If a new patch is applied, remove it 9 hours after the first patch for that day was applied.
-Always wash your hands after handling a patch.
-
-If you forget to apply a patch in the morning, you may do so later in the day.
-However, you should remove the child's patch at the usual time of day to reduce the chance of later day side effects.
-You can use the timetable above to know when to remove the patch.
-
-Do not use hair dryers, heating pads, electric blankets, heated water beds or other heat sources while wearing a DaytranaTM patch.
-Too much medicine can pass into your or your child's body and cause serious side effects.
+- Contact with water while bathing, swimming, or showering can make the patch not stick well or make it fall off.
+  If a patch falls off, do not touch the sticky side of the patch with your fingers.
+  A new patch may be applied to a different area of the same hip.
+  Patches that fall off should not be re-applied.
+  Do not use bandages, tape, or other household adhesives (glue) to hold the patch on the skin.
+  If a new patch is applied, remove it 9 hours after the first patch for that day was applied.
+  Always wash your hands after handling a patch.
+- If you forget to apply a patch in the morning, you may do so later in the day.
+  However, you should remove the child's patch at the usual time of day to reduce the chance of later day side effects.
+  You can use the timetable above to know when to remove the patch.
+- Do not use hair dryers, heating pads, electric blankets, heated water beds or other heat sources while wearing a DaytranaTM patch.
+  Too much medicine can pass into your or your child's body and cause serious side effects.
 
 5.
 HOW TO REMOVE AND DISCARD DAYTRANATM
@@ -266,7 +256,7 @@ HOW TO REMOVE AND DISCARD DAYTRANATM
 - In the unlikely event that a patch remains tightly adhered despite these measures, ask your doctor or pharmacist about what to do for this problem.
 - Fold the used DaytranaTM patch in half and press firmly so that the sticky side sticks to itself.
   Flush the used patch down the toilet or dispose of it in a lidded container right away.
-- Do not flush the pouches or the protective liners down the toilet.
+- Do not flush the protective pouches or the protective liners down the toilet.
   These items should be thrown away in a lidded container.
 - If any sticky material (adhesive) remains on the child's skin after removing the patch, gently rub the area with oil or lotion to remove the adhesive from the skin.
 - Wash your hands after handling the patch.

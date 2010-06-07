@@ -65,3 +65,36 @@ The t1/2 of l-methylphenidate was shorter than for d-methylphenidate and ranged 
 ## Food Effects
 
 The pharmacokinetics or the pharmacodynamic food effect performance after application of Daytrana™ has not been studied, but because of the transdermal route of administration, no food effect is expected.
+
+## Adhesion
+
+In a study of 20 mg / 9 hour (25 cm2) transdermal systems > 95% of patches were greater than 90% adhered, and the remainder were 75% - 90% adhered.
+No patients discontinued therapy during clinical trials due to adhesion failure.
+
+In the event a patch does not fully adhere to the skin upon application, or is partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label (see DOSAGE AND ADMINISTRATION -- Disposal of Daytrana™), and a new patch should be applied.
+If a patch is replaced, the total recommended wear time for that day should remain 9 hours.
+(see DOSAGE AND ADMINISTRATION - Application).
+
+Patches should not be applied or re-applied with dressings, tape, or other common adhesives.
+
+## Special Populations
+
+### Gender
+
+The pharmacokinetics of methylphenidate after single and repeated doses of Daytrana™ were similar between boys and girls with ADHD, after allowance for differences in body weight.
+
+### Race
+
+The influence of race on the pharmacokinetics of methylphenidate after administration of Daytrana™ has not been defined.
+
+### Age
+
+The pharmacokinetics of methylphenidate after administration of Daytrana™ have not been studied in children less than 6 years of age.
+
+### Renal Insufficiency
+
+There is no experience with the use of Daytrana™ in patients with renal insufficiency.
+
+### Hepatic Insufficiency
+
+There is no experience with the use of Daytrana™ in patients with hepatic insufficiency.
