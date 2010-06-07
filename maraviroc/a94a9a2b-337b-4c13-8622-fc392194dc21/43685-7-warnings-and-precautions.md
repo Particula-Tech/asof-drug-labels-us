@@ -21,6 +21,14 @@ When SELZENTRY was administered to healthy volunteers at doses higher than the r
 However, when SELZENTRY was given at the recommended dose in HIV subjects in Phase 3 studies, postural hypotension was seen at a rate similar to placebo (approximately 0.5%).
 Caution should be used when administering SELZENTRY in patients with a history of postural hypotension or on concomitant medication known to lower blood pressure.
 
+Postural Hypotension in Patients with Renal Impairment
+
+Patients with impaired renal function may have cardiovascular co-morbidities and could be at increased risk of cardiovascular adverse events triggered by postural hypotension.
+An increased risk of postural hypotension may occur in patients with severe renal insufficiency or in those with end-stage renal disease (ESRD) due to increased maraviroc exposure in some patients.
+SELZENTRY should be used in patients with severe renal impairment or ESRD only if they are not receiving a concomitant potent CYP3A inhibitor or inducer.
+However, the use of SELZENTRY in these patients should only be considered when no alternative treatment options are available.
+If patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking 300 mg twice daily the dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2)].
+
 ## 5.3 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including maraviroc.

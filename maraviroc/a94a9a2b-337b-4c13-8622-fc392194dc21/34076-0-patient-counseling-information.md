@@ -15,6 +15,10 @@ Patients should be advised that it is important to:
 - inform their physician if they are pregnant, plan to become pregnant or become pregnant while taking SELZENTRY;
 - not change the dose or dosing schedule of SELZENTRY or any antiretroviral medication without consulting their physician.
 
+Patients should be advised that it is important to take all their anti-HIV medicines as prescribed and at the same time(s) each day.
+
+Patients should be advised that when their SELZENTRY supply starts to run low, they should ask their doctor or pharmacist for a refill.
+
 Patients should be advised that if they forget to take a dose, they should take the next dose of SELZENTRY as soon as possible and then take their next scheduled dose at its regular time.
 If it is less than 6 hours before their next scheduled dose, they should not take the missed dose and should instead wait and take the next dose at the regular time.
 

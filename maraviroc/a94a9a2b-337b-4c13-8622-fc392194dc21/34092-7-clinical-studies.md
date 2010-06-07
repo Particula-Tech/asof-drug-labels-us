@@ -11,11 +11,11 @@ All subjects received an optimized background regimen consisting of 3 to 6 antir
 In addition to the optimized background regimen, subjects were then randomized in a 2:2:1 ratio to maraviroc 300 mg once daily, maraviroc 300 mg twice daily, or placebo.
 Doses were adjusted based on background therapy as described in Dosing and Administration, Table 1.
 
-In the pooled analysis for A4001027 and A4001028, the demographics and baseline characteristics of the treatment groups were comparable (Table 11).
+In the pooled analysis for A4001027 and A4001028, the demographics and baseline characteristics of the treatment groups were comparable (Table 12).
 Of the 1043 subjects with a CCR5 tropism result at screening, 7.6% had a dual/mixed tropism result at the baseline visit 4 to 6 weeks later.
 This illustrates the background change from CCR5 to dual/mixed tropism result over time in this treatment-experienced population, prior to a change in antiretroviral regimen or administration of a CCR5 co-receptor antagonist.
 
-Table 11 Demographic and Baseline Characteristics of Subjects in Studies A4001027 and A4001028
+Table 12 Demographic and Baseline Characteristics of Subjects in Studies A4001027 and A4001028
 
 |  | SELZENTRY BID N = 426 | Placebo N = 209 |
 | --- | --- | --- |
@@ -50,9 +50,9 @@ Table 11 Demographic and Baseline Characteristics of Subjects in Studies A400102
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 6 | 6 |
 
-The week 48 results for the pooled Studies A4001027 and A4001028 are shown in Table 12.
+The week 48 results for the pooled Studies A4001027 and A4001028 are shown in Table 13.
 
-Table 12 Outcomes of Randomized Treatment at Week 48 Studies A4001027 and A4001028
+Table 13 Outcomes of Randomized Treatment at Week 48 Studies A4001027 and A4001028
 
 | Outcome | SELZENTRY BID N=426 | PLACEBO N=209 | Mean Difference |
 | --- | --- | --- | --- |
@@ -77,7 +77,7 @@ The inclusion/exclusion criteria were similar to those for Studies A4001027 and 
 No increased risk of infection or HIV disease progression was observed in the subjects who received SELZENTRY.
 SELZENTRY use was not associated with a significant decrease in HIV-1 RNA compared to placebo in these subjects and no adverse effect on CD4 count was noted.
 
-## 14.3 Study in CCR5-tropic, Treatment-Naïve Subjects
+## 14.3 Study in Treatment-Naïve Subjects
 
 Study A4001026 is an ongoing, randomized, double-blind, multicenter study in subjects infected with CCR5-tropic HIV-1 classified by the original Trofile® tropism assay.
 Subjects were required to have plasma HIV-1 RNA ≥2000 copies/mL and could not have: 1) previously received any antiretroviral therapy for >14 days, 2) an active or recent opportunistic infection or a suspected primary HIV-1 infection, or 3) phenotypic or genotypic resistance to zidovudine, lamivudine, or efavirenz.
@@ -85,11 +85,11 @@ Subjects were randomized in a 1:1:1 ratio to maraviroc 300 mg once daily, maravi
 The efficacy and safety of SELZENTRY are based on the comparison of SELZENTRY twice daily versus efavirenz.
 In a pre-planned interim analysis at 16 weeks, the maraviroc 300mg once per day treatment arm failed to meet the pre-specified criteria for demonstrating non-inferiority and was discontinued.
 
-The demographic and baseline characteristics of the maraviroc and efavirenz treatment groups were comparable (Table 13).
+The demographic and baseline characteristics of the maraviroc and efavirenz treatment groups were comparable (Table 14).
 Subjects were stratified by screening HIV-1 RNA levels and by geographic region.
 The median CD4 cell counts and mean HIV-1 RNA at baseline were similar for both treatment groups.
 
-Table 13 Demographic and Baseline Characteristics of Subjects in Study A4001026
+Table 14 Demographic and Baseline Characteristics of Subjects in Study A4001026
 
 |  | SELZENTRY 300 mg BID + zidovudine/lamivudine (N=360) | Efavirenz 600 mg QD + zidovudine/lamivudine (N=361) |
 | --- | --- | --- |
@@ -105,13 +105,13 @@ Table 13 Demographic and Baseline Characteristics of Subjects in Study A4001026
 | Median (Range) CD4 cell count (cells/µL) | 241 (5–1422) | 254 (8–1053) |
 | Median (Range) HIV-1 RNA (log 10 copies/mL) | 4.9 (3 –7) | 4.9 (3 –7) |
 
-The treatment outcomes at 96 weeks for study A4001026 are shown in Table 14.
+The treatment outcomes at 96 weeks for study A4001026 are shown in Table 15.
 Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, Enhanced sensitivity Trofile® HIV tropism assay, which became available after the week 48 analysis, approximately 15% of the subjects identified as CCR5-tropic in the original analysis had Dual/Mixed- or CXCR4-tropic virus.
 Screening with enhanced sensitivity version of the Trofile® tropism assay reduced the number of maraviroc virologic failures with CXCR4- or Dual/Mixed-tropic virus at failure to 12 compared to 24 when screening with the original Trofile® HIV tropism assay.
 
-Table 14: Study Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assay The total number of subjects (Ns) in Table 14 represents the subjects who had a CCR5-tropic virus in the reanalysis of screening samples using the more sensitive tropism assay.
-This reanalysis reclassified approximately 15% of subjects shown in Table 13 as having Dual/Mixed- or CXCR4-tropic virus.
-These numbers are different than those presented in table 13 because the numbers in Table 13 reflect the subjects with CCR5-tropic virus according to the original tropism assay.
+Table 15: Study Outcome (Snapshot) at Week 96 Using Enhanced Sensitivity Assay The total number of subjects (Ns) in Table 15 represents the subjects who had a CCR5-tropic virus in the reanalysis of screening samples using the more sensitive tropism assay.
+This reanalysis reclassified approximately 15% of subjects shown in Table 14 as having Dual/Mixed- or CXCR4-tropic virus.
+These numbers are different than those presented in table 14 because the numbers in Table 14 reflect the subjects with CCR5-tropic virus according to the original tropism assay.
 
 | Outcome at week 96Week 48 results: Virologic responders (<400): 228/311 (73%) in SELZENTRY, 219/303 (72%) in Efavirenz Virologic responders (<50): 213/311 (69 %) in SELZENTRY, 207/303 (68%) in Efavirenz | SELZENTRY 300 mg BID + zidovudine/lamivudine N = 311 n (%) | Efavirenz 600 mg QD +zidovudine/lamivudine N = 303 n (%) |
 | --- | --- | --- |

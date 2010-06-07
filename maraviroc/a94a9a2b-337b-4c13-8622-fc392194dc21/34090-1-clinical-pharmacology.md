@@ -10,9 +10,9 @@ Exposure Response Relationship in Treatment-Experienced Subjects
 
 The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1–9 samples per patient taken on up to 7 visits), and virologic response was evaluated in 973 treatment-experienced HIV-1-infected subjects with varied optimized background antiretroviral regimens in studies A4001027 and A4001028.
 The Cmin, baseline viral load, baseline CD4+ cell count and overall sensitivity score (OSS) were found to be important predictors of virologic success (defined as viral load < 400 copies/mL at 24 weeks).
-Table 6 illustrates the proportion of subjects with virologic success (%) within each Cmin quartile for 150 mg twice daily and 300 mg twice daily groups.
+Table 7 illustrates the proportion of subjects with virologic success (%) within each Cmin quartile for 150 mg twice daily and 300 mg twice daily groups.
 
-Table 6 Treatment-Experienced Subjects with Virologic Success by Cmin Quartile (Q1–Q4))
+Table 7 Treatment-Experienced Subjects with Virologic Success by Cmin Quartile (Q1–Q4))
 
 |  | n | Median Cmin | % subjects with virologic success | n | Median Cmin | % subjects with virologic success |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,9 +26,9 @@ Table 6 Treatment-Experienced Subjects with Virologic Success by Cmin Quartile (
 Exposure Response Relationship in Treatment-Naive Subjects
 
 The relationship between maraviroc, modeled plasma trough concentration (Cmin) (1–12 samples per patient taken on up to 8 visits), and virologic response was evaluated in 294 treatment-naive HIV-1-infected subjects receiving maraviroc 300 mg twice daily in combination with zidovudine/lamivudine in study A4001026.
-Table 7 illustrates the proportion of subjects with virologic success (%) within each Cmin quartile for the 300 mg twice daily dose.
+Table 8 illustrates the proportion (%) of subjects with virologic success < 50 copies/mL at 48 weeks within each Cmin quartile for the 300 mg twice daily dose.
 
-Table 7 Treatment-Naïve Subjects with Virologic Success by Cmin Quartile (Q1–Q4)
+Table 8 Treatment-Naïve Subjects with Virologic Success by Cmin Quartile (Q1–Q4)
 
 |  | n | Median Cmin | % subjects with virologic success |  |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ No subject experienced an interval exceeding the potentially clinically relevant
 
 ## 12.3 Pharmacokinetics
 
-Table 8 Mean Maraviroc Pharmacokinetic Parameters
+Table 9 Mean Maraviroc Pharmacokinetic Parameters
 
 |  | Maraviroc dose | N | AUC12 (ng.h/Ml) | Cmax (ng/mL) | Cmin (ng/mL) |
 | --- | --- | --- | --- | --- | --- |
@@ -105,16 +105,32 @@ These changes do not warrant a dose adjustment.
 Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared to following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc-associated adverse events.
 The pharmacokinetics of maraviroc have not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1)].
 
+Renal Impairment
+
+A study compared the pharmacokinetics of a single 300 mg dose of SELZENTRY in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end-stage renal disease (ESRD) (n=6) to healthy volunteers (n=6).
+Geometric mean ratios for maraviroc Cmax and AUCinf were 2.4-fold and 3.2-fold higher respectively for subjects with severe renal impairment, and 1.7-fold and 2.0-fold higher respectively for subjects with ESRD as compared to subjects with normal renal function in this study.
+Hemodialysis had a minimal effect on maraviroc clearance and exposure in subjects with ESRD.
+Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in previous SELZENTRY 300 mg single-dose studies in healthy volunteers with normal renal function.
+However, maraviroc exposures in the subjects with normal renal function in this study were 50% lower than that observed in previous studies.
+Based on the results of this study, no dose adjustment is recommended for patients with renal impairment receiving SELZENTRY without a potent CYP3A inhibitor or inducer.
+However, if patients with severe renal impairment or ESRD experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, their dose should be reduced to 150 mg twice daily [see Dosage and Administration (2.2); Warnings and Precautions (5.2)].
+
+In addition, the study compared the pharmacokinetics of multiple dose SELZENTRY in combination with saquinavir/ritonavir 1000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CLcr >50 and ≤80 mL/min, n=6) and moderate renal impairment (CLcr ≥30 and ≤50 mL/min, n=6) to healthy volunteers with normal renal function (n=6).
+Subjects received 150 mg of SELZENTRY at different dose frequencies (healthy volunteers – every 12 hours; mild renal impairment – every 24 hours; moderate renal impairment – every 48 hours).
+Compared to healthy volunteers (dosed every 12 hours), geometric mean ratios for maraviroc AUCtau, Cmax and Cmin were 50% higher, 20% higher and 43% lower, respectively for subjects with mild renal impairment (dosed every 24 hours).
+Geometric mean ratios for maraviroc AUCtau, Cmax and Cmin were 16% higher, 29% lower and 85% lower, respectively for subjects with moderate renal impairment (dosed every 48 hours) compared to healthy volunteers (dosed every 12 hours).
+Based on the data from this study, no adjustment in dose is recommended for patients with mild or moderate renal impairment [see Dosage and Administration (2.2)].
+
 Effect of Concomitant Drugs on the Pharmacokinetics of Maraviroc
 
 Maraviroc is a substrate of CYP3A and Pgp and hence its pharmacokinetics are likely to be modulated by inhibitors and inducers of these enzymes/transporters.
-The CYP3A/Pgp inhibitors ketoconazole, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc [see Table 9].
-The CYP3A inducers rifampin, etravirine and efavirenz decreased the Cmax and AUC of maraviroc [see Table 9].
+The CYP3A/Pgp inhibitors ketoconazole, lopinavir/ritonavir, ritonavir, darunavir/ritonavir, saquinavir/ritonavir and atazanavir ± ritonavir all increased the Cmax and AUC of maraviroc [see Table 10].
+The CYP3A inducers rifampin, etravirine and efavirenz decreased the Cmax and AUC of maraviroc [see Table 10].
 
-Tipranavir/ritonavir (net CYP3A inhibitor/Pgp inducer) did not affect the steady state pharmacokinetics of maraviroc (see Table 9).
+Tipranavir/ritonavir (net CYP3A inhibitor/Pgp inducer) did not affect the steady state pharmacokinetics of maraviroc (see Table 10).
 Co-trimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
 
-Table 9 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
+Table 10 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
 | Cmin | AUCtau | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -190,7 +206,7 @@ Maraviroc-resistant viruses that emerged in cell culture remained susceptible to
 
 Clinical Resistance
 
-Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc,through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below), through resistance to background therapy drugs (Table 10), or due to low exposure to maraviroc [see Clinical Phamacology (12.2)].
+Virologic failure on maraviroc can result from genotypic and phenotypic resistance to maraviroc, through outgrowth of undetected CXCR4-using virus present before maraviroc treatment (see Tropism below), through resistance to background therapy drugs (Table 11), or due to low exposure to maraviroc [see Clinical Pharmacology (12.2)].
 
 Antiretroviral treatment-experienced subjects (Studies A4001027 and A4001028)
 
@@ -203,9 +219,9 @@ Substitutions outside the V3 loop of gp120 may also contribute to reduced suscep
 
 Antiretroviral treatment-naïve subjects (Study A4001026)
 
-Treatment-naïve subjects receiving SELZENTRY had more virologic failures and more treatment emergent resistance to the background regimen drugs compared to those receiving efavirenz (Table 10).
+Treatment-naïve subjects receiving SELZENTRY had more virologic failures and more treatment emergent resistance to the background regimen drugs compared to those receiving efavirenz (Table 11).
 
-Table 10 Development of Resistance to MVC or EFV and Background Drugs in Antiretroviral Treatment-Naïve Trial A4001026 for Patients with CCR5-tropic Virus at Screening using Enhanced Sensitivity Trofile® Assay
+Table 11 Development of Resistance to MVC or EFV and Background Drugs in Antiretroviral Treatment-Naïve Trial A4001026 for Patients with CCR5-tropic Virus at Screening using Enhanced Sensitivity Trofile® Assay
 
 |  | MVC | EFV |
 | --- | --- | --- |

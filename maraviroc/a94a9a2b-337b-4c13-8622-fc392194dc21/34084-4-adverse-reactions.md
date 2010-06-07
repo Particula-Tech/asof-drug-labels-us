@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6 Adverse Reactions
 
 The following adverse reactions are discussed in other sections of the labeling:
 
@@ -28,12 +28,12 @@ The data described below occurred with SELZENTRY twice daily dosing.
 The total number of subjects reporting infections were 233 (55%) and 84 (40%) in the SELZENTRY twice daily and placebo groups, respectively.
 Correcting for the longer duration of exposure on SELZENTRY compared to placebo, the exposure-adjusted frequency (rate per 100 subject-years) of these events was 133 for both SELZENTRY twice daily and placebo.
 
-Dizziness or postural dizziness occurred in 8% of subjects on either SELZENTRY and placebo, with 2 subjects (0.5%) on SELZENTRY permanently discontinuing therapy (1 due to syncope, 1 due to orthostatic hypotension) versus 1 subject on placebo (0.5%) permanently discontinuing therapy due to dizziness.
+Dizziness or postural dizziness occurred in 8% of subjects on either SELZENTRY or placebo, with 2 subjects (0.5%) on SELZENTRY permanently discontinuing therapy (1 due to syncope, 1 due to orthostatic hypotension) versus 1 subject on placebo (0.5%) permanently discontinuing therapy due to dizziness.
 
-Treatment-emergent adverse events, regardless of causality, from A4001027 and A4001028 are summarized in Table 2.
+Treatment-emergent adverse events, regardless of causality, from A4001027 and A4001028 are summarized in Table 3.
 Selected events occurring at ≥2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on placebo are not displayed.
 
-Table 2 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to placebo) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+Table 3 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to placebo) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
 |  | N=426 (%) |  | N=209 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -93,9 +93,9 @@ Table 2 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (
 
 Laboratory Abnormalities
 
-Table 3 shows the treatment-emergent Grade 3–4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.
+Table 4 shows the treatment-emergent Grade 3–4 laboratory abnormalities that occurred in >2% of subjects receiving SELZENTRY.
 
-Table 3 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
+Table 4 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Studies A4001027 and A4001028 (Pooled Analysis, 48 Weeks)
 
 |  |  | N =421Percentages based on total subjects evaluated for each laboratory parameter % | N =207 % |
 | --- | --- | --- | --- |
@@ -111,10 +111,10 @@ Study in Treatment-Naïve Subjects
 
 Treatment-Emergent Adverse Events
 
-Treatment-emergent adverse events, regardless of causality, from Study A4001026, a double-blind comparative controlled study in which 721 treatment-naïve subjects received SELZENTRY 300 mg BID (N=360) or efavirenz (N=361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 4.
+Treatment-emergent adverse events, regardless of causality, from Study A4001026, a double-blind comparative controlled study in which 721 treatment-naïve subjects received SELZENTRY 300 mg BID (N=360) or efavirenz (N=361) in combination with zidovudine/lamivudine for 96 weeks, are summarized in Table 5.
 Selected events occurring at ≥ 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
 
-Table 4 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to efavirenz) Study A4001026 (96 Weeks)
+Table 5 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (All Causality) (≥2% on SELZENTRY and at a higher rate compared to efavirenz) Study A4001026 (96 Weeks)
 
 |  | SELZENTRY + zidovudine/lamivudine 300 mg BID N = 360 (%) | EFAVIRENZ + zidovudine/lamivudine 600 mg QD N = 361 (%) |
 | --- | --- | --- |
@@ -154,11 +154,11 @@ Table 4 Percentage of Subjects with Selected Treatment-Emergent Adverse Events (
 | Acnes | 3 | 2 |
 | Alopecias | 2 | 1 |
 | Lipodystrophies | 4 | 3 |
-| Nail and nail bed conditions (excl infections and infestations) | 6 | 2 |
+| Nail and nail bed conditions (excluding infections and infestations) | 6 | 2 |
 
 Laboratory Abnormalities
 
-Table 5 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Study A4001026 (96 Weeks)
+Table 6 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3–4 Abnormalities (ACTG Criteria) Study A4001026 (96 Weeks)
 
 | Laboratory Parameter Preferred Term | Limit | SELZENTRY 300 Twice daily + zidovudine/lamivudine N =353N = total number of subjects evaluable for laboratory abnormalities. % | Efavirenz 600 mg QD + zidovudine/lamivudine N =350 % |
 | --- | --- | --- | --- |

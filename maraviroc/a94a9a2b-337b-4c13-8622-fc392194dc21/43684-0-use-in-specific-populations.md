@@ -34,15 +34,20 @@ In general, caution should be exercised when administering SELZENTRY in elderly 
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of maraviroc have not been specifically studied in patients with renal impairment; therefore, maraviroc should be used with caution in this population.
-In the absence of metabolic inhibitors, renal clearance accounts for approximately 23% of total clearance of maraviroc.
-Maraviroc concentrations may be increased in patients with renal impairment, especially when CYP3A inhibitors are coadministered.
-Patients with a creatinine clearance of less than 50 mL/min who receive maraviroc and a CYP3A inhibitor may be at an increased risk of adverse effects related to increased maraviroc concentrations, such as dizziness and postural hypotension.
-Thus, patients with a creatinine clearance of less than 50 mL/min should receive maraviroc and a CYP3A inhibitor only if the potential benefit is felt to outweigh the risk, and they should be monitored for adverse effects.
+Recommended doses of SELZENTRY for patients with impaired renal function (CrCl ≤ 80 mL/min) are based on the results of a pharmacokinetic study conducted in healthy subjects with various degrees of renal impairment.
+The pharmacokinetics of maraviroc in subjects with mild and moderate renal impairment was similar to that in subjects with normal renal function [see Clinical Pharmacology (12.3)].
+A limited number of subjects with mild and moderate renal impairment in the Phase 3 clinical trials (n= 131 and n= 12, respectively) received the same dose of SELZENTRY as that administered to subjects with normal renal function.
+In these subjects there was no apparent difference in the adverse event profile for maraviroc compared to subjects with normal renal function.
+
+If patients with severe renal impairment or end-stage renal disease (ESRD) not receiving a concomitant potent CYP3A inhibitor or inducer experience any symptoms of postural hypotension while taking SELZENTRY 300 mg twice daily, the dose should be reduced to 150 mg twice daily.
+No studies have been performed in subjects with severe renal impairment or ESRD co-treated with potent CYP3A inhibitors or inducers.
+Hence, no dose of SELZENTRY can be recommended, and SELZENTRY is contraindicated for these patients.
+[see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Maraviroc is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because maraviroc concentrations may be increased.
+Maraviroc concentrations are higher when SELZENTRY 150 mg is administered with a potent CYP3A inhibitor compared to following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive SELZENTRY 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc-associated adverse events.
 Maraviroc has not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender
