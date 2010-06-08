@@ -41,13 +41,14 @@ The mean Tmax values across dose groups (0.25, 0.5, and 1 mg/kg) range from 0.17
 Midazolam exhibits linear pharmacokinetics between oral doses of 0.25 to 1 mg/kg (up to a maximum dose of 40 mg) across the age groups ranging from 6 months to <16 years.
 Linearity was also demonstrated across the doses within the age group of 2 years to <12 years having 18 patients at each of the three doses.
 The absolute bioavailability of the midazolam syrup in pediatric patients is about 36%, which is not affected by pediatric age or weight.
-The AUC0-∞ ratio of α-hydroxymidazolam to midazolam for the oral dose in pediatric patients is higher than for an IV dose (0.38 to 0.75 versus 0.21 to 0.39 across the age group of 6 months to <16 years), and the AUC0-∞ ratio of α-hydroxy-midazolam to midazolam for the oral dose is higher in pediatric patients than in adults (0.38 to 0.75 versus 0.40 to 0.56).
+The AUC0-∞ ratio of a-hydroxymidazolam to midazolam for the oral dose in pediatric patients is higher than for an IV dose (0.38 to 0.75 versus 0.21 to 0.39 across the age group of 6 months to <16 years), and the AUC0-∞ ratio of α-hydroxy-midazolam to midazolam for the oral dose is higher in pediatric patients than in adults (0.38 to 0.75 versus 0.40 to 0.56).
 
 Food effect has not been tested using midazolam HCl syrup.
 When a 15 mg oral tablet of midazolam was administered with food to adults, the absorption and disposition of midazolam was not affected.
 Feeding is generally contraindicated prior to sedation of pediatric patients for procedures.
 
-Table1.Pharmacokinetics of Midazolam Following Single Dose Administration of Midazolam HCl Syrup
+Table1.
+Pharmacokinetics of Midazolam Following Single Dose Administration of Midazolam HCl Syrup
 
 | Number of Subjects/age group | Dose (mg/kg) | Tmax (h) | Cmax (ng/mL) | T1/2 (h) | AUC 0-∞ (ng∙h/mL) |
 | --- | --- | --- | --- | --- | --- |
@@ -68,7 +69,7 @@ Table1.Pharmacokinetics of Midazolam Following Single Dose Administration of Mid
 
 The extent of plasma protein binding of midazolam is moderately high and concentration independent.
 In adults and pediatric patients older than 1 year, midazolam is approximately 97% bound to plasma protein, principally albumin.
-In healthy volunteers, α-hydroxymidazolam is bound to the extent of 89%.
+In healthy volunteers, a-hydroxymidazolam is bound to the extent of 89%.
 In pediatric patients (6 months to <16 years) receiving 0.15 mg/kg IV midazolam, the mean steady-state volume of distribution ranged from 1.24 to 2.02 L/kg.
 
 ### Metabolism:

@@ -36,10 +36,10 @@ Adverse Events Occurring During the Premedication Period Before Mask Induction i
 Table 6.
 Adverse Events (≥1%) From the Randomized, Double-Blind, Parallel-Group Trial on Entire Monitoring Period (premedication, anesthesia, recovery)
 
-|  | No. | (%) | No. | (%) | No. | (%) | No. | (%) |
+| No. | (%) | No. | (%) | No. | (%) | No. | (%) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Treatment Regimen |  |  |  |  |  | Overall |  |
-| No. Patients with Adverse Events | 0.25 mg/kg (n=132) |  | 0.5 mg/kg (n=132) |  | 1 mg/kg (n=133) |  | (n=397) |  |
+| Body System No. Patients with Adverse Events | Treatment Regimen |  |  |  |  |  | Overall |  |
+| 0.25 mg/kg (n=132) |  | 0.5 mg/kg (n=132) |  | 1 mg/kg (n=133) |  | (n=397) |  |  |
 | Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |
 | Emesis | 11 | (8%) | 5 | (4%) | 15 | (11%) | 31 | (8%) |
 | Nausea | 6 | (5%) | 2 | (2%) | 6 | (5%) | 14 | (4%) |

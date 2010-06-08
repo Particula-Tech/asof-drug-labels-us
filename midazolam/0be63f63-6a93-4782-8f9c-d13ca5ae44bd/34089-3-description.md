@@ -3,7 +3,7 @@
 Midazolam is a benzodiazepine available as midazolam HCl syrup for oral administration.
 Midazolam, a white to light yellow crystalline compound, is insoluble in water, but can be solubilized in aqueous solutions by formation of the hydrochloride salt in situ under acidic conditions.
 Chemically, midazolam HCl is 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a][1,4] benzodiazepine hydrochloride.
-Midazolam hydrochloride has the molecular formula C18H13ClFN3•HCl, a calculated molecular weight of 362.25 and the following structural formula:
+Midazolam hydrochloride has the molecular formula C18H13CIFN3•HCl, a calculated molecular weight of 362.25 and the following structural formula:
 
 Each mL of the syrup contains midazolam hydrochloride equivalent to 2 mg midazolam compounded with artificial bitterness modifier, citric acid anhydrous, D&C Red #33, edetate disodium, glycerin, mixed fruit flavor, sodium benzoate, sodium citrate, sorbitol, and water; the pH is adjusted to 2.8 - 3.6 with hydrochloric acid.
 

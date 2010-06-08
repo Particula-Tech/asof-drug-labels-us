@@ -6,5 +6,4 @@ NDC 0574-0150-04 Bottle of 118 mL.
 
 NDC 0574-0150-25 10 × Bottle of 2.5 mL.
 
-Store at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°F).
-[See USP Controlled Room Temperature]
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]

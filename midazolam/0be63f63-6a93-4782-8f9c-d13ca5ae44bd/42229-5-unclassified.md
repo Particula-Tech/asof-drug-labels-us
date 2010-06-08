@@ -1,5 +1,7 @@
+CIV
+
 Manufactured by:
 
 Paddock Laboratories, Inc. Minneapolis, MN 55427
 
-(03-04)
+(06-08)
