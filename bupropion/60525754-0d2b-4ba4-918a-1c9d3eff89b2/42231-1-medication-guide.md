@@ -111,9 +111,9 @@ Do not take WELLBUTRIN if you
 
 - have or had a seizure disorder or epilepsy.
 - are taking ZYBAN (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN SR Sustained-Release Tablets or WELLBUTRIN XL Extended-Release Tablets.
-  Bupropion is the same ingredient that is in WELLBUTRIN.
+  Bupropion is the same active ingredient that is in WELLBUTRIN.
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®* (phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®* (isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in WELLBUTRIN, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN.
@@ -209,17 +209,13 @@ Active ingredient: bupropion hydrochloride.
 
 Inactive ingredients: 75-mg tablet − D&C Yellow No. 10 Lake, FD&C Yellow No. 6 Lake, hydroxypropyl cellulose, hypromellose, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide; 100-mg tablet − FD&C Red No. 40 Lake, FD&C Yellow No. 6 Lake, hydroxypropyl cellulose, hypromellose, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
-
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-July 2009
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
 
-WLT:5MG
+The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
 
 Distributed by:
 
@@ -237,9 +233,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
-All rights reserved.
+©2010, GlaxoSmithKline.
+All rights reserve.
 
-July 2009
+May 2010
 
-WLT:4PI
+WLT:6MG

@@ -21,7 +21,7 @@ Plasma bupropion concentrations are dose-proportional following single doses of 
 
 ### Absorption
 
-The absolute bioavailability of WELLBUTRIN Tablets in humans has not been determined because an intravenous formulation for human use is not available.
+The absolute bioavailability of WELLBUTRIN in humans has not been determined because an intravenous formulation for human use is not available.
 However, it appears likely that only a small proportion of any orally administered dose reaches the systemic circulation intact.
 
 ### Distribution
@@ -39,10 +39,19 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because their plasma concentrations are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
+
+In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
+
+In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively (see PRECAUTIONS: Drug Interactions).
+
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
-Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 3 hours after administration of WELLBUTRIN Tablets.
+Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 3 hours after administration of WELLBUTRIN.
 Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.
