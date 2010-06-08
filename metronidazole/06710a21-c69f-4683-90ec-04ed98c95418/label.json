@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020208"
+  ],
+  "inn": "metronidazole",
+  "labeler": "DPT Laboratories, Ltd.",
+  "package_ndcs": [
+    "63094-0200-2",
+    "63094-0200-7"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Metrogel"
+    }
+  ],
+  "setid": "06710a21-c69f-4683-90ec-04ed98c95418",
+  "source": "dailymed"
+}
