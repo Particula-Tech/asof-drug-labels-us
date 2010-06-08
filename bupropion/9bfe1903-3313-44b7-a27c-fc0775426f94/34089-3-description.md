@@ -9,8 +9,8 @@ Bupropion hydrochloride powder is white, crystalline, and highly soluble in wate
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:
 
-WELLBUTRIN XL Tablets are supplied for oral administration as 150-mg and 300-mg, creamy-white to pale yellow extended-release tablets.
-Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: ethylcellulose aqueous dispersion, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
+WELLBUTRIN XL is supplied for oral administration as 150-mg and 300-mg, creamy-white to pale yellow extended-release tablets.
+Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: ethylcellulose aqueous dispersion,glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
 The insoluble shell of the extended-release tablet may remain intact during gastrointestinal transit and is eliminated in the feces.

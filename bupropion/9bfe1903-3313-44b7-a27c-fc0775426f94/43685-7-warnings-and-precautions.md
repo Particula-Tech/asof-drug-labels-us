@@ -3,7 +3,7 @@
 Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders: Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
@@ -17,10 +17,10 @@ Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-| Increases Compared to Placebo |  |
+|  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-| Decreases Compared to Placebo |  |
+|  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -82,7 +82,7 @@ Data for the immediate-release formulation of bupropion revealed a seizure incid
 This seizure incidence (0.4%) may exceed that of some other marketed antidepressants.
 
 Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
-The 600 mg dose is twice the usual adult dose and one and one-third the maximum recommended daily dose (450 mg) of WELLBUTRIN XL Tablets.
+The 600 mg dose is twice the usual adult dose and one and one-third the maximum recommended daily dose (450 mg) of WELLBUTRIN XL.
 This disproportionate increase in seizure incidence with dose incrementation calls for caution in dosing.
 
 - Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
@@ -91,7 +91,7 @@ This disproportionate increase in seizure incidence with dose incrementation cal
 
 Recommendations for Reducing the Risk of Seizure: Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of WELLBUTRIN XL Tablets does not exceed 450 mg,
+- the total daily dose of WELLBUTRIN XL does not exceed 450 mg,
 - the rate of incrementation of dose is gradual.
 
 WELLBUTRIN XL should be administered with extreme caution to patients with a history of seizure, cranial trauma, or other predisposition(s) toward seizure, or patients treated with other agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold.
@@ -159,7 +159,7 @@ Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of WELLBUT
 | Lost >5 lbs | 14% | 19% | 6% |
 
 In studies conducted with the immediate-release formulation of bupropion, 35% of patients receiving tricyclic antidepressants gained weight, compared to 9% of patients treated with the immediate-release formulation of bupropion.
-If weight loss is a major presenting sign of a patient's depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN XL Tablets should be considered.
+If weight loss is a major presenting sign of a patient's depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN XL should be considered.
 
 Allergic Reactions: Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported in clinical trials with bupropion.
 In addition, there have been rare spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
@@ -177,14 +177,14 @@ The majority of these patients had evidence of preexisting hypertension.
 Three patients (1.2%) treated with the combination of ZYBAN and NTS and 1 patient (0.4%) treated with NTS had study medication discontinued due to hypertension compared to none of the patients treated with ZYBAN or placebo.
 Monitoring of blood pressure is recommended in patients who receive the combination of bupropion and nicotine replacement.
 
-There is no clinical experience establishing the safety of WELLBUTRIN XL Tablets in patients with a recent history of myocardial infarction or unstable heart disease.
+There is no clinical experience establishing the safety of WELLBUTRIN XL in patients with a recent history of myocardial infarction or unstable heart disease.
 Therefore, care should be exercised if it is used in these groups.
-Bupropion was well tolerated in depressed patients who had previously developed orthostatic hypotension while receiving tricyclic antidepressants and was also generally well tolerated in a group of 36 depressed inpatients with stable congestive heart failure (CHF).
+Bupropion was well tolerated in depressed patients who had previously developed orthostatic hypotension while receiving tricyclic antidepressants, and was also generally well tolerated in a group of 36 depressed inpatients with stable congestive heart failure (CHF).
 However, bupropion was associated with a rise in supine blood pressure in the study of patients with CHF, resulting in discontinuation of treatment in 2 patients for exacerbation of baseline hypertension.
 
 Hepatic Impairment: WELLBUTRIN XL should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients, a reduced frequency and/or dose is required.
-WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis.
+WELLBUTRIN XL should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels (see CLINICAL PHARMACOLOGY, WARNINGS, and DOSAGE AND ADMINISTRATION).
 
@@ -196,7 +196,7 @@ WELLBUTRIN XL should be used with caution in patients with renal impairment and 
 The patient should be closely monitored for possible adverse effects that could indicate high drug or metabolite levels.
 
 Information for Patients: Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN XL and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions", "Quitting Smoking, Quit-Smoking Medication, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions", and "What Other Important Information Should I Know About WELLBUTRIN XL?" is available for WELLBUTRIN XL.
+A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions", "Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions", and "What Other Important Information Should I Know About WELLBUTRIN XL?" is available for WELLBUTRIN XL.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -210,27 +210,27 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Although WELLBUTRIN XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
-Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Furthermore some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
+If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately
 
 Bupropion-Containing Products: Patients should be made aware that WELLBUTRIN XL contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN XL should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR, the sustained-release formulation, and WELLBUTRIN, the immediate-release formulation).
 
 Patients should be told that WELLBUTRIN XL should be discontinued and not restarted if they experience a seizure while on treatment.
 
-Patients should be told that any CNS-active drug like WELLBUTRIN XL Tablets may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
-Consequently, until they are reasonably certain that WELLBUTRIN XL Tablets do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
+Patients should be told that any CNS-active drug like WELLBUTRIN XL may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
+Consequently, until they are reasonably certain that WELLBUTRIN XL does not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
 
 Patients should be told that the excessive use or abrupt discontinuation of alcohol or sedatives (including benzodiazepines) may alter the seizure threshold.
 Some patients have reported lower alcohol tolerance during treatment with WELLBUTRIN XL.
 Patients should be advised that the consumption of alcohol should be minimized or avoided.
 
 Patients should be advised to inform their physicians if they are taking or plan to take any prescription or over-the-counter drugs.
-Concern is warranted because WELLBUTRIN XL Tablets and other drugs may affect each other's metabolism.
+Concern is warranted because WELLBUTRIN XL and other drugs may affect each other's metabolism.
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 
-Patients should be advised to swallow WELLBUTRIN XL Tablets whole so that the release rate is not altered.
-Do not chew, divide, or crush tablets.
+Patients should be advised to swallow WELLBUTRIN XL whole so that the release rate is not altered.
+Do not chew, divide, or crush tablets, as this may lead to an increased risk of adverse effects, including seizures.
 
 Patients should be advised that they may notice in their stool something that looks like a tablet.
 This is normal.
@@ -243,13 +243,17 @@ Drug Interactions: Few systemic data have been collected on the metabolism of bu
 
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between WELLBUTRIN XL and drugs that are substrates or inhibitors of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, and cyclophosphamide).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, ritonavir, and efavirenz inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between WELLBUTRIN XL and drugs that are substrates of or inhibitors /inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
 Following oral administration of two 150-mg tablets of the sustained-release formulation of bupropion with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+
+In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
+This effect is thought to be due to the induction of bupropion metabolism.
+Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -267,13 +271,15 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
+Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
+Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
 MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
 
 Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
-Administration of WELLBUTRIN XL Tablets to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
+Administration of WELLBUTRIN XL to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
 
-Drugs That Lower Seizure Threshold: Concurrent administration of WELLBUTRIN XL Tablets and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
+Drugs That Lower Seizure Threshold: Concurrent administration of WELLBUTRIN XL and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
 Low initial dosing and gradual dose increases should be employed.
 
 Nicotine Transdermal System: (see PRECAUTIONS: Cardiovascular Effects).
@@ -298,7 +304,7 @@ Decreased fetal weights were seen at 50 mg/kg and greater.
 When rats were administered bupropion at oral doses of up to 300 mg/kg/day (approximately 7 times the MRHD on a mg/m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
 
 One study has been conducted in pregnant women.
-This retrospective, managed-care database study assessed the risk of congenital malformations overall and cardiovascular malformations specifically, following exposure to bupropion in the first trimester compared to the risk of these malformations following exposure to other antidepressants in the first trimester and bupropion outside of the first trimester.
+This retrospective, managed-care database study assessed the risk of congenital malformations overall, and cardiovascular malformations specifically, following exposure to bupropion in the first trimester compared to the risk of these malformations following exposure to other antidepressants in the first trimester and bupropion outside of the first trimester.
 This study included 7,005 infants with antidepressant exposure during pregnancy, 1,213 of whom were exposed to bupropion in the first trimester.
 The study showed no greater risk for congenital malformations overall, or cardiovascular malformations specifically, following first trimester bupropion exposure compared to exposure to all other antidepressants in the first trimester, or bupropion outside of the first trimester.
 The results of this study have not been corroborated.
@@ -307,7 +313,7 @@ WELLBUTRIN XL should be used during pregnancy only if the potential benefit just
 Labor and Delivery: The effect of WELLBUTRIN XL Tablets on labor and delivery in humans is unknown.
 
 Nursing Mothers: Like many other drugs, bupropion and its metabolites are secreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from WELLBUTRIN XL Tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from WELLBUTRIN XL, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 Pediatric Use: Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders).
 Anyone considering the use of WELLBUTRIN XL in a child or adolescent must balance the potential risks with the clinical need.

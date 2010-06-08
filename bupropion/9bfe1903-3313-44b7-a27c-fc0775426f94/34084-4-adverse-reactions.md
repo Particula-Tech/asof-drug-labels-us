@@ -1,7 +1,7 @@
 ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
 
 Major Depressive Disorder: WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion (see CLINICAL PHARMACOLOGY).
-The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets, the sustained-release formulation of bupropion.
+The information included under this subsection is based primarily on data from controlled clinical trials with WELLBUTRIN SR, the sustained-release formulation of bupropion.
 
 Adverse Events Leading to Discontinuation of Treatment With WELLBUTRIN or WELLBUTRIN SR: In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion and 4% of patients treated with placebo discontinued treatment due to adverse events.
 The specific adverse events in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of WELLBUTRIN SR, the sustained-release formulation of bupropion, and at a rate at least twice the placebo rate are listed in Table 6.
@@ -31,7 +31,7 @@ Finally, it is important to emphasize that the tabulation does not reflect the r
 A better perspective on the serious adverse events associated with the use of bupropion is provided in the WARNINGS and PRECAUTIONS sections.
 
 Table 7.
-Treatment-Emergent Adverse Events in Placebo-Controlled Trials* for Major Depressive Disorder
+Treatment-Emergent Adverse Events in Placebo-Controlled TrialsAdverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder. for Major Depressive Disorder
 
 | Body System/Adverse Event | WELLBUTRIN SR300 mg/day(n = 376) | WELLBUTRIN SR400 mg/day(n = 114) | Placebo(n = 385) |
 | --- | --- | --- | --- |
@@ -89,14 +89,9 @@ Treatment-Emergent Adverse Events in Placebo-Controlled Trials* for Major Depres
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 5% | 2% |
 | Urinary urgency | — | 2% | 0% |
-| Vaginal hemorrhage† | 0% | 2% | — |
+| Vaginal hemorrhageIncidence based on the number of female patients. | 0% | 2% | — |
 | Urinary tract infection | 1% | 0% | — |
-
-*Adverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder.
-
-†Incidence based on the number of female patients.
-
-— Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of patients.
+| — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of patients. |  |  |  |
 
 Additional events to those listed in Table 7 that occurred at an incidence of at least 1% in controlled clinical trials of the immediate-release formulation of bupropion (300 to 600 mg/day) and that were numerically more frequent than placebo were: cardiac arrhythmias (5% vs 4%), hypertension (4% vs 2%), hypotension (3% vs 2%), tachycardia (11% vs 9%), appetite increase (4% vs 2%), dyspepsia (3% vs 2%), menstrual complaints (5% vs 1%), akathisia (2% vs 1%), impaired sleep quality (4% vs 2%), sensory disturbance (4% vs 3%), confusion (8% vs 5%), decreased libido (3% vs 2%), hostility (6% vs 4%), auditory disturbance (5% vs 3%), and gustatory disturbance (3% vs 1%).
 
@@ -121,7 +116,7 @@ Finally, it is important to emphasize that the tabulation does not reflect the r
 A better perspective on the serious adverse events associated with the use of bupropion is provided in the WARNINGS and PRECAUTIONS sections.
 
 Table 8.
-Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affective Disorder
+Treatment-Emergent Adverse EventsAdverse events that occurred in at least 2% of patients treated with WELLBUTRIN XL, but equally or more frequently in the placebo group, were: abdominal pain upper, arthralgia, back pain, diarrhea, dyspepsia, fatigue, gastroenteritis viral, hyperhidrosis, influenza, irritability, migraine, nasal congestion, neck pain, palpitations, pharyngolaryngeal pain, sinus congestion. in Placebo-Controlled Trials of Seasonal Affective Disorder
 
 | System Organ Class/Preferred Term | WELLBUTRIN XL(n = 537) | Placebo(n = 511) |
 | --- | --- | --- |
@@ -156,13 +151,11 @@ Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affe
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased appetite | 4% | 1% |
 | Reproductive System and Breast Disorders |  |  |
-| Dysmennorrhea | 2% | <1% |
+| Dysmenorrhea | 2% | <1% |
 | Ear and Labyrinth Disorders |  |  |
 | Tinnitus | 3% | <1% |
 | Vascular Disorders |  |  |
 | Hypertension | 2% | 0% |
-
-* Adverse events that occurred in at least 2% of patients treated with WELLBUTRIN XL, but equally or more frequently in the placebo group, were: abdominal pain upper, arthralgia, back pain, diarrhea, dyspepsia, fatigue, gastroenteritis viral, hyperhidrosis, influenza, irritability, migraine, nasal congestion, neck pain, palpitations, pharyngolaryngeal pain, sinus congestion.
 
 Incidence of Commonly Observed Adverse Events in Controlled Clinical Trials: Adverse events from Table 8 that occurred in at least 5% of patients treated with WELLBUTRIN XL and at a rate at least twice the placebo rate were constipation and flatulence.
 

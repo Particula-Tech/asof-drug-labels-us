@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-WELLBUTRIN XL® (WELL byu-trin)
+WELLBUTRIN XL®* (WELL byu-trin)
 
 (bupropion hydrochloride extended-release tablets)
 
@@ -10,28 +10,28 @@ This information does not take the place of talking with your doctor about your 
 If you have any questions about WELLBUTRIN XL, ask your doctor or pharmacist.
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
-The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled "What Other Important Information Should I Know About WELLBUTRIN XL?"
+The first section is about the risk of suicidal thoughts and actions with antidepressant medicines, the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled "What Other Important Information Should I Know About WELLBUTRIN XL?"
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your doctor, or your family member's, healthcare provider about:
+Talk to your doctor or your family member's healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - Keep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -84,22 +84,19 @@ What Other Important Information Should I Know About WELLBUTRIN XL?
   - who take certain medicines.
 
 The chance of having seizures increases with higher doses of WELLBUTRIN XL.
-For more information, see the sections “Who should not take WELLBUTRIN XL?” and “What should I tell my doctor before using WELLBUTRIN XL?”
+For more information, see the sections "Who should not take WELLBUTRIN XL?" and "What should I tell my doctor before using WELLBUTRIN XL?"
 Tell your doctor about all of your medical conditions and all the medicines you take.
 Do not take any other medicines while you are using WELLBUTRIN XL unless your doctor has said it is okay to take them.
 
 If you have a seizure while taking WELLBUTRIN XL, stop taking the tablets and call your doctor right away.
 Do not take WELLBUTRIN XL again if you have a seizure.
 
-- High blood pressure (hypertension).
-  Some people get high blood pressure, that can be severe, while taking WELLBUTRIN XL.
+- High blood pressure (hypertension): Some people get high blood pressure, that can be severe, while taking Wellbutrin XL.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
-- Severe allergic reactions.
-  Some people have severe allergic reactions to WELLBUTRIN XL.
-  Stop taking WELLBUTRIN XL and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
+- Severe allergic reactions: Some people have severe allergic reactions to Wellbutrin XL.
+  Stop taking Wellbutrin XL and call your doctor right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
-- Unusual thoughts or behaviors.
-  Some patients have unusual thoughts or behaviors while taking WELLBUTRIN XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
+- Unusual thoughts or behaviors: Some patients have unusual thoughts or behaviors while taking Wellbutrin XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your doctor.
 
 What is WELLBUTRIN XL?
@@ -111,10 +108,10 @@ Who should not take WELLBUTRIN XL?
 Do not take WELLBUTRIN XL if you:
 
 - have or had a seizure disorder or epilepsy.
-- are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN SR® Sustained-Release Tablets.
+- are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN®* Tablets or WELLBUTRIN SR, Sustained-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN XL.
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®*(phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®*(isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®* (phenelzine sulfate), PARNATE®* (tranylcypromine sulfate), or MARPLAN®* (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in WELLBUTRIN XL, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN XL.
@@ -123,7 +120,7 @@ What should I tell my doctor before using WELLBUTRIN XL?
 
 - Tell your doctor if you have ever had depression, suicidal thoughts or actions, or other mental health problems.
   See "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions."
-- Tell your doctor about your other medical conditions including if you:
+- Tell your doctor about your other medical conditions, including if you:
   - are pregnant or plan to become pregnant.
     It is not known if WELLBUTRIN XL can harm your unborn baby.
   - are breastfeeding.
@@ -146,6 +143,8 @@ How should I take WELLBUTRIN XL?
 
 - Take WELLBUTRIN XL exactly as prescribed by your doctor.
 - Do not chew, cut, or crush WELLBUTRIN XL tablets.
+  If you do, the medicine will be released into your body too quickly.
+  If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take WELLBUTRIN XL at the same time each day.
@@ -190,7 +189,7 @@ These are not all the side effects of WELLBUTRIN XL.
 For a complete list, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088, or BTA Pharmaceuticals at 866-246-8245 (opt.
+You may report side effects to FDA at 1-800-FDA-1088 or BTA Pharmaceuticals at 866-246-8245 (opt.
 3).
 
 How should I store WELLBUTRIN XL?
@@ -210,7 +209,7 @@ General Information about WELLBUTRIN XL.
 
 This Medication Guide summarizes important information about WELLBUTRIN XL.
 For more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about WELLBUTRIN XL that is written for health professionals or call toll-free 866-246-8245 (opt.
+You can ask your doctor or pharmacist for information about WELLBUTRIN XL that is written for health professionals or call 866-246-8245 (opt.
 3).
 
 What are the ingredients in WELLBUTRIN XL?
@@ -220,7 +219,7 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: ethylcellulose aqueous dispersion, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
-*The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN®/GlaxoSmithKline; PARNATE®/GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/Validus Pharmaceuticals LLC.
+*The following are registered trademarks of their respective manufacturers: WELLBUTRIN® and WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN® /GlaxoSmithKline; PARNATE® / GlaxoSmithKline; NARDIL®/Warner Lambert Company; MARPLAN®/ Validus Pharmaceuticals LLC; KALETRA® /Abbott Laboratories.
 
 Rx Only
 
@@ -231,4 +230,4 @@ Manufactured by: Biovail Corporation Mississauga, ON L5N 8M5, Canada
 For: BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807
 
 Rev.
-07/09 LB0033-08
+02/10 LB0033-09

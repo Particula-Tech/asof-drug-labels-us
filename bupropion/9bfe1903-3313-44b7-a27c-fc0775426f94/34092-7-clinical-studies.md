@@ -19,6 +19,6 @@ Seasonal Affective Disorder: The efficacy of WELLBUTRIN XL for the prevention of
 Treatment was initiated prior to the onset of symptoms in the autumn (September to November) and was discontinued following a 2 week taper that began the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
 At the start of the study, patients were randomized to receive placebo or WELLBUTRIN XL 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
-The mean WELLBUTRIN XL doses in the 3 studies ranged from 257 to 280 mg/day.
+The mean doses of WELLBUTRIN XL in the 3 studies ranged from 257 to 280 mg/day.
 
 In these 3 trials, the percentage of patients who were depression-free at the end of treatment was significantly higher for WELLBUTRIN XL than for placebo: 81.4% vs 69.7%, 87.2% vs 78.7%, and 84.0% vs 69.0% for Study 1, 2 and 3, respectively; with a depression-free rate for the 3 studies combined of 84.3% vs 72.0%.
