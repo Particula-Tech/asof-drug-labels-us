@@ -31,7 +31,7 @@ Most spontaneous reports of fatal GI events are in elderly or debilitated patien
 To minimize the potential risk for an adverse GI event in patients treated with an NSAID, use the lowest effective dose for the shortest possible duration.
 Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during Zipsor therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
 This should include discontinuation of Zipsor until a serious GI adverse event is ruled out.
-For high risk patients, alternative therapies that do not include NSAIDs, should be considered.
+For high risk patients, alternative therapies that do not include NSAIDs should be considered.
 
 ## 5.3 Hepatic Effects
 
@@ -92,19 +92,19 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 No information is available from controlled clinical studies regarding the use of Zipsor in patients with advanced renal disease.
 Therefore, treatment with Zipsor is not recommended in patients with advanced renal disease.
-If Zipsor therapy must be initiated, close monitoring of the patient’s renal function is advisable.
+If Zipsor therapy must be initiated, close monitoring of the patient's renal function is advisable.
 
 ## 5.7 Anaphylactoid Reactions
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Zipsor.
 Zipsor is contraindicated in patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see Contraindications and Warnings and Precautions).
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
 
 ## 5.8 Adverse Skin Reactions
 
 NSAIDs, including diclofenac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations, and to discontinue Zipsor at the first appearance of skin rash or any other sign of hypersensitivity.
+Patients should be informed about the signs and symptoms of serious skin manifestations, and to discontinue Zipsor at the first appearance of skin rash or any other sign of hypersensitivity [see Contraindications (4)].
 
 ## 5.9 Pregnancy
 
@@ -135,7 +135,7 @@ Carefully monitor patients treated with Zipsor who may be adversely affected by 
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, Zipsor is contraindicated in patients with this form of aspirin sensitivity and should be used with caution in all patients with preexisting asthma.
+Since cross reactivity, including bronchospasm, between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, Zipsor is contraindicated in patients with this form of aspirin sensitivity and should be used with caution in all patients with preexisting asthma [see Contraindications (4)].
 
 ## 5.14 Monitoring
 

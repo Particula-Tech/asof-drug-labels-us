@@ -8,5 +8,3 @@ In both studies, patients treated with Zipsor had a lower mean pain intensity sc
 The median time to onset of pain relief was less than one hour for Zipsor 25 mg across the clinical trials.
 
 The results were similar in Study 2.
-
-Figure 1 Mean Pain Intensity Scores at the Midpoint and End of Each Dose Interval in Postbunionectomy Pain Study 1

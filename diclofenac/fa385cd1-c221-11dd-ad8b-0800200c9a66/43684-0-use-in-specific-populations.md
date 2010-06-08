@@ -14,7 +14,7 @@ Reproductive studies have been performed in mice given diclofenac sodium (up to 
 In rats, maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
 Diclofenac has been shown to cross the placental barrier in mice, rats, and humans.
 
-Literature studies have shown that diclofenac has been shown to exert direct teratogenic effects on rat embryos in vitro at concentrations of 7.5 and 15 µg/mL, and diclofenac exposure to pregnant rats (1 mg/kg, IP) can lead to prolonged gestation as well as liver toxicity and neuronal loss in offspring.
+Literature studies have shown that diclofenac has been shown to exert direct teratogenic effects on rat embryos in vitro at concentrations of 7.5 and 15 μg/mL, and diclofenac exposure to pregnant rats (1 mg/kg, IP) can lead to prolonged gestation as well as liver toxicity and neuronal loss in offspring.
 
 ## 8.2 Labor and Delivery
 
@@ -39,4 +39,4 @@ In general, dose selection for an elderly patient should be cautious, usually st
 Diclofenac is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Older age increases the risk for GI bleeding.
-Most spontaneous reports of fatal GI events are in elderly or debilitated patients, and therefore special care should be taken in treating this population [see 5.2 Gastrointestinal (GI) Effects – Risk of GI Ulceration, Bleeding, and Perforation].
+Most spontaneous reports of fatal GI events are in elderly or debilitated patients, and therefore special care should be taken in treating this population [see Gastrointestinal (GI) Effects – Risk of GI Ulceration, Bleeding, and Perforation (5.2)].

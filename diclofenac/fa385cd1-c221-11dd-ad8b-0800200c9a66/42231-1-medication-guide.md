@@ -2,7 +2,8 @@ Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) (See the end
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.This chance increases:
+NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
+This chance increases:
 
 - with longer use of NSAID medicines
 - in people who have heart disease
@@ -55,7 +56,7 @@ Tell your healthcare provider:
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-| Serious side effects include: heart attack strokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
+| Serious side effects include: heart attack stroke high blood pressure heart failure from body swelling (fluid retention) kidney problems including kidney failure bleeding and ulcers in the stomach and intestine low red blood cells (anemia) life-threatening skin reactions life-threatening allergic reactions liver problems including liver failure asthma attacks in people who have asthma | Other side effects include: stomach pain constipation diarrhea gas heartburn nausea vomiting dizziness |
 | --- | --- |
 
 Get emergency help right away if you have any of the following symptoms:
@@ -118,3 +119,6 @@ NSAID medicines that need a prescription
 | *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+PI-592-B Rev.
+04/2010

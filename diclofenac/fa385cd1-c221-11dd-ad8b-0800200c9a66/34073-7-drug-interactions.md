@@ -2,7 +2,7 @@
 
 ## 7.1 Aspirin
 
-When administered with aspirin, diclofenac’s protein binding is reduced.
+When administered with aspirin, diclofenac's protein binding is reduced.
 The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of Zipsor and aspirin is not generally recommended because of the potential of increased adverse effects.
 
 ## 7.2 Anticoagulants
@@ -43,4 +43,4 @@ Use caution when Zipsor is administered concomitantly with cyclosporine.
 
 Diclofenac is metabolized predominantly by cytochrome P450 2C9.
 Co-administration of diclofenac with another drug medication known to be metabolized by or that which inhibits Cytochrome P450 2C9 may unpredictably affect the pharmacokinetics of diclofenac or the co-administered drug medication.
-Caution should be used to evaluate each patient’s medical history when consideration is given to prescribing Zipsor [see Clinical Pharmacology (12.3)].
+Caution should be used to evaluate each patient's medical history when consideration is given to prescribing Zipsor [see Clinical Pharmacology (12.3)].

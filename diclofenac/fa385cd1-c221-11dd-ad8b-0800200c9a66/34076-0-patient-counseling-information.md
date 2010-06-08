@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Inform patients of the availability of a Medication Guide for NSAIDs that accompanies each prescription dispensed, and instruct them to read the NSAID Medication Guide prior to using Zipsor [see Medication Guide (17.9)].
+Inform patients of the availability of a Medication Guide for NSAIDs that accompanies each prescription dispensed, and instruct them to read the NSAID Medication Guide prior to using Zipsor [see Medication Guide].
 
 ## 17.1 Cardiovascular Effects
 
@@ -38,4 +38,4 @@ Instruct patients to seek immediate emergency help if these occur [see Warnings 
 
 Starting at 30 weeks gestation, Zipsor and other NSAIDs, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
 
-Marketed by: Xanodyne pharmaceuticals, Inc. Newport, KY
+Marketed by: Xanodyne® pharmaceuticals, Inc. Newport, KY 41071
