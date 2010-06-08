@@ -113,7 +113,7 @@ Do not take WELLBUTRIN SR if you
 - are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® Extended-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN SR.
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®*(phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®*(isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®(phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®(isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in WELLBUTRIN SR, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN SR.
@@ -145,7 +145,9 @@ See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, 
 How should I take WELLBUTRIN SR?
 
 - Take WELLBUTRIN SR exactly as prescribed by your doctor.
-- Do not chew, cut, or crush WELLBUTRIN SR Tablets.
+- Do not chew, cut, or crush WELLBUTRIN SR tablets.
+  If you do, the medicine will be released into your body too quickly.
+  If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take WELLBUTRIN SR at the same time each day.
@@ -213,17 +215,13 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 In addition, the 100-mg tablet contains FD&C Blue No. 1 Lake, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake, and the 200-mg tablet contains FD&C Red No. 40 Lake.
 The tablets are printed with edible black ink.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, and PARNATE are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
-
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-July 2009
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, and PARNATE are registered trademarks of GlaxoSmithKline.
 
-WLS:5MG
+*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
 
 Distributed by:
 
@@ -241,9 +239,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-July 2009
+May 2010
 
-WLS:4PI
+WLS:6MG

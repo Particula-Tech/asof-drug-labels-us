@@ -8,3 +8,30 @@ WELLBUTRIN SR Sustained-Release Tablets, 200 mg of bupropion hydrochloride, are 
 
 Store at controlled room temperature, 20° to 25°C (68° to 77°F)[see USP].
 Dispense in a tight, light-resistant container as defined in the USP.
+
+WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and ZYBAN are registered trademarks of GlaxoSmithKline.
+
+KALETRA is a registered trademark of Abbott Laboratories.
+
+Distributed by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Manufactured by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+or DSM Pharmaceuticals, Inc.
+
+Greenville, NC 27834
+
+©2010, GlaxoSmithKline.
+All rights reserved
+
+May 2010
+
+WLS:5PI

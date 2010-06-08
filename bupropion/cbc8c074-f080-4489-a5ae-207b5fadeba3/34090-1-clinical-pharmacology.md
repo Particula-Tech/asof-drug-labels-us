@@ -10,13 +10,13 @@ While the mechanism of action of bupropion, as with other antidepressants, is un
 Bupropion is a racemic mixture.
 The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.
 The mean elimination half-life (±SD) of bupropion after chronic dosing is 21 (±9) hours, and steady-state plasma concentrations of bupropion are reached within 8 days.
-In a study comparing chronic dosing with WELLBUTRIN SR Tablets 150 mg twice daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, peak plasma concentrations of bupropion at steady state for WELLBUTRIN SR Tablets were approximately 85% of those achieved with the immediate-release formulation.
+In a study comparing chronic dosing with WELLBUTRIN SR 150 mg twice daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, peak plasma concentrations of bupropion at steady state for WELLBUTRIN SR were approximately 85% of those achieved with the immediate-release formulation.
 There was equivalence for bupropion AUCs, as well as equivalence for both peak plasma concentration and AUCs for all 3 of the detectable bupropion metabolites.
-Thus, at steady state, WELLBUTRIN SR Tablets, given twice daily, and the immediate-release formulation of bupropion, given 3 times daily, are essentially bioequivalent for both bupropion and the 3 quantitatively important metabolites.
+Thus, at steady state, WELLBUTRIN SR, given twice daily, and the immediate-release formulation of bupropion, given 3 times daily, are essentially bioequivalent for both bupropion and the 3 quantitatively important metabolites.
 
 ### Absorption
 
-Following oral administration of WELLBUTRIN SR Tablets to healthy volunteers, peak plasma concentrations of bupropion are achieved within 3 hours.
+Following oral administration of WELLBUTRIN SR to healthy volunteers, peak plasma concentrations of bupropion are achieved within 3 hours.
 Food increased Cmax and AUC of bupropion by 11% and 17%, respectively, indicating that there is no clinically significant food effect.
 
 ### Distribution
@@ -34,10 +34,19 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
+
+In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
+
+In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively (see PRECAUTIONS: Drug Interactions).
+
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
-Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of WELLBUTRIN SR Tablets.
+Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of WELLBUTRIN SR.
 Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.

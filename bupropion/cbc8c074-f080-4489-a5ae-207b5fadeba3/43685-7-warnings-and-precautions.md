@@ -86,14 +86,14 @@ WELLBUTRIN SR should be discontinued and not restarted in patients who experienc
 - Dose: At doses of WELLBUTRIN SR up to a dose of 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
-The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR Tablets.
-This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR Tablets up to 300 mg/day by as much as 4-fold.
+The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR.
+This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR up to 300 mg/day by as much as 4-fold.
 This relative risk is only an approximate estimate because no direct comparative studies have been conducted.
 
-Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day, which is twice the usual adult dose and one and one-half the maximum recommended daily dose (400 mg) of WELLBUTRIN SR Tablets.
+Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day, which is twice the usual adult dose and one and one-half the maximum recommended daily dose (400 mg) of WELLBUTRIN SR.
 This disproportionate increase in seizure incidence with dose incrementation calls for caution in dosing.
 
-Data for WELLBUTRIN SR Tablets revealed a seizure incidence of approximately 0.1% (i.e., 3 of 3,100 patients followed prospectively) in patients treated at doses in a range of 100 to 300 mg/day.
+Data for WELLBUTRIN SR revealed a seizure incidence of approximately 0.1% (i.e., 3 of 3,100 patients followed prospectively) in patients treated at doses in a range of 100 to 300 mg/day.
 It is not possible to know if the lower seizure incidence observed in this study involving the sustained-release formulation of bupropion resulted from the different formulation or the lower dose used.
 However, as noted above, the immediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
 
@@ -105,7 +105,7 @@ However, as noted above, the immediate-release and sustained-release formulation
 
 Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
-- the total daily dose of WELLBUTRIN SR Tablets does not exceed 400 mg,
+- the total daily dose of WELLBUTRIN SR does not exceed 400 mg,
 - the daily dose is administered twice daily, and
 - the rate of incrementation of dose is gradual.
 - No single dose should exceed 200 mg to avoid high peak concentrations of bupropion and/or its metabolites.
@@ -129,7 +129,7 @@ In dogs receiving large doses of bupropion chronically, various histologic chang
 
 ### Agitation and Insomnia
 
-Patients in placebo-controlled trials with WELLBUTRIN SR Tablets experienced agitation, anxiety, and insomnia as shown in Table 2.
+Patients in placebo-controlled trials with WELLBUTRIN SR experienced agitation, anxiety, and insomnia as shown in Table 2.
 
 Table 2.
 Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials
@@ -142,11 +142,11 @@ Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials
 
 In clinical studies, these symptoms were sometimes of sufficient magnitude to require treatment with sedative/hypnotic drugs.
 
-Symptoms were sufficiently severe to require discontinuation of treatment in 1% and 2.6% of patients treated with 300 and 400 mg/day, respectively, of WELLBUTRIN SR Tablets and 0.8% of patients treated with placebo.
+Symptoms were sufficiently severe to require discontinuation of treatment in 1% and 2.6% of patients treated with 300 and 400 mg/day, respectively, of WELLBUTRIN SR and 0.8% of patients treated with placebo.
 
 ### Psychosis, Confusion, and Other Neuropsychiatric Phenomena
 
-Depressed patients treated with an immediate-release formulation of bupropion or with WELLBUTRIN SR Tablets have been reported to show a variety of neuropsychiatric signs and symptoms, including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
+Depressed patients treated with an immediate-release formulation of bupropion or with WELLBUTRIN SR have been reported to show a variety of neuropsychiatric signs and symptoms, including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 
 ### Activation of Psychosis and/or Mania
@@ -167,7 +167,7 @@ Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials
 | Lost >5 lbs | 14% | 19% | 6% |
 
 In studies conducted with the immediate-release formulation of bupropion, 35% of patients receiving tricyclic antidepressants gained weight, compared to 9% of patients treated with the immediate-release formulation of bupropion.
-If weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN SR Tablets should be considered.
+If weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN SR should be considered.
 
 ### Allergic Reactions
 
@@ -237,24 +237,24 @@ If patients develop agitation, hostility, depressed mood, or changes in thinking
 
 Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
 
-As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take WELLBUTRIN SR Tablets in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
+As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take WELLBUTRIN SR in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
 Patients should be told that WELLBUTRIN SR should be discontinued and not restarted if they experience a seizure while on treatment.
 
-Patients should be told that any CNS-active drug like WELLBUTRIN SR Tablets may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
-Consequently, until they are reasonably certain that WELLBUTRIN SR Tablets do not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
+Patients should be told that any CNS-active drug like WELLBUTRIN SR may impair their ability to perform tasks requiring judgment or motor and cognitive skills.
+Consequently, until they are reasonably certain that WELLBUTRIN SR does not adversely affect their performance, they should refrain from driving an automobile or operating complex, hazardous machinery.
 
 Patients should be told that the excessive use or abrupt discontinuation of alcohol or sedatives (including benzodiazepines) may alter the seizure threshold.
 Some patients have reported lower alcohol tolerance during treatment with WELLBUTRIN SR.
 Patients should be advised that the consumption of alcohol should be minimized or avoided.
 
 Patients should be advised to inform their physicians if they are taking or plan to take any prescription or over-the-counter drugs.
-Concern is warranted because WELLBUTRIN SR Tablets and other drugs may affect each other’s metabolism.
+Concern is warranted because WELLBUTRIN SR and other drugs may affect each other’s metabolism.
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 
-Patients should be advised to swallow WELLBUTRIN SR Tablets whole so that the release rate is not altered.
-Do not chew, divide, or crush tablets.
+Patients should be advised to swallow WELLBUTRIN SR tablets whole so that the release rate is not altered.
+Do not chew, divide, or crush tablets, as this may lead to an increased risk of adverse effects, including seizures.
 
 ## Laboratory Tests
 
@@ -266,12 +266,16 @@ Few systemic data have been collected on the metabolism of bupropion following c
 
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates or inhibitors of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, and cyclophosphamide).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, ritonavir, and efavirenz inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
 Following oral administration of two 150-mg WELLBUTRIN SR Tablets with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+
+In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir 400 mg (KALETRA) twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
+This effect is thought to be due to the induction of bupropion metabolism.
+Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -292,6 +296,9 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
 
+Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
+Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolites.
+
 ### MAO Inhibitors
 
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
@@ -299,7 +306,7 @@ Studies in animals demonstrate that the acute toxicity of bupropion is enhanced 
 ### Levodopa and Amantadine
 
 Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
-Administration of WELLBUTRIN SR Tablets to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
+Administration of WELLBUTRIN SR to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
 
 ### Drugs That Lower Seizure Threshold
 
@@ -346,12 +353,12 @@ WELLBUTRIN SR should be used during pregnancy only if the potential benefit just
 
 ## Labor and Delivery
 
-The effect of WELLBUTRIN SR Tablets on labor and delivery in humans is unknown.
+The effect of WELLBUTRIN SR on labor and delivery in humans is unknown.
 
 ## Nursing Mothers
 
 Like many other drugs, bupropion and its metabolites are secreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from WELLBUTRIN SR Tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from WELLBUTRIN SR, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
