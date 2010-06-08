@@ -1,14 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019430"
+  ],
   "inn": "epinephrine",
-  "labeler": "DEY",
+  "labeler": "Dey Pharma L.P.",
   "package_ndcs": [
     "49502-500-01",
     "49502-500-02",
     "49502-501-01",
     "49502-501-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "EpiPen"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "EpiPen Jr"
+    }
+  ],
   "setid": "7560c201-9246-487c-a13b-6295db04274a",
   "source": "dailymed"
 }
