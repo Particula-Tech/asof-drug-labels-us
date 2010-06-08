@@ -1,16 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075798"
+  ],
   "inn": "allopurinol",
   "labeler": "Qualitest Pharmaceuticals",
   "package_ndcs": [
     "0603-2115-21",
     "0603-2115-28",
     "0603-2115-32",
+    "0603-2115-93",
     "0603-2116-21",
     "0603-2116-28",
     "0603-2116-32"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Allopurinol"
+    }
+  ],
   "setid": "fbac3b4f-dc23-4359-ac3f-2b3fdde41af2",
   "source": "dailymed"
 }
