@@ -8,8 +8,8 @@ Such reactions may occur when these drugs are given concurrently or in close pro
 
 ## 7.2 Effect of CYP2D6 Inhibitors on Atomoxetine
 
-In extensive metabolizers (EMs), inhibitors of CYP2D6 (e.g., paroxetine, fluoxetine, and quinidine) increase atomoxetine steady–state plasma concentrations to exposures similar to those observed in poor metabolizers (PMs).
-In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6– to 8–fold and Css,max is about 3– to 4–fold greater than atomoxetine alone.
+In extensive metabolizers (EMs), inhibitors of CYP2D6 (e.g., paroxetine, fluoxetine, and quinidine) increase atomoxetine steady-state plasma concentrations to exposures similar to those observed in poor metabolizers (PMs).
+In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6- to 8-fold and Css,max is about 3- to 4-fold greater than atomoxetine alone.
 
 In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will not increase the plasma concentrations of atomoxetine.
 
@@ -19,7 +19,7 @@ Because of possible effects on blood pressure, STRATTERA should be used cautious
 
 ## 7.4 Albuterol
 
-STRATTERA should be administered with caution to patients being treated with systemically–administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.
+STRATTERA should be administered with caution to patients being treated with systemically-administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.
 Albuterol (600 mcg iv over 2 hours) induced increases in heart rate and blood pressure.
 These effects were potentiated by atomoxetine (60 mg BID for 5 days) and were most marked after the initial coadministration of albuterol and atomoxetine.
 However, these effects on heart rate and blood pressure were not seen in another study after the coadministration with inhaled dose of albuterol (200-800 mcg) and atomoxetine (80 mg QD for 5 days) in 21 healthy Asian subjects who were excluded for poor metabolizer status.
@@ -44,7 +44,7 @@ Coadministration of methylphenidate with STRATTERA did not increase cardiovascul
 
 ## 7.8 Drugs Highly Bound to Plasma Protein
 
-In vitro drug–displacement studies were conducted with atomoxetine and other highly–bound drugs at therapeutic concentrations.
+In vitro drug-displacement studies were conducted with atomoxetine and other highly-bound drugs at therapeutic concentrations.
 Atomoxetine did not affect the binding of warfarin, acetylsalicylic acid, phenytoin, or diazepam to human albumin.
 Similarly, these compounds did not affect the binding of atomoxetine to human albumin.
 

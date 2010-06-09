@@ -2,7 +2,7 @@ MEDICATION GUIDE STRATTERA® (Stra-TAIR-a) (atomoxetine hydrochloride)
 
 Read the Medication Guide that comes with STRATTERA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your treatment or your child’s treatment with STRATTERA.
+This Medication Guide does not take the place of talking to your doctor about your treatment or your child's treatment with STRATTERA.
 
 What is the most important information I should know about STRATTERA?
 
@@ -14,7 +14,7 @@ Suicidal thoughts and actions in children and teenagers:
 Children and teenagers sometimes think about suicide, and many report trying to kill themselves.
 Results from STRATTERA clinical studies with over 2200 child or teenage ADHD patients suggest that some children and teenagers may have a higher chance of having suicidal thoughts or actions.
 Although no suicides occurred in these studies, 4 out of every 1000 patients developed suicidal thoughts.
-Tell your child or teenager’s doctor if your child or teenager (or there is a family history of):
+Tell your child or teenager's doctor if your child or teenager (or there is a family history of):
 
 - has bipolar illness (manic-depressive illness)
 - had suicide thoughts or actions before starting STRATTERA
@@ -26,8 +26,8 @@ The chance for suicidal thoughts and actions may be higher:
 
 Prevent suicidal thoughts and action in your child or teenager by:
 
-- paying close attention to your child or teenager’s moods, behaviors, thoughts, and feelings during STRATTERA treatment
-- keeping all follow-up visits with your child or teenager’s doctor as scheduled
+- paying close attention to your child or teenager's moods, behaviors, thoughts, and feelings during STRATTERA treatment
+- keeping all follow-up visits with your child or teenager's doctor as scheduled
 
 Watch for the following signs in your child or teenager during STRATTERA treatment:
 
@@ -44,7 +44,7 @@ Watch for the following signs in your child or teenager during STRATTERA treatme
 - depression
 - suicide thoughts
 
-Call your child or teenager’s doctor right away if they have any of the above signs, especially if they are new, sudden, or severe.
+Call your child or teenager's doctor right away if they have any of the above signs, especially if they are new, sudden, or severe.
 Your child or teenager may need to be closely watched for suicidal thoughts and actions or need a change in medicine.
 
 2.
@@ -69,7 +69,7 @@ Heart-related problems:
 Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
 Your doctor should check you or your child carefully for heart problems before starting STRATTERA.
 
-Your doctor should check your blood pressure or your child’s blood pressure and heart rate regularly during treatment with STRATTERA.
+Your doctor should check your blood pressure or your child's blood pressure and heart rate regularly during treatment with STRATTERA.
 
 Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking STRATTERA.
 
@@ -78,7 +78,7 @@ New mental (psychiatric) problems in children and teenagers:
 
 - new psychotic symptoms (such as hearing voices, believing things that are not true, being suspicious) or new manic symptoms
 
-Call your child or teenager’s doctor right away about any new mental symptoms because adjusting or stopping STRATTERA treatment may need to be considered.
+Call your child or teenager's doctor right away about any new mental symptoms because adjusting or stopping STRATTERA treatment may need to be considered.
 
 What Is STRATTERA?
 
@@ -101,7 +101,7 @@ STRATTERA should not be taken if you or your child:
   See the end of this Medication Guide for a complete list of ingredients.
 
 STRATTERA may not be right for you or your child.
-Before starting STRATTERA tell your doctor or your child’s doctor about all health conditions (or a family history of) including:
+Before starting STRATTERA tell your doctor or your child's doctor about all health conditions (or a family history of) including:
 
 - have or had suicide thoughts or actions
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
@@ -139,7 +139,7 @@ How should STRATTERA be taken?
   A different medicine may need to be prescribed.
 - Avoid touching a broken STRATTERA capsule.
   Wash hands and surfaces that touched an open STRATTERA capsule.
-  If any of the powder gets in your eyes or your child’s eyes, rinse them with water right away and call your doctor.
+  If any of the powder gets in your eyes or your child's eyes, rinse them with water right away and call your doctor.
 - STRATTERA can be taken with or without food.
 - STRATTERA is usually taken once or twice a day.
   Take STRATTERA at the same time each day to help you remember.
@@ -187,10 +187,10 @@ Common side effects in adults include:
 
 Other information for children, teenagers, and adults:
 
-- Erections that won’t go away (priapism) have occurred rarely during treatment with STRATTERA.
+- Erections that won't go away (priapism) have occurred rarely during treatment with STRATTERA.
   If you have an erection that lasts more than 4 hours, seek medical help right away.
   Because of the potential for lasting damage, including the potential inability to have erections, priapism should be evaluated by a doctor immediately.
-- STRATTERA may affect your ability or your child’s ability to drive or operate heavy machinery.
+- STRATTERA may affect your ability or your child's ability to drive or operate heavy machinery.
   Be careful until you know how STRATTERA affects you or your child.
 - Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -213,7 +213,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about STRATTERA.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about STRATTERA that was written for healthcare professionals.
-For more information about STRATTERA call 1–800–Lilly–Rx (1–800–545–5979) or visit www.strattera.com.
+For more information about STRATTERA call 1-800-Lilly-Rx (1-800-545-5979) or visit www.strattera.com.
 
 What are the ingredients in STRATTERA?
 
@@ -231,9 +231,7 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 
 Patient Information revised July 23, 2008
 
-Eli Lilly and Company
-
-Indianapolis, IN 46285, USA
+Eli Lilly and Company Indianapolis, IN 46285, USA
 
 www.strattera.com
 

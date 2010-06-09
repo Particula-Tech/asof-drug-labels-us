@@ -2,15 +2,15 @@
 
 ## 5.1 Suicidal Ideation
 
-STRATTERA increased the risk of suicidal ideation in short–term studies in children and adolescents with Attention–Deficit/Hyperactivity Disorder (ADHD).
-Pooled analyses of short–term (6 to 18 weeks) placebo–controlled trials of STRATTERA in children and adolescents have revealed a greater risk of suicidal ideation early during treatment in those receiving STRATTERA.
+STRATTERA increased the risk of suicidal ideation in short-term studies in children and adolescents with Attention-Deficit/Hyperactivity Disorder (ADHD).
+Pooled analyses of short-term (6 to 18 weeks) placebo-controlled trials of STRATTERA in children and adolescents have revealed a greater risk of suicidal ideation early during treatment in those receiving STRATTERA.
 There were a total of 12 trials (11 in ADHD and 1 in enuresis) involving over 2200 patients (including 1357 patients receiving STRATTERA and 851 receiving placebo).
-The average risk of suicidal ideation in patients receiving STRATTERA was 0.4% (5/1357 patients), compared to none in placebo–treated patients.
+The average risk of suicidal ideation in patients receiving STRATTERA was 0.4% (5/1357 patients), compared to none in placebo-treated patients.
 There was 1 suicide attempt among these approximately 2200 patients, occurring in a patient treated with STRATTERA.
 No suicides occurred in these trials.
 All reactions occurred in children 12 years of age or younger.
 All reactions occurred during the first month of treatment.
-It is unknown whether the risk of suicidal ideation in pediatric patients extends to longer–term use.
+It is unknown whether the risk of suicidal ideation in pediatric patients extends to longer-term use.
 A similar analysis in adult patients treated with STRATTERA for either ADHD or major depressive disorder (MDD) did not reveal an increased risk of suicidal ideation or behavior in association with the use of STRATTERA.
 
 All pediatric patients being treated with STRATTERA should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
@@ -19,7 +19,7 @@ The following symptoms have been reported with STRATTERA: anxiety, agitation, pa
 Although a causal link between the emergence of such symptoms and the emergence of suicidal impulses has not been established, there is a concern that such symptoms may represent precursors to emerging suicidality.
 Thus, patients being treated with STRATTERA should be observed for the emergence of such symptoms.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who are experiencing emergent suicidality or symptoms that might be precursors to emerging suicidality, especially if these symptoms are severe or abrupt in onset, or were not part of the patient’s presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who are experiencing emergent suicidality or symptoms that might be precursors to emerging suicidality, especially if these symptoms are severe or abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of pediatric patients being treated with STRATTERA should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -30,7 +30,7 @@ Postmarketing reports indicate that STRATTERA can cause severe liver injury.
 Although no evidence of liver injury was detected in clinical trials of about 6000 patients, there have been rare cases of clinically significant liver injury that were considered probably or possibly related to STRATTERA use in postmarketing experience.
 Because of probable underreporting, it is impossible to provide an accurate estimate of the true incidence of these reactions.
 Reported cases of liver injury occurred within 120 days of initiation of atomoxetine in the majority of cases and some patients presented with markedly elevated liver enzymes [>20 X upper limit of normal (ULN)], and jaundice with significantly elevated bilirubin levels (>2 X ULN), followed by recovery upon atomoxetine discontinuation.
-In one patient, liver injury, manifested by elevated hepatic enzymes up to 40 X upper limit of normal ULN and jaundice with bilirubin up to 12 X ULN, recurred upon rechallenge, and was followed by recovery upon drug discontinuation, providing evidence that STRATTERA likely caused the liver injury.
+In one patient, liver injury, manifested by elevated hepatic enzymes up to 40 X ULN and jaundice with bilirubin up to 12 X ULN, recurred upon rechallenge, and was followed by recovery upon drug discontinuation, providing evidence that STRATTERA likely caused the liver injury.
 Such reactions may occur several months after therapy is started, but laboratory abnormalities may continue to worsen for several weeks after drug is stopped.
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 However, severe liver injury due to any drug may potentially progress to acute liver failure resulting in death or the need for a liver transplant.
@@ -59,40 +59,40 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 STRATTERA should be used with caution in patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease because it can increase blood pressure and heart rate.
 Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy.
 
-In pediatric placebo–controlled trials, STRATTERA–treated subjects experienced a mean increase in heart rate of about 6 beats/minute compared with placebo subjects.
-At the final study visit before drug discontinuation, 2.5% (36/1434) of STRATTERA–treated subjects had heart rate increases of at least 25 beats/minute and a heart rate of at least 110 beats/minute, compared with 0.2% (2/850) of placebo subjects.
+In pediatric placebo-controlled trials, STRATTERA-treated subjects experienced a mean increase in heart rate of about 6 beats/minute compared with placebo subjects.
+At the final study visit before drug discontinuation, 2.5% (36/1434) of STRATTERA-treated subjects had heart rate increases of at least 25 beats/minute and a heart rate of at least 110 beats/minute, compared with 0.2% (2/850) of placebo subjects.
 There were 1.1% (15/1417) pediatric STRATTERA-treated subjects with a heart rate increase of at least 25 beats/minute and a heart rate of at least 110 beats/minute on more than one occasion.
 Tachycardia was identified as an adverse event for 0.3% (5/1597) of these pediatric subjects compared with 0% (0/934) of placebo subjects.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
-STRATTERA–treated pediatric subjects experienced mean increases of about 1.6 and 2.4 mm Hg in systolic and diastolic blood pressures, respectively compared with placebo.
-At the final study visit before drug discontinuation, 4.8% (59/1226) of STRATTERA–treated pediatric subjects had high systolic blood pressure measurements compared with 3.5% (26/748) of placebo subjects.
-High systolic blood pressures were measured on 2 or more occasions in 4.4% (54/1226) of STRATTERA–treated subjects and 1.9% (14/748) of placebo subjects.
-At the final study visit before drug discontinuation, 4.0% (50/1262) of STRATTERA–treated pediatric subjects had high diastolic blood pressure measurements compared with 1.1% (8/759) of placebo subjects.
-High diastolic blood pressures were measured on 2 or more occasions in 3.5% (44/1262) of STRATTERA–treated subjects and 0.5% (4/759) of placebo subjects.
-(High systolic and diastolic blood pressure measurements were defined as those exceeding the 95th percentile, stratified by age, gender, and height percentile – National High Blood Pressure Education Working Group on Hypertension Control in Children and Adolescents.)
+STRATTERA-treated pediatric subjects experienced mean increases of about 1.6 and 2.4 mm Hg in systolic and diastolic blood pressures, respectively compared with placebo.
+At the final study visit before drug discontinuation, 4.8% (59/1226) of STRATTERA-treated pediatric subjects had high systolic blood pressure measurements compared with 3.5% (26/748) of placebo subjects.
+High systolic blood pressures were measured on 2 or more occasions in 4.4% (54/1226) of STRATTERA-treated subjects and 1.9% (14/748) of placebo subjects.
+At the final study visit before drug discontinuation, 4.0% (50/1262) of STRATTERA-treated pediatric subjects had high diastolic blood pressure measurements compared with 1.1% (8/759) of placebo subjects.
+High diastolic blood pressures were measured on 2 or more occasions in 3.5% (44/1262) of STRATTERA-treated subjects and 0.5% (4/759) of placebo subjects.
+(High systolic and diastolic blood pressure measurements were defined as those exceeding the 95th percentile, stratified by age, gender, and height percentile - National High Blood Pressure Education Working Group on Hypertension Control in Children and Adolescents.)
 
-In adult placebo–controlled trials, STRATTERA–treated subjects experienced a mean increase in heart rate of 5 beats/minute compared with placebo subjects.
+In adult placebo-controlled trials, STRATTERA-treated subjects experienced a mean increase in heart rate of 5 beats/minute compared with placebo subjects.
 Tachycardia was identified as an adverse event for 1.5% (8/540) of these adult atomoxetine subjects compared with 0.5% (2/402) of placebo subjects.
 
-STRATTERA–treated adult subjects experienced mean increases in systolic (about 2.0 mm Hg) and diastolic (about 1.0 mm Hg) blood pressures compared with placebo.
-At the final study visit before drug discontinuation, 2.2% (11/510) of STRATTERA–treated adult subjects had systolic blood pressure measurements ≥150 mm Hg compared with 1.0% (4/393) of placebo subjects.
-At the final study visit before drug discontinuation, 0.4% (2/510) of STRATTERA–treated adult subjects had diastolic blood pressure measurements ≥100 mm Hg compared with 0.5% (2/393) of placebo subjects.
+STRATTERA-treated adult subjects experienced mean increases in systolic (about 2.0 mm Hg) and diastolic (about 1.0 mm Hg) blood pressures compared with placebo.
+At the final study visit before drug discontinuation, 2.2% (11/510) of STRATTERA-treated adult subjects had systolic blood pressure measurements ≥150 mm Hg compared with 1.0% (4/393) of placebo subjects.
+At the final study visit before drug discontinuation, 0.4% (2/510) of STRATTERA-treated adult subjects had diastolic blood pressure measurements ≥100 mm Hg compared with 0.5% (2/393) of placebo subjects.
 No adult subject had a high systolic or diastolic blood pressure detected on more than one occasion.
 
 Orthostatic hypotension and syncope have been reported in patients taking STRATTERA.
 In child and adolescent trials, 0.2% (12/5596) of STRATTERA-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
-In short-term child and adolescent controlled trials, 1.8% (6/340) of STRATTERA–treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
+In short-term child and adolescent controlled trials, 1.8% (6/340) of STRATTERA-treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
 Syncope was not reported during short-term child and adolescent placebo-controlled ADHD trials.
 STRATTERA should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
 
-Peripheral vascular effects — There have been spontaneous postmarketing reports of Raynaud’s phenomenon (new onset and exacerbation of preexisting condition).
+Peripheral vascular effects — There have been spontaneous postmarketing reports of Raynaud's phenomenon (new onset and exacerbation of preexisting condition).
 
 ## 5.5 Emergence of New Psychotic or Manic Symptoms
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short–term, placebo–controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine–treated patients compared to 0 out of 1056 placebo–treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1056 placebo-treated patients.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
@@ -104,9 +104,9 @@ However, prior to initiating treatment with STRATTERA, patients with comorbid de
 
 Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
 Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In short–term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo–treated patients spontaneously reported treatment emergent hostility-related adverse events.
+In short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events.
 Although this is not conclusive evidence that STRATTERA causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children and adolescents treated with STRATTERA compared to placebo (overall risk ratio of 1.33 [95% C.I.
-0.67–2.64– not statistically significant]).
+0.67-2.64 - not statistically significant]).
 
 ## 5.8 Allergic Events
 
@@ -126,20 +126,20 @@ Prompt medical attention is required in the event of suspected priapism.
 
 ## 5.11 Effects on Growth
 
-Data on the long–term effects of STRATTERA on growth come from open–label studies, and weight and height changes are compared to normative population data.
-In general, the weight and height gain of pediatric patients treated with STRATTERA lags behind that predicted by normative population data for about the first 9–12 months of treatment.
+Data on the long-term effects of STRATTERA on growth come from open-label studies, and weight and height changes are compared to normative population data.
+In general, the weight and height gain of pediatric patients treated with STRATTERA lags behind that predicted by normative population data for about the first 9-12 months of treatment.
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with STRATTERA have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
 After about 12 months, gain in height stabilizes, and at 3 years, patients treated with STRATTERA have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
-Patients who were pre–pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
+Patients who were pre-pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
 Patients who were pubertal (girls >8 to ≤13 years old, boys >9 to ≤14 years old) or late pubertal (girls >13 years old, boys >14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
 
 Growth followed a similar pattern in both extensive and poor metabolizers (EMs, PMs).
 PMs treated for at least two years gained an average of 2.4 kg and 1.1 cm less than predicted, while EMs gained an average of 0.2 kg and 0.4 cm less than predicted.
 
-In short–term controlled studies (up to 9 weeks), STRATTERA–treated patients lost an average of 0.4 kg and gained an average of 0.9 cm, compared to a gain of 1.5 kg and 1.1 cm in the placebo–treated patients.
-In a fixed–dose controlled trial, 1.3%, 7.1%, 19.3%, and 29.1% of patients lost at least 3.5% of their body weight in the placebo, 0.5, 1.2, and 1.8 mg/kg/day dose groups.
+In short-term controlled studies (up to 9 weeks), STRATTERA-treated patients lost an average of 0.4 kg and gained an average of 0.9 cm, compared to a gain of 1.5 kg and 1.1 cm in the placebo-treated patients.
+In a fixed-dose controlled trial, 1.3%, 7.1%, 19.3%, and 29.1% of patients lost at least 3.5% of their body weight in the placebo, 0.5, 1.2, and 1.8 mg/kg/day dose groups.
 
 Growth should be monitored during treatment with STRATTERA.
 
@@ -147,7 +147,7 @@ Growth should be monitored during treatment with STRATTERA.
 
 Routine laboratory tests are not required.
 
-CYP2D6 metabolism — Poor metabolizers (PMs) of CYP2D6 have a 10–fold higher AUC and a 5–fold higher peak concentration to a given dose of STRATTERA compared with extensive metabolizers (EMs).
+CYP2D6 metabolism — Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of STRATTERA compared with extensive metabolizers (EMs).
 Approximately 7% of a Caucasian population are PMs.
 Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
@@ -155,6 +155,6 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 
 ## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
 
-Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4–hydroxyatomoxetine.
+Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
 [see Dosage and Administration (2.3) and Drug Interactions (7.2)].

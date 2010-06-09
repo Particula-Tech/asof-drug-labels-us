@@ -15,14 +15,14 @@ Patients should be advised of the following issues and asked to alert their pres
 ## 17.2 Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, depression, and suicidal ideation, especially early during STRATTERA treatment and when the dose is adjusted.
-Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day–to–day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 ## 17.3 Severe Liver Injury
 
 Patients initiating STRATTERA should be cautioned that severe liver injury may develop.
-Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu–like” symptoms [see Warnings and Precautions (5.2)].
+Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms [see Warnings and Precautions (5.2)].
 
 ## 17.4 Aggression or Hostility
 
@@ -42,7 +42,7 @@ Hands and any potentially contaminated surfaces should be washed as soon as poss
 
 ## 17.7 Drug-Drug Interaction
 
-Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over–the–counter medicines, dietary supplements, or herbal remedies.
+Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
 
 ## 17.8 Pregnancy
 
@@ -54,7 +54,7 @@ Patients may take STRATTERA with or without food.
 
 ## 17.10 Missed Dose
 
-If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of STRATTERA in any 24–hour period.
+If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of STRATTERA in any 24-hour period.
 
 ## 17.11 Interference with Psychomotor Performance
 

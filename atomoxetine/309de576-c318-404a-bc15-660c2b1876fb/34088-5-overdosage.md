@@ -17,4 +17,4 @@ An airway should be established.
 Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.
 Gastric lavage may be indicated if performed soon after ingestion.
 Activated charcoal may be useful in limiting absorption.
-Because atomoxetine is highly protein–bound, dialysis is not likely to be useful in the treatment of overdose.
+Because atomoxetine is highly protein-bound, dialysis is not likely to be useful in the treatment of overdose.

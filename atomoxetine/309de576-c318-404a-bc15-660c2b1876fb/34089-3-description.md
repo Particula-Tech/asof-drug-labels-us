@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 STRATTERA® (atomoxetine HCl) is a selective norepinephrine reuptake inhibitor.
-Atomoxetine HCl is the R(-) isomer as determined by x–ray diffraction.
+Atomoxetine HCl is the R(-) isomer as determined by x-ray diffraction.
 The chemical designation is (-)-N-Methyl-3-phenyl-3-(o-tolyloxy)-propylamine hydrochloride.
 The molecular formula is C17H21NO•HCl, which corresponds to a molecular weight of 291.82.
 The chemical structure is:

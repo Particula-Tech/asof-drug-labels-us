@@ -51,7 +51,7 @@ The safety, efficacy and pharmacokinetics of STRATTERA in geriatric patients hav
 
 ## 8.6 Hepatic Insufficiency
 
-Atomoxetine exposure (AUC) is increased, compared with normal subjects, in EM subjects with moderate (Child–Pugh Class B) (2–fold increase) and severe (Child–Pugh Class C) (4–fold increase) hepatic insufficiency.
+Atomoxetine exposure (AUC) is increased, compared with normal subjects, in EM subjects with moderate (Child-Pugh Class B) (2-fold increase) and severe (Child-Pugh Class C) (4-fold increase) hepatic insufficiency.
 Dosage adjustment is recommended for patients with moderate or severe hepatic insufficiency [see Dosage and Administration (2.3)].
 
 ## 8.7 Renal Insufficiency
@@ -69,13 +69,13 @@ Ethnic origin did not influence atomoxetine disposition (except that PMs are mor
 
 ## 8.10 Patients with Concomitant Illness
 
-Tics in patients with ADHD and comorbid Tourette’s Disorder — Atomoxetine administered in a flexible dose range of 0.5 to 1.5 mg/kg/day (mean dose of 1.3 mg/kg/day) and placebo were compared in 148 randomized pediatric (age 7-17 years) subjects with a DSM-IV diagnosis of ADHD and comorbid tic disorder in an 18 week, double- blind, placebo-controlled study in which the majority (80%) enrolled in this trial with Tourette’s Disorder (Tourette’s Disorder: 116 subjects; chronic motor tic disorder: 29 subjects).
+Tics in patients with ADHD and comorbid Tourette's Disorder — Atomoxetine administered in a flexible dose range of 0.5 to 1.5 mg/kg/day (mean dose of 1.3 mg/kg/day) and placebo were compared in 148 randomized pediatric (age 7-17 years) subjects with a DSM-IV diagnosis of ADHD and comorbid tic disorder in an 18 week, double-blind, placebo-controlled study in which the majority (80%) enrolled in this trial with Tourette's Disorder (Tourette's Disorder: 116 subjects; chronic motor tic disorder: 29 subjects).
 A non-inferiority analysis revealed that STRATTERA did not worsen tics in these patients as determined by the Yale Global Tic Severity Scale Total Score (YGTSS).
 Out of 148 patients who entered the acute treatment phase, 103 (69.6%) patients discontinued the study.
 The primary reason for discontinuation in both the atomoxetine (38 of 76 patients, 50.0%) and placebo (45 of 72 patients, 62.5%) treatment groups was identified as lack of efficacy with most of the patients discontinuing at Week 12.
 This was the first visit where patients with a CGI-S≥4 could also meet the criteria for “clinical non-responder” (CGI-S remained the same or increased from study baseline) and be eligible to enter an open-label extension study with atomoxetine.
 
-Anxiety in patients with ADHD and comorbid Anxiety Disorders - In two post-marketing, double-blind, placebo-controlled trials, it has been demonstrated that treating patients with ADHD and comorbid anxiety disorders with STRATTERA does not worsen their anxiety.
+Anxiety in patients with ADHD and comorbid Anxiety Disorders – In two post-marketing, double-blind, placebo-controlled trials, it has been demonstrated that treating patients with ADHD and comorbid anxiety disorders with STRATTERA does not worsen their anxiety.
 
 In a 12-week double-blind, placebo-controlled trial, 176 patients, aged 8-17, who met DSM-IV criteria for ADHD and at least one of the anxiety disorders of separation anxiety disorder, generalized anxiety disorder or social phobia were randomized.
 Following a 2-week double-blind placebo lead-in, STRATTERA was initiated at 0.8 mg/kg/day with increase to a target dose of 1.2 mg/kg/day (median dose 1.30 mg/kg/day +/- 0.29 mg/kg/day).
