@@ -11,7 +11,7 @@ See PRECAUTIONS and OVERDOSAGE sections.
 
 Gastrointestinal disturbances are the most common reactions.
 Gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy; constipation and gastralgia, one in one hundred.
-They appear to be dose-related and may disappear on division or reduction of dosage.
+They appear to be dose related and may disappear on division or reduction of dosage.
 Cholestatic jaundice may occur rarely with sulfonylureas: GLUCOTROL should be discontinued if this occurs.
 
 ## Dermatologic
@@ -42,6 +42,14 @@ They are usually transient and seldom require discontinuance of therapy.
 ## Laboratory Tests
 
 The pattern of laboratory test abnormalities observed with GLUCOTROL was similar to that for other sulfonylureas.
-Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN and creatinine were noted.
+Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN, and creatinine were noted.
 One case of jaundice was reported.
 The relationship of these abnormalities to GLUCOTROL is uncertain, and they have rarely been associated with clinical symptoms.
+
+## Post-Marketing Experience
+
+The following adverse events have been reported in post-marketing surveillance:
+
+### Hepatobiliary
+
+Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; GLUCOTROL should be discontinued if this occurs.

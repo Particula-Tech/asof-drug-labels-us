@@ -47,7 +47,7 @@ This phenomenon is known as secondary failure, to distinguish it from primary fa
 
 Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
 Because GLUCOTROL belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
-In post marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+In post-marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
 
 ## Laboratory Tests
 
@@ -104,7 +104,7 @@ Studies in rats of both sexes at doses up to 75 times the human dose showed no e
 GLUCOTROL (glipizide) was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5–50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
 The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of GLUCOTROL.
-In studies in rats and rabbits no teratogenic effects were found.
+In studies in rats and rabbits, no teratogenic effects were found.
 There are no adequate and well controlled studies in pregnant women.
 GLUCOTROL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -130,4 +130,4 @@ Safety and effectiveness in children have not been established.
 
 A determination has not been made whether controlled clinical studies of GLUCOTROL included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

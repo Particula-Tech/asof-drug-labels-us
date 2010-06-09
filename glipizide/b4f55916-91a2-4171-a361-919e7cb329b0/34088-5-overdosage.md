@@ -3,7 +3,7 @@
 There is no well documented experience with GLUCOTROL overdosage.
 The acute oral toxicity was extremely low in all species tested (LD50 greater than 4 g/kg).
 
-Overdosage of sulfonylureas including GLUCOTROL can produce hypoglycemia.
+Overdosage of sulfonylureas, including GLUCOTROL, can produce hypoglycemia.
 Mild hypoglycemic symptoms without loss of consciousness or neurologic findings should be treated aggressively with oral glucose and adjustments in drug dosage and/or meal patterns.
 Close monitoring should continue until the physician is assured that the patient is out of danger.
 Severe hypoglycemic reactions with coma, seizure, or other neurological impairment occur infrequently, but constitute medical emergencies requiring immediate hospitalization.
