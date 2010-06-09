@@ -55,25 +55,35 @@ Although these adverse experiences occurred in patients treated with GLUCOTROL X
 
 There have been rare reports of gastrointestinal irritation and gastrointestinal bleeding with use of another drug in this non-deformable sustained release formulation, although causal relationship to the drug is uncertain.
 
-In post-marketing experience of GLUCOTROL XL, the additional adverse reaction of abdominal pain has been reported.
+## Post-Marketing Experience
+
+The following adverse events have been reported in post-marketing surveillance:
+
+### Gastrointestinal
+
+abdominal pain
+
+### Hepatobiliary
+
+Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; GLUCOTROL XL should be discontinued if this occurs.
 
 The following are adverse experiences reported with immediate release glipizide and other sulfonylureas, but have not been observed with GLUCOTROL XL:
 
-## Hematologic
+### Hematologic
 
 Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia (see PRECAUTIONS), aplastic anemia, and pancytopenia have been reported with sulfonylureas.
 
-## Metabolic
+### Metabolic
 
 Hepatic porphyria and disulfiram-like reactions have been reported with sulfonylureas.
 In the mouse, glipizide pretreatment did not cause an accumulation of acetaldehyde after ethanol administration.
 Clinical experience to date has shown that glipizide has an extremely low incidence of disulfiram-like alcohol reactions.
 
-## Endocrine Reactions
+### Endocrine Reactions
 
 Cases of hyponatremia and the syndrome of inappropriate antidiuretic hormone (SIADH) secretion have been reported with glipizide and other sulfonylureas.
 
-## Laboratory Tests
+### Laboratory Tests
 
 The pattern of laboratory test abnormalities observed with glipizide was similar to that for other sulfonylureas.
 Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN and creatinine were noted.

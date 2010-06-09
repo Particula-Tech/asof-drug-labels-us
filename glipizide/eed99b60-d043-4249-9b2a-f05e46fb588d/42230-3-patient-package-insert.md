@@ -56,7 +56,7 @@ Before you start GLUCOTROL XL, tell the healthcare provider if you:
   GLUCOTROL XL may pass to the baby through your milk and cause harm.
 - have glucose-6-phosphate dehydrogenase (G6PD) deficiency.
   This condition usually runs in families.
-  People with G6PD deficiency who take Glucotrol XL may develop hemolytic anemia (fast breakdown of red blood cells).
+  People with G6PD deficiency who take GLUCOTROL XL may develop hemolytic anemia (fast breakdown of red blood cells).
 
 How Should I Take GLUCOTROL XL?
 
@@ -103,21 +103,11 @@ Do not adjust the dose on your own.
 Be sure you know how to recognize your body's signs that your blood sugar is too low.
 These signs include:
 
-- a cold clammy feeling
-- unusual sweating
-- dizziness
-- weakness
-- trembling
-- shakiness
-- hunger
-- fast heartbeat
-- headache
-- blurred vision
-- slurred speech
-- tingling in the lips or hands
+| a cold clammy feelingunusual sweatingdizzinessweakness tremblingshakiness | hungerfast heartbeatheadacheblurred visionslurred speechtingling in the lips or hands |
+| --- | --- |
 
 If you notice any of these signs, eat or drink something with sugar in it right away, such as a regular (not diet) soft drink, orange juice, honey, sugar candy.
-You can also keep glucose tablets on hand that are available at your pharmacy.
+You can also keep glucose tablets on hand that are available from your pharmacy.
 If you do not feel better shortly or your blood sugar level does not go up, call your healthcare provider.
 If you cannot reach your healthcare provider in an emergency, call 911 or have someone drive you to the nearest emergency room.
 
@@ -139,7 +129,7 @@ If you have risk factors for heart disease and take GLUCOTROL XL, be sure to see
 How To Store GLUCOTROL XL
 
 Keep GLUCOTROL XL and all medicines out of reach of children.
-Store GLUCOTROL XL in a dry place, in its original container, and at room temperature (between 59°–86° F or 15°–30° C).
+Store GLUCOTROL XL in a dry place, in its original container, and at room temperature (between 59°–86°F or 15°–30°C).
 
 General Advice About Prescription Medicines
 

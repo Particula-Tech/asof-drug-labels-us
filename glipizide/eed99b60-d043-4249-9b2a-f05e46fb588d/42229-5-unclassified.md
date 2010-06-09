@@ -2,6 +2,6 @@ For Oral Use
 
 Rx only
 
-LAB-0113-6.0
+LAB-0113-7.0
 
-September 2009
+May 2010

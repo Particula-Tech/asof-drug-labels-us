@@ -20,16 +20,16 @@ Alternatively, glipizide may be effective in some patients who have not responde
 The effectiveness of GLUCOTROL XL Extended Release Tablets in type 2 diabetes at doses from 5–60 mg once daily has been evaluated in 4 therapeutic clinical trials each with long-term open extensions involving a total of 598 patients.
 Once daily administration of 5, 10 and 20 mg produced statistically significant reductions from placebo in hemoglobin A1C, fasting plasma glucose and postprandial glucose in patients with mild to severe type 2 diabetes.
 In a pooled analysis of the patients treated with 5 mg and 20 mg, the relationship between dose and GLUCOTROL XL's effect of reducing hemoglobin A1C was not established.
-However, in the case of fasting plasma glucose patients treated with 20 mg had a statistically significant reduction of fasting plasma glucose compared to the 5 mg-treated group.
+However, in the case of fasting plasma glucose, patients treated with 20 mg had a statistically significant reduction of fasting plasma glucose compared to the 5 mg-treated group.
 
 The reductions in hemoglobin A1C and fasting plasma glucose were similar in younger and older patients.
 Efficacy of GLUCOTROL XL was not affected by gender, race or weight (as assessed by body mass index).
-In long term extension trials, efficacy of GLUCOTROL XL was maintained in 81% of patients for up to 12 months.
+In long-term extension trials, efficacy of GLUCOTROL XL was maintained in 81% of patients for up to 12 months.
 
-In an open, two-way crossover study 132 patients were randomly assigned to either GLUCOTROL XL or Glucotrol® for 8 weeks and then crossed over to the other drug for an additional 8 weeks.
+In an open, two-way crossover study, 132 patients were randomly assigned to either GLUCOTROL XL or Glucotrol® for 8 weeks and then crossed over to the other drug for an additional 8 weeks.
 GLUCOTROL XL administration resulted in significantly lower fasting plasma glucose levels and equivalent hemoglobin A1C levels, as compared to Glucotrol.
 
-In 12 week, well-controlled studies there was a maximal average net reduction in hemoglobin A1c of 1.7% in absolute units between placebo-treated and GLUCOTROL XL-treated patients.
+In 12 week, well-controlled studies, there was a maximal average net reduction in hemoglobin A1C of 1.7% in absolute units between placebo-treated and GLUCOTROL XL-treated patients.
 
 ## Other Effects
 
@@ -52,7 +52,7 @@ In a single dose, food effect study in 21 healthy male subjects, the administrat
 There was no change in glucose response between the fed and fasting state.
 Markedly reduced GI retention times of the GLUCOTROL XL tablets over prolonged periods (e.g., short bowel syndrome) may influence the pharmacokinetic profile of the drug and potentially result in lower plasma concentrations.
 In a multiple dose study in 26 males with type 2 diabetes, the pharmacokinetics of glipizide were linear over the dose range of 5 to 60 mg of GLUCOTROL XL in that the plasma drug concentrations increased proportionately with dose.
-In a single dose study in 24 healthy subjects, four 5 mg, two 10 mg, and one 20 mg GLUCOTROL XL Extended Release Tablets were bioequivalent.
+In a single dose study in 24 healthy subjects, four 5-mg, two 10-mg, and one 20-mg GLUCOTROL XL Extended Release Tablets were bioequivalent.
 In a separate single dose study in 36 healthy subjects, four 2.5-mg GLUCOTROL XL Extended Release Tablets were bioequivalent to one 10-mg GLUCOTROL XL Extended Release Tablet.
 
 Glipizide is eliminated primarily by hepatic biotransformation: less than 10% of a dose is excreted as unchanged drug in urine and feces; approximately 90% of a dose is excreted as biotransformation products in urine (80%) and feces (10%).
