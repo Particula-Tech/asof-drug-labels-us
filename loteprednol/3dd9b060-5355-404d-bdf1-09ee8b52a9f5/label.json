@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050804"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-358-05",
+    "24208-358-10",
+    "24208-358-25"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate and tobramycin",
+      "name": "Zylet"
+    }
+  ],
+  "setid": "3dd9b060-5355-404d-bdf1-09ee8b52a9f5",
+  "source": "dailymed"
+}
