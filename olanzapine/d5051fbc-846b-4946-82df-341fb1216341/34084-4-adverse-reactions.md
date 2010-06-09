@@ -436,19 +436,16 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials.
 Intramuscular olanzapine for injection was associated with bradycardia, hypotension, and tachycardia in clinical trials [see Warnings and Precautions (5)].
 
-Laboratory Changes — An assessment of the premarketing experience for olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
-In placebo-controlled olanzapine monotherapy studies in adults, clinically significant ALT elevations (≥3 times the upper limit of the normal range) were observed in 2% (6/243) of patients exposed to olanzapine compared to none (0/115) of the placebo patients.
-None of these patients experienced jaundice.
-In 2 of these patients, liver enzymes decreased toward normal despite continued treatment and, in 2 others, enzymes decreased upon discontinuation of olanzapine.
-In the remaining 2 patients, 1, seropositive for hepatitis C, had persistent enzyme elevations for 4 months after discontinuation, and the other had insufficient follow-up to determine if enzymes normalized.
+Laboratory Changes
 
-Within the larger premarketing database of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevation to >200 IU/L was 2% (50/2381).
-Again, none of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while olanzapine treatment was continued.
+Olanzapine Monotherapy in Adults: An assessment of the premarketing experience for olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
+Within the original premarketing database of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevations to >200 IU/L was 2% (50/2381).
+None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while olanzapine treatment was continued.
 
-Among 2500 adult patients in oral olanzapine clinical trials, about 1% (23/2500) discontinued treatment due to transaminase increases.
-
-In placebo-controlled olanzapine monotherapy studies in adolescents, clinically significant ALT elevations (change from <3 times the upper limit of normal at baseline to ≥3 times the upper limit of the normal range) were observed in 12% (21/174) of patients exposed to olanzapine compared to 2% (2/87) of the placebo-treated patients.
-Discontinuation due to transaminase increases occurred in 3.4% (6/179) of patients exposed to olanzapine.
+In placebo-controlled olanzapine monotherapy studies in adults, clinically significant ALT elevations (change from <3 times the upper limit of normal [ULN] at baseline to ≥3 times ULN) were observed in 5% (77/1426) of patients exposed to olanzapine compared to 1% (10/1187) of patients exposed to placebo.
+ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treated patients, compared to 0.3% (4/1196) of placebo-treated patients.
+ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
+No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
 
 Rare postmarketing reports of hepatitis have been received.
 Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
@@ -457,10 +454,12 @@ Caution should be exercised in patients with signs and symptoms of hepatic impai
 
 Olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.15)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
 
-Given the concern about neutropenia associated with other psychotropic compounds and the finding of leukopenia associated with the administration of olanzapine in several animal models [see Nonclinical Toxicology (13.2)], careful attention was given to examination of hematologic parameters in premarketing studies with olanzapine.
-There was no indication of a risk of clinically significant neutropenia associated with olanzapine treatment in the premarketing database for this drug.
+Olanzapine Monotherapy in Adolescents: In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3X ULN in patients with ALT at baseline <3X ULN), (12% vs 2%); elevated AST (28% vs 4%); low total bilirubin (22% vs 7%); elevated GGT (10% vs 1%); and elevated prolactin (47% vs 7%).
 
-Olanzapine Monotherapy in Adolescents: In placebo-controlled clinical trials of adolescent patients with schizophrenia or bipolar I disorder (manic or mixed episodes), greater frequencies for the following treatment-emergent findings, at anytime, were observed in laboratory analytes compared to placebo: elevated ALT (≥3 X ULN in patients with ALT at baseline <3 X ULN), (12.1% vs 2.3%); elevated AST (27.6% vs 3.8%); low total bilirubin (22.1% vs 6.7%); elevated GGT (10.1% vs 1.2%); and elevated prolactin (47.4% vs 6.8%).
+In placebo-controlled olanzapine monotherapy studies in adolescents, clinically significant ALT elevations (change from <3 times ULN at baseline to ≥3 times ULN) were observed in 12% (22/192) of patients exposed to olanzapine compared to 2% (2/109) of patients exposed to placebo.
+ALT elevations ≥5 times ULN were observed in 4% (8/192) of olanzapine-treated patients, compared to 1% (1/109) of placebo-treated patients.
+ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
+No adolescent patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
 
 ECG Changes — In pooled studies of adults as well as pooled studies of adolescents, there were no significant differences between olanzapine and placebo in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc (Fridericia corrected), and PR intervals.
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
