@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018874"
+  ],
+  "inn": "calcitriol",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-8110-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "calcitriol",
+      "name": "CALCIJEX"
+    }
+  ],
+  "setid": "63d26a82-4b79-44ce-52a4-395e4368acd4",
+  "source": "dailymed"
+}
