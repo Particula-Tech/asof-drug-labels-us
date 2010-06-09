@@ -123,6 +123,8 @@ IF VALPROATE IS USED IN PREGNANCY, THE CLOTTING PARAMETERS SHOULD BE MONITORED C
 PATIENTS TAKING VALPROATE MAY DEVELOP HEPATIC FAILURE (SEE WARNINGS - HEPATOTOXICITY AND BOX WARNING).
 FATAL HEPATIC FAILURES, IN A NEWBORN AND IN AN INFANT, HAVE BEEN REPORTED FOLLOWING THE MATERNAL USE OF VALPROATE DURING PREGNANCY.
 
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
+
 ### Animal Data
 
 Animal studies have demonstrated valproate-induced teratogenicity.
@@ -448,7 +450,7 @@ They were not seen at 90 mg/kg, or 40% of the maximum human daily dose on a mg/m
 No patients above the age of 65 years were enrolled in double-blind prospective clinical trials of mania associated with bipolar illness.
 In a case review study of 583 patients, 72 patients (12%) were greater than 65 years of age.
 A higher percentage of patients above 65 years of age reported accidental injury, infection, pain, somnolence, and tremor.
-Discontinuation of valproate was occasionally associated with thelatter two events.
+Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
 A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence (see WARNINGS - Somnolence in the Elderly).

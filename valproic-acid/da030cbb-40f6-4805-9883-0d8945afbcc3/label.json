@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020593"
+  ],
   "inn": "valproic-acid",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-1564-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "valproate sodium",
+      "name": "Depacon"
+    }
+  ],
   "setid": "da030cbb-40f6-4805-9883-0d8945afbcc3",
   "source": "dailymed"
 }
