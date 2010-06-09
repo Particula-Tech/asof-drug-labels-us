@@ -31,7 +31,7 @@ Antihypertensive Agents — Olanzapine, because of its potential for inducing hy
 Levodopa and Dopamine Agonists — Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 
 Lorazepam (IM) — Co-administration of lorazepam does not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
-However, this co-administration of lorazepam with olanzapine potentiated the somnolence observed with either drug alone [see Warnings and Precautions (5.10)].
+However, this co-administration of lorazepam with olanzapine potentiated the somnolence observed with either drug alone.
 
 Lithium — Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
 Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium.

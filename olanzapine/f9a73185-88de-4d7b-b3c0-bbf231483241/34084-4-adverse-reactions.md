@@ -193,35 +193,31 @@ They are included here because of their seriousness.
 
 ## 6.2 Vital Signs and Laboratory Studies
 
-Laboratory Changes — Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from placebo, were observed for the following: eosinophils, monocytes, cholesterol, low-density lipoprotein (LDL), triglycerides, and direct bilirubin.
+Laboratory Changes
+
+ZYPREXA RELPREVV in Adults: Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from placebo, were observed for the following: eosinophils, monocytes, cholesterol, low-density lipoprotein (LDL), triglycerides, and direct bilirubin.
 There were no statistically significant differences between ZYPREXA RELPREVV and placebo in the incidence of potentially clinically significant changes in any of the laboratory values studied.
 
 Statistically significant within group mean changes for ZYPREXA RELPREVV, which were also significantly different from oral olanzapine (in a 24-week double-blind study), were observed for the following: gamma-glutamyltranseferase (GGT) and sodium.
 Statistically significant differences were observed between ZYPREXA RELPREVV and oral olanzapine for the incidence of treatment-emergent low platelet count (0% ZYPREXA RELPREVV vs 1% oral olanzapine); and low total bilirubin (2.8% ZYPREXA RELPREVV vs 0.7% for oral olanzapine).
 There was a statistically significant difference between ZYPREXA RELPREVV and oral olanzapine in potentially clinically significant changes for high leukocyte count (0% ZYPREXA RELPREVV vs 1% oral olanzapine).
 
-An assessment of the premarketing experience for oral olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
-
-Changes in transaminases observed with ZYPREXA RELPREVV treatment were similar to those reported with ZYPREXA treatment.
+Changes in aminotransferases observed with ZYPREXA RELPREVV treatment were similar to those reported with ZYPREXA treatment.
 In placebo-controlled ZYPREXA RELPREVV studies, clinically significant ALT elevations (≥3 times the upper limit of the normal range) were observed in 2.7% (8/291) of patients exposed to olanzapine compared to 3.2% (3/94) of the placebo patients.
 None of these patients experienced jaundice.
 In 3 of these patients, liver enzymes reverted to the normal range despite continued treatment, and in 5 cases enzymes values decreased, but were still above the normal range at the end of therapy.
 
-In placebo-controlled oral olanzapine monotherapy studies in adults, clinically significant ALT elevations (≥3 times the upper limit of the normal range) were observed in 2% (6/243) of patients exposed to olanzapine compared to none (0/115) of the placebo patients.
-None of these patients experienced jaundice.
-In 2 of these patients, liver enzymes decreased toward normal despite continued treatment and in 2 others, enzymes decreased upon discontinuation of olanzapine.
-In the remaining 2 patients, 1, seropositive for hepatitis C, had persistent enzyme elevations for 4 months after discontinuation, and the other had insufficient follow-up to determine if enzymes normalized.
-
 Within the larger premarketing ZYPREXA RELPREVV database of 1886 patients with baseline ALT ≤90 IU/L, the incidence of ALT elevation to >200 IU/L was 0.8%.
-None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while ZYPREXA treatment was continued.
+None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while ZYPREXA RELPREVV treatment was continued.
 
-Within the larger premarketing database for ZYPREXA of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevation to >200 IU/L was 2% (50/2381).
-Again, none of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while olanzapine treatment was continued.
+Olanzapine Monotherapy in Adults: An assessment of the premarketing experience for oral olanzapine revealed an association with asymptomatic increases in ALT, AST, and GGT.
+Within the original premarketing database of about 2400 adult patients with baseline ALT ≤90 IU/L, the incidence of ALT elevations to >200 IU/L was 2% (50/2381).
+None of these patients experienced jaundice or other symptoms attributable to liver impairment and most had transient changes that tended to normalize while olanzapine treatment was continued.
 
-Among 2058 patients in ZYPREXA RELPREVV clinical trials, about 0.4% discontinued treatment due to transaminase increases.
-None of these patients had jaundice.
-
-Among 2500 adult patients in ZYPREXA clinical trials, about 1% (23/2500) discontinued treatment due to transaminase increases.
+In placebo-controlled oral olanzapine monotherapy studies in adults, clinically significant ALT elevations (change from <3 times the upper limit of normal [ULN] at baseline to ≥3 times ULN) were observed in 5% (77/1426) of patients exposed to olanzapine compared to 1% (10/1187) of patients exposed to placebo.
+ALT elevations ≥5 times ULN were observed in 2% (29/1438) of olanzapine-treated patients, compared to 0.3% (4/1196) of placebo-treated patients.
+ALT values returned to normal, or were decreasing, at last follow-up in the majority of patients who either continued treatment with olanzapine or discontinued olanzapine.
+No patient with elevated ALT values experienced jaundice, liver failure, or met the criteria for Hy's Rule.
 
 Rare postmarketing reports of hepatitis have been received for patients taking different formulations of olanzapine.
 Very rare cases of cholestatic or mixed liver injury have also been reported in the postmarketing period.
@@ -229,9 +225,6 @@ Very rare cases of cholestatic or mixed liver injury have also been reported in 
 Caution should be exercised in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic drugs.
 
 Oral olanzapine administration was also associated with increases in serum prolactin [see Warnings and Precautions (5.17)], with an asymptomatic elevation of the eosinophil count in 0.3% of patients, and with an increase in CPK.
-
-Given the concern about neutropenia associated with other psychotropic compounds and the finding of leukopenia associated with the administration of olanzapine in several animal models [see Nonclinical Toxicology (13.2)], careful attention was given to examination of hematologic parameters in premarketing studies with oral olanzapine.
-There was no indication of a risk of clinically significant neutropenia associated with oral olanzapine treatment in the premarketing database for this drug.
 
 ECG Changes — Comparison of ZYPREXA RELPREVV and oral olanzapine, in a 24 week study, revealed no significant differences on ECG changes.
 Between-group comparisons for pooled placebo-controlled trials revealed no significant oral olanzapine/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.

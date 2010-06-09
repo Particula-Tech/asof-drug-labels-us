@@ -206,7 +206,7 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Oral Olanzapine Monoth
 Potential consequences of weight gain should be considered prior to starting olanzapine.
 Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information (17.7)].
 
-Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled olanzapine monotherapy studies, olanzapine-treated patients gained an average of 2.6 kg (5.7 lb) compared to an average 0.3 kg (0.6 lb) weight loss in placebo-treated patients with a median exposure of 6 weeks; 22.2% of olanzapine-treated patients gained at least 7% of their baseline weight compared to 3% of placebo-treated patients, with a median exposure of 8 weeks; 4.2% of olanzapine-treated patients gained at least 15% of their baseline weight compared to 0.3% of placebo-treated patients, with a median exposure of 12 weeks.
+Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled olanzapine monotherapy studies, olanzapine-treated patients gained an average of 2.6 kg (5.7 lb) compared to an average 0.3 kg (0.6 lb) weight loss in placebo-treated patients with a median exposure of 6 weeks; 22.2% of olanzapine-treated patients gained at least 7% of their baseline weight, compared to 3% of placebo-treated patients, with a median exposure to event of 8 weeks; 4.2% of olanzapine-treated patients gained at least 15% of their baseline weight, compared to 0.3% of placebo-treated patients, with a median exposure to event of 12 weeks.
 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Discontinuation due to weight gain occurred in 0.2% of olanzapine-treated patients and in 0% of placebo-treated patients.
 
