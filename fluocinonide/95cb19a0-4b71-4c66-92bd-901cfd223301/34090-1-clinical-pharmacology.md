@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Like other topical corticosteroids, VANOS™ (fluocinonide), has anti-inflammatory, antipruritic, and vasoconstrictive properties.
+Like other topical corticosteroids, VANOS (fluocinonide) Cream, has anti-inflammatory, antipruritic, and vasoconstrictive properties.
 The mechanism of the anti-inflammatory activity of topical corticosteroids, in general, is unclear.
 However, corticosteroids are thought to act by induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachadonic acid.
@@ -12,10 +12,9 @@ The extent of percutaneous absorption of topical corticosteroids is determined b
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
 
-Vasoconstrictor studies performed with VANOS™ Cream, 0.1% in healthy subjects indicate that it is in the super-high range of potency as compared with other topical corticosteroids; however, similar blanching scores do not necessarily imply therapeutic equivalence.
+Vasoconstrictor studies performed with VANOS Cream, 0.1% in healthy subjects indicate that it is in the super-high range of potency as compared with other topical corticosteroids; however, similar blanching scores do not necessarily imply therapeutic equivalence.
 
-Application of VANOS™ Cream, 0.1% twice daily for 14 days in 18 adult patients with plaque-type psoriasis (10–50% BSA, mean 19.6% BSA) showed demonstrable HPA-axis suppression in 2 patients (with 12% and 25% BSA) where the criterion for HPA-axis suppression is a serum cortisol level of less than or equal to 18 micrograms per deciliter 30 minutes after stimulation with cosyntropin (ACTH1–24).
-(See PRECAUTIONS: General and Pediatric Use).
+Application of VANOS Cream, 0.1% twice daily for 14 days in 18 adult patients with plaque-type psoriasis (10–50% BSA, mean 19.6% BSA) showed demonstrable HPA-axis suppression in 2 patients (with 12% and 25% BSA) where the criterion for HPA-axis suppression is a serum cortisol level of less than or equal to 18 micrograms per deciliter 30 minutes after stimulation with cosyntropin (ACTH1–24) (See PRECAUTIONS: General and Pediatric Use).
 
 HPA-axis suppression has not been evaluated in psoriasis patients who are less than 18 years of age.
 HPA-axis suppression has been evaluated in pediatric patients with atopic dermatitis 12 to 18 years of age (See PRECAUTIONS: Pediatric Use).

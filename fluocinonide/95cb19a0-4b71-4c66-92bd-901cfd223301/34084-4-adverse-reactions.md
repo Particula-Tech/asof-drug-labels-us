@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-In clinical trials, a total of 443 adult patients with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS™ Cream for 2 weeks.
+In clinical trials, a total of 443 adult patients with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks.
 The most commonly observed adverse events in these clinical trials were as follows:
 
 Table 3: Most Commonly Observed Adverse Events in Adult Clinical Trials
 
-| Adverse Event | VANOS™ Cream, once daily (n=216) | VANOS™ Cream, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
+| Adverse Event | VANOS Cream, once daily (n=216) | VANOS Cream, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
 | --- | --- | --- | --- |
 | Headache | 8/216 (3.7%) | 9/227 (4.0%) | 6/211 (2.8%) |
 | Application Site Burning | 5/216 (2.3%) | 4/227 (1.8%) | 14/211 (6.6%) |

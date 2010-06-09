@@ -2,8 +2,14 @@ Rx Only
 
 FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
-Manufactured for: MEDICIS, The Dermatology Company Scottsdale, AZ 85258
+Manufactured for: Medicis, The Dermatology Company Scottsdale, AZ 85256
 
-U.S. Patent 6,765,001 and Patents Pending
+Manufactured by: Contract Pharmaceuticals Ltd. Mississauga, Ontario Canada L5N 6L6
 
-IN-5325/S 52530-08B
+Made in Canada
+
+U.S. Patents 6,765,001; 7,217,422; 7,220,424 and Patents Pending VANOS is a registered trademark of Medicis Pharmaceutical Corporation.
+
+Prescribing information as of February 2010.
+
+05100002
