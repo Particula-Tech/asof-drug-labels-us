@@ -7,10 +7,10 @@ The adverse events were usually mild or moderate in intensity, but sometimes wer
 In clinical trials, the rates of premature termination due to intolerance were not statistically different between placebo, DEPAKOTE, and lithium carbonate.
 A total of 4%, 8% and 11% of patients discontinued therapy due to intolerance in the placebo, DEPAKOTE, and lithium carbonate groups, respectively.
 
-Table 1 summarizes those adverse events reported for patients in these trials where the incidence rate in the DEPAKOTE-treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the DEPAKOTE-treated group was statistically significantly greater than the placebo group.
+Table 2 summarizes those adverse events reported for patients in these trials where the incidence rate in the DEPAKOTE-treated group was greater than 5% and greater than the placebo incidence, or where the incidence in the DEPAKOTE-treated group was statistically significantly greater than the placebo group.
 Vomiting was the only event that was reported by significantly (p ≤ 0.05) more patients receiving DEPAKOTE compared to placebo.
 
-Table 1.
+Table 2.
 Adverse Events Reported by > 5% of DEPAKOTE-Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
 | Adverse Event | DEPAKOTE (n = 89) | Placebo (n = 97) |
@@ -78,9 +78,9 @@ Of the 202 patients exposed to DEPAKOTE in the placebo-controlled trials, 17% di
 This is compared to a rate of 5% for the 81 placebo patients.
 Including the long term extension study, the adverse events reported as the primary reason for discontinuation by ≥ 1% of 248 DEPAKOTE-treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
 
-Table 2 includes those adverse events reported for patients in the placebo-controlled trials where the incidence rate in the DEPAKOTE-treated group was greater than 5% and was greater than that for placebo patients.
+Table 3 includes those adverse events reported for patients in the placebo-controlled trials where the incidence rate in the DEPAKOTE-treated group was greater than 5% and was greater than that for placebo patients.
 
-Table 2.
+Table 3.
 Adverse Events Reported by > 5% of DEPAKOTE-Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence Than Patients Taking Placebo1
 
 | Body System Event | Depakote (N = 202) | Placebo (N = 81) |
@@ -154,10 +154,10 @@ Cystitis, metrorrhagia, and vaginal hemorrhage.
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, DEPAKOTE was generally well tolerated with most adverse events rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the DEPAKOTE-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse events which were reported by ≥ 5% of DEPAKOTE-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Table 4 lists treatment-emergent adverse events which were reported by ≥ 5% of DEPAKOTE-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
 
-Table 3.
+Table 4.
 Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
 | Body System/Event | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
@@ -194,10 +194,10 @@ Adverse Events Reported by ≥ 5% of Patients Treated with DEPAKOTE During Place
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 4 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose DEPAKOTE group, and for which the incidence was greater than in the low dose group, in a controlled trial of DEPAKOTE monotherapy treatment of complex partial seizures.
+Table 5 lists treatment-emergent adverse events which were reported by ≥ 5% of patients in the high dose DEPAKOTE group, and for which the incidence was greater than in the low dose group, in a controlled trial of DEPAKOTE monotherapy treatment of complex partial seizures.
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse events can be ascribed to DEPAKOTE alone, or the combination of DEPAKOTE and other antiepilepsy drugs.
 
-Table 4.
+Table 5.
 Adverse Events Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of DEPAKOTE Monotherapy for Complex Partial Seizures1
 
 | Body System/Event | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
@@ -328,7 +328,7 @@ Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophil
 
 ### Hepatic
 
-Minor elevations of transaminases (eg, SGOT and SGPT) and LDH are frequent and appear to be dose-related.
+Minor elevations of transaminases (e.g., SGOT and SGPT) and LDH are frequent and appear to be dose-related.
 Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
 These results may reflect potentially serious hepatotoxicity (see WARNINGS).
 

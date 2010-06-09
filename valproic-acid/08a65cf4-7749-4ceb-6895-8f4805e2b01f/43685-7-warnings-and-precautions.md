@@ -8,7 +8,7 @@ Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
 Liver function tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
-However, physicians should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
+However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
 Caution should be observed when administering DEPAKOTE products to patients with a prior history of hepatic disease.
 Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
@@ -35,26 +35,7 @@ Alternative treatment for the underlying medical condition should be initiated a
 Divalproex sodium is contraindicated in patients with known urea cycle disorders.
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of valproate therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
-Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders (see CONTRAINDICATIONSand PRECAUTIONS).
-
-## Somnolence in the Elderly
-
-In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
-A significantly higher proportion of valproate patients had somnolence compared to placebo, and although not statistically significant, there was a higher proportion of patients with dehydration.
-Discontinuations for somnolence were also significantly higher than with placebo.
-In some patients with somnolence (approximately one-half), there was associated reduced nutritional intake and weight loss.
-There was a trend for the patients who experienced these events to have a lower baseline albumin concentration, lower valproate clearance, and a higher BUN.
-In elderly patients, dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse events.
-Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence (see DOSAGE AND ADMINISTRATION).
-
-## Thrombocytopenia
-
-The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia [see PRECAUTIONS]) may be dose-related.
-In a clinical trial of DEPAKOTE as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
-Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
-In the remaining patients, platelet counts normalized with continued treatment.
-In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 µg/mL (females) or ≥ 135 µg/mL (males).
-The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
+Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders (see CONTRAINDICATIONS and PRECAUTIONS).
 
 ## Usage In Pregnancy
 
@@ -105,6 +86,8 @@ IF VALPROATE IS USED IN PREGNANCY, THE CLOTTING PARAMETERS SHOULD BE MONITORED C
 PATIENTS TAKING VALPROATE MAY DEVELOP HEPATIC FAILURE (SEE WARNINGS - HEPATOTOXICITY AND BOX WARNING).
 FATAL HEPATIC FAILURES, IN A NEWBORN AND IN AN INFANT, HAVE BEEN REPORTED FOLLOWING THE MATERNAL USE OF VALPROATE DURING PREGNANCY.
 
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
+
 ### Animal Data
 
 Animal studies have demonstrated valproate-induced teratogenicity.
@@ -117,6 +100,68 @@ An oral dose of 350 mg/kg/day (approximately 2 times the maximum human daily dos
 Skeletal malformations, growth retardation, and death were observed in rhesus monkeys following administration of an oral dose of 200 mg/kg/day (equal to the maximum human daily dose on a mg/m2 basis) during organogenesis.
 This dose resulted in peak maternal plasma valproate levels of approximately 280 µg/mL (2.8 times the upper limit of the human therapeutic range).
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including Depakote, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 1.
+Risk by indication for antiepileptic drugs in the pooled analysis
+
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing Depakote or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
+## Interaction with Carbapenem Antibiotics
+
+Carbapenem antibiotics (ertapenem, imipenem, meropenem) may reduce serum valproic acid concentrations to subtherapeutic levels, resulting in loss of seizure control.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates (see Drug Interactions).
+
+## Somnolence in the Elderly
+
+In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
+A significantly higher proportion of valproate patients had somnolence compared to placebo, and although not statistically significant, there was a higher proportion of patients with dehydration.
+Discontinuations for somnolence were also significantly higher than with placebo.
+In some patients with somnolence (approximately one-half), there was associated reduced nutritional intake and weight loss.
+There was a trend for the patients who experienced these events to have a lower baseline albumin concentration, lower valproate clearance, and a higher BUN.
+In elderly patients, dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse events.
+Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence (see DOSAGE AND ADMINISTRATION).
+
+## Thrombocytopenia
+
+The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia (see PRECAUTIONS) may be dose-related.
+In a clinical trial of DEPAKOTE as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
+Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
+In the remaining patients, platelet counts normalized with continued treatment.
+In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 µg/mL (females) or ≥ 135 µg/mL (males).
+The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
+
 # PRECAUTIONS
 
 ## Hepatic Dysfunction
@@ -127,12 +172,20 @@ See BOXED WARNING, CONTRAINDICATIONS and WARNINGS.
 
 See BOXED WARNING and WARNINGS.
 
+## Hypothermia
+
+Hypothermia, defined as an unintentional drop in body core temperature to <35°C (95°F), has been reported in association with valproate therapy both in conjunction with and in the absence of hyperammonemia.
+This adverse reaction can also occur in patients using concomitant topiramate with valproate after starting topiramate treatment or after increasing the daily dose of topiramate (see Drug Interactions - Topiramate).
+Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
+Clinical management and assessment should include examination of blood ammonia levels.
+
 ## Hyperammonemia
 
 Hyperammonemia has been reported in association with valproate therapy and may be present despite normal liver function tests.
 In patients who develop unexplained lethargy and vomiting or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
+Hyperammonemia should also be considered in patients who present with hypothermia (see PRECAUTIONS — Hypothermia).
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders (see CONTRAINDICATIONS and WARNINGS – Urea Cycle Disorders and PRECAUTIONS - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders (see CONTRAINDICATIONS and WARNINGS – Urea Cycle Disorders (UCD) and PRECAUTIONS - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
 
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
@@ -143,6 +196,7 @@ In patients who develop unexplained lethargy, vomiting, or changes in mental sta
 
 Concomitant administration of topiramate and valproic acid has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
+Hypothermia can also be a manifestation of hyperammonemia (see PRECAUTIONS – Hypothermia).
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse event is not due to a pharmacokinetic interaction.
 It is not known if topiramate monotherapy is associated with hyperammonemia.
@@ -158,7 +212,7 @@ It is recommended that patients receiving DEPAKOTE be monitored for platelet cou
 In a clinical trial of DEPAKOTE as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
-In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110µg/mL (females) or ≥ 135 µg/mL (males).
+In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 µg/mL (females) or ≥ 135 µg/mL (males).
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
 Since DEPAKOTE may interact with concurrently administered drugs which are capable of enzyme induction, periodic plasma concentration determinations of valproate and concomitant drugs are recommended during the early course of therapy.
@@ -189,14 +243,33 @@ Although the existence of cross sensitivity with other drugs that produce this s
 
 ## Information for Patients
 
+Pancreatitis
+
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis and, therefore, require further medical evaluation promptly.
 
-Patients should be informed of the signs and symptoms associated with hyperammonemic encephalopathy (see PRECAUTIONS– Hyperammonemia) and be told to inform the prescriber if any of these symptoms occur.
+Hyperammonemia
 
-Since DEPAKOTE products may produce CNS depression, especially when combined with another CNS depressant (eg, alcohol), patients should be advised not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
+Patients should be informed of the signs and symptoms associated with hyperammonemic encephalopathy (see PRECAUTIONS – Hyperammonemia) and be told to inform the prescriber if any of these symptoms occur.
+
+CNS Depression
+
+Since DEPAKOTE products may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), patients should be advised not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
+
+Birth Defects
 
 Since DEPAKOTE has been associated with certain types of birth defects, female patients of child-bearing age considering the use of DEPAKOTE should be advised of the risk and of alternative therapeutic options and to read the Patient Information Leaflet, which appears as the last section of the labeling.
 This is especially important when the treatment of a spontaneously reversible condition not ordinarily associated with permanent injury or risk of death (e.g., migraine) is considered.
+
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS – Pregnancy).
+
+Suicidal Thinking and Behavior
+
+Patients, their caregivers, and families should be counseled that AEDs, including Depakote, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to the healthcare providers (see WARNINGS).
+
+Multi-organ Hypersensitivity Reaction
 
 Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately (see PRECAUTIONS - Multi-organ Hypersensitivity Reaction).
 
@@ -230,9 +303,12 @@ A study involving the co-administration of 1200 mg/day of felbamate with valproa
 Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 µg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
-#### Meropenem
+#### Carbapenem Antibiotics
 
-Subtherapeutic valproic acid levels have been reported when meropenem was coadministered.
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
+The mechanism of this interaction is not well understood.
+Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates (See WARNINGS).
 
 #### Rifampin
 
@@ -332,6 +408,8 @@ The clinical relevance of this displacement is unknown.
 #### Topiramate
 
 Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy (see CONTRAINDICATIONS and WARNINGS - Urea Cycle Disorders and PRECAUTIONS - Hyperammonemia and - Hyperammonemia and Encephalopathy Associated with Concomitant Topiramate Use).
+Concomitant administration of topiramate with valproic acid has also been associated with hypothermia in patients who have tolerated either drug alone.
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported (see PRECAUTIONS – Hypothermia and Hyperammonemia).
 
 #### Warfarin
 
@@ -389,6 +467,10 @@ THE EFFECT OF VALPROATE ON TESTICULAR DEVELOPMENT AND ON SPERM PRODUCTION AND FE
 ## Pregnancy
 
 Pregnancy Category D: See WARNINGS.
+
+To provide information regarding the effects of in utero exposure to Depakote, healthcare providers are advised to recommend that pregnant patients taking Depakote enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Nursing Mothers
 

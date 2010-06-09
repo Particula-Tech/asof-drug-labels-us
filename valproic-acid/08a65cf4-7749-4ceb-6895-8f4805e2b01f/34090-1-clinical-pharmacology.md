@@ -99,7 +99,7 @@ Accordingly, monitoring of total concentrations may be misleading since free con
 
 Renal Disease
 
-A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance< 10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
+A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance < 10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
 Therefore, no dosage adjustment appears to be necessary in patients with renal failure.
 Protein binding in these patients is substantially reduced; thus, monitoring total concentrations may be misleading.
 

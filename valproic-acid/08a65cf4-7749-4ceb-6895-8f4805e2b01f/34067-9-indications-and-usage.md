@@ -9,7 +9,7 @@ Typical symptoms of mania include pressure of speech, motor hyperactivity, reduc
 The efficacy of DEPAKOTE was established in 3-week trials with patients meeting DSM-III-R criteria for bipolar disorder who were hospitalized for acute mania (See Clinical Trials under CLINICAL PHARMACOLOGY).
 
 The safety and effectiveness of DEPAKOTE for long-term use in mania, i.e., more than 3 weeks, has not been systematically evaluated in controlled clinical trials.
-Therefore, physicians who elect to use DEPAKOTE for extended periods should continually reevaluate the long-term usefulness of the drug for the individual patient.
+Therefore, healthcare providers who elect to use DEPAKOTE for extended periods should continually reevaluate the long-term usefulness of the drug for the individual patient.
 
 ## Epilepsy
 
