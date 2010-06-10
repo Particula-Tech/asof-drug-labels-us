@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021450"
+  ],
   "inn": "zolmitriptan",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
     "0310-0208-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "zolmitriptan",
+      "name": "ZOMIG"
+    }
+  ],
   "setid": "bac91e37-91ce-4bbf-77bc-ef5f242589f8",
   "source": "dailymed"
 }
