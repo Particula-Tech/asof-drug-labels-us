@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ISENTRESSRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 2007, 2009 MERCK & CO., Inc. All rights reserved is indicated in combination with other anti-retroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection in adult patients.
+ISENTRESSRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2007, 2009 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved is indicated in combination with other anti-retroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection in adult patients.
 
 This indication is based on analyses of plasma HIV-1 RNA levels up through 48 weeks in three double-blind controlled studies of ISENTRESS.
 Two of these studies were conducted in clinically advanced, 3-class antiretroviral (NNRTI, NRTI, PI) treatment-experienced adults and one was conducted in treatment-naïve adults.

@@ -16,11 +16,3 @@ Patients should not take two tablets of ISENTRESS at the same time.
 
 Physicians should instruct their patients to read the Patient Package Insert before starting ISENTRESS therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
-
-Manufactured and Distributed by: MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Printed in USA
-
-9795104
-
-U.S. Patent Nos. US 7,169,780

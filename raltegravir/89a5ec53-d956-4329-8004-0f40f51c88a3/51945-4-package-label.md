@@ -1,6 +1,9 @@
-PRINCIPAL DISPLAY PANEL - BOTTLE LABEL - 400 mg
+This is a representative sample of the packaging.
+Please see How Supplied section for a complete list of available packaging.
 
-Isentress™ (raltegravir) tablets
+PRINCIPAL DISPLAY PANEL - Bottle Label 400 mg
+
+Isentress® (raltegravir) tablets
 
 400 mg
 
@@ -17,9 +20,14 @@ See USP Controlled Room Temperature.
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MSD Technology Singapore Pte.
+Ltd. Singapore 637766
 
 Raltegravir potassium (active ingred.)
-Made in Ireland
+Made in Switzerland
 
-Formulated in USA
+Formulated in Singapore
+
+9942901 60 | No. 3894

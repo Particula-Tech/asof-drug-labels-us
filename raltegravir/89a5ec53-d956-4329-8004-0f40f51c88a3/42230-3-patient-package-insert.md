@@ -112,7 +112,7 @@ When ISENTRESS has been given with other anti-HIV drugs, the most common side ef
 - weakness
 - trouble sleeping
 
-Other side effects include rash, severe skin reactions, feeling anxious, depression, suicidal thoughts and actions, paranoia.
+Other side effects include rash, severe skin reactions, feeling anxious, depression, suicidal thoughts and actions, paranoia, low blood platelet count.
 
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to treat the HIV infection and help to strengthen the immune system.
@@ -152,10 +152,10 @@ Active ingredient: Each film-coated tablet contains 400 mg of raltegravir.
 Inactive ingredients: Microcrystalline cellulose, lactose monohydrate, calcium phosphate dibasic anhydrous, hypromellose 2208, poloxamer 407 (contains 0.01% butylated hydroxytoluene as antioxidant), sodium stearyl fumarate, magnesium stearate.
 In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, titanium dioxide, polyethylene glycol 3350, talc, red iron oxide and black iron oxide.
 
-Manufactured and Distributed by: MERCK & CO., Inc. Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised July 2009
+Revised January 2010
 
-9795104
+9795109
 
 U.S. Patent Nos. US 7,169,780

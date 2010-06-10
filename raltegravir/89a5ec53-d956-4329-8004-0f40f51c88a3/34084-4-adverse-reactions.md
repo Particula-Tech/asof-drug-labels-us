@@ -14,7 +14,7 @@ In Protocol 021, the rate of discontinuation of therapy due to adverse reactions
 The clinical adverse drug reactions (ADRs) listed below were considered by investigators to be causally related to ISENTRESS + emtricitabine (+) tenofovir or efavirenz + emtricitabine (+) tenofovir.
 Clinical ADRs of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS and occurring at a higher rate than efavirenz are presented in Table 1.
 
-Table 1: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Table 1: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS and at a Higher Rate Compared to Efavirenz (48 Week Analysis)
 
 | ISENTRESS 400 mg Twice Daily + Emtricitabine (+) Tenofovir (n = 281)n = total number of subjects per treatment group % | Efavirenz 600 mg At Bedtime + Emtricitabine (+) Tenofovir (n = 282) % |  |
@@ -53,7 +53,7 @@ Table 2: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 | Platelet count (103/μL) |  |  |  |
 | Grade 2 | 50 - 99.999 | 2% | 0% |
 | Grade 3 | 25 - 49.999 | 0% | <1% |
-| Grade 4 | <25 | 0% | .0% |
+| Grade 4 | <25 | 0% | 0% |
 | Blood chemistry |  |  |  |
 | Fasting (non-random) serum glucose test (mg/dL) |  |  |  |
 | Grade 2 | 126 - 250 | 2% | 3% |
@@ -162,8 +162,8 @@ Table 5: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Ex
 | Grade 4 | <25 | 1% | <1% |
 | Blood chemistry |  |  |  |
 | Fasting (non-random) serum glucose test (mg/dL) |  |  |  |
-| Grade 2 | 126 – 250 | 8% | 5% |
-| Grade 3 | 251 – 500 | 2% | 1% |
+| Grade 2 | 126 - 250 | 8% | 5% |
+| Grade 3 | 251 - 500 | 2% | 1% |
 | Grade 4 | >500 | 0% | 0% |
 | Total serum bilirubin |  |  |  |
 | Grade 2 | 1.6 - 2.5 x ULN | 5% | 3% |
@@ -220,6 +220,10 @@ In treatment-naïve subjects, Grade 2 or higher laboratory abnormalities that re
 
 The following adverse reactions have been identified during postapproval use of ISENTRESS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic System Disorders: thrombocytopenia
+
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
 
 Psychiatric Disorders: anxiety, depression (particularly in patients with a pre-existing history of psychiatric illness), including suicidal ideation and behaviors, paranoia
 

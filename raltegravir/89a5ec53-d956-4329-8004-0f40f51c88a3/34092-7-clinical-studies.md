@@ -2,7 +2,7 @@
 
 Description of Clinical Studies
 
-The evidence of durable efficacy of ISENTRESS is based on the analyses of 48-week data from an ongoing, randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naive HIV-1 infected adult subjects and from 2 ongoing, randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
+The evidence of durable efficacy of ISENTRESS is based on the analyses of 48-week data from an ongoing, randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult subjects and from 2 ongoing, randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
 These efficacy results were supported by the 96-week analysis of a randomized, double-blind, controlled, dose-ranging trial, Protocol 004, in antiretroviral treatment-naïve HIV-1 infected adult subjects and by the 48-week analysis of a randomized, double-blind, controlled, dose-ranging study, Protocol 005, in antiretroviral treatment-experienced HIV-1 infected adult subjects.
 
 Treatment-Naïve Subjects

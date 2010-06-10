@@ -11,3 +11,9 @@ Storage and Handling
 
 Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F).
 See USP Controlled Room Temperature.
+
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+
+9795109
+
+U.S. Patent Nos. US 7,169,780

@@ -8,7 +8,7 @@ Raltegravir is an HIV-1 antiviral drug [see Clinical Pharmacology (12.4)].
 
 In a monotherapy study raltegravir (400 mg twice daily) demonstrated rapid antiviral activity with mean viral load reduction of 1.66 log10 copies/mL by Day 10.
 
-In the randomized, double-blind, placebo-controlled, dose-ranged trial, Protocol 005, and Protocols 018 and 019, antiviral responses were similar among subjects regardless of dose.
+In the randomized, double-blind, placebo-controlled, dose-ranging trial, Protocol 005, and Protocols 018 and 019, antiviral responses were similar among subjects regardless of dose.
 
 Effects on Electrocardiogram
 
@@ -78,7 +78,7 @@ No dosage adjustment is necessary.
 
 Gender
 
-A study of the pharmacokinetics of raltegravir was performed in young healthy males and females.
+A study of the pharmacokinetics of raltegravir was performed in healthy adult males and females.
 Additionally, the effect of gender was evaluated in a composite analysis of pharmacokinetic data from 103 healthy subjects and 28 HIV-1 infected subjects receiving raltegravir monotherapy with fasted administration.
 No dosage adjustment is necessary.
 
