@@ -38,57 +38,6 @@ Rx only
 
 Meda Pharmaceuticals ™
 
-# Package Label - Principal Display Panel – 3 mL-fill Bottle
-
-NDC 0037-7025-33
-
-OPTIVAR®
-
-azelastine hydrochloride ophthalmic solution, 0.05%
-
-Rx Only 3 mL – Sterile
-
-PROFESSIONAL SAMPLE
-
-Usual dosage: 1 drop per affected eye(s) twice daily.
-See package insert for full prescribing information.
-STORE UPRIGHT between 2° and 25°C (36° and 77°F).
-Mfd by: Patheon UK Ltd. Swindon, United Kingdom
-
-Dist by: MedPointe Pharmaceuticals
-
-MedPointe Healthcare Inc.
-
-Somerset, New Jersey 08873
-
-OTD 91010
-
-Rev.
-12/04
-
-Made in United Kingdom
-
-Exp.
-Date
-
-Lot No.
-
-# Package Label - Principal Display Panel – Carton for 3 mL-fill Bottle
-
-NDC 0037-7025-33
-
-OPTIVAR®
-
-azelastine hydrochloride ophthalmic solution, 0.05%
-
-Professional Sample
-
-3 mL - Sterile
-
-Rx Only
-
-MedPointe Pharmaceuticals
-
 # Package Label - Principal Display Panel – 6 mL-fill
 
 NDC 0037-7025-60
