@@ -1,6 +1,6 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 VYTORIN
 
@@ -152,6 +152,9 @@ In the same study, the effect of NIASPAN on the pharmacokinetics of VYTORIN was 
 While concomitant NIASPAN decreased the mean Cmax of total ezetimibe (1%), and simvastatin (2%), it increased the mean Cmax of simvastatin acid (18%).
 In addition, concomitant NIASPAN increased the mean AUC of total ezetimibe (26%), simvastatin (20%), and simvastatin acid (35%).
 
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+[See Warnings and Precautions (5.1) and Drug Interactions (7.4).]
+
 Cytochrome P450: Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” study of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
@@ -222,8 +225,10 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
 | Avoid taking with >10/20 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
+| Avoid taking with >10/40 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
+| Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD x14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
 | Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/ml ↓ from 7.0 to 4.7 ng·eq/mL |

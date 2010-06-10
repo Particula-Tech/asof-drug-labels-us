@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
@@ -51,7 +51,7 @@ Other adverse reactions reported with simvastatin in placebo-controlled clinical
 
 Laboratory Tests
 
-Marked persistent increases of serum transaminases have been noted [see Warnings and Precautions (5.2)].
+Marked persistent increases of hepatic serum transaminases have been noted [see Warnings and Precautions (5.2)].
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have been reported.
 About 5% of patients taking simvastatin had elevations of CK levels of 3 or more times the normal value on one or more occasions.
 This was attributable to the noncardiac fraction of CK [see Warnings and Precautions (5.1)].
@@ -60,7 +60,7 @@ This was attributable to the noncardiac fraction of CK [see Warnings and Precaut
 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been reported in post-marketing experience for VYTORIN or ezetimibe or simvastatin: pruritus; alopecia; a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails); dizziness; muscle cramps; myalgia; arthralgia; pancreatitis; memory impairment; paresthesia; peripheral neuropathy; vomiting; nausea; anemia; myopathy/rhabdomyolysis [see Warnings and Precautions (5.1)]; hepatitis/jaundice; hepatic failure; depression; cholelithiasis; cholecystitis; thrombocytopenia; elevations in liver transaminases; elevated creatine phosphokinase.
+The following adverse reactions have been reported in post-marketing experience for VYTORIN or ezetimibe or simvastatin: pruritus; alopecia; erythema multiforme; a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails); dizziness; muscle cramps; myalgia; arthralgia; pancreatitis; memory impairment; paresthesia; peripheral neuropathy; vomiting; nausea; anemia; myopathy/rhabdomyolysis [see Warnings and Precautions (5.1)]; hepatitis/jaundice; hepatic failure; depression; cholelithiasis; cholecystitis; thrombocytopenia; elevations in liver transaminases; elevated creatine phosphokinase.
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria have been reported.
 

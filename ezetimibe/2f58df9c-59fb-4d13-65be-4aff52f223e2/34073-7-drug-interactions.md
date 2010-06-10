@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 [See Clinical Pharmacology (12.3).]
 
@@ -25,34 +25,41 @@ If treatment with itraconazole, ketoconazole, erythromycin, clarithromycin or te
 
 ## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
 
-The risk of myopathy is increased by gemfibrozil and to a lesser extent by other fibrates and niacin (nicotinic acid) (≥1 g/day) [see Warnings and Precautions (5.1)].
+The risk of myopathy is increased by gemfibrozil and to a lesser extent by other fibrates [see Warnings and Precautions (5.1)].
 
-## 7.3 Amiodarone or Verapamil
+## 7.3 Amiodarone, Verapamil, or Diltiazem
 
-The risk of myopathy/rhabdomyolysis is increased by concomitant administration of amiodarone or verapamil with higher doses of VYTORIN [see Warnings and Precautions (5.1)].
+The risk of myopathy/rhabdomyolysis is increased by concomitant administration of amiodarone, verapamil, or diltiazem with higher doses of VYTORIN [see Warnings and Precautions (5.1)].
 
-## 7.4 Cholestyramine
+## 7.4 Niacin
+
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+In particular, caution should be used when treating Chinese patients with VYTORIN coadministered with lipid-modifying doses of niacin-containing products.
+Because the risk for myopathy is dose-related, Chinese patients should not receive VYTORIN 10/80 mg coadministered with lipid-modifying doses of niacin-containing products.
+[See Warnings and Precautions (5.1).]
+
+## 7.5 Cholestyramine
 
 Concomitant cholestyramine administration decreased the mean AUC of total ezetimibe approximately 55%.
 The incremental LDL-C reduction due to adding VYTORIN to cholestyramine may be reduced by this interaction.
 
-## 7.5 Cyclosporine or Danazol
+## 7.6 Cyclosporine or Danazol
 
 The risk of myopathy/rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol particularly with higher doses of VYTORIN [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Caution should be exercised when using VYTORIN and cyclosporine concomitantly due to increased exposure to both ezetimibe and cyclosporine [see Dosage and Administration (2.6)].
+Caution should be exercised when using VYTORIN and cyclosporine concomitantly due to increased exposure to both ezetimibe and cyclosporine [see Dosage and Administration (2.7)].
 Cyclosporine concentrations should be monitored in patients receiving VYTORIN and cyclosporine [see Clinical Pharmacology (12.3)].
 
 The degree of increase in ezetimibe exposure may be greater in patients with severe renal impairment.
 In patients treated with cyclosporine, the potential effects of the increased exposure to ezetimibe from concomitant use should be carefully weighed against the benefits of alterations in lipid levels provided by ezetimibe.
 [See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
 
-## 7.6 Digoxin
+## 7.7 Digoxin
 
 In one study, concomitant administration of digoxin with simvastatin resulted in a slight elevation in plasma digoxin concentrations.
 Patients taking digoxin should be monitored appropriately when VYTORIN is initiated.
 
-## 7.7 Fibrates
+## 7.8 Fibrates
 
 The safety and effectiveness of VYTORIN administered with fibrates have not been established.
 
@@ -61,7 +68,7 @@ In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladd
 Coadministration of VYTORIN with fibrates is not recommended until use in patients is studied.
 [See Warnings and Precautions (5.1).]
 
-## 7.8 Coumarin Anticoagulants
+## 7.9 Coumarin Anticoagulants
 
 Simvastatin 20-40 mg/day modestly potentiated the effect of coumarin anticoagulants: the prothrombin time, reported as International Normalized Ratio (INR), increased from a baseline of 1.7 to 1.8 and from 2.6 to 3.4 in a normal volunteer study and in a hypercholesterolemic patient study, respectively.
 With other statins, clinically evident bleeding and/or increased prothrombin time has been reported in a few patients taking coumarin anticoagulants concomitantly.

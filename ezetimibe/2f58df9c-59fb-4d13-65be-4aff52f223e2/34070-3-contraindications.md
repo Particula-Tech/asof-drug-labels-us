@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Hypersensitivity to any component of this medication [see Adverse Reactions (6.2)].
 

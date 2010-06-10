@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021687"
+  ],
   "inn": "ezetimibe",
-  "labeler": "Merck/Schering-Plough Pharmaceuticals",
+  "labeler": "MSP Distribution Services (C) LLC",
   "package_ndcs": [
     "66582-311-01",
     "66582-311-28",
@@ -10,12 +12,14 @@
     "66582-311-82",
     "66582-311-87",
     "66582-312-01",
+    "66582-312-27",
     "66582-312-28",
     "66582-312-31",
     "66582-312-54",
     "66582-312-82",
     "66582-312-87",
     "66582-313-01",
+    "66582-313-27",
     "66582-313-31",
     "66582-313-52",
     "66582-313-54",
@@ -28,7 +32,13 @@
     "66582-315-66",
     "66582-315-74"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe and simvastatin",
+      "name": "VYTORIN"
+    }
+  ],
   "setid": "2f58df9c-59fb-4d13-65be-4aff52f223e2",
   "source": "dailymed"
 }

@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 VYTORIN contains ezetimibe, a selective inhibitor of intestinal cholesterol and related phytosterol absorption, and simvastatin, an HMG-CoA reductase inhibitor.
 

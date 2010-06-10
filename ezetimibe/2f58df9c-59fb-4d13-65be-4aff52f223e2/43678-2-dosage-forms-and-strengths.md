@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 - VYTORIN® 10/10, (ezetimibe 10 mg/simvastatin 10 mg tablets) are white to off-white capsule-shaped tablets with code “311” on one side.
 - VYTORIN® 10/20, (ezetimibe 10 mg/simvastatin 20 mg tablets) are white to off-white capsule-shaped tablets with code “312” on one side.
