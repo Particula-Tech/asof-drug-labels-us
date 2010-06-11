@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA020793"
+  ],
+  "inn": "caffeine",
+  "labeler": "Bedford Laboratories",
+  "package_ndcs": [
+    "55390-357-03",
+    "55390-358-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "caffeine citrate",
+      "name": "CAFCIT"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "caffeine citrate",
+      "name": "CAFCIT"
+    }
+  ],
+  "setid": "fbcd234e-57e1-4da2-a96c-e3f7b7cf6ec0",
+  "source": "dailymed"
+}
