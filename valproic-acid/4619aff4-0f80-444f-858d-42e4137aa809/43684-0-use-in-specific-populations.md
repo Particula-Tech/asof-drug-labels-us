@@ -37,12 +37,14 @@ Dietary folic acid supplementation both prior to and during pregnancy should be 
 
 Other Adverse Pregnancy Effects
 
-Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.5)].
+Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.6)].
 A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
 If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
 
 Patients taking valproate may develop hepatic failure [see Warnings and Precautions (5.1)].
 Fatal hepatic failures, in a newborn and in an infant, have been reported following the maternal use of valproate during pregnancy.
+
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
 
 Animal Data
 
@@ -60,7 +62,9 @@ This dose resulted in peak maternal plasma valproate levels 2.8 times the upper 
 
 Registry
 
-Women who become pregnant while using valproic acid should be encouraged to enroll in the AED (antiepileptic drug) Pregnancy Registry at 1-888-233-2334.
+To provide information regarding the effects of in utero exposure to Depakote, healthcare providers are advised to recommend that pregnant patients taking Depakote enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## 8.3 Nursing Mothers
 
@@ -71,7 +75,7 @@ Because of the potential for adverse reactions in a nursing infant, a decision b
 ## 8.4 Pediatric Use
 
 Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning, Warning and Precautions (5.1)].
-When DEPAKOTE is used in this patient group, it should be used with extreme caution and as a sole agent.
+When Depakote is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
@@ -85,13 +89,13 @@ Pediatric Clinical Trials
 
 Depakote was studied in seven pediatric clinical trials.
 
-Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of DEPAKOTE for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on Depakote) and migraine (304 patients aged 12 to 17 years, 231 of whom were on Depakote).
+Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of Depakote ER for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on Depakote ER) and migraine (304 patients aged 12 to 17 years, 231 of whom were on Depakote ER).
 Efficacy was not established for either the treatment of migraine or the treatment of mania.
 
 The remaining five trials were long term safety studies.
-Two six-month pediatric studies were conducted to evaluate the long-term safety of Depakote for the indication of mania (292 patients aged 10 to 17 years).
-Two twelve-month pediatric studies were conducted to evaluate the long-term safety of Depakote for the indication of migraine (353 patients aged 12 to 17 years).
-One twelve-month study was conducted to evaluate the safety of Depakote in the indication of partial seizures (169 patients aged 3 to 10 years).
+Two six-month pediatric studies were conducted to evaluate the long-term safety of Depakote ER for the indication of mania (292 patients aged 10 to 17 years).
+Two twelve-month pediatric studies were conducted to evaluate the long-term safety of Depakote ER for the indication of migraine (353 patients aged 12 to 17 years).
+One twelve-month study was conducted to evaluate the safety of Depakote Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 The safety and tolerability of Depakote in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
 Nonclinical Developmental Toxicology
@@ -109,7 +113,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.11)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.12)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.2)].
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26) [see Clinical Pharmacology (12.3)].
@@ -118,5 +122,5 @@ The capacity of elderly patients (age range: 68 to 89 years) to eliminate valpro
 
 Liver Disease
 
-[see Boxed Warning, Contraindications (4), and Warnings And Precautions (5) and Clinical Pharmacology (12.3)].
+[see Boxed Warning, Contraindications (4), and Warnings and Precautions (5) and Clinical Pharmacology (12.3)].
 Liver disease impairs the capacity to eliminate valproate.

@@ -59,7 +59,7 @@ As Depakote dosage is titrated upward, blood concentrations of phenobarbital and
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
-In epileptic patients previously receiving DEPAKENE (valproic acid) therapy, Depakote Sprinkle Capsules should be initiated at the same daily dose and dosing schedule.
+In epileptic patients previously receiving Depakene (valproic acid) therapy, Depakote Sprinkle Capsules should be initiated at the same daily dose and dosing schedule.
 After the patient is stabilized on Depakote Sprinkle Capsules, a dosing schedule of two or three times a day may be elected in selected patients.
 
 ## 2.2 General Dosing Advice
@@ -69,12 +69,12 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.11), Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.12), Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse reactions
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
-The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.5)].
+The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.6)].
 The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
 G.I.

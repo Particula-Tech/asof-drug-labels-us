@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effects of Co-Administered Drugs onValproate Clearance
+## 7.1 Effects of Co-Administered Drugs on Valproate Clearance
 
 Drugs that affect the level of expression of hepatic enzymes, particularly those that elevate levels of glucuronosyltransferases, may increase the clearance of valproate.
 For example, phenytoin, carbamazepine, and phenobarbital (or primidone) can double the clearance of valproate.
@@ -24,10 +24,10 @@ Caution should be observed if valproate and aspirin are to be co-administered.
 
 Carbapenem Antibiotics
 
-A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antiobiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
+A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
 The mechanism of this interaction in not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.10)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.11)].
 
 Felbamate
 
@@ -100,7 +100,7 @@ Lamotrigine
 
 In a steady-state study involving 10 healthy volunteers, the elimination half-life of lamotrigine increased from 26 to 70 hours with valproate co-administration (a 165% increase).
 The dose of lamotrigine should be reduced when co-administered with valproate.
-Serious skin reactions (such as Stevens-Johnson Syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
+Serious skin reactions (such as Stevens - Johnson syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
 See lamotrigine package insert for details on lamotrigine dosing with concomitant valproate administration.
 
 Phenobarbital
@@ -163,6 +163,6 @@ Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (25
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.4, 5.6, 5.7)].
+Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.4, 5.7, 5.8)].
 Concomitant administration of topiramate with valproic acid has also been associated with hypothermia in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.6, 5.8)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.7, 5.9)].

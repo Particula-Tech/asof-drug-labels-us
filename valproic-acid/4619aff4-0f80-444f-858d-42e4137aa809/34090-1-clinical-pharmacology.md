@@ -10,7 +10,7 @@ It has been suggested that its activity in epilepsy is related to increased brai
 
 The relationship between plasma concentration and clinical response is not well documented.
 One contributing factor is the nonlinear, concentration dependent protein binding of valproate which affects the clearance of the drug.
-Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species as protein binding may be affected by age and disease state (e.g hepatic or renal insufficiency, hyperlipidemia).
+Thus, monitoring of total serum valproate may not provide a reliable index of the bioactive valproate species as protein binding may be affected by age and disease state (e.g. hepatic or renal insufficiency, hyperlipidemia).
 
 Epilepsy
 
@@ -61,7 +61,7 @@ Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr
 Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
-For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine,phenytoin, and phenobarbital) will clear valproate more rapidly.
+For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
 Because of these changes in valproate clearance, monitoring of antiepileptic concentrations should be intensified whenever concomitant antiepileptics are introduced or withdrawn.
 
 Special Populations

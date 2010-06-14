@@ -1,0 +1,23 @@
+NDC 0074-6114-13
+
+100 Sprinkle Capsules
+
+DEPAKOTE® SPRINKLE CAPSULES
+
+DIVALPROEX SODIUM COATED PARTICLES IN CAPSULES
+
+125 mg Valproic Acid Activity
+
+Rx only Abbott
+
+NDC 0074-6114-11 100 Sprinkle Capsules Abbo-Pac® Unit Dose
+
+TO OPEN TEAR BACK ALONG PERFORATION
+
+PUSH
+
+DEPAKOTE® SPRINKLE CAPSULES, DIVALPROEX SODIUM COATED PARTICLES IN CAPSULES 125 mg Valproic Acid Activity
+
+THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+Rx only, Do not accept if sealed blister unit has been broken or opened.

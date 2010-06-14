@@ -23,7 +23,7 @@ Accordingly, the use of Depakote Sprinkle Capsules in women of childbearing pote
 This is especially important when the treatment of a spontaneously reversible condition not ordinarily associated with permanent injury or risk of death (e.g., migraine) is contemplated.
 [See Warnings and Precautions (5.2)]
 
-An information sheet describing the teratogenic potential of valproate is available for patients[See Patient Counseling Information (17.7)].
+An information sheet describing the teratogenic potential of valproate is available for patients [See Patient Counseling Information (17)].
 
 PANCREATITIS
 

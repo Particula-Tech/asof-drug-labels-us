@@ -8,7 +8,7 @@ In one, multiclinic, placebo controlled study employing an add-on design, (adjun
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
-Table 3: Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
+Table 4: Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ In patients converted to Depakote monotherapy, the mean total valproate concentr
 
 The following Table presents the findings for all patients randomized who had at least one post-randomization assessment.
 
-Table 4: Monotherapy Study Median Incidence of CPS per 8 Weeks
+Table 5: Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
