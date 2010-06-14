@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA060657"
+  ],
   "inn": "penicillin-g",
   "labeler": "Roerig",
   "package_ndcs": [
     "0049-0520-83",
     "0049-0530-28"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "penicillin g potassium",
+      "name": "Pfizerpen"
+    }
+  ],
   "setid": "d8aaefb6-3f7d-4bc5-b40a-1c58c3054320",
   "source": "dailymed"
 }
