@@ -9,8 +9,8 @@ A mixed episode is characterized by the criteria for a manic episode in conjunct
 
 The efficacy of Depakote ER is based in part on studies of Depakote (divalproex sodium delayed release tablets) in this indication, and was confirmed in a 3-week trial with patients meeting DSM-IV TR criteria for bipolar I disorder, manic or mixed type, who were hospitalized for acute mania [see Clinical Studies (14.1)].
 
-The safety and effectiveness of valproate for long-term use in mania, i.e., more than 3 weeks, has not been systematically evaluated in controlled clinical trials.
-Therefore, physicians who elect to use Depakote ER for extended periods should continually reevaluate the long-term risk-benefits of the drug for the individual patient.
+The effectiveness of valproate for long-term use in mania, i.e., more than 3 weeks, has not been demonstrated in controlled clinical trials.
+Therefore, healthcare providers who elect to use Depakote ER for extended periods should continually reevaluate the long-term risk-benefits of the drug for the individual patient.
 
 ## 1.2 Epilepsy
 

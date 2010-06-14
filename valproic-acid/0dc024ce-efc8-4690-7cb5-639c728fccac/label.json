@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021168"
+  ],
   "inn": "valproic-acid",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
@@ -7,11 +9,19 @@
     "0074-3826-13",
     "0074-3826-53",
     "0074-3826-60",
+    "0074-3826-72",
     "0074-7126-11",
     "0074-7126-13",
-    "0074-7126-53"
+    "0074-7126-53",
+    "0074-7126-72"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "divalproex sodium",
+      "name": "Depakote"
+    }
+  ],
   "setid": "0dc024ce-efc8-4690-7cb5-639c728fccac",
   "source": "dailymed"
 }

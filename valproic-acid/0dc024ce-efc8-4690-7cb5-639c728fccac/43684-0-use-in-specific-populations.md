@@ -37,12 +37,14 @@ Dietary folic acid supplementation both prior to and during pregnancy should be 
 
 Other Adverse Pregnancy Effects
 
-Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.5)].
+Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.6)].
 A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
 If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
 
 Patients taking valproate may develop hepatic failure [see Warnings and Precautions (5.1)].
 Fatal hepatic failures, in a newborn and in an infant, have been reported following the maternal use of valproate during pregnancy.
+
+There have been reports of developmental delay, autism and/or autism spectrum disorder in the offspring of women exposed to valproate during pregnancy.
 
 Animal Data
 
@@ -60,7 +62,9 @@ This dose resulted in peak maternal plasma valproate levels 2.8 times the upper 
 
 Registry
 
-Women who become pregnant while using valproic acid should be encouraged to enroll in the AED (antiepileptic drug) Pregnancy Registry at 1-888-233-2334.
+To provide information regarding the effects of in utero exposure to Depakote ER, healthcare providers are advised to recommend that pregnant patients taking Depakote ER enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## 8.3 Nursing Mothers
 
@@ -110,10 +114,10 @@ Safety Study-Controlled Mania Trial
 
 The incidence of treatment-emergent events for the pediatric population was based on the data from the single placebo-controlled clinical trial of Depakote ER in the treatment of manic or mixed episodes associated with bipolar disorder.
 
-Table 7 includes those adverse reactions reported for pediatric patients in the placebo-controlled mania trial where the incidence rate in the valproate-treated group was ≥5% and was at least twice the rate than that for placebo patients.
+Table 8 includes those adverse reactions reported for pediatric patients in the placebo-controlled mania trial where the incidence rate in the valproate-treated group was ≥5% and was at least twice the rate than that for placebo patients.
 
-Table 7.
-Common, Drug-Related Adverse Reactions reported by >5% of Depakote-ER Treated Patients during Placebo Controlled Trials for Pediatric Acute Mania
+Table 8.
+Common, Drug-Related Adverse Reactions reported by ≥ 5% of Depakote-ER Treated Patients during Placebo Controlled Trials for Pediatric Acute Mania
 
 | Adverse Reaction-preferred term | Depakote ER (n=76) | Placebo (n=74) |
 | --- | --- | --- |
@@ -130,7 +134,7 @@ Safety Study-Open Label Mania Safety Data
 
 In the two long-term (six month) safety studies in pediatric patients (n= 292) between the ages of 10 and 17 years old, no clinically meaningful differences in the adverse reaction profile were observed when compared to adults.
 
-The safety and tolerability of Depakote ER in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions(6.1, 6.2,6.3)].
+The safety and tolerability of Depakote ER in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6.1, 6.2, 6.3)].
 
 Safety Studies-Epilepsy (open label)
 
@@ -142,7 +146,7 @@ Safety and tolerability in this study was found comparable to that observed in a
 
 Prior Safety Experience
 
-Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning, Warnings and Precautions(5.1)].
+Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions[see Boxed Warning, Warnings and Precautions(5.1)].
 When valproic acid is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
@@ -152,7 +156,7 @@ Interpretation of valproic acid concentrations in children should include consid
 
 The safety and effectiveness of valproic acid for the treatment of acute mania has not been established in individuals below the age of 18 years.
 
-The safety and effectiveness of valproic acid for the prophylaxis of migraines has not been studied in individuals below the age of 16 years.
+The safety and effectiveness of valproic acid for the prophylaxis of migraines has not been studied in individuals below the age of 12 years.
 
 Nonclinical Developmental Toxicology
 
@@ -170,7 +174,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.11)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.12)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
 There is insufficient information available to discern the safety and effectiveness of valproic acid for the prophylaxis of migraines in patients over 65.

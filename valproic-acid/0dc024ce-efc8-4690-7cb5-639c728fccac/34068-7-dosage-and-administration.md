@@ -12,11 +12,11 @@ In a placebo-controlled clinical trial of acute mania or mixed type, patients we
 The maximum recommended dosage is 60 mg/kg/day.
 
 There is no body of evidence available from controlled trials to guide a clinician in the longer term management of a patient who improves during Depakote ER treatment of an acute manic episode.
-While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the benefits of Depakote ER in such longer-term treatment (i.e., beyond 3 weeks).
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no data to support the benefits of Depakote ER in such longer-term treatment (i.e., beyond 3 weeks).
 
 ## 2.2 Epilepsy
 
-Depakote ER (divalproex sodium) extended releasetablets are administered orally, and must be swallowed whole.
+Depakote ER (divalproex sodium) extended release tablets are administered orally, and must be swallowed whole.
 As Depakote ER dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Complex Partial Seizures
@@ -55,7 +55,7 @@ Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the usually accepted therapeutic range (50 to 100 mcg/mL).
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed[see Clinical Studies(14.3)].
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies(14.3)].
 However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions(7)].
 
 Simple and Complex Absence Seizures
@@ -117,12 +117,12 @@ Due to a decrease in unbound clearance of valproate and possibly a greater sensi
 Starting doses in the elderly lower than 250mg can only be achieved by the use of Depakote.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.11)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.12)].
 
 Dose-Related Adverse Reactions
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
-The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.5)].
+The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.6)].
 The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
 G.I.

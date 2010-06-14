@@ -6,7 +6,7 @@ The effectiveness of Depakote ER for the treatment of acute mania is based in pa
 Depakote ER’s effectiveness was confirmed in one randomized, double-blind, placebo-controlled, parallel group, 3-week, multicenter study.
 The study was designed to evaluate the safety and efficacy of Depakote ER in the treatment of bipolar I disorder, manic or mixed type, in adults.
 Adult male and female patients who had a current DSM-IV TR primary diagnosis of bipolar I disorder, manic or mixed type, and who were hospitalized for acute mania, were enrolled into this study.
-Depakote ER was initiated at a dose of 25 mg/kg/day given once daily, increased by 500 mg/day on Day 3, then adjusted to achieveplasma valproate concentrations in the range of 85-125 mcg/mL.
+Depakote ER was initiated at a dose of 25 mg/kg/day given once daily, increased by 500 mg/day on Day 3, then adjusted to achieve plasma valproate concentrations in the range of 85-125 mcg/mL.
 Mean daily Depakote ER doses for observed cases were 2362 mg (range: 500-4000), 2874 mg (range: 1500-4500), 2993 mg (range: 1500-4500), 3181 mg (range: 1500-5000), and 3353 mg (range: 1500-5500) at Days 1, 5, 10, 15, and 21, respectively.
 Mean valproate concentrations were 96.5 mcg/mL, 102.1 mcg/mL, 98.5 mcg/mL, 89.5 mcg/mL at Days 5, 10, 15 and 21, respectively.
 Patients were assessed on the Mania Rating Scale (MRS; score ranges from 0-52).
@@ -21,7 +21,7 @@ In one, multiclinic, placebo controlled study employing an add-on design, (adjun
 Randomized patients were to be followed for a total of 16 weeks.
 The following Table presents the findings.
 
-Table 9.
+Table 10.
 Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
@@ -47,7 +47,7 @@ In patients converted to Depakote monotherapy, the mean total valproate concentr
 
 The following Table presents the findings for all patients randomized who had at least one post-randomization assessment.
 
-Table 10.
+Table 11.
 Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
@@ -73,7 +73,7 @@ This trial recruited patients with a history of migraine headaches with or witho
 Patients with cluster or chronic daily headaches were excluded.
 Women of childbearing potential were allowed in the trial if they were deemed to be practicing an effective method of contraception.
 
-Patients who experienced≥ 2 migraine headaches in the 4-week baseline period were randomized in a 1:1 ratio to Depakote ER or placebo and treated for 12 weeks.
+Patients who experienced ≥ 2 migraine headaches in the 4-week baseline period were randomized in a 1:1 ratio to Depakote ER or placebo and treated for 12 weeks.
 Patients initiated treatment on 500 mg once daily for one week, and were then increased to 1000 mg once daily with an option to permanently decrease the dose back to 500 mg once daily during the second week of treatment if intolerance occurred.
 Ninety-eight of 114 Depakote ER-treated patients (86%) and 100 of 110 placebo-treated patients (91%) treated at least two weeks maintained the 1000 mg once daily dose for the duration of their treatment periods.
 Treatment outcome was assessed on the basis of reduction in 4-week migraine headache rate in the treatment period compared to the baseline period.

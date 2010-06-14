@@ -6,11 +6,11 @@ Information on pediatric adverse reactions is presented in section 8.
 
 ## 6.1 Mania
 
-The incidence of treatment-emergent events has been ascertained based on combined data from two placebo-controlled clinical trials of Depakote ER in the treatment of manic episodes associated with bipolar disorder.
+The incidence of treatment-emergent events has been ascertained based on combined data from two three week placebo-controlled clinical trials of Depakote ER in the treatment of manic episodes associated with bipolar disorder.
 
-Table 2 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the Depakote ER-treated group was greater than 5% and greater than the placebo incidence.
+Table 3 summarizes those adverse reactions reported for patients in these trials where the incidence rate in the Depakote ER-treated group was greater than 5% and greater than the placebo incidence.
 
-Table 2.
+Table 3.
 Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
 | Adverse Event | Depakote ER (n=338) | Placebo (n=263) |
@@ -46,7 +46,7 @@ Nervous System: Abnormal Gait, Hypertonia, Tremor
 
 Respiratory System: Rhinitis
 
-Skin and Appendages: Pruritis, Rash
+Skin and Appendages: Pruritus, Rash
 
 Special Senses: Conjunctivitis
 
@@ -57,11 +57,11 @@ Urogenital System: Urinary Tract Infection, Vaginitis
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, Depakote was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the Depakote-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5% of Depakote-treated patients and for which the incidence was greater than in the placebo group, in the placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of Depakote and other antiepilepsy drugs.
 
-Table 3.
-Adverse Reactions Reported by > 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
+Table 4.
+Adverse Reactions Reported by ≥ 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
 | Body System/Event | Depakote (%) (N=77) | Placebo (%) (N=70) |
 | --- | --- | --- |
@@ -97,11 +97,11 @@ Adverse Reactions Reported by > 5% of Patients Treated with Valproate During Pla
 | Alopecia | 6 | 1 |
 | Weight Loss | 6 | 0 |
 
-Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
+Table 5 lists treatment-emergent adverse reactions which were reported by ≥ 5% of patients in the high dose valproate group, and for which the incidence was greater than in the low dose group, in a controlled trial of Depakote monotherapy treatment of complex partial seizures.
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to Depakote alone, or the combination of valproate and other antiepilepsy drugs.
 
-Table 4.
-Adverse Reactions Reported by >5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
+Table 5.
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
 | Body System/Event | High Dose (%) (n=131) | Low Dose (%) (n=134) |
 | --- | --- | --- |
@@ -171,9 +171,9 @@ Of the 202 patients exposed to valproate in the placebo-controlled trials, 17% d
 This is compared to a rate of 5% for the 81 placebo patients.
 Including the long term extension study, the adverse reactions reported as the primary reason for discontinuation by ≥ 1% of 248 valproate-treated patients were alopecia (6%), nausea and/or vomiting (5%), weight gain (2%), tremor (2%), somnolence (1%), elevated SGOT and/or SGPT (1%), and depression (1%).
 
-Table 5 includes those adverse reactions reported for patients in the placebo-controlled trial where the incidence rate in the Depakote ER-treated group was greater than 5% and was greater than that for placebo patients.
+Table 6 includes those adverse reactions reported for patients in the placebo-controlled trial where the incidence rate in the Depakote ER-treated group was greater than 5% and was greater than that for placebo patients.
 
-Table 5.
+Table 6.
 Adverse Reactions Reported by >5% of Depakote ER-Treated Patients During the Migraine Placebo-controlled Trial with a Greater Incidence than Patients Taking Placebo1
 
 | Body System Event | Depakote ER (n=122) | Placebo (n=115) |
@@ -206,9 +206,9 @@ Skin and Appendages: Rash.
 
 Special Senses: Tinnitus.
 
-Table 6 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence rate in the valproate-treated group was greater than 5% and was greater than that for placebo patients.
+Table 7 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence rate in the valproate-treated group was greater than 5% and was greater than that for placebo patients.
 
-Table 6.
+Table 7.
 Adverse Reactions Reported by > 5% of Valproate-Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence than Patients Taking Placebo1
 
 | Body System Reaction | Depakote (n=202) | Placebo (n=81) |
@@ -257,7 +257,7 @@ Urogenital System: Metrorrhagia.
 
 Mania
 
-The following adverse reactions not listed previously were reported by greater than 1% of DEPAKOTE-treated patients and with a greater incidence than placebo in placebo-controlled trials of manic episodes associated with bipolar disorder:
+The following adverse reactions not listed previously were reported by greater than 1% of Depakote-treated patients and with a greater incidence than placebo in placebo-controlled trials of manic episodes associated with bipolar disorder:
 
 Body as a Whole: Chills, chills and fever, drug level increased, neck rigidity.
 
@@ -265,7 +265,7 @@ Cardiovascular System: Arrhythmia, hypotension, postural hypotension.
 
 Digestive System: Dysphagia, fecal incontinence, gastroenteritis, glossitis, gum hemorrhage, mouth ulceration.
 
-Hemic and Lymphatic System: Anemia, bleeding time increased,leucopenia.
+Hemic and Lymphatic System: Anemia, bleeding time increased, leucopenia.
 
 Metabolic and Nutritional Disorders: Hypoproteinemia.
 
@@ -275,7 +275,7 @@ Nervous System: Agitation, catatonic reaction, dysarthria, hallucinations, hypok
 
 Respiratory System: Hiccup.
 
-Skin and Appendages: Discoid lupus erythematosis, erythema nodosum, furunculosis, macularpapular rash, seborrhea, sweating, vesiculobullous rash.
+Skin and Appendages: Discoid lupus erythematosus, erythema nodosum, furunculosis, maculopapular rash, seborrhea, sweating, vesiculobullous rash.
 
 Special Senses: Conjunctivitis, dry eyes, eye disorder, eye pain, photophobia, taste perversion.
 
@@ -321,12 +321,12 @@ Weakness.
 
 Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.5) and Drug Interactions(7)].
+Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.6) and Drug Interactions(7)].
 Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Hepatic
 
-Minor elevations of transaminases (eg, SGOT and SGPT) and LDH are frequent and appear to be dose-related.
+Minor elevations of transaminases (e.g., SGOT and SGPT) and LDH are frequent and appear to be dose-related.
 Occasionally, laboratory test results include increases in serum bilirubin and abnormal changes in other liver function tests.
 These results may reflect potentially serious hepatotoxicity [see Warnings and Precautions (5.1)].
 
@@ -344,7 +344,7 @@ Acute pancreatitis including fatalities [see Warnings and Precautions (5.3)].
 
 Metabolic
 
-Hyperammonemia [see Warnings and Precautions (5.6)], hyponatremia, and inappropriate ADH secretion.
+Hyperammonemia [see Warnings and Precautions (5.7)], hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi's syndrome occurring chiefly in children.
 

@@ -11,6 +11,6 @@ Depakote ER tablets contain divalproex sodium in a once-a-day extended-release f
 
 Inactive Ingredients
 
-Depakotge ER 250 and 500 mg tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
+Depakote ER 250 and 500 mg tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
 
 In addition, 500 mg tablets contain iron oxide and polydextrose.

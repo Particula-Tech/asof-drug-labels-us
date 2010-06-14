@@ -14,11 +14,11 @@ Thus, monitoring of total serum valproate may not provide a reliable index of th
 
 Epilepsy
 
-The therapeutic range in epilepsy is commonly considered to be 85 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
+The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
 
 Mania
 
-In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 50 and 125 mcg/mL [see Dosage and Administration (2.1)].
+In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 85 and 125 mcg/mL [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
@@ -36,15 +36,15 @@ Conversion from Depakote to Depakote ER
 When Depakote ER is given in doses 8 to 20% higher than the total daily dose of Depakote, the two formulations are bioequivalent.
 In two randomized, crossover studies, multiple daily doses of Depakote were compared to 8 to 20% higher once-daily doses of Depakote ER.
 In these two studies, Depakote ER and Depakote regimens were equivalent with respect to area under the curve (AUC; a measure of the extent of bioavailability).
-Additionally, valproate Cmax was lower, and Cmin was either higher or not different, for Depakote ER relative to Depakote regimens (see Table 8).
+Additionally, valproate Cmax was lower, and Cmin was either higher or not different, for Depakote ER relative to Depakote regimens (see Table 9).
 
-Table 8.
+Table 9.
 Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher
 
 |  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |
 | --- | --- | --- | --- | --- |
 | Study Population | Regimens | Relative Bioavailability |  |  |
-| Healthy Volunteers (N=35) | 1000 & 1500 mg Depakote ER vs. 875& 1250 mg Depakote | 1.059 | 0.882 | 1.173 |
+| Healthy Volunteers (N=35) | 1000 & 1500 mg Depakote ER vs. 875 & 1250 mg Depakote | 1.059 | 0.882 | 1.173 |
 | Patients with epilepsy on concomitant enzyme-inducing antiepilepsy drugs (N = 64) | 1000 to 5000 mg Depakote ER vs. 875 to 4250 mg Depakote | 1.008 | 0.899 | 1.022 |
 
 Concomitant antiepilepsy drugs (topiramate, phenobarbital, carbamazepine, phenytoin, and lamotrigine were evaluated) that induce the cytochrome P450 isozyme system did not significantly alter valproate bioavailability when converting between Depakote and Depakote ER.
