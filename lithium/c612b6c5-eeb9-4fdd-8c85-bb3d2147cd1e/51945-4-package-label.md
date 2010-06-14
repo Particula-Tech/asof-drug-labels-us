@@ -5,9 +5,3 @@
 Rx Only
 
 Roxane Laboratories, Inc.
-
-0054-0021-29 Bottles of 500
-
-Rx Only
-
-Roxane Laboratories, Inc.
