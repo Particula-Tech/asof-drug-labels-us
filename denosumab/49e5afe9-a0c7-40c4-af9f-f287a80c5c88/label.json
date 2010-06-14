@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125320"
+  ],
+  "inn": "denosumab",
+  "labeler": "Amgen, Inc",
+  "package_ndcs": [
+    "55513-710-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab",
+      "name": "Prolia"
+    }
+  ],
+  "setid": "49e5afe9-a0c7-40c4-af9f-f287a80c5c88",
+  "source": "dailymed"
+}
