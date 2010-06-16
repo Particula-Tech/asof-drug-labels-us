@@ -40,6 +40,10 @@ Bronchospasm.
 
 Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
 
+## Musculoskeletal
+
+Myopathy, myotonia (see PRECAUTIONS).
+
 ## Autoimmune
 
 In extremely rare instances, systemic lupus erythematosus has been reported.

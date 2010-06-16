@@ -21,4 +21,4 @@ Vandalia, OH 45377
 ©2010 GlaxoSmithKline.
 All rights reserved.
 
-January 2010 INN:4PI
+May 2010 INN:5PI

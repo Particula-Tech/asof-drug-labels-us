@@ -49,6 +49,11 @@ Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
 Patients should be told that INNOPRAN XL may interfere with the glaucoma screening test.
 Withdrawal may lead to a return of intraocular pressure.
 
+## Myopathy
+
+Caution should be exercised when administering propranolol to patients with underlying skeletal muscle disease.
+Isolated cases of exacerbation of myopathy and myotonia have been reported.
+
 ## Risk of Anaphylactic Reaction
 
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
