@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022152"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-3125-1",
+    "68968-3250-1",
+    "68968-3250-6",
+    "68968-3500-1",
+    "68968-3500-6"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "valproic acid",
+      "name": "STAVZOR"
+    }
+  ],
+  "setid": "95a4ddd8-b76a-4128-b2ed-8a36cd5738f9",
+  "source": "dailymed"
+}
