@@ -17,7 +17,7 @@ The mean ± SD initial doses were 9 ± 3 mg/kg/day for renal transplant patients
 Total daily doses were divided into two equal daily doses.
 The Gengraf dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring in Transplant Patients, below).
 If cyclosporine trough blood concentrations are used, the target range is the same for Gengraf as for Sandimmune®.
-Using the same trough concentration target range for Gengraf as for Sandimmune® results in greater cyclosporine exposure when Gengraf is administered (see CLINICAL PHARMACOLOGY - Pharmacokinetics,Absorption).
+Using the same trough concentration target range for Gengraf as for Sandimmune® results in greater cyclosporine exposure when Gengraf is administered (see CLINICAL PHARMACOLOGY - Pharmacokinetics, Absorption).
 Dosing should be titrated based on clinical assessments of rejection and tolerability.
 Lower Gengraf doses may be sufficient as maintenance therapy.
 
@@ -31,11 +31,12 @@ Adjustments in dosage of prednisone must be made according to the clinical situa
 
 In transplanted patients who are considered for conversion to Gengraf from Sandimmune* (cyclosporine), Gengraf should be started with the same daily dose as was previously used with Sandimmune* (cyclosporine) (1:1 dose conversion).
 The Gengraf dose should subsequently be adjusted to attain the pre-conversion cyclosporine blood trough concentration.
-Using the same trough concentration target range for Gengraf as for Sandimmune* (cyclosporine) results in greater cyclosporine exposure when Gengraf is administered (see CLINICAL PHARMACOLOGY - Pharmacokinetics,Absorption).
+Using the same trough concentration target range for Gengraf as for Sandimmune* (cyclosporine) results in greater cyclosporine exposure when Gengraf is administered (see CLINICAL PHARMACOLOGY - Pharmacokinetics, Absorption).
 Patients with suspected poor absorption of Sandimmune* (cyclosporine) require different dosing strategies (see DOSAGE AND ADMINISTRATION - Transplant Patients with Poor Absorption of Sandimmune* (cyclosporine), below).
 In some patients, the increase in blood trough concentration is more pronounced and may be of clinical significance.
 
-Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Gengraf.In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
+Until the blood trough concentration attains the pre-conversion value, it is strongly recommended that the cyclosporine blood trough concentration be monitored every 4 to 7 days after conversion to Gengraf.
+In addition, clinical safety parameters such as serum creatinine and blood pressure should be monitored every two weeks during the first two months after conversion.
 If the blood trough concentrations are outside the desired range and/or if the clinical safety parameters worsen, the dosage of Gengraf must be adjusted accordingly.
 
 ## Transplant Patients with Poor Absorption of Sandimmune* (Cyclosporine)
@@ -56,6 +57,7 @@ If insufficient clinical benefit is seen and tolerability is good (including ser
 If no benefit is seen by 16 weeks of therapy, Gengraf therapy should be discontinued.
 
 Dose decreases by 25%-50% should be made at any time to control adverse events, e.g., hypertension elevations in serum creatinine (30% above patient's pretreatment level) or clinically significant laboratory abnormalities (see WARNINGS and PRECAUTIONS).
+
 If dose reduction is not effective in controlling abnormalities or if the adverse event or abnormality is severe, Gengraf should be discontinued.
 The same initial dose and dosage range should be used if Gengraf is combined with the recommended dose of methotrexate.
 Most patients can be treated with Gengraf doses of 3 mg/kg/day or below when combined with methotrexate doses of up to 15 mg/week (see CLINICAL PHARMACOLOGY - Clinical Trials).

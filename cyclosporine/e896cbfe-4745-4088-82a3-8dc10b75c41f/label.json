@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065003"
+  ],
   "inn": "cyclosporine",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-6463-32",
     "0074-6479-32"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cyclosporine",
+      "name": "GENGRAF"
+    }
+  ],
   "setid": "e896cbfe-4745-4088-82a3-8dc10b75c41f",
   "source": "dailymed"
 }

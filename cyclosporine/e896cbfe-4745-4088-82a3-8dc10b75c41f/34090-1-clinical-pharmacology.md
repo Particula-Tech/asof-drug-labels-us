@@ -36,7 +36,7 @@ The absolute bioavailability of cyclosporine administered as Sandimmune is depen
 The absolute bioavailability of cyclosporine administered as cyclosporine (MODIFIED) has not been determined in adults.
 In studies of renal transplant, rheumatoid arthritis and psoriasis patients, the mean cyclosporine AUC was approximately 20% to 50% greater and the peak blood cyclosporine concentration (Cmax) was approximately 40% to 106% greater following administration of cyclosporine (MODIFIED) compared to following administration of Sandimmune®.
 The dose normalized AUC in de novo liver transplant patients administered cyclosporine (MODIFIED) 28 days after transplantation was 50% greater and Cmax was 90% greater than in those patients administered Sandimmune®.
-AUC and Cmax are also increased (cyclosporine [MODIFIED] relative to cyclosporine) in heart transplant patients, but data are very limited.
+AUC and Cmax are also increased (cyclosporine [MODIFIED] relative to Sandimmune®) in heart transplant patients, but data are very limited.
 Although the AUC and Cmax values are higher on cyclosporine (MODIFIED) relative to Sandimmune®, the pre-dose trough concentrations (dose-normalized) are similar for the two formulations.
 
 Following oral administration of cyclosporine (MODIFIED), the time to peak blood cyclosporine concentrations (Tmax) ranged from 1.5 to 2.0 hours.
@@ -49,7 +49,7 @@ When the patients were administered cyclosporine (MODIFIED) with and without T-t
 
 | Patient Population | Dose/day1 (mg/d) | Dose/ weight (mg/kg/d) | AUC2 (ng·hr/mL) | Cmax (ng/mL) | Trough3 (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pharmacokinetic Parameters (mean±SD) |  |  |  |  |  |  |  |
+| Pharmacokinetic Parameters (mean± SD) |  |  |  |  |  |  |  |
 | De novorenal transplant4 Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
 | Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
 | De novoliver transplant5 Week 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
@@ -75,7 +75,7 @@ At least 25 metabolites have been identified from human bile, feces, blood, and 
 The biological activity of the metabolites and their contributions to toxicity are considerably less than those of the parent compound.
 The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-gamma, and 4-N-demethylated positions, respectively.
 At steady state following the oral administration of Sandimmune®, the mean AUCs for blood concentrations of M1, M9 and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
-Based on blood concentration data from stable renal transplant patients (13 patients administered cyclosporine [MODIFIED] and Sandimmune® in a crossover study), and bile concentration data from de novo liver transplant patients (4 administered cyclosporine [MODIFIED], 3 administered Sandimmune®, the percentage of dose present as M1, M9, and M4N metabolites is similar when either cyclosporine (MODIFIED) or Sandimmune® is administered.
+Based on blood concentration data from stable renal transplant patients (13 patients administered cyclosporine [MODIFIED] and Sandimmune® in a crossover study), and bile concentration data from de novo liver transplant patients (4 administered cyclosporine [MODIFIED], 3 administered Sandimmune®), the percentage of dose present as M1, M9, and M4N metabolites is similar when either cyclosporine (MODIFIED) or Sandimmune® is administered.
 
 ### Excretion
 
@@ -86,10 +86,10 @@ Neither dialysis nor renal failure alter cyclosporine clearance significantly.
 ### Drug Interactions
 
 (See PRECAUTIONS - Drug Interactions).
-When diclofenac or methotrexate was co-administered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS - Drug Interactions).
+When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased (see PRECAUTIONS - Drug Interactions).
 No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
-### Special Population
+### Special Populations
 
 #### Pediatric Population
 
@@ -104,13 +104,13 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 | Patient Population | Dose/ day (mg/d) | Dose/ weight (mg/kg/d) | AUC1 (ng·hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pediatric Pharmacokinetic Parameters (mean ± SD) |  |  |  |  |  |  |
-| Stable liver transplant2 |  |  |  |  |  |  |
+| Stable liver transplant 2 |  |  |  |  |  |  |
 | Age 2-8, Dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
 | Age 8-15, Dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4.0 |
-| Stable liver transplant3 |  |  |  |  |  |  |
+| Stable liver transplant 3 |  |  |  |  |  |  |
 | Age 3, Dosed BID (N = 1) | 120 | 8.33 | 5832 | 1050 | 171 | 11.9 |
 | Age 8-15, Dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11.0 ± 1.9 |
-| Stable renal transplant3 |  |  |  |  |  |  |
+| Stable renal transplant 3 |  |  |  |  |  |  |
 | Age 7-15, Dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
 | 1 AUC was measured over one dosing interval.2 Assay: Cyclo-trac specific monoclonal radioimmunoassay.3 Assay: TDx specific monoclonal fluorescence polarization immunoassay. |  |  |  |  |  |  |
 

@@ -6,7 +6,8 @@
 
 Cyclosporine, the active ingredient of Gengraf (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity.
 The risk increases with increasing doses of cyclosporine.
-Renal dysfunction including structural kidney damage is a potential consequence of Gengraf and therefore renal function must be monitored during therapy.Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
+Renal dysfunction including structural kidney damage is a potential consequence of Gengraf and therefore renal function must be monitored during therapy.
+Care should be taken in using cyclosporine with nephrotoxic drugs (see PRECAUTIONS).
 
 Patients receiving Gengraf require frequent monitoring of serum creatinine (see Special Monitoring under DOSAGE AND ADMINISTRATION).
 Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
@@ -50,7 +51,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
-| a p < 0.05, b p < 0.01, c p< 0.001, d p < 0.0001 |  |  |
+| a p < 0.05, b p < 0.01, c p < 0.001, d p < 0.0001 |  |  |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
 From 5% to 15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
@@ -79,8 +80,19 @@ This was usually noted during the first month of therapy when high doses of cycl
 The chemistry elevations usually decreased with a reduction in dosage.
 
 As in patients receiving other immunosuppressants, those patients receiving cyclosporine are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
+Patients taking cyclosporine should be warned to avoid excess ultraviolet light exposure.
 The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
 Because of the danger of oversuppression of the immune system resulting in increased risk of infection or malignancy, a treatment regimen containing multiple immunosuppressants should be used with caution.
+Some malignancies may be fatal.
+Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
+
+Latent Viral Infections
+
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
+These include BK virus-associated nephropathy which has been observed in patients receiving immunosuppressants, including Gengraf.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
+Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
+Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
 There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high dose methylprednisolone.
 
@@ -102,14 +114,16 @@ Serum creatinine improved in all but one patient after discontinuation of cyclos
 The "maximal creatinine increase" appears to be a factor in predicting cyclosporine nephropathy.
 
 There is a potential, as with other immunosuppressive agents, for an increase in the occurrence of malignant lymphomas with cyclosporine.
-It is not clear whether the risk with cyclosporine is greater than that in Rheumatoid Arthritis patients or in Rheumatoid Arthritis patients on cytotoxic treatment for this indication.
+It is not clear whether the risk with cyclosporine is greater than that in rheumatoid arthritis patients or in rheumatoid arthritis patients on cytotoxic treatment for this indication.
 Five cases of lymphoma were detected: four in a survey of approximately 2,300 patients treated with cyclosporine for rheumatoid arthritis, and another case of lymphoma was reported in a clinical trial.
-Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.Patients should be thoroughly evaluated before and during Gengraf (cyclosporine capsules, USP [MODIFIED]) treatment for the development of malignancies.
+Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.
+
+Patients should be thoroughly evaluated before and during Gengraf (cyclosporine capsules, USP [MODIFIED]) treatment for the development of malignancies.
 Moreover, use of Gengraf therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
 
 ## Psoriasis
 
-(See also BOXED WARNINGS for Psoriasis.)
+(See also BOXED WARNINGS for Psoriasis)
 
 Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using Gengraf (cyclosporine capsules, USP [MODIFIED]) should be considered before treatment of patients with psoriasis.
 Cyclosporine, the active ingredient in Gengraf, can cause nephrotoxicity and hypertension (see PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
@@ -173,7 +187,7 @@ During treatment with cyclosporine, vaccination may be less effective; and the u
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
 It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs and after initiation of new nonsteroidal anti-inflammatory drug therapy during Gengraf (cyclosporine capsules, USP [MODIFIED]) treatment.
-If co-administered with methotrexate, CBC and liver function tests are recommended to be monitored monthly (see also PRECAUTIONS - General, Hypertension).
+If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly (see also PRECAUTIONS - General, Hypertension).
 
 In patients who are receiving cyclosporine, the dose of Gengraf should be decreased by 25%-50% if hypertension occurs.
 If hypertension persists, the dose of Gengraf should be further reduced or blood pressure should be controlled with antihypertensive agents.
@@ -247,14 +261,13 @@ In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in 
 | trimethoprim with sulfamethoxazole | ketoconazole | sulindac | tacrolimus |
 |  |  |  | Other Drugs |
 |  |  |  | fibric acid derivatives |
-|  |  |  | (e.g.,bezafibrate,fenofibrate) |
+|  |  |  | (e.g.,bezafibrate, fenofibrate)methotrexate |
 
 ### Drugs That Alter Cyclosporine Concentrations
 
+Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
+Various agents are known to either increase or decrease plasma and whole blood of cyclosporine concentrations usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Cyclosporine is extensively metabolized by cytochrome P-450 III-A.
-Substances that inhibit this enzyme could decrease metabolism and increase cyclosporine concentrations.
-Substances that are inducers of cytochrome P-450 activity could increase metabolism and decrease cyclosporine concentrations.
 Monitoring of circulating cyclosporine concentrations and appropriate Gengraf (cyclosporine capsules, USP [MODIFIED]) dosage adjustment are essential when these drugs are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
 
 ### Drugs That Increase Cyclosporine Concentrations
@@ -262,12 +275,13 @@ Monitoring of circulating cyclosporine concentrations and appropriate Gengraf (c
 | Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
 | diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
-| nicardipine | itraconazole | clarithromycin |  | bromocriptine |
-| verapamil | ketoconazole | erythromycin |  | danazol |
-|  |  | quinupristin/ |  | metoclopramide |
-|  |  | dalfopristin |  | colchicine |
-|  |  |  |  | amiodarone |
+| nicardipine | itraconazole | clarithromycin |  | amiodarone |
+| verapamil | ketoconazole | erythromycin |  | bromocriptine |
+|  | voriconazole | quinupristin/ |  | colchicine |
+|  |  | dalfopristin |  | danazol |
 |  |  |  |  | imatinib |
+|  |  |  |  | metoclopramide |
+|  |  |  |  | nefazodone |
 |  |  |  |  | oral contraceptives |
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 III-A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
@@ -279,12 +293,13 @@ Grapefruit and grapefruit juice affect metabolism, increasing blood concentratio
 
 | Antibiotics | Anticonvulsants | Other Drugs |
 | --- | --- | --- |
-| nafcillin | carbamazepine | octreotide |
-| rifampin | phenobarbital | ticlopidine |
-|  | phenytoin | orlistat |
-|  |  | sulfinpyrazone |
-|  |  | terbinafine |
+| nafcillin | carbamazepine | bosentan |
+| rifampin | oxcarbazepine | octreotide |
+|  | phenobarbital | orlistat |
+|  | phenytoin | sulfinpyrazone |
 |  |  | St. John's Wort |
+|  |  | terbinafine |
+|  |  | ticlopidine |
 
 There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement, St. John's Wort.
 This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
@@ -303,13 +318,15 @@ Consequently, the dose of diclofenac should be in the lower end of the therapeut
 
 ### Methotrexate Interaction
 
-Preliminary data indicate that when methotrexate and cyclosporine were co-administered to rheumatoid arthritis patients (N = 20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite,7-hydroxy methotrexate, were decreased by approximately 80%.
+Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N = 20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite,7-hydroxy methotrexate, were decreased by approximately 80%.
 The clinical significance of this interaction is not known.
 Cyclosporine concentrations do not appear to have been altered (N = 6).
 
 ### Other Drug Interactions
 
-Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, and HMG-CoA reductase inhibitors (statins).
+Cyclosporine is an inhibitor of CYP3A4 and of the multidrug efflux transporter P-glycoprotein and may increase plasma concentrations of comedications that are substrates of CYP3A4 or P-glycoprotein or both.
+
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, and HMG-CoA reductase inhibitors (statins) and etoposide.
 Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
 There are also reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
 If digoxin or colchicine are used concurrently with cyclosporine, close clinical observation is required in order to enable early detection of toxic manifestations of digoxin or colchicine, followed by reduction of dosage or its withdrawal.
@@ -318,12 +335,17 @@ Literature and postmarketing cases of myotoxicity, including muscle pain and wea
 When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
 Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
 
+Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
+Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
+
 Cyclosporine should not be used with potassium sparing diuretics because hyperkalemia can occur.
-Caution is also required when cyclosporine is co-administered with potassium sparing drugs (e.g. angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium containing drugs as well as in patients on a potassium rich diet.
+Caution is also required when cyclosporine is coadministered with potassium sparing drugs (e.g. angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium containing drugs as well as in patients on a potassium rich diet.
 Control of potassium levels in these situations is advisable.
 
-Elevations in serum creatinine were observed in studies using sirolimus in combination with fulldose cyclosporine.This effect is often reversible with cyclosporine dose reduction.
-Simultaneous co-administration of cyclosporine significantly increases blood levels of sirolimus.
+Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
+This effect is often reversible with cyclosporine dose reduction.
+Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.
 To minimize increases in sirolimus blood concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
 
 During treatment with cyclosporine, vaccination may be less effective.
@@ -345,7 +367,10 @@ Published reports indicate the co-treatment of hairless mice with UV irradiation
 
 Cyclosporine was not mutagenic in appropriate test systems.
 Cyclosporine has not been found to be mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone-marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
-A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gaveindication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
+A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
+In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
+Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increase incidence of ventricular septal defect.
+These findings have not been demonstrated in other species and their relevance for humans is unknown.
 
 No impairment in fertility was demonstrated in studies in male and female rats.
 
@@ -365,15 +390,16 @@ Patients with malignant or premalignant changes of the skin should be treated wi
 
 ### Pregnancy Category C
 
-Cyclosporine was not teratogenic in appropriate test systems.
+Animal studies have shown reproductive toxicity in rats and rabbits.
+Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally).
 Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
 Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits following oral administration at maternally toxic doses.
 Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6 mg/kg, where dose corrections are based on body surface area.
 Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
 
-There are no adequate and well-controlled studies in pregnant women.
-Gengraf (cyclosporine capsules, USP [MODIFIED]) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies in pregnant women and, therefore, Gengraf (cyclosporine capsules, USP [MODIFIED]) should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
 
+In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature births is increased.
 The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
 The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
 Sixteen fetal losses occurred.
@@ -384,16 +410,20 @@ Twenty-eight percent of the infants were small for gestational age.
 Neonatal complications occurred in 27%.
 Therefore, the risks and benefits of using Gengraf during pregnancy should be carefully weighed.
 
+A limited number of observations in children exposed to cyclosporine in utero is available, up to an age of approximately 7 years.
+Renal function and blood pressure in these children were normal.
+
 Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Gengraf in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Gengraf.
 
 ## Nursing Mothers
 
-Since cyclosporine is excreted in human milk, breast-feeding should be avoided.
+Cyclosporine passes into breast milk.
+Mothers receiving treatment with Gengraf should not breast feed.
 
 ## Pediatric Use
 
 Although no adequate and well-controlled studies have been completed in children, transplant recipients as young as one year of age have received cyclosporine (MODIFIED) with no unusual adverse effects.
-The safety and efficacy of cyclosporine (MODIFIED) treatment in pediatric patients with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
+The safety and efficacy of cyclosporine (MODIFIED) treatment in children with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
 
 ## Geriatric Use
 

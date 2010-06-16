@@ -19,8 +19,9 @@ Packages of 30 unit-dose blisters.
 In the original unit-dose container at controlled room temperature 68°-77°F (20°-25°C).
 (See USP Controlled Room Temperature).
 
-*Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation. © Abbott Manufactured by: Abbott Laboratories North Chicago, IL 60064, U.S.A.
+*Sandimmune® is a registered trademark of Novartis Pharmaceuticals Corporation. © Abbott
 
-Abbott Laboratories
+Abbott Laboratories, North Chicago, IL 60064, U.S.A.
 
-North Chicago, IL 60064, U.S.A.
+Rev.
+01/2010

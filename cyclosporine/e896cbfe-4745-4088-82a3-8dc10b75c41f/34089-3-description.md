@@ -5,7 +5,7 @@ Gengraf (cyclosporine capsules, USP [MODIFIED]) is a modified oral formulation o
 Cyclosporine, the active principle in Gengraf, is a cyclic polypeptide immunosuppressant agent consisting of 11 amino acids.
 It is produced as a metabolite by the fungus species Aphanocladium album.
 
-Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-alanyl-N-methyl-L-leucyl-N-methyl-L-leucyl-N-methyl-L-valyl-3-hydroxy-N,4-dimethyl- L-2-amino-6-octenoyl-L-α-amino-butyryl-N-methylglycyl-N -methyl-L-leucyl-L-valyl-N-methyl-L-leucyl).
+Chemically, cyclosporine is designated as [R-[R*,R*-(E)]]-cyclic-(L-alanyl-D-alanyl-N-methyl-L-leucyl-N -methyl-L-leucyl-N-methyl-L-valyl-3-hydroxy-N,4-dimethyl- L-2-amino-6-octenoyl-L-α-amino-butyryl-N-methylglycyl-N -methyl-L-leucyl-L-valyl-N-methyl-L-leucyl).
 
 Gengraf Capsules (cyclosporine capsules, USP [MODIFIED]) are available in 25 mg and 100 mg strengths.
 

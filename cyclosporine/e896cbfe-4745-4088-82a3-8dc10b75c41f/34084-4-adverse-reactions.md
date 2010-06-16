@@ -56,6 +56,11 @@ The following reactions occurred in 2% or less of Sandimmune® -treated patients
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Both generalized and localized infections can occur.
+Pre-existing infections may also be aggravated.
+Fatal outcomes have been reported (see WARNINGS).
+
 Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune®
 
 | Complication | Cyclosporine Treatment (N = 227) % of Complications | Azathioprine with Steroids* (N = 228) % of Complications |
@@ -70,6 +75,11 @@ Infectious Complications in Historical Randomized Studies in Renal Transplant Pa
 | Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
 | * Some patients also received ALG. |  |  |
+
+## Postmarketing Experience, Kidney, Liver and Heart Transplantation
+
+BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Gengraf.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS, Kidney, Liver and Heart Transplant).
 
 ## Rheumatoid Arthritis
 
@@ -159,7 +169,7 @@ Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients
 |  | Urinary Tract Infection | 0% | 3% | 5% | 4% | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
-| † Includes patients in 2.5 mg/kg/day dose group only.* NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |
+| † Includes patients in 2.5 mg/kg/day dose group only. * NOS = Not Otherwise Specified. |  |  |  |  |  |  |  |
 
 In addition, the following adverse events have been reported in 1% to < 3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
@@ -284,7 +294,7 @@ Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clini
 | Gum Hyperplasia | 3.8% | 6.0% |
 | Nausea | 5.5% | 5.9% |
 | White cell and RES | 4.4% | 2.7% |
-| * Total percentage of events within the system.** Newly occurring hypertension = SBP≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |
+| * Total percentage of events within the system.** Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 
@@ -302,7 +312,11 @@ appetite increased, insomnia, dizziness, nervousness, vertigo
 
 ### Gastrointestinal
 
-abdominal distention, constipation, gingival bleeding; Liver and Biliary System: hyperbilirubinemia
+abdominal distention, constipation, gingival bleeding
+
+### Liver and Biliary System
+
+hyperbilirubinemia
 
 ### Neoplasms
 
