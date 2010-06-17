@@ -14,7 +14,7 @@ Rx only
 
 100 Tablets
 
-See package insert for Dosage and Administration.
+See accompanying prescribing information for Dosage and Administration.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59oto 86oF) (see USP Controlled Room Temperature).
 
@@ -26,10 +26,10 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-4156005
+Rev.
+3/10
 
-A001970 Rev.
-8/03
+A079205
 
 # Principal Display Panel
 
@@ -47,7 +47,7 @@ Rx only
 
 100 Tablets
 
-See prescribing information for Dosage and Administration.
+See accompanying prescribing information for Dosage and Administration.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59oto 86oF) (see USP Controlled Room Temperature).
 
@@ -55,11 +55,11 @@ Do not use if printed safety seal under cap is broken or missing.
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Research Triangle Park, NC 27709
 
 Made in Canada
 
-4159187
+Rev.
+3/10
 
-A002538 Rev.
-1/04
+A079206
