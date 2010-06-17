@@ -1,24 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070994",
+    "ANDA070995",
+    "ANDA072924"
+  ],
   "inn": "verapamil",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
     "0591-0343-01",
     "0591-0343-05",
     "0591-0343-10",
-    "0591-0344-01",
-    "0591-0344-05",
-    "0591-0344-10",
     "0591-0345-01",
     "0591-0345-05",
     "0591-0345-10",
-    "0591-0346-01",
-    "0591-0346-05",
-    "0591-0346-10",
-    "0591-0403-01",
     "0591-0404-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "verapamil hydrochloride",
+      "name": "Verapamil Hydrochloride"
+    }
+  ],
   "setid": "a0343397-897b-46d6-943f-a87e07e1de10",
   "source": "dailymed"
 }

@@ -14,7 +14,7 @@ This suggests that, in general, relief of spasm or dilation of coronary arteries
 
 2.
 Reduction of oxygen utilization: Verapamil regularly reduces the total peripheral resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.
-This unloading of the heart reduces myocardial energy consumption and oxygen requirements and probably accounts for the effectiveness of verapamil in chronic stable.
+This unloading of the heart reduces myocardial energy consumption and oxygen requirements and probably accounts for the effectiveness of verapamil in chronic stable effort angina.
 
 Arrhythmia: Electrical activity through the AV node depends, to a significant degree, upon calcium influx through the slow channel.
 By decreasing the influx of calcium, verapamil prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner.

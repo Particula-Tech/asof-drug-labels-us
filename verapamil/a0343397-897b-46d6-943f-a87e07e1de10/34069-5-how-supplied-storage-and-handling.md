@@ -19,4 +19,4 @@ Dispense in a tight, light-resistant container with child-resistant closure.
 Store at 20°-25°C (68°-77°F).
 [See USP controlled room temperature.]
 
-Watson Laboratories, Inc. Corona, CA 92880 USA Revised: July 2007 14747 0707B
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA Revised: November 2008 1108B 174388
