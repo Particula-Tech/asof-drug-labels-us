@@ -32,8 +32,8 @@ Table 1.Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokine
 | Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) | Vz (L/m2) | CL (L/h/m2) | Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
-| 125 (N=64) | 1,660±797 | 10,200±3,270 | 5.8Plasma specimens collected for 24 hours following the end of the 90-minute infusion.±0.7 | 110±48.5 | 13.3±6.01 | 26.3±11.9 | 229±108 | 10.4±3.1 |
-| 340 (N=6) | 3,392±874 | 20,604±6,027 | 11.7Plasma specimens collected for 48 hours following the end of the 90-minute infusion. Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38.±1.0 | 234±69.6 | 13.9±4.0 | 56.0±28.2 | 474±245 | 21.0±4.3 |
+| 125 (N=64) | 1,660 ±797 | 10,200 ±3,270 | 5.8Plasma specimens collected for 24 hours following the end of the 90-minute infusion. ±0.7 | 110 ±48.5 | 13.3 ±6.01 | 26.3 ±11.9 | 229 ±108 | 10.4 ±3.1 |
+| 340 (N=6) | 3,392 ±874 | 20,604 ±6,027 | 11.7Plasma specimens collected for 48 hours following the end of the 90-minute infusion. Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38. ±1.0 | 234 ±69.6 | 13.9 ±4.0 | 56.0 ±28.2 | 474 ±245 | 21.0 ±4.3 |
 | Cmax - Maximum plasma concentration |  |  |  |  |  |  |  |  |
 | AUC0–24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90-minute infusion |  |  |  |  |  |  |  |  |
 | t1/2 - Terminal elimination half-life |  |  |  |  |  |  |  |  |
@@ -47,10 +47,11 @@ The plasma protein to which irinotecan and SN-38 predominantly binds is albumin.
 ### Metabolism and Excretion
 
 The metabolic conversion of irinotecan to the active metabolite SN-38 is mediated by carboxylesterase enzymes and primarily occurs in the liver.
+In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
 SN-38 is subsequently conjugated predominantly by the enzyme UDP-glucuronosyl transferase 1A1 (UGT1A1) to form a glucuronide metabolite.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
-Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele.
-In a prospective study, in which irinotecan was administered as a single-agent on a once-every-3-week schedule, patients who were homozygous for UGT1A1*28 had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (See WARNINGS and DOSAGE AND ADMINISTRATION).
+Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
+In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) (See WARNINGS and DOSAGE AND ADMINISTRATION).
 SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
 The disposition of irinotecan has not been fully elucidated in humans.
 The urinary excretion of irinotecan is 11% to 20%; SN-38, <1%; and SN-38 glucuronide, 3%.
@@ -60,10 +61,12 @@ The cumulative biliary and urinary excretion of irinotecan and its metabolites (
 
 ### Geriatric
 
-In studies using the weekly schedule, the terminal half-life of irinotecan was 6.0 hours in patients who were 65 years or older and 5.5 hours in patients younger than 65 years.
-Dose-normalized AUC0–24 for SN-38 in patients who were at least 65 years of age was 11% higher than in patients younger than 65 years.
+The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
+Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients <65 years of age compared with patients ≥65 years of age.
+In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients <65 years of age compared to patients ≥65 years of age were observed.
+Although dose-normalized AUC0–24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan.
-The pharmacokinetics of irinotecan given once every 3 weeks has not been studied in the geriatric population; a lower starting dose is recommended in patients 70 years or older based on clinical toxicity experience with this schedule (see DOSAGE AND ADMINISTRATION).
+(see DOSAGE AND ADMINISTRATION).
 
 ### Pediatric
 

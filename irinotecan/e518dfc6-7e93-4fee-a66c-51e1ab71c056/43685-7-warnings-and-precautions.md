@@ -3,7 +3,7 @@
 ## General
 
 Outside of a well-designed clinical study, CAMPTOSAR Injection should not be used in combination with the "Mayo Clinic" regimen of 5-FU/LV (administration for 4–5 consecutive days every 4 weeks) because of reports of increased toxicity, including toxic deaths.
-CAMPTOSAR should be used as recommended (see DOSAGE AND ADMINISTRATION, Table 10).
+CAMPTOSAR should be used as recommended (see DOSAGE AND ADMINISTRATION, Table 11).
 
 In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
@@ -32,9 +32,19 @@ Routine administration of a colony-stimulating factor (CSF) is not necessary, bu
 
 ## Patients with Reduced UGT1A1 Activity
 
-Individuals who are homozygous for the UGT1A1*28 allele are at increased risk for neutropenia following initiation of CAMPTOSAR treatment.
-A reduced initial dose should be considered for patients known to be homozygous for the UGT1A1*28 allele (see DOSAGE AND ADMINISTRATION).
-Heterozygous patients (carriers of one variant allele and one wild-type allele which results in intermediate UGT1A1 activity) may be at increased risk for neutropenia; however, clinical results have been variable and such patients have been shown to tolerate normal starting doses.
+Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of CAMPTOSAR treatment.
+
+In a study of 66 patients who received single-agent CAMPTOSAR (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
+No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
+
+In a prospective study (n=250) to investigate the role of UGT1A1*28 polymorphism in the development of toxicity in patients treated with CAMPTOSAR (180 mg/m2) in combination with infusional 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 4.5%, and in patients heterozygous for this allele the incidence was 5.3%.
+Grade 4 neutropenia was observed in 1.8% of patients homozygous for the wild-type allele.
+
+In another study in which 109 patients were treated with CAMPTOSAR (100–125 mg/m2) in combination with bolus 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 18.2%, and in patients heterozygous for this allele the incidence was 11.1%.
+Grade 4 neutropenia was observed in 6.8% of patients homozygous for the wild-type allele.
+
+When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of CAMPTOSAR should be considered for patients known to be homozygous for the UGT1A1*28 allele.
+However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see DOSAGE AND ADMINISTRATION and PRECAUTIONS, Laboratory Tests).
 
 ## Hypersensitivity
 
@@ -52,6 +62,12 @@ Rare cases of renal impairment and acute renal failure have been identified, usu
 ## Thromboembolism
 
 Thromboembolic events have been observed in patients receiving irinotecan-containing regimens; the specific cause of these events has not been determined.
+
+## Pulmonary Toxicity
+
+Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have been reported in patients receiving irinotecan (in combination and as monotherapy) for treatment of colorectal cancer and other advanced solid tumors.
+In the event of an acute onset of new or progressive, unexplained pulmonary symptoms such as dyspnea, cough, and fever, irinotecan and other co-prescribed chemotherapeutic agents should be interrupted pending diagnostic evaluation.
+If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued and appropriate treatment instituted as needed (see ADVERSE REACTIONS: Overview of Adverse Events: Respiratory).
 
 ## Pregnancy
 
@@ -91,7 +107,7 @@ These symptoms are expected to occur more frequently with higher irinotecan dose
 ### Immunosuppressant Effects/Increased Susceptibility to Infections
 
 Administration of live or live-attenuated vaccines in patients immunocompromised by chemotherapeutic agents including CAMPTOSAR, may result in serious or fatal infections.
-Vaccination with a live vaccine should be avoided in patients receiving irinotecan.
+Avoid vaccination with a live vaccine in patients receiving irinotecan.
 Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished.
 
 ### Patients at Particular Risk
@@ -134,6 +150,11 @@ Patients should be alerted to the possibility of alopecia.
 
 Careful monitoring of the white blood cell count with differential, hemoglobin, and platelet count is recommended before each dose of CAMPTOSAR.
 
+### UGT1A1 Testing
+
+A laboratory test is available to determine the UGT1A1 status of patients.
+Testing can detect the UGT1A1 6/6, 6/7 and 7/7 genotypes (See WARNINGS).
+
 ## Drug Interactions
 
 The adverse effects of CAMPTOSAR, such as myelosuppression and diarrhea, would be expected to be exacerbated by other antineoplastic agents having similar adverse effects.
@@ -171,7 +192,9 @@ However, atrophy of male reproductive organs was observed after multiple daily i
 
 ## Pregnancy
 
-Pregnancy Category D—see WARNINGS.
+### Pregnancy Category D
+
+see WARNINGS.
 
 ## Nursing Mothers
 
@@ -182,7 +205,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 The effectiveness of irinotecan in pediatric patients has not been established.
 Results from two open-label, single arm studies were evaluated.
-One hundred and seventy children with refractory solid tumors were enrolled in one phase 2 trial in which 50 mg/ m2 of irinotecan was infused for 5 consecutive days every 3 weeks.
+One hundred and seventy children with refractory solid tumors were enrolled in one phase 2 trial in which 50 mg/m2 of irinotecan was infused for 5 consecutive days every 3 weeks.
 Grade 3–4 neutropenia was experienced by 54 (31.8%) patients.
 Neutropenia was complicated by fever in 15 (8.8%) patients.
 Grade 3–4 diarrhea was observed in 35 (20.6%) patients.
@@ -199,5 +222,5 @@ Minimal accumulation of irinotecan and SN-38 was observed in children on daily d
 
 ## Geriatric Use
 
-Patients greater than 65 years of age should be closely monitored because of a greater risk of late diarrhea in this population (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations and ADVERSE REACTIONS, Overview of Adverse Events).
+Patients greater than 65 years of age should be closely monitored because of a greater risk of early and late diarrhea in this population (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations and ADVERSE REACTIONS, Overview of Adverse Events).
 The starting dose of CAMPTOSAR in patients 70 years and older for the once-every-3-week-dosage schedule should be 300 mg/m2 (see DOSAGE AND ADMINISTRATION).

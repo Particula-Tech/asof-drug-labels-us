@@ -4,7 +4,7 @@
 
 A total of 955 patients with metastatic colorectal cancer received the recommended regimens of irinotecan in combination with 5-FU/LV, 5-FU/LV alone, or irinotecan alone.
 In the two phase 3 studies, 370 patients received irinotecan in combination with 5-FU/LV, 362 patients received 5-FU/LV alone, and 223 patients received irinotecan alone.
-(See Table 10 in DOSAGE AND ADMINISTRATION for recommended combination-agent regimens.)
+(See Table 11 in DOSAGE AND ADMINISTRATION for recommended combination-agent regimens.)
 
 In Study 1, 49 (7.3%) patients died within 30 days of last study treatment: 21 (9.3%) received irinotecan in combination with 5-FU/LV, 15 (6.8%) received 5-FU/LV alone, and 13 (5.8%) received irinotecan alone.
 Deaths potentially related to treatment occurred in 2 (0.9%) patients who received irinotecan in combination with 5-FU/LV (2 neutropenic fever/sepsis), 3 (1.4%) patients who received 5-FU/LV alone (1 neutropenic fever/sepsis, 1 CNS bleeding during thrombocytopenia, 1 unknown) and 2 (0.9%) patients who received irinotecan alone (2 neutropenic fever).
@@ -57,7 +57,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Fever | 42.2 | 1.7 | 32.4 | 3.6 | 43.5 | 0.4 |
 | Infection | 22.2 | 0 | 16.0 | 1.4 | 13.9 | 0.4 |
 | METABOLIC & NUTRITIONAL |  |  |  |  |  |  |
-| ↑Bilirubin | 87.6 | 7.1 | 92.2 | 8.2 | 83.9 | 7.2 |
+| ↑ Bilirubin | 87.6 | 7.1 | 92.2 | 8.2 | 83.9 | 7.2 |
 | DERMATOLOGIC |  |  |  |  |  |  |
 | Exfoliative dermatitis | 0.9 | 0 | 3.2 | 0.5 | 0 | 0 |
 | Rash | 19.1 | 0 | 26.5 | 0.9 | 14.3 | 0.4 |
@@ -78,7 +78,7 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 Table 7.
 Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
 
-|  | Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 |
+| Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 |  |
 | --- | --- | --- | --- | --- |
 | Adverse Event | Study 2 |  |  |  |
 | Irinotecan + 5-FU/LV infusional d 1&2 q 2 weeks N= 145 |  | 5-FU/LV infusional d 1&2 q 2 weeks N=143 |  |  |
@@ -214,8 +214,7 @@ Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studi
 | Irinotecan N=189 | BSC BSC = best supportive care N=90 | Irinotecan N=127 | 5-FU N=129 |  |
 | --- | --- | --- | --- | --- |
 | Adverse Event | Study 1 |  | Study 2 |  |
-| TOTAL Grade 3/4 |  |  |  |  |
-| Adverse Events | 79 | 67 | 69 | 54 |
+| TOTAL Grade 3/4 Adverse Events | 79 | 67 | 69 | 54 |
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea | 22 | 6 | 22 | 11 |
 | Vomiting | 14 | 8 | 14 | 5 |
@@ -254,12 +253,15 @@ Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studi
 
 Nausea, vomiting, and diarrhea are common adverse events following treatment with CAMPTOSAR and can be severe.
 When observed, nausea and vomiting usually occur during or shortly after infusion of CAMPTOSAR.
+An increased incidence of late diarrhea was observed in two studies, one using a 3-week schedule and the other using a weekly schedule.
 In the clinical studies testing the every 3-week-dosage schedule, the median time to the onset of late diarrhea was 5 days after irinotecan infusion.
 In the clinical studies evaluating the weekly dosage schedule, the median time to onset of late diarrhea was 11 days following administration of CAMPTOSAR.
 For patients starting treatment at the 125-mg/m2 weekly dose, the median duration of any grade of late diarrhea was 3 days.
 Among those patients treated at the 125-mg/m2 weekly dose who experienced grade 3 or 4 late diarrhea, the median duration of the entire episode of diarrhea was 7 days.
 The frequency of grade 3 or 4 late diarrhea was somewhat greater in patients starting treatment at 125 mg/m2 than in patients given a 100-mg/m2 weekly starting dose (34% [65/193] versus 23% [24/102]; p=0.08).
 The frequency of grade 3 and 4 late diarrhea by age was significantly greater in patients ≥65 years than in patients <65 years (40% [53/133] versus 23% [40/171]; p=0.002).
+In another study of 183 patients treated on the weekly schedule, the frequency of grade 3 or 4 late diarrhea in patients ≥65 years of age was 28.6% [26/91] and in patients <65 years of age was 23.9% [22/92].
+
 In one study of the weekly dosage treatment, the frequency of grade 3 and 4 late diarrhea was significantly greater in male than in female patients (43% [25/58] versus 16% [5/32]; p=0.01), but there were no gender differences in the frequency of grade 3 and 4 late diarrhea in the other two studies of the weekly dosage treatment schedule.
 Colonic ulceration, sometimes with gastrointestinal bleeding, has been observed in association with administration of CAMPTOSAR.
 
@@ -302,7 +304,7 @@ Over half the patients with dyspnea had lung metastases; the extent to which mal
 Interstitial pulmonary disease presenting as pulmonary infiltrates is uncommon during irinotecan therapy.
 Interstitial pulmonary disease can be fatal.
 Risk factors possibly associated with the development of interstitial pulmonary disease include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.
-Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy.
+Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan therapy (see WARNINGS).
 
 ### Neurologic
 
@@ -329,20 +331,20 @@ As a result of these observations, however, clinical studies in the United State
 ## Post-Marketing Experience
 
 The following events have been identified during postmarketing use of CAMPTOSAR in clinical practice.
-Myocardial ischemic events have been observed following irinotecan therapy predominantly in patients with underlying cardiac disease, other known risk factors for cardiac disease or previous cytotoxic chemotherapy (See also Table 7, thromboembolic events).
-Infrequent cases of ulcerative and ischemic colitis have been observed.
+Myocardial ischemic events have been observed following irinotecan therapy (See also Table 7, thromboembolic events) Infrequent cases of ulcerative and ischemic colitis have been observed.
 This can be complicated by ulceration, bleeding, ileus, obstruction, and infection, including typhlitis.
 Patients experiencing ileus should receive prompt antibiotic support (see PRECAUTIONS).
-Rare cases of megacolon and intestinal perforation have been reported.
-Rare cases of symptomatic pancreatitis or asymptomatic elevated pancreatic enzymes have been observed.
+Cases of megacolon, intestinal perforation, symptomatic pancreatitis, and asymptomatic pancreatic enzyme elevation have been reported.
 
 Hypersensitivity reactions including severe anaphylactic or anaphylactoid reactions have also been observed (see WARNINGS).
 
-Rare cases of hyponatremia mostly related with diarrhea and vomiting have been reported.
-Increases in serum levels of transaminases (i.e., AST and ALT) in the absence of progressive liver metastasis; transient increase of amylase and occasionally transient increase of lipase have been very rarely reported.
+Cases of hyponatremia mostly related with diarrhea and vomiting have been reported.
+Increases in serum levels of transaminases (i.e., AST and ALT) in the absence of progressive liver metastasis; transient increase of amylase and occasionally transient increase of lipase have been reported.
 
 Infrequent cases of renal insufficiency including acute renal failure, hypotension or circulatory failure have been observed in patients who experienced episodes of dehydration associated with diarrhea and/or vomiting, or sepsis (see WARNINGS).
 
 Early effects such as muscular contraction or cramps and paresthesia have been reported.
 
 Hiccups have been reported.
+
+Transient dysarthria has been reported in patients treated with CAMPTOSAR; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.

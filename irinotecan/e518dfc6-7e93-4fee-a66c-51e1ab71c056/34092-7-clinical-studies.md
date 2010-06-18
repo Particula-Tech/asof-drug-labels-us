@@ -30,23 +30,12 @@ Combination Dosage Schedule: Study Results
 | Demographics and Treatment Administration |  |  |  |  |  |
 | Female/Male (%) | 34/65 | 45/54 | 35/64 | 33/67 | 47/53 |
 | Median Age in years (range) | 62 (25–85) | 61 (19–85) | 61 (30–87) | 62 (27–75) | 59 (24–75) |
-| Performance Status (%) |  |  |  |  |  |
-| 0 | 39 | 41 | 46 | 51 | 51 |
-| 1 | 46 | 45 | 46 | 42 | 41 |
-| 2 | 15 | 13 | 8 | 7 | 8 |
-| Primary Tumor (%) |  |  |  |  |  |
-| Colon | 81 | 85 | 84 | 55 | 65 |
-| Rectum | 17 | 14 | 15 | 45 | 35 |
-| Median Time from Diagnosis to Randomization | 1.9 | 1.7 | 1.8 | 4.5 | 2.7 |
-| (months, range) | (0–161) | (0–203) | (0.1–185) | (0–88) | (0–104) |
-| Prior Adjuvant 5-FU Therapy (%) |  |  |  |  |  |
-| No | 89 | 92 | 90 | 74 | 76 |
-| Yes | 11 | 8 | 10 | 26 | 24 |
-| Median Duration of Study | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
-| TreatmentStudy 1: N=225 (irinotecan/5-FU/LV),N=219 (5-FU/LV),N=223 (irinotecan) Study 2: N=199 (irinotecan/5-FU/LV),N=186 (5-FU/LV) (months) |  |  |  |  |  |
-| Median Relative Dose Intensity (%) |  |  |  |  |  |
-| Irinotecan | 72 | — | 75 | 87 | — |
-| 5-FU | 71 | 86 | — | 86 | 93 |
+| Performance Status (%) 0 1 2 | 39 46 15 | 41 45 13 | 46 46 8 | 51 42 7 | 51 41 8 |
+| Primary Tumor (%) Colon Rectum | 81 17 | 85 14 | 84 15 | 55 45 | 65 35 |
+| Median Time from Diagnosis to Randomization (months, range) | 1.9 (0–161) | 1.7 (0–203) | 1.8 (0.1–185) | 4.5 (0–88) | 2.7 (0–104) |
+| Prior Adjuvant 5-FU Therapy (%) No Yes | 89 11 | 92 8 | 90 10 | 74 26 | 76 24 |
+| Median Duration of Study TreatmentStudy 1: N=225 (irinotecan/5-FU/LV),N=219 (5-FU/LV),N=223 (irinotecan) Study 2: N=199 (irinotecan/5-FU/LV),N=186 (5-FU/LV) (months) | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
+| Median Relative Dose Intensity (%) Irinotecan 5-FU | 72 71 | — 86 | 75 — | 87 86 | — 93 |
 | Efficacy Results |  |  |  |  |  |
 | Confirmed Objective Tumor | 39 | 21 | 18 | 35 | 22 |
 | Response RateConfirmed ≥ 4 to 6 weeks after first evidence of objective response (%) | (p<0.0001)Chi-square test |  |  | (p<0.005) |  |
@@ -58,7 +47,7 @@ Combination Dosage Schedule: Study Results
 Improvement was noted with irinotecan-based combination therapy relative to 5-FU/LV when response rates and time to tumor progression were examined across the following demographic and disease-related subgroups (age, gender, ethnic origin, performance status, extent of organ involvement with cancer, time from diagnosis of cancer, prior adjuvant therapy, and baseline laboratory abnormalities).
 Figures 1 and 2 illustrate the Kaplan-Meier survival curves for the comparison of irinotecan/5-FU/LV versus 5-FU/LV in Studies 1 and 2, respectively.
 
-Second-Line Treatment for Recurrent or Progressive Metastatic Colorectal Cancer After 5-FU-Based Treatment
+## Second-Line Treatment for Recurrent or Progressive Metastatic Colorectal Cancer After 5-FU-Based Treatment
 
 ### Weekly Dosage Schedule
 
@@ -110,7 +99,8 @@ Weekly Dosage Schedule: Study Results
 | Duration of Treatment with CAMPTOSAR (median, months) | 5 | 4 | 4 | 3 |
 | Relative Dose IntensityRelative dose intensity for CAMPTOSAR based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. (median %) | 74 | 67 | 73 | 81 |
 | Efficacy |  |  |  |  |
-| Confirmed Objective Response Rate (%)Confirmed ≥ 4 to 6 weeks after first evidence of objective response. (95% CI) | 21 (9.3 – 32.3) | 13 (6.3 – 20.4) | 14 (5.5 – 22.6) | 9 (3.3 – 14.3) |
+| Confirmed Objective Response Rate (%)Confirmed ≥ 4 to 6 weeks after first evidence of objective response. | 21 | 13 | 14 | 9 |
+| (95% CI) | (9.3 – 32.3) | (6.3 – 20.4) | (5.5 – 22.6) | (3.3 – 14.3) |
 | Time to Response (median, months) | 2.6 | 1.5 | 2.8 | 2.8 |
 | Response Duration (median, months) | 6.4 | 5.9 | 5.6 | 6.4 |
 | Survival (median, months) | 10.4 | 8.1 | 10.7 | 9.3 |
@@ -191,16 +181,14 @@ Once-Every-3-Week Dosage Schedule: Study Results
 | Primary Tumor (%) |  |  |  |  |
 | Colon | 55 | 52 | 57 | 62 |
 | Rectum | 45 | 48 | 43 | 38 |
-| Prior-5 FU Therapy (%) |  |  |  |  |
+| Prior 5-FU Therapy (%) |  |  |  |  |
 | For Metastatic Disease | 70 | 63 | 58 | 68 |
 | As Adjuvant Treatment | 30 | 37 | 42 | 32 |
 | Prior Irradiation (%) | 26 | 27 | 18 | 20 |
-| Duration of Study Treatment (median, months) | 4.1 | -- | 4.2 | 2.8 |
-| (Log-rank test) |  |  | (p=0.02) |  |
+| Duration of Study Treatment (median, months) (Log-rank test) | 4.1 | -- | 4.2 (p=0.02) | 2.8 |
 | Relative Dose Intensity (median %)Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. | 94 | -- | 95 | 81–99 |
 | Survival |  |  |  |  |
-| Survival (median, months) | 9.2 | 6.5 | 10.8 | 8.5 |
-| (Log-rank test) | (p=0.0001) |  | (p=0.035) |  |
+| Survival (median, months) (Log-rank test) | 9.2 (p=0.0001) | 6.5 | 10.8 (p=0.035) | 8.5 |
 
 Table 5.
 EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
