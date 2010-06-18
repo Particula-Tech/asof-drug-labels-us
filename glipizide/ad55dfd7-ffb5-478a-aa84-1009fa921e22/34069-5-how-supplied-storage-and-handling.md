@@ -10,6 +10,6 @@ Store below 30°C (86°F).
 
 Dispense in a tight container as defined in the USP.
 
-Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
 
-14744 Revised: July 2007 0707B
+Revised: November 2008 1108B 174347
