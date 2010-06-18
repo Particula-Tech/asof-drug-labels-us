@@ -1,11 +1,10 @@
 # HOW SUPPLIED
 
-EpiPen® auto-injectors (epinephrine injections, USP, 1:1000, 0.3 mL) are available in individual cartons, NDC 49502-500-01, and as EpiPen 2-Pak®, NDC 49502-500-02, a pack that contains two EpiPen auto-injectors (epinephrine injections, USP, 1:1000, 0.3 mL) and one EpiPen trainer device.
+EpiPen® Auto-Injectors (epinephrine injections, USR 1:1000, 0.3 mL) are available in individual cartons, NDC 49502-500-01, and as EpiPen 2-Pak®, NDC 49502-500-02, a pack that contains two EpiPen® Auto-Injectors (epinephrine injections, USP, 1:1000, 0.3 mL) and one EpiPen® Auto-Injector trainer device.
 
-EpiPen® Jr auto-injectors (epinephrine injection, USP, 1:2000, 0.3 mL) are available in individual cartons, NDC 49502-501-01, and as EpiPen Jr 2-Pak®, NDC 49502-501-02, a pack that contains two EpiPen Jr auto-injectors (epinephrine injections, USP, 1:2000, 0.3 mL) and one EpiPen trainer device.
+EpiPen® Jr Auto-Injectors (epinephrine injection, USP, 1:2000, 0.3 mL) are available in individual cartons, NDC 49502-501-01, and as EpiPen Jr 2-Pak®, NDC 49502-501-02, a pack that contains two EpiPen® Jr Auto-Injectors (epinephrine injections, USP, 1:2000, 0.3 mL) and one EpiPen® Auto-Injector trainer device.
 
-Each EpiPen and EpiPen Jr auto-injector comes in an individual carrying case that provides built-in needle protection after use.
-EpiPen 2-Pak and EpiPen Jr 2-Pak also include a S-clip to clip two cases together.
+EpiPen 2-Pak® and EpiPen Jr 2-Pak® also includes a S-clip to clip two cases together.
 
 Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) (See USP Controlled Room Temperature).
 Contains no latex.
@@ -13,10 +12,8 @@ Protect from light.
 
 Rx only.
 
-MANUFACTURED FOR DEY®, NAPA, CALIFORNIA 94558, U.S.A.
+MANUFACTURED FOR Dey, LP., NAPA, CALIFORNIA 94558, U.S.A. by Meridian Medical Technologies, Inc., a subsidiary of King Pharmaceuticals®, Inc., Columbia, MD 21046, U.S.A.
 
-by Meridian Medical Technologies, Inc., a subsidiary of King Pharmaceuticals, Inc., Columbia, MD 21046, U.S.A.
+EpiPen®, EpiPen® Jr, EpiPen 2-Pak®, and EpiPen Jr 2-Pak® are registered trademarks of Mylan, Inc. licensed exclusively to its wholly-owned affiliate, Dey, LP. of Napa California, USA.
 
-7/05 03-500-04
-
-0001297
+09/08 0001497 03-914-00

@@ -1,4 +1,18 @@
 # OVERDOSAGE
 
-Overdosage or inadvertent intravascular injection of epinephrine may cause cerebral hemorrhage resulting from a sharp rise in blood pressure.
-Fatalities may also result from pulmonary edema because of peripheral vascular constriction together with cardiac stimulation.
+Epinephrine is rapidly inactivated in the body and treatment following overdose with epinephrine is primarily supportive.
+If necessary, pressor effects may be counteracted by rapidly acting vasodilators or alpha-adrenergic blocking drugs.
+If prolonged hypotension follows such measure, it may be necessary to administer another pressor drug.
+
+Overdosage of epinephrine may produce extremely elevated arterial pressure, which may result in cerebrovascular hemorrhage, particularly in elderly patients.
+
+Overdosage may also result in pulmonary edema because of peripheral vascular constriction together with cardiac stimulation.
+Treatment consists of a rapidly acting alpha-adrenergic blocking drug and/or respiratory support.
+
+Epinephrine overdosage can also cause transient bradycardia followed by tachycardia and these may be accompanied by potentially fatal cardiac arrhythmias.
+Premature ventricular contractions may appear within one minute after injection and may be followed by multifocal ventricular tachycardia (prefibrillation rhythm).
+Subsidence of the ventricular effects may be followed by atrial tachycardia and occasionally by atrioventricular block.
+Treatment of arrhythmias consists of administration of a beta-blocking drug such as propranolol.
+
+Overdosage sometimes results in extreme pallor and coldness of the skin, metabolic acidosis and kidney failure.
+Suitable corrective measures must be taken in such situations.
