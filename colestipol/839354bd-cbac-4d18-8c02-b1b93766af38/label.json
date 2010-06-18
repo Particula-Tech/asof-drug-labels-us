@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077277"
+  ],
+  "inn": "colestipol",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
+  "package_ndcs": [
+    "0115-5212-18",
+    "0115-5212-29",
+    "0115-5213-02"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "colestipol hydrochloride",
+      "name": "COLESTIPOL HYDROCHLORIDE"
+    }
+  ],
+  "setid": "839354bd-cbac-4d18-8c02-b1b93766af38",
+  "source": "dailymed"
+}
