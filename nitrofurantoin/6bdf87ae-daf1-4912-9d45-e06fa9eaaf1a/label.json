@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009175"
+  ],
   "inn": "nitrofurantoin",
-  "labeler": "Sciele Pharma, Inc.",
+  "labeler": "Shionogi Pharma, Inc.",
   "package_ndcs": [
     "59630-450-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitrofurantoin",
+      "name": "Furadantin"
+    }
+  ],
   "setid": "6bdf87ae-daf1-4912-9d45-e06fa9eaaf1a",
   "source": "dailymed"
 }

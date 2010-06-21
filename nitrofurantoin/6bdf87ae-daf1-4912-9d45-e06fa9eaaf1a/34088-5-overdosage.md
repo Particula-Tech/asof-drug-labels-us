@@ -1,4 +1,4 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 Occasional incidents of acute overdosage of Furadantin have not resulted in any specific symptoms other than vomiting.
 Induction of emesis is recommended.
