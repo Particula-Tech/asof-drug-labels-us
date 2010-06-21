@@ -1,15 +1,32 @@
 # WARNINGS
 
-- Long-acting beta2-adrenergic agonists may increase the risk of asthma-related death.
-  Therefore, when treating patients with asthma, FORADIL AEROLIZER should only be used as additional therapy for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with two maintenance therapies, including FORADIL AEROLIZER.
-  - A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-    The increased risk of asthma-related death may represent a class effect of the long-acting beta2-adrenergic agonists, including formoterol.
-    No study adequate to determine whether the rate of asthma-related death is increased with FORADIL AEROLIZER has been conducted.
-  - Clinical studies with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo (See ADVERSE REACTIONS).
-    The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+ASTHMA RELATED DEATH
 
-- The studies described above enrolled patients with asthma.
-  No studies have been conducted that were adequate to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
+Long-acting beta2-adrenergic agonists, such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+
+Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
+Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+
+## Pediatric and Adolescent Patients
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be considered to ensure adherence with both drugs.
+In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
+If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.
+
+A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
+The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including formoterol.
+No study adequate to determine whether the rate of asthma-related death is increased with FORADIL AEROLIZER has been conducted.
+
+Clinical studies with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo (See ADVERSE REACTIONS).
+The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+
+The studies described above enrolled patients with asthma.
+No studies have been conducted that were adequate to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
+
 - FORADIL AEROLIZER should not be initiated in patients with significantly worsening or acutely deteriorating asthma, which may be a life-threatening condition.
   The use of FORADIL AEROLIZER in this setting is inappropriate.
 - FORADIL AEROLIZER should not be used in conjunction with an inhaled, long-acting beta2-agonist.
@@ -35,9 +52,8 @@ FORADIL AEROLIZER should not be used more frequently than twice daily (morning a
 
 ## Use of Anti-inflammatory Agents
 
-For the treatment of asthma, FORADIL AEROLIZER should only be used as additional therapy for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with two maintenance therapies, including FORADIL AEROLIZER.
 There are no data demonstrating that FORADIL has any clinical anti-inflammatory effect and therefore it cannot be expected to take the place of corticosteroids.
-Patients who already require oral or inhaled corticosteroids for treatment of asthma should be continued on this type of treatment even if they feel better as a result of initiating FORADIL AEROLIZER.
+Patients who require oral or inhaled corticosteroids for treatment of asthma should be continued on this type of treatment even if they feel better as a result of initiating FORADIL AEROLIZER.
 Any change in corticosteroid dosage, in particular a reduction, should be made ONLY after clinical evaluation (see PRECAUTIONS, Information for Patients).
 
 ## Cardiovascular Effects
@@ -90,7 +106,10 @@ Patients should be instructed to read the accompanying Medication Guide with eac
 The complete text of the Medication Guide is reprinted at the end of this document.
 Patients should be given the following information:
 
-1. Patients should be informed that long-acting beta2-adrenergic agonists may increase the risk of asthma-related death.
+1. Patients should be informed that long-acting beta2-adrenergic agonists (LABA), including formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalizations in pediatric and adolescent patients.
+   Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma- related death from LABA.
+   Patients should be informed that FORADIL AEROLIZER should not be the only therapy for the treatment of asthma and must only be used as additional therapy when a long-term asthma control medication (e.g., inhaled corticosteroids) do not adequately control asthma symptoms.
+   Patients should be informed that when FORADIL AEROLIZER is added to their treatment regimen they must continue to use their long-term asthma control medication.
 2. FORADIL AEROLIZER is not indicated to relieve acute asthma symptoms and extra doses should not be used for that purpose.
    Acute symptoms should be treated with an inhaled, short-acting, beta2-agonist (the health-care provider should prescribe the patient with such medication and instruct the patient in how it should be used).
    Patients should be instructed to seek medical attention if their symptoms worsen, if FORADIL AEROLIZER treatment becomes less effective, or if they need more inhalations of a short-acting beta2-agonist than usual.
@@ -176,6 +195,9 @@ There are no well-controlled human studies of the use of FORADIL AEROLIZER in nu
 ## Pediatric Use
 
 ### Asthma
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs (see INDICATIONS AND USAGE and WARNINGS).
 
 A total of 776 children 5 years of age and older with asthma were studied in three multiple-dose controlled clinical trials.
 Of the 512 children who received formoterol, 508 were 5-12 years of age, and approximately one third were 5-8 years of age.

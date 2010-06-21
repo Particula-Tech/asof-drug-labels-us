@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Principal display panel
 
 Package Label – 12 mcg per capsule
 
@@ -10,10 +10,6 @@ Foradil® Aerolizer®
 
 FOR INHALATION USE ONLY
 
-Keep this and all drugs out of the reach of children.
+Foradil® capsules for use with Aerolizer® Inhaler only
 
-Contents: 60 Capsules (Blister strips of 6)
-
-1 Aerolizer® Inhaler
-
-Prescribing Information and Medication Guide
+60 Capsules

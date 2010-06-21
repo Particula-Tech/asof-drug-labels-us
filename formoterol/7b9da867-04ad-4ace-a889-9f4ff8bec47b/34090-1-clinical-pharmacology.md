@@ -114,7 +114,7 @@ An analysis of ECG intervals was performed for patients who participated at stud
 ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6 and 12 months of treatment.
 The results showed that there was no clinically meaningful acute or chronic effect on ECG intervals, including QTc, resulting from treatment with FORADIL AEROLIZER.
 
-#### Tachyphylaxis/Tolerance
+### Tachyphylaxis/Tolerance
 
 In a clinical study in 19 adult patients with mild asthma, the bronchoprotective effect of formoterol, as assessed by methacholine challenge, was studied following an initial dose of 24 mcg (twice the recommended dose) and after 2 weeks of 24 mcg twice daily.
 Tolerance to the bronchoprotective effects of formoterol was observed as evidenced by a diminished bronchoprotective effect on FEV1 after 2 weeks of dosing, with loss of protection at the end of the 12 hour dosing period.

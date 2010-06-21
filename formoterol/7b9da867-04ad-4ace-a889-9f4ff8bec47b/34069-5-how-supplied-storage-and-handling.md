@@ -25,15 +25,22 @@ Always discard the FORADIL capsules and AEROLIZER Inhaler by the "Use by" date a
 
 Keep out of the reach of children.
 
-REV: JUNE 2006
+REV: JUNE 2010
 
 Manufactured by:
 
 Novartis Pharma AG, Basle, Switzerland
 
-for
+Distributed by:
 
-Schering Corporation, Kenilworth, NJ 07033
+Schering Corporation, a subsidiary of
 
-©2006 Novartis Pharmaceuticals Corporation.
+MERCK & CO., INC.
+
+Whitehouse Station, NJ 08889, USA
+
+Copyright © 2010 Schering Corp.,
+
+a subsidiary of MERCK & CO., INC.
+
 All rights reserved.

@@ -4,11 +4,20 @@ FORADIL capsules should be administered only by the oral inhalation route and on
 FORADIL capsules should not be ingested (i.e., swallowed) orally.
 FORADIL capsules should always be stored in the blister, and only removed IMMEDIATELY BEFORE USE.
 
-## For Maintenance Treatment of Asthma
+## Treatment of Asthma
 
-Long-acting beta2-adrenergic agonists may increase the risk of asthma-related death (see WARNINGS).
-Therefore, when treating patients with asthma, FORADIL AEROLIZER should only be used as additional therapy for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with two maintenance therapies, including FORADIL AEROLIZER.
-It is not indicated for patients whose asthma can be managed by occasional use of inhaled, short-acting, beta2-agonists or for patients whose asthma can be successfully managed by inhaled corticosteroids or other controller medications along with occasional use of inhaled short-acting beta2-agonists.
+Long-acting beta2-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death (see Warnings).
+Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
+Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+
+### Pediatric and Adolescent Patients
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+For patients with asthma less than 18 years of age who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs.
+In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
+If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.
 
 For adults and children 5 years of age and older, the usual dosage is the inhalation of the contents of one 12-mcg FORADIL capsule every 12 hours using the AEROLIZER Inhaler.
 The patient must not exhale into the device.
@@ -21,12 +30,14 @@ Under these circumstances, the therapeutic regimen should be re-evaluated.
 
 ## For Prevention of Exercise-Induced Bronchospasm (EIB)
 
+Use of FORADIL AEROLIZER as a single agent for the prevention of exercise-induced bronchospasm may be clinically indicated in patients who do not have persistent asthma.
+In patients with persistent asthma, use of FORADIL AEROLIZER for the prevention of exercise-induced bronchospasm may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.
 For adults and children 5 years of age or older, the usual dosage is the inhalation of the contents of one 12-mcg FORADIL capsule at least 15 minutes before exercise administered on an occasional as needed basis.
 When used intermittently as needed for prevention, protection may last up to 12 hours.
 
 Additional doses of FORADIL AEROLIZER should not be used for 12 hours after the administration of this drug.
 Regular, twice-daily dosing has not been studied in preventing EIB.
-Patients who are receiving FORADIL AEROLIZER twice daily for maintenance treatment of their asthma should not use additional doses for prevention of EIB and may require a short-acting bronchodilator.
+Patients who are receiving FORADIL AEROLIZER twice daily for treatment of their asthma should not use additional doses for prevention of EIB and may require a short-acting bronchodilator.
 
 ## For Maintenance Treatment of Chronic Obstructive Pulmonary Disease (COPD)
 

@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
+Long-acting beta2-adrenergic agonists (LABA), including formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalizations in pediatric and adolescent patients.
 Clinical trials with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo.
+(See WARNINGS)
 
 ## Experience in Pediatric, Adolescent and Adult Patients with Asthma
 
@@ -22,7 +24,7 @@ NUMBER AND FREQUENCY OF ADVERSE EXPERIENCES IN PATIENTS 5 YEARS OF AGE AND OLDER
 | Tremor | 37 | (1.9) | 4 | (0.4) |
 | Dizziness | 31 | (1.6) | 15 | (1.5) |
 | Insomnia | 29 | (1.5) | 8 | (0.8) |
-| Tonsilitis | 23 | (1.2) | 7 | (0.7) |
+| Tonsillitis | 23 | (1.2) | 7 | (0.7) |
 | Rash | 22 | (1.1) | 7 | (0.7) |
 | Dysphonia | 19 | (1.0) | 9 | (0.9) |
 
@@ -89,7 +91,7 @@ NUMBER AND FREQUENCY OF ADVERSE EXPERIENCES IN ADULT COPD PATIENTS TREATED IN MU
 | Cramps leg | 7 | (1.7) | 2 | (0.5) |
 | Cramps muscle | 7 | (1.7) | 0 |  |
 | Anxiety | 6 | (1.5) | 5 | (1.2) |
-| Pruritis | 6 | (1.5) | 4 | (1.0) |
+| Pruritus | 6 | (1.5) | 4 | (1.0) |
 | Sputum increased | 6 | (1.5) | 5 | (1.2) |
 | Mouth dry | 5 | (1.2) | 4 | (1.0) |
 

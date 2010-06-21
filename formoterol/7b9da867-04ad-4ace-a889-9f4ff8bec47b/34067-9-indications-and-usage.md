@@ -1,15 +1,28 @@
 # INDICATIONS AND USAGE
 
-Asthma
+## Asthma
 
-FORADIL AEROLIZER is indicated for long-term, twice-daily (morning and evening) administration in the maintenance treatment of asthma and in the prevention of bronchospasm in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma.
+FORADIL AEROLIZER is indicated for the treatment of asthma and in the prevention of bronchospasm only as concomitant therapy with a long-term asthma control medication, such as an inhaled corticosteroid, in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma.
 
-Long-acting beta2-adrenergic agonists may increase the risk of asthma-related death (see WARNINGS).
-Therefore, when treating patients with asthma, FORADIL AEROLIZER should only be used as additional therapy for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with two maintenance therapies, including FORADIL AEROLIZER.
-It is not indicated for patients whose asthma can be managed by occasional use of inhaled, short-acting, beta2-agonists or for patients whose asthma can be successfully managed by inhaled corticosteroids or other controller medications along with occasional use of inhaled, short-acting beta2-agonists.
+Long acting beta2 adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma related death (see WARNINGS).
+Use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
+Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+
+### Pediatric and Adolescent Patients
+
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients (see WARNINGS).
+For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs.
+In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
+If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.
+
+## Exercise-Induced Bronchospasm
 
 FORADIL AEROLIZER is also indicated for the acute prevention of exercise-induced bronchospasm (EIB) in adults and children 5 years of age and older, when administered on an occasional, as-needed basis.
+Use of FORADIL AEROLIZER as a single agent for the prevention of exercise-induced bronchospasm may be clinically indicated in patients who do not have persistent asthma.
+In patients with persistent asthma, use of FORADIL AEROLIZER for the prevention of exercise-induced bronchospasm may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.
 
-Chronic Obstructive Pulmonary Disease
+## Chronic Obstructive Pulmonary Disease
 
 FORADIL AEROLIZER is indicated for the long-term, twice daily (morning and evening) administration in the maintenance treatment of bronchoconstriction in patients with Chronic Obstructive Pulmonary Disease including chronic bronchitis and emphysema.
