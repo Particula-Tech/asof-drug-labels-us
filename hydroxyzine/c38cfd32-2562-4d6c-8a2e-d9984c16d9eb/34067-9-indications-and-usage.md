@@ -4,7 +4,7 @@ For symptomatic relief of anxiety and tension associated with psychoneurosis and
 
 Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus.
 
-As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol®) and barbiturates, so their use of these agents in pre-anesthetic adjunctive therapy should be modified on an individual basis.
+As a sedative when used as premedication and following general anesthesia, hydroxyzine may potentiate meperidine (Demerol®) and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis.
 Atropine and other belladonna alkaloids are not affected by the drug.
 Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent.
 

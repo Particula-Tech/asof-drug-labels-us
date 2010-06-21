@@ -9,4 +9,4 @@ M.W.
 763.27
 
 Each capsule, for oral administration, contains hydroxyzine pamoate equivalent to hydroxyzine hydrochloride 25 mg or 50 mg.
-In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, D&C yellow No. 10, FD&C blue No. 1, FD&C blue No. 2, FD&C green No. 3, FD&C red No. 40, FD&C yellow No. 6, gelatin, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, propylene glycol, sodium lauryl sulfate, sodium starch glycolate and titanium dioxide.
+In addition, each capsule contains the following inactive ingredients: colloidal silicon dioxide, D&C yellow No. 10, FD&C green No. 3, FD&C yellow No. 6, gelatin, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, propylene glycol, sodium lauryl sulfate, sodium starch glycolate and titanium dioxide.

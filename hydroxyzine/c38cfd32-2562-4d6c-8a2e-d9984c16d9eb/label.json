@@ -1,17 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086183",
+    "ANDA087479"
+  ],
   "inn": "hydroxyzine",
   "labeler": "Sandoz Inc.",
   "package_ndcs": [
     "0185-0613-01",
     "0185-0613-05",
     "0185-0613-10",
-    "0185-0613-52",
     "0185-0615-01",
     "0185-0615-05",
     "0185-0615-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydoxyzine pamoate",
+      "name": "hydoxyzine pamoate"
+    }
+  ],
   "setid": "c38cfd32-2562-4d6c-8a2e-d9984c16d9eb",
   "source": "dailymed"
 }
