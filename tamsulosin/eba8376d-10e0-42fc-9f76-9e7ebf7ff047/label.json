@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022460"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0809-13",
+    "0173-0809-59",
+    "0173-0809-61"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dutasteride and tamsulosin hydrochloride",
+      "name": "JALYN"
+    }
+  ],
+  "setid": "eba8376d-10e0-42fc-9f76-9e7ebf7ff047",
+  "source": "dailymed"
+}
