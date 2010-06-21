@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020800"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Shionogi Pharma, Inc.",
+  "package_ndcs": [
+    "59630-801-01",
+    "59630-801-02",
+    "59630-802-01",
+    "59630-802-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Twinject"
+    }
+  ],
+  "setid": "26d3474a-da8d-4d33-b032-3550c462abe4",
+  "source": "dailymed"
+}
