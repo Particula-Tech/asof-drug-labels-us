@@ -21,11 +21,12 @@ Hypersensitivity: anaphylaxis, angioedema, orbital or facial edema, urticaria, r
 
 Musculoskeletal: musculoskeletal pain including muscle cramps, arthralgia
 
-Nervous System/Psychiatric: grand mal seizure, psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence
+Nervous System/Psychiatric: grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.
+Convulsions, in patients with impaired renal function, have been reported very rarely.
 
-Respiratory: bronchospasm
+Respiratory: bronchospasm, interstitial pneumonia
 
-Skin: toxic epidermal necrolysis (very rare), alopecia, acne, pruritus, dry skin, flushing
+Skin: toxic epidermal necrolysis/Stevens Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
 
 Special Senses: tinnitus, taste disorder
 
@@ -33,3 +34,7 @@ Other: rare cases of impotence and rare cases of gynecomastia have been reported
 
 The adverse reactions reported for famotidine tablets may also occur with Famotidine Injection.
 In addition, transient irritation at the injection site has been observed with famotidine injection.
+
+## Pediatric Patients
+
+In a clinical study in 35 pediatric patients <1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.

@@ -59,15 +59,13 @@ The majority of clinical study experience involved oral administration of famoti
 In a U.S. multicenter, double-blind study in outpatients with endoscopically confirmed duodenal ulcer, orally administered famotidine was compared to placebo.
 As shown in Table 1, 70% of patients treated with famotidine 40 mg h.s. were healed by week 4.
 
-Table 1
+Table 1.
 
 | Outpatients with Endoscopically Confirmed Healed Duodenal Ulcers |  |  |  |
 | --- | --- | --- | --- |
 |  | Famotidine 40 mg h.s. (N=89) | Famotidine 20 mg b.i.d. (N=84) | Placebo h.s. (N=97) |
-| Week 2 | **32% | **38% | 17% |
-| Week 4 | **70% | **67% | 31% |
-
-**Statistically significantly different than placebo (p<0.001)
+| Week 2 | Statistically significantly different than placebo (p<0.001)32% | 38% | 17% |
+| Week 4 | 70% | 67% | 31% |
 
 Patients not healed by week 4 were continued in the study.
 By week 8, 83% of patients treated with famotidine had healed versus 45% of patients treated with placebo.
@@ -90,7 +88,7 @@ In both a U.S. and an international multicenter, double-blind study in patients 
 Antacids were permitted during the studies, but consumption was not significantly different between the famotidine and placebo groups.
 As shown in Table 2, the incidence of ulcer healing (dropouts counted as unhealed) with famotidine was statistically significantly better than placebo at weeks 6 and 8 in the U.S. study, and at weeks 4, 6 and 8 in the international study, based on the number of ulcers that healed, confirmed by endoscopy.
 
-Table 2
+Table 2.
 
 | Patients with Endoscopically Confirmed Healed Gastric Ulcers |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -109,14 +107,12 @@ Time to complete relief of daytime and nighttime pain was statistically signific
 Orally administered famotidine was compared to placebo in a U.S. study that enrolled patients with symptoms of GERD and without endoscopic evidence of erosion or ulceration of the esophagus.
 Famotidine 20 mg b.i.d. was statistically significantly superior to 40 mg h.s. and to placebo in providing a successful symptomatic outcome, defined as moderate or excellent improvement of symptoms (Table 3).
 
-Table 3
+Table 3.
 
 | % Successful Symptomatic Outcome |  |  |  |
 | --- | --- | --- | --- |
 |  | Famotidine 20 mg b.i.d. (N=154) | Famotidine 40 mg h.s. (N=149) | Placebo (N=73) |
-| Week 6 | 82†† | 69 | 62 |
-
-†† p≤0.01 vs Placebo
+| Week 6 | 82p≤0.01 vs Placebo | 69 | 62 |
 
 By two weeks of treatment, symptomatic success was observed in a greater percentage of patients taking famotidine 20 mg b.i.d. compared to placebo (p≤0.01).
 
@@ -124,19 +120,13 @@ Symptomatic improvement and healing of endoscopically verified erosion and ulcer
 Healing was defined as complete resolution of all erosions or ulcerations visible with endoscopy.
 The U.S. study comparing famotidine 40 mg p.o. b.i.d. to placebo and famotidine 20 mg p.o. b.i.d., showed a significantly greater percentage of healing for famotidine 40 mg b.i.d. at weeks 6 and 12 (Table 4).
 
-Table 4
+Table 4.
 
 | % Endoscopic Healing - U.S. Study |  |  |  |
 | --- | --- | --- | --- |
 |  | Famotidine 40 mg b.i.d. (N=127) | Famotidine 20 mg b.i.d. (N=125) | Placebo (N=66) |
-| Week 6 | 48†††,‡‡ | 32 | 18 |
-| Week 12 | 69†††,‡ | 54††† | 29 |
-
-††† p≤0.01 vs Placebo
-
-‡ p≤0.05 vs Famotidine 20 mg b.i.d.
-
-‡‡ p≤0.01 vs Famotidine 20 mg b.i.d.
+| Week 6 | 48p≤0.01 vs Placebo,p≤0.01 vs Famotidine 20 mg b.i.d. | 32 | 18 |
+| Week 12 | 69,p≤0.05 vs Famotidine 20 mg b.i.d. | 54 | 29 |
 
 As compared to placebo, patients who received famotidine had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
 These differences were statistically significant.
@@ -144,78 +134,16 @@ These differences were statistically significant.
 In the international study, when famotidine 40 mg p.o. b.i.d. was compared to ranitidine 150 mg p.o. b.i.d., a statistically significantly greater percentage of healing was observed with famotidine 40 mg b.i.d. at week 12 (Table 5).
 There was, however, no significant difference among treatments in symptom relief.
 
-Table 5
+Table 5.
 
 | % Endoscopic Healing - International Study |  |  |  |
 | --- | --- | --- | --- |
 |  | Famotidine 40 mg b.i.d. (N=175) | Famotidine 20 mg b.i.d. (N=93) | Ranitidine 150 mg b.i.d. (N=172) |
 | Week 6 | 48 | 52 | 42 |
-| Week 12 | 71‡‡‡ | 68 | 60 |
-
-‡‡‡ p≤0.05 vs Ranitidine 150 mg b.i.d.
+| Week 12 | 71p≤0.05 vs Ranitidine 150 mg b.i.d. | 68 | 60 |
 
 ### Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
 In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison Syndrome with or without multiple endocrine adenomas, famotidine significantly inhibited gastric acid secretion and controlled associated symptoms.
 Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
 Famotidine was well tolerated at these high dose levels for prolonged periods (greater than 12 months) in eight patients, and there were no cases reported of gynecomastia, increased prolactin levels, or impotence which were considered to be due to the drug.
-
-# CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS
-
-## Pharmacokinetics
-
-Table 6 presents pharmacokinetic data from published studies of small numbers of pediatric patients given famotidine intravenously.
-Areas under the curve (AUCs) are normalized to a dose of 0.5 mg/kg I.V. for pediatric patients and compared with an extrapolated 40 mg intravenous dose in adults (extrapolation based on results obtained with a 20 mg I.V. adult dose).
-
-Table 6
-
-| Pharmacokinetic Parametersa of Intravenous Famotidine |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Age (N=number of patients) | Area Under the Curve (AUC) (mg-hr/mL) | Total Clearance (Cl) (L/hr/kg) | Volume of Distribution (Vd) (L/kg) | Elimination Half-life (T1/2) (hours) |
-| 1-11 yrs (N=20) | 1089 ± 834 | 0.54 ± 0.34 | 2.07 ± 1.49 | 3.38 ± 2.60 |
-| 11-15 yrs (N=6) | 1140 ± 320 | 0.48 ± 0.14 | 1.5 ± 0.4 | 2.3 ± 0.4 |
-| Adult (N=16) | 1726b | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
-
-a Values are presented as means ± SD unless indicated otherwise.
-
-b Mean value only.
-
-Values of pharmacokinetic parameters for pediatric patients, ages 1-15 years, are comparable to those obtained for adults.
-
-Bioavailability studies of 8 pediatric patients (11-15 years of age) showed a mean oral bioavailability of 0.5 compared to adult values of 0.42 to 0.49.
-Oral doses of 0.5 mg/kg achieved an AUC of 580 ± 60 ng-hr/mL in pediatric patients 11-15 years of age compared to 482 ± 181 ng-hr/mL in adults treated with 40 mg orally.
-
-## Pharmacodynamics
-
-Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2-13 years of age using the sigmoid Emax model.
-These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in one study of adults (Table 7).
-
-Table 7
-
-| Pharmacodynamics of famotidine using the sigmoid Emax model |  |
-| --- | --- |
-|  | EC50 (ng/mL)* |
-| Pediatric Patients | 26 ± 13 |
-| Data from one study |  |
-| a) healthy adult subjects | 26.5 ± 10.3 |
-| b) adult patients with upper GI bleeding | 18.7 ± 10.8 |
-
-*Serum concentration of famotidine associated with 50% maximum gastric acid reduction.
-Values are presented as means ± SD.
-
-Four published studies (Table 8) examined the effect of famotidine on gastric pH and duration of acid suppression in pediatric patients.
-While each study had a different design, acid suppression data over time are summarized as follows:
-
-Table 8
-
-| Dosage | Route | Effecta | Number of Patients |
-| --- | --- | --- | --- |
-| 0.3 mg/kg; single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7b hours | 6 |
-| 0.4-0.8 mg/kg | I.V. | gastric pH >4 for 6-9 hours | 18 |
-| 0.5 mg/kg, single dose | I.V. | a >2 pH unit increase above baseline in gastric pH for >8 hours | 9 |
-| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ± 1.8b hours | 4 |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 ± 1.1b hours | 4 |
-
-a values reported in published literature.
-
-b Means ± S.D.

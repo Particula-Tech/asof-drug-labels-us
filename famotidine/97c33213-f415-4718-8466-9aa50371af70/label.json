@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075591"
+  ],
   "inn": "famotidine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-5197-41"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "famotidine",
+      "name": "Famotidine"
+    }
+  ],
   "setid": "97c33213-f415-4718-8466-9aa50371af70",
   "source": "dailymed"
 }
