@@ -82,7 +82,7 @@ The primary objective of this study was to determine the safety of ADVAIR DISKUS
 Morning predose FEV1 was obtained at baseline and Endpoint (last available FEV1 result) in children aged 6 to 11 years.
 In patients receiving ADVAIR DISKUS 100/50, FEV1 increased from 1.70 L at baseline (N = 79) to 1.88 L at Endpoint (N = 69) compared with an increase from 1.65 L at baseline (N = 83) to 1.77 L at Endpoint (N = 75) in patients receiving fluticasone propionate 100 mcg.
 
-The findings of this study, along with extrapolation of efficacy data from patients aged 12 years and older, support the overall conclusion that ADVAIR DISKUS 100/50 is efficacious in the maintenance treatment of asthma in patients aged 4 to 11 years.
+The findings of this study, along with extrapolation of efficacy data from patients aged 12 years and older, support the overall conclusion that ADVAIR DISKUS 100/50 is efficacious in the treatment of asthma in patients aged 4 to 11 years.
 
 ## 14.2 Chronic Obstructive Pulmonary Disease
 
@@ -124,8 +124,8 @@ A total of 1,579 patients had an established history of COPD (but no other signi
 Patients had a pre-bronchodilator FEV1 of 33% of predicted, a mean reversibility of 23% at baseline, and a history of ≥1 COPD exacerbation in the previous year that was moderate or severe.
 All patients were treated with ADVAIR DISKUS 250/50 twice daily during a 4-week run-in period prior to being assigned study treatment with twice-daily ADVAIR DISKUS 250/50 or salmeterol 50 mcg.
 In both studies, treatment with ADVAIR DISKUS 250/50 resulted in a significantly lower annual rate of moderate/severe COPD exacerbations compared with salmeterol (30.5% reduction [95% CI: 17.0, 41.8], p<0.001) in the first study and (30.4% reduction [95% CI: 16.9, 41.7], p<0.001) in the second study.
-Patients treated with ADVAIR DISKUS 250/50 also had a significantly lower annual rate of exacerbations requiring treatment with oral corticosteroids compared with patients treated with salmeterol (39.7% reduction [95% CI: 22.8, 52.9], p <0.001) in the first study, and (34.3% reduction [95% CI: 18.6, 47.0], p<0.001) in the second study.
-Secondary endpoints including pulmonary function and symptom scores improved more in patients treated with ADVAIR DISKUS 250/50 than with salmeterol 50 mcg in both studies.
+Patients treated with ADVAIR DISKUS 250/50 also had a significantly lower annual rate of exacerbations requiring treatment with oral corticosteroids compared with patients treated with salmeterol (39.7% reduction [95% CI: 22.8, 52.9], p <0.001) in the first study and (34.3% reduction [95% CI: 18.6, 47.0], p<0.001) in the second study.
+Secondary endpoints including pulmonary function and symptom scores improved more in patients treated with ADVAIR DISKUS 250/50 than with salmeterol 50 mcg in both studies
 
 Exacerbations were evaluated in the 1- and the 3-year trials with ADVAIR DISKUS 500/50 as 1 of the secondary efficacy endpoints.
 In the 1-year trial, the group receiving ADVAIR DISKUS 500/50 had a significantly lower rate of moderate and severe exacerbations compared with placebo (25.4% reduction compared with placebo [95% CI: 13.5, 35.7]) but not when compared with its components (7.5% reduction compared with fluticasone propionate [95% CI: -7.3, 20.3] and 7% reduction compared with salmeterol [95% CI: -8.0, 19.9]).
@@ -139,6 +139,6 @@ During the study patients were permitted usual COPD therapy with the exception o
 The patients were aged 40 to 80 years with an established history of COPD, a pre-bronchodilator FEV1 <60% of predicted at study entry, and <10% of predicted reversibility.
 Each patient who withdrew from double-blind treatment for any reason was followed for the full 3-year study period to determine survival status.
 The primary efficacy endpoint was all-cause mortality.
-Survival with ADVAIR DISKUS 500/50 was not significantly improved compared with placebo, or the individual components (all-cause mortality rate 12.6% ADVAIR DISKUS vs. 15.2% placebo).
+Survival with ADVAIR DISKUS 500/50 was not significantly improved compared with placebo or the individual components (all-cause mortality rate 12.6% ADVAIR DISKUS versus 15.2% placebo).
 The rates for all-cause mortality were 13.5% and 16.0% in the groups treated with salmeterol 50 mcg and fluticasone propionate 500 mcg, respectively.
 Secondary outcomes, including pulmonary function (post-bronchodilator FEV1), improved with ADVAIR DISKUS 500/50, salmeterol, and fluticasone propionate 500/50 compared with placebo.

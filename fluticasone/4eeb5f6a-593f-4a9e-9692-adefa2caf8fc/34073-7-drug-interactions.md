@@ -5,11 +5,11 @@ No formal drug interaction studies have been performed with ADVAIR DISKUS.
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
-Fluticasone propionate and salmeterol, the individual components of ADVAIR DISKUS, are substrates of CYP 3A4.
-The use of strong CYP 3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
+Fluticasone propionate and salmeterol, the individual components of ADVAIR DISKUS, are substrates of CYP3A4.
+The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
-Ritonavir:Fluticasone Propionate: A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP 3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
-During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
+Ritonavir:Fluticasone Propionate: A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
+During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 
 Ketoconazole:Fluticasone Propionate: Coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in increased plasma fluticasone propionate exposure and reduced plasma cortisol area under the curve (AUC), but had no effect on urinary excretion of cortisol.
 
@@ -23,8 +23,8 @@ ADVAIR DISKUS should be administered with extreme caution to patients being trea
 
 ## 7.3 Beta-Adrenergic Receptor Blocking Agents
 
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of ADVAIR DISKUS, but may produce severe bronchospasm in patients with reversible obstructive airways disease.
-Therefore, patients with asthma and COPD should not normally be treated with beta-blockers.
+Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of ADVAIR DISKUS, but may also produce severe bronchospasm in patients with reversible obstructive airways disease.
+Therefore, patients with asthma or COPD should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 
 ## 7.4 Diuretics

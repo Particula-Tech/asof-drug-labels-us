@@ -1,19 +1,19 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ADVAIR DISKUS 100/50 is supplied as a disposable purple device containing 60 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0695-00).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0695-00).
 ADVAIR DISKUS 100/50 is also supplied in an institutional pack of 1 disposable purple device containing 14 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0695-04).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0695-04).
 
 ADVAIR DISKUS 250/50 is supplied as a disposable purple device containing 60 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0696-00).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0696-00).
 ADVAIR DISKUS 250/50 is also supplied in an institutional pack of 1 disposable purple device containing 14 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0696-04).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0696-04).
 
 ADVAIR DISKUS 500/50 is supplied as a disposable purple device containing 60 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0697-00).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0697-00).
 ADVAIR DISKUS 500/50 is also supplied in an institutional pack of 1 disposable purple device containing 14 blisters.
-The DISKUS inhalation device is packaged within a purple, plastic-coated, moisture-protective foil pouch (NDC 0173-0697-04).
+The DISKUS inhalation device is packaged within a plastic-coated, moisture-protective foil pouch (NDC 0173-0697-04).
 
 Store at controlled room temperature (see USP), 20° to 25°C (68° to 77°F), in a dry place away from direct heat or sunlight.
 Keep out of reach of children.

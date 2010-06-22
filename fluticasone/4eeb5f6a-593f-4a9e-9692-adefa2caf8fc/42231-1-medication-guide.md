@@ -18,63 +18,56 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about ADVAIR DISKUS?
 
-- ADVAIR DISKUS contains 2 medicines:
-  - fluticasone propionate (the same medicine found in FLOVENT®), an inhaled corticosteroid medicine.
-    Inhaled corticosteroids help to decrease inflammation in the lungs.
+ADVAIR DISKUS can cause serious side effects, including:
+
+1. People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines, such as salmeterol (one of the medicines in ADVAIR DISKUS), have an increased risk of death from asthma problems.
+   It is not known whether fluticasone propionate, the other medicine in ADVAIR DISKUS, reduces the risk of death from asthma problems seen with salmeterol.
+   - Call your healthcare provider if breathing problems worsen over time while using ADVAIR DISKUS.
+     You may need different treatment.
+   - Get emergency medical care if:
+     - breathing problems worsen quickly and
+     - you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+2. ADVAIR DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
+3. When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR DISKUS.
+   Your healthcare provider will decide if you can stop ADVAIR DISKUS without loss of asthma control.
+   Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteriod.
+4. Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
+
+What is ADVAIR DISKUS?
+
+- ADVAIR DISKUS combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT®), and a LABA medicine, salmeterol (the same medicine found in SEREVENT®).
+  - Inhaled corticosteroids help to decrease inflammation in the lungs.
     Inflammation in the lungs can lead to asthma symptoms.
-  - salmeterol (the same medicine found in SEREVENT®), a long-acting beta2-agonist medicine or LABA.
-    LABA medicines are used in patients with asthma and chronic obstructive pulmonary disease (COPD).
+  - LABA medicines are used in people with asthma and chronic obstructive pulmonary disease (COPD).
     LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing and shortness of breath.
     These symptoms can happen when the muscles around the airways tighten.
     This makes it hard to breathe.
     In severe cases, wheezing can stop your breathing and cause death if not treated right away.
+- ADVAIR DISKUS is used for asthma and COPD as follows:
 
-- In patients with asthma, LABA medicines, such as salmeterol (one of the medicines in ADVAIR DISKUS), may increase the chance of death from asthma problems.
-  In a large asthma study, more patients who used salmeterol died from asthma problems compared with patients who did not use salmeterol.
-  It is not known whether fluticasone propionate, the other medicine in ADVAIR DISKUS, changes your chance of death from asthma problems seen with salmeterol.
-  Talk with your healthcare provider about this risk and the benefits of treating your asthma with ADVAIR DISKUS.
+Asthma:
 
-- ADVAIR DISKUS does not relieve sudden symptoms.
-  Always have a short-acting beta2-agonist medicine with you to treat sudden symptoms.
-  If you do not have an inhaled, short-acting bronchodilator, contact your healthcare provider to have one prescribed for you.
-
-- Do not stop using ADVAIR DISKUS unless told to do so by your healthcare provider because your symptoms might get worse.
-
-- ADVAIR DISKUS should be used only if your healthcare provider decides that another asthma-controller medicine alone does not control your asthma or that you need 2 asthma-controller medicines.
-
-- Call your healthcare provider if breathing problems worsen over time while using ADVAIR DISKUS.
-  You may need different treatment.
-
-- Get emergency medical care if:
-  - breathing problems worsen quickly, and
-  - you use your short-acting beta2-agonist medicine, but it does not relieve your breathing problems.
-
-What is ADVAIR DISKUS?
-
-ADVAIR DISKUS combines an inhaled corticosteroid medicine, fluticasone propionate (the same medicine found in FLOVENT) and a long-acting beta2 -agonist medicine, salmeterol (the same medicine found in SEREVENT).
-ADVAIR DISKUS is used for asthma and chronic obstructive pulmonary disease (COPD) as follows:
-
-Asthma
-
-ADVAIR DISKUS is used long term, twice a day to control symptoms of asthma and to prevent symptoms such as wheezing in adults and children ages 4 and older.
+ADVAIR DISKUS is used to control symptoms of asthma and to prevent symptoms such as wheezing in adults and children aged 4 years and older.
 
 ADVAIR DISKUS contains salmeterol (the same medicine found in SEREVENT).
-Because LABA medicines, such as salmeterol, may increase the chance of death from asthma problems, ADVAIR DISKUS is not for adults and children with asthma who:
+LABA medicines, such as salmeterol, increase the risk of death from asthma problems.
 
-- are well controlled with another asthma-controller medicine such as a low to medium dose of an inhaled corticosteroid medicine
-- only need short-acting beta2-agonist medicines once in awhile
+ADVAIR DISKUS is not for adults and children with asthma who:
 
-Chronic Obstructive Pulmonary Disease
+- are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine
+- have sudden asthma symptoms
+
+COPD:
 
 COPD is a chronic lung disease that includes chronic bronchitis, emphysema, or both.
-ADVAIR DISKUS 250/50 is used long term, twice a day to help improve lung function for better breathing in adults with COPD.
+ADVAIR DISKUS 250/50 is used long term, 2 times each day to help improve lung function for better breathing in adults with COPD.
 ADVAIR DISKUS 250/50 has been shown to decrease the number of flare-ups and worsening of COPD symptoms (exacerbations).
 
 Who should not use ADVAIR DISKUS?
 
 Do not use ADVAIR DISKUS:
 
-- to treat sudden, severe symptoms of asthma or COPD
+- to treat sudden, severe symptoms of asthma or COPD and
 - if you have a severe allergy to milk proteins.
   Ask your doctor if you are not sure.
 
@@ -114,74 +107,57 @@ Do not use ADVAIR DISKUS unless your healthcare provider has taught you and you 
 Ask your healthcare provider or pharmacist if you have any questions.
 
 - Children should use ADVAIR DISKUS with an adult’s help, as instructed by the child’s healthcare provider.
-
 - Use ADVAIR DISKUS exactly as prescribed.
   Do not use ADVAIR DISKUS more often than prescribed.
   ADVAIR DISKUS comes in 3 strengths.
-  Your healthcare provider will prescribe the one that is best for your condition.
-
-- The usual dosage of ADVAIR DISKUS is 1 inhalation twice a day (morning and evening).
+  Your healthcare provider has prescribed the one that is best for your condition.
+- The usual dosage of ADVAIR DISKUS is 1 inhalation 2 times each day (morning and evening).
   The 2 doses should be about 12 hours apart.
   Rinse your mouth with water after using ADVAIR DISKUS.
-
 - If you take more ADVAIR DISKUS than your doctor has prescribed, get medical help right away if you have any unusual symptoms, such as worsening shortness of breath, chest pain, increased heart rate, or shakiness.
-
 - If you miss a dose of ADVAIR DISKUS, just skip that dose.
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
-
 - Do not use a spacer device with ADVAIR DISKUS.
-
 - Do not breathe into ADVAIR DISKUS.
-
-- While you are using ADVAIR DISKUS twice a day, do not use other medicines that contain a long-acting beta2-agonist or LABA for any reason.
+- While you are using ADVAIR DISKUS 2 times each day, do not use other medicines that contain a LABA for any reason.
   Ask your healthcare provider or pharmacist if any of your other medicines are LABA medicines.
-
-- Do not change or stop any of your medicines used to control or treat your breathing problems.
-  Your healthcare provider will adjust your medicines as needed.
-
-- Make sure you always have a short-acting beta2-agonist medicine with you.
-  Use your short-acting beta2-agonist medicine if you have breathing problems between doses of ADVAIR DISKUS.
-
+- Do not stop using ADVAIR DISKUS or other asthma medicines unless told to do so by your healthcare provider because your symptoms might get worse.
+  Your healthcare provider will change your medicines as needed.
+- ADVAIR DISKUS does not relieve sudden symptoms.
+  Always have a rescue inhaler medicine with you to treat sudden symptoms.
+  If you do not have an inhaled, short-acting bronchodilator, call your healthcare provider to have one prescribed for you.
 - Call your healthcare provider or get medical care right away if:
   - your breathing problems worsen with ADVAIR DISKUS
-  - you need to use your short-acting beta2-agonist medicine more often than usual
-  - your short-acting beta2-agonist medicine does not work as well for you at relieving symptoms
-  - you need to use 4 or more inhalations of your short-acting beta2-agonist medicine for 2 or more days in a row
-  - you use 1 whole canister of your short-acting beta2-agonist medicine in 8 weeks’ time
+  - you need to use your rescue inhaler medicine more often than usual
+  - your rescue inhaler medicine does not work as well for you at relieving symptoms
+  - you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
+  - you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
   - your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
   - you have asthma and your symptoms do not improve after using ADVAIR DISKUS regularly for 1 week
 
 What are the possible side effects with ADVAIR DISKUS?
 
-- ADVAIR DISKUS contains salmeterol (the same medicine found in SEREVENT).
-  In patients with asthma, LABA medicines, such as salmeterol, may increase the chance of death from asthma problems.
-  See “What is the most important information I should know about ADVAIR DISKUS?”
-- Patients with COPD have a higher chance of getting pneumonia.
-  ADVAIR DISKUS may increase the chance of getting pneumonia.
-  Call your healthcare provider if you notice any of the following symptoms:
-  - increase in mucus (sputum) production
-  - change in mucus color
-  - fever
-  - chills
-  - increased cough
-  - increased breathing problems.
+ADVAIR DISKUS can cause serious side effects, including:
 
-Other possible side effects with ADVAIR DISKUS include:
-
+- See “What is the most important information I should know about ADVAIR DISKUS?”
 - serious allergic reactions.
-  Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction, including:
+  Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
   - rash
   - hives
   - swelling of the face, mouth, and tongue
   - breathing problems
-- increased blood pressure
-- a fast and irregular heartbeat
-- chest pain
-- headache
-- tremor
-- nervousness
+- sudden breathing problems immediately after inhaling your medicine
+- effects on heart
+  - increased blood pressure
+  - a fast and irregular heartbeat
+  - chest pain
+- effects on nervous system
+  - tremor
+  - nervousness
+- reduced adrenal function (may result in loss of energy)
+- changes in blood (sugar, potassium, certain types of white blood cells)
 - weakened immune system and a higher chance of infections
 - lower bone mineral density.
   This may be a problem for people who already have a higher chance of low bone density (osteoporosis).
@@ -189,10 +165,20 @@ Other possible side effects with ADVAIR DISKUS include:
   You should have regular eye exams while using ADVAIR DISKUS.
 - slowed growth in children.
   A child’s growth should be checked often.
+- pneumonia.
+  People with COPD have a higher chance of getting pneumonia.
+  ADVAIR DISKUS may increase the chance of getting pneumonia.
+  Call your healthcare provider if you notice any of the following symptoms:
+  - increase in mucus (sputum) production
+  - change in mucus color
+  - fever
+  - chills
+  - increased cough
+  - increased breathing problems
 
-The most common side effects with ADVAIR DISKUS include:
+Common side effects of ADVAIR DISKUS include:
 
-Asthma in adults and children:
+Asthma:
 
 - upper respiratory tract infection
 - throat irritation
@@ -203,7 +189,7 @@ Asthma in adults and children:
 - headache
 - nausea and vomiting
 
-In children with asthma, infections in the ear, nose, and throat are also common.
+In children with asthma, infections in the ear, nose, and throat are common.
 
 COPD:
 
@@ -220,7 +206,7 @@ These are not all the side effects with ADVAIR DISKUS.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088 or 1-800-332-1088.
 
 How do I store ADVAIR DISKUS?
 
@@ -232,7 +218,7 @@ General Information about ADVAIR DISKUS
 
 Medicines are sometimes prescribed for purposes not mentioned in a Medication Guide.
 Do not use ADVAIR DISKUS for a condition for which it was not prescribed.
-Do not give your ADVAIR DISKUS to other people, even if they have the same condition.
+Do not give your ADVAIR DISKUS to other people, even if they have the same condition that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about ADVAIR DISKUS.
@@ -327,17 +313,20 @@ Remember:
 - Always keep the DISKUS in a dry place.
 - Never take an extra dose, even if you did not taste or feel the medicine.
 
-October 2008 ADD:5MG
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-ADVAIR DISKUS, DISKHALER, DISKUS, FLOVENT, ROTADISK, SEREVENT, and VENTOLIN are registered trademarks of GlaxoSmithKline.
+ADVAIR DISKUS, DISKUS, FLOVENT, and SEREVENT are registered trademarks of GlaxoSmithKline.
 
-NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
+The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+June 2010
+
+ADD:6MG

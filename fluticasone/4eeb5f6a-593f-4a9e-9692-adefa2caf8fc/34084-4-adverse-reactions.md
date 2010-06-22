@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-Long-acting beta2-adrenergic agonists, such as salmeterol, may increase the risk of asthma-related death.
-Data from a large, placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [see Warnings and Precautions (5.1)].
-Salmeterol is a component of ADVAIR DISKUS.
-However, the data from this study are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other component of ADVAIR DISKUS, or other asthma-controller therapy modifies the risk of asthma-related death.
+LABAs, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
+Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [seeWarnings and Precautions (5.1)].
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -109,7 +109,7 @@ The mean age of the patients was 65, and the majority (82%) was Caucasian.
 The distribution of adverse events was similar to that seen in the 1-year trials with ADVAIR DISKUS 250/50.
 In addition, pneumonia was reported in a significantly increased number of patients treated with ADVAIR DISKUS 500/50 and fluticasone propionate 500 mcg (16% and 14%, respectively) compared with patients treated with salmeterol 50 mcg or placebo (11% and 9%, respectively).
 When adjusted for time on treatment, the rates of pneumonia were 84 and 88 events per 1,000 treatment-years in the groups treated with fluticasone propionate 500 mcg and with ADVAIR DISKUS 500/50, respectively, compared with 52 events per 1,000 treatment-years in the salmeterol and placebo groups.
-Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 vs. 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 vs. 8% with placebo).
+Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 versus 8% with placebo).
 [See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
 Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by patients with COPD treated with ADVAIR DISKUS compared with patients treated with placebo include the following: syncope; ear, nose, and throat infections; ear signs and symptoms; laryngitis; nasal congestion/blockage; nasal sinus disorders; pharyngitis/throat infection; hypothyroidism; dry eyes; eye infections; gastrointestinal signs and symptoms; oral lesions; abnormal liver function tests; bacterial infections; edema and swelling; viral infections.
@@ -125,7 +125,7 @@ These events have been chosen for inclusion due to either their seriousness, fre
 
 Cardiac Disorders: Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), ventricular tachycardia.
 
-Endocrine Disorders: Cushing syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism.
+Endocrine Disorders: Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism.
 
 Eye Disorders: Glaucoma.
 

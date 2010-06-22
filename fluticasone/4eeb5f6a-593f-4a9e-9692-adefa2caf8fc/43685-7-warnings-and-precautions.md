@@ -1,23 +1,32 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Asthma-Related Death With Long-Acting Beta2-Adrenergic Agonists
+## 5.1 Asthma-Related Death
 
-Long-acting beta2-adrenergic agonists, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, may increase the risk of asthma-related death.
-Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR DISKUS for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies.
+LABAs, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
+Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR DISKUS for patients not adequately controlled on a long-term asthma-control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Do not use ADVAIR DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-A large placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
-The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized, double-blind study that enrolled long-acting beta2-agonist–naive patients with asthma to assess the safety of salmeterol (SEREVENT Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
+A large, placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
+The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized double-blind study that enrolled LABA-naive patients with asthma to assess the safety of salmeterol (SEREVENT® Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
 A planned interim analysis was conducted when approximately half of the intended number of patients had been enrolled (N = 26,355), which led to premature termination of the study.
 The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events (see Table 1 and Figure 1).
-In the total population, a higher rate of asthma-related death occurred in patients treated with salmeterol than those treated with placebo (0.10% vs. 0.02%, relative risk 4.37 [95% CI: 1.25, 15.34]).
+In the total population, a higher rate of asthma-related death occurred in patients treated with salmeterol than those treated with placebo (0.10% versus 0.02%, relative risk: 4.37 [95% CI: 1.25, 15.34]).
 
 Post-hoc subpopulation analyses were performed.
-In Caucasians, asthma-related death occurred at a higher rate in patients treated with salmeterol than in patients treated with placebo (0.07% vs. 0.01%, relative risk 5.82 [95% CI: 0.70, 48.37]).
-In African Americans also, asthma-related death occurred at a higher rate in patients treated with salmeterol than those treated with placebo (0.31% vs. 0.04%, relative risk 7.26 [95% CI: 0.89, 58.94]).
+In Caucasians, asthma-related death occurred at a higher rate in patients treated with salmeterol than in patients treated with placebo (0.07% versus 0.01%, relative risk: 5.82 [95% CI: 0.70, 48.37]).
+In African Americans also, asthma-related death occurred at a higher rate in patients treated with salmeterol than those treated with placebo (0.31% versus 0.04%, relative risk: 7.26 [95% CI: 0.89, 58.94]).
 Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in patients treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American patients (see Table 1).
-Given the similar basic mechanisms of action of beta2-agonists, it is possible that the findings seen in the SMART study represent a class effect.
+Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART study are considered a class effect.
 
-The data from the SMART study are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in ADVAIR DISKUS, or other asthma-controller therapy modifies the risk of asthma-related death.
+Post-hoc analyses in pediatric patients aged 12 to 18 years were also performed.
+Pediatric patients accounted for approximately 12% of patients in each treatment arm.
+Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
+All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (<1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
+
+The data from the SMART study are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in ADVAIR DISKUS, or other long-term asthma control therapy mitigates the risk of asthma-related death.
 
 Table 1.
 Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART)
@@ -42,7 +51,7 @@ A 16-week clinical study performed in the United Kingdom, the Salmeterol Nationw
 In the SNS study, the rate of asthma-related death was numerically, though not statistically significantly, greater in patients with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
 
 The SNS and SMART studies enrolled patients with asthma.
-No studies have been conducted that were primarily designed to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
+No studies have been conducted that were primarily designed to determine whether the rate of death in patients with COPD is increased by LABAs.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -67,14 +76,14 @@ When beginning treatment with ADVAIR DISKUS, patients who have been taking oral 
 
 ## 5.3 Excessive Use of ADVAIR DISKUS and Use With Other Long-Acting Beta2-Agonists
 
-As with other inhaled drugs containing beta2-adrenergic agents, ADVAIR DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing long-acting beta2-agonists, as an overdose may result.
+As with other inhaled drugs containing beta2-adrenergic agents, ADVAIR DISKUS should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing LABAs, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Patients using ADVAIR DISKUS should not use an additional long-acting beta2-agonist (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma or COPD.
+Patients using ADVAIR DISKUS should not use an additional LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the treatment of asthma or COPD.
 
 ## 5.4 Local Effects
 
 In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in patients treated with ADVAIR DISKUS.
-When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with ADVAIR DISKUS continues, but at times therapy with ADVAIR DISKUS may need to be interrupted.
+When such an infection develops, it should be treated with appropriate local or systemic (e.g., oral antifungal) therapy while treatment with ADVAIR DISKUS continues, but at times therapy with ADVAIR DISKUS may need to be interrupted.
 Patients should rinse the mouth after inhalation of ADVAIR DISKUS.
 
 ## 5.5 Pneumonia
@@ -87,7 +96,7 @@ The incidence of pneumonia in the patients treated with ADVAIR DISKUS was higher
 [See Adverse Reactions (6.2), Use in Specific Populations (8.5).]
 
 In a 3-year study of 6,184 patients with COPD, there was a higher incidence of pneumonia reported in patients receiving ADVAIR DISKUS 500/50 compared with placebo (16% with ADVAIR DISKUS 500/50, 14% with fluticasone propionate 500 mcg, 11% with salmeterol 50 mcg, and 9% with placebo).
-Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 vs. 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 vs. 8% with placebo).
+Similar to what was seen in the 1-year studies with ADVAIR DISKUS 250/50, the incidence of pneumonia was higher in patients over 65 years of age (18% with ADVAIR DISKUS 500/50 versus 10% with placebo) compared with patients less than 65 years of age (14% with ADVAIR DISKUS 500/50 versus 8% with placebo).
 [See Adverse Reactions (6.2), Use in Specific Populations (8.5).]
 
 ## 5.6 Immunosuppression
@@ -139,13 +148,13 @@ If such effects occur, the dosage of ADVAIR DISKUS should be reduced slowly, con
 
 ## 5.9 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-The use of strong CYP 3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug interactions (7.1), Clinical Pharmacology (12.3)].
+The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ADVAIR DISKUS is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.10 Paradoxical Bronchospasm and Upper Airway Symptoms
 
 As with other inhaled medications, ADVAIR DISKUS can produce paradoxical bronchospasm, which may be life threatening.
-If paradoxical bronchospasm occurs following dosing with ADVAIR DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator, ADVAIR DISKUS should be discontinued immediately, and alternative therapy should be instituted.
-Upper airway symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving fluticasone propionate and salmeterol
+If paradoxical bronchospasm occurs following dosing with ADVAIR DISKUS, it should be treated immediately with an inhaled, short-acting bronchodilator; ADVAIR DISKUS should be discontinued immediately; and alternative therapy should be instituted.
+Upper airway symptoms of laryngeal spasm, irritation, or swelling, such as stridor and choking, have been reported in patients receiving fluticasone propionate and salmeterol.
 
 ## 5.11 Immediate Hypersensitivity Reactions
 
@@ -172,9 +181,9 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating ADVAIR DISKUS and periodically thereafter.
 If significant reductions in BMD are seen and ADVAIR DISKUS is still considered medically important for that patient’s COPD therapy, use of medication to treat or prevent osteoporosis should be strongly considered.
 
-2-Year Fluticasone Propionate Study:A 2-year study of 160 patients (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+2-Year Fluticasone Propionate Study: A 2-year study of 160 patients (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
-3-Year Bone Mineral Density Study:Effects of treatment with ADVAIR DISKUS 250/50 or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 patients with COPD (aged 43 to 87 years) in a 3-year double-blind study.
+3-Year Bone Mineral Density Study: Effects of treatment with ADVAIR DISKUS 250/50 or salmeterol 50 mcg on BMD at the L1-L4 lumbar spine and total hip were evaluated in 186 patients with COPD (aged 43 to 87 years) in a 3-year double-blind study.
 Of those enrolled, 108 patients (72 males and 36 females) were followed for the entire 3 years.
 BMD evaluations were conducted at baseline and at 6-month intervals.
 Conclusions cannot be drawn from this study regarding BMD decline in patients treated with ADVAIR DISKUS versus salmeterol due to the inconsistency of treatment differences across gender and between lumbar spine and total hip.
@@ -182,7 +191,7 @@ Conclusions cannot be drawn from this study regarding BMD decline in patients tr
 In this study there were 7 non-traumatic fractures reported in 5 patients treated with ADVAIR DISKUS and 1 non-traumatic fracture in 1 patient treated with salmeterol.
 None of the non-traumatic fractures occurred in the vertebrae, hip, or long bones.
 
-3-Year Survival Study:Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 patients (females and males aged 40 to 80 years) with COPD in the 3-year survival study.
+3-Year Survival Study: Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 patients (females and males aged 40 to 80 years) with COPD in the 3-year survival study.
 BMD evaluations were conducted at baseline and at 48, 108, and 158 weeks.
 Conclusions cannot be drawn from this study because of the large number of drop outs (>50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
 

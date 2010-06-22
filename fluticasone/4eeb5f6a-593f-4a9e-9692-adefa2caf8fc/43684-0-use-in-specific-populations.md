@@ -9,27 +9,27 @@ From the reproduction toxicity studies in mice and rats, no evidence of enhanced
 
 ADVAIR DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-ADVAIR DISKUS: In the mouse reproduction assay, fluticasone propionate by the subcutaneous route at a dose approximately 3/5 the maximum recommended human daily inhalation dose (MRHD) on a mg/m2 basis combined with oral salmeterol at a dose approximately 410 times the MRHD on a mg/m2 basis produced cleft palate, fetal death, increased implantation loss, and delayed ossification.
+ADVAIR DISKUS: In the mouse reproduction assay, fluticasone propionate by the subcutaneous route at a dose approximately 3/5 the maximum recommended human daily inhalation dose (MRHD) on an mg/m2 basis combined with oral salmeterol at a dose approximately 410 times the MRHD on an mg/m2 basis produced cleft palate, fetal death, increased implantation loss, and delayed ossification.
 These observations are characteristic of glucocorticoids.
-No developmental toxicity was observed at combination doses of fluticasone propionate subcutaneously up to approximately 1/6 the MRHD on a mg/m2 basis and oral doses of salmeterol up to approximately 55 times the MRHD on a mg/m2 basis.
-In rats, combining fluticasone propionate subcutaneously at a dose equivalent to the MRHD on a mg/m2 basis and an oral dose of salmeterol at approximately 810 times the MRHD on a mg/m2 basis produced decreased fetal weight, umbilical hernia, delayed ossification, and changes in the occipital bone.
-No such effects were seen when combining fluticasone propionate subcutaneously at a dose less than the MRHD on a mg/m2 basis and an oral dose of salmeterol at approximately 80 times the MRHD on a mg/m2 basis.
+No developmental toxicity was observed at combination doses of fluticasone propionate subcutaneously up to approximately 1/6 the MRHD on an mg/m2 basis and oral doses of salmeterol up to approximately 55 times the MRHD on an mg/m2 basis.
+In rats, combining fluticasone propionate subcutaneously at a dose equivalent to the MRHD on an mg/m2 basis and an oral dose of salmeterol at approximately 810 times the MRHD on an mg/m2 basis produced decreased fetal weight, umbilical hernia, delayed ossification, and changes in the occipital bone.
+No such effects were seen when combining fluticasone propionate subcutaneously at a dose less than the MRHD on an mg/m2 basis and an oral dose of salmeterol at approximately 80 times the MRHD on an mg/m2 basis.
 
-Fluticasone Propionate: Subcutaneous studies in the mouse at a dose less than the MRHD on a mg/m2 basis and in the rat at a dose equivalent to the MRHD on a mg/m2 basis revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
+Fluticasone Propionate: Subcutaneous studies in mice at a dose less than the MRHD on an mg/m2 basis and in rats at a dose equivalent to the MRHD on an mg/m2 basis revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
 
-In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose less than the MRHD on a mg/m2 basis.
-However, no teratogenic effects were reported at oral doses up to approximately 5 times the MRHD on a mg/m2 basis.
+In rabbits, fetal weight reduction and cleft palate were observed at a subcutaneous dose less than the MRHD on an mg/m2 basis.
+However, no teratogenic effects were reported at oral doses up to approximately 5 times the MRHD on an mg/m2 basis.
 No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
 
-Salmeterol: No teratogenic effects occurred in rats at oral doses approximately 160 times the MRHD on a mg/m2 basis.
-In Dutch rabbits administered oral doses approximately 50 times the MRHD based on comparison of the AUCs, salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
+Salmeterol: No teratogenic effects occurred in rats at oral doses approximately 160 times the MRHD on an mg/m2 basis.
+In pregnant Dutch rabbits administered oral doses approximately 50 times the MRHD based on comparison of the AUCs, salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No such effects occurred at an oral dose approximately 20 times the MRHD based on comparison of the AUCs.
 
-New Zealand White rabbits were less sensitive since only delayed ossification of the frontal bones was seen at an oral dose approximately 1,600 times the MRHD on a mg/m2 basis.
+New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at an oral dose approximately 1,600 times the MRHD on an mg/m2 basis.
 Extensive use of other beta-agonists has provided no evidence that these class effects in animals are relevant to their use in humans.
 
 ## 8.2 Labor and Delivery
