@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020655"
+  ],
+  "inn": "estradiol",
+  "labeler": "Watson Pharma, Inc.",
+  "package_ndcs": [
+    "52544-471-08",
+    "52544-472-08",
+    "52544-473-08",
+    "52544-884-08"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "estradiol transdermal system",
+      "name": "Alora"
+    }
+  ],
+  "setid": "a0d4f0b8-5dcc-4ffe-9590-0203e869622f",
+  "source": "dailymed"
+}
