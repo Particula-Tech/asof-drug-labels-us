@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018609"
+  ],
+  "inn": "heparin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0431-03",
+    "0338-0433-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "heparin sodium",
+      "name": "Heparin Sodium and Sodium Chloride"
+    }
+  ],
+  "setid": "0d929726-76c3-48fc-b4e7-fd06409f9fb3",
+  "source": "dailymed"
+}
