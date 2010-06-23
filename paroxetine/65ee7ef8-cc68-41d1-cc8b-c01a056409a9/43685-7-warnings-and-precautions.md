@@ -178,6 +178,12 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 See also PRECAUTIONS—Pediatric Use, for adverse events reported upon discontinuation of treatment with PAXIL in pediatric patients.
 
+### Tamoxifen
+
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see Drug Interactions).
+This risk may increase with longer duration of coadministration.
+When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
+
 ### Akathisia
 
 The use of paroxetine or other SSRIs has been associated with the development of akathisia, which is characterized by an inner sense of restlessness and psychomotor agitation such as an inability to sit or stand still usually associated with subjective distress.
@@ -353,12 +359,12 @@ Dosage adjustment of atomoxetine may be necessary and it is recommended that ato
 
 Concomitant use of PAXIL with other drugs metabolized by cytochrome CYP2D6 has not been formally studied but may require lower doses than usually prescribed for either PAXIL or the other drug.
 
-Therefore, coadministration of PAXIL with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, tamoxifen, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
+Therefore, coadministration of PAXIL with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
 
 However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be coadministered (see CONTRAINDICATIONS and WARNINGS).
 
 Tamoxifen is a pro-drug requiring metabolic activation by CYP2D6.
-Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite and hence reduced efficacy of tamoxifen.
+Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite (endoxifen) and hence reduced efficacy of tamoxifen (see PRECAUTIONS).
 
 At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS—Tricyclic Antidepressants).
 
