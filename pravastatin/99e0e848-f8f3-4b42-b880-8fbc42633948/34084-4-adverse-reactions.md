@@ -14,11 +14,11 @@ Table 6: Adverse Events in > 2 Percent of Patients Treated with Pravastatin 10 t
 
 |  | All Events |  | Events Attributed to Study Drug |  |
 | --- | --- | --- | --- | --- |
-| Body System/Event | Pravastatin (N = 900) % of patients | Placebo (N = 411) % of patients | Pravastatin (N = 900) % of patients | Placebo (N = 411) % of patients |
+| Body System/Event | Pravastatin (N = 900) % of patients | Placebo(N = 411)% of patients | Pravastatin(N = 900)% of patients | Placebo(N = 411)% of patients |
 | Cardiovascular |  |  |  |  |
 | Cardiac Chest Pain | 4.0 | 3.4 | 0.1 | 0.0 |
 | Dermatologic |  |  |  |  |
-| Rash | 4.0* | 1.1 | 1.3 | 0.9 |
+| Rash | 4.0Statistically significantly different from placebo. | 1.1 | 1.3 | 0.9 |
 | Gastrointestinal |  |  |  |  |
 | Nausea/Vomiting | 7.3 | 7.1 | 2.9 | 3.4 |
 | Diarrhea | 6.2 | 5.6 | 2.0 | 1.9 |
@@ -29,12 +29,12 @@ Table 6: Adverse Events in > 2 Percent of Patients Treated with Pravastatin 10 t
 | General |  |  |  |  |
 | Fatigue | 3.8 | 3.4 | 1.9 | 1.0 |
 | Chest Pain | 3.7 | 1.9 | 0.3 | 0.2 |
-| Influenza | 2.4* | 0.7 | 0.0 | 0.0 |
+| Influenza | 2.4 | 0.7 | 0.0 | 0.0 |
 | Musculoskeletal |  |  |  |  |
 | Localized Pain | 10.0 | 9.0 | 1.4 | 1.5 |
 | Myalgia | 2.7 | 1.0 | 0.6 | 0.0 |
 | Nervous System |  |  |  |  |
-| Headache | 6.2 | 3.9 | 1.7* | 0.2 |
+| Headache | 6.2 | 3.9 | 1.7 | 0.2 |
 | Dizziness | 3.3 | 3.2 | 1.0 | 0.5 |
 | Renal/Genitourinary |  |  |  |  |
 | Urinary Abnormality | 2.4 | 2.9 | 0.7 | 1.2 |
@@ -42,7 +42,6 @@ Table 6: Adverse Events in > 2 Percent of Patients Treated with Pravastatin 10 t
 | Common Cold | 7.0 | 6.3 | 0.0 | 0.0 |
 | Rhinitis | 4.0 | 4.1 | 0.1 | 0.0 |
 | Cough | 2.6 | 1.7 | 0.1 | 0.0 |
-| * Statistically significantly different from placebo. |  |  |  |  |
 
 The safety and tolerability of pravastatin at a dose of 80 mg in two controlled trials with a mean exposure of 8.6 months was similar to that of pravastatin at lower doses except that 4 out of 464 patients taking 80 mg of pravastatin had a single elevation of CK > 10X ULN compared to 0 out of 115 patients taking 40 mg of pravastatin.
 

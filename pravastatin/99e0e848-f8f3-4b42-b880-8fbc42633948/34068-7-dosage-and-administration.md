@@ -32,4 +32,4 @@ Most patients treated with this combination received a maximum pravastatin sodiu
 
 The lipid-lowering effects of pravastatin on Total- and LDL-cholesterol are enhanced when combined with a bile-acid-binding resin.
 When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin should be given either 1 hour or more before or at least 4 hours following the resin.
-(See also ADVERSE REACTIONS, Concomitant Therapy.)
+(See also ADVERSE REACTIONS, ConcomitantTherapy.)

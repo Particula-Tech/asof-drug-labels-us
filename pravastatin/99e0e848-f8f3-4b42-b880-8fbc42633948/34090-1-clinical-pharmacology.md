@@ -113,15 +113,14 @@ Table 1: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Once
 
 | Dose | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
-| Mean Percent Changes From Baseline After 8 Weeks* |  |  |  |  |
+| Mean Percent Changes From Baseline After 8 Weeksa multicenter, double-blind, placebo-controlled study |  |  |  |  |
 | Placebo (N = 36) | -3% | -4% | +1% | -4% |
 | 10 mg (N = 18) | -16% | -22% | +7% | -15% |
 | 20 mg (N = 19) | -24% | -32% | +2% | -11% |
 | 40 mg (N = 18) | -25% | -34% | +12% | -24% |
-| Mean Percent Changes From Baseline After 6 Weeks** |  |  |  |  |
+| Mean Percent Changes From Baseline After 6 Weekspooled analysis of 2 multicenter, double-blind, placebo-controlled studies |  |  |  |  |
 | Placebo (N = 162) | 0% | -1% | -1% | +1% |
 | 80 mg (N = 277) | -27% | -37% | +3% | -19% |
-| * a multicenter, double-blind, placebo-controlled study** pooled analysis of 2 multicenter, double-blind, placebo-controlled studies |  |  |  |  |
 
 In another clinical trial, patients treated with pravastatin in combination with cholestyramine (70% of patients were taking cholestyramine 20 or 24 g per day) had reductions equal to or greater than 50% in LDL-C.
 Furthermore, pravastatin attenuated cholestyramine-induced increases in TG levels (which are themselves of uncertain clinical significance).
@@ -153,8 +152,8 @@ Table 3: Patients with Fredrickson Type III Dysbetalipoproteinemia: Median (min,
 | Study 1 |  |  |
 | Total-C | 386.5 (245.0, 672.0) | -32.7 (-58.5, 4.6) |
 | Triglycerides | 443.0 (275.0, 1299.0) | -23.7 (-68.5, 44.7) |
-| VLDL-C* | 206.5 (110.0, 379.0) | -43.8 (-73.1, -14.3) |
-| LDL-C* | 117.5 (80.0, 170.0) | -40.8 (-63.7, 4.6) |
+| VLDL-CN = 14 | 206.5 (110.0, 379.0) | -43.8 (-73.1, -14.3) |
+| LDL-C | 117.5 (80.0, 170.0) | -40.8 (-63.7, 4.6) |
 | HDL-C | 30.0 (18.0, 88.0) | 6.4 (-45.0, 105.6) |
 | Non-HDL-C | 344.5 (215.0, 646.0) | -36.7 (-66.3, 5.8) |
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 26) |
@@ -165,7 +164,6 @@ Table 3: Patients with Fredrickson Type III Dysbetalipoproteinemia: Median (min,
 | LDL-C | 128.6 (63.8, 177.9) | -30.3 (-52.2, 13.5) |
 | HDL-C | 38.7 (27.1, 58.0) | 5.0 (-17.7, 66.7) |
 | Non-HDL-C | 295.8 (195.3, 421.5) | -35.5 (-81.0, -13.5) |
-| * N = 14 |  |  |
 
 ## Pediatric Clinical Study
 
@@ -177,16 +175,15 @@ The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (ra
 Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and apolipoprotein B in both children and adolescents (see Table 4).
 The effect of pravastatin treatment in the two age groups was similar.
 
-Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)*
+Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
 
 |  | Pravastatin 20 mg (Aged 8 to 13 years)N = 65 | Pravastatin 40 mg (Aged 14 to 18 years) N = 41 | Combined Pravastatin (Aged 8 to 18 years)N = 106 | Combined Placebo (Aged 8 to 18 years)N = 108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
 | --- | --- | --- | --- | --- | --- |
-| LDL-C | -26.04** | -21.07** | -24.07** | -1.52 | (-26.74, -18.86) |
-| TC | -20.75** | -13.08** | -17.72** | -0.65 | (-20.40, -13.83) |
+| LDL-C | -26.04Significant at p ≤ 0.0001 when compared with placebo. | -21.07 | -24.07 | -1.52 | (-26.74, -18.86) |
+| TC | -20.75 | -13.08 | -17.72 | -0.65 | (-20.40, -13.83) |
 | HDL-C | 1.04 | 13.71 | 5.97 | 3.13 | (-1.71, 7.43) |
 | TG | -9.58 | -0.30 | -5.88 | -3.27 | (-13.95, 10.01) |
-| ApoB (N) | -23.16** (61) | -18.08** (39) | -21.11** (100) | -0.97 (106) | (-24.29, -16.18) |
-| * The above least-squares mean values were calculated based on log-transformed lipid values.** Significant at p ≤ 0.0001 when compared with placebo. |  |  |  |  |  |
+| ApoB (N) | -23.16 (61) | -18.08 (39) | -21.11 (100) | -0.97 (106) | (-24.29, -16.18) |
 
 The mean achieved LDL-C was 186 mg/dL (range: 67 to 363 mg/dL) in the pravastatin group compared to 236 mg/dL (range: 105 to 438 mg/dL) in the placebo group.
 

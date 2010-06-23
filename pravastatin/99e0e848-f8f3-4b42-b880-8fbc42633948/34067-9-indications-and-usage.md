@@ -46,11 +46,10 @@ Table 5: NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Li
 
 | Risk Category | LDL Goal (mg/dL) | LDL Level at Which to Initiate Therapeutic Lifestyle Changes (mg/dL) | LDL Level at Which to Consider Drug Therapy (mg/dL) |
 | --- | --- | --- | --- |
-| CHDa or CHD risk equivalents (10 year risk > 20%) | < 100 | ≥ 100 | ≥ 130 (100 to 129: drug optional)b |
+| CHDCHD, coronary heart disease. or CHD risk equivalents (10 year risk > 20%) | < 100 | ≥ 100 | ≥ 130 (100 to 129: drug optional)Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory. |
 | 2+ Risk factors (10 year risk ≤ 20%) | < 130 | ≥ 130 | 10 year risk 10% to 20%: ≥ 130 |
 | 10 year risk < 10%: ≥ 160 |  |  |  |
-| 0 to 1 Risk factorc | < 160 | ≥ 160 | ≥ 190 (160 to 189: LDL-lowering drug optional) |
-| a CHD, coronary heart disease.b Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of < 100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory.c Almost all people with 0 to 1 risk factor have 10 year risk < 10%; thus, 10 year risk assessment in people with 0 to 1 risk factor is not necessary. |  |  |  |
+| 0 to 1 Risk factorAlmost all people with 0 to 1 risk factor have 10 year risk < 10%; thus, 10 year risk assessment in people with 0 to 1 risk factor is not necessary. | < 160 | ≥ 160 | ≥ 190 (160 to 189: LDL-lowering drug optional) |
 
 After the LDL-C goal has been achieved, if the TG is still ≥ 200 mg/dL, non-HDL-C (Total-C minus HDL-C) becomes a secondary target of therapy.
 Non-HDL-C goals are set 30 mg/dL higher than LDL-C goals for each risk category.

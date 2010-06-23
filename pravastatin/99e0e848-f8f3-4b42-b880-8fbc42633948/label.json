@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077793"
+  ],
   "inn": "pravastatin",
-  "labeler": "Teva Pharmaceuticals USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-7270-10",
     "0093-7270-98"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pravastatin sodium",
+      "name": "Pravastatin Sodium"
+    }
+  ],
   "setid": "99e0e848-f8f3-4b42-b880-8fbc42633948",
   "source": "dailymed"
 }
