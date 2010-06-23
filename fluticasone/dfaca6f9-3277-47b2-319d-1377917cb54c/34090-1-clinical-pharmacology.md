@@ -14,12 +14,12 @@ In vitro assays using human lung cytosol preparations have established fluticaso
 Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
 
 Inflammation is an important component in the pathogenesis of asthma.
-Corticosteroids have been shown to inhibit multiple cell types (e.g., mast cells, eosinophils, basophils, lymphocytes, macrophages, and neutrophils) and mediator production or secretion (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in the asthmatic response.
+Corticosteroids have been shown to inhibit multiple cell types (e.g., mast cells, eosinophils, basophils, lymphocytes, macrophages, neutrophils) and mediator production or secretion (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in the asthmatic response.
 These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
 
 ### Salmeterol Xinafoate
 
-Salmeterol is a long-acting beta2-adrenergic agonist.
+Salmeterol is a long-acting beta2-adrenergic agonist (LABA).
 In vitro studies and in vivo pharmacologic studies demonstrate that salmeterol is selective for beta2-adrenoceptors compared with isoproterenol, which has approximately equal agonist activity on beta1- and beta2-adrenoceptors.
 In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
 Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
@@ -29,7 +29,7 @@ The pharmacologic effects of beta2-adrenoceptor agonist drugs, including salmete
 Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
 In vitro tests show that salmeterol is a potent and long-lasting inhibitor of the release of mast cell mediators, such as histamine, leukotrienes, and prostaglandin D2, from human lung.
-Salmeterol inhibits histamine-induced plasma protein extravasation and inhibits platelet activating factor-induced eosinophil accumulation in the lungs of guinea pigs when administered by the inhaled route.
+Salmeterol inhibits histamine-induced plasma protein extravasation and inhibits platelet-activating factor–induced eosinophil accumulation in the lungs of guinea pigs when administered by the inhaled route.
 In humans, single doses of salmeterol administered via inhalation aerosol attenuate allergen-induced bronchial hyper-responsiveness.
 
 ## Preclinical
@@ -53,19 +53,19 @@ Peak plasma concentrations of fluticasone propionate (N = 20 subjects) following
 Peak plasma salmeterol concentrations ranged from 220 to 470 pg/mL.
 
 Systemic exposure (N = 20 subjects) from 4 inhalations of ADVAIR HFA 230/21 was 53% of the value from the individual inhaler for fluticasone propionate CFC inhalation aerosol and 42% of the value from the individual inhaler for salmeterol CFC inhalation aerosol.
-Peak plasma concentrations from ADVAIR HFA for fluticasone propionate (86 vs. 120 pg/mL) and salmeterol (170 vs. 510 pg/mL) were significantly lower compared with individual inhalers.
+Peak plasma concentrations from ADVAIR HFA for fluticasone propionate (86 versus 120 pg/mL) and salmeterol (170 versus 510 pg/mL) were significantly lower compared with individual inhalers.
 
-In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR HFA 230/21 (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500/50 (1,000/100 mcg) were similar between the 2 inhalers (i.e., 799 vs. 832 pg•h/mL, respectively) but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•h/mL).
+In 15 healthy subjects, systemic exposure to fluticasone propionate from 4 inhalations of ADVAIR HFA 230/21 (920/84 mcg) and 2 inhalations of ADVAIR DISKUS 500/50 (1,000/100 mcg) were similar between the 2 inhalers (i.e., 799versus 832 pg•hr/mL, respectively) but approximately half the systemic exposure from 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg (880 mcg, AUC = 1,543 pg•hr/mL).
 Similar results were observed for peak fluticasone propionate plasma concentrations (186 and 182 pg/mL from ADVAIR HFA and ADVAIR DISKUS, respectively, and 307 pg/mL from the fluticasone propionate CFC inhalation aerosol).
-Systemic exposure to salmeterol was higher (317 vs. 169 pg•h/mL) and peak salmeterol concentrations were lower (196 vs. 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
+Systemic exposure to salmeterol was higher (317 versus 169 pg•hr/mL) and peak salmeterol concentrations were lower (196 versus 223 pg/mL) following ADVAIR HFA compared with ADVAIR DISKUS, although pharmacodynamic results were comparable.
 
 Absolute bioavailability of fluticasone propionate from ADVAIR HFA in 15 healthy subjects was 5.3%.
 Terminal half-life estimates of fluticasone propionate for ADVAIR HFA, ADVAIR DISKUS, and fluticasone propionate CFC inhalation aerosol were similar and averaged 5.6 hours.
 No terminal half-life estimates were calculated for salmeterol.
 
 A double-blind crossover study was conducted in 13 adult patients with asthma to evaluate the steady-state pharmacokinetics of fluticasone propionate and salmeterol following administration of 2 inhalations of ADVAIR HFA 115/21 twice daily or 1 inhalation of ADVAIR DISKUS 250/50 twice daily for 4 weeks.
-Systemic exposure (AUC) to fluticasone propionate was similar for ADVAIR HFA (274 pg•h/mL [95% CI 150, 502]) and ADVAIR DISKUS (338 pg•h/mL [95% CI 197, 581]).
-Systemic exposure to salmeterol was also similar for ADVAIR HFA (53 pg•h/mL [95% CI 17, 164]) and ADVAIR DISKUS (70 pg•h/mL [95% CI 19, 254]).
+Systemic exposure (AUC) to fluticasone propionate was similar for ADVAIR HFA (274 pg•hr/mL [95% CI: 150, 502]) and ADVAIR DISKUS (338 pg•hr/mL [95% CI: 197, 581]).
+Systemic exposure to salmeterol was also similar for ADVAIR HFA (53 pg•hr/mL [95% CI: 17, 164]) and ADVAIR DISKUS (70 pg•hr/mL [95% CI: 19, 254]).
 
 #### Special Populations
 
@@ -99,7 +99,7 @@ Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not
 #### Metabolism
 
 The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
-The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the cytochrome P450 3A4 pathway.
+The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the cytochrome P450 3A4 (CYP34A) pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
@@ -116,14 +116,14 @@ In 19 male and 33 female patients with asthma, systemic exposure was similar fro
 
 #### Drug Interactions
 
-Fluticasone propionate is a substrate of cytochrome P450 3A4.
-Coadministration of fluticasone propionate and the strong cytochrome P450 3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
+Fluticasone propionate is a substrate of CYP3A4.
+Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range, 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•hr/mL (range, 4.2 to 18.8 pg•hr/mL).
-Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range, 110 to 648 pg/mL) and 3,102.6 pg•hr/mL (range, 1,207.1 to 5,662.0 pg•hr/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•hr/mL (range: 4.2 to 18.8 pg•hr/mL).
+Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•hr/mL (range: 1,207.1 to 5,662.0 pg•hr/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in systemic fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
-Caution should be exercised when other strong cytochrome P450 3A4 inhibitors are coadministered with fluticasone propionate.
+Caution should be exercised when other strong CYP3A4 inhibitors are coadministered with fluticasone propionate.
 In a drug interaction study, coadministration of orally inhaled fluticasone propionate (1,000 mcg) and ketoconazole (200 mg once daily) resulted in increased systemic fluticasone propionate exposure and reduced plasma cortisol AUC, but had no effect on urinary excretion of cortisol.
 
 In another multiple-dose drug interaction study, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
@@ -147,7 +147,7 @@ The percentage of salmeterol bound to human plasma proteins averages 96% in vitr
 Salmeterol base is extensively metabolized by hydroxylation, with subsequent elimination predominately in the feces.
 No significant amount of unchanged salmeterol base was detected in either urine or feces.
 
-An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by cytochrome P450 3A4 (CYP3A4).
+An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α-hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α-hydroxysalmeterol in vitro.
 
 #### Elimination
@@ -158,18 +158,22 @@ The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
 
-Drug Interactions: Salmeterol is a substrate of CYP3A4.
+#### Drug Interactions
 
-Inhibitors of Cytochrome P450 3A4
+Salmeterol is a substrate of CYP3A4.
 
-Ketoconazole: In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
+##### Inhibitors of Cytochrome P450 3A4: Ketoconazole
+
+In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
 Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
 Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended.
 
-Erythromycin: In a repeat-dose study in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4; 90% CI: 0.96, 2.03; p = 0.12), a 3.6-beat/min increase in heart rate (95% CI: 0.19, 7.03; p<0.04), a 5.8-msec increase in QTc interval (95% CI: -6.14, 17.77; p = 0.34), and no change in plasma potassium.
+##### Erythromycin
+
+In a repeat-dose study in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4; 90% CI: 0.96, 2.03; p = 0.12), a 3.6-beat/min increase in heart rate (95% CI: 0.19, 7.03; p<0.04), a 5.8-msec increase in QTc interval (95% CI: -6.14, 17.77; p = 0.34), and no change in plasma potassium.
 
 ## Pharmacodynamics
 

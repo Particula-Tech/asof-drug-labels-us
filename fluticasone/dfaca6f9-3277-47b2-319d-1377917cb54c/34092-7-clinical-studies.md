@@ -1,7 +1,7 @@
 # CLINICAL TRIALS
 
-ADVAIR HFA has been studied in patients with asthma 12 years of age and older.
-ADVAIR HFA has not been studied in patients under 12 years of age or in patients with chronic obstructive pulmonary disease (COPD).
+ADVAIR HFA has been studied in patients with asthma aged 12 years and older.
+ADVAIR HFA has not been studied in patients less than 12 years of age or in patients with chronic obstructive pulmonary disease (COPD).
 In clinical trials comparing ADVAIR HFA Inhalation Aerosol with the individual components, improvements in most efficacy endpoints were greater with ADVAIR HFA than with the use of either fluticasone propionate or salmeterol alone.
 In addition, clinical trials showed comparable results between ADVAIR HFA and ADVAIR DISKUS.
 
@@ -12,7 +12,7 @@ All metered-dose inhaler treatments were inhalation aerosols given as 2 inhalati
 
 ### Study 1: Clinical Trial With ADVAIR HFA 45/21 Inhalation Aerosol
 
-This placebo-controlled, 12-week, US study compared ADVAIR HFA 45/21 with fluticasone propionate CFC inhalation aerosol 44 mcg or salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily.
+This placebo-controlled 12-week US study compared ADVAIR HFA 45/21 with fluticasone propionate CFC inhalation aerosol 44 mcg or salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily.
 The primary efficacy endpoints were predose FEV1 and withdrawals due to worsening asthma.
 This study was stratified according to baseline asthma therapy: patients using beta-agonists (albuterol alone [n = 142], salmeterol [n = 84], or inhaled corticosteroids [n = 134] [daily doses of beclomethasone dipropionate 252 to 336 mcg; budesonide 400 to 600 mcg; flunisolide 1,000 mcg; fluticasone propionate inhalation aerosol 176 mcg; fluticasone propionate inhalation powder 200 mcg; or triamcinolone acetonide 600 to 800 mcg]).
 Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 45/21, 2.29 L; fluticasone propionate 44 mcg, 2.20 L; salmeterol, 2.33 L; and placebo, 2.27 L.
@@ -39,7 +39,7 @@ The effect of ADVAIR HFA 45/21 on the secondary efficacy parameters, including m
 Table 2.
 Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-Agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Study 1)
 
-| Efficacy Variable* | ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
+| Efficacy Variablea | ADVAIR HFA 45/21(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol 44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
 | --- | --- | --- | --- | --- |
 | AM PEF (L/min) |  |  |  |  |
 | BaselineChange from baseline | 37758 | 36927 | 38125 | 3821 |
@@ -50,14 +50,14 @@ Secondary Efficacy Variable Results for Patients Previously Treated With Beta2-A
 | Asthma symptom score/day |  |  |  |  |
 | BaselineChange from baseline | 1.8-1.0 | 1.6-0.3 | 1.7-0.4 | 1.70 |
 
-*Change from baseline = change from baseline at Endpoint (last available data).
+aChange from baseline = change from baseline at Endpoint (last available data).
 
 The subjective impact of asthma on patients’ perceptions of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
-Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI 0.85, 1.44] compared with placebo).
+Patients receiving ADVAIR HFA 45/21 had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI: 0.85, 1.44] compared with placebo).
 
 ### Study 2: Clinical Trial With ADVAIR HFA 45/21 Inhalation Aerosol
 
-This active-controlled, 12-week, US study compared ADVAIR HFA 45/21 with fluticasone propionate CFC inhalation aerosol 44 mcg and salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily, in 283 patients using as-needed albuterol alone.
+This active-controlled 12-week US study compared ADVAIR HFA 45/21 with fluticasone propionate CFC inhalation aerosol 44 mcg and salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily, in 283 patients using as-needed albuterol alone.
 The primary efficacy endpoint was predose FEV1.
 Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 45/21, 2.37 L; fluticasone propionate 44 mcg, 2.31 L; and salmeterol, 2.34 L.
 
@@ -66,7 +66,7 @@ Patients receiving ADVAIR HFA 45/21 had significantly greater improvements in FE
 
 ### Study 3: Clinical Trial With ADVAIR HFA 115/21 Inhalation Aerosol
 
-This placebo-controlled, 12-week, US study compared ADVAIR HFA 115/21 with fluticasone propionate CFC inhalation aerosol 110 mcg or salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily, in 365 patients using inhaled corticosteroids (daily doses of beclomethasone dipropionate 378 to 840 mcg; budesonide 800 to 1,200 mcg; flunisolide 1,250 to 2,000 mcg; fluticasone propionate inhalation aerosol 440 to 660 mcg; fluticasone propionate inhalation powder 400 to 600 mcg; or triamcinolone acetonide 900 to 1,600 mcg).
+This placebo-controlled 12-week US study compared ADVAIR HFA 115/21 with fluticasone propionate CFC inhalation aerosol 110 mcg or salmeterol CFC inhalation aerosol 21 mcg, each given as 2 inhalations twice daily, in 365 patients using inhaled corticosteroids (daily doses of beclomethasone dipropionate 378 to 840 mcg; budesonide 800 to 1,200 mcg; flunisolide 1,250 to 2,000 mcg; fluticasone propionate inhalation aerosol 440 to 660 mcg; fluticasone propionate inhalation powder 400 to 600 mcg; or triamcinolone acetonide 900 to 1,600 mcg).
 The primary efficacy endpoints were predose FEV1 and withdrawals due to worsening asthma.
 Baseline FEV1 measurements were similar across treatments: ADVAIR HFA 115/21, 2.23 L; fluticasone propionate 110 mcg, 2.18 L; salmeterol, 2.22 L; and placebo, 2.17 L.
 
@@ -77,7 +77,7 @@ Fewer patients receiving ADVAIR HFA 115/21 were withdrawn due to worsening asthm
 
 ### Study 4: Clinical Trial With ADVAIR HFA 230/21 Inhalation Aerosol
 
-This active-controlled, 12-week, non-US study compared ADVAIR HFA 230/21 with fluticasone propionate CFC inhalation aerosol 220 mcg, each given as 2 inhalations twice daily, and with ADVAIR DISKUS 500/50 given as 1 inhalation twice daily in 509 patients using inhaled corticosteroids (daily doses of beclomethasone dipropionate CFC inhalation aerosol 1,500 to 2,000 mcg; budesonide 1,500 to 2,000 mcg; flunisolide 1,500 to 2,000 mcg; fluticasone propionate inhalation aerosol 660 to 880 mcg; or fluticasone propionate inhalation powder 750 to 1,000 mcg).
+This active-controlled 12-week non-US study compared ADVAIR HFA 230/21 with fluticasone propionate CFC inhalation aerosol 220 mcg, each given as 2 inhalations twice daily, and with ADVAIR DISKUS 500/50 given as 1 inhalation twice daily in 509 patients using inhaled corticosteroids (daily doses of beclomethasone dipropionate CFC inhalation aerosol 1,500 to 2,000 mcg; budesonide 1,500 to 2,000 mcg; flunisolide 1,500 to 2,000 mcg; fluticasone propionate inhalation aerosol 660 to 880 mcg; or fluticasone propionate inhalation powder 750 to 1,000 mcg).
 The primary efficacy endpoint was morning PEF.
 
 Baseline morning PEF measurements were similar across treatments: ADVAIR HFA 230/21, 327 L/min; ADVAIR DISKUS 500/50, 341 L/min; and fluticasone propionate 220 mcg, 345 L/min.
@@ -88,7 +88,7 @@ Improvements in morning PEF observed with ADVAIR HFA 230/21 were similar to impr
 
 ### Clinical Trial With ADVAIR HFA 45/21, 115/21, and 230/21 Inhalation Aerosol
 
-This 1-year, open-label, non-US study evaluated the safety of ADVAIR HFA 45/21, 115/21, and 230/21 given as 2 inhalations twice daily in 325 patients.
+This 1-year open-label non-US study evaluated the safety of ADVAIR HFA 45/21, 115/21, and 230/21 given as 2 inhalations twice daily in 325 patients.
 This study was stratified into 3 groups according to baseline asthma therapy: patients using short-acting beta2-agonists alone (n = 42), salmeterol (n = 91), or inhaled corticosteroids (n = 277).
 Patients treated with short-acting beta2-agonists alone, salmeterol, or low doses of inhaled corticosteroids with or without concurrent salmeterol received ADVAIR HFA 45/21.
 Patients treated with moderate doses of inhaled corticosteroids with or without concurrent salmeterol received ADVAIR HFA 115/21.

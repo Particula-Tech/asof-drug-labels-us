@@ -21,19 +21,11 @@ Net Wt.
 
 *Contents: Each canister contains a microcrystalline suspension of
 
-fluticasone proprionate and salmeterol xinafoate in propellant HFA-134a
+fluticasone propionate and salmeterol xinafoate in propellant HFA-134a(1,1,1,2,-tetrafluoroethane).
 
-(1,1,1,2,-tetrafluoroethane).
+Each actuation delivers 45 mcg of fluticasone propionate and 30.45 mcg of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from the mouthpiece.
 
-Each actuations delivers 45 mcg of fluticasone propionate and 30.45 mcg
-
-of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from
-
-the mouthpiece.
-
-IMPORTANT: Read accompanying Medication Guide leaflet carefully
-
-for further information.
+IMPORTANT: Read accompanying Medication Guide leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
@@ -65,21 +57,11 @@ RX only
 
 FOR ORAL INHALATION ONLY
 
-*Contents: Each canister contains a microcrystalline suspension of
+*Contents: Each canister contains a microcrystalline suspension of fluticasone propionate and salmeterol xinafoate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 
-fluticasone proprionate and salmeterol xinafoate in propellant HFA-134a
+Each actuation delivers 115 mcg of fluticasone propionate and 30.45 mcg of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from the mouthpiece.
 
-(1,1,1,2-tetrafluoroethane).
-
-Each actuations delivers 115 mcg of fluticasone propionate and 30.45 mcg
-
-of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from
-
-the mouthpiece.
-
-IMPORTANT: Read accompanying Medication Guide leaflet carefully
-
-for further information.
+IMPORTANT: Read accompanying Medication Guide leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
@@ -111,21 +93,11 @@ RX only
 
 FOR ORAL INHALATION ONLY
 
-*Contents: Each canister contains a microcrystalline suspension of
+*Contents: Each canister contains a microcrystalline suspension of fluticasone propionate and salmeterol xinafoate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 
-fluticasone proprionate and salmeterol xinafoate in propellant HFA-134a
+Each actuation delivers 230 mcg of fluticasone propionate and 30.45 mcg of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from the mouthpiece.
 
-(1,1,1,2-tetrafluoroethane).
-
-Each actuations delivers 230 mcg of fluticasone propionate and 30.45 mcg
-
-of salmeterol xinafoate equivalent to 21 mcg of salmeterol base from
-
-the mouthpiece.
-
-IMPORTANT: Read accompanying Medication Guide leaflet carefully
-
-for further information.
+IMPORTANT: Read accompanying Medication Guide leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
