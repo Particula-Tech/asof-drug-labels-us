@@ -190,4 +190,4 @@ Oleptro™ is a trademark of Labopharm Inc.
 
 Contramid® is a registered trademark of Labopharm Inc.
 
-[February 2010]
+[June 2010]
