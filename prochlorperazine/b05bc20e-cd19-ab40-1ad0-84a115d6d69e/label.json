@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040268"
+  ],
+  "inn": "prochlorperazine",
+  "labeler": "Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-113-06",
+    "59746-113-10",
+    "59746-115-06",
+    "59746-115-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "prochlorperazine maleate",
+      "name": "PROCHLORPERAZINE MALEATE"
+    }
+  ],
+  "setid": "b05bc20e-cd19-ab40-1ad0-84a115d6d69e",
+  "source": "dailymed"
+}
