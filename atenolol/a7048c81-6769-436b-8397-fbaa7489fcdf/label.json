@@ -1,16 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073457"
+  ],
   "inn": "atenolol",
-  "labeler": "Mylan Pharmaceuticals Inc",
+  "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-0218-01",
     "0378-0218-10",
     "0378-0231-01",
     "0378-0231-10",
     "0378-0757-01",
-    "0378-0757-10"
+    "0378-0757-10",
+    "0378-0757-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "Atenolol"
+    }
+  ],
   "setid": "a7048c81-6769-436b-8397-fbaa7489fcdf",
   "source": "dailymed"
 }

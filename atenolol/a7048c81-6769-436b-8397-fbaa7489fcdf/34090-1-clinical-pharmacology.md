@@ -10,12 +10,12 @@ Approximately 50% of an oral dose is absorbed from the gastrointestinal tract, t
 Peak blood levels are reached between two (2) and four (4) hours after ingestion.
 Unlike propranolol or metoprolol, but like nadolol, atenolol undergoes little or no metabolism by the liver, and the absorbed portion is eliminated primarily by renal excretion.
 Over 85% of an intravenous dose is excreted in urine within 24 hours compared with approximately 50% for an oral dose.
-Atenolol also differs from propranolol in that only a small amount (6%–16%) is bound to proteins in the plasma.
-This kinetic profile results in relatively consistent plasma drug levels with about a fourfold interpatient variation.
+Atenolol also differs from propranolol in that only a small amount (6% to 16%) is bound to proteins in the plasma.
+This kinetic profile results in relatively consistent plasma drug levels with about a 4-fold interpatient variation.
 
 The elimination half-life of oral atenolol is approximately 6 to 7 hours, and there is no alteration of the kinetic profile of the drug by chronic administration.
 Following intravenous administration, peak plasma levels are reached within 5 minutes.
-Declines from peak levels are rapid (5 to 10 fold) during the first 7 hours; thereafter, plasma levels decay with a half-life similar to that of orally administered drug.
+Declines from peak levels are rapid (5 to 10-fold) during the first 7 hours; thereafter, plasma levels decay with a half-life similar to that of orally administered drug.
 Following oral doses of 50 mg or 100 mg, both beta-blocking and antihypertensive effects persist for at least 24 hours.
 When renal function is impaired, elimination of atenolol is closely related to the glomerular filtration rate; significant accumulation occurs when the creatinine clearance falls below 35 mL/min/1.73m2 (see DOSAGE AND ADMINISTRATION).
 
@@ -54,13 +54,13 @@ In a multicenter clinical trial (ISIS-1) conducted in 16,027 patients with suspe
 Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mm Hg, or with other contraindications to beta blockade, were excluded.
 Thirty-eight percent of each group were treated within 4 hours of onset of pain.
 The mean time from onset of pain to entry was 5.0 ± 2.7 hours in both groups.
-Patients in the atenolol group were to receive atenolol injection 5 to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the I.V. dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
+Patients in the atenolol group were to receive atenolol injection 5 mg to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the I.V. dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
 The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first degree atrioventricular block at entry.
 
 During the treatment period (days 0 to 7), the vascular mortality rates were 3.89% in the atenolol group (313 deaths) and 4.57% in the control group (365 deaths).
 This absolute difference in rates, 0.68%, is statistically significant at the P < 0.05 level.
-The absolute difference translates into a proportional reduction of 15% [(3.89–4.57)/4.57 = -0.15].
-The 95% confidence limits are 1%–27%.
+The absolute difference translates into a proportional reduction of 15% [(3.89 to 4.57)/4.57 = -0.15].
+The 95% confidence limits are 1% to 27%.
 Most of the difference was attributed to mortality in days 0 to 1 (atenolol – 121 deaths; control – 171 deaths).
 
 Despite the large size of the ISIS-1 trial, it is not possible to identify clearly subgroups of patients most likely or least likely to benefit from early treatment with atenolol.

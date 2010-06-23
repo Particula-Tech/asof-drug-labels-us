@@ -16,7 +16,7 @@ If an optimal response is not achieved within one week, the dosage should be inc
 Some patients may require a dosage of 200 mg once a day for optimal effect.
 
 Twenty-four hour control with once daily dosing is achieved by giving doses larger than necessary to achieve an immediate maximum effect.
-The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
+The maximum early effect on exercise tolerance occurs with doses of 50 mg to 100 mg, but at these doses the effect at 24 hours is attenuated, averaging about 50% to 75% of that observed with once a day oral doses of 200 mg.
 
 ## Acute Myocardial Infarction
 
@@ -53,8 +53,8 @@ The following maximum oral dosages are recommended for elderly, renally-impaired
 
 | Creatinine Clearance (mL/min/1.73m2) | Atenolol Elimination Half-Life (hrs) | Maximum Dosage |
 | --- | --- | --- |
-| 15–35 | 16–27 | 50 mg daily |
-| < 15 | >27 | 25 mg daily |
+| 15 to 35 | 16 to 27 | 50 mg daily |
+| < 15 | > 27 | 25 mg daily |
 
 Some renally-impaired or elderly patients being treated for hypertension may require a lower starting dose of atenolol: 25 mg given as one tablet a day.
 If this 25 mg dose is used, assessment of efficacy must be made carefully.

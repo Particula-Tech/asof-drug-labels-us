@@ -18,7 +18,7 @@ If cardiac failure continues despite adequate treatment, atenolol should be with
 ## Concomitant Use of Calcium Channel Blockers
 
 Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta blockers are administered with verapamil or diltiazem.
-Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible (see PRECAUTIONS).
+Patients with preexisting conduction abnormalities or left ventricular dysfunction are particularly susceptible (see PRECAUTIONS).
 
 ## Bronchospastic Diseases
 
@@ -31,7 +31,7 @@ If dosage must be increased, dividing the dose should be considered in order to 
 
 It is not advisable to withdraw beta-adrenoreceptor blocking drugs prior to surgery in the majority of patients.
 However, care should be taken when using anesthetic agents such as those which may depress the myocardium.
-Vagal dominance, if it occurs, may be corrected with atropine (1 to 2 mg IV).
+Vagal dominance, if it occurs, may be corrected with atropine (1 mg to 2 mg IV).
 
 Atenolol, like other beta blockers, is a competitive inhibitor of beta-receptor agonists and its effects on the heart can be reversed by administration of such agents: e.g., dobutamine or isoproterenol with caution (see section on OVERDOSAGE).
 
@@ -63,8 +63,9 @@ Neonates born to mothers who are receiving atenolol at parturition or breast-fee
 Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breast-feeding.
 (See PRECAUTIONS: Nursing Mothers.)
 
-Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose.Based on the maximum dose of 100 mg/day in a 50 kg patient.
-Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose.
+Atenolol has been shown to produce a dose related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose.* Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose.*
+
+* Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
 # PRECAUTIONS
 
@@ -100,15 +101,17 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,Based on the maximum dose of 100 mg/day in a 50 kg patient. did not indicate a carcinogenic potential of atenolol.
-A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
+Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,* did not indicate a carcinogenic potential of atenolol.
+A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
 No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S. typhimurium).
 
-Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose) was unaffected by atenolol administration.
+Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.
 
 ## Animal Toxicology
 
-Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner's glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive doseBased on the maximum dose of 100 mg/day in a 50 kg patient.) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose, respectively).
+Chronic studies employing oral atenolol performed in animals have revealed the occurrence of vacuolation of epithelial cells of Brunner's glands in the duodenum of both male and female dogs at all tested dose levels of atenolol (starting at 15 mg/kg/day or 7.5 times the maximum recommended human antihypertensive dose*) and increased incidence of atrial degeneration of hearts of male rats at 300 but not 150 mg atenolol/kg/day (150 and 75 times the maximum recommended human antihypertensive dose,* respectively).
+
+* Based on the maximum dose of 100 mg/day in a 50 kg patient.
 
 ## Pregnancy
 

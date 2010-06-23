@@ -138,7 +138,7 @@ Reasons for Reduced Dosage
 | Arrhythmias | 22 | (0.27%) |  |
 | Bronchospasm | 50 | (0.62%) |  |
 
-During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbances, sick sinus syndrome, and dry mouth.
+During post-marketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbances, sick sinus syndrome, and dry mouth.
 Atenolol, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome and Raynaud's phenomenon.
 
 ## Potential Adverse Effects
