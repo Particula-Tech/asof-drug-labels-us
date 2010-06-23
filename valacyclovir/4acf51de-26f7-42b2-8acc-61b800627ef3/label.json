@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090682"
+  ],
+  "inn": "valacyclovir",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "16714-697-01",
+    "16714-697-02",
+    "16714-697-03",
+    "16714-698-01",
+    "16714-698-02",
+    "16714-698-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valacyclovir hydrochloride",
+      "name": "Valacyclovir Hydrochloride"
+    }
+  ],
+  "setid": "4acf51de-26f7-42b2-8acc-61b800627ef3",
+  "source": "dailymed"
+}
