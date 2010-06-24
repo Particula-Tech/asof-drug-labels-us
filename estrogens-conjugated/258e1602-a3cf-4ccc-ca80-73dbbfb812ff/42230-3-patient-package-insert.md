@@ -48,6 +48,7 @@ Do not start taking PREMARIN if you:
 - Had a stroke or heart attack in the past year.
 - Currently have or have had blood clots.
 - Currently have or have had liver problems.
+- Have been diagnosed with a bleeding disorder.
 - Are allergic to PREMARIN tablets or any of its ingredients.
   See the list of ingredients in PREMARIN at the end of this leaflet.
 - Think you may be pregnant.
@@ -179,8 +180,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10405C026
+W10405C027
 
 ET01
 
-Rev 03/10
+Rev 05/10

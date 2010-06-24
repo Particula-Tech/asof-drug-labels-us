@@ -182,7 +182,7 @@ Estrogens should be used with caution in individuals with severe hypocalcemia.
 The estrogen plus progestin substudy of WHI reported a non-statistically significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95 percent nCI 0.77 – 3.24).
 The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
-In some epidemiologic studies, the use of estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
+In some epidemiologic studies, the use of estrogens-progestin and estrogen-only products has been associated with an increased risk of ovarian cancer over multiple years of use.
 However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies and some report no association.
 
 ### 9. Exacerbation of endometriosis

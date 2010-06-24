@@ -8,5 +8,6 @@ PREMARIN therapy should not be used in individuals with any of the following con
 4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
 5. Active or recent (within the past year) arterial thromboembolic disease (for example, stroke, myocardial infarction).
 6. Liver dysfunction or disease.
-7. Known hypersensitivity to any of the ingredients in PREMARIN.
-8. Known or suspected pregnancy.
+7. Known thrombophilic disorders (e.g., protein C, protein S, or antithrombin deficiency).
+8. Known hypersensitivity to any of the ingredients in PREMARIN.
+9. Known or suspected pregnancy.
