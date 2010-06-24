@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Salmeterol is a long-acting beta2-adrenergic agonist.
+Salmeterol is a long-acting beta2-adrenergic agonist (LABA).
 In vitro studies and in vivo pharmacologic studies demonstrate that salmeterol is selective for beta2-adrenoceptors compared with isoproterenol, which has approximately equal agonist activity on beta1- and beta2-adrenoceptors.
 In vitro studies show salmeterol to be at least 50 times more selective for beta2-adrenoceptors than albuterol.
 Although beta2-adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-adrenoceptors are the predominant receptors in the heart, there are also beta2-adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors.
@@ -12,7 +12,7 @@ The pharmacologic effects of beta2-adrenoceptor agonist drugs, including salmete
 Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
 In vitro tests show that salmeterol is a potent and long-lasting inhibitor of the release of mast cell mediators, such as histamine, leukotrienes, and prostaglandin D2, from human lung.
-Salmeterol inhibits histamine-induced plasma protein extravasation and inhibits platelet-activating factor-induced eosinophil accumulation in the lungs of guinea pigs when administered by the inhaled route.
+Salmeterol inhibits histamine-induced plasma protein extravasation and inhibits platelet-activating factor–induced eosinophil accumulation in the lungs of guinea pigs when administered by the inhaled route.
 In humans, single doses of salmeterol administered via inhalation aerosol attenuate allergen-induced bronchial hyper-responsiveness.
 
 ## Pharmacokinetics

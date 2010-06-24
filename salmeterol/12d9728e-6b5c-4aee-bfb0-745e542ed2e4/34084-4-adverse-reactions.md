@@ -1,10 +1,12 @@
 # ADVERSE REACTIONS
 
-Data from a large, 28-week, placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol (see WARNINGS and CLINICAL TRIALS: Asthma: Salmeterol Multi-center Asthma Research Trial).
+LABAs, including salmeterol, the active ingredient in SEREVENT DISKUS, increase the risk of asthma-related death.
+Data from a large 28-week placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
+Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients (see WARNINGS and CLINICAL TRIALS: Asthma: Salmeterol Multi-center Asthma Research Trial).
 
 ## Asthma
 
-Two multicenter, 12-week, controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients 12 years of age and older with asthma.
+Two multicenter 12-week controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients aged 12 years and older with asthma.
 Table 4 reports the incidence of adverse events in these 2 studies.
 
 Table 4.
@@ -55,7 +57,7 @@ Contact dermatitis, eczema.
 
 Localized aches and pains, pyrexia of unknown origin.
 
-Two multicenter, 12-week, controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients aged 4 to 11 years with asthma.
+Two multicenter 12-week controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients aged 4 to 11 years with asthma.
 Table 5 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common than in the placebo group.
 
 Table 5.
@@ -79,11 +81,11 @@ In clinical trials evaluating concurrent therapy of salmeterol with inhaled cort
 
 ## Chronic Obstructive Pulmonary Disease
 
-Two multicenter, 24-week, controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients with COPD.
+Two multicenter 24-week controlled studies have evaluated twice-daily doses of SEREVENT DISKUS in patients with COPD.
 For presentation (Table 6), the placebo data from a third trial, identical in design, patient entrance criteria, and overall conduct but comparing fluticasone propionate with placebo, were integrated with the placebo data from these 2 studies (total N = 341 for salmeterol and 576 for placebo).
 
 Table 6.
-Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With SEREVENT DISKUS in Patients With Chronic Obstructive Pulmonary Disease*
+Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With SEREVENT DISKUS in Patients With Chronic Obstructive Pulmonary Diseasea
 
 | Adverse Event | Percent of Patients |  |  |
 | --- | --- | --- | --- |
@@ -101,7 +103,7 @@ Adverse Events With ≥3% Incidence in US Controlled Clinical Trials With SEREVE
 | Neurological |  |  |  |
 | Headache Dizziness | 112 | 144 |  |
 | Average duration of exposure (days) | 128.9 | 138.5 |  |
-| * Table 6 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group. |  |  |  |
+| a Table 6 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group. |  |  |  |
 
 Other events occurring in the group receiving SEREVENT DISKUS that occurred at a frequency of 1% to <3% and were more common than in the placebo group were as follows:
 
@@ -141,7 +143,7 @@ Anxiety.
 
 Skin rashes.
 
-Adverse reactions to salmeterol are similar in nature to those seen with other selective beta2-adrenoceptor agonists, i.e., tachycardia; palpitations; immediate hypersensitivity reactions, including urticaria, angioedema, rash, bronchospasm (see WARNINGS); headache; tremor; nervousness; and paradoxical bronchospasm (see WARNINGS).
+Adverse reactions to salmeterol are similar in nature to those seen with other selective beta2-adrenoceptor agonists, e.g., tachycardia; palpitations; immediate hypersensitivity reactions, including urticaria, angioedema, rash, bronchospasm (see WARNINGS); headache; tremor; nervousness; and paradoxical bronchospasm (see WARNINGS).
 
 ## Observed During Clinical Practice
 
