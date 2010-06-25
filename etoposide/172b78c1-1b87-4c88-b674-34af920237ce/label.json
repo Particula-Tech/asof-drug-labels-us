@@ -1,11 +1,29 @@
 {
-  "application_numbers": [],
-  "inn": "etoposide",
-  "labeler": "Bristol-Myers Squibb",
-  "package_ndcs": [
-    "0015-3091-45"
+  "application_numbers": [
+    "NDA018768",
+    "NDA019557"
   ],
-  "products": [],
+  "inn": "etoposide",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
+  "package_ndcs": [
+    "0015-3061-20",
+    "0015-3062-20",
+    "0015-3084-20",
+    "0015-3091-45",
+    "0015-3095-20"
+  ],
+  "products": [
+    {
+      "form": " INJECTION",
+      "generic": "etoposide",
+      "name": "VePesid"
+    },
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "etoposide",
+      "name": "VePesid"
+    }
+  ],
   "setid": "172b78c1-1b87-4c88-b674-34af920237ce",
   "source": "dailymed"
 }
