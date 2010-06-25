@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 TASIGNA® (ta-sig-na)
 
@@ -29,12 +29,11 @@ You may lower your chances for having QTc prolongation with Tasigna if you:
     Do not take Tasigna with food.
   - at least 2 hours after eating any food, and
   - wait at least 1 hour before eating any food
-
 - Avoid grapefruit, grapefruit juice, and any supplement containing grapefruit extract while taking Tasigna.
   Food and grapefruit products increase the amount of Tasigna in your body.
-  - Avoid taking other medicines or supplements with Tasigna that can also cause QTc prolongation.
-  - Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
-  - Do not take any other medicine while taking Tasigna unless your doctor tells you it is okay to do so.
+- Avoid taking other medicines or supplements with Tasigna that can also cause QTc prolongation.
+- Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
+- Do not take any other medicine while taking Tasigna unless your doctor tells you it is okay to do so.
 
 Call your doctor right away if you feel lightheaded, faint or have an irregular heartbeat while taking Tasigna.
 These can be symptoms of QTc prolongation.
@@ -43,8 +42,9 @@ What is Tasigna?
 
 Tasigna is a prescription medicine used to treat a type of leukemia called Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in adults who:
 
-- are no longer benefiting from another treatment, including treatment with imatinib (Gleevec®)
-- have taken other treatments and cannot tolerate them
+- are newly diagnosed, or
+- are no longer benefiting from previous other treatments, including treatment with imatinib (Gleevec®), or
+- have taken other treatments, including imatinib (Gleevec®), and cannot tolerate them
 
 It is not known if Tasigna is safe or effective in children.
 
@@ -69,21 +69,20 @@ Before taking Tasigna, tell your doctor about all of your medical conditions, in
 - a severe problem with lactose (milk sugar) or other sugars.
   The Tasigna capsules contain lactose.
   Most patients who have mild or moderate lactose intolerance can take Tasigna.
+- had a surgical procedure involving the removal of the entire stomach (total gastrectomy)
+- are pregnant or plan to become pregnant.
+  Tasigna may harm your unborn baby.
+  If you are able to become pregnant, you should use effective birth control during treatment with Tasigna.
+  Talk to your doctor about the best birth control methods to prevent pregnancy while you are taking Tasigna.
+- are breastfeeding or plan to breastfeed.
+  It is not known if Tasigna passes into your breast milk.
+  You and your doctor should decide if you will take Tasigna or breastfeed.
+  You should not do both.
 
-Tell your doctor if you are pregnant or planning to become pregnant.
-Tasigna can harm a fetus (unborn baby).
-Women who can get pregnant must use effective birth control during treatment with Tasigna.
+Tell your doctor about all the medicines you take, including prescription and non prescription medicines, vitamins and herbal supplements.
 
-• Do not become pregnant while taking Tasigna.
-
-Tell your doctor if you are breast-feeding or plan to breast-feed.
-It is not known if Tasigna passes into your breast milk.
-You and your doctor should decide if you will take Tasigna or breast-feed.
-You should not do both.
-
-Tasigna and many other medicines may affect each other, causing serious side effects.
+Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
 See “What is the most important information I should know about Tasigna?”
-Tasigna may affect the way other medicines work, and other medicines may affect how Tasigna works.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
@@ -93,18 +92,18 @@ How should I take Tasigna?
 - Take Tasigna exactly as your doctor tells you to take it.
   Do not change your dose or stop taking Tasigna unless your doctor tells you.
 - Tasigna is a long-term treatment.
-- Your doctor will tell you how many Tasigna to take and when to take them.
+- Your doctor will tell you how many Tasigna capsules to take and when to take them.
 - Do not take Tasigna with food.
   Take Tasigna at least 2 hours after you eat and at least 1 hour before you eat.
 - Swallow Tasigna capsules whole with water.
-  Do not open Tasigna capsules.
   If you cannot swallow Tasigna capsules whole, tell your doctor.
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
-- If you miss a dose, take your next dose as scheduled.
-  Do not take a double dose to make up for a missed dose.
+- If you miss a dose, just take your next dose as scheduled.
+  Do not make up for a missed dose.
 - If you take too much Tasigna, call your doctor or poison control center right away.
-- During treatment with Tasigna your doctor will check for side effects to see how well Tasigna is working for you.
+  Symptoms may include vomiting and drowsiness.
+  During treatment with Tasigna your doctor will do tests to check for side effects and to see how well Tasigna is working for you.
   The tests will check your:
   - heart
   - blood cells (white blood cells, red blood cells, and platelets).
@@ -117,23 +116,18 @@ How should I take Tasigna?
 
 What are the possible side effects of Tasigna?
 
-See “What is the most important information I should know about Tasigna?”
+Tasigna may cause serious side effects including:
 
-- Tasigna may cause serious side effects including: Low blood counts.
+- See “What is the most important information I should know about Tasigna?”
+- Low blood counts.
   Low blood counts are common with Tasigna.
   Your doctor will check your blood counts regularly during treatment with Tasigna.
   Symptoms of low blood counts include:
   - unexplained bleeding or bruising
   - blood in urine or stool
   - unexplained weakness
-
 - Liver damage.
   Symptoms include yellow skin and eyes.
-- Fluid retention including fluid build-up around your heart or lungs.
-  Symptoms include:
-  - shortness of breath
-  - swelling of hands, ankles, feet, or face
-
 - Pancreas inflammation (pancreatitis).
   Symptoms include sudden stomach area pain with nausea and vomiting.
 - Bleeding in the brain: Symptoms include sudden headache, changes in your eyesight, not being aware of what is going on around you and becoming unconscious.
@@ -142,12 +136,21 @@ The most common side effects of Tasigna include:
 
 - low blood count
 - rash
-- nausea and vomiting
+- nausea
+- fever
 - headache
 - itching
 - tiredness
+- stomach (abdominal) pain
 - diarrhea
 - constipation
+- muscle and joint pain
+- back pain
+- muscle spasms
+- weakness
+- hair loss
+- runny or stuffy nose, sneezing, sore throat
+- cough
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
 
@@ -165,26 +168,28 @@ How should I store Tasigna?
 
 General information about Tasigna
 
-- Medicines are sometimes prescribed for conditions that are not mentioned in a Medication Guide.
-  Do not use Tasigna for a condition for which it was not prescribed.
-  Do not give Tasigna to other people, even if they have the same problem you have.
-  It may harm them.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use Tasigna for a condition for which it was not prescribed.
+Do not give Tasigna to other people, even if they have the same problem you have.
+It may harm them.
 
 This Medication Guide summarizes the most important information about Tasigna.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Tasigna that is written for healthcare professionals.
 
-For more information call 1-866-411-8274.
+For more information, go to www.us.tasigna.com or call 1-866-411-8274.
 
 What are the ingredients in Tasigna?
 
-- Active ingredient: nilotinib
-- Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and poloxamer 188.
-- The capsule shell contains gelatin, titanium dioxide (E171), iron oxide yellow (E172) and iron oxide red for stamping of the imprint (E172).
+Active ingredient: nilotinib
+
+Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and poloxamer 188.
+
+The capsule shell contains gelatin, titanium dioxide (E171), iron oxide yellow (E172) and iron oxide black or iron oxide red for stamping of the imprint (E172).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: AUGUST 2009 T2009-95/T2009-96
+T2010-34/T2010-35
 
 Manufactured by:
 

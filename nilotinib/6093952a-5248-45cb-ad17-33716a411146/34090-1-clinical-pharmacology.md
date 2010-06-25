@@ -4,10 +4,10 @@
 
 Nilotinib is an inhibitor of the Bcr-Abl kinase.
 Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of Abl protein.
-In vitro, nilotinib inhibited Bcr-Abl mediated proliferation of murine leukemic cell lines and human cell lines derived from Ph+ CML patients.
+In vitro, nilotinib inhibited Bcr-Abl mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML.
 Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from Bcr-Abl kinase mutations, in 32 out of 33 mutations tested.
 In vivo, nilotinib reduced the tumor size in a murine Bcr-Abl xenograft model.
-Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM), c-Kit (210 nM), CSR-1R (125-250 nM) and DDR (3.7 nM).
+Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM), c-Kit (210 nM), CSF-1R (125-250 nM) and DDR (3.7 nM).
 
 ## 12.3 Pharmacokinetics
 
@@ -16,7 +16,9 @@ Absorption and Distribution:
 Peak concentrations of nilotinib are reached 3 hours after oral administration.
 
 Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once daily dosing.
-Daily serum exposure to nilotinib of 400 mg twice daily dosing at steady state was 35% higher than with 800 mg once daily dosing.
+Daily serum exposure to nilotinib following 400 mg twice daily dosing at steady state was 35% higher than with 800 mg once daily dosing.
+Steady state exposure (AUC) of nilotinib with 400 mg twice daily dosing was 13% higher than with 300 mg twice daily dosing.
+The average steady state nilotinib trough and peak concentrations did not change over 12 months.
 There was no relevant increase in exposure to nilotinib when the dose was increased with 400 mg twice daily to 600 mg twice daily.
 
 The bioavailability of nilotinib was increased when given with a meal.
@@ -25,11 +27,13 @@ Compared to the fasted state, the systemic exposure (AUC) increased by 82% when 
 The blood-to-serum ratio of nilotinib is 0.68.
 Serum protein binding is approximately 98% on the basis of in vitro experiments.
 
+Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.10)].
+
 Pharmacokinetics, Metabolism and Excretion:
 
 The apparent elimination half-life estimated from the multiple dose pharmacokinetic studies with daily dosing was approximately 17 hours.
 Inter-patient variability in nilotinib AUC was 32% to 64%.
-Steady state conditions were achieved by day 8.
+Steady state conditions were achieved by Day 8.
 An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
 
 Main metabolic pathways identified in healthy subjects are oxidation and hydroxylation.
@@ -49,13 +53,11 @@ In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 
 
 In a placebo-controlled study in healthy volunteers designed to assess the effects of Tasigna on the QT interval, administration of Tasigna was associated with concentration-dependent QT prolongation; the maximum mean placebo-adjusted QTcF change from baseline was 18 msec (1-sided 95% Upper CI: 26 msec).
 A positive control was not included in the QT study of healthy volunteers.
-Peak plasma concentrations in the QT study were 26% lower than those observed in patients enrolled in the single-arm study.
-[See Boxed Warning, Warnings and Precautions (5.2) and Clinical Studies (14)].
+Peak plasma concentrations in the QT study were 26% lower than those observed in patients enrolled in the single-arm study [see Boxed Warning, Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 ## 12.5 Pharmacogenomics
 
 Tasigna can increase bilirubin levels.
 A pharmacogenetic analysis of 97 patients evaluated the polymorphisms of UGT1A1 and its potential association with hyperbilirubinemia during Tasigna treatment.
 In this study, the (TA)7/(TA)7 genotype was associated with a statistically significant increase in the risk of hyperbilirubinemia relative to the (TA)6/(TA)6 and (TA)6/(TA)7 genotypes.
-However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients.
-[See Warnings and Precautions (5.5)].
+However, the largest increases in bilirubin were observed in the (TA)7/(TA)7 genotype (UGT1A1*28) patients [see Warnings and Precautions (5.5)].
