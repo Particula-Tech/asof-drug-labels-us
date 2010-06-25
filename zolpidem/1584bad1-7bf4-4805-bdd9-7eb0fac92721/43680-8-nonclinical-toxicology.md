@@ -2,20 +2,14 @@
 
 ## 13.1 Carcinogenesis, mutagenesis, impairment of fertility
 
-Carcinogenesis:
-
-Zolpidem was administered to rats and mice for 2 years at dietary dosages of 4, 18, and 80 mg/kg/day.
-In mice, these doses are 26 to 520 times or 2 to 35 times the maximum 10 mg human dose on a mg/kg or mg/m2 basis, respectively.
-In rats these doses are 43 to 876 times or 6 to 115 times the maximum 10 mg human dose on a mg/kg or mg/m2 basis, respectively.
+Carcinogenesis: Zolpidem was administered to mice and rats for 2 years at dietary dosages of 4, 18, and 80 mg base/kg.
+In mice, these doses are approximately 2.5, 10, and 50 times the maximum recommended human dose (MRHD) of 10 mg/day (8 mg zolpidem base) on mg/m2 basis.
+In rats, these doses are approximately 5, 20, and 100 times the MRHD on a mg/m2 basis.
 No evidence of carcinogenic potential was observed in mice.
-Renal liposarcomas were seen in 4/100 rats (3 males, 1 female) receiving 80 mg/kg/day and a renal lipoma was observed in one male rat at the 18 mg/kg/day dose.
-Incidence rates of lipoma and liposarcoma for zolpidem were comparable to those seen in historical controls and the tumor findings are thought to be a spontaneous occurrence.
+In rats, renal tumors (lipoma, liposarcoma) were seen at the mid- and high doses.
 
-Mutagenesis:
+Mutagenesis: Zolpidem was negative in in vitro (bacterial reverse mutation, mouse lymphoma, and chromosomal aberration) and in vivo (mouse micronucleus) genetic toxicology assays.
 
-Zolpidem did not have mutagenic activity in several tests including the Ames test, genotoxicity in mouse lymphoma cells in vitro, chromosomal aberrations in cultured human lymphocytes, unscheduled DNA synthesis in rat hepatocytes in vitro, and the micronucleus test in mice.
-
-Impairment of fertility:
-
-In a rat reproduction study, the high dose (100 mg base/kg) of zolpidem resulted in irregular estrus cycles and prolonged precoital intervals, but there was no effect on male or female fertility after daily oral doses of 4 to 100 mg base/kg or 5 to 130 times the recommended human dose in mg/m2.
-No effects on any other fertility parameters were noted.
+Impairment of fertility: Oral administration of zolpidem (doses of 4, 20, and 100 mg base/kg or approximately 5, 24, and 120 times the MRHD on a mg/m2 basis) to rats prior to and during mating, and continuing in females through postpartum day 25, resulted in irregular estrus cycles and prolonged precoital intervals.
+The no-effect dose for these findings is approximately 24 times the MRHD on a mg/m2 basis.
+There was no impairment of fertility at any dose tested.

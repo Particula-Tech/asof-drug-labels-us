@@ -34,7 +34,7 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Adverse Event* | (N=685) | (N=473) |
 | --- | --- | --- |
 |  | Zolpidem |  |
-| Body System/ | (≤10mg) | Placebo |
+| Body System/ | (≤10 mg) | Placebo |
 | Central and Peripheral Nervous System |  |  |
 | Headache | 7 | 6 |
 | Drowsiness | 2 | - |
@@ -53,7 +53,7 @@ Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinic
 | Adverse Event* | (N=152) | (N=161) |
 | --- | --- | --- |
 |  | Zolpidem |  |
-| Body System/ | (≤10mg) | Placebo |
+| Body System/ | (≤10 mg) | Placebo |
 | Autonomic Nervous System |  |  |
 | Dry mouth | 3 | 1 |
 | Body as a Whole |  |  |
