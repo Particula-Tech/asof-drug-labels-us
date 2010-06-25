@@ -12,7 +12,7 @@ More severe infections, particularly those due to proven or suspected Bacteroide
 
 For more serious infections, these doses may have to be increased.
 In life-threatening situations due to either aerobes or anaerobes these doses may be increased.
-Doses of as much as 4800 mg daily have been given intra-venously to adults.
+Doses of as much as 4800 mg daily have been given intravenously to adults.
 See Dilution and Infusion Rates section below.
 
 Single intramuscular injections of greater than 600 mg are not recommended.
@@ -25,12 +25,10 @@ Alternatively, drug may be administered in the form of a single rapid infusion o
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-Neonates (less than 1 month):
-
-15 to 20 mg/kg/day in 3 to 4 equal doses.
+Neonates (less than 1 month): 15 to 20 mg/kg/day in 3 to 4 equal doses.
 The lower dosage may be adequate for small prematures.
 
-Pediatric patients 1 month of age to 16 years: Parenteral (IM or IV) administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
+Pediatric patients 1 month of age to 16 years: Parenteral (IM or IV) Administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
 
@@ -74,7 +72,7 @@ Refrigeration: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose in
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
-Frozen: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at −10°C.
+Frozen: 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at -10°C.
 
 Frozen solutions should be thawed at room temperature and not refrozen.
 
@@ -110,6 +108,6 @@ Such use could result in air embolism due to residual air being drawn from the p
    Refer to complete directions accompanying set.
 
 Preparation of CLEOCIN PHOSPHATE in ADD-Vantage System—For IV Use Only.
-CLEOCIN PHOSPHATE 600 mg and 900 mg may be reconstituted in 50 mL or 100 mL, respectively, of Dextrose Injection 5% or Sodium Chloride Injection 0.9% in the ADD-diluent container.
+CLEOCIN PHOSPHATE 600 mg and 900 mg may be reconstituted in 50 mL or 100 mL, respectively, of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
 Refer to separate instructions for ADD-VantageADD-Vantage is a registered trademark of Abbott Laboratories.
 System.

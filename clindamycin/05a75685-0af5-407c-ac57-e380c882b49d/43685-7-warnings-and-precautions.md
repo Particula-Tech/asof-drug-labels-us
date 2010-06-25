@@ -17,7 +17,7 @@ A careful inquiry should be made concerning previous sensitivities to drugs and 
 
 This product contains benzyl alcohol as a preservative.
 Benzyl alcohol has been associated with a fatal "Gasping Syndrome" in premature infants.
-(See PRECAUTIONS—Pediatric Use.)
+(See PRECAUTIONS–Pediatric Use.)
 
 Usage in Meningitis—Since clindamycin does not diffuse adequately into the cerebrospinal fluid, the drug should not be used in the treatment of meningitis.
 
@@ -73,7 +73,7 @@ Therefore, it should be used with caution in patients receiving such agents.
 Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
 Because of possible clinical significance, the two drugs should not be administered concurrently.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long term studies in animals have not been performed with clindamycin to evaluate carcinogenic potential.
 Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test.
@@ -85,7 +85,7 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately
 
 ### Teratogenic effects
 
-#### Pregnancy category B
+#### Pregnancy Category B
 
 Reproduction studies performed in rats and mice using oral doses of clindamycin up to 600 mg/kg/day (2.1 and 1.1 times the highest recommended adult human dose based on mg/m2, respectively) or subcutaneous doses of clindamycin up to 250 mg/kg/day (0.9 and 0.5 times the highest recommended adult human dose based on mg/m2, respectively) revealed no evidence of teratogenicity.
 

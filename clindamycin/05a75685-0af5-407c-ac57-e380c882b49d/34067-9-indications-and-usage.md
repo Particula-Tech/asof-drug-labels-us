@@ -16,7 +16,7 @@ Lower respiratory tract infections including pneumonia, empyema, and lung absces
 
 Skin and skin structure infections caused by Streptococcus pyogenes, Staphylococcus aureus, and anaerobes.
 
-Gynecological infections including endometritis, non-gonococcal tubo-ovarian abscess, pelvic cellulitis, and postsurgical vaginal cuff infection caused by susceptible anaerobes.
+Gynecological infections including endometritis, nongonococcal tubo-ovarian abscess, pelvic cellulitis, and postsurgical vaginal cuff infection caused by susceptible anaerobes.
 
 Intra-abdominal infections including peritonitis and intra-abdominal abscess caused by susceptible anaerobic organisms.
 

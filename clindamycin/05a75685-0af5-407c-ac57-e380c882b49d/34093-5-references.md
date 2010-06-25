@@ -2,17 +2,18 @@
 
 1. Smith RB, Phillips JP: Evaluation of CLEOCIN HCl and CLEOCIN Phosphate in an Aged Population.
    Upjohn TR 8147-82-9122-021, December 1982.
-2. Bauer AW, Kirby WMM, Sherris JC, Turck M; Antibiotic susceptibility testing by a standardized single disk method.
-   Am.
-   J. Clin.
-   Path., 45:493–496, 1966.
-   Standardized Disk Susceptibility Test, Federal Register, 37:20527–29, 1972.
-3. National Committee for Clinical Lab.
-   Standards.
-   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria—Second Edition; Tentative Standard.
-   NCCLS publication M11-T2.
-   Villanova, PA; NCCLS; 1988.
-
-CLEOCIN PHOSPHATE IV Solution in the Galaxy plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
-
-Galaxy® is a trademark of Baxter International, Inc.
+2. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing: 18th Informational Supplement.
+   CLSI document M100- S18.
+   CLSI 940 West Valley Road, Suite 1400, Wayne, PA 19087-1898,Wayne, PA, 2008.
+3. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically – 7th ed.
+   CLSI document M7-A7.
+   CLSI,Wayne, PA, 2006.
+4. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Disk Susceptibility Tests - 8th ed.
+   CLSI document M2-A9.
+   CLSI, Wayne, PA, 2006.
+5. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria 7th ed.
+   CLSI document M11-A7, CLSI Wayne, PA, 2007.

@@ -1,4 +1,4 @@
-## Cleocin Phosphate® clindamycin sterile solution for injection, USP in ADD-Vantage™ Vial For Intravenous Use Only NOT FOR INTRAMUSCULAR USE INSTRUCTIONS FOR USE FOR ADD-VANTAGE SYSTEM—FOR IV USE ONLY
+# CLEOCIN PHOSPHATE® clindamycin sterile solution for injection, USP in ADD-Vantage® Vial For Intravenous Use Only NOT FOR INTRAMUSCULAR USE INSTRUCTIONS FOR USE FOR ADD-VANTAGE SYSTEM—FOR IV USE ONLY
 
 To Open Diluent Container:
 
@@ -12,17 +12,17 @@ To Assemble Vial and Flexible Diluent Container:
 (Use Aseptic Technique)
 
 1. Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
-   1. To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.) then pull straight up to remove the cap.
+   1. To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.), then pull straight up to remove the cap.
       (SEE FIGURE 2.)
       NOTE: Once the breakaway cap has been removed, DO NOT ACCESS VIAL WITH SYRINGE.
    2. To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
       (SEE FIGURE 3.)
-2. Screw the vial into the vial port until it will go no further.
+2. Screw the vial into the vial port until it will go no farther.
    THE VIAL MUST BE SCREWED IN TIGHTLY TO ASSURE A SEAL.
-   This occurs approximately ½ turn (180°) after the first audible click.
+   This occurs approximately 1/2 turn (180°) after the first audible click.
    (SEE FIGURE 4.)
    The clicking sound does not assure a seal; the vial must be turned as far as it will go.
-   NOTE: Once vial is seated, do not attempt to remove.
+   NOTE: Once the vial is seated, do not attempt to remove it.
    (SEE FIGURE 4.)
 3. Recheck the vial to assure that it is tight by trying to turn it further in the direction of assembly.
 4. Label appropriately.
@@ -38,7 +38,7 @@ To Prepare Admixture:
    Verify that the rubber stopper has been pulled out, allowing the drug and diluent to mix.
 4. Mix container contents thoroughly and use within the specified time.
 
-Preparation for Administration:(Use Aseptic Technique)
+Preparation for Administration: (Use Aseptic Technique)
 
 1. Confirm the activation and admixture of vial contents.
 2. Check for leaks by squeezing container firmly.
@@ -57,3 +57,9 @@ Preparation for Administration:(Use Aseptic Technique)
 10. Regulate rate of administration with flow control clamp.
 
 WARNING: Do not use flexible container in series connections.
+
+ADD-Vantage® is a registered trademark of Abbott Laboratories, Inc.
+
+LAB-0050-3.0
+
+April 2010

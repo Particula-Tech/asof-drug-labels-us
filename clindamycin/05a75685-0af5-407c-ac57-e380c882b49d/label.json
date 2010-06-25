@@ -1,9 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050441",
+    "NDA050639"
+  ],
   "inn": "clindamycin",
-  "labeler": "Pharmacia & Upjohn, Co.",
+  "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
-    " 0009-3382-02",
     "0009-0728-09",
     "0009-0775-26",
     "0009-0870-26",
@@ -11,9 +13,16 @@
     "0009-3124-03",
     "0009-3375-02",
     "0009-3381-02",
+    "0009-3382-02",
     "0009-3447-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "clindamycin phosphate",
+      "name": "Cleocin Phosphate"
+    }
+  ],
   "setid": "05a75685-0af5-407c-ac57-e380c882b49d",
   "source": "dailymed"
 }

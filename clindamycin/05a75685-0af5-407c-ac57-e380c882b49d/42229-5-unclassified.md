@@ -2,16 +2,14 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Sterile Solution is for Intramuscular and Intravenous Use
 
-CLEOCIN PHOSPHATE in the ADD-Vantage™ Vial is For Intravenous Use Only
+CLEOCIN PHOSPHATE in the ADD-Vantage® Vial is For Intravenous Use Only
 
-Rx Only
+CLEOCIN PHOSPHATE IV Solution in the Galaxy plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
 
-LAB-0044-6.0
+Galaxy® is a trademark of Baxter Healthcare Corporation.
 
-October 2007
+Rx only
 
-™ADD-Vantage is a registered trademark of Abbott Laboratories
+LAB-0044-7.0
 
-LAB-0050-2.0
-
-November 2005
+April 2010
