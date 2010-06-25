@@ -27,5 +27,4 @@ The combination of risperidone with lithium or valproate is indicated for the sh
 
 Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with irritability associated with autistic disorder.
-Information regarding the treatment of pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+Risperidone tablets are indicated for the treatment of irritability associated with autistic disorder in children and adolescents aged 5-16 years, including symptoms of aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods [see Clinical Studies (14.4)].

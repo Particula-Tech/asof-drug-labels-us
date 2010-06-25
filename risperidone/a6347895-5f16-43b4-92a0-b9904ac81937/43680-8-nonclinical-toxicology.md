@@ -1,4 +1,4 @@
-# 13. NON CLINICAL TOXICOLOGY
+# 13. NONCLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -24,7 +24,7 @@ The following table summarizes the multiples of the human dose on a mg/m2 (mg/kg
 | Mammary gland neoplasm, Total | rat | male | 1.5 (9.4) | 0.4 (2.4) |
 
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
-Serum prolactin levels were not measured during the risperidone carcinogenicity studies; however, measurements during sub chronic toxicity studies showed that risperidone elevated serum prolactin levels 5-6 fold in mice and rats at the same doses used in the carcinogenicity studies.
+Serum prolactin levels were not measured during the risperidone carcinogenicity studies; however, measurements during subchronic toxicity studies showed that risperidone elevated serum prolactin levels 5-6 fold in mice and rats at the same doses used in the carcinogenicity studies.
 An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be prolactin-mediated.
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown [see Warnings and Precautions (5.6)].
 

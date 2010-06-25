@@ -185,7 +185,7 @@ Adverse Reactions in ≥1% Risperidone-Treated Adult Patients with Bipolar Mania
 | Vision disorders |  |  |
 | Vision abnormal | 2 | <1 |
 
-Table 4 lists the adverse reactions reported in 2% or more of risperidone treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
+Table 4 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
 Table 4.
 Adverse Reactions in ≥2% of Risperidone-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Adjuvant Therapy Trials.
@@ -416,8 +416,7 @@ The adverse reactions associated with discontinuation in more than one risperido
 
 Autistic Disorder - Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with irritability associated with autistic disorder.
-Information on discontinuations due to adverse reactions for pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug product.
+In the two 8-week, placebo-controlled trials in pediatric patients treated for irritability associated with autistic disorder (n = 156), one risperidone-treated patient discontinued due to an adverse reaction (Parkinsonism), and one placebo-treated patient discontinued due to an adverse event.
 
 ## 6.6 Dose Dependency of Adverse Reactions in Clinical Trials
 
@@ -462,8 +461,11 @@ When all risperidone doses were pooled from randomized controlled trials in seve
 In short-term schizophrenia trials, higher doses of risperidone (8-16 mg/day) were associated with a higher mean increase in heart rate compared to placebo (4-6 beats per minute).
 In pooled placebo-controlled acute mania trials in adults, there were small decreases is mean heart rate, similar among all treatment groups.
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia, bipolar mania or autistic disorder.
-Information regarding changes in ECG during the treatment of pediatric patients with schizophrenia, 13 to 17 years of age, the treatment of pediatric patients with bipolar mania, 10 to 17 years of age, and the treatment of pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 - 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the risperidone groups and 6.5 beats per minute in the placebo group.
+There were no other notable ECG changes.
+
+Due to Janssen Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia or bipolar mania.
+Information regarding changes in ECG during the treatment of pediatric patients with schizophrenia, 13 to 17 years of age, and the treatment of pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation's risperidone drug products.
 
 ## 6.9 Postmarketing Experience
 

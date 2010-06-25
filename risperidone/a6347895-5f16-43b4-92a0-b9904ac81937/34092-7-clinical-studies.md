@@ -66,5 +66,28 @@ This trial included patients with or without psychotic features and with or with
 
 ## 14.4 Irritability Associated with Autistic Disorder
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with irritability associated with autistic disorder.
-Clinical trial information for pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+Short-Term Efficacy
+
+The efficacy of risperidone in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
+Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16-104.3 kg).
+
+Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression - Change (CGI-C) scale.
+The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
+The ABC-I subscale measured the emotional and behavioral symptoms of autism, including aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+The CGI-C rating at endpoint was a co-primary outcome measure in one of the studies.
+
+The results of these trials are as follows:
+
+1. In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5-3.5 mg/day on a weight-adjusted basis.
+   Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
+2. In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+
+Long-Term Efficacy
+
+Following completion of the first 8-week double-blind study, 63 patients entered an open-label study extension where they were treated with risperidone for 4 or 6 months (depending on whether they received risperidone or placebo in the double-blind study).
+During this open-label treatment period, patients were maintained on a mean modal dose of risperidone of 1.8-2.1 mg/day (equivalent to 0.05 - 0.07 mg/kg/day).
+
+Patients who maintained their positive response to risperidone (response was defined as ≥ 25% improvement on the ABC-I subscale and a CGI-C rating of 'much improved' or 'very much improved') during the 4-6 month open-label treatment phase for about 140 days, on average, were randomized to receive risperidone or placebo during an 8-week, double-blind withdrawal study (n=39 of the 63 patients).
+A pre-planned interim analysis of data from patients who completed the withdrawal study (n=32), undertaken by an independent Data Safety Monitoring Board, demonstrated a significantly lower relapse rate in the risperidone group compared with the placebo group.
+Based on the interim analysis results, the study was terminated due to demonstration of a statistically significant effect on relapse prevention.
+Relapse was defined as ≥ 25% worsening on the most recent assessment of the ABC-I subscale (in relation to baseline of the randomized withdrawal phase).

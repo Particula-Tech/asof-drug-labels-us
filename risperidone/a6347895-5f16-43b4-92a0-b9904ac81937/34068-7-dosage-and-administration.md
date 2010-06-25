@@ -61,8 +61,25 @@ The physician who elects to use risperidone tablets for extended periods should 
 
 ## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with irritability associated with autistic disorder.
-Dosage and administration information for the treatment of pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The safety and effectiveness of risperidone tablets in pediatric patients with autistic disorder less than 5 years of age have not been established.
+
+The dosage of risperidone tablets should be individualized according to the response and tolerability of the patient.
+The total daily dose of risperidone tablets can be administered once daily, or half the total daily dose can be administered twice daily.
+
+Dosing should be initiated at 0.25 mg per day for patients < 20 kg and 0.5 mg per day for patients ≥ 20 kg.
+After a minimum of four days from treatment initiation, the dose may be increased to the recommended dose of 0.5 mg per day for patients < 20 kg and 1 mg per day for patients ≥ 20 kg.
+This dose should be maintained for a minimum of 14 days.
+In patients not achieving sufficient clinical response, dose increases may be considered at ≥ 2-week intervals in increments of 0.25 mg per day for patients < 20 kg or 0.5 mg per day for patients ≥ 20 kg.
+Caution should be exercised with dosage for smaller children who weigh less than 15 kg.
+
+In clinical trials, 90% of patients who showed a response (based on at least 25% improvement on ABC-I, [see Clinical Studies (14.4)]) received doses of risperidone tablets between 0.5 mg and 2.5 mg per day.
+The maximum daily dose of risperidone tablets in one of the pivotal trials, when the therapeutic effect reached plateau, was 1 mg in patients < 20 kg, 2.5 mg in patients ≥ 20 kg, or 3 mg in patients > 45 kg.
+No dosing data is available for children who weighed less than 15 kg.
+
+Once sufficient clinical response has been achieved and maintained, consideration should be given to gradually lowering the dose to achieve the optimal balance of efficacy and safety.
+The physician who elects to use risperidone tablets for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+
+Patients experiencing persistent somnolence may benefit from a once-daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
 
 ## 2.4 Dosage in Special Populations
 

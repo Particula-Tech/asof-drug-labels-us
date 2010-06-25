@@ -40,10 +40,13 @@ Safety and effectiveness of risperidone in children less than 13 years of age wi
 
 Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
 
-The safety and effectiveness of risperidone in pediatric patients less than 5 years of age with autistic disorder have not been established.
+Due to Janssen Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia or bipolar mania.
+Information on clinical trials and risperidone use for pediatric patients with schizophrenia, 13 to 17 years of age, and bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation's risperidone drug products.
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia, bipolar mania or irritability associated with autistic disorder.
-Information on clinical trials and risperidone use for pediatric patients with schizophrenia, 13 to 17 years of age, bipolar mania, 10 to 17 years of age, and irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy and safety of risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.3) and Clinical Studies (14.4)].
+Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania who were of similar age and weight, and who received similar dosages of risperidone as patients treated for irritability associated with autistic disorder.
+
+The safety and effectiveness of risperidone in pediatric patients less than 5 years of age with autistic disorder have not been established.
 
 Tardive Dyskinesia
 
