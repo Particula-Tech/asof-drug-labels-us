@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019257"
+  ],
+  "inn": "levocarnitine",
+  "labeler": "Sigma-Tau Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "54482-148-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levocarnitine",
+      "name": "Carnitor SF"
+    }
+  ],
+  "setid": "dd904490-83f3-4cd3-bb6f-68e28509b4b6",
+  "source": "dailymed"
+}
