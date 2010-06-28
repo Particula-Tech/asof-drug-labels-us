@@ -41,11 +41,12 @@ Prior to initiating treatment with a stimulant, patients with comorbid depressiv
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
+
 In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3,482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
 
 ### Aggression
 
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
+Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD including methylphenidate.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
 
 ## Long-Term Suppression of Growth
@@ -89,12 +90,24 @@ Methylphenidate is metabolized primarily by de-esterification (nonmicrosomal hyd
 The effects of gastrointestinal pH alterations on the absorption of methylphenidate from Ritalin LA have not been studied.
 Since the modified release characteristics of Ritalin LA are pH dependent, the coadministration of antacids or acid suppressants could alter the release of methylphenidate.
 
-Methylphenidate may decrease the hypotensive effect of guanethidine.
+Methylphenidate may decrease the effectiveness of drugs used to treat hypertension.
 Because of possible effects on blood pressure, methylphenidate should be used cautiously with pressor agents.
 
-Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), and tricyclic drugs (e.g., imipramine, clomipramine, desipramine).
+As an inhibitor of dopamine reuptake, methylphenidate may be associated with pharmacodynamic interactions when coadministered with direct and indirect dopamine agonists (including DOPA and tricyclic antidepressants) as well as dopamine antagonists (antipsychotics, e.g., haloperidol).
+
+Case reports suggest a potential interaction of methylphenidate with coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), and tricyclic drugs (e.g., imipramine, clomipramine, desipramine) but pharmacokinetic interactions were not confirmed when explored at higher sample sizes.
 Downward dose adjustment of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.
+
+Methylphenidate is not metabolized by cytochrome P450 to a clinically relevant extent.
+Inducers or inhibitors of cytochrome P450 are not expected to have any relevant impact on methylphenidate pharmacokinetics.
+Conversely, the d- and l- enantiomers of methylphenidate did not relevantly inhibit cytochrome P450 1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+
+Methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.
+
+An interaction with the anticoagulant ethylbiscoumacetate in 4 subjects was not confirmed in a subsequent study with a higher sample size (n=12).
+
+Other specific drug-drug interaction studies with methylphenidate have not been performed in vivo.
 
 Serious adverse events have been reported in concomitant use of methylphenidate with clonidine, although no causality for the combination has been established.
 The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2-agonists has not been systematically evaluated.

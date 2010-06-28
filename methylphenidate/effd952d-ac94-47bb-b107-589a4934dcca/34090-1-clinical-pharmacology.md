@@ -55,12 +55,13 @@ After oral administration of Ritalin LA 20 mg and 40 mg capsules to adults there
 
 ### Distribution
 
-Binding to plasma proteins is low (10%-33%), and the apparent distribution volume at steady state with intravenous administration has been reported to be approximately 6 L/kg.
+Binding to plasma proteins is low (10%-33%).
+The volume of distribution was 2.65±1.11 L/kg for d-methylphenidate and 1.80±0.91 L/kg for l-methylphenidate.
 
 ### Metabolism
 
-The absolute oral bioavailability of methylphenidate in children has been reported to be about 30% (range 10%-52%), suggesting pronounced presystemic metabolism.
-Biotransformation of methylphenidate is rapid and extensive leading to the main, de-esterified metabolite α-phenyl-2-piperidine acetic acid (ritalinic acid).
+The absolute oral bioavailability of methylphenidate in children was 22±8% for d-methylphenidate and 5±3% for l-methylphenidate, suggesting pronounced presystemic metabolism.
+Biotransformation of methylphenidate by the carboxylesterase CES1A1 is rapid and extensive leading to the main, de-esterified metabolite α-phenyl-2-piperidine acetic acid (ritalinic acid).
 Only small amounts of hydroxylated metabolites (e.g., hydroxymethylphenidate and hydroxyritalinic acid) are detectable in plasma.
 Therapeutic activity is principally due to the parent compound.
 
@@ -72,6 +73,7 @@ The rapid half-life in both children and adults may result in unmeasurable conce
 No accumulation of methylphenidate is expected following multiple once a day oral dosing with Ritalin LA.
 The half-life of ritalinic acid is about 3-4 hours.
 
+The systemic clearance is 0.40±0.12 L/h/kg for d-methylphenidate and 0.73±0.28 L/h/kg for l-methylphenidate.
 After oral administration of an immediate release formulation of methylphenidate, 78%-97% of the dose is excreted in the urine and 1%-3% in the feces in the form of metabolites within 48-96 hours.
 Only small quantities (<1%) of unchanged methylphenidate appear in the urine.
 Most of the dose is excreted in the urine as ritalinic acid (60%-86%), the remainder being accounted for by minor metabolites.

@@ -57,7 +57,7 @@ Metabolism/Nutrition: anorexia, weight loss during prolonged therapy
 
 Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, toxic psychosis
 
-Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
+Vascular: blood pressure increased or decreased; cerebrovascular vasculitis; cerebral occlusions; cerebral hemorrhages and cerebrovascular accidents
 
 Although a definite causal relationship has not been established, the following have been reported in patients taking methylphenidate:
 
