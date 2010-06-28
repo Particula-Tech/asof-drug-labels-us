@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021313"
+  ],
   "inn": "desloratadine",
-  "labeler": "Schering Corporation",
+  "labeler": "Schering Plough Corporation",
   "package_ndcs": [
     "0085-1322-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desloratadine and pseudoephedrine sulfate",
+      "name": "CLARINEX-D 12 HOUR"
+    }
+  ],
   "setid": "61a1562b-46c6-40ed-af02-305342e76e2f",
   "source": "dailymed"
 }
