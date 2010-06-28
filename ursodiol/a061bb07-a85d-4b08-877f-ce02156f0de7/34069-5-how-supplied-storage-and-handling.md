@@ -14,6 +14,6 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
 
-Revised: August 2008
+Revised: March 2009
 
-2000700-00 S0808
+174784 S0309

@@ -20,7 +20,7 @@ The spectrum of surgical risk varies as a function of age and the presence of di
 
 Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 1966; 197:775-8) 27,600 Cholecystectomies (Smoothed Rates) Deaths/1000 Operations***
 
-|  | Age (Yrs) | Cholecystectomy | Cholecystectomy+ Common Duct Exploration |
+|  | Age (Yrs) | Cholecystectomy | Cholecystectomy + Common Duct Exploration |
 | --- | --- | --- | --- |
 | Low Risk Patients* |  |  |  |
 | Women | 0-49 | .54 | 2.13 |

@@ -5,7 +5,6 @@
 Ursodiol therapy has not been associated with liver damage.
 Lithocholic acid, a naturally occurring bile acid, is known to be a liver-toxic metabolite.
 This bile acid is formed in the gut from ursodiol less efficiently and in smaller amounts than that seen from chenodiol.
-
 Lithocholic acid is detoxified in the liver by sulfation and, although man appears to be an efficient sulfater, it is possible that some patients may have a congenital or acquired deficiency in sulfation, thereby predisposing them to lithocholate-induced liver damage.
 
 Abnormalities in liver enzymes have not been associated with ursodiol therapy and, in fact, ursodiol has been shown to decrease liver enzyme levels in liver disease.
