@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - Carton
 
-For the Dispenser: Store refrigerated 2–8 °C (36–46 °F).
+For the Dispenser: Store refrigerated 2°-8°C (36°-46°F).
 
 NDC 0052-0273-03
 
