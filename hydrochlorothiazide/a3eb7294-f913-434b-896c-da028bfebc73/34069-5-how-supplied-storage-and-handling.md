@@ -13,6 +13,8 @@ Rx only
 
 Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Revised: June 2008
+Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
 
-2000541-00 S0608
+Revised: March 2009
+
+174788 S0309
