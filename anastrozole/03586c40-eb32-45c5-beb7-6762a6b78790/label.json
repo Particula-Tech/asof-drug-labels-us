@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090568"
+  ],
+  "inn": "anastrozole",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-035-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "anastrozole",
+      "name": "Anastrozole"
+    }
+  ],
+  "setid": "03586c40-eb32-45c5-beb7-6762a6b78790",
+  "source": "dailymed"
+}
