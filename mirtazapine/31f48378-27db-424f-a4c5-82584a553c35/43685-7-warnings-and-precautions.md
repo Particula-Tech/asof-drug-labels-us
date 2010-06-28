@@ -276,7 +276,7 @@ The effects of higher doses of lithium on the pharmacokinetics of mirtazapine ar
 
 #### Risperidone
 
-In an in vivo, nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychiatric and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
+In an in vivo, nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
 
 ### Alcohol
 
