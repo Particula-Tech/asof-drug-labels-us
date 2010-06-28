@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065439"
+  ],
+  "inn": "aztreonam",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-397-20",
+    "63323-401-20",
+    "63323-402-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "aztreonam",
+      "name": "Aztreonam"
+    }
+  ],
+  "setid": "c6cf7e13-a04e-47e2-9cec-44a278ee6bec",
+  "source": "dailymed"
+}
