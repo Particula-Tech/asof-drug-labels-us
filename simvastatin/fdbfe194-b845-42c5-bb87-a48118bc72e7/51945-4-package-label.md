@@ -1,6 +1,6 @@
 This is a representative sample of the packaging.
 Please see How Supplied section for a complete list of available packaging.
-PRINCIPAL DISPLAY PANEL - Bottle Label - 5 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
 
 Zocor® 5 mg (Simvastatin)
 
@@ -22,7 +22,7 @@ Rx only
 
 9919900 30 | No. 8360
 
-PRINCIPAL DISPLAY PANEL - Bottle Label - 10 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
 
 Zocor® 10 mg (Simvastatin)
 
@@ -44,7 +44,7 @@ Rx only
 
 9919300 30 | No. 8146
 
-PRINCIPAL DISPLAY PANEL - Bottle Label - 20 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 20 mg
 
 Zocor® 20 mg (Simvastatin)
 
@@ -66,7 +66,7 @@ Rx only
 
 9919500 30 | No. 8147
 
-PRINCIPAL DISPLAY PANEL - Bottle Label - 40 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 40 mg
 
 Zocor® 40 mg (Simvastatin)
 
@@ -88,7 +88,7 @@ Rx only
 
 9919700 30 | No. 8148
 
-PRINCIPAL DISPLAY PANEL - Bottle Label - 80 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 80 mg
 
 Zocor® 80 mg (Simvastatin)
 

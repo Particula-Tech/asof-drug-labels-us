@@ -78,7 +78,7 @@ TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mix
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TGmedian percent change |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dose Comparative Study mean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dose Comparative Studymean baseline LDL-C 244 mg/dL and median baseline TG 168 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
 | ZOCOR 5 mg q.p.m. | 109 | -19 | -26 | 10 | -12 |
 | ZOCOR 10 mg q.p.m. | 110 | -23 | -30 | 12 | -15 |
 | Scandinavian Simvastatin Survival Studymean baseline LDL-C 188 mg/dL and median baseline TG 128 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
@@ -86,7 +86,7 @@ TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mix
 | ZOCOR 20 mg q.p.m. | 2221 | -28 | -38 | 8 | -19 |
 | Upper Dose Comparative Studymean baseline LDL-C 226 mg/dL and median baseline TG 156 mg/dL (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | ZOCOR 40 mg q.p.m. | 433 | -31 | -41 | 9 | -18 |
-| ZOCOR 80 mg q.p.m. 21% and 36% median reduction in TG in patients with TG ≤ 200 mg/dL and TG > 200 mg/dL, respectively. Patients with TG > 350 mg/dL were excluded | 664 | -36 | -47 | 8 | -24 |
+| ZOCOR 80 mg q.p.m.21% and 36% median reduction in TG in patients with TG ≤ 200 mg/dL and TG > 200 mg/dL, respectively. Patients with TG > 350 mg/dL were excluded | 664 | -36 | -47 | 8 | -24 |
 | Multi-Center Combined Hyperlipidemia Studymean baseline LDL-C 156 mg/dL and median baseline TG 391 mg/dL. (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 125 | 1 | 2 | 3 | -4 |
 | ZOCOR 40 mg q.p.m. | 123 | -25 | -29 | 13 | -28 |
@@ -96,7 +96,7 @@ Hypertriglyceridemia (Frederickson type IV)
 
 The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
 
-TABLE 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215
+TABLE 6: Six-week, Lipid-lowering Effects of Simvastatin in Type lV Hyperlipidemia Median Percent Change (25th and 75th percentile) from BaselineThe median baseline values (mg/dL) for the patients in this study were: total-C = 254, LDL-C = 135, HDL-C = 36, TG = 404, VLDL-C = 83, and non-HDL-C = 215.
 
 | TREATMENT | N | Total-C | LDL-C | HDL-C | TG | VLDL-C | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
