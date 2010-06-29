@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078058"
+  ],
+  "inn": "anastrozole",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7536-56"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "anastrozole",
+      "name": "Anastrozole"
+    }
+  ],
+  "setid": "c58c7013-50a0-4734-8a78-38ff20a3e7eb",
+  "source": "dailymed"
+}
