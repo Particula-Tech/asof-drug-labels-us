@@ -213,7 +213,7 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 
 |  | AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio(RatioResults based on a chemical assay except results with propranolol as indicated.with / without coadministered drug)No Effect = 1.00 |  |  |
+| Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio(RatioResults based on a chemical assay except results with propranolol as indicated. with / without coadministered drug)No Effect = 1.00 |  |  |
 | Avoid taking with VYTORIN [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid simvastatin | 6 | 6.2 |

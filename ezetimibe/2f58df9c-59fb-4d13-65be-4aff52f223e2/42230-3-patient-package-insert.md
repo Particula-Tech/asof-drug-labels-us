@@ -111,7 +111,7 @@ In clinical studies patients reported the following common side effects while ta
 
 The following side effects have been reported in general use with VYTORIN or with ezetimibe or simvastatin tablets (tablets that contain the active ingredients of VYTORIN):
 
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle pain; alterations in some laboratory blood tests; liver problems (sometimes serious); inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder; trouble sleeping; poor memory.
+- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (which may require treatment right away), rash, hives; raised red rash, sometimes with target-shaped lesions; joint pain; muscle pain; alterations in some laboratory blood tests; liver problems (sometimes serious); inflammation of the pancreas; nausea; dizziness; tingling sensation; depression; gallstones; inflammation of the gallbladder; trouble sleeping; poor memory; erectile dysfunction; breathing problems including persistent cough and/or shortness of breath or fever.
 
 Tell your doctor if you are having these or any other medical problems while on VYTORIN.
 This is not a complete list of side effects.
@@ -149,9 +149,9 @@ Inactive ingredients:
 
 Butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
 
-Issued March 2010
+Issued May 2010
 
-9619516
+9619517
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
 
