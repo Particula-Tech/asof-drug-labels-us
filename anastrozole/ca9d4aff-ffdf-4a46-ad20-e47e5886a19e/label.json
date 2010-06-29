@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA079220"
+  ],
+  "inn": "anastrozole",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-620-10",
+    "51991-620-33"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "anastrozole",
+      "name": "ANASTROZOLE"
+    }
+  ],
+  "setid": "ca9d4aff-ffdf-4a46-ad20-e47e5886a19e",
+  "source": "dailymed"
+}
