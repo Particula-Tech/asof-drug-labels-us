@@ -1,6 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Paricalcitol, USP, the active ingredient in Zemplar Capsules, is a synthetically manufactured analog of calcitriol, the metabolically active form of vitamin D indicated for the prevention and treatment of secondary hyperparathyroidism in chronic kidney disease.
+Paricalcitol, USP, the active ingredient in Zemplar Capsules, is a synthetically manufactured, metabolically active vitamin D analog of calcitriol with modifications to the side chain (D2) and the A (19-nor) ring.
+Zemplar is indicated for the prevention and treatment of secondary hyperparathyroidism in chronic kidney disease.
 Zemplar is available as soft gelatin capsules for oral administration containing 1 microgram, 2 micrograms or 4 micrograms of paricalcitol.
 Each capsule also contains medium chain triglycerides, alcohol, and butylated hydroxytoluene.
 The medium chain triglycerides are fractionated from coconut oil or palm kernel oil.

@@ -1,8 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Excessive administration of Zemplar Capsules can cause hypercalcemia, hypercalciuria, and hyperphosphatemia, and over suppression of PTH (see WARNINGS).
+Excessive administration of Zemplar Capsules can cause hypercalcemia, hypercalciuria, and hyperphosphatemia, and over suppression of PTH [see Warnings and Precautions (5.1)].
 
-## Treatment of Overdosage
+Treatment of Overdosage
 
 The treatment of acute overdosage of Zemplar Capsules should consist of general supportive measures.
 If drug ingestion is discovered within a relatively short time, induction of emesis or gastric lavage may be of benefit in preventing further absorption.

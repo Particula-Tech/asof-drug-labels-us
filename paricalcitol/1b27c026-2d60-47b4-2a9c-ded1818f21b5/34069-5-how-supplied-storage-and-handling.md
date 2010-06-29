@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Zemplar Capsules are available as 1 mcg, 2 mcg, and 4 mcg capsules.
 
@@ -14,7 +14,7 @@ The 4 mcg capsule is an oval, gold soft gelatin capsule imprinted with Abbott �
 
 Bottles of 30 (NDC 0074-4315-30)
 
-## Storage
+Storage
 
 Store Zemplar Capsules at 25°C (77°F).
 Excursions permitted between 15°- 30°C (59°- 86°F).
