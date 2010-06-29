@@ -1,14 +1,8 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# INSTRUCTIONS FOR USE
 
-TRUSOPT®
+TRUSOPT® (dorzolamide hydrochloride ophthalmic solution) Sterile Ophthalmic Solution 2%
 
-(dorzolamide hydrochloride ophthalmic solution)
-
-Sterile Ophthalmic Solution 2%
-
-## INSTRUCTIONS FOR USE
-
-Please follow these instructions carefully when using TRUSOPTRegistered trademark of MERCK & CO., Inc. COPYRIGHT © 2000 MERCK & CO., Inc. All rights reserved.
+Please follow these instructions carefully when using TRUSOPTRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 Use TRUSOPT as prescribed by your doctor.
 
 1. If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TRUSOPT.
@@ -39,10 +33,10 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of TRUSOPT, please consult your doctor.
 
-Issued July 2008
+Issued December 2009
 
-Manuf. for: MERCK & CO., Inc., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., Inc., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
-9368209
+9368211

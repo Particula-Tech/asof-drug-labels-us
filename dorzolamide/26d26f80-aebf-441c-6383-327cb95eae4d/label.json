@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020408"
+  ],
   "inn": "dorzolamide",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-3519-36"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dorzolamide hydrochloride",
+      "name": "TRUSOPT"
+    }
+  ],
   "setid": "26d26f80-aebf-441c-6383-327cb95eae4d",
   "source": "dailymed"
 }

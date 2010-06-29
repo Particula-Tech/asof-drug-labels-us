@@ -38,7 +38,7 @@ Precautions should be used when prescribing TRUSOPT to this group of patients.
 
 TRUSOPT is a sulfonamide and although administered topically is absorbed systemically.
 Therefore the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration.
-Patients should be advised that if serious or unusual reactions or signs of hypersensitivity occur, they should discontinue the use of the product (see WARNINGS).
+Patients should be advised that if serious or unusual reactions including severe skin reactions or signs of hypersensitivity occur, they should discontinue the use of the product (see WARNINGS).
 
 Patients should be advised that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should discontinue use and seek their physician's advice.
 
