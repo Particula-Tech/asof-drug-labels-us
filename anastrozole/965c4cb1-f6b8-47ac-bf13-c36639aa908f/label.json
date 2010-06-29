@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078921"
+  ],
+  "inn": "anastrozole",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-743-06",
+    "65841-743-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "anastrozole",
+      "name": "Anastrozole"
+    }
+  ],
+  "setid": "965c4cb1-f6b8-47ac-bf13-c36639aa908f",
+  "source": "dailymed"
+}
