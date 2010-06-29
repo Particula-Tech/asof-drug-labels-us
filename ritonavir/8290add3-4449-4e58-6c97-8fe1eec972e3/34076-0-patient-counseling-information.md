@@ -23,7 +23,7 @@ Drug Interactions  KALETRA may interact with some drugs; therefore, patients 
 Patients taking didanosine should take didanosine one hour before or two hours after KALETRA oral solution.  If they are receiving sildenafil, tadalafil, or vardenafil, there may be an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.  If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with KALETRA.  If they are taking or before they begin using Serevent® (salmeterol) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
 The doctor may choose not to keep someone on Serevent® (salmeterol).  If they are taking or before they begin taking Advair® (salmeterol in combination with fluticasone propionate) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
 The doctor may choose not to keep someone on Advair® (salmeterol in combination with fluticasone propionate).
-Potential Adverse Effects  Skin rashes ranging in severity from mild to Stevens Johnson syndrome and Erythema multiforme have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
+Potential Adverse Effects  Skin rashes ranging in severity from mild to toxic epidermal necrolysis (TEN), Stevens Johnson syndrome and Erythema multiforme have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
 Patients should be advised to contact their healthcare provider if they develop a rash while taking KALETRA.
 The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.  Patients should be advised that appropriate liver function testing will be conducted prior to initiating and during therapy with KALETRA.
 Pre-existing liver disease including Hepatitis B or C can worsen with use of KALETRA.
@@ -41,3 +41,6 @@ for Abbott Laboratories, North Chicago, IL 60064, U.S.A
 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 
 Abbott Laboratories, North Chicago, IL 60064, U.S.A.
+
+Rev.
+06/2010

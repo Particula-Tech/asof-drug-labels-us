@@ -1,5 +1,3 @@
-Medication Guide
-
 MEDICATION GUIDE
 
 KALETRA® (kuh-LEE-tra)
@@ -111,8 +109,9 @@ Medicines that you should not take with KALETRA since they may make KALETRA not 
 Medicines that may need changes:
 
 - birth control pills that contain estrogen ("the pill") or the birth control (contraceptive) patches
+- certain anticancer medicines, such as nilotinib (Tasigna®) and dasatinib (Sprycel®)
 - certain cholesterol lowering medicines, such as atorvastatin (Lipitor®) or rosuvastatin (Crestor®)
-- certain other antiretroviral medicines, such as efavirenz (Atripla® and Sustiva®), nevirapine (Viramune®), amprenavir (Agenerase®), fosamprenavir calcium (Lexiva®) and nelfinavir (Viracept®)
+- certain other antiretroviral medicines, such as efavirenz (Atripla® and Sustiva®), nevirapine (Viramune®), amprenavir (Agenerase®) and nelfinavir (Viracept®)
 - anti-seizure medicines, such as phenytoin (Dilantin®) carbamazepine, (Tegretol®), phenobarbital
 - medicines for erectile problems, such as sildenafil (Viagra®), tadalafil (Cialis®), or vardenafil (Levitra®)
 - medicines for tuberculosis (TB), such as rifabutin (Mycobutin®)
@@ -120,7 +119,8 @@ Medicines that may need changes:
 - inhaled medicines such as salmeterol (Serevent®) or salmeterol in combination with fluticasone propionate (Advair®).
   Your doctor may need to change to a different medicine
 - medicines for gout, such as colchicine (Colcrys®)
-- medicines to treat pulmonary arterial hypertension (PAH), such as bosentan (Tracleer®) or tadalafil (AdcircaTM)
+- medicines to treat pulmonary arterial hypertension (PAH), such as bosentan (Tracleer®) or tadalafil (Adcirca®)
+- pain medicines, such as fentanyl (Duragesic®, IonsysTM, Fentora®) and methadone
 
 If you are not sure if you are taking a medicine above, ask your doctor.
 
@@ -156,7 +156,7 @@ How should I take KALETRA?
   The amount of HIV-1 virus in your blood may increase if the medicine is stopped for even a short time.
   The virus may become resistant to KALETRA and become harder to treat.
 - KALETRA can be taken with acid reducing agents used for heartburn or reflux such as omeprazole (Prilosec®) and ranitidine (Zantac®) with no dose adjustment.
-- KALETRA should not be administered once daily in combination with carbamazepine (Tegretol® and Epitol®), phenobarbital (Luminol®), or phenytoin (Dilantin®).
+- KALETRA should not be administered once daily in combination with carbamazepine (Tegretol® and Epitol®), phenobarbital (Luminal®), or phenytoin (Dilantin®).
 
 Avoid doing things that can spread HIV infection.
 KALETRA does not stop you from passing HIV infection to others.
@@ -205,6 +205,9 @@ KALETRA can cause serious side effects.
   - penis erection lasting more than 4 hours.
     If you are a male and have an erection that lasts longer than 4 hours, get medical help right away to avoid permanent damage to your penis.
     Your doctor can explain these symptoms to you.
+- Allergic reactions.
+  Skin rashes, some of them severe, can occur in people who take KALETRA.
+  Tell your healthcare provider if you had a rash when you took another medicine for your HIV infection or if you notice any skin rash when you take KALETRA.
 
 Common side effects of KALETRA include:
 
@@ -286,6 +289,6 @@ KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution Abbo
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-04/2010
+06/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

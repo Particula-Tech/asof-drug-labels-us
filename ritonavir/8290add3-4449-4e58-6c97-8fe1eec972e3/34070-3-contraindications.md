@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-● KALETRA is contraindicated in patients with previously demonstrated clinically significant hypersensitivity (e.g., Stevens-Johnson syndrome, erythema multiforme) to any of its ingredients, including ritonavir.
+● KALETRA is contraindicated in patients with previously demonstrated clinically significant hypersensitivity (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) to any of its ingredients, including ritonavir.
 
 ● Co-administration of KALETRA is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions.
 
@@ -12,7 +12,7 @@ Drugs That Are Contraindicated With KALETRA
 
 | Drug Class | Drugs Within Class That Are Contraindicated With KALETRA | Clinical comments |
 | --- | --- | --- |
-| Alpha 1- Adrenoreceptor antagonist | Alfuzosi | Potentially increased alfuzosin concentrations can result in hypotension. |
+| Alpha 1- Adrenoreceptor antagonist | Alfuzosin | Potentially increased alfuzosin concentrations can result in hypotension. |
 | Antimycobacterial | Rifampin | May lead to loss of virologic response and possible resistance to KALETRA or to the class of protease inhibitors or other co-administered antiretroviral agents [see Drug Interactions (7)]. |
 | Ergot Derivatives | Dihydroergotamine, ergonovine, ergotamine, methylergonovine | Potential for acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI motility agent | Cisapride | Potential for cardiac arrhythmias. |

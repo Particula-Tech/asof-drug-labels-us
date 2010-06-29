@@ -1,6 +1,12 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drug Interactions
+## 5.1 Drug Interactions - CYP3A Enzyme Inhibition
+
+KALETRA is a CYP3A inhibitor.
+Initiating treatment with KALETRA in patients receiving medications metabolized by CYP3A or initiating medications metabolized by CYP3A in patients already maintained on KALETRA may result in increased plasma concentrations of concomitant medications.
+Higher plasma concentrations of concomitant medications can result in increased or prolonged therapeutic or adverse effects, potentially leading to severe, life-threatening or fatal events.
+The potential for drug-drug interactions must be considered prior to and during therapy with KALETRA.
+Review of other medications taken by patients and monitoring of patients for adverse effects is recommended during therapy with KALETRA.
 
 See Tables 3 and 9 for listing of drugs that are contraindicated for use with KALETRA due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity [see Contraindications (4) and Drug Interactions (7)].
 

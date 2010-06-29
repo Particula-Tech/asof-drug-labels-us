@@ -67,8 +67,12 @@ Because no data exists for dosage when administered with efavirenz, nevirapine, 
 
 Without Concomitant Efavirenz, Nevirapine, Amprenavir or Nelfinavir
 
-In children 6 months to 18 years of age, the recommended dosage of lopinavir/ritonavir using KALETRA oral solution without concomitant efavirenz, nevirapine, amprenavir, or nelfinavir is 230/57.5 mg/m2 given twice daily, not to exceed the recommended adult dose.
+Dosing recommendations using oral solution
+
+In children 6 months to 18 years of age, the recommended dosage of lopinavir/ritonavir using KALETRA oral solution without concomitant efavirenz, nevirapine, amprenavir, or nelfinavir is 230/57.5 mg/m2 given twice daily, not to exceed the recommended adult dose (400/100 mg [5 mL] twice daily).
 If weight-based dosing is preferred, the recommended dosage of lopinavir/ritonavir for patients < 15 kg is 12/3 mg/kg given twice daily and the dosage for patients ≥ 15 kg to 40 kg is 10/2.5 mg/kg given twice daily.
+
+Dosing recommendations using tablets
 
 Table 1 provides the dosing recommendations for pediatric patients 6 months to 18 years of age based on body weight or body surface area for KALETRA tablets.
 
@@ -84,8 +88,12 @@ Pediatric Dosing Recommendations for Patients 6 Months to 18 Years of Age Based 
 
 Concomitant Therapy: Efavirenz, Nevirapine, Amprenavir, or Nelfinavir
 
-A dose increase of KALETRA to 300/75 mg/m2 is needed when co-administered with efavirenz, nevirapine, amprenavir, or nelfinavir in children (both treatment-naïve and treatment-experienced) 6 months to 18 years of age, not to exceed the recommended adult dose.
+Dosing recommendations using oral solution
+
+A dose increase of KALETRA to 300/75 mg/m2 using KALETRA oral solution is needed when co-administered with efavirenz, nevirapine, amprenavir, or nelfinavir in children (both treatment-naïve and treatment-experienced) 6 months to 18 years of age, not to exceed the recommended adult dose (533/133 mg [6.5 mL] twice daily).
 If weight-based dosing is preferred, the recommended dosage for patients <15 kg is 13/3.25 mg/kg given twice daily and the dosage for patients >15 kg to 45 kg is 11/2.75 mg/kg given twice daily.
+
+Dosing recommendations using tablets
 
 Table 2 provides the dosing recommendations for pediatric patients 6 months to 18 years of age based on body weight or body surface area for KALETRA tablets when given in combination with efavirenz, nevirapine, amprenavir, or nelfinavir.
 
