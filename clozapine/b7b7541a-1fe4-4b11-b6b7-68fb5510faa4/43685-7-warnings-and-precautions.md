@@ -4,7 +4,7 @@
 
 ### INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
-ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ATYPICAL ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH COMPARED TO PLACEBO.
+ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS TREATED WITH ANTIPSYCHOTIC DRUGS ARE AT AN INCREASED RISK OF DEATH.
 FAZACLO® (clozapine, USP) IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS.
 (SEE BOXED WARNING.)
 
@@ -261,6 +261,8 @@ Phenylketonuric patients should be informed that FazaClo® (clozapine, USP) cont
 Each 12.5-mg, orally disintegrating tablet contains 0.87 mg phenylalanine.
 Each 25-mg, orally disintegrating tablet contains 1.74 mg phenylalanine.
 Each 100-mg, orally disintegrating tablet contains 6.96 mg phenylalanine.
+Each 150-mg, orally disintegrating tablet contains 10.44 mg phenylalanine.
+Each 200-mg, orally disintegrating tablet contains 13.92 mg phenylalanine.
 
 ## Hepatitis
 
@@ -306,7 +308,7 @@ Check with the anesthesiologist regarding continuation of FazaClo® (clozapine, 
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe FazaClo® (clozapine, USP):
 
-- - Patients who are to receive FazaClo® (clozapine, USP) should be warned about the significant risk of developing agranulocytosis.
+- Patients who are to receive FazaClo® (clozapine, USP) should be warned about the significant risk of developing agranulocytosis.
   Patients should be advised to immediately report the appearance of lethargy, weakness, fever, sore throat, malaise, mucous membrane ulceration, or other possible signs of infection.
   Particular attention should be paid to any flu-like complaints or other symptoms that might suggest infection.
   - Patients should be informed that FazaClo® (clozapine, USP) Orally Disintegrating Tablets will be made available only through a special program designed to ensure the required blood monitoring in order to reduce the risk of developing agranulocytosis.
@@ -314,15 +316,15 @@ Physicians are advised to discuss the following issues with patients for whom th
     - Weekly blood tests are required for the first 6 months.
     - If acceptable WBC counts and ANCs (WBC count ≥3500/mm3 and ANC ≥2000/mm3) have been maintained during the first 6 months of continuous therapy, then WBC counts and ANCs can be monitored every 2 weeks for the next 6 months.
     - Thereafter, if acceptable WBC counts and ANCs have been maintained during the second 6 months of continuous therapy, WBC counts and ANCs can be monitored every 4 weeks.
-- - Patients should be informed of the significant risk of seizure during FazaClo® (clozapine, USP) treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking FazaClo® (clozapine, USP).
-- - Patients with phenylketonuria should be aware that FazaClo® (clozapine, USP) contains phenylalanine (a component of aspartame).
+- Patients should be informed of the significant risk of seizure during FazaClo® (clozapine, USP) treatment, and they should be advised to avoid driving and any other potentially hazardous activity while taking FazaClo® (clozapine, USP).
+- Patients with phenylketonuria should be aware that FazaClo® (clozapine, USP) contains phenylalanine (a component of aspartame).
   (See PRECAUTIONS, Phenylketonurics.)
-- - Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
-- - Patients should be informed that if they miss taking FazaClo® (clozapine, USP) for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions.
-- - Patients should notify their physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol.
-- - Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
-- - Patients should not breast feed an infant if they are taking FazaClo® (clozapine, USP).
-- - Patients should be advised that FazaClo® (clozapine, USP) tablets should remain in the original package until immediately before use.
+- Patients should be advised of the risk of orthostatic hypotension, especially during the period of initial dose titration.
+- Patients should be informed that if they miss taking FazaClo® (clozapine, USP) for more than 2 days, they should not restart their medication at the same dosage but should contact their physician for dosing instructions.
+- Patients should notify their physician if they are taking or plan to take any prescription or over-the-counter drugs or alcohol.
+- Patients should notify their physician if they become pregnant or intend to become pregnant during therapy.
+- Patients should not breast feed an infant if they are taking FazaClo® (clozapine, USP).
+- Patients should be advised that FazaClo® (clozapine, USP) tablets should remain in the original package until immediately before use.
 
 ## Drug Interactions
 

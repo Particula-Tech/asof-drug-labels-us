@@ -14,8 +14,15 @@ In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a
 FazaClo® (clozapine, USP) orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
 Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132-854 ng/mL), occurring at the average of 2.3 hours (range: 1-6 hours) after dosing.
 The average minimum concentration at steady state was 168 ng/mL (range: 45-574 ng/mL), after 100-mg b.i.d. dosing.
-Food does not appear to affect the systemic bioavailability of clozapine.
-Thus, FazaClo® (clozapine, USP) may be administered with or without food.
+One comparative bioavailability study was conducted in support of the 150/200 mg tablet strengths comparing FazaClo® 200 mg tablets to 2 × FazaClo® 100 mg tablet (approved reference product).
+This study was titled “An Open-Label, Randomized, Comparative Bioavailability Study of FazaClo® ODT 200 mg to FazaClo® ODT 100 mg in Patients with Schizophrenia or Schizo-affective Disorder under Fasted Conditions and to Determine the Effect of Food and Chewing on the 200 mg Tablet”.
+Results of this comparative bioavailability study demonstrated that FazaClo® 200 mg tablets are bioequivalent to 2 × FazaClo® 100 mg tablet when administered under fasted or chewed conditions.
+Administration of FazaClo® 200 mg tablets under nonfasted conditions was bioequivalent to fasted conditions although there was approximately a 1 hour delay found in time of Cmax,ss.
+
+In a food-effect study, a single dose of FazaClo® (clozapine, USP) orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
+When FazaClo® was administered after a high fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
+This decrease in Cmax is not clinically significant.
+Therefore, FazaClo® (clozapine, USP) orally disintegrating tablets can be taken without regard to meals.
 
 Clozapine is approximately 97% bound to serum proteins.
 The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important.
@@ -46,10 +53,10 @@ The effectiveness of clozapine in reducing the risk of recurrent suicidal behavi
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment and the remainder were not.
 Patients met one of the following criteria:
 
-- - They had attempted suicide within the three years prior to their baseline evaluation.
-- - They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
-- - They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
-- - They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
+- They had attempted suicide within the three years prior to their baseline evaluation.
+- They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
+- They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
+- They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
 Dosing was flexible, with a dose range of 200–900 mg/day for clozapine and 5–20 mg/day for olanzapine.
@@ -70,6 +77,3 @@ Data from this study indicate that clozapine had a statistically significant lon
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 
 The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization due to imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 1).
-
-Figure 1.
-Kaplan-Meier Estimates of Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide

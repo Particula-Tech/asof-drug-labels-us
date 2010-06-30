@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021590"
+  ],
   "inn": "clozapine",
   "labeler": "Azur Pharma, Inc.",
   "package_ndcs": [
@@ -7,9 +9,19 @@
     "18860-102-01",
     "18860-102-10",
     "18860-104-01",
-    "18860-104-10"
+    "18860-104-10",
+    "18860-105-01",
+    "18860-105-10",
+    "18860-106-01",
+    "18860-106-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "clozapine",
+      "name": "FazaClo"
+    }
+  ],
   "setid": "b7b7541a-1fe4-4b11-b6b7-68fb5510faa4",
   "source": "dailymed"
 }
