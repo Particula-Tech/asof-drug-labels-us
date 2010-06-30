@@ -31,6 +31,10 @@ Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 dru
 Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron.
 On the basis of available data, no dosage adjustment is recommended for patients on these drugs.
 
+### Apomorphine
+
+Based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron, concomitant use of apomorphine with ondansetron is contraindicated (see CONTRAINDICATIONS).
+
 ### Phenytoin, Carbamazepine, and Rifampicin
 
 In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and ondansetron blood concentrations were decreased.
