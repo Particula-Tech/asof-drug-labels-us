@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020092"
+  ],
   "inn": "diltiazem",
   "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
@@ -15,7 +17,13 @@
     "52544-734-30",
     "52544-734-44"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Dilacor XR"
+    }
+  ],
   "setid": "a6ad506a-a3f9-45be-ae03-24313b9a9b7c",
   "source": "dailymed"
 }

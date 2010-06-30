@@ -31,10 +31,10 @@ Keep out of the reach of children
 
 Rx Only
 
-U.S. Patent Nos. 4,839,177 and 5,422,123
-
 Manufactured for: WATSON Pharma, Inc. A Subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880
 
 Manufactured by: SkyePharma Production SAS St-Quentin-Fallavier Cedex, France
 
-14100-02 S0307
+Revised: December 2009
+
+14100-03 S0307

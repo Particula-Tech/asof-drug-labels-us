@@ -18,11 +18,11 @@ Such elevations were usually transient and frequently resolved even with continu
 In rare instances, significant elevations in alkaline phoshatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted.
 These reactions tended to occur early after therapy initiation (1 to 6 weeks) and have been reversible upon discontinuation of drug therapy.
 The relationship to diltiazem is uncertain in some cases, but probable in some others.
-(SeePRECAUTIONS.)
+(See PRECAUTIONS.)
 
 # PRECAUTIONS
 
-## General
+## General:
 
 Diltiazem hydrochloride is extensively metabolized by the liver and is excreted by the kidneys and in bile.
 As with any drug given over prolonged periods, laboratory parameters should be monitored at regular intervals.
@@ -31,34 +31,34 @@ In subacute and chronic dog and rat studies designed to produce toxicity, high d
 In special subacute hepatic studies, oral doses of 125 mg/kg and higher in rats were associated with histological changes in the liver which were reversible when the drug was discontinued.
 In dogs, doses of 20 mg/kg were also associated with hepatic changes; however, these changes were reversible with continued dosing.
 
-Dermatological events (seeADVERSE REACTIONS) may be transient and may disappear despite continued use of diltiazem hydrochloride.
+Dermatological events (see ADVERSE REACTIONS) may be transient and may disappear despite continued use of diltiazem hydrochloride.
 However, skin eruptions progressing to erythema multiforme and/or exfoliative dermatitis have also been infrequently reported.
 Should a dermatologic reaction persist, the drug should be discontinued.
 
 Although Dilacor XR utilizes a slowly disintegrating matrix, caution should still be used in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been no reports of obstructive symptoms in patients with known strictures in association with the ingestion of Dilacor XR.
 
-## Information for Patients
+## Information for Patients:
 
 Dilacor XR capsules should be taken on an empty stomach.
 Patients should be cautioned that the Dilacor XR capsules should not be opened, chewed or crushed, and should be swallowed whole.
 
-## Drug Interaction
+## Drug Interactions:
 
 Due to the potential for additive effects, caution and careful titration are warranted in patients receiving diltiazem hydrochloride concomitantly with any agents known to affect cardiac contractility and/or conduction.
-(SeeWARNINGS.)
+(See WARNINGS.)
 Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with diltiazem hydrochloride.
-(SeeWARNINGS.)
+(See WARNINGS.)
 As with all drugs, care should be exercised when treating patients with multiple medications.
 Diltiazem hydrochloride undergoes biotransformation by cytochrome P-450 mixed function oxidase.
 Co-administration of diltiazem hydrochloride with other agents which follow the same route of biotransformation may result in the competitive inhibition of metabolism.
-Especially in patients with renal and/or hepatic impairment, dosages of similarly metabolized drugs, particularly those of low therapeutic ratio such as cyclosporine, may require adjustment when starting or stopping concomitantly administer diltiazem hydrochloride to maintain optimum therapeutic blood levels.
+Especially in patients with renal and/or hepatic impairment, dosages of similarly metabolized drugs, particularly those of low therapeutic ratio such as cyclosporine, may require adjustment when starting or stopping concomitantly administered diltiazem hydrochloride to maintain optimum therapeutic blood levels.
 Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated plasma levels of carbamazepine, resulting in toxicity in some cases.
 
 Beta-Blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem hydrochloride and beta-blockers is usually well-tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 Administration of diltiazem hydrochloride concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and the bioavailability of propranolol was increased approximately 50%.
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 Cimetidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and area-under-the-curve (53%) after a 1 week course of cimetidine at 1,200 mg per day and diltiazem 60 mg per day.
 Ranitidine produced smaller, nonsignificant increases.
@@ -66,21 +66,24 @@ The effect may be mediated by cimetidine’s known inhibition of hepatic cytochr
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 
+Clonidine: Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem.
+Monitor heart rate in patients receiving concomitant diltiazem and clonidine.
+
 Digitalis: Administration of diltiazem hydrochloride with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
 Since there have been conflicting results regarding the effects of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization.
-(SeeWARNINGS.)
+(See WARNINGS.)
 
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 A 24-month study in rats and an 18-month study in mice showed no evidence of carcinogenicity.
 There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro in bacteria.
 No evidence of impaired fertility was observed in male or female rats at oral doses of up to 100 mg/kg/day.
 
-## Pregnancy
+## Pregnancy:
 
 Category C: Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg once daily or 8 mg/kg once daily for a 60 kg patient) has resulted in embryo and fetal lethality.
@@ -89,12 +92,12 @@ Also observed were reductions in early individual pup weights and pup survival, 
 
 There are no well-controlled studies in pregnant women; therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Diltiazem is excreted in human milk.
 One report suggests that concentrations in breast milk may approximate serum levels.
 If use of diltiazem hydrochloride is deemed essential, an alternate method of infant feeding should be instituted.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in pediatric patients have not been established.

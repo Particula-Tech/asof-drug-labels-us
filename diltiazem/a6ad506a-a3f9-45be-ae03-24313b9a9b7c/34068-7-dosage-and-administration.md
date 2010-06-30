@@ -27,7 +27,7 @@ Sublingual Nitroglycerin may be taken as required to abort acute anginal attacks
 Prophylactic Nitrate Therapy – Diltiazem hydrochloride may be safely co-administered with short- and long-acting nitrates.
 
 Beta-blockers.
-(SeeWARNINGS andPRECAUTIONS.)
+(See WARNINGS and PRECAUTIONS.)
 
 Antihypertensives – Diltiazem hydrochloride has an additive antihypertensive effect when used with other antihypertensive agents.
 Therefore, the dosage of diltiazem hydrochloride or the concomitant antihypertensives may need to be adjusted when adding one to the other.
