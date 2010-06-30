@@ -174,6 +174,4 @@ NDC 0049-3920-83
 
 equivalent to 20 mg/mL* of ziprasidone
 
-Pfizer Distributed by Roerig
-
-Division of Pfizer Inc, NY, NY 10017
+Pfizer Distributed by Roerig Division of Pfizer Inc, NY, NY 10017

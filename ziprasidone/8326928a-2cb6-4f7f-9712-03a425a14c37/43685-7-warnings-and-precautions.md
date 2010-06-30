@@ -129,7 +129,7 @@ Ziprasidone should be used with particular caution in patients with known cardio
 
 ## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
 
-In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic age­nts.
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic age-nts.
 Agranulocytosis (including fatal cases) has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
