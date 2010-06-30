@@ -35,7 +35,7 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
 Due to the limited data, EMSAM at any dose should not be used in children under the age of 12 years even when administered with dietary modifications.
-EMSAM is not approved for use in pediatric patients (See PRECAUTIONS: Pediatric Use).
+EMSAM is not approved for use in pediatric patients (See PRECAUTIONS/Pediatric Use).
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
@@ -89,7 +89,7 @@ Walker, Psychiatric Annals 2001; 31:378-384:
 
 | Class of Food and Beverage | Tyramine-Rich Foods and Beverages to Avoid | Acceptable Foods and Drinks, Containing No or Little Tyramine |
 | --- | --- | --- |
-| Meat, Poultry, and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring, and any spoiled or improperly stored meat, poultry, and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Fresh meat, poultry, and fish, including fresh processed meats (e.g., lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
+| Meat, Poultry, and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring; and any spoiled or improperly stored meat, poultry, and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Fresh meat, poultry, and fish, including fresh processed meats (e.g., lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
 | Vegetables | Broad bean pods (fava bean pods) | All other vegetables |
 | Dairy | Aged cheeses | Processed cheeses, mozzarella, ricotta cheese, cottage cheese, and yogurt |
 | Beverages | All varieties of tap beer and beers that have not been pasteurized so as to allow for ongoing fermentation | As with other antidepressants, concomitant use of alcohol with EMSAM is not recommended. (Bottled and canned beers and wines contain little or no tyramine.) |

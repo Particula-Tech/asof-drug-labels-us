@@ -5,13 +5,9 @@ Do not store outside of the sealed pouch.
 Apply immediately upon removal from the protective pouch.
 Discard used EMSAM in household trash in a manner that prevents accidental application or ingestion by children, pets or others.
 
-DISTRIBUTED BY:
-
-Dey, L.P.
+DISTRIBUTED BY: Dey Pharma, L.P.
 Napa, CA 94558
 
-MANUFACTURED FOR:
+MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
-Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
-
-MAY 2009 EMSAM:PIR7 03-943-00
+JANUARY 2010 EMSAM:PIR8 03-943-01

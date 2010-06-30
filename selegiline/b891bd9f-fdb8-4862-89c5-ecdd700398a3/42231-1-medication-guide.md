@@ -9,7 +9,7 @@ IMPORTANT: Be sure to read the section of this Medication Guide beginning with �
 It contains important information about certain changes in diet that might be needed, other medications to avoid, and other important information about this medication.
 It immediately follows the next section called Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions.
 
-## Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -18,7 +18,7 @@ Talk to your, or your family member’s, healthcare provider about:
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illnesses
 
-## What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
+What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
@@ -46,7 +46,7 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-## What else do I need to know about antidepressant medicines?
+What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
@@ -62,12 +62,12 @@ Call a healthcare provider right away if you or your family member has any of th
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
-## ABOUT USING ANTIDEPRESSANTS IN CHILDREN AND TEENAGERS
+ABOUT USING ANTIDEPRESSANTS IN CHILDREN AND TEENAGERS
 
 EMSAM at any dose should not be used in children under the age of 12 years even when administered with dietary modifications.
 EMSAM is not approved for use in pediatric patients.
 
-## What is the most important information I should know about EMSAM?
+What is the most important information I should know about EMSAM?
 
 - EMSAM (selegiline transdermal system) contains a medicine called a monoamine oxidase inhibitor, also called a MAOI.
   MAOI medicines, including EMSAM, can cause a sudden, large increase in blood pressure (hypertensive crisis) if you eat foods and drinks that contain high amounts of tyramine.
@@ -85,7 +85,7 @@ EMSAM is not approved for use in pediatric patients.
 
 | Type of Food and Drink | Tyramine-Rich Foods and Drinks to Avoid | Acceptable Foods and Drinks, Containing No or Little Tyramine |
 | --- | --- | --- |
-| Meat, Poultry, and Fish | ● Air died, aged and fermented meats, sausages and salamis ● Pickled herring ● Any spoiled or improperly stored meat, poultry, and fish. These are foods that have a change in color, odor, or become moldy. ● Spoiled or improperly stored animal livers | ● Fresh meat, poultry, and fish, including fresh processed meats (such as lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
+| Meat, Poultry, and Fish | ● Air dried, aged and fermented meats, sausages and salamis ● Pickled herring ● Any spoiled or improperly stored meat, poultry, and fish. These are foods that have a change in color, odor, or become moldy. ● Spoiled or improperly stored animal livers | ● Fresh meat, poultry, and fish, including fresh processed meats (such as lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
 | Vegetables | ● Broad bean pods (fava bean pods) | ● All other vegetables |
 | Dairy (milk products) | ● Aged cheeses | ● Processed cheeses, mozzarella, ricotta cheese, cottage cheese, and yogurt |
 | Drinks | ● All tap beers and other beers that have not been pasteurized | ● As with other antidepressants, concomitant use of alcohol with EMSAM is not recommended. (Bottled and canned beers and wines contain little or no tyramine.) |
@@ -98,14 +98,14 @@ EMSAM is not approved for use in pediatric patients.
 
 Some of these medicines will have to be stopped for at least a week before you can start using EMSAM.
 
-## What is EMSAM?
+What is EMSAM?
 
 EMSAM is a skin patch (transdermal system) used to treat major depression.
 The skin patch delivers the medicine through your skin and into your bloodstream.
 
 EMSAM has not been studied for the treatment of depression in children under 18 years of age.
 
-## Who should not use EMSAM?
+Who should not use EMSAM?
 
 Do not use EMSAM (selegiline transdermal system) if you are:
 
@@ -114,7 +114,7 @@ Do not use EMSAM (selegiline transdermal system) if you are:
 - allergic to anything in EMSAM.
   See the end of this Medication Guide for a complete list of ingredients in EMSAM.
 
-## What should I tell my doctor before starting EMSAM?
+What should I tell my doctor before starting EMSAM?
 
 Tell your doctor about all your medical conditions, including if you:
 
@@ -135,7 +135,7 @@ Know the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
 Do not take any new medicine while using EMSAM, and for 2 weeks after you stop using it, before talking with your doctor.
 
-## How should I use EMSAM?
+How should I use EMSAM?
 
 See the end of this Medication Guide for “How to Use and Apply an EMSAM Patch”.
 
@@ -155,7 +155,7 @@ See the end of this Medication Guide for “How to Use and Apply an EMSAM Patch�
   Also, tell your surgeon that you take EMSAM.
   EMSAM should be stopped 10 days before you have elective surgery.
 
-## What should I avoid while using EMSAM?
+What should I avoid while using EMSAM?
 
 - You must not eat foods or drink beverages that contain high amounts of tyramine while using EMSAM 9 mg/24 hours and 12 mg/24 hours patches.
   You do not have to make any diet changes with the EMSAM 6 mg/24 hours patch.
@@ -166,7 +166,7 @@ See the end of this Medication Guide for “How to Use and Apply an EMSAM Patch�
   EMSAM may reduce your judgment, ability to think, or coordination.
 - Drinking alcoholic beverages is not recommended while using EMSAM.
 
-## What are the possible side effects of EMSAM?
+What are the possible side effects of EMSAM?
 
 EMSAM:
 
@@ -196,13 +196,13 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How do I store EMSAM?
+How do I store EMSAM?
 
 - Store EMSAM at 20° to 25° C (68° to 77° F).
 - Store EMSAM in its sealed pouch until use.
 - Keep EMSAM and all medicines out of the reach of children and away from pets.
 
-## General information about EMSAM
+General information about EMSAM
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Medication Guides.
 Do not give EMSAM to other people, even if they have the same symptoms you have.
@@ -212,15 +212,15 @@ This Medication Guide summarizes the most important information about EMSAM.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about EMSAM that is written for health professionals.
 
-For more information, call 1-866-367-2678 or visit www.EMSAM.com
+For more information, call 1-800-395-3376 or visit www.EMSAM.com
 
-## What are the ingredients in EMSAM?
+What are the ingredients in EMSAM?
 
 Active Ingredient: Selegiline
 
 Inactive Ingredients: acrylic adhesive, ethylene vinyl acetate, polyethylene, polyester, polyurethane, and silicone coated polyester
 
-## How to Use and Apply an EMSAM Patch
+How to Use and Apply an EMSAM Patch
 
 Read these instructions carefully before you apply EMSAM (selegiline transdermal system).
 Ask your doctor or pharmacist about anything you do not understand.
@@ -270,13 +270,11 @@ Ask your doctor or pharmacist about anything you do not understand.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dey, L.P.
+DISTRIBUTED BY: Dey Pharma, L.P.
 Napa, CA 94558
 
-MANUFACTURED FOR:
-
-Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
+MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
 *Prozac® is a registered trademark of Eli Lilly and Company *Zoloft® is a registered trademark of Pfizer Pharmaceuticals *Anafranil® is a registered trademark of Mallinckrodt Inc. *Demerol® is a registered trademark of Sanofi *Eldepryl® is a registered trademark of Somerset Pharmaceuticals *Tegretol® and Trileptal® are registered trademarks of Novartis Pharmaceuticals Corporation *Flexeril® is a registered trademark of ALZA Corporation *BuSpar® is registered trademark of Bristol-Myers Squibb Company
 
-MAY 2009 EMSAM:PLR7 03-944-00
+JANUARY 2010 EMSAM:PLR8 03-944-01
