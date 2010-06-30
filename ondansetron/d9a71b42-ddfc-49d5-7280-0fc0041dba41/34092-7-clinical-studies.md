@@ -2,10 +2,14 @@
 
 ## Chemotherapy-Induced Nausea and Vomiting
 
-Adult Studies: In a double-blind study of three different dosing regimens of ZOFRAN Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
+### Adult Studies
+
+In a double-blind study of three different dosing regimens of ZOFRAN Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
-Cisplatin-Based Chemotherapy:In a double-blind study in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
+#### Cisplatin-Based Chemotherapy
+
+In a double-blind study in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Treatment response was as shown in Table 4.
 
 Table 4.
@@ -85,7 +89,9 @@ a Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can b
 
 b Median undefined since at least 50% of patients did not have any emetic episodes.
 
-Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled study of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
+#### Cyclophosphamide-Based Chemotherapy
+
+In a double-blind, placebo-controlled study of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 7.
 
 Table 7.
@@ -111,10 +117,14 @@ d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad a
 
 e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied.
 
-Re-treatment: In uncontrolled trials, 127 patients receiving cisplatin (median dose, 100 mg/m2) and ondansetron who had two or fewer emetic episodes were re-treated with ondansetron and chemotherapy, mainly cisplatin, for a total of 269 re-treatment courses (median, 2; range, 1 to 10).
+#### Re-treatment
+
+In uncontrolled trials, 127 patients receiving cisplatin (median dose, 100 mg/m2) and ondansetron who had two or fewer emetic episodes were re-treated with ondansetron and chemotherapy, mainly cisplatin, for a total of 269 re-treatment courses (median, 2; range, 1 to 10).
 No emetic episodes occurred in 160 (59%), and two or fewer emetic episodes occurred in 217 (81%) re-treatment courses.
 
-Pediatric Studies:Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients 4 to 18 years of age given a variety of cisplatin or noncisplatin regimens.
+### Pediatric Studies
+
+Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients 4 to 18 years of age given a variety of cisplatin or noncisplatin regimens.
 In the three foreign trials, the initial ZOFRAN Injection dose ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
 This was followed by the oral administration of ondansetron ranging from 4 to 24 mg daily for 3 days.
 In the US trial, ZOFRAN was administered intravenously (only) in three doses of 0.15 mg/kg each for a total daily dose of 7.2 to 39 mg.
@@ -131,7 +141,9 @@ Thus, prevention of vomiting in these pediatric patients was comparable to the p
 
 ## Postoperative Nausea and Vomiting: Prevention of Postoperative Nausea and Vomiting
 
-Adult Studies:Adult surgical patients who received ondansetron immediately before the induction of general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) were evaluated in two double-blind US studies involving 554 patients.
+### Adult Studies
+
+Adult surgical patients who received ondansetron immediately before the induction of general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) were evaluated in two double-blind US studies involving 554 patients.
 ZOFRAN Injection (4 mg) I.V. given over 2 to 5 minutes was significantly more effective than placebo.
 The results of these studies are summarized in Table 8.
 
@@ -155,7 +167,9 @@ Two other placebo-controlled studies were conducted in 2,792 patients undergoing
 At the 4-mg dosage, 59% of patients receiving ondansetron versus 45% receiving placebo in the first study (P < 0.001) and 41% of patients receiving ondansetron versus 30% receiving placebo in the second study (P = 0.001) experienced no emetic episodes.
 No additional benefit was observed in patients who received I.V. ondansetron 8 mg compared to patients who received I.V. ondansetron 4 mg.
 
-Pediatric Studies: Three double-blind, placebo-controlled studies have been performed (one US, two foreign) in 1,049 male and female patients (2 to 12 years of age) undergoing general anesthesia with nitrous oxide.
+### Pediatric Studies
+
+Three double-blind, placebo-controlled studies have been performed (one US, two foreign) in 1,049 male and female patients (2 to 12 years of age) undergoing general anesthesia with nitrous oxide.
 The surgical procedures included tonsillectomy with or without adenoidectomy, strabismus surgery, herniorrhaphy, and orchidopexy.
 Patients were randomized to either single I.V. doses of ondansetron (0.1 mg/kg for pediatric patients weighing 40 kg or less, 4 mg for pediatric patients weighing more than 40 kg) or placebo.
 Study drug was administered over at least 30 seconds, immediately prior to or following anesthesia induction.
@@ -187,7 +201,9 @@ Overall, 32 (10%) of placebo patients and 18 (5%) of patients who received ondan
 
 ## Prevention of Further Postoperative Nausea and Vomiting
 
-Adult Studies: Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two double-blind US studies involving 441 patients.
+### Adult Studies
+
+Adult surgical patients receiving general balanced anesthesia (barbiturate: thiopental, methohexital, or thiamylal; opioid: alfentanil or fentanyl; nitrous oxide; neuromuscular blockade: succinylcholine/curare and/or vecuronium or atracurium; and supplemental isoflurane) who received no prophylactic antiemetics and who experienced nausea and/or vomiting within 2 hours postoperatively were evaluated in two double-blind US studies involving 441 patients.
 Patients who experienced an episode of postoperative nausea and/or vomiting were given ZOFRAN Injection (4 mg) I.V. over 2 to 5 minutes, and this was significantly more effective than placebo.
 The results of these studies are summarized in Table 10.
 
@@ -209,9 +225,13 @@ b Nausea measured on a scale of 0-10 with 0 = no nausea, 10 = nausea as bad as i
 
 The study populations in Table 10 consisted mainly of women undergoing laparoscopic procedures.
 
-Repeat Dosing in Adults: In patients who do not achieve adequate control of postoperative nausea and vomiting following a single, prophylactic, preinduction, I.V. dose of ondansetron 4 mg, administration of a second I.V. dose of ondansetron 4 mg postoperatively does not provide additional control of nausea and vomiting.
+### Repeat Dosing in Adults
 
-Pediatric Study: One double-blind, placebo-controlled, US study was performed in 351 male and female outpatients (2 to 12 years of age) who received general anesthesia with nitrous oxide and no prophylactic antiemetics.
+In patients who do not achieve adequate control of postoperative nausea and vomiting following a single, prophylactic, preinduction, I.V. dose of ondansetron 4 mg, administration of a second I.V. dose of ondansetron 4 mg postoperatively does not provide additional control of nausea and vomiting.
+
+### Pediatric Study
+
+One double-blind, placebo-controlled, US study was performed in 351 male and female outpatients (2 to 12 years of age) who received general anesthesia with nitrous oxide and no prophylactic antiemetics.
 Surgical procedures were unrestricted.
 Patients who experienced two or more emetic episodes within 2 hours following discontinuation of nitrous oxide were randomized to either single I.V. doses of ondansetron (0.1 mg/kg for pediatric patients weighing 40 kg or less, 4 mg for pediatric patients weighing more than 40 kg) or placebo administered over at least 30 seconds.
 Ondansetron was significantly more effective than placebo in preventing further episodes of nausea and vomiting.

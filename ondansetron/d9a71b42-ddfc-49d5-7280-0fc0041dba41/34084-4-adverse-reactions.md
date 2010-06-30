@@ -22,21 +22,33 @@ a See Neurological.
 
 The following have been reported during controlled clinical trials:
 
-Cardiovascular: Rare cases of angina (chest pain), electrocardiographic alterations, hypotension, and tachycardia have been reported.
+### Cardiovascular
+
+Rare cases of angina (chest pain), electrocardiographic alterations, hypotension, and tachycardia have been reported.
 In many cases, the relationship to ZOFRAN Injection was unclear.
 
-Gastrointestinal: Constipation has been reported in 11% of chemotherapy patients receiving multiday ondansetron.
+### Gastrointestinal
 
-Hepatic: In comparative trials in cisplatin chemotherapy patients with normal baseline values of aspartate transaminase (AST) and alanine transaminase (ALT), these enzymes have been reported to exceed twice the upper limit of normal in approximately 5% of patients.
+Constipation has been reported in 11% of chemotherapy patients receiving multiday ondansetron.
+
+### Hepatic
+
+In comparative trials in cisplatin chemotherapy patients with normal baseline values of aspartate transaminase (AST) and alanine transaminase (ALT), these enzymes have been reported to exceed twice the upper limit of normal in approximately 5% of patients.
 The increases were transient and did not appear to be related to dose or duration of therapy.
 On repeat exposure, similar transient elevations in transaminase values occurred in some courses, but symptomatic hepatic disease did not occur.
 
-Integumentary: Rash has occurred in approximately 1% of patients receiving ondansetron.
+### Integumentary
 
-Neurological: There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ZOFRAN Injection, and rare cases of grand mal seizure.
+Rash has occurred in approximately 1% of patients receiving ondansetron.
+
+### Neurological
+
+There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ZOFRAN Injection, and rare cases of grand mal seizure.
 The relationship to ZOFRAN was unclear.
 
-Other: Rare cases of hypokalemia have been reported.
+### Other
+
+Rare cases of hypokalemia have been reported.
 The relationship to ZOFRAN Injection was unclear.
 
 ## Postoperative Nausea and Vomiting
@@ -70,7 +82,9 @@ Adverse Events in ≥ 2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V
 
 a Sites of pain included abdomen, stomach, joints, rib cage, shoulder.
 
-Pediatric Use: The adverse events in Table 14 were the most commonly reported adverse events in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than 40 kg) administered intravenously over at least 30 seconds.
+### Pediatric Use
+
+The adverse events in Table 14 were the most commonly reported adverse events in pediatric patients receiving ondansetron (a single 0.1-mg/kg dose for pediatric patients weighing 40 kg or less, or 4 mg for pediatric patients weighing more than 40 kg) administered intravenously over at least 30 seconds.
 Rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
@@ -105,25 +119,43 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 The events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to ZOFRAN.
 
-Cardiovascular: Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT interval prolongation, and ST segment depression), palpitations, and syncope.
+### Cardiovascular
 
-General: Flushing.
+Arrhythmias (including ventricular and supraventricular tachycardia, premature ventricular contractions, and atrial fibrillation), bradycardia, electrocardiographic alterations (including second-degree heart block, QT interval prolongation, and ST segment depression), palpitations, and syncope.
+
+### General
+
+Flushing.
 Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylaxis/anaphylactoid reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
 
-Hepatobiliary: Liver enzyme abnormalities have been reported.
+### Hepatobiliary
+
+Liver enzyme abnormalities have been reported.
 Liver failure and death have been reported in patients with cancer receiving concurrent medications including potentially hepatotoxic cytotoxic chemotherapy and antibiotics.
 The etiology of the liver failure is unclear.
 
-Local Reactions: Pain, redness, and burning at site of injection.
+### Local Reactions
 
-Lower Respiratory: Hiccups
+Pain, redness, and burning at site of injection.
 
-Neurological: Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
+### Lower Respiratory
 
-Skin: Urticaria
+Hiccups
 
-Special Senses: Transient dizziness during or shortly after I.V. infusion.
+### Neurological
 
-Eye Disorders:Transient blurred vision, in some cases associated with abnormalities of accommodation.
+Oculogyric crisis, appearing alone, as well as with other dystonic reactions.
+
+### Skin
+
+Urticaria
+
+### Special Senses
+
+Transient dizziness during or shortly after I.V. infusion.
+
+#### Eye Disorders
+
+Transient blurred vision, in some cases associated with abnormalities of accommodation.
 Cases of transient blindness, predominantly during intravenous administration, have been reported.
 These cases of transient blindness were reported to resolve within a few minutes up to 48 hours.

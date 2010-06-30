@@ -19,7 +19,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-October 2009 ZFJ:1PI
+May 2010
+
+ZFJ:2PI
