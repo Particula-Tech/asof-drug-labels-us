@@ -16,7 +16,7 @@ Hypersensitivity: Anaphylactic reactions, necrotizing angiitis (vasculitis and c
 
 Metabolic: Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
 
-Musculoskeletal: Muscle Spasm.
+Musculoskeletal: Muscle spasm.
 
 Nervous System/Psychiatric: Vertigo, paresthesia, dizziness, headache, restlessness.
 

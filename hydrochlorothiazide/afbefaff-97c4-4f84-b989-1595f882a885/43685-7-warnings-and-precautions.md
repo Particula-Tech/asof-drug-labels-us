@@ -48,7 +48,7 @@ Lithium - generally should not be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and greatly increase the risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with MICROZIDE.
 
-Non-steroidal anti-inflammatory drugs - In some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal anti-inflammatory drugs - In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 When MICROZIDE and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 Drug/Laboratory Test Interactions - Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
@@ -85,6 +85,6 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Elderly Use:
 
-A greater blood pressure reduction and an increase in side effects may be observed in the elderly (i.e,.> 65 years) with hydrochlorothiazide.
+A greater blood pressure reduction and an increase in side effects may be observed in the elderly (i.e., > 65 years) with hydrochlorothiazide.
 Starting treatment with the lowest available dose of hydrochlorothiazide (12.5 mg) is therefore recommended.
 If further titration is required, 12.5 mg increments should be utilized.
