@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020869"
+  ],
+  "inn": "timolol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-190-20"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dorzolamide hydrochloride-timolol maleate",
+      "name": "dorzolamide hydrochloride-timolol maleate"
+    }
+  ],
+  "setid": "6ae5ed44-8e5a-41ed-a223-988b4c1436ac",
+  "source": "dailymed"
+}
