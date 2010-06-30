@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
@@ -25,7 +25,7 @@ Oral administration of lacosamide (30, 90, or 180 mg/kg/day) to rats during the 
 The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide AUC approximately 0.5 times that in humans at the MRHD.
 
-### Pregnancy Registry
+Pregnancy Registry
 
 UCB, Inc. has established the UCB AED Pregnancy Registry to advance scientific knowledge about safety and outcomes in pregnant women being treated with VIMPAT.
 To ensure broad program access and reach, either a healthcare provider or the patient can initiate enrollment in the UCB AED Pregnancy Registry by calling 1-888-537-7734 (toll free).

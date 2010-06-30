@@ -29,7 +29,16 @@ VIMPAT (lacosamide) injection 200 mg/20 mL is a clear, colorless sterile solutio
 | 200 mg/20 mL vial in cartons of 10 vials | NDC 0131-1810-67 |
 | --- | --- |
 
+VIMPAT (lacosamide) oral solution 10 mg/mL is a clear, colorless to yellow or yellow-brown, strawberry-flavored liquid.
+It is supplied in PET bottles.
+
+| 465 mL bottles | NDC 0131-5410-70 |
+| --- | --- |
+
 ## 16.1 Storage
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
+[See USP Controlled Room Temperature].
+
+Do not freeze Vimpat injection or oral solution.
+Discard any unused Vimpat oral solution remaining after seven (7) weeks of first opening the bottle.

@@ -23,8 +23,8 @@ A statistically significant effect was observed with VIMPAT treatment (Figure 1)
 Subset evaluations of VIMPAT demonstrate no important differences in seizure control as a function of gender or race, although data on race was limited (about 10% of patients were non-Caucasian).
 
 Figure 2 presents the percentage of patients (X-axis) with a percent reduction in partial seizure frequency (responder rate) from Baseline to the Maintenance phase at least as great as that represented on the Y-axis.
-A positive value on the Y-axis indicates an improvement from Baseline (i.e., a decrease in seizure frequency), while a negative value indicates a worsening from Baseline (ie, an increase in seizure frequency).
+A positive value on the Y-axis indicates an improvement from Baseline (i.e., a decrease in seizure frequency), while a negative value indicates a worsening from Baseline (i.e., an increase in seizure frequency).
 Thus, in a display of this type, a curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure frequency was consistently higher for the VIMPAT groups compared to the placebo group.
-For example, 40% of patients randomized to VIMPAT (400mg/day) experienced a 50% or greater reduction in seizure frequency, compared to 23% of patients randomized to placebo.
+For example, 40% of patients randomized to VIMPAT (400 mg/day) experienced a 50% or greater reduction in seizure frequency, compared to 23% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.

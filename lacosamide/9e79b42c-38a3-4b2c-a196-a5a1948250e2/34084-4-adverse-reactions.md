@@ -6,14 +6,14 @@ In all controlled and uncontrolled trials in patients with partial-onset seizure
 
 ## 6.1 Clinical Trials Experience
 
-### Controlled Trials
+Controlled Trials
 
-#### Adverse reactions leading to discontinuation
+Adverse reactions leading to discontinuation
 
 In controlled clinical trials, the rate of discontinuation as a result of an adverse event was 8% and 17% in patients randomized to receive VIMPAT at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day, and 5% in patients randomized to receive placebo.
 The adverse events most commonly (>1% in the VIMPAT total group and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and vision blurred.
 
-#### Most common adverse reactions
+Most common adverse reactions
 
 Table 2 gives the incidence of treatment-emergent adverse events that occurred in ≥2% of adult patients with partial-onset seizures in the total VIMPAT group and for which the incidence was greater than placebo.
 The majority of adverse events in the VIMPAT patients were reported with a maximum intensity of 'mild' or 'moderate'.
@@ -52,7 +52,7 @@ Table 2: Treatment-Emergent Adverse Event Incidence in Double-Blind, Placebo-Con
 | Skin and subcutaneous disorders |  |  |  |  |  |
 | Pruritus | 1 | 3 | 2 | 3 | 2 |
 
-#### Laboratory abnormalities
+Laboratory abnormalities
 
 Abnormalities in liver function tests have been observed in controlled trials with VIMPAT in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
 Elevations of ALT to ≥3× ULN occurred in 0.7% (7/935) of VIMPAT patients and 0% (0/356) of placebo patients.
@@ -62,7 +62,7 @@ Transaminases returned to normal within one month without specific treatment.
 At the time of this event, bilirubin was normal.
 The hepatitis/nephritis was interpreted as a delayed hypersensitivity reaction to VIMPAT.
 
-#### Other Adverse Reactions in Patients with Partial-Onset Seizures
+Other Adverse Reactions in Patients with Partial-Onset Seizures
 
 The following is a list of treatment-emergent adverse events reported by patients treated with VIMPAT in all clinical trials in patients with partial-onset seizures, including controlled trials and long-term open-label extension trials.
 Events addressed in other tables or sections are not listed here.
@@ -75,9 +75,7 @@ Cardiac disorders: palpitations
 
 Ear and labyrinth disorders: tinnitus
 
-Gastrointestinal disorders: constipation, dyspepsia, dry mouth, oral hypoaesthesia
-
-General disorders and administration site conditions: irritability, pyrexia, feeling drunk
+Gastrointestinal disorders: constipation, dyspepsia, dry mouth, oral hypoaesthesia General disorders and administration site conditions: irritability, pyrexia, feeling drunk
 
 Injury, poisoning, and procedural complications: fall
 
@@ -87,14 +85,23 @@ Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysart
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
 
-### Intravenous Adverse Reactions
+Intravenous Adverse Reactions
 
 Adverse reactions with intravenous administration generally appeared similar to those observed with the oral formulation, although intravenous administration was associated with local adverse events such as injection site pain or discomfort (2.5%), irritation (1%), and erythema (0.5%).
 One case of profound bradycardia (26 bpm: BP 100/60 mmHg) was observed in a patient during a 15 minute infusion of 150mg VIMPAT.
 This patient was on a beta-blocker.
 Infusion was discontinued and the patient experienced a rapid recovery.
 
-#### Comparison of Gender and Race
+Comparison of Gender and Race
 
 The overall adverse event rate was similar in male and female patients.
 Although there were few non-Caucasian patients, no differences in the incidences of adverse events compared to Caucasian patients were observed.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of VIMPAT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac disorders: Bradycardia
+
+Skin and subcutaneous tissue disorders: Rash

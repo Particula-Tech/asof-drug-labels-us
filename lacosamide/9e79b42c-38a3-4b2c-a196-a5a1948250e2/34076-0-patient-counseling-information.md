@@ -1,4 +1,6 @@
-# 17 PATIENT COUNSELING INFORMATION [See Medication Guide]
+# 17 PATIENT COUNSELING INFORMATION
+
+[See Medication Guide]
 
 Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking VIMPAT.
 Patients should be instructed to take VIMPAT only as prescribed.
@@ -10,7 +12,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 17.2 Dizziness and Ataxia
 
-Patients should be counseled that VIMPAT use may cause dizziness, blurred vision, abnormal coordination and balance, and somnolence.
+Patients should be counseled that VIMPAT use may cause dizziness, double vision, abnormal coordination and balance, and somnolence.
 Patients taking VIMPAT should be advised not to drive, operate complex machinery, or engage in other hazardous activities until they have become accustomed to any such effects associated with VIMPAT.
 
 ## 17.3 Cardiac Rhythm and Conduction Abnormalities
@@ -32,5 +34,3 @@ To ensure broad program access and reach, either a healthcare provider or the pa
 Patients should also be encouraged to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
 This Registry is collecting information about the safety of AEDs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
-
-## 17.6 Medication Guide

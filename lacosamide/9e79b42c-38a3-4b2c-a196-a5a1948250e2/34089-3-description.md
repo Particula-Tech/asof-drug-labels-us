@@ -23,3 +23,8 @@ One 20-mL vial contains 200 mg of lacosamide drug substance.
 The inactive ingredients are sodium chloride and water for injection.
 Hydrochloric acid is used for pH adjustment.
 VIMPAT injection has a pH of 3.5 to 5.0.
+
+## 11.3 VIMPAT Oral Solution
+
+VIMPAT oral solution contains 10 mg of lacosamide per mL.
+The inactive ingredients are purified water, sorbitol solution, glycerin, polyethylene glycol, carboxymethylcellulose sodium, acesulfame potassium, methylparaben, flavoring (including natural and artificial flavors, propylene glycol, aspartame, and maltol), anhydrous citric acid and sodium chloride.

@@ -1,7 +1,8 @@
 {
   "application_numbers": [
     "NDA022253",
-    "NDA022254"
+    "NDA022254",
+    "NDA022255"
   ],
   "inn": "lacosamide",
   "labeler": "Schwarz Pharma Manufacturing, Inc.",
@@ -13,11 +14,17 @@
     "0131-2478-35",
     "0131-2478-99",
     "0131-2479-35",
-    "0131-2480-35"
+    "0131-2480-35",
+    "0131-5410-70"
   ],
   "products": [
     {
       "form": "INJECTION",
+      "generic": "lacosamide",
+      "name": "VIMPAT"
+    },
+    {
+      "form": "SOLUTION",
       "generic": "lacosamide",
       "name": "VIMPAT"
     },

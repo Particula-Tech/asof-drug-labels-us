@@ -49,7 +49,7 @@ There was a substantial increase in these adverse events at doses higher than 40
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
-### PR interval prolongation
+PR interval prolongation
 
 Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers.
 [see Clinical Pharmacology (12.2)] In clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
@@ -59,7 +59,7 @@ When VIMPAT is given with other drugs that prolong the PR interval, further PR p
 VIMPAT should be used with caution in patients with known conduction problems (e.g. marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), or with severe cardiac disease such as myocardial ischemia or heart failure.
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state, is recommended.
 
-### Atrial fibrillation and Atrial flutter
+Atrial fibrillation and Atrial flutter
 
 In the short-term investigational trials of VIMPAT in epilepsy patients, there were no cases of atrial fibrillation or flutter.
 In patients with diabetic neuropathy, 0.5% of patients treated with VIMPAT experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
@@ -90,3 +90,8 @@ Additional potential cases included 2 with rash and elevated liver enzymes and 1
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, or DRESS) have been reported with other anticonvulsants and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis.
 Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur.
 If this reaction is suspected, VIMPAT should be discontinued and alternative treatment started.
+
+## 5.7 Phenylketonurics
+
+VIMPAT oral solution contains aspartame, a source of phenylalanine.
+A 200 mg dose of VIMPAT oral solution (equivalent to 20 mL) contains 0.32 mg of phenylalanine.

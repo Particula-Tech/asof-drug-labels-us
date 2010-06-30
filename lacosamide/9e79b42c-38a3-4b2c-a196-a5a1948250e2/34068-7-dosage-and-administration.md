@@ -2,6 +2,10 @@
 
 VIMPAT may be taken with or without food.
 
+When using VIMPAT oral solution, it is recommended that a calibrated measuring device be obtained and used.
+A household teaspoon or tablespoon is not an adequate measuring device.
+Healthcare providers should recommend a device that can measure and deliver the prescribed dose accurately, and provide instructions for measuring the dosage.
+
 ## 2.1 Partial-Onset Seizures
 
 VIMPAT can be initiated with either oral or intravenous administration.
