@@ -5,7 +5,9 @@
   "inn": "latanoprost",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
-    "0013-8303-04"
+    "0013-8303-04",
+    "0013-8303-98",
+    "0013-8400-99"
   ],
   "products": [
     {
