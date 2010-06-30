@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050680"
+  ],
   "inn": "clindamycin",
-  "labeler": "Pharmacia and Upjoin Co.",
+  "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0009-3448-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clindamycin phosphate",
+      "name": "Cleocin"
+    }
+  ],
   "setid": "f9be442d-0782-4b93-828f-9ebbf67dbced",
   "source": "dailymed"
 }

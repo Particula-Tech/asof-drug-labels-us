@@ -1,4 +1,4 @@
-## Cleocin® (clindamycin phosphate vaginal cream, USP)
+# Cleocin® (clindamycin phosphate vaginal cream, USP)
 
 FOR INTRAVAGINAL USE ONLY
 
