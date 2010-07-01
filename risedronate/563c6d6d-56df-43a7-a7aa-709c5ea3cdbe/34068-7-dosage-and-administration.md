@@ -17,11 +17,17 @@ No dosage adjustment is necessary in patients with a creatinine clearance ≥30 
 The recommended regimen is:
 
 - one 5 mg tablet orally, taken daily
-  - or
+
+or
+
 - one 35 mg tablet orally, taken once a week
-  - or
+
+or
+
 - one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month
-  - or
+
+or
+
 - one 150 mg tablet orally, taken once a month
 
 ## 2.2 Prevention of Postmenopausal Osteoporosis
@@ -31,11 +37,17 @@ The recommended regimen is:
 The recommended regimen is:
 
 - one 5 mg tablet orally, taken daily
-  - or
+
+or
+
 - one 35 mg tablet orally, taken once a week
-  - or
+
+or
+
 - alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered
-  - or
+
+or
+
 - alternatively, one 150 mg tablet orally, taken once a month may be considered
 
 ## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
@@ -54,7 +66,7 @@ The recommended regimen is:
 
 - one 5 mg tablet orally, taken daily
 
-## 2.5 Treatment of Paget's Disease
+## 2.5 Treatment of Paget’s Disease
 
 [see Indications and Usage (1.4)]
 

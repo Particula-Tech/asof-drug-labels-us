@@ -31,9 +31,9 @@ ACTONEL decreases bone resorption without directly inhibiting bone formation.
 
 In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, ACTONEL 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
 
-Paget's Disease
+Paget’s Disease
 
-Paget's disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disordered bone remodeling.
+Paget’s disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disordered bone remodeling.
 Excessive osteoclastic bone resorption is followed by osteoblastic new bone formation, leading to the replacement of the normal bone architecture by disorganized, enlarged, and weakened bone structure.
 
 In pagetic patients treated with ACTONEL 30 mg daily for 2 months, bone turnover returned to normal in a majority of patients as evidenced by significant reductions in serum alkaline phosphatase (a marker of bone formation), and in urinary hydroxyproline/creatinine and deoxypyridinoline/creatinine (markers of bone resorption).
@@ -90,7 +90,7 @@ As compared to persons with normal renal function, the renal clearance of risedr
 ACTONEL is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min.
 
-Hepatic Impairment: No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
+Hepatic Impairment: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
 Insignificant amounts (<0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.

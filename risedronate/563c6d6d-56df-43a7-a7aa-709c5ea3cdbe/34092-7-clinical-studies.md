@@ -12,7 +12,7 @@ Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) 
 Effect on Vertebral Fractures
 
 Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (i.e., clinical fractures).
-Spinal radiographs were scheduled annually and prospectively planned analyses were based on the time to a patient's first diagnosed fracture.
+Spinal radiographs were scheduled annually and prospectively planned analyses were based on the time to a patient’s first diagnosed fracture.
 The primary endpoint for these studies was the incidence of new and worsening vertebral fractures across the period of 0 to 3 years.
 ACTONEL 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
 The reduction in risk seen in the subgroup of patients who had 2 or more vertebral fractures at study entry was similar to that seen in the overall study population.
@@ -58,18 +58,18 @@ In both VERT studies (VERT MN and VERT NA), ACTONEL 5 mg daily produced increase
 
 Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking ACTONEL 5 mg or Placebo at Endpointa
 
-|  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
-| Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
-| Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
-| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
-| Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
-| a The endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
-| b The duration of the studies was 3 years. |  |  |  |  |  |  |  |  |
-| c The duration of the studies was 1.5 to 2 years. |  |  |  |  |  |  |  |  |
-| * BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). |  |  |  |  |  |  |  |  |
-| ND = analysis not done |  |  |  |  |  |  |  |  |
+|  |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | VERT MNb |  | VERT NAb |  | BMD MNc |  | BMD NAc |  |
+|  | Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0.0 | 4.0 | 0.2 | 4.8 |
+|  | Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
+|  | Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
+|  | Midshaft Radius | -1.5* | 0.2* | -1.2* | 0.1* | ND |  | ND |  |
+|  | a The endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
+|  | b The duration of the studies was 3 years. |  |  |  |  |  |  |  |  |
+|  | c The duration of the studies was 1.5 to 2 years. |  |  |  |  |  |  |  |  |
+|  | * BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306). |  |  |  |  |  |  |  |  |
+|  | ND = analysis not done |  |  |  |  |  |  |  |  |
 
 ACTONEL 35 mg once-a-week (N = 485) was shown to be non-inferior to ACTONEL 5 mg daily (N = 480) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4.0% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
@@ -198,17 +198,17 @@ The histomorphometric parameter mineralizing surface, a measure of bone turnover
 Mineralizing surface decreased 24% (median percent change) in these patients.
 Only a small number of placebo-treated patients had both baseline and post-treatment biopsy samples, precluding a meaningful quantitative assessment.
 
-## 14.5 Treatment of Paget's Disease
+## 14.5 Treatment of Paget’s Disease
 
 The efficacy of ACTONEL was demonstrated in 2 clinical studies involving 120 men and 65 women.
-In a double-blind, active-controlled study of patients with moderate-to-severe Paget's disease (serum alkaline phosphatase levels of at least 2 times the upper limit of normal), patients were treated with ACTONEL 30 mg daily for 2 months or Didronel® (etidronate disodium) 400 mg daily for 6 months.
+In a double-blind, active-controlled study of patients with moderate-to-severe Paget’s disease (serum alkaline phosphatase levels of at least 2 times the upper limit of normal), patients were treated with ACTONEL 30 mg daily for 2 months or Didronel® (etidronate disodium) 400 mg daily for 6 months.
 At Day 180, 77% (43/56) of ACTONEL-treated patients achieved normalization of serum alkaline phosphatase levels, compared to 10.5% (6/57) of patients treated with Didronel (p<0.001).
 At Day 540, 16 months after discontinuation of therapy, 53% (17/32) of ACTONEL-treated patients and 14% (4/29) of Didronel-treated patients with available data remained in biochemical remission.
 
 During the first 180 days of the active-controlled study, 85% (51/60) of ACTONEL-treated patients demonstrated a ≥75% reduction from baseline in serum alkaline phosphatase excess (difference between measured level and midpoint of the normal range) with 2 months of treatment compared to 20% (12/60) in the Didronel-treated group with 6 months of treatment (p<0.001).
 Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were significant following only 30 days of treatment, with a 36% reduction in serum alkaline phosphatase excess at that time compared to only a 6% reduction seen with Didronel treatment at the same time point (p<0.01).
 
-Response to ACTONEL therapy was similar in patients with mild to very severe Paget's disease.
+Response to ACTONEL therapy was similar in patients with mild to very severe Paget’s disease.
 Table 6 shows the mean percent reduction from baseline at Day 180 in excess serum alkaline phosphatase in patients with mild, moderate, or severe disease.
 
 Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline Phosphatase Excess by Disease Severity

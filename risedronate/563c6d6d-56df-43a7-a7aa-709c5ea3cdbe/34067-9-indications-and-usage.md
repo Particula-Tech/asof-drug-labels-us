@@ -14,6 +14,6 @@ ACTONEL is indicated for treatment to increase bone mass in men with osteoporosi
 ACTONEL is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of ≥ 7.5 mg prednisone or equivalent) for chronic diseases.
 Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
 
-## 1.4 Paget's Disease
+## 1.4 Paget’s Disease
 
-ACTONEL is indicated for treatment of Paget's disease of bone in men and women.
+ACTONEL is indicated for treatment of Paget’s disease of bone in men and women.

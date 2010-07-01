@@ -1,10 +1,14 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 5 mg label
 
 Important Patient Information
 
-NDC 0149-0471-01 LIST 80047101
+NDC 0149-0471-01
 
-Actonel® (risedronate sodium) tablets
+LIST 80047101
+
+Actonel®
+
+(risedronate sodium) tablets
 
 5 mg
 
@@ -14,13 +18,17 @@ Actonel® (risedronate sodium) tablets
 
 Rx Only
 
-PRINCIPAL DISPLAY PANEL - 30 mg Label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 30 mg label
 
 Important Patient Information
 
-NDC 0149-0470-01 LIST 80047001
+NDC 0149-0470-01
 
-Actonel® (risedronate sodium tablets)
+LIST 80047001
+
+Actonel®
+
+(risedronate sodium tablets)
 
 30 mg
 
@@ -30,19 +38,27 @@ Actonel® (risedronate sodium tablets)
 
 Rx Only
 
-EXP CN
+EXP
 
-PRINCIPAL DISPLAY PANEL - 35 mg Carton
+CN
 
-4 Week Supply (4 tablets)
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 35 MG CARTON
 
-Actonel® (risedronate sodium) tablets
+4 Week Supply
+
+(4 tablets)
+
+Actonel®
+
+(risedronate sodium) tablets
 
 35 mg
 
 99568881
 
-NDC 0149-0472-01 List 80047201
+NDC 0149-0472-01
+
+List 80047201
 
 Rx Only
 
@@ -52,17 +68,23 @@ Lift to Open
 
 NDC BARCODE
 
-PRINCIPAL DISPLAY PANEL - 75 mg Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 75 MG CARTON
 
-One Month Pack (2 tablets)
+One Month Pack
 
-Actonel® (risedronate sodium tablets)
+(2 tablets)
+
+Actonel®
+
+(risedronate sodium tablets)
 
 75 mg
 
 95673554
 
-NDC 0149-0477-01 List 80047701
+NDC 0149-0477-01
+
+List 80047701
 
 Rx Only
 
@@ -72,17 +94,23 @@ Lift to Open
 
 NDC BARCODE
 
-PRINCIPAL DISPLAY PANEL - 150 mg Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 150 MG CARTON
 
-One Month Pack (1 tablet)
+One Month Pack
 
-Actonel® (risedronate sodium) tablets
+(1 tablet)
+
+Actonel®
+
+(risedronate sodium) tablets
 
 150 mg
 
 98639666
 
-NDC 0149-0478-01 List 84986719
+NDC 0149-0478-01
+
+List 84986719
 
 Rx Only
 

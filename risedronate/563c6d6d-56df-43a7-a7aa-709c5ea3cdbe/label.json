@@ -3,7 +3,7 @@
     "NDA020835"
   ],
   "inn": "risedronate",
-  "labeler": "Warner Chilcott Limited",
+  "labeler": "Warner Chilcott Pharmaceuticals Inc.",
   "package_ndcs": [
     "0149-0470-01",
     "0149-0471-01",
@@ -14,7 +14,8 @@
     "0149-0477-01",
     "0149-0478-01",
     "0149-0478-02",
-    "0149-0478-03"
+    "0149-0478-03",
+    "0149-0478-06"
   ],
   "products": [
     {

@@ -3,7 +3,7 @@
 ## 5.1 Upper Gastrointestinal Adverse Reactions
 
 ACTONEL, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
-Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when ACTONEL is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when ACTONEL is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
 
 Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates.
 In some cases, these have been severe and required hospitalization.
@@ -18,7 +18,7 @@ There have been post-marketing reports of gastric and duodenal ulcers with oral 
 ## 5.2 Mineral Metabolism
 
 Hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting ACTONEL therapy.
-Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget's disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
+Adequate intake of calcium and vitamin D is important in all patients, especially in patients with Paget’s disease in whom bone turnover is significantly elevated [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17.1)].
 
 ## 5.3 Jaw Osteonecrosis
 

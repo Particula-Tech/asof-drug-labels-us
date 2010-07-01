@@ -51,7 +51,7 @@ Other adverse events reported in ≥10% of patients treated with risedronate and
 ## 8.5 Geriatric Use
 
 Of the patients receiving ACTONEL in postmenopausal osteoporosis studies [see Clinical Studies (14)], 47% were between 65 and 75 years of age, and 17% were over 75.
-The corresponding proportions were 26% and 11% in glucocorticoid-induced osteoporosis trials, and 40% and 26% in Paget's disease trials.
+The corresponding proportions were 26% and 11% in glucocorticoid-induced osteoporosis trials, and 40% and 26% in Paget’s disease trials.
 No overall differences in efficacy between geriatric and younger patients were observed in these studies.
 In the male osteoporosis trial, 28% of patients receiving ACTONEL were between 65 and 75 years of age and 9% were over 75.
 The lumbar spine BMD response for ACTONEL compared to placebo was 5.6% for subjects <65 years and 2.9% for subjects ≥65 years.
@@ -64,6 +64,6 @@ No dosage adjustment is necessary in patients with a creatinine clearance ≥30 
 
 ## 8.7 Hepatic Impairment
 
-No studies have been performed to assess risedronate's safety or efficacy in patients with hepatic impairment.
+No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in human liver preparations.
 Dosage adjustment is unlikely to be needed in patients with hepatic impairment.

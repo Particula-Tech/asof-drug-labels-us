@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Treatment of Postmenopausal Osteoporosis
+### Treatment of Postmenopausal Osteoporosis
 
 Daily Dosing
 
@@ -21,53 +21,53 @@ Adverse events are shown without attribution of causality.
 
 Table 1 Adverse Events Occurring at a Frequency ≥5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials
 
-| % | % |  |
-| --- | --- | --- |
-| Body System | Placebo N = 1619 | 5 mg ACTONEL N = 1613 |
-| Body as a Whole |  |  |
-| Infection | 29.9 | 31.1 |
-| Back Pain | 26.1 | 28.0 |
-| Accidental Injury | 16.8 | 16.9 |
-| Pain | 14.0 | 14.1 |
-| Abdominal Pain | 9.9 | 12.2 |
-| Flu Syndrome | 11.6 | 10.5 |
-| Headache | 10.8 | 9.9 |
-| Asthenia | 4.5 | 5.4 |
-| Neck Pain | 4.7 | 5.4 |
-| Chest Pain | 5.1 | 5.0 |
-| Allergic Reaction | 5.9 | 3.8 |
-| Cardiovascular System |  |  |
-| Hypertension | 9.8 | 10.5 |
-| Digestive System |  |  |
-| Constipation | 12.6 | 12.9 |
-| Diarrhea | 10.0 | 10.8 |
-| Dyspepsia | 10.6 | 10.8 |
-| Nausea | 11.2 | 10.5 |
-| Metabolic & Nutritional Disorders |  |  |
-| Peripheral Edema | 8.8 | 7.7 |
-| Musculoskeletal System |  |  |
-| Arthralgia | 22.1 | 23.7 |
-| Arthritis | 10.1 | 9.6 |
-| Traumatic Bone Fracture | 12.3 | 9.3 |
-| Joint Disorder | 5.3 | 7.0 |
-| Myalgia | 6.2 | 6.7 |
-| Bone Pain | 4.8 | 5.3 |
-| Nervous System |  |  |
-| Dizziness | 5.7 | 7.1 |
-| Depression | 6.1 | 6.8 |
-| Insomnia | 4.6 | 5.0 |
-| Respiratory System |  |  |
-| Bronchitis | 10.4 | 10.0 |
-| Sinusitis | 9.1 | 8.7 |
-| Rhinitis | 5.1 | 6.2 |
-| Pharyngitis | 5.0 | 6.0 |
-| Increased Cough | 6.3 | 5.9 |
-| Skin and Appendages |  |  |
-| Rash | 7.1 | 7.9 |
-| Special Senses |  |  |
-| Cataract | 5.7 | 6.5 |
-| Urogenital System |  |  |
-| Urinary Tract Infection | 10.4 | 11.1 |
+| % | % |  |  |  |
+| --- | --- | --- | --- | --- |
+| Body System | Placebo N = 1619 | 5 mg ACTONEL N = 1613 |  |  |
+| Body as a Whole |  |  |  |  |
+| Infection | 29.9 | 31.1 |  |  |
+| Back Pain | 26.1 | 28.0 |  |  |
+| Accidental Injury | 16.8 | 16.9 |  |  |
+| Pain | 14.0 | 14.1 |  |  |
+| Abdominal Pain | 9.9 | 12.2 |  |  |
+| Flu Syndrome | 11.6 | 10.5 |  |  |
+| Headache | 10.8 | 9.9 |  |  |
+| Asthenia | 4.5 | 5.4 |  |  |
+| Neck Pain | 4.7 | 5.4 |  |  |
+| Chest Pain | 5.1 | 5.0 |  |  |
+| Allergic Reaction | 5.9 | 3.8 |  |  |
+| Cardiovascular System |  |  |  |  |
+| Hypertension | 9.8 | 10.5 |  |  |
+| Digestive System |  |  |  |  |
+| Constipation | 12.6 | 12.9 |  |  |
+| Diarrhea | 10.0 | 10.8 |  |  |
+| Dyspepsia | 10.6 | 10.8 |  |  |
+| Nausea | 11.2 | 10.5 |  |  |
+| Metabolic & Nutritional Disorders |  |  |  |  |
+| Peripheral Edema | 8.8 | 7.7 |  |  |
+| Musculoskeletal System |  |  |  |  |
+| Arthralgia | 22.1 | 23.7 |  |  |
+| Arthritis | 10.1 | 9.6 |  |  |
+| Traumatic Bone Fracture | 12.3 | 9.3 |  |  |
+| Joint Disorder | 5.3 | 7.0 |  |  |
+| Myalgia | 6.2 | 6.7 |  |  |
+| Bone Pain | 4.8 | 5.3 |  |  |
+| Nervous System |  |  |  |  |
+| Dizziness | 5.7 | 7.1 |  |  |
+| Depression | 6.1 | 6.8 |  |  |
+| Insomnia | 4.6 | 5.0 |  |  |
+| Respiratory System |  |  |  |  |
+| Bronchitis | 10.4 | 10.0 |  |  |
+| Sinusitis | 9.1 | 8.7 |  |  |
+| Rhinitis | 5.1 | 6.2 |  |  |
+| Pharyngitis | 5.0 | 6.0 |  |  |
+| Increased Cough | 6.3 | 5.9 |  |  |
+| Skin and Appendages |  |  |  |  |
+| Rash | 7.1 | 7.9 |  |  |
+| Special Senses |  |  |  |  |
+| Cataract | 5.7 | 6.5 |  |  |
+| Urogenital System |  |  |  |  |
+| Urinary Tract Infection | 10.4 | 11.1 |  |  |
 
 Gastrointestinal Adverse Events: The incidence of adverse events in the placebo and ACTONEL 5 mg daily groups were: abdominal pain (9.9% vs. 12.2%), diarrhea (10.0% vs. 10.8%), dyspepsia (10.6% vs. 10.8%), and gastritis (2.3% vs. 2.7%).
 Duodenitis and glossitis have been reported uncommonly in the ACTONEL 5 mg daily group (0.1% to 1%).
@@ -160,7 +160,7 @@ Laboratory Test Findings: When ACTONEL 5 mg daily and ACTONEL 150 mg once-a-mont
 Compared to the ACTONEL 5 mg daily regimen, ACTONEL 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% vs. 2.2%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
-Prevention of Postmenopausal Osteoporosis
+### Prevention of Postmenopausal Osteoporosis
 
 Daily Dosing
 
@@ -186,12 +186,12 @@ Once-a-Week Dosing
 There were no deaths in a 1-year, double-blind, placebo-controlled study of ACTONEL 35 mg once a week for prevention of bone loss in 278 postmenopausal women without osteoporosis.
 More treated subjects on ACTONEL reported arthralgia (placebo 7.8%; ACTONEL 13.9%), myalgia (placebo 2.1%; ACTONEL 5.1%), and nausea (placebo 4.3%; ACTONEL 7.3%) than subjects on placebo.
 
-Treatment to Increase Bone Mass in Men with Osteoporosis
+### Treatment to Increase Bone Mass in Men with Osteoporosis
 
 In a 2-year, double-blind, multicenter study, 284 men with osteoporosis were treated with placebo (N = 93) or ACTONEL 35 mg once-a-week (N = 191).
 The overall safety and tolerability profile of ACTONEL in men with osteoporosis was similar to the adverse events reported in the ACTONEL postmenopausal osteoporosis clinical trials, with the addition of benign prostatic hyperplasia (placebo 3%; ACTONEL 35 mg 5%), nephrolithiasis (placebo 0%; ACTONEL 35 mg 3%), and arrhythmia (placebo 0%; ACTONEL 35 mg 2%).
 
-Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
+### Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
 The safety of ACTONEL 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 344 patients [male (123) and female (221)] aged 18 to 85 years who had recently initiated oral glucocorticoid therapy (≤ 3 months, prevention study) or were on long-term oral glucocorticoid therapy (≥ 6 months, treatment study).
 The duration of the trials was one year, with 170 patients exposed to placebo and 174 patients exposed to ACTONEL 5 mg daily.
@@ -203,10 +203,10 @@ The percentage of patients who withdrew from the study due to adverse events was
 Back pain was reported in 8.8% of patients in the placebo group and 17.8% of patients in the ACTONEL 5 mg daily group.
 Arthralgia was reported in 14.7% of patients in the placebo group and 24.7% of patients in the ACTONEL 5 mg daily group.
 
-Treatment of Paget's Disease
+### Treatment of Paget’s Disease
 
-ACTONEL has been studied in 392 patients with Paget's disease of bone.
-As in trials of ACTONEL for other indications, the adverse experiences reported in the Paget's disease trials have generally been mild or moderate, have not required discontinuation of treatment, and have not appeared to be related to patient age, gender, or race.
+ACTONEL has been studied in 392 patients with Paget’s disease of bone.
+As in trials of ACTONEL for other indications, the adverse experiences reported in the Paget’s disease trials have generally been mild or moderate, have not required discontinuation of treatment, and have not appeared to be related to patient age, gender, or race.
 
 The safety of ACTONEL was assessed in a randomized, double-blind, active-controlled study of 122 patients aged 34 to 85 years.
 The duration of the trial was 540 days, with 61 patients exposed to ACTONEL and 61 patients exposed to Didronel.

@@ -11,10 +11,10 @@ If you have any questions or are not sure about something, ask your healthcare p
 What is the most important information I should know about ACTONEL?
 
 ACTONEL may cause problems in your stomach and esophagus (the tube that connects the mouth and the stomach), such as trouble swallowing (dysphagia), heartburn (esophagitis), and ulcers.
-You might feel pain in your bones, joints, or muscles (See "What are the Possible Side Effects of ACTONEL?").
+You might feel pain in your bones, joints, or muscles (See “What are the Possible Side Effects of ACTONEL?”).
 
 You must follow the instructions exactly for ACTONEL to work and to lower the chance of serious side effects.
-(See "How should I take ACTONEL?").
+(See “How should I take ACTONEL?”).
 
 What is ACTONEL?
 
@@ -23,12 +23,12 @@ ACTONEL is a prescription medicine used:
 - to prevent and treat osteoporosis in postmenopausal women.
 - to increase bone mass in men with osteoporosis.
 - to prevent and treat osteoporosis in men and women that is caused by treatment with steroid medicines such as prednisone.
-- to treat Paget's disease of bone in men and women.
-  The treatment for Paget's disease is very different than for osteoporosis and uses a different dose of ACTONEL.
-  This leaflet does not cover using ACTONEL for Paget's disease.
-  If you have Paget's disease, ask your healthcare provider how to use ACTONEL.
+- to treat Paget’s disease of bone in men and women.
+  The treatment for Paget’s disease is very different than for osteoporosis and uses a different dose of ACTONEL.
+  This leaflet does not cover using ACTONEL for Paget’s disease.
+  If you have Paget’s disease, ask your healthcare provider how to use ACTONEL.
 
-ACTONEL may reverse bone loss by stopping more loss of bone and increasing bone strength in most people who take it, even though they won't be able to see or feel a difference.
+ACTONEL may reverse bone loss by stopping more loss of bone and increasing bone strength in most people who take it, even though they won’t be able to see or feel a difference.
 ACTONEL helps lower the risk of breaking bones (fractures).
 Your healthcare provider may measure the thickness (density) of your bones or do other tests to check your progress.
 
@@ -101,7 +101,7 @@ You should call your healthcare provider for instructions.
 What should I avoid while taking ACTONEL?
 
 - Do not eat or drink anything except water before you take ACTONEL and for at least 30 minutes after you take it.
-  See "How should I take ACTONEL?".
+  See “How should I take ACTONEL?”.
 - Do not lie down for at least 30 minutes after you take ACTONEL.
 - Foods and some vitamin supplements and medicines can stop your body from absorbing (using) ACTONEL.
   Therefore, do not take anything other than plain water at or near the time you take ACTONEL.
@@ -112,7 +112,7 @@ Stop taking ACTONEL and tell your healthcare provider right away if:
 
 - swallowing is difficult or painful
 - you have chest pain
-- you have very bad heartburn or it doesn't get better
+- you have very bad heartburn or it doesn’t get better
 
 Possible serious side effects may include:
 
