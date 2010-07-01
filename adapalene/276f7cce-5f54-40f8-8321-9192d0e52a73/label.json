@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090824"
+  ],
+  "inn": "adapalene",
+  "labeler": "E. FOUGERA & CO. , A division of Nycomed US Inc.",
+  "package_ndcs": [
+    "0168-0424-46"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "adapalene",
+      "name": "Adapalene"
+    }
+  ],
+  "setid": "276f7cce-5f54-40f8-8321-9192d0e52a73",
+  "source": "dailymed"
+}
