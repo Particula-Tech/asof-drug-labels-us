@@ -30,16 +30,25 @@ Table 1: Number of Patients Experiencing Adverse Events from Two 12-Week, Double
 
 Adverse events occurring in patients treated with BROVANA 15 mcg twice daily with a frequency of <2%, but greater than placebo were as follows:
 
-- Body as a Whole: abscess, allergic reaction, digitalis intoxication, fever, hernia, injection site pain, neck rigidity, neoplasm, pelvic pain, retroperitoneal hemorrhage
-- Cardiovascular: arteriosclerosis, atrial flutter, AV block, congestive heart failure, heart block, myocardial infarct, QT interval prolonged, supraventricular tachycardia, inverted T-wave
-- Digestive: constipation, gastritis, melena, oral moniliasis, periodontal abscess, rectal hemorrhage
-- Metabolic and Nutritional Disorders: dehydration, edema, glucose tolerance decreased, gout, hyperglycemia, hyperlipemia, hypoglycemia, hypokalemia
-- Musculoskeletal: arthralgia, arthritis, bone disorder, rheumatoid arthritis, tendinous contracture
-- Nervous: agitation, cerebral infarct, circumoral paresthesia, hypokinesia, paralysis, somnolence, tremor
-- Respiratory: carcinoma of the lung, respiratory disorder, voice alteration
-- Skin and Appendages: dry skin, herpes simplex, herpes zoster, skin discoloration, skin hypertrophy
-- Special Senses: abnormal vision, glaucoma
-- Urogenital: breast neoplasm, calcium crystalluria, cystitis, glycosuria, hematuria, kidney calculus, nocturia, PSA increase, pyuria, urinary tract disorder, urine abnormality.
+Body as a Whole: abscess, allergic reaction, digitalis intoxication, fever, hernia, injection site pain, neck rigidity, neoplasm, pelvic pain, retroperitoneal hemorrhage
+
+Cardiovascular: arteriosclerosis, atrial flutter, AV block, congestive heart failure, heart block, myocardial infarct, QT interval prolonged, supraventricular tachycardia, inverted T-wave
+
+Digestive: constipation, gastritis, melena, oral moniliasis, periodontal abscess, rectal hemorrhage
+
+Metabolic and Nutritional Disorders: dehydration, edema, glucose tolerance decreased, gout, hyperglycemia, hyperlipemia, hypoglycemia, hypokalemia
+
+Musculoskeletal: arthralgia, arthritis, bone disorder, rheumatoid arthritis, tendinous contracture
+
+Nervous: agitation, cerebral infarct, circumoral paresthesia, hypokinesia, paralysis, somnolence, tremor
+
+Respiratory: carcinoma of the lung, respiratory disorder, voice alteration
+
+Skin and Appendages: dry skin, herpes simplex, herpes zoster, skin discoloration, skin hypertrophy
+
+Special Senses: abnormal vision, glaucoma
+
+Urogenital: breast neoplasm, calcium crystalluria, cystitis, glycosuria, hematuria, kidney calculus, nocturia, PSA increase, pyuria, urinary tract disorder, urine abnormality.
 
 Overall, the frequency of all cardiovascular adverse events for BROVANA in the two placebo controlled trials was low and comparable to placebo (6.9% in BROVANA 15 mcg twice daily and 13.3% in the placebo group).
 There were no frequently occurring specific cardiovascular adverse events for BROVANA (frequency ≥1% and greater than placebo).

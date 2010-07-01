@@ -1,11 +1,10 @@
-## MEDICATION GUIDE
+# MEDICATION GUIDE
 
-BROVANA[Brō vă `-nah]
+BROVANA [Brō vă -´nah]
 
 (arformoterol tartrate) Inhalation Solution
 
-| IMPORTANT USE INFORMATION BROVANA is for use with a standard jet nebulizer machine connected to an air compressor. Read the complete instructions for use at the end of this Medication Guide before starting BROVANA.Do not swallow or inject BROVANA. BROVANA is for inhalation use only. |
-| --- |
+BROVANA is only for use with a nebulizer.
 
 Read the Medication Guide that comes with BROVANA before you start using it and each time you get a refill.
 There may be new information.
@@ -13,26 +12,35 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about BROVANA?
 
-BROVANA is a medicine called a long-acting beta2-agonist or LABA.
-BROVANA is used to treat chronic obstructive pulmonary disease (COPD).
+BROVANA can cause serious side effects, including:
 
-- In patients with asthma, LABA medicines such as BROVANA may increase the chance of asthma-related death from asthma problems.
-- It is not known if LABA medicines, such as BROVANA, increase the chance of death in patients with chronic obstructive pulmonary disease (COPD).
-- BROVANA does not relieve sudden symptoms of COPD.
-  Always have a short-acting beta2-agonist medicine with you to treat sudden symptoms.
-  If you do not have an inhaled short-acting bronchodilator, call your healthcare provider to have one prescribed for you.
+- People with asthma, who take long-acting beta2 adrenergic agonist (LABA) medicines, such as BROVANA, have an increased risk of death from asthma problems.
+- It is not known if LABA medicines, such as BROVANA, increase the risk of death in people with chronic obstructive pulmonary disease (COPD).
 - Get emergency medical care if:
   - breathing problems worsen quickly
-  - you use your short-acting beta2-agonist medicine, but it does not relieve your breathing problems
-- Do not stop using BROVANA unless told to do so by your healthcare provider because your symptoms might get worse.
-- BROVANA should not be used in children.
-  BROVANA has not been studied in children.
+  - you use your rescue inhaler medicine, but it does not relieve your breathing problems
 
 What is BROVANA?
 
-BROVANA is used long term, twice a day (morning and evening), in controlling symptoms of chronic obstructive pulmonary disease (COPD) in adults with COPD.
+BROVANA is used long term, 2 times each day (morning and evening), in controlling symptoms of chronic obstructive pulmonary disease (COPD) in adults with COPD.
+
+BROVANA is only for use with a nebulizer.
 
 LABA medicines such as BROVANA help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing, cough, chest tightness, and shortness of breath.
+
+BROVANA should not be used in children.
+It is not known if BROVANA is safe and effective in children.
+
+It is not known if BROVANA is safe and effective in people with asthma.
+
+Who should not use BROVANA?
+
+Do not use BROVANA if you:
+
+- have had a serious allergic reaction to arformoterol, formoterol, or any of the ingredients in BROVANA.
+  Ask your healthcare provider if you are not sure.
+  See the end of this Medication Guide for a complete list of ingredients in BROVANA.
+- have asthma without using a long-term asthma control medicine.
 
 What should I tell my healthcare provider before using BROVANA?
 
@@ -65,45 +73,63 @@ Read the step-by-step instructions for using BROVANA at the end of this Medicati
   The usual dose of BROVANA is 1 ready-to-use vial, twice a day (morning and evening) breathed in through your nebulizer machine.
   The 2 doses should be about 12 hours apart.
   Do not use more than 2 ready-to-use vials of BROVANA a day.
+- Do not swallow or inject BROVANA.
+- BROVANA is for use with a standard jet nebulizer machine connected to an air compressor.
+  Read the complete instructions for use at the end of this Medication Guide before starting BROVANA.
 - Do not mix other medicines with BROVANA in your nebulizer machine.
 - If you miss a dose of BROVANA.
   Just skip that dose.
   Take your next dose at your usual time.
   Do not take 2 doses at one time.
-- While you are using BROVANA twice a day:
+- While you are using BROVANA 2 times each day:
   - do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
   - do not use your short-acting beta2-agonist medicine on a regular basis (four times a day).
-- Make sure you always have a short-acting beta2-agonist medicine with you.
-  Use your short-acting beta2-agonist medicine if you have breathing problems between doses of BROVANA.
-- Do not change or stop any of your medicines to control or treat your COPD breathing problems.
-  Your healthcare provider will adjust your medicines as needed.
+- BROVANA does not relieve sudden symptoms of COPD.
+  Always have a rescue inhaler medicine with you to treat sudden symptoms.
+  If you do not have a rescue inhaler medicine, call your healthcare provider to have one prescribed for you.
+- Do not stop using BROVANA or other medicines to control or treat your COPD unless told to do so by your healthcare provider because your symptoms might get worse.
+  Your healthcare provider will change your medicines as needed.
+- Do not use BROVANA:
+  - more often than prescribed
+  - more medicine than prescribed for you
+  - with other LABA medicines
 
 Call your healthcare provider or get emergency medical care right away if:
 
 - your breathing problems worsen with BROVANA
-- you need to use your short-acting beta2-agonist medicine more often than usual
-- your short-acting beta2-agonist medicine does not work as well for you at relieving symptoms
+- you need to use your rescue inhaler medicine more often than usual
+- your rescue inhaler medicine does not work as well for you at relieving symptoms
 
 What are the possible side effects with BROVANA?
 
-- In patients with asthma, LABA medicines such as BROVANA may increase the chance of asthma-related death from asthma problems.
+BROVANA can cause serious side effects, including:
+
+- See “What is the most important information I should know about BROVANA?”
+- Sudden shortness of breath immediately after use of Brovana
+- If your COPD symptoms worsen over time do not increase your dose of Brovana, instead call your healthcare provider.
+- Increased blood pressure
+- Fast or irregular heartbeat
 - serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
   Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.
-- chest pain
-- increased or decreased blood pressure
-- a fast and irregular heartbeat
+
+Common side effects of BROVANA include:
+
+- chest or back pain
+- diarrhea
+- sinus congestion
 - headache
 - tremor
 - nervousness
-- dry mouth
-- muscle cramps
-- nausea, vomiting
-- dizziness
+- leg cramps
+- high blood potassium
+- shortness of breath
+- rash
+- fever
+- increased white blood cells
+- vomiting
 - tiredness
-- low or high blood potassium
-- high blood sugar
-- high blood acid
-- trouble sleeping
+- leg swelling
+- chest congestion or bronchitis
 
 Tell your healthcare provider if you get any side effect that bothers you or that does not go away.
 
@@ -120,7 +146,7 @@ How should I store BROVANA?
   After opening the pouch, unused ready-to-use vials should be returned to, and stored in, the pouch.
   An opened ready-to-use vial should be used right away.
   BROVANA may be used directly from the refrigerator.
-- BROVANA may also be stored at room temperature between 68ºF to 77ºF (20ºC to 25ºC) for up to 6 weeks.
+- BROVANA may also be stored at room temperature between 68ºF to 77ºF (20ºC to 25ºC) for up to 6 weeks (42 days).
   If stored at room temperature, discard BROVANA if it is not used after 6 weeks or if past the expiration date, whichever is sooner.
   Space is provided on the packaging to record room temperature storage times.
 - Do not use BROVANA after the expiration date provided on the foil pouch and ready-to-use vial.
@@ -171,10 +197,8 @@ Rx Only
 
 This Medication Guide has been approved by the Food and Drug Administration.
 
-Sepracor
+SEPRACOR Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA
 
-Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA
+June 2010
 
-August 2008
-
-901005R4
+901005R05
