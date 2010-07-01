@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077131"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-145-13",
+    "62756-145-61",
+    "62756-145-86",
+    "62756-146-13",
+    "62756-146-61",
+    "62756-146-86",
+    "62756-147-13",
+    "62756-147-61",
+    "62756-147-86",
+    "62756-148-13",
+    "62756-148-61",
+    "62756-148-86"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "rivastigmine tartrate",
+      "name": "Rivastigmine Tartrate"
+    }
+  ],
+  "setid": "bac9ca81-db70-41aa-82af-6c5bb8496846",
+  "source": "dailymed"
+}
