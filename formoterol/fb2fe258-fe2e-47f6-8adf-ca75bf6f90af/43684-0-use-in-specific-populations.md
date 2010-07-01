@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+### Teratogenic Effects: Pregnancy Category C
 
 Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
 However, formoterol fumarate was found to be teratogenic in rats and rabbits in other testing laboratories.

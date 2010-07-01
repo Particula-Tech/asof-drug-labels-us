@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Long acting beta2-adrenergic agonists such as formoterol may increase the risk of asthma-related death [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Long acting beta2-adrenergic agonists such as formoterol increase the risk of asthma-related death [See BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 ## 6.1 Beta2-Agonist Adverse Reaction Profile
 
@@ -10,7 +10,7 @@ Adverse reactions to PERFOROMIST Inhalation Solution are expected to be similar 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults with COPD
+### Adults with COPD
 
 The data described below reflect exposure to PERFOROMIST Inhalation Solution 20 mcg twice daily by oral inhalation in 586 patients, including 232 exposed for 6 months and 155 exposed for at least 1 year.
 PERFOROMIST Inhalation Solution was studied in a 12-week, placebo- and active-controlled trial (123 subjects treated with PERFOROMIST Inhalation Solution) and a 52-week, active-controlled trial (463 subjects treated with PERFOROMIST Inhalation Solution).
@@ -23,10 +23,10 @@ The rate of COPD exacerbations was 4.1% for PERFOROMIST Inhalation Solution and 
 
 TABLE 1
 
-|  | n | (%) | n | (%) |
-| --- | --- | --- | --- | --- |
 | Number of patients with adverse reactions in the 12-week multiple-dose controlled clinical trial |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Adverse Reaction | PERFOROMIST Inhalation Solution 20 mcg |  | Placebo |  |
+|  | n | (%) | n | (%) |
 | Total Patients | 123 | (100) | 114 | (100) |
 | Diarrhea | 6 | (4.9) | 4 | (3.5) |
 | Nausea | 6 | (4.9) | 3 | (2.6) |

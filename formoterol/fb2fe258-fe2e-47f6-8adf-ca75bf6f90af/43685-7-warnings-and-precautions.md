@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Deaths and Exacerbations
+## 5.1 Asthma-Related Deaths
 
 [See BOXED WARNING]
 
@@ -8,8 +8,11 @@ Data from a large placebo-controlled study in asthma patients showed that long-a
 Data are not available to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
 
 A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-The increased risk of asthma-related death may represent a class effect of the long-acting beta2-adrenergic agonists, including PERFOROMIST Inhalation Solution.
+The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including PERFOROMIST Inhalation Solution.
 No study adequate to determine whether the rate of asthma related death is increased in patients treated with PERFOROMIST Inhalation Solution has been conducted.
+The safety and efficacy of PERFOROMIST in patients with asthma have not been established.
+All LABA, including PERFOROMIST, are contraindicated in patients with asthma without the use of a long-term asthma control medication.
+[see CONTRAINDICATIONS (4)].
 
 Clinical studies with formoterol fumarate administered as a dry powder inhaler suggested a higher incidence of serious asthma exacerbations in patients who received formoterol than in those who received placebo.
 The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
@@ -28,11 +31,11 @@ When beginning PERFOROMIST Inhalation Solution, patients who have been taking in
 When prescribing PERFOROMIST Inhalation Solution, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient how it should be used.
 Increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
-If PERFOROMIST Inhalation Solution no longer controls the symptoms of bronchoconstriction, or the patient's inhaled, short-acting beta2-agonist becomes less effective or the patient needs more inhalation of short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
+If PERFOROMIST Inhalation Solution no longer controls the symptoms of bronchoconstriction, or the patient’s inhaled, short-acting beta2-agonist becomes less effective or the patient needs more inhalation of short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
 In this setting, a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dosage of PERFOROMIST Inhalation Solution beyond the recommended 20 mcg twice daily dose is not appropriate in this situation.
 
-## 5.3 Excessive Use of PERFOROMIST Inhalation Solution and Use with Other Long-Acting Beta2-Agonists
+## 5.3 Excessive Use and Use with Other Long-Acting Beta2-Agonists
 
 As with other inhaled beta2-adrenergic drugs, PERFOROMIST Inhalation Solution should not be used more often, at higher doses than recommended, or in conjunction with other medications containing long-acting beta2-agonists, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.

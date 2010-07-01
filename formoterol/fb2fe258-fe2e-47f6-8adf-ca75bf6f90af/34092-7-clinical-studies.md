@@ -13,13 +13,9 @@ Similar results were seen on Day 1 and at subsequent timepoints during the trial
 
 Mean FEV1 measurements at Day 1 (Figure 1) and at endpoint (Figure 2) are shown below.
 
-Figure 1 Mean FEV1 at Day 1
-
-Figure 2 MeanFigures show least-squares means adjusted for baseline FEV1 FEV1 at Endpoint after 12 Weeks of Treatment
-
 Patients treated with PERFOROMIST Inhalation Solution used less rescue albuterol during the trial compared to patients treated with placebo.
 
-Examination of age (≥65 or younger) and gender subgroups did not identify differences in response to PERFOROMIST Inhalation Solution.
+Examination of age (≥ 65 or younger) and gender subgroups did not identify differences in response to PERFOROMIST Inhalation Solution.
 There were too few non-Caucasian subjects to assess differences in populations defined by race adequately.
 
 In the 12 week study, 78% of subjects achieved a 15% increase from baseline FEV1 following the first dose of PERFOROMIST Inhalation Solution 20 mcg.

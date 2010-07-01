@@ -17,7 +17,7 @@ The relevance of these in vitro and animal findings to humans with COPD is unkno
 
 ## 12.2 Pharmacodynamics
 
-Systemic Safety and Pharmacokinetic / Pharmacodynamic Relationships
+### Systemic Safety and Pharmacokinetic / Pharmacodynamic Relationships
 
 The major adverse effects of inhaled beta2-agonists occur as a result of excessive activation of the systemic beta-adrenergic receptors.
 The most common adverse effects in adults include skeletal muscle tremor and cramps, insomnia, tachycardia, decreases in plasma potassium, and increases in plasma glucose.
@@ -31,16 +31,16 @@ Following single dose administration of 10-fold the recommended clinical dose of
 Data from this study showed that maximum reductions from baseline in plasma potassium ranged from 0.55 to 1.52 mmol/L with a median maximum reduction of 1.01 mmol/L.
 Generally, the maximum effect on plasma potassium was noted 1 to 3 hours after peak formoterol plasma concentrations were achieved.
 
-Electrophysiology
+### Electrophysiology
 
 In the dose-ranging study of PERFOROMIST Inhalation Solution, ECG-determined heart rate increased by a mean of 6 ±3 beats per minute at 6 hours after a single dose of 244 mcg, but was back to predose level at 16-24 hours.
 
 The effect of PERFOROMIST Inhalation Solution on heart rate and cardiac rhythm was studied in a 12-week clinical trial comparing PERFOROMIST Inhalation Solution to placebo and an active control treatment.
 COPD patients, including 105 patients exposed to PERFOROMIST Inhalation Solution, underwent continuous electrocardiographic (Holter) monitoring during two 24-hour periods (study baseline and after 8-12 weeks of treatment).
 ECGs were performed pre-dose and at 2 to 3 hours post-dose at study baseline (prior to dosing) and after 4, 8 and 12 weeks of treatment.
-Bazett's and Fridericia's methods were used to correct the QT interval for heart rate (QTcB and QTcF, respectively).
+Bazett’s and Fridericia’s methods were used to correct the QT interval for heart rate (QTcB and QTcF, respectively).
 The mean increase from baseline in QTcB interval over the 12-week treatment period was ≤ 4.8 msec for PERFOROMIST Inhalation Solution and ≤ 4.6 msec for placebo.
-The percent of patients who experienced a maximum change in QTc greater than 60 msec at any time during the 12-week treatment period was 0% and 1.8% for PERFOROMIST Inhalation Solution and placebo, respectively, based on Bazett's correction, and 1.6% and 0.9%, respectively, based on Fridericia's correction.
+The percent of patients who experienced a maximum change in QTc greater than 60 msec at any time during the 12-week treatment period was 0% and 1.8% for PERFOROMIST Inhalation Solution and placebo, respectively, based on Bazett’s correction, and 1.6% and 0.9%, respectively, based on Fridericia’s correction.
 Prolonged QT was reported as an adverse event in 1 (0.8%) patient treated with PERFOROMIST Inhalation Solution and 2 (1.8%) placebo patients.
 No occurrences of atrial fibrillation or ventricular tachycardia were observed during 24-hour Holter monitoring or reported as adverse events in patients treated with PERFOROMIST Inhalation Solution after the start of dosing.
 No increase in supraventricular tachycardia over placebo-treated subjects was observed.
@@ -53,7 +53,7 @@ The QTc returned to baseline within 12 to 24 hours post-dose.
 Formoterol plasma concentrations were weakly correlated with pulse rate and increase of QTc duration.
 The effects on pulse rate and QTc interval are known pharmacological effects of this class of study drug and were not unexpected at this supratherapeutic formoterol fumarate inhalation dose.
 
-Tachyphylaxis / Tolerance
+### Tachyphylaxis / Tolerance
 
 Tolerance to the effects of inhaled beta-agonists can occur with regularly-scheduled, chronic use.
 In a placebo-controlled clinical trial in 351 adult patients with COPD, the bronchodilating effect of PERFOROMIST Inhalation Solution was determined by the FEV1 area under the curve over 12 hours following dosing on Day 1 and after 12 weeks of treatment.
@@ -66,7 +66,7 @@ Information on the pharmacokinetics of formoterol (dry powder and/or inhalation 
 Urinary excretion of unchanged formoterol was used as an indirect measure of systemic exposure.
 Plasma drug disposition data parallel urinary excretion, and the elimination half-lives calculated for urine and plasma are similar.
 
-Absorption
+### Absorption
 
 Pharmacokinetic properties of formoterol fumarate were evaluated in 12 COPD patients following inhalation of single doses of PERFOROMIST Inhalation Solution containing 10, 20 and 244 mcg of formoterol fumarate (calculated on an anhydrous basis) and 12 mcg formoterol fumarate dry powder, through 36 hours after single-dose administration.
 Formoterol fumarate concentrations in plasma following the 10 and 20 mcg doses of PERFOROMIST Inhalation Solution and the 12 mcg dose of formoterol fumarate dry powder were undetectable or only detected sporadically at very low concentrations.
@@ -80,13 +80,13 @@ This suggests some accumulation of formoterol in plasma with multiple dosing.
 Although multiple-dose pharmacokinetic data is unavailable from PERFOROMIST Inhalation Solution, assumption of linear pharmacokinetics allows a reasonable prediction of minimal accumulation based on single-dose pharmacokinetics.
 As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol fumarate delivered is swallowed and then absorbed from the gastrointestinal tract.
 
-Distribution
+### Distribution
 
 The binding of formoterol to human plasma proteins in vitro was 61% to 64% at concentrations from 0.1 to 100 ng/mL.
 Binding to human serum albumin in vitro was 31% to 38% over a range of 5 to 500 ng/mL.
 The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 244 mcg dose of PERFOROMIST Inhalation Solution.
 
-Metabolism
+### Metabolism
 
 Formoterol is metabolized primarily by direct glucuronidation at either the phenolic or aliphatic hydroxyl group and O-demethylation followed by glucuronide conjugation at either phenolic hydroxyl groups.
 Minor pathways involve sulfate conjugation of formoterol and deformylation followed by sulfate conjugation.
@@ -97,17 +97,17 @@ Formoterol did not inhibit CYP450 enzymes at therapeutically relevant concentrat
 Some patients may be deficient in CYP2D6 or 2C19 or both.
 Whether a deficiency in one or both of these isozymes results in elevated systemic exposure to formoterol or systemic adverse effects has not been adequately explored.
 
-Excretion
+### Excretion
 
 Following administration of single 10, 20, and 244 mcg PERFOROMIST Inhalation Solution doses (calculated on an anhydrous basis) delivered via nebulizer in 12 COPD patients, on average, about 1.1% to 1.7% of the dose was excreted in the urine as unchanged formoterol as compared to about 3.4% excreted unchanged following inhalation administration of 12 mcg of formoterol fumarate dry powder.
 Renal clearance of formoterol following inhalation administration of PERFOROMIST Inhalation Solution in these subjects was about 157 mL/min.
 Based on plasma concentrations measured following the 244 mcg dose, the mean terminal elimination half-life was determined to be 7 hours.
 
-Gender
+### Gender
 
 As reported for another formoterol fumarate inhalation formulation, upon correction for body weight, pharmacokinetics of formoterol fumarate did not differ significantly between males and females.
 
-Geriatric, Pediatric, Hepatic/Renal Impairment
+### Geriatric, Pediatric, Hepatic/Renal Impairment
 
 The pharmacokinetics of formoterol fumarate has not been studied in elderly and pediatric patient populations.
 The pharmacokinetics of formoterol fumarate has not been studied in subjects with hepatic or renal impairment.

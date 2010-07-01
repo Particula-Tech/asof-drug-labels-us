@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022007"
+  ],
   "inn": "formoterol",
-  "labeler": "Dey, L.P.",
+  "labeler": "Dey Pharma, LP",
   "package_ndcs": [
     "49502-605-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate dihydrate",
+      "name": "Perforomist"
+    }
+  ],
   "setid": "fb2fe258-fe2e-47f6-8adf-ca75bf6f90af",
   "source": "dailymed"
 }
