@@ -15,8 +15,10 @@
    670-678, 1986.
 
 Rev.
-062008
+052010
 
 Manufactured by: Galephar Pharmaceutical Research Inc. Juncos, PR 00777-3873
 
 Manufactured for: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117 1 (877) 334-3464
+
+Kowa Kowa Pharmaceuticals America, Inc

@@ -123,7 +123,7 @@ Table 1 Mean Percent Change in Lipid Parameters at End of Treatment+
 | All FEN (n=193) | -22.4%* | -31.4%* | +9.8%* | -23.5%* |
 | Placebo (n=141) | +0.2% | -2.2% | +2.6% | +11.7% |
 | Baseline LDL-C >160 mg/dL |  |  |  |  |
-| and TG≥ 150 mg/dL (Type IIb) |  |  |  |  |
+| and TG ≥ 150 mg/dL (Type IIb) |  |  |  |  |
 | Mean baseline lipid |  |  |  |  |
 | Values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
 | All FEN (n=126) | -16.8%* | -20.1%* | +14.6%* | -35.9%* |
@@ -142,18 +142,16 @@ Treatment of patients with Type IV hyperlipoproteinemia and elevated triglycerid
 
 Table 2 Effects of Fenofibrate in Patients With Fredrickson Type IV/V Hyperlipidemia
 
-| Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline TG Levels 350 to 499 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
 | Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2* |
 | VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1* |
 | Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1* |
 | HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6* |
 | LDL Cholesterol | 28 | 120 | 129 | 12 | 27 | 128 | 137 | 14.5 |
 | VLDL Cholesterol | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7* |
-
 | Study 2 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline TG Levels 500 to 1500 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
 | Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5* |
 | VLDL Triglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6* |

@@ -29,41 +29,28 @@ If the decision is made to use drugs, the patient should be instructed that this
 
 Fredrickson Classification of Hyperlipoproteinemias
 
-|  |  | Lipid Elevation |  |
-| --- | --- | --- | --- |
-| Type | Lipoprotein Elevated | Major | Minor |
-| I (rare) | chylomicrons | TG | ↑↔C |
-| IIa | LDL | C | - |
-| IIb | LDL, VLDL | C | TG |
-| III (rare) | IDL | C, TG | - |
-| IV | VLDL | TG | ↑↔C |
-| V (rare) | chylomicrons, VLDL | TG | ↑↔C |
-| C = cholesterol |  |  |  |
-| TG = triglycerides |  |  |  |
-| LDL = low density lipoprotein |  |  |  |
-| VLDL = very low density lipoprotein |  |  |  |
-| IDL = intermediate density lipoprotein |  |  |  |
+|  |  |  | Lipid Elevation |  |
+| --- | --- | --- | --- | --- |
+|  | Type | Lipoprotein Elevated | Major | Minor |
+|  | I (rare) | chylomicrons | TG | ↑↔C |
+|  | IIa | LDL | C | - |
+|  | IIb | LDL, VLDL | C | TG |
+|  | III (rare) | IDL | C, TG | - |
+|  | IV | VLDL | TG | ↑↔C |
+|  | V (rare) | chylomicrons, VLDL | TG | ↑↔C |
+| C = cholesterol |  |  |  |  |
+| TG = triglycerides |  |  |  |  |
+| LDL = low density lipoprotein |  |  |  |  |
+| VLDL = very low density lipoprotein |  |  |  |  |
+| IDL = intermediate density lipoprotein |  |  |  |  |
 
 NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Lifestyle Changes and Drug Therapy in Different Risk Categories.
 
-|  |  | LDL Level at |  |
+| Risk Category | LDL Goal (mg/dL) | LDL Level at Which to Initiate Therapeutic Lifestyle Changes (mg/dL) | LDL Level at which to Consider Drug Therapy (mg/dL) |
 | --- | --- | --- | --- |
-|  |  | Which to Initiate | LDL Level at |
-|  |  | Therapeutic | which to Consider |
-| Risk | LDL Goal | Lifestyle Changes | Drug Therapy |
-| Category | (mg/dL) | (mg/dL) | (mg/dL) |
-| CHD† or CHD | <100 | ≥100 | ≥130 |
-| risk equivalents |  |  | (100-129:drug |
-| (10-years risk |  |  | optional)†† |
-| > 20%) |  |  |  |
-| 2+ Risk Factors | <130 | ≥130 | 10-year risk |
-| (10-year risk |  |  | 10%-20%:≥130 |
-| ≤20%) |  |  | 10-Year risk |
-|  |  |  | <10%:≥160 |
-| 0-1 Risk | <160 | ≥160 | ≥190 |
-| Factor††† |  |  | (160-189:LDL- |
-|  |  |  | Lowering drug |
-|  |  |  | optional) |
+| CHD† or CHD risk equivalents (10-years risk > 20%) | <100 | ≥100 | ≥130 (100-129:drug optional)†† |
+| 2+ Risk Factors (10-year risk ≤20%) | <130 | ≥130 | 10-year risk 10%-20%: ≥130 10-Year risk <10%:≥160 |
+| 0-1 Risk Factor††† | <160 | ≥160 | ≥190 (160-189:LDL- Lowering drug optional) |
 | † CHD = coronary heart disease |  |  |  |
 | †† Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of <100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgment also may call for deferring drug therapy in this subcategory. |  |  |  |
 | ††† Almost all people with 0-1 risk factor have 10-year risk <10%: thus, 10-year risk assessment in people with 0-1 risk factor is not necessary. |  |  |  |

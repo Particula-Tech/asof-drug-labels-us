@@ -40,7 +40,7 @@ There was a non-significant 11% (HR 1.11 [0.95, 1.29], p=0.18) and 19% (HR 1.19 
 In the Coronary Drug Project, a large study of post myocardial infarction patients treated for 5 years with clofibrate, there was no difference in mortality seen between the clofibrate group and the placebo group.
 There was however, a difference in the rate of cholelithiasis and cholecystitis requiring surgery between the two groups (3.0% vs. 1.8%).
 
-Because of chemical, pharmacological, and clinical similarities between LIPOFEN® (fenofibrate capsules), Atromid-S (clofibrate), and Lopid (gemfibrozil), the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to LIPOFEN®.
+Because of chemical, pharmacological, and clinical similarities between LIPOFEN® (fenofibrate capsules, USP), Atromid-S (clofibrate), and Lopid (gemfibrozil), the adverse findings in 4 large randomized, placebo-controlled clinical studies with these other fibrate drugs may also apply to LIPOFEN®.
 
 In a study conducted by the World Health Organization (WHO), 5000 subjects without known coronary artery disease were treated with placebo or clofibrate for 5 years and followed for an additional one year.
 There was a statistically significant, higher age-adjusted all-cause mortality in the clofibrate group compared with the placebo group (5.70% vs. 3.96%, p=<0.01).
@@ -62,7 +62,7 @@ There was a statistically significant difference in the number of appendectomies
 
 # PRECAUTIONS
 
-Initial Therapy: Laboratory studies should be done to ascertain that the lipid levels are consistently abnormal before instituting LIPOFEN® (fenofibrate capsules) therapy.
+Initial Therapy: Laboratory studies should be done to ascertain that the lipid levels are consistently abnormal before instituting LIPOFEN® (fenofibrate capsules, USP) therapy.
 Every attempt should be made to control serum lipids with appropriate diet, exercise, weight loss in obese patients, and control of any medical problems such as diabetes mellitus and hypothyroidism that are contributing to the lipid abnormalities.
 Medications known to exacerbate hypertriglyceridemia (beta-blockers, thiazides, estrogens) should be discontinued or changed if possible prior to consideration of triglyceride-lowering drug therapy.
 

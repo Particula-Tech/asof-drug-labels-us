@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021612"
+  ],
   "inn": "fenofibrate",
-  "labeler": "CIPHER",
+  "labeler": "Kowa Pharmaceuticals America Inc.",
   "package_ndcs": [
     "66869-137-20",
+    "66869-137-30",
+    "66869-147-05",
     "66869-147-20",
     "66869-147-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fenofibrate",
+      "name": "LIPOFEN"
+    }
+  ],
   "setid": "9a883573-aa2a-4376-bb0f-3b88246d2169",
   "source": "dailymed"
 }
