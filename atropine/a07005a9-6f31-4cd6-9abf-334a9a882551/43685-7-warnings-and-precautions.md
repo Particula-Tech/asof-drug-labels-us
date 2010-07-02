@@ -11,10 +11,10 @@ DRUG-INDUCED INHIBITION OF PERISTALSIS MAY RESULT IN FLUID RETENTION IN THE COLO
 
 IF SEVERE DEHYDRATION OR ELECTROLYTE IMBALANCE IS MANIFESTED, MOTOFEN® SHOULD BE WITHHELD UNTIL APPROPRIATE CORRECTIVE THERAPY HAS BEEN INITIATED.
 
-Ulcerative Colitis– In some patients with acute ulcerative colitis, agents which inhibit intestinal motility or delay intestinal transit time have been reported to induce toxic megacolon.
+Ulcerative Colitis – In some patients with acute ulcerative colitis, agents which inhibit intestinal motility or delay intestinal transit time have been reported to induce toxic megacolon.
 Consequently, patients with acute ulcerative colitis should be carefully observed and MOTOFEN® therapy should be discontinued promptly if abdominal distention occurs or if other untoward symptoms develop.
 
-Liver and Kidney Disease– MOTOFEN® (difenoxin hydrochloride with atropine sulfate) should be used with extreme caution in patients with advanced hepatorenal disease and in all patients with abnormal liver function tests since hepatic coma may be precipitated.
+Liver and Kidney Disease – MOTOFEN® (difenoxin hydrochloride with atropine sulfate) should be used with extreme caution in patients with advanced hepatorenal disease and in all patients with abnormal liver function tests since hepatic coma may be precipitated.
 
 Atropine – A subtherapeutic dose of atropine has been added to difenoxin hydrochloride to discourage deliberate overdosage.
 Usage of MOTOFEN® in recommended doses is not likely to cause prominent anticholinergic side effects, but MOTOFEN® should be avoided in patients in whom anticholinergic drugs are contraindicated.

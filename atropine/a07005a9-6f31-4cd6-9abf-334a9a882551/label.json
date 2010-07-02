@@ -1,12 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017744"
+  ],
   "inn": "atropine",
-  "labeler": "Valeant Pharmaceuticals International",
+  "labeler": "Valeant Pharmaceutical",
   "package_ndcs": [
-    "0187-0500-01",
     "0187-0500-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "difenoxin hydrochloride",
+      "name": "Motofen"
+    }
+  ],
   "setid": "a07005a9-6f31-4cd6-9abf-334a9a882551",
   "source": "dailymed"
 }
