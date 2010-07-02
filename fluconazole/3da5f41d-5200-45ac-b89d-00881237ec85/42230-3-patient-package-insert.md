@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-FLUCONAZOLE TABLETS
+FLUCONAZOLE TABLETS USP
 
 Rx Only
 
@@ -140,3 +140,16 @@ You can ask your pharmacist or doctor for information about fluconazole that is 
 † Propulsid is a registered trademark of Janssen Pharmaceutica
 
 ‡ Seldane is registered trademark of Hoechst Marion Roussel Inc. (now Aventis Pharmaceuticals)
+
+Manufactured by:
+
+Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+
+Manufactured for:
+
+Glenmark Generics Inc., USA Mahwah, NJ 07430
+
+Questions?
+1 (888)721-7115 www.glenmarkgenerics.com
+
+May 2010
