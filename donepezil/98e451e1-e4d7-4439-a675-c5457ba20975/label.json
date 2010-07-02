@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020690",
+    "NDA021719"
+  ],
   "inn": "donepezil",
   "labeler": "Eisai Inc.",
   "package_ndcs": [
@@ -14,7 +17,18 @@
     "62856-831-30",
     "62856-832-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Aricept"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "donepezil hydrochloride",
+      "name": "Aricept"
+    }
+  ],
   "setid": "98e451e1-e4d7-4439-a675-c5457ba20975",
   "source": "dailymed"
 }
