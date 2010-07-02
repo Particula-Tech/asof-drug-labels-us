@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020748"
+  ],
+  "inn": "adapalene",
+  "labeler": "GALDERMA LABORATORIES, L.P",
+  "package_ndcs": [
+    "0299-5915-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "adapalene",
+      "name": "Differin"
+    }
+  ],
+  "setid": "ab4b2120-57fc-6c61-b239-37c21789c065",
+  "source": "dailymed"
+}
