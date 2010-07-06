@@ -1,0 +1,16 @@
+# Principal Display Panel - 0.5 mg Vial Carton
+
+NDC 50242-080-01 List No.: 17017
+
+LUCENTIS RANIBIZUMAB INJECTION
+
+0.5 mg DOSE SINGLE-USE VIAL
+
+For intravitreal injection only.
+KEEP REFRIGERATED.
+DO NOT FREEZE.
+PROTECT VIAL FROM DIRECT SUNLIGHT.
+
+Rx only
+
+Genentech

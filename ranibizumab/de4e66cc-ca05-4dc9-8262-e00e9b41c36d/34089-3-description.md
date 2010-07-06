@@ -1,6 +1,6 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
-LUCENTIS™ (ranibizumab injection) is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use.
+LUCENTIS® (ranibizumab injection) is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use.
 Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF‑A).
 Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline.
 Tetracycline is not detectable in the final product.

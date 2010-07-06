@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA125156"
+  ],
   "inn": "ranibizumab",
-  "labeler": "",
+  "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-080-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab",
+      "name": "LUCENTIS"
+    }
+  ],
   "setid": "de4e66cc-ca05-4dc9-8262-e00e9b41c36d",
   "source": "dailymed"
 }
