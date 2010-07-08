@@ -1,29 +1,22 @@
-# PRINCIPAL DISPLAY PANEL - FOIL 3 mg
-
-STROMECTOL® 3 mg (IVERMECTIN)
-
-Dist. by:
-
-MERCK & CO., INC.
-
-9689303
-
-# PRINCIPAL DISPLAY PANEL - CARTON 3 mg
+# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Carton 3 mg
 
 Stromectol® 3 mg (Ivermectin Tablets)
 
-Manufactured by: MSD BV Waarderweg 39 2031 BN Haarlem Netherlands
+Manuf. by: Merck Sharp & Dohme BV Waarderweg 39 2031 BN Haarlem, Netherlands
 
-Dist. by: MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Formulated in Netherlands
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
 Each tablet contains 3 mg of ivermectin.
-USUAL DOSAGE: See accompanying circular.
 
-Rx only
+USUAL DOSAGE: See accompanying circular.
 
 Store at temperatures below 30°C (86°F).
 
-2 x 10 Tablets
+Rx only
+
+20 Tablets (2 Foil Strips of 10 tablets each)
 
 NDC 0006-0032-20
 
@@ -33,4 +26,4 @@ Remove tablets from aluminum foil strip and dispense tablets in appropriate cont
 
 20 | No. 8495 (US)
 
-9689701 72652/120805E
+9994502
