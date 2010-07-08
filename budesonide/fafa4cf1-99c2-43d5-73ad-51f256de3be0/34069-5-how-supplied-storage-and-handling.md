@@ -30,7 +30,7 @@ Shake well for 5 seconds before using.
 
 Keep out of the reach of children.
 
-CONTENTS UNDER PRESSURE
+CONTENTS UNDER PRESSURE.
 
 Do not puncture or incinerate.
 Do not store near heat or open flame.

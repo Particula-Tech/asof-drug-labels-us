@@ -1,15 +1,15 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1. Pregnancy
+## 8.1 Pregnancy
 
-Teratogenic Effects SYMBICORT - Pregnancy Category C
+Teratogenic Effects: Pregnancy Category C.
 
 There are no adequate and well-controlled studies of SYMBICORT in pregnant women.
 SYMBICORT was teratogenic and embryocidal in rats.
 Budesonide alone was teratogenic and embryocidal in rats and rabbits, but not in humans at therapeutic doses.
 Formoterol fumarate alone was teratogenic in rats and rabbits.
 Formoterol fumarate was also embryocidal, increased pup loss at birth and during lactation, and decreased pup weight in rats.
-SYMBICORT should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+SYMBICORT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 SYMBICORT
 
@@ -104,7 +104,8 @@ Based on available data for SYMBICORT or its active components, no adjustment of
 
 ## 8.6 Hepatic Impairment
 
-Formal pharmacokinetic studies using SYMBICORT have not been conducted in patients with hepatic impairment, However, since both budesonide and formoterol fumarate are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of budesonide and formoterol fumarate in plasma.
+Formal pharmacokinetic studies using SYMBICORT have not been conducted in patients with hepatic impairment.
+However, since both budesonide and formoterol fumarate are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of budesonide and formoterol fumarate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
 ## 8.7 Renal Impairment

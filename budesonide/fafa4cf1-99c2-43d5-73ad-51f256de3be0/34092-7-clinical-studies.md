@@ -17,7 +17,7 @@ Most patients had moderate to severe asthma and were using moderate to high dose
 Randomization was stratified by previous inhaled corticosteroid treatment (71.6% on moderate- and 28.4% on high-dose inhaled corticosteroid).
 Mean percent predicted FEV1 at baseline was 68.1% and was similar across treatment groups.
 The coprimary efficacy end points were 12-hour-average postdose FEV1 at week 2, and predose FEV1 averaged over the course of the study.
-The study also required that patients who satisfied a predefined asthma worsening criterion be withdrawn.
+The study also required that patients who satisfied a predefined asthma-worsening criterion be withdrawn.
 The predefined asthma-worsening criteria were a clinically important decrease in FEV1 or peak expiratory flow (PEF), increase in rescue albuterol use, nighttime awakening due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
 For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other asthma-worsening criteria were met.
 The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 3.
@@ -111,7 +111,7 @@ Figure 4 - Mean Percent Change From Baseline in FEV1 At End of Treatment (Study 
 
 The efficacy of SYMBICORT 80/4.5 and SYMBICORT 160/4.5 in the maintenance treatment of airflow obstruction in COPD patients was evaluated in two randomized, double-blind, placebo-controlled multinational studies, conducted over 6 months (Study 1) and 12 months (Study 2), in a total of 3668 patients (2416 males and 1252 females).
 The majority of patients (93%) were Caucasian.
-All patients were required to be at least 40 years of age, with a FEV1 of less than or equal to 50% predicted a clinical diagnosis of COPD with symptoms for at least 2 years, and a smoking history of at least 10 pack years, prior to entering the trial.
+All patients were required to be at least 40 years of age, with a FEV1 of less than or equal to 50% predicted, a clinical diagnosis of COPD with symptoms for at least 2 years, and a smoking history of at least 10 pack years, prior to entering the trial.
 The mean prebronchodilator FEV1 at baseline of the patients enrolled in the study was 34% predicted.
 Forty-eight percent of the patients enrolled were on inhaled corticosteroids and 52.7% of patients were on short-acting anticholinergic bronchodilators during run-in.
 On randomization, inhaled corticosteroids were discontinued, and ipratropium bromide was allowed at a stable dose for those patients previously treated with short-acting anticholinergic bronchodilators.
@@ -125,16 +125,16 @@ The patients were randomized to one of the following treatment groups: SYMBICORT
 Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, had significantly greater mean improvements from baseline in pre-dose FEV1 averaged over the treatment period [0.08 L, 10.7%] compared with formoterol 4.5 mcg [0.04 L, 6.9%] and placebo [0.01 L, 2.2%] (See Figure 5).
 Patients receiving SYMBICORT 80/4.5 mcg, two inhalations twice daily, did not have significantly greater improvement from baseline in the pre-dose FEV1 averaged over the treatment period compared with formoterol 4.5 mcg.
 
-Figure 5 Mean Percent Change From Baseline in Predose FEV1 Over 6 months (Study 1)
+Figure 5 Mean Percent Change From Baseline in Pre-dose FEV1 Over 6 months (Study 1)
 
-Patients receiving SYMBICORT 160/4.5 mcg two inhalations twice daily had significantly greater mean improvements from baseline in 1-hour postdose FEV1 averaged over the treatment period [0.20 L, 22.6%] compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] See Figure 6
+Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.20 L, 22.6%], compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] (See Figure 6).
 
-Figure 6 Mean Percent Change From Baseline in 1-hour Postdose FEV1 Over 6 months (Study 1)
+Figure 6 Mean Percent Change From Baseline in 1-hour Post-dose FEV1 Over 6 months (Study 1)
 
 Study 2
 
 This was a 12-month, placebo-controlled study of 1964 COPD patients (mean % predicted FEV1 at baseline ranging from 33.7% -35.5%) conducted to demonstrate the efficacy and safety of SYMBICORT in the treatment of airflow obstruction in COPD.
-The patients were randomized to one of the following treatment groups: SYMBICORT 160/4.5 (n=494), SYMBICORT 80/4.5 (n=494), formoterol 4.5 mcg (n=495), or placebo (n=48l).
+The patients were randomized to one of the following treatment groups: SYMBICORT 160/4.5 (n=494), SYMBICORT 80/4.5 (n=494), formoterol 4.5 mcg (n=495), or placebo (n=481).
 Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, had significantly greater improvements from baseline in mean pre-dose FEV1 averaged over the treatment period [0.10 L, 10.8%] compared with formoterol 4.5 mcg [0.06 L, 7.2%] and placebo [0.01 L, 2.8%].
 Patients receiving SYMBICORT 80/4.5 mcg, two inhalations twice daily, did not have significantly greater improvements from baseline in the mean pre-dose FEV1 averaged over the treatment period compared to formoterol.
 Patients receiving SYMBICORT 160/4.5 mcg, two inhalations twice daily, also had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.21 L, 24.0%] compared with placebo [0.02 L, 5.2%].

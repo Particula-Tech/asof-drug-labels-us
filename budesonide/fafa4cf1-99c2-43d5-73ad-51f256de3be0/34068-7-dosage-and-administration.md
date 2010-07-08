@@ -19,18 +19,14 @@ Adult and Adolescent Patients 12 Years of Age and Older: For patients 12 years o
 
 The recommended starting dosages for SYMBICORT for patients 12 years of age and older are based upon patients' asthma severity.
 
-For patients who are not currently receiving inhaled corticosteroid therapy, but whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies, the recommended starting dose is SYMBICORT 80/4.5 or 160/4.5, two inhalations twice daily depending upon asthma severity.
-
-The maximum recommended dosage is SYMBICORT 160/4.5 mcg, twice daily.
-
-For all patients it is desirable to titrate to the lowest effective strength after adequate asthma stability is achieved.
+The maximum recommended dosage is SYMBICORT 160/4.5 mcg twice daily.
 
 Improvement in asthma control following inhaled administration of SYMBICORT can occur within 15 minutes of beginning treatment, although maximum benefit may not be achieved for 2 weeks or longer after beginning treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
 
 For patients who do not respond adequately to the starting dose after 1-2 weeks of therapy with SYMBICORT 80/4.5, replacement with SYMBICORT 160/4.5 may provide additional asthma control.
 
-If a previously effective dosage regimen of SYMBICORT fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, (e.g., replacing the lower strength of SYMBICORT with the higher strength, adding additional inhaled corticosteroid), or initiating oral corticosteroids should be considered.
+If a previously effective dosage regimen of SYMBICORT fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, (e.g., replacing the lower strength of SYMBICORT with the higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids) should be considered.
 
 ## 2.2 Chronic Obstructive Pulmonary Disease (COPD)
 

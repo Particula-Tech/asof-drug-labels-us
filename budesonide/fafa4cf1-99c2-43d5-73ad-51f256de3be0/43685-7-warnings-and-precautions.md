@@ -1,12 +1,16 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Asthma-related Death with Long-Acting Beta2-Adrenergic Agonists
+## 5.1 Asthma-Related Death
 
-Long-acting beta2-adrenergic agonists may increase the risk of asthma-related death [see Warnings and Precautions (5.1)].
-One of the active ingredients of SYMBICORT is formoterol, a long-acting beta2-agonist, therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on other asthma-controller medications (e.g., low- to medium-dose inhaled corticosteroids) or whose disease severity clearly warrants initiation of treatment with 2 maintenance therapies.
+Long-acting beta2-adrenergic agonists, such as formoterol, one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on a long-term asthma-control medication, such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
+Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue SYMBICORT) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
+Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
 
 A 28-week, placebo controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-The increased risk of asthma-related death may represent a class effect of the long-acting beta2-adrenergic agonists, including formoterol.
+This finding with salmeterol is considered a class effect of the LABA, including formoterol, one of the active ingredients in SYMBICORT.
 No study adequate to determine whether the rate of asthma-related death is increased with SYMBICORT has been conducted.
 
 Clinical studies with formoterol suggested a higher incidence of serious asthma exacerbations in patients who received formoterol than in those who received placebo.
@@ -23,7 +27,7 @@ In this situation, the patient requires immediate re-evaluation with reassessmen
 Patients should not use more than 2 inhalations twice daily (morning and evening) of SYMBICORT.
 
 SYMBICORT should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
-An inhaled, short-acting beta2-agonist, not SYMBICORT, should be used to relieve acute symtoms such as shortness of breath.
+An inhaled, short-acting beta2-agonist, not SYMBICORT, should be used to relieve acute symptoms such as shortness of breath.
 When prescribing SYMBICORT, the physician must also provide the patient with an inhaled, short-acting beta2-agonist (e.g., albuterol) for treatment of acute symptoms, despite regular twice-daily (morning and evening) use of SYMBICORT.
 
 When beginning treatment with SYMBICORT, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs.
@@ -32,7 +36,7 @@ When beginning treatment with SYMBICORT, patients who have been taking oral or i
 
 As with other inhaled drugs containing beta2-adrenergic agents, SYMBICORT should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing long-acting beta2-agonists, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Patients using SYMBICORT should not use an additional long-acting beta2-agonist (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the maintenance treatment of asthma or COPD.
+Patients using SYMBICORT should not use an additional long-acting beta2-agonist (e.g., salmeterol, formoterol fumarate, arformoterol tartrate) for any reason, including prevention of exercise-induced bronchospasm (EIB) or the treatment of asthma or COPD.
 
 ## 5.4 Local Effects
 
@@ -71,7 +75,7 @@ Inhaled corticosteroids should be used with caution, if at all, in patients with
 
 ## 5.7 Transferring Patients From Systemic Corticosteroid Therapy
 
-Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insuffciency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
+Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 
 Patients who have been previously maintained on 20 mg or more per day of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
@@ -135,7 +139,7 @@ If significant reductions in BMD are seen and SYMBICORT is still considered medi
 Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5, or placebo on BMD was evaluated in a subset of 326 patients (females and males 41 to 88 years of age) with COPD in the 12-month study.
 BMD evaluations of the hip and lumbar spine regions were conducted at baseline and 52 weeks using dual energy x-ray absorptiometry (DEXA) scans.
 Mean changes in BMD from baseline to end of treatment were small (mean changes ranged from -0.01 - 0.01 g/cm2).
-ANCOVA results for total spine and total hip BMD based on the end of treatment time point showed that all geometric LS Mean ratios for the pairwise treatment group comparisons were dose to 1, indicating that overall, bone mineral density for total hip and total spine regions for the 12 month time point were stable over the entire treatment period.
+ANCOVA results for total spine and total hip BMD based on the end of treatment time point showed that all geometric LS Mean ratios for the pairwise treatment group comparisons were close to 1, indicating that overall, bone mineral density for total hip and total spine regions for the 12 month time point were stable over the entire treatment period.
 
 ## 5.14 Effect on Growth
 
@@ -150,9 +154,9 @@ Glaucoma, increased intraocular pressure, and cataracts have been reported in pa
 Therefore, close monitoring is warranted in patients with a change in vision or with history of increased intraocular pressure, glaucoma, and/or cataracts.
 
 Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5, or placebo on development of cataracts or glaucoma were evaluated in a subset of 461 patients with COPD in the 12-month study.
-Opthalmic examinations were conducted at baseline, 24 weeks, and 52 weeks.
+Ophthalmic examinations were conducted at baseline, 24 weeks, and 52 weeks.
 There were 26 subjects (6%) with an increase in posterior subcapsular score from baseline to maximum value (>0.7) during the randomized treatment period.
-Changes in posterior subcapsular scores of >0.7 from baseline to treatment maximum occurred in 11 patients (9.0%) in the SYMBICORT 160/4.5, 4 patients (3.8%) in the SYMBICORT 80/4.5 group, 5 patients (4.2%) in the formoterol group and 6 patients (5.2%) in the placebo group.
+Changes in posterior subcapsular scores of >0.7 from baseline to treatment maximum occurred in 11 patients (9.0%) in the SYMBICORT 160/4.5 group, 4 patients (3.8%) in the SYMBICORT 80/4.5 group, 5 patients (4.2%) in the formoterol group, and 6 patients (5.2%) in the placebo group.
 
 ## 5.16 Eosinophilic Conditions and Churg-Strauss Syndrome
 
@@ -169,5 +173,6 @@ Doses of the related beta2-adrenoceptor agonist albuterol, when administered int
 
 ## 5.18 Hypokalemia and Hyperglycemia
 
-Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)] The decrease in serum potassium is usually transient, not requiring supplementation.
+Beta-adrenergic agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)].
+The decrease in serum potassium is usually transient, not requiring supplementation.
 Clinically significant changes in blood glucose and/or serum potassium were seen infrequently during clinical studies with SYMBICORT at recommended doses.

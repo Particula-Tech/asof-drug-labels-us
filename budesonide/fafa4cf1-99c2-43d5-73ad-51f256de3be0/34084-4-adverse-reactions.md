@@ -1,15 +1,16 @@
 # 6 ADVERSE REACTIONS
 
-Long-acting beta2-adrenergic agonists may increase the risk of asthma-related death.
-One of the active ingredients of SYMBICORT is formoterol, a long-acting beta2-agonist.
+Long-acting beta2-adrenergic agonists, such as formoterol one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Data from a large placebo-controlled US study that compared the safety of another long-acting beta2-adrenergic agonist (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
 [see Warnings and Precautions (5.1)].
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [seeWarnings and Precautions (5.4)]
+- Candida albicans infection [see Warnings and Precautions (5.4)]
 
-- Pneumonia or lower respiratory tract infections in patients with COPD [seeWarnings and Precautions (5.5)]
+- Pneumonia or lower respiratory tract infections in patients with COPD [see Warnings and Precautions (5.5)]
 
 - Immunosuppression [see Warnings and Precautions (5.6)]
 
@@ -32,7 +33,7 @@ Control arms for comparison included two inhalations of budesonide HFA metered d
 Table 1 includes all adverse events that occurred at an incidence of > 3% in any one SYMBICORT group and more commonly than in the placebo group with twice-daily dosing.
 In considering these data, the increased average duration of patient exposure for SYMBICORT patients should be taken into account, as incidences are not adjusted for an imbalance of treatment duration.
 
-Table 1 Adverse reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT groups: pooled data from three 12-week, double-blind, placebo-controlled clinical asthma trials in patients 12 years and older
+Table 1 Adverse-reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT groups: pooled data from three 12-week, double-blind, placebo-controlled clinical asthma trials in patients 12 years and older
 
 | Nasopharyngitis | 10.5 | 9.7 | 14.0 | 11.0 | 10.1 | 9.0 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +82,7 @@ There were no clinically important or unexpected patterns of abnormalities obser
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of SYMBICORT.
+The following adverse reactions have been reported during post-approval use of SYMBICORT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Some of these adverse reactions may also have been observed in clinical studies with SYMBICORT.
 
@@ -103,7 +104,7 @@ Nervous system disorders: tremor, dizziness
 
 Psychiatric disorders: behavior disturbances, sleep disturbances, nervousness, agitation, depression, restlessness
 
-Respiratory, thoracic, and mediastinal disorders: dysphonia, cough, hoarseness, throat irritation
+Respiratory, thoracic, and mediastinal disorders: dysphonia, cough, throat irritation
 
 Skin and subcutaneous tissue disorders: skin bruising
 

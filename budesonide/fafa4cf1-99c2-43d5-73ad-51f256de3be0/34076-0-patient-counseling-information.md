@@ -2,11 +2,10 @@
 
 See Medication Guide (17.6)
 
-## 17.1 Risk of Asthma-Related Death
+## 17.1 Asthma-Related Death
 
-Patients with asthma should be informed that formoterol fumarate dihydrate, one of the active ingredients in SYMBICORT, may increase the risk of asthma-related death.
-
-They should also be informed that data are not adequate to determine whether the concurrent use of inhaled corticosteroids, the other component of SYMBICORT, or other asthma-controller therapy modifies this risk.
+Patients with asthma should be informed that formoterol fumarate dihydrate, one of the active ingredients in SYMBICORT, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+They should also be informed that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
 ## 17.2 Not for Acute Symptoms
 
@@ -53,3 +52,18 @@ Ocular Effects: Long-term use of inhaled corticosteroids may increase the risk o
 ## 17.5 Risks Associated With Beta-Agonist Therapy
 
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+
+SYMBICORT is a trademark of the AstraZeneca group of companies.
+
+©AstraZeneca 2008, 2009, 2010
+
+Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+
+By: AstraZeneca Dunkerque Production, Dunkerque, France
+
+Product of France
+
+31152–07
+
+Rev.
+06/10

@@ -1,16 +1,4 @@
-# SPL MEDGUIDE SECTION
-
-SYMBICORT is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2008, 2009
-
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
-
-By: AstraZeneca Dunkerque Production, Dunkerque, France
-
-Product of France
-
-MEDICATION GUIDE
+# 17.6 Medication Guide
 
 SYMBICORT 80/4.5
 
@@ -26,47 +14,61 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about SYMBICORT?
 
-- SYMBICORT contains 2 medicines:o Budesonide (the same medicine found in PULMICORT FLEXHALER®), an inhaled corticosteroid medicine.
-  Inhaled corticosteroids help to decrease inflammation in the lungs.
-  Inflammation in the lungs can lead to asthma symptoms.o Formoterol (the same medicine found in FORADIL® AEROLIZER®), a long-acting beta2-agonist medicine or LABA.
-  LABA medicines are used in patients with chronic obstructive pulmonary disease (COPD) and asthma.
-  LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent asthma symptoms, such as wheezing and shortness of breath.
-  These symptoms can happen when the muscles around the airways tighten.
-  This makes it hard to breathe.
-  In severe cases, wheezing can stop your breathing and may lead to death if not treated right away.
-- In patients with asthma, LABA medicines such as formoterol (one of the medicines in SYMBICORT) may increase the chance of death from asthma problems.
-  In a large asthma study, more patients who used another LABA medicine died from asthma problems compared with patients who did not use that LABA medicine.
-  Talk with your healthcare provider about this risk and the benefits of treating your asthma with SYMBICORT.
-- SYMBICORT does not relieve sudden symptoms.
-  Always have an inhaled short-acting beta2-agonist medicine with you to treat sudden symptoms.
-  If you do not have this type of medicine, contact your healthcare provider to have one prescribed for you.
-- Do not stop using SYMBICORT unless told to do so by your healthcare provider because your symptoms might get worse.
-- SYMBICORT should be used only if your healthcare provider decides that another asthma-controller medicine alone does not control your asthma or that you need two asthma-controller medicines.
+SYMBICORT can cause serious side effects, including:
+
+1.
+People with asthma who take long-acting beta2-adrenegic agonist (LABA) medicines such as formoterol (one of the medicines in SYMBICORT) have an increased risk of death from asthma problems.
+It is not known whether budesonide, the other medicine in SYMBICORT, reduces the risk of death from asthma problems seen with formoterol.
+
 - Call your healthcare provider if breathing problems worsen over time while using SYMBICORT.
   You may need different treatment.
-- Get emergency medical care if: o Breathing problems worsen quickly, and o You use your short-acting beta2-agonist medicine, but it does not relieve your breathing problems.
+- Get emergency medical care if:
+  - breathing problems worsen quickly, and
+  - you use your rescue inhaler medicine, but it does not relieve your breathing problems.
+
+2.
+SYMBICORT should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma-control medicine, such as an inhaled corticosteroid.
+
+3.
+When your asthma is well controlled, your healthcare provider may tell you to stop taking SYMBICORT.
+Your healthcare provider will decide if you can stop SYMBICORT without loss of asthma control.
+Your healthcare provider may prescribe a different long-term asthma-control medicine for you, such as an inhaled corticosteroid.
+
+4.
+Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is SYMBICORT?
 
 SYMBICORT combines an inhaled corticosteroid medicine, budesonide (the same medicine found in PULMICORT FLEXHALER), and a long-acting beta2-agonist medicine (LABA), formoterol (the same medicine found in FORADIL AEROLIZER).
 
+- Inhaled corticosteroids help to decrease inflammation in the lungs.
+  Inflammation in the lungs can lead to asthma symptoms.
+- LABA medicines are used in patients with chronic obstructive pulmonary disease (COPD) and asthma.
+  LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent asthma symptoms, such as wheezing and shortness of breath.
+  These symptoms can happen when the muscles around the airways tighten.
+  This makes it hard to breathe.
+  In severe cases, wheezing can stop your breathing and may lead to death if not treated right away.
+
+SYMBICORT is used for asthma and chronic obstructive pulmonary disease (COPD) as follows:
+
 Asthma
 
-SYMBICORT is used long-term, two times each day to control symptoms of asthma, and prevent symptoms such as wheezing in patients age 12 year and older.
+SYMBICORT is used to control symptoms of asthma, and prevent symptoms such as wheezing in adults and children ages 12 and older.
 
 SYMBICORT contains formoterol (the same medicine found in FORADIL AEROLIZER).
-Because LABA medicines such as formoterol may increase the chance of death from asthma problems, SYMBICORT is not for patients with asthma who:
+LABA medicines such as formoterol increase the risk of death from asthma problems.
+SYMBICORT is not for adults and children with asthma who:
 
-o are well controlled with another asthma-controller medicine such as a low to medium dose of an inhaled corticosteroid medicine
+o are well controlled with an asthma-control medicine such as a low to medium dose of an inhaled corticosteroid medicine
 
-o only need short-acting beta2-agonist medicines once in awhile
+o have sudden asthma symptoms
 
-The safety and effectiveness of SYMBICORT in asthma patients 6 to <12 years of age has not been established.
+It is not known if SYMBICORT is safe and effective in children ages 6 to less than 12 years of age with asthma.
 
 Chronic Obstructive Pulmonary Disease (COPD)
 
 COPD is a chronic lung disease that includes chronic bronchitis, emphysema, or both.
-SYMBICORT 160/4.5 mcg is used long term, two times each day to help improve lung function for better breathing in adults with COPD.
+SYMBICORT 160/4.5 mcg is used long term, 2 times each day to help improve lung function for better breathing in adults with COPD.
 
 Who should not use SYMBICORT?
 
@@ -126,58 +128,75 @@ Ask your healthcare provider or pharmacist if you have any questions.
 
 - Use SYMBICORT exactly as prescribed.
   Do not use SYMBICORT more often than prescribed.
-  SYMBICORT comes in two strengths.
+  SYMBICORT comes in 2 strengths.
   Your healthcare provider has prescribed the strength that is best for you.
   Note the differences between SYMBICORT and your other inhaled medications, including the differences in prescribed use and physical appearance.
-- SYMBICORT should be taken every day as two puffs in the morning and two puffs in the evening.
+- SYMBICORT should be taken every day as 2 puffs in the morning and 2 puffs in the evening.
 - If you miss a dose of SYMBICORT, you should take your next dose at the same time you normally do.
   Do not take SYMBICORT more often or use more puffs than you have been prescribed.
-- Rinse your mouth with water and spit the water out after each dose (two puffs) of SYMBICORT.
+- Rinse your mouth with water and spit the water out after each dose (2 puffs) of SYMBICORT.
   Do not swallow the water.
   This will help to lessen the chance of getting a fungus infection (thrush) in the mouth and throat.
 - Do not spray SYMBICORT in your eyes.
   If you accidentally get SYMBICORT in your eyes, rinse your eyes with water, and if redness or irritation persists, consult your healthcare provider.
 - Do not change or stop any medicines used to control or treat your breathing problems.
   Your healthcare provider will change your medicines as needed.
-- While you are using SYMBICORT do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason, such as SEREVENT DISKUS (salmeterol xinafoate inhalation powder), ADVAIR DISKUS or ADVAIR HFA (fluticasone propionate and salmeterol), or formoterol containing products (FORADIL AEROLIZER, Brovana, Performist)
-- Make sure you always have a short-acting beta2-agonist medicine with you.
-  Use your short-acting beta2-agonist medicine if you have breathing problems between doses of SYMBICORT.
-- Call your healthcare provider or get medical care right away if:o your breathing problems worsen with SYMBICORT o you need to use your short-acting beta2-agonist medicine more often than usual o your short-acting beta2-agonist medicine does not work as well for you at relieving symptoms o you need to use four or more inhalations of your short-acting beta2-agonist medicine for 2 or more days in a row o you use one whole canister of your short-acting beta2-agonist medicine in 8 weeks’ time o your peak flow meter results decrease.
+- While you are using SYMBICORT 2 times each day, do not use other medicines that contain a long-acting beta2-agonist (LABA) for any reason.
+  Ask your healthcare provider or pharmacist if any of your other medicine are LABA medicines.
+- Ask your healthcare provider or pharmacist if any of your other medicines are LABA medicines.
+- SYMBICORT does not relieve sudden symptoms.
+  Always have a rescue inhaler medicine with you to treat sudden symptoms.
+  If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
+- Call your healthcare provider or get medical care right away if:o your breathing problems worsen with SYMBICORT o you need to use your rescue inhaler medicine more often than usualo your rescue inhaler medicine does not work as well for you at relieving symptoms o you need to use 4 or more inhalations of rescue inhaler medicine for 2 or more days in a row o you use one whole canister of your rescue inhaler medicine in 8 weeks’ time o your peak flow meter results decrease.
   Your healthcare provider will tell you the numbers that are right for you. o your symptoms do not improve after using SYMBICORT regularly for 1 week.
 
 What are the possible side effects with SYMBICORT?
 
-- SYMBICORT contains formoterol.
-  In patients with asthma, LABA medicines such as formoterol may increase the chance of death from asthma problems.
-  See “What is the most important information I should know about SYMBICORT?”
+SYMBICORT can cause serious side effects
+
+- See “What is the most important information I should know about SYMBICORT?”
 - Pneumonia and other lower respiratory tract infections.
   People with COPD have a higher chance of getting pneumonia and other lung infections.
   Inhaled corticosteroids may increase the chance of getting pneumonia.
-  Call your healthcare provider if you notice any of these symptoms: · increase in mucus (sputum) production · change in mucus color · fever · chills · increased cough · increased breathing problems.
+  Call your healthcare provider if you notice any of these symptoms: · increase in mucus (sputum) production · change in mucus color · fever · chills · increased cough · increased breathing problems
 
-Other possible side effects with SYMBICORT include:
-
-- serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
+- Serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
   Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.
-- chest pain
-- increased blood pressure
-- a fast and irregular heartbeat
-- headache
-- tremor
-- nervousness
-- immune system effects and a higher chance for infections
-- eye problems including glaucoma and cataracts.
+- Immune system effects and a higher chance for infections.
+  Tell your healthcare provider about any signs of infection such as:
+- fever
+- pain
+- body aches
+- chills
+- feeling tired
+- nausea
+- vomiting
+- Adrenal insufficiency.
+  Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
+  This can happen when you stop taking oral corticosteroid medicines and start inhaled corticosteroid medicine.
+- Using too much of a LABA medicine may cause: chest pain, increased blood pressure, a fast and irregular heartbeat, headache, tremor, and nervousness.
+- Increased wheezing right after taking SYMBICORT.
+  Always have a rescue inhaler with you to treat sudden wheezing.
+- Eye problems including glaucoma and cataracts.
   You should have regular eye exams while using SYMBICORT.
-- lower bone mineral density.
-  This may be a problem for people who already have a higher chance for low bone mineral density (osteoporosis).
-- slowed growth in children.
-  A child’s growth should be checked often.
-- thrush in the mouth and throat
-- throat pain
+- Lower bone mineral density.
+  This can happen in people who have a high chance for low bone mineral density (osteoporosis).
+  Your healthcare provider should check you for this during treatment with SYMBICORT.
+- Slowed growth in children.
+  A child’s growth should be checked regularly while using SYMBICORT.
+- Swelling of your blood vessels.
+  This can happen in people with asthma.
+  Tell your healthcare provider right away if you have:
+- a feeling of pins and needles or numbness of your arms or legs
+- flu like symptoms
+- rash
+- pain and swelling of the sinuses
+- Decreases in blood potassium levels (hypokalemia)
+- Increases in blood sugar levels (hyperglycemia)
 
-The most common side effects with SYMBICORT include:
+Common side effects of SYMBICORT include:
 
-Adults and children with asthma:
+Patients with asthma:
 
 - throat irritation
 - headache
@@ -205,7 +224,9 @@ These are not all the side effects of SYMBICORT.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088 and/or ASTRAZENECA at 1-800-236-9933.
+You may report side effects to the FDA at 1-800-FDA-1088.
+
+You may also report side effects to ASTRAZENECA at 1-800-236-9933.
 
 How do I store SYMBICORT?
 
@@ -342,10 +363,10 @@ To clean the mouthpiece:
 - Do not put the SYMBICORT inhaler into water
 - Do not try to take apart your SYMBICORT inhaler
 
-31154–XX
+31154–05
 
 Rev.
-XX/XX
+06/10
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
@@ -359,4 +380,4 @@ SYMBICORT and PULMICORT FLEXHALER are trademarks of the AstraZeneca group of com
 ADVAIR DISKUS, ADVAIR HFA, SEREVENT and DISKUS are trademarks of GlaxoSmithKline.
 FORADIL AEROLIZER is a trademark of Novartis Pharmaceuticals Corporation.
 
-©AstraZeneca 2006, 2007, 2009
+©AstraZeneca 2006, 2007, 2009, 2010

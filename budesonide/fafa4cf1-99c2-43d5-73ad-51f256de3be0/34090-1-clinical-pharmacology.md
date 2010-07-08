@@ -58,7 +58,7 @@ No patient had a QT or QTc value ≥500 msec during treatment.
 In three placebo-controlled studies in adolescents and adults with asthma, aged 12 years and older, a total of 1232 patients (553 patients in the SYMBICORT group) had evaluable continuous 24-hour electrocardiographic monitoring.
 Overall, there were no important differences in the occurrence of ventricular or supraventricular ectopy and no evidence of increased risk for clinically significant dysrhythmia in the SYMBICORT group compared to placebo.
 
-HP axis effects: Overall, no clinically important effects on HPA axis, as measured by 24-hour urinary cortisol, were observed for SYMBICORT treated adult or adolescent patients at doses up to 640/18 mcg/day compared to budesonide.
+HPA axis effects: Overall, no clinically important effects on HPA axis, as measured by 24-hour urinary cortisol, were observed for SYMBICORT treated adult or adolescent patients at doses up to 640/18 mcg/day compared to budesonide.
 
 Chronic Obstructive Pulmonary Disease:
 
@@ -93,7 +93,7 @@ The systemic effects of inhaled corticosteroids are related to the systemic expo
 Pharmacokinetic studies have demonstrated that in both adults and children with asthma the systemic exposure to budesonide is lower with SYMBICORT compared with inhaled budesonide administered at the same delivered dose via a dry powder inhaler [see Clinical Pharmacology, Pharmacokinetics, SYMBICORT (12.3)].
 Therefore, the systemic effects (HPA axis and growth) of budesonide delivered from SYMBICORT would be expected to be no greater than what is reported for inhaled budesonide when administered at comparable doses via the dry powder inhaler [see Use in Specific Populations, Pediatric Use (8.4)].
 
-HPA Axis Effexts: The effects of inhaled budesonide administered via a dry powder inhaler on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 905 adults and 404 pediatric patients with asthma.
+HPA Axis Effects: The effects of inhaled budesonide administered via a dry powder inhaler on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 905 adults and 404 pediatric patients with asthma.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by cosyntropin (ACTH) stimulation test, remained intact with budesonide treatment at recommended doses.
 For adult patients treated with 100, 200, 400, or 800 mcg twice daily for 12 weeks, 4%, 2%, 6%, and 13%, respectively, had an abnormal stimulated cortisol response (peak cortisol <14.5 mcg/dL assessed by liquid chromatography following short-cosyntropin test) as compared to 8% of patients treated with placebo.
 Similar results were obtained in pediatric patients.
@@ -181,7 +181,7 @@ Formoterol: Over the concentration range of 10-500 nmol/L, plasma protein bindin
 The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 54 mcg dose.
 
 Metabolism: Budesonide: In vitro studies with human liver homogenates have shown that budesonide was rapidly and extensively metabolized.
-Two major metabolites formed via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) catalyzed biotransformation have been isolated and identified as 16a-hydroxyprednisolone and 6ß-hydroxybudesonide.
+Two major metabolites formed via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) catalyzed biotransformation have been isolated and identified as 16α-hydroxyprednisolone and 6ß-hydroxybudesonide.
 The corticosteroid activity of each of these two metabolites was less than 1% of that of the parent compound.
 No qualitative differences between the in vitro and in vivo metabolic patterns were detected.
 Negligible metabolic inactivation was observed in human lung and serum preparations.
