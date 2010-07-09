@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050805"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-3822-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "doxycycline",
+      "name": "oracea"
+    }
+  ],
+  "setid": "aa15c93a-ff4c-447a-8a21-96da506d8997",
+  "source": "dailymed"
+}
