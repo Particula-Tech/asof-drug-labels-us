@@ -55,7 +55,7 @@ Commonly used SSRIs are:
 - PROZAC®/SARAFEM® (fluoxetine)
 - SYMBYAX® (olanzapine/fluoxetine)
 - ZOLOFT® (sertraline)
-- LUVOX® (fluvoxamine).
+- LUVOX®(fluvoxamine).
 
 Commonly used SNRIs are:
 
