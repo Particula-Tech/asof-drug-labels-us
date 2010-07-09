@@ -1,10 +1,8 @@
-# Evoclin® (clindamycin phosphate) Foam, 1%
-
 Rx Only
 
-For Topical Use Only.
+FOR TOPICAL USE ONLY.
 
-Not for Ophthalmic, Oral, or Intravaginal Use.
+NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 
 # FLAMMABLE. AVOID FIRE, FLAME OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
 
@@ -32,10 +30,10 @@ AW No: AW-0668 P/N: 128598-0807
 
 U.S. Patent No. 7,141,237
 
-STIEFEL®
-
 The wisp logo and VersaFoam-HF are trademarks, and Evoclin, the V logo and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
 
 © 2007 Stiefel Laboratories, Inc.
+
+Printed in USA
 
 February 2007

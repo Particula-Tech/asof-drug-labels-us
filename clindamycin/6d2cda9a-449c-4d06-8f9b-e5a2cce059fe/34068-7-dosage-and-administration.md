@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION[Enter image caption here]
+# DOSAGE AND ADMINISTRATION
 
 Apply Evoclin once daily to affected areas after the skin is washed with mild soap and allowed to fully dry.
 Use enough to cover the entire affected area.

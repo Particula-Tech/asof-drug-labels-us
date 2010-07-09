@@ -47,9 +47,7 @@ Reproduction studies in rats using oral doses of clindamycin hydrochloride and c
 
 ## Pregnancy
 
-### Teratogenic effects
-
-#### Pregnancy Category B
+Teratogenic effects - Pregnancy Category B
 
 Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
