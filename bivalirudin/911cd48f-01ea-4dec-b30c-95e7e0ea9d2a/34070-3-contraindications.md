@@ -1,6 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Angiomax is contraindicated in patients with:
 
-- active major bleeding;
-- hypersensitivity to Angiomax or its components.
+- Active major bleeding;
+- Hypersensitivity (e.g., anaphylaxis) to Angiomax or its components [see Adverse Reactions (6.3)].
