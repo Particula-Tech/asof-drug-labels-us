@@ -64,6 +64,8 @@ Blood and lymphatic system disorders: Severe bleeding (in association with throm
 
 Immune system disorders: Allergic manifestations, anaphylactoid reactions.
 
-Gastrointestinal disorders: Abdominal pain potentially associated with neutropenic colitis (see Warnings and Precautions [5.1]).
+Respiratory, thoracic, and mediastinal disorders: Interstitial lung disease.
+
+Gastrointestinal disorders: Abdominal pain potentially associated with neutropenic colitis [see Warnings and Precautions (5.1)].
 
 Skin and subcutaneous tissue disorders: Angioedema, severe dermatitis, severe pruritus.

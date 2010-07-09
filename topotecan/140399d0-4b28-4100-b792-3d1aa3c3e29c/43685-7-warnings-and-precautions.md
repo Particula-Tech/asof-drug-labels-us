@@ -45,7 +45,13 @@ Of the 682 patients who received HYCAMTIN capsules in the 4 thoracic cancer stud
 Drug-related diarrhea was more frequent in patients ≥65 years of age (28%) compared to those <65 years of age (19%).
 [See Adverse Reactions (6.1) and Use in Specific Populations (8.5).]
 
-## 5.3 Pregnancy
+## 5.3 Interstitial Lung Disease
+
+HYCAMTIN has been associated with reports of interstitial lung disease (ILD), some of which have been fatal [see Adverse Reactions (6.2)].
+Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic exposure to radiation, and use of pneumotoxic drugs and/or colony stimulating factors.
+Patients should be monitored for pulmonary symptoms indicative of interstitial lung disease (e.g., cough, fever, dyspnea, and/or hypoxia), and HYCAMTIN should be discontinued if a new diagnosis of ILD is confirmed.
+
+## 5.4 Pregnancy
 
 Pregnancy Category D
 
@@ -60,7 +66,7 @@ This dose also caused an increase in total fetal malformations.
 The most frequent malformations were of the eye (microphthalmia, anophthalmia, rosette formation of the retina, coloboma of the retina, ectopic orbit), brain (dilated lateral and third ventricles), skull, and vertebrae.
 If this drug is used during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-## 5.4 Drug Interactions
+## 5.5 Drug Interactions
 
 P-glycoprotein inhibitors (e.g., cyclosporine A, elacridar, ketoconazole, ritonavir, and saquinavir) can cause significant increases in topotecan exposure.
 The concomitant use of P-glycoprotein inhibitors with HYCAMTIN capsules should be avoided.

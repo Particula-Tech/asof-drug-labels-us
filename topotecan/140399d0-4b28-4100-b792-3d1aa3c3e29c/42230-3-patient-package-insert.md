@@ -112,6 +112,7 @@ The following side effects have been reported in patients taking HYCAMTIN capsul
 - tiredness
 - hair loss
 - weakness
+- lung problems (may include being short of breath)
 
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 Your healthcare provider may change your dose of HYCAMTIN to a dose that is better for you or may stop your treatment with HYCAMTIN for a while.
@@ -156,9 +157,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2008, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-Issued: April 2008
+June 2010
 
-HYC:3PIL
+HYC:4PIL

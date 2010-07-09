@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D. [See Contraindications (4) and Warnings and Precautions (5.3).]
+Pregnancy Category D. [See Contraindications (4) and Warnings and Precautions (5.4).]
 
 ## 8.3 Nursing Mothers
 
