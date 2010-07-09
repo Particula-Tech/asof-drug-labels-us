@@ -6,6 +6,10 @@ Not for Ophthalmic Use
 
 # PATIENT INFORMATION
 
+Luxíq®
+
+(betamethasone valerate) Foam, 0.12%
+
 About Luxíq
 
 Your doctor has prescribed Luxíq (betamethasone valerate) Foam, 0.12%, for the relief of corticosteroid-responsive skin conditions of the scalp.
@@ -72,20 +76,19 @@ Coral Gables, FL 33134
 
 USA
 
-For additional information:
+For additional information visit www.luxiq.com
 
-1-888-500-DERM or visit
+Questions?
+Call 1-888-500-DERM (3376), Serious side effects may be reported to this number.
 
-www.luxiq.com
+303203
 
-AW/No.: AW-0685
-
-P/N: 182812ZZ
+P/N: xxxxxxxx
 
 Printed in: U.S.A.
 
-February 2007
+November 2009
 
-VersaFoam-HF is a trademark, and the V logo, Luxíq, the foam dollop and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
+Luxiq, VersaFoam-HF, VErsaFoam-HF & Design, Stiefel, and Stiefel & Design are registered trademarks of Stiefel Laboratories, Inc.
 
-©2007 Stiefel Laboratories, Inc.
+©2009 Stiefel Laboratories, Inc.

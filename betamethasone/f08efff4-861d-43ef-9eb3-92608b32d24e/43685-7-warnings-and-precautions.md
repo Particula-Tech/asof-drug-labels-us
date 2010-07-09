@@ -1,6 +1,6 @@
 # PRECAUTIONS
 
-## General:
+## General
 
 Systemic absorption of topical corticosteroids has caused reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
@@ -24,7 +24,7 @@ Such an observation should be corroborated with appropriate diagnostic patch tes
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, use of Luxíq should be discontinued until the infection has been adequately controlled.
 
-## Information for Patients:
+## Information for Patients
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
@@ -37,7 +37,7 @@ Patients using topical corticosteroids should receive the following information 
 5. As with other corticosteroids, therapy should be discontinued when control is achieved.
    If no improvement is seen within 2 weeks, contact the physician.
 
-## Laboratory Tests:
+## Laboratory Tests
 
 The following tests may be helpful in evaluating patients for HPA axis suppression:
 
@@ -47,13 +47,13 @@ A.M. plasma cortisol test
 
 Urinary free cortisol test
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of betamethasone valerate.
 
 Betamethasone was genotoxic in the in vitro human peripheral blood lymphocyte chromosome aberration assay with metabolic activation and in the in vivo mouse bone marrow micronucleus assay.
 
-## Pregnancy Category C:
+## Pregnancy Category C
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
@@ -62,13 +62,13 @@ Therefore, Luxíq should be used during pregnancy only if the potential benefit 
 
 Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
 Because many drugs are excreted in human milk, caution should be exercised when Luxíq is administered to a nursing woman.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
@@ -99,16 +99,16 @@ Coral Gables, FL 33134
 
 USA
 
-For additional information:
+For additional information visit www.luxiq.com
 
-1-888-500-DERM or visit
+Questions?
+Call 1-888-500-DERM (3376).
+Side effects may be reported to this number.
 
-www.luxiq.com
+303203
 
-AW No.: AW-0685
+P/N: xxxxxxxx
 
-P/N: 182812ZZ
+Lixuq, VersaFoam-HF, VersaFoam-HF & Design, Stiefel, and Stiefel & Design are registered trademarks of Stiefel Laboratories, Inc.
 
-VersaFoam-HF is a trademark, and the V logo, Luxíq, the foam dollop and Stiefel are registered trademarks of Stiefel Laboratories, Inc.
-
-©2007 Stiefel Laboratories, Inc.
+©2009 Stiefel Laboratories, Inc.

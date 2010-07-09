@@ -6,7 +6,7 @@ However, corticosteroids are thought to act by the induction of phospholipase A2
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid.
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
 Topical corticosteroids can be absorbed from intact healthy skin.
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
