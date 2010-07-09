@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050584"
+  ],
+  "inn": "erythromycin",
+  "labeler": "CORIA LABORATORIES",
+  "package_ndcs": [
+    "13548-030-25"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "erythromycin",
+      "name": "Akne-mycin"
+    }
+  ],
+  "setid": "720512c7-9ea4-40c8-b119-b39a3f9a448b",
+  "source": "dailymed"
+}
