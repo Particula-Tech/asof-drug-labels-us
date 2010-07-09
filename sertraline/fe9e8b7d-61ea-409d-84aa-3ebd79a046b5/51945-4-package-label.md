@@ -1,4 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 NDC 0049-4960-30
 
@@ -10,7 +12,37 @@ Zoloft® (sertraline HCl)
 
 Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
 
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0049-4900-30
+
+30 Tablets Rx only
+
+Zoloft® (sertraline HCl)
+
+50 mg*
+
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0049-4910-30
+
+30 Tablets Rx only
+
+Zoloft® (sertraline HCl)
+
+100 mg*
+
+Pfizer Roerig Division of Pfizer Inc, NY, NY 10017
+
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 60 mL Rx only
 
