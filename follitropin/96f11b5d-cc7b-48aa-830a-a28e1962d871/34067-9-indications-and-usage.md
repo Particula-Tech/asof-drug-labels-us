@@ -1,15 +1,34 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Follistim® AQ Cartridge (follitropin beta injection) is indicated for the development of multiple follicles in ovulatory patients participating in an Assisted Reproductive Technology (ART) program.
-Follistim® AQ Cartridge is also indicated for the induction of ovulation and pregnancy in anovulatory infertile patients in whom the cause of infertility is functional and not due to primary ovarian failure.
+Follistim® AQ (follitropin beta injection) Cartridge is indicated:
 
-## Selection of Patients
+In Women for:
 
-Before treatment with Follistim® AQ Cartridge (follitropin beta injection) is instituted:
+## 1.1 Induction of ovulation and pregnancy in anovulatory infertile women in whom the cause of infertility is functional and not due to primary ovarian failure
 
-- 1)A thorough gynecologic and endocrinologic evaluation of the patient must be performed.
-  The evaluation should include a hysterosalpingogram (to rule out uterine and tubal pathology) and documentation of anovulation by means of reviewing a patient's history, performing a physical examination, determining serum hormonal levels as indicated, and optionally performing an endometrial biopsy.
-  Patients with tubal pathology should receive Follistim® AQ Cartridge only if enrolled in an ART program.
-- 2)Primary ovarian failure should be excluded by the determination of circulating gonadotropin levels.
-- 3)Careful examination should be made to rule out early pregnancy.
-- 4)Evaluation of the partner's fertility potential should be included in the workup procedure.
+Prior to initiation of treatment with Follistim AQ Cartridge:
+
+- Women should have a complete gynecologic and endocrinologic evaluation
+- Primary ovarian failure should be excluded
+- The possibility of pregnancy should be excluded
+- Tubal patency should be demonstrated
+- The fertility status of the male partner should be evaluated
+
+## 1.2 Development of multiple follicles in ovulatory women participating in an Assisted Reproductive Technology (ART) program
+
+Prior to initiation of treatment with Follistim AQ:
+
+- Women should have a complete gynecologic and endocrinologic evaluation and diagnosis of cause of infertility
+- The possibility of pregnancy should be excluded
+- The fertility status of the male partner should be evaluated
+
+In Men for:
+
+## 1.3 Induction of spermatogenesis in men with primary and secondary hypogonadotropic hypogonadism (HH) in whom the cause of infertility is not due to primary testicular failure
+
+Prior to initiation of treatment with Follistim AQ Cartridge:
+
+- Men should have a complete medical and endocrinologic evaluation
+- Hypogonadotropic hypogonadism should be confirmed and primary testicular failure should be excluded
+- Serum testosterone levels should be normalized with human chorionic gonadotropin (hCG) treatment.
+- The fertility status of the female partner should be evaluated

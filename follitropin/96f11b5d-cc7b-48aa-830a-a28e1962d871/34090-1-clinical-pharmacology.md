@@ -1,89 +1,94 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Follicle stimulating hormone (FSH), the active component in Follistim® AQ Cartridge (follitropin beta injection), is required for normal follicular growth, maturation, and gonadal steroid production.
+## 12.1 Mechanism of Action
+
+Women:
+
+Follicle-stimulating hormone (FSH), the active component in Follistim AQ Cartridge, is required for normal follicular growth, maturation, and gonadal steroid production.
+
 In women, the level of FSH is critical for the onset and duration of follicular development, and consequently for the timing and number of follicles reaching maturity.
-Follistim® AQ Cartridge stimulates ovarian follicular growth in women who do not have primary ovarian failure.
-In order to effect the final phase of follicle maturation, resumption of meiosis and rupture of the follicle in the absence of an endogenous LH surge, human chorionic gonadotropin (hCG) must be given following treatment with Follistim® AQ Cartridge when patient monitoring indicates appropriate follicular development parameters have been reached.
+Follistim AQ Cartridge stimulates ovarian follicular growth in women who do not have primary ovarian failure.
+In order to effect the final phase of follicle maturation, resumption of meiosis and rupture of the follicle in the absence of an endogenous LH surge, human chorionic gonadotropin (hCG) must be given following treatment with Follistim AQ Cartridge when patient monitoring indicates appropriate follicular development parameters have been reached.
 
-## Pharmacokinetics
+Men:
 
-The pharmacokinetics of Follistim® AQ Cartridge (follitropin beta injection) were evaluated in an open-labeled, single-center, randomized study in 20 healthy female subjects.
-A single subcutaneous injection of lyophilized Follistim® (follitropin beta for injection) which was reconstituted and administered by conventional syringe was compared to a single subcutaneous injection of Follistim® AQ Cartridge administered using the Follistim Pen®.
-The precision of the Follistim Pen® resulted in more efficient delivery of the ready-for-use solution contained in the Follistim® AQ Cartridge and an 18% increase in AUC0–∞ and Cmax.
-The 18% difference found between serum FSH concentrations in subjects administered the two formulations was due to differences between the anticipated and actual volume delivered with the conventional syringe.
-The pharmacokinetic parameters for Follistim® AQ Cartridge are as follows:
+Follistim when administered with hCG stimulates spermatogenesis in men with hypogonadotropic hypogonadism.
+FSH, the active component of Follistim, is the pituitary hormone responsible for spermatogenesis.
 
-TABLE 1: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim® AQ Cartridge (n=20)
+## 12.3 Pharmacokinetics
+
+Pharmacokinetic parameters for Follistim AQ Cartridge were evaluated in an open-labeled, single-center, randomized study in 20 healthy women.
+Serum FSH values from a single subcutaneous injection of reconstituted Follistim lyophilized powder administered by conventional syringe were compared to those values following a single subcutaneous injection of Follistim AQ Cartridge administered with the Follistim Pen injector.
+Administration of follitropin beta with the Follistim Pen resulted an 18% increase in AUC0–∞ and Cmax.
+The 18% difference in serum FSH concentrations resulting from administration of the two formulations was due to differences between the anticipated and actual volume delivered with the conventional syringe.
+The pharmacokinetic parameters for Follistim AQ Cartridge are as follows:
+
+Table 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
 
 |  | AUC0–∞ (IU/L*h) | Cmax (IU/L) | tmax (h) | t1/2 (h) | CLapp (L/h/kg) |
 | --- | --- | --- | --- | --- | --- |
-| Follistim® AQ Cartridge | 215.1 (45.8) | 3.4 (0.7) | 12.9 (6.2) | 33.4 (4.2) | 0.01 (0.003) |
-| AUC0–∞ Area under the curve Cmax Maximum concentration tmax Time to maximum concentration t1/2 Elimination half-life CLapp Clearance |  |  |  |  |  |
+| Follistim AQ Cartridge | 215.1 (45.8) | 3.4 (0.7) | 12.9 (6.2) | 33.4 (4.2) | 0.01 (0.003) |
+| AUC0–∞ Area under the curve |  |  |  |  |  |
+| Cmax Maximum concentration |  |  |  |  |  |
+| tmax Time to maximum concentration |  |  |  |  |  |
+| t1/2 Elimination half-life |  |  |  |  |  |
+| CLapp Clearance |  |  |  |  |  |
 
-### Absorption
+Absorption:
 
-The bioavailability of Follistim® following subcutaneous administration was investigated in healthy, pituitary-suppressed, female subjects given a single 300 IU dose.
-After subcutaneous injection the apparent dose absorbed was 77.8%.
+Women:
 
-In healthy, pituitary-suppressed, female subjects following a subcutaneous administration of 300 IU of Follistim®, the AUC was 455.6±141.4 IU/L*h and Cmax was 5.41±0.72 IU/L.
-A multiple, dose proportionality, pharmacokinetic study of Follistim® was completed in healthy, pituitary-suppressed, female subjects given subcutaneous doses of 75, 150, or 225 IU for seven days.
-Steady-state blood concentrations of FSH were reached with all doses after five days of treatment based on the minimum concentrations of FSH just prior to dosing (Cmin).
-Peak blood concentrations with the 75, 150, and 225 IU dose were 4.30±0.60, 8.51±1.16, and 13.92±1.81 IU/L, respectively.
+The bioavailability of Follistim following subcutaneous and intramuscular administration was investigated in healthy, pituitary-suppressed, women given a single 300 international units dose.
+In these women, the area under the curve (AUC), expressed as the mean ± SD, was equivalent between the subcutaneous (455.6 ± 141.4 IU*h/L) and intramuscular (445.7 ± 135.7 IU*h/L) routes of administration.
+However, equivalence could not be established with respect to the peak serum FSH levels (Cmax).
+The Cmax achieved after subcutaneous administration and intramuscular administration was 5.41 ± 0.72 international units/L and 6.86 ± 2.90 international units/L, respectively.
+After subcutaneous or intramuscular injection the apparent dose absorbed was 77.8% and 76.4%, respectively.
 
-### Distribution
+The pharmacokinetics and pharmacodynamics of a single, intramuscular dose (300 international units) of Follistim were also investigated in a group (n=8) of gonadotropin-deficient, but otherwise healthy women.
+In these women, FSH (mean ± SD) AUC was 339 ± 105 international units*h/L, Cmax was 4.3 ± 1.7 international units/L.
+Cmax occurred at approximately 27 ± 5.4 hours after intramuscular administration.
 
-The volume of distribution of Follistim® in healthy, pituitary-suppressed, female subjects following intravenous administration of a 300 IU dose was approximately 8 L.
+A multiple dose, dose proportionality, pharmacokinetic study of Follistim was completed in healthy, pituitary-suppressed, female subjects given subcutaneous doses of 75, 150, or 225 international units for 7 days.
+Steady-state blood concentrations of FSH were reached with all doses after 5 days of treatment based on the trough concentrations of FSH just prior to dosing (Ctrough).
+Peak blood concentrations with the 75, 150, and 225 international units dose were 4.30 ± 0.60 international units/L, 8.51 ± 1.16 international units/L and 13.92 ± 1.81 international units/L, respectively.
 
-### Metabolism
+Men:
 
-The recombinant FSH in Follistim® AQ Cartridge is biochemically similar to natural FSH, and it is therefore anticipated that it is metabolized in the same manner.
+No PK studies were conducted using Follistim AQ Cartridge in men.
+Exposures of follitropin beta from Follistim AQ Cartridge and Follistim are expected to be equivalent after adjusting for the 18% difference in dose [see Dosage and Administration (2)].
 
-### Elimination
+Serum levels of FSH were measured in a clinical study that compared the effects of two different dosing schedules of Follistim (150 international units three times a week or 225 international units twice a week) administered by subcutaneous injection concurrently with chorionic gonadotropin for induction of spermatogenesis in hypogonadotropic hypogonadal men.
+Administration of Follistim was started at week 17.
+Mean serum trough concentrations of FSH remained fairly constant over the treatment period.
+At the end of treatment (week 64), the mean serum trough concentrations of FSH were 2.09 international units/L in the 150 international units group and 3.22 international units/L in the 225 international units group.
+Serum trough concentrations of FSH measured prior to the first Follistim injection on the Mondays of active treatment period (weeks 17 to 64) and one week after the end of treatment period are presented in Figure 1.
 
-The elimination half-life (t1/2) following a single subcutaneous injection of 150 IU of Follistim® AQ Cartridge in female patients was 33.4 (4.2) hours.
+FIGURE 1: Mean (SD) Serum Trough Concentrations of FSH in Men Following Subcutaneous Administration of Follistim Using Two Different Dosing Schedules (150 International Units Three Times a Week or 225 International Units Twice a Week)
+
+Distribution:
+
+The volume of distribution of Follistim in healthy, pituitary-suppressed, women following intravenous administration of a 300 international units dose was approximately 8 L.
+
+Metabolism:
+
+The recombinant FSH in Follistim AQ Cartridge is biochemically very similar to urinary FSH and it is therefore anticipated that it is metabolized in the same manner.
+
+Elimination:
+
+The elimination half-life (t1/2) following a single subcutaneous injection of 150 IU of Follistim AQ Cartridge in women was 33.4 (4.2) hours.
 The clearance was 0.01 (0.003) L/h/kg.
 
-### Special Populations
+Use in Specific Populations:
 
-The pharmacokinetics of Follistim® AQ Cartridge (follitropin beta injection) have not been determined in special populations such as geriatric, pediatric, renally impaired, and hepatically impaired patients.
+Body weight: The effect of body weight on the pharmacokinetics of Follistim was evaluated in a group of European and Japanese women who were significantly different in terms of body weight.
+The European women had a body weight of (mean ± SD) 67.4 ± 13.5 kg and the Japanese subjects were 46.8 ± 11.6 kg.
+Following a single intramuscular dose of 300 international units of Follistim, the AUC was significantly smaller in European women (339 ± 105 international units*h/L) than in Japanese women (544 ± 201 international units*h/L).
+However, clearance per kg of body weight was essentially the same for the respective groups (0.014 and 0.013 L/hr/kg).
 
-#### Drug-Drug Interactions
+Geriatric Use: The pharmacokinetics of Follistim has not been studied in geriatric subjects.
 
-Formal drug-drug interaction studies have not been conducted (see PRECAUTIONS).
+Pediatric Use: The pharmacokinetics of Follistim has not been studied in pediatric subjects.
 
-## Clinical Studies
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of Follistim has not been studied.
 
-The efficacy, tolerance, and ease of use of Follistim® AQ Cartridge (follitropin beta injection) administered using the Follistim Pen® were established in two US clinical studies [one study for Assisted Reproductive Technologies (ART) and one study for Ovulation Induction (OI)].
-
-### Assisted Reproductive Technologies (ART)
-
-Results from an open-label, non-controlled, multicenter study in 60 women undergoing Controlled Ovarian Hyperstimulation (COH) for IVF or ICSI with Follistim® AQ Cartridge are summarized in Table 2.
-
-TABLE 2: Results From an Open-label, Non-controlled, Multicenter Study in 60 Women Undergoing COH for IVF or ICSI With Follistim® AQ Cartridge Self-administered With the Follistim Pen®.
-
-| Parameter | Follistim® AQ Cartridge n=60 |
-| --- | --- |
-| Mean (SD) number of oocytes recovered | 13.9 (10.3) |
-| Mean (SD) total number of embryos obtained | 7.2 (5.5) |
-| Median serum estradiol on the day of hCG (pg/mL) | 1423.0 Range (469.5–4874.0) |
-| Mean (SD) treatment duration (days) | 9.0 (1.6) |
-| Biochemical pregnancy rate/attempt (%) | 56.7 |
-| Biochemical pregnancy rate/transfer (%) | 61.8 |
-
-### Ovulation Induction (OI)
-
-Results from an open-label, non-controlled, multicenter study in 43 clomiphene-resistant women with chronic anovulation (WHO group II) who were treated with Follistim® AQ Cartridge for induction of ovulation are summarized in Table 3.
-
-TABLE 3: Results From an Open-label, Non-controlled, Multicenter Study in 43 Clomiphene-resistant Women With Chronic Anovulation (WHO group II) Undergoing Ovulation Induction With Follistim® AQ Cartridge Self-administered With the Follistim Pen®.
-
-|  | Follistim® AQ Cartridge (n=43) | n |
-| --- | --- | --- |
-| Ovulation rate | 95.3% | 41 |
-| Biochemical pregnancy per attempt | 34.9% | 15 |
-
-### Ease of Use
-
-In an observer questionnaire, designed to assess the "Ease of Use" of Follistim® AQ Cartridge with the Follistim Pen®, subjects rated their experience with the pen injector device.
-Subjects undergoing ART and OI rated their injection experience in two separate studies.
-On Day 6 in the ART group, more subjects rated the overall experience as "very good" as compared to Day 2, 54 subjects (90%) versus 49 subjects (81.8%), respectively, and only one subject (1.7%) had a "neutral" response.
-In the Ovulation Induction group, the experience rating of "very good" increased from 90.7% on Day 2 to 95.2% on Day 8.
+Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of Follistim has not been studied.

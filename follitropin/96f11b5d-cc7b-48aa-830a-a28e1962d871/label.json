@@ -1,14 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021211"
+  ],
   "inn": "follitropin",
-  "labeler": "Organon USA Inc.",
+  "labeler": "Organon Pharmaceuticals USA",
   "package_ndcs": [
     "0052-0303-01",
     "0052-0313-01",
+    "0052-0313-81",
     "0052-0316-01",
+    "0052-0316-81",
     "0052-0326-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "follitropin",
+      "name": "Follistim AQ"
+    }
+  ],
   "setid": "96f11b5d-cc7b-48aa-830a-a28e1962d871",
   "source": "dailymed"
 }

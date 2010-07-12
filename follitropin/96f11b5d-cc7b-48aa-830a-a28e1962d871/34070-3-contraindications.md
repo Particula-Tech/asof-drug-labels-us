@@ -1,13 +1,16 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Follistim® AQ Cartridge (follitropin beta injection) is contraindicated in women who exhibit:
+Follistim AQ Cartridge is contraindicated in women and men who exhibit:
 
-- 1)Prior hypersensitivity to recombinant hFSH products.
-- 2)High levels of FSH indicating primary ovarian failure.
-- 3)Uncontrolled thyroid or adrenal dysfunction.
-- 4)Tumor of the ovary, breast, uterus, hypothalamus, or pituitary gland.
-- 5)Pregnancy.
-- 6)Heavy or irregular vaginal bleeding of undetermined origin.
-- 7)Ovarian cysts or enlargement not due to polycystic ovary syndrome (PCOS).
-- 8)Hypersensitivity reactions to streptomycin or neomycin.
-  Follistim® AQ Cartridge may contain traces of these antibiotics and may cause hypersensitivity reactions in susceptible persons.
+- Prior hypersensitivity to recombinant hFSH products
+- High levels of FSH indicating primary gonadal failure
+- Presence of uncontrolled non-gonadal endocrinopathies (e.g., thyroid, adrenal, or pituitary disorders) [see Indications and Usage (1.1, 1.2, 1.3)]
+- Hypersensitivity reactions to streptomycin or neomycin.
+  Follistim AQ may contain traces of these antibiotics
+- Tumor of the ovary, breast, uterus, testis, hypothalamus or pituitary gland
+
+Follistim AQ Cartridge is also contraindicated in women who exhibit:
+
+- Pregnancy [see Use in Specific Populations (8.1)]
+- Heavy or irregular vaginal bleeding of undetermined origin
+- Ovarian cysts or enlargement not due to polycystic ovary syndrome (PCOS)

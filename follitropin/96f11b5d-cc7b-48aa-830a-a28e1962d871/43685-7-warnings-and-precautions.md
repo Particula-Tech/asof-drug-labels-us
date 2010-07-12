@@ -1,140 +1,133 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Follistim® AQ Cartridge (follitropin beta injection) should be used only by physicians who are experienced in infertility treatment.
-Changes in brand (manufacturer), type (recombinant, urinary, etc.), and/or method of administration (Follistim Pen®, conventional syringe, etc.) may result in the need to adjust the dose.
-Follistim® AQ Cartridge administered with the Follistim Pen® contains a potent gonadotropic substance and delivers on average an 18% higher amount of follitropin beta as compared to lyophilized preparations administered by conventional syringe.
-Accordingly, a lower starting dose for gonadotropin stimulation and dose adjustments during gonadotropin stimulation should be considered for each woman treated with Follistim® AQ Cartridge (see DOSAGE AND ADMINISTRATION).
+Follistim AQ Cartridge should be used only by physicians who are experienced in infertility treatment.
+Follistim AQ Cartridge contains a potent gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) [see Warnings and Precautions (5.2)] with or without pulmonary or vascular complications [see Warnings and Precautions (5.3)] and multiple births [see Warnings and Precautions (5.5)].
+Gonadotropin therapy requires the availability of appropriate monitoring facilities [see Warnings and Precautions (5.10)].
 
-## Overstimulation of the Ovary During Treatment With Follistim® AQ Cartridge (follitropin beta injection)
+Careful attention should be given to the diagnosis of infertility and in the selection of candidates for Follistim AQ Cartridge therapy [see Indications and Usage (1.1, 1.2, 1.3) and Dosage and Administration (2.2, 2.3, 2.4)].
 
-In order to minimize the hazards associated with the occasional abnormal ovarian enlargement that may occur with Follistim® AQ Cartridge therapy, the lowest effective dose should be used (see DOSAGE AND ADMINISTRATION).
-Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels can further minimize the risk of overstimulation.
+Switching to Follistim AQ Cartridge from other brands (manufacturer), types (recombinant, urinary, etc.), and/or methods of administration (Follistim Pen, conventional syringe, etc.) may necessitate an adjustment of the dose [see Dosage and Administration (2)].
 
-If the ovaries are abnormally enlarged on the last day of treatment with Follistim®AQ Cartridge, hCG should not be administered in this course of treatment, to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
+## 5.1 Abnormal Ovarian Enlargement
 
-### Ovarian Hyperstimulation Syndrome (OHSS)
+In order to minimize the hazards associated with abnormal ovarian enlargement that may occur with Follistim AQ therapy, treatment should be individualized and the lowest effective dose should be used [see Dosage and Administration (2.2, 2.3)].
+Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels is important to minimize the risk of overstimulation [see Warnings and Precautions (5.8)].
 
-OHSS is a medical entity distinct from uncomplicated ovarian enlargement and may progress rapidly to become a serious medical event.
+If the ovaries are abnormally enlarged on the last day of Follistim AQ therapy, hCG should not be administered in order to reduce the chances of developing Ovarian Hyperstimulation Syndrome (OHSS).
+Intercourse should be prohibited in patients with significant ovarian enlargement after ovulation because of the danger of hemoperitoneum resulting from ruptured ovarian cysts [see Warnings and Precautions (5.3)].
+
+## 5.2 Ovarian Hyperstimulation Syndrome
+
+OHSS is a medical entity distinct from uncomplicated ovarian enlargement and may progress rapidly to become a serious medical condition.
 OHSS is characterized by a dramatic increase in vascular permeability, which can result in a rapid accumulation of fluid in the peritoneal cavity, thorax, and potentially, the pericardium.
 The early warning signs of OHSS developing are severe pelvic pain, nausea, vomiting, and weight gain.
-The following symptoms have been reported in cases of OHSS: abdominal pain, abdominal distension, gastrointestinal symptoms including nausea, vomiting and diarrhea, severe ovarian enlargement, weight gain, dyspnea, and oliguria.
-Clinical evaluation may reveal hypovolemia, hemoconcentration, electrolyte imbalances, ascites, hemoperitoneum, pleural effusions, hydrothorax, acute pulmonary distress, and thromboembolic events (see WARNINGS-Pulmonary and Vascular Complications).
-Transient liver function test abnormalities suggestive of hepatic dysfunction, which may be accompanied by morphologic changes on liver biopsy, have been reported in association with Ovarian Hyperstimulation Syndrome (OHSS).
+Abdominal pain, abdominal distension, gastrointestinal symptoms including nausea, vomiting and diarrhea, severe ovarian enlargement, weight gain, dyspnea, and oliguria have been reported with OHSS.
+Clinical evaluation may reveal hypovolemia, hemoconcentration, electrolyte imbalances, ascites, hemoperitoneum, pleural effusions, hydrothorax, acute pulmonary distress, and thromboembolic reactions [see Warnings and Precautions (5.3)].
+Transient liver function test abnormalities suggestive of hepatic dysfunction with or without morphologic changes on liver biopsy have also been reported in association with OHSS.
 
-During clinical trials with Follistim® and Follistim® AQ Cartridge therapy, OHSS occurred in 60 (5.3%) of the 1132 women treated and of these 33 (2.9%) were hospitalized.
-Cases of OHSS are more common, more severe, and more protracted if pregnancy occurs; therefore, patients should be followed for at least two weeks after hCG administration.
-Most often, OHSS occurs after treatment has been discontinued and it can develop rapidly, reaching its maximum about seven to ten days following treatment.
+OHSS occurs after gonadotropin treatment has been discontinued and it can develop rapidly, reaching its maximum about seven to ten days following treatment.
 Usually, OHSS resolves spontaneously with the onset of menses.
-If there is evidence that OHSS may be developing prior to hCG administration (see PRECAUTIONS-Laboratory Tests), the hCG must be withheld.
+If there is evidence that OHSS may be developing prior to hCG administration [see Warnings and Precautions (5.1)], the hCG must be withheld.
+Cases of OHSS are more common, more severe, and more protracted if pregnancy occurs; therefore, women should be assessed for the development of OHSS for at least two weeks after hCG administration.
 
 If serious OHSS occurs, treatment should be stopped and the patient should be hospitalized.
-Treatment is primarily symptomatic and should consist of bed rest, fluid and electrolyte management, and analgesics (if needed).
-Hemoconcentration associated with fluid loss into the peritoneal cavity, pleural cavity, and the pericardial cavity may occur and should be thoroughly assessed in the following manner: 1) fluid intake and output; 2) weight; 3) hematocrit; 4) serum and urinary electrolytes; 5) urine specific gravity; 6) BUN and creatinine; 7) total proteins with albumin: globulin ratio; 8) coagulation studies; 9) electrocardiogram to monitor for hyperkalemia and 10) abdominal girth.
-These determinations should be performed daily or more often based on clinical need.
+Treatment is primarily symptomatic and overall should consist of bed rest, fluid and electrolyte management, and analgesics (if needed).
+Because the use of diuretics can accentuate the diminished intravascular volume, diuretics should be avoided except in the late phase of resolution as described below.
+The management of OHSS may be divided into three phases as follows:
+
+- Acute Phase: Management should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
+  Fluid intake and output, weight, hematocrit, serum and urinary electrolytes, urine specific gravity, BUN and creatinine, total proteins with albumin: globulin ratio, coagulation studies, electrocardiogram to monitor for hyperkalemia, and abdominal girth should be thoroughly assessed daily or more often based on the clinical need.
+  Treatment, consisting of limited intravenous fluids, electrolytes, human serum albumin, is intended to normalize electrolytes while maintaining an acceptable but somewhat reduced intravascular volume.
+  Full correction of the intravascular volume deficit may lead to an unacceptable increase in the amount of third space fluid accumulation.
+- Chronic Phase: After the acute phase is successfully managed as above, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
+- Resolution Phase: As third space fluid returns to the intravascular compartment, a fall in hematocrit and increasing urinary output are observed in the absence of any increase in intake.
+  Peripheral and/or pulmonary edema may result if the kidneys are unable to excrete third space fluid as rapidly as it is mobilized.
+  Diuretics may be indicated during the resolution phase, if necessary, to combat pulmonary edema.
 
 OHSS increases the risk of injury to the ovary.
 The ascitic, pleural, and pericardial fluid should not be removed unless there is the necessity to relieve symptoms such as pulmonary distress or cardiac tamponade.
-Pelvic examination may cause rupture of an ovarian cyst, which may result in hemoperitoneum, and should, therefore, be avoided.
+Pelvic examination may cause rupture of an ovarian cyst, which may result in hemoperitoneum, and should therefore be avoided.
 If bleeding occurs and requires surgical intervention, the clinical objective should be to control the bleeding and retain as much ovarian tissue as possible.
-Intercourse should be prohibited in patients with significant ovarian enlargement after ovulation because of the danger of hemoperitoneum resulting from ruptured ovarian cysts.
 
-The management of OHSS may be divided into three phases: an acute, a chronic, and a resolution phase.
-Because the use of diuretics can accentuate the diminished intravascular volume, diuretics should be avoided except in the late phase of resolution as described below.
+During clinical trials with Follistim therapy, OHSS occurred in 7.6% of 105 women (OI) and 5.2% of 591 women (ART) treated with Follistim.
 
-### Acute Phase
-
-Management during the acute phase should be directed at preventing hemoconcentration due to loss of intravascular volume to the third space and minimizing the risk of thromboembolic phenomena and kidney damage.
-Treatment is intended to normalize electrolytes while maintaining an acceptable but somewhat reduced intravascular volume.
-Full correction of the intravascular volume deficit may lead to an unacceptable increase in the amount of third space fluid accumulation.
-
-Management includes administration of limited intravenous fluids, electrolytes, human serum albumin, and strict monitoring of fluid intake and output.
-Monitoring for the development of hyperkalemia is recommended.
-
-### Chronic Phase
-
-After stabilizing the patient during the acute phase, excessive fluid accumulation in the third space should be limited by instituting severe potassium, sodium, and fluid restriction.
-
-### Resolution Phase
-
-A fall in hematocrit and an increasing urinary output without an increased intake are observed due to the return of the third space fluid to the intravascular compartment.
-Peripheral and/or pulmonary edema may result if the kidneys are unable to excrete third space fluid as rapidly as it is mobilized.
-Diuretics may be indicated during the resolution phase, if necessary, to combat pulmonary edema.
-
-## Pulmonary and Vascular Complications
+## 5.3 Pulmonary and Vascular Complications
 
 Serious pulmonary conditions (e.g., atelectasis, acute respiratory distress syndrome) have been reported in women treated with gonadotropins.
-In addition, thromboembolic events both in association with, and separate from, the Ovarian Hyperstimulation Syndrome have been reported following gonadotropin therapy.
+In addition, thromboembolic reactions both in association with, and separate from OHSS have been reported following gonadotropin therapy.
 Intravascular thrombosis, which may originate in venous or arterial vessels, can result in reduced blood flow to vital organs or the extremities.
-Sequelae of such events have included venous thrombophlebitis, pulmonary embolism, pulmonary infarction, cerebral vascular occlusion (stroke), and arterial occlusion resulting in loss of limb.
-In rare cases, pulmonary complications and/or thromboembolic events have resulted in death.
+Women with generally recognized risk factors for thrombosis, such as a personal or family history, severe obesity, or thrombophilia, may have an increased risk of venous or arterial thrombo-embolic events, during or following treatment with gonadotropins.
+Sequelae of such reactions have included venous thrombophlebitis, pulmonary embolism, pulmonary infarction, cerebral vascular occlusion (stroke), and arterial occlusion resulting in loss of limb and rarely in myocardial infarction.
+In rare cases, pulmonary complications and/or thromboembolic reactions have resulted in death.
+In women with recognized risk factors, the benefits of ovulation induction or in vitro fertilization (IVF) treatment need to be weighed against the risks.
+It should be noted, that pregnancy itself also carries an increased risk of thrombosis.
 
-## Multiple Births
+## 5.4 Ovarian Torsion
 
-Multiple births have been reported for all FSH treatments including Follistim® (follitropin beta for injection) treatment.
-The patient and her partner should be advised of the potential risk of multiple births before starting treatment.
+Ovarian torsion has been reported after treatment with Follistim AQ and after intervention with other gonadotropins.
+This may be related to OHSS, pregnancy, previous abdominal surgery, past history of ovarian torsion, previous or current ovarian cyst and polycystic ovaries.
+Damage to the ovary due to reduced blood supply can be limited by early diagnosis and immediate detorsion.
 
-# PRECAUTIONS
+## 5.5 Multi-fetal Gestation and Birth
 
-## General
+Multi-fetal gestation and births have been reported with all gonadotopin treatments including Follistim AQ treatment.
+The woman and her partner should be advised of the potential risk of multi-fetal gestation and births before starting treatment.
 
-Careful attention should be given to the diagnosis of infertility and in the selection of candidates for treatment with Follistim® AQ Cartridge (follitropin beta injection) (see INDICATIONS AND USAGE-Selection of Patients).
+## 5.6 Congenital Anomalies
 
-## Information for Patients
+The incidence of congenital malformations after ART may be slightly higher than after spontaneous conception.
+This slightly higher incidence is thought to be related to differences in parental characteristics (e.g., maternal age, sperm characteristics) and to the higher incidence of multi-fetal gestations after ART.
+There are no indications that the use of gonadotropins during ART is associated with an increased risk of congenital malformations.
 
-Physicians must instruct patients on the correct usage and dosing of Follistim® AQ Cartridge (follitropin beta injection) in conjunction with the Follistim Pen®.
+## 5.7 Ectopic Pregnancy
 
-Patients should read and follow all instructions in the Follistim Pen® Instructions for Use Manual/Treatment Diary prior to administration of Follistim® AQ Cartridge.
+Since infertile women undergoing ART, and particularly IVF, often have tubal abnormalities the incidence of ectopic pregnancies might be increased.
+Early confirmation of an intrauterine pregnancy should be determined by hCG testing and transvaginal ultrasound.
 
-Prior to treatment with Follistim® AQ Cartridge, patients should be informed of the duration of treatment and monitoring procedures that will be required.
-The risks of Ovarian Hyperstimulation Syndrome and multiple births (see WARNINGS), and other possible adverse reactions (see ADVERSE REACTIONS) should be discussed.
+## 5.8 Spontaneous Abortion
 
-## Laboratory Tests
+The risk of spontaneous abortions (miscarriage) is increased with gonadotropin products.
+However, causality has not been established.
+The increased risk may be a factor of the underlying infertility.
 
-In most instances, treatment with Follistim® AQ Cartridge (follitropin beta injection) will result only in follicular growth and maturation.
-In order to complete the final phase of follicular maturation and to induce ovulation, hCG must be given following the administration of Follistim® AQ Cartridge or when clinical assessment of the patient indicates that sufficient follicular maturation has occurred.
-This may be directly estimated by sonographic visualization of the ovaries and endometrial lining and/or measuring serum estradiol levels.
-The combination of both ultrasonography and measurement of estradiol levels is useful for monitoring the growth and development of follicles, timing hCG administration, as well as minimizing the risk of OHSS and multiple gestations.
+## 5.9 Ovarian Neoplasm
 
-The clinical evaluation of estrogenic activity (changes in vaginal cytology, changes in appearance and volume of cervical mucus, spinnbarkeit, and ferning of the cervical mucus) provides an indirect estimate of the estrogenic effect upon the target organs, and therefore, it should only be used adjunctively with more direct estimates of follicular development (e.g., ultrasonography and serum estradiol determinations).
+There have been infrequent reports of ovarian neoplasms, both benign and malignant, in women who have undergone multiple drug regimens for ovulation induction; however, a causal relationship has not been established.
 
-The clinical confirmation of ovulation is obtained by direct and indirect indices of progesterone production.
-The indices most generally used are as follows:
+## 5.10 Laboratory Tests
 
-1. a)A rise in basal body temperature
-2. b)Increase in serum progesterone
-3. c)Menstruation following the shift in basal body temperature
+For Women:
 
-When used in conjunction with indices of progesterone production, sonographic visualization of the ovaries will assist in determining if ovulation has occurred.
-Sonographic evidence of ovulation may include the following:
+In most instances, treatment with Follistim AQ will result only in follicular growth and maturation.
+In order to complete the final phase of follicular maturation and to induce ovulation, hCG must be given following the administration of Follistim AQ Cartridge or when clinical assessment indicates that sufficient follicular maturation has occurred.
+The degree of follicular maturation and the timing of hCG administration can both be determined with the use of sonographic visualization of the ovaries and endometrial lining in conjunction with measurement of serum estradiol levels.
+The combination of transvaginal ultrasonography and measurement of serum estradiol levels is also useful for minimizing the risk of OHSS and multi-fetal gestations.
 
-1. a)Fluid in the cul-de-sac
-2. b)Follicle showing marked decrease in size
-3. c)Collapsed follicle
+The clinical confirmation of ovulation is obtained by the following direct or indirect indices of progesterone production as well as sonographic evidence of ovulation.
 
-## Drug Interactions
+Direct or indirect indices of progesterone production are:
 
-No drug-drug interaction studies have been performed.
+- Urinary or serum luteinizing hormone (LH) rise
+- A rise in basal body temperature
+- Increase in serum progesterone
+- Menstruation following the shift in basal body temperature
 
-## Carcinogenesis and Mutagenesis, Impairment of Fertility
+The following provide sonographic evidence of ovulation:
 
-Long-term toxicity studies in animals have not been performed with Follistim® AQ Cartridge (follitropin beta injection) to evaluate the carcinogenic potential of the drug.
-Follistim® (follitropin beta for injection) was not mutagenic in the Ames test using S. typhimurium and E. coli tester strains and did not produce chromosomal aberrations in an in vitro assay using human lymphocytes.
+- Collapsed follicle
+- Fluid in the cul-de-sac
+- Features consistent with corpus luteum formation
 
-## Pregnancy
+Sonographic evaluation of the early pregnancy is also important to rule out ectopic pregnancy.
 
-### Pregnancy Category X
+For Men:
 
-(See CONTRAINDICATIONS).
+Clinical monitoring for spermatogenesis utilizes the following indirect or direct measures:
 
-## Nursing Mothers
+- Serum testosterone level
+- Semen analysis
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in the nursing infant from Follistim® AQ Cartridge (follitropin beta injection), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 5.11 Follistim Pen
 
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-Clinical studies did not include subjects aged 65 and over.
+The Follistim Pen is intended only for use with Follistim AQ Cartridge.
+The Follistim Pen is not recommended for the blind or visually impaired without the assistance of an individual with good vision who is trained in the proper use of the injection device.
