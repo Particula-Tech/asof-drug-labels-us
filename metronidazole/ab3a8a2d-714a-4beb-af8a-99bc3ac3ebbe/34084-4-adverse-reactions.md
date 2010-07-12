@@ -1,12 +1,18 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In a controlled clinical trial, 557 patients used METROGEL® (metronidazole gel), 1% and 189 patients used the gel vehicle once daily.
-The following table summarizes adverse reactions that occur at a rate of ≥1% in the clinical trials:
+## 6.1 Clinical Studies Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In a controlled clinical trial, 557 patients used metronidazole gel, 1% and 189 patients used the gel vehicle once daily for up to 10 weeks.
+The following table summarizes selected adverse reactions that occurred at a rate of ≥1%:
+
+Table 1: Adverse Reactions That Occurred at a Rate of≥1%
 
 |  | N= 557 | N= 189 |
 | --- | --- | --- |
 | System Organ Class/Preferred Term | Metronidazole Gel, 1% | Gel Vehicle |
-| Patients with at least one AE Number (%) of Patients | 186(33.4) | 51(27.0) |
+| Patients with at least one AE Number (%) of Patients | 186 (33.4) | 51 (27.0) |
 | Infections and infestations | 76 (13.6) | 28 (14.8) |
 | Bronchitis | 6 (1.1) | 3 (1.6) |
 | Influenza | 8 (1.4) | 1 (0.5) |
@@ -29,7 +35,7 @@ The following table summarizes adverse reactions that occur at a rate of ≥1% i
 | Vascular disorders | 8 (1.4) | 1 (0.5) |
 | Hypertension | 6 (1.1) | 1 (0.5) |
 
-The following table summarizes the highest scores of local cutaneous signs and symptoms of irritation that were worse than baseline:
+Table 2: Local Cutaneous Signs and Symptoms of Irritation That Were Worse Than Baseline
 
 |  | Metronidazole Gel, 1% | Gel Vehicle |
 | --- | --- | --- |
@@ -52,3 +58,8 @@ The following table summarizes the highest scores of local cutaneous signs and s
 | Severe | 10 (1.8) | 1 (0.5) |
 
 The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea.
+
+## 6.2 Post Marketing Experience
+
+The following adverse reaction has been identified during post approval use of topical metronidazole: peripheral neuropathy.
+Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
