@@ -20,11 +20,12 @@ Therapy with AFINITOR may be re-initiated at a reduced dose of 5 mg daily depend
 
 ## 5.2 Infections
 
-AFINITOR has immunosuppressive properties and may predispose patients to infections, especially infections with opportunistic pathogens [see Adverse Reactions (6.1)].
-Localized and systemic infections, including pneumonia, other bacterial infections and invasive fungal infections, such as aspergillosis or candidiasis, have occurred in patients taking AFINITOR.
-Some of these infections have been severe (e.g., leading to respiratory failure) or fatal.
-Physicians and patients should be aware of the increased risk of infection with AFINITOR, be vigilant for signs and symptoms of infection and institute appropriate treatment promptly.
+AFINITOR has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoan infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1)].
+Localized and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections, such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus have occurred in patients taking AFINITOR.
+Some of these infections have been severe (e.g., leading to respiratory or hepatic failure) or fatal.
+Physicians and patients should be aware of the increased risk of infection with AFINITOR.
 Complete treatment of pre-existing invasive fungal infections prior to starting treatment with AFINITOR.
+While taking AFINITOR be vigilant for signs and symptoms of infection; if a diagnosis of an infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of AFINITOR.
 If a diagnosis of invasive systemic fungal infection is made, discontinue AFINITOR and treat with appropriate antifungal therapy.
 
 ## 5.3 Oral Ulceration
@@ -54,9 +55,12 @@ Monitoring of complete blood count is recommended prior to the start of AFINITOR
 
 ## 5.5 Drug-drug Interactions
 
-Due to significant increases in exposure of everolimus, co-administration with strong or moderate inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, amprenavir, indinavir, nelfinavir, delavirdine, fosamprenavir, voriconazole, aprepitant, erythromycin, fluconazole, grapefruit juice, verapamil or diltiazem) or P-glycoprotein (PgP) should be avoided [see Drug Interactions (7.1)].
+Due to significant increases in exposure of everolimus, co-administration with strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) or P-glycoprotein (PgP) should be avoided.
+Grapefruit, grapefruit juice and other foods that are known to affect cytochrome P450 and PgP activity should also be avoided during treatment [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
-An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4 inducer (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital) [see Dosage and Administration (2.2) and Drug Interactions (7.2)].
+A reduction of the AFINITOR dose is recommended when co-administered with a moderate CYP3A4 inhibitor (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem) or PgP inhibitor [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
+
+An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4 inducer (e.g., St. John’s Wort (Hypericum perforatum), dexamethasone, prednisone, prednisolone, phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) [see Dosage and Administration (2.2) and Drug Interactions (7.2)].
 
 ## 5.6 Hepatic Impairment
 

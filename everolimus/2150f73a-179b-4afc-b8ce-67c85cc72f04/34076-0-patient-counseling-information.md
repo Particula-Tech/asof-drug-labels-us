@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (17.9)
-
 ## 17.1 Non-infectious Pneumonitis
 
 Warn patients of the possibility of developing non-infectious pneumonitis.
@@ -10,8 +8,8 @@ Advise patients to report promptly any new or worsening respiratory symptoms [se
 
 ## 17.2 Infections
 
-Inform patients that they may be more susceptible to infections while being treated with AFINITOR.
-In clinical studies, some of these infections have been severe (e.g., leading to respiratory failure) and occasionally fatal.
+Inform patients that they are more susceptible to infections while being treated with AFINITOR and that cases of hepatitis B reactivation have been associated with AFINITOR treatment.
+In clinical studies, some of these infections have been severe (e.g., leading to respiratory or hepatic failure) and occasionally fatal.
 Patients should be aware of the signs and symptoms of infection and should report any such signs or symptoms promptly to their physician [see Warnings and Precautions (5.2)].
 
 ## 17.3 Oral Ulceration
@@ -25,9 +23,11 @@ Inform patients of the need to monitor blood chemistry and hematology prior to t
 
 ## 17.5 Drug-drug Interactions
 
-Avoid concurrent treatment with strong or moderate CYP3A4 and PgP inhibitors and strong CYP3A4 and PgP inducers.
+Avoid concurrent treatment with strong CYP3A4 and PgP inhibitors.
+Use caution if AFINITOR must be co-administered with moderate CYP3A4 and PgP inhibitors; reduce the dose and carefully monitor the patient for undesirable effects.
+Avoid concurrent treatment with strong CYP3A4 and PgP inducers.
 If AFINITOR must be co-administered with strong CYP3A4 inducers, consider a dose increase and carefully monitor the patient for clinical response.
-Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements [see Dosage and Administration (2.2), Warnings and Precautions (5.5) and Drug-drug Interactions (7.1 and 7.2)].
 
 ## 17.6 Hepatic Impairment
 
@@ -41,4 +41,13 @@ Advise patients to avoid the use of live vaccines and close contact with those w
 
 Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that an effective method of contraception should be used during therapy with AFINITOR and for 8 weeks after ending treatment.
 
-## 17.9 FDA-approved Patient Labeling
+## 17.9 Dosing Instructions
+
+Inform patients to take AFINITOR once daily at the same time every day, either with or without food.
+The tablets should not be crushed or chewed.
+AFINITOR should be swallowed whole with a full glass of water.
+
+Instruct patients that if they miss a dose of AFINITOR, they may still take it up to 6 hours after the time they would normally take it.
+If more than 6 hours have elapsed, they should be instructed to skip the dose for that day.
+The next day, they should take AFINITOR at the usual time.
+Warn patients to not take 2 doses to make up for the one that they missed.

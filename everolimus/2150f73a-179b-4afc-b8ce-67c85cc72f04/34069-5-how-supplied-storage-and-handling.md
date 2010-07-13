@@ -1,5 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+2.5 mg tablets
+
+White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “LCL” on one side and “NVR” on the other; available in:
+
+Blisters of 28 tablets NDC 0078-0594-51
+
+Each carton contains 4 blister cards of 7 tablets each
+
 5 mg tablets
 
 White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “5” on one side and “NVR” on the other; available in:
@@ -25,6 +33,4 @@ Procedures for proper handling and disposal of anticancer drugs should be consid
 Several guidelines on this subject have been published.2-5
 
 AFINITOR tablets should not be crushed.
-Direct contact of crushed tablets with the skin or mucous membranes should be avoided.
-If such contact occurs, wash thoroughly as outlined in the references.
-Personnel should avoid exposure to crushed tablets.
+Do not take tablets which are crushed or broken.

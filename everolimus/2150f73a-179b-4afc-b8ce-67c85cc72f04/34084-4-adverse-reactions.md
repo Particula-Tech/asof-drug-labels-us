@@ -68,7 +68,7 @@ Other notable adverse reactions occurring more frequently with AFINITOR than wit
 
 Gastrointestinal disorders: Abdominal pain (9%), dry mouth (8%), hemorrhoids (5%), dysphagia (4%)
 
-General disorders and administration site conditions: Weight decreased (9%), chest pain (5%), chills (4%)
+General disorders and administration site conditions: Weight decreased (9%), chest pain (5%), chills (4%), impaired wound healing (<1%)
 
 Respiratory, thoracic and mediastinal disorders: Pleural effusion (7%), pharyngolaryngeal pain (4%), rhinorrhea (3%)
 
@@ -76,7 +76,9 @@ Skin and subcutaneous tissue disorders: Hand-foot syndrome (reported as palmar-p
 
 Metabolism and nutrition disorders: Exacerbation of pre-existing diabetes mellitus (2%), new onset of diabetes mellitus (<1%)
 
-Nervous system disorders: Insomnia (9%), dizziness (7%), paresthesia (5%)
+Psychiatric disorders: Insomnia (9%)
+
+Nervous system disorders: Dizziness (7%), paresthesia (5%)
 
 Eye disorders: Eyelid edema (4%), conjunctivitis (2%)
 
@@ -113,3 +115,7 @@ Table 2 Key Laboratory Abnormalities Reported at a Higher rate in the AFINITOR A
 | Alanine transaminase (ALT) increased | 21 | 1 | 0 | 4 | 0 | 0 |
 | Bilirubin increased | 3 | <1 | <1 | 2 | 0 | 0 |
 | CTCAE Version 3.0 a Includes reports of anemia, leukopenia, lymphopenia, neutropenia, pancytopenia, thrombocytopenia. |  |  |  |  |  |  |
+
+Information from further clinical trials
+
+In clinical trials, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcomes.
