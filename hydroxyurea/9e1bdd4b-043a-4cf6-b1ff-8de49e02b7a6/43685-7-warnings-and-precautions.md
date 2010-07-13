@@ -8,10 +8,10 @@ It should be borne in mind that bone marrow depression is more likely in patient
 
 Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
 
-Fatal and nonfatal pancreatitis have occurred in HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine.
-Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
+In HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine, fatal and nonfatal pancreatitis have occurred.
+Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV- infected patients treated with hydroxyurea and other antiretroviral agents.
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
-Peripheral neuropathy, which was severe in some cases, has been reported in HIV-infected patients receiving hydroxyurea in combination with antiretroviral agents, including didanosine, with or without stavudine.
+This combination should be avoided.
 
 Severe anemia must be corrected before initiating therapy with hydroxyurea.
 
@@ -70,6 +70,12 @@ Hydroxyurea should be used with caution in patients with marked renal dysfunctio
 Hydroxyurea is not indicated for the treatment of HIV infection; however, if HIV-infected patients are treated with hydroxyurea, and in particular, in combination with didanosine and/or stavudine, close monitoring for signs and symptoms of pancreatitis and hepatotoxicity is recommended.
 Patients who develop signs and symptoms of pancreatitis or hepatotoxicity should permanently discontinue therapy with hydroxyurea.
 (See WARNINGS and ADVERSE REACTIONS.)
+An increased risk of hepatotoxicity, which may be fatal, may occur in patients treated with hydroxyurea, and in particular, in combination with didanosine and stavudine.
+This combination should be avoided.
+
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+See WARNINGS for Carcinogenesis and Mutagenesis information
 
 ## Impairment of Fertility
 
@@ -79,19 +85,6 @@ Hydroxyurea administered to male rats at 60 mg/kg/day (about 0.3 times the maxim
 
 Pregnancy Category D. (See WARNINGS.)
 
-## Drug Interactions
-
-Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.
-
-Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events.
-(See WARNINGS and ADVERSE REACTIONS.)
-
-Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
-
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
-
-See WARNINGS for Carcinogenesis and Mutagenesis information.
-
 ## Nursing Mothers
 
 Hydroxyurea is excreted in human milk.
@@ -100,7 +93,7 @@ Because of the potential for serious adverse reactions with hydroxyurea, a decis
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness in pediatric patients have not been established
 
 ## Geriatric Use
 
@@ -108,6 +101,15 @@ Elderly patients may be more sensitive to the effects of hydroxyurea, and may re
 
 This drug is known to be excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see DOSAGE AND ADMINISTRATION: Renal Insufficiency).
+
+## Drug Interactions
+
+Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.
+
+Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events.
+(See WARNINGS and ADVERSE REACTIONS.)
+
+Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
 
 ## Information for Patients
 
