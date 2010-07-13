@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA078619"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-192-01",
+    "65862-192-05",
+    "65862-192-26",
+    "65862-192-99",
+    "65862-193-01",
+    "65862-193-05",
+    "65862-193-26",
+    "65862-193-99",
+    "65862-194-01",
+    "65862-194-05",
+    "65862-194-22",
+    "65862-194-30",
+    "65862-194-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fluoxetine hydrochloride",
+      "name": "Fluoxetine"
+    }
+  ],
+  "setid": "45454555-7402-41cb-a452-e6a76e04f387",
+  "source": "dailymed"
+}
