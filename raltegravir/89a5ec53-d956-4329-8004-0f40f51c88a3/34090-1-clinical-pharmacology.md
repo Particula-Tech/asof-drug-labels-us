@@ -142,10 +142,10 @@ Additive to synergistic antiretroviral activity was observed when human T-lympho
 
 Resistance
 
-The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R and D232N).
-Amino acid substitution at Y143C/H/R is another pathway to raltegravir resistance.
+The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
 
-Treatment-Naïve Subjects: By Week 48 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 3 (1 with Y143R and 2 with Q148H/R) of the 6 virologic failure subjects with evaluable paired genotypic data.
+Treatment-Naïve Subjects: By Week 96 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 10 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 
-Treatment-Experienced Subjects: By Week 48 in the BENCHMRK trials, at least one of the 3 primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 63 (64.3%) of the 98 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
-Some (n=18) of those HIV-1 isolates harboring one or more of the 3 primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 47.3-fold (mean 73.1 ± 60.8-fold decrease, ranging from 0.9- to 200-fold) compared to baseline isolates.
+Treatment-Experienced Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+The emergence of the primary raltegravir resistance-associated substitutions was observed cumulatively in 70 subjects by Week 48 and 78 subjects by Week 96, 15.2% and 17% of the raltegravir recipients, respectively.
+Some (n=58) of those HIV-1 isolates harboring one or more of the primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 26.3-fold (mean 48.9 ± 44.8-fold decrease, ranging from 0.8- to 159-fold) compared to the wild-type reference.

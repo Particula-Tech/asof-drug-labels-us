@@ -104,15 +104,19 @@ Be sure to keep a supply of your anti-HIV medicines.
 
 What are the possible side effects of ISENTRESS?
 
-When ISENTRESS has been given with other anti-HIV drugs, the most common side effects included:
+When ISENTRESS has been given with other anti-HIV drugs, side effects included:
 
 - nausea
 - headache
 - tiredness
 - weakness
 - trouble sleeping
+- stomach pain
+- dizziness
+- depression
+- suicidal thoughts and actions
 
-Other side effects include rash, severe skin reactions, feeling anxious, depression, suicidal thoughts and actions, paranoia, low blood platelet count.
+Other side effects include rash, severe skin reactions, feeling anxious, paranoia, low blood platelet count.
 
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to treat the HIV infection and help to strengthen the immune system.
@@ -120,6 +124,8 @@ Call your doctor right away if you notice any signs or symptoms of an infection 
 
 Contact your doctor promptly if you experience unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
 This is because on rare occasions, muscle problems can be serious and can lead to kidney damage.
+
+Rash occurred more often in patients taking ISENTRESS and darunavir together than with either drug separately, but was generally mild.
 
 Tell your doctor if you have any side effects that bother you.
 
@@ -154,8 +160,8 @@ In addition, the film coating contains the following inactive ingredients: polyv
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised January 2010
+Revised June 2010
 
-9795109
+9795110
 
 U.S. Patent Nos. US 7,169,780

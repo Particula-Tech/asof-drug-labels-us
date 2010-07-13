@@ -8,7 +8,7 @@ A midazolam drug interaction study confirmed the low propensity of raltegravir t
 Similarly, raltegravir is not an inhibitor (IC50>50 µM) of the UDP-glucuronosyltransferases (UGT) tested (UGT1A1, UGT2B7), and raltegravir does not inhibit P-glycoprotein-mediated transport.
 Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or P-glycoprotein (e.g., protease inhibitors, NNRTIs, opioid analgesics, statins, azole antifungals, proton pump inhibitors and anti-erectile dysfunction agents).
 
-In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, methadone, lamivudine, tenofovir, etravirine.
+In drug interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of the following: hormonal contraceptives, methadone, lamivudine, tenofovir, etravirine, darunavir/ritonavir.
 
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Raltegravir
 
