@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA078021"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-101-05",
+    "65862-101-30",
+    "65862-101-90",
+    "65862-101-91",
+    "65862-101-99",
+    "65862-102-05",
+    "65862-102-30",
+    "65862-102-61",
+    "65862-102-90",
+    "65862-102-99",
+    "65862-103-05",
+    "65862-103-30",
+    "65862-103-39",
+    "65862-103-90",
+    "65862-103-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "Amlodipine Besylate"
+    }
+  ],
+  "setid": "b6f298ba-2d7e-4a3c-9edb-8b60aba716d6",
+  "source": "dailymed"
+}
