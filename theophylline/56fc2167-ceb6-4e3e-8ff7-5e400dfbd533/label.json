@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090355"
+  ],
+  "inn": "theophylline",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-356-01",
+    "68462-356-05",
+    "68462-380-01",
+    "68462-380-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "theophylline",
+      "name": "Theophylline"
+    }
+  ],
+  "setid": "56fc2167-ceb6-4e3e-8ff7-5e400dfbd533",
+  "source": "dailymed"
+}
