@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022518"
+  ],
+  "inn": "formoterol",
+  "labeler": "Schering Corporation",
+  "package_ndcs": [
+    "0085-4610-01",
+    "0085-7206-01"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL",
+      "generic": "mometasone furoate and formoterol fumarate dihydrate",
+      "name": "Dulera"
+    }
+  ],
+  "setid": "116464ce-cfd8-4b9f-8b5a-3a114b6ff2b1",
+  "source": "dailymed"
+}
