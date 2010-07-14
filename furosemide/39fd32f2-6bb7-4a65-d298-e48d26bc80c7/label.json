@@ -1,21 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075241",
+    "NDA018667"
+  ],
   "inn": "furosemide",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-1639-10",
-    "0409-6055-14",
-    "0409-6056-17",
-    "0409-6056-18",
-    "0409-6101-02",
-    "0409-6101-04",
-    "0409-6101-10",
     "0409-6102-02",
     "0409-6102-04",
     "0409-6102-10",
     "0409-9631-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
   "setid": "39fd32f2-6bb7-4a65-d298-e48d26bc80c7",
   "source": "dailymed"
 }

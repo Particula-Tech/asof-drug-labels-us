@@ -2,22 +2,18 @@
 
 Furosemide Injection, USP 10 mg/mL is supplied as follows:
 
-| List No. | Container | Size |
+| NDC No. | Container | Size |
 | --- | --- | --- |
-| 6101 | Amber Ampul | 2 mL |
-| 6101 | Amber Ampul | 4 mL |
-| 6101 | Amber Ampul | 10 mL |
-| 1639 | Ansyr® Plastic Syringe | 10 mL |
-| 9631 | Ansyr® Plastic Syringe | 4 mL |
-| 6055 | Abboject®—Unit of Use Syringe | 4 mL |
-| 6056 | Abboject®—Unit of Use Syringe | 10 mL |
-| 6056 | Abboject®—Unit of Use Syringe | 8 mL |
-| 6102 | Amber Fliptop Vial | 2 mL |
-| 6102 | Amber Fliptop Vial | 4 mL |
-| 6102 | Amber Fliptop Vial | 10 mL |
+| 0409-6101-04 | Amber Ampul | 4 mL |
+| 0409-6101-10 | Amber Ampul | 10 mL |
+| 0409-1639-10 | Ansyr™ Plastic Syringe | 10 mL |
+| 0409-9631-04 | Ansyr™ Plastic Syringe | 4 mL |
+| 0409-6102-02 | Amber Fliptop Vial | 2 mL |
+| 0409-6102-04 | Amber Fliptop Vial | 4 mL |
+| 0409-6102-10 | Amber Fliptop Vial | 10 mL |
 
-Store at controlled room temperature 15° to 30°C (59° to 86°F).
-[See USP.]
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
 
 Do not use if solution is discolored or contains particulate.
 
@@ -26,9 +22,10 @@ Do not remove from carton until ready for use.
 
 Discard unused portion.
 
-| ©Hospira 2004 | EN-0133 | Printed in USA |
-| --- | --- | --- |
+Revised: November, 2009
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Printed in USA
 
-Abboject is a trademark of the Abbott group of companies.
+EN-2302
+
+Hospira, Inc., Lake Forest, IL 60045 USA

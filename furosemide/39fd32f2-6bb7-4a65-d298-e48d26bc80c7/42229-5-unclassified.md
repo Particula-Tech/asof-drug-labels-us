@@ -4,9 +4,7 @@ Ampul
 
 Fliptop Vial
 
-Ansyr® Plastic Syringe
-
-Abboject®- Unit of Use Syringe
+Ansyr™ Plastic Syringe
 
 Rx only
 
