@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+No drug interaction studies have been performed with XERESE.

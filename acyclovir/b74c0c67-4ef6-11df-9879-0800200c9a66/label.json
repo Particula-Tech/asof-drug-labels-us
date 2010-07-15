@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022436"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Meda Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0037-0501-02",
+    "0037-0501-05"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "acyclovir and hydrocortisone",
+      "name": "Xerese"
+    }
+  ],
+  "setid": "b74c0c67-4ef6-11df-9879-0800200c9a66",
+  "source": "dailymed"
+}
