@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-EMENDRegistered trademark of MERCK & CO., Inc., Whitehouse Station, New Jersey, 08889 USA COPYRIGHT © 2003, 2005, 2006 MERCK & CO., Inc. All rights reserved (aprepitant) is a substance P/neurokinin 1 (NK1) receptor antagonist, chemically described as 5-[[(2R,3S)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)-4-morpholinyl]methyl]-1,2-dihydro-3H-1,2,4-triazol-3-one.
+EMEND (aprepitant) is a substance P/neurokinin 1 (NK1) receptor antagonist, chemically described as 5-[[(2R,3S)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)-4-morpholinyl]methyl]-1,2-dihydro-3H-1,2,4-triazol-3-one.
 
 Its empirical formula is C23H21F7N4O3, and its structural formula is:
 
