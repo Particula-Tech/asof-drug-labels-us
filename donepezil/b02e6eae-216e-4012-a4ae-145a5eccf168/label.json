@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022568"
+  ],
+  "inn": "donepezil",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-247-30",
+    "62856-247-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "donepezil hydrochloride",
+      "name": "Aricept"
+    }
+  ],
+  "setid": "b02e6eae-216e-4012-a4ae-145a5eccf168",
+  "source": "dailymed"
+}
