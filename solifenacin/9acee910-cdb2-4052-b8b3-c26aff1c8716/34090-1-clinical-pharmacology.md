@@ -16,7 +16,7 @@ There is no significant effect of food on the pharmacokinetics of solifenacin.
 
 ### Distribution
 
-Solifenacin is approximately 98% (in vivo) bound to human plasma proteins, principally to ∝1-acid glycoprotein.
+Solifenacin is approximately 98% (in vivo) bound to human plasma proteins, principally to α1-acid glycoprotein.
 Solifenacin is highly distributed to non-CNS tissues, having a mean steady-state volume of distribution of 600L.
 
 ### Metabolism

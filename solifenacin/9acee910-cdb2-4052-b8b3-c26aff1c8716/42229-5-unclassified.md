@@ -1,4 +1,4 @@
-# Patient Information
+# Supplemental Patient Material
 
 VESIcare® - (VES-ih-care) (solifenacin succinate)
 
@@ -21,9 +21,9 @@ VESIcare is a prescription medicine used in adults to treat the following sympto
 
 condition called overactive bladder:
 
-- Having to go to the bathroom too often, also called “urinary frequency”,
-- Having a strong need to go to the bathroom right away, also called “urgency”,
-- Leaking or wetting accidents, also called “urinary incontinence.”
+- Having to go to the bathroom too often, also called “urinary frequency”
+- Having a strong need to go to the bathroom right away, also called “urgency”
+- Leaking or wetting accidents, also called “urinary incontinence”
 
 VESIcare has not been studied in children.
 
@@ -42,11 +42,11 @@ Who should NOT take VESIcare?
 
 Do not take VESIcare if you:
 
-- are not able to empty your bladder (also called “urinary retention”),
-- have delayed or slow emptying of your stomach (also called “gastric retention”),
-- have an eye problem called “uncontrolled narrow-angle glaucoma”,
-- are allergic to VESIcare or any of its ingredients.
-  See the end of this leaflet for a complete list of ingredients.
+- Are not able to empty your bladder (also called “urinary retention”)
+- Have delayed or slow emptying of your stomach (also called “gastric retention”)
+- Have an eye problem called “uncontrolled narrow-angle glaucoma”
+- Are allergic to VESIcare or any of its ingredients.
+  See the end of this leaflet for a complete list of ingredients
 
 What should I tell my doctor before starting VESIcare?
 
@@ -54,14 +54,14 @@ Before starting VESIcare tell your doctor or healthcare professional about all o
 
 conditions including if you:
 
-- have any stomach or intestinal problems or problems with constipation,
-- have trouble emptying your bladder or you have a weak urine stream,
-- have an eye problem called narrow-angle glaucoma,
-- have liver problems,
-- have kidney problems,
-- are pregnant or trying to become pregnant (It is not known if VESIcare can harm your unborn baby.),
-- are breastfeeding (It is not known if VESIcare passes into breast milk and if it can harm your baby.
-  You should decide whether to breastfeed or take VESIcare, but not both.).
+- Have any stomach or intestinal problems or problems with constipation
+- Have trouble emptying your bladder or you have a weak urine stream
+- Have an eye problem called narrow-angle glaucoma
+- Have liver problems
+- Have kidney problems
+- Are pregnant or trying to become pregnant (It is not known if VESIcare can harm your unborn baby)
+- Are breastfeeding (It is not known if VESIcare passes into breast milk and if it can harm your baby.
+  You should decide whether to breastfeed or take VESIcare, but not both)
 
 Before starting on VESIcare, tell your doctor about all the medicines you take including
 
@@ -82,23 +82,27 @@ Your doctor will prescribe the dose that is right for you.
 
 Your doctor may prescribe the lowest dose if you have certain medical conditions such as liver or kidney problems.
 
-- You should take one VESIcare tablet once a day.
-- You should take VESIcare with liquid and swallow the tablet whole.
-- You can take VESIcare with or without food.
+- You should take one VESIcare tablet once a day
+- You should take VESIcare with liquid and swallow the tablet whole
+- You can take VESIcare with or without food
 - If you miss a dose of VESIcare, begin taking VESIcare again the next day.
-  Do not take 2 doses of VESIcare the same day.
-- If you take too much VESIcare or overdose, call your local Poison Control Center or emergency room right away.
+  Do not take 2 doses of VESIcare the same day
+- If you take too much VESIcare or overdose, call your local Poison Control Center or emergency room right away
 
 What are the possible side effects with VESIcare?
 
+VESIcare may cause allergic reactions that may be serious.
+Symptoms of a serious allergic reaction may include swelling of the face, lips, throat or tongue.
+If you experience these symptoms, you should stop taking VESIcare and get emergency medical help right away.
+
 The most common side effects with VESIcare are:
 
-- blurred vision.
-  Use caution while driving or doing dangerous activities until you know how VESIcare affects you.
-- dry mouth.
-- constipation.
-  Call your doctor if you get severe stomach area (abdominal) pain or become constipated for 3 or more days.
-- heat prostration.
+- Blurred vision.
+  Use caution while driving or doing dangerous activities until you know how VESIcare affects you
+- Dry mouth
+- Constipation.
+  Call your doctor if you get severe stomach area (abdominal) pain or become constipated for 3 or more days
+- Heat prostration.
   Heat prostration (due to decreased sweating) can occur when drugs, such as VESIcare, are used in a hot environment.
 
 Tell your doctor if you have any side effects that bother you or that do not go away.
@@ -110,10 +114,10 @@ healthcare professional or pharmacist.
 
 How should I store VESIcare?
 
-- Keep VESIcare and all other medications out of the reach of children.
+- Keep VESIcare and all other medications out of the reach of children
 - Store VESIcare at room temperature, 50° to 86°F (15° to 30°C).
-  Keep the bottle closed.
-- Safely dispose of VESIcare that is out of date or that you no longer need.
+  Keep the bottle closed
+- Safely dispose of VESIcare that is out of date or that you no longer need
 
 General information about VESIcare
 
@@ -137,7 +141,7 @@ You can ask your doctor or pharmacist for information
 about VESIcare that is written for health professionals.
 You can also call (800) 727-7003 toll
 
-free, or visit www.VESIcare.com.
+free, or visit www.VESIcare.com
 
 What are the ingredients in VESIcare?
 
@@ -147,11 +151,11 @@ Inactive ingredients: lactose monohydrate, corn starch, hypromellose 2910, magne
 
 stearate, talc, polyethylene glycol 8000 and titanium dioxide with yellow ferric oxide (5 mg
 
-VESIcare tablet) or red ferric oxide (10 mg VESICARE tablet)
+VESIcare tablet) or red ferric oxide (10 mg VESICARE tablet) Rx Only
 
 Manufactured by:
 
-Astellas Pharma Technologies Inc.
+Astellas Pharma Technologies, Inc.
 
 Norman, Oklahoma 73072
 
@@ -171,6 +175,8 @@ North Carolina 27709
 
 © 2005 Astellas Pharma US, Inc.
 
-& GlaxoSmithKline Revised: November 2008
+& GlaxoSmithKline
 
-01232008VES
+09E007-VES-CPI
+
+Revised: April 2010

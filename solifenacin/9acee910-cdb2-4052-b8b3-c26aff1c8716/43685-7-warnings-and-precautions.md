@@ -1,3 +1,10 @@
+# WARNINGS
+
+Angioedema of the face, lips, tongue, and/or larynx have been reported with solifenacin.
+In some cases angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, solifenacin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+
 # PRECAUTIONS
 
 ## Bladder Outflow Obstruction
@@ -42,6 +49,9 @@ Because VESIcare may cause blurred vision, patients should be advised to exercis
 Heat prostration (due to decreased sweating) can occur when anticholinergic drugs, such as VESIcare, are used in a hot environment.
 Patients should read the patient leaflet entitled “Patient Information VESIcare” before starting therapy with VESIcare.
 
+Patients should be informed that solifenacin may produce angioedema, which could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue solifenacin therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Solifenacin succinate was not mutagenic in the in vitro Salmonella typhimurium or Escherichia coli microbial mutagenicity test or chromosomal aberration test in human peripheral blood lymphocytes with or without metabolic activation, or in the in vivo micronucleus test in rats.
@@ -50,9 +60,11 @@ No increase in tumors was found following the administration of solifenacin succ
 
 Solifenacin succinate had no effect on reproductive function, fertility or early embryonic development of the fetus in male and female mice treated with 250 mg/kg/day (13 times exposure at the MRHD) of solifenacin succinate, and in male rats treated with 50 mg/kg/day (<1 times exposure at the MRHD) and female rats treated with 100 mg/kg/day (1.7 times exposure at the MRHD) of solifenacin succinate.
 
-## Pregnancy Teratogenic Effects, Pregnancy Category
+## PREGNANCY
 
-### Pregnancy Category C
+### Teratogenic Effects, Pregnancy Category
+
+#### Pregnancy Category C
 
 Reproduction studies have been performed in mice, rats and rabbits.
 After oral administration of 14C-solifenacin succinate to pregnant mice, drug-related material was shown to cross the placental barrier.
