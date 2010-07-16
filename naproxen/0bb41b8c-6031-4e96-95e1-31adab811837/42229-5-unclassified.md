@@ -5,7 +5,7 @@ Drug Facts
 # USES
 
 - temporarily relieves minor aches and pains due to:
-- minor pain or arthritis
+- minor pain of arthritis
 - muscular aches
 - backache
 - menstrual cramps
@@ -18,22 +18,21 @@ Drug Facts
 
 - do not take more than directed
 - the smallest effective dose should be used
-- do not take longer than 10 days, unless directed by a doctor (see Warnings)
 - drink a full glass of water with each dose
 
-| Adults and children 12 years and older | take 1 tablet every 8 to 12 hours while symptoms lastfor the first dose you may take 2 tablets within the first hour do not exceed 2 tablets in any 8- to 12-hour perioddo not exceed 3 tablets in a 24-hour period |
+| Adults and children 12 years and older | take 1 tablet every 8 to 12 hours while symptoms lastfor the first dose you may take 2 tablets within the first hourdo not exceed 2 tablets in any 8- to 12-hour perioddo not exceed 3 tablets in a 24-hour period |
 | --- | --- |
 | Children under 12 years | ask a doctor |
 
 ## Other information
 
 - each tablet contains: sodium 20 mg
-- store at 20 – 25°C (68 – 77°F).
+- store at 20 to 25°C (68 to77°F).
   Avoid high humidity and excessive heat above 40°C (104°F)
 
 ## Inactive ingredients
 
-FD&C Blue #2, croscarmellose sodium, macrogol, magnesium stearate, polyvinyl alcohol, povidone, pregelatinized starch, talc and titanium dioxide.
+croscarmellose sodium, FD&C Blue #2, macrogol, magnesium stearate, polyvinyl alcohol, povidone, pregelatinized starch, talc and titanium dioxide.
 
 ## Questions or Comments?
 
@@ -50,4 +49,4 @@ Glasgow, KY 42141
 †This product is not manufactured or distributed by Bayer Healthcare, LLC., distributor of Aleve®
 
 Rev.
-09-2008
+06-2010
