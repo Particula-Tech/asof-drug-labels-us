@@ -133,6 +133,16 @@ Inactive Ingredients: butylated hydroxytoluene, carnuba wax, cellulose acetate, 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Manufactured by:
+
+Janssen-Cilag Manufacturing, LLC
+
+Gurabo, Puerto Rico 00778 or
+
+Alza Corp.
+
+Vacaville, CA 95688
+
 Manufactured for: McNeil Pediatrics Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-10180602 Revised: November 2009
+10180603 Revised: January 2010
