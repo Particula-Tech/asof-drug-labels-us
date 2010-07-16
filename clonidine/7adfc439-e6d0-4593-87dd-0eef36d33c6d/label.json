@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA076166"
+  ],
+  "inn": "clonidine",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-0871-16",
+    "0378-0871-99",
+    "0378-0872-16",
+    "0378-0872-99",
+    "0378-0873-16",
+    "0378-0873-99"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "clonidine",
+      "name": "Clonidine"
+    }
+  ],
+  "setid": "7adfc439-e6d0-4593-87dd-0eef36d33c6d",
+  "source": "dailymed"
+}
