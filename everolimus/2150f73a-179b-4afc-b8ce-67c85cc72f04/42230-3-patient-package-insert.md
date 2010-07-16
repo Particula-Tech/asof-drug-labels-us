@@ -43,7 +43,7 @@ Symptoms of hepatitis B or infection may include the following:
 - Tiredness
 - Loss of appetite
 - Nausea
-- Pale stool or dark uring
+- Pale stool or dark urine
 - Yellowing of the skin
 - Pain in your upper right side
 
@@ -72,7 +72,7 @@ Before taking AFINITOR, tell your healthcare provider about all of your medical 
 
 - Have or have had liver problems.
 - Have diabetes or high blood sugar.
-- Have high cholesterol levels.
+- Have high blood cholesterol levels.
 - Have any infections
 - Previously had hepatitis B
 - Are scheduled to receive any vaccinations.
@@ -176,7 +176,7 @@ How do I store AFINITOR?
 
 - Keep AFINITOR at room temperature, between 59° to 86°F (15° to 30°C).
 - Keep AFINITOR in the package it comes in.
-- Open blister package just before taking AFINITOR.
+- Open the blister package just before taking AFINITOR.
 - Keep the blister package and tablets dry.
 - Keep AFINITOR out of light.
 - Throw away AFINITOR that is out of date or no longer needed.

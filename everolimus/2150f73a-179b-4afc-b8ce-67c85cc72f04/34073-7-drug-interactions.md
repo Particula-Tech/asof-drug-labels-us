@@ -11,16 +11,16 @@ CYP3A4 Inhibitors and PgP Inhibitors: In healthy subjects, compared to AFINITOR 
 - erythromycin (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.0- and 4.4-fold, respectively.
 - verapamil (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.3-and 3.5-fold, respectively.
 
-Concomitant strong inhibitors of CYP3A4 and PgP should not be used [See Warnings and Precautions (5.5)].
+Concomitant strong inhibitors of CYP3A4 and PgP should not be used [see Warnings and Precautions (5.5)].
 
 Use caution when AFINITOR is used in combination with moderate CYP3A4 or PgP inhibitors.
-If alternative treatment can not be administered reduce the AFINITOR dose [See Dosage and Administration (2.2)].
+If alternative treatment can not be administered reduce the AFINITOR dose [see Dosage and Administration (2.2)].
 
 ## 7.2 Agents that may Decrease Everolimus Blood Concentrations
 
 CYP3A4 Inducers: In healthy subjects, co-administration of AFINITOR with rifampin, a strong inducer of CYP3A4, decreased everolimus AUC and Cmax by 64% and 58% respectively, compared to everolimus treatment alone.
 Consider a dose increase of AFINITOR when co-administered with strong inducers of CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital) or PgP if alternative treatment cannot be administered.
-St. John’s Wort may decrease everolimus exposure unpredictably and should be avoided [See Dosage and Administration (2.2)].
+St. John’s Wort may decrease everolimus exposure unpredictably and should be avoided [see Dosage and Administration (2.2)].
 
 ## 7.3 Agents whose Plasma Concentrations may be Altered by Everolimus
 
