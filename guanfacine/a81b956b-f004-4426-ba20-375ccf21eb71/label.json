@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074145"
+  ],
   "inn": "guanfacine",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
     "0591-0444-01",
     "0591-0453-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "guanfacine",
+      "name": "Guanfacine"
+    }
+  ],
   "setid": "a81b956b-f004-4426-ba20-375ccf21eb71",
   "source": "dailymed"
 }

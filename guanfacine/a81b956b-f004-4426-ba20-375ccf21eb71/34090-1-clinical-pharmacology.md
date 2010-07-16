@@ -10,9 +10,10 @@ Results are shown in the following table.
 A useful effect was not observed overall until doses of 2 mg were reached, although responses in white patients were seen at 1 mg; 24 hour effectiveness of 1 mg to 3 mg doses was documented using 24 hour ambulatory monitoring.
 While the 5 mg dose added an increment of effectiveness, it caused an unacceptable increase in adverse reactions.
 
+Mean Changes (mm Hg) from Baseline in Seated Systolic and Diastolic Blood Pressure for Patients Completing 4 to 8 Weeks of Treatment with Guanfacine Monotherapy
+
 | Mean Change S/D* Seated | n= (range) | Placebo | 0.5 mg | 1 mg | 2 mg | 3 mg | 5 mg |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mean Changes (mm Hg) from Baseline in Seated Systolic and Diastolic Blood Pressure for Patients Completing 4 to 8 Weeks of Treatment with Guanfacine Monotherapy |  |  |  |  |  |  |  |
 | White Patients | 11-30 | -1/-5 | -6/-8 | -8/-9 | -12/-11 | -15/-12 | -18/-16 |
 | Black Patients | 8-28 | -3/-5 | 0/-2 | -3/-5 | -7/-7 | -8/-9 | -19/-15 |
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |  |
@@ -23,9 +24,10 @@ The observed mean changes from baseline, tabulated below, indicate the similarit
 Doses of 1, 2, and 3 mg resulted in decreased blood pressure in the sitting position with no real differences among the three doses.
 In the standing position there was some increase in response with dose.
 
+Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone
+
 | Mean Change | n= | Placebo 63 | 0.5 mg 63 | 1 mg 64 | 2 mg 58 | 3 mg 59 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mean Decreases (mm Hg) in Seated and Standing Blood Pressure for Patients Treated with Guanfacine in Combination with Chlorthalidone |  |  |  |  |  |  |
 | S/D* Seated |  | -5/-7 | -5/-6 | -14/-13 | -12/-13 | -16/-13 |
 | S/D* Standing |  | -3/-5 | -5/-4 | -11/-9 | -9/-10 | -15/-12 |
 | *S/D = Systolic/diastolic blood pressure |  |  |  |  |  |  |

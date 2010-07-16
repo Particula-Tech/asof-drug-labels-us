@@ -5,7 +5,7 @@ While the reactions are common, most are mild and tend to disappear on continued
 
 Skin rash with exfoliation has been reported in a few cases; although clear cause and effect relationships to guanfacine could not be established, should a rash occur, guanfacine should be discontinued and the patient monitored appropriately.
 
-In the dose-response monotherapy study described underCLINICAL PHARMACOLOGY, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
+In the dose-response monotherapy study described under CLINICAL PHARMACOLOGY, the frequency of the most commonly observed adverse reactions showed a dose relationship from 0.5 to 3 mg as follows:
 
 | Reaction | n=59 | n=60 | n=61 | n=60 | n=59 |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ In a second 12-week placebo-controlled combination therapy study in which the do
 
 Reasons for dropouts among patients who received guanfacine were: somnolence, dry mouth, dizziness, impotence, constipation, confusion, depression, and palpitations.
 
-In the clonidine/guanfacine comparison described inCLINICAL PHARMACOLOGY, the most common adverse reactions noted were as follows:
+In the clonidine/guanfacine comparison described in CLINICAL PHARMACOLOGY, the most common adverse reactions noted were as follows:
 
 | Adverse Reactions | (n=279) | (n=278) |
 | --- | --- | --- |
