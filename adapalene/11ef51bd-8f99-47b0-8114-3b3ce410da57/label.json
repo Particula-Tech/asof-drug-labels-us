@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020338"
+  ],
+  "inn": "adapalene",
+  "labeler": "DPT Laboratories, Ltd.",
+  "package_ndcs": [
+    "63094-5905-0",
+    "63094-5905-3",
+    "63094-5905-5"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "adapalene",
+      "name": "DIFFERIN"
+    }
+  ],
+  "setid": "11ef51bd-8f99-47b0-8114-3b3ce410da57",
+  "source": "dailymed"
+}
