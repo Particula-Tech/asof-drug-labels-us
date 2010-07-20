@@ -69,7 +69,7 @@ Gender: Finasteride pharmacokinetics in women are not available.
 
 Geriatric: No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-See also, Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION.
+See also Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION.
 
 Race: The effect of race on finasteride pharmacokinetics has not been studied.
 
@@ -93,7 +93,7 @@ Compounds that have been tested in man have included antipyrine, digoxin, propra
 
 Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 
-|  | Mean (±SD) |
+|  | Mean (± SD) |
 | --- | --- |
 | Bioavailability | 63% (34-108%)Range |
 | Clearance (mL/min) | 165 (55) |
@@ -105,10 +105,10 @@ Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 
 |  | Mean (± SD) |  |
 | --- | --- | --- |
 |  | 45-60 years old (n=12) | ≥70 years old (n=12) |
-| AUC (ng·hr/mL) | 389 (98) | 463 (186) |
+| AUC (ng∙hr/mL) | 389 (98) | 463 (186) |
 | Peak Concentration (ng/mL) | 46.2 (8.7) | 48.4 (14.7) |
 | Time to Peak (hours) | 1.8 (0.7) | 1.8 (0.6) |
-| Half-Life (hours)First-dose values; all other parameter are last-dose values | 6.0 (1.5) | 8.2 (2.5) |
+| Half-Life (hours)First-dose values; all other parameters are last-dose values | 6.0 (1.5) | 8.2 (2.5) |
 
 ## Clinical Studies
 
@@ -141,9 +141,9 @@ The following table (Table 1) summarizes the results.
 
 Table 1: All Treatment Failures in PLESS
 
-|  | Patients (%)patients with multiple events may be counted more than once for each type of event |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Event | Placebo N=1503 | Finasteride N=1513 | Relative RiskHazard ratio based on log rank test | 95% CI | P Value |
+| --- | --- | --- | --- | --- | --- |
+|  | Patients (%)patients with multiple events may be counted more than once for each type of event |  |  |  |  |
 | All Treatment Failures | 37.1 | 26.2 | 0.68 | (0.57 to 0.79) | <0.001 |
 | Surgical Interventions for BPH | 10.1 | 4.6 | 0.45 | (0.32 to 0.63) | <0.001 |
 | Acute Urinary Retention Requiring Catheterization | 6.6 | 2.8 | 0.43 | (0.28 to 0.66) | <0.001 |
@@ -202,10 +202,9 @@ Combination therapy resulted in a significant reduction in the risk of the prima
 
 Table 2: Count and Percent Incidence of Primary Outcome Events by Treatment Group in MTOPS
 
-|  | Treatment Group |  |  |  |  |
+| Event | Placebo N=737 N (%) | Doxazosin N=756 N (%) | Finasteride N=768 N (%) | Combination N=786 N (%) | Total N=3047 N (%) |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo N=737 N (%) | Doxazosin N=756 N (%) | Finasteride N=768 N (%) | Combination N=786 N (%) | Total N=3047 N (%) |
-| Event |  |  |  |  |  |
+|  | Treatment Group |  |  |  |  |
 | AUA 4-point rise | 100 (13.6) | 59 (7.8) | 74 (9.6) | 41 (5.2) | 274 (9.0) |
 | Acute urinary retention | 18 (2.4) | 13 (1.7) | 6 (0.8) | 4 (0.5) | 41 (1.3) |
 | Incontinence | 8 (1.1) | 11 (1.5) | 9 (1.2) | 3 (0.4) | 31 (1.0) |

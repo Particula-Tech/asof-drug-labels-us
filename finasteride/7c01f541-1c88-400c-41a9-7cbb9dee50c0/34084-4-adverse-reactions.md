@@ -13,9 +13,9 @@ In years 2-4 of the study, there was no significant difference between treatment
 
 TABLE 4: Drug-Related Adverse Experiences
 
-|  | Year 1 (%) |  | Years 2, 3 and 4Combined Years 2-4 (%) |  |
-| --- | --- | --- | --- | --- |
 |  | Finasteride | Placebo | Finasteride | Placebo |
+| --- | --- | --- | --- | --- |
+|  | Year 1 (%) |  | Years 2, 3 and 4Combined Years 2-4 (%) |  |
 | Impotence | 8.1 | 3.7 | 5.1 | 5.1 |
 | Decreased Libido | 6.4 | 3.4 | 2.6 | 2.6 |
 | Decreased Volume of Ejaculate | 3.7 | 0.8 | 1.5 | 0.5 |
@@ -45,7 +45,7 @@ Three of these patients were on finasteride only and one was on combination ther
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 
-Table 5: Incidence ≥ 2% in One or More Treatment Groups: Drug-Related Clinical Adverse Experiences in MTOPS
+Table 5: Incidence ≥2% in One or More Treatment Groups: Drug-Related Clinical Adverse Experiences in MTOPS
 
 | Adverse Experience |  | Placebo (N=737) (%) | Doxazosin 4 mg or 8 mgDoxazosin dose was achieved by weekly titration (1 to 2 to 4 to 8 mg). The final tolerated dose (4 mg or 8 mg) was administered at end-Week 4. Only those patients tolerating at least 4 mg were kept on doxazosin. The majority of patients received the 8-mg dose over the duration of the study. (N=756) (%) | Finasteride (N=768) (%) | Combination (N=786) (%) |
 | --- | --- | --- | --- | --- | --- |

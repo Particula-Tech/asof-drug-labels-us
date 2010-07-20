@@ -2,7 +2,7 @@
 
 PROSCAR is indicated for the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to:
 
--Improve symptons
+-Improve symptoms
 
 -Reduce the risk of acute urinary retention
 

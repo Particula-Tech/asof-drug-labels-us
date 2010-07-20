@@ -25,12 +25,14 @@ No clinical benefit has been demonstrated in patients with prostate cancer treat
 Patients with BPH and elevated PSA were monitored in controlled clinical studies with serial PSAs and prostate biopsies.
 In these BPH studies, PROSCAR did not appear to alter the rate of prostate cancer detection, and the overall incidence of prostate cancer was not significantly different in patients treated with PROSCAR or placebo.
 
-PROSCAR causes a decrease in serum PSA levels by approximately 50% in patients with BPH, even in the presence of prostate cancer.
+PROSCAR causes a decrease in serum PSA levels by approximately 50% in patients with BPH.
 This decrease is predictable over the entire range of PSA values, although it may vary in individual patients.
 Analysis of PSA data from over 3000 patients in PLESS confirmed that in typical patients treated with PROSCAR for six months or more, PSA values should be doubled for comparison with normal ranges in untreated men.
 This adjustment preserves the sensitivity and specificity of the PSA assay and maintains its ability to detect prostate cancer.
+PROSCAR may also cause decreases in serum PSA in the presence of prostate cancer.
 
-Any sustained increases in PSA levels while on PROSCAR should be carefully evaluated, including consideration of non-compliance to therapy with PROSCAR.
+Any confirmed increases in PSA levels from nadir while on PROSCAR may signal the presence of prostate cancer and should be carefully evaluated, even if those values are still within the normal range for men not taking a 5α-reductase inhibitor.
+Non-compliance with PROSCAR therapy may also affect PSA test results.
 
 Percent free PSA (free to total PSA ratio) is not significantly decreased by PROSCAR.
 The ratio of free to total PSA remains constant even under the influence of PROSCAR.
