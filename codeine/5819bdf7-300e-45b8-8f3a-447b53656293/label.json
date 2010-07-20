@@ -1,0 +1,20 @@
+{
+  "application_numbers": [],
+  "inn": "codeine",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-1698-01",
+    "0527-1698-91",
+    "0527-1699-01",
+    "0527-1727-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "codeine sulfate",
+      "name": "Codeine Sulfate"
+    }
+  ],
+  "setid": "5819bdf7-300e-45b8-8f3a-447b53656293",
+  "source": "dailymed"
+}
