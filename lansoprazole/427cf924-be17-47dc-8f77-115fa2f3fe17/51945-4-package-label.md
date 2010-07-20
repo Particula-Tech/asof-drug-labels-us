@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 15 mg Label Text
+## 15 mg Label Text - 30 Capsules
 
 NDC 0093-7350-56
 
@@ -24,7 +24,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## 30 mg Label Text
+## 30 mg Label Text - 30 Capsules
 
 NDC 0093-7351-56
 

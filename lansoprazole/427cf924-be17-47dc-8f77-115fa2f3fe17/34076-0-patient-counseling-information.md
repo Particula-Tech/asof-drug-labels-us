@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the following:
+Patient should be informed of the following:
 
 ## 17.1 Information for Patients
 
@@ -12,23 +12,28 @@ Directions for use specific to the route and available methods of administration
 
 Administration Options
 
-Lansoprazole Delayed-Release Capsules
+Lansoprazole Delayed-Release Capsules- Oral Administration
 
-Lansoprazole delayed-release capsules should be swallowed whole.
+- Lansoprazole delayed-release capsules should be swallowed whole.
+- Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
+  - Open capsule.
+  - Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+  - Swallow immediately.
+- Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
+  - Open capsule.
+  - Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL — approximately 2 ounces).
+  - Mix briefly.
+  - Swallow immediately.
+  - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
-Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
+Lansoprazole Delayed-Release Capsules – Nasogastric Tube (≥ 16 French) Administration
 
-- Open capsule.
-- Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
-- Swallow immediately.
-
-Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-
-- Open capsule.
-- Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL — approximately 2 ounces).
-- Mix briefly.
-- Swallow immediately.
-- To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
+- For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
+  - Open capsule.
+  - Mix intact granules into 40 mL of apple juice.
+    DO NOT USE OTHER LIQUIDS.
+  - Inject through the nasogastric tube into the stomach.
+  - Flush with additional apple juice to clear the tube.
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
 
@@ -48,4 +53,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-A 8/2009
+C 5/2010

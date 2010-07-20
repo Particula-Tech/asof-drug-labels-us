@@ -104,5 +104,5 @@ The incidence rates of adverse reactions in females were similar to those seen i
 ## 8.9 Race
 
 The pooled mean pharmacokinetic parameters of lansoprazole from twelve U.S. Phase 1 studies (N = 513) were compared to the mean pharmacokinetic parameters from two Asian studies (N = 20).
-The mean AUCs of lansprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
+The mean AUCs of lansoprazole in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
 The Cmax values were comparable.

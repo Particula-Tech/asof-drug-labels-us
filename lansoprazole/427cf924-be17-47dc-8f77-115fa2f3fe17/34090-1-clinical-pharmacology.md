@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H+,K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
 Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
 This effect is dose-related and leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus.
 Lansoprazole does not exhibit anticholinergic or histamine type-2 antagonist activity.
@@ -22,7 +22,7 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole
 | --- | --- | --- | --- | --- | --- |
 | Parameter | Baseline Value | 15 mg |  | 30 mg |  |
 | Day 1 | Day 5 | Day 1 | Day 5 |  |  |
-| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) versus baseline and lansoprazole 15 mg. | 4.0 | 3.6(p < 0.05) versus baseline only. | 4.9 |
+| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) versus baseline only. | 4.0 | 3.6(p < 0.05) versus baseline and lansoprazole 15 mg. | 4.9 |
 | Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
 | % Time Gastric pH > 3 | 18 | 33 | 59 | 51 | 72 |
 | % Time Gastric pH > 4 | 12 | 22 | 49 | 41 | 66 |
@@ -31,14 +31,14 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole
 After the initial dose in this study, increased gastric pH was seen within 1 to 2 hours with 30 mg of lansoprazole and 2 to 3 hours with 15 mg of lansoprazole.
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within 1 to 2 hours post-dosing with 15 mg of lansoprazole.
 
-The percentage of time gastric pH was elevated above 5 and 6 was evaluated in a crossover study of lansoprazole given daily, twice daily, and three times daily (Table 5).
+The percentage of time gastric pH was elevated above 5 and 6 was evaluated in a crossover study of lansoprazole given daily, twice daily and three times daily (Table 5).
 
 Table 5: Mean Antisecretory Effects After 5 Days of Twice Daily and Three Times Daily Dosing
 
 | Parameter | Lansoprazole |  |  |  |
 | --- | --- | --- | --- | --- |
 | 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |  |
-| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) versus lansoprazole 30 mg daily. | 77(p < 0.05) versus lansoprazole 30 mg daily, 15 mg twice daily, and 30 mg twice daily. |
+| % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) versus lansoprazole 30 mg daily. | 77(p < 0.05) versus lansoprazole 30 mg daily, 15 mg twice daily and 30 mg twice daily. |
 | % Time Gastric pH > 6 | 20 | 23 | 28 | 45 |
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
@@ -97,7 +97,7 @@ Plasma protein binding is constant over the concentration range of 0.05 to 5.0 m
 Metabolism: Lansoprazole is extensively metabolized in the liver.
 Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole).
 These metabolites have very little or no antisecretory activity.
-Lansoprazole is thought to be transformed into two active species which inhibit acid secretion by blocking the proton pump [(H+,K+)-ATPase enzyme system] at the secretory surface of the gastric parietal cell.
+Lansoprazole is thought to be transformed into two active species which inhibit acid secretion by blocking the proton pump [(H+, K+)-ATPase enzyme system] at the secretory surface of the gastric parietal cell.
 The two active species are not present in the systemic circulation.
 The plasma elimination half-life of lansoprazole is less than 2 hours while the acid inhibitory effect lasts more than 24 hours.
 Therefore, the plasma elimination half-life of lansoprazole does not reflect its duration of suppression of gastric acid secretion.
@@ -108,7 +108,7 @@ This implies a significant biliary excretion of the lansoprazole metabolites.
 
 ## 12.4 Specific Populations
 
-### Pediatric Use
+### Pediatric Use:
 
 One to 17 years of age
 
@@ -126,7 +126,7 @@ No dosage adjustment is necessary in the elderly [see Use in Specific Population
 
 Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1.0% to 1.5% after administration of 60 mg of lansoprazole.
 Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound).
-The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and tmax (time to reach the maximum concentration) were not different than the Cmax and tmax from subjects with normal renal function.
+The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and Tmax (time to reach the maximum concentration) were not different than the Cmax and Tmax from subjects with normal renal function.
 No dosage adjustment is necessary in patients with renal impairment [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment: In patients with various degrees of chronic hepatic impairment, the mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 3.2 to 7.2 hours.

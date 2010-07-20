@@ -32,7 +32,6 @@ Lansoprazole delayed-release capsules are indicated for the treatment of heartbu
 ### Short-Term Treatment of Erosive Esophagitis
 
 Lansoprazole delayed-release capsules are indicated for short-term treatment (up to 8 weeks) for healing and symptom relief of all grades of erosive esophagitis.
-
 For patients who do not heal with lansoprazole delayed-release capsules for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment.
 If there is a recurrence of erosive esophagitis an additional 8 week course of lansoprazole delayed-release capsules may be considered [see Clinical Studies (14)].
 
@@ -41,6 +40,6 @@ If there is a recurrence of erosive esophagitis an additional 8 week course of l
 Lansoprazole delayed-release capsules are indicated to maintain healing of erosive esophagitis.
 Controlled studies did not extend beyond 12 months [see Clinical Studies (14)].
 
-## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
+## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (ZES)
 
 Lansoprazole delayed-release capsules are indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome [see Clinical Studies (14)].

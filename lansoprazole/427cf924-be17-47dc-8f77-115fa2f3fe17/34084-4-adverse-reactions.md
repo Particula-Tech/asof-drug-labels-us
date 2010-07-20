@@ -3,7 +3,6 @@
 ## 6.1 Clinical
 
 Worldwide, over 10,000 patients have been treated with lansoprazole in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment.
-The adverse reaction profiles for lansoprazole delayed-release capsules and lansoprazole for delayed-release oral suspension are similar.
 In general, lansoprazole treatment has been well-tolerated in both short-term and long-term trials.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -33,11 +32,11 @@ Additional reactions from this study not previously observed in other clinical t
 
 Additional adverse experiences occurring in less than 1% of patients or subjects who received lansoprazole in domestic trials are shown below:
 
-Body as a Whole - abdomen enlarged, allergic reaction, asthenia, back pain, candidiasis, carcinoma, chest pain (not otherwise specified), chills, edema, fever, flu syndrome, halitosis, infection (not otherwise specified), malaise, neck pain, neck rigidity, pain, pelvic pain;
+Body as a Whole - abdomen enlarged, allergic reaction, asthenia, back pain, candidiasis, carcinoma, chest pain (not otherwise specified), chills, edema, fever, flu syndrome, halitosis, infection (not otherwise specified), malaise, neck pain, neck rigidity, pain, pelvic pain
 
-Cardiovascular System- angina, arrhythmia, bradycardia, cerebrovascular accident/cerebral infarction, hypertension/hypotension, migraine, myocardial infarction, palpitations, shock (circulatory failure), syncope, tachycardia, vasodilation;
+Cardiovascular System- angina, arrhythmia, bradycardia, cerebrovascular accident/cerebral infarction, hypertension/hypotension, migraine, myocardial infarction, palpitations, shock (circulatory failure), syncope, tachycardia, vasodilation
 
-Digestive System - abnormal stools, anorexia, bezoar, cardiospasm, cholelithiasis, colitis, dry mouth, dyspepsia, dysphagia, enteritis, eructation, esophageal stenosis, esophageal ulcer, esophagitis, fecal discoloration, flatulence, gastric nodules/fundic gland polyps, gastritis, gastroenteritis, gastrointestinal anomaly, gastrointestinal disorder, gastrointestinal hemorrhage, glossitis, gum hemorrhage, hematemesis, increased appetite, increased salivation, melena, mouth ulceration, nausea and vomiting, nausea and vomiting and diarrhea, gastrointestinal moniliasis, rectal disorder, rectal hemorrhage, stomatitis, tenesmus, thirst, tongue disorder, ulcerative colitis, ulcerative stomatitis;
+Digestive System - abnormal stools, anorexia, bezoar, cardiospasm, cholelithiasis, colitis, dry mouth, dyspepsia, dysphagia, enteritis, eructation, esophageal stenosis, esophageal ulcer, esophagitis, fecal discoloration, flatulence, gastric nodules/fundic gland polyps, gastritis, gastroenteritis, gastrointestinal anomaly, gastrointestinal disorder, gastrointestinal hemorrhage, glossitis, gum hemorrhage, hematemesis, increased appetite, increased salivation, melena, mouth ulceration, nausea and vomiting, nausea and vomiting and diarrhea, gastrointestinal moniliasis, rectal disorder, rectal hemorrhage, stomatitis, tenesmus, thirst, tongue disorder, ulcerative colitis, ulcerative stomatitis
 
 Endocrine System - diabetes mellitus, goiter, hypothyroidism
 

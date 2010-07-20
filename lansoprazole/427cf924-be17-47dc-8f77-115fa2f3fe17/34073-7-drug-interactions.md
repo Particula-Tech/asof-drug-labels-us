@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Drugs with pH-Dependent Absorption Kinetics
+Drugs With pH-Dependent Absorption Kinetics
 
 Lansoprazole causes long-lasting inhibition of gastric acid secretion.
 Lansoprazole and other PPIs are likely to substantially decrease the systemic concentrations of the HIV protease inhibitor atazanavir, which is dependent upon the presence of gastric acid for absorption, and may result in a loss of therapeutic effect of atazanavir and the development of HIV resistance.
