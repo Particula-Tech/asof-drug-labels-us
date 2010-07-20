@@ -14,7 +14,7 @@ Buprenorphine, in common with morphine and other phenolic opioid analgesics, is 
 Studies in patients anesthetized with 0.5% halothane have shown that this anesthetic decreases hepatic blood flow by about 30%.
 
 Mechanism of Analgesic Action: Buprenorphine hydrochloride exerts its analgesic effect via high affinity binding to μ subclass opiate receptors in the central nervous system.
-Although buprenorphine may be classified as a partial agonist, under the conditions of recommended use it behaves very much like classicalμ agonists such as morphine.
+Although buprenorphine may be classified as a partial agonist, under the conditions of recommended use it behaves very much like classical μ agonists such as morphine.
 One unusual property of buprenorphine observed in in vitro studies is its very slow rate of dissociation from its receptor.
 This could account for its longer duration of action than morphine, the unpredictability of its reversal by opioid antagonists, and its low level of manifest physical dependence.
 

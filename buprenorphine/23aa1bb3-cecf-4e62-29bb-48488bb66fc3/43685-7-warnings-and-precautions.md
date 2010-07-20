@@ -45,10 +45,14 @@ Although specific information is not presently available, caution should be exer
 There have been reports of respiratory and cardiovascular collapse in patients who received therapeutic doses of diazepam and buprenorphine.
 A suspected interaction between buprenorphine hydrochloride and phenprocoumon resulting in purpura has been reported.
 
-CYP3A4 Inhibitors: Since the metabolism of buprenorphine is mediated by the CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of buprenorphine.
+CYP3A4 Inhibitors:
+
+Since the metabolism of buprenorphine is mediated by the CYP3A4 isozyme, coadministration of drugs that inhibit CYP3A4 activity may cause decreased clearance of buprenorphine.
 Thus patients coadministered with inhibitors of CYP3A4 such as macrolide antibiotics (e.g., erythromycin), azole antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritanovir) while receiving buprenorphine should be carefully monitored and dosage adjustment made if warranted.
 
-CYP3A4 Inducers: Cytochrome P450 inducers, such as rifampin, carbamazepine, and phenytoin, induce metabolism and as such may cause increased clearance of buprenorphine.
+CYP3A4 Inducers:
+
+Cytochrome P450 inducers, such as rifampin, carbamazepine, and phenytoin, induce metabolism and as such may cause increased clearance of buprenorphine.
 Caution is advised when administering buprenorphine to patients receiving these medications and if necessary dose adjustments should be considered.
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility:
@@ -94,4 +98,4 @@ Breast-feeding is therefore not advised in nursing mothers treated with buprenor
 The safety and effectiveness of buprenorphine have been established for children between 2 and 12 years of age.
 Use of buprenorphine in children is supported by evidence from adequate and well controlled trials of buprenorphine in adults, with additional data from studies of 960 children ranging in age from 9 months to 18 years of age.
 Data is available from a pharmaco-kinetic study, several controlled clinical trials, and several large post-marketing studies and case series.
-The available information provides reasonable evidence that buprenorphine may be used safely in children ranging from 2 to 12 yearsof age, and that it is of similar effectiveness in children as in adults.
+The available information provides reasonable evidence that buprenorphine may be used safely in children ranging from 2 to 12 years of age, and that it is of similar effectiveness in children as in adults.

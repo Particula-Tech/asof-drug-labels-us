@@ -15,7 +15,9 @@ Retain in carton until time of use.
 
 Do not freeze.
 
-| ©Hospira 2004 | EN-0327 | Printed in USA |
+Revised: June, 2009
+
+| Printed in USA |  | EN-2088 |
 | --- | --- | --- |
 
-HOSPIRA, INC., LAKE FOREST, IL 60045, USA
+Hospira, Inc., Lake Forest, IL 60045, USA
