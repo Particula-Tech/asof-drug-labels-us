@@ -159,13 +159,13 @@ Astellas Pharma Technologies, Inc.
 
 Norman, Oklahoma 73072
 
-Marketed by:
+Marketed and Distributed by:
 
 Astellas Pharma US, Inc.
 
 Deerfield, Illinois 60015-2548
 
-Marketed and Distributed by:
+Marketed by:
 
 GlaxoSmithKline
 
@@ -173,10 +173,10 @@ Research Triangle Park
 
 North Carolina 27709
 
-© 2005 Astellas Pharma US, Inc.
+© 2010 Astellas Pharma US, Inc.
 
 & GlaxoSmithKline
 
-09E007-VES-CPI
+10G034-VES-SPL
 
-Revised: April 2010
+Revised: JULY 2010
