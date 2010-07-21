@@ -1,6 +1,6 @@
 # WARNINGS
 
-Patients being treated with ETOPOPHOS must be frequently observed for myelosuppression both during and after therapy.
+Patients being treated with ETOPOPHOS (etoposide phosphate) must be frequently observed for myelosuppression both during and after therapy.
 Myelosuppression resulting in death has been reported following etoposide administration.
 Dose-limiting bone marrow suppression is the most significant toxicity associated with ETOPOPHOS therapy.
 Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of ETOPOPHOS: platelet count, hemoglobin, white blood cell count, and differential.
@@ -15,12 +15,16 @@ The role that concentration of infusion (or rate of infusion) plays in the devel
 Treatment is symptomatic.
 The infusion should be terminated immediately, followed by the administration of pressor agents, corticosteroids, antihistamines, or volume expanders at the discretion of the physician.
 
+Injection site reactions may occur during the administration of ETOPOPHOS (see ADVERSE REACTIONS).
+Given the possibility of extravasation, it is recommended to closely monitor the infusion site for possible infiltration during drug administration.
+A specific treatment for extravasation reactions is unknown at this time.
+
 ETOPOPHOS can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats, and it is therefore likely that ETOPOPHOS is also teratogenic.
 
-In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20 of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7 and 1/2 of the human dose on a mg/m2 basis) resulted in 90 and 100% embryonic resorptions.
+In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20 of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7 and 1/2 of the human dose on a mg/m2 basis) resulted in 90% and 100% embryonic resorptions.
 In mice, a single 1.0 mg/kg (1/16 of the human dose on a mg/m2 basis) dose of etoposide administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
-An i.p. dose of 1.5 mg/kg (about 1/10 of the human dose on a mg/m2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
+An intraperitoneal dose of 1.5 mg/kg (about 1/10 of the human dose on a mg/m2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
 
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be warned of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
@@ -43,7 +47,7 @@ Patients with low serum albumin may be at an increased risk for etoposide associ
 
 ## Drug Interactions
 
-Caution should be exercised when administering ETOPOPHOS with drugs that are known to inhibit phosphatase activities (e.g. levamisole hydrochloride).
+Caution should be exercised when administering ETOPOPHOS with drugs that are known to inhibit phosphatase activities (e.g., levamisole hydrochloride).
 High-dose cyclosporin A resulting in concentrations above 2000 ng/mL administered with oral etoposide has led to an 80% increase in etoposide exposure with a 38% decrease in total body clearance of etoposide compared to etoposide alone.
 
 ## Laboratory Tests
@@ -89,7 +93,7 @@ Anaphylactic reactions have been reported in pediatric patients who received eto
 ## Geriatric Use
 
 Clinical studies of etoposide for the treatment of refractory testicular tumors did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
-Of more than 600 patients in four clinical studies in the NDA databases who received ETOPOPHOS (etoposide phosphate) or etoposide in combination with other chemotherapeutic agents for the treatment of small cell lung cancer (SCLC), about one third were older than 65 years.
+Of more than 600 patients in four clinical studies in the NDA databases who received ETOPOPHOS or etoposide in combination with other chemotherapeutic agents for the treatment of small cell lung cancer, about one third were older than 65 years.
 When advanced age was determined to be a prognostic factor for response or survival in these studies, comparisons between treatment groups were performed for the elderly subset.
 In the one study (etoposide in combination with cyclophosphamide and vincristine compared with cyclophosphamide and vincristine or cyclophosphamide, vincristine, and doxorubicin) where age was a significant prognostic factor for survival, a survival benefit for elderly patients was observed for the etoposide regimen compared with the control regimens.
 No differences in myelosuppression were seen between elderly and younger patients in these studies except for an increased frequency of WHO Grade III or IV leukopenia among elderly patients in a study of etoposide phosphate or etoposide in combination with cisplatin.

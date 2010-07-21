@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020457"
+  ],
   "inn": "etoposide",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0015-3404-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "etoposide phosphate",
+      "name": "ETOPOPHOS"
+    }
+  ],
   "setid": "e28c05f0-081f-406d-8bfb-9160a6908307",
   "source": "dailymed"
 }

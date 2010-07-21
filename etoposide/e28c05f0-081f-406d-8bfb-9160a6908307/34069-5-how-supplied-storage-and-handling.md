@@ -6,12 +6,16 @@ NDC 0015-3404-20 100 mg single-dose vial
 
 ## Storage
 
-Store the unopened vials under refrigeration 2°-8° C (36°-46° F). Retain in original package to protect from light.
+Store the unopened vials under refrigeration 2° to 8°C (36°-46°F).
+Retain in original package to protect from light.
 
 ## Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Caution should be exercised when handling ETOPOPHOS for Injection.
+Procedures for proper handling and disposal of anticancer drugs should be utilized.
+Several guidelines on this subject have been published.1-4
 
 To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing ETOPOPHOS for Injection.
-This includes all handling activities in clinical settings, pharmacies, storerooms, and home healthcare settings, including during unpacking and inspection, transport within a facility, and dose preparation and administration.
+If ETOPOPHOS for Injection contacts the skin, immediately wash the skin thoroughly with soap and water.
+If contact with mucous membranes occurs, the membranes should be flushed immediately and thoroughly with water.
+More information is available in the references listed below.

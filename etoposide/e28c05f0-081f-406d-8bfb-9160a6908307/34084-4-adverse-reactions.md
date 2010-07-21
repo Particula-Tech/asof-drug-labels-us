@@ -6,19 +6,19 @@ The most frequent clinically significant adverse experiences were leukopenia and
 The incidences of adverse experiences in the table that follows are derived from studies in which ETOPOPHOS was administered as a single agent.
 A total of 98 patients received total doses at or above 450 mg/m2 on a 5 consecutive day or day 1, 3, and 5 schedule during the first course of therapy.
 
-Summary of Adverse Events Reported With Single-Agent ETOPOPHOS Following Course 1 at Total Five Day Doses of ≥ 450 mg/m2
+Summary of Adverse Events Reported With Single-Agent ETOPOPHOS Following Course 1 at Total Five Day Doses of ≥450 mg/m2
 
 |  |  | Percent of Patients |
 | --- | --- | --- |
 | Hematologic toxicity |  |  |
-| Leukopenia | < 4000/mm3 | 91 |
-|  | < 1000/mm3 | 17 |
-| Neutropenia | < 2000/mm3 | 88 |
-|  | < 500/mm3 | 37 |
-| Thrombocytopenia | < 100,000/mm3 | 23 |
-|  | < 50,000/mm3 | 9 |
-| Anemia | < 11 g/dL | 72 |
-|  | < 8 g/dL | 19 |
+| Leukopenia | <4000/mm3 | 91 |
+|  | <1000/mm3 | 17 |
+| Neutropenia | <2000/mm3 | 88 |
+|  | <500/mm3 | 37 |
+| Thrombocytopenia | <100,000/mm3 | 23 |
+|  | <50,000/mm3 | 9 |
+| Anemia | <11 g/dL | 72 |
+|  | <8 g/dL | 19 |
 | Gastrointestinal toxicity |  |  |
 | Nausea and/or vomiting |  | 37 |
 | Anorexia |  | 16 |
@@ -37,7 +37,7 @@ Since etoposide phosphate is converted to etoposide, those adverse experiences t
 
 ## Hematologic Toxicity
 
-Myelosuppression after ETOPOPHOS administration is dose related and dose limiting with the leukocyte nadir counts occurring from day 15 to day 22 after initiation of drug therapy, granulocyte nadir counts occurring day 12-19 after initiation of drug therapy, and platelet nadirs occurring from day 10-15.
+Myelosuppression after ETOPOPHOS administration is dose related and dose limiting with the leukocyte nadir counts occurring from day 15 to day 22 after initiation of drug therapy, granulocyte nadir counts occurring day 12 to 19 after initiation of drug therapy, and platelet nadirs occurring from day 10 to 15.
 Bone marrow recovery usually occurs by day 21 but may be delayed, and no cumulative toxicity has been reported.
 Fever and infection have also been reported in patients with neutropenia.
 Death associated with myelosuppression has been reported following etoposide administration.
@@ -66,9 +66,9 @@ Blood pressure usually normalizes within a few hours after cessation of the init
 
 Anaphylactic-like reactions have occurred during the initial infusion of ETOPOPHOS (see WARNINGS).
 Facial/tongue swelling, coughing, diaphoresis, cyanosis, tightness in throat, laryngospasm, back pain, and/or loss of consciousness have sometimes occurred in association with the above reactions.
-In addition, an apparent hypersensitivity-associated apnea has been reported rarely.
+In addition, an apparent hypersensitivity-associated apnea has been reported.
 
-Rash, urticaria, and/or pruritus have infrequently been reported at recommended doses.
+Rash, urticaria, and/or pruritus have been reported at recommended doses.
 At investigational doses, a generalized pruritic erythematous maculopapular rash, consistent with perivasculitis, has been reported.
 
 ## Alopecia
@@ -77,18 +77,21 @@ Reversible alopecia, sometimes progressing to total baldness, was observed in up
 
 ## Other Toxicities
 
-The following adverse reactions have been infrequently reported: abdominal pain, aftertaste, constipation, dysphagia, fever, transient cortical blindness, interstitial pneumonitis/pulmonary fibrosis, optic neuritis, pigmentation, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, toxic epidermal necrolysis, and a single report of radiation recall dermatitis.
-Rarely, hepatic toxicity may be seen.
+The following adverse reactions have been reported: abdominal pain, aftertaste, constipation, dysphagia, fever, transient cortical blindness, interstitial pneumonitis/pulmonary fibrosis, optic neuritis, pigmentation, seizure (occasionally associated with allergic reactions), Stevens-Johnson syndrome, toxic epidermal necrolysis, and radiation recall dermatitis.
+Hepatic toxicity may be seen.
 
-The incidences of adverse reactions in the table that follows are derived from multiple data bases from studies in 2081 patients when VePesid was used either orally or by injection as a single agent.
+Local soft tissue toxicity has been reported following extravasation of ETOPOPHOS.
+Infiltration of ETOPOPHOS may result in swelling, pain, cellulitis, and necrosis including skin necrosis.
+
+The incidences of adverse reactions in the table that follows are derived from multiple databases from studies in 2081 patients when VePesid was used either orally or by injection as a single agent.
 
 | Adverse Drug Effects Observed With Single-Agent VePesid | Percent Range of Reported Incidence |
 | --- | --- |
 | Hematologic toxicity |  |
-| Leukopenia (< 1,000/mm3) | 3-17 |
-| Leukopenia (< 4,000/mm3) | 60-91 |
-| Thrombocytopenia (< 50,000/mm3) | 1-20 |
-| Thrombocytopenia (< 100,000/mm3) | 22-41 |
+| Leukopenia (<1000/mm3) | 3-17 |
+| Leukopenia (<4000/mm3) | 60-91 |
+| Thrombocytopenia (<50,000/mm3) | 1-20 |
+| Thrombocytopenia (<100,000/mm3) | 22-41 |
 | Anemia | 0-33 |
 | Gastrointestinal toxicity |  |
 | Nausea and vomiting | 31-43 |

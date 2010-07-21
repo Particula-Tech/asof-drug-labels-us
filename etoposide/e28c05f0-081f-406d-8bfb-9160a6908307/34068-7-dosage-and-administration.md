@@ -8,8 +8,10 @@ Equivalent doses of ETOPOPHOS should be used.
 
 For recommended dosing adjustments in patients with renal impairment, see PRECAUTIONS.
 
+ETOPOPHOS is administered by slow intravenous infusion.
+ETOPOPHOS SHOULD NOT BE GIVEN BY RAPID INTRAVENOUS INJECTION.
 ETOPOPHOS solutions may be administered at infusion rates from 5 to 210 minutes.
-Chemotherapy courses are repeated at 3-to 4-week intervals after adequate recovery from any toxicity.
+Chemotherapy courses are repeated at 3- to 4-week intervals after adequate recovery from any toxicity.
 
 The dosage should be modified to take into account the myelosuppressive effect of other drugs in the combination or the effects of prior x-ray therapy or chemotherapy which may have compromised bone marrow reserve.
 
@@ -22,7 +24,7 @@ If ETOPOPHOS solution contacts the skin or mucosa, immediately and thoroughly wa
 
 ## Preparation for Intravenous Administration
 
-Prior to use, the content of each vial must be reconstituted with Sterile Water for Injection, USP; 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; Bacteriostatic Water for Injection with Benzyl Alcohol; or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol to a concentration equivalent to 20 mg/mL or 10 mg/mL etoposide (22.7 mg/mL or 11.4 mg/mL etoposide phosphate, respectively).
+Prior to use, the content of each vial must be reconstituted with Sterile Water for Injection, USP; 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; Bacteriostatic Water for Injection with Benzyl Alcohol; or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol to a concentration equivalent to 20 mg/mL or 10 mg/mL etoposide (22.7 or 11.4 mg/mL etoposide phosphate, respectively).
 Use the quantity of diluent shown below to reconstitute the product.
 
 | Vial Strength | Volume of Diluent | Final Concentration |
@@ -37,6 +39,6 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 ## Stability
 
-Unopened vials of ETOPOPHOS for Injection are stable until the date indicated on the package when stored under refrigeration 2°-8° C (36°-46° F) in the original package.
-When reconstituted as directed, ETOPOPHOS solutions can be stored in glass or plastic containers under refrigeration 2°-8° C (36°-46° F) for 7 days; at controlled room temperature 20°-25° C (68°-77° F) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP; or at controlled room temperature 20°-25° C (68°-77° F) for 48 hours following reconstitution with Bacteriostatic Water for Injection with Benzyl Alcohol or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol.
-ETOPOPHOS solutions further diluted as directed can be stored under refrigeration 2°-8° C (36°-46° F) or at controlled room temperature 20°-25° C (68°-77° F) for 24 hours.
+Unopened vials of ETOPOPHOS for Injection are stable until the date indicated on the package when stored under refrigeration 2° to 8°C (36°-46°F) in the original package.
+When reconstituted as directed, ETOPOPHOS solutions can be stored in glass or plastic containers under refrigeration 2° to 8°C (36°-46°F) for 7 days; at controlled room temperature 20° to 25°C (68°-77°F) for 24 hours following reconstitution with Sterile Water for Injection, USP, 5% Dextrose Injection, USP, or 0.9% Sodium Chloride Injection, USP; or at controlled room temperature 20° to 25°C (68°-77°F) for 48 hours following reconstitution with Bacteriostatic Water for Injection with Benzyl Alcohol or Bacteriostatic Sodium Chloride for Injection with Benzyl Alcohol.
+ETOPOPHOS solutions further diluted as directed can be stored under refrigeration 2° to 8°C (36°-46°F) or at controlled room temperature 20° to 25°C (68°-77°F) for 24 hours.
