@@ -54,7 +54,7 @@ Epidemiological studies, both of the case-control and cohort design, have demons
 In two studies, concurrent use of an NSAID or aspirin potentiated the risk of bleeding (see PRECAUTIONS: Drug Interactions).
 Although these studies focused on upper gastrointestinal bleeding, there is reason to believe that bleeding at other sites may be similarly potentiated.
 
-NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn’s disease) as their condition may be exacerbated.
+NSAIDs should be given with care to patients with a history of inflammatory bowel disease (ulcerative colitis, Crohn's disease) as their condition may be exacerbated.
 
 ## Renal Effects
 
