@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Daytrana™ (methylphenidate transdermal system) is supplied in a sealed tray or outer pouch containing 30 individually pouched patches.
+Daytrana is supplied in a sealed tray or outer pouch containing 30 individually pouched patches.
 See the chart below for information regarding available strengths.
 
 | Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | Patch Size (cm2) | Methylphenidate Content per Patch** (mg) | Patches Per Carton | NDC Number |
@@ -9,10 +9,7 @@ See the chart below for information regarding available strengths.
 | 15 | 1.6 | 18.75 | 41.3 | 30 | 54092-553-30 |
 | 20 | 2.2 | 25 | 55 | 30 | 54092-554-30 |
 | 30 | 3.3 | 37.5 | 82.5 | 30 | 54092-555-30 |
-
-* Nominal in vivo delivery rate per hour in pediatric subjects aged 6-12 when applied to the hip, based on a 9-hour wear period.
-
-** Methylphenidate content in each patch.
+| *Nominal in vivo delivery rate per hour in children and adolescents when applied to the hip, based on a 9-hour wear period. **Methylphenidate content in each patch. |  |  |  |  |  |
 
 Store at 25° C (77° F); excursions permitted to 15-30° C (59-86° F) [see USP Controlled Room Temperature].
 Do not store patches unpouched.

@@ -1,100 +1,111 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
 Methylphenidate is a CNS stimulant.
 Its mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known, but methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and to increase the release of these monoamines into the extraneuronal space.
-Methylphenidate is a racemic mixture comprised of the d- and l-enantiomers.
+
+## 12.2 Pharmacodynamics
+
+Methylphenidate is a racemic mixture comprised of the d-and l-enantiomers.
 The d-enantiomer is more pharmacologically active than the l-enantiomer.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-The pharmacokinetics of Daytrana™ when applied to the hip for 9 hours have been studied in ADHD patients 6 to 12 years old.
+The pharmacokinetics of Daytrana when applied to the hip for 9 hours have been studied in ADHD patients 6 to 17 years old.
 
-## Absorption
+Absorption
 
-When Daytrana™ was titrated to effect in the pivotal phase III clinical efficacy study, after at least 6 weeks of therapy with 9 hour wear times when applied to alternating hips, the mean peak d-methylphenidate (d-MPH) plasma concentration was 39 ng/mL with a range of 0 - 114 ng/mL.
-These mean peak concentrations varied inversely by age ranging from 25 ng/mL, (range 2 - 80 ng/mL) in 12 year olds, to 53 ng/mL (range 18 - 83 ng/mL) in 6 year olds.
+The amount of methylphenidate absorbed systemically is a function of both wear time and patch size.
+In patients with ADHD, peak plasma levels of methylphenidate are reached at about 10 hours after single application and 8 hours after repeat patch applications (12.5cm2 to 37.5cm2) when worn up to 9 hours.
 
-Daytrana™ mean peak d-MPH concentrations were approximately 1.9-fold higher than the highest observed concentrations after a once-daily oral methylphenidate formulation over a period of 7.5 to 10.5 hours, when Tmax typically occurs.
-These higher concentrations were observed for all children 6 - 12 years of age, both overall and when grouped by age.
-The Daytrana™ peak concentrations on chronic dosing were also higher than Cmaxs seen with Daytrana™ after single dosing, or 4 days of multiple dosing.
-With single doses of Daytrana™, peak concentrations were comparable to Cmaxs from single doses of the once daily oral MPH formulation.
+On single dosing with Daytrana to children or adolescents, there was a delay of, on average, 2 hours before d-methylphenidate was detectable in the circulation.
+On repeat dosing, low concentrations (1.2-3.0 ng/mL in children and 0.5-1.7ng/mL in adolescents, on average across the dose range) were observed earlier in the profile, due to carry-over effect.
+Following the application of Daytrana once daily with a 9 hour wear time, the mean pharmacokinetic parameters of d-methylphenidate in children and adolescents with ADHD after 4 weeks of therapy are summarized in Table 3.
 
-The observed exposures with Daytrana™ could not be explained by drug accumulation predicted from observed single dose pharmacokinetics and there was no evidence that clearance or rate of elimination changed between single and repeat dosing.
+Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 9-Hour Applications of Daytrana or Oral ER-MPH for up to 28 days to Pediatric ADHD Patients (Aged 6 - 17 years)
+
+| Children |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Parameter | Daytrana1 12.5cm2 (N=12) | Daytrana2 37.5cm2 (N=10) | Oral ER-MPH3 18mg | Oral ER-MPH3 54mg |
+| Cssmax (ng/mL) | 15.7 ± 9.39 | 42.9 ± 22.4 | 8.37 ± 4.14 | 26.1 ± 11.2 |
+| Cssmin (ng/mL) | 1.04 ± 1.17 | 1.96 ± 1.73 | 0.708 ± 1.08 | 1.19 ± 1.54 |
+| AUCss (ng·hr/mL) | 163 ± 101 | 447 ± 230 | 97.7 ± 67.0 | 317 ± 160 |
+| tlag (h)4 | 0 (0 - 2.0) | 0 (0 - 1.0) | 0 | 0 |
+| Adolescents |  |  |  |  |
+| Cssmax (ng/mL) | 8.32 ± 4.60 | 16.5 ± 6.94 | 5.23 ± 1.72 | 18.0 ± 6.97 |
+| Cssmin (ng/mL) | 0.544 ± 0.383 | 1.02 ± 0.629 | 0.360 ± 0.478 | 1.50 ± 0.937 |
+| AUCss (ng·hr/mL) | 85.7 ± 50.0 | 167 ± 66.0 | 59.7 ± 19.1 | 216 ± 80.8 |
+| tlag (h)4 | 0 (0 - 2.0) | 0 (0 - 2.0) | 0 | 0 |
+| 1 Dose maintained fixed for 28 days; 2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2; 3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg; 4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration |  |  |  |  |
+
+Following administration of Daytrana 12.5cm2 to paediatric and adolescent ADHD patients daily for 7 days, there were 13% and 14% increases, respectively, in steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞); after 28 days administration, these increments increased to 64% and 76%, respectively.
+Cmax increased by nearly 69% and 100% within 4 weeks of daily administration of the starting dose in children and adolescents, respectively.
+
+The observed exposures with Daytrana could not be explained by drug accumulation predicted from observed single dose pharmacokinetics and there was no evidence that clearance or rate of elimination changed between single and repeat dosing.
 Neither were they explainable by differences in dosing patterns between treatments, age, race, or gender.
-This suggests that transdermal absorption of methylphenidate may increase with chronic therapy with the methylphenidate transdermal system.
+This suggests that transdermal absorption of methylphenidate may increase with repeat dosing with Daytrana; on average, steady-state is likely to have been achieved by approximately 14 days of dosing.
 
-On multiple dosing of the transdermal system, exposure to l-methylphenidate was 27% to 45% lower, on average, than exposures to d-methylphenidate.
-For comparison, little if any l-methylphenidate was detectable after administration of a once daily oral MPH formulation. l-methylphenidate is less pharmacologically active than d-methylphenidate.
+In the single and multiple dose study described above, exposure to l-methylphenidate was 46% of the exposure to d-methylphenidate in children and 40% in adolescents. l-methylphenidate is less pharmacologically active than d-methylphenidate [see Pharmacodynamics (12.2)].
 
-The average lag time (i.e., the time until any d-MPH is detectable in the circulation) was 3.1 hours, (range 1- 6 hours) with Daytrana™ in the single dose study.
-In the phase II PK/PD study, 2/3 of patients had 2-hour d-MPH concentrations < 5 ng/mL on chronic dosing, and at 3 hours 40% of patients had d-MPH concentrations < 5 ng/mL (see CLINICAL STUDIES - Study 1).
+In a phase 2 PK/PD study in children aged 6-12 years, 2/3 of patients had 2-hour d-MPH concentrations < 5 ng/mL on chronic dosing, and at 3 hours 40% of patients had d-MPH concentrations < 5 ng/mL [see Clinical Studies (14)].
 
-When Daytrana™ is applied to inflamed skin both the rate and extent of absorption are increased as compared with intact skin.
+When Daytrana is applied to inflamed skin both the rate and extent of absorption are increased as compared with intact skin.
 When applied to inflamed skin, lag time is no greater than 1 hour, Tmax is 4 hours, and both Cmax and AUC are approximately 3-fold higher.
 
-When heat is applied to Daytrana™ after patch application, both the rate and the extent of absorption are significantly increased.
-Median Tlag occurs 1 hour earlier and Tmax occurs 0.5 hours earlier, and median Cmax and AUC are 2-fold and 2.5-fold higher, respectively.
+When heat is applied to Daytrana after patch application, both the rate and the extent of absorption are significantly increased.
+Median Tlag occurs 1 hour earlier, Tmax occurs 0.5 hours earlier, and median Cmax and AUC are 2-fold and 2.5-fold higher, respectively.
 
 Application sites other than the hip can have different absorption characteristics and have not been adequately studied in safety or efficacy studies.
 
-## Dose Proportionality
+Dose Proportionality
 
-Following a single 9-hour application of Daytrana™ patch doses of 10 mg / 9 hour to 30 mg / 9 hour patches to 34 children with ADHD, Cmax and AUC0-t of d-methylphenidate were proportional to the patch dose.
+Following a single 9-hour application of Daytrana patch doses of 10 mg / 9 hours to 30 mg / 9 hours patches to 34 children with ADHD, Cmax and AUC0-t of d-methylphenidate were proportional to the patch dose.
 Mean plasma concentration-time plots are shown in Figure 1.
 Cmax of l-methylphenidate was also proportional to the patch dose.
 AUC0-t of l-methylphenidate was only slightly greater than proportional to patch dose.
 
-## Distribution
+Distribution
 
-Upon removal of Daytrana™, methylphenidate plasma concentrations in children with ADHD decline in a biexponential manner.
+Upon removal of Daytrana, methylphenidate plasma concentrations in children with ADHD decline in a biexponential manner.
 This may be due to continued distribution of MPH from the skin after patch removal.
 
-## Metabolism and Excretion
+Metabolism and Excretion
 
 Methylphenidate is metabolized primarily by de-esterification to alpha-phenyl-piperidine acetic acid (ritalinic acid), which has little or no pharmacologic activity.
 
 Transdermal administration of methylphenidate exhibits much less first pass effect than oral administration.
-Consequently, a much lower dose of Daytrana™ on a mg/kg basis compared to oral dosages may still produce higher exposures of d-MPH with transdermal administration compared to oral administration.
+Consequently, a much lower dose of Daytrana on a mg/kg basis compared to oral dosages may still produce higher exposures of d-MPH with transdermal administration compared to oral administration.
 In addition, very little, if any, l-methylphenidate is systemically available after oral administration due to first pass metabolism, whereas after transdermal administration of racemic methylphenidate exposure to l-methylphenidate is nearly as high as to d-methylphenidate.
 
-The mean elimination t1/2 from plasma of d-methylphenidate after removal of Daytrana™ in children aged 6 to 12 years was approximately 3 to 4 hours.
+The mean elimination t1/2 from plasma of d-methylphenidate after removal of Daytrana in children aged 6 to 12 years and adolescents aged 13-17 years was approximately 4 to 5 hours.
 The t1/2 of l-methylphenidate was shorter than for d-methylphenidate and ranged from 1.4 to 2.9 hours, on average.
 
-## Food Effects
+The Cmax and AUC of d-methylphenidate were approximately 50% lower in adolescents, compared to children, following either a 1-day or 7 day administration of Daytrana (10mg/9hr).
+Multiple-dose administration of Daytrana did not result in significant accumulation of methylphenidate; following 7 days of Daytrana administration (10mg/9hr) in children and adolescents, the accumulation index of methylphenidate was 1.1, based on the mean steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞).
 
-The pharmacokinetics or the pharmacodynamic food effect performance after application of Daytrana™ has not been studied, but because of the transdermal route of administration, no food effect is expected.
+Food Effects
 
-## Adhesion
+The pharmacokinetics or the pharmacodynamic food effect performance after application of Daytrana has not been studied, but because of the transdermal route of administration, no food effect is expected.
 
-In a study of 20 mg / 9 hour (25 cm2) transdermal systems > 95% of patches were greater than 90% adhered, and the remainder were 75% - 90% adhered.
-No patients discontinued therapy during clinical trials due to adhesion failure.
+Special Populations
 
-In the event a patch does not fully adhere to the skin upon application, or is partially or fully detached during wear time, the patch should be discarded according to the directions provided in this label (see DOSAGE AND ADMINISTRATION -- Disposal of Daytrana™), and a new patch should be applied.
-If a patch is replaced, the total recommended wear time for that day should remain 9 hours.
-(see DOSAGE AND ADMINISTRATION - Application).
+Gender
 
-Patches should not be applied or re-applied with dressings, tape, or other common adhesives.
+The pharmacokinetics of methylphenidate after single and repeated doses of Daytrana were similar between boys and girls with ADHD, after allowance for differences in body weight.
 
-## Special Populations
+Race
 
-### Gender
+The influence of race on the pharmacokinetics of methylphenidate after administration of Daytrana has not been defined.
 
-The pharmacokinetics of methylphenidate after single and repeated doses of Daytrana™ were similar between boys and girls with ADHD, after allowance for differences in body weight.
+Age
 
-### Race
+The pharmacokinetics of methylphenidate after administration of Daytrana have not been studied in children less than 6 years of age.
 
-The influence of race on the pharmacokinetics of methylphenidate after administration of Daytrana™ has not been defined.
+Renal Impairment
 
-### Age
+There is no experience with the use of Daytrana in patients with renal insufficiency.
 
-The pharmacokinetics of methylphenidate after administration of Daytrana™ have not been studied in children less than 6 years of age.
+Hepatic Impairment
 
-### Renal Insufficiency
-
-There is no experience with the use of Daytrana™ in patients with renal insufficiency.
-
-### Hepatic Insufficiency
-
-There is no experience with the use of Daytrana™ in patients with hepatic insufficiency.
+There is no experience with the use of Daytrana in patients with hepatic insufficiency.

@@ -1,9 +1,13 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance Class
+## 9.1 Controlled Substance
 
-Daytrana™ (methylphenidate transdermal system), like other methylphenidate products, is classified as a Schedule II controlled substance by federal regulation.
+Daytrana is classified as a Schedule II controlled substance by federal regulation.
 
-## Abuse, Dependence, and Tolerance
+## 9.2 Abuse
 
-See WARNINGS-Drug Dependence for boxed warning containing drug abuse and dependence information.
+See warning containing drug abuse information [see Boxed Warning].
+
+## 9.3 Dependence
+
+See warning containing drug dependence information [see Boxed Warning].
