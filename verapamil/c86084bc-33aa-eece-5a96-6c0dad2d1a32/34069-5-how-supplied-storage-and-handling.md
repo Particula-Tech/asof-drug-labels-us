@@ -33,7 +33,7 @@ NDC 0378-6440-01 bottles of 100 capsules
 NDC 0378-6440-05 bottles of 500 capsules
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Brief digressions above 25°C while not detrimental, should be avoided.
 
@@ -43,6 +43,9 @@ Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to Mylan Pharmaceuticals Inc. at 1-877-446-3769 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED FEBRUARY 2009 CVERER:R8
+REVISED MAY 2010 CVERER:R9

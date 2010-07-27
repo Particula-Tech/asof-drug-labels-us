@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Verapamil hydrochloride is contraindicated in:
+Verapamil hydrochloride extended-release capsules are contraindicated in:
 
 1. Severe left ventricular dysfunction.
    (See WARNINGS.)

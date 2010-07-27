@@ -4,10 +4,12 @@ Verapamil hydrochloride extended-release is a calcium ion influx inhibitor (slow
 
 Normal sinus rhythm is usually not affected by verapamil hydrochloride.
 However in patients with sick sinus syndrome, verapamil hydrochloride may interfere with sinus node impulse generation and may induce sinus arrest or sinoatrial block.
+
 Atrioventricular block can occur in patients without preexisting conduction defects.
 (See WARNINGS.)
 Verapamil hydrochloride does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization and conduction in depressed atrial fibers.
 Verapamil hydrochloride may shorten the antegrade effective refractory period of accessory bypass tracts.
+
 Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil.
 (See WARNINGS.)
 
@@ -19,6 +21,7 @@ It is not known whether this action is important at the doses used in man.
 ### Essential Hypertension
 
 Verapamil hydrochloride exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/minute is uncommon).
+
 Verapamil hydrochloride regularly reduces arterial pressure at rest and at a given level of exercise by dilating peripheral arterioles and reducing the total peripheral resistance (afterload) against which the heart works.
 
 ## Pharmacokinetics and Metabolism
@@ -43,6 +46,7 @@ Verapamil hydrochloride extended-release 240 mg under fasting conditions had a C
 
 The bioequivalence of verapamil hydrochloride extended-release 240 mg, administered as the beads sprinkled on applesauce and as the intact capsule, was demonstrated in a single-dose, cross-over study in 32 healthy adults.
 Comparative ratios (sprinkled/intact) of verapamil were 0.95, 1.02, and 1.01 for Cmax, Tmax, and AUC(0-inf) respectively.
+When the contents of the verapamil hydrochloride extended-release capsule were administered by sprinkling onto one tablespoonful of applesauce, the rate and extent of verapamil absorption were found to be bioequivalent to the same dose when administered as an intact capsule.
 Similar results were observed with norverapamil.
 
 The time to reach maximum verapamil concentrations (Tmax) with verapamil hydrochloride extended-release has been found to be approximately 7 to 9 hours in each of the single dose (fasting), single dose (fed), the multiple dose (steady-state) studies, and dose proportionality pharmacokinetic studies.
@@ -67,7 +71,14 @@ In ten healthy males, administration of oral verapamil (80 mg every 8 hours for 
 (See PRECAUTIONS: Drug Interactions.)
 
 The area under the blood ethanol concentration versus time curve (AUC over 12 hours) increased by 30% (365.67 ± 93.52 to 475.07 ± 97.24 mg•hr/dL).
+
 Verapamil AUCs were positively correlated (r=0.71) to increased ethanol blood AUC values.
+
+## Geriatric Use
+
+The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19 to 43 years) vs. 30 healthy elderly (65 to 80 years) male and female subjects.
+Older subjects had significantly higher mean verapamil Cmax, Cmin and AUC(0-24h) compared to younger subjects.
+Older subjects had mean AUCs that were approximately 1.7 to 2 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs. 13 hr).
 
 ## Hemodynamics and Myocardial Metabolism
 
