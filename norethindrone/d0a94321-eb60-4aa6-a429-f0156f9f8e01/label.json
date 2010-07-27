@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091090"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-304-05",
+    "68462-304-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate",
+      "name": "Norethindrone Acetate"
+    }
+  ],
+  "setid": "d0a94321-eb60-4aa6-a429-f0156f9f8e01",
+  "source": "dailymed"
+}
