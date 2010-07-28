@@ -17,7 +17,7 @@ Total and differential leukocyte counts should be made before and after re-treat
 
 ### In the Male
 
-Treatment should be individualized as for the female.
+Treatment should be individualized as it is for the female.
 
 ## Amebiasis
 

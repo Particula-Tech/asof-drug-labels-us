@@ -1,10 +1,10 @@
 # INDICATIONS AND USAGE
 
 Symptomatic Trichomoniasis.
-Flagyl 375 capsules are indicated for the treatment of symptomatic trichomoniasis in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
+FLAGYL 375 capsules are indicated for the treatment of symptomatic trichomoniasis in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
 
 Asymptomatic Trichomoniasis.
-Flagyl 375 capsules are indicated in the treatment of asymptomatic females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
+FLAGYL 375 capsules are indicated in the treatment of asymptomatic females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
 Since there is evidence that presence of the trichomonad can interfere with accurate assessment of abnormal cytological smears, additional smears should be performed after eradication of the parasite.
 
 Treatment of Asymptomatic Consorts.
@@ -16,19 +16,19 @@ Also, since there can be considerable difficulty in isolating the organism from 
 In any event, the consort should be treated with metronidazole in cases of reinfection.
 
 Amebiasis.
-Flagyl 375 capsules are indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
+FLAGYL 375 capsules are indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
 
 In amebic liver abscess, metronidazole therapy does not obviate the need for aspiration or drainage of pus.
 
 Anaerobic Bacterial Infections.
-Flagyl 375 capsules are indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
+FLAGYL 375 capsules are indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
 Indicated surgical procedures should be performed in conjunction with metronidazole therapy.
-In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to Flagyl 375 capsules.
+In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to FLAGYL 375 capsules.
 
 In the treatment of most serious anaerobic infections, intravenous metronidazole is usually administered initially.
-This may be followed by oral therapy with Flagyl 375 capsules at the discretion of the physician.
+This may be followed by oral therapy with FLAGYL 375 capsules at the discretion of the physician.
 
-INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B.distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus niger, or Peptostreptococcus species.
+INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus niger, or Peptostreptococcus species.
 
 SKIN AND SKIN STRUCTURE INFECTIONS caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus niger, Peptostreptococcus species, or Fusobacterium species.
 
@@ -44,6 +44,6 @@ LOWER RESPIRATORY TRACT INFECTIONS, including pneumonia, empyema, and lung absce
 
 ENDOCARDITIS caused by Bacteroides species including the B. fragilis group.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Flagyl 375 and other antibacterial drugs, Flagyl 375 should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of FLAGYL 375 and other antibacterial drugs, FLAGYL 375 should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

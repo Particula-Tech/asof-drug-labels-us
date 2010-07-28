@@ -31,4 +31,4 @@ A modification of the taste of alcoholic beverages has also been reported.
 Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Flagyl 375 capsules.
+Crohn's disease is not an approved indication for FLAGYL 375 capsules.

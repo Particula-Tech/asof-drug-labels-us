@@ -12,23 +12,24 @@ Metronidazole should be administered with caution to patients with central nervo
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
+
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with a candidacidal agent.
 
-Prescribing Flagyl 375 in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing FLAGYL 375 in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for patients
 
-Alcoholic beverages should be avoided while taking Flagyl 375 capsules and for at least three days afterward.
-(See Drug interactions.)
+Alcoholic beverages should be avoided while taking FLAGYL 375 capsules and for at least three days afterward.
+(See PRECAUTIONS-Drug interactions.)
 
-Patients should be counseled that antibacterial drugs including Flagyl 375 should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including FLAGYL 375 should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Flagyl 375 is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Flagyl 375 or other antibacterial drugs in the future.
+When FLAGYL 375 is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FLAGYL 375 or other antibacterial drugs in the future.
 
 ## Laboratory tests
 
-Metronidazole is a nitroimidazole and should be used with caution in patients with evidence of or history of blood dyscrasia.
+Metronidazole is a nitroimidazole and should be used with caution in patients with evidence of, or history of, blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy for trichomoniasis and amebiasis, especially if a second course of therapy is necessary, and before and after therapy for anaerobic infections.
 
@@ -61,7 +62,7 @@ Metronidazole has shown evidence of carcinogenic activity in a number of studies
 
 Prominent among the effects in the mouse was the promotion of pulmonary tumorigenesis.
 This has been observed in all six reported studies in that species, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only).
-At very high dose levels (approximately 1500 mg/m2 which is approximately 3 times the most frequently recommended human dose for a 50 kg adult based on mg/m2) there was a statistically significant increase in the incidence of malignant liver tumors in males.
+At very high dose levels (approximately 1500 mg/m2 which is approximately 3 times the most frequently recommended human dose for a 50 kg adult based on mg/m2), there was a statistically significant increase in the incidence of malignant liver tumors in males.
 Also, the published results of one of the mouse studies indicate an increase in the incidence of malignant lymphomas as well as pulmonary neoplasms associated with lifetime feeding of the drug.
 All these effects are statistically significant.
 
@@ -82,13 +83,13 @@ Fertility studies have been performed in mice at doses up to six times the maxim
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole.
 No fetotoxicity was observed when metronidazole was administered orally to pregnant mice at 60 mg/m2/day, which is approximately 10% of the human dose when expressed as mg/m2.
-However, in a single small study where the drug was administered intraperitoneally, some intrauterine deaths were observed.
+However, in a single small study in which the drug was administered intraperitoneally, some intrauterine deaths were observed.
 The relationship of these findings to the drug is unknown.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, and because metronidazole is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed.
 (See CONTRAINDICATIONS.)
 
-Metronidazole use in the second and third trimesters of pregnancy should be restricted to those patients in whom alternative treatment has been inadequate.
+Metronidazole use in the second and third trimesters of pregnancy should be restricted to those patients for whom alternative treatment has been inadequate.
 Use of metronidazole in the first trimester should be carefully evaluated because metronidazole crosses the placental barrier and its effects on human fetal organogenesis are not known.
 (See above.)
 
