@@ -1,0 +1,7 @@
+# 1 INDICATIONS AND USAGE
+
+ACANYA® Gel is indicated for the topical treatment of acne vulgaris in patients 12 years or older.
+
+## 1.1 Important Limitations of Use
+
+The safety and efficacy of the use of this product in the treatment of any other disorders have not been evaluated.

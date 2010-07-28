@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050819"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Coria Laboratories",
+  "package_ndcs": [
+    "13548-132-50"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate and benzoyl peroxide",
+      "name": "ACANYA"
+    }
+  ],
+  "setid": "3dcd2c96-72b1-4a9f-b65c-08198d63b7df",
+  "source": "dailymed"
+}
