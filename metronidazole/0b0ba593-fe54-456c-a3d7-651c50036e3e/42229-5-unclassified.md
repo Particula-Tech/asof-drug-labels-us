@@ -2,8 +2,8 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Manufactured by: MOVA Pharmaceutical Corporation Caguas, PR 00725
+Manufactured by: Patheon Puerto Rico, Inc. Manati, PR 00674
 
-LAB-0166-5.0
+LAB-0166-6.0
 
-July 2009
+July 2010
