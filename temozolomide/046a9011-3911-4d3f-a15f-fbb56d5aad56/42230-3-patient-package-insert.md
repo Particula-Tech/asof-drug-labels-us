@@ -234,17 +234,16 @@ Inactive ingredients: mannitol, L-threonine, polysorbate 80, sodium citrate dihy
 
 Issued: February 2009
 
-TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO. INC., Whitehouse Station, NJ 08889, USA.
+TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO. INC., Whitehouse Station, NJ 08889, USA
 
-TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany.
-Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA.
+TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Copyright©1999, 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 
 U.S. Patent Nos. 5,260,291 and 6,987,108.
 
 Rev.
-04/10 318511XXT
+04/10 31851114T
 
 The trademarks depicted in this piece are owned by their respective companies.
 
@@ -372,12 +371,11 @@ TEMODAR is also available as capsules in 5-mg, 20-mg, 100-mg, 140-mg, 180-mg, an
    Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)
    Pittsburgh, PA: Oncology.
 
-TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany.
-Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA.
+TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Copyright© 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 
 U.S. Patent Nos. 5,260,291 and 6,987,108.
 
 Rev.
-04/10 309844XXT
+04/10 30984439T

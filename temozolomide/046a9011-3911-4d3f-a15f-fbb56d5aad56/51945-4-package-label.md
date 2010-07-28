@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Carton
+PRINCIPAL DISPLAY PANEL - 5 mg Capsule Bottle Carton
 
 NDC 0085-3004-02
 
@@ -10,9 +10,7 @@ For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
 
-Schering Corporation
-
-PRINCIPAL DISPLAY PANEL - 20 mg Carton
+PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton
 
 NDC 0085-1519-02
 
@@ -24,9 +22,7 @@ For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
 
-Schering Corporation
-
-PRINCIPAL DISPLAY PANEL - 100 mg Carton
+PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Carton
 
 NDC 0085-1366-02
 
@@ -38,9 +34,7 @@ For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
 
-Schering Corporation
-
-PRINCIPAL DISPLAY PANEL - 140 mg Carton
+PRINCIPAL DISPLAY PANEL - 140 mg Capsule Bottle Carton
 
 NDC 0085-1425-01
 
@@ -52,9 +46,7 @@ For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
 
-Schering Corporation
-
-PRINCIPAL DISPLAY PANEL - 180 mg Carton
+PRINCIPAL DISPLAY PANEL - 180 mg Capsule Bottle Carton
 
 NDC 0085-1430-01
 
@@ -66,9 +58,7 @@ For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
 
-Schering Corporation
-
-PRINCIPAL DISPLAY PANEL - 250 mg Carton
+PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Carton
 
 NDC 0085-1417-01
 
@@ -79,8 +69,6 @@ Temodar® (temozolomide) Capsules
 For Oral Administration Rx only
 
 THIS PACKAGE CONTAINS 5 CAPSULES
-
-Schering Corporation
 
 PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
@@ -96,5 +84,3 @@ Single-Use Vial.
 Discard after use.
 
 Rx only
-
-Schering-Plough
