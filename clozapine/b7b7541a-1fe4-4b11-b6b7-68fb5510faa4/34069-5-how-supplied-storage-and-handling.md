@@ -74,7 +74,7 @@ CIMA LABS INC.; U.S. Patent Nos. 6,024,981; 6,221,392; 6,155,423
 FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 
-Revised March 2010 Printed in USA Rev.
+Revised July 2010 Printed in USA Rev.
 13
 
 Medical Affairs 877-FAZACLO (877-329-2256)

@@ -4,7 +4,7 @@ FazaClo® (clozapine, USP), an atypical antipsychotic drug, is a tricyclic diben
 
 The structural formula is:
 
-FazaClo® (clozapine, USP) is available as yellow, orally disintegrating tablets of 12.5, 25, 100, 150, and 200 mg for oral administration with or without water.
+FazaClo® (clozapine, USP) is available as yellow, orally disintegrating tablets of 12.5, 25, 100, 150, and 200 mg for oral administration without water.
 FazaClo® tablets may be chewed.
 
 Each orally disintegrating tablet contains clozapine equivalent to 12.5, 25, 100, 150, or 200 mg.

@@ -9,8 +9,8 @@ The tablets may be chewed if desired.
 The FazaClo® (clozapine, USP) Orally Disintegrating Tablet dispensed in a blister should be left in the unopened blister until time of use.
 The orally disintegrating tablet should not be pushed through the blister foil.
 Just prior to use, peel the foil from the blister and gently remove the orally disintegrating tablet.
-After removing the tablet from either the blister or the bottle, immediately place the tablet in the mouth and allow to disintegrate and swallow with saliva or chew as desired.
-No water is needed to take FazaClo® (clozapine, USP), although water may be used.
+After removing the tablet from either the blister or the bottle, immediately place the tablet in the mouth and allow to disintegrate and swallow with saliva, or chew as desired.
+No water is needed to take FazaClo® (clozapine, USP).
 
 Upon initiation of FazaClo® (clozapine, USP) therapy, up to a 1-week supply of additional FazaClo® (clozapine, USP) orally disintegrating tablets may be provided to the patient to be held for emergencies (eg, weather, holidays).
 

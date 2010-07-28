@@ -14,10 +14,19 @@ In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a
 FazaClo® (clozapine, USP) orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
 Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132-854 ng/mL), occurring at the average of 2.3 hours (range: 1-6 hours) after dosing.
 The average minimum concentration at steady state was 168 ng/mL (range: 45-574 ng/mL), after 100-mg b.i.d. dosing.
-One comparative bioavailability study was conducted in support of the 150/200 mg tablet strengths comparing FazaClo® 200 mg tablets to 2 × FazaClo® 100 mg tablet (approved reference product).
-This study was titled “An Open-Label, Randomized, Comparative Bioavailability Study of FazaClo® ODT 200 mg to FazaClo® ODT 100 mg in Patients with Schizophrenia or Schizo-affective Disorder under Fasted Conditions and to Determine the Effect of Food and Chewing on the 200 mg Tablet”.
-Results of this comparative bioavailability study demonstrated that FazaClo® 200 mg tablets are bioequivalent to 2 × FazaClo® 100 mg tablet when administered under fasted or chewed conditions.
-Administration of FazaClo® 200 mg tablets under nonfasted conditions was bioequivalent to fasted conditions although there was approximately a 1 hour delay found in time of Cmax,ss.
+
+A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing FazaClo® 200 mg tablets to 2 × FazaClo® 100 mg tablets (the approved reference product) under fasted conditions.
+The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
+Under fasted conditions, the mean AUCss and Cmin,ss of clozapine for the 200 mg tablets were equivalent to those of the 2 x 100 mg tablets.
+The mean Cmax,ss of clozapine for FazaClo® 200 mg tablets was 85% that for 2 x 100 mg FazaClo® tablets.
+This decrease in Cmax,ss for FazaClo® 200 mg tablets is not clinically significant.
+
+For FazaClo® 200 mg tablets, food significantly increased the Cmin,ss of clozapine by 21%.
+However, this increase is not clinically significant.
+The mean AUCss and Cmax,ss of clozapine under fed conditions were equivalent to those under fasted conditions.
+Food delayed clozapine absorption by 1.5 hours, from a median Tmax of 2.5 hours under fasted conditions to 4 hours under fed conditions.
+
+The mean Cmax,ss of clozapine under chewed conditions for FazaClo® 200 mg tablets was about 86% that for 2 x 100 mg FazaClo® tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
 
 In a food-effect study, a single dose of FazaClo® (clozapine, USP) orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
 When FazaClo® was administered after a high fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
@@ -47,7 +56,7 @@ Patients, on rare occasions, may report an intensification of dream activity dur
 REM sleep was found to be increased to 85% of the total sleep time.
 In these patients, the onset of REM sleep occurred almost immediately after falling asleep.
 
-Clinical Trial Data (Reducing The Risk Of Recurrent Suicidal Behavior In Patients With Schizophrenia Or Schizoaffective Disorder Who Are Judged To Be At Risk Of Reexperiencing Suicidal Behavior)
+Clinical Trial Data (Reducing the Risk of Recurrent Suicidal Behavior in Patients with Schizophrenia or Schizoaffective Disorder Who Are Judged to Be at Risk of Reexperiencing Suicidal Behavior)
 
 The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™, a trademark of Novartis Pharmaceuticals Corporation), which was a prospective, randomized, international, parallel-group comparison of clozapine (Clozaril®) versus olanzapine (Zyprexa®, a registered trademark of Eli Lilly and Company) in patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for reexperiencing suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment and the remainder were not.

@@ -13,7 +13,7 @@ The superiority of clozapine to chlorpromazine was documented in statistical ana
 Because of the significant risk of agranulocytosis and seizures, events which both present a continuing risk over time, the extended treatment of patients failing to show an acceptable level of clinical response should ordinarily be avoided.
 In addition, the need for continuing treatment in patients exhibiting beneficial clinical responses should be periodically reevaluated.
 
-Reduction In The Risk Of Recurrent Suicidal Behavior In Schizophrenia Or Schizoaffective Disorders
+Reduction in the Risk of Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorders
 
 FazaClo® (clozapine, USP) is indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for reexperiencing suicidal behavior, based on history and recent clinical state.
 Suicidal behavior refers to actions by a patient that put him/herself at risk for death.
