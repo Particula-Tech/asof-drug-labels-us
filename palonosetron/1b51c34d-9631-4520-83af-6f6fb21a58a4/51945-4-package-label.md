@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL
+
+ALOXI Injection 0.25 mg/5 mL
+
+NDC 62856-797-01
+
+ALOXI Injection 0.075 mg/1.5 mL
+
+NDC 62856-798-01

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021372"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-797-01",
+    "62856-798-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "Aloxi"
+    }
+  ],
+  "setid": "1b51c34d-9631-4520-83af-6f6fb21a58a4",
+  "source": "dailymed"
+}
