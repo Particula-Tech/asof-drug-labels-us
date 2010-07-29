@@ -88,6 +88,13 @@ This infection may be associated with serious outcomes, including deteriorating 
 Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
 Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
+Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal have been reported in patients treated with immunosuppressants, including Rapamune.
+PML commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
+Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
+Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
+In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
+
 ## 5.11 Interstitial Lung Disease
 
 Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.

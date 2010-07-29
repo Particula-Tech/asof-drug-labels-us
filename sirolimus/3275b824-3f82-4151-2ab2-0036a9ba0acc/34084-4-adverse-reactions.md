@@ -181,7 +181,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune System – Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
 - Infections – Tuberculosis.
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Rapamune.
-  This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see Warnings and Precautions (5.10)].
+  This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
+  Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Rapamune [see Warnings and Precautions (5.10)].
 - Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
