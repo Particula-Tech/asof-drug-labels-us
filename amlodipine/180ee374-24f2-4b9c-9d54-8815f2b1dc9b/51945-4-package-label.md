@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablets
+PRINCIPAL DISPLAY PANEL - 2.5 mg Tablets
 
 NDC 59762-1520-1
 
@@ -12,7 +12,7 @@ amlodipine besylate tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Tablets
+PRINCIPAL DISPLAY PANEL - 5 mg Tablets
 
 NDC 59762-1530-1
 
@@ -26,7 +26,7 @@ amlodipine besylate tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablets
+PRINCIPAL DISPLAY PANEL - 10 mg Tablets
 
 NDC 59762-1540-1
 
