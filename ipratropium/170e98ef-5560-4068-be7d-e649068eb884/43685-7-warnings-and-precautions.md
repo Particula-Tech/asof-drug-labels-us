@@ -2,7 +2,8 @@
 
 ATROVENT HFA Inhalation Aerosol is a bronchodilator for the maintenance treatment of bronchospasm associated with COPD and is not indicated for the initial treatment of acute episodes of bronchospasm where rescue therapy is required for rapid response.
 
-Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
+Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
+If such a reaction occurs, therapy with ATROVENT HFA should be stopped at once and alternative treatment should be considered.
 
 Inhaled medicines, including ATROVENT HFA Inhalation Aerosol, may cause paradoxical bronchospasm.
 If this occurs, treatment with ATROVENT HFA Inhalation Aerosol should be stopped and other treatments considered.
@@ -32,12 +33,14 @@ Patients should be reminded that ATROVENT HFA Inhalation Aerosol should be used 
 
 Patients should be advised that although the taste and inhalation sensation of ATROVENT HFA Inhalation Aerosol may be slightly different from that of the CFC (chlorofluorocarbon) formulation of ATROVENT Inhalation Aerosol, they are comparable in terms of safety and efficacy.
 
+Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of ATROVENT, patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances, machinery, etc.
+
 ## Drug Interactions
 
 ATROVENT HFA Inhalation Aerosol has been used concomitantly with other drugs, including sympathomimetic bronchodilators, methylxanthines, oral and inhaled steroids, that may be used in the treatment of chronic obstructive pulmonary disease.
 With the exception of albuterol, there are no formal studies fully evaluating the interaction effects of ATROVENT and these drugs with respect to effectiveness.
 
-Anticholinergic agents: Although ipratropium bromide is minimally absorbed into the systemic circulation, there is some potential for an additive interaction with concomitantly used anticholinergic medications.
+Anticholinergic agents: There is potential for an additive interaction with concomitantly used anticholinergic medications.
 Caution is therefore advised in the co-administration of ATROVENT HFA Inhalation Aerosol with other anticholinergic-containing drugs.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -64,8 +67,7 @@ Because animal reproduction studies are not always predictive of human response,
 ## Nursing Mothers
 
 It is not known whether the active component, ipratropium bromide, is excreted in human milk.
-Although lipid-insoluble quaternary cations pass into breast milk, it is unlikely that ipratropium bromide would reach the infant to an important extent, especially when taken by aerosol.
-However, because many drugs are excreted in human milk, caution should be exercised when ATROVENT HFA Inhalation Aerosol is administered to a nursing mother.
+Because lipid-insoluble quaternary cations pass into breast milk, caution should be exercised when ATROVENT HFA Inhalation Aerosol is administered to a nursing mother.
 
 ## Pediatric Use
 

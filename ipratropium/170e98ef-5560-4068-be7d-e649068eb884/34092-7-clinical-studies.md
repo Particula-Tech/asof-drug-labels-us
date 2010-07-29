@@ -14,6 +14,8 @@ The mean peak improvement in FEV1, relative to baseline, was 0.295 liters, compa
 
 ATROVENT HFA Inhalation Aerosol (42 mcg) was shown to be clinically comparable to ATROVENT Inhalation Aerosol CFC (42 mcg).
 
+Figure 1 Day 1 and Day 85 (Primary Endpoint) Results
+
 In this study, both Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol and Atrovent® (ipratropium bromide) Inhalation Aerosol CFC formulations were equally effective in patients over 65 years of age and under 65 years of age.
 
 The median time to improvement in pulmonary function (FEV1 increase of 15% or more) was within approximately 15 minutes, reached a peak in 1-2 hours, and persisted for 2 to 4 hours in the majority of the patients.

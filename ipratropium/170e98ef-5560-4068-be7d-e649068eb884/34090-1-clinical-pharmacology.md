@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung.
-Anticholinergics prevent the increases in intracellular concentration of cyclic guanosine monophosphate (cyclic GMP) which are caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle.
+Anticholinergics prevent the increases in intracellular concentration of Ca++ which is caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle.
 
 ## Pharmacodynamic Properties
 
