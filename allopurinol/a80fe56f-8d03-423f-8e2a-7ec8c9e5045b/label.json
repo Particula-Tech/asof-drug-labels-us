@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018832",
+    "NDA018877"
+  ],
   "inn": "allopurinol",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
@@ -8,7 +11,13 @@
     "0591-5544-01",
     "0591-5544-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Allopurinol"
+    }
+  ],
   "setid": "a80fe56f-8d03-423f-8e2a-7ec8c9e5045b",
   "source": "dailymed"
 }

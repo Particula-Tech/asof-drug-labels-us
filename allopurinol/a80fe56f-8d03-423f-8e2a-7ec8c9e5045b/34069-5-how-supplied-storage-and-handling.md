@@ -10,6 +10,12 @@ Store at 20°-25°C (68°-77°F).
 [See USP controlled room temperature.]
 Protect from light.
 
-Watson Laboratories, Inc. Corona, CA 92880 USA
+Manufactured by:
 
-Revised: January 2006
+Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+
+Distributed by:
+
+Watson Pharma, Inc. Corona, CA 92880 USA
+
+Revised: March 2009 184001 0309B
