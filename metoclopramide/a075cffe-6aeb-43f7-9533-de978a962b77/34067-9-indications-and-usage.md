@@ -2,7 +2,7 @@
 
 ## Diabetic Gastroparesis (Diabetic Gastric Stasis)
 
-REGLAN (metoclopramide hydrochloride, USP) is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
+REGLAN Injection (metoclopramide hydrochloride, USP) is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
 
 ## The Prevention of Nausea and Vomiting Associated with Emetogenic Cancer Chemotherapy
 

@@ -74,7 +74,7 @@ This possibility should be considered and weighed when deciding whether to use m
 A patient Medication Guide is available for REGLAN Injection.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is printed at the end of this document.
+Refer to accompanying Medication Guide.
 
 Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 The ambulatory patient should be cautioned accordingly.
@@ -127,18 +127,18 @@ Dystonias and other extrapyramidal reactions associated with metoclopramide are 
 
 ## Geriatric Use
 
-Clinical studies of REGLAN did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Clinical studies of REGLAN Injection did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 
 The risk of developing parkinsonian-like side effects increases with ascending dose.
-Geriatric patients should receive the lowest dose of REGLAN that is effective.
-If parkinsonian-like symptoms develop in a geriatric patient receiving REGLAN, REGLAN should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
+Geriatric patients should receive the lowest dose of REGLAN Injection that is effective.
+If parkinsonian-like symptoms develop in a geriatric patient receiving REGLAN Injection, REGLAN Injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
 
 The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
 
-Sedation has been reported in REGLAN users.
+Sedation has been reported in REGLAN Injection users.
 Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS - Information for Patients and ADVERSE REACTIONS - CNS Effects).
 
-REGLAN is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
+REGLAN Injection is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
 
 For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see Use in Patients With Renal or Hepatic Impairment).
 
