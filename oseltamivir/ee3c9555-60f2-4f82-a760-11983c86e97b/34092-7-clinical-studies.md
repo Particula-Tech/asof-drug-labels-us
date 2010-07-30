@@ -13,7 +13,7 @@ Of the 849 influenza-infected subjects, 95% were infected with influenza A, 3% w
 TAMIFLU was started within 40 hours of onset of symptoms.
 Subjects participating in the trials were required to self-assess the influenza-associated symptoms as "none," "mild," "moderate," or "severe."
 Time to improvement was calculated from the time of treatment initiation to the time when all symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) were assessed as "none" or "mild."
-In both studies, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1.3 day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to subjects receiving placebo.
+In both studies, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to subjects receiving placebo.
 Subgroup analyses of these studies by gender showed no differences in the treatment effect of TAMIFLU in men and women.
 
 In the treatment of influenza, no increased efficacy was demonstrated in subjects receiving treatment of 150 mg TAMIFLU twice daily for 5 days.
@@ -65,7 +65,7 @@ Among household contacts 1 to 12 years of age not already shedding virus at base
 
 Immunocompromised Subjects
 
-A double-blind, placebo-controlled study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (including 18 pediatric subjects 1 - 12 years of age) who had received solid organ (n=388; liver, kidney, liver and kidney) or hematopoietic stem cell transplants (n=87).
+A double-blind, placebo-controlled study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (including 18 pediatric subjects 1 to 12 years of age) who had received solid organ (n=388; liver, kidney, liver and kidney) or hematopoietic stem cell transplants (n=87).
 Median time since transplant for solid organ transplant recipients was 1105 days for the placebo group and 1379 days for the oseltamivir group.
 Median time since transplant for hematopoietic stem cell transplant recipients was 424 days for the placebo group and 367 days for the oseltamivir group.
 Approximately 40% of subjects received influenza vaccine prior to entering the study.

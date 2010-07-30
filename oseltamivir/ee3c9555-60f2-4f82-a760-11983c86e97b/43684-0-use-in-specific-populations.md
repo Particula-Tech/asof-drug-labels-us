@@ -30,7 +30,7 @@ TAMIFLU is not indicated for either treatment or prophylaxis of influenza in ped
 
 Of the total number of subjects in clinical studies of TAMIFLU for the treatment of influenza, 19% were 65 and over, while 7% were 75 and over.
 Of the total number of patients in clinical studies of TAMIFLU for the prophylaxis of influenza, 25% were 65 and over, while 18% were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 
 The safety of TAMIFLU in geriatric subjects has been established in clinical studies which enrolled 741 subjects (374 received placebo and 362 received TAMIFLU).
 Some seasonal variability was noted in the clinical efficacy outcomes [see Clinical Studies (14.1)].

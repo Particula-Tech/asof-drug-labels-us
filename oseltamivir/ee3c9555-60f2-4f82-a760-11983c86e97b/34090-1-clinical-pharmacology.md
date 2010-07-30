@@ -61,7 +61,7 @@ Table 9 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Se
 |  |  |  |  | CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |
 | Cmax | 259Observed values. All other values are predicted. | 348 | 705 | 766 | 850 | 1638 | 1175 | 655 |
 | Cmin | 39 | 138 | 288 | 62 | 48 | 864 | 209 | 346 |
-| AUC normalized to 48 hours.AUC48 | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
+| AUC48AUC normalized to 48 hours. | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
 
 Hepatic Impairment
 

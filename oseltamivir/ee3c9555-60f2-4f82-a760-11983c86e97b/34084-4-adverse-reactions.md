@@ -99,7 +99,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a Whole: Swelling of the face or tongue, allergy, anaphylactic/anaphylactoid reactions
 
-Dermatologic: Rash, dermatitis, urticaria, eczema, toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme [see Warnings and Precautions (5.1)].
+Dermatologic: Rash, dermatitis, urticaria, eczema, toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme [see Warnings and Precautions (5.1)]
 
 Digestive: Hepatitis, liver function tests abnormal
 

@@ -69,7 +69,7 @@ In the event that the dispenser provided is lost or damaged, another dosing syri
 
 Prophylaxis in pediatric patients following close contact with an infected individual is recommended for 10 days.
 Therapy should begin within 2 days of exposure.
-For prophylaxis in pediatric patients during a community outbreak of influenza dosing may be continued for up to 6 weeks.
+For prophylaxis in pediatric patients during a community outbreak of influenza, dosing may be continued for up to 6 weeks.
 
 ## 2.4 Renal Impairment
 
@@ -93,7 +93,7 @@ No dose adjustment is recommended for patients with mild or moderate hepatic imp
 
 ## 2.6 Geriatric Patients
 
-No dose adjustment is required for geriatric patients [see Warnings and Precautions (8.5) and Clinical Pharmacology (12.3].
+No dose adjustment is required for geriatric patients [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Preparation of TAMIFLU for Oral Suspension
 
@@ -118,7 +118,7 @@ These directions are not intended to be used if the FDA-approved, commercially m
 
 Compounding an oral suspension with this procedure will provide one patient with enough medication for a 5-day course of treatment or a 10-day course of prophylaxis.
 
-Commercially manufactured TAMIFLU for Oral Suspension (12 mg/mL) is the preferred product for pediatric and adult patients who have difficulty swallowing capsules or where lower doses are needed.
+Commercially manufactured TAMIFLU for oral suspension (12 mg/mL) is the preferred product for pediatric and adult patients who have difficulty swallowing capsules or where lower doses are needed.
 In the event that TAMIFLU for oral suspension is not available, the pharmacist may compound a suspension (15 mg/mL) from TAMIFLU capsules 75 mg using either of two vehicles: Cherry Syrup (Humco®) or Ora-Sweet® SF (sugar-free) (Paddock Laboratories).
 Other vehicles have not been studied.
 This compounded suspension should not be used for convenience or when the FDA-approved TAMIFLU for oral suspension is commercially available.
@@ -135,15 +135,15 @@ Table 3 Volume of an Oral Suspension (15 mg/mL) Needed to be Compounded Based Up
 | >23 to 40 kg | >51 to 88 lbs | 50 mL |
 | >40 kg | >88 lbs | 60 mL |
 
-Second, determine the number of capsules and the amount of vehicle (Cherry Syrup or Ora-Sweet SF) that are needed to prepare the total volume (calculated from Table 3: 30 mL, 40 mL, 50 mL, or 60 mL) of compounded oral suspension (15 mg/mL) (see Table 4).
+Second, determine the number of capsules and the amount of vehicle (Cherry Syrup or Ora-Sweet® SF) that are needed to prepare the total volume (calculated from Table 3: 30 mL, 40 mL, 50 mL, or 60 mL) of compounded oral suspension (15 mg/mL) (see Table 4).
 
-Table 4 Number of TAMIFLU 75 mg Capsules and Amount of Vehicle (Cherry Syrup OR Ora-Sweet SF) Needed to Prepare the Total Volume of a Compounded Oral Suspension (15 mg/mL)
+Table 4 Number of TAMIFLU 75 mg Capsules and Amount of Vehicle (Cherry Syrup OR Ora-Sweet® SF) Needed to Prepare the Total Volume of a Compounded Oral Suspension (15 mg/mL)
 
 | Total Volume of Compounded Oral Suspension to be Prepared | 30 mL | 40 mL | 50 mL | 60 mL |
 | --- | --- | --- | --- | --- |
 | Required Number of TAMIFLU 75 mg Capsules | 6 capsules (450 mg oseltamivir) | 8 capsules (600 mg oseltamivir) | 10 capsules (750 mg oseltamivir) | 12 capsules (900 mg oseltamivir) |
 | Required Volume of Vehicle |  |  |  |  |
-| Cherry Syrup (Humco) OR Ora-Sweet SF (Paddock Laboratories) | 29 mL | 38.5 mL | 48 mL | 57 mL |
+| Cherry Syrup (Humco®) OR Ora-Sweet® SF (Paddock Laboratories) | 29 mL | 38.5 mL | 48 mL | 57 mL |
 
 Third, follow the procedure below for compounding the oral suspension (15 mg/mL) from TAMIFLU capsules 75 mg:
 
@@ -160,7 +160,7 @@ Third, follow the procedure below for compounding the oral suspension (15 mg/mL)
   (Note: The active drug, oseltamivir phosphate, readily dissolves in the specified vehicles.
   The suspension is caused by inert ingredients of TAMIFLU capsules which are insoluble in these vehicles.)
 - i)Put an ancillary label on the bottle indicating "Shake Gently Before Use."
-  (Note: This compounded suspension should be gently shaken prior to administration to minimize the tendency for air entrapment, particularly with the Ora-Sweet SF preparation.)
+  (Note: This compounded suspension should be gently shaken prior to administration to minimize the tendency for air entrapment, particularly with the Ora-Sweet® SF preparation.)
 - j)Instruct the parent or caregiver that any unused suspension remaining in the bottle following completion of therapy must be discarded by either affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
 - k)Place an appropriate expiration date on the label according to storage conditions below.
 

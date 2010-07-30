@@ -137,15 +137,17 @@ Please follow instructions carefully to ensure proper dosing.
 - Add a small amount of a sweetened liquid such as chocolate syrup (regular or sugar-free) that the child will consume completely.
 - Stir the mixture and give the entire dose to the child.
 
-Distributed by: Roche Laboratories Inc. 340 Kingsland Street Nutley, New Jersey 07110-1199
+Distributed by:
+
+Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
 Licensor:
 
 Gilead Sciences, Inc. Foster City, California 94404
 
-TUCOS_640796_PPI_012010_N(1)
+27899816 TUCOS_640796_PPI_AR2010_N(2)
 
 Rev.
-February 2010
+April 2010
 
-Copyright © 1999-2010 by Roche Laboratories Inc. All rights reserved.
+© 2010 Genentech, Inc. All rights reserved.
