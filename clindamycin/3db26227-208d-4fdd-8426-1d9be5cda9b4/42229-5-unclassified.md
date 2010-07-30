@@ -16,3 +16,9 @@ Nonetheless, clindamycin is an antimicrobial agent active in vitro against most 
 - Mobiluncus spp
 - Mycoplasma hominis
 - Peptostreptococcus spp
+
+Rx only
+
+LAB-0047-2.0
+
+November 2005

@@ -1,4 +1,4 @@
-## Cleocin® Vaginal Ovules (clindamycin phosphate vaginal suppositories)
+# Cleocin® Vaginal Ovules (clindamycin phosphate vaginal suppositories)
 
 FOR INTRAVAGINAL USE ONLY
 
