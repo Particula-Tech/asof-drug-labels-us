@@ -7,7 +7,7 @@ ZEMURON (rocuronium bromide) injection is available in the following:
 
 The packaging of this product contains no natural rubber (latex).
 
-ZEMURON should be stored in a refrigerator, 2°–8°C (36°–46°F).
+ZEMURON should be stored in a refrigerator, 2°-8°C (36°-46°F).
 DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use ZEMURON within 60 days.
 Use opened vials of ZEMURON within 30 days.

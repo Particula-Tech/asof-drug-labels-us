@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020214"
+  ],
   "inn": "rocuronium",
-  "labeler": "Organon USA Inc.",
+  "labeler": "Organon Pharmaceuticals USA",
   "package_ndcs": [
     "0052-0450-15",
     "0052-0450-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rocuronium bromide",
+      "name": "Zemuron"
+    }
+  ],
   "setid": "b7d5e4f6-8798-4385-97c7-cf22c8fcc66f",
   "source": "dailymed"
 }

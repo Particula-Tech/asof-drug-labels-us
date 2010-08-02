@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 ZEMURON is for intravenous use only.
-This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics and complications of neuromuscular blocking agents.
+This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents.
 Doses of ZEMURON injection should be individualized and a peripheral nerve stimulator should be used to monitor drug effect, need for additional doses, adequacy of spontaneous recovery or antagonism, and to decrease the complications of overdosage if additional doses are administered.
 
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
@@ -18,7 +18,7 @@ This dose may be expected to provide 31 (15–85) minutes of clinical relaxation
 Under halothane, isoflurane, and enflurane anesthesia, some extension of the period of clinical relaxation should be expected [see Drug Interactions (7.3)].
 
 A lower dose of ZEMURON (0.45 mg/kg) may be used.
-Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8–6.2) minute(s) and most patients have intubation completed within 2 minutes.
+Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8–6.2) minute(s), and most patients have intubation completed within 2 minutes.
 Maximum blockade is achieved in most patients in less than 4 minutes.
 This dose may be expected to provide 22 (12–31) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
 Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (about 16% of these patients) may have a more rapid time to 25% recovery, 12 to 15 minutes.
@@ -31,7 +31,7 @@ In appropriately premedicated and adequately anesthetized patients, ZEMURON 0.6 
 
 ## 2.3 Maintenance Dosing
 
-Maintenance doses of 0.1, 0.15, and 0.2 mg/kg ZEMURON, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2–31), 17 (6–50) and 24 (7–69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
+Maintenance doses of 0.1, 0.15, and 0.2 mg/kg ZEMURON, administered at 25% recovery of control T1 (defined as 3 twitches of train-of-four), provide a median (range) of 12 (2–31), 17 (6–50), and 24 (7–69) minutes of clinical duration under opioid/nitrous oxide/oxygen anesthesia [see Clinical Pharmacology (12.2)].
 In all cases, dosing should be guided based on the clinical duration following initial dose or prior maintenance dose and not administered until recovery of neuromuscular function is evident.
 A clinically insignificant cumulation of effect with repetitive maintenance dosing has been observed [see Clinical Pharmacology (12.2)].
 
@@ -53,7 +53,7 @@ Infusion solutions of ZEMURON can be prepared by mixing ZEMURON with an appropri
 These infusion solutions should be used within 24 hours of mixing.
 Unused portions of infusion solutions should be discarded.
 
-Infusion rates of ZEMURON can be individualized for each patient using the following tables for three different concentrations of ZEMURON solution as guidelines:
+Infusion rates of ZEMURON can be individualized for each patient using the following tables for 3 different concentrations of ZEMURON solution as guidelines:
 
 TABLE 1: Infusion Rates Using ZEMURON Injection (0.5 mg/mL)50 mg ZEMURON in 100 mL solution
 
@@ -120,7 +120,7 @@ The time to maximum block for an intubating dose was shortest in infants (28 day
 The duration of clinical relaxation following an intubating dose is shortest in children (greater than 2 years up to 11 years) and longest in infants.
 
 When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of ZEMURON can be administered as bolus doses of 0.15 mg/kg at reappearance of T3 in all pediatric age groups.
-Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7–10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
+Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
 When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered ZEMURON maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
 Alternatively, a continuous infusion of ZEMURON initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four) may also be used to maintain neuromuscular blockade in pediatric patients.
@@ -142,7 +142,7 @@ Patients with renal failure may have a greater variation in duration of effect [
 
 Obese Patients: In obese patients, the initial dose of ZEMURON 0.6 mg/kg should be based upon the patient's actual body weight [see Clinical Studies (14.1)].
 
-An analysis across all US controlled clinical studies indicates that the pharmacodynamics of ZEMURON are not different between obese and non-obese patients when dosed based upon their actual body weight.
+An analysis across all US controlled clinical studies indicates that the pharmacodynamics of ZEMURON are not different between obese and nonobese patients when dosed based upon their actual body weight.
 
 Patients with Reduced Plasma Cholinesterase Activity: Rocuronium metabolism does not depend on plasma cholinesterase so dosing adjustments are not needed in patients with reduced plasma cholinesterase activity.
 

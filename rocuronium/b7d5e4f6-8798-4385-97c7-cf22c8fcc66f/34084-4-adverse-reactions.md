@@ -33,9 +33,9 @@ In a clinical study in patients with clinically significant cardiovascular disea
 In some patients, ZEMURON was associated with transient increases (30% or greater) in pulmonary vascular resistance.
 In another clinical study of patients undergoing abdominal aortic surgery, transient increases (30% or greater) in pulmonary vascular resistance were observed in about 24% of patients receiving ZEMURON 0.6 or 0.9 mg/kg.
 
-In pediatric patient studies worldwide (n=704), tachycardia occurred at an incidence of 5.3% (n=37) and it was judged by the investigator as related in 10 cases (1.4%).
+In pediatric patient studies worldwide (n=704), tachycardia occurred at an incidence of 5.3% (n=37), and it was judged by the investigator as related in 10 cases (1.4%).
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with ZEMURON, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
 

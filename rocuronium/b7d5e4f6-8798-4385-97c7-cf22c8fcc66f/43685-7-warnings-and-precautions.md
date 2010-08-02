@@ -32,13 +32,13 @@ It is strongly recommended that neuromuscular transmission be monitored continuo
 Additional doses of ZEMURON or any other neuromuscular blocking agent should not be given until there is a definite response (one twitch of the train-of-four) to nerve stimulation.
 Prolonged paralysis and/or skeletal muscle weakness may be noted during initial attempts to wean from the ventilator patients who have chronically received neuromuscular blocking drugs in the ICU.
 
-Myopathy after long-term administration of other non-depolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
+Myopathy after long-term administration of other nondepolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
 Therefore, for patients receiving both neuromuscular blocking agents and corticosteroids, the period of use of the neuromuscular blocking agent should be limited as much as possible and only used in the setting where in the opinion of the prescribing physician, the specific advantages of the drug outweigh the risk.
 
 ## 5.6 Malignant Hyperthermia (MH)
 
 ZEMURON has not been studied in MH-susceptible patients.
-Because ZEMURON is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis and treatment of malignant hyperthermia prior to the start of any anesthetic.
+Because ZEMURON is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
 
 In an animal study in MH-susceptible swine, the administration of ZEMURON Injection did not appear to trigger malignant hyperthermia.
 
@@ -59,8 +59,8 @@ Certain inhalation anesthetics, particularly enflurane and isoflurane, antibioti
 In these or other patients in whom potentiation of neuromuscular block or difficulty with reversal may be anticipated, a decrease from the recommended initial dose of ZEMURON should be considered [see Dosage and Administration (2.5)].
 
 Resistance: Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
-Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin or with chronic exposure to nondepolarizing agents.
-When ZEMURON is administered to these patients, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
+Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin, or with chronic exposure to nondepolarizing agents.
+When ZEMURON is administered to these patients, shorter durations of neuromuscular block may occur, and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 
 Potentiation or Resistance: Severe acid-base and/or electrolyte abnormalities may potentiate or cause resistance to the neuromuscular blocking action of ZEMURON.
 No data are available in such patients and no dosing recommendations can be made.
