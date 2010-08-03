@@ -162,7 +162,7 @@ These are not all the possible side effects of REGLAN Injection.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about REGLANInjection
+General information about REGLAN Injection
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 
