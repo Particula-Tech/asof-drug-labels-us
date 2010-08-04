@@ -2,11 +2,11 @@
 
 The expected symptoms with overdosage are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of symptoms such as seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats per minute, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, insomnia, and exaggeration of the pharmacological effects listed in ADVERSE REACTIONS.
 Hypokalemia may also occur.
-As with all sympathomimetic aerosol medications, cardiac arrest and even death may be associated with abuse of Albuterol Sulfate Inhalation Solution, 0.042%.
-Treatment consists of discontinuation of Albuterol Sulfate Inhalation Solution, 0.042% together with appropriate symptomatic therapy.
+As with all sympathomimetic aerosol medications, cardiac arrest and even death may be associated with abuse of albuterol sulfate inhalation solution.
+Treatment consists of discontinuation of albuterol sulfate inhalation solution together with appropriate symptomatic therapy.
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.
-There is insufficient evidence to determine if dialysis is beneficial for overdosage of Albuterol Sulfate Inhalation Solution, 0.042%.
+There is insufficient evidence to determine if dialysis is beneficial for overdosage of albuterol sulfate inhalation solution.
 
-The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 580 times the maximum recommended daily inhalation dose of Albuterol Sulfate Inhalation Solution, 0.042% on a mg/m2 basis).
-The subcutaneous median lethal dose of albuterol sulfate in mature rats and small young rats is approximately 450 mg/kg and 2000 mg/kg, respectively (approximately 260 and 1200 times the maximum recommended daily inhalation dose of Albuterol Sulfate Inhalation Solution, 0.042% on a mg/m2 basis).
+The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 580 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+The subcutaneous median lethal dose of albuterol sulfate in mature rats and small young rats is approximately 450 mg/kg and 2000 mg/kg, respectively (approximately 260 and 1200 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
 The inhalation median lethal dose has not been determined in animals.
