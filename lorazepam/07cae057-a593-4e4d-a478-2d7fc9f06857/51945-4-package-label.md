@@ -6,9 +6,9 @@ Ativan® (lorazepam)
 
 2.0 mg
 
-100 Tablets
+CIV SEALED FOR YOUR PROTECTION
 
-CIV
+100 Tablets
 
 Rx Only
 
@@ -16,15 +16,17 @@ BIOVAIL®
 
 # PRINCIPAL DISPLAY PANEL - 1.0 mg Bottle Label
 
-NDC 64455-064-01
+NDC 64455-064-10
 
 Ativan® (lorazepam)
 
 1.0 mg
 
-100 Tablets
-
 CIV
+
+1,000 Tablets
+
+SEALED FOR YOUR PROTECTION
 
 Rx Only
 
@@ -36,11 +38,11 @@ NDC 64455-063-01
 
 Ativan® (lorazepam)
 
-0.5 mg
-
-100 Tablets
+0.5 mg SEALED FOR YOUR PROTECTION
 
 CIV
+
+100 Tablets
 
 Rx Only
 
