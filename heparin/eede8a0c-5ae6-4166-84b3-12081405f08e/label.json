@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA019339"
+  ],
+  "inn": "heparin",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-7793-23",
+    "0409-7793-62",
+    "0409-7794-62"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "heparin sodium",
+      "name": "Heparin Sodium and Dextrose"
+    }
+  ],
+  "setid": "eede8a0c-5ae6-4166-84b3-12081405f08e",
+  "source": "dailymed"
+}
