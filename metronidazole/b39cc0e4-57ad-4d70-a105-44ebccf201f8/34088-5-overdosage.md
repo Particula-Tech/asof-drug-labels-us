@@ -8,4 +8,4 @@ Neurotoxic effects, including seizures and peripheral neuropathy, have been repo
 
 ## Treatment
 
-There is no specific antidote for Flagyl overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.
+There is no specific antidote for FLAGYL overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.

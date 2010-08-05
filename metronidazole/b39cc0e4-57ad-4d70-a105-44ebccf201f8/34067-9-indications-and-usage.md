@@ -2,38 +2,38 @@
 
 ## Symptomatic Trichomoniasis
 
-Flagyl is indicated for the treatment of symptomatic trichomoniasis in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
+FLAGYL is indicated for the treatment of symptomatic trichomoniasis in females and males when the presence of the trichomonad has been confirmed by appropriate laboratory procedures (wet smears and/or cultures).
 
 ## Asymptomatic Trichomoniasis
 
-Flagyl is indicated in the treatment of asymptomatic females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
+FLAGYL is indicated in the treatment of asymptomatic females when the organism is associated with endocervicitis, cervicitis, or cervical erosion.
 Since there is evidence that presence of the trichomonad can interfere with accurate assessment of abnormal cytological smears, additional smears should be performed after eradication of the parasite.
 
 ## Treatment of Asymptomatic Consorts
 
 T. vaginalis infection is a venereal disease.
 Therefore, asymptomatic sexual partners of treated patients should be treated simultaneously if the organism has been found to be present, in order to prevent reinfection of the partner.
-The decision as to whether to treat an asymptomatic male partner who has a negative culture or one for whom no culture has been attempted is an individual one.
+The decision whether to treat an asymptomatic male partner who has a negative culture or one for whom no culture has been attempted is an individual one.
 In making this decision, it should be noted that there is evidence that a woman may become reinfected if her consort is not treated.
 Also, since there can be considerable difficulty in isolating the organism from the asymptomatic male carrier, negative smears and cultures cannot be relied upon in this regard.
-In any event, the consort should be treated with Flagyl in cases of reinfection.
+In any event, the consort should be treated with FLAGYL in cases of reinfection.
 
 ## Amebiasis
 
-Flagyl is indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
+FLAGYL is indicated in the treatment of acute intestinal amebiasis (amebic dysentery) and amebic liver abscess.
 
-In amebic liver abscess, Flagyl therapy does not obviate the need for aspiration or drainage of pus.
+In amebic liver abscess, FLAGYL therapy does not obviate the need for aspiration or drainage of pus.
 
 ## Anaerobic Bacterial Infections
 
-Flagyl is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
-Indicated surgical procedures should be performed in conjunction with Flagyl therapy.
-In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to Flagyl.
+FLAGYL is indicated in the treatment of serious infections caused by susceptible anaerobic bacteria.
+Indicated surgical procedures should be performed in conjunction with FLAGYL therapy.
+In a mixed aerobic and anaerobic infection, antimicrobials appropriate for the treatment of the aerobic infection should be used in addition to FLAGYL.
 
-In the treatment of most serious anaerobic infections, Flagyl I.V.
-(metronidazole hydrochloride) or Flagyl I.V.
+In the treatment of most serious anaerobic infections, FLAGYL I.V.
+(metronidazole hydrochloride) or FLAGYL I.V.
 RTU® (metronidazole) is usually administered initially.
-This may be followed by oral therapy with Flagyl (metronidazole) at the discretion of the physician.
+This may be followed by oral therapy with FLAGYL (metronidazole) at the discretion of the physician.
 
 INTRA-ABDOMINAL INFECTIONS, including peritonitis, intra-abdominal abscess, and liver abscess, caused by Bacteroides species including the B. fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus), Clostridium species, Eubacterium species, Peptococcus niger, and Peptostreptococcus species.
 
@@ -41,7 +41,7 @@ SKIN AND SKIN STRUCTURE INFECTIONS caused by Bacteroides species including the B
 
 GYNECOLOGIC INFECTIONS, including endometritis, endomyometritis, tubo-ovarian abscess, and postsurgical vaginal cuff infection, caused by Bacteroides species including the B. fragilis group, Clostridium species, Peptococcus niger, and Peptostreptococcus species.
 
-BACTERIAL SEPTICEMIA caused by Bacteroides species including the B. fragilis group, and Clostridium species.
+BACTERIAL SEPTICEMIA caused by Bacteroides species including the B. fragilis group and Clostridium species.
 
 BONE AND JOINT INFECTIONS, as adjunctive therapy, caused by Bacteroides species including the B. fragilis group.
 
@@ -51,6 +51,6 @@ LOWER RESPIRATORY TRACT INFECTIONS, including pneumonia, empyema, and lung absce
 
 ENDOCARDITIS caused by Bacteroides species including the B. fragilis group.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Flagyl and other antibacterial drugs, Flagyl should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of FLAGYL and other antibacterial drugs, FLAGYL should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

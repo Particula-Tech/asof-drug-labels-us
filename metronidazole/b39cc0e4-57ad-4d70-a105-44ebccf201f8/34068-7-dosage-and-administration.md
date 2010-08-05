@@ -6,26 +6,26 @@ In elderly patients, the pharmacokinetics of metronidazole may be altered, and, 
 
 ### In the Female
 
-One-day treatment—two grams of Flagyl, given either as a single dose or in two divided doses of one gram each given in the same day.
+One-day treatment − two grams of FLAGYL, given either as a single dose or in two divided doses of one gram each, given in the same day.
 
-Seven-day course of treatment—250 mg three times daily for seven consecutive days.
-There is some indication from controlled comparative studies that cure rates as determined by vaginal smears, signs and symptoms, may be higher after a seven-day course of treatment than after a one-day treatment regimen.
+Seven-day course of treatment − 250 mg three times daily for seven consecutive days.
+There is some indication from controlled comparative studies that cure rates as determined by vaginal smears and signs and symptoms, may be higher after a seven-day course of treatment than after a one-day treatment regimen.
 
 The dosage regimen should be individualized.
 Single-dose treatment can assure compliance, especially if administered under supervision, in those patients who cannot be relied on to continue the seven-day regimen.
 A seven-day course of treatment may minimize reinfection by protecting the patient long enough for the sexual contacts to obtain appropriate treatment.
-Further, some patients may tolerate one treatment regimen better than the other.
+Furthermore, some patients may tolerate one treatment regimen better than the other.
 
 Pregnant patients should not be treated during the first trimester.
-(See Contraindications.)
-In pregnant patients in whom alternative treatment has been inadequate, the one-day course of therapy should not be used, as it results in higher serum levels which can reach the fetal circulation (see PRECAUTIONS, Pregnancy).
+(See CONTRAINDICATIONS).
+In pregnant patients for whom alternative treatment has been inadequate, the one-day course of therapy should not be used, as it results in higher serum levels which can reach the fetal circulation (see PRECAUTIONS- Pregnancy).
 
 When repeat courses of the drug are required, it is recommended that an interval of four to six weeks elapse between courses and that the presence of the trichomonad be reconfirmed by appropriate laboratory measures.
 Total and differential leukocyte counts should be made before and after re-treatment.
 
 ### In the Male
 
-Treatment should be individualized as for the female.
+Treatment should be individualized as it is for the female.
 
 ## Amebiasis
 
@@ -41,8 +41,8 @@ For amebic liver abscess: 500 mg or 750 mg orally three times daily for 5 to 10 
 
 ## Anaerobic Bacterial Infections
 
-In the treatment of most serious anaerobic infections, Flagyl I.V.
-(metronidazole hydrochloride) or Flagyl I.V.
+In the treatment of most serious anaerobic infections, FLAGYL I.V.
+(metronidazole hydrochloride) or FLAGYL I.V.
 RTU® (metronidazole) is usually administered initially.
 
 The usual adult oral dosage is 7.5 mg/kg every six hours (approx.
@@ -55,4 +55,4 @@ Patients with severe hepatic disease metabolize metronidazole slowly, with resul
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
 Close monitoring of plasma metronidazole levels2 and toxicity is recommended.
 
-The dose of Flagyl should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis.
+The dose of FLAGYL should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis.

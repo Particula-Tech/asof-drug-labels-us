@@ -26,13 +26,13 @@ However, plasma clearance of metronidazole is decreased in patients with decreas
 
 ### Trichomonas vaginalis, Entamoeba histolytica
 
-Flagyl (metronidazole) possesses direct trichomonacidal and amebacidal activity against T. vaginalis and E. histolytica.
-The in vitro minimal inhibitory concentration (MIC) for most strains of these organisms is 1 mcg/mL or less.
+FLAGYL (metronidazole) possesses direct trichomonacidal and amebacidal activity against T. vaginalis and E. histolytica.
+The in vitro minimum inhibitory concentration (MIC) for most strains of these organisms is 1 mcg/mL or less.
 
 ### Anaerobic Bacteria
 
 Metronidazole is active in vitro against most obligate anaerobes but does not appear to possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
-Against susceptible organisms, metronidazole is generally bactericidal at concentrations equal to or slightly higher than the minimal inhibitory concentrations.
+Against susceptible organisms, metronidazole is generally bactericidal at concentrations equal to or slightly higher than the minimum inhibitory concentrations.
 Metronidazole has been shown to have in vitro and clinical activity against the following organisms:
 
 Anaerobic gram-negative bacilli, including: Bacteroides species including the Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus) Fusobacterium species Anaerobic gram-positive bacilli, including: Clostridium species and susceptible strains of Eubacterium Anaerobic gram-positive cocci, including: Peptococcus niger Peptostreptococcus species
@@ -52,4 +52,4 @@ A clinical laboratory is considered under acceptable control if the results of t
 
 A bacterial isolate may be considered susceptible if the MIC value for metronidazole is not more than 16 mcg/mL.
 An organism is considered resistant if the MIC is greater than 16 mcg/mL.
-A report of "resistant" from the laboratory indicates that the infecting organism is not likely to respond to therapy.
+A report of "Resistant" from the laboratory indicates that the infecting organism is not likely to respond to therapy.

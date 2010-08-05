@@ -1,3 +1,5 @@
+# REFERENCES
+
 1. Proposed standard: PSM-11—Proposed Reference Dilution Procedure for Antimicrobic Susceptibility Testing of Anaerobic Bacteria, National Committee for Clinical Laboratory Standards; and Sutter, et al.: Collaborative Evaluation of a Proposed Reference Dilution Method of Susceptibility Testing of Anaerobic Bacteria, Antimicrob.
    Agents Chemother.
    16:495–502 (Oct.)
