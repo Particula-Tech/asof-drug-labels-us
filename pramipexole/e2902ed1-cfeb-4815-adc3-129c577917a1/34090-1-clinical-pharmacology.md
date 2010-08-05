@@ -12,11 +12,12 @@ The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
 All subjects initiated treatment with 0.375 mg MIRAPEX ER tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily.
-No dose- or exposure-related effect on mean QT intervals was observed: however the study did not have a valid assessment of assay sensitivity.
+No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
-Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the up-titration phase, up to 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
+
+Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the rapid up-titration phase, by 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
 Higher SBP, DBP, and pulse rates compared to placebo were maintained until the pramipexole doses were tapered; values on the last day of tapering were generally similar to baseline values.
-Such effects have not been observed in clinical studies with Parkinson’s disease patients, and are most likely due to the forced up-titration every 3 days.
+Such effects have not been observed in clinical studies with Parkinson’s disease patients, who were titrated according to labeled recommendations.
 
 ## 12.3 Pharmacokinetics
 

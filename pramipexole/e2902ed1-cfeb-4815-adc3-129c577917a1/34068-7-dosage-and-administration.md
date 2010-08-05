@@ -16,7 +16,6 @@ Based on efficacy and tolerability, dosages may be increased gradually, not more
 In clinical trials, dosage was initiated at 0.375 mg/day and gradually titrated based on individual therapeutic response and tolerability.
 Doses greater than 4.5 mg/day have not been studied in clinical trials.
 Patients should be assessed for therapeutic response and tolerability at a minimal interval of 5 days or longer after each dose increment [see Clinical Studies (14)].
-In a clinical trial with healthy volunteers, where dosages were titrated faster than recommended (every 3 days up to 4.5 mg per day) increases in blood pressure and heart rate were observed [see Clinical Pharmacology (12.2)].
 
 Due to the flexible dose design used in clinical trials, specific dose-response information could not be determined [see Clinical Studies (14)].
 

@@ -2,7 +2,7 @@
 
 MIRAPEX ER tablets contain pramipexole, a non-ergot dopamine agonist.
 The chemical name of pramipexole dihydrochloride is (S)-2-amino-4,5,6,7-tetrahydro-6-(propylamino)benzothiazole dihydrochloride monohydrate.
-Its empirical formula is C10 H17 N3 S · 2HCl · H2O, and its molecular weight is 302.26.
+Its empirical formula is C10 H17 N3 S • 2HCl • H2O, and its molecular weight is 302.26.
 
 The structural formula is:
 

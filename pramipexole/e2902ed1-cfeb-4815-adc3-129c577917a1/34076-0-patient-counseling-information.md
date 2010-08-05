@@ -1,6 +1,6 @@
 Patient Information
 
-Mirapex® ER™ [mîr′-ah-pěx] (pramipexole dihydrochloride) extended-release tablets
+Mirapex® ER ™ [mîr′-ah-pěx] (pramipexole dihydrochloride) extended-release tablets
 
 Read the Patient Information that comes with MIRAPEX ER tablets before you start taking it and each time you refill your prescription.
 The information may have changed.
@@ -8,16 +8,14 @@ This leaflet does not take the place of discussions with your doctor about your 
 
 What is MIRAPEX ER?
 
-MIRAPEX ER tablets are a prescription medicine to treat the signs and symptoms of Parkinson's disease.
-
-MIRAPEX ER tablets have not been studied in children.
-It is not known if MIRAPEX ER tablets are safe or effective in children.
-
-Please speak to your doctor for more information about why MIRAPEX ER tablets were prescribed for you.
+- MIRAPEX ER tablets are a prescription medicine to treat the signs and symptoms of Parkinson's disease.
+- MIRAPEX ER tablets have not been studied in children.
+  It is not known if MIRAPEX ER tablets are safe or effective in children.
+- Please speak to your doctor for more information about why MIRAPEX ER tablets were prescribed for you.
 
 Who should not take MIRAPEX ER?
 
-You should not take MIRAPEX ER tablets if you are allergic (hypersensitive) to the active ingredient (pramipexole) or any of the other ingredients listed at the end of this leaflet.
+- You should not take MIRAPEX ER tablets if you are allergic (hypersensitive) to the active ingredient (pramipexole) or any of the other ingredients listed at the end of this leaflet.
 
 What should I tell my doctor before taking MIRAPEX ER?
 
@@ -40,10 +38,10 @@ What should I tell my doctor before taking MIRAPEX ER?
     Especially tell your doctor if you take any other medicines that make you sleepy.
   - any non-prescription medicines, including vitamins, and herbal supplements.
 
-Know the medicines you take.
-Keep a list of them and show it to your doctor and pharmacist when you get a new prescription.
-MIRAPEX ER tablets and other medicines may interact with each other causing side effects.
-MIRAPEX ER tablets may affect the way other medicines work, and other medicines may affect how MIRAPEX ER tablets work.
+- Know the medicines you take.
+  Keep a list of them and show it to your doctor and pharmacist when you get a new prescription.
+  MIRAPEX ER tablets and other medicines may interact with each other causing side effects.
+  MIRAPEX ER tablets may affect the way other medicines work, and other medicines may affect how MIRAPEX ER tablets work.
 
 How should I take MIRAPEX ER?
 
