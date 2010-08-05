@@ -12,6 +12,8 @@ For Intravenous or Subcutaneous Use
 
 From Porcine Intestines
 
+Usual Dosage: See Package Insert.
+
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – VIAL LABEL
 
 NOT FOR LOCK FLUSH

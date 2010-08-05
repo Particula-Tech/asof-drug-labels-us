@@ -5,7 +5,7 @@ Slight discoloration does not alter potency.
 
 Confirm the choice of the correct Heparin Sodium Injection vial prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
 The 1 mL vial must not be confused with a “catheter lock flush” vial or other 1 mL vial of inappropriate strength.
-Confirm. that you have selected the correct medication and strength prior to administration of the drug.
+Confirm that you have selected the correct medication and strength prior to administration of the drug.
 
 When heparin is added to an infusion solution for continuous intravenous administration, the container should be inverted at least six times to ensure adequate mixing and prevent pooling of the heparin in the solution.
 
@@ -39,7 +39,7 @@ Although dosage must be adjusted for the individual patient according to the res
 | Deep Subcutaneous (Intrafat) Injection | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
 | A different site should be used for each injection to prevent the development of massive hematoma | Every 8 hours or Every 12 hours | 8,000 to 10,000 units of a concentrated solution 15,000 to 20,000 units of a concentrated solution |
 | Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
-|  | Every 4 to 6 hours | 5000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
+|  | Every 4 to 6 hours | 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
 | Intravenous Infusion | Initial Dose | 5,000 units by IV injection |
 |  | Continuous | 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |
 

@@ -1,1 +1,1 @@
-SAGENT Rxonly
+SAGENT™ Rxonly
