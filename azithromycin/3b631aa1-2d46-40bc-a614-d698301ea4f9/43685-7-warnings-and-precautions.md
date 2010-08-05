@@ -1,6 +1,6 @@
 # WARNINGS
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens Johnson Syndrome and toxic epidermal necrolysis have been reported rarely in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions, including Stevens-Johnson Syndrome and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy.
 Although rare, fatalities have been reported.
 (See CONTRAINDICATIONS.)
 Despite initially successful symptomatic treatment of the allergic symptoms, when symptomatic therapy was discontinued, the allergic symptoms recurred soon thereafter in some patients without further azithromycin exposure.
@@ -33,7 +33,7 @@ ZITHROMAX (azithromycin for injection) should be reconstituted and diluted as di
 (See DOSAGE AND ADMINISTRATION.)
 
 Local I.V. site reactions have been reported with the intravenous administration of azithromycin.
-The incidence and severity of these reactions were the same when 500 mg azithromycin were given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hours (1 mg/mL as 500 mL infusion).
+The incidence and severity of these reactions were the same when 500 mg azithromycin was given over 1 hour (2 mg/mL as 250 mL infusion) or over 3 hours (1 mg/mL as 500 mL infusion).
 (See ADVERSE REACTIONS.)
 All volunteers who received infusate concentrations above 2.0 mg/mL experienced local I.V. site reactions and, therefore, higher concentrations should be avoided.
 
@@ -48,12 +48,12 @@ Prescribing ZITHROMAX (azithromycin) in the absence of a proven or strongly susp
 
 Patients should be directed to discontinue azithromycin and contact a physician if any signs of an allergic reaction occur.
 
-Patients should be counseled that antibacterial drugs including ZITHROMAX (azithromycin) should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including, ZITHROMAX (azithromycin) should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When ZITHROMAX (azithromycin) is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of the therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ZITHROMAX (azithromycin) or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
@@ -70,7 +70,7 @@ Drug interaction studies were performed with azithromycin and other drugs likely
 (See CLINICAL PHARMACOLOGY-Drug-Drug Interactions.)
 When used in therapeutic doses, azithromycin had a modest effect on the pharmacokinetics of atorvastatin, carbamazepine, cetirizine, didanosine, efavirenz, fluconazole, indinavir, midazolam, rifabutin, sildenafil, theophylline (intravenous and oral), triazolam, trimethoprim/sulfamethoxazole or zidovudine.
 Co-administration with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
-No dosage adjustment of either drug is recommended when azithromycin is coadministered with any of these agents.
+No dosage adjustment of either drug is recommended when azithromycin is co-administered with any of these agents.
 
 Interactions with the drugs listed below have not been reported in clinical trials with azithromycin; however, no specific drug interaction studies have been performed to evaluate potential drug-drug interaction.
 Nonetheless, they have been observed with macrolide products.

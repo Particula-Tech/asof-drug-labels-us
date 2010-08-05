@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050733"
+  ],
   "inn": "azithromycin",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-3150-14",
     "0069-3150-83"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azithromycin",
+      "name": "Zithromax"
+    }
+  ],
   "setid": "3b631aa1-2d46-40bc-a614-d698301ea4f9",
   "source": "dailymed"
 }

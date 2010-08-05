@@ -6,7 +6,7 @@ The recommended dose of ZITHROMAX (azithromycin for injection) for the treatment
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 500 mg, administered as two 250-mg tablets to complete a 7- to 10-day course of therapy.
 The timing of the switch to oral therapy should be done at the discretion of the physician and in accordance with clinical response.
 
-The recommended dose of ZITHROMAX (azithromycin) for the treatment of adult patients with pelvic inflammatory disease due to the indicated organisms is: 500 mg as a single daily dose by the intravenous route for one or two days.
+The recommended dose of ZITHROMAX (azithromycin for injection) for the treatment of adult patients with pelvic inflammatory disease due to the indicated organisms is: 500 mg as a single daily dose by the intravenous route for one or two days.
 Intravenous therapy should be followed by azithromycin by the oral route at a single, daily dose of 250 mg to complete a 7-day course of therapy.
 The timing of the switch to oral therapy should be done at the discretion of the physician and in accordance with clinical response.
 If anaerobic microorganisms are suspected of contributing to the infection, an antimicrobial agent with anaerobic activity should be administered in combination with ZITHROMAX.
@@ -36,7 +36,7 @@ Preparation of the solution for intravenous administration is as follows:
 Prepare the initial solution of ZITHROMAX (azithromycin for injection) by adding 4.8 mL of Sterile Water For Injection to the 500 mg vial and shaking the vial until all of the drug is dissolved.
 Since ZITHROMAX (azithromycin for injection) is supplied under vacuum, it is recommended that a standard 5 mL (non-automated) syringe be used to ensure that the exact amount of 4.8 mL of Sterile Water is dispensed.
 Each mL of reconstituted solution contains 100 mg azithromycin.
-Reconstituted solution is stable for 24 hours when stored below 30°C or 86°F.
+Reconstituted solution is stable for 24 hours when stored below 30°C (86°F).
 
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
@@ -49,7 +49,7 @@ To provide azithromycin over a concentration range of 1.0–2.0 mg/mL, transfer 
 
 Normal Saline (0.9% sodium chloride) 1/2 Normal Saline (0.45% sodium chloride) 5% Dextrose in Water Lactated Ringer's Solution 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) with 20 mEq KCl 5% Dextrose in Lactated Ringer's Solution 5% Dextrose in 1/3 Normal Saline (0.3% sodium chloride) 5% Dextrose in 1/2 Normal Saline (0.45% sodium chloride) Normosol®-M in 5% Dextrose Normosol®-R in 5% Dextrose
 
-When used with the Vial-Mate™ drug reconstitution device, please reference the Vial-Mate™ instructions for assembly and reconstitution.
+When used with the Vial-Mate® drug reconstitution device, please reference the Vial-Mate® instructions for assembly and reconstitution.
 
 | Final Infusion Solution Concentration (mg/mL) | Amount of Diluent (mL) |
 | --- | --- |
@@ -64,4 +64,4 @@ Other intravenous substances, additives, or medications should not be added to Z
 
 ## Storage
 
-When diluted according to the instructions (1.0 mg/mL to 2.0 mg/mL), ZITHROMAX (azithromycin for injection) is stable for 24 hours at or below room temperature (30°C or 86°F), or for 7 days if stored under refrigeration (5°C or 41°F).
+When diluted according to the instructions (1.0 mg/mL to 2.0 mg/mL), ZITHROMAX (azithromycin for injection) is stable for 24 hours at or below room temperature 30°C (86°F), or for 7 days if stored under refrigeration 5°C (41°F).

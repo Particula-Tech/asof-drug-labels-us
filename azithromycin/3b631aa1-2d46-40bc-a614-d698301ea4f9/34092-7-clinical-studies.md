@@ -28,7 +28,7 @@ Combined Bacteriological Eradication Rates for Azithromycin:
 
 | (at last completed visit) | Azithromycin |
 | --- | --- |
-| S. pneumoniae | 64/67 (96%)Nineteen of twenty-four patients (79%) with positive blood cultures for S. pneumoniae were cured (intent to treat analysis) with eradication of the pathogen. |
+| S. pneumoniae | 64/67 (96%)Nineteen of twenty-four patients (79%) with positive blood cultures for S. pneumoniae were cured (intent-to-treat analysis) with eradication of the pathogen. |
 | H. influenzae | 41/43 (95%) |
 | M. catarrhalis | 9/10 |
 | S. aureus | 9/10 |

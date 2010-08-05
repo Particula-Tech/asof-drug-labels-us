@@ -7,4 +7,4 @@ These are packaged as follows:
 
 | 10 vials of 500 mg | NDC 0069-3150-83 |
 | --- | --- |
-| 10 vials of 500 mg with 1 Vial-Mate™ Adaptor each | NDC 0069-3150-14 |
+| 10 vials of 500 mg with 1 Vial-Mate® Adaptor each | NDC 0069-3150-14 |

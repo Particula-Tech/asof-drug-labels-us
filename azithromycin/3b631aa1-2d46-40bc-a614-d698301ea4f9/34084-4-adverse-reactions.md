@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 In clinical trials of intravenous azithromycin for community-acquired pneumonia, in which 2–5 I.V. doses were given, most of the reported side effects were mild to moderate in severity and were reversible upon discontinuation of the drug.
-The majority of patients in these trials had one or more comorbid diseases and were receiving concomitant medications.
+The majority of patients in these trials had one or more co-morbid diseases and were receiving concomitant medications.
 Approximately 1.2% of the patients discontinued intravenous ZITHROMAX therapy, and a total of 2.4% discontinued azithromycin therapy by either the intravenous or oral route because of clinical or laboratory side effects.
 
 In clinical trials conducted in patients with pelvic inflammatory disease, in which 1–2 I.V. doses were given, 2% of women who received monotherapy with azithromycin and 4% who received azithromycin plus metronidazole discontinued therapy due to clinical side effects.
@@ -23,7 +23,10 @@ No other side effects occurred in patients on the multiple dose I.V./P.O. regime
 
 Side effects that occurred with a frequency of 1% or less included the following:
 
-Gastrointestinal: dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis Nervous System: headache, somnolence Allergic: bronchospasm Special Senses: taste perversion
+Gastrointestinal: dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis.
+Nervous System: headache, somnolence.
+Allergic: bronchospasm.
+Special Senses: taste perversion.
 
 ## Post-Marketing Experience
 
@@ -32,14 +35,14 @@ Adverse events reported with azithromycin during the post-marketing period in ad
 Allergic: Arthralgia, edema, urticaria and angioedema.
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
 There have been rare reports of QT prolongation and torsades de pointes.
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis and rare reports of tongue discoloration.
+Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (rarely fatal).
 Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
 Hematopoietic: Thrombocytopenia.
 Liver/Biliary: Abnormal liver function including hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure, some of which have resulted in death.
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 Psychiatric: Aggressive reaction and anxiety.
-Skin/Appendages: Pruritus, rarely serious skin reactions including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis.
+Skin/Appendages: Pruritus, rarely serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## Laboratory Abnormalities
