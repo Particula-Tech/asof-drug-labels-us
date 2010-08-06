@@ -1,0 +1,14 @@
+# DOSAGE AND ADMINISTRATION
+
+A thin film of PRUDOXIN Cream should be applied four times each day with at least a 3 to 4 hour interval between applications.
+There are no data to establish the safety and effectiveness of PRUDOXIN Cream when used for greater than 8 days.
+Chronic use beyond eight days may result in higher systemic levels and should be avoided.
+Use of PRUDOXIN Cream for longer than 8 days may result in an increased likelihood of contact sensitization.
+
+The risk for sedation may increase with greater body surface area application of PRUDOXIN Cream (See WARNINGS section).
+Clinical experience has shown that drowsiness is significantly more common in patients applying PRUDOXIN Cream to over 10% of body surface area; therefore, patients with greater than 10% of body surface area (see WARNINGS section) affected should be particularly cautioned concerning possible drowsiness and other systemic adverse effects of doxepin.
+If excessive drowsiness occurs, it may be necessary to do one or more of the following: reduce the body surface area treated, reduce the number of applications per day, reduce the amount of cream applied, or discontinue the drug.
+
+Occlusive dressings may increase the absorption of most topical drugs; therefore, occlusive dressings should not be utilized with PRUDOXIN Cream.
+
+Rx Only.

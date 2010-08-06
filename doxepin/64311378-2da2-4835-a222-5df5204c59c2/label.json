@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020126"
+  ],
+  "inn": "doxepin",
+  "labeler": "HEALTHPOINT, LTD",
+  "package_ndcs": [
+    "0064-3600-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "PRUDOXIN"
+    }
+  ],
+  "setid": "64311378-2da2-4835-a222-5df5204c59c2",
+  "source": "dailymed"
+}
