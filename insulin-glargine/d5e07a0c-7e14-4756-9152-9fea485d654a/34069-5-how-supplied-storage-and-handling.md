@@ -8,7 +8,7 @@ LANTUS solution for injection 100 units per mL (U-100) is available as:
 | --- | --- | --- |
 | 10 mL vials 100 Units/mL | Pack of 1 | 2220-33 |
 | 3 mL cartridge systemCartridge systems are for use only in OptiClik® (Insulin Delivery Device) 100 Units/mL | package of 5 | 2220-52 |
-| 3 mL SoloStar® disposable insulin device 100 Units/mL | package of 5 | 2220-60 |
+| 3 mL SoloStar® disposable insulin device 100 Units/mL | package of 5 | 2219-05 |
 
 Needles are not included in the packs.
 

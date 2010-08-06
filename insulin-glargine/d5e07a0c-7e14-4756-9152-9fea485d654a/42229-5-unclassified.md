@@ -1,11 +1,11 @@
 Rev.
-September 2009
+April 2010
 
 sanofi-aventis U.S. LLC
 
 Bridgewater, NJ 08807
 
-©2009 sanofi-aventis U.S. LLC
+©2010 sanofi-aventis U.S. LLC
 
 Patient Information LANTUS® 3 mL cartridge system (300 units per cartridge system) 100 units per mL (U-100) (insulin glargine [recombinant DNA origin] injection)
 

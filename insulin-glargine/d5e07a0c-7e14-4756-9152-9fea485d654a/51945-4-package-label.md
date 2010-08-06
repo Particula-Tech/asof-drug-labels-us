@@ -38,7 +38,7 @@ DO NOT MIX WITH OTHER INSULINS
 
 USE ONLY IF SOLUTION IS CLEAR AND COLORLESS WITH NO PARTICLES VISIBLE
 
-FOR SUBCUTANEOUS INJECTION ONLY
+FOR SUBCUTANEOUS injection ONLY
 
 USE WITH U-100 SYRINGE ONLY
 
@@ -112,40 +112,24 @@ OptiClik®
 
 sanofi aventis
 
-PRINCIPAL DISPLAY PANEL-SoloStarLantus 3mL-5 count Label
+PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Label
 
 Lot
 
 Exp
 
-NDC 0088-2220-60
+NDC 0088-2219-05
 
-Lantus® SoloStar®
+Lantus® SoloStar® insulin glargine (rDNA origin) injection 100 units/mL (U-100) Rx ONLY
 
-insulin glargine (rDNA origin) injection
+Do Not Mix with Other Insulins For subcutaneous injection Only Use within 28 days after opening 3 mL Prefilled Pen sanofi-aventis U.S. LLC Origin Germany 50093040 sanofi aventis <MAT>500907
 
-100 units/mL (U-100) Rx ONLY
+PRINCIPAL DISPLAY PANEL - LantusSoloStar 3mL-5 Count Carton
 
-Do Not Mix with Other Insulins For subcutaneous injection Only Use within 28 days after opening
+NDC 0088-2219-05 Rx ONLY
 
-3 mL Prefilled Pen
+Lantus® SoloStar® insulin glargine (rDNA origin) injection 100 units/mL (U-100)
 
-sanofi aventis U.S. LLC Origin Germany 50085500
-
-PRINCIPAL DISPLAY PANEL-SoloStarLantus 3mL-5 count Carton
-
-NDC 0088-2220-60 Rx ONLY
-
-Lantus® SoloStar®
-
-insulin glargine (rDNA origin) injection
-
-100 units/mL (U-100)
-
-Solution for injection in a disposable insulin delivery device
-
-Do not mix with other insulins For subcutaneous injection only Use only if solution is clear and colorless with no particles visible Use within 28 days after opening *Needles not included (see back panel)
-
-Five 3 mL Prefilled Pens
+Solution for injection in a disposable insulin delivery device Do not mix with other insulins For subcutaneous injection only Use only if solution is clear and colorless with no particles visible Use within 28 days after opening *Needles not included (see back panel) Five 3 mL Prefilled Pens
 
 sanofi aventis
