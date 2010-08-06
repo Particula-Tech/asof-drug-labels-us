@@ -124,7 +124,7 @@ SINGULAIR may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking SINGULAIR:
 
-| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientationfeeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilityrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
+| agitation including aggressive behavior or hostilitybad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilityrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleeping |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
@@ -206,8 +206,8 @@ SINGULAIR is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary o
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued May 2010
+Issued July 2010
 
 US Patent No.: 5,565,473
 
-9989618
+9989619
