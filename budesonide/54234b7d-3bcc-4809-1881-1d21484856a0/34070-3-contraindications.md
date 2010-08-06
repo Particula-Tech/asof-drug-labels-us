@@ -1,5 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-PULMICORT FLEXHALER is contraindicated in the primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required.
+The use of PULMICORT FLEXHALER is contraindicated in the following conditions:
 
-PULMICORT FLEXHALER is contraindicated in patients with hypersensitivity to any of its ingredients (see DESCRIPTION and ADVERSE REACTIONS, Adverse Event Reports from Other Sources).
+- Primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required.
+- Severe hypersensitivity to milk proteins or any ingredients of PULMICORT FLEXHALER [seeWarnings and Precautions (5.3), Description (11)].

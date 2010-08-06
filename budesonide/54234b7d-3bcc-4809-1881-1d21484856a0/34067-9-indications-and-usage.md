@@ -1,7 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-PULMICORT FLEXHALER is indicated for the maintenance treatment of asthma as prophylactic therapy in adult and pediatric patients six years of age or older.
-It is also indicated for patients requiring oral corticosteroid therapy for asthma.
-Many of those patients may be able to reduce or eliminate their requirement for oral corticosteroids over time.
+## 1.1 Treatment of Asthma
 
-PULMICORT FLEXHALER is NOT indicated for the relief of acute bronchospasm.
+PULMICORT FLEXHALER is indicated for the maintenance treatment of asthma as prophylactic therapy in patients six years of age or older.
+
+Important Limitations of Use:
+
+- PULMICORT FLEXHALER is NOT indicated for the relief of acute bronchospasm.
