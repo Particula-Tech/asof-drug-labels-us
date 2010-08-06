@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090219"
+  ],
+  "inn": "clotrimazole",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-181-17",
+    "68462-181-35",
+    "68462-181-47",
+    "68462-181-48"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clotrimazole",
+      "name": "Clotrimazole"
+    }
+  ],
+  "setid": "f6898117-14f3-42d2-bc0e-d296add3ad70",
+  "source": "dailymed"
+}
