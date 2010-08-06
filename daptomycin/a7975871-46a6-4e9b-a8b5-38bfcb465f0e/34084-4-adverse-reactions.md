@@ -13,7 +13,7 @@ In the S. aureus bacteremia/endocarditis trial, CUBICIN was discontinued in 20/1
 In the S. aureus bacteremia/endocarditis trial, serious Gram-negative infections and nonserious Gram-negative bloodstream infections were reported in 10/120 (8.3%) CUBICIN-treated and 0/115 comparator-treated patients.
 Comparator patients received dual therapy that included initial gentamicin for 4 days.
 Events were reported during treatment and during early and late follow-up.
-Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn’s disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative organisms.
+Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn's disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative organisms.
 One patient with sternal osteomyelitis following mitral valve repair developed S. aureus endocarditis with a 2 cm mitral vegetation and had a course complicated with bowel infarction, polymicrobial bacteremia, and death.
 
 ## Other Adverse Reactions
@@ -188,4 +188,4 @@ Incidence of Decreased Renal Function Based on Creatinine Clearance Levels
 The following adverse reactions have been reported with CUBICIN in worldwide post-marketing experience.
 Because these events are reported voluntarily from a population of unknown size, estimates of frequency cannot be made and causal relationship cannot be precisely established.
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia Infections and Infestations: Clostridium difficile–associated diarrhea Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) Nervous System Disorders: peripheral neuropathy Skin and Subcutaneous Tissue Disorders: vesiculobullous rash with or without mucous membrane involvement
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia Infections and Infestations: Clostridium difficile–Associated Diarrhea Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) Nervous System Disorders: peripheral neuropathy Respiratory, Thoracic, and Mediastinal Disorders: eosinophilic pneumonia (see WARNINGS, Eosinophilic Pneumonia) Skin and Subcutaneous Tissue Disorders: vesiculobullous rash with or without mucous membrane involvement

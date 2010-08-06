@@ -10,4 +10,4 @@ Cubist Pharmaceuticals, Inc. Lexington, MA 02421 USA
 
 For all medical inquiries call: (866) 793-2786
 
-January 2010 (1004-9)
+August 2010 (1004-10)

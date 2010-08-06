@@ -70,7 +70,7 @@ The MICs should be determined using a standardized procedure1, 2 based on a brot
 The use of the agar dilution method is not recommended with daptomycin2.
 The MICs should be interpreted according to the criteria in Table 3.
 
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 
 Table 3.
 Susceptibility Interpretive Criteria for Daptomycin
@@ -79,7 +79,7 @@ Susceptibility Interpretive Criteria for Daptomycin
 | --- | --- | --- | --- |
 | Pathogen | Broth Dilution MICThe MIC interpretive criteria for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the MIC interpretive criteria for Streptococcus spp. other than S. pneumoniae are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. |  |  |
 | (µg/mL) |  |  |  |
-| Staphylococcus aureus | ≤1 | (The current absence of data on daptomycin-resistant isolates precludes defining any categories other than “Susceptible.” Isolates yielding test results suggestive of a “Non-Susceptible” category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.) | () |
+| Staphylococcus aureus | ≤1 | (The current absence of data on daptomycin-resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "Non-Susceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.) | () |
 | (methicillin-susceptible and methicillin-resistant) |  |  |  |
 | Streptococcus pyogenes, Streptococcus agalactiae, | ≤1 | () | () |
 | and Streptococcus dysgalactiae subsp. equisimilis |  |  |  |

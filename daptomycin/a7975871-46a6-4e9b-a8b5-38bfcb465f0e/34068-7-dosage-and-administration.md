@@ -9,7 +9,7 @@ Therefore, CUBICIN should not be dosed more frequently than once a day.
 ## Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 CUBICIN 6 mg/kg should be administered over a 30-minute period by IV infusion in 0.9% sodium chloride injection once every 24 hours for a minimum of 2 to 6 weeks.
-Duration of treatment should be based on the treating physician’s working diagnosis.
+Duration of treatment should be based on the treating physician's working diagnosis.
 There are limited safety data for the use of CUBICIN for more than 28 days of therapy.
 In the Phase 3 study, there were a total of 14 patients who were treated with CUBICIN for more than 28 days, 8 of whom were treated for 6 weeks or longer.
 
@@ -36,17 +36,17 @@ Recommended Dosage of CUBICIN (daptomycin for injection) in Adult Patients
 ## Preparation of CUBICIN for Administration
 
 CUBICIN is supplied in single-use vials containing 500 mg daptomycin as a sterile, lyophilized powder.
-The contents of a CUBICIN 500 mg vial should be reconstituted using aseptic technique as follows:
+The contents of a CUBICIN 500 mg vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
 
 Note: To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
 
 1. Remove the polypropylene flip-off cap from the CUBICIN vial to expose the central portion of the rubber stopper.
 2. Slowly transfer 10 mL of 0.9% sodium chloride injection through the center of the rubber stopper into the CUBICIN vial, pointing the transfer needle toward the wall of the vial.
-3. Ensure that the entire CUBICIN product is wetted by gently rotating the vial.
-4. Allow the product to stand undisturbed for 10 minutes.
+3. Ensure that all of the CUBICIN powder is wetted by gently rotating the vial.
+4. Allow the wetted product to stand undisturbed for 10 minutes.
 5. Gently rotate or swirl the vial contents for a few minutes, as needed, to obtain a completely reconstituted solution.
 
-Reconstituted CUBICIN should be further diluted with 0.9% sodium chloride injection to be administered by IV infusion over a period of 30 minutes.
+Reconstituted CUBICIN (concentration of 50 mg/mL) should be further diluted, using aseptic technique, with 0.9% sodium chloride injection to be administered by IV infusion over a period of 30 minutes.
 
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of final IV solution.
 Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature or up to 48 hours if stored under refrigeration at 2 to 8ºC (36 to 46ºF).
@@ -64,5 +64,5 @@ If the same IV line is used for sequential infusion of several different drugs, 
 
 ## Compatible Intravenous Solutions
 
-CUBICIN is compatible with 0.9% sodium chloride injection and lactated Ringer’s injection.
+CUBICIN is compatible with 0.9% sodium chloride injection and lactated Ringer's injection.
 CUBICIN is not compatible with dextrose-containing diluents.

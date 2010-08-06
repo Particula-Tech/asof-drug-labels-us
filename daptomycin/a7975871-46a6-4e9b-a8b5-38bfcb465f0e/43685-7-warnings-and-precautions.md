@@ -1,5 +1,16 @@
 # WARNINGS
 
+Eosinophilic Pneumonia
+
+Eosinophilic pneumonia has been reported in patients receiving CUBICIN.
+In reported cases associated with CUBICIN, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
+In general, patients developed eosinophilic pneumonia 2 to 4 weeks after starting CUBICIN and improved when CUBICIN was discontinued and steroid therapy was initiated.
+Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
+Patients who develop these signs and symptoms while receiving CUBICIN should undergo prompt medical evaluation, and CUBICIN should be discontinued immediately.
+Treatment with systemic steroids is recommended.
+
+Clostridium difficile–Associated Diarrhea
+
 Clostridium difficile–associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CUBICIN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
@@ -62,7 +73,7 @@ CUBICIN should be discontinued in patients with unexplained signs and symptoms o
 In addition, consideration should be given to temporarily suspending agents associated with rhabdomyolysis, such as HMG-CoA reductase inhibitors, in patients receiving CUBICIN.
 
 In a Phase 1 study examining doses up to 12 mg/kg q24h of CUBICIN for 14 days, no evidence of nerve conduction deficits or symptoms of peripheral neuropathy was observed.
-In a small number of patients in Phase 1 and Phase 2 studies at doses up to 6 mg/kg, administration of CUBICIN was associated with decreases in nerve conduction velocity and with adverse events (e.g., paresthesias, Bell’s palsy) possibly reflective of peripheral or cranial neuropathy.
+In a small number of patients in Phase 1 and Phase 2 studies at doses up to 6 mg/kg, administration of CUBICIN was associated with decreases in nerve conduction velocity and with adverse events (e.g., paresthesias, Bell's palsy) possibly reflective of peripheral or cranial neuropathy.
 Nerve conduction deficits were also detected in a similar number of comparator subjects in these studies.
 In Phase 3 cSSSI and community-acquired pneumonia (CAP) studies, 7/989 (0.7%) CUBICIN-treated patients and 7/1,018 (0.7%) comparator-treated patients experienced paresthesias.
 New or worsening peripheral neuropathy was not diagnosed in any of these patients.

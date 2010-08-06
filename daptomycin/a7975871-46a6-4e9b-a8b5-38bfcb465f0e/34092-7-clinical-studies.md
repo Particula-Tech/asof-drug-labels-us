@@ -21,7 +21,7 @@ Clinical success rates in the CE population were 89.9% (214/238) in patients tre
 The success rates by pathogen for microbiologically evaluable patients are presented in Table 11.
 
 Table 10.
-Investigator’s Primary Diagnosis in the cSSSI Studies (Population: ITT)
+Investigator's Primary Diagnosis in the cSSSI Studies (Population: ITT)
 
 |  | N=264/N=266 | N=270/N=292 | N=534/N=558 |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Patients with prosthetic heart valves, intravascular foreign material that was n
 Upon entry, patients were classified for likelihood of endocarditis using the modified Duke criteria (Possible, Definite, or Not Endocarditis).
 Echocardiography, including a transesophageal echocardiogram (TEE), was performed within 5 days following study enrollment.
 The choice of comparator agent was based on the oxacillin susceptibility of the S. aureus isolate.
-The duration of study treatment was based on the investigator’s clinical diagnosis.
+The duration of study treatment was based on the investigator's clinical diagnosis.
 Final diagnoses and outcome assessments at Test of Cure (6 weeks after the last treatment dose) were made by a treatment-blinded Adjudication Committee, using protocol-specified clinical definitions and a composite primary efficacy endpoint (clinical and microbiological success) at the Test of Cure visit.
 
 A total of 246 patients ≥18 years of age (124 CUBICIN, 122 comparator) with S. aureus bacteremia were randomized from 48 centers in the US and Europe.

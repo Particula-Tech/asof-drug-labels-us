@@ -71,7 +71,7 @@ Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of
 | 4 mg/kg | 4 mg/kg | 4 mg/kg | 4 mg/kg | 6 mg/kg | 6 mg/kg |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Renal Function | t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. | Vss | CLT | AUC0-∞ | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. | Cmin,ss |
-| (h) | (L/kg) | (mL/h/kg) | (µg•h/mL) | (µg•h/mL) | (µg•h/mL) |  |
+| (h) | (L/kg) | (mL/h/kg) | (µg•h/mL) | (µg•h/mL) | (µg/mL) |  |
 | Normal | 9.39 (4.74) | 0.13 (0.05) | 10.9 (4.0) | 417 (155) | 545 (296) | 6.9 (3.5) |
 | (CLCR >80 mL/min) | N=165 | N=165 | N=165 | N=165 | N=62 | N=61 |
 | Mild Renal Impairment | 10.75 (8.36) | 0.12 (0.05) | 9.9 (4.0) | 466 (177) | 637 (215) | 12.4 (5.6) |
