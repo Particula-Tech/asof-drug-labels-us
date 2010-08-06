@@ -37,7 +37,7 @@ The usual adult dosage in the treatment of acute exacerbations of chronic bronch
 
 ### Treatment: Adults and Children:
 
-The recommended dosage for treatment of patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.13 The following table is a guideline for the upper limit of this dosage:
+The recommended dosage for treatment of patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.10 The following table is a guideline for the upper limit of this dosage:
 
 | lb | kg | Tablets |
 | --- | --- | --- |
@@ -57,12 +57,12 @@ For the lower limit dose (75 mg/kg sulfamethoxazole and 15 mg/kg trimethoprim pe
 
 ### Adults:
 
-The recommended dosage for prophylaxis in adults is 1 BACTRIM DS (double strength) tablet daily.14
+The recommended dosage for prophylaxis in adults is 1 BACTRIM DS (double strength) tablet daily.11
 
 ### Children:
 
 For children, the recommended dose is 750 mg/m2/day sulfamethoxazole with 150 mg/m2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
-The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.15 The following table is a guideline for the attainment of this dosage in children:
+The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.12 The following table is a guideline for the attainment of this dosage in children:
 
 | (m2) | Tablets |
 | --- | --- |

@@ -1,27 +1,19 @@
-# PRINCIPAL DISPLAY PANEL - 400 mg/80 mg Label
+# PRINCIPAL DISPLAY PANEL - 800/160 mg Tablet Bottle Label
 
-Rx only NDC 13310-145-01
+100 TABLETS NDC 13310-146-01
 
-Bactrim™
-
-sulfamethoxazole and trimethoprim tablets USP
+Bactrim™ DS sulfamethoxazole and trimethoprim (double strength) tablets USP 800 mg/160 mg DOUBLE STRENGTH
 
 AR SCIENTIFIC
 
-400 mg/80 mg
+Rx only
 
-100 TABLETS
+# PRINCIPAL DISPLAY PANEL - 400/80 mg Tablet Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - 800 mg/160 mg Label
+100 TABLETS NDC 13310-145-01
 
-Rx only NDC 13310-146-01
-
-Bactrim™ DS
-
-sulfamethoxazole and trimethoprim (double strength) tablets USP
+Bactrim™ sulfamethoxazole and trimethoprim tablets USP 400 mg/80 mg
 
 AR SCIENTIFIC
 
-800 mg/160 mg DOUBLE STRENGTH
-
-100 TABLETS
+Rx only

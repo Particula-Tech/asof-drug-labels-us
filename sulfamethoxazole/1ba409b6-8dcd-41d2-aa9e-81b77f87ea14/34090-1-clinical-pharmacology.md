@@ -122,6 +122,6 @@ A zone of inhibition ≥20 mm that is essentially free of fine colonies indicate
 
 | Microorganism |  | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
-| Escherichia coli | ATCC 25922 | 24–32 |
+| Escherichia coli | ATCC 25922 | 23–29 |
 | Haemophilus influenzaeThis quality control range is applicable only to Haemophilus influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).5 | ATCC 49247 | 24–32 |
 | Streptococcus pneumoniaeThis quality control range is applicable only to tests performed by disk diffusion using Mueller-Hinton agar supplemented with 5% defibrinated sheep blood when incubated in 5% CO2.5 | ATCC 49619 | 20–28 |
