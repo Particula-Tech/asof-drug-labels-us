@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090143"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-485-05",
+    "24208-485-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hcl",
+      "name": "Dorzolamide HCl"
+    }
+  ],
+  "setid": "8417d162-65a1-4266-bca7-707af1193bf3",
+  "source": "dailymed"
+}
