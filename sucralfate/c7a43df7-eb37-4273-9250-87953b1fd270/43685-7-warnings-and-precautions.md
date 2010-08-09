@@ -17,7 +17,7 @@ Sucralfate should be used with caution in patients with chronic renal failure.
 
 ## Drug Interactions
 
-Some studies have shown that simultaneous sucralfate administration in healthy volunteers reduced the extent of absorption (bioavailability) of single doses of the following: cimetidine, digoxin, fluoroquinolone antibiotics, ketoconazole, 1-thyroxine, phenytoin, quinidine, ranitidine, tetracycline, and theophylline.
+Some studies have shown that simultaneous sucralfate administration in healthy volunteers reduced the extent of absorption (bioavailability) of single doses of the following: cimetidine, digoxin, fluoroquinolone antibiotics, ketoconazole, l-thyroxine, phenytoin, quinidine, ranitidine, tetracycline, and theophylline.
 Subtherapeutic prothrombin times with concomitant warfarin and sucralfate therapy have been reported in spontaneous and published case reports.
 However, two clinical studies have demonstrated no change in either serum warfarin concentration or prothrombin time with the addition of sucralfate to chronic warfarin therapy.
 
@@ -58,8 +58,8 @@ Safety and effectiveness in children have not been established.
 Clinical studies of sucralfate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See DOSAGE AND ADMINISTRATION.)
+(See DOSAGE ANDADMINISTRATION.)
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-(See PRECAUTIONS, Special Populations, Chronic Renal Failure and Dialysis Patients.)
+(See PRECAUTIONS, SpecialPopulations, Chronic Renal Failureand Dialysis Patients.)
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

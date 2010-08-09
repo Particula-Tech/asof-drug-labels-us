@@ -1,12 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070848"
+  ],
   "inn": "sucralfate",
-  "labeler": "Teva Pharmaceuticals USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-2210-01",
-    "0093-2210-05"
+    "0093-2210-05",
+    "0093-2210-19",
+    "0093-2210-93",
+    "0093-2210-98"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sucralfate",
+      "name": "Sucralfate"
+    }
+  ],
   "setid": "c7a43df7-eb37-4273-9250-87953b1fd270",
   "source": "dailymed"
 }

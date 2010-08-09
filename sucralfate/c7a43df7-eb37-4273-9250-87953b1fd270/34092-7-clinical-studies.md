@@ -37,9 +37,8 @@ Duodenal Ulcer Recurrence Rate (%)
 | Months of Therapy |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Drug | n | 1 | 2 | 3 | 4 |
-| Sucralfate | 122 | 20* | 30* | 38† | 42† |
+| Sucralfate | 122 | 20p < 0.05 | 30 | 38p < 0.01 | 42 |
 | Placebo | 117 | 33 | 46 | 55 | 63 |
-| * p < 0.05† p < 0.01 |  |  |  |  |  |
 
 In this study, prn antacids were not permitted.
 
@@ -51,9 +50,8 @@ Duodenal Ulcer Recurrence Rate (%)
 
 | Drug | n | 6 months | 12 months |
 | --- | --- | --- | --- |
-| Sucralfate | 48 | 19* | 27* |
+| Sucralfate | 48 | 19p < 0.002 | 27 |
 | Placebo | 46 | 54 | 65 |
-| * p < 0.002 |  |  |  |
 
 In this study, prn antacids were permitted.
 
