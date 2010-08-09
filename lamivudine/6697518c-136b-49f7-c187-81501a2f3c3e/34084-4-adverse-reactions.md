@@ -53,7 +53,7 @@ Pancreatitis was observed in 9 of the 2,613 adult patients (0.3%) who received E
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 
 Table 2.
-Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg/day plus RETROVIR 600 mg/day*
+Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of EPIVIR 300 mg/day plus RETROVIR 600 mg/daya
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR% (n) |
 | --- | --- |
@@ -67,7 +67,7 @@ Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Cl
 | ULN = Upper limit of normal. |  |
 | ANC = Absolute neutrophil count. |  |
 | n = Number of patients assessed. |  |
-| * Frequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline. |  |
+| a Frequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline. |  |
 
 ## 6.2 Postmarketing Experience
 

@@ -1,6 +1,6 @@
 # WARNING: HEMATOLOGIC TOXICITY, MYOPATHY, LACTIC ACIDOSIS, EXACERBATIONS OF HEPATITIS B
 
-Zidovudine, one of the 2 active ingredients in COMBIVIR®, has been associated with hematologic toxicity including neutropenia and anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
+Zidovudine, one of the 2 active ingredients in COMBIVIR® (lamivudine and zidovudine) Tablets, has been associated with hematologic toxicity including neutropenia and anemia, particularly in patients with advanced HIV-1 disease [see Warnings and Precautions (5.1)].
 
 Prolonged use of zidovudine has been associated with symptomatic myopathy [see Warnings and Precautions (5.2)].
 

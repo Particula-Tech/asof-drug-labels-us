@@ -48,7 +48,7 @@ In vitro studies have shown ribavirin can reduce the phosphorylation of pyrimidi
 Although no evidence of a pharmacokinetic or pharmacodynamic interaction (e.g., loss of HIV-1/HCV virologic suppression) was seen when ribavirin was coadministered with lamivudine or zidovudine in HIV-1/HCV co-infected patients [see Clinical Pharmacology (12.3)], hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
 Patients receiving interferon alfa with or without ribavirin and COMBIVIR should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 Discontinuation of COMBIVIR should be considered as medically appropriate.
-Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Childs Pugh greater than 6) (see the complete prescribing information for interferon and ribavirin).
+Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see the complete prescribing information for interferon and ribavirin).
 
 Exacerbation of anemia has been reported in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine.
 Co-administration of ribavirin and zidovudine is not advised.

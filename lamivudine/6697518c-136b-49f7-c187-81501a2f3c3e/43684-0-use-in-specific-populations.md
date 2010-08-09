@@ -45,7 +45,7 @@ Based on animal studies, lamivudine crosses the placenta and is transferred to t
 
 Zidovudine: Increased fetal resorptions occurred in pregnant rats and rabbits treated with doses of zidovudine that produced drug plasma concentrations 66 to 226 times (rats) and 12 to 87 times (rabbits) the mean steady-state peak human plasma concentration following a single 100-mg dose of zidovudine.
 There were no other reported developmental anomalies.
-In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily AUC in humans given 600 mg/day zidovudine).
+In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg/day zidovudine).
 This dose was associated with marked maternal toxicity and an increased incidence of fetal malformations.
 However, there were no signs of teratogenicity at doses up to one fifth the lethal dose [see Nonclinical Toxicology(13.2)].
 

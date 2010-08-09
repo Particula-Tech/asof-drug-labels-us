@@ -15,11 +15,11 @@ Results are summarized in Table 5.
 Table 5.
 Number of Patients (%) With At Least 1 HIV-1 Disease-Progression Event or Death
 
-| Endpoint | Current Therapy (n = 460) | EPIVIR plus Current Therapy(n = 896) | EPIVIR plus a NNRTI*plus Current Therapy (n = 460) |
+| Endpoint | Current Therapy (n = 460) | EPIVIR plus Current Therapy(n = 896) | EPIVIR plus a NNRTIaplus Current Therapy (n = 460) |
 | --- | --- | --- | --- |
 | HIV-1 progression or death | 90 (19.6%) | 86 (9.6%) | 41 (8.9%) |
 | Death | 27 (5.9%) | 23 (2.6%) | 14 (3.0%) |
-| * An investigational non-nucleoside reverse transcriptase inhibitor not approved in the United States. |  |  |  |
+| a An investigational non-nucleoside reverse transcriptase inhibitor not approved in the United States. |  |  |  |
 
 ## 14.2 Prevention of Maternal-Fetal HIV-1 Transmission
 

@@ -19,12 +19,15 @@ Patients should be advised of the importance of taking COMBIVIR exactly as it is
 COMBIVIR should not be coadministered with drugs containing lamivudine, zidovudine, or emtricitabine, including EPIVIR (lamivudine), EPIVIR-HBV (lamivudine), RETROVIR (zidovudine), EPZICOM (abacavir sulfate and lamivudine), TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine), ATRIPLA (efavirenz, emtricitabine, and tenofovir), EMTRIVA (emtricitabine), or TRUVADA (emtricitabine and tenofovir) [see Warnings and Precautions (5.5)].
 
 EPIVIR, EPIVIR-HBV, RETROVIR, EPZICOM, and TRIZIVIR are registered trademarks of GlaxoSmithKline.
-ATRIPLA, EMTRIVA, and TRUVADA are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+
+The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
 Lamivudine is manufactured under agreement from Shire Pharmaceuticals Group plc Basingstoke, UK
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+August 2010 CMB:2PI
