@@ -3,9 +3,7 @@
 No. 3870 — Tablets FOSAMAX PLUS D 70 mg/2800 IU are white to off-white, modified capsule-shaped tablets with code 710 on one side and an outline of a bone image on the other.
 They are supplied as follows:
 
-NDC 0006-0710-44 unit of use blister packages of 4
-
-NDC 0006-0710-21 unit dose packages of 20.
+NDC 0006-0710-44 unit of use blister packages of 4.
 
 No. 6746 — Tablets FOSAMAX PLUS D 70 mg/5600 IU are white to off-white, modified rectangle-shaped tablets with code 270 on one side and an outline of a bone image on the other.
 They are supplied as follows:
@@ -23,11 +21,11 @@ Store tablets in the original blister package until use.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MSD FROSST IBERICA, S.A.
+By: FROSST IBERICA, S.A.
 28805 Alcalá de Henares Madrid, Spain
 
-Issued March 2010
+Issued June 2010
 
-9664508
+9664509
 
 1Registered Trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2005, 2007 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

@@ -237,9 +237,9 @@ Rx only
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MSD FROSST IBERICA, S.A.
+By: FROSST IBERICA, S.A.
 28805 Alcalá de Henares Madrid, Spain
 
-Issued March 2010
+Issued June 2010
 
-9664508
+9664509

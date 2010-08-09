@@ -8,7 +8,7 @@ FOSAMAX
 
 FOSAMAX has been evaluated for safety in approximately 8000 postmenopausal women in clinical studies.
 
-Postmenopausal women
+Postmenopausal Women
 
 FOSAMAX daily
 
@@ -34,7 +34,7 @@ The adverse experience profile was similar for the 401 patients treated with eit
 The adverse experience profile for the 296 patients who received continued treatment with either 5- or 10-mg doses of FOSAMAX in the two-year extension of these studies (treatment years 4 and 5) was similar to that observed during the three-year placebo-controlled period.
 During the extension period, of the 151 patients treated with FOSAMAX 10 mg/day, the proportion of patients who discontinued therapy due to any clinical adverse experience was similar to that during the first three years of the study.
 
-FOSAMAX once-weekly
+FOSAMAX Once-Weekly
 
 In a one-year, double-blind, multicenter study, the overall safety and tolerability profiles of once weekly FOSAMAX 70 mg and FOSAMAX 10 mg daily were similar.
 The adverse experiences considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients in either treatment group are presented in Table 2.
@@ -46,7 +46,7 @@ Table 2: Osteoporosis Treatment Studies in Postmenopausal Women: Adverse Experie
 | Gastrointestinal abdominal pain dyspepsia acid regurgitation nausea abdominal distention constipation flatulence gastritis gastric ulcer | 3.7 2.7 1.9 1.9 1.0 0.8 0.4 0.2 0.0 | 3.0 2.2 2.4 2.4 1.4 1.6 1.6 1.1 1.1 |
 | Musculoskeletal musculoskeletal (bone, muscle, joint) pain muscle cramp | 2.9 0.2 | 3.2 1.1 |
 
-Concomitant use with estrogen or estrogen/progestin products
+Concomitant Use With Estrogen or Estrogen/Progestin Products
 
 In two studies (of one and two years’ duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with FOSAMAX 10 mg once daily and estrogen ± progestin (n=354) was consistent with those of the individual treatments.
 

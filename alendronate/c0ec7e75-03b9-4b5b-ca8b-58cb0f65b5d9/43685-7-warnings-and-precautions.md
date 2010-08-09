@@ -5,14 +5,14 @@
 FOSAMAX PLUS D, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
 Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when FOSAMAX PLUS D is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis, or ulcers).
 
-Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral biphosphonates including FOSAMAX PLUS D. In some cases these have been severe and required hospitalization.
+Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates including FOSAMAX PLUS D. In some cases these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue FOSAMAX PLUS D and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral biphosphonates including FOSAMAX PLUS D and/or who fail to swallow oral biphosphonates including FOSAMAX PLUS D with the recommended full glass (6-8 oz) of water, and/or who continue to take oral biphosphonates including FOSAMAX PLUS D after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including FOSAMAX PLUS D and/or who fail to swallow oral bisphosphonates including FOSAMAX PLUS D with the recommended full glass (6-8 oz) of water, and/or who continue to take oral bisphosphonates including FOSAMAX PLUS D after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2.3)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with FOSAMAX PLUS D should be used under appropriate supervision.
 
-There have been post-marketing reports of gastric and duodenal ulcers with oral biphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
+There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials [see Adverse Reactions (6.2)].
 
 ## 5.2 Mineral Metabolism
 

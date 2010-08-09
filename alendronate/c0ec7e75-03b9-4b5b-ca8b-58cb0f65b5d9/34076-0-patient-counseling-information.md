@@ -4,7 +4,7 @@
 
 Physicians should instruct their patients to read the patient package insert before starting therapy with FOSAMAX PLUS D and to reread it each time the prescription is renewed.
 
-## 17.1 Osteoporosis Recommendations, including Calcium and Vitamin D Supplementation
+## 17.1 Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation
 
 Patients should be instructed to take supplemental calcium if intake is inadequate.
 Patients at increased risk for vitamin D insufficiency (e.g., over the age of 70 years, nursing home bound, or chronically ill) should be instructed to take additional vitamin D if needed [see Dosage and Administration (2.3)].

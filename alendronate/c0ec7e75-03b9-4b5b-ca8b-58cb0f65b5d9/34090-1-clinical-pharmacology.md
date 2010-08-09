@@ -51,7 +51,7 @@ No further decreases in serum calcium were observed for the five-year duration o
 In one-year studies with once weekly FOSAMAX 70 mg, similar reductions were observed at 6 and 12 months.
 The reduction in serum phosphate may reflect not only the positive bone mineral balance due to FOSAMAX but also a decrease in renal phosphate reabsorption.
 
-Osteoporosis in men
+Osteoporosis in Men
 
 Treatment of men with osteoporosis with FOSAMAX 10 mg/day for two years reduced urinary excretion of cross-linked N-telopeptides of type I collagen by approximately 60% and bone-specific alkaline phosphatase by approximately 40%.
 Similar reductions were observed in a one-year study in men with osteoporosis receiving once weekly FOSAMAX 70 mg.
@@ -90,7 +90,7 @@ Table 5: 25-hydroxyvitamin D Levels after Treatment with FOSAMAX PLUS D at Week 
 |  | Number (%) of Patients |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 25-hydroxyvitamin D Ranges (ng/mL) | <9 | 9-14 | 15-19 | 20-24 | 25-29 | 30-59 |
-| FOSAMAX PLUS D (Vitamin D3 5600 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for the 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and 2800 IU additional vitamin D3 for the 24-week extension study. (-N=321) | 0 | 10 (3.1) | 29 (9.0) | 79 (24.6) | 87 (27.1) | 116 (36.1) |
+| FOSAMAX PLUS D (Vitamin D3 5600 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for the 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and 2800 IU additional vitamin D3 for the 24-week extension study. (N=321) | 0 | 10 (3.1) | 29 (9.0) | 79 (24.6) | 87 (27.1) | 116 (36.1) |
 | FOSAMAX PLUS D (Vitamin D3 2800 IU group)Patients received FOSAMAX 70 mg or FOSAMAX PLUS D (70 mg/2800 IU) for 15-week base study followed by FOSAMAX PLUS D (70 mg/2800 IU) and placebo for the additional vitamin D3 for 24-week extension study. (N=320) | 1 (0.3) | 17 (5.3) | 56 (17.5) | 80 (25.0) | 74 (23.1) | 92 (28.8) |
 
 ## 12.3 Pharmacokinetics
