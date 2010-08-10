@@ -2,7 +2,7 @@
 
 ## 1.1 Short-Term Treatment of Active Duodenal Ulcer
 
-PREVACID® is indicated for short-term treatment (for 4 weeks) for healing and symptom relief of active duodenal ulcer [see Clinical Studies (14)].
+PREVACID is indicated for short-term treatment (for 4 weeks) for healing and symptom relief of active duodenal ulcer [see Clinical Studies (14)].
 
 ## 1.2 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
@@ -48,7 +48,6 @@ PREVACID is indicated for the treatment of heartburn and other symptoms associat
 Short-Term Treatment of Erosive Esophagitis
 
 PREVACID is indicated for short-term treatment (up to 8 weeks) for healing and symptom relief of all grades of erosive esophagitis.
-
 For patients who do not heal with PREVACID for 8 weeks (5 to 10%), it may be helpful to give an additional 8 weeks of treatment.
 If there is a recurrence of erosive esophagitis an additional 8-week course of PREVACID may be considered [see Clinical Studies (14)].
 

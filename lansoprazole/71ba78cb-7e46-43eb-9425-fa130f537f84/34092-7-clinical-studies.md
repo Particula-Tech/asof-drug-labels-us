@@ -49,23 +49,19 @@ Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer rec
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of PREVACID triple therapy for 10 and 14 days.
 This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 11 and 12) [see Indications and Usage (1.2)].
 
-Table 11 H. pylori Eradication Rates – Triple Therapy
-
-| Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | --- | --- | --- | --- |
-| (PREVACID/amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |  |
+| Table 11 H. pylori Eradication Rates – Triple Therapy (PREVACID/amoxicillin/clarithromycin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |  |
 | M93-131 | 14 days | 92(p<0.05) versus PREVACID/amoxicillin and PREVACID/clarithromycin dual therapy. [80.0-97.7] (N=48) | 86 [73.3-93.5] (N=55) |
 | M95-392 | 14 days | 86(p<0.05) versus clarithromycin/amoxicillin dual therapy. [75.7-93.6] (N=66) | 83 [72.0-90.8] (N=70) |
 | M95-399The 95% confidence interval for the difference in eradication rates, 10-day minus 14-day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85 [77.0-91.0] (N=113) | 82 [73.9-88.1] (N=126) |
 | 10 days | 84 [76.0-89.8] (N=123) | 81 [73.9-87.6] (N=135) |  |
 
-Table 12 H. pylori Eradication Rates – 14-Day Dual Therapy
-
-| Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |  |
-| --- | --- | --- | --- |
-| (PREVACID/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |  |
-| M93-131 | 77(p<0.05) versus PREVACID alone. [62.5-87.2] (N=51) | 70 [56.8-81.2] (N=60) |  |
-| M93-125 | 66(p<0.05) versus PREVACID alone or amoxicillin alone. [51.9-77.5] (N=58) | 61 [48.5-72.9] (N=67) |  |
+| Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| --- | --- | --- |
+| Table 12 H. pylori Eradication Rates – 14-Day Dual Therapy (PREVACID/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |
+| M93-131 | 77(p<0.05) versus PREVACID alone. [62.5-87.2] (N=51) | 70 [56.8-81.2] (N=60) |
+| M93-125 | 66(p<0.05) versus PREVACID alone or amoxicillin alone. [51.9-77.5] (N=58) | 61 [48.5-72.9] (N=67) |
 
 Long-Term Maintenance Treatment of Duodenal Ulcers
 
@@ -139,11 +135,11 @@ Table 16: Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table 
 | Week | (N=121) | (N=116) | (N=106) | (N=112) |
 | --- | --- | --- | --- | --- |
 |  | PREVACID | PREVACID | Misoprostol |  |
-|  | 15 mg daily | 30 mg daily | 200 mcg q.i.d. | Placebo |
+|  | 15 mg daily | 30 mg daily | 200 mcg four times daily | Placebo |
 | 4 | 90% | 92% | 96% | 66% |
 | 8 | 86% | 88% | 95% | 60% |
 | 12 | 80% | 82% | 93% | 51% |
-| (p<0.001) PREVACID 15 mg daily versus placebo; PREVACID 30 mg daily versus placebo; and misoprostol 200 mcg q.i.d. versus placebo. (p<0.05) Misoprostol 200 mcg q.i.d. versus PREVACID 15 mg daily; and misoprostol 200 mcg q.i.d. versus PREVACID 30 mg daily. |  |  |  |  |
+| (p<0.001) PREVACID 15 mg daily versus placebo; PREVACID 30 mg daily versus placebo; and misoprostol 200 mcg four times daily versus placebo. (p<0.05) Misoprostol 200 mcg four times daily versus PREVACID 15 mg daily; and misoprostol 200 mcg four times daily versus PREVACID 30 mg daily. |  |  |  |  |
 
 Gastroesophageal Reflux Disease (GERD)
 
@@ -191,7 +187,6 @@ Table 18: Erosive Esophagitis Healing Rates
 | 8 | 90.9% | 95.4% | 94.4% | 52.5% |
 
 In this study, all PREVACID groups reported significantly greater relief of heartburn and less day and night abdominal pain along with fewer days of antacid use and fewer antacid tablets taken per day than the placebo group.
-
 Although all doses were effective, the earlier healing in the higher two doses suggests 30 mg daily as the recommended dose.
 
 PREVACID was also compared in a U.S. multicenter, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
@@ -208,12 +203,11 @@ Table 19: Erosive Esophagitis Healing Rates
 
 In addition, patients treated with PREVACID reported less day and nighttime heartburn and took less antacid tablets for fewer days than patients taking ranitidine 150 mg twice daily.
 
-Although this study demonstrates effectiveness of PREVACID in healing erosive esophagitis, it does not represent an adequate comparison with ranitidine because the recommended ranitidine dose for esophagitis is 150 mg q.i.d., twice the dose used in this study.
+Although this study demonstrates effectiveness of PREVACID in healing erosive esophagitis, it does not represent an adequate comparison with ranitidine because the recommended ranitidine dose for esophagitis is 150 mg four times daily, twice the dose used in this study.
 
 In the two trials described and in several smaller studies involving patients with moderate to severe erosive esophagitis, PREVACID produced healing rates similar to those shown above.
 
 In a U.S. multicenter, double-blind, active-controlled study, 30 mg of PREVACID was compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
-
 PREVACID 30 mg was more effective than ranitidine 150 mg twice daily in healing reflux esophagitis, and the percentage of patients with healing were as follows.
 This study does not constitute a comparison of the effectiveness of histamine H2-receptor antagonists with PREVACID, as all patients had demonstrated unresponsiveness to the histamine H2-receptor antagonist mode of treatment.
 It does indicate, however, that PREVACID may be useful in patients failing on a histamine H2-receptor antagonist (Table 20) [see Indications and Usage (1.7)].

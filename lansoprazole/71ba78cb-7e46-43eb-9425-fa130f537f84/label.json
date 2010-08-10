@@ -6,14 +6,18 @@
   "inn": "lansoprazole",
   "labeler": "Takeda Pharmaceuticals America, Inc.",
   "package_ndcs": [
+    "64764-046-06",
     "64764-046-11",
-    "64764-046-13",
     "64764-046-19",
+    "64764-046-30",
+    "64764-541-05",
     "64764-541-11",
     "64764-541-19",
     "64764-541-30",
+    "64764-543-05",
     "64764-543-11",
     "64764-543-30",
+    "64764-544-05",
     "64764-544-11",
     "64764-544-30"
   ],
@@ -26,7 +30,7 @@
     {
       "form": "TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE",
       "generic": "lansoprazole",
-      "name": "Prevacid"
+      "name": "Prevacid SoluTab"
     }
   ],
   "setid": "71ba78cb-7e46-43eb-9425-fa130f537f84",

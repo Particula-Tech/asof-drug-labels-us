@@ -48,12 +48,12 @@ However, consider dose adjustment in patients with severe liver impairment [see 
 
 Administration Options
 
-PREVACID Delayed-Release Capsules - Oral Administration
+PREVACID Delayed-Release Capsules – Oral Administration
 
 - PREVACID Delayed-Release Capsules should be swallowed whole.
 - Alternatively, for patients who have difficulty swallowing capsules, PREVACID Delayed-Release Capsules can be opened and administered as follows:
   - Open capsule.
-  - Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+  - Sprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   - Swallow immediately.
 - PREVACID Delayed-Release Capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
   - Open capsule.
@@ -62,7 +62,7 @@ PREVACID Delayed-Release Capsules - Oral Administration
   - Swallow immediately.
   - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
-PREVACID Delayed-Release Capsules - Nasogastric Tube (≥16 French) Administration
+PREVACID Delayed-Release Capsules – Nasogastric Tube (≥16 French) Administration
 
 - For patients who have a nasogastric tube in place, PREVACID Delayed-Release Capsules can be administered as follows:
   - Open capsule.
@@ -81,7 +81,7 @@ PREVACID SoluTab™ Delayed-Release Orally Disintegrating Tablets
   - The tablet typically disintegrates in less than 1 minute.
   - Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be delivered in two different ways.
     PREVACID SoluTab – Oral Syringe For administration via oral syringe, PREVACID SoluTab can be administered as follows: PREVACID SoluTab – Nasogastric Tube (≥ 8 French) Administration For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
-    - Place a 15 mg tablet in oral syringe and draw up approximately 4 mL of water, or place a 30 mg tablet in oral syringe and draw up approximately 10 mL of water.
+    - Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
     - Shake gently to allow for a quick dispersal.
     - After the tablet has dispersed, administer the contents within 15 minutes.
     - Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
