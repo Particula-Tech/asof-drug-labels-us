@@ -21,7 +21,10 @@ Active or recent (within past year) arterial thromboembolic disease (for example
 Liver dysfunction or disease.
 
 7.
-Known hypersensitivity to any of the ingredients in Premarin Intravenous for injection.
+Known thrombophilic disorders (e.g., protein C, protein S, or antitrhombin deficiency).
 
 8.
+Known hypersensitivity to any of the ingredients in Premarin Intravenous for injection.
+
+9.
 Known or suspected pregnancy.

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA010402"
+  ],
   "inn": "estrogens-conjugated",
-  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "labeler": "Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",
   "package_ndcs": [
     "0046-0749-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "conjugated estrogens",
+      "name": "Premarin"
+    }
+  ],
   "setid": "87e2da8d-432c-4ed5-67a1-dc26294b2295",
   "source": "dailymed"
 }

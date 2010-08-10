@@ -20,7 +20,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN ALONE SUBSTUDY OF WHI
 | Non-fatal MIb | 0.91 (0.73-1.14) | 43 | 41 |
 | CHD deathb | 1.01 (0.71-1.43) | 16 | 16 |
 | Strokeb | 1.37 (1.09-1.73) | 33 | 45 |
-| Ischemicb | 1.55 (1.19-2.01) | 25 | 38 |
+| Ischemic b | 1.55 (1.19-2.01) | 25 | 38 |
 | Deep vein thrombosisb,d | 1.47 (1.06-2.06) | 15 | 23 |
 | Pulmonary embolismb | 1.37 (0.90-2.07) | 10 | 14 |
 | Invasive breast cancerb | 0.80 (0.62-1.04) | 34 | 28 |
@@ -31,7 +31,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN ALONE SUBSTUDY OF WHI
 | Death due to other causesc,e | 1.08 (0.88-1.32) | 50 | 53 |
 | Overall mortalityc,d | 1.04 (0.88-1.22) | 78 | 81 |
 | Global Indexc,f | 1.01 (0.91-1.12) | 190 | 192 |
-| aNominal confidence intervals unadjusted for multiple looks and multiple comparisons. bResults are based on centrally adjudicated data for an average follow-up of 7.1 years. cResults are based on an average follow-up of 6.8 years. dNot included in Global Index. eAll deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. fA subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| aNominal confidence intervals unadjusted for multiple looks and multiple comparisons.bResults are based on centrally adjudicated data for an average follow-up of 7.1 years.cResults are based on an average follow-up of 6.8 years.dNot included in Global Index.eAll deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease.fA subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE alone were 12 more strokes while the absolute risk reduction per 10,000 women-years was 6 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was a nonsignificant 2 events per 10,000 women-years.
@@ -45,7 +45,7 @@ Estrogen alone increased the risk of ischemic stroke, and this excess was presen
 
 The estrogen plus progestin substudy was also stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.2 years of treatment, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
-The absolute excess risk of events included in the“global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent nCI 1.03-1.28).
+The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent nCI 1.03-1.28).
 
 For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures.
 (See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.)
@@ -74,7 +74,7 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI A
 | Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
 | Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18). b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI 0.82-1.18).b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.c Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
 
 ## Women's Health Initiative Memory Study
 
