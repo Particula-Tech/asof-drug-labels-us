@@ -59,7 +59,7 @@ Discard any unused medicine.
 Patients should be counseled that antibacterial drugs, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Amoxicillin and Clavulanate Potassium 600 mg/42.9 mg per 5 mL is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin and clavulanate potassium for oral suspension, or other antibacterial drugs in the future.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, or other antibacterial drugs in the future.
 
 ## Phenylketonurics
 

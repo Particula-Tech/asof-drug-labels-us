@@ -53,3 +53,5 @@ Agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, insom
 Tooth discoloration (brown, yellow, or gray staining) has been rarely reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL is an oral antibacterial combination consisting of the semisynthetic antibiotic amoxicillin and the "ß-lactamase inhibitor, clavulanate potassium (the potassium salt of clavulanic acid).
+Amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL is an oral antibacterial combination consisting of the semisynthetic antibiotic amoxicillin and the ß-lactamase inhibitor, clavulanate potassium (the potassium salt of clavulanic acid).
 Amoxicillin is an analog of ampicillin, derived from the basic penicillin nucleus, 6-aminopenicillanic acid.
 The amoxicillin molecular formula is C16H19N3O5S•3H2O, and the molecular weight is 419.46.
 Chemically, amoxicillin is (2S,5R,6R)-6-[(R)-(-)-2-Amino-2-(p-hydroxyphenyl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid trihydrate and may be represented structurally as:
@@ -14,5 +14,7 @@ Chemically, clavulanate potassium is potassium (Z)-(2R,5R)-3-(2-hydroxyethyliden
 Inactive Ingredients: Powder for Oral Suspension— Aspartame, colloidal silicon dioxide, hypromellose, orange powder flavor, silicon dioxide, succinic acid, xanthan gum.
 
 - See PRECAUTIONS–Information for the Patient/Phenylketonurics.
+
+Each 5 mL of reconstituted suspension contains 600 mg amoxicillin as the trihydrate and 42.9 mg clavulanic acid as the potassium salt (clavulanate potassium).
 
 Each 5 mL of reconstituted amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL contains 0.248 mEq potassium.

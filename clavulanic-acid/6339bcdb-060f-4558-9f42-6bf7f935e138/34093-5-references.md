@@ -10,13 +10,11 @@
    Vet Hum Toxicol.
    1988;30:66-67.
 
-CLINITEST is a registered trademark of Miles, Inc.
+CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
 
-CLINISTIX is a registered trademark of Bayer Corporation.
-
-West-ward Pharmaceutical Corp. Eatontown, NJ 07724 – USA Distributor
+Distributed by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 – USA
 
 Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised: May 2009
+Revised: August 2010
