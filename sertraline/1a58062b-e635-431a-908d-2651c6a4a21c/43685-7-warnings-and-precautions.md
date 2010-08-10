@@ -170,7 +170,7 @@ While there have been reports of abnormal bleeding or purpura in several patient
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sertraline hydrochloride and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions: is available for sertraline hydrochloride.
+A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions: is available for sertraline hydrochloride.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -379,11 +379,10 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+Exposure during late pregnancy to SSRIs may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+A study of 831,324 infants born in Sweden in 1997–2005 found a PPHN risk ratio of 2.4 (95% CI 1.2–4.3) associated with patient-reported maternal use of SSRIs "in early pregnancy" and a PPHN risk ratio of 3.6 (95% CI 1.2–8.3) associated with a combination of patient-reported maternal use of SSRIs "in early pregnancy" and an antenatal SSRI prescription "in later pregnancy."
 
 When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
