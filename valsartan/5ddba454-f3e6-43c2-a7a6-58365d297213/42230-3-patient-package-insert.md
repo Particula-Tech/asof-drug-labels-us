@@ -192,7 +192,7 @@ Active ingredient: valsartan
 
 Inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, iron oxides (yellow, black and/or red), magnesium stearate, microcrystalline cellulose, polyethylene glycol 8000, and titanium dioxide
 
-REV: DECEMBER 2008 T2008-108/T2007-110
+T2010-13/T2007-110
 
 Distributed by:
 
