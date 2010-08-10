@@ -1,14 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020870"
+  ],
   "inn": "norethindrone",
-  "labeler": "Novartis Pharmaceuticals Corp.",
+  "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0377-42",
     "0078-0377-45",
+    "0078-0377-62",
     "0078-0378-42",
-    "0078-0378-45"
+    "0078-0378-45",
+    "0078-0378-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "estradiol and norethindrone acetate",
+      "name": "CombiPatch"
+    }
+  ],
   "setid": "8fab92c2-5827-4c62-a4f6-4f2547dc5233",
   "source": "dailymed"
 }

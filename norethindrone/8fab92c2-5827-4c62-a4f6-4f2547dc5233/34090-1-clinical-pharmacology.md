@@ -123,19 +123,13 @@ Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flu
 | Number of Hot Flushes3 | -9.35 | -8.95 | -6.2 |
 | Daily Intensity of Hot Flushes3,4 | -4.65,6 | -5.05 | -2.87 |
 
-1 Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA).
-
-2 Represents the milligrams of estradiol/norethindrone acetate delivered daily by each system.
-
-3 Population represents those patients who had baseline and endpoint observations.
-
-4 The intensity of hot flushes was evaluated on a scale of 0 to 9 (none = 0, mild = 1-3, moderate = 4-6, severe = 7-9).
-
-5 P value versus placebo = <0.001.
-
-6 Total number of patients with available data is 56.
-
-7 Total number of patients with available data is 50.
+1. Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA).
+2. Represents the milligrams of estradiol/norethindrone acetate delivered daily by each system.
+3. Population represents those patients who had baseline and endpoint observations.
+4. The intensity of hot flushes was evaluated on a scale of 0 to 9 (none = 0, mild = 1-3, moderate = 4-6, severe = 7-9).
+5. P value versus placebo = <0.001.
+6. Total number of patients with available data is 56.
+7. Total number of patients with available data is 50.
 
 Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flushes per Day in CombiPatch® Continuous Sequential Transdermal Therapy
 
@@ -145,15 +139,11 @@ Adjusted Mean Change in the Number of Hot Flushes and Daily Intensity of Hot Flu
 | Number of Hot Flushes3 | -9.35 | -9.55 | -5.5 |
 | Daily Intensity of Hot Flushes3,4 | -4.45 | -4.55 | -2.1 |
 
-1 Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA).
-
-2 Represents the milligrams of estradiol/norethindrone acetate delivered daily by each system.
-
-3 Population represents those patients who had baseline and endpoint observations.
-
-4 The intensity of hot flushes was evaluated on a scale of 0 to 9 (none = 0, mild = 1-3, moderate = 4-6, severe = 7-9).
-
-5 P value versus placebo = <0.001.
+1. Means were adjusted for imbalance among treatment groups and investigators (least squares mean from ANOVA).
+2. Represents the milligrams of estradiol/norethindrone acetate delivered daily by each system.
+3. Population represents those patients who had baseline and endpoint observations.
+4. The intensity of hot flushes was evaluated on a scale of 0 to 9 (none = 0, mild = 1-3, moderate = 4-6, severe = 7-9).
+5. P value versus placebo = <0.001.
 
 ### Effects on the Edometrium
 
@@ -176,15 +166,11 @@ Incidence of Endometrial Hyperplasia in a Continuous Combined CombiPatch® Regim
 | No. of Patients with Biopsies2 | 123 | 98 | 103 |
 | No. (%) of Patients with Hyperplasia | 1 (<1%)3 | 1 (1%)3,4 | 39 (38%)5 |
 
-1 Represents milligrams of estradiol/NETA delivered daily by each system.
-
-2 Biopsy after 12 cycles of treatment or hyperplasia before cycle 12.
-
-3 Comparison of continuous combined regimen versus estradiol-only patch was significant (p value <0.001).
-
-4 This patient had hyperplasia at baseline.
-
-5 One of 39 patients had hyperplasia in an endometrial polyp.
+1. Represents milligrams of estradiol/NETA delivered daily by each system.
+2. Biopsy after 12 cycles of treatment or hyperplasia before cycle 12.
+3. Comparison of continuous combined regimen versus estradiol-only patch was significant (p value <0.001).
+4. This patient had hyperplasia at baseline.
+5. One of 39 patients had hyperplasia in an endometrial polyp.
 
 Incidence of Endometrial Hyperplasia in a Continuous Sequential CombiPatch® Regimen
 
@@ -194,15 +180,11 @@ Incidence of Endometrial Hyperplasia in a Continuous Sequential CombiPatch® Reg
 | No. of Patients with Biopsies2 | 117 | 114 | 115 |
 | No. (%) of Patients with Hyperplasia | 1 (<1%)3,4 | 1 (<1%)3,5 | 23 (20%) |
 
-1 Represents milligrams of estradiol/NETA delivered daily by each system.
-
-2 Biopsy after 12 cycles of treatment or hyperplasia before cycle 12.
-
-3 Comparison of continuous sequential regimen versus estradiol-only patch was significant (p value <0.001).
-
-4 This patient had hyperplasia at baseline.
-
-5 This patient had hyperplasia in an endometrial polyp.
+1. Represents milligrams of estradiol/NETA delivered daily by each system.
+2. Biopsy after 12 cycles of treatment or hyperplasia before cycle 12.
+3. Comparison of continuous sequential regimen versus estradiol-only patch was significant (p value <0.001).
+4. This patient had hyperplasia at baseline.
+5. This patient had hyperplasia in an endometrial polyp.
 
 ### Effects on Uterine Bleeding or Spotting
 
@@ -237,15 +219,11 @@ Lipid Profile Values, Adjusted Mean Percent Change from Baseline After One Year 
 | LDL-C | -4.6%4 | -7.6%5 | -3.4% |
 | Triglycerides | -4.6% | -9.5% | -6.7% |
 
-1 Represents milligrams of estradiol/NETA delivered daily by each system.
-
-2 Comparison with estradiol-only patch was significant (p <0.05).
-
-3 Comparison with estradiol-only patch was significant (p <0.001).
-
-4 Total number of patients with available data is 121.
-
-5 Total number of patients with available data is 97.
+1. Represents milligrams of estradiol/NETA delivered daily by each system.
+2. Comparison with estradiol-only patch was significant (p <0.05).
+3. Comparison with estradiol-only patch was significant (p <0.001).
+4. Total number of patients with available data is 121.
+5. Total number of patients with available data is 97.
 
 Lipid Profile Values, Adjusted Mean Percent Change from Baseline After One Year of Continuous Sequential CombiPatch® Transdermal Therapy
 
@@ -257,17 +235,12 @@ Lipid Profile Values, Adjusted Mean Percent Change from Baseline After One Year 
 | LDL-C | -1.2%4 | -6.8%2,5 | -2.0%6 |
 | Triglycerides | -8.2%3 | -14.1%3 | +13.2% |
 
-1 Represents milligrams of estradiol/NETA delivered daily by each system.
-
-2 Comparison with estradiol-only patch was significant (p <0.05).
-
-3 Comparison with estradiol-only patch was significant (p <0.001).
-
-4 Total number of patients with available data is 116.
-
-5 Total number of patients with available data is 114.
-
-6 Total number of patients with available data is 103.
+1. Represents milligrams of estradiol/NETA delivered daily by each system.
+2. Comparison with estradiol-only patch was significant (p <0.05).
+3. Comparison with estradiol-only patch was significant (p <0.001).
+4. Total number of patients with available data is 116.
+5. Total number of patients with available data is 114.
+6. Total number of patients with available data is 103.
 
 ## Women’s Health Initiative Studies
 

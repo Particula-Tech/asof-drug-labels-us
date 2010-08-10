@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-## CombiPatch®
+CombiPatch®
 
 (estradiol/norethindrone acetate transdermal system)
 
@@ -29,23 +29,18 @@ What is CombiPatch used for?
 CombiPatch is used after menopause to:
 
 - Reduce moderate to severe hot flashes.
-
-Estrogens are hormones made by a woman’s ovaries.
-The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
-This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
-Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-The sudden drop in estrogen levels causes “surgical menopause.”
-
-When estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
-In some women the symptoms are mild, and they will not need estrogens.
-In other women, symptoms can be more severe.
-You and your health care provider should talk regularly about whether you still need treatment with CombiPatch.
-
+  Estrogens are hormones made by a woman’s ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
+  This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
+  Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+  The sudden drop in estrogen levels causes “surgical menopause.”
+  When estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  In some women the symptoms are mild, and they will not need estrogens.
+  In other women, symptoms can be more severe.
+  You and your health care provider should talk regularly about whether you still need treatment with CombiPatch.
 - Treat moderate to severe dryness, itching and burning in or around the vagina.
-
-You and your health care provider should talk regularly about whether you still need treatment with CombiPatch to control these problems.
-If you use CombiPatch only to treat your dryness, itching, and burning in and around your vagina, talk with your health care provider about whether a topical vaginal product would be better for you.
-
+  You and your health care provider should talk regularly about whether you still need treatment with CombiPatch to control these problems.
+  If you use CombiPatch only to treat your dryness, itching, and burning in and around your vagina, talk with your health care provider about whether a topical vaginal product would be better for you.
 - Treat certain conditions in which a young woman’s ovaries do not produce enough estrogens naturally.
 
 Who should not use CombiPatch?
@@ -138,6 +133,12 @@ Can you wear CombiPatch when bathing, swimming, or in the sun?
   Make sure that the patch does not loosen during these activities.
 - The patch should not be exposed to the sun for long periods of time.
   Once in place, make sure that the patch is covered by your clothing (but remember not to apply CombiPatch on or near your breasts).
+- Talk with your health care provider regularly about whether you should continue using CombiPatch.
+- See your health care provider right away if you get vaginal bleeding while using CombiPatch.
+- Have a breast exam and mammogram (breast X-ray) every year unless your health care provider tells you something else.
+  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+  Ask your health care provider for ways to lower your chances for getting heart disease.
 
 What should you do if CombiPatch comes off?
 
@@ -222,13 +223,6 @@ Other side effects of CombiPatch are possible.
 For more information, ask your health care provider or pharmacist.
 
 What can you do to lower your chances of a serious side effect with CombiPatch?
-
-- Talk with your health care provider regularly about whether you should continue using CombiPatch.
-- See your health care provider right away if you get vaginal bleeding while using CombiPatch.
-- Have a breast exam and mammogram (breast X-ray) every year unless your health care provider tells you something else.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
-- If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-  Ask your health care provider for ways to lower your chances for getting heart disease.
 
 General information about the safe and effective use of CombiPatch
 

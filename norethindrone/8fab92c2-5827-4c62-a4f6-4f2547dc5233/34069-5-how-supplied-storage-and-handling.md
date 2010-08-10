@@ -2,12 +2,12 @@
 
 CombiPatch® estradiol/norethindrone acetate transdermal delivery system is available in:
 
-| System Size | Nominal Delivery Rate* Estradiol/Norethindrone Acetate | Presentation | NDC | Markings |
-| --- | --- | --- | --- | --- |
-| 9 sq cm | 0.05/0.14 mg per day | 8 systems per carton | 0078-0377-42 | CombiPatch 0.05/0.14 mg per day |
-|  |  | Cartons of 3 patient packs of 8 systems | 0078-0377-45 |  |
-| 16 sq cm | 0.05/0.25 mg per day | 8 systems per carton | 0078-0378-42 | CombiPatch 0.05/0.25 mg per day |
-|  |  | Cartons of 3 patient packs of 8 systems | 0078-0378-45 |  |
+| System Size | Nominal Delivery Rate* Estradiol/Norethindrone Acetate |  | Presentation | NDC | Markings |
+| --- | --- | --- | --- | --- | --- |
+| 9 sq cm |  | 0.05/0.14 mg per day | 8 systems per carton | 0078-0377-42 | CombiPatch 0.05/0.14 mg per day |
+|  |  |  | Cartons of 3 patient packs of 8 systems | 0078-0377-45 |  |
+| 16 sq cm |  | 0.05/0.25 mg per day | 8 systems per carton | 0078-0378-42 | CombiPatch 0.05/0.25 mg per day |
+|  |  |  | Cartons of 3 patient packs of 8 systems | 0078-0378-45 |  |
 
 *Nominal delivery rate described.
 See DESCRIPTION for more details regarding drug delivery.
