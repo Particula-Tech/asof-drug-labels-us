@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA013601"
+  ],
   "inn": "acetylcysteine",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Bristol-Myers Squibb Company",
   "package_ndcs": [
     "0087-0570-03",
     "0087-0570-07",
@@ -10,7 +12,13 @@
     "0087-0572-02",
     "0087-0572-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "acetylcysteine",
+      "name": "Mucomyst"
+    }
+  ],
   "setid": "d2dc24f3-3ad7-4c6c-8e9f-7202d9a146f7",
   "source": "dailymed"
 }
