@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076736"
+  ],
+  "inn": "fluconazole",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9899-01",
+    "0143-9899-91"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluconzaole",
+      "name": "Fluconazole"
+    }
+  ],
+  "setid": "d3ca59bd-ae00-48ab-89aa-87c7f56e9989",
+  "source": "dailymed"
+}
