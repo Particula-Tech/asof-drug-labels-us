@@ -1,5 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-PULMICORT RESPULES is contraindicated as the primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required.
+The use of PULMICORT RESPULES is contraindicated in the following conditions:
 
-Hypersensitivity to budesonide or any of the ingredients of this preparation contraindicates the use of PULMICORT RESPULES.
+· Primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required.
+
+· Hypersensitivity to budesonide or any of the ingredients of PULMICORT RESPULES [see Warnings and Precautions (5.3),Description (11) and Adverse Reactions, Post-marketing Experience (6.2)].

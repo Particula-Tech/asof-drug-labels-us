@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Budesonide, the active component of PULMICORT RESPULES®, is a corticosteroid designated chemically as (RS)-11β, 16α, 17, 21-tetrahydroxypregna-1, 4-diene-3, 20-dione cyclic 16, 17-acetal with butyraldehyde.
 Budesonide is provided as a mixture of two epimers (22R and 22S).
@@ -13,4 +13,4 @@ Three dose strengths are available in single-dose ampules (Respules™ ampules):
 For PULMICORT RESPULES, like all other nebulized treatments, the amount delivered to the lungs will depend on patient factors, the jet nebulizer utilized, and compressor performance.
 Using the Pari-LC-Jet Plus Nebulizer/Pari Master compressor system, under in vitro conditions, the mean delivered dose at the mouthpiece (% nominal dose) was approximately 17% at a mean flow rate of 5.5 L/min.
 The mean nebulization time was 5 minutes or less.
-PULMICORT RESPULES should be administered from jet nebulizers at adequate flow rates, via face masks or mouthpieces (see DOSAGE AND ADMINISTRATION).
+PULMICORT RESPULES should be administered from jet nebulizers at adequate flow rates, via face masks or mouthpieces [see Dosage and Administration (2)].

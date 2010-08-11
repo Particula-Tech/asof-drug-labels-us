@@ -1,17 +1,30 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following adverse reactions were reported in pediatric patients treated with PULMICORT RESPULES.
+Systemic and inhaled corticosteroid use may result in the following:
 
-The incidence of common adverse reactions is based on three double-blind, placebo-controlled, U.S. clinical trials in which 945 patients, 12 months to 8 years of age, (98 patients ≥12 months and <2 years of age; 225 patients ≥2 and <4 years of age; and 622 patients ≥4 and ≤8 years of age) were treated with PULMICORT RESPULES (0.25 to 1 mg total daily dose for 12 weeks) or vehicle placebo.
+- Candida albicans infection [see Warnings and Precautions (5.1)]
+- Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
+- Immunosuppression [see Warnings and Precautions (5.4)]
+- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
+- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+- Growth effects in pediatric patients [see Warnings and Precautions (5.8)and Use in Specific Populations, Pediatric Use (8.4)]
+- Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
+- Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The incidence of common adverse reactions is based on three double-blind, placebo-controlled, randomized U.S. clinical trials in which 945 patients, 12 months to 8 years of age, (98 patients ≥12 months and <2 years of age; 225 patients ≥2 and <4 years of age; and 622 patients ≥4 and ≤8 years of age) were treated with PULMICORT RESPULES (0.25 to 1 mg total daily dose for 12 weeks) or vehicle placebo.
 The incidence and nature of adverse events reported for PULMICORT RESPULES was comparable to that reported for placebo.
 The following table shows the incidence of adverse events in U.S. controlled clinical trials, regardless of relationship to treatment, in patients previously receiving bronchodilators and/or inhaled corticosteroids.
-This population included a total of 605 male and 340 female patients.
+This population included a total of 605 male and 340 female patients and 78.4% were Caucasian, 13.8% African American, 5.5% Hispanic and 2.3% Other.
 
-Adverse Events with ≥ 3% Incidence Reported by Patients on PULMICORT RESPULES
+Table 1 – Adverse Reactions occurring at an incidence of ≥3% in at least one active treatment group where the incidence was higher with PULMICORT RESPULES than placebo
 
-| 0.25 mg(n=178)% | 0.5 mg(n=223)% | 1 mg(n=317)% |  |  |
+| Adverse Events | Vehicle Placebo(n=227)% | PULMICORT RESPULESTotal Daily Dose |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Events | VehiclePlacebo(n=227)% | PULMICORT RESPULESTotal Daily Dose |  |  |
+| 0.25 mg(n=178)% | 0.5 mg(n=223)% | 1 mg(n=317)% |  |  |
 | Respiratory System Disorder |  |  |  |  |
 | Respiratory Infection | 36 | 34 | 35 | 38 |
 | Rhinitis | 9 | 7 | 11 | 12 |
@@ -34,40 +47,58 @@ Adverse Events with ≥ 3% Incidence Reported by Patients on PULMICORT RESPULES
 | Skin and Appendages Disorders |  |  |  |  |
 | Rash | 3 | <1 | 4 | 2 |
 
-The table above shows all adverse events with an incidence of 3% or more in at least one active treatment group where the incidence was higher with PULMICORT RESPULES than with placebo.
+The information below includes all adverse reactions by system organ class with an incidence of 1 to < 3%, in at least one PULMICORT RESPULES treatment group where the incidence was higher with PULMICORT RESPULES than with placebo, regardless of relationship to treatment.
 
-The following adverse events occurred with an incidence of 3% or more in at least one PULMICORT RESPULES group where the incidence was equal to or less than that of the placebo group: fever, sinusitis, pain, pharyngitis, bronchospasm, bronchitis, and headache.
+Blood and lymphatic system disorders: cervical lymphadenopathy
 
-Incidence 1% to ≤3% (by body system)
+Ear and labyrinth disorders: earache
 
-The information below includes all adverse events with an incidence of 1 to ≤3%, in at least one PULMICORT RESPULES treatment group where the incidence was higher with PULMICORT RESPULES than with placebo, regardless of relationship to treatment.
+General disorders and administration site conditions: fatigue, flu-like disorder
 
-Body as a whole: allergic reaction, chest pain, fatigue, flu-like disorder
+Immune system disorders: allergic reaction
 
-Respiratory system: stridor
+Infections and infestations: eye infection, herpes simplex, external ear infection, infection
 
-Resistance mechanisms: herpes simplex, external ear infection, infection
+Injury, poisoning and procedural complication: fracture
 
-Central & peripheral nervous system: dysphonia, hyperkinesia
+Metabolism and nutrition disorders: anorexia
 
-Skin & appendages: eczema, pustular rash, pruritus
+Musculoskeletal and connective tissue disorders: myalgia
 
-Hearing & vestibular: earache
+Nervous system disorders: hyperkinesia
 
-Vision: eye infection
+Psychiatric disorders: emotional lability
 
-Psychiatric: anorexia, emotional lability
+Respiratory, thoracic, and mediastinal disorders: chest pain, dysphonia, stridor
 
-Musculoskeletal system: fracture, myalgia
-
-Application site: contact dermatitis
-
-Platelet, bleeding & clotting: purpura
-
-White cell and resistance: cervical lymphadenopathy
+Skin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular rash, pruritus, purpura
 
 The incidence of reported adverse events was similar between the 447 PULMICORT RESPULES-treated (mean total daily dose 0.5 to 1 mg) and 223 conventional therapy-treated pediatric asthma patients followed for one year in three open-label studies.
 
-Cases of growth suppression have been reported for inhaled corticosteroids including post-marketing reports for PULMICORT RESPULES (see PRECAUTIONS, Pediatric Use).
+## 6.2 Post-marketing Experience
 
-Less frequent adverse events (<1%) reported in the published literature, long-term, open-label clinical trials, or from worldwide marketing experience with any formulation of inhaled budesonide include: immediate and delayed hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm (see WARNINGS, Hypersensitivity Reactions Including Anaphylaxis); symptoms of hypocorticism and hypercorticism; glaucoma, cataracts; psychiatric symptoms including depression, aggressive reactions, irritability, anxiety, and psychosis; and bone disorders including avascular necrosis of the femoral head and osteoporosis.
+The following adverse reactions have been reported during post-approval use of PULMICORT RESPULES.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Some of these adverse reactions may also have been observed in clinical studies with PULMICORT RESPULES.
+
+Endocrine disorders: symptoms of hypocorticism and hypercorticism [see Warnings and Precautions (5.5)]
+
+Eye disorders: cataracts, glaucoma, increased intraocular pressure [see Warnings and Precautions (5.9)]
+
+General disorders and administration site conditions: fever, pain
+
+Immune system disorders: immediate and delayed hypersensitivity reactions including, anaphylaxis, angioedema, bronchospasm, rash, contact dermatitis, and urticaria [see Contraindications (4)and Warnings and Precautions (5.10)]
+
+Infection and Infestation: sinusitis, pharyngitis, bronchitis
+
+Musculoskeletal and connective tissue disorders: avascular necrosis of the femoral head, osteoporosis, growth suppression
+
+Nervous system disorders: headache
+
+Psychiatric disorders: psychiatric symptoms including psychosis, depression, aggressive reactions, irritability, nervousness, restlessness, and anxiety
+
+Respiratory, thoracic, and mediastinal disorders: cough, dysphonia and throat irritation
+
+Skin and subcutaneous tissue disorders: skin bruising, facial skin irritation
+
+Cases of growth suppression have been reported for inhaled corticosteroids including post-marketing reports for PULMICORT RESPULES [see Warnings and Precautions (5.8)and Use In Specific Populations, Pediatric Use (8.4)].
