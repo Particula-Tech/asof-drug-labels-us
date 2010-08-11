@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "oxycodone",
+  "labeler": "Lehigh Valley Technologies, Inc.",
+  "package_ndcs": [
+    "64950-353-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "oxycodone hydrochloride",
+      "name": "Oxycodone Hydrochloride"
+    }
+  ],
+  "setid": "6869fec9-1837-4221-afd8-5cc6fadd025d",
+  "source": "dailymed"
+}
