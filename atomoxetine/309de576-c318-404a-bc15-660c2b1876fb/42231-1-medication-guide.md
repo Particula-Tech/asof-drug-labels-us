@@ -158,7 +158,7 @@ See “What is the most important information I should know about STRATTERA?” 
 
 Other serious side effects include:
 
-- serious allergic reactions (call your doctor if you see swelling, hives, or experience other allergic reactions)
+- serious allergic reactions (call your doctor if you have trouble breathing, see swelling or hives, or experience other allergic reactions)
 - slowing of growth (height and weight) in children
 - problems passing urine including
   - trouble starting or keeping a urine stream
@@ -229,13 +229,13 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised July 23, 2008
+Patient Information revised July 29, 2010
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
 www.strattera.com
 
-Copyright © 2003, 2008, Eli Lilly and Company.
+Copyright © 2003, 2010, Eli Lilly and Company.
 All rights reserved.
 
-PV 5854 AMP
+PV 5855 AMP

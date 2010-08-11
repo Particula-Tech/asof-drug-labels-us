@@ -74,6 +74,7 @@ A non-inferiority analysis revealed that STRATTERA did not worsen tics in these 
 Out of 148 patients who entered the acute treatment phase, 103 (69.6%) patients discontinued the study.
 The primary reason for discontinuation in both the atomoxetine (38 of 76 patients, 50.0%) and placebo (45 of 72 patients, 62.5%) treatment groups was identified as lack of efficacy with most of the patients discontinuing at Week 12.
 This was the first visit where patients with a CGI-S≥4 could also meet the criteria for “clinical non-responder” (CGI-S remained the same or increased from study baseline) and be eligible to enter an open-label extension study with atomoxetine.
+There have been postmarketing reports of tics [see Adverse Reactions (6.2)].
 
 Anxiety in patients with ADHD and comorbid Anxiety Disorders – In two post-marketing, double-blind, placebo-controlled trials, it has been demonstrated that treating patients with ADHD and comorbid anxiety disorders with STRATTERA does not worsen their anxiety.
 
@@ -86,3 +87,4 @@ In a separate 16-week, double-blind, placebo-controlled trial, 442 patients aged
 Following a 2-week double-blind placebo lead-in, STRATTERA was initiated at 40 mg/day to a maximum dose of 100 mg/day (mean daily dose 83 mg/day +/- 19.5 mg/day).
 STRATTERA did not worsen anxiety in these patients as determined by the Liebowitz Social Anxiety Scale (LSAS).
 Of the 436 patients who completed the double-blind placebo lead-in, 172 (39.4%) patients discontinued the study.
+There have been postmarketing reports of anxiety [see Adverse Reactions (6.2)].

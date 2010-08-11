@@ -7,14 +7,13 @@ There is limited clinical trial experience with STRATTERA overdose.
 During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of STRATTERA and at least one other drug.
 There have been no reports of death involving overdose of STRATTERA alone, including intentional overdoses at amounts up to 1400 mg.
 In some cases of overdose involving STRATTERA, seizures have been reported.
-The most commonly reported symptoms accompanying acute and chronic overdoses of STRATTERA were somnolence, agitation, hyperactivity, abnormal behavior, and gastrointestinal symptoms.
-Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., mydriasis, tachycardia, dry mouth) have also been observed.
+The most commonly reported symptoms accompanying acute and chronic overdoses of STRATTERA were gastrointestinal symptoms, somnolence, dizziness, tremor, and abnormal behavior.
+Hyperactivity and agitation have also been reported.
+Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., tachycardia, blood pressure increased, mydriasis, dry mouth) have also been observed.
+Most events were mild to moderate.
 Less commonly, there have been reports of QT prolongation and mental changes, including disorientation and hallucinations.
 
 ## 10.2 Management of Overdose
 
-An airway should be established.
-Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.
-Gastric lavage may be indicated if performed soon after ingestion.
-Activated charcoal may be useful in limiting absorption.
+Consult with a Certified Poison Control Center for up to date guidance and advice.
 Because atomoxetine is highly protein-bound, dialysis is not likely to be useful in the treatment of overdose.

@@ -67,7 +67,7 @@ Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | b Constipation didn't meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility. |  |  |  |  |
 | c Mood swings didn't meet the statistical significance on Breslow-Day test at 0.05 level but p-value was <0.1 (trend). |  |  |  |  |
 
-The following adverse reactions occurred in at least 2% of PM patients and were either twice as frequent or statistically significantly more frequent in PM patients compared with EM patients: insomnia (15% of PMs, 10% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); conjunctivitis 3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs).
+The following adverse reactions occurred in at least 2% of PM patients and were either twice as frequent or statistically significantly more frequent in PM patients compared with EM patients: insomnia (15% of PMs, 10% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs).
 
 1Depression includes the following terms: depression, major depression, depressive symptoms, depressed mood, dysphoria.
 
@@ -109,6 +109,7 @@ Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | Nervous System Disorders |  |  |
 | Dizziness | 6 | 4 |
 | Somnolencec | 4 | 3 |
+| Paraesthesia | 3 | 1 |
 | Sinus headache | 3 | 1 |
 | Tremor | 2 | 0 |
 | Psychiatric Disorders |  |  |
@@ -153,10 +154,14 @@ Cardiovascular system — QT prolongation, syncope.
 
 General disorders and administration site conditions — Lethargy.
 
-Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances.
+Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances; tics.
+
+Psychiatric disorders — Depression and depressed mood; anxiety.
 
 Seizures — Seizures have been reported in the postmarketing period.
 The postmarketing seizure cases include patients with pre-existing seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
 The exact relationship between STRATTERA and seizures is difficult to evaluate due to uncertainty about the background risk of seizures in ADHD patients.
+
+Skin and subcutaneous tissue disorders — Hyperhidrosis.
 
 Urogenital system — Male pelvic pain; urinary hesitation in children and adolescents; urinary retention in children and adolescents.

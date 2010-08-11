@@ -110,7 +110,7 @@ Although this is not conclusive evidence that STRATTERA causes aggressive behavi
 
 ## 5.8 Allergic Events
 
-Although uncommon, allergic reactions, including angioneurotic edema, urticaria, and rash, have been reported in patients taking STRATTERA.
+Although uncommon, allergic reactions, including anaphylactic reactions, angioneurotic edema, urticaria, and rash, have been reported in patients taking STRATTERA.
 
 ## 5.9 Effects on Urine Outflow from the Bladder
 
@@ -157,4 +157,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-[see Dosage and Administration (2.3) and Drug Interactions (7.2)].
+[see Dosage and Administration (2.4) and Drug Interactions (7.2)].
