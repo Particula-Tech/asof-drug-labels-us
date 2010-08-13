@@ -1,27 +1,19 @@
 # DOSAGE AND ADMINISTRATION
 
-## Duodenal Ulcer
+Duodenal Ulcer
 
-### Acute Therapy
-
-The recommended adult oral dosage for active duodenal ulcer is 40 mg once a day at bedtime.
+Acute Therapy:The recommended adult oral dosage for active duodenal ulcer is 40 mg once a day at bedtime.
 Most patients heal within 4 weeks; there is rarely reason to use famotidine at full dosage for longer than 6 to 8 weeks.
-A regimen of 20 mg b.i.d. is also effective.
+A regimen of 20 mg b.i.d. is also effective.Maintenance Therapy: The recommended adult oral dose is 20 mg once a day at bedtime.
 
-### Maintenance Therapy
+Benign Gastric Ulcer
 
-The recommended adult oral dose is 20 mg once a day at bedtime.
+Acute Therapy:The recommended adult oral dosage for active benign gastric ulcer is 40 mg once a day at bedtime.
 
-## Benign Gastric Ulcer
-
-Acute Therapy: The recommended adult oral dosage for active benign gastric ulcer is 40 mg once a day at bedtime.
-
-## Gastroesophageal Reflux Disease (GERD)
-
-The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
+Gastroesophageal Reflux Disease (GERD)The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
 The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
-## Dosage for Pediatric Patients 1-16 years of age
+Dosage for Pediatric Patients 1-16 years of age
 
 See PRECAUTIONS, Pediatric Patients 1-16 years of age.
 
@@ -29,31 +21,27 @@ The studies described in PRECAUTIONS, Pediatric Patients 1-16 years of age sugge
 
 Peptic Ulcer - 0.5 mg/kg/day p.o. at bedtime or divided b.i.d. up to 40 mg/day.
 
-Gastroesophageal Reflux Disease with or without Esophagitis Including Erosions and Ulcerations –1.0 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
+Gastroesophageal Reflux Disease with or without Esophagitis Including Erosions and Ulcerations – 1.0 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
 
 While published uncontrolled studies suggest effectiveness of famotidine in the treatment of gastroesophageal reflux disease and peptic ulcer, data in pediatric patients are insufficient to establish percent response with dose and duration of therapy.
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.
 Published uncontrolled clinical studies in pediatric patients 1-16 years of age have employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
 
-## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
+Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
 The dosage of famotidine in patients with pathological hypersecretory conditions varies with the individual patient.
 The recommended adult oral starting dose for pathological hypersecretory conditions is 20 mg q 6 h. In some patients, a higher starting dose may be required.
 Doses should be adjusted to individual patient needs and should continue as long as clinically indicated.
 Doses up to 160 mg q 6 h have been administered to some adult patients with severe Zollinger-Ellison Syndrome.
 
-## Oral Suspension
-
-Famotidine for oral suspension may be substituted for famotidine tablets in any of the above indications.
-
-## Concomitant Use of Antacids
+Concomitant Use of Antacids
 
 Antacids may be given concomitantly if needed.
 
-## Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency
+Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency
 
 In adult patients with moderate (creatinine clearance < 50 mL/min) or severe (creatinine clearance < 10 mL/min) renal insufficiency, the elimination half-life of famotidine is increased.
 For patients with severe renal insufficiency, it may exceed 20 hours, reaching approximately 24 hours in anuric patients.
-Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, to avoid excess accumulation of the drug in patients with moderate or severe renal insufficiency, the dose of famotidine may be reduced to half the dose or the dosing interval may be prolonged to 36-48 hours as indicated by the patient's clinical response.
+Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, to avoid excess accumulation of the drug in patients with moderate or severe renal insufficiency, the dose of famotidine may be reduced to half the dose or the dosing interval may be prolonged to 36-48 hours as indicated by the patient’s clinical response.
 
 Based on the comparison of pharmacokinetic parameters for famotidine in adults and pediatric patients, dosage adjustment in pediatric patients with moderate or severe renal insufficiency should be considered.

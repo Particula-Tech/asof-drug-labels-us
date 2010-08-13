@@ -2,8 +2,7 @@
 
 Famotidine is indicated in:
 
-1.
-Short-term treatment of active duodenal ulcer.
+1.Short-term treatment of active duodenal ulcer.
 Most adult patients heal within 4 weeks; there is rarely reason to use famotidine at full dosage for longer than 6 to 8 weeks.
 Studies have not assessed the safety of famotidine in uncomplicated active duodenal ulcer for periods of more than eight weeks.
 
@@ -19,7 +18,6 @@ Studies have not assessed the safety or efficacy of famotidine in uncomplicated 
 4.
 Short-term treatment of gastroesophageal reflux disease (GERD).
 Famotidine is indicated for short-term treatment of patients with symptoms of GERD (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
-
 Famotidine is also indicated for the short-term treatment of esophagitis due to GERD including erosive or ulcerative disease diagnosed by endoscopy (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
 5.

@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 The active ingredient in famotidine tablets, USP is a histamine H2-receptor antagonist.
-Famotidine is N'(aminosulfonyl)-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propanimidamide.
+Famotidine is N’(aminosulfonyl)-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]methyl]thio]propanimidamide.
 The molecular formula of famotidine is C8H15N7O2S3 and its molecular weight is 337.45.
 Its structural formula is:
 

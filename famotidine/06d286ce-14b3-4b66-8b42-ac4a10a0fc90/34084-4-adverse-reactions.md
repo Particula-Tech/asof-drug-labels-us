@@ -9,11 +9,11 @@ The following other adverse reactions have been reported infrequently in clinica
 The relationship to therapy with famotidine has been unclear in many cases.
 Within each category the adverse reactions are listed in order of decreasing severity:
 
-Body As A Whole: fever, asthenia, fatigue
+Body as a Whole: fever, asthenia, fatigue
 
 Cardiovascular: arrhythmia, AV block, palpitation
 
-Gastrointestinal: cholestatic jaundice, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
+Gastrointestinal: cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
 Hematologic: rare cases of agranulocytosis, pancytopenia, leukopenia, thrombocytopenia
 
@@ -21,18 +21,16 @@ Hypersensitivity: anaphylaxis, angioedema, orbital or facial edema, urticaria, r
 
 Musculoskeletal: musculoskeletal pain including muscle cramps, arthralgia
 
-Nervous System/Psychiatric: grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence
+Nervous System/Psychiatric: grand mal seizure; psychic disturbances, which were reversible in cases for which follow-up was obtained, including hallucinations, confusion, agitation, depression, anxiety, decreased libido; paresthesia; insomnia; somnolence.Convulsions, in patients with impaired renal function, have been reported very rarely.
 
-Respiratory: bronchospasm
+Respiratory: bronchospasm, interstitial pneumonia
 
-Skin: toxic epidermal necrolysis (very rare), alopecia, acne, pruritus, dry skin, flushing
+Skin: toxic epidermal necrolysis/Stevens Johnson syndrome (very rare), alopecia, acne, pruritus, dry skin, flushing
 
 Special Senses: tinnitus, taste disorder
 
-Other: rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.
+Other: rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.The adverse reactions reported for famotidine tablets may also occur with famotidine for Oral Suspension.
 
-The adverse reactions reported for famotidine tablets may also occur with famotidine for Oral Suspension.
-
-## Pediatric Patients
+Pediatric Patients
 
 In a clinical study in 35 pediatric patients < 1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.

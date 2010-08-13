@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-There is no experience to date with deliberate overdosage.
+The adverse reactions in overdose cases are similar to the adverse reactions encountered in normal clinical experience (see ADVERSE REACTIONS).
 Oral doses of up to 640 mg/day have been given to adult patients with pathological hypersecretory conditions with no serious adverse effects.
 In the event of overdosage, treatment should be symptomatic and supportive.
 Unabsorbed material should be removed from the gastrointestinal tract, the patient should be monitored, and supportive therapy should be employed.

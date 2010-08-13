@@ -4,7 +4,7 @@
 
 Symptomatic response to therapy with famotidine does not preclude the presence of gastric malignancy.
 
-## Patients with Moderate or Severe Renal Insufficiency
+Patients with Moderate or Severe Renal Insufficiency
 
 Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine.
 (See CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
@@ -25,9 +25,7 @@ In in vivo studies in mice, with a micronucleus test and a chromosomal aberratio
 
 In studies with rats given oral doses of up to 2000 mg/kg/day or intravenous doses of up to 200 mg/kg/day, fertility and reproductive performance were not affected.
 
-## Pregnancy
-
-### Pregnancy Category B
+## Pregnancy: Pregnancy: Category B.
 
 Reproductive studies have been performed in rats and rabbits at oral doses of up to 2000 and 500 mg/kg/day, respectively, and in both species at I.V. doses of up to 200 mg/kg/day, and have revealed no significant evidence of impaired fertility or harm to the fetus due to famotidine.
 While no direct fetotoxic effects have been observed, sporadic abortions occurring only in mothers displaying marked decreased food intake were seen in some rabbits at oral doses of 200 mg/kg/day (250 times the usual human dose) or higher.
@@ -41,7 +39,9 @@ Transient growth depression was observed in young rats suckling from mothers tre
 Famotidine is detectable in human milk.
 Because of the potential for serious adverse reactions in nursing infants from famotidine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Patients <1 year of age
+## Pediatric Use
+
+Pediatric Patients <1 year of age
 
 Use of famotidine in pediatric patients < 1 year of age is supported by evidence from adequate and well-controlled studies of famotidine in adults, and by the following studies in pediatric patients < 1 year of age.
 
@@ -68,7 +68,7 @@ Of the 35 patients enrolled in the study, agitation was observed in 5 patients o
 These studies suggest that a starting dose of 0.5 mg/kg/dose of famotidine oral suspension may be of benefit for the treatment of GERD for up to 4 weeks once daily in patients < 3 months of age and twice daily in patients 3 months to < 1 year of age; the safety and benefit of famotidine treatment beyond 4 weeks have not been established.
 Famotidine should be considered for the treatment of GERD only if conservative measures (e.g., thickened feedings) are used concurrently and if the potential benefit outweighs the risk.
 
-## Pediatric Patients 1-16 years of age
+Pediatric Patients 1-16 years of age
 
 Use of famotidine in pediatric patients 1-16 years of age is supported by evidence from adequate and well-controlled studies of famotidine in adults, and by the following studies in pediatric patients: In published studies in small numbers of pediatric patients 1-15 years of age, clearance of famotidine was similar to that seen in adults.
 In pediatric patients 11-15 years of age, oral doses of 0.5 mg/kg were associated with a mean area under the curve (AUC) similar to that seen in adults treated orally with 40 mg.
