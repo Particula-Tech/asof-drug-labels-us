@@ -29,7 +29,7 @@ Dermatological: Petechiae, photosensitivity, pruritus, urticaria.
 
 Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 
-The following postmarketing events have been reported infrequently in patients receiving CARDIZEM: allergic reactions, alopecia, angioedema (including facial or periorbital edema), asystole, erythema multiforme (including Stevens-Johnson syndrome, toxic epidermal necrolysis), exfoliative dermatitis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, purpura, retinopathy, myopathy, and thrombocytopenia.
+The following postmarketing events have been reported infrequently in patients receiving CARDIZEM: acute generalized exanthematous pustulosis, allergic reactions, alopecia, angioedema (including facial or periorbital edema), asystole, erythema multiforme (including Stevens-Johnson syndrome, toxic epidermal necrolysis), exfoliative dermatitis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), purpura, retinopathy, myopathy, and thrombocytopenia.
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
 A number of well-documented cases of generalized rash, some characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and CARDIZEM therapy is yet to be established.

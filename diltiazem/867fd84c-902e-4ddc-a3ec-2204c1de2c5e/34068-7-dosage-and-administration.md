@@ -21,18 +21,11 @@ When necessary, titration may be carried out over a 7- to 14-day period.
 
 ## Concomitant Use With Other Cardiovascular Agents
 
-1.
-Sublingual NTG.
-May be taken as required to abort acute anginal attacks during CARDIZEM CD (diltiazem hydrochloride) therapy.
-
-2.
-Prophylactic Nitrate Therapy.
-CARDIZEM CD may be safely coadministered with short- and long-acting nitrates.
-
-3.
-Beta-blockers (see WARNINGS and PRECAUTIONS).
-
-4.
-Antihypertensives.
-CARDIZEM CD has an additive antihypertensive effect when used with other antihypertensive agents.
-Therefore, the dosage of CARDIZEM CD or the concomitant antihypertensives may need to be adjusted when adding one to the other.
+1. Sublingual NTG.
+   May be taken as required to abort acute anginal attacks during CARDIZEM CD (diltiazem hydrochloride) therapy.
+2. Prophylactic Nitrate Therapy.
+   CARDIZEM CD may be safely coadministered with short- and long-acting nitrates.
+3. Beta-blockers (see WARNINGS and PRECAUTIONS).
+4. Antihypertensives.
+   CARDIZEM CD has an additive antihypertensive effect when used with other antihypertensive agents.
+   Therefore, the dosage of CARDIZEM CD or the concomitant antihypertensives may need to be adjusted when adding one to the other.

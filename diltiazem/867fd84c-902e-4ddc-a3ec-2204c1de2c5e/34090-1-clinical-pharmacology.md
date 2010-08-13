@@ -55,8 +55,7 @@ In a study involving single oral doses of 300 mg of CARDIZEM in six normal volun
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval, and on occasion produces abnormal prolongation.
-(see WARNINGS).
+Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval, and on occasion produces abnormal prolongation (see WARNINGS).
 
 ## Pharmacokinetics and Metabolism
 
