@@ -27,7 +27,7 @@ In the clinical studies with PROPECIA, the incidences for breast tenderness and 
 
 ## Postmarketing Experience for PROPECIA (finasteride 1 mg)
 
-Breast tenderness and enlargement; hypersensitivity reactions including rash, pruritus, urticaria, and swelling of the lips and face; and testicular pain.
+Breast tenderness and enlargement; depression; hypersensitivity reactions including rash, pruritus, urticaria, and swelling of the lips and face; and testicular pain.
 See Controlled Clinical Trials and Long-Term Open Extension Studies for PROSCAR (finasteride 5 mg) in the Treatment of Benign Prostatic Hyperplasia.
 
 ## Controlled Clinical Trials and Long-Term Open Extension Studies for PROSCAR (finasteride 5 mg) in the Treatment of Benign Prostatic Hyperplasia
@@ -53,7 +53,7 @@ Drug-Related Adverse Experiences for PROSCAR (finasteride 5 mg) BENIGN PROSTATIC
 | Rash | 0.5 | 0.2 | 0.5 | 0.1 |
 | N = 1524 and 1516, finasteride vs placebo, respectively |  |  |  |  |
 
-The adverse experience profiles in the 1-year, placebo-controlled, Phase III BPH studies and the 5- year open extensions with PROSCAR 5 mg and PLESS were similar.
+The adverse experience profiles in the 1-year, placebo-controlled, Phase III BPH studies and the 5-year open extensions with PROSCAR 5 mg and PLESS were similar.
 
 There is no evidence of increased adverse experiences with increased duration of treatment with PROSCAR 5 mg.
 New reports of drug-related sexual adverse experiences decreased with duration of therapy.

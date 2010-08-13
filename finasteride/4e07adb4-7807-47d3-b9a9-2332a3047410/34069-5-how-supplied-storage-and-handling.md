@@ -5,9 +5,7 @@ They are supplied as follows:
 
 NDC 0006-0071-31 unit of use bottles of 30 (with desiccant)
 
-NDC 0006-0071-61 PROPAK®Registered trademark of MERCK & CO., Inc. - carton of 3 unit of use bottles of 30 (with desiccant)
-
-NDC 0006-0071-54 PROPAK unit of use bottle of 90 (with desiccant).
+NDC 0006-0071-54 PROPAK®Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. - unit of use bottles of 90 (with desiccant).
 
 ## Storage and Handling
 
@@ -18,14 +16,10 @@ Women should not handle crushed or broken PROPECIA tablets when they are pregnan
 PROPECIA tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
 (See WARNINGS, EXPOSURE OF WOMEN - RISK TO MALE FETUS; and PRECAUTIONS, Information for Patients and Pregnancy.)
 
-Distributed by:
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Issued July 2010
 
-Issued May 2007
+9636006
 
-9636003
-
-US Patent No.: 5,547,957
-
-US Patent No.: 5,571,817
+US Patent Nos.: 5,547,957; 5,571,817

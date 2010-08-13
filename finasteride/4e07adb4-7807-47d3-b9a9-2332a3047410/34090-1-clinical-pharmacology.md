@@ -143,7 +143,7 @@ The extension studies were continued for 3 additional years, with 323 men on PRO
 In order to evaluate the effect of discontinuation of therapy, there were 65 men who received PROPECIA for the initial 12 months followed by placebo in the first 12-month extension period.
 Some of these men continued in additional extension studies and were switched back to treatment with PROPECIA, with 32 men entering the fifth year of the study.
 Lastly, there were 543 men who received placebo for the initial 12 months followed by PROPECIA in the first 12-month extension period.
-Some of these men continued in additional extension studies receiving PROPECIA, with 290 men entering the fifth year of the study (see figure below).
+Some of these men continued in additional extension studies receiving PROPECIA, with 290 men entering the fifth year of the study (see Figure below).
 
 Hair counts were assessed by photographic enlargements of a representative area of active hair loss.
 In these two studies in men with vertex baldness, significant increases in hair count were demonstrated at 6 and 12 months in men treated with PROPECIA, while significant hair loss from baseline was demonstrated in those treated with placebo.
@@ -151,13 +151,13 @@ At 12 months there was a 107-hair difference from placebo (p<0.001, PROPECIA [n=
 Hair count was maintained in those men taking PROPECIA for up to 2 years, resulting in a 138-hair difference between treatment groups (p<0.001, PROPECIA [n=433] vs placebo [n=47]) within the same area.
 In men treated with PROPECIA, the maximum improvement in hair count compared to baseline was achieved during the first 2 years.
 Although the initial improvement was followed by a slow decline, hair count was maintained above baseline throughout the 5 years of the studies.
-Furthermore, because the decline in the placebo group was more rapid, the difference between treatment groups also continued to increase throughout the studies, resulting in a 277-hair difference (p<0.001, PROPECIA [n=219] vs placebo [n=15]) at 5 years (see figure below).
+Furthermore, because the decline in the placebo group was more rapid, the difference between treatment groups also continued to increase throughout the studies, resulting in a 277-hair difference (p<0.001, PROPECIA [n=219] vs placebo [n=15]) at 5 years (see Figure below).
 
 Patients who switched from placebo to PROPECIA (n=425) had a decrease in hair count at the end of the initial 12-month placebo period, followed by an increase in hair count after 1 year of treatment with PROPECIA.
 This increase in hair count was less (56 hairs above original baseline) than the increase (91 hairs above original baseline) observed after 1 year of treatment in men initially randomized to PROPECIA.
 Although the increase in hair count, relative to when therapy was initiated, was comparable between these two groups, a higher absolute hair count was achieved in patients who were started on treatment with PROPECIA in the initial study.
 This advantage was maintained through the remaining 3 years of the studies.
-A change of treatment from PROPECIA to placebo (n=48) at the end of the initial 12 months resulted in reversal of the increase in hair count 12 months later, at 24 months (see figure below).
+A change of treatment from PROPECIA to placebo (n=48) at the end of the initial 12 months resulted in reversal of the increase in hair count 12 months later, at 24 months (see Figure below).
 
 At 12 months, 58% of men in the placebo group had further hair loss (defined as any decrease in hair count from baseline), compared with 14% of men treated with PROPECIA.
 In men treated for up to 2 years, 72% of men in the placebo group demonstrated hair loss, compared with 17% of men treated with PROPECIA.
@@ -210,4 +210,4 @@ Patient self-assessment showed improvement across racial groups with PROPECIA tr
 ### Study in Women
 
 In a study involving 137 postmenopausal women with androgenetic alopecia who were treated with PROPECIA (n=67) or placebo (n=70) for 12 months, effectiveness could not be demonstrated.
-There was no improvement in hair counts, patient self-assessment, investigator assessment, or ratings of standardized photographs in the women treated with PROPECIA when compared with the placebo group (see INDICATIONS AND USAGE)
+There was no improvement in hair counts, patient self-assessment, investigator assessment, or ratings of standardized photographs in the women treated with PROPECIA when compared with the placebo group (see INDICATIONS AND USAGE).

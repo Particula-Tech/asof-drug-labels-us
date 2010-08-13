@@ -1,32 +1,21 @@
-# Supplemental Patient Material
+# PATIENT PACKAGE INSERT
 
-## SPL Patient Package Insert
-
-PROPECIA®
-
-(finasteride) Tablets, 1 mg
-
-Patient Information about
-
-PROPECIA® (Pro-pee-sha)
-
-Generic name: finasteride
-
-(fin-AS-tur-eyed)
+PROPECIA® (finasteride) Tablets, 1 mg Patient Information about PROPECIA® (Pro-pee-sha) Generic name: finasteride (fin-AS-tur-eyed)
 
 PROPECIA is for use by MEN ONLY.
 
-Please read this leaflet before you start taking PROPECIA information included with PROPECIA each time you renew your prescription, just in case anything has changed.
+Please read this leaflet before you start taking PROPECIA.
+Also, read the information included with PROPECIA each time you renew your prescription, just in case anything has changed.
 Remember, this leaflet does not take the place of careful discussions with your doctor.
 You and your doctor should discuss PROPECIA when you start taking your medication and at regular checkups.
 
-### What is PROPECIA used for?
+## What is PROPECIA used for?
 
 PROPECIA is used for the treatment of male pattern hair loss on the vertex and the anterior mid-scalp area.
 
 PROPECIA is for use by MEN ONLY and should NOT be used by women or children.
 
-### What is male pattern hair loss?
+## What is male pattern hair loss?
 
 Male pattern hair loss is a common condition in which men experience thinning of the hair on the scalp.
 Often, this results in a receding hairline and/or balding on the top of the head.
@@ -35,7 +24,7 @@ These changes typically begin gradually in men in their 20s.
 Doctors believe male pattern hair loss is due to heredity and is dependent on hormonal effects.
 Doctors refer to this type of hair loss as androgenetic alopecia.
 
-### Results of clinical studies:
+## Results of clinical studies:
 
 For 12 months, doctors studied over 1800 men aged 18 to 41 with mild to moderate amounts of ongoing hair loss.
 Of these men, approximately 1200 with hair loss at the top of the head participated in additional extension studies, resulting in a total study time of up to five years.
@@ -46,7 +35,7 @@ Hair counts in men who did not take PROPECIA continued to decrease.
 In one study, patients were questioned on the growth of body hair.
 PROPECIA did not appear to affect hair in places other than the scalp.
 
-### Will PROPECIA work for me?
+## Will PROPECIA work for me?
 
 For most men, PROPECIA increases the number of scalp hairs in the first year of treatment, helping to fill in thin or balding areas of the scalp.
 In addition, men taking PROPECIA may note a slowing of hair loss.
@@ -66,7 +55,7 @@ You should discuss this with your doctor.
 PROPECIA is not effective in the treatment of hair loss due to androgenetic alopecia in postmenopausal women.
 PROPECIA should not be taken by women.
 
-### How should I take PROPECIA?
+## How should I take PROPECIA?
 
 Follow your doctor’s instructions.
 
@@ -77,15 +66,15 @@ Follow your doctor’s instructions.
 
 PROPECIA will not work faster or better if you take it more than once a day.
 
-### Who should NOT take PROPECIA?
+## Who should NOT take PROPECIA?
 
-- PROPECIA is for the treatment of male pattern hair loss in MEN ONLY and should not be taken by women (seeA warning about PROPECIA and pregnancy.).
+- PROPECIA is for the treatment of male pattern hair loss in MEN ONLY and should not be taken by women (see A warning about PROPECIA and pregnancy).
 - PROPECIA should not be taken by children.
 - Anyone allergic to any of the ingredients.
 
-### A warning about PROPECIA and pregnancy.
+## A warning about PROPECIA and pregnancy.
 
-- Women who are or may potentially be pregnant
+- Women who are or may potentially be pregnant:
   - must not use PROPECIA
   - should not handle crushed or broken tablets of PROPECIA.
 
@@ -93,7 +82,7 @@ If a woman who is pregnant with a male baby absorbs the active ingredient in PRO
 If a woman who is pregnant comes into contact with the active ingredient in PROPECIA, a doctor should be consulted.
 PROPECIA tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
 
-### What are the possible side effects of PROPECIA?
+## What are the possible side effects of PROPECIA?
 
 Like all prescription products, PROPECIA may cause side effects.
 In clinical studies, side effects from PROPECIA were uncommon and did not affect most men.
@@ -103,14 +92,18 @@ Each of these side effects occurred in less than 2% of men.
 These side effects went away in men who stopped taking PROPECIA.
 They also disappeared in most men who continued taking PROPECIA.
 
-In general use, the following have been reported: allergic reactions including rash, itching, hives and swelling of the lips and face; problems with ejaculation; breast tenderness and enlargement; and testicular pain.
+In general use, the following have been reported: allergic reactions including rash, itching, hives and swelling of the lips and face; problems with ejaculation; breast tenderness and enlargement; depression; and testicular pain.
 You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 Tell your doctor promptly about these or any other unusual side effects.
 
 - PROPECIA can affect a blood test called PSA (Prostate-Specific Antigen) for the screening of prostate cancer.
-  If you have a PSA test done, you should tell your doctor that you are taking PROPECIA.
+  If you have a PSA test done, you should tell your doctor(s) that you are taking PROPECIA.
+  Because PROPECIA decreases PSA levels, changes in PSA levels will need to be carefully evaluated by your doctor(s).
+  Any increase in follow-up PSA levels from their lowest point should be carefully evaluated even if the test results are still within the normal range for men not taking PROPECIA.
+  You should also tell your doctor if you have not been taking PROPECIA as prescribed because this may affect the PSA test results.
+  For more information, talk to your doctor.
 
-### Storage and Handling.
+## Storage and handling.
 
 Keep PROPECIA in the original container and keep the container closed.
 Store it in a dry place at room temperature.
@@ -129,14 +122,10 @@ TO 7:00 P.M.
 
 www.propecia.com
 
-Distributed by:
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Issued July 2010
 
-Issued May 2007
+9636006
 
-9636003
-
-US Patent No.: 5,547,957
-
-US Patent No.: 5,571,817
+US Patent Nos.: 5,547,957; 5,571,817

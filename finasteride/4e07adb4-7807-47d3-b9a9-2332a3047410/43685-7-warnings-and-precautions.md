@@ -23,7 +23,7 @@ PROPECIA tablets are coated and will prevent contact with the active ingredient 
 Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.
 Breast changes including breast enlargement, tenderness and neoplasm have been reported (see ADVERSE REACTIONS).
 
-See also Patient Package Insert.
+See also PATIENT PACKAGE INSERT.
 
 Physicians should instruct their patients to read the patient package insert before starting therapy with PROPECIA and to read it again each time the prescription is renewed so that they are aware of current information for patients regarding PROPECIA.
 
@@ -35,7 +35,10 @@ In healthy volunteers, treatment with finasteride did not alter the response of 
 
 In clinical studies with PROPECIA (finasteride, 1 mg) in men 18-41 years of age, the mean value of serum prostate-specific antigen (PSA) decreased from 0.7 ng/mL at baseline to 0.5 ng/mL at Month 12.
 Further, in clinical studies with PROSCAR (finasteride, 5 mg) when used in older men who have benign prostatic hyperplasia (BPH), PSA levels are decreased by approximately 50%.
+Other studies with PROSCAR showed it may also cause decreases in serum PSA in the presence of prostate cancer.
 These findings should be taken into account for proper interpretation of serum PSA when evaluating men treated with finasteride.
+Any confirmed increases in PSA levels from nadir while on PROPECIA may signal the presence of prostate cancer and should be carefully evaluated, even if those values are still within the normal range for men not taking a 5α-reductase inhibitor.
+Non-compliance to therapy with PROPECIA may also affect PSA test results.
 
 ## Drug Interactions
 
@@ -55,7 +58,7 @@ All exposure calculations were based on calculated AUC(0-24 hr) for animals and 
 
 In a 19-month carcinogenicity study in CD-1 mice, a statistically significant (p≤0.05) increase in the incidence of testicular Leydig cell adenomas was observed at a dose of 250 mg/kg/day (1824 times the human exposure).
 In mice at a dose of 25 mg/kg/day (184 times the human exposure, estimated) and in rats at a dose of ≥40 mg/kg/day (312 times the human exposure) an increase in the incidence of Leydig cell hyperplasia was observed.
-A positive correlation between the proliferative changes in the Leydig cells and an increase in serum LH levels (2-to 3-fold above control) has been demonstrated in both rodent species treated with high doses of finasteride.
+A positive correlation between the proliferative changes in the Leydig cells and an increase in serum LH levels (2- to 3-fold above control) has been demonstrated in both rodent species treated with high doses of finasteride.
 No drug-related Leydig cell changes were seen in either rats or dogs treated with finasteride for 1 year at doses of 20 mg/kg/day and 45 mg/kg/day (240 and 2800 times, respectively, the human exposure) or in mice treated for 19 months at a dose of 2.5 mg/kg/day (18.4 times the human exposure, estimated).
 
 No evidence of mutagenicity was observed in an in vitro bacterial mutagenesis assay, a mammalian cell mutagenesis assay, or in an in vitro alkaline elution assay.
