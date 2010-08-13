@@ -10,6 +10,8 @@ Reproduction studies have been performed in pregnant rats at oral doses up to 40
 There are, however, no adequate or well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed [see Nonclinical Toxicology (13.2)].
 
+See full prescribing information for clarithromycin before using in pregnant women.
+
 ## 8.3 Nursing Mothers
 
 Lansoprazole or its metabolites are excreted in the milk of rats.
@@ -61,7 +63,7 @@ One patient remained unhealed after 12 weeks of treatment (Table 3).
 
 Table 3: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17
 
-| GERD | Final Visit%(n/N) |
+| GERD | Final Visit % (n/N) |
 | --- | --- |
 | Symptomatic GERD (All Patients) |  |
 | Improvement in Overall GERD SymptomsSymptoms assessed by patient diary (parents/caregivers as necessary). | 73.2% (60/82)No data available for 5 patients. |

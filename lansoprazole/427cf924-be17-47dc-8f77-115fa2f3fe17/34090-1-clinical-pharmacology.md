@@ -31,20 +31,21 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole
 After the initial dose in this study, increased gastric pH was seen within 1 to 2 hours with 30 mg of lansoprazole and 2 to 3 hours with 15 mg of lansoprazole.
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within 1 to 2 hours post-dosing with 15 mg of lansoprazole.
 
+Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
 The percentage of time gastric pH was elevated above 5 and 6 was evaluated in a crossover study of lansoprazole given daily, twice daily and three times daily (Table 5).
 
 Table 5: Mean Antisecretory Effects After 5 Days of Twice Daily and Three Times Daily Dosing
 
-| Parameter | Lansoprazole |  |  |  |
+|  | Lansoprazole |  |  |  |
 | --- | --- | --- | --- | --- |
-| 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |  |
+| Parameter | 30 mg daily | 15 mg twice daily | 30 mg twice daily | 30 mg three times daily |
 | % Time Gastric pH > 5 | 43 | 47 | 59(p < 0.05) versus lansoprazole 30 mg daily. | 77(p < 0.05) versus lansoprazole 30 mg daily, 15 mg twice daily and 30 mg twice daily. |
 | % Time Gastric pH > 6 | 20 | 23 | 28 | 45 |
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
 There was no indication of rebound gastric acidity.
 
-### Enterochromaffin-Like (ECL) Cell Effects
+### Enterochromaffin-like (ECL) Cell Effects
 
 During lifetime exposure of rats with up to 150 mg/kg/day of lansoprazole dosed seven days per week, marked hypergastrinemia was observed followed by ECL cell proliferation and formation of carcinoid tumors, especially in female rats.
 Gastric biopsy specimens from the body of the stomach from approximately 150 patients treated continuously with lansoprazole for at least one year did not show evidence of ECL cell effects similar to those seen in rat studies.
@@ -77,6 +78,69 @@ In 24 month carcinogenicity studies in Sprague-Dawley rats with daily lansoprazo
 No systemic effects of lansoprazole on the central nervous system, lymphoid, hematopoietic, renal, hepatic, cardiovascular, or respiratory systems have been found in humans.
 Among 56 patients who had extensive baseline eye evaluations, no visual toxicity was observed after lansoprazole treatment (up to 180 mg/day) for up to 58 months.
 After lifetime lansoprazole exposure in rats, focal pancreatic atrophy, diffuse lymphoid hyperplasia in the thymus, and spontaneous retinal atrophy were seen.
+
+Microbiology
+
+Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the INDICATIONS AND USAGE section [see Indications and Usage (1.2)].
+
+Helicobacter pylori Pretreatment Resistance
+
+Clarithromycin pretreatment resistance (≥ 2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
+
+Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
+Twenty-one of 957 patients (2.2%) by E-test, and 2 of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
+One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 6).
+
+Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
+
+| Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
+| SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |  |  |
+| Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
+| Susceptible | 112 | 105 |  |  |  | 7 |
+| Intermediate | 3 | 3 |  |  |  |  |
+| Resistant | 17 | 6 |  |  | 7 | 4 |
+| Triple Therapy 10 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399) |  |  |  |  |  |  |
+| Susceptible | 42 | 40 | 1 |  | 1 |  |
+| Intermediate |  |  |  |  |  |  |
+| Resistant | 4 | 1 |  |  | 3 |  |
+
+Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
+Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
+Patients with clarithromycin resistant H.pylori should not be treated with lansoprazole/amoxicillin/clarithromycin triple therapy or with regimens which include clarithromycin as the sole antimicrobial agent.
+
+Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori.
+Of those with pretreatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
+A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily dual therapy and a total of 12.8% (22/172) of the patients failed the 10 and 14 day triple therapy regimens.
+Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
+Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
+
+Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
+The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
+
+After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
+The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria (Table 7):
+
+Table 7
+
+| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods | Interpretation |
+| --- | --- |
+| ≤ 0.25 | Susceptible (S) |
+| 0.5 to 1.0 | Intermediate (I) |
+| ≥ 2.0 | Resistant (R) |
+| Amoxicillin MIC (mcg/mL),There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint. | Interpretation |
+| ≤ 0.25 | Susceptible (S) |
+
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+Standard clarithromycin and amoxicillin powders should provide the following MIC values (Table 8):
+
+Table 8
+
+| Microorganism | Antimicrobial Agent | MIC (mcg/mL)These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
+| --- | --- | --- |
+| H. pylori ATCC 43504 | Clarithromycin | 0.015 to 0.12 |
+| H. pylori ATCC 43504 | Amoxicillin | 0.015 to 0.12 |
 
 ## 12.3 Pharmacokinetics
 

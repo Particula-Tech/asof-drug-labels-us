@@ -28,6 +28,48 @@ Table 10: Duodenal Ulcer Healing Rates
 | 2 | 35.0% | 44.2% | 30.5% | 34.2% |
 | 4 | 92.3%(p ≤ 0.05) versus placebo and ranitidine. | 80.3%(p ≤ 0.05) versus placebo. | 70.5% | 47.5% |
 
+H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
+
+Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole in combination with amoxicillin capsules and clarithromycin tablets as triple 14 day therapy or in combination with amoxicillin capsules as dual 14 day therapy for the eradication of H. pylori.
+Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
+
+- Triple therapy: Lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily
+- Dual therapy: Lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily
+
+All treatments were for 14 days.
+H. pylori eradication was defined as two negative tests (culture and histology) at 4 to 6 weeks following the end of treatment.
+
+Triple therapy was shown to be more effective than all possible dual therapy combinations.
+Dual therapy was shown to be more effective than both monotherapies.
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
+
+A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of lansoprazole triple therapy for 10 and 14 days.
+This study established that the 10 day triple therapy was equivalent to the 14 day triple therapy in eradicating H. pylori (Tables 11 and 12) [see Indications and Usage (1.2)].
+
+Table 11: H. pylori Eradication Rates - Triple Therapy
+
+| (Lansoprazole/amoxicillin/clarithromycin) |  |  |  |
+| --- | --- | --- | --- |
+| Percent of Patients Cured |  |  |  |
+| [95% Confidence Interval] |  |  |  |
+| (Number of patients) |  |  |  |
+| Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| M93-131 | 14 days | 92(p < 0.05) versus lansoprazole/amoxicillin and lansoprazole/clarithromycin dual therapy. [80.0 to 97.7](N = 48) | 86 [73.3 to 93.5] (N = 55) |
+| M95-392 | 14 days | 86(p < 0.05) versus clarithromycin/amoxicillin dual therapy.[75.7 to 93.6] (N = 66) | 83[72.0 to 90.8](N = 70) |
+| M95-399The 95% confidence interval for the difference in eradication rates, 10 day minus 14 day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85[77.0 to 91.0](N = 113) | 82[73.9 to 88.1](N = 126) |
+| 10 days | 84[76.0 to 89.8](N = 123) | 81[73.9 to 87.6](N = 135) |  |
+
+Table 12: H. pylori Eradication Rates - 14 Day Dual Therapy
+
+| (lansoprazole/amoxicillin) |  |  |
+| --- | --- | --- |
+| Percent of Patients Cured |  |  |
+| [95% Confidence Interval] |  |  |
+| (Number of patients) |  |  |
+| Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| M93-131 | 77(p < 0.05) versus lansoprazole alone.[62.5 to 87.2] (N = 51) | 70 [56.6 to 81.2] (N = 60) |
+| M93-125 | 66(p < 0.05) versus lansoprazole alone or amoxicillin alone. [51.9 to 77.5](N = 58) | 61 [48.5 to 72.9](N = 67) |
+
 ## Long-Term Maintenance Treatment of Duodenal Ulcers
 
 Lansoprazole has been shown to prevent the recurrence of duodenal ulcers.
@@ -55,7 +97,7 @@ In a U.S. multicenter, double-blind, placebo-controlled study of 253 patients wi
 
 Table 14: Gastric Ulcer Healing Rates
 
-|  | Lansoprazole |  |  | Placebo |
+| Lansoprazole |  |  |  | Placebo |
 | --- | --- | --- | --- | --- |
 | Week | 15 mg daily (N = 65) | 30 mg daily (N = 63) | 60 mg daily (N = 61) | (N = 64) |
 | 4 | 64.6%(p ≤ 0.05) versus placebo. | 58.1% | 53.3% | 37.5% |

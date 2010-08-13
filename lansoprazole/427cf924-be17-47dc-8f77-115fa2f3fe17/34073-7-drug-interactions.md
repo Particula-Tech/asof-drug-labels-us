@@ -23,3 +23,5 @@ Theophylline
 
 A minor increase (10%) in the clearance of theophylline was observed following the administration of lansoprazole concomitantly with theophylline.
 Although the magnitude of the effect on theophylline clearance is small, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels [see Clinical Pharmacology (12.5)].
+
+For information on drug interactions for amoxicillin or clarithromycin, refer to their full prescribing information, DRUG INTERACTIONS sections.
