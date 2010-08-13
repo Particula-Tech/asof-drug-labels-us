@@ -9,7 +9,7 @@ In patients with creatinine clearance less than or equal to 60 mL/min, the dose 
 Because high and prolonged serum antibiotic concentrations can occur from usual dosages in patients with renal impairment or other conditions that may compromise renal function, the maintenance dosage should be reduced when cefepime is administered to such patients.
 Continued dosage should be determined by degree of renal impairment, severity of infection, and susceptibility of the causative organisms.
 (See specific recommendations for dosing adjustment in DOSAGE AND ADMINISTRATION.)
-During postmarketing surveillance, serious adverse events have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures (see ADVERSE REACTIONS: Postmarketing Experience).
+During postmarketing surveillance, serious adverse events have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus (see ADVERSE REACTIONS: Postmarketing Experience).
 Most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules.
 However, some cases of encephalopathy occurred in patients receiving a dosage adjustment for their renal function.
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.
@@ -49,6 +49,11 @@ The effect of lower doses is not presently known.
 
 ## Information for Patients
 
+Before therapy with MAXIPIME is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefepime, cephalosporins, penicillins, or other drugs.
+Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibiotics has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
+If an allergic reaction to MAXIPIME occurs, discontinue the drug.
+Serious acute hypersensitivity reactions may require treatment with epinephrine and other emergency measures including oxygen, corticosteroids, intravenous fluids, intravenous antihistamines, pressor amines, and airway management, as clinically indicated.
+
 Patients should be counseled that antibacterial drugs including MAXIPIME should only be used to treat bacterial infections.
 They do not treat viral infections (eg, the common cold).
 When MAXIPIME is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -59,7 +64,7 @@ Sometimes after starting treatment with antibiotics, patients can develop watery
 If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be advised of neurological adverse events that could occur with MAXIPIME use.
-Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures, for immediate treatment, dosage adjustment, or discontinuation of MAXIPIME.
+Patients should be instructed to inform their healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus, for immediate treatment, dosage adjustment, or discontinuation of MAXIPIME.
 
 ## Drug Interactions
 
@@ -118,4 +123,4 @@ Serious adverse events have occurred in geriatric patients with renal insufficie
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and renal function should be monitored.
-(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY: Specific Populations, WARNINGS, and DOSAGE AND ADMINISTRATION.)

@@ -17,7 +17,7 @@ Table 10: Adverse Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Tria
 
 | INCIDENCE EQUAL TO OR GREATER THAN 1% | Local reactions (3.0%), including phlebitis (1.3%), pain and/or inflammation (0.6%)*; rash (1.1%) |
 | --- | --- |
-| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting |
+| INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Colitis (including pseudomembranous colitis), diarrhea, erythema, fever, headache, nausea, oral moniliasis, pruritus, urticaria, vaginitis, vomiting |
 | * Local reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048). |  |
 
 At the higher dose of 2 g every 8 hours, the incidence of probably-related adverse events was higher among the 795 patients who received this dose of cefepime.
@@ -27,7 +27,7 @@ The following adverse laboratory changes, irrespective of relationship to therap
 
 Table 11: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials—North America
 
-| INCIDENCE EQUAL TO OR GREATER THAN 1% | Positive Coombs’ test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%), eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
+| INCIDENCE EQUAL TO OR GREATER THAN 1% | Positive Coombs’ test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%), eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%), anemia |
 | --- | --- |
 | INCIDENCE LESS THAN 1% BUT GREATER THAN 0.1% | Increased alkaline phosphatase, BUN, calcium, creatinine, phosphorus, potassium, total bilirubin; decreased calcium*, hematocrit, neutrophils, platelets, WBC |
 | * Hypocalcemia was more common among elderly patients. Clinical consequences from changes in either calcium or phosphorus were not reported. |  |
@@ -38,7 +38,7 @@ A similar safety profile was seen in clinical trials of pediatric patients (see 
 
 In addition to the events reported during North American clinical trials with cefepime, the following adverse experiences have been reported during worldwide postmarketing experience.
 
-As with some other drugs in this class, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures have been reported.
+As with some other drugs in this class, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus have been reported.
 Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of encephalopathy occurred in patients receiving a dosage adjustment for their renal function.
 (See also WARNINGS.)
 

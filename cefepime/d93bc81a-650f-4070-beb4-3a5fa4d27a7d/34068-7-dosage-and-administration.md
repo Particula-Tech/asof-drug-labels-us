@@ -32,7 +32,7 @@ The recommended doses of MAXIPIME in patients with renal impairment are presente
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation)3 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
-Males: Creatinine Clearance (mL/min) = Weight (kg) × (140–age) —————————————— 72× serum creatinine (mg/dL) Females: 0.85 × above value
+Males: Creatinine Clearance (mL/min) = Weight (kg) × (140–age) —————————————— 72 × serum creatinine (mg/dL) Females: 0.85 × above value
 
 Table 13: Recommended Dosing Schedule for MAXIPIME in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 

@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050679"
+  ],
   "inn": "cefepime",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Elan Pharmaceuticals, Inc.",
   "package_ndcs": [
     "51479-053-10",
     "51479-054-20",
@@ -9,7 +11,13 @@
     "51479-055-10",
     "51479-055-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime hydrochloride",
+      "name": "MAXIPIME"
+    }
+  ],
   "setid": "d93bc81a-650f-4070-beb4-3a5fa4d27a7d",
   "source": "dailymed"
 }
