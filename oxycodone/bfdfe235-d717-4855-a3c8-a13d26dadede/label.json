@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA022272"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Purdue Pharma LP",
+  "package_ndcs": [
+    "59011-410-10",
+    "59011-410-20",
+    "59011-415-10",
+    "59011-415-20",
+    "59011-420-10",
+    "59011-420-20",
+    "59011-430-10",
+    "59011-430-20",
+    "59011-440-10",
+    "59011-440-20",
+    "59011-460-10",
+    "59011-460-20",
+    "59011-480-10",
+    "59011-480-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "oxycodone hydrochloride",
+      "name": "OxyContin"
+    }
+  ],
+  "setid": "bfdfe235-d717-4855-a3c8-a13d26dadede",
+  "source": "dailymed"
+}
