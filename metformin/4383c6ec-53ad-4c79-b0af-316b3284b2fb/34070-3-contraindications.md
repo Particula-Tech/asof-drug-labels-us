@@ -8,4 +8,4 @@ GLUMETZA is contraindicated in patients with:
    Diabetic ketoacidosis should be treated with insulin.
 
 GLUMETZA should be temporarily discontinued in patients undergoing radiologic studies involving intravascular administration of iodinated contrast materials, because use of such products may result in acute alteration of renal function.
-(See also PRECAUTIONS.)
+(See also PRECAUTIONS)

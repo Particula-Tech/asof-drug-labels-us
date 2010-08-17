@@ -14,23 +14,23 @@ Monitoring of blood glucose and glycosylated hemoglobin will also permit detecti
 Short-term administration of GLUMETZA may be sufficient during periods of transient loss of control in patients usually well-controlled on diet alone.
 GLUMETZA tablets must be swallowed whole and never split, crushed or chewed.
 Occasionally, the inactive ingredients of GLUMETZA 500 mg may be eliminated in the feces as a soft, hydrated mass, while the 1000 mg may leave an insoluble shell.
-(See Patient Information.)
+(See Patient Information)
 
 ## Recommended Dosing Schedule
 
-Adults — In general, clinically significant responses are not seen at doses below 1500 mg per day.
+Adults - In general, clinically significant responses are not seen at doses below 1500 mg per day.
 However, a lower recommended starting dose and gradually increased dosage is advised to minimize gastrointestinal symptoms.
 The starting dose of GLUMETZA is 1000 mg once daily which in order to maximize therapeutic efficacy must be taken with food preferably in the evening.
 Dosage increases should be made in increments of 500 mg weekly, up to a maximum of 2000 mg once daily with the evening meal.
 If glycemic control is not achieved on GLUMETZA 2000 mg once daily, a trial of GLUMETZA 1000 mg twice daily should be considered.
-(See CLINICAL PHARMACOLOGY, Clinical Studies).
+(See CLINICAL PHARMACOLOGY, Clinical Studies)
 
 In one trial, patients treated with immediate release metformin were switched to GLUMETZA.
 Results of this trial suggest that patients receiving immediate release metformin treatment can be switched to GLUMETZA once daily at the same total daily dose, up to 2000 mg once daily.
 Following a switch from immediate release metformin to GLUMETZA, glycemic control should be closely monitored and dosage adjustments made accordingly.
-(See CLINICAL PHARMACOLOGY, Clinical Studies).
+(See CLINICAL PHARMACOLOGY, Clinical Studies)
 
-Pediatrics — GLUMETZA has been studied in adult patients only.
+Pediatrics - GLUMETZA has been studied in adult patients only.
 
 ## Transfer From Other Antidiabetic Therapy
 
@@ -70,4 +70,4 @@ Any dosage adjustment should be based on a careful assessment of renal function.
 
 Generally, elderly, debilitated, and malnourished patients should not be titrated to the maximum dose of GLUMETZA.
 Monitoring of renal function is necessary to aid in prevention of lactic acidosis, particularly in the elderly.
-(See WARNINGS.)
+(See WARNINGS)

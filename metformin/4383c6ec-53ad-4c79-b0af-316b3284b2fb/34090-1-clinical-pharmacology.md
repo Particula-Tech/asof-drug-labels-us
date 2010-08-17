@@ -10,9 +10,10 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 
 ## Pharmacokinetics
 
-### Absorption and Bioavailability
+Absorption and Bioavailability
 
 The following pharmacokinetic studies were performed with the 500 mg dosage form.
+
 Following a single oral dose of 1000 mg (2x500 mg tablets) GLUMETZA after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7-8 hours.
 In both single and multiple-dose studies in healthy subjects, once daily 1000 mg (2x500 mg tablets) dosing provides equivalent systemic exposure, as measured by area-under-the-curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate release given as 500 mg twice daily.
 GLUMETZA tablets must be administered immediately after a meal to maximize therapeutic benefit.
@@ -27,14 +28,14 @@ Table 1: Summary Mean (±SD) of Pharmacokinetic Parameters after One Day Dosing
 
 Single oral doses of GLUMETZA from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
 The mean Cmax values were 473 ± 145, 868 ± 223, 1171 ± 297, and 1630 ± 399 ng/mL for single doses of 500, 1000, 1500, and 2500 mg, respectively.
-For AUC, the mean values were 3501 ± 796, 6705 ± 1918, 9299 ± 2833, and 14161 ± 4432 ng·hr/mL for single doses of 500, 1000, 1500, and 2500 mg, respectively.
+For AUC, the mean values were 3501 ± 796, 6705 ± 1918, 9299 ± 2833, and 14161 ± 4432 ng•hr/mL for single doses of 500, 1000, 1500, and 2500 mg, respectively.
 
 Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from GLUMETZA tablets by about 38% and 73%, respectively, relative to fasting.
 Both meals prolonged metformin Tmax by approximately 3 hours but Cmax was not affected.
 
 In a two-way, single-dose crossover study in healthy volunteers, the 1000 mg tablet was found to be bioequivalent to two 500 mg tablets under fed conditions based on equivalent Cmax and AUCs for the two formulations (Table 2).
 
-Table 2: Mean (±SD) Pharmacokinetic Parameters for GLUMETZA 1000 mg Tablet and GLUMETZA 2x500 mg Tablets
+Table 2: Mean (±SD) Pharmacokinetic Parameters for Glumetza 1000 mg Tablet and Glumetza 2x500 mg Tablets
 
 | PK Parameters | Glumetza 1000 mg Tablet | Glumetza 2x500 mg Tablets |
 | --- | --- | --- |
@@ -42,14 +43,14 @@ Table 2: Mean (±SD) Pharmacokinetic Parameters for GLUMETZA 1000 mg Tablet and 
 | AUC0-∞ (ng.hr/mL) | 11907 ± 2521 | 12599 ± 2616 |
 | Cmax (ng/mL) | 1238 ± 271 | 1116 ± 254 |
 
-### Distribution
+## Distribution
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of 850 mg immediate release metformin hydrochloride averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin, steady state plasma concentrations of metformin are reached within 24-48 hours and are generally < 1 µg/mL.
-During controlled clinical trials, which served as the basis of approval for metformin, maximum metformin plasma levels did not exceed 5 µg/mL, even at maximum doses.
+At usual clinical doses and dosing schedules of metformin, steady state plasma concentrations of metformin are reached within 24-48 hours and are generally < 1 μg/mL.
+During controlled clinical trials, which served as the basis of approval for metformin, maximum metformin plasma levels did not exceed 5 μg/mL, even at maximum doses.
 
-### Metabolism and Excretion
+## Metabolism and Excretion
 
 Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.

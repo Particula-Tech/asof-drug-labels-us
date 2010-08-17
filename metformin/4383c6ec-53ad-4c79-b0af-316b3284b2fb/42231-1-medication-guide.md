@@ -1,12 +1,10 @@
-# PATIENT INFORMATION
-
-Rx Only
+# PATIENT INFORMATION Rx Only
 
 GLUMETZA (Gloo-met-za) (metformin hydrochloride extended-release tablets)
 
 Read this information carefully before you start taking this medicine and each time you refill your prescription.
 There may be new information.
-This information does not take the place of your doctor’s advice.
+This information does not take the place of your doctor's advice.
 Ask your doctor or pharmacist if you do not understand some of this information or if you want to know more about this medicine.
 
 What is the most important information I should know about GLUMETZA?
@@ -28,10 +26,10 @@ You have a higher chance for getting lactic acidosis with GLUMETZA if you:
 
 - have kidney or liver problems.
 - have congestive heart failure that requires treatments with medicines.
-- drink a lot of alcohol (very often or short-term “binge” drinking).
+- drink a lot of alcohol (very often or short-term "binge" drinking).
 - get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
-  Dehydration can also happen when you sweat a lot with activity or exercise and don’t drink enough fluids.
+  Dehydration can also happen when you sweat a lot with activity or exercise and don't drink enough fluids.
 - have certain x-ray test with injectable dye used.
 - have surgery.
 - have a heart attack, severe infection, or a stroke.
@@ -113,7 +111,7 @@ Alcohol can increase the chance of getting lactic acidosis.
 What are the side effects of GLUMETZA?
 
 GLUMETZA can cause a rare, but serious side effect called lactic acidosis (a buildup of an acid in your blood) that can cause death.
-See “What is the most important information I should know about GLUMETZA?”
+See "What is the most important information I should know about GLUMETZA?"
 
 The most common side effects of GLUMETZA include diarrhea, nausea, and upset stomach.
 These side effects usually go away after you take the medicine for a while.
@@ -130,7 +128,7 @@ For more information, ask your doctor or pharmacist.
 
 How should I store GLUMETZA?
 
-- Store GLUMETZA at room temperature, 59° to 86° F (15° to 30° C).
+- Store GLUMETZA at room temperature, 59° to 86°F (15° to 30°C).
 - Keep GLUMETZA and all medicines out of the reach of children.
 
 General information about GLUMETZA.
@@ -149,11 +147,7 @@ What are the ingredients in GLUMETZA?
 Active Ingredient: 500 mg or 1000 mg of metformin HCl
 
 Inactive Ingredient: Each 500 mg tablet contains coloring, hypromellose, magnesium stearate, microcrystalline cellulose and polyethylene oxide.
-Each 1000 mg tablet contains contains colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, titanium dioxide, simethicone emulsion, polysorbate and coloring.
+Each 1000 mg tablet contains colloidal silicon dioxide, polyvinyl alcohol, crospovidone, glyceryl behenate, polyacrylate dispersion, hypromellose, talc, polyethylene glycol, titanium dioxide, simethicone emulsion, polysorbate and coloring.
 GLUMETZA 500 mg and 1000 mg tablets both utilize advanced, polymer-based, oral drug delivery systems, which allow delivery of metformin HCl to the upper GI tract.
 
-Rx Only
-
-Depomed, Inc. Menlo Park, CA (866) 458-6389
-
-©2008 Depomed, Inc. www.GlumetzaXR.com
+Rx Only Depomed, Inc. Menlo Park, CA (866) 458-6389 ©2008 Depomed, Inc. www.GlumetzaXR.com

@@ -3,18 +3,17 @@
 GLUMETZA has been studied as monotherapy and in combination with a sulfonylurea and insulin.
 
 In a multicenter, randomized, double-blind, active-controlled, dose-ranging, parallel group study GLUMETZA 1500 mg once a day, GLUMETZA 1500 per day in divided doses (500 mg in the morning and 1000 mg in the evening), and GLUMETZA 2000 mg once a day were compared to immediate release metformin 1500 mg per day in divided doses (500 mg in the morning and 1000 mg in the evening).
-(See Table 3.)
-Newly diagnosed patients, diet-and-exercise-treated (diet/exercise) patients, patients who received combination therapy consisting of metformin up to 1500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose allowed (following a 6-week washout), or patients on monotherapy with an antihyperglycemic agent (following a 6-week washout) were randomized to treatment and began titration from 1000 mg/day up to their assigned treatment dose over 3 weeks.
+(See Table 3) Newly diagnosed patients, diet-and-exercise-treated (diet/exercise) patients, patients who received combination therapy consisting of metformin up to 1500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose allowed (following a 6-week washout), or patients on monotherapy with an antihyperglycemic agent (following a 6-week washout) were randomized to treatment and began titration from 1000 mg/day up to their assigned treatment dose over 3 weeks.
 Metformin IR treatment was initiated as 500 mg BID for 1 week followed by 500 mg with breakfast and 1000 mg with dinner for the second week.
 The 3-week treatment period was followed by an additional 21-week period at the randomized dose.
-Each of the GLUMETZA regimens, were at least as effective as immediate release metformin in all measures of glycemic control.
+Each of the GLUMETZA regimens were at least as effective as immediate release metformin in all measures of glycemic control.
 Additionally, once daily dosing was as effective as the commonly prescribed twice daily dosing of the immediate release metformin formulation.
 
 Table 3: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma Glucose and Body Weight for the GLUMETZA and Metformin IR Treatment Groups (First 24-Week Study)
 
-| Parameter | GLUMETZA |  |  | Metformin IR 1500 mg AM/PM (n = 174) |
+| 1500 mg QD (n = 178) | 1500 mg AM/PM (n = 182) | 2000 mg QD (n = 172) |  |  |
 | --- | --- | --- | --- | --- |
-|  | 1500 mg QD (n = 178) | 1500 mg AM/PM (n = 182) | 2000 mg QD (n = 172) |  |
+| Parameter | GLUMETZA |  |  | Metformin IR 1500 mg AM/PM (n = 174) |
 | HbA1c (%) |  |  |  |  |
 | n | 169 | 175 | 159 | 170 |
 | Baseline | 8.22 ± 0.25 | 8.50 ± 0.24 | 8.26 ± 0.24 | 8.70 ± 0.25 |
@@ -39,13 +38,13 @@ They were stabilized on glyburide for a 6-week period, and then randomized to 1 
 A 3-week GLUMETZA titration phase was followed by a 21-week maintenance treatment phase.
 The difference in the change from Baseline in HbA1c levels between the combined M-ER+ SU (sulfonylurea) groups and the SU only group was statistically significant (p<0.001).
 The changes in glycemic control across the three GLUMETZA+glyburide groups were comparable.
-(See Table 4.)
+(See Table 4)
 
 Table 4: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma Glucose and Body Weight for the GLUMETZA/Glyburide Groups and Placebo/Glyburide Treatment Group (Second 24-Week Study)
 
-| Parameter | GLUMETZA + Glyburide - Glyburide was administered as 10 mg at breakfast and 5 mg at dinner. |  |  | Placebo/ Glyburide |
+| 1500 mg QD (n = 144) | 1000 mg BID (n = 141) | 2000 mg QD (n = 146) |  |  |
 | --- | --- | --- | --- | --- |
-|  | 1500 mg QD (n = 144) | 1000 mg BID (n = 141) | 2000 mg QD (n = 146) | (n= 144) |
+| Parameter | GLUMETZA + Glyburide* |  |  | Placebo/ Glyburide* (n = 144) |
 | HbA1c (%) |  |  |  |  |
 | n | 136 | 136 | 144 | 141 |
 | Baseline | 7.93 ± 0.13 | 7.75 ± 0.13 | 7.68 ± 0.13 | 8.08 ± 0.13 |
@@ -67,6 +66,7 @@ Table 4: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma 
 | Mean Difference ± SE from Glyburide Alone | -0.43 ± 0.52 | -0.63 ± 0.53 | -0.74 ± 0.52 | N/A |
 | 95% CI for Difference | (-1.46, 0.60) | (-1.67, 0.40) | (-1.77, 0.28) |  |
 | p-value for pairwise comparison | 0.410 | 0.230 | 0.156 |  |
+| * - Glyburide was administered as 10 mg at breakfast and 5 mg at dinner. |  |  |  |  |
 
 A 24-week, double-blind, placebo-controlled study of immediate release metformin plus insulin versus insulin plus placebo was conducted in patients with type 2 diabetes who failed to achieve adequate glycemic control on insulin alone.
 Patients randomized to receive metformin plus insulin achieved a reduction in HbA1c of 2.10%, compared to a 1.56% reduction in HbA1c achieved by insulin plus placebo.
