@@ -17,7 +17,7 @@ Adult and Adolescent Patients 12 Years of Age and Older: The adverse reaction in
 The table lists the incidence of all adverse events (whether considered by the investigator drug related or unrelated to drug) from this study which occurred at a rate of 3% or greater in the PROAIR HFA Inhalation Aerosol treatment group and more frequently in the PROAIR HFA Inhalation Aerosol treatment group than in the matched placebo group.
 Overall, the incidence and nature of the adverse events reported for PROAIR HFA Inhalation Aerosol and the marketed active comparator HFA-134a albuterol inhaler were comparable.
 
-Adverse Experience Incidences (% of Patients) in a Six Week Clinical Trial*
+Adverse Experience Incidences (% of Patients) in a Six Week Clinical TrialThis table includes all adverse events (whether considered by the investigator drug related or unrelated to drug) which occurred at an incidence rate of at least 3.0% in the PROAIR HFA Inhalation Aerosol group and more frequently in the PROAIR HFA Inhalation Aerosol group than in the placebo HFA Inhalation Aerosol group.
 
 | Body System/ Adverse Event (as Preferred Term) |  | PROAIR HFA Inhalation Aerosol (N=58) | Marketed active comparator HFA-134a albuterol inhaler (N=56) | Matched Placebo HFA-134a Inhalation Aerosol (N=58) |
 | --- | --- | --- | --- | --- |
@@ -27,7 +27,6 @@ Adverse Experience Incidences (% of Patients) in a Six Week Clinical Trial*
 | Nervous System | Dizziness | 3 | 0 | 0 |
 | Respiratory System | Pharyngitis | 14 | 7 | 9 |
 | Rhinitis | 5 | 4 | 2 |  |
-| * This table includes all adverse events (whether considered by the investigator drug related or unrelated to drug) which occurred at an incidence rate of at least 3.0% in the PROAIR HFA Inhalation Aerosol group and more frequently in the PROAIR HFA Inhalation Aerosol group than in the placebo HFA Inhalation Aerosol group. |  |  |  |  |
 
 Adverse events reported by less than 3% of the patients receiving PROAIR HFA Inhalation Aerosol but by a greater proportion of PROAIR HFA Inhalation Aerosol patients than the matched placebo patients, which have the potential to be related to PROAIR HFA Inhalation Aerosol, included chest pain, infection, diarrhea, glossitis, accidental injury (nervous system), anxiety, dyspnea, ear disorder, ear pain, and urinary tract infection.
 

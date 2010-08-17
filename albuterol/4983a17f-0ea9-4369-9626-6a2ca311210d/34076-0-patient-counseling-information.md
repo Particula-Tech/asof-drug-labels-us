@@ -48,3 +48,5 @@ Never immerse the canister in water to determine how full the canister is ("floa
 
 In general, the technique for administering PROAIR HFA Inhalation Aerosol to children is similar to that for adults.
 Children should use PROAIR HFA Inhalation Aerosol under adult supervision, as instructed by the patient's physician.
+
+## 17.8 FDA-Approved Patient Labeling

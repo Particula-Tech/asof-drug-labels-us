@@ -1,16 +1,16 @@
-# 17.8 FDA-Approved Patient Labeling
-
 See tear-off illustrated Information for the Patient leaflet below.
 
-Mktd by: Teva Specialty Pharmaceuticals LLC Horsham, PA 19044
+U.S. Patent Nos. 5605674, 5695743, 7105152, 7566445
+
+Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Copyright ©2008, Teva Specialty Pharmaceuticals LLC All rights reserved.
-PROAIR® HFA is a registered trademark of Teva Specialty Pharmaceuticals LLC
+Copyright ©2010, Teva Respiratory, LLC All rights reserved.
+PROAIR® HFA is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland PE 2015 Rev.
-09/08
+Manufactured In Ireland PE 2216 Rev.
+03/10
 
 Attention Pharmacist:
 
@@ -158,14 +158,14 @@ Never throw container into fire or incinerator.
 Avoid spraying in eyes.
 Keep out of reach of children.
 
-For questions related to proper use and maintenance of your PROAIR HFA inhaler, please call Teva Specialty Pharmaceuticals customer service at 1-888-482-9522.
+For questions related to proper use and maintenance of your PROAIR HFA inhaler, please call Teva Respiratory customer service at 1-888-482-9522.
 
-Mktd by: Teva Specialty Pharmaceuticals LLC Horsham, PA 19044
+Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Copyright ©2008, Teva Specialty Pharmaceuticals LLC All rights reserved.
-PROAIR® HFA is a registered trademark of Teva Specialty Pharmaceuticals LLC
+Copyright ©2010, Teva Respiratory, LLC All rights reserved.
+PROAIR® HFA is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland PE 2015 Rev.
-09/08
+Manufactured In Ireland PE 2216 Rev.
+03/10
