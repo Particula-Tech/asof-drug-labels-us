@@ -17,7 +17,7 @@ The following serious adverse reactions have been associated with TREANDA in cli
 The data described below reflect exposure to TREANDA in 153 patients.
 TREANDA was studied in an active-controlled trial.
 The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
-All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on days 1 and 2 every 28 days.
+All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
 
 Adverse reactions were reported according to NCI CTC v.2.0.
 In the randomized CLL clinical study, non-hematologic adverse reactions (any grade) in the TREANDA group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
@@ -131,8 +131,8 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Urinary tract infection | 17 (10) | 4 (2) |
 | Sinusitis | 15 (9) | 0 |
 | Pneumonia | 14 (8) | 9 (5) |
-| Febrile Neutropenia | 11 (6) | 11 (6) |
-| Oral Candidiasis | 11 (6) | 2 (1) |
+| Febrile neutropenia | 11 (6) | 11 (6) |
+| Oral candidiasis | 11 (6) | 2 (1) |
 | Nasopharyngitis | 11 (6) | 0 |
 | Investigations |  |  |
 | Weight decreased | 31 (18) | 3 (2) |
@@ -194,7 +194,7 @@ Adverse reactions occurring less frequently but possibly related to TREANDA trea
 ## 6.3 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including pruritus, irritation, pain, and swelling.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling.
 
 Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
 [See Warnings and Precautions (5.5)].

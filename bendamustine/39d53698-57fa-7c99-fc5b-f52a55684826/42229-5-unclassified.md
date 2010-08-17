@@ -1,11 +1,10 @@
-Manufactured by: Pharmachemie B.V.
-The Netherlands
+TRE-006
 
-Manufactured for: Cephalon, Inc. Frazer, PA 19355
+Distributed by: Cephalon, Inc. Frazer, PA 19355
 
-TREANDA is a trademark of Cephalon, Inc., or its affiliates.
+TREANDA is a trademark of Cephalon, Inc. or its affiliates.
 
-© 2008-2010 Cephalon, Inc., or its affiliates.
-Label Code: 00016287.04
+© 2008-2010 Cephalon, Inc. or its affiliates.
+Label Code: 00016287.06
 
 All rights reserved.

@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 TREANDA contains bendamustine hydrochloride, an alkylating drug, as the active ingredient.
-The chemical name of bendamustine hydrochloride is 1H-benzimidazole-2-butanoic acid, 5-[bis(2-chloroethyl)amino]-1-methyl‑, monohydrochloride.
+The chemical name of bendamustine hydrochloride is 1H-benzimidazole-2-butanoic acid, 5-[bis(2-chloroethyl)amino]-1 methyl-, monohydrochloride.
 Its empirical molecular formula is C16H21Cl2N3O2 ∙ HCl, and the molecular weight is 394.7.
 Bendamustine hydrochloride contains a mechlorethamine group and a benzimidazole heterocyclic ring with a butyric acid substituent, and has the following structural formula:
 
