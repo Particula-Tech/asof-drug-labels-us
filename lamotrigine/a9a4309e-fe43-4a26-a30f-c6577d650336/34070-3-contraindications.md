@@ -1,0 +1,3 @@
+# 4 CONTRAINDICATIONS
+
+Lamotrigine tablets are contraindicated in patients who have demonstrated hypersensitivity to the drug or its ingredients [see Boxed Warning] .
