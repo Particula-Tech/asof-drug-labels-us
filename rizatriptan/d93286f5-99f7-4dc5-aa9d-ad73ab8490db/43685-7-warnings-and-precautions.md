@@ -95,7 +95,7 @@ No specific laboratory tests are recommended for monitoring patients prior to an
 
 ## Drug Interactions
 
-(See alsoCLINICAL PHARMACOLOGY, Drug Interactions.)
+(See also CLINICAL PHARMACOLOGY, Drug Interactions.)
 
 Propranolol: Rizatriptan 5 mg should be used in patients taking propranolol, as propranolol has been shown to increase the plasma concentrations of rizatriptan by 70% (see CLINICAL PHARMACOLOGY, Drug Interactions; DOSAGE AND ADMINISTRATION).
 
@@ -145,7 +145,7 @@ Toxicokinetic studies demonstrated placental transfer of drug in both species.
 
 There are no adequate and well-controlled studies in pregnant women; therefore, rizatriptan should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Merck & Co., Inc. maintains a registry to monitor the pregnancy outcomes of women exposed to MAXALT while pregnant.
+Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to MAXALT while pregnant.
 Healthcare providers are encouraged to report any prenatal exposure to MAXALT by calling the Pregnancy Registry at (800) 986-8999.
 
 ## Nursing Mothers

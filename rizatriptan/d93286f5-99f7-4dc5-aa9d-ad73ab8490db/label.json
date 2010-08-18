@@ -1,14 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020864",
+    "NDA020865"
+  ],
   "inn": "rizatriptan",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0266-12",
+    "0006-0267-01",
     "0006-0267-12",
     "0006-3800-12",
+    "0006-3801-01",
     "0006-3801-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rizatriptan benzoate",
+      "name": "MAXALT"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "rizatriptan benzoate",
+      "name": "MAXALT-MLT"
+    }
+  ],
   "setid": "d93286f5-99f7-4dc5-aa9d-ad73ab8490db",
   "source": "dailymed"
 }

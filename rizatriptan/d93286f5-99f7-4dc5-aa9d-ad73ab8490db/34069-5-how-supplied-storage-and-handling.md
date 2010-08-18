@@ -30,28 +30,16 @@ Dispense in a tight container, if product is subdivided.
 Store MAXALT-MLT Orally Disintegrating Tablets at room temperature, 15-30°C (59-86°F).
 The patient should be instructed not to remove the blister from the outer aluminum pouch until the patient is ready to consume the orally disintegrating tablet inside.
 
-MAXALT Tablets are manufactured for:
+MAXALT Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+By: MSD, Ltd. Cramlington Northumberland, NE23 3JU, UK
 
-By:
+MAXALT-MLT Orally Disintegrating Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MSD, Ltd. Cramlington
-
-Northumberland, NE23 3JU, UK
-
-MAXALT-MLT Orally Disintegrating Tablets are manufactured for:
-
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By:
-
-Catalent UK Swindon, Zydis Ltd.
-
-Swindon, Wiltshire, SN5 8RU, UK
+By: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
 
 US Patent No.: 5,298,520
 
-Issued February 2008
+Issued December 2009
 
-9652506
+9652507

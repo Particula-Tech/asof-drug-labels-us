@@ -1,19 +1,13 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# PATIENT PACKAGE INSERT
 
-## Patient Information about
-
-MAXALT® (max-awlt) and MAXALT-MLT®
-
-for Migraine
-
-Generic name: rizatriptan benzoate
+Patient Information about MAXALT® (max-awlt) and MAXALT-MLT® for Migraine Generic name: rizatriptan benzoate
 
 Please read this information before you start taking MAXALT.
 Also, read the leaflet each time you renew your prescription, just in case anything has changed.
 Remember, this leaflet does not take the place of careful discussions with your doctor.
 You and your doctor should discuss MAXALT when you start taking your medication and at regular checkups.
 
-### What is MAXALT and what is it used for?
+## What is MAXALT and what is it used for?
 
 MAXALT is a medication used for the treatment of migraine attacks in adults.
 MAXALT is a member of a class of drugs called selective 5-HT1B/1D receptor agonists.
@@ -28,16 +22,16 @@ MAXALT should not be used to treat headaches that might be caused by other, more
 
 You will find more information about migraine at the end of this leaflet.
 
-### How should I take MAXALT?
+## How should I take MAXALT?
 
 Your doctor has prescribed either a 5-mg or 10-mg dosage of MAXALT or MAXALT-MLT for your migraine attack.
 When you have a migraine headache, take your medication as directed by your doctor.
 
-#### MAXALT Tablets
+### MAXALT Tablets
 
 If you are using MAXALT Tablets, swallow the tablet whole with liquid.
 
-#### MAXALT-MLT Orally Disintegrating Tablets
+### MAXALT-MLT Orally Disintegrating Tablets
 
 If you are using MAXALT-MLT, leave the orally disintegrating tablet in its package until you are ready to take it.
 Remove the blister from the foil pouch.
@@ -53,19 +47,19 @@ If you are receiving propranolol, you should use the 5-mg dose of MAXALT or MAXA
 
 If your condition worsens, seek medical attention.
 
-### Who should not take MAXALT?
+## Who should not take MAXALT?
 
 Do not take MAXALT if you:
 
 - have had a serious allergic reaction to MAXALT or any of its ingredients
 - have uncontrolled high blood pressure
 - have heart disease or history of heart disease
-- are currently taking monoamine oxidase (MAO) inhibitors The brands listed are the trademarks of their respective owners and are not trademarks of Merck & Co., Inc. such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for mental depression, or have taken MAO inhibitors within the last two weeks.
+- are currently taking monoamine oxidase (MAO) inhibitorsThe brands listed are the trademarks of their respective owners and are not trademarks of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for mental depression, or have taken MAO inhibitors within the last two weeks.
 
 MAXALT should not be used within 24 hours of treatment with another 5-HT1 agonist such as sumatriptan (IMITREX®), naratriptan (AMERGE™) or zolmitriptan (ZOMIG™); or ergotamine-type medications such as ergotamine (BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®), dihydro-ergotamine (D.H.E.
 45®), or methysergide (SANSERT®).
 
-### What should I tell my doctor before and during treatment with MAXALT?
+## What should I tell my doctor before and during treatment with MAXALT?
 
 Tell your doctor:
 
@@ -91,11 +85,11 @@ MAXALT-MLT orally disintegrating tablets contain aspartame, a source of phenylal
 
 Phenylketonurics: MAXALT-MLT 5-mg and 10-mg orally disintegrating tablets contain 1.05 and 2.10 mg phenylalanine, respectively.
 
-### What if I am pregnant?
+## What if I am pregnant?
 
 Do not use MAXALT if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception, unless you have discussed this with your doctor.
 
-### Can I take MAXALT with other medications?
+## Can I take MAXALT with other medications?
 
 Do not take MAXALT with any other drug in the same class within 24 hours, such as sumatriptan (IMITREX®), naratriptan (AMERGE™) or zolmitriptan (ZOMIG™).
 
@@ -110,7 +104,7 @@ Ask your doctor for instructions about taking MAXALT if you are now taking propr
 Ask your doctor for instructions about taking MAXALT if you are now taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
 (See What should I tell my doctor before and during treatment with MAXALT? section.)
 
-### What are the possible side effects of MAXALT?
+## What are the possible side effects of MAXALT?
 
 Like all prescription drugs, MAXALT can cause side effects.
 In studies, MAXALT was generally well-tolerated.
@@ -152,11 +146,11 @@ Tell your doctor about these or any other symptoms.
 If the symptoms persist or worsen, seek medical attention promptly.
 In addition, tell your doctor if you experience any symptoms that suggest an allergic reaction (see Miscellaneous above) after taking MAXALT.
 
-### What should I do if I take an overdose?
+## What should I do if I take an overdose?
 
 If you take more medication than you have been told to take, you should contact your doctor, hospital emergency department, or nearest poison control center immediately.
 
-### What is migraine and how does it differ from other headaches?
+## What is migraine and how does it differ from other headaches?
 
 Migraine is an intense, throbbing, typically one-sided headache that often includes nausea, vomiting, sensitivity to light, and sensitivity to sound.
 According to many migraine sufferers, the pain and symptoms from a migraine headache are more intense than the pain and symptoms of a common headache.
@@ -168,12 +162,12 @@ The severity and frequency of migraine attacks may vary.
 
 Based on your symptoms, your doctor will decide whether you have migraine.
 
-### Who gets migraine?
+## Who gets migraine?
 
 Migraine headaches tend to occur in members of the same family.
 Both men and women get migraine, but it is more common in women.
 
-### What may trigger a migraine attack?
+## What may trigger a migraine attack?
 
 Certain things are thought to trigger migraine attacks in some people.
 Some of these triggers are:
@@ -187,7 +181,7 @@ You may be able to prevent migraine attacks or diminish their frequency if you u
 Keeping a headache diary may help you identify and monitor the possible migraine triggers you encounter.
 Once the triggers are identified, you and your doctor can modify your treatment and lifestyle appropriately.
 
-### How does MAXALT work during a migraine attack?
+## How does MAXALT work during a migraine attack?
 
 Treatment with MAXALT:
 
@@ -198,7 +192,7 @@ Treatment with MAXALT:
 
 It is thought that each of these actions contributes to relief of your symptoms by MAXALT.
 
-### How should I store MAXALT?
+## How should I store MAXALT?
 
 Keep your medicine in a safe place where children cannot reach it.
 It may be harmful to children.
@@ -214,28 +208,16 @@ This leaflet provides a summary of information about MAXALT.
 If you have any questions or concerns about either MAXALT or migraine, talk to your doctor.
 In addition, talk to your pharmacist or other health care provider.
 
-MAXALT Tablets are manufactured for:
+MAXALT Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+By: MSD, Ltd. Cramlington Northumberland, NE23 3JU, UK
 
-By:
+MAXALT-MLT Orally Disintegrating Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MSD, Ltd. Cramlington
-
-Northumberland, NE23 3JU, UK
-
-MAXALT-MLT Orally Disintegrating Tablets are manufactured for:
-
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By:
-
-Catalent UK Swindon, Zydis Ltd.
-
-Swindon, Wiltshire, SN5 8RU, UK
+By: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
 
 US Patent No.: 5,298,520
 
-Issued February 2008
+Issued December 2009
 
-9652506
+9652507

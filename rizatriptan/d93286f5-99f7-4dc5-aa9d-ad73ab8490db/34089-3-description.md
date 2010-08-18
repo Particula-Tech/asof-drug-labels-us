@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-MAXALT Registered trademark of MERCK & CO., Inc. COPYRIGHT © 1998, 2006 MERCK & CO., Inc. All rights reserved contains rizatriptan benzoate, a selective 5-hydroxytryptamine1B/1D (5-HT1B/1D) receptor agonist.
+MAXALTRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. COPYRIGHT © 1998, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved contains rizatriptan benzoate, a selective 5-hydroxytryptamine1B/1D (5-HT1B/1D) receptor agonist.
 
 Rizatriptan benzoate is described chemically as: N,N-dimethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-1H -indole-3-ethanamine monobenzoate and its structural formula is:
 
