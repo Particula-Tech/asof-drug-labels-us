@@ -21,16 +21,10 @@ Store at controlled room temperature, 15-30°C (59-86°F), and protect from mois
 
 Dispense in a tight container, if product package is subdivided.
 
-Manufactured for:
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-by:
+Issued February 2010
 
-MERCK SHARP & DOHME LTD
-
-Cramlington, Northumberland, UK NE23 3JU
-
-Issued March 2008
-
-9763202
+9763204

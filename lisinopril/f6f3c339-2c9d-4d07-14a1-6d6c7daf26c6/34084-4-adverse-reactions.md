@@ -10,9 +10,10 @@ The overall frequency of adverse experiences could not be related to total daily
 
 For adverse experiences occurring in greater than one percent of patients with hypertension treated with PRINIVIL or PRINIVIL plus hydrochlorothiazide in controlled clinical trials and more frequently with PRINIVIL and/or PRINIVIL plus hydrochlorothiazide than placebo, comparative incidence data are listed in the table below:
 
+Percent of Patients in Controlled Studies
+
 |  | PRINIVIL (n = 1349) Incidence (discontinuation) | PRINIVIL/ Hydrochlorothiazide (n = 629) Incidence (discontinuation) | Placebo (n = 207) Incidence (discontinuation) |
 | --- | --- | --- | --- |
-|  | Percent of Patients in Controlled Studies |  |  |
 | Body As A Whole Fatigue Asthenia Orthostatic Effects | 2.5 (0.3) 1.3 (0.5) 1.2 (0.0) | 4.0 (0.5) 2.1 (0.2) 3.5 (0.2) | 1.0 (0.0) 1.0 (0.0) 1.0 (0.0) |
 | Cardiovascular Hypotension | 1.2 (0.5) | 1.6 (0.5) | 0.5 (0.5) |
 | Digestive Diarrhea Nausea Vomiting Dyspepsia | 2.7 (0.2) 2.0 (0.4) 1.1 (0.2) 0.9 (0.0) | 2.7 (0.3) 2.5 (0.2) 1.4 (0.1) 1.9 (0.0) | 2.4 (0.0) 2.4 (0.0) 0.5 (0.0) 0.0 (0.0) |
@@ -31,9 +32,10 @@ In controlled studies in patients with heart failure, therapy was discontinued i
 
 The following table lists those adverse experiences which occurred in greater than one percent of patients with heart failure treated with PRINIVIL or placebo for up to 12 weeks in controlled clinical trials and more frequently on PRINIVIL than placebo.
 
+Controlled Trials
+
 |  | 12 weeks | 12 weeks |
 | --- | --- | --- |
-|  | Controlled Trials |  |
 |  | PRINIVIL (n=407) Incidence (discontinuation) | Placebo (n=155) Incidence (discontinuation) |
 | Body As A Whole |  |  |
 | Chest Pain | 3.4 (0.2) | 1.3 (0.0) |

@@ -82,6 +82,6 @@ PRINIVIL is not recommended in pediatric patients <6 years or in pediatric patie
 ## Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
 Add 10 mL of Purified Water USP to a polyethylene terephthalate (PET) bottle containing ten 20-mg tablets of PRINIVIL and shake for at least one minute.
-Add 30 mL of Bicitra® Registered trademark of Alza Corporation diluent and 160 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
+Add 30 mL of Bicitra®Registered trademark of Alza Corporation diluent and 160 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
 The suspension should be stored at or below 25°C (77°F) and can be stored for up to four weeks.
 Shake the suspension before each use.

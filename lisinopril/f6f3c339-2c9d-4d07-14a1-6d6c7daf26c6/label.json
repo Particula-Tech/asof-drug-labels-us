@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019558"
+  ],
   "inn": "lisinopril",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0019-54",
     "0006-0106-54",
     "0006-0207-54"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "PRINIVIL"
+    }
+  ],
   "setid": "f6f3c339-2c9d-4d07-14a1-6d6c7daf26c6",
   "source": "dailymed"
 }

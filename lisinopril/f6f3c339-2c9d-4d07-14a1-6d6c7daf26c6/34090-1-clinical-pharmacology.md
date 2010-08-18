@@ -110,7 +110,7 @@ The once daily dosing for the treatment of congestive heart failure was the only
 
 ### Acute Myocardial Infarction:
 
-The Gruppo Italiano per lo Studio della Sopravvienza nell'Infarto Miocardico (GISSI - 3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction admitted to a coronary care unit.
+The Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto Miocardico (GISSI - 3) study was a multicenter, controlled, randomized, unblinded clinical trial conducted in 19,394 patients with acute myocardial infarction admitted to a coronary care unit.
 It was designed to examine the effects of short-term (6 week) treatment with lisinopril, nitrates, their combination, or no therapy on short-term (6 week) mortality and on long-term death and markedly impaired cardiac function.
 Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either
 

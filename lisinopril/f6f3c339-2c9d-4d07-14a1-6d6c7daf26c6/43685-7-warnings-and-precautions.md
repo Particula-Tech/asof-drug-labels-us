@@ -182,7 +182,7 @@ In some patients with compromised renal function (e.g., elderly patients or pati
 These effects are usually reversible.
 
 These interactions should be considered in patients taking NSAIDS including selective COX-2 inhibitors concomitantly with diuretics and angiotensin II antagonists or ACE inhibitors.
-Therefore, the combination should be administered with caution, especially in the elderly.
+Therefore, monitor effects on blood pressure and renal function when administering the combination, especially in the elderly.
 
 Other Agents: PRINIVIL has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin.
