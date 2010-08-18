@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA091575"
+  ],
+  "inn": "trospium",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-461-05",
+    "68462-461-10",
+    "68462-461-30",
+    "68462-461-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "d5c837a4-d1c6-4615-b7ad-27f3162a03aa",
+  "source": "dailymed"
+}
