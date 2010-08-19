@@ -1,0 +1,41 @@
+{
+  "application_numbers": [
+    "ANDA077542",
+    "ANDA078474"
+  ],
+  "inn": "risperidone",
+  "labeler": "Ranbaxy Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63304-643-05",
+    "63304-643-11",
+    "63304-643-17",
+    "63304-643-30",
+    "63304-643-69",
+    "63304-644-05",
+    "63304-644-11",
+    "63304-644-17",
+    "63304-644-30",
+    "63304-644-69",
+    "63304-949-05",
+    "63304-949-11",
+    "63304-949-17",
+    "63304-949-30",
+    "63304-950-05",
+    "63304-950-11",
+    "63304-950-17",
+    "63304-950-30",
+    "63304-951-05",
+    "63304-951-11",
+    "63304-951-17",
+    "63304-951-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "risperidone oral disintegrate tablets",
+      "name": "Risperidone Oral Disintegrate Tablets"
+    }
+  ],
+  "setid": "f91f551e-926f-440d-83d2-357e9d7484fe",
+  "source": "dailymed"
+}
