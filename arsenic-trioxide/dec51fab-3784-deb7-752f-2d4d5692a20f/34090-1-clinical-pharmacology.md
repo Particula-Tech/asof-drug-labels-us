@@ -8,51 +8,70 @@ Arsenic trioxide also causes damage or degradation of the fusion protein PML/RAR
 
 ## Pharmacokinetics
 
-The pharmacokinetics of trivalent arsenic, the active species of TRISENOX, have not been characterized.
+The inorganic, lyophilized form of arsenic trioxide, when placed into solution, immediately forms the hydrolysis product arsenious acid (AsIII).
+AsIII is the pharmacologically active species of arsenic trioxide.
+Monomethylarsonic acid (MMAV), and dimethylarsinic acid (DMAV) are the main pentavalent metabolites formed during metabolism, in addition to arsenic acid (AsV) a product of AsIII oxidation.
+The pharmacokinetics of arsenical species ([AsIII], [AsV], [MMAV], [DMAV]) were determined in 6 APL patients following once daily doses of 0.15 mg/kg for 5 days per week.
+Over the total single dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
+Peak plasma concentrations of arsenious acid (AsIII), the primary active arsenical species were reached at the end of infusion (2 hours).
+Plasma concentration of AsIII declined in a biphasic manner with a mean elimination half-life of 10 to 14 hours and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
+The daily exposure to AsIII (mean AUC0-24) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2-fold accumulation.
+The primary pentavalent metabolites, MMAV and DMAV, are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but, due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
+The mean estimated terminal elimination half-lives of the metabolites MMAV and DMAV are 32 hours and 72 hours, respectively.
+Approximate accumulation ranged from 1.4- to 8-fold following multiple dosing as compared to single dose administration.
+AsV is present in plasma only at relatively low levels.
+
+## Distribution
+
+The volume of distribution (Vss) for AsIII is large (mean 562 L, N=10) indicating that AsIII is widely distributed throughout body tissues.
+Vss is also dependent on body weight and increases as body weight increases.
 
 ## Metabolism
 
-The metabolism of arsenic trioxide involves reduction of pentavalent arsenic to trivalent arsenic by arsenate reductase and methylation of trivalent arsenic to monomethylarsonic acid and monomethylarsonic acid to dimethylarsinic acid by methyltransferases.
-The main site of methylation reactions appears to be the liver.
-Arsenic is stored mainly in liver, kidney, heart, lung, hair and nails.
-
-In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, 4A9/11.
+Much of the AsIII is distributed to the tissues where it is methylated to the less cytotoxic metabolites, monomethylarsonic acid (MMAV) and dimethylarsinic acid (DMAV) by methyltransferases primarily in the liver.
+The metabolism of arsenic trioxide also involves oxidation of AsIII to AsV, which may occur in numerous tissues via enzymatic or nonenzymatic processes.
+AsV is present in plasma only at relatively low levels following administration of arsenic trioxide.
 
 ## Excretion
 
-Disposition of arsenic following intravenous administration has not been studied.
-Trivalent arsenic is mostly methylated in humans and excreted in urine.
+Approximately 15% of the administered TRISENOX dose is excreted in the urine as unchanged AsIII.
+The methylated metabolites of AsIII (MMAV, DMAV) are primarily excreted in the urine.
+The total clearance of AsIII is 49 L/h and the renal clearance is 9 L/h.
+Clearance is not dependent on body weight or dose administered over the range of 7-32 mg.
 
 ## Special Populations
 
-The effects of renal or hepatic impairment or gender, age and race on the pharmacokinetics of TRISENOX have not been studied (see PRECAUTIONS).
+### Effect of Age, Gender, and Race
+
+The effect of age, gender, or race on the pharmacokinetics of TRISENOX has not been studied.
+
+### Pediatric Patients
+
+Following IV administration of 0.15 mg/kg/day of arsenic trioxide in 10 APL patients (median age = 13.5 years, range 4-20 years), the daily exposure to AsIII (mean AUC0-24h) was 317 ng·hr/mL on Day 1 of Cycle 1 (see PRECAUTIONS, Pediatric Use).
+
+### Effect of Renal Impairment
+
+The effect of renal impairment on the pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated in 20 patients with advanced malignancies.
+Patients were classified as having normal renal function (creatinine clearance [CrCl] > 80 mL/min, n=6), mild renal impairment (CrCl 50-80 mL/min, n=5), moderate renal impairment (CrCl 30-49 mL/min, n=6), or severe renal impairment (CrCl < 30 mL/min, n=3).
+Following twice weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-∞ for AsIII was comparable among the normal, mild and moderate renal impairment groups.
+However, in the severe renal impairment group, the mean AUC0-∞ for AsIII was approximately 48% higher than that in the normal group.
+
+Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; however, the clinical consequences of this increased exposure are not known.
+AsV plasma levels were generally below the limit of assay quantitation in patients with impaired renal function (see PRECAUTIONS).
+The use of arsenic trioxide in patients on dialysis has not been studied.
+
+### Effect of Hepatic Impairment
+
+The effect of pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated following administration of 0.25-0.50 mg/kg of arsenic trioxide in patients with hepatocellular carcinoma.
+Patients were classified as having normal hepatic function (n=4), mild hepatic impairment (Child-Pugh class A, n=12), moderate hepatic impairment (Child-Pugh class B, n=3), or severe hepatic impairment (Child-Pugh class C, n=1).
+No clear trend toward an increase in systemic exposure to AsIII, AsV, MMAV or DMAV was observed with decreasing level of hepatic function as assessed by dose-normalized (per mg dose) AUC in the mild and moderate hepatic impairment groups.
+However, the one patient with severe hepatic impairment had mean dose-normalized AUC0‑24 and Cmax values 40% and 70% higher, respectively, than those patients with normal hepatic function.
+The mean dose-normalized trough plasma levels for both MMAV and DMAV in this severely hepatically impaired patient were 2.2-fold and 4.7-fold higher, respectively, than those in the patients with normal hepatic function (see PRECAUTIONS).
 
 ## Drug Interactions
 
 No formal assessments of pharmacokinetic drug-drug interactions between TRISENOX and other drugs have been conducted.
-The methyltransferases responsible for metabolizing arsenic trioxide are not members of the cytochrome P450 family of isoenzymes (see PRECAUTIONS).
+The methyltransferases responsible for metabolizing arsenic trioxide are not members of the cytochrome P450 family of isoenzymes.
 
-## Clinical Studies
-
-TRISENOX has been investigated in 40 relapsed or refractory APL patients, previously treated with an anthracycline and a retinoid regimen, in an open-label, single-arm, non-comparative study.
-Patients received 0.15 mg/kg/day intravenously over 1 to 2 hours until the bone marrow was cleared of leukemic cells or up to a maximum of 60 days.
-The CR (absence of visible leukemic cells in bone marrow and peripheral recovery of platelets and white blood cells with a confirmatory bone marrow ≥ 30 days later) rate in this population of previously treated patients was 28 of 40 (70%).
-Among the 22 patients who had relapsed less than one year after treatment with ATRA, there were 18 complete responders (82%).
-Of the 18 patients receiving TRISENOX ≥ one year from ATRA treatment, there were 10 complete responders (55%).
-The median time to bone marrow remission was 44 days and to onset of CR was 53 days.
-Three of 5 children, 5 years or older, achieved CR.
-No children less than 5 years old were treated.
-
-Three to six weeks following bone marrow remission, 31 patients received consolidation therapy with TRISENOX, at the same dose, for 25 additional days over a period up to 5 weeks.
-In follow-up treatment, 18 patients received further arsenic trioxide as a maintenance course.
-Fifteen patients had bone marrow transplants.
-At last follow-up, 27 of 40 patients were alive with a median follow-up time of 484 days (range 280 to 755) and 23 of 40 patients remained in complete response with a median follow-up time of 483 days (range 280 to 755).
-
-Cytogenetic conversion to no detection of the APL chromosome rearrangement was observed in 24 of 28 (86%) patients who met the response criteria defined above, in 5 of 5 (100%) patients who met some but not all of the response criteria, and 3 of 7 (43%) of patients who did not respond.
-Reverse Transcriptase – Polymerase Chain Reaction conversions to no detection of the APL gene rearrangement were demonstrated in 22 of 28 (79%) of patients who met the response criteria, in 3 of 5 (60%) of patients who met some but not all of the response criteria, and in 2 of 7 (29%) of patients who did not respond.
-
-Responses were seen across all age groups tested, ranging from 6 to 72 years.
-The ability to achieve a CR was similar for both genders.
-There were insufficient patients of Black, Hispanic or Asian derivation to estimate relative response rates in these groups, but responses were seen in members of each group.
-
-Another single center study in 12 patients with relapsed or refractory APL, where patients received TRISENOX (arsenic trioxide) injection doses generally similar to the recommended dose, had similar results with 9 of 12 (75%) patients attaining a CR.
+In vitro incubation of arsenic trioxide with human liver microsomes showed no inhibitory activity on substrates of the major cytochrome P450 (CYP) enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11.
+The pharmacokinetics of drugs that are substrates for these CYP enzymes are not expected to be affected by concomitant treatment with arsenic trioxide (see PRECAUTIONS).

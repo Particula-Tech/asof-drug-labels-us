@@ -1,26 +1,44 @@
-# WARNINGS (see boxed WARNING)
+# WARNINGS
+
+(See boxed WARNING)
 
 TRISENOX should be administered under the supervision of a physician who is experienced in the management of patients with acute leukemia.
 
-APL Differentiation Syndrome (see boxed WARNING): Nine of 40 patients with APL treated with TRISENOX, at a dose of 0.15 mg/kg, experienced the APL differentiation syndrome (see boxed WARNING and ADVERSE REACTIONS).
+## APL Differentiation Syndrome
 
-Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 10³/uL) in 20 of 40 patients.
+(See boxed WARNING)
+
+Nine of 40 patients with APL treated with TRISENOX, at a dose of 0.15 mg/kg, experienced the APL differentiation syndrome (see boxed WARNING and ADVERSE REACTIONS).
+
+## Hyperleukocytosis
+
+Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 10³/uL) in 20 of 40 patients.
 A relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
 Hyperleukocytosis was not treated with additional chemotherapy.
 WBC counts during consolidation were not as high as during induction treatment.
 
-QT Prolongation (see boxed WARNING): QT/QTc prolongation should be expected during treatment with arsenic trioxide and torsade de pointes as well as complete heart block has been reported.
+## QT Prolongation
+
+(See boxed WARNING)
+
+QT/QTc prolongation should be expected during treatment with arsenic trioxide and torsade de pointes as well as complete heart block has been reported.
 Over 460 ECG tracings from 40 patients with refractory or relapsed APL treated with TRISENOX were evaluated for QTc prolongation.
 Sixteen of 40 patients (40%) had at least one ECG tracing with a QTc interval greater than 500 msec.
 Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusion, and then returned towards baseline by the end of 8 weeks after TRISENOX infusion.
 In these ECG evaluations, women did not experience more pronounced QT prolongation than men, and there was no correlation with age.
 
-Complete AV block: Complete AV block has been reported with arsenic trioxide in the published literature including a case of a patient with APL.
+## Complete AV block
 
-Carcinogenesis: Carcinogenicity studies have not been conducted with TRISENOX by intravenous administration.
+Complete AV block has been reported with arsenic trioxide in the published literature including a case of a patient with APL.
+
+## Carcinogenesis
+
+Carcinogenicity studies have not been conducted with TRISENOX by intravenous administration.
 The active ingredient of TRISENOX, arsenic trioxide is a human carcinogen.
 
-Pregnancy: TRISENOX may cause fetal harm when administered to a pregnant woman.
+## Pregnancy
+
+TRISENOX may cause fetal harm when administered to a pregnant woman.
 Studies in pregnant mice, rats, hamsters, and primates have shown that inorganic arsenicals cross the placental barrier when given orally or by injection.
 The reproductive toxicity of arsenic trioxide has been studied in a limited manner.
 An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m² basis).
