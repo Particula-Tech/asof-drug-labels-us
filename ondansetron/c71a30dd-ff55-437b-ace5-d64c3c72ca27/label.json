@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022524"
+  ],
+  "inn": "ondansetron",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-324-11",
+    "49884-324-52",
+    "49884-324-62",
+    "49884-325-11",
+    "49884-325-52",
+    "49884-325-62"
+  ],
+  "products": [
+    {
+      "form": "FILM, SOLUBLE",
+      "generic": "ondansetron",
+      "name": "Zuplenz"
+    }
+  ],
+  "setid": "c71a30dd-ff55-437b-ace5-d64c3c72ca27",
+  "source": "dailymed"
+}
