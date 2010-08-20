@@ -87,3 +87,23 @@ extended-release capsules
 100 capsules
 
 Dispense with Medication Guide attached or provided separately.
+
+PRINCIPAL DISPLAY PANEL
+
+Package Label – 40 mg
+
+Rx Only NDC 0078-0434-05
+
+Focalin XR®
+
+(dexmethylphenidate HCl)
+
+extended-release capsules
+
+40 mg
+
+100 capsules
+
+Dispense in tight container (USP).
+
+Dispense with Medication Guide attached or provided separately.

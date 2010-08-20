@@ -9,3 +9,5 @@
 20 mg extended-release capsules
 
 30 mg extended-release capsules
+
+40 mg extended-release capsules

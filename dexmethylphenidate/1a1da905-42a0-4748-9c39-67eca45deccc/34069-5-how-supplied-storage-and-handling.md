@@ -10,6 +10,8 @@
 
 30 mg Extended-Release Capsules (NDC 0078-0433-05) light caramel and white (imprinted NVR D30) supplied in bottles of 100
 
+40 mg Extended-Release Capsules (NDC 0078-0434-05) green and white (imprinted NVR D40) supplied in bottles of 100
+
 Store FOCALIN XR at 25°C (77°F), excursions permitted 15°-30°C (59°-86°F).
 [See USP Controlled Room Temperature.]
 
