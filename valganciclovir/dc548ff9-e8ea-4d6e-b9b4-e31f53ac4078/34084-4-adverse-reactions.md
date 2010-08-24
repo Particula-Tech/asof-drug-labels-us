@@ -2,8 +2,8 @@
 
 The following serious adverse events are discussed in greater detail in other sections of the labeling:
 
-- Hematologic adverse events [see Boxed Warning, Warnings and Precautions (5.1)]
-- Acute renal failure [see Warnings and Precautions (5.5)]
+- Hematologic adverse events [see Boxed Warning, Warnings and Precautions (5.1)].
+- Acute renal failure [see Warnings and Precautions (5.5)].
 
 The most common adverse events and laboratory abnormalities reported in at least one indication by ≥ 20% of adult patients treated with Valcyte tablets are diarrhea, pyrexia, nausea, tremor, neutropenia, anemia, graft rejection, thrombocytopenia, and vomiting.
 The most common reported adverse events and laboratory abnormalities reported in > 10% of pediatric solid organ transplant recipients treated with Valcyte for oral solution or tablets are diarrhea, pyrexia, hypertension, upper respiratory tract infection, vomiting, anemia, neutropenia, constipation, nausea, and cough.
@@ -50,12 +50,23 @@ Table 3 Pooled Laboratory Abnormalities Reported in Patients Who Received Valcyt
 | Laboratory Abnormalities | Valcyte Tablets (N=370) % |
 | --- | --- |
 |  | Patients with CMV Retinitis |
-| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 19 17 17 |
-| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 – < 9.5 | 7 13 16 |
-| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 4 6 22 |
-| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 3 12 |
+| Neutropenia: ANC/µL |  |
+| < 500 | 19 |
+| 500 – < 750 | 17 |
+| 750 – < 1000 | 17 |
+| Anemia: Hemoglobin g/dL |  |
+| < 6.5 | 7 |
+| 6.5 – < 8.0 | 13 |
+| 8.0 – < 9.5 | 16 |
+| Thrombocytopenia: Platelets/µL |  |
+| < 25000 | 4 |
+| 25000 – < 50000 | 6 |
+| 50000 – < 100000 | 22 |
+| Serum Creatinine: mg/dL |  |
+| > 2.5 | 3 |
+| > 1.5 – 2.5 | 12 |
 
-Prevention of CMV Disease in Selected Solid Organ Transplantation: Table 4 shows selected adverse events regardless of severity and drug relationship with an incidence of ≥ 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received Valcyte tablets (N=244) or oral ganciclovir (N=126).
+Prevention of CMV Disease in Selected Solid Organ Transplantation: Table 4 shows selected adverse events regardless of severity and drug relationship with an incidence of ≥ 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received Valcyte tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
 The majority of the adverse events were of mild or moderate intensity.
 
 Table 4 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥ 5% of Patients From a Study of Selected Solid Organ Transplant Patients
@@ -72,7 +83,23 @@ Table 4 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥ 5% of P
 | Vomiting | 16 | 14 |
 | Pyrexia | 13 | 14 |
 
-Adverse events not included in Table 4, which either occurred at a frequency of ≥ 5% in a clinical study with solid organ transplant patients, or were selected serious adverse events reported in studies with patients with CMV retinitis or in studies with solid organ transplant patients with a frequency of < 5% are listed below.
+The overall safety profile of Valcyte did not change with the extension of prophylaxis until Day 200 post-transplant in high risk kidney transplant patients (see Table 5).
+
+Table 5 Percentage of Selected Grades 1-4 Adverse Events Reported in ≥ 5% of Patients from a Study of Kidney Transplant Patients
+
+| Adverse Event | Valcyte Tablets Day 100 Post-transplant (N=164) % | Valcyte Tablets Day 200 Post-transplant (N=156) % |
+| --- | --- | --- |
+| Diarrhea | 26 | 31 |
+| Tremors | 12 | 17 |
+| Hypertension | 13 | 12 |
+| Nausea | 11 | 11 |
+| Pyrexia | 12 | 9 |
+| Transplant rejection | 9 | 6 |
+| Headache | 10 | 6 |
+| Insomnia | 7 | 6 |
+| Vomiting | 3 | 6 |
+
+Adverse events not included in Table 4 and Table 5, which either occurred at a frequency of ≥ 5% in clinical studies with solid organ transplant patients, or were selected serious adverse events reported in studies with patients with CMV retinitis or in studies with solid organ transplant patients with a frequency of < 5% are listed below.
 
 Allergic reactions: valganciclovir hypersensitivity
 
@@ -106,16 +133,47 @@ Skin and subcutaneous tissue disorders: dermatitis, pruritus, acne
 
 Vascular disorders: hypotension
 
-Laboratory abnormalities reported with Valcyte tablets in one study in solid organ transplant patients are listed in Table 5.
+Laboratory abnormalities reported with Valcyte tablets in two studies in solid organ transplant patients are listed in Table 6 and Table 7.
 
-Table 5 Laboratory Abnormalities Reported in a Study of Selected Solid Organ Transplant PatientsLaboratory abnormalities are those reported by investigators.
+Table 6 Laboratory Abnormalities Reported in a Study of Selected Solid Organ Transplant PatientsLaboratory abnormalities are those reported by investigators.
 
 | Laboratory Abnormalities | Valcyte Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
 | --- | --- | --- |
-| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 5 3 5 | 3 2 2 |
-| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 – < 9.5 | 1 5 31 | 2 7 25 |
-| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 0 1 18 | 2 3 21 |
-| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 14 45 | 21 47 |
+| Neutropenia: ANC/µL |  |  |
+| < 500 | 5 | 3 |
+| 500 – < 750 | 3 | 2 |
+| 750 – < 1000 | 5 | 2 |
+| Anemia: Hemoglobin g/dL |  |  |
+| < 6.5 | 1 | 2 |
+| 6.5 – < 8.0 | 5 | 7 |
+| 8.0 – < 9.5 | 31 | 25 |
+| Thrombocytopenia: Platelets/µL |  |  |
+| < 25000 | 0 | 2 |
+| 25000 – < 50000 | 1 | 3 |
+| 50000 – < 100000 | 18 | 21 |
+| Serum Creatinine: mg/dL |  |  |
+| > 2.5 | 14 | 21 |
+| > 1.5 – 2.5 | 45 | 47 |
+
+Table 7 Laboratory Abnormalities Reported in a Study of Kidney Transplant PatientsLaboratory abnormalities are those reported by investigators.
+
+| Laboratory Abnormalities | Valcyte Tablets Day 100 Post-transplant (N=164) % | Valcyte Tablets Day 200 Post-transplant (N=156) % |
+| --- | --- | --- |
+| Neutropenia: ANC/µL |  |  |
+| < 500 | 9 | 10 |
+| 500 – < 750 | 6 | 6 |
+| 750 – < 1000 | 7 | 5 |
+| Anemia: Hemoglobin g/dL |  |  |
+| < 6.5 | 0 | 1 |
+| 6.5 – < 8.0 | 5 | 1 |
+| 8.0 – < 9.5 | 17 | 15 |
+| Thrombocytopenia: Platelets/µL |  |  |
+| < 25000 | 0 | 0 |
+| 25000 – < 50000 | 1 | 0 |
+| 50000 – < 100000 | 7 | 3 |
+| Serum Creatinine: mg/dL |  |  |
+| > 2.5 | 17 | 14 |
+| > 1.5 – 2.5 | 50 | 48 |
 
 ## 6.2 Clinical Trial Experience in Pediatric Patients
 

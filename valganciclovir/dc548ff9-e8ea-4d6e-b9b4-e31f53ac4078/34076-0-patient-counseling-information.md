@@ -5,7 +5,7 @@ See FDA-Approved Patient Labeling
 Valcyte tablets cannot be substituted for ganciclovir capsules on a one-to-one basis.
 Inform patients switching from ganciclovir capsules of the risk of overdosage if they take more than the prescribed number of Valcyte tablets [see Dosage and Administration (2.1), Overdosage (10)].
 
-Adult patients should use Valcyte tablets, not Valcyte for oral solution [see Dosage and Administration (2.5)].
+Adult patients should use Valcyte tablets, not Valcyte for oral solution [see Dosage and Administration (2.1)].
 
 Valcyte is changed to ganciclovir once it is absorbed into the body.
 Inform all patients that the major toxicities of ganciclovir include granulocytopenia (neutropenia), anemia, and thrombocytopenia and that dose modifications may be required, including discontinuation.

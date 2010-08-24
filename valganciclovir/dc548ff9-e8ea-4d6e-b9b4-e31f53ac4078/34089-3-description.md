@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Valcyte contains valganciclovir hydrochloride (valganciclovir HCl), a hydrochloride salt of the L-valyl ester of ganciclovir that exists as a mixture of two diastereomers.
-Ganciclovir is a synthetic guanine derivative active against cytomegalovirus (CMV).
+Ganciclovir is a synthetic guanine derivative active against CMV.
 
 Valcyte is available as a 450 mg tablet for oral administration.
 Each tablet contains 496.3 mg of valganciclovir HCl (corresponding to 450 mg of valganciclovir), and the inactive ingredients microcrystalline cellulose, povidone K-30, crospovidone and stearic acid.

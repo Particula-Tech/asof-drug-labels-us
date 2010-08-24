@@ -8,24 +8,30 @@
   Therefore, Valcyte tablets cannot be substituted for ganciclovir capsules on a one-to-one basis [see Clinical Pharmacology (12.3)].
 - Adult patients should use Valcyte tablets, not Valcyte for oral solution.
 
-## 2.2 Adult Patients
+## 2.2 Adult Patients With Normal Renal Function
 
-Treatment of CMV Retinitis in Adult Patients With Normal Renal Function:
+For dosage recommendations in adult patients with renal impairment see Dosage and Administration (2.5).
+
+Treatment of CMV Retinitis:
 
 - Induction: The recommended dose is 900 mg (two 450 mg tablets) twice a day for 21 days.
 - Maintenance: Following induction treatment, or in adult patients with inactive CMV retinitis, the recommended dose is 900 mg (two 450 mg tablets) once a day.
 
-Prevention of CMV Disease: For adult patients who have received a kidney, heart, or kidney-pancreas transplant, the recommended dose is 900 mg (two 450 mg tablets) once a day starting within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease:
+
+- For adult patients who have received a heart or kidney-pancreas transplant, the recommended dose is 900 mg (two 450 mg tablets) once a day starting within 10 days of transplantation until 100 days post-transplantation.
+- For adult patients who have received a kidney transplant, the recommended dose is 900 mg (two 450 mg tablets) once a day starting within 10 days of transplantation until 200 days post-transplantation.
 
 ## 2.3 Pediatric Patients
 
 Prevention of CMV Disease: For pediatric patients 4 months to 16 years of age who have received a kidney or heart transplant, the recommended once daily dose of Valcyte starting within 10 days of transplantation until 100 days post-transplantation is based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below:
 
-Pediatric Dose (mg) = 7 × BSA × CrCl (calculated using a modified Schwartz formula), where
+Pediatric Dose (mg) = 7 × BSA × CrCl (calculated using a modified Schwartz formula).
+If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 
 where k =
 
-0.45 for patients aged < 1 year,
+0.45 for patients aged 4 months to < 1 year,
 
 0.45 for patients aged 1 to < 2 years (note k value is 0.45 instead of the typical value of 0.55),
 
@@ -54,7 +60,7 @@ Prior to dispensing to the patient, Valcyte for oral solution must be prepared b
   Do not freeze.
 - Write the date of expiration of the constituted oral solution on the bottle label.
 
-The patient package insert, which includes the dosing instructions for patients and 2 oral dispensers, should be dispensed to the patient [see Patient Counseling Information (17)].
+The patient package insert, which includes the dosing instructions for patients, and 2 oral dispensers should be dispensed to the patient [see Patient Counseling Information (17)].
 
 ## 2.5 Renal Impairment
 
@@ -63,7 +69,7 @@ For adult patients on hemodialysis (CrCl <10 mL/min), a dose recommendation for 
 
 Table 1 Dosage Recommendations for Adult Patients With Impaired Renal Function
 
-| CrClAn estimated creatinine clearance is calculated from serum creatinine by the following formulas: (140 – age [years]) × (body weight [kg]) For males = —————————————————— (72) × (serum creatinine [mg/dL]) For females = 0.85 × male value (mL/min) | Induction Dose | Maintenance/Prevention Dose |
+| CrClAn estimated creatinine clearance is calculated from serum creatinine by the following formulas: (140 – age [years]) × (body weight [kg]) For males = ———————————————— (72) × (serum creatinine [mg/dL]) For females = 0.85 × male value (mL/min) | Induction Dose | Maintenance/ Prevention Dose |
 | --- | --- | --- |
 | Valcyte 450 mg Tablets |  |  |
 | ≥ 60 | 900 mg twice daily | 900 mg once daily |

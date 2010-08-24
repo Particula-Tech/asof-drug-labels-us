@@ -11,7 +11,10 @@
   Am J Health-Syst Pharm.
   2006; 63:1172-1193.
 - Polovich, M., White, J. M., & Kelleher, L.O.
-  (eds.)
+  (eds.).
   2005.
-  Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)
+  Chemotherapy and biotherapy guidelines and recommendations for practice (2nd ed.).
   Pittsburgh, PA: Oncology Nursing Society.
+- Drew A.L., Miner R., Saleh E. 1993.
+  Antiviral Susceptibility Testing of Cytomegalovirus Criteria for Detecting Resistance to Antivirals.
+  Clinical Diagnostic Virology 1:179-185.
