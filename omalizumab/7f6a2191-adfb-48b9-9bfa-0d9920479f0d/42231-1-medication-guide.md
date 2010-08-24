@@ -45,3 +45,7 @@ WHAT ELSE SHOULD I KNOW ABOUT XOLAIR?
 - You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+| XOLAIR® (omalizumab) |  |
+| --- | --- |
+| Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990Jointly marketed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-499Novartis Pharmaceuticals Corporation One Health Plaza East Hanover, NJ 07936-1080 | 7390209/XOL-400050 LX1331 4855302 Initial US Approval: June 2003 Revision Date: July 2010 Xolair® is a registered trademark of Novartis AG Corporation.©2010 Genentech USA, Inc. |

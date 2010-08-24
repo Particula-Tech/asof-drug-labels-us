@@ -26,11 +26,10 @@ Table 4 shows adverse reactions from four placebo-controlled asthma studies that
 Adverse events were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
 Injection site reactions were recorded separately from the reporting of other adverse events and are described following Table 4.
 
-Table 4
+Table 4: Adverse Reactions ≥ 1% More Frequent in Xolair-Treated Adult or Adolescent Patients 12 years of age and older: Four placebo-controlled asthma studies
 
-| Adverse Reactions ≥ 1% More Frequent in Xolair-Treated Adult or Adolescent Patients 12 years of age and older Four placebo-controlled asthma studies |  |  |
-| --- | --- | --- |
 | Adverse reaction | Xolair n = 738 (%) | Placebo n = 717 (%) |
+| --- | --- | --- |
 | Body as a whole |  |  |
 | Pain | 7 | 5 |
 | Fatigue | 3 | 2 |
@@ -87,6 +86,8 @@ Twenty-three patients who experienced anaphylaxis were rechallenged with Xolair 
 In addition, anaphylaxis occurred upon rechallenge with Xolair in 4 patients who previously experienced urticaria only.
 
 Eosinophilic Conditions: Eosinophilic conditions have been reported [see Warnings and Precautions (5.5)].
+
+Fever, Arthralgia, and Rash: A constellation of signs and symptoms including arthritis/arthralgia, rash (urticaria or other forms), fever and lymphadenopathy similar to serum sickness have been reported in postapproval use of Xolair [see Warnings and Precautions (5.6)]
 
 Hematologic: Severe thrombocytopenia has been reported.
 

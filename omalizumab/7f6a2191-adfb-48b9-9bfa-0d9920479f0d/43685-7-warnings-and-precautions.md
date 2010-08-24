@@ -39,7 +39,15 @@ These events usually, but not always, have been associated with the reduction of
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal association between Xolair and these underlying conditions has not been established.
 
-## 5.6 Parasitic (Helminth) Infection
+## 5.6 Fever, Arthralgia, and Rash
+
+In post-approval use, some patients have experienced a constellation of signs and symptoms including arthritis/arthralgia, rash (urticaria or other forms), fever and lymphadenopathy with an onset 1 to 5 days after the first or subsequent injections of Xolair.
+These signs and symptoms have recurred after additional doses in some patients.
+Although circulating immune complexes or a skin biopsy consistent with a Type III reaction were not seen with these cases, these signs and symptoms are similar to those seen in patients with serum sickness.
+Physicians should stop Xolair if a patient develops this constellation of signs and symptoms.
+[see Adverse Reactions, Postmarketing Experience (6.2)]
+
+## 5.7 Parasitic (Helminth) Infection
 
 Monitor patients at high risk of geohelminth infection while on Xolair therapy.
 Insufficient data are available to determine the length of monitoring required for geohelminth infections after stopping Xolair treatment.
@@ -48,7 +56,7 @@ In a one-year clinical trial conducted in Brazil in patients at high risk for ge
 The point estimate of the odds ratio for infection was 1.96, with a 95% confidence interval (0.88, 4.36) indicating that in this study a patient who had an infection was anywhere from 0.88 to 4.36 times as likely to have received Xolair than a patient who did not have an infection.
 Response to appropriate anti-geohelminth treatment of infection as measured by stool egg counts was not different between treatment groups.
 
-## 5.7 Laboratory Tests
+## 5.8 Laboratory Tests
 
 Serum total IgE levels increase following administration of Xolair due to formation of Xolair:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of Xolair.

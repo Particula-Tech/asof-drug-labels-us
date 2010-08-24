@@ -8,11 +8,10 @@ See the dose determination charts below (Table 1 and Table 2) for appropriate do
 
 Periodically reassess the need for continued therapy based upon the patient’s disease severity and level of asthma control.
 
-Table 1
+Table 1: Administration Every 4 Weeks: Xolair Doses (milligrams) Administered by Subcutaneous Injection Every 4 Weeks for Adults and Adolescents 12 Years of Age and Older
 
-| Administration Every 4 Weeks Xolair Doses (milligrams) Administered by Subcutaneous Injection Every 4 Weeks for Adults and Adolescents 12 Years of Age and Older |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Pre-treatment Serum IgE (IU/mL) | Body Weight (kg) |  |  |  |
+| --- | --- | --- | --- | --- |
 | 30-60 | > 60-70 | > 70-90 | > 90-150 |  |
 | ≥ 30-100 | 150 | 150 | 150 | 300 |
 | > 100-200 | 300 | 300 | 300 |  |
@@ -21,14 +20,13 @@ Table 1
 | > 400-500 |  |  |  |  |
 | > 500-600 |  |  |  |  |
 
-Table 2
+Table 2: Administration Every 2 Weeks: Xolair Doses (milligrams) Administered by Subcutaneous Injection Every 2 Weeks for Adults and Adolescents 12 Years of Age and Older
 
-| Administration Every 2 Weeks Xolair Doses (milligrams) Administered by Subcutaneous Injection Every 2 Weeks for Adults and Adolescents 12 Years of Age and Older |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Pre-treatment Serum IgE (IU/mL) | Body Weight (kg) |  |  |  |
+| --- | --- | --- | --- | --- |
 | 30-60 | > 60-70 | > 70-90 | > 90-150 |  |
 | ≥ 30-100 |  | SEE TABLE 1 |  |  |
-| > 100-200 |  | 225 |  |  |
+| > 100-200 |  |  |  | 225 |
 | > 200-300 |  | 225 | 225 | 300 |
 | > 300-400 | 225 | 225 | 300 |  |
 | > 400-500 | 300 | 300 | 375 |  |
@@ -94,7 +92,7 @@ Do not administer more than 150 mg per injection site.
 Divide doses of more than 150 mg among two or more injection sites.
 (Table 3).
 
-Table 3 Number of Injections and Total Injection Volumes
+Table 3: Number of Injections and Total Injection Volumes
 
 | Xolair Dose (mg) | Number of Injections | Total Volume Injected (mL) |
 | --- | --- | --- |

@@ -36,7 +36,7 @@ The clinical relevance of the treatment-associated differences is unknown.
 Results from the stable steroid phase Study 1 are shown in Table 6.
 Results from the stable steroid phase of Study 2 and the steroid reduction phases of both Studies 1 and 2 were similar to those presented in Table 6.
 
-Table 5 Frequency of Asthma Exacerbations per Patient by Phase in Studies 1 and 2
+Table 5: Frequency of Asthma Exacerbations per Patient by Phase in Studies 1 and 2
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Table 5 Frequency of Asthma Exacerbations per Patient by Phase in Studies 1 and 
 | p-Value | 0.004 |  | < 0.001 |  |
 | Mean number exacerbations/patient | 0.2 | 0.4 | 0.2 | 0.3 |
 
-Table 6 Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Study 1
+Table 6: Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Study 1
 
 |  | Xolair N = 268Number of patients available for analysis ranges 255-258 in the Xolair group and 238-239 in the placebo group. |  | Placebo N = 257 |  |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Patients then entered an ICS reduction phase of 16 weeks during which ICS or ora
 The number of exacerbations in patients treated with Xolair was similar to that in placebo-treated patients (Table 7).
 The absence of an observed treatment effect may be related to differences in the patient population compared with Studies 1 and 2, study sample size, or other factors.
 
-Table 7 Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Study 3
+Table 7: Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Study 3
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
 | --- | --- | --- | --- | --- |
