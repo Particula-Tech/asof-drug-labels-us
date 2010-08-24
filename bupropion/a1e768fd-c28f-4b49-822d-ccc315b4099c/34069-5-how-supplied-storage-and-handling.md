@@ -15,4 +15,4 @@ Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
 
-Revised: December 2009 1209B 174662-2
+Revised: August 2010 174662-3

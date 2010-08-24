@@ -33,7 +33,16 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38% and the erythrohydrobupropion decreased by 48%.
+
+In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50% and the erythrohydrobupropion decreased by 68%.
+
+In another healthy volunteer study, KALETRA® *(lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively, (see PRECAUTIONS: Drug Interactions).
+
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
 In humans, peak plasma concentrations of hydroxybupropion occur approximately 7 hours after administration of bupropion hydrochloride extended-release tablets (XL).
@@ -74,7 +83,7 @@ The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were in
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
-A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150 mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150 mg dose sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 The elimination of bupropion and/or the major metabolites of bupropion may be reduced by impaired renal function (see PRECAUTIONS: Renal Impairment).
 
 ### Left Ventricular Dysfunction
@@ -117,6 +126,6 @@ Seasonal Affective Disorder: The efficacy of bupropion hydrochloride extended-re
 Treatment was initiated prior to the onset of symptoms in the autumn (September to November) and was discontinued following a 2 week taper that began the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
 At the start of the study, patients were randomized to receive placebo or bupropion hydrochloride extended-release tablets (XL) 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
-The mean bupropion hydrochloride extended-release tablets (XL) doses in the 3 studies ranged from 257 to 280 mg/day.
+The mean doses of bupropion hydrochloride extended-release tablets (XL) in the 3 studies ranged from 257 to 280 mg/day.
 
 In these 3 trials, the percentage of patients who were depression-free at the end of treatment was significantly higher for bupropion hydrochloride extended-release tablets (XL) than for placebo: 81.4% vs 69.7%, 87.2% vs 78.7%, and 84.0% vs 69.0% for Study 1, 2 and 3, respectively; with a depression-free rate for the 3 studies combined of 84.3% vs 72.0%.

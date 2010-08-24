@@ -8,7 +8,7 @@ If necessary, these effects may be managed by temporary reduction of dose or the
 A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
-Bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed.
+Bupropion hydrochloride extended-release tablets (XL) should be swallowed whole and not crushed, divided, or chewed, as this may lead to increased risk of adverse effects including seizures.
 
 Bupropion hydrochloride extended-release tablets (XL) may be taken without regard to meals.
 
@@ -59,7 +59,7 @@ Patients who are currently being treated with WELLBUTRIN SR®* (bupropion hydroc
 Bupropion hydrochloride extended-release tablets (XL) should be used with extreme caution in patients with severe hepatic cirrhosis.
 The dose should not exceed 150 mg every other day in these patients.
 
-Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
+Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
 ## Dosage Adjustment for Patients With Impaired Renal Function
 

@@ -18,7 +18,7 @@ Depressed mood may be a symptom of nicotine withdrawal.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
 However, some of these symptoms have occurred in patients taking bupropion who continued to smoke.
 
-All patients being treated with bupropion for smoking cessation treatment should be observed for neuropsychiatric symptoms including changes in behavior, hostility, agitation, depressed mood, and suicide-related events, including ideation, behavior, and attempted suicide.
+All patients treated with bupropion for smoking cessation treatment should be observed for neuropsychiatric symptoms including changes in behavior, hostility, agitation, depressed mood, and suicide-related events, including ideation, behavior, and attempted suicide.
 These symptoms, as well as worsening of pre-existing psychiatric illness and completed suicide have been reported in some patients attempting to quit smoking while taking Zyban®* in the postmarketing experience.
 When symptoms were reported, most were during treatment with Zyban®*, but some were following discontinuation of treatment with Zyban®*.
 These events have occurred in patients with and without pre-existing psychiatric disease; some have experienced worsening of their psychiatric illnesses.
@@ -28,6 +28,6 @@ Advise patients and caregivers that the patient using bupropion for smoking cess
 In many post-marketing cases, resolution of symptoms after discontinuation of Zyban®* was reported, although in some cases the symptoms persisted; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
-Zyban®* has been demonstrated to increase the likelihood of abstinence from smoking for as long as 6 months compared to treatment with placebo.
+Zyban®* has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
 The health benefits of quitting smoking are immediate and substantial.
 (See WARNINGS: Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment and PRECAUTIONS: Information for Patients.)

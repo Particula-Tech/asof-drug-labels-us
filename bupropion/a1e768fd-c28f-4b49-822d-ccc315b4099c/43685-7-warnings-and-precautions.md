@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
@@ -56,7 +56,7 @@ All patients being treated with bupropion as part of smoking cessation treatment
 
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of ZYBAN®*.
 
-Advise patients and caregivers that the patient using bupropion for smoking cessation should stop taking bupropion and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+Advise patients and caregivers that the patient using bupropion for smoking cessation should contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 In many post-marketing cases, resolution of symptoms after discontinuation of ZYBAN®* was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
@@ -103,7 +103,7 @@ Bupropion hydrochloride extended-release tablets (XL) should be administered wit
 ## Hepatic Impairment:
 
 Bupropion hydrochloride extended-release tablets (XL) should be used with extreme caution in patients with severe hepatic cirrhosis.
-In these patients a reduced frequency and/or dose is required, as peak bupropion, as well as AUC, levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual.
+In these patients a reduced frequency and/or dose is required as peak bupropion as well as AUC, levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual.
 The dose should not exceed 150 mg every other day in these patients (see CLINICAL PHARMACOLOGY, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
 ## Potential for Hepatotoxicity:
@@ -168,7 +168,7 @@ Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of the ext
 |  | (n = 537) | (n = 511) |
 | --- | --- | --- |
 | Adverse Event Term | Bupropion Hydrochloride Extended-Release Formulation | Placebo |
-|  | 300 mg/day |  |
+|  | 150 to 300 mg/day |  |
 | Gained >5 lbs | 11% | 21% |
 | Lost >5 lbs | 23% | 11% |
 
@@ -216,7 +216,7 @@ However, bupropion was associated with a rise in supine blood pressure in the st
 
 Bupropion hydrochloride extended-release tablets (XL) should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients, a reduced frequency and/or dose is required.
-Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis.
+Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels (see CLINICAL PHARMACOLOGY, WARNINGS, and DOSAGE AND ADMINISTRATION).
 
@@ -266,7 +266,7 @@ Concern is warranted because bupropion hydrochloride extended-release tablets (X
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 
 Patients should be advised to swallow bupropion hydrochloride extended-release tablets (XL) whole so that the release rate is not altered.
-Do not chew, divide, or crush tablets.
+Do not chew, divide, or crush tablets, as this may lead to an increased risk of adverse effects, including seizures.
 
 ## Laboratory Tests
 
@@ -278,13 +278,17 @@ Few systemic data have been collected on the metabolism of bupropion following c
 
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between bupropion hydrochloride extended-release tablets (XL) and drugs that are substrates or inhibitors of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, and cyclophosphamide).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir, ritonavir, and efavirenz inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between bupropion hydrochloride extended-release tablets (XL) and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
 Following oral administration of two 150 mg tablets of the sustained-release formulation of bupropion with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
+
+In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
+This effect is thought to be due to the induction of bupropion metabolism.
+Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -302,6 +306,8 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
+Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
+Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
 MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
 

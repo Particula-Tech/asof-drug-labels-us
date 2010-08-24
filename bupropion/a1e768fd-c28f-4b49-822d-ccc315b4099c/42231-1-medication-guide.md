@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-BuPROPion Hydrochloride Extended-Release Tablets (XL) Rx Only
+BuPROPion Hydrochloride Extended-Release Tablets (XL)
 
 Read this Medication Guide carefully before you start using bupropion hydrochloride extended-release tablets (XL) and each time you get a refill.
 There may be new information.
@@ -167,7 +167,8 @@ How should I take bupropion hydrochloride extended-release tablets (XL)?
 
 - Take bupropion hydrochloride extended-release tablets (XL) exactly as prescribed by your doctor.
 - Do not chew, cut, or crush bupropion hydrochloride extended-release tablets (XL).
-  You must swallow the tablets whole.
+  If you do, the medicine will be released into your body too quickly.
+  If this happens you may be more likely to get side effects including seizures.You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take bupropion hydrochloride extended-release tablets (XL) at the same time each day.
 - Take your doses of bupropion hydrochloride extended-release tablets (XL) at least 24 hours apart.
@@ -242,4 +243,4 @@ Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
 Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
 
-Revised: December 2009 1209B 174662-2
+Revised: August 2010 174662-3

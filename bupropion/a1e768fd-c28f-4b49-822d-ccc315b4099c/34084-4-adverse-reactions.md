@@ -124,7 +124,7 @@ A better perspective on the serious adverse events associated with the use of bu
 Table 8.
 Treatment-Emergent Adverse Events* in Placebo-Controlled Trials of Seasonal Affective Disorder
 
-| System Organ Class/ Preferred Term | Bupropion Hydrochloride Extended-Release Formulation 300 mg/day (n=537) | Placebo (n=511) |  |
+| System Organ Class/ Preferred Term | Bupropion Hydrochloride Extended-Release Formulation (n=537) | Placebo (n=511) |  |
 | --- | --- | --- | --- |
 | Gastrointestinal Disorder |  |  |  |
 | Dry Mouth | 26% | 15% |  |
