@@ -2,21 +2,17 @@ PACKAGE LABEL- Prozac 10 mg, bottle of 100
 
 NDC 0777-3104-02
 
-Rx
-
-100 Pulvules
+100 Pulvules®
 
 No. 3104
 
-PROZAC
+PROZAC®
 
 FLUOXETINE CAPSULES, USP
 
-Equiv. to
+Equiv. to 10 mg Fluoxetine
 
-10 mg
-
-Fluoxetine
+Rx Only
 
 DISTA
 
@@ -24,36 +20,30 @@ PACKAGE LABEL- Prozac 20 mg, bottle of 100
 
 NDC 0777-3105-02
 
-Rx
+100 PULVULES® No. 3105
 
-100 PULVULES No. 3105
-
-PROZAC
+PROZAC®
 
 FLUOXETINE CAPSULES, USP
 
-Equiv. to
+Equiv. to 20 mg Fluoxetine
 
-20 mg
-
-Fluoxetine
+Rx only
 
 DISTA
 
 PACKAGE LABEL- Prozac 40 mg, bottle of 30
 
-NDC 0777-3107-30, Rx
+NDC 0777-3107-30
 
-30 PULVULES No. 3107
+30 PULVULES® No. 3107
 
-PROZAC
+PROZAC®
 
 FLUOXETINE CAPSULES, USP
 
-Equiv. to
+Equiv. to 40 mg Fluoxetine
 
-40 mg
-
-Fluoxetine
+Rx only
 
 DISTA
