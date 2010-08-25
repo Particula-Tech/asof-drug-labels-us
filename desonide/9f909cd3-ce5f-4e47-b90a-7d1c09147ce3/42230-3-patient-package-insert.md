@@ -118,7 +118,7 @@ What are the ingredients in Verdeso Foam?
 Active ingredient: desonide
 
 Inactive Ingredients: anhydrous citric acid, cetyl alcohol, cyclomethicone, isopropyl myristate, light mineral oil, white petrolatum, polyoxyl 20 cetostearyl ether, potassium citrate (monohydrate), propylene glycol, purified water, sorbitan monolaurate, and phenoxyethanol as a preservative.
-The can is, pressurized with a hydrocarbon (propane/butane) propellant.
+The can is pressurized with a hydrocarbon (propane/butane) propellant.
 
 Manufactured for
 
@@ -128,8 +128,8 @@ Coral Gables, FL 33134
 
 USA
 
-April 2010
+July 2010
 
-VDS:1PIL VERDESO, VERSAFOAM-EF, VERSAFOAM-EF & Design, STIEFEL, and STIEFEL & DESIGN are registered trademarks of Stiefel Laboratories, Inc.
+VDS:2PIL VERDESO, VERSAFOAM-EF, VERSAFOAM-EF & Design, STIEFEL, and STIEFEL & DESIGN are registered trademarks of Stiefel Laboratories, Inc.
 
 © 2010 Stiefel Laboratories, Inc.

@@ -4,7 +4,7 @@
 
 Verdeso Foam has been shown to reversibly suppress the HPA axis.
 
-Topical application of Verdeso Foam may result in systemic absorption and effects including HPA axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, facial swelling, glucosuria, withdrawal, and growth retardation in children.
+Topical application of Verdeso Foam may result in systemic absorption and effects including HPA axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, facial swelling, glycosuria, withdrawal, and growth retardation in children.
 
 Conditions that augment systemic absorption include the application of topical corticosteroids over large body surface areas, prolonged use, or the addition of occlusive dressings.
 Because of the potential for systemic absorption, use of topical corticosteroids may require that patients be periodically evaluated for HPA axis suppression.

@@ -11,7 +11,7 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 ## 12.2 Pharmacodynamics
 
-In an HPA axis suppression study, 3 of 75 (4%) pediatric patients with mild to moderate atopic dermatitis covering at least 25% body surface area, who applied Verdeso Foam twice daily, experienced reversible suppression of the adrenal glands (as indicated by a 30-minute post-stimulation cortisol level (18 mcg/dL) following 4 weeks of therapy.
+In an HPA axis suppression study, 3 of 75 (4%) pediatric patients with mild to moderate atopic dermatitis covering at least 25% body surface area, who applied Verdeso Foam twice daily, experienced reversible suppression of the adrenal glands (as indicated by a 30-minute post-stimulation cortisol level ≤18 mcg/dL) following 4 weeks of therapy.
 [See also Warnings and Precautions (5.1), Pediatric Use (8.4) and Clinical Studies (14)].
 
 ## 12.3 Pharmacokinetics

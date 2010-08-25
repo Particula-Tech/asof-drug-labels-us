@@ -23,4 +23,4 @@ Patients using topical corticosteroids should receive the following information 
 8. The propellant in Verdeso Foam is flammable.
    Avoid fire, flame or smoking during and immediately following application.
 
-VDS:1PI
+VDS:2PI

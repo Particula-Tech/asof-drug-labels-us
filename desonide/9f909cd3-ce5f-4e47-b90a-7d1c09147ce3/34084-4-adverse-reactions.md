@@ -11,7 +11,7 @@ Table 1—Adverse Reactions in the Clinical Trial
 
 | Adverse Reaction | Verdeso Foam | Vehicle Foam |
 | --- | --- | --- |
-|  | (N=387) | (N=194) |
+| (N=387) | (N=194) |  |
 | Upper respiratory tract infection | 37 (10%) | 12 (6%) |
 | Cough | 14 (4%) | 3 (2%) |
 | Application site burning | 11 (3%) | 15 (8%) |
