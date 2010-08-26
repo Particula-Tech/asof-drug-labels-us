@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022036"
+  ],
+  "inn": "doxepin",
+  "labeler": "Somaxon Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "42847-103-03",
+    "42847-103-10",
+    "42847-103-30",
+    "42847-103-50",
+    "42847-106-03",
+    "42847-106-10",
+    "42847-106-30",
+    "42847-106-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxepin hydrochloride",
+      "name": "Silenor"
+    }
+  ],
+  "setid": "1bec1223-5239-4eb6-a9e8-62444106d2c0",
+  "source": "dailymed"
+}
