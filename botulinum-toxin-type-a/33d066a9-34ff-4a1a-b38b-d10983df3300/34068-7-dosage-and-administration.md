@@ -20,14 +20,18 @@ Draw up the proper amount of diluent in the appropriate size syringe (Dilution T
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX with the saline by rotating the vial.
 Record the date and time of reconstitution on the space on the label.
-Administer the 200 Unit vial of BOTOX within 4 hours after reconstitution or the 100 Unit vial within 24 hours after reconstitution.
+BOTOX should be administered within 24 hours after reconstitution.
 During this time period, reconstituted BOTOX should be stored in a refrigerator (2° to 8°C).
 
 Dilution Table: 0.9% Sodium Chloride Injection Dilution Instructions for 100 Unit and 200 Unit BOTOX Vials
 
 | Diluent* Added to 100 Unit Vial | Resulting Dose Units per 0.1 mL | Diluent* Added to 200 Unit Vial | Resulting Dose Units per 0.1 mL |
 | --- | --- | --- | --- |
-| 1 mL 2 mL 4 mL 8 mL | 10 Units 5 Units 2.5 Units 1.25 Units | 1 mL 2 mL 4 mL 8 mL 10 mL | 20 Units 10 Units 5 Units 2.5 Units 2 Units |
+| 1 mL | 10 Units | 1 mL | 20 Units |
+| 2 mL | 5 Units | 2 mL | 10 Units |
+| 4 mL | 2.5 Units | 4 mL | 5 Units |
+| 8 mL | 1.25 Units | 8 mL | 2.5 Units |
+|  |  | 10 mL | 2 Units |
 | *0.9% Sodium Chloride Injection Only |  |  |  |
 
 Note: These dilutions are calculated for an injection volume of 0.1 mL.
@@ -51,11 +55,11 @@ Following are recommended dose ranges per muscle:
 
 |  | Total Dosage (Number of Sites) |
 | --- | --- |
-| Biceps Brachii | 100 - 200 Units divided in 4 sites |
-| Flexor Carpi Radialis | 12.5 - 50 Units in 1 site |
-| Flexor Carpi Ulnaris | 12.5 - 50 Units in 1 site |
-| Flexor Digitorum Profundus | 30 - 50 Units in 1 site |
-| Flexor Digitorum Sublimis | 30 - 50 Units in 1 site |
+| Biceps Brachii | 100 Units-200 Units divided in 4 sites |
+| Flexor Carpi Radialis | 12.5 Units-50 Units in 1 site |
+| Flexor Carpi Ulnaris | 12.5 Units-50 Units in 1 site |
+| Flexor Digitorum Profundus | 30 Units-50 Units in 1 site |
+| Flexor Digitorum Sublimis | 30 Units-50 Units in 1 site |
 
 The recommended dilution is 200 Units/4 mL or 100 Units/2 mL with 0.9% non-preserved sterile saline (see Dilution Table).
 The lowest recommended starting dose should be used, and no more than 50 Units per site should generally be administered.
@@ -70,12 +74,11 @@ The degree and pattern of muscle spasticity at the time of re-injection may nece
 The phase 3 study enrolled patients who had extended histories of receiving and tolerating BOTOX injections, with prior individualized adjustment of dose.
 The mean BOTOX dose administered to patients in the phase 3 study was 236 Units (25th to 75th percentile range of 198 Units to 300 Units).
 The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.2)].
-
 Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient's head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
 Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.4, 5.5)].
 
-The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with 0.9% non-preserved sterile saline, depending on volume and number of injection sites desired to achieve treatment objectives (see Dilution Table).
+The recommended dilution is 200 Units/2 mL, 200 Units/4 mL,100 Units/1 mL, or 100 Units/2 mL with 0.9% non-preserved sterile saline, depending on volume and number of injection sites desired to achieve treatment objectives (see Dilution Table).
 In general, no more than 50 Units per site should be administered.
 An appropriately sized needle (e.g., 25-30 gauge) may be used for superficial muscles, and a longer 22 gauge needle may be used for deeper musculature.
 Localization of the involved muscles with electromyographic guidance may be useful.
@@ -112,7 +115,7 @@ If injection sites are marked in ink, do not inject BOTOX directly through the i
 ## 2.5 Blepharospasm
 
 For blepharospasm, reconstituted BOTOX is injected using a sterile, 27-30 gauge needle without electromyographic guidance.
-The initial recommended dose is 1.25 Units - 2.5 Units (0.05 mL to 0.1 mL volume at each site) injected into the medial and lateral pre-tarsal orbicularis oculi of the upper lid and into the lateral pre-tarsal orbicularis oculi of the lower lid.
+The initial recommended dose is 1.25 Units-2.5 Units (0.05 mL to 0.1 mL volume at each site) injected into the medial and lateral pre-tarsal orbicularis oculi of the upper lid and into the lateral pre-tarsal orbicularis oculi of the lower lid.
 Avoiding injection near the levator palpebrae superioris may reduce the complication of ptosis.
 Avoiding medial lower lid injections, and thereby reducing diffusion into the inferior oblique, may reduce the complication of diplopia.
 Ecchymosis occurs easily in the soft eyelid tissues.
@@ -122,7 +125,7 @@ The recommended dilution to achieve 1.25 Units is 100 Units/8 mL; for 2.5 Units 
 
 In general, the initial effect of the injections is seen within three days and reaches a peak at one to two weeks post-treatment.
 Each treatment lasts approximately three months, following which the procedure can be repeated.
-At repeat treatment sessions, the dose may be increased up to two-fold if the response from the initial treatment is considered insufficient-usually defined as an effect that does not last longer than two months.
+At repeat treatment sessions, the dose may be increased up to two-fold if the response from the initial treatment is considered insufficient, usually defined as an effect that does not last longer than two months.
 However, there appears to be little benefit obtainable from injecting more than 5 Units per site.
 Some tolerance may be found when BOTOX is used in treating blepharospasm if treatments are given any more frequently than every three months, and is rare to have the effect be permanent.
 
@@ -136,7 +139,7 @@ Physicians should be familiar with electromyographic technique.
 
 To prepare the eye for BOTOX injection, it is recommended that several drops of a local anesthetic and an ocular decongestant be given several minutes prior to injection.
 
-Note: The volume of BOTOX injected for treatment of strabismus should be between 0.05 - 0.15 mL per muscle.
+Note: The volume of BOTOX injected for treatment of strabismus should be between 0.05-0.15 mL per muscle.
 
 The initial listed doses of the reconstituted BOTOX [see Dosage and Administration (2.1)] typically create paralysis of the injected muscles beginning one to two days after injection and increasing in intensity during the first week.
 The paralysis lasts for 2-6 weeks and gradually resolves over a similar time period.
@@ -146,9 +149,9 @@ About one half of patients will require subsequent doses because of inadequate p
 1. Initial doses in Units.
    Use the lower listed doses for treatment of small deviations.
    Use the larger doses only for large deviations.
-   1. For vertical muscles, and for horizontal strabismus of less than 20 prism diopters: 1.25 Units - 2.5 Units in any one muscle.
-   2. For horizontal strabismus of 20 prism diopters to 50 prism diopters: 2.5 Units - 5 Units in any one muscle.
-   3. For persistent VI nerve palsy of one month or longer duration: 1.25 Units - 2.5 Units in the medial rectus muscle.
+   1. For vertical muscles, and for horizontal strabismus of less than 20 prism diopters: 1.25 Units-2.5 Units in any one muscle.
+   2. For horizontal strabismus of 20 prism diopters to 50 prism diopters: 2.5 Units-5 Units in any one muscle.
+   3. For persistent VI nerve palsy of one month or longer duration: 1.25 Units-2.5 Units in the medial rectus muscle.
 2. Subsequent doses for residual or recurrent strabismus.
    1. It is recommended that patients be re-examined 7-14 days after each injection to assess the effect of that dose.
    2. Patients experiencing adequate paralysis of the target muscle that require subsequent injections should receive a dose comparable to the initial dose.

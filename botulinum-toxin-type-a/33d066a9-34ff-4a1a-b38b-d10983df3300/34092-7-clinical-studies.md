@@ -13,11 +13,14 @@ Table 3: Study Medication Dose and Injection Sites in Study 1
 
 | Muscles Injected | Volume (mL) | BOTOX (Units) | Number of Injection Sites |
 | --- | --- | --- | --- |
-| Wrist Flexor Carpi Radialis | 1 | 50 | 1 |
+| Wrist |  |  |  |
+| Flexor Carpi Radialis | 1 | 50 | 1 |
 | Flexor Carpi Ulnaris | 1 | 50 | 1 |
-| Finger Flexor Digitorum Profundus | 1 | 50 | 1 |
+| Finger |  |  | 1 |
+| Flexor Digitorum Profundus | 1 | 50 |  |
 | Flexor Digitorum Sublimis | 1 | 50 | 1 |
-| Thumb Adductor Pollicisa | 0.4 | 20 | 1 |
+| Thumb |  |  |  |
+| Adductor Pollicisa | 0.4 | 20 | 1 |
 | Flexor Pollicis Longusa | 0.4 | 20 | 1 |
 | a injected only if spasticity is present in this muscle |  |  |  |
 
@@ -60,14 +63,17 @@ BOTOX and placebo were injected with EMG guidance into the flexor digitorum prof
 
 Table 5: Study Medication Dose and Injection Sites in Study 2 and Study 3
 
-| Muscles Injected | BOTOX low dose (90 Units) | BOTOX mid dose (180 Units) | BOTOX high dose (360 Units) | Vol. mL per site | Inject. Sites (n) |
-| --- | --- | --- | --- | --- | --- |
 |  | Total Dose |  |  |  |  |
-| Wrist Flexor Carpi Ulnaris | 10 Units | 20 Units | 40 Units | 0.4 | 1 |
+| --- | --- | --- | --- | --- | --- |
+| Muscles Injected | BOTOX low dose (90 Units) | BOTOX mid dose (180 Units) | BOTOX high dose (360 Units) | Volume (mL) per site | Injection Sites (n) |
+| Wrist |  |  |  |  |  |
+| Flexor Carpi Ulnaris | 10 Units | 20 Units | 40 Units | 0.4 | 1 |
 | Flexor Carpi Radialis | 15 Units | 30 Units | 60 Units | 0.6 | 1 |
-| Finger Flexor Digitorum Profundus | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
+| Finger |  |  |  |  |  |
+| Flexor Digitorum Profundus | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
 | Flexor Digitorum Sublimis | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
-| Elbow Biceps Brachii | 50 Units | 100 Units | 200 Units | 0.5 | 4 |
+| Elbow |  |  |  |  |  |
+| Biceps Brachii | 50 Units | 100 Units | 200 Units | 0.5 | 4 |
 
 The primary efficacy variable in Study 2 was the wrist flexor tone at Week 6 as measured by the expanded Ashworth Scale.
 The expanded Ashworth Scale uses the same scoring system as the Ashworth Scale, but allows for half-point increments.
@@ -85,13 +91,13 @@ Table 6: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at W
 | Median Physician Global Assessment of Response to Treatment | 1.0* | 1.0* | 1.0* | 0.0 |
 | † Primary endpoint at Week 6 |  |  |  |  |
 | †† Secondary endpoints at Week 6 |  |  |  |  |
-| * Significantly different from placebo (p≤ 0.05) |  |  |  |  |
+| * Significantly different from placebo (p≤0.05) |  |  |  |  |
 | a p=0.053 |  |  |  |  |
 | b Total dose of BOTOX injected into both the flexor carpi radialis and ulnaris muscles |  |  |  |  |
 | c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |  |  |
 | d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
 
-Study 3 compared 3 doses of BOTOX with placebo and included 88 patients [BOTOX 360 Units (N=23), BOTOX 180 Units (N=23), BOTOX 90 Units (N=23), and placebo (N=19)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone and/or finger flexor tone) who were at least 6 weeks post-stroke.
+Study 3 compared 3 doses of BOTOX with placebo and enrolled 88 patients [BOTOX 360 Units (N=23), BOTOX 180 Units (N=23), BOTOX 90 Units (N=23), and placebo (N=19)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone and/or finger flexor tone) who were at least 6 weeks post-stroke.
 BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 5).
 
 The primary efficacy variable in Study 3 was wrist and elbow flexor tone as measured by the expanded Ashworth score.
@@ -132,7 +138,7 @@ Study results on the primary endpoints and the pain-related secondary endpoints 
 
 Table 8: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
 
-|  | Placebo N=82 | BOTOX N=88 | 95% CI on Difference |
+|  | Placebo (N=82) | BOTOX (N=88) | 95% CI on Difference |
 | --- | --- | --- | --- |
 | Baseline CDSS | 9.3 | 9.2 |  |
 | Change in CDSS at Week 6 | -0.3 | -1.3 | (-2.3, 0.3)[a,b] |
@@ -186,7 +192,7 @@ Sweat production responders were those patients who demonstrated a reduction in 
 In the three study groups the percentage of patients with baseline HDSS score of 3 ranged from 50% to 54% and from 46% to 50% for a score of 4.
 The median amount of sweat production (averaged for each axilla) was 102 mg, 123 mg, and 114 mg for the placebo, 50 Units and 75 Units groups respectively.
 
-The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p < 0.001), but was not significantly different between the two BOTOX doses (see Table 10).
+The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 10).
 
 Duration of response was calculated as the number of days between injection and the date of the first visit at which patients returned to 3 or 4 on the HDSS scale.
 The median duration of response following the first treatment in BOTOX-treated patients with either dose was 201 days.
@@ -194,12 +200,12 @@ Among those who received a second BOTOX injection, the median duration of respon
 
 In study 2, 320 adults with bilateral axillary primary hyperhidrosis were randomized to receive either 50 Units of BOTOX (n=242) or placebo (n=78).
 Treatment responders were defined as subjects showing at least a 50% reduction from baseline in axillary sweating measured by gravimetric measurement at 4 weeks.
-At week 4 post-injection, the percentages of responders were 91% (219/242) in the BOTOX group and 36% (28/78) in the placebo group, p < 0.001.
-The difference in percentage of responders between BOTOX and placebo was 55% (95% CI = 43.3, 65.9).
+At week 4 post-injection, the percentages of responders were 91% (219/242) in the BOTOX group and 36% (28/78) in the placebo group, p<0.001.
+The difference in percentage of responders between BOTOX and placebo was 55% (95% CI=43.3, 65.9).
 
 Table 10: Study 1 - Study Outcomes
 
-| Treatment Response | BOTOX 50 Units N=104 | BOTOX 75 Units N=110 | Placebo N=108 | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
+| Treatment Response | BOTOX 50 Units (N=104) | BOTOX 75 Units (N=110) | Placebo (N=108) | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | HDSS Score change ≥2 (n)a | 55% (57) | 49% (54) | 6% (6) | 49.3% (38.8, 59.7) | 43% (33.2, 53.8) |
 | >50% decrease in axillary sweat production % (n) | 81% (84) | 86% (94) | 41% (44) | 40% (28.1, 52.0) | 45% (33.3, 56.1) |

@@ -1,4 +1,14 @@
-MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
+MEDICATION GUIDE
+
+BOTOX®
+
+BOTOX® Cosmetic
+
+(Boe-tox)
+
+(onabotulinumtoxinA)
+
+for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -171,4 +181,4 @@ Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 
-71829US11A 72284US11B
+71580US10B 72284US11B

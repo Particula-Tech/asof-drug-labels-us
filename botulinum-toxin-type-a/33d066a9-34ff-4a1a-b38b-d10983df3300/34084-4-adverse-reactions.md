@@ -27,18 +27,23 @@ Table 2 below lists the adverse reactions reported by ≥ 2% of BOTOX-treated pa
 
 Table 2: Adverse Reactions Reported by ≥ 2% of BOTOX-treated Patients and More Frequent than in Placebo-treated Patients in Adult Spasticity Double-blind, Placebo-controlled Clinical Trials
 
-| Adverse Reactions by Body System | BOTOX 251-360 Units (N=115) | BOTOX 150-250 Units (N=188) | BOTOX <150 Units (N=54) | Placebo (N=182) |
+| Adverse Reactions by Body System | BOTOX 251 Units- 360 Units (N=115) | BOTOX 150 Units- 250 Units (N=188) | BOTOX <150 Units (N=54) | Placebo (N=182) |
 | --- | --- | --- | --- | --- |
-| Gastrointestinal disorder Nausea | 3 (3%) | 3 (2%) | 1 (2%) | 1 (1%) |
-| General disorders and administration site conditions Fatigue | 4 (3%) | 4 (2%) | 1 (2%) | 0 |
-| Infections and infestations Bronchitis | 4 (3%) | 4 (2%) | 0 | 2 (1%) |
-| Musculoskeletal and connective tissue disorders Pain in extremity Muscular weakness | 7 (6%) 0 | 10 (5%) 7 (4%) | 5 (9%) 1 (2%) | 8 (4%) 2 (1%) |
+| Gastrointestinal disorder |  |  |  |  |
+| Nausea | 3 (3%) | 3 (2%) | 1 (2%) | 1 (1%) |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 4 (3%) | 4 (2%) | 1 (2%) | 0 |
+| Infections and infestations |  |  |  |  |
+| Bronchitis | 4 (3%) | 4 (2%) | 0 | 2 (1%) |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremity | 7 (6%) | 10 (5%) | 5 (9%) | 8 (4%) |
+| Muscular weakness | 0 | 7 (4%) | 1 (2%) | 2 (1%) |
 
 Cervical Dystonia
 
 In cervical dystonia patients evaluated for safety in double-blind and open-label studies following injection of BOTOX, the most frequently reported adverse reactions were dysphagia (19%), upper respiratory infection (12%), neck pain (11%), and headache (11%).
 
-Other events reported in 2 - 10% of patients in any one study in decreasing order of incidence include: increased cough, flu syndrome, back pain, rhinitis, dizziness, hypertonia, soreness at injection site, asthenia, oral dryness, speech disorder, fever, nausea, and drowsiness.
+Other events reported in 2-10% of patients in any one study in decreasing order of incidence include: increased cough, flu syndrome, back pain, rhinitis, dizziness, hypertonia, soreness at injection site, asthenia, oral dryness, speech disorder, fever, nausea, and drowsiness.
 Stiffness, numbness, diplopia, ptosis, and dyspnea have been reported.
 
 Dysphagia and symptomatic general weakness may be attributable to an extension of the pharmacology of BOTOX resulting from the spread of the toxin outside the injected muscles [see Warnings and Precautions (5.2, 5.4)].
@@ -51,7 +56,7 @@ Additionally, reports in the literature include a case of a female patient who d
 
 Primary Axillary Hyperhidrosis
 
-The most frequently reported adverse events (3 - 10% of adult patients) following injection of BOTOX in double-blind studies included injection site pain and hemorrhage, non-axillary sweating, infection, pharyngitis, flu syndrome, headache, fever, neck or back pain, pruritus, and anxiety.
+The most frequently reported adverse events (3-10% of adult patients) following injection of BOTOX in double-blind studies included injection site pain and hemorrhage, non-axillary sweating, infection, pharyngitis, flu syndrome, headache, fever, neck or back pain, pruritus, and anxiety.
 
 The data reflect 346 patients exposed to BOTOX 50 Units and 110 patients exposed to BOTOX 75 Units in each axilla.
 
@@ -75,7 +80,7 @@ In a series of 5587 injections, retrobulbar hemorrhage occurred in 0.3% of cases
 
 ## 6.2 Post-Marketing Experience
 
-There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.3, 5.4)].
+There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.3,5.4)].
 
 There have also been reports of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
 Some of these patients had risk factors including cardiovascular disease.

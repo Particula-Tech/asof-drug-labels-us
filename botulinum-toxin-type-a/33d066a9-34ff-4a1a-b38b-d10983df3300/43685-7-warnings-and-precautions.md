@@ -14,9 +14,9 @@ Swallowing and breathing difficulties can be life threatening and there have bee
 The risk of the symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
 In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
 
-No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/ BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines) or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
+No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines) or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
 
-No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below) or for strabismus at the labeled doses have been reported.
+No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), or for strabismus at the labeled doses have been reported.
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -33,7 +33,7 @@ In most cases, this is a consequence of weakening of muscles in the area of inje
 When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
-Dysphagia may persist for several months and require use of a feeding tube to maintain adequate nutrition and hydration.
+Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
 Aspiration may result from severe dysphagia and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised.
 
 Treatment of cervical dystonia with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
@@ -59,9 +59,9 @@ In a double-blind, placebo-controlled, parallel group study in patients with sta
 
 Table 1: Event rate per patient treatment cycle among patients with reduced lung function who experienced at least a 15% or 20% decrease in forced vital capacity from baseline at Week 1, 6, 12 post-injection with up to two treatment cycles with BOTOX or placebo
 
-| ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |
 | Week 1 | 4% | 0% | 3% | 0% | 7% | 3% |
 | Week 6 | 7% | 4% | 4% | 2% | 2% | 2% |
 | Week 12 | 10% | 5% | 2% | 1% | 4% | 1% |
@@ -82,7 +82,7 @@ It is recommended that appropriate instruments to decompress the orbit be access
 
 ## 5.9 Bronchitis and Upper Respiratory Tract Infections in Patients Treated for Spasticity
 
-Bronchitis was reported more frequently as an adverse reaction in patients treated for upper limb spasticity with BOTOX (3% at 251-360 Units total dose), compared to placebo (1%).
+Bronchitis was reported more frequently as an adverse reaction in patients treated for upper limb spasticity with BOTOX (3% at 251 Units-360 Units total dose), compared to placebo (1%).
 In patients with reduced lung function treated for upper limb spasticity, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX (11% at 360 Units total dose; 8% at 240 Units total dose) compared to placebo (6%).
 
 ## 5.10 Human Albumin and Transmission of Viral Diseases
