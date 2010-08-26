@@ -2,32 +2,34 @@
 
 Cefazolin for Injection is indicated in the treatment of the following serious infections due to susceptible organisms:
 
-Respiratory Tract Infections: Due to S. pneumoniae, Klebsiella species, H. influenzae, S. aureus (penicillin-sensitive and penicillin-resistant), and group A beta-hemolytic streptococci.
+Respiratory Tract Infections: Due to S. pneumoniae, S. aureus (including beta-lactamase-producing strains) and S. pyogenes.
 
 Injectable benzathine penicillin is considered to be the drug of choice in treatment and prevention of streptococcal infections, including the prophylaxis of rheumatic fever.
 
-Cefazolin for Injection is effective in the eradication of streptococci from the nasopharynx; however, data establishing the efficacy of Cefazolin for Injection in the subsequent prevention of rheumatic fever are not available at present.
+Cefazolin is effective in the eradication of streptococci from the nasopharynx; however, data establishing the efficacy of cefazolin in the subsequent prevention of rheumatic fever are not available.
 
-Urinary Tract Infections: Due to E. coli, P. mirabilis, Klebsiella species, and some strains of enterobacter and enterococci.
+Urinary Tract Infections: Due to E. coli, P. mirabilis.
 
-Skin and Skin Structure Infections: Due to S. aureus (penicillin-sensitive and penicillin-resistant), group A beta-hemolytic streptococci, and other strains of streptococci.
+Skin and Skin Structure Infections: Due to S. aureus (including beta-lactamase-producing strains), S. pyogenes, and other strains of streptococci.
 
-Biliary Tract Infections: Due to E. coli, various strains of streptococci, P. mirabilis, Klebsiella species and S. aureus.
+Biliary Tract Infections: Due to E. coli, various strains of streptococci, P. mirabilis and S. aureus.
 
 Bone and Joint Infections: Due to S. aureus.
 
-Genital Infections: (i.e., prostatitis, epididymitis) due to E. coli, P. mirabilis, Klebsiella species, and some strains of enterococci.
+Genital Infections: (i.e., prostatitis, epididymitis) due to E. coli, P. mirabilis.
 
-Septicemia: Due to S. pneumoniae, S. aureus (penicillin-sensitive and penicillin-resistant), P. mirabilis, E. coli, and Klebsiella species.
+Septicemia: Due to S. pneumoniae, S. aureus (including beta-lactamase-producing strains), P. mirabilis, E. coli.
 
-Endocarditis: Due to S. aureus (penicillin-sensitive and penicillin-resistant) and group A beta-hemolytic streptococci.
+Endocarditis: Due to S. aureus (including beta-lactamase-producing strains) and S. pyogenes.
 
-Perioperative Prophylaxis: The prophylactic administration of Cefazolin for Injection preoperatively, intraoperatively, and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice, or common duct bile stones).
+Appropriate culture and susceptibility studies should be performed to determine susceptibility of the causative organism to cefazolin.
 
-The perioperative use of Cefazolin for Injection may also be effective in surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
+Perioperative Prophylaxis: The prophylactic administration of cefazolin preoperatively, intraoperatively, and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice, or common duct bile stones).
 
-The prophylactic administration of Cefazolin for Injection should usually be discontinued within a 24-hour period after the surgical procedure.
-In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of Cefazolin for Injection may be continued for 3 to 5 days following the completion of surgery.
+The perioperative use of cefazolin may also be effective in surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
+
+The prophylactic administration of cefazolin should usually be discontinued within a 24-hour period after the surgical procedure.
+In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin may be continued for 3 to 5 days following the completion of surgery.
 
 If there are signs of infection, specimens for cultures should be obtained for the identification of the causative organism so that appropriate therapy may be instituted.
 (See DOSAGE AND ADMINISTRATION).

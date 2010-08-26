@@ -6,10 +6,10 @@ IF AN ALLERGIC REACTION TO CEFAZOLIN FOR INJECTION OCCURS, DISCONTINUE TREATMENT
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, IV FLUIDS, IV ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Cefazolin for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading the overgrowth of C. difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -35,22 +35,26 @@ Prothrombin time should be monitored in patients at risk and exogenous vitamin K
 
 Prescribing Cefazolin for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
+## Information for Patients
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
+Patients should be counseled that antibacterial drugs including Cefazolin for Injection should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When Cefazolin for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Cefazolin for Injection or other antibacterial drugs in the future.
+
 ## Drug Interactions
 
 Probenecid may decrease renal tubular secretion of cephalosporins, when used concurrently, resulting in increased and more prolonged cephalosporin blood levels.
 
 ## Drug/Laboratory Test Interactions
 
-A false positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution, or Clinitest® tablets, but not with enzyme-based tests such as Clinistix®.
+A false positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablets, but not with enzyme-based tests such as Clinistix®.
 
 Positive direct and indirect antiglobulin (Coombs) tests have occurred; these may also occur in neonates whose mothers received cephalosporins before delivery.
-
-## Information for Patients
-
-Patients should be counseled that antibacterial drugs including Cefazolin for Injection should only be used to treat bacterial infections.
-They do not treat viral infections (e.g., the common cold).
-When Cefazolin for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Cefazolin for Injection or other antibacterial drugs in the future.
 
 ## Carcinogenesis/Mutagenesis
 
@@ -68,12 +72,12 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Labor and Delivery
 
-When cefazolin has been administered prior to cesarean section, drug levels in cord blood have been approximately one quarter to one third of maternal drug levels.
+When cefazolin has been administered prior to caesarean section, drug levels in cord blood have been approximately one quarter to one third of maternal drug levels.
 The drug appears to have no adverse effect on the fetus.
 
 ## Nursing Mothers
 
-Cefazolin for Injection is present in very low concentrations in the milk of nursing mothers.
+Cefazolin is present in very low concentrations in the milk of nursing mothers.
 Caution should be exercised when Cefazolin for Injection is administered to a nursing woman.
 
 ## Pediatric Use
@@ -83,7 +87,7 @@ See DOSAGE AND ADMINISTRATION for recommended dosage in pediatric patients older
 
 ## Geriatric Use
 
-Of the 920 subjects who received Cefazolin for Injection in clinical studies, 313 (34%) were 65 years and over, while 138 (15%) were 75 years and over.
+Of the 920 subjects who received cefazolin in clinical studies, 313 (34%) were 65 years and over, while 138 (15%) were 75 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

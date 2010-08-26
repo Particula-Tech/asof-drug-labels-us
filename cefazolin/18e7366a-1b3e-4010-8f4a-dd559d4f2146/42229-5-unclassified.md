@@ -34,28 +34,38 @@ Pain on injection is infrequent with Cefazolin for Injection.
 Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
 Inject the solution slowly over 3 to 5 minutes, directly or through tubing for patients receiving parenteral fluids (see list below).
 
-Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL (1 gram vial) or 100 to 200 mL (2 grams vial) of 1 of the following solutions:
+Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL of 1 of the following solutions:
 
-- Sodium Chloride Injection, USP
-- 5% or 10% Dextrose Injection, USP
-- 5% Dextrose in Lactated Ringer’s Injection, USP
-- 5% Dextrose and 0.9% Sodium Chloride Injection, USP
-- 5% Dextrose and 0.45% Sodium Chloride Injection, USP
-- 5% Dextrose and 0.2% Sodium Chloride Injection, USP
-- Lactated Ringer’s Injection, USP
-- Ringer’s Injection, USP
-- 5% Sodium Bicarbonate Injection, USP
+Sodium Chloride Injection, USP
+
+5% or 10% Dextrose Injection, USP
+
+5% Dextrose in Lactated Ringer’s Injection, USP
+
+5% Dextrose and 0.9% Sodium Chloride Injection, USP
+
+5% Dextrose and 0.45% Sodium Chloride Injection, USP
+
+5% Dextrose and 0.2% Sodium Chloride Injection, USP
+
+Lactated Ringer’s Injection, USP
+
+Invert Sugar 5% or 10% in Sterile Water for Injection
+
+Ringer’s Injection, USP
+
+5% Sodium Bicarbonate Injection, USP
 
 Clinitest® is a registered trademark of Miles, Inc.
 
 Clinistix® is a registered trademark of Bayer Corporation.
 
-02-2008
+04-2010M
+
+46018522
 
 Manufactured in Austria by
 
 Sandoz GmbH for
 
-Sandoz Inc.
-
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540

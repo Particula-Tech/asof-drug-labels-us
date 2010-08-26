@@ -43,7 +43,7 @@ Pediatric Dosage Guide
 
 | Weight |  | 25 mg/kg/dayDivided into 3 Doses |  | 25 mg/kg/dayDivided into 4 Doses |  |
 | --- | --- | --- | --- | --- | --- |
-| lbs | kg | Approximate Single Dose(mg/q8 h) | Vol. (mL)Needed withDilution of125 mg/mL | ApproximateSingle Dose(mg/q6 h) | Vol. (mL)Needed withDilution of125 mg/mL |
+| lbs | kg | ApproximateSingle Dose(mg/q8 h) | Vol. (mL)Needed withDilution of125 mg/mL | ApproximateSingle Dose(mg/q6 h) | Vol. (mL)Needed withDilution of125 mg/mL |
 | 10 | 4.5 | 40 mg | 0.35 mL | 30 mg | 0.25 mL |
 | 20 | 9 | 75 mg | 0.6 mL | 55 mg | 0.45 mL |
 | 30 | 13.6 | 115 mg | 0.9 mL | 85 mg | 0.7 mL |
@@ -59,5 +59,5 @@ Pediatric Dosage Guide
 
 In pediatric patients with mild to moderate renal impairment (creatinine clearance of 70 to 40 mL/min.), 60 percent of the normal daily dose given in equally divided doses every 12 hours should be sufficient.
 In patients with moderate impairment (creatinine clearance of 40 to 20 mL/min.), 25 percent of the normal daily dose given in equally divided doses every 12 hours should be adequate.
-Pediatric patients with severe renal impairment (creatinine clearance of 20 to 5 mL/min.) may be given 10 percent of the normal daily dose given every 24 hours.
+Pediatric patients with severe renal impairment (creatinine clearance of 20 to 5 mL/min.) may be given 10 percent of the normal daily dose every 24 hours.
 All dosage recommendations apply after an initial loading dose.

@@ -32,3 +32,5 @@ Altered Laboratory Tests: Prolonged prothrombin time, positive direct Coomb’s 
 Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (See DOSAGE AND ADMINISTRATION).
 If seizures associated with drug therapy occur, the drug should be discontinued.
 Anticonvulsant therapy can be given if clinically indicated.
+
+To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.

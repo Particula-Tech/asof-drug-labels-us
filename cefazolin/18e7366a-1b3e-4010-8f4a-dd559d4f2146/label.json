@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062831"
+  ],
   "inn": "cefazolin",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
+    "0781-3450-70",
     "0781-3450-95",
+    "0781-3451-70",
     "0781-3451-96"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    }
+  ],
   "setid": "18e7366a-1b3e-4010-8f4a-dd559d4f2146",
   "source": "dailymed"
 }
