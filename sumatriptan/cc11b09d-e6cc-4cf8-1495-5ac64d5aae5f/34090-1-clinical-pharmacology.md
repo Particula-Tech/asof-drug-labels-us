@@ -30,13 +30,9 @@ Clinical and pharmacokinetic data indicate that administration of two 5-mg doses
 
 ## Special Populations
 
-### Renal Impairment
+Renal Impairment:The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
 
-The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
-
-### Hepatic Impairment
-
-The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated, but the intranasal dosage form has not been studied in hepatic impairment.
+Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated, but the intranasal dosage form has not been studied in hepatic impairment.
 There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared to healthy controls.
 However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 In 1 small study involving oral sumatriptan in hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared to the healthy subjects.
@@ -44,21 +40,15 @@ The bioavailability of nasally absorbed sumatriptan following intranasal adminis
 The bioavailability of the swallowed portion of the intranasal sumatriptan dose has not been determined, but would be increased in these patients.
 The swallowed intranasal dose is small, however, compared to the usual oral dose, so that its impact should be minimal.
 
-### Age
-
-The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
+Age: The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years).
 Intranasal sumatriptan has not been evaluated for age differences (see PRECAUTIONS: Geriatric Use).
 
-### Race
-
-The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 Intranasal sumatriptan has not been evaluated for race differences.
 
 ## Drug Interactions
 
-### Monoamine Oxidase Inhibitors
-
-Treatment with monoamine oxidase inhibitors (MAOIs) generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS).
+Monoamine Oxidase Inhibitors: Treatment with monoamine oxidase inhibitors (MAOIs) generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS).
 
 MAOI interaction studies have not been performed with intranasal sumatriptan.
 Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after coadministration of an MAO-A inhibitor with oral sumatriptan is greater than after coadministration of the MAOI with subcutaneous sumatriptan.
@@ -70,6 +60,4 @@ This interaction was not evident with an MAO-B inhibitor.
 
 A small study evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25-mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
 
-### Xylometazoline
-
-An in vivo drug interaction study indicated that 3 drops of xylometazoline (0.1% w/v), a decongestant, administered 15 minutes prior to a 20-mg nasal dose of sumatriptan did not alter the pharmacokinetics of sumatriptan.
+Xylometazoline: An in vivo drug interaction study indicated that 3 drops of xylometazoline (0.1% w/v), a decongestant, administered 15 minutes prior to a 20-mg nasal dose of sumatriptan did not alter the pharmacokinetics of sumatriptan.

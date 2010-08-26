@@ -31,7 +31,7 @@ Percentage of Patients With Headache Response (No or Mild Pain) 2 Hours Followin
 |  | (n = 100) |  | (n = 106) | (n = 202) |
 | Study 4 | 29% | Not applicable | 43% | 62%ab |
 |  | (n = 112) |  | (n = 106) | (n = 215) |
-| Study 5d | 36% | 45%* | 53%a | 60%ac |
+| Study 5d | 36% | 45%a | 53%a | 60%ac |
 |  | (n = 198) | (n = 296) | (n = 291) | (n = 286) |
 
 ap<0.05 in comparison with placebo.

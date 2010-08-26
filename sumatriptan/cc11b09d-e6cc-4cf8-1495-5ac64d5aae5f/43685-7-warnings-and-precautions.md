@@ -24,9 +24,7 @@ Considering the extent of use of sumatriptan in patients with migraine, the inci
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying coronary artery disease, the relationship is uncertain.
 
-### Premarketing Experience With Sumatriptan
-
-Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
+Premarketing Experience With Sumatriptan: Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
 Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
 Neither of these adverse events was associated with a serious clinical outcome.
@@ -35,9 +33,7 @@ Among the more than 1,900 patients with migraine who participated in premarketin
 Six of these 8 patients had ECG changes consistent with transient ischemia, but without accompanying clinical symptoms or signs.
 Of these 8 patients, 4 had either findings suggestive of CAD or risk factors predictive of CAD prior to study enrollment.
 
-### Postmarketing Experience With Sumatriptan
-
-Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
+Postmarketing Experience With Sumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
 The uncontrolled nature of postmarketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of IMITREX and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within 1 hour of the administration of IMITREX.
@@ -151,18 +147,12 @@ No specific laboratory tests are recommended for monitoring patients prior to an
 
 ## Drug Interactions
 
-### Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
+Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome: Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS).
 
-Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS).
-
-### Ergot-Containing Drugs
-
-Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
+Ergot-Containing Drugs: Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
 Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided (see CONTRAINDICATIONS).
 
-### Monoamine Oxidase-A Inhibitors
-
-MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
+Monoamine Oxidase-A Inhibitors: MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
 Therefore, the use of IMITREX Nasal Spray in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
 
 ## Drug/Laboratory Test Interactions
@@ -171,22 +161,16 @@ IMITREX Nasal Spray is not known to interfere with commonly employed clinical la
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
-
-In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats: 104 weeks) or drinking water (mice: 78 weeks).
+Carcinogenesis:In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats:104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose (target dose of 160 mg/kg/day) were approximately 184 times the exposure attained in humans after the maximum recommended single intranasal dose of 20 mg.
 The highest dose administered to rats (160 mg/kg/day, reduced from 360 mg/kg/day during week 21) was approximately 78 times the maximum recommended single intranasal dose of 20 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
 Local effects on nasal and respiratory tissue after chronic intranasal dosing in animals have not been evaluated (see WARNINGS).
 
-### Mutagenesis
-
-Sumatriptan was not mutagenic in the presence or absence of metabolic activation when tested in 2 gene mutation assays (the Ames test and the in vitro mammalian Chinese hamster V79/HGPRT assay).
+Mutagenesis: Sumatriptan was not mutagenic in the presence or absence of metabolic activation when tested in 2 gene mutation assays (the Ames test and the in vitro mammalian Chinese hamster V79/HGPRT assay).
 In 2 cytogenetics assays (the in vitro human lymphocyte assay and the in vivo rat micronucleus assay) sumatriptan was not associated with clastogenic activity.
 
-### Impairment of Fertility
-
-In a study in which male and female rats were dosed daily with oral sumatriptan prior to and throughout the mating period, there was a treatment-related decrease in fertility secondary to a decrease in mating in animals treated with 50 and 500 mg/kg/day.
+Impairment of Fertility: In a study in which male and female rats were dosed daily with oral sumatriptan prior to and throughout the mating period, there was a treatment-related decrease in fertility secondary to a decrease in mating in animals treated with 50 and 500 mg/kg/day.
 The highest no-effect dose for this finding was 5 mg/kg/day, or approximately twice the maximum recommended single human intranasal dose of 20 mg on a mg/m2 basis.
 It is not clear whether the problem is associated with treatment of the males or females or both combined.
 In a similar study by the subcutaneous route there was no evidence of impaired fertility at 60 mg/kg/day, the maximum dose tested, which is equivalent to approximately 29 times the maximum recommended single human intranasal dose of 20 mg on a mg/m2 basis.
@@ -202,9 +186,7 @@ There are no adequate and well-controlled studies in pregnant women.
 Therefore, IMITREX Nasal Spray should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 In assessing this information, the following findings should be considered.
 
-### Embryolethality
-
-When given orally or intravenously to pregnant rabbits daily throughout the period of organogenesis, sumatriptan caused embryolethality at doses at or close to those producing maternal toxicity.
+Embryolethality: When given orally or intravenously to pregnant rabbits daily throughout the period of organogenesis, sumatriptan caused embryolethality at doses at or close to those producing maternal toxicity.
 In the oral studies this dose was 100 mg/kg/day, and in the intravenous studies this dose was 2.0 mg/kg/day.
 The mechanism of the embryolethality is not known.
 The highest no-effect dose for embryolethality by the oral route was 50 mg/kg/day, which is approximately 48 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
@@ -215,9 +197,7 @@ This dose is approximately 6 times the maximum single recommended human intranas
 Additionally, in a study in rats given subcutaneous sumatriptan daily, prior to and throughout pregnancy, at 60 mg/kg/day, the maximum dose tested, there was no evidence of increased embryo/fetal lethality.
 This dose is equivalent to approximately 29 times the maximum recommended single human intranasal dose of 20 mg on a mg/m2 basis.
 
-### Teratogenicity
-
-Oral treatment of pregnant rats with sumatriptan during the period of organogenesis resulted in an increased incidence of blood vessel abnormalities (cervicothoracic and umbilical) at doses of approximately 250 mg/kg/day or higher.
+Teratogenicity: Oral treatment of pregnant rats with sumatriptan during the period of organogenesis resulted in an increased incidence of blood vessel abnormalities (cervicothoracic and umbilical) at doses of approximately 250 mg/kg/day or higher.
 The highest no-effect dose was approximately 60 mg/kg/day, which is approximately 29 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 Oral treatment of pregnant rabbits with sumatriptan during the period of organogenesis resulted in an increased incidence of cervicothoracic vascular and skeletal abnormalities.
 The highest no-effect dose for these effects was 15 mg/kg/day, or approximately 14 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
@@ -227,18 +207,14 @@ The highest no-effect dose was 50 mg/kg/day, or approximately 24 times the maxim
 In a study in rats dosed daily with subcutaneous sumatriptan prior to and throughout pregnancy, at a dose of 60 mg/kg/day, the maximum dose tested, there was no evidence of teratogenicity.
 This dose is equivalent to approximately 29 times the maximum recommended single human intranasal dose of 20 mg on a mg/m2 basis.
 
-### Pup Deaths
-
-Oral treatment of pregnant rats with sumatriptan during the period of organogenesis resulted in a decrease in pup survival between birth and postnatal day 4 at doses of approximately 250 mg/kg/day or higher.
+Pup Deaths: Oral treatment of pregnant rats with sumatriptan during the period of organogenesis resulted in a decrease in pup survival between birth and postnatal day 4 at doses of approximately 250 mg/kg/day or higher.
 The highest no-effect dose for this effect was approximately 60 mg/kg/day, or 29 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 
 Oral treatment of pregnant rats with sumatriptan from gestational day 17 through postnatal day 21 demonstrated a decrease in pup survival measured at postnatal days 2, 4, and 20 at the dose of 1,000 mg/kg/day.
 The highest no-effect dose for this finding was 100 mg/kg/day, approximately 49 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 In a similar study in rats by the subcutaneous route there was no increase in pup death at 81 mg/kg/day, the highest dose tested, which is equivalent to 40 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 
-### Pregnancy Registry
-
-To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
+Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
 Physicians are encouraged to register patients by calling (800) 336-2176.
 
 ## Nursing Mothers

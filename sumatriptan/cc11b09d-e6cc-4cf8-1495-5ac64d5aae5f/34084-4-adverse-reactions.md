@@ -48,71 +48,43 @@ Event frequencies are calculated as the number of patients who used IMITREX Nasa
 All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: infrequent adverse events are those occurring in 1/100 to 1/1,000 patients and rare adverse events are those occurring in fewer than 1/1,000 patients.
 
-### Atypical Sensations
-
-Infrequent were tingling, warm/hot sensation, numbness, pressure sensation, feeling strange, feeling of heaviness, feeling of tightness, paresthesia, cold sensation, and tight feeling in head.
+Atypical Sensations: Infrequent were tingling, warm/hot sensation, numbness, pressure sensation, feeling strange, feeling of heaviness, feeling of tightness, paresthesia, cold sensation, and tight feeling in head.
 Rare were dysesthesia and prickling sensation.
 
-### Cardiovascular
-
-Infrequent were flushing and hypertension (see WARNINGS), palpitations, tachycardia, changes in ECG, and arrhythmia (see WARNINGS and PRECAUTIONS).
+Cardiovascular: Infrequent were flushing and hypertension (see WARNINGS), palpitations, tachycardia, changes in ECG, and arrhythmia (see WARNINGS and PRECAUTIONS).
 Rare were abdominal aortic aneurysm, hypotension, bradycardia, pallor, and phlebitis.
 
-### Chest Symptoms
+Chest Symptoms: Infrequent were chest tightness, chest discomfort, and chest pressure/heaviness (see PRECAUTIONS: General).
 
-Infrequent were chest tightness, chest discomfort, and chest pressure/heaviness (see PRECAUTIONS: General).
-
-### Ear, Nose, and Throat
-
-Infrequent were disturbance of hearing and ear infection.
+Ear, Nose, and Throat: Infrequent were disturbance of hearing and ear infection.
 Rare were otalgia and Meniere disease.
 
-### Endocrine and Metabolic
-
-Infrequent was thirst.
+Endocrine and Metabolic: Infrequent was thirst.
 Rare were galactorrhea, hypothyroidism, and weight loss.
 
-### Eye
+Eye: Infrequent were irritation of eyes and visual disturbance.
 
-Infrequent were irritation of eyes and visual disturbance.
-
-### Gastrointestinal
-
-Infrequent were abdominal discomfort, diarrhea, dysphagia, and gastroesophageal reflux.
+Gastrointestinal: Infrequent were abdominal discomfort, diarrhea, dysphagia, and gastroesophageal reflux.
 Rare were constipation, flatulence/eructation, hematemesis, intestinal obstruction, melena, gastroenteritis, colitis, hemorrhage of gastrointestinal tract, and pancreatitis.
 
-### Mouth and Teeth
+Mouth and Teeth: Infrequent was disorder of mouth and tongue (e.g., burning of tongue, numbness of tongue, dry mouth).
 
-Infrequent was disorder of mouth and tongue (e.g., burning of tongue, numbness of tongue, dry mouth).
-
-### Musculoskeletal
-
-Infrequent were neck pain/stiffness, backache, weakness, joint symptoms, arthritis, and myalgia.
+Musculoskeletal: Infrequent were neck pain/stiffness, backache, weakness, joint symptoms, arthritis, and myalgia.
 Rare were muscle cramps, tetany, intervertebral disc disorder, and muscle stiffness.
 
-### Neurological
-
-Infrequent were drowsiness/sedation, anxiety, sleep disturbances, tremors, syncope, shivers, chills, depression, agitation, sensation of lightness, and mental confusion.
+Neurological: Infrequent were drowsiness/sedation, anxiety, sleep disturbances, tremors, syncope, shivers, chills, depression, agitation, sensation of lightness, and mental confusion.
 Rare were difficulty concentrating, hunger, lacrimation, memory disturbances, monoplegia/diplegia, apathy, disturbance of smell, disturbance of emotions, dysarthria, facial pain, intoxication, stress, decreased appetite, difficulty coordinating, euphoria, and neoplasm of pituitary.
 
-### Respiratory
-
-Infrequent were dyspnea and lower respiratory tract infection.
+Respiratory: Infrequent were dyspnea and lower respiratory tract infection.
 Rare was asthma.
 
-### Skin
-
-Infrequent were rash/skin eruption, pruritus, and erythema.
+Skin: Infrequent were rash/skin eruption, pruritus, and erythema.
 Rare were herpes, swelling of face, sweating, and peeling of skin.
 
-### Urogenital
-
-Infrequent were dysuria, disorder of breasts, and dysmenorrhea.
+Urogenital: Infrequent were dysuria, disorder of breasts, and dysmenorrhea.
 Rare were endometriosis and increased urination.
 
-### Miscellaneous
-
-Infrequent were cough, edema, and fever.
+Miscellaneous: Infrequent were cough, edema, and fever.
 Rare were hypersensitivity, swelling of extremities, voice disturbances, difficulty in walking, and lymphadenopathy.
 
 ## Other Events Observed in the Clinical Development of IMITREX
@@ -121,63 +93,35 @@ The following adverse events occurred in clinical trials with IMITREX Injection 
 Because the reports include events observed in open and uncontrolled studies, the role of IMITREX in their causation cannot be reliably determined.
 All reported events are included except those already listed, those too general to be informative, and those not reasonably associated with the use of the drug.
 
-### Breasts
+Breasts: Breast swelling; cysts, lumps, and masses of breasts; nipple discharge; primary malignant breast neoplasm; and tenderness.
 
-Breast swelling; cysts, lumps, and masses of breasts; nipple discharge; primary malignant breast neoplasm; and tenderness.
+Cardiovascular: Abnormal pulse, angina, atherosclerosis, cerebral ischemia, cerebrovascular lesion, heart block, peripheral cyanosis, pulsating sensations, Raynaud syndrome, thrombosis, transient myocardial ischemia, various transient ECG changes (nonspecific ST or T wave changes, prolongation of PR or QTc intervals, sinus arrhythmia, nonsustained ventricular premature beats, isolated junctional ectopic beats, atrial ectopic beats, delayed activation of the right ventricle), and vasodilation.
 
-### Cardiovascular
+Ear, Nose, and Throat: Allergic rhinitis; ear, nose, and throat hemorrhage; external otitis; feeling of fullness in the ear(s); hearing disturbances; hearing loss; nasal inflammation; sensitivity to noise; sinusitis; tinnitus; and upper respiratory inflammation.
 
-Abnormal pulse, angina, atherosclerosis, cerebral ischemia, cerebrovascular lesion, heart block, peripheral cyanosis, pulsating sensations, Raynaud syndrome, thrombosis, transient myocardial ischemia, various transient ECG changes (nonspecific ST or T wave changes, prolongation of PR or QTc intervals, sinus arrhythmia, nonsustained ventricular premature beats, isolated junctional ectopic beats, atrial ectopic beats, delayed activation of the right ventricle), and vasodilation.
+Endocrine and Metabolic: Dehydration; endocrine cysts, lumps, and masses; elevated thyrotropin stimulating hormone (TSH) levels; fluid disturbances; hyperglycemia; hypoglycemia; polydipsia; and weight gain.
 
-### Ear, Nose, and Throat
+Eye: Accommodation disorders, blindness and low vision, conjunctivitis, disorders of sclera, external ocular muscle disorders, eye edema and swelling, eye itching, eye hemorrhage, eye pain, keratitis, mydriasis, and vision alterations.
 
-Allergic rhinitis; ear, nose, and throat hemorrhage; external otitis; feeling of fullness in the ear(s); hearing disturbances; hearing loss; nasal inflammation; sensitivity to noise; sinusitis; tinnitus; and upper respiratory inflammation.
+Gastrointestinal: Abdominal distention, dental pain, disturbances of liver function tests, dyspeptic symptoms, feelings of gastrointestinal pressure, gallstones, gastric symptoms, gastritis, gastrointestinal pain, hypersalivation, hyposalivation, oral itching and irritation, peptic ulcer, retching, salivary gland swelling, and swallowing disorders.
 
-### Endocrine and Metabolic
+Hematological Disorders: Anemia.
 
-Dehydration; endocrine cysts, lumps, and masses; elevated thyrotropin stimulating hormone (TSH) levels; fluid disturbances; hyperglycemia; hypoglycemia; polydipsia; and weight gain.
+Injection Site Reaction
 
-### Eye
+Miscellaneous: Contusions, fluid retention, hematoma, hypersensitivity to various agents, jaw discomfort, miscellaneous laboratory abnormalities, overdose, “serotonin agonist effect,” and speech disturbance.
 
-Accommodation disorders, blindness and low vision, conjunctivitis, disorders of sclera, external ocular muscle disorders, eye edema and swelling, eye itching, eye hemorrhage, eye pain, keratitis, mydriasis, and vision alterations.
+Musculoskeletal: Acquired musculoskeletal deformity, arthralgia and articular rheumatitis, muscle atrophy, muscle tiredness, musculoskeletal inflammation, need to flex calf muscles, rigidity, tightness, and various joint disturbances (pain, stiffness, swelling, ache).
 
-### Gastrointestinal
+Neurological: Aggressiveness, bradylogia, cluster headache, convulsions, detachment, disturbances of taste, drug abuse, dystonia, facial paralysis, globus hystericus, hallucinations, headache, heat sensitivity, hyperesthesia, hysteria, increased alertness, malaise/fatigue, migraine, motor dysfunction, myoclonia, neuralgia, neurotic disorders, paralysis, personality change, phobia, photophobia, psychomotor disorders, radiculopathy, raised intracranial pressure, relaxation, stinging sensations, transient hemiplegia, simultaneous hot and cold sensations, suicide, tickling sensations, twitching, and yawning.
 
-Abdominal distention, dental pain, disturbances of liver function tests, dyspeptic symptoms, feelings of gastrointestinal pressure, gallstones, gastric symptoms, gastritis, gastrointestinal pain, hypersalivation, hyposalivation, oral itching and irritation, peptic ulcer, retching, salivary gland swelling, and swallowing disorders.
+Pain and Other Pressure Sensations: Chest pain, neck tightness/pressure, throat/jaw pain/tightness/pressure, and pain (location specified).
 
-### Hematological Disorders
+Respiratory: Breathing disorders, bronchitis, diseases of the lower respiratory tract, hiccoughs, and influenza.
 
-Anemia.
+Skin: Dry/scaly skin, eczema, seborrheic dermatitis, skin nodules, skin tenderness, tightness of skin, and wrinkling of skin.
 
-### Injection Site Reaction
-
-### Miscellaneous
-
-Contusions, fluid retention, hematoma, hypersensitivity to various agents, jaw discomfort, miscellaneous laboratory abnormalities, overdose, “serotonin agonist effect,” and speech disturbance.
-
-### Musculoskeletal
-
-Acquired musculoskeletal deformity, arthralgia and articular rheumatitis, muscle atrophy, muscle tiredness, musculoskeletal inflammation, need to flex calf muscles, rigidity, tightness, and various joint disturbances (pain, stiffness, swelling, ache).
-
-### Neurological
-
-Aggressiveness, bradylogia, cluster headache, convulsions, detachment, disturbances of taste, drug abuse, dystonia, facial paralysis, globus hystericus, hallucinations, headache, heat sensitivity, hyperesthesia, hysteria, increased alertness, malaise/fatigue, migraine, motor dysfunction, myoclonia, neuralgia, neurotic disorders, paralysis, personality change, phobia, photophobia, psychomotor disorders, radiculopathy, raised intracranial pressure, relaxation, stinging sensations, transient hemiplegia, simultaneous hot and cold sensations, suicide, tickling sensations, twitching, and yawning.
-
-### Pain and Other Pressure Sensations
-
-Chest pain, neck tightness/pressure, throat/jaw pain/tightness/pressure, and pain (location specified).
-
-### Respiratory
-
-Breathing disorders, bronchitis, diseases of the lower respiratory tract, hiccoughs, and influenza.
-
-### Skin
-
-Dry/scaly skin, eczema, seborrheic dermatitis, skin nodules, skin tenderness, tightness of skin, and wrinkling of skin.
-
-### Urogenital
-
-Abortion, abnormal menstrual cycle, bladder inflammation, hematuria, inflammation of fallopian tubes, intermenstrual bleeding, menstruation symptoms, micturition disorders, renal calculus, urethritis, urinary frequency, and urinary infections.
+Urogenital: Abortion, abnormal menstrual cycle, bladder inflammation, hematuria, inflammation of fallopian tubes, intermenstrual bleeding, menstruation symptoms, micturition disorders, renal calculus, urethritis, urinary frequency, and urinary infections.
 
 ## Postmarketing Experience (Reports for Subcutaneous or Oral Sumatriptan)
 
@@ -187,50 +131,26 @@ The events enumerated include all except those already listed in the ADVERSE REA
 Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of sumatriptan in their causation cannot be reliably determined.
 It is assumed, however, that systemic reactions following sumatriptan use are likely to be similar regardless of route of administration.
 
-### Blood
+Blood: Hemolytic anemia, pancytopenia, thrombocytopenia.
 
-Hemolytic anemia, pancytopenia, thrombocytopenia.
+Cardiovascular: Atrial fibrillation, cardiomyopathy, colonic ischemia (see WARNINGS), Prinzmetal variant angina, pulmonary embolism, shock, thrombophlebitis.
 
-### Cardiovascular
+Ear, Nose, and Throat: Deafness.
 
-Atrial fibrillation, cardiomyopathy, colonic ischemia (see WARNINGS), Prinzmetal variant angina, pulmonary embolism, shock, thrombophlebitis.
+Eye: Ischemic optic neuropathy, retinal artery occlusion, retinal vein thrombosis, loss of vision.
 
-### Ear, Nose, and Throat
+Gastrointestinal: Ischemic colitis with rectal bleeding (see WARNINGS), xerostomia.
 
-Deafness.
+Hepatic: Elevated liver function tests.
 
-### Eye
+Neurological: Central nervous system vasculitis, cerebrovascular accident, dysphasia, serotonin syndrome, subarachnoid hemorrhage.
 
-Ischemic optic neuropathy, retinal artery occlusion, retinal vein thrombosis, loss of vision.
+Non-Site Specific: Angioneurotic edema, cyanosis, death (see WARNINGS), temporal arteritis.
 
-### Gastrointestinal
+Psychiatry: Panic disorder.
 
-Ischemic colitis with rectal bleeding (see WARNINGS), xerostomia.
+Respiratory: Bronchospasm in patients with and without a history of asthma.
 
-### Hepatic
+Skin: Exacerbation of sunburn, hypersensitivity reactions (allergic vasculitis, erythema, pruritus, rash, shortness of breath, urticaria; in addition, severe anaphylaxis/anaphylactoid reactions have been reported [see WARNINGS]), photosensitivity.
 
-Elevated liver function tests.
-
-### Neurological
-
-Central nervous system vasculitis, cerebrovascular accident, dysphasia, serotonin syndrome, subarachnoid hemorrhage.
-
-### Non-Site Specific
-
-Angioneurotic edema, cyanosis, death (see WARNINGS), temporal arteritis.
-
-### Psychiatry
-
-Panic disorder.
-
-### Respiratory
-
-Bronchospasm in patients with and without a history of asthma.
-
-### Skin
-
-Exacerbation of sunburn, hypersensitivity reactions (allergic vasculitis, erythema, pruritus, rash, shortness of breath, urticaria; in addition, severe anaphylaxis/anaphylactoid reactions have been reported [see WARNINGS]), photosensitivity.
-
-### Urogenital
-
-Acute renal failure.
+Urogenital: Acute renal failure.
