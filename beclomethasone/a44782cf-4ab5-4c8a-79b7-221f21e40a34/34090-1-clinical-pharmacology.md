@@ -14,31 +14,23 @@ It is hydrolyzed via esterase enzymes to its active metabolite beclomethasone-17
 
 ## Pharmacokinetics
 
-### Absorption
-
-Beclomethasone dipropionate is sparingly soluble in water.
+Absorption: Beclomethasone dipropionate is sparingly soluble in water.
 When given by nasal inhalation in the form of an aqueous or aerosolized suspension, the drug is deposited primarily in the nasal passages.
 The majority of the drug is eventually swallowed.
 Following intranasal administration of aqueous beclomethasone dipropionate, the systemic absorption was assessed by measuring the plasma concentrations of its active metabolite B-17-MP, for which the absolute bioavailability following intranasal administration is 44% (43% of the administered dose came from the swallowed portion and only 1% of the total dose was bioavailable from the nose).
 The absorption of unchanged beclomethasone dipropionate following oral and intranasal dosing was undetectable (plasma concentrations <50 pg/mL).
 
-### Distribution
-
-The tissue distribution at steady state for beclomethasone dipropionate is moderate (20 L) but more extensive for B-17-MP (424 L). There is no evidence of tissue storage of beclomethasone dipropionate or its metabolites.
+Distribution: The tissue distribution at steady state for beclomethasone dipropionate is moderate (20 L) but more extensive for B-17-MP (424 L). There is no evidence of tissue storage of beclomethasone dipropionate or its metabolites.
 Plasma protein binding is moderately high (87%).
 
-### Metabolism
-
-Beclomethasone dipropionate is cleared very rapidly from the systemic circulation by metabolism mediated via esterase enzymes that are found in most tissues.
+Metabolism: Beclomethasone dipropionate is cleared very rapidly from the systemic circulation by metabolism mediated via esterase enzymes that are found in most tissues.
 The main product of metabolism is the active metabolite (B-17-MP).
 Minor inactive metabolites, beclomethasone-21-monopropionate (B-21-MP) and beclomethasone (BOH), are also formed, but these contribute little to systemic exposure.
 
-### Elimination
-
-The elimination of beclomethasone dipropionate and B-17-MP after intravenous administration are characterized by high plasma clearance (150 and 120 L/hour) with corresponding terminal elimination half-lives of 0.5 and 2.7 hours.
+Elimination: The elimination of beclomethasone dipropionate and B-17-MP after intravenous administration are characterized by high plasma clearance (150 and 120 L/hour) with corresponding terminal elimination half-lives of 0.5 and 2.7 hours.
 Following oral administration of tritiated beclomethasone dipropionate, approximately 60% of the dose was excreted in the feces within 96 hours, mainly as free and conjugated polar metabolites.
 Approximately 12% of the dose was excreted as free and conjugated polar metabolites in the urine.
-The renal clearance of beclomethasone dipropionate and its metabolites is negligible.
+The renal clearance of beclomethasone dipropionate and its metabolites is negligib
 
 ## Pharmacodynamics
 

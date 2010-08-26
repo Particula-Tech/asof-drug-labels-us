@@ -88,17 +88,13 @@ No inhibition of the estrous cycle in dogs was seen following 12 months’ expos
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C. Like other corticosteroids, beclomethasone dipropionate was teratogenic and embryocidal in the mouse and rabbit at a subcutaneous dose of 0.1 mg/kg in mice or 0.025 mg/kg in rabbits (approximately equal to the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
+Teratogenic Effects: Pregnancy Category C. Like other corticosteroids, beclomethasone dipropionate was teratogenic and embryocidal in the mouse and rabbit at a subcutaneous dose of 0.1 mg/kg in mice or 0.025 mg/kg in rabbits (approximately equal to the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 No teratogenicity or embryocidal effects were seen in rats when exposed to an inhalation dose of 0.1 mg/kg plus oral doses of up to 10 mg/kg per day for a combined dose of 10.1 mg/kg (approximately 240 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
 
 There are no adequate and well-controlled studies in pregnant women.
 Beclomethasone dipropionate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects
-
-Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
+Nonteratogenic Effects: Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
 
 ## Nursing Mothers
