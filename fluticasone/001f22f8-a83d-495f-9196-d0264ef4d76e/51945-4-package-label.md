@@ -19,7 +19,7 @@ Fill in the dates on the Diskus appropriately.
 
 Dosage: Use only as directed by your doctor.
 
-Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
+Store at controlled room temperature (see USP), 20o to 25 C (68o to 77oF) in a dry place away from direct heat or sunlight.
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
