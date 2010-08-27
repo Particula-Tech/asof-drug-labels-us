@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 OPTIVAR® (azelastine hydrochloride ophthalmic solution), 0.05% is a sterile ophthalmic solution containing azelastine hydrochloride, a relatively selective H1-receptor antagonist for topical administration to the eyes.
 Azelastine hydrochloride is a white crystalline powder with a molecular weight of 418.37.

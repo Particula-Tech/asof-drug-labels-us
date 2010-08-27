@@ -1,14 +1,13 @@
-# WARNINGS:
+# WARNINGS
 
 OPTIVAR® is for ocular use only and not for injection or oral use.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## Information for Patients:
 
-To prevent contaminating the dropper tip and solution, care should be taken not to touch any surface, the eyelids, or surrounding areas with the dropper tip of the bottle or single-use container.
+To prevent contaminating the dropper tip and solution, care should be taken not to touch any surface, the eyelids, or surrounding areas with the dropper tip of the bottle.
 Keep bottle tightly closed when not in use.
-Discard single-use container immediately after use.
 This product is sterile when packaged.
 
 Patients should be advised not to wear a contact lens if their eye is red.

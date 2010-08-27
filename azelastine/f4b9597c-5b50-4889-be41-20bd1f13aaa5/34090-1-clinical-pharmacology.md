@@ -1,10 +1,10 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Azelastine hydrochloride is a relatively selective histamine H1 antagonist and an inhibitor of the release of histamine and other mediators from cells (e.g. mast cells) involved in the allergic response.
 Based on in-vitro studies using human cell lines, inhibition of other mediators involved in allergic reactions (e.g. leukotrienes and PAF) has been demonstrated with azelastine hydrochloride.
 Decreased chemotaxis and activation of eosinophils has also been demonstrated.
 
-## Pharmacokinetics and Metabolism:
+## Pharmacokinetics and Metabolism
 
 Absorption of azelastine following ocular administration was relatively low.
 A study in symptomatic patients receiving one drop of OPTIVAR® in each eye two to four times a day (0.06 to 0.12 mg azelastine hydrochloride) demonstrated plasma concentrations of azelastine hydrochloride to generally be between 0.02 and 0.25 ng/mL after 56 days of treatment.
@@ -15,7 +15,7 @@ Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was e
 Azelastine hydrochloride is oxidatively metabolized to the principal metabolite, N-desmethylazelastine, by the cytochrome P450 enzyme system.
 In-vitro studies in human plasma indicate that the plasma protein binding of azelastine and N-desmethylazelastine are approximately 88% and 97%, respectively.
 
-## Clinical Trials:
+## Clinical Trials
 
 In a conjunctival antigen challenge study, OPTIVAR® was more effective than its vehicle in preventing itching associated with allergic conjunctivitis.
 OPTIVAR® had a rapid (within 3 minutes) onset of effect and a duration of effect of approximately 8 hours for the prevention of itching.

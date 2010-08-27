@@ -1,3 +1,3 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 The recommended dose is one drop instilled into each affected eye twice a day.
