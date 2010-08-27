@@ -1,8 +1,8 @@
-# CONTAINER LABELS
+# PRINCIPAL DISPLAY PANEL
 
-## 30 mg Label Text
+## BusPIRone Hydrochloride Tablets USP, 5 mg 100s Label Text
 
-NDC 0093-5200-06
+NDC 0093-0053-01
 
 BusPIRone
 
@@ -10,13 +10,75 @@ HYDROCHLORIDE
 
 Tablets, USP
 
-30 mg
+5 mg
+
+Rx only
+
+100 TABLETS
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
+## BusPIRone Hydrochloride Tablets USP, 10 mg 100s Label Text
+
+NDC 0093-0054-01
+
+BusPIRone
+
+HYDROCHLORIDE
+
+Tablets, USP
+
+10 mg
+
+Rx only
+
+100 TABLETS
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
+## BusPIRone Hydrochloride Tablets USP, 15 mg 100s Label Text
+
+NDC 0093-1003-01
+
+BusPIRone
+
+HYDROCHLORIDE
+
+Tablets, USP
+
+15 mg
+
+PHARMACIST: PLEASE DISPENSE WITH
+
+ATTACHED PATIENT INFORMATON LEAFLET
+
+Rx only
+
+100 TABLETS
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
+## BusPIRone Hydrochloride Tablets USP, 30 mg 60s Label Text
+
+NDC 0093-5200-06
+
+BusPIRone
+
+HYDROCHLORIDE
+
+Tablets USP, 30 mg
 
 PHARMACIST: PLEASE DISPENSE
 
 WITH ATTACHED PATIENT
 
-INFORMATION LEAFLET
+INFORMATON LEAFLET
 
 Rx only
 

@@ -21,8 +21,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 Comparison of the cited figures, however, does provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side-effect incidence rate in the population studied.
 
-TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS Events reported by at least 1% of buspirone patients are included.
-(Percent of Patients Reporting)
+TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS* (Percent of Patients Reporting)
 
 |  | Buspirone | Placebo |
 | --- | --- | --- |
@@ -63,7 +62,10 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 | Fatigue | 4 | 4 |
 | Weakness | 2 | - |
 | Sweating/Clamminess | 1 | - |
-| - Incidence less than 1%. |  |  |
+
+* Events reported by at least 1% of buspirone patients are included.
+
+- Incidence less than 1%.
 
 ## Other Events Observed During the Entire Premarketing Evaluation of Buspirone
 
