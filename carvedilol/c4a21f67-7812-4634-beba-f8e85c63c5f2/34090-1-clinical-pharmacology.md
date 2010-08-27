@@ -7,19 +7,6 @@ Carvedilol has no intrinsic sympathomimetic activity.
 
 ## 12.2 Pharmacodynamics
 
-Heart Failure: The basis for the beneficial effects of carvedilol in heart failure is not established.
-
-Two placebo-controlled studies compared the acute hemodynamic effects of carvedilol to baseline measurements in 59 and 49 patients with NYHA class II-IV heart failure receiving diuretics, ACE inhibitors, and digitalis.
-There were significant reductions in systemic blood pressure, pulmonary artery pressure, pulmonary capillary wedge pressure, and heart rate.
-Initial effects on cardiac output, stroke volume index, and systemic vascular resistance were small and variable.
-
-These studies measured hemodynamic effects again at 12 to 14 weeks.
-Carvedilol significantly reduced systemic blood pressure, pulmonary artery pressure, right atrial pressure, systemic vascular resistance, and heart rate, while stroke volume index was increased.
-
-Among 839 patients with NYHA class II-III heart failure treated for 26 to 52 weeks in 4 US placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in patients receiving carvedilol and by 2 EF units in placebo patients at a target dose of 25 to 50 mg twice daily.
-The effects of carvedilol on ejection fraction were related to dose.
-Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant.
-
 Left Ventricular Dysfunction Following Myocardial Infarction: The basis for the beneficial effects of carvedilol in patients with left ventricular dysfunction following an acute myocardial infarction is not established.
 
 Hypertension: The mechanism by which β-blockade produces an antihypertensive effect has not been established.
@@ -75,10 +62,6 @@ Carvedilol is a basic, lipophilic compound with a steady-state volume of distrib
 Plasma clearance ranges from 500 to 700 mL/min.
 
 ## 12.4 Specific Populations
-
-Heart Failure: Steady-state plasma concentrations of carvedilol and its enantiomers increased proportionally over the 6.25 to 50 mg dose range in patients with heart failure.
-Compared to healthy subjects, heart failure patients had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 patients with NYHA class IV heart failure.
-The mean apparent terminal elimination half-life for carvedilol was similar to that observed in healthy subjects.
 
 Geriatric: Plasma levels of carvedilol average about 50% higher in the elderly compared to young subjects.
 

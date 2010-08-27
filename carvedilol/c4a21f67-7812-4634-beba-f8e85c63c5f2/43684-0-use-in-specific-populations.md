@@ -28,11 +28,6 @@ Adverse reactions in this trial that occurred in greater than 10% of patients tr
 
 ## 8.5 Geriatric Use
 
-Of the 765 patients with heart failure randomized to carvedilol in US clinical trials, 31% (235) were 65 years of age or older, and 7.3% (56) were 75 years of age or older.
-Of the 1,156 patients randomized to carvedilol in a long-term, placebo-controlled trial in severe heart failure, 47% (547) were 65 years of age or older, and 15% (174) were 75 years of age or older.
-
-Of 3,025 patients receiving carvedilol in heart failure trials worldwide, 42% were 65 years of age or older.
-
 Of the 975 myocardial infarction patients randomized to carvedilol in the CAPRICORN trial, 48% (468) were 65 years of age or older, and 11% (111) were 75 years of age or older.
 
 Of the 2,065 hypertensive patients in US clinical trials of efficacy or safety who were treated with carvedilol, 21% (436) were 65 years of age or older.

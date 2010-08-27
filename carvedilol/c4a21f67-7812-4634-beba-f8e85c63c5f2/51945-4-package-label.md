@@ -1,1 +1,1 @@
-# Principal display panel
+# Principal display panels

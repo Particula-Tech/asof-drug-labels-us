@@ -26,7 +26,7 @@ PATIENT INFORMATION
 
 Rx only
 
-Carvedilol Tablets
+Carvedilol Tablets, USP
 
 Read the Patient Information that comes with carvedilol before you start taking it and each time you get a refill.
 There may be new information.
@@ -41,7 +41,6 @@ Carvedilol is a prescription medicine that belongs to a group of medicines calle
 
 - To treat patients with high blood pressure (hypertension)
 - To treat patients who had a heart attack that worsened how well the heart pumps
-- To treat patients with certain types of heart failure
 - Carvedilol is not approved for use in children under 18 years of age.
 
 ### Who should not take Carvedilol?
@@ -114,6 +113,8 @@ Do not drive a car, use machinery, or do anything that needs you to be alert if 
 - Carvedilol may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
 - Carvedilol may mask the symptoms of hyperthyroidism (overactive thyroid).
 - Worsening of severe allergic reactions.
+- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on Carvedilol.
+  These reactions can be life-threatening.
 
 Other side effects of carvedilol include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
 Rare serious allergic reactions have happened in patients who were on carvedilol.
@@ -142,11 +143,11 @@ This call is free.
 
 ### What are the ingredients in Carvedilol?
 
-Active Ingredient: Carvedilol.
+Active Ingredient: Carvedilol USP.
 
 Inactive Ingredients: Colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone and titanium dioxide.
 
-Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
+Carvedilol tablets, USP come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
 Manufactured by:
 
@@ -159,4 +160,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-April 2009
+August 2010
