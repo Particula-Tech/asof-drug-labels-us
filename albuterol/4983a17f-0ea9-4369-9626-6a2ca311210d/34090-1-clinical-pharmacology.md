@@ -4,7 +4,7 @@
 
 Albuterol sulfate is a beta2-adrenergic agonist.
 The pharmacologic effects of albuterol sulfate are attributable to activation of beta2-adrenergic receptors on airway smooth muscle.
-Activation of beta2-adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5' adenosine monophosphate (cyclic AMP).
+Activation of beta2-adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5'-adenosine monophosphate (cyclic AMP).
 This increase of cyclic AMP is associated with the activation of protein kinase A, which in turn inhibits the phosphorylation of myosin and lowers intracellular ionic calcium concentrations, resulting in muscle relaxation.
 Albuterol relaxes the smooth muscle of all airways, from the trachea to the terminal bronchioles.
 Albuterol acts as a functional antagonist to relax the airway irrespective of the spasmogen involved, thus protecting against all bronchoconstrictor challenges.

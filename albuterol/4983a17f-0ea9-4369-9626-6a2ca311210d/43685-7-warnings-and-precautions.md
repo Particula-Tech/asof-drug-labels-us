@@ -38,7 +38,7 @@ The potential for hypersensitivity must be considered in the clinical evaluation
 
 PROAIR HFA Inhalation Aerosol, like all sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders, hyperthyroidism, or diabetes mellitus; and in patients who are unusually responsive to sympathomimetic amines.
 Clinically significant changes in systolic and diastolic blood pressure have been seen in individual patients and could be expected to occur in some patients after use of any beta-adrenergic bronchodilator.
-Large doses of intravenous albuterol have been reported to aggravate pre-existing diabetes mellitus and ketoacidosis.
+Large doses of intravenous albuterol have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
 ## 5.8 Hypokalemia
 

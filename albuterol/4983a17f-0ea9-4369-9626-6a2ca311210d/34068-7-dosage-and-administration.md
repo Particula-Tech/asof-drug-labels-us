@@ -18,9 +18,10 @@ To maintain proper use of this product and to prevent medication build-up and bl
 
 Priming: Prime the inhaler before using for the first time and in cases where the inhaler has not been used for more than 2 weeks by releasing three sprays into the air, away from the face.
 
-Cleaning: As with all HFA-containing albuterol inhalers, to maintain proper use of this product and to prevent medication build-up and blockage, it is important to keep the plastic mouthpiece clean.
+Cleaning: As with all HFA-containing albuterol inhalers, to maintain proper use of this product and to prevent medication build-up and blockage, it is important to clean the plastic mouthpiece regularly.
 The inhaler may cease to deliver medication if the plastic actuator mouthpiece is not properly cleaned and dried.
 To clean: Wash the plastic mouthpiece with warm running water for 30 seconds, shake off excess water, and air dry thoroughly at least once a week.
 If the mouthpiece becomes blocked, washing the mouthpiece will remove the blockage.
 If it is necessary to use the inhaler before it is completely dry, shake off excess water, replace canister, spray twice into the air away from face, and take the prescribed dose.
-After such use, the mouthpiece should be rewashed and allowed to air dry thoroughly [see Patient Counseling Information (17.8)].
+After such use, the mouthpiece should be rewashed and allowed to air dry thoroughly.
+[see Patient Counseling Information (17.8)].

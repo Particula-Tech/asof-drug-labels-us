@@ -7,11 +7,11 @@ An evaluator-blind marketed active comparator HFA-134a albuterol inhaler arm (56
 
 Serial FEV1 measurements, shown below as percent change from test-day baseline at Day 1 and at Day 43, demonstrated that two inhalations of PROAIR HFA Inhalation Aerosol produced significantly greater improvement in FEV1 over the pre-treatment value than the matched placebo, as well as a comparable bronchodilator effect to the marketed active comparator HFA-134a albuterol inhaler.
 
-FEV1 as Mean Percent Change from Test-Day Pre-Dose in a 6-Week Clinical Trial
+| FEV1 as Mean Percent Change from Test-Day Pre-Dose in a 6-Week Clinical Trial Day 1 |
+| --- |
 
-Day 1
-
-Day 43
+| Day 43 |
+| --- |
 
 In this study, 31 of 58 patients treated with PROAIR HFA Inhalation Aerosol achieved a 15% increase in FEV1 within 30 minutes post-dose on Day 1.
 In these patients, the median time to onset, median time to peak effect, and median duration of effect were 8.2 minutes, 47 minutes, and approximately 3 hours, respectively.

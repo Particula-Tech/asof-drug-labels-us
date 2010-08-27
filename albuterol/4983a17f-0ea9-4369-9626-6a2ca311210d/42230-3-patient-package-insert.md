@@ -6,11 +6,14 @@ Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Copyright ©2010, Teva Respiratory, LLC All rights reserved.
+Copyright ©2010, Teva Respiratory, LLC
+
+All rights reserved.
+
 PROAIR® HFA is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland PE 2216 Rev.
-03/10
+Manufactured In Ireland PE 2237 Rev.
+07/10
 
 Attention Pharmacist:
 
@@ -78,29 +81,18 @@ Instructions for taking a dose from your PROAIR HFA:
 Read through the 6 steps below before using PROAIR HFA.
 If you have any questions, ask your doctor or pharmacist.
 
-1.
-Take the cap off the mouthpiece of the actuator.
-Shake the inhaler well before each spray.
-
-2.
-Hold the inhaler with the mouthpiece down (see Figure 2).
-Breathe out through your mouth and push as much air from your lungs as you can.
-Put the mouthpiece in your mouth and close your lips around it.
-
-3.
-Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
-Right after the spray comes out, take your finger off the canister.
-After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-
-4.
-Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-
-5.
-If your doctor has prescribed more sprays, wait 1 minute and shake the inhaler again.
-Repeat steps 2 through 4.
-
-6.
-Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
+1. Take the cap off the mouthpiece of the actuator.
+   Shake the inhaler well before each spray.
+2. Hold the inhaler with the mouthpiece down (see Figure 2).
+   Breathe out through your mouth and push as much air from your lungs as you can.
+   Put the mouthpiece in your mouth and close your lips around it.
+3. Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth (see Figure 3).
+   Right after the spray comes out, take your finger off the canister.
+   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+4. Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+5. If your doctor has prescribed more sprays, wait 1 minute and shake the inhaler again.
+   Repeat steps 2 through 4.
+6. Put the cap back on the mouthpiece after every time you use the inhaler, and make sure it snaps firmly into place.
 
 When to Replace Your PROAIR HFA
 
@@ -137,7 +129,7 @@ If your actuator becomes blocked:
 Blockage from medicine build-up is more likely to happen if you do not let the actuator air-dry completely.
 If the actuator gets blocked so that little or no medicine comes out of the mouthpiece (see Figures 7 and 8), wash the actuator as described in the "Cleaning Instructions" section above.
 
-If you need to use your inhaler before the actuator is completely dry, shake as much water off the actuator as you can.
+However, if you need to use your inhaler before the actuator is completely dry, shake as much water off the actuator as you can.
 Put the canister in the actuator and make sure it fits firmly.
 Shake the inhaler well and spray it twice into the air away from your face.
 Then take your dose as prescribed.
@@ -164,8 +156,11 @@ Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Copyright ©2010, Teva Respiratory, LLC All rights reserved.
+Copyright ©2010, Teva Respiratory, LLC
+
+All rights reserved.
+
 PROAIR® HFA is a registered trademark of Teva Respiratory, LLC
 
-Manufactured In Ireland PE 2216 Rev.
-03/10
+Manufactured In Ireland PE 2237 Rev.
+07/10
