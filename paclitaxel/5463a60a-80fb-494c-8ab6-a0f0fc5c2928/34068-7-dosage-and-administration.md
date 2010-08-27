@@ -69,8 +69,8 @@ TABLE 17
 
 ## Preparation and Administration Precautions
 
-TAXOL is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling TAXOL.
-The use of gloves is recommended.
+Procedures for proper handling and disposal of anticancer drugs should be considered.
+Several guidelines on this subject have been published.1–4 To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing TAXOL Injection.
 If TAXOL solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
 Following topical exposure, events have included tingling, burning, and redness.
 If TAXOL contacts mucous membranes, the membranes should be flushed thoroughly with water.

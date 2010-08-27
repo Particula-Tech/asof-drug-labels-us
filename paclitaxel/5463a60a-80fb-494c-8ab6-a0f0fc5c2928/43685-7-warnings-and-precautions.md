@@ -42,7 +42,10 @@ In a Phase 1 trial using escalating doses of TAXOL (110–200 mg/m2) and cisplat
 Pharmacokinetic data from these patients demonstrated a decrease in paclitaxel clearance of approximately 33% when TAXOL was administered following cisplatin.
 
 The metabolism of TAXOL is catalyzed by cytochrome P450 isoenzymes CYP2C8 and CYP3A4.
-Caution should be exercised when administering TAXOL concomitantly with known substrates, inducers (eg, rifampicin, carbamazepine, phenytoin, efavirenz, nevirapine), or inhibitors (eg, erythromycin, fluoxetine, gemfibrozil) of the cytochrome P450 isoenzymes CYP2C8 and CYP3A4.
+Caution should be exercised when TAXOL is concomitantly administered with known substrates (eg, midazolam, buspirone, felodipine, lovastatin, eletriptan, sildenafil, simvastatin, and triazolam), inhibitors (eg, atazanavir, clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, and telithromycin), and inducers (eg, rifampin and carbamazepine) of CYP3A4.
+(See CLINICAL PHARMACOLOGY.)
+
+Caution should also be exercised when TAXOL is concomitantly administered with known substrates (eg, repaglinide and rosiglitazone), inhibitors (eg, gemfibrozil), and inducers (eg, rifampin) of CYP2C8.
 (See CLINICAL PHARMACOLOGY.)
 
 Potential interactions between TAXOL, a substrate of CYP3A4, and protease inhibitors (ritonavir, saquinavir, indinavir, and nelfinavir), which are substrates and/or inhibitors of CYP3A4, have not been evaluated in clinical trials.
@@ -92,9 +95,9 @@ Extreme caution should be exercised when administering TAXOL to such patients, w
 
 Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
 These reactions have been observed more frequently with the 24-hour infusion than with the 3-hour infusion.
-Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, “recall,” has been reported rarely.
+Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, “recall,” has been reported.
 
-Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been received as part of the continuing surveillance of TAXOL safety.
+More severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been reported.
 In some cases the onset of the injection site reaction either occurred during a prolonged infusion or was delayed by a week to 10 days.
 
 A specific treatment for extravasation reactions is unknown at this time.

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020262"
+  ],
   "inn": "paclitaxel",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0015-3475-30",
     "0015-3476-30",
     "0015-3479-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "paclitaxel",
+      "name": "TAXOL"
+    }
+  ],
   "setid": "5463a60a-80fb-494c-8ab6-a0f0fc5c2928",
   "source": "dailymed"
 }

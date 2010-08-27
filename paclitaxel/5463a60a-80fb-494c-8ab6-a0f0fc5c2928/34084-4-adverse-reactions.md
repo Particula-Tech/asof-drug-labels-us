@@ -272,7 +272,7 @@ TABLE 15
 | c TAXOL dose in mg/m2/infusion duration in hours with G-CSF support; cisplatin dose in mg/m2. |  |  |  |  |
 | d Etoposide (VP) dose in mg/m2 was administered IV on days 1, 2, and 3; cisplatin dose in mg/m2. |  |  |  |  |
 | e p<0.05. |  |  |  |  |
-| fAll patients received premedication. |  |  |  |  |
+| f All patients received premedication. |  |  |  |  |
 | † Severe events are defined as at least Grade III toxicity. |  |  |  |  |
 
 Toxicity was generally more severe in the high-dose TAXOL treatment arm (T250/c75) than in the low-dose TAXOL arm (T135/c75).
@@ -347,7 +347,7 @@ The frequency and severity of adverse events have been generally similar for pat
 These patients require a lower dose intensity and supportive care.
 (See CLINICAL STUDIES: AIDS-Related Kaposi’s Sarcoma.)
 Toxicities that were observed only in or were noted to have occurred with greater severity in the population with Kaposi’s sarcoma and that occurred with a difference that was clinically significant in this population are described.
-Elevated liver function tests and renal toxicity have a higher trend of incidence in KS patients as compared to patients with solid tumors.
+Elevated liver function tests and renal toxicity have a higher incidence in KS patients as compared to patients with solid tumors.
 
 ### Hematologic
 
@@ -371,7 +371,7 @@ In the immunosuppressed patient population with advanced HIV disease and poor-ri
 The use of supportive therapy, including G-CSF, is recommended for patients who have experienced severe neutropenia.
 (See DOSAGE AND ADMINISTRATION.)
 
-Thrombocytopenia was uncommon, and almost never severe (<50,000 cells/mm3).
+Thrombocytopenia was reported.
 Twenty percent of the patients experienced a drop in their platelet count below 100,000 cells/mm3 at least once while on treatment; 7% had a platelet count <50,000 cells/mm3 at the time of their worst nadir.
 Bleeding episodes were reported in 4% of all courses and by 14% of all patients, but most of the hemorrhagic episodes were localized and the frequency of these events was unrelated to the TAXOL dose and schedule.
 In the Phase 3 second-line ovarian study, bleeding episodes were reported in 10% of the patients; no patients treated with the 3-hour infusion received platelet transfusions.
@@ -396,7 +396,7 @@ Abdominal pain, pain in the extremities, diaphoresis, and hypertension were also
 The minor hypersensitivity reactions consisted mostly of flushing (28%), rash (12%), hypotension (4%), dyspnea (2%), tachycardia (2%), and hypertension (1%).
 The frequency of hypersensitivity reactions remained relatively stable during the entire treatment period.
 
-Rare reports of chills and shock, and reports of back pain in association with hypersensitivity reactions have been received as part of the continuing surveillance of TAXOL safety.
+Chills, shock, and back pain in association with hypersensitivity reactions have been reported.
 
 ### Cardiovascular
 
@@ -420,18 +420,18 @@ Among patients with a normal ECG prior to study entry, 14% of all patients devel
 The most frequently reported ECG modifications were non-specific repolarization abnormalities, sinus bradycardia, sinus tachycardia, and premature beats.
 Among patients with normal ECGs at baseline, prior therapy with anthracyclines did not influence the frequency of ECG abnormalities.
 
-Cases of myocardial infarction have been reported rarely.
+Cases of myocardial infarction have been reported.
 Congestive heart failure, including cardiac dysfunction and reduction of left ventricular ejection fraction or ventricular failure, has been reported typically in patients who have received other chemotherapy, notably anthracyclines.
 (See PRECAUTIONS: Drug Interactions.)
 
-Rare reports of atrial fibrillation and supraventricular tachycardia have been received as part of the continuing surveillance of TAXOL safety.
+Atrial fibrillation and supraventricular tachycardia have been reported.
 
 ### Respiratory
 
-Rare reports of interstitial pneumonia, lung fibrosis, and pulmonary embolism have been received as part of the continuing surveillance of TAXOL safety.
-Rare reports of radiation pneumonitis have been received in patients receiving concurrent radiotherapy.
+Interstitial pneumonia, lung fibrosis, and pulmonary embolism have been reported.
+Radiation pneumonitis has been reported in patients receiving concurrent radiotherapy.
 
-Rare reports of pleural effusion and respiratory failure have been received as part of the continuing surveillance of TAXOL safety.
+Pleural effusion and respiratory failure have been reported.
 
 ### Neurologic
 
@@ -459,13 +459,13 @@ Severe neurosensory symptoms were noted in 13% of NSCLC patients receiving TAXOL
 
 Other than peripheral neuropathy, serious neurologic events following TAXOL administration have been rare (<1%) and have included grand mal seizures, syncope, ataxia, and neuroencephalopathy.
 
-Rare reports of autonomic neuropathy resulting in paralytic ileus have been received as part of the continuing surveillance of TAXOL safety.
+Autonomic neuropathy resulting in paralytic ileus has been reported.
 Optic nerve and/or visual disturbances (scintillating scotomata) have also been reported, particularly in patients who have received higher doses than those recommended.
 These effects generally have been reversible.
-However, rare reports in the literature of abnormal visual evoked potentials in patients have suggested persistent optic nerve damage.
+However, reports in the literature of abnormal visual evoked potentials in patients have suggested persistent optic nerve damage.
 Postmarketing reports of ototoxicity (hearing loss and tinnitus) have also been received.
 
-Rare reports of convulsions, dizziness, and headache have been reported as part of continuing surveillance of TAXOL safety.
+Convulsions, dizziness, and headache have been reported.
 
 ### Arthralgia/Myalgia
 
@@ -480,7 +480,7 @@ No relationship was observed between liver function abnormalities and either dos
 Among patients with normal baseline liver function 7%, 22%, and 19% had elevations in bilirubin, alkaline phosphatase, and AST (SGOT), respectively.
 Prolonged exposure to TAXOL was not associated with cumulative hepatic toxicity.
 
-Rare reports of hepatic necrosis and hepatic encephalopathy leading to death have been received as part of the continuing surveillance of TAXOL safety.
+Hepatic necrosis and hepatic encephalopathy leading to death have been reported.
 
 ### Renal
 
@@ -488,7 +488,7 @@ Among the patients treated for Kaposi’s sarcoma with TAXOL, 5 patients had ren
 One patient with suspected HIV nephropathy of grade IV severity had to discontinue therapy.
 The other 4 patients had renal insufficiency with reversible elevations of serum creatinine.
 
-Patients treated with TAXOL and cisplatin may have an increased risk of renal failure during the combination therapy of paclitaxel and cisplatin in gynecological cancers as compared to cisplatin alone.
+Patients with gyneocological cancers treated with TAXOL and cisplatin may have an increased risk of renal failure with the combination therapy of paclitaxel and cisplatin in gynecological cancers as compared to cisplatin alone.
 
 ### Gastrointestinal (GI)
 
@@ -503,16 +503,16 @@ One-third of patients with Kaposi’s sarcoma complained of diarrhea prior to st
 In the first-line Phase 3 ovarian carcinoma studies, the incidence of nausea and vomiting when TAXOL was administered in combination with cisplatin appeared to be greater compared with the database for single-agent TAXOL in ovarian and breast carcinoma.
 In addition, diarrhea of any grade was reported more frequently compared to the control arm, but there was no difference for severe diarrhea in these studies.
 
-Rare reports of intestinal obstruction, intestinal perforation, pancreatitis, ischemic colitis, dehydration, esophagitis, constipation, and ascites have been received as part of the continuing surveillance of TAXOL safety.
-Rare reports of neutropenic enterocolitis (typhlitis), despite the coadministration of G-CSF, were observed in patients treated with TAXOL alone and in combination with other chemotherapeutic agents.
+Intestinal obstruction, intestinal perforation, pancreatitis, ischemic colitis, dehydration, esophagitis, constipation, and ascites have been reported.
+Neutropenic enterocolitis (typhlitis), despite the coadministration of G-CSF, was observed in patients treated with TAXOL alone and in combination with other chemotherapeutic agents.
 
 ### Injection Site Reaction
 
 Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
 These reactions have been observed more frequently with the 24-hour infusion than with the 3-hour infusion.
-Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, “recall,” has been reported rarely.
+Recurrence of skin reactions at a site of previous extravasation following administration of TAXOL at a different site, ie, “recall,” has been reported.
 
-Rare reports of more severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been received as part of the continuing surveillance of TAXOL safety.
+More severe events such as phlebitis, cellulitis, induration, skin exfoliation, necrosis, and fibrosis have been reported.
 In some cases the onset of the injection site reaction either occurred during a prolonged infusion or was delayed by a week to 10 days.
 
 A specific treatment for extravasation reactions is unknown at this time.
@@ -527,12 +527,12 @@ Edema was reported in 21% of all patients (17% of those without baseline edema);
 Edema was most commonly focal and disease-related.
 Edema was observed in 5% of all courses for patients with normal baseline and did not increase with time on study.
 
-Rare reports of skin abnormalities related to radiation recall as well as reports of maculopapular rash, pruritus, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been received as part of the continuing surveillance of TAXOL safety.
+Skin abnormalities related to radiation recall as well as maculopapular rash, pruritus, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported.
 
 Reports of asthenia and malaise have been received as part of the continuing surveillance of TAXOL safety.
 In the Phase 3 trial of TAXOL 135 mg/m2 over 24 hours in combination with cisplatin as first-line therapy of ovarian cancer, asthenia was reported in 17% of the patients, significantly greater than the 10% incidence observed in the control arm of cyclophosphamide/cisplatin.
 
-Rare reports of conjunctivitis, increased lacrimation, anorexia, confusional state, photopsia, visual floaters, vertigo, and increase in blood creatinine have been received as part of the continuing surveillance of TAXOL safety.
+Conjunctivitis, increased lacrimation, anorexia, confusional state, photopsia, visual floaters, vertigo, and increase in blood creatinine have been reported.
 
 ### Accidental Exposure
 
