@@ -6,9 +6,9 @@ Large overdoses may result in reversible cardiac conduction defects or dysrhythm
 Signs and symptoms of overdose generally occur within 30 minutes to 2 hours after exposure.
 As little as 0.1 mg of clonidine has produced signs of toxicity in children.
 
-If symptoms of poisoning occur following dermal exposure, remove all CLONIDINE TRANSDERMAL SYSTEMS.
+If symptoms of poisoning occur following dermal exposure, remove all Clonidine Transdermal Systems.
 After their removal, the plasma clonidine levels will persist for about 8 hours, then decline slowly over a period of several days.
-Rare cases of CLONIDINE TRANSDERMAL SYSTEM poisoning due to accidental or deliberate mouthing or ingestion of the patch have been reported, many of them involving children.
+Rare cases of Clonidine Transdermal System poisoning due to accidental or deliberate mouthing or ingestion of the patch have been reported, many of them involving children.
 
 There is no specific antidote for clonidine overdosage.
 Ipecac syrup-induced vomiting and gastric lavage would not be expected to remove significant amounts of clonidine following dermal exposure.

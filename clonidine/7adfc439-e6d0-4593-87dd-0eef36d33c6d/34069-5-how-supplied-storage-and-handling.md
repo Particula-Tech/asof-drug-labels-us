@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-CLONIDINE TRANSDERMAL SYSTEM, USP, 0.1 mg/day, CLONIDINE TRANSDERMAL SYSTEM, USP, 0.2 mg/day and CLONIDINE TRANSDERMAL SYSTEM, USP, 0.3 mg/day are supplied as 4 pouched systems and 4 ADHESIVE COVERS per carton.
+Clonidine Transdermal System, USP, 0.1 mg/day, Clonidine Transdermal System, USP, 0.2 mg/day and Clonidine Transdermal System, USP, 0.3 mg/day are supplied as 4 pouched systems and 4 adhesive covers per carton.
 See chart below.
 
 |  | Programmed Delivery Clonidine in vivo Per Day Over 1 Week | Clonidine Content | Size |

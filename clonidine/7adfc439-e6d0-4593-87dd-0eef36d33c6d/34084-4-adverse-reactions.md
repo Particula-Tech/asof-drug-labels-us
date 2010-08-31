@@ -1,27 +1,27 @@
 # ADVERSE REACTIONS
 
-## Clinical trial experience with CLONIDINE TRANSDERMAL SYSTEM
+## Clinical trial experience with Clonidine Transdermal System
 
-Most systemic adverse effects during CLONIDINE TRANSDERMAL SYSTEM therapy have been mild and have tended to diminish with continued therapy.
-In a 3-month multiclinic trial of CLONIDINE TRANSDERMAL SYSTEM in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).
+Most systemic adverse effects during Clonidine Transdermal System therapy have been mild and have tended to diminish with continued therapy.
+In a 3-month multiclinic trial of Clonidine Transdermal System in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).
 
 In the above mentioned 3-month controlled clinical trial, as well as other uncontrolled clinical trials, the most frequent adverse reactions were dermatological and are described below.
 
 In the 3-month trial, 51 of the 101 patients had localized skin reactions such as erythema (26 patients) and/or pruritus, particularly after using an adhesive cover throughout the 7-day dosage interval.
-Allergic contact sensitization to CLONIDINE TRANSDERMAL SYSTEM was observed in 5 patients.
+Allergic contact sensitization to Clonidine Transdermal System was observed in 5 patients.
 Other skin reactions were localized vesiculation (7 patients), hyperpigmentation (5), edema (3), excoriation (3), burning (3), papules (1), throbbing (1), blanching (1), and a generalized macular rash (1).
 
 In additional clinical experience, contact dermatitis resulting in treatment discontinuation was observed in 128 of 673 patients (about 19 in 100) after a mean duration of treatment of 37 weeks.
 The incidence of contact dermatitis was about 34 in 100 among white women, about 18 in 100 in white men, about 14 in 100 in black women, and approximately 8 in 100 in black men.
-Analysis of skin reaction data showed that the risk of having to discontinue CLONIDINE TRANSDERMAL SYSTEM treatment because of contact dermatitis was greatest between treatment weeks 6 and 26, although sensitivity may develop either earlier or later in treatment.
+Analysis of skin reaction data showed that the risk of having to discontinue Clonidine Transdermal System treatment because of contact dermatitis was greatest between treatment weeks 6 and 26, although sensitivity may develop either earlier or later in treatment.
 
-In a large-scale clinical acceptability and safety study by 451 physicians in a total of 3,539 patients, other allergic reactions were recorded for which a causal relationship to CLONIDINE TRANSDERMAL SYSTEM was not established: maculopapular rash (10 cases); urticaria (2 cases); and angioedema of the face (2 cases), which also affected the tongue in one of the patients.
+In a large-scale clinical acceptability and safety study by 451 physicians in a total of 3,539 patients, other allergic reactions were recorded for which a causal relationship to Clonidine Transdermal System was not established: maculopapular rash (10 cases); urticaria (2 cases); and angioedema of the face (2 cases), which also affected the tongue in one of the patients.
 
-## Marketing Experience with CLONIDINE TRANSDERMAL SYSTEM
+## Marketing Experience with Clonidine Transdermal System
 
-The following adverse reactions have been identified during post-approval use of CLONIDINE TRANSDERMAL SYSTEM.
+The following adverse reactions have been identified during post-approval use of Clonidine Transdermal System.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to CLONIDINE TRANSDERMAL SYSTEM.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to Clonidine Transdermal System.
 
 Body as a Whole: Fever; malaise; weakness; pallor; and withdrawal syndrome.
 
