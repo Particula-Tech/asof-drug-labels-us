@@ -25,6 +25,7 @@ Do not start using PREMARIN Vaginal Cream if you:
 - Had a stroke or heart attack
 - Currently have or have had blood clots
 - Currently have or have had liver problems
+- Have been diagnosed with a bleeding disorder
 - Are allergic to PREMARIN Vaginal Cream or any of its ingredientsSee the list of ingredients in PREMARIN Vaginal Cream at the end of this leaflet.
 - Think you may be pregnant
 
@@ -188,6 +189,7 @@ Do not start using PREMARIN Vaginal Cream if you:
 - Had a stroke or heart attack
 - Currently have or have had blood clots
 - Currently have or have had liver problems
+- Have been diagnosed with a bleeding disorder
 - Are allergic to PREMARIN Vaginal Cream or any of its ingredientsSee the list of ingredients in PREMARIN Vaginal Cream at the end of this leaflet.
 - Think you may be pregnant
 
@@ -323,8 +325,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10413C021
+W10413C022
 
 ET01
 
-Rev 04/10
+Rev 05/10
