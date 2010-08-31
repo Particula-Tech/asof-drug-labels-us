@@ -15,3 +15,19 @@ Store below 30ºC (86ºF).
 
 Keep this and all medication out of the reach of children.
 Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDA Code No. GO/DRUGS/741 174344 Distributed By: Watson Pharma, Inc.
+
+# PRINCIPAL DISPLAY PANEL
+
+Glipizide Tablets USP, 5 mg 0591-0460-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
+Rx Only.
+Manufactured By: Watson Pharma Pvt.
+Ltd., Verna, Goa, India.
+403722
+
+# PRINCIPAL DISPLAY PANEL
+
+Glipizide Tablets USP, 10 mg 0591-0461-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
+Rx Only.
+Manufactured By: Watson Pharma Pvt.
+Ltd., Verna, Goa, India.
+403722
