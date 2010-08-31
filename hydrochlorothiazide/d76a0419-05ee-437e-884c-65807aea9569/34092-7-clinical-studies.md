@@ -12,7 +12,7 @@ The maximal antihypertensive effect was attained 4 weeks after the initiation of
 
 In long-term follow-up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to two years.
 The antihypertensive effect is independent of age or gender.
-The overall response to the combination was similar for black and non-black patients.
+The overall response to the combination was similar for Black and non-Black patients.
 
 There was essentially no change in heart rate in patients treated with the combination of valsartan and hydrochlorothiazide in controlled trials.
 
@@ -27,8 +27,8 @@ At higher doses, however (160 mg), there is little difference in peak and trough
 During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks.
 In long-term follow-up studies (without placebo control) the effect of valsartan appeared to be maintained for up to two years.
 The antihypertensive effect is independent of age, gender or race.
-The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
-In pooled, randomized, controlled trials of Diovan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
+The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin II blockers) have generally been found to be less effective in low-renin hypertensives (frequently Blacks) than in high-renin hypertensives (frequently Whites).
+In pooled, randomized, controlled trials of Diovan that included a total of 140 Blacks and 830 Whites, valsartan and an ACE-inhibitor control were generally at least as effective in Blacks as Whites.
 The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
@@ -52,7 +52,7 @@ Patients were force-titrated at 2-week intervals.
 Patients on combination therapy were subsequently titrated to 160/25 mg followed by 320/25 mg valsartan/hydrochlorothiazide.
 Patients on monotherapy were subsequently titrated to 320 mg valsartan followed by a titration to 320 mg valsartan to maintain the blind.
 
-The study randomized 608 patients, including 261 (43%) females, 147 (24%) blacks, and 75 (12%) ≥65 years of age.
+The study randomized 608 patients, including 261 (43%) females, 147 (24%) Blacks, and 75 (12%) ≥65 years of age.
 The mean blood pressure at baseline for the total population was 168/112 mmHg.
 The mean age was 52 years.
 After 4 weeks of therapy, reductions in systolic and diastolic blood pressure were 9/5 mmHg greater in the group treated with Diovan HCT compared to valsartan.

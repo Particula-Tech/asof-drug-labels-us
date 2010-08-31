@@ -182,4 +182,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-Revised: MAY 2009 T2009-54/T2008-20
+Revised: APRIL 2010 T2010-06/T2008-20

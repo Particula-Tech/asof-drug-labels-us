@@ -3,7 +3,7 @@
 ## 2.1 General Considerations
 
 The side effects of valsartan are generally rare and appear independent of dose.
-Those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter [See Adverse Reactions (6)].
+Those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter [see Adverse Reactions (6)].
 
 Dose once-daily.
 Maximum antihypertensive effects are attained within 2 to 4 weeks after a change in dose.
@@ -18,7 +18,7 @@ Renal impairment: The usual regimens of therapy with Diovan HCT may be followed 
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so Diovan HCT is not recommended.
 
 Hepatic impairment: Care should be exercised with dosing of Diovan HCT in patients with hepatic impairment.
-Start with a low dose and titrate slowly in patients with hepatic impairment [See Impaired Hepatic Function (5.3)].
+Start with a low dose and titrate slowly in patients with hepatic impairment [see Warnings and Precautions (5.3)].
 
 ## 2.2 Add-On Therapy
 
@@ -34,5 +34,5 @@ Diovan HCT may be substituted for the titrated components.
 ## 2.4 Initial Therapy
 
 The usual starting dose is Diovan HCT 160/12.5 mg once daily.
-The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 320/25 mg tablet once daily as needed to control blood pressure [See Clinical Studies (14.2)].
-Diovan HCT is not recommended as initial therapy in patients with intravascular volume depletion [See Warnings and Precautions (5.2)].
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 320/25 mg tablet once daily as needed to control blood pressure [see Clinical Studies (14.2)].
+Diovan HCT is not recommended as initial therapy in patients with intravascular volume depletion [see Warnings and Precautions (5.2)].

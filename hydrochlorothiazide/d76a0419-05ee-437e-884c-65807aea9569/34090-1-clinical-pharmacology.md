@@ -53,7 +53,7 @@ Valsartan does not accumulate appreciably in plasma following repeated administr
 Hydrochlorothiazide: Thiazide diuretics are eliminated by the kidney, with a terminal half-life of 5-15 hours.
 
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary [See Dosage and Administration (2.1)].
+No dosage adjustment is necessary [see Dosage and Administration (2.1)].
 
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
@@ -63,13 +63,13 @@ Renal Insufficiency: There is no apparent correlation between renal function (me
 Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
 No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
-In the case of severe renal disease, exercise care with dosing of valsartan [See Dosage and Administration (2.1)].
+In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
 
 In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours.
 
 Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
-Care should be exercised in patients with liver disease [See Dosage and Administration (2.1)].
+Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].
 
 Distribution
 
@@ -81,7 +81,9 @@ Hydrochlorothiazide: Hydrochlorothiazide crosses the placental but not the blood
 Metabolism
 
 Valsartan: The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
-The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isozymes.
+In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
+Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
+CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
 
 Hydrochlorothiazide: Is not metabolized.
 

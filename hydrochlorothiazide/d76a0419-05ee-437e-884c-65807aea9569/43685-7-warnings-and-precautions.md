@@ -6,7 +6,7 @@ Diovan HCT can cause fetal harm when administered to a pregnant woman.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 Drugs that act on the renin-angiotensin system can cause fetal and neonatal morbidity and mortality when used in pregnancy.
-In several dozen published cases, ACE inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death [See Use in Specific Populations (8.1)].
+In several dozen published cases, ACE inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death [see Use in Specific Populations (8.1)].
 
 Intrauterine exposure to thiazide diuretics is associated with fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
@@ -36,7 +36,7 @@ Hydrochlorothiazide: Thiazide diuretics have been reported to cause exacerbation
 
 ## 5.6 Lithium Interaction
 
-Hydrochlorothiazide: Lithium generally should not be given with thiazides [See Drug Interactions (7)].
+Hydrochlorothiazide: Lithium generally should not be given with thiazides [see Drug Interactions (7)].
 
 ## 5.7 Serum Electrolytes
 

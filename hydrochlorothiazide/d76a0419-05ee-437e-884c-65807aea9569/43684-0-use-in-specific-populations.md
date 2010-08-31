@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [See Warnings and Precautions (5.1)]
+Pregnancy Category D [see Warnings and Precautions (5.1)]
 
 Diovan HCT, like other drugs that act on the renin-angiotensin system, can cause fetal and neonatal morbidity and death when used during the second or third trimester of pregnancy.
 Diovan HCT can cause fetal harm when administered to a pregnant woman.
@@ -29,7 +29,7 @@ If oliguria occurs, these infants may require blood pressure and renal perfusion
 Exchange transfusion or dialysis may be required to reverse hypotension and/or support decreased renal function.
 
 Healthcare professionals who prescribe drugs acting directly on the renin-angiotensin system should counsel women of childbearing potential about the risks of these agents during pregnancy.
-[See Nonclinical Toxicology (13.2)].
+[see Nonclinical Toxicology (13)].
 
 ## 8.3 Nursing Mothers
 

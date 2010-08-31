@@ -5,8 +5,10 @@ The valsartan-atenolol combination was more antihypertensive than either compone
 
 Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
 
-CYP 450 Interactions: The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isozymes.
-The inhibitory or induction potential of valsartan on CYP 450 is also unknown.
+CYP 450 Interactions: In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and co-administered drugs are unlikely because of low extent of metabolism [see Pharmacokinetics (12.3)].
+
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Co-administration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
 
 Hydrochlorothiazide: When administered concurrently, the following drugs may interact with thiazide diuretics:
 
@@ -46,4 +48,4 @@ Liver Function Tests: Occasional elevations (greater than 150%) of liver chemist
 
 Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HCT and 0.4% of patients treated with placebo.
 
-Serum Electrolytes: [See Warnings and Precautions (5.7)].
+Serum Electrolytes: [see Warnings and Precautions (5.7)].

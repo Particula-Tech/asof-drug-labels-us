@@ -12,7 +12,7 @@ Patients with stage 2 hypertension are at a relatively high risk for cardiovascu
 The decision to use a combination as initial therapy should be individualized and should be shaped by considerations such as baseline blood pressure, the target goal and the incremental likelihood of achieving goal with a combination compared to monotherapy.
 Individual blood pressure goals may vary based upon the patient’s risk.
 
-Data from the high dose multifactorial trial [See Clinical Studies (14.1)] provides estimates of the probability of reaching a target blood pressure with Diovan HCT compared to valsartan or hydrochlorothiazide monotherapy.
+Data from the high dose multifactorial trial [see Clinical Studies (14.1)] provides estimates of the probability of reaching a target blood pressure with Diovan HCT compared to valsartan or hydrochlorothiazide monotherapy.
 The figures below provide estimates of the likelihood of achieving systolic or diastolic blood pressure control with Diovan HCT 320/25 mg, based upon baseline systolic or diastolic blood pressure.
 The curve of each treatment group was estimated by logistic regression modeling.
 The estimated likelihood at the right tail of each curve is less reliable due to small numbers of subjects with high baseline blood pressures.

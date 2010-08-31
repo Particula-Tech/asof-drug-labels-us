@@ -85,7 +85,7 @@ In a clinical study in patients with severe hypertension (diastolic blood pressu
 Comparing the groups treated with Diovan HCT (force-titrated to 320/25 mg) and valsartan (force-titrated to 320 mg), dizziness was observed in 6% and 2% of patients, respectively.
 Hypotension was observed in 1% of those patients receiving Diovan HCT and 0% of patients receiving valsartan.
 There were no reported cases of syncope in either treatment group.
-Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [See Clinical Studies (14.2) and Drug Interactions (7.3)].
+Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2) and Drug Interactions (7.3)].
 
 ## 6.2 Postmarketing Experience
 
