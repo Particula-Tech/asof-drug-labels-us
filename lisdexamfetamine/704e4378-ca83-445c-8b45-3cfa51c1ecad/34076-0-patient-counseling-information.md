@@ -58,4 +58,4 @@ Vyvanse® is a trademark of Shire LLC
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 04/2010
+Last Modified: 08/2010

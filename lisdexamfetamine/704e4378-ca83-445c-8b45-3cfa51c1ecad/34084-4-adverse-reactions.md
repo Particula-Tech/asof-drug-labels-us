@@ -91,9 +91,13 @@ Cardiac Disorders - Palpitation
 
 Eye Disorders - Vision blurred, mydriasis, diplopia
 
+General Disorders and Administration Site Conditions - Fatigue
+
+Hepatobiliary Disorders - Eosinophilic Hepatitis
+
 Immune System Disorders - Anaphylactic reaction, hypersensitivity
 
-Nervous System Disorders - Seizure, dyskinesia
+Nervous System Disorders - Somnolence, seizure, dyskinesia
 
 Psychiatric Disorder - Psychotic episodes, mania, hallucination, depression, aggression, dysphoria, euphoria, logorrhea
 
