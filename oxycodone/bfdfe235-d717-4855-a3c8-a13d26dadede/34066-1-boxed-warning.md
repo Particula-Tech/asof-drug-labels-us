@@ -1,4 +1,4 @@
-WARNING: IMPORTANCE OF PROPER PATIENT SELECTION AND POTENTIAL FOR ABUSE
+# WARNING: IMPORTANCE OF PROPER PATIENT SELECTION AND POTENTIAL FOR ABUSE
 
 OxyContin contains oxycodone which is an opioid agonist and a Schedule II controlled substance with an abuse liability similar to morphine.
 (9)
@@ -27,4 +27,5 @@ Taking cut, broken, chewed, crushed or dissolved OxyContin tablets leads to rapi
 (2.1)
 
 The concomitant use of OxyContin with all cytochrome P450 3A4 inhibitors such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse effects and may cause potentially fatal respiratory depression.
-Patients receiving OxyContin and a CYP3A4 inhibitor should be carefully monitored for an extended period of time and dosage adjustments should be made if warranted (7.2).
+Patients receiving OxyContin and a CYP3A4 inhibitor should be carefully monitored for an extended period of time and dosage adjustments should be made if warranted.
+(7.2)

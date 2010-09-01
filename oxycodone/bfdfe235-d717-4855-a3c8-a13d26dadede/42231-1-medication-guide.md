@@ -219,8 +219,8 @@ Active ingredient: oxycodone hydrochloride Inactive ingredients in all strengths
 - The 20 mg tablets also contain: polysorbate 80 and red iron oxide.
 - The 30 mg tablets also contain: polysorbate 80, red iron oxide, yellow iron oxide, and black iron oxide.
 - The 40 mg tablets also contain: polysorbate 80 and yellow iron oxide.
-- The 60 mg tablets also contain: polysorbate 80, red iron oxide and black iron oxide
-- The 80 mg tablets also contain: hydroxypropyl cellulose, yellow iron oxide and FD&C Blue #2/Indigo Carmine Aluminum Lake
+- The 60 mg tablets also contain: polysorbate 80, red iron oxide and black iron oxide.
+- The 80 mg tablets also contain: hydroxypropyl cellulose, yellow iron oxide and FD&C Blue #2/Indigo Carmine Aluminum Lake.
 
 Always check to make sure that the medicine you are taking is the correct one.
 The dosage strength and appearance of each OxyContin tablet are as follows:

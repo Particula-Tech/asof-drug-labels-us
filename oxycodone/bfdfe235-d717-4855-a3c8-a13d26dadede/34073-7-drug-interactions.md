@@ -10,7 +10,8 @@ Inhibitors of CYP3A4: Since the CYP3A4 isoenzyme plays a major role in the metab
 A published study showed that the co-administration of the antifungal drug, voriconazole, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively.
 Although clinical studies have not been conducted with other CYP3A4 inhibitors, the expected clinical results would be increased or prolonged opioid effects.
 If co-administration with OxyContin is necessary, caution is advised when initiating therapy with, currently taking, or discontinuing CYP450 inhibitors.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Clinical Pharmacology (12.3)]
+Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
+[see Clinical Pharmacology (12.3)]
 
 Inducers of CYP3A4: CYP450 inducers, such as rifampin, carbamazepine, and phenytoin, may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
 A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone (oral) AUC and Cmax by 86% and 63%, respectively.
