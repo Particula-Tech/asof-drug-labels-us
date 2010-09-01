@@ -135,10 +135,4 @@ Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1237674A6 Rev June 2009
-
-REPRESENTATIVE PACKAGING
-
-See How Supplied section for a complete list of available packages of Sprycel.
-
-60 Tablets NDC 0003-0527-11 SPRYCEL® (dasatinib) Tablets 20 mg Rx only Bristol-Myers Squibb Company
+1270635 Rev June 2009
