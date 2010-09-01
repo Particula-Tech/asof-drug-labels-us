@@ -33,6 +33,6 @@ Protect from light.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued December 2009
+Issued June 2010
 
-9964201
+9964202
