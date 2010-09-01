@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA074298",
+    "ANDA074928"
+  ],
+  "inn": "nicardipine",
+  "labeler": "Epic Pharma, LLC",
+  "package_ndcs": [
+    "42806-501-01",
+    "42806-501-05",
+    "42806-501-09",
+    "42806-501-10",
+    "42806-502-01",
+    "42806-502-05",
+    "42806-502-09",
+    "42806-502-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nicardipine hydrochloride",
+      "name": "Nicardipine Hydrochloride"
+    }
+  ],
+  "setid": "b8f147b8-955f-4733-9178-2cfa0beb60d6",
+  "source": "dailymed"
+}
