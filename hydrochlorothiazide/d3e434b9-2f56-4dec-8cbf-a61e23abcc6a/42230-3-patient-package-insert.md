@@ -2,7 +2,7 @@
 
 Patient Information HYZAAR® ("HY-zar") (losartan potassium-hydrochlorothiazide tablets) 50-12.5 mg, 100-12.5 mg, 100-25 mg Rx only
 
-Read the Patient Information that comes with HYZAARRegistered trademark of E. I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. before you start taking it and each time you get a refill.
+Read the Patient Information that comes with HYZAAR before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 

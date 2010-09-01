@@ -162,12 +162,11 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 Lithium: As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be co-administered with angiotensin II receptor antagonists.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan, or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-Therefore, the combination should be administered with caution in patients with compromised renal function.
+Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 
-NSAIDs including selective COX-2 inhibitors may diminish the effects of diuretics and other antihypertensive drugs, including losartan.
-Therefore, the antihypertensive effect of angiotensin II receptor antagonists or ACE inhibitors may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
 ### Hydrochlorothiazide
 
@@ -192,12 +191,12 @@ Lithium — should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with HYZAAR.
 
-Non-steroidal Anti-inflammatory Drugs including Selective Cyclooxygenase-2 Inhibitors — The administration of a non-steroidal anti-inflammatory agent including a selective cyclooxygenase-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
-Therefore, when HYZAAR and non-steroidal anti-inflammatory agents including selective cyclooxygenase-2 inhibitors are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) — The administration of a non-steroidal anti-inflammatory agent, including a selective cyclooxygenase-2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Therefore, when HYZAAR and non-steroidal anti-inflammatory agents, including selective cyclooxygenase-2 inhibitors, are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
-In some patients with compromised renal function (e.g., elderly patients or patients who are volume-depleted, including those on diuretic therapy) who are being treated with non-steroidal anti-inflammatory drugs, including selective cyclooxygenase-2 inhibitors, the co-administration of angiotensin II receptor antagonists or ACE inhibitors may result in a further deterioration of renal function, including possible acute renal failure.
+In patients receiving diuretic therapy, co-administration of NSAIDs with angiotensin receptor blockers, including losartan, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-Therefore, the combination should be administered with caution in patients with compromised renal function.
+Monitor renal function periodically in patients receiving hydrochlorothiazide, losartan, and NSAID therapy.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
