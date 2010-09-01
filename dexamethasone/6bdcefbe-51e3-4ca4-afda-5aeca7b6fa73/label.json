@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040069"
+  ],
   "inn": "dexamethasone",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
     "24208-720-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dexamethasone sodium phosphate",
+      "name": "Dexamethasone Sodium Phosphate"
+    }
+  ],
   "setid": "6bdcefbe-51e3-4ca4-afda-5aeca7b6fa73",
   "source": "dailymed"
 }

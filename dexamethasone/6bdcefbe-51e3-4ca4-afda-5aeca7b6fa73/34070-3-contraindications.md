@@ -1,4 +1,4 @@
-# Contraindications
+# CONTRAINDICATIONS:
 
 Epithelial herpes simplex keratitis (dendritic keratitis).
 

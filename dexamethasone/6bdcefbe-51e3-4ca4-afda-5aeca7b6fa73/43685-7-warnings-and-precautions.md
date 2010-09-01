@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS:
 
 Prolonged use may result in ocular hypertension and/or glaucoma, with damage to the optic nerve, defects in visual acuity and fields of vision, and posterior subcapsular cataract formation.
 Prolonged use may suppress the host response and thus increase the hazard of secondary ocular infections.

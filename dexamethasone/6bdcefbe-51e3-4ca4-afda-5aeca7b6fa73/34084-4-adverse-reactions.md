@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS:
 
 Glaucoma with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, perforation of the globe.
 
