@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065141"
+  ],
+  "inn": "cefazolin",
+  "labeler": "Samson Medical Technologies, L.L.C.",
+  "package_ndcs": [
+    "66288-1100-1",
+    "66288-1300-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "cefazolin sodium",
+      "name": "Cefazolin"
+    }
+  ],
+  "setid": "cf13db9c-d8a1-489f-9aa0-fc70839d4bbc",
+  "source": "dailymed"
+}
