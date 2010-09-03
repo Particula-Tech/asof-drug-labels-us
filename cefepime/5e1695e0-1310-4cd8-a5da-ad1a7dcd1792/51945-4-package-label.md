@@ -1,0 +1,31 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 63323-326-20
+
+Cefepime for Injection, USP 1 gram
+
+Rx only
+
+# PACKAGE/ LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 63323-326-20
+
+Cefepime for Injection, USP 1 gram
+
+Rx only
+
+# PACKAGE/ LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 63323-340-20
+
+Cefepime for Injection, USP 2 gram
+
+Rx only
+
+# PACKAGE/ LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 63323-340-20
+
+Cefepime for Injection, USP 2 gram
+
+Rx only

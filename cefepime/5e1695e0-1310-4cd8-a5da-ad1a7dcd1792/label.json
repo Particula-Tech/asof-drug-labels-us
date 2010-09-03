@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065441"
+  ],
+  "inn": "cefepime",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-326-40",
+    "63323-340-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime",
+      "name": "Cefepime"
+    }
+  ],
+  "setid": "5e1695e0-1310-4cd8-a5da-ad1a7dcd1792",
+  "source": "dailymed"
+}
