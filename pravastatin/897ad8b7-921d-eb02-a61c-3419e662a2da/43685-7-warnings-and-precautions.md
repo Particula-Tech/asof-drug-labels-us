@@ -86,7 +86,7 @@ However, when pravastatin was administered 1 hour before or 4 hours after choles
 Warfarin: Concomitant administration of 40 mg pravastatin had no clinically significant effect on prothrombin time when administered in a study to normal elderly subjects who were stabilized on warfarin.
 
 Cimetidine: The AUC0-12 hr for pravastatin when given with cimetidine was not significantly different from the AUC for pravastatin when given alone.
-A significant difference was observed between the AUC's for pravastatin when given with cimetidine compared to whenadministered with antacid.
+A significant difference was observed between the AUC's for pravastatin when given with cimetidine compared to when administered with antacid.
 
 Digoxin: In a crossover trial involving 18 healthy male subjects given 20 mg pravastatin and 0.2 mg digoxin concurrently for 9 days, the bioavailability parameters of digoxin were not affected.
 The AUC of pravastatin tended to increase, but the overall bioavailability of pravastatin plus its metabolites SQ 31,906 and SQ 31,945 was not altered.
@@ -99,7 +99,7 @@ In addition, there was a significant increase in AUC, Cmax, and Tmax for the pra
 Combination therapy with pravastatin and gemfibrozil is generally not recommended.
 (See WARNINGS: Skeletal Muscle.)
 
-In interaction studies with aspirin, antacids (1 hour prior to PRAVACHOL), cimetidine, nicotinic acid, or probucol, no statistically significant differences in bioavailability were seen when PRAVACHOL (pravastatin sodium) was administered.
+In interaction studies with aspirin, antacids (1 hour prior to PRAVACHOL), cimetidine, nicotinic acid, or probucol, no statistically significant differences in bioavailability were seen when PRAVACHOL was administered.
 
 ## Endocrine Function
 

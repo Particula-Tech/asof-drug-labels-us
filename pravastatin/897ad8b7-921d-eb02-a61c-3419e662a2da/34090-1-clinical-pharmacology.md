@@ -25,7 +25,7 @@ In one primary (West of Scotland Coronary Prevention Study - WOS)1 and two secon
 
 ## Pharmacokinetics/Metabolism
 
-PRAVACHOL (pravastatin sodium) is administered orally in the active form.
+PRAVACHOL is administered orally in the active form.
 In clinical pharmacology studies in man, pravastatin is rapidly absorbed, with peak plasma levels of parent compound attained 1 to 1.5 hours following ingestion.
 Based on urinary recovery of radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
 While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with, or 1 hour prior to, meals.
@@ -137,7 +137,7 @@ The predominant effect of pravastatin was to reduce the rate of nonfatal myocard
 
 ### Primary Hypercholesterolemia (Fredrickson Type IIa and IIb)
 
-PRAVACHOL (pravastatin sodium) is highly effective in reducing Total-C, LDL-C and triglycerides (TG) in patients with heterozygous familial, presumed familial combined and non-familial (non-FH) forms of primary hypercholesterolemia, and mixed dyslipidemia.
+PRAVACHOL is highly effective in reducing Total-C, LDL-C and triglycerides (TG) in patients with heterozygous familial, presumed familial combined and non-familial (non-FH) forms of primary hypercholesterolemia, and mixed dyslipidemia.
 A therapeutic response is seen within 1 week, and the maximum response usually is achieved within 4 weeks.
 This response is maintained during extended periods of therapy.
 In addition, PRAVACHOL is effective in reducing the risk of acute coronary events in hypercholesterolemic patients with and without previous myocardial infarction.
@@ -214,7 +214,7 @@ Table 5: Patients with Fredrickson Type III Dysbetalipoproteinemia Median (min, 
 
 A double-blind, placebo-controlled study in 214 patients (100 boys and 114 girls) with heterozygous familial hypercholesterolemia (HeFH), aged 8-18 years was conducted for two (2) years.
 The children (aged 8-13 years) were randomized to placebo (N=63) or 20 mg of pravastatin daily (N=65) and the adolescents (aged 14-18 years) were randomized to placebo (N=45) or 40 mg of pravastatin daily (N=41).
-Inclusion in the study required an LDL-C level>95th percentile for age and sex and one parent with either a clinical or molecular diagnosis of familial hypercholesterolemia.
+Inclusion in the study required an LDL-C level >95th percentile for age and sex and one parent with either a clinical or molecular diagnosis of familial hypercholesterolemia.
 The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (range: 151-405 mg/dL) and placebo (range: 154-375 mg/dL) groups, respectively.
 
 Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and apolipoprotein B in both children and adolescents (see Table 6).

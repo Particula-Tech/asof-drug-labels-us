@@ -59,7 +59,7 @@ Table 7: NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Li
 | 10-year risk <10%: ≥160 |  |  |  |
 | 0-1 Risk factorc | <160 | ≥160 | ≥190 (160-189: LDL-lowering drug optional) |
 | a CHD, coronary heart disease. |  |  |  |
-| b Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of<100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory. |  |  |  |
+| b Some authorities recommend use of LDL-lowering drugs in this category if an LDL-C level of <100 mg/dL cannot be achieved by therapeutic lifestyle changes. Others prefer use of drugs that primarily modify triglycerides and HDL-C, e.g., nicotinic acid or fibrate. Clinical judgement also may call for deferring drug therapy in this subcategory. |  |  |  |
 | c Almost all people with 0-1 risk factor have 10-year risk <10%; thus, 10-year risk assessment in people with 0-1 risk factor is not necessary. |  |  |  |
 
 After the LDL-C goal has been achieved, if the TG is still ≥200 mg/dL, non-HDL-C (Total-C minus HDL-C) becomes a secondary target of therapy.
@@ -70,7 +70,7 @@ At the time of hospitalization for an acute coronary event, consideration can be
 Since the goal of treatment is to lower LDL-C, the NCEP recommends that LDL-C levels be used to initiate and assess treatment response.
 Only if LDL-C levels are not available, should the Total-C be used to monitor therapy.
 
-As with other lipid-lowering therapy, PRAVACHOL (pravastatin sodium) is not indicated when hypercholesterolemia is due to hyperalphalipoproteinemia (elevated HDL-C).
+As with other lipid-lowering therapy, PRAVACHOL is not indicated when hypercholesterolemia is due to hyperalphalipoproteinemia (elevated HDL-C).
 
 The NCEP classification of cholesterol levels in pediatric patients with a familial history of hypercholesterolemia or premature cardiovascular disease is summarized below:
 

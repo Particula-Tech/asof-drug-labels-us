@@ -23,9 +23,3 @@
 9. Manson JM, Freyssinges C, Ducrocq MB, Stephenson WP.
    Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy.
    Reproductive Toxicology 1996;10(6):439-446.
-
-US Patent Nos.: 5,030,447; 5,180,589; 5,622,985
-
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-1186935A2 Rev March 2007
