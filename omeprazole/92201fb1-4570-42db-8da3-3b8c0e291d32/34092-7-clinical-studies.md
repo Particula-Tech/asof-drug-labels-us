@@ -118,9 +118,10 @@ Table 8
 
 In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg once daily, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
+Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
 |  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=202) | Omeprazole Delayed-Release Capsules 40 mg once daily(n=214) | Placebo(n=104) |
+| --- | --- | --- | --- |
 | Week 4 | 47.5 * | 55.6 * | 30.8 |
 | Week 8 | 74.8 * | 82.7 *† | 48.1 |
 | * (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg or 20 mg versus placebo † (p < 0.05) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg |  |  |  |
@@ -130,9 +131,10 @@ For patients with ulcer size greater than 1 cm, 40 mg was significantly more eff
 
 In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once daily, 20 mg once daily, and ranitidine 150 mg twice a day were evaluated.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
+Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+
 |  | Omeprazole Delayed-Release Capsules 20 mg once daily(n=200) | Omeprazole Delayed-Release Capsules 40 mg once daily(n=187) | Ranitidine150 mg twice daily.(n=199) |
+| --- | --- | --- | --- |
 | Week 4 | 63.5 | 78.1 *† | 56.3 |
 | Week 8 | 81.5 | 91.4 *† | 78.4 |
 | * (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus ranitidine† (p < 0.01) Omeprazole Delayed-Release Capsules 40 mg versus 20 mg |  |  |  |
@@ -144,7 +146,7 @@ Symptomatic GERD
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
 Results are shown below.
 
-% Successful Symptomatic Outcome *
+% Successful Symptomatic Outcome
 
 |  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Omeprazole Delayed-Release Capsules 10 mg a.m. | Omeprazole Delayed-Release Capsules a.m. |
 | --- | --- | --- | --- |
@@ -209,7 +211,7 @@ These findings are believed to be a manifestation of the underlying condition, w
 
 Symptomatic GERD
 
-The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III studies [See Use in Specific Populations (8.4)].
+The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in uncontrolled Phase III studies [See Use in Specific Populations (8.4)].
 
 The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
@@ -218,7 +220,7 @@ Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 
 
 Healing of Erosive Esophagitis
 
-In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 1 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
+In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 2 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
 Doses were initiated at 0.7 mg/kg/day.
 Doses were increased in increments of 0.7 mg/kg/day (if intraesophageal pH showed a pH of < 4 for less than 6% of a 24-hour study).
 After titration, patients remained on treatment for 3 months.

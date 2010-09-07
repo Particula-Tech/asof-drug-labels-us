@@ -135,9 +135,7 @@ Pediatric Use
 
 The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age
 
-Table 3
-
-Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
+Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
 | Single or Repeated Oral Dosing /Parameter | Children* ≤ 20 kg 2-5 years | Children* > 20 kg 6-16 years | Adults†(mean 76 kg) 23-29 years(n=12) |
 | --- | --- | --- | --- |

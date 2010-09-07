@@ -45,11 +45,10 @@ Some patients with Zollinger-Ellison syndrome have been treated continuously wit
 
 ## 2.7 Pediatric Patients
 
-For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 1 to 16 years of age is as follows:
+For the treatment of GERD and maintenance of healing of erosive esophagitis, the recommended daily dose for pediatric patients 2 to 16 years of age is as follows:
 
 | Patient Weight | Omeprazole Daily Dose |
 | --- | --- |
-| 5 < 10 kg | 5 mg |
 | 10 < 20 kg | 10 mg |
 | ≥ 20 kg | 20 mg |
 
@@ -59,7 +58,7 @@ Alternative administrative options can be used for pediatric patients unable to 
 
 ## 2.8 Alternative Administration Options
 
-Omeprazole is available as a delayed-release capsule.
+Omeprazole Delayed-Release Capsule is available as a delayed-release capsule.
 
 For patients who have difficulty swallowing capsules, the contents of an Omeprazole Delayed-Release Capsule can be added to applesauce.
 One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
