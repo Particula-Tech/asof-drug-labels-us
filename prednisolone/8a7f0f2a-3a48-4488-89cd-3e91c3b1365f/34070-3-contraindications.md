@@ -1,4 +1,4 @@
-# Contraindications
+# CONTRAINDICATIONS:
 
 The use of this preparation is contraindicated in the presence of:
 

@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040070"
+  ],
   "inn": "prednisolone",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "24208-715-06",
     "24208-715-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "prednisolone sodium phosphate",
+      "name": "PREDNISOLONE SODIUM PHOSPHATE"
+    }
+  ],
   "setid": "8a7f0f2a-3a48-4488-89cd-3e91c3b1365f",
   "source": "dailymed"
 }

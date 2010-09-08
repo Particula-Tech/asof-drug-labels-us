@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION:
 
 Depending on the severity of inflammation, instill one or two drops of solution into the conjunctival sac up to every hour during the day and every two hours during the night as necessary as initial therapy.
 

@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION:
 
 Prednisolone Sodium Phosphate Ophthalmic Solution, 1%, is a sterile solution for ophthalmic administration having the following composition:
 
