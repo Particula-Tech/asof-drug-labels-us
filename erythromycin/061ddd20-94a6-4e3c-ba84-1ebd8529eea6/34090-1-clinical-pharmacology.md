@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY:
 
 ## Microbiology
 

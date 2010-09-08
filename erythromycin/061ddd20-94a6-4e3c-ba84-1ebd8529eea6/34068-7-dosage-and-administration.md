@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION:
 
 In the treatment of superficial ocular infections, erythromycin ophthalmic ointment approximately 1 cm in length should be applied directly to the infected eye(s) up to six times daily, depending on the severity of the infection.
 

@@ -1,4 +1,4 @@
-# Indications and Usage
+# INDICATIONS AND USAGE:
 
 For the treatment of superficial ocular infections involving the conjunctiva and/or cornea caused by organisms susceptible to erythromycin.
 
