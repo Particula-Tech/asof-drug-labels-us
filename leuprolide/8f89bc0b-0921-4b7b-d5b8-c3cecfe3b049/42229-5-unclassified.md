@@ -5,6 +5,6 @@ Manufactured for Abbott Laboratories North Chicago, IL 60064 by Takeda Pharmaceu
 ™ -Trademark ® -Registered Trademark
 
 (Nos.
-2108, 2282, 2440) Revised: July, 2010
+2108, 2282, 2440) Revised: 09/2010
 
 © 2008, Abbott Laboratories
