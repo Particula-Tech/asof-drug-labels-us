@@ -9,7 +9,7 @@ Events reported have included coronary artery vasospasm, transient myocardial is
 
 Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS: Fibrotic Complications).
 
-Incidence in Controlled Clinical Trials
+## Incidence in Controlled Clinical Trials
 
 Of the 1,796 patients and subjects treated with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray doses 2 mg or less in U.S. and foreign clinical studies, 26 (1.4%) discontinued because of adverse events.
 The adverse events associated with discontinuation were, in decreasing order of frequency: rhinitis 13, dizziness 2, facial edema 2, and one each due to cold sweats, accidental trauma, depression, elective surgery, somnolence, allergy, vomiting, hypotension, and paraesthesia.
@@ -24,35 +24,34 @@ The following table summarizes the incidence rates of adverse events reported by
 
 Table 3: Adverse events reported by at least 1% of the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray treated patients and occurred more frequently than in the placebo-group in the migraine placebo-controlled trials
 
-|  |  | N=597 | N=631 |
-| --- | --- | --- | --- |
-|  |  | Migranal® | Placebo |
-| Respiratory System |  |  |  |
-|  | Rhinitis | 26% | 7% |
-|  | Pharyngitis | 3% | 1% |
-|  | Sinusitis | 1% | 1% |
-| Gastrointestinal System |  |  |  |
-|  | Nausea | 10% | 4% |
-|  | Vomiting | 4% | 1% |
-|  | Diarrhea | 2% | <1% |
-| Special Senses, Other |  |  |  |
-|  | Altered Sense of Taste | 8% | 1% |
-| Application Site |  |  |  |
-|  | Application Site Reaction | 6% | 2% |
-| Central and Peripheral Nervous System |  |  |  |
-|  | Dizziness | 4% | 2% |
-|  | Somnolence | 3% | 2% |
-|  | Paraesthesia | 2% | 2% |
-| Body as a Whole, General |  |  |  |
-|  | Hot Flashes | 1% | <1% |
-|  | Fatigue | 1% | 1% |
-|  | Asthenia | 1% | 0% |
-| Autonomic Nervous System |  |  |  |
-|  | Mouth Dry | 1% | 1% |
-| Musculoskeletal System |  |  |  |
-|  | Stiffness | 1% | <1% |
+|  | Migranal® N=597 | Placebo N=631 |
+| --- | --- | --- |
+| Respiratory System |  |  |
+| Rhinitis | 26% | 7% |
+| Pharyngitis | 3% | 1% |
+| Sinusitis | 1% | 1% |
+| Gastrointestinal System |  |  |
+| Nausea | 10% | 4% |
+| Vomiting | 4% | 1% |
+| Diarrhea | 2% | <1% |
+| Special Senses, Other |  |  |
+| Altered Sense of Taste | 8% | 1% |
+| Application Site |  |  |
+| Application Site Reaction | 6% | 2% |
+| Central and Peripheral Nervous System |  |  |
+| Dizziness | 4% | 2% |
+| Somnolence | 3% | 2% |
+| Paraesthesia | 2% | 2% |
+| Body as a Whole, General |  |  |
+| Hot Flashes | 1% | <1% |
+| Fatigue | 1% | 1% |
+| Asthenia | 1% | 0% |
+| Autonomic Nervous System |  |  |
+| Mouth Dry | 1% | 1% |
+| Musculoskeletal System |  |  |
+| Stiffness | 1% | <1% |
 
-Other Adverse Events During Clinical Trials
+## Other Adverse Events During Clinical Trials
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
 Because the reports include events observed in open and uncontrolled studies, the role of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray in their causation cannot be reliably determined.
@@ -87,7 +86,7 @@ Body as a Whole - General: Infrequent: feeling cold, malaise, rigors, fever, per
 
 Application Site: Infrequent: local anesthesia.
 
-Post-introduction Reports
+## Post-introduction Reports
 
 Voluntary reports of adverse events temporally associated with dihydroergotamine products used in the management of migraine that have been received since the introduction of the injectable formulation are included in this section save for those already listed above.
 Because of their source (open and uncontrolled clinical use), whether or not events reported in association with the use of dihydroergotamine are causally related to it cannot be determined.

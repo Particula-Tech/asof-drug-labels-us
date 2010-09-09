@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "dihydroergotamine",
-  "labeler": "Valeant Pharmaceuticals North America",
-  "package_ndcs": [
-    "0187-0245-03"
+  "application_numbers": [
+    "NDA020148"
   ],
-  "products": [],
+  "inn": "dihydroergotamine",
+  "labeler": "Valeant Pharmaceuticals International",
+  "package_ndcs": [
+    "0187-0245-03",
+    "0187-0245-04"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Migranal"
+    }
+  ],
   "setid": "a24befa8-b952-48ac-942a-379585250782",
   "source": "dailymed"
 }

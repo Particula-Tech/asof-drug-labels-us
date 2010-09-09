@@ -30,7 +30,9 @@ Do not use Migranal® (dihydroergotamine mesylate, USP) Nasal Spray if you:
 - are taking certain anti-HIV medications (protease inhibitors)
 - are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
 
-Important questions to consider before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray Please answer the following questions before you use your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
+Important questions to consider before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
+
+Please answer the following questions before you use your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 If you answer YES to any of these questions or are unsure of the answer, you should talk to your doctor before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 
 - Do you have high blood pressure?
@@ -83,46 +85,50 @@ If you have used more medication than you have been instructed, contact your doc
 
 How to use the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
 
-1. Use available training materials.
-   - Read and follow the instructions in the administration instructions which are provided with the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray package before attempting to use the product.
-   - If there are any questions concerning the use of your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, ask your doctor or pharmacist, or call the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray Information Line at 1-888-MY-RELIEF (1-888-697-3543) for training in the use of the spray.
-2. Check the contents of the package:
-   - 6 Nasal Spray Vials
-   - 6 Nasal Sprayers
-   - Administration Instructions
-   - Package Insert
-3. Assemble the sprayer:Assemble your nasal sprayer only when you are ready to use it.
-   - Lift tab to bend back blue cover.
-     In one piece, completely remove the blue cover and metal seal in a circular motion.
-     Keeping the vial upright, remove rubber stopper.
-     Set vial aside.
-   - Remove plastic cover from the bottom of pump unit.
-     Insert spray pump into vial and turn clockwise until securely fastened.
-4. Using the sprayer:
-   - Remove cap from spray unit.
-     Holding the vial upright, point nasal sprayer away from face and pump 4 times before using.
-     DO NOT PUMP MORE THAN 4 TIMES.
-     (Although some medication will spray out, there is enough medication in each vial to allow you to prepare your nasal spray pump properly and still receive a full treatment of MIGRANAL.)
-   - Spray once into each nostril.
-     Do not tilt head back or sniff through your nose while spraying or immediately after.
-     Wait 15 minutes.
-     Spray once again into each nostril.
-5. After completing these instructions:
-   - Carefully dispose of the nasal spray pump with the vial.
+- 1.Use available training materials.
+  - Read and follow the instructions in the administration instructions which are provided with the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray package before attempting to use the product.
+  - If there are any questions concerning the use of your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, ask your doctor or pharmacist, or call the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray Information Line at 1-888-MY-RELIEF (1-888-697-3543) for training in the use of the spray.
+- 2.Check the contents of the package:
+  - 8 Nasal Spray Vials
+  - 8 Nasal Sprayers
+  - Administration Instructions
+  - Package Insert
+- 3.Assemble the sprayer: Assemble your nasal sprayer only when you are ready to use it.
+
+- 
+  - Lift tab to bend back blue cover.
+    In one piece, completely remove the blue cover and metal seal in a circular motion.
+    Keeping the vial upright, remove rubber stopper.
+    Set vial aside.
+  - Remove plastic cover from the bottom of pump unit.
+    Insert spray pump into vial and turn clockwise until securely fastened.
+- 4.Using the sprayer:
+  - Remove cap from spray unit.
+    Holding the vial upright, point nasal sprayer away from face and pump 4 times before using.
+    DO NOT PUMP MORE THAN 4 TIMES.
+    (Although some medication will spray out, there is enough medication in each vial to allow you to prepare your nasal spray pump properly and still receive a full treatment of MIGRANAL.)
+  - Spray once into each nostril.
+    Do not tilt head back or sniff through your nose while spraying or immediately after.
+    Wait 15 minutes.
+    Spray once again into each nostril.
+- 5.After completing these instructions:
+  - Carefully dispose of the nasal spray pump with the vial.
 
 Important Notes:
 
-- Once a Migranal® (dihydroergotamine mesylate, USP) Nasal Spray vial has been opened, it must be thrown away after 8 hours.Storing Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
+- Once a Migranal® (dihydroergotamine mesylate, USP) Nasal Spray vial has been opened, it must be thrown away after 8 hours.
+
+Storing Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
+
 - Keep medication in a safe place away from children
 - Keep Migranal® (dihydroergotamine mesylate, USP) Nasal Spray away from heat and light.
 - Do not expose Migranal® (dihydroergotamine mesylate, USP) Nasal Spray to temperatures over 77°F.
 - Never refrigerate or freeze Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 - Do not keep an opened Migranal® (dihydroergotamine mesylate, USP) Nasal Spray vial for more than 8 hours.
+  Check the expiration date printed on the vial containing medication.
+  If the expiration date has passed, do not use it.
 
-Check the expiration date printed on the vial containing medication.
-If the expiration date has passed, do not use it.
-
-Answers to patients’ questions about Migranal®(dihydroergotamine mesylate, USP) Nasal Spray
+Answers to patients' questions about Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
 
 What if I need help in using my Migranal® (dihydroergotamine mesylate, USP) Nasal Spray?
 
@@ -155,28 +161,9 @@ Can I use Migranal® (dihydroergotamine mesylate, USP) Nasal Spray if I have a s
 
 Yes.
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray can be used if you have a stuffy nose, cold, or allergies.
-However, if you are taking any medications for your cold, or allergies, even those you can buy without a doctor’s prescription, speak with your doctor before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
+However, if you are taking any medications for your cold, or allergies, even those you can buy without a doctor's prescription, speak with your doctor before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 
 Do I need to sniff the medication when I spray it in my nostril?
 
 No, you should not sniff because Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should remain in the nose so that it can be absorbed into the bloodstream through the lining of the nose.
-
 If you have any other unanswered questions about Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, consult your doctor or pharmacist.
-
-*Trademark of Medical Economics Company, Inc.
-
-Manufactured by: MiPharm S.p.A Milan, Italy
-
-Distributed by: Valeant Pharmaceuticals North America One Enterprise Aliso Viejo, CA 92656
-
-www.migranal.com
-
-June 2007
-
-Printed in the Italy
-
-14-06-2007 USA/931366
-
-Valeant Pharmaceuticals North America
-
-Migranal® is a registered trademark of Valeant Pharmaceuticals North America.

@@ -2,12 +2,11 @@
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should only be used where a clear diagnosis of migraine headache has been established.
 
-CYP 3A4 Inhibitors (e.g.
-Macrolide Antibiotics and Protease Inhibitors)
+## CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors)
 
 There have been rare reports of serious adverse events in connection with the coadministration of dihydroergotamine and potent CYP 3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or and ischemia of the extremities.
 The use of potent CYP 3A4 inhibitors with dihydroergotamine should therefore be avoided (See CONTRAINDICATIONS).
-Examples of some of the more potent CYP 3A4 inhibitors include: anti-fungals ketoconazole and itraconazole, the protease inhibitors ritonavir, nelfinavir, and indinavir, and macrolide antibiotics erythromycin, clarithromycin, and troleandomycin.
+Examples of some of the more potent CYP 3A4 inhibitors include: antifungals ketoconazole and itraconazole, the protease inhibitors ritonavir, nelfinavir, and indinavir, and macrolide antibiotics erythromycin, clarithromycin, and troleandomycin.
 Other less potent CYP 3A4 inhibitors should be administered with caution.
 Less potent inhibitors include saquinavir, nefazodone, fluconazole, grapefruit juice, fluoxetine, fluvoxamine, zileuton, and clotrimazole.
 These lists are not exhaustive, and the prescriber should consider the effects on CYP3A4 of other agents being considered for concomitant use with dihydroergotamine.
@@ -20,10 +19,10 @@ Rare cases have also been reported in association with the use of injectable dih
 
 Administration of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
-Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events:
+## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should not be used by patients with documented ischemic or vasospastic coronary artery disease.
-(See CONTRAINDICATIONS) It is strongly recommended that Migranal® dihydroergotamine mesylate, USP) Nasal Spray not be given to patients in whom unrecognized coronary artery disease (CAD) is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, females who are surgically or physiologically postmenopausal, or males who are over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
+(See CONTRAINDICATIONS) It is strongly recommended that Migranal® (dihydroergotamine mesylate, USP) Nasal Spray not be given to patients in whom unrecognized coronary artery disease (CAD) is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, females who are surgically or physiologically postmenopausal, or males who are over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient's medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should not be administered.
 (See CONTRAINDICATIONS)
@@ -88,7 +87,9 @@ Migranal® (dihydroergotamine mesylate, USP) Nasal Spray may cause coronary arte
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud's syndrome following the use of any 5-HT agonist are candidates for further evaluation.
 (See WARNINGS).
 
-Fibrotic Complications: see WARNINGS: Fibrotic Complications
+### Fibrotic Complications
+
+see WARNINGS: Fibrotic Complications
 
 ## Information for Patients
 
@@ -106,36 +107,35 @@ Administration of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, shou
 
 ## Drug Interactions
 
-Vasoconstrictors
+### Vasoconstrictors
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should not be used with peripheral vasoconstrictors because the combination may cause synergistic elevation of blood pressure.
 
-Sumatriptan
+### Sumatriptan
 
 Sumatriptan has been reported to cause coronary artery vasospasm, and its effect could be additive with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 Sumatriptan and Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should not be taken within 24 hours of each other.
 (See CONTRAINDICATIONS)
 
-Beta Blockers
+### Beta Blockers
 
 Although the results of a clinical study did not indicate a safety problem associated with the administration of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray to subjects already receiving propranolol, there have been reports that propranolol may potentiate the vasoconstrictive action of ergotamine by blocking the vasodilating property of epinephrine.
 
-Nicotine
+### Nicotine
 
 Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy.
 
-CYP 3A4 Inhibitors (e.g.
-Macrolide Antibiotics and Protease Inhibitors)
+### CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors)
 
 See CONTRAINDICATIONS and WARNINGS.
 
-SSRI's
+### SSRI's
 
-Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been co-administered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
+Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI's and Migranal® (dihydroergotamine mesylate, USP) Nasal Spray or D.H.E.
 45®.
 
-Oral Contraceptives
+### Oral Contraceptives
 
 The effect of oral contraceptives on the pharmacokinetics of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray has not been studied.
 
@@ -157,7 +157,9 @@ There was no evidence of impairment of fertility in rats given intranasal doses 
 
 ## Pregnancy
 
-Pregnancy Category X. See CONTRAINDICATIONS.
+### Pregnancy Category X
+
+See CONTRAINDICATIONS.
 
 ## Nursing Mothers
 

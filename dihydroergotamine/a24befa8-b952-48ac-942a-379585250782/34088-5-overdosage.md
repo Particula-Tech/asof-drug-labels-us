@@ -2,6 +2,7 @@
 
 To date, there have been no reports of acute overdosage with this drug.
 Due to the risk of vascular spasm, exceeding the recommended dosages of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray is to be avoided.
+
 Excessive doses of dihydroergotamine may result in peripheral signs and symptoms of ergotism.
 Treatment includes discontinuance of the drug, local application of warmth to the affected area, the administration of vasodilators, and nursing care to prevent tissue damage.
 
@@ -11,4 +12,4 @@ The symptoms of an ergotamine overdose include the following: numbness, tingling
 In laboratory animals, significant lethality occurs when dihydroergotamine is given at I.V. doses of 44 mg/kg in mice, 130 mg/kg in rats, and 37 mg/kg in rabbits.
 
 Up-to-date information about the treatment of overdosage can often be obtained from a certified Regional Poison Control Center.
-Telephone numbers of certified Poison Control Centers are listed in the Physicians' Desk Reference® (PDR). *
+Telephone numbers of certified Poison Control Centers are listed in the Physicians' Desk Reference® (PDR).Trademark of Medical Economics Company, Inc.
