@@ -1,0 +1,19 @@
+# ADVERSE REACTIONS
+
+No side effects or manifestations not seen with either compound alone have been reported with the administration of Librax.
+However, since Librax contains chlordiazepoxide hydrochloride and clidinium bromide, the possibility of untoward effects which may be seen with either of these two compounds cannot be excluded.
+
+When chlordiazepoxide hydrochloride has been used alone the necessity of discontinuing therapy because of undesirable effects has been rare.
+Drowsiness, ataxia and confusion have been reported in some patients — particularly the elderly and debilitated.
+While these effects can be avoided in almost all instances by proper dosage adjustment, they have occasionally been observed at the lower dosage ranges.
+In a few instances syncope has been reported.
+
+Other adverse reactions reported during therapy with chlordiazepoxide hydrochloride include isolated instances of skin eruptions, edema, minor menstrual irregularities, nausea and constipation, extrapyramidal symptoms, as well as increased and decreased libido.
+Such side effects have been infrequent and are generally controlled with reduction of dosage.
+Changes in EEG patterns (low-voltage fast activity) have been observed in patients during and after chlordiazepoxide hydrochloride treatment.
+
+Blood dyscrasias, including agranulocytosis, jaundice and hepatic dysfunction have occasionally been reported during therapy with chlordiazepoxide hydrochloride.
+When chlordiazepoxide hydrochloride treatment is protracted, periodic blood counts and liver function tests are advisable.
+
+Adverse effects reported with use of Librax are those typical of anticolinergic agents, ie, dryness of the mouth, blurring of vision, urinary hesitancy and constipation.
+Constipation has occurred most often when Librax therapy has been combined with other spasmolytic agents and/or a low residue diet.

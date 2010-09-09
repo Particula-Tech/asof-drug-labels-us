@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA012750"
+  ],
+  "inn": "chlordiazepoxide",
+  "labeler": "Valeant Pharmaceuticals International",
+  "package_ndcs": [
+    "0187-4100-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "chlordiazepoxide hydrochloride and clidinium bromide",
+      "name": "Librax"
+    }
+  ],
+  "setid": "f99ebf66-f207-4a97-9666-4da1d72b061c",
+  "source": "dailymed"
+}
