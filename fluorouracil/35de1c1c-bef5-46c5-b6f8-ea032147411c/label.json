@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA016831"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Valeant Pharmaceuticals International",
+  "package_ndcs": [
+    "0187-3202-02",
+    "0187-3202-10",
+    "0187-3203-02",
+    "0187-3203-10",
+    "0187-3204-47"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Efudex"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "fluorouracil",
+      "name": "Efudex"
+    }
+  ],
+  "setid": "35de1c1c-bef5-46c5-b6f8-ea032147411c",
+  "source": "dailymed"
+}
