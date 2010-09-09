@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022070"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Coria Laboratories",
+  "package_ndcs": [
+    "13548-070-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Atralin"
+    }
+  ],
+  "setid": "b6b45969-a64a-4ce3-b3b6-157d2568a301",
+  "source": "dailymed"
+}
