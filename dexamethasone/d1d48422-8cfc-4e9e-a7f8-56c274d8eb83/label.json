@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050818"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0652-05",
+    "0065-0652-10",
+    "0065-0652-25"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "tobramycin / dexamethasone",
+      "name": "TOBRADEX ST"
+    }
+  ],
+  "setid": "d1d48422-8cfc-4e9e-a7f8-56c274d8eb83",
+  "source": "dailymed"
+}
