@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019010"
+  ],
+  "inn": "leuprolide",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-3612-30",
+    "0074-3612-34"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "leuprolide acetate",
+      "name": "Lupron"
+    }
+  ],
+  "setid": "94a64966-52bf-4811-158d-9e4c718ad64c",
+  "source": "dailymed"
+}
