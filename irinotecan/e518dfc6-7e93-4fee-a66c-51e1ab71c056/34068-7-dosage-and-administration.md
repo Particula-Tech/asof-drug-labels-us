@@ -155,16 +155,21 @@ Several published guidelines for handling and disposal of anticancer agents are 
 
 Inspect vial contents for particulate matter and repeat inspection when drug product is withdrawn from vial into syringe.
 
+CAMPTOSAR Injection 20 mg/mL is intended for single use only and any unused portion should be discarded.
+
 CAMPTOSAR Injection must be diluted prior to infusion.
 CAMPTOSAR should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 to 2.8 mg/mL.
 In most clinical trials, CAMPTOSAR was administered in 250 mL to 500 mL of 5% Dextrose Injection, USP.
 
-The solution is physically and chemically stable for up to 24 hours at room temperature (approximately 25°C) and in ambient fluorescent lighting.
-Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temperatures (approximately 2° to 8°C), and protected from light are physically and chemically stable for 48 hours.
+The solution is physically and chemically stable for up to 24 hours at room temperature and in ambient fluorescent lighting.
+Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temperatures (approximately 2° to 8°C, 36° to 46°F), and protected from light are physically and chemically stable for 48 hours.
 Refrigeration of admixtures using 0.9% Sodium Chloride Injection, USP, is not recommended due to a low and sporadic incidence of visible particulates.
 Freezing CAMPTOSAR and admixtures of CAMPTOSAR may result in precipitation of the drug and should be avoided.
-Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5%Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
-In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 6 hours if kept at room temperature (15° to 30°C, 59° to 86°F).
+
+The CAMPTOSAR Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
+Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 6 hours if kept at room temperature.
+If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench) CAMPTOSAR Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 
 Other drugs should not be added to the infusion solution.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.

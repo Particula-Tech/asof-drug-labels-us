@@ -4,8 +4,11 @@ CAMPTOSAR Injection (irinotecan hydrochloride injection) is an antineoplastic ag
 Irinotecan hydrochloride was clinically investigated as CPT-11.
 
 CAMPTOSAR is supplied as a sterile, pale yellow, clear, aqueous solution.
-It is available in two single-dose sizes: 2 mL-fill vials contain 40 mg irinotecan hydrochloride and 5 mL-fill vials contain 100 mg irinotecan hydrochloride.
-Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol NF powder, and 0.9 mg of lactic acid, USP.
+It is available in two single-dose sizes in brown glass vials: 2 mL-fill vials contain 40 mg irinotecan hydrochloride and 5 mL-fill vials contain 100 mg irinotecan hydrochloride.
+
+CAMPTOSAR is also available in three single-dose sizes in amber-colored polypropylene CYTOSAFE® vials: 2 mL-fill vials contain 40 mg irinotecan hydrochloride, 5 mL-fill vials contain 100 mg irinotecan hydrochloride and 15 mL-fill vials contain 300 mg irinotecan hydrochloride.
+
+Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol, NF, and 0.9 mg of lactic acid, USP.
 The pH of the solution has been adjusted to 3.5 (range, 3.0 to 3.8) with sodium hydroxide or hydrochloric acid.
 CAMPTOSAR is intended for dilution with 5% Dextrose Injection, USP (D5W), or 0.9% Sodium Chloride Injection, USP, prior to intravenous infusion.
 The preferred diluent is 5% Dextrose Injection, USP.

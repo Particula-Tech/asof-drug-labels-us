@@ -1,11 +1,15 @@
-# PRINCIPAL DISPLAY PANEL - 2 mL Label
+# PRINCIPAL DISPLAY PANEL - 40 mg/2 mL Vial Carton
 
-NDC 0009-7529-02
+NDC 0009-7529-04 Rx only
 
-2 mL Rx only
+Single Use: Discard unused portion
 
 Camptosar® irinotecan hydrochloride injection
 
-INTRAVENOUS USE ONLY
-
 40 mg/2 mL (20 mg/mL)
+
+For Intravenous Use Only
+
+Cytosafe® Vial Caution: Cytotoxic Agent
+
+Pfizer Injectables

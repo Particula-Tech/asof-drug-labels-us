@@ -54,7 +54,7 @@ Figures 1 and 2 illustrate the Kaplan-Meier survival curves for the comparison o
 Data from three open-label, single-agent, clinical studies, involving a total of 304 patients in 59 centers, support the use of CAMPTOSAR in the treatment of patients with metastatic cancer of the colon or rectum that has recurred or progressed following treatment with 5-FU-based therapy.
 These studies were designed to evaluate tumor response rate and do not provide information on actual clinical benefit, such as effects on survival and disease-related symptoms.
 In each study, CAMPTOSAR was administered in repeated 6-week cycles consisting of a 90-minute intravenous infusion once weekly for 4 weeks, followed by a 2-week rest period.
-Starting doses of CAMPTOSAR in these trials were 100, 125, or 150 mg/m2, but the 150-mg/m2 dose was poorly tolerated (due to unacceptably high rates of grade 4 late diarrhea and febrile neutropenia).
+Starting doses of CAMPTOSAR in these trials were 100, 125, or 150 mg/m2,but the 150-mg/m2 dose was poorly tolerated (due to unacceptably high rates of grade 4 late diarrhea and febrile neutropenia).
 Study 1 enrolled 48 patients and was conducted by a single investigator at several regional hospitals.
 Study 2 was a multicenter study conducted by the North Central Cancer Treatment Group.
 All 90 patients enrolled in Study 2 received a starting dose of 125 mg/m2.
