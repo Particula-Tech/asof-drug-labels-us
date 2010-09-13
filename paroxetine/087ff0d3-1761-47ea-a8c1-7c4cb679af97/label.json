@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020936"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-3673-3",
+    "60505-3674-3",
+    "60505-3675-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "paroxetine hydrochloride",
+      "name": "PAROXETINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+  "source": "dailymed"
+}

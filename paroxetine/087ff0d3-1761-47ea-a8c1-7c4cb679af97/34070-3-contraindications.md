@@ -1,0 +1,7 @@
+# CONTRAINDICATIONS
+
+Concomitant use in patients taking either monoamine oxidase inhibitors (MAOIs), including linezolid, an antibiotic which is a reversible non-selective MAOI, or thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
+
+Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
+
+Paroxetine Hydrochloride Controlled-Release Tablets are contraindicated in patients with a hypersensitivity to paroxetine or to any of the inactive ingredients in Paroxetine Hydrochloride Controlled-Release Tablets.
