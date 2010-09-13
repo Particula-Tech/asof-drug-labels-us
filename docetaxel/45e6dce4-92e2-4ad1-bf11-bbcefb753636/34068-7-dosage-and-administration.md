@@ -17,12 +17,12 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 - For chemotherapy-naïve patients, TAXOTERE was evaluated in combination with cisplatin.
   The recommended dose of TAXOTERE is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30–60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
-## 2.3 Prostate cancer
+## 2.3 Prostate Cancer
 
 - For hormone-refractory metastatic prostate cancer, the recommended dose of TAXOTERE is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
-## 2.4 Gastric adenocarcinoma
+## 2.4 Gastric Adenocarcinoma
 
 - For gastric adenocarcinoma, the recommended dose of TAXOTERE is 75 mg/m2 as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
   Treatment is repeated every three weeks.

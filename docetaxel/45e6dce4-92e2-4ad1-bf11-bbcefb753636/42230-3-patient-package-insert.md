@@ -32,7 +32,7 @@ TAXOTERE can cause serious side effects, including death.
    This can be life threatening.
    To decrease the chance of this happening, you must take another medicine, a corticosteroid, before each TAXOTERE treatment.
    You must take the corticosteroid exactly as your doctor tells you.
-   Tell your doctor or nurse before your TAXOTERE treatment if you forget to take corticosteroid dose or do not take it as your doctor tells you.
+   Tell your doctor or nurse before your TAXOTERE treatment if you forget to take the corticosteroid dose or do not take it as your doctor tells you.
 
 What is TAXOTERE?
 
@@ -120,7 +120,7 @@ Tell your doctor if you have any side effect that bothers you or does not go awa
 These are not all the possible side effects of TAXOTERE.
 For more information ask your doctor or pharmacist.
 
-Call your doctor or for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 General information about TAXOTERE

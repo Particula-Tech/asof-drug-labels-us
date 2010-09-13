@@ -321,7 +321,7 @@ Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Anemia |  |  |  |
 | Any | 91 | 55 | 91 |
 | Grade 3/4 | 9 | 12 | 14 |
-| Febrile NeutropeniaFebrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization | 6 | NANot Applicable; | 1 |
+| Febrile NeutropeniaFebrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization | 6 | NANot Applicable | 1 |
 | Infection |  |  |  |
 | Any | 34 | 29 | 30 |
 | Grade 3/4 | 10 | 6 | 9 |
@@ -593,7 +593,7 @@ Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardle
 | Conjunctivitis | 1 | 0 | 1 | 0 | 1 | 0 | 0.4 | 0 |
 | Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact. |  |  |  |  |  |  |  |  |
 
-## 6.2 Post-marketing Experiences
+## 6.2 Post-Marketing Experiences
 
 The following adverse reactions have been identified from clinical trials and/or post-marketing surveillance.
 Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
