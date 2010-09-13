@@ -18,7 +18,7 @@ Baseline Growth Characteristics and Effect of Omnitrope® after 9 and 15 Months 
 | Treatment Duration | TreatmentGroup | TreatmentGroup |
 | --- | --- | --- |
 | 0 - 9 months | Omnitrope®for Injection(n=44) | Another SomatropinProduct(n=45) |
-| 9 - 15 months | Omnitrope®for Injection(n=42) | Omnitrope® Cartridge(n=44) |
+| 9 - 15 months | Omnitrope®for Injection(n=42) | Omnitrope® Cartridge (n=44) |
 | Treatment Parameter | Mean (SD) | Mean (SD) |
 | Height velocity (cm/yr) |  |  |
 | Pre-treatment | 3.8 (1.2) | 4.0 (0.8) |
@@ -117,3 +117,27 @@ Both of these doses resulted in a slower but constant increase in growth between
 | SDS at 24 months | -2.0 ± 0.8 | -1.7 ± 1.0 | -2.9 ± 0.9 |
 | Change in SDS from baseline to month 24 | 1.2* ± 0.5 | 1.7*† ± 0.6 | 0.1 ± 0.3 |
 | * p = 0.0001 vs Untreated Control group† p = 0.0001 vs group treated with another somatropin product 0.24 mg/kg/week |  |  |  |
+
+14.5 Idiopathic Short Stature (ISS)
+
+The long-term efficacy and safety of another somatropin product in patients with idiopathic short stature (ISS) were evaluated in one randomized, open-label, clinical trial that enrolled 177 children.
+Patients were enrolled on the basis of short stature, stimulated GH secretion > 10 ng/mL, and prepubertal status (criteria for idiopathic short stature were retrospectively applied and included 126 patients).
+All patients were observed for height progression for 12 months and were subsequently randomized to this other somatropin product or observation only and followed to final height.
+Two somatropin doses were evaluated in this trial: 0.23 mg/kg/week (0.033 mg/kg/day) and 0.47mg/kg/week (0.067 mg/kg/day).
+Baseline patient characteristics for the ISS patients who remained prepubertal at randomization (n= 105) were: mean (± SD): chronological age 11.4 (1.3) years, height SDS -2.4 (0.4), height velocity SDS -1.1 (0.8), and height velocity 4.4 (0.9) cm/yr, IGF-1 SDS -0.8 (1.4).
+Patients were treated for a median duration of 5.7 years.
+Results for final height SDS are displayed by treatment arm in Table 9.
+Therapy with this other somatropin product improved final height in ISS children relative to untreated controls.
+The observed mean gain in final height was 9.8 cm for females and 5.0 cm for males for both doses combined compared to untreated control subjects.
+A height gain of 1 SDS was observed in 10 % of untreated subjects, 50% of subjects receiving 0.23 mg/kg/week and 69% of subjects receiving 0.47 mg/kg/week.
+
+Table 9.
+Final height SDS results for pre-pubertal patients with ISS*
+
+|  | Untreated(n=30) | Another somatropin product 0.033 mg/kg/day(n=30) | Another somatropin product 0.067 mg/kg/day(n=42) | Another somatropin product 0.033vs. Untreated(95% CI) | Another somatropin product 0.067vs. Untreated(95% CI) |
+| --- | --- | --- | --- | --- | --- |
+| Baseline height SDSFinal height SDS minusBaselineBaseline predicted htFinal height SDS minusbaseline predicted finalheight SDS | 0.41 (0.58)0.23 (0.66) | 0.95 (0.75)0.73 (0.63) | 1.36 (0.64)1.05 (0.83) | +0.53 (0.20, 0.87)p=0.0022+0.60 (0.09, 1.11)p=0.0217 | +0.94 (0.63, 1.26)p<0.0001+0.90 (0.42, 1.39)p=0.0004 |
+
+*Mean (SD) are observed values.
+
+**Least square means based on ANCOVA (final height SDS and final height SDS minus baseline predicted height SDS were adjusted for baseline height SDS)

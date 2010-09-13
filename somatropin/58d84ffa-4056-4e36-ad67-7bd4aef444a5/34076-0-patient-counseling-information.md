@@ -8,7 +8,8 @@ This information is intended to better educate patients (and caregivers); it is 
 Patients and caregivers who will administer Omnitrope® should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health care professional.
 A puncture-resistant container for the disposal of used syringes and needles should be strongly recommended.
 Patients and/or parents should be thoroughly instructed in the importance of proper disposal, and cautioned against any reuse of needles and syringes.
-This information is intended to aid in the safe and effective administration of the medication.
+Counsel patients and parents that they should never share an Omnitrope Pen with another person, even if the needle is changed.
+Sharing of the pen between patients may pose a risk of transmission of infection.
 
 If patients are prescribed Omnitrope® Cartridge 5 mg/1.5 mL or 10 mg/1.5 mL (to be inserted into Omnitrope Pen 5 or Pen 10 delivery systems), physicians should instruct patients to read the corresponding INSTRUCTIONS FOR USE provided with the Omnitrope® Pens delivery systems and the Omnitrope® Cartridges.
 
@@ -16,7 +17,7 @@ If patients are prescribed Omnitrope® for injection, physicians should instruct
 
 Omnitrope® is a trademark of Novartis.
 
-06-2010
+08-2010
 
 Manufactured in Austria by Sandoz GmbH
 
@@ -94,7 +95,8 @@ After pen needle insertion, push the injection button in as far as it will go an
 If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
 
 5.
-This device must not be shared with other patients.
+This device must not be shared with other patients even if the needle is changed.
+Sharing of the pen between patients may pose a risk of transmission of infection.
 However, if you are giving an injection to another person, be careful when removing the pen needle.
 Accidental pen needle sticks can transmit infections.
 
@@ -104,7 +106,7 @@ For safety and injection comfort, use a new, sterile pen needle with each inject
 DON’Ts
 
 1.
-Do not share the Omnitrope® Pen 5.
+Do not share the Omnitrope® Pen5 even if the needle is changed.
 It is made for only one person to use.
 
 2.
@@ -368,7 +370,7 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-06-2010
+08/2010
 
 ## OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
 
@@ -442,7 +444,8 @@ After pen needle insertion, push the injection button in as far as it will go an
 If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
 
 5.
-This device must not be shared with other patients.
+This device must not be shared with other patients even if the needle is changed.
+Sharing of the pen between patients may pose a risk of transmission of infection.
 However, if you are giving an injection to another person, be careful when removing the pen needle.
 Accidental pen needle sticks can transmit infections.
 
@@ -452,7 +455,7 @@ For safety and injection comfort, use a new, sterile pen needle with each inject
 DON’Ts
 
 1.
-Do not share the Omnitrope® Pen 10.
+Do not share the Omnitrope® Pen 10 even if he needle is changed.
 It is made for only one person to use.
 
 2.
@@ -716,7 +719,7 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-06-2010
+08/2010
 
 ## INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
 
@@ -824,7 +827,7 @@ After Injecting OMNITROPE® 5.8 mg
 
 Omnitrope® is a trademark of Novartis.
 
-06-2010
+08-2010
 
 Manufactured in Austria by Sandoz GmbH
 

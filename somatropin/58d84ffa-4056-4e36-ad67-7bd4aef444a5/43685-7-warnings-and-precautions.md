@@ -31,7 +31,7 @@ As a result, previously undiagnosed impaired glucose tolerance and overt diabete
 Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity, Turner Syndrome, or a family history of diabetes mellitus.
 Patients with preexisting type 1 or type 2 diabetes mellitus or impaired glucose tolerance should be monitored closely during somatropin therapy.
 The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients.
-[See Drug Interactions (7.5)]
+[See DRUG INTERACTIONS (7.5)]
 
 ## 5.5 Intracranial Hypertension (IH)
 

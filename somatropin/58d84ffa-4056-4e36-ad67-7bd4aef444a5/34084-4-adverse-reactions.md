@@ -6,12 +6,12 @@ This list presents the most seriousb and/or most frequently observeda adverse re
 
 - bSudden death in pediatric patients with Prader-Willi Syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see CONTRAINDICATIONS (4.2) and WARNINGS AND PRECAUTIONS (5.2)].
 - bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see CONTRAINDICATIONS (4.3) and WARNINGS AND PRECAUTIONS (5.3)]
-- a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [see WARNINGS AND PRECAUTIONS (5.4)]
+- a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [WARNINGS AND PRECAUTIONS (5.4)]
 - bIntracranial hypertension [see WARNINGS AND PRECAUTIONS (5.5)]
 - bSignificant diabetic-retinopathy [see CONTRAINDICATIONS (4.4)]
 - bSlipped capital femoral epiphysis in pediatric patients [see WARNINGS AND PRECAUTIONS (5.9)]
 - bProgression of preexisting scoliosis in pediatric patients [see WARNINGS AND PRECAUTIONS (5.10)]
-- aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see WARNINGS AND PRECAUTIONS (5.6)]
+- aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see WARNINGS AND PRECAUTION (5.6)]
 - aUnmasking of latent central hypothyroidism [see WARNINGS AND PRECAUTIONS (5.8)]
 - aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see WARNINGS AND PRECAUTIONS (5.12)]
 
@@ -60,6 +60,12 @@ In two clinical studies in pediatric patients with Prader-Willi Syndrome carried
 ### Clinical Trials in Children with SGA
 
 In clinical studies of 273 pediatric patients born small for gestational age treated with another somatropin product, the following clinically significant events were reported: mild transient hyperglycemia, one patient with benign intracranial hypertension, two patients with central precocious puberty, two patients with jaw prominence, and several patients with aggravation of preexisting scoliosis, injection site reactions, and self-limited progression of pigmented nevi.
+
+### Clinical trials in children with Idiopathic Short Stature
+
+In two open-label clinical studies conducted with another somatropin product in pediatric patients with ISS, the most commonly encountered adverse events were upper respiratory tract infections, influenza, tonsillitis, nasopharyngitis, gastroenteritis, headaches, increased appetite, pyrexia, fracture, altered mood, and arthralgia.
+In one of the two studies during treatment with this other somatropin product, the mean IGF-1 standard deviation (SD) scores were maintained in the normal range.
+IGF-1 SD scores above +2 SD were observed as follows: 1 subject (3%), 10 subjects (30%) and 16 subjects (38%) in the untreated control, 0.23 and the 0.47 mg/kg/week groups respectively, had at least one measurement; while 0 subjects (0%), 2 subjects (7%) and 6 subjects (14%) had two or more consecutive IGF-1 measurements above +2 SD.
 
 ### Clinical Trials in Adults with GHD
 

@@ -2,7 +2,7 @@
 
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), those who were born small for gestational age (SGA), and adult patients with either childhood onset or adult onset GHD.
+Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), those who were born small for gestational age (SGA), Idiopathic Short Stature (ISS) and adult patients with either childhood onset or adult onset GHD.
 
 ## 2.1 Dosing of Pediatric Patients
 
@@ -11,13 +11,13 @@ Therapy with Omnitrope® should be supervised by a physician who is experienced 
 The Omnitrope® dosage and administration schedule should be individualized based on the growth response of each patient.
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
-However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
+However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, under nutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
 
 Treatment with Omnitrope® for short stature should be discontinued when the epiphyses are fused.
 
 ### Pediatric Growth Hormone Deficiency (GHD)
 
-Generally, a dosage of 0.16 - 0.24 mg/kg body weight/week is recommended.
+Generally, a dosage of 0.16 - 0.24 mg/kg body weight /week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 Prader-Willi Syndrome (PWS)
@@ -28,6 +28,11 @@ The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 Small for Gestational Age (SGA)
 
 Generally, a dosage of up to 0.48 mg/kg body weight/week is recommended.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
+
+Idiopathic Short Stature (ISS)
+
+Generally, a dose up to 0.47 mg/kg of body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 ## 2.2 Dosing of Adult Patients
