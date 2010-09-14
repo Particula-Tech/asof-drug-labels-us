@@ -29,13 +29,21 @@ Pediatrics.
 Because simvastatin tablets do not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
 However, caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)] .
 
-## 2.5 Coadministration with Other Drugs
+## 2.5 Chinese Patients Taking Lipid-Modifying Doses (≥1 g/day Niacin) of Niacin-Containing Products
+
+Because of an increased risk for myopathy, caution should be used when treating Chinese patients with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
+The cause of the increased risk of myopathy is not known.
+It is also unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.
+[See Warnings and Precautions (5.1).]
+
+## 2.6 Coadministration with Other Drugs
 
 Concomitant Lipid-Lowering Therapy
 
 - Simvastatin tablets may be used concomitantly with bile acid sequestrants.
 - Combination therapy with gemfibrozil increases simvastatin exposure.
-  Therefore, if simvastatin tablets are used in combination with gemfibrozil, the dose of simvastatin tablets should not exceed 10 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+  Therefore, if simvastatin tablets are used in combination with gemfibrozil, the dose of simvastatin tablets should not exceed 10 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
 Patients taking Cyclosporine or Danazol
 
@@ -44,3 +52,7 @@ Patients taking Cyclosporine or Danazol
 Patients taking Amiodarone or Verapamil
 
 - The dose of simvastatin tablets should not exceed 20 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.4), and Clinical Pharmacology (12.3)].
+
+Patients taking Diltiazem
+
+- The dose of simvastatin tablets should not exceed 40 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.4), and Clinical Pharmacology (12.3)].

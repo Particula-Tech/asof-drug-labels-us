@@ -4,7 +4,7 @@
 
 Pregnancy Category X [See Contraindications (4).]
 Simvastatin is contraindicated in women who are or may become pregnant.
-Lipid lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
+Lipid-lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
 Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
 There are no adequate and well-controlled studies of use with simvastatin during pregnancy; however, there are rare reports of congenital anomalies in infants exposed to statins in utero .
 Animal reproduction studies of simvastatin in rats and rabbits showed no evidence of teratogenicity.

@@ -12,22 +12,29 @@ If treatment with itraconazole, ketoconazole, erythromycin, clarithromycin or te
 
 ## 7.2 Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone
 
-The risk of myopathy is increased by gemfibrozil [see Dosage and Administration (2.5)] and to a lesser extent by other fibrates and niacin (nicotinic acid) (≥1 g/day) [see Warnings and Precautions (5.1)] .
+The risk of myopathy is increased by gemfibrozil [see Dosage and Administration (2.6)] and to a lesser extent by other fibrates [see Warnings and Precautions (5.1)] .
 
 ## 7.3 Cyclosporine or Danazol
 
 The risk of myopathy/rhabdomyolysis is increased by concomitant administration of cyclosporine or danazol particularly with higher doses of simvastatin [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)] .
 
-## 7.4 Amiodarone or Verapamil
+## 7.4 Amiodarone, Verapamil, or Diltiazem
 
-The risk of myopathy/rhabdomyolysis is increased by concomitant administration of amiodarone or verapamil with higher doses of simvastatin [see Warnings and Precautions (5.1)] .
+The risk of myopathy/rhabdomyolysis is increased by concomitant administration of amiodarone, verapamil, or diltiazem with higher doses of simvastatin [see Warnings and Precautions (5.1)] .
 
-## 7.5 Digoxin
+## 7.5 Niacin
+
+Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+In particular, caution should be used when treating Chinese patients with simvastatin coadministered with lipid-modifying doses of niacin-containing products.
+Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
+[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+
+## 7.6 Digoxin
 
 In one study, concomitant administration of digoxin with simvastatin resulted in a slight elevation in digoxin concentrations in plasma.
 Patients taking digoxin should be monitored appropriately when simvastatin is initiated [see Clinical Pharmacology (12.3)] .
 
-## 7.6 Coumarin Anticoagulants
+## 7.7 Coumarin Anticoagulants
 
 In two clinical studies, one in normal volunteers and the other in hypercholesterolemic patients, simvastatin 20 to 40 mg/day modestly potentiated the effect of coumarin anticoagulants: the prothrombin time, reported as International Normalized Ratio (INR), increased from a baseline of 1.7 to 1.8 and from 2.6 to 3.4 in the volunteer and patient studies, respectively.
 With other statins, clinically evident bleeding and/or increased prothrombin time has been reported in a few patients taking coumarin anticoagulants concomitantly.
