@@ -15,4 +15,6 @@ In overdose accompanied by severe nausea and vomiting, the use of antiemetics sh
 In a documented case of an oral 46-mg overdose with Exelon, the patient experienced vomiting, incontinence, hypertension, psychomotor retardation, and loss of consciousness.
 The patient fully recovered within 24 hours and conservative management was all that was required for treatment.
 
-There are currently no data on overdose with Exelon Patch (rivastigmine transdermal system).
+Overdose with Exelon Patch has been reported in the post-marketing setting.
+Overdoses have occurred due to application of more than one patch at one time and not removing the previous day’s patch before applying a new patch.
+The symptoms reported in these overdose cases are similar to those seen in cases of overdose associated with Exelon oral formulations.

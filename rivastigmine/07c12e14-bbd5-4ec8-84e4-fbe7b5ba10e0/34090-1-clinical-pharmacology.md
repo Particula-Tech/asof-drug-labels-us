@@ -17,7 +17,7 @@ In-vitro and in-vivo studies demonstrate that the inhibition of cholinesterase b
 
 ## 12.3 Pharmacokinetics
 
-### 12.3.1 Absorption
+Absorption
 
 After the first dose, there is a lag time of 0.5-1 hour in the absorption of rivastigmine from Exelon Patch (rivastigmine transdermal system).
 Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) are often reached at later times as well (10-16 hours).
@@ -28,7 +28,7 @@ Exelon Patch 9.5 mg/24 hours exhibited exposure approximately the same as that p
 
 Inter-subject variability in exposure was lower (43-49%) for the Exelon Patch formulation as compared with the oral formulations (73-103%).
 
-A relationship between drug exposure at steady state (rivastigmine and metabolite NAP226-90) and bodyweight was observed in Alzheimer’s dementia patients.
+A relationship between drug exposure at steady state (rivastigmine and metabolite NAP226-90) and body weight was observed in Alzheimer’s dementia patients.
 Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg are approximately doubled, while for a patient with a body weight of 100 kg the concentrations are approximately halved.
 The effect of body weight on drug exposure suggests special attention to patients with very low body weight during up-titration [see Dosage and Administration (2)].
 
@@ -39,23 +39,23 @@ Two other sites (abdomen and thigh) could be used if none of the three other sit
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease upon multiple dosing.
 
-### 12.3.2 Distribution
+Distribution
 
 Rivastigmine is weakly bound to plasma proteins (approximately 40%) over the therapeutic range.
 It readily crosses the blood-brain barrier, reaching CSF peak concentrations in 1.4-2.6 hours.
 It has an apparent volume of distribution in the range of 1.8-2.7 L/kg.
 
-### 12.3.3 Metabolism
+Metabolism
 
 Rivastigmine is extensively metabolized primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite NAP226-90.
-In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
+In-vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
 Based on evidence from in-vitro and animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 
 The metabolite-to-parent AUC∞ ratio was about 0.7 after Exelon Patch application versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal treatment.
 Less NAP226-90 is formed following patch application, presumably because of the lack of presystemic (hepatic first pass) metabolism.
 Based on in-vitro studies, no unique metabolic routes were detected in human skin.
 
-### 12.3.4 Elimination
+Elimination
 
 Renal excretion of the metabolites is the major route of elimination.
 Unchanged rivastigmine is found in trace amounts in the urine.

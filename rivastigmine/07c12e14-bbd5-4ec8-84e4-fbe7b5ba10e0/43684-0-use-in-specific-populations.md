@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### 8.1.1 Pregnancy Category B
+Pregnancy Category B
 
 There are no adequate or well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Exelon Patch should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.

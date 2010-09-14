@@ -4,7 +4,7 @@ Significant gastrointestinal adverse reactions including nausea, vomiting, anore
 
 ## 6.1 Incidence in Controlled Clinical Trial in Alzheimer’s Disease
 
-### 6.1.1 Associated with Discontinuation of Treatment
+Associated with Discontinuation of Treatment
 
 In the single controlled clinical trial of Exelon Patch [see Clinical Studies (14)], which randomized a total of 1195 patients, the proportions of patients in the Exelon Patch 9.5 mg/24 hours, Exelon Patch 17.4 mg/24 hours, Exelon capsules 6 mg BID, and placebo groups who discontinued treatment due to adverse events were 9.6%, 8.6%, 8.1%, and 5.0%, respectively.
 
@@ -12,13 +12,13 @@ The most common adverse events in the Exelon Patch-treated groups that led to tr
 The proportions of patients who discontinued treatment due to nausea were 0.7%, 1.7%, 1.7%, and 1.3% in the Exelon Patch 9.5 mg/24 hours, Exelon Patch 17.4 mg/24 hours, Exelon capsules 6 mg BID, and placebo groups, respectively.
 The proportions of patients who discontinued treatment due to vomiting were 0%, 1.7%, 2.0%, and 0.3% in the Exelon Patch 9.5 mg/24 hours, Exelon Patch 17.4 mg/24 hours, Exelon capsules 6 mg BID, and placebo groups, respectively.
 
-### 6.1.2 Most Commonly Observed Adverse Events
+Most Commonly Observed Adverse Events
 
 The most commonly observed adverse events seen in patients administered Exelon Patch in the controlled clinical trial, defined as those occurring at a frequency of at least 5% in the 9.5 mg/24 hours group and at a frequency at least as high as in the placebo group are largely predicted by the cholinergic effects of Exelon.
 These are nausea, vomiting, and diarrhea.
 All these events were more common at the higher Exelon Patch dose of 17.4 mg/24 hours than at a dose of 9.5 mg/24 hours.
 
-### 6.1.3 Adverse Events Observed at an Incidence of ≥2%
+Adverse Events Observed at an Incidence of ≥2%
 
 The following table lists treatment-emergent adverse events that were seen at an incidence of ≥2% in either Exelon Patch-treated group in the controlled clinical trial and for which the rate of occurrence was greater for patients treated with that dose of Exelon Patch than for those treated with placebo.
 The prescriber should be aware that these frequencies cannot be used to predict the frequency of adverse events in the course of usual medical practice when patient characteristics and other factors may differ from those prevailing during clinical studies.
@@ -48,9 +48,10 @@ Table 2: Adverse Events Observed with a Frequency of ≥2% and Occurring with a 
 | Abdominal Pain Upper | 3 (1) | 8 (3) | 6 (2) | 6 (2) |
 | Vertigo | 0 (0) | 7 (2) | 4 (1) | 3 (1) |
 
-### 6.1.4 Incidence of Application Site Reactions
+Incidence of Application Site Reactions
 
 The vast majority of patients participating in the controlled clinical trial had either no observed skin irritation or mild to moderate skin reactions.
+Among the skin reactions reported were the following: application site reactions, application site dermatitis, application site irritation and application site eczema.
 The incidence of severe reactions was very low regardless of administered dosage.
 
 ## 6.2 Other Adverse Events Observed During Clinical Trials
@@ -67,7 +68,7 @@ All patch doses are pooled.
 
 All adverse events occurring in at least 1 patient (approximately 0.1%) are included, except for those already listed elsewhere in labeling, too general to be informative, or relatively minor events.
 
-Events are classified by system organ class and listed using the following definitions: Frequent – those occurring in at least 1/100 patients; Infrequent – those occurring in 1/100 to 1/1,000 patients.
+Events are classified by system organ class and listed using the following definitions: Frequent – those occurring in at least 1/100 patients; Infrequent – those occurring in 1/100 to 1/1000 patients.
 These adverse events are not necessarily related to Exelon Patch treatment and in most cases were observed at a similar frequency in placebo-treated patients in the controlled studies.
 
 Blood and Lymphatic System Disorders: Frequent: Anemia.
@@ -93,7 +94,8 @@ Infrequent: Hip fracture, subdural hematoma.
 
 Investigations: Infrequent: Blood creatine phosphokinase increased, lipase increased, blood amylase increased, electrocardiogram QT prolonged.
 
-Metabolic and Nutritional Disorders: Frequent: Dehydration Infrequent: Hyperlipidemia, hypokalemia, hyponatremia.
+Metabolic and Nutritional Disorders: Frequent: Dehydration.
+Infrequent: Hyperlipidemia, hypokalemia, hyponatremia.
 
 Musculoskeletal and Connective Tissue Disorders: Infrequent: Arthralgia, muscle spasms, myalgia.
 
@@ -113,3 +115,16 @@ Skin and Subcutaneous Tissue Disorders: Frequent: Pruritus.
 Infrequent: Erythema, eczema, dermatitis, rash erythematous, skin ulcer.
 
 Vascular Disorders: Infrequent: Hypotension.
+
+## 6.3 Post-Introduction Reports
+
+The following additional adverse reactions have been identified based on post-marketing spontaneous reports and are not listed above.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypertension, application site hypersensitivity, urticaria, blister, dermatitis allergic, seizure, worsening of Parkinson’s disease in patients with Parkinson’s disease who were treated with Exelon patches.
+
+## 6.4 Additional Adverse Reactions Reported
+
+The following additional adverse reactions have been observed with Exelon capsules/oral solution.
+
+Confusion, abnormal liver function tests, duodenal ulcers.

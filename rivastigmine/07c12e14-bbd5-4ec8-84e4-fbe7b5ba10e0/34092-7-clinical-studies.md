@@ -27,13 +27,13 @@ In this study, 1195 patients were randomized to one of the following 4 treatment
 This 24-week study was divided into a 16-week titration phase followed by an 8-week maintenance phase.
 In the active treatment arms of this study, doses below the target dose were permitted during the maintenance phase in the event of poor tolerability.
 
-### 14.3.1 Effects on the ADAS-Cog
+Effects on the ADAS-Cog
 
 Figure 3 illustrates the time course for the change from baseline in ADAS-Cog scores for all 4 treatment groups over the 24-week study.
 At 24 weeks, the mean differences in the ADAS-Cog change scores for the Exelon-treated patients, compared to the patients on placebo, were 1.8, 2.9, and 1.8 units for the Exelon Patch 9.5 mg/24 hours, Exelon Patch 17.4 mg/24 hours, and Exelon capsule 6 mg BID groups, respectively.
 The difference between each of these groups and placebo was statistically significant.
 
-### 14.3.2 Effects on the ADCS-CGIC
+Effects on the ADCS-CGIC
 
 Figure 4 is a histogram of the distribution of patients’ scores on the ADCS-CGIC for all 4 treatment groups.
 
