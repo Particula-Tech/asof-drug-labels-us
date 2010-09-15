@@ -13,11 +13,11 @@ Allow to warm to room temperature 25°C (77°F) to reverse these changes.
 Sandimmune® is a registered trademark of Novartis.
 
 Rev.
-B 10/2009
+C 4/2010
 
-Manufactured In Czech Republic By:
+Manufactured In Czech Republic By
 
-IVAX PHARMACEUTICALS s.r.o.
+TEVA CZECH INDUSTRIES s.r.o.
 
 Opava-Komarov, Czech Republic
 
@@ -26,3 +26,5 @@ Manufactured For:
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
+
+CYCLOSPORINE ORAL SOLUTION MODIFIED

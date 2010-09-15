@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Principal Display Panel Text
+## Cyclosporine Oral Solution USP Modified 100mg/mL Label Text
 
 NDC 0172-7313-20
 
@@ -29,3 +29,5 @@ supervision.
 Rx only
 
 50 mL size
+
+TEVA

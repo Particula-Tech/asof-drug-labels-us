@@ -17,9 +17,9 @@ In controlled studies, the nature, severity and incidence of the adverse events 
 
 Based on the historical experience with Sandimmune® (Cyclosporine Oral Solution USP), the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
-|  |  | Randomized Kidney Patients |  | Cyclosporine Patients(Sandimmune® (Cyclosporine Oral Solution USP)) |  |  |
+|  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune® (Cyclosporine Oral Solution USP)) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Adverse Reactions | Sandimmune® (Cyclosporine Oral Solution USP)(N = 227)% | Azathioprine(N = 228)% | Kidney(N = 705)% | Heart(N = 112)% | Liver(N = 75)% |
+| Body System | Adverse Reactions | Sandimmune®(Cyclosporine Oral Solution USP) (N = 227)% | Azathioprine (N = 228)% | Kidney (N = 705)% | Heart (N = 112)% | Liver (N = 75)% |
 | Genitourinary | Renal dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular | Hypertension | 26 | 18 | 13 | 53 | 27 |
 |  | Cramps | 4 | <1 | 2 | <1 | 0 |
@@ -53,7 +53,7 @@ Fatal outcomes have been reported (see WARNINGS).
 
 Infectious Complications in Historical Randomized Studies in Renal Transplant Patients Using Sandimmune® (Cyclosporine Oral Solution USP)
 
-| Complication | Cyclosporine Treatment(N = 227)% of Complications | Azathioprine with Steroids**Some patients also received ALG(N = 228)% of Complications |
+| Complication | Cyclosporine Treatment (N = 227)% of Complications | Azathioprine with Steroids**Some patients also received ALG (N = 228)% of Complications |
 | --- | --- | --- |
 | SepticemiaAbscessesSystemic fungal infectionLocal fungal infectionCytomegalovirusOther viral infectionsUrinary tract infectionsWound and skin infectionsPneumonia | 5.34.42.27.54.815.921.176.2 | 4.85.33.99.612.318.420.210.19.2 |
 
@@ -75,21 +75,36 @@ The following adverse events occurred in controlled clinical trials:
 
 Cyclosporine Oral Solution USP MODIFIED / Sandimmune® (Cyclosporine Oral Solution USP) Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group
 
-|  |  | Studies651+652+2008 | Study302 | Study654 | Study654 | Study302 | Studies651+652+2008 |
+|  |  | Studies 651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651+652+2008 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System | Preferred Term | Sandimmune® ┼┼Includes patients in 2.5 mg/kg/day dose group only.(Cyclosporine Oral Solution USP)(N = 269) | Sandimmune® (Cyclosporine Oral Solution USP) (N = 155) | Methotrexate &Sandimmune® (Cyclosporine Oral Solution USP)(N = 74) | Methotrexate & Placebo(N = 73) | Cyclosporine Oral Solution USPMODIFIED (N = 143) | Placebo(N = 201) |
+| Body System | Preferred Term | Sandimmune®††Includes patients in 2.5 mg/kg/day dose group only. (Cyclosporine Oral Solution USP)(N = 269) | Sandimmune® (Cyclosporine Oral Solution USP)(N = 155) | Methotrexate & Sandimmune® (Cyclosporine Oral Solution USP)(N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine Oral Solution USP MODIFIED (N = 143) | Placebo (N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As a Whole-General Disorders |  |  |  |  |  |  |  |
-|  | Accidental traumaEdema NOS**NOS = Not Otherwise Specified.FatigueFeverInfluenza-like symptoms | 0%5%6%2%<1% | 1%14%3%3%6% | 10%12%8%0%1% | 4%4%12%0%0% | 4%10%3%2%3% | 0%<1%7%4%2% |
+|  | Accidental trauma | 0% | 1% | 10% | 4% | 4% | 0% |
+|  | Edema NOS**NOS = Not Otherwise Specified. | 5% | 14% | 12% | 4% | 10% | <1% |
+|  | Fatigue | 6% | 3% | 8% | 12% | 3% | 7% |
+|  | Fever | 2% | 3% | 0% | 0% | 2% | 4% |
+|  | Influenza-like symptoms | <1% | 6% | 1% | 0% | 3% | 2% |
 |  | Pain | 6% | 9% | 10% | 15% | 13% | 4% |
 |  | Rigors | 1% | 1% | 4% | 0% | 3% | 1% |
 | Cardiovascular Disorders |  |  |  |  |  |  |  |
-|  | ArrhythmiaChest pain Hypertension | 2%4%8% | 5%5%26% | 5%1%16% | 6%1%12% | 2%6%25% | 1%1%2% |
+|  | Arrythmia | 2% | 5% | 5% | 6% | 2% | 1% |
+|  | Chest pain | 4% | 5% | 1% | 1% | 6% | 1% |
+|  | Hypertension | 8% | 26% | 16% | 12% | 25% | 2% |
 | Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |
-|  | DizzinessHeadacheMigraineParesthesiaTremor | 8%17%2%8%8% | 6%23%3%7%7% | 7%22%0%8%7% | 3%11%0%4%3% | 8%25%3%11%13% | 3%9%1%1%4% |
+|  | Dizziness | 8% | 6% | 7% | 3% | 8% | 3% |
+|  | Headache | 17% | 23% | 22% | 11% | 25% | 9% |
+|  | Migraine | 2% | 3% | 0% | 0% | 3% | 1% |
+|  | Paresthesia | 8% | 7% | 8% | 4% | 11% | 1% |
+|  | Tremor | 8% | 7% | 7% | 3% | 13% | 4% |
 | Gastrointestinal System Disorders |  |  |  |  |  |  |  |
-|  | Abdominal painAnorexiaDiarrheaDyspepsiaFlatulenceGastrointestinal disorder NOS* | 15%3%12%12%5%0% | 15%3%12%12%5%2% | 15%1%18%10%5%1% | 7%0%15%8%4%4% | 15%3%13%8%4%4% | 10%3%8%4%1%0% |
+|  | Abdominal pain | 15% | 15% | 15% | 7% | 15% | 10% |
+|  | Anorexia | 3% | 3% | 1% | 0% | 3% | 3% |
+|  | Diarrhea | 12% | 12% | 18% | 15% | 13% | 8% |
+|  | Dyspepsia | 12% | 12% | 10% | 8% | 8% | 4% |
+|  | Flatulence | 5% | 5% | 5% | 4% | 4% | 1% |
+|  | Gastrointestinal disorder NOS* | 0% | 2% | 1% | 4% | 4% | 0% |
 |  | Gingivitis | 4% | 3% | 0% | 0% | 0% | 1% |
 |  | Gum hyperplasia | 2% | 4% | 1% | 3% | 4% | 1% |
 |  | Nausea | 23% | 14% | 24% | 15% | 18% | 14% |
@@ -100,22 +115,37 @@ Cyclosporine Oral Solution USP MODIFIED / Sandimmune® (Cyclosporine Oral Soluti
 |  | Ear disorder NOS* | 0% | 5% | 0% | 0% | 1% | 0% |
 | Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |
 |  | Hypomagnesemia | 0% | 4% | 0% | 0% | 6% | 0% |
-| Musculoskeletal System Disorders |  |  |  |  |  |  |  |
+| Musculoskeltal System Disorders |  |  |  |  |  |  |  |
 |  | Arthropathy | 0% | 5% | 0% | 1% | 4% | 0% |
-|  | Leg cramps/involuntary muscle contractions | 2% | 11% | 11% | 3% | 12% | 1% |
+|  | Leg cramps/ involuntary muscle contractions | 2% | 11% | 11% | 3% | 12% | 1% |
 | Psychiatric Disorders |  |  |  |  |  |  |  |
-|  | DepressionInsomnia | 3%4% | 6%1% | 3%1% | 1%0% | 1%3% | 2%2% |
+|  | Depression | 3% | 6% | 3% | 1% | 1% | 2% |
+|  | Insomnia | 4% | 1% | 1% | 0% | 3% | 2% |
 | Renal |  |  |  |  |  |  |  |
 |  | Creatinine elevations ≥30% | 43% | 39% | 55% | 19% | 48% | 13% |
 |  | Creatinine elevations ≥50% | 24% | 18% | 26% | 8% | 18% | 3% |
 | Reproduction Disorders, Female |  |  |  |  |  |  |  |
-|  | LeukorrheaMenstrual disorder | 1%3% | 0%2% | 4%1% | 0%0% | 1%1% | 0%1% |
+|  | Leukorrhea | 1% | 0% | 4% | 0% | 1% | 0% |
+|  | Menstrual disorder | 3% | 2% | 1% | 0% | 1% | 1% |
 | Respiratory System Disorders |  |  |  |  |  |  |  |
-|  | BronchitisCoughingDyspneaInfection NOS*PharyngitisPneumoniaRhinitisSinusitisUpper respiratory tract | 1%5%5%9%3%1%0%4%0% | 3%3%1%5%5%0%3%4%14% | 1%5%3%0%5%4%11%8%23% | 0%7%3%7%6%0%10%4%15% | 1%4%1%3%4%1%1%3%13% | 3%4%2%10%4%1%0%3%0% |
+|  | Bronchitis | 1% | 3% | 1% | 0% | 1% | 3% |
+|  | Coughing | 5% | 3% | 5% | 7% | 4% | 4% |
+|  | Dyspnea | 5% | 1% | 3% | 3% | 1% | 2% |
+|  | Infection NOS* | 9% | 5% | 0% | 7% | 3% | 10% |
+|  | Pharyngitis | 3% | 5% | 5% | 6% | 4% | 4% |
+|  | Pneumonia | 1% | 0% | 4% | 0% | 1% | 1% |
+|  | Rhinitis | 0% | 3% | 11% | 10% | 1% | 0% |
+|  | Sinusitis | 4% | 4% | 8% | 4% | 3% | 3% |
+|  | Upper respiratory tract | 0% | 14% | 23% | 15% | 13% | 0% |
 | Skin and Appendages Disorders |  |  |  |  |  |  |  |
-|  | AlopeciaBullous eruptionHypertrichosisRashSkin ulceration | 3%1%19%7%1% | 0%0%17%12%1% | 1%4%12%10%3% | 1%1%0%7%4% | 4%1%15%8%0% | 4%1%3%10%2% |
+|  | Alopecia | 3% | 0% | 1% | 1% | 4% | 4% |
+|  | Bullous eruption | 1% | 0% | 4% | 1% | 1% | 1% |
+|  | Hypertrichosis | 19% | 17% | 12% | 0% | 15% | 3% |
+|  | Rash | 7% | 12% | 10% | 7% | 8% | 10% |
+|  | Skin ulceration | 1% | 1% | 3% | 4% | 0% | 2% |
 | Urinary System Disorders |  |  |  |  |  |  |  |
-|  | DysuriaMicturition frequency | 0%2% | 0%4% | 11%3% | 3%1% | 1%2% | 2%2% |
+|  | Dysuria | 0% | 0% | 11% | 3% | 1% | 2% |
+|  | Micturition frequency | 2% | 4% | 3% | 1% | 2% | 2% |
 |  | NPN, increased | 0% | 19% | 12% | 0% | 18% | 0% |
 |  | Urinary tract infection | 0% | 3% | 5% | 4% | 3% | 0% |
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
@@ -213,7 +243,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials
 
-| Body System**Total percentage of events within the system | Preferred Term | Cyclosporine Oral Solution USP MODIFIED(N = 182) | Sandimmune®(Cyclosporine Oral Solution USP)(N = 185) |
+| Body System*Total percentage of events within the system | Preferred Term | Cyclosporine Oral Solution USP MODIFIED (N = 182) | Sandimmune®(Cyclosporine Oral Solution USP) (N = 185) |
 | --- | --- | --- | --- |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-like symptoms | 9.9% | 8.1% |
@@ -282,7 +312,7 @@ Acne, folliculitis, keratosis, pruritus, rash, dry skin
 
 Micturition frequency
 
-### Vision
+### Visio
 
 Abnormal vision
 

@@ -52,13 +52,13 @@ When the patients were administered Cyclosporine Oral Solution USP MODIFIED with
 
 Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/day11Total daily dose was divided into two doses administered every 12 hours(mg/d) | Dose/weight(mg/kg/d) | AUC22AUC was measured over one dosing interval(ng•hr/mL) | Cmax(ng/mL) | Trough33Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose(ng/mL) | CL/F(mL/min) | CL/F(mL/min/kg) |
+| Patient Population | Dose/day11Total daily dose was divided into two doses administered every 12 hours(mg/d) | Dose/weight (mg/kg/d) | AUC22AUC was measured over one dosing interval (ng•hr/mL) | Cmax(ng/mL) | Trough33Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| De novo renal transplant44Assay: TDx specific monoclonal fluorescence polarization immunoassayWeek 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
-| Stable renal transplant4(N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
+| De novo renal transplant44Assay: TDx specific monoclonal fluorescence polarization immunoassay Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
+| Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
 | De novo liver transplant55Assay: Cyclo-trac specific monoclonal radioimmunoassayWeek 4 (N = 18) | 458 ± 190 | 6.89 ± 3.68 | 7187 ± 2816 | 1555 ± 740 | 268 ± 101 | 577 ± 309 | 8.6 ± 5.7 |
 | De novo rheumatoid arthritis66Assay: INCSTAR specific monoclonal radioimmunoassay (N = 23) | 182 ± 55.6 | 2.37 ± 0.36 | 2641 ± 877 | 728 ± 263 | 96.4 ± 37.7 | 613 ± 196 | 8.3 ± 2.8 |
-| De novo psoriasis6Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |
+| De novo psoriasis6 Week 4 (N = 18) | 189 ± 69.8 | 2.48 ± 0.65 | 2324 ± 1048 | 655 ± 186 | 74.9 ± 46.7 | 723 ± 186 | 10.2 ± 3.9 |
 
 ## Distribution
 
@@ -107,10 +107,10 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 
 Pediatric Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/day(mg/d) | Dose/weight(mg/kg/d) | AUC11AUC was measured over one dosing interval (ng•hr/mL) | Cmax(ng/mL) | CL/F(mL/min) | CL/F(mL/min/kg) |
+| Patient Population | Dose/day (mg/d) | Dose/weight (mg/kg/d) | AUC11AUC was measured over one dosing interval(ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Stable liver transplant22Assay: Cyclo-trac specific monoclonal radioimmunoassay Age 2 to 8, dosed TID (N = 9) Age 8 to 15, dosed BID (N = 8) | 101 ± 25188 ± 55 | 5.95 ± 1.324.96 ± 2.09 | 2163 ± 8014272 ± 1462 | 629 ± 219975 ± 281 | 285 ± 94378 ± 80 | 16.6 ± 4.310.2 ± 4.0 |
-| Stable liver transplant33Assay: TDx specific monoclonal fluorescence polarization immunoassay Age 3, dosed BID (N = 1) Age 8 to 15, dosed BID (N = 5) | 120158 ± 55 | 8.335.51 ± 1.91 | 58324452 ± 2475 | 10501013 ± 635 | 171328 ± 121 | 11.911.0 ± 1.9 |
+| Stable liver transplant22Assay: Cyclo-trac specific monoclonal radioimmunoassay Age 2 to 8, dosed TID (N = 9) Age 8 to 15, dosed BID (N = 8) | 101 ± 25 188 ± 55 | 5.95 ± 1.324.96 ± 2.09 | 2163 ± 8014272 ± 1462 | 629 ± 219975 ± 281 | 285 ± 94378 ± 80 | 16.6 ± 4.310.2 ± 4.0 |
+| Stable liver transplant33Assay: TDx specific monoclonal fluorescence polarization immunoassay Age 3, dosed BID (N = 1) Age 8 to 15, dosed BID (N = 5) | 120 158 ± 55 | 8.335.51 ± 1.91 | 58324452 ± 2475 | 10501013 ± 635 | 171328 ± 121 | 11.911.0 ± 1.9 |
 | Stable renal transplant3 Age 7 to 15, dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
 
 ### Geriatric Population

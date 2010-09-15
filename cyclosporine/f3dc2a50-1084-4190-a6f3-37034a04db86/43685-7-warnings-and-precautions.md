@@ -42,16 +42,16 @@ Nephrotoxicity vs. Rejection
 
 | Parameter | Nephrotoxicity | Rejection |
 | --- | --- | --- |
-| History | Donor >50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune responseRetransplant patient |
-| Clinical | Often >6 weeks postopbbp <0.01Prolonged initial nonfunction (acute tubular necrosis) | Often <4 weeks postopbFever >37.5°CWeight gain >0.5 kgGraft swelling and tendernessDecrease in daily urine volume >500 mL (or 50%) |
-| Laboratory | CyA serum trough level >200 ng/mLGradual rise in Cr (<0.15 mg/dL/day)aap <0.05Cr plateau <25% above baseline BUN/Cr ≥20 | CyA serum trough level <150 ng/mLRapid rise in Cr (>0.3 mg/dL/day)aCr >25% above baseline BUN/Cr <20 |
-| Biopsy | Arteriolopathy (medial hypertrophyaa, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcificationsMinimal edemaMild focal infiltratesccp <0.001Diffuse interstitial fibrosis, often striped form | Endovasculitisc (proliferationa, initmal arteritisb, necrosis, sclerosis) Tubulitis with RBCb and WBCb casts, some irregular vacuolizationInterstitial edemac and hemorrhagebDiffuse moderate to severe mononuclear infiltratesddp <0.0001Glomerulitis (mononuclear cells)c |
-| Aspiration Cytology | CyA deposits in tubular and endothelial cellsFine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
+| History | Donor >50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune response Retransplant patient |
+| Clinical | Often >6 weeks postopbbp <0.01 Prolonged initial nonfunction (acute tubular necrosis) | Often <4 weeks postopb Fever >37.5°C Weight gain >0.5 kg Graft swelling and tenderness Decrease in daily urine volume >500 mL (or 50%) |
+| Laboratory | CyA serum trough level >200 ng/mL Gradual rise in Cr (<0.15 mg/dL/day)aap <0.05 Cr plateau <25% above baseline BUN/Cr ≥20 | CyA serum trough level <150 ng/mL Rapid rise in Cr (>0.3 mg/dL/day)a Cr >25% above baseline BUN/Cr <20 |
+| Biopsy | Arteriolopathy (medial hypertrophyaa, hyalinosis, nodular deposits, intimal thickening, endothelial vacuolization, progressive scarring) Tubular atrophy, isometric vacuolization, isolated calcifications Minimal edema Mild focal infiltratesccp <0.001 Diffuse interstitial fibrosis, often striped form | Endovasculitisc (proliferationa, intimal arteritisb, necrosis, sclerosis) Tubulitis with RBCb and WBCb casts, some irregular vacuolization Interstitial edemac and hemorrhagebDiffuse moderate to severe mononuclear infiltratesddp <0.0001 Glomerulitis (mononuclear cells)c |
+| Aspiration Cytology | CyA deposits in tubular and endothelial cells Fine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia >20% of sediment |
 | Manometry | Intracapsular pressure <40 mm Hgb | Intracapsular pressure >40 mm Hgb |
 | Ultrasonography | Unchanged graft cross sectional area | Increase in graft cross sectional area AP diameter ≥Transverse diameter |
 | Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
-| Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function(131I-hippuran) >decrease in perfusion(99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
+| Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function (131I-hippuran) >decrease in perfusion (99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
 
 A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
@@ -227,7 +227,7 @@ Cyclosporine Oral Solution USP MODIFIED dosage should be reduced by 25% to 50% f
 
 In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
 
-## Information for patients
+## Information for Patients
 
 Patients should be advised that any change of cyclosporine formulation should be made cautiously and only under physician supervision because it may result in the need for a change in dosage.
 
@@ -245,7 +245,7 @@ The combination of Cyclosporine Oral Solution USP MODIFIED with milk can be unpa
 Patients should be advised to take Cyclosporine Oral Solution USP MODIFIED on a consistent schedule with regard to time of day and relation to meals.
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
 
-## Laboratory tests
+## Laboratory Tests
 
 In all patients treated with cyclosporine, renal and liver functions should be assessed repeatedly by measurement of serum creatinine, BUN, serum bilirubin, and liver enzymes.
 Serum lipids, magnesium, and potassium should also be monitored.
@@ -256,9 +256,9 @@ Cyclosporine blood concentrations should be routinely monitored in transplant pa
 All of the individual drugs cited below are well substantiated to interact with cyclosporine.
 In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in the setting of dehydration, may potentiate renal dysfunction.
 
-### Drugs That May Potentiate Renal Dysfunction
+Drugs That May Potentiate Renal Dysfunction
 
-| Antibiotics ciprofloxacingentamicintobramycin vancomycintrimethoprim with sulfamethoxazole | Antineoplastics melphalanAntifungalsamphotericin Bketoconazole | Anti-inflammatory Drugsazapropazoncolchicine diclofenacnaproxensulindac | Gastrointestinal Agentscimetidine ranitidine Immunosuppressives tacrolimus Other Drugsfibric acid derivatives (e.g., bezafibrate, fenofibrate),methotrexate |
+| Antibiotics ciprofloxacin gentamicin tobramycin vancomycin trimethoprim with sulfamethoxazole | Antineoplastics melphalan Antifungals amphotericin B ketoconazole | Anti-inflammatory Drugs azapropazon colchicine diclofenac naproxen sulindac | Gastrointestinal Agents cimetidine ranitidine Immunosuppressives tacrolimus Other Drugs fibric acid derivatives (e.g., bezafibrate, fenofibrate), methotrexate |
 | --- | --- | --- | --- |
 
 ### Drugs That Alter Cyclosporine Concentrations
@@ -268,9 +268,9 @@ Various agents are known to either increase or decrease plasma or whole blood of
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
 Monitoring of circulating cyclosporine concentrations and appropriate Cyclosporine Oral Solution USP MODIFIED dosage adjustment are essential when these drugs are used concomitantly (see Blood Concentration Monitoring).
 
-### Drugs That Increase Cyclosporine Concentrations
+Drugs That Increase Cyclosporine Concentrations
 
-| Calcium Channel Blockers diltiazem nicardipineverapamil | Antifungalsfluconazole itraconazole ketoconazolevoriconazole | Antibiotics azithromycinclarithromycin erythromycinquinupristin/ dalfopristin | Glucocorticoidsmethylprednisolone | Other Drugs allopurinolamiodaronebromocriptinecolchicinedanazolimatinibmetoclopramidenefazodone oral contraceptives |
+| Calcium Channel Blockersdiltiazem nicardipine verapamil | Antifungals fluconazole itraconazole ketoconazole voriconazole | Antibiotics azithromycin clarithromycin erythromycin quinupristin/ dalfopristin | Glucocorticoids methylprednisolone | Other Drugs allopurinol amiodarone bromocriptine colchicine danazol imatinib metoclopramide nefazodone oral contraceptives |
 | --- | --- | --- | --- | --- |
 
 The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
@@ -278,13 +278,13 @@ Care should be exercised when these drugs are administered concomitantly.
 
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
 
-### Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
+Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
-| Antibiotics nafcillin rifampin | Anticonvulsants carbamazepineoxcarbazepinephenobarbital phenytoin | Other Drugs / Dietary Supplements bosentanoctreotide orlistatSt. John’s Wortsulfinpyrazoneterbinafineticlopidine |
+| Antibiotics nafcillin rifampin | Anticonvulsantscarbamazepine oxcarbazepine phenobarbital phenytoin | Other Drugs / Dietary Supplements bosentan octreotide orlistat St. John’s Wort sulfinpyrazone terbinafine ticlopidine |
 | --- | --- | --- |
 
 There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement, St. John’s Wort.
-This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
+This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in sub-therapeutic levels, rejection of transplanted organs, and graft loss.
 
 Rifabutin is known to increase the metabolism of other drugs metabolized by the cytochrome P-450 system.
 The interaction between rifabutin and cyclosporine has not been studied.
@@ -397,17 +397,17 @@ Renal function and blood pressure in these children were normal.
 
 Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using Cyclosporine Oral Solution USP MODIFIED in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of Cyclosporine Oral Solution USP MODIFIED.
 
-## Nursing mothers
+## Nursing Mothers
 
 Cyclosporine passes into breast milk.
 Mothers receiving treatment with Cyclosporine Oral Solution USP MODIFIED should not breast-feed.
 
-## Pediatric use
+## Pediatric Use
 
 Although no adequate and well-controlled studies have been completed in pediatric patients, transplant recipients as young as one year of age have received Cyclosporine Oral Solution USP MODIFIED with no unusual adverse effects.
 The safety and efficacy of Cyclosporine Oral Solution USP MODIFIED treatment in pediatric patients with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
 
-## Geriatric use
+## Geriatric Use
 
 In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
 These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥50% above the baseline after 3 to 4 months of therapy.
