@@ -105,7 +105,7 @@ What is lamotrigine?
 
 Lamotrigine is a prescription medicine used:
 
-1. together with other medicines to treat certain types of seizures (partial seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
+1. together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
 2. alone when changing from other medicines used to treat partial seizures in people 16 years or older.
 3. for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
 

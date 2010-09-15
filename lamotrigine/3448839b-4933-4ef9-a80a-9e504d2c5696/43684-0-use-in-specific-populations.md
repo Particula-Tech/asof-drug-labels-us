@@ -46,7 +46,7 @@ Because the effects on the infant exposed to lamotrigine by this route are unkno
 
 ## 8.4 Pediatric Use
 
-Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, and the generalized seizures of Lennox-Gastaut syndrome.
+Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, and the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
 
 Safety and efficacy of lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
 Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).

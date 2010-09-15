@@ -5,6 +5,7 @@
 Adjunctive Therapy: Lamotrigine tablets are indicated as adjunctive therapy for the following seizure types in patients ≥2 years of age:
 
 - partial seizures
+- primary generalized tonic-clonic seizures.
 - generalized seizures of Lennox-Gastaut syndrome
 
 Monotherapy: Lamotrigine tablets are indicated for conversion to monotherapy in adults (≥16 years of age) with partial seizures who are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED).

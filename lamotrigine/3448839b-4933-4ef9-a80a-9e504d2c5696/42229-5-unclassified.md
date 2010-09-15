@@ -7,7 +7,7 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8018998 Revised July 2009
+8021930 Revised April 2010
 
 Manufactured by:
 
@@ -18,4 +18,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8018998 Revised July 2009
+8021930 Revised April 2010
