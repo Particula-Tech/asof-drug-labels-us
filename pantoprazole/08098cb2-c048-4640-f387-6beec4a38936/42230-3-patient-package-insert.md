@@ -14,7 +14,8 @@ PROTONIX is a prescription medicine called a proton pump inhibitor (PPI).
 
 PROTONIX is used in adults for:
 
-- Short-term treatment of acid-related damage to the lining of the esophagus (erosive esophagitis) caused by gastroesophageal reflux disease (GERD)
+- Up to 8 weeks for short-term treatment of acid-related damage to the lining of the esophagus (erosive esophagitis) caused by gastroesophageal reflux disease (GERD).
+  If needed, your doctor may prescribe an additional 8 weeks of PROTONIX
 - Maintain healing of acid-related damage to the lining of the esophagus and helps prevent return of heartburn symptoms caused by GERD.
   PROTONIX has not been studied for treatment lasting longer than 1 year
 - Treating a rare condition called Zollinger-Ellison Syndrome, where the stomach makes more than the normal amount of acid
@@ -70,10 +71,18 @@ How should I take PROTONIX?
 
 What are the possible side effects of PROTONIX?
 
-PROTONIX can cause serious side effects including
+PROTONIX can cause serious side effects including:
 
 - Stomach lining weakening with long-term use
 - Vitamin B-12 deficiency
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with PROTONIX
+  - rash
+  - face swelling
+  - throat tightness
+  - difficult breathing
+
+Your doctor may stop PROTONIX if these symptoms happen.
 
 The most common side effects with PROTONIX in adults include:
 
@@ -84,6 +93,8 @@ The most common side effects with PROTONIX in children include:
 
 | Upper respiratory infectionHeadacheFeverDiarrhea | VomitingRashStomach pain |
 | --- | --- |
+
+People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
 Tell your doctor about any side effects that bother you or that do not go away.
 

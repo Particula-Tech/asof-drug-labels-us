@@ -82,7 +82,7 @@ Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
 Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema)
 
-Musculoskeletal Disorders: rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis, bone fracture
 
 Renal and Urinary Disorders: interstitial nephritis
 
