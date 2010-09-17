@@ -1,23 +1,19 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 120 ML LABEL
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 120 ML LABEL
 
 PharmaDerm®
 
 NDC 0462-0434-04
 
-CUTIVATE® (fluticasone propionate) Lotion, 0.05%
+CUTIVATE®
 
-For Topical Use Only – Not for ophthalmic, oral or intravaginal use.
+(fluticasone propionate)
 
-Rx only 120 mL
+Lotion, 0.05%
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 120 ML CARTON
+For Topical Use Only –
 
-PharmaDerm®
+Not for ophthalmic, oral
 
-NDC 0462-0434-04
-
-CUTIVATE® (fluticasone propionate) Lotion, 0.05%
-
-For Topical Use Only – Not for ophthalmic, oral or intravaginal use.
+or intravaginal use.
 
 Rx only 120 mL

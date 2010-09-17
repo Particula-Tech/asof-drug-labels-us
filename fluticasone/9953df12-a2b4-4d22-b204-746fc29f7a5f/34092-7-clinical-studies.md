@@ -6,7 +6,7 @@ Table 1 presents the percentage of patients who completely cleared of erythema, 
 
 Table 1: Complete Clearance Rate CUTIVATE® Lotion Vehicle
 
-|  | CUTIVATE®Lotion | Vehicle |
+|  | CUTIVATE® Lotion | Vehicle |
 | --- | --- | --- |
 | Study 1 | 9/45 (20%) | 0/37 (0%) |
 | Study 2 | 7/44 (16%) | 1/43 (2%) |

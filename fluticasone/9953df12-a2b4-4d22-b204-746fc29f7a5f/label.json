@@ -5,7 +5,8 @@
   "inn": "fluticasone",
   "labeler": "PharmaDerm, A division of Nycomed US Inc.",
   "package_ndcs": [
-    "0462-0434-04"
+    "0462-0434-04",
+    "0462-0434-60"
   ],
   "products": [
     {
