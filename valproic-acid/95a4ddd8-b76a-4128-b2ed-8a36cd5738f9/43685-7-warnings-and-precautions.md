@@ -115,7 +115,7 @@ In patients who develop unexplained lethargy and vomiting or changes in mental s
 Hyperammonemia should also be considered in patients who present with hypothermia [see Warnings and Precautions (5.9)]
 
 If ammonia is increased, valproate therapy should be discontinued.
-Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications and Warnings and Precautions (4, 5.4, 5.7)].
+Appropriate interventions for treatment of hyperammonemia should be initiated, and such patients should undergo investigation for underlying urea cycle disorders [see Contraindications (4) and Warnings and Precautions (5.4, 5.7)].
 
 Asymptomatic elevations of ammonia are more common and when present, require close monitoring of plasma ammonia levels.
 If the elevation persists, discontinuation of valproate therapy should be considered.
@@ -131,7 +131,7 @@ This adverse event is not due to a pharmacokinetic interaction.
 It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproic acid may exacerbate existing defects or unmask deficiencies in susceptible persons.
-In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.8)].
+In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.7)].
 
 ## 5.9 Hypothermia
 

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.8).
+See FDA-Approved Medication Guide.
 
 ## 17.1 Hepatotoxicity
 
@@ -38,4 +38,6 @@ Since valproate products may produce CNS depression, especially when combined wi
 
 Patients should be instructed that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.10)].
 
-## 17.8 FDA –Approved Patient Labeling
+Manufactured for: Noven Therapeutics, LLC 11960 SW 144th Street Miami, FL 33186
+
+Manufactured by: Banner Pharmacaps, Inc. 4125 Premier Drive High Point, NC 27265

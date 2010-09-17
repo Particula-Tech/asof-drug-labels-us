@@ -23,7 +23,7 @@ Caution should be observed if valproate and aspirin are to be co-administered.
 Carbapenem antibiotics A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (ertapenem, imipenem, meropenem) and may result in loss of seizure control.
 The mechanism of this interaction in not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.10)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.11)].
 
 Felbamate A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n=10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
 Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).

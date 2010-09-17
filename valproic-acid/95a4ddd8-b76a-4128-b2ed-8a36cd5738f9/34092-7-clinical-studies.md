@@ -48,7 +48,7 @@ Study 2
 | MSS Total Score |  |  |  |
 | Group | Baseline1 | BL to Day 212 | Difference3 |
 | Placebo | 18.9 | -2.5 |  |
-| Lithium | 18.5 | -6.5 | 3.7 |
+| Lithium | 18.5 | -6.2 | 3.7 |
 | Valproate | 18.9 | -6.0 | 3.5 |
 | BIS Total Score |  |  |  |
 | Group | Baseline1 | BL to Day 212 | Difference3 |

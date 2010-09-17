@@ -1,15 +1,15 @@
 PACKAGE LABEL.
-PRINCIPAL DISPLAY PANEL-250 mg-100 count
+PRINCIPAL DISPLAY PANEL-125 mg-100 count
 
-NDC 68968-3250-1
+NDC 68968-3125-1
 
-100 capsules
+100 Capsules
 
 Stavzor
 
 (valproic acid delayed release capsule)
 
-250 mg
+125 mg
 
 Mfg for: Noven Therapeutics, LLC 11960 SW 144th Street Miami, FL 33186
 

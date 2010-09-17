@@ -36,7 +36,7 @@ Dietary folic acid supplementation both prior to and during pregnancy should be 
 
 Other Adverse Pregnancy Effects
 
-Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.11)].
+Patients taking valproate may develop clotting abnormalities [see Warnings and Precautions (5.6)].
 A patient who had low fibrinogen when taking multiple anticonvulsants including valproate gave birth to an infant with afibrinogenemia who subsequently died of hemorrhage.
 If valproate is used in pregnancy, the clotting parameters should be monitored carefully.
 

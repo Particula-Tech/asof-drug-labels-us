@@ -258,7 +258,8 @@ Weakness.
 
 Hematologic
 
-Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.5)and Drug Interactions (7)].Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
+Thrombocytopenia and inhibition of the secondary phase of platelet aggregation may be reflected in altered bleeding time, petechiae, bruising, hematoma formation, epistaxis, and frank hemorrhage [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Relative lymphocytosis, macrocytosis, hypofibrinogenemia, leukopenia, eosinophilia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis, and acute intermittent porphyria.
 
 Hepatic
 
@@ -276,7 +277,7 @@ A cause and effect relationship has not been established.
 
 Pancreatic: Acute pancreatitis including fatalities [see Warnings and Precautions (5.3)].
 
-Metabolic: Hyperammonemia [see Warnings and Precautions (5.6)].,hyponatremia, and inappropriate ADH secretion.
+Metabolic: Hyperammonemia [see Warnings and Precautions (5.7)], hyponatremia, and inappropriate ADH secretion.
 
 There have been rare reports of Fanconi’s syndrome occurring chiefly in children.
 

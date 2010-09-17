@@ -21,7 +21,8 @@ Accordingly, the use of Stavzor in women of childbearing potential requires that
 This is especially important when the treatment of a spontaneously reversible condition not ordinarily associated with permanent injury or risk of death (eg. migraine) is contemplated.
 [see Warnings and Precautions (5.2)].
 
-An information sheet describing the teratogenic potential of valproate is available for patients.[see Patient Counseling Information (17.7)].
+An information sheet describing the teratogenic potential of valproate is available for patients.
+[see Patient Counseling Information (17)].
 
 Pancreatitis
 
