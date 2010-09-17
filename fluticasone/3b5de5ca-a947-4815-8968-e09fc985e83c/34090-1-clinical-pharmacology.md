@@ -13,7 +13,9 @@ The half-life of the fluticasone propionate-glucocorticoid receptor complex is a
 
 Studies performed with CUTIVATE® Cream indicate that it is in the medium range of potency as compared with other topical corticosteroids.
 
-Pharmacokinetics: Absorption: The activity of CUTIVATE® is due to the parent drug, fluticasone propionate.
+## Pharmacokinetics:
+
+Absorption: The activity of CUTIVATE® is due to the parent drug, fluticasone propionate.
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle and the integrity of the epidermal barrier.
 Occlusive dressing enhances penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
