@@ -60,7 +60,7 @@ If you have glaucoma or difficulty urinating due to an enlargement of the prosta
 
 If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ATROVENT Nasal Spray 0.03%.
 
-Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800)459-9906 TTY.
+Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
 
 Store tightly closed at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Avoid freezing.
@@ -70,6 +70,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
+Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: December 2007 IT4000BL0507 10001900/04
+Rev: July 2010
+
+IT4000DG1710 10001900/06

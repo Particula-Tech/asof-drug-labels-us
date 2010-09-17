@@ -8,7 +8,7 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800)459-9906 TTY.
+Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
 
 Patients should be reminded to read and follow the accompanying “Patient’s Instructions for Use”, which should be dispensed with the product.
 
@@ -16,6 +16,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-©Copyright Boehringer Ingelheim International GmbH 2007, ALL RIGHTS RESERVED
+Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: December 2007 IT4000BL0507 10001900/04
+Rev: July 2010
+
+IT4000DG1710 10001900/06
