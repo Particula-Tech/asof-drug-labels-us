@@ -82,10 +82,10 @@ Tests are available to determine a patient's CYP2C19 genotype.
 
 A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
 Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.
-When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3).
+When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 4).
 An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
-Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
+Table 4: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
 
 |  | Dose | Ultrarapid (n=10) | Extensive (n=10) | Intermediate (n=10) | Poor (n=10) |
 | --- | --- | --- | --- | --- | --- |
@@ -93,11 +93,11 @@ Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C1
 |  | 600 mg (24 h) | 36 (13) | 44 (27) | 39 (23) | 17 (6) |
 |  | 75 mg (Day 5) | 12 (6) | 13 (7) | 12 (5) | 4 (1) |
 |  | 150 mg (Day 5) | 16 (9) | 19 (5) | 18 (7) | 7 (2) |
-| IPA (%)Inhibition of platelet aggregation with 5µM ADP; larger value indicates greater platelet inhibition | 300 mg (24 h) | 40 (21) | 39 (28) | 37 (21) | 24 (26) |
+| IPA (%)Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition | 300 mg (24 h) | 40 (21) | 39 (28) | 37 (21) | 24 (26) |
 |  | 600 mg (24 h) | 51 (28) | 49 (23) | 56 (22) | 32 (25) |
 |  | 75 mg (Day 5) | 56 (13) | 58 (19) | 60 (18) | 37 (23) |
 |  | 150 mg (Day 5) | 68 (18) | 73 (9) | 74 (14) | 61 (14) |
-| VASP-PRI (%) Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 73 (12) | 68 (16) | 77 (12) | 91 (12) |
+| VASP-PRI (%) Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 73 (12) | 68 (16) | 78 (12) | 91 (12) |
 |  | 600 mg (24 h) | 51 (20) | 48 (20) | 56 (26) | 85 (14) |
 |  | 75 mg (Day 5) | 40 (9) | 39 (14) | 50 (16) | 83 (13) |
 |  | 150 mg (Day 5) | 20 (10) | 24 (10) | 29 (11) | 61 (18) |
@@ -105,6 +105,6 @@ Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C1
 
 Some published studies suggest that intermediate metabolizers have decreased active metabolite exposure and diminished antiplatelet effects.
 
-The relationship between CYP2C19 genotype and Plavix treatment outcome was evaluated in retrospective analyses of Plavix-treated subjects in CHARISMA (n=4862) and TRITON-TIMI 38 (n=1477), and in several published cohort studies.
+The relationship between CYP2C19 genotype and Plavix treatment outcome was evaluated in retrospective analyses of Plavix-treated subjects in CHARISMA (n=2428) and TRITON-TIMI 38 (n=1477), and in several published cohort studies.
 In TRITON-TIMI 38 and the majority of the cohort studies, the combined group of patients with either intermediate or poor metabolizer status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolizers.
 In CHARISMA and one cohort study, the increased event rate was observed only in poor metabolizers.

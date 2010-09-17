@@ -17,9 +17,9 @@ Patients were randomized to receive Plavix (300-mg loading dose followed by 75 m
 Patients also received aspirin (75–325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the Plavix-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%–28%; p < 0.001) for the Plavix-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the Plavix-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%–28%; p < 0.001) for the Plavix-treated group (see Table 5).
 
-Table 4: Outcome Events in the CURE Primary Analysis
+Table 5: Outcome Events in the CURE Primary Analysis
 
 |  | (n=6259) | (n=6303) |  |
 | --- | --- | --- | --- |
@@ -56,9 +56,9 @@ The primary endpoints were death from any cause and the first occurrence of re-i
 
 The patient population included 28% women, 58% age ≥ 60 years (26% age ≥ 70 years), 55% patients who received thrombolytics, 68% who received ACE-inhibitors, and only 3% who underwent PCI.
 
-As shown in Table 5 and Figures 3 and 4 below, Plavix significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
+As shown in Table 6 and Figures 3 and 4 below, Plavix significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
 
-Table 5: Outcome Events in the COMMIT Analysis
+Table 6: Outcome Events in the COMMIT Analysis
 
 | Event | Plavix (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Table 5: Outcome Events in the COMMIT Analysis
 | Figure 3: Cumulative Event Rates for Death in the COMMIT Study All treated patients received aspirin. |
 | --- |
 
-| Figure 4: Cumulative Event Rates for the Combined End point Re-Infarction, Stroke or Death in the COMMIT Study All treated patients received aspirin. |
+| Figure 4: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study All treated patients received aspirin. |
 | --- |
 
 The effect of Plavix did not differ significantly in various pre-specified subgroups as shown in Figure 5.
@@ -95,7 +95,7 @@ Patients received randomized treatment for an average of 1.6 years (maximum of 3
 The trial's primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death.
 Deaths not easily attributable to nonvascular causes were all classified as vascular.
 
-Table 6: Outcome Events in the CAPRIE Primary Analysis
+Table 7: Outcome Events in the CAPRIE Primary Analysis
 
 | Patients | n=9599 | n=9586 |
 | --- | --- | --- |
