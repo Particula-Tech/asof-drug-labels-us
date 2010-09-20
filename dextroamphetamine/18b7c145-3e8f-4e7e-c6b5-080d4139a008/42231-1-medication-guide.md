@@ -40,7 +40,6 @@ Before starting DEXEDRINE tell your or your child’s doctor about all health co
 - Heart problems, heart defects, high blood pressure
 - Mental problems including psychosis, mania, bipolar illness, or depression
 - Tics or Tourette’s syndrome
-- Liver or kidney problems
 - Thyroid problems
 - Seizures or have had an abnormal brain wave test (EEG)
 
@@ -91,7 +90,7 @@ Other serious side effects include:
 
 Common side effects include:
 
-- Fast heart beat
+- Fast heartbeat
 - Decreased appetite
 - Tremors
 - Headache

@@ -2,6 +2,8 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0007-3512-59
 
+5mg
+
 DEXEDRINE®
 
 DEXTROAMPHETAMINE SULFATE
@@ -43,6 +45,8 @@ Principal Display Panel
 
 NDC 0007-3513-59
 
+10 mg
+
 DEXEDRINE®
 
 DEXTROAMPHETAMINE SULFATE
@@ -54,8 +58,6 @@ SUSTAINED-RELEASE CAPSULES
 CII
 
 Federal Law requires dispensing of DEXEDRINE® with the Medication Guide provided with this bottle.
-
-10 mg
 
 90 Capsules
 
@@ -86,6 +88,8 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0007-3514-59
 
+15 mg
+
 DEXEDRINE®
 
 DEXTROAMPHETAMINE SULFATE
@@ -97,8 +101,6 @@ SUSTAINED-RELEASE CAPSULES
 CII
 
 Federal Law requires dispensing of DEXEDRINE® with the Medication Guide provided with this bottle.
-
-15 mg
 
 90 Capsules
 
