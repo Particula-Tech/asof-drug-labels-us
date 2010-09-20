@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090596"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-2045-01",
+    "0378-2045-05",
+    "0378-2046-01",
+    "0378-2046-05",
+    "0378-2047-01",
+    "0378-2047-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "45af3eda-caaa-4478-9372-95aa65adc9b3",
+  "source": "dailymed"
+}
