@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022410"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Reckitt Benckiser Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "12496-1202-1",
+    "12496-1202-3",
+    "12496-1208-1",
+    "12496-1208-3"
+  ],
+  "products": [
+    {
+      "form": "FILM, SOLUBLE",
+      "generic": "buprenorphine and naloxone",
+      "name": "Suboxone"
+    }
+  ],
+  "setid": "8a5edcf9-828c-4f97-b671-268ab13a8ecd",
+  "source": "dailymed"
+}
