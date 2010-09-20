@@ -7,8 +7,6 @@ There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 If you have questions about LAMICTAL XR, ask your healthcare provider or pharmacist.
 
-What is the most important information I should know about LAMICTAL XR?
-
 1.
 LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL XR; it may rarely cause death.
 

@@ -198,6 +198,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000045586
+
 Principal Display Panel
 
 NDC 0173-0759-00
@@ -244,6 +246,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000045582
+
 Principal Display Panel
 
 NDC 0173-0760-00
@@ -289,3 +293,5 @@ Weeks / Tablets per day
 Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000045590
