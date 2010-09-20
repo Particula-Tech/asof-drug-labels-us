@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020615"
+  ],
+  "inn": "clonidine",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-218-10",
+    "67457-219-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "clonidine hydrochloride",
+      "name": "Duraclon"
+    }
+  ],
+  "setid": "8c126bb8-732a-4949-8754-2f50b5543638",
+  "source": "dailymed"
+}
