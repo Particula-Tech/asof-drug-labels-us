@@ -2,7 +2,7 @@
 
 Nystop® Nystatin Topical Powder USP is supplied as 100,000 units nystatin per gram in 15 g, 30 g and 60 g plastic squeeze bottles.
 
-(NDC 0574-2008-15) (NDC 0574-2008-30) (NDC 0574-2008-02).
+(NDC 0574-2008-15) (NDC 0574-2008-30) (NDC 0574-2008-02)
 
 ## STORAGE
 

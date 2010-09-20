@@ -4,7 +4,8 @@
 
 Nystatin Topical Powder should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections.
 
-If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated.It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens.
+If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated.
+It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens.
 
 ## INFORMATION FOR THE PATIENT
 
@@ -30,7 +31,7 @@ No studies have been performed to determine the mutagenicity of nystatin or its 
 
 Category C. Animal reproduction studies have not been conducted with any nystatin topical preparation.
 It also is not known whether these preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity.
-Nystatin topical preparations should be prescribed for a pregnant woman only if the potential benefit to the mother out-weighs the potential risk to the fetus.
+Nystatin topical preparations should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus.
 
 ## Nursing Mothers
 
@@ -40,5 +41,4 @@ Caution should be exercised when nystatin is prescribed for a nursing woman.
 ## Pediatric Use
 
 Safety and effectiveness have been established in the pediatric population from birth to 16 years.
-
 (See DOSAGE AND ADMINISTRATION).

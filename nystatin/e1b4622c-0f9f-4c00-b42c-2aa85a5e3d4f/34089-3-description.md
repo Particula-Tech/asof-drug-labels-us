@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Nystatin is a polyene antifungal antibiotic obtained from Streptomyces nursei.The molecular formula for Nystatin is C47H75NO17.
+Nystatin is a polyene antifungal antibiotic obtained from Streptomyces nursei.
+The molecular formula for Nystatin is C47H75NO17.
 The molecular weight of Nystatin is 926.1.
-
 Structural formula:
 
 Nystatin Topical Powder USP is for dermatologic use.
