@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# Clinical Pharmacology
 
 Solifenacin is a competitive muscarinic receptor antagonist.
 Muscarinic receptors play an important role in several major cholinergically mediated functions, including contractions of urinary bladder smooth muscle and stimulation of salivary secretion.
@@ -38,7 +38,7 @@ The elimination half-life of solifenacin following chronic dosing is approximate
 ### Age
 
 Multiple dose studies of VESIcare in elderly volunteers (65 to 80 years) showed that Cmax, AUC and t1/2 values were 20-25% higher as compared to the younger volunteers (18 to 55 years).
-(See PRECAUTIONS, Geriatric Use).
+(See Precautions, Geriatric Use).
 
 ### Pediatric
 
@@ -56,13 +56,13 @@ The number of subjects of different races studied is not adequate to make any co
 
 VESIcare should be used with caution in patients with renal impairment.
 There is a 2.1-fold increase in AUC and 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) (see PRECAUTIONS, DOSAGE AND ADMINISTRATION).
+Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) (see Precautions, DOSAGE AND ADMINISTRATION).
 
 ### Hepatic Impairment
 
 VESIcare should be used with caution in patients with reduced hepatic function.
 There is a 2-fold increase in the t1/2 and 35% increase in AUC of solifenacin in patients with moderate hepatic impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) (see PRECAUTIONS, DOSAGE AND ADMINISTRATION).
+Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) (see Precautions, DOSAGE AND ADMINISTRATION).
 
 ## Drug-Drug Interactions
 
@@ -78,7 +78,7 @@ Inducers or inhibitors of CYP3A4 may alter solifenacin pharmacokinetics.
 ### Ketoconazole Interaction Study
 
 Following the administration of 10 mg of VESIcare in the presence of 400 mg of ketoconazole, a potent inhibitor of CYP3A4, the mean Cmax and AUC of solifenacin increased by 1.5 and 2.7-fold, respectively.
-Therefore, it is recommended not to exceed a 5 mg daily dose of VESIcare when administered with therapeutic doses of ketoconazole or other potent CYP3A4 inhibitors (see PRECAUTIONS, DOSAGE AND ADMINISTRATION).
+Therefore, it is recommended not to exceed a 5 mg daily dose of VESIcare when administered with therapeutic doses of ketoconazole or other potent CYP3A4 inhibitors (see Precautions, DOSAGE AND ADMINISTRATION).
 
 ### Oral Contraceptives
 

@@ -1,11 +1,11 @@
-# WARNINGS
+# Warnings
 
 Angioedema of the face, lips, tongue, and/or larynx have been reported with solifenacin.
 In some cases angioedema occurred after the first dose.
 Angioedema associated with upper airway swelling may be life threatening.
 If involvement of the tongue, hypopharynx, or larynx occurs, solifenacin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
 
-# PRECAUTIONS
+# Precautions
 
 ## Bladder Outflow Obstruction
 
@@ -24,21 +24,21 @@ VESIcare should be used with caution in patients being treated for narrow-angle 
 
 VESIcare should be used with caution in patients with reduced renal function.
 Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr <30 mL/min).
-(See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION)
+(See Clinical Pharmacology, DOSAGE AND ADMINISTRATION)
 
 ## Reduced Hepatic Function
 
 VESIcare should be used with caution in patients with reduced hepatic function.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C). (See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION)
+Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C). (See Clinical Pharmacology, DOSAGE AND ADMINISTRATION)
 
 ## Drug-Drug Interactions
 
 Do not exceed a 5 mg daily dose of VESIcare when administered with therapeutic doses of ketoconazole or other potent CYP3A4 inhibitors.
-(See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION)
+(See Clinical Pharmacology, DOSAGE AND ADMINISTRATION)
 
 ## Patients with Congenital or Acquired QT Prolongation
 
-In a study of the effect of solifenacin on the QT interval in 76 healthy women (See CLINICAL PHARMACOLOGY, Cardiac Electrophysiology), the QT prolonging effect appeared less with solifenacin 10 mg than with 30 mg (three times the maximum recommended dose), and the effect of solifenacin 30 mg did not appear as large as that of the positive control moxifloxacin at its therapeutic dose.
+In a study of the effect of solifenacin on the QT interval in 76 healthy women (See Clinical Pharmacology, Cardiac Electrophysiology), the QT prolonging effect appeared less with solifenacin 10 mg than with 30 mg (three times the maximum recommended dose), and the effect of solifenacin 30 mg did not appear as large as that of the positive control moxifloxacin at its therapeutic dose.
 This observation should be considered in clinical decisions to prescribe VESIcare for patients with a known history of QT prolongation or patients who are taking medications known to prolong the QT interval.
 
 ## Information for Patients
@@ -60,11 +60,11 @@ No increase in tumors was found following the administration of solifenacin succ
 
 Solifenacin succinate had no effect on reproductive function, fertility or early embryonic development of the fetus in male and female mice treated with 250 mg/kg/day (13 times exposure at the MRHD) of solifenacin succinate, and in male rats treated with 50 mg/kg/day (<1 times exposure at the MRHD) and female rats treated with 100 mg/kg/day (1.7 times exposure at the MRHD) of solifenacin succinate.
 
-## PREGNANCY
+## Pregnancy
 
 ### Teratogenic Effects, Pregnancy Category
 
-#### Pregnancy Category C
+Pregnancy Category C
 
 Reproduction studies have been performed in mice, rats and rabbits.
 After oral administration of 14C-solifenacin succinate to pregnant mice, drug-related material was shown to cross the placental barrier.

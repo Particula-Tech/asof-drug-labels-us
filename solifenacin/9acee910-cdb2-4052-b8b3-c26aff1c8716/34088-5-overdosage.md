@@ -3,7 +3,7 @@
 ## Acute
 
 Overdosage with VESIcare can potentially result in severe anticholinergic effects and should be treated accordingly.
-The highest case of accidental overdose of solifenacin succinate was 280 mg in a 5-hour period.
+The highest dose ingested in an accidental overdose of solifenacin succinate was 280 mg in a 5-hour period.
 This case was associated with mental status changes.
 Some cases reported a decrease in the level of consciousness.
 

@@ -103,7 +103,7 @@ The most common side effects with VESIcare are:
 - Constipation.
   Call your doctor if you get severe stomach area (abdominal) pain or become constipated for 3 or more days
 - Heat prostration.
-  Heat prostration (due to decreased sweating) can occur when drugs, such as VESIcare, are used in a hot environment.
+  Heat prostration (due to decreased sweating) can occur when drugs, such as VESIcare, are used in a hot environment
 
 Tell your doctor if you have any side effects that bother you or that do not go away.
 
