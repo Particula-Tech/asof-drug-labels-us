@@ -5,7 +5,7 @@
 The safety of intravenous esomeprazole is based on results from clinical trials conducted in three different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=206), patients with erosive esophagitis (n=246) and healthy subjects (n=204).
 Adverse experiences occurring in >1% of patients treated with intravenous esomeprazole (n=359) in trials irrespective of the relationship to NEXIUM are listed below by body system:
 
-Skin and appendages disorders: pruritus (1.1%);Central and peripheral nervous system disorders: dizziness (2.5%), headache (10.9%);Gastrointestinal system disorders: abdominal pain (5.8%), constipation (2.5%), diarrhea (3.9%), dyspepsia (6.4%), flatulence (10.3%), mouth dry (3.9%), nausea (6.4%);Respiratory system disorders: respiratory infection (1.1%), sinusitis (1.7%); Body as a whole − general disorders: AE associated with test procedure (23.1%); and Application site disorders: application site reaction (1.7%) (including mild focal erythema and pruritus at IV insertion site).
+Skin and appendages disorders: pruritus (1.1%); Central and peripheral nervous system disorders: dizziness (2.5%), headache (10.9%); Gastrointestinal system disorders: abdominal pain (5.8%), constipation (2.5%), diarrhea (3.9%), dyspepsia (6.4%), flatulence (10.3%), mouth dry (3.9%), nausea (6.4%); Respiratory system disorders: respiratory infection (1.1%), sinusitis (1.7%); Body as a whole − general disorders: AE associated with test procedure (23.1%); and Application site disorders: application site reaction (1.7%) (including mild focal erythema and pruritus at IV insertion site).
 
 Intravenous treatment with esomeprazole 20 and 40 mg administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole 20 and 40 mg.
 
@@ -15,7 +15,7 @@ The safety of oral NEXIUM was evaluated in over 15,000 patients (aged 18-84 year
 Over 2,900 patients were treated in long-term studies for up to 6-12 months.
 
 The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on NEXIUM 20 mg, 2,434 patients on NEXIUM 40 mg, and 3,008 patients on omeprazole 20 mg daily.
-The most frequently occurring adverse events (≥1%) in all three groups was headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
+The most frequently occurring adverse events (≥1%) in all three groups were headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
 Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
 Additional adverse events that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
@@ -33,7 +33,7 @@ The most common adverse events that were reported as possibly or probably relate
 Postmarketing Reports - There have been spontaneous reports of adverse events with postmarketing use of esomeprazole.
 These reports occurred rarely and are listed below by body system:
 
-Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; Infections and Infestations: GI candidiasis; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal).
+Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal).
 
 Other adverse events not observed with NEXIUM, but occurring with omeprazole can be found in the omeprazole package insert, ADVERSE REACTIONS section.
 

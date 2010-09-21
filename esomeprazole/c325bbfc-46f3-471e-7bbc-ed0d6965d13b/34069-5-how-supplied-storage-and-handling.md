@@ -9,17 +9,17 @@ NDC 0186-6040-01 one carton containing 10 vials of NEXIUM I.V. for Injection (ea
 ## Storage
 
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature].
+[See USP Controlled Room Temperature.]
 Protect from light.
 Store in carton until time of use.
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies
 
-©AstraZeneca 2005, 2006, 2007, 2008
+©AstraZeneca 2010
 
 AstraZeneca LP
 
 Wilmington, DE 19850
 
 Rev.
-March 2010
+August 2010

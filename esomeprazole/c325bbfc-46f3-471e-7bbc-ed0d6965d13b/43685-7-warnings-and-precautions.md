@@ -8,6 +8,14 @@ Atrophic gastritis has been noted occasionally in gastric corpus biopsies from p
 
 Treatment with NEXIUM I.V. for Injection should be discontinued as soon as the patient is able to resume treatment with NEXIUM Delayed-Release Capsules.
 
+Bone Fracture
+
+Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
+[see Dosage and Administration and ADVERSE REACTIONS]
+
 ## Drug Interactions
 
 Esomeprazole is extensively metabolized in the liver by CYP2C19 and CYP3A4.
