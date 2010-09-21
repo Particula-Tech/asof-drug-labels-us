@@ -1,6 +1,7 @@
 # WARNINGS
 
-Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
+Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
+If such a reaction occurs, therapy with ATROVENT Nasal Spray 0.06% should be stopped at once and alternative treatment should be considered.
 
 # PRECAUTIONS
 
@@ -18,10 +19,12 @@ Patients who experience eye pain, blurred vision, excessive nasal dryness or epi
 To ensure proper dosing, patients should be advised not to alter the size of the nasal spray opening.
 Patients should be reminded to carefully read and follow the accompanying Patient’s Instructions for Use.
 
+Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of ATROVENT, patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances, machinery, etc.
+
 ## Drug Interactions
 
 No controlled clinical trials were conducted to investigate potential drug-drug interactions.
-ATROVENT Nasal Spray 0.06% is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including ATROVENT for oral inhalation.
+There is potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including ATROVENT for oral inhalation.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -48,8 +51,7 @@ Because animal reproduction studies are not always predictive of human response,
 ## Nursing Mothers
 
 It is known that some ipratropium bromide is systemically absorbed following nasal administration; however the portion which may be excreted in human milk is unknown.
-Although lipid-insoluble quaternary cations pass into breast milk, the minimal systemic absorption makes it unlikely that ipratropium bromide would reach the infant in an amount sufficient to cause a clinical effect.
-However, because many drugs are excreted in human milk, caution should be exercised when ATROVENT Nasal Spray 0.06% is administered to a nursing mother.
+Because lipid-insoluble quaternary cations pass into breast milk, caution should be exercised when ATROVENT Nasal Spray 0.06% is administered to a nursing mother.
 
 ## Pediatric Use
 
