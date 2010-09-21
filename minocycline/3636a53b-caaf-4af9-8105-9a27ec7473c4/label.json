@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050444"
+  ],
+  "inn": "minocycline",
+  "labeler": "Triax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "14290-545-92"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocin"
+    }
+  ],
+  "setid": "3636a53b-caaf-4af9-8105-9a27ec7473c4",
+  "source": "dailymed"
+}
