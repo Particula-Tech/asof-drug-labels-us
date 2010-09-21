@@ -118,6 +118,7 @@ Because of this and the possibility of respiratory depression, Klonopin should b
 
 ## Information for Patients
 
+A Klonopin Medication Guide must be given to the patient each time Klonopin is dispensed, as required by law.
 Patients should be instructed to take Klonopin only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe Klonopin:
 

@@ -10,8 +10,9 @@ CIV
 
 Each tablet contains 0.5 mg clonazepam.
 
-100 tablets
+ATTENTION PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/products/information/klonopin.
 
-Rx only
+100 tablets Rx only
 
 Genentech
