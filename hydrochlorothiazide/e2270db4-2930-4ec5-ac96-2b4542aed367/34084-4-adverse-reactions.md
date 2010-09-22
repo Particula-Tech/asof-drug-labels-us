@@ -36,7 +36,7 @@ Vertigo, paresthesias, dizziness, headache, restlessness
 
 ## Renal
 
-Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS.)
+Renal failure, renal dysfunction, interstitial nephritis (See WARNINGS.)
 
 ## Skin
 

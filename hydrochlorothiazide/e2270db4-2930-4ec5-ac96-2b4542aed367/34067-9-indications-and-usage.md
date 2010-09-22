@@ -3,6 +3,7 @@
 Hydrochlorothiazide USP is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.
 
 Hydrochlorothiazide USP has also been found useful in edema due to various forms of renal dysfunction such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure.
+
 Hydrochlorothiazide USP is indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
 
 ## Use in Pregnancy

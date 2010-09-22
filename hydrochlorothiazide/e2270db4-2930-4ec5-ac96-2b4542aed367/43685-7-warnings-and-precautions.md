@@ -21,6 +21,7 @@ Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Inte
 All patients receiving diuretic therapy should be observed for evidence of ﬂuid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral ﬂuids.
 Warning signs or symptoms of ﬂuid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
 Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present or after prolonged therapy.
 
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
@@ -28,8 +29,10 @@ Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate th
 Hypokalemia may be avoided or treated by use of potassium sparing diuretics or potassium supplements such as foods with a high potassium content.
 
 Although any chloride deﬁcit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+
 Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening.
 In actual salt depletion, appropriate replacement is the therapy of choice.
+
 Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazides.
 
 In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
@@ -39,6 +42,7 @@ Thus latent diabetes mellitus may become manifest during thiazide therapy.
 The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
 
 If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
+
 Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
 
 Thiazides may decrease urinary calcium excretion.
