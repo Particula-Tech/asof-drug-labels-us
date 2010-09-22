@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA070027",
+    "ANDA070033"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Pliva Inc.",
+  "package_ndcs": [
+    "50111-333-01",
+    "50111-333-02",
+    "50111-333-06",
+    "50111-334-01",
+    "50111-334-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metronidazole",
+      "name": "Metronidazole"
+    }
+  ],
+  "setid": "291a45f6-ed27-4dcc-8364-358d08623797",
+  "source": "dailymed"
+}
