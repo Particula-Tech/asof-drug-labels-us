@@ -127,7 +127,7 @@ Table 4: % Endoscopic Healing – U.S. Study
 | 40 mg b.i.d. | 20 mg b.i.d. | Placebo |  |
 | (N = 127) | (N = 125) | (N = 66) |  |
 | Week 6 | 48†††, ‡‡ | 32 | 18 |
-| Week 12 | 69†††,‡ | 54††† | 29 |
+| Week 12 | 69†††, ‡ | 54††† | 29 |
 | ††† p≤0.01 vs. placebo‡ p≤0.05 vs. famotidine 20 mg b.i.d.‡‡ p≤0.01 vs. famotidine 20 mg b.i.d. |  |  |  |
 
 As compared to placebo, patients who received famotidine had faster relief of daytime and nighttime heartburn and a greater percentage of patients experienced complete relief of nighttime heartburn.
@@ -164,12 +164,12 @@ Table 6: Pharmacokinetic Parameters a of Intravenous Famotidine
 
 | Age (N=Number of Patients) | Area Under the Curve (AUC) (ng-hr/mL) | Total Clearance (CI) (L/hr/kg) | Volume of Distribution (Vd) (L/kg) | Elimination Half-life (T½) (hours) |
 | --- | --- | --- | --- | --- |
-| 0 to 1 month c(N=10) | NA | 0.13 ± 0.06 | 1.4 ± 0.4 | 10.5 ± 5.4 |
-| 0 to 3 months d (N=6) | 2688 ± 847 | 0.21 ± 0.06 | 1.8 ± 0.3 | 8.1 ± 3.5 |
-| >3 to 12 months d(N=11) | 1160 ± 474 | 0.49 ± 0.17 | 2.3 ± 0.7 | 4.5 ± 1.1 |
+| 0 to 1 monthc(N=10) | NA | 0.13 ± 0.06 | 1.4 ± 0.4 | 10.5 ± 5.4 |
+| 0 to 3 monthsd (N=6) | 2688 ± 847 | 0.21 ± 0.06 | 1.8 ± 0.3 | 8.1 ± 3.5 |
+| >3 to 12 monthsd(N=11) | 1160 ± 474 | 0.49 ± 0.17 | 2.3 ± 0.7 | 4.5 ± 1.1 |
 | 1 to 11 years (N=20) | 1089 ± 834 | 0.54 ± 0.34 | 2.07 ± 1.49 | 3.38 ± 2.60 |
 | 11 to 15 years (N=6) | 1140 ± 320 | 0.48 ± 0.14 | 1.5 ± 0.4 | 2.3 ± 0.4 |
-| Adult (N=16) | 1726 b | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
+| Adult (N=16) | 1726b | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
 | a Values are presented as means ± SD unless indicated otherwise.b Mean value only.c Single center study.d Multicenter study. |  |  |  |  |
 
 Plasma clearance is reduced and elimination half-life is prolonged in pediatric patients 0 to 3 months of age compared to older pediatric patients.
@@ -185,7 +185,7 @@ These data suggest that the relationship between serum concentration of famotidi
 
 Table 7: Pharmacodynamics of Famotidine Using The Sigmoid Emax Model
 
-|  | EC 50 (ng/mL)* |
+|  | EC50 (ng/mL)* |
 | --- | --- |
 | Pediatric Patients | 26 ± 13 |
 | Data from one study |  |
@@ -201,12 +201,12 @@ Table 8
 | Dosage | Route | Effecta | Number of Patients |
 | --- | --- | --- | --- |
 |  |  |  | (age range) |
-| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8) c | 11 (5 to 19 days) |
-| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7 b hours | 6 (2 to 7 years) |
+| 0.5 mg/kg, single dose | I.V. | gastric pH >4 for 19.5 hours (17.3, 21.8)c | 11 (5 to 19 days) |
+| 0.3 mg/kg, single dose | I.V. | gastric pH >3.5 for 8.7 ± 4.7b hours | 6 (2 to 7 years) |
 | 0.4 to 0.8 mg/kg | I.V. | gastric pH >4 for 6 to 9 hours | 18 (2 to 69 months) |
 | 0.5 mg/kg, single dose | I.V. | a >2 pH unit increase above baseline in gastric pH for >8 hours | 9 (2 to 13 years) |
-| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ±1.8 b hours | 4 (6 to 15 years) |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5 ±1.1 bhours | 4 (11 to 15 years) |
+| 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ±1.8b hours | 4 (6 to 15 years) |
+| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5 ±1.1b hours | 4 (11 to 15 years) |
 | a Values reported in published literature.bMeans ± SD.cMean (95% confidence interval). |  |  |  |
 
 The duration of effect of famotidine I.V.

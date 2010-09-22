@@ -4,6 +4,8 @@
 
 NDC 0172-5728-60
 
+New Product Appearance
+
 FAMOTIDINE
 
 Tablets USP
@@ -21,6 +23,8 @@ TEVA
 ## Famotidine Tabs 40mg 100s Label Text
 
 NDC 0172-5729-60
+
+New Product Appearance
 
 FAMOTIDINE
 
