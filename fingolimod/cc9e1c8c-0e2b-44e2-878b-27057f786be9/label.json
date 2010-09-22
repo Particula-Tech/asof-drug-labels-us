@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022527"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0607-51",
+    "0078-0607-89"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod hcl",
+      "name": "Gilenya"
+    }
+  ],
+  "setid": "cc9e1c8c-0e2b-44e2-878b-27057f786be9",
+  "source": "dailymed"
+}
