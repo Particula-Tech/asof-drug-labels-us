@@ -1,4 +1,4 @@
-# 6.0 ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -24,7 +24,7 @@ Liver Enzyme Elevations
 
 There have been reports of severe hepatic reactions including acute liver failure in patients receiving TNF-blockers.
 In controlled Phase 3 trials of SIMPONI in patients with RA, PsA, and AS through Week 16, ALT elevations ≥ 5 × ULN occurred in 0.2% of control-treated patients and 0.7% of SIMPONI-treated patients and ALT elevations ≥ 3 × ULN occurred in 2% of control-treated patients and 2% of SIMPONI-treated patients.
-Since many of the patients in the Phase 3 trials were also taking medications that cause liver enzyme elevations (e.g., NSAIDS, MTX), the relationship between golimumab and liver elevation is not clear.
+Since many of the patients in the Phase 3 trials were also taking medications that cause liver enzyme elevations (e.g., NSAIDs, MTX), the relationship between SIMPONI and liver enzyme elevation is not clear.
 
 Autoimmune Disorders and Autoantibodies
 
@@ -85,3 +85,9 @@ Adverse Drug Reactions Reported by ≥ 1% of Patients in the Phase 3 Trials of R
 | Pyrexia | 4 (< 1%) | 20 (1%) |
 | Oral herpes | 2 (< 1%) | 16 (1%) |
 | Paraesthesia | 2 (< 1%) | 16 (1%) |
+
+Less common clinical trial adverse drug reactions
+
+Adverse drug reactions that occurred <1% during the SIMPONI clinical trials included the following events listed by system organ class:
+
+Nervous system disorders: central nervous system demyelinating disorders (such as multiple sclerosis), peripheral demyelinating polyneuropathy

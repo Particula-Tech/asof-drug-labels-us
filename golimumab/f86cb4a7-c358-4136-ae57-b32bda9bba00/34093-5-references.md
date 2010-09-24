@@ -1,4 +1,4 @@
-# 15.0 REFERENCES
+# 15 REFERENCES
 
 1. SEER [database online].
    US Population Data – 1969–2004.

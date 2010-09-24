@@ -1,4 +1,4 @@
-# 2.0 DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Rheumatoid Arthritis, Psoriatic Arthritis, Ankylosing Spondylitis
 

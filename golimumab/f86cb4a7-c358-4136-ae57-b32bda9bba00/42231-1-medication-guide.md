@@ -1,4 +1,4 @@
-MEDICATION GUIDE SIMPONI™ (SIM-po-nee) (golimumab)
+MEDICATION GUIDE SIMPONI® (SIM-po-nee) (golimumab)
 
 Read the Medication Guide that comes with SIMPONI before you start taking it and each time you get a refill.
 There may be new information.
@@ -121,7 +121,7 @@ New or worse heart failure can happen in people who use TNF-blocker medicines li
 
 Nervous System Problems
 
-Rarely, people using TNF-blocker medicine have nervous system problems such as multiple sclerosis.
+Rarely, people using TNF-blocker medicines, including SIMPONI, have nervous system problems such as multiple sclerosis.
 
 - Tell your doctor right away if you get any of these symptoms:
   - vision changes

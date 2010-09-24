@@ -1,4 +1,4 @@
-Patient Instructions for Use SIMPONI™ (SIM-po-nee) (golimumab) SmartJect™ autoinjector
+Patient Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) SmartJect™ autoinjector
 
 If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
 Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
@@ -171,7 +171,7 @@ Step 4: After the injection
   Do not rub the injection site.
 - You may cover the injection site with a small adhesive bandage, if needed.
 
-Patient Instructions for Use SIMPONI™ Prefilled Syringe
+Patient Instructions for Use SIMPONI® Prefilled Syringe
 
 If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
 Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
@@ -327,6 +327,6 @@ Step 5: After the injection
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
-Revised: 11/2009
+Revised: 7/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

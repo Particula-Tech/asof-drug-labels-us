@@ -1,4 +1,4 @@
-# 1.0 INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Rheumatoid Arthritis
 

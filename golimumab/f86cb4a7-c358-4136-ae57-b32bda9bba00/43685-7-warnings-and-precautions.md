@@ -1,4 +1,4 @@
-# 5.0 WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 (see Boxed WARNINGS)
 
@@ -100,8 +100,10 @@ If a decision is made to administer SIMPONI to patients with CHF, these patients
 
 ## 5.4 Demyelinating Disorders
 
-Use of TNF-blockers has been associated with cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS).
-While no trials have been performed evaluating SIMPONI in the treatment of patients with MS, another TNF-blocker was associated with increased disease activity in patients with MS. Therefore, prescribers should exercise caution in considering the use of TNF-blockers including SIMPONI in patients with CNS demyelinating disorders including MS.
+Use of TNF-blockers, of which SIMPONI is a member, has been associated with cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS) and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+In clinical trials, cases of central demyelination, MS, and peripheral demyelinating polyneuropathy have been reported in patients treated with SIMPONI [see Adverse Reactions (6.1)].
+Prescribers should exercise caution in considering the use of TNF-blockers, including SIMPONI, in patients with central or peripheral nervous system demyelinating disorders.
+Discontinuation of SIMPONI should be considered if these disorders develop.
 
 ## 5.5 Use with Abatacept
 

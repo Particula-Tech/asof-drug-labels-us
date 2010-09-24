@@ -11,7 +11,7 @@ See package inset for dosing information.
 
 No U.S. standard of potency.
 
-This Product Contains Dy Natural Rubber.
+This Product Contains Dry Natural Rubber.
 
 Rx only.
 

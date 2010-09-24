@@ -1,4 +1,4 @@
-# 16.0 HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Each SIMPONI prefilled autoinjector or prefilled syringe is packaged in a light-blocking, cardboard outer carton.
 SIMPONI is available in packs of 1 prefilled syringe NDC 57894-070-01 or 1 prefilled SmartJect autoinjector NDC 57894-070-02.
