@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020355"
+  ],
+  "inn": "desmopressin",
+  "labeler": "CSL Behring LLC",
+  "package_ndcs": [
+    "0053-6871-00"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "desmopressin acetate",
+      "name": "Stimate"
+    }
+  ],
+  "setid": "30d4c387-b99c-49f8-a8bd-de23fdafb739",
+  "source": "dailymed"
+}
