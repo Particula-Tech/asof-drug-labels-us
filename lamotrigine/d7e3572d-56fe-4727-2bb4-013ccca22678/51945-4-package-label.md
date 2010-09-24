@@ -148,6 +148,44 @@ Made in England
 
 Principal Display Panel
 
+NDC 0173-0633-10
+
+LAMICTAL®
+
+(LAMOTRIGINE)
+
+TABLETS
+
+RX ONLY
+
+For patients TAKING valproate*
+
+*See prescribing information for other drugs that may affect dosing of LAMICTAL.
+
+STARTER KIT
+
+Contains: 35 25-mg Tablets
+
+| Weeks | Tablets per day |
+| --- | --- |
+| 1&2 | Take 1 (25 mg) tablet every OTHER day |
+| 3&4 | Take 1 (25 mg) tablets once a day |
+| 5 | Take 2 (25 mg) tablet once a day |
+
+Please check with your physician about proper maintenance dose before week 5.
+
+Each LAMICTAL 25 tablet contains 25 mg of lamotrigine
+
+CAUTION: Verify Product Dispensed
+
+Dispense the enclosed Medication Guide to each patient.
+
+GlaxoSmithKline
+
+10000000068085
+
+Principal Display Panel
+
 NDC 0173-0817-28
 
 LAMICTAL®
@@ -180,9 +218,11 @@ Each LAMICTAL 100 tablet contains 100 mg of lamotrigine
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the enclosed Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000068082
 
 Principal Display Panel
 
@@ -222,9 +262,11 @@ Each LAMICTAL 100 tablet contains 100 mg of lamotrigine
 
 CAUTION: Verify Product Dispensed
 
-Dispense the accompanying Medication Guide to each patient.
+Dispense the enclosed Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000068048
 
 Principal Display Panel
 
@@ -363,6 +405,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000060738
+
 Principal Display Panel
 
 NDC 0173-0774-02
@@ -390,6 +434,8 @@ CAUTION: Verify Product Dispensed
 Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000060775
 
 Principal Display Panel
 
@@ -419,6 +465,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000060771
+
 Principal Display Panel
 
 NDC 0173-0777-02
@@ -446,6 +494,8 @@ CAUTION: Verify Product Dispensed
 Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000060694
 
 Principal Display Panel
 
@@ -485,6 +535,8 @@ GlaxoSmithKline
 
 Visit www.LAMICTALODT.com for more information
 
+10000000071820
+
 Principal Display Panel
 
 NDC 0173-0780-00
@@ -522,6 +574,8 @@ CAUTION: Verify Product Dispensed
 GlaxoSmithKline
 
 Visit www.LAMICTALODT.com for more information\
+
+10000000071822
 
 Principal Display Panel
 
@@ -561,3 +615,5 @@ CAUTION: Verify Product Dispensed
 GlaxoSmithKline
 
 Visit www.LAMICTALODT.com for more information
+
+10000000071826

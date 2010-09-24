@@ -66,11 +66,11 @@ Meana Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With E
 | Single-dose LAMICTAL | 24 | 2.3(0.5-5.0) | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose LAMICTAL | 17 | 2.0(0.75-5.93) | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
+aThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
 
-b Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
+bCarbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Absorption: Lamotrigine is rapidly and completely absorbed after oral administration with negligible first-pass metabolism (absolute bioavailability is 98%).
@@ -131,21 +131,21 @@ Summary of Drug Interactions With LAMICTAL
 | Valproate + PHT and/or CBZ | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-a From adjunctive clinical trials and volunteer studies.
+aFrom adjunctive clinical trials and volunteer studies.
 
-b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
+bNet effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
 
-c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
 
-d Modest decrease in levonorgestrel.
+dModest decrease in levonorgestrel.
 
-e Not administered, but an active metabolite of carbamazepine.
+eNot administered, but an active metabolite of carbamazepine.
 
-f Slight decrease, not expected to be clinically relevant.
+fSlight decrease, not expected to be clinically relevant.
 
-g Not administered, but an active metabolite of oxcarbazepine.
+gNot administered, but an active metabolite of oxcarbazepine.
 
-h Slight increase, not expected to be clinically relevant.
+hSlight increase, not expected to be clinically relevant.
 
 ↔ = No significant effect.
 
@@ -234,7 +234,7 @@ Other: Results of in vitro experiments suggest that clearance of lamotrigine is 
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations: Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
+Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
@@ -243,7 +243,7 @@ The patients with severe hepatic impairment were without ascites (n = 2) or with
 The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Age: Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
+Age:Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
 Forty-three patients received concomitant therapy with other AEDs and 12 patients received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 
@@ -273,12 +273,12 @@ Mean Pharmacokinetic Parameters in Pediatric Patients With Epilepsy
 | Patients taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | c | c | 0.5 |
 | Patients taking valproate only | 4 | c | c | 0.3 |
 
-a Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
+aCarbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and rifampin have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
-b Two subjects were included in the calculation for mean Tmax.
+bTwo subjects were included in the calculation for mean Tmax.
 
-c Parameter not estimated.
+cParameter not estimated.
 
 Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of LAMICTAL were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).

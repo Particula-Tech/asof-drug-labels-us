@@ -2,33 +2,33 @@
 
 LAMICTAL (lamotrigine) Tablets
 
-25 mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25", bottles of 100 (NDC 0173-0633-02).
+25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25”, bottles of 100 (NDC 0173-0633-02).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
 
-100 mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and "100", bottles of 100 (NDC 0173-0642-55).
+100 mg, peach, scored, shield-shaped tablets debossed with “LAMICTAL” and “100”, bottles of 100 (NDC 0173-0642-55).
 
-150 mg, cream, scored, shield-shaped tablets debossed with "LAMICTAL" and "150", bottles of 60 (NDC 0173-0643-60).
+150 mg, cream, scored, shield-shaped tablets debossed with “LAMICTAL” and “150”, bottles of 60 (NDC 0173-0643-60).
 
-200 mg, blue, scored, shield-shaped tablets debossed with "LAMICTAL" and "200", bottles of 60 (NDC 0173-0644-60).
+200 mg, blue, scored, shield-shaped tablets debossed with “LAMICTAL” and “200”, bottles of 60 (NDC 0173-0644-60).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 LAMICTAL (lamotrigine) Starter Kit for Patients Taking Valproate (Blue Kit)
 
-25 mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25", blisterpack of 35 tablets (NDC 0173-0633-10).
+25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25”, blisterpack of 35 tablets (NDC 0173-0633-10).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
 
 LAMICTAL (lamotrigine) Starter Kit for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone and Not Taking Valproate (Green Kit)
 
-25 mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25" and 100 mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and “100”, blisterpack of 98 tablets (84/25-mg tablets and 14/100-mg tablets) (NDC 0173-0817-28).
+25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25” and 100 mg, peach, scored, shield-shaped tablets debossed with “LAMICTAL” and “100”, blisterpack of 98 tablets (84/25-mg tablets and 14/100-mg tablets) (NDC 0173-0817-28).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 LAMICTAL (lamotrigine) Starter Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate (Orange Kit)
 
-25 mg, white, scored, shield-shaped tablets debossed with "LAMICTAL" and "25" and 100 mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and “100”, blisterpack of 49 tablets (42/25-mg tablets and 7/100-mg tablets) (NDC 0173-0594-02).
+25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25” and 100 mg, peach, scored, shield-shaped tablets debossed with “LAMICTAL” and “100”, blisterpack of 49 tablets (42/25-mg tablets and 7/100-mg tablets) (NDC 0173-0594-02).
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 

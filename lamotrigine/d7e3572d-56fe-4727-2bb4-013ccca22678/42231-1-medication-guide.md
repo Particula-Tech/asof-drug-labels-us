@@ -23,7 +23,7 @@ The risk of getting a rash is higher if you:
 
 - take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))
 - take a higher starting dose of LAMICTAL than your healthcare provider prescribed
-- increase your dose of LAMICTAL faster than prescribed
+- increase your dose of LAMICTAL faster than prescribed.
 
 LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
@@ -264,4 +264,4 @@ All rights reserved.
 
 May 2009
 
-LMT:2MG
+LMT: 2MG

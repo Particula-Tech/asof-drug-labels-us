@@ -116,7 +116,7 @@ To avoid the medication error of using the wrong drug or formulation, patients s
 ## 5.8 Concomitant Use With Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
-Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL [see Dosage and Administration (2.1)].
+Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking LAMICTAL[see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (“pill-free” week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 

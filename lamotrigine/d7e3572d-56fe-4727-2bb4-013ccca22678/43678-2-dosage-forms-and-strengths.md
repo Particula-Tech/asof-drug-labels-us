@@ -4,11 +4,11 @@
 
 25 mg, white, scored, shield-shaped tablets debossed with “LAMICTAL” and “25”
 
-100 mg, peach, scored, shield-shaped tablets debossed with "LAMICTAL" and "100"
+100 mg, peach, scored, shield-shaped tablets debossed with “LAMICTAL” and “100”
 
-150 mg, cream, scored, shield-shaped tablets debossed with "LAMICTAL" and "150"
+150 mg, cream, scored, shield-shaped tablets debossed with “LAMICTAL” and “150”
 
-200 mg, blue, scored, shield-shaped tablets debossed with "LAMICTAL" and "200"
+200 mg, blue, scored, shield-shaped tablets debossed with “LAMICTAL” and “200”
 
 ## 3.2 Chewable Dispersible Tablets
 
