@@ -113,3 +113,30 @@ Research Triangle Park, NC 27709
 Made in Singapore
 
 ©2008, GlaxoSmithKline
+
+# Principal Display Panel
+
+NDC 0173-0479-00
+
+IMITREX
+
+STATdose SYSTEM®
+
+6 mg
+
+This carton contains:
+
+- Imitrex®
+
+(sumatriptan succinate)
+
+Injection
+
+2 prefilled 0.5-mL syringe cartridges, each containing 6 mg of sumatriptan for subcutaneous injection only
+
+- 1 Imitrex STATdose Pen®
+- 1 Carrying Case
+- Instructions for Use/Information for the Patient
+- Prescribing Information
+
+Rx only
