@@ -1,40 +1,31 @@
-# Principal Display Panel - Sample Bottle
+# Principal Display Panel - Bottle
 
-NDC 18860-490-00
+NDC 18860-480-01
 
-Rx Only
+Rx Only ELESTRIN®
 
-Elestrin™ estradiol gel 0.06%
-
-0.87 grams of gel which contains 0.52 mg estradiol per actuation 12 metered actuations
-
-16 grams net fill weight
+estradiol gel 0.06%
 
 FOR TOPICAL USE ONLY
 
-GELS ARE FLAMMABLE AVOID FIRE, FLAME OR SMOKING DURING APPLICATION
+Metered dose pump container delivering 26 grams gel as 30 metered actuations.
 
-SAMPLE.
-NOT FOR SALE.
+Gels are flammable.
+Avoid fire, flame, or smoking during application.
 
 AZUR PHARMA
 
-# Principal Display Panel - Sample Carton
+# Principal Display Panel - Carton
 
-NDC 18860-490-00
+NDC 18860-480-60
 
-SAMPLE.
-NOT FOR SALE.
+Rx Only ELESTRIN®
 
-Rx Only
-
-Elestrin™ estradiol gel 0.06%
+estradiol gel 0.06%
 
 FOR TOPICAL USE ONLY
 
-0.87 grams of gel which contains 0.52 mg of estradiol per actuation 12 metered actuations
-
-16 grams net fill weight
+2 metered dose pump containers each delivering 26 grams gel as 30 metered actuations.
 
 Attention pharmacist: Dispense with enclosed Patient Information leaflet.
 

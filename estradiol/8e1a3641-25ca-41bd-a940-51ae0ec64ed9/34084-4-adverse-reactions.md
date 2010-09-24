@@ -5,12 +5,12 @@ See BOXED WARNINGS, WARNINGS and PRECAUTIONS.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
-Elestrin was studied in a placebo-controlled trial that included a total of 484 postmenopausal women.
+Elestrin® was studied in a placebo-controlled trial that included a total of 484 postmenopausal women.
 The adverse events that occurred at a rate greater than 5% in any of the treatment groups are summarized in Table 5.
 
 TABLE 5 - Incidence of Treatment-Emergent Adverse Events Occurring in ≥ 5% of Subjects
 
-| Placebo (n = 137) | Elestrin 0.87 g/day (n = 136) | Elestrin 1.7 g/day (n = 142) |  |
+| Placebo (n = 137) | Elestrin® 0.87 g/day (n = 136) | Elestrin® 1.7 g/day (n = 142) |  |
 | --- | --- | --- | --- |
 | Body System / Signs and Symptoms | Number (%) of Subjects |  |  |
 | Reproductive system & breast disorders |  |  |  |

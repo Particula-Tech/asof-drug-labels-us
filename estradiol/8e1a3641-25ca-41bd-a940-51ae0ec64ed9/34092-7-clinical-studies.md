@@ -2,16 +2,16 @@
 
 ## Effects On Vasomotor Symptoms
 
-A randomized, double-blind, placebo-controlled clinical trial evaluated the efficacy of 12-week treatment with three different daily doses of Elestrin for the treatment of vasomotor symptoms in 484 postmenopausal women between 28 and 74 years of age (mean 54 years; 83-88% Caucasian per group) who had at least 60 moderate-to-severe hot flushes per week at baseline.
-Subjects applied placebo, Elestrin 0.87 g (0.52 mg estradiol), 1.7 g (1.04 mg estradiol), or 2.6 g (1.56 mg estradiol) once daily to the upper arm.
-Reduction in both the frequency and severity of moderate-to-severe hot flushes was statistically significant for the Elestrin 1.7 g/day dose compared to placebo at week 4.
-Statistically significant reductions in both the frequency and severity of moderate-to-severe hot flushes when compared to placebo were delayed for the Elestrin 0.87 g/day dose to week 5.
+A randomized, double-blind, placebo-controlled clinical trial evaluated the efficacy of 12-week treatment with three different daily doses of Elestrin® for the treatment of vasomotor symptoms in 484 postmenopausal women between 28 and 74 years of age (mean 54 years; 83-88% Caucasian per group) who had at least 60 moderate-to-severe hot flushes per week at baseline.
+Subjects applied placebo, Elestrin® 0.87 g (0.52 mg estradiol), 1.7 g (1.04 mg estradiol), or 2.6 g (1.56 mg estradiol) once daily to the upper arm.
+Reduction in both the frequency and severity of moderate-to-severe hot flushes was statistically significant for the Elestrin® 1.7 g/day dose compared to placebo at week 4.
+Statistically significant reductions in both the frequency and severity of moderate-to-severe hot flushes when compared to placebo were delayed for the Elestrin® 0.87 g/day dose to week 5.
 Both the 0.87 g/day and 1.7 g/day doses were statistically significant compared to placebo at week 12.
 The reductions in frequency and severity are shown in Table 2.
 
-TABLE 2 - Mean Change From Baselinea in the Number and Severity of Hot Flushes after Elestrin Treatment
+TABLE 2 - Mean Change From Baselinea in the Number and Severity of Hot Flushes after Elestrin® Treatment
 
-| Evaluation |  | Placebo (N=137) | Elestrin 0.87 g/day (N=136) | Elestrin 1.7 g/day (N=142) |
+| Evaluation |  | Placebo (N=137) | Elestrin® 0.87 g/day (N=136) | Elestrin® 1.7 g/day (N=142) |
 | --- | --- | --- | --- | --- |
 | Number of Daily Hot Flushes |  |  |  |  |
 | Baseline (Mean ± SD)b |  | 13.5 ± 4.5 | 13.3± 4.6 | 13.1 ± 6.5 |

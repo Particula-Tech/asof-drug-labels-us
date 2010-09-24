@@ -18,9 +18,9 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ### A. Absorption
 
-Steady-state serum concentrations of estradiol are achieved in approximately 3 days following daily application of Elestrin to the upper arm.
+Steady-state serum concentrations of estradiol are achieved in approximately 3 days following daily application of Elestrin® to the upper arm.
 
-Pharmacokinetic parameters for estradiol on Day 14 following daily application of 0.87 g or 1.7 g of Elestrin are summarized in Table 1.
+Pharmacokinetic parameters for estradiol on Day 14 following daily application of 0.87 g or 1.7 g of Elestrin® are summarized in Table 1.
 The nominal mean delivery rates of estradiol using the baseline-adjusted average serum concentrations from pharmacokinetic studies using 0.87 g/day and 1.7 g/day are 0.012 mg/day and 0.041 mg/day, respectively.
 
 TABLE 1 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dosing
@@ -38,9 +38,9 @@ TABLE 1 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dos
 
 Mean concentrations of estradiol over a 24-hour period on Day 14 are shown in Figure 1.
 
-Application of sunscreen 10 minutes before application of Elestrin increased the exposure to estradiol by approximately 55%.
+Application of sunscreen 10 minutes before application of Elestrin® increased the exposure to estradiol by approximately 55%.
 No significant change in estradiol exposure was observed when sunscreen was applied 25 minutes after application of Elestrin.
-In the same study, prolonged (7 days) concomitant application of sunscreen to the site of Elestrin application increased exposure to estradiol by about 2-fold, regardless of whether it was applied before or after application of Elestrin.
+In the same study, prolonged (7 days) concomitant application of sunscreen to the site of Elestrin® application increased exposure to estradiol by about 2-fold, regardless of whether it was applied before or after application of Elestrin®.
 
 ### B. Distribution
 
@@ -64,7 +64,7 @@ Estradiol, estrone and estriol are excreted in the urine along with glucuronide 
 
 ### E. Special Populations
 
-Elestrin has been studied only in postmenopausal women.
+Elestrin® has been studied only in postmenopausal women.
 No pharmacokinetic studies were conducted in special populations, including patients with renal or hepatic impairment or any other special populations.
 
 ### F. Drug Interactions
@@ -77,7 +77,7 @@ Inhibitors of CYP3A4, such as erythromycin, clarithromycin, ketoconazole, itraco
 ### G. Estradiol Transfer
 
 The potential for estradiol transfer between treated postmenopausal female subjects and their untreated male partners was evaluated.
-Two and 8 hours after women applied 2.6 g Elestrin to one arm (12 women per time point), they engaged in direct arm-to-arm contact with a male partner for 5 minutes.
+Two and 8 hours after women applied 2.6 g Elestrin® to one arm (12 women per time point), they engaged in direct arm-to-arm contact with a male partner for 5 minutes.
 No significant changes in estradiol pharmacokinetic parameters were observed in the male partners after contact.
 
 Less than 10% of the estradiol dose was measured on the skin at 2 and 8 hours after application.

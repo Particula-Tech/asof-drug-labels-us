@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Estrogen products, including Elestrin, should not be used in women with any of the following conditions:
+Estrogen products, including Elestrin®, should not be used in women with any of the following conditions:
 
 1. Undiagnosed abnormal genital bleeding.
 2. Known, suspected, or history of cancer of the breast.
@@ -8,8 +8,8 @@ Estrogen products, including Elestrin, should not be used in women with any of t
 4. Active deep vein thrombosis, pulmonary embolism, or history of these conditions.
 5. Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
 6. Liver dysfunction or disease.
-7. Known hypersensitivity to the ingredients of Elestrin.
+7. Known hypersensitivity to the ingredients of Elestrin®.
 8. Known or suspected pregnancy.
-   There is no indication for Elestrin in pregnancy.
+   There is no indication for Elestrin® in pregnancy.
    There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
    (See PRECAUTIONS.)

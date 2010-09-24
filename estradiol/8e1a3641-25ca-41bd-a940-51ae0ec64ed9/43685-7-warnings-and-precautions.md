@@ -65,7 +65,7 @@ Adequate diagnostic measures, including endometrial sampling when indicated, sho
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-In a 12-week clinical trial, one case of complex hyperplasia with atypia was reported in the Elestrin 1.7 g/day dose.
+In a 12-week clinical trial, one case of complex hyperplasia with atypia was reported in the Elestrin® 1.7 g/day dose.
 
 ### b. Breast Cancer
 
@@ -190,15 +190,15 @@ Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epileps
 
 ### 11. Photosensitivity/Photoallergy
 
-Increased sensitivity to direct exposure to the sun on areas of Elestrin application has not been evaluated.
+Increased sensitivity to direct exposure to the sun on areas of Elestrin® application has not been evaluated.
 
 ### 12. Sunscreen application
 
-Estradiol absorption was increased when sunscreen was applied 10 minutes before Elestrin application.
+Estradiol absorption was increased when sunscreen was applied 10 minutes before Elestrin®application.
 Sunscreen should not be applied to the same site until at least 25 minutes after the application of Elestrin.
 
-Concomitant application of sunscreen and Elestrin to the same application site for 7 or more days may increase estradiol absorption.
-Avoid applying sunscreen to the area of Elestrin application for an extended period of 7 or more days.
+Concomitant application of sunscreen and Elestrin® to the same application site for 7 or more days may increase estradiol absorption.
+Avoid applying sunscreen to the area of Elestrin® application for an extended period of 7 or more days.
 (See CLINICAL PHARMACOLOGY, Absorption.)
 
 ### 13. Miscellaneous
@@ -208,7 +208,7 @@ Avoid fire, flame, or smoking until the gel has dried.
 
 ## B. Information for Patients
 
-Physicians are advised to discuss the Patient Information leaflet with patients for whom they prescribe Elestrin.
+Physicians are advised to discuss the Patient Information leaflet with patients for whom they prescribe Elestrin®.
 
 ## C. Laboratory Tests
 
@@ -252,7 +252,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## I. Geriatric Use
 
-Clinical studies of Elestrin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Elestrin® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Of the total number of subjects in the estrogen-alone substudy of the WHI study, 46% (n = 4,943) were 65 years and older, while 7.1% (n = 767) were 75 years and older.
 There was a higher relative risk (CE versus placebo) of stroke in women less than 75 years of age compared to women 75 years and older.

@@ -23,11 +23,11 @@ It is unknown whether this finding applies to younger postmenopausal women.
 Other doses of conjugated equine estrogens with medroxyprogesterone acetate and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials and, in the absence of comparable data, these risks should be assumed to be similar.
 Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
 
-WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ELESTRIN (AN ESTROGEN HORMONE)?
+WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT Elestrin® (AN ESTROGEN HORMONE)?
 
 - Estrogens increase the chances of getting cancer of the uterus.
 
-Report any unusual vaginal bleeding right away while you are using Elestrin.
+Report any unusual vaginal bleeding right away while you are using Elestrin®.
 Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
 Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 
@@ -38,4 +38,4 @@ Using estrogens with or without progestins may increase your chances of getting 
 - Do not use estrogens with or without progestins to prevent dementia.
 - Using estrogens with or without progestins may increase your risk of dementia, based on a study of women age 65 years or older.
 
-You and your healthcare provider should talk regularly about whether you still need treatment with Elestrin.
+You and your healthcare provider should talk regularly about whether you still need treatment with Elestrin®.

@@ -5,8 +5,9 @@
   "inn": "estradiol",
   "labeler": "Azur Pharma Inc.",
   "package_ndcs": [
-    "18860-490-00",
-    "18860-490-02"
+    "18860-480-01",
+    "18860-480-30",
+    "18860-480-60"
   ],
   "products": [
     {
