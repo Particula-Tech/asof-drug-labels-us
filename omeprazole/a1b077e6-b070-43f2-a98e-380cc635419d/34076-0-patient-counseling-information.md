@@ -34,3 +34,5 @@ PRILOSEC is a trademark of the AstraZeneca group of companies.
 ©AstraZeneca 2010
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+
+Rev August 2010

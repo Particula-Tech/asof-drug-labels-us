@@ -53,9 +53,9 @@ This finding is believed to be a manifestation of the underlying condition, whic
 
 Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
-Metabolic/Nutritional: Hypoglycemia, hyponatremia, weight gain
+Metabolic/Nutritional: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
 
-Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain
+Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 
 Nervous System/Psychiatric: Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo
 
