@@ -11,8 +11,10 @@ Below 30°C (86°F); tight container.
 
 Rx only
 
+Keep out of reach of children.
+
 Watson Laboratories, Inc. Corona, CA 92880 USA
 
-Revised: January 2007
+Revised: March 2009
 
-BAPAPCC01/07 S0107
+184181 S0309

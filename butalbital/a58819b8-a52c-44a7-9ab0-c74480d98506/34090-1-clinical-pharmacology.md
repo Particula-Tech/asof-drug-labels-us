@@ -1,8 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Butalbital, Acetaminophen, Caffeine and Codeine Phosphate Capsules is a combination drug product intended as a treatment for tension headache.
+Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is a combination drug product intended as a treatment for tension headache.
 
-Butalbital, Acetaminophen, and Caffeine Tablets, USP consists of a fixed combination of butalbital 50 mg, acetaminophen 325 mg, and caffeine 40 mg.
+Butalbital, Acetaminophen, and Caffeine Tablets, USP consists of a fixed combination of butalbital 50 mg, acetaminophen 325 mg and caffeine 40 mg.
 The role each component plays in the relief of the complex of symptoms known as tension headache is incompletely understood.
 
 ## Pharmacokinetics
@@ -23,7 +23,7 @@ The remainder of the dose is excreted in the feces.
 
 At therapeutic doses, the analgesic effect reaches a peak within 2 hours and persists between 4 and 6 hours.
 
-SeeOVERDOSAGE for toxicity information.
+See OVERDOSAGE for toxicity information.
 
 Butalbital
 
@@ -40,7 +40,7 @@ The in vitro plasma protein binding of butalbital is 45% over the concentration 
 This falls within the range of plasma protein binding (20%-45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
 The plasma-to-blood concentration ratio was almost unity indicating that there is no preferential distribution of butalbital into either plasma or blood cells.
 
-SeeOVERDOSAGE for toxicity information.
+See OVERDOSAGE for toxicity information.
 
 Caffeine
 
@@ -51,7 +51,7 @@ The plasma half-life is about 3 hours.
 Hepatic biotransformation prior to excretion results in about equal amounts of 1-methylxanthine and 1-methyluric acid.
 Of the 70% of the dose that is recovered in the urine, only 3% is unchanged drug.
 
-SeeOVERDOSAGE for toxicity information.
+See OVERDOSAGE for toxicity information.
 
 Acetaminophen
 
@@ -60,4 +60,4 @@ The plasma half-life is 1.25-3 hours, but may be increased by liver damage and f
 Elimination of acetaminophen is principally by liver metabolism (conjugation) and subsequent renal excretion of metabolites.
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
 
-SeeOVERDOSAGE for toxicity information.
+See OVERDOSAGE for toxicity information.

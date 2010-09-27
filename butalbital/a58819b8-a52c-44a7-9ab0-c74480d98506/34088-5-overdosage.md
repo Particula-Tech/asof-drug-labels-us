@@ -46,6 +46,10 @@ Hepatic enzymes should be obtained initially, and repeated at 24-hour intervals.
 
 Methemoglobinemia over 30% should be treated with methylene blue by slow intravenous administration.
 
-## Toxic doses (for adults)
+## Toxic Doses (for adults)
 
-Butalbital: toxic dose 1 g (20 capsules) Acetaminophen: toxic dose 10 g (30 capsules) Caffeine: toxic dose 1 g (25 capsules) Codeine: toxic dose 240 mg (8 capsules)
+| Butalbital: | toxic dose 1 g (20 capsules) |
+| --- | --- |
+| Acetaminophen: | toxic dose 10 g (30 capsules) |
+| Caffeine: | toxic dose 1 g (25 capsules) |
+| Codeine: | toxic dose 240 mg (8 capsules) |

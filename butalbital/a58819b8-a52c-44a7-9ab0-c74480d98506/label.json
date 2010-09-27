@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020232"
+  ],
   "inn": "butalbital",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
     "0591-3220-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "butalbital, acetaminophen, caffeine, and codeine phosphate",
+      "name": "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+    }
+  ],
   "setid": "a58819b8-a52c-44a7-9ab0-c74480d98506",
   "source": "dailymed"
 }

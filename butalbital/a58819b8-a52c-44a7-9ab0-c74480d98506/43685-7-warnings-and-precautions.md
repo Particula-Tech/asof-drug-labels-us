@@ -25,7 +25,7 @@ The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 
 Data is not available for other ethnic groups.
 
 When physicians prescribe codeine-containing drugs, they should choose the lowest effective dose for the shortest period of time and should inform their patients about these risks and the signs of morphine overdose.
-(SeePRECAUTIONS, Nursing Mothers)
+(See PRECAUTIONS, Nursing Mothers)
 
 ## Information for Patients
 
@@ -37,7 +37,7 @@ Alcohol and other CNS depressants may produce an additive CNS depression, when t
 Codeine and butalbital may be habit-forming.
 Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
 
-For information on use in geriatric patients, seePRECAUTIONS, Geriatric Use.
+For information on use in geriatric patients, see PRECAUTIONS, Geriatric Use.
 
 Caution patients that some people have a variation in a liver enzyme and change codeine into morphine more rapidly and completely than other people.
 These people are ultra-rapid metabolizers and are more likely to have higher-than-normal levels of morphine in their blood after taking codeine which can result in overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
@@ -112,7 +112,7 @@ If a codeine containing product is selected, the lowest dose should be prescribe
 Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
 Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion or shallow breathing.
 Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding.
-(SeePRECAUTIONS, General, Ultra-rapid Metabolizers of Codeine)
+(See PRECAUTIONS, General, Ultra-rapid Metabolizers of Codeine)
 
 ## Pediatric Use
 
