@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040161"
+  ],
   "inn": "dicyclomine",
-  "labeler": "West-ward Pharmaceutical Corp.",
+  "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-1227-01",
     "0143-1227-10",
     "0143-1227-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Dicyclomine"
+    }
+  ],
   "setid": "5a553bda-1e3d-4b80-913f-73dd54655033",
   "source": "dailymed"
 }

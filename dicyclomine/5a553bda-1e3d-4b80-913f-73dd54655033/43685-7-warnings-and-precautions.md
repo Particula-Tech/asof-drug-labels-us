@@ -16,11 +16,13 @@ These CNS signs and symptoms usually resolve within 12 to 24 hours after discont
 DICYCLOMINE IS CONTRAINDICATED IN INFANTS LESS THAN 6 MONTHS OF AGE AND IN NURSING MOTHERS.
 (See CONTRAINDICATIONS and PRECAUTIONS: Nursing Mothers and Pediatric Use).
 
-Safety and efficacy of dicyclomine hydrochloride in children have not been established.
+Safety and efficacy of dicyclomine hydrochloride in pediatric patients have not been established.
 
 # PRECAUTIONS
 
-General: Use with caution in patients with:
+## General:
+
+Use with caution in patients with:
 
 1.
 Autonomic neuropathy
@@ -47,7 +49,7 @@ Congestive heart failure
 Cardiac tachyarrhythmia
 
 9.
-Hiatal hernia (see CONTRAINDICATIONS: reflux esophagitis)
+Hiatal hernia (see CONTRAINDICATIONS: Reflux esophagitis)
 
 10.
 Known or suspected prostatic hypertrophy.
@@ -56,7 +58,9 @@ Investigate any tachycardia before administration of dicyclomine hydrochloride, 
 
 With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 
-Information for Patients: Dicyclomine hydrochloride may produce drowsiness or blurred vision.
+## Information for Patients:
+
+Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking this drug.
 
 Dicyclomine hydrochloride is contraindicated in infants less than 6 months of age and in nursing mothers.
@@ -65,7 +69,9 @@ Dicyclomine hydrochloride is contraindicated in infants less than 6 months of ag
 In the presence of a high environmental temperature, heat prostration can occur with drug use (fever and heat stroke due to decreased sweating).
 If symptoms occur, the drug should be discontinued and a physician contacted.
 
-Drug Interactions: The following agents may increase certain actions or side effects of anticholinergic drugs: amantadine, antiarrhythmic agents of class I (e.g., quinidine), antihistamines, antipsychotic agents (e.g., phenothiazines), benzodiazepines, MAO inhibitors, narcotic analgesics (e.g., meperidine), nitrates and nitrites, sympathomimetic agents, tricyclic antidepressants, and other drugs having anticholinergic activity.
+## Drug Interactions:
+
+The following agents may increase certain actions or side effects of anticholinergic drugs: amantadine, antiarrhythmic agents of Class I (e.g., quinidine), antihistamines, antipsychotic agents (e.g., phenothiazines), benzodiazepines, MAO inhibitors, narcotic analgesics (e.g., meperidine), nitrates and nitrites, sympathomimetic agents, tricyclic antidepressants, and other drugs having anticholinergic activity.
 
 Anticholinergics antagonize the effects of antiglaucoma agents.
 Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corticosteroids.
@@ -74,29 +80,43 @@ Anticholinergic drugs in the presence of increased intraocular pressure may be h
 Anticholinergic agents may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentrations may result.
 Anticholinergic drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopramide.
 Because antacids may interfere with the absorption of anticholinergic agents, simultaneous use of these drugs should be avoided.
-
 The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid secretion are antagonized by agents used to treat achlorhydria and those used to test gastric secretion.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: There are no known human data on long-term potential for carcinogenicity or mutagenicity.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
+There are no known human data on long-term potential for carcinogenicity or mutagenicity.
 Long-term studies in animals to determine carcinogenic potential are not known to have been conducted.
-
 In studies in rats at doses of up to 100 mg/kg/day, dicyclomine hydrochloride produced no deleterious effects on breeding, conception, or parturition.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category B
+## Pregnancy: Teratogenic Effects: Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses up to 33 times the maximum recommended human dose based on 160 mg/day (3 mg/kg) and have revealed no evidence of impaired fertility or harm to the fetus due to dicyclomine.
 Epidemiologic studies in pregnant women with products containing dicyclomine hydrochloride (at doses up to 40 mg/day) have not shown that dicyclomine increases the risk of fetal abnormalities if administered during the first trimester of pregnancy.
 There are, however, no adequate and well-controlled studies in pregnant women at the recommended doses (80-160 mg/day).
 Because animal reproduction studies are not always predictive of human response, dicyclomine hydrochloride as indicated for functional bowel/irritable bowel syndrome should be used during pregnancy only if clearly needed.
 
-Nursing Mothers: Since dicyclomine hydrochloride has been reported to be excreted in human milk, DICYCLOMINE HYDROCHLORIDE IS CONTRAINDICATED IN NURSING MOTHERS.
+## Nursing Mothers:
+
+Since dicyclomine hydrochloride has been reported to be excreted in human milk, DICYCLOMINE HYDROCHLORIDE IS CONTRAINDICATED IN NURSING MOTHERS.
 (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Pediatric Use and ADVERSE REACTIONS.)
 
-Pediatric Use: (See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Nursing Mothers.)
+## Pediatric Use:
+
+(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Nursing Mothers.)
 DICYCLOMINE HYDROCHLORIDE IS CONTRAINDICATED IN INFANTS LESS THAN 6 MONTHS OF AGE.
 
 Safety and effectiveness in pediatric patients have not been established.
+
+## Geriatric Use:
+
+Clinical studies of dicyclomine hydrochloride did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+(See DOSAGE AND ADMINISTRATION.)
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## ADVERSE REACTIONS
 
@@ -128,22 +148,31 @@ Abuse and/or dependence on dicyclomine for anticholinergic effects have been rar
 
 ## OVERDOSAGE:
 
-Signs and Symptoms: The signs and symptoms of overdosage are headache; nausea; vomiting; blurred vision; dilated pupils; hot, dry skin; dizziness; dryness of the mouth; difficulty in swallowing; and CNS stimulation.
+### Signs and Symptoms:
+
+The signs and symptoms of overdosage are headache; nausea; vomiting; blurred vision; dilated pupils; hot, dry skin; dizziness; dryness of the mouth; difficulty in swallowing; and CNS stimulation.
 A curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 
 A 37-year old female reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets QID) for four days.
 These events resolved after discontinuing the dicyclomine.
 
-Oral LD50: The acute oral LD50 of the drug is 625 mg/kg in mice.
+### Oral LD50:
 
-Minimum Human Lethal Dose/Maximum Human Dose Recorded: The amount of drug in a single dose that is ordinarily associated with symptoms of overdosage or that is likely to be life threatening, has not been defined.
+The acute oral LD50 of the drug is 625 mg/kg in mice.
+
+### Minimum Human Lethal Dose/Maximum Human Dose Recorded:
+
+The amount of drug in a single dose that is ordinarily associated with symptoms of overdosage or that is likely to be life threatening, has not been defined.
 The maximum human oral dose recorded was 600 mg by mouth in a 10-month-old child and approximately 1500 mg in an adult, each of whom survived.
-
 In three of the infants who died following administration of dicyclomine hydrochloride (see WARNINGS), the blood concentrations of drug were 200, 220, and 505 ng/mL, respectively.
 
-Dialysis: It is not known if dicyclomine hydrochloride is dialyzable.
+### Dialysis:
 
-Treatment: Treatment should consist of gastric lavage, emetics, and activated charcoal.
+It is not known if dicyclomine hydrochloride is dialyzable.
+
+### Treatment:
+
+Treatment should consist of gastric lavage, emetics, and activated charcoal.
 Sedatives (e.g., short-acting barbiturates, benzodiazepines) may be used for management of overt signs of excitement.
 If indicated, an appropriate parenteral cholinergic agent may be used as an antidote.
 
@@ -157,6 +186,5 @@ DOSAGE MUST BE ADJUSTED TO INDIVIDUAL PATIENT NEEDS.
 The only oral dose clearly shown to be effective is 160 mg per day (in 4 equally divided doses).
 Since this dose is associated with a significant incidence of side effects, it is prudent to begin with 80 mg per day (in 4 equally divided doses).
 Depending upon the patient's response during the first week of therapy, the dose should be increased to 160 mg per day unless side effects limit dosage escalation.
-
 If efficacy is not achieved within 2 weeks or side effects require doses below 80 mg per day, the drug should be discontinued.
 Documented safety data are not available for doses above 80 mg daily for periods longer than 2 weeks.
