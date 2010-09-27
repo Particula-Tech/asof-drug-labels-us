@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA089740",
+    "ANDA089741",
+    "ANDA089742",
+    "ANDA089743"
+  ],
+  "inn": "fluphenazine",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-1788-01",
+    "0527-1788-05",
+    "0527-1789-01",
+    "0527-1789-05",
+    "0527-1790-01",
+    "0527-1790-05",
+    "0527-1791-01",
+    "0527-1791-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "fluphenazine hydrochloride",
+      "name": "Fluphenazine Hydrochloride"
+    }
+  ],
+  "setid": "6cd6ba35-3481-48c1-87db-dc74ce9d7d75",
+  "source": "dailymed"
+}
