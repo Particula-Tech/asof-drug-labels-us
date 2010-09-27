@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020597"
+  ],
   "inn": "latanoprost",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
     "0013-8303-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "latanoprost",
+      "name": "Xalatan"
+    }
+  ],
   "setid": "cc16fa68-4b68-4cdb-8e52-30c803292c22",
   "source": "dailymed"
 }
