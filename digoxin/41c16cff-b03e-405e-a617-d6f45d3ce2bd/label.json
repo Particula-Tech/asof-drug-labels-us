@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077002"
+  ],
   "inn": "digoxin",
-  "labeler": "West-ward Pharmaceutical Corp.",
+  "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-1240-01",
     "0143-1240-10",
@@ -10,7 +12,13 @@
     "0143-1241-10",
     "0143-1241-51"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
   "setid": "41c16cff-b03e-405e-a617-d6f45d3ce2bd",
   "source": "dailymed"
 }

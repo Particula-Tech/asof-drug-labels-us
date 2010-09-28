@@ -11,9 +11,9 @@ Digoxin is described chemically as (3β,5β,12β)-3-[(O-2,6-dideoxy-β-D-ribo-he
 Digoxin exists as odorless white crystals that melt with decomposition above 230°C.
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
 
-Digoxin is supplied as 125 mcg (0.125 mg) or 250 mcg (0.25 mg) tablets for oral administration.
+Digoxin Tablets are supplied as 125 mcg (0.125 mg) or 250 mcg (0.25 mg) tablets for oral administration.
 Each tablet contains the labeled amount of digoxin USP and the following inactive ingredients:
 
-125 mcg (0.125 mg): anhydrous lactose, colloidal silicon dioxide, corn starch, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, lactose monohydrate, magnesium stearate and pregelatinized starch.
+125 mcg (0.125 mg): anhydrous lactose, colloidal silicon dioxide, corn starch, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, lactose monohydrate, magnesium stearate and starch 1500.
 
-250 mcg (0.25 mg): anhydrous lactose, colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate and pregelatinized starch.
+250 mcg (0.25 mg): anhydrous lactose, colloidal silicon dioxide, corn starch, lactose monohydrate, magnesium stearate and starch 1500.

@@ -1,6 +1,8 @@
 # DOSAGE AND ADMINISTRATION:
 
-General: Recommended dosages of digoxin may require considerable modification because of individual sensitivity of the patient to the drug, the presence of associated conditions, or the use of concurrent medications.
+## General
+
+Recommended dosages of digoxin may require considerable modification because of individual sensitivity of the patient to the drug, the presence of associated conditions, or the use of concurrent medications.
 In selecting a dose of digoxin, the following factors must be considered:
 
 1. The body weight of the patient.
@@ -9,11 +11,13 @@ In selecting a dose of digoxin, the following factors must be considered:
 3. The patient's age.
    Infants and children require different doses of digoxin than adults.
    Also, advanced age may be indicative of diminished renal function even in patients with normal serum creatinine concentration (i.e., below 1.5 mg/dL).
-4. Concomitant disease states, concurrent medications, or other factors likely to alter the pharmacokinetic or pharma-codynamic profile of digoxin (see PRECAUTIONS).
+4. Concomitant disease states, concurrent medications, or other factors likely to alter the pharmacokinetic or pharmacodynamic profile of digoxin (see PRECAUTIONS).
 
-Serum Digoxin Concentrations: In general, the dose of digoxin used should be determined on clinical grounds.
+## Serum Digoxin Concentrations
+
+In general, the dose of digoxin used should be determined on clinical grounds.
 However, measurement of serum digoxin concentrations can be helpful to the clinician in determining the adequacy of digoxin therapy and in assigning certain probabilities to the likelihood of digoxin intoxication.
-About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2 ng/mL.
+About two-thirds of adults considered adequately digitalized (without evidence of toxicity) have serum digoxin concentrations ranging from 0.8 to 2 ng/mL (lower serum trough concentrations of 0.5 to 1 ng/mL may be appropriate in some adult patients, see Maintenance Dosing.)
 However, digoxin may produce clinical benefits even at serum concentrations below this range.
 About two-thirds of adult patients with clinical toxicity have serum digoxin concentrations greater than 2 ng/mL.
 However, since one-third of patients with clinical toxicity have concentrations less than 2 ng/mL, values below 2 ng/mL do not rule out the possibility that a certain sign or symptom is related to digoxin therapy.
@@ -33,7 +37,9 @@ If a discrepancy exists between the reported serum concentration and the observe
 4. Conditions (described in WARNINGS and PRECAUTIONS) causing an alteration in the sensitivity of the patient to digoxin.
 5. Serum digoxin concentration may decrease acutely during periods of exercise without any associated change in clinical efficacy due to increased binding of digoxin to skeletal muscle.
 
-Heart Failure: Adults: Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
+## Heart Failure: Adults
+
+Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
 
 1. If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
    Maintenance dose can be calculated as a percentage of the loading dose
@@ -41,26 +47,33 @@ Heart Failure: Adults: Digitalization may be accomplished by either of two gener
    Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
    Depending upon the patient's renal function, this will take between 1 and 3 weeks.
 
-Rapid Digitalization with a Loading Dose: Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
+## Rapid Digitalization with a Loading Dose
+
+Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
 Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) [see PRECAUTIONS].
 
 The loading dose should be administered in several portions, with roughly half the total given as the first dose.
 Additional fractions of this planned total dose may be given at 6- to-8-hour intervals, with careful assessment of clinical response before each additional dose.
+
 If the patient's clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given.
 
-A single initial dose of 500 to 750 mcg (0.5 to 0.75 mg) of digoxin tablets usually produces a detectable effect in 0.5 to 2 hours that becomes maximal in 2 to 6 hours.
-Additional doses of 125 to 375 mcg (0.125 to 0.375 mg) may be given cautiously at 6-to 8-hour intervals until clinical evidence of an adequate effect is noted.
-The usual amount of digoxin tablets that a 70 kg patient requires to achieve 8 to 12 mcg/kg peak body stores is 750 to 1250 mcg (0.75 to 1.25 mg).
+A single initial dose of 500 to 750 mcg (0.5 to 0.75 mg) of Digoxin Tablets usually produces a detectable effect in 0.5 to 2 hours that becomes maximal in 2 to 6 hours.
+Additional doses of 125 to 375 mcg (0.125 to 0.375 mg) may be given cautiously at 6- to 8-hour intervals until clinical evidence of an adequate effect is noted.
+The usual amount of Digoxin Tablets that a 70 kg patient requires to achieve 8 to 12 mcg/kg peak body stores is 750 to 1250 mcg (0.75 to 1.25 mg).
 
-Digoxin Injection is frequently used to achieve rapid digitalization with conversion to digoxin tablets or digoxin solution in capsules for maintenance therapy.
+Digoxin Injection is frequently used to achieve rapid digitalization with conversion to Digoxin Tablets for maintenance therapy.
 If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY).
 
-Maintenance Dosing: The doses of digoxin used in controlled trials in patients with heart failure have ranged from 125 to 500 mcg (0.125 to 0.5 mg) once daily.
+## Maintenance Dosing
+
+The doses of digoxin used in controlled trials in patients with heart failure have ranged from 125 to 500 mcg (0.125 to 0.5 mg) once daily.
 In these studies, the digoxin dose has been generally titrated according to the patient's age, lean body weight, and renal function.
 Therapy is generally initiated at a dose of 250 mcg (0.25 mg) once daily in patients under age 70 with good renal function, at a dose of 125 mcg (0.125 mg) once daily in patients over age 70 or with impaired renal function, and at a dose of 62.5 mcg (0.0625 mg) in patients with marked renal impairment.
 Doses may be increased every 2 weeks according to clinical response.
 
-In a subset of approximately 1800 patients enrolled in the DIG trial (wherein dosing was based on an algorithm similar to that in Table 5) the mean (± SD) serum digoxin concentrations at 1 month and 12 months were 1.01 ± 0.47 ng/mL and 0.97 ± 0:43 ng/mL, respectively.
+In a subset of approximately 1800 patients enrolled in the DIG trial (wherein dosing was based on an algorithm similar to that in Table 5) the mean (± SD) serum digoxin concentrations at 1 month and 12 months were 1.01 ± 0.47 ng/mL and 0.97 ± 0.43 ng/mL, respectively.
+There are no rigid guidelines as to the range of serum concentrations that are most efficacious.
+Several post hoc analyses of heart failure patients in the DIG trial suggest that the optimal trough digoxin serum level may be 0.5 ng/mL to 1 ng/mL.
 
 The maintenance dose should be based upon the percentage of the peak body stores lost each day through elimination.
 The following formula has had wide clinical use:
@@ -71,9 +84,9 @@ The following formula has had wide clinical use:
 | Where: % Daily Loss = 14 + Ccr/5 |  |
 | (Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.) |  |
 
-Table 5 provides average daily maintenance dose requirements of digoxin tablets for patients with heart failure based upon lean body weight and renal function:
+Table 5 provides average daily maintenance dose requirements of Digoxin Tablets for patients with heart failure based upon lean body weight and renal function:
 
-Table 5: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimated Peak Body Stores of 10 mcg/kg
+Table 5: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin Tablets for Estimated Peak Body Stores of 10 mcg/kg
 
 | Corrected Ccr |  |  | Lean Body Weight |  |  |  |  | Number of |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -94,10 +107,14 @@ Table 5: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin for Estimate
 | † lf no loading dose administered. |  |  |  |  |  |  |  |  |
 | ‡ 62.5 mcg = 0.0625 mg |  |  |  |  |  |  |  |  |
 
-Example: Based on Table 5, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 250 mcg (0.25 mg) daily of digoxin tablets, usually taken after the morning meal.
+## Example
+
+Based on Table 5, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 250 mcg (0.25 mg) daily of Digoxin Tablets, usually taken after the morning meal.
 If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days.
 
-Infants and Children: In general, divided daily dosing is recommended for infants and young children (under age 10).
+## Infants and Children
+
+In general, divided daily dosing is recommended for infants and young children (under age 10).
 In the newborn period, renal clearance of digoxin is diminished and suitable dosage adjustments must be observed.
 This is especially pronounced in the premature infant.
 Beyond the immediate newborn period, children generally require proportionally larger doses than adults on the basis of body weight or body surface area.
@@ -116,15 +133,19 @@ Table 6: Daily Maintenance Doses in Children with Normal Renal Function
 | 5 to 10 Years | 7 to 10 |
 | Over 10 Years | 3 to 5 |
 
-In children with renal disease, digoxin must be carefully; titrated; based upon clinical response.
+In children with renal disease, digoxin must be carefully titrated, based upon clinical response.
 
 It cannot be overemphasized that both the adult and pediatric dosage guidelines provided are based upon average patient response and substantial individual variation can be expected.
 Accordingly, ultimate dosage selection must be based upon clinical assessment of the patient.
 
-Atrial Fibrillation: Peak digoxin body stores larger than the 8 to 12 mcg/kg required for most patients with heart failure and normal sinus rhythm have been used for control of ventricular rate in patients with atrial fibrillation.
-Doses of digox-in used for the treatment of chronic atrial fibrillation should be titrated to the minimum dose that achieves the desired ventricular rate control without causing undesirable side effects.
+## Atrial Fibrillation
+
+Peak digoxin body stores larger than the 8 to 12 mcg/kg required for most patients with heart failure and normal sinus rhythm have been used for control of ventricular rate in patients with atrial fibrillation.
+Doses of digoxin used for the treatment of chronic atrial fibrillation should be titrated to the minimum dose that achieves the desired ventricular rate control without causing undesirable side effects.
 Data are not available to establish the appropriate resting or exercise target rates that should be achieved.
 
-Dosage Adjustment When Changing Preparations: The difference in bioavailability between digoxin injection or digoxin solution in capsules and digoxin pediatric elixir or digoxin tablets must be considered when changing patients from one dosage form to another.
+## Dosage Adjustment When Changing Preparations
+
+The difference in bioavailability between Digoxin Injection or Digoxin Tablets must be considered when changing patients from one dosage form to another.
 
 Doses of 100 mcg (0.1. mg) and 200 mcg (0.2 mg) of digoxin solution in capsules are approximately equivalent to 125 mcg (0.125 mg) and 250 mcg (0.25 mg) doses of digoxin tablets and digoxin pediatric elixir, respectively (see Table 1 in CLINICAL PHARMACOLOGY: Pharmacokinetics).

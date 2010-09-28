@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+Digoxin Tablets, USP 125 mcg (0.125 mg) 100 Tablets NDC 0143-1240-01
