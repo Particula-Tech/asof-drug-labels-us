@@ -1,8 +1,8 @@
-# CONTRAINDICATIONS SECTION
+# CONTRAINDICATIONS
 
 Saizen® is contraindicated in patients with a known hypersensitivity to somatropin or any of its excipients.
 
-Saizen® reconstituted with Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) should not be administered to patients with a known sensitivity to Benzyl Alcohol (see Warnings).
+Saizen® reconstituted with Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) should not be administered to patients with a known sensitivity to Benzyl Alcohol (see WARNINGS).
 
 Somatropin should not be used for growth promotion in pediatric patients with closed epiphyses.
 

@@ -1,8 +1,8 @@
-# INDICATIONS & USAGE SECTION
+# INDICATIONS AND USAGE
 
 Pediatric Patients
 
-Saizen® [somatropin (rDNA origin) for injection] is indicated for the long-term treatment of children with growth failure due to inadequate secretion of endogenous growth hormone.
+Saizen® [somatropin (rDNA origin) for injection] is indicated for the treatment of children with growth failure due to inadequate secretion of endogenous growth hormone.
 
 Adult Patients
 

@@ -1,4 +1,4 @@
-# WARNINGS SECTION
+# WARNINGS
 
 There have been reports of fatalities after initiating therapy with somatropin in pediatric patients with Prader-Willi syndrome who had one or more of the following risk factors: severe obesity, history of upper airway obstruction or sleep apnea, or unidentified respiratory infection.
 Male patients with one or more of these factors may be at greater risk than females.
@@ -8,16 +8,16 @@ All patients with Prader-Willi syndrome treated with somatropin should also have
 Unless patients with Prader-Willi syndrome also have a diagnosis of growth hormone deficiency, Saizen® is not indicated for the long term treatment of pediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome.
 
 Benzyl Alcohol as a preservative in Bacteriostatic Water for Injection, USP has been associated with toxicity in newborns.
-If sensitivity to the diluent occurs,Saizen® [somatropin (rDNA origin) for injection] may be reconstituted with Sterile Water for Injection, USP.
+If sensitivity to the diluent occurs, Saizen® [somatropin (rDNA origin) for injection] may be reconstituted with Sterile Water for Injection, USP.
 When Saizen® is reconstituted in this manner, the reconstituted solution should be used immediately and any unused solution should be discarded.
 
 See CONTRAINDICATIONS for information on increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure.
 The safety of continuing somatropin treatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
 Therefore, the potential benefit of treatment continuation with somatropin in patients having acute critical illnesses should be weighed against the potential risk.
 
-# PRECAUTIONS SECTION
+# PRECAUTIONS
 
-## GENERAL PRECAUTIONS SECTION
+## General:
 
 Saizen® [somatropin (rDNA origin) for injection] therapy should be carried out under the regular guidance of a physician who is experienced in the diagnosis and management of pediatric patients with growth hormone deficiency or adult patients with either childhood-onset or adult-onset growth hormone deficiency.
 
@@ -56,9 +56,7 @@ This can be avoided by rotating the injection site.
 As for any protein, local or systemic allergic reactions may occur.
 Parents/Patient should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.
 
-## PEDIATRIC USE SECTION
-
-(see PRECAUTIONS, General):
+Pediatric Patients (see PRECAUTIONS, General):
 
 Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including pediatric growth hormone deficiency and Turner syndrome) or in patients undergoing rapid growth.
 Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
@@ -78,7 +76,7 @@ Clinical manifestations of fluid retention are usually transient and dose depend
 
 Experience with prolonged treatment in adults is limited.
 
-## INFORMATION FOR PATIENTS SECTION
+## Information for Patients:
 
 Patients being treated with Saizen® (and/or their parents) should be informed about the potential benefits and risks associated with Saizen® treatment.
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
@@ -88,11 +86,11 @@ A puncture-resistant container for the disposal of used syringes and needles sho
 Patients and/or parents should be thoroughly instructed in the importance of proper disposal, and cautioned against any reuse of needles and syringes.
 This information is intended to aid in the safe and effective administration of the medication.
 
-## LABORATORY TESTS SECTION
+## Laboratory Tests:
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH), and IGF I may increase with somatropin therapy.
 
-## DRUG INTERACTIONS SECTION
+## Drug Interactions:
 
 Somatropin inhibits 11β-hydroxysteroid dehydrogenase type 1 (11βHSD-1) in adipose/hepatic tissue and may significantly impact the metabolism of cortisol and cortisone.
 As a consequence, in patients treated with somatropin, previously undiagnosed central (secondary) hypoadrenalism may be unmasked requiring glucocorticoid replacement therapy.
@@ -112,24 +110,24 @@ In adult women on oral estrogen replacement, a larger dose of somatropin may be 
 
 In patients with diabetes mellitus requiring drug therapy, the dose of insulin and/or oral agent may require adjustment when somatropin therapy is initiated (see PRECAUTIONS, General).
 
-## CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY SECTION
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Long-term animal studies for carcinogenicity have not been performed with Saizen®.
 There is no evidence from animal studies to date of Saizen®-induced mutagenicity or impairment of fertility.
 
-## PREGNANCY SECTION
+## Pregnancy:
 
 Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 31 and 62 times, respectively, the human (child) weekly dose based on body surface area.
 The results have revealed no evidence of impaired fertility or harm to the fetus due to Saizen®.
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## NURSING MOTHERS SECTION
+## Nursing Women:
 
 It is not known whether Saizen® is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Saizen® is administered to a nursing woman.
 
-## GERIATRIC USE SECTION
+## Geriatric Use:
 
 The safety and effectiveness of Saizen® in patients aged 65 and over has not been evaluated in clinical studies.
 Elderly patients may be more sensitive to the action of Saizen®, and therefore may be more prone to develop adverse reactions.

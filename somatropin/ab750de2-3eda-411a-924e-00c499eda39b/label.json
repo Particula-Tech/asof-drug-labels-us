@@ -1,14 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019764"
+  ],
   "inn": "somatropin",
-  "labeler": "Serono, Inc.",
+  "labeler": "EMD Serono, Inc.",
   "package_ndcs": [
     "44087-1005-2",
     "44087-1080-1",
-    "44087-1080-2",
-    "44087-1088-1"
+    "44087-1085-1",
+    "44087-1088-1",
+    "44087-8006-0"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "somatropin",
+      "name": "SAIZEN CLICKEASY"
+    },
+    {
+      "form": "KIT",
+      "generic": "somatropin",
+      "name": "Saizen"
+    }
+  ],
   "setid": "ab750de2-3eda-411a-924e-00c499eda39b",
   "source": "dailymed"
 }

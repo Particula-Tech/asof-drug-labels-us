@@ -1,9 +1,11 @@
-# DOSAGE & ADMINISTRATION SECTION
+# DOSAGE AND ADMINISTRATION
 
 Pediatric Growth Hormone Deficiency (GHD)
 
-Saizen® [somatropin (rDNA origin) for injection] dosage and schedule of administration should be individualized for each patient.
-For the treatment of growth hormone inadequacy in children, a dosage of 0.06 mg/kg (approximately 0.18 IU/kg) administered 3 times per week by subcutaneous or intramuscular injection is recommended.
+Saizen® [somatropin (rDNA origin) for injection] dosage and administration schedule should be individualized for each patient.
+The recommended weekly dosage is 0.18 mg/kg of body weight.
+It should be divided into equal doses given either on 3 alternate days, 6 times per week or daily.
+The subcutaneous route of administration is preferable; intramuscular injection is also acceptable.
 
 Treatment with Saizen® of growth failure due to growth hormone deficiency should be discontinued when the epiphyses are fused.
 Patients who fail to respond adequately while on Saizen® therapy should be evaluated to determine the cause of unresponsiveness.
@@ -24,13 +26,14 @@ In addition, obese individuals are more likely to manifest adverse effects when 
 In order to reach the defined treatment goal, estrogen-replete women may need higher doses than men.
 Oral estrogen administration may increase the dose requirements in women.
 
-All Patients
+Drug Preparation Instructions - Vials
 
 To prevent possible contamination, wipe the rubber vial stopper with an antiseptic solution before puncturing it with the needle.
 It is recommended that Saizen® be administered using sterile, disposable syringes and needles.
 The syringes should be of small enough volume that the prescribed dose can be drawn from the vial with reasonable accuracy.
 
-After determining the appropriate patient dose, reconstitute each vial of Saizen®as follows: 5 mg vial with 1-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved); 8.8 mg vial with 2-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved).
+After determining the appropriate patient dose, reconstitute each vial of Saizen® as follows: 5 mg vial with 1-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved); 8.8 mg vial with 2-3 mL of Bacteriostatic Water for Injection, USP (Benzyl Alcohol preserved).
+Approximately 10% mechanical loss can be associated with reconstitution and multidose administration.
 For use in patients sensitive to the diluent, see “WARNINGS.”
 
 To reconstitute Saizen®, inject the diluent into the vial of Saizen® aiming the liquid against the glass vial wall.
@@ -42,13 +45,17 @@ DO NOT INJECT Saizen® if the reconstituted product is cloudy immediately after 
 Occasionally, after refrigeration, small colorless particles may be present in the Saizen® solution.
 This is not unusual for proteins like Saizen®.
 
+Drug Preparation Instructions - click.easy cartridges
+
+For drug preparation instructions for Saizen® click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
+
 STABILITY AND STORAGE
 
-Before Reconstitution - Saizen® [somatropin (rDNA origin) for injection] should be stored at room temperature (15o-30oC/59o-86oF).
+Before Reconstitution - Saizen® [somatropin (rDNA origin) for injection] should be stored at room temperature (15°-30°C/59°-86°F).
 Expiration dates are stated on the labels.
 
-After Reconstitution - Saizen® 5 mg and 8.8 mg vials reconstituted with the Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) provided should be stored under refrigeration (2°-8°C/36°-46°F) for up to 14 days.
+After Reconstitution - Saizen® 5 mg and 8.8 mg vials reconstituted with the Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) provided should be stored under refrigeration (2°–8°C/36°–46°F) for up to 14 days.
 
-Saizen® 8.8 mg click.easy® cartridge reconstituted with the Bacteriostatic Water for Injection, (0.3% [w/v] metacresol) provided should be stored under refrigeration (2°-8°C/36°-46°F) for up to 21 days.
+Saizen® 8.8 mg click.easy® cartridge reconstituted with the Sterile Water for Injection, (0.3% (w/v) metacresol) provided should be stored under refrigeration (2°–8°C/36°–46°F) for up to 21 days.
 
 Avoid freezing reconstituted vials or cartridges of Saizen®.

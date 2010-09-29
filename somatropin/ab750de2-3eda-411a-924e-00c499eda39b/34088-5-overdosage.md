@@ -1,4 +1,4 @@
-# OVERDOSAGE SECTION
+# OVERDOSAGE
 
 Short-term overdosage could lead initially to hypoglycemia and subsequently to hyperglycemia.
 Moreover, overdose with somatropin is likely to cause fluid retention.

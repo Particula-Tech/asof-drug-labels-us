@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS SECTION
+# ADVERSE REACTIONS
 
 Growth Hormone Deficient Pediatric Patients
 
@@ -11,7 +11,7 @@ The patient was subsequently shown to have a hGH-N gene defect.
 Thus, genetic analysis should be undertaken in any patient in whom anti-GH antibodies with high binding capacities occur.
 No antibodies against proteins of the host cells were detected in the sera of patients treated up to five years.
 
-Any patient with well-documented growth hormone deficiency who fails to respond to therapy should be tested for antibodies to human growth hormone and for thyroid status.
+Any patient with well–documented growth hormone deficiency who fails to respond to therapy should be tested for antibodies to human growth hormone and for thyroid status.
 
 In clinical studies in which Saizen® was administered to growth hormone deficient children, the following events were infrequently seen: local reactions at the injection site (such as pain, numbness, redness and swelling), hypothyroidism, hypoglycemia, seizures, exacerbation of preexisting psoriasis and disturbances in fluid balance.
 
@@ -30,15 +30,14 @@ During the open label phase of the study, approximately 10% of patients treated 
 In addition, during the open label phase of the study, when all patients were being treated with somatropin, two patients with preexisting central hypoadrenalism required upward titration of hydrocortisone maintenance therapy which was considered to be suboptimal (unrelated to intercurrent stress, surgery or disease), and 1 patient was diagnosed de novo with central adrenal insufficiency after six months of somatropin treatment.
 Anti-GH antibodies were not detected.
 
-Table 2 - Adverse Events with ≥5% Overall Incidence in Saizen®-Treated Patients Which Were More Frequent in Saizen®-Treated Patients Compared with Placebo-Treated Patients During a 6 Month Study
+Table 2 Adverse Events with ≥5% Overall Incidence in Saizen®-Treated Patients Which Were More Frequent in Saizen®-Treated Patients Compared with Placebo-Treated Patients During a 6 Month Study
 
-|  | (N=60) | (N=55) |
+| Adverse Event | Saizen-Treated (N=60) | Placebo (N=55) |
 | --- | --- | --- |
-| Adverse Event | Saizen-Treated | Placebo |
 | Arthralgia | 14(23.3%) | 7(12.7%) |
 | Headache | 11(18.3%) | 8(14.5%) |
 | Influenza-like symptoms | 9(15.0%) | 3(5.5%) |
-| Edema peripheral | 9(15.0%) | 2(3.7) |
+| Edema peripheral | 9(15.0%) | 2(3.7%) |
 | Back pain | 6(10.0%) | 5(9.1%) |
 | Myalgia | 5(8.3%) | 2(3.6%) |
 | Rhinitis | 5(8.3%) | 2(3.6%) |
