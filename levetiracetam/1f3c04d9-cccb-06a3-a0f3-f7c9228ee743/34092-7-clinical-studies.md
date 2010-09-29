@@ -112,3 +112,51 @@ The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seiz
 Figure 4: Responder Rate (≥50% Reduction From Baseline)
 
 *statistically significant versus placebo
+
+## Effectiveness in Myoclonic Seizures in Patients ≥12 Years of Age with Juvenile Myoclonic Epilepsy (JME)
+
+The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 37 sites in 14 countries.
+Of the 120 patients enrolled, 113 had a diagnosis of confirmed or suspected JME.
+Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either levetiracetam or placebo (levetiracetam N=60, placebo N=60).
+Patients were titrated over 4 weeks to a target dose of 3000 mg/day and treated at a stable dose of 3000 mg/day over 12 weeks (evaluation period).
+Study drug was given in 2 divided doses.
+
+The primary measure of effectiveness was the proportion of patients with at least 50% reduction in the number of days per week with one or more myoclonic seizures during the treatment period (titration + evaluation periods) as compared to baseline.
+Table 5 displays the results for the 113 patients with JME in this study.
+
+Table 5: Responder Rate (≥50% Reduction From Baseline) In Myoclonic Seizure Days Per Week for Patients with JME
+
+|  | Placebo (N=59) | Levetiracetam (N=54) |
+| --- | --- | --- |
+| Percentage of responders | 23.7% | 60.4%* |
+
+*statistically significant versus placebo
+
+## Effectiveness for Primary Generalized Tonic-Clonic Seizures in Patients ≥6 Years of Age
+
+The effectiveness of levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in patients 6 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in one multicenter, randomized, double-blind, placebo-controlled study, conducted at 50 sites in 8 countries.
+Eligible patients on a stable dose of 1 or 2 antiepileptic drugs (AEDs) experiencing at least 3 PGTC seizures during the 8-week combined baseline period (at least one PGTC seizure during the 4 weeks prior to the prospective baseline period and at least one PGTC seizure during the 4-week prospective baseline period) were randomized to either levetiracetam or placebo.
+The 8-week combined baseline period is referred to as “baseline” in the remainder of this section.
+The population included 164 patients (levetiracetam N=80, placebo N=84) with idiopathic generalized epilepsy (predominately juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening) experiencing primary generalized tonic-clonic seizures.
+Each of these syndromes of idiopathic generalized epilepsy was well represented in this patient population.
+Patients were titrated over 4 weeks to a target dose of 3000 mg/day for adults or a pediatric target dose of 60 mg/kg/day and treated at a stable dose of 3000 mg/day (or 60 mg/kg/day for children) over 20 weeks (evaluation period).
+Study drug was given in 2 equally divided doses per day.
+
+The primary measure of effectiveness was the percent reduction from baseline in weekly PGTC seizure frequency for levetiracetam and placebo treatment groups over the treatment period (titration + evaluation periods).
+There was a statistically significant decrease from baseline in PGTC frequency in the levetiracetam-treated patients compared to the placebo-treated patients.
+
+Table 6: Median Percent Reduction From Baseline In PGTC Seizure Frequency Per Week
+
+|  | Placebo (N=84) | Levetiracetam (N=78) |
+| --- | --- | --- |
+| Percent reduction in PGTC seizure frequency | 44.6% | 77.6%* |
+
+*statistically significant versus placebo
+
+The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 5.
+
+Figure 5: Responder Rate (≥50% Reduction From Baseline) In PGTC Seizure Frequency Per Week
+
+Placebo (N=84) Levetiracetam (N=79)
+
+*statistically significant versus placebo

@@ -59,6 +59,8 @@ What are levetiracetam tablets?
 Levetiracetam tablets are a prescription medicine taken by mouth that are used with other medicines to treat:
 
 - partial onset seizures in people 4 years of age and older with epilepsy.
+- myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
+- primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
 It is not known if levetiracetam tablets are safe or effective in children under 4 years of age.
 
@@ -154,7 +156,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store levetiracetam tablets?
 
-- Store levetiracetam tablets at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+- Store levetiracetam tablets at 20° to 25°C (68° to 77°F);excursions permitted to 15° to 30°C (59° to 86°F).
 - Keep levetiracetam tablets and all medicines out of the reach of children.
 
 General information about levetiracetam tablets.
@@ -185,4 +187,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Revised: 0509
+Revised: 0910

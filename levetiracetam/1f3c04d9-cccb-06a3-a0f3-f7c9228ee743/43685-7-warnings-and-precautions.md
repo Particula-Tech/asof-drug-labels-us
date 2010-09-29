@@ -15,9 +15,9 @@ Because most trials included in th e analysis did not extend beyond 24 weeks, th
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
-Table 5 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 7 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 5 Risk by indication for antiepileptic drugs in the pooled analysis
+Table 7: Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patientswith Events Per1000 Patients | Drug Patientswith Events Per1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -91,6 +91,41 @@ Depression was reported in 3.0% of levetiracetam –treated patients, compared t
 A total of 3.0% of levetiracetam -treated patients discontinued treatment due to psychotic and nonpsychotic adverse events, compared to 4.1% of placebo patients.
 Overall, 10.9% of levetiracetam-treated patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
 
+#### Myoclonic Seizures
+
+During clinical development, the number of patients with myoclonic seizures exposed to levetiracetam was considerably smaller than the number with partial seizures.
+Therefore, under-reporting of certain adverse events was more likely to occur in the myoclonic seizure population.
+In adult and adolescent patients experiencing myoclonic seizures, levetiracetam is associated with somnolence and behavioral abnormalities.
+It is expected that the events seen in partial seizure patients would occur in patients with JME.
+
+In the double-blind, controlled trial in adults and adolescents with juvenile myoclonic epilepsy experiencing myoclonic seizures, 11.7% of levetiracetam-treated patients experienced somnolence compared to 1.7% of placebo patients.
+No patient discontinued treatment as a result of somnolence.
+In 1.7% of levetiracetam-treated patients and in 0% of placebo patients the dose was reduced as a result of somnolence.
+
+Non-psychotic behavioral disorders (reported as aggression and irritability) occurred in 5% of the levetiracetam-treated patients compared to 0% of placebo patients.
+Non-psychotic mood disorders (reported as depressed mood, depression, and mood swings) occurred in 6.7% of levetiracetam-treated patients compared to 3.3% of placebo patients.
+A total of 5.0% of levetiracetam-treated patients had a reduction in dose or discontinued treatment due to behavioral or psychiatric events (reported as anxiety, depressed mood, depression, irritability, and nervousness), compared to 1.7% of placebo patients.
+
+#### Primary Generalized Tonic-Clonic Seizures
+
+During clinical development, the number of patients with primary generalized tonic-clonic epilepsy exposed to levetiracetam was considerably smaller than the number with partial epilepsy, described above.
+As in the partial seizure patients, behavioral symptoms appeared to be associated with levetiracetam treatment.
+Gait disorders and somnolence were also described in the study in primary generalized seizures, but with no difference between placebo and levetiracetam treatment groups and no appreciable discontinuations.
+Although it may be expected that drug related events seen in partial seizure patients would be seen in primary generalized epilepsy patients (e.g. somnolence and gait disturbance), these events may not have been observed because of the smaller sample size.
+
+In patients 6 years of age and older experiencing primary generalized tonic-clonic seizures, levetiracetam is associated with behavioral abnormalities.
+
+In the double-blind, controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures, irritability was the most frequently reported psychiatric adverse event occurring in 6.3% of levetiracetam-treated patients compared to 2.4% of placebo patients.
+Additionally, non-psychotic behavioral disorders (reported as abnormal behavior, aggression, conduct disorder, and irritability) occurred in 11.4% of the levetiracetam-treated patients compared to 3.6% of placebo patients.
+Of the levetiracetam-treated patients experiencing non-psychotic behavioral disorders, one patient discontinued treatment due to aggression.
+Non-psychotic mood disorders (including anger, apathy, depression, mood altered, mood swings, negativism, and tearfulness) occurred in 12.7% of levetiracetam-treated patients compared to 8.3% of placebo patients.
+No levetiracetam-treated patients discontinued or had a dose reduction as a result of these events.
+One patient experienced delusional behavior that required the lowering of the dose of levetiracetam.
+
+In a long-term open label study that examined patients with various forms of primary generalized epilepsy, along with the non-psychotic behavioral disorders, 2 of 192 patients studied exhibited psychotic-like behavior.
+Behavior in one case was characterized by auditory hallucinations and suicidal thoughts and led to levetiracetam discontinuation.
+The other case was described as worsening of pre-existent schizophrenia and did not lead to drug discontinuation.
+
 ## Withdrawal Seizures
 
 Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to minimize the potential of increased seizure frequency.
@@ -117,6 +152,11 @@ Mean relative lymphocyte counts increased by 1.7% in levetiracetam -treated pati
 
 In the well-controlled trial, more levetiracetam -treated patients had a possibly clinically significant abnormally low WBC value (3.0% levetiracetam -treated versus 0% placebo), however, there was no apparent difference between treatment groups with respect to neutrophil count (5.0% levetiracetam-treated versus 4.2% placebo).
 No patient was discontinued secondary to low WBC or neutrophil counts.
+
+#### Juvenile Myoclonic Epilepsy
+
+Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
+The data from the partial seizure patients should be considered to be relevant for JME patients.
 
 ## Hepatic Abnormalities
 

@@ -2,6 +2,10 @@
 
 Levetiracetam tablets are indicated as adjunctive treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
 
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents 12 years of age and older with juvenile myoclonic epilepsy.
+
+Levetiracetam tablets are indicated as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in adults and children 6 years of age and older with idiopathic generalized epilepsy.
+
 ## Partial Onset Seizures
 
 ### Adults 16 Years and Older
@@ -20,12 +24,14 @@ Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (
 The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg BID).
 If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
 In the clinical trial, the mean daily dose was 52 mg/kg.
-Table 10 below provides a guideline for tablet dosing based on weight during titration to 60 mg/kg/day.
+Patients with body weight ≤ 20 kg should be dosed with oral solution.
+Patients with body weight above 20 kg can be dosed with either tablets or oral solution.
+Table 15 below provides a guideline for tablet dosing based on weight during titration to 60 mg/kg/day.
 Only whole tablets should be administered.
 
 Levetiracetam tablets are given orally with or without food.
 
-Table 10: Levetiracetam Tablet Weight-Based Dosing Guide For Children
+Table 15: Levetiracetam Tablet Weight-Based Dosing Guide For Children
 
 | Patient Weight | Daily Dose |  |  |
 | --- | --- | --- | --- |
@@ -48,10 +54,34 @@ A household teaspoon or tablespoon is not an adequate measuring device.
 It is recommended that a calibrated measuring device be obtained and used.
 Healthcare providers should recommend a device that can measure and deliver the prescribed dose accurately, and provide instructions for measuring the dosage.
 
+## Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
+
+Treatment should be initiated with a dose of 100 0 mg/day, given as twice-daily dosing (500 mg BID).
+Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/da y has not been studied.
+
+## Primary Generalized Tonic-Clonic Seizures
+
+### Adults 16 Years and Older
+
+Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg BID).
+Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
+
+### Pediatric Patients Ages 6 to <16 Years
+
+Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg BID).
+The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg BID).
+The effectiveness of doses lower than 60 mg/kg/day has not been adequately studied.
+Patients with body weight ≤ 20 kg should be dosed with oral solution.
+Patients with body weight above 20 kg can be dosed with either tablets or oral solution.
+See Table 14 for tablet dosing based on weight during titration to 60 mg/kg/day.
+Only whole tablets should be administered.
+
 ## Adult Patients with Impaired Renal Function
 
 Levetiracetam dosing must be individualized according to the patient’s renal function status.
-Recommended doses and adjustment for dose for adults are shown in Table 11.
+Recommended doses and adjustment for dose for adults are shown in Table 16.
 To use this dosing table, an estimate of the patient’s creatinine clearance (CLcr) in mL/min is needed.
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
@@ -61,7 +91,7 @@ CLcr = ___________________________ (x 0.85 for female patients)
 
 72 x serum creatinine (mg/dL)
 
-Table 11: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
+Table 16: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
 
 | Group | Creatinine Clearance (mL/min) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
