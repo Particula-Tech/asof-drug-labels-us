@@ -4,29 +4,15 @@ FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HA
 
 SULFONAMIDES, INCLUDING SULFONAMIDE-CONTAINING PRODUCTS SUCH AS SULFAMETHOXAZOLE/TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY SIGN OF ADVERSE REACTION.
 In rare instances, a skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis, and serious blood disorders (see PRECAUTIONS).
-Clinical signs such as rash, sore throat, fever, arthralgia, pallor, purpura or jaundice may be early indications of serious reactions.
+Clinical signs, such as rash, sore throat, fever, arthralgia, pallor, purpura or jaundice may be early indications of serious reactions.
 
 Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract that have been reported in association with sulfonamide treatment.
 
 Thrombocytopenia
 
-Thrombocytopenia has been reported with both sulfamethoxazole and trimethoprim usage.
-A case control study found a 124-fold increased risk of severe thrombocytopenia (platelets <30,000 µL, requiring hospitalization) with sulfamethoxazole and trimethoprim in combination with an incidence of 2 cases per 1000 patient-years of exposure.6 The incidence of less severe thrombocytopenia may be higher.
-
-Thrombocytopenia caused by sulfamethoxazole and trimethoprim may be immune-mediated.
-Drug-induced immune-mediated thrombocytopenia with sulfamethoxazole/trimethoprim is characterized by a drug-dependent antibody that is itself nonreactive, but when soluble drug is present at pharmacologic concentrations, antibody binds tightly to specific platelet membrane glycoproteins, causing platelet destruction.7 Serologic testing for drug-specific antibody is commercially available and may be useful for identifying the specific cause of thrombocytopenia in individual cases.
-Testing is important because a patient with drug-dependent antibodies should not be re-exposed to sulfamethoxazole and trimethoprim (see CONTRAINDICATIONS).
-
-Typically, a patient with immune thrombocytopenia will have taken drug for about 1 week or intermittently over a longer period of time (possibly years) before presenting with petechiae or bruising.
-Systemic symptoms, such as lightheadedness, chills, fever, nausea, and vomiting, often may precede bleeding events.
-Thrombocytopenia may be severe.
-Patients should have risk/benefit re-evaluated in order to continue treatment with sulfamethoxazole and trimethoprim.
-If the drug is stopped, symptoms usually resolve within 1 or 2 days and platelet count returns to normal in less than 1 week.
-If sulfamethoxazole and trimethoprim is not stopped, there is a risk of fatal hemorrhage.
-The onset of thrombocytopenia may be more rapid upon re-exposure.
-
-Sulfamethoxazole has also been shown to occasionally trigger the production of platelet-specific autoantibodies leading to a clinical picture indistinguishable from spontaneous autoimmune thrombocytopenia.
-In such cases, autoantibodies remain present for up to 9 weeks after sulfamethoxazole has been stopped, corresponding with a marked reduction in platelet counts for the same period.
+Sulfamethoxazole/trimethoprim-induced thrombocytopenia may be an immune-mediated disorder.
+Severe cases of thrombocytopenia that are fatal or life threatening have been reported.
+Thrombocytopenia usually resolves within a week upon discontinuation of sulfamethoxazole/trimethoprim.
 
 The sulfonamides should not be used for the treatment of group A β-hemolytic streptococcal infections.
 In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
@@ -53,10 +39,6 @@ This reaction is frequently dose-related (see CLINICAL PHARMACOLOGY and DOSAGE A
 Cases of hypoglycemia in non-diabetic patients treated with sulfamethoxazole and trimethoprim are seen rarely, usually occurring after a few days of therapy.
 Patients with renal dysfunction, liver disease, malnutrition or those receiving high doses of sulfamethoxazole and trimethoprim are particularly at risk.
 
-Thrombocytopenia
-
-Sulfamethoxazole and trimethoprim should be discontinued in case of any signs or symptoms of thrombocytopenia (see WARNINGS).
-
 Hematological changes indicative of folic acid deficiency may occur in elderly patients or in patients with preexisting folic acid deficiency or kidney failure.
 These effects are reversible by folinic acid therapy.
 
@@ -65,9 +47,10 @@ Trimethoprim has been noted to impair phenylalanine metabolism, but this is of n
 As with all drugs containing sulfonamides, caution is advisable in patients with porphyria or thyroid dysfunction.
 
 Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to sulfamethoxazole and trimethoprim in the same manner as non-AIDS patients.
-The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for Pneumocystis carinii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.8 The incidence of hyperkalemia appears to be increased in AIDS patients receiving sulfamethoxazole and trimethoprim.
+The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with sulfamethoxazole and trimethoprim therapy in AIDS patients who are being treated for Pneumocystis carinii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of sulfamethoxazole and trimethoprim in non-AIDS patients.
+The incidence of hyperkalemia appears to be increased in AIDS patients receiving sulfamethoxazole and trimethoprim.
 Adverse effects are generally less severe in patients receiving sulfamethoxazole and trimethoprim for prophylaxis.
-A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.9 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
+A history of mild intolerance to sulfamethoxazole and trimethoprim in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.6 However, if a patient develops skin rash or any sign of adverse reaction, therapy with sulfamethoxazole and trimethoprim should be reevaluated (see WARNINGS).
 
 High dosage of trimethoprim, as used in patients with Pneumocystis carinii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
@@ -116,7 +99,7 @@ Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim poten
 
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine.
 
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and angiotensin converting enzyme inhibitor.10,11
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and angiotensin converting enzyme inhibitor.7,8
 
 Drug/Laboratory Test Interactions: Sulfamethoxazole and trimethoprim, specifically the trimethoprim component, can interfere with a serum methotrexate assay as determined by the competitive binding protein technique (CBPA) when a bacterial dihydrofolate reductase is used as the binding protein.
 No interference occurs, however, if methotrexate is measured by a radioimmunoassay (RIA).
@@ -142,7 +125,7 @@ In one study, however, cleft palates were observed in one litter out of 9 when 3
 
 In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,12 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
