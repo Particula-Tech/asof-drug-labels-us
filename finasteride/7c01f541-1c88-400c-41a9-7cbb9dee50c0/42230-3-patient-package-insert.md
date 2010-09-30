@@ -28,7 +28,7 @@ Do Not Take PROSCAR if you are:
 - allergic to finasteride or any of the ingredients in PROSCAR.
   See the end of this leaflet for a complete list of ingredients in PROSCAR.
 
-A warning about PROSCAR and pregnancy.
+A warning about PROSCAR and pregnancy:
 
 Women who are or may potentially be pregnant must not use PROSCAR.
 They should also not handle crushed or broken tablets of PROSCAR.
@@ -59,9 +59,11 @@ The most common side effects of PROSCAR include:
 - enlarged or painful breast.
   You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 
-Allergic reactions: Call your doctor if you get any signs of an allergic reaction while taking PROSCAR, including rash, itching, hives, and swelling of the lips and face.
+In addition, the following have been reported in general use with PROSCAR:
 
-Testicular pain: Rarely, some men may have testicular pain while taking PROSCAR.
+- allergic reactions, including rash, itching, hives, and swelling of the lips and face
+- rarely, some men may have testicular pain
+- in rare cases, male breast cancer has been reported.
 
 You should discuss side effects with your doctor before taking PROSCAR and anytime you think you are having a side effect.
 These are not all the possible side effects with PROSCAR.
@@ -70,7 +72,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at: 1-800-FDA-1088.
 
-## What you need to know while taking PROSCAR
+## What you need to know while taking PROSCAR:
 
 - You should see your doctor regularly while taking PROSCAR.
   Follow your doctor's advice about when to have these checkups.
@@ -94,6 +96,7 @@ Keep PROSCAR and all medications out of the reach of children.
 
 Do not give your PROSCAR tablets to anyone else.
 It has been prescribed only for you.
+
 For more information call 1-800-633-4477.
 
 ## What are the ingredients in PROSCAR?
@@ -117,7 +120,7 @@ This can lead to symptoms such as:
 
 In some men, BPH can lead to serious problems, including urinary tract infections, a sudden inability to pass urine (acute urinary retention), as well as the need for surgery.
 
-## What PROSCAR does
+## What PROSCAR does:
 
 PROSCAR lowers levels of a hormone called DHT (dihydrotestosterone), which is a cause of prostate growth.
 Lowering DHT leads to shrinkage of the enlarged prostate gland in most men.
@@ -131,6 +134,6 @@ However, since each case of BPH is different, you should know that:
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued March 2010
+Issued August 2010
 
-9631304
+9631305

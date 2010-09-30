@@ -45,7 +45,7 @@ Three of these patients were on finasteride only and one was on combination ther
 The MTOPS Study was not specifically designed to make statistical comparisons between groups for reported adverse experiences.
 In addition, direct comparisons of safety data between the MTOPS study and previous studies of the single agents may not be appropriate based upon differences in patient population, dosage or dose regimen, and other procedural and study design elements.
 
-Table 5: Incidence ≥2% in One or More Treatment Groups: Drug-Related Clinical Adverse Experiences in MTOPS
+Table 5: Incidence ≥ 2% in One or More Treatment Groups – Drug-Related Clinical Adverse Experiences in MTOPS
 
 | Adverse Experience |  | Placebo (N=737) (%) | Doxazosin 4 mg or 8 mgDoxazosin dose was achieved by weekly titration (1 to 2 to 4 to 8 mg). The final tolerated dose (4 mg or 8 mg) was administered at end-Week 4. Only those patients tolerating at least 4 mg were kept on doxazosin. The majority of patients received the 8-mg dose over the duration of the study. (N=756) (%) | Finasteride (N=768) (%) | Combination (N=786) (%) |
 | --- | --- | --- | --- | --- | --- |
@@ -91,6 +91,4 @@ PROSCAR is not approved to reduce the risk of developing prostate cancer.
 
 The following additional adverse effects have been reported in post-marketing experience:
 
-- hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
-
-- testicular pain.
+- hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face - testicular pain - male breast cancer.

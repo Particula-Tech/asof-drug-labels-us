@@ -69,7 +69,7 @@ Gender: Finasteride pharmacokinetics in women are not available.
 
 Geriatric: No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-See also Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION.
+(See also Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION.)
 
 Race: The effect of race on finasteride pharmacokinetics has not been studied.
 
@@ -85,7 +85,7 @@ Caution should be used in the administration of PROSCAR in those patients with l
 
 ### Drug Interactions
 
-(also see PRECAUTIONS, Drug Interactions)
+(see also PRECAUTIONS, Drug Interactions)
 
 No drug interactions of clinical importance have been identified.
 Finasteride does not appear to affect the cytochrome P450-linked drug metabolism enzyme system.

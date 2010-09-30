@@ -134,4 +134,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total number of subjects included in PLESS, 1480 and 105 subjects were 65 and over and 75 and over, respectively.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-No dosage adjustment is necessary in the elderly (see CLINICAL PHARMACOLOCY, Pharmacokinetics and Clinical Studies).
+No dosage adjustment is necessary in the elderly (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Clinical Studies).

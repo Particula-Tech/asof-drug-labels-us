@@ -16,8 +16,8 @@ Women should not handle crushed or broken PROSCAR tablets when they are pregnant
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued March 2010
+Issued August 2010
 
 Printed in USA
 
-9631304
+9631305
