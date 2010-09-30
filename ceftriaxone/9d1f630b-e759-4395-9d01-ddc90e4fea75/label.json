@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065204"
+  ],
+  "inn": "ceftriaxone",
+  "labeler": "Hospira, Inc",
+  "package_ndcs": [
+    "0409-7333-49",
+    "0409-7336-49"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ceftriaxone sodium",
+      "name": "Ceftriaxone Sodium"
+    }
+  ],
+  "setid": "9d1f630b-e759-4395-9d01-ddc90e4fea75",
+  "source": "dailymed"
+}
