@@ -1,14 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA063065",
+    "ANDA063181"
+  ],
   "inn": "minocycline",
-  "labeler": "Watson Laboratories Inc.",
+  "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
     "0591-3153-01",
     "0591-5694-01",
-    "0591-5694-06",
+    "0591-5694-60",
     "0591-5695-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocycline Hydrochloride"
+    }
+  ],
   "setid": "a5fc4d50-50b2-46e0-b722-4c6b2ec47d06",
   "source": "dailymed"
 }

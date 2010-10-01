@@ -13,7 +13,7 @@ The urinary and fecal recovery of minocycline when administered to 12 normal vol
 
 The tetracyclines are primarily bacteriostatic and are thought to exert their antimicrobial effect by the inhibition of protein synthesis.
 The tetracyclines, including minocycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
-Cross-resistance of these organisms to tetracyclines is common.
+Cross-resistance of these organisms to tetracycline is common.
 
 Minocycline has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
