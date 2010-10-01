@@ -6,7 +6,7 @@ NDC 0115-5511-03
 
 Fenofibrate Tablets
 
-54 mg*
+54 mg
 
 Rx only 1000 Tablets
 
@@ -18,6 +18,6 @@ NDC 0115-5522-03
 
 Fenofibrate Tablets
 
-160 mg*
+160 mg
 
 Rx only 1000 Tablets

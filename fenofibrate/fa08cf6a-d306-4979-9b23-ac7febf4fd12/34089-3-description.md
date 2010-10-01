@@ -8,5 +8,6 @@ The molecular formula is C20H21O4Cl and the molecular weight is 360.83; fenofibr
 The melting point is 79-82°C.
 Fenofibrate is a white solid which is stable under ordinary conditions.
 
-Each tablet also contains the following inactive ingredients: croscarmellose sodium, NF; hypromellose type 2208/100,000 cP, USP; magnesium sulfate, NF; and microcrystalline cellulose, NF.
-The film-coating material contains hypromellose type 2910/ 3 cP, 6 cP and 50 cP, macrogol, polydextrose, titanium dioxide and triacetin.
+Each tablet also contains the following inactive ingredients: croscarmellose sodium, NF; hypromellose type 2208/100,000 cP, USP; magnesium stearate, NF; and microcrystalline cellulose, NF.
+The film-coating material contains hypromellose type 2910/ 3 cP, 6 cP and 50 cP; macrogol, polydextrose, titanium dioxide and triacetin.
+In addition, the 54 mg strength film-coating material also contains D&C Yellow No. 10 Aluminum Lake and FD&C Yellow No. 6 Aluminum Lake.
