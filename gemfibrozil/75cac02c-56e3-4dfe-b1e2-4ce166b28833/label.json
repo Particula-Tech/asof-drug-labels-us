@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA079072"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Northstar RxLLC",
+  "package_ndcs": [
+    "16714-101-01",
+    "16714-101-02",
+    "16714-101-03",
+    "16714-101-04",
+    "16714-101-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "75cac02c-56e3-4dfe-b1e2-4ce166b28833",
+  "source": "dailymed"
+}
