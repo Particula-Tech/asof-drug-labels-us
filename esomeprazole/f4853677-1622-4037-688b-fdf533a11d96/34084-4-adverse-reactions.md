@@ -94,7 +94,9 @@ Immune System: anaphylactic reaction/shock;
 
 Infections and Infestations: GI candidiasis;
 
-Musculoskeletal and Connective Tissue: muscular weakness, myalgia;
+Metabolism and nutritional disorders: hypomagnesemia
+
+Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 
 Nervous System: hepatic encephalopathy, taste disturbance;
 

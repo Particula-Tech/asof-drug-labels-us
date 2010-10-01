@@ -16,20 +16,20 @@ NEXIUM is a prescription medicine called a proton pump inhibitor (PPI).
 
 NEXIUM is used in adults:
 
-• to treat the symptoms of gastroesophageal reflux disease (GERD).
+• for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
 NEXIUM may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
 
 GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
 Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
 
-• to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+• for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 
 • to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
 
 • for the long-term treatment of Zollinger-Ellison Syndrome.
 Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
 
-For children and adolescents 1 to 17 years of age, NEXIUM may be prescribed for short-term treatment of GERD.
+For children and adolescents 1 to 17 years of age, NEXIUM may be prescribed for up to 8 weeks for short-term treatment of GERD.
 
 NEXIUM is not recommended for children under the age of 1 year.
 
@@ -83,6 +83,16 @@ HOW SHOULD I TAKE NEXIUM?
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF NEXIUM?
 
+Serious allergic reactions.
+Tell your doctor if you get any of the following symptoms with NEXIUM.
+
+- rash
+- face swelling
+- throat tightness
+- difficulty breathing
+
+Your doctor may stop NEXIUM if these symptoms happen.
+
 The most common side effects with NEXIUM may include:
 
 - Headache
@@ -93,6 +103,8 @@ The most common side effects with NEXIUM may include:
 - Constipation
 - Dry mouth
 - Drowsiness
+
+People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
 Tell your doctor about any side effects that bother you or that do not go away.
 These are not all the possible side effects with NEXIUM.
@@ -163,13 +175,11 @@ Inactive granules in NEXIUM Delayed-Release Oral Suspension: dextrose, xanthan g
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2008 AstraZeneca Pharmaceuticals LP.
+©2010 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Item number
-
-March 2010
+August 2010

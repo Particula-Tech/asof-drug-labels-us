@@ -70,7 +70,7 @@ The results are shown in the following table:
 
 Table 4
 
-Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for 5 days
+Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for 5 Days
 
 | Parameter * (CV) | NEXIUM 40 mg | NEXIUM 20 mg |
 | --- | --- | --- |
@@ -221,7 +221,7 @@ Fifteen of the patients who were not eradicated of H. pylori on triple therapy a
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
 
 Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.
-One to three microliters of an inoculum equivalent to a No.2 McFarland standard (1 x 107 - 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
+One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 - 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
 The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for Campylobacter.
 After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
 The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria:

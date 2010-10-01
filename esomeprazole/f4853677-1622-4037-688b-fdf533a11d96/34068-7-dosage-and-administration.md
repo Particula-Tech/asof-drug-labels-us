@@ -31,7 +31,7 @@ Recommended Dosage Schedule of NEXIUM
 | Clarithromycin | 500 mg | Twice Daily for 10 Days |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mgThe dosage of NEXIUM in patients with pathological hypersecretory conditions varies with the individual patient. Dosage regimens should be adjusted to individual patient needs. | Doses up to 240 mg daily have been administered [see Drug Interactions (7)]. Twice Daily |
 
-Please refer to amoxicillin and clarithromycin full prescribing information for Contraindications, Warnings and dosing in elderly and renally-impaired patients.
+Please refer to amoxicillin and clarithromycin full prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
 
 Special Populations
 
