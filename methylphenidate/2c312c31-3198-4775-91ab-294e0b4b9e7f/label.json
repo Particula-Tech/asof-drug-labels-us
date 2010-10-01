@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021514"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-5552-3",
+    "68968-5553-3",
+    "68968-5554-3",
+    "68968-5555-3"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "methylphenidate",
+      "name": "Daytrana"
+    }
+  ],
+  "setid": "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+  "source": "dailymed"
+}
