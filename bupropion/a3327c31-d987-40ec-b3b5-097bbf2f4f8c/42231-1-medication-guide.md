@@ -113,7 +113,7 @@ Do not take ZYBAN if you:
 - are taking WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, or any other medicines that contain bupropion hydrochloride.
   Bupropion is the same active ingredient that is in ZYBAN.
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®*(phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®*(isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in ZYBAN, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in ZYBAN.
@@ -124,30 +124,31 @@ Tell your doctor if you have ever had depression, suicidal thoughts or actions, 
 You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without ZYBAN.
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
-- Tell your doctor about your other medical conditions, including if you
-  - 
-    - are pregnant or plan to become pregnant.
-      It is not known if ZYBAN can harm your unborn baby.
-    - are breastfeeding.
-      ZYBAN passes through your milk.
-      It is not known if ZYBAN can harm your baby.
-    - have liver problems, especially cirrhosis of the liver.
-    - have kidney problems.
-    - have an eating disorder such as anorexia nervosa or bulimia.
-    - have had a head injury.
-    - have had a seizure (convulsion, fit).
-    - have a tumor in your nervous system (brain or spine).
-    - have had a heart attack, heart problems, or high blood pressure.
-    - are a diabetic taking insulin or other medicines to control your blood sugar.
-    - drink a lot of alcohol.
-    - abuse prescription medicines or street drugs.
+- Tell your doctor about your other medical conditions,includingif you:
+- are pregnant or plan to become pregnant.
+  It is not known if ZYBAN can harm your unborn baby.
+- are breastfeeding.
+  ZYBAN passes through your milk.
+  It is not known if ZYBAN can harm your baby.
+- have liver problems, especially cirrhosis of the liver.
+- have kidney problems.
+- have an eating disorder such as anorexia nervosa or bulimia.
+- have had a head injury.
+- have had a seizure (convulsion, fit).
+- have a tumor in your nervous system (brain or spine).
+- have had a heart attack, heart problems, or high blood pressure.
+- are a diabetic taking insulin or other medicines to control your blood sugar.
+- drink a lot of alcohol.
+- abuse prescription medicines or street drugs.
 - Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
   Many medicines increase your chances of getting seizures or other serious side effects if you take them while you are using ZYBAN.
 
 How should I take ZYBAN?
 
 - Take ZYBAN exactly as prescribed by your doctor.
-- Do not chew, cut, or crush ZYBAN Tablets.
+- Do not chew, cut, or crush ZYBAN tablets.
+  If you do, the medicine will be released into your body too quickly.
+  If this happens you may be more likely to get side effects including seizures.
   You must swallow the tablets whole.
   Tell your doctor if you cannot swallow medicine tablets.
 - Take ZYBAN at the same time each day.
@@ -170,7 +171,7 @@ When should I stop smoking?
 
 It takes about 1 week for ZYBAN to start working.
 For your best chance of quitting, you should not stop smoking until you have been taking ZYBAN for 1 week.
-You should set a date to stop smoking during the second week you're taking ZYBAN.
+You should set a date to stop smoking during the second week you’re taking ZYBAN.
 
 Can I smoke while taking ZYBAN?
 
@@ -236,17 +237,13 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 The tablets are printed with edible black ink.
 In addition, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake.
 
-WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
-
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
-
 Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-July 2009
+ZYBAN, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, and PARNATE are registered trademarks of GlaxoSmithKline.
 
-ZYB:5MG
+The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
 
 Distributed by:
 
@@ -264,9 +261,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-July 2009
+September 2010
 
-ZYB:4PI
+ZYB:6MG

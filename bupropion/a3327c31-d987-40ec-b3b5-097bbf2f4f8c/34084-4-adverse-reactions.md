@@ -31,22 +31,35 @@ Treatment-Emergent Adverse Event Incidence in the Dose-Response Triala
 | Body System/Adverse Experience | ZYBAN 100 to 300 mg/day(n = 461)% | Placebo(n = 150)% |
 | --- | --- | --- |
 | Body (General) |  |  |
-| Neck pain Allergic reaction | 21 | <10 |
+| Neck pain | 2 | <1 |
+| Allergic reaction | 1 | 0 |
 | Cardiovascular |  |  |
-| Hot flashes Hypertension | 11 | 0<1 |
+| Hot flashes | 1 | 0 |
+| Hypertension | 1 | <1 |
 | Digestive |  |  |
-| Dry mouth Increased appetite Anorexia | 1121 | 5<1<1 |
+| Dry mouth | 11 | 5 |
+| Increased appetite | 2 | <1 |
+| Anorexia | 1 | <1 |
 | Musculoskeletal |  |  |
-| Arthralgia Myalgia | 42 | 31 |
+| Arthralgia | 4 | 3 |
+| Myalgia | 3 | 1 |
 | Nervous system |  |  |
-| Insomnia Dizziness Tremor Somnolence Thinking abnormality | 318221 | 217110 |
+| Insomnia | 31 | 21 |
+| Dizziness | 8 | 7 |
+| Tremor | 2 | 1 |
+| Somnolence | 2 | 1 |
+| Thinking abnormality | 1 | 0 |
 | Respiratory |  |  |
 | Bronchitis | 2 | 0 |
 | Skin |  |  |
-| Pruritus Rash Dry skin Urticaria | 3321 | <1<100 |
+| Pruritus | 3 | <1 |
+| Rash | 3 | <1 |
+| Dry skin | 2 | 0 |
+| Urticaria | 1 | 0 |
 | Special senses |  |  |
 | Taste perversion | 2 | <1 |
-| a Selected adverse events with an incidence of at least 1% of patients treated with ZYBAN and more frequent than in the placebo group. |  |  |
+
+a Selected adverse events with an incidence of at least 1% of patients treated with ZYBAN and more frequent than in the placebo group.
 
 Table 6.
 Treatment-Emergent Adverse Event Incidence in the Comparative Triala
@@ -54,23 +67,51 @@ Treatment-Emergent Adverse Event Incidence in the Comparative Triala
 | Adverse Experience(COSTART Term) | ZYBAN300 mg/day(n = 243)% | Nicotine Transdermal System (NTS)21 mg/day(n = 243)% | ZYBANand NTS(n = 244)% | Placebo(n = 159)% |
 | --- | --- | --- | --- | --- |
 | Body |  |  |  |  |
-| Abdominal pain Accidental injury Chest pain Neck pain Facial edema | 32<12<1 | 42110 | 113<11 | 11100 |
+| Abdominal pain | 3 | 4 | 1 | 1 |
+| Accidental injury | 2 | 2 | 1 | 1 |
+| Chest pain | <1 | 1 | 3 | 1 |
+| Neck pain | 2 | 1 | <1 | 0 |
+| Facial edema | <1 | 0 | 1 | 0 |
 | Cardiovascular |  |  |  |  |
-| Hypertension Palpitations | 12 | <10 | 21 | 00 |
+| Hypertension | 1 | <1 | 2 | 0 |
+| Palpitations | 2 | 0 | 1 | 0 |
 | Digestive |  |  |  |  |
-| Nausea Dry mouth Constipation Diarrhea Anorexia Mouth ulcer Thirst | 9108432<1 | 744411<1 | 11993512 | 4431110 |
+| Nausea | 9 | 7 | 11 | 4 |
+| Dry mouth | 10 | 4 | 9 | 4 |
+| Constipation | 8 | 4 | 9 | 3 |
+| Diarrhea | 4 | 4 | 3 | 1 |
+| Anorexia | 3 | 1 | 5 | 1 |
+| Mouth ulcer | 2 | 1 | 1 | 1 |
+| Thirst | <1 | <1 | 2 | 0 |
 | Musculoskeletal |  |  |  |  |
-| Myalgia Arthralgia | 45 | 33 | 53 | 32 |
+| Myalgia | 4 | 3 | 5 | 3 |
+| Arthralgia | 5 | 3 | 3 | 2 |
 | Nervous system |  |  |  |  |
-| Insomnia Dream abnormality Anxiety Disturbed concentration Dizziness Nervousness Tremor Dysphoria | 405891041<1 | 2818632<1<11 | 4513998222 | 183646201 |
+| Insomnia | 40 | 28 | 45 | 18 |
+| Dream abnormality | 5 | 18 | 13 | 3 |
+| Anxiety | 8 | 6 | 9 | 6 |
+| Disturbed concentration | 9 | 3 | 9 | 4 |
+| Dizziness | 10 | 2 | 8 | 6 |
+| Nervousness | 4 | <1 | 2 | 2 |
+| Tremor | 1 | <1 | 2 | 0 |
+| Dysphoria | <1 | 1 | 2 | 1 |
 | Respiratory |  |  |  |  |
-| Rhinitis Increased cough Pharyngitis Sinusitis Dyspnea Epistaxis | 1233212 | 1152201 | 9<13221 | 810110 |
+| Rhinitis | 12 | 11 | 9 | 8 |
+| Increased cough | 3 | 5 | <1 | 1 |
+| Pharyngitis | 3 | 2 | 3 | 0 |
+| Sinusitis | 2 | 2 | 2 | 1 |
+| Dyspnea | 1 | 0 | 2 | 1 |
+| Epistaxis | 2 | 1 | 1 | 0 |
 | Skin |  |  |  |  |
-| Application site reactionb Rash Pruritus Urticaria | 11432 | 17310 | 15352 | 7210 |
+| Application site reactionb | 11 | 17 | 15 | 7 |
+| Rash | 4 | 3 | 3 | 2 |
+| Pruritus | 3 | 1 | 5 | 1 |
+| Urticaria | 2 | 0 | 2 | 0 |
 | Special Senses |  |  |  |  |
-| Taste perversion Tinnitus | 31 | 10 | 3<1 | 20 |
+| Taste perversion | 3 | 1 | 3 | 2 |
+| Tinnitus | 1 | 0 | <1 | 0 |
 
-aSelected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group.
+a Selected adverse events with an incidence of at least 1% of patients treated with either ZYBAN, NTS, or the combination of ZYBAN and NTS and more frequent than in the placebo group.
 
 b Patients randomized to ZYBAN or placebo received placebo patches.
 

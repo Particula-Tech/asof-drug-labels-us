@@ -4,3 +4,28 @@ ZYBAN Sustained-Release Tablets, 150 mg of bupropion hydrochloride, are purple, 
 
 Store at controlled room temperature, 20° to 25°C (68° to 77°F) (see USP).
 Dispense in tight, light-resistant containers as defined in the USP.
+
+ZYBAN, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL are registered trademarks of GlaxoSmithKline.KALETRA is a registered trademark of Abbott Laboratories.
+
+Distributed by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Manufactured by:
+
+GlaxoSmithKline
+
+Research Triangle Park
+
+or DSM Pharmaceuticals, Inc.
+
+Greenville, NC 27834
+
+©2010, GlaxoSmithKline.
+All rights reserved.
+
+September 2010
+
+ZYB:5PI

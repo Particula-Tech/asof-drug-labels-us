@@ -25,7 +25,7 @@ Dose-Response Trial: Quit Rates by Treatment Group
 | Week 12 | 14%(8-19) | 20%(13-26) | 20%(14-27) | 25%a(18-32) |
 | Week 26 | 11%(6-16) | 16%(11-22) | 18%(12-24) | 19%a(13-25) |
 
-aSignificantly different from placebo (P≤0.05).
+a Significantly different from placebo (P≤0.05).
 
 The second study was a comparative trial conducted at 4 clinical centers.
 Four treatments were evaluated: ZYBAN 300 mg/day, nicotine transdermal system (NTS) 21 mg/day, combination of ZYBAN 300 mg/day plus NTS 21 mg/day, and placebo.
@@ -85,4 +85,4 @@ COPD Trial: Quit Rates by Treatment Group
 | Placebo(n = 200)%(95% CI) | ZYBAN 300 mg/day(n = 204)%(95% CI) |  |
 | Weeks 9 through 12 | 12%(8-16) | 22%a(17-27) |
 
-aSignificantly different from placebo (P<0.05).
+a Significantly different from placebo (P<0.05).

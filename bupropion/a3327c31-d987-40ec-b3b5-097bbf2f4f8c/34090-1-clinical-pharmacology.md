@@ -15,7 +15,7 @@ The terminal phase has a mean half-life (±% CV) of about 21 hours (±20%), whil
 
 ### Absorption
 
-Bupropion has not been administered intravenously to humans; therefore, the absolute bioavailability of ZYBAN Sustained-Release Tablets in humans has not been determined.
+Bupropion has not been administered intravenously to humans; therefore, the absolute bioavailability of ZYBAN in humans has not been determined.
 In rat and dog studies, the bioavailability of bupropion ranged from 5% to 20%.
 
 Following oral administration of ZYBAN to healthy volunteers, peak plasma concentrations of bupropion are achieved within 3 hours.
@@ -39,13 +39,22 @@ Three metabolites have been shown to be active: hydroxybupropion, which is forme
 In vitro findings suggest that cytochrome P450IIB6 (CYP2B6) is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 isoenzymes are not involved in the formation of threohydrobupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
-However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one- half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
+However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
+
+In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and the Cmax of bupropion by 66% and 62%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
+
+In another healthy volunteer study, KALETRA® (lopinavir 400 mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion were decreased by 50% and 31%, respectively (see PRECAUTIONS: Drug Interactions).
+
 Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme (see PRECAUTIONS: Drug Interactions).
 
-Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of ZYBAN Tablets.
+Following a single dose in humans, peak plasma concentrations of hydroxybupropion occur approximately 6 hours after administration of ZYBAN.
 Peak plasma concentrations of hydroxybupropion are approximately 10 times the peak level of the parent drug at steady state.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 17 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite; however, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs are 1.5 and 7 times that of bupropion, respectively.

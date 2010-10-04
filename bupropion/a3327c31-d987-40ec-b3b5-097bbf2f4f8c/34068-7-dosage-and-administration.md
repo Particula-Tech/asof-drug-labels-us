@@ -6,7 +6,7 @@ The recommended and maximum dose of ZYBAN is 300 mg/day, given as 150 mg twice d
 Dosing should begin at 150 mg/day given every day for the first 3 days, followed by a dose increase for most patients to the recommended usual dose of 300 mg/day.
 There should be an interval of at least 8 hours between successive doses.
 Doses above 300 mg/day should not be used (see WARNINGS).
-ZYBAN should be swallowed whole and not crushed, divided, or chewed.
+ZYBAN should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
 Treatment with ZYBAN should be initiated while the patient is still smoking, since approximately 1 week of treatment is required to achieve steady-state blood levels of bupropion.
 Patients should set a “target quit date” within the first 2 weeks of treatment with ZYBAN, generally in the second week.
 Treatment with ZYBAN should be continued for 7 to 12 weeks; longer treatment should be guided by the relative benefits and risks for individual patients.
