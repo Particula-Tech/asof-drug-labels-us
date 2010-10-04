@@ -1,6 +1,6 @@
 For Intravenous Infusion
 
-Rx only
+SAGENT™ Rx only
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of CIPROFLOXACIN INJECTION, USP and other antibacterial drugs, CIPROFLOXACIN INJECTION, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -14,14 +14,13 @@ In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak
 After the second intravenous infusion patients switched to 15 mg/kg orally every 12 hours achieve a mean peak concentration of 3.6 μg/mL after the initial oral dose.
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
 (For additional information, see PRECAUTIONS, Pediatric Use.)
-Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.4
+Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.5
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 × 105) spores (range 5-30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 μg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 to 1.69 μg/mL.
-Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL5.
-Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p=0.001].
-The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.6
+Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL.6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p=0.001].
+The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibiotic prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.

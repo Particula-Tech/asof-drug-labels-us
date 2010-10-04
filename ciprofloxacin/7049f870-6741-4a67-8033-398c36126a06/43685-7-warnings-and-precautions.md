@@ -46,7 +46,7 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-- fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome)
+- fever, rash, or severe dermatologic reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome);
 - vasculitis; arthralgia; myalgia; serum sickness;
 - allergic pneumonitis;
 - interstitial nephritis; acute renal insufficiency or failure;
@@ -90,7 +90,7 @@ Renal Impairment: Alteration of the dosage regimen is necessary for patients wit
 
 Photosensitivity/Phototoxicity: Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS and ADVERSE REACTIONS/ Post-Marketing Adverse Events).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.
 
@@ -185,7 +185,7 @@ Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic o
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
 Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin.
 The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin (mouse dose approximately equal to maximum recommended human dose based upon mg/m2), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
-The times to development of skin tumors ranged from 16-32 weeks in mice treated concomitantly with UVA and other quinolones.3
+The times to development of skin tumors ranged from 16-32 weeks in mice treated concomitantly with UVA and other quinolones.4
 
 In this model, mice treated with ciprofloxacin alone did not develop skin or systemic tumors.
 There are no data from similar models using pigmented mice and/or fully haired mice.
@@ -195,18 +195,18 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 Pregnancy: Teratogenic Effects.
 Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
-An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.7
+An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.8
 
-A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.8 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
+A controlled prospective observational study followed 200 women exposed to fluoroquinolones (52.5% exposed to ciprofloxacin and 68% first trimester exposures) during gestation.9 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
 The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1-5%).
 Rates of spontaneous abortions, prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children.
 
-Another prospective follow-up study reported on 549 pregnancies with fluoroquinolone exposure (93% first trimester exposures).9 There were 70 ciprofloxacin exposures, all within the first trimester.
+Another prospective follow-up study reported on 549 pregnancies with fluoroquinolone exposure (93% first trimester exposures).10 There were 70 ciprofloxacin exposures, all within the first trimester.
 The malformation rates among live-born babies exposed to ciprofloxacin and to fluoroquinolones overall were both within background incidence ranges.
 No specific patterns of congenital abnormalities were found.
 The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
 
-No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.7,8 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
+No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.8,9 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS).
 
 Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.

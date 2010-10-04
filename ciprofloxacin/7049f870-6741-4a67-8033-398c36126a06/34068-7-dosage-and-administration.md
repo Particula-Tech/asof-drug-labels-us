@@ -17,7 +17,7 @@ ADULT DOSAGE GUIDELINES
 | Nosocomial Pneumonia | Mild/Moderate/Severe | 400 mg | q8h | 10-14 Days |
 | Skin and | Mild/Moderate | 400 mg | q12h | 7-14 Days |
 | Skin Structure | Severe/Complicated | 400 mg | q8h | 7-14 Days |
-| Bone and Joint | Mild/Moderate Severe/Complicated | 400 mg 400 mg | q12h q8h | ≥ 4-6 Weeks ≥4-6 Weeks |
+| Bone and Joint | Mild/Moderate Severe/Complicated | 400 mg 400 mg | q12h q8h | ≥4-6 Weeks ≥4-6 Weeks |
 | Intra-Abdominal * | Complicated | 400 mg | q12h | 7-14 Days |
 | Acute Sinusitis | Mild/Moderate | 400 mg | q12h | 10 Days |
 | Chronic Bacterial Prostatitis | Mild/Moderate | 400 mg | q12h | 28 Days |
@@ -28,13 +28,15 @@ ADULT DOSAGE GUIDELINES
 | Inhalational anthrax (post-exposure) ** |  | 400 mg | q12h | 60 Days |
 | *used in conjunction with metronidazole. (See product labeling for prescribing information.) |  |  |  |  |
 | *** DUE TO THE DESIGNATED PATHOGENS (See INDICATIONS AND USAGE) |  |  |  |  |
-| **Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX -- ADDITIONAL INFORMATION. Total duration of ciprofloxacin administration (I.V. or oral) for inhalational anthrax (post-exposure) is 60 days. |  |  |  |  |
+| **Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX - ADDITIONAL INFORMATION. Total duration of ciprofloxacin administration (I.V. or oral) for inhalational anthrax (post-exposure) is 60 days. |  |  |  |  |
 
 CIPROFLOXACIN INJECTION, USP should be administered by intravenous infusion over a period of 60 minutes.
 
 Conversion of I.V. to Oral Dosing in Adults: CIPROFLOXACIN is also available for oral administration.
 Parenteral therapy may be switched to oral therapy when the condition warrants, at the discretion of the physician.
 (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens.)
+
+Equivalent AUC Dosing Regimens
 
 | CIPROFLOXACIN Oral Dosage | Equivalent CIPROFLOXACIN INJECTION Dosage |
 | --- | --- |
@@ -79,12 +81,12 @@ PEDIATRIC DOSAGE GUIDELINES
 
 | Infection | Route of Administration | Dose (mg/kg) | Frequency | Total Duration |
 | --- | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 days * |
+| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 days* |
 | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
 | Inhalational Anthrax (Post-Exposure) ** | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
 | * The total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |  |
-| ** Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX - ADDITIONAL INFORMATION. |  |  |  |  |
+| ** Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX - ADDITIONAL INFORMATION. |  |  |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.
 No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (i.e., creatinine clearance of < 50 mL/min/1.73m2).
