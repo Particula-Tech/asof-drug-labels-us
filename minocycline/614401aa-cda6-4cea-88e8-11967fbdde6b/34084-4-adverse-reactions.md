@@ -45,14 +45,16 @@ Bulging fontanels in infants and benign intracranial hypertension (pseudotumor c
 (See PRECAUTIONS - General.)
 Headache has also been reported.
 
-Other: When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
+Other: Thyroid cancer has been reported in the post-marketing setting in association with minocycline products.
+When minocycline therapy is given over prolonged periods, monitoring for signs of thyroid cancer should be considered.
+When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 Cases of abnormal thyroid function have been reported.
 
 Tooth discoloration in children less than 8 years of age (see WARNINGS) and also, in adults has been reported.
 
 Oral cavity discoloration (including tongue, lip, and gum) have been reported.
 
-Tinnitus and decreased hearing have been reported in patients on MINOCIN®.
+Tinnitus and decreased hearing have been reported in patients on MINOCIN.
 
 The following syndromes have been reported.
 In some cases involving these syndromes, death has been reported.

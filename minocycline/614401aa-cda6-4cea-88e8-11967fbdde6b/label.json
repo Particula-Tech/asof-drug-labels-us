@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050649"
+  ],
   "inn": "minocycline",
   "labeler": "Triax Pharmaceuticals, LLC",
   "package_ndcs": [
     "14290-500-86",
     "14290-501-88"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocin"
+    }
+  ],
   "setid": "614401aa-cda6-4cea-88e8-11967fbdde6b",
   "source": "dailymed"
 }

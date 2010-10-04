@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL
+
+MINOCIN 100 mg Capulse (Bottles of 50)
+
+NDC 14290-500-86
+
+MINOCIN 50 mg Capsules (Bottles of 100)
+
+NDC 14290-501-88
