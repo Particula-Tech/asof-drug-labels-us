@@ -1,4 +1,4 @@
 # INDICATIONS AND USAGE
 
-Clonidine hydrochloride is indicated in the treatment of hypertension.
-Clonidine hydrochloride may be employed alone or concomitantly with other antihypertensive agents.
+Clonidine hydrochloride tablets are indicated in the treatment of hypertension.
+Clonidine hydrochloride tablets may be employed alone or concomitantly with other antihypertensive agents.

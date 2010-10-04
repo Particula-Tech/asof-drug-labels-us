@@ -2,7 +2,7 @@
 
 Clonidine stimulates alpha-adrenoreceptors in the brain stem.
 This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure.
-Clonidine hydrochloride acts relatively rapidly.
+Clonidine hydrochloride tablets acts relatively rapidly.
 The patient's blood pressure declines within 30 to 60 minutes after an oral dose, the maximum decrease occurring within 2 to 4 hours.
 Renal blood flow and glomerular filtration rate remain essentially unchanged.
 Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent.
@@ -24,3 +24,4 @@ The plasma level of clonidine peaks in approximately 3 to 5 hours and the plasma
 The half-life increases up to 41 hours in patients with severe impairment of renal function.
 Following oral administration about 40-60% of the absorbed dose is recovered in the urine as unchanged drug in 24 hours.
 About 50% of the absorbed dose is metabolized in the liver.
+Neither food nor the race of the patient influences the pharmacokinetics of clonidine.

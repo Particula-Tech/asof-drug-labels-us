@@ -9,7 +9,6 @@
     "29300-135-05",
     "29300-135-10",
     "29300-135-50",
-    "29300-135-90",
     "29300-136-01",
     "29300-136-05",
     "29300-136-10",
@@ -23,7 +22,7 @@
     {
       "form": "TABLET",
       "generic": "clonidine hydrochloride",
-      "name": "clonidine hydrochloride tablets"
+      "name": "clonidine hydrochloride"
     }
   ],
   "setid": "21bfa28f-20df-43fd-bb80-b720d3b40696",
