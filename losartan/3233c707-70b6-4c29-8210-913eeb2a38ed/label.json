@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA078243"
+  ],
+  "inn": "losartan",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-135-01",
+    "68382-135-06",
+    "68382-135-10",
+    "68382-135-16",
+    "68382-135-24",
+    "68382-135-40",
+    "68382-136-01",
+    "68382-136-06",
+    "68382-136-10",
+    "68382-136-16",
+    "68382-136-24",
+    "68382-137-01",
+    "68382-137-06",
+    "68382-137-10",
+    "68382-137-16",
+    "68382-137-40"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "Losortan Potassium"
+    }
+  ],
+  "setid": "3233c707-70b6-4c29-8210-913eeb2a38ed",
+  "source": "dailymed"
+}
