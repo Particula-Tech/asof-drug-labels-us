@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020564",
+    "NDA020596"
+  ],
+  "inn": "lamivudine",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-203-18",
+    "49702-204-13",
+    "49702-205-48"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lamivudine",
+      "name": "EPIVIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "EPIVIR"
+    }
+  ],
+  "setid": "89226149-47fa-4f7d-bb1f-1aa7034486b8",
+  "source": "dailymed"
+}
