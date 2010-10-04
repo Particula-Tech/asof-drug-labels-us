@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078232"
+  ],
+  "inn": "losartan",
+  "labeler": "Lupin Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "68180-210-01",
+    "68180-210-03",
+    "68180-210-06",
+    "68180-210-09",
+    "68180-211-01",
+    "68180-211-03",
+    "68180-211-06",
+    "68180-211-09",
+    "68180-212-01",
+    "68180-212-03",
+    "68180-212-06",
+    "68180-212-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "losartan potassium",
+      "name": "Losartan Potassium"
+    }
+  ],
+  "setid": "e5886220-43b7-46e1-9034-5242ba245bd1",
+  "source": "dailymed"
+}
