@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021371"
+  ],
+  "inn": "estradiol",
+  "labeler": "Graceway Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "29336-325-56"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "estradiol",
+      "name": "Estrasorb"
+    }
+  ],
+  "setid": "4aa0642b-5de8-5048-a02b-28e4787f7013",
+  "source": "dailymed"
+}
