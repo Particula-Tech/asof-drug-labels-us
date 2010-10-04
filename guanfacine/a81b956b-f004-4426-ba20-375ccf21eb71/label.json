@@ -5,7 +5,9 @@
   "inn": "guanfacine",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
+    "0591-0444-00",
     "0591-0444-01",
+    "0591-0453-00",
     "0591-0453-01"
   ],
   "products": [
