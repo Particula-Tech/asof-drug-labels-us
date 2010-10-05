@@ -7,7 +7,7 @@ The following adverse reactions have been reported as associated with the use of
 
 ## Gastrointestinal
 
-Glossitis, stomatitis, black “hairy” tongue, nausea, vomiting, enterocolitis, pseudomembranous colitis, and diarrhea.
+Glossitis, stomatitis, black hairy tongue, nausea, vomiting, enterocolitis, pseudomembranous colitis, and diarrhea.
 (These reactions are usually associated with oral dosage forms.)
 
 ## Hypersensitivity Reactions

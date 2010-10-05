@@ -62,13 +62,13 @@ Stability studies on ampicillin sodium at several concentrations in various intr
 | 5% Dextrose in Water | 10 to 20 mg/mL | 1 hour |
 | 5% Dextrose in Water | up to 2 mg/mL | 2 hours |
 | 5% Dextrose in 0.45% NaCl Inj. | up to 2 mg/mL | 2 hours |
-| Lactated Ringer’s Solution | up to 30 mg/mL | 8 hours |
+| Lactated Ringers Solution | up to 30 mg/mL | 8 hours |
 | Refrigerated (4° C) |  |  |
 | Sterile Water for Injection | 30 mg/mL | 48 hours |
 | Sterile Water for Injection | up to 20 mg/mL | 72 hours |
 | Sodium Chloride Injection USP, 0.9% | 30 mg/mL | 24 hours |
 | Sodium Chloride Injection USP, 0.9% | up to 20 mg/mL | 48 hours |
-| Lactated Ringer’s Solution | up to 30 mg/mL | 24 hours |
+| Lactated Ringers Solution | up to 30 mg/mL | 24 hours |
 | 5% Dextrose in Water | up to 20 mg/mL | 1 hour |
 | 5% Dextrose and 0.45% NaCl Inj. | up to 10 mg/mL | 1 hour |
 

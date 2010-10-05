@@ -61,7 +61,7 @@ It is not known whether this potentiation of ampicillin rashes is due to allopur
 
 ## Drug/Laboratory Test Interactions
 
-With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedict’s Solution, or Fehling’s Solution are used.
+With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedicts Solution, or Fehlings Solution are used.
 Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix or Tes-Tape) be used.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility

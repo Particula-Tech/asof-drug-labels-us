@@ -1,13 +1,11 @@
-# 10 gram Pharmacy Bulk Package Vial Label
+# 10 gram Pharmacy Bulk Label
 
 NDC 0781-9409-46
 
 Ampicillin
 
-for Injection, USP Rx only
+for Injection, USP
 
-10 grams
+10 grams Rx only
 
 For IM or IV use*
-
-NOVAPLUS®
