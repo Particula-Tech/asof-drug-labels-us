@@ -11,4 +11,4 @@ It has an empirical formula of C18H24O2 and molecular weight of 272.39.
 The structural formula is:
 
 The active component of the transdermal gel is estradiol.
-The remaining components of the gel (purified water, alcohol, triethanolamine and carbomer 934P) are pharmacologically inactive.
+The remaining components of the gel (purified water, alcohol, triethanolamine and carbomer 980) are pharmacologically inactive.

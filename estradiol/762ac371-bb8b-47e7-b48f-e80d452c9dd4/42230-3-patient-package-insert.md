@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-(Updated 2008)
+(Updated 2009)
 
 EstroGel® (estradiol gel)
 
@@ -200,7 +200,7 @@ You can get more information by calling the toll-free number, 1-877-204-1013.
 
 What are the ingredients in EstroGel?
 
-EstroGel contains estradiol (an estrogen hormone), purified water, alcohol, triethanolamine, and carbomer 934P.
+EstroGel contains estradiol (an estrogen hormone), purified water, alcohol, triethanolamine, and carbomer 980.
 
 EstroGel should be stored with the cap on securely.
 Do not freeze.
@@ -211,4 +211,4 @@ Manufactured for: ASCEND Therapeutics, Inc. Herndon, VA 20170 By Laboratoires Be
 
 5000718 E01306 Utilizes EHGTM Technology
 
-©2008 ASCEND Therapeutics, Inc.
+©2009 ASCEND Therapeutics, Inc.

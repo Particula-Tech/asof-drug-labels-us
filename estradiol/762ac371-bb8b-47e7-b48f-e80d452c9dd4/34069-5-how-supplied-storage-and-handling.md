@@ -29,4 +29,4 @@ Manufactured for: ASCEND Therapeutics, Inc. Herndon, VA 20170 By Laboratoires Be
 
 Utilizes EHGTM Technology
 
-©2008 ASCEND Therapeutics, Inc.
+©2009 ASCEND Therapeutics, Inc.
