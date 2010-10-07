@@ -58,7 +58,7 @@ Hypoglycemia
 In all (N=5) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
 When the combination of sitagliptin and metformin was co-administered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin co-administered with a sulfonylurea or with insulin (Table 3).
 
-Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent to Treat Population.
+Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required: Intent-to-treat population.
 (Regardless of Investigator Assessment of Causality) in Placebo-Controlled Clinical Studies of Sitagliptin in Combination with Metformin Co-administered with Glimepiride or Insulin
 
 | Add-On to Glimepiride + Metformin (24 weeks) | Sitagliptin 100 mg+ Metformin+ Glimepiride | Placebo+ Metformin+ Glimepiride |
@@ -81,6 +81,8 @@ Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients give
 
 With the combination of sitagliptin and metformin, no clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed.
 
+In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control) [See Warnings and Precautions (5.2).]
+
 The most common adverse experience in sitagliptin monotherapy reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo was nasopharyngitis.
 
 The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
@@ -101,7 +103,8 @@ Such decrease, possibly due to interference with B12 absorption from the B12-int
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
+Additional adverse reactions have been identified during postapproval use of JANUMET or sitagliptin, one of the components of JANUMET.
+These reactions have been reported when JANUMET or sitagliptin have been used alone and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Limitations of Use (1); Warnings and Precautions (5.2)].
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.14)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Limitations of Use (1); Warnings and Precautions (5.2)]; constipation; vomiting; headache.

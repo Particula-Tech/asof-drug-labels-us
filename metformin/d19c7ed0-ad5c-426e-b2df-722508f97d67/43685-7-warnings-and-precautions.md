@@ -56,7 +56,7 @@ Metformin and sitagliptin are known to be substantially excreted by the kidney.
 The risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive JANUMET.
 In the elderly, JANUMET should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging can be associated with reduced renal function.
-[See Warnings and Precautions (5.1) and Use in Specific Populations (8.5).]
+[See Warnings and Precautions (5.1); Use in Specific Populations (8.5).]
 
 Before initiation of therapy with JANUMET and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET discontinued if evidence of renal impairment is present.

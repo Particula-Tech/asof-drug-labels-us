@@ -10,7 +10,7 @@ There are no adequate and well-controlled studies in pregnant women with JANUMET
 JANUMET should be used during pregnancy only if clearly needed.
 
 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., maintains a registry to monitor the pregnancy outcomes of women exposed to JANUMET while pregnant.
-Health care providers are encouraged to report any prenatal exposure to JANUMET by calling the Pregnancy Registry at (800) 986-8999.
+Health care providers are encouraged to report any prenatal exposure to JANUMET by calling the Pregnancy Registry at 1-800-986-8999.
 
 No animal studies have been conducted with the combined products in JANUMET to evaluate effects on reproduction.
 The following data are based on findings in studies performed with sitagliptin or metformin individually.
@@ -32,7 +32,7 @@ Placental transfer of sitagliptin administered to pregnant rabbits was approxima
 
 Metformin hydrochloride
 
-Metformin was not teratogenic in rats and rabbits at doses up to 600 mg /kg/day.
+Metformin was not teratogenic in rats and rabbits at doses up to 600 mg/kg/day.
 This represents an exposure of about 2 and 6 times the maximum recommended human daily dose of 2,000 mg based on body surface area comparisons for rats and rabbits, respectively.
 Determination of fetal concentrations demonstrated a partial placental barrier to metformin.
 
@@ -67,4 +67,4 @@ Controlled clinical studies of metformin did not include sufficient numbers of e
 Metformin should only be used in patients with normal renal function.
 The initial and maintenance dosing of metformin should be conservative in patients with advanced age, due to the potential for decreased renal function in this population.
 Any dose adjustment should be based on a careful assessment of renal function.
-[See Contraindications (4); Warnings and Precautions (5.4); and Clinical Pharmacology (12.3).]
+[See Contraindications (4); Warnings and Precautions (5.4); Clinical Pharmacology (12.3).]

@@ -25,7 +25,7 @@ You:
 - have sudden stomach or intestinal problems with nausea and vomiting or diarrhea.
 - feel cold, especially in your arms and legs.
 - feel dizzy or lightheaded.
-- have a slow or irregular heart beat.
+- have a slow or irregular heartbeat.
 
 You have a higher chance of getting lactic acidosis if you:
 
@@ -83,7 +83,7 @@ Do not take JANUMET if:
 - you have kidneys which are not working properly.
 - you are going to get an injection of dye or contrast agents for an x-ray procedure, JANUMET will need to be stopped for a short time.
   Talk to your doctor about when you should stop JANUMET and when you should start JANUMET again.
-  See “What is the most important information I should know about JANUMET?”
+  See “What is the most important information I should know about JANUMET?”.
 
 What should I tell my doctor before taking JANUMET?
 
@@ -119,7 +119,7 @@ How should I take JANUMET?
 - Your doctor may change your dose of JANUMET if needed.
 - Your doctor may tell you to take JANUMET along with certain other diabetes medicines.
   Low blood sugar can happen more often when JANUMET is taken with certain other diabetes medicines.
-  See "What are the possible side effects of JANUMET?"
+  See "What are the possible side effects of JANUMET?".
 - Take JANUMET with meals to lower your chance of having an upset stomach.
 - Continue to take JANUMET as long as your doctor tells you.
 - If you take too much JANUMET, call your doctor or local Poison Control Center right away.
@@ -132,7 +132,7 @@ How should I take JANUMET?
     Dehydration can occur if you are sick with severe vomiting, diarrhea or fever, or if you drink a lot less fluid than normal.
   - plan to have surgery.
   - are going to get an injection of dye or contrast agent for an x-ray procedure.
-    See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?"
+    See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?".
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these problems and follow your doctor’s instructions.
 - Check your blood sugar as your doctor tells you to.
@@ -207,7 +207,7 @@ For more information go to www.JANUMET.com or call 1-800-622-4477.
 
 What are the ingredients in JANUMET?
 
-Active ingredients: sitagliptin and metformin hydrochloride.
+Active ingredients: sitagliptin and metformin hydrochloride
 
 Inactive ingredients: microcrystalline cellulose, polyvinylpyrrolidone, sodium lauryl sulfate, and sodium stearyl fumarate.
 The tablet film coating contains the following inactive ingredients: polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, red iron oxide, and black iron oxide.
@@ -227,10 +227,10 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised February 2010
+Revised September 2010
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9984500
+9984501
 
-This Medication Guide has been approved by the US Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

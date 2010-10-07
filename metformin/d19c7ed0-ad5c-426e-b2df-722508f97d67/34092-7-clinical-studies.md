@@ -19,7 +19,7 @@ For patients not on an antihyperglycemic agent at study entry, mean reductions f
 Lipid effects were generally neutral.
 The decrease in body weight in the groups given sitagliptin in combination with metformin was similar to that in the groups given metformin alone or placebo.
 
-Table 4: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Inadequately Controlled on Diet and ExerciseIntent to Treat Population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
+Table 4: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Inadequately Controlled on Diet and ExerciseIntent-to-treat population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
 
 |  | Placebo | Sitagliptin100 mg QD | Metformin 500 mg bid | Metformin 1000 mg bid | Sitagliptin 50 mg bid + Metformin 500 mg bid | Sitagliptin 50 mg bid + Metformin 1000 mg bid |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ In combination with metformin, sitagliptin provided significant improvements in 
 Rescue glycemic therapy was used in 5% of patients treated with sitagliptin 100 mg and 14% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 5: Glycemic Parameters at Final Visit (24-Week Study) of Sitagliptin as Add-on Combination Therapy with MetforminIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
+Table 5: Glycemic Parameters at Final Visit (24-Week Study) of Sitagliptin as Add-on Combination Therapy with MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | Sitagliptin 100 mg QD + Metformin | Placebo + Metformin |
 | --- | --- | --- |
@@ -82,12 +82,12 @@ After a dose-titration and dose-stable run-in period of up to 16 weeks and a 2-w
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
 Patients receiving sitagliptin with metformin and glimepiride had significant improvements in A1C and FPG compared to patients receiving placebo with metformin and glimepiride (Table 6), with mean reductions from baseline relative to placebo in A1C of -0.9% and in FPG of -21 mg/dL.
-Rescue therapy was used in 8% of patients treated with sitagliptin 100 mg and 29% of patients treated with add-on placebo.
+Rescue therapy was used in 8% of patients treated with add-on sitagliptin 100 mg and 29% of patients treated with add-on placebo.
 The patients treated with add-on sitagliptin had a mean increase in body weight of 1.1 kg vs. add-on placebo (+0.4 kg vs. -0.7 kg).
 In addition, add-on sitagliptin resulted in an increased rate of hypoglycemia compared to add-on placebo.
 [See Warnings and Precautions (5.9); Adverse Reactions (6.1).]
 
-Table 6: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin in Combination with Metformin and GlimepirideIntent to Treat Population using last observation on study prior to pioglitazone rescue therapy.
+Table 6: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin in Combination with Metformin and GlimepirideIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | Sitagliptin 100 mg + Metformin and Glimepiride | Placebo + Metformin and Glimepiride |
 | --- | --- | --- |
@@ -111,11 +111,11 @@ Patients who failed to meet specific glycemic goals during the studies were trea
 The primary time point for evaluation of glycemic parameters was Week 18.
 
 In combination with metformin and rosiglitazone, sitagliptin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin and rosiglitazone (Table 7) at Week 18.
-At Week 54, mean reduction in A1C was -1.0% for patients treated with sitagliptin and -0.3% for patients treated with placebo in an analysis based on the intent to treat population.
+At Week 54, mean reduction in A1C was -1.0% for patients treated with sitagliptin and -0.3% for patients treated with placebo in an analysis based on the intent-to-treat population.
 Rescue therapy was used in 18% of patients treated with sitagliptin 100 mg and 40% of patients treated with placebo.
 There was no significant difference between sitagliptin and placebo in body weight change.
 
-Table 7: Glycemic Parameters at Week 18 for Sitagliptin in Add-on Combination Therapy with Metformin and RosiglitazoneIntent to Treat Population using last observation on study prior to glipizide (or other sulfonylurea) rescue therapy.
+Table 7: Glycemic Parameters at Week 18 for Sitagliptin in Add-on Combination Therapy with Metformin and RosiglitazoneIntent-to-treat population using last observation on study prior to glipizide (or other sulfonylurea) rescue therapy.
 
 |  | Week 18 |  |
 | --- | --- | --- |
@@ -151,7 +151,7 @@ The adjusted mean change from baseline in body weight was -0.3 kg in patients re
 There was an increased rate of hypoglycemia in patients treated with sitagliptin.
 [See Warnings and Precautions (5.9); Adverse Reactions (6.1).]
 
-Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as Add-on Combination Therapy with Metformin and InsulinIntent to Treat Population using last observation on study prior to rescue therapy.
+Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin as Add-on Combination Therapy with Metformin and InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
 
 |  | Sitagliptin 100 mg+ Metformin+ Insulin | Placebo+ Metformin+ Insulin |
 | --- | --- | --- |
@@ -182,7 +182,7 @@ After 52 weeks, sitagliptin and glipizide had similar mean reductions from basel
 These results were consistent with the per protocol analysis (Figure 2).
 A conclusion in favor of the non-inferiority of sitagliptin to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C <8% and over 90% had A1C <9%).
 
-Table 9: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The Intent to Treat Analysis used the patients' last observation in the study prior to discontinuation.
+Table 9: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
 
 |  | Sitagliptin 100 mg + Metformin | Glipizide + Metformin |
 | --- | --- | --- |
