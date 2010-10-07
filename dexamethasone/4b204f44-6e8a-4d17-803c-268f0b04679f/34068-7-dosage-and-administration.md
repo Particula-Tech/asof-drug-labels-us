@@ -10,7 +10,7 @@ The intravitreal injection procedure should be carried out under controlled asep
 Adequate anesthesia and a broad-spectrum microbicide are recommended to be given prior to the injection.
 
 Remove the foil pouch from the carton and examine for damage.
-Then, in a sterile field, open the foil pouch and gently place the applicator on a sterile tray.
+Then, open the foil pouch over a sterile field and gently drop the applicator on a sterile tray.
 Carefully remove the cap from the applicator.
 Hold the applicator in one hand and pull the safety tab straight off the applicator.
 Do not twist or flex the tab.
@@ -27,4 +27,4 @@ Monitoring may consist of a check for perfusion of the optic nerve head immediat
 Patients should be instructed to report any symptoms suggestive of endophthalmitis without delay.
 
 Each applicator can only be used for the treatment of a single eye.
-If the contralateral eye requires treatment, a new applicator must be used, and the sterile field, syringe, gloves, drapes, and eyelid speculum should be changed before OZURDEX™ is administered to the other eye.
+If the contralateral eye requires treatment, a new applicator must be used, and the sterile field, syringe, gloves, drapes, and eyelid speculum should be changed before OZURDEX® is administered to the other eye.

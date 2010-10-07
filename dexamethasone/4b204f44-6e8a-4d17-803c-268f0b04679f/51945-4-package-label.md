@@ -1,14 +1,12 @@
-Syringe Label – 0.7mg
+Syringe Label – 0.7 mg
 
-Dexamethasone intravitreal implant 0.7mg
+Ozurdex® (dexamethasone intravitreal implant) 0.7 mg
 
-Allergan, Inc., Irvine, CA 92612, U.S.A.
-
-53709US10A
+© 2010 Allergan, Inc. Irvine, CA 92612, U.S.A.
 
 Rx Only
 
-Pouch Label – 0.7mg
+Pouch Label – 0.7 mg
 
 Rx Only NDC 0023-3348-07
 
@@ -30,7 +28,7 @@ Open Other End
 
 43893US12A
 
-Carton Label – 0.7mg
+Carton Label – 0.7 mg
 
 OzurdexTM
 
