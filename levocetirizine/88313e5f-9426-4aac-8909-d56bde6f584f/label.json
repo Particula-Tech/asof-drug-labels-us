@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022064",
+    "NDA022157"
+  ],
   "inn": "levocetirizine",
-  "labeler": "UCB, Inc.",
+  "labeler": "Sanofi-Aventis U.S. LLC",
   "package_ndcs": [
     "0024-5800-32",
     "0024-5800-90",
     "0024-5801-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Xyzal"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Xyzal"
+    }
+  ],
   "setid": "88313e5f-9426-4aac-8909-d56bde6f584f",
   "source": "dailymed"
 }

@@ -12,14 +12,5 @@ Concurrent use of XYZAL with alcohol or other central nervous system depressants
 
 The daily dose in adults and adolescents 12 years of age and older should not exceed 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
+In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
 Patients should be advised to not ingest more than the recommended dose of XYZAL because of the increased risk of somnolence at higher doses.
-
-Manufactured for:
-
-UCB, Inc. Smyrna, GA 30080 and
-
-Co-marketed by sanofi-aventis U.S. LLC Bridgewater, NJ 08807
-
-XYZAL is a registered trademark of the UCB Group of companies.
-
-©2008 UCB, Inc. All rights reserved.

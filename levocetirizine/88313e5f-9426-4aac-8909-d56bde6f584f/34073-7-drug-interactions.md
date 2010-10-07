@@ -7,7 +7,7 @@ Drug interaction studies have been performed with racemic cetirizine.
 ## 7.1 Antipyrine, Azithromycin, Cimetidine, Erythromycin, Ketoconazole, Theophylline, and Pseudoephedrine
 
 Pharmacokinetic interaction studies performed with racemic cetirizine demonstrated that cetirizine did not interact with antipyrine, pseudoephedrine, erythromycin, azithromycin, ketoconazole, and cimetidine.
-There was a small decrease (∼16%) in the clearance of cetirizine caused by a 400 mg dose of theophylline.
+There was a small decrease (~16%) in the clearance of cetirizine caused by a 400 mg dose of theophylline.
 It is possible that higher theophylline doses could have a greater effect.
 
 ## 7.2 Ritonavir

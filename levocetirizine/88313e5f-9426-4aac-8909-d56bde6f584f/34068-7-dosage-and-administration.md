@@ -13,9 +13,12 @@ Some patients may be adequately controlled by 2.5 mg (1/2 tablet or 1 teaspoon [
 The recommended dose of XYZAL is 2.5 mg (1/2 tablet or 1 teaspoon [5 mL] oral solution) once daily in the evening.
 The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
 
-XYZAL is not indicated for children under 6 years of age.
+## 2.3 Children 6 months to 5 Years of Age
 
-## 2.3 Dose Adjustment for Renal and Hepatic Impairment
+The recommended initial dose of XYZAL is 1.25 mg (1/2 teaspoon oral solution) [2.5mL] once daily in the evening.
+The 1.25 mg once daily dose should not be exceeded based on comparable exposure to adults receiving 5 mg [see Clinical Pharmacology (12.3)].
+
+## 2.4 Dose Adjustment for Renal and Hepatic Impairment
 
 In adults and children 12 years of age and older with:
 

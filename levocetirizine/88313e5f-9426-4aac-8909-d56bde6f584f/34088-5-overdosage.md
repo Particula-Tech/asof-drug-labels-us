@@ -7,5 +7,5 @@ There is no known specific antidote to XYZAL.
 Should overdose occur, symptomatic or supportive treatment is recommended.
 XYZAL is not effectively removed by dialysis, and dialysis will be ineffective unless a dialyzable agent has been concomitantly ingested.
 
-The acute maximal non-lethal oral dose of levocetirizine was 240 mg/kg in mice (approximately 200 times the maximum recommended daily oral dose in adults and approximately 230 times the maximum recommended daily oral dose in children) on a mg/m2 basis.
-In rats the maximal non-lethal oral dose was 240 mg/kg (approximately 390 times the maximum recommended daily oral dose in adults and approximately 460 times the maximum recommended daily oral dose in children on a mg/m2 basis).
+The acute maximal non-lethal oral dose of levocetirizine was 240 mg/kg in mice (approximately 190 times the maximum recommended daily oral dose in adults, approximately 230 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 180 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
+In rats the maximal non-lethal oral dose was 240 mg/kg (approximately 390 times the maximum recommended daily oral dose in adults, approximately 460 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 370 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
