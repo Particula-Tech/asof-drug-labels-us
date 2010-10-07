@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA065246"
+  ],
+  "inn": "azithromycin",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-2026-23",
+    "0093-2026-31",
+    "0093-2026-94",
+    "0093-2027-23"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "azithromycin",
+      "name": "Azithromycin"
+    }
+  ],
+  "setid": "3209b147-11ce-4eeb-8427-5f8e6fb2c83d",
+  "source": "dailymed"
+}
