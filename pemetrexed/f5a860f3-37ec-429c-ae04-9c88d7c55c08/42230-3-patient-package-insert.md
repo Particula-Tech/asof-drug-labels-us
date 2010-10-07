@@ -77,7 +77,7 @@ What are the possible side effects of ALIMTA?
 Most patients taking ALIMTA will have side effects.
 Sometimes it is not always possible to tell whether ALIMTA, another medicine, or the cancer itself is causing these side effects.
 Call your doctor right away if you have a fever, chills, diarrhea, or mouth sores.
-These symptoms could mean you have an infection.
+These symptoms could mean you have an infection which may be severe and could lead to death.
 
 The most common side effects of ALIMTA when given alone or in combination with cisplatin are:
 
@@ -106,7 +106,8 @@ The most common side effects of ALIMTA when given alone or in combination with c
 - Rash.
   You may get a rash or itching during treatment.
   These usually appear between treatments with ALIMTA and usually go away before the next treatment.
-  Call your doctor if you get a severe rash or itching.
+  Rarely, these reactions may be severe (can lead to Stevens-Johnson Syndrome or Toxic epidermal necrolysis) and could lead to death.
+  Call your doctor if you get a severe rash, itching, or blistering.
 
 Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn't go away.
 
@@ -123,10 +124,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised December 1, 2009
+Patient information revised August 9, 2010
 
 Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
 
-| Copyright © 2004, 2009, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2010, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6752 AMP |  |
+| PV 6753 AMP |  |

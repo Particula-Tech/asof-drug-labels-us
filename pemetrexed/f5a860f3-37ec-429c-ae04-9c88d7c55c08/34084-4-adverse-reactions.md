@@ -268,7 +268,11 @@ Subpopulations
 
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
 
-## 6.2 Post-Marketing Experience
+## 6.2 Additional Clinical Trials Experience
+
+Across clinical trials, sepsis, which in some cases was fatal, occurred in approximately 1% of patients.
+
+## 6.3 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of ALIMTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -282,3 +286,5 @@ General Disorders and Administration Site Conditions — edema
 Injury, poisoning, and procedural complications — Radiation recall has been reported in patients who have previously received radiotherapy.
 
 Respiratory — interstitial pneumonitis
+
+Skin — Bullous conditions have been reported including Stevens-Johnson syndrome and Toxic epidermal necrolysis, which in some cases were fatal.
