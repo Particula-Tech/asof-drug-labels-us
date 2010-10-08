@@ -7,7 +7,7 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 Irbesartan-Hydrochlorothiazide
 
-AVALIDE (irbesartan-hydrochlorothiazide) Tablets has been evaluated for safety in 1694 patients treated for essential hypertension in 6 clinical trials.
+AVALIDE (irbesartan-hydrochlorothiazide) Tablets have been evaluated for safety in 1694 patients treated for essential hypertension in 6 clinical trials.
 In Studies I through IV with AVALIDE, no adverse events peculiar to this combination drug product have been observed.
 Adverse events have been limited to those that were reported previously with irbesartan or hydrochlorothiazide (HCTZ).
 The overall incidence of adverse events was similar with the combination and placebo.
@@ -22,7 +22,7 @@ In these double-blind controlled clinical trials, the following adverse events r
 | --- | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |  |
 | Chest Pain | 2 | 1 | 2 | 2 |
-| Fatigue | 7 | 3 | 4 | 3 |
+| Fatigue | 6 | 3 | 4 | 3 |
 | Influenza | 3 | 1 | 2 | 2 |
 | Cardiovascular |  |  |  |  |
 | Edema | 3 | 3 | 2 | 2 |
@@ -30,16 +30,16 @@ In these double-blind controlled clinical trials, the following adverse events r
 | Gastrointestinal |  |  |  |  |
 | Abdominal Pain | 2 | 1 | 2 | 2 |
 | Dyspepsia/heartburn | 2 | 1 | 0 | 2 |
-| Nausea/vomiting | 3 | 0 | 2 | 0 |
+| Nausea/vomiting | 3 | 0 | 2 | 2 |
 | Immunology |  |  |  |  |
 | Allergy | 1 | 0 | 1 | 1 |
 | Musculoskeletal |  |  |  |  |
-| Musculoskeletal Pain | 7 | 5 | 6 | 10 |
+| Musculoskeletal Pain | 6 | 5 | 6 | 10 |
 | Nervous System |  |  |  |  |
 | Dizziness | 8 | 4 | 6 | 5 |
 | Dizziness Orthostatic | 1 | 0 | 1 | 1 |
 | Renal/Genitourinary |  |  |  |  |
-| Abnormality Urination | 2 | 1 | 1 | ct2 |
+| Abnormality Urination | 2 | 1 | 1 | 2 |
 
 The following adverse events were also reported at a rate of 1% or greater, but were as, or more, common in the placebo group: headache, sinus abnormality, cough, URI, pharyngitis, diarrhea, rhinitis, urinary tract infection, rash, anxiety/nervousness, and muscle cramp.
 
@@ -113,7 +113,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVALIDE.
 
-The following have been very rarely reported: urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); and hepatitis.
+The following have been very rarely reported: urticaria, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), and hepatitis.
 Hyperkalemia has been rarely reported.
 
 Very rare cases of jaundice have been reported with irbesartan.

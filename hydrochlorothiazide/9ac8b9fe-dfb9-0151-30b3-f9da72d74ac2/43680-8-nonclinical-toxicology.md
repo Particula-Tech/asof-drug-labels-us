@@ -36,7 +36,7 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ### Reproductive Toxicology Studies
 
-When pregnant rats were treated with irbesartan from day 0 to day 20 of gestation (oral doses of 50, 180, and 650 mg/kg/day), increased incidences of renal pelvic cavitation, hydroureter and/or absence of renal papilla were observed in fetuses at doses ≥50 mg/kg/day (approximately equivalent to the MRHD, 300 mg/day, on a body surface area basis).
+When pregnant rats were treated with irbesartan from Day 0 to Day 20 of gestation (oral doses of 50, 180, and 650 mg/kg/day), increased incidences of renal pelvic cavitation, hydroureter and/or absence of renal papilla were observed in fetuses at doses ≥50 mg/kg/day (approximately equivalent to the MRHD, 300 mg/day, on a body surface area basis).
 Subcutaneous edema was observed in fetuses at doses ≥180 mg/kg/day (about 4 times the MRHD on a body surface area basis).
 As these anomalies were not observed in rats in which irbesartan exposure (oral doses of 50, 150, and 450 mg/kg/day) was limited to gestation days 6 to 15, they appear to reflect late gestational effects of the drug.
 In pregnant rabbits, oral doses of 30 mg irbesartan/kg/day were associated with maternal mortality and abortion.

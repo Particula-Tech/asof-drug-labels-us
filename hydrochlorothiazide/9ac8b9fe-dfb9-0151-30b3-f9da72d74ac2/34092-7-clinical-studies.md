@@ -19,7 +19,7 @@ In a continuous ambulatory blood pressure monitoring study, once-daily dosing wi
 
 Analysis of age, gender, and race subgroups of patients showed that men and women, and patients over and under 65 years of age, had generally similar responses.
 Irbesartan was effective in reducing blood pressure regardless of race, although the effect was somewhat less in blacks (usually a low-renin population).
-Black patients typically show an improved response with the addition of a low dose diuretic (eg, 12.5 mg hydrochlorothiazide).
+Black patients typically show an improved response with the addition of a low dose diuretic (e.g., 12.5 mg hydrochlorothiazide).
 
 The effect of irbesartan is apparent after the first dose and is close to the full observed effect at 2 weeks.
 At the end of the 8-week exposure, about 2/3 of the antihypertensive effect was still present 1 week after the last dose.

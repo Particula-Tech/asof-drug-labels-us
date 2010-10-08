@@ -20,9 +20,9 @@ Single doses of either cholestyramine or colestipol resins bind the hydrochlorot
 
 Corticosteroids, ACTH: intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor Amines (eg, Norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use.
+Pressor Amines (e.g., Norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use.
 
-Skeletal Muscle Relaxants, Nondepolarizing (eg, Tubocurarine): possible increased responsiveness to the muscle relaxant.
+Skeletal Muscle Relaxants, Nondepolarizing (e.g., Tubocurarine): possible increased responsiveness to the muscle relaxant.
 
 Lithium: should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.

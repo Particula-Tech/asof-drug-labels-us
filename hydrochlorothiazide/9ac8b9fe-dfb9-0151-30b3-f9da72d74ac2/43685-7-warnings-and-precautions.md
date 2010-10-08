@@ -4,14 +4,14 @@
 
 AVALIDE can cause fetal harm when administered to a pregnant woman.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
-In several dozen published cases, angiotensin converting enzyme (ACE) inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
+In several dozen published cases, angiotensin-converting enzyme (ACE) inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
 Similar renal findings occur in reproductive toxicology studies in rats.
 Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
 Excessive reduction of blood pressure was rarely seen in patients with uncomplicated hypertension treated with irbesartan alone (<0.1%) or with irbesartan-hydrochlorothiazide (approximately 1%).
-Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume- or sodium-depletion, eg, in patients treated vigorously with diuretics or in patients on dialysis.
+Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume- or sodium-depletion, e.g., in patients treated vigorously with diuretics or in patients on dialysis.
 Such volume depletion should be corrected prior to administration of antihypertensive therapy.
 
 If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
@@ -55,9 +55,9 @@ Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of ca
 Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
 
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability).
+Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
 
-Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 
 Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening.
 In actual salt depletion, appropriate replacement is the therapy of choice.
@@ -90,7 +90,7 @@ Thiazides should be used with caution in patients with impaired hepatic function
 ## 5.8 Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (eg, patients with severe congestive heart failure), treatment with ACE inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
+In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Irbesartan would be expected to behave similarly.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported.
 There has been no known use of irbesartan in patients with unilateral or bilateral renal artery stenosis, but a similar effect should be anticipated.

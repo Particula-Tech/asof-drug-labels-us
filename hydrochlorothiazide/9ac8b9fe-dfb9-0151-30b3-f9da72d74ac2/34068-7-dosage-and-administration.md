@@ -2,7 +2,7 @@
 
 ## 2.1 General Considerations
 
-The side effects of irbesartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose-independent phenomena (eg, pancreatitis), the former much more common than the latter.
+The side effects of irbesartan are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter.
 [See Adverse Reactions (6).]
 
 Maximum antihypertensive effects are attained within 2 to 4 weeks after a change in dose.
