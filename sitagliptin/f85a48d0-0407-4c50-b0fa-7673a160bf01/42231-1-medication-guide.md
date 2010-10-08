@@ -76,7 +76,7 @@ How should I take JANUVIA?
   Your doctor may change your dose of JANUVIA based on the results of your blood tests.
 - Your doctor may tell you to take JANUVIA along with other diabetes medicines.
   Low blood sugar can happen more often when JANUVIA is taken with certain other diabetes medicines.
-  See "What are the possible side effects of JANUVIA?"
+  See "What are the possible side effects of JANUVIA?".
 - If you miss a dose, take it as soon as you remember.
   If you do not remember until it is time for your next dose, skip the missed dose and go back to your regular schedule.
   Do not take two doses of JANUVIA at the same time.
@@ -92,7 +92,7 @@ What are the possible side effects of JANUVIA?
 
 Serious side effects have occurred in people taking JANUVIA.
 
-- See "What is the most important information I should know about JANUVIA?"
+- See "What is the most important information I should know about JANUVIA?".
 - Low blood sugar (hypoglycemia).
   If you take JANUVIA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
   The dose of your sulfonylurea medicine or insulin may need to be lowered while you use JANUVIA.
@@ -166,13 +166,13 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised February 2010
+Revised September 2010
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-9984400
+9984402
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

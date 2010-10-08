@@ -13,7 +13,7 @@ In these trials, patients with inadequate glycemic control on a stable dose of t
 The adverse reactions, excluding hypoglycemia, reported regardless of investigator assessment of causality in ≥5% of patients treated with JANUVIA 100 mg daily and more commonly than in patients treated with placebo, are shown in Table 1 for the clinical trials of at least 18 weeks duration.
 Incidences of hypoglycemia are shown in Table 3.
 
-Table 1: Placebo-Controlled Clinical Studies of JANUVIA Monotherapy or Add-on Combination Therapy with Pioglitazone, Metformin + Rosiglitazone, or Glimepiride +/- Metformin: Adverse Reactions (Excluding Hypoglycemia) Reported in ≥5% of Patients and More Commonly than in Patients Given Placebo, Regardless of Investigator Assessment of CausalityIntent to treat population
+Table 1: Placebo-Controlled Clinical Studies of JANUVIA Monotherapy or Add-on Combination Therapy with Pioglitazone, Metformin + Rosiglitazone, or Glimepiride +/- Metformin: Adverse Reactions (Excluding Hypoglycemia) Reported in ≥5% of Patients and More Commonly than in Patients Given Placebo, Regardless of Investigator Assessment of CausalityIntent-to-treat population
 
 |  | Number of Patients (%) |  |
 | --- | --- | --- |
@@ -56,13 +56,16 @@ In a 24-week study of initial therapy with JANUVIA in combination with pioglitaz
 
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed in patients treated with JANUVIA.
 
+In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control).
+[See Warnings and Precautions (5.1).]
+
 Hypoglycemia
 
 In all (N=9) studies, adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia.
 A concurrent blood glucose measurement was not required although most (74%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL.
 When JANUVIA was co-administered with a sulfonylurea or with insulin, the percentage of patients with at least one adverse reaction of hypoglycemia was higher than in the corresponding placebo group (Table 3).
 
-Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required; intent to treat population. in Placebo-Controlled Clinical Studies when JANUVIA was used as Add-On Therapy to Glimepiride (with or without Metformin) or Insulin (with or without Metformin), Regardless of Investigator Assessment of Causality
+Table 3: Incidence and Rate of HypoglycemiaAdverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required; intent-to-treat population. in Placebo-Controlled Clinical Studies when JANUVIA was used as Add-On Therapy to Glimepiride (with or without Metformin) or Insulin (with or without Metformin), Regardless of Investigator Assessment of Causality
 
 | Add-On to Glimepiride (+/- Metformin) (24 weeks) | JANUVIA 100 mg+ Glimepiride(+/- Metformin) | Placebo+ Glimepiride(+/- Metformin) |
 | --- | --- | --- |
@@ -97,7 +100,7 @@ The clinical significance of this added increase in serum creatinine relative to
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of JANUVIA.
+Additional adverse reactions have been identified during postapproval use of JANUVIA as monotherapy and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions include anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.4)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Limitations of Use (1.2); Warnings and Precautions (5.1)].
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.4)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Limitations of Use (1.2); Warnings and Precautions (5.1)]; constipation; vomiting; headache.
