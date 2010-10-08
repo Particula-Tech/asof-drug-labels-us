@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090083"
+  ],
+  "inn": "losartan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-201-90",
+    "65862-201-99",
+    "65862-202-30",
+    "65862-202-90",
+    "65862-202-99",
+    "65862-203-30",
+    "65862-203-90",
+    "65862-203-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "Losartan Potassium"
+    }
+  ],
+  "setid": "31366b4b-dfd6-4fda-babe-2cb3d2c14a2b",
+  "source": "dailymed"
+}
