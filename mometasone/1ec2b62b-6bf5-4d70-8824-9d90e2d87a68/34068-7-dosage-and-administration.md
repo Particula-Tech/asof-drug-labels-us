@@ -11,9 +11,9 @@ The safety and efficacy of ASMANEX TWISTHALER when administered in excess of rec
 
 ## 2.1 Recommended Dosages in Patients 4 Years of Age and Older
 
-The recommended starting doses and highest recommended daily dose for ASMANEX TWISTHALER treatment based on prior asthma therapy are provided in the table below.
+The recommended starting doses and highest recommended daily dose for ASMANEX TWISTHALER treatment based on prior asthma therapy are provided in Table 1.
 
-Table 1: Recommended Dosages for ASMANEX TWISTHALER Treatment
+TABLE 1: Recommended Dosages for ASMANEX TWISTHALER Treatment
 
 | Previous Therapy | Recommended Starting Dose | Highest Recommended Daily Dose |
 | --- | --- | --- |

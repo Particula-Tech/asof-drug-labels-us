@@ -1,16 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021067"
+  ],
   "inn": "mometasone",
-  "labeler": "Schering-Plough",
+  "labeler": "Schering Corporation",
   "package_ndcs": [
     "0085-1341-01",
     "0085-1341-02",
     "0085-1341-03",
     "0085-1341-04",
     "0085-1461-02",
+    "0085-1461-06",
     "0085-1461-07"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "mometasone furoate",
+      "name": "ASMANEX"
+    }
+  ],
   "setid": "1ec2b62b-6bf5-4d70-8824-9d90e2d87a68",
   "source": "dailymed"
 }

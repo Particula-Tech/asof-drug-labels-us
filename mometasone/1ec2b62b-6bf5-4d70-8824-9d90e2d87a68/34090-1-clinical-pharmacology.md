@@ -17,19 +17,19 @@ When corticosteroids are discontinued, asthma stability may persist for several 
 
 ## 12.2 Pharmacodynamics
 
-Adrenal Function: The effects of ASMANEX TWISTHALER on adrenal function have been evaluated in two clinical studies: one in adults 18 years of age and older and one in pediatric patients 6 to 11 years of age.
+Adrenal Function: The effects of ASMANEX TWISTHALER on adrenal function have been evaluated in 2 clinical studies: 1 in adults 18 years of age and older and 1 in pediatric patients 6 to 11 years of age.
 Both clinical studies were specifically designed to assess the effect of ASMANEX TWISTHALER on adrenal function.
 
-In a 29-day randomized, double-blind, placebo-controlled, study in 64 adult and adolescent patients 18 years of age and older with asthma, ASMANEX TWISTHALER 440 mcg twice daily and 880 mcg twice daily (twice the highest recommended daily dose) were compared to both placebo and prednisone 10 mg once daily as a positive control.
+In a 29-day, randomized, double-blind, placebo-controlled, study in 64 adult and adolescent patients 18 years of age and older with asthma, ASMANEX TWISTHALER 440 mcg twice daily and 880 mcg twice daily (twice the highest recommended daily dose) were compared to both placebo and prednisone 10 mg once daily as a positive control.
 The 30-minute post-Cosyntropin stimulation serum cortisol concentration on Day 29 was 23.2 mcg/dL for the ASMANEX 440 mcg twice daily group (n=16) and 20.8 mcg/dL for the ASMANEX 880 mcg twice daily group (n=16), compared to 14.5 mcg/dL for the oral prednisone 10 mg group (n=16) and 25 mcg/dL for the placebo group (n=16).
 The difference between ASMANEX 880 mcg twice daily (twice the maximum recommended dose) and placebo was statistically significant.
 
-In a 29-day randomized, double-blind, placebo-controlled, parallel-group clinical trial in 50 pediatric patients 6 to 11 years of age with asthma, ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg twice daily, and 440 mcg twice daily (2 to 8 times the highest pediatric daily recommended daily dose) were compared to placebo.
-HPA-axis function was assessed by 12-hour plasma cortisol AUC and 24-hour urinary free cortisol concentrations.
-After 29 days of treatment, the mean changes in plasma cortisol AUC0–12h from baseline were -0.11, -19.5, -21.3 and -3.47 mcg.hr/dL for the treatment groups of ASMANEX TWISTHALER 110 mcg twice daily (n=12), 220 mcg twice daily (n=12), 440 mcg twice daily (n=11) and placebo (n=7), respectively.
+In a 29-day, randomized, double-blind, placebo-controlled, parallel-group clinical trial in 50 pediatric patients 6 to 11 years of age with asthma, ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg twice daily, and 440 mcg twice daily (2 – 8 times the highest pediatric daily recommended daily dose) were compared to placebo.
+HPA-axis function was assessed by 12-hour plasma cortisol AUC and 24-hour urinary-free cortisol concentrations.
+After 29 days of treatment, the mean changes in plasma cortisol AUC0–12h from baseline were -0.11, -19.5, -21.3, and -3.47 mcg.hr/dL for the treatment groups of ASMANEX TWISTHALER 110 mcg twice daily (n=12), 220 mcg twice daily (n=12), 440 mcg twice daily (n=11), and placebo (n=7), respectively.
 The mean differences from placebo in the groups treated with ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg twice daily, and 440 mcg twice daily were 3.4 mcg.hr/dL (95% CI: -14.0, 20.7), -16.0 mcg.hr/dL (95% CI: -33.9, 1.9), and -17.9 mcg.hr/dL (95% CI: -35.8, 0.0), respectively.
-For 24-hour urinary free cortisol, after 29 days of treatment, the mean changes from baseline were -1.53, -1.33, -6.70, and -4.68 mcg/day for the groups treated with ASMANEX TWISTHALER 110 mcg twice daily (n=12), 220 mcg twice daily (n=12), 440 mcg twice daily (n=12) and placebo (n=10), respectively.
-The mean differences in urinary free cortisol changes from baseline compared to placebo were 3.1 mcg/day (95% CI: -3.3, 9.6), 3.3 mcg/day (95% CI: -3.0, 9.7), and -2.0 mcg/day (95% CI: -8.6, 4.6) for the groups treated with 110 mcg twice daily, 220 mcg twice daily and 440 mcg twice daily, respectively.
+For 24-hour urinary-free cortisol, after 29 days of treatment, the mean changes from baseline were -1.53, -1.33, -6.70, and -4.68 mcg/day for the groups treated with ASMANEX TWISTHALER 110 mcg twice daily (n=12), 220 mcg twice daily (n=12), 440 mcg twice daily (n=12), and placebo (n=10), respectively.
+The mean differences in urinary-free cortisol changes from baseline compared to placebo were 3.1 mcg/day (95% CI: -3.3, 9.6), 3.3 mcg/day (95% CI: -3.0, 9.7), and -2.0 mcg/day (95% CI: -8.6, 4.6) for the groups treated with 110 mcg twice daily, 220 mcg twice daily, and 440 mcg twice daily, respectively.
 
 ## 12.3 Pharmacokinetics
 
@@ -41,7 +41,7 @@ The coefficient of variation for Cmax and AUC ranged from approximately 50% to 1
 The mean peak plasma concentrations at steady state ranged from approximately 94 to 114 pcg/mL and the mean time to peak levels ranged from approximately 1.0 to 2.5 hours.
 
 Distribution: Based on the study employing a 1000 mcg inhaled dose of tritiated mometasone furoate inhalation powder in humans, no appreciable accumulation of mometasone furoate in the red blood cells was found.
-Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean terminal half-life of about 5 hours and the mean steady-state volume of distribution of 152 L. The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5–500 ng/mL).
+Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean terminal half-life of about 5 hours and t he mean steady-state volume of distribution of 152 L. The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5–500 ng/mL).
 
 Metabolism: Studies have shown that mometasone furoate is primarily and extensively metabolized in the liver of all species investigated and undergoes extensive metabolism to multiple metabolites.
 In vitro studies have confirmed the primary role of CYP 3A4 in the metabolism of this compound; however, no major metabolites were identified.
@@ -50,9 +50,9 @@ Excretion: Following an intravenous dosing, the terminal half-life was reported 
 Following the inhaled dose of tritiated 1000 mcg mometasone furoate, the radioactivity is excreted mainly in the feces (a mean of 74%), and to a small extent in the urine (a mean of 8%) up to 7 days.
 No radioactivity was associated with unchanged mometasone furoate in the urine.
 
-Populations:
+Special Populations:
 
-Hepatic Impairment: Administration of a single inhaled dose of 400 mcg of mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
+Hepatic Impairment: Administration of a single inhaled dose of 400 mcg mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
 The observed peak plasma concentrations appear to increase with severity of hepatic impairment; however, the numbers of detectable levels were few.
 
 Renal Impairment: The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.

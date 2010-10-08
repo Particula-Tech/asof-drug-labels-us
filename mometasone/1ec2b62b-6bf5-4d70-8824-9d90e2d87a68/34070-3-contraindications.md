@@ -6,5 +6,5 @@ ASMANEX TWISTHALER therapy is contraindicated in the primary treatment of status
 
 ## 4.2 Hypersensitivity
 
-ASMANEX TWISTHALER is contraindicated in patients with known hypersensitivity to mometasone or any of the ingredients in ASMANEX TWISTHALER.
-In the clinical trials and post-marketing experience with ASMANEX TWISTHALER, cases of allergic reaction, facial edema, urticaria, hypersensitivity, and throat tightness have been reported.
+ASMANEX TWISTHALER is contraindicated in patients with known hypersensitivity to milk proteins or any ingredients of ASMANEX TWISTHALER.
+[see Warnings and Precautions (5.3) and Description (11)].

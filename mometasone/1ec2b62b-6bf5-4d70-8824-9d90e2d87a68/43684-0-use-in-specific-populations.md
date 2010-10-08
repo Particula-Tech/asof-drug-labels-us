@@ -17,16 +17,16 @@ When administered to pregnant mice, rats, and rabbits, mometasone furoate increa
 Dystocia and related complications were also observed when mometasone furoate was administered to rats late in gestation.
 However, experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroid exposure than humans.
 
-In a mouse reproduction study, subcutaneous mometasone furoate produced cleft palate at approximately one-third of the maximum recommended daily human dose (MRHD) for adults on a mcg/m2 basis and decreased fetal survival at approximately 1 time the MRHD.
+In a mouse reproduction study, subcutaneous mometasone furoate produced cleft palate at approximately one-third of the maximum recommended daily human dose (MRHD) for adults on an mcg/m2 basis and decreased fetal survival at approximately 1 time the MRHD.
 No toxicity was observed at approximately one-tenth of the MRHD.
 
 In a rat reproduction study, mometasone furoate produced umbilical hernia at topical dermal doses approximately 6 times the MRHD and delays in ossification at approximately 3 times the MRHD.
 
 In another study, rats received subcutaneous doses of mometasone throughout pregnancy or late in gestation.
 Treated animals had prolonged and difficult labor, fewer live births, lower birth weight, and reduced early pup survival at a dose that was approximately 6 times the MRHD for adults on an area under the curve (AUC) basis.
-Similar effects were not observed at approximately 3 times MRHD.
+Similar effects were not observed at approximately 3 times the MRHD.
 
-In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical dermal doses approximately 3 times the maximum recommended daily inhalation dose in adults on a mcg/m2 basis.
+In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical dermal doses approximately 3 times the maximum recommended daily inhalation dose in adults on an mcg/m2 basis.
 In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly and domed head) at a dose less than the MRHD for adults based on AUC.
 At a dose approximately 2 times the MRHD in adults based on AUC, most litters were aborted or resorbed [see Nonclinical Toxicology (13.2)].
 
@@ -45,7 +45,7 @@ Use of ASMANEX TWISTHALER in pediatric patients 4 to 11 years of age is supporte
 1) and Adverse Reactions (6.1)].
 
 Controlled clinical studies have shown that inhaled corticosteroids may cause a reduction in growth in pediatric patients.
-In these studies, the mean reduction in growth velocity was approximately 1 cm per year (range 0.3–1.8 per year) and appears to depend upon dose and duration of exposure.
+In these studies, the mean reduction in growth velocity was approximately 1 cm per year (range: 0.3–1.8 per year) and appears to depend upon dose and duration of exposure.
 This effect was observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The long-term effects of this reduction in growth velocity associated with orally inhaled corticosteroids, including the impact on final adult height, are unknown.
 The potential for "catch-up" growth following discontinuation of treatment with orally inhaled corticosteroids has not been adequately studied.
@@ -55,7 +55,7 @@ A 52-week, placebo-controlled, parallel-group study was conducted to assess the 
 Treatment groups included ASMANEX TWISTHALER 110 mcg twice daily (n=44), 220 mcg once daily in the morning (n=50), 110 mcg once daily in the morning (n=48), and placebo (n=45).
 For each patient, an average growth rate was determined using an individual regression approach.
 The mean growth rates, expressed as least-squares mean in cm per year, for ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg once daily in the morning, 110 mcg once daily in the morning, and placebo were 5.34, 5.93, 6.15, and 6.44, respectively.
-The differences from placebo and the corresponding 2-sided 95% CI of growth rates for ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg once daily in the morning, 110 mcg once daily in the morning were -1.11 (95% CI: -2.34, 0.12), -0.51 (95% CI: -1.69, 0.67), and -0.30 (95% CI: -1.48, 0.89), respectively.
+The differences from placebo and the corresponding 2-sided 95% CI of growth rates for ASMANEX TWISTHALER 110 mcg twice daily, 220 mcg once daily in the morning, and 110 mcg once daily in the morning were -1.11 (95% CI: -2.34, 0.12), -0.51 (95% CI: -1.69, 0.67), and -0.30 (95% CI: -1.48, 0.89), respectively.
 
 The potential growth effects of prolonged treatment with orally inhaled corticosteroids should be weighed against clinical benefits obtained and the availability of safe and effective noncorticosteroid treatment alternatives.
 To minimize the systemic effects of orally inhaled corticosteroids, including ASMANEX TWISTHALER, each patient should be titrated to his/her lowest effective dose.

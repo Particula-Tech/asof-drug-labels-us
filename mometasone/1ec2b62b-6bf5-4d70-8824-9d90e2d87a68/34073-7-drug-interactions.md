@@ -4,4 +4,4 @@ In clinical studies, the concurrent administration of ASMANEX TWISTHALER and oth
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
-Ketoconazole, a strong inhibitor of cytochrome P450 3A4, may increase plasma levels of mometasone furoate during concomitant dosing [see Clinical Pharmacology: Pharmacokinetics (12.3)].
+Ketoconazole, a strong inhibitor of cytochrome P450 3A4, may increase plasma levels of mometasone furoate during concomitant dosing [see Clinical Pharmacology (12.3)].

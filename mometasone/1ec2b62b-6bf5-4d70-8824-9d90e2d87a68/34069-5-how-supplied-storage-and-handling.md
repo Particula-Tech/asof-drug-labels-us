@@ -8,7 +8,9 @@ The ASMANEX TWISTHALER 110 mcg product is comprised of an assembled plastic capâ
 The body of the inhaler is white and the turning grip is gray with a clear plastic window indicating the number of doses remaining.
 The inhaler will not deliver subsequent doses once the counter reaches zero ("00").
 
-The ASMANEX TWISTHALER product is available as: ASMANEX TWISTHALER 220 mcg, which delivers 200 mcg mometasone furoate from the mouthpiece: 14 inhalation units (Institutional Use Only; NDC# 0085-1341-04); 30 inhalation units (NDC# 0085-1341-03); 60 inhalation units (For more than 1 inhalation daily; NDC# 0085-1341-02); or 120 inhalation units (For more than 2 inhalations daily; NDC# 0085-1341-01).
+The ASMANEX TWISTHALER product is available as:
+
+ASMANEX TWISTHALER 220 mcg, which delivers 200 mcg mometasone furoate from the mouthpiece: 14 inhalation units (Institutional Use Only; NDC# 0085-1341-04); 30 inhalation units (NDC# 0085-1341-03); 60 inhalation units (For more than 1 inhalation daily; NDC# 0085-1341-02); or 120 inhalation units (For more than 2 inhalations daily; NDC# 0085-1341-01).
 
 ASMANEX TWISTHALER 110 mcg, which delivers 100 mcg mometasone furoate from the mouthpiece: 7 inhalation units (Institutional Use Only; NDC# 0085-1461-07); 30 inhalation units (NDC# 0085-1461-02).
 
