@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078518"
+  ],
+  "inn": "valacyclovir",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-4275-05",
+    "0378-4275-77",
+    "0378-4275-93",
+    "0378-4276-05",
+    "0378-4276-77",
+    "0378-4276-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valacyclovir hydrochloride",
+      "name": "Valacyclovir Hydrochloride"
+    }
+  ],
+  "setid": "56bf715d-8280-4557-9f98-9693932199e5",
+  "source": "dailymed"
+}
