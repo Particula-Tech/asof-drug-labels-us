@@ -16,7 +16,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ## 17.4 Nursing
 
-Patients should be advised not to breast-feed an infant during treatment and for at least 12 weeks after the last injection of RISPERDAL® CONSTA® [see Use in Specific Populations (8.2)].
+Patients should be advised not to breast-feed an infant during treatment and for at least 12 weeks after the last injection of RISPERDAL® CONSTA® [see Use in Specific Populations (8.3)].
 
 ## 17.5 Concomitant Medication
 

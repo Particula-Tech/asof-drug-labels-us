@@ -156,7 +156,7 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 ## 6.3 Other Adverse Reactions Observed During the Premarketing Evaluation of RISPERDAL® CONSTA®
 
 The following additional adverse reactions occurred in < 2% of the RISPERDAL® CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
-The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in other studies, including double-blind, active-controlled and open-label studies in schizophrenia, and in the open-label phases of the bipolar disorder studies.
+The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar disorder.
 
 Blood and lymphatic system disorders: anemia, neutropenia
 
@@ -168,17 +168,17 @@ Endocrine disorders: hyperprolactinemia
 
 Eye disorders: conjunctivitis, visual acuity reduced
 
-Gastrointestinal disorders: diarrhea, vomiting, abdominal pain, stomach discomfort, gastritis
+Gastrointestinal disorders: diarrhea, vomiting, abdominal pain upper, abdominal pain, stomach discomfort, gastritis
 
 General disorders and administration site conditions: injection site pain, chest discomfort, chest pain, influenza like illness, sluggishness, malaise, induration, injection site induration, injection site swelling, injection site reaction, face edema
 
 Immune system disorders: hypersensitivity
 
-Infections and infestations: nasopharyngitis, influenza, bronchitis, urinary tract infection, rhinitis, ear infection, pneumonia, lower respiratory tract infection, pharyngitis, sinusitis, viral infection, infection, localized infection, cystitis, gastroenteritis, subcutaneous abscess
+Infections and infestations: nasopharyngitis, influenza, bronchitis, urinary tract infection, rhinitis, respiratory tract infection, ear infection, pneumonia, lower respiratory tract infection, pharyngitis, sinusitis, viral infection, infection, localized infection, cystitis, gastroenteritis, subcutaneous abscess
 
 Injury and poisoning: fall, procedural pain
 
-Investigations: blood prolactin increased, alanine aminotransferase increased, electrocardiogram abnormal, gamma-glutamyl transferase increased, blood glucose increased, hepatic enzyme increased, aspartate aminotransferase increased, electrocardiogram QT prolonged
+Investigations: blood prolactin increased, alanine aminotransferase increased, electrocardiogram abnormal, gamma-glutamyl transferase increased, blood glucose increased, hepatic enzyme increased, aspartate aminotransferase increased, electrocardiogram QT prolonged, glucose urine present
 
 Metabolism and nutritional disorders: anorexia, hyperglycemia
 
@@ -186,15 +186,15 @@ Musculoskeletal, connective tissue and bone disorders: posture abnormal, myalgia
 
 Nervous system disorders: coordination abnormal, dystonia, tardive dyskinesia, drooling, paresthesia, dizziness postural, convulsion, akinesia, hypokinesia, dysarthria
 
-Psychiatric disorders: insomnia, agitation, anxiety, sleep disorder, depression, libido decreased, nervousness
+Psychiatric disorders: insomnia, agitation, anxiety, sleep disorder, depression, initial insomnia, libido decreased, nervousness
 
 Renal and urinary disorders: urinary incontinence
 
-Reproductive system and breast disorders: oligomenorrhea, erectile dysfunction, galactorrhea, sexual dysfunction, ejaculation disorder, gynecomastia, breast discomfort, menstruation irregular, menstruation delayed, menstrual disorder
+Reproductive system and breast disorders: galactorrhea, oligomenorrhea, erectile dysfunction, sexual dysfunction, ejaculation disorder, gynecomastia, breast discomfort, menstruation irregular, menstruation delayed, menstrual disorder, ejaculation delayed
 
 Respiratory, thoracic and mediastinal disorders: nasal congestion, pharyngolaryngeal pain, dyspnea, rhinorrhea
 
-Skin and subcutaneous tissue disorders: rash, eczema, pruritus
+Skin and subcutaneous tissue disorders: rash, eczema, pruritus generalized, pruritus
 
 Vascular disorders: hypotension, orthostatic hypotension
 
@@ -260,7 +260,7 @@ No moderate or severe reactions were observed in any subject.
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, hypothermia, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetic ketoacidosis in patients with impaired glucose metabolism, inappropriate antidiuretic hormone secretion, hypothermia, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 In addition, the following adverse reactions have been observed during postapproval use of RISPERDAL® CONSTA®: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.
 
 Retinal artery occlusion after injection of RISPERDAL® CONSTA® has been reported during postmarketing surveillance.
