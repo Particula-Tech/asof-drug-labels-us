@@ -7,25 +7,33 @@ Hydrocodone also affects the center that controls respiratory rhythm, and may pr
 
 ## Head Injury and Increased Intracranial Pressure
 
-The respiratory depressant effects of opioids and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
-Furthermore, opioids produce adverse reactions which may obscure the clinical course of patients with head injuries.
+The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a preexisting increase in intracranial pressure.
+Furthermore, narcotics produce adverse reactions which may obscure the clinical course of patients with head injuries.
 
 ## Acute Abdominal Conditions
 
-The administration of opioids may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+The administration of narcotics may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+
+## Misuse, Abuse, and Diversion of Opioids
+
+Hydrocodone bitartrate and acetaminophen tablets contain hydrocodone, an opioid agonist, and is a Schedule III controlled substance.
+Opioid agonists have the potential for being abused and are sought by abusers and people with addiction disorders, and are subject to diversion.
+
+Hydrocodone bitartrate and acetaminophen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
+This should be considered when prescribing or dispensing Hydrocodone bitartrate and acetaminophen tablets in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion (see DRUG ABUSE AND DEPENDENCE).
 
 # PRECAUTIONS
 
 ## General
 
-Special Risk Patients: As with any opioid analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
+Special Risk Patients: As with any narcotic analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
 The usual precautions should be observed and the possibility of respiratory depression should be kept in mind.
 
-Cough Reflex: Hydrocodone suppresses the cough reflex; as with all opioids, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used postoperatively and in patients with pulmonary disease.
+Cough Reflex: Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used postoperatively and in patients with pulmonary disease.
 
 ## Information for Patients
 
-Hydrocodone, like all opioids, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
+Hydrocodone, like all narcotics, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
 
 Alcohol and other CNS depressants may produce an additive CNS depression, when taken with this combination product, and should be avoided.
 
@@ -38,7 +46,7 @@ In patients with severe hepatic or renal disease, effects of therapy should be m
 
 ## Drug Interactions
 
-Patients receiving other opioids, antihistamines, antipsychotics, anti-anxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
+Patients receiving other narcotic analgesics, antihistamines, antipsychotics, anti-anxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
 When combined therapy is contemplated, the dose of one or both agents should be reduced.
 
 The use of MAO inhibitors or tricyclic antidepressants with hydrocodone preparations may increase the effect of either the antidepressant or hydrocodone.
@@ -50,8 +58,7 @@ Acetaminophen may produce false-positive test results for urinary 5-hydroxyindol
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No adequate studies have been conducted in animals to determine whether hydrocodone or acetaminophen have a potential for carcinogenesis, mutagenesis, or impairment of fertility.
-
-## Pregnancy
+Pregnancy
 
 Teratogenic Effects: Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
 Hydrocodone bitartrate and acetaminophen tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -63,7 +70,7 @@ There is no consensus on the best method of managing withdrawal.
 
 ## Labor and Delivery
 
-As with all opioids, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
+As with all narcotics, administration of this product to the mother shortly before delivery may result in some degree of respiratory depression in the newborn, especially if higher doses are used.
 
 ## Nursing Mothers
 

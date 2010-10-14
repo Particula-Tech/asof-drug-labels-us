@@ -1,3 +1,3 @@
-# INDICATIONS & USAGE
+# INDICATIONS AND USAGE
 
-Hydrocodone Bitartrate and Acetaminophen Tablets, USP are indicated for the relief of moderate to moderately severe pain.
+Hydrocodone bitartrate and acetaminophen tablets, USP are indicated for the relief of moderate to moderately severe pain.
