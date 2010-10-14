@@ -2,7 +2,7 @@
 
 OMNIPAQUE 140
 
-50 mL glass vial, 140 mgI/mL, boxes of 10 (NDC 0407-1401-50) 50 mL glass bottle, 140 mgI/mL, boxes of 10 (NDC 0407-1401-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1401-52)
+50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1401-52)
 
 OMNIPAQUE 180
 
@@ -10,31 +10,25 @@ OMNIPAQUE 180
 
 OMNIPAQUE 240
 
-10 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-10) 20 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-20) 50 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-50) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-30) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle) boxes of 10 (NDC 0407-1412-32) 100 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-33) 150 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-49) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-34) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-35) 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-91) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1412-90) FLS-1
+10 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-10) 20 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-20) 50 mL glass vial, 240 mgI/mL, boxes of 10 (NDC 0407-1412-50) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-30) 100 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-33) 150 mL glass bottle, 240 mgI/mL, boxes of 10 (NDC 0407-1412-49) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-34) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-35)
 
 OMNIPAQUE 300
 
-10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10) 30 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-30) 50 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-50) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-61) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-62) 100 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-63) 125 mL fill in 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-53) 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-90) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-65) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-66) 50 mL prefilled syringe, 300 mgI/mL, boxes of 10 (NDC 0407-1413-25) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-74) FLS-2 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-75) FLS-2 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-72) FLS-1 150 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1413-76) FLS-2
+10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-10) 30 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-30) 30 mL fill in 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-59) 50 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-50) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-61) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-62) 100 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-63) 125 mL fill in 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-53) 150 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-90) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-65) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-66)
 
 OMNIPAQUE 350
 
-50 mL glass vial, 350 mgI/mL, boxes of 10 (NDC 0407-1414-50) 50 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-89) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-90) 100 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-91) 125 mL fill in 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-76) 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-03) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-93) 200 mL fill in 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-04) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-94) 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-80) 50 mL prefilled syringe, 350 mgI/mL, boxes of 10 (NDC 0407-1414-26) 100 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-36) FLS-2 125 mL in REDIFLO™ (prefilled cartridge), boxes of 10 (NDC 0407-1414-37) FLS-2
-
-REDIFLO™ (prefilled cartridges) FLS-1 are supplied with connector tubing.
-
-REDIFLO™ (prefilled cartridges) FLS-1 are covered under one or more of the following U.S. Patents Numbers: 5,383,858, 5,997,502, 6,322,535, and 6,402,718.
-
-REDIFLO™ (prefilled cartridges) FLS-2 are covered under U.S. Patents Number 6,652,489.
+50 mL glass vial, 350 mgI/mL, boxes of 10 (NDC 0407-1414-50) 50 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-51) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-89) 75 mL fill in 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-90) 100 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-60) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-91) 125 mL fill in 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-76) 150 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-03) 150 mL fill in 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-93) 200 mL fill in 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-04) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1414-94) 250 mL glass bottle, 350 mgI/mL, boxes of 10 (NDC 0407-1414-80)
 
 ## FEDERAL GOVERNMENT CODES
 
 OMNIPAQUE 240
 
-50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-29) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-26) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-27) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-28)
+50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-29) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-27) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1412-28)
 
 OMNIPAQUE 300
 
-10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-11) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-95) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-98) 75 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-99) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-91) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-92) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-93)
+10 mL glass vial, 300 mgI/mL, boxes of 10 (NDC 0407-1413-11) 50 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-95) 100 mL glass bottle, 300 mgI/mL, boxes of 10 (NDC 0407-1413-96) 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-98) 75 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-99) 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-91) 150 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-92) 200 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-93)
 
 OMNIPAQUE 350
 

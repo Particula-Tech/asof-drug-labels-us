@@ -3,9 +3,6 @@
 | 140 | 350 | NOT FOR INTRATHECAL USE |
 | --- | --- | --- |
 
-| OMNIPAQUE in REDIFLO™ (prefilled cartridges) NOT FOR INTRATHECAL USE |
-| --- |
-
 Section I — Intrathecal
 
 Section II — Intravascular
@@ -662,19 +659,17 @@ Gastrointestinal system: Diarrhea (3%) and flatulence (10%).
 
 The recommended dosage of OMNIPAQUE 240 is 50 mL but may vary depending on individual anatomy and/or disease state.
 
-Rx ONLY
-
 Distributed by GE Healthcare Inc. Princeton, NJ 08540
 
-Manufactured by GE Healthcare AS, Oslo, Norway
+Manufactured by GE Healthcare Ireland Cork, Ireland
 
 OMNIPAQUE is a trademark of GE Healthcare.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-Revised April 2009
+Revised May 2010
 
-1168138 USA
+1168137 USA
 
-© 2009 General Electric Company - All rights reserved.
+© 2010 General Electric Company - All rights reserved.
 
-ONC-1O-OSLO
+ONC-1Q-CORK
