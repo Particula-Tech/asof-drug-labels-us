@@ -1,4 +1,4 @@
-Patient Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) SmartJect™ autoinjector
+Patient Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) SmartJect® autoinjector
 
 If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
 Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
@@ -126,7 +126,7 @@ Step 3: Injecting SIMPONI using the single dose SmartJect autoinjector
 - After the button is pressed, it will stay pressed in so you do not need to keep pressure on it.
   See Figure 11.
   Figure 11
-- You will hear a loud 'click' sound.
+- You will hear a loud "click" sound.
   This means that the injection has started.
   Do not pull the SmartJect autoinjector away from your skin.
   If you pull the SmartJect autoinjector away from the skin, you may not get your full dose of medicine.
@@ -327,6 +327,6 @@ Step 5: After the injection
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
-Revised: 7/2010
+Revised: 9/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

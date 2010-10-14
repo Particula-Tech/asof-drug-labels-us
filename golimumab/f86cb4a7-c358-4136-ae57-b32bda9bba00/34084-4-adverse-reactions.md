@@ -91,3 +91,7 @@ Less common clinical trial adverse drug reactions
 Adverse drug reactions that occurred <1% during the SIMPONI clinical trials included the following events listed by system organ class:
 
 Nervous system disorders: central nervous system demyelinating disorders (such as multiple sclerosis), peripheral demyelinating polyneuropathy
+
+Vascular disorders: vasculitis (systemic)
+
+Skin and subcutaneous tissue disorders: vasculitis (cutaneous)

@@ -13,7 +13,7 @@ Each single dose prefilled glass syringe (27 gauge ½ inch) contains 50 mg of SI
 
 Storage and Stability
 
-SIMPONI must be refrigerated at 2ºC to 8ºC (36ºF to 46ºF) and protected from light.
+SIMPONI must be refrigerated at 2°C to 8°C (36°F to 46°F) and protected from light.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SIMPONI (golimumab) is a human IgG1қ monoclonal antibody specific for human tumor necrosis factor alpha (TNFα) that exhibits multiple glycoforms with molecular masses of approximately 150 to 151 kilodaltons.
+SIMPONI (golimumab) is a human IgG1κ monoclonal antibody specific for human tumor necrosis factor alpha (TNFα) that exhibits multiple glycoforms with molecular masses of approximately 150 to 151 kilodaltons.
 SIMPONI was created using genetically engineered mice immunized with human TNF, resulting in an antibody with human-derived antibody variable and constant regions.
 SIMPONI is produced by a recombinant cell line cultured by continuous perfusion and is purified by a series of steps that includes measures to inactivate and remove viruses.
 

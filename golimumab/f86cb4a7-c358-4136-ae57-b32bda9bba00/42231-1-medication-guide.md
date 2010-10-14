@@ -64,7 +64,7 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
   People taking SIMPONI should not receive live vaccines.
   People taking SIMPONI can receive non-live vaccines.
 - are allergic to rubber or latex.
-  The needle cover on the prefilled syringe and SmartJect autoinjector contains dry natural rubber.
+  The needle cover on the prefilled syringe and SmartJect® autoinjector contains dry natural rubber.
 - are pregnant or planning to become pregnant.
   It is not known if SIMPONI will harm your unborn baby.
 - are breastfeeding.
@@ -91,7 +91,7 @@ How should I use SIMPONI?
 - If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
   Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
 - Use SIMPONI exactly as prescribed by your doctor.
-- SIMPONI comes in a prefilled syringe or SmartJect™ autoinjector.
+- SIMPONI comes in a prefilled syringe or SmartJect autoinjector.
   Your doctor will prescribe the type that is best for you.
 - See the detailed Patient Instructions for Use at the end of this Medication Guide for instructions about the right way to prepare and give your SIMPONI injections at home.
 - Do not miss any doses of SIMPONI.
@@ -181,7 +181,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How do I store SIMPONI?
 
-- Refrigerate SIMPONI at 36ºF to 46ºF (2ºC to 8ºC).
+- Refrigerate SIMPONI at 36°F to 46°F (2°C to 8°C).
 - Do not freeze SIMPONI.
 - Keep SIMPONI in the carton to protect it from light when not being used.
 - Do not shake SIMPONI.

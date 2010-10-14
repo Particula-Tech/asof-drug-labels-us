@@ -46,6 +46,6 @@ Patients or caregivers should be instructed in the technique of proper syringe a
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
-Revised: 7/2010
+Revised: 9/2010
 
 ## 17.3 Medication Guide
