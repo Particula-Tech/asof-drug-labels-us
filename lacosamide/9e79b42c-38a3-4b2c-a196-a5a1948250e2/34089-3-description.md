@@ -10,7 +10,7 @@ It is sparingly soluble in water and slightly soluble in acetonitrile and ethano
 
 ## 11.1 VIMPAT Tablets
 
-VIMPAT tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropylcellulose, hypromellose, lecithin, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and dye pigments as specified below:
+VIMPAT tablets contain the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropylcellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and dye pigments as specified below:
 
 VIMPAT tablets are supplied as debossed tablets and contain the following coloring agents:
 

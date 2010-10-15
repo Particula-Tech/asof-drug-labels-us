@@ -102,8 +102,8 @@ How should I take VIMPAT?
 
 What should I avoid while taking VIMPAT?
 
-Do not drive, operate heavy machinery, or do other dangerous activities until you know how VIMPAT affects you.
-VIMPAT may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how VIMPAT affects you.
+  VIMPAT may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
 
 What are the possible side effects of VIMPAT?
 
@@ -133,7 +133,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VIMPAT?
 
-- Store VIMPAT between 59º F to 86º F (15º C to 30º C)
+- Store VIMPAT between 59° F to 86° F (15° C to 30° C)
 
 Keep VIMPAT and all medicines out of the reach of children
 
@@ -152,22 +152,18 @@ For more information, go to www.vimpat.com or call 1-800-477-7877.
 
 What are the ingredients in VIMPAT?
 
-Active ingredient: lacosamide
-
-Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropylcellulose, hypromellose, lecithin, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide and additional ingredients listed below:
-
-- 50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2/indigo carmine aluminum lake
-- 100 mg tablets: yellow iron oxide
-- 150 mg tablets: yellow iron oxide, red iron oxide, black iron oxide
-- 200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
-
-Oral solution inactive ingredients: purified water, sorbitol solution, glycerin, polyethylene glycol, carboxymethylcellulose sodium, acesulfame potassium, methylparaben, flavoring (including natural and artificial flavors, propylene glycol, aspartame, and maltol), anhydrous citric acid and sodium chloride.
-
-Injection inactive ingredients: sodium chloride, water for injection, hydrochloric acid
+- Active ingredient: lacosamide
+- Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropylcellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide and additional ingredients listed below:
+  - 50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2/indigo carmine aluminum lake
+  - 100 mg tablets: yellow iron oxide
+  - 150 mg tablets: yellow iron oxide, red iron oxide, black iron oxide
+  - 200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
+- Oral solution inactive ingredients: purified water, sorbitol solution, glycerin, polyethylene glycol, carboxymethylcellulose sodium, acesulfame potassium, methylparaben, flavoring (including natural and artificial flavors, propylene glycol, aspartame, and maltol), anhydrous citric acid and sodium chloride.
+- Injection inactive ingredients: sodium chloride, water for injection, hydrochloric acid
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Issued 04/2010
+Issued 10/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

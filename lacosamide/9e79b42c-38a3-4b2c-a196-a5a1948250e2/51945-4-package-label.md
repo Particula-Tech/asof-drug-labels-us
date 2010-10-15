@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 50 mg - 60 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 50 mg Tablet Label
 
 NDC 0131-2477-35
 
@@ -10,7 +10,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 100 mg - 60 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 100 mg Tablet Label
 
 NDC 0131-2478-35
 
@@ -22,7 +22,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 150 mg - 60 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 150 mg Tablet Label
 
 NDC 0131-2479-35
 
@@ -34,7 +34,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 200 mg - 60 Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 200 mg Tablet Label
 
 NDC 0131-2480-35
 
@@ -46,7 +46,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 20 mL Single Use Vial Label
+PRINCIPAL DISPLAY PANEL - 200 mg / 20 mL Vial Label
 
 NDC 0131-1810-67 Single Use Vial
 
@@ -54,7 +54,11 @@ VIMPAT® (lacosamide) injection CV
 
 200 mg /20 mL (10 mg/mL)
 
-For Intravenous Use Only Rx only 20 mL
+For Intravenous Use Only
+
+Rx only
+
+20 mL
 
 PRINCIPAL DISPLAY PANEL - 465 mL Bottle Label
 
@@ -68,6 +72,6 @@ Rx only
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-Manufactured for: UCB, Inc. Smyrna, GA 30080
+ucb Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 465 mL

@@ -14,7 +14,7 @@ A pharmacokinetic-pharmacodynamic (efficacy) analysis was performed based on the
 Lacosamide exposure is correlated with the reduction in seizure frequency.
 However, doses above 400 mg/day do not appear to confer additional benefit in group analyses.
 
-Cardiac Electrophysiology
+### Cardiac Electrophysiology
 
 Electrocardiographic effects of VIMPAT were determined in a double-blind, randomized clinical pharmacology trial of 247 healthy subjects.
 Chronic oral doses of 400 and 800 mg/day were compared with placebo and a positive control (400 mg moxifloxacin).
@@ -34,7 +34,7 @@ Steady state plasma concentrations are achieved after 3 days of twice daily repe
 Pharmacokinetics of VIMPAT are dose proportional (100-800 mg) and time invariant, with low inter- and intra-subject variability.
 Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15-23 hours).
 
-Absorption and Bioavailability
+### Absorption and Bioavailability
 
 VIMPAT is completely absorbed after oral administration.
 The oral bioavailability of VIMPAT tablets is approximately 100%.
@@ -45,12 +45,12 @@ The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet
 
 In a trial comparing the oral tablet with and an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown.
 
-Distribution
+### Distribution
 
 The volume of distribution is approximately 0.6 L/kg and thus close to the volume of total body water.
 VIMPAT is less than 15% bound to plasma proteins.
 
-Metabolism and Elimination
+### Metabolism and Elimination
 
 VIMPAT is primarily eliminated from the systemic circulation by renal excretion and biotransformation.
 
@@ -65,9 +65,9 @@ The elimination half-life of the unchanged drug is approximately 13 hours and is
 
 There is no enantiomeric interconversion of lacosamide.
 
-Special Populations
+### Special Populations
 
-Renal impairment
+#### Renal impairment
 
 Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
@@ -80,7 +80,7 @@ Therefore dosage supplementation of up to 50% following hemodialysis should be c
 In all renal impaired patients, the dose titration should be performed with caution.
 [see Dosage and Administration (2.3)]
 
-Hepatic impairment
+#### Hepatic impairment
 
 Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
@@ -93,32 +93,32 @@ The pharmacokinetics of lacosamide have not been evaluated in severe hepatic imp
 VIMPAT use is not recommended in patients with severe hepatic impairment.
 [see Dosage and Administration (2.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
 
-Geriatric
+#### Geriatric
 
 In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
 This may be related to body weight and decreased renal function in elderly subjects.
 Dose reduction is not considered to be necessary.
 
-Pediatric Patients
+#### Pediatric Patients
 
 Pharmacokinetics of VIMPAT have not been studied in pediatric patients.
 
-Gender
+#### Gender
 
 VIMPAT clinical trials indicate that gender does not have a clinically relevant influence on the pharmacokinetics of VIMPAT.
 
-Race
+#### Race
 
 There are no clinically relevant differences in the pharmacokinetics of VIMPAT between Asian, Black, and Caucasian subjects.
 
-CYP2C19 Polymorphism
+### CYP2C19 Polymorphism
 
 There are no clinically relevant differences in the pharmacokinetics of VIMPAT between CYP2C19 poor metabolizers and extensive metabolizers.
 Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers (EM) (N=8) of cytochrome P450 (CYP) 2C19 showed that lacosamide plasma concentrations were similar in PMs and EMs, but plasma concentrations and the amount excreted into urine of the O-desmethyl metabolite were about 70% reduced in PMs compared to EMs.
 
-Drug interactions
+### Drug interactions
 
-In Vitro Assessment of Drug Interactions
+#### In Vitro Assessment of Drug Interactions
 
 In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
 Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
@@ -133,7 +133,7 @@ The relative contribution of other CYP isoforms or non-CYP enzymes in the metabo
 
 Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
 
-In Vivo Assessment of Drug Interactions
+#### In Vivo Assessment of Drug Interactions
 
 Drug interaction studies with AEDs
 
