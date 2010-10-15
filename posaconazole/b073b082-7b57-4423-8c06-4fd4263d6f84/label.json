@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022003"
+  ],
   "inn": "posaconazole",
-  "labeler": "Schering-Plough Corporation",
+  "labeler": "Schering Corporation",
   "package_ndcs": [
     "0085-1328-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "posaconazole",
+      "name": "NOXAFIL"
+    }
+  ],
   "setid": "b073b082-7b57-4423-8c06-4fd4263d6f84",
   "source": "dailymed"
 }

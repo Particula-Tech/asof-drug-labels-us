@@ -1,10 +1,9 @@
-PRODUCT INFORMATION
+Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Schering Corporation Kenilworth, NJ 07033 USA
+BOOST® Drink is a registered trademark of Nestlé Healthcare Nutrition, Inc. Copyright © 2010, Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
+U.S. Patent Nos. 5,661,151; 5,703,079; and 6,958,337.
 
-U.S. Patents 5,703,079; 5,661,151 and 6,958,337.
+B-XXXXXXXXX
 
-Copyright © 2006, Schering Corporation.
-All rights reserved.
-
-31029716 5/08
+Rev.
+01
