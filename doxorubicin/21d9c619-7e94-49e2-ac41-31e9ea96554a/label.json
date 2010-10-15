@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050718"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Centocor Ortho Biotech Products, LP",
+  "package_ndcs": [
+    "59676-960-01",
+    "59676-960-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, LIPOSOMAL",
+      "generic": "doxorubicin hydrochloride",
+      "name": "DOXIL"
+    }
+  ],
+  "setid": "21d9c619-7e94-49e2-ac41-31e9ea96554a",
+  "source": "dailymed"
+}
