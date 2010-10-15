@@ -16,5 +16,3 @@ However, extraordinary and prolonged resuscitative efforts have resulted in succ
 In addition, in the presence of signs of malignant hyperthermia, appropriate treatment should be instituted concurrently.
 
 Since there may be no signs or symptoms to alert the practitioner to which patients are at risk, it is recommended that the use of succinylcholine in pediatric patients should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g., laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible (see PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION).
-
-This drug should be used only by individuals familiar with its actions, characteristics and hazards.

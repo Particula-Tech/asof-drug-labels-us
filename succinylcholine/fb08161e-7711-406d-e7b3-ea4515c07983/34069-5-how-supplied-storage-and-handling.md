@@ -16,6 +16,8 @@ All units carry a date of expiration.
 Store in refrigerator 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 
+Revised: May, 2004
+
 | ©Hospira 2004 | EN-0122 | Printed in USA |
 | --- | --- | --- |
 

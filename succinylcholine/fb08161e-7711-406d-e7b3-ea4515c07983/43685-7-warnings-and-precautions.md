@@ -36,7 +36,7 @@ It should not be used in instances in which an increase in intraocular pressure 
 
 Succinylcholine is acidic (pH = 3.5) and should not be mixed with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 (SEE BOX WARNING)
 
@@ -93,7 +93,7 @@ Teratogenic Effects: Pregnancy Category C.
 
 Animal reproduction studies have not been conducted with succinylcholine chloride.
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Succinylcholine should be given to a pregnant woman only if clearlyneeded.
+Succinylcholine should be given to a pregnant woman only if clearly needed.
 
 Nonteratogenic Effects: Plasma cholinesterase levels are decreased by approximately 24% during pregnancy and for several days postpartum.
 Therefore, a higher proportion of patients may be expected to show increased sensitivity (prolonged apnea) to succinylcholine when pregnant than when nonpregnant.
