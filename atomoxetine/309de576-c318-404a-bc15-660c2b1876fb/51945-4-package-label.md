@@ -16,7 +16,7 @@ Rx only
 
 Each capsule equivalent to 10 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -40,7 +40,7 @@ Rx only
 
 Each capsule equivalent to 18 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -64,7 +64,7 @@ Rx only
 
 Each capsule equivalent to 25 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -88,7 +88,7 @@ Rx only
 
 Each capsule equivalent to 40 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -112,7 +112,7 @@ Rx only
 
 Each capsule equivalent to 60 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -136,7 +136,7 @@ Rx only
 
 Each capsule equivalent to 80 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
@@ -160,7 +160,7 @@ Rx only
 
 Each capsule equivalent to 100 mg atomoxetine
 
-Do not use is Lilly inner seal is missing or broken.
+Do not use if Lilly inner seal is missing or broken.
 
 www.strattera.com
 
