@@ -5,11 +5,12 @@
   "inn": "triamcinolone-acetonide",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
-    "51672-1335-5"
+    "51672-1335-5",
+    "51672-1335-8"
   ],
   "products": [
     {
-      "form": "PASTE ",
+      "form": "PASTE",
       "generic": "triamcinolone acetonide",
       "name": "Oralone"
     }
