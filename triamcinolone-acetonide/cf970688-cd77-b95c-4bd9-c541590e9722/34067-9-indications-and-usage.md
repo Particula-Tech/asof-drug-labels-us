@@ -20,7 +20,7 @@ Neoplastic diseases: For the palliative management of leukemias and lymphomas.
 
 Nervous system: Acute exacerbations of multiple sclerosis; cerebral edema associated with primary or metastatic brain tumor or craniotomy.
 
-Ophthalmic diseases: Sympathetic ophthalmia, temporal arteritis, uveitis and ocular inflammatory conditions unresponsive to topical corticosteroids.
+Ophthalmic diseases: Sympathetic ophthalmia, temporal arteritis, uveitis, and ocular inflammatory conditions unresponsive to topical corticosteroids.
 
 Renal diseases: To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
 
@@ -31,4 +31,4 @@ For the treatment of dermatomyositis, polymyositis, and systemic lupus erythemat
 
 ## Intra-Articular
 
-The intra-articular or soft tissue administration of Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis or osteoarthritis.
+The intra-articular or soft tissue administration of Kenalog-40 Injection is indicated as adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in acute gouty arthritis, acute and subacute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, synovitis, or osteoarthritis.

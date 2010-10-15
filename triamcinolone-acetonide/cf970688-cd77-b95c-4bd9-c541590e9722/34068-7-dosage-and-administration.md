@@ -4,7 +4,7 @@
 
 NOTE: CONTAINS BENZYL ALCOHOL (see PRECAUTIONS).
 
-The initial dose of Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see Dosage section below).
+The initial dose of Kenalog-40 Injection may vary from 2.5 mg to 100 mg per day depending on the specific disease entity being treated (see Dosage section below).
 However, in certain overwhelming, acute, life-threatening situations, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 
 IT SHOULD BE EMPHASIZED THAT DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE UNDER TREATMENT AND THE RESPONSE OF THE PATIENT.
@@ -57,7 +57,7 @@ STRICT ASEPTIC TECHNIQUE IS MANDATORY.
 The vial should be shaken before use to ensure a uniform suspension.
 Prior to withdrawal, the suspension should be inspected for clumping or granular appearance (agglomeration).
 An agglomerated product results from exposure to freezing temperatures and should not be used.
-After withdrawal, Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) should be injected without delay to prevent settling in the syringe.
+After withdrawal, Kenalog-40 Injection should be injected without delay to prevent settling in the syringe.
 Careful technique should be employed to avoid the possibility of entering a blood vessel or introducing infection.
 
 ### SYSTEMIC
