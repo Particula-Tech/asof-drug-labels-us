@@ -29,7 +29,7 @@ When these substances or their derivatives are injected intramuscularly or into 
 
 ### Dosage
 
-The initial dose of Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) for intra-articular administration may vary from 2.5 mg to 5 mg for smaller joints and from 5 to 15 mg for larger joints, depending on the specific disease entity being treated.
+The initial dose of Kenalog-10 Injection for intra-articular administration may vary from 2.5 mg to 5 mg for smaller joints and from 5 mg to 15 mg for larger joints, depending on the specific disease entity being treated.
 Single injections into several joints, up to a total of 20 mg or more, have been given.
 
 ## Intralesional
@@ -61,11 +61,11 @@ If an excessive amount of synovial fluid is present in the joint, some, but not 
 With intra-articular administration, prior use of a local anesthetic may often be desirable.
 Care should be taken with this kind of injection, particularly in the deltoid region, to avoid injecting the suspension into the tissues surrounding the site, since this may lead to tissue atrophy.
 
-In treating acute nonspecific tenosynovitis, care should be taken to ensure that the injection of Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) is made into the tendon sheath rather than the tendon substance.
+In treating acute nonspecific tenosynovitis, care should be taken to ensure that the injection of Kenalog-10 Injection is made into the tendon sheath rather than the tendon substance.
 Epicondylitis may be treated by infiltrating the preparation into the area of greatest tenderness.
 
 ### Intralesional
 
-For treatment of dermal lesions, Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) should be injected directly into the lesion, ie, intradermally or subcutaneously.
-For accuracy of dosage measurement and ease of administration, it is preferable to employ a tuberculin syringe and a small-bore needle (23 to 25 gauge).
+For treatment of dermal lesions, Kenalog-10 Injection should be injected directly into the lesion, ie, intradermally or subcutaneously.
+For accuracy of dosage measurement and ease of administration, it is preferable to employ a tuberculin syringe and a small-bore needle (23-25 gauge).
 Ethyl chloride spray may be used to alleviate the discomfort of the injection.

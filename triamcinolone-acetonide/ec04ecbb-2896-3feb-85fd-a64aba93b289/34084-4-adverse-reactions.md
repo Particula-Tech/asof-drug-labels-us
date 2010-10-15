@@ -14,7 +14,7 @@ Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingo
 
 Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
-Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
+Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration [see WARNINGS: Neurologic]), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 

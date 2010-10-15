@@ -16,10 +16,10 @@ Rare instances of anaphylactoid reactions have occurred in patients receiving co
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
-Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) is a long-acting preparation, and is not suitable for use in acute stress situations.
+Kenalog-10 Injection is a long-acting preparation, and is not suitable for use in acute stress situations.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
-High doses of systemic corticosteroids, including Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP), should not be used for the treatment of traumatic brain injury.
+High doses of systemic corticosteroids, including Kenalog-10 Injection, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-Renal
 
@@ -43,7 +43,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+Infection with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
 These infections may be mild to severe.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may also mask some signs of current infection.
@@ -55,7 +55,7 @@ There have been cases reported in which concomitant use of amphotericin B and hy
 
 ### Special Pathogens
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
+Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, or Toxoplasma.
 
 It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
 
@@ -88,7 +88,8 @@ If chicken pox develops, treatment with antiviral agents should be considered.
 
 ## Neurologic
 
-Reports of severe medical events have been associated with the intrathecal route of administration (see ADVERSE REACTIONS: Gastrointestinal and Neurologic/Psychiatric).
+Epidural and intrathecal administration of this product is not recommended.
+Reports of serious medical events have been associated with epidural and intrathecal routes of administration (see ADVERSE REACTIONS: Gastrointestinal and Neurologic/Psychiatric).
 
 ## Ophthalmic
 
@@ -96,9 +97,9 @@ Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma wit
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
-Adequate studies to demonstrate the safety of Kenalog Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar and intraocular (intravitreal) injections have not been performed.
-Endophthalmitis, eye inflammation, increased intraocular pressure and visual disturbances including vision loss have been reported with intravitreal administration.
-Administration of Kenalog Injection (triamcinolone acetonide injectable suspension, USP) intraocularly or into the nasal turbinates is not recommended.
+Adequate studies to demonstrate the safety of Kenalog Injection use by intraturbinal, subconjunctival, sub-Tenons, retrobulbar, and intraocular (intravitreal) injections have not been performed.
+Endophthalmitis, eye inflammation, increased intraocular pressure, and visual disturbances including vision loss have been reported with intravitreal administration.
+Administration of Kenalog Injection intraocularly or into the nasal turbinates is not recommended.
 
 Intraocular injection of corticosteroid formulations containing benzyl alcohol, such as Kenalog Injection, is not recommended because of potential toxicity from the benzyl alcohol.
 
@@ -178,7 +179,7 @@ If steroid therapy is continued for more than 6 weeks, intraocular pressure shou
 
 ## Information for Patients
 
-Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
+Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
@@ -215,7 +216,7 @@ Hepatic enzyme inducers (eg, barbiturates, phenytoin, carbamazepine, rifampin): 
 
 Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-Nonsteroidal anti-inflammatory agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+Nonsteroidal anti-inflammatory drugs (NSAIDs): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory drugs) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 
