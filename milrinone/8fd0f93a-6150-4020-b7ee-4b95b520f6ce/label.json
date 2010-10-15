@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075834"
+  ],
   "inn": "milrinone",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-6010-48",
     "0338-6011-37"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "milrinone lactate",
+      "name": "Milrinone Lactate in Dextrose"
+    }
+  ],
   "setid": "8fd0f93a-6150-4020-b7ee-4b95b520f6ce",
   "source": "dailymed"
 }

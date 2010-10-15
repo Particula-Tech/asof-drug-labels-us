@@ -21,4 +21,4 @@ Improvement in left ventricular function in patients with ischemic heart disease
 The improvement has occurred without inducing symptoms or electrocardiographic signs of myocardial ischemia.
 
 The steady-state plasma milrinone concentrations after approximately 6 to 12 hours of unchanging maintenance infusion of 0.50 mcg/kg/min are approximately 200 ng/mL.
-Near maximum favorable effects of milrinone on cardiac output and pulmonary capillary wedge pressure are seen at plasma milrinone concentrations in the 150 ng/mL to 250 ng/mL range
+Near maximum favorable effects of milrinone on cardiac output and pulmonary capillary wedge pressure are seen at plasma milrinone concentrations in the 150 ng/mL to 250 ng/mL range.

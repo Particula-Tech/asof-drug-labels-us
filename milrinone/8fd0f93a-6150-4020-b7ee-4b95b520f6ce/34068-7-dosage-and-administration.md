@@ -12,9 +12,10 @@ Dosage recommendations using a 1 mg/mL concentration of milrinone are included f
 
 The table below shows the loading dose in milliliters (mL) of milrinone (1mg/mL) by patient body weight (kg).
 
-| Loading Dose (mL) Using 1 mg/mL Concentration |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Loading Dose (mL) Using 1 mg/mL Concentration
+
 | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
 | mL | 1.5 | 2.0 | 2.5 | 3.0 | 3.5 | 4.0 | 4.5 | 5.0 | 5.5 | 6.0 |
 
@@ -36,11 +37,12 @@ Note: See "Dosage Adjustment in Renally Impaired Patients."
 Dosage may be titrated to the maximum hemodynamic effect and should not exceed 1.13 mg/kg/day.
 Duration of therapy should depend upon patient responsiveness.
 
-The maintenance dose in mL/hr by patient body weight (kg) may be determined by reference to the following table
+The maintenance dose in mL/hr by patient body weight (kg) may be determined by reference to the following table.
 
-| Milrinone Infusion Rate (mL/hr) Using 200 mcg/mL Concentration |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Milrinone Infusion Rate (mL/hr) Using 200 mcg/mL Concentration
+
 | Maintenance Dose (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |  |
 | 0.375 | 3.4 | 4.5 | 5.6 | 6.8 | 7.9 | 9.0 | 10.1 | 11.3 | 12.4 | 13.5 |
 | 0.400 | 3.6 | 4.8 | 6.0 | 7.2 | 8.4 | 9.6 | 10.8 | 12.0 | 13.2 | 14.4 |

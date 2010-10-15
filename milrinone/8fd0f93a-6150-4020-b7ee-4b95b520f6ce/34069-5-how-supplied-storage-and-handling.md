@@ -10,13 +10,3 @@ Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
 Protect from freezing.
 It is recommended that the product be stored at room temperature, 25° C (77° F); however, brief exposure up to 40° C (104° F) does not adversely affect the product.
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Printed in USA
-
-BAXTER and INTRAVIA are trademarks of Baxter International Inc.
-
-07-19-54-485, September 2007

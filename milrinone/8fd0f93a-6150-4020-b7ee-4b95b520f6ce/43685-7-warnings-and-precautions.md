@@ -49,9 +49,9 @@ No untoward clinical manifestations have been observed in limited experience wit
 ## Chemical Interactions
 
 There is an immediate chemical interaction which is evidenced by the formation of a precipitate when furosemide is injected into an intravenous line of an infusion of milrinone.
-Therefore, furosemide should not be administered in intravenous lines containing milrinone
+Therefore, furosemide should not be administered in intravenous lines containing milrinone.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Twenty-four months of oral administration of milrinone to mice at doses up to 40 mg/kg/day (about 50 times the human oral therapeutic dose in a 50 kg patient) was unassociated with evidence of carcinogenic potential.
 Neither was there evidence of carcinogenic potential when milrinone was orally administered to rats at doses up to 5 mg/kg/day (about 6 times the human oral therapeutic dose) for twenty-four months or at 25 mg/kg/day (about 30 times the human oral therapeutic dose) for up to 18 months in males and 20 months in females.
