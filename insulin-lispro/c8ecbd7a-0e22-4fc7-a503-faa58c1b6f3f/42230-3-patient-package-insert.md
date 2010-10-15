@@ -17,7 +17,8 @@ Humalog is used to control high blood sugar (glucose) in people with diabetes.
 Humalog comes in:
 
 - 10 mL vials (bottles) for use with a syringe or external insulin pump
-- Prefilled pens
+- 3 mL vials (bottles) for use with a syringe or external insulin pump
+- 3 mL prefilled pens
 - 3 mL cartridges for use with a reusable pen or external insulin pump
 
 Who should not take Humalog?
@@ -159,15 +160,17 @@ __________
 
 1 MiniMed® and Polyfin® are registered trademarks of MiniMed, Inc.
 
-2 Disetronic®, H-TRONplus®, D-TRON®, D-TRONplus and Rapid® are registered trademarks of Roche Diagnostics GMBH.
+2 Disetronic®,H-TRONplus®, D-TRON®, D-TRONplus and Rapid® are registered trademarks of Roche Diagnostics GMBH.
 
-Patient Information issued September 6, 2007
+Humalog® and Humalog ® KwikPenTM are registered trademarks of Eli Lilly and Company.
 
-KwikPens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Hospira, Inc., Lake Forest, IL 60045, USA or Lilly France, F-67640 Fegersheim, France Cartridges manufactured by Lilly France, F-67640 Fegersheim, France for Eli Lilly and Company, Indianapolis, IN 46285, USA
+Patient Information revised September 2, 2009
+
+Humalog KwikPen manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Pens manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Lilly France, F-67640 Fegersheim, France 10 mL Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA or Hospira, Inc., Lake Forest, IL 60045, USA or Lilly France, F-67640 Fegersheim, France 3 mL Vials manufactured by Eli Lilly and Company, Indianapolis, IN 46285, USA Cartridges manufactured by Lilly France, F-67640 Fegersheim, France for Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 www.humalog.com
 
-Copyright © 2007, Eli Lilly and Company.
+Copyright © 2007, 2009, Eli Lilly and Company.
 All rights reserved.
 
-PV 5560 AMP
+PV 5561 AMP

@@ -6,6 +6,7 @@
   "labeler": "Eli Lilly and Company",
   "package_ndcs": [
     "0002-7510-01",
+    "0002-7510-17",
     "0002-7510-99",
     "0002-7516-01",
     "0002-7516-59",
@@ -18,7 +19,7 @@
   ],
   "products": [
     {
-      "form": "INJECTION, SUSPENSION",
+      "form": "INJECTION, SOLUTION",
       "generic": "insulin lispro",
       "name": "Humalog"
     }
