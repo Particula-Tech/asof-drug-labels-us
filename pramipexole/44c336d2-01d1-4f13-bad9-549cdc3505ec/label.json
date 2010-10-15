@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA090781"
+  ],
+  "inn": "pramipexole",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-330-05",
+    "68462-330-11",
+    "68462-330-63",
+    "68462-330-90",
+    "68462-331-05",
+    "68462-331-11",
+    "68462-331-90",
+    "68462-332-05",
+    "68462-332-11",
+    "68462-332-90",
+    "68462-333-05",
+    "68462-333-11",
+    "68462-333-90",
+    "68462-334-05",
+    "68462-334-11",
+    "68462-334-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pramipexole dihydrochloride",
+      "name": "Pramipexole dihydrochloride"
+    }
+  ],
+  "setid": "44c336d2-01d1-4f13-bad9-549cdc3505ec",
+  "source": "dailymed"
+}
