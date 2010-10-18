@@ -12,5 +12,5 @@ Lopressor is indicated in the long-term treatment of angina pectoris.
 ## Myocardial Infarction
 
 Lopressor ampuls and tablets are indicated in the treatment of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality.
-Treatment with intravenous Lopressor can be initiated as soon as the patient’s clinical condition allows (see DOSAGE AND ADMINISTRATION, CONTRAINDICATIONS, and WARNINGS).
+Treatment with intravenous Lopressor can be initiated as soon as the patient’s clinical condition allows (see DOSAGE AND ADMINISTRATION, CONTRA-INDICATIONS, and WARNINGS).
 Alternatively, treatment can begin within 3 to 10 days of the acute event (see DOSAGE AND ADMINISTRATION).

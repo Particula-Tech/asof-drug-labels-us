@@ -1,27 +1,15 @@
 {
-  "application_numbers": [
-    "NDA017963",
-    "NDA018704"
-  ],
+  "application_numbers": [],
   "inn": "metoprolol",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0400-01",
     "0078-0458-05",
-    "0078-0459-05"
+    "0078-0458-09",
+    "0078-0459-05",
+    "0078-0459-09"
   ],
-  "products": [
-    {
-      "form": "INJECTION, SOLUTION",
-      "generic": "metoprolol tartrate",
-      "name": "Lopressor"
-    },
-    {
-      "form": "TABLET",
-      "generic": "metoprolol tartrate",
-      "name": "Lopressor"
-    }
-  ],
+  "products": [],
   "setid": "bb05420c-fd24-4672-9f62-fdd313819287",
   "source": "dailymed"
 }

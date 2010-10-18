@@ -20,7 +20,7 @@ Rhinitis has also been reported.
 Gastrointestinal: Diarrhea has occurred in about 5 of 100 patients.
 Nausea, dry mouth, gastric pain, constipation, flatulence, and heartburn have been reported in about 1 of 100 patients.
 Vomiting was a common occurrence.
-Postmarketing experience reveals very rare reports of hepatitis, jaundice and non-specific hepatic dysfunction.
+Post-marketing experience reveals very rare reports of hepatitis, jaundice and non-specific hepatic dysfunction.
 Isolated cases of transaminase, alkaline phosphatase, and lactic dehydrogenase elevations have also been reported.
 
 Hypersensitive Reactions: Pruritus or rash have occurred in about 5 of 100 patients.
@@ -69,8 +69,3 @@ Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS).
 Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
 
 Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospasm, and respiratory distress.
-
-## Postmarketing Experience
-
-The following adverse reactions have been reported during postapproval use of Lopressor: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
-Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
