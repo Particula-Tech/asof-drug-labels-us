@@ -25,7 +25,7 @@ Rituxan can cause serious side effects that can lead to death, including:
    - chest pain
 2. Progressive Multifocal Leukoencephalopathy (PML).
    PML is a rare, serious brain infection caused by a virus.
-   People with weakened immune system can get PML.
+   People with weakened immune systems can get PML.
    Your chance of getting PML may be higher if you are treated with Rituxan alone or with other medicines that weaken your immune system.
    PML can result in death or severe disability.
    There is no known treatment, prevention, or cure for PML.Tell your doctor right away if you have any of the following symptoms or if anyone close to you notices these symptoms:
@@ -139,12 +139,12 @@ See “What is the most important information I should know about Rituxan?”
 - Heart problems.
   Rituxan may cause chest pain and irregular heart beats which may need treatment, or your doctor may decide to stop your treatment with Rituxan.
 - Kidney problems, especially if you are receiving Rituxan for NHL.
-  Your doctor should do blood test to check how well your kidneys are working.
+  Your doctor should do blood tests to check how well your kidneys are working.
 - Stomach and Serious bowel problems that can sometimes lead to death.
   Bowel problems, including blockage or tears in the bowel can happen if you receive Rituxan with chemotherapy medicines to treat non-Hodgkin’s lymphoma.
   Tell your doctor right away if you have any stomach area pain during treatment with Rituxan.
 - Low blood cell counts.
-  Your doctor may do blood test during treatment with Rituxan to check you blood cell counts.
+  Your doctor may do blood tests during treatment with Rituxan to check your blood cell counts.
   - White blood cells.
     White blood cells fight against bacterial infections.
     Low white blood cells can cause you to get infections, which may be serious.
@@ -199,6 +199,6 @@ Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94
 
 ©2010 Biogen Idec Inc. and Genentech, Inc.
 
-Revised 02/2010 (4851501)
+Revised 10/2010 (4851501)
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -21,7 +21,7 @@ A high number of circulating malignant cells (≥ 25,000/mm3) or high tumor burd
 
 Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
 Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
-[See Boxed Warning, Warnings and Precautions (5.8)].]
+[See Boxed Warning, Warnings and Precautions (5.8).]
 
 ## 5.3 Severe Mucocutaneous Reactions
 

@@ -142,7 +142,7 @@ Table 6: Efficacy Results in Studies 9 and 10
 | Hazard ratio (95% CI) | 0.56 (0.43, 0.71) |  | 0.76 (0.6, 0.96) |  |
 | P value (Log-Rank test) | < 0.01 |  | 0.02 |  |
 | Response rate(95% CI) | 86%(82, 89) | 73%(68, 77) | 54%(48, 60) | 45%(37, 51) |
-| * As defined in 1996 National Cancer Institute Working Group guidelines |  |  |  |  |
+| * As defined in 1996 National Cancer Institute Working Group guidelines. |  |  |  |  |
 
 Across both studies, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older and 100 Rituxan-treated patients (15%) were 70 years of age or older.
 The results of exploratory subset analyses in elderly patients are presented in Table 7.
@@ -189,7 +189,7 @@ Table 8: ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified In
 | ACR70 |  |  |  | ACR70 |  |  |  |
 | Week 24 | 1% | 12% | 11% (7%, 15%) | Week 24 | 11% | 8% | NA |
 |  |  |  |  | Week 48 | 13% | 14% | 1% (-5%, 8%) |
-| a In Study 2, all patients received a first course of Rituxan 2 x 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 x 1000 mg + MTX or placebo + MTX at or after Week 24.b Since all patients received a first course of Rituxan, no comparison between Placebo + MTX and Rituxan + MTX is made at Week 24.c For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive >= 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and >=20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). |  |  |  |  |  |  |  |
+| a In Study 2, all patients received a first course of Rituxan 2 x 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 x 1000 mg + MTX or placebo + MTX at or after Week 24.b Since all patients received a first course of Rituxan, no comparison between Placebo + MTX and Rituxan + MTX is made at Week 24.c For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). |  |  |  |  |  |  |  |
 
 Improvement was also noted for all components of ACR response following treatment with Rituxan, as shown in Table 9.
 
@@ -271,4 +271,4 @@ Table 11: Improvement from Baseline in Health Assessment Questionnaire Disabilit
 | --- | --- | --- | --- |
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
 | Percent of patients with "Improved" score (Change from Baseline ≥ MCID)a | 48% | 58% | 11% (0%, 21%) |
-| aMinimal Clinically Important Difference: MCID for HAQ = 0.22. bAdjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive >= 20 IU/mL, negative < 20 IU/mL) at baseline |  |  |  |
+| a Minimal Clinically Important Difference: MCID for HAQ = 0.22. b Adjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive ≥ 20 IU/mL, negative < 20 IU/mL) at baseline |  |  |  |

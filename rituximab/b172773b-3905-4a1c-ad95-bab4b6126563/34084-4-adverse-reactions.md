@@ -14,7 +14,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in clinical trials of patients with NHL were infusion reactions, fever, lymphopenia, chills, infection, and asthenia.
 
-The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in clinical trials of patients with CLL were: infusion reactions and neutropenia.
+The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in clinical trials of patients with CLL were infusion reactions and neutropenia.
 
 ## 6.1 Clinical Trials Experience in Lymphoid Malignancies
 
@@ -58,7 +58,7 @@ Relapsed or Refractory, Low-Grade NHL
 Adverse reactions in Table 1 occurred in 356 patients with relapsed or refractory, low‑grade or follicular, CD20‑positive, B‑cell NHL treated in single‑arm studies of Rituxan administered as a single agent [see Clinical Studies (14.1)].
 Most patients received Rituxan 375 mg/m2 weekly for 4 doses.
 
-Table 1: Incidence of Adverse Reactions in ≥5% of Patients with Relapsed or Refractory, Low‑Grade or Follicular NHL, Receiving Single‑agent Rituxan (N=356)a,b
+Table 1: Incidence of Adverse Reactions in ≥ 5% of Patients with Relapsed or Refractory, Low‑Grade or Follicular NHL, Receiving Single‑agent Rituxan (N=356)a,b
 
 |  | All Grades (%) | Grade 3 and 4 (%) |
 | --- | --- | --- |
@@ -206,7 +206,7 @@ The most common serious infections (≥0.5%) were pneumonia or lower respiratory
 Fatal serious infections included pneumonia, sepsis and colitis.
 Rates of serious infection remained stable in patients receiving subsequent courses.
 In 185 Rituxan‑treated RA patients with active disease, subsequent treatment with a biologic DMARD, the majority of which were TNF antagonists, did not appear to increase the rate of serious infection.
-Thirteen serious infections were observed in 186.1 patient years (6.99 per 100 patient years) prior to exposure and 10 were observed in 182.3 patient years (5.49 per 100 patient years).
+Thirteen serious infections were observed in 186.1 patient years (6.99 per 100 patient years) prior to exposure and 10 were observed in 182.3 patient years (5.49 per 100 patient years) after exposure.
 
 Cardiac Adverse Reactions
 
@@ -253,9 +253,7 @@ The clinical relevance of HACA formation in Rituxan‑treated patients is unclea
 
 ## 6.4 Postmarketing Experience
 
-The following adverse reactions have been identified during post‑approval use of Rituxan in hematologic malignancies.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to Rituxan.
 
 - Hematologic: prolonged pancytopenia, marrow hypoplasia, and late‑onset neutropenia, hyperviscosity syndrome in Waldenstrom’s macroglobulinemia.
@@ -265,4 +263,5 @@ Decisions to include these reactions in labeling are typically based on one or m
 - Neoplasia: disease progression of Kaposi’s sarcoma.
 - Skin: severe mucocutaneous reactions.
 - Gastrointestinal: bowel obstruction and perforation.
-- Pulmonary: fatal bronchiolitis obliterans and pneumonitis (including interstitial pneumonitis).
+- Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.
+- Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS).
