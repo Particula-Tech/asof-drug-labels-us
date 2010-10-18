@@ -2,7 +2,7 @@
 
 Patient should be informed of the following:
 
-## 17.1 Information for Patients
+Information for Patients
 
 Lansoprazole is available as a capsule and is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for this dosage form is presented below [see Dosage and Administration (2.3)].
@@ -53,4 +53,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 7/2010
+E 9/2010

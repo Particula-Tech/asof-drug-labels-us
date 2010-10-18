@@ -22,7 +22,7 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 The safety and effectiveness of lansoprazole have been established in pediatric patients 1 to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
 
-### One to 11 Years of Age
+### One to 11 years of age
 
 In an uncontrolled, open-label, U.S. multicenter study, 66 pediatric patients (1 to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole 15 mg daily if ≤ 30 kg or lansoprazole 30 mg daily if greater than 30 kg administered for 8 to 12 weeks.
 The lansoprazole dose was increased (up to 30 mg twice daily) in 24 of 66 pediatric patients after 2 or more weeks of treatment if they remained symptomatic.
@@ -50,7 +50,7 @@ Of the 66 patients with GERD 85% (56/66) took lansoprazole for 8 weeks and 15% (
 
 The most frequently reported (2 or more patients) treatment-related adverse reactions in patients 1 to 11 years of age (N = 66) were constipation (5%) and headache (3%).
 
-### Twelve to 17 Years of Age
+### Twelve to 17 years of age
 
 In an uncontrolled, open-label, U.S. multicenter study, 87 adolescent patients (12 to 17 years of age) with symptomatic GERD were treated with lansoprazole for 8 to 12 weeks.
 Baseline upper endoscopies classified these patients into two groups: 64 (74%) nonerosive GERD and 23 (26%) erosive esophagitis (EE).

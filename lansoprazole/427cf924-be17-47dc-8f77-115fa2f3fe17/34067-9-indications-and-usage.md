@@ -8,7 +8,7 @@ Lansoprazole delayed-release capsules are indicated for short-term treatment (fo
 
 Triple Therapy: Lansoprazole delayed-release capsules/amoxicillin/clarithromycin
 
-Lansoproazole delayed-release capsules in combination with amoxicillin plus clarithromycin as triple therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) to eradicate H. pylori.
+Lansoprazole delayed-release capsules in combination with amoxicillin plus clarithromycin as triple therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one-year history of a duodenal ulcer) to eradicate H. pylori.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
 
 Please refer to the full prescribing information for amoxicillin and clarithromycin.

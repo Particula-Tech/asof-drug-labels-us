@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 15 mg Label Text - 30 Capsules
+## Lansoprazole Delayed-Release Capsules 15 mg 30s Label Text
 
 NDC 0093-7350-56
 
@@ -24,7 +24,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## 30 mg Label Text - 30 Capsules
+## Lansoprazole Delayed-Release Capsules 30 mg 30s Label Text
 
 NDC 0093-7351-56
 
