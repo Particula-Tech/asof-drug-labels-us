@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA091269"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Dr.Reddy's Laboratories Ltd.",
+  "package_ndcs": [
+    "55111-398-01",
+    "55111-398-05",
+    "55111-398-30",
+    "55111-398-60",
+    "55111-398-79",
+    "55111-399-01",
+    "55111-399-05",
+    "55111-399-30",
+    "55111-399-60",
+    "55111-399-79"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "82174fcc-1b0f-2068-7fc4-db335b43b5e2",
+  "source": "dailymed"
+}
