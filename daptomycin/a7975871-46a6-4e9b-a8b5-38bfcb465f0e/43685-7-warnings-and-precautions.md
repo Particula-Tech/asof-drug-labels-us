@@ -1,6 +1,6 @@
 # WARNINGS
 
-Eosinophilic Pneumonia
+## Eosinophilic Pneumonia
 
 Eosinophilic pneumonia has been reported in patients receiving CUBICIN.
 In reported cases associated with CUBICIN, patients developed fever, dyspnea with hypoxic respiratory insufficiency, and diffuse pulmonary infiltrates.
@@ -9,7 +9,7 @@ Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving CUBICIN should undergo prompt medical evaluation, and CUBICIN should be discontinued immediately.
 Treatment with systemic steroids is recommended.
 
-Clostridium difficile–Associated Diarrhea
+## Clostridium difficile–Associated Diarrhea
 
 Clostridium difficile–associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CUBICIN, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
