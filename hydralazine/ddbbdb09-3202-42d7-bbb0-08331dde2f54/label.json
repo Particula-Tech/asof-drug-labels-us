@@ -1,21 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA088467",
+    "ANDA088468",
+    "ANDA089097",
+    "ANDA089098"
+  ],
   "inn": "hydralazine",
-  "labeler": "Barr Laboratories, Inc.",
+  "labeler": "Pliva Inc.",
   "package_ndcs": [
     "50111-327-01",
-    "50111-327-02",
     "50111-327-03",
     "50111-328-01",
-    "50111-328-02",
     "50111-328-03",
     "50111-397-01",
-    "50111-397-02",
     "50111-398-01",
-    "50111-398-02",
     "50111-398-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydralazine hydrochloride",
+      "name": "Hydralazine Hydrochloride"
+    }
+  ],
   "setid": "ddbbdb09-3202-42d7-bbb0-08331dde2f54",
   "source": "dailymed"
 }

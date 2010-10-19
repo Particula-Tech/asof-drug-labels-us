@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Hypersensitivity to hydrALAzine; coronary artery disease; mitral valvular rheumatic heart disease.
+Hypersensitivity to hydralazine; coronary artery disease; mitral valvular rheumatic heart disease.

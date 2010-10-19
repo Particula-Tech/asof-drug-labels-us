@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions with hydrALAzine are usually reversible when dosage is reduced.
+Adverse reactions with hydralazine are usually reversible when dosage is reduced.
 However, in some cases it may be necessary to discontinue the drug.
 The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency.
 
