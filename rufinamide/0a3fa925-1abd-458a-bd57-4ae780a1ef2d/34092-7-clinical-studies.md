@@ -21,7 +21,7 @@ The primary efficacy variables were:
 
 The results of the three primary endpoints are shown in Table 2 below.
 
-Table 2:Lennox-Gastaut Syndrome Trial Seizure Frequency Primary Efficacy Variable Results
+Table 2: Lennox-Gastaut Syndrome Trial Seizure Frequency Primary Efficacy Variable Results
 
 | Variable | Placebo | Rufinamide |
 | --- | --- | --- |

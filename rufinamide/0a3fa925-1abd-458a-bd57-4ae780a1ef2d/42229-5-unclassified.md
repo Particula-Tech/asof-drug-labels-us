@@ -1,8 +1,4 @@
-# Medication Guide
-
-BANZEL™ (ban-'zel)
-
-[rufinamide]
+# Medication Guide BANZEL™ (ban-'zel) [rufinamide]
 
 BANZEL and Suicidal Thoughts or Actions
 
@@ -73,12 +69,14 @@ For more information, go to www.banzel.com or call 1-888-274-2378.
 
 Issued November 2008
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-BANZELTM is a trademark of Novartis Pharma AG, used under license.
+BANZEL TM is a trademark of Novartis Pharma AG, used under license.
 
 Manufactured by Eisai Co., Ltd.
 
-Marketed by Eisai Inc., Woodcliff Lake, NJ 07677
+Marketed by Eisai Inc.
+
+Woodcliff Lake, NJ 07677
 
 © 2008 Eisai Inc. Printed in U.S.A.

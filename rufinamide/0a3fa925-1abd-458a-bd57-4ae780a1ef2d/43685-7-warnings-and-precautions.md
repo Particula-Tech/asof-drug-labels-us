@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Suicidal Behavior and Ideation
+Suicidal Behavior and Ideation
 
 Antiepileptic drugs increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any antiepileptic drug for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, or any unusual changes in mood or behavior.
@@ -36,7 +36,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that antiepileptic drugs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## Central Nervous System Reactions
+Central Nervous System Reactions:
 
 Use of BANZEL has been associated with central nervous system-related adverse reactions.
 The most significant of these can be classified into two general categories:
@@ -45,7 +45,7 @@ The most significant of these can be classified into two general categories:
 
 # Precautions
 
-## QT Shortening
+QT Shortening
 
 Formal cardiac ECG studies demonstrated shortening of the QT interval (up to 20 msec) with BANZEL treatment.
 In a placebo-controlled study of the QT interval, a higher percentage of BANZEL-treated subjects (46% at 2400 mg, 46% at 3200 mg, and 65% at 4800 mg) had a QT shortening of greater than 20 msec at Tmax compared to placebo (5 - 10%).
@@ -58,10 +58,10 @@ Familial Short QT syndrome is associated with an increased risk of sudden death 
 Such events in this syndrome are believed to occur primarily when the corrected QT interval falls below 300 msec.
 Nonclinical data also indicate that QT shortening is associated with ventricular fibrillation.
 
-Patients with Familial Short QT syndrome should not be treated with BANZEL (see Contraindications).
+Patients with Familial Short QT syndrome should not be treated with BANZEL (see CONTRAINDICATIONS).
 Caution should be used when administering BANZEL with other drugs that shorten the QT interval.
 
-## Multi-organ Hypersensitivity Reactions
+Multi-organ Hypersensitivity Reactions
 
 Multi-organ hypersensitivity syndrome, a serious condition sometimes induced by antiepileptic drugs, has occurred in association with BANZEL therapy in clinical trials.
 One patient experienced rash, urticaria, facial edema, fever, elevated eosinophils, stuporous state, and severe hepatitis, beginning on day 29 of Banzel therapy and extending over a course of 30 days of continued Banzel therapy with resolution 11 days after discontinuation.
@@ -73,19 +73,19 @@ If this reaction is suspected, BANZEL should be discontinued and alternative tre
 
 All patients who develop a rash while taking BANZEL must be closely supervised.
 
-## Withdrawal of AEDs
+Withdrawal of AEDs
 
-As with all antiepileptic drugs BANZEL should be withdrawn gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus.
+As with all antiepileptic drugs, BANZEL should be withdrawn gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus.
 If abrupt discontinuation of the drug is medically necessary, the transition to another AED should be made under close medical supervision.
-In clinical trials BANZEL discontinuation was achieved by reducing the dose by approximately 25% every two days.
+In clinical trials, BANZEL discontinuation was achieved by reducing the dose by approximately 25% every two days.
 
-## Status Epilepticus
+Status Epilepticus
 
 Estimates of the incidence of treatment emergent status epilepticus among patients treated with BANZEL are difficult because standard definitions were not employed.
 In a controlled Lennox Gastaut syndrome trial, 3 of 74 (4.1 %) BANZEL-treated patients had episodes that could be described as status epilepticus in the BANZEL-treated patients compared with none of the 64 patients in the placebo-treated patients.
 In all controlled trials that included patients with different epilepsies, 11 of 1240 (0.9%) BANZEL-treated patients had episodes that could be described as status epilepticus compared with none of 635 patients in the placebo-treated patients.
 
-## Information for Patients
+Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with BANZEL and should counsel them in its appropriate use.
 A patient Medication Guide is available for BANZEL.
@@ -102,7 +102,7 @@ Patients should be instructed to take BANZEL only as prescribed.
 
 BANZEL should be taken with food.
 
-As with all centrally-acting medications, alcohol in combination with BANZEL may cause additive central nervous system effects.
+As with all centrally acting medications, alcohol in combination with BANZEL may cause additive central nervous system effects.
 
 Patients should be advised about the potential for somnolence or dizziness and advised not to drive or operate machinery until they have gained sufficient experience on BANZEL to gauge whether it adversely affects their mental and/or motor performance.
 
@@ -118,7 +118,7 @@ Patients should be advised to notify their physician if they experience a rash a
 
 Leucopenia (white cell count < 3X109 L) was more commonly observed in BANZEL-treated patients (43 of 1171, 3.7%) than placebo-treated patients (7 of 579, 1.2%) in all controlled trials.
 
-## Drug Interactions
+### Drug Interactions
 
 In vitro and in vivo studies have shown that BANZEL is unlikely to be involved in significant pharmacokinetic interactions.
 
@@ -152,11 +152,11 @@ The lowest dose tested was associated with a plasma AUC ≈ 0.2 times the human 
 
 ## Pregnancy
 
-Pregnancy Category C
+### Pregnancy Category C
 
 Rufinamide produced developmental toxicity when administered orally to pregnant animals at clinically relevant doses.
 
-Rufinamide was administered orally to rats at doses of 20, 100, and 300 mg/kg/day and to rabbits at doses of 30, 200, and 1000 mg/kg/day during the period of organogenesis (implantation to closure of the hard palate); the high doses are associated with plasma AUCs ≈ 2 times the human plasma AUC at the maximum recommended human dose (MRHD, 3200 mg/day).
+Rufinamide was administered orally to rats at doses of 20, 100, and 300 mg/kg/day and to rabbits at doses of 30, 200, and 1000 mg/kg/day during the period of organogenesis (implantation to closure of the hard palate); the high doses are associated with plasma AUCs ≈2 times the human plasma AUC at the maximum recommended human dose (MRHD, 3200 mg/day).
 Decreased fetal weights and increased incidences of fetal skeletal abnormalities were observed in rats at doses associated with maternal toxicity.
 In rabbits, embryo-fetal death, decreased fetal body weights, and increased incidences of fetal visceral and skeletal abnormalities occurred at all but the low dose.
 The highest dose tested in rabbits was associated with abortion.
@@ -177,14 +177,3 @@ The effect of BANZEL on labor and delivery in humans is not known.
 
 Rufinamide is likely to be excreted in breast milk.
 Because of the potential for serious adverse reactions in nursing infants from BANZEL, a decision should be made whether to discontinue nursing or discontinue the drug taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-The safety and effectiveness in patients with Lennox-Gastaut syndrome have not been established in children less than 4 years.
-
-## Geriatric Use
-
-Clinical studies of BANZEL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-
-A study evaluating the pharmacokinetics of rufinamide in elderly subjects showed that there were no significant differences in the plasma and urine pharmacokinetic parameters of rufinamide between the younger and elderly subjects under both single and multiple dose treatments (see Special Populations: Elderly).

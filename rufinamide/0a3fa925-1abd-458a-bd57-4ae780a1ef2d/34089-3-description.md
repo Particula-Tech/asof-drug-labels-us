@@ -1,4 +1,4 @@
-# DESCRIPTION
+# Description
 
 BANZEL (rufinamide) is a triazole derivative structurally unrelated to currently marketed antiepileptic drugs (AEDs).
 Rufinamide has the chemical name 1-[(2,6-difluorophenyl)methyl]-1H-1,2,3-triazole-4 carboxamide.
