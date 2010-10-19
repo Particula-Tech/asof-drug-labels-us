@@ -1,41 +1,195 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Clinical efficacy trials enrolled over 15,500 moxifloxacin orally and intravenously treated patients, of whom over 14,900 patients received the 400 mg dose.
-Most adverse events reported in moxifloxacin trials were described as mild to moderate in severity and required no treatment.
-Moxifloxacin was discontinued due to adverse reactions thought to be drug-related in 2.9% of orally treated patients and 6.3 % of sequentially (intravenous followed by oral) treated patients.
-The latter studies were conducted in community acquired pneumonia and complicated skin and skin structure infections and complicated intra-abdominal infections with, in general, a sicker patient population compared to the tablet studies.
+## 6.1 Serious and Otherwise Important Adverse Reactions
 
-Adverse reactions, judged by investigators to be at least possibly drug-related, occurring in greater than or equal to 2% of moxifloxacin treated patients were: nausea (6%), diarrhea (5%), dizziness (2%).
+The following serious and otherwise important adverse reactions are discussed in greater detail in the warnings and precautions section of the label:
 
-Additional clinically relevant uncommon events, judged by investigators to be at least possibly drug-related, that occurred in greater than or equal to 0.1% and less than 2% of moxifloxacin treated patients were:
+- Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
+- QT Prolongation [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.4)]
+- Central Nervous System Effects [see Warnings and Precautions (5.5)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.7)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.9)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.10)]
 
-BODY AS A WHOLE: abdominal pain, headache, asthenia, dehydration (secondary to diarrhea or reduced fluid intake), injection site reaction (including phlebitis), malaise, moniliasis, pain, allergic reaction
+## 6.2 Clinical Trial Experience
 
-CARDIOVASCULAR: cardiac arrhythmia (not otherwise specified), tachycardia, palpitation, vasodilation, QT interval prolonged
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-DIGESTIVE: vomiting, abnormal liver function test (increased transaminases, increased bilirubin), dyspepsia, dry mouth, flatulence, oral moniliasis, constipation, GGTP increased, anorexia, stomatitis, glossitis
+The data described below reflect exposure to AVELOX in 14981 patients in 71 active controlled Phase II- IV clinical trials in different indications [see Indications and Usage (1)].
+The population studied had a mean age of 50 years (approximately 73% of the population was <65 years of age), 50% were male, 63% were Caucasian, 12% were Asian and 9% were Black.
+Patients received AVELOX 400 mg once daily PO, IV, or sequentially (IV followed by PO).
+Treatment duration was usually 6-10 days, and the mean number of days on therapy was 9 days.
 
-HEMIC AND LYMPHATIC: leukopenia, eosinophilia, prothrombin decrease (prothrombin time prolonged/International Normalized Ratio (INR) increased), thrombocythemia
+Discontinuation of AVELOX due to adverse events occurred in 5.0% of patients overall, 4.1% of patients treated with 400 mg PO, 3.9% with 400 mg IV and 8.2% with sequential therapy 400 mg PO/IV.
+The most common adverse events leading to discontinuation with the 400 mg PO doses were nausea (0.8%), diarrhea (0.5%), dizziness (0.5%), and vomiting (0.4%).
+The most common adverse event leading to discontinuation with the 400 mg IV dose was rash (0.5%).
+The most common adverse events leading to discontinuation with the 400 mg IV/PO sequential dose were diarrhea (0.5%), pyrexia (0.4%).
 
-METABOLIC AND NUTRITIONAL: lactic dehydrogenase increased, amylase increased
+Adverse reactions occurring in ≥1% of AVELOX-treated patients and less common adverse reactions, occurring in 0.1 to <1% of AVELOX-treated patients, are shown in Tables 2 and Table 3, respectively.
+The most common adverse drug reactions (≥3%) are nausea, diarrhea, headache, and dizziness.
 
-MUSCULOSKELETAL: arthralgia, myalgia
+Table 2: Common (≥ 1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX
 
-NERVOUS SYSTEM: insomnia, nervousness, vertigo, somnolence, anxiety, tremor
+| System Organ Class | Adverse ReactionsMedDRA Version 12.0 | %(N=14,981) |
+| --- | --- | --- |
+| Blood and Lymphatic System Disorders | Anemia | 1.1 |
+| Gastrointestinal Disorders | Nausea | 6.9 |
+|  | Diarrhea | 6.0 |
+|  | Vomiting | 2.4 |
+|  | Constipation | 1.9 |
+|  | Abdominal pain | 1.5 |
+|  | Abdominal pain upper | 1.1 |
+|  | Dyspepsia | 1.0 |
+| General Disorders and Administration Site Conditions | Pyrexia | 1.1 |
+| Investigations | Alanine aminotransferase increased | 1.1 |
+| Metabolism and Nutritional Disorder | Hypokalemia | 1 |
+| Nervous System Disorders | Headache | 4.2 |
+|  | Dizziness | 3.0 |
+| Psychiatric Disorders | Insomnia | 1.9 |
 
-SKIN/APPENDAGES: rash (maculopapular, purpuric, pustular), pruritus, sweating, urticaria
+Table 3: Less Common (0.1 to <1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX (N=14,981)
 
-SPECIAL SENSES: taste perversion
+| System Organ Class | Adverse ReactionsMedDRA Version 12.0 |
+| --- | --- |
+| Blood and Lymphatic System Disorders | Thrombocythaemia |
+|  | Eosinophilia |
+|  | Neutropenia |
+|  | Thrombocytopenia |
+|  | Leukopenia |
+|  | Leukocytosis |
+| Cardiac Disorders | Atrial fibrillation |
+|  | Palpitations |
+|  | Tachycardia |
+|  | Cardiac failure congestive |
+|  | Angina pectoris |
+|  | Cardiac failure |
+|  | Cardiac arrest |
+|  | Bradycardia |
+| Ear and Labyrinth Disorders | Vertigo |
+|  | Tinnitus |
+| Eye Disorders | Vision blurred |
+| Gastrointestinal Disorders | Dry mouth |
+|  | Abdominal discomfort |
+|  | Flatulence |
+|  | Abdominal distention |
+|  | Gastritis |
+|  | Gastroesophageal reflux disease |
+| General Disorders and Administration Site Conditions | Fatigue |
+|  | Chest pain |
+|  | Asthenia |
+|  | Edema peripheral |
+|  | Pain |
+|  | Malaise |
+|  | Infusion site extravasation |
+|  | Edema |
+|  | Chills |
+|  | Chest discomfort |
+|  | Facial pain |
+| Hepatobiliary disorders | Hepatic function abnormal |
+| Infections and Infestations | Vulvovaginal candidiasis |
+|  | Oral candidiasis |
+|  | Vulvovaginal mycotic infection |
+|  | Candidiasis |
+|  | Vaginal infection |
+|  | Oral fungal infection |
+|  | Fungal infection |
+|  | Gastroenteritis |
+| Investigations | Aspartate aminotransferase increased |
+|  | Gamma-glutamyltransferase increased |
+|  | Blood alkaline phosphatase increased |
+|  | Hepatic enzyme increased |
+|  | Electrocardiogram QT prolonged |
+|  | Blood lactate dehydrogenase increased |
+|  | Platelet count increased |
+|  | Blood amylase increased |
+|  | Blood glucose increased |
+|  | Lipase increased |
+|  | Hemoglobin decreased |
+|  | Blood creatinine increased |
+|  | Transaminases increased |
+|  | White blood cell count increased |
+|  | Blood urea increased |
+|  | Liver function test abnormal |
+|  | Hematocrit decreased |
+|  | Prothrombin time prolonged |
+|  | Eosinophil count increased |
+|  | Activated partial thromboplastin time prolonged |
+|  | Blood bilirubin increased |
+|  | Blood triglycerides increased |
+|  | Blood uric acid increased |
+|  | Blood pressure increased |
+| Metabolism and Nutrition Disorders | Hyperglycemia |
+|  | Anorexia |
+|  | Hypoglycemia |
+|  | Hyperlipidemia |
+|  | Decreased appetite |
+|  | Dehydration |
+| Musculoskeletal and Connective Tissue Disorders | Back pain |
+|  | Pain in extremity |
+|  | Arthralgia |
+|  | Myalgia |
+|  | Muscle spasms |
+|  | Musculoskeletal chest pain |
+|  | Musculoskeletal pain |
+| Nervous System Disorders | Dysgeusia |
+|  | Somnolence |
+|  | Tremor |
+|  | Lethargy |
+|  | Paresthesia |
+|  | Tension headache |
+|  | Hypoesthesia |
+|  | Syncope |
+| Psychiatric Disorders | Anxiety |
+|  | Confusional state |
+|  | Agitation |
+|  | Depression |
+|  | Nervousness |
+|  | Restlessness |
+|  | Hallucination |
+|  | Disorientation |
+| Renal and Urinary Disorders | Renal failure |
+|  | Dysuria |
+|  | Renal failure acute |
+| Reproductive System and Breast Disorders | Vulvovaginal pruritus |
+| Respiratory, Thoracic, and Mediastinal Disorders | Dyspnea |
+|  | Asthma |
+|  | Wheezing |
+|  | Bronchospasm |
+| Skin and Subcutaneous Tissue Disorders | Rash |
+|  | Pruritus |
+|  | Hyperhidrosis |
+|  | Erythema |
+|  | Urticaria |
+|  | Dermatitis allergic |
+|  | Night sweats |
+| Vascular Disorders | Hypertension |
+|  | Hypotension |
+|  | Phlebitis |
 
-UROGENITAL: vaginal moniliasis, vaginitis
+## 6.3 Laboratory Changes
 
-Additional clinically relevant rare events, judged by investigators to be at least possibly drug-related, that occurred in less than 0.1% of moxifloxacin treated patients were:
+Changes in laboratory parameters, without regard to drug relationship, which are not listed above and which occurred in ≥ 2% of patients and at an incidence greater than in controls included: increases in MCH, neutrophils, WBCs, PT ratio, ionized calcium, chloride, albumin, globulin, bilirubin; decreases in hemoglobin, RBCs, neutrophils, eosinophils, basophils, PT ratio, glucose, pO2, bilirubin, and amylase.
+It cannot be determined if any of the above laboratory abnormalities were caused by the drug or the underlying condition being treated.
 
-abnormal dreams, abnormal vision (visual disturbances temporally associated with CNS symptoms), agitation, amblyopia, amnesia, anemia, aphasia, arthritis, asthma, atrial fibrillation, back pain, chest pain, confusion, convulsions of various clinical manifestations (including grand mal convulsions), depersonalization, depression (potentially culminating in self-endangering behavior), dysphagia, dyspnea, ECG abnormal, emotional lability, face edema, gastritis, gastrointestinal disorder, hallucinations, hyperglycemia, hyperlipidemia, hypertension, hypertonia, hyperuricemia, hypesthesia, hypotension, incoordination, jaundice (predominantly cholestatic), kidney function abnormal, lab test abnormal (not specified), leg pain, paraesthesia, parosmia, pelvic pain, peripheral edema, photosensitivity/phototoxicity reactions, pseudomembranous colitis, prothrombin increase (prothrombin time decreased/International Normalized Ratio (INR) decreased), sleep disorders, speech disorders, supraventricular tachycardia, syncope, taste loss, tendon disorder, thinking abnormal, thrombocytopenia, thromboplastin decrease, tinnitus, tongue discoloration, ventricular tachycardia
+## 6.4 Postmarketing Experience
 
-## Post-Marketing Adverse Event Reports:
-
-Additional adverse events have been reported from worldwide post-marketing experience with moxifloxacin.
+Table 4 lists adverse reactions that have been identified during post-approval use of Avelox.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events, some of them life-threatening, include anaphylactic reaction, anaphylactic shock, angioedema (including laryngeal edema), hepatic failure, including fatal cases, hepatitis (predominantly cholestatic), photosensitivity/phototoxicity reaction (see PRECAUTIONS), psychotic reaction (very rarely culminating in self-endangering behavior), renal dysfunction or renal failure, Stevens-Johnson syndrome, tendon rupture, toxic epidermal necrolysis, and ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions).
-Cases of altered coordination and abnormal gait as well as exacerbation of myasthenia gravis have also been reported.
+
+Table 4: Postmarketing Reports of Adverse Drug Reactions
+
+| System/Organ Class | Adverse Reaction |
+| --- | --- |
+| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.4)] |
+| Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
+| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.4)] |
+| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.3, 5.4)] |
+| Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
+| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.5)]Myasthenia gravis (exacerbation of) |
+| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-endangering behavior) |
+| Renal and Urinary Disorders | Renal dysfunctionInterstitial nephritis [see Warnings and Precautions (5.4)] |
+| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.4)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.4)] |

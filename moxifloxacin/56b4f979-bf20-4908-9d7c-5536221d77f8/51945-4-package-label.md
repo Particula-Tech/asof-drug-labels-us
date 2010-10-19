@@ -1,38 +1,24 @@
-AVELOX 400 mg Bottle Label
+Avelox®
 
-08917534 NDC 0085-17330
+I.V.
 
-AVELOX® (moxifloxacin hydrochloride)
+(moxifloxacin HCl in NaCl injection)
 
-Equivalent to 400 mg moxifloxacin
+400 mg*/250 mL 0.8% Saline (1.6 mg/mL)
 
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
+INFUSE OVER A PERIOD OF 60 MINUTES
 
-30 Tablets Rx Only
+NDC 0085-1737-01 08917631
 
-AVELOX 400 mg 50 Tablet Unit Dose Carton
+Avelox Five Tablet Carton
 
-03657993 NDC 0085-1733-02
+08917542 NDC 0085-1733-03
 
-AVELOX® (moxifloxacin hydrochloride)
+Avelox moxifloxacin HCI Tablets
 
-Equivalent to 400 mg moxifloxacin
+FIVE TABLETS
 
-50 Tablets Unit Dose
-
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
-
-*Description: Each tablet contains moxifloxacin hydrochloride equivalent to 400 mg moxifloxacin.
-
-For institutional use only Rx Only
-
-AVELOX 5 Tablet ABC Pack
-
-08917452 NDC 0085-1733-03
-
-AVELOX® Monifloxacin HCI Tablets
-
-FIVE TABLETS ABC PACK
+ABC PACK
 
 AVELOX BRONCHITIS COURSE
 
@@ -44,16 +30,5 @@ One Tablet, Once Daily for Just 5 Days
 
 Rx Only
 
-This pack is intended only for the treatment of bronchitis.
+This pack is intended for the teatment of brochitis.
 Other conditions may require a longer duration of therapy.
-
-AVELOX 250 mL Flexible Container
-
-08917631 NDC 0085-1737-01
-
-AVELOX® I.V.
-(moxifloxacin HCI in NaCl injection)
-
-400 mg*/250 mL 0.8% Saline (1.6 mg/mL)
-
-INFUSE OVER A PERIOD OF 60 MINUTES

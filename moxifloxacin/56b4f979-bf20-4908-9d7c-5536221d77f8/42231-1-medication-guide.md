@@ -272,8 +272,6 @@ AVELOX is a registered trademark of Bayer Aktiengesellschaft and is used under l
 
 Rx Only
 
-81532312, R.3 03/10
-
 ©2010 Bayer HealthCare Pharmaceuticals Inc.
 
 Printed in U.S.A.
