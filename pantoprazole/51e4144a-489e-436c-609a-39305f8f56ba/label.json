@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020988"
+  ],
   "inn": "pantoprazole",
-  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "labeler": "Wyeth Pharmaceuticals Company, a subsidiary of Pfizer Inc.",
   "package_ndcs": [
     "0008-0923-51",
     "0008-0923-55"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "pantoprazole sodium",
+      "name": "Protonix"
+    }
+  ],
   "setid": "51e4144a-489e-436c-609a-39305f8f56ba",
   "source": "dailymed"
 }

@@ -88,7 +88,7 @@ HEMIC AND LYMPHATIC SYSTEM: pancytopenia.
 
 HEPATO-BILIARY SYSTEM: hepatocellular damage leading to jaundice and hepatic failure.
 
-MUSCULOSKELETAL SYSTEM: elevated CPK (creatine phosphokinase), rhabdomyolysis.
+MUSCULOSKELETAL SYSTEM: elevated CPK (creatine phosphokinase), rhabdomyolysis, bone fracture.
 
 NERVOUS SYSTEM: confusion, hypokinesia, speech disorder, vertigo.
 

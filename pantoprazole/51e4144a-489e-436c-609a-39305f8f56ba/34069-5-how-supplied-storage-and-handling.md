@@ -5,7 +5,7 @@ PROTONIX® I.V.
 
 PROTONIX I.V. for Injection is available as follows:
 
-NDC 0008-0923-51 One carton containing 1 vial of PROTONIX I.V. for Injection (each vial containing 40-mg pantoprazole).
+NDC 0008-0923-51 One carton containing 1 vial of PROTONIX I.V. for Injection (each vial containing 40 mg pantoprazole).
 
 ## Storage
 
@@ -15,8 +15,23 @@ Protect from light.
 
 Caution: the reconstituted product should not be frozen.
 
-U.S. Patent No. 4,758,579
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+| --- | --- | --- |
 
-Marketed by Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101 under license from ALTANA Pharma D78467 Konstanz, Germany
+Wyeth®
 
-W10447C015 ET01 Rev 04/07
+Marketed by Wyeth Pharmaceuticals Inc.
+
+Philadelphia, PA 19101
+
+under license from
+
+Nycomed GmbH
+
+D78467 Konstanz, Germany
+
+W10447C019
+
+ET01
+
+Rev 09/10
