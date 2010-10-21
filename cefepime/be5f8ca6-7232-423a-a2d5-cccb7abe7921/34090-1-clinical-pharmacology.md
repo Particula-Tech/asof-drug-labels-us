@@ -2,7 +2,7 @@
 
 Cefepime is an antibacterial agent belonging to the cephalosporin class of antibacterials with in vitro antibacterial activity against facultative Gram-positive and Gram-negative bacteria.
 
-## 12.1 Mechanism Of Action
+## 12.1 Mechanism of Action
 
 Cefepime is an antibacterial drug.
 [See Clinical Pharmacology (12.4)]
