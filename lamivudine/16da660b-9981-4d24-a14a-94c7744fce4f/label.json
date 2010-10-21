@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020857"
+  ],
+  "inn": "lamivudine",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-202-18",
+    "49702-202-29"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine and zidovudine",
+      "name": "COMBIVIR"
+    }
+  ],
+  "setid": "16da660b-9981-4d24-a14a-94c7744fce4f",
+  "source": "dailymed"
+}
