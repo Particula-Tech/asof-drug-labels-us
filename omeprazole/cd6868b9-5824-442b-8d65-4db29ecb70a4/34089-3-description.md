@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 ZEGERID® (omeprazole/sodium bicarbonate) is a combination of omeprazole, a proton-pump inhibitor, and sodium bicarbonate, an antacid.
 Omeprazole is a substituted benzimidazole, 5-methoxy-2-[[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole, a racemic mixture of two enantiomers that inhibits gastric acid secretion.

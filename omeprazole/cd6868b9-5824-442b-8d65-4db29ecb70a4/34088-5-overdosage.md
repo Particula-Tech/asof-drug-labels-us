@@ -1,10 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Reports have been received of overdosage with omeprazole in humans.
 Doses ranged up to 2400 mg (120 times the usual recommended clinical dose).
 Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, vomiting, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience.
-(See ADVERSE REACTIONS.)
-Symptoms were transient, and no serious clinical outcome has been reported when omeprazole was taken alone.
+[See Adverse Reactions (6)] Symptoms were transient, and no serious clinical outcome has been reported when omeprazole was taken alone.
 No specific antidote for omeprazole overdosage is known.
 Omeprazole is extensively protein bound and is, therefore, not readily dialyzable.
 In the event of overdosage, treatment should be symptomatic and supportive.

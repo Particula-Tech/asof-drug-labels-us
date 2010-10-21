@@ -1,11 +1,13 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Omeprazole was generally well tolerated during domestic and international clinical trials in 3096 patients.
+## 6.1 Clinical Trials Experience
 
-In the U.S. clinical trial population of 465 patients, the adverse experiences summarized in Table 11 were reported to occur in 1% or more of patients on therapy with omeprazole.
-Numbers in parentheses indicate percentages of the adverse experiences considered by investigators as possibly, probably or definitely related to the drug.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Table 11: Adverse Experiences Occurring In 1% or More of Patients on Omeprazole Therapy
+In the U.S. clinical trial population of 465 patients, the adverse reactions summarized in Table 2 were reported to occur in 1% or more of patients on therapy with omeprazole.
+Numbers in parentheses indicate percentages of the adverse reactions considered by investigators as possibly, probably or definitely related to the drug.
+
+Table 2: Adverse Reactions Occurring In 1% or More of Patients on Omeprazole Therapy
 
 |  | Omeprazole (n = 465) | Placebo (n = 64) | Ranitidine (n = 195) |
 | --- | --- | --- | --- |
@@ -22,9 +24,9 @@ Table 11: Adverse Experiences Occurring In 1% or More of Patients on Omeprazole 
 | Asthenia | 1.1 (0.2) | 1.6 (1.6) | 1.5 (1.0) |
 | Back Pain | 1.1 | 0.0 | 0.5 |
 
-Table 12 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
+Table 3 summarizes the adverse reactions that occurred in 1% or more of omeprazole-treated patients from international double-blind, and open-label clinical trials in which 2,631 patients and subjects received omeprazole.
 
-Table 12: Incidence of Adverse Experiences ≥ 1%; Causal Relationship not Assessed
+Table 3: Incidence of Adverse Reactions ≥ 1% Causal Relationship not Assessed
 
 |  | Omeprazole (n = 2631) | Placebo (n = 120) |
 | --- | --- | --- |
@@ -42,16 +44,16 @@ Table 12: Incidence of Adverse Experiences ≥ 1%; Causal Relationship not Asses
 | Headache | 2.9 | 2.5 |
 
 A controlled clinical trial was conducted in 359 critically ill patients, comparing ZEGERID 40 mg/1680 mg suspension once daily to I.V. cimetidine 1200 mg/day for up to 14 days.
-The incidence and total number of AEs experienced by ≥ 3% of patients in either group are presented in Table 13 by body system and preferred term.
+The incidence and total number of AEs experienced by ≥ 3% of patients in either group are presented in Table 4 by body system and preferred term.
 
-Table 13: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
+Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%) Adverse Events by Body System and Preferred Term
 
 |  | ZEGERID® (N=178) | Cimetidine (N=181) |
 | --- | --- | --- |
 | MedDRA Body System Preferred Term | All AEs n (%) | All AEs n (%) |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
-| Anaemia NOS | 14 (7.9) | 14 (7.7) |
-| Anaemia NOS Aggravated | 4 (2.2) | 7 (3.9) |
+| Anemia NOS | 14 (7.9) | 14 (7.7) |
+| Anemia NOS Aggravated | 4 (2.2) | 7 (3.9) |
 | Thrombocytopenia | 18 (10.1) | 11 (6.1) |
 | CARDIAC DISORDERS |  |  |
 | Atrial Fibrillation | 11 (6.2) | 7 (3.9) |
@@ -61,11 +63,11 @@ Table 13: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3
 | Ventricular Tachycardia | 8 (4.5) | 6 (3.3) |
 | GASTROINTESTINAL DISORDERS * |  |  |
 | Constipation | 8 (4.5) | 8 (4.4) |
-| Diarrhoea NOS | 7 (3.9) | 15 (8.3) |
+| Diarrhea NOS | 7 (3.9) | 15 (8.3) |
 | Gastric Hypomotility | 3 (1.7) | 6 (3.3) |
 | GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
 | Hyperpyrexia | 8 (4.5) | 3 (1.7) |
-| Oedema NOS | 5 (2.8) | 11 (6.1) |
+| Edema NOS | 5 (2.8) | 11 (6.1) |
 | Pyrexia | 36 (20.2) | 29 (16.0) |
 | INFECTIONS AND INFESTATIONS |  |  |
 | Candidal Infection NOS | 3 (1.7) | 7 (3.9) |
@@ -98,14 +100,17 @@ Table 13: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3
 | VASCULAR DISORDERS |  |  |
 | Hypertension NOS | 14 (7.9) | 6 (3.3) |
 | Hypotension NOS | 17 (9.6) | 12 (6.6) |
-| * Clinically significant UGI bleeding was considered an SAE but it is not included in this table. |  |  |
+| * Clinically significant upper gastrointestinal bleeding was considered a serious adverse event but it is not included in this table. |  |  |
+| NOS = Not otherwise specified. |  |  |
 
-Additional adverse experiences occurring in < 1% of patients or subjects in domestic and/or international trials conducted with omeprazole, or occurring since the drug was marketed, are shown below within each body system.
-In many instances, the relationship to omeprazole was unclear.
+## 6.2 Postmarketing Experience
 
-Body As a Whole
+The following adverse reactions have been identified during post-approval use of omeprazole.
+Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Allergic reactions, including, rarely, anaphylaxis (see also Skin below), fever, pain, fatigue, malaise, abdominal swelling.
+Body as a Whole
+
+Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise.
 
 Cardiovascular
 
@@ -116,7 +121,6 @@ Gastrointestinal
 Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
-
 Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
@@ -131,7 +135,7 @@ Hyponatremia, hypoglycemia, and weight gain.
 
 Musculoskeletal
 
-Muscle cramps, myalgia, muscle weakness, joint pain, and leg pain.
+Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, and leg pain.
 
 Nervous System/Psychiatric
 
@@ -143,7 +147,7 @@ Epistaxis, pharyngeal pain.
 
 Skin
 
-Rash and rarely, cases of severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
+Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
 
 Special Senses
 
@@ -163,4 +167,4 @@ Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, 
 
 The incidence of clinical adverse experiences in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
-Additional adverse reactions that could be caused by sodium bicarbonate, include metabolic alkalosis, seizures, and tetany.
+Additional adverse reactions that could be caused by sodium bicarbonate include metabolic alkalosis, seizures, and tetany.
