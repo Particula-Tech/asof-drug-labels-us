@@ -30,7 +30,7 @@ Doses higher than 6 mg/day have not been studied.
 Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
 
 There are no controlled data to support the longer term use of RISPERDAL® beyond 8 weeks in adolescents with schizophrenia.
-The physician who elects to use RISPERDAL® for extended periods in adolescents with schizophrenia should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+The physician who elects to use RISPERDAL® for extended periods in adolescents with schizophrenia should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 Reinitiation of Treatment in Patients Previously Discontinued
 
