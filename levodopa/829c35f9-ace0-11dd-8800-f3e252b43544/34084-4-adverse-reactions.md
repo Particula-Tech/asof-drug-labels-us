@@ -16,7 +16,7 @@ Hypersensitivity: angioedema, urticaria, pruritus, Henoch-Schonlein purpura, bul
 
 Musculoskeletal: back pain, shoulder pain, muscle cramps.
 
-Nervous System/Psychiatric: psychotic episodes including delusions, hallucinations, and paranoid ideation, neuroleptic malignant syndrome (see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, increased libido.
+Nervous System/Psychiatric: psychotic episodes including delusions, hallucinations, and paranoid ideation, neuroleptic malignant syndrome (see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with carbidopa and levodopa tablets has not been established.
 
 Respiratory: dyspnea, upper respiratory infection.
@@ -27,7 +27,7 @@ Urogenital: urinary tract infection, urinary frequency, dark urine.
 
 Laboratory Tests: decreased hemoglobin and hematocrit; abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; white blood cells, bacteria, and blood in the urine.
 
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa-levodopa formulations, and may occur with carbidopa and levodopa tablets are:
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations, and may occur with carbidopa and levodopa tablets are:
 
 Body as a Whole: abdominal pain and distress, fatigue.
 

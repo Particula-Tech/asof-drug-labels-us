@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Carbidopa and levodopa tablets are indicated in the treatment of the symptoms of idiopathic Parkinson's disease (paralysis agitans), postencephalitic parkinsonism, and symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication and/or manganese intoxication.
+Carbidopa and levodopa tablets are indicated in the treatment of the symptoms of idiopathic Parkinson's disease (paralysis agitans), post-encephalitic parkinsonism, and symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication and/or manganese intoxication.
 
 Carbidopa and levodopa tablets are indicated in these conditions to permit the administration of lower doses of levodopa with reduced nausea and vomiting, with more rapid dosage titration, with a somewhat smoother response, and with supplemental pyridoxine (vitamin B6).
 

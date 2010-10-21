@@ -28,7 +28,7 @@ Since its decarboxylase inhibiting activity is limited to extracerebral tissues,
 
 ## Pharmacokinetics
 
-Carbidopa reduces the amount of levodopa required to produce a given response by about 75 percent and, when administered with levodopa, increases both plasma levels and the plasma half-life of levodopa, and decreases plasma and urinary dopamine and homovanillic acid.
+Carbidopa reduces the amount of levodopa required to produce a given response by about 75% and, when administered with levodopa, increases both plasma levels and the plasma half-life of levodopa, and decreases plasma and urinary dopamine and homovanillic acid.
 
 The plasma half-life of levodopa is about 50 minutes, without carbidopa.
 When carbidopa and levodopa are administered together, the half-life of levodopa is increased to about 1.5 hours.

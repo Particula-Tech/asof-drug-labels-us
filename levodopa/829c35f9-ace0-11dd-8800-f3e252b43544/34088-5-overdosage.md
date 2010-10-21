@@ -9,7 +9,7 @@ Electrocardiographic monitoring should be instituted and the patient carefully o
 The possibility that the patient may have taken other drugs as well as carbidopa and levodopa tablets should be taken into consideration.
 To date, no experience has been reported with dialysis; hence, its value in overdosage is not known.
 
-Based on studies in which high doses of levodopa and/or carbidopa were administered, a significant proportion of rats and mice given single oral doses of levodopa of approximately 1500-2000 mg/kg are expected to die.
+Based on studies in which high doses of levodopa and/or carbidopa were administered, a significant proportion of rats and mice given single oral doses of levodopa of approximately 1500 to 2000 mg/kg are expected to die.
 A significant proportion of infant rats of both sexes are expected to die at a dose of 800 mg/kg.
 A significant proportion of rats are expected to die after treatment with similar doses of carbidopa.
 The addition of carbidopa in a 1:10 ratio with levodopa increases the dose at which a significant proportion of mice are expected to die to 3360 mg/kg.

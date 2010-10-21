@@ -29,6 +29,6 @@ They are supplied as follows:
 
 ## Storage
 
-Store at 25° to 25°C (68° to 77°F).
+Store at 20° to 25°C (68° to 77°F).
 [see USP Controlled Room Temperature].
 Carbidopa and levodopa tablets must be protected from light.

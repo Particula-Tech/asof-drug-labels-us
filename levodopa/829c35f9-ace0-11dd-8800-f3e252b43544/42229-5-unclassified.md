@@ -2,5 +2,5 @@ Manufactured by: Sun Pharmaceutical Industries Ltd. Acme Plaza, Andheri Kurla Ro
 
 Distributed by: Caraco Pharmaceutical Laboratories, Ltd. 1150 Elijah McCoy Drive, Detroit, MI 48202
 
-PJPI0112A ISS.
-08/2008
+PJPI0112B ISS.
+05/2010
