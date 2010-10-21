@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022430"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Ferring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "55566-2100-2",
+    "55566-2100-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tranexamic acid",
+      "name": "LYSTEDA"
+    }
+  ],
+  "setid": "84a65305-65d7-e7fd-66f3-dda8d8f920b1",
+  "source": "dailymed"
+}

@@ -1,0 +1,7 @@
+# 10 OVERDOSAGE
+
+There are no known cases of intentional overdose with LYSTEDA and no subjects in the clinical program took more than 2 times the prescribed amount of LYSTEDA in a 24-hour period (>7800 mg/day).
+However, cases of overdose of tranexamic acid have been reported.
+Based on these reports, symptoms of overdose may include gastrointestinal (nausea, vomiting, diarrhea); hypotensive (e.g., orthostatic symptoms); thromboembolic (arterial, venous, embolic); visual impairment; mental status changes; myoclonus; or rash.
+No specific information is available on the treatment of overdose with LYSTEDA.
+In the event of overdose, employ the usual supportive measures (e.g., clinical monitoring and supportive therapy) as dictated by the patient's clinical status.
