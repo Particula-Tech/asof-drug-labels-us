@@ -32,7 +32,7 @@ Tramadol-related deaths have occurred in patients with previous histories of emo
 ## Serotonin Syndrome Risk
 
 The development of a potentially life-threatening serotonin syndrome may occur with the use of tramadol products, including RYBIX ODT, particularly with concomitant use of serotonergic drugs such as SSRIs, SNRIs, TCAs, MAOIs, and triptans, with drugs which impair metabolism of tramadol (CYP2D6 and CYP3A4 inhibitors).
-This may occur within the recommended dose (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+This may occur within the recommended dose (seeCLINICAL PHARMACOLOGY, Pharmacokinetics).
 
 Serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
@@ -49,7 +49,7 @@ Administer RYBIX ODT cautiously in patients at risk for respiratory depression.
 In these patients alternative non-opioid analgesics should be considered.
 When large doses of tramadol are administered with anesthetic medications or alcohol, respiratory depression may result.
 Respiratory depression should be treated as an overdose.
-If naloxone is to be administered, use cautiously because it may precipitate seizures (see WARNINGS, Seizure Risk and OVERDOSAGE).
+If naloxone is to be administered, use cautiously because it may precipitate seizures (see WARNINGS, Seizure RiskandOVERDOSAGE).
 
 ## Interaction With Central Nervous System (CNS) Depressants
 
@@ -252,7 +252,7 @@ The use of RYBIX ODT in the pediatric population is not recommended.
 ## Geriatric Use
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
-In patients over 75 years of age, daily doses in excess of 300 mg are not recommended (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+In patients over 75 years of age, daily doses in excess of 300 mg are not recommended (see CLINICAL PHARMACOLOGYandDOSAGE AND ADMINISTRATION).
 
 A total of 455 elderly (65 years of age or older) subjects were exposed to tramadol in controlled clinical trials.
 Of those, 145 subjects were 75 years of age and older.

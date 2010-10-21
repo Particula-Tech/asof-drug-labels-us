@@ -6,13 +6,14 @@
   "labeler": "Victory Pharma, Inc.",
   "package_ndcs": [
     "68453-825-01",
-    "68453-825-03"
+    "68453-825-03",
+    "68453-825-09"
   ],
   "products": [
     {
       "form": "TABLET, ORALLY DISINTEGRATING",
       "generic": "tramadol hydrochloride",
-      "name": "RYBIX"
+      "name": "Rybix"
     }
   ],
   "setid": "7bef8b51-1a86-4dd9-9294-d208a9424115",
