@@ -3,7 +3,7 @@
 As with all protein pharmaceuticals, a small percentage of patients may develop antibodies to the protein.
 GH antibody binding capacities below 2 mg/L have not been associated with growth attenuation.
 In some cases when binding capacity exceeds 2 mg/L, growth attenuation has been observed.
-In clinical studies of pediatric patients that were treated with Nutropin® [somatropin (rDNA origin) for injection] for the first time, 0/107 growth hormone–deficient (GHD) patients, 0/125 CRI patients, and 0/112 Turner syndrome, and 0/117 ISS patients screened for antibody production developed antibodies with binding capacities ≥ 2 mg/L at six months.
+In clinical studies of pediatric patients that were treated with Nutropin® [somatropin (rDNA origin) for injection] for the first time, 0/107 growth hormone–deficient (GHD) patients, 0/125 CRI patients, 0/112 Turner syndrome, and 0/117 ISS patients screened for antibody production developed antibodies with binding capacities ≥ 2 mg/L at six months.
 In a clinical study of patients that were treated with Nutropin AQ for the first time, 0/38 GHD patients screened for antibody production for up to 15 months developed antibodies with binding capacities ≥ 2 mg/L.
 
 Additional short‑term immunologic and renal function studies were carried out in a group of patients with CRI after approximately one year of treatment to detect other potential adverse effects of antibodies to GH.
@@ -37,7 +37,7 @@ Protocol-Defined Targeted Adverse Events in the ISS NCGS Cohort
 | Central Nervous system tumor | 2(0.0%) |
 | New or recurrent SCFE or AVN | 2(0.0%) |
 | Carpal tunnel syndrome | 1(0.0%) |
-| AVN=avascular necrosis;SCFE=slipped captial femoral epiphysis. |  |
+| AVN=avascular necrosis;SCFE=slipped capital femoral epiphysis. |  |
 | Data obtained with several rhGH products (Nutropin, Nutropin AQ, Nutropin Depot and Protropin). |  |
 
 Injection site discomfort has been reported.

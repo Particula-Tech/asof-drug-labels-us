@@ -7,7 +7,7 @@ Pediatric patients who lack adequate endogenous GH secretion, patients with chro
 
 Actions that have been demonstrated for Nutropin AQ, somatropin, somatrem, and/or pituitary-derived hGH include:
 
-### Tissue Growth
+### A. Tissue Growth
 
 1. 1)Skeletal Growth: GH stimulates skeletal growth in pediatric patients with growth failure due to a lack of adequate secretion of endogenous GH or secondary to chronic renal insufficiency and in patients with Turner syndrome.
    Skeletal growth is accomplished at the epiphyseal plates at the ends of a growing bone.
@@ -20,12 +20,12 @@ Actions that have been demonstrated for Nutropin AQ, somatropin, somatrem, and/o
    Treatment of hypophysectomized or genetic dwarf rats with GH results in organ growth that is proportional to the overall body growth.
    In normal rats subjected to nephrectomy‑induced uremia, GH promoted skeletal and body growth.
 
-### Protein Metabolism
+### B. Protein Metabolism
 
 Linear growth is facilitated in part by GH‑stimulated protein synthesis.
 This is reflected by nitrogen retention as demonstrated by a decline in urinary nitrogen excretion and blood urea nitrogen during GH therapy.
 
-### Carbohydrate Metabolism
+### C. Carbohydrate Metabolism
 
 GH is a modulator of carbohydrate metabolism.
 For example, patients with inadequate secretion of GH sometimes experience fasting hypoglycemia that is improved by treatment with GH.
@@ -34,11 +34,11 @@ Untreated patients with chronic renal insufficiency and Turner syndrome have an 
 Administration of hGH to adults or children resulted in increases in serum fasting and postprandial insulin levels, more commonly in overweight or obese individuals.
 In addition, mean fasting and postprandial glucose and hemoglobin A1c levels remained in the normal range.
 
-### Lipid Metabolism
+### D. Lipid Metabolism
 
 In GH‑deficient patients, administration of GH resulted in lipid mobilization, reduction in body fat stores, increased plasma fatty acids, and decreased plasma cholesterol levels.
 
-### Mineral Metabolism
+### E. Mineral Metabolism
 
 The retention of total body potassium in response to GH administration apparently results from cellular growth.
 Serum levels of inorganic phosphorus may increase slightly in patients with inadequate secretion of endogenous GH, chronic renal insufficiency, or patients with Turner syndrome during GH therapy due to metabolic activity associated with bone growth as well as increased tubular reabsorption of phosphate by the kidney.
@@ -48,7 +48,7 @@ Adults with childhood‑onset GH deficiency show low bone mineral density (BMD).
 GH therapy results in increases in serum alkaline phosphatase.
 (See PRECAUTIONS: Laboratory Tests.)
 
-### Connective Tissue Metabolism
+### F. Connective Tissue Metabolism
 
 GH stimulates the synthesis of chondroitin sulfate and collagen as well as the urinary excretion of hydroxyproline.
 

@@ -83,7 +83,7 @@ In these studies, Turner syndrome patients (n = 181) treated to final adult heig
 | C |  | 51 | 12.7 | 13.7 | 3.8 | 5.0 |
 | GDCI | RDT | 31 | 11.1 | 8–13.5 | 5.3 | ~5Compared with historical data |
 
-## Idiopathic Short Structure (ISS)
+## Idiopathic Short Stature (ISS)
 
 A long term, open label, multicenter study (86‑053) was conducted to examine the safety and efficacy of Nutropin in pediatric patients with idiopathic short stature, also called non‑GH deficient short stature.
 For the first year, 122 pre‑pubertal subjects over the age of 5 years with stimulated serum GH≥ 10 ng/mL were randomized into two treatment groups of approximately equal size; one group was treated with Nutropin 0.3 mg/kg weekly divided into three doses per week (TIW) and the other group served as untreated controls.
@@ -106,12 +106,12 @@ Long-Term Efficacy in Study 86-053 (Mean±SD)
 
 | Characteristic | Males(n=60) | Females(n=23) |
 | --- | --- | --- |
-| Adult Height (cm) | 166.3±5.8 | 153.1±4.8 |
+| Adult height (cm) | 166.3±5.8 | 153.1±4.8 |
 | Pretreatment predicted adult height (cm) | 161.1±5.5 | 147.1±5.1 |
 | Adult height minus pretreatment predicted adult height (cm) | +5.2±5.0 p<0.0001 versus zero. | +6.0±5.0 |
-| Adult height SD Score | −1.5±0.8 | −1.6±0.7 |
+| Adult height SD score | −1.5±0.8 | −1.6±0.7 |
 | Pretreatment predicted adult height SD score | −2.2±0.8 | −2.5±0.8 |
-| Adult height minus pretreatment predicted adult height SD Score | +0.7±0.7 | +0.9±0.8 |
+| Adult height minus pretreatment predicted adult height SD score | +0.7±0.7 | +0.9±0.8 |
 
 Nutropin therapy resulted in an increase in mean IGF‑I SD score from −0.9±1.0 to −0.2±0.9 in Treatment Year 1.
 During continued treatment, mean IGF‑I levels remained close to the normal mean.
@@ -158,7 +158,7 @@ In the adult‑onset study, significant decreases from baseline to Month 12 in L
 In the childhood-onset study, significant decreases from baseline to Month 12 in total cholesterol, LDL cholesterol, and LDL:HDL ratio were seen in the high‑dose Nutropin group only, compared to the placebo group, p < 0.05.
 There were no statistically significant between‑group differences in HDL cholesterol or triglycerides from baseline to Month 12.
 
-In the childhood‑onset study, 55% of the patients had decreased spine bone mineral density (BMD) (z‑score <−1) at baseline.
+In the childhood‑onset study, 55% of the patients had decreased spine bone mineral density (BMD) (z‑score < −1) at baseline.
 The administration of Nutropin (n = 16) (0.025 mg/kg/day) for two years resulted in increased spine BMD from baseline when compared to placebo (n = 13) (4.6% vs. 1.0%, respectively, p < 0.03); a transient decrease in spine BMD was seen at six months in the Nutropin‑treated patients.
 Thirty‑five percent of subjects treated with this dose had supraphysiological levels of IGF‑I at some point during the study, which may carry unknown risks.
 No significant improvement in total body BMD was found when compared to placebo.

@@ -8,7 +8,7 @@ There have been reports of fatalities after initiating therapy with somatropin i
 Male patients with one or more of these factors may be at greater risk than females.
 Patients with Prader‑Willi syndrome should be evaluated for signs of upper airway obstruction and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with somatropin, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
-All patients with Prader‑Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively (See CONTRAINDICATIONS).
+All patients with Prader‑Willi syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively (see CONTRAINDICATIONS).
 Unless patients with Prader‑Willi syndrome also have a diagnosis of growth hormone deficiency, Nutropin AQ is not indicated for the long-term treatment of pediatric patients who have growth failure due to genetically confirmed Prader‑Willi syndrome.
 
 # PRECAUTIONS
@@ -29,14 +29,14 @@ In subjects treated in a long-term study of Nutropin for idiopathic short statur
 Mean hemoglobin A1c levels rose slightly from baseline as expected during adolescence; sporadic values outside normal limits occurred transiently.
 
 Nutropin therapy in adults with GH deficiency of adult onset was associated with an increase of median fasting insulin level in the Nutropin 0.0125 mg/kg/day group from 9.0 µU/mL at baseline to 13.0 µU/mL at Month 12 with a return to the baseline median level after a 3‑week post‑washout period of GH therapy.
-In the placebo group there was no change from 8.0 µU/mL at baseline to Month 12, and after the post‑washout period, the median was 9.0 µU/mL.
+In the placebo group there was no change from 8.0 µU/mL at baseline to Month 12, and after the post‑washout period, the median level was 9.0 µU/mL.
 The between‑treatment groups difference on the change from baseline to Month 12 in the median fasting insulin level was significant, p < 0.0001.
 In childhood‑onset subjects, there was an increase of median fasting insulin level in the Nutropin 0.025 mg/kg/day group from 11.0 µU/mL at baseline to 20.0 µU/mL at Month 12, in the Nutropin 0.0125 mg/kg/day group from 8.5 µU/mL to 11.0 µU/mL, and in the placebo group from 7.0 µU/mL to 8.0 µU/mL.
-The between‑treatment groups difference for these changes were significant, p = 0.0007.
+The between‑treatment groups differences for these changes were significant, p = 0.0007.
 
-In subjects with adult onset GH deficiency, there were no between‑treatment group difference on change from baseline to Month 12 in mean HbA1c, p = 0.08.
-In childhood‑onset mean HbA1c increased in the Nutropin 0.025 mg/kg/day group from 5.2% at baseline to 5.5% at Month 12, and did not change in the Nutropin 0.0125 mg/kg/day group from 5.1% at baseline or in the placebo group from 5.3% at baseline.
-The between‑treatment groups differences were significant, p = 0.009.
+In subjects with adult onset GH deficiency, there were no between‑treatment group difference on change from baseline to Month 12 in mean HbA1c level, p = 0.08.
+In childhood‑onset GH deficiency, the mean HbA1c level increased in the Nutropin 0.025 mg/kg/day group from 5.2% at baseline to 5.5% at Month 12, and did not change in the Nutropin 0.0125 mg/kg/day group from 5.1% at baseline or in the placebo group from 5.3% at baseline.
+The between‑treatment group differences were significant, p = 0.009.
 
 Patients with preexisting tumors or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
 In pediatric patients, clinical literature has revealed no relationship between somatropin replacement therapy and central nervous system (CNS) tumor recurrence or new extracranial tumors.
@@ -81,7 +81,7 @@ Physicians and parents should be alert to the development of a limp or complaint
 
 Progression of scoliosis can occur in patients who experience rapid growth.
 Because somatropin increases growth rate, patients with a history of scoliosis who are treated with somatropin should be monitored for progression of scoliosis.
-However, somatropin has not been shown to increase the occurence of scoliosis.
+However, somatropin has not been shown to increase the occurrence of scoliosis.
 Skeletal abnormalities including scoliosis are commonly seen in untreated Turner syndrome patients.
 Scoliosis is also commonly seen in untreated patients with Prader‑Willi syndrome.
 Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
@@ -142,8 +142,6 @@ In patients with diabetes mellitus requiring drug therapy, the dose of insulin a
 Carcinogenicity, mutagenicity, and reproduction studies have not been conducted with Nutropin AQ.
 
 ## Pregnancy
-
-### Pregnancy
 
 Pregnancy (Category C). Animal reproduction studies have not been conducted with Nutropin AQ.
 It is also not known whether Nutropin AQ can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

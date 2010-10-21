@@ -2,7 +2,7 @@
 
 The Nutropin AQ® [somatropin (rDNA origin) injection] dosage and administration schedule should be individualized for each patient.
 Response to GH therapy in pediatric patients tends to decrease with time.
-However, in pediatric patients failure to increase growth rate, particularly during the first year of therapy, suggests the need for close assessment of compliance and evaluation of other causes of growth failure, such as hypothyroidism, under‑nutrition, and advanced bone age.
+However, in pediatric patients whose failure to increase growth rate, particularly during the first year of therapy, suggests the need for close assessment of compliance and evaluation of other causes of growth failure, such as hypothyroidism, under‑nutrition, and advanced bone age.
 
 ## Dosage
 
@@ -61,11 +61,48 @@ Before needle insertion, wipe the septum of the Nutropin AQ vial with rubbing al
 It is recommended that Nutropin AQ be administered using sterile, disposable syringes and needles.
 The syringes should be of small enough volume that the prescribed dose can be drawn from the vial with reasonable accuracy.
 
-### For Nutropin AQ Pen® Cartridge
+### For Nutropin AQ Pen® 10 mg Cartridge
 
-The Nutropin AQ pen cartridge is intended for use only with the Nutropin AQ Pen®.
+The Nutropin AQ Pen® 10 mg Cartridge must be used with its corresponding color-coded Nutropin AQ Pen® 10.
+The Nutropin AQ Pen® 10 mg Cartridge must not be inserted into a pen with a different color code.
+
 Wipe the septum of the Nutropin AQ pen cartridge with rubbing alcohol or an antiseptic solution to prevent contamination of the contents by microorganisms that may be introduced by repeated needle insertions.
 It is recommended that Nutropin AQ be administered using sterile, disposable needles.
 Follow the directions provided in the Nutropin AQ Pen® Instructions for Use.
 
-The Nutropin AQ pen allows for administration of a minimum dose of 0.1 mg to a maximum dose of 4.0 mg, in 0.1 mg increments.
+The Nutropin AQ Pen® allows for administration of a minimum dose of 0.1 mg to a maximum dose of 4.0 mg, in 0.1 mg increments.
+
+### For Nutropin AQ Pen® 20 mg Cartridge
+
+The Nutropin AQ Pen® 20 mg Cartridge must be used with its corresponding color-coded Nutropin AQ Pen® 20.
+The Nutropin AQ Pen® 20 mg Cartridge must not be inserted into a pen with a different color code.
+
+Wipe the septum of the Nutropin AQ pen cartridge with rubbing alcohol or an antiseptic solution to prevent contamination of the contents by microorganisms that may be introduced by repeated needle insertions.
+It is recommended that Nutropin AQ be administered using sterile, disposable needles.
+Follow the directions provided in the Nutropin AQ Pen® Instructions for Use.
+
+The Nutropin AQ Pen® allows for administration of a minimum dose of 0.2 mg to a maximum dose of 8.0 mg, in 0.2 mg increments.
+
+### For Nutropin AQ® NuSpin™ 5
+
+The Nutropin AQ® NuSpin™ 5 is a multi-dose, dial-a-dose injection device prefilled with Nutropin AQ® [somatropin (rDNA origin) injection] in a 5 mg/ 2 mL cartridge for subcutaneous use.
+It is recommended that Nutropin AQ be administered using sterile, disposable needles.
+Follow the directions provided in the Nutropin AQ® NuSpin™ 5 Instructions for Use.
+
+The Nutropin AQ® NuSpin™ 5 allows for administration of a minimum dose of 0.05 mg to a maximum dose of 1.75 mg, in increments of 0.05 mg.
+
+### For Nutropin AQ® NuSpin™ 10
+
+The Nutropin AQ® NuSpin™ 10 is a multi-dose, dial-a-dose injection device prefilled with Nutropin AQ® [somatropin (rDNA origin) injection] in a 10 mg/ 2 mL cartridge for subcutaneous use.
+It is recommended that Nutropin AQ be administered using sterile, disposable needles.
+Follow the directions provided in the Nutropin AQ® NuSpin™ 10 Instructions for Use.
+
+The Nutropin AQ® NuSpin™ 10 allows for administration of a minimum dose of 0.1 mg to a maximum dose of 3.5 mg, in increments of 0.1 mg.
+
+### For Nutropin AQ® NuSpin™ 20
+
+The Nutropin AQ® NuSpin™ 20 is a multi-dose, dial-a-dose injection device prefilled with Nutropin AQ® [somatropin (rDNA origin) injection] in a 20 mg/ 2 mL cartridge for subcutaneous use.
+It is recommended that Nutropin AQ be administered using sterile, disposable needles.
+Follow the directions provided in the Nutropin AQ® NuSpin™ 20 Instructions for Use.
+
+The Nutropin AQ® NuSpin™ 20 allows for administration of a minimum dose of 0.2 mg to a maximum dose of 7.0 mg, in increments of 0.2 mg.

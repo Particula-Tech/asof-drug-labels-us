@@ -14,4 +14,4 @@ Somatropin should not be used to treat patients with acute critical illness due 
 Two placebo controlled clinical trials in non-growth hormone deficient adult patients (n = 522) with these conditions in intensive care units revealed a significant increase in mortality (41.9% vs. 19.3%) among somatropin-treated patients (doses 5.3—8 mg/day) compared to those receiving placebo (see WARNINGS).
 
 Somatropin is contraindicated in patients with Prader‑Willi syndrome who are severely obese or have severe respiratory impairment (see WARNINGS).
-Unless patients with Prader‑Willi syndrome also have a diagnosis of growth hormone deficiency, Nutropin is not indicated for the long‑term treatment of pediatric patients who have growth failure due to genetically confirmed Prader‑Willi syndrome.
+Unless patients with Prader‑Willi syndrome also have a diagnosis of growth hormone deficiency, Nutropin AQ is not indicated for the long‑term treatment of pediatric patients who have growth failure due to genetically confirmed Prader‑Willi syndrome.

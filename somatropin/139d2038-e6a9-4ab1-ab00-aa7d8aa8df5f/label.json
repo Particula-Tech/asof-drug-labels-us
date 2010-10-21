@@ -1,12 +1,49 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020522"
+  ],
   "inn": "somatropin",
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-022-20",
-    "50242-043-14"
+    "50242-043-14",
+    "50242-073-01",
+    "50242-074-01",
+    "50242-075-01",
+    "50242-076-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ NuSpin 10"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ NuSpin 20"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ NuSpin 5"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ Pen 10"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "somatropin (rdna origin)",
+      "name": "Nutropin AQ Pen 20"
+    }
+  ],
   "setid": "139d2038-e6a9-4ab1-ab00-aa7d8aa8df5f",
   "source": "dailymed"
 }

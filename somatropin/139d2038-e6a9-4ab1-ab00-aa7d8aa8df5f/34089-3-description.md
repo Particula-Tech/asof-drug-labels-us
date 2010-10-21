@@ -17,4 +17,12 @@ The product is nearly isotonic at a concentration of 5 mg of GH per mL and has a
 
 The Nutropin AQ 2 mL vial contains 10 mg (approximately 30 International Units [IU]) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
 
-The Nutropin AQ 2 mL pen cartridge contains 10 mg (approximately 30 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
+The 10 mg Nutropin AQ 2 mL pen cartridge contains 10 mg (approximately 30 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
+
+The 20 mg Nutropin AQ 2 mL pen cartridge contains 20 mg (approximately 60 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
+
+The Nutropin AQ® NuSpin 5™ contains 5 mg (approximately 15 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
+
+The Nutropin AQ® NuSpin 10™ contains 10 mg (approximately 30 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
+
+The Nutropin AQ® NuSpin 20™ contains 20 mg (approximately 60 International Units) somatropin, formulated in 17.4 mg sodium chloride, 5 mg phenol, 4 mg polysorbate 20, and 10 mM sodium citrate.
