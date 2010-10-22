@@ -36,7 +36,7 @@ Table 1: Treatment-Emergent Adverse Events in Patients with Type 1 Diabetes Mell
 |  | NovoLog + NPHN= 596 |  | Human Regular Insulin + NPHN= 286 |  |
 | --- | --- | --- | --- | --- |
 | Preferred Term | N | (%) | N | (%) |
-| HypoglycemiaHypoglycemia is defined as an episode of blood glucose concentration <45 mg/dL with or without symptoms. See Section 14 for the incidence of serious hypoglycemia in the individual clinical trials. | 448 | 75% | 205 | 72% |
+| HypoglycemiaHypoglycemia is defined as an episode of blood glucose concentration <45 mg/dL, with or without symptoms. See Section 14 for the incidence of serious hypoglycemia in the individual clinical trials. | 448 | 75% | 205 | 72% |
 | Headache | 70 | 12% | 28 | 10% |
 | Injury accidental | 65 | 11% | 29 | 10% |
 | Nausea | 43 | 7% | 13 | 5% |
@@ -47,7 +47,7 @@ Table 2: Treatment-Emergent Adverse Events in Patients with Type 2 Diabetes Mell
 |  | NovoLog + NPHN= 91 |  | Human Regular Insulin + NPHN= 91 |  |
 | --- | --- | --- | --- | --- |
 |  | N | (%) | N | (%) |
-| HypoglycemiaHypoglycemia is defined as an episode of blood glucose concentration <45 mg/dL,with or without symptoms. See Section 14 for the incidence of serious hypoglycemia in the individual clinical trials. | 25 | 27% | 33 | 36% |
+| HypoglycemiaHypoglycemia is defined as an episode of blood glucose concentration <45 mg/dL, with or without symptoms. See Section 14 for the incidence of serious hypoglycemia in the individual clinical trials. | 25 | 27% | 33 | 36% |
 | Hyporeflexia | 10 | 11% | 6 | 7% |
 | Onychomycosis | 9 | 10% | 5 | 5% |
 | Sensory disturbance | 8 | 9% | 6 | 7% |

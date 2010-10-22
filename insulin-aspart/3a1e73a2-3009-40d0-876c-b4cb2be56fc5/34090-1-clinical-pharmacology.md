@@ -29,7 +29,7 @@ The mean insulin clearance was similar for the two groups with mean values of 1.
 Bioavailability and Absorption - NovoLog has a faster absorption, a faster onset of action, and a shorter duration of action than regular human insulin after subcutaneous injection (see Figure 2 and Figure 4).
 The relative bioavailability of NovoLog compared to regular human insulin indicates that the two insulins are absorbed to a similar extent.
 
-In studies in healthy volunteers (total n=l07) and patients with type 1 diabetes (total n=40), NovoLog consistently reached peak serum concentrations approximately twice as fast as regular human insulin.
+In studies in healthy volunteers (total n=107) and patients with type 1 diabetes (total n=40), NovoLog consistently reached peak serum concentrations approximately twice as fast as regular human insulin.
 The median time to maximum concentration in these trials was 40 to 50 minutes for NovoLog versus 80 to 120 minutes for regular human insulin.
 In a clinical trial in patients with type 1 diabetes, NovoLog and regular human insulin, both administered subcutaneously at a dose of 0.15 U/kg body weight, reached mean maximum concentrations of 82 and 36 mU/L, respectively.
 Pharmacokinetic/pharmacodynamic characteristics of insulin aspart have not been established in patients with type 2 diabetes.

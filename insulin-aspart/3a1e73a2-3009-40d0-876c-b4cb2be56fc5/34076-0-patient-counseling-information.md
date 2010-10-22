@@ -43,21 +43,21 @@ These differences are particularly relevant when patients are switched from mult
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Problems include pump malfunction, infusion set occlusion, leakage, disconnection or kinking, and degraded insulin.
 Less commonly, hypoglycemia from pump malfunction may occur.
-If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their physician [see Dosage and Administration (2),Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
+If these problems cannot be promptly corrected, patients should resume therapy with subcutaneous insulin injection and contact their physician [see Dosage and Administration (2), Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-## 17.3 FDA Approved Patient Labeling
+## 17.3 FDA-Approved Patient Labeling
 
-Date of Issue: March 17, 2010
+Date of Issue: October 2010
 
-Version: 17
+Version: 18
 
-NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate®, NovoTwist® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004, and other patents pending.
 
-PenFill® is covered by US Patent No. 5,693,027
+PenFill® is covered by US Patent No. 5,693,027.
 
 †The brands listed are the registered trademarks of their respective owners and are not trademarks of Novo Nordisk A/S.
 
