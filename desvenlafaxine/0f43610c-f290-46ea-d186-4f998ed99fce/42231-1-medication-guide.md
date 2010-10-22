@@ -198,6 +198,8 @@ Your doctor may gradually reduce the dose of your initial antidepressant medicat
   Symptoms of this may include: headache, difficulty concentrating, memory changes, confusion, weakness and unsteadiness on your feet.
   In severe or more sudden cases, symptoms can include: hallucinations (seeing or hearing things that are not real), fainting, seizures and coma.
   If not treated, severe low sodium levels could be fatal.
+- Allergic reactions.
+  Some reactions can be severe such as swelling beneath the skin (e.g., throat, face, hands).
 
 Contact your healthcare provider if you think you have any of these side effects.
 
@@ -249,11 +251,11 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued July 2009.
+Issued September 2010.
 
 ### Contact Information
 
-Please visit our web site at www.pristiq.com, or call our toll-free number 1‑888‑PRISTIQ (774‑7847) to receive more information.
+Please visit our web site at www.pristiq.com, or call our toll-free number 1-888-PRISTIQ (774-7847) to receive more information.
 
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
@@ -264,8 +266,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C014
+W10529C015
 
 ET01
 
-Rev 05/10
+Rev 09/10

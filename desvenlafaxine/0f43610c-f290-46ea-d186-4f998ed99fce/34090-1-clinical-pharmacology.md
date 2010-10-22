@@ -55,7 +55,7 @@ No adjustment of dosage on the basis of race is needed.
 
 ### Hepatic insufficiency
 
-The disposition of desvenlafaxine succinate after administration of 100 mg was studied in subjects with mild (Child‑Pugh A, n = 8), moderate (Child‑Pugh B, n = 8), and severe (Child‑Pugh C, n = 8) hepatic impairment and to healthy subjects (n = 12).
+The disposition of desvenlafaxine succinate after administration of 100 mg was studied in subjects with mild (Child-Pugh A, n = 8), moderate (Child-Pugh B, n = 8), and severe (Child-Pugh C, n = 8) hepatic impairment and to healthy subjects (n = 12).
 
 Average AUC was increased by approximately 31% and 35% in patients with moderate and severe hepatic impairment, respectively, as compared to healthy subjects.
 Average AUC values were similar in subjects with mild hepatic impairment and healthy subjects (< 5% difference).

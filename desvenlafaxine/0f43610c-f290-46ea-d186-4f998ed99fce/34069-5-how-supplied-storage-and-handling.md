@@ -29,5 +29,3 @@ Each tablet contains 76 or 152 mg of desvenlafaxine succinate equivalent to 50 o
 The unit-of-use package is intended to be dispensed as a unit.
 
 The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
-
-U.S. Patent No. 6,673,838; 7,291,347.
