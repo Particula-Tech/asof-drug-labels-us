@@ -11,6 +11,9 @@ TOPAMAX® should be used during pregnancy only if the potential benefit outweigh
 Pregnancy registry data suggest that there may be an association between the use of TOPAMAX® during pregnancy and congenital malformations (e.g., craniofacial defects, such as cleft lip/palate, hypospadias, and anomalies involving various body systems).
 This has been reported with topiramate monotherapy and topiramate as part of a polytherapy regimen.
 
+Compared with a reference group not taking antiepileptic drugs, registry data for TOPAMAX® monotherapy showed a higher prevalence of low birth weight (<2500 grams).
+A causal relationship has not been established.
+
 In addition, data from these registries and other studies suggest that, compared with monotherapy, there may be an increased risk of teratogenic effects associated with the use of anti-epileptic drugs in combination therapy.
 
 In treating and counseling women of childbearing potential, the prescribing physician should weigh the benefits of therapy against the risks.

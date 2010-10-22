@@ -6,4 +6,4 @@ Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pha
 
 [Insert component code]
 
-Revised December 2009
+Revised September 2010
