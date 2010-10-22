@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020449"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Winthrop U.S.",
+  "package_ndcs": [
+    "0955-1020-01",
+    "0955-1021-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "dd0ca36d-1f54-4568-8d19-a7152addcd52",
+  "source": "dailymed"
+}
