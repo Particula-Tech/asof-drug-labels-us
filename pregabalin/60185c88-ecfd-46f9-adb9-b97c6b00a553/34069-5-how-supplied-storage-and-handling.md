@@ -62,7 +62,10 @@ White/orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "P
 
 20 mg/mL oral solution:
 
-16 fluid ounce white high density polyethylene (HDPE) bottle with a polyethylene-lined closure.
+16 fluid ounce white high density polyethylene (HDPE) bottle with a polyethylene-lined closure:
+
+| 16 fluid ounce bottle | NDC 0071-1020-01 |
+| --- | --- |
 
 Storage and Handling
 
