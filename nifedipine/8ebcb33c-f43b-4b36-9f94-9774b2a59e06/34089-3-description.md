@@ -19,6 +19,6 @@ As water from the gastrointestinal tract enters the tablet, pressure increases i
 
 PROCARDIA XL Extended Release Tablet is designed to provide nifedipine at an approximately constant rate over 24 hours.
 This controlled rate of drug delivery into the gastrointestinal lumen is independent of pH or gastrointestinal motility.
-PROCARDIA XL depends for its action on the existence of an osmotic gradient between the contents of the bi-layer core and fluid in the GI tract.
+PROCARDIA XL depends for its action on the existence of an osmotic gradient between the contents of the bi-layer core and fluid in the gastrointestinal tract.
 Drug delivery is essentially constant as long as the osmotic gradient remains constant, and then gradually falls to zero.
-Upon swallowing, the biologically inert components of the tablet remain intact during GI transit and are eliminated in the feces as an insoluble shell.
+Upon swallowing, the biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell.

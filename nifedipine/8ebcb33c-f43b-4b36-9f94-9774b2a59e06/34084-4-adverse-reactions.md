@@ -29,6 +29,8 @@ Adverse experiences which occurred in less than 1 in 1000 patients cannot be dis
 
 The following adverse experiences, reported in less than 1% of patients, occurred under conditions (e.g., open trials, marketing experience) where a causal relationship is uncertain: gastrointestinal irritation, gastrointestinal bleeding, gynecomastia.
 
+Gastrointestinal obstruction resulting in hospitalization and surgery, including the need for bezoar removal, has occurred in association with PROCARDIA XL, even in patients with no prior history of gastrointestinal disease.
+
 In multiple-dose U.S. and foreign controlled studies with nifedipine capsules in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
 Most were expected consequences of the vasodilator effects of nifedipine.
 
@@ -42,7 +44,7 @@ Most were expected consequences of the vasodilator effects of nifedipine.
 | Muscle cramps, tremor | 8 | 3 |
 | Peripheral edema | 7 | 1 |
 | Nervousness, mood changes | 7 | 4 |
-| Palpitation | 7 | 5 |
+| Palpitations | 7 | 5 |
 | Dyspnea, cough, wheezing | 6 | 3 |
 | Nasal congestion, sore throat | 6 | 8 |
 
@@ -55,10 +57,10 @@ It remains possible, however, that some or many of these events were drug relate
 Myocardial infarction occurred in about 4% of patients and congestive heart failure or pulmonary edema in about 2%.
 Ventricular arrhythmias or conduction disturbances each occurred in fewer than 0.5% of patients.
 
-In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of PROCARDIA (nifedipine) treated patients.
+In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of PROCARDIA-treated patients.
 (See PRECAUTIONS.)
 
-In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina, dizziness or lightheadedness, peripheral edema, headache or flushing each occurred in one in eight patients.
+In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina, dizziness or lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight patients.
 Hypotension occurred in about one in 20 patients.
 Syncope occurred in approximately one patient in 250.
 Myocardial infarction or symptoms of congestive heart failure each occurred in about one patient in 15.

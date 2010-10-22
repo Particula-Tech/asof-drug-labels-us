@@ -38,14 +38,14 @@ The reduction in calcium influx by nifedipine causes arterial vasodilation and d
 Nifedipine is completely absorbed after oral administration.
 Plasma drug concentrations rise at a gradual, controlled rate after a PROCARDIA XL Extended Release Tablet dose and reach a plateau at approximately six hours after the first dose.
 For subsequent doses, relatively constant plasma concentrations at this plateau are maintained with minimal fluctuations over the 24-hour dosing interval.
-About a four-fold higher fluctuation index (ratio of peak to trough plasma concentration) was observed with the conventional immediate-release Procardia® capsule at t.i.d. dosing than with once daily PROCARDIA XL Extended Release Tablet.
-At steady-state the bioavailability of the PROCARDIA XL Extended Release Tablet is 86% relative to Procardia capsules.
+About a four-fold higher fluctuation index (ratio of peak to trough plasma concentration) was observed with the conventional immediate-release PROCARDIA® capsule at t.i.d. dosing than with once daily PROCARDIA XL Extended Release Tablet.
+At steady-state, the bioavailability of the PROCARDIA XL Extended Release Tablet is 86% relative to PROCARDIA capsules.
 Administration of the PROCARDIA XL Extended Release Tablet in the presence of food slightly alters the early rate of drug absorption, but does not influence the extent of drug bioavailability.
-Markedly reduced GI retention time over prolonged periods (i.e., short bowel syndrome), however, may influence the pharmacokinetic profile of the drug which could potentially result in lower plasma concentrations.
+Markedly reduced gastrointestinal retention time over prolonged periods (i.e., short bowel syndrome), however, may influence the pharmacokinetic profile of the drug which could potentially result in lower plasma concentrations.
 Pharmacokinetics of PROCARDIA XL Extended Release Tablets are linear over the dose range of 30 to 180 mg in that plasma drug concentrations are proportional to dose administered.
 There was no evidence of dose dumping either in the presence or absence of food for over 150 subjects in pharmacokinetic studies.
 
-Nifedipine is extensively metabolized to highly water-soluble, inactive metabolites accounting for 60 to 80% of the dose excreted in the urine.
+Nifedipine is extensively metabolized to highly water-soluble, inactive metabolites, accounting for 60 to 80% of the dose excreted in the urine.
 The elimination half-life of nifedipine is approximately two hours.
 Only traces (less than 0.1% of the dose) of unchanged form can be detected in the urine.
 The remainder is excreted in the feces in metabolized form, most likely as a result of biliary excretion.
@@ -62,7 +62,7 @@ Like other slow-channel blockers, nifedipine exerts a negative inotropic effect 
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
 In man, nifedipine decreases peripheral vascular resistance which leads to a fall in systolic and diastolic pressures, usually minimal in normotensive volunteers (less than 5–10 mm Hg systolic), but sometimes larger.
 With PROCARDIA XL Extended Release Tablets, these decreases in blood pressure are not accompanied by any significant change in heart rate.
-Hemodynamic studies in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end diastolic pressure (LVEDP) or volume (LVEDV).
+Hemodynamic studies in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end diastolic pressure (LVEDP), or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
 ## Electrophysiologic Effects

@@ -1,5 +1,3 @@
 Rx only
 
-LAB-0176-4.0
-
-February 2010
+LAB-0176-5.0 August 2010

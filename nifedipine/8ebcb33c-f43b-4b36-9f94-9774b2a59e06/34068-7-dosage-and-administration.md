@@ -4,10 +4,10 @@ Dosage must be adjusted according to each patient's needs.
 Therapy for either hypertension or angina should be initiated with 30 or 60 mg once daily.
 PROCARDIA XL Extended Release Tablets should be swallowed whole and should not be bitten or divided.
 In general, titration should proceed over a 7–14 day period so that the physician can fully assess the response to each dose level and monitor blood pressure before proceeding to higher doses.
-Since steady-state plasma levels are achieved on the second day of dosing, if symptoms so warrant, titration may proceed more rapidly provided the patient is assessed frequently.
+Since steady-state plasma levels are achieved on the second day of dosing, titration may proceed more rapidly, if symptoms so warrant, provided the patient is assessed frequently.
 Titration to doses above 120 mg are not recommended.
 
-Angina patients controlled on Procardia capsules alone or in combination with other antianginal medications may be safely switched to PROCARDIA XL Extended Release Tablets at the nearest equivalent total daily dose (e.g., 30 mg t.i.d. of Procardia capsules may be changed to 90 mg once daily of PROCARDIA XL Extended Release Tablets).
+Angina patients controlled on PROCARDIA capsules alone or in combination with other antianginal medications may be safely switched to PROCARDIA XL Extended Release Tablets at the nearest equivalent total daily dose (e.g., 30 mg t.i.d. of PROCARDIA capsules may be changed to 90 mg once daily of PROCARDIA XL Extended Release Tablets).
 Subsequent titration to higher or lower doses may be necessary and should be initiated as clinically warranted.
 Experience with doses greater than 90 mg in patients with angina is limited.
 Therefore, doses greater than 90 mg should be used with caution and only when clinically warranted.

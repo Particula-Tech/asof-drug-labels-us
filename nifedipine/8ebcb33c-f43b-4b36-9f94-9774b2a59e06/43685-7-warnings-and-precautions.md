@@ -7,7 +7,7 @@ These responses have usually occurred during initial titration or at the time of
 
 Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving nifedipine together with a beta-blocking agent who underwent coronary artery bypass surgery using high dose fentanyl anesthesia.
 The interaction with high dose fentanyl appears to be due to the combination of nifedipine and a beta blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
-In nifedipine-treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
+In nifedipine-treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
 
 The following information should be taken into account in those patients who are being treated for hypertension as well as angina:
 
@@ -25,7 +25,16 @@ Initiation of nifedipine treatment will not prevent this occurrence and on occas
 ### Congestive Heart Failure
 
 Rarely, patients, usually receiving a beta blocker, have developed heart failure after beginning nifedipine.
-Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of nifedipine would be expected to be of less benefit to those patients, owing to their fixed impedance to flow across the aortic valve.
+Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of nifedipine would be expected to be of less benefit, owing to the fixed impedance to flow across the aortic valve in these patients.
+
+### Gastrointestinal Obstruction Requiring Surgery
+
+There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of PROCARDIA XL.
+Bezoars can occur in very rare cases and may require surgical intervention.
+
+Cases of serious gastrointestinal obstruction have been identified in patients with no known gastrointestinal disease, including the need for hospitalization and surgical intervention.
+
+Risk factors for a gastrointestinal obstruction identified from post-marketing reports of PROCARDIA XL (GITS tablet formulation) include alteration in gastrointestinal anatomy (e.g., severe gastrointestinal narrowing, colon cancer, small bowel obstruction, bowel resection, gastric bypass, vertical banded gastroplasty, and colostomy), hypomotility disorders (e.g., constipation, gastroesophageal reflux disease, ileus, obesity, hypothyroidism, and diabetes) and concomitant medications (e.g., H2-histamine blockers, nonsteroidal anti-inflammatory drugs, laxatives, anticholinergic agents, and levothyroxine).
 
 # PRECAUTIONS
 
@@ -40,11 +49,6 @@ Close observation is especially recommended for patients already taking medicati
 Mild to moderate peripheral edema occurs in a dose dependent manner with an incidence ranging from approximately 10% to about 30% at the highest dose studied (180 mg).
 It is a localized phenomenon thought to be associated with vasodilation of dependent arterioles and small blood vessels and not due to left ventricular dysfunction or generalized fluid retention.
 With patients whose angina or hypertension is complicated by congestive heart failure, care should be taken to differentiate this peripheral edema from the effects of increasing left ventricular dysfunction.
-
-## Other
-
-As with any other non-deformable material, caution should be used when administering PROCARDIA XL in patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic).
-There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of PROCARDIA XL.
 
 ## Information for Patients
 
@@ -70,9 +74,9 @@ Limited clinical studies have demonstrated a moderate but statistically signific
 This is thought to be a function of inhibition of calcium transport across the platelet membrane.
 No clinical significance for these findings has been demonstrated.
 
-Positive direct Coombs test with/without hemolytic anemia has been reported but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
+Positive direct Coombs test with/without hemolytic anemia has been reported, but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
 
-Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect, in certain cases, rare, reversible elevations in BUN and serum creatinine have been reported in patients with pre-existing chronic renal insufficiency.
+Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect, in certain cases, rare, reversible elevations in BUN and serum creatinine have been reported in patients with preexisting chronic renal insufficiency.
 The relationship to nifedipine therapy is uncertain in most cases but probable in some.
 
 ## Drug Interactions
@@ -80,7 +84,7 @@ The relationship to nifedipine therapy is uncertain in most cases but probable i
 ### Beta-adrenergic blocking agents
 
 (See INDICATIONS AND USAGE and WARNINGS.)
-Experience in over 1400 patients with Procardia capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
+Experience in over 1400 patients with PROCARDIA capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina.
 
 ### Long-acting Nitrates
 
@@ -121,7 +125,7 @@ Nifedipine has been shown to produce teratogenic findings in rats and rabbits, i
 Digital anomalies have been reported to occur with other members of the dihydropyridine class and are possibly a result of compromised uterine blood flow.
 Nifedipine administration was associated with a variety of embryotoxic, placentotoxic, and fetotoxic effects, including stunted fetuses (rats, mice, rabbits), rib deformities (mice), cleft palate (mice), small placentas and underdeveloped chorionic villi (monkeys), embryonic and fetal deaths (rats, mice, rabbits), and prolonged pregnancy/decreased neonatal survival (rats; not evaluated in other species).
 On a mg/kg basis, all of the doses associated with the teratogenic embryotoxic or fetotoxic effects in animals were higher (3.5 to 42 times) than the maximum recommended human dose of 120 mg/day.
-On a mg/m2 basis, some doses were higher and some were lower than the maximum recommended human dose but all are within an order of magnitude of it.
+On a mg/m2 basis, some doses were higher and some were lower than the maximum recommended human dose, but all are within an order of magnitude of it.
 The doses associated with placentotoxic effects in monkeys were equivalent to or lower than the maximum recommended human dose on a mg/m2 basis.
 
 There are no adequate and well-controlled studies in pregnant women.
