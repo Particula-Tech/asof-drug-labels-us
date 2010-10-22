@@ -5,8 +5,11 @@
   "inn": "ciprofloxacin",
   "labeler": "Cobalt Laboratories Inc.",
   "package_ndcs": [
+    "16252-514-00",
     "16252-514-01",
+    "16252-515-00",
     "16252-515-01",
+    "16252-516-00",
     "16252-516-05"
   ],
   "products": [
