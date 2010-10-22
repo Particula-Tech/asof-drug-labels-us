@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-The ASMANEX TWISTHALER 220 mcg product is comprised of an assembled plastic cap–activated dosing mechanism with dose counter, drug-product storage unit, drug-product formulation (240 mg), and mouthpiece, covered by a white screw cap that bears the product label.
+The ASMANEX TWISTHALER 220 mcg product is comprised of an assembled plastic cap–activated dosing mechanism with dose counter, drug-product storage unit, drug-product formulation (135 mg for the 14 and 30 inhalation units and 240 mg for the 60 and 120 inhalation units), and mouthpiece, covered by a white screw cap that bears the product label.
 The body of the inhaler is white and the turning grip is pink with a clear plastic window indicating the number of doses remaining.
 The inhaler will not deliver subsequent doses once the counter reaches zero ("00").
 

@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 220 mcg - 120 Dose Inhaler Carton
+PRINCIPAL DISPLAY PANEL - 220 mcg - 120 Dose Carton
 
 NDC 0085-1341-01
 
