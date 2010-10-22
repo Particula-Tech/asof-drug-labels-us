@@ -12,9 +12,6 @@ Bottles
 |  | 7. Empty the syringe into a glass or plastic cup containing at least 2 ounces (1/4 cup, 60 mL) of water or orange juice, stir vigorously for one (1) minute and drink immediately. Refill the container with at least 4 ounces (1/2 cup, 120 mL) of water or orange juice, stir vigorously again and drink the rinse solution. Apple juice, grapefruit juice, or other liquids are NOT to be used. Only glass or plastic cups should be used to dilute Rapamune Oral Solution. The syringe and cap should be used once and then discarded. |
 |  | 8. Always store the bottles of medication in the refrigerator. When refrigerated, a slight haze may develop in the solution. The presence of a haze does not affect the quality of the product. If this happens, bring the Rapamune Oral Solution to room temperature and shake until the haze disappears. If it is necessary to wipe clean the mouth of the bottle before returning the product to the refrigerator, wipe with a dry cloth to avoid introducing water, or any other liquid, into the bottle. |
 
-US Pat.
-Nos.: 5,100,899; 5,145,684; 5,212,155; 5,308,847; 5,403,833; 5,536,729; 5,989,591.
-
 This product's label may have been updated.
 For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll‑free at 1‑800‑934‑5556.
 
@@ -38,8 +35,8 @@ Philadelphia, PA 19101
 
 MADE IN CANADA
 
-W10431C043
+W10431C044
 
 ET01
 
-Rev 07/10
+Rev 09/10

@@ -153,7 +153,7 @@ The incidence of malignancy was 1.3% at 12 months.
 ## 6.4 Conversion from Calcineurin Inhibitors to Rapamune in Maintenance Renal Transplant Population
 
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant population have not been established [see Clinical Studies (14.4)].
-In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to Rapamune (initial target sirolimus concentrations of 12-20 ng/mL, and then 8-20 ng/mL, by chromatographic assay) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n = 87) with a baseline glomerular filtration rate of less than 40 mL/min.
+In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to Rapamune (initial target sirolimus concentrations of 12-20 ng/mL, and then 8-20 ng/mL, by chromatographic assay) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n = 87) with a baseline glomerular filtration rate of less than 40 mL/min.
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this stratum of the Rapamune treatment arm.
 
 The subset of patients with a baseline glomerular filtration rate of less than 40 mL/min had 2 years of follow-up after randomization.
@@ -183,6 +183,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Rapamune.
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Rapamune [see Warnings and Precautions (5.10)].
+  Clostridium difficile enterocolitis.
 - Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
