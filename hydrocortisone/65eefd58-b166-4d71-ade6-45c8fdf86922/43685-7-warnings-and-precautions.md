@@ -10,17 +10,17 @@ Rare instances of anaphylactoid reactions have occurred in patients receiving co
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 
-Results from one multicenter, randomized, placebo controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including SOLU-CORTEF, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-renal
 
-Average and large doses of corticosteriods can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
+Average and large doses of corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
 Dietary salt restriction and potassium supplementation may be necessary.
 All corticosteroids increase calcium excretion.
 
-Literature reports suggest an apparent association between use of corticosteriods and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteriods should be used with great caution in these patients.
+Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
 ## Endocrine
 
@@ -41,12 +41,12 @@ Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) 
 
 These infections may be mild, but can be severe and at times fatal.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
-Corticosteriods may also mask some signs of current infection.
+Corticosteroids may also mask some signs of current infection.
 Do not use intra-articularly, intrabursally or for intratendinous administration for local effect in the presence of acute local infection.
 
 ### Fungal infections
 
-Corticosteriods may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
+Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
 ### Special pathogens
@@ -58,7 +58,7 @@ It is recommended that latent amebiasis or active amebiasis be ruled out before 
 Similarly, corticosteroids should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Corticosteriods should not be used in cerebral malaria.
+Corticosteroids should not be used in cerebral malaria.
 There is currently no evidence of benefit from steroids in this condition.
 
 ### Tuberculosis
@@ -73,7 +73,7 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the reponse to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteriods as replacement therapy, e.g., for Addison's disease.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
 ### Viral infections
 
@@ -125,9 +125,9 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 ## Gastrointestinal
 
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
-Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteriods may be minimal or absent.
+Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
-There is an enhanced effect due to increased metabolism of corticosteriods in patients with cirrhosis.
+There is an enhanced effect due to increased metabolism of corticosteroids in patients with cirrhosis.
 
 ## Musculoskeletal
 
@@ -225,7 +225,7 @@ Drugs which inhibit cytochrome P450 3A4 have the potential to result in increase
 
 Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-### Nonsteroidal anti-inflammatory agents (NSAIDS)
+### Nonsteroidal anti-inflammatory agents (NSAIDs)
 
 Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.

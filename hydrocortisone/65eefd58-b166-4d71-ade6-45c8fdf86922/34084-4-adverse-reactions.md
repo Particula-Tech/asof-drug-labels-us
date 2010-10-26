@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The following adverse reactions have been reported with SOLU-CORTEF or other corticosteriods:
+The following adverse reactions have been reported with SOLU-CORTEF or other corticosteroids:
 
 Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
