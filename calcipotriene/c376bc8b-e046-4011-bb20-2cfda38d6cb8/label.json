@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022563"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Stiefel Laboratories Inc",
+  "package_ndcs": [
+    "0145-2130-06"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "calcipotriene",
+      "name": "SORILUX"
+    }
+  ],
+  "setid": "c376bc8b-e046-4011-bb20-2cfda38d6cb8",
+  "source": "dailymed"
+}
