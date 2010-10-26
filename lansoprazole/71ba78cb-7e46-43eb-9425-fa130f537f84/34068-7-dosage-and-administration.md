@@ -73,7 +73,7 @@ PREVACID Delayed-Release Capsules – Nasogastric Tube (≥16 French) Administra
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
 
-PREVACID SoluTab™ Delayed-Release Orally Disintegrating Tablets
+PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
 
 - PREVACID SoluTab should not be broken or cut.
 - PREVACID SoluTab should not be chewed.

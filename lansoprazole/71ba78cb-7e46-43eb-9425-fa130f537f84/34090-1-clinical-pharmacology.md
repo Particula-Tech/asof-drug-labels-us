@@ -192,7 +192,7 @@ Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repe
 Peak plasma levels were not increased in the elderly.
 No dosage adjustment is necessary in the elderly [see Use in Specific Populations (8.5)].
 
-Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1.0%- to 1.5% after administration of 60 mg of lansoprazole.
+Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1.0% to 1.5% after administration of 60 mg of lansoprazole.
 Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound).
 The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and Tmax (time to reach the maximum concentration) were not different than the Cmax and Tmax from subjects with normal renal function.
 No dosage adjustment is necessary in patients with renal impairment [see Use in Specific Populations (8.6)].

@@ -2,7 +2,7 @@
 
 Patient should be informed of the following:
 
-## 17.1 Information for Patients
+Information for Patients
 
 PREVACID is available as a capsule and an orally disintegrating tablet, and is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration for each of these dosage forms is presented below [see Dosage and Administration (2.3)].
