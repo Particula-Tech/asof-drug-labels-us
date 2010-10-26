@@ -9,5 +9,7 @@ DYSPORT™ is supplied as:
 
 ## 3.2 Glabellar Lines
 
-DYSPORT™ is supplied in a single-use, sterile 300 Unit vial for reconstitution with 0.9% Sodium Chloride Injection USP (without preservative).
-DYSPORT™ may be reconstituted with either 2.5 mL to yield a solution of 10 Units per 0.08 mL or with 1.5 mL to yield a solution of 10 Units per 0.05 mL.
+DYSPORT™ is supplied as:
+
+- a single-use, sterile 300 Unit vial for reconstitution with 0.9% Sodium Chloride Injection USP (without preservative).
+  DYSPORT™ may be reconstituted with either 2.5 mL to yield a solution of 10 Units per 0.08 mL or with 1.5 mL to yield a solution of 10 Units per 0.05 mL.

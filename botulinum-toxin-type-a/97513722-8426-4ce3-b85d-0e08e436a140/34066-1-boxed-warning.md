@@ -1,4 +1,4 @@
-# Distant Spread of Toxin Effect
+Distant Spread of Toxin Effect
 
 Postmarketing reports indicate that the effects of DYSPORT™ and all botulinum toxin products may spread from the area of injection to produce symptoms consistent with botulinum toxin effects.
 These may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.

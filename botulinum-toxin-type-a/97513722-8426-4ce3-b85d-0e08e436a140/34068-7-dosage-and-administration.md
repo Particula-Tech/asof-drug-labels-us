@@ -29,22 +29,29 @@ The starting dose of 500 Units recommended for cervical dystonia is applicable t
 
 Children
 
-The safety and effectiveness of DYSPORT™ in the treatment of cervical dystonia in children below 18 years of age has not been assessed [see Warnings and Precautions (5.2)].
+The safety and effectiveness of DYSPORT™ in the treatment of cervical dystonia in pediatric patients less than 18 years of age has not been assessed [see Warnings and Precautions (5.2)].
 
 2.1.2 Instructions for Preparation and Administration
 
 DYSPORT™ is supplied as a single-use vial.
 Each 500 Unit vial of DYSPORT™ is to be reconstituted with 1 mL of 0.9% Sodium Chloride Injection USP (without preservative) to yield a solution of 500 Units per mL.
 Each 300 Unit vial of DYSPORT™ is to be reconstituted with 0.6 mL of 0.9% Sodium Chloride Injection USP (without preservative) to yield a solution equivalent to 250 Units per 0.5 mL.
+
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 1.0 mL or 0.6 mL of sterile, 0.9% Sodium Chloride Injection USP (without preservative) for 500 and 300 Unit vials, respectively.
+Insert the needle into the DYSPORT™ vial.
+The partial vacuum will begin to pull the saline into the vial.
+Any remaining required saline should be expressed into the vial manually.
+Do not use the vial if no vacuum is observed.
 Swirl gently to dissolve.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+Reconstituted DYSPORT™ should be a clear, colorless solution, free of particulate matter, otherwise it should not be injected.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Reconstituted DYSPORT™ should be clear, colorless, and free of particulate matter, otherwise it must not be injected.
+Expel any air bubbles in the syringe barrel.
+Remove the needle used to reconstitute the product and attach an appropriately sized new sterile needle.
 
-A sterile 23 or 25 gauge needle should be used for administration.
-Administer DYSPORT™ within 4 hours of reconstitution; during this period reconstituted DYSPORT™ should be stored under refrigeration at 2–8°C (36–46°F) and protected from light.
-Do not freeze after reconstitution.
-Discard any remaining solution after injection.
+Once reconstituted, DYSPORT™ should be stored in a refrigerator at 2–8°C (36–46°F) protected from light and used within four hours.
+Do not freeze reconstituted DYSPORT™.
+Discard the vial and needle in accordance with local regulations.
 
 ## 2.2 Glabellar Lines
 
@@ -68,15 +75,18 @@ DYSPORT™ for glabellar lines is not recommended for use in pediatric patients 
 2.2.2 Instructions for Preparation and Administration
 
 DYSPORT™ is supplied as a single-use vial.
-Each 300 Unit vial of DYSPORT™ is to be reconstituted with 2.5 mL of 0.9% sterile, preservative-free, saline prior to injection.
+Each 300 Unit vial of DYSPORT™ is to be reconstituted with 2.5 mL of 0.9% Sodium Chloride Injection USP (without preservative) prior to injection.
 The concentration of the resulting solution will be 10 Units per 0.08 mL to be delivered in five equally divided aliquots of 0.08 mL each.
-DYSPORT™ may also be reconstituted with 1.5 mL 0.9% sterile, preservative-free, saline for a solution of 10 Units per 0.05 mL to be delivered in five equally divided aliquots of 0.05 mL each.
+DYSPORT™ may also be reconstituted with 1.5 mL of 0.9% Sodium Chloride Injection USP (without preservative) for a solution of 10 Units per 0.05 mL to be delivered in five equally divided aliquots of 0.05 mL each.
 
-Using a 21 gauge needle and aseptic technique, draw up 2.5 mL or 1.5 mL of sterile, preservative-free 0.9% saline.
-Insert the needle into the DYSPORT™ vial at a 45° angle and allow the saline diluent to be pulled into the vial by partial vacuum.
-Discard the vial if the partial vacuum has been lost.
-Gently rotate the vial (do not shake), until the white substance is fully dissolved.
-Reconstituted DYSPORT™ should be a clear, colorless solution, free of particulate matter.
+Using an appropriately sized sterile syringe, needle and aseptic technique, draw up 2.5 mL or 1.5 mL of 0.9% Sodium Chloride Injection USP (without preservative).
+Insert the needle into the DYSPORT™ vial.
+The partial vacuum will begin to pull the saline into the vial.
+Any remaining required saline should be expressed into the vial manually.
+Do not use the vial if no vacuum is observed.
+Swirl gently to dissolve.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+Reconstituted DYSPORT™ should be a clear, colorless solution, free of particulate matter otherwise it should not be injected.
 
 Draw a single patient dose of DYSPORT™ into a sterile syringe.
 Expel any air bubbles in the syringe barrel.
