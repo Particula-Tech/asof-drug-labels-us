@@ -23,3 +23,27 @@ Rx ONLY
 Pull to remove leaflet
 
 sanofi aventis
+
+PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton
+
+NEW CONCENTRATION AND PREPARATION
+
+Winthrop
+
+NDC 0955-1020-01
+
+Docetaxel Injection Concentrate
+
+20 mg/mL
+
+READY TO ADD TO INFUSION SOLUTION
+
+For Intravenous Infusion Only
+
+Contains 1 mL
+
+Rx ONLY
+
+Pull to remove leaflet
+
+sanofi aventis
