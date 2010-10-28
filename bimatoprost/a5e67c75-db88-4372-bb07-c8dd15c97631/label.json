@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021275",
+    "NDA022184"
+  ],
   "inn": "bimatoprost",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
+    "0023-3205-02",
+    "0023-3205-03",
+    "0023-3205-05",
+    "0023-3205-08",
+    "0023-9187-01",
     "0023-9187-03",
     "0023-9187-05",
     "0023-9187-07"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "LUMIGAN"
+    }
+  ],
   "setid": "a5e67c75-db88-4372-bb07-c8dd15c97631",
   "source": "dailymed"
 }

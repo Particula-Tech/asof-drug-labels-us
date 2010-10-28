@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-LUMIGAN® (bimatoprost ophthalmic solution) 0.03% is indicated for the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension.
+LUMIGAN® 0.01% and 0.03% (bimatoprost ophthalmic solution) is indicated for the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension.

@@ -1,11 +1,15 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In clinical trials, the most frequent events associated with the use of LUMIGAN® (bimatoprost ophthalmic solution) 0.03% occurring in approximately 15% to 45% of patients, in descending order of incidence, included conjunctival hyperemia, growth of eyelashes, and ocular pruritus.
-Approximately 3% of patients discontinued therapy due to conjunctival hyperemia.
+## 6.1 Clinical Studies Experience
 
-Ocular adverse events occurring in approximately 3 to 10% of patients, in descending order of incidence, included ocular dryness, visual disturbance, ocular burning, foreign body sensation, eye pain, pigmentation of the periocular skin, blepharitis, cataract, superficial punctate keratitis, eyelid erythema, ocular irritation, and eyelash darkening.
-The following ocular adverse events reported in approximately 1 to 3% of patients, in descending order of incidence, included: eye discharge, tearing, photophobia, allergic conjunctivitis, asthenopia, increases in iris pigmentation, and conjunctival edema.
-In less than 1% of patients, intraocular inflammation was reported as iritis.
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Systemic adverse events reported in approximately 10% of patients were infections (primarily colds and upper respiratory tract infections).
-The following systemic adverse events reported in approximately 1 to 5% of patients, in descending order of incidence, included headaches, abnormal liver function tests, asthenia and hirsutism.
+In clinical studies with bimatoprost ophthalmic solutions (0.01% or 0.03%) the most common adverse event was conjunctival hyperemia (range 25% – 45%).
+Approximately 0.5% to 3% of patients discontinued therapy due to conjunctival hyperemia with 0.01% or 0.03% bimatoprost ophthalmic solutions.
+Other common events (>10%) included growth of eyelashes, and ocular pruritus.
+
+Additional ocular adverse events (reported in 1 to 10% of patients) with bimatoprost ophthalmic solutions included ocular dryness, visual disturbance, ocular burning, foreign body sensation, eye pain, pigmentation of the periocular skin, blepharitis, cataract, superficial punctate keratitis, eyelid erythema, ocular irritation, eyelash darkening, eye discharge, tearing, photophobia, allergic conjunctivitis, asthenopia, increases in iris pigmentation, conjunctival edema, conjunctival hemorrhage, and abnormal hair growth.
+Intraocular inflammation, reported as iritis was reported in less than 1% of patients.
+
+Systemic adverse events reported in approximately 10% of patients with bimatoprost ophthalmic solutions were infections (primarily colds and upper respiratory tract infections).
+Other systemic adverse events (reported in 1 to 5% of patients) included headaches, abnormal liver function tests, and asthenia.
