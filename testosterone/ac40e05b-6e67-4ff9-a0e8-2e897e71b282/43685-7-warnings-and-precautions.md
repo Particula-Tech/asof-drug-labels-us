@@ -31,7 +31,7 @@ Transfer of the system to the partner is unlikely.
 
 Changes in body hair distribution, significant increase in acne, or other signs of virilization of the female partner should be brought to the attention of a physician.
 
-## Information for patients
+## Information for Patients
 
 An information brochure is available for patients concerning the use of Androderm.
 
@@ -49,13 +49,13 @@ Androderm systems should be applied nightly.
 Skin burns have been reported at the patch site in several patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
 Because Androderm contains aluminum, it is recommended to remove the system before undergoing an MRI.
 
-## Laboratory tests
+## Laboratory Tests
 
 Hemoglobin and hematocrit should be checked periodically to detect polycythemia in patients who are receiving androgen therapy.
 
 Liver function, prostate specific antigen, total cholesterol and HDL cholesterol should be checked periodically.
 
-## Drug interactions
+## Drug Interactions
 
 Anticoagulants: C-17 substituted derivatives of testosterone, such as methandrostenolone, have been reported to decrease the anticoagulant requirements of patients receiving oral anticoagulants.
 Patients receiving oral anticoagulants require close monitoring especially when androgens are started or stopped.
@@ -64,12 +64,12 @@ Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may 
 
 Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements.
 
-## Drug/laboratory test interactions
+## Drug/Laboratory Test Interferences
 
 Androgens may decrease levels of thyroxine-binding globulin, resulting in decreased total T4 serum levels and increased resin uptake of T3 and T4.
 Free thyroid hormone levels remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Animal Data: Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
 The implant induced cervical-uterine tumors in mice, which metastasized in some cases.
@@ -89,14 +89,14 @@ In men receiving testosterone replacement therapy, surveillance for prostate can
 
 Category X: (See Contraindications).
 
-### Teratogenic effects
+### Teratogenic Effects:
 
 Androderm must not be used in women.
 
-## Nursing mothers
+## Nursing Mothers:
 
 Androderm must not be used in women.
 
-## Pediatric use
+## Pediatric Use:
 
 Androderm has not been evaluated clinically in males under 15 years of age.

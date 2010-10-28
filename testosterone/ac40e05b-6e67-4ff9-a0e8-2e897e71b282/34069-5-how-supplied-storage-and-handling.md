@@ -14,7 +14,8 @@ Cartons of 30 systems NDC 52544-470-30
 
 Storage and Disposal
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store at 20-25ºC (68-77ºF).
+[See USP controlled room temperature.]
 Apply to skin immediately upon removal from the protective pouch.
 Do not store outside the pouch provided.
 Damaged systems should not be used.

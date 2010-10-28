@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020489"
+  ],
   "inn": "testosterone",
   "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
     "52544-469-60",
     "52544-470-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "testosterone",
+      "name": "Androderm"
+    }
+  ],
   "setid": "ac40e05b-6e67-4ff9-a0e8-2e897e71b282",
   "source": "dailymed"
 }

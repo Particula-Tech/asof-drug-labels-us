@@ -37,6 +37,9 @@ Daily application of Androderm at approximately 10 PM results in a serum testost
 2 below).
 Maximum concentrations occur in the early morning hours with minimum concentrations in the evening (Table 1 below).
 
+Figure 2: Mean (SD) steady state serum testosterone concentrations during nightly application of Androderm 2.5 mg systems in 29 hypogonadal male patients, 27 patients used 2 systems nightly and 2 patients used 3 systems nightly.
+Area between the dashed lines shows the 95% confidence interval for the circadian variation observed in healthy young men.1 System application (t=0) at approximately 10 PM.
+
 Table 1: Steady-state serum testosterone pharmacokinetic parameters in hypogonadal men measured during continuous Androderm (testosterone transdermal system) treatment.
 
 | Parameter | Units | n | Mean | SD |
