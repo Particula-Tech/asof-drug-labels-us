@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022377"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "US WorldMeds, LLC",
+  "package_ndcs": [
+    "27505-002-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "(sumatriptan injection) 6mg/0.5ml, auto-injector",
+      "name": "ALSUMA"
+    }
+  ],
+  "setid": "55f21004-9ce6-4648-94d9-73ab2c7873e8",
+  "source": "dailymed"
+}
