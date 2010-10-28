@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016418"
+  ],
   "inn": "propranolol",
-  "labeler": "Wyeth Pharmaceuticals, Inc.",
+  "labeler": "Wyeth Pharmaceuticals Inc.",
   "package_ndcs": [
     "0046-0421-81",
     "0046-0421-95",
@@ -11,7 +13,13 @@
     "0046-0426-81",
     "0046-0428-81"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "propranolol hydrochloride",
+      "name": "Inderal"
+    }
+  ],
   "setid": "b4f0efb8-b5e0-4efc-6e8d-525a93446ad8",
   "source": "dailymed"
 }
