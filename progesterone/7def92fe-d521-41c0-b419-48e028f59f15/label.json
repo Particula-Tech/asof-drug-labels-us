@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020701"
+  ],
+  "inn": "progesterone",
+  "labeler": "Watson Pharma, Inc.",
+  "package_ndcs": [
+    "52544-283-24",
+    "52544-284-02",
+    "52544-284-12"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "progesterone",
+      "name": "Crinone"
+    }
+  ],
+  "setid": "7def92fe-d521-41c0-b419-48e028f59f15",
+  "source": "dailymed"
+}
