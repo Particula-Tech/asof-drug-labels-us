@@ -39,7 +39,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Use in Racial/Ethnic Groups
 
-Clinical studies of BARACLUDE did not include sufficient numbers of subjects from some racial/ethnic minorities (black/African American, Hispanic) to determine whether they respond differently to treatment with the drug.
+Clinical studies of BARACLUDE did not include sufficient numbers of subjects from some racial/ethnic minorities (Black/African American, Hispanic) to determine whether they respond differently to treatment with the drug.
 There are no significant racial differences in entecavir pharmacokinetics.
 
 ## 8.7 Renal Impairment
