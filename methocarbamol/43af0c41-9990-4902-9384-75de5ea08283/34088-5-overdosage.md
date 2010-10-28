@@ -1,0 +1,12 @@
+# OVERDOSAGE
+
+Limited information is available on the acute toxicity of methocarbamol.
+Overdose of methocarbamol is frequently in conjunction with alcohol or other CNS depressants and includes the following symptoms: nausea, drowsiness, blurred vision, hypotension, seizures, and coma.
+
+In post-marketing experience, deaths have been reported with an overdose of methocarbamol alone or in the presence of other CNS depressants, alcohol or psychotropic drugs.
+
+Treatment
+
+Management of overdose includes symptomatic and supportive treatment.
+Supportive measures include maintenance of an adequate airway, monitoring urinary output and vital signs, and administration of intravenous fluids if necessary.
+The usefulness of hemodialysis in managing overdose is unknown.

@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA090200"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Camber Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "31722-533-01",
+    "31722-533-05",
+    "31722-533-10",
+    "31722-533-30",
+    "31722-533-60",
+    "31722-534-01",
+    "31722-534-05",
+    "31722-534-30",
+    "31722-534-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "43af0c41-9990-4902-9384-75de5ea08283",
+  "source": "dailymed"
+}
