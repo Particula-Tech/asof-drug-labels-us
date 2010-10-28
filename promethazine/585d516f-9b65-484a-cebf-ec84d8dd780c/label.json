@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA007935"
+  ],
   "inn": "promethazine",
-  "labeler": "Wyeth Pharmaceuticals Inc.",
+  "labeler": "Wyeth Pharmaceuticals Company",
   "package_ndcs": [
     "0008-0019-01",
     "0008-0027-02",
@@ -11,7 +13,18 @@
     "0008-0229-01",
     "0008-0498-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "promethazine hydrochloride",
+      "name": "Phenergan"
+    },
+    {
+      "form": "TABLET",
+      "generic": "promethazine hydrochloride",
+      "name": "Phenergan"
+    }
+  ],
   "setid": "585d516f-9b65-484a-cebf-ec84d8dd780c",
   "source": "dailymed"
 }
