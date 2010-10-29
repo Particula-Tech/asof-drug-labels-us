@@ -1,20 +1,19 @@
 # HOW SUPPLIED
 
-FLOXIN® Otic SINGLES™ (ofloxacin otic) solution 0.3% is supplied in plastic single-dispensing containers, 0.25 mL each packaged 2 per foil pouch.
+FLOXIN®Otic (ofloxacin otic solution) 0.3% is supplied in plastic dropper bottles containing 5 ml and 10 ml.
 
-NDC 63395-101-01 FLOXIN® Otic SINGLES™, 1 foil pouch containing 2 single-dispensing containers, per Physician Sample box.
+NDC 63395-101-05 FLOXIN®Otic 5ml
 
-NDC 63395-101-11 FLOXIN® Otic SINGLES™, 10 foil pouches containing 2 single-dispensing containers (5 mL net volume), per carton.
+NDC 63395-101-10 FLOXIN®Otic 10 ml
 
-Storage Conditions: Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F).
-Protect from light.
+Note: Store at 25 C (77 F), excursions permitted to 15-30 (59-86 F). Protect from light.
 
 Rx Only
 
-DAIICHI PHARMACEUTICAL CORPORATION
+Daiichi Sankyo Pharma Development, a division of Daiichi Sankyo, Inc.
 
-Montvale, NJ 07645
+Edison, NJ 08837
 
-Rev: April 2005
+Revised: November 2006
 
 Covered by U.S. Patent No. 5,401,741

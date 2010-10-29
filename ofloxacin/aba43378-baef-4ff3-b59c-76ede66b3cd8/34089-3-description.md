@@ -1,10 +1,10 @@
 # DESCRIPTION:
 
-FLOXIN® Otic SINGLES™ (ofloxacin otic) solution 0.3% is a sterile aqueous anti-infective (anti-bacterial) solution for otic use.
+FLOXIN®Otic (ofloxacin otic solution) 0.3% is a sterile aqueous anti-infective (anti-bacterial) solution for otic use.
 Chemically, ofloxacin has three condensed 6-membered rings made up of a fluorinated carboxyquinolone with a benzoxazine ring.
 The chemical name of ofloxacin is: (±)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido [1,2,3-de]-1,4-benzoxazine-6-carboxylic acid.
-The empirical formula of ofloxacin is C18H20FN3O4 and its molecular weight is 361.38.
+The empirical formula of ofloxacin is C18H20FN3O4and its molecular weight is 361.38.
 The structural formula is:
 
-FLOXIN® Otic SINGLES™ contains 0.3% (3mg/mL) ofloxacin with benzalkonium chloride (0.0025%), sodium chloride (0.9%), and water for injection.
+FLOXIN®Otic contains 0.3% (3mg/ml) ofloxacin with benzalkonium chloride (0.0025%), sodium chloride (0.9%), and water for injection.
 Hydrochloric acid and sodium hydroxide are added to adjust the pH to 6.5 ± 0.5.

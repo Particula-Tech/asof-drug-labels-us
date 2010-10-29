@@ -31,28 +31,28 @@ Discontinue use immediately and contact your physician at the first sign of a ra
 
 ## Otitis Externa
 
-Prior to administration of FLOXIN® Otic SINGLES™, the solution should be warmed by holding the single-dispensing container(s) in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
-The patient should lie with the affected ear upward, and then the medication should be instilled.
-This position should be maintained for five minutes to facilitate penetration of the medication into the ear canal.
-Repeat, if necessary, for the opposite ear (see DOSAGE AND ADMINISTRATION).
+Prior to administration of FLOXIN®Otic, the solution should be warmed by holding the bottle in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
+The patient should lie with the affected ear upward, and then the drops should be instilled.
+This position should be maintained for five minutes to facilitate penetration of the drops into the ear canal.
+Repeat, if necessary, for the opposite ear (seeDOSAGE AND ADMINISTRATION).
 
 ## Acute Otitis Media and Chronic Suppurative Otitis Media
 
-Prior to administration of FLOXIN® Otic SINGLES™, the solution should be warmed by holding the single-dispensing container(s) in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
-The patient should lie with the affected ear upward, and then the medication should be instilled.
-The tragus should then be pumped 4 times by pushing inward to facilitate penetration of the medication into the middle ear.
+Prior to administration of FLOXIN®Otic, the solution should be warmed by holding the bottle in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
+The patient should lie with the affected ear upward, and then the drops should be instilled.
+The tragus should then be pumped 4 times by pushing inward to facilitate penetration of the drops into the middle ear.
 This position should be maintained for five minutes.
-Repeat, if necessary, for the opposite ear (see DOSAGE AND ADMINISTRATION).
+Repeat, if necessary, for the opposite ear (seeDOSAGE AND ADMINISTRATION).
 
-Drug Interactions: Specific drug interaction studies have not been conducted with FLOXIN® Otic SINGLES™.
+Drug Interactions:Specific drug interaction studies have not been conducted with FLOXIN®Otic.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies to determine the carcinogenic potential of ofloxacin have not been conducted.
 Ofloxacin was not mutagenic in the Ames test, the sister chromatid exchange assay (Chinese hamster and human cell lines), the unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or the mouse micronucleus assay.
 Ofloxacin was positive in the rat hepatocyte UDS assay, and in the mouse lymphoma assay.
 In rats, ofloxacin did not affect male or female reproductive performance at oral doses up to 360 mg/kg/day.
-This would be over 1000 times the maximum recommended clinical dose, based upon body surface area, assuming total absorption of ofloxacin from the ear of a patient treated with FLOXIN® Otic twice per day.
+This would be over 1000 times the maximum recommended clinical dose, based upon body surface area, assuming total absorption of ofloxacin from the ear of a patient treated with FLOXIN®Otic twice per day.
 
 ## Pregnancy
 
@@ -64,24 +64,23 @@ Ofloxacin has not been shown to be teratogenic at doses as high as 810 mg/kg/day
 
 Ofloxacin has not been shown to have any adverse effects on the developing embryo or fetus at doses relevant to the amount of ofloxacin that will be delivered ototopically at the recommended clinical doses.
 
-Nonteratogenic Effects: Additional studies in the rat demonstrated that doses up to 360 mg/kg/day during late gestation had no adverse effects on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
+Nonteratogenic Effects:Additional studies in the rat demonstrated that doses up to 360 mg/kg/day during late gestation had no adverse effects on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
 There are, however, no adequate and well-controlled studies in pregnant women.
-FLOXIN® Otic SINGLES™ should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+FLOXIN®Otic should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Nursing Mothers: In nursing women, a single 200 mg oral dose resulted in concentrations of ofloxacin in milk which were similar to those found in plasma.
 It is not known whether ofloxacin is excreted in human milk following topical otic administration.
 Because of the potential for serious adverse reactions from ofloxacin in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use: Safety and efficacy have been demonstrated in pediatric patients of the following ages for the listed indications:
+Pediatric Use:Safety and efficacy have been demonstrated in pediatric patients of the following ages for the listed indications:
 
-- six months and older: otitis externa with intact tympanic membranes
-- one year and older: acute otitis media with tympanostomy tubes
-- twelve years and older: chronic suppurative otitis media with perforated tympanic membranes
+- six months and older; otitis externa with intact tympanic membranes
+- one year and older: acute otitis media with tympanostomy tubes.
+- Twelve years and older: chronic suppurative otitis media with perforated tympanic membranes
 
 Safety and efficacy in pediatric patients below these ages have not been established.
 
-Although no data are available on the patients less than age 6 months, there are no known safety concerns or differences in the disease process in this population that will preclude use of this product.
+Although no data are available on patients less than 6 months, there are no know safety concerns or differences in the disease process in this population that will preclude use of this product.
 
 No changes in hearing function occurred in 30 pediatric subjects treated with ofloxacin otic and tested for audiometric parameters.
-
 Although quinolones, including ofloxacin, have been shown to cause arthropathy in immature animals after systemic administration, young growing guinea pigs dosed in the middle ear with 0.3% ofloxacin otic solution for one month showed no systemic effects, quinolone-induced lesions, erosions of the cartilage in weight-bearing joints, or other signs of arthropathy.
