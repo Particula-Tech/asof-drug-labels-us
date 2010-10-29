@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070184",
+    "ANDA072801"
+  ],
   "inn": "metoclopramide",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-2203-01",
     "0093-2203-05",
@@ -9,7 +12,13 @@
     "0093-2204-01",
     "0093-2204-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoclopramide",
+      "name": "Metoclopramide"
+    }
+  ],
   "setid": "e15905e0-e0f6-4c8b-ac19-59724d6c4bf0",
   "source": "dailymed"
 }

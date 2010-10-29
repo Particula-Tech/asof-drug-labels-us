@@ -15,18 +15,21 @@ Parkinsonian-like symptoms have occurred, more commonly within the first 6 month
 These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
 Patients with preexisting Parkinson’s disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
-## Tardive Dyskinesia
+## Tardive Dyskinesia (see Boxed Warnings)
 
-Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with metoclopramide.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients are likely to develop the syndrome.
-Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase with the duration of treatment and the total cumulative dose.
+Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
+Although the risk of TD with metoclopramide has not been extensively studied, one published study reported a TD prevalence of 20% among patients treated for at least 12 weeks.
+Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
-Less commonly, the syndrome can develop after relatively brief treatment periods at low doses; in these cases, symptoms appear more likely to be reversible.
+Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
+Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
 
-There is no known treatment for established cases of tardive dyskinesia although the syndrome may remit, partially or completely, within several weeks-to-months after metoclopramide is withdrawn.
-Metoclopramide itself, however, may suppress (or partially suppress) the signs of tardive dyskinesia, thereby masking the underlying disease process.
-The effect of this symptomatic suppression upon the long-term course of the syndrome is unknown.
-Therefore, the use of metoclopramide for the symptomatic control of tardive dyskinesia is not recommended.
+Metoclopramide should be discontinued in patients who develop signs or symptoms of TD.
+There is no known effective treatment for established cases of TD, although in some patients, TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.
+
+Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
+The effect of this symptomatic suppression upon the long-term course of TD is unknown.
+Therefore, metoclopramide should not be used for the symptomatic control of TD.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -57,6 +60,8 @@ A small number of patients may experience a withdrawal period after stopping met
 The use of metoclopramide is recommended for adults only.
 Metoclopramide may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
 The ambulatory patient should be cautioned accordingly.
+
+For additional information, patients should be instructed to see the Medication Guide for metoclopramide tablets.
 
 ## Drug Interactions
 
@@ -116,9 +121,9 @@ The elderly may be at greater risk for tardive dyskinesia (see WARNINGS, Tardive
 Sedation has been reported in metoclopramide users.
 Sedation may cause confusion and manifest as over-sedation in the elderly (see CLINICAL PHARMACOLOGY; PRECAUTIONS, Information for Patients; and ADVERSE REACTIONS, CNS Effects).
 
-Metoclopramide is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION, Use in Patients with Renal or Hepatic Impairment).
+Metoclopramide is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION, Use in Patients With Renal or Hepatic Impairment).
 
-For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION, For the Relief of Symptomatic Gastroesophageal Reflux and Use in Patients with Renal or Hepatic Impairment).
+For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see DOSAGE AND ADMINISTRATION, For the Relief of Symptomatic Gastroesophageal Reflux and Use in Patients With Renal or Hepatic Impairment).
 
 ## Other Special Populations
 
