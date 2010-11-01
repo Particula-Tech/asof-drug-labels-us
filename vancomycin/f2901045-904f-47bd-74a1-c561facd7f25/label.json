@@ -1,12 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062911",
+    "ANDA062912"
+  ],
   "inn": "vancomycin",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-4332-01",
-    "0409-6533-01"
+    "0409-4332-49",
+    "0409-6533-01",
+    "0409-6533-49",
+    "0409-6533-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
   "setid": "f2901045-904f-47bd-74a1-c561facd7f25",
   "source": "dailymed"
 }

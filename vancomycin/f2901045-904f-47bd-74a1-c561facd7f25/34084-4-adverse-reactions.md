@@ -10,6 +10,7 @@ Nephrotoxicity: Renal failure, principally manifested by increased serum creatin
 Cases of interstitial nephritis have been reported rarely.
 Most of these have occurred in patients who were given aminoglycosides concomitantly or who had preexisting kidney dysfunction.
 When vancomycin was discontinued, azotemia resolved in most patients.
+
 Gastrointestinal: Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS).
 
 Ototoxicity: A few dozen cases of hearing loss associated with vancomycin have been reported.
@@ -20,9 +21,10 @@ Hematopoietic: Reversible neutropenia, usually starting one week or more after o
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.
 Thrombocytopenia has rarely been reported.
 
-Although a causal relationship has not been established, reversible agranulocytosis (granulocytes< 500/mm3) has been reported rarely.
+Although a causal relationship has not been established, reversible agranulocytosis (granulocytes < 500/mm3) has been reported rarely.
 
 Phlebitis: Inflammation at the injection site has been reported.
 
-Miscellaneous: Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, Stevens-Johnson syndrome, and vasculitis in association with administration of vancomycin.
+Miscellaneous: Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, linear IgA bullous dermatosis, Stevens-Johnson syndrome, and vasculitis in association with administration of vancomycin.
+
 Chemical peritonitis has been reported following intraperitoneal administration of vancomycin (see PRECAUTIONS).

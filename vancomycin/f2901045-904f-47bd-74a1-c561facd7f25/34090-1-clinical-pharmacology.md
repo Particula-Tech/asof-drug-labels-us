@@ -48,7 +48,7 @@ Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-positive microorganisms
 
@@ -66,7 +66,7 @@ Actinomyces species
 
 Lactobacillus species
 
-Susceptibility Tests:
+Susceptibility Tests
 
 Dilution Techniques:
 
@@ -84,7 +84,7 @@ For testing aerobic microorganismsa other than streptococci:
 | 8-16 | Intermediate (I) |
 | ≥32 | Resistant (R) |
 
-a A beta-lactamase test using an inoculum≥107 CFU/mL (or direct colony growth) and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance among enterococci due to beta-lactamase production.
+a A beta-lactamase test using an inoculum ≥107 CFU/mL (or direct colony growth) and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance among enterococci due to beta-lactamase production.
 
 For testing streptococcib other than Streptococcus pneumoniae:
 
@@ -110,11 +110,13 @@ Standard vancomycin powder should provide the following MIC values:
 | --- | --- | --- |
 | Enterococcus faecalis | ATCC 29212 | 1-4 |
 | Staphylococcus aureus | ATCC 29213 | 0.5-2 |
-| Streptococcus pneumoniae a | ATCC 49619 | 0.12-0.5 |
+| Streptococcus pneumoniaea | ATCC 49619 | 0.12-0.5 |
 
 a Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1.
 
-Diffusion Techniques−Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+Diffusion Techniques:
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 30-mcg vancomycin to test the susceptibility of microorganisms to vancomycin.
 
@@ -162,6 +164,6 @@ For the diffusion technique, the 30-mcg vancomycin disk should provide the follo
 | Microorganism |  | Zone Diameter (mm) |
 | --- | --- | --- |
 | Staphylococcus aureus | ATCC 25923 | 17-21 |
-| Streptococcus pneumoniae a | ATCC 49619 | 20-27 |
+| Streptococcus pneumoniaea | ATCC 49619 | 20-27 |
 
 a Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO22.
