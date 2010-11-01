@@ -153,7 +153,7 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Cough | 4 | 1 |
 
-## 6.3 Other Adverse Reactions Observed During the Premarketing Evaluation of RISPERDAL® CONSTA®
+## 6.3 Other Adverse Reactions Observed During the Premarketing Evaluation of Risperidone
 
 The following additional adverse reactions occurred in < 2% of the RISPERDAL® CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
 The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar disorder.
@@ -197,6 +197,46 @@ Respiratory, thoracic and mediastinal disorders: nasal congestion, pharyngolaryn
 Skin and subcutaneous tissue disorders: rash, eczema, pruritus generalized, pruritus
 
 Vascular disorders: hypotension, orthostatic hypotension
+
+Additional Adverse Reactions Reported with Oral RISPERDAL®
+
+The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of oral RISPERDAL®, regardless of frequency of occurrence:
+
+Blood and Lymphatic Disorders: granulocytopenia
+
+Cardiac Disorders: atrioventricular block
+
+Ear and Labyrinth Disorders: tinnitus
+
+Eye Disorders: ocular hyperemia, eye discharge, eye rolling, eyelid edema, eye swelling, eyelid margin crusting, dry eye, lacrimation increased, photophobia, glaucoma
+
+Gastrointestinal Disorders: abdominal pain upper, dysphagia, fecaloma, abdominal discomfort, fecal incontinence, lip swelling, cheilitis, aptyalism
+
+General Disorders: thirst, feeling abnormal, gait disturbance, pitting edema, edema, chills, discomfort, generalized edema, drug withdrawal syndrome, peripheral coldness
+
+Immune System Disorders: drug hypersensitivity
+
+Infections and Infestations: tonsillitis, eye infection, cellulitis, otitis media, onychomycosis, acarodermatitis, bronchopneumonia, respiratory tract infection, tracheobronchitis, otitis media chronic
+
+Investigations: body temperature increased, heart rate increased, eosinophil count increased, white blood cell count decreased, hemoglobin decreased, blood creatine phosphokinase increased, hematocrit decreased, body temperature decreased, blood pressure decreased, transaminases increased
+
+Metabolism and Nutrition Disorders: polydipsia
+
+Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint stiffness, rhabdomyolysis, torticollis
+
+Nervous System Disorders: hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
+
+Psychiatric Disorders: blunted affect, confusional state, middle insomnia, listless, anorgasmia
+
+Renal and Urinary Disorders: enuresis, dysuria, pollakiuria
+
+Reproductive System and Breast Disorders: vaginal discharge, retrograde ejaculation, ejaculation disorder, ejaculation failure, breast enlargement
+
+Respiratory, Thoracic, and Mediastinal Disorders: epistaxis, wheezing, pneumonia aspiration, dysphonia, productive cough, pulmonary congestion, respiratory tract congestion, rales, respiratory disorder, hyperventilation, nasal edema
+
+Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesion, skin disorder, rash erythematous, rash papular, hyperkeratosis, dandruff, seborrheic dermatitis, rash generalised, rash maculopapular
+
+Vascular Disorders: flushing
 
 ## 6.4 Discontinuations Due to Adverse Reactions
 

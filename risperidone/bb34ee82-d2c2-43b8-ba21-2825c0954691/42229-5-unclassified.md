@@ -1,4 +1,4 @@
-10130505 Revised April 2010 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
+10130505 Revised August 2010 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
 
 Risperidone is manufactured by: Janssen Pharmaceutical Ltd. Wallingstown, Little Island, County Cork, Ireland
 
