@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019734"
+  ],
+  "inn": "nicardipine",
+  "labeler": "EKR Therapeutics, Inc.",
+  "package_ndcs": [
+    "24477-311-01",
+    "24477-311-02",
+    "24477-312-01",
+    "24477-312-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nicardipine hydrochloride",
+      "name": "Cardene I.V."
+    }
+  ],
+  "setid": "b7dfde10-01d4-11de-87af-0800200c9a66",
+  "source": "dailymed"
+}
