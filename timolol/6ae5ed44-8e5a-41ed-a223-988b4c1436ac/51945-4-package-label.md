@@ -16,4 +16,4 @@ Mfd. for: Prasco Laboratories, Mason, OH 45040 USA
 
 Mfd. by: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France Made in France
 
-OCUMETER PLUS is a registered trademark of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+OCUMETER PLUS is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
