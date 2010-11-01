@@ -70,7 +70,7 @@ Response by Dose of LIVALO and Pravastatin in Patients with Primary Hyperlipidem
 | LIVALO 1 mg daily | 207 | -31 | -25 | -22 | -13 | 1 | -29 |
 | LIVALO 2 mg daily | 224 | -39 | -31 | -27 | -15 | 2 | -36 |
 | LIVALO 4 mg daily | 210 | -44 | -37 | -31 | -22 | 4 | -41 |
-| Pravastatin 10 mg daily | 103 | -22 | -17 | -15 | -5 | -0 | -20 |
+| Pravastatin 10 mg daily | 103 | -22 | -17 | -15 | -5 | 0 | -20 |
 | Pravastatin 20 mg daily | 96 | -29 | -22 | -21 | -11 | -1 | -27 |
 | Pravastatin 40 mg daily | 102 | -34 | -28 | -24 | -15 | 1 | -32 |
 | Pravastatin 80 mg daily | --------------------------------------Not Studied------------------------------------------------------------ |  |  |  |  |  |  |
