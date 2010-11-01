@@ -138,8 +138,8 @@ Active ingredients: losartan potassium
 Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 COZAAR 25 mg, COZAAR 50 mg, and COZAAR 100 mg may also contain carnauba wax.
 
-Issued December 2009
+Issued June 2010
 
 Manufactured For: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-9964201
+9964202

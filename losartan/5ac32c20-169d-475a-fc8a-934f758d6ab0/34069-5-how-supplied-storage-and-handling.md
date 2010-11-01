@@ -14,7 +14,7 @@ NDC 0006-0952-31 unit of use bottles of 30
 
 NDC 0006-0952-54 unit of use bottles of 90
 
-NDC 0006-0952-82 bottles of 1,000
+NDC 0006-0952-82 bottles of 1,000.
 
 No. 3849 — Tablets COZAAR, 100 mg, are white, teardrop-shaped, film-coated tablets with code 960 on one side and plain on the other.
 They are supplied as follows:
@@ -23,7 +23,7 @@ NDC 0006-0960-31 unit of use bottles of 30
 
 NDC 0006-0960-54 unit of use bottles of 90
 
-NDC 0006-0960-82 bottles of 1,000
+NDC 0006-0960-82 bottles of 1,000.
 
 ## Storage
 
