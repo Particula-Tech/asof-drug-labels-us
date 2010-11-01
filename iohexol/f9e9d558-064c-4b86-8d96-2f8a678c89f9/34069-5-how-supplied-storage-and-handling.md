@@ -11,6 +11,7 @@ OMNIPAQUE 300
 
 - Vials of 50 mL, 300 mgI/mL, boxes of 10 (NDC 0407-1413-41)
 - 50 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-42)
+- 50 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-86)
 - 100 mL fill in 100 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-43)
 - 100 mL in +PLUSPAK™ (polymer bottle), boxes of 10 (NDC 0407-1413-87)
 - 125 mL fill in 200 mL bottle with hanger, 300 mgI/mL, boxes of 10 (NDC 0407-1413-47)
