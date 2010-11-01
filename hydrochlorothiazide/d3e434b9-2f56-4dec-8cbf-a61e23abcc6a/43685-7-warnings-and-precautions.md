@@ -162,7 +162,7 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 Lithium: As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be co-administered with angiotensin II receptor antagonists.
 
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 
@@ -191,7 +191,7 @@ Lithium — should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with HYZAAR.
 
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) — The administration of a non-steroidal anti-inflammatory agent, including a selective cyclooxygenase-2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) — The administration of a non-steroidal anti-inflammatory agent, including a selective cyclooxygenase-2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when HYZAAR and non-steroidal anti-inflammatory agents, including selective cyclooxygenase-2 inhibitors, are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 In patients receiving diuretic therapy, co-administration of NSAIDs with angiotensin receptor blockers, including losartan, may result in deterioration of renal function, including possible acute renal failure.

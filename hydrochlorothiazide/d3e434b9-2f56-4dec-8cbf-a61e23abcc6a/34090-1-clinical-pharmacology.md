@@ -4,7 +4,7 @@
 
 Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)], is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system and an important component in the pathophysiology of hypertension.
 It also stimulates aldosterone secretion by the adrenal cortex.
-Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland).
+Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland).
 There is also an AT2 receptor found in many tissues but it is not known to be associated with cardiovascular homeostasis.
 Both losartan and its principal active metabolite do not exhibit any partial agonist activity at the AT1 receptor and have much greater affinity (about 1000-fold) for the AT1 receptor than for the AT2 receptor.
 In vitro binding studies indicate that losartan is a reversible, competitive inhibitor of the AT1 receptor.

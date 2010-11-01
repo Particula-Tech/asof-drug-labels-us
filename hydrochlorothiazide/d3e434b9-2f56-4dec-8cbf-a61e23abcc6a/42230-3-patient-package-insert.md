@@ -96,7 +96,7 @@ HYZAAR may cause the following side effects that may be serious:
 - injury or death of unborn babies.
   See "What is the most important information I should know about HYZAAR?"
 - allergic reaction.
-  Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
+  Symptoms of an allergic reaction are swelling of the face, lips, throat, or tongue.
   Get emergency medical help right away and stop taking HYZAAR.
 - low blood pressure (hypotension).
   Low blood pressure may cause you to feel faint or dizzy.
@@ -152,6 +152,6 @@ Manufactured For:
 
 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued December 2009
+Issued June 2010
 
-9964301
+9964302
