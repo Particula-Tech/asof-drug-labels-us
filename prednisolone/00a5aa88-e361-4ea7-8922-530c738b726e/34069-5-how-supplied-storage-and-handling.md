@@ -16,7 +16,7 @@ Store in an upright position.
 
 Rx Only
 
-March 2004
+Revised March 2004
 
 © 2004 Allergan, Inc. Irvine, CA 92612, U.S.A. ® Marks owned by Allergan, Inc.
 
