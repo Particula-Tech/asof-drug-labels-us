@@ -8,7 +8,7 @@ Note: Store at 15-25°C (59-77°F)
 
 Rx only
 
-Rev May 2005
+Revised May 2005
 
 © 2005 Allergan, Inc. Irvine, CA 92612, U.S.A. Licensed from: Daiichi Pharmaceutical Co., Ltd., Tokyo, Japan and Santen Pharmaceutical Co., Ltd., Osaka, Japan
 

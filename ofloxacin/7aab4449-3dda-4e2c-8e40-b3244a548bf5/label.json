@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019921"
+  ],
   "inn": "ofloxacin",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "11980-779-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "ofloxacin",
+      "name": "OCUFLOX"
+    }
+  ],
   "setid": "7aab4449-3dda-4e2c-8e40-b3244a548bf5",
   "source": "dailymed"
 }
