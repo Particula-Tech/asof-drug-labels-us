@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020001"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5500-04"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "fluocinolone acetonide",
+      "name": "Capex"
+    }
+  ],
+  "setid": "a52763d0-7024-48a8-9cca-3127333dfb01",
+  "source": "dailymed"
+}
