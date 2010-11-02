@@ -228,11 +228,11 @@ Do not spray in the eyes.
 
 Patients should be reminded to read and follow the accompanying Patient’s Instructions for Use, which should be dispensed with the product.
 
-10001011/03
+10001011/04
 
-Revised September 2007
+Revised October 2009
 
-© RLI, 2007
+© RLI, 2009
 
 # IPRATROPIUM BROMIDE Nasal Solution 0.03% NASAL SPRAY 21 mcg/spray
 
@@ -315,8 +315,8 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-10001011/03
+10001011/04
 
-Revised September 2007
+Revised October 2009
 
-© RLI, 2007
+© RLI, 2009
