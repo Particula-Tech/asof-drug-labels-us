@@ -8,8 +8,8 @@ The bottle should be discarded when the labeled number of actuations have been u
 
 Store between 4° and 30°C (39° and 86°F).
 
-10002064/02
+10002064/04
 
-Revised May 2008
+Revised September 2010
 
-© RLI, 2008
+© RLI, 2010

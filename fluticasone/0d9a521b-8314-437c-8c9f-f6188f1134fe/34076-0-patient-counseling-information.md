@@ -154,8 +154,11 @@ If you have any questions, or are not sure about something, then you should ask 
 You may want to read this leaflet again.
 Please DO NOT THROW IT AWAY until you have finished your medicine.
 
-10002064/02
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-Revised May 2008
+10002064/04
 
-© RLI, 2008
+Revised September 2010
+
+© RLI, 2010
