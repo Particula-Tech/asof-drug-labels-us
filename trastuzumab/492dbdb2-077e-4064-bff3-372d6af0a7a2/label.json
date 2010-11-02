@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "BLA103792"
+  ],
   "inn": "trastuzumab",
-  "labeler": "Genentech",
+  "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-134-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "Herceptin"
+    }
+  ],
   "setid": "492dbdb2-077e-4064-bff3-372d6af0a7a2",
   "source": "dailymed"
 }

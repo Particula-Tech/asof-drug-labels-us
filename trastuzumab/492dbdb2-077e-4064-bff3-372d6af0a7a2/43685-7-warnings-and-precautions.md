@@ -3,13 +3,13 @@
 ## 5.1 Cardiomyopathy
 
 Herceptin can cause left ventricular cardiac dysfunction, arrhythmias, hypertension, disabling cardiac failure, cardiomyopathy, and cardiac death [see Boxed Warning: Cardiomyopathy].
-Herceptin can also cause a symptomatic decline in left ventricular ejection fraction (LVEF).
+Herceptin can also cause asymptomatic decline in left ventricular ejection fraction (LVEF).
 
-There is a 4—6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving Herceptin as a single agent or in combination therapy compared with those not receiving Herceptin.
+There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving Herceptin as a single agent or in combination therapy compared with those not receiving Herceptin.
 The highest absolute incidence occurs when Herceptin is administered with an anthracycline.
 
-Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre‑treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values.
-[see Dosage and Administration (2.2)] The safety of continuation or resumption of Herceptin in patients with Herceptin‑induced left ventricular cardiac dysfunction has not been studied.
+Withhold Herceptin for ≥ 16% absolute decrease in LVEF from pre‑treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.2)].
+The safety of continuation or resumption of Herceptin in patients with Herceptin‑induced left ventricular cardiac dysfunction has not been studied.
 
 Cardiac Monitoring
 
@@ -46,7 +46,7 @@ Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant
 | --- | --- | --- | --- | --- | --- |
 |  |  | Incidence |  |  |  |
 |  |  | NYHA I‑IV |  | NYHA III‑IV |  |
-| 5 (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
+| 5 (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
@@ -54,12 +54,13 @@ In Study 4, the incidence of NCI‑CTC Grade 3/4 cardiac ischemia/infarction was
 
 ## 5.2 Infusion Reactions
 
-Infusion reactions consist of a symptom complex characterized by fever and chills, and on occasion included nausea, vomiting, pain (in some cases at tumor sites), headache, dizziness, dyspnea, hypotension, rash, and asthenia [see Adverse Reactions (6.1)].
+Infusion reactions consist of a symptom complex characterized by fever and chills, and on occasion included nausea, vomiting, pain (in some cases at tumor sites), headache, dizziness, dyspnea, hypotension, rash, and asthenia.
+[see Adverse Reactions (6.1)]
 
 In postmarketing reports, serious and fatal infusion reactions have been reported.
 Severe reactions which include bronchospasm, anaphylaxis, angioedema, hypoxia, and severe hypotension, were usually reported during or immediately following the initial infusion.
 However, the onset and clinical course were variable including progressive worsening, initial improvement followed by clinical deterioration, or delayed post‑infusion events with rapid clinical deterioration.
-For fatal events, death occurred within hours to days following a serious infusion reaction
+For fatal events, death occurred within hours to days following a serious infusion reaction.
 
 Interrupt Herceptin infusion in all patients experiencing dyspnea, clinically significant hypotension, and intervention of medical therapy administered, which may include: epinephrine, corticosteroids, diphenhydramine, bronchodilators, and oxygen.
 Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms.
@@ -69,11 +70,11 @@ There are no data regarding the most appropriate method of identification of pat
 Prior to resumption of Herceptin infusion, the majority of patients who experienced a severe infusion reaction were pre‑medicated with antihistamines and/or corticosteroids.
 While some patients tolerated Herceptin infusions, others had recurrent severe infusion reactions despite pre‑medications.
 
-## 5.3 Exacerbation of Chemotherapy‑Induced Neutropenia
+## 5.3 Exacerbation of Chemotherapy-Induced Neutropenia
 
-In randomized, controlled clinical trials in women with metastatic breast cancer, the per‑patient incidences of NCI CTC Grade 3—4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
-The incidence of septic death was not significantly increased.
-[see Adverse Reactions (6.1)].
+In randomized, controlled clinical trials the per‑patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
+The incidence of septic death was similar among patients who received Herceptin and those who did not.
+[see Adverse Reactions (6.1)]
 
 ## 5.4 Pulmonary Toxicity
 
@@ -85,31 +86,22 @@ Patients with symptomatic intrinsic lung disease or with extensive tumor involve
 ## 5.5 HER2 Testing
 
 Detection of HER2 protein overexpression is necessary for selection of patients appropriate for Herceptin therapy because these are the only patients studied and for whom benefit has been shown.
-Assessment for HER2 overexpression and of HER2 gene amplification should be performed by laboratories with demonstrated proficiency in the specific technology being utilized.
+Due to differences in tumor histopathology, use FDA-approved tests for the specific tumor type (breast or gastric/gastroesophageal adenocarcinoma) to assess HER2 protein overexpression and HER2 gene amplification.
+Tests should be performed by laboratories with demonstrated proficiency in the specific technology being utilized.
 Improper assay performance, including use of suboptimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
 
-Several FDA‑approved commercial assays are available to aid in the selection of patients for Herceptin therapy.
-These include HercepTest™ and Pathway® HER‑2/neu (IHC assays) and PathVysion® and HER2 FISH pharmDx™ (FISH assays).
-Users should refer to the package inserts of specific assay kits for information on the validation and performance of each assay.
+Several FDA‑approved commercial assays are available to aid in the selection of breast cancer and metastatic gastric cancer patients for Herceptin therapy.
+Users should refer to the package inserts of specific assay kits for information on the Intended Use, and the validation and performance of each assay.
 
-Limitations in assay precision (particularly for the IHC method) and in the direct linkage between assay result and overexpression of the Herceptin target (for the FISH method) make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
-A negative FISH result does not rule out HER2 overexpression and potential benefit from Herceptin.
-Treatment outcomes for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Table 9.
-Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) as a function of IHC and FISH testing are provided in Table 7.
+Limitations in assay precision make it inadvisable to rely on a single method to rule out potential Herceptin benefit.
 
-HER2 Protein Overexpression Detection Methods
+Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastatic breast cancer (Study 5) as a function of IHC and FISH testing are provided in Tables 8 and 10.
 
-HER2 protein overexpression can be established by measuring HER2 protein using an IHC method.
-HercepTest®, one test approved for this use, was assessed for concordance with the Clinical Trial Assay (CTA), using tumor specimens collected and stored independently from those obtained in Herceptin clinical studies in women with metastatic breast cancer.
-Data are provided in the package insert for HercepTest®.
+Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
+Study 7 demonstrated that gene amplification and protein overexpression were not as well correlated as with breast cancer.
+Treatment outcomes for metastatic gastric cancer (Study 7), based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table 12.
 
-HER2 Gene Amplification Detection Method
-
-The presence of HER2 protein overexpression and gene amplification are highly correlated, therefore the use of FISH to detect gene amplification may be employed for selection of patients appropriate for Herceptin therapy.
-PathVysion®, one test approved for this use, was evaluated in an exploratory, retrospective assessment of available CTA 2+ or 3+ tumor specimens collected as part of patient screening for clinical studies in metastatic breast cancer (Studies 5 and 6).
-Data are provided in the package insert for PathVysion®.
-
-## 5.6 Embryo‑Fetal Toxicity (Pregnancy Category D)
+## 5.6 Embryo-Fetal Toxicity
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
 Post‑marketing case reports suggest that Herceptin use during pregnancy increases the risk of oligohydramnios during the second and third trimesters.

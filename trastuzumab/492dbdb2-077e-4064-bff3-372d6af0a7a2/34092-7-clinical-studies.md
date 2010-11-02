@@ -28,18 +28,18 @@ At the time of randomization 53% of the population were to receive paclitaxel on
 Study 3
 
 In Study 3, breast tumor specimens were required to show HER2 overexpression (3+ by IHC) or gene amplification (by FISH) as determined at a central laboratory.
-Patients with node‑negative disease were required to have pathological tumor size ≥ T1c primary tumor.
+Patients with node‑negative disease were required to have ≥ T1c primary tumor.
 Patients with a history of congestive heart failure or LVEF <55%, uncontrolled arrhythmias, angina requiring medication, clinically significant valvular heart disease, evidence of transmural infarction on ECG, poorly controlled hypertension (systolic > 180 mm Hg or diastolic > 100 mm Hg) were not eligible.
 
-Patients were randomized (1:1) upon completion of definitive surgery, and at least four cycles of chemotherapy; to receive no additional treatment (n = 1693) or 1 year of Herceptin treatment (n = 1693).
+Patients were randomized (1:1) upon completion of definitive surgery, and at least four cycles of chemotherapy to receive no additional treatment (n = 1693) or 1 year of Herceptin treatment (n = 1693).
 Patients undergoing a lumpectomy had also completed standard radiotherapy.
 Patients with ER+ and/or PgR+ disease received systemic adjuvant hormonal therapy at investigator discretion.
 Herceptin was administered with an initial dose of 8 mg/kg followed by subsequent doses of 6 mg/kg once every three weeks for a total of 52 weeks.
 The main outcome measure was disease‑free survival (DFS), defined as in Studies 1 and 2.
 
-Among the 3386 patients randomized to the two treatment arms, the median age was 49 years (range 21—80), 83% were Caucasian, and 13% were Asian.
+Among the 3386 patients randomized to the two treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
 Disease characteristics: 94% infiltrating ductal carcinoma, 50% ER+ and/or PgR+, 57% node positive, 32% node negative, and in 11% of patients, nodal status was not assessable due to prior neo‑adjuvant chemotherapy.
-Ninety‑six percent (1055/1098) of patients with node‑negative disease had high risk features: among the 1098 patients with node‑negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR + and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2—3, or age < 35 years.
+Ninety‑six percent (1055/1098) of patients with node‑negative disease had high risk features: among the 1098 patients with node‑negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR + and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2–3, or age < 35 years.
 Prior to randomization, 94% of patients had received anthracycline‑based chemotherapy regimens.
 
 Study 4
@@ -54,24 +54,24 @@ In the TCH arm, docetaxel 75 mg/m2 and carboplatin (at a target AUC of 6 mg/mL/m
 Herceptin was administered weekly (initial dose of 4 mg/kg followed by weekly dose of 2 mg/kg) concurrently with either T or TC, and then every 3 weeks (6 mg/kg) as monotherapy for a total of 52 weeks.
 Radiation therapy, if administered, was initiated after completion of chemotherapy.
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
-Disease free survival (DFS) was the main outcome measure.
+Disease‑free survival (DFS) was the main outcome measure.
 
 Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
-Table 6: Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4)
+Table 7: Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4)
 
 |  | DFS events | Hazard ratio (95% CI) p value | Deaths | Hazard ratio p value |
 | --- | --- | --- | --- | --- |
-| Studies 1 + 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH) |  |  |  |  |
+| Studies 1 + 2Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus Herceptin (AC→TH). |  |  |  |  |
 | AC→TH (n=1872) | 133 | 0.48Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status. (0.39, 0.59) p=<0.0001stratified log‑rank test. | 62 | 0.67 p=NSNS= non‑significant. |
 | AC→T (n=1880) | 261 |  | 92 |  |
 | Study 3 |  |  |  |  |
 | Chemo→Herceptin (n=1693) | 127 | 0.54 (0.44, 0.67) p=<0.0001log‑rank test. | 31 | 0.75 p=NS |
 | Chemo→Observation (n=1693) | 219 |  | 40 |  |
 | Study 4 Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus Herceptin (AC→TH); docetaxel and carboplatin plus Herceptin (TCH). |  |  |  |  |
-| TCH (n=1075) | 134 | 0.67 (0.54 – 0.84) p=0.0006,A two‑sided alpha level of 0.025 for each comparison | 56 |  |
+| TCH (n=1075) | 134 | 0.67 (0.54 – 0.84) p=0.0006,A two‑sided alpha level of 0.025 for each comparison. | 56 |  |
 | AC→TH (n=1074) | 121 | 0.60 (0.48 – 0.76) p=<0.0001, | 49 |  |
 | AC→T (n=1073) | 180 |  | 80 |  |
 | CI=confidence interval. |  |  |  |  |
@@ -80,11 +80,9 @@ The results for DFS for the integrated analysis of Studies 1 and 2, Study 3, and
 The duration of DFS for Studies 1 and 2 is presented in Figure 4, and the duration of DFS for Study 4 is presented in Figure 5.
 Across all four studies, there were insufficient numbers of patients within each of the following subgroups to determine if the treatment effect was different from that of the overall patient population: patients with low tumor grade, patients within specific ethnic/racial subgroups (Black, Hispanic, Asian/Pacific Islander patients), and patients > 65 years of age.
 
-| Figure 4 Duration of Disease‑Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2) |
-| --- |
+Figure 4 Duration of Disease‑Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2)
 
-| Figure 5 Duration of Disease‑Free Survival in Patient with Adjuvant Treatment of Breast Cancer (Study 4) |
-| --- |
+Figure 5 Duration of Disease‑Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Study 4)
 
 Exploratory analyses of DFS as a function of HER2 overexpression or gene amplification were conducted for patients in Studies 2 and 3, where central laboratory testing data were available.
 The results are shown in Table 8.
@@ -92,7 +90,7 @@ The number of events in Study 2 was small with the exception of the IHC 3+/FISH+
 Definitive conclusions cannot be drawn regarding efficacy within other subgroups due to the small number of events.
 The number of events in Study 3 was adequate to demonstrate significant effects on DFS in the IHC 3+/FISH unknown and the FISH +/IHC unknown subgroups.
 
-Table 7: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
+Table 8: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification
 
 | HER2 Assay ResultIHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. | Number of Patients | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -106,7 +104,7 @@ Table 7: Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpress
 
 ## 14.2 Metastatic Breast Cancer
 
-The safety and efficacy of Herceptin in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n=469 patients) and an open label single agent clinical trial (Study 6, n=222 patients).
+The safety and efficacy of Herceptin in treatment of women with metastatic breast cancer were studied in a randomized, controlled clinical trial in combination with chemotherapy (Study 5, n=469 patients) and an open‑label single agent clinical trial (Study 6, n=222 patients).
 Both trials studied patients with metastatic breast cancer whose tumors overexpress the HER2 protein.
 Patients were eligible if they had 2 or 3 levels of overexpression (based on a 0 to 3 scale) by immunohistochemical assessment of tumor tissue performed by a central testing lab.
 
@@ -117,19 +115,19 @@ Tumor specimens were tested by IHC (Clinical Trial Assay, CTA) and scored as 0, 
 Only patients with 2+ or 3+ positive tumors were eligible (about 33% of those screened).
 Patients were randomized to receive chemotherapy alone or in combination with Herceptin given intravenously as a 4 mg/kg loading dose followed by weekly doses of Herceptin at 2 mg/kg.
 For those who had received prior anthracycline therapy in the adjuvant setting, chemotherapy consisted of paclitaxel (175 mg/m2 over 3 hours every 21 days for at least six cycles); for all other patients, chemotherapy consisted of anthracycline plus cyclophosphamide (AC: doxorubicin 60 mg/m2 or epirubicin 75 mg/m2 plus 600 mg/m2 cyclophosphamide every 21 days for six cycles).
-Sixty five percent of patients randomized to receive chemotherapy alone in this study received Herceptin at the time of disease progression as part of a separate extension study.
+Sixty‑five percent of patients randomized to receive chemotherapy alone in this study received Herceptin at the time of disease progression as part of a separate extension study.
 
 Based upon the determination by an independent response evaluation committee the patients randomized to Herceptin and chemotherapy experienced a significantly longer median time to disease progression, a higher overall response rate (ORR), and a longer median duration of response, as compared with patients randomized to chemotherapy alone.
-Patients randomized to Herceptin and chemotherapy also had a longer median survival (see Table 8).
+Patients randomized to Herceptin and chemotherapy also had a longer median survival (see Table 9).
 These treatment effects were observed both in patients who received Herceptin plus paclitaxel and in those who received Herceptin plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
-Table 8: Study 5: Efficacy Results in First‑Line Treatment for Metastatic Breast Cancer
+Table 9: Study 5: Efficacy Results in First‑Line Treatment for Metastatic Breast Cancer
 
-|  | Herceptin + All Chemotherapy (n = 235) | All Chemotherapy (n = 234) | Herceptin + Paclitaxel (n = 92) | Paclitaxel (n = 96) | Herceptin + AC AC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n = 143) | AC (n = 138) |
+|  | Herceptin + All Chemotherapy (n = 235) | All Chemotherapy (n = 234) | Herceptin + Paclitaxel (n = 92) | Paclitaxel (n = 96) | Herceptin + ACAC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. (n = 143) | AC (n = 138) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |
 | Primary Endpoint |  |  |  |  |  |  |
-| Median TTP(mos)Assessed by an independent Response Evaluation Committee., Kaplan‑Meier Estimate. | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
+| Median TTP (mos)Assessed by an independent Response Evaluation Committee., Kaplan‑Meier Estimate. | 7.2 | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |
 | 95% CI | 7, 8 | 4, 5 | 5, 10 | 2, 4 | 7, 9 | 5, 7 |
 | p‑valuelog‑rank test. | < 0.0001 |  | < 0.0001 |  | 0.002 |  |
 | Secondary Endpoints |  |  |  |  |  |  |
@@ -137,16 +135,16 @@ Table 8: Study 5: Efficacy Results in First‑Line Treatment for Metastatic Brea
 | 95% CI | 39, 51 | 23, 35 | 28, 48 | 8, 22 | 42, 58 | 30, 46 |
 | p‑valueΧ2‑test. | < 0.001 |  | < 0.001 |  | 0.10 |  |
 | Median Resp Duration (mos), | 8.3 | 5.8 | 8.3 | 4.3 | 8.4 | 6.4 |
-| 25%, 75% quartile | 6, 15 | 4, 8 | 5,11 | 4, 7 | 6, 15 | 4, 8 |
+| 25%, 75% Quartile | 6, 15 | 4, 8 | 5,11 | 4, 7 | 6, 15 | 4, 8 |
 | Med Survival (mos) | 25.1 | 20.3 | 22.1 | 18.4 | 26.8 | 21.4 |
 | 95% CI | 22, 30 | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |
 | p‑value | 0.05 |  | 0.17 |  | 0.16 |  |
 
-Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 9).
+Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 10).
 
-Table 9: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
+Table 10: Treatment Effects in Study 5 as a Function of HER2 Overexpression or Amplification
 
-| HER2 Assay Result | Number of Patients (N) | Relative RiskThe relative risk represents the risk of progression or death in the Herceptin plus chemotherapy arm versus the chemotherapy arm for Time to Disease Progression (95% CI) | Relative Risk for Mortality (95% CI) |
+| HER2 Assay Result | Number of Patients (N) | Relative RiskThe relative risk represents the risk of progression or death in the Herceptin plus chemotherapy arm versus the chemotherapy arm. for Time to Disease Progression (95% CI) | Relative Risk for Mortality (95% CI) |
 | --- | --- | --- | --- |
 | CTA 2+ or 3+ | 469 | 0.49 (0.40, 0.61) | 0.80 (0.64, 1.00) |
 | FISH (+) FISH testing results were available for 451 of the 469 patients enrolled on study. | 325 | 0.44 (0.34, 0.57) | 0.70 (0.53, 0.91) |
@@ -167,3 +165,66 @@ Patients were treated with a loading dose of 4 mg/kg IV followed by weekly doses
 The ORR (complete response+partial response), as determined by an independent Response Evaluation Committee, was 14%, with a 2% complete response rate and a 12% partial response rate.
 Complete responses were observed only in patients with disease limited to skin and lymph nodes.
 The overall response rate in patients whose tumors tested as CTA 3+ was 18% while in those that tested as CTA 2+, it was 6%.
+
+## 14.3 Metastatic Gastric Cancer
+
+The safety and efficacy of Herceptin in combination with cisplatin and a fluoropyrimidine (capecitabine or 5-fluorouracil) were studied in patients previously untreated for metastatic gastric or gastroesophageal junction adenocarcinoma (Study 7).
+In this open-label, multi-center trial, 594 patients were randomized 1:1 to Herceptin in combination with cisplatin and a fluoropyrimidine (FC+H) or chemotherapy alone (FC).
+Randomization was stratified by extent of disease (metastatic vs. locally advanced), primary site (gastric vs. gastroesophageal junction), tumor measurability (yes vs. no), ECOG performance status (0,1 vs. 2), and fluoropyrimidine (capecitabine vs. 5-fluorouracil).
+All patients were either HER2 gene amplified (FISH+) or HER2 overexpressing (IHC 3+).
+Patients were also required to have adequate cardiac function (e.g., LVEF > 50%).
+
+On the Herceptin-containing arm, Herceptin was administered as an IV infusion at an initial dose of 8 mg/kg followed by 6 mg/kg every 3 weeks until disease progression.
+On both study arms cisplatin was administered at a dose of 80 mg/m2 Day 1 every 3 weeks for 6 cycles as a 2 hour IV infusion.
+On both study arms capecitabine was administered at 1000 mg/m2 dose orally twice daily (total daily dose 2000 mg/m2) for 14 days of each 21 day cycle for 6 cycles.
+Alternatively continuous intravenous infusion (CIV) 5-fluorouracil was administered at a dose of 800 mg/m2/day from Day 1 through Day 5 every three weeks for 6 cycles.
+
+The median age of the study population was 60 years (range: 21-83); 76% were male; 53% were Asian, 38% Caucasian, 5% Hispanic, 5% other racial/ethnic groups; 91% had ECOG PS of 0 or 1; 82% had primary gastric cancer and 18% had primary gastroesophageal adenocarcinoma.
+Of these patients, 23% had undergone prior gastrectomy, 7% had received prior neoadjuvant and/or adjuvant therapy, and 2% had received prior radiotherapy.
+
+The main outcome measure of Study 7 was overall survival (OS), analyzed by the unstratified log-rank test.
+The final OS analysis based on 351 deaths was statistically significant (nominal significance level of 0.0193).
+An updated OS analysis was conducted at one year after the final analysis.
+The efficacy results of both the final and the updated analyses are summarized in Table 11 Figure 6.
+
+Table 11: Study 7: Overall Survival in ITT Population
+
+|  | FC Arm N=296 | FC + H Arm N=298 |
+| --- | --- | --- |
+| Definitive (Second Interim) Overall Survival |  |  |
+| No. Deaths (%) | 184 (62.2%) | 167 (56.0%) |
+| Median | 11.0 | 13.5 |
+| 95% CI (mos.) | (9.4, 12.5) | (11.7, 15.7) |
+| Hazard Ratio | 0.73 |  |
+| 95% CI | (0.60, 0.91) |  |
+| p value Comparing with the nominal significance level of 0.0193., two sided | 0.0038 |  |
+| Updated Overall Survival |  |  |
+| No. Deaths (%) | 227 (76.7%) | 221 (74.2%) |
+| Median | 11.7 | 13.1 |
+| 95% CI (mos.) | (10.3, 13.0) | (11.9, 15.1) |
+| Hazard Ratio | 0.80 |  |
+| 95% CI | (0.67, 0.97) |  |
+
+Figure 6 Updated Overall Survival in Patients with Metastatic Gastric Cancer (Study 7)
+
+An exploratory analysis of OS in patients based on HER2 gene amplification (FISH) and protein overexpression (IHC) testing is summarized in Table 12.
+
+Table 12: Exploratory Analyses by HER2 Status using Updated Overall Survival Results
+
+|  | FC (N=296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + H (N=298)Five patients on the Herceptin-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
+| --- | --- | --- |
+| FISH+ / IHC 0, 1+ subgroup (N=133) |  |  |
+| No. Deaths / n (%) | 57/71 (80%) | 56/62 (90%) |
+| Median OS Duration (mos.) | 8.8 | 8.3 |
+| 95% CI (mos.) | (6.4, 11.7) | (6.2, 10.7) |
+| Hazard ratio (95% CI) | 1.33 (0.92, 1.92) |  |
+| FISH+ / IHC2+ subgroup (N=160) |  |  |
+| No. Deaths / n (%) | 65/80 (81%) | 64/80 (80%) |
+| Median OS Duration (mos.) | 10.8 | 12.3 |
+| 95% CI (mos.) | (6.8, 12.8) | (9.5, 15.7) |
+| Hazard ratio (95% CI) | 0.78 (0.55, 1.10) |  |
+| FISH+ or FISH /IHC3+Includes 6 patients on chemotherapy arm, 10 patients on Herceptin arm with FISH-, IHC3+ and 8 patients on chemotherapy arm, 8 patients on Herceptin arm with FISH status unknown, IHC 3+. subgroup (N=294) |  |  |
+| No. Deaths / n (%) | 104/143 (73%) | 96/151 (64%) |
+| Median OS Duration (mos.) | 13.2 | 18.0 |
+| 95% CI (mos.) | (11.5. 15.2) | (15.5, 21.2) |
+| Hazard ratio (95% CI) | 0.66 (0.50, 0.87) |  |

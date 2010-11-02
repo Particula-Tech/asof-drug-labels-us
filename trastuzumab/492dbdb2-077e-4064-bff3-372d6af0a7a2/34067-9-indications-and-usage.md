@@ -6,7 +6,7 @@ Herceptin is indicated for adjuvant treatment of HER2 overexpressing node positi
 
 - as part of a treatment regimen consisting of doxorubicin, cyclophosphamide, and either paclitaxel or docetaxel
 - with docetaxel and carboplatin
-- As a single agent following multi-modality anthracycline based therapy.
+- as a single agent following multi-modality anthracycline based therapy.
 
 ## 1.2 Metastatic Breast Cancer
 
@@ -14,3 +14,7 @@ Herceptin is indicated:
 
 - In combination with paclitaxel for first‑line treatment of HER2‑overexpressing metastatic breast cancer
 - As a single agent for treatment of HER2‑overexpressing breast cancer in patients who have received one or more chemotherapy regimens for metastatic disease.
+
+## 1.3 Metastatic Gastric Cancer
+
+Herceptin is indicated, in combination with cisplatin and capecitabine or 5-fluorouracil, for the treatment of patients with HER2 overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma, who have not received prior treatment for metastatic disease.
