@@ -7,7 +7,7 @@ Treatment of the infection may not immediately result in restoration of pigment 
 Normalization of pigment following successful therapy is variable and may take months, depending on individual skin type and incidental skin exposure.
 The rate of recurrence of infection is variable.
 
-NIZORAL® (ketoconazole) was not detected in plasma in 39 patients who shampooed 4-10 times per week for 6 months, or in 33 patients who shampooed 2-3 times per week for 3-26 months (mean: 16 months).
+NIZORAL® (ketoconazole) was not detected in plasma in 39 patients who shampooed 4–10 times per week for 6 months, or in 33 patients who shampooed 2–3 times per week for 3–26 months (mean: 16 months).
 
 An exaggerated use washing test on the sensitive antecubital skin of 10 subjects twice daily for five consecutive days showed that the irritancy potential of ketoconazole 2% shampoo was significantly less than that of 2.5% selenium sulfide shampoo.
 
