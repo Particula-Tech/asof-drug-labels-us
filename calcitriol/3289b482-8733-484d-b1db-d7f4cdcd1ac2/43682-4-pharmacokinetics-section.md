@@ -1,6 +1,6 @@
 # Pharmacokinetics
 
-## Absorption:
+## Absorption
 
 Calcitriol is rapidly absorbed from the intestine.
 Peak serum concentrations (above basal values) were reached within 3 to 6 hours following oral administration of single doses of 0.25 to 1 mcg of calcitriol.
@@ -8,14 +8,14 @@ Following a single oral dose of 0.5 mcg, mean serum concentrations of calcitriol
 
 Following multiple-dose administration, serum calcitriol levels reached steady-state within 7 days.
 
-## Distribution:
+### Distribution
 
 Calcitriol is approximately 99.9% bound in blood.
 Calcitriol and other vitamin D metabolites are transported in blood, by an alpha-globulin vitamin D binding protein.
 There is evidence that maternal calcitriol may enter the fetal circulation.
 Calcitriol is transferred into human milk at low levels (i.e., 2.2 ± 0.1 pg/mL).
 
-## Metabolism:
+### Metabolism
 
 In vivo and in vitro studies indicate the presence of two pathways of metabolism for calcitriol.
 The first pathway involves the 24-hydroxylase as the first step in catabolism of calcitriol.
@@ -25,7 +25,7 @@ The second pathway involves the conversion of calcitriol via the stepwise hydrox
 The lactone appears to be the major metabolite circulating in humans, with mean serum concentrations of 131 ± 17 pg/mL.
 In addition, several other metabolites of calcitriol have been identified: 1α, 25(OH)2-24-oxo-D3; 1α, 23,25(OH)3-24-oxo-D3; 1α, 24R,25(OH)3D3; 1α, 25S,26(OH)3D3; 1α, 25(OH)2-23-oxo-D3; 1α, 25R,26(OH)3-23-oxo-D3; 1α, (OH)24,25,26,27-tetranor-COOH-D3.
 
-## Excretion:
+### Excretion
 
 Enterohepatic recycling and biliary excretion of calcitriol occur.
 The metabolites of calcitriol are excreted primarily in feces.
@@ -36,25 +36,25 @@ The elimination half-life of calcitriol in serum after single oral doses is abou
 
 ## Special Populations
 
-### Pediatric Pharmacokinetics:
+### Pediatric Pharmacokinetics
 
 The steady-state pharmacokinetics of oral calcitriol were determined in a small group of pediatric patients (age range: 1.8 to 16 years) undergoing peritoneal dialysis.
 Calcitriol was administered for 2 months at an average dose of 10.2 ng/kg (SD 5.5 ng/kg).
 In this pediatric population, mean Cmax was 116 pmol/L, mean serum half-life was 27.4 hours, and mean clearance was 15.3 mL/hr/kg.
 
-## Geriatric:
+### Geriatric
 
 No studies have examined the pharmacokinetics of calcitriol in geriatric patients.
 
-## Gender:
+### Gender
 
 Controlled studies examining the influence of gender on calcitriol have not been conducted.
 
-## Hepatic Insufficiency:
+### Hepatic Insufficiency
 
 Controlled studies examining the influence of hepatic disease on calcitriol have not been conducted.
 
-## Renal Insufficiency:
+### Renal Insufficiency
 
 Lower predose and peak calcitriol levels in serum were observed in patients with nephrotic syndrome and patients undergoing hemodialysis compared with healthy subjects.
 The elimination half-life of calcitriol increased by at least twofold in chronic renal failure and hemodialysis patients compared with healthy subjects.

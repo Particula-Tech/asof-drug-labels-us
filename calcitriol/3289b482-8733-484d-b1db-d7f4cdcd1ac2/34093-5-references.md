@@ -4,8 +4,8 @@
    Clin Nephrol.
    1994; 42:44-49.
 
-10001654/02
+10001654/03
 
-Revised December 2005
+Revised September 2008
 
-© RLI, 2005
+© RLI, 2008

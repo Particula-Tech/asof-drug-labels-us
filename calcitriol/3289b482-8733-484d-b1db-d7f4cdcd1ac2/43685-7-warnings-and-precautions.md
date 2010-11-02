@@ -63,48 +63,48 @@ During the titration period of treatment with calcitriol, serum calcium levels s
 
 ## Drug Interactions
 
-### Cholestyramine:
+### Cholestyramine
 
-Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGS and General: General).
+Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; as such it may impair intestinal absorption of calcitriol (see WARNINGS and PRECAUTIONS: General).
 
-### Phenytoin/Phenobarbital:
+### Phenytoin/Phenobarbital
 
 The coadministration of phenytoin or phenobarbital will not affect plasma concentrations of calcitriol, but may reduce endogenous plasma levels of 25(OH)D3 by accelerating metabolism.
 Since blood level of calcitriol will be reduced, higher doses of calcitriol may be necessary if these drugs are administered simultaneously.
 
-### Thiazides:
+### Thiazides
 
 Thiazides are known to induce hypercalcemia by the reduction of calcium excretion in urine.
 Some reports have shown that the concomitant administration of thiazides with calcitriol causes hypercalcemia.
 Therefore, precaution should be taken when coadministration is necessary.
 
-### Digitalis:
+### Digitalis
 
-Calcitriol dosage must be determined with care in patients undergoing treatment with digitalis, as hypercalcemia in such patients may precipitate cardiac arrhythmias (see General: General).
+Calcitriol dosage must be determined with care in patients undergoing treatment with digitalis, as hypercalcemia in such patients may precipitate cardiac arrhythmias (see PRECAUTIONS: General).
 
-### Ketoconazole:
+### Ketoconazole
 
 Ketoconazole may inhibit both synthetic and catabolic enzymes of calcitriol.
 Reductions in serum endogenous calcitriol concentrations have been observed following the administration of 300 mg/day to 1200 mg/day ketoconazole for a week to healthy men.
 However, in vivo drug interaction studies of ketoconazole with calcitriol have not been investigated.
 
-### Corticosteroids:
+### Corticosteroids
 
 A relationship of functional antagonism exists between vitamin D analogues, which promote calcium absorption, and corticosteroids, which inhibit calcium absorption.
 
-### Phosphate-Binding Agents:
+### Phosphate-Binding Agents
 
 Since calcitriol also has an effect on phosphate transport in the intestine, kidneys and bones, the dosage of phosphate-binding agents must be adjusted in accordance with the serum phosphate concentration.
 
-### Vitamin D:
+### Vitamin D
 
 Since calcitriol is the most potent active metabolite of vitamin D3, pharmacological doses of vitamin D and its derivatives should be withheld during treatment with calcitriol to avoid possible additive effects and hypercalcemia (see WARNINGS).
 
-### Calcium Supplements:
+### Calcium Supplements
 
-Uncontrolled intake of additional calcium-containing preparations should be avoided (see General: General).
+Uncontrolled intake of additional calcium-containing preparations should be avoided (seePRECAUTIONS: General).
 
-### Magnesium:
+### Magnesium
 
 Magnesium-containing preparations (e.g., antacids) may cause hypermagnesemia and should therefore not be taken during therapy with calcitriol by patients on chronic renal dialysis.
 
@@ -116,7 +116,7 @@ No significant effects of calcitriol on fertility and/or general reproductive pe
 
 ## Pregnancy
 
-## Teratogenic Effects: Pregnancy Category C.
+### Teratogenic Effects: Pregnancy Category C.
 
 Calcitriol has been found to be teratogenic in rabbits when given at doses of 0.08 and 0.3 mcg/kg (approximately 2 and 6 times the maximum recommended dose based on mg/m2).
 All 15 fetuses in 3 litters at these doses showed external and skeletal abnormalities.
@@ -126,7 +126,7 @@ Teratogenicity studies in rats at doses up to 0.45 mcg/kg (approximately 5 times
 There are no adequate and well-controlled studies in pregnant women.
 Calcitriol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nonteratogenic Effects:
+### Nonteratogenic Effects
 
 In the rabbit, dosages of 0.3 mcg/kg/day (approximately 6 times maximum recommended dose based on surface area) administered on days 7 to 18 of gestation resulted in 19% maternal mortality, a decrease in mean fetal body weight and a reduced number of newborn surviving to 24 hours.
 A study of perinatal and postnatal development in rats resulted in hypercalcemia in the offspring of dams given calcitriol at doses of 0.08 or 0.3 mcg/kg/day (approximately 1 and 3 times the maximum recommended dose based on mg/m2), hypercalcemia and hypophosphatemia in dams given calcitriol at a dose of 0.08 or 0.3 mcg/kg/day, and increased serum urea nitrogen in dams given calcitriol at a dose of 0.3 mcg/kg/day.
@@ -142,7 +142,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 Safety and effectiveness of calcitriol in pediatric patients undergoing dialysis have not been established.
 The safety and effectiveness of calcitriol in pediatric predialysis patients is based on evidence from adequate and well-controlled studies of calcitriol in adults with predialysis chronic renal failure and additional supportive data from non-placebo controlled studies in pediatric patients.
-Dosing guidelines have not been established for pediatric patients under 1 year of age with hypoparathyroidism or for pediatric patients less than 6 years of age with pseudohypoparathyroidism (see Hypoparathyroidism: Hypoparathyroidism).
+Dosing guidelines have not been established for pediatric patients under 1 year of age with hypoparathyroidism or for pediatric patients less than 6 years of age with pseudohypoparathyroidism (see DOSAGE AND ADMINISTRATION: Hypoparathyroidism).
 
 Oral doses of calcitriol ranging from 10 to 55 ng/kg/day have been shown to improve calcium homeostasis and bone disease in pediatric patients with chronic renal failure for whom hemodialysis is not yet required (predialysis).
 Long-term calcitriol therapy is well-tolerated by pediatric patients.
@@ -170,7 +170,7 @@ Elevated serum creatinine levels were observed in about 1 in 6 patients (approxi
 
 In concurrent hypercalcemia and hyperphosphatemia, soft-tissue calcification may occur, this can be seen radiographically (see WARNINGS).
 
-In patients with normal renal function, chronic hypercalcemia may be associated with an increase in serum creatinine (see General: General).
+In patients with normal renal function, chronic hypercalcemia may be associated with an increase in serum creatinine (see PRECAUTIONS: General).
 
-Hypersensitivity reactions (pruritus, rash, uticaria, and very rarely severe erythematous skin disorders) may occur in susceptible individuals.
+Hypersensitivity reactions (pruritus, rash, urticaria, and very rarely severe erythematous skin disorders) may occur in susceptible individuals.
 One case of erythema multiforme and one case of allergic reaction (swelling of lips and hives all over body) were confirmed by rechallenge.
