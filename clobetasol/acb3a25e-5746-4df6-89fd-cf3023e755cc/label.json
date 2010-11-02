@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021644"
+  ],
   "inn": "clobetasol",
-  "labeler": "Galderma Laboratories L.P.",
+  "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "0299-3847-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "clobetasol propionate",
+      "name": "Clobex"
+    }
+  ],
   "setid": "acb3a25e-5746-4df6-89fd-cf3023e755cc",
   "source": "dailymed"
 }
