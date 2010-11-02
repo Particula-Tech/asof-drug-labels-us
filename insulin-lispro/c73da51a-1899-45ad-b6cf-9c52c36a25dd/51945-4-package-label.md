@@ -18,11 +18,11 @@ Humalog®
 
 Mix75/25TM
 
-50% insulin lispro
+75% insulin lispro
 
 protamine suspension
 
-50% insulin lispro injection
+25% insulin lispro injection
 
 (rDNA origin)
 
