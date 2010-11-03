@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021753"
+  ],
   "inn": "adapalene",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "0299-5918-45"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene",
+      "name": "DIFFERIN"
+    }
+  ],
   "setid": "a0031324-92a6-4c11-90e2-c2818f7278ec",
   "source": "dailymed"
 }

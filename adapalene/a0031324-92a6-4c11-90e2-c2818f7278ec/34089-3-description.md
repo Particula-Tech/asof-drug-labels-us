@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-DIFFERIN® (adapalene) Gel, 0.3% contains adapalene 0.3% (3 mg/g) in a topical aqueous gel for use in the treatment of acne vulgaris, consisting of carbomer 940, edetate disodium, methylparaben, poloxamer 124, propylene glycol, purified water, and sodium hydroxide.
+DIFFERIN (adapalene) Gel, 0.3% contains adapalene 0.3% (3 mg/g) in a topical aqueous gel for use in the treatment of acne vulgaris, consisting of carbomer 940, edetate disodium, methylparaben, poloxamer 124, propylene glycol, purified water, and sodium hydroxide.
 May contain hydrochloric acid for pH adjustment.
 
 The chemical name of adapalene is 6-[3-(1-adamantyl)-4-methoxyphenyl]-2-naphthoic acid.
