@@ -10,3 +10,7 @@ Instruct patients of the importance of communicating any history of infections t
 Malignancies
 
 Patients should be counseled about the risk of malignancies while receiving STELARA™.
+
+Allergic Reactions
+
+Advise patients to seek immediate medical attention if they experience any symptoms of serious allergic reactions.

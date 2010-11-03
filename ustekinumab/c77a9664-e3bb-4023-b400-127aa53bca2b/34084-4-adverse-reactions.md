@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed elsewhere in the label:
 
 - Infections [see Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.4)]
-- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.5)]
+- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -35,7 +35,7 @@ Adverse reactions reported by ≥1% of subjects through Week 12 in STUDY 1 and S
 | Depression | 3 (<1%) | 8 (1%) | 4 (1%) |
 
 Adverse drug reactions that occurred at rates less than 1% included: cellulitis and certain injection site reactions (pain, swelling, pruritus, induration, hemorrhage, bruising, and irritation).
-One case of RPLS occurred during clinical trials [see Warnings and Precautions (5.5)].
+One case of RPLS occurred during clinical trials [see Warnings and Precautions (5.6)].
 
 Infections
 
@@ -71,3 +71,10 @@ Table 2
 The data reflect the percentage of subjects whose test results were positive for antibodies to ustekinumab in a bridging immunoassay, and are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of the incidence of antibodies to ustekinumab with the incidence of antibodies to other products may be misleading.
+
+## 6.2 Post-marketing Experience
+
+Adverse reactions have been reported during post-approval use with STELARA™.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA™ exposure.
+
+- Immune system disorders: Serious allergic reactions (including angioedema, dyspnea and hypotension), hypersensitivity reactions (including rash and urticaria).

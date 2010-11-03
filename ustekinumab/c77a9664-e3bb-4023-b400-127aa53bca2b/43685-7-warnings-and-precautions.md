@@ -38,7 +38,12 @@ In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy 
 
 The safety of STELARA™ has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
-## 5.5 Reversible Posterior Leukoencephalopathy Syndrome
+## 5.5 Hypersensitivity Reactions
+
+Serious allergic reactions, including angioedema and possible anaphylaxis, have been reported post-marketing.
+If an anaphylactic or other serious allergic reaction occurs, discontinue STELARA™ and institute appropriate therapy [see Adverse Reactions (6.2)].
+
+## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
 
 One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed during the clinical development program which included 3523 STELARA™-treated subjects.
 The subject, who had received 12 doses of STELARA™ over approximately two years, presented with headache, seizures and confusion.
@@ -51,7 +56,7 @@ Fatal outcomes have been reported.
 
 If RPLS is suspected, STELARA™ should be discontinued and appropriate treatment administered.
 
-## 5.6 Immunizations
+## 5.7 Immunizations
 
 Prior to initiating therapy with STELARA™, patients should receive all immunizations appropriate for age as recommended by current immunization guidelines.
 Patients being treated with STELARA™ should not receive live vaccines.
@@ -60,7 +65,13 @@ Caution is advised when administering live vaccines to household contacts of pat
 
 Non-live vaccinations received during a course of STELARA™ may not elicit an immune response sufficient to prevent disease.
 
-## 5.7 Concomitant Therapies
+## 5.8 Concomitant Therapies
 
 The safety of STELARA™ in combination with other immunosuppressive agents or phototherapy has not been evaluated.
 Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13)].
+
+## 5.9 Theoretical Risk of Immunotherapy
+
+STELARA™ has not been evaluated in patients who have undergone allergy immunotherapy.
+STELARA™ may decrease the protective effect of allergy immunotherapy and may increase the risk of an allergic reaction to a dose of allergen immunotherapy.
+Therefore, caution should be exercised in patients receiving or who have received allergy immunotherapy, particularly for anaphylaxis.

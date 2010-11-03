@@ -14,7 +14,8 @@ The NDC number for the 90 mg vial is 57894-061-02.
 
 Storage and Stability
 
-Store STELARA™ upright and refrigerated at 2ºC to 8ºC (36ºF to 46ºF).
+STELARA™ vials and prefilled syringes must be refrigerated at 2ºC to 8ºC (36ºF to 46ºF).
+Store STELARA™ vials upright.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.

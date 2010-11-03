@@ -75,7 +75,7 @@ It is not known if taking STELARA™ for more than 2 years is safe and effective
 
 What should I tell my doctor before receiving STELARA™?
 
-Before receiving STELARA™, tell your doctor if you:
+Before you receive STELARA™, tell your doctor if you:
 
 - have any of the conditions or symptoms listed in the section "What is the most important information I should know about STELARA™?"
 - have recently received or are scheduled to receive an immunization (vaccine).
@@ -83,6 +83,9 @@ Before receiving STELARA™, tell your doctor if you:
   Tell your doctor if anyone in your house needs a vaccine.
   The viruses used in some types of vaccines can spread to people with a weakened immune system, and can cause serious problems.
   You should not receive the BCG vaccine during the one year before taking STELARA™ or one year after you stop taking STELARA™.
+- are receiving or have received allergy shots, especially for serious allergic reactions.
+  Allergy shots may not work as well for you during treatment with STELARA™.
+  STELARA™ may also increase your risk of having an allergic reaction to an allergy shot.
 - receive phototherapy for your psoriasis.
 - have any other medical conditions.
 - are pregnant or planning to become pregnant.
@@ -91,6 +94,8 @@ Before receiving STELARA™, tell your doctor if you:
 - are breast-feeding or plan to breast-feed.
   It is thought that STELARA™ passes into your breast milk.
   You should not breast-feed while taking STELARA™ without first talking with your doctor.
+- ever had an allergic reaction to STELARA™.
+  Ask your doctor if you are not sure.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take:
@@ -118,7 +123,16 @@ See "What should I tell my doctor before taking STELARA™?"
 What are the possible side effects of STELARA™?
 
 STELARA™ can increase your chances of having serious side effects.
-See "What is the most important information I should know about STELARA™?"
+
+- See "What is the most important information I should know about STELARA™?"
+- Serious Allergic reactions.
+  Serious allergic reactions can occur with STELARA™.
+  Get medical help right away if you have any of the following symptoms of a serious allergic reaction:
+  - feeling faint
+  - swelling of your face, eyelids, tongue, or throat
+  - trouble breathing, throat tightness
+  - chest tightness
+  - skin rash
 
 Common side effects of STELARA™ include:
 
@@ -131,7 +145,9 @@ Tell your doctor about any side effect that bothers you or that does not go away
 For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or to Centocor Ortho Biotech Inc. at 1-800-457-6399.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+You may also report side effects to Centocor Ortho Biotech Inc. at 1-800-457-6399.
 
 General information about STELARA™
 
@@ -151,10 +167,10 @@ Prefilled Syringe Manufactured by: Centocor Ortho Biotech Inc., Horsham, PA 1904
 
 Vial Manufactured by: Centocor Ortho Biotech Inc., Horsham, PA 19044, License No. 1821 at Cilag AG, Schaffhausen, Switzerland
 
-Revised December 2009
+Revised October 2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 U.S. License No. 1821
 
-© Centocor Ortho Biotech Inc. 2009
+© Centocor Ortho Biotech Inc. 2010
