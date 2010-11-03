@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA019655",
+    "NDA019910",
+    "NDA020518"
+  ],
+  "inn": "zidovudine",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-211-20",
+    "49702-212-48",
+    "49702-214-18"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    },
+    {
+      "form": "SYRUP",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    }
+  ],
+  "setid": "6df09f15-b102-431c-adde-d7aeef6f5d84",
+  "source": "dailymed"
+}
