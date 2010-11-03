@@ -2,7 +2,7 @@
 
 Human Experience: Experience with zonisamide daily doses over 800 mg/day is limited.
 During zonisamide clinical development, three patients ingested unknown amounts of zonisamide as suicide attempts, and all three were hospitalized with CNS symptoms.
-One patient became comatose and developed bradycardia, hypotension, and respiratory depression; the zonisamide plasma level was 100.1 µg/mL measured 31 hours post-ingestion.
+One patient became comatose and developed bradycardia, hypotension, and respiratory depression; the zonisamide plasma level was 100.1 mcg/mL measured 31 hours post-ingestion.
 Zonisamide plasma levels fell with a half-life of 57 hours, and the patient became alert five days later.
 
 Management: No specific antidotes for zonisamide overdosage are available.
