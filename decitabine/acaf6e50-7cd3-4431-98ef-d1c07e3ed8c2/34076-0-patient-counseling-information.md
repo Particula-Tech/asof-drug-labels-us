@@ -12,8 +12,6 @@ Patients should be advised to monitor and report any symptoms of neutropenia, th
 Eisai Inc.
 
 Manufactured by Pharmachemie B.V.
-Haarlem, The Netherlands
-
-Manufactured for Eisai Inc., Woodcliff Lake, NJ 07677
+Haarlem, The Netherlands Manufactured for Eisai Inc., Woodcliff Lake, NJ 07677
 
 Dacogen® is a registered trademark of SuperGen, Inc., Dublin, CA, U.S.A. used under license.
