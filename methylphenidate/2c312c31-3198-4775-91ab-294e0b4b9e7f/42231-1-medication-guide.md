@@ -92,7 +92,6 @@ Especially tell your doctor if you take:
 - a blood pressure medicine
 - a blood thinner medicine
 - cold or allergy medicines that contain decongestants
-- clonidine (Jenloga, Catapres)
 
 Know the medicines that you take.
 Keep a list of them to show your doctor and pharmacist.
@@ -365,6 +364,6 @@ By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-08/2010
+11/2010
 
-102086-10
+102086-12
