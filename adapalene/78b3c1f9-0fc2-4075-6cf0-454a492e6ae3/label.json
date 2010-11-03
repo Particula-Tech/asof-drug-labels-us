@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022502"
+  ],
+  "inn": "adapalene",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5912-02"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "adapalene",
+      "name": "Differen"
+    }
+  ],
+  "setid": "78b3c1f9-0fc2-4075-6cf0-454a492e6ae3",
+  "source": "dailymed"
+}
