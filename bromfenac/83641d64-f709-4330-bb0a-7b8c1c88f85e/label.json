@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021664"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Ista Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "67425-999-10",
+    "67425-999-17"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "Bromday"
+    }
+  ],
+  "setid": "83641d64-f709-4330-bb0a-7b8c1c88f85e",
+  "source": "dailymed"
+}
