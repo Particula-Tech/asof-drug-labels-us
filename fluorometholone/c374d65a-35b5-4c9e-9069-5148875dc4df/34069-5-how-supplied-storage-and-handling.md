@@ -8,6 +8,6 @@ Note: Store between 2° and 25°C (36° - 77°F); protect from freezing.
 Shake well before using.
 Rx Only
 
-Rev June 2003
+Revised June 2003
 
 ©2003 Allergan, Inc. Irvine, CA 92612, U.S.A. 4708X ® Marks owned by Allergan, Inc. 71598US10M

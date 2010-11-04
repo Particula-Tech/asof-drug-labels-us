@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016851"
+  ],
   "inn": "fluorometholone",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "11980-211-10",
     "11980-211-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "fluorometholone",
+      "name": "FML"
+    }
+  ],
   "setid": "c374d65a-35b5-4c9e-9069-5148875dc4df",
   "source": "dailymed"
 }
