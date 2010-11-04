@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050796"
+  ],
   "inn": "ceftriaxone",
   "labeler": "B. Braun Medical Inc.",
   "package_ndcs": [
     "0264-3153-11",
     "0264-3155-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ceftriaxone",
+      "name": "CEFTRIAXONE AND DEXTROSE"
+    }
+  ],
   "setid": "67153914-16bc-490d-82d7-638061618467",
   "source": "dailymed"
 }

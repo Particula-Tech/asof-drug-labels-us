@@ -38,6 +38,11 @@ In some cases the infusion lines and times of administration of ceftriaxone and 
 In addition to the adverse reactions reported during clinical trials, the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone sodium.
 Data are generally insufficient to allow an estimate of incidence or to establish causation.
 
+A small number of cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium-containing fluids.
+In some of these cases, the same intravenous infusion line was used for both ceftriaxone and calcium-containing fluids and in some a precipitate was observed in the intravenous infusion line.
+At least one fatality has been reported in a neonate in whom ceftriaxone and calcium-containing fluids were administered at different time points via different intravenous lines; no crystalline material was observed at autopsy in this neonate.
+There have been no similar reports in patients other than neonates.
+
 GASTROINTESTINAL—stomatitis and glossitis.
 
 GENITOURINARY—oliguria.

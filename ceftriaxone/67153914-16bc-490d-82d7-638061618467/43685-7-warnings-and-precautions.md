@@ -9,12 +9,10 @@ SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE THE USE OF SUBCUTANEOUS EPI
 
 ## Interaction with Calcium-Containing Products
 
-There are no reports to date of intravascular or pulmonary precipitations in patients, other than neonates, treated with ceftriaxone and calcium-containing IV solutions.
-However, the theoretical possibility exists for an interaction between ceftriaxone and IV calcium-containing solutions in patients other than neonates.
-Therefore, Ceftriaxone for Injection and Dextrose Injection and calcium-containing solutions, including continuous calcium-containing infusions such as parenteral nutrition, should not be mixed or co-administered to any patient irrespective of age, even via different infusion lines at different sites.
-As a further theoretical consideration and based on 5 half-lives of ceftriaxone, Ceftriaxone for Injection and Dextrose Injection and IV calcium-containing solutions should not be administered within 48 hours of each other in any patient (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-
-No data are available on potential interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
+Precipitation of ceftriaxone-calcium can occur when Ceftriaxone for Injection and Dextrose Injection is mixed with calcium-containing solutions in the same IV administration line.
+Ceftriaxone for Injection and Dextrose Injection must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
+However, in patients other than neonates, Ceftriaxone for Injection and Dextrose Injection and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
+In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clostridium difficile
 
@@ -28,6 +26,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+## Hemolytic Anemia
+
+An immune mediated hemolytic anemia has been observed in patients receiving cephalosporin class antibacterials including ceftriaxone.
+Severe cases of hemolytic anemia, including fatalities, have been reported during treatment in both adults and children.
+If a patient develops anemia while on Ceftriaxone for Injection and Dextrose Injection, the diagnosis of a cephalosporin associated anemia should be considered and Ceftriaxone for Injection and Dextrose Injection stopped until the etiology is determined.
 
 # PRECAUTIONS
 

@@ -7,10 +7,11 @@ Ceftriaxone for Injection and Dextrose Injection is contraindicated in patients 
 Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone for Injection and Dextrose Injection.
 In vitro studies have shown that ceftriaxone can displace bilirubin from its binding to serum albumin and bilirubin encephalopathy can possibly develop in these patients.
 
-Ceftriaxone for Injection and Dextrose Injection must not be co-administered with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition, in neonates because of the risk of precipitation of ceftriaxone-calcium salt.
-Cases of fatal reactions with ceftriaxone-calcium precipitates in lung and kidneys in neonates have been described.
-In some cases the infusion lines and the times of administration of ceftriaxone and calcium-containing solutions differed.
+Ceftriaxone for Injection and Dextrose Injection is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, WARNINGS and DOSAGE AND ADMINISTRATION).
 
-For information regarding all other patients, see WARNINGS.
+A small number of cases of fatal outcomes in which a crystalline material was observed in the lungs and kidneys at autopsy have been reported in neonates receiving ceftriaxone and calcium-containing fluids.
+In some of these cases, the same intravenous infusion line was used for both ceftriaxone and calcium-containing fluids and in some a precipitate was observed in the intravenous infusion line.
+At least one fatality has been reported in a neonate in whom ceftriaxone and calcium-containing fluids were administered at different time points via different intravenous lines; no crystalline material was observed at autopsy in this neonate.
+There have been no similar reports in patients other than neonates.
 
 Solutions containing dextrose may be contraindicated in patients with hypersensitivity to corn products.
