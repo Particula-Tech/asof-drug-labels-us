@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065362"
+  ],
+  "inn": "piperacillin",
+  "labeler": "Hospira, Inc",
+  "package_ndcs": [
+    "0409-3383-02",
+    "0409-3385-13",
+    "0409-3390-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "piperacillin and tazobactam",
+      "name": "Piperacillin and Tazobactam"
+    }
+  ],
+  "setid": "4d3f4b69-b0b9-494f-9cda-4537fa420d47",
+  "source": "dailymed"
+}
