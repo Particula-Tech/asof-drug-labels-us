@@ -42,7 +42,7 @@ In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
 Competitive in vitro ligand binding studies have also shown diltiazem binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
-Minimum therapeutic plasma levels of diltiazem appear to be in the range of 50-200 ng/mL.
+Minimum therapeutic plasma levels of diltiazem appear to be in the range of 50 to 200 ng/mL.
 There is a departure from linearity when dose strengths are increased.
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in AUC (area-under-the plasma concentration vs time curve) in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem as compared to patients with normal renal function.

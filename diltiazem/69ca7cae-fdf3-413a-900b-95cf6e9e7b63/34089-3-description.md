@@ -11,6 +11,6 @@ Diltiazem hydrochloride is a white to off-white crystalline powder with a bitter
 It is soluble in water, methanol, and chloroform.
 
 Each tablet for oral administration contains 30 mg, 60 mg, 90 mg, or 120 mg of diltiazem hydrochloride.
-Each tablet also contains the following inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate 80, povidone, titanium dioxide and FD&C Yellow #6 aluminum lake.
+Each tablet also contains the following inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate 80, povidone, titanium dioxide and FD&C yellow #6 aluminum lake.
 
-Diltiazem Hydrochloride Tablets meet USP Dissolution Test 1.
+Diltiazem hydrochloride tablets meet USP Dissolution Test 1.

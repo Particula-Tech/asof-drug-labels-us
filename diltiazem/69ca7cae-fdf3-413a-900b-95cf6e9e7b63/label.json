@@ -1,16 +1,29 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074185"
+  ],
   "inn": "diltiazem",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-0318-01",
     "0093-0318-05",
     "0093-0319-01",
     "0093-0319-05",
+    "0093-0319-10",
     "0093-0320-01",
-    "0093-0321-01"
+    "0093-0320-05",
+    "0093-0320-10",
+    "0093-0321-01",
+    "0093-0321-05",
+    "0093-0321-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "diltiazem hydrochloride",
+      "name": "Diltiazem Hydrochloride"
+    }
+  ],
   "setid": "69ca7cae-fdf3-413a-900b-95cf6e9e7b63",
   "source": "dailymed"
 }
