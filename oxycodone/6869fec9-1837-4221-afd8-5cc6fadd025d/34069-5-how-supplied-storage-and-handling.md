@@ -1,18 +1,21 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Oxycodone Hydrochloride Oral Solution USP, 5 mg/5 mL is a red, berry flavored liquid packaged as follows: NDC # 64950-354-10, 100 mL bottle with child-resistant closure NDC # 64950-354-50, 500 mL bottle with child-resistant closure
+Oxycodone Hydrochloride Oral Solution
 
-Oxycodone Hydrochloride Oral Concentrate Solution, USP, 20 mg/1 mL is a yellow, berry flavored liquid packaged as follows: NDC # 64950-353-03, 30 mL bottle with child-resistant closure and calibrated dropper
+Oxycodone Hydrochloride Oral Solution 20 mg/mL is a yellow solution available in one strength as follows:
 
-Keep this and all medication out of the reach of children.
-In case of accidental overdose, seek professional assistance or call a poison control center immediately.
+100 mg/5 mL (20 mg/mL) oral solution
 
-Store oral solutions in the original container with the closure tightly secured.
+NDC# 64950-353-03: Bottle of 30 mL supplied with a calibrated oral syringe
 
-Any unused oral solution should be discarded within 90 days after opening.
+Storage
 
-Store in a dry area at room temperature 15°-30°C (59°-86°F).
+Store at Controlled Room Temperature, 25°C (77°F); excursions are permitted to 15° - 30°C (59° - 86°F).
 
-For 30 mL Oxycodone Hydrochloride Oral Solution Concentrate dispense oral solution in original bottle with calibrated dropper provided.
+PROTECT from MOISTURE and LIGHT.
 
-For 500 mL Oxycodone Hydrochloride Oral Solution dispense in a tight, light resistant container as defined by the USP/NF with a child-resistant closure.
+Handling
+
+All opioids, including oxycodone hydrochloride, are liable to diversion and misuse both by the general public and healthcare workers and should be handled accordingly.
+
+DEA Order Form Required

@@ -1,17 +1,8 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Each 5 mL of the oral solution contains:
+Oxycodone hydrochloride is a white, odorless crystalline powder derived from the opium alkaloid, thebaine.
+It is soluble in water and slightly soluble in alcohol.
 
-| Oxycodone Hydrochloride, USP | 5 mg |
-| --- | --- |
+Chemically, oxycodone hydrochloride is (5R,9R,13S,14S)-4, 5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one, hydrochloride (salt) with a molecular mass of 351.82.
 
-Each 1 mL of the oral concentrate solution contains:
-
-| Oxycodone Hydrochloride, USP | 20 mg |
-| --- | --- |
-
-The oral solution contains artificial/natural berry flavor, citric acid, FD&C Red #40, Purified Water, Saccharin Sodium, Sodium Citrate Dihydrate, Sodium Benzoate and Sorbitol Solution.
-
-The oral concentrate solution contains artificial/natural berry flavor, citric acid, D&C Yellow #10, Purified Water, Saccharin Sodium, Sodium Citrate Dihydrate, Sodium Benzoate and Sorbitol Solution.
-
-Oxycodone is 14-hydroxydihydrocodeinone, a white odorless powder which is derived from the opium alkaloid, thebaine, and may be represented by the following structural formula:
+100 mg/5 mL (20 mg/mL): Each 1 mL of oral yellow solution contains 20 mg of oxycodone hydrochloride, USP and the following inactive ingredients: citric acid anhydrous, D&C Yellow #10, natural/artificial berry flavor, purified water, sodium citrate dihydrate, sodium benzoate, saccharin sodium, sorbitol.

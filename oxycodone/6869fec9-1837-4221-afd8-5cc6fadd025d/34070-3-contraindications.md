@@ -1,5 +1,9 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Oxycodone Hydrochloride Oral Solution and Oxycodone Hydrochloride Oral Concentrate Solution are contraindicated in patients with known hypersensitivity to oxycodone, or in any situation where opioids are contraindicated.
-This includes patients with significant respiratory depression (in unmonitored settings or the absence of resuscitative equipment), and patients with acute or severe bronchial asthma or hypercarbia.
-Oxycodone Hydrochloride Oral Solution and Oxycodone Hydrochloride Oral Concentrate Solution are contraindicated in any patient who has or is suspected of having paralytic ileus.
+Oxycodone hydrochloride is contraindicated in patients with respiratory depression in the absence of resuscitative equipment.
+
+Oxycodone hydrochloride is contraindicated in any patient who has or is suspected of having paralytic ileus.
+
+Oxycodone hydrochloride is contraindicated in patients with acute or severe bronchial asthma or hypercarbia.
+
+Oxycodone hydrochloride is contraindicated in patients with known hypersensitivity to oxycodone, oxycodone salts, or any components of the product.

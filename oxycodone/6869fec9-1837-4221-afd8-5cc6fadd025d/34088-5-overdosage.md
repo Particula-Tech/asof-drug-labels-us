@@ -1,20 +1,29 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## MANAGEMENT OF OVERDOSAGE
+## 10.1 Symptoms
 
-### Signs and Symptoms
+Acute overdosage with oxycodone hydrochloride is manifested by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne-Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, cardiac arrest and death.
 
-Serious overdose of oxycodone hydrochloride is characterized by respiratory depression (a decrease in respiratory rate and/or tidal volume, Cheyne Stokes respiration, cyanosis), extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension.
-In severe overdosage, apnea, circulatory collapse, cardiac arrest and death may occur.
+Oxycodone hydrochloride may cause miosis, even in total darkness.
+Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
+[See CLINICAL PHARMACOLOGY (12)]
 
-### Treatment
+## 10.2 Treatment
 
-Primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and the institution of assisted or controlled ventilation.
-The narcotic antagonist naloxone is a specific antidote against respiratory depression which may result from overdosage or unusual sensitivity to narcotics, including oxycodone.
-Therefore, an appropriate dose of naloxone (usual initial adult dose: 0.4 mg) should be administered, preferably by the intravenous route, simultaneously with efforts at respiratory resuscitation.
-Since the duration of action of oxycodone may exceed that of the antagonist, the patient should be kept under continued surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
-An antagonist should not be administered in the absence of clinically significant respiratory or cardiovascular depression.
+Give primary attention to re-establishment of a patent airway and institution of assisted or controlled ventilation.
+Employ supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
+Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 
-Oxygen, intravenous fluids, vasopressors and other supportive measures should be employed as indicated.
+The pure opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Since the duration of reversal is expected to be less than the duration of action of oxycodone hydrochloride, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+If the response to opioid antagonists is suboptimal or only brief in nature, administer additional antagonist as directed by the manufacturer of the product.
 
-Gastric emptying may be useful in removing unabsorbed drug.
+Do not administer opioid antagonists in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
+Administer such agents cautiously to persons who are known, or suspected to be physically dependent on oxycodone.
+In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute abstinence syndrome.
+
+In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+Reserve use of an opioid antagonist for cases where such treatment is clearly needed.
+If it is necessary to treat serious respiratory depression in the physically dependent patient, initiate administration of the antagonist with care and titrate with smaller than usual doses.

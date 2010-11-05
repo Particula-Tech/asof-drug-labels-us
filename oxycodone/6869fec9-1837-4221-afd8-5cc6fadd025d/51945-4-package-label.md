@@ -1,21 +1,11 @@
-# PRINCIPAL DISPLAY PANEL - 30 mL Carton
+Oxycodone Hydrochloride Oral Solution Bottle Label
 
-LVT
+Lehigh Valley Technologies, Inc. Rx Only
 
-Lehigh Valley Technologies, Inc.
+Oxycodone Hydrochloride Oral Solution 100 mg per mL (20 mg per mL) Bottle Label, 30 mL
 
-NDC 64950-353-03
+Oxycodone Hydrochloride Oral Solution Carton
 
-Oxycodone Hydrochloride CONCENTRATED Oral Solution CII
+Lehigh Valley Technologies, Inc. Rx Only
 
-20 mg /1 mL
-
-CAUTION!
-HIGHLY CONCENTRATED SOLUTION!
-VERIFY DOSAGE AND MEASURE CAREFULLY.
-
-Each 1 mL of Oxycodone Hydrochloride CONCENTRATED Oral Solution Contains: Oxycodone Hydrochloride, USP 20mg
-
-DROPPER ENCLOSED IN PACKAGE
-
-Rx Only 30 mL
+Oxycodone Hydrochloride Oral Solution 100 mg per mL (20 mg per mL) Carton Label

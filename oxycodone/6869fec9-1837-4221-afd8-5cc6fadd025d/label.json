@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA200535"
+  ],
   "inn": "oxycodone",
   "labeler": "Lehigh Valley Technologies, Inc.",
   "package_ndcs": [
@@ -7,9 +9,9 @@
   ],
   "products": [
     {
-      "form": "SOLUTION, CONCENTRATE",
+      "form": "SOLUTION",
       "generic": "oxycodone hydrochloride",
-      "name": "Oxycodone Hydrochloride"
+      "name": "OXYCODONE HYDROCHLORIDE"
     }
   ],
   "setid": "6869fec9-1837-4221-afd8-5cc6fadd025d",
