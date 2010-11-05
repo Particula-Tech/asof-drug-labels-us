@@ -256,7 +256,7 @@ Aerobic Gram-positive microorganisms
 - Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
 - Streptococcus pyogenes
 
-*MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) = 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+*MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Aerobic Gram-negative microorganisms
 
