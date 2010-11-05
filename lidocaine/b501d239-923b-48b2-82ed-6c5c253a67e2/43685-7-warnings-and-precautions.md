@@ -102,6 +102,9 @@ Treatment of rabbits with 15 mg/kg (180 mg/m2) produced evidence of maternal tox
 The effects of lidocaine and prilocaine on post-natal development was examined in rats treated for 8 months with 10 or 30 mg/kg, s.c. lidocaine or prilocaine (60mg/m2 and 180 mg/m2 on a body surface area basis, respectively up to 1.4-fold the maximum recommended exposure for a single procedure).
 This time period encompassed 3 mating periods.
 There was no evidence of altered post-natal development in any offspring, however, both doses of either drug significantly reduced the average number of pups per litter surviving until weaning of offspring from the first 2 mating periods.
+In a separate study, the effect of prilocaine on pre- and postnatal development was examined in rats treated with up to 60 mg/kg, s.c.
+(up to 2.8 times the maximum recommended human dose of prilocaine in Oraqix gel on a mg/m2 basis) from Day 6 of gestation to weaning.
+There was no evidence of altered post-natal development, viability, or reproductive capacity in any offspring.
 All the above calculations of exposure are assuming 100% bioavailability of lidocaine and prilocaine after Oraqix® administration.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Oraqix® should be used during pregnancy only if the benefits outweigh the risks.
