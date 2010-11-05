@@ -22,6 +22,14 @@ NDC 0186-5040-54 bottles of 90
 
 NDC 0186-5040-82 bottles of 1000
 
+NDC 0186-5040-35 unit of use bottles of 30
+
+NDC 0186-5042-25 unit dose packages of 100
+
+NDC 0186-5040-55 bottles of 90
+
+NDC 0186-5040-85 bottles of 1000
+
 NEXIUM For Delayed-Release Oral Suspension is supplied as a unit dose packet containing a fine yellow powder, consisting of white to pale brownish esomeprazole granules and pale yellow inactive granules.
 NEXIUM unit dose packets are supplied as follows:
 
