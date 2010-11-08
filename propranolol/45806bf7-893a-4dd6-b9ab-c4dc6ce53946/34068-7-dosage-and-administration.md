@@ -2,5 +2,5 @@
 
 INNOPRAN XL should be administered once daily at bedtime (approximately 10 p.m.) and should be taken consistently either on an empty stomach or with food.
 The starting dose is 80 mg but dosage should be individualized and titration may be needed to a dose of 120 mg.
-In the clinical trial, doses of INNOPRAN XL above 120 mg had no additional effects on blood pressure (See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects).
+In the clinical trial, doses of INNOPRAN XL above 120 mg had no additional effects on blood pressure (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects).
 The time needed for full antihypertensive response is variable, but is usually achieved within 2 to 3 weeks.

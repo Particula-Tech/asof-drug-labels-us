@@ -30,7 +30,7 @@ Nausea, vomiting, epigastric distress, abdominal cramping, diarrhea, constipatio
 
 ## Allergic
 
-Pharyngitis and agranulocytosis; erythematous rash, fever combined with aching and sore throat; laryngospasm, and respiratory distress.
+Pharyngitis and agranulocytosis; erythematous rash, fever combined with aching and sore throat, laryngospasm, and respiratory distress.
 
 ## Respiratory
 

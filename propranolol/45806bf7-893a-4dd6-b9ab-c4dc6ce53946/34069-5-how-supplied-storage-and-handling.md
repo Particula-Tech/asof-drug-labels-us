@@ -8,17 +8,11 @@ Each gray/off-white capsule, imprinted with “120”, 3 segmented bands, “Inn
 
 Store at 25ºC (77ºF); excursions permitted to 15 and 30ºC (59 and 86ºF) [see USP Controlled Room Temperature] in a tightly closed container.
 
-Manufactured for:
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-By: Eurand America, Inc.
-
-Vandalia, OH 45377
-
 ©2010 GlaxoSmithKline.
 All rights reserved.
 
-May 2010 INN:5PI
+October 2010 INN:6PI

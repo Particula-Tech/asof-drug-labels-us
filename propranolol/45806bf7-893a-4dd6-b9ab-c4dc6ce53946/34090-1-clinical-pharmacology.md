@@ -22,11 +22,10 @@ Effects of propranolol on plasma volume appear to be minor and somewhat variable
 Propranolol is highly lipophilic and is almost completely absorbed after oral administration.
 However, it undergoes high first-pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation.
 
-A single-dose, food-effect study in 36 healthy subjects showed that a high fat meal administered with INNOPRAN XL at 10 p.m., increased the lag time from 3 to 5 hours and the time to reach the maximum concentration from 11.5 to 15.4 hours, under fed conditions, with no effect on the AUC.
-(See DOSAGE AND ADMINISTRATION).
+A single-dose, food-effect study in 36 healthy subjects showed that a high fat meal administered with INNOPRAN XL at 10 p.m., increased the lag time from 3 to 5 hours and the time to reach the maximum concentration from 11.5 to 15.4 hours, under fed conditions, with no effect on the AUC (see DOSAGE AND ADMINISTRATION).
 
-Following multiple-dose administration of INNOPRAN XL at 10 p.m. under fasting conditions, the steady state lag time was between 4-5 hours and propranolol peak plasma concentrations were reached approximately 12-14 hours after dosing.
-Propranolol trough levels were achieved 24-27 hours after dosing, and persisted for 3-5 hours after the next dose.
+Following multiple-dose administration of INNOPRAN XL at 10 p.m. under fasting conditions, the steady state lag time was between 4 and 5 hours and propranolol peak plasma concentrations were reached approximately 12 to 14 hours after dosing.
+Propranolol trough levels were achieved 24 to 27 hours after dosing, and persisted for 3 to 5 hours after the next dose.
 The elimination half-life of propranolol was approximately 8 hours.
 
 The plasma levels of propranolol showed dose-proportional increases after single and multiple administration of 80-, 120-, and 160-mg of INNOPRAN XL.
@@ -43,9 +42,9 @@ The volume of distribution of propranolol is approximately 4 liters.
 ### Metabolism and Elimination
 
 Propranolol is extensively metabolized with most metabolites appearing in the urine.
-Propranolol is metabolized through three primary routes: Aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation.
+Propranolol is metabolized through 3 primary routes: Aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation.
 It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41%, and 17%, respectively, but with considerable variability between individuals.
-The four major metabolites are propranolol glucuronide, naphthyloxylactic acid, and glucuronic acid and sulfate conjugates of 4-hydroxy propranolol.
+The 4 major metabolites are propranolol glucuronide, naphthyloxylactic acid, and glucuronic acid and sulfate conjugates of 4-hydroxy propranolol.
 
 In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
@@ -59,7 +58,7 @@ Partial clearance to 4-hydroxy propranolol was significantly higher and to napht
 
 ### Enantiomers
 
-Of the 2 enantiomers of propranolol the S-enantiomer blocks beta adrenergic receptors.
+Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta adrenergic receptors.
 In normal subjects receiving oral doses of racemic propranolol, S-enantiomer concentrations exceeded those of the R-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 
 ## Special Populations
@@ -70,9 +69,9 @@ The pharmacokinetics of INNOPRAN XL have not been investigated in patients young
 
 ### Geriatric
 
-The pharmacokinetics of INNOPRAN XL have not been investigated in patients over 65 years of age.
-In a study of 12 elderly (62-79 years old) and 12 young (25-33 years old) healthy subjects, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
-Additionally, the half-life of both R- and S-propranolol were prolonged in the elderly compared with the young (11 hours versus 5 hours).
+The pharmacokinetics of INNOPRAN XL have not been investigated in patients older than 65 years.
+In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
+Additionally, the half-lives of both R- and S-propranolol were prolonged in the elderly compared with the young (11 hours versus 5 hours).
 
 ### Gender
 
@@ -82,7 +81,7 @@ The mean elimination half-life was longer in females than in males (11 hours ver
 
 ### Race
 
-A study conducted in 12 White and 13 African-American male subjects taking propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in Whites, respectively.
+A study conducted in 12 white and 13 African-American male subjects taking propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
 
 ### Renal Insufficiency
 
@@ -150,7 +149,7 @@ Verapamil does not affect the pharmacokinetics of propranolol.
 #### Anti-Ulcer Drugs
 
 Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol concentrations by about 40%.
-Co-administration with aluminum hydroxide gel (1200 mg) resulted in a 50% decrease in propranolol concentrations.
+Co-administration with aluminum hydroxide gel (1,200 mg) resulted in a 50% decrease in propranolol concentrations.
 
 Co-administration of metoclopramide with propranolol did not have a significant effect on propranolol’s pharmacokinetics.
 
@@ -190,9 +189,9 @@ Concomitant administration of propranolol and warfarin has been shown to increas
 
 ### Hypertension
 
-In a double-blind, parallel dose-response study in patients with mild-to-moderate hypertension (n=434), doses of INNOPRAN XL from 80 to 640 mg were taken once daily at approximately 10p.m.
+In a double-blind, parallel dose-response study in patients with mild-to-moderate hypertension (n=434), doses of INNOPRAN XL from 80 to 640 mg were taken once daily at approximately 10 p.m.
 INNOPRAN XL significantly lowered sitting systolic and diastolic blood pressure when measurements were taken approximately 16 hours later.
 The placebo-subtracted diastolic blood pressure effect for the 80- and 120-mg doses was -3.0 and -4.0 mm Hg, respectively.
 Higher doses of INNOPRAN XL (160, 640 mg) had no additional blood pressure lowering effect when compared with 120 mg.
-The antihypertensive effects of INNOPRAN XL were seen in the elderly (greater than or equal to 65 years old) and men and women.
-There were too few non-White patients to assess the efficacy of INNOPRAN XL in these patients.
+The antihypertensive effects of INNOPRAN XL were seen in the elderly (≥65 years old) and men and women.
+There were too few non-white patients to assess the efficacy of INNOPRAN XL in these patients.

@@ -2,7 +2,7 @@
 
 NDC 0173-0790-01
 
-Innopran XL®
+InnoPran XL®
 
 (propranolol HCl)
 
@@ -43,7 +43,7 @@ A065829
 
 NDC 0173-0791-01
 
-Innopran XL®
+InnoPran XL®
 
 (propranolol HCl)
 

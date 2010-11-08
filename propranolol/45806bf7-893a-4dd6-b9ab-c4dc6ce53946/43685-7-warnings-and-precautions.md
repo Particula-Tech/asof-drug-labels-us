@@ -35,7 +35,7 @@ Propranolol may change thyroid-function tests, increasing T4 and reversing T3, a
 
 ## Wolff-Parkinson-White Syndrome
 
-Beta-adrenergic blockade in patients with Wolf-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
+Beta-adrenergic blockade in patients with Wolff-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
 In one case, this resulted after an initial dose of 5-mg propranolol.
 
 # PRECAUTIONS
@@ -66,8 +66,8 @@ In severe heart failure, the use of propranolol has been associated with increas
 
 ## Drug Interactions
 
-Caution should be exercised when INNOPRAN XL is administered with drugs that have an effect on CYP2D6, 1A2 or 2C19 metabolic pathways.
-Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see DRUG INTERACTIONS in CLINICAL PHARMACOLOGY).
+Caution should be exercised when INNOPRAN XL is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
+Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY, Drug Interactions).
 
 ## Cardiovascular Drugs
 
@@ -169,7 +169,7 @@ Prothrombin time, therefore, should be monitored.
 In dietary administration studies in which mice and rats were treated with propranolol HCl for up to 18 months at doses of up to 150 mg/kg/day, there was no evidence of drug-related tumorigenesis.
 On a body surface area basis, this dose in the mouse and rat is, respectively, about equal to and about twice the maximum recommended human oral daily dose (MRHD) of 640 mg propranolol HCl.
 In a study in which both male and female rats were exposed to propranolol HCl in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for 2 generations, there were no effects on fertility.
-Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol HCl in bacteria (S. typhimurium strain TA 1538).
+Based on differing results from Ames tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol HCl in bacteria (S. typhimurium strain TA 1538).
 
 ## Pregnancy
 
@@ -186,16 +186,16 @@ Neonates whose mothers received propranolol HCl at parturition have exhibited br
 Adequate facilities for monitoring such infants at birth should be available.
 INNOPRAN XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing mothers
+## Nursing Mothers
 
 Propranolol is excreted in human milk.
 Caution should be exercised when INNOPRAN XL is administered to a nursing woman.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness of propranolol in pediatric patients have not been established.
 
-## Geriatric use
+## Geriatric Use
 
 Clinical studies of INNOPRAN XL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
