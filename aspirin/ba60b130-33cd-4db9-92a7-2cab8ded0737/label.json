@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086996"
+  ],
   "inn": "aspirin",
   "labeler": "Lannett Company, Inc.",
   "package_ndcs": [
     "0527-1552-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "butalbital, aspirin, and caffeine",
+      "name": "Butalbital, aspirin, and caffeine"
+    }
+  ],
   "setid": "ba60b130-33cd-4db9-92a7-2cab8ded0737",
   "source": "dailymed"
 }

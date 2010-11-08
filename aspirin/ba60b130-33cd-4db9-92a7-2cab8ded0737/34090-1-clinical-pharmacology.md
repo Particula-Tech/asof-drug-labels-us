@@ -11,7 +11,7 @@ For each symptom and the symptom complex as a whole, butalbital, aspirin, and ca
 
 The behavior of the individual components is described below.
 
-### Aspirin
+Aspirin
 
 The systemic availability of aspirin after an oral dose is highly dependent on the dosage form, the presence of food, the gastric emptying time, gastric pH, antacids, buffering agents, and particle size.
 These factors affect not necessarily the extent of absorption of total salicylates but more the stability of aspirin prior to absorption.
@@ -33,7 +33,7 @@ A peak concentration of 8.80 mcg/mL was obtained at 40 minutes after a 650 mg do
 
 See OVERDOSAGE for toxicity information.
 
-### Butalbital
+Butalbital
 
 Butalbital is well absorbed from the gastrointestinal tract and is expected to distribute to most of the tissues in the body.
 Barbiturates, in general, may appear in breast milk and readily cross the placental barrier.
@@ -45,7 +45,7 @@ Urinary excretion products included parent drug (about 3.6% of the dose), 5-isob
 Of the material excreted in the urine, 32% was conjugated.
 
 The bioavailability of the butalbital component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a decrease in the rate of absorption.
-A peak concentration of 2020 ng/mL is obtained at about 1.5 hours after a 100 mg dose.
+A peak concentration of 2,020 ng/mL is obtained at about 1.5 hours after a 100 mg dose.
 The in vitro plasma protein binding of butalbital is 45% over the concentration range of 0.5 to 20 mcg/mL.
 
 This falls within the range of plasma protein binding (20% to 45%) reported with other barbiturates such as phenobarbital, pentobarbital, and secobarbital sodium.
@@ -53,7 +53,7 @@ The plasma-to-blood concentration ratio was almost unity indicating that there i
 
 See OVERDOSAGE for toxicity information.
 
-### Caffeine
+Caffeine
 
 Like most xanthines, caffeine is rapidly absorbed and distributed in all body tissues and fluids, including the CNS, fetal tissues, and breast milk.
 
@@ -63,6 +63,6 @@ Hepatic biotransformation prior to excretion results in about equal amounts of 1
 Of the 70% of the dose that has been recovered in the urine, only 3% was unchanged drug.
 
 The bioavailability of the caffeine component for butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a slightly longer time to peak.
-A peak concentration of 1660 ng/mL was obtained in less than an hour for an 80 mg dose.
+A peak concentration of 1,660 ng/mL was obtained in less than an hour for an 80 mg dose.
 
 See OVERDOSAGE for toxicity information.

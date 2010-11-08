@@ -58,9 +58,7 @@ Aspirin competes with these agents for protein binding sites.
 
 ## Drug/Laboratory Test Interactions
 
-### Aspirin
-
-Aspirin may interfere with the following laboratory determinations in blood: serum amylase, fasting blood glucose, cholesterol, protein, serum glutamic-oxaloacetic transaminase (SGOT), uric acid, prothrombin time and bleeding time.
+Aspirin: Aspirin may interfere with the following laboratory determinations in blood: serum amylase, fasting blood glucose, cholesterol, protein, serum glutamic-oxaloacetic transaminase (SGOT), uric acid, prothrombin time and bleeding time.
 Aspirin may interfere with the following laboratory determinations in urine: glucose, 5-hydroxyindoleacetic acid, Gerhardt ketone, vanillylmandelic acid (VMA), uric acid, diacetic acid, and spectrophotometric detection of barbiturates.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -81,7 +79,7 @@ Butalbital, aspirin, and caffeine capsules should be given to a pregnant woman o
 
 Withdrawal seizures were reported in a two-day-old male infant whose mother had taken a butalbital-containing drug during the last 2 months of pregnancy.
 Butalbital was found in the infant's serum.
-The infant was given phenobarbital 5mg/kg, which was tapered without further seizure or other withdrawal symptoms.
+The infant was given phenobarbital 5 mg/kg, which was tapered without further seizure or other withdrawal symptoms.
 
 Studies of aspirin use in pregnant women have not shown that aspirin increases the risk of abnormalities when administered during the first trimester of pregnancy.
 In controlled studies involving 41,337 pregnant women and their offspring, there was no evidence that aspirin taken during pregnancy caused stillbirth, neonatal death or reduced birth weight.

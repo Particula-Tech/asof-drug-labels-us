@@ -3,13 +3,13 @@
 The toxic effects of acute overdosage of butalbital, aspirin, and caffeine capsules are attributable mainly to its barbiturate component, and, to a lesser extent, aspirin.
 Because toxic effects of caffeine occur in very high dosages only, the possibility of significant caffeine toxicity from butalbital, aspirin, and caffeine capsules overdosage is unlikely.
 
-## Signs and Symptoms
+Signs and Symptoms
 
 Symptoms attributable to acute barbiturate poisoning include drowsiness, confusion, and coma; respiratory depression; hypotension; hypovolemic shock.
 Symptoms attributable to acute aspirin poisoning include hyperpnea; acid-base disturbances with development of metabolic acidosis; vomiting and abdominal pain; tinnitus; hyperthermia; hypoprothrombinemia; restlessness; delirium; convulsions.
 Acute caffeine poisoning may cause insomnia, restlessness, tremor, and delirium; tachycardia and extrasystoles.
 
-## Treatment
+Treatment
 
 Treatment consists primarily of management of barbiturate intoxication and the correction of the acid-base imbalance due to salicylism.
 Vomiting should be induced mechanically or with emetics in the conscious patient.
@@ -25,10 +25,10 @@ Hypoprothrombinemia should be treated with Vitamin K, intravenously.
 Up-to-date information about the treatment of overdose can often be obtained from a Certified Regional Poison Control Center.
 Telephone numbers of Certified Regional Poison Control Centers are listed in the Physicians' Desk Reference®Trademark of Medical Economics Company, Inc..
 
-## Toxic and Lethal Doses
+Toxic and Lethal Doses (for adults)
 
-Butalbital: toxic dose 1 g (20 capsules of butalbital, aspirin, and caffeine capsules)
+Butalbital: toxic dose 1 g (20 capsules of butalbital, aspirin, and caffeine)
 
 Aspirin: toxic blood level greater than 30 mg/100 mL; lethal dose 10 to 30 g
 
-Caffeine: toxic dose 1 g (25 capsules of butalbital, aspirin, and caffeine capsules)
+Caffeine: toxic dose 1 g (25 capsules of butalbital, aspirin, and caffeine)
