@@ -24,14 +24,14 @@ The most common events (≥1%) associated with discontinuation and considered to
 | Flatulence |  |  |  |  |  |  | 1.0% | 0.3% |  |  | — | — |
 | Other |  |  |  |  |  |  |  |  |  |  |  |  |
 | Asthenia | 1.6% | 0.4% | 1.9% | 0.4% |  |  | 2.5% | 0.6% | 1.8% | 0.2% | 1.6% | 0.2% |
-| Abnormal ejaculation1 | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% | — | — |
+| Abnormal ejaculationa | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% | — | — |
 | Sweating | 1.0% | 0.3% | — |  |  |  | 1.1% | 0% | 1.1% | 0.2% | — | — |
-| Impotence1 | — |  | 1.5% | 0% |  |  |  |  |  |  | — | — |
+| Impotencea | — |  | 1.5% | 0% |  |  |  |  |  |  | — | — |
 | LibidoDecreased |  |  |  |  |  |  | 1.0% | 0% |  |  | — | — |
 
 Where numbers are not provided the incidence of the adverse events in patients treated with PAXIL was not >1% or was not greater than or equal to 2 times the incidence of placebo.
 
-1 Incidence corrected for gender.
+a Incidence corrected for gender.
 
 ## Commonly Observed Adverse Events
 
@@ -71,7 +71,7 @@ Table 2 enumerates adverse events that occurred at an incidence of 1% or more am
 Reported adverse events were classified using a standard COSTART-based Dictionary terminology.
 
 Table 2.
-Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Major Depressive Disorder1
+Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Major Depressive Disordera
 
 | Body System | Preferred Term | PAXIL(n = 421) | Placebo(n = 421) |
 | --- | --- | --- | --- |
@@ -87,7 +87,7 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 |  | Diarrhea | 12% | 8% |
 |  | Decreased Appetite | 6% | 2% |
 |  | Flatulence | 4% | 2% |
-|  | Oropharynx Disorder2 | 2% | 0% |
+|  | Oropharynx Disorderb | 2% | 0% |
 |  | Dyspepsia | 2% | 1% |
 | Musculoskeletal | Myopathy | 2% | 1% |
 |  | Myalgia | 2% | 1% |
@@ -105,32 +105,32 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Respiration | Yawn | 4% | 0% |
 | Special Senses | Blurred Vision | 4% | 1% |
 |  | Taste Perversion | 2% | 0% |
-| Urogenital System | Ejaculatory Disturbance3,4 | 13% | 0% |
-|  | Other Male Genital Disorders3,5 | 10% | 0% |
+| Urogenital System | Ejaculatory Disturbance c,d | 13% | 0% |
+|  | Other Male Genital Disordersc,d | 10% | 0% |
 |  | Urinary Frequency | 3% | 1% |
-|  | Urination Disorder6 | 3% | 0% |
-|  | Female Genital Disorders3,7 | 2% | 0% |
+|  | Urination Disorderf | 3% | 0% |
+|  | Female Genital Disordersc,g | 2% | 0% |
 
-1 Events reported by at least 1% of patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥ PAXIL: Abdominal pain, agitation, back pain, chest pain, CNS stimulation, fever, increased appetite, myoclonus, pharyngitis, postural hypotension, respiratory disorder (includes mostly “cold symptoms” or “URI”), trauma, and vomiting.
+a Events reported by at least 1% of patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥ PAXIL: Abdominal pain, agitation, back pain, chest pain, CNS stimulation, fever, increased appetite, myoclonus, pharyngitis, postural hypotension, respiratory disorder (includes mostly “cold symptoms” or “URI”), trauma, and vomiting.
 
-2 Includes mostly “lump in throat” and “tightness in throat.”
+b Includes mostly “lump in throat” and “tightness in throat.”
 
-3 Percentage corrected for gender.
+c Percentage corrected for gender.
 
-4 Mostly “ejaculatory delay.”
+dMostly “ejaculatory delay.”
 
-5 Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.”
+e Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.”
 
-6 Includes mostly “difficulty with micturition” and “urinary hesitancy.”
+f Includes mostly “difficulty with micturition” and “urinary hesitancy.”
 
-7 Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.”
+g Includes mostly “anorgasmia” and “difficulty reaching climax/orgasm.”
 
 ### Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disorder
 
 Table 3 enumerates adverse events that occurred at a frequency of 2% or more among OCD patients on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg to 60 mg/day or among patients with panic disorder on PAXIL who participated in placebo-controlled trials of 10- to 12-weeks duration in which patients were dosed in a range of 10 mg to 60 mg/day or among patients with social anxiety disorder on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg to 50 mg/day.
 
 Table 3.
-Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disorder1
+Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disordera
 
 | Body System | Preferred Term | ObsessiveCompulsiveDisorder |  | PanicDisorder |  | Social AnxietyDisorder |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -173,26 +173,26 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 |  | Yawn | — | — | — | — | 5% | 1% |
 | Special Senses | Abnormal Vision | 4% | 2% | — | — | 4% | 1% |
 |  | Taste Perversion | 2% | 0% | — | — | — | — |
-| Urogenital System | Abnormal Ejaculation2 | 23% | 1% | 21% | 1% | 28% | 1% |
+| Urogenital System | Abnormal Ejaculationb | 23% | 1% | 21% | 1% | 28% | 1% |
 |  | Dysmenorrhea | — | — | — | — | 5% | 4% |
-|  | Female Genital Disorder2 | 3% | 0% | 9% | 1% | 9% | 1% |
-|  | Impotence2 | 8% | 1% | 5% | 0% | 5% | 1% |
+|  | Female Genital Disorderb | 3% | 0% | 9% | 1% | 9% | 1% |
+|  | Impotenceb | 8% | 1% | 5% | 0% | 5% | 1% |
 |  | Urinary Frequency | 3% | 1% | 2% | 0% | — | — |
 |  | Urination Impaired | 3% | 0% | — | — | — | — |
 |  | Urinary Tract Infection | 2% | 1% | 2% | 1% | — | — |
 
-1 Events reported by at least 2% of OCD, panic disorder, and social anxiety disorder in patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥PAXIL: [OCD]: Abdominal pain, agitation, anxiety, back pain, cough increased, depression, headache, hyperkinesia, infection, paresthesia, pharyngitis, respiratory disorder, rhinitis, and sinusitis.
+a Events reported by at least 2% of OCD, panic disorder, and social anxiety disorder in patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥PAXIL: [OCD]: Abdominal pain, agitation, anxiety, back pain, cough increased, depression, headache, hyperkinesia, infection, paresthesia, pharyngitis, respiratory disorder, rhinitis, and sinusitis.
 [panic disorder]: Abnormal dreams, abnormal vision, chest pain, cough increased, depersonalization, depression, dysmenorrhea, dyspepsia, flu syndrome, headache, infection, myalgia, nervousness, palpitation, paresthesia, pharyngitis, rash, respiratory disorder, sinusitis, taste perversion, trauma, urination impaired, and vasodilation.
 [social anxiety disorder]: Abdominal pain, depression, headache, infection, respiratory disorder, and sinusitis.
 
-2 Percentage corrected for gender.
+b Percentage corrected for gender.
 
 ### Generalized Anxiety Disorder and Posttraumatic Stress Disorder
 
 Table 4 enumerates adverse events that occurred at a frequency of 2% or more among GAD patients on PAXIL who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day or among PTSD patients on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg/day to 50 mg/day.
 
 Table 4.
-Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder and Posttraumatic Stress Disorder1
+Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder and Posttraumatic Stress Disordera
 
 | Body System | Preferred Term | Generalized Anxiety Disorder |  | Posttraumatic Stress Disorder |  |
 | --- | --- | --- | --- | --- | --- |
@@ -222,21 +222,21 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Sinusitis | 4% | 3% | — | — |  |
 | Yawn | 4% | — | 2% | <1% |  |
 | Special Senses | Abnormal Vision | 2% | 1% | 3% | 1% |
-| Urogenital System | Abnormal Ejaculation2 | 25% | 2% | 13% | 2% |
-| Female Genital Disorder2 | 4% | 1% | 5% | 1% |  |
-| Impotence2 | 4% | 3% | 9% | 1% |  |
+| Urogenital System | Abnormal Ejaculationb | 25% | 2% | 13% | 2% |
+| Female Genital Disorderb | 4% | 1% | 5% | 1% |  |
+| Impotenceb | 4% | 3% | 9% | 1% |  |
 
-1 Events reported by at least 2% of GAD and PTSD in patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥PAXIL [GAD]: Abdominal pain, back pain, trauma, dyspepsia, myalgia, and pharyngitis.
+a. Events reported by at least 2% of GAD and PTSD in patients treated with PAXIL are included, except the following events which had an incidence on placebo ≥PAXIL [GAD]: Abdominal pain, back pain, trauma, dyspepsia, myalgia, and pharyngitis.
 [PTSD]: Back pain, headache, anxiety, depression, nervousness, respiratory disorder, pharyngitis, and sinusitis.
 
-2 Percentage corrected for gender.
+b. Percentage corrected for gender.
 
 ### Dose Dependency of Adverse Events
 
-A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of PAXIL with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of PAXIL, as shown in the following table:
+A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of PAXIL with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of PAXIL, as shown inTable 5:
 
 Table 5.
-Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive Disorder*
+Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive Disordea
 
 | Body System/Preferred Term | Placebo | PAXIL |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -265,7 +265,7 @@ Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in th
 | Impotence | 0.0% | 1.9% | 4.3% | 6.4% | 1.9% |
 | Male Genital Disorders | 0.0% | 3.8% | 8.7% | 6.4% | 3.7% |
 
-* Rule for including adverse events in table: Incidence at least 5% for 1 of paroxetine groups and ≥ twice the placebo incidence for at least 1 paroxetine group.
+a Rule for including adverse events in table: Incidence at least 5% for 1 of paroxetine groups and ≥ twice the placebo incidence for at least 1 paroxetine group.
 
 In a fixed-dose study comparing placebo and 20, 40, and 60 mg of PAXIL in the treatment of OCD, there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned.
 No new adverse events were observed in the group treated with 60 mg of PAXIL compared to any of the other treatment groups.
@@ -341,7 +341,7 @@ Consequently, it is not possible to provide a meaningful estimate of the proport
 
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based Dictionary terminology.
 The frequencies presented, therefore, represent the proportion of the 9,089 patients exposed to multiple doses of PAXIL who experienced an event of the type cited on at least 1 occasion while receiving PAXIL.
-All reported events are included except those already listed in Tables 2 to 4, those reported in terms so general as to be uninformative and those events where a drug cause was remote.
+All reported events are included except those already listed in Tables 2 to 5, those reported in terms so general as to be uninformative and those events where a drug cause was remote.
 It is important to emphasize that although the events reported occurred during treatment with paroxetine, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: Frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients.
@@ -397,6 +397,6 @@ Infrequent: Amenorrhea, breast pain, cystitis, dysuria, hematuria, menorrhagia, 
 
 ## Postmarketing Reports
 
-Voluntary reports of adverse events in patients taking PAXIL that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
+Voluntary reports of adverse events in patients taking PAXIL that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria,restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
 There has been a case report of an elevated phenytoin level after 4 weeks of PAXIL and phenytoin coadministration.
 There has been a case report of severe hypotension when PAXIL was added to chronic metoprolol treatment.

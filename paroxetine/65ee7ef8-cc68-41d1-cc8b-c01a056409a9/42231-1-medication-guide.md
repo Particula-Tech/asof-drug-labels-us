@@ -73,4 +73,4 @@ Research Triangle Park, NC 27709
 ©2010, GlaxoSmithKline.
 All rights reserved.
 
-June 2010 PXL:53PI
+October 2010 PXL:55PI

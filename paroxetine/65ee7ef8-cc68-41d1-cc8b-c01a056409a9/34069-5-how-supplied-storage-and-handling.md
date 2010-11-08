@@ -12,10 +12,6 @@ NDC 0029-3210-13 Bottles of 30
 
 NDC 0029-3211-13 Bottles of 30
 
-NDC 0029-3211-59 Bottles of 90
-
-NDC 0029-3211-21 SUP 100s (intended for institutional use only)
-
 30-mg blue tablets engraved on the front with PAXIL and on the back with 30.
 
 NDC 0029-3212-13 Bottles of 30

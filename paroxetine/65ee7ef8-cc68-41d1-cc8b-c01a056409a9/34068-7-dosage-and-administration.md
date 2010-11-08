@@ -33,7 +33,7 @@ The maximum dosage should not exceed 60 mg/day.
 ### Maintenance Therapy
 
 Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
-In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).
+In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 OCD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
@@ -51,7 +51,7 @@ The maximum dosage should not exceed 60 mg/day.
 ### Maintenance Therapy
 
 Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
-In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).
+In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Panic disorder is a chronic condition, and it is reasonable to consider continuation for a responding patient.
 Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
 
@@ -62,7 +62,7 @@ Dosage adjustments should be made to maintain the patient on the lowest effectiv
 PAXIL should be administered as a single daily dose with or without food, usually in the morning.
 The recommended and initial dosage is 20 mg/day.
 In clinical trials the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 to 60 mg/day.
-While the safety of PAXIL has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY—Clinical Trials).
+While the safety of PAXIL has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY: Clinical Trials).
 
 ### Maintenance Therapy
 
@@ -82,7 +82,7 @@ Dose changes should occur in 10 mg/day increments and at intervals of at least 1
 
 ### Maintenance Therapy
 
-Systematic evaluation of continuing PAXIL for periods of up to 24 weeks in patients with Generalized Anxiety Disorder who had responded while taking PAXIL during an 8-week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY—Clinical Trials).
+Systematic evaluation of continuing PAXIL for periods of up to 24 weeks in patients with Generalized Anxiety Disorder who had responded while taking PAXIL during an 8-week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
 
 ## Posttraumatic Stress Disorder
@@ -105,7 +105,7 @@ Dosage adjustments should be made to maintain the patient on the lowest effectiv
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to PAXIL and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS).
+Neonates exposed to PAXIL and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering paroxetine in the third trimester.
 
@@ -122,7 +122,7 @@ Similarly, at least 14 days should be allowed after stopping PAXIL before starti
 
 ## Discontinuation of Treatment With PAXIL
 
-Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS).
+Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS: Discontinuation of Treatment With PAXIL).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which PAXIL is being prescribed.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

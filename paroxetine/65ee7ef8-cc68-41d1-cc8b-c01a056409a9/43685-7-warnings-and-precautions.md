@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment With PAXIL, for a description of the risks of discontinuation of PAXIL).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: Discontinuation of Treatment With PAXIL, for a description of the risks of discontinuation of PAXIL).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -59,7 +59,7 @@ In patients receiving another serotonin reuptake inhibitor drug in combination w
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 While there are no human data showing such an interaction with PAXIL, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that PAXIL not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
+Therefore, it is recommended that PAXIL not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI), and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
 At least 2 weeks should be allowed after stopping PAXIL before starting an MAOI.
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
@@ -111,7 +111,7 @@ While subject to limitations, this meta-analysis suggested an increased occurren
 It was not possible in this meta-analysis to determine the extent to which the observed prevalence of cardiovascular malformations might have contributed to that of overall malformations, nor was it possible to determine whether any specific types of cardiovascular malformations might have contributed to the observed prevalence of all cardiovascular malformations.
 
 If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment With PAXIL).
+Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment With PAXIL).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
 
 ### Animal Findings
@@ -130,7 +130,7 @@ Neonates exposed to PAXIL and other SSRIs or serotonin and norepinephrine reupta
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS—Potential for Interaction With Monoamine Oxidase Inhibitors).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
 
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
@@ -176,7 +176,7 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
 
-See also PRECAUTIONS—Pediatric Use, for adverse events reported upon discontinuation of treatment with PAXIL in pediatric patients.
+See also PRECAUTIONS: Pediatric Use, for adverse events reported upon discontinuation of treatment with PAXIL in pediatric patients.
 
 ### Tamoxifen
 
@@ -195,7 +195,7 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see PRECAUTIONS: Geriatric Use).
 Discontinuation of PAXIL should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
@@ -208,6 +208,10 @@ Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and 
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of paroxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
+
+Bone Fracture: Epidemiological studies on bone fracture risk following exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
+There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
+The possibility of a pathological fracture, that is, a fracture produced by minimal trauma in a patient with decreased bone mineral density, should be considered in patients treated with paroxetine who present with unexplained bone pain, point tenderness, swelling, or bruising.
 
 ### Use in Patients With Concomitant Illness
 
@@ -249,7 +253,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 ### Drugs That Interfere With Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 
-Patients should be cautioned about the concomitant use of paroxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of paroxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 ### Interference With Cognitive and Motor Performance
 
@@ -270,11 +274,11 @@ Although PAXIL has not been shown to increase the impairment of mental and motor
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS—Usage in Pregnancy: Teratogenic and Nonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic and Nonteratogenic Effects).
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breastfeeding an infant (see PRECAUTIONS—Nursing Mothers).
+Patients should be advised to notify their physician if they are breastfeeding an infant (see PRECAUTIONS: Nursing Mothers).
 
 ## Laboratory Tests
 
@@ -286,7 +290,7 @@ There are no specific laboratory tests recommended.
 
 As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking PAXIL.
-Consequently, concomitant use of PAXIL with tryptophan is not recommended (see WARNINGS—Serotonin Syndrome).
+Consequently, concomitant use of PAXIL with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
 
 ### Monoamine Oxidase Inhibitors
 
@@ -300,9 +304,9 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS—Serotonin Syndrome).
-The concomitant use of PAXIL with MAOIs (including linezolid) is contraindicated (see CONTRAINDICATIONS).
-The concomitant use of PAXIL with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS—Drug Interactions, Tryptophan).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when PAXIL is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+The concomitant use of PAXIL with MAOIs (including linezolid and methylene blue) is contraindicated (see CONTRAINDICATIONS).
+The concomitant use of PAXIL with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions: Tryptophan).
 
 ### Thioridazine
 
@@ -311,12 +315,12 @@ See CONTRAINDICATIONS and WARNINGS.
 ### Warfarin
 
 Preliminary data suggest that there may be a pharmacodynamic interaction (that causes an increased bleeding diathesis in the face of unaltered prothrombin time) between paroxetine and warfarin.
-Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see Drugs That Interfere With Hemostasis).
+Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere With Hemostasis).
 
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
-If concomitant use of PAXIL with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS—Serotonin Syndrome).
+If concomitant use of PAXIL with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
 
 ### Drugs Affecting Hepatic Metabolism
 
@@ -342,7 +346,7 @@ No initial dosage adjustment of PAXIL is considered necessary when coadministere
 When a single oral 30-mg dose of PAXIL was administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T½ were reduced (by an average of 50% and 35%, respectively) compared to PAXIL administered alone.
 In a separate study, when a single oral 300-mg dose of phenytoin was administered at paroxetine steady state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Since both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed.
-No initial dosage adjustments are considered necessary when these drugs are coadministered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS—Postmarketing Reports).
+No initial dosage adjustments are considered necessary when these drugs are coadministered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS: Postmarketing Reports).
 
 ### Drugs Metabolized by CYP2D6
 
@@ -366,7 +370,7 @@ However, due to the risk of serious ventricular arrhythmias and sudden death pot
 Tamoxifen is a pro-drug requiring metabolic activation by CYP2D6.
 Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite (endoxifen) and hence reduced efficacy of tamoxifen (see PRECAUTIONS).
 
-At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS—Tricyclic Antidepressants).
+At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Tricyclic Antidepressants [TCAs]).
 
 ### Drugs Metabolized by Cytochrome CYP3A4
 
@@ -377,7 +381,7 @@ Based on the assumption that the relationship between paroxetine’s in vitro Ki
 ### Tricyclic Antidepressants (TCAs)
 
 Caution is indicated in the coadministration of tricyclic antidepressants (TCAs) with PAXIL, because paroxetine may inhibit TCA metabolism.
-Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is coadministered with PAXIL (see PRECAUTIONS—Drugs Metabolized by Cytochrome CYP2D6).
+Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is coadministered with PAXIL (see PRECAUTIONS: Drugs Metabolized by Cytochrome CYP2D6).
 
 ### Drugs Highly Bound to Plasma Protein
 
@@ -419,7 +423,7 @@ If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 ### Beta-Blockers
 
 In a study where propranolol (80 mg twice daily) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with PAXIL (30 mg once daily) for the final 10 days.
-The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS—Postmarketing Reports).
+The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS: Postmarketing Reports).
 
 ### Theophylline
 
@@ -453,6 +457,8 @@ Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in viv
 
 ### Impairment of Fertility
 
+Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
+
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, GAD, and PTSD or 2.4 times the MRHD for OCD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (9.8 and 4.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD; 8.2 and 4.1 times the MRHD for OCD and PD on a mg/m2 basis).
@@ -471,17 +477,17 @@ Like many other drugs, paroxetine is secreted in human milk, and caution should 
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with PAXIL, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of PAXIL in a child or adolescent must balance the potential risks with the clinical need.
 
 In placebo-controlled clinical trials conducted with pediatric patients, the following adverse events were reported in at least 2% of pediatric patients treated with PAXIL and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
 
-Events reported upon discontinuation of treatment with PAXIL in the pediatric clinical trials that included a taper phase regimen, which occurred in at least 2% of patients who received PAXIL and which occurred at a rate at least twice that of placebo, were: emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain (see Discontinuation of Treatment With PAXIL).
+Events reported upon discontinuation of treatment with PAXIL in the pediatric clinical trials that included a taper phase regimen, which occurred in at least 2% of patients who received PAXIL and which occurred at a rate at least twice that of placebo, were: emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain (see DOSAGE AND ADMINISTRATION: Discontinuation of Treatment With PAXIL).
 
 ## Geriatric Use
 
-SSRIs and SNRIs, including PAXIL, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+SSRIs and SNRIs, including PAXIL, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 
 In worldwide premarketing clinical trials with PAXIL, 17% of patients treated with PAXIL (approximately 700) were 65 years of age or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
