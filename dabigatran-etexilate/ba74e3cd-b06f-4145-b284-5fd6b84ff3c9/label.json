@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022512"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0597-0107-54",
+    "0597-0107-60",
+    "0597-0135-12",
+    "0597-0135-54",
+    "0597-0135-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate mesylate",
+      "name": "PRADAXA"
+    }
+  ],
+  "setid": "ba74e3cd-b06f-4145-b284-5fd6b84ff3c9",
+  "source": "dailymed"
+}
