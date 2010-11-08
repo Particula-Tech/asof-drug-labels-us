@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021259"
+  ],
   "inn": "methylphenidate",
-  "labeler": "UCB, Inc.",
+  "labeler": "UCB Manufacturing, Inc.",
   "package_ndcs": [
     "53014-579-07",
     "53014-580-07",
@@ -10,7 +12,13 @@
     "53014-583-07",
     "53014-584-07"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Metadate CD"
+    }
+  ],
   "setid": "a6aedc40-5725-4bd3-9037-033746e8599e",
   "source": "dailymed"
 }

@@ -84,7 +84,7 @@ The patients should be instructed that the capsule may be swallowed whole, or al
 The capsules and the capsule contents must not be crushed or chewed.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
-A patient Medication Guide is available for Metadate CD.
+A patient Medication Guide is available for METADATE CD.
 The prescriber or healthcare professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -97,9 +97,6 @@ Because of possible effects on blood pressure, METADATE CD should be used cautio
 Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), phenylbutazone and some antidepressants (tricyclics and selective serotonin reuptake inhibitors).
 Downward dose adjustment of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.
-
-Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2 agonists has not been systematically evaluated.
 
 In theory, there is a possibility that the clearance of methylphenidate might be affected by urinary pH, either being increased with acidifying agents or decreased with alkalizing agents.
 This should be considered when methylphenidate is given in combination with agents that alter urinary pH.

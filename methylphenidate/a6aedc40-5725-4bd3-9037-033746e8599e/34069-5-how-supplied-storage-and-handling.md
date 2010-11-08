@@ -2,27 +2,27 @@
 
 METADATE CD (methylphenidate HCl, USP) Extended-Release Capsules are available in six strengths:
 
-10 mg, green/white capsules, imprinted with “UCB 579” in white letters on the green cap, and “10 mg” in black letters on the white body of the capsule.
+10 mg, green/white capsules, imprinted with "UCB 579" in white letters on the green cap, and "10 mg" in black letters on the white body of the capsule.
 
 NDC 53014-579-07 Bottle of 100 Capsules
 
-20 mg, blue/white capsules, imprinted with ”UCB 580” in white letters on the blue cap, and “20 mg” in black letters on the white body of the capsule.
+20 mg, blue/white capsules, imprinted with "UCB 580" in white letters on the blue cap, and "20 mg" in black letters on the white body of the capsule.
 
 NDC 53014-580-07 Bottle of 100 Capsules
 
-30 mg, reddish-brown/white capsules, imprinted with “UCB 581” in white letters on the reddish-brown cap, and “30 mg” in black letters on the white body of the capsule.
+30 mg, reddish-brown/white capsules, imprinted with "UCB 581" in white letters on the reddish-brown cap, and "30 mg" in black letters on the white body of the capsule.
 
 NDC 53014-581-07 Bottle of 100 Capsules
 
-40 mg, yellow ivory/white capsules, imprinted with “UCB 582” in black letters on the yellow ivory cap, and “40 mg” in black letters on the white body of the capsule.
+40 mg, yellow ivory/white capsules, imprinted with "UCB 582" in black letters on the yellow ivory cap, and "40 mg" in black letters on the white body of the capsule.
 
 NDC 53014-582-07 Bottle of 100 Capsules
 
-50 mg, purple/white capsules, imprinted with “UCB 583” in white letters on the purple cap, and “50 mg” in black letters on the white body of the capsule.
+50 mg, purple/white capsules, imprinted with "UCB 583" in white letters on the purple cap, and "50 mg" in black letters on the white body of the capsule.
 
 NDC 53014-583-07 Bottle of 100 Capsules
 
-60 mg, white/white capsules, imprinted with “UCB 584” in black letters on the white cap, and “60 mg” in black letters on the white body of the capsule.
+60 mg, white/white capsules, imprinted with "UCB 584" in black letters on the white cap, and "60 mg" in black letters on the white body of the capsule.
 
 NDC 53014-584-07 Bottle of 100 Capsules
 

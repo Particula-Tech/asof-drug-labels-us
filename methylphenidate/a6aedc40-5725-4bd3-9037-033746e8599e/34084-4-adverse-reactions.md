@@ -43,7 +43,7 @@ TABLE 1 Incidence of Treatment-Emergent Events1 in a Pool of 3-4 Week Clinical T
 
 Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
 Other reactions include hypersensitivity (including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura); anorexia; nausea; dizziness; palpitations; headache; dyskinesia; drowsiness; blood pressure and pulse changes, both up and down; tachycardia; angina; cardiac arrhythmia; abdominal pain; weight loss during prolonged therapy.
-There have been rare reports of Tourette’s Syndrome.
+There have been rare reports of Tourette's Syndrome and obsessive-compulsive disorder.
 Toxic psychosis has been reported.
 Although a definite causal relationship has not been established, the following have been reported in patients taking this drug: instances of abnormal liver function, ranging from transaminase elevation to hepatic coma; isolated cases of cerebral arteritis and/or occlusion; leucopenia and/or anemia; transient depressed mood; a few instances of scalp hair loss.
 Very rare reports of neuroleptic malignant syndrome (NMS) have been reported, and, in most of these, patients were concurrently receiving therapies associated with NMS.
@@ -55,5 +55,5 @@ In children, loss of appetite, abdominal pain, weight loss during prolonged ther
 ## Postmarketing Experience
 
 In addition to the adverse events listed above, the following have been reported in patients receiving METADATE CD worldwide.
-The list is alphabetized: abnormal behavior, aggression, anxiety, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, peripheral coldness, Raynaud’s phenomenon, reversible ischaemic neurological deficit, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
+The list is alphabetized: abnormal behavior, aggression, anxiety, cardiac arrest, depression, fixed drug eruption, hyperactivity, irritability, migraine, obsessive-compulsive disorder, peripheral coldness, Raynaud's phenomenon, reversible ischaemic neurological deficit, sudden death, suicidal behavior (including completed suicide), and thrombocytopenia.
 Data are insufficient to support an estimation of incidence or establish causation.

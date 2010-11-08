@@ -18,7 +18,7 @@ Daily dosage above 60 mg is not recommended.
 
 There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with METADATE CD.
 It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use METADATE CD for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient’s functioning without pharmacotherapy.
+Nevertheless, the physician who elects to use METADATE CD for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient's functioning without pharmacotherapy.
 Improvement may be sustained when the drug is either temporarily or permanently discontinued.
 
 ## Dose Reduction And Discontinuation

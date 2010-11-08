@@ -17,7 +17,7 @@ METADATE CD is contraindicated in patients with glaucoma.
 
 ## Tics
 
-METADATE CD is contraindicated in patients with motor tics or with a family history or diagnosis of Tourette’s syndrome (see ADVERSE REACTIONS).
+METADATE CD is contraindicated in patients with motor tics or with a family history or diagnosis of Tourette's syndrome (see ADVERSE REACTIONS).
 
 ## Monoamine Oxidase Inhibitors
 
