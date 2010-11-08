@@ -50,7 +50,7 @@ Lamotrigine pharmacokinetic parameters for adult and pediatric patients and heal
 Table 14.
 Meana Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With Epilepsy
 
-| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration(hr) | t½:EliminationHalf-life(hr) | Cl/F:Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration(hr) | t½:Elimination Half-life(hr) | Cl/F:Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |  |
 | Single-dose LAMICTAL | 179 | 2.2(0.25-12.0) | 32.8(14.0-103.0) | 0.44(0.12-1.10) |
@@ -102,7 +102,7 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination: The elimination half-life and apparent clearance of lamotrigine following administration of LAMICTAL to adult patients with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with LAMICTAL are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -154,8 +154,8 @@ hSlight increase, not expected to be clinically relevant.
 Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (“pill-free” week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
-The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL is increased in the few days before or during the “pill-free” week.
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
+The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL is increased in the few days before or during the pill-free week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of LAMICTAL (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
@@ -234,7 +234,7 @@ Other: Results of in vitro experiments suggest that clearance of lamotrigine is 
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
+Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100-mg dose of lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
@@ -243,11 +243,11 @@ The patients with severe hepatic impairment were without ascites (n = 2) or with
 The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Age:Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
+Age:Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients aged 10 months to 5.9 years and n = 26 for patients aged 5 to 11 years).
 Forty-three patients received concomitant therapy with other AEDs and 12 patients received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 
-Population pharmacokinetic analyses involving patients 2 to 18 years of age demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
+Population pharmacokinetic analyses involving patients aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
 The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
 Weight-normalized lamotrigine clearance was higher in those subjects weighing less than 30 kg, compared with those weighing greater than 30 kg.
 Accordingly, patients weighing less than 30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
@@ -284,6 +284,6 @@ Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of L
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
 Gender: The clearance of lamotrigine is not affected by gender.
-However, during dose escalation of LAMICTAL in one clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
+However, during dose escalation of LAMICTAL in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
 Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.

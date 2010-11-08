@@ -14,6 +14,6 @@ Nearly all cases of life-threatening rashes caused by LAMICTAL have occurred wit
 However, isolated cases have occurred after prolonged treatment (e.g., 6 months).
 Accordingly, duration of therapy cannot be relied upon as means to predict the potential risk heralded by the first appearance of a rash.
 
-Although benign rashes are also caused by LAMICTAL, it is not possible to predict reliably which rashes will prove to be serious or life-threatening.
-Accordingly, LAMICTAL should ordinarily be discontinued at the first sign of rash, unless the rash is clearly not drug-related.
-Discontinuation of treatment may not prevent a rash from becoming life-threatening or permanently disabling or disfiguring [see Warnings and Precautions (5.1)].
+Although benign rashes are also caused by LAMICTAL, it is not possible to predict reliably which rashes will prove to be serious or life threatening.
+Accordingly, LAMICTAL should ordinarily be discontinued at the first sign of rash, unless the rash is clearly not drug related.
+Discontinuation of treatment may not prevent a rash from becoming life threatening or permanently disabling or disfiguring [see Warnings and Precautions (5.1)].

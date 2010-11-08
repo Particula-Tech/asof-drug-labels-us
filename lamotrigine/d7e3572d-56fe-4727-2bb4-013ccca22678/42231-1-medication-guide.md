@@ -9,7 +9,7 @@ There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 If you have questions about LAMICTAL, ask your healthcare provider or pharmacist.
 
-What is the most important information I should know about LAMICTAL?
+What is the most important information I should know about LAMICTAL
 
 1.
 LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL; it may rarely cause death.
@@ -21,8 +21,8 @@ Children between 2 to 16 years of age have a higher chance of getting this serio
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))
-- take a higher starting dose of LAMICTAL than your healthcare provider prescribed
+- take LAMICTAL while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
+- take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
 - increase your dose of LAMICTAL faster than prescribed.
 
 LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
@@ -75,12 +75,31 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+3.
+LAMICTAL may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+
+Call your healthcare provider right away if you have any of the following symptoms:
+
+- Headache
+- Fever
+- Nausea
+- Vomiting
+- Stiff neck
+- Rash
+- Unusual sensitivity to light
+- Muscle pains
+- Chills
+- Confusion
+- Drowsiness
+
+Meningitis has many causes other than LAMICTAL, which your doctor would check for if you developed meningitis while taking LAMICTAL.
+
 LAMICTAL can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-3.
+4.
 Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
@@ -89,9 +108,8 @@ When your healthcare provider gives you a prescription for LAMICTAL:
 - Make sure you can read it clearly.
 - Talk to your pharmacist to check that you are given the correct medicine.
 - Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
-
-These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
-Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
+  These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets.
+  Immediately call your pharmacist if you receive a LAMICTAL tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
 LAMICTAL (lamotrigine) Tablets
 
@@ -105,7 +123,7 @@ LAMICTAL (lamotrigine) Chewable Dispersible Tablets
 
 LAMICTAL ODT (lamotrigine) Orally Disintegrating Tablets
 
-| 25 mg, white to off-white Imprinted with LMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg,white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
+| 25 mg, white to off-white Imprinted with LMT on one side25 on the other | 50 mg, white to off-whiteImprinted withLMT on one side50 on the other | 100 mg, white to off-whiteImprinted withLAMICTAL on one side100 on the other | 200 mg, white to off-whiteImprinted withLAMICTAL on one side200 on the other |
 | --- | --- | --- | --- |
 
 What is LAMICTAL?
@@ -241,6 +259,10 @@ Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, ma
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+LAMICTAL is a registered trademark of GlaxoSmithKline.
+
+DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
@@ -255,13 +277,9 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-LAMICTAL is a registered trademark of GlaxoSmithKline.
-
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
-
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
 
-May 2009
+October 2010
 
-LMT: 2MG
+LMT:3MG

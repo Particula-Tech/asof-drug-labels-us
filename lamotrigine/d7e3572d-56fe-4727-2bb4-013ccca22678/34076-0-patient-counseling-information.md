@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product
+See Medication Guide that accompanies the product.
 
 ## 17.1 Rash
 
@@ -15,9 +15,9 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 Patients should be advised to notify their physician if worsening of seizure control occurs.
 
-## 17.4 CNS Adverse Effects
+## 17.4 Central Nervous System Adverse Effects
 
-Patients should be advised that LAMICTAL may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
+Patients should be advised that LAMICTAL may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL to gauge whether or not it adversely affects their mental and/or motor performance.
 
 ## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
@@ -36,14 +36,19 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL in combination with these medications.
 
 ## 17.8 Discontinuing LAMICTAL
 
 Patients should be advised to notify their physician if they stop taking LAMICTAL for any reason and not to resume LAMICTAL without consulting their physician.
 
-## 17.9 Potential Medication Errors
+## 17.9 Aseptic Meningitis
+
+Patients should be advised that LAMICTAL may cause aseptic meningitis.
+Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking LAMICTAL.
+
+## 17.10 Potential Medication Errors
 
 Medication errors involving LAMICTAL have occurred.
 In particular the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
@@ -51,6 +56,10 @@ Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL clearly.
 Depictions of the LAMICTAL Tablets, Chewable Dispersible Tablets, and Orally Disintegrating Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL, as well as the correct formulation of LAMICTAL, each time they fill their prescription [see Dosage Forms and Strengths (3.1, 3.2, 3.3), How Supplied/Storage and Handling (16)].
+
+LAMICTAL is a registered trademark of GlaxoSmithKline
+
+Microcaps and AdvaTab are registered trademarks of Eurand, Inc.
 
 GlaxoSmithKline
 
@@ -66,9 +75,9 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-LAMICTAL is a registered trademark of GlaxoSmithKline
-
-Microcaps and AdvaTab are registered trademarks of Eurand, Inc.
-
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+October 2010
+
+LMT:4PI

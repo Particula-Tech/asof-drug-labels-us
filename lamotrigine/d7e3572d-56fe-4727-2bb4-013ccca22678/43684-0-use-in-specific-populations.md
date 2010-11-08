@@ -47,18 +47,18 @@ Because the effects on the infant exposed to lamotrigine by this route are unkno
 
 ## 8.4 Pediatric Use
 
-LAMICTAL is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
+LAMICTAL is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
-Safety and efficacy of LAMICTAL, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
-LAMICTAL was associated with an increased risk for infectious adverse reactions (LAMICTAL 37%, Placebo 5%), and respiratory adverse reactions (LAMICTAL 26%, Placebo 5%).
+Safety and efficacy of LAMICTAL, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (aged 1 to 24 months).
+LAMICTAL was associated with an increased risk for infectious adverse reactions (LAMICTAL 37%, placebo 5%), and respiratory adverse reactions (LAMICTAL 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder have not been established.
+Safety and effectiveness in patients less than 18 years of age with Bipolar Disorder have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of LAMICTAL for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
+Clinical studies of LAMICTAL for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Patients With Hepatic Impairment
