@@ -1,5 +1,7 @@
 Principal Display Panel
 
+12.5 mg
+
 NDC 0029-3206-13
 
 PAXIL CR®
@@ -13,6 +15,7 @@ CONTROLLED-RELEASE TABLETS
 Rx only
 
 Federal Law requires dispensing of Paxil CR® with the Medication Guide under this label.
+
 Store at or below 25oC (77oF) [see USP].
 
 Each controlled-release tablet contains paroxetine hydrochloride equivalent to 12.5 mg paroxetine.
@@ -32,6 +35,8 @@ A053835 Rev.
 
 Principal Display Panel
 
+25 mg
+
 NDC 0029-3207-13
 
 PAXIL CR®
@@ -39,8 +44,6 @@ PAXIL CR®
 PAROXETINE HCl
 
 CONTROLLED-RELEASE TABLETS
-
-25 mg
 
 30 Tablets
 
@@ -67,6 +70,8 @@ A053838 Rev.
 
 Principal Display Panel
 
+37.5 mg
+
 NDC 0029-3208-13
 
 PAXIL CR®
@@ -74,8 +79,6 @@ PAXIL CR®
 PAROXETINE HCl
 
 CONTROLLED-RELEASE TABLETS
-
-37.5 mg
 
 30 Tablets
 
@@ -102,6 +105,8 @@ A053830 Rev.
 
 Principal Display Panel
 
+25 mg
+
 NDC 0029-4607-13
 
 PAXIL CR®
@@ -109,8 +114,6 @@ PAXIL CR®
 PAROXETINE HCl
 
 CONTROLLED-RELEASE TABLETS
-
-25 mg
 
 30 Tablets
 
@@ -137,6 +140,8 @@ A081127 Rev.
 
 Principal Display Panel
 
+12.5 mg
+
 NDC 0029-4606-13
 
 PAXIL CR®
@@ -144,8 +149,6 @@ PAXIL CR®
 PAROXETINE HCl
 
 CONTROLLED-RELEASE TABLETS
-
-12.5 mg
 
 30 Tablets
 
@@ -172,6 +175,8 @@ A081126 Rev.
 
 Principal Display Panel
 
+37.5 mg
+
 NDC 0029-4608-13
 
 PAXIL CR®
@@ -179,8 +184,6 @@ PAXIL CR®
 PAROXETINE HCl
 
 CONTROLLED-RELEASE TABLETS
-
-37.5 mg
 
 30 Tablets
 

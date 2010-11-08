@@ -53,7 +53,7 @@ Conjugates with glucuronic acid and sulfate predominate, and major metabolites h
 Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake.
 The metabolism of paroxetine is accomplished in part by CYP2D6.
 Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
-The role of this enzyme in paroxetine metabolism also suggests potential drug-drug interactions (see PRECAUTIONS).
+The role of this enzyme in paroxetine metabolism also suggests potential drug-drug interactions (see PRECAUTIONS: Drugs Metabolized by CYP2D6).
 
 Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
@@ -78,7 +78,7 @@ Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND AD
 #### Drug-Drug Interactions
 
 In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
-Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS—Drug Interactions).
+Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS: Drug Interactions).
 
 ## Clinical Trials
 

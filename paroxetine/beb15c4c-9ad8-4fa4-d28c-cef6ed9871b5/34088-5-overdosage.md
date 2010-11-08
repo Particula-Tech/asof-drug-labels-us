@@ -14,20 +14,17 @@ Other notable signs and symptoms observed with overdoses involving paroxetine (a
 
 ## Overdosage Management
 
+No specific antidotes for paroxetine are known.
 Treatment should consist of those general measures employed in the management of overdosage with any drugs effective in the treatment of major depressive disorder.
 
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
-
-Activated charcoal should be administered.
-Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-No specific antidotes for paroxetine are known.
+Due to the large volume of distribuiton of this drug, forced diuresis, dialysis, hemoperfusion, or exchange perfusion are unlikely to be of benefit.
 
 A specific caution involves patients taking or recently having taken paroxetine who might ingest excessive quantities of a tricyclic antidepressant.
-In such a case, accumulation of the parent tricyclic and an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see PRECAUTIONS—Drugs Metabolized by Cytochrome CYP2D6).
+In such a case, accumulation of the parent tricyclic and an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see PRECAUTIONS: Drugs Metabolized by Cytochrome CYP2D6).
 
 In managing overdosage, consider the possibility of multiple-drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
