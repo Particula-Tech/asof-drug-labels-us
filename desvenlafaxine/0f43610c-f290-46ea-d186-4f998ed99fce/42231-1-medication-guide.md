@@ -103,11 +103,11 @@ Tell your healthcare provider about all your medical conditions, including if yo
 ### Serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions
 
 Rare, but potentially life-threatening, conditions called serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions can happen when medicines such as PRISTIQ are taken with certain other medicines.
-Serotonin syndrome or NMS-like reactions can cause serious changes in how your brain, muscles and digestive system work.
+Serotonin syndrome or NMS-like reactions can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
 Especially tell your healthcare provider if you take the following:
 
 - medicines to treat migraine headaches known as triptans
-- medicines used to treat mood disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), or serotonin norepinephrine reuptake inhibitors (SNRIs)
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), antipsychotic drugs, or other dopamine antagonists, such as metoclopramide
 - silbutramine
 - tramadol
 - St. John's Wort
@@ -251,7 +251,7 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued September 2010.
+Issued November 2010.
 
 ### Contact Information
 
@@ -266,8 +266,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C015
+W10529C017
 
 ET01
 
-Rev 09/10
+Rev 11/10
