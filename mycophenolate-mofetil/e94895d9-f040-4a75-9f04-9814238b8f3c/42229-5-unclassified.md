@@ -137,7 +137,3 @@ If such contact occurs, wash thoroughly with soap and water; rinse eyes with pla
 4Orthoclone OKT® is a registered trademark of Ortho Biotech Inc.
 
 5Maalox® is a registered trademark of Novartis Consumer Health, Inc.
-
-10004767/02 Revised July 2009
-
-© RLI, 2009

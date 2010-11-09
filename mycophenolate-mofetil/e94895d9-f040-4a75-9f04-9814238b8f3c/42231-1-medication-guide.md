@@ -18,7 +18,9 @@ If you are a female and are able to become pregnant
   - you should have a negative pregnancy test within 1 week before you start to take mycophenolate mofetil
   - you must use 2 different types of effective birth control at the same time, for 4 weeks before you start taking mycophenolate mofetil, during your entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless you choose to avoid sexual intercourse completely (abstinence).
     Mycophenolate mofetil decreases blood levels of the hormones in birth control pills that you take by mouth.
-    Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant
+    Birth control pills may not work as well while you take mycophenolate mofetil, and you could become pregnant If you plan to become pregnant, talk with your healthcare provider.
+    Your healthcare provider will decide if other medicines to prevent rejection may be right for you.
+    In certain situations, you and your healthcare provider may decide that taking mycophenolate mofetil is more important to your health than the possible risks to your unborn baby.
 - If you get pregnant while taking mycophenolate mofetil, do not stop taking mycophenolate mofetil.
   Call your healthcare provider right away.
   You and your healthcare provider should report any cases of pregnancies to
@@ -31,8 +33,12 @@ Talk to your healthcare provider about joining the National Transplantation Preg
   Serious infections can happen with mycophenolate mofetil and can lead to death.
   Types of infections can include:
   - Viral infections.
-    Viral infections, including shingles, other herpes infections, and cytomegalovirus (CMV), can happen with mycophenolate mofetil.
-    CMV can cause serious tissue and blood infections
+    Certain viruses can live in your body and cause active infections when your immune system is weak.
+    Viral infections that can happen with mycophenolate mofetil include:
+    - Shingles, other herpes infections, and cytomegalovirus (CMV).
+      CMV can cause serious tissue and blood infections.
+    - BK virus.
+      BK virus can affect how your kidney works and cause your transplanted kidney to fail.
   - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
     In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
     You are at risk for this brain infection because you have a weakened immune system.
@@ -71,7 +77,7 @@ What is Mycophenolate Mofetil Capsules and Tablets?
 Mycophenolate Mofetil Capsules and Tablets is a prescription medicine to prevent rejection (antirejection medicine) in people who have received a kidney, heart or liver transplant.
 Rejection is when the body’s immune system perceives the new organ as a “foreign” threat and attacks it.
 
-Mycophenolate Mofetil Capsules and Tablets is used with other medicines called cyclosporines (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
+Mycophenolate Mofetil Capsules and Tablets is used with other medicines called cyclosporine (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
 These medicines work together to prevent rejection to your transplanted organ.
 
 Mycophenolate mofetil has been used safely and works in children who received a kidney transplant as it does in adults.
@@ -214,18 +220,16 @@ These are not all of the possible side effects of mycophenolate mofetil.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1800-FDA-1088.
+You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store Mycophenolate Mofetil Capsules and Tablets?
 
-Store Mycophenolate Mofetil Capsules and Tablets at room temperature, between 59oF to 86oF (15oC to 30oC).
-Keep the container closed tightly
-
-Store the prepared mycophenolate mofetil oral suspension at room temperature, between 59oF to 86oF (15oC to 30oC), for up to 60 days.
-You can also store mycophenolate mofetil oral suspension in the refrigerator at 36oF to 46oF (2oC to 8oC).
-Do not freeze mycophenolate mofetil oral suspension
-
-Keep Mycophenolate Mofetil Capsules and Tablets and all medicines out of the reach of children
+- Store Mycophenolate Mofetil Capsules and Tablets at room temperature, between 59oF to 86oF (15oC to 30oC).
+  Keep the container closed tightly
+- Store the prepared mycophenolate mofetil oral suspension at room temperature, between 59oF to 86oF (15oC to 30oC), for up to 60 days.
+  You can also store mycophenolate mofetil oral suspension in the refrigerator at 36oF to 46oF (2oC to 8oC).
+  Do not freeze mycophenolate mofetil oral suspension
+- Keep Mycophenolate Mofetil Capsules and Tablets and all medicines out of the reach of children
 
 General Information about Mycophenolate Mofetil Capsules and Tablets
 
@@ -237,13 +241,13 @@ It may harm them.
 This Medication Guide summarizes the most important information about mycophenolate mofetil.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about mycophenolate mofetil that is written for healthcare professionals.
-For more information, go to www.Roxane.com or call 1-800-962-83
+For more information, go to www.Roxane.com or call 1-800-962-8364.
+
+What are the ingredients in Mycophenolate Mofetil Capsules and Tablets?
 
 Active Ingredient: mycophenolate mofetil
 
-Inactive Ingredients:
-
-Mycophenolate Mofetil Capsules, 250 mg: croscarmellose sodium, magnesium stearate, povidone, pregelatinized starch and purified water.
+Inactive Ingredients: Mycophenolate Mofetil Capsules, 250 mg: croscarmellose sodium, magnesium stearate, povidone, pregelatinized starch and purified water.
 The capsule shells contain FD&C blue #1, FD&C blue #3, gelatin, red iron oxide, titanium dioxide, and yellow iron oxide.
 
 Mycophenolate Mofetil Tablets, 500 mg: croscarmellose sodium, hypromellose, macrogol, magnesium stearate, microcrystalline cellulose, polydextrose, povidone, pregelatinized starch, titanium dioxide, and triacetin.
@@ -254,6 +258,8 @@ CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roch
 
 Any other trademarks in this document are the property of their respective owners.
 
-10004767/02 Revised July 2009
+10004763/03
+
+Revised December 2009
 
 © RLI, 2009
