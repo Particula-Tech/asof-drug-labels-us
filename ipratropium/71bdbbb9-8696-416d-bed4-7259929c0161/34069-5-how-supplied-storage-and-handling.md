@@ -19,8 +19,8 @@ Patients should be reminded to read and follow the accompanying Patient’s Inst
 
 ATTENTION PHARMACISTS: Detach “PATIENT'S INSTRUCTIONS FOR USE” from package insert and dispense with product.
 
-10001010/03
+10001010/04
 
-Revised September 2007
+Revised October 2009
 
-© RLI, 2007
+© RLI, 2009

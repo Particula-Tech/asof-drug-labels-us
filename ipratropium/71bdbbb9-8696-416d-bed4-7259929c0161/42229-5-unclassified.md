@@ -82,8 +82,8 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-10001010/03
+10001010/04
 
-Revised September 2007
+Revised October 2009
 
-© RLI, 2007
+© RLI, 2009
