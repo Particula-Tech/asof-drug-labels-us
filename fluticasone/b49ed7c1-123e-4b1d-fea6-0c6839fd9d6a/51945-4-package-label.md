@@ -29,8 +29,8 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000058755 Rev.
-7/08
+10000000084953 Rev.
+8/10
 
 Principal Display Panel
 
@@ -63,8 +63,8 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000068498 Rev.
-5/09
+10000000084952 Rev.
+8/10
 
 Principal Display Panel
 
@@ -97,5 +97,5 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000068479 Rev.
-4/09
+10000000084954 Rev.
+8/10
