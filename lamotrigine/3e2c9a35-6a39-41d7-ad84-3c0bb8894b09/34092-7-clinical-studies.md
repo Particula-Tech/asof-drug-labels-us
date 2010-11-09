@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 PGTC Seizures
+## 14.1 Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of LAMICTAL XR as adjunctive therapy was established in PGTC seizures in a 19-week, international, multicenter, double-blind, randomized, placebo-controlled study in 143 patients 13 years of age and older (n = 70 on LAMICTAL XR and n = 73 on placebo).
+The effectiveness of LAMICTAL XR as adjunctive therapy was established in PGTC seizures in a 19-week, international, multicenter, double-blind, randomized, placebo-controlled study in 143 patients aged 13 years and older (n = 70 on LAMICTAL XR and n = 73 on placebo).
 Patients with at least 3 PGTC seizures during an 8-week baseline phase were randomized to 19 weeks of treatment with LAMICTAL XR or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed on a fixed-dose regimen, with target doses ranging from 200 mg/day to 500 mg/day of LAMICTAL XR based on concomitant AED(s) (target dose = 200 mg for valproate, 300 mg for AEDs not altering plasma lamotrigine levels, and 500 mg for enzyme-inducing AEDs).
 
@@ -20,7 +20,7 @@ Patients with an increase in seizure frequency >100% are represented on the Y-ax
 
 The effectiveness of immediate-release lamotrigine as adjunctive therapy was initially established in 3 pivotal multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial onset seizures.
 
-The effectiveness of LAMICTAL XR as adjunctive therapy in partial onset seizures, with or without secondary generalization, was established in a 19-week, multicenter, double-blind, placebo-controlled trial in 236 patients, 13 years of age and older (approximately 93% of patients were 16 to 65 years old).
+The effectiveness of LAMICTAL XR as adjunctive therapy in partial onset seizures, with or without secondary generalization, was established in a 19-week, multicenter, double-blind, placebo-controlled trial in 236 patients, aged 13 years and older (approximately 93% of patients were 16 to 65 years old).
 Approximately 36% were from the U.S. and approximately 64% were from other countries including Argentina, Brazil, Chile, Germany, India, Korea, Russian Federation, and Ukraine.
 Patients with at least 8 partial onset seizures during an 8-week prospective baseline phase (or 4-week prospective baseline coupled with a 4-week historical baseline documented with seizure diary data) were randomized to treatment with LAMICTAL XR (n = 116) or placebo (n = 120) added to their current regimen of 1 or 2 AEDs.
 Approximately half of the patients were taking 2 concomitant AEDs at baseline.

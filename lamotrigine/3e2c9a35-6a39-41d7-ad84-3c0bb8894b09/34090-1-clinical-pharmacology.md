@@ -132,7 +132,7 @@ Summary of Drug Interactions With Lamotrigine
 
 | Drug | Drug Plasma Concentration With Adjunctive Lamotriginea | Lamotrigine Plasma Concentration With Adjunctive Drugsb |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrelc) | ↔d | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
 | Bupropion | Not assessed | ↔ |
 | Carbamazepine (CBZ) | ↔ | ↓ |
 | CBZ epoxidee | ? |  |
@@ -152,21 +152,21 @@ Summary of Drug Interactions With Lamotrigine
 | Valproate + PHT and/or CBZ | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
-a From adjunctive clinical trials and volunteer studies.
+aFrom adjunctive clinical trials and volunteer studies.
 
-b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
+bNet effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies.
 
-c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
+cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations.
 
-d Modest decrease in levonorgestrel.
+dModest decrease in levonorgestrel.
 
-e Not administered, but an active metabolite of carbamazepine.
+eNot administered, but an active metabolite of carbamazepine.
 
-f Slight decrease, not expected to be clinically relevant.
+fSlight decrease, not expected to be clinically relevant.
 
-g Not administered, but an active metabolite of oxcarbazepine.
+gNot administered, but an active metabolite of oxcarbazepine.
 
-h Slight increase not expected to be clinically relevant.
+hSlight increase not expected to be clinically relevant.
 
 ↔ = No significant effect.
 
@@ -175,8 +175,8 @@ h Slight increase not expected to be clinically relevant.
 Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (“pill-free” week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
-The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL XR is increased in the few days before or during the “pill-free” week.
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
+The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL XR is increased in the few days before or during the pill-free week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of lamotrigine (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
@@ -275,4 +275,4 @@ However, during dose escalation of immediate-release lamotrigine in one clinical
 
 Race: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.
 
-Pediatric Patients: Safety and effectiveness of LAMICTAL XR for use in patients below the age of 13 have not been established.
+Pediatric Patients: Safety and effectiveness of LAMICTAL XR for use in patients less than 13 years of age have not been established.

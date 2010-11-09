@@ -7,6 +7,8 @@ There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 If you have questions about LAMICTAL XR, ask your healthcare provider or pharmacist.
 
+What is the most important information I should know about LAMICTAL XR?
+
 1.
 LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL XR; it may rarely cause death.
 
@@ -14,11 +16,11 @@ There is no way to tell if a mild rash will develop into a more serious reaction
 These serious skin reactions are more likely to happen when you begin taking LAMICTAL XR, within the first 2 to 8 weeks of treatment.
 But it can happen in people who have taken LAMICTAL XR for any period of time.
 Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking lamotrigine.
-LAMICTAL XR is not approved for use in children less than 13 years old.
+LAMICTAL XR is not approved for use in children less than 13 years of age.
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL XR while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)).
+- take LAMICTAL XR while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
 - take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
 - increase your dose of LAMICTAL XR faster than prescribed.
 
@@ -72,12 +74,31 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+3.
+LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+
+Call your healthcare provider right away if you have any of the following symptoms:
+
+- Headache
+- Fever
+- Nausea
+- Vomiting
+- Stiff neck
+- Rash
+- Unusual sensitivity to light
+- Muscle pains
+- Chills
+- Confusion
+- Drowsiness
+
+Meningitis has many causes other than LAMICTAL XR, which your doctor would check for if you developed meningitis while taking LAMICTAL XR.
+
 LAMICTAL XR can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL XR?”
 
-3.
+4.
 Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
 
 Taking the wrong medication can cause serious health problems.
@@ -92,15 +113,15 @@ Immediately call your pharmacist if you receive a LAMICTAL XR tablet that does n
 
 LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
-| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | 100 mg, orange with white centerImprinted withLAMICTALXR 100 | 200 mg, blue with white centerImprinted withLAMICTAL XR 200 |
+| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | 100 mg, orange with white centerImprinted withLAMICTALXR 100 | 200 mg, blue with white centerImprinted withLAMICTALXR 200 |
 | --- | --- | --- | --- |
 
 What is LAMICTAL XR?
 
-LAMICTAL XR is a prescription medicine used together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years or older.
+LAMICTAL XR is a prescription medicine used together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people aged 13 years or older.
 
-It is not known if LAMICTAL XR is safe or effective in children under the age of 13.
-Other forms of LAMICTAL can be used in children 2 to 12 years.
+It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
+Other forms of LAMICTAL can be used in children aged 2 to 12 years.
 
 Who should not take LAMICTAL XR?
 
@@ -217,6 +238,6 @@ Research Triangle Park, NC 27709
 ©2010, GlaxoSmithKline.
 All rights reserved.
 
-January 2010
+October 2010
 
-LXR:2MG
+LXR:3MG

@@ -7,7 +7,7 @@ Lamotrigine is very slightly soluble in water (0.17 mg/mL at 25°C) and slightly
 The structural formula is:
 
 LAMICTAL XR Extended-Release Tablets are supplied for oral administration as 25-mg (yellow with white center), 50-mg (green with white center), 100-mg (orange with white center), and 200-mg (blue with white center) tablets.
-Each tablet contains the labeled amount of lamotrigine and the following inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate; magnesium stearate; methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25-mg and 50-mg tablets only), titanium dioxide, triethyl citrate, iron oxide black (50-mg tablet only), iron oxide yellow (25-mg, 50-mg, 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200-mg tablet only).
+Each tablet contains the labeled amount of lamotrigine and the following inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate; magnesium stearate; methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25- and 50-mg tablets only), titanium dioxide, triethyl citrate, iron oxide black (50-mg tablet only), iron oxide yellow (25-, 50-, and 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200-mg tablet only).
 Tablets are printed with edible black ink.
 
 LAMICTAL XR Extended-Release Tablets contain a modified-release eroding formulation as the core.

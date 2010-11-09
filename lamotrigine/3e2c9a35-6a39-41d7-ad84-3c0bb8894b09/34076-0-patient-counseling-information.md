@@ -15,9 +15,9 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 Patients should be advised to notify their physician if worsening of seizure control occurs.
 
-## 17.4 CNS Adverse Effects
+## 17.4 Central Nervous System Adverse Effects
 
-Patients should be advised that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
+Patients should be advised that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL XR to gauge whether or not it adversely affects their mental and/or motor performance.
 
 ## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
@@ -36,14 +36,19 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
 Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL XR in combination with these medications.
 
 ## 17.8 Discontinuing LAMICTAL XR
 
 Patients should be advised to notify their physician if they stop taking LAMICTAL XR for any reason and not to resume LAMICTAL XR without consulting their physician.
 
-## 17.9 Potential Medication Errors
+## 17.9 Aseptic Meningitis
+
+Patients should be advised that LAMICTAL XR may cause aseptic meningitis.
+Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking LAMICTAL XR.
+
+## 17.10 Potential Medication Errors
 
 Medication errors involving LAMICTAL have occurred.
 In particular the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
@@ -53,7 +58,7 @@ Depictions of the LAMICTAL XR Extended-Release Tablets can be found in the Medic
 Each LAMICTAL XR tablet has a distinct color and white center, and is printed with “LAMICTAL XR” and the tablet strength.
 These distinctive features serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 LAMICTAL XR is supplied in round, unit-of-use bottles with orange caps containing 30 tablets.
-The label on the bottle includes a depiction of the tablets which further communicates to patients and pharmacists that the medication is LAMICTAL XR and the specific tablet strength included in the bottle.
+The label on the bottle includes a depiction of the tablets that further communicates to patients and pharmacists that the medication is LAMICTAL XR and the specific tablet strength included in the bottle.
 The unit-of-use bottle with a distinctive orange cap and distinctive bottle label features serves to identify the different presentations of the drug and thus may help to reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL XR each time they fill their prescription and to immediately talk to their doctor/pharmacist if they receive a LAMICTAL XR tablet without a white center and without “LAMICTAL XR” and the strength printed on the tablet as they may have received the wrong medication [see Dosage Forms and Strengths (3), How Supplied/Storage and Handling (16)].
 
@@ -66,6 +71,6 @@ Research Triangle Park, NC 27709
 ©2010, GlaxoSmithKline.
 All rights reserved.
 
-January 2010
+October 2010
 
-LXR:3PI
+LXR:4PI
