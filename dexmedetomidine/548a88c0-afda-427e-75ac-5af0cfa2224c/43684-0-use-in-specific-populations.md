@@ -2,40 +2,35 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Teratogenic effects were not observed following administration of Precedex at subcutaneous doses up to 200 mcg/kg in rats from day 5 to day 16 of gestation and intravenous doses up to 96 mcg/kg in rabbits from day 6 to day 18 of gestation.
-The dose in rats is approximately 2 times the maximum recommended human intravenous dose on a mcg/m2 basis.
-The exposure in rabbits is approximately equal to that in humans at the maximum recommended intravenous dose based on plasma area-under-the-curve values.
-However, fetal toxicity, as evidenced by increased post-implantation losses and reduced live pups, was observed in rats at subcutaneous dose of 200 mcg/kg.
-The no-effect dose was 20 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis).
-In another reproductive study when Precedex was administered subcutaneously to pregnant rats from gestation day 16 through nursing, it caused lower pup weights at 8 and 32 mcg/kg as well as fetal and embryocidal toxicity of second generation offspring at a dose of 32 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis).
-Precedex also produced delayed motor development in pups at a dose of 32 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis).
-No such effects were observed at a dose of 2 mcg/kg (less than the maximum recommended intravenous dose on a mcg/m2 basis).
+Pregnancy Category C:
 
-Placental transfer of Precedex was observed when radiolabeled Precedex was administered subcutaneously to pregnant rats.
+There are no adequate and well-controlled studies of Precedex use in pregnant women.
+In an in vitro human placenta study, placental transfer of dexmedetomidine occurred.
+In a study in the pregnant rat, placental transfer of dexmedetomidine was observed when radiolabeled dexmedetomidine was administered subcutaneously.
+Thus, fetal exposure should be expected in humans, and Precedex should be used during pregnancy only if the potential benefits justify the potential risk to the fetus.
 
-There are no adequate and well-controlled studies in pregnant women.
-Precedex should be used during pregnancy only if the potential benefits justify the potential risk to the fetus.
+Teratogenic effects were not observed in rats following subcutaneous administration of dexmedetomidine during the period of fetal organogenesis (from gestation day 5 to 16) with doses up to 200 mcg/kg (representing a dose approximately equal to the maximum recommended human intravenous dose based on body surface area) or in rabbits following intravenous administration of dexmedetomidine during the period of fetal organogenesis (from gestation day 6 to 18) with doses up to 96 mcg/kg (representing approximately half the human exposure at the maximum recommended dose based on plasma area under the time-curve comparison).
+However, fetal toxicity, as evidenced by increased post-implantation losses and reduced live pups, was observed in rats at a subcutaneous dose of 200 mcg/kg.
+The no-effect dose in rats was 20 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison).
+In another reproductive toxicity study when dexmedetomidine was administered subcutaneously to pregnant rats at 8 and 32 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison) from gestation day 16 through weaning, lower offspring weights were observed.
+Additionally, when offspring of the 32 mcg/kg group were allowed to mate, elevated fetal and embryocidal toxicity and delayed motor development was observed in second generation offspring.
 
 ## 8.2 Labor and Delivery
 
 The safety of Precedex during labor and delivery has not been studied.
-Therefore, Precedex is not recommended during labor and delivery including cesarean section deliveries.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether Precedex is excreted in human milk.
-Radio-labeled Precedex administered subcutaneously to lactating female rats was excreted in milk.
+Radio-labeled dexmedetomidine administered subcutaneously to lactating female rats was excreted in milk.
 Because many drugs are excreted in human milk, caution should be exercised when Precedex is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-There have been no clinical studies to establish the safety and efficacy of Precedex in pediatric patients below 18 years of age.
+The efficacy, safety, and pharmacokinetics of Precedex in pediatric patients less than 18 years of age have not been established.
 Therefore, Precedex should not be used in this population.
 
 ## 8.5 Geriatric Use
-
-Precedex is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection in elderly patients, and it may be useful to monitor renal function.
 
 Intensive Care Unit Sedation
 
@@ -53,8 +48,4 @@ A reduced loading dose of 0.5 mcg/kg given over 10 minutes is recommended and a 
 
 ## 8.6 Hepatic Impairment
 
-Since Precedex clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-## 8.7 Renal Impairment
-
-[see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+Since Precedex clearance decreases with increasing severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

@@ -19,7 +19,8 @@ However, in some patients with significant cardiovascular dysfunction, more adva
 Caution should be exercised when administering Precedex to patients with advanced heart block and/or severe ventricular dysfunction.
 Because Precedex decreases sympathetic nervous system activity, hypotension and/or bradycardia may be expected to be more pronounced in patients with hypovolemia, diabetes mellitus, or chronic hypertension and in elderly patients.
 
-In situations where other vasodilators or negative chronotropic agents are administered, co-administration of Precedex could have an additive pharmacodynamic effect and should be administered with caution.
+In clinical trials where other vasodilators or negative chronotropic agents were co-administered with Precedex an additive pharmacodynamic effect was not observed.
+Nonetheless, caution should be used when such agents are administered concomitantly with Precedex.
 
 ## 5.3 Transient Hypertension
 
@@ -35,13 +36,20 @@ This alone should not be considered as evidence of lack of efficacy in the absen
 
 Intensive Care Unit Sedation
 
-If Precedex were to be administered for more than 24 hours and stopped abruptly, withdrawal symptoms similar to those reported for another alpha-2-adrenergic agent, clonidine, may result.
-These symptoms include nervousness, agitation, and headaches, accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
+With administration up to 7 days, regardless of dose, 12 (5%) Precedex subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) Precedex subjects experienced at least 1 event 24 to 48 hours after end of study drug.
+The most common events were nausea, vomiting, and agitation.
+
+Tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
+If tachycardia and/or hypertension occurs after discontinuation of Precedex supportive therapy is indicated.
 
 Procedural Sedation
 
-Withdrawal symptoms were not seen after discontinuation of short term infusions of Precedex (< 6 hours).
+Withdrawal symptoms were not seen after discontinuation of short term infusions of Precedex (<6 hours).
 
-## 5.6 Hepatic Impairment
+## 5.6 Tolerance and Tachyphylaxis
+
+Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)].
+
+## 5.7 Hepatic Impairment
 
 Since Precedex clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2)].

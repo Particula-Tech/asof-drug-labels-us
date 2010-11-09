@@ -19,6 +19,6 @@ Orion Corporation
 
 Espoo, Finland
 
-| Printed in USA |  | EN-1937 |
-| --- | --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |  |
+Printed in USA EN-2680
+
+Hospira, Inc., Lake Forest, IL 60045 USA

@@ -4,12 +4,12 @@ The safety and efficacy of Precedex has been evaluated in four randomized, doubl
 
 ## 14.1 Intensive Care Unit Sedation
 
-Two randomized, double-blind, parallel-group, placebo-controlledmulticenter clinical trials included 754 patients being treated in a surgical intensive care unit.
+Two randomized, double-blind, parallel-group, placebo-controlled multicenter clinical trials included 754 patients being treated in a surgical intensive care unit.
 All patients were initially intubated and received mechanical ventilation.
-These trials evaluated the sedative properties of Precedex by comparing the amount of rescue medication (midazolam in one trial and propofol in the second) required to achieve a specified level of sedation (using the standardized Ramsay sedation scale) between Precedex and placebo from onset of treatment to extubation or to a total treatment duration of 24 hours.
-The Ramsay Level of Sedation Scale is displayed in Table 6.
+These trials evaluated the sedative properties of Precedex by comparing the amount of rescue medication (midazolam in one trial and propofol in the second) required to achieve a specified level of sedation (using the standardized Ramsay Sedation Scale) between Precedex and placebo from onset of treatment to extubation or to a total treatment duration of 24 hours.
+The Ramsay Level of Sedation Scale is displayed in Table 9.
 
-Table 6: Ramsay Level of Sedation Scale
+Table 9: Ramsay Level of Sedation Scale
 
 | Clinical Score | Level of Sedation Achieved |
 | --- | --- |
@@ -25,21 +25,26 @@ The study drug infusion rate was adjusted to maintain a Ramsay sedation score of
 Patients were allowed to receive “rescue” midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
 The primary outcome measure for this study was the total amount of rescue medication (midazolam) needed to maintain sedation as specified while intubated.
-Patients randomized to placebo received significantly more midazolam than patients randomized to Precedex (see Table 7).
+Patients randomized to placebo received significantly more midazolam than patients randomized to Precedex (see Table 10).
 
-A second prospective primary analysis assessed the sedative effects of Precedex by comparing the percentage of patients who achieved a Ramsay sedation score of≥3 during intubation without the use of additional rescue medication.
-A significantly greater percentage of patients in the Precedex group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 7).
+A second prospective primary analysis assessed the sedative effects of Precedex by comparing the percentage of patients who achieved a Ramsay sedation score of ≥3 during intubation without the use of additional rescue medication.
+A significantly greater percentage of patients in the Precedex group maintained a Ramsay sedation score of ≥3 without receiving any midazolam rescue compared to the placebo group (see Table 10).
 
-Table 7: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
+Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
-|  | PlaceboN=175 | PrecedexN=178 | p-value |
+|  | Placebo N=175 | Precedex N=178 | p-value |
 | --- | --- | --- | --- |
 | Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011* |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001** |
 | 0-4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
-| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center** Chi-square |  |  |  |
+
+ITT (intent-to-treat) population includes all randomized patients.
+
+* ANOVA model with treatment center.
+
+** Chi-square
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
@@ -51,25 +56,31 @@ Patients were allowed to receive “rescue” propofol as needed to augment the 
 In addition, morphine sulfate was administered as needed for pain.
 The primary outcome measure for this study was the total amount of rescue medication (propofol) needed to maintain sedation as specified while intubated.
 
-Patients randomized to placebo received significantly more propofol than patients randomized to Precedex (see Table 8).
+Patients randomized to placebo received significantly more propofol than patients randomized to Precedex (see Table 11).
 
-A significantly greater percentage of patients in the Precedex group compared to the placebo group maintained a Ramsay sedation score of≥3 without receiving any propofol rescue (see Table 8).
+A significantly greater percentage of patients in the Precedex group compared to the placebo group maintained a Ramsay sedation score of ≥3 without receiving any propofol rescue (see Table 11).
 
-Table 8: Propofol Use as Rescue Medication During Intubation (ITT)
+Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
-|  | PlaceboN=198 | PrecedexN=203 | p-value |
+|  | Placebo N=198 | Precedex N=203 | p-value |
 | --- | --- | --- | --- |
-| Study Two |  |  |  |
 | Mean Total Dose (mg) of PropofolStandard deviation | 513 mg782 mg | 72 mg249 mg | <0.0001* |
-| CategorizedPropofol Use |  |  |  |
+| Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
 | 0-50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
-| * ANOVA model with treatment center.** Chi-square |  |  |  |
+
+* ANOVA model with treatment center.
+
+** Chi-square
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.43 versus 0.89 mg/h).
 In addition, 41% (83 of 203 patients) of Precedex patients received no morphine sulfate for pain versus 15% (30 of 198 patients) in the placebo group.
+
+In a controlled clinical trial, Precedex was compared to midazolam for ICU sedation exceeding 24 hours duration.
+Precedex was not shown to be superior to midazolam for the primary efficacy endpoint, the percent of time patients were adequately sedated (81% versus 81%).
+In addition, administration of Precedex for longer than 24 hours was associated with tolerance, tachyphylaxis, and a dose-related increase in adverse events [see Adverse Reactions (6.1)].
 
 ## 14.2 Procedural Sedation
 
@@ -77,9 +88,9 @@ The safety and efficacy of Precedex for sedation of non-intubated patients prior
 Study 1 evaluated the sedative properties of Precedex in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
 Study 2 evaluated Precedex in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 
-In Study 1, the sedative properties of Precedex were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 9).
+In Study 1, the sedative properties of Precedex were evaluated by comparing the percent of patients not requiring rescue midazolam to achieve a specified level of sedation using the standardized Observer’s Assessment of Alertness/Sedation Scale (see Table 12).
 
-Table 9:Observer’s Assessment of Alertness/Sedation
+Table 12: Observer’s Assessment of Alertness/Sedation
 
 | Assessment Categories |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -95,22 +106,25 @@ The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer’s Assessment of Alertness/Sedation Scale ≤4.
 After achieving the desired level of sedation, a local or regional anesthetic block was performed.
 Demographic characteristics were similar between the Precedex and comparator groups.
-Efficacy results showed that Precedex was more effective than the comparator group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 10).
+Efficacy results showed that Precedex was more effective than the comparator group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 13).
 
-In Study 2, the sedative properties of Precedex were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥2 (see Table 6).
+In Study 2, the sedative properties of Precedex were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥2 (see Table 9).
 Patients were randomized to receive a loading infusion of Precedex 1 mcg/kg or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
 After achieving the desired level of sedation, topicalization of the airway occurred.
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain a Ramsay Sedation Scale ≥2.
 Demographic characteristics were similar between the Precedex and comparator groups.
-For efficacy results see Table 10.
+For efficacy results see Table 13.
 
-Table 10:Key Efficacy Results of Procedural Sedation Studies
+Table 13: Key Efficacy Results of Procedural Sedation Studies
 
-| Study | Loading Infusion Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidenceb Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidence Intervals of the Mean Rescue Dose |
+| Study | Loading Infusion Treatment Arm | Number of Patients Enrolleda | % Not Requiring Midazolam Rescue | Confidenceb Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidenceb Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 | Precedex 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
 | Precedex 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
 | placebo | 63 | 3 | — | 4.1 (3.0) | — |  |
 | Study 2 | Precedex 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
 | placebo | 50 | 14 | — | 2.9 (3.0) | — |  |
-| a Based on ITT population defined as all randomized and treated patients.b Normal approximation to the binomial with continuity correction. |  |  |  |  |  |  |
+
+aBased on ITT population defined as all randomized and treated patients.
+
+bNormal approximation to the binomial with continuity correction.
