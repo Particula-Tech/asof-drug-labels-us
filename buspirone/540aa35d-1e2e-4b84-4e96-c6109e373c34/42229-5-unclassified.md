@@ -1,3 +1,3 @@
-(Patient Instruction Sheet Included)
+Synthroid® is the registered trademark of Abbott Laboratories.
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1200451 Rev March 2007
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA Rev November 2010

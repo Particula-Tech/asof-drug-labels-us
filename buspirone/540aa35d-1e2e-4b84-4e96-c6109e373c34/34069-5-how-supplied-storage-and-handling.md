@@ -16,7 +16,5 @@ The 30 mg tablet has ID number 824 on one side and on the reverse side, the numb
 
 30 mg tablets NDC 0087-0824-81 Bottles of 60
 
-US Patent No. 5,015,646
-
 Store at 25° C (77° F); excursions permitted between 15° C to 30° C (59° F to 86° F) [see USP controlled room temperature].
 Dispense in a tight, light-resistant container (USP).

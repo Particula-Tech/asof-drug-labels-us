@@ -4,7 +4,7 @@ BuSpar® (buspirone hydrochloride tablets, USP) is an antianxiety agent that is 
 
 Buspirone hydrochloride is a white crystalline, water soluble compound with a molecular weight of 422.0.
 Chemically, buspirone hydrochloride is 8-[4-[4-(2-pyrimidinyl)-1-piperazinyl]butyl]-8-azaspiro[4.5]decane-7,9-dione monohydrochloride.
-The empirical formula C21H31N5O2• HCl is represented by the following structural formula:
+The empirical formula C21H31N5O2 • HCl is represented by the following structural formula:
 
 BuSpar is supplied as tablets for oral administration containing 5 mg, 10 mg, 15 mg, or 30 mg of buspirone hydrochloride, USP (equivalent to 4.6 mg, 9.1 mg, 13.7 mg, and 27.4 mg of buspirone free base, respectively).
 The 5 mg and 10 mg tablets are scored so they can be bisected.

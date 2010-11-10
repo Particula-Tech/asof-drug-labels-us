@@ -16,10 +16,10 @@ Each tablet is scored and can be broken accurately to provide any of the followi
 | 20 mg (two thirds of a tablet) |  | 10 mg (two thirds of a tablet) |
 | 10 mg (one third of a tablet) |  | 5 mg (one third of a tablet) |
 | 15 mg (one half of a tablet) |  | 7.5 mg (one half of a tablet) |
-|  | # 822 on 15 mg and |  |
+|  | #822 on 15 mg and |  |
 |  | 824 on 30 mg tablet |  |
 
 To break a DIVIDOSE tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the photo.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA 1200451 Rev March 2007
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA Rev November 2010

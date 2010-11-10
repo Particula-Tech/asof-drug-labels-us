@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018731"
+  ],
   "inn": "buspirone",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Bristol-Myers Squibb Company",
   "package_ndcs": [
     "0087-0818-41",
     "0087-0819-41",
@@ -9,7 +11,13 @@
     "0087-0822-33",
     "0087-0824-81"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buspirone hydrochloride",
+      "name": "BUSPAR"
+    }
+  ],
   "setid": "540aa35d-1e2e-4b84-4e96-c6109e373c34",
   "source": "dailymed"
 }

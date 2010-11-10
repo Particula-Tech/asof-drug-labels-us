@@ -48,7 +48,7 @@ After multiple-dose administration of buspirone to patients with hepatic impairm
 
 ### Renal Impairment
 
-After multiple-dose administration of buspirone to renally impaired (Clcr = 10–70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4-fold compared with healthy (Clcr≥80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
+After multiple-dose administration of buspirone to renally impaired (Clcr = 10–70 mL/min/1.73 m2) patients, steady-state AUC of buspirone increased 4-fold compared with healthy (Clcr ≥80 mL/min/1.73 m2) subjects (see PRECAUTIONS).
 
 ### Race Effects
 
