@@ -4,13 +4,9 @@
 
 Taclonex Scalp® Topical Suspension is available in bottles of:
 
-15 g (NDC 50222-501-02)
-
 30 g (NDC 50222-501-03)
 
 60 g (NDC 50222-501-06)
-
-2 x 60 g (NDC 50222-501-66)
 
 ## 16.2 Storage
 

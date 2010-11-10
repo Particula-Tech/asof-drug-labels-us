@@ -99,7 +99,7 @@ Taclonex Scalp® Topical Suspension can pass through your skin and be absorbed i
 
 Serious side effects may include:
 
-- too much calcium in your blood
+- too much calcium in your blood or urine
 - adrenal gland problems
 
 Your doctor may do special blood and urine tests to check your calcium levels and adrenal gland function while you are using Taclonex Scalp® Topical Suspension.
