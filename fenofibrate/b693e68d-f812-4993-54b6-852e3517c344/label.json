@@ -7,13 +7,14 @@
   "package_ndcs": [
     "0074-6122-71",
     "0074-6122-90",
+    "0074-6123-71",
     "0074-6123-90"
   ],
   "products": [
     {
       "form": "TABLET",
       "generic": "fenofibrate",
-      "name": "TRICOR"
+      "name": "Tricor"
     }
   ],
   "setid": "b693e68d-f812-4993-54b6-852e3517c344",

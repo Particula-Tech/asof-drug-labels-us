@@ -1,11 +1,11 @@
 NDC 0074–6122–90
 
-TriCor® Fenofibrate Tablets 48 mg 90 Tablets Rx only Abbott
+TriCor® Fenofibrate Tablets 48 mg
 
-NDC 0074–6122–71
+90 Tablets
 
-Physician Sample — Not for Sale 4 Physician Samples (7 Tablets each) Solvay
+NDC 0074–6123–90
 
-This Package for Households without Young Children
+TriCor® Fenofibrate Tablets 145 mg
 
-TriCor® Fenofibrate Tablets 48 mg Rx only Abbott
+90 Tablets

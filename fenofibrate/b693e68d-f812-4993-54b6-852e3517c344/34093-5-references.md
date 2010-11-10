@@ -13,7 +13,9 @@
    6, pp.
    670-678, 1986.
 
-Abbott Laboratories North Chicago, IL 60064, U.S.A.
+Manufactured for Abbott Laboratories, North Chicago, IL 60064, U.S.A.
+
+by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.
 
 Rev.
-12/2008
+10/2010

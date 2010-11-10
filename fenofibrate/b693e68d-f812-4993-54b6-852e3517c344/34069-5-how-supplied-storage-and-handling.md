@@ -13,7 +13,3 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature].
 Keep out of the reach of children.
 Protect from moisture.
-
-Manufactured for Abbott Laboratories, North Chicago, IL 60064, U.S.A.
-
-by Fournier Laboratories Ireland Limited, Anngrove, Carrigtwohill Co. Cork, Ireland.

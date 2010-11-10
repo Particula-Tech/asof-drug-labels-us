@@ -94,7 +94,9 @@ Bile acid sequestrants have been shown to bind other drugs given concurrently.
 Therefore, fenofibrate should be taken at least 1 hour before or 4-6 hours after a bile acid binding resin to avoid impeding its absorption.
 (See WARNINGS and PRECAUTIONS).
 
-Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) with pravastatin (40 mg) once daily for 10 days has been shown to increase the mean Cmax and AUC values for pravastatin by 36% (range from 69% decrease to 321% increase) and 28% (range from 54% decrease to 128% increase), respectively, and for 3α-hydroxy-iso-pravastatin by 55% (range from 32% decrease to 314% increase) and 39% (range from 24% decrease to 261% increase), respectively in 23 healthy adults.
+Concomitant administration of a single dose of fenofibrate (administered as 3 X 67 mg TRICOR micronized capsules) with a single dose of pravastatin (40 mg) in 23 healthy subjects increased the mean Cmax and mean AUC for pravastatin by 13%.
+The Cmax and AUC of fenofibrate decreased by 2% and 1%, respectively, after concomitant administration of fenofibrate and pravastatin.
+The mean Cmax and AUC for 3α-hydroxy-iso-pravastatin increased by 29% and 26%, respectively.
 
 Concomitant administration of a single dose of fenofibrate (equivalent to 145 mg TRICOR) and a single dose of fluvastatin (40 mg) resulted in a small increase (approximately 15-16%) in exposure to (+)3R,5S-fluvastatin, the active enantiomer of fluvastatin.
 
@@ -113,9 +115,6 @@ Glimepiride had no significant effect on the pharmacokinetics of fenofibric acid
 Concomitant administration of fenofibrate (54 mg) and metformin (850 mg) three times a day for 10 days resulted in no significant changes in the pharmacokinetics of fenofibric acid and metformin when compared with the two drugs administered alone in healthy subjects.
 
 Concomitant administration of fenofibrate (equivalent to TRICOR 145 mg) once daily for 14 days with rosiglitazone tablet (rosiglitazone maleate) (8 mg) once daily for 5 days, Day 10 through Day 14, resulted in no significant changes in the pharmacokinetics of fenofibric acid and rosiglitazone when compared with the two drugs administered alone in healthy subjects.
-
-Concomitant administration of fenofibrate (145 mg TRICOR) with ezetimibe (10 mg) once daily for 10 days to 18 healthy adults resulted in increases in total ezetimibe AUC, Cmax and Cmin of approximately 43%, 33% and 56%, respectively, and increases in ezetimibe glucuronide AUC, Cmax and Cmin of approximately 49%, 34% and 62%, respectively.
-The pharmacokinetics of fenofibric acid were not significantly affected by ezetimibe and the multiple-dose pharmacokinetics of free (unconjugated) ezetimibe were not significantly affected by fenofibrate.
 
 ## Clinical Trials
 
@@ -142,7 +141,7 @@ Mean Percent Change in Lipid Parameters at End of Treatment†
 | Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
 | All FEN (n=126) | -16.8%* | -20.1%* | +14.6%* | -35.9%* |
 | Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
-| † Duration of study treatment was 3 to 6 months.* p = < 0.05 vs. Placebo |  |  |  |  |
+| † Duration of study treatment was 3 to 6 months. * p = < 0.05 vs. Placebo |  |  |  |  |
 
 In a subset of the subjects, measurements of apo B were conducted.
 TRICOR treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p < 0.0001, n=213 and 143 respectively).
