@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022450"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Cadence Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "43825-102-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Ofirmev"
+    }
+  ],
+  "setid": "c5177abd-9465-40d8-861d-3904496d82b7",
+  "source": "dailymed"
+}
