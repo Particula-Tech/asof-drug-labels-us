@@ -74,7 +74,7 @@ The most common side effects are: • itching • rash Other less common side ef
 Serious side effects are more likely to happen if you use too much Taclonex® Ointment, use it for too long, or use it with other topical medicines that contain corticosteroids, calcipotriene, or certain other ingredients.
 Check with your doctor before using other topical medicines.
 Taclonex® Ointment can pass through your skin.
-Serious side effects may include: • too much calcium in your blood • adrenal gland problems Your doctor may do special blood and urine tests to check your calcium levels and adrenal gland function while you are using Taclonex® Ointment.
+Serious side effects may include: • too much calcium in your blood or urine • adrenal gland problems Your doctor may do special blood and urine tests to check your calcium levels and adrenal gland function while you are using Taclonex® Ointment.
 Call your doctor about any side effect that bothers you or that does not go away.
 These are not all of the side effects with Taclonex® Ointment.
 Ask your doctor or pharmacist for more information.
@@ -92,4 +92,4 @@ Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
 Inactive ingredients: mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol, white petrolatum.
 
 Manufactured by: LEO Laboratories Ltd. (LEO Pharma) Dublin, Ireland Distributed by: LEO Pharma Inc. 1 Sylvan Way, Parsippany, NJ 07054 USA 1-877-494-4536 U.S. Patent Nos.: RE39,706 E and 6,753,013.
-024598-01 024599-01 Revised: 06/2010
+024598-01 024599-01 Revised: 11/2010
