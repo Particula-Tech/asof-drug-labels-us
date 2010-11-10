@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021710"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-419-12",
+    "30698-421-12",
+    "30698-423-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "Equetro"
+    }
+  ],
+  "setid": "be478f3c-40f6-47cc-8ab9-f420a9372b1c",
+  "source": "dailymed"
+}
