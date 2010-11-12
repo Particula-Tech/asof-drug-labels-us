@@ -14,7 +14,7 @@ Patients should be aware of the signs and symptoms of infection and should repor
 
 ## 17.3 Oral Ulceration
 
-Inform patients of the possibility of developing mouth ulcers, stomatitis and oral mucositis.
+Inform patients of the possibility of developing mouth ulcers, stomatitis, and oral mucositis.
 In such cases, mouthwashes and/or topical treatments are recommended, but these should not contain alcohol or peroxide [see Warnings and Precautions (5.3)].
 
 ## 17.4 Laboratory Tests and Monitoring
@@ -23,15 +23,18 @@ Inform patients of the need to monitor blood chemistry and hematology prior to t
 
 ## 17.5 Drug-drug Interactions
 
-Avoid concurrent treatment with strong CYP3A4 and PgP inhibitors.
-Use caution if AFINITOR must be co-administered with moderate CYP3A4 and PgP inhibitors; reduce the dose and carefully monitor the patient for undesirable effects.
-Avoid concurrent treatment with strong CYP3A4 and PgP inducers.
+Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.5), Drug Interactions (7.1, 7.2)].
+
+Avoid concurrent treatment with strong CYP3A4 inhibitors.
+Use caution if AFINITOR must be co-administered with moderate CYP3A4 and/or PgP inhibitors; reduce the dose and carefully monitor the patient for undesirable effects.
+Avoid concurrent treatment with strong CYP3A4 inducers.
 If AFINITOR must be co-administered with strong CYP3A4 inducers, consider a dose increase and carefully monitor the patient for clinical response.
-Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements [see Dosage and Administration (2.2), Warnings and Precautions (5.5) and Drug-drug Interactions (7.1 and 7.2)].
 
 ## 17.6 Hepatic Impairment
 
-Advise patients that AFINITOR is not recommended in patients with severe hepatic impairment (Child-Pugh class C). Prescribe a reduced dose of 5 mg AFINITOR per day for patients with moderate hepatic impairment (Child Pugh class B) [see Dosage and Administration (2), Warnings and Precautions (5.6) and Clinical Pharmacology (12)].
+Advise patients that AFINITOR is not recommended in patients with severe hepatic impairment (Child-Pugh class C). For advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), prescribe a reduced dose of 5 mg AFINITOR per day [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Clinical Pharmacology (12)].
+For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
+However, subsequent dosing should be individualized based on therapeutic drug monitoring [Warnings and Precautions (5.6) and Clinical Pharmacology (12)].
 
 ## 17.7 Vaccinations
 
@@ -43,9 +46,11 @@ Advise female patients of childbearing potential that AFINITOR may cause fetal h
 
 ## 17.9 Dosing Instructions
 
-Inform patients to take AFINITOR once daily at the same time every day, either with or without food.
+Inform patients to take AFINITOR orally once daily at the same time every day, either consistently with food or consistently without food.
 The tablets should not be crushed or chewed.
-AFINITOR should be swallowed whole with a full glass of water.
+AFINITOR should be swallowed whole with a glass of water.
+For patients unable to swallow tablets, AFINITOR tablet(s) should be dispersed completely in a glass of water (containing approximately 30 mL) by gently stirring, immediately prior to drinking.
+The glass should be rinsed with the same volume of water and the rinse should be completely swallowed to ensure that the entire dose is administered.
 
 Instruct patients that if they miss a dose of AFINITOR, they may still take it up to 6 hours after the time they would normally take it.
 If more than 6 hours have elapsed, they should be instructed to skip the dose for that day.

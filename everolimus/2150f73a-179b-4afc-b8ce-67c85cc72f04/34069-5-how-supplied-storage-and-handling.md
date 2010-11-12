@@ -4,7 +4,8 @@
 
 White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “LCL” on one side and “NVR” on the other; available in:
 
-Blisters of 28 tablets NDC 0078-0594-51
+Blisters of 28 tablets……………………………………………………………………………………...
+0078-0594-51
 
 Each carton contains 4 blister cards of 7 tablets each
 
@@ -12,7 +13,7 @@ Each carton contains 4 blister cards of 7 tablets each
 
 White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “5” on one side and “NVR” on the other; available in:
 
-Blisters of 28 tablets NDC 0078-0566-51
+Blisters of 28 tablets……………………………………………………………………………………...NDC 0078-0566-51
 
 Each carton contains 4 blister cards of 7 tablets each
 
@@ -20,12 +21,12 @@ Each carton contains 4 blister cards of 7 tablets each
 
 White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “UHE” on one side and “NVR” on the other; available in:
 
-Blisters of 28 tablets NDC 0078-0567-51
+Blisters of 28 tablets……………………………………………………………………………………...NDC 0078-0567-51
 
 Each carton contains 4 blister cards of 7 tablets each
 
-Store AFINITOR (everolimus) tablets at 25° C (77°F); excursions permitted between 15°–30°C (59°–86°F).
-[See USP Controlled Room Temperature.]
+Store AFINITOR (everolimus) tablets at 25°C (77°F); excursions permitted between 15°–30°C (59°–86°F).
+See USP Controlled Room Temperature.
 Store in the original container, protect from light and moisture.
 Keep this and all drugs out of the reach of children.
 

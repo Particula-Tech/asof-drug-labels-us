@@ -1,12 +1,10 @@
 PATIENT INFORMATION
 
-AFINITOR®
-
-(a-fin-it-or)
+AFINITOR® (a-fin-it-or)
 
 (everolimus)
 
-Tablets
+tablets
 
 Read this patient information leaflet that comes with AFINITOR before you start taking it and each time you get a refill.
 There may be new information.
@@ -21,11 +19,7 @@ You may develop lung or breathing problems.
 In some people lung or breathing problems may be severe, and can even lead to death.
 You may need to stop taking AFINITOR for a while or use a lower dose.
 
-Tell your healthcare provider right away if you have any of these symptoms:
-
-- new or worsening cough
-- shortness of breath
-- difficulty breathing or wheezing
+Tell your healthcare provider right away if you have any of these symptoms: • New or worsening cough • Shortness of breath • Difficulty breathing or wheezing
 
 2.
 You may be more likely to develop an infection, such as pneumonia, or a bacterial, fungal or viral infection.
@@ -33,27 +27,21 @@ Viral infections may include active hepatitis B in people who have had hepatitis
 In some people these infections may be severe, and can even lead to death.
 You may need to be treated as soon as possible.
 
-Tell your healthcare provider right away if you have a temperature of 100.5˚ F or above, chills, or do not feel well.
+Tell your healthcare provider right away if you have a temperature of 100.5˚F or above, chills, or do not feel well.
 
-Symptoms of hepatitis B or infection may include the following:
-
-- Fever
-- Skin rash
-- Joint pain and inflammation
-- Tiredness
-- Loss of appetite
-- Nausea
-- Pale stool or dark urine
-- Yellowing of the skin
-- Pain in your upper right side
+Symptoms of hepatitis B or infection may include the following: • Fever • Skin rash • Joint pain and inflammation • Tiredness • Loss of appetite • Nausea • Pale stool or dark urine • Yellowing of the skin • Pain in your upper right side
 
 What is AFINITOR?
 
-AFINITOR is a prescription medicine used to treat people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other treatments have not worked.
+AFINITOR is a prescription medicine used to treat:
+
+- people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked
+- subependymal giant cell astrocytoma (SEGA), a brain tumor seen with a genetic condition called tuberous sclerosis (TS)
 
 AFINITOR may slow the growth and spread of kidney cancer.
 
-It is not known if AFINITOR is safe and effective in children.
+AFINITOR may reduce the size of SEGA brain tumors that are seen with TS.
+It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
 
 Who should not take AFINITOR?
 
@@ -68,17 +56,17 @@ Ask your healthcare provider if you do not know.
 
 What should I tell my healthcare provider before taking AFINITOR?
 
-Before taking AFINITOR, tell your healthcare provider about all of your medical conditions including if you:
+Before taking AFINITOR, tell your healthcare provider about all of your medical conditions, including if you:
 
-- Have or have had liver problems.
-- Have diabetes or high blood sugar.
-- Have high blood cholesterol levels.
+- Have or have had liver problems
+- Have diabetes or high blood sugar
+- Have high blood cholesterol levels
 - Have any infections
 - Previously had hepatitis B
 - Are scheduled to receive any vaccinations.
   You should not receive a live vaccine or be around people who have recently received a live vaccine during your treatment with AFINITOR.
   If you are not sure about the type of immunization or vaccine, ask your healthcare provider.
-- Other medical conditions
+- Have other medical conditions.
 - Are pregnant, or could become pregnant.
   It is not known if AFINITOR will harm your unborn baby.
   You should use effective birth control while using AFINITOR and for 8 weeks after stopping treatment.
@@ -96,19 +84,12 @@ Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 Especially tell your healthcare provider if you take:
 
-- St. John’s Wort (also known as Hypericum perforatum)
-- Medicine for:
-  - Fungal infections
-  - Bacterial infections
-  - Tuberculosis
-  - Seizures
-  - HIV-AIDS
-  - Heart conditions or high blood pressure
-
+- St. John’s Wort (Hypericum perforatum)
+- Medicine for: ○ Fungal infections ○ Bacterial infections ○ Tuberculosis ○ Seizures ○ HIV-AIDS ○ Heart conditions or high blood pressure
 - Medicines that suppress your immune system
 
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one of those taken for the conditions listed above.
-If you are taking any medicines for the conditions listed above, your healthcare provider might need to prescribe a different medicine.
+If you are taking any medicines for the conditions listed above, your healthcare provider might need to prescribe a different medicine or your dose of AFINITOR may need to be changed.
 You should also tell your healthcare provider before you start taking any new medicine.
 
 How should I take AFINITOR?
@@ -118,10 +99,11 @@ How should I take AFINITOR?
   Your healthcare provider may change your dose of AFINITOR if needed.
 - Swallow AFINITOR tablets whole with a glass of water.
   Do not crush or chew the tablets.
-  If you cannot swallow AFINITOR tablets whole, tell your healthcare provider.
+  Do not take any tablet that is broken or crushed.
+- If you cannot swallow AFINITOR tablets whole, you can stir them into a glass of water: ○ Put the prescribed number of tablets into a glass that contains about 2 Tablespoons (30 mL) of water ○ Gently stir the contents until the tablets break apart and then drink the mixture right away ○ Add about 2 Tablespoons (30 mL) of water to the glass and drink all of the water.
+  This will help to make sure that you get the full dose of AFINITOR.
 - Take AFINITOR one time every day, at about the same time every day.
-- You can take AFINITOR with or without food.
-- Do not take any tablet that is broken or crushed.
+- Take AFINITOR the same way each time, either with food or without food.
 - You may use scissors to open the blister to avoid spillage.
 - If you take too much AFINITOR contact your healthcare provider or go to the nearest hospital emergency department right away.
   Take the pack of AFINITOR with you.
@@ -130,13 +112,14 @@ How should I take AFINITOR?
   The next day, take AFINITOR at your usual time.
   Do not take 2 doses to make up for the one that you missed.
   If you are not sure about what to do, call your healthcare provider.
-
-You should have regular blood tests before you start AFINITOR and as needed during your treatment.
-These will include tests to check your kidney and liver function, and blood sugar levels.
+- You should have regular blood tests before you start AFINITOR and as needed during your treatment.
+  These will include tests to check your kidney and liver function, and blood sugar levels.
+- If you take AFINITOR to treat SEGA, you will need to have regular blood tests to measure how much AFINITOR is in your blood.
+  This will help your doctor decide how much AFINITOR you need to take.
 
 What should I avoid while taking AFINITOR?
 
-You should not drink grapefruit juice, or eat grapefruit, starfruit or Seville oranges during your treatment with AFINITOR.
+You should not drink grapefruit juice or eat grapefruit during your treatment with AFINITOR.
 It may make the amount of AFINITOR in your blood increase to a harmful level.
 
 What are the possible side effects of AFINITOR?
@@ -144,25 +127,48 @@ What are the possible side effects of AFINITOR?
 AFINITOR can cause serious side effects.
 See “What is the most important information I should know about AFINITOR?”
 
-Common side effects of AFINITOR include:
+Common side effects of AFINITOR in patients with advanced kidney cancer include:
 
-- mouth ulcers.
+- Mouth ulcers.
   AFINITOR can cause mouth ulcers and sores.
   Tell your healthcare provider if you have pain, discomfort, or open sores in your mouth.
   Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol or peroxide.
-- feeling weak or tired
-- cough, shortness of breath
-- diarrhea
-- rash, dry skin, and itching
-- nausea and vomiting
-- fever
-- loss of appetite
-- swelling of arms, hands, feet, ankles, face or other parts of the body
-- abnormal taste
-- inflammation of lining of the digestive system
-- headache
-- nose bleeds
-- pain in arms and legs
+- Feeling weak or tired
+- Cough, shortness of breath
+- Diarrhea
+- Rash, dry skin, and itching
+- Nausea and vomiting
+- Fever
+- Loss of appetite
+- Swelling of arms, hands, feet, ankles, face or other parts of the body
+- Abnormal taste
+- Inflammation of lining of the digestive system
+- Headache
+- Nose bleeds
+- Pain in arms and legs
+
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
+
+Common side effects of AFINITOR in patients with SEGA include:
+
+- Infections of the respiratory tract, sinuses and ears
+- Mouth ulcers.
+  AFINITOR can cause mouth ulcers and sores.
+  Tell your healthcare provider if you have pain, discomfort, or open sores in your mouth.
+  Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol or peroxide.
+- Diarrhea and constipation
+- Vomiting
+- Stomach pain
+- Fever
+- Seizure
+- Headache
+- Dizziness
+- Skin problems (such as rash, acne, dry skin, or scratching of the skin)
+- Cough
+- Stuffy or runny nose
+- Change in personality
+- Low white blood cells (a type of blood cell that fights infection; your doctor will periodically check)
+- High levels of fats in the blood (raised triglycerides)
 
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
@@ -174,7 +180,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store AFINITOR?
 
-- Keep AFINITOR at room temperature, between 59° to 86°F (15° to 30°C).
+- Store AFINITOR at room temperature, between 59°F to 86°F (15°C to 30°C).
 - Keep AFINITOR in the package it comes in.
 - Open the blister package just before taking AFINITOR.
 - Keep the blister package and tablets dry.
@@ -200,20 +206,12 @@ What are the ingredients in AFINITOR?
 
 Active ingredient: everolimus.
 
-Inactive ingredients: butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone, lactose anhydrous.
+Inactive ingredients: butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone, and lactose anhydrous.
 
-Manufactured by:
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
-Novartis Pharma Stein AG
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Stein, Switzerland
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-T2010-56/T2010-57
+Revised 10/2010 T2010-97/T2010-98
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
