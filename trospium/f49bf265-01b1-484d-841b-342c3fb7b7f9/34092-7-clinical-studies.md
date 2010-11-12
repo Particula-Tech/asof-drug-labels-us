@@ -49,7 +49,7 @@ Mean (SE) change from baseline to end of treatment (Week 12 or last observation 
 | Mean change from baseline | -1.8 (0.2) | -2.7 (0.2) | <0.001 |
 | Urge incontinence episodes/week b |  |  |  |
 | Mean baseline | 27.3 | 26.9 |  |
-| Mean change from baseline | -12.1(1.0) | -16.1(1.0) | <0.001 |
+| Mean change from baseline | -12.1 (1.0) | -16.1 (1.0) | <0.001 |
 | Urinary void volume/toilet void (mL) a, c |  |  |  |
 | Mean baseline | 154.6 | 154.8 |  |
 | Mean change from baseline | 9.4 (2.8) | 35.6 (2.8) | <0.001 |

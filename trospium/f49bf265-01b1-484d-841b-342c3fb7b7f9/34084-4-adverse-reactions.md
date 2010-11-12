@@ -16,7 +16,7 @@ In the two Phase 3 U.S. studies, dry mouth led to discontinuation in 1.9% of pat
 For the patients who reported dry mouth, most had their first occurrence of the event within the first month of treatment.
 
 Table 4.
-Incidence (%) of adverse events judged at least possibly related to treatment with SANCTURA®, reported in ≥1% of all patients treated with SANCTURA® and more frequent with SANCTURA® (20 mg BID) than placebo in Studies 1 and 2 combined.
+Incidence (%) of adverse events judged at least possibly related to treatment with SANCTURA®, reported in ≥ 1% of all patients treated with SANCTURA® and more frequent with SANCTURA® (20 mg BID) than placebo in Studies 1 and 2 combined.
 
 | Adverse Event | Placebo (N=590) | SANCTURA® 20 mg BID (N= 591) |
 | --- | --- | --- |
@@ -29,11 +29,11 @@ Incidence (%) of adverse events judged at least possibly related to treatment wi
 | Flatulence | 5 (0.8) | 7 (1.2) |
 | Nervous system disorders |  |  |
 | Headache | 12 (2.0) | 25 (4.2) |
-| General Disorders |  |  |
+| General disorders |  |  |
 | Fatigue | 8 (1.4) | 11 (1.9) |
-| Renal and Urinary Disorders |  |  |
+| Renal and urinary disorders |  |  |
 | Urinary retention | 2 (0.3) | 7 (1.2) |
-| Eye Disorders |  |  |
+| Eye disorders |  |  |
 | Dry eyes NOS | 2 (0.3) | 7 (1.2) |
 | Abbreviations: BID=twice daily, NOS=not otherwise specified. |  |  |
 

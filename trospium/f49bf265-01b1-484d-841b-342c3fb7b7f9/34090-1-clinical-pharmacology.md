@@ -22,7 +22,7 @@ SANCTURA® exhibits diurnal variability in exposure with a decrease in Cmax and 
 
 Effect of Food: Administration with a high fat meal resulted in reduced absorption, with AUC and Cmax values 70-80% lower than those obtained when SANCTURA® was administered while fasting.
 Therefore, it is recommended that SANCTURA® should be taken at least one hour prior to meals or on an empty stomach.
-(See DOSAGE AND ADMINISTRATION and PRECAUTIONS: Information for Patients).
+(See DOSAGE AND ADMINISTRATION and PRECAUTIONS: Information for Patients.)
 
 Distribution: Protein binding ranged from 50 to 85% when therapeutic concentration levels (0.5-50 ng/mL) were incubated with human serum in vitro.
 
@@ -40,12 +40,12 @@ Excretion: The plasma half-life for SANCTURA® following oral administration is 
 After administration of oral 14C-trospium chloride, the majority of the dose (85.2%) was recovered in feces and a smaller amount (5.8% of the dose) was recovered in urine; 60% of the radioactivity excreted in urine was unchanged trospium.
 
 The mean renal clearance for trospium (29.07 L/hour) is 4-fold higher than average glomerular filtration rate, indicating that active tubular secretion is a major route of elimination for trospium.
-There may be competition for elimination with other compounds that are also renally eliminated (See PRECAUTIONS: Drug Interactions).
+There may be competition for elimination with other compounds that are also renally eliminated (see PRECAUTIONS: Drug Interactions).
 
 A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of SANCTURA® is provided in Table 1.
 
 Table 1.
-Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® Dose in Healthy Volunteers.
+Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® Dose in Healthy Volunteers
 
 | Cmax (ng/mL) | AUC0-∞ (ng/mL•hr) | Tmax (hr) | t½ (hr) |
 | --- | --- | --- | --- |
@@ -53,13 +53,12 @@ Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® D
 
 The mean plasma concentration-time (+ SD) profile for SANCTURA® is shown in Figure 1.
 
-Figure 1.
-Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose of SANCTURA® in Healthy Volunteers.
+Figure 1 - Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose of SANCTURA® in Healthy Volunteers.
 
 ## Pharmacokinetics in Special Populations
 
 Age: Age did not appear to significantly affect the pharmacokinetics of SANCTURA®, however, increased anticholinergic side effects unrelated to drug exposure were observed in patients ≥75 years of age.
-(See PRECAUTIONS: Geriatric Use and DOSAGE AND ADMINISTRATION).
+(See PRECAUTIONS: Geriatric Use and DOSAGE AND ADMINISTRATION.)
 
 Pediatric: The pharmacokinetics of SANCTURA® were not evaluated in pediatric patients.
 
@@ -73,18 +72,18 @@ Renal Insufficiency: Severe renal impairment significantly altered the dispositi
 A 4.5-fold and 2-fold increase in mean AUC0-∞ and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hr) was detected in patients with severe renal insufficiency (CLcr < 30 mL/min) compared with healthy, nearly age-matched subjects.
 The different pharmacokinetic behavior of SANCTURA® in patients with severe renal insufficiency necessitates adjustment of dosage frequency.
 The pharmacokinetics of SANCTURA® have not been studied in people with moderate or mild renal impairment (CLcr ranging from 30-80 mL/min).
-(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)
 
 Hepatic Insufficiency: There is no information regarding the effect of moderate to severe hepatic impairment on exposure to SANCTURA®.
 Caution should be used when administering SANCTURA® to patients with moderate and severe hepatic dysfunction.
-(See PRECAUTIONS: General).
+(See PRECAUTIONS: General.)
 
 ## Drug-Drug Interactions
 
 SANCTURA® is metabolized by ester hydrolysis and excreted by the kidneys by a combination of tubular secretion and glomerular filtration.
 Based on in vitro data, no clinically relevant interactions with the metabolism of trospium are expected.
 However, some drugs which are actively secreted may interact with trospium by competing for renal tubular secretion.
-(See PRECAUTIONS: Drug Interactions).
+(See PRECAUTIONS: Drug Interactions.)
 
 Concomitant use of SANCTURA® and digoxin did not affect the pharmacokinetics of either drug.
 
@@ -96,7 +95,7 @@ The 100 mg BID dose of SANCTURA® was chosen because this achieves the Cmax expe
 SANCTURA® was not associated with an increase in individual corrected (QTcI) or Fridericia corrected (QTcF) QT interval at any time during steady state measurement, while moxifloxacin was associated with a 6.4 msec increase in QTcF.
 
 In this study, asymptomatic, non-specific T wave inversions were observed more often in subjects receiving SANCTURA® than in subjects receiving moxifloxacin or placebo following five days of treatment.
-This finding was not observed during routine safety monitoring in 2 other placebo-controlled clinical trials in 591 SANCTURA®-treated overactive bladder patients (See CLINICAL STUDIES).
+This finding was not observed during routine safety monitoring in 2 other placebo-controlled clinical trials in 591 SANCTURA®-treated overactive bladder patients (see CLINICAL STUDIES).
 The clinical significance of T wave inversion in this study is unknown.
 SANCTURA® is associated with an increase in heart rate that correlates with increasing plasma concentrations.
 In the study described above, SANCTURA® demonstrated a mean increase in heart rate compared to placebo of 9.1 bpm for the 20 mg dose and of 18.0 bpm for the 100 mg dose.

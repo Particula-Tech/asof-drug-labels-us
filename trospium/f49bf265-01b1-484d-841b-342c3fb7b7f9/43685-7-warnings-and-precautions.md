@@ -4,15 +4,15 @@
 
 Risk of Urinary Retention: SANCTURA® should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
 
-Decreased Gastrointestinal Motility: SANCTURA® should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (See CONTRAINDICATIONS).
+Decreased Gastrointestinal Motility: SANCTURA® should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (see CONTRAINDICATIONS).
 SANCTURA®, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis, intestinal atony and myasthenia gravis.
 
 Controlled Narrow-angle Glaucoma: In patients being treated for narrow-angle glaucoma, SANCTURA® should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring.
 
 Patients with Renal Insufficiency: Dose modification is recommended in patients with severe renal insufficiency (CLcr < 30 mL/min).
-In such patients, SANCTURA® should be administered as 20 mg once a day at bedtime (See DOSAGE AND ADMINISTRATION).
+In such patients, SANCTURA® should be administered as 20 mg once a day at bedtime (see DOSAGE AND ADMINISTRATION).
 
-Patients with Hepatic Impairment: Caution should be used when administering SANCTURA® in patients with moderate or severe hepatic dysfunction (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations).
+Patients with Hepatic Impairment: Caution should be used when administering SANCTURA® in patients with moderate or severe hepatic dysfunction (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations).
 
 ## Information for Patients
 
@@ -31,7 +31,8 @@ Anticholinergic agents may potentially alter the absorption of some concomitantl
 
 Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, SANCTURA® has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. procainamide, pancuronium, morphine, vancomycin, metformin and tenofovir).
 Coadministration of SANCTURA® with these drugs may increase the serum concentration of SANCTURA® and/or the coadministered drug due to competition for this elimination pathway.
-Careful patient monitoring is recommended in patients receiving such drugs (See CLINICAL PHARMACOLOGY: Excretion, and CLINICAL PHARMACOLOGY: Drug-Drug Interactions).
+Careful patient monitoring is recommended in patients receiving such drugs.
+(See CLINICAL PHARMACOLOGY: Excretion, and CLINICAL PHARMACOLOGY: Drug-Drug Interactions.)
 
 ## Drug-Laboratory-Test Interactions
 
@@ -76,5 +77,5 @@ Of the 591 patients with overactive bladder who received treatment with SANCTURA
 Eighty-eight SANCTURA®-treated patients (15%) were ≥ 75 years of age.
 
 In these 2 studies, the incidence of commonly reported anticholinergic adverse events in patients treated with SANCTURA® (including dry mouth, constipation, dyspepsia, UTI, and urinary retention) was higher in patients 75 years of age and older as compared to younger patients.
-This effect may be related to an enhanced sensitivity to anticholinergic agents in this patient population (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations and DOSAGE AND ADMINISTRATION).
+This effect may be related to an enhanced sensitivity to anticholinergic agents in this patient population (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations and DOSAGE AND ADMINISTRATION).
 Therefore, based upon tolerability, the dose frequency of SANCTURA® may be reduced to 20 mg once daily in patients 75 years of age and older.
