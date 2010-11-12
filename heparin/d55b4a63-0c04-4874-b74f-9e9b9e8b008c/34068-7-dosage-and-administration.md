@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Slight discoloration does not alter potency.
 
 Confirm the choice of the correct Heparin Sodium Injection vial prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
 The 1 mL vial must not be confused with a “catheter lock flush” vial or other 1 mL vial of inappropriate strength.
