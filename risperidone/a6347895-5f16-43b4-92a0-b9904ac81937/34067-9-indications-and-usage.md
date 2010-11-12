@@ -14,7 +14,7 @@ Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, thi
 
 Monotherapy - Adults and Pediatrics
 
-Risperidone is indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults [see Clinical Studies (14.2)].
+Risperidone tablets are indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults [see Clinical Studies (14.2)].
 
 Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
 Pediatric use information for the treatment of pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.

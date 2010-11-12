@@ -90,7 +90,7 @@ In some patients, slower titration may be medically appropriate.
 
 Elderly or debilitated patients, and patients with renal impairment, may have less ability to eliminate risperidone than normal adults.
 Patients with impaired hepatic function may have increases in the free fraction of risperidone, possibly resulting in an enhanced effect [see Clinical Pharmacology (12.3)].
-Patients with a predisposition to hypotensive reactions or for whom such reactions would pose a particular risk likewise need to be titrated cautiously and carefully monitored [see Warnings and Precautions (5.2, 5.7, 5.16)].
+Patients with a predisposition to hypotensive reactions or for whom such reactions would pose a particular risk likewise need to be titrated cautiously and carefully monitored [see Warnings and Precautions (5.2, 5.7, 5.17)].
 If a once-daily dosing regimen in the elderly or debilitated patient is being considered, it is recommended that the patient be titrated on a twice-daily regimen for 2-3 days at the target dose.
 Subsequent switches to a once-daily dosing regimen can be done thereafter.
 

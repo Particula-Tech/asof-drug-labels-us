@@ -51,17 +51,17 @@ However, some patients may require treatment with risperidone despite the presen
 
 ## 5.5 Hyperglycemia and Diabetes Mellitus
 
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics including risperidone.
+Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including risperidone.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
 
-Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
-Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
-Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including risperidone, should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Any patient treated with atypical antipsychotics, including risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of risperidone.
 
 ## 5.6 Hyperprolactinemia
 
@@ -119,26 +119,31 @@ Risperidone and other antipsychotic drugs should be used cautiously in patients 
 
 ## 5.12 Priapism
 
-Rare cases of priapism have been reported.
-While the relationship of the events to risperidone use has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that risperidone may share this capacity.
+Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.9)].
 Severe priapism may require surgical intervention.
 
-## 5.13 Body Temperature Regulation
+## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)
+
+A single case of TTP was reported in a 28 year-old female patient receiving oral risperidone in a large, open premarketing experience (approximately 1300 patients).
+She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
+The relationship to risperidone therapy is unknown.
+
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral risperidone use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
 
-## 5.14 Antiemetic Effect
+## 5.15 Antiemetic Effect
 
 Risperidone has an antiemetic effect in animals; this effect may also occur in humans, and may mask signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumor.
 
-## 5.15 Suicide
+## 5.16 Suicide
 
 The possibility of a suicide attempt is inherent in patients with schizophrenia and bipolar mania, including children and adolescent patients, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for risperidone should be written for the smallest quantity of tablets, consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.16 Use in Patients with Concomitant Illness
+## 5.17 Use in Patients with Concomitant Illness
 
 Clinical experience with risperidone in patients with certain concomitant systemic illnesses is limited.
 Patients with Parkinson’s Disease or Dementia with Lewy Bodies, who receive antipsychotics, including risperidone, are reported to have an increased sensitivity to antipsychotic medications.
@@ -151,6 +156,6 @@ Patients with these diagnoses were excluded from clinical studies during the pro
 Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2), and an increase in the free fraction of risperidone is seen in patients with severe hepatic impairment.
 A lower starting dose should be used in such patients [see Dosage and Administration (2.4)].
 
-## 5.17 Monitoring: Laboratory Tests
+## 5.18 Monitoring: Laboratory Tests
 
 No specific laboratory tests are recommended.
