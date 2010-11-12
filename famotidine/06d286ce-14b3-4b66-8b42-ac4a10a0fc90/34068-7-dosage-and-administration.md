@@ -13,6 +13,14 @@ Acute Therapy:The recommended adult oral dosage for active benign gastric ulcer 
 Gastroesophageal Reflux Disease (GERD)The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
 The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
+Dosage for Pediatric Patients <1 year of ageGastroesophageal Reflux Disease (GERD)
+
+See PRECAUTIONS, Pediatric Patients <1 year of age.
+
+The studies described in PRECAUTIONS, PediatricPatients <1 year of age suggest the following startingdoses in pediatric patients <1 year of age:Gastroesophageal Reflux Disease (GERD) - 0.5mg/kg/dose of famotidine oral suspension for thetreatment of GERD for up to 8 weeks once daily inpatients <3 months of age and 0.5 mg/kg/dose twicedaily in patients 3 months to <1 year of age.
+Patientsshould also be receiving conservative measures (e.g.,thickened feedings).
+The use of intravenous famotidinein pediatric patients <1 year of age with GERD has notbeen adequately studied.
+
 Dosage for Pediatric Patients 1-16 years of age
 
 See PRECAUTIONS, Pediatric Patients 1-16 years of age.
@@ -21,7 +29,7 @@ The studies described in PRECAUTIONS, Pediatric Patients 1-16 years of age sugge
 
 Peptic Ulcer - 0.5 mg/kg/day p.o. at bedtime or divided b.i.d. up to 40 mg/day.
 
-Gastroesophageal Reflux Disease with or without Esophagitis Including Erosions and Ulcerations – 1.0 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
+Gastroesophageal Reflux Disease with or without Esophagitis Including Erosions and Ulcerations – 1 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
 
 While published uncontrolled studies suggest effectiveness of famotidine in the treatment of gastroesophageal reflux disease and peptic ulcer, data in pediatric patients are insufficient to establish percent response with dose and duration of therapy.
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.

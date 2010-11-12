@@ -15,7 +15,7 @@ The same doses given in the morning suppressed food-stimulated acid secretion in
 The mean suppression was 76% and 84%, respectively, 3 to 5 hours after administration, and 25% and 30%, respectively, 8 to 10 hours after administration.
 In some subjects who received the 20 mg dose, however, the antisecretory effect was dissipated within 6-8 hours.
 There was no cumulative effect with repeated doses.
-The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of famotidine to mean values of 5.0 and 6.4, respectively.
+The nocturnal intragastric pH was raised by evening doses of 20 and 40 mg of famotidine to mean values of 5 and 6.4, respectively.
 When famotidine was given after breakfast, the basal daytime interdigestive pH at 3 and 8 hours after 20 or 40 mg of famotidine was raised to about 5.
 
 Famotidine had little or no effect on fasting or postprandial serum gastrin levels.
@@ -64,7 +64,7 @@ Table 6: Pharmacokinetic Parameters * of Intravenous Famotidine
 | 0-1 month† (N=10) | NA | 0.13 ± 0.06 | 1.4 ± 0.4 | 10.5 ± 5.4 |
 | 0-3 months‡ (N=6) | 2688 ± 847 | 0.21 ± 0.06 | 1.8 ± 0.3 | 8.1 ± 3.5 |
 | > 3-12 months‡ (N=11) | 1160 ± 474 | 0.49 ± 0.17 | 2.3 ± 0.7 | 4.5 ± 1.1 |
-| 1-11 yrs (N=20) | 1089 ± 834 | 0.54 ± 0.34 | 2.07 ± 1.49 | 3.38 ± 2.60 |
+| 1-11 yrs (N=20) | 1089 ± 834 | 0.54 ± 0.34 | 2.07 ± 1.49 | 3.38 ± 2.6 |
 | 11-15 yrs (N=6) | 1140 ± 320 | 0.48 ± 0.14 | 1.5 ± 0.4 | 2.3 ± 0.4 |
 | Adult (N=16) | 1726 § | 0.39 ± 0.14 | 1.3 ± 0.2 | 2.83 ± 0.99 |
 
@@ -111,7 +111,7 @@ Table 8
 | 0.4-0.8 mg/kg | I.V | gastric pH >4 for 6-9 hours | 18 (2- 69 months) |
 | 0.5 mg/kg, single dose | I.V | a>2 pH unit increase above baseline in gastric pH for >8 hours | 9 (2-13 years) |
 | 0.5 mg/kg b.i.d | I.V. | gastric pH >5 for 13.5 + 1.8‡ hours | 4 (6-15 years) |
-| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5.0 +1.1‡ hours | 4 (11- 15 years) |
+| 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5 +1.1‡ hours | 4 (11- 15 years) |
 
 * values reported in published literature.
 

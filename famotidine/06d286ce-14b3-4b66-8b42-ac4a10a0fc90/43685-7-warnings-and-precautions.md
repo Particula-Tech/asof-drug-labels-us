@@ -78,7 +78,7 @@ These studies suggest a starting dose for pediatric 1-16 years of age as follows
 
 Peptic ulcer - 0.5 mg/kg/day p.o. at bedtime or divided b.i.d. up to 40 mg/day.
 
-Gastroesophageal Reflux Disease with or without esophagitis including erosions and ulcerations -1.0 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
+Gastroesophageal Reflux Disease with or without esophagitis including erosions and ulcerations -1 mg/kg/day p.o. divided b.i.d. up to 40 mg b.i.d.
 
 While published uncontrolled studies suggest effectiveness of famotidine in the treatment of gastroesophageal reflux disease and peptic ulcer, data in pediatric patients are insufficient to establish percent response with dose and duration of therapy.
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.
