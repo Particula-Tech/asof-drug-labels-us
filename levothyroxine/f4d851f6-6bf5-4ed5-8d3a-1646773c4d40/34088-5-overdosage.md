@@ -6,11 +6,13 @@ Cerebral embolism, shock, coma, and death have been reported.
 Seizures have occurred in a child ingesting 18 mg of levothyroxine.
 Symptoms may not necessarily be evident or may not appear until several days after ingestion of levothyroxine sodium.
 
-Treatment of Overdosage
+## Treatment of Overdosage
 
 Levothyroxine sodium should be reduced in dose or temporarily discontinued if signs or symptoms of overdosage occur.
 
-Acute Massive Overdosage - This may be a life-threatening emergency, therefore, symptomatic and supportive therapy should be instituted immediately.
+### Acute Massive Overdosage
+
+This may be a life-threatening emergency, therefore, symptomatic and supportive therapy should be instituted immediately.
 If not contraindicated (e.g., by seizures, coma, or loss of the gag reflex), the stomach should be emptied by emesis or gastric lavage to decrease gastrointestinal absorption.
 Activated charcoal or cholestyramine may also be used to decrease absorption.
 Central and peripheral increased sympathetic activity may be treated by administering P-receptor antagonists, e.g., propranolol, provided there are no medical contraindications to their use.

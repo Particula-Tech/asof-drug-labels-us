@@ -1,3 +1,10 @@
+# WARNINGS
+
+Levothyroxine sodium should not be used in the treatment of male or female infertility unless this condition is associated with hypothyroidism.
+
+In patients with nontoxic diffuse goiter or nodular thyroid disease, particularly the elderly or those with underlying cardiovascular disease, levothyroxine sodium therapy is contraindicated if the serum TSH level is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS).
+If the serum TSH level is not suppressed, TIROSINT should be used with caution in conjunction with careful monitoring of thyroid function for evidence of hyperthyroidism and clinical monitoring for potential associated adverse cardiovascular signs and symptoms of hyperthyroidism.
+
 # PRECAUTIONS
 
 ## General
@@ -7,25 +14,35 @@ Regardless of the indication for use, careful dosage titration is necessary to a
 These consequences include, among others, effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, emotional state, gastrointestinal function, and on glucose and lipid metabolism.
 Many drugs interact with levothyroxine sodium necessitating adjustments in dosing to maintain therapeutic response (see Drug Interactions).
 
-Effects on bone mineral density - In women, long-term levothyroxine sodium therapy has been associated with increased bone resorption, thereby decreasing bone mineral density, especially in post-menopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
+### Effects on bone mineral density
+
+In women, long-term levothyroxine sodium therapy has been associated with increased bone resorption, thereby decreasing bone mineral density, especially in post-menopausal women on greater than replacement doses or in women who are receiving suppressive doses of levothyroxine sodium.
 The increased bone resorption may be associated with increased serum levels and urinary excretion of calcium and phosphorous, elevations in bone alkaline phosphatase and suppressed serum parathyroid hormone levels.
 Therefore, it is recommended that patients receiving levothyroxine sodium be given the minimum dose necessary to achieve the desired clinical and biochemical response.
 
-Patients with underlying cardiovascular disease - Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
+### Patients with underlying cardiovascular disease
+
+Exercise caution when administering levothyroxine to patients with cardiovascular disorders and to the elderly in whom there is an increased risk of occult cardiac disease.
 In these patients, levothyroxine therapy should be initiated at lower doses than those recommended in younger individuals or in patients without cardiac disease and it should be noted that unlike levothyroxine sodium tablets, TIROSINT capsules cannot be cut in half (see WARNINGS; PRECAUTIONS, Geriatric Use; and DOSAGE AND ADMINISTRATION).
 If cardiac symptoms develop or worsen, the levothyroxine dose should be reduced or withheld for one week and then cautiously restarted at a lower dose.
 Overtreatment with levothyroxine sodium may have adverse cardiovascular effects such as an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias.
 Patients with coronary artery disease who are receiving levothyroxine therapy should be monitored closely during surgical procedures, since the possibility of precipitating cardiac arrhythmias may be greater in those treated with levothyroxine.
 Concomitant administration of levothyroxine and sympathomimetic agents to patients with coronary artery disease may precipitate coronary insufficiency.
 
-Patients with nontoxic diffuse goiter or nodular thyroid disease - Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
+### Patients with nontoxic diffuse goiter or nodular thyroid disease
+
+Exercise caution when administering levothyroxine to patients with nontoxic diffuse goiter or nodular thyroid disease in order to prevent precipitation of thyrotoxicosis (see WARNINGS).
 If the serum TSH is already suppressed, levothyroxine sodium should not be administered (see CONTRAINDICATIONS).
 
 ## Associated endocrine disorders
 
-Hypothalamic pituitary hormone deficiencies - In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS, Autoimmune polyglandular syndrome for adrenal insufficiency).
+### Hypothalamic pituitary hormone deficiencies
 
-Autoimmune polyglandular syndrome - Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
+In patients with secondary or tertiary hypothyroidism, additional hypothalamic/pituitary hormone deficiencies should be considered, and, if diagnosed, treated (see PRECAUTIONS, Autoimmune polyglandular syndrome for adrenal insufficiency).
+
+### Autoimmune polyglandular syndrome
+
+Occasionally, chronic autoimmune thyroiditis may occur in association with other autoimmune disorders such as adrenal insufficiency, pernicious anemia, and insulin-dependent diabetes mellitus.
 Patients with concomitant adrenal insufficiency should be treated with replacement glucocorticoids prior to initiation of treatment with levothyroxine sodium.
 Failure to do so may precipitate an acute adrenal crisis when thyroid hormone therapy is initiated, due to increased metabolic clearance of glucocorticoids by thyroid hormone.
 Patients with diabetes mellitus may require upward adjustments of their antidiabetic therapeutic regimens when treated with levothyroxine (see PRECAUTIONS, Drug Interactions).
@@ -38,61 +55,38 @@ Infants with congenital hypothyroidism appear to be at increased risk for other 
 
 Patients should be informed of the following information to aid in the safe and effective use of TIROSINT:
 
-1.
-Notify your physician if you are allergic to any foods or medicines, are pregnant or intend to become pregnant, are breast-feeding or are taking any other medications, including prescription and over-the-counter preparations.
-
-2.
-Notify your physician of any other medical conditions you may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems.
-Your dose of medications used to control these other conditions may need to be adjusted while you are taking TIROSINT.
-If you have diabetes, monitor your blood and/or urinary glucose levels as directed by your physician and immediately report any changes to your physician.
-If you are taking anticoagulants (blood thinners), your clotting status should be checked frequently.
-
-3.
-Use TIROSINT only as prescribed by your physician.
-Do not discontinue or change the amount you take or how often you take it, unless directed to do so by your physician.
-
-4.
-The levothyroxine in TIROSINT is intended to replace a hormone that is normally produced by your thyroid gland.
-Generally, replacement therapy is to be taken for life, except in cases of transient hypothyroidism, which is usually associated with an inflammation of the thyroid gland (thyroiditis).
-
-5.
-Take TIROSINT as a single dose, preferably on an empty stomach, one-half to one hour before breakfast.
-Levothyroxine absorption is increased on an empty stomach.
-
-6.
-It may take several weeks before you notice an improvement in your symptoms.
-
-7.
-Notify your physician if you experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event.
-
-8.
-Notify your physician if you become pregnant while taking TIROSINT.
-It is likely that your dose of TIROSINT will need to be increased while you are pregnant.
-
-9.
-Notify your physician or dentist that you are taking TIROSINT prior to any surgery.
-
-10.
-Partial hair loss may occur rarely during the first few months of TIROSINT therapy, but this is usually temporary.
-
-11.
-TIROSINT should not be used as a primary or adjunctive therapy in a weight control program.
-
-12.
-Keep TIROSINT out of the reach of children.
-Store TIROSINT away from heat, moisture, and light.
+1. Notify your physician if you are allergic to any foods or medicines, are pregnant or intend to become pregnant, are breast-feeding or are taking any other medications, including prescription and over-the-counter preparations.
+2. Notify your physician of any other medical conditions you may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems.
+   Your dose of medications used to control these other conditions may need to be adjusted while you are taking TIROSINT.
+   If you have diabetes, monitor your blood and/or urinary glucose levels as directed by your physician and immediately report any changes to your physician.
+   If you are taking anticoagulants (blood thinners), your clotting status should be checked frequently.
+3. Use TIROSINT only as prescribed by your physician.
+   Do not discontinue or change the amount you take or how often you take it, unless directed to do so by your physician.
+4. The levothyroxine in TIROSINT is intended to replace a hormone that is normally produced by your thyroid gland.
+   Generally, replacement therapy is to be taken for life, except in cases of transient hypothyroidism, which is usually associated with an inflammation of the thyroid gland (thyroiditis).
+5. Take TIROSINT as a single dose, preferably on an empty stomach, one-half to one hour before breakfast.
+   Levothyroxine absorption is increased on an empty stomach.
+6. It may take several weeks before you notice an improvement in your symptoms.
+7. Notify your physician if you experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event.
+8. Notify your physician if you become pregnant while taking TIROSINT.
+   It is likely that your dose of TIROSINT will need to be increased while you are pregnant.
+9. Notify your physician or dentist that you are taking TIROSINT prior to any surgery.
+10. Partial hair loss may occur rarely during the first few months of TIROSINT therapy, but this is usually temporary.
+11. TIROSINT should not be used as a primary or adjunctive therapy in a weight control program.
+12. Keep TIROSINT out of the reach of children.
+    Store TIROSINT away from heat, moisture, and light.
 
 ## Laboratory Tests
 
-General
+### General
 
-The diagnosis of hypothyroidism is confirmed by measuring TSH levels using a sensitive assay (second generation assay sensitivity ≤ 0.1 mIU/L or third generation assay sensitivity ≤ 0.01 mIU/L) and measurement of free-T4.
+The diagnosis of hypothyroidism is confirmed by measuring TSH levels using a sensitive assay (second generation assay sensitivity < 0.1 mIU/L or third generation assay sensitivity < 0.01 mIU/L) and measurement of free-T4.
 
 The adequacy of therapy is determined by periodic assessment of appropriate laboratory tests and clinical evaluation.
 The choice of laboratory tests depends on various factors including the etiology of the underlying thyroid disease, the presence of concomitant medical conditions, including pregnancy, and the use of concomitant medications (see PRECAUTIONS, Drug Interactions and Drug-Laboratory Test Interactions).
 Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of TIROSINT may be evidence of inadequate absorption, poor compliance, drug interactions, or decreased T4 potency of the drug product.
 
-Adults
+### Adults
 
 In adult patients with primary (thyroidal) hypothyroidism, serum TSH levels (using a sensitive assay) alone may be used to monitor therapy.
 The frequency of TSH monitoring during levothyroxine dose titration depends on the clinical situation but it is generally recommended at 6-8 week intervals until normalization.
@@ -100,7 +94,7 @@ For patients who have recently initiated levothyroxine therapy and whose serum T
 When the optimum replacement dose has been attained, clinical (physical examination) and biochemical monitoring may be performed every 6-12 months, depending on the clinical situation, and whenever there is a change in the patient's status.
 It is recommended that a physical examination and a serum TSH measurement be performed at least annually in patients receiving TIROSINT (see WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-Pediatrics
+### Pediatrics
 
 In patients with congenital hypothyroidism, the adequacy of replacement therapy should be assessed by measuring both serum TSH (using a sensitive assay) and total- or free- T4.
 During the first three years of life, the serum total- or free- T4 should be maintained at all times in the upper half of the normal range.
@@ -114,7 +108,7 @@ More frequent intervals of monitoring may be necessary if poor compliance is sus
 It is recommended that TSH and T4 levels, and a physical examination, if indicated, be performed 2 weeks after any change in TIROSINT dosage.
 Routine clinical examination, including assessment of mental and physical growth and development, and bone maturation, should be performed at regular intervals (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION).
 
-Secondary (pituitary) and tertiary (hypothalamic) hypothyroidism
+### Secondary (pituitary) and tertiary (hypothalamic) hypothyroidism
 
 Adequacy of therapy should be assessed by measuring serum free- T4 levels, which should be maintained in the upper half of the normal range in these patients.
 
@@ -131,110 +125,47 @@ Table 2: Drug-Thyroidal Axis Interactions
 
 | Drug or Drug Class | Effect |
 | --- | --- |
-| Drugs that may reduce TSH secretion-the reduction is not sustained; therefore, hypothyroidism does not occur |  |
-| Dopamine/Dopamine Agonists | Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine (≥ 1 mcg/kg/min); Glucocorticoids (hydrocortisone ≥ 100 mg/day or equivalent); Octreotide (> 100 mcg/day). |
-| Glucocorticoids |  |
-| Octreotide |  |
+| Drugs that may reduce TSH secretion - the reduction is not sustained; therefore, hypothyroidism does not occur |  |
+| Dopamine/Dopamine Agonists Glucocorticoids Octreotide | Use of these agents may result in a transient reduction in TSH secretion when administered at the following doses: Dopamine (≥ 1 mcg/kg/min); Glucocorticoids (hydrocortisone ≥ 100 mg/day or equivalent); Octreotide (> 100 mcg/day). |
 | Drugs that alter thyroid hormone secretion |  |
 | Drugs that may decrease thyroid hormone secretion, which may result in hypothyroidism |  |
-| Aminoglutethimide | Long-term lithium therapy can result in goiter in up to 50% of patients, and either subclinical or overt hypothyroidism, each in up to 20% of patients. The fetus, neonate, elderly and euthyroid patients with underlying thyroid disease (e.g., Hashimoto's thyroiditis or with Grave's disease previously treated with radioiodine or surgery) are among those individuals who are particularly susceptible to iodine-induced hypothyroidism. Oral cholecystographic agents and amiodarone are slowly excreted, producing more prolonged hypothyroidism than parenterally administered iodinated contrast agents. Long-term aminoglutethimide therapy may minimally decrease T4 and T3 levels and increase TSH, although all values remain within normal limits in most patients. |
-| Amiodarone |  |
-| Iodide (including iodine-containing radiographic contrast agents) |  |
-| Lithium |  |
-| Methimazole |  |
-| Propylthiouracil (PTU) |  |
-| Sulfonamides |  |
-| Tolbutamide |  |
+| Aminoglutethimide Amiodarone Iodide (including iodine-containing radiographic contrast agents) Lithium Methimazole Propylthiouracil (PTU) Sulfonamides Tolbutamide | Long-term lithium therapy can result in goiter in up to 50% of patients, and either subclinical or overt hypothyroidism, each in up to 20% of patients. The fetus, neonate, elderly and euthyroid patients with underlying thyroid disease (e.g., Hashimoto's thyroiditis or with Grave's disease previously treated with radioiodine or surgery) are among those individuals who are particularly susceptible to iodine-induced hypothyroidism. Oral cholecystographic agents and amiodarone are slowly excreted, producing more prolonged hypothyroidism than parenterally administered iodinated contrast agents. Long-term aminoglutethimide therapy may minimally decrease T4 and T3 levels and increase TSH, although all values remain within normal limits in most patients. |
 | Drugs that may increase thyroid hormone secretion, which may result in hyperthyroidism |  |
-| Amiodarone | Iodide and drugs that contain pharmacologic amounts of iodide may cause hyperthyroidism in euthyroid patients with Grave's disease previously treated with antithyroid drugs or in euthyroid patients with thyroid autonomy (e.g., multinodular goiter or hyperfunctioning thyroid adenoma). Hyperthyroidism may develop over several weeks and may persist for several months after therapy discontinuation. Amiodarone may induce hyperthyroidism by causing thyroiditis. |
-| Iodide (including iodine-containing radiographic contrast agents) |  |
+| Amiodarone Iodide (including iodine-containing radiographic contrast agents) | Iodide and drugs that contain pharmacologic amounts of iodide may cause hyperthyroidism in euthyroid patients with Grave's disease previously treated with antithyroid drugs or in euthyroid patients with thyroid autonomy (e.g., multinodular goiter or hyperfunctioning thyroid adenoma). Hyperthyroidism may develop over several weeks and may persist for several months after therapy discontinuation. Amiodarone may induce hyperthyroidism by causing thyroiditis. |
 | Drugs that may decrease T4 absorption, which may result in hypothyroidism |  |
-| Antacids | Concurrent use may reduce the efficacy of levothyroxine by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine at least 4 hours apart from these agents. Patients treated concomitantly with orlistat and levothyroxine should be monitored for changes in thyroid function. |
-| - Aluminum & Magnesium |  |
-| Hydroxides |  |
-| - Simethicone |  |
-| Bile Acid Sequestrants |  |
-| -Cholestyramine |  |
-| -Colestipol |  |
-| Calcium Carbonate |  |
-| Cation Exchange Resins |  |
-| -Kayexalate |  |
-| Ferrous Sulfate |  |
-| Orlistat |  |
-| Sucralfate |  |
+| Antacids - Aluminum & Magnesium Hydroxides - Simethicone Bile Acid Sequestrants -Cholestyramine -Colestipol Calcium Carbonate Cation Exchange Resins -Kayexalate Ferrous Sulfate Orlistat Sucralfate | Concurrent use may reduce the efficacy of levothyroxine by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine at least 4 hours apart from these agents. Patients treated concomitantly with orlistat and levothyroxine should be monitored for changes in thyroid function. |
 | Drugs that may alter T4 and T3 serum transport - but FT4 concentration remains normal; and therefore, the patient remains euthyroid |  |
 | Drugs that may increase serum TBG concentration | Drugs that may decrease serum TBG concentration |
-| Clofibrate | Androgens / Anabolic Steroids |
-| Estrogen-containing oral contraceptives | Asparaginase |
-| Estrogens (oral) | Glucocorticoids |
-| Heroin / Methadone | Slow-Release Nicotinic Acid |
-| 5-Fluorouracil |  |
-| Mitotane |  |
-| Tamoxifen |  |
+| Clofibrate Estrogen-containing oral contraceptives Estrogens (oral) Heroin / Methadone 5-Fluorouracil Mitotane Tamoxifen | Androgens / Anabolic Steroids Asparaginase Glucocorticoids Slow-Release Nicotinic Acid |
 | Drugs that may cause protein-binding site displacement |  |
-| Furosemide (> 80 mg IV) | Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
-| Heparin |  |
-| Hydantoins |  |
-| Non Steroidal Anti-Inflammatory Drugs |  |
-| - Fenamates |  |
-| - Phenylbutazone |  |
-| Salicylates (> 2 g/day) |  |
+| Furosemide (> 80 mg IV) Heparin Hydantoins Non Steroidal Anti-Inflammatory Drugs - Fenamates - Phenylbutazone Salicylates (> 2 g/day) | Administration of these agents with levothyroxine results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations and, therefore, patients are clinically euthyroid. Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total-T4 levels may decrease by as much as 30%. |
 | Drugs that may alter T4 and T3 metabolism |  |
 | Drugs that may increase hepatic metabolism, which may result in hypothyroidism |  |
-| Carbamazepine | Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine requirements. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free- T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
-| Hydantoins |  |
-| Phenobarbital |  |
-| Rifampin |  |
+| Carbamazepine Hydantoins Phenobarbital Rifampin | Stimulation of hepatic microsomal drug-metabolizing enzyme activity may cause increased hepatic degradation of levothyroxine, resulting in increased levothyroxine requirements. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total- and free- T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid. |
 | Drugs that may decrease T4 5'-deiodinase activity |  |
-| Amiodarone | Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
-| Beta-adrenergic antagonists |  |
-| -(e.g., Propranolol > 160 mg/day) |  |
-| Glucocorticoids |  |
-| -(e.g., Dexamethasone ≥ 4 mg/day) |  |
-| Propylthiouracil (PTU) |  |
+| Amiodarone Beta-adrenergic antagonists -(e.g., Propranolol > 160 mg/day) Glucocorticoids -(e.g., Dexamethasone ≥ 4 mg/day) Propylthiouracil (PTU) | Administration of these enzyme inhibitors decreases the peripheral conversion of T4 to T3, leading to decreased T3 levels. However, serum T4 levels are usually normal but may occasionally be slightly increased. In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change slightly, TSH levels remain normal, and patients are clinically euthyroid. It should be noted that actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (see above). |
 | Miscellaneous |  |
-| Anticoagulants (oral) | Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly. |
-| - Coumarin Derivatives |  |
-| - Indandione Derivatives |  |
-| Antidepressants | Concurrent use of tri/tetracyclic antidepressants and levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on levothyroxine may result in increased levothyroxine requirements. |
-| -Tricyclics (e.g., Amitriptyline) |  |
-| -Tetracyclics (e.g., Maprotiline) |  |
-| -Selective Serotonin Reuptake Inhibitors (SSRIs; e.g., Sertraline) |  |
-| Antidiabetic Agents | Addition of levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. |
-| -Biguanides |  |
-| -Meglitinides |  |
-| -Sulfonylureas |  |
-| -Thiazolidinediones |  |
-| -Insulin |  |
+| Anticoagulants (oral) - Coumarin Derivatives - Indandione Derivatives | Thyroid hormones appear to increase the catabolism of vitamin K-dependent clotting factors, thereby increasing the anticoagulant activity of oral anticoagulants. Concomitant use of these agents impairs the compensatory increases in clotting factor synthesis. Prothrombin time should be carefully monitored in patients taking levothyroxine and oral anticoagulants and the dose of anticoagulant therapy adjusted accordingly. |
+| Antidepressants -Tricyclics (e.g., Amitriptyline) -Tetracyclics (e.g., Maprotiline) -Selective Serotonin Reuptake Inhibitors (SSRIs; e.g., Sertraline) | Concurrent use of tri/tetracyclic antidepressants and levothyroxine may increase the therapeutic and toxic effects of both drugs, possibly due to increased receptor sensitivity to catecholamines. Toxic effects may include increased risk of cardiac arrhythmias and CNS stimulation; onset of action of tricyclics may be accelerated. Administration of sertraline in patients stabilized on levothyroxine may result in increased levothyroxine requirements. |
+| Antidiabetic Agents -Biguanides -Meglitinides -Sulfonylureas -Thiazolidinediones -Insulin | Addition of levothyroxine to antidiabetic or insulin therapy may result in increased antidiabetic agent or insulin requirements. Careful monitoring of diabetic control is recommended, especially when thyroid therapy is started, changed, or discontinued. |
 | Cardiac Glycosides | Serum digitalis glycoside levels may be reduced in hyperthyroidism or when the hypothyroid patient is converted to the euthyroid state. Therapeutic effect of digitalis glycosides may be reduced. |
-| Cytokines | Therapy with interferon-α has been associated with the development of antithyroid microsomal antibodies in 20% of patients and some have transient hypothyroidism, hyperthyroidism, or both. Patients who have antithyroid antibodies before treatment are at higher risk for thyroid dysfunction during treatment. Interleukin-2 has been associated with transient painless thyroiditis in 20% of patients. Interferon-β and -γ have not been reported to cause thyroid dysfunction. |
-| -Interferon-α |  |
-| -Interleukin-2 |  |
-| Growth Hormones | Excessive use of thyroid hormones with growth hormones may accelerate epiphyseal closure. However, untreated hypothyroidism may interfere with growth response to growth hormone. |
-| - Somatrem |  |
-| - Somatropin |  |
+| Cytokines -Interferon-α -Interleukin-2 | Therapy with interferon-α has been associated with the development of antithyroid microsomal antibodies in 20% of patients and some have transient hypothyroidism, hyperthyroidism, or both. Patients who have antithyroid antibodies before treatment are at higher risk for thyroid dysfunction during treatment. Interleukin-2 has been associated with transient painless thyroiditis in 20% of patients. Interferon-β and –γ have not been reported to cause thyroid dysfunction. |
+| Growth Hormones - Somatrem - Somatropin | Excessive use of thyroid hormones with growth hormones may accelerate epiphyseal closure. However, untreated hypothyroidism may interfere with growth response to growth hormone. |
 | Ketamine | Concurrent use may produce marked hypertension and tachycardia; cautious administration to patients receiving thyroid hormone therapy is recommended. |
-| Methylxanthine Bronchodilators | Decreased theophylline clearance may occur in hypothyroid patients; clearance returns to normal when the euthyroid state is achieved. |
-| - (e.g., Theophylline) |  |
+| Methylxanthine Bronchodilators - (e.g., Theophylline) | Decreased theophylline clearance may occur in hypothyroid patients; clearance returns to normal when the euthyroid state is achieved. |
 | Radiographic Agents | Thyroid hormones may reduce the uptake of 123I, 131I, and 99mTc. |
 | Sympathomimetics | Concurrent use may increase the effects of sympathomimetics or thyroid hormone. Thyroid hormones may increase the risk of coronary insufficiency when sympathomimetic agents are administered to patients with coronary artery disease. |
-| Chloral Hydrate | These agents have been associated with thyroid hormone and/or TSH level alterations by various mechanisms |
-| Diazepam |  |
-| Ethionamide |  |
-| Lovastatin |  |
-| Metoclopramide |  |
-| 6-Mercaptopurine |  |
-| Nitroprusside |  |
-| Para-aminosalicylate sodium |  |
-| Perphenazine |  |
-| Resorcinol (excessive topical use) |  |
-| Thiazide Diuretics |  |
+| Chloral Hydrate Diazepam Ethionamide Lovastatin Metoclopramide 6-Mercaptopurine Nitroprusside Para-aminosalicylate sodium Perphenazine Resorcinol (excessive topical use) Thiazide Diuretics | These agents have been associated with thyroid hormone and/or TSH level alterations by various mechanisms. |
 
-Oral anticoagulants - Levothyroxine increases the response to oral anticoagulant therapy.
+### Oral anticoagulants
+
+Levothyroxine increases the response to oral anticoagulant therapy.
 Therefore, a decrease in the dose of anticoagulant may be warranted with correction of the hypothyroid state or when the TIROSINT dose is increased.
 Prothrombin time should be closely monitored to permit appropriate and timely dosage adjustments (see Table 2).
 
-Digitalis glycosides - The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
+### Digitalis glycosides
+
+The therapeutic effects of digitalis glycosides may be reduced by levothyroxine.
 Serum digitalis glycoside levels may be decreased when a hypothyroid patient becomes euthyroid, necessitating an increase in the dose of digitalis glycosides (see Table 2).
 
 ## Drug-Food Interactions
@@ -256,7 +187,9 @@ The synthetic T4 in TIROSINT is identical to that produced naturally by the huma
 Although there has been a reported association between prolonged thyroid hormone therapy and breast cancer, this has not been confirmed.
 Patients receiving TIROSINT for appropriate clinical indications should be titrated to the lowest effective replacement dose.
 
-## Pregnancy - Category A
+## Pregnancy
+
+### Category A
 
 Studies in women taking levothyroxine sodium during pregnancy have not shown an increased risk of congenital abnormalities.
 Therefore, the possibility of fetal harm appears remote.
@@ -267,13 +200,13 @@ Maternal hypothyroidism may have an adverse effect on fetal and childhood growth
 During pregnancy, serum T4 levels may decrease and serum TSH levels increase to values outside the normal range.
 Since elevations in serum TSH may occur as early as 4 weeks gestation, pregnant women taking TIROSINT should have their TSH measured during each trimester.
 An elevated serum TSH level should be corrected by an increase in the dose of TIROSINT.
-Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre-pregnancy dose immediately after delivery.
+Since postpartum TSH levels are similar to preconception values, the TIROSINT dosage should return to the pre--pregnancy dose immediately after delivery.
 A serum TSH level should be obtained 6-8 weeks postpartum.
 
 Thyroid hormones cross the placental barrier to some extent as evidenced by levels in cord blood of athyreotic fetuses being approximately one-third maternal levels.
 Transfer of thyroid hormone from the mother to the fetus, however, may not be adequate to prevent in utero hypothyroidism.
 
-### Nursing Mothers
+## Nursing Mothers
 
 Although thyroid hormones are excreted only minimally in human milk, caution should be exercised when TIROSINT is administered to a nursing woman.
 However, adequate replacement doses of levothyroxine are generally needed to maintain normal lactation.
@@ -282,7 +215,7 @@ However, adequate replacement doses of levothyroxine are generally needed to mai
 
 TIROSINT is contraindicated for infants, small children or any child who may be unable to swallow a capsule.
 
-General
+### General
 
 The goal of treatment in pediatric patients with hypothyroidism is to achieve and maintain normal intellectual and physical growth and development.
 
@@ -303,7 +236,7 @@ However, if the serum TSH has not risen to greater than 20 mU/L, levothyroxine t
 
 The presence of concomitant medical conditions should be considered in certain clinical circumstances and, if present, appropriately treated (see PRECAUTIONS).
 
-Congenital Hypothyroidism
+### Congenital Hypothyroidism
 
 (see PRECAUTIONS, Laboratory Tests and DOSAGE AND ADMINISTRATION)
 
@@ -316,7 +249,7 @@ The patient should be monitored closely to avoid undertreatment or overtreatment
 Undertreatment may have deleterious effects on intellectual development and linear growth.
 Overtreatment has been associated with craniosynostosis in infants, and may adversely affect the tempo of brain maturation and accelerate the bone age with resultant premature closure of the epiphyses and compromised adult stature.
 
-Acquired Hypothyroidism in Pediatric Patients
+### Acquired Hypothyroidism in Pediatric Patients
 
 The patient should be monitored closely to avoid undertreatment and overtreatment.
 Undertreatment may result in poor school performance due to impaired concentration and slowed mentation and in reduced adult height.
