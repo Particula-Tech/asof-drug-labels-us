@@ -43,16 +43,16 @@ Subgroup analyses did not indicate that there were any differences in treatment 
 ## 14.3 Diabetic Peripheral Neuropathic Pain
 
 The efficacy of Cymbalta for the management of neuropathic pain associated with diabetic peripheral neuropathy was established in 2 randomized, 12-week, double-blind, placebo-controlled, fixed-dose studies in adult patients having diabetic peripheral neuropathic pain for at least 6 months.
-Study 1 and 2 enrolled a total of 791 patients of whom 592 (75%) completed the studies.
+Study DPNP-1 and Study DPNP-2 enrolled a total of 791 patients of whom 592 (75%) completed the studies.
 Patients enrolled had Type I or II diabetes mellitus with a diagnosis of painful distal symmetrical sensorimotor polyneuropathy for at least 6 months.
 The patients had a baseline pain score of ≥4 on an 11-point scale ranging from 0 (no pain) to 10 (worst possible pain).
 Patients were permitted up to 4 g of acetaminophen per day as needed for pain, in addition to Cymbalta.
 Patients recorded their pain daily in a diary.
 
 Both studies compared Cymbalta 60 mg once daily or 60 mg twice daily with placebo.
-Study 1 additionally compared Cymbalta 20 mg with placebo.
-A total of 457 patients (342 Cymbalta, 115 placebo) were enrolled in Study 1 and a total of 334 patients (226 Cymbalta, 108 placebo) were enrolled in Study 2.
-Treatment with Cymbalta 60 mg one or two times a day statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
+DPNP-1 additionally compared Cymbalta 20 mg with placebo.
+A total of 457 patients (342 Cymbalta, 115 placebo) were enrolled in DPNP-1 and a total of 334 patients (226 Cymbalta, 108 placebo) were enrolled in DPNP-2.
+Treatment with Cymbalta 60 mg one or two times a day statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain scores from baseline.
 For various degrees of improvement in pain from baseline to study endpoint, Figures 1 and 2 show the fraction of patients achieving that degree of improvement.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
@@ -61,15 +61,15 @@ Some patients experienced a decrease in pain as early as week 1, which persisted
 ## 14.4 Fibromyalgia
 
 The efficacy of Cymbalta for the management of fibromyalgia was established in two randomized, double-blind, placebo-controlled, fixed-dose studies in adult patients meeting the American College of Rheumatology criteria for fibromyalgia (a history of widespread pain for 3 months, and pain present at 11 or more of the 18 specific tender point sites).
-Study 1 was three months in duration and enrolled female patients only.
-Study 2 was six months in duration and enrolled male and female patients.
+Study FM-1 was three months in duration and enrolled female patients only.
+Study FM-2 was six months in duration and enrolled male and female patients.
 Approximately 25% of participants had a comorbid diagnosis of major depressive disorder (MDD).
-Study 1 and 2 enrolled a total of 874 patients of whom 541 (62%) completed the studies.
+FM-1 and FM-2 enrolled a total of 874 patients of whom 541 (62%) completed the studies.
 The patients had a baseline pain score of 6.5 on an 11-point scale ranging from 0 (no pain) to 10 (worse possible pain).
 
-Both studies compared Cymbalta 60 mg once daily or 120 mg daily (given in divided doses in Study 1 and as a single daily dose in Study 2) with placebo.
-Study 2 additionally compared Cymbalta 20 mg with placebo during the initial three months of a six-month study.
-A total of 354 patients (234 Cymbalta, 120 placebo) were enrolled in Study 1 and a total of 520 patients (376 Cymbalta, 144 placebo) were enrolled in Study 2 (5% male, 95% female).
+Both studies compared Cymbalta 60 mg once daily or 120 mg daily (given in divided doses in FM-1 and as a single daily dose in FM-2) with placebo.
+FM-2 additionally compared Cymbalta 20 mg with placebo during the initial three months of a six-month study.
+A total of 354 patients (234 Cymbalta, 120 placebo) were enrolled in FM-1 and a total of 520 patients (376 Cymbalta, 144 placebo) were enrolled in FM-2 (5% male, 95% female).
 Treatment with Cymbalta 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increase the proportion of patients with at least a 50% reduction in pain score from baseline.
 Pain reduction was observed in patients both with and without comorbid MDD.
 However, the degree of pain reduction may be greater in patients with comorbid MDD.
@@ -84,3 +84,57 @@ Additionally, the benefit of up-titration in non-responders to Cymbalta at 60 mg
 Patients were initially treated with Cymbalta 60 mg once daily for eight weeks in open-label fashion.
 Subsequently, completers of this phase were randomized to double-blind treatment with Cymbalta at either 60 mg once daily or 120 mg once daily.
 Those patients who were considered non-responders, where response was defined as at least a 30% reduction in pain score from baseline at the end of the 8-week treatment, were no more likely to meet response criteria at the end of 60 weeks of treatment if blindly titrated to Cymbalta 120 mg as compared to those who were blindly continued on Cymbalta 60 mg.
+
+## 14.5 Chronic Musculoskeletal Pain
+
+Cymbalta is indicated for the management of chronic musculoskeletal pain.
+This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis.
+
+Studies in Chronic Low Back Pain —
+
+The efficacy of Cymbalta in chronic low back pain (CLBP) was assessed in two double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study CLBP-1 and Study CLBP-2), and one of 12-weeks duration (CLBP-3).
+CLBP-1 and CLBP-3 demonstrated efficacy of Cymbalta in the treatment of chronic low back pain.
+Patients in all studies had no signs of radiculopathy or spinal stenosis.
+
+Study CLBP-1: Two hundred thirty-six adult patients (N=115 on Cymbalta, N=121 on placebo) enrolled and 182 (77%) completed 13-week treatment phase.
+After 7 weeks of treatment, Cymbalta patients with less than 30% reduction in average daily pain and who were able to tolerate duloxetine 60 mg once daily had their dose of Cymbalta, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking Cymbalta 60-120 mg daily had a significantly greater pain reduction compared to placebo.
+Randomization was stratified by the patients' baseline NSAIDs-use status.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study CLBP-2: Four hundred and four patients were randomized to receive fixed doses of Cymbalta daily or a matching placebo (N=59 on Cymbalta 20 mg, N=116 on Cymbalta 60 mg, N=112 on Cymbalta 120 mg, N=117 on placebo) and 267 (66%) completed the entire 13-week study.
+After 13 weeks of treatment, none of the three Cymbalta doses showed a statistically significant difference in pain reduction compared to placebo.
+
+Study CLBP-3: Four hundred and one patients were randomized to receive fixed doses of Cymbalta 60 mg daily or placebo (N=198 on Cymbalta, N=203 on placebo), and 303 (76%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 12 weeks of treatment, patients taking Cymbalta 60 mg daily had significantly greater pain reduction compared to placebo.
+
+For various degrees of improvement in pain from baseline to study endpoint, Figures 5 and 6 show the fraction of patients in CLBP-1 and CLBP-3 achieving that degree of improvement.
+The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.
+
+Studies in Chronic Pain Due to Osteoarthritis —
+
+The efficacy of Cymbalta in chronic pain due to osteoarthritis was assessed in 2 double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study OA-1 and Study OA-2).
+All patients in both studies fulfilled the ACR clinical and radiographic criteria for classification of idiopathic osteoarthritis of the knee.
+Randomization was stratified by the patients' baseline NSAIDs-use status.
+Patients assigned to Cymbalta started treatment in both studies at a dose of 30 mg once daily for one week.
+After the first week, the dose of Cymbalta was increased to 60 mg once daily.
+After 7 weeks of treatment with Cymbalta 60 mg once daily, in OA-1 patients with sub-optimal response to treatment (<30% pain reduction) and tolerated duloxetine 60 mg once daily had their dose increased to 120mg.
+However, in OA-2, all patients, regardless of their response to treatment after 7 weeks, were re-randomized to either continue receiving Cymbalta 60 mg once daily or have their dose increased to 120 mg once daily for the remainder of the study.
+Patients in the placebo treatment groups in both studies received a matching placebo for the entire duration of studies.
+For both studies, efficacy analyses were conducted using 13-week data from the combined Cymbalta 60 mg and 120 mg once daily treatment groups compared to the placebo group.
+
+Study OA-1: Two hundred fifty-six patients (N=128 on Cymbalta, N=128 on placebo) enrolled and 204 (80%) completed the study.
+Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking Cymbalta had significantly greater pain reduction.
+Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
+
+Study OA-2: Two hundred thirty-one patients (N=111 on Cymbalta, N=120 on placebo) enrolled and 173 (75%) completed the study.
+Patients had a mean baseline pain of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+After 13 weeks of treatment, patients taking Cymbalta did not show a significantly greater pain reduction.
+
+In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement.
+The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned the value of 0% improvement.

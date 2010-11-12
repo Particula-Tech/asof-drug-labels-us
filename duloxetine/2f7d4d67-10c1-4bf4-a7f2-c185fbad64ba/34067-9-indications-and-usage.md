@@ -23,3 +23,8 @@ Cymbalta is indicated for the management of neuropathic pain (DPNP) associated w
 ## 1.4 Fibromyalgia
 
 Cymbalta is indicated for the management of fibromyalgia (FM) [see Clinical Studies (14.4)].
+
+## 1.5 Chronic Musculoskeletal Pain
+
+Cymbalta is indicated for the management of chronic musculoskeletal pain.
+This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis [see Clinical Studies (14.5)].

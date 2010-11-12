@@ -49,10 +49,12 @@ Anyone considering the use of Cymbalta in a child or adolescent must balance the
 ## 8.5 Geriatric Use
 
 Of the 2,418 patients in premarketing clinical studies of Cymbalta for MDD, 5.9% (143) were 65 years of age or over.
+Of the 1041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
+Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
 Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
 Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
 Premarketing clinical studies of GAD did not include sufficient numbers of subjects age 65 or over to determine whether they respond differently from younger subjects.
-In the MDD, DPNP, and FM studies, no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In the MDD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including Cymbalta have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.11)].
 
 The pharmacokinetics of duloxetine after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).

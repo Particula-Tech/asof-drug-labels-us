@@ -2,7 +2,7 @@
 
 Cymbalta should be swallowed whole and should not be chewed or crushed, nor should the capsule be opened and its contents sprinkled on food or mixed with liquids.
 All of these might affect the enteric coating.
-Cymbalta should be given without regard to meals.
+Cymbalta can be given without regard to meals.
 
 ## 2.1 Initial Treatment
 
@@ -28,6 +28,10 @@ Treatment should begin at 30 mg once daily for 1 week, to allow patients to adju
 Some patients may respond to the starting dose.
 There is no evidence that doses greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.4)].
 
+Chronic Musculoskeletal Pain — The recommended dose for Cymbalta is 60 mg once daily.
+Dosing may be started at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.5)].
+
 ## 2.2 Maintenance/Continuation/Extended Treatment
 
 Major Depressive Disorder — It is generally agreed that acute episodes of major depression require several months or longer of sustained pharmacologic therapy.
@@ -46,6 +50,8 @@ Efficacy beyond 12 weeks has not been systematically studied in placebo-controll
 Fibromyalgia — Fibromyalgia is recognized as a chronic condition.
 The efficacy of Cymbalta in the management of fibromyalgia has been demonstrated in placebo-controlled studies up to 3 months.
 The efficacy of Cymbalta was not demonstrated in longer studies; however, continued treatment should be based on individual patient response.
+
+Chronic Musculoskeletal Pain — The efficacy of Cymbalta has not been established in placebo-controlled studies beyond 13 weeks.
 
 ## 2.3 Dosing in Special Populations
 

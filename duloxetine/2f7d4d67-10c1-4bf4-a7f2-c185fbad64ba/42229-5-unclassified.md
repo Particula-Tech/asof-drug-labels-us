@@ -1,8 +1,8 @@
-Literature revised: January 13, 2010
+Literature revised: November 4, 2010
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
 Copyright © 2004, 2010, Eli Lilly and Company.
 All rights reserved.
 
-PV 7211 AMP
+PV 7212 AMP

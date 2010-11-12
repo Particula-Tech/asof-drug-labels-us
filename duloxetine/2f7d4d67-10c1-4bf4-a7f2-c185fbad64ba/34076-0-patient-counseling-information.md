@@ -5,8 +5,8 @@ See FDA-approved Medication Guide
 ## 17.1 Information on Medication Guide
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Cymbalta and should counsel them in its appropriate use.
-A patient Medication Guide About Using Antidepressants in Children and Teenagers is available for Cymbalta.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+A patient Medication Guide is available for Cymbalta.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide before starting Cymbalta and each time their prescription is renewed, and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
@@ -51,7 +51,7 @@ Patients should be advised to notify their physician if they
 ## 17.9 Alcohol
 
 Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, Cymbalta should ordinarily not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
+For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
 
 ## 17.10 Orthostatic Hypotension and Syncope
 
