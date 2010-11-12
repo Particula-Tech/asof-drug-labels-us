@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.10).
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Bleeding
 
@@ -18,7 +18,7 @@ Patients should be informed of the possibility of developing fluid retention (sw
 
 Patients should be informed that dasatinib may cause fetal harm when administered to a pregnant woman.
 Women should be advised of the potential hazard to the fetus and to avoid becoming pregnant.
-If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.5)].
+If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.6)].
 
 ## 17.5 Gastrointestinal Complaints
 
@@ -44,8 +44,7 @@ If this symptom is significant, they should seek medical attention.
 
 Patients should be informed that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
 
-Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
+## 17.10 Missed Dose
 
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-1237674A6 Rev June 2009
+If the patient misses a dose of SPRYCEL, the patient should take the next scheduled dose at its regular time.
+The patient should not take two doses at the same time.

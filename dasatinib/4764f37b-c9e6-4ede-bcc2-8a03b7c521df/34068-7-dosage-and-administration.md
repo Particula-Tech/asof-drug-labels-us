@@ -45,7 +45,7 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 | Chronic Phase CML (starting dose 100 mg once daily) | ANC* <0.5 × 109/L or Platelets <50 × 109/L | 1. Stop SPRYCEL until ANC ≥1.0 × 109/L and platelets ≥50 × 109/L. |
 | --- | --- | --- |
 | 2. Resume treatment with SPRYCEL at the original starting dose if recovery occurs in ≤7 days. |  |  |
-| 3. If platelets <25 × 109/L or recurrence of ANC <0.5 × 109/L for >7 days, repeat Step 1 and resume SPRYCEL at a reduced dose of 80 mg once daily (second episode) or discontinue (third episode). |  |  |
+| 3. If platelets <25 × 109/L or recurrence of ANC <0.5 × 109/L for >7 days, repeat Step 1 and resume SPRYCEL at a reduced dose of 80 mg once daily for second episode. For third episode, further reduce dose to 50 mg once daily (for newly diagnosed patients) or discontinue SPRYCEL (for patients resistant or intolerant to prior therapy including imatinib). |  |  |
 | Accelerated Phase CML, Blast Phase CML and Ph+ ALL (starting dose 140 mg once daily) | ANC* <0.5 × 109/L or Platelets <10 × 109/L | 1. Check if cytopenia is related to leukemia (marrow aspirate or biopsy). |
 | 2. If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC ≥1.0 × 109/L and platelets ≥20 × 109/L and resume at the original starting dose. |  |  |
 | 3. If recurrence of cytopenia, repeat Step 1 and resume SPRYCEL at a reduced dose of 100 mg once daily (second episode) or 80 mg once daily (third episode). |  |  |

@@ -1,138 +1,180 @@
-## 17.10 FDA-Approved Patient Labeling
+## FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
-SPRYCEL® (dasatinib) Tablets
+SPRYCEL® (Spry-sell)
+
+(dasatinib)
+
+Tablets
+
+Read the Patient Information that comes with SPRYCEL before you start taking it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
 What is SPRYCEL?
 
-SPRYCEL® (dasatinib) is a prescription medicine used to treat adults who have:
+SPRYCEL® is a prescription medicine used to treat adults who have:
 
-- chronic myeloid leukemia (CML) who are no longer benefitting from, or cannot tolerate, prior treatment including GLEEVEC® (imatinib mesylate).
-- Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) who are no longer benefitting from, or cannot tolerate, prior treatment.
+- newly diagnosed Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
+- Ph+ CML who no longer benefit from, or did not tolerate, other treatment, including Gleevec® (imatinib mesylate).
+- Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) who no longer benefit from, or did not tolerate, other treatment.
 
-How does SPRYCEL work?
+It is not known if SPRYCEL is safe and effective in children younger than 18 years old.
 
-The active ingredient of SPRYCEL is dasatinib.
-Dasatinib reduces the activity of one or more proteins responsible for the uncontrolled growth of the leukemia cells of patients with CML or Ph+ ALL.
-This reduction allows the bone marrow to resume production of normal red cells, white cells, and platelets.
+What should I tell my healthcare provider before taking SPRYCEL?
 
-Who should not take SPRYCEL?
+Before you take SPRYCEL, tell your healthcare provider if you:
 
-- SPRYCEL is currently not recommended for patients who have not previously had a trial of GLEEVEC® (imatinib mesylate).
-- Women who are pregnant or planning to become pregnant should not take SPRYCEL (see below).
-
-What should I tell my healthcare provider before I take SPRYCEL?
-
-Tell your healthcare provider about all of your medical conditions, including if you:
-
+- have problems with your immune system
+- have liver problems
+- have heart problems
+- are lactose intolerant
+- have any other medical conditions.
 - are pregnant or planning to become pregnant.
-  SPRYCEL may harm an unborn baby.
-  Women should avoid becoming pregnant while undergoing treatment with SPRYCEL.
-  Tell your healthcare provider immediately if you become pregnant or plan to become pregnant while taking SPRYCEL.
-- are breast-feeding.
-  It is not known if SPRYCEL can pass into your breast milk or if it can harm your baby.
-  Do not breast feed if you are taking SPRYCEL.
-- are a sexually active male.
-  Men who take SPRYCEL are advised to use a condom to avoid pregnancy in their partner.
-- have a liver or heart problem.
-- are lactose intolerant.
+  SPRYCEL may harm your unborn baby.
+  Women should not become pregnant while taking SPRYCEL.
+  Talk to your healthcare provider right away if you are pregnant or plan to become pregnant.
+- are breastfeeding or plan to breastfeed.
+  It is not known if SPRYCEL passes into your breast milk or if it can harm your baby.
+  You and your healthcare provider should decide if you will take SPRYCEL or breastfeed.
+  You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, antacids, and herbal supplements.
 
-SPRYCEL is eliminated from your body through the liver.
-The use of certain other medicines may alter the levels of SPRYCEL in your bloodstream.
-Likewise, levels of other medicines in your bloodstream can be affected by SPRYCEL.
-Such changes can increase the side effects, or reduce the activity of the medicines you are taking, including SPRYCEL.
+Especially tell your healthcare provider if you take:
 
-- Medicines that increase the amount of SPRYCEL in your bloodstream are NIZORAL® (ketoconazole), SPORANOX® (itraconazole), NORVIR® (ritonavir), REYATAZ® (atazanavir sulfate), CRIXIVAN® (indinavir), VIRACEPT® (nelfinavir), INVIRASE® (saquinavir), KETEK® (telithromycin), E-MYCIN® (erythromycin), and BIAXIN® (clarithromycin).
-- Medicines that decrease the amount of SPRYCEL in your bloodstream are DECADRON® (dexamethasone), DILANTIN® (phenytoin), TEGRETOL® (carbamazepine), RIMACTANE® (rifampin), and LUMINAL® (phenobarbital).
-- Medicines whose blood levels might be altered by SPRYCEL are SANDIMMUNE® (cyclosporine), ALFENTA® (alfentanil), FENTANYL® (fentanyl), ORAP® (pimozide), RAPAMUNE® (sirolimus), PROGRAF® (tacrolimus), and ERGOMAR® (ergotamine).
-- dexamethasone (a steroid).
-- medicines that reduce stomach acid such as TAGAMET® (cimetidine), PEPCID® (famotidine), ZANTAC® (ranitidine), PRILOSEC® (omeprazole), PROTONIX® (pantoprazole sodium).
-  You should avoid taking these medicines.
+- medicines that increase the amount of SPRYCEL in your bloodstream such as:
+
+|  | Nizoral® (ketoconazole), | Nefazodone (serzone, nefadar), |  |
+| --- | --- | --- | --- |
+|  | Sporanox® (itraconazole), | Invirase® (saquinavir), |  |
+|  | Norvir® (ritonavir), | Ketek® (telithromycin), |  |
+|  | Reyataz® (atazanvir sulfate), | E-mycin® (erythromycin), |  |
+|  | Crixivan® (indinavir), | Biaxin® (clarithromycin). |  |
+|  | Viracept® (nelfinavir), |  |  |
+
+- medicines that decrease the amount of SPRYCEL in your bloodstream such as:
+
+|  | Decadron® (dexamethasone), | Rimactane® (rifampin), |  |
+| --- | --- | --- | --- |
+|  | Dilantin® (phenytoin), | Luminal® (phenobarbital). |  |
+|  | Tegretol® (carbamazepine), |  |  |
+
+- medicines whose blood levels might change by taking SPRYCEL such as:
+
+|  | Sandimmune® (cyclosporine), | Rapamune® (sirolimus), |  |
+| --- | --- | --- | --- |
+|  | Alfenta® (alfentanil), | Prograf® (tracrolimus), |  |
+|  | Fentanyl® (fentanyl), | Ergomar® (ergotamine). |  |
+|  | Orap® (pimozide), |  |  |
 
 SPRYCEL is best absorbed from your stomach into your bloodstream in the presence of stomach acid.
-You should avoid taking medicines that reduce stomach acid such as TAGAMET® (cimetidine), PEPCID® (famotidine), ZANTAC® (ranitidine), PRILOSEC® (omeprazole), PROTONIX® (pantoprazole sodium), NEXIUM® (esomeprazole), ACIPHEX® (rabeprazole),l or PREVACID® (lansoprazole) while taking SPRYCEL.
-Medicines that neutralize stomach acid, such as MAALOX® (aluminum hydroxide/magnesium hydroxide), TUMS® (calcium carbonate), or ROLAIDS® (calcium carbonate and magnesium) may be taken up to 2 hours before or 2 hours after SPRYCEL.
+You should avoid taking medicines that reduce stomach acid such as:
 
-Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are using blood thinners, such as COUMADIN® (warfarin sodium) or aspirin.
+|  | Tagamet® (cimetidine), | Protonix® (pentoprazole sodium), |  |
+| --- | --- | --- | --- |
+|  | Pepcid® (famotidine), | Nexium® (esomeprazole), |  |
+|  | Zantac® (ranitidine), | AcipHex® (rabeprazole), |  |
+|  | Prilosec® (omeprazole), | Prevacid® (lansoprazole). |  |
+
+Medicines that neutralize stomach acid, such as Maalox® (aluminum hydroxide/magnesium hydroxide), Tums® (calcium carbonate), or Rolaids® (calcium carbonate and magnesia) may be taken up to 2 hours before or 2 hours after SPRYCEL.
+
+Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are using blood thinner medicine, such as Coumadin® (warfarin sodium) or aspirin.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How do I take SPRYCEL?
+How should I take SPRYCEL?
 
 Take SPRYCEL exactly as prescribed by your healthcare provider.
 
-- If you have chronic phase CML, the usual dose is 100 mg (one 100-mg tablet or two 50-mg tablets) once daily, either in the morning or in the evening.
-- If you have accelerated or blast crisis CML or Ph+ ALL, the usual dose is 140 mg (two 70-mg tablets) once daily, either in the morning or in the evening.
-- Take SPRYCEL with or without a meal.
+- Take SPRYCEL with or without food.
   Try to take SPRYCEL at the same time each day.
-- Swallow SPRYCEL tablets whole with water.
+- Swallow SPRYCEL tablets whole.
   Do not break, cut, or crush the tablets.
-- Do not drink grapefruit juice while taking SPRYCEL.
-- Depending on your response to treatment and any side effects that you may experience, your healthcare provider may adjust your dose of SPRYCEL upward or downward, or may temporarily discontinue SPRYCEL.
-- You should not change your dose or stop taking SPRYCEL without first talking with your healthcare provider.
+- You should not drink grapefruit juice while taking SPRYCEL.
+- Your healthcare provider may:
+  - change your dose of SPRYCEL or
+  - tell you to temporarily stop taking SPRYCEL.
+- Do not change your dose or stop taking SPRYCEL without first talking with your healthcare provider.
 - If you miss a dose of SPRYCEL, take your next scheduled dose at its regular time.
   Do not take two doses at the same time.
   Call your healthcare provider or pharmacist if you are not sure what to do.
-- If you have accidentally taken more than the prescribed dose of SPRYCEL, call your healthcare provider right away.
+- If you take too much SPRYCEL, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of SPRYCEL?
 
-The following information describes the most important side effects of SPRYCEL.
-It is not a comprehensive list of all side effects recorded in clinical trials with SPRYCEL.
-You should report any unusual symptoms to your healthcare provider.
+SPRYCEL may cause serious side effects, including:
 
-- Low Blood Counts: SPRYCEL may cause low red blood cell counts (anemia), low white blood cell counts (neutropenia), and low platelet counts (thrombocytopenia).
-  Your healthcare provider will check your blood counts regularly during treatment with SPRYCEL and may adjust your dose of SPRYCEL or withhold the drug temporarily in the event your blood counts drop too low.
-  Notify your healthcare provider immediately if you develop a fever while taking SPRYCEL.
-- Bleeding: SPRYCEL may cause bleeding.
-  The most serious bleeding events observed in clinical studies included bleeding into the brain leading to death in 1% of patients, and bleeding from the gastrointestinal tract.
-  Less severe events included bleeding from the nose, the gums, bruising of the skin, and excessive menstrual bleeding.
-  Tell your healthcare provider immediately if you have any bleeding or bruising while taking SPRYCEL.
-- Fluid Retention: SPRYCEL may cause fluid to accumulate in your legs and around your eyes.
-  In more severe cases, fluid may accumulate in the lining of your lungs, the sac around your heart, or your abdominal cavity.
-  Notify your healthcare provider immediately if you experience swelling, weight gain, or increasing shortness of breath while taking SPRYCEL.
+- Low Blood Cell Counts: SPRYCEL may cause low red blood cell counts (anemia), low white blood cell counts (neutropenia), and low platelet counts (thrombocytopenia).
+  Your healthcare provider will do blood tests to check your blood cell counts regularly during your treatment with SPRYCEL.
+  Call your healthcare provider right away if you have a fever or any signs of an infection while taking SPRYCEL.
+- Bleeding: SPRYCEL may cause severe bleeding that can lead to death.
+  Call your healthcare provider right away if you have:
+  - unusual bleeding or bruising of your skin
+  - bright red or dark tar-like stools
+  - a decrease in your level of consciousness, headache, or change in speech.
+- Your body may hold too much fluid (fluid retention): In severe cases, fluid may build up in the lining of your lungs, the sac around your heart, or your stomach cavity.
+  Call your healthcare provider right away if you get any of these symptoms during treatment with SPRYCEL:
+  - swelling all over your body
+  - weight gain
+  - shortness of breath and cough.
+- Heart problems.
+  SPRYCEL may cause an abnormal heart rate, heart problems or a heart attack.
+  Your healthcare provider will monitor the potassium and magnesium levels in your blood, and your heart function.
 
-Other common side effects of SPRYCEL therapy include diarrhea, headache, shortness of breath, skin rash, fatigue, and nausea.
-Tell your healthcare provider if you have any side effects.
+Other common side effects of SPRYCEL therapy include:
 
-How will I know if SPRYCEL is working?
+|  | • diarrhea | • tiredness |  |
+| --- | --- | --- | --- |
+|  | • headache | • vomiting |  |
+|  | • cough | • muscle pain |  |
+|  | • skin rash | • weakness |  |
+|  | • fever | • infections |  |
+|  | • nausea |  |  |
 
-How well you respond to SPRYCEL therapy may depend on several factors, including the phase of your disease and prior treatments.
-General treatment goals for patients treated with SPRYCEL include a reduction in the number of leukemia cells and improvement of the blood cell counts.
-While you are on SPRYCEL, your healthcare provider will monitor these responses through routine blood tests.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+These are not all of the possible side effects of SPRYCEL.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store SPRYCEL?
 
-- Store SPRYCEL (dasatinib) Tablets at room temperature, 59° to 86° F (15° to 30° C).
+- Store SPRYCEL at room temperature, 59°F to 86°F (15°C to 30°C).
+- Ask your healthcare provider or pharmacist about the right way to throw away outdated or unused SPRYCEL.
+- Women who are pregnant should not handle crushed or broken SPRYCEL tablets.
 - Keep SPRYCEL and all medicines out of the reach of children and pets.
 
-General information about SPRYCEL: Medicines are sometimes prescribed for purposes other than those listed in the patient information leaflet.
+General information about SPRYCEL
+
+Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
 Do not use SPRYCEL for a condition for which it is not prescribed.
 Do not give SPRYCEL to other people even if they have the same symptoms you have.
 It may harm them.
 
-This patient information leaflet summarizes the most important information about SPRYCEL.
+This Patient Information leaflet summarizes the most important information about SPRYCEL.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about SPRYCEL that is written for healthcare professionals.
-You can visit www.sprycel.com or call 1-800-332-2056.
+
+For more information, go to www.sprycel.com or call 1-800-332-2056.
 
 What are the ingredients in SPRYCEL?
 
-Active Ingredient: dasatinib
+Active ingredient: dasatinib
 
-Inactive Ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+Inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
 The tablet coating consists of hypromellose, titanium dioxide, and polyethylene glycol.
-
-—————————————— REYATAZ® is a registered trademark of Bristol-Myers Squibb Company.
-COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
-Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
+The Patient Information leaflet was last revised: 10/2010
+
+Issued: June 2006
+
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1270635 Rev June 2009
+1284903 Rev October 2010

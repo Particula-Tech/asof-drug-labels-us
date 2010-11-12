@@ -26,9 +26,10 @@ The safety and efficacy of SPRYCEL in patients less than 18 years of age have no
 
 ## 8.5 Geriatric Use
 
-Of the 2182 patients in clinical studies of SPRYCEL, 547 (25%) were 65 years of age and over and 105 (5%) were 75 years of age and over.
+In the newly diagnosed chronic phase CML study, 25 patients (10%) were 65 years of age and over and 7 patients (3%) were 75 years of age and over.
+Of the 2182 patients in clinical studies of SPRYCEL with resistance or intolerance to imatinib therapy, 547 (25%) were 65 years of age and over and 105 (5%) were 75 years of age and over.
 No differences in efficacy were observed between older and younger patients.
-While the safety profile of SPRYCEL in the geriatric population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnea.
+Compared to patients under age 65 years, patients aged 65 years and older are more likely to experience toxicity.
 
 ## 8.6 Hepatic Impairment
 
