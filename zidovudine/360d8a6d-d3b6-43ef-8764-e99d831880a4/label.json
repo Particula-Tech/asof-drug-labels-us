@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019951"
+  ],
+  "inn": "zidovudine",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-213-01",
+    "49702-213-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "zidovudine",
+      "name": "RETROVIR"
+    }
+  ],
+  "setid": "360d8a6d-d3b6-43ef-8764-e99d831880a4",
+  "source": "dailymed"
+}
