@@ -31,16 +31,10 @@ In addition to adverse events reported from clinical trials, the following event
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to fluticasone propionate or a combination of these factors.
 
-### General
+General: Hypersensitivity reactions, including angioedema, skin rash, edema of the face and tongue, pruritus, urticaria, bronchospasm, wheezing, dyspnea, and anaphylaxis/anaphylactoid reactions, which in rare instances were severe.
 
-Hypersensitivity reactions, including angioedema, skin rash, edema of the face and tongue, pruritus, urticaria, bronchospasm, wheezing, dyspnea, and anaphylaxis/anaphylactoid reactions, which in rare instances were severe.
+Ear, Nose, and Throat: Alteration or loss of sense of taste and/or smell and, rarely, nasal septal perforation, nasal ulcer, sore throat, throat irritation and dryness, cough, hoarseness, and voice changes.
 
-### Ear, Nose, and Throat
-
-Alteration or loss of sense of taste and/or smell and, rarely, nasal septal perforation, nasal ulcer, sore throat, throat irritation and dryness, cough, hoarseness, and voice changes.
-
-### Eye
-
-Dryness and irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, and cataracts.
+Eye: Dryness and irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, and cataracts.
 
 Cases of growth suppression have been reported for intranasal corticosteroids, including FLONASE (see PRECAUTIONS: Pediatric Use).

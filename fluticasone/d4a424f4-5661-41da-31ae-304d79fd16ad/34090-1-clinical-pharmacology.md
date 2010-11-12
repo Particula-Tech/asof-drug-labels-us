@@ -22,34 +22,26 @@ Similarly, when corticosteroids are discontinued, symptoms may not return for se
 
 ## Pharmacokinetics
 
-### Absorption
-
-The activity of FLONASE Nasal Spray is due to the parent drug, fluticasone propionate.
+Absorption: The activity of FLONASE Nasal Spray is due to the parent drug, fluticasone propionate.
 Indirect calculations indicate that fluticasone propionate delivered by the intranasal route has an absolute bioavailability averaging less than 2%.
 After intranasal treatment of patients with allergic rhinitis for 3 weeks, fluticasone propionate plasma concentrations were above the level of detection (50 pg/mL) only when recommended doses were exceeded and then only in occasional samples at low plasma levels.
 Due to the low bioavailability by the intranasal route, the majority of the pharmacokinetic data was obtained via other routes of administration.
 Studies using oral dosing of radiolabeled drug have demonstrated that fluticasone propionate is highly extracted from plasma and absorption is low.
 Oral bioavailability is negligible, and the majority of the circulating radioactivity is due to an inactive metabolite.
 
-### Distribution
-
-Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
+Distribution:Following intravenous administration, the initial disposition phase for fluticasone propionate was rapid and consistent with its high lipid solubility and tissue binding.
 The volume of distribution averaged 4.2 L/kg.
 
 The percentage of fluticasone propionate bound to human plasma proteins averaged 91% with no obvious concentration relationship.
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and freely equilibrates between erythrocytes and plasma.
 Fluticasone propionate is not significantly bound to human transcortin.
 
-### Metabolism
-
-The total blood clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+Metabolism:The total blood clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the cytochrome P450 3A4 pathway.
 This inactive metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
-### Elimination
-
-Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Elimination:Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
 ## Special Populations

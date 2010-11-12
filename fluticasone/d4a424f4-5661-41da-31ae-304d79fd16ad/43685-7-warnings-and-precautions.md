@@ -86,9 +86,7 @@ Prostate weight was significantly reduced at a subcutaneous dose of 50 mcg/kg.
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mcg/kg, respectively (approximately equivalent to and 4 times, respectively, the maximum recommended daily intranasal dose in adults on a mcg/m2 basis), revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
+Teratogenic Effects:Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mcg/kg, respectively (approximately equivalent to and 4 times, respectively, the maximum recommended daily intranasal dose in adults on a mcg/m2 basis), revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
 
 In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose of 4 mcg/kg (less than the maximum recommended daily intranasal dose in adults on a mcg/m2 basis).
 However, no teratogenic effects were reported at oral doses up to 300 mcg/kg (approximately 25 times the maximum recommended daily intranasal dose in adults on a mcg/m2 basis) of fluticasone propionate to the rabbit.

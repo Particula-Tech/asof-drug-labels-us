@@ -51,6 +51,24 @@ USING YOUR NASAL SPRAY
 
 DOSAGE
 
+- For ADULTS, the usual starting dosage is 2 sprays in each nostril once daily.
+  Sometimes your doctor may recommend using 1 spray in each nostril twice a day (morning and evening).
+  You should not use more than a total of 2 sprays in each nostril daily.
+  After you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
+  For ADOLESCENTS and CHILDREN (4 years of age and older), the usual starting dosage is 1 spray in each nostril once daily.
+  Sometimes your doctor may recommend using 2 sprays in each nostril daily.
+  Then, after you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
+- DO NOT use more of your medicine or take it more often than your doctor advises.
+- FLONASE may begin to work within 12 hours of the first dose, but it takes several days of regular use to reach its greatest effect.
+  It is important that you use FLONASE Nasal Spray as prescribed by your doctor.
+  Best results will be obtained by using the spray on a regular basis.
+  If symptoms disappear, contact your doctor for further instructions.
+- If you also have itchy, watery eyes, you should tell your doctor.
+  You may be given an additional medicine to treat your eyes.
+  Be careful not to confuse them, particularly if the second medicine is an eye drop.
+- If you miss a dose, just take your regularly scheduled next dose when it is due.
+  DO NOT DOUBLE the dose.
+
 HOW TO USE YOUR NASAL SPRAY
 
 Read the complete instructions carefully and use only as directed.
@@ -74,7 +92,7 @@ Blow your nose to clear your nostrils.
 
 4.
 Close one nostril.
-Tilt your head forward slightly and, keeping the bottle upright, carefully insert the nasal applicator into the other nostril (Figure 3).[Enter image caption here]
+Tilt your head forward slightly and, keeping the bottle upright, carefully insert the nasal applicator into the other nostril (Figure 3).
 
 5.
 Start to breathe in through your nose, and WHILE BREATHING IN press firmly and quickly down once on the applicator to release the spray.
