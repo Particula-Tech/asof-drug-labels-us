@@ -1,10 +1,10 @@
 # PRINCIPLE DISPLAY PANEL
 
-Keterolac Tromethamine Ophthalmic Solution
+Ketorolac Tromethamine Ophthalmic Solution
 
 FOR TOPICAL OPHTHALMIC USE ONLY
 
-Each mL contains: Active: keterolac tromethamine 0.5%; Inactives: benzalkonium chloride 0.01%; edetate disodium 0.1%; octoxynol 40; purified water; sodium chloride; hydrochloric acid and/or sodium hydroxide to adjust the pH.
+Each mL contains: Active: ketorolac tromethamine 0.5%; Inactives: benzalkonium chloride 0.01%; edetate disodium 0.1%; octoxynol 40; purified water; sodium chloride; hydrochloric acid and/or sodium hydroxide to adjust the pH.
 
 Dosage: One drop four times a day.
 
