@@ -70,11 +70,12 @@ There are no data regarding the most appropriate method of identification of pat
 Prior to resumption of Herceptin infusion, the majority of patients who experienced a severe infusion reaction were pre‑medicated with antihistamines and/or corticosteroids.
 While some patients tolerated Herceptin infusions, others had recurrent severe infusion reactions despite pre‑medications.
 
-## 5.3 Exacerbation of Chemotherapy-Induced Neutropenia
+## 5.3 Embryo-Fetal Toxicity
 
-In randomized, controlled clinical trials the per‑patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
-The incidence of septic death was similar among patients who received Herceptin and those who did not.
-[see Adverse Reactions (6.1)]
+Herceptin can cause fetal harm when administered to a pregnant woman.
+In post marketing reports, use of Herceptin during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy and provide contraception counseling to women of childbearing potential.
+[see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
 ## 5.4 Pulmonary Toxicity
 
@@ -83,7 +84,13 @@ Pulmonary toxicity includes dyspnea, interstitial pneumonitis, pulmonary infiltr
 Such events can occur as sequelae of infusion reactions [see Warnings and Precautions (5.2)].
 Patients with symptomatic intrinsic lung disease or with extensive tumor involvement of the lungs, resulting in dyspnea at rest, appear to have more severe toxicity.
 
-## 5.5 HER2 Testing
+## 5.5 Exacerbation of Chemotherapy-Induced Neutropenia
+
+In randomized, controlled clinical trials the per‑patient incidences of NCI CTC Grade 3–4 neutropenia and of febrile neutropenia were higher in patients receiving Herceptin in combination with myelosuppressive chemotherapy as compared to those who received chemotherapy alone.
+The incidence of septic death was similar among patients who received Herceptin and those who did not.
+[see Adverse Reactions (6.1)]
+
+## 5.6 HER2 Testing
 
 Detection of HER2 protein overexpression is necessary for selection of patients appropriate for Herceptin therapy because these are the only patients studied and for whom benefit has been shown.
 Due to differences in tumor histopathology, use FDA-approved tests for the specific tumor type (breast or gastric/gastroesophageal adenocarcinoma) to assess HER2 protein overexpression and HER2 gene amplification.
@@ -100,10 +107,3 @@ Treatment outcomes for adjuvant breast cancer (Studies 2 and 3) and for metastat
 Assessment of HER2 protein overexpression and HER2 gene amplification in metastatic gastric cancer should be performed using FDA-approved tests specifically for gastric cancers due to differences in gastric vs. breast histopathology, including incomplete membrane staining and more frequent heterogeneous expression of HER2 seen in gastric cancers.
 Study 7 demonstrated that gene amplification and protein overexpression were not as well correlated as with breast cancer.
 Treatment outcomes for metastatic gastric cancer (Study 7), based on HER2 gene amplification (FISH) and HER2 protein overexpression (IHC) test results are provided in Table 12.
-
-## 5.6 Embryo-Fetal Toxicity
-
-Herceptin can cause fetal harm when administered to a pregnant woman.
-Post‑marketing case reports suggest that Herceptin use during pregnancy increases the risk of oligohydramnios during the second and third trimesters.
-If Herceptin is used during pregnancy or if a woman becomes pregnant while taking Herceptin, she should be apprised of the potential hazard to a fetus.
-[see Use in Specific Populations (8.1)].

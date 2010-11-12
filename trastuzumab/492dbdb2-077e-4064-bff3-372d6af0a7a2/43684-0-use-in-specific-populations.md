@@ -2,27 +2,26 @@
 
 ## 8.1 Pregnancy
 
-Category D [see Warnings and Precautions (5.6)]
+Category D [see Warnings and Precautions (5.3), Nonclinical Toxicology (13.2)]
 
 Herceptin can cause fetal harm when administered to a pregnant woman.
-Post-marketing case reports suggest that Herceptin use during pregnancy increases the risk for oligohydramnios during the second and third trimester.
-If Herceptin is used during pregnancy or if a woman becomes pregnant while taking Herceptin, she should be apprised of the potential hazard to a fetus.
+In post-marketing reports use of Herceptin during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 
-In the postmarketing setting, oligohydramnios was reported in women who received Herceptin during pregnancy, either alone or in combination with chemotherapy.
-In half of these women, amniotic fluid index increased after Herceptin was stopped.
-In one case, Herceptin was resumed after the amniotic fluid index improved, and oligohydramnios recurred.
+These case reports described oligohydramnios in pregnant women who received Herceptin either alone or in combination with chemotherapy.
+In some case reports, amniotic fluid index increased after Herceptin was stopped.
+In one case, Herceptin therapy resumed after the amniotic fluid index improved, and oligohydramnios recurred.
 
-Women using Herceptin during pregnancy should be monitored for oligohydramnios.
-If oligohydramnios occurs, fetal testing should be done that is appropriate for gestational age and consistent with community standards of care.
-Additional intravenous (IV) hydration has been helpful when oligohydramnios has occurred following administration of other chemotherapy agents, however the effects of additional IV hydration with Herceptin treatment are not known.
+Monitor women exposed to Herceptin during pregnancy for oligohydramnios.
+If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+The efficacy of IV hydration in management of oligohydramnios due to Herceptin exposure is not known.
+
+Advise women of the potential hazard to the fetus resulting from Herceptin exposure during pregnancy.
+Encourage pregnant women with breast cancer who are using Herceptin to enroll in MotHER the Herceptin Pregnancy Registry: phone 1 800 690 6720.
+[see Patient Counseling Information (17)].
 
 No teratogenic effects were observed in offspring from reproduction studies in cynomolgus monkeys at doses up to 25 times the recommended weekly human dose of 2 mg/kg trastuzumab.
 In mutant mice lacking HER2, embryos died in early gestation.
-Trastuzumab exposure was reported at delivery in offspring of cynomolgus monkeys treated during the early (Days 20-50 of gestation) or late (Days 120-150 of gestation) fetal development periods, at levels of 15 to 28% of the maternal blood levels.
-
-Registry
-
-Pregnant women with breast cancer who are using Herceptin are encouraged to enroll in MotHER‑ the Herceptin Pregnancy Registry: phone 1‑800‑690‑6720.
+Trastuzumab exposure was reported at delivery in offspring of cynomolgus monkeys treated during the early (Days 20–50 of gestation) or late (Days 120–150 of gestation) fetal development periods, at levels of 15 to 28% of the maternal blood levels.
 
 ## 8.3 Nursing Mothers
 

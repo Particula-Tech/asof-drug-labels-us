@@ -4,8 +4,9 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Cardiomyopathy [see Warnings and Precautions (5.1)]
 - Infusion reactions [see Warnings and Precautions (5.2)]
-- Exacerbation of chemotherapy‑induced neutropenia [see Warnings and Precautions (5.3)]
+- Embryo-fetal Toxicity [see Warnings and Precautions (5.3)]
 - Pulmonary toxicity [see Warnings and Precautions (5.4)]
+- Exacerbation of chemotherapy‑induced neutropenia [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions in patients receiving Herceptin in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
 Adverse reactions requiring interruption or discontinuation of Herceptin treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.2)].
@@ -177,7 +178,7 @@ Cisplatin was administered at 80 mg/m2 on Day 1 and the fluoropyrimidine was adm
 Chemotherapy was administered for six 21-day cycles.
 Median duration of Herceptin treatment was 21 weeks; median number of Herceptin infusions administered was eight.
 
-Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence >1% between Arms) and Higher Incidence in Herceptin Arm)
+Table 5: Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence >1% between Arms) and Higher Incidence in Herceptin Arm
 
 |  | Herceptin +FC (N = 294) N (%) |  | FC (N = 290) N (%) |  |
 | --- | --- | --- | --- | --- |
@@ -215,7 +216,7 @@ Cardiomyopathy
 Serial measurement of cardiac function (LVEF) was obtained in clinical trials in the adjuvant treatment of breast cancer.
 In Study 3, the median duration of follow‑up was 12.6 months (12.4 months in the observation arm; 12.6 months in the 1‑year Herceptin arm); and in Studies 1 and 2, 23 months in the AC‑T arm, 24 months in the AC‑TH arm.
 In Studies 1 and 2, 6% of patients were not permitted to initiate Herceptin following completion of AC chemotherapy due to cardiac dysfunction (LVEF < 50% or ≥ 15 point decline in LVEF from baseline to end of AC).
-Following initiation of Herceptin therapy, the incidence of new‑onset dose‑limiting myocardial dysfunction was higher among patients receiving Herceptin and paclitaxel as compared to those receiving paclitaxel alone in Studies 1 and 2, and in patients receiving Herceptin monotherapy compared to observation in Study 3 (see Table 5, Figures 1 and 2).
+Following initiation of Herceptin therapy, the incidence of new‑onset dose‑limiting myocardial dysfunction was higher among patients receiving Herceptin and paclitaxel as compared to those receiving paclitaxel alone in Studies 1 and 2, and in patients receiving Herceptin monotherapy compared to observation in Study 3 (see Table 6, Figures 1 and 2).
 
 Table 6 For Studies 1, 2 and 3, events are counted from the beginning of Herceptin treatment.
 For Study 4, events are counted from the date of randomization.: Per‑patient Incidence of New Onset Myocardial Dysfunction (by LVEF) Studies 1, 2, 3 and 4
@@ -339,5 +340,5 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Infusion reaction [see Warnings and Precautions (5.2)]
-- Oligohydramnios [see Warnings and Precautions (5.6)]
+- Oligohydramnios or oligohydramnios sequence, including pulmonary hypoplasia, skeletal abnormalities, and neonatal death [see Warnings and Precautions (5.3)]
 - Glomerulopathy [see Adverse Reactions (6.1)]

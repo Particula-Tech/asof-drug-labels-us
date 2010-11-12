@@ -14,7 +14,7 @@ During and following paclitaxel, docetaxel, or docetaxel/carboplatin:
 - Initial dose of 4 mg/kg as an intravenous infusion over 90 minutes then at 2 mg/kg as an intravenous infusion over 30 minutes weekly during chemotherapy for the first 12 weeks (paclitaxel or docetaxel) or 18 weeks (docetaxel/carboplatin).
 - One week following the last weekly dose of Herceptin, administer Herceptin at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
 
-As a single agent within three weeks following completion of multi‑modality, anthracycline‑based chemotherapy regimens.
+As a single agent within three weeks following completion of multi‑modality, anthracycline‑based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes
 - Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks.
