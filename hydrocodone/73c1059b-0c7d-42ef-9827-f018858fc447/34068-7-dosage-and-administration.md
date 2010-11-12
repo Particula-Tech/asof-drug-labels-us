@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Dosage should be adjusted according to the severity of pain and response of the patient.
+Dosage should be adjusted according to the severity of the pain and the response of the patient.
 However, it should be kept in mind that tolerance to hydrocodone can develop with continued use and that the incidence of untoward effects is dose related.
 
 The usual adult dosage for Hydrocodone Bitartrate and Acetaminophen Tablets USP is:

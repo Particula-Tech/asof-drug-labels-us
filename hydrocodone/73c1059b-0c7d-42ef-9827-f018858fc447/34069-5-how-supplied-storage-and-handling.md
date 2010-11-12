@@ -22,7 +22,7 @@ Dispense in a tight, light-resistant container (as defined in USP) with a child-
 Storage – Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-A Schedule III Narcotic.
+A Schedule III controlled drug substance.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
@@ -30,4 +30,4 @@ COVIDIEN™ Mallinckrodt
 
 Printed in U.S.A.
 
-Rev 10/2009
+Rev 02/2010

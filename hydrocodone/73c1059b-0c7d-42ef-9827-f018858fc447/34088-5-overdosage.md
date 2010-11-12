@@ -30,10 +30,10 @@ Meticulous attention should be given to maintaining adequate pulmonary ventilati
 In severe cases of intoxication, peritoneal dialysis, or preferably hemodialysis may be considered.
 If hypoprothrombinemia occurs due to acetaminophen overdose, vitamin K should be administered intravenously.
 
-Naloxone, a narcotic antagonist, can reverse respiratory depression and coma associated with opioid overdose.
+Naloxone, an opioid antagonist, can reverse respiratory depression and coma associated with opioid overdose.
 Naloxone hydrochloride 0.4 mg to 2 mg is given parenterally.
-Since the duration of action of hydrocodone may exceed that of naloxone, the patient should be kept under continuous surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
-A narcotic antagonist should not be administered in the absence of clinically significant respiratory or cardiovascular depression.
+Since the duration of action of hydrocodone may exceed that of of the naloxone, the patient should be kept under continuous surveillance and repeated doses of the antagonist should be administered as needed to maintain adequate respiration.
+An opioid antagonist should not be administered in the absence of clinically significant respiratory or cardiovascular depression.
 
 If the dose of acetaminophen may have exceeded 140 mg/kg, acetylcysteine should be administered as early as possible.
 Serum acetaminophen levels should be obtained, since levels four or more hours following ingestion help predict acetaminophen toxicity.

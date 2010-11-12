@@ -14,7 +14,7 @@ Pharmacokinetics – The behavior of the individual components is described belo
 
 Hydrocodone – Following a 10 mg oral dose of hydrocodone administered to five adult male subjects, the mean peak concentration was 23.6 ± 5.2 ng/mL.
 Maximum serum levels were achieved at 1.3 ± 0.3 hours and the half-life was determined to be 3.8 ± 0.3 hours.
-Hydrocodone exhibits a complex pattern of metabolism including O-demethylation, N-demethylation and 6-keto reduction to the corresponding 6-α- and 6-β-hydroxymetabolites (see OVERDOSAGE for toxicity information).
+Hydrocodone exhibits a complex pattern of metabolism including O-demethylation, N-demethylation and 6-keto reduction to the corresponding 6-α- and 6-β-hydroxy-metabolites (see OVERDOSAGE for toxicity information).
 
 Acetaminophen – Acetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues.
 The plasma half-life is 1.25 to 3 hours, but may be increased by liver damage and following overdosage.

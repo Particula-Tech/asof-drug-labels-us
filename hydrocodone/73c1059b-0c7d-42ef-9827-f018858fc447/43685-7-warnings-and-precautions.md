@@ -3,30 +3,36 @@
 Respiratory Depression – At high doses or in sensitive patients, hydrocodone may produce dose-related respiratory depression by acting directly on the brain stem respiratory center.
 Hydrocodone also affects the center that controls respiratory rhythm, and may produce irregular and periodic breathing.
 
-Head Injury and Increased Intracranial Pressure – The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a pre-existing increase in intracranial pressure.
+Head Injury and Increased Intracranial Pressure – The respiratory depressant effects of narcotics and their capacity to elevate cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions or a preexisting increase in intracranial pressure.
 Furthermore, narcotics produce adverse reactions which may obscure the clinical course of patients with head injuries.
 
 Acute Abdominal Conditions – The administration of narcotics may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
+
+Misuse, Abuse, and Diversion of Opioids – Hydrocodone bitartrate and acetaminophen tablets contains hydrocodone an opioid agonist, and is a Schedule III controlled substance.
+Opioid agonists have the potential for being abused and are sought by abusers and people with addiction disorders, and are subject to diversion.
+
+Hydrocodone bitartrate and acetaminophen tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
+This should be considered when prescribing or dispensing hydrocodone bitartrate and acetaminophen tablets in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion (see DRUG ABUSE AND DEPENDENCE).
 
 # PRECAUTIONS
 
 ## General
 
-Special Risk Patients – As with any narcotic analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients, and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
+Special Risk Patients – As with any narcotic analgesic agent, hydrocodone bitartrate and acetaminophen tablets should be used with caution in elderly or debilitated patients and those with severe impairment of hepatic or renal function, hypothyroidism, Addison's disease, prostatic hypertrophy or urethral stricture.
 The usual precautions should be observed and the possibility of respiratory depression should be kept in mind.
 
-Cough Reflex – Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used post-operatively and in patients with pulmonary disease.
+Cough Reflex – Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used postoperatively and in patients with pulmonary disease.
 
-Information for Patients – Hydrocodone, like all narcotics, may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
+Information for Patients – Hydrocodone, like all narcotics, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
 
 Alcohol and other CNS depressants may produce an additive CNS depression, when taken with this combination product, and should be avoided.
 
-Hydrocodone may be habit-forming.
+Hydrocodone may be habit forming.
 Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
 
 Laboratory Tests – In patients with severe hepatic or renal disease, effects of therapy should be monitored with serial liver and/or renal function tests.
 
-Drug Interactions – Patients receiving narcotics, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
+Drug Interactions – Patients receiving other narcotic analgesics, antihistamines, antipsychotics, antianxiety agents, or other CNS depressants (including alcohol) concomitantly with hydrocodone bitartrate and acetaminophen tablets may exhibit an additive CNS depression.
 When combined therapy is contemplated, the dose of one or both agents should be reduced.
 
 The use of MAO inhibitors or tricyclic antidepressants with hydrocodone preparations may increase the effect of either the antidepressant or hydrocodone.
@@ -52,14 +58,14 @@ Nursing Mothers – Acetaminophen is excreted in breast milk in small amounts, b
 It is not known whether hydrocodone is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from hydrocodone and acetaminophen, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use – Safety and effectiveness in pediatric patients have not been established.
+Pediatric Use – Safety and effectiveness in the pediatric population have not been established.
 
 Geriatric Use – Clinical studies of hydrocodone bitartrate and acetaminophen tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 Hydrocodone and the major metabolites of acetaminophen are known to be substantially excreted by the kidney.
-Thus the risk of toxic reactions may be greater in patients with impaired renal function due to the accumulation of the parent compound and/or metabolites in the plasma.
+Thus the risk of toxic reactions may be greater in patients with impaired renal function due to accumulation of the parent compound and/or metabolites in the plasma.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 Hydrocodone may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of hydrocodone bitartrate and acetaminophen tablets and observed closely.

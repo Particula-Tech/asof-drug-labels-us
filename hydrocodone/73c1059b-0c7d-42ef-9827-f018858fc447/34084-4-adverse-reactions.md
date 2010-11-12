@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-The most frequently reported adverse reactions are light-headedness, dizziness, sedation, nausea and vomiting.
-These effects seem to be more prominent in ambulatory than in non-ambulatory patients, and some of these adverse reactions may be alleviated if the patient lies down.
+The most frequently reported adverse reactions include: lightheadedness, dizziness, sedation, nausea and vomiting.
+These effects seem to be more prominent in ambulatory than in nonambulatory patients and some of these adverse reactions may be alleviated if the patient lies down.
 
 Other adverse reactions include:
 
@@ -11,7 +11,7 @@ Gastrointestinal System – Prolonged administration of hydrocodone bitartrate a
 
 Genitourinary System – Ureteral spasm, spasm of vesical sphincters and urinary retention have been reported with opiates.
 
-Respiratory Depression – Hydrocodone bitartrate may produce dose-related respiratory depression by acting directly on the brain stem respiratory centers (see OVERDOSAGE).
+Respiratory Depression – Hydrocodone bitartrate may produce dose-related respiratory depression by acting directly on the brain stem respiratory center (see OVERDOSAGE).
 
 Special Senses – Cases of hearing impairment or permanent loss have been reported predominantly in patients with chronic overdose.
 
