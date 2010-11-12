@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021535"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-3848-02",
+    "0299-3848-04"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "clobetasol propionate",
+      "name": "Clobex"
+    }
+  ],
+  "setid": "54eca64c-af43-48ba-bf86-bab9d8e46bb6",
+  "source": "dailymed"
+}
