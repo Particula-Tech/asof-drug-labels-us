@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022368"
+  ],
+  "inn": "mannitol",
+  "labeler": "Pharmaxis Ltd",
+  "package_ndcs": [
+    "44178-0552-1"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "mannitol",
+      "name": "Aridol Bronchial Challenge Test Kit"
+    }
+  ],
+  "setid": "476def85-7a62-4116-905b-baa9e92ac5a3",
+  "source": "dailymed"
+}
