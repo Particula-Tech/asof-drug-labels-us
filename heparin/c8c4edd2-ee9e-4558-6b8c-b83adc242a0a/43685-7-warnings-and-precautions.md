@@ -44,7 +44,7 @@ Thrombocytopenia has been reported to occur in patients receiving heparin with a
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin–induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)), the heparin product should be discontinued, and if necessary, an alternative anticoagulant administered.
 
 Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
 
@@ -63,7 +63,7 @@ Patients presenting with thrombocytopenia or thrombosis after discontinuation of
 Use in Neonates
 
 Heparin Sodium Injection 5,000 units/mL contains benzyl alcohol as a preservative and is not recommended for use in neonates.
-There have been reports of fatal `gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
+There have been reports of fatal 'gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
 Carefully examine all Heparin Sodium Injection vials and cartridges to confirm choice of the correct strength prior to administration of the drug.

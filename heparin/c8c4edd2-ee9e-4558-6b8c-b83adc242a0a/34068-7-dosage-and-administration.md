@@ -50,9 +50,9 @@ Pediatric Use
 Follow recommendations of appropriate pediatric reference texts.
 In general, the following dosage schedule may be used as a guideline:
 
-| Initial Dose: | 50 units/kg (IV drip) |
-| --- | --- |
-| Maintenance Dose: | 100 units/kg (IV drip) every four hours, or 20,000 units/m2/24 hours continuously. |
+Initial Dose: 50 units/kg (IV drip)
+
+Maintenance Dose: 100 units/kg (IV drip) every four hours, or 20,000 units/m2/24 hours continuously.
 
 Geriatric Use
 

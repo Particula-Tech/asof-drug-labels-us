@@ -16,7 +16,7 @@ Also available as:
 | Heparin Sodium Injection, USP, Preservative-Free is supplied as follows: |  |  |  |
 | 0409-1316-32 | Carpuject with Luer Lock | 5,000/0.5 mL | Bin of 50 |
 
-Store 20 to 25°C (68 to 77°F).
+Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
 Do not freeze.
