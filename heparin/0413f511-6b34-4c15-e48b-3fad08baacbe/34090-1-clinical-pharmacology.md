@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Heparin inhibits reactions that lead to the clotting of blood and the formation of fibrin clots both invitro and in vivo.
+Heparin inhibits reactions that lead to the clotting of blood and the formation of fibrin clots both in vitro and in vivo.
 Heparin acts at multiple sites in the normal coagulation system.
 Small amounts of heparin in combination with antithrombin III (heparin cofactor) can inhibit thrombosis by inactivating activated Factor X and inhibiting the conversion of prothrombin to thrombin.
 Once active thrombosis has developed, larger amounts of heparin can inhibit further coagulation by inactivating thrombin and preventing the conversion of fibrinogen to fibrin.

@@ -10,14 +10,14 @@ An unexplained fall in hematocrit, fall in blood pressure or any other unexplain
 Heparin sodium should be used with extreme caution in disease states in which there is increased danger of hemorrhage.
 Some of the conditions in which increased danger of hemorrhage exists are:
 
-Cardiovascular— Subacute bacterial endocarditis.
+Cardiovascular — Subacute bacterial endocarditis.
 Severe hypertension.
 
-Surgical— During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord or eye.
+Surgical — During and immediately following (a) spinal tap or spinal anesthesia or (b) major surgery, especially involving the brain, spinal cord or eye.
 
-Hematologic— Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
+Hematologic — Conditions associated with increased bleeding tendencies, such as hemophilia, thrombocytopenia, and some vascular purpuras.
 
-Gastrointestinal— Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
+Gastrointestinal — Ulcerative lesions and continuous tube drainage of the stomach or small intestine.
 
 Other — Menstruation, liver disease with impaired hemostasis.
 
@@ -86,7 +86,7 @@ Also, no reproduction studies in animals have been performed concerning mutagene
 
 ## Pregnancy:
 
-Teratogenic Effects:Pregnancy Category C. Animal reproduction studies have not been conducted with heparin sodium or sodium chloride.
+Teratogenic Effects: Pregnancy Category C. Animal reproduction studies have not been conducted with heparin sodium or sodium chloride.
 It is also not known whether heparin sodium or sodium chloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Heparin sodium or sodium chloride should be given to a pregnant woman only if clearly needed.
 

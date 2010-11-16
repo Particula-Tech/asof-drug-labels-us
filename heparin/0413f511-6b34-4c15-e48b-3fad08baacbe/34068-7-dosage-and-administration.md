@@ -22,8 +22,9 @@ Although dosage must be adjusted for the individual patient according to the res
 
 | Method of Administration | Frequency | Recommended Dose* |
 | --- | --- | --- |
-| Intermittent IntravenousInjection | Initial DoseEvery 4 to 6hours | 10,000 Units, eitherundiluted or in 50 − 100 mLof 0.45% Sodium ChlorideInjection, USP5,000 − 10,000 Units, eitherundiluted or in 50 − 100 mLof 0.45% Sodium ChlorideInjection, USP |
-| Continuous IntravenousInfusion | Initial DoseContinuous | 5,000 Units by I.V. injection20,000− 40,000 Units/24 hours in 0.45% SodiumChloride Injection, USP |
+| Intermittent IntravenousInjection | Initial Dose | 10,000 Units, eitherundiluted or in 50 − 100 mLof 0.45% Sodium ChlorideInjection, USP |
+| Every 4 to 6hours | 5,000 − 10,000 Units, either undiluted or in 50 − 100 mLof 0.45% Sodium ChlorideInjection, USP |  |
+| Continuous IntravenousInfusion | Initial DoseContinuous | 5,000 Units by I.V. injection20,000 − 40,000 Units/24 hours in 0.45% SodiumChloride Injection, USP |
 
 *Based on 150 lb.
 (68 kg) patient.
