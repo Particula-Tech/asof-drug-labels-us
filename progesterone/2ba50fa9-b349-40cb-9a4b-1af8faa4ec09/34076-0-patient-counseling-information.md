@@ -17,12 +17,14 @@ Inform patients that Endometrin is not recommended for use with other vaginal pr
 ## 17.4 FDA-Approved Patient Labeling
 
 IMPORTANT:For Vaginal Use Only.
+
 Read the patient information that comes with Endometrin before you start to use it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 Your doctor may do a physical exam before prescribing Endometrin.
 
 What is Endometrin?
+
 Endometrin is a vaginal insert that contains the hormone progesterone.
 Endometrin is for women who need extra progesterone while undergoing treatment in an Assisted Reproductive Technology (ART) program.
 
@@ -71,6 +73,7 @@ Other information for using Endometrin
 - Do not use any other vaginal products when you are using Endometrin.
 
 What are the possible side effects of Endometrin?
+
 Common side effects seen with ART and Endometrin included pelvic pain after surgery, abdominal pain, nausea, and swollen ovaries (ovarian hyperstimulation syndrome).
 
 Other reported side effects included abdominal bloating, headache, urinary infections, uterine cramping, constipation, vomiting, tiredness, and vaginal bleeding.
@@ -117,11 +120,13 @@ Ask your doctor or pharmacist for more information.
 
 How should I store Endometrin?
 
-- Store Endometrin at room temperature, 59 to 86°F (15 to 30°C).
+- Store Endometrin at room temperature, 25°C (77°F); excursions permitted between 15 to 30°C (59 to 86°F).
 - Do not use Endometrin after the expiration date that is printed on the carton.
 - Keep Endometrin and all medicines out of the reach of children.
 
-General information about Endometrin Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
+General information about Endometrin
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use Endometrin for a condition for which it was not prescribed.
 Do not give Endometrin to other women, even if they have the same condition as you do.
 It may harm them.
@@ -135,8 +140,10 @@ What are the ingredients in Endometrin?
 
 Active Ingredient: progesterone
 
-Inactive Ingredients: lactose monohydrate, polyvinylpyrrolidone, adipic acid, sodium bicarbonate, sodium laurel sulfate, magnesium stearate, pregelatinized starch, and colloidal silicone dioxide
+Inactive Ingredients: lactose monohydrate, polyvinylpyrrolidone, adipic acid, sodium bicarbonate, sodium lauryl sulfate, magnesium stearate, pregelatinized starch, and colloidal silicone dioxide
 
 Manufactured by: Pharmaceutics International Inc., Hunt Valley, MD 21031
 
-Manufactured for: Ferring Pharmaceuticals Inc., Suffern, NY 10901
+Manufactured for: Ferring Pharmaceuticals Inc., Parsippany, NJ 07054
+
+6323-02

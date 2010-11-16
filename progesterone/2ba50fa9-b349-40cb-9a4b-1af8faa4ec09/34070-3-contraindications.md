@@ -2,7 +2,7 @@
 
 Endometrin should not be used in individuals with any of the following conditions:
 
-- Previous allergic reactions to progesterone or any of the ingredients of Endometrin [seeDescription (11)]
+- Previous allergic reactions to progesterone or any of the ingredients of Endometrin [see Description (11)]
 - Known missed abortion or ectopic pregnancy
 - Liver disease
 - Known or suspected breast cancer

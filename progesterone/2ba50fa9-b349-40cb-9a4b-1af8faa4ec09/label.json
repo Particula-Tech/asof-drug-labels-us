@@ -1,11 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022057"
+  ],
   "inn": "progesterone",
   "labeler": "Ferring Pharmaceuticals Inc.",
   "package_ndcs": [
-    "55566-6500-2"
+    "55566-6500-1",
+    "55566-6500-2",
+    "55566-6500-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INSERT",
+      "generic": "progesterone",
+      "name": "Endometrin"
+    }
+  ],
   "setid": "2ba50fa9-b349-40cb-9a4b-1af8faa4ec09",
   "source": "dailymed"
 }

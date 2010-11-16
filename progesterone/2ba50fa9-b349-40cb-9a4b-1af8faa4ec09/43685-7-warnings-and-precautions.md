@@ -12,4 +12,4 @@ Consider discontinuation if symptoms worsen.
 
 ## 5.3 Use of Other Vaginal Products
 
-Endometrin not recommended for use with other vaginal products (such as antifungal products) as this may alter progesterone release and absorption from the vaginal insert [see Drug Interactions (7)].
+Endometrin is not recommended for use with other vaginal products (such as antifungal products) as this may alter progesterone release and absorption from the vaginal insert [see Drug Interactions (7)].

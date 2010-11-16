@@ -13,4 +13,4 @@ The structural formula is:
 
 C21H30O2
 
-Each Endometrin Vaginal Insert delivers 100 mg of progesterone in a base containing lactose monohydrate, polyvinylpyrrolidone, adipic acid, sodium bicarbonate, sodium lauryl sulfate, magnesium stearate, pregelatinized starch, and collodial silicone dioxide.
+Each Endometrin Vaginal Insert delivers 100 mg of progesterone in a base containing lactose monohydrate, polyvinylpyrrolidone, adipic acid, sodium bicarbonate, sodium lauryl sulfate, magnesium stearate, pregelatinized starch, and colloidal silicone dioxide.
