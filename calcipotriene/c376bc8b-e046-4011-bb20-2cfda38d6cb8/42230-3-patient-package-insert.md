@@ -34,7 +34,7 @@ Before you use SORILUX Foam, tell your doctor if you:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breastfeeding.
   It is not known if SORILUX Foam passes into breast milk.
-  Do not apply SORILUX Foam to the chest area if you are breast feeding a baby.
+  Do not apply SORILUX Foam to the chest area if you are breastfeeding a baby.
   This will help to prevent the baby from accidentally getting SORILUX Foam into their mouth.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -76,7 +76,7 @@ Use enough SORILUX Foam to cover the affected area with a thin layer.
 Gently rub the foam into the affected area until it disappears into the skin.
 See Figure E.
 
-5.
+6.
 Avoid getting SORILUX Foam in or near the eyes, mouth, or vagina.
 Wash hands after applying SORILUX Foam (excluding affected areas of the hands).
 
@@ -119,7 +119,7 @@ What are the ingredients of SORILUX Foam?
 Active ingredient: calcipotriene
 
 Inactive Ingredients: cetyl alcohol, dibasic sodium phosphate, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, dl-α-tocopherol, and white petrolatum.
-The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/butane/isobutane) propellant.
+The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.
 
 The Patient Information leaflet was last revised: October 2010
 
@@ -139,9 +139,9 @@ DPT Laboratories, Ltd.
 
 San Antonio, TX 78215
 
-SOR:1PIL
+SOR:3PIL
 
-SORILUX is a trademark, and STIEFEL, and STIEFEL & Design are registered trademarks of Stiefel Laboratories, Inc.
+SORILUX is a trademark of Stiefel Laboratories, Inc.
 
 ©2010 Stiefel Laboratories, Inc.
 
