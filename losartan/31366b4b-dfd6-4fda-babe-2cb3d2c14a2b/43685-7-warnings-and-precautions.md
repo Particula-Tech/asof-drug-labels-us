@@ -24,7 +24,7 @@ With the exception of neonatal weight gain (which was affected at doses as low a
 These findings are attributed to drug exposure in late gestation and during lactation.
 Significant levels of losartan and its active metabolite were shown to be present in rat fetal plasma during late gestation and in rat milk.
 
-## Hypotension — Volume-Depleted Patients
+## Hypotension - Volume-Depleted Patients
 
 In patients who are intravascularly volume-depleted (e.g., those treated with diuretics), symptomatic hypotension may occur after initiation of therapy with losartan potassium.
 These conditions should be corrected prior to administration of losartan potassium, or a lower starting dose should be used (see DOSAGE AND ADMINISTRATION ).
@@ -66,8 +66,7 @@ A patient receiving losartan potassium should be told not to use potassium suppl
 ## Drug Interactions
 
 No significant drug-drug pharmacokinetic interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, cimetidine and phenobarbital.
-Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite.
-(See CLINICAL PHARMACOLOGY, Drug Interactions .)
+Rifampin, an inducer of drug metabolism, decreased the concentrations of losartan and its active metabolite (see CLINICAL PHARMACOLOGY, Drug Interactions ).
 In humans, two inhibitors of P450 3A4 have been studied.
 Ketoconazole did not affect the conversion of losartan to the active metabolite after intravenous administration of losartan, and erythromycin had no clinically significant effect after oral administration.
 Fluconazole, an inhibitor of P450 2C9, decreased active metabolite concentration and increased losartan concentration.
@@ -81,18 +80,18 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be coadministered with angiotensin II receptor antagonists.
 
-### Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors
+### Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the coadministration of angiotensin II receptor antagonists including losartan may result in a further deterioration of renal function.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-Reports suggest that NSAIDs including selective COX-2 inhibitors may diminish the antihypertensive effect of angiotensin II receptor antagonists, including losartan.
-This interaction should be given consideration in patients taking NSAIDs including selective COX-2 inhibitors concomitantly with angiotensin II receptor antagonists.
+Monitor renal function periodically in patients receiving losartan and NSAID therapy.
+The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Losartan potassium was not carcinogenic when administered at maximally tolerated dosages to rats and mice for 105 and 92 weeks, respectively.
 Female rats given the highest dose (270 mg/kg/day) had a slightly higher incidence of pancreatic acinar adenoma.
-The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160 and 90 times (rats) and 30 and 15 times (mice) the exposure of a 50 kg human given 100 mg per day.
+The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160- and 90-times (rats) and 30- and 15-times (mice) the exposure of a 50 kg human given 100 mg per day.
 Losartan potassium was negative in the microbial mutagenesis and V-79 mammalian cell mutagenesis assays and in the in vitro alkaline elution and in vitro and in vivo chromosomal aberration assays.
 In addition, the active metabolite showed no evidence of genotoxicity in the microbial mutagenesis, in vitro alkaline elution, and in vitro chromosomal aberration assays.
 Fertility and reproductive performance were not affected in studies with male rats given oral doses of losartan potassium up to approximately 150 mg/kg/day.
@@ -127,5 +126,4 @@ No overall differences in effectiveness or safety were observed between these pa
 
 In the LIFE study, Black patients with hypertension and left ventricular hypertrophy had a lower risk of stroke on atenolol than on losartan potassium.
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
-However, the LIFE study does not provide evidence that the benefits of losartan potassium on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
-( See CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke .)
+However, the LIFE study does not provide evidence that the benefits of losartan potassium on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients ( see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Reduction in the Risk of Stroke ).

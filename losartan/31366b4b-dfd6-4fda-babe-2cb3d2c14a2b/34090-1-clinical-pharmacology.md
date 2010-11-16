@@ -22,7 +22,7 @@ In vitro studies indicate that cytochrome P450 2C9 and 3A4 are involved in the b
 Minimal conversion of losartan to the active metabolite (less than 1% of the dose compared to 14% of the dose in normal subjects) was seen in about one percent of individuals studied.
 The terminal half-life of losartan is about 2 hours and of the metabolite is about 6 to 9 hours.
 The pharmacokinetics of losartan and its active metabolite are linear with oral losartan doses up to 200 mg and do not change over time.
-Neither losartan nor its metabolite accumulate in plasma upon repeated once-daily dosing.
+Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 Following oral administration, losartan is well absorbed (based on absorption of radiolabeled losartan) and undergoes substantial first-pass metabolism; the systemic bioavailability of losartan is approximately 33%.
 About 14% of an orally-administered dose of losartan is converted to the active metabolite.
 Mean peak concentrations of losartan and its active metabolite are reached in 1 hour and in 3 to 4 hours, respectively.
@@ -55,8 +55,8 @@ Table 1 Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6 to 
 | AUC0-24*(ng•h/mL) | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
 | C max (ng/mL)* | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2 (h)† | 2.1 ± 0.7 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| TPEAK (h)‡ | 0.9 | 3.5 | 2 | 4.1 |
-| CLREN (mL/min)* | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+| Tpeak (h)‡ | 0.9 | 3.5 | 2 | 4.1 |
+| CLren (mL/min)* | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 | * Mean ± standard deviation † Harmonic mean and standard deviation ‡ Median |  |  |  |  |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
@@ -78,7 +78,7 @@ Pharmacokinetic differences due to race have not been studied (see also PRECAUTI
 Following oral administration, plasma concentrations and AUCs of losartan and its active metabolite are increased by 50 to 90% in patients with mild (creatinine clearance of 50 to 74 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal insufficiency.
 In this study, renal clearance was reduced by 55 to 85% for both losartan and its active metabolite in patients with mild or moderate renal insufficiency.
 Neither losartan nor its active metabolite can be removed by hemodialysis.
-No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension — Volume-Depleted Patients and DOSAGE AND ADMINISTRATION ).
+No dosage adjustment is necessary for patients with renal impairment unless they are volume-depleted (see WARNINGS, Hypotension - Volume-Depleted Patients and DOSAGE AND ADMINISTRATION ).
 
 #### Hepatic Insufficiency
 
@@ -104,14 +104,14 @@ The AUC of active metabolite following oral losartan was not affected by erythro
 
 Losartan inhibits the pressor effect of angiotensin II (as well as angiotensin I) infusions.
 A dose of 100 mg inhibits the pressor effect by about 85% at peak with 25 to 40% inhibition persisting for 24 hours.
-Removal of the negative feedback of angiotensin II causes a 2 to 3 fold rise in plasma renin activity and consequent rise in angiotensin II plasma concentration in hypertensive patients.
+Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin activity and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Losartan does not affect the response to bradykinin, whereas ACE inhibitors increase the response to bradykinin.
 Aldosterone plasma concentrations fall following losartan administration.
 In spite of the effect of losartan on aldosterone secretion, very little effect on serum potassium was observed.
 In a single-dose study in normal volunteers, losartan had no effects on glomerular filtration rate, renal plasma flow or filtration fraction.
 In multiple-dose studies in hypertensive patients, there were no notable effects on systemic or renal prostaglandin concentrations, fasting triglycerides, total cholesterol or HDL-cholesterol or fasting glucose concentrations.
 There was a small uricosuric effect leading to a minimal decrease in serum uric acid (mean decrease <0.4 mg/dL) during chronic oral administration.
-The antihypertensive effects of losartan potassium were demonstrated principally in 4 placebo-controlled, 6 to 12 week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95 to 115.
+The antihypertensive effects of losartan potassium were demonstrated principally in 4 placebo-controlled, 6- to 12-week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95 to 115.
 The studies allowed comparisons of two doses (50 to 100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Three additional studies examined the antihypertensive effects of losartan and hydrochlorothiazide in combination.
 The 4 studies of losartan monotherapy included a total of 1075 patients randomized to several doses of losartan and 334 to placebo.
@@ -169,9 +169,9 @@ The Components of Primary Endpoint (as a first event) counts only the events tha
 
 Table 2 Incidence of Primary Endpoint Events
 
-|  | Losartan Potassium |  | Atenolol |  | Risk Reduction* | 95% CI | p-Value |
+|  | Losartan Potassium |  | Atenolol |  | Risk Reduction† | 95% CI | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| N (%) | Rate† | N (%) | Rate† |  |  |  |  |
+| N (%) | Rate* | N (%) | Rate* |  |  |  |  |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
 | Components of Primary Composite Endpoint (as a first event) |  |  |  |  |  |  |  |
 | Stroke (nonfatal‡) | 209 (5) |  | 286 (6) |  |  |  |  |
@@ -184,7 +184,7 @@ Table 2 Incidence of Primary Endpoint Events
 | Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
 | Other§ | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
-| * Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy † Rate per 1000 patient-years of follow-up ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
+| * Rate per 1000 patient-years of follow-up † Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡ First report of an event, in some cases the patient died subsequently to the event reported § Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease |  |  |  |  |  |  |  |
 
 Although the LIFE study favored losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
 Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
