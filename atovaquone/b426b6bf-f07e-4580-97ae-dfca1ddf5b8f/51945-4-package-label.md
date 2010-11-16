@@ -32,3 +32,34 @@ Made in Canada
 
 A022402 Rev.
 12/05
+
+# Principal Display Panel
+
+NDC 0173-0547-00
+
+MEPRON®
+
+(atovaquone)
+
+SUSPENSION
+
+750 mg/ 5mL
+
+5 mL
+
+Rx only
+
+Each 5 mL sachet (1 teaspoonful) contains 750 mg atovaquone.
+
+Store at 15o to 25oC (59o to 77oF).
+
+DO NOT FREEZE.
+
+See accompanying prescribing information for Dosage and Administration.
+
+Contains 42 sachets of 5 mL each
+
+GlaxoSmithKline
+
+A076214 Rev.
+12/09
