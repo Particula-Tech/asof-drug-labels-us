@@ -1,13 +1,13 @@
-# Clinical Pharmacology
+# 12 CLINICAL PHARMACOLOGY
 
-Mechanism of Action
+## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown.
 
 The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel.
-Rufinamide (≥ 1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
+Rufinamide (≥1 μM) significantly slowed sodium channel recovery from inactivation after a prolonged prepulse in cultured cortical neurons, and limited sustained repetitive firing of sodium-dependent action potentials (EC50 of 3.8 μM).
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Overview
 
@@ -29,7 +29,7 @@ Multiple dose pharmacokinetics can be predicted from single dose data for both r
 Given the dosing frequency of every 12 hours and the half-life of 6 to 10 hours, the observed steady-state peak concentration of about two to three times the peak concentration after a single dose is expected.
 
 Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg, although the Tmax was not elevated.
-Clinical trials were performed under fed conditions and dosing is recommended with food (see DOSAGE AND ADMINISTRATION).
+Clinical trials were performed under fed conditions and dosing is recommended with food [see Dosage and Administration (2)].
 
 Only a small fraction of rufinamide (34%) is bound to human serum proteins, predominantly to albumin (27%), giving little risk of displacement drug-drug interactions.
 Rufinamide was evenly distributed between erythrocytes and plasma.
@@ -40,13 +40,15 @@ Metabolism
 
 Rufinamide is extensively metabolized but has no active metabolites.
 Following a radiolabeled dose of rufinamide, less than 2% of the dose was recovered unchanged in urine.
-The primary biotransformation pathway is carboxylesterase(s) mediated hydrolysis of the carboxylamide group to the acid derivative CGP 47292.
+The primary biotransformation pathway is carboxylesterase(s) mediated hydrolysis of the carboxamide group to the acid derivative CGP 47292.
 A few minor additional metabolites were detected in urine, which appeared to be acyl-glucuronides of CGP 47292.
 There is no involvement of oxidizing cytochrome P450 enzymes or glutathione in the biotransformation process.
 
 Rufinamide is a weak inhibitor of CYP 2E1.
 It did not show significant inhibition of other CYP enzymes.
 Rufinamide is a weak inducer of CYP 3A4 enzymes.
+
+Rufinamide did not show any significant inhibition of P-glycoprotein in an in-vitro study.
 
 Elimination/Excretion
 
