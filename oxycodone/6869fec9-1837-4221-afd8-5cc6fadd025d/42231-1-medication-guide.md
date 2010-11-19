@@ -45,7 +45,7 @@ Who should not take Oxycodone Hydrochloride Oral Solution?
 
 Do not take Oxycodone Hydrochloride Oral Solution if you:
 
-- are allergic to oxycodone, oxycodone salts, or an of the ingredients in Oxycodone Hydrochloride Oral Solution.
+- are allergic to oxycodone, oxycodone salts, or any of the ingredients in Oxycodone Hydrochloride Oral Solution.
   See the end of this Medication Guide for a complete list of ingredients in Oxycodone Hydrochloride Oral Solution.
 - are having breathing problems and there is no emergency medical equipment nearby
 - are having an asthma attack or have severe asthma, trouble breathing, or lung problems
@@ -70,7 +70,7 @@ Before taking Oxycodone Hydrochloride Oral Solution, tell your healthcare provid
 - have past or present substance abuse or drug addiction
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not know if Oxycodone Hydrochloride Oral Solution will harm your unborn baby.
+  It is not known if Oxycodone Hydrochloride Oral Solution will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 
 If you take Oxycodone Hydrochloride Oral Solution regularly before your baby is born, your newborn baby may have signs of withdrawal because their body has become used to the medicine.
@@ -87,8 +87,7 @@ Signs of withdrawal in a newborn baby can include:
 
 If you are taking Oxycodone Hydrochloride Oral Solution right before your baby is born, your baby could have breathing problems.
 
-- are breast-feeding or plan to breastfeed.
-  Some Oxycodone Hydrochloride Oral Solution passes into your breast milk.
+- If you are breast-feeding or plan to breastfeed, some Oxycodone Hydrochloride Oral Solution passes into your breast milk.
   A nursing baby could become very sleepy or have difficulty breathing or feeding well.
   If you stop breastfeeding, your baby may have withdrawal symptoms.
   See the list of withdrawal symptoms above.
@@ -106,7 +105,7 @@ Be especially careful about taking other medicines that make you sleepy such as:
 - antihistamines
 - anti-anxiety medicines
 - anti-depressants
-- monoamine oxidase ihibitors (MAOIs)
+- monoamine oxidase inhibitors (MAOIs)
 - anticholinergic medicines
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
@@ -115,7 +114,7 @@ Do not take other medicines while using Oxycodone Hydrochloride Oral Solution un
 They will tell you if it is safe to take other medicines with Oxycodone Hydrochloride Oral Solution.
 
 Know the medicines you take.
-Keep a list of them and show it to show your healthcare provider and pharmacist when you get a new medicine.
+Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take Oxycodone Hydrochloride Oral Solution?
 
@@ -125,7 +124,7 @@ How should I take Oxycodone Hydrochloride Oral Solution?
   Your healthcare provider may change your dose after seeing how the medicine affects you.
   Call your healthcare provider if your pain is not well controlled with your prescribed dose of Oxycodone Hydrochloride Oral Solution.
 - Make sure you understand exactly how to measure your dose.
-  Always use the oral dropper provided with your Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), to help make sure you measure the right amount.
+  Always use the oral syringe provided with your Oxycodone Hydrochloride Oral Solution, 100 mg per 5 mL (20 mg per mL), to help make sure you measure the right amount.
   See the Patient Instructions for Use at the end of this Medication Guide for information about how to measure your dose the right way.
   Ask your healthcare provider or pharmacist if you are not sure what dose of Oxycodone Hydrochloride Oral Solution you should take or if you are not sure how to use the oral syringe.
 - Do not stop taking Oxycodone Hydrochloride Oral Solution suddenly.
@@ -147,7 +146,7 @@ What are the possible side effects of Oxycodone Hydrochloride Oral Solution?
 
 Oxycodone Hydrochloride Oral Solution can cause serious side effects, including:
 
-- See “What is the most important information I should now about Oxycodone Hydrochloride Oral Solution?”
+- See “What is the most important information I should know about Oxycodone Hydrochloride Oral Solution?”
 - Oxycodone can cause serious breathing problems that can become life-threatening, especially if Oxycodone Hydrochloride Oral Solution is used the wrong way.
   Call your healthcare provider or get help right away if:
   - your breathing slows down
@@ -204,7 +203,6 @@ Constipation (not often enough or hard bowel movements) is a very common side ef
 Talk to your healthcare provider about dietary changes, and the use of laxatives (medicines to treat constipation) and stool softeners to prevent or treat constipation while taking Oxycodone Hydrochloride Oral Solution.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-
 These are not all the possible side effects of Oxycodone Hydrochloride Oral Solution.
 For more information, ask your healthcare provider or pharmacist.
 
@@ -214,7 +212,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Oxycodone Hydrochloride Oral Solution?
 
 - Store Oxycodone Hydrochloride Oral Solution in a dry area at room temperature 59°F to 86°F (15°C to 30°C)
-- Protect Oxycodone Hydrochlorde Oral Solution from moisture and light.
+- Protect Oxycodone Hydrochloride Oral Solution from moisture and light.
 - After you stop taking Oxycodone, flush the unused oral solution down the toilet.
 
 Keep Oxycodone Hydrochloride Oral Solution out of the reach of children.
@@ -240,7 +238,7 @@ Active ingredient: oxycodone hydrochloride
 
 Inactive ingredients: citric acid anhydrous, D&C Yellow #10, natural/artificial berry flavor, purified water, sodium citrate dihydrate, sodium benzoate, saccharin sodium, and sorbitol.
 
-Lehigh Valley Technologies, Inc. Allentown, PA Draft 2010 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Lehigh Valley Technologies, Inc. Allentown, PA Revision: 10/2010 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Patient Instructions for Use Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg per mL) Oral Syringe
 

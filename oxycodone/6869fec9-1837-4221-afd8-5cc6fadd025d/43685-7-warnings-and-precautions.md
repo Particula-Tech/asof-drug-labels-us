@@ -5,7 +5,7 @@
 Oxycodone Hydrochloride Oral Solution is available in 100 mg/5 mL (20 mg/mL) concentration.
 Use caution when prescribing, dispensing, and administering Oxycodone Hydrochloride Oral Solution to avoid dosing errors due to confusion between mg and mL, and other oxycodone solutions with different concentrations, which could result in accidental overdose and death.
 Use caution to ensure the dose is communicated clearly and dispensed accurately.
-Always use the enclosed calibrated syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg/5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
+Always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg/5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
 
 ## 5.2 Respiratory Depression
 

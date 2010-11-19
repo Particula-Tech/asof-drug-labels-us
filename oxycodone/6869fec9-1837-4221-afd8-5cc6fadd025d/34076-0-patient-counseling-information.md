@@ -5,7 +5,7 @@ See Medication Guide
 Provide the following information to patients receiving oxycodone hydrochloride or their caregivers:
 
 - Advise patients that oxycodone hydrochloride is a narcotic pain reliever, and should be taken only as directed.
-- Advise patients how to measure and take the correct dose of Oxycodone Hydrochloride Oral Solution, and to always use the enclosed syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg/5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
+- Advise patients how to measure and take the correct dose of Oxycodone Hydrochloride Oral Solution, and to always use the enclosed oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg/5 mL (20 mg/mL) to ensure the dose is measured and administered accurately.
 - Advise patients whenever the prescribed concentration is changed to avoid dosing errors which could result in accidental overdose and death.
 - Advise patients that the 100 mg/5 mL (20 mg/mL) formulation is only for patients who are already receiving opioid-therapy and have demonstrated opioid-tolerance and that sharing this medication can result in fatal overdose and death, particularly in persons who have not had previous exposure to opioids.
 - Advise patients not to adjust the dose of oxycodone hydrochloride without consulting with a physician or other healthcare professional.
@@ -29,4 +29,4 @@ Provide the following information to patients receiving oxycodone hydrochloride 
   If it is almost time for the next dose, skip the missed dose and go back to their regular dosing schedule.
   Do not take two doses at once unless instructed by their doctor.
 
-Revision October 2010
+Revision October 2010 Leigh Valley Technologies, Inc.

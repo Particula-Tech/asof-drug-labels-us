@@ -31,7 +31,7 @@ The safety and effectiveness and the pharmacokinetics of Oxycodone Hydrochloride
 
 ## 8.5 Geriatric Use
 
-Elderly patients (aged 65 years or older) may have increased sensitivity oxycodone hydrochloride.
+Elderly patients (aged 65 years or older) may have increased sensitivity to oxycodone hydrochloride.
 In general, use caution when selecting a dose for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
