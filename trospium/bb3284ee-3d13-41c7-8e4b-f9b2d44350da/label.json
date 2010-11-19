@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091573"
+  ],
+  "inn": "trospium",
+  "labeler": "Paddock Laboratories, Inc.",
+  "package_ndcs": [
+    "0574-0145-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "bb3284ee-3d13-41c7-8e4b-f9b2d44350da",
+  "source": "dailymed"
+}
