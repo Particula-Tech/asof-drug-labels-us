@@ -1,9 +1,9 @@
 # DOSAGE AND ADMINISTRATION
 
-Hydromorphone Hydrochloride Tablets, USP
+Hydromorphone Hydrochloride Tablets
 
-The usual starting dose for Hydromorphone Hydrochloride Tablets, USP is 2 mg to 4 mg, orally, every 4 to 6 hours.
-Appropriate use of Hydromorphone Hydrochloride Tablets, USP must be decided by careful evaluation of each clinical situation.
+The usual starting dose for Hydromorphone Hydrochloride Tablets is 2 mg to 4 mg, orally, every 4 to 6 hours.
+Appropriate use of Hydromorphone Hydrochloride Tablets must be decided by careful evaluation of each clinical situation.
 
 A gradual increase in dose may be required if analgesia is inadequate, as tolerance develops, or if pain severity increases.
 The first sign of tolerance is usually a reduced duration of effect.
@@ -21,12 +21,12 @@ In non-opioid-tolerant patients, therapy with hydromorphone is typically initiat
 
 In patients receiving opioids, both the dose and duration of analgesia will vary substantially depending on the patient's opioid tolerance.
 The dose should be selected and adjusted so that at least 3-4 hours of pain relief may be achieved.
-In patients taking opioid analgesics, the starting dose of Hydromorphone Hydrochloride Tablets, USP should be based on prior opioid usage.
-This should be done by converting the total daily usage of the previous opioid to an equivalent total daily dosage of oral hydromorphone hydrochloride using an equianalgesic table (see below).
-For opioids not in the table, first estimate the equivalent total daily usage of oral morphine, then use the table to find the equivalent total daily dosage of Hydromorphone Hydrochloride Tablets, USP.
+In patients taking opioid analgesics, the starting dose of Hydromorphone Hydrochloride Tablets should be based on prior opioid usage.
+This should be done by converting the total daily usage of the previous opioid to an equivalent total daily dosage of oral Hydromorphone Hydrochloride Tablets using an equianalgesic table (see below).
+For opioids not in the table, first estimate the equivalent total daily usage of oral morphine, then use the table to find the equivalent total daily dosage of Hydromorphone Hydrochloride Tablets.
 
-Once the total daily dosage of Hydromorphone Hydrochloride Tablets, USP has been estimated, it should be divided into the desired number of doses.
-Since there is individual variation in response to different opioid drugs, only 1/2 to 2/3 of the estimated dose of Hydromorphone Hydrochloride Tablets, USP calculated from equivalence tables should be given for the first few doses, then increased as needed according to the patient's response.
+Once the total daily dosage of Hydromorphone Hydrochloride Tablets has been estimated, it should be divided into the desired number of doses.
+Since there is individual variation in response to different opioid drugs, only 1/2 to 2/3 of the estimated dose of Hydromorphone Hydrochloride Tablets calculated from equivalence tables should be given for the first few doses, then increased as needed according to the patient's response.
 
 Since the pharmacokinetics of hydromorphone are affected in hepatic and renal impairment with a consequent increase in exposure, patients with hepatic and renal impairment should be started on a lower starting dose (See CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
 
