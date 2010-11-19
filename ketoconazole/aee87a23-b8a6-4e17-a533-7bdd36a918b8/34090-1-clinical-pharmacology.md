@@ -7,8 +7,7 @@ Treatment of the infection may not immediately result in restoration of pigment 
 Normalization of pigment following successful therapy is variable and may take months, depending on individual skin type and incidental skin exposure.
 The rate of recurrence of infection is variable.
 
-When ketoconazole 2% shampoo was applied dermally to intact or abraded skin of rabbits for 28 days at doses up to 50 mg/kg and allowed to remain one hour before being washed away, there were no detectable plasma ketoconazole levels using an assay method having a lower detection limit of 5 ng/mL.
-NIZORAL® (ketoconazole) was not detected in plasma in 39 patients who shampooed 4-10 times per week for 6 months or in 33 patients who shampooed 2-3 times per week for 3-26 months (mean: 16 months).
+NIZORAL® (ketoconazole) was not detected in plasma in 39 patients who shampooed 4–10 times per week for 6 months, or in 33 patients who shampooed 2–3 times per week for 3–26 months (mean: 16 months).
 
 An exaggerated use washing test on the sensitive antecubital skin of 10 subjects twice daily for five consecutive days showed that the irritancy potential of ketoconazole 2% shampoo was significantly less than that of 2.5% selenium sulfide shampoo.
 
@@ -19,7 +18,7 @@ It is postulated, but not proven, that the therapeutic effect of ketoconazole in
 Support for the therapeutic effect in tinea versicolor comes from a three-arm, parallel, double-blind, placebo controlled study in patients who had moderately severe tinea (pityriasis) versicolor.
 Successful response rates in the primary efficacy population for each of both three-day and single-day regimens of ketoconazole 2% shampoo were statistically significantly greater (73% and 69%, respectively) than a placebo regimen (5%).
 There had been mycological confirmation of fungal disease in all cases at baseline.
-Mycological clearing rates were 84%and 78%, respectively, for the three-day and one-day regimens of the 2% shampoo and 11% in the placebo regimen.
+Mycological clearing rates were 84% and 78%, respectively, for the three-day and one-day regimens of the 2% shampoo and 11% in the placebo regimen.
 While the differences in the rates of successful response between either of the two active treatments and placebo were statistically significant, the difference between the two active regimens was not.
 
 Microbiology: NIZORAL® (ketoconazole) is a broad spectrum synthetic antifungal agent which inhibits the growth of the following common dermatophytes and yeasts by altering the permeability of the cell membrane: dermatophytes: Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Microsporum canis, M. audouini, M. gypseum and Epidermophyton floccosum; yeasts: Candida albicans, C. tropicalis, Pityrosporum ovale (Malassezia ovale) and Pityrosporum orbiculare (M. furfur).

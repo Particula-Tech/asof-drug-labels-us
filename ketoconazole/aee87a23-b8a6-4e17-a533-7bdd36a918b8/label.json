@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019927"
+  ],
   "inn": "ketoconazole",
-  "labeler": "McNeil Consumer & Specialty Pharmaceuticals",
+  "labeler": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
   "package_ndcs": [
     "50580-380-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SHAMPOO",
+      "generic": "ketoconazole",
+      "name": "Nizoral"
+    }
+  ],
   "setid": "aee87a23-b8a6-4e17-a533-7bdd36a918b8",
   "source": "dailymed"
 }
