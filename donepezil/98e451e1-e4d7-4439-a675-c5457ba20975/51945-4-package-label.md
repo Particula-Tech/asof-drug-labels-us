@@ -1,9 +1,35 @@
-# PRICIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - ARICEPT 5 MG TABLETS
 
-ARICEPT® 5 mg Tablets
+NDC 62856-245-30
 
-ARICEPT® 10 mg Tablets
+ARICEPT® 5 (donepezil HCl tablets)
 
-ARICEPT® ODT 5 mg Orally Disintegrating Tablets
+5 mg 30 Tablets
 
-ARICEPT® ODT 10 mg Orally Disintegrating Tablets
+# PRINCIPAL DISPLAY PANEL - ARICEPT 10 MG TABLETS
+
+NDC 62856-246-30
+
+ARICEPT® 10 (donepezil HCl tablets)
+
+10 mg 30 Tablets
+
+# PRINCIPAL DISPLAY PANEL - ARICEPT 23 MG TABLETS
+
+NDC 62856-247-30
+
+Aricept® donepezil HCl
+
+23 mg 30 tablets
+
+# PRINCIPAL DISPLAY PANEL - ARICEPT ODT 5 MG TABLETS
+
+NDC 62856-631-30
+
+ARICEPT® ODT™ (donepezil HCl) 5 MG orally disintegrating tablets
+
+# PRINCIPAL DISPLAY PANEL - ARICEPT ODT 10 MG TABLETS
+
+NDC 62856-632-30
+
+ARICEPT® ODT™ (donepezil HCl) 10 MG orally disintegrating tablets

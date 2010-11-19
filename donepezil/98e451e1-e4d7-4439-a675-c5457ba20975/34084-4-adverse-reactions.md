@@ -1,30 +1,32 @@
-# ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
-Mild To Moderate Alzheimer's Disease
+## 6.1. Clinical Studies Experience
+
+ARICEPT 5 mg/day and 10 mg/day
+
+Mild to Moderate Alzheimer's Disease
 
 Adverse Events Leading to Discontinuation
 
-The rates of discontinuation from controlled clinical trials of ARICEPT® due to adverse events for the ARICEPT® 5 mg/day treatment groups were comparable to those of placebo-treatment groups at approximately 5%.
-The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day, was higher at 13%.
+The rates of discontinuation from controlled clinical trials of ARICEPT due to adverse events for the ARICEPT 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
+The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day was higher at 13%.
 
-The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
+The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
 
-Table 1.
-Most Frequent Adverse Events Leading to Withdrawal from Controlled Clinical Trials by Dose Group
-
-| Dose Group | Placebo | 5 mg/day ARICEPT® | 10 mg/day ARICEPT® |
+| Dose Group | Placebo | 5 mg/day ARICEPT | 10 mg/day ARICEPT |
 | --- | --- | --- | --- |
+| Table 1. Most Frequent Adverse Events Leading to Discontinuation from Controlled Clinical Trials by Dose Group |  |  |  |
 | Patients Randomized | 355 | 350 | 315 |
-| Event/% Discontinuing |  |  |  |
+| Event/%Discontinuing |  |  |  |
 | Nausea | 1% | 1% | 3% |
 | Diarrhea | 0% | <1% | 3% |
 | Vomiting | <1% | <1% | 2% |
 
-Most Frequent Adverse Clinical Events Seen in Association with the Use of ARICEPT®
+Most Frequent Adverse Events Seen in Association with the Use of ARICEPT
 
-The most common adverse events, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by ARICEPT®'s cholinomimetic effects.
+The most common adverse events, defined as those occurring at a frequency of at least 5% in patients receiving 10 mg/day and twice the placebo rate, are largely predicted by ARICEPT's cholinomimetic effects.
 These include nausea, diarrhea, insomnia, vomiting, muscle cramp, fatigue and anorexia.
-These adverse events were often of mild intensity and transient, resolving during continued ARICEPT® treatment without the need for dose modification.
+These adverse events were often of mild intensity and transient, resolving during continued ARICEPT treatment without the need for dose modification.
 
 There is evidence to suggest that the frequency of these common adverse events may be affected by the rate of titration.
 An open-label study was conducted with 269 patients who received placebo in the 15 and 30-week studies.
@@ -33,11 +35,9 @@ The rates of common adverse events were lower than those seen in patients titrat
 
 See Table 2 for a comparison of the most common adverse events following one and six week titration regimens.
 
-Table 2.
-Comparison of rates of adverse events in patients titrated to 10 mg/day over 1 and 6 weeks
-
 | Adverse Event | Placebo (n=315) | 5 mg/day (n=311) | 10 mg/day (n=315) | 10 mg/day (n=269) |
 | --- | --- | --- | --- | --- |
+| Table 2. Comparison of Rates of Adverse Events in Mild to Moderate Patients Titrated to 10 mg/day over 1 and 6 Weeks |  |  |  |  |
 |  | No titration |  | One week titration | Six week titration |
 | Nausea | 6% | 5% | 19% | 6% |
 | Diarrhea | 5% | 8% | 15% | 9% |
@@ -51,14 +51,12 @@ Adverse Events Reported in Controlled Trials
 
 The events cited reflect experience gained under closely monitored conditions of clinical trials in a highly selected patient population.
 In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
-Table 3 lists treatment emergent signs and symptoms that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT® and for which the rate of occurrence was greater for ARICEPT® assigned than placebo assigned patients.
+Table 3 lists treatment emergent signs and symptoms that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT and for which the rate of occurrence was greater for patients treated with ARICEPT than with placebo.
 In general, adverse events occurred more frequently in female patients and with advancing age.
 
-Table 3.
-Adverse Events Reported in Controlled Clinical Trials in Mild to Moderate Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT® and at a Higher Frequency than Placebo-treated Patients
-
-| Body System/Adverse Event | Placebo (n=355) | ARICEPT® (n=747) |
+| Body System/Adverse Event | Placebo (n=355) | ARICEPT (n=747) |
 | --- | --- | --- |
+| Table 3. Adverse Events Reported in Controlled Clinical Trials in Mild to Moderate Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients |  |  |
 | Percent of Patients with any Adverse Event | 72 | 74 |
 | Body as a Whole |  |  |
 | Headache | 9 | 10 |
@@ -90,19 +88,19 @@ Adverse Events Reported in Controlled Clinical Trials in Mild to Moderate Alzhei
 
 Other Adverse Events Observed During Clinical Trials
 
-ARICEPT® has been administered to over 1700 individuals during clinical trials worldwide.
+ARICEPT has been administered to over 1700 individuals during clinical trials worldwide.
 Approximately 1200 of these patients have been treated for at least 3 months and more than 1000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1214 days.
 
-Treatment emergent signs and symptoms that occurred during 3 controlled clinical trials and two open-label trials in the United States were recorded as adverse events by the clinical investigators using terminology of their own choosing.
-To provide an overall estimate of the proportion of individuals having similar types of events, the events were grouped into a smaller number of standardized categories using a modified COSTART dictionary and event frequencies were calculated across all studies.
+Treatment emergent signs and symptoms that occurred during three controlled clinical trials and two open-label trials in the United States were recorded as adverse events by the clinical investigators using terminology of their own choosing.
+To provide an overall estimate of the proportion of individuals having similar types of events, the events were grouped into a smaller number of standardized categories using a modified COSTART dictionary, and event frequencies were calculated across all studies.
 These categories are used in the listing below.
-The frequencies represent the proportion of 900 patients from these trials who experienced that event while receiving ARICEPT®.
-All adverse events occurring at least twice are included, except for those already listed in Tables 2 or 3, COSTART terms too general to be informative, or events less likely to be drug caused.
-Events are classified by body system and listed using the following definitions: frequent adverse events - those occurring in at least 1/100 patients; infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
-These adverse events are not necessarily related to ARICEPT® treatment and in most cases were observed at a similar frequency in placebo-treated patients in the controlled studies.
+The frequencies represent the proportion of 900 patients from these trials who experienced that event while receiving ARICEPT.
+All adverse events occurring at least twice are included, except for those already listed in Tables 2 or 3, COSTART terms too general to be informative, or events less likely to be drug related.
+Events are classified by body system and listed using the following definitions: Frequent adverse events - those occurring in at least 1/100 patients; Infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
+These adverse events are not necessarily related to ARICEPT treatment and in most cases were observed at a similar frequency in placebo treated patients in the controlled studies.
 No important additional adverse events were seen in studies conducted outside the United States.
 
 Body as a Whole: Frequent: influenza, chest pain, toothache; Infrequent: fever, edema face, periorbital edema, hernia hiatal, abscess, cellulitis, chills, generalized coldness, head fullness, listlessness.
@@ -133,25 +131,22 @@ Severe Alzheimer's Disease
 
 Adverse Events Leading to Discontinuation
 
-The rates of discontinuation from controlled clinical trials of ARICEPT® due to adverse events for the ARICEPT® patients were approximately 12% compared to 7% for placebo patients.
+The rates of discontinuation from controlled clinical trials of ARICEPT due to adverse events for the ARICEPT patients were approximately 12% compared to 7% for placebo patients.
+The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of ARICEPT patients and at twice or more the incidence seen in placebo, were anorexia (2% vs. 1% placebo), nausea (2% vs. <1% placebo), diarrhea (2% vs. 0% placebo) and urinary tract infection (2% vs. 1% placebo).
 
-The most common adverse events leading to discontinuation, defined as those occurring in at least 2% of ARICEPT® patients and at twice the incidence seen in placebo patients, were anorexia (2% vs 1% placebo), nausea (2% vs <1% placebo), diarrhea (2% vs 0% placebo) and urinary tract infection (2% vs 1% placebo).
+Most Frequent Adverse Events Seen in Association with the Use of ARICEPT
 
-Most Frequent Adverse Clinical Events Seen in Association with the Use of ARICEPT®
-
-The most common adverse events, defined as those occurring at a frequency of at least 5% in patients receiving ARICEPT® and twice the placebo rate, are largely predicted by ARICEPT®'s cholinomimetic effects.
+The most common adverse events, defined as those occurring at a frequency of at least 5% in patients receiving ARICEPT and at twice or more the placebo rate, are largely predicted by ARICEPT's cholinomimetic effects.
 These include diarrhea, anorexia, vomiting, nausea, and ecchymosis.
-These adverse events were often of mild intensity and transient, resolving during continued ARICEPT® treatment without the need for dose modification.
+These adverse events were often of mild intensity and transient, resolving during continued ARICEPT treatment without the need for dose modification.
 
 Adverse Events Reported in Controlled Trials
 
-Table 4 lists treatment emergent signs and symptoms that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT® and for which the rate of occurrence was greater for ARICEPT® assigned than placebo assigned patients.
+Table 4 lists adverse events that were reported in at least 2% of patients in placebo-controlled trials who received ARICEPT and for which the rate of occurrence was greater for patients treated with ARICEPT than with placebo.
 
-Table 4.
-Adverse Events Reported in Controlled Clinical Trials in Severe Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT® and at a Higher Frequency than Placebo-treated Patients
-
-| Body System/Adverse Event | Placebo (n=392) | ARICEPT® (n=501) |
+| Body System/Adverse Event | Placebo (n=392) | ARICEPT (n=501) |
 | --- | --- | --- |
+| Table 4. Adverse Events Reported in Controlled Clinical Trials in Severe Alzheimer's Disease in at Least 2% of Patients Receiving ARICEPT and at a Higher Frequency than Placebo Treated Patients |  |  |
 | Percent of Patients with any Adverse Event | 73 | 81 |
 | Body as a Whole |  |  |
 | Accident | 12 | 13 |
@@ -194,22 +189,22 @@ Adverse Events Reported in Controlled Clinical Trials in Severe Alzheimer's Dise
 
 Other Adverse Events Observed During Clinical Trials
 
-ARICEPT® has been administered to over 600 patients with severe Alzheimer's Disease during clinical trials of at least 6 months duration, including 3 double blind placebo controlled trials, one of which had an open label extension.
-All adverse events occurring at least twice are included, except for those already listed in Table 4, COSTART terms too general to be informative, or events less likely to be drug caused.
-Events are classified by body system using the COSTART dictionary and listed using the following definitions: frequent adverse events - those occurring in at least 1/100 patients; infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
-These adverse events are not necessarily related to ARICEPT® treatment and in most cases were observed at a similar frequency in placebo-treated patients in the controlled studies.
+ARICEPT has been administered to over 600 patients with severe Alzheimer's disease during clinical trials of at least 6 months duration, including three double-blind placebo-controlled trials, two of which had an open label extension.
+All adverse events occurring at least twice are included, except for those already listed in Table 4, COSTART terms too general to be informative, or events less likely to be drug related.
+Events are classified by body system using the COSTART dictionary and listed using the following definitions: Frequent adverse events - those occurring in at least 1/100 patients; Infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
+These adverse events are not necessarily related to ARICEPT treatment and in most cases were observed at a similar frequency in placebo treated patients in the controlled studies.
 
 Body as a Whole: Frequent: abdominal pain, asthenia, fungal infection, flu syndrome; Infrequent: allergic reaction, cellulitis, malaise, sepsis, face edema, hernia.
 
 Cardiovascular System: Frequent: hypotension, bradycardia, ECG abnormal, heart failure; Infrequent: myocardial infarction, angina pectoris, atrial fibrillation, congestive heart failure, peripheral vascular disorder, supraventricular extrasystoles, ventricular extrasystoles, cardiomegaly.
 
-Digestive System: Frequent: constipation, gastroenteritis, fecal incontinence, dyspepsia; Infrequent: gamma glutamyl transpeptidase increase, gastritis, dysphagia, periodontitis, stomach ulcer, periodontal abscess, flatulence, liver function tests abnormal, eructation, esophagitits, rectal hemorrhage.
+Digestive System: Frequent: constipation, gastroenteritis, fecal incontinence, dyspepsia; Infrequent: gamma glutamyl transpeptidase increase, gastritis, dysphagia, periodontitis, stomach ulcer, periodontal abscess, flatulence, liver function tests abnormal, eructation, esophagitis, rectal hemorrhage.
 
 Endocrine System: Infrequent: diabetes mellitus.
 
 Hemic and Lymphatic System: Frequent: anemia; Infrequent: leukocytosis.
 
-Metabolic and Nutritional Disorders: Frequent: weight loss, peripheral edema,, edema,, lactic dehydrogenase increased, alkaline phosphatase increased; Infrequent: hypercholesteremia, hypokalemia, hypoglycemia, weight gain, bilirubinemia, BUN increased, B12 deficiency anemia, cachexia, creatinine increased, gout, hyponatremia, hypoproteinemia, iron deficiency anemia, SGOT increased, SGPT increased.
+Metabolic and Nutritional Disorders: Frequent: weight loss, peripheral edema, edema, lactic dehydrogenase increased, alkaline phosphatase increased; Infrequent: hypercholesteremia, hypokalemia, hypoglycemia, weight gain, bilirubinemia, BUN increased, B12 deficiency anemia, cachexia, creatinine increased, gout, hyponatremia, hypoproteinemia, iron deficiency anemia, SGOT increased, SGPT increased.
 
 Musculoskeletal System: Frequent: arthritis; Infrequent: arthrosis, bone fracture, arthralgia, leg cramps, osteoporosis, myalgia.
 
@@ -223,6 +218,70 @@ Special Senses: Infrequent: conjunctivitis, glaucoma, abnormal vision, ear pain,
 
 Urogenital System: Frequent: urinary tract infection, cystitis, hematuria, glycosuria; Infrequent: vaginitis, dysuria, urinary frequency, albuminuria.
 
-Postintroduction Reports
+ARICEPT 23 mg/day
 
-Voluntary reports of adverse events temporally associated with ARICEPT® that have been received since market introduction that are not listed above, and that there is inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, and rash.
+Moderate to Severe Alzheimer's Disease
+
+ARICEPT 23 mg/day has been administered to over 1300 individuals globally in clinical trials.
+Approximately 1050 of these patients have been treated for at least three months and more than 950 patients have been treated for at least six months.
+The range of patient exposure was from 1 to over 500 days.
+
+Adverse Events Leading to Discontinuation
+
+The rate of discontinuation from a controlled clinical trial of ARICEPT 23 mg/day due to adverse events was higher (18.6%) than for the 10 mg/day treatment group (7.9%).
+The most common adverse events leading to discontinuation, defined as those occurring in at least 1% of patients and greater than those occurring with 10 mg/day are shown in Table 5.
+
+| Dose Group | 23 mg/day ARICEPT | 10 mg/day ARICEPT |
+| --- | --- | --- |
+| Table 5. Most Frequent Adverse Events Leading to Discontinuation from a Controlled Clinical Trial by Treatment Group |  |  |
+| Safety Population | 963 | 471 |
+| Event/%Discontinuing |  |  |
+| Vomiting | 3 | 0 |
+| Diarrhea | 2 | 0 |
+| Nausea | 2 | 0 |
+| Dizziness | 1 | 0 |
+
+The majority of discontinuations due to adverse events in the 23 mg group occurred during the first month of treatment.
+
+Most Frequent Adverse Events Seen in Association with the Use of 23 mg
+
+The most common adverse events, defined as those occurring at a frequency of at least 5%, include nausea, diarrhea, vomiting, and anorexia.
+These adverse events were often of mild to moderate intensity.
+
+Adverse Events Reported in Controlled Trials
+
+The events cited reflect experience gained under closely monitored conditions of a controlled clinical trial in a highly selected patient population.
+In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
+Table 6 lists adverse events that were reported in at least 2% of patients who received 23 mg/day of ARICEPT and at a higher frequency than those receiving 10 mg/day of ARICEPT in a controlled clinical trial that compared the two doses.
+In this study, there were no important differences in the type of adverse events in patients taking ARICEPT with or without memantine.
+
+| Body System/Adverse Event | 23 mg/day ARICEPT | 10 mg/day ARICEPT |
+| --- | --- | --- |
+| Table 6. Adverse Events Reported in a Controlled Clinical Trial in Moderate to Severe Alzheimer's Disease in at Least 2% of Patients and Higher in the 23 mg/day Group |  |  |
+| Safety Population | 963 | 471 |
+| Percent of Patients with any Adverse Event | 74 | 64 |
+| Gastrointestinal disorders |  |  |
+| Nausea | 12 | 3 |
+| Vomiting | 9 | 3 |
+| Diarrhea | 8 | 5 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 2 | 1 |
+| Asthenia | 2 | 1 |
+| Injury, poisoning and procedural complications |  |  |
+| Contusion | 2 | 0 |
+| Investigations |  |  |
+| Weight decreased | 5 | 3 |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 5 | 2 |
+| Nervous system |  |  |
+| Dizziness | 5 | 3 |
+| Headache | 4 | 3 |
+| Somnolence | 2 | 1 |
+| Psychiatric disorders |  |  |
+| Insomnia | 3 | 2 |
+| Renal and urinary disorders |  |  |
+| Urinary incontinence | 3 | 1 |
+
+## 6.2. Postmarketing Experience
+
+Voluntary reports of adverse events temporally associated with ARICEPT that have been received since market introduction that are not listed above, and for which there are inadequate data to determine the causal relationship with the drug include the following: abdominal pain, agitation, cholecystitis, confusion, convulsions, hallucinations, heart block (all types), hemolytic anemia, hepatitis, hyponatremia, neuroleptic malignant syndrome, pancreatitis, and rash.

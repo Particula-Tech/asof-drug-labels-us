@@ -1,39 +1,36 @@
-# HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-ARICEPT® is supplied as film-coated, round tablets containing either 5 mg or 10 mg of donepezil hydrochloride.
+## 16.1 ARICEPT Tablets
+
+Supplied as film-coated, round tablets containing 5 mg, 10 mg, or 23 mg of donepezil hydrochloride.
 
 The 5 mg tablets are white.
 The strength, in mg (5), is debossed on one side and ARICEPT is debossed on the other side.
 
+Bottles of 30 (NDC# 62856-245-30) Bottles of 90 (NDC# 62856-245-90) Bottles of 1000 (NDC# 62856-245-11) Unit Dose Blister Package 100 (10x10) (NDC# 62856-245-41)
+
 The 10 mg tablets are yellow.
 The strength, in mg (10), is debossed on one side and ARICEPT is debossed on the other side.
 
-| 5 mg (White) | Bottles of 30 (NDC# 62856-245-30) Bottles of 90 (NDC# 62856-245-90) Bottles of 1000 (NDC# 62856-245-11) Unit Dose Blister Package 100 (10x10) (NDC# 62856-245-41) |
-| --- | --- |
-| 10 mg (Yellow) | Bottles of 30 (NDC# 62856-246-30) Bottles of 90 (NDC# 62856-246-90) Bottles of 1000 (NDC# 62856-246-11) Unit Dose Blister Package 100 (10x10) (NDC# 62856-246-41) |
+Bottles of 30 (NDC# 62856-246-30) Bottles of 90 (NDC# 62856-246-90) Bottles of 1000 (NDC# 62856-246-11) Unit Dose Blister Package 100 (10x10) (NDC# 62856-246-41)
 
-ARICEPT® ODT is supplied as tablets containing either 5 mg or 10 mg of donepezil hydrochloride.
+The 23 mg tablets are reddish in color.
+The strength, in mg (23), is debossed on one side and ARICEPT is debossed on the other side.
+
+Bottles of 30 (NDC# 62856-247-30) Bottles of 90 (NDC# 62856-247-90)
+
+## 16.2. ARICEPT ODT
+
+Supplied as round tablets containing either 5 mg or 10 mg of donepezil hydrochloride.
 
 The 5 mg orally disintegrating tablets are white.
-The strength, in mg (5), is embossed on one side and ARICEPT is embossed on the other side.
+The strength, in mg (5), is debossed on one side and ARICEPT is debossed on the other side.
+
+5 mg (White) Unit Dose Blister Package 30 (10x3) (NDC# 62856-831-30)
 
 The 10 mg orally disintegrating tablets are yellow.
-The strength, in mg (10), is embossed on one side and ARICEPT is embossed on the other side.
+The strength, in mg (10), is debossed on one side and ARICEPT is debossed on the other side.
 
-| 5 mg (White) | Unit Dose Blister Package 30 (10x3) (NDC# 62856-831-30) |
-| --- | --- |
-| 10 mg (Yellow) | Unit Dose Blister Package 30 (10x3) (NDC# 62856-832-30) |
+10 mg (Yellow) Unit Dose Blister Package 30 (10x3) (NDC# 62856-832-30)
 
 Storage: Store at controlled room temperature, 15°C to 30°C (59°F to 86°F).
-
-Rx only
-
-ARICEPT® is a registered trademark of Eisai Co., Ltd.
-
-Manufactured and Marketed by Eisai Inc., Woodcliff Lake, NJ 07677
-
-Marketed by Pfizer Inc, New York, NY 10017
-
-©2006 Eisai Inc.
-
-Printed in U.S.A. Revised November 2006
