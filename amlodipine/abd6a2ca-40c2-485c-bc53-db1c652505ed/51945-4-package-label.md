@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablets
+PRINCIPAL DISPLAY PANEL - 2.5 mg Tablets
 
 NDC 0069-1520-68
 
@@ -10,7 +10,7 @@ Norvasc® 2.5 (amlodipine besylate)
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Tablets
+PRINCIPAL DISPLAY PANEL - 5 mg Tablets
 
 NDC 0069-1530-68
 
@@ -22,7 +22,7 @@ Norvasc® 5 (amlodipine besylate)
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablets
+PRINCIPAL DISPLAY PANEL - 10 mg Tablets
 
 NDC 0069-1540-68
 

@@ -43,7 +43,6 @@ Tell your doctor if you:
 How should I take NORVASC?
 
 - Take NORVASC once a day, with or without food.
-  You can take NORVASC with most drinks, including grapefruit juice.
 - It may be easier to take your dose if you do it at the same time every day, such as with breakfast or dinner, or at bedtime.
   Do not take more than one dose of NORVASC at a time.
 - If you miss a dose, take it as soon as you remember.
@@ -98,4 +97,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-3.0 January 2010
+LAB-0015-5.0 October 2010
