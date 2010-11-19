@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079183"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0187-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "gemcitabine hydrochloride",
+      "name": "GEMCITABINE"
+    }
+  ],
+  "setid": "a625c92b-c569-4b98-8d2e-2b3f5e12b34f",
+  "source": "dailymed"
+}
