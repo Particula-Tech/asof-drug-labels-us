@@ -97,7 +97,7 @@ In a 12-week seasonal prophylaxis study in 475 immunocompromised subjects, inclu
 The following adverse reactions have been identified during postapproval use of TAMIFLU.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to TAMIFLU exposure.
 
-Body as a Whole: Swelling of the face or tongue, allergy, anaphylactic/anaphylactoid reactions
+Body as a Whole: Swelling of the face or tongue, allergy, anaphylactic/anaphylactoid reactions, hypothermia
 
 Dermatologic: Rash, dermatitis, urticaria, eczema, toxic epidermal necrolysis, Stevens-Johnson Syndrome, erythema multiforme [see Warnings and Precautions (5.1)]
 
