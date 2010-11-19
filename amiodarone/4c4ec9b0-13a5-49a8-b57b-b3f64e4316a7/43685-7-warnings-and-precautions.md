@@ -2,7 +2,7 @@
 
 ## Mortality
 
-In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or nonfatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
+In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
 The average duration of treatment with encainide or flecainide in this study was ten months.
 
 Amiodarone therapy was evaluated in two multi-centered, randomized, double-blind, placebo-controlled trials involving 1202 (Canadian Amiodarone Myocardial Infarction Arrhythmia Trial; CAMIAT) and 1486 (European Myocardial Infarction Amiodarone Trial; EMIAT) post-MI patients followed for up to 2 years.
@@ -21,7 +21,7 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 
 ## Pulmonary Toxicity
 
-There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
+There have been post-marketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
 Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
 Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
@@ -51,7 +51,7 @@ In some cases rechallenge with amiodarone at a lower dose has not resulted in re
 
 In a patient receiving Pacerone® Tablets, any new respiratory symptoms should suggest the possibility of pulmonary toxicity, and the history, physical exam, chest X-ray and pulmonary-function tests (with diffusion capacity) should be repeated and evaluated.
 A 15% decrease in diffusion capacity has a high sensitivity but only a moderate specificity for pulmonary toxicity; as the decrease in diffusion capacity approaches 30%, the sensitivity decreases but the specificity increases.
-A gallium scan also may be performed as part of the diagnostic workup.
+A gallium-scan also may be performed as part of the diagnostic workup.
 
 Fatalities, secondary to pulmonary toxicity, have occurred in approximately 10% of cases.
 However, in patients with life-threatening arrhythmias, discontinuation of Pacerone® Tablets therapy due to suspected drug-induced pulmonary toxicity should be undertaken with caution, as the most common cause of death in these patients is sudden cardiac death.
@@ -73,14 +73,14 @@ Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolo
 There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly.
 (See "Drug Interactions, Other reported interactions with amiodarone".)
 
-The need to coadminister amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
+The need to co-administer amiodarone with any other drug known to prolong the QTc interval must be based on a careful assessment of the potential risks and benefits of doing so for each patient.
 
 A careful assessment of the potential risks and benefits of administering Pacerone® Tablets must be made in patients with thyroid dysfunction due to the possibility of arrhythmia breakthrough or exacerbation of arrhythmia in these patients.
 
 ## Implantable Cardiac Devices
 
-In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillation thresholds.
-Therefore, at the inception of and during amiodarone treatment, pacing and defibrillating thresholds should be assessed.
+In patients with implanted defibrillators or pacemakers, chronic administration of antiarrhythmic drugs may affect pacing or defibrillating thresholds.
+Therefore, at the inception of and during amiodarone treatment, pacing and defibrillation thresholds should be assessed.
 
 ## Thyrotoxicosis
 
@@ -102,7 +102,7 @@ In some cases, visual impairment has progressed to permanent blindness.
 Optic neuropathy and/or neuritis may occur at any time following initiation of therapy.
 A causal relationship to the drug has not been clearly established.
 If symptoms of visual impairment appear, such as changes in visual acuity and decreases in peripheral vision, prompt ophthalmic examination is recommended.
-Appearance of optic neuropathy and/or neuritis calls for reevaluation of Pacerone® Tablets therapy.
+Appearance of optic neuropathy and/or neuritis calls for re-evaluation of Pacerone® Tablets therapy.
 The risks and complications of antiarrhythmic therapy with Pacerone® Tablets must be weighed against its benefits in patients whose lives are threatened by cardiac arrhythmias.
 Regular ophthalmic examination, including funduscopy and slit-lamp examination, is recommended during administration of Pacerone® Tablets (see "ADVERSE REACTIONS").
 
@@ -172,8 +172,7 @@ Since arrhythmia breakthroughs may accompany amiodarone-induced hyperthyroidism,
 The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
 The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
-Amiodarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism.
-(see "WARNINGS, Thyrotoxicosis").
+Amiodarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see "WARNINGS, Thyrotoxicosis").
 
 When aggressive treatment of amiodarone-induced thyrotoxicosis has failed or amiodarone cannot be discontinued because it is the only drug effective against the resistant arrhythmia, surgical management may be an option.
 Experience with thyroidectomy as a treatment for amiodarone-induced thyrotoxicosis is limited, and this form of therapy could induce thyroid storm.
@@ -225,7 +224,7 @@ In view of the long and variable half-life of amiodarone, potential for drug int
 Since amiodarone is a substrate for CYP3A4 and CYP2C8, drugs/substances that inhibit CYP3A4 may decrease the metabolism and increase serum concentrations of amiodarone.
 Reported examples include the following:
 
-### Protease Inhibitors:
+### Protease inhibitors:
 
 Protease inhibitors are known to inhibit CYP3A4 to varying degrees.
 A case report of one patient taking amiodarone 200 mg and indinavir 800 mg three times a day resulted in increases in amiodarone concentrations from 0.9 mg/L to 1.3 mg/L.
@@ -238,7 +237,7 @@ Monitoring for amiodarone toxicity and serial measurement of amiodarone serum co
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A4.
 QT interval prolongation and torsade de pointes have been reported with the co-administration of loratadine and amiodarone.
 
-### Histamine H2 Antagonists:
+### Histamine H2 antagonists:
 
 Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 
@@ -247,7 +246,7 @@ Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 Trazodone, an antidepressant, is metabolized primarily by CYP3A4.
 QT interval prolongation and torsade de pointes have been reported with the co-administration of trazodone and amiodarone.
 
-### Other Substances:
+### Other substances:
 
 Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, and decreased DEA to unquantifiable concentrations.
 Grapefruit juice inhibits CYP3A4-mediated metabolism of oral amiodarone in the intestinal mucosa, resulting in increased plasma levels of amiodarone; therefore, grapefruit juice should not be taken during treatment with oral amiodarone.
@@ -275,7 +274,7 @@ On initiation of oral amiodarone, the need for digitalis therapy should be revie
 If digitalis treatment is continued, serum levels should be closely monitored and patients observed for clinical evidence of toxicity.
 These precautions probably should apply to digitoxin administration as well.
 
-Antiarrhythmics: Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with oral amiodarone.
+Antiarrhythmics: Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide and phenytoin, have been used concurrently with oral amiodarone.
 
 There have been case reports of increased steady-state levels of quinidine, procainamide and phenytoin during concomitant therapy with amiodarone.
 Phenytoin decreases serum amiodarone levels.
@@ -333,7 +332,7 @@ There have been reports of QTc prolongation, with or without TdP, in patients ta
 
 Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem and verapamil.
 
-Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents.").
+Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents").
 
 In addition to the interactions noted above, chronic (>2 weeks) oral amiodarone administration impairs metabolism of phenytoin, dextromethorphan and methotrexate.
 

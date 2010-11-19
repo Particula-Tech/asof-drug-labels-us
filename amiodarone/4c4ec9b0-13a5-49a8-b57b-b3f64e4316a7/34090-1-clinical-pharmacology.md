@@ -5,9 +5,8 @@
 In animals, amiodarone HCl is effective in the prevention or suppression of experimentally induced arrhythmias.
 The antiarrhythmic effect of amiodarone may be due to at least two major properties:
 
-1) a prolongation of the myocardial cell-action potential duration and refractory period and
-
-2) noncompetitive alpha- and beta-adrenergic inhibition.
+1. a prolongation of the myocardial cell-action potential duration and refractory period and
+2. noncompetitive α- and β -adrenergic inhibition.
 
 Amiodarone prolongs the duration of the action potential of all cardiac fibers while causing minimal reduction of dV/dt (maximal upstroke velocity of the action potential).
 The refractory period is prolonged in all cardiac tissues.
@@ -31,7 +30,7 @@ Despite this, the onset of action may occur in 2 to 3 days, but more commonly ta
 Plasma concentrations with chronic dosing at 100 to 600 mg/day are approximately dose proportional, with a mean 0.5 mg/L increase for each 100 mg/day.
 These means, however, include considerable individual variability.
 Food increases the rate and extent of absorption of amiodarone.
-The effects of food upon the bioavailability of amiodarone have been studied in 30 healthy subjects who received a single 600 mg dose immediately after consuming a high fat meal and following an overnight fast.
+The effects of food upon the bioavailability of amiodarone have been studied in 30 healthy subjects who received a single 600-mg dose immediately after consuming a high-fat meal and following an overnight fast.
 The area under the plasma concentration-time curve (AUC) and the peak plasma concentration (Cmax) of amiodarone increased by 2.3 (range 1.7 to 3.6) and 3.8 (range 2.7 to 4.4) times, respectively, in the presence of food.
 Food also increased the rate of absorption of amiodarone, decreasing the time to peak plasma concentration (Tmax) by 37%.
 The mean AUC and mean Cmax of desethylamiodarone increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
@@ -92,7 +91,7 @@ There is no present consensus on many aspects of how best to assess effectivenes
 
 1. If a patient with a history of cardiac arrest does not manifest a hemodynamically unstable arrhythmia during electrocardiographic monitoring prior to treatment, assessment of the effectiveness of amiodarone requires some provocative approach, either exercise or programmed electrical stimulation (PES).
 2. Whether provocation is also needed in patients who do manifest their life-threatening arrhythmia spontaneously is not settled, but there are reasons to consider PES or other provocation in such patients.
-   In the fraction of patients whose PES-inducible arrhythmia can be made noninducible by amiodarone (a fraction that has varied widely in various series from less than 10 to almost 40%, perhaps due to different stimulation criteria), the prognosis has been almost uniformly excellent, with very low recurrence (ventricular tachycardia or sudden death) rates.
+   In the fraction of patients whose PES-inducible arrhythmia can be made noninducible by amiodarone (a fraction that has varied widely in various series from less than 10% to almost 40%, perhaps due to different stimulation criteria), the prognosis has been almost uniformly excellent, with very low recurrence (ventricular tachycardia or sudden death) rates.
    More controversial is the meaning of continued inducibility.
    There has been an impression that continued inducibility in amiodarone patients may not foretell a poor prognosis but, in fact, many observers have found greater recurrence rates in patients who remain inducible than in those who do not.
    A number of criteria have been proposed, however, for identifying patients who remain inducible but who seem likely nonetheless to do well on Pacerone® Tablets.
@@ -105,6 +104,6 @@ While these issues remain unsettled for amiodarone, as for other agents, the pre
 
 It is difficult to describe the effectiveness rates of Pacerone® Tablets, as these depend on the specific arrhythmia treated, the success criteria used, the underlying cardiac disease of the patient, the number of drugs tried before resorting to Pacerone® Tablets, the duration of follow-up, the dose of amiodarone HCl, the use of additional antiarrhythmic agents and many other factors.
 As amiodarone has been studied principally in patients with refractory life-threatening ventricular arrhythmias, in whom drug therapy must be selected on the basis of response and cannot be assigned arbitrarily, randomized comparisons with other agents or placebo have not been possible.
-Reports of series of treated patients with a history of cardiac arrest and mean follow-up of one year or more have given mortality (due to arrhythmia) rates that were highly variable, ranging from less than 5 to over 30%, with most series in the range of 10 to 15%.
+Reports of series of treated patients with a history of cardiac arrest and mean follow-up of one year or more have given mortality (due to arrhythmia) rates that were highly variable, ranging from less than 5% to over 30%, with most series in the range of 10 to 15%.
 Overall arrhythmia-recurrence rates (fatal and nonfatal) also were highly variable (and, as noted above, depended on response to PES and other measures), and depend on whether patients who do not seem to respond initially are included.
 In most cases, considering only patients who seemed to respond well enough to be placed on long-term treatment, recurrence rates have ranged from 20 to 40% in series with a mean follow-up of a year or more.

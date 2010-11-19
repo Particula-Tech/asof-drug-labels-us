@@ -179,7 +179,7 @@ You can ask your doctor or pharmacist for information about Pacerone® Tablets t
 
 What are the ingredients in Pacerone® Tablets?
 
-Active Ingredient: amiodarone HCl, 100 and 200 mg
+Active Ingredient: amiodarone HCl, 100 mg and 200 mg
 
 Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregelatinized corn starch, sodium starch glycolate, stearic acid, FD&C Red 40 (for 200 mg only) and FD&C Yellow 6.
 
@@ -195,4 +195,4 @@ Claritin is a registered trademark of Schering Corporation.
 
 Alavert is a registered trademark of Wyeth.
 
-R1009
+R1010
