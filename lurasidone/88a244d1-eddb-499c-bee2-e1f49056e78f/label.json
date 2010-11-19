@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA200603"
+  ],
+  "inn": "lurasidone",
+  "labeler": "Bushu Pharmaceutical, LTD.",
+  "package_ndcs": [
+    "51148-001-01",
+    "51148-002-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lurasidone hydrochloride",
+      "name": "Latuda"
+    }
+  ],
+  "setid": "88a244d1-eddb-499c-bee2-e1f49056e78f",
+  "source": "dailymed"
+}
