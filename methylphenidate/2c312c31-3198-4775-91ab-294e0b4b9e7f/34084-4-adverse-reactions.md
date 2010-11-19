@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Detailed information on serious and adverse reactions of particular importance is provided in the BoxedWarning and Warnings and Precautions (5) sections:
+Detailed information on serious and adverse reactions of particular importance is provided in the Boxed Warning and Warnings and Precautions (5) sections:
 
 - Drug dependence [see box Warning]
 - Hypersensitivity to Methylphenidate [see Contraindications (4.1)]
@@ -19,9 +19,9 @@ Detailed information on serious and adverse reactions of particular importance i
 - Hematologic Monitoring [see Warnings and Precautions (5.8)]
 
 The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in children aged 6-12 included appetite decreased, insomnia, nausea, vomiting, weight decreased, tic, affect lability, and anorexia.
-The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain and anorexia [see AdverseReactions (6.1)].
+The most commonly reported (frequency ≥ 5% and twice the rate of placebo) adverse reactions in a controlled trial in adolescents aged 13-17 were appetite decreased, nausea, insomnia, weight decreased, dizziness, abdominal pain and anorexia [see Adverse Reactions (6.1)].
 
-The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions [see Adverse Reactions (6.3)].
+The most common (≥ 2% of subjects) adverse reaction associated with discontinuations in double-blind clinical trials in children or adolescents was application site reactions15 [see Adverse Reactions (6.3)].
 
 The overall Daytrana development program included exposure to Daytrana in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.

@@ -39,7 +39,7 @@ Table 3 Mean Plasma d-Methylphenidate Pharmacokinetic Parameters After Repeated 
 | tlag (h)4 | 0 (0 - 2.0) | 0 (0 - 2.0) | 0 | 0 |
 | 1 Dose maintained fixed for 28 days; 2 Dose escalated at 7 day intervals from 12.5 cm2 through 18.75 cm2 and 25 cm2 to 37.5 cm2; 3 Dose escalated at 7 day intervals from 18 mg through 27 mg and 36 mg to 54 mg; 4 Median (minimum - maximum); tlag = Last Sampling Time Prior to Time of First Quantifiable Plasma Concentration |  |  |  |  |
 
-Following administration of Daytrana 12.5cm2 to paediatric and adolescent ADHD patients daily for 7 days, there were 13% and 14% increases, respectively, in steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞); after 28 days administration, these increments increased to 64% and 76%, respectively.
+Following administration of Daytrana 12.5cm2 to pediatric and adolescent ADHD patients daily for 7 days, there were 13% and 14% increases, respectively, in steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞); after 28 days administration, these increments increased to 64% and 76%, respectively.
 Cmax increased by nearly 69% and 100% within 4 weeks of daily administration of the starting dose in children and adolescents, respectively.
 
 The observed exposures with Daytrana could not be explained by drug accumulation predicted from observed single dose pharmacokinetics and there was no evidence that clearance or rate of elimination changed between single and repeat dosing.

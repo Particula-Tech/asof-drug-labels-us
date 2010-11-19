@@ -67,7 +67,7 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 In an open-label study of 305 subjects conducted to characterize dermal reactions in children with ADHD treated with Daytrana using a 9-hour wear time, one subject (0.3%) was confirmed by patch testing to be sensitized to methylphenidate (allergic contact dermatitis).
 This subject experienced erythema and edema at Daytrana application sites with concurrent urticarial lesions on the abdomen and legs resulting in treatment discontinuation.
-This subject was not transitioned to oral methylphenidate.
+This subject was not transitioned to methylphenidate.
 
 Use of Daytrana may lead to contact sensitization.
 Daytrana should be discontinued if contact sensitization is suspected.

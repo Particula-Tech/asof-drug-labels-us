@@ -63,7 +63,7 @@ Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
 © 2009, 2010 Noven Pharmaceuticals, Inc.
 
-This product is covered by US patents including 6,905,016.
+This product is covered by US patents including for use with 6,905,016.
 
 Last Modified: 11/2010
 
