@@ -119,26 +119,31 @@ Risperidone and other antipsychotic drugs should be used cautiously in patients 
 
 ## 5.12 Priapism
 
-Rare cases of priapism have been reported.
-While the relationship of the events to risperidone use has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that risperidone may share this capacity.
+Priapism has been reported during postmarketing surveillance [see ADVERSE REACTIONS (6.9)].
 Severe priapism may require surgical intervention.
 
-## 5.13 Body Temperature Regulation
+## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)
+
+A single case of TTP was reported in a 28 year old female patient receiving risperidone in a large, open premarketing experience (approximately 1300 patients).
+She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
+The relationship to risperidone therapy is unknown.
+
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral risperidone use.
 Caution is advised when prescribing for patients who will be exposed to temperature extremes.
 
-## 5.14 Antiemetic Effect
+## 5.15 Antiemetic Effect
 
 Risperidone has an antiemetic effect in animals; this effect may also occur in humans, and may mask signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumor.
 
-## 5.15 Suicide
+## 5.16 Suicide
 
 The possibility of a suicide attempt is inherent in patients with schizophrenia and bipolar mania, including children and adolescent patients, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for risperidone should be written for the smallest quantity of tablets, consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.16 Use in Patients with Concomitant Illness
+## 5.17 Use in Patients with Concomitant Illness
 
 Clinical experience with risperidone in patients with certain concomitant systemic illnesses is limited.
 Patients with Parkinson’s Disease or Dementia with Lewy Bodies who receive antipsychotics, including risperidone, are reported to have an increased sensitivity to antipsychotic medications.
@@ -151,6 +156,6 @@ Patients with these diagnoses were excluded from clinical studies during the pro
 Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73 m 2), and an increase in the free fraction of risperidone is seen in patients with severe hepatic impairment.
 A lower starting dose should be used in such patients [see DOSAGE AND ADMINISTRATION (2.4)].
 
-## 5.17 Monitoring: Laboratory Tests
+## 5.18 Monitoring: Laboratory Tests
 
 No specific laboratory tests are recommended.

@@ -39,4 +39,4 @@ Par Pharmaceutical Companies, Inc.
 
 Spring Valley, NY 10977
 
-Issued: 10/09
+Revised: 09/10
