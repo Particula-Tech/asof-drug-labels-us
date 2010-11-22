@@ -10,7 +10,7 @@ Co-administration of amlodipine besylate tablets with cimetidine did not alter t
 
 ## 7.3 Grapefruit Juice
 
-Administration of amlodipine with grapefruit or grapefruit juice is not recommended since bioavailability may be increased in certain patients resulting in increased blood pressure lowering effects.
+Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
 
 ## 7.4 Magnesium and Aluminum Hydroxide Antacid
 
@@ -39,14 +39,15 @@ Co-administration of amlodipine besylate tablets with warfarin did not change th
 
 ## 7.10 CYP3A4 Inhibitors
 
-When used with erythromycin in young patients and diltiazem in elderly patients, the plasma concentration of amlodipine increased by 22% and 50 % respectively.
-Strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent than diltiazem.
-Amlodipine should be used with caution together with CYP3A4 inhibitors; however, no adverse events attributable to such interaction have been reported.
+Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 1.6 fold increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
 
 ## 7.11 CYP3A4 Inducers
 
-There is no data available regarding the effect of CYP3A4 inducers on amlodipine.
-Amlodipine should be used with caution together with CYP3A4 inducers.
+No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
+Patients should be monitored for adequate clinical effect when amlodipine is co-administered with CYP3A4 inducers.
 
 ## 7.12 Drug/Laboratory Test Interactions
 

@@ -63,7 +63,6 @@ What should I avoid while taking amlodipine besylate tablets?
 - Do not breast-feed.
   It is not known if amlodipine besylate will pass through your milk.
 - Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
-- Do not consume grapefruit or grapefruit juice while on amlodipine besylate tablets.
 
 What are the possible side effects of amlodipine besylate tablets?
 
@@ -103,4 +102,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0342-3.0 July 2010
+LAB-0342-4.0 November 2010
