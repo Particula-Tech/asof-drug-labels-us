@@ -1,0 +1,9 @@
+# PRINCIPAL DISPLAY PANEL
+
+MINOCIN 100 mg Kit (Bottles of 60)
+
+NDC 14290-570-98
+
+MINOCIN 50 mg Kit (Bottles of 60)
+
+NDC 14290-571-98
