@@ -42,7 +42,7 @@ In placebo-controlled clinical trials in Parkinson's disease, hallucinations (vi
 Hallucinations led to discontinuation of treatment in 5 of 387 (1%) patients on MIRAPEX ER tablets.
 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
-In a placebo-controlled clinical trials in Parkinson’s disease, hallucinations were reported in 15 of 162 (9%) patients ≥65 years of age taking MIRAPEX ER tablets compared to 10 of 225 (4%) patients <65 years of age taking MIRAPEX ER tablets.
+In placebo-controlled clinical trials in Parkinson’s disease, hallucinations were reported in 15 of 162 (9%) patients ≥65 years of age taking MIRAPEX ER tablets compared to 10 of 225 (4%) patients <65 years of age taking MIRAPEX ER tablets.
 
 ## 5.5 Dyskinesia
 

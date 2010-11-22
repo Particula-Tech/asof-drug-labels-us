@@ -45,5 +45,14 @@ Because the teratogenic potential of pramipexole has not been completely establi
 
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
 
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA Licensed from: Boehringer Ingelheim International GmbH Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
-Trademark under license from: Boehringer Ingelheim International GmbH ©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED OT220011JG2710 74988-04
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
+
+Licensed from: Boehringer Ingelheim International GmbH
+
+Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
+
+Trademark under license from: Boehringer Ingelheim International GmbH
+
+©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+
+OT220011MJ2710

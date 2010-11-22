@@ -23,7 +23,7 @@ In a third trial, advanced Parkinson’s disease patients received MIRAPEX ER ta
 
 Early Parkinson's Disease The most commonly observed adverse events (≥5% and more frequent than placebo) after 33 weeks of treatment with MIRAPEX ER tablets in the trial of early Parkinson’s disease patients were somnolence, nausea, constipation, dizziness, fatigue, hallucinations, dry mouth, muscle spasms, and peripheral edema.
 
-Twenty four of 233 (11%) patients treated with MIRAPEX ER tablets for 33 weeks discontinued treatment due to adverse events compared to 4 of 103 (4%) patients who received placebo and approximately 20 of 213 (9%) patients who received immediate-release pramipexole tablets.
+Twenty four of 223 (11%) patients treated with MIRAPEX ER tablets for 33 weeks discontinued treatment due to adverse events compared to 4 of 103 (4%) patients who received placebo and approximately 20 of 213 (9%) patients who received immediate-release pramipexole tablets.
 The adverse event most commonly causing discontinuation of treatment with MIRAPEX ER tablets was nausea (2%).
 
 Table 1 lists adverse events that occurred with a frequency of at least 2% with MIRAPEX ER and were more frequent than with placebo during 33 weeks of treatment in a double-blind, placebo-controlled study in early Parkinson's disease.

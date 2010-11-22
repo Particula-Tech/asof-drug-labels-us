@@ -19,6 +19,6 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: July 2010
+Rev: November 2010
 
-OT220011JG2710 74988-04
+OT220011MJ2710
