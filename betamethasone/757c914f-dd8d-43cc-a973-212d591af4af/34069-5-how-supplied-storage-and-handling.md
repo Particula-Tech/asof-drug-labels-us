@@ -8,6 +8,8 @@ Taclonex Scalp® Topical Suspension is available in bottles of:
 
 60 g (NDC 50222-501-06)
 
+2 x 60 g (NDC 50222-501-66)
+
 ## 16.2 Storage
 
 Store between 20-25°C (68-77°F); excursions permitted between 15-30°C (59-86°F).
