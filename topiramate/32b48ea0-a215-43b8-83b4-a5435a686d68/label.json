@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA078462"
+  ],
+  "inn": "topiramate",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-171-19",
+    "65862-171-60",
+    "65862-172-60",
+    "65862-172-61",
+    "65862-173-59",
+    "65862-173-60",
+    "65862-174-35",
+    "65862-174-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "topiramate",
+      "name": "Topiramate"
+    }
+  ],
+  "setid": "32b48ea0-a215-43b8-83b4-a5435a686d68",
+  "source": "dailymed"
+}
