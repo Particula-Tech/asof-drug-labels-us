@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL SECTION
+
+Representative sample of the labeling (see the HOW SUPPLIED section for complete listing):
+
+PRINCIPAL DISPLAY PANEL - 5 mg BOTTLE LABEL
+
+APOTEX CORP. NDC 60505-0055-1
+
+SELEGILINE HYDROCHLORIDE CAPSULES,
+
+5 mg
+
+Rx
+
+60 Capsules
