@@ -77,7 +77,7 @@ Pregnancy — Patients should be advised to notify their physician if they becom
 Nursing Mothers — Patients should be advised not to breast-feed an infant if they are taking ZYPREXA [see Use in Specific Populations (8.3)].
 
 Pediatric Use — ZYPREXA is indicated for treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adolescents 13 to 17 years of age.
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic transaminase levels.
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin, and hepatic aminotransferase levels.
 Patients should be counseled about the potential long-term risks associated with ZYPREXA and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of ZYPREXA in patients under 13 years of age have not been established.
 Safety and effectiveness of ZYPREXA and fluoxetine in combination in patients <18 years of age have not been established [see Warnings and Precautions (5.5, 5.6) and Use in Specific Populations (8.4)].

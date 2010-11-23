@@ -24,14 +24,13 @@ The tablets are available as follows:
 
 |  | TABLET STRENGTH |  |  |  |
 | --- | --- | --- | --- | --- |
-| ZYPREXA ZYDIS Tabletsa | 5 mg | 10 mg | 15 mg | 20 mg |
+| ZYPREXA ZYDIS Tablets | 5 mg | 10 mg | 15 mg | 20 mg |
 | Tablet No. | 4453 | 4454 | 4455 | 4456 |
 | Debossed | 5 | 10 | 15 | 20 |
 | NDC Codes: |  |  |  |  |
 | Dose Pack 30 (Child Resistant) | NDC 0002-4453-85 | NDC 0002-4454-85 | NDC 0002-4455-85 | NDC 0002-4456-85 |
 | ZYPREXA is a registered trademark of Eli Lilly and Company. |  |  |  |  |
 | ZYDIS is a registered trademark of Catalent Pharma Solutions. |  |  |  |  |
-| a ZYPREXA ZYDIS (olanzapine orally disintegrating tablets) is manufactured for Eli Lilly and Company by Catalent Pharma Solutions, United Kingdom, SN5 8RU. |  |  |  |  |
 
 ZYPREXA IntraMuscular is available in:
 
