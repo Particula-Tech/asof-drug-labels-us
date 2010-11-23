@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA079082"
+  ],
   "inn": "ursodiol",
   "labeler": "Lannett Company, Inc.",
   "package_ndcs": [
     "0527-1326-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ursodiol",
+      "name": "Ursodiol"
+    }
+  ],
   "setid": "2e799e93-b5a0-40f7-95c5-b40d8a948a0d",
   "source": "dailymed"
 }

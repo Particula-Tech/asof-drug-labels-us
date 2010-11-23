@@ -8,13 +8,13 @@ Patients should be carefully selected for therapy with ursodiol, and alternative
 
 # ALTERNATIVE THERAPIES
 
-## Watchful Waiting
+Watchful Waiting
 
 Watchful waiting has the advantage that no therapy may ever be required.
 For patients with silent or minimally symptomatic stones, the rate of development of moderate-to-severe symptoms or gallstone complications is estimated to be between 2% and 6% per year, leading to a cumulative rate of 7% to 27% in 5 years.
 Presumably the rate is higher for patients already having symptoms.
 
-## Cholecystectomy
+Cholecystectomy
 
 For patients with symptomatic gallstones, surgery offers the advantage of immediate and permanent stone removal, but carries a high risk in some patients.
 About 5% of cholecystectomized patients have residual symptoms or retained common duct stones.
@@ -34,7 +34,3 @@ Mortality Rates for Cholecystectomy in the U.S. (National Halothane Study, JAMA 
 Women in good health or who have only moderate systemic disease and are under 49 years of age have the lowest surgical mortality rate (0.054); men in all categories have a surgical mortality rate twice that of women.
 Common duct exploration quadruples the rates in all categories.
 The rates rise with each decade of life and increase tenfold or more in all categories with severe or extreme systemic disease.
-
-Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
-
-Revised: 10/08

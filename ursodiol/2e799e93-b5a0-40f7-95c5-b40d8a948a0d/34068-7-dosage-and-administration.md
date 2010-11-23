@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Gallstone Dissolution
+Gallstone Dissolution
 
 The recommended dose for Ursodiol treatment of radiolucent gallbladder stones is 8-10 mg/kg/day given in 2 or 3 divided doses.
 
@@ -9,6 +9,6 @@ If gallstones appear to have dissolved, Ursodiol therapy should be continued and
 Most patients who eventually achieve complete stone dissolution will show partial or complete dissolution at the first on-treatment re-evaluation.
 If partial stone dissolution is not seen by 12 months of Ursodiol therapy, the likelihood of success is greatly reduced.
 
-## Gallstone Prevention
+Gallstone Prevention
 
 The recommended dosage of Ursodiol for gallstone prevention in patients undergoing rapid weight loss is 600 mg/day (300 mg b.i.d.).

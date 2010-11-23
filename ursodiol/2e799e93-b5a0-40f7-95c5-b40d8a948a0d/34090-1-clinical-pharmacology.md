@@ -38,7 +38,7 @@ After ursodiol dosing is stopped, the concentration of the bile acid in bile fal
 
 ## Clinical Results
 
-### Gallstone Dissolution
+Gallstone Dissolution
 
 On the basis of clinical trial results in a total of 868 patients with radiolucent gallstones treated in 8 studies (three in the U.S. involving 282 patients, one in the U.K. involving 130 patients, and four in Italy involving 456 patients) for periods ranging from 6-78 months with Ursodiol doses ranging from about 5 to 20 mg/kg/day, an Ursodiol dose of about 8-10 mg/kg/day appeared to be the best dose.
 With an Ursodiol dose of about 10 mg/kg/day, complete stone dissolution can be anticipated in about 30% of unselected patients with uncalcified gallstones < 20 mm in maximal diameter treated for up to 2 years.
@@ -58,7 +58,7 @@ Stone recurrence has been observed in up to 50% of patients within 5 years of co
 Serial ultrasonographic examinations should be obtained to monitor for recurrence of stones, bearing in mind that radiolucency of the stones should be established before another course of Ursodiol is instituted.
 A prophylactic dose of Ursodiol has not been established.
 
-### Gallstone Prevention
+Gallstone Prevention
 
 Two placebo-controlled, multicenter, double-blind, randomized, parallel group trials in a total of 1316 obese patients were undertaken to evaluate Ursodiol in the prevention of gallstone formation in obese patients undergoing rapid weight loss.
 The first trial consisted of 1004 obese patients with a body mass index (BMI) ≥ 38 who underwent weight loss induced by means of a very low calorie diet for a period of 16 weeks.
