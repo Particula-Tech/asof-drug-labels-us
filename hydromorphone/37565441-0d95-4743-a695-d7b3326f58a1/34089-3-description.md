@@ -5,6 +5,9 @@ Hydromorphone Hydrochloride Tablets, USP, a hydrogenated ketone of morphine, are
 The chemical name of hydromorphone hydrochloride is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
 The structural formula is:
 
+M.W.
+321.8
+
 Color Coded Tablets (for oral administration) contain:
 
 2 mg hydromorphone hydrochloride (orange tablet) and D&C red #30 Lake dye, D&C yellow #10 Lake dye, lactose, and magnesium stearate.
