@@ -29,15 +29,3 @@ Describe the relevant signs/symptoms and advise seeking medical attention if any
 ## 17.5 Medication Guide
 
 See attached leaflet.
-
-Manufactured by: Takeda Pharmaceutical Company Limited 540-8645 Osaka, JAPAN
-
-Manufactured in: Takeda Ireland Ltd. Kilruddery, County Wicklow, Republic of Ireland
-
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
-
-ROZEREM® is a registered trademark of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
-
-©2005, 2008 Takeda Pharmaceuticals America, Inc.
-
-05-1143 Revised: 10/2008

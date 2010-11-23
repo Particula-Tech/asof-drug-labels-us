@@ -7,7 +7,7 @@ ROZEREM should not be used in combination with fluvoxamine [see Contraindication
 Other less strong CYP1A2 inhibitors have not been adequately studied.
 ROZEREM should be administered with caution to patients taking less strong CYP1A2 inhibitors.
 
-Rifampin (strong CYP enzyme inducer): Administration of multiple doses of rifampin once daily for 11 days resulted in a mean decrease of approximately 80% (40% to 90%) in total exposure to ramelteon.
+Rifampin (strong CYP enzyme inducer): Administration of multiple doses of rifampin resulted in a mean decrease of approximately 80% in total exposure to ramelteon and metabolite M-II.
 Efficacy may be reduced when ROZEREM is used in combination with strong CYP enzyme inducers such as rifampin [see Clinical Pharmacology (12.5)].
 
 Ketoconazole (strong CYP3A4 inhibitor): The AUC0-inf and Cmax of ramelteon increased by approximately 84% and 36% upon coadministration of ketoconazole with ROZEREM.
@@ -15,6 +15,12 @@ ROZEREM should be administered with caution in subjects taking strong CYP3A4 inh
 
 Fluconazole (strong CYP2C9 inhibitor): The AUC0-inf and Cmax of ramelteon was increased by approximately 150% when ROZEREM was coadministered with fluconazole.
 ROZEREM should be administered with caution in subjects taking strong CYP2C9 inhibitors such as fluconazole [see Clinical Pharmacology (12.5)].
+
+Donepezil: The AUC0-inf and Cmax of ramelteon increased by approximately 100% and 87%, respectively upon coadministration of donepezil with ROZEREM.
+Patients should be closely monitored when ROZEREM is coadministered with donepezil [see Clinical Pharmacology (12.5)].
+
+Doxepin: The AUC0-inf and Cmax of ramelteon increased by approximately 66% and 69%, respectively, upon coadministration of doxepin with ROZEREM.
+Patients should be closely monitored when ROZEREM is coadministered with doxepin [see Clinical Pharmacology (12.5)].
 
 ## 7.2 Effect of Alcohol on ROZEREM
 

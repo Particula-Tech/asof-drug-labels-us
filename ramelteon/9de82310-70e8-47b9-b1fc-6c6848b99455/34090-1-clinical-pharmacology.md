@@ -52,7 +52,7 @@ Following oral administration of radiolabeled ramelteon, 84% of total radioactiv
 Less than 0.1% of the dose was excreted in urine and feces as the parent compound.
 Elimination was essentially complete by 96 hours post-dose.
 
-Repeated once daily dosing with ROZEREM does not result in significant accumulation owing to the short elimination half-life of ramelteon (on average, approximately 1- 2.6 hours).
+Repeated once daily dosing with ROZEREM does not result in significant accumulation owing to the short elimination half-life of ramelteon (on average, approximately 1 to 2.6 hours).
 
 The half-life of M-II is 2 to 5 hours and independent of dose.
 Serum concentrations of the parent drug and its metabolites in humans are at or below the lower limits of quantitation within 24 hours.
@@ -66,7 +66,7 @@ It is therefore recommended that ROZEREM not be taken with or immediately after 
 
 ## 12.4 Pharmacokinetics in Special Populations
 
-Age: In a group of 24 elderly subjects aged 63 to 79 years administered a single ROZEREM 16 mg dose, the mean Cmax and AUC0-inf values were 11.6 ng/mL (SD, 13.8) and 18.7 ng·hr/mL (SD, 19.4), respectively.
+Age: In a group of 24 elderly subjects aged 63 to 79 years administered a single ROZEREM 16 mg dose, the mean Cmax and AUC0-inf values were 11.6 ng/mL (SD, 13.8) and 18.7 ng∙hr/mL (SD, 19.4), respectively.
 The elimination half-life was 2.6 hours (SD, 1.1).
 Compared with younger adults, the total exposure (AUC0-inf) and Cmax of ramelteon were 97% and 86% higher, respectively, in elderly subjects.
 The AUC0-inf and Cmax of M-II were increased by 30% and 13%, respectively, in elderly subjects.
@@ -81,7 +81,7 @@ Renal Impairment: The pharmacokinetic characteristics of ROZEREM were studied af
 Wide intersubject variability was seen in ROZEREM exposure parameters.
 However, no effects on Cmax or AUC0-t of parent drug or M-II were seen in any of the treatment groups; the incidence of adverse events was similar across groups.
 These results are consistent with the negligible renal clearance of ramelteon, which is principally eliminated via hepatic metabolism.
-No adjustment of ROZEREM dosage is required in patients with renal impairment, including patients with severe renal impairment (creatinine clearance of ≤ 30 mL/min/1.73 m2) and patients who require chronic hemodialysis.
+No adjustment of ROZEREM dosage is required in patients with renal impairment, including patients with severe renal impairment (creatinine clearance of ≤30 mL/min/1.73 m2) and patients who require chronic hemodialysis.
 
 ## 12.5 Drug-Drug Interactions
 
@@ -93,24 +93,35 @@ Effects of Other Drugs on ROZEREM Metabolism
 Fluvoxamine (strong CYP1A2 inhibitor): When fluvoxamine 100 mg twice daily was administered for 3 days prior to single-dose co-administration of ROZEREM 16 mg and fluvoxamine, the AUC0-inf for ramelteon increased approximately 190-fold, and the Cmax increased approximately 70-fold, compared to ROZEREM administered alone.
 ROZEREM should not be used in combination with fluvoxamine.
 Other less strong CYP1A2 inhibitors have not been adequately studied.
-ROZEREM should be administered with caution to patients taking less strong CYP1A2 inhibitors [see Contraindications].
+ROZEREM should be administered with caution to patients taking less strong CYP1A2 inhibitors [see Contraindications (4), Drug Interactions (7)].
 
 Rifampin (strong CYP enzyme inducer): Administration of rifampin 600 mg once daily for 11 days resulted in a mean decrease of approximately 80% (40% to 90%) in total exposure to ramelteon and metabolite M-II, (both AUC0-inf and Cmax) after a single 32 mg dose of ROZEREM.
-Efficacy may be reduced when ROZEREM is used in combination with strong CYP enzyme inducers such as rifampin.
+Efficacy may be reduced when ROZEREM is used in combination with strong CYP enzyme inducers such as rifampin [see Drug Interactions (7)].
 
 Ketoconazole (strong CYP3A4 inhibitor): The AUC0-inf and Cmax of ramelteon increased by approximately 84% and 36%, respectively, when a single 16 mg dose of ROZEREM was administered on the fourth day of ketoconazole 200 mg twice daily administration, compared to administration of ROZEREM alone.
 Similar increases were seen in M-II pharmacokinetic variables.
-ROZEREM should be administered with caution in subjects taking strong CYP3A4 inhibitors such as ketoconazole.
+ROZEREM should be administered with caution in subjects taking strong CYP3A4 inhibitors such as ketoconazole [see Drug Interactions (7)].
 
 Fluconazole (strong CYP2C9 inhibitor): The total and peak systemic exposure (AUC0-inf and Cmax) of ramelteon after a single 16 mg dose of ROZEREM was increased by approximately 150% when administered with fluconazole.
 Similar increases were also seen in M-II exposure.
-ROZEREM should be administered with caution in subjects taking strong CYP2C9 inhibitors such as fluconazole.
+ROZEREM should be administered with caution in subjects taking strong CYP2C9 inhibitors such as fluconazole [see Drug Interactions (7)].
 
-Interaction studies of concomitant administration of ROZEREM with fluoxetine (CYP2D6 inhibitor), omeprazole (CYP1A2 inducer/CYP2C19 inhibitor), theophylline (CYP1A2 substrate), and dextromethorphan (CYP2D6 substrate) did not produce clinically meaningful changes in either peak or total exposures to ramelteon or the M-II metabolite.
+Donepezil: Administration of donepezil 10 mg once daily for 26 days resulted in a mean increase of approximately 100% in overall exposure to ramelteon, (AUC0-inf) and a mean increase of approximately 87% in maximum exposure to ramelteon (Cmax) after a single 8 mg dose of ROZEREM.
+No change was seen in M-II exposure.
+Patients should be closely monitored when ROZEREM is coadministered with donepezil [see Drug Interactions (7)].
+
+Doxepin: Administration of doxepin 10 mg once daily for 23 days resulted in a mean increase of approximately 66% in overall exposure to ramelteon, (AUC0-inf) and a mean increase of approximately 69% in maximum exposure to ramelteon (Cmax) after a single 8 mg dose of ROZEREM.
+No change was seen in M-II exposure.
+Patients should be closely monitored when ROZEREM is coadministered with doxepin [see Drug Interactions (7)].
+
+Interaction studies of concomitant administration of ROZEREM with fluoxetine (CYP2D6 inhibitor), omeprazole (CYP1A2 inducer/CYP2C19 inhibitor), theophylline (CYP1A2 substrate), dextromethorphan (CYP2D6 substrate), sertraline, venlafaxine, escitalopram, gabapentin, and zolpidem did not produce clinically meaningful changes in either peak or total exposures to ramelteon or the M-II metabolite.
 
 Effects of ROZEREM on Metabolism of Other Drugs
 
-Concomitant administration of ROZEREM with omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), theophylline (CYP1A2 substrate), digoxin (p-glycoprotein substrate) and warfarin (CYP2C9 [S]/CYP1A2 [R] substrate) did not produce clinically meaningful changes in peak and total exposures to these drugs.
+Zolpidem: Administration of ramelteon 8 mg once daily for 11 days resulted in an increase in median Tmax of zolpidem by approximately 20 minutes and exposure to zolpidem (both AUC0-inf and Cmax) was unchanged after a single 10 mg dose of zolpidem.
+Ordinarily zolpidem should not be given in a patient taking ROZEREM.
+
+Concomitant administration of ROZEREM with omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), midazolam (CYP3A4 substrate), theophylline (CYP1A2 substrate), digoxin (p-glycoprotein substrate), warfarin (CYP2C9 [S]/CYP1A2 [R] substrate), venlafaxine, fluvoxamine, donepezil, doxepin, sertraline, escitalopram, and gabapentin did not produce clinically meaningful changes in peak and total exposures to these drugs.
 
 Effect of Alcohol on ROZEREM
 

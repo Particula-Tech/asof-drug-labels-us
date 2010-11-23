@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-ROZEREM® (rō-Zair-em)
+ROZEREM (rō-Zair-em)
 
 (ramelteon)
 
@@ -19,34 +19,25 @@ The next morning, you may not remember that you did anything during the night.
 You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with ROZEREM.
 Activities may include:
 
-• driving a car ("sleep-driving")
-
-• making and eating food
-
-• talking on the phone
-
-• having sex
-
-• sleep-walking
+- driving a car ("sleep-driving")
+- making and eating food
+- talking on the phone
+- having sex
+- sleep-walking
 
 Call your doctor right away if you find out that you have done any of the above activities after taking ROZEREM.
 
 Important:
 
-1.
-Take ROZEREM exactly as prescribed
-
-- Do not take more ROZEREM than prescribed.
-- Take ROZEREM within 30 minutes of going to bed, not sooner.
-
-2.
-Do not take ROZEREM if you:
-
-- drink alcohol
-- take other medicines that can make you sleepy.
-  Talk to your doctor about all of your medicines.
-  Your doctor will tell you if you can take ROZEREM with your other medicines.
-- cannot get a full night’s sleep
+- 1.Take ROZEREM exactly as prescribed
+  - Do not take more ROZEREM than prescribed.
+  - Take ROZEREM within 30 minutes of going to bed, not sooner.
+- 2.Do not take ROZEREM if you:
+  - drink alcohol
+  - take other medicines that can make you sleepy.
+    Talk to your doctor about all of your medicines.
+    Your doctor will tell you if you can take ROZEREM with your other medicines
+  - cannot get a full night's sleep
 
 WHAT IS ROZEREM?
 
@@ -76,7 +67,7 @@ Medicines can interact with each other, sometimes causing serious side effects.
 Do not take ROZEREM with:
 
 - other medicines that can make you sleepy
-- Luvox® (fluvoxamine)
+- Luvox (fluvoxamine)
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your doctor and pharmacist each time you get a new medicine.
@@ -90,7 +81,7 @@ How should I take ROZEREM?
 - Take ROZEREM within 30 minutes of going to bed.
   After taking ROZEREM only do activities to get ready for bed.
 - Do not take ROZEREM with or right after a meal.
-- Do not take ROZEREM unless you are able to get a full night’s sleep before you must be active again.
+- Do not take ROZEREM unless you are able to get a full night's sleep before you must be active again.
 - Call your doctor if your insomnia worsens or is not better within 7-10 days.
   This may mean that there is another condition causing your sleep problems.
 - If you take too much ROZEREM or overdose, call your doctor or poison control center right away, or get emergency treatment.
@@ -103,20 +94,16 @@ Possible serious side effects of ROZEREM include:
   Symptoms include swelling of the tongue or throat, trouble breathing, and nausea and vomiting.
   Get emergency medical help if you get these symptoms after taking ROZEREM.
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  (See “What is the most important information I should know about ROZEREM?”)
+  (See "What is the most important information I should know about ROZEREM?)
 - abnormal thoughts and behavior.
   Symptoms include worsening of depression, suicidal thoughts or actions, nightmares, and hallucinations.
 - hormone effects.
   ROZEREM can decrease testosterone levels and increase prolactin levels in the blood.
   Symptoms of low testosterone or high prolactin levels are:
-
-o decreased interest in sex
-
-o problems getting pregnant
-
-o irregular menstrual periods or no menstrual periods
-
-o leakage of milk from the nipples of a person who is not breastfeeding
+  - decreased interest in sex
+  - problems getting pregnant
+  - irregular menstrual periods or no menstrual periods
+  - leakage of milk from the nipples of a person who is not breastfeeding
 
 Call your doctor right away if you have any of the above side effects or any other side effects that worry you while using ROZEREM.
 Call your doctor for medical advice about side effects.
@@ -135,7 +122,7 @@ Ask your doctor or pharmacist for more information.
 
 How should I Store ROZEREM?
 
-- Store ROZEREM tablets at room temperature, 59˚ to 86˚ F (15˚ to 30˚C).
+- Store ROZEREM tablets at room temperature, 59° to 86° F (15° to 30°C).
   Keep the container tightly closed and protected from moisture and humidity.
 - Keep ROZEREM and all medicines out of reach of children.
 
@@ -149,7 +136,7 @@ General Information about ROZEREM
 This Medication Guide summarizes the most important information about ROZEREM.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ROZEREM that is written for healthcare professionals.
-For more information about ROZEREM, please call Takeda Pharmaceuticals America, Inc. at 1-877-TAKEDA-7 or visit www.rozerem.com.
+For more information about ROZEREM, please call Takeda Pharmaceuticals America, Inc. at 1-877-TAKEDA-7 (1-877-825-3327) or visit www.rozerem.com.
 
 What are the ingredients in ROZEREM?
 
@@ -161,4 +148,12 @@ Rx Only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-05-1143-MG Revised: 10/2008
+Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+
+ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+
+All other trademark names are the property of their respective owners.
+
+©2005-2010 Takeda Pharmaceuticals America, Inc.
+
+ROZ014 R7 11/2010

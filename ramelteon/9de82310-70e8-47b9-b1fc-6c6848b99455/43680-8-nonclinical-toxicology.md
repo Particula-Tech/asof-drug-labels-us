@@ -9,8 +9,8 @@ Mice and rats were dosed for two years, except at the high dose (94 weeks for ma
 In mice, dose-related increases in the incidence of hepatic tumors (adenomas, carcinomas, hepatoblastomas) were observed in males and females.
 The no-effect dose for hepatic tumors in mice (30 mg/kg/day) is approximately 20 times the recommended human dose (RHD) of 8 mg/day on a body surface area (mg/m2) basis.
 
-In rats, the incidence of hepatic adenoma and benign Leydig cell tumors of the testis was increased in males at doses ≥ 250 mg/kg/day.
-In females, the incidence of hepatic adenoma was increased at doses ≥ 60 mg/kg/day.
+In rats, the incidence of hepatic adenoma and benign Leydig cell tumors of the testis was increased in males at doses ≥250 mg/kg/day.
+In females, the incidence of hepatic adenoma was increased at doses ≥60 mg/kg/day.
 The incidence of hepatic carcinoma was increased in males and female rats at 1000 mg/kg/day.
 The no-effect dose for tumors in rats (15 mg/kg/day) is approximately 20 times the RHD on a mg/m2 basis.
 

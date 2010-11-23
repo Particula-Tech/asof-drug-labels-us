@@ -4,7 +4,7 @@
 
 Chronic Insomnia
 
-Three randomized, double-blind trials in subjects with chronic insomnia employing polysomnography (PSG) were provided as objective support of Rozerem’s effectiveness in sleep initiation.
+Three randomized, double-blind trials in subjects with chronic insomnia employing polysomnography (PSG) were provided as objective support of Rozerem's effectiveness in sleep initiation.
 
 One study enrolled younger adults (aged 18 to 64 years, inclusive) with chronic insomnia and employed a parallel design in which the subjects received a single, nightly dose of ROZEREM (8 mg or 16 mg) or matching placebo for 35 days.
 PSG was performed on the first two nights in each of Weeks 1, 3, and 5 of treatment.
@@ -25,7 +25,7 @@ There was no increase in LPS in the placebo group when the same time periods wer
 A randomized, double-blind, parallel group study was conducted in outpatients aged 65 years and older with chronic insomnia and employed subjective measures of efficacy (sleep diaries).
 Subjects received ROZEREM (4 mg or 8 mg) or placebo for 35 nights.
 ROZEREM reduced patient-reported sleep latency compared to placebo.
-A similarly designed study performed in younger adults (aged 18-64 years) using 8 mg and 16 mg of ramelteon did not replicate this finding of reduced patient-reported sleep latency compared to placebo.
+A similarly designed study performed in younger adults (aged 18 - 64 years) using 8 mg and 16 mg of ramelteon did not replicate this finding of reduced patient-reported sleep latency compared to placebo.
 
 While the 16 mg dose was evaluated as a potential treatment for adults, it was shown to confer no additional benefit for sleep initiation and was associated with higher incidences of fatigue, headache and next-day somnolence.
 
@@ -34,7 +34,7 @@ Transient Insomnia
 In a randomized, double-blind, parallel-group trial using a first-night-effect model, healthy adults received placebo or ROZEREM before spending one night in a sleep laboratory and being evaluated with PSG.
 ROZEREM demonstrated a decrease in mean latency to persistent sleep as compared to placebo.
 
-## 14.2 Studies Pertinent to Safety Concerns for Sleep-promoting Drugs
+## 14.2 Studies Pertinent to Safety Concerns for Sleep- promoting Drugs
 
 Results from Human Laboratory Abuse Liability Studies
 
@@ -84,7 +84,7 @@ In the second trial, ROZEREM 16 mg once daily or placebo was administered to 122
 This study evaluated the thyroid axis, adrenal axis and reproductive axis.
 There were no significant abnormalities seen in either the thyroid or the adrenal axes.
 Abnormalities were, however, noted within the reproductive axis.
-Overall, the mean serum prolactin level change from baseline was 4.9 μg/L (34% increase) for women in the ROZEREM group compared with −0.6 μg/L (4% decrease) for women in the placebo group (p=0.003).
+Overall, the mean serum prolactin level change from baseline was 4.9 mcg/L (34% increase) for women in the ROZEREM group compared with -0.6 mcg/L (4% decrease) for women in the placebo group (p=0.003).
 No differences between active- and placebo-treated groups occurred among men.
 Thirty-two percent of all patients who were treated with ramelteon in this study (women and men) had prolactin levels that increased from normal baseline levels compared to 19% of patients who were treated with placebo.
 Subject-reported menstrual patterns were similar between the two treatment groups.

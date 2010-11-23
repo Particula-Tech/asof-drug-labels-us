@@ -58,7 +58,7 @@ No standard monitoring is required.
 
 For patients presenting with unexplained amenorrhea, galactorrhea, decreased libido, or problems with fertility, assessment of prolactin levels and testosterone levels should be considered as appropriate.
 
-Interference with laboratory tests
+Interference with Laboratory Tests
 
 ROZEREM is not known to interfere with commonly used clinical laboratory tests.
 In addition, in vitro data indicate that ramelteon does not cause false-positive results for benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screening methods in vitro.

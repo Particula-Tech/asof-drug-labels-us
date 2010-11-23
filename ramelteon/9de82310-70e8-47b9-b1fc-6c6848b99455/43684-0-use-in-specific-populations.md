@@ -10,7 +10,7 @@ ROZEREM should be used during pregnancy only if the potential benefit justifies 
 
 Oral administration of ramelteon (10, 40, 150 or 600 mg/kg/day) to pregnant rats during the period of organogenesis was associated with increased incidences of fetal structural abnormalities (malformations and variations) at doses greater than 40 mg/kg/day.
 The no-effect dose is approximately 50 times the RHD on a body surface area (mg/m2) basis.
-Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD on a mg/m2 basis).
+Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD on a mg/m2 basis.
 
 When rats were orally administered ramelteon (30, 100, or 300 mg/kg/day) throughout gestation and lactation, growth retardation, developmental delay, and behavioral changes were observed in the offspring at doses greater than 30 mg/kg/day.
 The no-effect dose is 36 times the RHD on a mg/m2 basis.
