@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA020977",
+    "NDA020978"
+  ],
+  "inn": "abacavir",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-221-18",
+    "49702-221-44",
+    "49702-222-48"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    }
+  ],
+  "setid": "ca73b519-015a-436d-aa3c-af53492825a1",
+  "source": "dailymed"
+}
