@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040361"
+  ],
   "inn": "dextroamphetamine",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
     "0555-0952-02",
     "0555-0953-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dextroamphetamine sulfate",
+      "name": "Dextroamphetamine Sulfate"
+    }
+  ],
   "setid": "ec2d13f3-d14f-47e4-abe9-7763f95a8e94",
   "source": "dailymed"
 }
