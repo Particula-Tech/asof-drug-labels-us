@@ -29,8 +29,12 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+October 2010
+
+CCR:12PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
