@@ -75,9 +75,9 @@ Patients at risk appear to be those with low blood pressure (systolic blood pres
 Renal function has returned to baseline when carvedilol was stopped.
 In patients with these risk factors it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
-## 5.9 Anesthesia and Major Surgery
+## 5.9 Major Surgery
 
-If treatment with COREG is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## 5.10 Thyrotoxicosis
 

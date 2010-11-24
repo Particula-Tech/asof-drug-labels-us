@@ -32,8 +32,12 @@ Patheon Puerto Rico, Inc.
 
 Manati, PR 00674 USA
 
-©2009, GlaxoSmithKline.
+©2010, GlaxoSmithKline.
 All rights reserved.
+
+October 2010
+
+CRG:19PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
