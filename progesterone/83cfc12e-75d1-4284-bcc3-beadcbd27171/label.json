@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091033"
+  ],
+  "inn": "progesterone",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9725-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "progesterone",
+      "name": "Progesterone"
+    }
+  ],
+  "setid": "83cfc12e-75d1-4284-bcc3-beadcbd27171",
+  "source": "dailymed"
+}
