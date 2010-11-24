@@ -8,4 +8,5 @@ PREMPRO or PREMPHASE therapy should not be used in women with any of the followi
 - Active deep vein thrombosis, pulmonary embolism or a history of these conditions
 - Active arterial thromboembolic disease (for example, stroke and myocardial infarction), or a history of these conditions
 - Known liver dysfunction or disease
+- Known thrombophilic disorders (e.g., protein C, protein S, or antithrombin deficiency)
 - Known or suspected pregnancy

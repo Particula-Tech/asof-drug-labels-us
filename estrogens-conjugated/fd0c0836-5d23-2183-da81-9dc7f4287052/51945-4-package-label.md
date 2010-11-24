@@ -20,7 +20,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg - CARTON
 
 NDC 0046-1105-11
 
-Package contains 1 blister card of 28 Tablets
+Package contains 1 blister card of 28 tablets
 
 PREMPRO®
 
@@ -145,7 +145,7 @@ Package consists of 3 pouches, each includes one EZ DIAL® dispenser containing 
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.625 mg / 5 mg – BLISTER CARD
 
-NDC 0049-0975-11
+NDC 0046-0975-11
 
 PREMPRO®
 
@@ -226,7 +226,7 @@ PREMPHASE®
 
 14 maroon tablets of 0.625 mg conjugated estrogens
 
-14 light-blue tablets of 0.625 mg conjugated estrogens
+14 light-blue tablets of 0.625 mg conjugated estrogens/
 
 5 mg medroxyprogesterone acetate
 
@@ -246,7 +246,7 @@ PREMPHASE®
 
 14 maroon tablets of 0.625 mg conjugated estrogens
 
-14 light-blue tablets of 0.625 mg conjugated estrogens
+14 light-blue tablets of 0.625 mg conjugated estrogens/
 
 5 mg medroxyprogesterone acetate
 

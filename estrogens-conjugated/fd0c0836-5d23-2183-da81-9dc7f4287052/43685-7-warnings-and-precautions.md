@@ -90,7 +90,7 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent nCI 0.77-3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen-plus progestin and estrogen-only products has been associated with an increased risk of ovarian cancer over multiple years of use.
 However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
 
 ## 5.3 Probable Dementia

@@ -47,6 +47,7 @@ If you do not have a uterus, you do not need a progestin and you should not take
 - Had a stroke or heart attack
 - Currently have or have had blood clots
 - Currently have or have had liver problems
+- Have been diagnosed with a bleeding disorder
 - Are allergic to PREMPRO or PREMPHASE or any of their ingredientsSee the end of this leaflet for a list of ingredients in PREMPRO and PREMPHASE.
 - Think you may be pregnant
 
