@@ -91,12 +91,13 @@ As with other drugs that block angiotensin II or its effects, concomitant use of
 As with other drugs which affect the excretion of sodium, lithium excretion may be reduced.
 Therefore, serum lithium levels should be monitored carefully if lithium salts are to be co-administered with angiotensin II receptor antagonists.
 
-## Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors:
+## Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
 
-In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs (NSAIDs) including those that selectively inhibit cyclooxygenase-2 inhibitors (COX-2 inhibitors), the co-administration of angiotensin II receptor antagonists including losartan may result in a further deterioration of renal function.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including losartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-Reports suggest that NSAIDs including selective COX-2 inhibitors may diminish the antihypertensive effect of angiotensin II receptor antagonists, including losartan.
-This interaction should be given consideration in patients taking NSAIDs including selective COX-2 inhibitors concomitantly with angiotensin II receptor antagonists.
+Monitor renal function periodically in patients receiving losartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

@@ -61,10 +61,10 @@ Table 1Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16 F
 | --- | --- | --- | --- | --- |
 |  | Adults given 50 mg once daily for 7days N=12 |  | Age 6-16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | AUC0-24Mean ± standard deviation(ng·h/mL) | 442 ±173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
-| CMax (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
+| C MAX (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
 | T1/2(h)Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| TPEAK (h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
-| CL ren (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+| TPEAK(h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
+| CLREN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
 The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
@@ -121,7 +121,7 @@ In a single-dose study in normal volunteers, losartan had no effects on glomerul
 In multiple-dose studies in hypertensive patients, there were no notable effects on systemic or renal prostaglandin concentrations, fasting triglycerides, total cholesterol or HDL-cholesterol or fasting glucose concentrations.
 There was a small uricosuric effect leading to a minimal decrease in serum uric acid (mean decrease <0.4 mg/dL) during chronic oral administration.
 
-The antihypertensive effects of losartan potassium tablets were demonstrated principally in 4 placebo-controlled, 6- to 12-week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95-115.
+The antihypertensive effects of losartan potassium tablets were demonstrated principally in 4 placebo-controlled, 6 to 12-week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95-115.
 The studies allowed comparisons of two doses (50-100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Three additional studies examined the antihypertensive effects of losartan and hydrochlorothiazide in combination.
 
@@ -223,7 +223,7 @@ Primary Endpoint Events† within Demographic Subgroups
 
 Symbols are proportional to sample size.
 
-* Other includes Asian, Hispanic, Multi-race, Indian, Native American, European.
+* Other includes Asian, Hispanic,Multi-race, Indian, Native American, European.
 
 † Adjsuted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 

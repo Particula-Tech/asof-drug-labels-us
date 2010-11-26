@@ -14,7 +14,7 @@ NDC 68382-135-40 in bottle of 5,000 tablets
 
 NDC 68382-135-24 in bottle of 10,000 tablets
 
-Losartan Potassium Tablets USP, 50 mg are white to off-white, capsule-shaped, film-coated tablets debossed with the logo of "Z16" on one side and plain on other side and are supplied as follows:
+Losartan Potassium Tablets USP, 50 mg are white to off-white, capsule-shaped, film-coated tablets debossed with the logo of "Z16" on one side and lip type breakline on other side and are supplied as follows:
 
 NDC 68382-136-06 in bottle of 30 tablets
 

@@ -57,7 +57,7 @@ Especially tell your doctor if you are taking:
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs or NSAIDS
+- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs or (NSAIDS), including COX-2 inhibitors.
 
 ## How should I take losartan potassium tablets?
 
