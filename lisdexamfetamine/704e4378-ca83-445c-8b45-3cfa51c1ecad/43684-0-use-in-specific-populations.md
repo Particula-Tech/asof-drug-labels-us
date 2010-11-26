@@ -36,10 +36,9 @@ Mothers taking amphetamines should be advised to refrain from nursing.
 
 ## 8.4 Pediatric Use
 
-Vyvanse is indicated for use in children with ADHD aged 6 to 12 years.
-Vyvanse has not been studied in children under 6 years of age or adolescents.
+Vyvanse is indicated for use in pediatric patients with ADHD aged 6 to 17 years.
+Vyvanse has not been studied in children under 6 years of age.
 Long-term effects of amphetamines in children have not been well established.
-Amphetamines are not recommended for use in children under 3 years of age.
 
 A study was conducted in which juvenile rats received oral doses of 4, 10, or 40 mg/kg/day of lisdexamfetamine dimesylate from day 7 to day 63 of age.
 These doses are approximately 0.3, 0.7, and 3 times the maximum recommended human daily dose of 70 mg on a mg/m2 basis.

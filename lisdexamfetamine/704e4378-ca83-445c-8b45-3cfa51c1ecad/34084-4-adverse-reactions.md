@@ -2,8 +2,8 @@
 
 ## 6.1 Clinical Studies Experience
 
-The premarketing development program for Vyvanse included exposures in a total of 762 participants in clinical trials (348 pediatric patients, 358 adult patients and 56 healthy adult subjects).
-Of these, 348 pediatric (aged 6 to 12) patients were evaluated in two controlled clinical studies (one parallel-group and one crossover), one open-label extension study, and one single-dose clinical pharmacology study, and 358 adult patients were evaluated in one controlled clinical study and one open-label extension study.
+The premarketing development program for Vyvanse included exposures in a total of 995 participants in clinical trials (348 pediatric patients aged 6 to 12 years, 233 adolescent patients aged 13 to 17 years, 358 adult patients and 56 healthy adult subjects).
+Of these, 348 pediatric (aged 6 to 12) patients were evaluated in two controlled clinical studies (one parallel-group and one crossover), one open-label extension study, and one single-dose clinical pharmacology study, 233 adolescent (aged 13 to 17) patients were evaluated in one controlled clinical study, and 358 adult patients were evaluated in one controlled clinical study and one open-label extension study.
 The information included in this section is based on data from the 4-week parallel-group controlled clinical studies in pediatric and adult patients with ADHD.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, and ECGs.
 
@@ -15,22 +15,25 @@ The stated frequencies of adverse reactions represent the proportion of individu
 
 Adverse Reactions Associated with Discontinuation of Treatment in Clinical Trials
 
-In the controlled pediatric (aged 6 to 12) trial, 10% (21/218) of Vyvanse-treated patients discontinued due to adverse reactions compared to 1% (1/72) who received placebo.
+In the controlled pediatric (aged 6 to 12) trial, 9% (20/218) of Vyvanse-treated patients discontinued due to adverse reactions compared to 1% (1/72) who received placebo.
 The most frequent adverse events leading to discontinuation and considered to be drug-related (i.e. leading to discontinuation in at least 1% of Vyvanse-treated patients and at a rate at least twice that of placebo) were ECG voltage criteria for ventricular hypertrophy, tic, vomiting, psychomotor hyperactivity, insomnia, and rash (2/218 each; 1%).
+
+In the controlled adolescent (aged 13 to 17) trial, 4% (10/233) of Vyvanse-treated patients discontinued due to adverse events compared to 1% (1/77) who received placebo.
+The most frequent adverse reactions leading to discontinuation and considered to be drug-related were irritability (3/233; 1%), decreased appetite (2/233; 1%), and insomnia (2/233; 1%).
 
 In the controlled adult trial, 6% (21/358) of Vyvanse-treated patients discontinued due to adverse events compared to 2% (1/62) who received placebo.
 The most frequent adverse events leading to discontinuation and considered to be drug-related (i.e. leading to discontinuation in at least 1% of Vyvanse-treated patients and at a rate at least twice that of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
 
 Adverse Reactions Occurring at an Incidence of 2% or More Among Vyvanse Treated Patients in Clinical Trials
 
-Adverse reactions reported in the controlled trials in pediatric and adult patients treated with Vyvanse or placebo are presented in Tables 1 and 2 below.
+Adverse reactions reported in the controlled trials in pediatric (aged 6 to 17 years) and adult patients treated with Vyvanse or placebo are presented in Tables 1, 2, and 3 below.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse reactions in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatment uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse reaction incidence rate in the population studied.
 
 Pediatric
 
-Table 1 Adverse Reactions Reported by 2% or More of Pediatric Patients Taking Vyvanse in a 4-Week Clinical Trial
+Table 1 Adverse Reactions Reported by 2% or More of Children (Aged 6 to 12 Years) Taking Vyvanse in a 4-Week Clinical Trial
 
 | Body System | Preferred Term | Vyvanse (n=218) | Placebo (n=72) |
 | --- | --- | --- | --- |
@@ -43,18 +46,29 @@ Table 1 Adverse Reactions Reported by 2% or More of Pediatric Patients Taking Vy
 | Metabolism and Nutrition | Decreased Appetite | 39% | 4% |
 | Nervous System Disorders | Dizziness | 5% | 0% |
 | Somnolence | 2% | 1% |  |
-| Psychiatric Disorders | Insomnia | 19% | 3% |
+| Psychiatric Disorders | Insomniaa | 23% | 3% |
 | Irritability | 10% | 0% |  |
-| Initial Insomnia | 4% | 0% |  |
 | Affect lability | 3% | 0% |  |
 | Tic | 2% | 0% |  |
 | Skin and Subcutaneous Tissue Disorders | Rash | 3% | 0% |
 
+a Insomnia includes the following preferred terms reported in the study: Initial Insomnia, Insomnia.
+
 Note: This table includes those reactions for which the incidence in patients taking Vyvanse is at least twice the incidence in patients taking placebo.
+
+Table 2 Adverse Reactions Reported by 2% or More of Adolescent (Aged 13 to 17 Years) Patients Taking Vyvanse in a 4-Week Clinical Trial
+
+| Body System | Preferred Term | Vyvanse (n=233) | Placebo (n=77) |
+| --- | --- | --- | --- |
+| Gastrointestinal Disorders | Dry Mouth | 4% | 1% |
+| Investigations | Weight Decreased | 9% | 0% |
+| Metabolism and Nutrition | Decreased Appetite | 34% | 3% |
+| Psychiatric Disorders | Insomniab | 13% | 4% |
+| b Insomnia includes the following preferred terms reported in the study: Initial Insomnia, Insomnia. Note: This table includes those reactions for which the incidence in patients taking Vyvanse is at least twice the incidence in patients taking placebo. |  |  |  |
 
 Adult
 
-Table 2 Adverse Reactions Reported by 2% or More of Adult Patients Taking Vyvanse in a 4-Week Clinical Trial
+Table 3 Adverse Reactions Reported by 2% or More of Adult Patients Taking Vyvanse in a 4-Week Clinical Trial
 
 | Body System | Preferred Term | Vyvanse (n=358) | Placebo (n=62) |
 | --- | --- | --- | --- |
@@ -67,12 +81,14 @@ Table 2 Adverse Reactions Reported by 2% or More of Adult Patients Taking Vyvans
 | Metabolism and Nutrition Disorders | Decreased Appetite | 27% | 3% |
 | Anorexia | 5% | 0% |  |
 | Nervous System Disorders | Tremor | 2% | 0% |
-| Psychiatric Disorders | Insomnia | 27% | 8% |
+| Psychiatric Disorders | Insomniac | 27% | 8% |
 | Anxiety | 6% | 0% |  |
 | Agitation | 3% | 0% |  |
 | Restlessness | 3% | 0% |  |
 | Respiratory, Thoracic, and Mediastinal Disorders | Dyspnea | 2% | 0% |
 | Skin and Subcutaneous Tissue Disorders | Hyperhidrosis | 3% | 0% |
+
+c Insomnia includes the following preferred terms reported in the study: Initial Insomnia, Insomnia, Middle Insomnia.
 
 Note: This table includes those events for which the incidence in patients taking Vyvanse is at least twice the incidence in patients taking placebo.
 

@@ -3,11 +3,10 @@
 Dosage should be individualized according to the therapeutic needs and response of the patient.
 Vyvanse should be administered at the lowest effective dosage.
 
-In children 6 to 12 years of age or adults who are either starting treatment for the first time or switching from another medication, 30 mg once daily in the morning is the recommended dose.
+In patients who are either starting treatment for the first time or switching from another medication, 30 mg once daily in the morning is the recommended dose.
 If the decision is made in the judgment of the clinician to increase the dose beyond 30 mg/day, daily dosage may be adjusted in increments of 10 mg or 20 mg at approximately weekly intervals.
 The maximum recommended dose is 70 mg/day; doses greater than 70 mg/day of Vyvanse have not been studied.
-Amphetamines are not recommended for children under 3 years of age.
-Vyvanse has not been studied in children under 6 years of age or over 12 years of age.
+Vyvanse has not been studied in children under 6 years of age.
 
 Vyvanse should be taken in the morning.
 Afternoon doses should be avoided because of the potential for insomnia.

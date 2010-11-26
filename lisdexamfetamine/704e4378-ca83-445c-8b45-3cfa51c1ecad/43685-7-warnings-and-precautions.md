@@ -65,12 +65,15 @@ Therefore, clinical evaluation for tics and Tourette's syndrome should precede u
 
 ## 5.6 Long-Term Suppression of Growth
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 lbs. and -2.8 lbs., respectively, for patients receiving 10 mg and 20 mg of amphetamine.
-Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
 In a controlled trial of Vyvanse in children ages 6 to 12 years, mean weight loss from baseline after 4 weeks of therapy was -0.9, -1.9, and -2.5 lbs., respectively, for patients receiving 30 mg, 50 mg, and 70 mg of Vyvanse, compared to a 1 lb weight gain for patients receiving placebo.
 Higher doses were associated with greater weight loss with 4 weeks of treatment.
 Careful follow-up for weight in children ages 6 to 12 years who received Vyvanse over 12 months suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a slowing in growth rate, measured by body weight as demonstrated by an age- and sex-normalized mean change from baseline in percentile, of -13.4 over 1 year (average percentiles at baseline and 12 months were 60.6 and 47.2, respectively).
+In a 4-week controlled trial of Vyvanse in adolescents ages 13 to 17 years, mean weight loss from baseline to endpoint was -2.7, -4.3 and -4.8 lbs., respectively, for patients receiving 30 mg, 50 mg, and 70 mg of Vyvanse, compared to a 2.0 lb weight gain for patients receiving placebo.
+
+Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 lbs. and -2.8 lbs., respectively, for patients receiving 10 mg and 20 mg of amphetamine.
+Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
+
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted.
 
 ## 5.7 Prescribing and Dispensing

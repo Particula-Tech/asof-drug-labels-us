@@ -1,6 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agents that Lower Blood Levels of Amphetamines
+## 7.1 Agents Whose Blood Levels May be Impacted by Vyvanse
+
+Extended release guanfacine: In a drug interaction study (N=40), administration of an extended release guanfacine (4 mg) in combination with Vyvanse (50 mg) increased guanfacine maximum plasma concentration by 19%, whereas, exposure (area under the curve; AUC) was increased by 7%.
+These small changes are not expected to be clinically meaningful.
+In this study, no effect on d-amphetamine exposure was observed following co-administration of extended release guanfacine and Vyvanse.
+
+## 7.2 Agents that Lower Blood Levels of Amphetamines
 
 Urinary Acidifying Agents
 
@@ -10,7 +16,7 @@ Methenamine Therapy
 
 Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
 
-## 7.2 Agents that Increase Blood Levels of Amphetamines
+## 7.3 Agents that Increase Blood Levels of Amphetamines
 
 Urinary Alkalinizing Agents
 
@@ -22,7 +28,7 @@ MAOI antidepressants, as well as a metabolite of furazolidone, slow amphetamine 
 This slowing potentiates amphetamines, increasing their effect on the release of norepinephrine and other monoamines from adrenergic nerve endings; this can cause headaches and other signs of hypertensive crisis.
 A variety of toxic neurological effects and malignant hyperpyrexia can occur, sometimes with fatal results.
 
-## 7.3 Agents Whose Effects May be Reduced by Amphetamines
+## 7.4 Agents Whose Effects May be Reduced by Amphetamines
 
 Adrenergic Blockers
 
@@ -44,7 +50,7 @@ Ethosuximide
 
 Amphetamines may delay intestinal absorption of ethosuximide.
 
-## 7.4 Agents Whose Effects May be Potentiated by Amphetamines
+## 7.5 Agents Whose Effects May be Potentiated by Amphetamines
 
 Antidepressants, Tricyclic
 
@@ -62,7 +68,7 @@ Phenytoin
 
 Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
 
-## 7.5 Agents that May Reduce the Effects of Amphetamines
+## 7.6 Agents that May Reduce the Effects of Amphetamines
 
 Chlorpromazine
 
@@ -76,7 +82,7 @@ Lithium Carbonate
 
 The anorectic and stimulatory effects of amphetamines may be inhibited by lithium carbonate.
 
-## 7.6 Agents that May Potentiate the Effects of Amphetamines
+## 7.7 Agents that May Potentiate the Effects of Amphetamines
 
 Norepinephrine
 
@@ -86,7 +92,7 @@ Propoxyphene Overdosage
 
 In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
 
-## 7.7 Drug/Laboratory Test Interactions
+## 7.8 Drug/Laboratory Test Interactions
 
 Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.

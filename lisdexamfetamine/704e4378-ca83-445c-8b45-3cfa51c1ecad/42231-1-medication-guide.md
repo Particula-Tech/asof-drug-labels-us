@@ -32,7 +32,6 @@ Vyvanse should not be taken if you or your child:
 - is sensitive to, allergic to, or had a reaction to other stimulant medicines
 
 Vyvanse has not been studied in children less than 6 years old.
-Vyvanse is not recommended for use in children less than 3 years old.
 
 Vyvanse may not be right for you or your child.
 Before starting Vyvanse tell your or your child's doctor about all health conditions (or a family history of) including:
@@ -143,4 +142,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 08/2010
+Last Modified: 11/2010
