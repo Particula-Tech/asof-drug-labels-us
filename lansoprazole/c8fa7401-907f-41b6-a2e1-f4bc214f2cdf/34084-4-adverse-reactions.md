@@ -3,7 +3,6 @@
 ## 6.1 Clinical
 
 Worldwide, over 10,000 patients have been treated with lansoprazole in Phase 2 or Phase 3 clinical trials involving various dosages and durations of treatment.
-The adverse reaction profiles for lansoprazole delayed-release capsules and lansoprazole for delayed-release oral suspension are similar.
 In general, lansoprazole treatment has been well tolerated in both short-term and long-term trials.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -73,13 +72,35 @@ Digestive System: hepatotoxicity, pancreatitis, vomiting;
 
 Hemic and Lymphatic System: agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura;
 
-Musculoskeletal System: myositis;
+Musculoskeletal System: bone fracture, myositis;
 
 Skin and Appendages: severe dermatologic reactions including erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis (some fatal);
 
 Special Senses: speech disorder;
 
 Urogenital System: interstitial nephritis, urinary retention
+
+## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
+
+In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no adverse reactions peculiar to these drug combinations were observed.
+Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole, amoxicillin or clarithromycin.
+
+### Triple Therapy
+
+#### Lansoprazole/amoxicillin/clarithromycin
+
+The most frequently reported adverse reactions for patients who received triple therapy for 14 days were diarrhea (7%), headache (6%) and taste perversion (5%).
+There were no statistically significant differences in the frequency of reported adverse reactions between the 10- and 14-day triple therapy regimens.
+No treatment-emergent adverse reactions were observed at significantly higher rates with triple therapy than with any dual therapy regimen.
+
+### Dual Therapy
+
+#### Lansoprazole/amoxicillin
+
+The most frequently reported adverse reactions for patients who received lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy were diarrhea (8%) and headache (7%).
+No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy than with lansoprazole alone.
+
+For information on adverse reactions with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections.
 
 ## 6.4 Laboratory Values
 
@@ -91,3 +112,7 @@ Additional isolated laboratory abnormalities were reported.
 
 In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2,677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than 3 times the upper limit of normal range at the final treatment visit.
 None of these patients who received lansoprazole reported jaundice at any time during the study.
+
+In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
+
+For information on laboratory value changes with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections.

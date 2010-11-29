@@ -20,9 +20,11 @@ NDC 0378-8030-77 bottles of 90 capsules
 
 NDC 0378-8030-05 bottles of 500 capsules
 
-Store at 20°C to 25°C (68°F to 77°F).
-[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+PHARMACIST: Dispense the Patient Information Leaflet with each prescription.

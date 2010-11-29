@@ -22,7 +22,7 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 The safety and effectiveness of lansoprazole have been established in pediatric patients 1 to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
 
-### One to 11 years of age
+### One to 11 Years of Age
 
 In an uncontrolled, open-label, U.S. multicenter study, 66 pediatric patients (1 to 11 years of age) with GERD were assigned, based on body weight, to receive an initial dose of either lansoprazole 15 mg daily if < 30 kg or lansoprazole 30 mg daily if greater than 30 kg administered for 8 to 12 weeks.
 The lansoprazole dose was increased (up to 30 mg twice daily) in 24 of 66 pediatric patients after 2 or more weeks of treatment if they remained symptomatic.
@@ -33,14 +33,14 @@ After 8 to 12 weeks of lansoprazole treatment, the intent-to-treat analysis demo
 Twenty-one of 27 erosive esophagitis patients were healed at 8 weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 2).
 
 Table 2.
-GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 to 11
+GERD Symptom Improvement and Erosive Esophagitis Healing Ratesin Pediatric Patients Age 1 to 11
 
 | GERD | Final VisitAt Week 8 or Week 12 % (n/N) |
 | --- | --- |
 | Symptomatic GERD |  |
 | Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. | 76% (47/62No data were available for four pediatric patients.) |
 | Erosive Esophagitis |  |
-| Improvement in Overall GERD Symptoms† | 81% (22/27) |
+| Improvement in Overall GERD Symptoms | 81% (22/27) |
 | Healing Rate | 100% (27/27) |
 
 In a study of 66 pediatric patients in the age group 1 year to 11 years old after treatment with lansoprazole given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
@@ -51,7 +51,7 @@ Of the 66 patients with GERD 85% (56/66) took lansoprazole for 8 weeks and 15% (
 
 The most frequently reported (two or more patients) treatment-related adverse reactions in patients 1 to 11 years of age (N = 66) were constipation (5%) and headache (3%).
 
-### Twelve to 17 years of age
+### Twelve to 17 Years of Age
 
 In an uncontrolled, open-label, U.S. multicenter study, 87 adolescent patients (12 to 17 years of age) with symptomatic GERD were treated with lansoprazole for 8 to 12 weeks.
 Baseline upper endoscopies classified these patients into two groups: 64 (74%) nonerosive GERD and 23 (26%) erosive esophagitis (EE).
@@ -63,17 +63,17 @@ Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed aft
 One patient remained unhealed after 12 weeks of treatment (Table 3).
 
 Table 3.
-GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17
+GERD Symptom Improvement and Erosive Esophagitis Healing Ratesin Pediatric Patients Age 12 to 17
 
 | GERD | Final Visit % (n/N) |
 | --- | --- |
 | Symptomatic GERD (All Patients) |  |
 | Improvement in Overall GERD SymptomsSymptoms assessed by patient diary (parents/caregivers as necessary). | 73.2% (60/82)No data available for five patients. |
 | Nonerosive GERD |  |
-| Improvement in Overall GERD Symptoms* | 71.2% (42/59)† |
+| Improvement in Overall GERD Symptoms | 71.2% (42/59) |
 | Erosive Esophagitis |  |
-| Improvement in Overall GERD Symptoms* | 78.3% (18/23) |
-| Healing RateData from one healed patient was excluded from this analysis due to timing of final endoscopy. | 95.5% (21/22)‡ |
+| Improvement in Overall GERD Symptoms | 78.3% (18/23) |
+| Healing RateData from one healed patient was excluded from this analysis due to timing of final endoscopy. | 95.5% (21/22) |
 
 In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th to 75th percentile) of 44 to 88 pg/mL] at the final visit.
 (Normal serum gastrin levels are 25 to 111 pg/mL).

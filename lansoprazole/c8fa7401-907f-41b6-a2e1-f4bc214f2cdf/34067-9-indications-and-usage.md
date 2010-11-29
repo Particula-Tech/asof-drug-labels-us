@@ -5,6 +5,26 @@
 Lansoprazole delayed-release capsules are indicated for short-term treatment (for 4 weeks) for healing and symptom relief of active duodenal ulcer.
 [See Clinical Studies (14).]
 
+## 1.2 H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
+
+### Triple Therapy
+
+#### Lansoprazole/amoxicillin/clarithromycin
+
+Lansoprazole delayed-release capsules in combination with amoxicillin plus clarithromycin as triple therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one year history of a duodenal ulcer) to eradicate H. pylori.
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
+
+Please refer to the full prescribing information for amoxicillin and clarithromycin.
+
+### Dual Therapy
+
+#### Lansoprazole/amoxicillin
+
+Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin package insert, MICROBIOLOGY section).
+Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14)].
+
+Please refer to the full prescribing information for amoxicillin.
+
 ## 1.3 Maintenance of Healed Duodenal Ulcers
 
 Lansoprazole delayed-release capsules are indicated to maintain healing of duodenal ulcers.
@@ -48,7 +68,7 @@ Lansoprazole delayed-release capsules are indicated to maintain healing of erosi
 Controlled studies did not extend beyond 12 months.
 [See Clinical Studies (14).]
 
-## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
+## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (ZES)
 
 Lansoprazole delayed-release capsules are indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
 [See Clinical Studies (14).]

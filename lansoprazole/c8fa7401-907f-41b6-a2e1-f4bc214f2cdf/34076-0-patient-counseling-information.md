@@ -2,7 +2,7 @@
 
 Patient should be informed of the following:
 
-## 17.1 Information for Patients
+Information for Patients
 
 Lansoprazole is available as a capsule in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration is presented below.
@@ -11,9 +11,9 @@ Directions for use specific to the route and available methods of administration
 - Lansoprazole should be taken before eating.
 - Lansoprazole products SHOULD NOT BE CRUSHED OR CHEWED.
 
-### Administration Options
+Administration Options
 
-#### Lansoprazole Delayed-release Capsules
+Lansoprazole Delayed-release Capsules-Oral Administration
 
 - Lansoprazole delayed-release capsules should be swallowed whole.
 - Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
@@ -27,12 +27,13 @@ Directions for use specific to the route and available methods of administration
   - Swallow immediately.
   - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
+Lansoprazole Delayed-release Capsules -Nasogastric Tube (≥ 16 French) Administration
+
+- For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
+  - Open capsule.
+  - Mix intact pellets into 40 mL of apple juice.
+    DO NOT USE OTHER LIQUIDS.
+  - Inject through the nasogastric tube into the stomach.
+  - Flush with additional apple juice to clear the tube.
+
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
-
-All trademark names are the property of their respective owners.
-
-Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, India Code No. MH/DRUGS/25/NKD/89
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-REVISED DECEMBER 2009 MX:LANS:R3
