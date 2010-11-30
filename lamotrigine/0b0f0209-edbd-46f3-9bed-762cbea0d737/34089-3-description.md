@@ -1,9 +1,9 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Lamotrigine, an antiepileptic drug (AED) of the phenyltriazine class, is chemically unrelated to existing antiepileptic drugs.
 Its chemical name is 3,5-diamino-6-(2,3-dichlorophenyl)-as-triazine, its molecular formula is C9H7N5Cl2, and its molecular weight is 256.09.
 Lamotrigine is off-white to white crystalline powder.
-Lamotrigine is soluble in dimethyl sulphoxide.
+Lamotrigine is very slightly soluble in water and slightly soluble in 0.1M HCl.
 The structural formula is:
 
 Each lamotrigine tablet intended for oral administration contains 25 mg (white), 100 mg (white), 150 mg (white), and 200 mg (white) tablets.
