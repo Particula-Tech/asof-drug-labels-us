@@ -111,7 +111,11 @@ How should I take OxyContin?
 - Take OxyContin exactly as prescribed.
   Do not change your dose unless your healthcare provider tells you to.
 - Swallow OxyContin tablets whole.
-  Do not cut, break, chew, crush, or dissolve before swallowing.
+  Do not cut, break, chew, crush, or dissolve the tablets.
+- In order to reduce the possibility of choking on the tablets or having difficulty swallowing the tablets:.
+  - OxyContin tablets should be taken one tablet at a time.
+  - Do not pre-soak, lick or otherwise wet the tablet prior to placing in your mouth.
+  - Take each tablet with enough water to ensure complete swallowing immediately after placing in your mouth.
 - Take OxyContin every 12 hours.
 - You can take OxyContin with or without food.
 - If you miss a dose, take it as soon as possible.
@@ -244,6 +248,4 @@ Stamford, CT 06901-3431
 
 U.S. Patent Numbers 5,508,042; 6,488,963; 7,129,248; 7,674,799; 7,674,800 and 7,683,072
 
-301734-0C
-
-May 10, 2010
+301734-0D

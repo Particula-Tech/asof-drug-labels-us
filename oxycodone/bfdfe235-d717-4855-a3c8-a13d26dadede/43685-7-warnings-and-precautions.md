@@ -72,8 +72,7 @@ The expected clinical results with CYP3A4 inhibitors would be an increase in oxy
 The expected clinical results with CYP3A4 inducers would be a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
 
 If co-administration is necessary, caution is advised when initiating OxyContin treatment in patients currently taking, or discontinuing, CYP3A4 inhibitors or inducers.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved.
-[see Drug Interactions (7.2) and Clinical Pharmacology (12)]
+Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Drug Interactions (7.2) and Clinical Pharmacology (12)].
 
 ## 5.9 Interactions with Mixed Agonist/Antagonist Opioid Analgesics
 

@@ -9,6 +9,9 @@ Provide the following information to patients receiving OxyContin or their careg
 - Advise patients that OxyContin contains oxycodone, which is a morphine-like substance.
 - Advise patients that OxyContin is designed to work properly only if swallowed whole.
   Taking cut, broken, chewed, crushed, or dissolved OxyContin Tablets can result in a fatal overdose.
+- Advise patients that OxyContin tablets should be taken one tablet at a time.
+- Advise patients not to pre-soak, lick or otherwise wet the tablet prior to placing in the mouth.
+- Advise patients to take each tablet with enough water to ensure complete swallowing immediately after placing in the mouth.
 - Advise patients to report adverse experiences, and episodes of increased or incident pain occurring during therapy.
   Individualization of dosage is essential to make optimal use of this medication.
 - Advise patients not to adjust the dose of OxyContin without consulting the prescribing professional.
@@ -33,6 +36,4 @@ Stamford, CT 06901-3431
 
 U.S. Patent Numbers 5,508,042; 6,488,963; 7,129,248; 7,674,799; 7,674,800 and 7,683,072
 
-301734-0C
-
-May 10, 2010
+301734-0D

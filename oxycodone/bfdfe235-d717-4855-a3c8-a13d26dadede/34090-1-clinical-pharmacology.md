@@ -127,7 +127,7 @@ Therefore, the formation of these and related metabolites can, in theory, be aff
 
 Noroxycodone exhibits very weak anti-nociceptive potency compared to oxycodone, however, it undergoes further oxidation to produce noroxymorphone, which is active at opioid receptors.
 Although noroxymorphone is an active metabolite and present at relatively high concentrations in circulation, it does not appear to cross the blood-brain barrier to a significant extent.
-Oxymorphone, is present in the plasma only at low concentrations and undergoes further metabolism to form its glucuronide and noroxymorphone.
+Oxymorphone is present in the plasma only at low concentrations and undergoes further metabolism to form its glucuronide and noroxymorphone.
 Oxymorphone has been shown to be active and possessing analgesic activity but its contribution to analgesia following oxycodone administration is thought to be clinically insignificant.
 Other metabolites (α- and ß-oxycodol, noroxycodol and oxymorphol) may be present at very low concentrations and demonstrate limited penetration in to the brain as compared to oxycodone.
 The enzymes responsible for keto-reduction and glucuronidation pathways in oxycodone metabolism have not been established.

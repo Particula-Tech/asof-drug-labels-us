@@ -89,3 +89,5 @@ Skin and subcutaneous tissue disorders: dry skin, exfoliative dermatitis
 
 The following adverse reactions have been identified during post-approval use of controlled-release oxycodone.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: abuse, addiction, overdose, death, amenorrhea, symptoms associated with an anaphylactic or anaphylactoid reaction, cholestasis, dental caries, increased hepatic enzymes, muscular hypertonia, hyponatremia, ileus, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria
+
+In addition to the events listed above, the following have also been reported, potentially due to the swelling and hydrogelling property of the tablet: choking, gagging, regurgitation, tablets stuck in the throat and difficulty swallowing the tablet.

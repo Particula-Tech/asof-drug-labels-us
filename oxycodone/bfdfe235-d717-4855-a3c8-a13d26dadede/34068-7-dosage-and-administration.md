@@ -5,6 +5,9 @@
 OxyContin tablets must be swallowed whole and must not be cut, broken, chewed, crushed or dissolved.
 Taking cut, broken, chewed, crushed or dissolved OxyContin tablets leads to rapid release and absorption of a potentially fatal dose of oxycodone.
 
+OxyContin tablets should be taken one tablet at a time.
+Take each tablet with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17.1)].
+
 Selection of patients for treatment with OxyContin should be governed by the same principles that apply to the use of similar opioid analgesics.
 Physicians should individualize treatment using a progressive plan of pain management such as outlined by the World Health Organization, Federation of State Medical Boards Model Policy, and the American Pain Society.
 Healthcare professionals should follow appropriate pain management principles of careful assessment and ongoing monitoring.
