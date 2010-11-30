@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022128"
+  ],
+  "inn": "maraviroc",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-215-18",
+    "49702-216-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "SELZENTRY"
+    }
+  ],
+  "setid": "9fff9b6b-aff5-464a-a9a8-32d95cbd6955",
+  "source": "dailymed"
+}
