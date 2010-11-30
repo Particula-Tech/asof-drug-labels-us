@@ -97,7 +97,7 @@ Intrinsic clearance is independent of tamsulosin hydrochloride binding to AAG, b
 
 #### Renal Impairment
 
-The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤ CLcr <70 mL/min/1.73 m2) or moderate-severe (10≤ CLcr <30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr <90 mL/min/1.73 m2).
+The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30≤ CLcr <70 mL/min/1.73 m2) or moderate-severe (10≤ CLcr <30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr >90 mL/min/1.73 m2).
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride, as well as the intrinsic clearance, remained relatively constant.
 Therefore, patients with renal impairment do not require an adjustment in FLOMAX capsules dosing.
 However, patients with end-stage renal disease (CLcr <10 mL/min/1.73 m2) have not been studied [see Use in Specific Populations (8.6)].

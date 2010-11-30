@@ -119,16 +119,14 @@ What are the ingredients in FLOMAX capsules?
 - Active Ingredient: tamsulosin hydrochloride
 - Inactive Ingredients: methacrylic acid copolymer dispersion, NF; microcrystalline cellulose, NF; triacetin, USP; calcium stearate, NF; talc, USP; FD&C blue No. 2; titanium dioxide; ferric oxide; gelatin, and trace amounts of black edible ink.
 
-Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Astellas Pharma US, Inc. Deerfield, IL 60015 USA
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Manufactured by: Astellas Pharma Inc. Tokyo 103-8411 JAPAN or Astellas Pharma Technologies, Inc. Norman, OK 73072 USA
-
-Licensed from:
-
-Astellas Pharma Inc. Tokyo 103-8411, JAPAN
-
-Flomax is a registered trademark of Astellas Pharma Inc.
+Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
 ©Copyright 2010, ALL RIGHTS RESERVED
 
-IT8004NA0410 PRT68 Rev: December 2009 Printed in USA
+IT8004RG1610 PRT71
+
+Printed in USA
+
+Rev: July 2010
