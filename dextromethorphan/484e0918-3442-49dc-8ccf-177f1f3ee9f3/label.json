@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021879"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Avanir Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64597-301-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "dextromethorphan hydrobromide and quinidine sulfate",
+      "name": "NUEDEXTA"
+    }
+  ],
+  "setid": "484e0918-3442-49dc-8ccf-177f1f3ee9f3",
+  "source": "dailymed"
+}
