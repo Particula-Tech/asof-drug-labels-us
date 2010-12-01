@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022560"
+  ],
+  "inn": "risedronate",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-0979-03",
+    "0430-0979-95"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "risedronate sodium",
+      "name": "Atelvia"
+    }
+  ],
+  "setid": "c8b9ab88-1a26-46c3-80ec-4eaa45202021",
+  "source": "dailymed"
+}
