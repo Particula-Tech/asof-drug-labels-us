@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022504"
+  ],
+  "inn": "testosterone",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-1975-61",
+    "0002-1975-90"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "testosterone",
+      "name": "AXIRON"
+    }
+  ],
+  "setid": "6e9cbce2-6e73-400f-9333-421a42afa3ae",
+  "source": "dailymed"
+}
