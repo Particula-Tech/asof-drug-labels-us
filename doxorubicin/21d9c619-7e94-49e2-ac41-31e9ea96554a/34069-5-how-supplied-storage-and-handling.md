@@ -16,5 +16,5 @@ Table 19
 
 | mg in vial | fill volume | vial size | NDC #s |
 | --- | --- | --- | --- |
-| 20 mg vial | 10-mL | 10-mL | 59676-9600-1 |
-| 50 mg vial | 25-mL | 30-mL | 59676-9600-2 |
+| 20 mg vial | 10-mL | 10-mL | 59676-960-01 |
+| 50 mg vial | 25-mL | 30-mL | 59676-960-02 |
