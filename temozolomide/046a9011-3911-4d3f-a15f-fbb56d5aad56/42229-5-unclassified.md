@@ -4,7 +4,7 @@ TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Ge
 
 Copyright© 1999, 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 U.S. Patent Nos. 5,260,291 and 6,987,108.
-Rev 4/10 31850932T
+Rev 11/10 XXXXXXXXT
 
 PHARMACIST:
 
@@ -172,5 +172,5 @@ Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK& CO
 
 Copyright© 2005 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 U.S. Patent No. 5,260,291.
-Rev.
-4/10 33276915T
+33276915T Rev.
+4/10
