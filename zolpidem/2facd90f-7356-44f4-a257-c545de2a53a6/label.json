@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022196"
+  ],
+  "inn": "zolpidem",
+  "labeler": "ECR Pharmaceuticals",
+  "package_ndcs": [
+    "0095-0950-05",
+    "0095-0950-09"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "zolpidem tartrate",
+      "name": "Zolpimist"
+    }
+  ],
+  "setid": "2facd90f-7356-44f4-a257-c545de2a53a6",
+  "source": "dailymed"
+}
