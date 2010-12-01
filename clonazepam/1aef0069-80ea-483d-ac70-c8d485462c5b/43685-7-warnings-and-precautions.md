@@ -3,12 +3,12 @@
 ## Interference With Cognitive and Motor Performance:
 
 Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
-They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy (see PRECAUTIONS: Drug Interactions and Information for Patients).
+They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy (see PRECAUTIONS:Drug Interactions and Information for Patients).
 
 Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs) including clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior to patients randomized in placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43% compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -21,18 +21,21 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
-
-| Indication | PlaceboPatients withEvents Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk:Incidence of Events in Drug Patients/IncidenceIn Placebo Patients | Risk Difference:Additional Drug Patients with Events per 1000Patients |
+| Indication | PlaceboPatients withEvents Per 1000 Patients | Drug Patientswith Events Per1000 Patients | Relative Risk:Incidence ofEvents in DrugPatients/IncidenceIn Placebo Patients | Risk Difference:Additional DrugPatients withEvents per 1000Patients |
 | --- | --- | --- | --- | --- |
-| EpilepsyPsychiatric Other Total | 1.05.71.02.4 | 3.48.51.84.3 | 3.51.51.91.8 | 2.42.90.91.9 |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
 Anyone considering prescribing clonazepam or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
-Epilepsy any many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior, Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Withdrawal Symptoms: Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
 
 ## Pregnancy Risks:
 
@@ -50,7 +53,7 @@ Recent reports suggest an association between the use of anticonvulsant drugs by
 Data are more extensive with respect to diphenylhydantoin and phenobarbital, but these are also the most commonly prescribed anticonvulsants; less systematic or anecdotal reports suggest a possible similar association with the use of all known anticonvulsant drugs.
 
 In children of women treated with drugs for epilepsy, reports suggesting an elevated incidence of birth defects cannot be regarded as adequate to prove a definite cause and effect relationship.
-There are intrinsic methodologic problems in obtaining adequate data on drug teratogenicity in humans; the possibility also exists that other factors (eg, genetic factors or the epileptic condition itself) may be more important than drug therapy in leading to birth defects.
+There are intrinsic methodologic problems in obtaining adequate data on drug teratogenicity in humans; the possibility also exists that other factors (e.g., genetic factors or the epileptic condition itself) may be more important than drug therapy in leading to birth defects.
 The great majority of mothers on anticonvulsant medication deliver normal infants.
 It is important to note that anticonvulsant drugs should not be discontinued in patients in whom the drug is administered to prevent seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 In individual cases where the severity and frequency of the seizure disorder are such that the removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy; however, it cannot be said with any confidence that even mild seizures do not pose some hazards to the developing embryo or fetus.
@@ -111,6 +114,8 @@ Because of this and the possibility of respiratory depression, clonazepam should
 
 ## Information for Patients:
 
+A clonazepam Medication Guide must be given to the patient each time clonazepam is dispensed, as required by law.
+Patients should be instructed to take clonazepam only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe clonazepam:
 
 ### Dose Changes:
@@ -128,7 +133,10 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see WARNINGS).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see WARNINGS: Pregnancy Risks).
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 ### Nursing:
 
@@ -182,9 +190,13 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 Pregnancy Category D (see WARNINGS: Pregnancy Risks).
 
+To provide information regarding the effects of in utero exposure to clonazepam, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
 ## Labor and Delivery:
 
-The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS: Pregnancy Risks).
+The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS:Pregnancy Risks).
 
 ## Nursing Mothers:
 

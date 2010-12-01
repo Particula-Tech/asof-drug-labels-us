@@ -2,7 +2,7 @@
 
 ## Pharmacodynamics:
 
-The precise mechanism by which clonazepam exerts its anti-seizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.
+The precise mechanism by which clonazepam exerts its anti-seizure and anti-panic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.
 Convulsions produced in rodents by pentylenetetrazol or, to a lesser extent, electrical stimulation are antagonized, as are convulsions produced by photic stimulation in susceptible baboons.
 A taming effect in aggressive primates, muscle weakness and hypnosis are also produced.
 In humans, clonazepam is capable of suppressing the spike and wave discharge in absence seizures (petit mal) and decreasing the frequency, amplitude, duration and spread of discharge in minor motor seizures.
