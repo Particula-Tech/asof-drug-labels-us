@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022462"
+  ],
+  "inn": "baclofen",
+  "labeler": "CNS Therapeutics, Inc.",
+  "package_ndcs": [
+    "45945-151-01",
+    "45945-155-02",
+    "45945-157-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "baclofen",
+      "name": "Gablofen"
+    }
+  ],
+  "setid": "0a50560d-d053-4cb2-8160-8ee35179c0ee",
+  "source": "dailymed"
+}
