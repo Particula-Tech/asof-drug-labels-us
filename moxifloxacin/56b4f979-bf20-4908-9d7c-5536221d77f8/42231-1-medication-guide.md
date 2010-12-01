@@ -266,7 +266,11 @@ Manufactured by: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
 Avelox Tablets made in Germany Avelox I.V. made in Germany or Avelox I.V. made in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
 
-Distributed by: Schering-Plough Schering Corporation Kenilworth, NJ 07033
+Distributed by: Schering Corporation, a subsidiary of
+
+MERCK& CO., INC.
+
+Whitehouse Station, NJ 08889, USA
 
 AVELOX is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
 
