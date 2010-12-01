@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050782"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-4500-00",
+    "0299-4500-40",
+    "0299-4500-75"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "Clindagel"
+    }
+  ],
+  "setid": "a53c3ef3-d89d-4c63-b3cd-521d1de531c5",
+  "source": "dailymed"
+}
