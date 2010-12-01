@@ -75,9 +75,9 @@ In studies in rats at doses of up to 100 mg/kg/day, dicyclomine hydrochloride pr
 
 ## Pregnancy
 
-## Teratogenic Effects
+### Teratogenic Effects
 
-### Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses up to 33 times the maximum recommended human dose based on 160 mg/day (3 mg/kg) and have revealed no evidence of impaired fertility or harm to the fetus due to dicyclomine.
 Epidemiologic studies in pregnant women with products containing dicyclomine hydrochloride (at doses up to 40 mg/day) have not shown that dicyclomine increases the risk of fetal abnormalities if administered during the first trimester of pregnancy.

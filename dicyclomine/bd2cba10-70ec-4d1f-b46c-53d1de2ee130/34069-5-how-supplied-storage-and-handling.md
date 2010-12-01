@@ -14,3 +14,13 @@ Bottles of 100 Capsules NDC 0527-0586-01 Bottles of 500 Capsules NDC 0527-0586-0
 
 Store at 20° - 25°C (68° - 77°F) [See USP Controlled Room Temperature].
 Dispense in a well-closed container as defined in the USP.
+
+Rx Only
+
+Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+
+Made in the USA
+
+Revised 04/10 Revision 1
+
+10-924

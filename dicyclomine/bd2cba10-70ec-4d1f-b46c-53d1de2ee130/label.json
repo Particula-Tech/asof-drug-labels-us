@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040230",
+    "ANDA084285"
+  ],
   "inn": "dicyclomine",
   "labeler": "Lannett Company, Inc.",
   "package_ndcs": [
@@ -10,7 +13,18 @@
     "0527-1282-05",
     "0527-1282-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Dicyclomine Hydrochloride"
+    },
+    {
+      "form": "TABLET",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Dicyclomine Hydrochloride"
+    }
+  ],
   "setid": "bd2cba10-70ec-4d1f-b46c-53d1de2ee130",
   "source": "dailymed"
 }
