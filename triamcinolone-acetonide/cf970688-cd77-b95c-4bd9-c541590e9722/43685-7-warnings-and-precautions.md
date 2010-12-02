@@ -10,6 +10,7 @@ The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS: Pediatric Use).
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
+Cases of serious anaphylactic reactions and anaphylactic shock, including death, have been reported in individuals receiving triamcinolone acetonide injection, regardless of the route of administration.
 
 Because Kenalog-40 Injection (triamcinolone acetonide injectable suspension, USP) is a suspension, it should not be administered intravenously.
 
