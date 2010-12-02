@@ -1,9 +1,12 @@
-# HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-REVLIMID® (lenalidomide) 5 mg, 10 mg, 15 mg and 25 mg capsules will be supplied through the RevAssist® program.
-(See INFORMATION FOR PATIENTS)
+Care should be exercised in the handling of REVLIMID.
+REVLIMID capsules should not be opened or crushed.
+If a powder from REVLIMID contacts the skin, wash the skin immediately and thoroughly with soap and water.
+If REVLIMID contacts the mucous membranes, flush thoroughly with water.
 
-REVLIMID® (lenalidomide) is supplied as:
+Procedures for the proper handling and disposal of anticancer drugs should be considered.
+Several guidelines on the subject have been published.1-4
 
 White opaque capsules imprinted “REV” on one half and “5 mg” on the other half in black ink:
 
@@ -29,17 +32,6 @@ White opaque capsules imprinted “REV” on one half and “25 mg” on the oth
 
 25 mg bottles of 100 (NDC 59572-425-00)
 
-## Storage and Dispensing
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature].
 
 Dispense no more than a 28-day supply.
-
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
-[See USP Controlled Room Temperature].
-
-Rx only.
-
-Manufactured for Celgene Corporation
-
-86 Morris Avenue
-
-Summit, NJ 07901

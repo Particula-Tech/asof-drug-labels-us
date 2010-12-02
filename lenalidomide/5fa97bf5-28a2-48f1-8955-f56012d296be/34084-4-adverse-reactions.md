@@ -1,19 +1,208 @@
-# ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS
 
-## Myelodysplastic Syndromes
+The following adverse reactions are described in detail in other labeling sections:
 
-A total of 148 patients received at least 1 dose of 10 mg lenalidomide in the del 5q MDS clinical study.
-At least one adverse event was reported in all of the 148 patients who were treated with the 10 mg starting dose of REVLIMID® (lenalidomide).
+- Neutropenia and thrombocytopenia [see Boxed Warnings, Warnings and Precautions (5.3)]
+- Deep vein thrombosis, and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
+- Allergic Reactions [see Warnings and Precautions (5.5)]
+- Tumor lysis syndrome [see Warnings and Precautions (5.6)
+- Tumor flare reactions [see Warnings and Precautions (5.7)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+## 6.1 Clinical Trials Experience in Multiple Myeloma
+
+Data were evaluated from 703 patients in two studies who received at least one dose of REVLIMID/dexamethasone (353 patients) or placebo/dexamethasone (350 patients).
+
+In the REVLIMID/dexamethasone treatment group, 269 patients (76%) underwent at least one dose interruption with or without a dose reduction of REVLIMID compared to 199 patients (57%) in the placebo/dexamethasone treatment group.
+Of these patients who had one dose interruption with or without a dose reduction, 50% in the REVLIMID/dexamethasone treatment group underwent at least one additional dose interruption with or without a dose reduction compared to 21% in the placebo/dexamethasone treatment group.
+Most adverse events and Grade 3/4 adverse events were more frequent in patients who received the combination of REVLIMID/dexamethasone compared to placebo/dexamethasone.
+
+Tables 3, 4, and 5 summarize the adverse reactions reported for REVLIMID/dexamethasone and placebo/dexamethasone groups.
+
+Table 3: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
+
+| System Organ Class/ Preferred Term | Lenalidomide/Dex* (n=353) n (%) | Placebo/Dex * (n=350) n (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Neutropenia % | 149 (42.2) | 22 (6.3) |
+| Anemia @ | 111 (31.4) | 83 (23.7) |
+| Thrombocytopenia @ | 76 (21.5) | 37 (10.6) |
+| Leukopenia | 28 (7.9) | 4 (1.1) |
+| Lymphopenia | 19 (5.4) | 5 (1.4) |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 155 (43.9) | 146 (41.7) |
+| Pyrexia | 97 (27.5) | 82 (23.4) |
+| Peripheral edema | 93 (26.3) | 74 (21.1) |
+| Chest Pain | 29 (8.2) | 20 (5.7) |
+| Lethargy | 24 (6.8) | 8 (2.3) |
+| Gastrointestinal disorders |  |  |
+| Constipation | 143 (40.5) | 74 (21.1) |
+| Diarrhea@ | 136 (38.5) | 96 (27.4) |
+| Nausea @ | 92 (26.1) | 75 (21.4) |
+| Vomiting @ | 43 (12.2) | 33 (9.4) |
+| Abdominal Pain @ | 35 (9.9) | 22 (6.3) |
+| Dry Mouth | 25 (7.1) | 13 (3.7) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Muscle cramp | 118 (33.4) | 74 (21.1) |
+| Back pain | 91 (25.8) | 65 (18.6) |
+| Bone Pain | 48 (13.6) | 39 (11.1) |
+| Pain in Limb | 42 (11.9) | 32 (9.1) |
+| Nervous system disorders |  |  |
+| Dizziness | 82 (23.2) | 59 (16.9) |
+| Tremor | 75 (21.2) | 26 (7.4) |
+| Dysgeusia | 54 (15.3) | 34 (9.7) |
+| Hypoaesthesia | 36 (10.2) | 25 (7.1) |
+| Neuropathy a | 23 (6.5) | 13 (3.7) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Dyspnea | 83 (23.5) | 60 (17.1) |
+| Nasopharyngitis | 62 (17.6) | 31 (8.9) |
+| Pharyngitis | 48 (13.6) | 33 (9.4) |
+| Bronchitis | 40 (11.3) | 30 (8.6) |
+| Infectionsb and infestations |  |  |
+| Upper respiratory tract infection | 87 (24.6) | 55 (15.7) |
+| Pneumonia @ | 48 (13.6) | 29 (8.3) |
+| Urinary Tract Infection | 30 (8.5) | 19 (5.4) |
+| Sinusitis | 26 (7.4) | 16 (4.6) |
+| Skin and subcutaneous system disorders |  |  |
+| Rash c | 75 (21.2) | 33 (9.4) |
+| Sweating Increased | 35 (9.9) | 25 (7.1) |
+| Dry Skin | 33 (9.3) | 14 (4.0) |
+| Pruritus | 27 (7.6) | 18 (5.1) |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 55 (15.6) | 34 (9.7) |
+| Hypokalemia | 48 (13.6) | 21 (6.0) |
+| Hypocalcemia | 31 (8.8) | 10 (2.9) |
+| Appetite Decreased | 24 (6.8) | 14 (4.0) |
+| Dehydration | 23 (6.5) | 15 (4.3) |
+| Hypomagnesaemia | 24 (6.8) | 10 (2.9) |
+| Investigations |  |  |
+| Weight Decreased | 69 (19.5) | 52 (14.9) |
+| Eye disorders |  |  |
+| Blurred vision | 61 (17.3) | 40 (11.4) |
+| Vascular disorders |  |  |
+| Deep vein thrombosis % | 33 (9.3) | 15 (4.3) |
+| Hypertension | 28 (7.9) | 20 (5.7) |
+| Hypotension | 25 (7.1) | 15 (4.3) |
+
+Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone groups
+
+| System Organ Class/ Preferred Term | Lenalidomide/Dex# (n=353) n (%) | Placebo/Dex# (n=350) n (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Neutropenia % | 118 (33.4) | 12 (3.4) |
+| Thrombocytopenia @ | 43 (12.2) | 22 (6.3) |
+| Anemia @ | 35 (9.9) | 20 (5.7) |
+| Leukopenia | 14 (4.0) | 1 (0.3) |
+| Lymphopenia | 10 (2.8) | 4 (1.1) |
+| Febrile Neutropenia % | 8 (2.3) | 0 (0.0) |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 23 (6.5) | 17 (4.9) |
+| Vascular disorders |  |  |
+| Deep vein thrombosis % | 29 (8.2) | 12 (3.4) |
+| Infectionsb and infestations |  |  |
+| Pneumonia @ | 30 (8.5) | 19 (5.4) |
+| Urinary Tract Infection | 5 (1.4) | 1 (0.3) |
+| Metabolism and nutrition disorders |  |  |
+| Hypokalemia | 17 (4.8) | 5 (1.4) |
+| Hypocalcemia | 13 (3.7) | 6 (1.7) |
+| Hypophosphatemia | 9 (2.5) | 0 (0.0) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Pulmonary embolism@ | 14 (4.0) | 3 (0.9) |
+| Respiratory Distress @ | 4 (1.1) | 0 (0.0) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Muscle weakness | 20 (5.7) | 10 (2.9) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea @ | 11 (3.1) | 4 (1.1) |
+| Constipation | 7 (2.0) | 1 (0.3) |
+| Nausea @ | 6 (1.7) | 2 (0.6) |
+| Cardiac disorders |  |  |
+| Atrial fibrillation @ | 13 (3.7) | 4 (1.1) |
+| Tachycardia | 6 (1.7) | 1 (0.3) |
+| Cardiac Failure Congestive @ | 5 (1.4) | 1 (0.3) |
+| Nervous System disorders |  |  |
+| Syncope | 10 (2.8) | 3 (0.9) |
+| Dizziness | 7 (2.0) | 3 (0.9) |
+| Eye Disorders |  |  |
+| Cataract | 6 (1.7) | 1 (0.3) |
+| Cataract Unilateral | 5 (1.4) | 0 (0.0) |
+| Psychiatric Disorder |  |  |
+| Depression | 10 (2.8) | 6 (1.7) |
+
+Table 5: Serious Adverse Events Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
+
+| System Organ Class/ Preferred Term | Lenalidomide/Dex& (n=353) n (%) | Placebo/Dex& (n=350) n (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Febrile Neutropenia% | 6 (1.7) | 0 (0.0) |
+| Vascular disorders |  |  |
+| Deep vein thrombosis% | 26 (7.4) | 11 (3.1) |
+| Infectionsb and infestations |  |  |
+| Pneumonia @ | 33 (9.3) | 21 (6.0) |
+| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Pulmonary embolism@ | 13 (3.7) | 3 (0.9) |
+| Cardiac disorders |  |  |
+| Atrial fibrillation @ | 11 (3.1) | 2 (0.6) |
+| Cardiac Failure Congestive @ | 5 (1.4) | 0 (0.0) |
+| Nervous system disorders |  |  |
+| Cerebrovascular accident @ | 7 (2.0) | 3 (0.9) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea @ | 6 (1.7) | 2 (0.6) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Bone Pain | 4 (1.1) | 0 (0.0) |
+| For all tables above: n – Number of Patients * - All Treatment Emergent AEs with ≥5% of Patients in REVLIMID/ Dex and at Least 2% Difference in Proportion between the Two Arms - (Safety population) # - All Treatment Emergent Grades 3 and 4 AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) & - All Treatment Emergent Serious AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) @ - ADRs with Death as an outcome % - ADRs which were considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) a - All PTs under the MedDRA SMQ of Neuropathy of a peripheral sensory nature will be considered listed b - All PTs under SOC of Infections except for rare infections of Public Health interest will be considered listed c-All All PTs under HLT of Rash will be considered listed Dex=dexamethasone Median duration of exposure among patients treated with REVLIMID/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks. This should be taken into consideration when comparing frequency of adverse events between two treatment groups REVLIMID/dexamethasone vs. placebo/dexamethasone. |  |  |
+
+Venous Thromboembolism
+
+Deep Vein Thrombosis and Pulmonary Embolism [see Warnings and Precautions (5.3)]
+
+Deep vein thrombosis (DVT) was reported as a serious adverse drug reaction (7.4%) or Grade 3/4 (8.2%) at a higher rate in the REVLIMID/dexamethasone group compared to 3.1 % and 3.4% in the placebo/dexamethasone group, respectively.
+Discontinuations due to DVT adverse reactions were reported at comparable rates between groups.
+
+Pulmonary embolism (PE) was reported as a serious adverse drug reaction including Grade 3/4 (3.7%) at a higher rate in the REVLIMID/dexamethasone group compared to 0.9% in the placebo/dexamethasone group.
+Discontinuations due to PE adverse reactions were reported at comparable rates between groups.
+
+Other Adverse Events
+
+In these clinical studies of REVLIMID in patients with multiple myeloma, the following adverse drug reactions (ADRs) not described above that occurred at ≥1% rate and of at least twice of the placebo percentage rate were reported:
+
+Blood and lymphatic system disorders: pancytopenia, autoimmune hemolytic anemia
+
+Cardiac disorders: bradycardia, myocardial infarction, angina pectoris
+
+Endocrine disorders: hirsutism
+
+Eye disorders: blindness, ocular hypertension
+
+Gastrointestinal disorders: gastrointestinal hemorrhage, glossodynia
+
+General disorders and administration site conditions: malaise
+
+Investigations: liver function tests abnormal, alanine aminotransferase increased,
+
+Nervous system disorders: cerebral ischemia
+
+Psychiatric disorders: mood swings, hallucination loss of libido
+
+Reproductive system and breast disorders: erectile dysfunction,
+
+Respiratory, thoracic and mediastinal disorders: cough, hoarseness
+
+Skin and subcutaneous tissue disorders: exanthem, skin hyperpigmentation
+
+## 6.2 Clinical Trials Experience in Myelodysplastic Syndromes
+
+A total of 148 patients received at least 1 dose of 10 mg REVLIMID in the del 5q MDS clinical study.
+At least one adverse event was reported in all of the 148 patients who were treated with the 10 mg starting dose of REVLIMID.
 The most frequently reported adverse events were related to blood and lymphatic system disorders, skin and subcutaneous tissue disorders, gastrointestinal disorders, and general disorders and administrative site conditions.
-(SeePRECAUTIONS)
 
-Thrombocytopenia (61.5%; 91/148) and neutropenia (58.8%; 87/148) were the most frequently reported adverse events observed.
+Thrombocytopenia (61.5%; 91/148) and neutropenia (58.8%; 87/148) were the most frequently reported adverse events.
 The next most common adverse events observed were diarrhea (48.6%; 72/148), pruritus (41.9%; 62/148), rash (35.8%; 53/148) and fatigue (31.1%; 46/148).
-Table 4 summarizes the adverse events that were reported in ≥ 5% of the REVLIMID® (lenalidomide) treated patients in the del 5q MDS clinical study.
-Table 5 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with REVLIMID® (lenalidomide).
+Table 6 summarizes the adverse events that were reported in ≥ 5% of the REVLIMID treated patients in the del 5q MDS clinical study.
+Table 7 summarizes the most frequently observed Grade 3 and Grade 4 adverse reactions regardless of relationship to treatment with REVLIMID.
 In the single-arm studies conducted, it is often not possible to distinguish adverse events that are drug-related and those that reflect the patient’s underlying disease.
 
-Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalidomide) Treated Patients in del 5q MDS Clinical Study
+Table 6: Summary of Adverse Events Reported in ≥5% of the REVLIMID Treated Patients in del 5q MDS Clinical Study
 
 | System organ class/Preferred term [a] | 10 mg Overall (N=148) |  |
 | --- | --- | --- |
@@ -21,12 +210,12 @@ Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalid
 | Blood and Lymphatic System Disorders |  |  |
 | Thrombocytopenia | 91 | (61.5) |
 | Neutropenia | 87 | (58.8) |
-| Anemia NOS | 17 | (11.5) |
-| Leukopenia NOS | 12 | (8.1) |
+| Anemia | 17 | (11.5) |
+| Leukopenia | 12 | (8.1) |
 | Febrile Neutropenia | 8 | (5.4) |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Pruritus | 62 | (41.9) |
-| Rash NOS | 53 | (35.8) |
+| Rash | 53 | (35.8) |
 | Dry Skin | 21 | (14.2) |
 | Contusion | 12 | (8.1) |
 | Night Sweats | 12 | (8.1) |
@@ -34,30 +223,30 @@ Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalid
 | Ecchymosis | 8 | (5.4) |
 | Erythema | 8 | (5.4) |
 | Gastrointestinal Disorders |  |  |
-| Diarrhea NOS | 72 | (48.6) |
+| Diarrhea | 72 | (48.6) |
 | Constipation | 35 | (23.6) |
 | Nausea | 35 | (23.6) |
-| Abdominal Pain NOS | 18 | (12.2) |
-| Vomiting NOS | 15 | (10.1) |
+| Abdominal Pain | 18 | (12.2) |
+| Vomiting | 15 | (10.1) |
 | Abdominal Pain Upper | 12 | (8.1) |
 | Dry Mouth | 10 | (6.8) |
 | Loose Stools | 9 | (6.1) |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Nasopharyngitis | 34 | (23.0) |
 | Cough | 29 | (19.6) |
-| Dyspnea NOS | 25 | (16.9) |
+| Dyspnea | 25 | (16.9) |
 | Pharyngitis | 23 | (15.5) |
 | Epistaxis | 22 | (14.9) |
 | Dyspnea Exertional | 10 | (6.8) |
-| Rhinitis NOS | 10 | (6.8) |
-| Bronchitis NOS | 9 | (6.1) |
+| Rhinitis | 10 | (6.8) |
+| Bronchitis | 9 | (6.1) |
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 46 | (31.1) |
 | Pyrexia | 31 | (20.9) |
 | Edema Peripheral | 30 | (20.3) |
 | Asthenia | 22 | (14.9) |
-| Edema NOS | 15 | (10.1) |
-| Pain NOS | 10 | (6.8) |
+| Edema | 15 | (10.1) |
+| Pain | 10 | (6.8) |
 | Rigors | 9 | (6.1) |
 | Chest Pain | 8 | (5.4) |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
@@ -72,12 +261,12 @@ Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalid
 | Headache | 29 | (19.6) |
 | Hypoesthesia | 10 | (6.8) |
 | Dysgeusia | 9 | (6.1) |
-| Peripheral Neuropathy NOS | 8 | (5.4) |
+| Peripheral Neuropathy | 8 | (5.4) |
 | Infections and Infestations |  |  |
-| Upper Respiratory Tract Infection NOS | 22 | (14.9) |
-| Pneumonia NOS | 17 | (11.5) |
-| Urinary Tract Infection NOS | 16 | (10.8) |
-| Sinusitis NOS | 12 | (8.1) |
+| Upper Respiratory Tract Infection | 22 | (14.9) |
+| Pneumonia | 17 | (11.5) |
+| Urinary Tract Infection | 16 | (10.8) |
+| Sinusitis | 12 | (8.1) |
 | Cellulitis | 8 | (5.4) |
 | Metabolism and Nutrition Disorders |  |  |
 | Hypokalemia | 16 | (10.8) |
@@ -88,34 +277,33 @@ Table 4: Summary of Adverse Events Reported in ≥ 5% of the REVLIMID® (lenalid
 | Psychiatric Disorders |  |  |
 | Insomnia | 15 | (10.1) |
 | Depression | 8 | (5.4) |
-| Vascular Disorders |  |  |
-| Hypertension NOS | 9 | (6.1) |
 | Renal and Urinary Disorders |  |  |
 | Dysuria | 10 | (6.8) |
-| Cardiac Disorders |  |  |
-| Palpitations | 8 | (5.4) |
+| Vascular Disorders |  |  |
+| Hypertension | 9 | (6.1) |
 | Endocrine Disorders |  |  |
 | Acquired Hypothyroidism | 10 | (6.8) |
-| NOS, not otherwise specified |  |  |
+| Cardiac Disorders |  |  |
+| Palpitations | 8 | (5.4) |
 | [a] System organ classes and preferred terms are coded using the MedDRA dictionary. System organ classes and preferred terms are listed in descending order of frequency for the Overall column. A patient with multiple occurrences of an AE is counted only once in the AE category. |  |  |
 
-Table 5: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of Relationship to Study Drug Treatment
+Table 7: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of Relationship to Study Drug Treatment
 
 | Preferred term [2] | 10 mg (N=148) |  |
 | --- | --- | --- |
 | Patients with at least one Grade 3/4 AE | 131 | (88.5) |
 | Neutropenia | 79 | (53.4) |
 | Thrombocytopenia | 74 | (50.0) |
-| Pneumonia NOS | 11 | (7.4) |
-| Rash NOS | 10 | (6.8) |
-| Anemia NOS | 9 | (6.1) |
-| Leukopenia NOS | 8 | (5.4) |
+| Pneumonia | 11 | (7.4) |
+| Rash | 10 | (6.8) |
+| Anemia | 9 | (6.1) |
+| Leukopenia | 8 | (5.4) |
 | Fatigue | 7 | (4.7) |
 | Dyspnea | 7 | (4.7) |
 | Back Pain | 7 | (4.7) |
 | Febrile Neutropenia | 6 | (4.1) |
 | Nausea | 6 | (4.1) |
-| Diarrhea NOS | 5 | (3.4) |
+| Diarrhea | 5 | (3.4) |
 | Pyrexia | 5 | (3.4) |
 | Sepsis | 4 | (2.7) |
 | Dizziness | 4 | (2.7) |
@@ -133,208 +321,61 @@ Table 5: Most Frequently Observed Grade 3 and 4 Adverse Events [1] Regardless of
 | Epistaxis | 2 | (1.4) |
 | Hypoxia | 2 | (1.4) |
 | Pleural Effusion | 2 | (1.4) |
-| Pneumonitis NOS | 2 | (1.4) |
-| Pulmonary Hypertension NOS | 2 | (1.4) |
-| Vomiting NOS | 2 | (1.4) |
+| Pneumonitis | 2 | (1.4) |
+| Pulmonary Hypertension | 2 | (1.4) |
+| Vomiting | 2 | (1.4) |
 | Sweating Increased | 2 | (1.4) |
 | Arthralgia | 2 | (1.4) |
 | Pain in Limb | 2 | (1.4) |
 | Headache | 2 | (1.4) |
 | Syncope | 2 | (1.4) |
-| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. |  |  |
-| [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |  |
+| [1] Adverse events with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. [2] Preferred Terms are coded using the MedDRA dictionary. A patient with multiple occurrences of an AE is counted only once in the Preferred Term category. |  |  |
 
-In other clinical studies of REVLIMID® (lenalidomide) in MDS patients, the following serious adverse events (regardless of relationship to study drug treatment) not described in Table 4 or 5 were reported:
+In other clinical studies of REVLIMID in MDS patients, the following serious adverse events (regardless of relationship to study drug treatment) not described in Table 6 or 7 were reported:
 
-Blood and lymphatic system disorders: warm type hemolytic anemia, splenic infarction, bone marrow depression NOS, coagulopathy, hemolysis NOS, hemolytic anemia NOS, refractory anemia
+Blood and lymphatic system disorders: warm type hemolytic anemia, splenic infarction, bone marrow depression, coagulopathy, hemolysis, hemolytic anemia refractory anemia
 
-Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pectoris, cardiac arrest, cardiac failure NOS, cardio-respiratory arrest, cardiomyopathy NOS, myocardial infarction, myocardial ischemia, atrial fibrillation aggravated, bradycardia NOS, cardiogenic shock, pulmonary edema NOS, supraventricular arrhythmia NOS, tachyarrhythmia, ventricular dysfunction
+Cardiac disorders: cardiac failure congestive, atrial fibrillation, angina pectoris, cardiac arrest, cardiac failure, cardio-respiratory arrest, cardiomyopathy, myocardial infarction, myocardial ischemia, atrial fibrillation aggravated, bradycardia, cardiogenic shock, pulmonary edema supraventricular arrhythmia, tachyarrhythmia, ventricular dysfunction
 
 Ear and labyrinth disorders: vertigo
 
 Endocrine disorders: Basedow’s disease
 
-Gastrointestinal disorders: gastrointestinal hemorrhage NOS, colitis ischemic, intestinal perforation NOS, rectal hemorrhage, colonic polyp, diverticulitis NOS, dysphagia, gastritis NOS, gastroenteritis NOS, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis due to biliary obstruction, pancreatitis NOS, perirectal abscess, small intestinal obstruction NOS, upper gastrointestinal hemorrhage
+Gastrointestinal disorders: gastrointestinal hemorrhage, colitis ischemic, intestinal perforation, rectal hemorrhage, colonic polyp, diverticulitis, dysphagia, gastritis, gastroenteritis, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis due to biliary obstruction, pancreatitis, perirectal abscess, small intestinal obstruction, upper gastrointestinal hemorrhage
 
-General disorders and administration site conditions: disease progression NOS, fall, gait abnormal, intermittent pyrexia, nodule, rigors, sudden death
+General disorders and administration site conditions: disease progression, fall, gait abnormal, intermittent pyrexia, nodule, rigors, sudden death
 
-Hepatobiliary disorders: hyperbilirubinemia, cholecystitis acute NOS, cholecystitis NOS, hepatic failure
+Hepatobiliary disorders: hyperbilirubinemia, cholecystitis, acute cholecystitis, hepatic failure
 
-Immune system disorders: hypersensitivity NOS
+Immune system disorders: hypersensitivity
 
-Infections and infestations: infection NOS, bacteremia, central line infection, clostridial infection NOS, ear infection NOS, Enterobacter sepsis, fungal infection NOS, herpes viral infection NOS, influenza, kidney infection NOS, Klebsiella sepsis, lobar pneumonia NOS, localized infection, oral infection, Pseudomonas infection NOS, septic shock, sinusitis acute NOS, sinusitis NOS, Staphylococcal infection, urosepsis
+Infections and infestations infection bacteremia, central line infection, clostridial infection, ear infection Enterobacter sepsis, fungal infection herpes viral infection NOS, influenza, kidney infection Klebsiella sepsis, lobar pneumonia, localized infection, oral infection, Pseudomonas infection, septic shock, sinusitis acute sinusitis, Staphylococcal infection, urosepsis
 
-Injury, poisoning and procedural complications: femur fracture, transfusion reaction, cervical vertebral fracture, femoral neck fracture, fractured pelvis NOS, hip fracture, overdose NOS, post procedural hemorrhage, rib fracture, road traffic accident, spinal compression fracture
+Injury, poisoning and procedural complications: femur fracture, transfusion reaction, cervical vertebral fracture, femoral neck fracture, fractured pelvis, hip fracture, overdose, post procedural hemorrhage, rib fracture, road traffic accident, spinal compression fracture
 
-Investigations: blood creatinine increased, culture NOS negative, hemoglobin decreased, liver function tests NOS abnormal, troponin I increased
+Investigations: blood creatinine increased, hemoglobin decreased, liver function tests abnormal, troponin I increased
 
-Metabolism and nutrition disorders: dehydration, gout, hypernatremia, hypoglycemia NOS
+Metabolism and nutrition disorders: dehydration, gout, hypernatremia, hypoglycemia
 
-Musculoskeletal and connective tissue disorders: arthritis NOS, arthritis NOS aggravated, gouty arthritis, neck pain, chondrocalcinosis pyrophosphate
+Musculoskeletal and connective tissue disorders: arthritis, arthritis aggravated, gouty arthritis, neck pain, chondrocalcinosis pyrophosphate
 
-Neoplasms benign, malignant and unspecified: acute leukemia NOS, acute myeloid leukemia NOS, bronchoalveolar carcinoma, lung cancer metastatic, lymphoma NOS, prostate cancer metastatic
+Neoplasms benign, malignant and unspecified: acute leukemia, acute myeloid leukemia, bronchoalveolar carcinoma, lung cancer metastatic, lymphoma, prostate cancer metastatic
 
-Nervous system disorders: cerebrovascular accident, aphasia, cerebellar infarction, cerebral infarction, depressed level of consciousness, dysarthria, migraine NOS, spinal cord compression NOS, subarachnoid hemorrhage NOS, transient ischemic attack
+Nervous system disorders: cerebrovascular accident, aphasia, cerebellar infarction, cerebral infarction, depressed level of consciousness, dysarthria, migraine, spinal cord compression, subarachnoid hemorrhage, transient ischemic attack
 
 Psychiatric disorders: confusional state
 
-Renal and urinary disorders: renal failure NOS, hematuria, renal failure acute, azotemia, calculus ureteric, renal mass NOS
+Renal and urinary disorders: renal failure, hematuria, renal failure acute, azotemia, calculus ureteric, renal mass
 
-Reproductive system and breast disorders: pelvic pain NOS
+Reproductive system and breast disorders: pelvic pain
 
-Respiratory, thoracic and mediastinal disorders: bronchitis NOS, chronic obstructive airways disease exacerbated, respiratory failure, dyspnea exacerbated, interstitial lung disease, lung infiltration NOS, wheezing
+Respiratory, thoracic and mediastinal disorders: bronchitis, chronic obstructive airways disease exacerbated, respiratory failure, dyspnea exacerbated, interstitial lung disease, lung infiltration, wheezing
 
 Skin and subcutaneous tissue disorders: acute febrile neutrophilic dermatosis
 
-Vascular system disorders: deep vein thrombosis, hypotension NOS, aortic disorder, ischemia NOS, thrombophlebitis superficial, thrombosis
+Vascular system disorders: deep vein thrombosis, hypotension, aortic disorder, ischemia, thrombophlebitis superficial, thrombosis
 
-## Multiple Myeloma
+## 6.3 Postmarketing Experience
 
-Data were evaluated from 691 patients in two studies who received at least one dose of REVLIMID® (lenalidomide)/dexamethasone (346 patients) or placebo/dexamethasone (345 patients).
-
-In the REVLIMID® (lenalidomide)/dexamethasone treatment group, 151 patients (45%) underwent at least one dose interruption with or without a dose reduction of REVLIMID® (lenalidomide) compared to 21% in the placebo/dexamethasone treatment group.
-Of these patients who had one dose interruption with or without a dose reduction, 50% in the REVLIMID® (lenalidomide)/dexamethasone treatment group underwent at least one additional dose interruption with or without a dose reduction compared to 21% in the placebo/dexamethasone treatment group.
-Most adverse events and Grade 3/4 adverse events were more frequent in patients who received the combination of REVLIMID® (lenalidomide)/dexamethasone compared to placebo/dexamethasone.
-
-Table 6 summarizes the number and percentage of patients with Grade 1-4 adverse events reported in ≥10% of patients in either treatment group in Studies 1 and 2.
-
-Table 6: Number of Patients with Adverse Events Reported in at Least 10% of Patients in Either Treatment Group in Studies 1 and 2 (Safety Population)
-
-|  | Revlimid/Dex (N=346) |  | Placebo/Dex (N=345) |  |
-| --- | --- | --- | --- | --- |
-| System organ class/Preferred term | n | (%) | n | (%) |
-| Subjects with at least one adverse event | 346 | (100.0) | 344 | (99.7) |
-| Blood and Lymphatic System Disorders |  |  |  |  |
-| Neutropenia | 96 | (27.7) | 16 | (4.6) |
-| Anemia NOS | 84 | (24.3) | 60 | (17.4) |
-| Thrombocytopenia | 59 | (17.1) | 34 | (9.9) |
-| Eye Disorders |  |  |  |  |
-| Vision Blurred | 51 | (14.7) | 36 | (10.4) |
-| Gastrointestinal Disorders |  |  |  |  |
-| Constipation | 134 | (38.7) | 64 | (18.6) |
-| Diarrhea NOS | 101 | (29.2) | 85 | (24.6) |
-| Nausea | 76 | (22.0) | 66 | (19.1) |
-| Dyspepsia | 48 | (13.9) | 46 | (13.3) |
-| Vomiting NOS | 35 | (10.1) | 28 | (8.1) |
-| General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigue | 133 | (38.4) | 129 | (37.4) |
-| Asthenia | 81 | (23.4) | 86 | (24.9) |
-| Pyrexia | 80 | (23.1) | 67 | (19.4) |
-| Edema Peripheral | 73 | (21.1) | 65 | (18.8) |
-| Infections and Infestations |  |  |  |  |
-| Upper Respiratory Tract Infection NOS | 47 | (13.6) | 43 | (12.5) |
-| Pneumonia NOS | 39 | (11.3) | 26 | (7.5) |
-| Investigations |  |  |  |  |
-| Weight Decreased | 63 | (18.2) | 48 | (13.9) |
-| Metabolism and Nutrition Disorders |  |  |  |  |
-| Hyperglycemia NOS | 52 | (15.0) | 49 | (14.2) |
-| Anorexia | 47 | (13.6) | 30 | (8.7) |
-| Hypokalemia | 39 | (11.3) | 18 | (5.2) |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
-| Muscle Cramp | 104 | (30.1) | 71 | (20.6) |
-| Back Pain | 53 | (15.3) | 49 | (14.2) |
-| Muscle Weakness NOS | 52 | (15.0) | 53 | (15.4) |
-| Arthralgia | 36 | (10.4) | 51 | (14.8) |
-| Nervous System Disorders |  |  |  |  |
-| Headache | 74 | (21.4) | 74 | (21.4) |
-| Dizziness | 72 | (20.8) | 53 | (15.4) |
-| Tremor | 68 | (19.7) | 24 | (7.0) |
-| Dysgeusia | 46 | (13.3) | 32 | (9.3) |
-| Paresthesia | 40 | (11.6) | 43 | (12.5) |
-| Psychiatric Disorders |  |  |  |  |
-| Insomnia | 111 | (32.1) | 128 | (37.1) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
-| Dyspnea NOS | 70 | (20.2) | 53 | (15.4) |
-| Cough | 50 | (14.5) | 71 | (20.6) |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Rash NOS | 55 | (15.9) | 28 | (8.1) |
-| Vascular Disorders |  |  |  |  |
-| Deep Vein Thrombosisa | 27 | (7.8) | 11 | (3.2) |
-| Pulmonary Embolisma | 11 | (3.2) | 3 | (0.9) |
-| ª See WARNINGS |  |  |  |  |
-
-Table 7 summarizes the Grade 3/4 adverse events reported in ≥2% of patients in either treatment group in Studies 1 and 2.
-
-Table 7: Adverse Events with NCI CTC Grades 3 and 4 Reported In At Least 2% of Patients by Preferred Term and Treatment Group – (Safety Population)
-
-|  | Revlimid/Dex (N=346) |  |  |  | Placebo/Dex (N=345) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Grade 3 |  | Grade 4 |  | Grade 3 |  | Grade 4 |  |
-| System organ class/ Preferred term | n | (%) | n | (%) | n | (%) | n | (%) |
-| Patients with at least one Grade 3 or 4 AE | 225 | (65.0) | 25 | (7.2) | 186 | (53.9) | 31 | (9.0) |
-| Blood and Lymphatic System Disorders |  |  |  |  |  |  |  |  |
-| Neutropenia | 60 | (17.3) | 13 | (3.8) | 8 | (2.3) | 2 | (0.6) |
-| Thrombocytopenia | 31 | (9.0) | 4 | (1.2) | 16 | (4.6) | 3 | (0.9) |
-| Anemia NOS | 25 | (7.2) | 4 | (1.2) | 10 | (2.9) | 2 | (0.6) |
-| Leukopenia NOS | 12 | (3.5) | 0 | (0.0) | 1 | (0.3) | 0 | (0.0) |
-| Lymphopenia | 8 | (2.3) | 0 | (0.0) | 4 | (1.2) | 0 | (0.0) |
-| Cardiac Disorders |  |  |  |  |  |  |  |  |
-| Atrial Fibrillation | 9 | (2.6) | 1 | (0.3) | 2 | (0.6) | 1 | (0.3) |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
-| Diarrhea NOS | 8 | (2.3) | 0 | (0.0) | 2 | (0.6) | 0 | (0.0) |
-| Constipation | 7 | (2.0) | 0 | (0.0) | 1 | (0.3) | 0 | (0.0) |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |
-| Fatigue | 20 | (5.8) | 1 | (0.3) | 13 | (3.8) | 0 | (0.0) |
-| Asthenia | 14 | (4.0) | 0 | (0.0) | 16 | (4.6) | 0 | (0.0) |
-| Pyrexia | 4 | (1.2) | 0 | (0.0) | 8 | (2.3) | 0 | (0.0) |
-| Infections and Infestations |  |  |  |  |  |  |  |  |
-| Pneumonia NOS | 18 | (5.2) | 4 | (1.2) | 15 | (4.3) | 3 | (0.9) |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |
-| Hyperglycemia NOS | 22 | (6.4) | 4 | (1.2) | 19 | (5.5) | 7 | (2.0) |
-| Hypocalcemia | 8 | (2.3) | 5 | (1.4) | 4 | (1.2) | 1 | (0.3) |
-| Hypokalemia | 9 | (2.6) | 1 | (0.3) | 5 | (1.4) | 0 | (0.0) |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |
-| Muscle Weakness NOS | 18 | (5.2) | 0 | (0.0) | 10 | (2.9) | 0 | (0.0) |
-| Nervous System Disorders |  |  |  |  |  |  |  |  |
-| Syncope | 7 | (2.0) | 0 | (0.0) | 3 | (0.9) | 0 | (0.0) |
-| Neuropathy NOS | 7 | (2.0) | 0 | (0.0) | 2 | (0.6) | 0 | (0.0) |
-| Psychiatric Disorders |  |  |  |  |  |  |  |  |
-| Depression | 9 | (2.6) | 0 | (0.0) | 5 | (1.4) | 1 | (0.3) |
-| Confusional State | 6 | (1.7) | 0 | (0.0) | 8 | (2.3) | 0 | (0.0) |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |  |  |
-| Dyspnea NOS | 6 | (1.7) | 3 | (0.9) | 7 | (2.0) | 1 | (0.3) |
-| Vascular Disorders |  |  |  |  |  |  |  |  |
-| Deep Vein Thrombosisa | 23 | (6.6) | 1 | (0.3) | 9 | (2.6) | 1 | (0.3) |
-| Pulmonary Embolisma | 2 | (0.6) | 9 | (2.6) | 1 | (0.3) | 2 | (0.6) |
-| ª See WARNINGS |  |  |  |  |  |  |  |  |
-
-## Thrombotic Events (See WARNINGS)
-
-In the pooled analysis, thrombotic or thromboembolic events, including deep vein thrombosis, pulmonary embolism, thrombosis, and intracranial venous sinus thrombosis, were reported more frequently in patients treated with REVLIMID® (lenalidomide)/dexamethasone combination.
-The number of patients experiencing a thrombotic event in the combination arm were 43/346 (12%) compared with those in the placebo/dexamethasone arm 14/345 (4%).
-
-In these and other clinical studies of REVLIMID® (lenalidomide) in patients with multiple myeloma, the following serious adverse events (considered related to study drug treatment) not described in Table 7 were reported:
-
-Blood and lymphatic system disorders: pancytopenia, anemia NOS aggravated
-
-Cardiac disorders: cardiac failure congestive, atrial flutter, pulmonary edema
-
-Endocrine disorders: adrenal insufficiency NOS, acquired hypothyroidism
-
-Eye disorders: blindness
-
-Gastrointestinal disorders: abdominal pain NOS, colitis pseudomembranous, gastritis NOS, gastrointestinal hemorrhage NOS, peptic ulcer hemorrhage, upper gastrointestinal hemorrhage
-
-General disorders and administration site conditions: performance status decreased
-
-Hepatobiliary disorders: hepatic failure, hepatitis toxic
-
-Infections and infestations: bronchopneumonia NOS, cellulitis, Pneumocystis carinii pneumonia, sepsis NOS, bursitis infective NOS, cellulitis staphylococcal, Enterobacter bacteremia, Escherichia sepsis, gastrointestinal infection NOS, herpes zoster, herpes zoster ophthalmic, infection NOS, lung infection NOS, neutropenic sepsis, pneumonia bacterial NOS, pneumonia cytomegaloviral, pneumonia pneumococcal, pneumonia primary atypical, pneumonia staphylococcal, septic shock, streptococcal sepsis, subacute endocarditis, urinary tract infection NOS
-
-Investigations: International normalized ratio increased, weight decreased, blood creatinine increased, body temperature increased, c-reactive protein increased, hemoglobin decreased, white blood cell count decreased
-
-Metabolism and nutrition disorders: dehydration, diabetes mellitus NOS, diabetes with hyperosmolarity, diabetic ketoacidosis
-
-Musculoskeletal and connective tissue disorders: myopathy steroid, back pain, myopathy
-
-Nervous system disorders: dizziness, memory impairment, brain edema, cerebral infarction, cerebral ischemia, cerebrovascular accident, encephalitis NOS, intracranial hemorrhage NOS, intracranial venous sinus thrombosis NOS, leukoencephalopathy, somnolence, tremor
-
-Psychiatric disorders: mental status changes, delirium, delusion NOS, insomnia, psychotic disorder NOS
-
-Renal and urinary disorders: Fanconi syndrome acquired, hematuria, renal failure acute, renal failure NOS, renal tubular necrosis, urinary retention
-
-Respiratory, thoracic and mediastinal disorders: bronchopneumopathy, hypoxia
-
-Skin and subcutaneous tissue disorders: rash NOS, skin desquamation NOS
-
-Vascular system disorders: phlebitis NOS, venous thrombosis NOS limb, circulatory collapse, hypertension NOS, hypotension NOS, orthostatic hypotension, peripheral ischemia
+The following adverse drug reactions have been identified from the worldwide post-marketing experience with REVLIMID.
+Because these reactions are reported voluntarily, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Allergic reactions (angioedema, Stevens-Johnson syndrome, and toxic epidermal necrolysis), tumor lysis syndrome (TLS) and tumor flare reaction (TFR) [see Warnings and Precautions Section (5.5 to 5.7)].
