@@ -18,24 +18,20 @@ It is recommended that liver enzymes be checked before and at 12 weeks following
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2009, 2010
+© AstraZeneca 2003, 2005, 2007, 2008, 2009, 2010
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
-
-Canovanas, PR 00729
-
 ASTRAZENECA
 
 Rev.
-February 2010
+June 2010
 
 PATIENT INFORMATION
 
@@ -212,21 +208,17 @@ You can also go to the CRESTOR website at www.crestor.com or call 1-800-CRESTOR.
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2003, 2005, 2007, 2008, 2010
+© AstraZeneca 2003, 2005, 2007, 2008, 2009, 2010
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
-
-Canovanas, PR 00729
-
 ASTRAZENECA
 
 Rev.
-February 2010
+June 2010

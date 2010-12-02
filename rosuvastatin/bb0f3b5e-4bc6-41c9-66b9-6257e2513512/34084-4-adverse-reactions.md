@@ -2,8 +2,7 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis).
-  [see Warnings and Precautions (5.1)]
+- Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
 - Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
@@ -83,7 +82,7 @@ Reported by ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER
 | Constipation | 3.3 | 3.0 |
 | Nausea | 2.4 | 2.3 |
 
-## 6.2 Pediatric patients 10 to 17 years of age:
+## 6.2 Pediatric patients 10 to 17 years of age
 
 In a 12-week controlled study in boys and postmenarchal girls, the safety and tolerability profile of CRESTOR 5 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.6) and Use in Special Populations, Pediatric Use (8.4)].
 
@@ -92,5 +91,5 @@ Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, hepatic failure, hepatitis, jaundice and memory loss.
+The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, hepatic failure, hepatitis, jaundice, memory loss, depression, and sleep disorders (including insomnia and nightmares).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

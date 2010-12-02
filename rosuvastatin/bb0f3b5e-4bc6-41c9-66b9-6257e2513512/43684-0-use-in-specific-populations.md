@@ -31,7 +31,7 @@ Because another drug in this class passes into human milk and because HMG-CoA re
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of CRESTOR in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia were evaluated in a controlled clinical trial of 12 weeks duration followed by 40 weeks of open-label exposure.
-Patients treated with 5 mg, 10 mg and 20 mg daily CRESTOR had an adverse experience profile generally similar to that of patients treated with placebo, [see Adverse Reactions (6.2)].
+Patients treated with 5 mg, 10 mg and 20 mg daily CRESTOR had an adverse experience profile generally similar to that of patients treated with placebo [see Adverse Reactions (6.2)].
 Although not all adverse reactions identified in the adult population have been observed in clinical trials of children and adolescent patients, the same warnings and precautions for adults should be considered for children and adolescents.
 There was no detectable effect of CRESTOR on growth, weight, BMI (body mass index), or sexual maturation [see Clinical Studies (14.5)] in pediatric patients (10 to 17 years of age).
 Adolescent females should be counseled on appropriate contraceptive methods while on CRESTOR therapy [see Use in Specific Populations (8.1)].
@@ -53,14 +53,12 @@ Elderly patients are at higher risk of myopathy and CRESTOR should be prescribed
 ## 8.6 Renal Impairment
 
 Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2); however, exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment who are not receiving hemodialysis.
-CRESTOR dosing should be adjusted in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not requiring hemodialysis.
-[see Dosage and Administration (2.7), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+CRESTOR dosing should be adjusted in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not requiring hemodialysis [see Dosage and Administration (2.7), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 CRESTOR is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients.
-[see Contraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; CRESTOR should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 

@@ -46,7 +46,7 @@ Significant LDL-C reductions from baseline were seen at each dose in both treatm
 Table 8.
 Mean LDL-C Percentage Change from Baseline
 
-|  |  | CRESTOR (n=435) LS Means are least square means adjusted for baseline LDL-C LS Mean (95% CI) | Atorvastatin (n=187) LS Mean (95% CI) |
+|  |  | CRESTOR (n=435) LS Mean LS Means are least square means adjusted for baseline LDL-C (95% CI) | Atorvastatin (n=187) LS Mean (95% CI) |
 | --- | --- | --- | --- |
 | Week 6 | 20mg | -47% (-49%, -46%) | -38% (-40%, -36%) |
 | Week 12 | 40mg | -55% (-57%, -54%) | -47% (-49%, -45%) |
@@ -82,7 +82,7 @@ Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipopr
 | --- | --- | --- | --- |
 | Total-C | 342.5 | – 43.3(-46.9, – 37.5) | -47.6(-51.6,-42.8) |
 | Triglycerides | 503.5 | -40.1(-44.9, -33.6) | -43.0(-52.5, -33.1) |
-| Non-HDL-C | 294.5 | -48.2(-56.7, -45.6) | -56.4(-61.4, -48.5) |
+| NonHDL-C | 294.5 | -48.2(-56.7, -45.6) | -56.4(-61.4, -48.5) |
 | VLDL-C + IDL-C | 209.5 | -46.8 (-53.7, -39.4) | -56.2 (-67.7, -43.7) |
 | LDL-C | 112.5 | -54.4(-59.1, -47.3) | -57.3(-59.4, -52.1) |
 | HDL-C | 35.5 | 10.2(1.9, 12.3) | 11.2(8.3, 20.5) |

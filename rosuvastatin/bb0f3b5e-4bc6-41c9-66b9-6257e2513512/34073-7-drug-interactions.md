@@ -3,15 +3,13 @@
 ## 7.1 Cyclosporine
 
 Cyclosporine significantly increased rosuvastatin exposure.
-Therefore, in patients taking cyclosporine, therapy should be limited to CRESTOR 5 mg once daily.
-[see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Therefore, in patients taking cyclosporine, therapy should be limited to CRESTOR 5 mg once daily [see Dosage and Administration (2.5), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 7.2 Gemfibrozil
 
 Gemfibrozil significantly increased rosuvastatin exposure.
 Therefore, combination therapy with CRESTOR and gemfibrozil should be avoided.
-If used, do not exceed CRESTOR 10 mg once daily.
-[see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+If used, do not exceed CRESTOR 10 mg once daily [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Protease Inhibitors
 
