@@ -133,4 +133,4 @@ You can ask your doctor or pharmacist for the information about metformin that i
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use metformin for a condition for which it was not prescribed.
 Do not share your medicine with other people.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2009
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 07/2010
