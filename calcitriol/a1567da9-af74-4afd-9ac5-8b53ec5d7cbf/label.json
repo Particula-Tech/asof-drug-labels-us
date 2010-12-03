@@ -1,12 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022087"
+  ],
   "inn": "calcitriol",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
-    "0299-2012-05",
     "0299-2012-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcitriol",
+      "name": "VECTICAL"
+    }
+  ],
   "setid": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
   "source": "dailymed"
 }

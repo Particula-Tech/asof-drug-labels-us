@@ -6,7 +6,7 @@ The contribution to efficacy of individual components of the vehicle has not bee
 
 The mechanism of action of calcitriol in the treatment of psoriasis has not been established.
 
-## 12.2 Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 The systemic exposure of calcitriol was assessed in subjects with chronic, plaque psoriasis.
 In the pivotal pharmacokinetic/pharmacodynamic study, calcitriol ointment 3 mcg/g, was applied twice daily for 21 days (for a total dose of 30 g/day) to 35% of the body surface area (psoriatic + surrounding healthy skin) of subjects with at least 25% of body surface area involvement.

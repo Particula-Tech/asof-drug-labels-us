@@ -18,10 +18,10 @@ It should be gently rubbed into the skin so that no medication remains visible.
 Patients should report any signs of adverse reactions to their physician.
 
 Marketed by: Galderma Laboratories L.P.
-Fort Worth, Texas 76177
+Fort Worth, Texas 76177 USA
 
-Manufactured by: Galderma Production Canada, Inc. Baie d’Urfé, QC H9X 3S4 Canada
+Manufactured by: Galderma Production Canada Inc. Baie d’Urfé, QC, H9X 3S4 Canada
 
 Made in Canada.
 GALDERMA is a registered trademark.
-(Part Number)
+P51460-0
