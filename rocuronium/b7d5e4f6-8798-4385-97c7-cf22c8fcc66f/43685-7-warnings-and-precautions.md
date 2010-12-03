@@ -9,8 +9,9 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 ## 5.2 Anaphylaxis
 
 Severe anaphylactic reactions to neuromuscular blocking agents, including ZEMURON, have been reported.
-These reactions have, in some cases (including cases with ZEMURON), been life threatening.
+These reactions have, in some cases (including cases with ZEMURON), been life threatening and fatal.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
+Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and non depolarizing, has been reported.
 
 ## 5.3 Need for Adequate Anesthesia
 
@@ -23,7 +24,7 @@ In order to prevent complications resulting from residual paralysis, it is recom
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
-## 5.5 Long-term Use in an Intensive Care Unit
+## 5.5 Long-Term Use in an Intensive Care Unit
 
 ZEMURON has not been studied for long-term use in the intensive care unit (ICU).
 As with other nondepolarizing neuromuscular blocking drugs, apparent tolerance to ZEMURON may develop during chronic administration in the ICU.

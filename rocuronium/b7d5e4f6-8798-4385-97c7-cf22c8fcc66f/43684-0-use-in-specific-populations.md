@@ -4,7 +4,7 @@
 
 Pregnancy Category C: Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15%-30% of human intubation dose of 0.6-1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15%–30% of human intubation dose of 0.6–1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
 The incidence of late embryonic death was increased at the high dose in rats, most likely due to oxygen deficiency.
@@ -14,7 +14,7 @@ ZEMURON should be used during pregnancy only if the potential benefit justifies 
 
 ## 8.2 Labor and Delivery
 
-The use of ZEMURON in Cesarean section has been studied in a limited number of patients [see Clinical Studies (14.5)].
+The use of ZEMURON in Cesarean section has been studied in a limited number of patients [see Clinical Studies (14.1)].
 ZEMURON is not recommended for rapid sequence induction in Cesarean section patients.
 
 ## 8.4 Pediatric Use
@@ -44,7 +44,7 @@ Clinical experiences and recommendations for use in geriatric patients are discu
 
 Since ZEMURON is primarily excreted by the liver, it should be used with caution in patients with clinically significant hepatic impairment.
 ZEMURON 0.6 mg/kg has been studied in a limited number of patients (n=9) with clinically significant hepatic impairment under steady-state isoflurane anesthesia.
-After ZEMURON 0.6 mg/kg, the median (range) clinical duration of 60 (35-166) minutes was moderately prolonged compared to 42 minutes in patients with normal hepatic function.
+After ZEMURON 0.6 mg/kg, the median (range) clinical duration of 60 (35–166) minutes was moderately prolonged compared to 42 minutes in patients with normal hepatic function.
 The median recovery time of 53 minutes was also prolonged in patients with cirrhosis compared to 20 minutes in patients with normal hepatic function.
 Four of 8 patients with cirrhosis, who received ZEMURON 0.6 mg/kg under opioid/nitrous oxide/oxygen anesthesia, did not achieve complete block.
 These findings are consistent with the increase in volume of distribution at steady state observed in patients with significant hepatic impairment [see Clinical Pharmacology (12.3)].
@@ -55,4 +55,4 @@ The use of doses higher than 0.6 mg/kg has not been studied [see Dosage and Admi
 ## 8.7 Patients with Renal Impairment
 
 Due to the limited role of the kidney in the excretion of ZEMURON, usual dosing guidelines should be followed.
-In patients with renal dysfunction, the duration of neuromuscular blockade was not prolonged; however, there was substantial individual variability (range: 22-90 minutes) [see Clinical Pharmacology (12.3)].
+In patients with renal dysfunction, the duration of neuromuscular blockade was not prolonged; however, there was substantial individual variability (range: 22–90 minutes) [see Clinical Pharmacology (12.3)].

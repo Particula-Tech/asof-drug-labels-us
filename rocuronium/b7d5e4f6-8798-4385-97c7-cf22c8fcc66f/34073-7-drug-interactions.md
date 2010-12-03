@@ -61,4 +61,4 @@ This possibility must also be considered for ZEMURON [see Warnings and Precautio
 The use of ZEMURON before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
 
 If ZEMURON is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
-The median duration of action of ZEMURON 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14-57, n=12) vs. 28 minutes (range: 17-51, n=12) without succinylcholine.
+The median duration of action of ZEMURON 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14–57, n=12) vs. 28 minutes (range: 17–51, n=12) without succinylcholine.
