@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA201532"
+  ],
+  "inn": "eribulin",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-389-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "Halaven"
+    }
+  ],
+  "setid": "31ce4750-ded5-4a0b-95e9-f229fa6bc822",
+  "source": "dailymed"
+}
