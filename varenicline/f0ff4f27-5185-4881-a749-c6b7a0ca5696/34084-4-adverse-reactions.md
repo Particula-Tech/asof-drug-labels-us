@@ -169,3 +169,7 @@ Not all patients had known pre-existing psychiatric illness and not all had disc
 There have been reports of hypersensitivity reactions, including angioedema [see Warnings and Precautions (5.2)].
 
 There have also been reports of serious skin reactions, including Stevens-Johnson Syndrome and erythema multiforme, in patients taking CHANTIX [see Warnings and Precautions (5.3)].
+
+There have been reports of myocardial infarction (MI) and cerebrovascular accident (CVA) including ischemic and hemorrhagic events in patients taking Chantix.
+In the majority of the reported cases, patients had pre-existing cardiovascular disease and/or other risk factors.
+Although smoking is a risk factor for MI and CVA, based on temporal relationship between medication use and events, a contributory role of varenicline cannot be ruled out.
