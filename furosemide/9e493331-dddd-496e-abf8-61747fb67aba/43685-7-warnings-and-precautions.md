@@ -13,7 +13,7 @@ Supplemental potassium chloride and, if required, an aldosterone antagonist are 
 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
 
-Cases of tinnitus and reversible or irreversible hearing impairment have been reported.
+Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Usually, reports indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, doses exceeding several times the usual recommended dose, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
 
@@ -28,6 +28,13 @@ Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially my
 
 All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
+
+In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
+Thus, these patients require careful monitoring, especially during the initial stages of treatment.
+
+In patients at high risk for radiocontrast nephropathy furosemide can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of furosemide may be weakened and its ototoxicity potentiated.
 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
@@ -60,6 +67,8 @@ Urine and blood glucose should be checked periodically in diabetics receiving fu
 
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
+
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (See PRECAUTIONS: Pediatric Use).
 
 ## Drug Interactions
 
@@ -115,6 +124,8 @@ Furosemide has been shown to cause unexplained maternal deaths and abortions in 
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights.
+
 The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits.
 
 Furosemide caused unexplained maternal deaths and abortions in the rabbit at the lowest dose of 25 mg/kg (two times the maximal recommended human dose of 600 mg/day).
@@ -127,6 +138,16 @@ The results of the mouse study and one of the three rabbit studies also showed a
 ## Nursing Mothers
 
 Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.
+
+Furosemide may inhibit lactation.
+
+## Pediatric Use
+
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis.
+Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide.
+Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
+
+If furosemide is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
 ## Geriatric Use
 

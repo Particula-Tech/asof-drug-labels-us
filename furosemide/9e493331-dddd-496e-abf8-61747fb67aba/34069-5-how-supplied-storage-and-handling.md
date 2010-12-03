@@ -67,6 +67,6 @@ PROTECT FROM LIGHT.
 
 Note: Discard opened bottle after 90 days.
 
-4052002//06 Revised March 2009
+4052002//07Revised November 2010
 
-© RLI, 2009
+© RLI, 2010
