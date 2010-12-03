@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA008816"
+  ],
+  "inn": "lidocaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-479-05",
+    "63323-479-30"
+  ],
+  "products": [
+    {
+      "form": "JELLY",
+      "generic": "lidocaine hydrochloride",
+      "name": "Xylocaine"
+    }
+  ],
+  "setid": "b9526a91-e6df-41d3-9794-52a521bd0a32",
+  "source": "dailymed"
+}
