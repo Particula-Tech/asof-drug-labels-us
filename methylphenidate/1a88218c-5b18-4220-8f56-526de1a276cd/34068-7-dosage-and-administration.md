@@ -21,7 +21,7 @@ CONCERTA® Recommended Starting Doses and Dose Ranges
 
 ## 2.3 Patients Currently Using Methylphenidate
 
-The recommended dose of CONCERTA® for patients who are currently taking methylphenidate twice daily or three times daily, at doses of 10 to 60 mg/day is provided in Table 2.
+The recommended dose of CONCERTA® for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 to 60 mg/day is provided in Table 2.
 Dosing recommendations are based on current dose regimen and clinical judgment.
 Conversion dosage should not exceed 72 mg daily.
 
@@ -39,11 +39,11 @@ Other methylphenidate regimens: Clinical judgment should be used when selecting 
 
 ## 2.4 Dose Titration
 
-Doses may be increased in 18 mg increments at weekly intervals for patients who have not achieved an optimal response at a lower dose.
+Doses may be increased in 18-mg increments at weekly intervals for patients who have not achieved an optimal response at a lower dose.
 Daily dosages above 54 mg in children and 72 mg in adolescents have not been studied and are not recommended.
 Daily dosages above 72 mg in adults are not recommended.
 
-A 27 mg dosage strength is available for physicians who wish to prescribe between the 18 mg and 36 mg dosages.
+A 27-mg dosage strength is available for physicians who wish to prescribe between the 18-mg and 36-mg dosages.
 
 ## 2.5 Maintenance/Extended Treatment
 

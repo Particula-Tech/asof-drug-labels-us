@@ -24,6 +24,6 @@ In an aqueous environment, such as the gastrointestinal tract, the drug overcoat
 Water permeates through the membrane into the tablet core.
 As the osmotically active polymer excipients expand, methylphenidate is released through the orifice.
 The membrane controls the rate at which water enters the tablet core, which in turn controls drug delivery.
-Furthermore, the drug release rate from the system increases with time over a period of 6 to 7 hours due to the drug concentration gradient incorporated into the two drug layers of CONCERTA®.
+Furthermore, the drug release rate from the system increases with time over a period of 6 to 7 hours due to the drug-concentration gradient incorporated into the two drug layers of CONCERTA®.
 The biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the stool as a tablet shell along with insoluble core components.
 It is possible that CONCERTA® extended-release tablets may be visible on abdominal x-rays under certain circumstances, especially when digital enhancing techniques are utilized.

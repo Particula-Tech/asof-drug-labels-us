@@ -16,19 +16,16 @@ The d-isomer is more pharmacologically active than the l-isomer.
 Absorption
 
 Methylphenidate is readily absorbed.
-Following oral administration of CONCERTA®, plasma methylphenidate concentrations increase rapidly reaching an initial maximum at about 1 hour, followed by gradual ascending concentrations over the next 5 to 9 hours after which a gradual decrease begins.
-Mean times to reach peak plasma concentrations across all doses of CONCERTA® occurred between 6 to 10 hours.
+Following oral administration of CONCERTA®, plasma methylphenidate concentrations increase rapidly, reaching an initial maximum at about 1 hour, followed by gradual ascending concentrations over the next 5 to 9 hours, after which a gradual decrease begins.
+Mean times to reach peak plasma concentrations across all doses of CONCERTA® occurred between 6 and 10 hours.
 
 CONCERTA® once daily minimizes the fluctuations between peak and trough concentrations associated with immediate-release methylphenidate three times daily (see Figure 1).
 The relative bioavailability of CONCERTA® once daily and methylphenidate three times daily in adults is comparable.
 
-| Figure 1 |
-| --- |
-
 Figure 1.
 Mean methylphenidate plasma concentrations in 36 adults, following a single dose of CONCERTA® 18 mg once daily and immediate-release methylphenidate 5 mg three times daily administered every 4 hours.
 
-The mean single dose pharmacokinetic parameters in 36 healthy adults following the administration of CONCERTA® 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 6.
+The mean single-dose pharmacokinetic parameters in 36 healthy adults following the administration of CONCERTA® 18 mg once daily and methylphenidate 5 mg three times daily are summarized in Table 6.
 
 TABLE 6.
 Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Healthy Adults
@@ -40,17 +37,17 @@ Pharmacokinetic Parameters (Mean ± SD) After Single Dose in Healthy Adults
 | AUCinf (ng∙h/mL) | 41.8 ± 13.9 | 38.0 ± 11.0 |
 | t½ (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
 
-The pharmacokinetics of CONCERTA® were evaluated in healthy adults following single and multiple dose administration (steady-state) of doses up to 144 mg/day.
+The pharmacokinetics of CONCERTA® were evaluated in healthy adults following single- and multiple-dose administration (steady state) of doses up to 144 mg/day.
 The mean half-life was about 3.6 hours.
-No differences in the pharmacokinetics of CONCERTA® were noted following single and repeated once-daily dosing indicating no significant drug accumulation.
+No differences in the pharmacokinetics of CONCERTA® were noted following single and repeated once-daily dosing, indicating no significant drug accumulation.
 The AUC and t1/2 following repeated once-daily dosing are similar to those following the first dose of CONCERTA® in a dose range of 18 to 144 mg.
 
 Dose Proportionality
 
 Following administration of CONCERTA® in single doses of 18, 36, and 54 mg/day to healthy adults, Cmax and AUC (0–inf) of d-methylphenidate were proportional to dose, whereas l-methylphenidate Cmax and AUC (0–inf) increased disproportionately with respect to dose.
-Following administration of CONCERTA®, plasma concentrations of the l-isomer were approximately 1/40th the plasma concentrations of the d-isomer.
+Following administration of CONCERTA®, plasma concentrations of the l-isomer were approximately 1/40 the plasma concentrations of the d-isomer.
 
-In healthy adults, single and multiple dosing of once daily CONCERTA® doses from 54 to 144 mg/day resulted in linear and dose proportional increases in Cmax and AUCinf for total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
+In healthy adults, single and multiple dosing of once-daily CONCERTA® doses from 54 to 144 mg/day resulted in linear and dose-proportional increases in Cmax and AUCinf for total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
 There was no time dependency in the pharmacokinetics of methylphenidate.
 The ratio of metabolite (PPAA) to parent drug (MPH) was constant across doses from 54 to 144 mg/day, both after single dose and upon multiple dosing.
 
@@ -72,7 +69,7 @@ The main urinary metabolite was PPAA, accounting for approximately 80% of the do
 
 Food Effects
 
-In patients, there were no differences in either the pharmacokinetics or the pharmacodynamic performance of CONCERTA® when administered after a high fat breakfast.
+In patients, there were no differences in either the pharmacokinetics or the pharmacodynamic performance of CONCERTA® when administered after a high-fat breakfast.
 There is no evidence of dose dumping in the presence or absence of food.
 
 Special Populations
@@ -88,10 +85,10 @@ In adults receiving CONCERTA®, dose-adjusted AUC (0–inf) was consistent acros
 Age
 
 Increase in age resulted in increased apparent oral clearance (CL/F) (58% increase in adolescents compared to children).
-Some of these differences could be explained by body weight differences among these populations.
+Some of these differences could be explained by body-weight differences among these populations.
 This suggests that subjects with higher body weight may have lower exposures of total methylphenidate at similar doses.
 
-The pharmacokinetics of CONCERTA® has not been studied in children less than 6 years of age.
+The pharmacokinetics of CONCERTA® have not been studied in children less than 6 years of age.
 
 Renal Insufficiency
 

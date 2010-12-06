@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Cardiovascular Events
 
-Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
+Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents
 
@@ -15,22 +15,22 @@ Sudden deaths, stroke, and myocardial infarction have been reported in adults ta
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs.
 
-Hypertension and other Cardiovascular Conditions
+Hypertension and Other Cardiovascular Conditions
 
-Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm) [see Adverse Reactions (6.5)], and individuals may have larger increases.
+Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mm Hg) and average heart rate (about 3 to 6 bpm) [see Adverse Reactions (6.5)], and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
-Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
+Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with preexisting hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia.
 
-Assessing Cardiovascular Status in Patients being Treated with Stimulant Medications
+Assessing Cardiovascular Status in Patients Being Treated with Stimulant Medications
 
-Children, adolescents, or adults who are being considered for treatment with stimulant medications, should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
+Children, adolescents, or adults who are being considered for treatment with stimulant medications should have a careful history (including assessment for a family history of sudden death or ventricular arrhythmia) and physical exam to assess for the presence of cardiac disease, and should receive further cardiac evaluation if findings suggest such disease (e.g., electrocardiogram and echocardiogram).
 Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during stimulant treatment should undergo a prompt cardiac evaluation.
 
 ## 5.2 Psychiatric Adverse Events
 
-Pre-Existing Psychosis
+Preexisting Psychosis
 
-Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
 Bipolar Illness
 
@@ -55,8 +55,8 @@ In the presence of seizures, the drug should be discontinued.
 
 ## 5.4 Long-Term Suppression of Growth
 
-Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-Published data are inadequate to determine whether chronic use of amphetamines may cause similar suppression of growth, however, it is anticipated that they likely have this effect as well.
+Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+Published data are inadequate to determine whether chronic use of amphetamines may cause similar suppression of growth; however, it is anticipated that they likely have this effect as well.
 Therefore, growth should be monitored during treatment with stimulants, and patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
 
 ## 5.5 Visual Disturbance
@@ -67,7 +67,7 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 Because the CONCERTA® tablet is nondeformable and does not appreciably change in shape in the GI tract, CONCERTA® should not ordinarily be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudoobstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
-Due to the controlled-release design of the tablet, CONCERTA® should only be used in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
+Due to the controlled-release design of the tablet, CONCERTA® should be used only in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
 
 ## 5.7 Hematologic Monitoring
 

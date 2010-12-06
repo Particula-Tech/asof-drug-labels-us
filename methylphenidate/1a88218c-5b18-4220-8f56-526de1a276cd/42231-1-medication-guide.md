@@ -2,7 +2,7 @@ MEDICATION GUIDE CONCERTA® (kon SER-ta) (methylphenidate HCl) Extended-release 
 
 Read the Medication Guide that comes with CONCERTA® before you or your child starts taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with CONCERTA®.
+This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with CONCERTA®.
 
 What Is CONCERTA®?
 
@@ -19,15 +19,15 @@ CONCERTA® should not be taken if you or your child:
 - are very anxious, tense, or agitated
 - have an eye problem called glaucoma
 - have tics or Tourette's syndrome, or a family history of Tourette's syndrome.
-  Tics are hard to control repeated movements or sounds.
-- are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
+  Tics are hard-to-control repeated movements or sounds.
+- are taking or have taken within the past 14 days an antidepression medicine called a monoamine oxidase inhibitor or MAOI.
 - are allergic to anything in CONCERTA®.
   See the end of this Medication Guide for a complete list of ingredients.
 
 CONCERTA® should not be used in children less than 6 years old because it has not been studied in this age group.
 
 CONCERTA® may not be right for you or your child.
-Before starting CONCERTA® tell your or your child's doctor about all health conditions (or a family history of) including:
+Before starting CONCERTA®, tell your or your child's doctor about all health conditions (or a family history of) including:
 
 - heart problems, heart defects, or high blood pressure
 - mental problems including psychosis, mania, bipolar illness, or depression
@@ -47,7 +47,7 @@ Your doctor will decide whether CONCERTA® can be taken with other medicines.
 
 Especially tell your doctor if you or your child takes:
 
-- anti-depression medicines including MAOIs
+- antidepression medicines including MAOIs
 - seizure medicines
 - blood thinner medicines
 - blood pressure medicines
@@ -68,7 +68,7 @@ How should CONCERTA® be taken?
   A different medicine may need to be prescribed.
 - CONCERTA® can be taken with or without food.
 - Take CONCERTA® once each day in the morning.
-  CONCERTA® is an extended release tablet.
+  CONCERTA® is an extended-release tablet.
   It releases medication into your/your child's body throughout the day.
 - The CONCERTA® tablet does not dissolve completely in the body after all the medicine has been released.
   You or your child may sometimes notice the empty tablet in a bowel movement.
@@ -129,20 +129,10 @@ What are the ingredients in CONCERTA®?
 
 Active Ingredient: methylphenidate HCl
 
-Inactive Ingredients: butylated hydroxytoluene, carnuba wax, cellulose acetate, hypromellose, lactose, phosphoric acid, poloxamer, polyethylene glycol, polyethylene oxides, povidone, propylene glycol, sodium chloride, stearic acid, succinic acid, synthetic iron oxides, titanium dioxide, and triacetin.
+Inactive Ingredients: butylated hydroxytoluene, carnauba wax, cellulose acetate, hypromellose, lactose, phosphoric acid, poloxamer, polyethylene glycol, polyethylene oxides, povidone, propylene glycol, sodium chloride, stearic acid, succinic acid, synthetic iron oxides, titanium dioxide, and triacetin.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
-
-Janssen-Cilag Manufacturing, LLC
-
-Gurabo, Puerto Rico 00778 or
-
-Alza Corp.
-
-Vacaville, CA 95688
-
 Manufactured for: McNeil Pediatrics Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-10180603 Revised: January 2010
+10180602 Revised: November 2010

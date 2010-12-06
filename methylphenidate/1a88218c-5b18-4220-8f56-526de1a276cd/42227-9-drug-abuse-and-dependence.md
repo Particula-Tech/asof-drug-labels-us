@@ -26,4 +26,4 @@ Although these findings reveal a relatively lower response to CONCERTA® on subj
 ## 9.3 Dependence
 
 As noted in the Box Warning, careful supervision is required during withdrawal from abusive use since severe depression may occur.
-Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow up.
+Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up.

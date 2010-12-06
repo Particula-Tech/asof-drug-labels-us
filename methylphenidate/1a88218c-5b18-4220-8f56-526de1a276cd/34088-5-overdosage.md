@@ -19,5 +19,5 @@ The prolonged release of methylphenidate from CONCERTA® should be considered wh
 
 ## 10.3 Poison Control Center
 
-As with the management of all overdosage, the possibility of multiple drug ingestion should be considered.
+As with the management of all overdosage, the possibility of multiple-drug ingestion should be considered.
 The physician may wish to consider contacting a poison control center for up-to-date information on the management of overdosage with methylphenidate.

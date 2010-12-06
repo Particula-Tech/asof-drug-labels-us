@@ -17,7 +17,7 @@ Heart-related problems:
 - stroke and heart attack in adults
 - increased blood pressure and heart rate
 
-Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems.
+Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
 
 Your doctor should check you or your child carefully for heart problems before starting CONCERTA®.
 
@@ -40,10 +40,10 @@ Children and Teenagers
 
 Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
 
-Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking CONCERTA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
+Call your doctor right away if you or your child has any new or worsening mental symptoms or problems while taking CONCERTA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
 
 CONCERTA® is a federally controlled substance (CII) because it can be abused or lead to dependence.
 Keep CONCERTA® in a safe place to prevent misuse and abuse.
 Selling or giving away CONCERTA® may harm others, and is against the law.
 
-Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs.
+Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines, or street drugs.

@@ -19,4 +19,4 @@ CONCERTA® is contraindicated in patients with motor tics or with a family histo
 
 ## 4.5 Monoamine Oxidase Inhibitors
 
-CONCERTA® is contraindicated during treatment with monoamine oxidase (MAO) inhibitors, and also within a minimum of 14 days following discontinuation of a MAO-inhibitor (hypertensive crises may result) [see Drug Interactions (7.1)].
+CONCERTA® is contraindicated during treatment with monoamine oxidase (MAO) inhibitors, and also within a minimum of 14 days following discontinuation of a MAO inhibitor (hypertensive crises may result) [see Drug Interactions (7.1)].
