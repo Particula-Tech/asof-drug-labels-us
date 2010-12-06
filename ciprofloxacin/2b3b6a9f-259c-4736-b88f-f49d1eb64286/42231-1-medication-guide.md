@@ -212,7 +212,7 @@ Skin rash may happen in people taking ciprofloxacin tablets even after only one 
 Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
-- Serious heart rhythm changes (QT prolongation and torsades de pointes)
+- Serious heart rhythm changes (QT prolongation and torsade de pointes)
 
 Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
 Ciprofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
@@ -246,7 +246,7 @@ Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
 
 - Low blood sugar (hypoglycemia)
 
-People who take ciprofloxacin tablets and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance)can get low blood sugar (hypoglycemia) which can sometimes be severe.
+People who take ciprofloxacin tablets and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide can get low blood sugar (hypoglycemia) which can sometimes be severe.
 Tell your healthcare provider if you get low blood sugar with ciprofloxacin tablets.
 Your antibiotic medicine may need to be changed.
 
@@ -280,7 +280,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
-## General Information about ciprofloxacin tablets
+## General information about ciprofloxacin tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
@@ -296,4 +296,4 @@ For more information call 1-866-850-2876.
 
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2009
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2010

@@ -141,15 +141,15 @@ The MIC values should be interpreted according to the following criteria: For te
 | ≤ 1 | Susceptible (S) |
 | 2 | Intermediate (I) |
 | ≥ 4 | Resistant (R) |
+| a These interpretive standards are applicable only to broth microdilution susceptibility tests with streptococci using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. |  |
 
-a These interpretive standards are applicable only to broth microdilution susceptibility tests with streptococci using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
 For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 1 | Susceptible (S) |
+| b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1. |  |
 
-b This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium 1 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 For testing Neisseria gonorrhoeae c :
@@ -159,8 +159,8 @@ For testing Neisseria gonorrhoeae c :
 | ≤ 0.06 | Susceptible (S) |
 | 0.12 – 0.5 | Intermediate (I) |
 | ≥ 1 | Resistant (R) |
+| c This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement. |  |
 
-c This interpretive standard is applicable only to agar dilution test with GC agar base and 1% defined growth supplement.
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
@@ -178,8 +178,7 @@ Standard ciprofloxacin powder should provide the following MIC values:
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |
 | C. jejunib | ATCC 33560 | 0.06 – 0.25 and 0.03 – 0.12 |
 | N. gonorrhoeaec | ATCC 49226 | 0.001 – 0.008 |
-
-a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1 . b C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5 to 5% lysed horse blood in a microaerophilic environment at 36 to 37 o C for 48 hours and for 42 o C at 24 hours 2 , respectively. c N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO 2 environment at 35 to 37 o C for 20 to 24 hours 3 .
+| a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. b C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5 to 5% lysed horse blood in a microaerophilic environment at 36 to 37oC for 48 hours and for 42oC at 24 hours2, respectively. c N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35 to 37oC for 20 to 24 hours3. |  |  |
 
 ### Diffusion Techniques
 
@@ -193,26 +192,26 @@ Reports from the laboratory providing results of the standard single-disk suscep
 | ≥ 21 | Susceptible (S) |
 | 16 – 20 | Intermediate (I) |
 | ≤ 15 | Resistant (R) |
+| a These zone diameter standards are applicable only to tests performed for streptococci using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO2. |  |
 
-a These zone diameter standards are applicable only to tests performed for streptococci using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO 2 .
 For testing Haemophilus influenzae and Haemophilus parainfluenzae b :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
 | ≥ 21 | Susceptible (S) |
+| b This zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)3. |  |
 
-b This zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM) 3 .
 The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
 Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
 For testing Neisseria gonorrhoeae c :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥41 | Susceptible (S) |
+| ≥41 | Susceptible(S) |
 | 28 – 40 | Intermediate (I) |
-| ≤ 27 | Resistant (R) |
+| ≤ 27 | Resistant(R) |
+| c This zone diameter standard is applicable only to disk diffusion tests with GC agar base and 1% defined growth supplement. |  |
 
-c This zone diameter standard is applicable only to disk diffusion tests with GC agar base and 1% defined growth supplement.
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for ciprofloxacin.
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
@@ -225,5 +224,4 @@ For the diffusion technique, the 5 mcg ciprofloxacin disk should provide the fol
 | N. gonorrhoeaeb | ATCC 49226 | 48 – 58 |
 | P. aeruginosa | ATCC 27853 | 25 – 33 |
 | S. aureus | ATCC 25923 | 22 – 30 |
-
-a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM) 3 . b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement.
+| a These quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)3. b These quality control limits are applicable only to tests conducted with N. gonorrhoeae ATCC 49226 performed by disk diffusion using GC agar base and 1% defined growth supplement. |  |  |
