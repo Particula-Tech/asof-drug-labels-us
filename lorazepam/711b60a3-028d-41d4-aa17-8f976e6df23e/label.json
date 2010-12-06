@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090260"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Pharmaceutical Associates, Inc.",
+  "package_ndcs": [
+    "0121-0770-01"
+  ],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "711b60a3-028d-41d4-aa17-8f976e6df23e",
+  "source": "dailymed"
+}
