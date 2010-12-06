@@ -5,6 +5,7 @@ Heparin Sodium Injection, USP (porcine), preservative free, is available as foll
 | ProductNo. | NDCNo. |  |
 | --- | --- | --- |
 | 27602 | 63323-276-02 | 1,000 USP Heparin units/mL, 2 mL fill in a 2 mL single dose, flip-top vial, in packages of 25. |
+| 504302 | 63323-543-02 | 5,000 USP Heparin units/0.5 mL, 0.5 mL fill in a 2 mL single dose, flip-top vial, in packages of 25. |
 
 Use only if solution is clear and seal intact.
 Do not use if solution is discolored or contains a precipitate.

@@ -29,7 +29,7 @@ In converting from heparin to an oral anticoagulant, the dose of the oral antico
 To ensure continuous anticoagulation, it is advisable to continue full heparin therapy for several days after the prothrombin time has reached the therapeutic range.
 Heparin therapy may then be discontinued without tapering.
 
-## Therapeutic Anticoagulant Effect With Full-Dose Heparin
+## Therapeutic Anticoagulant Effect with Full-Dose Heparin
 
 Although dosage must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
 

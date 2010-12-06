@@ -177,3 +177,35 @@ Warning: Contains Benzyl Alcohol
 10 mL Multiple Dose Vial
 
 NOT for Lock Flush
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 0.5 mL Single Dose Vial Label
+
+Heparin Sodium Injection, USP
+
+5,000 USP units/0.5 mL
+
+For IV or SC Use Preservative Free
+
+(Derived from Porcine Intestinal Mucosa)
+
+0.5 mL Single Dose Vial
+
+NOT for Lock Flush
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 0.5 mL Single Dose Vial Tray Label
+
+NDC 63323-543-02
+
+504302
+
+Heparin Sodium Injection, USP
+
+5,000 USP units/0.5 mL
+
+For IV or SC Use Rx only
+
+(Derived from Porcine Intestinal Mucosa)
+
+0.5 mL Single Dose Vial
+
+NOT for Lock Flush
