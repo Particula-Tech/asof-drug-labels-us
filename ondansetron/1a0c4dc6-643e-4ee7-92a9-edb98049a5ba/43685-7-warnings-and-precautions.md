@@ -14,20 +14,24 @@ Rarely and predominantly with intravenous ondansetron, transient ECG changes inc
 
 ## Drug Interactions
 
-Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
 Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron.
 On the basis of available data, no dosage adjustment is recommended for patients on these drugs.
 
-### Phenytoin, Carbamazepine, and Rifampicin:
+### Apomorphine
+
+Based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron, concomitant use of apomorphine with ondansetron is contraindicated (see CONTRAINDICATIONS).
+
+### Phenytoin, Carbamazepine, and Rifampicin
 
 In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and ondansetron blood concentrations were decreased.
 However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3
 
-### Tramadol:
+### Tramadol
 
 Although no pharmacokinetic drug interaction between ondansetron and tramadol has been observed, data from 2 small studies indicate that ondansetron may be associated with an increase in patient controlled administration of tramadol.4,5
 
-### Chemotherapy:
+### Chemotherapy
 
 Tumor response to chemotherapy in the P-388 mouse leukemia model is not affected by ondansetron.
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
@@ -46,9 +50,9 @@ Oral administration of ondansetron up to 15 mg/kg/day did not affect fertility o
 
 ## Pregnancy
 
-### Teratogenic Effects:
+### Teratogenic Effects
 
-#### Pregnancy Category B.:
+#### Pregnancy Category B.
 
 Reproduction studies have been performed in pregnant rats and rabbits at daily oral doses up to 15 and 30 mg/kg/day, respectively, and have revealed no evidence of impaired fertility or harm to the fetus due to ondansetron.
 There are, however, no adequate and well-controlled studies in pregnant women.

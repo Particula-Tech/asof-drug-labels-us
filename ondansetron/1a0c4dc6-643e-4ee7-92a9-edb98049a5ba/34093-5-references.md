@@ -1,4 +1,4 @@
-# REFERENCE
+# REFERENCES
 
 1. Britto MR, Hussey EK, Mydlow P, et al. Effect of enzyme inducers on ondansetron (OND) metabolism in humans.
    Clin Pharmacol Ther.
@@ -15,8 +15,8 @@
 5. Arcioni R, della Rocca M, Romanò R, et al. Anesth Analg.
    2002;94:1553-1557.
 
-10003003/02
+10003003/04
 
-Revised December 2006
+Revised October 2010
 
-© RLI, 2006
+© RLI, 2010

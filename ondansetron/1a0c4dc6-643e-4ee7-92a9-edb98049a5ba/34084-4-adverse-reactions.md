@@ -8,8 +8,7 @@ A causal relationship to therapy with ondansetron has been unclear in many cases
 The adverse events in Table 5 have been reported in ≥5% of adult patients receiving a single 24 mg ondansetron tablet in 2 trials.
 These patients were receiving concurrent highly emetogenic cisplatin-based chemotherapy regimens (cisplatin dose ≥50 mg/m2).
 
-Table 5.
-Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron Tablets (Highly Emetogenic Chemotherapy)
+Table 5: Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron Tablets (Highly Emetogenic Chemotherapy)
 
 |  | Ondansetron 24 mg q.d. | Ondansetron 8 mg b.i.d. | Ondansetron 32 mg q.d. |
 | --- | --- | --- | --- |
@@ -20,8 +19,7 @@ Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron
 The adverse events in Table 6 have been reported in ≥5% of adults receiving either 8 mg of ondansetron tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
 These patients were receiving concurrent moderately emetogenic chemotherapy, primarily cyclophosphamide-based regimens.
 
-Table 6.
-Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron Tablets (Moderately Emetogenic Chemotherapy)
+Table 6: Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron Tablets (Moderately Emetogenic Chemotherapy)
 
 |  | Ondansetron 8 mg b.i.d. | Ondansetron 8 mg t.i.d. | Placebo |
 | --- | --- | --- | --- |
@@ -32,9 +30,13 @@ Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron T
 | Diarrhea | 15(6%) | 16(4%) | 10(4%) |
 | Dizziness | 13(5%) | 18(4%) | 12(5%) |
 
-Central Nervous System: There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ondansetron.
+### Central Nervous System
 
-Hepatic: In 723 patients receiving cyclophosphamide-based chemotherapy in US clinical trials, AST and/or ALT values have been reported to exceed twice the upper limit of normal in approximately 1% to 2% of patients receiving ondansetron tablets.
+There have been rare reports consistent with, but not diagnostic of, extrapyramidal reactions in patients receiving ondansetron.
+
+### Hepatic
+
+In 723 patients receiving cyclophosphamide-based chemotherapy in US clinical trials, AST and/or ALT values have been reported to exceed twice the upper limit of normal in approximately 1% to 2% of patients receiving ondansetron tablets.
 The increases were transient and did not appear to be related to dose or duration of therapy.
 On repeat exposure, similar transient elevations in transaminase values occurred in some courses, but symptomatic hepatic disease did not occur.
 The role of cancer chemotherapy in these biochemical changes cannot be clearly determined.
@@ -42,9 +44,13 @@ The role of cancer chemotherapy in these biochemical changes cannot be clearly d
 There have been reports of liver failure and death in patients with cancer receiving concurrent medications including potentially hepatotoxic cytotoxic chemotherapy and antibiotics.
 The etiology of the liver failure is unclear.
 
-Integumentary: Rash has occurred in approximately 1% of patients receiving ondansetron.
+### Integumentary
 
-Other: Rare cases of anaphylaxis, bronchospasm, tachycardia, angina (chest pain), hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures have been reported.
+Rash has occurred in approximately 1% of patients receiving ondansetron.
+
+### Other
+
+Rare cases of anaphylaxis, bronchospasm, tachycardia, angina (chest pain), hypokalemia, electrocardiographic alterations, vascular occlusive events, and grand mal seizures have been reported.
 Except for bronchospasm and anaphylaxis, the relationship to ondansetron was unclear.
 
 ## Radiation-Induced Nausea and Vomiting
@@ -58,8 +64,7 @@ The adverse events in Table 7 have been reported in ≥5% of patients receiving 
 With the exception of headache, rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
-Table 7.
-Frequency of Adverse Events From Controlled Studies With Ondansetron Tablets (Postoperative Nausea and Vomiting)
+Table 7: Frequency of Adverse Events From Controlled Studies With Ondansetron Tablets (Postoperative Nausea and Vomiting)
 
 |  | Ondansetron 16 mg | Placebo |
 | --- | --- | --- |

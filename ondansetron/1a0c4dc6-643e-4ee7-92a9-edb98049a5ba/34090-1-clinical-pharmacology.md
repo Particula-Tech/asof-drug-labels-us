@@ -10,7 +10,7 @@ However, cytotoxic chemotherapy appears to be associated with release of seroton
 In humans, urinary 5-HIAA (5-hydroxyindoleacetic acid) excretion increases after cisplatin administration in parallel with the onset of emesis.
 The released serotonin may stimulate the vagal afferents through the 5-HT3 receptors and initiate the vomiting reflex.
 
-In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin syntheses, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT3 receptor antagonist.
+In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT3 receptor antagonist.
 
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
 Multiday administration of ondansetron has been shown to slow colonic transit in normal volunteers.
@@ -38,7 +38,7 @@ In terms of overall ondansetron turnover, CYP3A4 played the predominant role.
 Because of the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g., CYP2D6 genetic deficiency) will be compensated by others and may result in little change in overall rates of ondansetron elimination.
 Ondansetron elimination may be affected by cytochrome P-450 inducers.
 In a pharmacokinetic study of 16 epileptic patients maintained chronically on CYP3A4 inducers, carbamazepine, or phenytoin, reduction in AUC, Cmax, and t1/2 of ondansetron was observed.1 This resulted in a significant increase in clearance.
-However, on the basis of available data, no dosage adjustment for ondansetron is recommended (see PRECAUTIONS, Drug Interactions).
+However, on the basis of available data, no dosage adjustment for ondansetron is recommended (see PRECAUTIONS: Drug Interactions).
 
 In humans, carmustine, etoposide, and cisplatin do not affect the pharmacokinetics of ondansetron.
 
@@ -49,8 +49,7 @@ These higher plasma levels may in part be explained by differences in body weigh
 It is not known whether these gender-related differences were clinically important.
 More detailed pharmacokinetic information is contained in Tables 1 and 2 taken from 2 studies.
 
-Table 1.
-Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Tablet Dose
+Table 1: Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavail-ability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -61,8 +60,7 @@ Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Tablet Dose
 | >75 M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |
 
-Table 2.
-Pharmacokinetics in Normal Volunteers: Single 24 mg Ondansetron Tablet Dose
+Table 2: Pharmacokinetics in Normal Volunteers: Single 24 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- |

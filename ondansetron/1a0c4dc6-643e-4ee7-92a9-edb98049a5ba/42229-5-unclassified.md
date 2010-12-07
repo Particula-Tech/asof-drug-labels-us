@@ -4,28 +4,27 @@
 
 ## Chemotherapy-Induced Nausea and Vomiting
 
-### Highly Emetogenic Chemotherapy:
+### Highly Emetogenic Chemotherapy
 
 In 2 randomized, double-blind, monotherapy trials, a single 24 mg ondansetron tablet was superior to a relevant historical placebo control in the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m2.
 Steroid administration was excluded from these clinical trials.
 More than 90% of patients receiving a cisplatin dose ≥50 mg/m2 in the historical placebo comparator experienced vomiting in the absence of antiemetic therapy.
 
 The first trial compared oral doses of ondansetron 24 mg once a day, 8 mg twice a day, and 32 mg once a day in 357 adult cancer patients receiving chemotherapy regimens containing cisplatin ≥50 mg/m2.
-A total of 66% of patients in the ondansetron 24 mg once a day group, 55% in the ondansetron 8 mg twice a day group, and 55% in the ondansetron 32 mg once a day group completed the 24-hour study period with 0 emetic episodes and no rescue antiemetic medications, the primary endpoint of efficacy.
+A total of 66% of patients in the ondansetron 24 mg once-a-day group, 55% in the ondansetron 8 mg twice-a-day group, and 55% in the ondansetron 32 mg once-a-day group completed the 24-hour study period with 0 emetic episodes and no rescue antiemetic medications, the primary endpoint of efficacy.
 Each of the 3 treatment groups was shown to be statistically significantly superior to a historical placebo control.
 
 In the same trial, 56% of patients receiving oral ondansetron 24 mg once a day experienced no nausea during the 24-hour study period, compared with 36% of patients in the oral ondansetron 8 mg twice a day group (p = 0.001) and 50% in the oral ondansetron 32 mg once a day group.
 
-In a second trial, efficacy of the oral ondansetron 24 mg once a day regimen in the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m2, was confirmed.<
+In a second trial, efficacy of the oral ondansetron 24 mg once a day regimen in the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin ≥50 mg/m2, was confirmed.
 
-### Moderately Emetogenic Chemotherapy:
+### Moderately Emetogenic Chemotherapy
 
 In 1 double-blind US study in 67 patients, ondansetron tablets 8 mg administered twice a day were significantly more effective than placebo in preventing vomiting induced by cyclophosphamide-based chemotherapy containing doxorubicin.
 Treatment response is based on the total number of emetic episodes over the 3-day study period.
 The results of this study are summarized in Table 3:
 
-Table 3.
-Emetic Episodes: Treatment Response
+Table 3: Emetic Episodes: Treatment Response
 
 |  | Ondansetron 8 mg b.i.d. Ondansetron TabletsThe first dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose. An 8 mg ondansetron tablet was administered twice a day for 2 days after completion of chemotherapy. | Placebo | p Value |
 | --- | --- | --- | --- |
@@ -41,8 +40,7 @@ In 1 double-blind US study in 336 patients, ondansetron tablets 8 mg administere
 Treatment response is based on the total number of emetic episodes over the 3-day study period.
 The results of this study are summarized in Table 4:
 
-Table 4.
-Emetic Episodes: Treatment Response
+Table 4: Emetic Episodes: Treatment Response
 
 |  | Ondansetron |  |
 | --- | --- | --- |
@@ -56,15 +54,15 @@ Emetic Episodes: Treatment Response
 | Median time to first emetic episode (h) | Undefined Median undefined since at least 50% of patients did not have any emetic episodes. | Undefined |
 | Median nausea scores (0-100)Visual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. | 6 | 6 |
 
-### Re-treatment:
+### Re-treatment
 
 In uncontrolled trials, 148 patients receiving cyclophosphamide-based chemotherapy were re-treated with ondansetron tablets 8 mg 3 times daily during subsequent chemotherapy for a total of 396 re-treatment courses.
 No emetic episodes occurred in 314 (79%) of the re-treatment courses, and only 1 to 2 emetic episodes occurred in 43 (11%) of the re-treatment courses.
 
-### Pediatric Studies:
+### Pediatric Studies
 
 Three open-label, uncontrolled, foreign trials have been performed with 182 pediatric patients 4 to 18 years old with cancer who were given a variety of cisplatin or noncisplatin regimens.
-In these foreign trials, the initial dose of ondansetron injection ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
+In these foreign trials, the initial dose of ondansetron HCl injection ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
 This was followed by the administration of ondansetron tablets ranging from 4 to 24 mg daily for 3 days.
 In these studies, 58% of the 170 evaluable patients had a complete response (no emetic episodes) on day 1.
 Two studies showed the response rates for patients less than 12 years of age who received ondansetron tablets 4 mg 3 times a day to be similar to those in patients 12 to 18 years of age who received ondansetron tablets 8 mg 3 times daily.
@@ -73,13 +71,13 @@ Overall, ondansetron tablets were well tolerated in these pediatric patients.
 
 ## Radiation-Induced Nausea and Vomiting
 
-### Total Body Irradiation:
+### Total Body Irradiation
 
 In a randomized, double-blind study in 20 patients, ondansetron tablets (8 mg given 1.5 hours before each fraction of radiotherapy for 4 days) were significantly more effective than placebo in preventing vomiting induced by total body irradiation.
 Total body irradiation consisted of 11 fractions (120 cGy per fraction) over 4 days for a total of 1,320 cGy.
 Patients received 3 fractions for 3 days, then 2 fractions on day 4.
 
-### Single High-Dose Fraction Radiotherapy:
+### Single High-Dose Fraction Radiotherapy
 
 Ondansetron was significantly more effective than metoclopramide with respect to complete control of emesis (0 emetic episodes) in a double-blind trial in 105 patients receiving single high-dose radiotherapy (800 to 1,000 cGy) over an anterior or posterior field size of ≥80 cm2 to the abdomen.
 Patients received the first dose of ondansetron tablets (8 mg) or metoclopramide (10 mg) 1 to 2 hours before radiotherapy.
@@ -87,7 +85,7 @@ If radiotherapy was given in the morning, 2 additional doses of study treatment 
 If radiotherapy was given in the afternoon, patients took only 1 further tablet that day before bedtime.
 Patients continued the oral medication on a 3 times a day basis for 3 days.
 
-### Daily Fractionated Radiotherapy:
+### Daily Fractionated Radiotherapy
 
 Ondansetron was significantly more effective than prochlorperazine with respect to complete control of emesis (0 emetic episodes) in a double-blind trial in 135 patients receiving a 1- to 4-week course of fractionated radiotherapy (180 cGy doses) over a field size of ≥100 cm2 to the abdomen.
 Patients received the first dose of ondansetron tablets (8 mg) or prochlorperazine (10 mg) 1 to 2 hours before the patient received the first daily radiotherapy fraction, with 2 subsequent doses on a 3 times a day basis.
