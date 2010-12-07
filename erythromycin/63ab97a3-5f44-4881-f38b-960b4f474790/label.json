@@ -1,18 +1,33 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050207"
+  ],
   "inn": "erythromycin",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
-    "0074-6302-05",
     "0074-6302-13",
     "0074-6302-53",
     "0074-6303-50",
-    "0074-6305-05",
     "0074-6305-13",
-    "0074-6305-53",
-    "0074-6305-60"
+    "0074-6305-53"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "EryPed 200"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "EryPed 400"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "EryPed Drops"
+    }
+  ],
   "setid": "63ab97a3-5f44-4881-f38b-960b4f474790",
   "source": "dailymed"
 }
