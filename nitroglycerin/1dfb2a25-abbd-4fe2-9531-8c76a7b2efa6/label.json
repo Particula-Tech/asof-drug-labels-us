@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021780"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Akrimax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "24090-410-08"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "nitroglycerin",
+      "name": "NitroMist"
+    }
+  ],
+  "setid": "1dfb2a25-abbd-4fe2-9531-8c76a7b2efa6",
+  "source": "dailymed"
+}
