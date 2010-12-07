@@ -34,9 +34,8 @@ Diabetes Mellitus and Hypoglycemia: Beta-adrenergic blockade may prevent the app
 This is especially important with labile diabetics.
 Beta-blockade also reduces the release of insulin in response to hyperglycemia; it may therefore be necessary to adjust the dose of antidiabetic drugs.
 
-Major Surgery: The necessity or desirability of withdrawing beta-blocking therapy before major surgery is controversial.
-Protracted severe hypotension and difficulty in restarting or maintaining a heartbeat have been reported with beta-blockers.
-The effect of labetalol HCl's alpha-adrenergic activity has not been evaluated in this setting.
+Major Surgery: Do not routinely withdraw chronic beta blocker therapy prior to surgery.
+The effect of labetalol's alpha adrenergic activity has not been evaluated in this setting.
 
 Several deaths have occurred when TRANDATE (labetalol HCI) Injection was used during surgery (including when used in cases to control bleeding).
 
@@ -46,12 +45,19 @@ Rapid Decreases of Blood Pressure: Caution must be observed when reducing severe
 A number of adverse reactions, including cerebral infarction, optic nerve infarction, angina, and ischemic changes in the electrocardiogram, have been reported with other agents when severely elevated blood pressure was reduced over time courses of several hours to as long as 1 or 2 days.
 The desired blood pressure lowering should therefore be achieved over as long a period of time as is compatible with the patient's status.
 
-# PRECAUTIONS:
+# PRECAUTIONS,
 
-General:Impaired Hepatic Function: TRANDATE Injection should be used with caution in patients with impaired hepatic function since metabolism of the drug may be diminished.
+General:
+
+Impaired Hepatic Function: TRANDATE Injection should be used with caution in patients with impaired hepatic function since metabolism of the drug may be diminished.
 
 Hypotension: Symptomatic postural hypotension (incidence, 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving TRANDATE Injection.
 Therefore, the patient's ability to tolerate an upright position should be established before permitting any ambulation.
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (labetalol is an alpha/beta blocker).
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient's ophthalmologist should be prepared for possible modifications to the surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.
 
 Following Coronary Artery Bypass Surgery: In one uncontrolled study, patients with low cardiac indices and elevated systemic vascular resistance following intravenous labetalol HCl experienced significant declines in cardiac output with little change in systemic vascular resistance.
 One of these patients developed hypotension following labetalol treatment.
@@ -66,7 +72,7 @@ It is not a disclosure of all possible adverse or intended effects.
 During and immediately following (for up to 3 hours) TRANDATE Injection, the patient should remain supine.
 Subsequently, the patient should be advised on how to proceed gradually to become ambulatory and should be observed at the time of first ambulation.
 
-When the patient is started on TRANDATE® (labetalol HCl) Tablets following adequate control of blood pressure with TRANDATE Injection, appropriate directions for titration of dosage should be provided (see DOSAGE AND ADMINISTRATION).
+When the patient is started on TRANDATE Tablets following adequate control of blood pressure with TRANDATE Injection, appropriate directions for titration of dosage should be provided (see DOSAGE AND ADMINISTRATION).
 
 As with all drugs with beta-blocking activity, certain advice to patients being treated with labetalol HCl is warranted.
 While no incident of the abrupt withdrawal phenomenon (exacerbation of angina pectoris) has been reported with labetalol HCl, dosing with TRANDATE Tablets should not be interrupted or discontinued without a physician's advice.
@@ -101,7 +107,7 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 Drug/Laboratory Test Interactions: The presence of labetalol metabolites in the urine may result in falsely elevated levels of urinary catecholamines, metanephrine, normetanephrine, and vanillylmandelic acid when measured by fluorimetric or photometric methods.
 In screening patients suspected of having a pheochromocytoma and being treated with labetalol HCl, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J Chromatogr 385:241,1987) should be employed in determining levels of catecholamines.
 
-Labetalol HCl has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab A® (thin-layer chromatographic assay) and Emit-d.a.u.® (radioenzymatic assay).
+Labetalol HCl has also been reported to produce a false-positive test for amphetamine when screening urine for the presence of drugs using the commercially available assay methods Toxi-Lab® A (thin-layer chromatographic assay) and Emit-d.a.u.® (radioenzymatic assay).
 When patients being treated with labetalol have a positive urine test for amphetamine using these techniques, confirmation should be made by using more specific methods, such as a gas chromatographic-mass spectrometer technique.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term oral dosing studies with labetalol HCl for 18 months in mice and for 2 years in rats showed no evidence of carcinogenesis.

@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019425"
+  ],
   "inn": "labetalol",
   "labeler": "Prometheus Laboratories Inc.",
   "package_ndcs": [
     "65483-355-02",
     "65483-355-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Trandate"
+    }
+  ],
   "setid": "61dd5e94-9c88-49c5-81ad-deef90639fc9",
   "source": "dailymed"
 }

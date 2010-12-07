@@ -23,7 +23,7 @@ Respiratory System: Wheezing in 1.
 Skin: Pruritus in 1.
 
 The incidence of adverse reactions depends upon the dose of labetalol HCl.
-The largest experience is with oral labetalol HCl (see TRANDATE® [labetalol hydrochloride] Tablets Product Information for details).
+The largest experience is with oral labetalol HCl (see TRANDATE [labetalol hydrochloride] Tablets Product Information for details).
 Certain of the side effects increased with increasing oral dose, as shown in the following table that depicts the entire US therapeutic trials data base for adverse reactions that are clearly or possibly dose related.
 
 | Labetalol HCI |  |  |  |  |  |  |  |  |  |

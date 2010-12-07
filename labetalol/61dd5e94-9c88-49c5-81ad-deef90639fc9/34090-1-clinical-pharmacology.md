@@ -42,7 +42,7 @@ Several mechanisms have been proposed to explain these phenomena, among them inc
 
 Although beta-adrenergic receptor blockade is useful in the treatment of angina and hypertension, there are also situations in which sympathetic stimulation is vital.
 For example, in patients with severely damaged hearts, adequate ventricular function may depend on sympathetic drive.
-Beta-adrenergic blockade may worsen A-V block by preventing the necessary facilitating effects of sympathetic activity on conduction.
+Beta2-adrenergic blockade may worsen A-V block by preventing the necessary facilitating effects of sympathetic activity on conduction.
 Beta2-adrenergic blockade results in passive bronchial constriction by interfering with endogenous adrenergic bronchodilator activity in patients subject to bronchospasm, and it may also interfere with exogenous bronchodilators in such patients.
 
 Pharmacokinetics and Metabolism: Following IV infusion of labetalol, the elimination half-life is about 5.5 hours and the total body clearance is approximately 33 mL/min per kilogram.
