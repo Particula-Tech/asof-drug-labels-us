@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090229"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Perrigo",
+  "package_ndcs": [
+    "45802-594-01",
+    "45802-594-65"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Levocetirizine dihydrochloride"
+    }
+  ],
+  "setid": "2965ef46-18db-4615-9dce-bfb0f0b3366a",
+  "source": "dailymed"
+}
