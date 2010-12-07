@@ -13,8 +13,6 @@ Embryotoxicity was characterized by decreased fetal viability, reduced live litt
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 [see Warnings and Precautions (5.6)]
 
-## 8.2 Labor and Delivery
-
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
