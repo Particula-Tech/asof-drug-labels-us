@@ -1,8 +1,8 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
-For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: In adults, 50-100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses and over 6 years, 50-100 mg daily in divided doses.
+For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: in adults, 50-100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50-100 mg daily in divided doses.
 
-For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: In adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses and over 6 years, 50-100 mg daily in divided doses.
+For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus: in adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; and over 6 years, 50-100 mg daily in divided doses.
 
 As a sedative when used as a premedication and following general anesthesia: 50-100 mg in adults, and 0.6 mg/kg in children.
 

@@ -1,19 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA088487",
+    "ANDA088488",
+    "ANDA088496"
+  ],
   "inn": "hydroxyzine",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
     "0555-0302-02",
     "0555-0302-04",
-    "0555-0302-05",
     "0555-0323-02",
     "0555-0323-04",
-    "0555-0323-05",
-    "0555-0324-02",
-    "0555-0324-04",
-    "0555-0324-05"
+    "0555-0324-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyzine pamoate",
+      "name": "Hydroxyzine Pamoate"
+    }
+  ],
   "setid": "06068fff-2e79-4721-bcc7-b0938aa20e7a",
   "source": "dailymed"
 }

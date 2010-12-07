@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Hydroxyzine pamoate is unrelated chemically to the phenothiazines, reserpine, meprobamate, or the benzodiazepines.
 
@@ -7,4 +7,4 @@ Primary skeletal muscle relaxation has been demonstrated experimentally.
 Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically.
 An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated.
 Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity.
-Hydroxyzine is rapidly absorbed from the gastrointestinal tract and clinical effects are usually noted within 15 to 30 minutes after oral administration.
+Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine pamoate's clinical effects are usually noted within 15 to 30 minutes after oral administration.

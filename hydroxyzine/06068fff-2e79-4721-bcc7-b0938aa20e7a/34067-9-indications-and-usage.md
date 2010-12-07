@@ -1,10 +1,10 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested.
 
 Useful in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses, and in histamine-mediated pruritus.
 
-As a sedative when used as a premedication and following general anesthesia, Hydroxyzine maypotentiate meperidine and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis.
+As a sedative when used as premedication and following general anesthesia, Hydroxyzine may potentiate meperidine (Demerol®) and barbiturates, so their use in pre-anesthetic adjunctive therapy should be modified on an individual basis.
 Atropine and other belladonna alkaloids are not affected by the drug.
 Hydroxyzine is not known to interfere with the action of digitalis in any way and it may be used concurrently with this agent.
 

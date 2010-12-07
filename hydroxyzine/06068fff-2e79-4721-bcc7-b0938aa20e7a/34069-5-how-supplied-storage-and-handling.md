@@ -1,28 +1,23 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
-Hydroxyzine Pamoate Capsules, USP is equivalent to hydroxyzine hydrochloride.
+Hydroxyzine Pamoate Capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride) are available as:
 
-| 25 mg: | Light yellow opaque cap/pink opaque body filled with yellow powder. Imprinted in black ink stylized barrover 323/25. |  |
-| --- | --- | --- |
-|  | Available in bottles of: |  |
-| 100 | NDC 0555-0323-02 |  |
-| 500 | NDC 0555-0323-04 |  |
-| 1000 | NDC 0555-0323-05 |  |
+| 25 mg: | Light yellow opaque cap and pink opaque body filled with yellow powder. Imprinted in black ink stylized barr over 323 on one piece and 25 on the other piece. Available in bottles of 100 and 500. |
+| --- | --- |
+| 50 mg: | Light yellow opaque cap and maroon opaque body filled with yellow powder. Imprinted in black ink stylized barr over 302 on one piece and 50 on the other piece. Available in bottles of 100 and 500. |
+| 100 mg: | Light yellow opaque cap and pink opaque body filled with yellow powder. Imprinted in black ink stylized barr over 324 on one piece and 100 on the other piece. Available in bottles of 100. |
 
-| 50 mg: | Light yellow opaque cap/maroon opaque body filled with yellow powder. Imprinted in black ink stylized barr over 302 /50. |  |
-| --- | --- | --- |
-|  | Available in bottles of: |  |
-| 100 | NDC 0555-0302-02 |  |
-| 500 | NDC 0555-0302-04 |  |
-| 1000 | NDC 0555-0302-05 |  |
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-| 100 mg: | Light yellow opaque cap/pink opaque body filled with yellow powder. Imprinted in black ink stylized barr over 324/100. |  |
-| --- | --- | --- |
-|  | Available in bottles of: |  |
-| 100 | NDC 0555-0324-02 |  |
-| 500 | NDC 0555-0324-04 |  |
-| 1000 | NDC 0555-0324-05 |  |
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Dispense with a child-resistant closure in a well-closed container as defined in the USP/NF.
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Store at controlled room temperature 15°-30°C (59°-86°F) [see USP].
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+11001678
+
+Iss.
+6/2010
