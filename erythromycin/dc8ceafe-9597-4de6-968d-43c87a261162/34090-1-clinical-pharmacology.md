@@ -16,7 +16,7 @@ The erythromycin particles in PCE tablets are coated with a polymer whose dissol
 This coating allows for minimal release of erythromycin in acidic environments, e.g., stomach.
 This delivery system is designed for optimal drug release and absorption in the small intestine.
 In multiple-dose, steady-state studies, PCE tablets have demonstrated rapid and generally adequate drug delivery in both fasting and nonfasting conditions.
-However, the presence of food results in lower blood levels, and optimal blood levels are obtained when PCE tablets are given in the fasting state (at least½ hour and preferably 2 hours before meals).
+However, the presence of food results in lower blood levels, and optimal blood levels are obtained when PCE tablets are given in the fasting state (at least ½ hour and preferably 2 hours before meals).
 Bioavailability data are available from Abbott Laboratories, Dept.
 4PI.
 
@@ -85,14 +85,24 @@ Moraxella catarrhalis
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
 These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MIC's should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder.
+Standardized procedures are based on a dilution method1,2 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder.
 The MIC values should be interpreted according to the following criteria:
+
+For Staphylococcus spp:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
 | ≤ 0.5 | Susceptible (S) |
 | 1-4 | Intermediate (I) |
 | ≥ 8 | Resistant (R) |
+
+For Streptococcus spp. and Streptococcus pneumoniae:
+
+| MIC (µg/mL) | Interpretation |
+| --- | --- |
+| ≤ 0.25 | Susceptible (S) |
+| 0.5 | Intermediate (I) |
+| ≥ 1 | Resistant (R) |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -105,22 +115,34 @@ Standard erythromycin powder should provide the following MIC values:
 
 | Microorganism | MIC (µg/mL) |
 | --- | --- |
-| S. aureus ATCC 29213 | 0.12-0.5 |
+| S. aureus ATCCa 29213 | 0.25-1 |
 | E. faecalis ATCC 29212 | 1-4 |
+| S. pneumoniae ATCC 49619 | 0.03-0.12 |
+| a. ATCC is a registered trademark of the American Type Culture Collection |  |
 
 #### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 15-µg erythromycin to test the susceptibility of microorganisms to erythromycin.
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 15-µg erythromycin disk should be interpreted according to the following criteria:
+
+For Staphylococcus spp:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
 | ≥ 23 | Susceptible (S) |
 | 14-22 | Intermediate (I) |
 | ≤ 13 | Resistant (R) |
+
+For Streptococcus spp. and Streptococcus pneumoniae:
+
+| Zone Diameter (mm) | Interpretation |
+| --- | --- |
+| ≥ 21 | Susceptible (S) |
+| 16-20 | Intermediate (I) |
+| ≤ 15 | Resistant (R) |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for erythromycin.
@@ -131,3 +153,4 @@ For the diffusion technique, the 15-µg erythromycin disk should provide the fol
 | Microorganism | Zone Diameter (mm) |
 | --- | --- |
 | S. aureus ATCC 25923 | 22-30 |
+| S. pneumoniae ATCC 49619 | 25-30 |

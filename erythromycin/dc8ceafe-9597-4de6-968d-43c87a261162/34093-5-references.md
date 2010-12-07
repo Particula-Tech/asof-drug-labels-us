@@ -1,19 +1,22 @@
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically, Third Edition.
-   Approved Standard NCCLS Document M7-A3, Vol. 13, No. 25 NCCLS, Villanova, PA, December 1993.
-2. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests, Fifth Edition.
-   Approved Standard NCCLS Document M2-A5, Vol. 13, No. 24 NCCLS, Villanova, PA, December 1993.
-3. Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American Heart Association: Prevention of Rheumatic Fever.
+1. Clinical and Laboratory Standards Institute.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically, 7th ed.
+   Approved Standard, CLSI Document M07-A7, Vol. 26(2).
+   CLSI, Wayne, PA, Jan.
+   2006.
+2. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Susceptibility Testing, 18th Informational Supplement, CLSI Document M100-S18, Vol 28(1).
+   CLSI, Wayne, PA, Jan.
+   2008.
+3. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests, 9th ed.
+   Approved Standard CLSI Document M02-A9, Vol. 26(1).
+   CLSI, Wayne, PA, Jan.
+   2006.
+4. Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American Heart Association: Prevention of Rheumatic Fever.
    Circulation.
    78(4):1082-1086, October 1988.
-4. Honein, M.A., et. al.: Infantile hypertrophic pyloric stenosis after pertussis prophylaxis with erythromycin: a case review and cohort study.
-   The Lancet 1999;354 (9196):2101-5.
-5. Data on file, Abbott Laboratories.
-
-PCE 333 mg: U.S. Pat.
-No. 4,874,614.
-
-PCE 500 mg: U.S. Pat.
-No. 4,874,614 and 5,009,897.
+5. Honein, M.A., et. al.: Infantile hypertrophic pyloric stenosis after pertussis prophylaxis with erythromycin: a case review and cohort study.
+   The Lancet 1999; 354 (9196):2101-5.
+6. Data on file, Abbott Laboratories.

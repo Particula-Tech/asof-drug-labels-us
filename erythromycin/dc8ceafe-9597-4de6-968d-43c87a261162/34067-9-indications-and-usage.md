@@ -48,10 +48,10 @@ Although no controlled clinical efficacy studies have been conducted, in vitro a
 
 ### Prevention of Initial Attacks of Rheumatic Fever
 
-Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).3 Erythromycin is indicated for the treatment of penicillin-allergic patients.
+Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract e.g., tonsillitis, or pharyngitis).4 Erythromycin is indicated for the treatment of penicillin-allergic patients.
 The therapeutic dose should be administered for ten days.
 
 ### Prevention of Recurrent Attacks of Rheumatic Fever
 
 Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever.
-In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).3
+In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).4

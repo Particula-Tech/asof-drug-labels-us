@@ -17,11 +17,11 @@ For more severe infections this dosage may be doubled but should not exceed 4 g 
 
 In the treatment of streptococcal infections of the upper respiratory tract (e.g., tonsillitis or pharyngitis), the therapeutic dosage of erythromycin should be administered for at least ten days.
 
-The American Heart Association suggests a dosage of 250 mg of erythromycin orally, twice a day in long-term prophylaxis of streptococcal upper respiratory tract infections for the prevention of recurring attacks of rheumatic fever in patients allergic to penicillin and sulfonamides.3
+The American Heart Association suggests a dosage of 250 mg of erythromycin orally, twice a day in long-term prophylaxis of streptococcal upper respiratory tract infections for the prevention of recurring attacks of rheumatic fever in patients allergic to penicillin and sulfonamides.4
 
 ## Conjunctivitis of the Newborn Caused by Chlamydia trachomatis
 
-Oral erythromycin suspension 50 mg/kg/day in 4 divided doses for at least 2 weeks.3
+Oral erythromycin suspension 50 mg/kg/day in 4 divided doses for at least 2 weeks.4
 
 ## Pneumonia of Infancy Caused by Chlamydia trachomatis
 
@@ -30,15 +30,15 @@ Although the optimal duration of therapy has not been established, the recommend
 ## Urogenital Infections During Pregnancy Due to Chlamydia trachomatis
 
 Although the optimal dose and duration of therapy have not been established, the suggested treatment is 500 mg of erythromycin by mouth four times a day or two erythromycin 333 mg tablets orally every 8 hours on an empty stomach for at least 7 days.
-For women who cannot tolerate this regimen, a decreased dose of one erythromycin 500 mg tablet orally every 12 hours, one 333 mg tablet orally every 8 hours or 250 mg by mouth four times a day should be used for at least 14 days.5
+For women who cannot tolerate this regimen, a decreased dose of one erythromycin 500 mg tablet orally every 12 hours, one 333 mg tablet orally every 8 hours or 250 mg by mouth four times a day should be used for at least 14 days.6
 
 ## For adults with uncomplicated urethral, endocervical, or rectal infections caused by Chlamydia trachomatis, when tetracycline is contraindicated or not tolerated
 
-500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least 7 days.5
+500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least 7 days.6
 
 ## For patients with nongonococcal urethritis caused by Ureaplasma urealyticum when tetracycline is contraindicated or not tolerated
 
-500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least seven days.5
+500 mg of erythromycin by mouth four times a day or two 333 mg tablets orally every 8 hours for at least seven days.6
 
 ## Primary Syphilis
 

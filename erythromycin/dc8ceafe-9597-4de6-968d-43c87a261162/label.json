@@ -1,12 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050611"
+  ],
   "inn": "erythromycin",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-3389-13",
     "0074-6290-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "erythromycin base",
+      "name": "PCE"
+    },
+    {
+      "form": "TABLET",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "PCE"
+    }
+  ],
   "setid": "dc8ceafe-9597-4de6-968d-43c87a261162",
   "source": "dailymed"
 }

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-PCE (erythromycin particles in tablets) is supplied as unscored, ovaloid, Dispertab tablets in the following strengths and packages.
+PCE (erythromycin particles in tablets) is supplied as unscored, ovaloid, Dispertab® tablets in the following strengths and packages.
 
 333 mg, pink-speckled white (imprinted with Abbott “A” logo and PCE):
 
