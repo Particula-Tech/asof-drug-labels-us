@@ -68,3 +68,8 @@ Inform patients taking REVATIO not to take VIAGRA or other PDE5 inhibitors.
 Use REVATIO with caution in patients with anatomical deformation of the penis (e.g., angulation, cavernosal fibrosis, or Peyronie's disease) or in patients who have conditions, which may predispose them to priapism (e.g., sickle cell anemia, multiple myeloma, or leukemia).
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism (painful erection greater than 6 hours in duration) is not treated immediately, penile tissue damage and permanent loss of potency could result.
+
+## 5.8 Pulmonary Hypertension Secondary to Sickle Cell Anemia
+
+In a small, prematurely terminated study of patients with pulmonary hypertension (PH) secondary to sickle cell disease, vaso-occlusive crises requiring hospitalization were more commonly reported by patients who received REVATIO than by those randomized to placebo.
+The effectiveness of REVATIO in PH secondary to sickle cell anemia has not been established.

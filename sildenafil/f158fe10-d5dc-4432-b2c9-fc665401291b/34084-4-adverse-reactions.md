@@ -6,6 +6,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Vision loss [see Warnings and Precautions (5.4)]
 - Hearing loss [see Warnings and Precautions (5.5)]
 - Priapism [see Warnings and Precautions (5.7)]
+- Vaso-occlusive crisis [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
