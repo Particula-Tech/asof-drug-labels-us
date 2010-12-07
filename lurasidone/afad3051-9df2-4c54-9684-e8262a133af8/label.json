@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA200603"
+  ],
+  "inn": "lurasidone",
+  "labeler": "Sunovion Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63402-304-01",
+    "63402-304-04",
+    "63402-304-07",
+    "63402-304-10",
+    "63402-304-30",
+    "63402-304-50",
+    "63402-304-90",
+    "63402-308-01",
+    "63402-308-04",
+    "63402-308-07",
+    "63402-308-10",
+    "63402-308-30",
+    "63402-308-50",
+    "63402-308-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lurasidone hydrochloride",
+      "name": "Latuda"
+    }
+  ],
+  "setid": "afad3051-9df2-4c54-9684-e8262a133af8",
+  "source": "dailymed"
+}
