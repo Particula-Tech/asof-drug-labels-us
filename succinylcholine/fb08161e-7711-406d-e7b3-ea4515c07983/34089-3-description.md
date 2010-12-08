@@ -13,10 +13,10 @@ It is a white, odorless, slightly bitter powder, very soluble in water.
 The drug is incompatible with alkaline solutions but relatively stable in acid solutions.
 Solutions of the drug lose potency unless refrigerated.
 
-Solutions intended for multiple dose administration contain 0.18% methylparaben and 0.02% propylparaben as preservatives (List Nos. 6629 and 9085).
-Solutions intended for single-dose administration contain no preservatives.
+Solution intended for multiple-dose administration contains 0.18% methylparaben and 0.02% propylparaben as preservatives (List No. 6629).
+Solution intended for single-dose administration contains no preservatives.
 Unused solution should be discarded.
-Products not requiring dilution (multiple-dose fliptop vial and Abboject syringe) contain sodium chloride to render isotonic.
+Product not requiring dilution (multiple-dose fliptop vial) contains sodium chloride to render isotonic.
 May contain sodium hydroxide and/or hydrochloric acid for pH adjustment. pH is 3.6 (3.0 to 4.5).
 See table in HOW SUPPLIED for characteristics.
 

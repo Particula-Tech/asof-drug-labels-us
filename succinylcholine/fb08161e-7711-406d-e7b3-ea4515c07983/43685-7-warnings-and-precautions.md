@@ -16,6 +16,13 @@ The risk is dependent on the extent and location of the injury.
 The precise time of onset and the duration of the risk period are undetermined.
 Patients with chronic abdominal infection, subarachnoid hemorrhage, or conditions causing degeneration of central and peripheral nervous systems should receive succinylcholine with GREAT CAUTION because of the potential for developing severe hyperkalemia.
 
+Anaphylaxis
+
+Severe anaphylactic reactions to neuromuscular blocking agents, including succinylcholine, have been reported.
+These reactions have, in some cases, been life-threatening and fatal.
+Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
+Precautions should also be taken in those individuals who have had previous anaphylactic reactions to other neuromuscular blocking agents since cross-reactivity between neuromuscular blocking agents, both depolarizing and non-depolarizing, has been reported in this class of drugs.
+
 Malignant Hyperthermia: Succinylcholine administration has been associated with acute onset of malignant hyperthermia, a potentially fatal hypermetabolic state of skeletal muscle.
 The risk of developing malignant hyperthermia following succinylcholine administration increases with the concomitant administration of volatile anesthetics.
 Malignant hyperthermia frequently presents as intractable spasm of the jaw muscles (masseter spasm) which may progress to generalized rigidity, increased oxygen demand, tachycardia, tachypnea and profound hyperpyrexia.
@@ -36,13 +43,9 @@ It should not be used in instances in which an increase in intraocular pressure 
 
 Succinylcholine is acidic (pH = 3.5) and should not be mixed with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
 
-# PRECAUTIONS:
+# PRECAUTIONS: (SEE BOX WARNING)
 
-(SEE BOX WARNING)
-
-## General:
-
-When succinylcholine is given over a prolonged period of time, the characteristic depolarization block of the myoneural junction (Phase I block) may change to a block with characteristics superficially resembling a non-depolarizing block (Phase II block).
+General: When succinylcholine is given over a prolonged period of time, the characteristic depolarization block of the myoneural junction (Phase I block) may change to a block with characteristics superficially resembling a non-depolarizing block (Phase II block).
 Prolonged respiratory muscle paralysis or weakness may be observed in patients manifesting this transition to Phase II block.
 The transition from Phase I to Phase II block has been reported in 7 of 7 patients studied under halothane anesthesia after an accumulated dose of 2 to 4 mg/kg succinylcholine (administered in repeated, divided doses).
 The onset of Phase II block coincided with the onset of tachyphylaxis and prolongation of spontaneous recovery.
@@ -66,8 +69,11 @@ Succinylcholine may increase intragastric pressure, which could result in regurg
 
 Neuromuscular blockade may be prolonged in patients with hypokalemia or hypocalcemia.
 
+Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
+In addition, inform your patients that severe anaphylactic reactions to neuromuscular blocking agents, including succinylcholine have been reported.
+
 Reduced Plasma Cholinesterase Activity: Succinylcholine should be used carefully in patients with reduced plasma cholinesterase (pseudocholinesterase) activity.
-The likelihood of prolonged neuromuscular block following administration of succinylcholine must be considered in such patients (see DOSAGE and ADMINISTRATION).
+The likelihood of prolonged neuromuscular block following administration of succinylcholine must be considered in such patients (see DOSAGE AND ADMINISTRATION).
 
 Plasma cholinesterase activity may be diminished in the presence of genetic abnormalities of plasma cholinesterase (e.g., patients heterozygous or homozygous for atypical plasma cholinesterase gene), pregnancy, severe liver or kidney disease, malignant tumors, infections, burns, anemia, decompensated heart disease, peptic ulcer, or myxedema.
 Plasma cholinesterase activity may also be diminished by chronic administration of oral contraceptives, glucocorticoids, or certain monoamine oxidase inhibitors and by irreversible inhibitors of plasma cholinesterase (e.g., organophosphate insecticides, echothiophate, and certain antineoplastic drugs).
@@ -76,20 +82,14 @@ Patients homozygous for atypical plasma cholinesterase gene (1 in 2500 patients)
 In these patients, a 5 to 10 mg test dose of succinylcholine may be administered to evaluate sensitivity to succinylcholine, or neuromuscular blockade may be produced by the cautious administration of a 1 mg/mL solution of succinylcholine by slow intravenous infusion.
 Apnea or prolonged muscle paralysis should be treated with controlled respiration.
 
-## Drug Interactions:
-
-Drugs which may enhance the neuromuscular blocking action of succinylcholine include: promazine, oxytocin, aprotinin, certain non-penicillin antibiotics, quinidine, β-adrenergic blockers, procainamide, lidocaine, trimethaphan, lithium carbonate, magnesium salts, quinine, chloroquine, diethylether, isoflurane, desflurane, metoclopramide and terbutaline.
+Drug Interactions: Drugs which may enhance the neuromuscular blocking action of succinylcholine include: promazine, oxytocin, aprotinin, certain non-penicillin antibiotics, quinidine, β-adrenergic blockers, procainamide, lidocaine, trimethaphan, lithium carbonate, magnesium salts, quinine, chloroquine, diethylether, isoflurane, desflurane, metoclopramide and terbutaline.
 The neuromuscular blocking effect of succinylcholine may be enhanced by drugs that reduce plasma cholinesterase activity (e.g., chronically administered oral contraceptives, glucocorticoids, or certain monoamine oxidase inhibitors) or by drugs that irreversibly inhibit plasma cholinesterase (see PRECAUTIONS).
 
 If other neuromuscular blocking agents are to be used during the same procedure, the possibility of a synergistic or antagonistic effect should be considered.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility: There have been no long-term studies performed in animals to evaluate carcinogenic potential.
 
-There have been no long-term studies performed in animals to evaluate carcinogenic potential.
-
-## Pregnancy:
-
-Teratogenic Effects: Pregnancy Category C.
+Pregnancy: Teratogenic Effects: Pregnancy Category C.
 
 Animal reproduction studies have not been conducted with succinylcholine chloride.
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
@@ -98,20 +98,14 @@ Succinylcholine should be given to a pregnant woman only if clearly needed.
 Nonteratogenic Effects: Plasma cholinesterase levels are decreased by approximately 24% during pregnancy and for several days postpartum.
 Therefore, a higher proportion of patients may be expected to show increased sensitivity (prolonged apnea) to succinylcholine when pregnant than when nonpregnant.
 
-## Labor and Delivery:
-
-Succinylcholine is commonly used to provide muscle relaxation during delivery by caesarean section.
+Labor and Delivery: Succinylcholine is commonly used to provide muscle relaxation during delivery by caesarean section.
 While small amounts of succinylcholine are known to cross the placental barrier, under normal conditions the quantity of drug that enters fetal circulation after a single dose of 1 mg/kg to the mother should not endanger the fetus.
 However, since the amount of drug that crosses the placental barrier is dependent on the concentration gradient between the maternal and fetal circulations, residual neuromuscular blockade (apnea and flaccidity) may occur in the newborn after repeated high doses to, or in the presence of atypical plasma cholinesterase in, the mother.
 
-## Nursing Mothers:
-
-It is not known whether succinylcholine is excreted in human milk.
+Nursing Mothers: It is not known whether succinylcholine is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised following succinylcholine administration to a nursing woman.
 
-## Pediatric Use:
-
-Safety and effectiveness of succinylcholine chloride have been established in pediatric patient age groups, neonate to adolescent.
+Pediatric Use: Safety and effectiveness of succinylcholine chloride have been established in pediatric patient age groups, neonate to adolescent.
 There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy pediatric patients who receive succinylcholine (see BOX WARNING).
 Many of these pediatric patients were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
 The syndrome often presents as sudden cardiac arrest within minutes after the administration of succinylcholine.
@@ -131,9 +125,7 @@ As in adults, the incidence of bradycardia in pediatric patients is higher follo
 The incidence and severity of bradycardia is higher in pediatric patients than adults.
 Pre-treatment with anticholinergic agents, e.g., atropine, may reduce the occurrence of bradyarrhythmias.
 
-## Geriatric Use:
-
-Clinical studies of Quelicin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of Quelicin did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

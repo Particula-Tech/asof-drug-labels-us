@@ -1,12 +1,4 @@
-SUCCINYLCHOLINE CHLORIDE
-
-INJECTION, USP
-
-A short-acting depolarizing
-
-skeletal muscle relaxant.
-
-Abboject® Syringe
+A short-acting depolarizing skeletal muscle relaxant.
 
 Fliptop Vial
 
