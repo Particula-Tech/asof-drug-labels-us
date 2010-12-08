@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA019012"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "McNeil Consumer Healthcare Div McNeil-PPC, Inc",
+  "package_ndcs": [
+    "50580-109-02",
+    "50580-109-03",
+    "50580-109-04",
+    "50580-109-11",
+    "50580-109-29",
+    "50580-109-65",
+    "50580-109-75",
+    "50580-109-76"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ibuprofen",
+      "name": "Motrin"
+    }
+  ],
+  "setid": "8c8642ef-ae86-4de5-8869-e608105454d6",
+  "source": "dailymed"
+}
