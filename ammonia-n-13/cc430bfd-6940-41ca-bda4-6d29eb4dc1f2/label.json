@@ -1,0 +1,22 @@
+{
+  "application_numbers": [],
+  "inn": "ammonia-n-13",
+  "labeler": "Precision Nuclear LLC",
+  "package_ndcs": [
+    "52768-100-03",
+    "52768-100-05",
+    "52768-100-10",
+    "52768-100-11",
+    "52768-100-30",
+    "52768-100-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ammonia n-13",
+      "name": "AMMONIA N-13"
+    }
+  ],
+  "setid": "cc430bfd-6940-41ca-bda4-6d29eb4dc1f2",
+  "source": "dailymed"
+}
