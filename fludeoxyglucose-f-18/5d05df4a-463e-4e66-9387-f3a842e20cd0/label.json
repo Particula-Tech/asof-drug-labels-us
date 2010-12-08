@@ -1,0 +1,19 @@
+{
+  "application_numbers": [],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "Triad Isotopes, Inc.",
+  "package_ndcs": [
+    "60055-647-10",
+    "60055-647-20",
+    "60055-647-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fludeoxyglucose f-18",
+      "name": "Fludeoxyglucose F 18"
+    }
+  ],
+  "setid": "5d05df4a-463e-4e66-9387-f3a842e20cd0",
+  "source": "dailymed"
+}
