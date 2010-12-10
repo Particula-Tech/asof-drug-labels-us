@@ -127,7 +127,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: APRIL 2009 T2009-25/T2009-26
+REV: NOVEMBER 2010 T2010-106/T2009-26
 
 Manufactured for:
 

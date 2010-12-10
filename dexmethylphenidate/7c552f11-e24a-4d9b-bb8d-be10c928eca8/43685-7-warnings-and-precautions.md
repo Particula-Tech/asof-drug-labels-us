@@ -90,9 +90,6 @@ Human pharmacologic studies have shown that racemic methylphenidate may inhibit 
 Downward dose adjustments of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentration (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.
 
-Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2 agonists has not been systematically evaluated.
-
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Lifetime carcinogenicity studies have not been carried out with dexmethylphenidate.
