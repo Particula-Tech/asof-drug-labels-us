@@ -56,7 +56,7 @@ ASTEPRO Nasal Spray can cause sleepiness:
 What are the possible side effects of ASTEPRO Nasal Spray?
 Side effects of ASTEPRO Nasal Spray include:
 
-- unusual taste (bitter)
+- unusual taste (bitter or sweet)
 - nose pain or discomfort
 - nosebleeds
 - headache
@@ -182,6 +182,6 @@ To keep the medicine from leaking out, use firm pressure when you put the pump b
 6.
 After cleaning, follow the instructions for priming.
 
-Manufactured by: MEDA Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 ©2009 Meda Pharmaceuticals Inc.
+Manufactured by: MEDA Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120 ©2010 Meda Pharmaceuticals Inc.
 
-ASTEPRO and MEDA Pharmaceuticals are registered trademarks of Meda Pharmaceuticals Inc. U.S. Patent Pending IN-023D6-04 Revised 9/09
+ASTEPRO and MEDA Pharmaceuticals are registered trademarks of Meda Pharmaceuticals Inc. U.S. Patent Pending IN-023D6-05 Revised 11/10

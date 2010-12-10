@@ -71,6 +71,10 @@ Fifty-four patients (12%) treated with ASTEPRO Nasal Spray 0.15% and 17 patients
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during the post approval use of the Astelin brand of azelastine hydrochloride 0.1% nasal spray (total daily dose 0.55 mg to 1.1 mg).
+During the post approval use of ASTEPRO Nasal Spray 0.1% and 0.15%, the following adverse reactions have been identified.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Adverse reactions reported include: abdominal pain, nasal burning, nausea, sweet taste, and throat irritation.
+
+Additionaly, the following adverse reactions have been identified during the post approval use of the Astelin brand of azelastine hydrochloride 0.1% nasal spray (total daily dose 0.55 mg to 1.1 mg).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions reported include the following: anaphylactoid reaction, application site irritation, atrial fibrillation, blurred vision, chest pain, confusion, dizziness, dyspnea, facial edema, hypertension, involuntary muscle contractions, nervousness, palpitations, paresthesia, parosmia, paroxysmal sneezing, pruritus, rash, disturbance or loss of sense of smell and/or taste, tachycardia, tolerance, urinary retention, and xerophthalmia.
