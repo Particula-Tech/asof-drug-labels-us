@@ -138,11 +138,3 @@ Special senses: cataract, conjunctivitis, dry eyes, ear disorder, ear pain, eye 
 Urogenital: breast pain, dysuria, mastitis, menorrhagia, metrorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, vaginal moniliasis
 
 The following adverse experiences have been reported rarely with ocular pilocarpine: A-V block, agitation, ciliary congestion, confusion, delusion, depression, dermatitis, middle ear disturbance, eyelid twitching, malignant glaucoma, iris cysts, macular hole, shock, and visual hallucination.
-
-## Management of Overdose
-
-Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
-100 mg of pilocarpine is considered potentially fatal.
-Overdosage should be treated with atropine titration (0.5 mg to 1.0 mg given subcutaneously or intravenously) and supportive measures to maintain respiration and circulation.
-Epinephrine (0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
-It is not known if pilocarpine is dialyzable.

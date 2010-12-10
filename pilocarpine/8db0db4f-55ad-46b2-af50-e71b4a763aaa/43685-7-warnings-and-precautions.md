@@ -1,17 +1,17 @@
 # WARNINGS
 
-## Cardiovascular Disease
+Cardiovascular Disease
 
 Patients with significant cardiovascular disease may be unable to compensate for transient changes in hemodynamics or rhythm induced by pilocarpine.
 Pulmonary edema has been reported as a complication of pilocarpine toxicity from high ocular doses given for acute angle-closure glaucoma.
 Pilocarpine should be administered with caution in and under close medical supervision of patients with significant cardiovascular disease.
 
-## Ocular
+Ocular
 
 Ocular formulations of pilocarpine have been reported to cause visual blurring which may result in decreased visual acuity, especially at night and in patients with central lens changes, and to cause impairment of depth perception.
 Caution should be advised while driving at night or performing hazardous activities in reduced lighting.
 
-## Pulmonary Disease
+Pulmonary Disease
 
 Pilocarpine has been reported to increase airway resistance, bronchial smooth muscle tone, and bronchial secretions.
 Pilocarpine hydrochloride should be administered with caution to and under close medical supervision in patients with controlled asthma, chronic bronchitis, or chronic obstructive pulmonary disease requiring pharmacotherapy.
@@ -92,7 +92,7 @@ Pilocarpine hydrochloride tablets should be administered to individuals who are 
 
 ### Teratogenic effects
 
-#### Pregnancy Category C
+Pregnancy Category C
 
 Pilocarpine was associated with a reduction in the mean fetal body weight and an increase in the incidence of skeletal variations when given to pregnant rats at a dosage of 90 mg/kg/day (approximately 26 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates).
 These effects may have been secondary to maternal toxicity.
@@ -111,7 +111,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-### Head and Neck Cancer Patients
+### Head & Neck Cancer Patients
 
 In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
 Of these patients, 97/369 (61/217 receiving pilocarpine) were over the age of 65 years.

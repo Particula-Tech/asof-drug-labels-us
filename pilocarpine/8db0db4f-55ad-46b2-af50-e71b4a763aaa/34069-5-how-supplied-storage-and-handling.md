@@ -15,3 +15,7 @@ They are supplied as follows:
 Bottles of 100; NDC 0527-1407-01
 
 Store at 20°- 25°C(68°-77°F) [see USP Controlled Room Temperature].
+
+Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+
+Revised 06/09
