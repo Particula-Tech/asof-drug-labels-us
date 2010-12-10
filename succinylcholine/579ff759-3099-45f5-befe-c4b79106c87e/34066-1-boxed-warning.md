@@ -1,6 +1,6 @@
 # WARNING
 
-## RISK OF CARDIAC ARREST FROM HYPERKALEMIC RHABDOMYOLYSIS
+RISK OF CARDIAC ARREST FROM HYPERKALEMIC RHABDOMYOLYSIS
 
 There have been rare reports of acute rhabdomyolysis with hyperkalemia followed by ventricular dysrhythmias, cardiac arrest, and death after the administration of succinylcholine to apparently healthy children who were subsequently found to have undiagnosed skeletal muscle myopathy, most frequently Duchenne's muscular dystrophy.
 

@@ -8,6 +8,13 @@ IN EMERGENCY SITUATIONS, HOWEVER, IT MAY BE NECESSARY TO ADMINISTER SUCCINYLCHOL
 
 SUCCINYLCHOLINE IS METABOLIZED BY PLASMA CHOLINESTERASE AND SHOULD BE USED WITH CAUTION, IF AT ALL, IN PATIENTS KNOWN TO BE OR SUSPECTED OF BEING HOMOZYGOUS FOR THE ATYPICAL PLASMA CHOLINESTERASE GENE.
 
+## Anaphylaxis
+
+Severe anaphylactic reactions to neuromuscular blocking agents, including ANECTINE, have been reported.
+These reactions have in some cases been life-threatening and fatal.
+Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
+Precautions should also be taken in those individuals who have had previous anaphylactic reactions to other neuromuscular blocking agents since cross-reactivity between neuromuscular blocking agents, both depolarizing and non-depolarizing, has been reported in this class of drugs.
+
 ## Hyperkalemia
 
 (SEE BOX WARNING.)
@@ -58,7 +65,7 @@ Tachyphylaxis was not associated with the transition to Phase II block, and 50% 
 
 When Phase II block is suspected in cases of prolonged neuromuscular blockade, positive diagnosis should be made by peripheral nerve stimulation prior to administration of any anticholinesterase drug.
 Reversal of Phase II block is a medical decision which must be made upon the basis of the individual, clinical pharmacology, and the experience and judgment of the physician.
-The presence of Phase II block is indicated by fade of responses to successive stimuli (preferably "train-of-four").
+The presence of Phase II block is indicated by fade of responses to successive stimuli (preferably “train-of-four”).
 The use of an anticholinesterase drug to reverse Phase II block should be accompanied by appropriate doses of an anticholinergic drug to prevent disturbances of cardiac rhythm.
 After adequate reversal of Phase II block with an anticholinesterase agent, the patient should be continually observed for at least 1 hour for signs of return of muscle relaxation.
 Reversal should not be attempted unless: (1) a peripheral nerve stimulator is used to determine the presence of Phase II block (since anticholinesterase agents will potentiate succinylcholine-induced Phase I block), and (2) spontaneous recovery of muscle twitch has been observed for at least 20 minutes and has reached a plateau with further recovery proceeding slowly; this delay is to ensure complete hydrolysis of succinylcholine by plasma cholinesterase prior to administration of the anticholinesterase agent.
@@ -71,6 +78,9 @@ Succinylcholine may cause a transient increase in intracranial pressure; however
 Succinylcholine may increase intragastric pressure, which could result in regurgitation and possible aspiration of stomach contents.
 
 Neuromuscular blockade may be prolonged in patients with hypokalemia or hypocalcemia.
+
+Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
+In addition, inform your patients that severe anaphylactic reactions to neuromuscular blocking agents, including ANECTINE have been reported.
 
 ## Reduced Plasma Cholinesterase Activity
 
@@ -124,7 +134,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 ## Pediatric Use
 
 There are rare reports of ventricular dysrhythmias and cardiac arrest secondary to acute rhabdomyolysis with hyperkalemia in apparently healthy children who receive succinylcholine (see BOX WARNING).
-Many of these children were subsequently found to have a skeletal muscle myopathy such as Duchenne's muscular dystrophy whose clinical signs were not obvious.
+Many of these children were subsequently found to have a skeletal muscle myopathy such as Duchenne’s muscular dystrophy whose clinical signs were not obvious.
 The syndrome often presents as sudden cardiac arrest within minutes after the administration of succinylcholine.
 These children are usually, but not exclusively, males, and most frequently 8 years of age or younger.
 There have also been reports in adolescents.

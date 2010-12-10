@@ -1,15 +1,16 @@
 {
   "application_numbers": [
-    "ANDA008453"
+    "NDA008453"
   ],
   "inn": "succinylcholine",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
+    "0781-3009-70",
     "0781-3009-95"
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, SOLUTION",
       "generic": "succinylcholine chloride",
       "name": "Anectine"
     }
