@@ -14,6 +14,3 @@ Since the modified release characteristics of Focalin XR are pH dependent, the c
 Human pharmacologic studies have shown that racemic methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), and tricyclic drugs (e.g., imipramine, clomipramine, desipramine).
 Downward dose adjustments of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentration (or, in the case of coumarin, coagulation times), when initiating or discontinuing methylphenidate.
-
-Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally-acting alpha-2-agonists has not been systematically evaluated.
