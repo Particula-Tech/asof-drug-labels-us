@@ -14,6 +14,6 @@ See USP Controlled Room Temperature.
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-9795110
+9795111
 
 U.S. Patent Nos. US 7,169,780

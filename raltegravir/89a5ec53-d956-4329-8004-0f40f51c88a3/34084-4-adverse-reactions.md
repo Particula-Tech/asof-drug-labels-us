@@ -214,6 +214,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic System Disorders: thrombocytopenia
 
+Gastrointestinal Disorders: diarrhea
+
 Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
 
 Psychiatric Disorders: anxiety, paranoia

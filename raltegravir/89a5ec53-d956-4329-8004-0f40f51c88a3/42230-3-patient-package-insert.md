@@ -116,7 +116,7 @@ When ISENTRESS has been given with other anti-HIV drugs, side effects included:
 - depression
 - suicidal thoughts and actions
 
-Other side effects include rash, severe skin reactions, feeling anxious, paranoia, low blood platelet count.
+Other side effects include: rash, severe skin reactions, feeling anxious, paranoia, low blood platelet count, diarrhea.
 
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to treat the HIV infection and help to strengthen the immune system.
@@ -160,8 +160,8 @@ In addition, the film coating contains the following inactive ingredients: polyv
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Revised June 2010
+Revised November 2010
 
-9795110
+9795111
 
 U.S. Patent Nos. US 7,169,780
