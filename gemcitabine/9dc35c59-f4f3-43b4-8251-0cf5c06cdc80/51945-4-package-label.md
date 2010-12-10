@@ -6,8 +6,6 @@ VIAL No. 7501
 
 Rx
 
-Lilly
-
 GEMZAR®
 
 Gemcitabine HCl For Injection
@@ -22,6 +20,10 @@ DO NOT REFRIGERATE
 
 Rx only
 
+www.gemzar.com
+
+Lilly
+
 PACKAGE CARTON – Gemzar 1 g carton 1ct
 
 NDC 0002-7502-01
@@ -29,8 +31,6 @@ NDC 0002-7502-01
 VIAL No. 7502
 
 Rx
-
-Lilly
 
 GEMZAR®
 
@@ -45,3 +45,7 @@ Sterile Single Use Vial
 DO NOT REFRIGERATE
 
 Rx only
+
+www.gemzar.com
+
+Lilly
