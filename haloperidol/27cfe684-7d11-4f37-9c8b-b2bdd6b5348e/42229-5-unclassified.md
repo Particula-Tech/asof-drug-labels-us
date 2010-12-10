@@ -9,8 +9,8 @@ Beerse, Belgium
 
 Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised July 2009
+Revised December 2010
 
 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2005
 
-US-XXXXXX
+US-974405

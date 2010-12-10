@@ -1,10 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg vial label
-
-1 mL (5 mg) HALDOL® HALOPERIDOL INJECTION (For Immediate Release) FOR IM USE
-
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium Distributed by: Ortho-McNeil Pharmaceutical, Inc. Raritan, NJ 08869
-
 # PRINCIPAL DISPLAY PANEL- 5 mg vial box
 
 NSN 6505-00-268-8530 NDC 0045-0255-01
