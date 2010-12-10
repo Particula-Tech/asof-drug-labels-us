@@ -23,8 +23,10 @@ PEPCID (famotidine) Tablets 20 mg and Tablets 40 mg are manufactured for: Merck 
 
 By: MERCK SHARP & DOHME Pty., Ltd. South Granville, NSW, Australia 2142.
 
-Issued February 2010
+Issued October 2010
 
 Printed in USA
 
-9883041
+Copyright © 1986, 1988, 1991, 1995, 1996 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+9883042

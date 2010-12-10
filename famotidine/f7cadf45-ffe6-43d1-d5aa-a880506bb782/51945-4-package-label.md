@@ -2,8 +2,6 @@
 
 Pepcid® 20 mg (Famotidine) Tablets
 
-NDC 0006-0963-31
-
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: MSD Pty., Ltd., South Granville, NSW, Australia, 2142
@@ -18,6 +16,8 @@ Store at controlled room temperature.
 
 30 Tablets
 
+NDC 0006-0963-31
+
 USUAL ADULT DOSAGE: See accompanying circular.
 
 Rx only
@@ -28,11 +28,11 @@ Rx only
 
 Pepcid® 40 mg (Famotidine) Tablets
 
-NDC 0006-0964-31
-
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MSD Pty., Ltd., South Granville, NSW, Australia, 2142 Famotidine (active ingred.)
+By: MSD Pty., Ltd., South Granville, NSW, Australia, 2142
+
+Famotidine (active ingred.)
 Made in the Republic of Ireland.
 Formulated in Australia.
 
@@ -41,6 +41,8 @@ Preserve in well-closed, light-resistant containers.
 Store at controlled room temperature.
 
 30 Tablets
+
+NDC 0006-0964-31
 
 USUAL ADULT DOSAGE: See accompanying circular.
 

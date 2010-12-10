@@ -11,7 +11,8 @@ Within each category the adverse reactions are listed in order of decreasing sev
 
 Body as a Whole: fever, asthenia, fatigue
 
-Cardiovascular: arrhythmia, AV block, palpitation
+Cardiovascular: arrhythmia, AV block, palpitation.
+Prolonged QT interval, in patients with impaired renal function, has been reported very rarely.
 
 Gastrointestinal: cholestatic jaundice, hepatitis, liver enzyme abnormalities, vomiting, nausea, abdominal discomfort, anorexia, dry mouth
 
