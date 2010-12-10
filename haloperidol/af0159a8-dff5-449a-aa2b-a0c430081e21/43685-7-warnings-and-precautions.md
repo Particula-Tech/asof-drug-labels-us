@@ -149,6 +149,14 @@ There are reports, however, of cases of limb malformations observed following ma
 Causal relationships were not established with these cases.
 Since such experience does not exclude the possibility of fetal damage due to HALDOL, haloperidol decanoate should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 
+### Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+HALDOL Decanoate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## Nursing Mothers
 
 Since haloperidol is excreted in human breast milk, infants should not be nursed during drug treatment with haloperidol decanoate.
