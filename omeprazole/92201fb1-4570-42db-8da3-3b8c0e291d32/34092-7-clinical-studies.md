@@ -148,7 +148,7 @@ Results are shown below.
 
 % Successful Symptomatic Outcome
 
-|  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Omeprazole Delayed-Release Capsules 10 mg a.m. | Omeprazole Delayed-Release Capsules a.m. |
+|  | Omeprazole Delayed-Release Capsules 20 mg a.m. | Omeprazole Delayed-Release Capsules 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
 | All patients | 46 †,‡(n=205) | 31‡(n=199) | 13 (n=105) |
 | Patients with confirmed GERD | 56 †,‡(n=115) | 36 ‡(n=109) | 14 (n=59) |

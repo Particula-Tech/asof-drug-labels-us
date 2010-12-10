@@ -8,7 +8,14 @@ Symptomatic response to therapy with omeprazole does not preclude the presence o
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole.
 
-## 5.3 Combination Use of Omeprazole Delayed-Release Capsules with Amoxicillin
+## 5.3 Bone Fracture
+
+Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.3)].
+
+## 5.4 Combination Use of Omeprazole Delayed-Release Capsules with Amoxicillin
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
@@ -27,7 +34,7 @@ After the diagnosis of pseudomembranous colitis has been established, therapeuti
 Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
 
-## 5.4 Combination Use of Omeprazole Delayed-Release Capsules with Clarithromycin
+## 5.5 Combination Use of Omeprazole Delayed-Release Capsules with Clarithromycin
 
 Clarithromycin should not be used in pregnant women except in clinical circumstances where no alternative therapy is appropriate.
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
