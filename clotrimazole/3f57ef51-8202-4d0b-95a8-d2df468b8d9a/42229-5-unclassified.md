@@ -1,5 +1,3 @@
 FOR TOPICAL ORAL ADMINISTRATION
 
-PADDOCK LABORATORIES, INC. Minneapolis, MN 55427
-
-(03-05)
+Paddock Laboratories, Inc. Minneapolis, MN 55427 (02-08)
