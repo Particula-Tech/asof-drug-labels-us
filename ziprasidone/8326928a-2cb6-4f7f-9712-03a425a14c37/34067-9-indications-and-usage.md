@@ -7,7 +7,7 @@ Prolongation of the QTc interval is associated in some other drugs with the abil
 In many cases this would lead to the conclusion that other drugs should be tried first.
 Whether ziprasidone will cause torsade de pointes or increase the rate of sudden death is not yet known [see Warnings and Precautions (5.2)]
 
-## Schizophrenia
+## 1.1 Schizophrenia
 
 Geodon is indicated for the treatment of schizophrenia.
 The efficacy of oral ziprasidone was established in four short-term (4- and 6-week) controlled trials of adult schizophrenic inpatients and in one maintenance trial of stable adult schizophrenic inpatients [see Clinical Studies (14.1)].

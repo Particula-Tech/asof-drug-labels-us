@@ -169,4 +169,4 @@ GEODON is a prescription medicine and only your doctor can decide if it is right
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
 You can also visit www.geodon.com.
 
-LAB-0273-16.0 November 2009
+LAB-0273-17.0

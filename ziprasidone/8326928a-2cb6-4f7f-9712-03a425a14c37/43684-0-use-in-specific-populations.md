@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C - In animal studies ziprasidone demonstrated developmental toxicity, including possible teratogenic effects at doses similar to human therapeutic doses.
+Pregnancy Category C
+
+In animal studies ziprasidone demonstrated developmental toxicity, including possible teratogenic effects at doses similar to human therapeutic doses.
 When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day on a mg/m2 basis).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 The developmental no-effect dose was 10 mg/kg/day (equivalent to the MRHD on a mg/m2 basis).
@@ -16,6 +18,14 @@ A no-effect level was not established for these effects.
 
 There are no adequate and well-controlled studies in pregnant women.
 Ziprasidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Geodon should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 
