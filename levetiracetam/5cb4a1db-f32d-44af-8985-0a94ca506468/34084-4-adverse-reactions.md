@@ -9,12 +9,12 @@ An inspection of these frequencies, however, does provide the prescriber with on
 In well-controlled clinical studies in adults with partial onset seizures, the most frequently reported adverse events associated with the use of levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, asthenia, infection and dizziness.
 In the well-controlled pediatric clinical study in children 4 to 16 years of age with partial onset seizures, the adverse events most frequently reported with the use of levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, accidental injury, hostility, nervousness, and asthenia.
 
-Table 5 lists treatment-emergent adverse events that occurred in at least 1% of adult epilepsy patients treated with levetiracetam participating in placebo-controlled studies and were numerically more common than in patients treated with placebo.
-Table 6 lists treatment-emergent adverse events that occurred in at least 2% of pediatric epilepsy patients (ages 4 to 16 years) treated with levetiracetam participating in the placebo-controlled study and were numerically more common than in pediatric patients treated with placebo.
+Table 8 lists treatment-emergent adverse events that occurred in at least 1% of adult epilepsy patients treated with levetiracetam participating in placebo-controlled studies and were numerically more common than in patients treated with placebo.
+Table 9 lists treatment-emergent adverse events that occurred in at least 2% of pediatric epilepsy patients (ages 4 to 16 years) treated with levetiracetam participating in the placebo-controlled study and were numerically more common than in pediatric patients treated with placebo.
 In these studies, either levetiracetam or placebo was added to concurrent AED therapy.
 Adverse events were usually mild to moderate in intensity.
 
-Table 5: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 1% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 8: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 1% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 |  | % | % |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Table 5: Incidence (%) Of Treatment-Emergent Adverse Events In Placebo-Controlle
 
 Other events reported by at least 1% of adult levetiracetam-treated patients but as or more frequent in the placebo group were the following: abdominal pain, accidental injury, amblyopia, arthralgia, back pain, bronchitis, chest pain, confusion, constipation, convulsion, diarrhea, drug level increased, dyspepsia, ecchymosis, fever, flu syndrome, fungal infection, gastroenteritis, gingivitis, grand mal convulsion, insomnia, nausea, otitis media, rash, thinking abnormal, tremor, urinary tract infection, vomiting and weight gain.
 
-Table 6: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add- On Study In Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 2% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 9: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add- On Study In Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures By Body System (Adverse Events Occurred In At Least 2% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
 
 |  | % | % |
 | --- | --- | --- |
@@ -98,11 +98,71 @@ Table 6: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Control
 | Conjunctivitis | 3 | 2 |
 | Amblyopia | 2 | 0 |
 | Ear Pain | 2 | 0 |
-| Urogenital |  |  |
+| Urogenital System |  |  |
 | Albuminuria | 4 | 0 |
 | Urine Abnormality | 2 | 1 |
 
 Other events occurring in at least 2% of pediatric levetiracetam-treated patients but as or more frequent in the placebo group were the following: abdominal pain, allergic reaction, ataxia, convulsion, epistaxis, fever, headache, hyperkinesia, infection, insomnia, nausea, otitis media, rash, sinusitis, status epilepticus (not otherwise specified), thinking abnormal, tremor, and urinary incontinence.
+
+## Myoclonic Seizures
+
+Although the pattern of adverse events in this study seems somewhat different from that seen in patients with partial seizures, this is likely due to the much smaller number of patients in this study compared to partial seizure studies.
+The adverse event pattern for patients with JME is expected to be essentially the same as for patients with partial seizures.
+
+In the well-controlled clinical study that included both adolescent (12 to 16 years of age) and adult patients with myoclonic seizures, the most frequently reported adverse events associated with the use of levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, were somnolence, neck pain, and pharyngitis.
+
+Table 10 lists treatment-emergent adverse events that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+In this study, either levetiracetam or placebo was added to concurrent AED therapy.
+Adverse events were usually mild to moderate in intensity.
+
+Table 10: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 12 Years Of Age And Older With Myoclonic Seizures By Body System (Adverse Events Occurred In At Least 5% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+
+|  | % | % |
+| --- | --- | --- |
+| Body System / | Levetiracetam | Placebo |
+| MedDRA preferred term | (N=60) | (N=60) |
+| Ear and labyrinth disorders |  |  |
+| Vertigo | 5 | 3 |
+| Infections and infestations |  |  |
+| Pharyngitis | 7 | 0 |
+| Influenza | 5 | 2 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Neck pain | 8 | 2 |
+| Nervous system disorders |  |  |
+| Somnolence | 12 | 2 |
+| Psychiatric disorders |  |  |
+| Depression | 5 | 2 |
+
+Other events occurring in at least 5% of levetiracetam-treated patients with myoclonic seizures but as or more frequent in the placebo group were the following: fatigue and headache.
+
+## Primary Generalized Tonic-Clonic Seizures
+
+Although the pattern of adverse events in this study seems somewhat different from that seen in patients with partial seizures, this is likely due to the much smaller number of patients in this study compared to partial seizure studies.
+The adverse event pattern for patients with PGTC seizures is expected to be essentially the same as for patients with partial seizures.
+
+In the well-controlled clinical study that included patients 4 years of age and older with primary generalized tonic-clonic (PGTC) seizures, the most frequently reported adverse event associated with the use of levetiracetam in combination with other AEDs, not seen at an equivalent frequency among placebo-treated patients, was nasopharyngitis.
+
+Table 11 lists treatment-emergent adverse events that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+In this study, either levetiracetam or placebo was added to concurrent AED therapy.
+Adverse events were usually mild to moderate in intensity.
+
+Table 11: Incidence (%) Of Treatment-Emergent Adverse Events In A Placebo-Controlled, Add-On Study In Patients 4 Years Of Age And Older With PGTC Seizures By MedDRA System Organ Class (Adverse Events Occurred In At Least 5% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+
+|  | % | % |
+| --- | --- | --- |
+| MedDRA System Organ | Levetiracetam | Placebo |
+| Class/ Preferred Term | (N=79) | (N=84) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 8 | 7 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 10 | 8 |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 14 | 5 |
+| Psychiatric disorders |  |  |
+| Irritability | 6 | 2 |
+| Mood swings | 5 | 1 |
+
+Other events occurring in at least 5% of levetiracetam-treated patients with PGTC seizures but as or more frequent in the placebo group were the following: dizziness, headache, influenza, and somnolence.
 
 ## Time Course Of Onset Of Adverse Events For Partial Onset Seizures
 
@@ -113,9 +173,9 @@ Of the most frequently reported adverse events in adults experiencing partial on
 ### Partial Onset Seizures
 
 In well-controlled adult clinical studies, 15.0% of patients receiving levetiracetam and 11.6% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-Table 7 lists the most common (>1%) adverse events that resulted in discontinuation or dose reduction.
+Table 12 lists the most common (>1%) adverse events that resulted in discontinuation or dose reduction.
 
-Table 7: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose Reduction In Placebo-Controlled Studies In Adult Patients Experiencing Partial Onset Seizures
+Table 12: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose Reduction In Placebo-Controlled Studies In Adult Patients Experiencing Partial Onset Seizures
 
 |  | (N=769) | (N=439) |
 | --- | --- | --- |
@@ -128,9 +188,9 @@ Table 7: Adverse Events That Most Commonly Resulted In Discontinuation Or Dose R
 | Somnolence | 34 (4.4%) | 7 (1.6%) |
 
 In the well-controlled pediatric clinical study, 16.8% of patients receiving levetiracetam and 20.6% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
-The adverse events most commonly associated (≥3% in patients receiving levetiracetam) with discontinuation or dose reduction in the well-controlled study are presented in Table 8.
+The adverse events most commonly associated (≥3% in patients receiving levetiracetam) with discontinuation or dose reduction in the well-controlled study are presented in Table 13.
 
-Table 8: Adverse Events Most Commonly Associated With Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures
+Table 13: Adverse Events Most Commonly Associated With Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures
 
 |  | (N=101) | (N=97) |
 | --- | --- | --- |
@@ -140,6 +200,34 @@ Table 8: Adverse Events Most Commonly Associated With Discontinuation Or Dose Re
 | Hostility | 7 (6.9%) | 2 (2.1%) |
 | Somnolence | 3 (3.0%) | 3 (3.1%) |
 
+Myoclonic Seizures
+
+In the placebo-controlled study, 8.3% of patients receiving levetiracetam and 1.7% receiving placebo either discontinued or had a dose reduction as a result of an adverse event.
+The adverse events that led to discontinuation or dose reduction in the well-controlled study are presented in Table 14.
+
+Table 14: Adverse Events That Resulted In Discontinuation Or Dose Reduction In The Placebo-Controlled Study In Patients With Juvenile Myoclonic Epilepsy
+
+|  | n (%) | n (%) |
+| --- | --- | --- |
+| Body System/ | Levetiracetam | Placebo |
+| MedDRA preferred term | (N=60) | (N=60) |
+| Anxiety | 2 (3.3%) | 1 (1.7%) |
+| Depressed mood | 1 (1.7%) | 0 |
+| Depression | 1 (1.7%) | 0 |
+| Diplopia | 1 (1.7%) | 0 |
+| Hypersomnia | 1 (1.7%) | 0 |
+| Insomnia | 1 (1.7%) | 0 |
+| Irritability | 1 (1.7%) | 0 |
+| Nervousness | 1 (1.7%) | 0 |
+| Somnolence | 1 (1.7%) | 0 |
+
+### Primary Generalized Tonic-Clonic Seizures
+
+In the placebo-controlled study, 5.1% of patients receiving levetiracetam and 8.3% receiving placebo either discontinued or had a dose reduction during the treatment period as a result of a treatment-emergent adverse event.
+
+This study was too small to adequately characterize the adverse events leading to discontinuation.
+It is expected that the adverse events that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see tables 12 - 14).
+
 ## Comparison Of Gender, Age And Race
 
 The overall adverse experience profile of levetiracetam was similar between females and males.
@@ -147,11 +235,7 @@ There are insufficient data to support a statement regarding the distribution of
 
 ## Postmarketing Experience
 
-The following adverse events have been identified during postapproval use of levetiracetam.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
 In addition to the adverse experiences listed above, the following have been reported in patients receiving marketed levetiracetam worldwide.
 The listing is alphabetized: abnormal liver function test, hepatic failure, hepatitis, leukopenia, neutropenia, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, and weight loss.
 Alopecia has been reported with levetiracetam use; recovery was observed in majority of cases where levetiracetam was discontinued.
-There have been reports of suicidal behavior (including completed suicide) with marketed levetiracetam.
 These adverse experiences have not been listed above, and data are insufficient to support an estimate of their incidence or to establish causation.

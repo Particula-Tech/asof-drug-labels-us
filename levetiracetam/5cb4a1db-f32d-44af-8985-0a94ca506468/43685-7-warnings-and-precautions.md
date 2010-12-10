@@ -1,5 +1,45 @@
 # WARNINGS
 
+## Suicidal Behavior and Ideation
+
+Antiepileptic drugs (AEDs), including levetiracetam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
+The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
+The risk did not vary substantially by age (5 to100 years) in the clinical trials analyzed.
+Table 7shows absolute and relative risk by indication for all evaluated AEDs.
+
+Table 7: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+
+|  |  |  | Patients | per 1000 Patients |
+| --- | --- | --- | --- | --- |
+| Indication | Placebo Patients | Drug Patients | Relative Risk: | Risk |
+|  | with Events per | with Events per | Incidence of | Difference: |
+|  | 1000 Patients | 1000 Patients | Events in Drug | Additional |
+|  |  |  | Patients/Incidence | Drug Patients |
+|  |  |  | in Placebo | with Events |
+| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
+| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Total | 2.4 | 4.3 | 1.8 | 1.9 |
+
+The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+
+Anyone considering prescribing levetiracetam or any other AED must balance the risk of suicidal thoughts or behaviors with the risk of untreated illness.
+Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
 ## Neuropsychiatric Adverse Events
 
 ### Partial Onset Seizures
@@ -36,11 +76,6 @@ A total of 1.7% of treated patients discontinued treatment due to these events, 
 The treatment dose was reduced in 0.8% of treated patients and in 0.5% of placebo patients.
 A total of 0.8% of treated patients had a serious behavioral event (compared to 0.2% of placebo patients) and were hospitalized.
 
-In addition, 4 (0.5%) of treated patients attempted suicide compared to 0% of placebo patients.
-One of these patients completed suicide.
-In the other 3 patients, the events did not lead to discontinuation or dose reduction.
-The events occurred after patients had been treated for between 4 weeks and 6 months.
-
 #### Pediatric Patients
 
 In pediatric patients experiencing partial onset seizures, levetiracetam is associated with somnolence, fatigue, and behavioral abnormalities.
@@ -57,10 +92,44 @@ A total of 37.6% of the levetiracetam-treated patients experienced behavioral sy
 Hostility was reported in 11.9% of levetiracetam-treated patients, compared to 6.2% of placebo patients.
 Nervousness was reported in 9.9% of levetiracetam-treated patients, compared to 2.1% of placebo patients.
 Depression was reported in 3.0% of levetiracetam-treated patients, compared to 1.0% of placebo patients.
-One levetiracetam-treated patient experienced suicidal ideation.
 
 A total of 3.0% of levetiracetam-treated patients discontinued treatment due to psychotic and nonpsychotic adverse events, compared to 4.1% of placebo patients.
 Overall, 10.9% of levetiracetam-treated patients experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo patients.
+
+### Myoclonic Seizures
+
+During clinical development, the number of patients with myoclonic seizures exposed to levetiracetam was considerably smaller than the number with partial seizures.
+Therefore, under-reporting of certain adverse events was more likely to occur in the myoclonic seizure population.
+In adult and adolescent patients experiencing myoclonic seizures, levetiracetam is associated with somnolence and behavioral abnormalities.
+It is expected that the events seen in partial seizure patients would occur in patients with JME.
+
+In the double-blind, controlled trial in adults and adolescents with juvenile myoclonic epilepsy experiencing myoclonic seizures, 11.7% of levetiracetam-treated patients experienced somnolence compared to 1.7% of placebo patients.
+No patient discontinued treatment as a result of somnolence.
+In 1.7% of levetiracetam-treated patients and in 0% of placebo patients the dose was reduced as a result of somnolence.
+
+Non-psychotic behavioral disorders (reported as aggression and irritability) occurred in 5% of the levetiracetam-treated patients compared to 0% of placebo patients.
+Non-psychotic mood disorders (reported as depressed mood, depression, and mood swings) occurred in 6.7% of levetiracetam-treated patients compared to 3.3% of placebo patients.
+A total of 5.0% of levetiracetam-treated patients had a reduction in dose or discontinued treatment due to behavioral or psychiatric events (reported as anxiety, depressed mood, depression, irritability, and nervousness), compared to 1.7% of placebo patients.
+
+### Primary Generalized Tonic-Clonic Seizures
+
+During clinical development, the number of patients with primary generalized tonic-clonic epilepsy exposed to levetiracetam was considerably smaller than the number with partial epilepsy, described above.
+As in the partial seizure patients, behavioral symptoms appeared to be associated with levetiracetam treatment.
+Gait disorders and somnolence were also described in the study in primary generalized seizures, but with no difference between placebo and levetiracetam treatment groups and no appreciable discontinuations.
+Although it may be expected that drug related events seen in partial seizure patients would be seen in primary generalized epilepsy patients (e.g. somnolence and gait disturbance), these events may not have been observed because of the smaller sample size.
+
+In patients 6 years of age and older experiencing primary generalized tonic-clonic seizures, levetiracetam is associated with behavioral abnormalities.
+
+In the double-blind, controlled trial in patients with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures, irritability was the most frequently reported psychiatric adverse event occurring in 6.3% of levetiracetam-treated patients compared to 2.4% of placebo patients.
+Additionally, non-psychotic behavioral disorders (reported as abnormal behavior, aggression, conduct disorder, and irritability) occurred in 11.4% of the levetiracetam-treated patients compared to 3.6% of placebo patients.
+Of the levetiracetam-treated patients experiencing non-psychotic behavioral disorders, one patient discontinued treatment due to aggression.
+Non-psychotic mood disorders (including anger, apathy, depression, mood altered, mood swings, negativism, and tearfulness) occurred in 12.7% of levetiracetam-treated patients compared to 8.3% of placebo patients.
+No levetiracetam-treated patients discontinued or had a dose reduction as a result of these events.
+One patient experienced delusional behavior that required the lowering of the dose of levetiracetam.
+
+In a long-term open label study that examined patients with various forms of primary generalized epilepsy, along with the non-psychotic behavioral disorders, 2 of 192 patients studied exhibited psychotic-like behavior.
+Behavior in one case was characterized by auditory hallucinations and suicidal thoughts and led to levetiracetam discontinuation.
+The other case was described as worsening of pre-existent schizophrenia and did not lead to drug discontinuation.
 
 ## Withdrawal Seizures
 
@@ -76,7 +145,7 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 
 Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106 /mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
 
-A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109 /L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (=1.0 x 109 /L) decreased neutrophil count.
+A total of 3.2% of treated and 1.8% of placebo patients had at least one possibly significant (≤2.8 x 109 /L) decreased WBC, and 2.4% of treated and 1.4% of placebo patients had at least one possibly significant (≤1.0 x 109 /L) decreased neutrophil count.
 Of the treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
@@ -89,6 +158,11 @@ Mean relative lymphocyte counts increased by 1.7% in levetiracetam-treated patie
 In the well-controlled trial, more levetiracetam-treated patients had a possibly clinically significant abnormally low WBC value (3.0% levetiracetam-treated versus 0% placebo), however, there was no apparent difference between treatment groups with respect to neutrophil count (5.0% levetiracetam-treated versus 4.2% placebo).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
+### Juvenile Myoclonic Epilepsy
+
+Although there were no obvious hematologic abnormalities observed in patients with JME, the limited number of patients makes any conclusion tentative.
+The data from the partial seizure patients should be considered to be relevant for JME patients.
+
 ## Hepatic Abnormalities
 
 There were no meaningful changes in mean liver function tests (LFT) in controlled trials in adult or pediatric patients; lesser LFT abnormalities were similar in drug and placebo treated patients in controlled trials (1.4%).
@@ -96,20 +170,27 @@ No adult or pediatric patients were discontinued from controlled trials for LFT 
 
 ## Information for Patients
 
+Patients and caregivers should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking levetiracetam.
+The Medication Guide may also be found in the full prescribing information for levetiracetam or by calling 1-800-432-8534.
 Patients should be instructed to take levetiracetam only as prescribed.
 
+Patients, their caregivers, and families should be counseled that AEDs, including levetiracetam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Behaviors of concern should be reported immediately to healthcare providers.
+
+Patients should be advised that levetiracetam may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases patients may experience psychotic symptoms.
+
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334.
+(See Pregnancy Section).
 
 Patients should be advised that levetiracetam may cause dizziness and somnolence.
 Accordingly, patients should be advised not to drive or operate machinery or engage in other hazardous activities until they have gained sufficient experience on levetiracetam to gauge whether it adversely affects their performance of these activities.
 
-Patients should be advised that levetiracetam may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and in rare cases patients may experience psychotic symptoms and/or suicidal ideation.
-
-Physicians should advise patients and caregivers to read the patient information leaflet which appears as the last section of the labeling.
-
 ## Laboratory Tests
 
-Although most laboratory tests are not systematically altered with levetiraetam treatment, there have been relatively infrequent abnormalities seen in hematologic parameters and liver function tests.
+Although most laboratory tests are not systematically altered with levetiracetam treatment, there have been relatively infrequent abnormalities seen in hematologic parameters and liver function tests.
 
 ## Drug Interactions
 
@@ -184,13 +265,13 @@ Levetiracetam was not mutagenic in the Ames test or in mammalian cells in vitro 
 It was not clastogenic in an in vitro analysis of metaphase chromosomes obtained from Chinese hamster ovary cells or in an in vivo mouse micronucleus assay.
 The hydrolysis product and major human metabolite of levetiracetam (ucb L057) was not mutagenic in the Ames test or the in vitro mouse lymphoma assay.
 
-### Impairment Of Fertility
+### Impairment of Fertility
 
 No adverse effects on male or female fertility or reproductive performance were observed in rats at doses up to 1800 mg/kg/day (approximately 6 times the maximum recommended human dose on a mg/m2 or exposure basis).
 
 ## Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 In animal studies, levetiracetam produced evidence of developmental toxicity at doses similar to or greater than human therapeutic doses.
 
@@ -213,7 +294,9 @@ Levetiracetam should be used during pregnancy only if the potential benefit just
 
 ## Pregnancy Registry
 
-Patients may enroll in the North American Antiepileptic Drug Pregnancy Registry by calling (888)-233-2334 (toll free).
+To provide information regarding the effects of in utero exposure to levetiracetam, physicians are advised to recommend that pregnant patients taking levetiracetam enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and Delivery
 

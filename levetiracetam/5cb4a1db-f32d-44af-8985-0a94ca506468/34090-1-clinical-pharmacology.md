@@ -13,7 +13,7 @@ In vitro and in vivo recordings of epileptiform activity from the hippocampus ha
 
 Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
 Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
-However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
+However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA-and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
 A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam.
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
@@ -38,7 +38,7 @@ The metabolites have no known pharmacological activity and are renally excreted.
 Plasma half-life of levetiracetam across studies is approximately 6 to 8 hours.
 It is increased in the elderly (primarily due to impaired renal clearance) and in subjects with renal impairment.
 
-### Absorption And Distribution
+### Absorption and Distribution
 
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
@@ -52,7 +52,7 @@ Levetiracetam and its major metabolite are less than 10% bound to plasma protein
 Levetiracetam is not extensively metabolized in humans.
 The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, ucb L057 (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes.
 The major metabolite is inactive in animal seizure models.
-Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2- oxo-pyrrolidine ring in position 5 (1% of dose).
+Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2-oxo-pyrrolidine ring in position 5 (1% of dose).
 There is no enantiomeric interconversion of levetiracetam or its major metabolite.
 
 ### Elimination
@@ -105,7 +105,7 @@ Formal pharmacokinetic studies of the effects of race have not been conducted.
 Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
-#### Renal Impairment
+### Renal Impairment
 
 The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
 Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
@@ -116,7 +116,7 @@ Approximately 50% of the pool of levetiracetam in the body is removed during a s
 
 Dosage should be reduced in patients with impaired renal function receiving levetiracetam, and supplemental doses should be given to patients after dialysis (see PRECAUTIONS and DOSAGE AND ADMINISTRATION, Adult Patients with Impaired Renal Function).
 
-#### Hepatic Impairment
+### Hepatic Impairment
 
 In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
