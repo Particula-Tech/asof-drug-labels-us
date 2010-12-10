@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA091549"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-506-03",
+    "65162-506-06",
+    "65162-506-09",
+    "65162-506-10",
+    "65162-506-11",
+    "65162-506-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "indomethacin",
+      "name": "Indomethacin"
+    }
+  ],
+  "setid": "dbad7e61-2347-43b1-a422-9183e41c10ea",
+  "source": "dailymed"
+}
