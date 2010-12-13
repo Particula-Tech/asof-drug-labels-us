@@ -5,7 +5,7 @@
 Clobetasol propionate is a highly potent topical corticosteroid that has been shown to suppress the HPA axis at the lowest doses tested.
 
 In studies evaluating the potential for hypothalamic-pituitary-adrenal (HPA) axis suppression, using the Cosyntropin Stimulation Test, CLOBEX® (clobetasol propionate) Spray, 0.05% demonstrated rates of suppression that were comparable after 2 and 4 weeks of twice-daily use (19% and 15-20%, respectively), in adult patients with moderate to severe plaque psoriasis (≥ 20%BSA).
-In these studies, HPA axis suppression was defined as serum cortisol level ≤ 18 µg/dL 30-min post cosyntropin stimulation (See CLINICAL PHARMACOLOGY).
+In these studies, HPA axis suppression was defined as serum cortisol level ≤18 μg/dL 30-min post cosyntropin stimulation (See CLINICAL PHARMACOLOGY).
 
 Patients with acute illness or injury may have increased morbidity and mortality with intermittent HPA axis suppression.
 Patients should be instructed to use CLOBEX® (clobetasol propionate) Spray, 0.05% for the minimum amount of time necessary to achieve the desired results (See INDICATIONS AND USAGE).
@@ -47,9 +47,10 @@ Patients using topical corticosteroids should receive the following information 
   Also avoid contact with the eyes and lips.
 - As with other corticosteroids, therapy should be discontinued when control is achieved.
   If no improvement is seen within 2 weeks, contact the physician.
-- Patients should not use more than 50 g (59 mL or 2 fl. oz.) per week of CLOBEX® (clobetasol propionate) Spray, 0.05%.
+- Do not exceed 30 sprays per application or 60 sprays per day.
+- Patients should not use more than 50 g (59 mL or 2 fl.oz.) per week of CLOBEX® (clobetasol propionate) Spray, 0.05%.
 
-## Instructions to the Pharmacist
+Instructions to the Pharmacist:
 
 1. Remove the spray pump from the wrapper
 2. Remove and discard the cap from the bottle
@@ -66,14 +67,14 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 Clobetasol propionate was negative in the in vitro mammalian chromosomal aberration test and in the in vivo mammalian erythrocyte micronucleus test.
 
-The effect of subcutaneously administered clobetasol propionate on fertility and general reproductive toxicity was studied in rats at doses of 0, 12.5, 25, and 50 µg/kg/day.
+The effect of subcutaneously administered clobetasol propionate on fertility and general reproductive toxicity was studied in rats at doses of 0, 12.5, 25, and 50 μg/kg/day.
 Males were treated beginning 70 days before mating and females beginning 15 days before mating through day 7 of gestation.
-A dosage level of less than 12.5 µg/kg/day clobetasol propionate was considered to be the no-observed-effect-level (NOEL) for paternal and maternal general toxicity based on decreased weight gain and for male reproductive toxicity based on increased weights of the seminal vesicles with fluid.
-The female reproductive NOEL was 12.5 µg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on reduction in the numbers of estrous cycles during the pre-cohabitation period and an increase in the number of nonviable embryos at higher doses.
+A dosage level of less than 12.5 μg/kg/day clobetasol propionate was considered to be the no-observed-effect-level (NOEL) for paternal and maternal general toxicity based on decreased weight gain and for male reproductive toxicity based on increased weights of the seminal vesicles with fluid.
+The female reproductive NOEL was 12.5 μg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on reduction in the numbers of estrous cycles during the pre-cohabitation period and an increase in the number of nonviable embryos at higher doses.
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category C.
 
@@ -85,10 +86,10 @@ Clobetasol propionate has greater teratogenic potential than steroids that are l
 
 The effect of clobetasol propionate on pregnancy outcome and development of offspring was studied in the rat.
 
-Clobetasol propionate was administered subcutaneously to female rats twice daily (0, 12.5, 25, and 50 µg/kg/day) from day 7 of presumed gestation through day 25 of lactation or day 24 presumed gestation for those rats that did not deliver a litter.
-The maternal NOEL for clobetasol propionate was less than 12.5 µg/kg/day due to reduced body weight gain and feed consumption during the gestation period.
-The reproductive NOEL in the dams was 25 µg/kg/day (ratio of animal dose to proposed human dose of 0.07 on a mg/m2/day basis) based on prolonged delivery at a higher dose level.
-The no-observed-adverse-effect-level (NOAEL) for viability and growth in the offspring was 12.5 mg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
+Clobetasol propionate was administered subcutaneously to female rats twice daily (0, 12.5, 25, and 50 μg/kg/day) from day 7 of presumed gestation through day 25 of lactation or day 24 presumed gestation for those rats that did not deliver a litter.
+The maternal NOEL for clobetasol propionate was less than 12.5 μg/kg/day due to reduced body weight gain and feed consumption during the gestation period.
+The reproductive NOEL in the dams was 25 μg/kg/day (ratio of animal dose to proposed human dose of 0.07 on a mg/m2/day basis) based on prolonged delivery at a higher dose level.
+The no-observed-adverse-effect-level (NOAEL) for viability and growth in the offspring was 12.5 μg/kg/day (ratio of animal dose to proposed human dose of 0.03 on a mg/m2/day basis) based on incidence of stillbirths, reductions in pup body weights on days 1 and 7 of lactation, increased pup mortality, increases in the incidence of umbilical hernia, and increases in the incidence of pups with cysts on the kidney at higher dose levels during the preweaning period.
 The weights of the epididymides and testes were significantly reduced at higher dosages.
 Despite these changes, there were no effects on the mating and fertility of the offspring.
 

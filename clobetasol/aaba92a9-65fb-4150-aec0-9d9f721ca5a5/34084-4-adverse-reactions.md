@@ -16,9 +16,9 @@ Table 2 - Commonly Occurring Adverse Events
 | Application site dryness | 2 (2%) | 0 (0%) |
 | Application site irritation | 1 (1%) | 0 (0%) |
 | Application site pain | 1 (1%) | 2 (2%) |
-| Application site pigmentation change | 1 (1%) | 0 (0%) |
+| Application site pigmentation changes | 1 (1%) | 0 (0%) |
 | Application site pruritus | 4 (3%) | 3 (3%) |
-| Infections and Infestations | 17 (14%) | 12 (10%) |
+| Infections and infestations | 17 (14%) | 12 (10%) |
 | Influenza | 0 (0%) | 2 (2%) |
 | Nasopharyngitis | 6 (5%) | 3 (3%) |
 | Pharyngitis streptococcal | 1 (1%) | 0 (0%) |
@@ -32,4 +32,4 @@ The following additional local adverse reactions have been reported with topical
 They may occur more frequently with the use of occlusive dressings and higher potency corticosteroids, including clobetasol propionate.
 These reactions are listed in an approximate decreasing order of occurrence: folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria.
 
-Systemic absorbtion of topical corticosteroids has produced hypothalamic-pituitary-adrenal (HPA) axis suppression manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
+Systemic absorption of topical corticosteroids has produced hypothalamic-pituitary-adrenal (HPA) axis suppression manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.

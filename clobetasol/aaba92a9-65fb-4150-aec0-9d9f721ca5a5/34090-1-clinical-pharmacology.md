@@ -7,7 +7,7 @@ It is postulated that these proteins control the biosynthesis of potent mediator
 Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 Pharmacokinetics: The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle, the integrity of the epidermal barrier and occlusion.
-Topical cortico-steroids can be absorbed from normal intact skin.
+Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and other disease processes in the skin may increase percutaneous absorption.
 
 There are no human data regarding the distribution of corticosteroids to body organs following topical application.
@@ -25,4 +25,4 @@ The laboratory suppression was transient; all subjects returned to normal after 
 In the second study, patients with plaque psoriasis covering at least 20% of their body applied CLOBEX® (clobetasol propionate) Spray, 0.05% twice daily for either 2 or 4 weeks.
 Nineteen percent (4 out of 21) of patients treated for 2 weeks and 20% (3 out of 15) of patients treated for 4 weeks displayed adrenal suppression at the end of treatment based on the Cosyntropin Stimulation Test.
 The laboratory suppression was transient; all subjects returned to normal after cessation of drug use.
-In these studies, HPA axis suppression was defined as serum cortisol level ≤ 18 µg/dL 30-min post cosyntropin (ACTH1-24) stimulation (See PRECAUTIONS).
+In these studies, HPA axis suppression was defined as serum cortisol level ≤18 μg/dL 30-min post cosyntropin (ACTH1-24) stimulation (See PRECAUTIONS).

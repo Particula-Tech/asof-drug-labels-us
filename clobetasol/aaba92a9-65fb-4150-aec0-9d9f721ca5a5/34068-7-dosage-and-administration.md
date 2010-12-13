@@ -1,6 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 CLOBEX® (clobetasol propionate) Spray, 0.05% should be sprayed directly onto the affected skin areas twice daily and rubbed in gently and completely.
+Do not exceed 30 sprays per application or 60 sprays per day.
 (See INDICATIONS AND USAGE).
 
 CLOBEX® (clobetasol propionate) Spray, 0.05% contains a super-high potent topical corticosteroid; therefore treatment should be limited to 4 weeks.
@@ -14,4 +15,4 @@ If no improvement is seen within 2 weeks, reassessment of diagnosis may be neces
 Use in pediatric patients younger than 18 years is not recommended because of the potential for HPA axis suppression.
 (See PRECAUTIONS: Pediatric Use).
 
-Unless directed by physician, CLOBEX® (clobetasol propionate) Spray, 0.05% should not be used with occlusive dressings.
+Unless directed by physician,CLOBEX® (clobetasol propionate) Spray, 0.05% should not be used with occlusive dressings.
