@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078103"
+  ],
   "inn": "simvastatin",
-  "labeler": "Lupin Ltd.",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
   "package_ndcs": [
     "68180-478-01",
     "68180-478-02",
@@ -14,9 +16,20 @@
     "68180-480-03",
     "68180-481-01",
     "68180-481-02",
-    "68180-481-03"
+    "68180-481-03",
+    "68180-482-03",
+    "68180-482-06",
+    "68180-482-09",
+    "68180-482-11",
+    "68180-482-13"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "simvastatin",
+      "name": "Simvastatin"
+    }
+  ],
   "setid": "3e48217f-8175-4e9b-9fd0-909be4bbba95",
   "source": "dailymed"
 }

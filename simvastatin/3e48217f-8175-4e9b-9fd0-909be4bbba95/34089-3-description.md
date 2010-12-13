@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Simvastatin is a lipid-lowering agent that is derived synthetically from a fermentation product of Aspergillus terreus.
 After oral ingestion, simvastatin, which is an inactive lactone, is hydrolyzed to the corresponding β-hydroxyacid form.
@@ -11,5 +11,5 @@ Its structural formula is:
 
 Simvastatin is a white to off-white, nonhygroscopic, crystalline powder that is practically insoluble in water, and freely soluble in chloroform, methanol and ethanol.
 
-Simvastatin tablets for oral administration contain either 10 mg, 20 mg, 40 mg or 80 mg of simvastatin and the following inactive ingredients: ascorbic acid, citric acid, hydroxy propyl cellulose, hypromellose, iron oxides, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch, talc and titanium dioxide.
+Simvastatin tablets USP for oral administration contain either 5 mg, 10 mg, 20 mg, 40 mg or 80 mg of simvastatin and the following inactive ingredients: ascorbic acid, citric acid, hydroxy propyl cellulose, hypromellose, iron oxides, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch, talc and titanium dioxide.
 Butylated hydroxyanisole is added as a preservative.

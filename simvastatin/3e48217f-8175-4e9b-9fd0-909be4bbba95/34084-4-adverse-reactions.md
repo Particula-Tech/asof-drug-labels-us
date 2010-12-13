@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,9 +12,10 @@ Scandinavian Simvastatin Survival Study
 
 In 4S involving 4,444 (age range 35-71 years, 19% women, 100% Caucasians) treated with 20-40 mg/day of simvastatin (n=2,221) or placebo (n=2,223) over a median of 5.4 years, adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
-TABLE 2 Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with simvastatin and Greater than Placebo in 4S
+TABLE 2.
+Adverse Reactions Reported Regardless of Causality by ≥2% of Patients Treated with Simvastatin and Greater than Placebo in 4S
 
-|  | Simvastatin | Placebo |
+|  | Simvaststin | Placebo |
 | --- | --- | --- |
 |  | (N = 2,221) | (N = 2,223) |
 |  | % | % |
@@ -62,7 +63,7 @@ This was attributable to the noncardiac fraction of CK.
 
 Adolescent Patients (ages 10-17 years)
 
-In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10-17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin (10-40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see USE IN SPECIFIC POPULATIONS (8.4)and CLINICAL STUDIES (14.2)].
+In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10-17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin (10-40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL STUDIES (14.2)].
 
 ## 6.2 Post-Marketing Experience
 

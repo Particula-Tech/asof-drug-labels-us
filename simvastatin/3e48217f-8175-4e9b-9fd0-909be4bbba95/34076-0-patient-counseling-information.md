@@ -1,6 +1,6 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
+Patients should be advised to adhere to their National Cholesterol Education Program (NCEP) recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
 Patients should be advised about substances they should not take concomitantly with simvastatin [see WARNINGS AND PRECAUTIONS (5.1)].
 Patients should also be advised to inform other healthcare professionals prescribing a new medication that they are taking simvastatin.
@@ -26,3 +26,9 @@ Patients should be advised that if they become pregnant they should stop taking 
 
 Women who are breastfeeding should not use simvastatin.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
+
+Manufactured for: Lupin Pharmaceuticals, Inc. Baltimore, Maryland 21202 United States
+
+Manufactured by: Lupin Limited Goa 403 722 INDIA
+
+Revised: November 2010 ID:#223313

@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -14,7 +14,7 @@ Because statins decrease cholesterol synthesis and possibly the synthesis of oth
 If simvastatin is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 There are rare reports of congenital anomalies following intrauterine exposure to statins.
-In a review2 of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
+In a reviewManson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
 However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
 In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
 
@@ -25,15 +25,11 @@ Women of childbearing potential, who require treatment with simvastatin for a li
 For women trying to conceive, discontinuation of simvastatin should be considered.
 If pregnancy occurs, simvastatin should be immediately discontinued.
 
--------------------------------------------------------------------------------
-
-2Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
-
 ## 8.3 Nursing Mothers
 
 It is not known whether simvastatin is excreted in human milk.
 Because a small amount of another drug in this class is excreted in human milk and because of the potential for serious adverse reactions in nursing infants, women taking simvastatin should not nurse their infants.
-A decision should be made whether to discontinue nursing or discontinue drug, taking into account the importance of the drug to the mother [see CONTARINDICATIONS (4)].
+A decision should be made whether to discontinue nursing or discontinue drug, taking into account the importance of the drug to the mother [see CONTRAINDICATIONS (4)].
 
 ## 8.4 Pediatric Use
 
@@ -41,8 +37,8 @@ Safety and effectiveness of simvastatin in patients 10-17 years of age with hete
 Patients treated with simvastatin had an adverse reaction profile similar to that of patients treated with placebo.
 Doses greater than 40 mg have not been studied in this population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
-[See DOSAGE AND ADMINISTRATIONS (2.3), ADVERSE REACTIONS (6.1), CLINICAL STUDIES (14.2).]
-Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see CONTRAINDICATIONS (4)and USE IN SPECIFIC POPULATIONS (8.1)].
+[See DOSAGE AND ADMINISTRATION (2.3), ADVERSE REACTIONS (6.1), CLINICAL STUDIES (14.2).]
+Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see CONTRAINDICATIONS (4) and USE IN SPECIFIC POPULATIONS (8.1)].
 Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls.
 
 ## 8.5 Geriatric Use
@@ -51,7 +47,7 @@ Of the 2,423 patients who received simvastatin in Phase III clinical studies and
 In HPS, 615 (6%) were ≥75 years old.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Since advanced age (≥65 years) is a predisposing factor for myopathy, simvastatin should be prescribed with caution in the elderly.
-[See CLINICAL PHARMACOLOGY (12.3).]
+[See CLINICAL PHARMACOLOGY, (12.3).]
 
 A pharmacokinetic study with simvastatin showed the mean plasma level of statin activity to be approximately 45% higher in elderly patients between 70-78 years of age compared with patients between 18-30 years of age.
 In 4S, 1,021 (23%) of 4,444 patients were 65 or older.
@@ -65,9 +61,8 @@ There were no overall differences in safety between older and younger patients i
 ## 8.6 Renal Impairment
 
 Caution should be exercised when simvastatin is administered to patients with severe renal impairment.
-
 [See DOSAGE AND ADMINISTRATION (2.4).]
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see CONTRAINDICATIONS (4)and WARNINGS AND PRECAUTIONS (5.2)].
+Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.2)].

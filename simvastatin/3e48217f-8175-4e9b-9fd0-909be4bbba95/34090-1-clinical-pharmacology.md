@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -22,10 +22,10 @@ Plasma concentrations of total radioactivity (simvastatin plus 14C-metabolites) 
 Since simvastatin undergoes extensive first-pass extraction in the liver, the availability of the drug to the general circulation is low (<5%).
 
 Both simvastatin and its β-hydroxyacid metabolite are highly bound (approximately 95%) to human plasma proteins.
-Rat studies indicate that when radiolabeled simvastatin was administered, simvastatinderived radioactivity crossed the blood-brain barrier.
+Rat studies indicate that when radiolabeled simvastatin was administered, simvastatin derived radioactivity crossed the blood-brain barrier.
 
 The major active metabolites of simvastatin present in human plasma are the β-hydroxyacid of simvastatin and its 6′-hydroxy, 6′-hydroxymethyl, and 6′-exomethylene derivatives.
-Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours postdose.
+Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours post dose.
 While the recommended therapeutic dose range is 5 to 80 mg/day, there was no substantial deviation from linearity of AUC of inhibitors in the general circulation with an increase in dose to as high as 120 mg.
 Relative to the fasting state, the plasma profile of inhibitors was not affected when simvastatin was administered immediately before an American Heart Association recommended low-fat meal.
 
@@ -38,13 +38,14 @@ Although the mechanism is not fully understood, cyclosporine has been shown to i
 The increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4.
 
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
-Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see WARNINGS AND PRECAUTIONS (5.1)and DRUG INTERACTIONS (7.1)].
+Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.1)].
 
-TABLE 3 Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
+TABLE 3.
+Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
 
 | Co-Administered Drug or Grapefruit Juice | Dosing of Co-Administered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (RatioResults based on a chemical assay except results with propranolol as indicated. with / without co-administered drug) No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | AUC | Cmax |
+|  | AUC | Cmax |  |  |  |
 | Avoid taking with simvastatin [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. | 12 | 15 |
 |  |  |  | simvastatin | 8.9 | 5.3 |
@@ -63,13 +64,14 @@ TABLE 3 Effect of Co-Administered Drugs or Grapefruit Juice on Simvastatin Syste
 | Avoid taking with >20 mg simvastatin, based on clinical and/or post-marketing experience [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1-7 then | 80 mg on Day 10 | simvastatin acid | 2.3 | 2.4 |
 |  | 240 mg BID on Days 8-10 |  | simvastatin | 2.5 | 2.1 |
+| Avoid taking with >40 mg simvastatin, based on clinical and/or post-marketing experience [see WARNINGS AND PRECAUTIONS (5.1)] |  |  |  |  |  |
+| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acidsimvastatin | 2.693.10 | 2.692.88 |
+| Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Fenofibrate | 160 mg QD X 14 days | 80 mg QD on Days 8-14 | simvastatin acid | 0.64 | 0.89 |
+| Fenofibrate | 160 mg QD x 14 days | 80 mg QD on Days 8-14 | simvastatin acid | 0.64 | 0.89 |
 |  |  |  | simvastatin | 0.89 | 0.83 |
-| Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid | 1.6 | 1.84 |
+| Niacin extended-releaseBecause Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 g/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.5)]. | 2 g single dose | 20 mg single dose | simvastatin acid | 1.6 | 1.84 |
 |  |  |  | simvastatin | 1.4 | 1.08 |
-| Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid | 2.69 | 2.69 |
-|  |  |  | simvastatin | 3.10 | 2.88 |
 | Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid | 1.58 | 1.56 |
 |  |  |  | simvastatin | 1.77 | 1.47 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor | 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL |

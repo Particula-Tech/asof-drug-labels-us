@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing
 
@@ -10,40 +10,48 @@ Lipid determinations should be performed after 4 weeks of therapy and periodical
 
 ## 2.2 Patients with Homozygous Familial Hypercholesterolemia
 
-The recommended dosage is 40 mg/day in the evening or 80 mg/day in 3 divided doses of 20 mg, 20 mg, and an evening dose of 40 mg. simvastatin tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
+The recommended dosage is 40 mg/day in the evening or 80 mg/day in 3 divided doses of 20 mg, 20 mg, and an evening dose of 40 mg.
+Simvastatin tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
 ## 2.3 Adolescents (10-17 years of age) with Heterozygous Familial Hypercholesterolemia
 
 The recommended usual starting dose is 10 mg once a day in the evening.
 The recommended dosing range is 10-40 mg/day; the maximum recommended dose is 40 mg/day.
-Doses should be individualized according to the recommended goal of therapy [see NCEP Pediatric Panel Guidelines1 and CLINICAL STUDIES (14.2)].
-Adjustments should be made at intervals of 4 weeks or more.
-
--------------------------------------------------------------------------------
-
-1 National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
+Doses should be individualized according to the recommended goal of therapy [see NCEP Pediatric Panel GuidelinesNational Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
 Pediatrics.
 89(3):495-501.
-1992.
+1992. and CLINICAL STUDIES (14.2)].
+Adjustments should be made at intervals of 4 weeks or more.
 
 ## 2.4 Patients with Renal Impairment
 
-Because simvastatin tablets does not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
+Because simvastatin tablets do not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
 However, caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 2.5 Coadministration with Other Drugs
+## 2.5 Chinese Patients Taking Lipid-Modifying Doses (≥1 g/day Niacin) of Niacin-Containing Products
+
+Because of an increased risk for myopathy, caution should be used when treating Chinese patients with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+Because the risk for myopathy is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products.
+The cause of the increased risk of myopathy is not known.
+It is also unknown if the risk for myopathy with coadministration of simvastatin with lipid-modifying doses of niacin-containing products observed in Chinese patients applies to other Asian patients.
+[See WARNINGS AND PRECAUTIONS (5.1).]
+
+## 2.6 Coadministration with Other Drugs
 
 Concomitant Lipid-Lowering Therapy
 
-● Simvastatin tablets may be used concomitantly with bile acid sequestrants.
-
-● Combination therapy with gemfibrozil increases simvastatin exposure.
-Therefore, if simvastatin tablets are used in combination with gemfibrozil, the dose of simvastatin should not exceed 10 mg/day [WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.2) and CLINICAL PHARMACOLOGY (12.3)].
+- Simvastatin tablets may be used concomitantly with bile acid sequestrants.
+- Combination therapy with gemfibrozil increases simvastatin exposure.
+  Therefore, if simvastatin tablets are used in combination with gemfibrozil, the dose of simvastatin should not exceed 10 mg/day [see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.2) and CLINICAL PHARMACOLOGY (12.3)].
 
 Patients taking Cyclosporine or Danazol
 
-● Simvastatin tablets therapy should begin with 5 mg/day and should not exceed 10 mg/day [see WARNINGS AND PRECAUTIONS (5.1)and DRUG INTERACTIONS (7.3)].
+- Simvastatin tablets therapy should begin with 5 mg/day and should not exceed 10 mg/day [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.3)].
 
 Patients taking Amiodarone or Verapamil
 
-● The dose of simvastatin should not exceed 20 mg/day [see WARNINGS AND PRECATIONS (5.1), DRUG INTERACTIONS (7.4), and CLINICAL PHARMACOLOGY (12.3)].
+The dose of simvastatin tablets should not exceed 20 mg/day [see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.4), and CLINICAL PHARMACOLOGY (12.3)].
+
+Patients taking Diltiazem
+
+• The dose of simvastatin tablets should not exceed 40 mg/day [see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.4), and CLINICAL PHARMACOLOGY (12.3)].
