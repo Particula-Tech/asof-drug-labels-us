@@ -225,10 +225,10 @@ No effects on fertility were identified in male and female rats treated with sal
 
 Pregnancy Category C. No teratogenic effects occurred in rats at oral doses up to 2 mg/kg (approximately 160 times the MRHD for adults on an mg/m2 basis).
 In pregnant Dutch rabbits administered oral doses of 1 mg/kg and above (approximately 50 times the MRHD for adults based on comparison of the AUCs), salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
-These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal bones.
+These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No significant effects occurred at an oral dose of 0.6 mg/kg (approximately 20 times the MRHD for adults based on comparison of the AUCs).
 
-New Zealand White rabbits were less sensitive since only delayed ossification of the frontal cranial bones was seen at an oral dose of 10 mg/kg (approximately 1,600 times the MRHD for adults on an mg/m2 basis).
+New Zealand White rabbits were less sensitive since only delayed ossification of the frontal bones was seen at an oral dose of 10 mg/kg (approximately 1,600 times the MRHD for adults on an mg/m2 basis).
 Extensive use of other beta-agonists has provided no evidence that these class effects in animals are relevant to their use in humans.
 There are no adequate and well-controlled studies with SEREVENT DISKUS in pregnant women.
 SEREVENT DISKUS should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -253,7 +253,7 @@ Available data from controlled clinical trials suggest that LABAs increase the r
 For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and a LABA should ordinarily be used to ensure adherence with both drugs (see INDICATIONS AND USAGE and WARNINGS).
 
 The safety and efficacy of SEREVENT DISKUS in adolescents (aged 12 years and older) has been established based on adequate and well-controlled trials conducted in adults and adolescents (see CLINICAL TRIALS).
-A large 28-week placebo-controlled US study, comparing salmeterol (SEREVENT Inhalation Aerosol) and placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (see CLINICAL TRIALS: Asthma: Salmeterol Multi-center Asthma Research Trial).
+A large 28-week placebo-controlled US study comparing salmeterol (SEREVENT Inhalation Aerosol) and placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (see CLINICAL TRIALS: Asthma: Salmeterol Multi-center Asthma Research Trial).
 Post-hoc analyses in pediatric patients aged 12 to 18 years were also performed.
 Pediatric patients accounted for approximately 12% of patients in each treatment arm.
 Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).

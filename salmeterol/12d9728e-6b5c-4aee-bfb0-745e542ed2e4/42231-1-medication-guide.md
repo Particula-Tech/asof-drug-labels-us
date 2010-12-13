@@ -12,16 +12,16 @@ What is the most important information I should know about SEREVENT DISKUS?
 
 SEREVENT DISKUS can cause serious side effects, including:
 
-1. People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines, such as salmeterol (SEREVENT DISKUS), have an increased risk of death from asthma problems.
-   - Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.You may need different treatment.
+1. People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines such as salmeterol (SEREVENT DISKUS), have an increased risk of death from asthma problems.
+   - Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.You may need a different treatment.
    - Get emergency medical care if:
-     - breathing problems worsen quickly and
+     - breathing problems worsen quickly, and
      - you use your rescue inhaler medicine, but it does not relieve your breathing problems.
 2. Do not use SEREVENT DISKUS as your only asthma medicine.
-   SEREVENT DISKUS must only be used with a long-term asthma control medicine, such as an inhaled corticosteroid.
+   SEREVENT DISKUS must only be used with a long-term asthma-control medicine, such as an inhaled corticosteroid.
 3. When your asthma is well controlled, your healthcare provider may tell you to stop taking SEREVENT DISKUS.
    Your healthcare provider will decide if you can stop SEREVENT DISKUS without loss of asthma control.
-   You will continue taking your other asthma control medicine, such as an inhaled corticosteroid.
+   You will continue taking your long-term asthma-control medicine, such as an inhaled corticosteroid.
 4. Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is SEREVENT DISKUS?
@@ -35,33 +35,33 @@ What is SEREVENT DISKUS?
 
 Asthma:
 
-SEREVENT DISKUS is used in adults and children aged 4 years and older, with a long-term asthma control medicines, such as an inhaled corticosteroid:
+SEREVENT DISKUS is used in adults and children aged 4 years and older, with a long-term asthma control medicine, such as an inhaled corticosteroid:
 
-- to control symptoms of asthma and
+- to control symptoms of asthma, and
 - to prevent symptoms such as wheezing.
 
 LABA medicines, such as SEREVENT DISKUS, increase the risk of death from asthma problems.
-SEREVENT DISKUS is not for adults and children with asthma who are well controlled with a long-term asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
+SEREVENT DISKUS is not for adults and children with asthma who are well controlled with a long-term asthma-control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
 
-EIB:
+Exercise-Induced Bronchospasm:
 
 SEREVENT DISKUS is used to prevent wheezing caused by exercise in adults and children aged 4 years and older.
 
 - If you have EIB only, your healthcare provider may prescribe only SEREVENT DISKUS for your condition.
 - If you have EIB and asthma, your healthcare provider should also prescribe an asthma control medicine, such as an inhaled corticosteroid.
 
-COPD:
+Chronic Obstructive Pulmonary Disease:
 
 SEREVENT DISKUS is used long term, 2 times each day (morning and evening) to control symptoms of COPD and prevent wheezing in adults with COPD.
 
 Who should not use SEREVENT DISKUS?
 
-Do not use SEREVENT DISKUS:
+Do not take SEREVENT DISKUS:
 
-- to treat your asthma without an asthma medicine known as an inhaled corticosteroid and
+- to treat your asthma without an asthma medicine known as an inhaled corticosteroid
 - if you are allergic to salmeterol or any of the ingredients in SEREVENT DISKUS.
   Ask your healthcare provider if you are not sure.
-  See the end of this Medication Guide for a list of ingredients in SEREVENT DISKUS.
+  See the end of this Medication Guide for a complete list of ingredients in SEREVENT DISKUS.
 
 What should I tell my healthcare provider before using SEREVENT DISKUS?
 
@@ -78,7 +78,7 @@ Tell your healthcare provider about all of your health conditions, including if 
 - are breastfeeding.
   It is not known if SEREVENT DISKUS passes into your milk and if it can harm your baby.
 - are allergic to SEREVENT DISKUS, any other medicines, or food products.
-  See the end of this Medication Guide for a complete list of the ingredients in SEREVENT DISKUS.
+  See the end of this Medication Guide for a complete list of ingredients in SEREVENT DISKUS.
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 SEREVENT DISKUS and certain other medicines, especially those used to treat infections, may interact with each other.
@@ -89,16 +89,16 @@ Keep a list and show it to your healthcare provider and pharmacist each time you
 
 How do I use SEREVENT DISKUS?
 
-See the step-by-step instructions for using SEREVENT DISKUS at the end of this Medication Guide.
+See the step-by-step instructions for using the SEREVENT DISKUS at the end of this Medication Guide.
 Do not use SEREVENT DISKUS unless your healthcare provider has taught you and you understand everything.
 Ask your healthcare provider or pharmacist if you have any questions.
 
 - Children should use SEREVENT DISKUS with an adult’s help, as instructed by the child’s healthcare provider.
 - Use SEREVENT DISKUS exactly as prescribed.
   Do not use SEREVENT DISKUS more often than prescribed.
-- For asthma and COPD, the usual dosage is 1 inhalation 2 times each day (morning and evening).
+- For asthma and COPD, the usual dose is 1 inhalation 2 times each day (morning and evening).
   The 2 doses should be about 12 hours apart.
-- For preventing EIB, take 1 inhalation at least 30 minutes before exercise.
+- For preventing exercise-induced bronchospasm, take 1 inhalation at least 30 minutes before exercise.
   Do not use SEREVENT DISKUS more often than every 12 hours.
   Do not use extra SEREVENT DISKUS before exercise if you already use it 2 times each day.
 - If you miss a dose of SEREVENT DISKUS, just skip that dose.
@@ -106,12 +106,13 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Do not take 2 doses at one time.
 - Do not use a spacer device with SEREVENT DISKUS.
 - Do not breathe into SEREVENT DISKUS.
-- While you are using SEREVENT DISKUS 2 times each day, do not use other medicines that contain a LABA for any reason.Ask your healthcare provider or pharmacist for a list of these medicines.
+- While you are using SEREVENT DISKUS 2 times each day, do not use other medicines that contain a long-acting beta2-agonist or LABA for any reason.
+  Ask your healthcare provider or pharmacist for a list of these medicines.
 - Do not stop using SEREVENT DISKUS or any of your asthma medicines unless told to do so by your healthcare provider because your symptoms might get worse.
   Your healthcare provider will change your medicines as needed.
 - SEREVENT DISKUS does not relieve sudden symptoms.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
-  If you do not have an inhaled, short-acting bronchodilator, call your healthcare provider to have one prescribed for you.
+  If you do not have an inhaled, short-acting bronchodilator, contact your healthcare provider to have one prescribed for you.
 - Call your healthcare provider or get medical care right away if:
   - your breathing problems worsen with SEREVENT DISKUS
   - you need to use your rescue inhaler medicine more often than usual
@@ -134,7 +135,7 @@ SEREVENT DISKUS can cause serious side effects, including:
   - rash
   - hives
   - swelling of the face, mouth, and tongue
-  - breathing problems
+  - breathing problems.
 - sudden breathing problems immediately after inhaling your medicine
 - effects on heart
   - increased blood pressure
@@ -156,7 +157,7 @@ Asthma in adults and children:
 - runny nose
 - flu
 
-COPD:
+Chronic obstructive pulmonary disease:
 
 - headache
 - musculoskeletal pain
@@ -170,15 +171,16 @@ These are not all the side effects with SEREVENT DISKUS.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or 1-800-332-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store SEREVENT DISKUS?
 
-- Store SEREVENT DISKUS at room temperature between 68° to 77° F (20° to 25° C). Keep in a dry place away from heat and sunlight.
+- Store SEREVENT DISKUS at room temperature between 68°F to 77°F (20°C to 25°C).
+  Keep in a dry place away from heat and sunlight.
 - Safely discard SEREVENT DISKUS 6 weeks after you remove it from the foil pouch, or after the dose indicator reads “0”, whichever comes first.
 - Keep SEREVENT DISKUS and all medicines out of the reach of children.
 
-General Information About SEREVENT DISKUS
+General Information about SEREVENT DISKUS
 
 Medicines are sometimes prescribed for purposes not mentioned in a Medication Guide.
 Do not use SEREVENT DISKUS for a condition for which it was not prescribed.
@@ -283,6 +285,6 @@ Research Triangle Park, NC 27709
 ©2010, GlaxoSmithKline.
 All rights reserved.
 
-June 2010
+December 2010
 
-SRD:3MG
+SRD:4MG
