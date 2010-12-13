@@ -1,12 +1,14 @@
-# PRINCIPAL DISPLAY PANEL
+# 5.8 MG CARTON
 
 NDC 0781-4004-36
 
 Omnitrope®
 
-Somatropin [rDNA orgin] for Injection
+somatropin [rDNA origin] for injection
 
-and diluent with preservative (Bacteriostatic Water for Injection 1.14 mL]
+and
+
+diluent with preservative (Bacteriostatic Water for Injection 1.14 mL]
 
 5.8 mg/vial
 
@@ -18,36 +20,54 @@ Each carton contains:
 
 For subcutaneous injection only
 
-NOT FOR USE IN NEWBORNS
+NOT FOR USE IN NEWBORNS Rx only
 
-# PRINCIPAL DISPLAY PANEL
+SANDOZ
+
+# 5 MG 1.5 ML CARTON
 
 NDC 0781-3001-07
 
 Omnitrope®
 
-Somatropin [rDNA orgin] for Injection
+Somatropin [rDNA origin]
+
+injection
 
 5 mg/1.5 mL
 
 For subcutaneous injection only
 
-Each cartridge contains somatropin 5 mg/1.5 mL
+Rx only
+
+Each cartridge contains
+
+somatropin 5 mg/1.5 mL
 
 1 cartridge
 
-# PRINCIPAL DISPLAY PANEL
+SANDOZ
+
+# 10 MG 1.5 ML CARTON
 
 NDC 0781-3004-07
 
 Omnitrope®
 
-Somatropin [rDNA orgin] for Injection
+Somatropin [rDNA origin]
+
+injection
 
 10 mg/1.5 mL
 
 For subcutaneous injection only
 
-Each cartridge contains somatropin 10 mg/1.5 mL
+Rx only
+
+Each cartridge contains
+
+somatropin 10 mg/1.5 mL
 
 1 cartridge
+
+SANDOZ

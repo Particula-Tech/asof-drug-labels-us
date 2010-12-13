@@ -13,7 +13,7 @@ The bioidentity of the recombinant protein is measured by comparing its growth i
 Each Omnitrope® Cartridge or vial contains the following (see Table 4):
 
 Table 4.
-Contents of Omnitrope® Cartridges and vial.
+Contents of Omnitrope® Cartridges and Vial
 
 | Product | Cartridge5 mg/1.5 mL | Cartridge10 mg/1.5 mL | ForInjection5.8 mg/vial |
 | --- | --- | --- | --- |

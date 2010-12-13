@@ -8,7 +8,7 @@ Two placebo-controlled clinical trials in non-growth hormone deficient adult pat
 ## 4.2 Prader-Willi Syndrome in Children
 
 Somatropin is contraindicated in patients with Prader-Willi Syndrome who are severely obese, have a history of upper airway obstruction or sleep apnea, or have severe respiratory impairment.
-There have been reports of sudden death when somatropin was used in such patients [seeWARNINGS AND PRECAUTIONS (5.2)].
+There have been reports of sudden death when somatropin was used in such patients [see WARNINGS AND PRECAUTIONS (5.2)].
 
 ## 4.3 Active Malignancy
 

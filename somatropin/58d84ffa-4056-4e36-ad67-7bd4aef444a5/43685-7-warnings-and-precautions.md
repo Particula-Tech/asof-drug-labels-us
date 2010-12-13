@@ -88,3 +88,9 @@ Parents/Patients should be informed that such reactions are possible and that pr
 ## 5.13 Laboratory Tests
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.
+
+## 5.14 Pancreatitis
+
+Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
+Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.
+Pancreatitis should be considered in any somatropin treated patient, especially a child, who develops abdominal pain.

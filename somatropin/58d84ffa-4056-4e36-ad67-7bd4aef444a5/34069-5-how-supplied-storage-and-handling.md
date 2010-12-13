@@ -37,12 +37,12 @@ NDC 0781-4004-36
 
 Omnitrope® 5.8 mg is supplied with a diluent containing benzyl alcohol as a preservative.
 After reconstitution, the contents of the vial must be used within 3 weeks.
-After the first injection, the vial should be stored in the carton in a refrigerator at 2° to 8°C (36° to 46°F) (see Table 10).
+After the first injection, the vial should be stored in the carton in a refrigerator at 2° to 8°C (36° to 46°F) (see Table 10.).
 
 Table 10.
 Storage Options
 
-| Omnitrope®ProductFormulation | StorageRequirement |  |
+| Omnitrope®ProductFormulation | Storage Requirement |  |
 | --- | --- | --- |
 | Before Use | In-use(after 1st injection) |  |
 | 5 mg/1.5 mLcartridge | 2-8ºC/36-46ºFUntil exp date | 2-8 ºC/36-46 ºF4 weeks |

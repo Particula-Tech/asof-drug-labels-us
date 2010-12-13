@@ -11,7 +11,7 @@ Therapy with Omnitrope® should be supervised by a physician who is experienced 
 The Omnitrope® dosage and administration schedule should be individualized based on the growth response of each patient.
 
 Response to somatropin therapy in pediatric patients tends to decrease with time.
-However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, under nutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
+However, in pediatric patients, the failure to increase growth rate, particularly during the first year of therapy, indicates the need for close assessment of compliance and evaluation for other causes of growth failure, such as hypothyroidism, undernutrition, advanced bone age and antibodies to recombinant human GH (rhGH).
 
 Treatment with Omnitrope® for short stature should be discontinued when the epiphyses are fused.
 
