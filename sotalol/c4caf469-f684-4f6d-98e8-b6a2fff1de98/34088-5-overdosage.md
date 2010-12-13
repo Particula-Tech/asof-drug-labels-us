@@ -2,7 +2,7 @@
 
 Intentional or accidental overdosage with BETAPACE (sotalol hydrochloride) has rarely resulted in death.
 
-## Symptoms and Treatment of Overdosage:
+## Symptoms and Treatment of Overdosage
 
 The most common signs to be expected are bradycardia, congestive heart failure, hypotension, bronchospasm and hypoglycemia.
 In cases of massive intentional overdosage (2-16 grams) of BETAPACE the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
@@ -12,22 +12,12 @@ Patients should be carefully observed until QT intervals are normalized and the 
 The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase (half life of 30 hours) thought to be due to a temporary reduction of renal function caused by the hypotension.
 In addition, if required, the following therapeutic measures are suggested:
 
-### Bradycardia or Cardiac Asystole
+Bradycardia or Cardiac Asystole: Atropine, another anticholinergic drug, a beta-adrenergic agonist or transvenous cardiac pacing.
 
-: Atropine, another anticholinergic drug, a beta-adrenergic agonist or transvenous cardiac pacing.
+Heart Block: (second and third degree) transvenous cardiac pacemaker.
 
-### Heart Block
+Hypotension: (depending on associated factors) epinephrine rather than isoproterenol or norepinephrine may be useful.
 
-(second and third degree) transvenous cardiac pacemaker.
+Bronchospasm: Aminophylline or aerosol beta-2-receptor stimulant.
 
-### Hypotension
-
-(depending on associated factors) epinephrine rather than isoproterenol or norepinephrine may be useful.
-
-### Bronchospasm
-
-Aminophylline or aerosol beta-2-receptor stimulant.
-
-### Torsade de Pointes
-
-DC cardioversion, transvenous cardiac pacing, epinephrine, magnesium sulfate.
+Torsade de Pointes: DC cardioversion, transvenous cardiac pacing, epinephrine, magnesium sulfate.

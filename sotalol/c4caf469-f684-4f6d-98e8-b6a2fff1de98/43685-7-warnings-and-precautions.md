@@ -19,7 +19,7 @@ On the other hand, in the large postinfarction study using a non-titrated initia
 Like other antiarrhythmic agents, BETAPACE can provoke new or worsened ventricular arrhythmias in some patients, including sustained ventricular tachycardia or ventricular fibrillation, with potentially fatal consequences.
 Because of its effect on cardiac repolarization (QTc interval prolongation), Torsade de Pointes, a polymorphic ventricular tachycardia with prolongation of the QT interval and a shifting electrical axis is the most common form of proarrhythmia associated with BETAPACE, occurring in about 4% of high risk (history of sustained VT/VF) patients.
 The risk of Torsade de Pointes progressively increases with prolongation of the QT interval, and is worsened also by reduction in heart rate and reduction in serum potassium.
-(see Electrolyte Disturbances:)
+(See Electrolyte Disturbances.)
 
 Because of the variable temporal recurrence of arrhythmias, it is not always possible to distinguish between a new or aggravated arrhythmic event and the patient‘s underlying rhythm disorder.
 (Note, however, that Torsade de Pointes is usually a drug-induced arrhythmia in people with an initially normal QTc.)
@@ -73,7 +73,7 @@ Proarrhythmic events most often occur within 7 days of initiating therapy or of 
 Initiating therapy at 80 mg BID with gradual upward dose titration and appropriate evaluations for efficacy (e.g., PES or Holter) and safety (e.g., QT interval, heart rate and electrolytes) prior to dose escalation, should reduce the risk of proarrhythmia.
 Avoiding excessive accumulation of sotalol in patients with diminished renal function, by appropriate dose reduction, should also reduce the risk of proarrhythmia (see DOSAGE AND ADMINISTRATION).
 
-## Congestive Heart Failure:
+## Congestive Heart Failure
 
 Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta-blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
 In patients who have congestive heart failure controlled by digitalis and/or diuretics, BETAPACE should be administered cautiously.
@@ -84,7 +84,7 @@ The incidence was higher in patients presenting with sustained ventricular tachy
 Based on a lifetable analysis, the one-year incidence of new or worsened CHF was 3% in patients without a prior history and 10% in patients with a prior history of CHF.
 NYHA Classification was also closely associated to the incidence of new or worsened heart failure while receiving BETAPACE (1.8% in 1395 Class I patients, 4.9% in 1254 Class II patients and 6.1% in 278 Class III or IV patients).
 
-## Electrolyte Disturbances:
+## Electrolyte Disturbances
 
 BETAPACE should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
@@ -139,14 +139,16 @@ In patients with diabetes (especially labile diabetes) or with a history of epis
 
 BETAPACE should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
 
-## Thyrotoxicosis:
+## Thyrotoxicosis
 
 Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade which might be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
 
 # PRECAUTIONS
 
-RENAL IMPAIRMENT: BETAPACE (sotalol hydrochloride) is mainly eliminated via the kidneys through glomerular filtration and to a small degree by tubular secretion.
+## Renal Impairment
+
+BETAPACE (sotalol hydrochloride) is mainly eliminated via the kidneys through glomerular filtration and to a small degree by tubular secretion.
 There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of BETAPACE.
 Guidance for dosing in conditions of renal impairment can be found under "DOSAGE AND ADMINISTRATION."
 
@@ -167,6 +169,8 @@ Additive Class II effects would also be anticipated with the use of other beta-b
 
 Single and multiple doses of BETAPACE do not substantially affect serum digoxin levels.
 Proarrhythmic events were more common in BETAPACE treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 
 ### Calcium-blocking drugs
 
@@ -239,4 +243,4 @@ Because of the potential for adverse reactions in nursing infants from BETAPACE,
 
 The safety and effectiveness of BETAPACE in children have not been established.
 However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old.
-(see CLINICAL PHARMACOLOGY)
+(See CLINICAL PHARMACOLOGY.)

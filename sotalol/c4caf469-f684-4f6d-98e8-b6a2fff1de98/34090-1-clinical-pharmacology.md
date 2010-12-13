@@ -59,7 +59,7 @@ In a randomized clinical trial [Electrophysiologic Study Versus Electrocardiogra
 Overall response, limited to first randomized drug, was 39% for sotalol and 30% for the pooled other drugs.
 Acute response rate for first drug randomized using suppression of PES induction was 36% for BETAPACE vs. a mean of 13% for the other drugs.
 Using the Holter monitoring endpoint (complete suppression of sustained VT, 90% suppression of NSVT, 80% suppression of VPC pairs, and at least 70% suppression of VPCs), BETAPACE yielded 41% response vs. 45% for the other drugs combined.
-Among responders placed on longterm therapy identified acutely as effective (by either PES or Holter), BETAPACE, when compared to the pool of other drugs, had the lowest two-year mortality (13% vs. 22%), the lowest two-year VT recurrence rate (30% vs. 60%), and the lowest withdrawal rate (38% vs. about 75-80%).
+Among responders placed on long-term therapy identified acutely as effective (by either PES or Holter), BETAPACE, when compared to the pool of other drugs, had the lowest two-year mortality (13% vs. 22%), the lowest two-year VT recurrence rate (30% vs. 60%), and the lowest withdrawal rate (38% vs. about 75-80%).
 The most commonly used doses of BETAPACE (sotalol hydrochloride) in this trial were 320-480 mg/day (66% of patients), with 16% receiving 240 mg/day or less and 18% receiving 640 mg or more.
 
 It cannot be determined, however, in the absence of a controlled comparison of BETAPACE vs. no pharmacologic treatment (e.g., in patients with implanted defibrillators) whether BETAPACE response causes improved survival or identifies a population with a good prognosis.
@@ -83,7 +83,8 @@ The pharmacokinetics of the d and l enantiomers of sotalol are essentially ident
 BETAPACE (sotalol hydrochloride) crosses the blood brain barrier poorly.
 Excretion is predominantly via the kidney in the unchanged form, and therefore lower doses are necessary in conditions of renal impairment (see DOSAGE AND ADMINISTRATION).
 Age per se does not significantly alter the pharmacokinetics of BETAPACE, but impaired renal function in geriatric patients can increase the terminal elimination half-life, resulting in increased drug accumulation.
-The absorption of BETAPACE (sotalol hydrochloride) was reduced by approximately 20% compared to fasting when it was administered with a standard meal.Since BETAPACE (sotalol hydrochloride) is not subject to first-pass metabolism, patients with hepatic impairment show no alteration in clearance of BETAPACE.
+The absorption of BETAPACE (sotalol hydrochloride) was reduced by approximately 20% compared to fasting when it was administered with a standard meal.
+Since BETAPACE (sotalol hydrochloride) is not subject to first-pass metabolism, patients with hepatic impairment show no alteration in clearance of BETAPACE.
 
 The combined analysis of two unblinded, multicenter trials (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
 A daily dose of 30 mg/m2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m2 were administered q 8h in the multi-dose study.

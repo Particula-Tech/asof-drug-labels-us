@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 During premarketing trials, 3186 patients with cardiac arrhythmias (1363 with sustained ventricular tachycardia) received oral BETAPACE, of whom 2451 received the drug for at least two weeks.
 The most important adverse effects are Torsade de Pointes and other serious new ventricular arrhythmias (see WARNINGS), occurring at rates of almost 4% and 1%, respectively, in the VT/VF population.
@@ -16,7 +16,7 @@ Incidence (%) of Adverse Events and Discontinuations
 | DAILY DOSE |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Body System |  |  |  |  |  |  | % Patients) |
-| 160mg | 240mg | 320mg | 480mg | 640mg | Any DoseBecause patients are counted at each dose level tested, the Any Dose column cannot be determined by adding across the doses. | Discontinued |  |
+| 160 mg | 240 mg | 320 mg | 480 mg | 640 mg | Any DoseBecause patients are counted at each dose level tested, the Any Dose column cannot be determined by adding across the doses. | Discontinued |  |
 | (n=832) | (n=263) | (n=835) | (n=459) | (n=324) | (n=1292) | (n=1292) |  |
 | Body as a whole |  |  |  |  |  |  |  |
 | infection | 1 | 2 | 2 | 2 | 3 | 4 | <1 |
