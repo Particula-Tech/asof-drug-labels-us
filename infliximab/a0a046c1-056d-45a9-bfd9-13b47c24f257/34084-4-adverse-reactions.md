@@ -4,7 +4,7 @@
 
 The data described herein reflect exposure to REMICADE in 4779 adult patients (1304 patients with rheumatoid arthritis, 1106 patients with Crohn's disease, 202 with ankylosing spondylitis, 293 with psoriatic arthritis, 484 with ulcerative colitis, 1373 with plaque psoriasis, and 17 patients with other conditions), including 2625 patients exposed beyond 30 weeks and 374 exposed beyond 1 year.
 [For information on adverse reactions in pediatric patients see Adverse Reactions (6.1).]
-One of the most-common reasons for discontinuation of treatment was infusion-related reactions (e.g. dyspnea, flushing, headache and rash).
+One of the most-common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).
 Adverse events have been reported in a higher proportion of rheumatoid arthritis patients receiving the 10 mg/kg dose than the 3 mg/kg dose, however, no differences were observed in the frequency of adverse events between the 5 mg/kg dose and 10 mg/kg dose in patients with Crohn's disease.
 
 Infusion-related Reactions
@@ -125,8 +125,8 @@ Table 1 Proportion of patients with elevated ALT in clinical trials
 | Rheumatoid arthritisPlacebo patients received methotrexate while REMICADE patients received both REMICADE and methotrexate. Median follow-up was 58 weeks. | 24% | 34% | 3% | 4% | <1% | <1% |
 | Crohn's diseasePlacebo patients in the 2 Phase 3 trials in Crohn's disease received an initial dose of 5 mg/kg REMICADE at study start and were on placebo in the maintenance phase. Patients who were randomized to the placebo maintenance group and then later crossed over to REMICADE are included in the REMICADE group in ALT analysis. Median follow-up was 54 weeks. | 34% | 39% | 4% | 5% | 0% | 2% |
 | Ulcerative colitisMedian follow-up was 30 weeks. Specifically, the median duration of follow-up was 30 weeks for placebo and 31 weeks for REMICADE. | 12% | 17% | 1% | 2% | <1% | <1% |
-| Ankylosing spondylitisMedian follow-up was 24 weeks for placebo group and 102 weeks for REMICADE group. | 15% | 51% | 0% | 10% | 0% | 4% |
-| Psoriatic arthritisMedian follow-up was 39 weeks for REMICADE group and 18 weeks for placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
+| Ankylosing spondylitisMedian follow-up was 24 weeks for the placebo group and 102 weeks for the REMICADE group. | 15% | 51% | 0% | 10% | 0% | 4% |
+| Psoriatic arthritisMedian follow-up was 39 weeks for the REMICADE group and 18 weeks for the placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
 | Plaque psoriasisALT values are obtained in 2 Phase 3 psoriasis studies with median follow-up of 50 weeks for REMICADE and 16 weeks for placebo. | 24% | 49% | <1% | 8% | 0% | 3% |
 
 Adverse Reactions in Pediatric Crohn's Disease
@@ -144,7 +144,7 @@ Herpes zoster was reported for 2 patients in the every 8-week maintenance treatm
 In Study Peds Crohn's, 18% of randomized patients experienced 1 or more infusion reactions, with no notable difference between treatment groups.
 Of the 112 patients in Study Peds Crohn's, there were no serious infusion reactions, and 2 patients had non-serious anaphylactoid reactions.
 
-Antibodies to REMICADE developed in 3% of pediatric patients in Study Peds Crohn's.
+In Study Peds Crohn's, in which all patients received stable doses of 6-MP, AZA, or MTX, 3% (3/105) of patients developed antibodies to REMICADE.
 
 Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 18% of pediatric patients in Crohn's disease clinical trials; 4% had ALT elevations ≥3 × ULN, and 1% had elevations ≥5 × ULN.
 (Median follow-up was 53 weeks.)

@@ -21,6 +21,7 @@ REMICADE is indicated for reducing signs and symptoms and inducing and maintaini
 
 Remicade has been studied only in combination with conventional immunosuppressive therapy in children with Crohn's disease.
 REMICADE has not been studied in children with Crohn's disease <6 years of age.
+Use of REMICADE in the absence of other immunosuppressants may increase the likelihood of infliximab-specific antibody formation and increase the risk of developing hypersensitivity reactions [see Warnings and Precautions (5.7) and Adverse Reactions, Immunogenicity (6.1)].
 The longer term (greater than 1 year) safety and effectiveness of REMICADE in pediatric Crohn's disease patients have not been established in clinical trials.
 
 Safety and effectiveness of REMICADE in pediatric patients with ulcerative colitis and plaque psoriasis have not been established.

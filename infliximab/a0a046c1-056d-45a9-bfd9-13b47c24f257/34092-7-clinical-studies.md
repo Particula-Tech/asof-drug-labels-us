@@ -93,7 +93,7 @@ The proportion of pediatric patients achieving clinical response at Week 10 comp
 At both Week 30 and Week 54, the proportion of patients in clinical response was greater in the every 8-week treatment group than in the every 12-week treatment group (73% vs. 47% at Week 30, and 64% vs. 33% at Week 54).
 At both Week 30 and Week 54, the proportion of patients in clinical remission was also greater in the every 8-week treatment group than in the every 12-week treatment group (60% vs. 35% at Week 30, and 56% vs. 24% at Week 54), (Table 4).
 
-For patients in Study Peds Crohn's receiving corticosteroids at baseline, the proportion of patients able to discontinue corticosteroids while in remission at Week 30 was 46% for the every 8 week maintenance group and 33% for the every 12 week maintenance group.
+For patients in Study Peds Crohn's receiving corticosteroids at baseline, the proportion of patients able to discontinue corticosteroids while in remission at Week 30 was 46% for the every 8-week maintenance group and 33% for the every 12-week maintenance group.
 At Week 54, the proportion of patients able to discontinue corticosteroids while in remission was 46% for the every 8-week maintenance group and 17% for the every 12-week maintenance group.
 
 Table 4 Response and remission in study peds Crohn's
@@ -112,7 +112,7 @@ Table 4 Response and remission in study peds Crohn's
 
 ## 14.2 Ulcerative Colitis
 
-The safety and efficacy of REMICADE were assessed in 2 randomized, double-blind, placebo-controlled clinical studies in 728 patients with moderately to severely active ulcerative colitis (UC) (Mayo score5 6 to 12 [of possible range 0 to12], Endoscopy subscore ≥2) with an inadequate response to conventional oral therapies (Studies UC I and UC II).
+The safety and efficacy of REMICADE were assessed in 2 randomized, double-blind, placebo-controlled clinical studies in 728 patients with moderately to severely active ulcerative colitis (UC) (Mayo score5 6 to 12 [of possible range 0 to 12], Endoscopy subscore ≥2) with an inadequate response to conventional oral therapies (Studies UC I and UC II).
 Concomitant treatment with stable doses of aminosalicylates, corticosteroids and/or immunomodulatory agents was permitted.
 Corticosteroid taper was permitted after Week 8.
 Patients were randomized at week 0 to receive either placebo, 5 mg/kg REMICADE or 10 mg/kg REMICADE at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 46 in Study UC I, and at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 22 in Study UC II.
@@ -178,7 +178,7 @@ Table 6 Proportion of patients in Study UC I with Mayo subscores indicating inac
 | Week 8 | 74% | 86% | 80% |
 | Week 30 | 65% | 74% | 71% |
 | Week 54 | 62% | 69% | 67% |
-| Physician's global assessment |  |  |  |
+| Physician's Global Assessment |  |  |  |
 | Baseline | 4% | 6% | 3% |
 | Week 8 | 44% | 74% | 64% |
 | Week 30 | 36% | 57% | 55% |
@@ -319,7 +319,7 @@ Table 10 Components of ankylosing spondylitis disease activity
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo (n=78) |  | REMICADE 5mg/kg (n=201) |  |  |
 | ASAS 20 response Criteria (Mean) |  |  |  |  |  |
-| Patient global assessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
+| Patient Global AssessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
 | Spinal pain | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
 | BASFIBath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
 | InflammationInflammation, average of last 2 questions on the 6-question BASDAI | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
@@ -365,7 +365,7 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 |  | Placebo |  | REMICADE 5mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
 | Patients Randomized | (n=100) |  | (n=100) |  |
 | Parameter (medians) |  |  |  |  |
-| No of Tender JointsScale 0-68 | 24 | 20 | 20 | 6 |
+| No. of Tender JointsScale 0-68 | 24 | 20 | 20 | 6 |
 | No. of Swollen JointsScale 0-66 | 12 | 9 | 12 | 3 |
 | PainVisual Analog Scale (0=best, 10=worst) | 6.4 | 5.6 | 5.9 | 2.6 |
 | Physician's Global Assessment | 6.0 | 4.5 | 5.6 | 1.5 |
@@ -436,7 +436,7 @@ Overall lesions were graded with consideration to the percent of body involvemen
 Treatment success, defined as "clear" or "excellent," consisted of some residual pinkness or pigmentation to marked improvement (nearly normal skin texture; some erythema may be present).
 The results of these studies are presented in Table 12.
 
-Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI 75 and percentage who achieved treatment "success" with physician's global assessment
+Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI 75 and percentage who achieved treatment "success" with Physician's Global Assessment
 
 |  |  | 3 mg/kg | 5 mg/kg |
 | --- | --- | --- | --- |

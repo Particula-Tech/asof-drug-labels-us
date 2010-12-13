@@ -52,6 +52,7 @@ These cases have had a very aggressive disease course and have been fatal.
 All reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
 All of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with REMICADE at or prior to diagnosis.
 It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.
+When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions, Immunogenicity (6.1)].
 
 In the controlled portions of clinical trials of some TNF-blocking agents including REMICADE, more malignancies (excluding lymphoma and nonmelanoma skin cancer [NMSC]) have been observed in patients receiving those TNF-blockers compared with control patients.
 During the controlled portions of REMICADE trials in patients with moderately to severely active rheumatoid arthritis, Crohn's disease, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, and plaque psoriasis, 14 patients were diagnosed with malignancies (excluding lymphoma and NMSC) among 4019 REMICADE-treated patients vs. 1 among 1597 control patients (at a rate of 0.52/100 patient-years among REMICADE-treated patients vs. a rate of 0.11/100 patient-years among control patients), with median duration of follow-up 0.5 years for REMICADE-treated patients and 0.4 years for control patients.
@@ -79,7 +80,7 @@ Caution should be exercised in considering REMICADE treatment in patients with a
 
 ## 5.3 Hepatitis B Virus Reactivation
 
-Use of TNF blockers, including REMICADE has been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic carriers of this virus.
+Use of TNF blockers, including REMICADE, has been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic carriers of this virus.
 In some instances, HBV reactivation occurring in conjunction with TNF blocker therapy has been fatal.
 The majority of these reports have occurred in patients concomitantly receiving other medications that suppress the immune system, which may also contribute to HBV reactivation.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating TNF blocker therapy.
@@ -92,7 +93,7 @@ Therefore, prescribers should exercise caution when considering resumption of TN
 
 ## 5.4 Hepatotoxicity
 
-Severe hepatic reactions, including acute liver failure, jaundice, hepatitis and cholestasis have been reported rarely in postmarketing data in patients receiving REMICADE.
+Severe hepatic reactions, including acute liver failure, jaundice, hepatitis and cholestasis, have been reported rarely in postmarketing data in patients receiving REMICADE.
 Autoimmune hepatitis has been diagnosed in some of these cases.
 Severe hepatic reactions occurred between 2 weeks to more than 1 year after initiation of REMICADE; elevations in hepatic aminotransferase levels were not noted prior to discovery of the liver injury in many of these cases.
 Some of these cases were fatal or necessitated liver transplantation.
@@ -124,16 +125,15 @@ Most hypersensitivity reactions, which include urticaria, dyspnea, and/or hypote
 
 However, in some cases, serum sickness-like reactions have been observed in patients after initial REMICADE therapy (i.e., as early as after the second dose), and when REMICADE therapy was reinstituted following an extended period without REMICADE treatment.
 Symptoms associated with these reactions include fever, rash, headache, sore throat, myalgias, polyarthralgias, hand and facial edema and/or dysphagia.
-These reactions were associated with marked increase in antibodies to infliximab, loss of detectable serum concentrations of infliximab, and possible loss of drug efficacy.
+These reactions were associated with a marked increase in antibodies to infliximab, loss of detectable serum concentrations of infliximab, and possible loss of drug efficacy.
 
 REMICADE should be discontinued for severe hypersensitivity reactions.
 Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen, antihistamines, corticosteroids and/or epinephrine) should be available for immediate use in the event of a reaction [see Adverse Reactions (6.1)].
 
 ## 5.8 Neurologic Events
 
-REMICADE and other agents that inhibit TNF have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and CNS manifestation of systemic vasculitis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
-Prescribers should exercise caution in considering the use of REMICADE in patients with pre-existing or recent onset of demyelinating or seizure disorders.
-Discontinuation of REMICADE should be considered in patients who develop significant central nervous system adverse reactions.
+REMICADE and other agents that inhibit TNF have been associated in rare cases with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Prescribers should exercise caution in considering the use of REMICADE in patients with these neurologic disorders and should consider discontinuation of REMICADE if these disorders develop.
 
 ## 5.9 Use with Anakinra
 

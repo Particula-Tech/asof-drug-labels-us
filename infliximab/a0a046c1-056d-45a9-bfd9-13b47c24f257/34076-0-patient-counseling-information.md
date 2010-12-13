@@ -12,12 +12,8 @@ It is important that the patient's overall health be assessed at each treatment 
 - Other Medical Conditions Advise patients to report any signs of new or worsening medical conditions such as heart disease, neurological disease, or autoimmune disorders.
   Advise patients to report any symptoms of a cytopenia such as bruising, bleeding or persistent fever.
 
-Product developed and manufactured by: Centocor Ortho Biotech Inc. 200 Great Valley Parkway Malvern, PA 19355
+Product developed and manufactured by: Centocor Ortho Biotech Inc. 200 Great Valley Parkway Malvern, PA 19355 License # 1821
 
-Revised April 2010
-
-License # 1821
-
-©Centocor Ortho Biotech Inc. 2010
+Revised October 2010 ©Centocor Ortho Biotech Inc. 2010
 
 ## 17.2 Medication Guide

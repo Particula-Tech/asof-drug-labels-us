@@ -14,7 +14,7 @@ The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction re
 
 ## 2.3 Rheumatoid Arthritis
 
-The recommended dose of REMICADE is 3 mg/kg given as an intravenous induction regimen at 0, 2, and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active rheumatoid arthritis.
+The recommended dose of REMICADE is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active rheumatoid arthritis.
 REMICADE should be given in combination with methotrexate.
 For patients who have an incomplete response, consideration may be given to adjusting the dose up to 10 mg/kg or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses [see Adverse Reactions (6.1)].
 
@@ -24,12 +24,12 @@ The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction re
 
 ## 2.5 Psoriatic Arthritis
 
-The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2, and 6 weeks followed by maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of psoriatic arthritis.
+The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of psoriatic arthritis.
 REMICADE can be used with or without methotrexate.
 
 ## 2.6 Plaque Psoriasis
 
-The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2, and 6 weeks followed by maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) plaque psoriasis.
+The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) plaque psoriasis.
 
 ## 2.7 Monitoring to Assess Safety
 
