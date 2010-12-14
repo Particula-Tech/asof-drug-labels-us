@@ -16,7 +16,7 @@ Rx only
 
 240 mL
 
-See prescribing information for dosage information..
+See prescribing information for dosage information.
 
 Store at controlled room temperature of 20o to 25oC (68o to 77oF) (see USP) in tightly closed bottles.
 
@@ -41,6 +41,8 @@ Epivir-HBV®
 
 Tablets 100 mg
 
+60 Tablets
+
 Each tablet contains 100 mg of lamivudine.
 
 Rx only
@@ -57,7 +59,9 @@ Research Triangle Park, NC 27709 Manufactured under agreement from Shire Pharmac
 
 Basingstoke, UK
 
-©2009, GlaxoSmithKline
+Made in Singapore
 
-A074000 Rev.
-10/09
+©2010, GlaxoSmithKline
+
+A079159 Rev.
+4/10
