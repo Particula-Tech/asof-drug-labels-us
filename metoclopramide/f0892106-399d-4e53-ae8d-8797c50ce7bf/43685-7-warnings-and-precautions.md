@@ -2,9 +2,12 @@
 
 ## 5.1 Tardive Dyskinesia
 
-Treatment with metoclopramide can cause tardive dyskinesia (TD) [see Boxed Warning], a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
-Although the risk of TD with metoclopramide has not been extensively studied, one published study reported a TD prevalence of 20% among patients treated for at least 12 weeks.
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
+(see Boxed Warning)
+
+Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
+The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
+An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it for longer than 12 weeks.
+Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
 Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
 Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.

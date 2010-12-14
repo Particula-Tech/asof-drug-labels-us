@@ -6,7 +6,7 @@ NDC 65649-431-02
 
 Rx only
 
-METOZOLVTM ODT
+METOZOLV®ODT
 
 (metoclopramide HCl) Orally Disintegrating Tablets
 
@@ -25,7 +25,7 @@ NDC 65649-431-02
 10 orally disintegrating tablets Dispense the accompanying Medication Guide to each patient.
 Rx only
 
-METOZOLVTM ODT
+METOZOLV®ODT
 
 (metoclopramide HCl) Orally Disintegrating Tablets
 

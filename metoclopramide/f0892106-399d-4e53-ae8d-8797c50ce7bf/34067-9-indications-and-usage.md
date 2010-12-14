@@ -2,7 +2,7 @@
 
 ## 1.1 Symptomatic Gastroesophageal Reflux Disease
 
-METOZOLV ODT is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux disease (GERD) who fail to respond to conventional therapy.
+METOZOLV®ODT is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux disease (GERD) who fail to respond to conventional therapy.
 
 ## 1.2 Diabetic Gastroparesis (Diabetic Gastric Stasis)
 

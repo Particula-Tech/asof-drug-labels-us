@@ -1,6 +1,4 @@
-# WARNINGS
-
-WARNING: TARDIVE DYSKINESIA
+# WARNING: TARDIVE DYSKINESIA
 
 Treatment with metoclopramide can cause tardive dyskinesia, a serious movement disorder that is often irreversible.
 The risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dose.

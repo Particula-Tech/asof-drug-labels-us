@@ -1,6 +1,6 @@
 Medication Guide
 
-METOZOLV™(MĔ-tō-zolv) ODT
+METOZOLV®(MĔ-tō-zolv) ODT
 
 (metoclopramide hydrochloride)
 
@@ -210,4 +210,4 @@ Morrisville, NC 27560, USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-VENART-144-0/ Sep 2009
+VENART-144-1/ Nov 2010
