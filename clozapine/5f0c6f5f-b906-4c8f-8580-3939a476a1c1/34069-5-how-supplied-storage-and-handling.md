@@ -45,6 +45,6 @@ Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
 
-REV: JANUARY 2010 T2010-28
+REV: DECEMBER 2010 T2010-122
 
 © Novartis
