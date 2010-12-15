@@ -54,9 +54,12 @@ The risk/benefit should be carefully considered in patients with established hyp
 Any patient who is administered Rapamune should be monitored for hyperlipidemia.
 If detected, interventions such as diet, exercise, and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines.
 
-In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates appeared to be well-tolerated.
+In clinical trials of patients receiving Rapamune plus cyclosporine or Rapamune after cyclosporine withdrawal, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
+Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels >240 mg/dL and triglycerides above recommended target levels.
+The concomitant administration of Rapamune and HMG-CoA reductase inhibitors resulted in adverse events such as CPK elevations (3%), myalgia (6.7%) and rhabdomyolysis (<1%).
+In these trials, the number of patients was too small and duration of follow-up too short to evaluate the long-term impact of Rapamune on cardiovascular mortality.
 
-During Rapamune therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents.
+During Rapamune therapy with or without cyclosporine, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents.
 
 ## 5.8 Renal Function
 

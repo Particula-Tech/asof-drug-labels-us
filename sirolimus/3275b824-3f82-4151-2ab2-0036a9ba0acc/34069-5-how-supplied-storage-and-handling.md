@@ -1,7 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Since Rapamune is not absorbed through the skin, there are no special precautions.
-However, if direct contact with the skin or mucous membranes occurs, wash thoroughly with soap and water; rinse eyes with plain water.
+However, if direct contact of the oral solution occurs with the skin or eyes, wash skin thoroughly with soap and water; rinse eyes with plain water.
+
+Do not use RAPAMUNE after the expiration date that is located on the blister and carton.
+The expiration date refers to the last day of that month.
 
 ## 16.1 Rapamune Oral Solution
 

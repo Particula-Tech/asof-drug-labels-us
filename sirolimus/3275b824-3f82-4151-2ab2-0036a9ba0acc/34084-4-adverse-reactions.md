@@ -85,6 +85,8 @@ The use of Rapamune in renal transplant patients was associated with increased s
 In Studies 1 and 2, in de novo renal transplant patients who began the study with fasting, total serum cholesterol < 200 mg/dL or fasting, total serum triglycerides < 200 mg/dL, there was an increased incidence of hypercholesterolemia (fasting serum cholesterol > 240 mg/dL) or hypertriglyceridemia (fasting serum triglycerides > 500 mg/dL), respectively, in patients receiving both Rapamune 2 mg and Rapamune 5 mg compared with azathioprine and placebo controls.
 
 Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42‑52% of patients enrolled in the Rapamune arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
+In other Rapamune renal transplant studies, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
+Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels >240 mg/dL and triglycerides above recommended target levels [see Warnings and Precautions (5.7)].
 
 ### Abnormal Healing
 
