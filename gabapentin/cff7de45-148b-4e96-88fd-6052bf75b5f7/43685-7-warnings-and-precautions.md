@@ -79,7 +79,8 @@ Consequently, whether these figures are reassuring or raise further concern depe
 
 ## Information for Patients
 
-Patients should be instructed to take gabapentin only as prescribed.
+Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin.
+Instruct patients to take gabapentin only as prescribed.
 
 Patients, their caregivers, and families should be counseled that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
