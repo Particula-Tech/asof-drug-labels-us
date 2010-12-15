@@ -14,6 +14,8 @@ Mean peak, trough and average serum testosterone concentrations within the norma
 Figure 2 summarizes the 24-hour pharmacokinetic profiles of testosterone administered as AndroGel for 30, 90 and 180 days.
 Testosterone concentrations were maintained as long as the patient continued to properly apply the prescribed AndroGel treatment.
 
+Figure 2: Mean Steady-State Testosterone Concentrations in Patients with Once-Daily AndroGel Therapy
+
 Table 5 summarizes the mean testosterone concentrations on Treatment Day 180 for patients receiving 5 g, 7.5 g, or 10 g of AndroGel.
 The 7.5 g dose produced mean concentrations intermediate to those produced by 5 g and 10 g of AndroGel.
 

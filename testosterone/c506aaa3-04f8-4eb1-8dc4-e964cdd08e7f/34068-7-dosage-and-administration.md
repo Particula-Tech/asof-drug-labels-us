@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing
 
-The recommended starting dose of AndroGel is 5 g once daily (preferably in the morning) to clean, dry, intact skin of the shoulders and upper arms and/or abdomen.
+The recommended starting dose of AndroGel is 5 g once daily (preferably in the morning) to clean, dry, intact skin of the shoulders and upper arms and/or abdomen (area of application should be limited to the area that will be covered by the patient's short sleeve t-shirt).
 AndroGel must not be applied to the genitals.
 AndroGel is supplied as either a pump or in individual packets.
 After applying the gel, the application site should be allowed to dry for a few minutes prior to dressing.

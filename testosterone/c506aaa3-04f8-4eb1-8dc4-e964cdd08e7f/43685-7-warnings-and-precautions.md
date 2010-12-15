@@ -1,25 +1,36 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Worsening of BPH and Potential Risk of Prostate Cancer
+## 5.1 Benign Prostatic Hyperplasia and Potential Risk of Prostate Cancer
 
 - Patients with BPH treated with androgens are at an increased risk for worsening of signs and symptoms of BPH.
 - Patients treated with androgens may be at increased risk for prostate cancer.
-  Evaluation of the patient for prostate cancer prior to initiating and during treatment with androgens is appropriate [see Warnings and Precaution (5.9), Adverse Reactions (6.1), and Nonclinical Toxicology (13.1)].
+  Evaluation of the patient for prostate cancer prior to initiating and during treatment with androgens is appropriate.
 - Increases in serum PSA from baseline values were seen in approximately 18% of individuals in an open label study of 162 hypogonadal men treated with AndroGel for up to 42 months.
-  Most of these increases were seen within the first year of therapy [see Contraindications (4), Warnings and Precautions (5.9), Adverse Reactions (6), and Nonclinical Toxicology (13.1)].
+  Most of these increases were seen within the first year of therapy [see Contraindications (4), Warnings and Precautions (5.9), Adverse Reactions (6.1), and Nonclinical Toxicology (13.1)].
 
-## 5.2 Potential for Testosterone Transfer to Others
+## 5.2 Potential for Secondary Exposure to Testosterone
 
-Transfer of testosterone to others (including women and children) can occur when vigorous skin-to-skin contact is made with the application site [see Clinical Studies (14.3)].
-The following precautions are recommended to minimize potential transfer of testosterone from AndroGel-treated skin to another person:
+Secondary exposure to testosterone in children and women can occur with testosterone gel use in men [see Clinical Studies (14.3)].
+Cases of secondary exposure resulting in virilization of children have been reported in postmarketing surveillance.
+Signs and symptoms have included enlargement of the penis or clitoris, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
+In most cases, these signs and symptoms regressed with removal of the exposure to testosterone gel.
+In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
+The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of testosterone gel.
 
-- Patients should wash their hands immediately with soap and water after application of AndroGel.
-- Patients should cover the application site(s) with clothing after the gel has dried (e.g., a shirt).
-- In the event that unwashed or unclothed skin to which AndroGel has been applied does come in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.
-  In vitro studies show that residual testosterone is removed from the skin surface by washing with soap and water.
-- Women and children should avoid skin contact with AndroGel application sites in males.
-  Changes in body hair distribution, significant increase in acne, or other signs of virilization should be brought to the attention of a physician.
-  AndroGel may cause fetal harm in a pregnant woman due to virilization of a female fetus [see Use in Specific Populations (8.1)].
+Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone gel should also be brought to the attention of a physician.
+Testosterone gel should be promptly discontinued until the cause of virilization has been identified.
+
+Testosterone may cause fetal harm in a pregnant woman due to virilization of a female fetus [see Use in Specific Populations (8.1)].
+
+Strict adherence to the following precautions is advised in order to minimize the potential for secondary exposure to testosterone from AndroGel-treated skin:
+
+- Children and women should avoid contact with unwashed or unclothed application site(s) of men using testosterone gel.
+- AndroGel should only be applied to the shoulders, upper arms, and/or abdomen (area of application should be limited to the area that will be covered by the patient's short sleeve t-shirt).
+- Patients should wash their hands immediately with soap and water after applying AndroGel.
+- Patients should cover the application site(s) with clothing (e.g., a shirt) after the gel has dried.
+- Prior to any situation in which skin-to-skin contact with the application site is anticipated, patients should wash the application site(s) thoroughly with soap and water to remove any testosterone residue.
+- In the event that unwashed or unclothed skin to which AndroGel has been applied comes in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.
+  Studies show that residual testosterone is removed from the skin surface by washing with soap and water.
 
 ## 5.3 Use in Women
 

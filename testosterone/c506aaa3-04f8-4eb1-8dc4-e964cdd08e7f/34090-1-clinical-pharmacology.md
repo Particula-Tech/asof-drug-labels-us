@@ -32,6 +32,8 @@ With single daily applications of AndroGel, follow-up measurements 30, 90 and 18
 Figure 1 summarizes the 24-hour pharmacokinetic profiles of testosterone for hypogonadal men (<300 ng/dL) maintained on 5 g or 10 g of AndroGel for 30 days.
 The average (± SD) daily testosterone concentration produced by AndroGel 10 g on Day 30 was 792 (± 294) ng/dL and by AndroGel 5 g 566 (± 262) ng/dL.
 
+Figure 1: Mean (± SD) Steady-State Serum Testosterone Concentrations on Day 30 in Patients Applying AndroGel Once Daily
+
 When AndroGel treatment is discontinued after achieving steady state, serum testosterone levels remain in the normal range for 24 to 48 hours but return to their pretreatment levels by the fifth day after the last application.
 
 Distribution
