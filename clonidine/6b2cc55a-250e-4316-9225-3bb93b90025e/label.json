@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022500"
+  ],
+  "inn": "clonidine",
+  "labeler": "NextWave Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24478-300-30",
+    "24478-301-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "NEXICLON"
+    }
+  ],
+  "setid": "6b2cc55a-250e-4316-9225-3bb93b90025e",
+  "source": "dailymed"
+}
