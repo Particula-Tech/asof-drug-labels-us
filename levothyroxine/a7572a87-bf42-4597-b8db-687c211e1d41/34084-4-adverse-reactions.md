@@ -1,9 +1,25 @@
 # ADVERSE REACTIONS
 
-Adverse reactions associated with levothyroxine therapy are primarily those of hyperthyroidism due to therapeutic overdosage (seePRECAUTIONS andOVERDOSAGE).
+Adverse reactions associated with levothyroxine therapy are primarily those of hyperthyroidism due to therapeutic overdosage (see PRECAUTIONS and OVERDOSAGE).
 They include the following:
 
-General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating; Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia; Musculoskeletal: tremors, muscle weakness; Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest; Respiratory: dyspnea; Gastrointestinal: diarrhea, vomiting, abdominal cramps and elevations in liver function tests; Dermatologic: hair loss, flushing; Endocrine: decreased bone mineral density; Reproductive: menstrual irregularities, impaired fertility.
+General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating;
+
+Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia;
+
+Musculoskeletal: tremors, muscle weakness;
+
+Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest;
+
+Respiratory: dyspnea;
+
+Gastrointestinal: diarrhea, vomiting, abdominal cramps and elevations in liver function tests;
+
+Dermatologic: hair loss, flushing;
+
+Endocrine: decreased bone mineral density;
+
+Reproductive: menstrual irregularities, impaired fertility.
 
 Pseudotumor cerebri and slipped capital femoral epiphysis have been reported in children receiving levothyroxine therapy.
 Overtreatment may result in craniosynostosis in infants and premature closure of the epiphyses in children with resultant compromised adult height.
