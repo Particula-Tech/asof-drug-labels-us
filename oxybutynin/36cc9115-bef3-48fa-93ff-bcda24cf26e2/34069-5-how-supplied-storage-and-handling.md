@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
-DITROPAN XL ® (oxybutynin chloride) Extended Release Tablets are available in three dosage strengths, 5 mg (pale yellow), 10 mg (pink), and 15 mg (gray) and are imprinted with "5 XL", "10 XL", or "15 XL".
-DITROPAN XL Extended Release Tablets are supplied in bottles of 100 tablets.
+DITROPAN XL® (oxybutynin chloride) Extended Release Tablets are available in three dosage strengths, 5 mg (pale yellow), 10 mg (pink), and 15 mg (gray) and are imprinted with "5 XL", "10 XL", or "15 XL".
+DITROPAN XL® Extended Release Tablets are supplied in bottles of 100 tablets.
 
 | 5 mg | 100 count bottle | NDC 50458-805-01 |
 | --- | --- | --- |

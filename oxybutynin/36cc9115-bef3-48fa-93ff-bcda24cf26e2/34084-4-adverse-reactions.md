@@ -1,20 +1,20 @@
 # ADVERSE REACTIONS
 
-## Adverse Events with DITROPAN XL
+## Adverse Events with DITROPAN XL®
 
-The safety and efficacy of DITROPAN XL ® (oxybutynin chloride) was evaluated in a total of 580 participants who received DITROPAN XL in 4 clinical trials (429 patients) and four pharmacokinetic studies (151 healthy volunteers).
+The safety and efficacy of DITROPAN XL® (oxybutynin chloride) were evaluated in a total of 580 participants who received DITROPAN XL® in 4 clinical trials (429 patients) and four pharmacokinetic studies (151 healthy volunteers).
 The 429 patients were treated with 5–30 mg/day for up to 4.5 months.
-Three of the 4 clinical trials allowed dose adjustments based on efficacy and adverse events and one was a fixed dose escalation design.
-Safety information is provided for 429 patients from these three controlled clinical studies and one open label study in the first column of Table 3 below.
+Three of the 4 clinical trials allowed dose adjustments based on efficacy and adverse events and one was a fixed-dose escalation design.
+Safety information is provided for 429 patients from these three controlled clinical studies and one open-label study in the first column of Table 3 below.
 
-Adverse events from two additional fixed dose, active controlled, 12 week treatment duration, postmarketing studies, in which 576 patients were treated with DITROPAN XL 10 mg/day, are also listed in Table 3 (second column).
+Adverse events from two additional fixed-dose, active-controlled, 12-week treatment duration, postmarketing studies, in which 576 patients were treated with DITROPAN XL® 10 mg/day, are also listed in Table 3 (second column).
 The adverse events are reported regardless of causality.
 
-Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using DITROPAN XL (5–30 mg/day) and % of Corresponding Adverse Events in Two Fixed Dose (10mg/day) Studies
+Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using DITROPAN XL® (5–30 mg/day) and % of Corresponding Adverse Events in Two Fixed-Dose (10 mg/day) Studies
 
 | Body System | Adverse Event | 5–30 mg/day (n=429) | 10 mg/day (n=576) |
 | --- | --- | --- | --- |
-|  |  | DITROPAN XL | DITROPAN XL |
+|  |  | DITROPAN XL® | DITROPAN XL® |
 | General | headache | 10 | 6 |
 |  | asthenia | 7 | 3 |
 |  | pain | 7 | 4 |
@@ -30,18 +30,18 @@ Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using DIT
 |  | dry eyes | 6 | 3 |
 | Urogenital | urinary tract infection | 5 | 5 |
 
-The most common adverse events reported by the 429 patients receiving 5–30 mg/day DITROPAN XL were the expected side effects of anticholinergic agents.
+The most common adverse events reported by the 429 patients receiving 5–30 mg/day DITROPAN XL® were the expected side effects of anticholinergic agents.
 The incidence of dry mouth was dose-related.
 
 The discontinuation rate for all adverse events was 6.8% in the 429 patients from the 4 studies of efficacy and safety who received 5–30 mg/day.
 The most frequent adverse event causing early discontinuation of study medication was nausea (1.9%), while discontinuation due to dry mouth was 1.2%.
 
-In addition, the following adverse events were reported by ≥ 1 to < 5% of all patients who received DITROPAN XL in the 6 adjustable and fixed dose efficacy and safety studies.
+In addition, the following adverse events were reported by ≥ 1 to < 5% of all patients who received DITROPAN XL® in the 6 adjustable and fixed-dose efficacy and safety studies.
 Infections and infestations: nasopharyngitis, upper respiratory tract infection, sinusitis, bronchitis, cystitis; Psychiatric disorders: insomnia, depression, nervousness, confusional state; Nervous System Disorders: dysgeusia; Cardiac disorders: palpitations; Vascular disorders: hypertension; Respiratory, thoracic and mediastinal disorders: nasal dryness, cough, pharyngolaryngeal pain, dry throat; Gastrointestinal Disorders: gastroesophageal reflux disease, abdominal pain, loose stools, flatulence, vomiting; Skin and subcutaneous tissue disorders: dry skin, pruritis; Musculoskeletal and connective tissue disorders: back pain, arthralgia, pain in extremity; Renal and urinary disorders: urinary retention, urinary hesitation, dysuria; General disorders and administration site conditions: fatigue, edema peripheral, asthenia, chest pain; Investigations: blood pressure increased.
 
 ## Postmarketing Surveillance
 
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following additional adverse drug reactions have been reported from worldwide postmarketing experience with DITROPAN XL: Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia; tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; Injury, poisoning and procedural complications: fall.
+The following additional adverse drug reactions have been reported from worldwide postmarketing experience with DITROPAN XL®: Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia, tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.

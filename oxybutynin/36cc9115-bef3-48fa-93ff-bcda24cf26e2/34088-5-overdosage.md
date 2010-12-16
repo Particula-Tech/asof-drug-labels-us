@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-The continuous release of oxybutynin from DITROPAN XL ® (oxybutynin chloride) should be considered in the treatment of overdosage.
+The continuous release of oxybutynin from DITROPAN XL® (oxybutynin chloride) should be considered in the treatment of overdosage.
 Patients should be monitored for at least 24 hours.
 Treatment should be symptomatic and supportive.
 Activated charcoal as well as a cathartic may be administered.
