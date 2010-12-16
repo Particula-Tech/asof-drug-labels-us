@@ -218,13 +218,13 @@ ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised January 5, 2010
+Medication Guide revised December 6, 2010
 
-Eli Lilly and Company Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.zyprexa.com
 
 Copyright © 2009, 2010, Eli Lilly and Company.
 All rights reserved.
 
-PV 6922 AMP
+PV 6923 AMP

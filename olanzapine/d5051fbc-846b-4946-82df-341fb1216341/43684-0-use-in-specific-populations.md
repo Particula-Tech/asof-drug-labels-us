@@ -15,6 +15,12 @@ Placental transfer of olanzapine occurs in rat pups.
 There are no adequate and well-controlled trials with olanzapine in pregnant females.
 Seven pregnancies were observed during clinical trials with olanzapine, including 2 resulting in normal births, 1 resulting in neonatal death due to a cardiovascular defect, 3 therapeutic abortions, and 1 spontaneous abortion.
 
+Nonteratogenic Effects — Neonates exposed to antipsychotic drugs (including ZYPREXA), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+ZYPREXA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## 8.2 Labor and Delivery
 
 The effect of olanzapine on labor and delivery in humans is unknown.
