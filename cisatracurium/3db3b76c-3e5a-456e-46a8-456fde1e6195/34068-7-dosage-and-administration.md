@@ -1,5 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS – Pediatric Use)
+
 NIMBEX SHOULD ONLY BE ADMINISTERED INTRAVENOUSLY.
 
 The dosage information provided below is intended as a guide only.

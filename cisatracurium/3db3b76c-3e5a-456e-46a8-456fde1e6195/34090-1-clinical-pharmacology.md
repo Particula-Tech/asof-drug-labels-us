@@ -27,9 +27,9 @@ The onset, duration of action, and recovery profiles of NIMBEX during propofol/o
 Table 1.
 Pharmacodynamic Dose Response* of NIMBEX During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
-| Initial Dose of NIMBEX (mg/kg) | Time to 90% Block (min) |  | Time to Maximum Block (min) |  | 5% Recovery (min) | 25% Recovery† (min) | 95% Recovery (min) | T 4:T 1 Ratio‡≥ 70% (min) | 25%-75% Recovery Index (min) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | Time to Spontaneous Recovery |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Initial Dose of NIMBEX (mg/kg) | Time to 90% Block (min) |  | Time to Maximum Block (min) |  | 5% Recovery (min) | 25% Recovery† (min) | 95% Recovery (min) | T 4:T 1 Ratio‡≥ 70% (min) | 25%-75% Recovery Index (min) |
 | Adults |  |  |  |  |  |  |  |  |  |
 | 0.1 (2 × ED95) (n§= 98) | 3.3 (1.0-8.7) |  | 5.0 (1.2-17.2) |  | 33 (15-51) | 42 (22-63) | 64 (25-93) | 64 (32-91) | 13 (5-30) |
 | 0.15\|\| (3 × ED95) (n = 39) | 2.6 (1.0-4.4) |  | 3.5 (1.6-6.8) |  | 46 (28-65) | 55 (44-74) | 76 (60-103) | 75 (63-98) | 13 (11-16) |
@@ -42,7 +42,7 @@ Pharmacodynamic Dose Response* of NIMBEX During Opioid/Nitrous Oxide/Oxygen Anes
 | 0.08¶ (2 × ED95) (n = 60) | 2.2 (1.2-6.8) |  | 3.3 (1.7-9.7) | 22 (11-38) |  | 29 (20-46) | 52 (37-64) | 50 (37-62) | 11 (7-15) |
 | 0.1 (n = 16) | 1.7 (1.3-2.7) |  | 2.8 (1.8-6.7) | 21 (13-31) |  | 28 (21-38) | 46 (37-58) | 44 (36-58) | 10 (7-12) |
 | 0.15** (n = 23-24) | 2.1 (1.3-2.8) |  | 3.0 (1.5-8.0) | 29 (19-38) |  | 36 (29-46) | 55 (45-72) | 54 (44-66) | 10.6 (8.5-17.7) |
-| * Values shown are medians of means from individual studies. Values in parentheses are ranges of individual patient values.† Clinically effective duration of block.‡ Train-of-four ratio.§ n=the number of patients with Time to Maximum Block data.\|\| Propofol anesthesia.¶ Halothane anesthesia.** Thiopentone, alfentanil, N2O/O2 anesthesia |  |  |  |  |  |  |  |  |  |
+| * Values shown are medians of means from individual studies. Values in parentheses are ranges of individual patient values. † Clinically effective duration of block. ‡ Train-of-four ratio. § n=the number of patients with Time to Maximum Block data. \|\| Propofol anesthesia. ¶ Halothane anesthesia. ** Thiopentone, alfentanil, N2O/O2 anesthesia |  |  |  |  |  |  |  |  |  |
 
 When administered during the induction of adequate anesthesia using propofol, nitrous oxide/oxygen, and co-induction agents (e.g., fentanyl and midazolam), GOOD or EXCELLENT conditions for tracheal intubation occurred in 96/102 (94%) patients in 1.5 to 2.0 minutes following 0.15 mg/kg cisatracurium and in 97/110 (88%) patients in 1.5 minutes following 0.2 mg/kg cisatracurium.
 
@@ -95,9 +95,9 @@ The results are summarized in Table 4.
 Table 4.
 Study of Tracheal Intubation for Pediatrics Stratified by Age Group (0.15 mg/kg NIMBEX with Halothane or Thiopentone/ Fentanyl Anesthesia)
 
-| Intubating Conditions at 120 seconds** | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | NIMBEX 0.15 mg/kg 1-11 mo. n = 30 |  | NIMBEX 0.15 mg/kg 1- 4 years n = 31 |  | NIMBEX 0.15 mg/kg 5-12 years n = 30 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Intubating Conditions at 120 seconds** | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia | Halothane Anesthesia | Thiopentone/ Fentanyl Anesthesia |
 | Excellent and Good |  |  |  |  |  |  |
 | Proportion | 30/30 | 30/30 | 29/30 | 26/30 | 29/30 | 29/30 |
 | Percent | 100% | 100% | 97% | 87% | 97% | 97% |
@@ -110,7 +110,7 @@ Study of Tracheal Intubation for Pediatrics Stratified by Age Group (0.15 mg/kg 
 | Poor |  |  |  |  |  |  |
 | Proportion | 0/30 | 0/30 | 1/30 | 4/30 | 1/30 | 1/30 |
 | Percent | 0% | 0% | 3% | 13% | 3% | 3% |
-| ** Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted. Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted.Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |
+| ** Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted. Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |
 
 EXCELLENT or GOOD intubating conditions were produced 120 seconds following 0.15 mg/kg NIMBEX in 88/90 (98%) of patients induced with halothane and in 85/90 (94%) of patients induced with thiopentone and fentanyl.
 There were no patients for whom intubation was not possible, but there were 7/120 patients ages 1-12 years for whom intubating conditions were described as poor.
@@ -121,7 +121,7 @@ Maintenance doses can therefore be administered at relatively regular intervals 
 The rate of spontaneous recovery of neuromuscular function after infusion is independent of the duration of infusion and comparable to the rate of recovery following initial doses (Table 1).
 
 Long-term infusion (up to 6 days) of NIMBEX during mechanical ventilation in the ICU has been evaluated in two studies.
-In a randomized, double-blind study using presence of a single twitch during train-of-four (TOF) monitoring to regulate dosage, patients treated with NIMBEX (n = 19) recovered neuromuscular function (T4:T1 ratio≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas those treated with vecuronium (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
+In a randomized, double-blind study using presence of a single twitch during train-of-four (TOF) monitoring to regulate dosage, patients treated with NIMBEX (n = 19) recovered neuromuscular function (T4:T1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas those treated with vecuronium (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
 In another study comparing NIMBEX and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both NIMBEX (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
 
 The neuromuscular block produced by NIMBEX is readily antagonized by anticholinesterase agents once recovery has started.
@@ -198,7 +198,7 @@ Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical P
 | Vss (mL/kg)§ | 145 | 27% |
 | keo (min-1)ll | 0.0575 | 61% |
 | EC50 (ng/mL)¶ | 141 | 52% |
-| * Healthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected.† The percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates.‡ Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability.§ Vss is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments. Vss is equal to the sum of the volume in the central compartment (Vc) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for Vc.ll Rate constant describing the equilibration between plasma concentrations and neuromuscular block.¶ Concentration required to produce 50% T1 suppression; an index of patient sensitivity. |  |  |
+| * Healthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected. † The percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates. ‡ Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability. § Vss is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments. Vss is equal to the sum of the volume in the central compartment (Vc) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for Vc. ll Rate constant describing the equilibration between plasma concentrations and neuromuscular block. ¶ Concentration required to produce 50% T1 suppression; an index of patient sensitivity. |  |  |
 
 The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics - Elimination).
 The magnitudes of interpatient variability in CL and volume of distribution were low in comparison to those for keo and EC50.
@@ -206,7 +206,7 @@ This suggests that any alterations in the time course of cisatracurium-induced b
 Parameter estimates from the population pharmacokinetic analyses were supported by noncompartmental pharmacokinetic analyses on data from healthy patients and from special patient populations.
 
 Conventional pharmacokinetic analyses have shown that the pharmacokinetics of cisatracurium are proportional to dose between 0.1 (2 × ED95) and 0.2 (4 × ED95) mg/kg cisatracurium.
-In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0.1 (2× ED95) and 0.4 (8 × ED95) mg/kg cisatracurium.
+In addition, population pharmacokinetic analyses revealed no statistically significant effect of initial dose on CL for doses between 0.1 (2 × ED95) and 0.4 (8 × ED95) mg/kg cisatracurium.
 
 ### Distribution
 
@@ -216,7 +216,7 @@ The Vss was 21% larger in similar patients receiving inhalation anesthesia (see 
 
 ### Protein Binding
 
-The binding of cisatracurium to plasma proteins has not been successfully studieddue to its rapid degradation at physiologic pH.
+The binding of cisatracurium to plasma proteins has not been successfully studied due to its rapid degradation at physiologic pH.
 Inhibition of degradation requires nonphysiological conditions of temperature and pH which are associated with changes in protein binding.
 
 ### Metabolism
@@ -243,7 +243,7 @@ Following 14C-cisatracurium administration to 6 healthy male patients, 95% of th
 In 12 healthy surgical patients receiving non-radiolabeled cisatracurium who had Foley catheters placed for surgical management, approximately 15% of the dose was excreted unchanged in the urine.
 
 In studies of healthy surgical patients, mean t½β values of cisatracurium ranged from 22 to 29 minutes and were consistent with the t½β of cisatracurium in vitro (29 minutes).
-The mean± SD t½β values of laudanosine were 3.1± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receivingNIMBEX (n = 10) or atracurium (n = 10), respectively.
+The mean ± SD t½β values of laudanosine were 3.1 ± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receiving NIMBEX (n = 10) or atracurium (n = 10), respectively.
 During IV infusions of NIMBEX, peak plasma concentrations (Cmax) of laudanosine and the MQA metabolite are approximately 6% and 11% of the parent compound, respectively.
 
 ### Special Populations
@@ -257,14 +257,14 @@ These changes were consistent with the 1-minute slower times to maximum block in
 The minor differences in PK/PD parameters of cisatracurium between elderly patients and young patients were not associated with clinically significant differences in the recovery profile of NIMBEX.
 
 Table 6.
-Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2× ED95) NIMBEX (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
+Pharmacokinetic Parameters* of Cisatracurium in Healthy Elderly and Young Adult Patients Following 0.1 mg/kg (2 × ED95) NIMBEX (Isoflurane/Nitrous Oxide/Oxygen Anesthesia)
 
 | Parameter | Healthy Elderly Patients | Healthy Young Adult Patients |
 | --- | --- | --- |
 | Elimination Half-Life (t½β, min) | 25.8 ± 3.6† | 22.1 ± 2.5 |
 | Volume of Distribution at Steady State‡ (mL/kg) | 156 ± 17† | 133 ± 15 |
 | Plasma Clearance (mL/min/kg) | 5.7 ± 1.0 | 5.3 ± 0.9 |
-| * Values presented are mean ± SD.† P < 0.05 for comparisons between healthy elderly and healthy young adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| * Values presented are mean ± SD. † P < 0.05 for comparisons between healthy elderly and healthy young adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 #### Patients with Hepatic Disease
 
@@ -285,7 +285,7 @@ Pharmacokinetic Parameters* of Cisatracurium in Healthy Adult Patients and in Pa
 | Elimination Half-Life (t½β, min) | 24.4 ± 2.9 | 23.5 ± 3.5 |
 | Volume of Distribution at Steady State‡ (mL/kg) | 195 ± 38† | 161 ± 23 |
 | Plasma Clearance (mL/min/kg) | 6.6 ± 1.1† | 5.7 ± 0.8 |
-| * Values presented are mean ± SD.† P < 0.05 for comparisons between liver transplant patients and healthy adult patients.‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| * Values presented are mean ± SD. † P < 0.05 for comparisons between liver transplant patients and healthy adult patients. ‡ Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 #### Patients with Renal Dysfunction
 
@@ -304,7 +304,7 @@ Pharmacokinetic Parameters* for Cisatracurium in Healthy Adult Patients and in P
 | Elimination Half-Life (t½β, min) | 29.4 ± 4.1 | 32.3 ± 6.3 |
 | Volume of Distribution at Steady State† (mL/kg) | 149 ± 35 | 160 ± 32 |
 | Plasma Clearance (mL/min/kg) | 4.66 ± 0.86 | 4.26 ± 0.62 |
-| * Values presented are mean ± SD.† Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
+| * Values presented are mean ± SD. † Volume of distribution is underestimated because elimination from the peripheral compartment is ignored. |  |  |
 
 Population pharmacokinetic analyses revealed that patients with creatinine clearances ≤ 70 mL/min had a slower rate of equilibration between plasma concentrations and neuromuscular block than patients with normal renal function; this change was associated with a slightly slower (~ 40 seconds) predicted time to 90% T1 suppression in patients with renal dysfunction following 0.1 mg/kg NIMBEX.
 There was no clinically significant alteration in the recovery profile of NIMBEX in patients with renal dysfunction.
@@ -330,7 +330,7 @@ Parameter Estimates* for Cisatracurium, Atracurium, and Metabolites in ICU Patie
 |  | t½β (hrs) | 6.6 ± 4.1 | 8.4 ± 7.3 |
 | MQA metabolite | Cmax (ng/mL) | 152-181§ | 943 ± 333ll |
 |  | t½β (min) | 26-31§ | 21-58§ |
-| * Presented as mean ± standard deviation.† n = 5.‡ Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored.§ n = 2, range presented.ll n = 3. |  |  |  |
+| * Presented as mean ± standard deviation. † n = 5. ‡ Volume of distribution during the terminal elimination phase, an underestimate because elimination from the peripheral compartment is ignored. § n = 2, range presented. ll n = 3. |  |  |  |
 
 Plasma metabolite pharmacokinetics are listed in Table 9.
 Limited pharmacokinetic data are available for patients with liver/kidney dysfunction receiving NIMBEX.

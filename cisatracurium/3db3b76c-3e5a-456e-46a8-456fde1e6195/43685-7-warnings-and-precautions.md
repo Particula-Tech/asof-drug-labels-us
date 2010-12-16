@@ -1,5 +1,14 @@
 # WARNINGS
 
+## Anaphylaxis
+
+Severe anaphylactic reactions to neuromuscular blocking agents, including NIMBEX, have been reported.
+These reactions have in some cases been life-threatening and fatal.
+Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
+Precautions should also be taken in those individuals who have had previous anaphylactic reactions to other neuromuscular blocking agents since cross-reactivity between neuromuscular blocking agents, both depolarizing and non-depolarizing, has been reported in this class of drugs.
+
+## Administration
+
 NIMBEX SHOULD BE ADMINISTERED IN CAREFULLY ADJUSTED DOSAGE BY OR UNDER THE SUPERVISION OF EXPERIENCED CLINICIANS WHO ARE FAMILIAR WITH THE DRUG'S ACTIONS AND THE POSSIBLE COMPLICATIONS OF ITS USE.
 THE DRUG SHOULD NOT BE ADMINISTERED UNLESS PERSONNEL AND FACILITIES FOR RESUSCITATION AND LIFE SUPPORT (TRACHEAL INTUBATION, ARTIFICIAL VENTILATION, OXYGEN THERAPY), AND AN ANTAGONIST OF NIMBEX ARE IMMEDIATELY AVAILABLE.
 IT IS RECOMMENDED THAT A PERIPHERAL NERVE STIMULATOR BE USED TO MEASURE NEUROMUSCULAR FUNCTION DURING THE ADMINISTRATION OF NIMBEX IN ORDER TO MONITOR DRUG EFFECT, DETERMINE THE NEED FOR ADDITIONAL DOSES, AND CONFIRM RECOVERY FROM NEUROMUSCULAR BLOCK.
@@ -9,9 +18,14 @@ TO AVOID DISTRESS TO THE PATIENT, NEUROMUSCULAR BLOCK SHOULD NOT BE INDUCED BEFO
 
 NIMBEX Injection is acidic (pH 3.25 to 3.65) and may not be compatible with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
 
-The 10 mL multiple-dose vials of NIMBEX contain benzyl alcohol.
-In newborn infants, benzyl alcohol has been associated with an increased incidence of neurological and other complications which are sometimes fatal.
-Single-use vials (5 mL and 20 mL) of NIMBEX do not contain benzyl alcohol (see PRECAUTIONS - Pediatric Use).
+The 10 mL multiple-dose vials of NIMBEX contain benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
+Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
+There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
+The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solution containing benzyl alcohol.
+Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
+The amount of benzyl alcohol at which toxicity may occur is not known.
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
+Single-use vials (5 mL and 20 mL) of NIMBEX do not contain benzyl alcohol (see WARNINGS and PRECAUTIONS - Pediatric Use).
 
 # PRECAUTIONS
 
@@ -31,6 +45,11 @@ To avoid inaccurate dosing, neuromuscular monitoring should be performed on a no
 
 Acid-base and/or serum electrolyte abnormalities may potentiate or antagonize the action of neuromuscular blocking agents.
 No data are available to support the use of NIMBEX by intramuscular injection.
+
+## Allergic Reactions
+
+Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
+In addition, inform your patients that severe anaphylactic reactions to neuromuscular blocking agents, including NIMBEX have been reported (see CONTRAINDICATIONS).
 
 ## Renal and Hepatic Disease
 
@@ -128,6 +147,14 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 NIMBEX has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION for clinical experience and recommendations for use in children 1 month to 12 years of age).
 Intubation of the trachea in patients 1-4 years old was facilitated more reliably when NIMBEX was used in combination with Halothane than when opioids and nitrous oxide were used for induction of anesthesia.
+
+The 10 mL multiple-dose vials of NIMBEX contain benzyl alcohol as a preservative.
+Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
+The “gasping syndrome”, (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 ## Geriatric Use
 

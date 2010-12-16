@@ -37,7 +37,8 @@ These events have been chosen for inclusion due to a combination of their seriou
 
 ### General
 
-Histamine release, hypersensitivity reactions including anaphylactic or anaphylactoid responses which, in rare instances, were severe.
+Histamine release, hypersensitivity reactions including anaphylactic or anaphylactoid reactions which in some cases have been life threatening and fatal.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (see WARNINGS and PRECAUTIONS).
 There are rare reports of wheezing, laryngospasm, bronchospasm, rash and itching following administration of NIMBEX in children.
 These reported adverse events were not serious and their etiology could not be established with certainty.
 
