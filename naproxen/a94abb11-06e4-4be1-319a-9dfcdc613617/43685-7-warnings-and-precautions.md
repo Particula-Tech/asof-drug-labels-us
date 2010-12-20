@@ -4,9 +4,7 @@ TREXIMET should only be used where a clear diagnosis of migraine headache has be
 
 ## Cardiovascular Effects
 
-### Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events
-
-TREXIMET should not be given to patients with documented ischemic or vasospastic coronary artery disease (CAD) or to patients with a history of CABG surgery (see CONTRAINDICATIONS).
+Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events: TREXIMET should not be given to patients with documented ischemic or vasospastic coronary artery disease (CAD) or to patients with a history of CABG surgery (see CONTRAINDICATIONS).
 It is strongly recommended that sumatriptan-containing products not be given to patients in whom unrecognized CAD is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, female with surgical or physiological menopause, male over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of CAD and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of, or consistent with, coronary artery vasospasm or myocardial ischemia, TREXIMET should not be administered (see CONTRAINDICATIONS).
@@ -18,17 +16,13 @@ It is recommended that patients who are intermittent long-term users of TREXIMET
 
 The systematic approach described above is intended to reduce the likelihood that patients with unrecognized cardiovascular disease will be inadvertently exposed to sumatriptan-containing products.
 
-### Cardiac Events and Fatalities Associated With 5-HT1 Agonists
-
-Serious adverse cardiac events, including acute myocardial infarction, life-threatening disturbances of cardiac rhythm, and death have been reported within a few hours following the administration of sumatriptan.
+Cardiac Events and Fatalities Associated With 5-HT1 Agonists: Serious adverse cardiac events, including acute myocardial infarction, life-threatening disturbances of cardiac rhythm, and death have been reported within a few hours following the administration of sumatriptan.
 Considering the extent of use of 5-HT1 agonists in patients with migraine, the incidence of these events is extremely low.
 
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In cases, however, where there has been known underlying coronary artery disease, the relationship is uncertain.
 
-### Cardiovascular Thrombotic Events and Fatalities Associated With Nonsteroidal Anti-inflammatory Drugs
-
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to 3 years' duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
+Cardiovascular Thrombotic Events and Fatalities Associated With Nonsteroidal Anti-inflammatory Drugs: Clinical trials of several COX-2 selective and nonselective NSAIDs of up to 3 years' duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
 To minimize the potential risk for an adverse cardiovascular event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
@@ -38,28 +32,20 @@ Patients should be informed about the signs and/or symptoms of serious cardiovas
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious cardiovascular thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID does increase the risk of serious gastrointestinal events (see WARNINGS: Risk of Gastrointestinal Ulceration, Bleeding, and Perforation With Nonsteroidal Anti-inflammatory Drug Therapy).
 
-### Premarketing Experience With TREXIMET
+Premarketing Experience With TREXIMET: Among 3,302 patients with migraine who received TREXIMET in premarketing controlled and uncontrolled clinical trials, a 47-year-old female with cardiac risk factors in an open-label 12-month safety study experienced signs and symptoms of acute coronary syndrome approximately 2 hours after receiving TREXIMET.
 
-Among 3,302 patients with migraine who received TREXIMET in premarketing controlled and uncontrolled clinical trials, a 47-year-old female with cardiac risk factors in an open-label 12-month safety study experienced signs and symptoms of acute coronary syndrome approximately 2 hours after receiving TREXIMET.
-
-### Drug-Associated Cerebrovascular Events and Fatalities
-
-Cerebral hemorrhage, subarachnoid hemorrhage, stroke, and other cerebrovascular events have been reported in patients treated with oral or subcutaneous sumatriptan, and some have resulted in fatalities.
+Drug-Associated Cerebrovascular Events and Fatalities: Cerebral hemorrhage, subarachnoid hemorrhage, stroke, and other cerebrovascular events have been reported in patients treated with oral or subcutaneous sumatriptan, and some have resulted in fatalities.
 The relationship of sumatriptan to these events is uncertain.
 In a number of cases, it appears possible that the cerebrovascular events were primary, sumatriptan having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine when they were not.
 As with other acute migraine therapies, before treating headaches in patients not previously diagnosed as migraineurs, and in migraineurs who present with atypical symptoms, care should be taken to exclude other potentially serious neurological conditions.
 It should also be noted that patients with migraine may be at increased risk of certain cerebrovascular events (e.g., cerebrovascular accident, transient ischemic attack).
 
-### Other Vasospasm-Related Events
-
-Sumatriptan may cause vasospastic reactions other than coronary artery vasospasm.
+Other Vasospasm-Related Events: Sumatriptan may cause vasospastic reactions other than coronary artery vasospasm.
 Both peripheral vascular ischemia and colonic ischemia with abdominal pain and bloody diarrhea have been reported.
 Transient and permanent blindness and significant partial vision loss have been reported with the use of sumatriptan.
 Visual disorders may also be part of a migraine attack.
 
-### Increase in Blood Pressure
-
-TREXIMET is contraindicated in patients with uncontrolled hypertension (see CONTRAINDICATIONS).
+Increase in Blood Pressure: TREXIMET is contraindicated in patients with uncontrolled hypertension (see CONTRAINDICATIONS).
 TREXIMET should be used with caution in patients with controlled hypertension.
 
 Significant elevation in blood pressure, including hypertensive crisis, has been reported in patients with and without a history of hypertension receiving sumatriptan.
@@ -70,9 +56,7 @@ Patients taking thiazides or loop diuretics may have impaired response to these 
 The potential effect on blood pressure associated with long-term use of TREXIMET has not been studied.
 Blood pressure should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
-### Congestive Heart Failure and Edema
-
-TREXIMET should be used with caution in patients with fluid retention or heart failure.
+Congestive Heart Failure and Edema: TREXIMET should be used with caution in patients with fluid retention or heart failure.
 Fluid retention and edema have been observed in some patients taking NSAIDs.
 Since each TREXIMET tablet contains 61.2 mg of sodium (about 2.7 mEq/500 mg of naproxen sodium), this should be considered in patients whose overall intake of sodium must be severely restricted.
 
@@ -114,9 +98,7 @@ In these patients administration of an NSAID may cause a dose-dependent reductio
 Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and angiotensin-converting enzyme (ACE) inhibitors, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
-### Advanced Renal Disease
-
-Treatment with TREXIMET is not recommended in patients with advanced renal disease.
+Advanced Renal Disease: Treatment with TREXIMET is not recommended in patients with advanced renal disease.
 If therapy with TREXIMET must be initiated, close monitoring of the patient’s renal function is advisable (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Renal Effects).
 No information is available from controlled clinical studies regarding the use of TREXIMET in patients with advanced renal disease.
 
@@ -173,8 +155,7 @@ For a given attack, if a patient does not respond to the first dose of TREXIMET,
 
 ## Hepatic Effects
 
-TREXIMET is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and CLINICAL PHARMACOLOGY).
-A patient with symptoms and/or signs suggesting liver dysfunction or in whom an abnormal liver test has occurred should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
+TREXIMET is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and CLINICAL PHARMACOLOGY).A patient with symptoms and/or signs suggesting liver dysfunction or in whom an abnormal liver test has occurred should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
 Borderline elevations of 1 or more liver tests may occur in up to 15% of patients who take NSAID-containing products.
 These abnormalities may progress, may remain essentially unchanged, or may be transient with continued therapy.
 Notable (3 times the upper limit of normal) elevations of SGPT (ALT) or SGOT (AST) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
@@ -253,62 +234,40 @@ If clinical signs and symptoms consistent with liver or renal disease develop, s
 
 ## Drug Interactions
 
-### Monoamine Oxidase-A Inhibitors
-
-The use of TREXIMET in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY: Drug Interactions and CONTRAINDICATIONS).
+Monoamine Oxidase-A Inhibitors: The use of TREXIMET in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY: Drug Interactions and CONTRAINDICATIONS).
 MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
 In patients taking MAO-A inhibitors, sumatriptan plasma levels attained after treatment with recommended doses are 7-fold higher following oral administration than those obtained under other conditions.
 
-### Ergot-Containing Drugs
-
-Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
+Ergot-Containing Drugs: Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
 Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (e.g., dihydroergotamine, methysergide) and TREXIMET within 24 hours of each other should be avoided (see CONTRAINDICATIONS).
 
-### Methotrexate
-
-Caution should be used if TREXIMET is administered concomitantly with methotrexate.
+Methotrexate: Caution should be used if TREXIMET is administered concomitantly with methotrexate.
 Naproxen sodium and other NSAIDs have been reported to reduce the tubular secretion of methotrexate in an animal model, possibly increasing the toxicity of methotrexate.
 Concomitant administration of some NSAIDs with high-dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
 
-### Aspirin
-
-When naproxen is administered with aspirin, its protein binding is reduced, although the clearance of free naproxen is not altered.
+Aspirin: When naproxen is administered with aspirin, its protein binding is reduced, although the clearance of free naproxen is not altered.
 The clinical significance of this interaction is not known; however, as with other NSAID-containing products, concomitant administration of TREXIMET and aspirin is not generally recommended because of the potential of increased adverse effects.
 
-### Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
+Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome: Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS: Serotonin Syndrome).
 
-Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS: Serotonin Syndrome).
-
-### Angiotensin-Converting Enzyme Inhibitors
-
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
+Angiotensin-Converting Enzyme Inhibitors: Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
 The use of TREXIMET in patients who are receiving ACE inhibitors may potentiate renal disease states (see WARNINGS: Renal Effects).
 
-### Furosemide
-
-Clinical studies, as well as postmarketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Furosemide: Clinical studies, as well as postmarketing observations, have shown that NSAIDs can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS: Renal Effects), as well as to assure diuretic efficacy.
 
-### Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
+Lithium: NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
 The mean minimum lithium concentration increased 15%, and the renal clearance was decreased by approximately 20%.
 These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
 Thus, when TREXIMET and lithium are administered concurrently, patients should be observed carefully for signs of lithium toxicity.
 
-### Probenecid
+Probenecid: Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
 
-Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
-
-### Propranolol and Other Beta-Blockers
-
-Propranolol 80 mg given twice daily had no significant effect on sumatriptan pharmacokinetics.
+Propranolol and Other Beta-Blockers: Propranolol 80 mg given twice daily had no significant effect on sumatriptan pharmacokinetics.
 Naproxen and other NSAIDs can reduce the antihypertensive effect of propranolol and other beta-blockers.
 
-### Warfarin
-
-The effects of warfarin and NSAIDs on gastrointestinal bleeding are synergistic, such that patients taking both drugs have a higher risk of serious gastrointestinal bleeding than patients taking either drug alone.
+Warfarin: The effects of warfarin and NSAIDs on gastrointestinal bleeding are synergistic, such that patients taking both drugs have a higher risk of serious gastrointestinal bleeding than patients taking either drug alone.
 
 ## Drug/Laboratory Test Interactions
 
@@ -325,9 +284,7 @@ Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
-
-The carcinogenic potential of TREXIMET has not been studied.
+Carcinogenesis: The carcinogenic potential of TREXIMET has not been studied.
 
 The carcinogenic potential of sumatriptan was evaluated in oral carcinogenicity studies in mice (78 weeks) and rats (104 weeks).
 The highest dose administered to mice and rats (160 mg/kg/day) is approximately 9 and 18 times, respectively, the recommended human oral daily dose of 85 mg sumatriptan on a mg/m2 basis.
@@ -336,9 +293,7 @@ There was no evidence of an increase in tumors in either species related to suma
 The carcinogenic potential of naproxen sodium was evaluated in a 2-year oral carcinogenicity study in rats at doses of 8, 16, and 24 mg/kg/day and in another 2-year oral carcinogenicity study in rats at a dose of 8 mg/kg/day.
 No evidence of tumorigenicity was found in either study, at doses up to approximately 0.5 times the recommended human oral daily dose of 500 mg/day naproxen sodium on a mg/m2 basis.
 
-### Mutagenesis
-
-Sumatriptan and naproxen sodium tested alone and in combination were negative in an in vitro bacterial reverse mutation assay, and in an in vivo micronucleus assay in mice.
+Mutagenesis: Sumatriptan and naproxen sodium tested alone and in combination were negative in an in vitro bacterial reverse mutation assay, and in an in vivo micronucleus assay in mice.
 
 The combination of sumatriptan and naproxen sodium was negative in an in vitro mouse lymphoma tk assay in the presence and absence of metabolic activation.
 However, in separate in vitro mouse lymphoma tk assays, naproxen sodium alone was reproducibly positive in the presence of metabolic activation.
@@ -351,9 +306,7 @@ Chromosomal aberrations were not induced in peripheral blood lymphocytes followi
 
 In previous studies, sumatriptan alone was not mutagenic in 2 gene mutation assays (the Ames test and the in vitro Chinese Hamster V79/HGPRT assay) and was not clastogenic in 2 cytogenetics assays (the in vitro human lymphocyte assay and the in vivo rat micronucleus assay).
 
-### Impairment of Fertility
-
-The effect of TREXIMET on fertility in animals has not been studied.
+Impairment of Fertility: The effect of TREXIMET on fertility in animals has not been studied.
 
 In a study in which male and female rats were dosed daily with oral sumatriptan prior to and throughout the mating period, there was a treatment-related decrease in fertility secondary to a decrease in mating in animals treated with 50 and 500 mg/kg/day.
 The highest no-effect dose for this finding was 5 mg/kg/day, or approximately 0.5 times the recommended human oral daily dose of 85 mg sumatriptan on a mg/m2 basis.
@@ -380,9 +333,7 @@ There are no adequate and well-controlled studies in pregnant women.
 
 TREXIMET should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus.
 
-### Pregnancy Registry
-
-To monitor fetal outcomes of pregnant women exposed to TREXIMET, GlaxoSmithKline maintains a TREXIMET Pregnancy Registry.
+Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to TREXIMET, GlaxoSmithKline maintains a TREXIMET Pregnancy Registry.
 Physicians are encouraged to register patients as soon as possible after they become pregnant and (if possible) before the outcome of the pregnancy is known by calling (800) 336-2176.
 
 ## Labor and Delivery

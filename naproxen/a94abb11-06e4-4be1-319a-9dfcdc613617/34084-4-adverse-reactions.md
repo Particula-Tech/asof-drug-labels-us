@@ -17,11 +17,16 @@ Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in 2 Contr
 | --- | --- | --- | --- | --- |
 | TREXIMET(n = 737) | Placebo(n = 752) | Sumatriptan85 mg(n = 735) | Naproxen Sodium500 mg(n = 732) |  |
 | Nervous system disorders |  |  |  |  |
-| DizzinessSomnolenceParesthesia | 432 | 22<1 | 222 | 22<1 |
+| Dizziness | 4 | 2 | 2 | 2 |
+| Somnolence | 3 | 2 | 2 | 2 |
+| Paresthesia | 2 | <1 | 2 | <1 |
 | Gastrointestinal disorders |  |  |  |  |
-| NauseaDyspepsiaDry mouth | 322 | 111 | 322 | <11<1 |
+| Nausea | 3 | 1 | 3 | <1 |
+| Dyspepsia | 2 | 1 | 2 | 1 |
+| Dry mouth | 2 | 1 | 2 | <1 |
 | Pain and other pressure sensations |  |  |  |  |
-| Chest discomfort/chest painNeck/throat/jaw pain/tightness/pressure | 33 | <11 | 23 | 11 |
+| Chest discomfort/chest pain | 3 | <1 | 2 | 1 |
+| Neck/throat/jaw pain/tightness/pressure | 3 | 1 | 3 | 1 |
 | aEvents that occurred at a frequency of 2% or more in the group treated with TREXIMET and that occurred more frequently in the group treated with TREXIMET than in the placebo group. |  |  |  |  |
 
 Other events that occurred in more than 1% of patients receiving TREXIMET and occurred at a frequency greater than the placebo group included asthenia, feeling hot, muscle tightness, and palpitations.
@@ -41,80 +46,48 @@ Events listed in the previous table and text are not included below.
 Those events described too generally to be informative or those unlikely to be associated with the use of TREXIMET are excluded.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those occurring in at least 1/100 patients, infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, and rare adverse events are those occurring in fewer than 1/1,000 patients.
 
-### Blood and Lymphatic Disorders
-
-Infrequent was lymphadenopathy.
+Blood and Lymphatic Disorders: Infrequent was lymphadenopathy.
 Rare were anemia, ecchymosis, leukopenia.
 
-### Cardiac Disorders
-
-Infrequent was tachycardia.
+Cardiac Disorders: Infrequent was tachycardia.
 Rare were acute coronary syndrome, cardiac flutter, congestive cardiac failure, right ventricular failure, ventricular extrasystoles.
 
-### Ear and Labyrinth Disorders
-
-Infrequent were ear pain, tinnitus.
+Ear and Labyrinth Disorders: Infrequent were ear pain, tinnitus.
 Rare were motion sickness, vertigo.
 
-### Endocrine, Metabolic, and Nutrition Disorders
+Endocrine, Metabolic, and Nutrition Disorders: Rare were diabetes mellitus, goiter, hypoglycemia, hypothyroidism.
 
-Rare were diabetes mellitus, goiter, hypoglycemia, hypothyroidism.
-
-### Eye Disorders
-
-Infrequent was conjunctivitis.
+Eye Disorders: Infrequent was conjunctivitis.
 Rare were cataract, conjunctival hemorrhage, visual disturbance.
 
-### Gastrointestinal Disorders
-
-Frequent was abdominal pain.
+Gastrointestinal Disorders: Frequent was abdominal pain.
 Infrequent were abdominal distention, constipation, diarrhea, dysgeusia, dysphagia, flatulence, gastritis, gastroesophageal reflux disease, vomiting.
 Rare were colitis, diverticulitis, gastric ulcer, irritable bowel syndrome, oral mucosal blistering, swollen tongue.
 
-### General Disorders
-
-Frequent was fatigue.
+General Disorders: Frequent was fatigue.
 Infrequent were feeling jittery, lethargy, malaise, peripheral edema, pyrexia, temperature intolerance, thirst.
 Rare was difficulty in walking.
 
-### Hepatobiliary Disorders
+Hepatobiliary Disorders: Rare was biliary colic.
 
-Rare was biliary colic.
+Infections and Infestations: Rare were kidney infection, pneumonia, sepsis, staphylococcal infection, viral myocarditis.
 
-### Infections and Infestations
+Musculoskeletal and Connective Tissue: Infrequent were arthralgia, back pain, muscular weakness, myalgia, sensation of heaviness.
 
-Rare were kidney infection, pneumonia, sepsis, staphylococcal infection, viral myocarditis.
-
-### Musculoskeletal and Connective Tissue
-
-Infrequent were arthralgia, back pain, muscular weakness, myalgia, sensation of heaviness.
-
-### Nervous System Disorders
-
-Infrequent were burning sensation, disturbance of attention, insomnia, mental impairment, tremor.
+Nervous System Disorders: Infrequent were burning sensation, disturbance of attention, insomnia, mental impairment, tremor.
 Rare were aphasia, facial palsy, impairment of psychomotor skills, sedation.
 
-### Psychiatric Disorders
-
-Infrequent were anxiety, depression, irritability, nervousness.
+Psychiatric Disorders: Infrequent were anxiety, depression, irritability, nervousness.
 Rare were disorientation, panic attack.
 
-### Renal and Urinary Disorders
-
-Infrequent was nephrolithiasis.
+Renal and Urinary Disorders: Infrequent was nephrolithiasis.
 Rare was renal insufficiency.
 
-### Respiratory, Thoracic, and Mediastinal
-
-Infrequent were asthma, cough, dyspnea, oropharyngeal swelling.
+Respiratory, Thoracic, and Mediastinal: Infrequent were asthma, cough, dyspnea, oropharyngeal swelling.
 Rare was pleurisy.
 
-### Skin and Subcutaneous Disorders
-
-Infrequent were facial swelling, hyperhydrosis, pruritus, rash, urticaria.
+Skin and Subcutaneous Disorders: Infrequent were facial swelling, hyperhydrosis, pruritus, rash, urticaria.
 Rare was systemic lupus erythematosus.
 
-### Vascular Disorders
-
-Infrequent were flushing, hot flush, hypertension.
+Vascular Disorders: Infrequent were flushing, hot flush, hypertension.
 Rare were epistaxis, peripheral coldness.

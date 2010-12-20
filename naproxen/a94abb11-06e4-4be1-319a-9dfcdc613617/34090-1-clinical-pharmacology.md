@@ -28,20 +28,14 @@ The Cmax for naproxen is approximately 36% lower, and the Tmax occurs approximat
 AUC values for sumatriptan and for naproxen are similar for TREXIMET compared to IMITREX or ANAPROX DS, respectively.
 In a crossover study in 16 patients, the pharmacokinetics of both components administered as TREXIMET were similar during a migraine attack and during a migraine-free period.
 
-### Absorption and Bioavailability
-
-Bioavailability of sumatriptan is approximately 15%, primarily due to presystemic (first-pass) metabolism and partly due to incomplete absorption.
+Absorption and Bioavailability: Bioavailability of sumatriptan is approximately 15%, primarily due to presystemic (first-pass) metabolism and partly due to incomplete absorption.
 
 Naproxen is rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
 
-### Food Effects
-
-Food had no significant effect on the bioavailability of sumatriptan or naproxen administered as TREXIMET, but slightly delayed the Tmax of sumatriptan by about 0.6 hour.
+Food Effects: Food had no significant effect on the bioavailability of sumatriptan or naproxen administered as TREXIMET, but slightly delayed the Tmax of sumatriptan by about 0.6 hour.
 These data indicate that TREXIMET may be administered without regard to food.
 
-### Distribution
-
-The volume of distribution of sumatriptan is 2.4 L/kg.
+Distribution: The volume of distribution of sumatriptan is 2.4 L/kg.
 Plasma protein binding is 14% to 21%.
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated, but would be expected to be minor, given the low protein binding.
 
@@ -50,18 +44,14 @@ At therapeutic levels naproxen is greater than 99% albumin bound.
 At doses of naproxen greater than 500 mg/day, there is a less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css = 36.5, 49.2, and 56.4 mg/L with 500, 1,000, and 1,500 mg daily doses of naproxen, respectively).
 However, the concentration of unbound naproxen continues to increase proportionally to dose.
 
-### Metabolism
-
-Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
+Metabolism: Most of a radiolabeled dose of sumatriptan excreted in the urine is the major metabolite indole acetic acid (IAA) or the IAA glucuronide, both of which are inactive.
 Three percent of the dose can be recovered as unchanged sumatriptan.
 In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme, and inhibitors of that enzyme may alter sumatriptan pharmacokinetics to increase systemic exposure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions: Monoamine Oxidase-A Inhibitors).
 No significant effect was seen with an MAO-B inhibitor.
 
 Naproxen is extensively metabolized to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes.
 
-### Elimination
-
-Radiolabeled 14C-sumatriptan administered orally is largely renally excreted (about 60%), with about 40% found in the feces.
+Elimination: Radiolabeled 14C-sumatriptan administered orally is largely renally excreted (about 60%), with about 40% found in the feces.
 The elimination half-life of sumatriptan is approximately 2 hours.
 
 The clearance of naproxen is 0.13 mL/min/kg.
@@ -72,9 +62,7 @@ In patients with renal failure, metabolites may accumulate (see PRECAUTIONS: Ren
 
 ## Special Populations
 
-### Renal Impairment
-
-TREXIMET is not recommended for use in patients with creatinine clearance less than 30 mL/min (see PRECAUTIONS: Renal Effects).
+Renal Impairment: TREXIMET is not recommended for use in patients with creatinine clearance less than 30 mL/min (see PRECAUTIONS: Renal Effects).
 The effect of renal impairment on the pharmacokinetics of TREXIMET has not been studied.
 
 Minimal change in clinical effect would be expected with regard to sumatriptan as it is largely metabolized to an inactive substance.
@@ -82,40 +70,28 @@ Minimal change in clinical effect would be expected with regard to sumatriptan a
 Since naproxen and its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency.
 Elimination of naproxen is decreased in patients with severe renal impairment.
 
-### Hepatic Impairment
-
-Because TREXIMET is a fixed-dose combination that cannot be adjusted for this patient population, it is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and PRECAUTIONS: Hepatic Effects).
+Hepatic Impairment: Because TREXIMET is a fixed-dose combination that cannot be adjusted for this patient population, it is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and PRECAUTIONS: Hepatic Effects).
 The effect of hepatic impairment on the pharmacokinetics of TREXIMET has not been studied.
 Sumatriptan is contraindicated in patients with severe hepatic impairment and the dose is limited to 50 mg in patients with liver disease.
 
-### Age
-
-The effect of age (elderly or pediatric patients) on the pharmacokinetics of TREXIMET has not been studied.
+Age: The effect of age (elderly or pediatric patients) on the pharmacokinetics of TREXIMET has not been studied.
 Elderly patients are more likely to have decreased hepatic function and decreased renal function (see PRECAUTIONS: Geriatric Use).
 
 The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
-### Gender
-
-In a pooled analysis of 5 pharmacokinetic studies, there was no effect of gender on the systemic exposure of TREXIMET.
+Gender: In a pooled analysis of 5 pharmacokinetic studies, there was no effect of gender on the systemic exposure of TREXIMET.
 In a study comparing the pharmacokinetics of sumatriptan in females and males, no differences were observed between genders for AUC, Cmax, Tmax, and T½.
 
-### Race
-
-The effect of race on the pharmacokinetics of TREXIMET has not been studied.
+Race: The effect of race on the pharmacokinetics of TREXIMET has not been studied.
 The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
 ## Drug Interactions
 
 No formal drug interaction studies have been conducted with TREXIMET.
 
-### Monoamine Oxidase Inhibitors
-
-TREXIMET is contraindicated in patients taking MAO-A inhibitors (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
+Monoamine Oxidase Inhibitors: TREXIMET is contraindicated in patients taking MAO-A inhibitors (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
 Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels.
 This interaction has not been seen with an MAO-B inhibitor.
 
-### Alcohol
-
-The effect of alcohol consumption on the pharmacokinetics of TREXIMET has not been studied.
+Alcohol: The effect of alcohol consumption on the pharmacokinetics of TREXIMET has not been studied.
 Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.
