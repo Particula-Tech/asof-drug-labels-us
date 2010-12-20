@@ -1,32 +1,24 @@
-Filmtab—Film-sealed tablets, Abbott.
-
-Abbott Laboratories
-
-North Chicago, IL 60064, U.S.A.
-
 NDC 0074–6369–02
 
-100 mL (when mixed)
+100 mL (when mixed) for Oral Suspension
 
-For Oral Suspension
+E.E.S.® Granules
 
-E.E.S.®Granules
+ERYTHROMYCIN ETHYLSUCCINATE FOR ORAL SUSPENSION, USP
 
-Erythromycin Ethylsuccinate for Oral Suspension, USP
+Erythromycin activity 200 mg per 5 mL when reconstituted
 
-Erythromycin activity 200 mg per 5 mL when reconstituted.
+Rx only Abbott
 
-Rx Only
+NDC 0047–5729–13
 
-Abbott
+100 Tablets
 
-NDC 0074–5729–13
-
-100 Tablets E.E.S.
+E.E.S.
 400® Filmtab®
 
-Erythromycin Ethylsuccinate Tablets, USP
+ERYTHROMYCIN ETHYLSUCCINATE TABLETS, USP
 
-400 mg Erythromycin Activity
+400 mg Erythromycin activity
 
-Rx Only
+Rx only

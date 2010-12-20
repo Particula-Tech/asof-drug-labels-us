@@ -33,7 +33,7 @@ Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myast
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
-A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.4 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+A possible dose-response effect was described with an absolute risk of IHPS of 5.1% for infants who took erythromycin for 8-14 days and 10% for infants who took erythromycin for 15-21 days.5 Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or neonatal Chlamydia trachomatis infections), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
 Parents should be informed to contact their physician if vomiting or irritability with feeding occurs.
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi.
