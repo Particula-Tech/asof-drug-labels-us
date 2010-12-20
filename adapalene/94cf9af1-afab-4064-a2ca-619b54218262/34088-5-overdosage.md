@@ -1,0 +1,6 @@
+# OVERDOSAGE
+
+Adapalene Cream, 0.1% is intended for cutaneous use only.
+If the medication is applied excessively, no more rapid or better results will be obtained and marked redness, scaling, or skin discomfort may occur.
+The acute oral toxicity of Adapalene Cream, 0.1% in mice and rats is greater than 10 mL/kg.
+Chronic ingestion of the drug may lead to the same side effects as those associated with excessive oral intake of Vitamin A.

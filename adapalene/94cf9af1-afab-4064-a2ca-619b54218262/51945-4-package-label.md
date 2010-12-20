@@ -1,0 +1,11 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - CARTON
+
+Rx Only
+
+Adapalene Cream, 0.1%
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - TUBE
+
+Rx Only
+
+Adapalene Cream, 0.1%

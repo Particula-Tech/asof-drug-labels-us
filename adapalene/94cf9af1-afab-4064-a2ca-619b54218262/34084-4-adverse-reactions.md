@@ -1,0 +1,8 @@
+# ADVERSE REACTIONS
+
+In controlled clinical trials, local cutaneous irritation was monitored in 285 acne patients who used adapalene cream, 0.1% once daily for 12 weeks.
+The frequency and severity of erythema, scaling, dryness, pruritus and burning were assessed during these studies.
+The incidence of local cutaneous irritation with adapalene cream, 0.1% from the controlled clinical studies is provided in the following table:
+
+Other reported local cutaneous adverse events in patients who used adapalene cream, 0.1% once daily included: sunburn (2%), skin discomfort-burning and stinging (1%) and skin irritation (1%).
+Events occurring in less than 1% of patients treated with adapalene cream, 0.1% included: acne flare, dermatitis and contact dermatitis, eyelid edema, conjunctivitis, erythema, pruritus, skin discoloration, rash, and eczema.
