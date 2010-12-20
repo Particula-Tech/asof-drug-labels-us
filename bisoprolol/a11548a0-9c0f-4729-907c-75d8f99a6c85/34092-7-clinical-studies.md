@@ -6,7 +6,7 @@ Drug effect is calculated by subtracting the placebo effect from the overall cha
 
 Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (Δ) After 3 to 4 Weeks
 
-| Study A |  |  | Bisoprolol Fumarate |  |
+| Study A |  | Bisoprolol Fumarate |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | 5 mg | 10 mg | 20 mg |
 | n= | 61 | 61 | 61 | 61 |
@@ -14,7 +14,7 @@ Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (Δ) 
 | Drug EffectObserved total change from baseline minus placebo. | - | 5.0/4.8 | 5.8/7.7 | 7.4/8.7 |
 | Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
 | Drug Effect | - | 6.7 | 8.2 | 10.8 |
-| Study B |  |  | Bisoprolol Fumarate |  |
+| Study B |  | Bisoprolol Fumarate |  |  |
 |  | Placebo | 2.5 mg | 10 mg |  |
 | n= | 56 | 59 | 62 |  |
 | Total ΔBP (mm Hg) | 3.0/3.7 | 7.6/8.1 | 13.5/11.2 |  |

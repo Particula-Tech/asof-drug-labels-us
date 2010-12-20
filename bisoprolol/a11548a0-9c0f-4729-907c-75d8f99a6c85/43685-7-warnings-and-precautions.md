@@ -32,10 +32,9 @@ Because of its relative beta1-selectivity, however, ZEBETA may be used with caut
 Since beta1-selectivity is not absolute, the lowest possible dose of ZEBETA should be used, with therapy starting at 2.5 mg.
 A beta2 agonist (bronchodilator) should be made available.
 
-## Anesthesia and Major Surgery
+## Major Surgery
 
-If ZEBETA treatment is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used.
-See OVERDOSAGE for information on treatment of bradycardia and hypotension.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
@@ -102,7 +101,7 @@ The maternotoxicity occurred at 375 times the MRHD on a body weight basis and 77
 In rabbits, bisoprolol fumarate was not teratogenic at doses up to 12.5 mg/kg/day, which is 31 and 12 times the MRHD based on body weight and body surface area, respectively, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day.
 
 There are no adequate and well-controlled studies in pregnant women.
-ZEBETA® (bisoprolol fumarate) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+ZEBETA (bisoprolol fumarate) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 

@@ -79,7 +79,7 @@ Muscle/joint pain, arthralgia, back/neck pain, muscle cramps, twitching/tremor.
 
 ## Skin
 
-Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis,angioedema,exfoliative dermatitis, cutaneous vasculitis.
+Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, angioedema, exfoliative dermatitis, cutaneous vasculitis.
 
 ## Special Senses
 
@@ -127,7 +127,7 @@ Mesenteric arterial thrombosis, ischemic colitis.
 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with ZEBETA (bisoprolol fumarate) during investigational use or extensive foreign marketing experience.
 
-## Laboratory Abnormalities
+## LABORATORY ABNORMALITIES
 
 In clinical trials, the most frequently reported laboratory change was an increase in serum triglycerides, but this was not a consistent finding.
 
