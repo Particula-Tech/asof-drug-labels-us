@@ -22,9 +22,9 @@ They are available as follows:
 
 NDC 0378-1165-91 bottles of 60 tablets
 
-NDC 0378-1165-05 bottles of 500 tablets
-
 NDC 0378-1165-80 bottles of 180 tablets
+
+NDC 0378-1165-05 bottles of 500 tablets
 
 The 30 mg tablet is a white, capsule-shaped tablet debossed with M to the left of the score and B4 to the right of the score on one side of the tablet and 10 on each trisect section on the other side.
 They are available as follows:

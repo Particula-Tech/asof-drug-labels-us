@@ -156,7 +156,9 @@ Therapeutic levels of aspirin, desipramine, diazepam, flurazepam, ibuprofen, pro
 
 ## Drug/Laboratory Test Interactions
 
-Buspirone is not known to interfere with commonly employed clinical laboratory tests.
+Buspirone hydrochloride may interfere with the urinary metanephrine/catecholamine assay.
+It has been mistakenly read as metanephrine during routine assay testing for pheochromocytoma, resulting in a false positive laboratory result.
+Buspirone hydrochloride should therefore be discontinued for at least 48 hours prior to undergoing a urine collection for catecholamines.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -197,7 +199,7 @@ There are no long-term safety or efficacy data in this population.
 ## Geriatric Use
 
 In one study of 6,632 patients who received buspirone for the treatment of anxiety, 605 patients were ≥ 65 years old and 41 were ≥ 75 years old; the safety and efficacy profiles for these 605 elderly patients (mean age = 70.8 years) were similar to those in the younger population (mean age = 43.3 years).
-Review of spontaneously reported adverse clinical events has not identified differences in reporting between elderly and younger patients, but greater sensitivity of some older patients can not be ruled out.
+Review of spontaneously reported adverse clinical events has not identified differences between elderly and younger patients, but greater sensitivity of some older patients cannot be ruled out.
 
 There were no effects of age on the pharmacokinetics of buspirone (see CLINICAL PHARMACOLOGY: Special Populations).
 

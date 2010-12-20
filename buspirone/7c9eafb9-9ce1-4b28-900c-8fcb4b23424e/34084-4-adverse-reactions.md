@@ -106,5 +106,5 @@ Miscellaneous: Infrequent were weight gain, fever, roaring sensation in the head
 ## Post-Marketing Experience
 
 Post-marketing experience has shown an adverse experience profile similar to that given above.
-Voluntary reports since introduction have included rare occurrences of allergic reactions (including urticaria), angioedema, cogwheel rigidity, dizziness (rarely reported as vertigo), dystonic reactions (including dystonia), ataxias, extrapyramidal symptoms, dyskinesias (acute and tardive), ecchymosis, emotional lability, serotonin syndrome, transient difficulty with recall, urinary retention, and visual changes (including tunnel vision), parkinsonism, akathisia, restless leg syndrome, and restlessness.
+Voluntary reports since introduction have included rare occurrences of allergic reactions (including urticaria), angioedema, cogwheel rigidity, dizziness (rarely reported as vertigo), dystonic reactions (including dystonia), ataxias, extrapyramidal symptoms, dyskinesias (acute and tardive), ecchymosis, emotional lability, serotonin syndrome, transient difficulty with recall, urinary retention, visual changes (including tunnel vision), parkinsonism, akathisia, restless leg syndrome, and restlessness.
 Because of the uncontrolled nature of these spontaneous reports, a causal relationship to buspirone treatment has not been determined.

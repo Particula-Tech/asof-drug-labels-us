@@ -1,4 +1,4 @@
-# BUSPIRONE HYDROCHLORIDE TABLETS Patient Instruction Sheet
+# BUSPIRONE HYDROCHLORIDE TABLETS, USP Patient Instruction Sheet
 
 HOW TO USE:
 
@@ -21,6 +21,6 @@ If your doctor prescribed the 30 mg tablet:
 To break a multi-scored tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown in the picture.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED NOVEMBER 2009 PL: BUSPAS:R3
+REVISED DECEMBER 2010 PL: BUSPAS:R4
