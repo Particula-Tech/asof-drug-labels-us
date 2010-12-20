@@ -1,11 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
 There is no fixed dosage regimen for the management of hyperglycemia in patients with type 2 diabetes with RIOMET or any other pharmacologic agent.
-Dosage of RIOMET must be individualized on the basis of both effectiveness and tolerance, while not exceeding the maximum recommended daily dose.
-The maximum recommended daily dose of RIOMET is 2550 mg (25.5 mL) in adults and 2000 mg (20 mL) in pediatric patients (10-16 years of age).
+Dosage of RIOMET must be individualized on the basis of both effectiveness and tolerance, while not exceeding the maximum recommended daily doses.
+The maximum recommended daily dose of RIOMET is 2550 mg (25.5 mL) in adults and 2000 mg (20 mL) in pediatric patients (10 to 16 years of age).
 
 RIOMET should be given in divided doses with meals.
 RIOMET should be started at a low dose, with gradual dose escalation, both to reduce gastrointestinal side effects and to permit identification of the minimum dose required for adequate glycemic control of the patient.
+
 During treatment initiation and dose titration (see Recommended Dosing Schedule), fasting plasma glucose should be used to determine the therapeutic response to RIOMET and identify the minimum effective dose for the patient.
 Thereafter, glycosylated hemoglobin should be measured at intervals of approximately three months.
 The therapeutic goal should be to decrease both fasting plasma glucose and glycosylated hemoglobin levels to normal or near normal by using the lowest effective dose of RIOMET, either when used as monotherapy or in combination with sulfonylurea or insulin.
@@ -43,11 +44,11 @@ If patients have not responded to four weeks of the maximum dose of RIOMET monot
 Clinical and pharmacokinetic drug-drug interaction data are currently available only for metformin plus glyburide (glibenclamide).
 
 With concomitant Metformin and sulfonylurea therapy, the desired control of blood glucose may be obtained by adjusting the dose of each drug.
-In a clinical trial of patients with type 2 diabetes and prior failure on glyburide, patients started on metformin 500 mg and glyburide 20 mg were titrated to 1000 mg/20 mg, 1500 mg/20 mg, 2000 mg/20 mg or 2500 mg/20 mg of metformin and glyburide, respectively, to reach the goal of glycemic control as measured by FPG, HbA 1c and plasma glucose response (see CLINICAL PHARMACOLOGY: Clinical Studies).
+In a clinical trial of patients with type 2 diabetes and prior failure on glyburide, patients started on metformin 500 mg and glyburide 20 mg were titrated to 1000 mg/20 mg, 1500 mg/20 mg, 2000 mg/20 mg or 2500 mg/20 mg of metformin and glyburide, respectively, to reach the goal of glycemic control as measured by FPG, HbA1c and plasma glucose response (see CLINICAL PHARMACOLOGY: Clinical Studies).
 However, attempts should be made to identify the minimum effective dose of each drug to achieve this goal.
 With concomitant RIOMET and sulfonylurea therapy, the risk of hypoglycemia associated with sulfonylurea therapy continues and may be increased.
 Appropriate precautions should be taken.
-(See Package Insert of the respective sulfonylurea.)
+(See Package Insert of the respective sulfonylurea).
 
 If patients have not satisfactorily responded to one to three months of concomitant therapy with the maximum dose of RIOMET and the maximum dose of an oral sulfonylurea, consider therapeutic alternatives including switching to insulin with or without RIOMET.
 
@@ -70,4 +71,4 @@ Any dosage adjustment should be based on a careful assessment of renal function.
 Generally, elderly, debilitated, and malnourished patients should not be titrated to the maximum dose of RIOMET.
 
 Monitoring of renal function is necessary to aid in prevention of lactic acidosis, particularly in the elderly.
-(see WARNINGS.)
+(See WARNINGS).

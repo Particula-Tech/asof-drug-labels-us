@@ -1,4 +1,6 @@
-# Lactic Acidosis:
+# WARNINGS
+
+## Lactic Acidosis:
 
 Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment with RIOMET; when it occurs, it is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
@@ -12,7 +14,7 @@ Patients with congestive heart failure requiring pharmacologic management, in pa
 The risk of lactic acidosis increases with the degree of renal dysfunction and the patient’s age.
 The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking RIOMET and by use of the minimum effective dose of RIOMET.
 In particular, treatment of the elderly should be accompanied by careful monitoring of renal function.
-RIOMET treatment should not be initiated in patients ≥80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced, as these patients are more susceptible to developing lactic acidosis.
+RIOMET treatment should not be initiated in patients ≥ 80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced, as these patients are more susceptible to developing lactic acidosis.
 In addition, RIOMET should be promptly withheld in the presence of any condition associated with hypoxemia, dehydration, or sepsis.
 Because impaired hepatic function may significantly limit the ability to clear lactate, RIOMET should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
 Patients should be cautioned against excessive alcohol intake, either acute or chronic, when taking RIOMET, since alcohol potentiates the effects of metformin hydrochloride on lactate metabolism.
@@ -27,7 +29,7 @@ Once a patient is stabilized on any dose level of RIOMET, gastrointestinal sympt
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
 Levels of fasting venous plasma lactate above the upper limit of normal but less than 5 mmol/L in patients taking RIOMET do not necessarily indicate impending lactic acidosis and may be explainable by other mechanisms, such as poorly controlled diabetes or obesity, vigorous physical activity, or technical problems in sample handling.
-(See also PRECAUTIONS.)
+(See also PRECAUTIONS).
 
 Lactic acidosis should be suspected in any diabetic patient with metabolic acidosis lacking evidence of ketoacidosis (ketonuria and ketonemia).
 
@@ -35,4 +37,4 @@ Lactic acidosis is a medical emergency that must be treated in a hospital settin
 In a patient with lactic acidosis who is taking RIOMET, the drug should be discontinued immediately and general supportive measures promptly instituted.
 Because metformin hydrochloride is dialyzable (with a clearance of up to 170 mL/min under good hemodynamic conditions), prompt hemodialysis is recommended to correct the acidosis and remove the accumulated metformin.
 Such management often results in prompt reversal of symptoms and recovery.
-(See also CONTRAINDICATIONS and PRECAUTIONS.)
+(See also CONTRAINDICATIONS and PRECAUTIONS).

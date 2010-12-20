@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021591"
+  ],
   "inn": "metformin",
   "labeler": "Ranbaxy Laboratories Inc.",
   "package_ndcs": [
     "10631-206-01",
     "10631-206-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "metformin hydrochloride",
+      "name": "Riomet"
+    }
+  ],
   "setid": "05d4df4b-dfe8-4828-b423-a3d4f2c4114a",
   "source": "dailymed"
 }
