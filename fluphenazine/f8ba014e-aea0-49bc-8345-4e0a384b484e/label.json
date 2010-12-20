@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA071413"
+  ],
+  "inn": "fluphenazine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-272-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluphenazine decanoate",
+      "name": "Fluphenazine Decanoate"
+    }
+  ],
+  "setid": "f8ba014e-aea0-49bc-8345-4e0a384b484e",
+  "source": "dailymed"
+}
