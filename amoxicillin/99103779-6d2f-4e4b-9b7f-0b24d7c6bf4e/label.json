@@ -1,16 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065256"
+  ],
   "inn": "amoxicillin",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-014-01",
     "65862-014-05",
     "65862-014-20",
+    "65862-014-22",
+    "65862-014-31",
     "65862-015-01",
     "65862-015-05",
-    "65862-015-20"
+    "65862-015-20",
+    "65862-015-89",
+    "65862-015-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
   "setid": "99103779-6d2f-4e4b-9b7f-0b24d7c6bf4e",
   "source": "dailymed"
 }

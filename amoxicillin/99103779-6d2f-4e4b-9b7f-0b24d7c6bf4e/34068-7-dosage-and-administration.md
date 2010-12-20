@@ -7,7 +7,8 @@ However, food effect studies have not been performed with the 200 mg and 500 mg 
 ## Neonates and Infants Aged ≤12 Weeks (≤3 Months)
 
 Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended upper dose of amoxicillin is 30 mg/kg/day divided q12h.
-Adults and Pediatric Patients >3 Months
+
+## Adults and Pediatric Patients >3 Months
 
 | Infection | Severity* | Usual Adult Dose | Usual Dose for Children >3 Months†‡ |
 | --- | --- | --- | --- |
@@ -24,19 +25,37 @@ Adults and Pediatric Patients >3 Months
 All patients with gonorrhea should be evaluated for syphilis.
 (See PRECAUTIONS: Laboratory Tests .)
 Larger doses may be required for stubborn or severe infections.
-General It should be recognized that in the treatment of chronic urinary tract infections, frequent bacteriological and clinical appraisals are necessary.
+
+## General
+
+It should be recognized that in the treatment of chronic urinary tract infections, frequent bacteriological and clinical appraisals are necessary.
 Smaller doses than those recommended above should not be used.
 Even higher doses may be needed at times.
 In stubborn infections, therapy may be required for several weeks.
 It may be necessary to continue clinical and/or bacteriological follow-up for several months after cessation of therapy.
 Except for gonorrhea, treatment should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 It is recommended that there be at least 10 days’ treatment for any infection caused by Streptococcus pyogenes to prevent the occurrence of acute rheumatic fever.
-H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence Triple Therapy Amoxicillin/clarithromycin/lansoprazole The recommended adult oral dose is 1 gram amoxicillin, 500 mg clarithromycin, and 30 mg lansoprazole, all given twice daily (q12h) for 14 days.
+
+## H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
+
+### Triple Therapy
+
+#### Amoxicillin/clarithromycin/lansoprazole
+
+The recommended adult oral dose is 1 gram amoxicillin, 500 mg clarithromycin, and 30 mg lansoprazole, all given twice daily (q12h) for 14 days.
 (See INDICATIONS AND USAGE .)
-Dual Therapy Amoxicillin/lansoprazole The recommended adult oral dose is 1 gram amoxicillin and 30 mg lansoprazole, each given three times daily (q8h) for 14 days.
+
+### Dual Therapy
+
+#### Amoxicillin/lansoprazole
+
+The recommended adult oral dose is 1 gram amoxicillin and 30 mg lansoprazole, each given three times daily (q8h) for 14 days.
 (See INDICATIONS AND USAGE .)
 Please refer to clarithromycin and lansoprazole full prescribing information for CONTRAINDICATIONS and WARNINGS, and for information regarding dosing in elderly and renally impaired patients.
-Dosing Recommendations for Adults with Impaired Renal Function Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe.
+
+## Dosing Recommendations for Adults with Impaired Renal Function
+
+Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe.
 Severely impaired patients with a glomerular filtration rate of <30 mL/min. should not receive the 875 mg tablet.
 Patients with a glomerular filtration rate of 10 to 30 mL/min. should receive 500 mg or 250 mg every 12 hours, depending on the severity of the infection.
 Patients with a less than 10 mL/min. glomerular filtration rate should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.

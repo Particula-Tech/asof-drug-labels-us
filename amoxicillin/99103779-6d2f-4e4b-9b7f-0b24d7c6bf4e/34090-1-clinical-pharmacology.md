@@ -30,9 +30,25 @@ Approximately 60% of an orally administered dose of amoxicillin is excreted in t
 Amoxicillin is similar to ampicillin in its bactericidal action against susceptible organisms during the stage of active multiplication.
 It acts through the inhibition of biosynthesis of cell wall mucopeptide.
 Amoxicillin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
-Aerobic Gram-Positive Microorganisms Enterococcus faecalis Staphylococcus spp.* (β-lactamase–negative strains only) Streptococcus pneumoniae Streptococcus spp.
+
+### Aerobic Gram-Positive Microorganisms
+
+Enterococcus faecalis Staphylococcus spp.* (β-lactamase–negative strains only) Streptococcus pneumoniae Streptococcus spp.
 (α- and β-hemolytic strains only) *Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
-Aerobic Gram-Negative Microorganisms Escherichia coli (β-lactamase–negative strains only) Haemophilus influenzae (β-lactamase–negative strains only) Neisseria gonorrhoeae (β-lactamase–negative strains only) Proteus mirabilis (β-lactamase–negative strains only) Helicobacter Helicobacter pylori Susceptibility Tests Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+
+### Aerobic Gram-Negative Microorganisms
+
+Escherichia coli (β-lactamase–negative strains only) Haemophilus influenzae (β-lactamase–negative strains only) Neisseria gonorrhoeae (β-lactamase–negative strains only) Proteus mirabilis (β-lactamase–negative strains only)
+
+### Helicobacter
+
+Helicobacter pylori
+
+### Susceptibility Tests
+
+#### Dilution Techniques
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method 1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ampicillin powder.
@@ -45,7 +61,7 @@ The MIC values should be interpreted according to the following criteria: For Gr
 | ≤8 | Susceptible (S) |
 | ≥16 | Resistant (R) |
 
-Staphylococcusa
+Staphylococcus a
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -95,7 +111,7 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard ampicillin powder should provide the following MIC values:
 
-| Microorganism | MIC Range mcg/mL) |
+| Microorganism | MIC Range (mcg/mL) |
 | --- | --- |
 | E. coli ATCC 25922 | 2 to 8 |
 | E. faecalis ATCC 29212 | 0.5 to 2 |
@@ -110,7 +126,10 @@ Using amoxicillin to determine susceptibility:
 
 d. This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using HTM.
 1 e. This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by the broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
-Diffusion Techniques Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+
+#### Diffusion Techniques
+
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure 2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of microorganisms, except S. pneumoniae , to amoxicillin.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for ampicillin .
@@ -118,7 +137,7 @@ Reports from the laboratory providing results of the standard single-disk suscep
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥17 | Susceptible (S) |
+| ≥17 | Susceptible(S) |
 | ≤16 | Resistant (R) |
 
 Staphylococcus f
@@ -175,6 +194,9 @@ Using 1 mcg oxacillin disk:
 
 h. This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using HTM.
 2 i. This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO 2 .
-Susceptibility Testing for Helicobacter pylori In vitro susceptibility testing methods and diagnostic products currently available for determining minimum inhibitory concentrations (MICs) and zone sizes have not been standardized, validated, or approved for testing H. pylori microorganisms.
+
+### Susceptibility Testing for Helicobacter pylori
+
+In vitro susceptibility testing methods and diagnostic products currently available for determining minimum inhibitory concentrations (MICs) and zone sizes have not been standardized, validated, or approved for testing H. pylori microorganisms.
 Culture and susceptibility testing should be obtained in patients who fail triple therapy.
 If clarithromycin resistance is found, a non-clarithromycin-containing regimen should be used.

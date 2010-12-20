@@ -8,10 +8,22 @@ Infections of the skin and skin structure – due to Streptococcus spp.
 Infections of the lower respiratory tract – due to Streptococcus spp.
 (α- and β-hemolytic strains only), S. pneumoniae, Staphylococcus spp., or H. influenzae .
 Gonorrhea, acute uncomplicated (ano-genital and urethral infections) – due to N. gonorrhoeae (males and females).
-H. pylori eradication to reduce the risk of duodenal ulcer recurrence Triple Therapy Amoxicillin/clarithromycin/lansoprazole Amoxicillin, in combination with clarithromycin plus lansoprazole as triple therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori .
+
+## H. pylori eradication to reduce the risk of duodenal ulcer recurrence
+
+### Triple Therapy
+
+#### Amoxicillin/clarithromycin/lansoprazole
+
+Amoxicillin, in combination with clarithromycin plus lansoprazole as triple therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori .
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 (See CLINICAL STUDIES and DOSAGE AND ADMINISTRATION .)
-Dual Therapy Amoxicillin/lansoprazole Amoxicillin, in combination with lansoprazole delayed-release capsules as dual therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected.
+
+### Dual Therapy
+
+#### Amoxicillin/lansoprazole
+
+Amoxicillin, in combination with lansoprazole delayed-release capsules as dual therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected.
 (See the clarithromycin package insert, MICROBIOLOGY.)
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 (See CLINICAL STUDIES and DOSAGE AND ADMINISTRATION .)
