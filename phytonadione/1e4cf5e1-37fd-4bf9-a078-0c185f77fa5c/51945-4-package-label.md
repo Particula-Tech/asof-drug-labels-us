@@ -6,7 +6,7 @@ NDC 25010-405-15
 
 100 TABLETS
 
-MEPHYTON® (PHYTONADIONE)
+MEPHYTON® (PHYTONADIONE) Tablets
 
 Each tablet contains: 5 mg Phytonadione
 
