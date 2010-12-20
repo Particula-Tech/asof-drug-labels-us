@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Label Text
+## Purinethol Tablets 50 mg 60s Label Text
 
 NDC 57844-522-06
 
@@ -12,14 +12,8 @@ Each scored tablet contains:
 
 50 mg
 
-GATE
-
 Rx only
 
 60 Tablets
 
-007052
-
-LOT
-
-EXP
+GATE
