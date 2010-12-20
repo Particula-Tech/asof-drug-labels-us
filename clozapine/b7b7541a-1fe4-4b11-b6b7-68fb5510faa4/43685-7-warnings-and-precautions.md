@@ -294,6 +294,13 @@ Clozapine has potent anticholinergic effects and care should be exercised in usi
 Because of initial sedation, FazaClo® (clozapine, USP) may impair mental and/or physical abilities, especially during the first few days of therapy.
 The recommendations for gradual-dose escalation should be carefully adhered to and patients cautioned about activities requiring alertness.
 
+## Cerebrovascular Adverse Events
+
+An increased risk of cerebrovascular adverse events has been seen in the dementia population with some atypical antipsychotics.
+The mechanism for this increased risk is not known.
+An increased risk cannot be excluded for other antipyschotics or other patient populations.
+FazaClo® (clozapine, USP) should be used with caution in patients with risk factors for stroke.
+
 ## Use in Patients with Concomitant Illness
 
 Clinical experience with clozapine in patients with concomitant systemic diseases is limited.
@@ -352,7 +359,7 @@ The risk of metabolic interactions caused by an effect on an individual isoform 
 Nevertheless, caution should be used in patients receiving concomitant treatment of FazaClo® (clozapine, USP) with other drugs which are either inhibitors or inducers of these enzymes.
 
 Concomitant administration of drugs known to induce cytochrome P450 enzymes may decrease the plasma levels of clozapine.
-Phenytoin, nicotine, carbamazepine, and rifampin may decrease FazaClo® (clozapine, USP) plasma levels resulting in a decrease in effectiveness of a previously effective FazaClo® (clozapine, USP) dose.
+Phenytoin, tobacco smoke, carbamazepine, and rifampin may decrease FazaClo® (clozapine, USP) plasma levels resulting in a decrease in effectiveness of a previously effective FazaClo® (clozapine, USP) dose.
 
 Concomitant administration of drugs known to inhibit the activity of cytochrome P450 isozymes may increase the plasma levels of clozapine.
 Cimetidine, caffeine, citalopram, ciprofloxacin, fluvoxamine, and erythromycin may increase plasma levels of FazaClo® (clozapine, USP), potentially resulting in adverse effects.
@@ -379,11 +386,21 @@ No carcinogenic potential was demonstrated in long-term studies in mice and rats
 Fertility in male and female rats was not adversely affected by clozapine.
 Clozapine did not produce genotoxic or mutagenic effects when assayed in appropriate bacterial and mammalian tests.
 
-## Pregnancy Category B
+## Pregnancy
+
+FazaClo® (clozapine, USP) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+### Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses of approximately 2-4 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response and in view of the desirability of keeping the administration of all drugs to a minimum during pregnancy, this drug should be used only if clearly needed.
+
+### Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 ## Nursing Mothers
 

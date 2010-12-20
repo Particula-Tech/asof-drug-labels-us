@@ -113,7 +113,7 @@ Voluntary reports of adverse events temporally associated with clozapine not men
 
 ### Central Nervous System
 
-Delirium, EEG abnormal, exacerbation of psychosis, myoclonus, overdose, paresthesia, possible mild cataplexy, and status epilepticus
+Delirium, EEG abnormal, exacerbation of psychosis, myoclonus, overdose, paresthesia, possible mild cataplexy, status epilepticus, and obsessive compulsive symptoms
 
 ### Cardiovascular System
 
@@ -141,7 +141,7 @@ Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, a
 
 ### Metabolic and Nutritional Disorders
 
-Hypercholesterolemia (very rare) and hypertriglyceridemia (very rare)
+Hypercholesterolemia, hypertriglyceridemia, and new onset diabetes
 
 ### Musculoskeletal System
 
@@ -149,7 +149,7 @@ Myasthenic syndrome and rhabdomyolysis
 
 ### Respiratory System
 
-Aspiration and pleural effusion
+Aspiration, pleural effusion, and pneumonia and lower respiratory tract infection which may be fatal
 
 ### Hemic and Lymphatic System
 
