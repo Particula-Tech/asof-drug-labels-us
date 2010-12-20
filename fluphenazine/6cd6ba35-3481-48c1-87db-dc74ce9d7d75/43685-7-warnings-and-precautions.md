@@ -15,7 +15,6 @@ Both the risk of developing the syndrome and the likelihood that it will become 
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if neuroleptic treatment is withdrawn.
-
 Neuroleptic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying disease process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -53,6 +52,14 @@ Since there is no adequate experience in children who have received this drug, s
 ## Usage in Pregnancy
 
 The safety for the use of this drug during pregnancy has not been established; therefore, the possible hazards should be weighed against the potential benefits when administering this drug to pregnant patients.
+
+### Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Fluphenazine Hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 # PRECAUTIONS
 
@@ -98,4 +105,4 @@ Possible risk factors for leukopenia/neutropenia include preexisting low white b
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue fluphenazine hydrochloride USP at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count < 1000/mm3) should discontinue fluphenazine hydrochloride USP and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue fluphenazine hydrochloride USP and have their WBC followed until recovery.

@@ -1,6 +1,6 @@
 # WARNING
 
-## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of seventeen placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.

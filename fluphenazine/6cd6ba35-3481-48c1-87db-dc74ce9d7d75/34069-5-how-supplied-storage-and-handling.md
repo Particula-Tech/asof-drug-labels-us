@@ -19,3 +19,10 @@ Avoid excessive heat.
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure.
+
+Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
+
+Made in the USA
+
+Rev.
+09/10 10-980
