@@ -2,7 +2,6 @@
 
 COREG CR is an extended-release capsule intended for once-daily administration.
 Patients controlled with immediate-release carvedilol tablets alone or in combination with other medications may be switched to COREG CR extended-release capsules based on the total daily doses shown in Table 1.
-Subsequent titration to higher or lower doses may be necessary as clinically warranted.
 
 Table 1.
 Dosing Conversion
