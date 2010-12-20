@@ -1,49 +1,73 @@
+# WARNINGS
+
 # PRECAUTIONS
 
 ## General
 
-Monitoring of renal function - Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
+### Monitoring of renal function
+
+Metformin is known to be substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of impairment of renal function.
 Thus, patients with serum creatinine levels above the upper limit of normal for their age should not receive FORTAMET®.
-In patisents with advanced age, FORTAMET® should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.
+In patients with advanced age, FORTAMET® should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging is associated with reduced renal function.
 In elderly patients, particularly those ≥80 years of age, renal function should be monitored regularly and, generally, FORTAMET® should not be titrated to the maximum dose (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Before initiation of FORTAMET® therapy and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated, renal function should be assessed more frequently and FORTAMET® discontinued if evidence of renal impairment is present.
 
-### Macrovascular Outcomes -
+### Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with FORTAMET® or any other anti-diabetic drug.
 
-Use of concomitant medications that may affect renal function or metformin disposition - Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion (see PRECAUTIONS: Drug Interactions), should be used with caution.
+### Use of concomitant medications that may affect renal function or metformin disposition
 
-Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrast materials) – Intravascular contrast studies with iodinated materials can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin (see CONTRAINDICATIONS).
+Concomitant medication(s) that may affect renal function or result in significant hemodynamic change or may interfere with the disposition of metformin, such as cationic drugs that are eliminated by renal tubular secretion (see PRECAUTIONS: Drug Interactions), should be used with caution.
+
+### Radiologic studies involving the use of intravascular iodinated contrast materials (for example, intravenous urogram, intravenous cholangiography, angiography, and computed tomography (CT) scans with intravascular contrastmaterials)
+
+Intravascular contrast studies with iodinated materials can lead to acute alteration of renal function and have been associated with lactic acidosis in patients receiving metformin (see CONTRAINDICATIONS).
 Therefore, in patients in whom any such study is planned, FORTAMET® should be temporarily discontinued at the time of or prior to the procedure, and withheld for 48 hours subsequent to the procedure and reinstituted only after renal function has been re-evaluated and found to be normal.
 
-Hypoxic states – Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
+### Hypoxic states
+
+Cardiovascular collapse (shock) from whatever cause, acute congestive heart failure, acute myocardial infarction and other conditions characterized by hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia.
 When such events occur in patients on FORTAMET® therapy, the drug should be promptly discontinued.
 
-Surgical procedures – FORTAMET® therapy should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
+### Surgical procedures
 
-Alcohol intake – Alcohol is known to potentiate the effect of metformin on lactate metabolism.
+FORTAMET® therapy should be temporarily suspended for any surgical procedure (except minor procedures not associated with restricted intake of food and fluids) and should not be restarted until the patient's oral intake has resumed and renal function has been evaluated as normal.
+
+### Alcohol intake
+
+Alcohol is known to potentiate the effect of metformin on lactate metabolism.
 Patients, therefore, should be warned against excessive alcohol intake, acute or chronic, while receiving FORTAMET®.
 
-Impaired hepatic function – Since impaired hepatic function has been associated with some cases of lactic acidosis, FORTAMET® should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
+### Impaired hepatic function
 
-Vitamin B12 levels – In controlled clinical trials of immediate-release metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12 -intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of immediate-release metformin or Vitamin B12 supplementation.
+Since impaired hepatic function has been associated with some cases of lactic acidosis, FORTAMET® should generally be avoided in patients with clinical or laboratory evidence of hepatic disease.
+
+### Vitamin B12 levels
+
+In controlled clinical trials of immediate-release metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of immediate-release metformin or Vitamin B12 supplementation.
 Measurement of hematologic parameters on an annual basis is advised in patients on FORTAMET® and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS: Laboratory Tests).
 Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
 In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
 
-Change in clinical status of patients with previously controlled type 2 diabetes – A patient with type 2 diabetes previously well controlled on FORTAMET® who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
-Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
+### Change in clinical status of patients with previously controlled type 2 diabetes
+
+A patient with type 2 diabetes previously well controlled on FORTAMET® who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
+Evaluation should include serumelectrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, andmetformin levels.
 If acidosis of either form occurs, FORTAMET® must be stopped immediately and other appropriate corrective measures initiated (see also WARNINGS).
 
-Hypoglycemia – Hypoglycemia does not occur in patients receiving FORTAMET® alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
+### Hypoglycemia
+
+Hypoglycemia does not occur in patients receiving FORTAMET® alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 
-Loss of control of blood glucose – When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
+### Loss of control of blood glucose
+
+When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
 At such times, it may be necessary to withhold FORTAMET® and temporarily administer insulin.
 FORTAMET® may be reinstituted after the acute episode is resolved.
 
@@ -81,27 +105,37 @@ While megaloblastic anemia has rarely been seen with immediate-release metformin
 
 ## Drug Interactions (Clinical Evaluation of Drug Interactions Conducted with Immediate-Release Metformin)
 
-Glyburide– In a single-dose interaction study in type 2 diabetes patients, co-administration of metformin and glyburide did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.
+### Glyburide
+
+In a single-dose interaction study in type 2 diabetes patients, co-administration of metformin and glyburide did not result in any changes in either metformin pharmacokinetics or pharmacodynamics.
 Decreases in glyburide AUC and Cmax were observed, but were highly variable.
 The single-dose nature of this study and the lack of correlation between glyburide blood levels and pharmacodynamic effects, makes the clinical significance of this interaction uncertain (see DOSAGE AND ADMINISTRATION: Concomitant FORTAMET® and Oral Sulfonylurea Therapy in Adult Patients).
 
-Furosemide– A single-dose, metformin-furosemide drug interaction study in healthy subjects demonstrated that pharmacokinetic parameters of both compounds were affected by co-administration.
+### Furosemide
+
+A single-dose, metformin-furosemide drug interaction study in healthy subjects demonstrated that pharmacokinetic parameters of both compounds were affected by co-administration.
 Furosemide increased the metformin plasma and blood Cmax by 22% and blood AUC by 15%, without any significant change in metformin renal clearance.
 When administered with metformin, the Cmax and AUC of furosemide were 31% and 12% smaller, respectively, than when administered alone, and the terminal half-life was decreased by 32%, without any significant change in furosemide renal clearance.
 No information is available about the interaction of metformin and furosemide when co-administered chronically.
 
-Nifedipine– A single-dose, metformin-nifedipine drug interaction study in normal healthy volunteers demonstrated that co-administration of nifedipine increased plasma metformin Cmax and AUC by 20% and 9%, respectively, and increased the amount excreted in the urine.
+### Nifedipine
+
+A single-dose, metformin-nifedipine drug interaction study in normal healthy volunteers demonstrated that co-administration of nifedipine increased plasma metformin Cmax and AUC by 20% and 9%, respectively, and increased the amount excreted in the urine.
 Tmax and half-life were unaffected.
 Nifedipine appears to enhance the absorption of metformin.
 Metformin had minimal effects on nifedipine.
 
-Cationic drugs– Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
+### Cationic drugs
+
+Cationic drugs (e.g., amiloride, digoxin, morphine, procainamide, quinidine, quinine, ranitidine, triamterene, trimethoprim, or vancomycin) that are eliminated by renal tubular secretion theoretically have the potential for interaction with metformin by competing for common renal tubular transport systems.
 Such interaction between metformin and oral cimetidine has been observed in normal healthy volunteers in both single- and multiple-dose, metformin-cimetidine drug interaction studies, with a 60% increase in peak metformin plasma and whole blood concentrations and a 40% increase in plasma and whole blood metformin AUC.
 There was no change in elimination half-life in the single-dose study.
 Metformin had no effect on cimetidine pharmacokinetics.
 Although such interactions remain theoretical (except for cimetidine), careful patient monitoring and dose adjustment of FORTAMET® and/or the interfering drug is recommended in patients who are taking cationic medications that are excreted via the proximal renal tubular secretory system.
 
-Other– Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
+### Other
+
+Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
 When such drugs are administered to a patient receiving FORTAMET®, the patient should be closely observed for loss of blood glucose control.
 When such drugs are withdrawn from a patient receiving FORTAMET®, the patient should be observed closely for hypoglycemia.
@@ -125,7 +159,9 @@ Fertility of male or female rats was unaffected by metformin when administered a
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category B
+### Teratogenic Effects
+
+#### Pregnancy Category B
 
 Recent information strongly suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities.
 Most experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.

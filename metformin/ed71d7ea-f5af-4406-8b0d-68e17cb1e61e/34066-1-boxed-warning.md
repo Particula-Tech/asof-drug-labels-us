@@ -1,14 +1,12 @@
-# WARNINGS
-
-Lactic Acidosis:
+# Lactic Acidosis
 
 Lactic acidosis is a rare, but serious, metabolic complication that can occur due to metformin accumulation during treatment with FORTAMET® (metformin hydrochloride) Extended-Release Tablets; when it occurs, it is fatal in approximately 50% of cases.
 Lactic acidosis may also occur in association with a number of pathophysiologic conditions, including diabetes mellitus, and whenever there is significant tissue hypoperfusion and hypoxemia.
-Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/ L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
-When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 μg/mL are generally found.
+Lactic acidosis is characterized by elevated blood lactate levels (>5 mmol/L), decreased blood pH, electrolyte disturbances with an increased anion gap, and an increased lactate/pyruvate ratio.
+When metformin is implicated as the cause of lactic acidosis, metformin plasma levels >5 µg/mL are generally found.
 
 The reported incidence of lactic acidosis in patients receiving metformin hydrochloride is very low (approximately 0.03 cases/1000 patient-years, with approximately 0.015 fatal cases/1000 patient-years).
-Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/ surgical problems and multiple concomitant medications.
+Reported cases have occurred primarily in diabetic patients with significant renal insufficiency, including both intrinsic renal disease and renal hypoperfusion, often in the setting of multiple concomitant medical/surgical problems and multiple concomitant medications.
 Patients with congestive heart failure requiring pharmacologic management, in particular those with unstable or acute congestive heart failure who are at risk of hypoperfusion and hypoxemia, are at increased risk of lactic acidosis.
 The risk of lactic acidosis increases with the degree of renal dysfunction and the patient's age.
 The risk of lactic acidosis may, therefore, be significantly decreased by regular monitoring of renal function in patients taking FORTAMET® (metformin hydrochloride) Extended-Release Tablets and by use of the minimum effective dose of FORTAMET®.

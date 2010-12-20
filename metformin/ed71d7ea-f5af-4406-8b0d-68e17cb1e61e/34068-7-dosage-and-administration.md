@@ -18,20 +18,22 @@ Short-term administration of FORTAMET® may be sufficient during periods of tran
 ## Recommended Dosing Schedule
 
 The usual starting dose of FORTAMET® (metformin hydrochloride) Extended-Release Tablets is 1000 mg taken with a full glass of water once daily with the evening meal, although 500 mg may be utilized when clinically appropriate.
-Dosage increases should be made in increments of 500 mg weekly, up to a maximum of 2500 mg once daily with the evening meal (see CLINICAL PHARMACOLOGY, Clinical Studies).
+Dosage increases should bemade in increments of 500 mg weekly, up to a maximum of 2500 mg once daily with the evening meal (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
 In randomized trials, patients currently treated with immediate-release metformin were switched to FORTAMET®.
 Results of this trial suggest that patients receiving immediate-release metformin treatment may be safely switched to FORTAMET® once daily at the same total daily dose, up to 2500 mg once daily.
 Following a switch from immediate-release metformin to FORTAMET®, glycemic control should be closely monitored and dosage adjustments made accordingly (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
-Pediatrics – There is no pediatric information available for FORTAMET®.
+### Pediatrics
 
-### Transfer From Other Antidiabetic Therapy
+There is no pediatric information available for FORTAMET®.
+
+## Transfer From Other Antidiabetic Therapy
 
 When transferring patients from standard oral hypoglycemic agents other than chlorpropamide to FORTAMET®, no transition period generally is necessary.
 When transferring patients from chlorpropamide, care should be exercised during the first two weeks because of the prolonged retention of chlorpropamide in the body, leading to overlapping drug effects and possible hypoglycemia.
 
-### Concomitant FORTAMET® and Oral Sulfonylurea Therapy in Adult Patients
+## Concomitant FORTAMET® and Oral Sulfonylurea Therapy in Adult Patients
 
 If patients have not responded to four weeks of the maximum dose of FORTAMET® monotherapy, consideration should be given to gradual addition of an oral sulfonylurea while continuing FORTAMET® at the maximum dose, even if prior primary or secondary failure to a sulfonylurea has occurred.
 Clinical and pharmacokinetic drug-drug interaction data are currently available only for metformin plus glyburide (also known as glibenclamide).
@@ -42,7 +44,7 @@ Appropriate precautions should be taken (see Package Insert of the respective su
 
 If patients have not satisfactorily responded to one to three months of concomitant therapy with the maximum dose of FORTAMET® and the maximum dose of an oral sulfonylurea, consider therapeutic alternatives including switching to insulin with or without FORTAMET®.
 
-### Concomitant FORTAMET® and Insulin Therapy in Adult Patients
+## Concomitant FORTAMET® and Insulin Therapy in Adult Patients
 
 The current insulin dose should be continued upon initiation of FORTAMET® therapy.
 FORTAMET® therapy should be initiated at 500 mg once daily in patients on insulin therapy.
@@ -51,7 +53,7 @@ The maximum recommended daily dose for FORTAMET® Extended-Release Tablets is 25
 It is recommended that the insulin dose be decreased by 10% to 25% when fasting plasma glucose concentrations decrease to less than 120 mg/dL in patients receiving concomitant insulin and FORTAMET®.
 Further adjustment should be individualized based on glucose-lowering response.
 
-### Specific Patient Populations
+## Specific Patient Populations
 
 FORTAMET® is not recommended for use in pregnancy, and is not recommended in patients below the age of 17 years.
 

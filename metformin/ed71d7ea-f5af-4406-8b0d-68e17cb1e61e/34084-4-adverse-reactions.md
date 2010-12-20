@@ -7,12 +7,12 @@ Adverse reactions reported in ≥5% of the FORTAMET® or immediate-release metfo
 These pooled results show that the most frequently reported adverse reactions in the FORTAMET® group were infection, diarrhea, and nausea.
 Similar incidences of these adverse reactions were seen in the immediate-release metformin group.
 
-Table 6 Number and Percentage of Patients With the Most Common (Incidence ≥5%)Treatment-Emergent Signs or Symptoms by Body System and Preferred Term - Pooled Phase II and III Studies
+Table 6 Number and Percentage of Patients With the Most Common (Incidence ≥5%) Treatment-Emergent Signs or Symptoms by Body System and Preferred Term – Pooled Phase II and III Studies
 
-|  | FORTAMET® (N=424) |  | Immediate-Release Metformin (N=430) |  |
-| --- | --- | --- | --- | --- |
 | Body System Preferred Term | n | (%) | n | (%) |
-| Body as a Whole |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | FORTAMET® (n = 424) |  | Immediate-Release Metformin (n = 430) |  |
+| Body as aWhole |  |  |  |  |
 | Accidental Injury | 31 | (7.3) | 24 | (5.6) |
 | Headache | 20 | (4.7) | 22 | (5.1) |
 | Infection | 87 | (20.5) | 90 | (20.9) |
@@ -30,17 +30,16 @@ In the controlled studies, 4.7% of patients treated with FORTAMET® and 4.9% of 
 
 ## Immediate-Release Metformin
 
-Immediate-Release Metformin Phase III Clinical Studies
+### Immediate-Release Metformin Phase III Clinical Studies
 
 In a U.S. double-blind clinical study of immediate-release metformin in patients with type 2 diabetes, a total of 141 patients received immediate-release metformin therapy (up to 2550 mg per day) and 145 patients received placebo.
 Adverse reactions reported in greater than 5% of the immediate-release metformin patients, and that were more common in immediate-release metformin than placebo-treated patients, are listed in Table 7.
 
-Table 7 Most Common Adverse Reactions (>5.0%) in a Placebo-Controlled Clinical Study of Immediate-Release Metformin Monotherapy*
+Table 7 Most Common Adverse Reactions (>5.0%) in a Placebo-Controlled Clinical Study of Immediate-Release Metformin MonotherapyReactions that were more common in immediate-release metformin than placebo-treated patients
 
-|  | Immediate-Release Metformin Monotherapy (n = 141) |  |
-| --- | --- | --- |
-|  | Placebo (n = 145) |  |
 | Adverse Reaction | % of Patients |  |
+| --- | --- | --- |
+|  | Immediate-Release Metformin Monotherapy (n = 141) | Placebo (n = 145) |
 | Diarrhea | 53.2 | 11.7 |
 | Nausea/Vomiting | 25.5 | 8.3 |
 | Flatulence | 12.1 | 5.5 |
@@ -48,7 +47,6 @@ Table 7 Most Common Adverse Reactions (>5.0%) in a Placebo-Controlled Clinical S
 | Indigestion | 7.1 | 4.1 |
 | Abdominal Discomfort | 6.4 | 4.8 |
 | Headache | 5.7 | 4.8 |
-| * Reactions that were more common in immediate-release metformin than placebo-treated patients |  |  |
 
 Diarrhea led to discontinuation of study medication in 6% of patients treated with immediate-release metformin.
 Additionally, the following adverse reactions were reported in ≥1.0 - ≤5.0% of immediate-release metformin patients and were more commonly reported with immediate-release metformin than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
