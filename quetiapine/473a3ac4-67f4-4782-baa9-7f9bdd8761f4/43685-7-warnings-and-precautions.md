@@ -20,7 +20,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-Table 1
+Table 1:
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -84,7 +84,7 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo Controlled Studies
+Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled Studies
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 In SEROQUEL clinical trials for schizophrenia, the percentage of patients with shifts in cholesterol and triglycerides from baseline to clinically significant levels were 18% (placebo: 7%) and 22% (placebo: 16%).
 HDL-cholesterol and LDL-cholesterol parameters were not measured in these studies.
-In SEROQUEL clinical trials for bipolar depression, the following percentage of patients had shifts from baseline to clinically significant levels for the four lipid parameters measured: total cholesterol 9% (placebo: 6%); triglycerides 14% (placebo: 9%); LDL-cholesterol 6% (placebo: 5%) and HDLcholesterol 14% (placebo: 14%).
+In SEROQUEL clinical trials for bipolar depression, the following percentage of patients had shifts from baseline to clinically significant levels for the four lipid parameters measured: total cholesterol 9% (placebo: 6%); triglycerides 14% (placebo: 9%); LDL-cholesterol 6% (placebo: 5%) and HDL-cholesterol 14% (placebo: 14%).
 Lipid parameters were not measured in the bipolar mania studies.
 
 Table 5 shows the percentage of patients in MDD adjunctive therapy trials with clinically significant shifts in total-cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by dose.
@@ -190,7 +190,7 @@ Safety and effectiveness of SEROQUEL XR have not been established in pediatric p
 
 Table 6 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL.
 
-Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDLCholesterol from Baseline to Clinically Significant Levels by Indication
+Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -277,7 +277,7 @@ However, the syndrome can develop, although much less commonly, after relatively
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
-The effect that symptomatic suppression has upon the longterm course of the syndrome is unknown.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, SEROQUEL XR should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who appear to suffer from a chronic illness that (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.

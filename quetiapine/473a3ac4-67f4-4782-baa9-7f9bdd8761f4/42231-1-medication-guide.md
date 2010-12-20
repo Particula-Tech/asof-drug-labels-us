@@ -4,7 +4,9 @@ Medication Guide
 
 SEROQUEL XR (SER-oh-kwell)
 
-quetiapine fumarate
+(quetiapine fumarate)
+
+Extended-Release Tablets
 
 Read this Medication Guide before you start taking SEROQUEL XR and each time you get a refill.
 There may be new information.
@@ -47,7 +49,7 @@ Call a healthcare provider right away if you or your family member has any of th
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
+- Never stop an antidepressant medicine without first talking to your healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
@@ -161,7 +163,7 @@ What are possible side effects of SEROQUEL XR?
 
 Serious side effects have been reported with SEROQUEL XR including:
 
-Also see “What is the most important information I should know about SEROQUEL XR?” at the beginning of this Medication Guide
+Also see “What is the most important information I should know about SEROQUEL XR?” at the beginning of this Medication Guide.
 
 - Neuroleptic malignant syndrome (NMS): Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
   These may be symptoms of a rare and serious condition that can lead to death.
@@ -240,23 +242,23 @@ In addition, yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (
 
 The symptoms of Schizophrenia include:
 
-- Having lost touch with reality (psychosis),
-- Seeing things that are not there or hearing voices (hallucinations),
+- Having lost touch with reality (psychosis)
+- Seeing things that are not there or hearing voices (hallucinations)
 - Believing things that are not true (delusions) and
 - Being suspicious (paranoia).
 
 The symptoms of Bipolar Disorder include:
 
-- General symptoms of bipolar disorder include: extreme mood swings, along with other specific symptoms and behaviors.
+- General symptoms of bipolar disorder include extreme mood swings, along with other specific symptoms and behaviors.
   These mood swings, or "episodes," include manic (highs) and depressive (lows)
 - Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual
-- Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite and
+- Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite.
 - Thoughts of death or suicide.
 
 The symptoms of Major Depressive Disorder (MDD) include:
 
-- Feeling of sadness, emptiness and increased tearfulness,
-- Loss of interest in activities that you once enjoyed and loss of energy,
+- Feeling of sadness, emptiness and increased tearfulness
+- Loss of interest in activities that you once enjoyed and loss of energy
 - Problems focusing and making decisions
 - Feeling of worthlessness or guilt
 - Changes in sleep or eating patterns
@@ -265,7 +267,7 @@ The symptoms of Major Depressive Disorder (MDD) include:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-SEROQUEL XR is a trademark of the AstraZeneca group of companies
+SEROQUEL XR is a trademark of the AstraZeneca group of companies.
 
 ©AstraZeneca 2010
 
@@ -275,7 +277,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35537–03
+SIC 35537–04
 
 Rev.
-05/2010
+12/2010

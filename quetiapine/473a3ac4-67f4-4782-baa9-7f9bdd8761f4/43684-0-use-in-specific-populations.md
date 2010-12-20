@@ -22,6 +22,14 @@ Maternal toxicity (decreased body weights and/or death) occurred at 2.4 times th
 In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.12, and 0.24 times the MRHD.
 However, in a preliminary peri/postnatal study, there were increases in fetal and pup death, and decreases in mean litter weight at 3.0 times the MRHD.
 
+Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including SEROQUEL XR), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+SEROQUEL XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## 8.2 Labor and Delivery
 
 The effect of SEROQUEL XR on labor and delivery in humans is unknown.
