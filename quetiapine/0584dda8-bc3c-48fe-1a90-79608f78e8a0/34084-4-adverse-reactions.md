@@ -134,7 +134,7 @@ Table 8: Treatment-Emergent Adverse Reaction Incidence in 3-Week Placebo-Control
 | Hypertonia | 4% | 3% |
 | Depression | 3% | 2% |
 | Speech Disorder | 3% | 1% |
-| Incoordinatoin | 2% | 1% |
+| Incoordination | 2% | 1% |
 | Thinking Abnormal | 2% | 0% |
 | Anxiety | 2% | 0% |
 | Ataxia | 2% | 0% |
@@ -154,11 +154,11 @@ Table 8: Treatment-Emergent Adverse Reaction Incidence in 3-Week Placebo-Control
 | Impotence | 1% | 0% |
 | Urinary Tract Disorder | 1% | 0% |
 
-In bipolar depression studies (up to 8 weeks), the most commonly observed treatment emergent adverse reactions associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were somnolence, (57%) dry mouth (44%), dizziness (18%), constipation (10%), and lethargy (5%).
+In bipolar depression studies (up to 8 weeks), the most commonly observed treatment emergent adverse reactions associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were somnolence (57%), dry mouth (44%), dizziness (18%), constipation (10%), and lethargy (5%).
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during therapy (up to 8 weeks) of bipolar depression in 1% or more of patients treated with SEROQUEL (doses of 300 and 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Table 9: Treatment-Emergent Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar DepressionReactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: nausea, upper respiratory tract infection, headache, tinnitus, diarrhea, flatulence, toothache, stomach discomt, abdominal pain, pyrexia, peripheral edema, nasopharyngitis, influenza, bronchitis, viral gastroenteritis, accidental overdose, decreased appetite, back pain, muscle twitching, myalgia, muscle cramp, headache, insomnia, anxiety, nightmare, libido decreased, suicidal ideation, pollakiuria, dyspnoea, pharyngolaryngeal pain, night sweats and hot flush.
+Table 9: Treatment-Emergent Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar DepressionReactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: nausea, upper respiratory tract infection, headache, tinnitus, diarrhea, flatulence, toothache, stomach discomfort, abdominal pain, pyrexia, peripheral edema, nasopharyngitis, influenza, bronchitis, viral gastroenteritis, accidental overdose, decreased appetite, back pain, muscle twitching, myalgia, muscle cramp, headache, insomnia, anxiety, nightmare, libido decreased, suicidal ideation, pollakiuria, dyspnoea, pharyngolaryngeal pain, night sweats and hot flush.
 
 | Body System / Preferred Term | SEROQUEL (n=698) | PLACEBO (n=347) |
 | --- | --- | --- |
@@ -288,7 +288,7 @@ Table 11: Treatment-Emergent Adverse Reaction Incidence in a 6-Week Placebo-Cont
 
 | Body System/Preferred Term | SEROQUEL (n=147) | PLACEBO (n=75) |
 | --- | --- | --- |
-| Central Nervous Disorders |  |  |
+| Central Nervous System Disorders |  |  |
 | SomnolenceSomnolence combines adverse event terms somnolence and sedation | 34% | 11% |
 | Digestive |  |  |
 | Dry Mouth | 7% | 1% |
@@ -338,12 +338,12 @@ Commonly Observed Adverse Reactions
 
 In acute therapy for schizophrenia and bipolar mania (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (47%), dizziness (15%), fatigue (9%), increased appetite (8%), dry mouth (7%), tachycardia (7%), and weight increased (5%).
 
-Table 13 enumerates the pooled incidence of adverse reactions that occurred during acute therapy of children and adolescents (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar Mania).
+Table 13 enumerates the pooled incidence of adverse reactions that occurred during acute therapy of children and adolescents (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania).
 The table includes only those reactions that occurred in 1% or more of patients treated with quetiapine (doses of 400, 600, or 800 mg/day) and for which the incidence in patients treated with quetiapine was greater than the incidence in patients treated with placebo.
 
 Table 13: Adverse Reactions (incidence ≥ 1% and greater than placebo) in Short-Term, Placebo-Controlled Trials of Children and Adolescents (10 to 17 years of age) with Bipolar Mania or SchizophreniaThreshold criteria were applied before rounding to the nearest integer
 
-| Body System/Preferred Term | SEROQUEL (n=340) | Placebo (n=165) |
+| Body System/Preferred Term | SEROQUEL (n=340) | PLACEBO (n=165) |
 | --- | --- | --- |
 | Central/Nervous System Disorder |  |  |
 | SomnolenceSomnolence combines adverse event terms somnolence and sedation | 47% | 15% |
@@ -370,7 +370,7 @@ Table 13: Adverse Reactions (incidence ≥ 1% and greater than placebo) in Short
 | Gastrointestinal Disorder |  |  |
 | Vomiting | 7% | 6% |
 | Stomach Discomfort | 2% | 1% |
-| Skin and Subcutaneous Disorders |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |
 | Acne | 2% | 1% |
 | General Disorders and Administration Site Conditions |  |  |
 | Pyrexia | 2% | 1% |
@@ -399,7 +399,7 @@ Table 14: Adverse experiences potentially associated with EPS in the short-term 
 | ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
 | AkathisiaPatients with tthe following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
 | Dyskinetic eventPatients with the following terms were counted in tis category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
-| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
+| Other Extrapyramidal EventsPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
 
 Table 15 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
@@ -410,7 +410,7 @@ Table 15: Adverse experiences potentially associated with EPS in a short-term pl
 |  | n | % | n | % | n | % | n | % |
 | ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
 | AkathisiaPatients with the following terms were countedin this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
-| Other extrapyramidal eventPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
+| Other Extrapyramidal EventsPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
 
 Adverse Reactions in Long-Term Open-Label Trial
 
@@ -424,7 +424,7 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increasedAdjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
+Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increasedadjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
 Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
@@ -451,12 +451,12 @@ Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyr
 ## 6.2 Vital Signs and Laboratory Values
 
 Hyperglycemia, hyperlipidemia, weight gain and orthostatic hypotension have been reported with quetiapine.
-Increases in blood pressure have also been reported with quetiapine in children and adolescents [seeWarnings and Precautions (5.4, 5.5, 5.6 and 5.9)].
+Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8 and 5.9)].
 
 Neutrophil Counts
 
 In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue SEROQUEL at the first sign of a decline in WBC in absence of other causative factors [seeWarnings and Precautions (5.10)].
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue SEROQUEL at the first sign of a decline in WBC in absence of other causative factors [see Warnings and Precautions (5.10)].
 
 Decreased Hemoglobin
 
@@ -471,13 +471,13 @@ In acute (monotherapy) bipolar mania trials the proportions of patients meeting 
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for SEROQUEL compared to 0% (0/171) incidence for placebo.
 In bipolar depression trials, no patients had heart rate increases to > 120 beats per minute.
 SEROQUEL use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
-This slight tendency in adults to tachycardia may be related to SEROQUEL's potential for inducing orthostatic changes [seeWarnings and Precautions (5.8)].
+This slight tendency to tachycardia in adults may be related to SEROQUEL's potential for inducing orthostatic changes [see Warnings and Precautions (5.8)].
 
 Children and Adolescents: In the acute (6 week) schizophrenia trial in adolescents, potentially clinically significant increases in heart rate (> 110 bpm) occurred in 5.2% (3/73) of patients receiving SEROQUEL 400 mg and 8.5% (5/74) of patients receiving SEROQUEL 800 mg compared to 0% (0/75) of patients receiving placebo.
 Mean increases in heart rate were 3.8 bpm and 11.2 bpm for SEROQUEL 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group [see Warnings and Precautions (5.8)].
 
 In the acute (3 week) bipolar mania trial in children and adolescents, potentially clinically significant increases in heart rate (> 110 bpm) occurred in 1.1% (1/95) of patients receiving SEROQUEL 400 mg and 2.4% (2/98) of patients receiving SEROQUEL 600 mg compared to 0% (0/98) of patients receiving placebo.
-Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions(5.8)].
+Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.8)].
 
 ## 6.3 Post Marketing Experience
 

@@ -17,7 +17,7 @@ If false positive results are suspected, confirmation by an appropriate chromato
 
 Phenytoin: Coadministration of quetiapine (250 mg three times daily) and phenytoin (100 mg three times daily) increased the mean oral clearance of quetiapine by 5-fold.
 Increased doses of SEROQUEL may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other hepatic enzyme inducers (e.g., carbamazepine, barbiturates, rifampin, glucocorticoids).
-Caution should be taken if phenytoin is withdrawn and replaced with a non-inducer (e.g., valproate) [seeDosage and Administration (2)].
+Caution should be taken if phenytoin is withdrawn and replaced with a non-inducer (e.g., valproate) [see Dosage and Administration (2)].
 
 Divalproex: Coadministration of quetiapine (150 mg twice daily) and divalproex (500 mg twice daily) increased the mean maximum plasma concentration of quetiapine at steady state by 17% without affecting the extent of absorption or mean oral clearance.
 

@@ -47,7 +47,7 @@ Call a healthcare provider right away if you or your family member has any of th
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
+- Never stop an antidepressant medicine without first talking to your healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
@@ -160,7 +160,7 @@ What are possible side effects of SEROQUEL?
 
 Serious side effects have been reported with SEROQUEL including:
 
-Also, see “What is the most important information I should know about SEROQUEL?” at the beginning of this Medication Guide
+Also, see “What is the most important information I should know about SEROQUEL?” at the beginning of this Medication Guide.
 
 - Neuroleptic malignant syndrome (NMS): Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
   These may be symptoms of a rare and serious condition that can lead to death.
@@ -199,7 +199,7 @@ Call your healthcare provider if you have any of these symptoms of high blood su
 
 Common possible side effects with SEROQUEL include:
 
-Adults:
+Adults
 
 - drowsiness
 - dry mouth
@@ -254,7 +254,7 @@ Active ingredient: quetiapine fumarate
 
 Inactive ingredients: povidone, dibasic dicalcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 The 25 mg tablets contain red and yellow ferric oxide.
-The 100 mg and 400 mg tablets contain only yellow ferric oxide
+The 100 mg and 400 mg tablets contain only yellow ferric oxide.
 
 The symptoms of Schizophrenia include:
 
@@ -266,8 +266,8 @@ The symptoms of Schizophrenia include:
 The symptoms of Bipolar Disorder include:
 
 - General symptoms of bipolar disorder include extreme mood swings, along with other specific symptoms and behaviors.
-  These mood swings, or "episodes," include manic (highs) and depressive (lows)
-- Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual
+  These mood swings, or "episodes," include manic (highs) and depressive (lows).
+- Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual.
 - Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite.
 - Thoughts of death or suicide.
 
@@ -283,7 +283,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35534–03
+SIC 35534–04
 
 Rev.
-05/10
+12/2010

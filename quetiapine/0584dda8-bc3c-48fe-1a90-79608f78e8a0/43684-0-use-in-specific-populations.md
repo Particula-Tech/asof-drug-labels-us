@@ -16,6 +16,14 @@ However, in a preliminary peri/postnatal study, there were increases in fetal an
 
 There are no adequate and well-controlled studies in pregnant women and quetiapine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including SEROQUEL), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+SEROQUEL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## 8.2 Labor and Delivery
 
 The effect of SEROQUEL on labor and delivery in humans is unknown.

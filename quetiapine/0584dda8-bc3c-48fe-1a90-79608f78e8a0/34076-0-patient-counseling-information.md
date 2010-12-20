@@ -13,7 +13,7 @@ Patients should be advised of the following issues and asked to alert their pres
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Patients and caregivers should be advised that elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at increased risk of death compared with placebo.
-Quetiapine is not approved for elderly patients with dementia-related psychosis [seeWarnings and Precautions (5.1)].
+Quetiapine is not approved for elderly patients with dementia-related psychosis [see Warnings and Precautions (5.1)].
 
 Clinical Worsening and Suicide Risk
 
@@ -34,7 +34,7 @@ Patients who are diagnosed with diabetes, those with risk factors for diabetes, 
 
 Hyperlipidemia
 
-Patients should be advised that elevations in total cholesterol, LDL cholesterol and triglycerides and decreases in HDL-cholesterol may occur.
+Patients should be advised that elevations in total cholesterol, LDL— cholesterol and triglycerides and decreases in HDL-cholesterol may occur.
 Patients should have their lipid profile monitored at the beginning of and periodically during treatment [see Warnings and Precautions (5.5)].
 
 Weight Gain

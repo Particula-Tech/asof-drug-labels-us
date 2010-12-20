@@ -4,7 +4,7 @@
 
 SEROQUEL is indicated for the treatment of schizophrenia.
 The efficacy of SEROQUEL in schizophrenia was established in three 6-week trials in adults and one 6–week trial in adolescents (13–17 years).
-The effectiveness of SEROQUEL for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.1)]
+The effectiveness of SEROQUEL for the maintenance treatment of schizophrenia has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Disorder
 

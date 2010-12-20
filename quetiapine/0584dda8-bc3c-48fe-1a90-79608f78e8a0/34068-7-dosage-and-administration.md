@@ -55,7 +55,7 @@ Recommended Dosing Schedule
 | --- | --- | --- | --- | --- |
 | SEROQUEL | 50 mg | 100 mg | 200 mg | 300 mg |
 
-In these clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for Days 1-4 respectively.
+In the clinical trials supporting effectiveness, the dosing schedule was 50 mg, 100 mg, 200 mg and 300 mg/day for Days 1-4 respectively.
 Patients receiving 600 mg increased to 400 mg on Day 5 and 600 mg on Day 8 (Week 1).
 Antidepressant efficacy was demonstrated with SEROQUEL at both 300 mg and 600 mg; however, no additional benefit was seen in the 600 mg group.
 
