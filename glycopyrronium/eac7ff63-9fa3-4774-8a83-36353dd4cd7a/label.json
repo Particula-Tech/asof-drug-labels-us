@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA017558"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-016-02",
+    "10019-016-17",
+    "10019-016-29",
+    "10019-016-36",
+    "10019-016-37",
+    "10019-016-39",
+    "10019-016-54",
+    "10019-016-81"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "Robinul"
+    }
+  ],
+  "setid": "eac7ff63-9fa3-4774-8a83-36353dd4cd7a",
+  "source": "dailymed"
+}
