@@ -5,7 +5,7 @@ They are supplied as follows:
 
 NDC 0006-0071-31 unit of use bottles of 30 (with desiccant)
 
-NDC 0006-0071-54 PROPAK®Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. - unit of use bottles of 90 (with desiccant).
+NDC 0006-0071-54 PROPAK® - unit of use bottles of 90 (with desiccant).
 
 ## Storage and Handling
 
@@ -18,8 +18,10 @@ PROPECIA tablets are coated and will prevent contact with the active ingredient 
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued July 2010
+Issued December 2010
 
-9636006
+9636007
 
 US Patent Nos.: 5,547,957; 5,571,817
+
+Copyright © 1997 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
