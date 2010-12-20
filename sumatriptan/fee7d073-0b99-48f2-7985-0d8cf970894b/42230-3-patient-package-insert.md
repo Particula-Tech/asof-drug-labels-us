@@ -171,7 +171,7 @@ The decision to use IMITREX Injection is one that you and your healthcare provid
 
 Talk with your healthcare provider before taking IMITREX Injection
 
-1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heat disease such as:
+1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heart disease such as:
    - high blood pressure
    - high cholesterol
    - being overweight
@@ -242,7 +242,7 @@ Some possible side effects of IMITREX Injection
 - You may have pain or redness at the site of injection, but this usually lasts less than an hour.
 - If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
 
-IMITREX, IMITREX STATdose System, IMITREX STATdose Pen, and PAXIL are registered trademarks of GlaxoSmithKline.
+IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
