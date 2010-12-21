@@ -47,7 +47,7 @@ Adverse events reported with azithromycin during the post-marketing period in ad
 Allergic: Arthralgia, edema, urticaria, angioedema.
 Cardiovascular: Arrhythmias including ventricular tachycardia, hypotension.
 There have been rare reports of QT prolongation and torsades de pointes.
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis and rare reports of tongue discoloration.
+Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (rarely fatal).
 Genitourinary: Interstitial nephritis and acute renal failure, vaginitis.
 Hematopoietic: Thrombocytopenia.

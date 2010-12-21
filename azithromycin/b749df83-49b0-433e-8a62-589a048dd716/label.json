@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050693",
+    "NDA050730"
+  ],
   "inn": "azithromycin",
-  "labeler": "Pfizer Labs",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
   "package_ndcs": [
     "0069-3051-07",
     "0069-3051-75",
     "0069-3080-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "azithromycin",
+      "name": "ZITHROMAX"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "azithromycin",
+      "name": "ZITHROMAX"
+    }
+  ],
   "setid": "b749df83-49b0-433e-8a62-589a048dd716",
   "source": "dailymed"
 }
