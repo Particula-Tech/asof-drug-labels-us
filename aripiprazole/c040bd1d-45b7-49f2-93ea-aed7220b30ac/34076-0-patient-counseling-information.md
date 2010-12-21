@@ -76,10 +76,8 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc, Rockville, MD 20
 
 Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
-US Patent Nos: 5,006,528; 6,977,257; and 7,115,587
-
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A7 0309L-2745 Rev November 2009
+1239550A9 03US10L-1018 Rev December 2010
 
-© 2009, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2010, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

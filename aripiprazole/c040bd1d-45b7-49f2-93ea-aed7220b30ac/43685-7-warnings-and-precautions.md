@@ -130,7 +130,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 17 years of age (n=611) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.3%, 0%), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%).
 
-The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 17 years (0.2%, 0.1%), or in aripiprazole injection-treated patients (3%, 2%).
+The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 when comparing standing to supine values) for aripiprazole was not meaningfully different from placebo (aripiprazole incidence, placebo incidence): in adult oral aripiprazole-treated patients (4%, 2%), in pediatric oral aripiprazole-treated patients aged 6 to 17 years (0.2%, 1%), or in aripiprazole injection-treated patients (3%, 2%).
 
 Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
@@ -172,7 +172,7 @@ Appropriate care is advised when prescribing aripiprazole for patients who will 
 The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ABILIFY should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.2, 6.3)].
 
-In two 6-week placebo-controlled studies of aripiprazole as adjunctive treatment of major depressive disorder, the incidences of suicidal ideation and suicide attempts were 0% (0/371) for aripiprazole and 0.5% (2/366) for placebo.
+In two 6-week, placebo-controlled studies of aripiprazole as adjunctive treatment of major depressive disorder, the incidences of suicidal ideation and suicide attempts were 0% (0/371) for aripiprazole and 0.5% (2/366) for placebo.
 
 ## 5.12 Dysphagia
 

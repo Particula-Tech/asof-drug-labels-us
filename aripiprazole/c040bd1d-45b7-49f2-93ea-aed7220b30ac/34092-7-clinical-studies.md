@@ -2,9 +2,9 @@
 
 ## 14.1 Schizophrenia
 
-Adult
+Adults
 
-The efficacy of ABILIFY (aripiprazole) in the treatment of schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
+The efficacy of ABILIFY in the treatment of schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
 Four of the five trials were able to distinguish aripiprazole from placebo, but one study, the smallest, did not.
 Three of these studies also included an active control group consisting of either risperidone (one trial) or haloperidol (two trials), but they were not designed to allow for a comparison of ABILIFY and the active comparators.
 
@@ -67,7 +67,7 @@ An examination of population subgroups did not reveal any clear evidence of diff
 
 Pediatric Patients
 
-The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
 This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
 The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
@@ -78,9 +78,9 @@ Adjunctive Therapy
 The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes was established in a 6-week, placebo-controlled study (n=384) with a 2-week lead-in mood stabilizer monotherapy phase in adult patients who met DSM-IV criteria for bipolar I disorder.
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
-Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 µg/mL to 125 µg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
+Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 μg/mL to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
 At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
-In the 6-week placebo-controlled phase, adjunctive ABILIFY starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.0 mEq/L or 50 µg/mL to 125 µg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score and CGI-BP Severity of Illness score (mania).
+In the 6-week, placebo-controlled phase, adjunctive ABILIFY starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.0 mEq/L or 50 μg/mL to 125 μg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium were on 15 mg/day at 6-week endpoint.
 
 Although the efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated, such efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.

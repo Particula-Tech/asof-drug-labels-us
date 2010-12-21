@@ -4,6 +4,8 @@ In general, no dosage adjustment for ABILIFY is required on the basis of a patie
 
 ## 8.1 Pregnancy
 
+Teratogenic Effects
+
 Pregnancy Category C: In animal studies, aripiprazole demonstrated developmental toxicity, including possible teratogenic effects in rats and rabbits.
 
 Pregnant rats were treated with oral doses of 3 mg/kg/day, 10 mg/kg/day, and 30 mg/kg/day (1 times, 3 times, and 10 times the maximum recommended human dose [MRHD] on a mg/m2 basis) of aripiprazole during the period of organogenesis.
@@ -31,9 +33,15 @@ In rats receiving aripiprazole injection intravenously (3 mg/kg/day, 8 mg/kg/day
 These doses produced some maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
 
+Non-teratogenic Effects
+
 There are no adequate and well-controlled studies in pregnant women.
 It is not known whether aripiprazole can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
-Aripiprazole should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Aripiprazole should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 
@@ -58,7 +66,7 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
-Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8 week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1.4), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.4)].
+Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1.4), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.4)].
 Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.

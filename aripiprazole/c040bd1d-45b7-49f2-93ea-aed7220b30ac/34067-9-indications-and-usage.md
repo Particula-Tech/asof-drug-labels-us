@@ -32,7 +32,7 @@ Efficacy was established in two 8-week trials in pediatric patients (aged 6 to 1
 ## 1.5 Agitation Associated with Schizophrenia or Bipolar Mania
 
 ABILIFY Injection is indicated for the acute treatment of agitation associated with schizophrenia or bipolar disorder, manic or mixed.
-"Psychomotor agitation" is defined in DSM-IV as "excessive motor activity associated with a feeling of inner tension".
+“Psychomotor agitation” is defined in DSM-IV as “excessive motor activity associated with a feeling of inner tension”.
 Patients experiencing agitation often manifest behaviors that interfere with their diagnosis and care (eg, threatening behaviors, escalating or urgently distressing behavior, or self-exhausting behavior), leading clinicians to the use of intramuscular antipsychotic medications to achieve immediate control of the agitation.
 Efficacy was established in three short-term (24-hour) trials in adults [see CLINICAL STUDIES (14.5)].
 

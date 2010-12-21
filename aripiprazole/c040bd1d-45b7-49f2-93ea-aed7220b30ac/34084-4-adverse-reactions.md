@@ -22,7 +22,7 @@ The most common adverse reactions in adult patients in clinical trials (≥10%) 
 
 The most common adverse reactions in the pediatric clinical trials (≥10%) were somnolence, headache, vomiting, extrapyramidal disorder, fatigue, increased appetite, insomnia, nausea, nasopharyngitis, and weight increased.
 
-Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer's type, Parkinson's disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole and 749 patients with exposure to aripiprazole injection.
+Aripiprazole has been evaluated for safety in 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, Dementia of the Alzheimer’s type, Parkinson’s disease, and alcoholism, and who had approximately 7619 patient-years of exposure to oral aripiprazole and 749 patients with exposure to aripiprazole injection.
 A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
 
 Aripiprazole has been evaluated for safety in 920 patients (6 to 17 years) who participated in multiple-dose, clinical trials in schizophrenia, bipolar mania, or autistic disorder and who had approximately 517 patient-years of exposure to oral aripiprazole.
@@ -423,7 +423,7 @@ In the short-term, placebo-controlled trials in bipolar mania in adults, the inc
 In the 6-week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
 In the short-term, placebo-controlled trial in bipolar mania in pediatric (10 to 17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 26% vs. 5% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 10% vs. 2% for placebo.
 
-In the adult bipolar mania trials with monotherapy aripiprazole, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.50; placebo, -0.01 and aripiprazole, 0.21; placebo, -0.05).
+In the adult bipolar mania trials with monotherapy aripiprazole, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.50; placebo, −0.01 and aripiprazole, 0.21; placebo, −0.05).
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 In the bipolar mania trials with aripiprazole as adjunctive therapy with either lithium or valproate, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.73; placebo, 0.07 and aripiprazole, 0.30; placebo, 0.11).
 Changes in the Assessments of Involuntary Movement Scales were similar for adjunctive aripiprazole and adjunctive placebo.
@@ -441,7 +441,7 @@ Autistic Disorder
 
 In the short-term, placebo-controlled trials in autistic disorder in pediatric patients (6 to 17 years), the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 18% vs. 2% for placebo and the incidence of akathisia-related events for aripiprazole-treated patients was 3% vs. 9% for placebo.
 
-In the pediatric (6 to 17 years) short-term autistic disorder trials, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.1; placebo, -0.4).
+In the pediatric (6 to 17 years) short-term autistic disorder trials, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.1; placebo, −0.4).
 Changes in the Barnes Akathisia Scale and the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 
 Agitation Associated with Schizophrenia or Bipolar Mania
@@ -464,7 +464,7 @@ Similarly, there were no aripiprazole/placebo differences in the incidence of di
 In the 6-week trials of aripiprazole as adjunctive therapy for major depressive disorder, there were no clinically important differences between the adjunctive aripiprazole-treated and adjunctive placebo-treated patients in the median change from baseline in prolactin, fasting glucose, HDL, LDL, or total cholesterol measurements.
 The median % change from baseline in triglycerides was 5% for adjunctive aripiprazole-treated patients vs. 0% for adjunctive placebo-treated patients.
 
-In a long-term (26-week), placebo-controlled trial there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, or total cholesterol measurements.
+In a long-term (26-week), placebo-controlled trial, there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, or total cholesterol measurements.
 
 Weight Gain
 
@@ -480,7 +480,7 @@ In the trials adding aripiprazole to antidepressants, patients first received 8 
 The mean weight gain with adjunctive aripiprazole was 1.7 kg vs. 0.4 kg with adjunctive placebo.
 The proportion of patients meeting a weight gain criterion of ≥7% of body weight was 5% with adjunctive aripiprazole compared to 1% with adjunctive placebo.
 
-In the two short term, placebo-controlled trials in patients (6 to 17 years) with autistic disorder, the mean increase in body weight in the aripiprazole group was 1.6 kg vs. 0.4 kg in the placebo group.
+In the two short-term, placebo-controlled trials in patients (6 to 17 years) with autistic disorder, the mean increase in body weight in the aripiprazole group was 1.6 kg vs. 0.4 kg in the placebo group.
 The proportion of patients meeting a weight gain criterion of ≥7% of body weight was 26% in aripiprazole group compared to 7% in placebo group.
 
 Table 13 provides the weight change results from a long-term (26-week), placebo-controlled study of aripiprazole in adults with schizophrenia, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline.
@@ -491,7 +491,7 @@ Table 13: Weight Change Results Categorized by BMI at Baseline: Placebo-Controll
 |  | BMI <23 |  | BMI 23-27 |  | BMI >27 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo (n=54) | Aripiprazole (n=59) | Placebo (n=48) | Aripiprazole (n=39) | Placebo (n=49) | Aripiprazole (n=53) |
-| Mean change from baseline (kg) | -0.5 | -0.5 | -0.6 | -1.3 | -1.5 | -2.1 |
+| Mean change from baseline (kg) | −0.5 | −0.5 | −0.6 | −1.3 | −1.5 | −2.1 |
 | % with ≥7% increase BW | 3.7% | 6.8% | 4.2% | 5.1% | 4.1% | 5.7% |
 
 Table 14 provides the weight change results from a long-term (52-week) study of aripiprazole in adults with schizophrenia, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline:
@@ -500,7 +500,7 @@ Table 14: Weight Change Results Categorized by BMI at Baseline: Active-Controlle
 
 |  | BMI <23 (n=314) | BMI 23-27 (n=265) | BMI >27 (n=260) |
 | --- | --- | --- | --- |
-| Mean change from baseline (kg) | 2.6 | 1.4 | -1.2 |
+| Mean change from baseline (kg) | 2.6 | 1.4 | −1.2 |
 | % with ≥7% increase BW | 30% | 19% | 8% |
 
 ECG Changes
