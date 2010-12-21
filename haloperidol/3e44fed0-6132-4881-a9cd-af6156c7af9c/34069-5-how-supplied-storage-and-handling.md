@@ -9,5 +9,3 @@ Protect from light.
 Dispense in a tight, light-resistant container as described in the USP.
 
 Manufactured by: Silarx Pharmaceuticals, Inc. Spring Valley, NY 10977
-
-Revised 12/ 2008

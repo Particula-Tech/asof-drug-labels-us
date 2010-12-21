@@ -47,6 +47,14 @@ Hyperpyrexia and heat stroke, not associated with the above symptom complex, hav
 
 Usage in Pregnancy
 
+Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human dose.
 Cleft palate in mice appears to be a non-specific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
