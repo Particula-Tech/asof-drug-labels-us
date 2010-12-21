@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075689"
+  ],
+  "inn": "haloperidol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-474-01",
+    "63323-474-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "haloperidol lactate",
+      "name": "Haloperidol"
+    }
+  ],
+  "setid": "b1ad2abd-a9d6-44e3-957b-36a73260f4f5",
+  "source": "dailymed"
+}
