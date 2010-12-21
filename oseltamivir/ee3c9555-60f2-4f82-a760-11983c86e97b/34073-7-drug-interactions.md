@@ -21,4 +21,4 @@ Clinically important drug interactions involving competition for renal tubular s
 Coadministration of probenecid results in an approximate two-fold increase in exposure to oseltamivir carboxylate due to a decrease in active anionic tubular secretion in the kidney.
 However, due to the safety margin of oseltamivir carboxylate, no dose adjustments are required when coadministering with probenecid.
 
-No pharmacokinetic interactions have been observed when coadministering oseltamivir with amoxicillin, acetaminophen, cimetidine, antacids (magnesium and aluminum hydroxides and calcium carbonates), or warfarin.
+No pharmacokinetic interactions have been observed when coadministering oseltamivir with amoxicillin, acetaminophen, aspirin, cimetidine, antacids (magnesium and aluminum hydroxides and calcium carbonates), or warfarin.

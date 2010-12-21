@@ -7,7 +7,7 @@ TAMIFLU should be stopped and appropriate treatment instituted if an allergic-li
 
 ## 5.2 Neuropsychiatric Events
 
-Influenza can be associated with a variety of neurologic and behavioral symptoms which can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.
+Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.
 These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.
 
 There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU.

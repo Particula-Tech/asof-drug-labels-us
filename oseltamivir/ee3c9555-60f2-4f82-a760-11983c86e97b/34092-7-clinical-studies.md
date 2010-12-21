@@ -4,7 +4,7 @@
 
 Adult Subjects
 
-Two placebo-controlled and double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100ºF, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
+Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100ºF, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
 In addition, all subjects enrolled in the trials were allowed to take fever-reducing medications.
 
 Of 1355 subjects enrolled in these two trials, 849 (63%) subjects were influenza-infected (age range 18 to 65 years; median age 34 years; 52% male; 90% Caucasian; 31% smokers).
@@ -13,7 +13,7 @@ Of the 849 influenza-infected subjects, 95% were infected with influenza A, 3% w
 TAMIFLU was started within 40 hours of onset of symptoms.
 Subjects participating in the trials were required to self-assess the influenza-associated symptoms as "none," "mild," "moderate," or "severe."
 Time to improvement was calculated from the time of treatment initiation to the time when all symptoms (nasal congestion, sore throat, cough, aches, fatigue, headaches, and chills/sweats) were assessed as "none" or "mild."
-In both studies, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1.3-day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to subjects receiving placebo.
+In both studies, at the recommended dose of TAMIFLU 75 mg twice daily for 5 days, there was a 1.3 day reduction in the median time to improvement in influenza-infected subjects receiving TAMIFLU compared to subjects receiving placebo.
 Subgroup analyses of these studies by gender showed no differences in the treatment effect of TAMIFLU in men and women.
 
 In the treatment of influenza, no increased efficacy was demonstrated in subjects receiving treatment of 150 mg TAMIFLU twice daily for 5 days.
@@ -34,7 +34,7 @@ One double-blind placebo-controlled treatment trial was conducted in pediatric s
 Of 698 subjects enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
 Of the 452 influenza-infected subjects, 67% were infected with influenza A and 33% with influenza B.
 
-The primary endpoint in this study was the time to freedom from illness, a composite endpoint which required 4 individual conditions to be met.
+The primary endpoint in this study was the time to freedom from illness, a composite endpoint that required 4 individual conditions to be met.
 These were: alleviation of cough, alleviation of coryza, resolution of fever, and parental opinion of a return to normal health and activity.
 TAMIFLU treatment of 2 mg/kg twice daily, started within 48 hours of onset of symptoms, significantly reduced the total composite time to freedom from illness by 1.5 days compared to placebo.
 Subgroup analyses of this study by gender showed no differences in the treatment effect of TAMIFLU in male and female pediatric subjects.

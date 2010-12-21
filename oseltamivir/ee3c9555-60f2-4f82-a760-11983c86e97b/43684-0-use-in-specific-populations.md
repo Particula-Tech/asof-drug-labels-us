@@ -32,7 +32,7 @@ Of the total number of subjects in clinical studies of TAMIFLU for the treatment
 Of the total number of patients in clinical studies of TAMIFLU for the prophylaxis of influenza, 25% were 65 and over, while 18% were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 
-The safety of TAMIFLU in geriatric subjects has been established in clinical studies which enrolled 741 subjects (374 received placebo and 362 received TAMIFLU).
+The safety of TAMIFLU in geriatric subjects has been established in clinical studies that enrolled 741 subjects (374 received placebo and 362 received TAMIFLU).
 Some seasonal variability was noted in the clinical efficacy outcomes [see Clinical Studies (14.1)].
 
 Safety and efficacy have been demonstrated in elderly residents of nursing homes who took TAMIFLU for up to 42 days for the prevention of influenza.
