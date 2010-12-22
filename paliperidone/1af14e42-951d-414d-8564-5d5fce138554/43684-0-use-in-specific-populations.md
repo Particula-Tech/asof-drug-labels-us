@@ -4,18 +4,25 @@
 
 Pregnancy Category C.
 
+There are no adequate and well controlled studies of INVEGA® SUSTENNA® in pregnant women.
+
 There were no treatment-related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 160 mg/kg, which is 10 times the maximum recommended human 234 mg dose of INVEGA® SUSTENNA® on a mg/m2 basis.
 
 In studies in pregnant rats and rabbits in which paliperidone was given orally during the period of organogenesis, there were no increases in fetal abnormalities up to the highest doses tested (10 mg/kg/day in rats and 5 mg/kg/day in rabbits, which are each 8 times the maximum recommended human dose [12 mg/day] of orally administered paliperidone [INVEGA®] on a mg/m2 basis).
 
 In rat reproduction studies with risperidone, which is extensively converted to paliperidone in rats and humans, increases in pup deaths were seen at oral doses which are less than the maximum recommended human dose of risperidone on a mg/m2 basis (see RISPERDAL® package insert).
 
-There are no adequate and well controlled studies of INVEGA® SUSTENNA® in pregnant women.
-INVEGA® SUSTENNA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
 Use of first generation antipsychotic drugs during the last trimester of pregnancy has been associated with extrapyramidal symptoms in the neonate.
 These symptoms are usually self-limited.
 It is not known whether paliperidone, when taken near the end of pregnancy, will lead to similar neonatal signs and symptoms.
+
+Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+INVEGA® SUSTENNA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
 

@@ -5,6 +5,6 @@ Beerse, Belgium
 
 Manufactured for: Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised: March 2010
+Revised: December 2010
 
 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2009

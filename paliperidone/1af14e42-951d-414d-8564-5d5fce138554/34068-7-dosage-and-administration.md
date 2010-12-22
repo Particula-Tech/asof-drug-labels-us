@@ -94,7 +94,7 @@ Switching from Oral Antipsychotics
 For patients who have never taken oral paliperidone or oral or injectable risperidone, tolerability should be established with oral paliperidone or oral risperidone prior to initiating treatment with INVEGA® SUSTENNA®.
 
 Previous oral antipsychotics can be discontinued at the time of initiation of treatment with INVEGA® SUSTENNA®.
-INVEGA® SUSTENNA®; should be initiated as described in Section 2.1.
+INVEGA® SUSTENNA® should be initiated as described in Section 2.1.
 Patients previously stabilized on different doses of INVEGA® Extended-Release tablets can attain similar paliperidone steady-state exposure during maintenance treatment with INVEGA® SUSTENNA® monthly doses as depicted in Table 1.
 
 Table 1.

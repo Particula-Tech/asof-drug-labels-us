@@ -25,7 +25,7 @@ Following intramuscular injection of single doses (39 mg – 234 mg) in the delt
 The two initial deltoid intramuscular injections of 234 mg on day 1 and 156 mg on day 8 help attain therapeutic concentrations rapidly.
 The release profile and dosing regimen of INVEGA® SUSTENNA® results in sustained therapeutic concentrations.
 The AUC of paliperidone following INVEGA® SUSTENNA® administration was dose-proportional over a 39 mg – 234 mg dose range, and less than dose-proportional for Cmax for doses exceeding 78 mg.
-The mean steady-state peak:trough ratio for a INVEGA® SUSTENNA® dose of 156 mg was 1.8 following gluteal administration and 2.2 following deltoid administration.
+The mean steady-state peak:trough ratio for an INVEGA® SUSTENNA® dose of 156 mg was 1.8 following gluteal administration and 2.2 following deltoid administration.
 
 Following administration of paliperidone palmitate the (+) and (-) enantiomers of paliperidone interconvert, reaching an AUC (+) to (-) ratio of approximately 1.6–1.8.
 
