@@ -9,7 +9,7 @@ Risperidone is a white to slightly beige powder.
 It is practically insoluble in water, freely soluble in methylene chloride, and soluble in methanol and 0.1 N HCl.
 
 RISPERDAL® Tablets are available in 0.25 mg (dark yellow), 0.5 mg (red-brown), 1 mg (white), 2 mg (orange), 3 mg (yellow), and 4 mg (green) strengths.
-RISPERDAL® tablets contain the following inactive ingredients: colloidal silicon dioxide, hypromelloses, lactose, magnesium stearate, microcrystalline cellulose, propylene glycol, sodium lauryl sulfate, and starch (corn).
+RISPERDAL® tablets contain the following inactive ingredients: colloidal silicon dioxide, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, propylene glycol, sodium lauryl sulfate, and starch (corn).
 The 0.25 mg, 0.5 mg, 2 mg, 3 mg, and 4 mg tablets also contain talc and titanium dioxide.
 The 0.25 mg tablets contain yellow iron oxide; the 0.5 mg tablets contain red iron oxide; the 2 mg tablets contain FD&C Yellow No. 6 Aluminum Lake; the 3 mg and 4 mg tablets contain D&C Yellow No. 10; the 4 mg tablets contain FD&C Blue No. 2 Aluminum Lake.
 

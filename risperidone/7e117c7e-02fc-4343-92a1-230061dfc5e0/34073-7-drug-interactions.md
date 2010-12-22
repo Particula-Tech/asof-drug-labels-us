@@ -42,7 +42,7 @@ RISPERDAL® (0.25 mg twice daily) did not show a clinically relevant effect on t
 
 Risperidone is metabolized to 9-hydroxyrisperidone by CYP 2D6, an enzyme that is polymorphic in the population and that can be inhibited by a variety of psychotropic and other drugs [see Clinical Pharmacology (12.3)].
 Drug interactions that reduce the metabolism of risperidone to 9-hydroxyrisperidone would increase the plasma concentrations of risperidone and lower the concentrations of 9-hydroxyrisperidone.
-Analysis of clinical studies involving a modest number of poor metabolizers (n≅70) does not suggest that poor and extensive metabolizers have different rates of adverse effects.
+Analysis of clinical studies involving a modest number of poor metabolizers (n⋍70) does not suggest that poor and extensive metabolizers have different rates of adverse effects.
 No comparison of effectiveness in the two groups has been made.
 
 In vitro studies showed that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.

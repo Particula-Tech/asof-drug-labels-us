@@ -1,10 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 0.25 mg Tablets Bottle of 60
+PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Label
 
 60 TABLETS NDC 50458-301-04
 
-RISPERDAL®
-
-(RISPERIDONE) TABLETS
+RISPERDAL® (RISPERIDONE) TABLETS
 
 0.25 mg
 
@@ -12,90 +10,71 @@ Each tablet contains: Risperidone 0.25 mg
 
 JANSSEN PHARMACEUTICA PRODUCTS, L.P.
 
-PRINCIPAL DISPLAY PANEL - 0.25 mg Tablets Blister Card
+PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Label
 
-0.25mg 8514801
+60 TABLETS NDC 50458-302-06
 
-RISPERDAL®
+RISPERDAL® (RISPERIDONE) TABLETS
 
-(RISPERIDONE) TABLETS
+0.5 mg
 
-Janssen, L.P.
+Each tablet contains: Risperidone 0.5 mg
 
-LOT EXP
+JANSSEN PHARMACEUTICA PRODUCTS, L.P.
 
-PRINCIPAL DISPLAY PANEL - 1 mg Tablet, Blister Pack
+PRINCIPAL DISPLAY PANEL - 1 mg Tablet Label
 
-100 Tablets NDC 50458-300-01
+60 TABLETS NDC 50458-300-06
 
-RISPERDAL®
-
-(RISPERIDONE) TABLETS
+RISPERDAL® (RISPERIDONE) TABLETS
 
 1 mg
 
-Each tablet contains: Risperidone 1 mg.
-
-Unit Dose Blister Pack 10 Cards of 10 Tablets
+Each tablet contains: Risperidone 1 mg
 
 JANSSEN PHARMACEUTICA PRODUCTS, L.P.
 
-10018500
+PRINCIPAL DISPLAY PANEL - 2 mg Tablet Label
 
-PRINCIPAL DISPLAY PANEL - 0.5 mg Orally Disintegrating Tablet Blister Card
+60 TABLETS NDC 50458-320-06
 
-RISPERDAL®
+RISPERDAL® (RISPERIDONE) TABLETS
 
-M-TAB®
+2 mg
 
-PEEL BACK
-
-(risperidone) Orally Disintegrating Tablets
-
-0.5 mg
-
-Janssen, Div. of OMJPI, Titusville, NJ 08560
-
-LOT 000000000 EXP 0000000
-
-8516502
-
-PRINCIPAL DISPLAY PANEL - 0.5 mg Orally Disintegrating Tablet Blister Pack
-
-Risperdal®M-TAB®
-
-risperidone Orally Disintegrating Tablets
-
-0.5 mg
-
-Rx Only
-
-Each tablet contains: 0.5 mg risperidone
-
-Contains 30 tablets
-
-Phenylketonurics: Contains 0.14 mg phenylalanine (a component of aspartame) per 0.5 mg tablet.
-
-Dosage: For information or use, see accompanying full Prescribing Information.
-
-Store at controlled room temperature 15°C–25°C (59°F–77°F).
-
-Protect from light and moisture.
-
-Keep out of reach of children.
-
-Janssen Pharmaceutica Products, L.P.
-Titusville, NJ 08560 U.S. Patent No. 4,804,663
+Each tablet contains: Risperidone 2 mg
 
 JANSSEN PHARMACEUTICA PRODUCTS, L.P.
 
-PRINCIPAL DISPLAY PANEL - 0.5 mg Orally Disintegrating Tablet Blister Pack Carton
+PRINCIPAL DISPLAY PANEL - 3 mg Tablet Label
+
+60 TABLETS NDC 50458-330-06
+
+RISPERDAL® (RISPERIDONE) TABLETS
+
+3 mg
+
+Each tablet contains: Risperidone 3 mg
+
+JANSSEN PHARMACEUTICA PRODUCTS, L.P.
+
+PRINCIPAL DISPLAY PANEL - 4 mg Tablet Label
+
+60 TABLETS NDC 50458-350-06
+
+RISPERDAL® (RISPERIDONE) TABLETS
+
+4 mg
+
+Each tablet contains: Risperidone 4 mg
+
+JANSSEN PHARMACEUTICA PRODUCTS, L.P.
+
+PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Carton
 
 NDC 50458-395-28 28 TABLETS
 
-Risperdal®M-TAB®
-
-risperidone Orally Disintegrating Tablets
+Risperdal®M-TAB® risperidone Orally Disintegrating Tablets
 
 0.5 mg
 
@@ -105,25 +84,73 @@ Blister pack 7 cards of 4 tablets
 
 Janssen® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
-5728202 Revised January 2008
+PRINCIPAL DISPLAY PANEL - 1 mg Tablet Carton
 
-PRINCIPAL DISPLAY PANEL - 30 mL Label
+NDC 50458-315-28 28 TABLETS
 
-RISPERDAL® (RISPERIDONE) ORAL SOLUTION
+Risperdal®M-TAB® risperidone Orally Disintegrating Tablets
 
-NDC 50458-305-03 30 mL
+1 mg
 
-1 mg/mL
+Rx Only Each tablet contains: 1 mg risperidone
 
-Each 1mL contains: 1 mg of risperidone in an aqueous solution.
-Dosage: For information concerning use of RISPERDAL® (risperidone), please see accompanying Package Insert.
-Dispensing: For information concerning proper usage of the container and dispensing-pipette, and for beverage compatibility, please see accompanying Patient Instructions.
+Blister pack 7 cards of 4 tablets
 
 Janssen® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
-US - 973321
+PRINCIPAL DISPLAY PANEL - 2 mg Tablet Carton
 
-PRINCIPAL DISPLAY PANEL - 30 mL Carton
+NDC 50458-325-28 28 TABLETS
+
+Risperdal®M-TAB® risperidone Orally Disintegrating Tablets
+
+2 mg
+
+Rx Only Each tablet contains: 2 mg risperidone
+
+Blister pack 7 cards of 4 tablets
+
+Janssen® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+
+PRINCIPAL DISPLAY PANEL - 3 mg Tablet Carton
+
+NDC 50458-335-28
+
+Risperdal®M-TAB® risperidone Orally Disintegrating Tablets
+
+Phenylketonurics: Contains 0.63 mg phenylalanine (a component of aspartame) per 3 mg tablet Each tablet contains: 3 mg risperidone
+
+3 mg
+
+Rx Only
+
+Dosage: For information or use, see accompanying full Prescribing Information.
+
+Janssen Pharmaceutica Products, L.P.
+Titusville, NJ 08560
+
+JANSSEN PHARMACEUTICA PRODUCTS, L.P.
+
+PRINCIPAL DISPLAY PANEL - 4 mg Tablet Carton
+
+NDC 50458-355-28
+
+Risperdal®M-TAB® risperidone Orally Disintegrating Tablets
+
+Phenylketonurics: Contains 0.84 mg phenylalanine (a component of aspartame) per 4 mg tablet Each tablet contains: 4 mg risperidone
+
+4 mg
+
+Rx Only
+
+Dosage: For information or use, see accompanying full Prescribing Information.
+
+Janssen Pharmaceutica Products, L.P.
+Titusville, NJ 08560
+
+JANSSEN PHARMACEUTICA PRODUCTS, L.P.
+
+PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton
 
 NDC 50458-305-03 30 mL
 
@@ -132,3 +159,5 @@ RISPERDAL® (RISPERIDONE) ORAL SOLUTION
 1 mg/mL
 
 Each 1 mL contains: 1 mg of risperidone in an aqueous solution.
+
+Janssen, L.P.

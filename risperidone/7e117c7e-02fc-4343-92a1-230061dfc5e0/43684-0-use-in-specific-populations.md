@@ -20,7 +20,12 @@ Placental transfer of risperidone occurs in rat pups.
 There are no adequate and well-controlled studies in pregnant women.
 However, there was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
 The causal relationship to RISPERDAL® therapy is unknown.
-Reversible extrapyramidal symptoms in the neonate were observed following postmarketing use of RISPERDAL® during the last trimester of pregnancy.
+
+Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including RISPERDAL®) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 RISPERDAL® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

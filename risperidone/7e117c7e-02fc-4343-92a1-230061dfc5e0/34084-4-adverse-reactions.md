@@ -350,11 +350,11 @@ Investigations: body temperature increased, blood prolactin increased, alanine a
 
 Metabolism and Nutrition Disorders: polydipsia, anorexia
 
-Musculoskeletal and Connective Tissue Disorders: joint swelling, musculoskeletal chest pain, posture abormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders: joint swelling, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
 
 Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypersomnia, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
 
-Psychiatric Disorders: agitation, blunted affect, confusional state, middle insomnia, sleep disorder, listless, libido decreased, anorgasmia
+Psychiatric Disorders: agitation, blunted affect, confusional state, middle insomnia, sleep disorder, listlessness, libido decreased, anorgasmia
 
 Renal and Urinary Disorders: enuresis, dysuria, pollakiuria
 

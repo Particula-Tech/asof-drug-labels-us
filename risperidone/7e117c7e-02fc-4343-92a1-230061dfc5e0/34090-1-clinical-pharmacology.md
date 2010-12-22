@@ -60,7 +60,7 @@ Although extensive metabolizers have lower risperidone and higher 9-hydroxyrispe
 Risperidone could be subject to two kinds of drug-drug interactions.
 First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7.12)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
-The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given RISPERDAL® do not suggest important differences between poor and extensive metabolizers.
+The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n⋍70) of poor metabolizers given RISPERDAL® do not suggest important differences between poor and extensive metabolizers.
 Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with RISPERDAL® may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7.11)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
 Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions 7.12)].
