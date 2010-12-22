@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020597"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0333-2"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "latanoprost",
+      "name": "Latanoprost"
+    }
+  ],
+  "setid": "463ecfde-5acb-4983-969d-0c0021bfbf48",
+  "source": "dailymed"
+}
