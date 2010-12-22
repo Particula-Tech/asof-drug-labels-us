@@ -5,7 +5,6 @@
 Pregnancy Category C.
 
 There are no adequate and well controlled studies of INVEGA® in pregnant women.
-INVEGA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Use of first generation antipsychotic drugs during the last trimester of pregnancy has been associated with extrapyramidal symptoms in the neonate.
 These symptoms are usually self-limited.
@@ -14,6 +13,14 @@ It is not known whether paliperidone, when taken near the end of pregnancy, will
 In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated during the period of organogenesis with up to 8 times the maximum recommended human dose of paliperidone (on a mg/m2 basis).
 
 In rat reproduction studies with risperidone, which is extensively converted to paliperidone in rats and humans, there were increases in pup deaths seen at oral doses which are less than the maximum recommended human dose of risperidone on a mg/m2 basis (see risperidone package insert).
+
+Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+INVEGA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 

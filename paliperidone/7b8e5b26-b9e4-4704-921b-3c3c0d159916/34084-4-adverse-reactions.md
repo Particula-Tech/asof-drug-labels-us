@@ -90,7 +90,14 @@ Adverse reactions for which the INVEGA® incidence was equal to or less than pla
 Table 2 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies, listing those that occurred in 2% or more of subjects treated with INVEGA® and for which the incidence in INVEGA®-treated subjects was greater than the incidence in subjects treated with placebo.
 
 Table 2.
-Adverse Drug Reactions Reported by ≥ 2% of INVEGA®-Treated Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials
+Adverse Drug Reactions Reported by ≥ 2% of INVEGA®-Treated Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical TrialsTable includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group.
+Data are pooled from two studies.
+One study included once-daily INVEGA® doses of 6 mg (with the option to reduce to 3 mg) and 12 mg (with the option to reduce to 9 mg).
+The second study included flexible once-daily doses of 3 to 12 mg.
+Among the 420 subjects treated with INVEGA®, 230 (55%) received INVEGA® as monotherapy and 190 (45%) received INVEGA® as an adjunct to mood stabilizers and/or antidepressants.
+Extrapyramidal symptoms includes the terms bradykinesia, drooling, dyskinesia, dystonia, hypertonia, muscle rigidity, muscle twitching, oculogyration, parkinsonian gait, parkinsonism, restlessness, and tremor.
+Somnolence includes the terms sedation and somnolence.
+Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
 
 | Dictionary-Derived Term |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -129,7 +136,6 @@ Adverse Drug Reactions Reported by ≥ 2% of INVEGA®-Treated Subjects with Schi
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 1 | 1 | 3 | 1 |
 | Pharyngolaryngeal pain | <1 | 0 | 2 | 1 |
-| * Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group. Data are pooled from two studies. One study included once-daily INVEGA® doses of 6 mg (with the option to reduce to 3 mg) and 12 mg (with the option to reduce to 9 mg). The second study included flexible once-daily doses of 3 to 12 mg. Among the 420 subjects treated with INVEGA®, 230 (55%) received INVEGA® as monotherapy and 190 (45%) received INVEGA® as an adjunct to mood stabilizers and/or antidepressants. Extrapyramidal symptoms includes the terms bradykinesia, drooling, dyskinesia, dystonia, hypertonia, muscle rigidity, muscle twitching, oculogyration, parkinsonian gait, parkinsonism, restlessness, and tremor. Somnolence includes the terms sedation and somnolence. Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased. |  |  |  |  |
 
 Monotherapy versus Adjunctive Therapy
 
