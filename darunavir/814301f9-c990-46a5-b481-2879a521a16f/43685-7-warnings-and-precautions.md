@@ -27,12 +27,12 @@ Evidence of new or worsening liver dysfunction (including clinically significant
 During the clinical development program (n=3063), severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, have been reported in 0.4% of subjects.
 Stevens-Johnson Syndrome was rarely (<0.1%) reported during the clinical development program.
 During post-marketing experience toxic epidermal necrolysis has been reported.
-Discontinue PREZISTA/rtv immediately if signs or symptoms of severe skin reactions develop.
+Discontinue PREZISTA/ritonavir immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
-Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated with PREZISTA/rtv [also see Adverse Reactions (6)].
+Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated with PREZISTA/ritonavir [also see Adverse Reactions (6)].
 Rash was mostly mild-to-moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
-The discontinuation rate due to rash in subjects using PREZISTA/rtv was 0.5%.
+The discontinuation rate due to rash in subjects using PREZISTA/ritonavir was 0.5%.
 
 ## 5.4 Sulfa Allergy
 

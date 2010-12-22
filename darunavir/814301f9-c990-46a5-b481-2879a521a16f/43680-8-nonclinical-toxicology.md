@@ -19,7 +19,7 @@ No effects on fertility or early embryonic development were observed with daruna
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-In juvenile rats single doses of darunavir (20 mg/kg to 160 mg/kg at ages 5-11 days) or multiple doses of darunavir (40 mg/kg to 1000 mg/kg at age 12 days) caused mortality.
+In juvenile rats single doses of darunavir (20 mg/kg to 160 mg/kg at ages 5–11 days) or multiple doses of darunavir (40 mg/kg to 1000 mg/kg at age 12 days) caused mortality.
 The mortalities were associated with convulsions in some of the animals.
 Within this age range exposures in plasma, liver and brain were dose and age dependent and were considerably greater than those observed in adult rats.
 These findings were attributed to the ontogeny of the CYP450 liver enzymes involved in the metabolism of darunavir and the immaturity of the blood-brain barrier.

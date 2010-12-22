@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-PREZISTA (darunavir) is an inhibitor of the human immunodeficiency virus (HIV) protease.
+PREZISTA (darunavir) is an inhibitor of the human immunodeficiency virus (HIV-1) protease.
 
 PREZISTA (darunavir), in the form of darunavir ethanolate, has the following chemical name: [(1S,2R)-3-[[(4-aminophenyl)sulfonyl](2-methylpropyl)amino]-2-hydroxy-1-(phenylmethyl)propyl]-carbamic acid (3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl ester monoethanolate.
 Its molecular formula is C27H37N3O7S • C2H5OH and its molecular weight is 593.73.
@@ -10,12 +10,11 @@ Darunavir ethanolate is a white to off-white powder with a solubility of approxi
 
 PREZISTA 75 mg tablets are available as white, caplet-shaped, film-coated tablets for oral administration.
 PREZISTA 150 mg tablets are available as white, oval-shaped, film-coated tablets for oral administration.
-PREZISTA 300 mg and PREZISTA 600 mg tablets are available as orange, oval-shaped, film-coated tablets for oral administration.
-PREZISTA 400 mg is available as a light orange, oval-shaped, film-coated tablet for oral administration.
+PREZISTA 600 mg tablets are available as orange, oval-shaped, film-coated tablets for oral administration.
+PREZISTA 400 mg tablets are available as light orange, oval-shaped, film-coated tablets for oral administration.
 
 Each 75 mg tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
 Each 150 mg tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
-Each 300 mg tablet contains darunavir ethanolate equivalent to 300 mg of darunavir.
 Each 400 mg tablet contains darunavir ethanolate equivalent to 400 mg of darunavir.
 Each 600 mg tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
 During storage, partial conversion from ethanolate to hydrate may occur; however, this does not affect product quality or performance.

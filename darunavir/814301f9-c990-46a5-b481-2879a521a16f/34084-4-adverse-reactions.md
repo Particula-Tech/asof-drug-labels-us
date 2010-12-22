@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The safety assessment is based on all safety data from the Phase 2b studies (Studies TMC114-C213, TMC114-C202, TMC114-C215, and TMC114-C208) and Phase 3 studies (TMC114-C211, TMC114-C214, TMC114-C209, DUET-1 (TMC125-C206), and DUET-2 (TMC125-C216)) reported with PREZISTA/ritonavir in a total of 3063 subjects.
+The overall safety profile of PREZISTA/ritonavir 800/100 mg once daily and PREZISTA/ritonavir 600/100 mg twice daily is based on clinical trials and post-marketing data, and is consistent with the data presented below.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -86,18 +86,18 @@ Table 4: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 3 | > 2.5 to ≤ 5.0 X ULN | < 1% | < 1% |
 | Grade 4 | > 5.0 X ULN | 0% | 0% |
 | Triglycerides |  |  |  |
-| Grade 2 | 5.65-8.48 mmol/L 500-750 mg/dL | 3% | 8% |
-| Grade 3 | 8.49-13.56 mmol/L 751-1200 mg/dL | 1% | 5% |
+| Grade 2 | 5.65–8.48 mmol/L 500–750 mg/dL | 3% | 8% |
+| Grade 3 | 8.49–13.56 mmol/L 751–1200 mg/dL | 1% | 5% |
 | Grade 4 | > 13.56 mmol/L > 1200 mg/dL | < 1% | < 1% |
 | Total Cholesterol |  |  |  |
-| Grade 2 | 6.20-7.77 mmol/L 240-300 mg/dL | 16% | 23% |
+| Grade 2 | 6.20–7.77 mmol/L 240–300 mg/dL | 16% | 23% |
 | Grade 3 | > 7.77 mmol/L > 300 mg/dL | 1% | 5% |
 | Low-Density Lipoprotein Cholesterol |  |  |  |
-| Grade 2 | 4.13-4.90 mmol/L 160-190 mg/dL | 14% | 10% |
+| Grade 2 | 4.13–4.90 mmol/L 160–190 mg/dL | 14% | 10% |
 | Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 5% | 5% |
 | Elevated Glucose Levels |  |  |  |
-| Grade 2 | 6.95-13.88 mmol/L 126-250 mg/dL | 7% | 8% |
-| Grade 3 | 13.89-27.75 mmol/L 251-500 mg/dL | < 1% | 0% |
+| Grade 2 | 6.95–13.88 mmol/L 126–250 mg/dL | 7% | 8% |
+| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | < 1% | 0% |
 | Grade 4 | > 27.75 mmol/L > 500 mg/dL | 0% | 0% |
 | Pancreatic Lipase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 3.0 X ULN | 2% | 1% |
@@ -185,18 +185,18 @@ Table 6: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 3 | > 2.5 to ≤ 5.0 X ULN | < 1% | < 1% |
 | Grade 4 | > 5.0 X ULN | < 1% | 0% |
 | Triglycerides |  |  |  |
-| Grade 2 | 5.65-8.48 mmol/L 500-750 mg/dL | 10% | 11% |
-| Grade 3 | 8.49-13.56 mmol/L 751-1200 mg/dL | 7% | 10% |
+| Grade 2 | 5.65–8.48 mmol/L 500–750 mg/dL | 10% | 11% |
+| Grade 3 | 8.49–13.56 mmol/L 751–1200 mg/dL | 7% | 10% |
 | Grade 4 | > 13.56 mmol/L > 1200 mg/dL | 3% | 6% |
 | Total Cholesterol |  |  |  |
-| Grade 2 | 6.20-7.77 mmol/L 240-300 mg/dL | 25% | 23% |
+| Grade 2 | 6.20–7.77 mmol/L 240–300 mg/dL | 25% | 23% |
 | Grade 3 | > 7.77 mmol/L > 300 mg/dL | 10% | 14% |
 | Low-Density Lipoprotein Cholesterol |  |  |  |
-| Grade 2 | 4.13-4.90 mmol/L 160-190 mg/dL | 14% | 14% |
+| Grade 2 | 4.13–4.90 mmol/L 160–190 mg/dL | 14% | 14% |
 | Grade 3 | ≥ 4.91 mmol/L ≥ 191 mg/dL | 8% | 9% |
 | Elevated Glucose Levels |  |  |  |
-| Grade 2 | 6.95-13.88 mmol/L 126-250 mg/dL | 10% | 11% |
-| Grade 3 | 13.89-27.75 mmol/L 251-500 mg/dL | 1% | < 1% |
+| Grade 2 | 6.95–13.88 mmol/L 126–250 mg/dL | 10% | 11% |
+| Grade 3 | 13.89–27.75 mmol/L 251–500 mg/dL | 1% | < 1% |
 | Grade 4 | > 27.75 mmol/L > 500 mg/dL | < 1% | 0% |
 | Pancreatic Lipase |  |  |  |
 | Grade 2 | > 1.5 to ≤ 3.0 X ULN | 3% | 4% |
@@ -210,7 +210,7 @@ Table 6: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 
 ## 6.3 Serious ADRs
 
-The following serious ADRs of at least moderate intensity (≥ Grade 2) occurred in the Phase 2b studies (Studies TMC114-C213, TMC114-C202, TMC114-C215, and TMC114-C208) and Phase 3 studies (TMC114-C211, TMC114-C214, TMC114-C209, DUET-1 (TMC125-C206), and DUET-2 (TMC125-C216)) with PREZISTA/ritonavir: abdominal pain, acute hepatitis, acute pancreatitis, anorexia, asthenia, diabetes mellitus, diarrhea, fatigue, headache, hepatic enzyme increased, hypercholesterolemia, hyperglycemia, hypertriglyceridemia, immune reconstitution syndrome, low density lipoprotein increased, nausea, pancreatic enzyme increased, rash, Stevens-Johnson Syndrome, and vomiting.
+The following serious ADRs of at least moderate intensity (≥ Grade 2) occurred in the Phase 2b studies and Phase 3 studies with PREZISTA/ritonavir: abdominal pain, acute hepatitis, acute pancreatitis, anorexia, asthenia, diabetes mellitus, diarrhea, fatigue, headache, hepatic enzyme increased, hypercholesterolemia, hyperglycemia, hypertriglyceridemia, immune reconstitution syndrome, low density lipoprotein increased, nausea, pancreatic enzyme increased, rash, Stevens-Johnson Syndrome, and vomiting.
 
 ## 6.4 Additional ADRs to PREZISTA/ritonavir identified in adult subjects in other clinical trials
 

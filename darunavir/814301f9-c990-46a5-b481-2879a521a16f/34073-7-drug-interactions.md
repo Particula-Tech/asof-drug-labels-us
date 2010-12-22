@@ -22,14 +22,14 @@ Table 7: Established and Other Potentially Significant Drug Interactions: Altera
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
-| HIV-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
+| HIV-1-Antiviral Agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
 | didanosine | ↔ darunavir ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZISTA/ritonavir (which are administered with food). |
-| HIV-Antiviral Agents: HIV-Protease Inhibitors (PIs) |  |  |
+| HIV-1-Antiviral Agents: HIV-Protease Inhibitors (PIs) |  |  |
 | indinavir (The reference regimen for indinavir was indinavir/ritonavir 800/100 mg twice daily.) | ↑ darunavir ↑ indinavir | The appropriate dose of indinavir in combination with PREZISTA/ritonavir has not been established. |
 | lopinavir/ritonavir | ↓ darunavir ↔ lopinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer lopinavir/ritonavir and PREZISTA, with or without ritonavir. |
 | saquinavir | ↓ darunavir ↔ saquinavir | Appropriate doses of the combination have not been established. Hence, it is not recommended to co-administer saquinavir and PREZISTA, with or without ritonavir. |
-| HIV-Antiviral Agents: CCR5 co-receptor antagonists |  |  |
-| Maraviroc | ↑ maraviroc | Maraviroc concentrations are increased when co-administered with PREZISTA/rtv. When used in combination with PREZISTA/rtv, the dose of maraviroc should be 150 mg twice daily. |
+| HIV-1-Antiviral Agents: CCR5 co-receptor antagonists |  |  |
+| Maraviroc | ↑ maraviroc | Maraviroc concentrations are increased when co-administered with PREZISTA/ritonavir. When used in combination with PREZISTA/ritonavir, the dose of maraviroc should be 150 mg twice daily. |
 | Other Agents |  |  |
 | Antiarrhythmics: bepridil, lidocaine (systemic), quinidine, amiodarone, flecainide, propafenone | ↑ antiarrhythmics | Concentrations of these drugs may be increased when co-administered with PREZISTA/ritonavir. Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when co-administered with PREZISTA/ritonavir. |
 | digoxin | ↑ digoxin | The lowest dose of digoxin should initially be prescribed. The serum digoxin concentrations should be monitored and used for titration of digoxin dose to obtain the desired clinical effect. |
@@ -37,7 +37,7 @@ Table 7: Established and Other Potentially Significant Drug Interactions: Altera
 | Anticonvulsant: carbamazepine | ↔ darunavir ↑ carbamazepine | The dose of either darunavir/ritonavir or carbamazepine does not need to be adjusted when initiating co-administration with darunavir/ritonavir and carbamazepine. Clinical monitoring of carbamazepine concentrations and its dose titration is recommended to achieve the desired clinical response. |
 | Anticonvulsant: phenobarbital, phenytoin | ↔ darunavir ↓ phenytoin ↓ phenobarbital | Co-administration of PREZISTA/ritonavir may cause decrease in the steady-state concentrations of phenytoin and phenobarbital. Phenytoin and phenobarbital levels should be monitored when co-administering with PREZISTA/ritonavir. |
 | Antidepressant: trazodone, desipramine | ↑ trazodone ↑ desipramine | Concomitant use of trazodone or desipramine and PREZISTA/ritonavir may increase plasma concentrations of trazodone or desipramine which may lead to adverse events such as nausea, dizziness, hypotension and syncope. If trazodone or desipramine is used with PREZISTA/ritonavir, the combination should be used with caution and a lower dose of trazodone or desipramine should be considered. |
-| Anti-infective: clarithromycin | ↔ darunavir ↑ clarithromycin | No dose adjustment of the combination is required for patients with normal renal function. For patients with renal impairment, the following dose adjustments should be considered: For subjects with CLcr of 30-60 mL/min, the dose of clarithromycin should be reduced by 50%.For subjects with CLcr of < 30 mL/min, the dose of clarithromycin should be reduced by 75%. |
+| Anti-infective: clarithromycin | ↔ darunavir ↑ clarithromycin | No dose adjustment of the combination is required for patients with normal renal function. For patients with renal impairment, the following dose adjustments should be considered: For subjects with CLcr of 30–60 mL/min, the dose of clarithromycin should be reduced by 50%.For subjects with CLcr of < 30 mL/min, the dose of clarithromycin should be reduced by 75%. |
 | Antifungals: ketoconazole, itraconazole, voriconazole | ↑ ketoconazole ↑ darunavir ↑ itraconazole (not studied) ↓ voriconazole (not studied) | Ketoconazole and itraconazole are potent inhibitors as well as substrates of CYP3A. Concomitant systemic use of ketoconazole, itraconazole, and darunavir/ritonavir may increase plasma concentration of darunavir. |
 |  |  | Plasma concentrations of ketoconazole or itraconazole may be increased in the presence of darunavir/ritonavir. When co-administration is required, the daily dose of ketoconazole or itraconazole should not exceed 200 mg. |
 |  |  | Plasma concentrations of voriconazole may be decreased in the presence of darunavir/ritonavir. Voriconazole should not be administered to patients receiving darunavir/ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole. |

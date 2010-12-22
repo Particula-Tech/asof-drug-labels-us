@@ -49,6 +49,6 @@ No pharmacokinetic or safety data are available regarding the use of PREZISTA/ri
 
 ## 8.7 Renal Impairment
 
-Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-infected subjects with moderate renal impairment (CrCL between 30-60 mL/min, n=20).
+Population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV-infected subjects with moderate renal impairment (CrCL between 30–60 mL/min, n=20).
 No pharmacokinetic data are available in HIV-1-infected patients with severe renal impairment or end stage renal disease; however, because the renal clearance of darunavir is limited, a decrease in total body clearance is not expected in patients with renal impairment.
 As darunavir and ritonavir are highly bound to plasma proteins, it is unlikely that they will be significantly removed by hemodialysis or peritoneal dialysis [see Clinical Pharmacology (12.3)].
