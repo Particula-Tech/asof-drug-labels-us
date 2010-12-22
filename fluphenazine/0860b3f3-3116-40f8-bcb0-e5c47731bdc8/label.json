@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074725"
+  ],
   "inn": "fluphenazine",
   "labeler": "Pharmaceutical Associates, Inc.",
   "package_ndcs": [
     "0121-0653-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "fluphenazine hydrochloride",
+      "name": "Fluphenazine Hydrochloride"
+    }
+  ],
   "setid": "0860b3f3-3116-40f8-bcb0-e5c47731bdc8",
   "source": "dailymed"
 }

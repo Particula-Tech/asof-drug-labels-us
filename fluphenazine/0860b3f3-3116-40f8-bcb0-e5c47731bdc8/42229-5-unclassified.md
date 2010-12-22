@@ -2,4 +2,4 @@ Rx Only
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R09/08
+R08/10
