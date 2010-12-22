@@ -7,13 +7,14 @@
   "package_ndcs": [
     "0074-1658-01",
     "0074-1658-02",
+    "0074-1658-05",
     "0074-4637-01"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "paricalcitol",
-      "name": "ZEMPLAR"
+      "name": "Zemplar"
     }
   ],
   "setid": "7259652f-81bc-4ad1-bba5-d01f9fac1b80",

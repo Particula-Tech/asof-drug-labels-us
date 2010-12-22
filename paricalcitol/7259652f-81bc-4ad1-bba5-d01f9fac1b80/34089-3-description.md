@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Paricalcitol, USP, the active ingredient in Zemplar Injection, is a synthetically manufactured analog of calcitriol, the metabolically active form of vitamin D indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic kidney disease(CKD) Stage 5.
+Paricalcitol, USP, the active ingredient in Zemplar Injection, is a synthetically manufactured analog of calcitriol, the metabolically active form of vitamin D indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic kidney disease (CKD) Stage 5.
 Zemplar is available as a sterile, clear, colorless, aqueous solution for intravenous injection.
 Each mL contains paricalcitol, 2 mcg or 5 mcg; propylene glycol, 30% (v/v); and alcohol, 20% (v/v).
 

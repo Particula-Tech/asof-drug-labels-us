@@ -27,4 +27,5 @@ The influence of mild to moderately impaired hepatic function on paricalcitol ph
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
-Discard unused portion.
+After initial vial use, the contents of the multi-dose vial remain stable up to seven days when stored at controlled room temperature (see HOW SUPPLIED).
+Discard unused portion of the single-dose vial.
