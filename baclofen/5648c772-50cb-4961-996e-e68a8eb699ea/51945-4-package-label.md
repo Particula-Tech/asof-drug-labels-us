@@ -4,8 +4,6 @@
 
 NDC 0172-4096-60
 
-New Product Appearance
-
 BACLOFEN
 
 Tablets USP
@@ -23,8 +21,6 @@ TEVA
 ## Principal Display Panel Text
 
 NDC 0172-4097-60
-
-New Product Appearance
 
 BACLOFEN
 
