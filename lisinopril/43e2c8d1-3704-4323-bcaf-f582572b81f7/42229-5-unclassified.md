@@ -1,8 +1,8 @@
 Rx only
 
-PRINCIPAL DISPLAY PANEL NDC 0591-0407-01
+# PRINCIPAL DISPLAY PANEL
 
-Once-daily Lisinopril Tablets USP 10 mg Watson 100 Tablets RX only
+NDC 0591-0407-01 Once-daily Lisinopril Tablets USP 10 mg Watson 100 Tablets RX only
 
 Each tablet contains: Lisinopril USP, 10 mg Usual dosage: See package outsert for full prescribing information.
 Dispense in a tight container as defined in USP/NF.
