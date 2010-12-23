@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 ALPHAGAN® P (brimonidine tartrate ophthalmic solution) is a relatively selective alpha-2 adrenergic agonist for ophthalmic use.
-The chemical name of brimonidine tartrate is 5-bromo-6-(2-imidazolidinylideneamino) quinoxaline L-tartrate.
+The chemical name of brimonidine tartrate is 5-Bromo-6-(2-imidazolidinylideneamino)quinoxaline L-tartrate.
 It is an off-white to pale yellow powder.
 It has a molecular weight of 442.24 as the tartrate salt, and is both soluble in water (0.6 mg/mL) and in the product vehicle (1.4 mg/mL) at pH 7.7.
 The structural formula is:
