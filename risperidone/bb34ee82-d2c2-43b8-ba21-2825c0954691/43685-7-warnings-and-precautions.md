@@ -112,7 +112,7 @@ Therefore, RISPERDAL® CONSTA® should be used cautiously in patients with a his
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 RISPERDAL® CONSTA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[See also Boxed Warning and Warnings and Precautions (5.1)]
+[see also Boxed Warning and Warnings and Precautions (5.1)]
 
 ## 5.12 Priapism
 
@@ -134,7 +134,7 @@ Caution is advised when prescribing RISPERDAL® CONSTA® for patients who will b
 ## 5.15 Administration
 
 RISPERDAL® CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
-[See Dosage and Administration (2) and Adverse Reactions (6.8)]
+[see Dosage and Administration (2) and Adverse Reactions (6.8)]
 
 ## 5.16 Antiemetic Effect
 

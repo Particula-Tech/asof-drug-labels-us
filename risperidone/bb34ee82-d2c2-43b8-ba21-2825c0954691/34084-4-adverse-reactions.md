@@ -23,8 +23,8 @@ The following are discussed in more detail in other sections of the labeling:
 - Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.18)]
 - Osteodystrophy and tumors in animals [see Warnings and Precautions (5.19)]
 
-The most common adverse reactions in clinical trials in patients with schizophrenia (≥ 5%) were headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
-The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥ 10% in the adjunctive treatment trial).
+The most common adverse reactions in clinical trials in patients with schizophrenia (≥5%) were: headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
+The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥10% in the adjunctive treatment trial).
 
 The most common adverse reactions that were associated with discontinuation from the 12-week double-blind, placebo-controlled trial in patients with schizophrenia (causing discontinuation in ≥ 1% of patients) were agitation, depression, anxiety, and akathisia.
 Adverse reactions that were associated with discontinuation from the double-blind, placebo-controlled periods of the bipolar disorder trials were hyperglycemia (one patient in the monotherapy trial) and hypokinesia and tardive dyskinesia (one patient each in the adjunctive treatment trial).
@@ -43,9 +43,9 @@ Subjects who relapsed or who completed the double-blind period could choose to e
 
 Safety data are also presented from a trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as adjunctive maintenance treatment in patients with bipolar disorder.
 The subjects in this multi-center, double-blind, placebo-controlled study were adult patients who met DSM-IV criteria for Bipolar Disorder Type I or Type II and who experienced at least 4 episodes of mood disorder requiring psychiatric/clinical intervention in the previous 12 months, including at least 2 episodes in the 6 months prior to the start of the study.
-At the start of this study, all patients (n = 275) entered into a 16-week open-label treatment phase in which they received RISPERDAL® CONSTA® in addition to continuing their treatment as usual, which consisted of various mood stabilizers (primarily lithium and valproate), antidepressants, and/or anxiolytics.
-Patients who reached remission at the end of this 16-week open-label treatment phase (n = 139) were then randomized into a 52-week double-blind, placebo-controlled phase in which they received RISPERDAL® CONSTA® (n = 72) or placebo (n = 67) as adjunctive treatment in addition to continuing their treatment as usual.
-Patients who did not reach remission at the end of the 16-week open-label treatment phase could choose to continue to receive RISPERDAL® CONSTA® as adjunctive therapy in an open-label manner, in addition to continuing their treatment as usual, for up to an additional 36 weeks as clinically indicated for a total period of up to 52 weeks; these patients (n = 70) were also included in the evaluation of safety.
+At the start of this study, all patients (n=275) entered into a 16-week open-label treatment phase in which they received RISPERDAL® CONSTA® in addition to continuing their treatment as usual, which consisted of various mood stabilizers (primarily lithium and valproate), antidepressants, and/or anxiolytics.
+Patients who reached remission at the end of this 16-week open-label treatment phase (n=139) were then randomized into a 52-week double-blind, placebo-controlled phase in which they received RISPERDAL® CONSTA® (n=72) or placebo (n = 67) as adjunctive treatment in addition to continuing their treatment as usual.
+Patients who did not reach remission at the end of the 16-week open-label treatment phase could choose to continue to receive RISPERDAL® CONSTA® as adjunctive therapy in an open-label manner, in addition to continuing their treatment as usual, for up to an additional 36 weeks as clinically indicated for a total period of up to 52 weeks; these patients (n=70) were also included in the evaluation of safety.
 
 Adverse events during exposure to study treatment were obtained by general inquiry and recorded by clinical investigators using their own terminology.
 Consequently, to provide a meaningful estimate of the proportion of individuals experiencing adverse events, events were grouped in standardized categories using MedDRA terminology.
@@ -68,7 +68,7 @@ Adverse Reactions in ≥ 2% of RISPERDAL® CONSTA®-Treated Patients with Schizo
 | --- | --- | --- | --- |
 |  | Percentage of Patients Reporting Event |  |  |
 |  | RISPERDAL® | CONSTA® | Placebo |
-| System/Organ Class | 25 mg | 50 mg |  |
+| System Organ Class | 25 mg | 50 mg |  |
 | Eye disorders |  |  |  |
 | Vision blurred | 2 | 3 | 0 |
 | Gastrointestinal disorders |  |  |  |
@@ -155,8 +155,8 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 
 ## 6.3 Other Adverse Reactions Observed During the Premarketing Evaluation of Risperidone
 
-The following additional adverse reactions occurred in < 2% of the RISPERDAL® CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
-The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar disorder.
+The following additional adverse reactions occurred in <2% of the RISPERDAL® CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in <2% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in <4% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
+The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active controlled and open-label studies in schizophrenia and bipolar disorder.
 
 Blood and lymphatic system disorders: anemia, neutropenia
 
@@ -226,7 +226,7 @@ Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint st
 
 Nervous System Disorders: hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
 
-Psychiatric Disorders: blunted affect, confusional state, middle insomnia, listless, anorgasmia
+Psychiatric Disorders: blunted affect, confusional state, middle insomnia, listlessness, anorgasmia
 
 Renal and Urinary Disorders: enuresis, dysuria, pollakiuria
 
@@ -258,7 +258,7 @@ Extrapyramidal Symptoms:
 
 Two methods were used to measure extrapyramidal symptoms (EPS) in the 12-week double-blind, placebo-controlled trial comparing three doses of RISPERDAL® CONSTA® (25 mg, 50 mg, and 75 mg) with placebo in patients with schizophrenia, including: (1) the incidence of spontaneous reports of EPS symptoms; and (2) the change from baseline to endpoint on the total score (sum of the subscale scores for parkinsonism, dystonia, and dyskinesia) of the Extrapyramidal Symptom Rating Scale (ESRS).
 
-As shown in Table 1, the overall incidence of EPS-related adverse reactions (akathisia, dystonia, parkinsonism, and tremor) in patients treated with 25 mg RISPERDAL® CONSTA® was comparable to that of patients treated with placebo; the incidence of EPS-related adverse reactions was higher in patients treated with 50 mg RISPERDAL® CONSTA®.
+As shown in Table 1, the overall incidence of EPS-related adverse reactions (akathisia, dystonia, parkinsonism, and tremor) in patients treated with 25 mg RISPERDAL® CONSTA® was comparable to that of patients treated with placebo; the incidence of EPS related adverse reactions was higher in patients treated with 50 mg RISPERDAL® CONSTA®.
 
 The median change from baseline to endpoint in total ESRS score showed no worsening in patients treated with RISPERDAL® CONSTA® compared with patients treated with placebo: 0 (placebo group); -1 (25-mg group, significantly less than the placebo group); and 0 (50-mg group).
 

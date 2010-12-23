@@ -67,7 +67,7 @@ When initiation of fluoxetine or paroxetine is considered, patients may be place
 When fluoxetine or paroxetine is initiated in patients receiving the recommended dose of 25 mg RISPERDAL® CONSTA®, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
 When RISPERDAL® CONSTA® is initiated in patients already receiving fluoxetine or paroxetine, a starting dose of 12.5 mg can be considered.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
-[See also DOSAGE AND ADMINISTRATION (2.5)].
+[see also DOSAGE AND ADMINISTRATION (2.5)].
 The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
 
 Erythromycin
@@ -85,7 +85,7 @@ On discontinuation of carbamazepine or other CYP 3A4 hepatic enzyme inducers, th
 Patients may be placed on a lower dose of RISPERDAL® CONSTA® between 2 to 4 weeks before the planned discontinuation of carbamazepine or other CYP 3A4 enzyme inducers to adjust for the expected increase in plasma concentrations of risperidone plus 9-hydroxyrisperidone.
 For patients treated with the recommended dose of 25 mg RISPERDAL® CONSTA® and discontinuing from carbamazepine or other CYP 3A4 enzyme inducers, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
-[See also DOSAGE AND ADMINSTRATION (2.5)]
+[see also DOSAGE AND ADMINSTRATION (2.5)]
 
 ## 7.13 Drugs Metabolized by CYP 2D6
 

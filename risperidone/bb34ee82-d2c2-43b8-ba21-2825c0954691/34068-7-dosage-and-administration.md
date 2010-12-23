@@ -93,11 +93,11 @@ Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
 The dose of risperidone needs to be titrated accordingly when fluoxetine or paroxetine is co-administered.
 When either concomitant fluoxetine or paroxetine is initiated or discontinued, the physician should re-evaluate the dose of RISPERDAL® CONSTA®.
 When initiation of fluoxetine or paroxetine is considered, patients may be placed on a lower dose of RISPERDAL® CONSTA® between 2 to 4 weeks before the planned start of fluoxetine or paroxetine therapy to adjust for the expected increase in plasma concentrations of risperidone.
-When fluoxetine or paroxetine is initiated in patients receiving the recommended dose of 25 mg RISPERDAL® CONSTA®, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
+When fluoxetine or paroxetine is initiated in patients receiving the recommended dose of 25 mg RISPERDAL® CONSTA®, it is recommended to continue treatment with the 25 mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
 When RISPERDAL® CONSTA® is initiated in patients already receiving fluoxetine or paroxetine, a starting dose of 12.5 mg can be considered.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
-[See Drug Interactions (7.11)]
+[see Drug Interactions (7.11)]
 
 ## 2.8 Instructions for Use
 
@@ -145,7 +145,8 @@ Remove the dose pack of RISPERDAL® CONSTA® from the refrigerator and allow it 
     While holding the white collar of the syringe, attach the Luer connection of the orange Needle-Pro® safety device to the syringe with an easy clockwise twisting motion.
 14. While continuing to hold the white collar of the syringe, grasp the transparent needle sheath and seat the needle firmly on the orange Needle-Pro® safety device with a push and a clockwise twist.
 15. If 2 minutes pass before injection, re-suspend by shaking vigorously.
-16. While holding the white collar of the syringe, pull the transparent needle sheath straight away from the needle.DO NOT TWIST the sheath as the Luer connections may be loosened.
+16. While holding the white collar of the syringe, pull the transparent needle sheath straight away from the needle.
+    DO NOT TWIST the sheath as the Luer connections may be loosened.
 17. Tap the syringe gently to make any air bubbles rise to the top.
     Remove air in syringe by depressing the plunger rod while holding the needle in an upright position.
     Inject the entire contents of the syringe intramuscularly (IM) into the selected gluteal or deltoid muscle of the patient within 2 minutes to avoid settling.

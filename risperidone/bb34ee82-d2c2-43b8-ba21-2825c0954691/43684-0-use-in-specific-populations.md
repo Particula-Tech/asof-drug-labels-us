@@ -22,7 +22,12 @@ Placental transfer of risperidone occurs in rat pups.
 There are no adequate and well-controlled studies in pregnant women.
 However, there was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
 The causal relationship to oral RISPERDAL® therapy is unknown.
-Reversible extrapyramidal symptoms in the neonate were observed following postmarketing use of risperidone during the last trimester of pregnancy.
+
+Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including RISPERDAL®) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 RISPERDAL® CONSTA® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -53,4 +58,4 @@ In two of four placebo-controlled trials in elderly patients with dementia-relat
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 An increase of mortality in elderly patients with dementia-related psychosis was seen with the use of oral risperidone regardless of concomitant use with furosemide.
 RISPERDAL® CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
-[See Boxed Warning and Warnings and Precautions (5.1)]
+[see Boxed Warning and Warnings and Precautions (5.1)]
