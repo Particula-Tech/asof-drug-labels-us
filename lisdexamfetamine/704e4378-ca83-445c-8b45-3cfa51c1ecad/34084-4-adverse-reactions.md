@@ -81,7 +81,7 @@ Table 3 Adverse Reactions Reported by 2% or More of Adult Patients Taking Vyvans
 | Metabolism and Nutrition Disorders | Decreased Appetite | 27% | 3% |
 | Anorexia | 5% | 0% |  |
 | Nervous System Disorders | Tremor | 2% | 0% |
-| Psychiatric Disorders | Insomniac | 27% | 8% |
+| Psychiatric Disorders | Insomnia | 27% | 8% |
 | Anxiety | 6% | 0% |  |
 | Agitation | 3% | 0% |  |
 | Restlessness | 3% | 0% |  |
