@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA064052"
+  ],
   "inn": "tobramycin",
   "labeler": "Bausch & Lomb Incorporated",
   "package_ndcs": [
     "24208-290-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "Tobramycin"
+    }
+  ],
   "setid": "a5693ec9-d2f7-4d45-90b0-a113c54840d7",
   "source": "dailymed"
 }

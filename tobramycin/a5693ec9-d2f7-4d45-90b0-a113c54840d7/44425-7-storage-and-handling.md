@@ -1,8 +1,0 @@
-# STORAGE
-
-Store at 2°-30°C (36°-86°F).
-Avoid excessive heat.
-
-KEEP OUT OF REACH OF CHILDREN.
-
-STERILE OPHTHALMIC SOLUTION

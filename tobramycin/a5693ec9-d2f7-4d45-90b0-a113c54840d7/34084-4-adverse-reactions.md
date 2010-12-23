@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 The most frequent adverse reactions to tobramycin ophthalmic solution is localized ocular toxicity and hypersensitivity, including lid itching and swelling, and conjunctival erythema.
 These reactions occur in less than three of 100 patients treated with tobramycin.

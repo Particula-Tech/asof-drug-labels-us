@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Tobramycin ophthalmic solution is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external infections.
 
