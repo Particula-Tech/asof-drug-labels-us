@@ -94,7 +94,7 @@ The DUPLEX Container is Latex-free, PVC-free, and DEHP-free.
 
 B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
-Y37-002-359
+LD-207-1 Y37-002-381
 
-U.S. Patent Nos. D358,168, D397,789, D402,366, D407,616, 5,176,634, 5,944,709, 6,165,161, 8,203,535, 6,846,305, and 6,996,951.
+U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
 DUPLEX is a registered trademark of B. Braun Medical Inc.
