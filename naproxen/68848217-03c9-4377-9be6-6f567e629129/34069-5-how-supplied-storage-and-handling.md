@@ -23,12 +23,12 @@ Store at 15° to 30°C (59° to 86°F); avoid excessive heat, above 40°C (104°
 Dispense in light-resistant containers.
 Shake gently before use.
 
-EC-NAPROSYN Delayed-Release Tablets: 375 mg: white, oval biconvex coated tablets imprinted with NPR-EC 375 on one side.
+EC-NAPROSYN Delayed-Release Tablets: 375 mg: white, oval biconvex coated tablets imprinted with NPR EC 375 on one side.
 Packaged in light-resistant bottles of 100.
 
 100's (bottle): NDC 0004-6415-01.
 
-500 mg: white, oblong coated tablets, imprinted with NPR-EC 500 on one side.
+500 mg: white, oblong coated tablets imprinted with NPR EC 500 on one side.
 Packaged in light-resistant bottles of 100.
 
 100's (bottle): NDC 0004-6416-01.
@@ -49,4 +49,4 @@ Packaged in bottles of 100.
 
 Store at 15° to 30°C (59° to 86°F) in well-closed containers.
 
-Revised: September 2007
+Revised: October 2010

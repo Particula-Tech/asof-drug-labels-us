@@ -66,7 +66,7 @@ The recommended starting dose is 550 mg of naproxen sodium as ANAPROX/ANAPROX DS
 The initial total daily dose should not exceed 1375 mg of naproxen sodium.
 Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium.
 Because the sodium salt of naproxen is more rapidly absorbed, ANAPROX/ANAPROX DS is recommended for the management of acute painful conditions when prompt onset of pain relief is desired.
-NAPROSYN may also be used but EC-NAPROSYN is not recommended for initial treatment of acute pain because absorption of naproxen is delayed compared to other naproxen-containing products (see CLINICAL PHARMACOLOGY,INDICATIONS AND USAGE).
+NAPROSYN may also be used but EC-NAPROSYN is not recommended for initial treatment of acute pain because absorption of naproxen is delayed compared to other naproxen-containing products (see CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE).
 
 ## Acute Gout
 
