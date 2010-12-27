@@ -13,7 +13,6 @@ Adequate hydration should be maintained.
 ## Information for Patients
 
 Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir, or they have any other questions.
-
 Patients should be advised to maintain adequate hydration.
 
 ### Herpes Zoster

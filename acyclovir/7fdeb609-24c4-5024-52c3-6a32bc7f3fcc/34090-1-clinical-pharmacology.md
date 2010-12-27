@@ -5,22 +5,18 @@
 The pharmacokinetics of acyclovir after oral administration have been evaluated in healthy volunteers and in immunocompromised patients with herpes simplex or varicella-zoster virus infection.
 Acyclovir pharmacokinetic parameters are summarized in Table 1.
 
-Table 1.
-Acyclovir Pharmacokinetic Characteristics (Range)
+Table 1: Acyclovir Pharmacokinetic Characteristics (Range)
 
 | Parameter | Range |
 | --- | --- |
 | Plasma protein binding | 9% to 33% |
 | Plasma elimination half-life | 2.5 to 3.3 h |
-| Average oral bioavailability | 10% to 20%* |
-
-*Bioavailability decreases with increasing dose.
+| Average oral bioavailability | 10% to 20%Bioavailability decreases with increasing dose. |
 
 In one multiple-dose, crossover study in healthy subjects (n = 23), it was shown that increases in plasma acyclovir concentrations were less than dose proportional with increasing dose, as shown in Table 2.
 The decrease in bioavailability is a function of the dose and not the dosage form.
 
-Table 2.
-Acyclovir Peak and Trough Concentrations at Steady State
+Table 2: Acyclovir Peak and Trough Concentrations at Steady State
 
 | Parameter | 200 mg | 400 mg | 800 mg |
 | --- | --- | --- | --- |
@@ -28,7 +24,6 @@ Acyclovir Peak and Trough Concentrations at Steady State
 |  | 0.46 mcg/mL | 0.63 mcg/mL | 0.83 mcg/mL |
 
 There was no effect of food on the absorption of acyclovir (n = 6); therefore, acyclovir tablets may be administered with or without food.
-
 The only known urinary metabolite is 9-[(carboxymethoxy)methyl]guanine.
 
 ## Special Populations
