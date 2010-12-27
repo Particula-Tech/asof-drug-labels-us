@@ -109,9 +109,6 @@ An interaction with the anticoagulant ethylbiscoumacetate in 4 subjects was not 
 
 Other specific drug-drug interaction studies with methylphenidate have not been performed in vivo.
 
-Serious adverse events have been reported in concomitant use of methylphenidate with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2-agonists has not been systematically evaluated.
-
 ## Carcinogenesis/Mutagenesis/Impairment of Fertility
 
 In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas and, in males only, an increase in hepatoblastomas, at a daily dose of approximately 60 mg/kg/day.
