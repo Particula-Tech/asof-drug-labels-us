@@ -6,6 +6,14 @@ Dexmethylphenidate hydrochloride is a central nervous system stimulant.
 Focalin, the more pharmacologically active enantiomer of the d- and l-enantiomers, is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
 
+Effects on QT Interval
+
+The effect of Focalin® XR on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Focalin® XR 40mg in 75 healthy volunteers.
+ECGs were collected up to 12 h post-dose.
+Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
+The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
+This was below the threshold of clinical concern and there was no evident-exposure response relationship.
+
 ## Pharmacokinetics
 
 ### Absorption
