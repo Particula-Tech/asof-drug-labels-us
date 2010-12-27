@@ -66,7 +66,7 @@ In some patients, rechallenge at a lower dose has not resulted in return of inte
 ## Worsened Arrhythmia
 
 Cordarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia, a risk that may be enhanced by the presence of concomitant antiarrhythmics.
-Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (torsades de pointes [TdP]).
+Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion, and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
 In addition, Cordarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
@@ -236,7 +236,7 @@ Monitoring for amiodarone toxicity and serial measurement of amiodarone serum co
 ### Histamine H1 antagonists:
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of loratadine and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of loratadine and amiodarone.
 
 ### Histamine H2 antagonists:
 
@@ -245,7 +245,7 @@ Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 ### Antidepressants:
 
 Trazodone, an antidepressant, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of trazodone and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of trazodone and amiodarone.
 
 ### Other substances:
 

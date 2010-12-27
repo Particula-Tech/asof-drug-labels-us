@@ -12,7 +12,7 @@ Cordarone®
 
 Note to authorized dispenser: Each time Cordarone Tablets is dispensed, give the patient a medication guide.
 
-SEALED FOR YOU PROTECTION
+SEALED FOR YOUR PROTECTION
 
 Rx only
 

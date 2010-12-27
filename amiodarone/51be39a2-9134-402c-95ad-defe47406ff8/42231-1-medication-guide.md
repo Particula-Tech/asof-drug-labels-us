@@ -217,8 +217,8 @@ Alavert is a registered trademark of Wyeth.
 ©2004, Wyeth Pharmaceuticals.
 All rights reserved.
 
-W10427C020
+W10427C022
 
 ET01
 
-Rev 08/09
+Rev 12/10
