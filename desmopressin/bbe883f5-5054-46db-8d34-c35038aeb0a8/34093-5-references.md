@@ -21,7 +21,3 @@
     Ann.
     Int.
     Med., 114:563-568, 1991.
-
-PHARMACIST TEAR HERE
-
-IN-8155-04
