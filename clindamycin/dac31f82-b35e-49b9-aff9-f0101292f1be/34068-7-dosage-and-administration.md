@@ -1,3 +1,5 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose is a single applicatorful of Clindesse® (approximately 5 g of vaginal cream containing approximately 100 mg of clindamycin) administered once intravaginally at anytime of the day.
+The recommended dose is the complete contents of a single pre-filled applicator containing 5 g of Clindesse cream administered once intravaginally at any time of the day.
+
+Not for ophthalmic, dermal, or oral use.

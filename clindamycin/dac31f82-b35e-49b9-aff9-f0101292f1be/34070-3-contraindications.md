@@ -1,4 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINIDCATIONS
 
-Clindesse is contraindicated in individuals with a history of hypersensitivity to clindamycin, lincomycin, or any of the components of this vaginal cream.
-Clindesse is also contraindicated in individuals with a history of regional enteritis, ulcerative colitis, or a history of "antibiotic-associated" colitis.
+## 4.1 Hypersensitivity
+
+Do not administer Clindesse to individuals with a history of hypersensitivity to clindamycin or other lincosamides.
+Reported reactions to other formulations of clindamycin include rashes, urticaria, erythema multiforme, and anaphylactoid reactions [see Adverse Reactions (6.2)].
+
+## 4.2 History of Bowel Disease
+
+Do not administer Clindesse to patients with regional enteritis, ulcerative colitis, or a history of Clostridium difficile-associated diarrhea.

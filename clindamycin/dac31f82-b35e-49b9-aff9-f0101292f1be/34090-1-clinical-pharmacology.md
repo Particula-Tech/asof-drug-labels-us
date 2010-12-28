@@ -1,19 +1,28 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics
+## 12.1 Mechanism of Action
 
-Following a single intravaginal application of Clindesse cream to 20 healthy women, the mean (range) AUC0-inf and Cmax estimates were 175 (38.6 to 541) ng/mL•hr and 6.6 (0.8 to 39) ng/mL, respectively.
-The mean Cmax of clindamycin for Clindesse was approximately 0.3%, 0.1%, and 7.6% of that observed after the administration of a 150 mg Cleocin® oral capsule (2.5 mcg/mL), a 600 mg Cleocin® intravenous injection (10.9 mcg/mL), and a single dose of 100 mg of Cleocin Vaginal Cream (86.5 ng/mL), respectively.
-The peak serum concentration of clindamycin was attained approximately 20 hours post dosing for Clindesse®.
+Clindesse is an antibacterial drug [see Clinical Pharmacology, Microbiology (12.4)]
 
-## Microbiology
+## 12.3 Pharmacokinetics
+
+Following a single intravaginal application of Clindesse cream to 20 healthy women, the mean (range) AUC0-inf and Cmax estimates were 175 (38.6 to 541) ng/mL• hr and 6.6 (0.8 to 39) ng/mL, respectively.
+The mean Cmax of clindamycin for Clindesse was approximately 0.3%, 0.1%, and 7.6% of that observed after the administration of a 150 mg Cleocin oral capsule (2.5 mcg/mL), a 600 mg Cleocin intravenous injection (10.9 mcg/mL), and a single dose of 100 mg of Cleocin Vaginal Cream (86.5 ng/mL), respectively.
+The peak serum concentration of clindamycin was attained approximately 20 hours post dosing for Clindesse.
+
+## 12.4 Microbiology
+
+Mechanism of Action
 
 Clindamycin inhibits bacterial protein synthesis at the level of the bacterial ribosome.
 The antibiotic binds preferentially to the 50S ribosomal subunit and affects the process of peptide chain initiation.
-Although clindamycin phosphate is inactive in vitro, rapid in vivo hydrolysis converts this compound to the antibacterially active clindamycin.
+Although clindamycin phosphate is inactive in vitro, in vivo hydrolysis converts this compound to the antibacterially active clindamycin.
 
-Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis (see INDICATIONS AND USAGE).
-Standard methodology for the susceptibility testing of the potential bacterial vaginosis pathogens, Gardnerella vaginalis, Mobiluncus spp., or Mycoplasma hominis, has not been defined.
-Nonetheless, clindamycin is an antimicrobial agent active in vitro against most strains of the following organisms that have been reported to be associated with bacterial vaginosis: Bacteroides spp.
+Activity In Vitro
+
+Clindamycin is an antibacterial agent active in vitro against most strains of the following organisms that have been reported to be associated with bacterial vaginosis: Bacteroides spp.
 Gardnerella vaginalis Mobiluncus spp.
 Mycoplasma hominis Peptostreptococcus spp.
+
+Standard methodology for the susceptibility testing of the potential bacterial vaginosis pathogens has not been defined.
+Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies (14.1)].
