@@ -2,7 +2,7 @@
 
 ## Adverse reactions associated with ARTHROTEC
 
-Adverse reaction information for ARTHROTEC is derived from Phase III multinational controlled clinical trials in over 2,000 patients, receiving ARTHROTEC 50 or ARTHROTEC 75, as well as from blinded, controlled trials of Voltaren® Delayed-Release Tablets (diclofenac) and Cytotec® Tablets (misoprostol).
+Adverse reaction information for ARTHROTEC is derived from Phase III multinational controlled clinical trials in over 2,000 patients receiving ARTHROTEC 50 or ARTHROTEC 75, as well as from blinded, controlled trials of Voltaren® Delayed-Release tablets (diclofenac) and Cytotec® tablets (misoprostol).
 
 ## Gastrointestinal
 
@@ -18,7 +18,7 @@ For GI ulcer rates, see CLINICAL STUDIES—Upper gastrointestinal safety.
 | Nausea | 11% | 6% |
 | Flatulence | 9% | 4% |
 
-ARTHROTEC can cause more abdominal pain, diarrhea and other GI symptoms than diclofenac alone.
+ARTHROTEC can cause more abdominal pain, diarrhea, and other GI symptoms than diclofenac alone.
 
 Diarrhea and abdominal pain developed early in the course of therapy, and were usually self-limited (resolved after 2 to 7 days).
 Rare instances of profound diarrhea leading to severe dehydration have been reported in patients receiving misoprostol.

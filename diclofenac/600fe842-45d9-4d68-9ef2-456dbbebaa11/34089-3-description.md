@@ -1,11 +1,11 @@
 # DESCRIPTION
 
 ARTHROTEC (diclofenac sodium/misoprostol) is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
-ARTHROTEC oral tablets are white to off-white, round, biconvex and approximately 11 mm in diameter.
+ARTHROTEC oral tablets are white to off-white, round, biconvex, and approximately 11 mm in diameter.
 Each tablet consists of an enteric-coated core containing 50 mg (ARTHROTEC 50) or 75 mg (ARTHROTEC 75) diclofenac sodium surrounded by an outer mantle containing 200 mcg misoprostol.
 
 Diclofenac sodium is a phenylacetic acid derivative that is a white to off-white, virtually odorless, crystalline powder.
-Diclofenac sodium is freely soluble in methanol, soluble in ethanol and practically insoluble in chloroform and in dilute acid.
+Diclofenac sodium is freely soluble in methanol, soluble in ethanol, and practically insoluble in chloroform and in dilute acid.
 Diclofenac sodium is sparingly soluble in water.
 Its chemical formula and name are:
 

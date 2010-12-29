@@ -3,14 +3,22 @@
 ## Pharmacodynamics and pharmacokinetics of diclofenac sodium
 
 Diclofenac sodium is a nonsteroidal anti-inflammatory drug (NSAID).
-In pharmacologic studies, diclofenac sodium has shown anti-inflammatory, analgesic and antipyretic properties.
+In pharmacologic studies, diclofenac sodium has shown anti-inflammatory, analgesic, and antipyretic properties.
 The mechanism of action of diclofenac sodium, like other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
 
 Diclofenac sodium is completely absorbed from the GI tract after fasting, oral administration.
 The diclofenac sodium in ARTHROTEC is in a pharmaceutical formulation that resists dissolution in the low pH of gastric fluid but allows a rapid release of drug in the higher pH environment of the duodenum.
 Only 50% of the absorbed dose is systemically available due to first pass metabolism.
-Peak plasma levels are achieved in 2 hours (range 1–4 hours), and the area under the plasma concentration curve (AUC) is dose proportional within the range of 25 mg to 150 mg.
+Peak plasma levels are achieved in 2 hours (range 1–4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
 Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
+
+Five diclofenac metabolites have been identified in human plasma and urine.
+The metabolites include 4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
+The formation of 4'-hydroxy diclofenac is primarily mediated by CYP2C9.
+Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
+CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-hydroxy-diclofenac.
 
 Plasma concentrations of diclofenac sodium decline from peak levels in a biexponential fashion, with the terminal phase having a half-life of approximately 2 hours.
 Clearance and volume of distribution are about 350 mL/min and 550 mL/kg, respectively.
@@ -95,7 +103,7 @@ The rate and extent of absorption of both diclofenac sodium and misoprostol acid
 Neither diclofenac sodium nor misoprostol acid accumulated in plasma following repeated doses of ARTHROTEC given every 12 hours under fasted conditions.
 Food decreases the multiple-dose bioavailability profile of ARTHROTEC 50 and ARTHROTEC 75.
 
-### Special populations
+### Specific populations
 
 A 4-week study, comparing plasma level profiles of diclofenac (50 mg bid) in younger (26–46 years) versus older (66–81 years) adults, did not show differences between age groups (10 patients per age group).
 In a multiple-dose (bid) crossover study of 24 people aged 65 years or older, the misoprostol contained in ARTHROTEC did not affect the pharmacokinetics of diclofenac sodium.
@@ -104,7 +112,7 @@ Differences in the pharmacokinetics of diclofenac have not been detected in stud
 In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min), AUC values and elimination rates were comparable to those in healthy people.
 In patients with biopsy-confirmed cirrhosis or chronic active hepatitis (variably elevated transaminases and mildly elevated bilirubins, N=10), diclofenac concentrations and urinary elimination values were comparable to those in healthy people.
 
-Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of t1/2, Cmax and AUC compared to healthy people.
+Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of t1/2, Cmax, and AUC compared to healthy people.
 In people over 64 years of age, the AUC for misoprostol acid is increased.
 
 In a study of people with mild to moderate hepatic impairment, mean misoprostol acid AUC and Cmax showed approximately double the mean values obtained in healthy people.

@@ -5,17 +5,17 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 After observing the response to initial therapy with ARTHROTEC, the dose and frequency should be adjusted to suit an individual patient's needs.
 
-For the relief of rheumatoid arthritis and osteoarthritis the recommended dose is given below.
+For the relief of rheumatoid arthritis and osteoarthritis, the recommended dose is given below.
 
 ARTHROTEC is administered as ARTHROTEC 50 (50 mg diclofenac sodium/200 mcg misoprostol) or as ARTHROTEC 75 (75 mg diclofenac sodium/200 mcg misoprostol).
 
-Note: See SPECIAL DOSING CONSIDERATIONS section, below.
+Note: See SPECIAL DOSING CONSIDERATIONS section below.
 
 ## Osteoarthritis
 
 The recommended dosage for maximal GI mucosal protection is ARTHROTEC 50 tid.
 For patients who experience intolerance, ARTHROTEC 75 bid or ARTHROTEC 50 bid can be used, but are less effective in preventing ulcers.
-This fixed combination product, ARTHROTEC, is not appropriate for patients who would not receive the appropriate dose of both ingredients.
+This fixed combination product, ARTHROTEC, is not recommended for patients who would not receive the appropriate dose of both ingredients.
 Doses of the components delivered with these regimens are as follows:
 
 |  | OA regimen | Diclofenac sodium (mg/day) | Misoprostol (mcg/day) |
@@ -28,7 +28,7 @@ Doses of the components delivered with these regimens are as follows:
 
 The recommended dosage is ARTHROTEC 50 tid or qid.
 For patients who experience intolerance, ARTHROTEC 75 bid or ARTHROTEC 50 bid can be used, but are less effective in preventing ulcers.
-This fixed combination product, ARTHROTEC, is not appropriate for patients who would not receive the appropriate dose of both ingredients.
+This fixed combination product, ARTHROTEC, is not recommended for patients who would not receive the appropriate dose of both ingredients.
 Doses of the components delivered with these regimens are as follows:
 
 |  | RA regimen | Diclofenac sodium (mg/day) | Misoprostol (mcg/day) |
