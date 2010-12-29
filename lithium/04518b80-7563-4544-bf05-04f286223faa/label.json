@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA090702"
+  ],
+  "inn": "lithium",
+  "labeler": "Camber Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "31722-544-01",
+    "31722-544-05",
+    "31722-544-10",
+    "31722-544-30",
+    "31722-545-01",
+    "31722-545-03",
+    "31722-545-05",
+    "31722-545-10",
+    "31722-545-30",
+    "31722-545-50",
+    "31722-546-01",
+    "31722-546-05",
+    "31722-546-10",
+    "31722-546-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
+  "setid": "04518b80-7563-4544-bf05-04f286223faa",
+  "source": "dailymed"
+}

@@ -1,0 +1,10 @@
+# INDICATIONS AND USAGE
+
+Lithium Carbonate Capsule USP is indicated in the treatment of manic episodes of Bipolar Disorder.
+Bipolar Disorder, Manic (DSM-III) is equivalent to Manic Depressive illness, Manic, in the older DSM-II terminology.
+
+Lithium Carbonate Capsule USP is also indicated as a maintenance treatment for individuals with a diagnosis of Bipolar Disorder.
+Maintenance therapy reduces the frequency of manic episodes and diminishes the intensity of those episodes which may occur.
+
+Typical symptoms of mania include pressure of speech, motor hyperactivity, reduced need for sleep, flight of ideas, grandiosity, elation, poor judgment, aggressiveness, and possibly hostility.
+When given to a patient experiencing a manic episode, lithium may produce a normalization of symptomatology within 1 to 3 weeks.
