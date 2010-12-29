@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Metoclopramide Tablets 5 mg 500s Label Text
+## Metoclopramide Tablets USP 5 mg 500s Label Text
 
 NDC 0093-2204-05
 
@@ -22,7 +22,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Metoclopramide Tablets 10 mg 500s Label Text
+## Metoclopramide Tablets USP 10 mg 500s Label Text
 
 NDC 0093-2203-05
 

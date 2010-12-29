@@ -5,10 +5,10 @@ Symptoms have ranged from mild to severe and have included suicidal ideation and
 Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks.
 
 Extrapyramidal symptoms, manifested primarily as acute dystonic reactions, occur in approximately 1 in 500 patients treated with the usual adult dosages of 30 to 40 mg/day of metoclopramide.
-These usually are seen during the first 24 to 48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses.
+These usually are seen during the first 24 to 48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at higher doses.
 These symptoms may include involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
 Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to laryngospasm.
-If these symptoms should occur, inject 50 mg of diphenhydramine hydrochloride intramuscularly, and they usually will subside.
+If these symptoms should occur, inject 50 mg diphenhydramine hydrochloride intramuscularly, and they usually will subside.
 Benztropine mesylate, 1 to 2 mg intramuscularly, may also be used to reverse these reactions.
 
 Parkinsonian-like symptoms have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
@@ -18,8 +18,9 @@ Patients with preexisting Parkinson’s disease should be given metoclopramide c
 ## Tardive Dyskinesia (see Boxed Warnings)
 
 Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremities.
-Although the risk of TD with metoclopramide has not been extensively studied, one published study reported a TD prevalence of 20% among patients treated for at least 12 weeks.
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
+The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
+An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it for longer than 12 weeks.
+Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
 Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
 Both the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
