@@ -21,7 +21,8 @@ other events including:
 | headaches | hypertension | increased bleeding time* |
 | infection | pharyngitis | pruritus |
 | rashes | rhinitis | tinnitus* |
-| *Adverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. |  |  |
+
+* Adverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials.
 
 ## Additional NSAID Adverse Experiences Reported Occasionally with NSAIDs or Etodolac Extended-Release Tablets Include
 

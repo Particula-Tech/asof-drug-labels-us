@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-## FOR NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS)
+Rx only
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -109,7 +109,7 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 - Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
-NSAID medicines that need a prescription
+NSAIDmedicinesthat need a prescription
 
 | Generic Name | Tradename |
 | --- | --- |
@@ -119,7 +119,7 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
 | Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen (combined with hydrocodone), Combunox (combined with oxycodone) |
+| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with hydrocodone), Combunox (combined with oxycodone) |
 | Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
@@ -131,6 +131,12 @@ NSAID medicines that need a prescription
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
+
+* Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain.
+The OTC label warns that long term continuous use may increase the risk of heart attack or stroke.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -148,4 +154,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-G 3/2006
+A 5/2008

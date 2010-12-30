@@ -181,7 +181,7 @@ Caution should be used when NSAIDs are administered concomitantly with methotrex
 ### Phenylbutazone
 
 Phenylbutazone causes an increase (by about 80%) in the free fraction of etodolac.
-Although invivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
+Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.
 
 ### Warfarin
 

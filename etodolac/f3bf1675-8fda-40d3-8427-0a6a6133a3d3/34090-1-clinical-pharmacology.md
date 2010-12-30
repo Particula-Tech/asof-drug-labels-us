@@ -21,7 +21,7 @@ The data from patients with renal and hepatic impairment were obtained following
 
 Table 1.
 
-|  | Mean (CV)%† |  |
+|  | Mean (CV)%% Coefficient of variation |  |
 | --- | --- | --- |
 | Pharmacokinetic Parameters | Etodolac Tablets | Etodolac Extended-Release Tablets |
 | Extent of Oral Absorption (Bioavailability) [F] | ≥ 80% | ≥ 80% |
@@ -29,20 +29,20 @@ Table 1.
 | Oral Clearance (CL/F), mL/h/kg | 49.1 (33%) | 46.8 (37%) |
 | Apparent Volume of Distribution (Vd/F), mL/kg | 393 (29%) | 566 (26%) |
 | Terminal Half-Life (t1/2), h | 6.4 (22%) | 8.4 (30%) |
-| † % Coefficient of variation |  |  |
 
 Table 2.
-Mean (CV%)† Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations
+Mean (CV%)% Coefficient of variation Pharmacokinetic Parameters of Etodolac in Normal Healthy Adults and Various Special Populations
 
 |  | Etodolac Extended-Release Tablets |  |  |  | Etodolac Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PK Parameters | Normal Healthy Adults | Healthy Males | Healthy Females | Elderly (> 65 yr) | Hemodialysis‡ (24 to 65) (n = 9) |  | Renal Impairment‡ | Hepatic Impairment‡ |
-|  | (18 to 44)* (n = 116) | (18 to 43) (n = 102) | (25 to 44) (n = 14) | (66 to 88) (n = 24) | Dialysis On | Dialysis Off | (46 to 73) (n = 10) | (34 to 60) (n = 9) |
-| Tmax, h | 6.7 (47%)† | 6.8 (45%) | 4.5 (56%) | 6.2 (51%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
+| PK Parameters | Normal Healthy Adults | Healthy Males | Healthy Females | Elderly (> 65 yr) | HemodialysisPharmacokinetic parameters obtained following administration of etodolac tablets (24 to 65) (n = 9) |  | Renal Impairment | Hepatic Impairment |
+|  | (18 to 44)Age range (years) (n = 116) | (18 to 43) (n = 102) | (25 to 44) (n = 14) | (66 to 88) (n = 24) | Dialysis On | Dialysis Off | (46 to 73) (n = 10) | (34 to 60) (n = 9) |
+| Tmax, h | 6.7 (47%) | 6.8 (45%) | 4.5 (56%) | 6.2 (51%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
 | Oral Clearance, mL/h/kg (CL/F) | 46.8 (37%) | 46.8 (37%) | 47.2 (38%) | 51.6 (40%) | NA | NA | 58.3 (19%) | 42.0 (43%) |
 | Apparent Volume of Distribution, mL/kg (Vd/F) | 566 (26%) | 580 (26%) | 459 (28%) | 552 (34%) | NA | NA | NA | NA |
 | Terminal Half-Life, h | 8.4 (30%) | 8.4 (29%) | 7.6 (45%) | 7.8 (26%) | 5.1 (22%) | 7.5 (34%) | NA | 5.7 (24%) |
-| † % Coefficient of variation* Age range (years)‡ Pharmacokinetic parameters obtained following administration of etodolac tabletsNA = not available |  |  |  |  |  |  |  |  |
+
+NA = not available
 
 ### Food/Antacid Effects
 
@@ -64,7 +64,7 @@ Etodolac metabolites do not contribute significantly to the pharmacological acti
 
 Following administration of immediate-release etodolac, several metabolites have been identified in human plasma and urine.
 Other metabolites remain to be identified.
-The metabolites include 6-,7-, and 8-hydroxylated etodolac and etodolac glucuronide.
+The metabolites include 6-, 7-, and 8-hydroxylated etodolac and etodolac glucuronide.
 After a single dose of 14C-etodolac, hydroxylated metabolites accounted for less than 10% of total drug in serum.
 On chronic dosing, hydroxylated-etodolac metabolites do not accumulate in the plasma of patients with normal renal function.
 The extent of accumulation of hydroxylated-etodolac metabolites in patients with renal dysfunction has not been studied.
@@ -103,13 +103,11 @@ The results from a population pharmacokinetic analysis based on the 59 subjects 
 Table 3.
 Pharmacokinetic Parameter Estimates for Etodolac Extended-Release Tablets in Patients with Juvenile Rheumatoid Arthritis
 
-| Parameter | JRAa(Age:6 to 16)b1 = 59 |
+| Parameter | JRAMean (CV) of parameter estimates predicted from population pharmacokinetics (Age: 6 to 16)Age range (years) n = 59 |
 | --- | --- |
 | Oral Clearance (CL/F), mL/h/kg | 47.8 (38%) |
 | Apparent Volume of Distribution (Vd/F), mL/kg | 78.9 (61%) |
 | Half-life (t1/2), h | 12.1 (75%) |
-
-a: Mean (CV) of parameter estimates predicted from population pharmacokinetics b: Age range (years)
 
 While similar, the pharmacokinetic parameters for children with juvenile rheumatoid arthritis did not directly correlate with adult pharmacokinetic data in rheumatoid arthritis.
 In the population pharmacokinetic analysis, body weights below 50 kg were found to correlate with CL/F (see DOSAGE AND ADMINISTRATION).
