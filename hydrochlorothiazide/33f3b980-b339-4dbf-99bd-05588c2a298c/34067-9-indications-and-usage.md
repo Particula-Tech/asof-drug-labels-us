@@ -6,7 +6,7 @@ Hydrochlorothiazide tablets have also been found useful in edema due to various 
 
 Hydrochlorothiazide tablets are indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
 
-Use in Pregnancy
+## Use in Pregnancy
 
 Routine use of diuretics during normal pregnancy is inappropriate and exposes mother and fetus to unnecessary hazard.
 Diuretics do not prevent development of toxemia of pregnancy and there is no satisfactory evidence that they are useful in the treatment of toxemia.

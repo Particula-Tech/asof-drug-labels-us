@@ -3,6 +3,7 @@
 Use with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
+
 Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
 Thiazides may add to or potentiate the action of other antihypertensive drugs.
@@ -96,7 +97,7 @@ Refer to the package insert for lithium preparations before use of such preparat
 
 Non-steroidal Anti-inflammatory Drugs
 
-In some patients, the administration of a nonsteroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.Therefore, when hydrochlorothiazide and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Drug/Laboratory Test Interactions
 
