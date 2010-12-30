@@ -27,8 +27,7 @@ Erythematous rash.
 There have been reports of skin rashes and/or dry eyes associated with the use of beta-adrenergic blocking drugs.
 The reported incidence is small, and in most cases, the symptoms have cleared when treatment was withdrawn.
 Discontinuance of the drug should be considered if any such reaction is not otherwise explicable.
-Patients should be closely monitored following cessation of therapy.
-(See DOSAGE AND ADMINISTRATION.)
+Patients should be closely monitored following cessation of therapy (see INDICATIONS AND USAGE).
 
 The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with atenolol.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.

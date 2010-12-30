@@ -1,15 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074056"
+  ],
   "inn": "atenolol",
-  "labeler": "Teva Pharmaceuticals USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-0752-01",
     "0093-0752-10",
     "0093-0753-01",
+    "0093-0753-05",
     "0093-0787-01",
     "0093-0787-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "Atenolol"
+    }
+  ],
   "setid": "25a72ec9-de0f-44e5-90b8-da1aab0d3588",
   "source": "dailymed"
 }

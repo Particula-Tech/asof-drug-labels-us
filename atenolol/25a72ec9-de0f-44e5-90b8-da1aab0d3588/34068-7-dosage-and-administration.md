@@ -27,21 +27,20 @@ Atenolol injection should be administered under carefully controlled conditions 
 Dilutions of atenolol injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used.
 These admixtures are stable for 48 hours if they are not used immediately.
 
-In patients who tolerate the full intravenous dose (10 mg), atenolol tablets 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
+In patients who tolerate the full intravenous dose (10 mg), atenolol tablets USP, 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.
 Thereafter, atenolol can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
-If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol should be discontinued.
-(See full prescribing information prior to initiating therapy with atenolol tablets.)
+If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol should be discontinued (see full prescribing information prior to initiating therapy with atenolol tablets USP).
 
-Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets USP, 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
 
 Although the demonstration of efficacy of atenolol is based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 
 Atenolol is an additional treatment to standard coronary care unit therapy.
 
-## Elderly Patients or Patients with Renal Impairment
+## Elderly Patients or Patients With Renal Impairment
 
 Atenolol is excreted by the kidneys; consequently dosage should be adjusted in cases of severe impairment of renal function.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
 Atenolol excretion would be expected to decrease with advancing age.
 
@@ -64,6 +63,6 @@ Although a similar dosage reduction may be considered for elderly and/or renally
 
 Patients on hemodialysis should be given 25 mg or 50 mg after each dialysis; this should be done under hospital supervision as marked falls in blood pressure can occur.
 
-## Cessation of Therapy in Patients with Angina Pectoris
+## Cessation of Therapy in Patients With Angina Pectoris
 
 If withdrawal of atenolol therapy is planned, it should be achieved gradually and patients should be carefully observed and advised to limit physical activity to a minimum.

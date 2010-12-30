@@ -6,9 +6,9 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
 
-|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign + U.S. Studies) |  |
+|  | Volunteered(U.S. Studies) |  | Total - Volunteered and Elicited(Foreign + U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
-|  | Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |
+| Atenolol(n = 164)% | Placebo(n = 206)% | Atenolol(n = 399)% | Placebo(n = 407)% |  |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
@@ -17,7 +17,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR |  |  |  |  |
 | Dizziness | 4 | 1 | 13 | 6 |
 | Vertigo | 2 | 0.5 | 2 | 0.2 |
-| Lightheadedness | 1 | 0 | 3 | 0.7 |
+| Light-headedness | 1 | 0 | 3 | 0.7 |
 | Tiredness | 0.6 | 0.5 | 26 | 13 |
 | Fatigue | 3 | 1 | 6 | 5 |
 | Lethargy | 1 | 0 | 3 | 0.7 |
@@ -41,7 +41,7 @@ The reported frequency of these and other events occurring during these investig
 
 In a study of 477 patients, the following adverse events were reported during either intravenous and/or oral atenolol administration:
 
-|  | Conventional Therapy Plus Atenolol (n = 244) | Conventional Therapy Alone (n = 233) |
+|  | Conventional Therapy Plus Atenolol(n = 244) | Conventional Therapy Alone(n = 233) |
 | --- | --- | --- |
 | Bradycardia | 43 (18%) | 24 (10%) |
 | Hypotension | 60 (25%) | 34 (15%) |
@@ -65,9 +65,9 @@ In a study of 477 patients, the following adverse events were reported during ei
 
 In the subsequent International Study of Infarct Survival (ISIS-1) including over 16,000 patients of whom 8,037 were randomized to receive atenolol treatment, the dosage of intravenous and subsequent oral atenolol was either discontinued or reduced for the following reasons:
 
-Reasons for Reduced Dosage IV Atenolol
+Reasons for Reduced Dosage
 
-|  | Reduced Dose (< 5 mg)* | Oral Partial Dose |
+|  | IV Atenolol Reduced Dose (< 5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. | Oral Partial Dose |
 | --- | --- | --- |
 | Hypotension/Bradycardia | 105 (1.3%) | 1168 (14.5%) |
 | Cardiogenic Shock | 4 (0.04%) | 35 (0.44%) |
@@ -76,8 +76,7 @@ Reasons for Reduced Dosage IV Atenolol
 | Heart Block (> first degree) | 5 (0.06%) | 143 (1.7%) |
 | Cardiac Failure | 1 (0.01%) | 233 (2.9%) |
 | Arrhythmias | 3 (0.04%) | 22 (0.27%) |
-| Bronchospasm | 1 (0.01)% | 50 (0.62%) |
-| * Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  |  |
+| Bronchospasm | 1 (0.01%) | 50 (0.62%) |
 
-During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbances, sick sinus syndrome, and dry mouth.
+During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
 Atenolol, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.

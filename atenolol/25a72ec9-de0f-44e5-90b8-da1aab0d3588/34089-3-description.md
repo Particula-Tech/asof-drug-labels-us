@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Atenolol, a synthetic, beta1-selective (cardioselective) adrenoreceptor blocking agent, may be chemically described as benzeneacetamide, 4 -[2'-hydroxy-3'-[(1-methylethyl) amino] propoxy]-.
+Atenolol, a synthetic, beta1-selective (cardioselective) adrenoreceptor blocking agent, may be chemically described as benzeneacetamide, 4-[2'-hydroxy-3'-[(1-methylethyl) amino] propoxy]-.
 The molecular and structural formulas are:
 
 C14H22N2O3 M.W.
