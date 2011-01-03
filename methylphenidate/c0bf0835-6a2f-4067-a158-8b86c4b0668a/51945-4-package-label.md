@@ -46,7 +46,9 @@ Methylphenidate HCL USP
 
 Dispense with Medication Guide attached or provided separately.
 
-# PACKAGE LABEL – 20 MG SUSTAINED-RELEASE
+# PRINCIPAL DISPLAY PANEL
+
+PACKAGE LABEL – 20 MG SUSTAINED-RELEASE
 
 Rx Only NDC 0078-0442-05
 

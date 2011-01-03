@@ -99,9 +99,6 @@ Human pharmacologic studies have shown that racemic methylphenidate may inhibit 
 Downward dose adjustments of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentration (or, in case of coumarin, coagulation times), when initiating or discontinuing methylphenidate.
 
-Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2-agonists has not been systematically evaluated.
-
 ## Carcinogenesis/Mutagenesis/Impairment of Fertility
 
 In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas and, in males only, an increase in hepatoblastomas, at a daily dose of approximately 60 mg/kg/day.
