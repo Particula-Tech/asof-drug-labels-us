@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 ## Pharmacodynamics
 
@@ -11,10 +11,10 @@ Clinically, all benzodiazepines cause a dose-related central nervous system depr
 ### Absorption
 
 Following oral administration, alprazolam is readily absorbed.
-The peak plasma concentration is reached about 1.5 to 2 hours after administration of NIRAVAM™ given with or without water.
+The peak plasma concentration is reached about 1.5 to 2 hours after administration of NIRAVAM® given with or without water.
 When taken with water, mean Tmax occurs about 15 minutes earlier than when taken without water with no change in Cmax or AUC.
 Plasma levels are proportional to the dose given; over the dose range of 0.5 to 3.0 mg, peak levels of 8.0 to 37 ng/mL are observed.
-The elimination half-life of alprazolam is approximately 12.5 hours (range 7.9 - 19.2 hours) after administration of NIRAVAM™ in healthy adults.
+The elimination half-life of alprazolam is approximately 12.5 hours (range 7.9-19.2 hours) after administration of NIRAVAM® in healthy adults.
 
 Food decreased the mean Cmax by about 25% and increased the mean Tmax by 2 hours from 2.2 hours to 4.4 hours after the ingestion of a high-fat meal.
 Food did not affect the extent of absorption (AUC) or the elimination half-life.
@@ -60,10 +60,10 @@ Alprazolam is primarily eliminated by metabolism via cytochrome P450 3A (CYP3A).
 Most of the interactions that have been documented with alprazolam are with drugs that inhibit or induce CYP3A4.
 
 Compounds that are potent inhibitors of CYP3A would be expected to increase plasma alprazolam concentrations.
-Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see Contraindications, Warnings, and Drug interactions).
+Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS–Drug Interactions).
 
 CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
-The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90 ± 0.21 mL/min/kg to 2.13 ± 0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1 ± 4.9 to 7.7 ± 1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see Drug interactions).
+The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90 ± 0.21 mL/min/kg to 2.13 ± 0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1 ± 4.9 to 7.7 ± 1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS–Drug Interactions).
 However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000 - 1200 mg/day); the effect at usual carbamazepine doses is unknown.
 
 The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.

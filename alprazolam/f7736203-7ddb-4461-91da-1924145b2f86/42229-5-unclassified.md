@@ -1,9 +1,12 @@
+Rx Only PC4714D Rev.
+12/06 80-03019-904 CIV
+
 # CLINICAL STUDIES
 
 ## Anxiety Disorders
 
 Alprazolam was compared to placebo in double blind clinical studies (doses up to 4 mg/day) in patients with a diagnosis of anxiety or anxiety with associated depressive symptomatology.
-Alprazolam was significantly better than placebo at each of the evaluation periods of these 4-week studies as judged by the following psychometric instruments: Physician’s Global Impressions, Hamilton Anxiety Rating Scale, Target Symptoms, Patient’s Global Impressions and Self-Rating Symptom Scale.
+Alprazolam was significantly better than placebo at each of the evaluation periods of these 4-week studies as judged by the following psychometric instruments: Physician's Global Impressions, Hamilton Anxiety Rating Scale, Target Symptoms, Patient's Global Impressions and Self-Rating Symptom Scale.
 
 ## Panic Disorder
 
@@ -13,3 +16,14 @@ The average dose of alprazolam was 5 - 6 mg/day in two of the studies, and the d
 In all three studies, alprazolam was superior to placebo on a variable defined as "the number of patients with zero panic attacks" (range, 37 - 83% met this criterion), as well as on a global improvement score.
 In two of the three studies, alprazolam was superior to placebo on a variable defined as "change from baseline on the number of panic attacks per week" (range, 3.3 - 5.2), and also on a phobia rating scale.
 A subgroup of patients who were improved on alprazolam during short-term treatment in one of these trials was continued on an open basis up to 8 months, without apparent loss of benefit.
+
+Manufactured for: Schwarz Pharma Milwaukee, WI 53201, USA
+
+By: CIMA LABS INC. Eden Prairie, MN 55344, USA
+
+NIRAVAM® uses CIMA LABS INC. U.S. Patent Nos. 6,024,981 and 6,221,392.
+
+NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+
+PC4714D Rev.
+12/06

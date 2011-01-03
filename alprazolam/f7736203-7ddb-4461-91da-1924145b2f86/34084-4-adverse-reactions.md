@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 Side effects to alprazolam, if they occur, are generally observed at the beginning of therapy and usually disappear upon continued medication.
 In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, eg, drowsiness or lightheadedness.
@@ -14,10 +14,12 @@ Even this use must be approached cautiously, as a drug may relieve a symptom in 
 
 Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (eg, increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
 
-| ANXIETY DISORDERS |  |  |  |
-| --- | --- | --- | --- |
-|  | Treatment-EmergentSymptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  | Incidence of Intervention Because of Symptom |
+Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
+
 |  | ALPRAZOLAM | PLACEBO | ALPRAZOLAM |
+| --- | --- | --- | --- |
+|  | ANXIETY DISORDERS |  |  |
+|  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  | Incidence of Intervention Because of Symptom |
 | Number of Patients% of PatientsReporting: | 565 | 505 | 565 |
 | Central Nervous System |  |  |  |
 | Drowsiness | 41.0 | 21.6 | 15.1 |
@@ -27,7 +29,7 @@ Additionally, for anxiety disorders the cited figures can provide the prescriber
 | Confusion | 9.9 | 10.0 | 0.9 |
 | Insomnia | 8.9 | 18.4 | 1.3 |
 | Nervousness | 4.1 | 10.3 | 1.1 |
-| Syncope | 3.1 | 4.0 | None reported. |
+| Syncope | 3.1 | 4.0 | None reported |
 | Dizziness | 1.8 | 0.8 | 2.5 |
 | Akathisia | 1.6 | 1.2 |  |
 | Tiredness/Sleepiness |  |  | 1.8 |
@@ -56,10 +58,10 @@ In addition to the relatively common (ie, greater than 1%) untoward events enume
 
 Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic Disorder
 
-| PANIC DISORDER |  |  |
-| --- | --- | --- |
-|  | Treatment-EmergentSymptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  |
 |  | ALPRAZOLAM | PLACEBO |
+| --- | --- | --- |
+| PANIC DISORDER |  |  |
+|  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  |
 | Number of Patients% of Patients Reporting: | 1388 | 1231 |
 | Central Nervous System |  |  |
 | Drowsiness | 76.8 | 42.7 |
@@ -129,15 +131,16 @@ Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic
 
 In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
-Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see General).
+Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS, General).
 
 ## Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo-treated group were as follows:
 
-| DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE |  |  |  |
+DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+
+| Percentage of 641 Alprazolam-Treated Panic Disorder Patients Reporting Events |  |  |  |
 | --- | --- | --- | --- |
-| Percentage of 641 Alprazolam-Treated Panic DisorderPatients Reporting Events |  |  |  |
 | Body System/Event |  |  |  |
 | Neurologic |  | Gastrointestinal |  |
 | Insomnia | 29.5 | Nausea/Vomiting | 16.5 |
@@ -153,16 +156,16 @@ In a larger database comprised of both controlled and uncontrolled studies in wh
 | Anxiety | 19.2 |  |  |
 | Fatigue and Tiredness | 18.4 | Cardiovascular |  |
 | Irritability | 10.5 | Tachycardia | 12.2 |
-| Cognitive disorder | 10.3 |  |  |
-| Memory impairment | 5.5 | Special Senses |  |
+| Cognitive Disorder | 10.3 |  |  |
+| Memory Impairment | 5.5 | Special Senses |  |
 | Depression | 5.1 | Blurred vision | 10.0 |
 | Confusional state | 5.0 |  |  |
 
 From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with alprazolam in patients with panic disorder.
-There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam (see Warnings).
+There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam (see WARNINGS).
 
-To discontinue treatment in patients taking NIRAVAM™, the dosage should be reduced slowly in keeping with good medical practice.
-It is suggested that the daily dosage of NIRAVAM™ be decreased by no more than 0.5 mg every three days (see Dosage and Administration).
+To discontinue treatment in patients taking NIRAVAM®, the dosage should be reduced slowly in keeping with good medical practice.
+It is suggested that the daily dosage of NIRAVAM® be decreased by no more than 0.5 mg every three days (see DOSAGE AND ADMINISTRATION).
 Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 

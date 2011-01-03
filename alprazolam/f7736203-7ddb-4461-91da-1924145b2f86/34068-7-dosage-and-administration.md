@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 Dosage should be individualized for maximum beneficial effect.
 While the usual daily dosages given below will meet the needs of most patients, there will be some who require doses greater than 4 mg/day.
@@ -38,14 +38,14 @@ Dose should be advanced until an acceptable therapeutic response (ie, a substant
 For patients receiving doses greater than 4 mg/day, periodic reassessment and consideration of dosage reduction is advised.
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg/day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
 Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided.
-(See Warnings, Precautions, Drug Abuse and Dependence.)
+(See WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE.)
 
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
 ### Dose Reduction
 
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see Warnings, Precautions, Drug Abuse and Dependence).
+Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE).
 
 In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
 Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.
@@ -64,10 +64,10 @@ This may be gradually increased if needed and tolerated.
 The elderly may be especially sensitive to the effects of benzodiazepines.
 If side effects occur at the recommended starting dose, the dose may be lowered.
 
-## Instructions to be Given to Patients for Use/Handling NIRAVAM™ Tablets
+## Instructions to be Given to Patients for Use/Handling NIRAVAM® Tablets
 
 Just prior to administration, with dry hands, remove the tablet from the bottle.
-Immediately place the NIRAVAM™ tablet on top of the tongue where it will disintegrate and be swallowed with saliva.
+Immediately place the NIRAVAM® tablet on top of the tongue where it will disintegrate, and be swallowed with saliva.
 Administration with liquid is not necessary.
 
 Discard any cotton that was included in the bottle and reseal the bottle tightly to prevent introducing moisture that might cause the tablets to disintegrate.
