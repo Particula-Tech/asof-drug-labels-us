@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA075109"
+  ],
+  "inn": "guanfacine",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-711-03",
+    "65162-711-10",
+    "65162-713-03",
+    "65162-713-10",
+    "65162-713-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "guanfacine hydrochloride",
+      "name": "Guanfacine Hydrochloride"
+    }
+  ],
+  "setid": "d9fdc4b4-5b00-46dd-8700-6e36ceaafb0e",
+  "source": "dailymed"
+}
