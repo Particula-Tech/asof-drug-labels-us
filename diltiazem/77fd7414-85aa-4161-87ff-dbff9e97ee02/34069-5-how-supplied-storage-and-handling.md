@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tiazac® (diltiazem hydrochloride) Extended Release Capsules
+Tiazac® (diltiazem hydrochloride) Extended-Release Capsules
 
 | Strength | Description | Quantity | NDC# |
 | --- | --- | --- | --- |
@@ -34,5 +34,5 @@ Tiazac® (diltiazem hydrochloride) Extended Release Capsules
 | 90's | 0456-2617-90 |  |  |
 | 1000's | 0456-2617-00 |  |  |
 
-Storage conditions: Store at controlled room temperature 20°-25°C (68°-77°F).
+Storage conditions: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Avoid excessive humidity.

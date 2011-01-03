@@ -30,7 +30,7 @@ Fixed high-degree AV block should be treated with cardiac pacing.
 
 Cardiac Failure: Administer inotropic agents (isoproterenol, dopamine, or dobutamine) and diuretics.
 
-Hypotension: Vasopressors (e.g. dopamine or levarterenol bitartrate).
+Hypotension: Vasopressors (e.g., dopamine or norepinephrine).
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
 
 In a few reported cases, overdose with calcium channel blockers has been associated with hypotension and bradycardia, initially refractory to atropine but becoming more responsive to this treatment when the patients received large doses (close to 1 gram/hour for more than 24 hours) of calcium chloride.

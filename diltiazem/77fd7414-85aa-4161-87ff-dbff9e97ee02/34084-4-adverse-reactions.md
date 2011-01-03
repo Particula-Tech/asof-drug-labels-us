@@ -1,16 +1,16 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions have been rare in studies with Tiazac®, as well as with other diltiazem formulations.
+Serious adverse reactions have been rare in studies with Tiazac, as well as with other diltiazem formulations.
 It should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies.
-A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of Tiazac® ranging from 120-540 mg once daily.
+A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of Tiazac ranging from 120 to 540 mg once daily.
 Two patients experienced first-degree AV block at the 540 mg dose.
-The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving Tiazac® up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
+The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving Tiazac up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
 
 MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALS
 
 | Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540mg n=48 # pts (%) |
 | --- | --- | --- | --- |
-|  | Placebo | Tiazac® |  |
+|  | Placebo | Tiazac |  |
 | edema, peripheral | 1 (2) | 8 (5) | 7 (15) |
 | dizziness | 4 (7) | 6 (4) | 2 (4) |
 | vasodilation | 1 (2) | 5 (3) | 1 (2) |
@@ -26,7 +26,7 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdver
 
 | Adverse Events (COSTART Term) | n=50 # pts (%) | Up to 360 mg n=158 # pts (%) | 540 mg n=49 # pts (%) |
 | --- | --- | --- | --- |
-|  | Placebo | Tiazac® |  |
+|  | Placebo | Tiazac |  |
 | headache | 1 (2) | 13 (8) | 4 (8) |
 | edema, peripheral | 1 (2) | 3 (2) | 5 (10) |
 | pain | 1 (2) | 10 (6) | 3 (6) |
@@ -49,22 +49,17 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdver
 
 In addition, the following events have been reported infrequently (less than 2%) in clinical trials with other diltiazem products:
 
-Cardiovascular.
-Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasysto-les.
+Cardiovascular: Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles.
 
-Nervous System.
-Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
+Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal.
-Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see hepatic warnings), nausea, thirst, vomiting, weight increase.
+Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), nausea, thirst, vomiting, weight increase.
 
-Dermatological.
-Petechiae, photosensitivity, pruritus.
+Dermatological: Petechiae, photosensitivity, pruritus.
 
-Other.
-Albuminuria, allergic reaction, amblyopia, asthenia, CPK increase, crystalluria, dyspnea, edema, epistaxis, eye irritation, headache, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, neck rigidity, nocturia, osteoarticular pain, pain, polyuria, rhinitis, sexual difficulties, gynecomastia.
+Other: Albuminuria, allergic reaction, amblyopia, asthenia, CPK increase, crystalluria, dyspnea, edema, epistaxis, eye irritation, headache, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, neck rigidity, nocturia, osteoarticular pain, pain, polyuria, rhinitis, sexual difficulties, gynecomastia.
 
-In addition, the following postmarketing events have been reported infrequently in patients receiving diltiazem hydrochloride: alopecia, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, purpura, retinopathy, and thrombocytopenia.
+In addition, the following postmarketing events have been reported infrequently in patients receiving diltiazem hydrochloride: acute generalized exanthematous pustulosis, alopecia, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), leukopenia, purpura, retinopathy, and thrombocytopenia.
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
 A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.

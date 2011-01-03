@@ -5,7 +5,7 @@ Cardiac Conduction.
 Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (13 of 3007 patients or 0.43%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
-A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
+A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem (see ADVERSE REACTIONS).
 
 2.
 Congestive Heart Failure.
@@ -29,7 +29,8 @@ The relationship to diltiazem hydrochloride is uncertain in some cases, but prob
 
 # PRECAUTIONS
 
-General.
+General
+
 Diltiazem hydrochloride is extensively metabolized by the liver and excreted by the kidneys and in bile.
 As with any drug given over prolonged periods, laboratory parameters of renal and hepatic function should be monitored at regular intervals.
 The drug should be used with caution in patients with impaired renal or hepatic function.
@@ -37,29 +38,43 @@ In subacute and chronic dog and rat studies designed to produce toxicity, high d
 In special subacute hepatic studies, oral doses of 125 mg/kg and higher in rats were associated with histological changes in the liver which were reversible when the drug was discontinued.
 In dogs, doses of 20 mg/kg were also associated with hepatic changes; however, these changes were reversible with continued dosing.
 
-Dermatological events (see ADVERSE REACTIONS section) may be transient and may disappear despite continued use of diltiazem hydrochloride.
+Dermatological events (see ADVERSE REACTIONS) may be transient and may disappear despite continued use of diltiazem hydrochloride.
 However, skin eruptions progressing to erythema multiforme and/or exfoliative dermatitis have also been infrequently reported.
 Should a dermatologic reaction persist, the drug should be discontinued.
 
-Drug Interactions.
+Drug Interactions
+
 Due to the potential for additive effects, caution and careful titration are warranted in patients receiving diltiazem hydrochloride concomitantly with other agents known to affect cardiac contractility and/or conduction (see WARNINGS).
-Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with Tiazac® (see WARNINGS).
+Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with Tiazac (see WARNINGS).
 As with all drugs, care should be exercised when treating patients with multiple medications.
 Diltiazem is both a substrate and an inhibitor of the cytochrome P-450 3A4 enzyme system.
 Other drugs that are specific substrates, inhibitors, or inducers of the enzyme system may have a significant impact on the efficacy and side effect profile of diltiazem.
 Patients taking other drugs that are substrates of CYP450 3A4, especially patients with renal and/or hepatic impairment, may require dosage adjustment when starting or stopping concomitantly administered diltiazem in order to maintain optimum therapeutic blood levels.
 
-Beta Blockers.
+Anesthetics.
+The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
+When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
+
+Benzodiazepines.
+Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
+The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
+These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
+
+Beta-blockers.
 Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem hydrochloride and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 Administration of diltiazem hydrochloride concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and bioavailability of propranolol was increased approximately 50%.
 In vitro, propranolol appears to be displaced from its binding sites by diltiazem.
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted (see WARNINGS).
 
 Buspirone.
-In nine healthy subjects, diltiazem significantly increased the mean buspirone 5.5-fold and Cmax 4.1-fold compared to placebo.
+In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The T½ and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
-Subsequent dose adjustments may be necessary during co-administration, and should be based on clinical assessment.
+Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
+
+Carbamazepine.
+Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
+Patients receiving these drugs concurrently should be monitored for a potential drug interaction.
 
 Cimetidine.
 A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine 1200 mg/day and a single dose of diltiazem 60 mg.
@@ -68,18 +83,9 @@ The effect may be mediated by cimetidine's known inhibition of hepatic cytochrom
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 
-Digitalis.
-Administration of diltiazem hydrochloride with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
-Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
-Since there have been conflicting results regarding the effect of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization (see WARNINGS).
-
-Quinidine.
-Diltiazem significantly increases the AUC(0→00) of quinidine by 51%, T½ by 36%, and decreases its CLoral by 33%.
-Monitoring for quinidine adverse effects may be warranted and the dose adjusted accordingly.
-
-Anesthetics.
-The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
-When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
+Clonidine.
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem.
+Monitor heart rate in patients receiving concomitant diltiazem and clonidine.
 
 Cyclosporine.
 A pharmacokinetic interaction between diltiazem and cyclosporine has been observed during studies involving renal and cardiac transplant patients.
@@ -88,44 +94,59 @@ If these agents are to be administered concurrently, cyclosporine concentrations
 
 The effect of cyclosporine on diltiazem plasma concentrations has not been evaluated.
 
-Carbamazepine.
-Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
-Patients receiving these drugs concurrently should be monitored for a potential drug interaction.
+Digitalis.
+Administration of diltiazem hydrochloride with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
+Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
+Since there have been conflicting results regarding the effect of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization (see WARNINGS).
 
-Benzodiazepines.
-Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
-The elimination half life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
-These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sodation) of both midazolam and triazolam.
-
-Lovastatin.
-In a ten-subject study, coadministration of diltiazem (120 mg bid) with lovastatin resulted in a 3- to 4-fold increase in mean lovastatin AUC and Cmax vs. lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
-Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
+Quinidine.
+Diltiazem significantly increases the AUC(0→∞) of quinidine by 51%, T½ by 36%, and decreases its CLoral by 33%.
+Monitoring for quinidine adverse effects may be warranted and the dose adjusted accordingly.
 
 Rifampin.
 Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility.
+Statins.
+Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
+The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+
+In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
+Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
+If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
+Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
 A 24-month study in rats at oral dosage levels of up to 100 mg/kg/day and a 21-month study in mice at oral dosage levels of up to 30 mg/kg/day showed no evidence of carcinogenicity.
 There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro in bacteria.
 No evidence of impaired fertility was observed in a study performed in male and female rats at oral dosages of up to 100 mg/kg/day.
 
-Pregnancy.
+Pregnancy
+
 Category C. Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from 4 to 6 times (depending on species) the upper limit of the optimum dosage range in clinical trials (480 mg/day or 8 mg/kg/day for a 60-kg patient) resulted in embryo and fetal lethality.
 These studies revealed, in one species or another, a propensity to cause abnormalities of the skeleton, heart, retina, and tongue.
 Also observed were reductions in early individual pup weights and pup survival, prolonged delivery and increased incidence of stillbirths.
 There are no well-controlled studies in pregnant women; therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.
 
-Nursing Mothers.
+Nursing Mothers
+
 Diltiazem is excreted in human milk.
 One report suggests that concentrations in breast milk may approximate serum levels.
-If use of Tiazac® is deemed essential, an alternative method of infant feeding should be instituted.
+If use of Tiazac is deemed essential, an alternative method of infant feeding should be instituted.
 
-Pediatric Use.
+Pediatric Use
+
 Safety and effectiveness in children have not been established.
 
-Geriatric Use.
+Geriatric Use
+
 Clinical studies of diltiazem did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
