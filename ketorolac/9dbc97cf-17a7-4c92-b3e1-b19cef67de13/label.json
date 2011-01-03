@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022382"
+  ],
+  "inn": "ketorolac",
+  "labeler": "ROXRO Pharma Inc.",
+  "package_ndcs": [
+    "51667-888-01",
+    "51667-888-05"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "ketorolac tromethamine",
+      "name": "SPRIX"
+    }
+  ],
+  "setid": "9dbc97cf-17a7-4c92-b3e1-b19cef67de13",
+  "source": "dailymed"
+}
