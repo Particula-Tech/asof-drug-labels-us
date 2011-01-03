@@ -7,7 +7,7 @@ Hematologic toxicities appear to be related to pretreatment bone marrow reserve 
 In patients with advanced symptomatic HIV-1 disease, anemia and neutropenia were the most significant adverse events observed.
 In patients who experience hematologic toxicity, a reduction in hemoglobin may occur as early as 2 to 4 weeks, and neutropenia usually occurs after 6 to 8 weeks.
 There have been reports of pancytopenia associated with the use of zidovudine, which was reversible in most instances after discontinuance of the drug.
-However, significant anemia, in many cases requiring dose adjustment, discontinuation of zidovudine, and/or blood t ransfusions, has occurred during treatment with zidovudine alone or in combination with other antiretrovirals.
+However, significant anemia, in many cases requiring dose adjustment, discontinuation of zidovudine, and/or blood transfusions, has occurred during treatment with zidovudine alone or in combination with other antiretrovirals.
 Frequent blood counts are strongly recommended to detect severe anemia or neutropenia in patients with poor bone marrow reserve, particularly in patients with advanced HIV-1 disease who are treated with zidovudine.
 For HIV-1-infected individuals and patients with asymptomatic or early HIV-1 disease, periodic blood counts are recommended.
 If anemia or neutropenia develops, dosage interruption may be needed [see Dosage and Administration (2.3)] .
@@ -33,11 +33,11 @@ Consideration should be given to replacing zidovudine in established combination
 Hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
 Patients receiving interferon alfa with or without ribavirin and zidovudine should be closely monitored for treatment-associated toxicities, especially hepatic decompensation, neutropenia, and anemia.
 Discontinuation of zidovudine should be considered as medically appropriate.
-Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Childs Pugh >6) (see the complete prescribing information for interferon and ribavirin).
+Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh >6) (see the complete prescribing information for interferon and ribavirin).
 
 ## 5.5 Use With Other Zidovudine-Containing Products
 
-Zidovudine should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR ® or TRIZIVIR ® ).
+Zidovudine should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR® [lamivudine and zidovudine] tablets or TRIZIVIR® [abacavir sulfate, lamivudine, and zidovudine] tablets).
 
 ## 5.6 Immune Reconstitution Syndrome
 

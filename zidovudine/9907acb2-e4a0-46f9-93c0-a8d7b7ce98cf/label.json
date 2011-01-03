@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078128"
+  ],
   "inn": "zidovudine",
-  "labeler": "Aurobindo Pharma USA, Inc.",
+  "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-107-01",
-    "65862-107-10"
+    "65862-107-10",
+    "65862-107-26"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zidovudine",
+      "name": "Zidovudine"
+    }
+  ],
   "setid": "9907acb2-e4a0-46f9-93c0-a8d7b7ce98cf",
   "source": "dailymed"
 }

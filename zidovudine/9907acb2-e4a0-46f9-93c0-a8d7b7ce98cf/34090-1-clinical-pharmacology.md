@@ -7,7 +7,7 @@ Zidovudine is an antiviral agent [see Clinical Pharmacology (12.4)] .
 ## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability: In adults, following oral administration, zidovudine is rapidly absorbed and extensively distributed, with peak serum concentrations occurring within 0.5 to 1.5 hours.
-The extent of absorption (AUC) was equivalent when zidovudine was administered as zidovudine tablets or syrup compared with zidovudine capsules.
+The AUC was equivalent when zidovudine was administered as zidovudine tablets or syrup compared with zidovudine capsules.
 The pharmacokinetic properties of zidovudine in fasting adult patients are summarized in Table 6.
 
 Table 6.
@@ -18,22 +18,22 @@ Zidovudine Pharmacokinetic Parameters in Fasting Adult Patients
 | Oral bioavailability (%) | 64 ± 10 (n = 5) |
 | Apparent volume of distribution (L/kg) | 1.6 ± 0.6 (n = 8) |
 | Plasma protein binding (%) | <38 |
-| CSF: plasma ratio* | 0.6 [0.04 to 2.62] (n = 39) |
+| CSF:plasma ratio* | 0.6 [0.04 to 2.62] (n = 39) |
 | Systemic clearance (L/hr/kg) | 1.6 ± 0.6 (n = 6) |
 | Renal clearance (L/hr/kg) | 0.34 ± 0.05 (n = 9) |
 | Elimination half-life (hr)† | 0.5 to 3 (n = 19) |
-| * Median [range]. †Approximate range. |  |
+| *Median [range]. †Approximate range. |  |
 
 Distribution: The apparent volume of distribution of zidovudine, following oral administration, is 1.6 ± 0.6 L/kg; and binding to plasma protein is low, <38% (Table 6).
 Metabolism and Elimination: Zidovudine is primarily eliminated by hepatic metabolism.
 The major metabolite of zidovudine is GZDV.
 GZDV AUC is about 3-fold greater than the zidovudine AUC.
 Urinary recovery of zidovudine and GZDV accounts for 14% and 74%, respectively, of the dose following oral administration.
-A second metabolite, 3'-amino-3'-deoxythymidine (AMT), has been identified in the plasma following single-dose intravenous (IV) administration of zidovudine.
+A second metabolite, 3′-amino-3′-deoxythymidine (AMT), has been identified in the plasma following single-dose intravenous (IV) administration of zidovudine.
 The AMT AUC was one fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg/kg every 8 hours to 10 mg/kg every 4 hours.
 Effect of Food on Absorption: Zidovudine may be administered with or without food.
-The extent of zidovudine absorption (AUC) was similar when a single dose of zidovudine was administered with food.
+The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
 Special Populations: Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in patients with impaired renal function (n = 14) following a single 200 mg oral dose (Table 7).
 Plasma concentrations of AMT were not determined.
 A dose adjustment should not be necessary for patients with creatinine clearance (CrCl) ≥15 mL/min.
@@ -54,7 +54,7 @@ Apparent zidovudine oral clearance was approximately 50% of that reported in pat
 Hemodialysis and peritoneal dialysis appeared to have a negligible effect on the removal of zidovudine, whereas GZDV elimination was enhanced.
 A dosage adjustment is recommended for patients undergoing hemodialysis or peritoneal dialysis [see Dosage and Administration (2.4)] .
 Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
-However, because zidovudine is eliminated primarily by hepatic metabolism, it is expected that zidovudine clearance would be decreased and plasma concentrations would be increased following administration of the recommended adult doses to patients with hepatic impairment [see Dosage and Administration (2.5)] .
+However, because zidovudine is eliminated primarily by hepatic metabolism, it is expected that zidovudine clearance would be decreased and plasma concentrations would be increased following administration of the recommended adult doses to patients with hepatic impairment [see Dosage and Administration (2.5)].
 Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric patients (Table 8).
 Patients 3 Months to 12 Years of Age: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
 Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg/m 2 every 6 hours.
@@ -73,29 +73,30 @@ Zidovudine Pharmacokinetic Parameters in Pediatric Patients*
 | Parameter | Birth to 14 Days of Age | 14 Days to 3 Months of Age | 3 Months to 12 Years of Age |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19 (n = 15) | 61 ± 19 (n = 17) | 65 ± 24 (n = 18) |
-| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]† (n = 38) |
+| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25] † (n = 38) |
 | CL (L/hr/kg) | 0.65 ± 0.29 (n = 18) | 1.14 ± 0.24 (n = 16) | 1.85 ± 0.47 (n = 20) |
 | Elimination half-life (hr) | 3.1 ± 1.2 (n = 21) | 1.9 ± 0.7 (n = 18) | 1.5 ± 0.7 (n = 21) |
 | *Data presented as mean ± standard deviation except where noted. †Median [range]. |  |  |  |
 
-Pregnancy: Zidovudine pharmacokinetics have been studied in a Phase I study of 8 women during the last trimester of pregnancy.
+Pregnancy : Zidovudine pharmacokinetics have been studied in a Phase I study of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Use in Specific Populations (8.1)].
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
-Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
+Nursing Mothers : The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 After administration of a single dose of 200 mg zidovudine to 13 HIV-1-infected women, the mean concentration of zidovudine was similar in human milk and serum [see Use In Specific Populations (8.3) ] .
-Geriatric Patients: Zidovudine pharmacokinetics have not been studied in patients over 65 years of age.
-Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine exposure (AUC) when a single dose of zidovudine was administered as the 300 mg zidovudine tablet.
+Geriatric Patients : Zidovudine pharmacokinetics have not been studied in patients over 65 years of age.
+Gender : A pharmacokinetic study in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as the 300 mg zidovudine tablet.
 Drug Interactions: [See Drug Interactions (7)] .
 
 Table 9.
 Effect of Coadministered Drugs on Zidovudine AUC*
 
-| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Coadministered Drug and Dose | Zidovudine Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
 | AUC | Variability |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
+| Coadministered Drug and Dose | Zidovudine Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
 | Atovaquone 750 mg q 12 hr with food | 200 mg q 8 hr | 14 | ↑AUC 31% | Range 23% to 78%† | ↔ |
+| Clarithromycin 500 mg twice daily | 100 mg q 4 hr x 7 days | 4 | ↓AUC 12% | Range ↓34% to ↑14% | Not Reported |
 | Fluconazole 400 mg daily | 200 mg q 8 hr | 12 | ↑AUC 74% | 95% CI: 54% to 98% | Not Reported |
 | Lamivudine 300 mg q 12 hr | single 200 mg | 12 | ↑AUC 13% | 90% CI: 2% to 27% | ↔ |
 | Methadone 30 to 90 mg daily | 200 mg q 4 hr | 9 | ↑AUC 43% | Range 16% to 64%† | ↔ |
@@ -104,7 +105,7 @@ Effect of Coadministered Drugs on Zidovudine AUC*
 | Rifampin 600 mg daily x 14 days | 200 mg q 8 hr x 14 days | 8 | ↓AUC 47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir 300 mg q 6 hr x 4 days | 200 mg q 8 hr x 4 days | 9 | ↓AUC 25% | 95% CI: 15% to 34% | ↔ |
 | Valproic acid 250 mg or 500 mg q 8 hr x 4 days | 100 mg q 8 hr x 4 days | 6 | ↑AUC 80% | Range 64% to 130%† | Not Assessed |
-| ↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. * This table is not all inclusive. † Estimated range of percent difference. |  |  |  |  |  |
+| ↑= Increase; ↓= Decrease; ↔= no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. * This table is not all inclusive. † Estimated range of percent difference. |  |  |  |  |  |
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving zidovudine, while in one case a high level was documented.
 However, in a pharmacokinetic interaction study in which 12 HIV-1-positive volunteers received a single 300 mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
@@ -120,7 +121,7 @@ The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (R
 ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has been reported to be incorporated into the DNA of cells in culture.
 Antiviral Activity: The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines (including monocytes and fresh human peripheral blood lymphocytes).
 The EC 50 and EC 90 values for zidovudine were 0.01 to 0.49 µM (1 µM = 0.27 mcg/mL) and 0.1 to 9 µM, respectively.
-HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC 50 values of 0.011 µM (range: 0.005 to 0.11 µM) from Virco (n = 92 baseline samples from COLA40263) and 0.0017 µM (0.006 to 0.034 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
+HIV-1 from therapy-naive subjects with no mutations associated with resistance gave median EC 50 values of 0.011 µM (range: 0.005 to 0.11 µM) from Virco (n = 92 baseline samples from COL40263) and 0.0017 µM (0.006 to 0.034 µM) from Monogram Biosciences (n = 135 baseline samples from ESS30009).
 The EC 50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 µM, and against HIV-2 isolates from 0.00049 to 0.004 µM.
 In cell culture drug combination studies, zidovudine demonstrates synergistic activity with the nucleoside reverse transcriptase inhibitors abacavir, didanosine, and lamivudine; the non-nucleoside reverse transcriptase inhibitors delavirdine and nevirapine; and the protease inhibitors indinavir, nelfinavir, ritonavir, and saquinavir; and additive activity with interferon alfa.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
