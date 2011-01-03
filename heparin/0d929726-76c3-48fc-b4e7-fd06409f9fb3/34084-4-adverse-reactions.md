@@ -29,9 +29,6 @@ These complications are much more common after intramuscular use, and such use i
 
 General hypersensitivity reactions have been reported, with chills, fever, and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar site of the feet, may occur.
-
-Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
-While often mild and of no obvious clinical significance, such thrombocytopenia can be accompanied by severe thromboembolic complications such as skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke, and possibly death.
 (See Warnings, Precautions.)
 
 Certain episodes of painful, ischemic, and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
