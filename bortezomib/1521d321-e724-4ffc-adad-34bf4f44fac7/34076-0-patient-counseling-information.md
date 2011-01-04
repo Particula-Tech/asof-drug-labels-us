@@ -21,11 +21,13 @@ Peripheral Neuropathy: Patients should be advised to contact their physician if 
 
 Other: Patients should be instructed to contact their physician if they develop a rash, experience shortness of breath, cough, or swelling of the feet, ankles, or legs, convulsion, persistent headache, reduced eyesight, an increase in blood pressure or blurred vision.
 
-Millennium Pharmaceuticals, Inc. 40 Landsdowne Street Cambridge, MA 02139
+Millennium Pharmaceuticals, Inc.
+
+40 Landsdowne Street Cambridge, MA 02139
 
 VELCADE, and MILLENNIUM are registered trademarks of Millennium Pharmaceuticals, Inc.
 
-©2009 Millennium Pharmaceuticals, Inc. All rights reserved.
+©2010 Millennium Pharmaceuticals, Inc. All rights reserved.
 Printed in USA.
 
-Issued December 2009 Rev 10
+Issued December 2010 Rev 11

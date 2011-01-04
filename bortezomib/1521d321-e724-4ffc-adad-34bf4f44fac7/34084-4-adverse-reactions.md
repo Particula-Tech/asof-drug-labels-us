@@ -299,7 +299,7 @@ Injury, poisoning and procedural complications: Catheter related complication, s
 
 Metabolism and nutrition disorders: Hypocalcemia, hyperuricemia, hypokalemia, hyperkalemia, hyponatremia, hypernatremia
 
-Nervous system disorders: Ataxia, coma, dysarthria, dysautonomia, encephalopathy, cranial palsy, grand mal convulsion, hemorrhagic stroke, motor dysfunction, spinal cord compression, paralysis, postherpetic neuralgia, transient ischemic attack, reversible posterior leukoencephalopathy syndrome
+Nervous system disorders: Ataxia, coma, dysarthria, dysautonomia, encephalopathy, cranial palsy, grand mal convulsion, hemorrhagic stroke, motor dysfunction, spinal cord compression, paralysis, postherpetic neuralgia, transient ischemic attack
 
 Psychiatric disorders: Agitation, confusion, mental status change, psychotic disorder, suicidal ideation
 
@@ -314,4 +314,4 @@ Vascular disorders: Cerebrovascular accident, cerebral hemorrhage, deep venous t
 ## 6.2 Postmarketing Experience
 
 The following adverse drug reactions have been identified from the worldwide post-marketing experience with VELCADE.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: atrioventricular block complete, cardiac tamponade, ischemic colitis, encephalopathy, dysautonomia, deafness bilateral, disseminated intravascular coagulation, hepatitis, acute pancreatitis, acute diffuse infiltrative pulmonary disease, toxic epidermal necrolysis, herpes meningoencephalitis and ophthalmic herpes.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: atrioventricular block complete, cardiac tamponade, ischemic colitis, encephalopathy, dysautonomia, deafness bilateral, disseminated intravascular coagulation, hepatitis, acute pancreatitis, acute diffuse infiltrative pulmonary disease, reversible posterior leukoencephalopathy syndrome, toxic epidermal necrolysis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), herpes meningoencephalitis and ophthalmic herpes.

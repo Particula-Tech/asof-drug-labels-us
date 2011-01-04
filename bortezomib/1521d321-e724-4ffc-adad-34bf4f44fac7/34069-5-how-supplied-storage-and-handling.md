@@ -11,13 +11,13 @@ Consider handling and disposal of VELCADE according to guidelines issued for cyt
 
 Caution: Rx only
 
-U.S. Patents: 5,780,454; 6,083,903; 6,297,217 B1; 6,617,317 B1; 6,713, 446 B2; 6,958,319 B2
+U.S. Patents: 5,780,454; 6,083,903; 6,297,217 B1; 6,617,317 B1; 6,713, 446 B2; 6,958,319 B2; 7,119,080 B2; 6,747,150 B2
 
 Distributed and Marketed by: Millennium Pharmaceuticals, Inc. 40 Landsdowne Street Cambridge, MA 02139
 
 VELCADE, and MILLENNIUM are registered trademarks of Millennium Pharmaceuticals, Inc.
 
-©2009 Millennium Pharmaceuticals, Inc. All rights reserved.
+©2010 Millennium Pharmaceuticals, Inc. All rights reserved.
 Printed in USA.
 
-Issued December 2009 Rev 10
+Issued December 2010 Rev 11
