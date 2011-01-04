@@ -62,7 +62,7 @@ In vitro, propranolol appears to be displaced from its binding sites by diltiaze
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted (see WARNINGS).
 
 Buspirone.
-In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5 fold and Cmax 4.1-fold compared to placebo.
+In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The T1/2 and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
 Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
@@ -103,11 +103,17 @@ Coadministration of rifampin with diltiazem lowered the diltiazem plasma concent
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
 Statins.
-Diltiazem is an inhibitor of CYP3A4 and has been shown to significantly increase the AUC of some statins.
+Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, a non CYP3A4-metabolized statin should be used together with diltiazem, otherwise close monitoring for signs and symptoms of a potential statin toxicity is required.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
 
-In a ten-subject study, coadministration of diltiazem (120 mg bid, diltiazem SR) with lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
+In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
+Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
+If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility

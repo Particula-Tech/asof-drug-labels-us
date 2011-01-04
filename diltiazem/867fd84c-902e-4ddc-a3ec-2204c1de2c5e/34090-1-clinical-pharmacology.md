@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-The therapeutic effects of CARDIZEM CD are believed to be related to its ability to inhibit the influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
+The therapeutic effects of CARDIZEM CD are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
 ## Mechanisms of Action
 
@@ -55,7 +55,7 @@ In a study involving single oral doses of 300 mg of CARDIZEM in six normal volun
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval, and on occasion produces abnormal prolongation (see WARNINGS).
+Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval and on occasion produces abnormal prolongation (see WARNINGS).
 
 ## Pharmacokinetics and Metabolism
 
@@ -82,4 +82,4 @@ Dose-dumping does not occur.
 The apparent elimination half-life after single or multiple dosing is 5 to 8 hours.
 A departure from linearity similar to that seen with CARDIZEM tablets and CARDIZEM SR capsules is observed.
 As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 240 mg, there is an increase in the area-under-the-curve of 2.7 times.
-When the dose is increased from 240 mg to 360 mg there is an increase in the area-under-the-curve of 1.6 times.
+When the dose is increased from 240 mg to 360 mg, there is an increase in the area-under-the-curve of 1.6 times.
