@@ -63,6 +63,16 @@ Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
 
+## Pregnancy
+
+### Nonteratogenic Effects
+
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## Combined Use of Haloperidol and Lithium
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
@@ -103,7 +113,7 @@ The physician should keep in mind the possible increase in intraocular pressure 
 As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
 
 In a study of 12 schizophrenic patients coadministered haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
-In 5 other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
+In five other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
 Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
 
 When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
