@@ -1,12 +1,14 @@
 # 14 CLINICAL STUDIES
 
-A total of 3978 patients with type 2 diabetes participated in 5 double-blind (one of these trials had an open-label active control insulin glargine arm), randomized, controlled clinical trials, one of 52 weeks duration and four of 26 weeks duration.
+A total of 4445 patients with type 2 diabetes participated in 6 phase 3 trials.
+There were 5 double-blind (one of these trials had an open-label active control insulin glargine arm), randomized, controlled clinical trials, one of 52 weeks duration and four of 26 weeks duration.
+There was also a 26 week open-label trial comparing Victoza to twice-daily exenatide.
 These multinational trials were conducted to evaluate the glycemic efficacy and safety of Victoza in type 2 diabetes as monotherapy and in combination with one or two oral anti-diabetic medications.
-The 4 add-on combination therapy trials enrolled patients who were previously treated with anti-diabetic therapy, and approximately two-thirds of patients in the monotherapy trial also were previously treated with anti-diabetic therapy.
-In total, 272 (7%) of the 3978 patients in these 5 trials were new to anti-diabetic therapy.
-In these 5 clinical trials, patients ranged in age from 19-80 years old and 54% were men.
-Approximately 77% of patients were Caucasian, and 6% were Black.
-In the 2 trials where ethnicity was captured, 27% of patients were Hispanic/Latino and 73% were Non-Hispanic/Latino.
+The 5 add-on combination therapy trials enrolled patients who were previously treated with anti-diabetic therapy, and approximately two-thirds of patients in the monotherapy trial also were previously treated with anti-diabetic therapy.
+In total, 272 (6%) of the 4445 patients in these 6 trials were new to anti-diabetic therapy.
+In these 6 clinical trials, patients ranged in age from 19-80 years old and 54% were men.
+Approximately 79% of patients were Caucasian, and 6% were Black.
+In the 3 trials where ethnicity was captured, 23% of patients were Hispanic/Latino (n=399).
 In each of these trials, treatment with Victoza produced clinically and statistically significant improvements in hemoglobin A1c and fasting plasma glucose (FPG) compared to placebo.
 Victoza did not have adverse effects on blood pressure.
 
@@ -18,11 +20,10 @@ Victoza 0.6 mg is not effective for glycemic control and is intended only as a s
 
 In this 52-week trial, 746 patients were randomized to Victoza 1.2 mg, Victoza 1.8 mg, or glimepiride 8 mg.
 Patients who were randomized to glimepiride were initially treated with 2 mg daily for two weeks, increasing to 4 mg daily for another two weeks, and finally increasing to 8 mg daily.
+Treatment with Victoza 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 5).
+The percentage of patients who discontinued due to ineffective therapy was 3.6% in the Victoza 1.8 mg treatment group, 6.0% in the Victoza 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group
 
-Treatment with Victoza 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 4).
-The percentage of patients who discontinued due to ineffective therapy was 3.6% in the Victoza 1.8 mg treatment group, 6.0% in the Victoza 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
-
-Table 4 Results of a 52-week monotherapy trialIntent-to-treat population using last observation on study
+Table 5 Results of a 52-week monotherapy trialIntent-to-treat population using last observation on study
 
 |  | Victoza 1.8 mg | Victoza 1.2 mg | Glimepiride 8 mg |
 | --- | --- | --- | --- |
@@ -32,7 +33,7 @@ Table 4 Results of a 52-week monotherapy trialIntent-to-treat population using l
 | Change from baseline (adjusted mean)Least squares mean adjusted for baseline value | -1.1 | -0.8 | -0.5 |
 | Difference from glimepiride arm (adjusted mean) | -0.6p-value <0.0001 | -0.3p-value <0.05 |  |
 | 95% Confidence Interval | (-0.8, -0.4) | (-0.5, -0.1) |  |
-| Patients (%) achieving A1c <7% | 51 | 43 | 28 |
+| Percentage of patients achieving A1c <7% | 51 | 43 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 172 | 168 | 172 |
 | Change from baseline (adjusted mean) | -26 | -15 | -5 |
@@ -52,10 +53,10 @@ In this 26-week trial, 1091 patients were randomized to Victoza 0.6 mg, Victoza 
 Randomization occurred after a 6-week run-in period consisting of a 3-week initial forced metformin titration period followed by a maintenance period of another 3 weeks.
 During the titration period, doses of metformin were increased up to 2000 mg/day.
 
-Treatment with Victoza 1.2 mg and 1.8 mg as add-on to metformin resulted in a significant mean HbA1c reduction relative to placebo add-on to metformin and resulted in a similar mean HbA1c reduction relative to glimepiride 4 mg add-on to metformin (Table 5).
+Treatment with Victoza 1.2 mg and 1.8 mg as add-on to metformin resulted in a significant mean HbA1c reduction relative to placebo add-on to metformin and resulted in a similar mean HbA1c reduction relative to glimepiride 4 mg add-on to metformin (Table 6).
 The percentage of patients who discontinued due to ineffective therapy was 5.4% in the Victoza 1.8 mg + metformin treatment group, 3.3% in the Victoza 1.2 mg + metformin treatment group, 23.8% in the placebo + metformin treatment group, and 3.7% in the glimepiride + metformin treated group.
 
-Table 5 Results of a 26 Week Trial of Victoza as add-on to MetforminIntent-to-treat population using last observation on study
+Table 6 Results of a 26-week trial of Victoza as add-on to metforminIntent-to-treat population using last observation on study
 
 |  | Victoza 1.8 mg +Metformin | Victoza 1.2 mg +Metformin | Placebo + Metformin | Glimepiride 4 mgFor glimepiride, one-half of the maximal approved United States dose.+Metformin |
 | --- | --- | --- | --- | --- |
@@ -67,7 +68,7 @@ Table 5 Results of a 26 Week Trial of Victoza as add-on to MetforminIntent-to-tr
 | 95% Confidence Interval | (-1.3, -0.9) | (-1.3, -0.9) |  |  |
 | Difference from glimepiride + metformin arm (adjusted mean) | 0.0 | 0.0 |  |  |
 | 95% Confidence Interval | (-0.2, 0.2) | (-0.2, 0.2) |  |  |
-| Patients (%) achieving A1c <7% | 42 | 35 | 11 | 36 |
+| Percentage of patients achieving A1c <7% | 42 | 35 | 11 | 36 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 181 | 179 | 182 | 180 |
 | Change from baseline (adjusted mean) | -30 | -30 | +7 | -24 |
@@ -90,10 +91,10 @@ Randomization occurred after a 4-week run-in period consisting of an initial, 2-
 During the titration period, doses of glimepiride were increased to 4 mg/day.
 The doses of glimepiride could be reduced (at the discretion of the investigator) from 4 mg/day to 3 mg/day or 2 mg/day (minimum) after randomization, in the event of unacceptable hypoglycemia or other adverse events.
 
-Treatment with Victoza 1.2 mg and 1.8 mg as add-on to glimepiride resulted in a statistically significant reduction in mean HbA1c compared to placebo add-on to glimepiride (Table 6).
+Treatment with Victoza 1.2 mg and 1.8 mg as add-on to glimepiride resulted in a statistically significant reduction in mean HbA1c compared to placebo add-on to glimepiride (Table 7).
 The percentage of patients who discontinued due to ineffective therapy was 3.0% in the Victoza 1.8 mg + glimepiride treatment group, 3.5% in the Victoza 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
 
-Table 6 Results of a 26-week trial of Victoza as add-on to sulfonylureaIntent-to-treat population using last observation on study
+Table 7 Results of a 26-week trial of Victoza as add-on to sulfonylureaIntent-to-treat population using last observation on study
 
 |  | Victoza 1.8 mg +Glimepiride | Victoza 1.2 mg +Glimepiride | Placebo + Glimepiride | Rosiglitazone 4 mgFor rosiglitazone, one-half of the maximal approved United States dose. + Glimepiride |
 | --- | --- | --- | --- | --- |
@@ -103,7 +104,7 @@ Table 6 Results of a 26-week trial of Victoza as add-on to sulfonylureaIntent-to
 | Change from baseline (adjusted mean)Least squares mean adjusted for baseline value | -1.1 | -1.1 | +0.2 | -0.4 |
 | Difference from placebo + glimepiride arm (adjusted mean) | -1.4p-value <0.0001 | -1.3 |  |  |
 | 95% Confidence Interval | (-1.6, -1.1) | (-1.5, -1.1) |  |  |
-| Patients (%) achieving A1c <7% | 42 | 35 | 7 | 22 |
+| Percentage of patients achieving A1c <7% | 42 | 35 | 7 | 22 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 174 | 177 | 171 | 179 |
 | Change from baseline (adjusted mean) | -29 | -28 | +18 | -16 |
@@ -127,10 +128,10 @@ After Week 8, the frequency of insulin glargine titration was left to the discre
 Only 20% of glargine-treated patients achieved the pre-specified target fasting plasma glucose of ≤100 mg/dL.
 Therefore, optimal titration of the insulin glargine dose was not achieved in most patients.
 
-Treatment with Victoza as add-on to glimepiride and metformin resulted in a statistically significant mean reduction in HbA1c compared to placebo add-on to glimepiride and metformin (Table 7).
+Treatment with Victoza as add-on to glimepiride and metformin resulted in a statistically significant mean reduction in HbA1c compared to placebo add-on to glimepiride and metformin (Table 8).
 The percentage of patients who discontinued due to ineffective therapy was 0.9% in the Victoza 1.8 mg + metformin + glimepiride treatment group, 0.4% in the insulin glargine + metformin + glimepiride treatment group, and 11.3% in the placebo + metformin + glimepiride treatment group.
 
-Table 7 Results of a 26-week trial of Victoza as add-on to metformin and sulfonylureaIntent-to-treat population using last observation on study
+Table 8 Results of a 26-week trial of Victoza as add-on to metformin and sulfonylureaIntent-to-treat population using last observation on study
 
 |  | Victoza 1.8 mg +Metformin + Glimepiride | Placebo + Metformin +Glimepiride | Insulin glargineFor insulin glargine, optimal titration regimen was not achieved for 80% of patients. + Metformin + Glimepiride |
 | --- | --- | --- | --- |
@@ -140,7 +141,7 @@ Table 7 Results of a 26-week trial of Victoza as add-on to metformin and sulfony
 | Change from baseline (adjusted mean)Least squares mean adjusted for baseline value | -1.3 | -0.2 | -1.1 |
 | Difference from placebo + metformin + glimepiride arm (adjusted mean) | -1.1p-value <0.0001 |  |  |
 | 95% Confidence Interval | (-1.3, -0.9) |  |  |
-| Patients (%) achieving A1c <7% | 53 | 15 | 46 |
+| Percentage of patients achieving A1c <7% | 53 | 15 | 46 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 165 | 170 | 164 |
 | Change from baseline (adjusted mean) | -28 | +10 | -32 |
@@ -152,16 +153,43 @@ Table 7 Results of a 26-week trial of Victoza as add-on to metformin and sulfony
 | Difference from placebo + metformin + glimepiride arm (adjusted mean) | -1.4p-value <0.05 |  |  |
 | 95% Confidence Interval | (-2.1, -0.7) |  |  |
 
+Victoza versus Exenatide, Both as Add-on to Metformin and/or Sulfonylurea Therapy
+
+In this 26–week, open-label trial, 464 patients on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily Victoza 1.8 mg or exenatide 10 mcg twice daily.
+Maximally tolerated doses of background therapy were to remain unchanged for the duration of the trial.
+Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice daily.
+
+Treatment with Victoza 1.8 mg resulted in statistically significant reductions in HbA1c and FPG relative to exenatide (Table 9).
+The percentage of patients who discontinued for ineffective therapy was 0.4% in the Victoza treatment group and 0% in the exenatide treatment group.
+Both treatment groups had a mean decrease from baseline in body weight of approximately 3 kg.
+
+Table 9 Results of a 26-week open-label trial of Victoza versus Exenatide (both in combination with metformin and/or sulfonylurea)Intent-to-treat population using last observation carried forward
+
+|  | Victoza 1.8 mg once daily+ metformin and/or sulfonylurea | Exenatide10 mcg twice daily + metformin and/or sulfonylurea |
+| --- | --- | --- |
+| Intent-to-Treat Population (N) | 233 | 231 |
+| HbA1c (%) (Mean) |  |  |
+| Baseline | 8.2 | 8.1 |
+| Change from baseline (adjusted mean)Least squares mean adjusted for baseline value | -1.1 | -0.8 |
+| Difference from exenatide arm (adjusted mean) | -0.3p-value <0.0001 |  |
+| 95% Confidence Interval | (-0.5, -0.2) |  |
+| Percentage of patients achieving A1c <7% | 54 | 43 |
+| Fasting Plasma Glucose (mg/dL) (Mean) |  |  |
+| Baseline | 176 | 171 |
+| Change from baseline (adjusted mean) | -29 | -11 |
+| Difference from exenatide arm (adjusted mean) | -18 |  |
+| 95% Confidence Interval | (-25, -12) |  |
+
 Add-on to Metformin and Thiazolidinedione
 
 In this 26-week trial, 533 patients were randomized to Victoza 1.2 mg, Victoza 1.8 mg or placebo, all as add-on to rosiglitazone (8 mg) plus metformin (2000 mg).
 Patients underwent a 9 week run-in period (3-week forced dose escalation followed by a 6-week dose maintenance phase) with rosiglitazone (starting at 4 mg and increasing to 8 mg/day within 2 weeks) and metformin (starting at 500 mg with increasing weekly increments of 500 mg to a final dose of 2000 mg/day).
 Only patients who tolerated the final dose of rosiglitazone (8 mg/day) and metformin (2000 mg/day) and completed the 6-week dose maintenance phase were eligible for randomization into the trial.
 
-Treatment with Victoza as add-on to metformin and rosiglitazone produced a statistically significant reduction in mean HbA1c compared to placebo add-on to metformin and rosiglitazone (Table 8).
+Treatment with Victoza as add-on to metformin and rosiglitazone produced a statistically significant reduction in mean HbA1c compared to placebo add-on to metformin and rosiglitazone (Table 10).
 The percentage of patients who discontinued due to ineffective therapy was 1.7% in the Victoza 1.8 mg + metformin + rosiglitazone treatment group, 1.7% in the Victoza 1.2 mg + metformin + rosiglitazone treatment group, and 16.4% in the placebo + metformin + rosiglitazone treatment group.
 
-Table 8 Results of a 26-week trial of Victoza as add-on to metformin and thiazolidinedioneIntent-to-treat population using last observation on study
+Table 10 Results of a 26-week trial of Victoza as add-on to metformin and thiazolidinedioneIntent-to-treat population using last observation on study
 
 |  | Victoza 1.8 mg + Metformin + Rosiglitazone | Victoza 1.2 mg + Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone |
 | --- | --- | --- | --- |
@@ -171,7 +199,7 @@ Table 8 Results of a 26-week trial of Victoza as add-on to metformin and thiazol
 | Change from baseline (adjusted mean)Least squares mean adjusted for baseline value | -1.5 | -1.5 | -0.5 |
 | Difference from placebo + metformin + rosiglitazone arm (adjusted mean) | -0.9p-value <0.0001 | -0.9 |  |
 | 95% Confidence Interval | (-1.1, -0.8) | (-1.1, -0.8) |  |
-| Patients (%) achieving A1c <7% | 54 | 57 | 28 |
+| Percentage of patients achieving A1c <7% | 54 | 57 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 185 | 181 | 179 |
 | Change from baseline (adjusted mean) | -44 | -40 | -8 |

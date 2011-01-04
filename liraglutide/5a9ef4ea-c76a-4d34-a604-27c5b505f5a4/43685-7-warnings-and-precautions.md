@@ -52,7 +52,7 @@ Use with caution in patients with a history of pancreatitis.
 ## 5.3 Use with Medications Known to Cause Hypoglycemia
 
 Patients receiving Victoza in combination with an insulin secretagogue (e.g., sulfonylurea) may have an increased risk of hypoglycemia.
-In the clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 7 Victoza-treated patients and in no comparator-treated patients.
+In the clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 7 Victoza-treated patients and in two comparator-treated patients.
 Six of these 7 patients treated with Victoza were also taking a sulfonylurea.
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea or other insulin secretagogues [see Adverse Reactions (6.1)].
 

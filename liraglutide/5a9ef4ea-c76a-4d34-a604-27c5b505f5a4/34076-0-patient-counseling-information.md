@@ -36,9 +36,9 @@ A1c is especially useful for evaluating long-term glycemic control.
 
 See separate leaflet.
 
-Date of Issue: January 2010
+Date of Issue: December 22, 2010
 
-Version: 1
+Version: 2
 
 Victoza® is a registered trademark of Novo Nordisk A/S.
 
@@ -46,7 +46,7 @@ Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924 and 7,235,627 and ot
 
 Victoza® Pen is covered by US Patent Nos. 6,004,297, 6,235,004, 6,582,404 and other patents pending.
 
-© 2010 Novo Nordisk A/S
+© 2010 Novo Nordisk
 
 Manufactured by:
 

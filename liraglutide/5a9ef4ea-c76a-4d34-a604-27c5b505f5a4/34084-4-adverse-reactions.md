@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of Victoza was evaluated in a 52-week monotherapy trial and in four 26-week, add-on combination therapy trials.
+The safety of Victoza was evaluated in a 52-week monotherapy trial and in five 26-week, add-on combination therapy trials.
 In the monotherapy trial, patients were treated with Victoza 1.2 mg daily, Victoza 1.8 mg daily, or glimepiride 8 mg daily.
 In the add-on to metformin trial, patients were treated with Victoza 0.6 mg, Victoza 1.2 mg, Victoza 1.8 mg, placebo, or glimepiride 4 mg.
 In the add-on to glimepiride trial, patients were treated with Victoza 0.6 mg, Victoza 1.2 mg, Victoza 1.8 mg, placebo, or rosiglitazone 4 mg.
@@ -18,7 +18,7 @@ This difference was driven by withdrawals due to gastrointestinal adverse reacti
 The most common adverse reactions leading to withdrawal for Victoza-treated patients were nausea (2.8% versus 0% for comparator) and vomiting (1.5% versus 0.1% for comparator).
 Withdrawal due to gastrointestinal adverse events mainly occurred during the first 2-3 months of the trials.
 
-Tables 1 and 2 summarize the adverse events reported in ≥5% of Victoza-treated patients in the five controlled trials of 26 weeks duration or longer.
+Tables 1, 2 and 3 summarize the adverse events reported in ≥5% of Victoza-treated patients in the six controlled trials of 26 weeks duration or longer.
 
 Table 1 Adverse events reported in ≥5% of Victoza-treated patients or ≥5% of glimepiride-treated patients: 52-week monotherapy trial
 
@@ -82,13 +82,26 @@ Table 2 Adverse events reported in ≥5% of Victoza-treated patients and occurri
 | Constipation | 5.1 | 1.1 |
 | Fatigue | 5.1 | 1.7 |
 
+Table 3 Treatment-Emergent Adverse Events in 26 Week Open-Label Trial versus Exenatide (Adverse events with frequency ≥5% and occurring more frequently with Victoza compared to exenatide are listed)
+
+|  | Victoza 1.8 mg once daily+ metformin and/or sulfonylureaN= 235 | Exenatide 10 mcg twice daily + metformin and/or sulfonylureaN= 232 |
+| --- | --- | --- |
+| Preferred Term | (%) | (%) |
+| Diarrhea | 12.3 | 12.1 |
+| Dyspepsia | 8.9 | 4.7 |
+| Constipation | 5.1 | 2.6 |
+
 Gastrointestinal adverse events
 
 In the five clinical trials of 26 weeks duration or longer, gastrointestinal adverse events were reported in 41% of Victoza-treated patients and were dose-related.
 Gastrointestinal adverse events occurred in 17% of comparator-treated patients.
 Events that occurred more commonly among Victoza-treated patients included nausea, vomiting, diarrhea, dyspepsia and constipation.
-In clinical trials of 26 weeks duration or longer, the percentage of patients who reported nausea declined over time.
+In a 26-week study of Victoza versus exenatide, both in combination with metformin and/or sulfonylurea [see Clinical Studies (14.2)] overall gastrointestinal adverse event incidence rates, including nausea, were similar in patients treated with Victoza and exenatide.
+
+In five clinical trials of 26 weeks duration or longer, the percentage of patients who reported nausea declined over time.
 Approximately 13% of Victoza-treated patients and 2% of comparator-treated patients reported nausea during the first 2 weeks of treatment.
+
+In a 26 week study of Victoza versus exenatide, both in combination with metformin and/or sulfonylurea [see Clinical Studies (14.2)], the proportion of patients with nausea also declined over time.
 
 Immunogenicity
 
@@ -122,14 +135,14 @@ Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and w
 
 Hypoglycemia
 
-In the clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 7 Victoza-treated patients (2.6 cases per 1000 patient-years) and in no comparator-treated patients.
+In the clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 7 Victoza-treated patients (2.6 cases per 1000 patient-years) and in two comparator-treated patients.
 Six of these 7 patients treated with Victoza were also taking a sulfonylurea.
-One other patient was taking Victoza in combination with metformin but had another likely explanation for the hypoglycemia (this event occurred during hospitalization and after insulin infusion) (Table 3).
+One other patient was taking Victoza in combination with metformin but had another likely explanation for the hypoglycemia (this event occurred during hospitalization and after insulin infusion) (Table 4).
 Two additional cases of hypoglycemia requiring the assistance of another person for treatment have subsequently been reported in patients who were not taking a concomitant sulfonylurea.
 Both patients were receiving Victoza, one as monotherapy and the other in combination with metformin.
 Both patients had another likely explanation for the hypoglycemia (one received insulin during a frequently-sampled intravenous glucose tolerance test, and the other had intracranial hemorrhage and uncertain food intake).
 
-Table 3 Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in the 52-Week Monotherapy Trial and in the 26-Week Combination Therapy Trials
+Table 4 Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in the 52-Week Monotherapy Trial and in the 26-Week Combination Therapy Trials
 
 |  | Victoza Treatment | Active Comparator | Placebo Comparator |
 | --- | --- | --- | --- |
