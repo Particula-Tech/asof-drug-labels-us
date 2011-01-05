@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Hypersensitivity to any of the ingredients in this preparation contraindicates the use of RHINOCORT AQUA Nasal Spray.
+RHINOCORT AQUA Nasal Spray is contraindicated in patients with hypersensitivity to any of its ingredients [see Warnings and Precautions (5.2)].

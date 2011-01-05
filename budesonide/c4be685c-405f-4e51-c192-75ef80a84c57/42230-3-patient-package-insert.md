@@ -1,175 +1,284 @@
-# SUPPLEMENTAL PATIENT MATERIAL
+# Patient Information
 
-## Patient Instructions for Use
+RHINOCORT AQUA®
 
-Instructions for using your RHINOCORT AQUA® (budesonide) Nasal Spray 32 mcg
+(RINE-o-cort AH-kwa)
 
-IMPORTANT: Please read this leaflet carefully before you start to use RHINOCORT AQUA Nasal Spray.
-It provides a summary of information about your medicine.
-FOR FURTHER INFORMATION, ASK YOUR DOCTOR OR PHARMACIST.
+(budesonide)
 
-What You Should Know about Rhinocort Aqua Nasal Spray
+Nasal Spray
 
-Your doctor has prescribed RHINOCORT AQUA Nasal Spray, a medicine that can help treat your nasal symptoms due to perennial or seasonal allergic rhinitis.
-“Rhinitis” means inflammation of the lining of the nose.
-RHINOCORT AQUA Nasal Spray contains budesonide, a synthetic corticosteroid.
-Corticosteroids are natural substances found in the body that help fight inflammation
+For use in your nose only
 
-What are the Symptoms of Perennial (Year-Round) or Seasonal Allergic Rhinitis?
+Read the Patient Information that comes with RHINOCORT AQUA Nasal Spray before you start using it and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
+If you have questions about RHINOCORT AQUA Nasal Spray, ask your healthcare provider or pharmacist.
 
-Nasal symptoms of perennial (year-round) or seasonal allergic rhinitis include:
+What is RHINOCORT AQUA Nasal Spray?
 
-- runny nose
-- sneezing
-- stuffy nose
-- itching of the nose or throat
+RHINOCORT AQUA Nasal Spray is a prescription medicine used to treat seasonal and year-round allergy symptoms in adults and children 6 years of age and older.
 
-RHINOCORT AQUA helps to relieve these nasal symptoms.
+RHINOCORT AQUA Nasal Spray contains budesonide, which is a man-made (synthetic) corticosteroid.
+Intranasal corticosteroids are natural hormones found in the body that reduce swelling of the lining of your nose.
+When you spray RHINOCORT AQUA Nasal Spray into your nose, it helps reduce the nasal symptoms of allergic rhinitis (inflammation of the lining of the nose), such as stuffy nose, runny nose, itching and sneezing.
 
-Before using your Rhinocort Aqua Nasal Spray, tell your Doctor or Pharmacist if:
+The safety and effectiveness of RHINOCORT AQUA Nasal Spray has not been shown in children under 6 years of age.
 
-- you are pregnant (or intending to become pregnant),
-- you are breast-feeding a baby,
-- you are allergic to budesonide, any of the other ingredients of RHINOCORT AQUA or any other nasal inhaled corticosteroid.
-- you have recently been around anyone with chicken pox or measles
-- you have liver problems
-- you have chronic or untreated infections
-- you recently had surgery or an injury to your nose
+Who should not use RHINOCORT AQUA Nasal Spray?
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
-RHINOCORT AQUA and other medicines may affect each other, causing side effects.
+Do not use RHINOCORT AQUA Nasal Spray:
 
-Talk to your Doctor or Pharmacist if:
+· if you are allergic to budesonide or any of the ingredients in RHINOCORT AQUA Nasal Spray.
+See the end of this leaflet for a complete list of the ingredients in RHINOCORT AQUA Nasal Spray.
 
-- you have nose bleeds or pain or discomfort in your nose
-- your symptoms worsen
-- your symptoms do not begin to improve after 2 weeks of use
+What should I tell my healthcare provider before using RHINOCORT AQUA Nasal Spray?
 
-In some circumstances, this medicine may not be suitable, and your doctor may wish to give you a different medicine.
-Make sure that your doctor knows what other medicine you are taking.
+Before you use RHINOCORT AQUA Nasal Spray, tell your healthcare provider or pharmacist if you:
 
-What are the Possible Side Effects of Rhinocort Aqua?
+- have recently been around anyone with chicken pox or measles
+- have liver problems
+- have any untreated infections
+- have ever had an infection called tuberculosis
+- have an eye infection
+- have recently had surgery or an injury to your nose
+- have any other medical conditions
+- are pregnant or plan to become pregnant.
+  It is not known if RHINOCORT AQUA Nasal Spray will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+- are breastfeeding or plan to breastfeed.
+  RHINOCORT AQUA Nasal Spray can pass into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take RHINOCORT AQUA Nasal Spray.
 
-The most common side effects reported by patients using RHINOCORT AQUA are:
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+RHINOCORT AQUA Nasal Spray may affect the way other medicines work, and other medicines may affect how RHINOCORT AQUA Nasal Spray works.
+
+Know the medicines you take.
+Keep a list of your medicines with you to show your healthcare provider and pharmacist when you get a new medicine.
+
+How should I use RHINOCORT AQUA Nasal Spray?
+
+- RHINOCORT AQUA Nasal Spray is for use in your nose only.
+  Do not spray it in your eyes or mouth.
+- Use RHINOCORT AQUA Nasal Spray exactly as your healthcare provider tells you to use it.
+- It is very important that you use RHINOCORT AQUA Nasal Spray regularly.
+  Do not stop using RHINOCORT AQUA Nasal Spray or change your dose without talking to your healthcare provider, even if you are feeling better.
+- Talk to your healthcare provider if your symptoms do not improve after taking RHINOCORT AQUA Nasal Spray for 2 weeks or if your symptoms get worse.
+- An adult should help a young child use this medicine.
+- See the Patient Instructions for Use at the end of this leaflet for complete information on how to use RHINOCORT AQUA Nasal Spray.
+
+What are the possible side effects of RHINOCORT AQUA Nasal Spray?
+
+RHINOCORT AQUA Nasal Spray may cause serious side effects including:
+
+- hole in the cartilage inside the nose (nasal septal perforation).
+  Tell your healthcare provider if you have a whistling sound from your nose when you breathe.
+  - 
+- slow wound healing.
+  You should not use RHINOCORT AQUA Nasal Spray until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
+- fungal infection in your nose.
+- allergic reactions.
+  Tell your healthcare provider or get medical help right away if you have:
+- skin rash, redness or swelling
+- severe itching
+- swelling of the face, mouth and tongue
+  - 
+- immune system problems that may increase your risk of infections.
+  You are more likely to get infections if you take medicines that weaken your body’s ability to fight infections.
+  Avoid contact with people who have contagious diseases such as chicken pox or measles while using RHINOCORT AQUA Nasal Spray.
+  Symptoms of infection may include fever, pain, aches, chills, feeling tired, nausea and vomiting.
+  - 
+- adrenal insufficiency.
+  Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
+  Symptoms of adrenal insufficiency may include tiredness, weakness, nausea, vomiting and low blood pressure.
+  - 
+- slowed or delayed growth in children.
+  A child’s growth should be checked regularly while using RHINOCORT AQUA Nasal Spray.
+- eye problems, such as glaucoma and cataracts.
+  Tell your healthcare provider if you have a change in vision or have a history of increased intraocular pressure, glaucoma, and/or cataracts.
+
+Call your healthcare provider or get medical help right away if you have symptoms of any of the serious side effects listed above.
+
+The most common side effects of RHINOCORT AQUA Nasal Spray include:
 
 - nose bleeds
-- irritation to the nose
 - sore throat
-- breathing difficulties such as wheezing, chest tightening or coughing
+- breathing difficulties such as wheezing, or chest tightening
+- cough
+- irritation of your nose
 
-In rare instances, severe allergic reaction and eye problems (including glaucoma and cataracts) have been reported.
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
-These are not all of the possible side effects of RHINOCORT AQUA.
-For more information, ask your doctor or pharmacist.
+These are not all of the possible side effects of RHINOCORT AQUA Nasal Spray.
+For more information, ask your healthcare provider or pharmacist.
 
-Using Your Rhinocort Aqua Nasal Spray
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-- Follow the instructions on the reverse side of this page.
-  If you have any problems, tell your doctor or pharmacist.
-- It is important that you use RHINOCORT AQUA Nasal Spray as directed by your doctor.
-  The pharmacy label will usually tell you what dose to take and how often.
-  If it doesn’t or you are not sure how to use RHINOCORT AQUA Nasal Spray, ask your doctor or pharmacist.
+You may report side effects to AstraZeneca at 1-800-236-9933.
 
-Dosage
+What should I know about allergic rhinitis?
 
-- Use as directed by your doctor.
-- It is very important that you follow your doctor’s instructions as to how many sprays to take and how often to use your RHINOCORT AQUA Nasal Spray.
-- Do not take more doses or use RHINOCORT AQUA Nasal Spray more often than your doctor tells you.
-- It is very important that you use RHINOCORT AQUA NASAL SPRAY regularly.
-  Do not stop treatment or reduce your dose, even if you are feeling better, unless told to do so by your doctor.
-- If you miss a dose, just take your regularly scheduled next dose when it is due.
-  Do not double the dose.
-- If you also have itchy, watery eyes, you should tell your doctor.
-  He or she can prescribe additional medication to treat these symptoms.
+“Rhinitis” means inflammation of the lining of the nose.
+It is sometimes called “hay fever.”
+Allergic rhinitis can be caused by allergies to pollen, animal dander, house dust mite, and mold spores.
+If you have allergic rhinitis, your nose becomes stuffy, runny, and itchy.
+You may also sneeze a lot.
+You may have red, itchy, watery eyes; itchy throat; or blocked, itchy ears.
 
-Storing Your Rhinocort Aqua Nasal Spray
+RHINOCORT AQUA Nasal Spray helps to relieve your nasal symptoms.
 
+If you also have itchy, watery eyes, you should tell your healthcare provider.
+He or she can prescribe additional medication to treat these symptoms.
+
+How should I store RHINOCORT AQUA Nasal Spray?
+
+- Store RHINOCORT AQUA Nasal Spray at 68°F to 77°F (20°C to 25°C).
+- Do not freeze RHINOCORT AQUA Nasal Spray.
+- Protect RHINOCORT AQUA Nasal Spray from light.
+- Do not use RHINOCORT AQUA Nasal Spray after the labeled number of sprays have been used (does not include priming) or after the expiration date shown on the carton or bottle label.
 - Keep the green protective cap on RHINOCORT AQUA Nasal Spray when not in use.
   (Please see Prior to Use on reverse side).
 - Keep RHINOCORT AQUA Nasal Spray and all medications out of the reach of children.
-- Keep RHINOCORT AQUA Nasal Spray in a dry place at controlled room temperature, 68 to 77°F (20 to 25°C).
-  Do not freeze.
-  Protect from light.
-- Do not use RHINOCORT AQUA Nasal Spray after the labeled number of sprays have been used (does not include priming) or after the expiration date shown on the carton or bottle label.
 
-What are the Ingredients of Rhinocort Aqua?
+General Information about the safe and effective use of RHINOCORT AQUA Nasal Spray:
 
-Active ingredient: budesonide 32 mcg
+Do not use RHINOCORT AQUA Nasal Spray for a condition for which it was not prescribed.
+Do not give RHINOCORT AQUA Nasal Spray to other people, even if they have the same symptoms that you have.
+It may harm them.
 
-Inactive ingredients: Microcrystalline cellulose and carboxymethyl cellulose sodium, dextrose anhydrous, polysorbate 80, disodium edetate, potassium sorbate, and purified water are contained in this medium; hydrochloric acid is added to adjust the pH to a target of 4.5.
+This Patient Information leaflet summarizes the most important information about RHINOCORT AQUA Nasal Spray.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about RHINOCORT AQUA Nasal Spray that is written for health professionals.
 
-Further Information
+For more information, go to www.astrazenca-us.com or call AstraZeneca at 1-800-236-9933.
 
-This leaflet does not contain the complete information about your medicine.
-If you have any questions, or are not sure about something, you should ask your doctor or pharmacist.
+What are the Ingredients of RHINOCORT AQUA Nasal Spray?
 
-You may want to read this leaflet again.
-Please do not throw it away until you have finished your medicine.
+Active ingredient: budesonide
 
-REMEMBER: This medicine has been prescribed for you by your doctor.
-Do not give this medicine to anyone else.
+Inactive ingredients:
 
-Use this product as directed, unless instructed to do otherwise by your doctor.
+Microcrystalline cellulose and carboxymethyl cellulose sodium, dextrose anhydrous, polysorbate 80, disodium edetate, potassium sorbate, purified water and hydrochloric acid.
 
-How To Use Your Rhinocort Aqua Nasal Spray
+Patient Instructions for Use
 
-Read the complete instructions carefully and use only as directed.
+For use in your nose only.
+Do not spray in your eyes or mouth.
 
-Prior to Use: Before using RHINOCORT AQUA Nasal Spray, the bottle must be primed.
+Read the Patient Instructions for Use carefully before you start to use RHINOCORT AQUA Nasal Spray.
+If you have any questions, ask your healthcare provider.
+
+Figure A
+
+How to prime your RHINOCORT AQUA Nasal Spray
+
+Before you use RHINOCORT AQUA Nasal Spray, the bottle must be primed.
+To prime RHINOCORT AQUA Nasal Spray:
+
+1.
+Pull to remove the green protective cap off the nasal spray unit.
+
+2.
+Shake the bottle gently for a few seconds before each use.
+
+3.Hold the bottle firmly, as shown in Figure B, with your index and middle finger on either side of the spray tip and your thumb underneath the bottle.
+
+Figure B
+
+4.
+Activate the pump by quickly and firmly pressing down on the white collar while holding the base of the bottle with your thumb.
+
+5.
+Before your first use of RHINOCORT AQUA Nasal Spray, shake the bottle gently.
+The pump must be primed by pressing down on the white collar 8 times.
+The pump is now ready to use.
+If used daily the pump does not need to be reprimed.
+If not used for 2 days in a row, reprime with 1 spray or until a fine spray appears.
+If not used for more than 14 days, rinse the spray tip of the pump using the cleaning steps listed at the end of this leaflet.
+After cleaning reprime with 2 sprays or until a fine spray appears.
+
+Each bottle of RHINOCORT AQUA Nasal Spray contains enough medicine for you to spray medicine from the bottle 120 times after the bottle is primed.
+
+You should not use the bottle of RHINOCORT AQUA Nasal Spray after 120 sprays.
+Additional sprays after 120 may not contain the right amount of medicine.
+You should keep track of the number of sprays you use from each bottle of RHINOCORT AQUA Nasal Spray and throw away any remaining medicine that may be left in the bottle.
+Refill your prescription monthly.
+
+How to use your RHINOCORT AQUA Nasal Spray
+
+Follow these instructions for daily use of RHINOCORT AQUA Nasal Spray:
+
+1.
+Gently blow your nose to clear your nostrils, if necessary.
+
+2.
+Shake the bottle gently for a few seconds and remove the green protective cap.
+
+3.
+Hold the bottle firmly with your index and middle finger on either side of the spray tip and your thumb underneath the bottle (See Figure C).
+
+Figure C
+
+4.
+Insert the spray tip into your nostril (the tip should not reach far into your nose).
+Close the other nostril with a finger and lean your head slightly forward so the spray will aim toward the back of your nose (See Figure D).
+
+Figure D
+
+5.
+For each spray, activate the pump by quickly and firmly pressing down on the white collar while holding the base of the bottle with your thumb.
+Breathe gently inward through the nostril.
+
+6.
+After spraying into your nostril, lean your head backward for a few seconds (Figure E).
+
+Figure E
+
+7.
+If a second spray is needed in the same nostril, repeat steps 3 through 6.
+
+8.
+Repeat steps 3 through 7 for your other nostril.
+
+9.
+Avoid blowing your nose for 15 minutes after you use RHINOCORT AQUA Nasal Spray.
+
+10.
+Wipe the spray tip with a clean tissue (Figure F), and replace the green protective cap.
+Store the bottle in an upright position.
+
+Figure F
+
+How to clean your RHINOORT AQUA Nasal Spray
+
+Figure G
+
+Rinse the green protective cap and the spray tip regularly.
 To do this:
 
-1. Pull to remove the green protective cap off the nasal spray unit.
-2. Shake the bottle gently for a few seconds before each use.
-3. Hold the bottle firmly, as shown in Figure A, with your index and middle finger on either side of the spray tip and your thumb underneath the bottle.
-4. Actuate the pump by QUICKLY and FIRMLY pressing down on the white collar while supporting the base of the bottle with your thumb.
-5. Prior to initial use, shake the bottle gently.
-   The pump must be primed by actuating 8 times.
-   If used daily the pump does not need to be reprimed.
-   If not used for 2 consecutive days, reprime with one spray or until a fine spray appears.
-   If not used for more than 14 days, rinse the applicator using the cleaning steps listed below.
-   Reprime with two sprays or until a fine spray appears.
-6. Do not spray in eyes.
+1.
+Remove the green protective cap and lift off the spray tip (See Figure G).
 
-NOTE: Your RHINOCORT AQUA Nasal Spray has been filled with an excess to accommodate the priming activity.
+2.
+Wash only the green protective cap and the spray tip in warm water and rinse them in cold tap water.
 
-The correct amount of medication in each spray cannot be assured after the labeled number of sprays even though the container is not completely empty.
-Keep track of the number of sprays released from the container.
-Do not transfer any remaining RHINOCORT AQUA Nasal Spray to another bottle.
+3.
+Allow the green protective cap and the spray tip to air-dry completely before reassembling the nasal spray.
 
-Instructions for Daily Use: Follow these instructions for daily use of RHINOCORT AQUA Nasal Spray:
+4.If the spray tip becomes blocked, it can be cleared by repeating Steps 1 through 3.
+Do not unblock the nasal applicator with a pin or other sharp object.
 
-1. Gently blow your nose to clear your nostrils, if necessary.
-2. Shake the bottle gently for a few seconds and remove the green protective cap.
-3. Hold the bottle firmly with your index and middle finger on either side of the spray tip and your thumb underneath the bottle (Figure A).
-4. Insert the spray tip into your nostril (the tip should not reach far into your nose).
-   Close the other nostril with a finger and lean your head slightly forward so the spray will aim toward the back of your nose (Figure B).
-5. For each spray, actuate the pump by QUICKLY and FIRMLY pressing down on the white collar while supporting the base of the bottle with your thumb.
-   Breathe gently inward through the nostril.
-6. After spraying into your nostril, lean your head backward for a few seconds (Figure C).
-7. If a second spray is required in the same nostril, repeat steps 3 through 6.
-8. Repeat steps 3 through 7 for your other nostril.
-9. Avoid blowing your nose for 15 minutes after using RHINOCORT AQUA Nasal Spray.
-10. Wipe the spray tip with a clean tissue (Figure D), and replace the green protective cap.
-    Store the bottle in an upright position.
-
-Cleaning
-
-Rinse the upper plastic parts regularly.
-To do this:
-
-1. Remove the green protective cap and lift off the spray tip.
-2. Wash only these plastic parts in warm water and rinse them in cold tap water.
-3. Allow the plastic parts to air-dry completely before reassembling the nasal spray.
-4. If the spray tip becomes blocked, it can be cleared by performing the above steps.
-   Do not unblock the nasal applicator with a pin or other sharp object.
-
-For additional information about RHINOCORT AQUA®, please call the AstraZeneca Information Center, Monday through Friday, 8 am – 7 pm ET, excluding holidays at 1-800-236-9933 or visit our website at rhinocortaqua.com.
+For additional information about RHINOCORT AQUA® Nasal Spray, please call the AstraZeneca Information Center, Monday through Friday, 8 am – 6 pm ET, excluding holidays at 1-800-236-9933.
 
 All trademarks are the property of the AstraZeneca group of companies
 
-©AstraZeneca 2002, 2008
+©AstraZeneca 2008, 2009, 2010
 
-Distributed by: AstraZeneca LP, Wilmington, DE 19850
+Distributed by:
 
-30515-XX Rev.
-11/08
+AstraZeneca LP, Wilmington, DE 19850
+
+Rev.
+12/10
