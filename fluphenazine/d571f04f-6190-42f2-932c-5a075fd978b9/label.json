@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA089556"
+  ],
+  "inn": "fluphenazine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-281-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fluphenazine hydrochloride",
+      "name": "Fluphenazine Hydrochloride"
+    }
+  ],
+  "setid": "d571f04f-6190-42f2-932c-5a075fd978b9",
+  "source": "dailymed"
+}

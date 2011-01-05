@@ -1,0 +1,31 @@
+PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine 10 mL Vial Label
+
+NDC 63323-281-10
+
+28110
+
+FLUPHENAZINE HYDROCHLORIDE INJECTION, USP
+
+2.5 mg/mL
+
+For IM Use Only
+
+10 mL Multiple Dose Vial
+
+Rx only
+
+PACKAGE LABEL - PRINCIPAL DISPLAY - Fluphenazine 10 mL Vial Carton Label
+
+NDC 63323-281-10
+
+28110
+
+FLUPHENAZINE HYDROCHLORIDE INJECTION, USP
+
+2.5 mg/mL
+
+For IM Use Only
+
+10 mL Multiple Dose Vial
+
+Rx only
