@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091544"
+  ],
+  "inn": "lithium",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-223-01",
+    "68462-223-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "lithium carbonate",
+      "name": "Lithium Carbonate"
+    }
+  ],
+  "setid": "1b65d27e-5086-4a87-8387-c49f3d060978",
+  "source": "dailymed"
+}
