@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0521-00
 
@@ -34,7 +34,7 @@ Made in Singapore
 10000000059029 Rev.
 7/09
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0520-00
 
