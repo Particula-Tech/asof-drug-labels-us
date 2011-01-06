@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "King Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "60793-411-05",
+    "60793-411-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "diclofenac epolamine",
+      "name": "Flector"
+    }
+  ],
+  "setid": "f103f7e8-1253-43cb-9667-cd0d8f4d5500",
+  "source": "dailymed"
+}
