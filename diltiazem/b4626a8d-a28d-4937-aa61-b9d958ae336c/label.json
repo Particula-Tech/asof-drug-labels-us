@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021392"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-3045-30",
+    "0074-3045-90",
+    "0074-3061-30",
+    "0074-3061-90",
+    "0074-3062-30",
+    "0074-3062-90",
+    "0074-3063-30",
+    "0074-3063-90",
+    "0074-3064-30",
+    "0074-3064-90",
+    "0074-3069-30",
+    "0074-3069-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Cardizem LA"
+    }
+  ],
+  "setid": "b4626a8d-a28d-4937-aa61-b9d958ae336c",
+  "source": "dailymed"
+}
