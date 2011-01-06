@@ -4,18 +4,18 @@
 
 ## Commonly Observed
 
-The more commonly observed untoward events associated with the use of buspirone not seen at an equivalent incidence among placebo-treated patients include dizziness, nausea, headache, nervousness, lightheadedness, and excitement.
+The more commonly observed untoward events associated with the use of buspirone hydrochloride tablets not seen at an equivalent incidence among placebo-treated patients include dizziness, nausea, headache, nervousness, lightheadedness, and excitement.
 
 ## Associated With Discontinuation of Treatment
 
-One guide to the relative clinical importance of adverse events associated with buspirone is provided by the frequency with which they caused drug discontinuation during clinical testing.
-Approximately 10% of the 2200 anxious patients who participated in the buspirone premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
+One guide to the relative clinical importance of adverse events associated with buspirone hydrochloride tablets is provided by the frequency with which they caused drug discontinuation during clinical testing.
+Approximately 10% of the 2200 anxious patients who participated in the buspirone hydrochloride tablets premarketing clinical efficacy trials in anxiety disorders lasting 3 to 4 weeks discontinued treatment due to an adverse event.
 The more common events causing discontinuation included: central nervous system disturbances (3.4%), primarily dizziness, insomnia, nervousness, drowsiness, and lightheaded feeling; gastrointestinal disturbances (1.2%), primarily nausea; and miscellaneous disturbances (1.1%), primarily headache and fatigue.
 In addition, 3.4% of patients had multiple complaints, none of which could be characterized as primary.
 
 ## Incidence in Controlled Clinical Trials
 
-The table that follows enumerates adverse events that occurred at a frequency of 1% or more among buspirone hydrochloride patients who participated in 4 week, controlled trials comparing buspirone with placebo.
+The table that follows enumerates adverse events that occurred at a frequency of 1% or more among buspirone hydrochloride patients who participated in 4 week, controlled trials comparing buspirone hydrochloride tablets with placebo.
 The frequencies were obtained from pooled data for 17 trials.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
@@ -34,44 +34,44 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 | Nervousness | 5 | 1 |
 | Insomnia | 3 | 3 |
 | Lightheadedness | 3 | - |
-| Decreased Concentration | 2 | 2 |
+| Decreased concentration | 2 | 2 |
 | Excitement | 2 | - |
 | Anger/Hostility | 2 | - |
 | Confusion | 2 | - |
 | Depression | 2 | 2 |
 | EENT |  |  |
-| Blurred Vision | 2 | - |
+| Blurred vision | 2 | - |
 | Gastrointestinal |  |  |
 | Nausea | 8 | 5 |
-| Dry Mouth | 3 | 4 |
-| Abdominal/Gastric Distress | 2 | 2 |
+| Dry mouth | 3 | 4 |
+| Abdominal/gastric distress | 2 | 2 |
 | Diarrhea | 2 | - |
 | Constipation | 1 | 2 |
 | Vomiting | 1 | 2 |
 | Musculoskeletal |  |  |
-| Musculoskeletal Aches/Pains | 1 | - |
+| Musculoskeletal aches/pains | 1 | - |
 | Neurological |  |  |
 | Numbness | 2 | - |
 | Paresthesia | 1 | - |
 | Incoordination | 1 | - |
 | Tremor | 1 | - |
 | Skin |  |  |
-| Skin Rash | 1 | - |
+| Skin rash | 1 | - |
 | Miscellaneous |  |  |
 | Headache | 6 | 3 |
 | Fatigue | 4 | 4 |
 | Weakness | 2 | - |
 | Sweating/Clamminess | 1 | - |
 
-* Events reported by at least 1% of buspirone patients are included.
+* Events reported by at least 1% of buspirone patients are included.Events reported by at least 1% of buspirone patients are included
 
-- Incidence less than 1%.
+- Incidence less than 1%.Incidence less than 1%
 
-## Other Events Observed During the Entire Premarketing Evaluation of Buspirone
+## Other Events Observed During the Entire Premarketing Evaluation of Buspirone Hydrochloride Tablets
 
-During its premarketing assessment, buspirone was evaluated in over 3500 subjects.
-This section reports event frequencies for adverse events occurring in approximately 3000 subjects from this group who took multiple doses of buspirone in the dose range for which buspirone is being recommended (i.e., the modal daily dose of buspirone fell between 10 and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
-The conditions and duration of exposure to buspirone varied greatly, involving well-controlled studies as well as experience in open and uncontrolled clinical settings.
+During its premarketing assessment, buspirone hydrochloride tablets were evaluated in over 3500 subjects.
+This section reports event frequencies for adverse events occurring in approximately 3000 subjects from this group who took multiple doses of buspirone hydrochloride tablets in the dose range for which buspirone is being recommended (i.e., the modal daily dose of buspirone hydrochloride tablets fell between 10 and 30 mg for 70% of the patients studied) and for whom safety data were systematically collected.
+The conditions and duration of exposure to buspirone hydrochloride tablets varied greatly, involving well-controlled studies as well as experience in open and uncontrolled clinical settings.
 As part of the total experience gained in clinical studies, various adverse events were reported.
 In the absence of appropriate controls in some of the studies, a causal relationship to buspirone hydrochloride treatment cannot be determined.
 The list includes all undesirable events reasonably associated with the use of the drug.
@@ -134,4 +134,4 @@ Infrequent were weight gain, fever, roaring sensation in the head, weight loss, 
 
 Postmarketing experience has shown an adverse experience profile similar to that given above.
 Voluntary reports since introduction have included rare occurrences of allergic reactions (including urticaria), angioedema, cogwheel rigidity, dizziness (rarely reported as vertigo), dystonic reactions (including dystonia), ataxias, extrapyramidal symptoms, dyskinesias (acute and tardive), ecchymosis, emotional lability, serotonin syndrome, transient difficulty with recall, urinary retention, visual changes (including tunnel vision), parkinsonism, akathisia, restless leg syndrome, and restlessness.
-Because of the uncontrolled nature of these spontaneous reports, a causal relationship to buspirone treatment has not been determined.
+Because of the uncontrolled nature of these spontaneous reports, a causal relationship to buspirone hydrochloride tablets treatment has not been determined.

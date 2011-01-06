@@ -8,4 +8,4 @@ In clinical trials allowing dose titration, divided doses of 20 to 30 mg per day
 The bioavailability of buspirone is increased when given with food as compared to the fasted state (see CLINICAL PHARMACOLOGY).
 Consequently, patients should take buspirone in a consistent manner with regard to the timing of dosing; either always with or always without food.
 
-When buspirone is to be given with a potent inhibitor of CYP3A4 the dosage recommendations described in the PRECAUTIONS, Drug Interactions section should be followed.
+When buspirone is to be given with a potent inhibitor of CYP3A4, the dosage recommendations described in the PRECAUTIONS, Drug Interactions section should be followed.
