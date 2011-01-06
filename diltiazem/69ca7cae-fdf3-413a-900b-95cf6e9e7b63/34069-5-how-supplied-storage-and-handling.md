@@ -14,11 +14,12 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Manufactured In India By:
+Manufactured In Israel By:
 
-PIRAMAL HEALTHCARE LIMITED
+TEVA PHARMACEUTICAL IND.
+LTD.
 
-Pithampur, Madhya Pradesh, India
+Jerusalem, 91010, Israel
 
 Manufactured For:
 
@@ -27,4 +28,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-K 12/2009
+L 11/2010

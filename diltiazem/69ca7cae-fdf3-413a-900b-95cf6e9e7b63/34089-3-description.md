@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Diltiazem hydrochloride is a calcium ion influx inhibitor (slow channel blocker or calcium antagonist).
+Diltiazem hydrochloride is a calcium ion cellular influx inhibitor (slow channel blocker or calcium antagonist).
 Chemically, diltiazem hydrochloride is 1,5-Benzothiazepin-4(5H)one,3-(acetyloxy)-5-[2-(dimethylamino)ethyl]-2,3-dihydro-2-(4-methoxyphenyl)-,monohydrochloride,(+)-cis-.
 The structural formula is:
 

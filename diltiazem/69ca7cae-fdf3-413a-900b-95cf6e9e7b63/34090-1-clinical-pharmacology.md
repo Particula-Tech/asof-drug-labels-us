@@ -9,7 +9,7 @@ Although precise mechanisms of its antianginal actions are still being delineate
 1. Angina Due to Coronary Artery Spasm: Diltiazem has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
    Spontaneous and ergonovine-induced coronary artery spasm are inhibited by diltiazem.
 2. Exertional Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
-   This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise work loads.
+   This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise workloads.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
 It causes excitation-contraction uncoupling in various myocardial tissues without changes in the configuration of the action potential.
@@ -22,31 +22,34 @@ Like other calcium antagonists, diltiazem decreases sinoatrial and atrioventricu
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
-It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given work load.
-Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end diastolic pressure have not been affected.
+It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure, and in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
+Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end-diastolic pressure have not been affected.
 There are as yet few data on the interaction of diltiazem and beta-blockers.
 Resting heart rate is usually unchanged or slightly reduced by diltiazem.
 
-Intravenous diltiazem hydrochloride in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods approximately 20%.
+Intravenous diltiazem in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods approximately 20%.
 In a study involving single oral doses of 300 mg of diltiazem hydrochloride in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of diltiazem hydrochloride in doses of up to 240 mg/day has resulted in small increases in PR interval, but has not usually produced abnormal prolongation.
+Chronic oral administration of diltiazem hydrochloride in doses of up to 240 mg/day has resulted in small increases in PR interval but has not usually produced abnormal prolongation.
 
 ## Pharmacokinetics and Metabolism
 
 Diltiazem is well absorbed from the gastrointestinal tract and is subject to an extensive first-pass effect, giving an absolute bioavailability (compared to intravenous dosing) of about 40%.
-Diltiazem undergoes extensive hepatic metabolism in which 2% to 4% of the unchanged drug appears in the urine.
+Diltiazem undergoes extensive metabolism in which 2% to 4% of the unchanged drug appears in the urine.
 In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
 Competitive in vitro ligand binding studies have also shown diltiazem binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma levels of diltiazem appear to be in the range of 50 to 200 ng/mL.
 There is a departure from linearity when dose strengths are increased.
-A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in AUC (area-under-the plasma concentration vs time curve) in the hepatically impaired patients.
-A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem as compared to patients with normal renal function.
+A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in AUC (area-under-the-plasma concentration vs time curve) in the hepatically impaired patients.
+A single study in nine patients with severely impaired renal functions showed no difference in the pharmacokinetic profile of diltiazem as compared to patients with normal renal function.
 
+### Diltiazem Tablets
+
+Diltiazem is absorbed from the tablet formulation to about 98% of a reference solution.
 Single oral doses of 30 to 120 mg of diltiazem tablets result in detectable plasma levels within 30 to 60 minutes and peak plasma levels 2 to 4 hours after drug administration.
-As the dose of diltiazem tablets is increased from a daily dose of 120 mg (30 mg q.i.d.) to 240 mg (60 mg q.i.d.) daily, there is an increase in area-under-the-curve of 2.3 times.
+As the dose of diltiazem tablets is increased from a daily dose of 120 mg (30 mg qid) to 240 mg (60 mg qid) daily, there is an increase in area-under-the-curve of 2.3 times.
 When the dose is increased from 240 mg to 360 mg daily, there is an increase in area-under-the-curve of 1.8 times.
