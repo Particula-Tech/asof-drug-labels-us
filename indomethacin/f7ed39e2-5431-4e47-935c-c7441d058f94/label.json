@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA091276"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Glenmark Generics Inc., USA",
+  "package_ndcs": [
+    "68462-302-01",
+    "68462-302-05",
+    "68462-406-01",
+    "68462-406-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "indomethacin",
+      "name": "Indomethacin"
+    }
+  ],
+  "setid": "f7ed39e2-5431-4e47-935c-c7441d058f94",
+  "source": "dailymed"
+}

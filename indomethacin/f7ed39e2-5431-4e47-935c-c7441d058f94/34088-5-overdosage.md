@@ -1,0 +1,15 @@
+# OVERDOSAGE
+
+The following symptoms may be observed following overdosage: nausea, vomiting, intense headache, dizziness, mental confusion, disorientation, or lethargy.
+There have been reports of paresthesias, numbness and convulsions.
+
+Treatment is symptomatic and supportive.
+The stomach should be emptied as quickly as possible if the ingestion is recent.
+If vomiting has not occurred spontaneously, the patient should be induced to vomit with syrup of ipecac.
+If the patient is unable to vomit, gastric lavage should be performed.
+Once the stomach has been emptied, 25 g or 50 g of activated charcoal may be given.
+Depending on the condition of the patient, close medical observation and nursing care may be required.
+The patient should be followed for several days because gastrointestinal ulceration and hemorrhage have been reported as adverse reactions of indomethacin.
+Use of antacids may be helpful.
+
+The oral LD50 of indomethacin in mice and rats (based on 14 day mortality response) was 50 and 12 mg/kg, respectively.
