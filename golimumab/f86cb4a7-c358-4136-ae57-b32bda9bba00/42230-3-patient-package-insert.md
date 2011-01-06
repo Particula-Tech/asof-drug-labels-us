@@ -39,7 +39,7 @@ See Figure 2.
 1.1 Check Expiration Date
 
 - Check the expiration date ("EXP") on the SmartJect autoinjector.
-- You can also check the expiration date printed on the carton.
+- You can also check the expiration date printed on the back panel of the SIMPONI carton, to the left of the SIMPONI logo.
 - If the expiration date has passed, do not use the SmartJect autoinjector.
   Call your doctor or pharmacist, or call 1-800-457-6399 for help.
 
@@ -53,7 +53,7 @@ See Figure 2.
 | To ensure proper injection, allow the autoinjector to sit at room temperature outside the carton for 30 minutes and out of the reach of children. |  |
 | --- | --- |
 
-Do not warm the SmartJect autoinjector in any other way (For example, do not warm it in a microwave or in hot water).
+Do not warm the SmartJect autoinjector in any other way (for example, do not warm it in a microwave or in hot water).
 
 Do not remove the SmartJect autoinjector cap while allowing it to reach room temperature.
 
@@ -111,36 +111,34 @@ Step 3: Injecting SIMPONI using the single dose SmartJect autoinjector
 3.2 Push the SmartJect autoinjector against the skin
 
 - Hold the SmartJect autoinjector comfortably in your hand.
-- Do not press the button.
-  Push the open end of the SmartJect autoinjector firmly against the skin at 90-degree angle.
+  Do not press the button at this time.
+- Push the open end of the SmartJect autoinjector firmly against the skin at a 90-degree angle.
   See Figure 8.
+- Do not press the button until after the SmartJect autoinjector is firmly against the skin.
   Figure 8
-- Use your free hand to pinch and hold the skin at the injection site.
-  This may make injecting easier.
+- Use your free hand to pinch and hold the skin at the injection site (see Figure 9).
+  This can help you create a firmer, more stable surface for your injection, and may make injecting easier.
+  Figure 9
 
-3.3 Press button to inject
+| 3.3 Press button to inject |
+| --- |
+| Continue to hold the SmartJect autoinjector firmly against the skin, and press the front raised part of the button with your fingers or thumb (see Figure 10). You will not be able to push in the button unless the SmartJect autoinjector is pushed firmly against your skin. |
 
-- Continue to hold the SmartJect autoinjector firmly against the skin, and press the button with your fingers (see Figure 9) or thumb (see Figure 10).
-  You will not be able to push in the button unless the SmartJect autoinjector is pushed firmly against your skin.
-  Figure 9Figure 10
+| Figure 10 |
+| --- |
+
 - After the button is pressed, it will stay pressed in so you do not need to keep pressure on it.
-  See Figure 11.
-  Figure 11
-- You will hear a loud "click" sound.
-  This means that the injection has started.
-  Do not pull the SmartJect autoinjector away from your skin.
-  If you pull the SmartJect autoinjector away from the skin, you may not get your full dose of medicine.
-  See Figure 12.
-- Do not lift the SmartJect autoinjector yet.
+
+| You will hear a loud 'click' sound – don't be alarmed. This 'click' indicates that the needle has been inserted and the injection has started. You may or may not feel a needle prick at this time. Do not pull the SmartJect autoinjector away from your skin. If you pull the SmartJect autoinjector away from the skin, you may not get your full dose of medicine. See Figure 11.Do not lift the SmartJect autoinjector yet. |
+| --- |
 
 3.4 Wait for Second "Click"
 
-- Keep holding the SmartJect autoinjector against your skin until you hear the second 'click' sound.
-  It usually takes about 3 to 6 seconds, but may take up to 15 seconds for you to hear the second 'click' sound.
-  See Figure 13.
-- The second 'click' sound means that the injection is finished and the needle has pulled back (retracted) into the SmartJect autoinjector.
+| Keep holding the SmartJect autoinjector against your skin until you hear the second 'click' sound. It usually takes about 3 to 6 seconds, but may take up to 15 seconds for you to hear the second 'click' sound. See Figure 12.The second 'click' sound means that the injection is finished and the needle has pulled back (retracted) into the SmartJect autoinjector. |
+| --- |
+
 - Lift the SmartJect autoinjector from the injection site.
-  See Figure 14.
+  See Figure 13.
 - If you have hearing problems, count for 15 seconds from the time you pressed the button and then lift the SmartJect autoinjector from the injection site.
 
 Step 4: After the injection
@@ -148,17 +146,19 @@ Step 4: After the injection
 4.1 Check the Viewing Window
 
 - After you finish injecting, check the viewing window to see the yellow indicator.
-  See Figure 15.
+  See Figure 14.
   This means the SmartJect autoinjector has worked the right way.
-  Figure 15
+  Figure 14
+- If you do not think you received your injection, check the yellow indicator again to confirm that the dose was delivered.
 - If you do not see the yellow indicator in the viewing window, call 1-800-457-6399 for help.
+  Do not administer a second dose without speaking to your doctor.
 
 4.2 Dispose of the used SmartJect autoinjector
 
 - Place the used SmartJect autoinjector into a closable puncture-resistant container.
   You may use a sharps container (such as a red biohazard container), a hard plastic container (such as a detergent bottle), or a metal container (such as an empty coffee can).
-  See Figure 16.
-  Figure 16
+  See Figure 15.
+  Figure 15
 - Ask your doctor for instructions on the right way to throw away (dispose of) the container.
   There may be local or state laws about how you should throw away used needles and syringes.
 - Do not throw away your used SmartJect autoinjector in household trash.
@@ -217,13 +217,13 @@ Step 2: Get ready to use your prefilled syringe
 
 2.1 Check the Expiration Date
 
-- Look for the expiration date printed on the back panel of the SIMPONI carton.
+- Look for the expiration date printed on the back panel of the SIMPONI carton, to the left of the SIMPONI logo.
 - If the expiration date has passed, do not use the prefilled syringe.
   Call your doctor or pharmacist or call 1-800-457-6399 for help.
 
 2.2 Wait 30 minutes
 
-| To ensure proper injection, allow the prefilled syringe to sit at room temperature outside of the carton for 30 minutes and out of the reach of children.Do not warm the prefilled syringe in any other way (For example, Do not warm it in a microwave or in hot water).Do not remove the prefilled syringe needle cover while allowing it to reach room temperature. |  |
+| To ensure proper injection, allow the prefilled syringe to sit at room temperature outside of the carton for 30 minutes and out of the reach of children.Do not warm the prefilled syringe in any other way (for example, do not warm it in a microwave or in hot water).Do not remove the prefilled syringe needle cover while allowing it to reach room temperature. |  |
 | --- | --- |
 
 2.3 Check the Liquid in the Prefilled Syringe
@@ -327,6 +327,6 @@ Step 5: After the injection
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
-Revised: 9/2010
+Revised: 12/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

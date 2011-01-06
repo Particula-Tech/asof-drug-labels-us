@@ -49,7 +49,7 @@ Discontinuation of SIMPONI should be considered for severe cases and those that 
 
 Immunogenicity
 
-Antibodies to SIMPONI were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA and AS trials through Week 24.
+Antibodies to SIMPONI were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA, and AS trials through Week 24.
 Similar rates were observed in each of the three indications.
 Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to SIMPONI than patients who received SIMPONI without MTX (approximately 2% versus 7%, respectively).
 Of the patients with a positive antibody response to SIMPONI in the Phase 2 and 3 trials, most were determined to have neutralizing antibodies to golimumab as measured by a cell-based functional assay.

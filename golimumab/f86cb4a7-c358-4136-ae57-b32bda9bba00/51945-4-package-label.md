@@ -7,7 +7,7 @@ FOR SUBCUTANEOUS INJECTION
 Sterile solution in a single dose prefilled syringe.
 Discard unused portion.
 
-See package inset for dosing information.
+See package insert for dosing information.
 
 No U.S. standard of potency.
 

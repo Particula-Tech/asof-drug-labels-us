@@ -27,7 +27,7 @@ Before starting SIMPONI, tell your doctor if you:
 - have TB, or have been in close contact with someone with TB
 - live, have lived, or traveled to certain parts of the country (such as the Ohio and Mississippi River valleys and the Southwest) where there is an increased chance for getting certain kinds of fungal infections (histoplasmosis, coccidioidomycosis, blastomycosis).
   These infections may happen or become more severe if you use SIMPONI.
-  Ask your doctor, if you do not know if you have lived in an area where these infections are common.
+  Ask your doctor if you do not know if you have lived in an area where these infections are common.
 - have or have had hepatitis B
 - use the medicine Orencia (abatacept), Kineret (anakinra), or Rituxan (rituximab)
 

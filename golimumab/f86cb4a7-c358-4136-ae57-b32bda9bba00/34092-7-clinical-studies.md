@@ -42,12 +42,12 @@ ACR 20 responses were observed in 38% of patients in the SIMPONI 50 mg + MTX gro
 Table 2.
 Studies RA-1, RA-2, and RA-3 Proportion of Patients with an ACR ResponseApproximately 78% and 58% of the patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and NSAIDs, respectively, during the 3 pooled RA trials.
 
-|  | Placebo ± DMARDsDMARDs in Study RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ,and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
+|  | Placebo ± DMARDsDMARDs in Study RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ, and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA-1 Active RA previously treated with one or more doses of TNF-blockers |  | Study RA-2 Active RA, despite MTX |  | Study RA-3 Active RA, MTX Naïve |  |
 | NN reflects randomized patients. | 155 | 153 | 133 | 89 | 160 | 159 |
 | ACR 20 |  |  |  |  |  |  |
-| Week 14 | 18% | 35% | 33% | 55% | NA | NA |
+| Week 14 | 18% | 35% | 33% | 55% | NANA = Not applicable, as data was not collected at Week 14 in Study RA-3. | NA |
 | Week 24 | 17% | 34% | 28% | 60% | 49% | 62% |
 | ACR 50 |  |  |  |  |  |  |
 | Week 14 | 6% | 16% | 10% | 35% | NA | NA |
@@ -55,7 +55,6 @@ Studies RA-1, RA-2, and RA-3 Proportion of Patients with an ACR ResponseApproxim
 | ACR 70 |  |  |  |  |  |  |
 | Week 14 | 2% | 10% | 4% | 13% | NA | NA |
 | Week 24 | 3% | 12% | 5% | 20% | 16% | 24%Not significantly different from MTX monotherapy. |
-| NA Not applicable, as data was not collected at Week 14 in Study RA-3. |  |  |  |  |  |  |
 
 Table 3.
 Study RA-2 — Median Percent Improvement from Baseline in the Individual ACR Components at Weeks 14In Study RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
@@ -81,7 +80,7 @@ Study RA-2 — Median Percent Improvement from Baseline in the Individual ACR Co
 | HAQ score (0–3) |  |  |
 | Baseline | 1.25 | 1.38 |
 | Week 14 | 10% | 29% |
-| CRP (mg/dl) |  |  |
+| CRP (mg/dL) |  |  |
 | Baseline | 0.8 | 1.0 |
 | Week 14 | 2% | 44% |
 | Note: Baseline values are medians. |  |  |
@@ -129,14 +128,14 @@ Study PsA - Proportion of Patients with ACR Responses
 | --- | --- | --- |
 | NN reflects randomized patients. | 113 | 146 |
 | ACR 20 |  |  |
-| Week 14 | 9 % | 51 % |
-| Week 24 | 12 % | 52 % |
+| Week 14 | 9% | 51% |
+| Week 24 | 12% | 52% |
 | ACR 50 |  |  |
-| Week 14 | 2 % | 30 % |
-| Week 24 | 4 % | 32 % |
+| Week 14 | 2% | 30% |
+| Week 24 | 4% | 32% |
 | ACR 70 |  |  |
-| Week 14 | 1 % | 12 % |
-| Week 24 | 1 % | 19 % |
+| Week 14 | 1% | 12% |
+| Week 24 | 1% | 19% |
 | Bold text indicates primary endpoint |  |  |
 
 Table 5.
@@ -147,25 +146,25 @@ Study PsA - Percent Improvement in ACR Components at Week 14
 | NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint | 113 | 146 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 10.0 | 11.0 |
-| Week 14 | 8 % | 60 % |
+| Week 14 | 8% | 60% |
 | Number of tender joints (0–68) |  |  |
 | Baseline | 18.0 | 19.0 |
-| Week 14 | 0 % | 54 % |
+| Week 14 | 0% | 54% |
 | Patient's assessment of pain (0–10) |  |  |
 | Baseline | 5.4 | 5.8 |
-| Week 14 | -1 % | 48 % |
+| Week 14 | -1% | 48% |
 | Patient's global assessment of disease activity (0–10) |  |  |
 | Baseline | 5.2 | 5.2 |
-| Week 14 | 2 % | 49 % |
+| Week 14 | 2% | 49% |
 | Physician's global assessment of disease activity (0–10) |  |  |
 | Baseline | 5.2 | 5.4 |
-| Week 14 | 7 % | 59 % |
+| Week 14 | 7% | 59% |
 | HAQ score (0–10) |  |  |
 | Baseline | 1.0 | 1.0 |
-| Week 14 | 0 % | 28 % |
+| Week 14 | 0% | 28% |
 | CRP (mg/dL) (0–10) |  |  |
 | Baseline | 0.6 | 0.6 |
-| Week 14 | 0 % | 40 % |
+| Week 14 | 0% | 40% |
 | Note: Baseline are median values |  |  |
 
 | Figure 2. Study PsA – Percent of ACR 20 PsA Responders by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
@@ -216,7 +215,7 @@ Study AS – Proportion of ASAS Responders at Weeks 14 and 24
 | Bold text indicates primary endpoint |  |  |
 
 Table 7.
-Study AS — Median Percent Improvement in ASAS Components at Week 14
+Study AS – Median Percent Improvement in ASAS Components at Week 14
 
 |  | Placebo ± DMARDsDuring the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |

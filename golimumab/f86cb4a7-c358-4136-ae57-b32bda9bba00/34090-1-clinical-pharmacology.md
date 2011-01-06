@@ -25,9 +25,9 @@ The volume of distribution for SIMPONI indicates that SIMPONI is distributed pri
 Median terminal half-life values were estimated to be approximately 2 weeks in healthy subjects and patients with active RA, PsA or AS.
 By cross-study comparisons of mean AUCinf values following an IV or SC administration of SIMPONI, the absolute bioavailability of SC SIMPONI was estimated to be approximately 53%.
 
-When 50 mg SIMPONI was administered SC to patients with RA, PsA or AS every 4 weeks, serum concentrations appeared to reach steady state by Week 12.
+When 50 mg SIMPONI was administered SC to patients with RA, PsA, or AS every 4 weeks, serum concentrations appeared to reach steady state by Week 12.
 With concomitant use of methotrexate (MTX), treatment with 50 mg SIMPONI SC every 4 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4–0.6 µg/mL in patients with active RA, approximately 0.5 µg/mL in patients with active PsA, and approximately 0.8 µg/mL in patients with active AS.
-Patients with RA, PsA and AS treated with SIMPONI 50 mg and MTX had approximately 52%, 36% and 21% higher mean steady-state trough concentrations of golimumab, respectively compared with those treated with SIMPONI 50 mg without MTX.
+Patients with RA, PsA, and AS treated with SIMPONI 50 mg and MTX had approximately 52%, 36% and 21% higher mean steady-state trough concentrations of golimumab, respectively compared with those treated with SIMPONI 50 mg without MTX.
 The presence of MTX also decreased anti-golimumab antibody incidence from 7% to 2% [see Adverse Reactions (6.1)].
 For RA, SIMPONI should be used with MTX.
 In the PsA and AS trials, the presence or absence of concomitant MTX did not appear to influence clinical efficacy and safety parameters [see Drug Interactions (7.1) and Clinical Studies (14.1)].
