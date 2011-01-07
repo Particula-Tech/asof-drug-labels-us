@@ -48,7 +48,7 @@ Subject's Assessment of Change in Appearance of Glabellar Lines – Responder Ra
 | a 95% confidence intervals are shown in parenthesis |  |  |  |
 | b Day 30: Co-Primary Efficacy Time point, P<0.001 |  |  |  |
 
-In the subset of patients with resting severity scores of moderate or severe, the investigator assessment of a resting severity of mild or none at day 30 was also achieved by more BOTOX®Cosmetic treated patients (74%, 119/161) than placebo treated patients (20%, 10/49).
+In the subset of patients with resting severity scores of moderate or severe, the investigator assessment of a resting severity of mild or none at day 30 was also achieved by more BOTOX® Cosmetic treated patients (74%, 119/161) than placebo treated patients (20%, 10/49).
 
 Analysis of the limited number of patients 65 years or older suggested a lower treatment-associated response compared to patients less than 65 years of age.
 (Table 3).
