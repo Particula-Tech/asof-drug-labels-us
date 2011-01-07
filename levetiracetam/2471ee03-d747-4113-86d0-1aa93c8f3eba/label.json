@@ -1,19 +1,31 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078993"
+  ],
   "inn": "levetiracetam",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-245-05",
     "65862-245-08",
+    "65862-245-35",
     "65862-246-05",
     "65862-246-08",
+    "65862-246-22",
     "65862-247-05",
     "65862-247-08",
+    "65862-247-15",
     "65862-315-05",
     "65862-315-30",
-    "65862-315-60"
+    "65862-315-60",
+    "65862-315-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
   "setid": "2471ee03-d747-4113-86d0-1aa93c8f3eba",
   "source": "dailymed"
 }
