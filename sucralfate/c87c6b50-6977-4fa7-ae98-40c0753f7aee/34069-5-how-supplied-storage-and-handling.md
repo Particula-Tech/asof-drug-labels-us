@@ -5,12 +5,14 @@ Light pink, scored, oblong tablets are embossed with CARAFATE on one side and 17
 
 Rx Only
 
-Prescribing Information as of April 2004
+Prescribing Information as of April 2007
 
-Axcan Scandipharm Inc.
+Distributed by:
+
+Axcan Pharma US, Inc.
 
 22 Inverness Center Parkway
 
-Birmingham, AL 35242
+Birmingham, AL 35242 USA
 
 www.axcan.com

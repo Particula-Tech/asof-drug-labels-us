@@ -1,13 +1,19 @@
 {
-  "application_numbers": [],
-  "inn": "sucralfate",
-  "labeler": "Axcan Scandipharm Inc.",
-  "package_ndcs": [
-    "58914-171-10",
-    "58914-171-21",
-    "58914-171-50"
+  "application_numbers": [
+    "NDA018333"
   ],
-  "products": [],
+  "inn": "sucralfate",
+  "labeler": "Axcan Pharma US, Inc.",
+  "package_ndcs": [
+    "58914-171-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sucralfate",
+      "name": "Carafate"
+    }
+  ],
   "setid": "c87c6b50-6977-4fa7-ae98-40c0753f7aee",
   "source": "dailymed"
 }
