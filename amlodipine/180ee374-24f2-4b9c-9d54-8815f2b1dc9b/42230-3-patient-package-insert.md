@@ -100,6 +100,6 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-You can ask your pharmacist or doctor for information about amlodipine besylate, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
+You can ask your pharmacist or doctor for information about amlodipine besylate, or call 1-800-438-1985.
 
-LAB-0342-4.0 November 2010
+LAB-0342-5.0 December 2010
