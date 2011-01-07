@@ -1,15 +1,26 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse reaction information concerning ATROVENT HFA Inhalation Aerosol is derived from two 12-week, double-blind, parallel group studies and one open-label, parallel group study that compared ATROVENT HFA Inhalation Aerosol, ATROVENT Inhalation Aerosol CFC, and placebo (in one study only) in 1,010 COPD patients.
-The following table lists the incidence of adverse events that occurred at a rate of greater than or equal to 3% in any ipratropium bromide group.
-Overall, the incidence and nature of the adverse events reported for ATROVENT HFA Inhalation Aerosol, ATROVENT Inhalation Aerosol CFC, and placebo were comparable.
+The following adverse reactions are described, or described in greater detail, in other sections:
 
-TABLE 1 Adverse Experiences Reported in ≥ 3% of Patients in any Ipratropium Bromide Group
+- Hypersensitivity reactions, including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.2)]
+- Paradoxical bronchospasm [see Warnings and Precautions (5.3)]
+- Ocular effects [see Warnings and Precautions (5.4)]
+- Urinary retention [see Warnings and Precautions (5.5)]
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in patients.
+
+## 6.1 Clinical Trials Experience
+
+The adverse reaction information concerning ATROVENT HFA is derived from two 12-week, double-blind, parallel group studies and one 1-year open-label, parallel group study.
+These studies compared ATROVENT HFA Inhalation Aerosol, ATROVENT CFC Inhalation Aerosol, and placebo (in one study only) in 1010 COPD patients.
+The following table lists the incidence of adverse reactions that occurred at a rate of greater than or equal to 3% in any ipratropium bromide group and greater than placebo in the 12-week study.
+The frequency of corresponding reactions in the 1-year open label study is included for comparison.
+
+TABLE 1 Adverse Reactions (% Patients) in ATROVENT HFA Clinical Trials
 
 |  | Atrovent HFA (N=243) % | Atrovent CFC (N=183) % | Placebo (N=128) % | Atrovent HFA (N=305) % | Atrovent CFC (N=151) % |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo-controlled 12 week Study 244.1405 and Active-controlled 12 week Study 244.1408 |  |  | Active-controlled 1-year Study 244.2453 |  |
-| Total With Any Adverse Event | 63 | 68 | 72 | 91 | 87 |
 | BODY AS A WHOLE - GENERAL DISORDERS |  |  |  |  |  |
 | Back pain | 2 | 3 | 2 | 7 | 3 |
 | Headache | 6 | 9 | 8 | 7 | 5 |
@@ -23,28 +34,30 @@ TABLE 1 Adverse Experiences Reported in ≥ 3% of Patients in any Ipratropium Br
 | RESPIRATORY SYSTEM DISORDERS |  |  |  |  |  |
 | Bronchitis | 10 | 11 | 6 | 23 | 19 |
 | COPD exacerbation | 8 | 14 | 13 | 23 | 23 |
-| Coughing | 3 | 4 | 6 | 5 | 5 |
 | Dyspnea | 8 | 8 | 4 | 7 | 4 |
-| Rhinitis | 4 | 2 | 4 | 6 | 2 |
 | Sinusitis | 1 | 4 | 3 | 11 | 14 |
-| Upper respiratory tract infection | 9 | 10 | 16 | 34 | 34 |
 | URINARY SYSTEM DISORDERS |  |  |  |  |  |
 | Urinary tract infection | 2 | 3 | 1 | 10 | 8 |
 
-In the one open label controlled study in 456 COPD patients, the overall incidence of adverse events was also similar between Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol and Atrovent® (ipratropium bromide) Inhalation Aerosol CFC formulations.
+Cough, rhinitis, and upper respiratory infection occurred in greater than or equal to 3% of patients in either ipratropium treatment group but not greater than placebo in the 12-week study.
 
-Overall, in the above mentioned studies, 9.3% of the patients taking 42 mcg ATROVENT HFA Inhalation Aerosol and 8.7% of the patients taking 42 mcg ATROVENT Inhalation Aerosol CFC reported at least one adverse event that was considered by the investigator to be related to the study drug.
-The most common drug-related adverse events were dry mouth (1.6% of ATROVENT HFA Inhalation Aerosol and 0.9% of ATROVENT Inhalation Aerosol CFC patients), and taste perversion (bitter taste) (0.9% of ATROVENT HFA Inhalation Aerosol and 0.3% of ATROVENT Inhalation Aerosol CFC patients).
+In the one open label controlled study in 456 COPD patients, the overall incidence of adverse events was also similar between ATROVENT HFA and ATROVENT CFC formulations.
 
-As an anticholinergic drug, cases of precipitation or worsening of narrow-angle glaucoma, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, mydriasis, acute eye pain, dry throat, hypotension, palpitations, urinary retention, tachycardia, constipation, bronchospasm, including paradoxical bronchospasm have been reported.
-Additional cases identified for ATROVENT seen in clinical trials include throat irritation, stomatitis, mouth edema, and vision blurred.
+Overall, in the above mentioned studies, 9.3% of the patients taking 42 mcg ATROVENT HFA and 8.7% of the patients taking 42 mcg ATROVENT CFC reported at least one adverse event that was considered by the investigator to be related to the study drug.
+The most common drug-related adverse events were dry mouth (1.6% of ATROVENT HFA and 0.9% of ATROVENT CFC patients), and taste perversion (bitter taste) (0.9% of ATROVENT HFA and 0.3% of ATROVENT CFC patients).
 
-Allergic-type reactions such as skin rash, pruritus, angioedema including that of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported (see CONTRAINDICATIONS).
+As an anticholinergic drug, cases of precipitation or worsening of narrow-angle glaucoma, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, mydriasis, acute eye pain, dry throat, hypotension, palpitations, urinary retention, tachycardia, constipation, bronchospasm, including paradoxical bronchospasm have been reported with the use of ATROVENT.
+Additional adverse reactions identified for ATROVENT seen in clinical trials include throat irritation, stomatitis, mouth edema, and vision blurred.
 
-## Post-Marketing Experience
+Allergic-type reactions such as skin rash, pruritus, angioedema including that of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [see Warnings and Precautions (5.2)].
 
-In a 5-year placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving ATROVENT Inhalation Aerosol CFC.
+## 6.2 Post-Marketing Experience
+
+In a 5-year placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving ATROVENT CFC.
+
+In addition to the adverse reactions reported in the controlled clinical trials, adverse reactions have been identified during post approval use of ATROVENT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Allergic-type reactions such as skin rash, angioedema including that of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported, with positive rechallenge in some cases.
 
-Additionally, urinary retention, mydriasis, gastrointestinal distress (diarrhea, nausea, vomiting), and bronchospasm, including paradoxical bronchospasm, hypersensitivity reactions, intraocular pressure increased, accommodation disorder, heart rate increased, pharyngeal edema, and gastrointestinal motility disorders have been reported during the post-marketing period with use of ATROVENT.
+Additionally, urinary retention, mydriasis, gastrointestinal distress (diarrhea, nausea, vomiting), cough and bronchospasm, including paradoxical bronchospasm, hypersensitivity reactions, intraocular pressure increased, accommodation disorder, heart rate increased, pharyngeal edema, and gastrointestinal motility disorders have been reported during the post-marketing period with use of ATROVENT.

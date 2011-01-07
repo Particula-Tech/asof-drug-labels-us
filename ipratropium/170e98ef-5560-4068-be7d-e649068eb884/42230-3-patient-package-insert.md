@@ -1,80 +1,73 @@
-# Patient's Instructions for Use
+PATIENT INSTRUCTIONS FOR USE
 
 Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol
 
-Read complete instructions carefully before using.
+Read the Patient Instructions for Use before using your ATROVENT HFA and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-Important Points to Remember About Using ATROVENT HFA Inhalation Aerosol
+Use ATROVENT HFA exactly as your healthcare provider tells you to.
+Do not change your dose or how often you use ATROVENT HFA without talking with your healthcare provider.
 
-Although ATROVENT HFA Inhalation Aerosol may taste and feel different when breathed in compared to your Atrovent® (ipratropium bromide) Inhalation Aerosol CFC inhaler, they contain the same medicine.
+Tell your doctor about all the medicines you take.
+ATROVENT HFA may affect the way some other medicines work and some other medicines may affect the way ATROVENT HFA works.
 
-You do not have to shake the ATROVENT HFA Inhalation Aerosol canister before using it.
+Important information about using ATROVENT HFA
 
-ATROVENT HFA Inhalation Aerosol should be "primed" two times before taking the first dose from a new inhaler or when the inhaler has not been used for more than three days.
-To prime, push the canister against the mouthpiece (see Figure 1), allowing the medicine to spray into the air.
-Avoid spraying the medicine into your eyes while priming ATROVENT HFA Inhalation Aerosol.
+- You do not have to shake ATROVENT HFA before using it.
+- ATROVENT HFA should be "primed" 2 times before you use the first dose of a new ATROVENT HFA inhaler or when the inhaler has not been used for more than 3 days.
+  - To prime, push the canister against the mouthpiece (See Figure 1), allowing the medicine to spray into the air.
+  - Do not spray the medicine into your eyes while priming ATROVENT HFA.
 
-Ask your doctor how to use other inhaled medicines with ATROVENT HFA Inhalation Aerosol.
+Instructions for Use:
 
-Use ATROVENT HFA Inhalation Aerosol exactly as prescribed by your doctor.
-Do not change your dose or how often you use ATROVENT HFA Inhalation Aerosol without talking with your doctor.
-Talk to your doctor if you have questions about your medical condition or your treatment.
-
-Instructions
-
-1. Insert the metal canister into the clear end of the mouthpiece (see Figure 1).
+1. Insert the metal canister into the clear end of the mouthpiece (See Figure 1).
    Make sure the canister is fully and firmly inserted into the mouthpiece.
-   The ATROVENT HFA Inhalation Aerosol canister is for use only with the ATROVENT HFA Inhalation Aerosol mouthpiece.
-   Do not use the ATROVENT HFA Inhalation Aerosol canister with other mouthpieces.
-   This mouthpiece should not be used with other inhaled medicines.
+   - The ATROVENT HFA canister is to be used only with the ATROVENT HFA mouthpiece.
+   - Do not use the ATROVENT HFA mouthpiece with other inhaled medicines.
 2. Remove the green protective dust cap.
    If the cap is not on the mouthpiece, make sure there is nothing in the mouthpiece before use.
    For best results, the canister should be at room temperature before use.
 3. Breathe out (exhale) deeply through your mouth.
-   Hold the canister upright as shown in Figure 2, between your thumb and first 2 fingers.
+   Hold the inhaler upright (See Figure 2), between your thumb and first 2 fingers.
    Put the mouthpiece in your mouth and close your lips.
-   Keep your eyes closed so that no medicine will be sprayed into your eyes.
-   Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol can cause blurry vision, narrow-angle glaucoma or worsening of this condition or eye pain if the medicine is sprayed into your eyes.
-4. Breathe in (inhale) slowly through your mouth and at the same time firmly press once on the canister against the mouthpiece as shown in Figure 3.
-   Keep breathing in deeply.
-5. Hold your breath for ten seconds and then remove the mouthpiece from your mouth and breathe out slowly, as in Figure 4.
-   Wait at least 15 seconds and repeat steps 3 to 5 again.
-6. Replace the green protective dust cap after use.
-7. Keep the mouthpiece clean.
-   It is very important to keep the mouthpiece clean.
-   At least once a week, wash the mouthpiece, shake it to remove excess water and let it air dry all the way (see the instructions below).
-   Mouthpiece Cleaning Instructions:Step A. Remove and set aside the canister and dust cap from the mouthpiece (see Figure 1).
-   Step B. Wash the mouthpiece through the top and bottom with warm running water for at least 30 seconds (see Figure 5).
+   - Keep your eyes closed so that no medicine will be sprayed into your eyes.
+     If sprayed into the eyes, ATROVENT HFA can cause blurry vision and other vision abnormalities, eye pain or discomfort, dilated pupils, or narrow-angle glaucoma or worsening of this condition.
+     If any combination of these symptoms develops, you should consult your physician immediately.
+4. Breathe in (inhale) slowly through your mouth and at the same time spray the ATROVENT HFA into your mouth.
+   - To spray ATROVENT HFA firmly press the canister against the mouthpiece 1 time (See Figure 3).
+     Keep breathing in deeply.
+5. Hold your breath for ten seconds and then take the mouthpiece out of your mouth and breathe out slowly (See Figure 4).
+6. Wait at least 15 seconds and repeat steps 3 to 5 again.
+7. Replace the green protective dust cap after use.
+8. Keep the mouthpiece clean.
+   At least once a week, wash the mouthpiece, shake it to remove excess water and let it air dry all the way (see Mouthpiece Cleaning Instructions).
+   Mouthpiece Cleaning Instructions: Step A. Remove and set aside the canister and dust cap from the mouthpiece (See Figure 1).
+   Step B. Wash the mouthpiece through the top and bottom with warm running water for at least 30 seconds (See Figure 5).
    Do not use anything other than water to wash the mouthpiece.
-   Step C. Dry the mouthpiece by shaking off the excess water and allow it to air-dry all the way.
+   Step C. Dry the mouthpiece by shaking off the excess water and allow it to air dry all the way.
    Step D. When the mouthpiece is dry, replace the canister.
    Make sure the canister is fully and firmly inserted into the mouthpiece.
    Step E. Replace the green protective dust cap.
-   If the mouthpiece becomes blocked, and little or no medicine comes out of the mouthpiece, wash the mouthpiece as described in Steps A to E under the “Mouthpiece Cleaning Instructions”.
-8. Keep track of the number of sprays used.
-   Discard the canister after 200 sprays.
+   If little or no medicine comes out of the mouthpiece, wash the mouthpiece as described in Steps A to E under the “Mouthpiece Cleaning Instructions”.
+9. Keep track of the number of sprays used.
+   Throw away the inhaler after 200 sprays.
    Even though the canister is not empty, you cannot be sure of the amount of medicine in each spray after 200 sprays.
 
 This product does not contain any chlorofluorocarbon (CFC) propellants.
 
-The contents of Atrovent® HFA (ipratropium bromide HFA) Inhalation Aerosol are under pressure.
+The contents of ATROVENT HFA are under pressure.
 Do not puncture the canister.
 Do not use or store near heat or open flame.
 Exposure to temperatures above 120°F may cause bursting.
 Never throw the container into a fire or incinerator.
 
-Keep ATROVENT HFA Inhalation Aerosol and all medicines out of the reach of children.
-
-Avoid spraying into eyes.
+Keep ATROVENT HFA and all medicines out of the reach of children.
 
 Address medical inquiries to: http://us.boehringer-ingelheim.com, (800) 542-6257 or (800) 459-9906 TTY.
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
-For best results, store the canister at room temperature before use.
-
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Licensed from: Boehringer Ingelheim International GmbH
+Store ATROVENT HFA at Room Temperature [77°F (25°C)].
+Short-term exposure to higher or lower temperatures [from 59°F (15°C) to 86°F (30°C)] is acceptable.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -82,6 +75,6 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: July 2010
+IT1902FA012010 10003001/07
 
-IT1902GG1710 10003001/06
+Revised: December 2010

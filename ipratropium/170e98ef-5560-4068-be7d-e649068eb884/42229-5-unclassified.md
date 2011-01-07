@@ -1,5 +1,7 @@
-ATTENTION PHARMACIST: Detach "Patient's Instructions for Use" from package insert and dispense with the product.
+Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-For Oral Inhalation Only
+Licensed from: Boehringer Ingelheim International GmbH
 
-Prescribing Information
+Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+
+IT1902FA012010 10003001/07

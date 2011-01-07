@@ -1,4 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-ATROVENT HFA Inhalation Aerosol is contraindicated in patients with a history of hypersensitivity to ipratropium bromide or other ATROVENT HFA Inhalation Aerosol components.
-ATROVENT HFA Inhalation Aerosol is also contraindicated in patients who are hypersensitive to atropine or its derivatives.
+ATROVENT HFA is contraindicated in the following conditions [see Warnings and Precautions (5.2)].
+
+- Hypersensitivity to ipratropium bromide or other ATROVENT HFA components
+- Hypersensitivity to atropine or any of its derivatives
