@@ -1,6 +1,7 @@
 # OVERDOSAGE
 
-(See also ADVERSE REACTIONS) SYMPTOMS--Primarily involvement of the extrapyramidal mechanism producing some of the dystonic reactions described above.
+(See also ADVERSE REACTIONS.)
+SYMPTOMS--Primarily involvement of the extrapyramidal mechanism producing some of the dystonic reactions described above.
 Symptoms of central nervous system depression to the point of somnolence or coma.
 Agitation and restlessness may also occur.
 Other possible manifestations include convulsions, EKG changes and cardiac arrhythmias, fever and autonomic reactions such as hypotension, dry mouth and ileus.

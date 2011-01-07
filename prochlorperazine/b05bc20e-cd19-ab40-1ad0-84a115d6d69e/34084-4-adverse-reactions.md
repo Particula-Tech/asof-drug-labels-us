@@ -17,7 +17,7 @@ Depending on the severity of symptoms, dosage should be reduced or discontinued.
 If therapy is reinstituted, it should be at a lower dosage.
 Should these symptoms occur in children or pregnant patients, the drug should be stopped and not reinstituted.
 In most cases barbiturates by suitable route of administration will suffice.
-(Or, injectable Benadryl®¶ may be useful).
+(Or, injectable Benadryl®ll may be useful).
 In more severe cases, the administration of an anti-parkinsonism agent, except levodopa (See PDR), usually produces rapid reversal of symptoms.
 Suitable supportive measures such as maintaining a clear airway and adequate hydration should be employed.
 
