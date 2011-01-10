@@ -265,9 +265,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a Whole: Polyserositis
 
-Cardiovascular: Pulmonary hypertension, RPLS
+Cardiovascular: Pulmonary hypertension, RPLS, Mesenteric venous occlusion
 
-Digestive: Intestinal necrosis, mesenteric venous occlusion, anastomotic ulceration
+Eye disorders (reported from unapproved use for treatment of various ocular disorders): Endophthalmitis; Intraocular inflammation such as iritis and vitritis; Retinal detachment; Other retinal disorders; Increased intraocular pressure; Hemorrhage following intraocular injection including conjunctival, vitreous hemorrhage or retinal hemorrhage; Vitreous floaters; Visual disturbances; Ocular hyperemia; Ocular pain and/or discomfort
+
+Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
 Hemic and lymphatic: Pancytopenia
 
