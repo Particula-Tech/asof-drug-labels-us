@@ -18,6 +18,8 @@ Postmarketing reports of hypersensitivity reactions, including urticaria (hives)
 Similar events were reported with sucralfate suspension.
 However, a causal relationship has not been established.
 
+Cases of hyperglycemia have been reported with sucralfate
+
 Bezoars have been reported in patients treated with sucralfate.
 The majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving concomitant enteral tube feedings.
 

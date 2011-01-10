@@ -3,6 +3,10 @@
 Duodenal ulcer is a chronic, recurrent disease.
 While short-term treatment with sucralfate can result in complete healing of the ulcer, a successful course of treatment with sucralfate should not be expected to alter the posthealing frequency or severity of duodenal ulceration.
 
+Episodes of hyperglycemia have been reported in diabetic patients.
+Close monitoring of glycemia in diabetic patients treated with sucralfate suspension is recommended.
+Adjustment of the anti-diabetic treatment dose during the use of sucralfate suspension might be necessary.
+
 ## Special Populations: Chronic Renal Failure and Dialysis Patients
 
 When sucralfate is administered orally, small amounts of aluminum are absorbed from the gastrointestinal tract.
@@ -48,3 +52,13 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
+## Geriatric Use
+
+Clinical studies of CARAFATE Suspension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+(See DOSAGE AND ADMINISTRATION)
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+(See PRECAUTIONS Special Populations: Chronic Renal Failure and Dialysis Patients) Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

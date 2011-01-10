@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "sucralfate",
-  "labeler": "Axcan Scandipharm Inc.",
-  "package_ndcs": [
-    "58914-170-14"
+  "application_numbers": [
+    "NDA019183"
   ],
-  "products": [],
+  "inn": "sucralfate",
+  "labeler": "Axcan Pharma Inc.",
+  "package_ndcs": [
+    "58914-170-14",
+    "58914-170-60"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sucralfate",
+      "name": "Carafate"
+    }
+  ],
   "setid": "0fb67b1c-b4c0-46f2-8a81-df1510e006aa",
   "source": "dailymed"
 }

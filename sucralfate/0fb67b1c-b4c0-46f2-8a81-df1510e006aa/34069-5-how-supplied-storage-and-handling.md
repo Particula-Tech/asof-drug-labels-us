@@ -3,17 +3,20 @@
 CARAFATE (sucralfate) Suspension 1 g/10 mL is a pink suspension supplied in bottles of 14 fl oz (NDC 58914-170-14).
 
 SHAKE WELL BEFORE USING.
+AVOID FREEZING.
 
 Store at controlled room temperature 20-25°C (68-77°F)[see USP].
 
 Rx Only
 
-Prescribing Information as of April 2004
+Prescribing Information as of December 2010
 
-Axcan Scandipharm Inc.
+Axcan Pharma US, Inc.
 
 22 Inverness Center Parkway
 
 Birmingham, AL 35242
+
+USA
 
 www.axcan.com
