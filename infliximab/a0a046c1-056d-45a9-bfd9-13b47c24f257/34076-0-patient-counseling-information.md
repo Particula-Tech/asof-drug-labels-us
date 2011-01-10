@@ -14,6 +14,6 @@ It is important that the patient's overall health be assessed at each treatment 
 
 Product developed and manufactured by: Centocor Ortho Biotech Inc. 200 Great Valley Parkway Malvern, PA 19355 License # 1821
 
-Revised October 2010 ©Centocor Ortho Biotech Inc. 2010
+©Centocor Ortho Biotech Inc. 2010
 
 ## 17.2 Medication Guide

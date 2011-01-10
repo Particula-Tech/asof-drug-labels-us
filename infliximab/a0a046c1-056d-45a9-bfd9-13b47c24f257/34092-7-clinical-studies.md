@@ -104,7 +104,7 @@ Table 4 Response and remission in study peds Crohn's
 |  | Every 8 Week | Every 12 Week |
 | Patients randomized | 52 | 51 |
 | Clinical ResponseDefined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. |  |  |
-| Week 30 | 73%P-<0.01 | 47% |
+| Week 30 | 73%P-value <0.01 | 47% |
 | Week 54 | 64% | 33% |
 | Clinical RemissionDefined as a PCDAI score of ≤10 points. |  |  |
 | Week 30 | 60%P-value <0.05 | 35% |
@@ -140,11 +140,11 @@ Table 5 Response, remission and mucosal healing in ulcerative colitis studies
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study UC I |  |  | Study UC II |  |  |
 | Patients randomized | 121 | 121 | 122 | 123 | 121 | 120 |
-| Clinical ResponseDefined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1. (The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings.),Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward. |  |  |  |  |  |  |
+| Clinical ResponseDefined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1. (The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings.), Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward. |  |  |  |  |  |  |
 | Week 8 | 37% | 69%P<0.001 | 62% | 29% | 65% | 69% |
 | Week 30 | 30% | 52% | 51%P<0.01 | 26% | 47% | 60% |
 | Week 54 | 20% | 45% | 44% | NA | NA | NA |
-| Sustained Responsed |  |  |  |  |  |  |
+| Sustained Response |  |  |  |  |  |  |
 | (Clinical response at both Week 8 and 30) | 23% | 49% | 46% | 15% | 41% | 53% |
 | (Clinical response at Weeks 8, 30, and 54) | 14% | 39% | 37% | NA | NA | NA |
 | Clinical RemissionDefined as a Mayo score ≤2 points, no individual subscore >1., |  |  |  |  |  |  |

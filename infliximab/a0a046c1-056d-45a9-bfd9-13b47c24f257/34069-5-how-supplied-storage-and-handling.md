@@ -7,7 +7,7 @@ REMICADE is supplied in an accumulator carton containing 10 vials.
 
 Each single dose vial contains 100 mg of infliximab for final reconstitution volume of 10 mL.
 
-## Storage and Stability
+Storage and Stability
 
 REMICADE must be refrigerated at 2ºC to 8ºC (36ºF to 46ºF).
 Do not use REMICADE beyond the expiration date (Exp) located on the carton and the vial.

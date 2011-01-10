@@ -16,12 +16,18 @@ Serious infusion reactions occurred in <1% of patients and included anaphylaxis,
 Approximately 3% of patients discontinued REMICADE because of infusion reactions, and all patients recovered with treatment and/or discontinuation of the infusion.
 REMICADE infusions beyond the initial infusion were not associated with a higher incidence of reactions.
 The infusion reaction rates remained stable in psoriasis through 1 year in psoriasis Study I. In psoriasis Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
-Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e. an adverse event occurring within 1 to 2 hours) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
+Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 to 2 hours) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
 Patients who became positive for antibodies to infliximab were more likely (approximately two- to three-fold) to have an infusion reaction than were those who were negative.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.1) and Drug Interactions (7.3)].
 
-In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
+Infusion reactions following re-administration
+
+In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of REMICADE following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus < 1% (1/222) in the maintenance therapy arm.
+Patients enrolled in this trial did not receive any concomitant immunosuppressant therapy.
+In this study, the majority of serious infusion reactions occurred during the second infusion at Week 2.
+Symptoms included, but were not limited to, dyspnea, urticaria, facial edema, and hypotension.
+In all cases, REMICADE treatment was discontinued and/or other treatment instituted with complete resolution of signs and symptoms.
 
 Delayed Reactions/Reactions Following Re-administration
 
@@ -234,8 +240,18 @@ Other serious, medically relevant adverse reactions ≥0.2% or clinically signif
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic events have also been observed) [see Warnings and Precautions (5.8)] and acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
+Adverse reactions have been reported during post approval use of REMICADE in adult and pediatric patients.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to REMICADE exposure.
+
+The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic events have also been observed) [see Warnings and Precautions (5.8)] and acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
+
+Infusion-related Reactions
+
+In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
+
+Cases of myocardial ischemia/infarction and transient visual loss have also been rarely reported in association with REMICADE during or within 2 hours of infusion.
+
+Adverse Reactions in Pediatric Patients
 
 The following serious adverse reactions have been reported in the post-marketing experience in children: infections (some fatal) including opportunistic infections and tuberculosis, infusion reactions, and hypersensitivity reactions.
 

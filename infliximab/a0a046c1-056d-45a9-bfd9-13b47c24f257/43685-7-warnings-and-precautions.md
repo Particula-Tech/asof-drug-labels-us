@@ -130,6 +130,10 @@ These reactions were associated with a marked increase in antibodies to inflixim
 REMICADE should be discontinued for severe hypersensitivity reactions.
 Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen, antihistamines, corticosteroids and/or epinephrine) should be available for immediate use in the event of a reaction [see Adverse Reactions (6.1)].
 
+In rheumatoid arthritis, Crohn's disease and psoriasis clinical trials, re-administration of REMICADE after a period of no treatment resulted in a higher incidence of infusion reactions relative to regular maintenance treatment [see Adverse Reactions (6.1)].
+In general, the benefit-risk of re-administration of REMICADE after a period of no-treatment, especially as a re-induction regimen given at weeks 0, 2 and 6, should be carefully considered.
+In the case where REMICADE maintenance therapy for psoriasis is interrupted, REMICADE should be reinitiated as a single dose followed by maintenance therapy.
+
 ## 5.8 Neurologic Events
 
 REMICADE and other agents that inhibit TNF have been associated in rare cases with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
