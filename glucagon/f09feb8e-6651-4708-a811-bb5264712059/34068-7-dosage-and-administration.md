@@ -1,50 +1,47 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Directions for treatment of severe hypoglycemia:
+## 2.1 Treatment of severe hypoglycemia
 
-Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing GlucaGen® powder and inject all the liquid from the syringe into the vial.
-Roll the vial gently until powder is completely dissolved and no particles remain in the fluid.
+1. Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing GlucaGen powder and inject all the liquid from the syringe into the vial.
+2. Shake the vial gently until the powder is completely dissolved and no particles remain in the fluid.
+   The reconstituted fluid should be clear and of water-like consistency.
+3. The reconstituted GlucaGen gives a concentration of approximately 1 mg/mL glucagon.
+4. The reconstituted GlucaGen should be used immediately after reconstitution.
+5. Inject 1 mL (adults and children, weighing more than 55 lbs (25 kg)) or 0.5 mL (children weighing less than 55 lbs (25 kg)) subcutaneously, intramuscularly, or intravenously.
+   If the weight is not known: children younger than 6 years should be given a 0.5 mL and children 6 years and older should be given 1 mL.
+6. Discard any unused portion.
+7. Emergency assistance should be sought immediately after subcutaneous or intramuscular injection of glucagon.
+8. The glucagon injection may be repeated using a new kit while waiting for emergency assistance.
+9. Intravenous glucose MUST be administered if the patient fails to respond to glucagon.
+10. When the patient has responded to the treatment, give oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
+
+## 2.2 Use as a diagnostic aid
+
+1.
+GlucaGen should be reconstituted with 1 mL of Sterile Water for Reconstitution (if supplied) or 1 mL of Sterile Water for Injection, USP.
+Using a syringe, withdraw all of the Sterile Water for Reconstitution (if supplied) or 1 mL Sterile Water for Injection, USP and inject into the GlucaGen vial.
+
+2.
+Shake the vial gently until the powder is completely dissolved and no particles remain in the fluid.
 The reconstituted fluid should be clear and of water-like consistency.
-The reconstituted GlucaGen® gives a concentration of approximately 1 mg/ml glucagon.
-The reconstituted GlucaGen® should be used immediately after reconstitution.
+
+3.
+The reconstituted GlucaGen gives a concentration of approximately 1 mg/mL glucagon.
+
+4.
+The reconstituted GlucaGen should be used immediately after reconstitution.
+
+5.
+GlucaGen must be administered by medical personnel.
+
+6.
 Discard any unused portion.
-Inject 1 ml (adults and children, weighing more than 55 lbs) or ½ ml (children weighing less than 55 lbs) subcutaneously (s.c), intramuscularly (i.m), or intravenously (i.v).
-If the weight is not known: Children younger than 6 to 8 years should be given half dose (=½ ml) and children older than 6 to 8 should be given the adult dose (1ml).1,2,3,4,5,6 Emergency assistance should be sought if the patient fails to respond within 15 minutes after subcutaneous or intramuscular injection of glucagon.
-The glucagon injection may be repeated while waiting for emergency assistance.1 Intravenous glucose MUST be administered if the patient fails to respond to glucagon.
-When the patient has responded to the treatment, give oral carbohydrate to restore the liver glycogen and prevent recurrence of hypoglycemia.
 
-Directions for use as a diagnostic aid:
+7.
+Onset of action after an injection will depend on the organ under examination and route of administration [see Pharmacodynamics (12.2)].
 
-GlucaGen® should be reconstituted with the supplied 1 ml of Sterile Water for Reconstitution (if supplied) or 1 ml Sterile Water for Injection, USP.
-Using a syringe, withdraw all of the Sterile Water for Reconstitution (if supplied) or 1 ml Sterile Water for Injection, USP and inject into the GlucaGen® vial.
-Roll the vial gently until powder is completely dissolved and no particles remain in the fluid.
-The reconstituted fluid should be clear and of water-like consistency.
-The reconstituted GlucaGen® gives a concentration of approximately 1 mg/ml glucagon.
-The reconstituted GlucaGen® should be used immediately after reconstitution.
-Discard any unused portion.
-When the diagnostic procedure is over, give oral carbohydrate to restore the liver glycogen and prevent occurrence of secondary hypoglycemia.
+8.
+The usual diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum, and small bowel is 0.2 mg to 0.5 mg given intravenously or 1 mg given intramuscularly; the usual dose to relax the colon is 0.5 mg to 0.75 mg intravenously and 1 mg to 2 mg intramuscularly [see Pharmacodynamics (12.2)].
 
-References for diagnostic aid use only:
-
-| Time of maximal glucose concentration | Time for GI smooth muscle relaxation1 |
-| --- | --- |
-| Intravenous: 5 to 20 minutes | Intravenous: 0.25 to 2 mg (IU) - 45 seconds |
-| Intramuscular: 30 minutes Subcutaneous: 30 to 45 minutes | Intramuscular: 1 mg (IU) - 8 to 10 minutes2 mg (IU) - 4 to 7 minutes |
-
-Duration of action -
-
-Hyperglycemic action - 60 to 90 minutes
-
-Smooth muscle relaxation -1
-
-Intravenous:
-
-0.25 to 0.5 mg (IU) - 9 to 17 minutes
-
-2 mg (IU) - 22 to 25 minutes
-
-Intramuscular:
-
-1 mg (IU) - 12 to 27 minutes
-
-2 mg (IU) - 21 to 32 minutes
+9.
+After the end of the diagnostic procedure, give oral carbohydrates to patients who have been fasting, if this is compatible with the diagnostic procedure applied.

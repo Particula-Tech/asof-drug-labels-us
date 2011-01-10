@@ -1,3 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Glucagon is contraindicated in patients with known hypersensitivity to glucagon or any constituent in GlucaGen® and in patients with pheochromocytoma or with insulinoma.
+GlucaGen is contraindicated in patients with:
+
+- Known hypersensitivity to glucagon, lactose or any other constituent in GlucaGen
+- Pheochromocytoma [see Warnings and Precautions (5.1)]
+- Insulinoma [see Warnings and Precautions (5.2)]
