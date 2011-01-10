@@ -57,7 +57,7 @@ Note: Sudden death, apparently due to cardiac arrest, has been reported.
 
 ### Neuromuscular (Extrapyramidal) Reactions
 
-Neuromuscular reactions include dystonias, motor restlessness, pseudo-parkinsonism and tardive dyskinesia, and appear to be dose-related.
+Neuromuscular reactions include dystonia, motor restlessness, pseudo-parkinsonism and tardive dyskinesia, and appear to be dose-related.
 They are discussed in the following paragraphs:
 
 #### Dystonia

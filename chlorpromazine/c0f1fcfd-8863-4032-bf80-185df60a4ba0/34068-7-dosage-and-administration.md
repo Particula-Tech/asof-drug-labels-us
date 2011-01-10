@@ -8,7 +8,7 @@ Dosage should be increased more gradually in debilitated or emaciated patients.
 In continued therapy, gradually reduce dosage to the lowest effective maintenance level, after symptoms have been controlled for a reasonable period.
 
 Increase parenteral dosage only if hypotension has not occurred.
-Before using IM, see Important Notes on Injection.
+Before using IM, see Important Notes On Injection.
 
 ### Elderly Patients
 
@@ -54,17 +54,17 @@ Dilute to 1 mg/mL, i.e., 1 mL (25 mg) mixed with 24 mL of saline.
 
 ### Presurgical Apprehension
 
-IM:12.5 to 25 mg (0.5-1 mL), 1 to 2 hours before operation.
+IM: 12.5 to 25 mg (0.5-1 mL), 1 to 2 hours before operation.
 
 ### Intractable Hiccups
 
 If symptoms persist for 2-3 days after trial with oral therapy, give 25 to 50 mg (1-2 mL) IM.
-Should symptoms persist, useslow IV infusion with patient flat in bed:25 to 50 mg (1-2 mL) in 500 to 1000 mL of saline.
+Should symptoms persist, use slow IV infusion with patient flat in bed: 25 to 50 mg (1-2 mL) in 500 to 1000 mL of saline.
 Follow blood pressure closely.
 
 ### Acute Intermittent Porphyria
 
-IM:25 mg (1 mL) tid or qid until patient can take oral therapy.
+IM: 25 mg (1 mL) tid or qid until patient can take oral therapy.
 
 ### Tetanus
 
@@ -82,7 +82,8 @@ It should not be used in conditions for which specific pediatric dosages have no
 
 #### Outpatients
 
-Select route of administration according to severity of patient’s condition and increase dosage gradually as required.IM: 1/4 mg/lb body weight q6-8h, prn.
+Select route of administration according to severity of patient’s condition and increase dosage gradually as required.
+IM: 1/4 mg/lb body weight q6-8h, prn.
 
 #### Hospitalized Patients
 

@@ -33,7 +33,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONSand ADVERSE REACTIONS.
+For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS and ADVERSE REACTIONS.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -63,6 +63,16 @@ Therefore, caution patients about activities requiring alertness (e.g., operatin
 The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
 
 Chlorpromazine may counteract the antihypertensive effect of guanethidine and related compounds.
+
+## Pregnancy
+
+### Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Chlorpromazine Hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Usage in Pregnancy
 
