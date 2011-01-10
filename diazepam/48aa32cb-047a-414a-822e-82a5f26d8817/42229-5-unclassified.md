@@ -117,7 +117,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-Category D (seeWARNINGS, Pregnancy).
+Category D (see WARNINGS, Pregnancy).
 
 ## Pediatric Use
 
@@ -236,35 +236,32 @@ In such cases dosage should be increased cautiously to avoid adverse effects.
 | ADULTS: | USUAL DAILY DOSE |
 | --- | --- |
 | Management of Anxiety Disorders and Relief of Symptoms of Anxiety | Depending upon severity of symptoms – 2 mg to 10 mg, 2 to 4 times daily |
-| Symptomatic Relief in Acute Alcohol Withdrawal | 10 mg, 3 or 4 times during the first 24 hours, reducing to 5 mg, 3 or 4 times daily as needed. |
+| Symptomatic Relief in Acute Alcohol Withdrawal | 10 mg, 3 or 4 times during the first 24 hours, reducing to 5 mg, 3 or 4 times daily as needed |
 | Adjunctively for Relief of Skeletal Muscle Spasm | 2 mg to 10 mg, 3 or 4 times daily |
 | Adjunctively in Convulsive Disorders | 2 mg to 10 mg, 2 to 4 times daily |
-| Geriatric Patients, or in the presence of debilitating disease | 2 mg to 2.5 mg, 1 or 2 times daily initially; increase gradually as needed and tolerated. |
+| Geriatric Patients, or in the presence of debilitating disease | 2 mg to 2.5 mg, 1 or 2 times daily initially; increase gradually as needed and tolerated |
 | PEDIATRIC PATIENTS: |  |
-| Because of varied responses to CNS-acting drugs, initiate therapy with lowest dose and increase as required. Not for use in pediatric patients under 6 months. | 1 mg to 2.5 mg, 3 or 4 times daily initially; increase gradually as needed and tolerated. |
+| Because of varied responses to CNS-acting drugs, initiate therapy with lowest dose and increase as required. Not for use in pediatric patients under 6 months. | 1 mg to 2.5 mg, 3 or 4 times daily initially; increase gradually as needed and tolerated |
 
 # HOW SUPPLIED
 
-Diazepam Tablets USP, 2 mg are available as white, round, flat faced, beveled edge tablets, debossed “Z” and “3925” with a bisect on one side and “2” on the other side containing 2 mg diazepam USP, packaged in bottles of 100 and 500 tablets.
+Diazepam Tablets USP, 2 mg are available as white, round, flat face, beveled edge tablets, debossed “3925” and bisected on one side and “TEVA” on the other side, containing 2 mg of diazepam USP, packaged in bottles of 100 and 500 tablets.
 
-Diazepam Tablets USP, 5 mg are available as yellow, round, flat faced, beveled edge tablets, debossed “Z” and “3926” with a bisect on one side and “5” on the other side containing 5 mg diazepam USP packaged in bottles of 100 and 500 tablets.
+Diazepam Tablets USP, 5 mg are available as yellow, round, flat face, beveled edge tablets, debossed “3926” and bisected on one side and “TEVA” on the other side, containing 5 mg of diazepam USP packaged in bottles of 100, 500, and 1000 tablets.
 
-Diazepam Tablets USP, 10 mg are available as light blue, round, flat faced, beveled edge tablets,
+Diazepam Tablets USP, 10 mg are available as light blue, round, flat face, beveled edge tablets,
 
-debossed “Z” and “3927” on one side and “10” on the other side, containing 10 mg diazepam USP, packaged in bottles of 100 and 500 tablets.
+debossed “3927” and bisected on one side and “TEVA” on the other side, containing 10 mg of diazepam USP, packaged in bottles of 100, 500, and 1000 tablets.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Iss.
-2/2009
+Manufactured In Czech Republic By:
 
-Manufactured In Ireland By:
+TEVA CZECH INDUSTRIES s.r.o.
 
-IVAX PHARMACEUTICALS IRELAND
-
-Waterford, Ireland
+Opava-Komarov, Czech Republic
 
 Manufactured For:
 
@@ -272,4 +269,5 @@ TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-DIAZEPAM TABLETS USP
+Rev.
+A 3/2010
