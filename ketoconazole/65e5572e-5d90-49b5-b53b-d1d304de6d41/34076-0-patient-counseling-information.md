@@ -1,9 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
-(17.2)
-
-## 17.1 Information for Patients
+[See FDA-Approved Patient Labeling (Patient Information)]
 
 - This medication is to be used as directed by the health care provider.
   It is for external use only.
@@ -13,4 +10,4 @@ See FDA-Approved Patient Labeling.
 - This medication should not be used for any disorder other than that for which it has been prescribed.
 - Patients should report any signs of adverse reactions to their health care provider.
 
-## 17.2 Patient Package Insert
+XGL:2PI

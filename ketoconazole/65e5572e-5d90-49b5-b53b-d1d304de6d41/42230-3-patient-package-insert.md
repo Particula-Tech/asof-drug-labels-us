@@ -17,7 +17,7 @@ Patients with seborrheic dermatitis can have areas of dry, flaky skin on the sca
 XOLEGEL is only to be used in adults and in children older than 12 years of age who have a normal (healthy) immune system.
 XOLEGEL has not been studied in children below the age of 12.
 
-It is not know whether XOLEGEL can be used to treat fungal infections.
+It is not known whether XOLEGEL can be used to treat fungal infections.
 
 XOLEGEL is a translucent to clear, amber colored gel.
 
@@ -25,10 +25,10 @@ What should I tell my health care provider before using XOLEGEL?
 
 - Tell your health care provider about all of your medical conditions, including if you are pregnant or planning to become pregnant, or are breastfeeding or planning to breastfeed.
   XOLEGEL should be used during pregnancy and breastfeeding only if needed.
-- Tell your health care provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-  Keep a list of your medicines and show it to your health care provider and pharmacist.
-  Tell your health care provider and pharmacist when you get a new medicine.
-  It is not known if XOLEGEL and other medicines can interact with each other.
+  - Tell your health care provider about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+    Keep a list of your medicines and show it to your health care provider and pharmacist.
+    Tell your health care provider and pharmacist when you get a new medicine.
+    It is not known if XOLEGEL and other medicines can interact with each other.
 
 How should I use XOLEGEL?
 
@@ -56,7 +56,7 @@ What should I avoid while using XOLEGEL?
 What are the possible side effects of XOLEGEL?
 
 - The effects of XOLEGEL during pregnancy, including whether XOLOGEL can harm your unborn baby, are not known.
-- It is not know if XOLEGEL can pass into your breastmilk or if it can harm your breastfed baby.
+- It is not known if XOLEGEL can pass into your breastmilk or if it can harm your breastfed baby.
 - Stop using XOLEGEL and talk to your health care provider if you develop itching, a rash, or any skin irritation after using XOLEGEL.
 - Stop using XOLEGEL and talk to your health care provider if your skin condition (seborrheic dermatitis) gets worse.
 - The most common side effect is a burning feeling where XOLEGEL is applied.
@@ -106,24 +106,12 @@ FOR:
 
 Stiefel Laboratories, Inc.
 
-255 Alhambra Circle
+Research Triangle Park, NC 27709
 
-Coral Gables, FL 33134
+Revised 11/2010
 
-US Patent Number 7,179,475 and application 10,722,134 (Patent Pending)
-
-Revised January 2010
-
-XGL:1PI
-
-SAP
-
-FG No
-
-P/N
+XGL:2PI
 
 XOLEGEL, STIEFEL, and STIEFEL & Design are registered trademarks of Stiefel Laboratories, Inc.
 
 © 2010 Stiefel Laboratories, Inc.
-
-STIEFEL®

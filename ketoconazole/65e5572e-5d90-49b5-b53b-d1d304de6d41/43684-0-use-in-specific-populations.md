@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Category C:
 
 There are no adequate and well controlled trials in pregnant women.
 XOLEGEL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
