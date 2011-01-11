@@ -121,8 +121,7 @@ Because these reactions were reported voluntarily from a population of unknown s
 
 Immune system disorders: Anaphylactoid reaction.
 
-Metabolism and nutrition disorders: Lactic acidosis has been reported, often in association with hepatic decompensation, other serious medical conditions, or drug exposures.
-Patients with decompensated liver disease may be at higher risk for lactic acidosis.
+Metabolism and nutrition disorders: Lactic acidosis.
 
 Hepatobiliary disorders: Increased transaminases.
 
