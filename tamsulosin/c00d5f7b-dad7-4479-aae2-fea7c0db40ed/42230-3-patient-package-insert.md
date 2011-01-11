@@ -28,9 +28,10 @@ Tell your doctor about all the medicines you take, including:
 
 - any prescription medicines, including blood pressure medicines.
 - any non-prescription medicines, including vitamins and herbal supplements.
-  Some of your other medicines may affect the way FLOMAX capsules work.
-  Especially tell your doctor if you take a medicine for high blood pressure.
-  You should not take FLOMAX if you are already taking certain blood pressure medicines.
+
+Some of your other medicines may affect the way FLOMAX capsules work.
+Especially tell your doctor if you take a medicine for high blood pressure.
+You should not take FLOMAX if you are already taking certain blood pressure medicines.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
@@ -60,12 +61,14 @@ Possible side effects of FLOMAX may include:
   - lightheadedness
 - Allergic reactions.
   Make your doctor aware of any allergic reactions you may experience while taking FLOMAX.
-  Allergic reactions may include: Rare and more serious allergic reactions may also include: Get medical help right away if you have swelling of the face, tongue or throat, or difficulty breathing.
+  Allergic reactions may include: Rare and more serious allergic reactions may also occur.
+  Get medical help right away if you have any of the following reactions:
   - rash
   - itching
   - hives
   - swelling of face, tongue, or throat
   - difficulty breathing
+  - blistering of the skin
 - A painful erection that will not go away.
   FLOMAX capsules can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
@@ -123,10 +126,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Flomax is a registered trademark of, and licensed from: Astellas Pharma Inc. Tokyo 103-8411, JAPAN
 
-©Copyright 2010, ALL RIGHTS RESERVED
+Copyright 2011, ALL RIGHTS RESERVED
 
-IT8004RG1610 PRT71
+IT8004SK232010 PRT78
 
-Printed in USA
-
-Rev: July 2010
+Revised: January 2011
