@@ -1,4 +1,4 @@
-Revised April 2010
+Revised December 2010
 
 Risperidone Tablets are manufactured by: JOLLC, Gurabo, Puerto Rico 00778
 

@@ -4,9 +4,9 @@
 
 ### Pregnancy Category C.
 
-The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63–10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) and in one Segment II study in New Zealand rabbits (0.31-5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 basis).
+The teratogenic potential of risperidone was studied in three Segment II studies in Sprague-Dawley and Wistar rats (0.63–10 mg/kg or 0.4 to 6 times the maximum recommended human dose [MRHD] on a mg/m2 basis) and in one Segment II study in New Zealand rabbits (0.31–5 mg/kg or 0.4 to 6 times the MRHD on a mg/m2 basis).
 The incidence of malformations was not increased compared to control in offspring of rats or rabbits given 0.4 to 6 times the MRHD on a mg/m2 basis.
-In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16-5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 basis.
+In three reproductive studies in rats (two Segment III and a multigenerational study), there was an increase in pup deaths during the first 4 days of lactation at doses of 0.16–5 mg/kg or 0.1 to 3 times the MRHD on a mg/m2 basis.
 It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams.
 
 There was no no-effect dose for increased rat pup mortality.
@@ -20,7 +20,12 @@ Placental transfer of risperidone occurs in rat pups.
 There are no adequate and well-controlled studies in pregnant women.
 However, there was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
 The causal relationship to risperidone therapy is unknown.
-Reversible extrapyramidal symptoms in the neonate were observed following postmarketing use of risperidone during the last trimester of pregnancy.
+
+### Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 Risperidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -65,7 +70,7 @@ In long-term, open-label trials (studies in patients with autistic disorder or o
 The majority of that increase occurred within the first 6 months of exposure to risperidone.
 The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
 
-In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90 kg in the risperidone 0.5-2.5 mg group, 1.44 kg in the risperidone 3-6 mg group, and 0.65 kg in the placebo group).
+In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90 kg in the risperidone 0.5–2.5 mg group, 1.44 kg in the risperidone 3–6 mg group, and 0.65 kg in the placebo group).
 A similar trend was observed in the mean change from baseline in body mass index.
 
 When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.

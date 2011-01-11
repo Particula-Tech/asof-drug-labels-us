@@ -34,13 +34,13 @@ Pediatrics
 The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13–17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
 All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
 In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone 1–3 mg/day (n = 55, mean modal dose = 2.6 mg), risperidone 4–6 mg/day (n = 51, mean modal dose = 5.3 mg), or placebo (n = 54).
-In the second trial (study #2), patients were randomized to either risperidone 0.15-0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or risperidone 1.5–6 mg/day (n = 125, mean modal dose = 4 mg).
+In the second trial (study #2), patients were randomized to either risperidone 0.15–0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or risperidone 1.5–6 mg/day (n = 125, mean modal dose = 4 mg).
 In all cases, study medication was initiated at 0.5 mg/day (with the exception of the 0.15–0.6 mg/day group in study #2, where the initial dose was 0.05 mg/day) and titrated to the target dosage range by approximately Day 7.
 Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
 The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
 
-Results of the studies demonstrated efficacy of risperidone in all dose groups from 1-6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
-The efficacy on the primary parameter in the 1–3 mg/day group was comparable to the 4-6 mg/day group in study #1, and similar to the efficacy demonstrated in the 1.5–6 mg/day group in study #2.
+Results of the studies demonstrated efficacy of risperidone in all dose groups from 1–6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
+The efficacy on the primary parameter in the 1–3 mg/day group was comparable to the 4–6 mg/day group in study #1, and similar to the efficacy demonstrated in the 1.5–6 mg/day group in study #2.
 In study #2, the efficacy in the 1.5–6 mg/day group was statistically significantly greater than that in the 0.15–0.6 mg/day group.
 Doses higher than 3 mg/day did not reveal any trend towards greater efficacy.
 
@@ -56,7 +56,7 @@ The primary outcome in these trials was change from baseline in the YMRS total s
 The results of the trials follow:
 
 - (1)In one 3-week placebo-controlled trial (n=246), limited to patients with manic episodes, which involved a dose range of risperidone 1–6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 4.1 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
-- (2)In another 3-week placebo-controlled trial (n=286), which involved a dose range of 1-6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
+- (2)In another 3-week placebo-controlled trial (n=286), which involved a dose range of 1–6 mg/day, once daily, starting at 3 mg/day (mean modal dose was 5.6 mg/day), risperidone was superior to placebo in the reduction of YMRS total score.
 
 Pediatrics
 
