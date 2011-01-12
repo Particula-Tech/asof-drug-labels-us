@@ -1,10 +1,10 @@
 PACKAGE LABEL - STRATTERA 10 mg bottle of 30
 
-NDC 0002-3227-30
-
 30 Capsules
 
-No. 3227
+NDC 0002-3227-30
+
+PU 3227
 
 strattera®
 
@@ -24,11 +24,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 18 mg bottle of 30
 
-NDC 0002-3238-30
-
 30 Capsules
 
-No. 3238
+NDC 0002-3238-30
+
+PU 3238
 
 strattera®
 
@@ -48,11 +48,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 25 mg bottle of 30
 
-NDC 0002-3228-30
-
 30 Capsules
 
-No. 3228
+NDC 0002-3228-30
+
+PU 3228
 
 strattera®
 
@@ -72,11 +72,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 40 mg bottle of 30
 
-NDC 0002-3229-30
-
 30 Capsules
 
-No. 3229
+NDC 0002-3229-30
+
+PU 3229
 
 strattera®
 
@@ -96,11 +96,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 60 mg bottle of 30
 
-NDC 0002-3239-30
-
 30 Capsules
 
-No. 3239
+NDC 0002-3239-30
+
+PU 3239
 
 strattera®
 
@@ -120,11 +120,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 80 mg bottle of 30
 
-NDC 0002-3250-30
-
 30 Capsules
 
-No. 3250
+NDC 0002-3250-30
+
+PU 3250
 
 strattera®
 
@@ -144,11 +144,11 @@ Lilly
 
 PACKAGE LABEL - STRATTERA 100 mg bottle of 30
 
-NDC 0002-3251-30
-
 30 Capsules
 
-No. 3251
+NDC 0002-3251-30
+
+PU 3251
 
 strattera®
 

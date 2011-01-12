@@ -157,4 +157,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-[see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+[See Dosage and Administration (2.4) and Drug Interactions (7.2)].
