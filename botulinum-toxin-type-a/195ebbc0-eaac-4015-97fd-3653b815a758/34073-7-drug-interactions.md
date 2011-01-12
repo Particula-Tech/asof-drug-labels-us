@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-No formal drug interaction studies have been conducted with DYSPORT.™
+No formal drug interaction studies have been conducted with DYSPORT.
 
 Patients treated concomitantly with botulinum toxins and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like agents) should be observed closely because the effect of the botulinum toxin may be potentiated.
-Use of anticholinergic drugs after administration of DYSPORT™ may potentiate systemic anticholinergic effects such as blurred vision.
+Use of anticholinergic drugs after administration of DYSPORT may potentiate systemic anticholinergic effects such as blurred vision.
 
 The effect of administering different botulinum neurotoxin products at the same time or within several months of each other is unknown.
 Excessive weakness may be exacerbated by another administration of botulinum toxin prior to the resolution of the effects of a previously administered botulinum toxin.
 
-Excessive weakness may also be exaggerated by administration of a muscle relaxant before or after administration of DYSPORT.™
+Excessive weakness may also be exaggerated by administration of a muscle relaxant before or after administration of DYSPORT.

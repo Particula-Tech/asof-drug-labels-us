@@ -4,11 +4,11 @@
 
 Carcinogenicity
 
-Studies to evaluate the carcinogenic potential of DYSPORT™ have not been conducted.
+Studies to evaluate the carcinogenic potential of DYSPORT have not been conducted.
 
 Mutagenicity
 
-Genotoxicity studies have not been conducted for DYSPORT.™
+Genotoxicity studies have not been conducted for DYSPORT.
 
 Impairment of Fertility
 

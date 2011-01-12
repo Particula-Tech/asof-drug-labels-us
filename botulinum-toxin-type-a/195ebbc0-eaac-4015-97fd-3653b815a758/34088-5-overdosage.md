@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Excessive doses of DYSPORT™ may be expected to produce neuromuscular weakness with a variety of symptoms.
+Excessive doses of DYSPORT may be expected to produce neuromuscular weakness with a variety of symptoms.
 Respiratory support may be required where excessive doses cause paralysis of respiratory muscles.
 In the event of overdose, the patient should be medically monitored for symptoms of excessive muscle weakness or muscle paralysis [see Warnings and Precautions (5.2)].
 Symptomatic treatment may be necessary.
@@ -9,7 +9,7 @@ Symptoms of overdose are likely not to be present immediately following injectio
 Should accidental injection or oral ingestion occur, the person should be medically supervised for several weeks for signs and symptoms of excessive muscle weakness or paralysis.
 
 There is no significant information regarding overdose from clinical studies in cervical dystonia.
-Doses exceeding 1000 Units of DYSPORT™ were rarely studied in clinical settings for any indication.
+Doses exceeding 1000 Units of DYSPORT were rarely studied in clinical settings for any indication.
 
 In the event of overdose, antitoxin raised against botulinum toxin is available from the Centers for Disease Control and Prevention (CDC) in Atlanta, GA.
 However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration.
