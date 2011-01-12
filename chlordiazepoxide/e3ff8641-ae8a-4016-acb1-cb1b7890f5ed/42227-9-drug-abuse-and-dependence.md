@@ -1,6 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE:
+# DRUG ABUSE AND DEPENDENCE
 
-Chlordiazepoxide HCI Capsules are classified by the Drug Enforcement Administration as a schedule IV controlled substance.
+Chlordiazepoxide hydrochloride capsules are classified by the Drug Enforcement Administration as a Schedule IV controlled substance.
 
 Withdrawal symptoms, similar in character to those noted with barbiturates and alcohol (convulsions, tremor, abdominal and muscle cramps, vomiting and sweating), have occurred following abrupt discontinuance of chlordiazepoxide.
 The more severe withdrawal symptoms have usually been limited to those patients who had received excessive doses over an extended period of time.

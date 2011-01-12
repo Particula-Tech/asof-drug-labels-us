@@ -1,38 +1,13 @@
-1000330103
+10001579
 
 Rx only
 
-# ACTIONS:
+# Usage in Pregnancy
 
-Chlordiazepoxide HCI has antianxiety, sedative, appetite-stimulating and weak analgesic actions.
-The precise mechanism of action is not known.
-The drug blocks EEG arousal from stimulation of the brain stem reticular formation.
-It takes several hours for peak blood levels to be reached and the half-life of the drug is between 24 and 48 hours.
-After the drug is discontinued plasma levels decline slowly over a period of several days.
-Chlordiazepoxide is excreted in the urine, with 1 to 2% unchanged and 3 to 6% as a conjugate.
+An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate)during the first trimester of pregnancy has been suggested in several studies.
+Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.
+The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
+Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
 
-## Animal Pharmacology:
-
-The drug has been studied extensively in many species of animals and these studies are suggestive of action on the limbic system of the brain, which recent evidence indicates is involved in emotional responses.
-
-Hostile monkeys were made tame by oral drug doses which did not cause sedation.
-Chlordiazepoxide revealed a “taming” action with the elimination of fear and aggression.
-The taming effect of chlordiazepoxide was further demonstrated in rats made vicious by lesions in the septal area of the brain.
-The drug dosage which effectively blocked the vicious reaction was well below the dose which caused sedation in these animals.
-
-The LD50 of parenterally administered chlordiazepoxide HCI was determined in mice (72 hours) and rats (5 days), and calculated according to the method of Miller and Tainter, with the following results: mice, I.V., 123 ± 12 mg/kg; mice, I.M., 336 ± 7 mg/kg; rats, I.V., 120 ± 7 mg/kg; rats, I.M., >160 mg/kg.
-
-## Effects on Reproduction:
-
-Reproduction studies in rats fed 10, 20, and 80 mg/kg daily and bred through one or two mating showed no congenital anomalies, nor were there adverse effects on lactation of the dams or growth of the newborn.
-However, in another study at 100 mg/kg daily there was noted a significant decrease in the fertilization rate and a marked decrease in the viability and body weight of offspring which may be attributable to sedative activity, thus resulting in lack of interest in mating and lessened maternal nursing and care of the young.
-One neonate in each of the first and second matings in the rat reproduction study at the 100 mg/kg dose exhibited major skeletal defects.
-Further studies are in progress to determine the significance of these findings.
-
-MANUFACTURED BY
-
-BARR LABORATORIES, INC.
-
-POMONA, NY 10970
-
-BR-158, 033, 159
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines.
+(See DRUG ABUSE AND DEPENDENCE section.)

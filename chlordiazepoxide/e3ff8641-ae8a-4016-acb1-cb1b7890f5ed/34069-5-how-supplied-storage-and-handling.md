@@ -1,29 +1,31 @@
 # HOW SUPPLIED:
 
-Chlordiazepoxide HCI Capsules is available as:
+Chlordiazepoxide HCI Capsules, USP are available as:
 
-| 5 mg: | Green/yellow capsule. Identified with stylized barr/158. |  |
-| --- | --- | --- |
-|  | Available in bottles of: |  |
-| 100 | NDC 0555-0158-02 |  |
-| 500 | NDC 0555-0158-04 |  |
-| 1000 | NDC 0555-0158-05 |  |
+5 mg: Two-piece hard gelatin capsule with aqua green opaque cap and yellow opaque body filled with white powder.
+Imprinted in black ink barr 158.
 
-| 10 mg: | Black/green capsule. Identified with stylized barr/033. |  |
-| --- | --- | --- |
-|  | Available in bottles of: |  |
-| 30 | NDC 0555-0033-01 |  |
-| 50 | NDC 0555-0033-10 |  |
-| 100 | NDC 0555-0033-02 |  |
-| 500 | NDC 0555-0033-04 |  |
-| 1000 | NDC 0555-0033-05 |  |
+Available in bottles of 100 and 500.
 
-| 25 mg: | Green/white capsule. Identified with stylized barr/159. Available in bottles of: |  |
-| --- | --- | --- |
-|  | 100 | NDC 0555-0159-02 |
-| 500 | NDC 0555-0159-04 |  |
-| 1000 | NDC 0555-0159-05 |  |
+10 mg: Two-piece hard gelatin capsule with black opaque cap and green opaque body filled with white powder.
+Imprinted in white ink barr 033.
 
-Dispense with a child-resistant closure in a tight, light-resistant container as defined in the USP/NF.
+Available in bottles of 100 and 1000.
 
-Store at controlled room temperature 15°-30°C (59°-86°F) in a dry place.
+25 mg: Two-piece hard gelatin capsule with aqua green opaque cap and white opaque body filled with white powder.
+Imprinted in black ink barr 159.
+
+Available in bottles of 100 and 500.
+
+Dispense with a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] in a dry place.
+
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Iss.
+11/2009

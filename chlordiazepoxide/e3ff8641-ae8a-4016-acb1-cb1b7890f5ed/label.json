@@ -1,21 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA083116",
+    "ANDA084768",
+    "ANDA084769"
+  ],
   "inn": "chlordiazepoxide",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
-    "0555-0033-01",
     "0555-0033-02",
-    "0555-0033-04",
     "0555-0033-05",
-    "0555-0033-10",
     "0555-0158-02",
     "0555-0158-04",
-    "0555-0158-05",
     "0555-0159-02",
-    "0555-0159-04",
-    "0555-0159-05"
+    "0555-0159-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "chlordiazepoxide hydrochloride",
+      "name": "Chlordiazepoxide Hydrochloride"
+    }
+  ],
   "setid": "e3ff8641-ae8a-4016-acb1-cb1b7890f5ed",
   "source": "dailymed"
 }
