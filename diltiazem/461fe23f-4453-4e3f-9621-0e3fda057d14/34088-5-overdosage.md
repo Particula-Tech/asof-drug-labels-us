@@ -1,4 +1,4 @@
-# OVERDOSAGE OR EXAGGERATED RESPONSE
+# OVERDOSAGE
 
 The oral LD50s in mice and rats range from 415 to 740 mg/kg and from 560 to 810 mg/kg, respectively.
 The intravenous LD50s in these species were 60 and 38 mg/kg, respectively.
@@ -12,12 +12,12 @@ There have been reports of diltiazem overdose in amounts ranging from <1 g to 18
 Events observed following diltiazem overdose included bradycardia, hypotension, heart block, and cardiac failure.
 Most reports of overdose described some supportive medical measure and/or drug treatment.
 Bradycardia frequently responded favorably to atropine, as did heart block, although cardiac pacing was also frequently utilized to treat heart block.
-Fluids and vasopressors were used to maintain blood pressure and in cases of cardiac failure inotropic agents were administered.
+Fluids and vasopressors were used to maintain blood pressure, and in cases of cardiac failure, inotropic agents were administered.
 In addition, some patients received treatment with ventilatory support, gastric lavage, activated charcoal, and/or intravenous calcium.
 
 The effectiveness of intravenous calcium administration to reverse the pharmacological effects of diltiazem overdose has been inconsistent.
 In a few reported cases, overdose with calcium channel blockers associated with hypotension and bradycardia that was initially refractory to atropine became more responsive to atropine after the patients received intravenous calcium.
-In some cases intravenous calcium has been administered (1 g calcium chloride or 3 g calcium gluconate) over 5 minutes, and repeated every 10-20 minutes as necessary.
+In some cases intravenous calcium has been administered (1 g calcium chloride or 3 g calcium gluconate) over 5 minutes and repeated every 10 to 20 minutes as necessary.
 Calcium gluconate has also been administered as a continuous infusion at a rate of 2 g per hour for 10 hours.
 Infusions of calcium for 24 hours or more may be required.
 Patients should be monitored for signs of hypercalcemia.

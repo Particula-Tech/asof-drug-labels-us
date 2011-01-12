@@ -24,7 +24,7 @@ Like other calcium antagonists, diltiazem decreases sinoatrial and atrioventricu
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
-It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
+It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure, and in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
 Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end-diastolic pressure have not been affected.
 There are as yet few data on the interaction of diltiazem and beta-blockers.
 Resting heart rate is usually unchanged or slightly reduced by diltiazem.
@@ -34,7 +34,7 @@ In a study involving single oral doses of 300 mg of CARDIZEM in six normal volun
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of CARDIZEM in doses of up to 240 mg/day has resulted in small increases in PR interval, but has not usually produced abnormal prolongation.
+Chronic oral administration of CARDIZEM in doses of up to 240 mg/day has resulted in small increases in PR interval but has not usually produced abnormal prolongation.
 
 ## Pharmacokinetics and Metabolism
 

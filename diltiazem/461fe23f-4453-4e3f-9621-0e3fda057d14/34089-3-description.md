@@ -9,6 +9,6 @@ It is soluble in water, methanol, and chloroform.
 It has a molecular weight of 450.98.
 Each tablet of CARDIZEM contains 30 mg, 60 mg, 90 mg, or 120 mg diltiazem hydrochloride.
 
-Also contains: colloidal silicon dioxide, D&C Yellow #10 Aluminum Lake, FD&C Blue #1 Aluminum Lake (30 mg and 90 mg), FD&C Yellow #6 Aluminum Lake (60 mg and 120 mg), hydroxypropyl cellulose, hypromellose, lactose, magnesium stearate, methylparaben, microcrystalline cellulose and polyethylene glycol.
+Also contains: colloidal silicon dioxide, D&C Yellow #10 Aluminum Lake, FD&C Blue #1 Aluminum Lake (30 mg and 90 mg), FD&C Yellow #6 Aluminum Lake (60 mg and 120 mg), hydroxypropyl cellulose, hypromellose, lactose, magnesium stearate, methylparaben, microcrystalline cellulose, and polyethylene glycol.
 
 For oral administration.

@@ -54,7 +54,7 @@ When used concomitantly, anesthetics and calcium blockers should be titrated car
 
 Benzodiazepines.
 Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
-The elimination half-life of midazolam and triazolam also increased (1.5 to 2.5-fold) during coadministration with diltiazem.
+The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
 These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
 
 Beta-blockers.
@@ -82,10 +82,14 @@ The effect may be mediated by cimetidine's known inhibition of hepatic cytochrom
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 
+Clonidine.
+Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem.
+Monitor heart rate in patients receiving concomitant diltiazem and clonidine.
+
 Cyclosporine.
 A pharmacokinetic interaction between diltiazem and cyclosporine has been observed during studies involving renal and cardiac transplant patients.
 In renal and cardiac transplant recipients, a reduction of cyclosporine trough dose ranging from 15% to 48% was necessary to maintain concentrations similar to those seen prior to the addition of diltiazem.
-If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy in initiated, adjusted, or discontinued.
+If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy is initiated, adjusted, or discontinued.
 The effect of cyclosporine on diltiazem plasma concentrations has not been evaluated.
 
 Digitalis.
@@ -93,17 +97,27 @@ Administration of CARDIZEM with digoxin in 24 healthy male subjects increased pl
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
 Since there have been conflicting results regarding the effect of digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing CARDIZEM therapy to avoid possible over- or under-digitalization (see WARNINGS).
 
-Lovastatin.
-In a ten-subject study, coadministration of diltiazem (120 mg bid, diltiazem SR) with lovastatin resulted in 3 to 4 times increase in mean lovastatin AUC and Cmax versus lovastatin alone; no change in pravastatin AUC and Cmax was observed during diltiazem coadministration.
-Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
-
 Quinidine.
-Diltiazem significantly increases the AUC(0→∞) of quinidine by 51%, T1/2 by 36%, and decreases its CLoral by 33%.
+Diltiazem significantly increases the AUC (0→∞) of quinidine by 51%, T1/2 by 36%, and decreases its CLoral by 33%.
 Monitoring for quinidine adverse effects may be warranted and the dose adjusted accordingly.
 
 Rifampin.
 Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
+
+Statins.
+Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
+The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+
+In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
+Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
+If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
+Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -135,4 +149,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical studies of diltiazem did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
