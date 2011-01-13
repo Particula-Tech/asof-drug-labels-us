@@ -3,7 +3,7 @@
 ## 1.1 Major Depressive Disorder
 
 Cymbalta is indicated for the treatment of major depressive disorder (MDD).
-The efficacy of Cymbalta was established in four short term and one maintenance trial in adults [see Clinical Studies (14.1)].
+The efficacy of Cymbalta was established in four short-term and one maintenance trial in adults [see Clinical Studies (14.1)].
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least 5 of the following 9 symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, or a suicide attempt or suicidal ideation.
 
@@ -27,4 +27,4 @@ Cymbalta is indicated for the management of fibromyalgia (FM) [see Clinical Stud
 ## 1.5 Chronic Musculoskeletal Pain
 
 Cymbalta is indicated for the management of chronic musculoskeletal pain.
-This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis [see Clinical Studies (14.5)].
+This has been established in studies in patients with chronic low back pain (CLBP) and chronic pain due to osteoarthritis [see Clinical Studies (14.5)].

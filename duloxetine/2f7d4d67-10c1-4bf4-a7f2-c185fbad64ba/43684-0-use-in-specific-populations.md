@@ -22,6 +22,9 @@ It should be noted that, in some cases, the clinical picture is consistent with 
 When treating pregnant women with Cymbalta during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering Cymbalta in the third trimester [see Dosage and Administration (2.3)].
 
+Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
+Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
+
 ## 8.2 Labor and Delivery
 
 The effect of duloxetine on labor and delivery in humans is unknown.

@@ -65,6 +65,9 @@ When individualizing the dosage in elderly patients, extra care should be taken 
 
 Pregnant Women — There are no adequate and well-controlled studies in pregnant women; therefore, Cymbalta should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
+Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
+Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
+
 Nursing Mothers — Because the safety of duloxetine in infants is not known, nursing while on Cymbalta is not recommended [see Use in Specific Populations (8.3)].
 
 ## 2.4 Discontinuing Cymbalta

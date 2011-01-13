@@ -48,6 +48,9 @@ Patients should be advised to notify their physician if they
 - intend to become pregnant during therapy
 - are breast feeding [see Dosage and Administration (2.3) and Use in Specific Populations (8.1, 8.2, and 8.3)].
 
+Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
+Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
+
 ## 17.9 Alcohol
 
 Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.

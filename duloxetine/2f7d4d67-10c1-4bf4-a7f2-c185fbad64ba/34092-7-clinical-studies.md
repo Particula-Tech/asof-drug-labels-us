@@ -33,7 +33,7 @@ In all 3 studies, Cymbalta demonstrated superiority over placebo as measured by 
 The SDS is a widely used and well-validated scale that measures the extent emotional symptoms disrupt patient functioning in 3 life domains: work/school, social life/leisure activities, and family life/home responsibilities.
 
 In another study, 887 patients meeting DSM-IV-TR criteria for GAD received Cymbalta 60 mg to 120 mg once daily during an initial 26-week open-label treatment phase.
-Four hundred and twenty-nine patients who responded to open-label treatment (defined as meeting the following criteria at weeks 24 and 26: a decrease from baseline HAM-A total score by at least 50% to a score no higher than 11, and a Clinical Global Impressions of Improvement [CGI-Improvement] score of 1 or 2) were randomly assigned to continuation of Cymbalta at the same dose (N = 216) or to placebo (N = 213) and were observed for relapse.
+Four hundred and twenty-nine patients who responded to open-label treatment (defined as meeting the following criteria at weeks 24 and 26: a decrease from baseline HAM-A total score by at least 50% to a score no higher than 11, and a Clinical Global Impressions of Improvement [CGI-Improvement] score of 1 or 2) were randomly assigned to continuation of Cymbalta at the same dose (N=216) or to placebo (N=213) and were observed for relapse.
 Of the patients randomized, 73% had been in a responder status for at least 10 weeks.
 Relapse was defined as an increase in CGI-Severity score at least 2 points to a score ≥4 and a MINI (Mini-International Neuropsychiatric Interview) diagnosis of GAD (excluding duration), or discontinuation due to lack of efficacy.
 Patients taking Cymbalta experienced a statistically significantly longer time to relapse of GAD than did patients taking placebo.
@@ -121,7 +121,7 @@ All patients in both studies fulfilled the ACR clinical and radiographic criteri
 Randomization was stratified by the patients' baseline NSAIDs-use status.
 Patients assigned to Cymbalta started treatment in both studies at a dose of 30 mg once daily for one week.
 After the first week, the dose of Cymbalta was increased to 60 mg once daily.
-After 7 weeks of treatment with Cymbalta 60 mg once daily, in OA-1 patients with sub-optimal response to treatment (<30% pain reduction) and tolerated duloxetine 60 mg once daily had their dose increased to 120mg.
+After 7 weeks of treatment with Cymbalta 60 mg once daily, in OA-1 patients with sub-optimal response to treatment (<30% pain reduction) and tolerated duloxetine 60 mg once daily had their dose increased to 120 mg.
 However, in OA-2, all patients, regardless of their response to treatment after 7 weeks, were re-randomized to either continue receiving Cymbalta 60 mg once daily or have their dose increased to 120 mg once daily for the remainder of the study.
 Patients in the placebo treatment groups in both studies received a matching placebo for the entire duration of studies.
 For both studies, efficacy analyses were conducted using 13-week data from the combined Cymbalta 60 mg and 120 mg once daily treatment groups compared to the placebo group.
