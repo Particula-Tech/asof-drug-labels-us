@@ -1,0 +1,25 @@
+# 7. DRUG INTERACTIONS
+
+No drug interaction studies have been conducted with KAPVAY in children.
+The following have been reported with other oral immediate release formulations of clonidine.
+
+## 7.1 Interactions with CNS-depressant Drugs
+
+Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
+
+## 7.2 Interactions with Tricyclic Antidepressants
+
+If a patient is receiving clonidine hydrochloride and also taking tricyclic antidepressants the hypotensive effects of clonidine may be reduced.
+
+## 7.3 Interactions with Drugs Known to Affect Sinus Node Function or AV Nodal Conduction
+
+Due to a potential for additive effects such as bradycardia and AV block, caution is warranted in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction (e.g., digitalis, calcium channel blockers and beta-blockers).
+
+## 7.4 Use with other products containing clonidine
+
+Do not use KAPVAY concomitantly with other products containing clonidine (e.g.
+Catapres®).
+
+## 7.5 Antihypertensive Drugs
+
+Use caution when KAPVAY is administered concomitantly with antihypertensive drugs, due to the potential for additive pharmacodynamic effects (e.g., hypotension, syncope) [see Warnings and Precautions (5.2)].

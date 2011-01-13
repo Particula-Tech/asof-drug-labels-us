@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022331"
+  ],
+  "inn": "clonidine",
+  "labeler": "Shionogi Pharma, Inc.",
+  "package_ndcs": [
+    "59630-657-08",
+    "59630-657-60",
+    "59630-658-08",
+    "59630-658-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine hydrochloride",
+      "name": "Kapvay"
+    }
+  ],
+  "setid": "c9bdfcda-82a0-4084-b9b2-1e367c0418d6",
+  "source": "dailymed"
+}
