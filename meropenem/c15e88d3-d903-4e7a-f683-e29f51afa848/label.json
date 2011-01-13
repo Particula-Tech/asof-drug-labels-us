@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050706"
+  ],
   "inn": "meropenem",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
     "0310-0321-30",
-    "0310-0325-20"
+    "0310-0321-65",
+    "0310-0325-20",
+    "0310-0325-64"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meropenem",
+      "name": "MERREM"
+    }
+  ],
   "setid": "c15e88d3-d903-4e7a-f683-e29f51afa848",
   "source": "dailymed"
 }
