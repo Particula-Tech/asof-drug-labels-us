@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA074769",
+    "ANDA074862"
+  ],
+  "inn": "morphine",
+  "labeler": "Rhodes Pharmaceuticals L. P.",
+  "package_ndcs": [
+    "42858-801-01",
+    "42858-802-01",
+    "42858-803-01",
+    "42858-804-01",
+    "42858-805-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "19c7d9cc-6ce2-4c5c-8c3f-c24fd3342804",
+  "source": "dailymed"
+}
