@@ -210,7 +210,7 @@ In addition, talk to your pharmacist or other health care provider.
 
 MAXALT Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MSD, Ltd. Cramlington Northumberland, NE23 3JU, UK
+By: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
 
 MAXALT-MLT Orally Disintegrating Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -218,6 +218,6 @@ By: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
 
 US Patent No.: 5,298,520
 
-Issued December 2009
+Issued August 2010
 
-9652507
+9652508
