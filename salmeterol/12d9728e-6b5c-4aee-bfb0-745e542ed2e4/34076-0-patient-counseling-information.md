@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-approved Medication Guide.
+
 ## 17.1 Asthma-Related Death
 
 Patients should be informed that salmeterol increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.

@@ -94,7 +94,7 @@ Adverse Reactions With ≥3% Incidence in US Controlled Clinical Trials With SER
 | Dizziness | 2 | 4 |
 | Average duration of exposure (days) | 128.9 | 138.5 |
 
-a Table 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
+aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of 3% or greater in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
 
 Additional Adverse Reactions: Other events occurring in the group receiving SEREVENT DISKUS that occurred at a frequency of ≥1% and were more common than in the placebo group were as follows: anxiety; arthralgia and articular rheumatism; bone and skeletal pain; candidiasis mouth/throat; dental discomfort and pain; dyspeptic symptoms; edema and swelling; gastrointestinal infections; hyperglycemia; hyposalivation; keratitis and conjunctivitis; lower respiratory signs and symptoms; migraines; muscle pain; muscle stiffness, tightness, and rigidity; musculoskeletal inflammation; pain; and skin rashes.
 

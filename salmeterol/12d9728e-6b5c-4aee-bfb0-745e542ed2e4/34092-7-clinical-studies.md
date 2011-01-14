@@ -104,15 +104,15 @@ Table 5: Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Res
 | Salmeterol: N = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
 | Placebo: N = 2,319 |  | 1 (0.04%) |  |  |
 
-a Life-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
+aLife-table 28-week estimate, adjusted according to the patients’ actual lengths of exposure to study treatment to account for early withdrawal of patients from the study.
 
-b Relative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
+bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
 The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period.
 
 c Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
 Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000.
 
-d The Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
+dThe Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
 In addition, the Total Population includes those patients whose ethnic origin was not reported.
 The results for Caucasian and African American subpopulations are shown above.
 No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations.
@@ -160,6 +160,3 @@ The mean time to peak bronchodilator effect was 4.75 hours.
 As seen in Figure 4, evidence of bronchodilatation was seen throughout the 12-hour period.
 Figure 4 also demonstrates that the bronchodilating effect after 12 weeks of treatment was similar to that observed after the first dose.
 The mean time to peak bronchodilator effect after 12 weeks of treatment was 3.27 hours.
-
-Figure 4.
-Serial 12-Hour FEV1 on the First Day and at Week 12 of Treatment
