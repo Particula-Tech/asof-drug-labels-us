@@ -1,5 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021165",
+    "NDA021300",
+    "NDA021312",
+    "NDA021563"
+  ],
   "inn": "desloratadine",
   "labeler": "Schering Corporation",
   "package_ndcs": [
@@ -12,7 +17,23 @@
     "0085-1384-01",
     "0085-1408-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "desloratadine",
+      "name": "Clarinex"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "desloratadine",
+      "name": "Clarinex"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "desloratadine",
+      "name": "Clarinex REDITABS"
+    }
+  ],
   "setid": "5b79aff4-9bed-429d-8def-a7929293387d",
   "source": "dailymed"
 }
