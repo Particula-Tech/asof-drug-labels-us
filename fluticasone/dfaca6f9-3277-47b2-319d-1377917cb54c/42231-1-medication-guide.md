@@ -30,7 +30,7 @@ ADVAIR HFA can cause serious side effects, including:
 2. ADVAIR HFA should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
 3. When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR HFA.
    Your healthcare provider will decide if you can stop ADVAIR HFA without loss of asthma control.
-   Your healthcare provider may prescribe a different long-term asthma control medicine for you, such as an inhaled corticosteriod.
+   Your healthcare provider may prescribe a different long-term asthma control medicine for you, such as an inhaled corticosteroid.
 4. Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is ADVAIR HFA?
@@ -176,7 +176,7 @@ These are not all the side effects with ADVAIR HFA.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or 1-800-332-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store ADVAIR HFA?
 
@@ -187,7 +187,7 @@ How do I store ADVAIR HFA?
 - Do not throw into fire or an incinerator.
 - Keep ADVAIR HFA and all medicines out of the reach of children.
 
-General Information About ADVAIR HFA
+General Information about ADVAIR HFA
 
 Medicines are sometimes prescribed for purposes not mentioned in a Medication Guide.
 Do not use ADVAIR HFA for a condition for which it was not prescribed.
@@ -324,9 +324,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-June 2010
+January 2011
 
-ADH:6MG
+ADH:7MG

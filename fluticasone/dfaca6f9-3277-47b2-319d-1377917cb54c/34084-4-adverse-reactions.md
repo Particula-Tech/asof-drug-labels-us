@@ -46,57 +46,31 @@ These adverse reactions were mostly mild to moderate in severity.
 
 Other adverse events that occurred in the groups receiving ADVAIR HFA in these studies with an incidence of 1% to 3% and that occurred at a greater incidence than with placebo were:
 
-### Cardiovascular
+Cardiovascular: Tachycardia, arrhythmias, myocardial infarction.
 
-Tachycardia, arrhythmias, myocardial infarction.
+Drug Interaction, Overdose, and Trauma: Postoperative complications, wounds and lacerations, soft tissue injuries, poisoning and toxicity, pressure-induced disorder.
 
-### Drug Interaction, Overdose, and Trauma
+Ear, Nose, and Throat: Ear, nose, and throat infection; ear signs and symptoms; rhinorrhea/postnasal drip; epistaxis; nasal congestion/blockage; laryngitis; unspecified oropharyngeal plaques; dryness of nose.
 
-Postoperative complications, wounds and lacerations, soft tissue injuries, poisoning and toxicity, pressure-induced disorder.
+Endocrine and Metabolic: Weight gain.
 
-### Ear, Nose, and Throat
+Eye: Allergic eye disorders, eye edema and swelling.
 
-Ear, nose, and throat infection; ear signs and symptoms; rhinorrhea/postnasal drip; epistaxis; nasal congestion/blockage; laryngitis; unspecified oropharyngeal plaques; dryness of nose.
+Gastrointestinal: Gastrointestinal discomfort and pain, dental discomfort and pain, candidiasis mouth/throat, hyposalivation, gastrointestinal infections, disorders of hard tissue of teeth, hemorrhoids, gastrointestinal gaseous symptoms, abdominal discomfort and pain, constipation, oral abnormalities.
 
-### Endocrine and Metabolic
+Musculoskeletal: Arthralgia and articular rheumatism, muscle cramps and spasms, musculoskeletal inflammation, bone and skeletal pain.
 
-Weight gain.
+Neurology: Sleep disorders, migraines.
 
-### Eye
+Non-Site Specific: Allergies and allergic reactions, viral infections, bacterial infections, candidiasis unspecified site, congestion, inflammation.
 
-Allergic eye disorders, eye edema and swelling.
+Reproduction: Bacterial reproductive infections.
 
-### Gastrointestinal
+Respiratory: Lower respiratory signs and symptoms, lower respiratory infections, lower respiratory hemorrhage.
 
-Gastrointestinal discomfort and pain, dental discomfort and pain, candidiasis mouth/throat, hyposalivation, gastrointestinal infections, disorders of hard tissue of teeth, hemorrhoids, gastrointestinal gaseous symptoms, abdominal discomfort and pain, constipation, oral abnormalities.
+Skin: Eczema, dermatitis and dermatosis.
 
-### Musculoskeletal
-
-Arthralgia and articular rheumatism, muscle cramps and spasms, musculoskeletal inflammation, bone and skeletal pain.
-
-### Neurology
-
-Sleep disorders, migraines.
-
-### Non-Site Specific
-
-Allergies and allergic reactions, viral infections, bacterial infections, candidiasis unspecified site, congestion, inflammation.
-
-### Reproduction
-
-Bacterial reproductive infections.
-
-### Respiratory
-
-Lower respiratory signs and symptoms, lower respiratory infections, lower respiratory hemorrhage.
-
-### Skin
-
-Eczema, dermatitis and dermatosis.
-
-### Urology
-
-Urinary infections.
+Urology: Urinary infections.
 
 Rare cases of immediate and delayed hypersensitivity reactions, including rash and other rare events of angioedema and bronchospasm, have been reported.
 
@@ -112,62 +86,34 @@ In extensive US and worldwide postmarketing experience with salmeterol, a compon
 In most cases, these have occurred in patients with severe asthma and/or in some patients in whom asthma has been acutely deteriorating (see WARNINGS), but they have also occurred in a few patients with less severe asthma.
 It was not possible from these reports to determine whether salmeterol contributed to these events.
 
-### Cardiovascular
+Cardiovascular: Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), hypertension, ventricular tachycardia.
 
-Arrhythmias (including atrial fibrillation, extrasystoles, supraventricular tachycardia), hypertension, ventricular tachycardia.
+Ear, Nose, and Throat: Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, rhinitis, throat soreness and irritation, tonsillitis.
 
-### Ear, Nose, and Throat
+Endocrine and Metabolic: Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, hyperglycemia, osteoporosis.
 
-Aphonia, earache, facial and oropharyngeal edema, paranasal sinus pain, rhinitis, throat soreness and irritation, tonsillitis.
+Eye: Cataracts, glaucoma.
 
-### Endocrine and Metabolic
+Gastrointestinal: Dyspepsia, xerostomia.
 
-Cushing's syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism, hyperglycemia, osteoporosis.
+Hepatobiliary Tract and Pancreas: Abnormal liver function tests.
 
-### Eye
+Musculoskeletal: Back pain, myositis.
 
-Cataracts, glaucoma.
+Neurology: Paresthesia, restlessness.
 
-### Gastrointestinal
+Non-Site Specific: Fever, immediate and delayed hypersensitivity reaction, pallor.
 
-Dyspepsia, xerostomia.
-
-### Hepatobiliary Tract and Pancreas
-
-Abnormal liver function tests.
-
-### Musculoskeletal
-
-Back pain, myositis.
-
-### Neurology
-
-Paresthesia, restlessness.
-
-### Non-Site Specific
-
-Fever, immediate and delayed hypersensitivity reaction, pallor.
-
-### Psychiatry
-
-Agitation, aggression, anxiety, depression.
+Psychiatry: Agitation, aggression, anxiety, depression.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 
-### Respiratory
+Respiratory: Asthma; asthma exacerbation; chest congestion; chest tightness; cough; dyspnea; immediate bronchospasm; influenza; paradoxical bronchospasm; tracheitis; wheezing; pneumonia; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling; stridor; choking.
 
-Asthma; asthma exacerbation; chest congestion; chest tightness; cough; dyspnea; immediate bronchospasm; influenza; paradoxical bronchospasm; tracheitis; wheezing; pneumonia; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling; stridor; choking.
+Skin: Contact dermatitis, contusions, ecchymoses, photodermatitis, pruritus.
 
-### Skin
+Urogenital: Dysmenorrhea, irregular menstrual cycle, pelvic inflammatory disease, vaginal candidiasis, vaginitis, vulvovaginitis.
 
-Contact dermatitis, contusions, ecchymoses, photodermatitis, pruritus.
-
-### Urogenital
-
-Dysmenorrhea, irregular menstrual cycle, pelvic inflammatory disease, vaginal candidiasis, vaginitis, vulvovaginitis.
-
-### Eosinophilic Conditions
-
-In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR HFA, may present with systemic eosinophilic conditions, with some patients presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
+Eosinophilic Conditions: In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR HFA, may present with systemic eosinophilic conditions, with some patients presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of fluticasone propionate.
 Cases of serious eosinophilic conditions have also been reported with other inhaled corticosteroids in this clinical setting.
 While ADVAIR HFA should not be used for transferring patients from systemic corticosteroid therapy, physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.

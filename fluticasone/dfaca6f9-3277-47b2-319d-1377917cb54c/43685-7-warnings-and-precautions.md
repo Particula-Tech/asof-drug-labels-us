@@ -161,23 +161,19 @@ Fluticasone Propionate: A drug interaction study in healthy subjects has shown t
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing's syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
-Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
+Salmeterol: Because of the potential for drug interactions and the potential for increased risk of cardiovascular adverse events, the concomitant use of ADVAIR HFA with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
 
 # PRECAUTIONS
 
 ## General
 
-### Cardiovascular Effects
-
-Cardiovascular and central nervous system effects seen with all sympathomimetic drugs (e.g., increased blood pressure, heart rate, excitement) can occur after use of salmeterol, a component of ADVAIR HFA, and may require discontinuation of ADVAIR HFA.
+Cardiovascular Effects: Cardiovascular and central nervous system effects seen with all sympathomimetic drugs (e.g., increased blood pressure, heart rate, excitement) can occur after use of salmeterol, a component of ADVAIR HFA, and may require discontinuation of ADVAIR HFA.
 ADVAIR HFA, like all medications containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
 
 As has been described with other beta-adrenergic agonist bronchodilators, clinically significant changes in ECGs have been seen infrequently in individual patients in controlled clinical studies with ADVAIR HFA and salmeterol.
 Clinically significant changes in systolic and/or diastolic blood pressure and pulse rate have been seen infrequently in individual patients in controlled clinical studies with salmeterol, a component of ADVAIR HFA.
 
-### Metabolic and Other Effects
-
-Long-term use of orally inhaled corticosteroids may affect normal bone metabolism, resulting in a loss of bone mineral density.
+Metabolic and Other Effects: Long-term use of orally inhaled corticosteroids may affect normal bone metabolism, resulting in a loss of bone mineral density.
 In patients with major risk factors for decreased bone mineral content, such as tobacco use, advanced age, sedentary lifestyle, poor nutrition, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, corticosteroids), ADVAIR HFA may pose an additional risk.
 
 Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
@@ -213,13 +209,11 @@ Glaucoma, increased intraocular pressure, and cataracts have been reported in pa
 Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids, including fluticasone propionate, a component of ADVAIR HFA.
 
 In clinical studies with ADVAIR HFA, the development of localized infections of the pharynx with Candida albicans has occurred.
-When such an infection develops, it should be treated with appropriate local or systemic (e.g., oral antifungal) therapy while remaining on treatment with ADVAIR HFA, but at times therapy with ADVAIR HFA may need to be interrupted.
+When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while remaining on treatment with ADVAIR HFA, but at times therapy with ADVAIR HFA may need to be interrupted.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
-### Eosinophilic Conditions
-
-In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR HFA, may present with systemic eosinophilic conditions, with some patients presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
+Eosinophilic Conditions: In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR HFA, may present with systemic eosinophilic conditions, with some patients presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of fluticasone propionate.
 Cases of serious eosinophilic conditions have also been reported with other inhaled corticosteroids in this clinical setting.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
@@ -232,7 +226,7 @@ This information is intended to aid them in the safe and effective use of this m
 It is not a disclosure of all possible adverse or intended effects.
 It is important that patients understand how to use ADVAIR HFA in relation to other asthma medications they are taking.
 
-1. Patients should be informed that salmeterol, one of the active ingredients in ADVAIR HFA, has been associated with an increased risk of asthma-related death and increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+1. Patients should be informed that salmeterol, one of the active ingredients in ADVAIR HFA, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
    They should also be informed that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
 2. ADVAIR HFA is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
    Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
@@ -272,61 +266,41 @@ It is important that patients understand how to use ADVAIR HFA in relation to ot
 ADVAIR HFA has been used concomitantly with other drugs, including short-acting beta2-agonists, methylxanthines, and intranasal corticosteroids, commonly used in patients with asthma, without adverse drug reactions.
 No formal drug interaction studies have been performed with ADVAIR HFA.
 
-### Short-Acting Beta2-Agonists
-
-In three 12-week US clinical trials, the mean daily need for additional beta2-agonist use in 277 patients receiving ADVAIR HFA was approximately 1.2 inhalations/day and ranged from 0 to 9 inhalations/day.
+Short-Acting Beta2-Agonists: In three 12-week US clinical trials, the mean daily need for additional beta2-agonist use in 277 patients receiving ADVAIR HFA was approximately 1.2 inhalations/day and ranged from 0 to 9 inhalations/day.
 Two percent (2%) of patients receiving ADVAIR HFA in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular events was observed among patients who averaged 6 or more inhalations per day.
 
-### Methylxanthines
-
-The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by patients receiving ADVAIR HFA has not been completely evaluated.
+Methylxanthines: The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by patients receiving ADVAIR HFA has not been completely evaluated.
 In five 12-week clinical trials (3 US and 2 non-US), 45 patients receiving ADVAIR HFA 45/21, 115/21, or 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 patients receiving ADVAIR HFA without theophylline.
 
-### Fluticasone Propionate Nasal Spray
+Fluticasone Propionate Nasal Spray: In patients receiving ADVAIR HFA in three 12-week US clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between patients receiving FLONASE® (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 89) and those who were not (n = 192).
 
-In patients receiving ADVAIR HFA in three 12-week US clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between patients receiving FLONASE® (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 89) and those who were not (n = 192).
+Monoamine Oxidase Inhibitors and Tricyclic Antidepressants: ADVAIR HFA should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of ADVAIR HFA, on the vascular system may be potentiated by these agents.
 
-### Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
-
-ADVAIR HFA should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of ADVAIR HFA, on the vascular system may be potentiated by these agents.
-
-### Beta-Adrenergic Receptor Blocking Agents
-
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of ADVAIR HFA, but may produce severe bronchospasm in patients with asthma.
+Beta-Adrenergic Receptor Blocking Agents: Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of ADVAIR HFA, but may produce severe bronchospasm in patients with asthma.
 Therefore, patients with asthma should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents in patients with asthma.
 In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.
 
-### Diuretics
-
-The ECG changes and/or hypokalemia that may result from the administration of nonpotassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+Diuretics: The ECG changes and/or hypokalemia that may result from the administration of nonpotassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonists with nonpotassium-sparing diuretics.
 
-### Inhibitors of Cytochrome P450
+Inhibitors of Cytochrome P450: Fluticasone propionate and salmeterol are substrates of CYP3A4.
 
-Fluticasone propionate and salmeterol are substrates of CYP3A4.
-
-#### Fluticasone propionate
-
-A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
+Fluticasone propionate: A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Fluticasone Propionate: Drug Interactions).
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 
-In a placebo-controlled, crossover study in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased systemic fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
+In a placebo-controlled crossover study in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased systemic fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
 
-#### Salmeterol
-
-In a drug interaction study in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
+Salmeterol: In a drug interaction study in 20 healthy subjects, coadministration of inhaled salmeterol (50 mcg twice daily) and oral ketoconazole (400 mg once daily) for 7 days resulted in greater systemic exposure to salmeterol (AUC increased 16-fold and Cmax increased 1.4-fold).
 Three (3) subjects were withdrawn due to beta2-agonist side effects (2 with prolonged QTc and 1 with palpitations and sinus tachycardia).
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
-Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP 3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate: Drug Interactions).
+Due to the potential increased risk of cardiovascular adverse events, the concomitant use of salmeterol with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) is not recommended (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Salmeterol Xinafoate:Drug Interactions).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Fluticasone Propionate
-
-Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose [MRHD] on an mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the MRHD on an mcg/m2 basis) for 104 weeks.
+Fluticasone Propionate: Fluticasone propionate demonstrated no tumorigenic potential in mice at oral doses up to 1,000 mcg/kg (approximately 4 times the maximum recommended human daily inhalation dose [MRHD] on an mcg/m2 basis) for 78 weeks or in rats at inhalation doses up to 57 mcg/kg (less than the MRHD on an mcg/m2 basis) for 104 weeks.
 
 Fluticasone propionate did not induce gene mutation in prokaryotic or eukaryotic cells in vitro.
 No significant clastogenic effect was seen in cultured human peripheral lymphocytes in vitro or in the mouse micronucleus test.
@@ -334,9 +308,7 @@ No significant clastogenic effect was seen in cultured human peripheral lymphocy
 No evidence of impairment of fertility was observed in reproductive studies conducted in male and female rats at subcutaneous doses up to 50 mcg/kg (less than the MRHD on an mcg/m2 basis).
 Prostate weight was significantly reduced at a subcutaneous dose of 50 mcg/kg.
 
-### Salmeterol
-
-In an 18-month oral carcinogenicity study in CD-mice, salmeterol at oral doses of 1.4 mg/kg and above (approximately 10 times the MRHD based on comparison of the AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
+Salmeterol: In an 18-month oral carcinogenicity study in CD-mice, salmeterol at oral doses of 1.4 mg/kg and above (approximately 10 times the MRHD based on comparison of the AUCs) caused a dose-related increase in the incidence of smooth muscle hyperplasia, cystic glandular hyperplasia, leiomyomas of the uterus, and ovarian cysts.
 The incidence of leiomyosarcomas was not statistically significant.
 No tumors were seen at 0.2 mg/kg (approximately 2 times the MRHD for adults based on comparison of the AUCs).
 
@@ -351,11 +323,7 @@ No effects on fertility were identified in male and female rats treated with sal
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### ADVAIR HFA Inhalation Aerosol
-
-Pregnancy Category C. From the reproduction toxicity studies in mice and rats, no evidence of enhanced toxicity was seen using combinations of fluticasone propionate and salmeterol compared with toxicity data from the components administered separately.
+Teratogenic Effects: ADVAIR HFA Inhalation Aerosol: Pregnancy Category C. From the reproduction toxicity studies in mice and rats, no evidence of enhanced toxicity was seen using combinations of fluticasone propionate and salmeterol compared with toxicity data from the components administered separately.
 In mice combining 150 mcg/kg subcutaneously of fluticasone propionate (less than the MRHD on an mcg/m2 basis) with 10 mg/kg orally of salmeterol (approximately 480 times the MRHD on an mg/m2 basis) were teratogenic.
 Cleft palate, fetal death, increased implantation loss and delayed ossification was seen.
 These observations are characteristic of glucocorticoids.
@@ -366,9 +334,7 @@ Combining 100 mcg/kg subcutaneously of fluticasone propionate (equivalent to the
 There are no adequate and well-controlled studies with ADVAIR HFA in pregnant women.
 ADVAIR HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-#### Fluticasone Propionate
-
-Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mcg/kg, respectively (less than and equivalent to, respectively, the MRHD on an mcg/m2 basis), revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
+Fluticasone Propionate: Pregnancy Category C. Subcutaneous studies in the mouse and rat at 45 and 100 mcg/kg, respectively (less than and equivalent to, respectively, the MRHD on an mcg/m2 basis), revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
 No teratogenicity was seen in rats at inhalation doses up to 68.7 mcg/kg (less than the MRHD on an mcg/m2 basis).
 
 In the rabbit, fetal weight reduction and cleft palate were observed at a subcutaneous dose of 4 mcg/kg (less than the MRHD on an mcg/m2 basis).
@@ -383,9 +349,7 @@ ADVAIR HFA should be used during pregnancy only if the potential benefit justifi
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 In addition, because there is a natural increase in corticosteroid production during pregnancy, most women will require a lower exogenous corticosteroid dose and many will not need corticosteroid treatment during pregnancy.
 
-#### Salmeterol
-
-Pregnancy Category C. No teratogenic effects occurred in rats at oral doses up to 2 mg/kg (approximately 190 times the MRHD on an mg/m2 basis).
+Salmeterol: Pregnancy Category C. No teratogenic effects occurred in rats at oral doses up to 2 mg/kg (approximately 190 times the MRHD on an mg/m2 basis).
 In pregnant Dutch rabbits administered oral doses of 1 mg/kg and above (approximately 25 times the MRHD based on the comparison of the AUCs), salmeterol exhibited fetal toxic effects characteristically resulting from beta-adrenoceptor stimulation.
 These included precocious eyelid openings, cleft palate, sternebral fusion, limb and paw flexures, and delayed ossification of the frontal cranial bones.
 No significant effects occurred at an oral dose of 0.6 mg/kg (approximately 10 times the MRHD based on comparison of the AUCs).
