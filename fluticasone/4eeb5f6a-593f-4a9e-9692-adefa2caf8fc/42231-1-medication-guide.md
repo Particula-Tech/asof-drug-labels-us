@@ -30,7 +30,7 @@ ADVAIR DISKUS can cause serious side effects, including:
 2. ADVAIR DISKUS should be used only if your healthcare provider decides that your asthma is not well controlled with a long-term asthma control medicine, such as inhaled corticosteroids.
 3. When your asthma is well controlled, your healthcare provider may tell you to stop taking ADVAIR DISKUS.
    Your healthcare provider will decide if you can stop ADVAIR DISKUS without loss of asthma control.
-   Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteriod.
+   Your healthcare provider may prescribe a different asthma control medicine for you, such as an inhaled corticosteroid.
 4. Children and adolescents who take LABA medicines may have an increased risk of being hospitalized for asthma problems.
 
 What is ADVAIR DISKUS?
@@ -52,10 +52,7 @@ ADVAIR DISKUS is used to control symptoms of asthma and to prevent symptoms such
 ADVAIR DISKUS contains salmeterol (the same medicine found in SEREVENT).
 LABA medicines, such as salmeterol, increase the risk of death from asthma problems.
 
-ADVAIR DISKUS is not for adults and children with asthma who:
-
-- are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine
-- have sudden asthma symptoms
+ADVAIR DISKUS is not for adults and children with asthma who are well controlled with an asthma control medicine, such as a low to medium dose of an inhaled corticosteroid medicine.
 
 COPD:
 
@@ -206,11 +203,12 @@ These are not all the side effects with ADVAIR DISKUS.
 Ask your healthcare provider or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or 1-800-332-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store ADVAIR DISKUS?
 
-- Store ADVAIR DISKUS at room temperature between 68° to 77° F (20° to 25° C). Keep in a dry place away from heat and sunlight.
+- Store ADVAIR DISKUS at room temperature between 68°F to 77°F (20°C to 25°C).
+  Keep in a dry place away from heat and sunlight.
 - Safely discard ADVAIR DISKUS 1 month after you remove it from the foil pouch, or after the dose indicator reads “0”, whichever comes first.
 - Keep ADVAIR DISKUS and all medicines out of the reach of children.
 
@@ -251,7 +249,9 @@ The “Use by” date is 1 month from date of opening the pouch.
 Taking a dose from the DISKUS requires the following 3 simple steps: Open, Click, Inhale.
 
 1.
-OPEN Hold the DISKUS in one hand and put the thumb of your other hand on the thumbgrip.
+OPEN
+
+Hold the DISKUS in one hand and put the thumb of your other hand on the thumbgrip.
 Push your thumb away from you as far as it will go until the mouthpiece appears and snaps into position (see Figure 2).
 
 2.
@@ -285,8 +285,8 @@ Hold your breath for about 10 seconds, or for as long as is comfortable.
 Breathe out slowly.
 
 The DISKUS delivers your dose of medicine as a very fine powder.
-Most patients can taste or feel the powder.
-Do not use another dose from the DISKUS if you do not feel or taste the medicine.
+Patients may or may not taste or feel the powder.
+Do not use an extra dose from the DISKUS if you do not feel or taste the medicine.
 
 Rinse your mouth with water after breathing-in the medicine.
 Spit the water out.
@@ -324,9 +324,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-June 2010
+January 2011
 
-ADD:6MG
+ADD:7MG

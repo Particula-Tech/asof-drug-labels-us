@@ -217,7 +217,7 @@ Ketoconazole:Fluticasone Propionate: In a placebo-controlled, crossover study in
 
 Salmeterol: In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
-Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–meiated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
+Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
 Although there was no statistical effect on the mean QTc, coadministration of salmeterol and ketoconazole was associated with more frequent increases in QTc duration compared with salmeterol and placebo administration.
 

@@ -11,7 +11,7 @@ They should also be informed that currently available data are inadequate to det
 
 ADVAIR DISKUS is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
 Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
-(The physician should provide the patient with such medication and instruct the patient in how it should be used.)
+The physician should provide the patient with such medication and instruct the patient in how it should be used.
 
 Patients should be instructed to notify their physician immediately if they experience any of the following:
 

@@ -9,7 +9,7 @@ Therefore, when treating patients with asthma, physicians should only prescribe 
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use ADVAIR DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
-A large, placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
+A large placebo-controlled US study that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol.
 The Salmeterol Multi-center Asthma Research Trial (SMART) was a randomized double-blind study that enrolled LABA-naive patients with asthma to assess the safety of salmeterol (SEREVENT® Inhalation Aerosol) 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
 A planned interim analysis was conducted when approximately half of the intended number of patients had been enrolled (N = 26,355), which led to premature termination of the study.
 The results of the interim analysis showed that patients receiving salmeterol were at increased risk for fatal asthma events (see Table 1 and Figure 1).
@@ -83,7 +83,7 @@ Patients using ADVAIR DISKUS should not use an additional LABA (e.g., salmeterol
 ## 5.4 Local Effects
 
 In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in patients treated with ADVAIR DISKUS.
-When such an infection develops, it should be treated with appropriate local or systemic (e.g., oral antifungal) therapy while treatment with ADVAIR DISKUS continues, but at times therapy with ADVAIR DISKUS may need to be interrupted.
+When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with ADVAIR DISKUS continues, but at times therapy with ADVAIR DISKUS may need to be interrupted.
 Patients should rinse the mouth after inhalation of ADVAIR DISKUS.
 
 ## 5.5 Pneumonia
