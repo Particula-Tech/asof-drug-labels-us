@@ -58,7 +58,7 @@ Because adequate historical data are not available, it is impossible to say whet
 ## Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedly high incidence of pancreatic acinar adenocarcinomas was identified in male, but not female, rats.
-(See PRECAUTIONS: Carcinogenesis, mutagenesis, impairment of fertility.)
+(See PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility.)
 The clinical significance of this finding is unknown.
 Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
@@ -78,7 +78,8 @@ Consequently, whether these figures are reassuring or raise further concern depe
 
 ## Information for patients
 
-Patients should be instructed to take gabapentin tablets only as prescribed.
+Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin tablets USP.
+Instruct patients to take gabapentin tablets USP only as prescribed.
 
 Patients, their caregivers, and families should be counseled that AEDs, including gabapentin tablets, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
@@ -87,7 +88,7 @@ Patients should be advised that gabapentin tablets may cause dizziness, somnolen
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin tablets to gauge whether or not it affects their mental and/or motor performance adversely.
 
 Patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations.
-Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin tablets or morphine should be reduced appropriately (see Drug interactions).
+Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin tablets or morphine should be reduced appropriately (see Drug Interactions).
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -99,11 +100,11 @@ Clinical trials data do not indicate that routine monitoring of clinical laborat
 The value of monitoring gabapentin blood concentrations has not been established.
 Gabapentin tablets may be used in combination with other antiepileptic drugs without concern for alteration of the blood concentrations of gabapentin or of other antiepileptic drugs.
 
-## Drug interactions
+## Drug Interactions
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
-Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14%-30%) of isoform CYP2A6 observed.
-No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
+Only at the highest concentration tested (171 µg/mL; 1 mM) was a slight degree of inhibition (14%-30%) of isoform CYP2A6 observed.
+No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 µg/mL (approximately 15 times the Cmax at 3600 mg/day).
 
 Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.
 
@@ -128,7 +129,7 @@ Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabape
 
 ### Naproxen:
 
-Coadministration (N=18) of naproxen sodium Capsules (250 mg) with gabapentin tablets (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin tablets (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
 Gabapentin had no effect on naproxen pharmacokinetic parameters.
 These doses are lower than the therapeutic doses for both drugs.
 The magnitude of interaction within the recommended dose ranges of either drug is not known.
@@ -142,7 +143,7 @@ The magnitude of interaction at other doses is not known.
 
 ### Morphine:
 
-A literature article reported that when a 60mg controlled-release morphine capsule was administered 2 hours prior to a 600-mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS).
+A literature article reported that when a 60-mg controlled-release morphine capsule was administered 2 hours prior to a 600-mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS).
 Morphine pharmacokinetic parameter values were not affected by administration of gabapentin tablets 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
@@ -174,7 +175,7 @@ This indicates that gabapentin does not undergo renal tubular secretion by the p
 
 Because false positive readings were reported with the Ames N-Multistix SG® dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Gabapentin was given in the diet to mice at 200, 600, and 2000 mg/kg/day and to rats at 250, 1000, and 2000 mg/kg/day for 2 years.
 A statistically significant increase in the incidence of pancreatic acinar cell adenomas and carcinomas was found in male rats receiving the high dose; the no-effect dose for the occurrence of carcinomas was 1000 mg/kg/day.
@@ -182,7 +183,7 @@ Peak plasma concentrations of gabapentin in rats receiving the high dose of 2000
 The pancreatic acinar cell carcinomas did not affect survival, did not metastasize and were not locally invasive.
 The relevance of this finding to carcinogenic risk in humans is unclear.
 
-Studies designed to investigate the mechanism of gabapentin induced pancreatic carcinogenesis in rats indicate that gabapentin stimulates DNA synthesis in rat pancreatic acinar cells in vitro and, thus, may be acting as a tumor promoter by enhancing mitogenic activity.
+Studies designed to investigate the mechanism of gabapentin-induced pancreatic carcinogenesis in rats indicate that gabapentin stimulates DNA synthesis in rat pancreatic acinar cells in vitro and, thus, may be acting as a tumor promoter by enhancing mitogenic activity.
 It is not known whether gabapentin has the ability to increase cell proliferation in other cell types or in other species, including humans.
 
 Gabapentin did not demonstrate mutagenic or genotoxic potential in three in vitro and four in vivo assays.
@@ -210,7 +211,7 @@ To provide information regarding the effects of in utero exposure to gabapentin 
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## Nursing mothers
+## Use in Nursing Mothers
 
 Gabapentin is secreted into human milk following oral administration.
 A nursed infant could be exposed to a maximum dose of approximately 1 mg/kg/day of gabapentin.
