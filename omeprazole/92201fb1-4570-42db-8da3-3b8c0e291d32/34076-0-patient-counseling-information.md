@@ -13,13 +13,13 @@ The microtablets/applesauce mixture should not be stored for future use.
 
 Distributed by:
 
-Kremers Urban, LLC
+Kremers Urban, Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599T
+L3599U
 
-Revised: 4E 09/2010
+Revised: 5E 01/2011
 
 FDA-Approved Patient Labeling
 
@@ -56,8 +56,7 @@ For children and adolescents 2 to 17 years of age, Omeprazole Delayed-Release Ca
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
 - to maintain healing of the esophagus
 
-Omeprazole Delayed-Release Capsules are not recommended for children under the age of 2 years.
-Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems.
+Omeprazole Delayed-Release Capsules are not recommended for children under the age of 2 years Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 WHO SHOULD NOT TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
@@ -148,7 +147,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 HOW SHOULD I STORE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-Store Omeprazole Delayed-Release Capsules at room temperature between 59°F to 86°F (15°C to 30°C).
+Store Omeprazole Delayed-Release Capsules at 68°F to 77°F (20°C to 25°C) (See USP Controlled Room Temperature).
 
 Keep the container of Omeprazole Delayed-Release Capsules closed tightly.
 
@@ -178,15 +177,18 @@ omeprazole
 
 Inactive ingredients in OMEPRAZOLE DELAYED-RELEASE CAPSULES:
 
-(including the capsule shells): crospovidone, gelatin, glyceryl behenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, sodium lauryl sulfate, synthetic black iron oxide, shellac glaze, talc, titanium dioxide and triethyl citrate.
-In addition, the 20 mg and 40 mg capsules shells also contain yellow iron oxide.
+(including the capsule shells): crospovidone, glyceryl behenate, hypromellose, lactose monohydrate, methacrylic acid copolymer dispersion, silicon dioxide, talc, titanium dioxide and triethyl citrate.
+In addition, the capsule shells contain gelatin and sodium lauryl sulfate.
+In addition, the 20 mg and 40 mg capsule shells also contain yellow iron oxide.
+The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron oxide, isopropyl alcohol, propylene glycol and shellac glaze.
+The ink may also contain dehydrated alcohol.
 
 Distributed by:
 
-Kremers Urban, LLC
+Kremers Urban Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599T
+L3599U
 
-Revised: 4E 09/2010
+Revised: 5E 01/2011

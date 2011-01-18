@@ -28,4 +28,6 @@ Bottles of 1000 NDC 62175-136-43
 Storage
 
 Store Omeprazole Delayed-Release Capsules in a tight container protected from light and moisture.
-Store between 15°C and 30°C (59°F and 86°F).
+Store at 20°-25°C (68°-86°) (See USP Controlled Room Temperature).
+
+Dispense in a tight and light-resistant container.

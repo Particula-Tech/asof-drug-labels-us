@@ -120,7 +120,7 @@ Table 2 Clarithromycin Tissue Concentrations 2 hours after Dose*
 | Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
-| * Mean ± SD (μg/g) |  |  |
+| * Mean ± SD (mcg/g) |  |  |
 
 Special Populations
 
@@ -177,11 +177,11 @@ Helicobacter pylori- Pretreatment Resistance
 
 Clarithromycin pretreatment resistance rates were 3.5% (4/113) in the omeprazole/clarithromycin dual therapy studies (4 and 5) and 9.3% (41/439) in omeprazole/clarithromycin/amoxicillin triple therapy studies (1, 2, and 3).
 
-Amoxicillin pretreatment susceptible isolates (≤ 0.25 µg/mL) were found in 99.3% (436/439) of the patients in the omeprazole/clarithromycin/amoxicillin triple therapy studies (1, 2, and 3).
-Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 µg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
-One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 µg/mL by Etest®.
+Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) were found in 99.3% (436/439) of the patients in the omeprazole/clarithromycin/amoxicillin triple therapy studies (1, 2, and 3).
+Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
+One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 mcg/mL by Etest®.
 
-- Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesClarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes*Clarithromycin Pretreatment ResultsClarithromycin Post-treatment ResultsH. pylori negative – eradicatedH. pylori positive – not eradicatedPost-treatment susceptibility resultsS†I†R†No MICDual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)Susceptible †108721269Intermediate †11Resistant †44Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2)Susceptible †171153738Intermediate †Resistant †144163* Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL
+- Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesClarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes*Clarithromycin Pretreatment ResultsClarithromycin Post-treatment ResultsH. pylori negative – eradicatedH. pylori positive – not eradicatedPost-treatment susceptibility resultsS†I†R†No MICDual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)Susceptible †108721269Intermediate †11Resistant †44Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2)Susceptible †171153738Intermediate †Resistant †144163* Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
@@ -189,7 +189,7 @@ Patients with clarithromycin resistant H. pylori should not be treated with any 
 
 Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 µg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy.
+In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy.
 Of the 28 patients who failed triple therapy, 11 had no post-treatment susceptibility test results and 17 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
 Eleven of the patients who failed triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 
@@ -203,22 +203,22 @@ The clarithromycin and amoxicillin MIC values should be interpreted according to
 
 Table 5
 
-| Clarithromycin MIC (µg/mL) * | Interpretation |
+| Clarithromycin MIC (mcg/mL) * | Interpretation |
 | --- | --- |
 | ≤ 0.25 | Susceptible (S) |
 | 0.5 | Intermediate (I) |
-| > 1.0 | Resistant (R) |
-| Amoxicillin MIC (µg/mL) *,† | Interpretation |
+| > 1 | Resistant (R) |
+| Amoxicillin MIC (mcg/mL) *,† | Interpretation |
 | ≤ 0.25 | Susceptible (S) |
-| * These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.† There were not enough organisms with MICs > 0.25 µg/mL to determine a resistance breakpoint. |  |
+| * These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.† There were not enough organisms with MICs > 0.25 mcg/mL to determine a resistance breakpoint. |  |
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard clarithromycin and amoxicillin powders should provide the following MIC values:
 
-| Microorganism | Antimicrobial Agent | MIC (µg/mL) * |
+| Microorganism | Antimicrobial Agent | MIC (mcg/mL) * |
 | --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (µg/mL) |
-| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (µg/mL) |
+| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (mcg/mL) |
+| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (mcg/mL) |
 | * These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |  |  |
 
 Effects on Gastrointestinal Microbial Ecology
