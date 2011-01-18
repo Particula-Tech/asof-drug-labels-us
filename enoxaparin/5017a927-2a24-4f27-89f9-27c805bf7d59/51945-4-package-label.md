@@ -1,15 +1,3 @@
-Package Label - Principal Display Panel - 30mg/0.3mL Syringe
-
-Lovenox®(enoxaparin sodium injection) Rx ONLY
-
-30mg/0.3mL [100mg/mL]
-
-Lot Exp NDC 0075-0624-30
-
-sanofi-aventis U.S. LLC
-
-50081222
-
 Package Label - Principal Display Panel - 30mg/0.3mL Carton
 
 NDC 0075-0624-30
@@ -27,18 +15,6 @@ SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
 Ten 0.3mL Syringes
 
 sanofi aventis
-
-Package Label - Principal Display Panel - 40mg/0.4mL Syringe
-
-Lovenox® (enoxaparin sodium injection) Rx ONLY
-
-40mg/0.4mL [100mg/mL]
-
-Lot Exp NDC 0075-0620-40
-
-sanofi-aventis U.S. LLC
-
-50081223
 
 Package Label - Principal Display Panel - 40mg/0.4mL Carton
 
@@ -58,18 +34,6 @@ Ten 0.4mL Syringes
 
 sanofi aventis
 
-Package Label - Principal Display Panel - 60mg/0.6mL Syringe
-
-Lovenox® (enoxaparin sodium injection) Rx ONLY
-
-60mg/0.6mL [100mg/mL]
-
-Lot Exp NDC 0075-0621-60
-
-sanofi-aventis U.S. LLC
-
-50081224
-
 Package Label - Principal Display Panel - 60mg/0.6mL Carton
 
 NDC 0075-0621-60
@@ -87,18 +51,6 @@ SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
 Ten 0.6mL Syringes
 
 sanofi aventis
-
-Package Label - Principal Display Panel - 80mg/0.8mL Syringe
-
-Lovenox® (enoxaparin sodium injection) Rx ONLY
-
-80mg/0.8mL [100mg/mL]
-
-Lot Exp NDC 0075-0622-80
-
-sanofi-aventis U.S. LLC
-
-50081229
 
 Package Label - Principal Display Panel - 80mg/0.8mL Carton
 
@@ -118,18 +70,6 @@ Ten 0.8mL Syringes
 
 sanofi aventis
 
-Package Label - Principal Display Panel - 100mg/1mL Syringe
-
-NDC 0075-0623-00 Rx ONLY
-
-Lovenox® (enoxaparin sodium injection)
-
-100mg/1mL
-
-Single Dose Syringe with Automatic Safety Device
-
-One 1mL Syringe For Subcutaneous Injection
-
 Package Label - Principal Display Panel - 100mg/1mL Carton
 
 NDC 0075-0623-00
@@ -145,18 +85,6 @@ SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
 Ten 1mL Syringes
 
 sanofi aventis
-
-Package Label - Principal Display Panel - 300mg/3mL Multiple Dose Vial
-
-LOT EXP
-
-NDC 0075-0626-03 Rx ONLY
-
-LOVENOX® (enoxaparin sodium injection)
-
-300mg/3mL [100mg/mL]
-
-For Subcutaneous or Intravenous Injection Multiple Dose Vial One 3mL Vial
 
 Package Label - Principal Display Panel - 300mg/3mL Multiple Dose Carton
 
@@ -176,18 +104,6 @@ One 3mL Vial
 
 sanofi aventis
 
-Package Label - Principal Display Panel - 120mg/0.8mL Syringe
-
-Lovenox® (enoxaparin sodium injection) Rx ONLY
-
-120mg/0.8mL [150mg/mL]
-
-Lot Exp NDC 0075-2912-01
-
-sanofi-aventis U.S. LLC
-
-50081269
-
 Package Label - Principal Display Panel - 120mg/0.8mL Carton
 
 NDC 0075-2912-01
@@ -203,18 +119,6 @@ SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE FOR SUBCUTANEOUS INJECTION
 Ten 0.8mL Syringes
 
 sanofi aventis
-
-Package Label - Principal Display Panel - 150mg/1mL Syringe
-
-NDC 0075-2915-01 Rx ONLY
-
-Lovenox® (enoxaparin sodium injection)
-
-150mg/1mL
-
-Single Dose Syringe with Automatic Safety Device
-
-One 1mL Syringe For Subcutaneous Injection
 
 Package Label - Principal Display Panel - 150mg/1mL Carton
 

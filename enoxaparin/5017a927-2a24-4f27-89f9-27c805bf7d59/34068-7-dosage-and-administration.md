@@ -90,6 +90,9 @@ To minimize bruising, do not rub the injection site after completion of the inje
 
 Lovenox prefilled syringes and graduated prefilled syringes are for single, one-time use only and are available with a system that shields the needle after injection.
 
+Remove the prefilled syringe from the blister packaging by peeling at the arrow as directed on the blister.
+Do not remove by pulling on the plunger as this may damage the syringe.
+
 1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If adjusting the dose is required, the dose adjustment must be done prior to injecting the prescribed dose to the patient.
    Figure A
 2. Inject using standard technique, pushing the plunger to the bottom of the syringe (see Figure B). Figure B

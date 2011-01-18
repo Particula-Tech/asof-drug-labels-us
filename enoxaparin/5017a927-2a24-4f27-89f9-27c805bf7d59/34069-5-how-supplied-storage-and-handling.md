@@ -14,7 +14,7 @@ Table 26 100 mg/mL Concentration
 | 80 mg/0.8 mL | 8000 IU | 10 syringes | Brown | 0622-80 |
 | 100 mg/1 mL | 10,000 IU | 10 syringes | Black | 0623-00 |
 | Multiple-Dose VialEach Lovenox multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative. |  |  |  |  |
-| 300 mg/ 3 mL | 30,000 IU | 1 vial | Red | 0626-03 |
+| 300 mg/3 mL | 30,000 IU | 1 vial | Red | 0626-03 |
 
 Table 27 150 mg/mL Concentration
 
