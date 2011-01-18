@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE EVENTS
 
 The premarketing development program for EMSAM included selegiline exposures in patients and/or normal subjects from two different groups of studies: 702 healthy subjects in clinical pharmacology/pharmacokinetics studies and 2036 exposures from patients in controlled and uncontrolled major depressive disorder clinical trials.
 The conditions and duration of treatment with EMSAM varied and included double-blind, open-label, fixed-dose, and dose titration studies of short-term and longer-term exposures.
@@ -18,7 +18,7 @@ The only adverse event associated with discontinuation, in at least 1% of EMSAM-
 
 ### Adverse Events Occurring at an Incidence of 2% or More Among EMSAM-Treated Patients
 
-Table 1 enumerates adverse events that occurred at an incidence of 2% or more (rounded to the nearest percent) among 817 depressed patients who received EMSAM in doses ranging from 3 to 12 mg/24 hours in placebo-controlled trials of up to 8 weeks in duration.
+Table 2 enumerates adverse events that occurred at an incidence of 2% or more (rounded to the nearest percent) among 817 depressed patients who received EMSAM in doses ranging from 3 to 12 mg/24 hours in placebo-controlled trials of up to 8 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with EMSAM and for which the incidence in patients treated with EMSAM was greater than the incidence in placebo-treated patients.
 
 Only one adverse event was associated with a reporting of at least 5% in the EMSAM group, and a rate at least twice that in the placebo group, in the pool of short-term, placebo-controlled studies: application site reactions (see Application Site Reactions, below).
@@ -28,12 +28,12 @@ These figures cannot be used to predict the incidence of adverse events in the c
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physicians with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-Table 1.
-Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials for Major Depressive Disorder With EMSAMEvents reported by at least 2% of patients treated with EMSAM are included, except the following events, which had an incidence on placebo treatment ≥ to EMSAM: infection, nausea, dizziness, pain, abdominal pain, nervousness, back pain, asthenia, anxiety, flu syndrome, accidental injury, somnolence, rhinitis, and palpitations.
+Table 2.
+Treatment-Emergent Adverse Events: Incidence in Placebo-Controlled Clinical Trials for Major Depressive Disorder With EMSAMEvents reported by at least 2% of patients treated with EMSAM are included, except the following events, which had an incidence on placebo treatment ≥ EMSAM: infection, nausea, dizziness, pain, abdominal pain, nervousness, back pain, asthenia, anxiety, flu syndrome, accidental injury, somnolence, rhinitis, and palpitations.
 
-|  | (% of Patients Reporting Event) |  |
-| --- | --- | --- |
 | Body System/Preferred Term | EMSAM (N = 817) | Placebo (N = 668) |
+| --- | --- | --- |
+|  | (% of Patients Reporting Event) |  |
 | Body as a Whole |  |  |
 | Headache | 18 | 17 |
 | Digestive |  |  |
@@ -66,9 +66,9 @@ Although changes in sexual desire, sexual performance, and sexual satisfaction o
 
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
-Table 2 shows that the incidence rates of sexual side effects in patients with major depressive disorder are comparable to the placebo rates in placebo-controlled trials.
+Table 3 shows that the incidence rates of sexual side effects in patients with major depressive disorder are comparable to the placebo rates in placebo-controlled trials.
 
-Table 2.
+Table 3.
 Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials With EMSAM
 
 | Adverse Event | EMSAM | Placebo |
@@ -95,9 +95,9 @@ In the pool of short-term major depressive disorder trials, 9.8% of EMSAM-treate
 
 ### Weight Changes
 
-In placebo-controlled studies (6 - 8 weeks), the incidence of patients who experienced ≥ 5% weight gain or weight loss is shown in Table 3.
+In placebo-controlled studies (6 - 8 weeks), the incidence of patients who experienced ≥5% weight gain or weight loss is shown in Table 4.
 
-Table 3.
+Table 4.
 Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials With EMSAM
 
 | Weight Change | EMSAM | Placebo |
@@ -122,11 +122,11 @@ No clinically meaningful changes in ECG parameters from baseline to final visit 
 ## Other Events Observed During the Premarketing Evaluation of EMSAM
 
 During the premarketing assessment in major depressive disorder, EMSAM was administered to 2036 patients in Phase III studies.
-The conditions and duration of exposure to EMSAM, varied and included double-blind and open-label studies.
+The conditions and duration of exposure to EMSAM varied and included double-blind and open-label studies.
 
 In the tabulations that follow, reported adverse events were classified using a standard COSTART-based dictionary terminology.
-All reported adverse events are included except those already listed in Table 1 or elsewhere in labeling, and those events occurring in only one patient.
-It is important to emphasize that although the events occurred during treatment with EMSAM, they were not necessarily caused by it.
+All reported adverse events are included except those already listed in Table 2 or elsewhere in labeling, and those events occurring in only one patient.
+It is important to emphasize that although the events occurred during treatment with EMSAM,they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in less than 1/100 patients but at least 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
 
@@ -146,7 +146,7 @@ Hemic and Lymphatic System: Frequent: Ecchymosis.
 Infrequent: Anemia, lymphadenopathy.
 Rare: Leukocytosis, leukopenia, petechia.
 
-Metabolic and Nutritional: Frequent: Peripheral edema.
+Metabolic and Nutritional: Frequent:Peripheral edema.
 Infrequent: Hyperglycemia, increased SGPT, edema, hypercholesteremia, increased SGOT, dehydration, alcohol intolerance, hyponatremia, increased lactic dehydrogenase.
 Rare: Increased alkaline phosphatase, bilirubinemia, hypoglycemic reaction.
 

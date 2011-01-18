@@ -2,7 +2,7 @@
 
 EMSAM (selegiline transdermal system) is contraindicated in patients with known hypersensitivity to selegiline or to any component of the transdermal system.
 
-EMSAM (selegiline transdermal system) is contraindicated with selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, and paroxetine); dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine); tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline); bupropion hydrochloride; meperidine and analgesic agents such as tramadol, methadone, and propoxyphene; the antitussive agent dextromethorphan; St. John's wort; mirtazapine; and cyclobenzaprine.
+EMSAM (selegiline transdermal system) is contraindicated with selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, and paroxetine); dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine); tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline); bupropion hydrochloride; meperidine and analgesic agents such as tramadol, methadone, and propoxyphene; the antitussive agent dextromethorphan; St. John’s wort; mirtazapine; and cyclobenzaprine.
 EMSAM should not be used with oral selegiline or other MAO inhibitors (MAOIs e.g., isocarboxazid, phenelzine, and tranylcypromine) (see WARNINGS).
 
 Carbamazepine and oxcarbazepine are contraindicated in patients taking selegiline (see PRECAUTIONS, Drug Interactions).

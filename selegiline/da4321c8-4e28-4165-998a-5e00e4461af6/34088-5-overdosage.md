@@ -21,4 +21,4 @@ Type and intensity of symptoms may be related to extent of the overdosage.
 
 Treatment should include supportive measures, with pharmacological intervention as appropriate.
 Symptoms may persist after drug washout because of the irreversible inhibitory effects of these agents on systemic MAO activity.
-With overdosage, in order to avoid the occurrence of hypertensive crisis ("cheese reaction"), dietary tyramine should be restricted for several weeks beyond recovery to permit regeneration of the peripheral MAO-A isoenzyme.
+With overdosage, in order to avoid the occurrence of hypertensive crisis (“cheese reaction”), dietary tyramine should be restricted for several weeks beyond recovery to permit regeneration of the peripheral MAO-A isoenzyme.

@@ -3,34 +3,48 @@
 ## Clinical Worsening and Suicide Risk
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients.
-Antidepressants increased the risk of suicidal thinking and behavior (suicidality) in short-term studies in children and adolescents with major depressive disorder (MDD) and other psychiatric disorders.
+Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
+There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-Pooled analyses of short-term placebo-controlled trials of nine antidepressant drugs (SSRIs and others) in children and adolescents with MDD, OCD, or other psychiatric disorders (a total of 24 trials involving over 4400 patients) have revealed a greater risk of adverse events representing suicidal behavior or thinking (suicidality) during the first few months of treatment in those receiving antidepressants.
-The average risk of such events in patients receiving antidepressants was 4%, twice the placebo risk of 2%.
-There was considerable variation in risk among drugs, but a tendency toward an increase for almost all drugs studied.
-The risk of suicidality was most consistently observed in the MDD trials, but there were signals of risk arising from trials in other psychiatric indications (obsessive compulsive disorder and social anxiety disorder) as well.
-No suicides occurred in these trials.
-It is unknown whether the suicidality risk in pediatric patients extends to longer-term use, i.e., beyond several months.
-It is also unknown whether the suicidality risk extends to adults.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorders (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressants in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
+There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
+The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-All pediatric patients being treated with antidepressants for any indication should be observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-Such observation would generally include at least weekly face-to-face contact with patients or their family members or caregivers during the first 4 weeks of treatment, then every other week visits for the next 4 weeks, then at 12 weeks, and as clinically indicated beyond 12 weeks.
-Additional contact by telephone may be appropriate between face-to-face visits.
+Table 1
 
-Adults with MDD or co-morbid depression in the setting of other psychiatric illness being treated with antidepressants should be observed similarly for clinical worsening and suicidality, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+| AGE RANGE | DRUG-PLACEBO DIFFERENCE IN NUMBER OF CASES OF SUICIDALITY PER 1,000 PATIENTS TREATED |
+| --- | --- |
+|  | Increases Compared to Placebo |
+| < 18 | 14 additional cases |
+| 18-24 | 5 additional cases |
+|  | Decreases Compared to Placebo |
+| 25-64 | 1 fewer case |
+| ≥ 65 | 6 fewer cases |
+
+No suicides occurred in any of the pediatric trials.
+There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+
+Due to the limited data, EMSAM at any dose should not be used in children under the age of 12 years even when administered with dietary modifications.
+EMSAM is not approved for use in pediatric patients (See PRECAUTIONS/Pediatric Use).
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms.
-
-Families and caregivers of pediatric patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for EMSAM should be written for the smallest quantity consistent with good patient management, in order to reduce the risk of overdose.
-Families and caregivers of adults being treated for depression should be similarly advised.
+Prescriptions for EMSAM should be written for the smallest quantity of patches consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -65,33 +79,35 @@ Alternately, nitroprusside delivered by continuous intravenous infusion may be u
 Fever should be managed by means of external cooling.
 Patients must be closely monitored until symptoms have stabilized.
 
-## Dietary Modifications Required for Patients Taking EMSAM 9 mg/24 hours and 12 mg/24 hours
+Dietary Modifications Required for Patients Taking EMSAM 9 mg/24 hours and 12 mg/24 hours
 
 The following foods and beverages should be avoided beginning on the first day of EMSAM 9 mg/24 hours or 12 mg/24 hours treatment, and should continue to be avoided for 2 weeks after a dose reduction to EMSAM 6 mg/24 hours or following the discontinuation of EMSAM 9 mg/24 hours or 12 mg/24 hours.
 
-Food and beverages to avoid and those which are acceptableAdapted from K. I. Shulman, S. E. Walker, Psychiatric Annals 2001; 31:378-384:
+Food and beverages to avoid and those which are acceptableAdapted from K.I.
+Shulman, S.E.
+Walker, Psychiatric Annals 2001; 31:378-384:
 
-| Class of Food and Beverage | Tyramine-Rich Foods and Beverages to Avoid | Acceptable Foods, Containing No or Little Tyramine |
+| Class of Food and Beverage | Tyramine-Rich Foods and Beverages to Avoid | Acceptable Foods and Drinks, Containing No or Little Tyramine |
 | --- | --- | --- |
 | Meat, Poultry, and Fish | Air dried, aged and fermented meats, sausages and salamis (including cacciatore, hard salami and mortadella); pickled herring; and any spoiled or improperly stored meat, poultry, and fish (e.g., foods that have undergone changes in coloration, odor, or become moldy); spoiled or improperly stored animal livers | Fresh meat, poultry, and fish, including fresh processed meats (e.g., lunch meats, hot dogs, breakfast sausage, and cooked sliced ham) |
 | Vegetables | Broad bean pods (fava bean pods) | All other vegetables |
 | Dairy | Aged cheeses | Processed cheeses, mozzarella, ricotta cheese, cottage cheese, and yogurt |
 | Beverages | All varieties of tap beer and beers that have not been pasteurized so as to allow for ongoing fermentation | As with other antidepressants, concomitant use of alcohol with EMSAM is not recommended. (Bottled and canned beers and wines contain little or no tyramine.) |
-| Miscellaneous | Concentrated yeast extract (e.g., Marmite), sauerkraut, most soybean products (including soy sauce and tofu), OTC supplements containing tyramine | Brewer's yeast, baker's yeast, soy milk, commercial chain restaurant pizzas prepared with cheeses low in tyramine |
+| Miscellaneous | Concentrated yeast extract (e.g., Marmite), sauerkraut, most soybean products (including soy sauce and tofu), OTC supplements containing tyramine | Brewer’s yeast, baker’s yeast, soy milk, commercial chain restaurant pizzas prepared with cheeses low in tyramine |
 
 ## Use With Other Drugs Affecting Monoamine Activity
 
-Serious, sometimes fatal, central nervous system (CNS) toxicity referred to as the "serotonin syndrome" has been reported with the combination of non-selective MAOIs with certain other drugs, including tricyclic or selective serotonin reuptake inhibitor antidepressants, amphetamines, meperidine, or pentazocine.
+Serious, sometimes fatal, central nervous system (CNS) toxicity referred to as the “serotonin syndrome” has been reported with the combination of non-selective MAOIs with certain other drugs, including tricyclic or selective serotonin reuptake inhibitor antidepressants, amphetamines, meperidine, or pentazocine.
 Serotonin syndrome is characterized by signs and symptoms that may include hyperthermia, rigidity, myoclonus, autonomic instability with rapid fluctuations of the vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 Similar less severe syndromes have been reported in a few patients receiving a combination of oral selegiline with one of these agents.
 
-Therefore, EMSAM (selegiline transdermal system) should not be used in combination with selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, paroxetine); dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine); tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline); oral selegiline or other MAOIs (e.g., isocarboxazid, phenelzine, and tranylcypromine); mirtazapine; bupropion hydrochloride; meperidine and analgesic agents such as tramadol, methadone, and propoxyphene; the antitussive agent dextromethorphan; or St. John's wort because of the risk of life-threatening adverse reactions.
+Therefore, EMSAM (selegiline transdermal system) should not be used in combination with selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, paroxetine); dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine); tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline); oral selegiline or other MAOIs (e.g., isocarboxazid, phenelzine, and tranylcypromine); mirtazapine; bupropion hydrochloride; meperidine and analgesic agents such as tramadol, methadone, and propoxyphene; the antitussive agent dextromethorphan; or St. John’s wort because of the risk of life-threatening adverse reactions.
 Also, EMSAM should not be used with sympathomimetic amines, including amphetamines as well as cold products and weight-reducing preparations that contain vasoconstrictors (e.g., pseudoephedrine, phenylephrine, phenylpropanolamine, and ephedrine).
 (See CONTRAINDICATIONS.)
 
 Concomitant use of EMSAM with buspirone hydrochloride is not advised since several cases of elevated blood pressure have been reported in patients taking MAOIs who were then given buspirone HCl.
 
-After stopping treatment with SSRIs; SNRIs; TCAs; MAOIs; meperidine and analgesics such as tramadol, methadone, and propoxyphene; dextromethorphan; St. John's wort; mirtazapine; bupropion HCl; or buspirone HCl, a time period equal to 4 - 5 half-lives (approximately 1 week) of the drug or any active metabolite should elapse before starting therapy with EMSAM.
+After stopping treatment with SSRIs; SNRIs; TCAs; MAOIs; meperidine and analgesics such as tramadol, methadone, and propoxyphene; dextromethorphan; St. John’s wort; mirtazapine; bupropion HCl; or buspirone HCl, a time period equal to 4 - 5 half-lives (approximately 1 week) of the drug or any active metabolite should elapse before starting therapy with EMSAM.
 Because of the long half-life of fluoxetine and its active metabolite, at least 5 weeks should elapse between discontinuation of fluoxetine and initiation of treatment with EMSAM.
 At least 2 weeks should elapse after stopping EMSAM before starting therapy with buspirone HCl or a drug that is contraindicated with EMSAM.
 
@@ -121,7 +137,7 @@ Clinical experience with EMSAM in patients with certain concomitant systemic ill
 Caution is advised when using EMSAM in patients with disorders or conditions that can produce altered metabolism or hemodynamic responses.
 
 EMSAM has not been systematically evaluated in patients with a history of recent myocardial infarction or unstable heart disease.
-Such patients were generally excluded from clinical studies during the product's premarketing testing.
+Such patients were generally excluded from clinical studies during the product’s premarketing testing.
 
 No ECG abnormalities attributable to EMSAM were observed in clinical trials.
 
@@ -130,7 +146,7 @@ Although studies of phenylpropanolamine and pseudoephedrine did not reveal pharm
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with EMSAM and should counsel them in its appropriate use.
-A patient Medication Guide About Using Antidepressants in Children and Teenagers is available for EMSAM.
+A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for EMSAM.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -140,8 +156,8 @@ Patients should be advised of the following issues and asked to alert their pres
 ## Clinical Worsening and Suicide Risk
 
 Patients, their families and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment or when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly change in the medication.
 
 ## General
@@ -154,7 +170,7 @@ Patients should be advised not to use meperidine and analgesic agents such as tr
 
 Patients should be advised not to use sympathomimetic agents while on EMSAM therapy.
 
-Patients should be advised not to use selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, paroxetine, and St. John's wort), dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine), tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline), mirtazapine, oral selegiline or other MAOIs (e.g., isocarboxazid, phenelzine, and tranylcypromine), bupropion hydrochloride or buspirone hydrochloride while on EMSAM therapy.
+Patients should be advised not to use selective serotonin reuptake inhibitors (SSRIs, e.g., fluoxetine, sertraline, paroxetine, and St. John’s wort), dual serotonin and norepinephrine reuptake inhibitors (SNRIs, e.g., venlafaxine and duloxetine), tricyclic antidepressants (TCAs, e.g., imipramine and amitriptyline), mirtazapine, oral selegiline or other MAOIs (e.g., isocarboxazid, phenelzine, and tranylcypromine), bupropion hydrochloride or buspirone hydrochloride while on EMSAM therapy.
 
 EMSAM (selegiline transdermal system) has not been shown to impair psychomotor performance; however, any psychoactive drug may potentially impair judgment, thinking, or motor skills.
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that EMSAM therapy does not impair their ability to engage in such activities.
@@ -166,7 +182,7 @@ Patients should also be advised to avoid tyramine-containing nutritional supplem
 
 Patients should be advised to use EMSAM exactly as prescribed.
 The need for dietary modifications at higher doses should be explained, and a brief description of hypertensive crisis provided.
-Rare hypertensive reactions with oral selegiline at doses recommended for Parkinson's disease and associated with dietary influences have been reported.
+Rare hypertensive reactions with oral selegiline at doses recommended for Parkinson’s disease and associated with dietary influences have been reported.
 The clinical relevance to EMSAM is unknown.
 
 Patients should be advised that certain tyramine-rich foods and beverages should be avoided while on EMSAM 9 mg/24 hours or EMSAM 12 mg/24 hours, and for 2 weeks following discontinuation of EMSAM at these doses (see CONTRAINDICATIONS and WARNINGS).
@@ -210,7 +226,7 @@ In subjects who had received EMSAM 6 mg/24 hours for 7 days, co-administration w
 Carbamazepine is an enzyme inducer and typically causes decreases in drug exposure; however, slightly increased levels of selegiline and its metabolites were seen after single application of EMSAM 6 mg/24 hours in subjects who had received carbamazepine (400 mg/day) for 14 days.
 Changes in plasma selegiline concentrations were nearly two-fold, and variable across the subject population.
 The clinical relevance of these observations is unknown.
-Carbamazepine is contraindicated with MAOIs, including selegiline (seeCONTRAINDICATIONS).
+Carbamazepine is contraindicated with MAOIs, including selegiline (see CONTRAINDICATIONS).
 
 ### Ibuprofen
 
@@ -230,7 +246,7 @@ In subjects who had received EMSAM 6 mg/24 hours for 10 days, co-administration 
 
 ### Phenylpropanolamine (PPA)
 
-In subjects who had received EMSAM 6 mg/24hours for 9 days, co-administration with PPA (25 mg every 4 hours for 24 hours) did not affect the pharmacokinetics of PPA.
+In subjects who had received EMSAM 6 mg/24 hours for 9 days, co-administration with PPA (25 mg every 4 hours for 24 hours) did not affect the pharmacokinetics of PPA.
 There was a higher incidence of significant blood pressure elevations with the co-administration of EMSAM and PPA than with PPA alone, suggesting a possible pharmacodynamic interaction.
 It is prudent to avoid the concomitant use of sympathomimetic agents with EMSAM.
 
@@ -254,7 +270,7 @@ Intestinal MAO is predominantly type A, while in the brain both isoenzymes exist
 
 MAO plays a vital physiological role in terminating the biological activity of both endogenous and exogenous amines.
 In addition to their role in the catabolism of monoamines in the CNS, MAOs are also important in the catabolism of exogenous amines found in a variety of foods and drugs.
-MAO in the gastrointestinal tract (primarily type A) provides protection from exogenous amines with vasopressor actions, such as tyramine, which if absorbed intact can cause a hypertensive crisis, the so-called "cheese reaction."
+MAO in the gastrointestinal tract (primarily type A) provides protection from exogenous amines with vasopressor actions, such as tyramine, which if absorbed intact can cause a hypertensive crisis, the so-called “cheese reaction.”
 If a large amount of tyramine is absorbed systemically, it is taken up by adrenergic neurons and causes norepinephrine release from neuronal storage sites with resultant elevation of blood pressure.
 While most foods contain negligible amounts or no tyramine, a few food products (see WARNINGS) may contain large amounts of tyramine that represent a potential risk for patients with significant inhibition of intestinal MAO-A resulting from administration of MAOIs.
 Tyramine-containing nutritional supplements should be avoided by patients taking EMSAM (selegiline transdermal system).
@@ -313,9 +329,7 @@ Selegiline was negative in the Ames assay, the in vitro mammalian chromosome abe
 A mating and fertility study was conducted in male and female rats at transdermal doses of 10, 30, and 75 mg/kg/day of selegiline (8, 24, and 60 times the maximum recommended human dose of EMSAM [12 mg/24 hours] on a mg/m2 basis).
 Slight decreases in sperm concentration and total sperm count were observed at the high dose; however, no significant adverse effects on fertility or reproductive performance were observed.
 
-## Teratogenic Effects
-
-### Pregnancy Category C
+## Teratogenic Effects - Pregnancy Category C
 
 In an embryofetal development study in rats, dams were treated with transdermal selegiline during the period of organogenesis at doses of 10, 30, and 75 mg/kg/day (8, 24, and 60 times the maximum recommended human dose [MRHD] of EMSAM [12 mg/24 hours] on a mg/m2 basis).
 At the highest dose there was a decrease in fetal weight and slight increases in malformations, delayed ossification (also seen at the mid dose), and embryofetal post-implantation lethality.
@@ -354,6 +368,13 @@ Because many drugs are excreted in human milk, caution should be exercised admin
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 
 Anyone considering the use of EMSAM (selegiline transdermal system) in a child or adolescent must balance the potential risks with the clinical need.
+
+Due to limited data, EMSAM at any dose should not be used in children under the age of 12 years even when administered with dietary modifications.
+EMSAM is not approved for use in pediatric patients.
+
+Commercially available doses of EMSAM have not been studied in children under the age of 12 years.
+Limited pharmacokinetic data with lower doses than in the commercially available formulations suggest that children under the age of 12 years treated with EMSAM may be exposed to increased levels of selegiline compared to adolescents or adults.
+Therefore, the possibility exists for an increased risk of hypertensive crisis, even at the lowest dose of commercially available EMSAM, when administered without dietary modifications.
 
 ## Geriatric Use
 
