@@ -113,4 +113,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Issued: 0809
+Revised: 0210

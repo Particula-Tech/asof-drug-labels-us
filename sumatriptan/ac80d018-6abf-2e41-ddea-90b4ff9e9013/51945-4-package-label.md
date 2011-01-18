@@ -1,5 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-Container:
+25 mg Labels
 
-Carton:
+Container Label
