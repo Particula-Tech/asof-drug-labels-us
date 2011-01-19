@@ -26,7 +26,7 @@ Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alv
 Some cases have progressed to respiratory failure and/or death.
 Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of amiodarone; however, reports suggest that the use of lower loading and maintenance doses of amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
-Amiodarone HCl Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
+Amiodarone HCl Tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when Pacerone® Tablets therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
 The patient should return for a history, physical exam and chest X-ray every 3 to 6 months.
 
@@ -66,7 +66,7 @@ In some patients, rechallenge at a lower dose has not resulted in return of inte
 ## Worsened Arrhythmia
 
 Amiodarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia, a risk that may be enhanced by the presence of concomitant antiarrhythmics.
-Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion and polymorphic ventricular tachycardia associated with QTc prolongation (torsades de pointes [TdP]).
+Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion and polymorphic ventricular tachycardia associated with QTc prolongation (Torsade de Pointes [TdP]).
 In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
@@ -235,7 +235,7 @@ Monitoring for amiodarone toxicity and serial measurement of amiodarone serum co
 ### Histamine H1 antagonists:
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of loratadine and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of loratadine and amiodarone.
 
 ### Histamine H2 antagonists:
 
@@ -244,7 +244,7 @@ Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 ### Antidepressants:
 
 Trazodone, an antidepressant, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of trazodone and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of trazodone and amiodarone.
 
 ### Other substances:
 

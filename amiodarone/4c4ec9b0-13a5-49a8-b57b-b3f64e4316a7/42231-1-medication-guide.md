@@ -195,4 +195,4 @@ Claritin is a registered trademark of Schering Corporation.
 
 Alavert is a registered trademark of Wyeth.
 
-R1010
+R1210
