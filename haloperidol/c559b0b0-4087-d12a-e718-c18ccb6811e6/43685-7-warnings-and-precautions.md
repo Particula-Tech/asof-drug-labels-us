@@ -153,3 +153,14 @@ Clinical studies of haloperidol did not include sufficient numbers of subjects a
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
 However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS: Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
+
+## Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and post-marketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
+Agranulocytosis (including fatal cases) has also been reported.
+
+Possible risk factors for leukopenia/neutropenia including preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue haloperidol at the first sign of a decline in WBC in the absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) should discontinue haloperidol and have their WBC followed until recovery.
