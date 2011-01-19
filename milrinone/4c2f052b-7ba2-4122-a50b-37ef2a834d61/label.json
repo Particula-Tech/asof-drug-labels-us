@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090038"
+  ],
+  "inn": "milrinone",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9718-10",
+    "0143-9719-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "milrinone lactate",
+      "name": "Milrinone Lactate"
+    }
+  ],
+  "setid": "4c2f052b-7ba2-4122-a50b-37ef2a834d61",
+  "source": "dailymed"
+}
