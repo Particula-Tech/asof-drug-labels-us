@@ -184,7 +184,6 @@ Also see â€œWhat is the most important information I should know about ABILIFY?â
 - High blood sugar (hyperglycemia): Increases in blood sugar can happen in some people who take ABILIFY.
   Extremely high blood sugar can lead to coma or death.
   If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes), your healthcare provider should check your blood sugar before you start ABILIFY and during therapy.
-- Difficulty swallowing: may lead to aspiration and choking.
   Call your healthcare provider if you have any of these symptoms of high blood sugar while taking ABILIFY:
   - feel very thirsty
   - need to urinate more than usual
@@ -192,6 +191,7 @@ Also see â€œWhat is the most important information I should know about ABILIFY?â
   - feel weak or tired
   - feel sick to your stomach
   - feel confused, or your breath smells fruity.
+- Difficulty swallowing: may lead to aspiration and choking.
 - Tardive dyskinesia: Call your healthcare provider about any movements you cannot control in your face, tongue, or other body parts.
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking ABILIFY.
