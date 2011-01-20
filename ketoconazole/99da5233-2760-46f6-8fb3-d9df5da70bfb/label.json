@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076419"
+  ],
   "inn": "ketoconazole",
-  "labeler": "Perrigo New York",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-465-64"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SHAMPOO, SUSPENSION",
+      "generic": "ketoconazole",
+      "name": "Ketoconazole"
+    }
+  ],
   "setid": "99da5233-2760-46f6-8fb3-d9df5da70bfb",
   "source": "dailymed"
 }

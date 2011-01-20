@@ -4,6 +4,7 @@ Tinea (pityriasis) versicolor is a non-contagious infection of the skin caused b
 This commensal organism is part of the normal skin flora.
 In susceptible individuals the condition is often recurrent and may give rise to hyperpigmented or hypopigmented patches on the trunk which may extend to the neck, arms and upper thighs.
 Treatment of the infection may not immediately result in restoration of pigment to the affected sites.
+
 Normalization of pigment following successful therapy is variable and may take months, depending on individual skin type and incidental skin exposure.
 The rate of recurrence of infection is variable.
 
@@ -12,11 +13,12 @@ Ketoconazole was not detected in plasma in 39 patients who shampooed 4-10 times 
 
 An exaggerated use washing test on the sensitive antecubital skin of 10 subjects twice daily for five consecutive days showed that the irritancy potential of ketoconazole shampoo, 2% was significantly less than that of 2.5% selenium sulfide shampoo.
 
-A human sensitization test, a phototoxicity study, and a photoallergy study conducted in 38 male and 22 female volunteers showed no contact sensitization of the delayed hypersensitivity type, no phototoxicity and no photoallergenic potential due to Ketoconazole Shampoo, 2%.
+A human sensitization test, a phototoxicity study, and a photoallergy study conducted in 38 male and 22 female volunteers showed no contact sensitization of the delayed hypersensitivity type, no phototoxicity and no photoallergenic potential due to ketoconazole shampoo, 2%.
 
 ## Mode of Action
 
 Interpretations of in vivo studies suggest that ketoconazole impairs the synthesis of ergosterol, which is a vital component of fungal cell membranes.
+
 It is postulated, but not proven, that the therapeutic effect of ketoconazole in tinea (pityriasis) versicolor is due to the reduction of Pityrosporum orbiculare (Malassezia furfur) and that the therapeutic effect in dandruff is due to the reduction of Pityrosporum ovale.
 Support for the therapeutic effect in tinea versicolor comes from a three-arm, parallel, double-blind, placebo-controlled study in patients who had moderately severe tinea (pityriasis) versicolor.
 Successful response rates in the primary efficacy population for each of both three-day and single-day regimens of ketoconazole shampoo, 2% were statistically significantly greater (73% and 69%, respectively) than a placebo regimen (5%).
@@ -26,5 +28,5 @@ While the differences in the rates of successful response between either of the 
 
 ## Microbiology
 
-Ketoconazole is a broad-spectrum synthetic antifungal agent which inhibits the growth of the following common dermatophytes and yeasts by altering the permeability of the cell membrane: dermatophytes: Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Microsporum canis, M. audouini, M. gypseum and Epidermophyton floccosum; yeast:Candida albicans, C. tropicalis, Pityrosporum ovale and Pityrosporum orbiculare (M. furfur).
+Ketoconazole is a broad-spectrum synthetic antifungal agent which inhibits the growth of the following common dermatophytes and yeasts by altering the permeability of the cell membrane: dermatophytes: Trichophyton rubrum, T. mentagrophytes, T. tonsurans, Microsporum canis, M. audouini, M. gypseum and Epidermophyton floccosum; yeast; Candida albicans, C. tropicalis, Pityrosporum ovale (Malassezia ovale) and Pityrosporum orbiculare (M. furfur).
 Development of resistance by these microorganisms to ketoconazole has not been reported.

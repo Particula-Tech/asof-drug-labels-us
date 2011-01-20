@@ -14,7 +14,7 @@ There have been reports that use of the shampoo resulted in removal of the curl 
 
 The dominant lethal mutation test in male and female mice revealed that single oral doses of ketoconazole as high as 80 mg/kg produced no mutation in any stage of germ cell development.
 The Ames Salmonella microsomal activator assay was also negative.
-A long-term study of ketoconazole in Swiss Albino mice and in Wistar rats showed no evidence of oncogenic activity, when fed at doses up to 80mg/kg/day.
+A long-term feeding study of ketoconazole in Swiss Albino mice and Wistar rats showed no evidence of oncogenic activity.
 
 ## Pregnancy
 
