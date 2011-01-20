@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA077619"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-332-01",
+    "55111-332-05",
+    "55111-332-10",
+    "55111-332-30",
+    "55111-332-78",
+    "55111-332-79",
+    "55111-332-81",
+    "55111-332-90",
+    "55111-333-01",
+    "55111-333-05",
+    "55111-333-10",
+    "55111-333-30",
+    "55111-333-78",
+    "55111-333-79",
+    "55111-333-81",
+    "55111-333-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole",
+      "name": "Pantoprazole"
+    }
+  ],
+  "setid": "564709e8-358f-c185-4ecb-b3849c3fe59c",
+  "source": "dailymed"
+}
