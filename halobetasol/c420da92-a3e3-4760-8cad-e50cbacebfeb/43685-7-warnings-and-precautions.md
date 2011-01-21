@@ -17,7 +17,7 @@ Recovery of HPA axis function is generally prompt upon discontinuation of topica
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur requiring supplemental systemic corticosteroids.
 For information on systemic supplementation, see prescribing information for those products.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS:Pediatric Use).
 
 If irritation develops, halobetasol propionate ointment, 0.05% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
@@ -26,7 +26,7 @@ Such an observation should be corroborated with appropriate diagnostic patch tes
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of halobetasol propionate ointment, 0.05% should be discontinued until the infection has been adequately controlled.
 
-Halobetasol propionate cream, 0.05% should not be used in the treatment of rosacea or perioral dermatitis, and it should not be used on the face, groin, or in the axillae.
+Halobetasol propionate ointment, 0.05% should not be used in the treatment of rosacea or perioral dermatitis, and it should not be used on the face, groin, or in the axillae.
 
 ## Information for Patients
 
@@ -94,4 +94,4 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 ## Geriatric Use
 
 Of approximately 400 patients treated with halobetasol propionate ointment, 0.05% in clinical studies, 25% were 61 years and over and 6% were 71 years and over.
-No overall differences in safety or effectiveness were observed between these patients and younger patients; and other reported clinical experience has not indentified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between these patients and younger patients; and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
