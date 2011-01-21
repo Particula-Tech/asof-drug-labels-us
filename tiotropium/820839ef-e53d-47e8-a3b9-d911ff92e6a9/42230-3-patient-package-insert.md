@@ -4,7 +4,7 @@ SPIRIVA® (speh REE vah) HandiHaler® (tiotropium bromide inhalation powder)
 
 Important Information: Do not swallow SPIRIVA capsules.
 SPIRIVA capsules should only be used with the HandiHaler device.
-SPIRIVA HandiHaler should only be inhaled by mouth (oral inhalation).
+SPIRIVA HandiHaler should only be inhaled through your mouth (oral inhalation).
 
 Read the information that comes with your SPIRIVA HandiHaler before you start using it and each time you refill your prescription.
 There may be new information.
@@ -69,7 +69,7 @@ How should I take SPIRIVA HandiHaler?
   Talk with your doctor if you do not understand the instructions.
 - Do not swallow SPIRIVA capsules.
 - Only use SPIRIVA capsules with the HandiHaler device.
-- Do not use the HandiHaler device to take any other medicine
+- Do not use the HandiHaler device to take any other medicine.
 - SPIRIVA HandiHaler comes as a powder in a SPIRIVA capsule that fits the HandiHaler device.
   Each SPIRIVA capsule, containing only a small amount of SPIRIVA powder, is one full dose of medicine.
 - Separate one blister from the blister card.
@@ -164,11 +164,13 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: December 2009
+Rev: June 2010
 
-IT1600WL1609 10004551/07 65626-08
+IT1600XF1410 10004551/08
+
+IT5300B 75740-03
 
 Patient's Instructions for Use
 
@@ -207,7 +209,7 @@ Becoming familiar with SPIRIVA HandiHaler:
 |  | 2. Insert (put) the SPIRIVA capsule in the center chamber of the HandiHaler device. It does not matter which end of the SPIRIVA capsule you put in the chamber. (Figure 6) |
 |  | Close the mouthpiece until you hear a click, but leave the dust cap open. (Figure 7) Be sure that you have the mouthpiece sitting firmly against the gray base. |
 | Taking your dose using the HandiHaler device: |  |
-| ` | Hold the HandiHaler device with the mouthpiece upright. It is important that you hold the HandiHaler device in an upright position (Figure 8) when pressing the green piercing button. 3. Press the green piercing button until it is flat (flush) against the base, and release. This is how you make holes in the SPIRIVA capsule so that you get the medicine when you breathe in. Do not press the green button more than one time. |
+|  | Hold the HandiHaler device with the mouthpiece upright. It is important that you hold the HandiHaler device in an upright position (Figure 8) when pressing the green piercing button. 3. Press the green piercing button until it is flat (flush) against the base, and release. This is how you make holes in the SPIRIVA capsule so that you get the medicine when you breathe in. Do not press the green button more than one time. |
 |  | Breathe out completely. (Figure 9) Important: Do not breathe (exhale) into the mouthpiece of the HandiHaler device at any time. |
 |  | 4. Breathe in (inhale) Hold the HandiHaler device by the gray base. Do not block the air intake vents. Raise the HandiHaler device to your mouth and close your lips tightly around the mouthpiece. Keep your head in an upright position. The HandiHaler device should be in a horizontal position. (Figure 10)Breathe in slowly and deeply so that you hear or feel the SPIRIVA capsule vibrate.Breathe in until your lungs are full. Hold your breath as long as is comfortable and at the same time take the HandiHaler device out of your mouth. Breathe normally again. |
 | To make sure you get the full dose, you must breathe out completely, and inhale again as in step 4 above (Figure 10). Do not press the green piercing button again. |  |
@@ -225,8 +227,10 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH
 
-©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+©Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: December 2009
+Rev: June 2010
 
-IT1600WL1609 10004551/07 65626-08
+IT1600XF1410 10004551/08
+
+IT5300B 75740-03

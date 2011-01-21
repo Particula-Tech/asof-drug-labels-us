@@ -8,7 +8,7 @@ The dry powder formulation within the SPIRIVA capsule is intended for oral inhal
 
 The active component of SPIRIVA HandiHaler is tiotropium.
 The drug substance, tiotropium bromide monohydrate, is an anticholinergic with specificity for muscarinic receptors.
-It is chemically described as (1α, 2ß, 4ß, 5α, 7ß)-7-[(Hydroxydi-2-thienylacetyl)oxy]-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.02,4]nonane bromide monohydrate.
+It is chemically described as (1α, 2β, 4 β, 5α, 7β)-7-[(Hydroxydi-2-thienylacetyl)oxy]-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.02,4]nonane bromide monohydrate.
 It is a synthetic, non-chiral, quaternary ammonium compound.
 Tiotropium bromide is a white or yellowish white powder.
 It is sparingly soluble in water and soluble in methanol.

@@ -43,7 +43,7 @@ Studies in rats have shown that tiotropium does not readily penetrate the blood-
 
 Metabolism The extent of metabolism appears to be small.
 This is evident from a urinary excretion of 74% of unchanged substance after an intravenous dose to young healthy volunteers.
-Tiotropium, an ester, is nonenzymatically cleaved to the alcohol N-methylscopine and dithienylglycolic acid, neither of which bind to muscarinic receptors.
+Tiotropium, an ester, is nonenzymatically cleaved to the alcohol N-methylscopine and dithienylglycolic acid, neither of which binds to muscarinic receptors.
 
 In vitro experiments with human liver microsomes and human hepatocytes suggest that a fraction of the administered dose (74% of an intravenous dose is excreted unchanged in the urine, leaving 25% for metabolism) is metabolized by cytochrome P450-dependent oxidation and subsequent glutathione conjugation to a variety of Phase II metabolites.
 This enzymatic pathway can be inhibited by CYP450 2D6 and 3A4 inhibitors, such as quinidine, ketoconazole, and gestodene.
@@ -63,11 +63,11 @@ Co-administration of tiotropium with ranitidine did not affect the pharmacokinet
 
 Specific Populations Geriatric Patients As expected for drugs predominantly excreted renally, advanced age was associated with a decrease of tiotropium renal clearance (326 mL/min in COPD patients <58 years to 163 mL/min in COPD patients >70 years), which may be explained by decreased renal function.
 Tiotropium excretion in urine after inhalation decreased from 14% (young healthy volunteers) to about 7% (COPD patients).
-Plasma concentrations were numerically increased with advancing age within COPD patients (43% increase in AUC0-4 after dry powder inhalation), which was not significant when considered in relation to inter- and intra-individual variability [seeDosage and Administration (2) and Use in Specific Populations (8.5)].
+Plasma concentrations were numerically increased with advancing age within COPD patients (43% increase in AUC0-4 after dry powder inhalation), which was not significant when considered in relation to inter- and intra-individual variability [see Dosage and Administration (2) and Use in Specific Populations (8.5)].
 
 Renal Impairment Since tiotropium is predominantly renally excreted, renal impairment was associated with increased plasma drug concentrations and reduced drug clearance after both intravenous infusion and dry powder inhalation.
 Mild renal impairment (creatinine clearance of 50 to 80 mL/min), which is often seen in elderly patients, increased tiotropium plasma concentrations (39% increase in AUC0-4 after intravenous infusion).
 In COPD patients with moderate to severe renal impairment (creatinine clearance of <50 mL/min), the intravenous administration of tiotropium resulted in doubling of the plasma concentrations (82% increase in AUC0-4), which was confirmed by plasma concentrations after dry powder inhalation.
-Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2),Warnings and Precautions (5.4), and Use in Specific Populations (8.6)].
+Patients with moderate to severe renal impairment (creatinine clearance of ≤50 mL/min) treated with SPIRIVA HandiHaler should be monitored closely for anticholinergic side effects [see Dosage and Administration (2), Warnings and Precautions (5.4), and Use in Specific Populations (8.6)].
 
 Hepatic Impairment The effects of hepatic impairment on the pharmacokinetics of tiotropium were not studied.
