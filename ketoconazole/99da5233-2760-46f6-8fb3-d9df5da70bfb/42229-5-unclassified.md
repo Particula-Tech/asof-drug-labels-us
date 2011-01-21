@@ -1,16 +1,18 @@
 Rx Only
 
-MADE IN ISRAEL
+Made in Israel
 
-MANUFACTURED BY PERRIGO
+Manufactured by Perrigo
 
-YERUHAM 80500, ISRAEL
+Yeruham 80500, Israel
 
-DISTRIBUTED BY
+Distributed By
 
-PERRIGO®
+Perrigo®
 
-ALLEGAN, MI 49010
+Allegan, MI 49010
+
+www.perrigo.com
 
 Rev.
-10/08
+12/10

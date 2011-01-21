@@ -6,4 +6,5 @@ As with other shampoos, oiliness and dryness of hair and scalp have been reporte
 In a double-blind, placebo-controlled trial in which patients with tinea versicolor were treated with either a single application of ketoconazole shampoo, 2% (n=106), a daily application for three consecutive days (n=107), or placebo (n=105), drug-related adverse events occurred in 5 (5%), 7 (7%) and 4 (4%) of patients, respectively.
 The only events that occurred in more than one patient in any one of the three treatment groups were pruritus, application site reaction, and dry skin; none of these events occurred in more than 3% of the patients in any one of the three groups.
 
-In worldwide experience with ketoconazole shampoo there have been rare reports of hair discoloration.
+In worldwide experience with ketoconazole shampoo, 2% there have been reports of hair discoloration and abnormal hair texture, itching, skin burning sensation, contact dermatitis, hypersensitivity, alopecia, rash, urticaria, skin irritation, dry skin, and application site reactions.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
