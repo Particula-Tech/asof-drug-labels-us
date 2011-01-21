@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071523",
+    "ANDA071524",
+    "ANDA071525"
+  ],
   "inn": "trazodone",
-  "labeler": "Barr Laboratories, Inc.",
+  "labeler": "Pliva Inc.",
   "package_ndcs": [
     "50111-433-01",
     "50111-433-02",
@@ -15,11 +19,16 @@
     "50111-434-17",
     "50111-441-01",
     "50111-441-02",
-    "50111-441-03",
     "50111-441-10",
     "50111-441-17"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Trazodone Hydrochloride"
+    }
+  ],
   "setid": "4006d439-e2de-4590-82e9-fc9d56e3ec1b",
   "source": "dailymed"
 }

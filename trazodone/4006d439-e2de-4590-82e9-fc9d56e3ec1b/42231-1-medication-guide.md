@@ -1,8 +1,8 @@
-## Medication Guide
+# Medication Guide
 
 Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
-Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
+Read the Medication Guide that comes with your or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
 Talk to your, or your family member’s, healthcare provider about:
 
@@ -33,14 +33,18 @@ Call the healthcare provider between visits as needed, especially if you have co
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| • thoughts about suicide or dying | • new or worse irritability |
-| --- | --- |
-| • attempts to commit suicide | • acting aggressive, being angry, or violent |
-| • new or worse depression | • acting on dangerous impulses |
-| • new or worse anxiety | • an extreme increase in activity and talking (mania) |
-| • feeling very agitated or restless | • other unusual changes in behavior or mood |
-| • panic attacks |  |
-| • trouble sleeping (insomnia) |  |
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
@@ -63,20 +67,23 @@ Do not start new medicines without first checking with your healthcare provider.
 Talk to your child’s healthcare provider for more information.
 
 Call your doctor for medical advice about side effects.
-
 You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Mfg by PLIVA® Hrvatska d.o.o., Zagreb Croatia for PLIVA®, Inc. Pomona, NY 10970 Dist. by Barr Laboratories, Inc., Pomona, NY 10970
+Manufactured In Croatia By:
 
-Revised January 2008
+PLIVA HRVATSKA d.o.o.
 
-BR-433, 434, 441
+Zagreb, Croatia
 
-Z21-0433
+Manufactured For:
 
-c/n.1
+TEVA PHARMACEUTICALS USA
 
-FLEXIDOSE® is a registered trademark of PLIVA®, Inc. for its tablets.
-The trapezoidal shaped tablet is a trademark and original design of PLIVA® Inc.
+Sellersville, PA 18960
+
+Rev.
+E 5/2008
+
+11001630
