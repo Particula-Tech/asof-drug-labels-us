@@ -30,7 +30,7 @@ Nausea, vomiting, epigastric distress, abdominal cramping, diarrhea, constipatio
 
 ## Allergic
 
-Pharyngitis and agranulocytosis; erythematous rash, fever combined with aching and sore throat, laryngospasm, and respiratory distress.
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions; pharyngitis and agranulocytosis; erythematous rash, fever combined with aching and sore throat, laryngospasm, and respiratory distress.
 
 ## Respiratory
 
@@ -39,6 +39,10 @@ Bronchospasm.
 ## Hematologic
 
 Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura.
+
+## Skin
+
+Stevens-Johnson syndrome; toxic epidermal necrolysis; exfoliative dermatitis; erythema multiforme; urticaria.
 
 ## Musculoskeletal
 

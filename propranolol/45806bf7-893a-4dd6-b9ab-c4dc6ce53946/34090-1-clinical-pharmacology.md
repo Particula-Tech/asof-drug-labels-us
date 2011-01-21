@@ -91,6 +91,8 @@ Propranolol plasma clearance was also reduced in the patients with chronic renal
 
 Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity.
 
+Propranolol is not significantly dialyzable.
+
 ### Hepatic Insufficiency
 
 The pharmacokinetics of INNOPRAN XL have not been evaluated in patients with hepatic impairment.
@@ -100,9 +102,11 @@ In cirrhosis, the half-life increased to 11 hours compared to 4 hours (see PRECA
 
 ## Drug Interactions
 
-### Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes
+### Interactions with Substrates, Inhibitors or Inducers of Cytochrome P450 Enzymes
 
-Because propranolol’s metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), administration of INNOPRAN XL with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see DRUG INTERACTIONS under PRECAUTIONS).
+Because propranolol’s metabolism involves multiple pathways in the cytochrome P450 system (CYP2D6, 1A2, 2C19), administration of INNOPRAN XL with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS, Drug Interactions).
+
+Plasma propranolol levels may increase with acute alcohol consumption and decrease upon chronic alcohol use.
 
 #### Substrates or Inhibitors of CYP2D6
 
@@ -120,7 +124,7 @@ No interaction was observed with omeprazole.
 
 #### Inducers of Hepatic Drug Metabolism
 
-Blood levels of propranolol may be decreased by administration of INNOPRAN XL with inducers such as rifampin and ethanol.
+Blood levels of propranolol may be decreased by administration of INNOPRAN XL with inducers such as rifampin.
 Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 100% the clearance of propranolol, resulting in decreased plasma concentrations.
 
 ### Cardiovascular Drugs

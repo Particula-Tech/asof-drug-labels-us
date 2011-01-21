@@ -6,6 +6,12 @@ Sympathetic stimulation may be a vital component supporting circulatory function
 Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
+## Hypersensitivity and Skin Reactions
+
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of propranolol (see ADVERSE REACTIONS).
+
+Cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and urticaria, have been reported with use of propranolol (see ADVERSE REACTIONS).
+
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
 In general, patients with bronchospastic lung disease should not receive beta-blockers.
@@ -13,8 +19,7 @@ Propranolol should be administered with caution in this setting since it may blo
 
 ## Major Surgery
 
-The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
-It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
 However, such patients may be subject to protracted severe hypotension.
@@ -69,13 +74,13 @@ In severe heart failure, the use of propranolol has been associated with increas
 Caution should be exercised when INNOPRAN XL is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
 Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY, Drug Interactions).
 
+Plasma propranolol levels may increase with acute alcohol consumption and decrease upon chronic alcohol use.
+
 ## Cardiovascular Drugs
 
 ### ACE Inhibitors
 
 When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infraction.
-
-Certain ACE inhibitors have been reported to increase bronchial hyperreactivity when administered with propranolol.
 
 The antihypertensive effects of clonidine may be antagonized by beta-blockers.
 INNOPRAN XL should be administered cautiously to patients withdrawing from clonidine.
@@ -92,9 +97,7 @@ Propafenone has negative inotropic and beta-blocking properties that can be addi
 
 Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
 
-Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects and has been associated with severe bradycardia, asystole, and heart failure when administered with propranolol.
-
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
 
 The clearance of lidocaine and bupivacaine are significantly reduced with administration of propranolol.
 Lidocaine and bupivacaine toxicity has been reported following coadministration with propranolol.
@@ -129,7 +132,6 @@ Also, propranolol may reduce sensitivity to dobutamine stress echocardiography i
 ### Reserpine
 
 Patients receiving catecholamine-depleting drugs, such as reserpine and INNOPRAN XL, should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension.
-Administration of reserpine with propranolol may also potentiate depression.
 
 ## Non-Cardiovascular Drugs
 
@@ -181,8 +183,8 @@ Propranolol HCI also was administered (in the feed) to rabbits (throughout pregn
 No evidence of embryo or neonatal toxicity was noted.
 
 There are no adequate and well-controlled studies in pregnant women.
-Intrauterine growth retardation has been reported for neonates whose mothers received propranolol HCl during pregnancy.
-Neonates whose mothers received propranolol HCl at parturition have exhibited bradycardia, hypoglycemia, and respiratory depression.
+Intrauterine growth retardation, small placentas, and congenital anomalies have been reported for neonates whose mothers received propranolol HCl during pregnancy.
+Neonates whose mothers received propranolol HCl at parturition have exhibited bradycardia, hypoglycemia, and/or respiratory depression.
 Adequate facilities for monitoring such infants at birth should be available.
 INNOPRAN XL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
