@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090970"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6688-10",
+    "0378-6688-77",
+    "0378-6689-10",
+    "0378-6689-77"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "56ad5b97-8e5f-48a5-b2ba-a5484b43d018",
+  "source": "dailymed"
+}
