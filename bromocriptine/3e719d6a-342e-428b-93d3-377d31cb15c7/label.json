@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020866"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "Santarus, Inc.",
+  "package_ndcs": [
+    "68012-258-20",
+    "68012-258-21",
+    "68012-258-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "CYCLOSET"
+    }
+  ],
+  "setid": "3e719d6a-342e-428b-93d3-377d31cb15c7",
+  "source": "dailymed"
+}
