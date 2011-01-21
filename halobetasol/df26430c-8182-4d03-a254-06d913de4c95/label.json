@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077123"
+  ],
   "inn": "halobetasol",
-  "labeler": "Perrigo Israel Pharmaceuticals Ltd.",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-129-32",
     "45802-129-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "halobetasol propionate",
+      "name": "Halobetasol Propionate"
+    }
+  ],
   "setid": "df26430c-8182-4d03-a254-06d913de4c95",
   "source": "dailymed"
 }

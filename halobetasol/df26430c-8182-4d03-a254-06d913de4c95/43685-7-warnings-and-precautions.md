@@ -3,7 +3,7 @@
 ## General
 
 Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
-Manifestations of Cushing's syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
+Manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
 
 Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
 This may be done by using the ACTH stimulation, A.M. plasma cortisol, and urinary free-cortisol tests.
@@ -32,12 +32,19 @@ Halobetasol propionate cream, 0.05% should not be used in the treatment of rosac
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1. The medication is to be used as directed by the physician.
-   It is for external use only.
-   Avoid contact with the eyes.
-2. The medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged, or otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions.
+1.
+The medication is to be used as directed by the physician.
+It is for external use only.
+Avoid contact with the eyes.
+
+2.
+The medication should not be used for any disorder other than that for which it was prescribed.
+
+3.
+The treated skin area should not be bandaged, or otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
+
+4.
+Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests
 
@@ -50,7 +57,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 Positive mutagenicity effects were observed in two genotoxicity assays.
 Halobetasol propionate was positive in a Chinese hamster micronucleus test, and in a mouse lymphoma gene mutation assay in vitro.
 
-Studies in the rat following oral administration at dose levels up to 50 µg/kg/day indicated no impairment of fertility or general reproductive performance.
+Studies in the rat following oral administration at dose levels up to 50 μg/kg/day indicated no impairment of fertility or general reproductive performance.
 
 In other genotoxicity testing, halobetasol propionate was not found to be genotoxic in the Ames/Salmonella assay, in the sister chromatid exchange test in somatic cells of the Chinese hamster, in chromosome aberration studies of germinal and somatic cells of rodents, and in a mammalian spot test to determine point mutations.
 
@@ -82,15 +89,15 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Safety and effectiveness of halobetasol propionate cream, 0.05% in pedriatric patients have not been established and use in pediatric patients under 12 is not recommended.
-Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA suppression and Cushing's syndrome when they are treated with topical corticosteroids.
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
 
-HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain and intracranial hypertension have been reported in children receiving topical corticosteroids.
+HPA axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain and intracranial hypertension have been reported in children receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include low plasma cortisol levels and an absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 ## Geriatric Use
 
 Of approximately 400 patients treated with halobetasol propionate cream, 0.05% in clinical studies, 25% were 61 years and over and 6% were 71 years and over.
-No overall differences in safety or effectiveness were observed between these patients and younger patients; and other reported clinical experience has not indentified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between these patients and younger patients; and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

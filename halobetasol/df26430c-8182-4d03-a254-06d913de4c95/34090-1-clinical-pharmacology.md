@@ -1,6 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Like other topical corticosteroids, halobetasol propionate has anti-inflammatory, antipruritic and vasoconstrictive actions.
+
 The mechanism of the anti-inflammatory activity of the topical corticosteroids, in general, is unclear.
 However, corticosteroids are thought to act by the induction of phospholipase A2, inhibitory proteins, collectively called lipocortins.
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid.
