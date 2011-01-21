@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Renagel is contraindicated in patients with hypophosphatemia or bowel obstruction.
+Renagel is contraindicated in patients with bowel obstruction.

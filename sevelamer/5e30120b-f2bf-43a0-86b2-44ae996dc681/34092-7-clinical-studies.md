@@ -20,14 +20,16 @@ Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 |  | Renagel® (N=81) | Active-Control (N=83) |
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
+| Endpoint | 6.4 | 5.9 |
 | Change from Baseline at Endpoint(95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison(-2.5, -1.5) | -2.1(-2.6, -1.7) |
 
-Figure 2 shows that the proportion of patients achieving a given level of serum phosphorus lowering is similar in the two treatment groups.
-Median decrease in phosphorus was 2 mg/dL on each treatment.
+The distribution of responses is shown in Figure 2.
+The distributions are similar for sevelamer hydrochloride and active control.
+The median response is a reduction of about 2 mg/dL in both groups.
+About 50% of subjects have reductions between 1 and 3 mg/dL.
 
 Figure 2.
-Cumulative percent of patients (Y-axis) attaining a phosphorus change from baseline at least as great as the value of the X-axis.
-A shift to the left of a curve indicates a better response.
+Percentage of patients (Y-axis) attaining a phosphorus reduction from baseline (mg/dL) at least as great as the value of the X-axis.
 
 Average daily Renagel dose at the end of treatment was 4.9 g (range of 0.0 to 12.6 g).
 
