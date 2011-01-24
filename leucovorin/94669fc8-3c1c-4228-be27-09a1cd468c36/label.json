@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071198",
+    "ANDA071199"
+  ],
   "inn": "leucovorin",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
     "0555-0484-01",
     "0555-0484-02",
@@ -10,7 +13,13 @@
     "0555-0485-04",
     "0555-0485-27"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "leucovorin calcium",
+      "name": "Leucovorin Calcium"
+    }
+  ],
   "setid": "94669fc8-3c1c-4228-be27-09a1cd468c36",
   "source": "dailymed"
 }

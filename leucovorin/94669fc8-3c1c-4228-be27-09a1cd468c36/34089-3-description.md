@@ -8,3 +8,5 @@ The 25mg tablet also contains D&C yellow no. 10 and FD&C blue no. 1.
 Leucovorin is a water soluble form of reduced folate in the folate group; it is useful as an antidote to drugs which act as folic acid antagonists.
 These tablets are intended for oral administration only.
 The structural formula of leucovorin calcium is:
+
+C20H21CaN7O7 Molecular Weight: 511.51

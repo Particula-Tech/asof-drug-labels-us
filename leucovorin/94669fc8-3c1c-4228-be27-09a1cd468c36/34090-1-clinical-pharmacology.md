@@ -9,9 +9,12 @@ The increase in plasma and serum folate activity (determined microbiologically w
 Twenty normal men were given a single, oral 15 mg dose (7.5 mg/m2) of leucovorin calcium and serum folate concentrations were assayed with L. casei.
 Mean values observed (± one standard error) were:
 
-1. Time to peak serum folate concentration: 1.72 ± 0.08 hours,
-2. Peak serum folate concentration achieved: 268 ± 18 ng/mL,
-3. Serum folate half-disappearance time: 3.5 hours.
+1. 
+   1. 
+      1. 
+         1. Time to peak serum folate concentration: 1.72 ± 0.08 hours,
+         2. Peak serum folate concentration achieved: 268 ± 18 ng/mL,
+         3. Serum folate half-disappearance time: 3.5 hours.
 
 Oral tablets yielded areas under serum folate concentration-time curves (AUCs) that were 12% greater than equal amounts of leucovorin given intramuscularly and equal to the same amounts given intravenously.
 
