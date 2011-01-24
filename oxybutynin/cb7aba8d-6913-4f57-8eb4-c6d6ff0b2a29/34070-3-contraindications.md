@@ -1,7 +1,5 @@
 # CONTRAINDICATIONS
 
-Oxybutynin chloride is contraindicated in patients with untreated angle closure glaucoma and in patients with untreated narrow anterior chamber angles since anticholinergic drugs may aggravate these conditions.
-It is also contraindicated in partial or complete obstruction of the gastrointestinal tract, paralytic ileus, intestinal atony of the elderly or debilitated patient, megacolon, toxic megacolon complicating ulcerative colitis, severe colitis and myasthenia gravis.
-It is contraindicated in patients with obstructive uropathy and in patients with unstable cardiovascular status in acute hemorrhage.
+Oxybutynin chloride is contraindicated in patients with urinary retention, gastric retention and other severe decreased gastrointestinal motility conditions, uncontrolled narrow-angle glaucoma and in patients who are at risk for these conditions.
 
-Oxybutynin chloride is contraindicated in patients who have demonstrated hypersensitivity to the product.
+Oxybutynin chloride is also contraindicated in patients who have demonstrated hypersensitivity to the drug substance or other components of the product.

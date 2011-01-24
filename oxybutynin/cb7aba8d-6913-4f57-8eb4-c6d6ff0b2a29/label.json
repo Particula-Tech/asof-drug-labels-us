@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071655"
+  ],
   "inn": "oxybutynin",
-  "labeler": "PLIVA, Inc.",
+  "labeler": "Pliva Inc.",
   "package_ndcs": [
     "50111-456-01",
     "50111-456-02",
     "50111-456-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxybutynin chloride",
+      "name": "Oxybutynin Chloride"
+    }
+  ],
   "setid": "cb7aba8d-6913-4f57-8eb4-c6d6ff0b2a29",
   "source": "dailymed"
 }

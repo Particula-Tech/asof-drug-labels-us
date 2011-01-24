@@ -1,7 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-Adults: The usual dose is one 5 mg tablet two to three times a day.
-The maximum recommended dose is one tablet (5 mg) four times a day.
+## Tablets
 
-Children over 5 years of age: The usual dose is one 5 mg tablet two times a day.
-The maximum recommended dose is one tablet (5 mg) three times a day.
+Adults: The usual dose is one 5-mg tablet two to three times a day.
+The maximum recommended dose is one 5-mg tablet four times a day.
+A lower starting dose of 2.5 mg two or three times a day is recommended for the frail elderly.
+
+Pediatric patients over 5 years of age: The usual dose is one 5-mg tablet two times a day.
+The maximum recommended dose is one 5-mg tablet three times a day.
