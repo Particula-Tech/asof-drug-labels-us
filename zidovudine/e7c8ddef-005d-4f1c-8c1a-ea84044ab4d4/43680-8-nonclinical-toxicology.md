@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Zidovudine was administered orally at 3 dosage levels to separate groups of mice and rats (60 females and 60 males in each group).
 Initial single daily doses were 30, 60, and 120 mg/kg/day in mice and 80, 220, and 600 mg/kg/day in rats.
@@ -19,7 +19,7 @@ Zidovudine, administered to male and female rats at doses up to 7 times the usua
 Two transplacental carcinogenicity studies were conducted in mice.
 One study administered zidovudine at doses of 20 mg/kg/day or 40 mg/kg/day from gestation day 10 through parturition and lactation with dosing continuing in offspring for 24 months postnatally.
 The doses of zidovudine administered in this study produced zidovudine exposures approximately 3 times the estimated human exposure at recommended doses.
-After 24 months, a n increase in incidence of vaginal tumors was noted with no increase in tumors in the liver or lung or any other organ in either gender.
+After 24 months, an increase in incidence of vaginal tumors was noted with no increase in tumors in the liver or lung or any other organ in either gender.
 These findings are consistent with results of the standard oral carcinogenicity study in mice, as described earlier.
 A second study administered zidovudine at maximum tolerated doses of 12.5 mg/day or 25 mg/day (~1,000 mg/kg nonpregnant body weight or ~450 mg/kg of term body weight) to pregnant mice from days 12 through 18 of gestation.
 There was an increase in the number of tumors in the lung, liver, and female reproductive tracts in the offspring of mice receiving the higher dose level of zidovudine.
@@ -32,5 +32,5 @@ The doses used in the teratology studies resulted in peak zidovudine plasma conc
 In an in vitro experiment with fertilized mouse oocytes, zidovudine exposure resulted in a dose-dependent reduction in blastocyst formation.
 In an additional teratology study in rats, a dose of 3,000 mg/kg/day (very near the oral median lethal dose in rats of 3,683 mg/kg) caused marked maternal toxicity and an increase in the incidence of fetal malformations.
 This dose resulted in peak zidovudine plasma concentrations 350 times peak human plasma concentrations.
-(Estimated area under the curve [AUC] in rats at this dose level was 300 times the daily AUC in humans given 600 mg/day.)
+(Estimated AUC in rats at this dose level was 300 times the daily AUC in humans given 600 mg/day.)
 No evidence of teratogenicity was seen in this experiment at doses of 600 mg/kg/day or less.

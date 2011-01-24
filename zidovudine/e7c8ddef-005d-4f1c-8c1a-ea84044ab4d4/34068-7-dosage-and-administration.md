@@ -3,24 +3,24 @@
 ## 2.1 Treatment of HIV-1 Infection
 
 Adults: The recommended oral dose of zidovudine tablets is 600 mg/day in divided doses in combination with other antiretroviral agents.
-Pediatric Patients (6 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine tablets, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+Pediatric Patients (4 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine tablets, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 Prescribers should calculate the appropriate dose of zidovudine tablets for each child based on body weight (kg) and should not exceed the recommended adult dose.
 Before prescribing zidovudine tablets, children should be assessed for the ability to swallow tablets.
 If a child is unable to reliably swallow a zidovudine tablet, the zidovudine syrup formulation should be prescribed.
-The recommended dosage in pediatric patients 6 weeks of age and older and weighing ≥4 kg is provided in Table 1.
+The recommended dosage in pediatric patients 4 weeks of age and older and weighing ≥4 kg is provided in Table 1.
 Zidovudine syrup should be used to provide accurate dosage when whole tablets are not appropriate.
 
 Table 1: Recommended Pediatric Dosage of Zidovudine Tablets
 
-| Body Weight (kg) | Total Daily Dose | Dosage Regimen and Dose |  |
-| --- | --- | --- | --- |
 | b.i.d. | t.i.d. |  |  |
+| --- | --- | --- | --- |
+| Body Weight (kg) | Total Daily Dose | Dosage Regimen and Dose |  |
 | 4 to <9 | 24 mg/kg/day | 12 mg/kg | 8 mg/kg |
 | ≥9 to <30 | 18 mg/kg/day | 9 mg/kg | 6 mg/kg |
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
 
 Alternatively, dosing for zidovudine tablets can be based on body surface area (BSA) for each child.
-The recommended oral dose of zidovudine tablets is 480 mg/m2/day in divided doses (240 mg/m2 twice daily or 160 mg/m2 three times daily).
+The recommended oral dose of zidovudine tablets is 480 mg/m 2 /day in divided doses (240 mg/m 2 twice daily or 160 mg/m 2 three times daily).
 In some cases the dose calculated by mg/kg will not be the same as that calculated by BSA.
 
 ## 2.2 Prevention of Maternal-Fetal HIV-1 Transmission
