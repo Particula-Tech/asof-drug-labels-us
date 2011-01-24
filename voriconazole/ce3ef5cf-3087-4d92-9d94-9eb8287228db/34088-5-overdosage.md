@@ -1,4 +1,4 @@
-# OVERDOSE
+# 10 OVERDOSAGE
 
 In clinical trials, there were three cases of accidental overdose.
 All occurred in pediatric patients who received up to five times the recommended intravenous dose of voriconazole.

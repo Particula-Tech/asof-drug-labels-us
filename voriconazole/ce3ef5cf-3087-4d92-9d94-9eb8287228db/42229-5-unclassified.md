@@ -1,5 +1,7 @@
-Rx only
+Rx Only
 
-LAB-0271-25.0
+Trademarks are the property of their respective owners.
 
-March 2010
+LAB-0271-28.0
+
+December 2010
