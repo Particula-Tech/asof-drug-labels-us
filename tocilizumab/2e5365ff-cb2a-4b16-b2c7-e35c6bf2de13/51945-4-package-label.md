@@ -6,10 +6,9 @@ Actemra® (tocilizumab) Injection
 
 200 mg/10 mL
 
-(20 mg/ mL)
+(20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-
 Single-Use Vial; Discard unused portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide

@@ -173,18 +173,18 @@ Inactive ingredients: sucrose, polysorbate 80, disodium phosphate dodecahydrate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+MG Issued: January 2010
+
 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 US License No. 1048
 
-10094884
+AAI_4877533_PI_032010_N
 
-AAI_4877533_PI_062009_N_5
+AAI_4877533_MG_032010_N
 
-AAI_4877533_MG_062009_N_5
+PI Revised: January 2011
 
-PI Issued: January 2010
-
-© 2010 Genentech, Inc. All rights reserved.
+© 2011 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

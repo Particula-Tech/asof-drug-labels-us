@@ -53,7 +53,7 @@ Neutrophils
 Treatment with ACTEMRA was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
-- –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count i.e., absolute neutrophil count (ANC) <2000/mm3.
+- –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) <2000/mm3.
   In patients who develop an absolute neutrophil count <500/mm3 treatment is not recommended.
 - –Neutrophils should be monitored every 4 to 8 weeks [see Clinical Pharmacology (12.2)].
   For recommended modifications based on ANC results see Dosage and Administration (2.3).
@@ -88,7 +88,7 @@ Lipids
 
 Treatment with ACTEMRA was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1)].
 
-- –Assessment of lipid parameters should be performed approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 6 month intervals.
+- –Assessment of lipid parameters should be performed approximately 4 to 8 weeks following initiation of ACTEMRA therapy, then at approximately 24 week intervals.
 - –Patients should be managed according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 ## 5.4 Immunosuppression

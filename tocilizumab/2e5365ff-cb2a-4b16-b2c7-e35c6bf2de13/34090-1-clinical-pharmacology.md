@@ -28,18 +28,19 @@ The pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in area under the curve (AUC) and trough concentration (Cmin) was observed for doses of 4 and 8 mg/kg every 4 weeks.
 Maximum concentration (Cmax) increased dose-proportionally.
 At steady-state, predicted AUC and Cmin were 2.7 and 6.5-fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
+In a long-term study with dosing for 104 weeks, observed Cmin was sustained over time.
 
-For doses of ACTEMRA 4 mg/kg given every 4 weeks, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg•h/mL, 1.49 ± 2.13 mcg/mL, and 88.3 ± 41.4 mcg/mL, respectively.
+For doses of ACTEMRA 4 mg/kg given every 4 weeks, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 13000 ± 5800 mcg∙h/mL, 1.49 ± 2.13 mcg/mL, and 88.3 ± 41.4 mcg/mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.11 and 1.02, respectively.
 The accumulation ratio was higher for Cmin (1.96).
 Steady-state was reached following the first administration for Cmax and AUC, respectively, and after 16 weeks Cmin.
 
-For doses of ACTEMRA 8 mg/kg given every 4 weeks, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg•h/mL, 9.74 ± 10.5 mcg/mL, and 183 ± 85.6 mcg/mL, respectively.
+For doses of ACTEMRA 8 mg/kg given every 4 weeks, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 35000 ± 15500 mcg∙h/mL, 9.74 ± 10.5 mcg/mL, and 183 ± 85.6 mcg/mL, respectively.
 The accumulation ratios for AUC and Cmax were 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35).
 Steady-state was reached following the first administration and after 8 and 20 weeks for Cmax, AUC, and Cmin, respectively.
 Tocilizumab AUC, Cmin and Cmax increased with increase of body weight.
-At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg•h/mL, 19.0 ± 12.0 mcg/mL, and 269 ± 57 mcg/mL, respectively, which are higher than mean exposure values for the patient population.
+At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 mcg∙h/mL, 19.0 ± 12.0 mcg/mL, and 269 ± 57 mcg/mL, respectively, which are higher than mean exposure values for the patient population.
 Therefore, ACTEMRA doses exceeding 800 mg per infusion are not recommended [see Dosage and Administration (2.1)].
 
 Distribution
@@ -87,7 +88,7 @@ Caution should be exercised when ACTEMRA is coadministered with drugs where decr
 Simvastatin
 
 Simvastatin is a CYP3A4 and OATP1B1 substrate.
-In 12 RA patients, not treated with ACTEMRA, receiving 40 mg simvastatin, exposures of simvastatin and its metabolite, simvastatin acid, was 4- to 10-fold and 2-fold higher, respectively, than the exposures observed in healthy subjects.
+In 12 RA patients not treated with ACTEMRA, receiving 40 mg simvastatin, exposures of simvastatin and its metabolite, simvastatin acid, was 4- to 10-fold and 2-fold higher, respectively, than the exposures observed in healthy subjects.
 One week following administration of a single infusion of ACTEMRA (10 mg/kg), exposure of simvastatin and simvastatin acid decreased by 57% and 39%, respectively, to exposures that were similar or slightly higher than those observed in healthy subjects.
 Exposures of simvastatin and simvastatin acid increased upon withdrawal of ACTEMRA in RA patients.
 Selection of a particular dose of simvastatin in RA patients should take into account the potentially lower exposures that may result after initiation of ACTEMRA (due to normalization of CYP3A4) or higher exposures after discontinuation of ACTEMRA.

@@ -20,7 +20,7 @@ NDC 50242-136-04 providing 200 mg/10 mL
 NDC 50242-137-04 providing 400 mg/20 mL
 
 Storage and Stability: Do not use beyond expiration date on the container.
-ACTEMRA must be refrigerated at 2ºC to 8ºC (36°F to 46°F).
+ACTEMRA must be refrigerated at 2°C to 8°C (36°F to 46°F).
 Do not freeze.
 Protect the vials from light by storage in the original package until time of use.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

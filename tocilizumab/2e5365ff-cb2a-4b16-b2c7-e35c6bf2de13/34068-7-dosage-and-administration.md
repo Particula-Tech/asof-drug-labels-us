@@ -24,7 +24,7 @@ ACTEMRA for intravenous infusion should be diluted to 100 mL by a healthcare pro
 3. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
    If particulates and discolorations are noted, the product should not be used.
    Fully diluted ACTEMRA solutions are compatible with polypropylene, polyethylene and polyvinyl chloride infusion bags and polypropylene, polyethylene and glass infusion bottles.
-4. The fully diluted ACTEMRA solutions for infusion may be stored at 2°-8°C (36°-46°F) or room temperature for up to 24 hours and should be protected from light.
+4. The fully diluted ACTEMRA solutions for infusion may be stored at 2° to 8°C (36° to 46°F) or room temperature for up to 24 hours and should be protected from light.
    ACTEMRA solutions do not contain preservatives; therefore, unused product remaining in the vials should not be used.
 5. Allow the fully diluted ACTEMRA solution to reach room temperature prior to infusion.
 6. The infusion should be administered over 60 minutes, and must be administered with an infusion set.
@@ -41,7 +41,7 @@ ACTEMRA treatment should be interrupted if a patient develops a serious infectio
 | Liver Enzyme Abnormalities [see Warnings and Precautions (5.3)]: |  |
 | > 1 to 3x ULN | Dose modify concomitant DMARDs if appropriate |
 |  | For persistent increases in this range, reduce ACTEMRA dose to 4 mg/kg or interrupt ACTEMRA until ALT/AST have normalized |
-| > 3 to 5x ULN | Interrupt ACTEMRA dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN |
+| > 3 to 5x ULN | Interrupt ACTEMRA dosing until < 3x ULN and follow recommendations above for > 1 to 3x ULN |
 | (confirmed by repeat testing) | For persistent increases > 3x ULN, discontinue ACTEMRA |
 | > 5x ULN | Discontinue ACTEMRA |
 

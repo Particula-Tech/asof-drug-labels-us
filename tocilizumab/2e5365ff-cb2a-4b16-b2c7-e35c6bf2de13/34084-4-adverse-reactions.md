@@ -6,7 +6,7 @@ The ACTEMRA data described below includes 5 double-blind, controlled, multicente
 In these studies, patients received doses of ACTEMRA 8 mg/kg monotherapy (288 patients), ACTEMRA 8 mg/kg in combination with DMARDs (including methotrexate) (1582 patients), or ACTEMRA 4 mg/kg in combination with methotrexate (774 patients).
 
 The all exposure population includes all patients in registration studies who received at least one dose of ACTEMRA.
-Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year; 2806 received treatment for at least 2 years and 1222 for 3 years.
+Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3309 for at least one year; 2954 received treatment for at least 2 years and 2189 for 3 years.
 
 All patients in these studies had moderately to severely active rheumatoid arthritis.
 The study population had a mean age of 52 years, 82% were female and 74% were Caucasian.
@@ -14,45 +14,44 @@ The study population had a mean age of 52 years, 82% were female and 74% were Ca
 ## 6.1 Clinical Trials Experience
 
 The most common serious adverse reactions were serious infections [see Warnings and Precautions (5.1)].
-The most commonly reported adverse reactions in controlled studies up to 6 months (occurring in ≥ 5% of patients treated with ACTEMRA monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+The most commonly reported adverse reactions in controlled studies up to 24 weeks (occurring in ≥ 5% of patients treated with ACTEMRA monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 The proportion of patients who discontinued treatment due to any adverse reactions during the double-blind, placebo-controlled studies was 5% for patients taking ACTEMRA and 3% for placebo-treated patients.
 The most common adverse reactions that required discontinuation of ACTEMRA were increased hepatic transaminase values (per protocol requirement) and serious infections.
 
 Overall Infections
 
-In the 6-month, controlled clinical studies, the rate of infections in the ACTEMRA monotherapy group was 119 events per 100 patient-years and was similar in the methotrexate monotherapy group.
+In the 24 week, controlled clinical studies, the rate of infections in the ACTEMRA monotherapy group was 119 events per 100 patient-years and was similar in the methotrexate monotherapy group.
 The rate of infections in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group was 133 and 127 events per 100 patient-years, respectively, compared to 112 events per 100 patient-years in the placebo plus DMARD group.
 The most commonly reported infections (5% to 8% of patients) were upper respiratory tract infections and nasopharyngitis.
 
-The overall rate of infections with ACTEMRA in the all exposure population was 108 events per 100 patient-years.
+The overall rate of infections with ACTEMRA in the all exposure population remained consistent with rates in the controlled periods of the studies.
 
 Serious Infections
 
-In the 6-month, controlled clinical studies, the rate of serious infections in the ACTEMRA monotherapy group was 3.6 per 100 patient-years compared to 1.5 per 100 patient-years in the methotrexate group.
+In the 24 week, controlled clinical studies, the rate of serious infections in the ACTEMRA monotherapy group was 3.6 per 100 patient-years compared to 1.5 per 100 patient-years in the methotrexate group.
 The rate of serious infections in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group was 4.4 and 5.3 events per 100 patient-years, respectively, compared to 3.9 events per 100 patient-years in the placebo plus DMARD group.
 
-In the all-exposure population, the overall rate of serious infections was 4.7 events per 100 patient-years.
+In the all-exposure population, the overall rate of serious infections remained consistent with rates in the controlled periods of the studies.
 The most common serious infections included pneumonia, urinary tract infection, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
-The overall rate of fatal serious infections was 0.13 per 100 patient-years.
 Cases of opportunistic infections have been reported [see Warnings and Precautions (5.1)].
 
 Gastrointestinal Perforations
 
-During the 6-month, controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient-years with ACTEMRA therapy.
+During the 24 week, controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient-years with ACTEMRA therapy.
 
-In the all-exposure population, the overall rate of gastrointestinal perforation was 0.28 events per 100 patient-years.
+In the all-exposure population, the overall rate of gastrointestinal perforation remained consistent with rates in the controlled periods of the studies.
 Reports of gastrointestinal perforation were primarily reported as complications of diverticulitis including generalized purulent peritonitis, lower GI perforation, fistula and abscess.
 Most patients who developed gastrointestinal perforations were taking concomitant nonsteroidal anti-inflammatory medications (NSAIDs), corticosteroids, or methotrexate [see Warnings and Precautions (5.2)].
 The relative contribution of these concomitant medications versus ACTEMRA to the development of GI perforations is not known.
 
 Infusion Reactions
 
-In the 6-month, controlled clinical studies, adverse events associated with the infusion (occurring during or within 24 hours of the start of infusion) were reported in 8% and 7% of patients in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group, respectively, compared to 5% of patients in the placebo plus DMARD group.
+In the 24 week, controlled clinical studies, adverse events associated with the infusion (occurring during or within 24 hours of the start of infusion) were reported in 8% and 7% of patients in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group, respectively, compared to 5% of patients in the placebo plus DMARD group.
 The most frequently reported event on the 4 mg/kg and 8 mg/kg dose during the infusion was hypertension (1% for both doses), while the most frequently reported event occurring within 24 hours of finishing an infusion were headache (1% for both doses) and skin reactions (1% for both doses), including rash, pruritus and urticaria.
 These events were not treatment limiting.
 
-Clinically significant hypersensitivity reactions (e.g., anaphylactoid and anaphylactic reactions) associated with ACTEMRA and requiring treatment discontinuation were reported 0.1% (3/2644) in the 6-month, controlled trials and in 0.2% (9/4009) in the all-exposure population.
+Anaphylactoid and anaphylactic reactions associated with ACTEMRA and requiring treatment discontinuation were reported in 0.1% (3/2644) in the 24 week, controlled trials and in 0.2% (8/4009) in the all-exposure population.
 These reactions were generally observed during the second to fourth infusion of ACTEMRA.
 Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions (5.5)].
 
@@ -60,18 +59,18 @@ Laboratory Tests
 
 Neutrophils
 
-In the 6-month, controlled clinical studies, decreases in neutrophil counts below 1000/mm3 occurred in 1.8% and 3.4% of patients in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
+In the 24 week, controlled clinical studies, decreases in neutrophil counts below 1000/mm3 occurred in 1.8% and 3.4% of patients in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD group, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
 Approximately half of the instances of ANC below 1000/mm3 occurred within 8 weeks of starting therapy.
 Decreases in neutrophil counts below 500/mm3 occurred in 0.4% and 0.3% of patients in the 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD, respectively, compared to 0.1% of patients in the placebo plus DMARD group.
 There was no clear relationship between decreases in neutrophils below 1000/mm3 and the occurrence of serious infections.
 
-In the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical studies [see Warnings and Precautions (5.3)].
+In the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.3)].
 
 Platelets
 
-In the 6-month, controlled clinical studies, decreases in platelet counts below 100,000/mm3 occurred in 1.3% and 1.7% of patients on 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
+In the 24 week, controlled clinical studies, decreases in platelet counts below 100,000/mm3 occurred in 1.3% and 1.7% of patients on 4 mg/kg and 8 mg/kg ACTEMRA plus DMARD, respectively, compared to 0.5% of patients on placebo plus DMARD, without associated bleeding events.
 
-In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical studies [see Warnings and Precautions (5.3)].
+In the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies [see Warnings and Precautions (5.3)].
 
 Liver Function Tests
 
@@ -79,7 +78,7 @@ Liver enzyme abnormalities are summarized in Table 1.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA, or reduction in ACTEMRA dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.3)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
-Table 1 Incidence of Liver Enzyme Abnormalities in the 6-Month Controlled Period of Studies I-VFor a description of these studies, see Section 14, Clinical Studies
+Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
 
 |  | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
@@ -94,9 +93,11 @@ Table 1 Incidence of Liver Enzyme Abnormalities in the 6-Month Controlled Period
 | > 5x ULN | 0.7 | 1 | 1.3 | 1.5 | 0.3 |
 | ULN = Upper Limit of Normal |  |  |  |  |  |
 
+In the all-exposure population, the elevations in ALT/AST remained consistent with what was seen in the 24 week, controlled clinical trials
+
 Lipids
 
-Elevations in lipid parameters (total cholesterol, LDL, HDL, triglycerides) were first assessed at 6 weeks following initiation of ACTEMRA in the controlled 6-month clinical trials.
+Elevations in lipid parameters (total cholesterol, LDL, HDL, triglycerides) were first assessed at 6 weeks following initiation of ACTEMRA in the controlled 24 week clinical trials.
 Increases were observed at this time point and remained stable thereafter.
 Increases in triglycerides to levels above 500 mg/dL were rarely observed.
 Changes in other lipid parameters from baseline to week 24 were evaluated and are summarized below:
@@ -108,9 +109,11 @@ Changes in other lipid parameters from baseline to week 24 were evaluated and ar
 
 Elevated lipids responded to lipid lowering agents.
 
+In the all-exposure population, the elevations in lipid parameters remained consistent with what was seen in the 24 week, controlled clinical trials.
+
 Immunogenicity
 
-In the 6-month, controlled clinical studies, a total of 2876 patients have been tested for anti-tocilizumab antibodies.
+In the 24 week, controlled clinical studies, a total of 2876 patients have been tested for anti-tocilizumab antibodies.
 Forty-six patients (2%) developed positive anti-tocilizumab antibodies, of whom 5 had an associated, medically significant, hypersensitivity reaction leading to withdrawal.
 Thirty patients (1%) developed neutralizing antibodies.
 
@@ -120,10 +123,10 @@ For these reasons, comparison of the incidence of antibodies to tocilizumab with
 
 Malignancies
 
-During the 6-month, controlled period of the studies, 15 malignancies were diagnosed in patients receiving ACTEMRA, compared to 8 malignancies in patients in the control groups.
+During the 24 week, controlled period of the studies, 15 malignancies were diagnosed in patients receiving ACTEMRA, compared to 8 malignancies in patients in the control groups.
 Exposure-adjusted incidence was similar in the ACTEMRA groups (1.32 events per 100 patient-years) and in the placebo plus DMARD group (1.37 events per 100 patient-years).
 
-In the all-exposure population, the rate of malignancies remained consistent (1.10 events per 100 patient-years) with the rate observed in the 6-month, controlled period [see Warnings and Precautions (5.4)].
+In the all-exposure population, the rate of malignancies remained consistent with the rate observed in the 24 week, controlled period [see Warnings and Precautions (5.4)].
 
 Other Adverse Reactions
 
@@ -133,7 +136,7 @@ Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8
 
 | Preferred Term | N = 288 (%) | N = 284 (%) | N = 774 (%) | N = 1582 (%) | N = 1170 (%) |
 | --- | --- | --- | --- | --- | --- |
-| 6 Month Phase 3 Controlled Study Population |  |  |  |  |  |
+| 24 Week Phase 3 Controlled Study Population |  |  |  |  |  |
 |  | ACTEMRA 8 mg/kg MONOTHERAPY | Methotrexate | ACTEMRA 4 mg/kg + DMARDs | ACTEMRA 8 mg/kg + DMARDs | Placebo + DMARDs |
 | Upper Respiratory Tract Infection | 7 | 5 | 6 | 8 | 6 |
 | Nasopharyngitis | 7 | 6 | 4 | 6 | 4 |
@@ -147,3 +150,23 @@ Table 2 Adverse Reactions Occurring in at Least 2% or More of Patients on 4 or 8
 | Abdominal Pain Upper | 2 | 2 | 3 | 3 | 2 |
 | Gastritis | 1 | 2 | 1 | 2 | 1 |
 | Transaminase increased | 1 | 5 | 2 | 2 | 1 |
+
+Other infrequent and medically relevant adverse reactions occurring at an incidence less than 2% in rheumatoid arthritis patients treated with ACTEMRA in controlled trials were:
+
+Infections and Infestations: oral herpes simplex
+
+Gastrointestinal disorders: stomatitis, gastric ulcer
+
+Investigations: weight increased, total bilirubin increased
+
+Blood and lymphatic system disorders: leukopenia
+
+General disorders and administration site conditions: edema peripheral
+
+Respiratory, thoracic, and mediastinal disorders: dyspnea, cough
+
+Eye disorders: conjunctivitis
+
+Renal disorders: nephrolithiasis
+
+Endocrine disorders: hypothyroidism

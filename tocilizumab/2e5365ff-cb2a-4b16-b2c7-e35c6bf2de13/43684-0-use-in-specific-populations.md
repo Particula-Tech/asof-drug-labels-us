@@ -29,7 +29,7 @@ Safety and effectiveness of ACTEMRA in pediatric patients have not been establis
 
 Of the 2644 patients who received ACTEMRA in Studies I to V [see Clinical Studies (14)], a total of 435 rheumatoid arthritis patients were 65 years of age and older, including 50 patients 75 years and older.
 The frequency of serious infection among ACTEMRA treated subjects 65 years of age and older was higher than those under the age of 65.
-As there is a higher incidence in infections in the elderly population in general, caution should be used when treating the elderly.
+As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
 
 ## 8.6 Hepatic Impairment
 
