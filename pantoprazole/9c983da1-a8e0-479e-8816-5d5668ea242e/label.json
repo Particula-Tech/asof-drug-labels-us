@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090074"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-096-05",
+    "13668-096-30",
+    "13668-096-74",
+    "13668-096-90",
+    "13668-097-05",
+    "13668-097-30",
+    "13668-097-77",
+    "13668-097-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "9c983da1-a8e0-479e-8816-5d5668ea242e",
+  "source": "dailymed"
+}
