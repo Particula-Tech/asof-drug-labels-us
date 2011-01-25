@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076856"
+  ],
   "inn": "dantrolene",
-  "labeler": "Global Pharmaceuticals",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
   "package_ndcs": [
     "0115-4411-01",
     "0115-4411-02",
@@ -13,7 +15,13 @@
     "0115-4433-02",
     "0115-4433-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dantrolene sodium",
+      "name": "Dantrolene Sodium"
+    }
+  ],
   "setid": "c3c45b27-f786-456e-95d6-2e38ef36190a",
   "source": "dailymed"
 }

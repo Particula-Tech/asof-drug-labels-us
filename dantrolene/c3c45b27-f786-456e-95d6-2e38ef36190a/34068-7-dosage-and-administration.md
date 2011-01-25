@@ -34,7 +34,7 @@ Doses higher than 100 mg four times daily should not be used in children.
 
 ### Preoperatively
 
-Administer 4 to 8 mg/kg/day of oral dantrolene sodium capsules in 3 or 4 divided doses for one or two days prior to surgery, with the last dose being given approximately 3 to 4 hours before scheduled surgery with a minimum of water.
+Administer 4 to 8 mg/kg/day of oral dantrolene sodium caspules in 3 or 4 divided doses for one or two days prior to surgery, with the last dose being given approximately 3 to 4 hours before scheduled surgery with a minimum of water.
 
 This dosage will usually be associated with skeletal muscle weakness and sedation (sleepiness or drowsiness); adjustment can usually be made within the recommended dosage range to avoid incapacitation or excessive gastrointestinal irritation (including nausea and/or vomiting).
 

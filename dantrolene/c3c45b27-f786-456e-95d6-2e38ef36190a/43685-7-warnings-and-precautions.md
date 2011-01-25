@@ -30,7 +30,9 @@ Carcinogenicity in humans cannot be fully excluded, so that this possible risk o
 
 ## Pregnancy
 
-Pregnancy Category C: The safety of dantrolene sodium in women who are or may become pregnant has not been established; hence it should be given only when the potential benefits have been weighed against possible hazard to mother and child.
+### Pregnancy Category C
+
+The safety of dantrolene sodium in women who are or may become pregnant has not been established; hence it should be given only when the potential benefits have been weighed against possible hazard to mother and child.
 Dantrolene sodium should not be used in nursing mothers.
 
 ## Usage in Pediatric Patients

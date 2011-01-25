@@ -2,7 +2,7 @@
 
 ## In Chronic Spasticity
 
-Dantrolene sodium capsules are indicated in controlling the manifestations of clinical spasticity resulting from upper motor neuron disorders (e.g., spinal cord injury, stroke, cerebral palsy, or multiple sclerosis).
+Dantrolene capsules are indicated in controlling the manifestations of clinical spasticity resulting from upper motor neuron disorders (e.g., spinal cord injury, stroke, cerebral palsy, or multiple sclerosis).
 It is of particular benefit to the patient whose functional rehabilitation has been retarded by the sequelae of spasticity.
 Such patients must have presumably reversible spasticity where relief of spasticity will aid in restoring residual function.
 Dantrolene sodium capsules are not indicated in the treatment of skeletal muscle spasm resulting from rheumatic disorders.
