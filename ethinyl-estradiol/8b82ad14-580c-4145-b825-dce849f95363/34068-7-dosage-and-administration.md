@@ -13,9 +13,9 @@ The possibility of ovulation and conception prior to initiation of use should be
 
 ## Dosage and Administration for 21-Day Dosage Regimen:
 
-To achieve maximum contraceptive effectiveness, Junel ™21 must be taken exactly as directed and at intervals not exceeding 24 hours.
+To achieve maximum contraceptive effectiveness, Junel ™ 21 must be taken exactly as directed and at intervals not exceeding 24 hours.
 
-Junel ™21 provides the patient with a convenient tablet schedule of “3 weeks on --1 week off”.
+Junel ™ 21 provides the patient with a convenient tablet schedule of “3 weeks on --1 week off”.
 Two dosage regimens are described, one of which may be more convenient or suitable than the other for an individual patient.
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
@@ -94,9 +94,9 @@ Persistent bleeding which is not controlled by this method indicates the need fo
 
 ## Dosage and Administration for 28-Day Dosage Regimen:
 
-To achieve maximum contraceptive effectiveness, Junel ™Fe28 must be taken exactly as directed and at intervals not exceeding 24 hours.
+To achieve maximum contraceptive effectiveness, Junel ™ Fe 28 must be taken exactly as directed and at intervals not exceeding 24 hours.
 
-Junel ™Fe 28 provides a continuous administration regimen consisting of 21 light yellow or pink tablets of Junel ™and 7 brown non-hormone containing tablets of ferrous fumarate.
+Junel ™ Fe 28 provides a continuous administration regimen consisting of 21 light yellow or pink tablets of Junel ™ and 7 brown non-hormone containing tablets of ferrous fumarate.
 The ferrous fumarate tablets are present to facilitate ease of drug administration via a 28-day regimen and do not serve any therapeutic purpose.
 There is no need for the patient to count days between cycles because there are no “off-tablet days.”
 

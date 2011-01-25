@@ -1,6 +1,6 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
-Junel ™ 21 and Junel ™Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
+Junel ™ 21 and Junel ™ Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
 
 Oral contraceptives are highly effective.
 Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.

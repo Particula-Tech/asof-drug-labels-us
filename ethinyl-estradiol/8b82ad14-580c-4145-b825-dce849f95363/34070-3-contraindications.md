@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# CONTRAINDICATIONS:
 
 Oral contraceptives should not be used in women who currently have the following conditions:
 

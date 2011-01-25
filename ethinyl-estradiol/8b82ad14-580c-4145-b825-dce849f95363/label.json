@@ -1,14 +1,40 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076064",
+    "ANDA076081",
+    "ANDA076380",
+    "ANDA076381"
+  ],
   "inn": "ethinyl-estradiol",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
     "0555-9025-42",
     "0555-9026-58",
     "0555-9027-42",
     "0555-9028-58"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate and ethinyl estradiol",
+      "name": "Junel 1.5/30"
+    },
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate and ethinyl estradiol",
+      "name": "Junel 1/20"
+    },
+    {
+      "form": "KIT",
+      "generic": "norethindrone acetate and ethinyl estradiol, and ferrous fumarate",
+      "name": "Junel Fe 1.5/30"
+    },
+    {
+      "form": "KIT",
+      "generic": "norethindrone acetate and ethinyl estradiol, and ferrous fumarate",
+      "name": "Junel Fe 1/20"
+    }
+  ],
   "setid": "8b82ad14-580c-4145-b825-dce849f95363",
   "source": "dailymed"
 }

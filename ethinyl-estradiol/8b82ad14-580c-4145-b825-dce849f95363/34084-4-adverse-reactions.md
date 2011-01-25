@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGS section):
 

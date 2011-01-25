@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 The use of oral contraceptives is associated with increased risks of several serious conditions including myocardial infarction, thromboembolism, stroke, hepatic neoplasia, and gallbladder disease, although the risk of serious morbidity or mortality is very small in healthy women without underlying risk factors.
 The risk of morbidity and mortality increases significantly in the presence of other underlying risk factors such as hypertension, hyperlipidemias, obesity, and diabetes.
@@ -188,7 +188,7 @@ In the event of amenorrhea, pregnancy should be ruled out.
 
 Some women may encounter post-pill amenorrhea or oligomenorrhea, especially when such a condition was preexistent.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## 1. Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 

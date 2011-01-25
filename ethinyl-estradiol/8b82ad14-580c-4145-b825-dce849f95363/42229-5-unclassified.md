@@ -6,12 +6,12 @@ Junel ™ 1.5/30
 
 (Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.)
 
-Junel ™Fe 1/20
+Junel ™ Fe 1/20
 
 (Each light yellow tablet contains 1 mg norethindrone acetate and 20 mcg ethinyl estradiol.
 Each brown tablet contains 75 mg ferrous fumarate.)
 
-Junel ™Fe 1.5/30
+Junel ™ Fe 1.5/30
 
 (Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.
 Each brown tablet contains 75 mg ferrous fumarate.)
@@ -43,7 +43,3 @@ Effects from long-term use:
 - Decreased incidence of acute pelvic inflammatory disease
 - Decreased incidence of endometrial cancer
 - Decreased incidence of ovarian cancer
-
-MANUFACTURED BY BARR LABORATORIES, INC. POMONA, NY 10970
-
-Revised MAY 2005 BR - 9025, 9026, 9027, 9028

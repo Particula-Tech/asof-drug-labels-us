@@ -54,7 +54,7 @@ INSTRUCTIONS TO PATIENT
 
 Tablet Dispenser:
 
-The Junel ™tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The Junel ™ tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing on the tablet dispenser above the first row of tablets.
 
 | If your tablet dispenser contains: | You are taking: |
@@ -137,10 +137,10 @@ WHAT TO DO DURING THE MONTH
 1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
    Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
    Do not skip pills even if you do not have sex very often.
-2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills:Wait 7 days to start the next pack.
+2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
    You will probably have your period during that week.
    Be sure that no more than 7 days pass between 21-day packs.
-   28 pills:Start the next pack on the day after your last “reminder” pill.
+   28 pills: Start the next pack on the day after your last “reminder” pill.
    Do not wait any days between packs.
 
 WHAT TO DO IF YOU MISS PILLS
@@ -387,7 +387,7 @@ GENERAL PRECAUTIONS:
 
 INSTRUCTIONS TO PATIENT Tablet Dispenser:
 
-The Junel ™tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The Junel ™ tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing on the tablet dispenser above the first row of tablets.
 
 | If your tablet dispenser contains: | You are taking: |
@@ -470,10 +470,10 @@ WHAT TO DO DURING THE MONTH
 1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
    Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
    Do not skip pills even if you do not have sex very often.
-2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills:Wait 7 days to start the next pack.
+2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
    You will probably have your period during that week.
    Be sure that no more than 7 days pass between 21-day packs.
-   28 pills:Start the next pack on the day after your last “reminder” pill.
+   28 pills: Start the next pack on the day after your last “reminder” pill.
    Do not wait any days between packs.
 
 WHAT TO DO IF YOU MISS PILLS
@@ -593,3 +593,7 @@ At that time and about once a year thereafter, he or she will generally examine 
 Keep this and all drugs out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+MANUFACTURED BY BARR LABORATORIES, INC. POMONA, NY 10970
+
+Revised MAY 2005 BR - 9025, 9026, 9027, 9028
