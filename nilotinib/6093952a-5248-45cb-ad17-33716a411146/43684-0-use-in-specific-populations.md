@@ -11,7 +11,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
 In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
-Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day a decrease in viable fetuses.
+Nilotinib at doses ≥30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
 In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
 Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
 Nilotinib is not considered teratogenic.
@@ -23,7 +23,7 @@ At doses up to 120 mg/m2 (approximately 0.25 times the clinical dose of 400 mg t
 
 It is not known whether nilotinib is excreted in human milk.
 One study in lactating rats demonstrates that nilotinib is excreted into milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Tasigna, a decision should be made whether to discontinue nursing or to discontinue the drug taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Tasigna, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -31,17 +31,17 @@ The safety and effectiveness of Tasigna in pediatric patients have not been esta
 
 ## 8.5 Geriatric Use
 
-In the clinical trials of Tasigna (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 or over.
+In the clinical trials of Tasigna (patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP), approximately 12% and 30% of patients were 65 years or over respectively.
 
 - Patients with newly diagnosed Ph+ CML-CP: There was no difference in major molecular response between patients aged <65 years and those ≥65 years.
 - Patients with resistant or intolerant CML-CP: There was no difference in major cytogenetic response rate between patients aged <65 years and those ≥65 years.
-- Patients with resistant or intolerant CML-AP: The major hematologic response rate was 31% in patients <65 years of age and 15% in patients ≥65 years.
+- Patients with resistant or intolerant CML-AP: The hematologic response rate was 44% in patients <65 years of age and 29% in patients ≥65 years.
 
-No major differences were observed for safety in patients ≥65 years of age as compared to patients <65 years.
+No major differences for safety were observed in patients ≥65 years of age as compared to patients <65 years.
 
 ## 8.6 Cardiac Disorders
 
-In the clinical trials, patients with a history of uncontrolled or significant cardiovascular disease, including recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia were excluded.
+In the clinical trials, patients with a history of uncontrolled or significant cardiovascular disease, including recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia, were excluded.
 Caution should be exercised in patients with relevant cardiac disorders [see Boxed Warning, Warnings and Precautions (5.2)].
 
 ## 8.7 Hepatic Impairment

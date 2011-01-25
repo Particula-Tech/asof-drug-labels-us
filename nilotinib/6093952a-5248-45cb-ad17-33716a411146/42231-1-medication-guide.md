@@ -24,16 +24,16 @@ Your doctor should check the electrical activity of your heart with a test calle
 
 You may lower your chances for having QTc prolongation with Tasigna if you:
 
-- Take Tasigna:
-  - on an empty stomach.
-    Do not take Tasigna with food.
-  - at least 2 hours after eating any food, and
-  - wait at least 1 hour before eating any food
+- Take Tasigna: ○ on an empty stomach.
+  Do not take Tasigna with food. ○ at least 2 hours after eating any food, and ○ wait at least 1 hour before eating any food
 - Avoid grapefruit, grapefruit juice, and any supplement containing grapefruit extract while taking Tasigna.
   Food and grapefruit products increase the amount of Tasigna in your body.
 - Avoid taking other medicines or supplements with Tasigna that can also cause QTc prolongation.
 - Tasigna can interact with many medicines and supplements and increase your chance for serious and life-threatening side effects.
 - Do not take any other medicine while taking Tasigna unless your doctor tells you it is okay to do so.
+- If you cannot swallow Tasigna capsules whole, you may open the Tasigna capsule and sprinkle the contents of each capsule in 1 teaspoon of applesauce (puréed apple).
+  Swallow the mixture right away (within 15 minutes).
+  For more information, see “How should I take Tasigna?”
 
 Call your doctor right away if you feel lightheaded, faint or have an irregular heartbeat while taking Tasigna.
 These can be symptoms of QTc prolongation.
@@ -96,7 +96,9 @@ How should I take Tasigna?
 - Do not take Tasigna with food.
   Take Tasigna at least 2 hours after you eat and at least 1 hour before you eat.
 - Swallow Tasigna capsules whole with water.
-  If you cannot swallow Tasigna capsules whole, tell your doctor.
+  If you cannot swallow Tasigna capsules whole, tell your doctor
+- If you cannot swallow Tasigna capsules whole: ○ Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple). ▪ Do not use more than 1 teaspoon of applesauce. ▪ Only use applesauce.
+  Do not sprinkle Tasigna onto other foods. ○ Swallow the mixture right away (within 15 minutes).
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
 - If you miss a dose, just take your next dose as scheduled.
@@ -104,13 +106,8 @@ How should I take Tasigna?
 - If you take too much Tasigna, call your doctor or poison control center right away.
   Symptoms may include vomiting and drowsiness.
   During treatment with Tasigna your doctor will do tests to check for side effects and to see how well Tasigna is working for you.
-  The tests will check your:
-  - heart
-  - blood cells (white blood cells, red blood cells, and platelets).
-    Your blood cells should be checked every two weeks for the first two months and then monthly.
-  - electrolytes (potassium, magnesium)
-  - pancreas and liver function
-  - bone marrow samples
+  The tests will check your: ○ Heart ○ blood cells (white blood cells, red blood cells, and platelets).
+  Your blood cells should be checked every two weeks for the first two months and then monthly. ○ electrolytes (potassium, magnesium) ○ pancreas and liver function ○ bone marrow samples
 - Your doctor may change your dose.
   Your doctor may have you stop Tasigna for some time or lower your dose if you have side effects with it.
 
@@ -122,35 +119,18 @@ Tasigna may cause serious side effects including:
 - Low blood counts.
   Low blood counts are common with Tasigna.
   Your doctor will check your blood counts regularly during treatment with Tasigna.
-  Symptoms of low blood counts include:
-  - unexplained bleeding or bruising
-  - blood in urine or stool
-  - unexplained weakness
+  Symptoms of low blood counts include: ○ unexplained bleeding or bruising ○ blood in urine or stool ○ unexplained weakness
 - Liver damage.
   Symptoms include yellow skin and eyes.
 - Pancreas inflammation (pancreatitis).
   Symptoms include sudden stomach area pain with nausea and vomiting.
-- Bleeding in the brain: Symptoms include sudden headache, changes in your eyesight, not being aware of what is going on around you and becoming unconscious.
+- Bleeding in the brain.
+  Symptoms include sudden headache, changes in your eyesight, not being aware of what is going on around you and becoming unconscious.
 
 The most common side effects of Tasigna include:
 
-- low blood count
-- rash
-- nausea
-- fever
-- headache
-- itching
-- tiredness
-- stomach (abdominal) pain
-- diarrhea
-- constipation
-- muscle and joint pain
-- back pain
-- muscle spasms
-- weakness
-- hair loss
-- runny or stuffy nose, sneezing, sore throat
-- cough
+| low blood count rash nausea fever headache itching tiredness stomach (abdominal) pain diarrhea | constipation muscle and joint pain back pain muscle spasms weakness hair loss runny or stuffy nose, sneezing, sore throat cough |
+| --- | --- |
 
 Tell your doctor if you have any side effect that bothers you or does not go away.
 
@@ -189,18 +169,10 @@ The capsule shell contains gelatin, titanium dioxide (E171), iron oxide yellow (
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-T2010-34/T2010-35
+T2010-104/T2010-105
 
-Manufactured by:
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
-Novartis Pharma Stein AG
-
-Stein, Switzerland
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis

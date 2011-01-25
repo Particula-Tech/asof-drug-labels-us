@@ -2,7 +2,7 @@
 
 Tasigna (nilotinib) belongs to a pharmacologic class of drugs known as kinase inhibitors.
 
-Nilotinib drug substance, a monohydrate mono-hydrochloride, is a white to slightly yellowish to slightly greenish yellow powder with the anhydrous molecular formula and weight, respectively, of C28H22F3N7O•HCl • H2O and 584.
+Nilotinib drug substance, a monohydrate monohydrochloride, is a white to slightly yellowish to slightly greenish yellow powder with the anhydrous molecular formula and weight, respectively, of C28H22F3N7O•HCl • H2O and 584.
 The solubility of nilotinib in aqueous solutions decreases with increasing pH.
 Nilotinib is not optically active.
 The pKa1 was determined to be 2.1; pKa2 was estimated to be 5.4.

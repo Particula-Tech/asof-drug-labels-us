@@ -7,11 +7,11 @@ Nilotinib binds to and stabilizes the inactive conformation of the kinase domain
 In vitro, nilotinib inhibited Bcr-Abl mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML.
 Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from Bcr-Abl kinase mutations, in 32 out of 33 mutations tested.
 In vivo, nilotinib reduced the tumor size in a murine Bcr-Abl xenograft model.
-Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM), c-Kit (210 nM), CSF-1R (125-250 nM) and DDR (3.7 nM).
+Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM), c-Kit (210 nM), CSF-1R (125-250 nM) and DDR1a (3.7 nM).
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Distribution:
+Absorption and Distribution
 
 Peak concentrations of nilotinib are reached 3 hours after oral administration.
 
@@ -19,17 +19,18 @@ Steady-state nilotinib exposure was dose-dependent with less than dose-proportio
 Daily serum exposure to nilotinib following 400 mg twice daily dosing at steady state was 35% higher than with 800 mg once daily dosing.
 Steady state exposure (AUC) of nilotinib with 400 mg twice daily dosing was 13% higher than with 300 mg twice daily dosing.
 The average steady state nilotinib trough and peak concentrations did not change over 12 months.
-There was no relevant increase in exposure to nilotinib when the dose was increased with 400 mg twice daily to 600 mg twice daily.
+There was no relevant increase in exposure to nilotinib when the dose was increased from 400 mg twice daily to 600 mg twice daily.
 
 The bioavailability of nilotinib was increased when given with a meal.
 Compared to the fasted state, the systemic exposure (AUC) increased by 82% when the dose was given 30 minutes after a high fat meal.
 
+Single dose administration of two 200 mg nilotinib capsules each dispersed in one teaspoon of applesauce and administered within 15 minutes was shown to be bioequivalent to a single dose administration of two 200 mg intact capsules.
 The blood-to-serum ratio of nilotinib is 0.68.
 Serum protein binding is approximately 98% on the basis of in vitro experiments.
 
 Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.10)].
 
-Pharmacokinetics, Metabolism and Excretion:
+Pharmacokinetics, Metabolism and Excretion
 
 The apparent elimination half-life estimated from the multiple dose pharmacokinetic studies with daily dosing was approximately 17 hours.
 Inter-patient variability in nilotinib AUC was 32% to 64%.
@@ -40,12 +41,12 @@ Main metabolic pathways identified in healthy subjects are oxidation and hydroxy
 Nilotinib is the main circulating component in the serum.
 None of the metabolites contribute significantly to the pharmacological activity of nilotinib.
 
-After a single dose of radiolabeled nilotinib in healthy subjects, more than 90% of the administered dose was eliminated within 7 days mainly in feces (93% of the dose).
+After a single dose of radiolabeled nilotinib in healthy subjects, more than 90% of the administered dose was eliminated within 7 days: mainly in feces (93% of the dose).
 Parent drug accounted for 69% of the dose.
 
 Age, body weight, gender, or ethnic origin did not significantly affect the pharmacokinetics of nilotinib.
 
-Drug-Drug Interactions:
+Drug-Drug Interactions
 
 In a Phase 1 trial of nilotinib 400 mg twice daily in combination with imatinib 400 mg daily or 400 mg twice daily, the AUC increased 30%-50% for nilotinib and approximately 20% for imatinib.
 

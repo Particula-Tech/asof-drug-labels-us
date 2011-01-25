@@ -9,20 +9,19 @@ Myelosuppression was generally reversible and usually managed by withholding Tas
 ## 5.2 QT Prolongation
 
 Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface ECG in a concentration-dependent manner [see Adverse Reactions (6.1), Clinical Pharmacology (12.4)].
-Prolongation of the QT interval can result in a type of ventricular tachycardia called Torsade de pointes, which may result in syncope, seizure, and/or death.
+Prolongation of the QT interval can result in a type of ventricular tachycardia called torsade de pointes, which may result in syncope, seizure, and/or death.
 ECGs should be performed at baseline, seven days after initiation, periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.12)].
 
 Tasigna should not be used in patients who have hypokalemia, hypomagnesemia or long QT syndrome.
 Hypokalemia or hypomagnesemia must be corrected prior to initiating Tasigna and these electrolytes should be monitored periodically during therapy [see Warnings and Precautions (5.12)].
 
-Significant prolongation of the QT interval may occur when Tasigna is inappropriately taken with food, and/or strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT.
+Significant prolongation of the QT interval may occur when Tasigna is inappropriately taken with food and/or strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT.
 Therefore, co-administration with food must be avoided and concomitant use with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT should be avoided [see Warnings and Precautions (5.7, 5.8)].
 The presence of hypokalemia and hypomagnesemia may further enhance this effect [see Warnings and Precautions (5.6, 5.12)].
 
 ## 5.3 Sudden Deaths
 
-Sudden deaths have been reported in patients with resistant or intolerant Ph+ CML receiving nilotinib (n=867; 0.6%).
-A similar incidence was also reported in the expanded access program for patients with resistance or intolerant Ph+ CML.
+Sudden deaths have been reported in patients with CML treated with nilotinib in clinical studies (n= 5,661; 0.3%).
 The relative early occurrence of some of these deaths relative to the initiation of nilotinib suggests the possibility that ventricular repolarization abnormalities may have contributed to their occurrence.
 
 ## 5.4 Elevated Serum Lipase

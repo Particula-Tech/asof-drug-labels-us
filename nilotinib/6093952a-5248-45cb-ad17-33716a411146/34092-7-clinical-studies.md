@@ -39,35 +39,37 @@ Cytogenetic responses were based on the percentage of Ph-positive metaphases amo
 A single arm, open label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
 Imatinib intolerance was defined as discontinuation of treatment due to toxicity and lack of a major cytogenetic response at time of study entry.
-At the time of data cut-off, 280 CML-CP patients with a minimum follow-up of 6 months and 105 CML-AP patients with a minimum follow-up of 4 months were enrolled.
-Of these, 232 patients with CML-CP and all patients with CML-AP were evaluable for efficacy.
-In this study, about 50% of CML-CP and CML-AP patients were males, over 80% were Caucasian, and approximately 30% were age 65 years or older.
+At the time of data cut-off, 321 patients with CML-CP and 137 patients with CML-AP with a minimum follow-up of 24 months were enrolled.
+In this study, about 50% of CML-CP and CML-AP patients were males, over 90% (CML-CP) and 80% (CML-AP) were Caucasian, and approximately 30% were age 65 years or older.
 
 Overall, 73% of patients were imatinib resistant while 27% were imatinib intolerant.
-The median time of prior imatinib treatment was approximately 31 months.
-Prior therapy included hydroxyurea in 85% of patients, interferon in 62% and stem cell or bone marrow transplant in 8%.
-The median highest prior imatinib dose was 600 mg/day for CML-CP patients and 800 mg/day for CML-AP patients, and the highest prior imatinib dose was ≥600 mg/day in 77% of all patients with 44% of patients receiving imatinib doses ≥800 mg/day.
+The median time of prior imatinib treatment was approximately 32 (CML-CP) and 28 (CML-AP) months.
+Prior therapy included hydroxyurea in 85% of patients, interferon in 56% and stem cell or bone marrow transplant in 8%.
+The median highest prior imatinib dose was 600 mg/day for patients with CML-CP and CML-AP, and the highest prior imatinib dose was ≥600 mg/day in 74% of all patients with 40% of patients receiving imatinib doses ≥800 mg/day.
 
-Median duration of nilotinib treatment was 8.7 months in CML-CP patients and 5.6 months in CML-AP patients.
+Median duration of nilotinib treatment was 18.4months in patients with CML-CP and 8.7 months in patients with CML-AP.
 
-The efficacy endpoint in chronic phase CML was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
+The efficacy endpoint in CML-CP was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
 
-The efficacy endpoint in accelerated phase CML was confirmed hematologic response (HR), defined as either a complete hematologic response (CHR) or no evidence of leukemia (NEL).
+The efficacy endpoint in CML-AP was confirmed hematologic response (HR), defined as either a complete hematologic response (CHR) or no evidence of leukemia (NEL).
 The rates of response for CML-CP and CML-AP patients are reported in Table 10.
+
+Median durations of response had not been reached at the time of data analysis.
 
 Table 10: Efficacy of Tasigna in Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-| Cytogenetic Response Rate (Unconfirmed) (%)a | Chronic Phase n=232 |
+| Cytogenetic Response Rate (Unconfirmed) (%)a |  |
 | --- | --- |
-| Major (95% CI) | 40% (33,46) |
-| Complete (95% CI) | 28% (22,34) |
-| Partial (95% CI) | 12% (8,16) |
-|  | Accelerated Phase n=105 |
-| Hematologic Response Rate (95% CI)b | 26% (18,35) |
-| Complete Hematologic Response Rate (95% CI) | 18% (11,27) |
-| No Evidence of Leukemia (95% CI) | 8% (3,15) |
+|  | Chronic Phase (n = 321) |
+| Major (95% CI) | 51% (46% - 57%) |
+| Complete (95% CI) | 37% (32% - 42%) |
+| Partial (95% CI) | 15% (11% – 19%) |
+|  | Accelerated Phase (n = 137) |
+| Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31% - 48%) |
+| Complete Hematologic Response Rate (95% CI) | 30% (22% - 38%) |
+| No Evidence of Leukemia (95% CI) | 9% (5% -16%) |
 
-a Cytogenetic response criteria: Complete (0% Ph+ metaphases) or partial (1%-35%).
+a Cytogenetic response criteria: Complete (0% Ph + metaphases) or partial (1%-35%).
 Cytogenetic responses were based on the percentage of Ph-positive metaphases among ≥20 metaphase cells in each bone marrow sample.
 
 b Hematologic response = CHR + NEL (all responses confirmed after 4 weeks).
@@ -78,9 +80,19 @@ CHR (CML-AP): neutrophils >1.5 x 109 /L, platelets >100 x 109 /L, no myeloblasts
 
 NEL: same criteria as for CHR but neutrophils >1.0 x 109 /L and platelets >20 x 109 /L without transfusions or bleeding.
 
-The median duration of response has not been reached for CML-CP and CML-AP.
-Based on current follow-up, 59% of CML-CP patients with a major cytogenetic response had a duration of response of at least 6 months.
-Based on current follow-up, 63% of CML-AP patients with a confirmed hematologic response had a duration of response of at least 6 months.
+Patients with Chronic Phase
 
-After imatinib failure, 24 different BCR-ABL mutations were noted in 19% of chronic phase and 25% of accelerated phase CML patients who were evaluated for mutations.
-Patients harboring a variety of BCR-ABL mutations associated with imatinib resistance, except T315I, responded to Tasigna.
+The MCyR rate in 321 CML-CP patients was 51%.
+The median time to MCyR among responders was 2.8 months (range 1 to 28 months).
+The median duration of MCyR cannot be estimated.
+The median duration of exposure on this single arm trial was 18.4 months.
+Among the CML-CP patients who achieved MCyR, 62% of them had MCyR lasting more than 18 months.
+The CCyR rate was 37%.
+
+Patients with Accelerated Phase
+
+The overall confirmed hematologic response rate in 137 patients with CML-AP was 39%.
+The median time to first hematologic response among responders was 1.0 month (range 1 to 14 months).
+Among the CML-AP patients who achieved HR, 44% of them had a response lasting for more than 18 months.
+
+After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.

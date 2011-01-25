@@ -1,4 +1,4 @@
-# 7 Drug interactions
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Effects of Nilotinib on Drug Metabolizing Enzymes and Drug Transport Systems
 
@@ -10,7 +10,7 @@ Single-dose administration of Tasigna to healthy subjects did not change the pha
 The ability of Tasigna to induce metabolism has not been determined in vivo.
 Exercise caution when co-administering Tasigna with substrates for these enzymes that have a narrow therapeutic index.
 
-Nilotinib inhibits human P-glycoprotein.
+Nilotinib inhibits human P-glycoprotein (P-gp).
 If Tasigna is administered with drugs that are substrates of P-gp, increased concentrations of the substrate drug are likely, and caution should be exercised.
 
 ## 7.2 Drugs that Inhibit or Induce Cytochrome P450 3A4 Enzymes
@@ -32,7 +32,7 @@ In healthy subjects, co-administration of a single 400 mg dose of Tasigna with m
 Increasing the dose of Tasigna when co-administered with such agents is not likely to compensate for the loss of exposure.
 Since proton pump inhibitors affect pH of the upper GI tract for an extended period, separation of doses may not eliminate the interaction.
 The concomitant use of proton pump inhibitors with Tasigna should be used with caution.
-If a H2 blocker or an antacid is necessary, the doses between the H2 blocker and Tasigna or the doses between the antacid and Tasigna should be separated at least by several hours.
+If an H2 blocker or an antacid is necessary, the doses between the H2 blocker and Tasigna or the doses between the antacid and Tasigna should be separated by at least several hours.
 However, no clinical study has been conducted to evaluate the effect of H2 blockers or antacids on nilotinib pharmacokinetics.
 
 ## 7.4 Drugs that Inhibit Drug Transport Systems
@@ -42,4 +42,4 @@ If Tasigna is administered with drugs that inhibit P-gp, increased concentration
 
 ## 7.5 Drugs that May Prolong the QT Interval
 
-The administration of Tasigna with agents that may prolong the QT interval such as anti-arrhythmic medicines should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].
+The administration of Tasigna with agents that may prolong the QT interval “such as anti-arrhythmic medicines” should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].

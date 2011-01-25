@@ -1,3 +1,3 @@
-# 4 Contraindications
+# 4 CONTRAINDICATIONS
 
 Do not use in patients with hypokalemia, hypomagnesemia, or long QT syndrome [see Boxed Warning].
