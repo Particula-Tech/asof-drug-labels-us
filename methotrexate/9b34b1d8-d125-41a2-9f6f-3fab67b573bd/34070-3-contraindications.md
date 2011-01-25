@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
 Methotrexate can cause fetal death or teratogenic effects when administered to a pregnant woman.
 Methotrexate is contraindicated in pregnant women with psoriasis or rheumatoid arthritis and should be used in the treatment of neoplastic diseases only when the potential benefit outweighs the risk to the fetus.
