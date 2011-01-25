@@ -21,6 +21,12 @@ In the event of accidental contact with the eye, rinse the eye with copious amou
 
 Manufactured by KV PharmaceuticalTM Co. for Ther-RxTM Corporation St. Louis, Mo 63044
 
+U.S. Patent Nos. 5,993,856; 6,899,890
+
+P10067 12/2010
+
+Cleocin is a registered trademark of Pharmacia.
+
 Patient Information
 
 Clindesse (clin-DESS) (clindamycin phosphate) Vaginal Cream, 2%
@@ -48,9 +54,10 @@ Do not use Clindesse if you:
   See the end of this leaflet for a complete list of ingredients in Clindesse.
 - have had bowel problems such as:
 
-- inflammation of your intestines (enteritis)
-- inflammation of your colon (colitis)
-- diarrhea due to a Clostridum difficile infection (CDAD)
+- 
+  - inflammation of your intestines (enteritis)
+  - inflammation of your colon (colitis)
+  - diarrhea due to a Clostridum difficile infection (CDAD)
 
 Talk to your healthcare provider before using this medicine if you have any of these conditions.
 
