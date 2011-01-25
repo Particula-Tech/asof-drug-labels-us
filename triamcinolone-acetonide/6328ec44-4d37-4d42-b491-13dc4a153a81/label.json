@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA012104"
+  ],
   "inn": "triamcinolone-acetonide",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-0501-62"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, SPRAY",
+      "generic": "triamcinolone acetonide",
+      "name": "KENALOG"
+    }
+  ],
   "setid": "6328ec44-4d37-4d42-b491-13dc4a153a81",
   "source": "dailymed"
 }
