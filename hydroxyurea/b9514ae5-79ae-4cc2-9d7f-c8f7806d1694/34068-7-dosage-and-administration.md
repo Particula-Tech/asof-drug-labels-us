@@ -1,4 +1,4 @@
-# Dosage and Administration
+# DOSAGE AND ADMINISTRATION
 
 To minimize the risk of dermal exposure, always wear impervious gloves when handling bottles containing hydroxyurea capsules.
 This includes all handling activities in clinical settings, pharmacies, storerooms, and home healthcare settings, including during unpacking and inspection, transport within a facility, and dose preparation and administration.

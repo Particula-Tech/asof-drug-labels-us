@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 Hydroxyurea Capsules, USP is an antineoplastic agent, occurs as an essentially tasteless, white crystalline powder.
 Its structural formula is:

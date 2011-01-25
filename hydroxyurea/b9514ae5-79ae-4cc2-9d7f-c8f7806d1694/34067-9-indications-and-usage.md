@@ -1,4 +1,4 @@
-# Indications and Usage
+# INDICATIONS AND USAGE
 
 Significant tumor response to hydroxyurea capsules, USP has been demonstrated in melanoma, resistant chronic myelocytic leukemia, and recurrent, metastatic, or inoperable carcinoma of the ovary.
 

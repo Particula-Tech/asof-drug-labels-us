@@ -30,3 +30,13 @@
    (OSHA Work-Practice Guidelines.)
    Am J Health-Syst Pharm.
    1996;53:1669-1685.
+
+MANUFACTURED BY
+
+BARR LABORATORIES, INC.
+
+POMONA, NY 10970
+
+Revised FEBRUARY 2006
+
+BR-882

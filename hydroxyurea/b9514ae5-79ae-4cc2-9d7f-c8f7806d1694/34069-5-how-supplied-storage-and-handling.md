@@ -1,4 +1,4 @@
-# How Supplied
+# HOW SUPPLIED
 
 Hydroxyurea Capsules, USP are available as:
 

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075143"
+  ],
   "inn": "hydroxyurea",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
     "0555-0882-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "Hydroxyurea"
+    }
+  ],
   "setid": "b9514ae5-79ae-4cc2-9d7f-c8f7806d1694",
   "source": "dailymed"
 }

@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 Adverse reactions have been primarily bone marrow depression (leukopenia, anemia, and occasionally thrombocytopenia), and less frequently gastrointestinal symptoms (stomatitis, anorexia, nausea, vomiting, diarrhea, and constipation), and dermatological reactions such as maculopapular rash, skin ulceration, dermatomyositis-like skin changes, peripheral and facial erythema.
 Hyperpigmentation, atrophy of skin and nails, scaling and violet papules have been observed in some patients after several years of long-term daily maintenance therapy with hydroxyurea.

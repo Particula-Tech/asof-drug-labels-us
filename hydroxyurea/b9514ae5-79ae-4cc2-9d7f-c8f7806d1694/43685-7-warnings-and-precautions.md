@@ -1,4 +1,4 @@
-# Warnings
+# WARNINGS
 
 Treatment with hydroxyurea should not be initiated if bone marrow function is markedly depressed (see CONTRAINDICATIONS).
 Bone marrow suppression may occur, and leukopenia is generally its first and most common manifestation.
@@ -9,7 +9,7 @@ It should be borne in mind that bone marrow depression is more likely in patient
 Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
 
 Fatal and nonfatal pancreatitis have occurred in HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine.
-Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV infected patients treated with hydroxyurea and other antiretroviral agents.
+Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
 Peripheral neuropathy, which was severe in some cases, has been reported in HIV-infected patients receiving hydroxyurea in combination with antiretroviral agents, including didanosine, with or without stavudine.
 
@@ -56,7 +56,7 @@ There are no adequate and well-controlled studies in pregnant women.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
 
-# Precautions
+# PRECAUTIONS
 
 Therapy with hydroxyurea requires close supervision.
 The complete status of the blood, including bone marrow examination, if indicated, as well as kidney function and liver function should be determined prior to, and repeatedly during, treatment.
