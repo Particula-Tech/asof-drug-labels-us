@@ -266,8 +266,8 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C017
+W10529C018
 
 ET01
 
-Rev 11/10
+Rev 12/10

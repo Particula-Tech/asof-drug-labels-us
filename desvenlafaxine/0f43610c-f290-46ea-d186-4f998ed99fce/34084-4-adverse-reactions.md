@@ -83,6 +83,7 @@ Table 3: Common Adverse Reactions: Percentage of Patients (≥ 2% in any Fixed-D
 | Special Senses |  |  |  |  |  |
 | Vision blurred | 1 | 3 | 4 | 4 | 4 |
 | Mydriasis | <1 | 2 | 2 | 6 | 6 |
+| Vertigo | 1 | 2 | 1 | 5 | 3 |
 | Tinnitus | 1 | 2 | 1 | 1 | 2 |
 | Dysgeusia | 1 | 1 | 1 | 1 | 2 |
 | Vascular disorders |  |  |  |  |  |
