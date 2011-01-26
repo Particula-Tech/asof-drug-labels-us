@@ -1,6 +1,6 @@
 # MICROBIOLOGY
 
-## Mechanism of Action
+## Mechanism of Action:
 
 Lamivudine is a synthetic nucleoside analogue.
 Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate, 3TC-TP.
@@ -8,13 +8,13 @@ Incorporation of the monophosphate form into viral DNA by HBV reverse transcript
 3TC-TP also inhibits the RNA- and DNA-dependent DNA polymerase activities of HIV-1 reverse transcriptase (RT).
 3TC-TP is a weak inhibitor of mammalian α, β, and γ-DNA polymerases.
 
-## Antiviral Activity
+## Antiviral Activity:
 
 Activity of lamivudine against HBV in cell culture was assessed in HBV DNA-transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
 EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 μM (2.3 ng/mL) to 5.6 μM (1.3 mcg/mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
 See the EPIVIR package insert for information regarding activity of lamivudine against HIV.
 
-## Resistance
+## Resistance:
 
 Lamivudine-resistant isolates were identified in patients with virologic breakthrough, defined when using solution hybridization assay as the detection of HBV DNA in serum on 2 or more occasions after failing to detect HBV DNA on 2 or more occasions and defined when using PCR assay as a >1 log10 (10-fold) increase in serum HBV DNA from nadir during treatment in a patient who had an initial virologic response.
 
@@ -37,14 +37,10 @@ Following 52 weeks of lamivudine plus adefovir dipivoxil combination therapy (n 
 
 A published study suggested that the rates of lamivudine resistance in patients treated for HBeAg-negative CHB appear to be more variable (0% to 27% at 1 year and 10% to 56% at 2 years).
 
-## Cross-Resistance
+## Cross-Resistance:
 
-### HBV
-
-HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M + rtM204V, rtV173L + rtL180M + rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (30 fold) and telbivudine (>100 fold).
-The lamivudine resistance-associated substitution rtA181T results in diminished response to adefovir and telbividine.
+HBV: HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M + rtM204V, rtV173L + rtL180M + rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (30 fold) and telbivudine (>100 fold).
+The lamivudine resistance-associated substitution rtA181T results in diminished response to adefovir and telbivudine.
 Similarly, HBV with entecavir resistance-associated substitutions (I169T/M250V and T184G/S202I) have >1,000-fold reductions in susceptibility to lamivudine.
 
-### HIV
-
-In studies of HIV-1-infected patients who received lamivudine monotherapy or combination therapy with lamivudine plus zidovudine for at least 12 weeks, HIV-1 isolates with reduced susceptibility in cell culture to lamivudine were detected in most patients (see WARNINGS).
+HIV: In studies of HIV-1-infected patients who received lamivudine monotherapy or combination therapy with lamivudine plus zidovudine for at least 12 weeks, HIV-1 isolates with reduced susceptibility in cell culture to lamivudine were detected in most patients (see WARNINGS).

@@ -148,15 +148,18 @@ You can also ask to read the longer information leaflet that is written for heal
 Keep EPIVIR-HBV and all medicines out of the reach of children.
 In case of overdose, get medical help or contact a Poison Control Center right away.
 
-COMBIVIR, EPIVIR, EPIVIR-HBV, EPZICOM, and TRIZIVIR are registered trademarks of GlaxoSmithKline.
+EPIVIR-HBV is a registered trademark of GlaxoSmithKline.
+
+The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-Manufactured under agreement from
+Manufactured under agreement from Shire Pharmaceuticals Group plc Basingstoke, UK
 
-Shire Pharmaceuticals Group plc Basingstoke, UK
-
-©2007, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-October 2007 EPH:1PIL
+January 2011
+
+EPH: 2PIL
