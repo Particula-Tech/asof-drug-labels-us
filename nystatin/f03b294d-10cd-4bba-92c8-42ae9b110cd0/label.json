@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062506"
+  ],
   "inn": "nystatin",
-  "labeler": "TEVA PHARMACEUTICALS USA",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
   "package_ndcs": [
     "0093-0983-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "nystatin",
+      "name": "Nystatin"
+    }
+  ],
   "setid": "f03b294d-10cd-4bba-92c8-42ae9b110cd0",
   "source": "dailymed"
 }

@@ -7,7 +7,7 @@ Discontinue treatment if sensitization or irritation is reported during use.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long‑term animal studies have been performed to evaluate carcinogenic potential.
+No long-term animal studies have been performed to evaluate carcinogenic potential.
 There also have been no studies to determine mutagenicity or whether this medication affects fertility in males or females.
 
 ## Pregnancy

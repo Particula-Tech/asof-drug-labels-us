@@ -11,7 +11,7 @@ Diarrhea (including one case of bloody diarrhea), nausea, vomiting, gastrointest
 ## Dermatologic
 
 Rash, including urticaria has been reported rarely.
-Stevens‑Johnson syndrome has been reported very rarely.
+Stevens-Johnson syndrome has been reported very rarely.
 
 ## Other
 
