@@ -1,19 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040197"
+  ],
   "inn": "estradiol",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
-    "0555-0886-01",
     "0555-0886-02",
     "0555-0886-04",
-    "0555-0886-14",
-    "0555-0887-01",
     "0555-0887-02",
     "0555-0887-04",
-    "0555-0887-14",
     "0555-0899-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "estradiol",
+      "name": "Estradiol"
+    }
+  ],
   "setid": "c4936878-1643-4e7f-9b0d-e4957935aef2",
   "source": "dailymed"
 }
