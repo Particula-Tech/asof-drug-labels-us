@@ -6,9 +6,9 @@ While parenterally administered MPA inhibits gonadotropin production, which in t
 
 ## Pharmacokinetics
 
-The pharmacokinetics of MPA were determined in 20 postmenopausal women following a single-dose administration of eight medroxyprogesterone acetate 2.5 mg tablets or a single administration of two medroxyprogesterone acetate 10 mg tablets under fasting conditions.
-In another study, the steady-state pharmacokinetics of MPA were determined under fasting conditions in 30 postmenopausal women following daily administration of one medroxyprogesterone acetate 10 mg tablet for 7 days.
-In both studies, MPA was quantified in serum using a validated gas chromatography-mass spectrometry (GC-MS) method.
+The pharmacokinetics of MPA were determined in 20 postmenopausal women following a single-dose administration of eight medroxyprogesterone acetate 2.5 mg tablets or a single administra- tion of two medroxyprogesterone acetate 10 mg tablets under fasting conditions.
+In another study, the steady-state pharmacokinetics of MPA were determined under fasting conditions in 30 post- menopausal women following daily administration of one medroxyprogesterone acetate 10 mg tablet for 7 days.
+In both studies, MPA was quantified in serum using a validated gas chroma- tography-mass spectrometry (GC-MS) method.
 Estimates of the pharmacokinetic parameters of MPA after single and multiple doses of medroxyprogesterone acetate tablets were highly variable and are summarized in Table 1.
 
 Table 1.
@@ -28,7 +28,7 @@ No specific investigation on the absolute bioavailability of MPA in humans has b
 MPA is rapidly absorbed from the gastrointestinal tract, and maximum MPA concentrations are obtained between 2 to 4 hours after oral administration.
 
 Administration of medroxyprogesterone acetate with food increases the bioavailability of MPA.
-A 10 mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, increased MPA Cmax (50 to 70%) and AUC (18 to 33%).
+A 10 mg dose of medroxyprogesterone acetate, taken immediately before or after a meal, in- creased MPA Cmax (50 to 70%) and AUC (18 to 33%).
 The half-life of MPA was not changed with food.
 
 ### B. Distribution

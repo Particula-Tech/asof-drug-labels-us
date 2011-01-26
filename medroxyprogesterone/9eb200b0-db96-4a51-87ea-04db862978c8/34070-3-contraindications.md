@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Medroxyprogesterone Acetate should not be used in women with any of the following conditions:
+Medroxyprogesterone Acetate Tablets USP should not be used in women with any of the following conditions:
 
 1. Undiagnosed abnormal genital bleeding.
 2. Known, suspected, or history of cancer of the breast.

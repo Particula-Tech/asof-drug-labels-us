@@ -17,8 +17,8 @@ Number (%) of Endometrial Biopsy Changes Since Baseline After 3 Years of Treatme
 | Adenocarcinoma (%) | 1 (1) | 0 | 0 |
 | * Includes most extreme abnormal result |  |  |  |
 
-In a second 1-year study, 832 postmenopausal women between 45 and 65 years of age were treated with daily 0.625 mg conjugated estrogen (days 1-28), plus either 5 mg cyclic medroxyprogesterone acetate or 10 mg cyclic medroxyprogesterone acetate (days 15-28), or daily 0.625 mg conjugated estrogen only.
-The treatment groups receiving 5 or 10 mg cyclic medroxyprogesterone acetate (days 15-28) plus daily conjugated estrogens showed a significantly lower rate of hyperplasia as compared to the conjugated estrogens only group.
+In a second 1-year study, 832 postmenopausal women between 45 and 65 years of age were treated with daily 0.625 mg conjugated estrogen (days 1 to 28), plus either 5 mg cyclic medroxyprogesterone acetate or 10 mg cyclic medroxyprogesterone acetate (days 1 5to 28), or daily 0.625 mg conjugated estrogen only.
+The treatment groups receiving 5 or 10 mg cyclic medroxyprogesterone acetate (days 15 to 28) plus daily conjugated estrogens showed a significantly lower rate of hyperplasia as compared to the conjugated estrogens only group.
 See Table 3.
 
 Table 3.
@@ -39,7 +39,7 @@ The study did not evaluate the effects of CE or CE/MPA on menopausal symptoms.
 
 The estrogen plus progestin substudy was stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.2 years of treatment, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
-The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent, nominal confidence interval [nCI], 1.03-1.28).
+The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent, nominal confidence interval [nCI], 1.03 to 1.28).
 
 For those outcomes included in the WHI “global index,” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures.
 (See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
@@ -48,7 +48,7 @@ Results of the CE/MPA substudy which included 16,608 women (average age of 63 ye
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 4: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI AT AN AVERAGE OF 5.6 YEARSResults are based on centrally adjudicated data.
-Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI, 0.82-1.18).
+Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI, 0.82 to 1.18).
 
 | EventIncludes metastatic and non-metastatic breast cancer with the exception of in situ breast cancer | Relative Risk CE/MPA vs placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons) |  | Placebon = 8102 | CE/MPAn = 8506 |  |
 | --- | --- | --- | --- | --- | --- |
@@ -72,4 +72,4 @@ Mortality data was not part of the adjudicated data; however, data at 5.2 years 
 The estrogen plus progestin Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were aged 65 to 69 years, 35 percent were 70 to 74 years, and 18 percent were 75 years of age and older) to evaluate the effects of daily conjugated estrogens (CE 0.625 mg) plus medroxyprogesterone acetate (MPA 2.5 mg) on the incidence of probable dementia (primary outcome) compared with placebo.
 
 After an average follow-up of 4 years, 40 women in the estrogen plus progestin group (45 per 10,000 women-years) and 21 in the placebo group (22 per 10,000 women-years) were diagnosed with probable dementia.
-The relative risk of probable dementia in the hormone therapy group was 2.05 (95 percent CI, 1.21-3.48) compared to placebo.
+The relative risk of probable dementia in the hormone therapy group was 2.05 (95 percent CI, 1.21 to 3.48) compared to placebo.

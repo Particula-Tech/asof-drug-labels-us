@@ -1,9 +1,6 @@
-Revised NOVEMBER 2007 11001272
-
-(Three Patient Information Leaflets Enclosed-Tear at Perforation)
+Iss.
+4/2010 11001645
 
 Rx only
 
-BARR LABORATORIES, INC. POMONA, NY 10970
-
-Revised NOVEMBER 2007 BR-0872, 0873, 0779
+(Three Patient Information Leaflet Enclosed-Tear at Perforation)

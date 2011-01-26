@@ -1,22 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040159"
+  ],
   "inn": "medroxyprogesterone",
-  "labeler": "BARR LABORATORIES, INC.",
+  "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
-    "0555-0779-01",
     "0555-0779-02",
     "0555-0779-04",
-    "0555-0779-05",
-    "0555-0872-01",
     "0555-0872-02",
     "0555-0872-04",
-    "0555-0872-05",
-    "0555-0873-01",
     "0555-0873-02",
-    "0555-0873-04",
-    "0555-0873-05"
+    "0555-0873-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Medroxyprogesterone Acetate"
+    }
+  ],
   "setid": "9eb200b0-db96-4a51-87ea-04db862978c8",
   "source": "dailymed"
 }

@@ -61,7 +61,7 @@ How should I take Medroxyprogesterone Acetate?
 Start at the lowest dose and talk to your health care provider about how well that dose is working for you.
 The lowest effective dose of medroxyprogesterone acetate has not been determined.
 
-You and your health care provider should talk regularly (every 3-6 months) about the dose you are taking and whether you still need treatment with medroxyprogesterone acetate.
+You and your health care provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with medroxyprogesterone acetate.
 
 1. Absence of menstrual period: Medroxyprogesterone acetate may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
 2. Abnormal Uterine Bleeding: Medroxyprogesterone acetate may be given in doses ranging from 5 to 10 mg daily for 5 to 10 days.
@@ -171,6 +171,13 @@ You can ask for information about Medroxyprogesterone Acetate that is written fo
 
 What are the ingredients in Medroxyprogesterone Acetate?
 
-Each Medroxyprogesterone Acetate tablet for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
+Each Medroxyprogesterone Acetate Tablet USP for oral administration contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate.
 
 Inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized starch, and sodium lauryl sulfate.
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Iss.
+4/2010

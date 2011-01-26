@@ -21,7 +21,7 @@ In the estrogen plus progestin substudy of WHI, no statistically significant inc
 An increase in relative risk was demonstrated in year one, and a trend toward decreasing relative risk was reported in years 2 through 5.
 (See CLINICAL STUDIES.)
 
-In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE 0.625 mg/ MPA 2.5 mg per day demonstrated no cardiovascular benefit.
+In postmenopausal women with documented heart disease (n = 2,763, average age 66.7 years), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estro- gen/Progestin Replacement Study [HERS]), treatment with daily CE 0.625 mg/ MPA 2.5 mg per day demonstrated no cardiovascular benefit.
 During an average follow-up of 4.1 years, treatment with CE/MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
 There were more CHD events in the CE/MPA-treated group than in the placebo group in year 1, but not during the subsequent years.
 Two thousand three hundred and twenty one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
@@ -49,7 +49,7 @@ The most important randomized clinical trial providing information about this is
 
 In the estrogen plus progestin substudy of WHI, after a mean follow-up of 5.6 years, the WHI substudy reported an increased risk of breast cancer in women who took daily CE/MPA.
 In this substudy, prior use of estrogen alone or estrogen plus progestin therapy was reported by 26 percent of the women.
-The relative risk of invasive breast cancer was 1.24 (95 percent nominal confidence interval [nCI], 1.01-1.54), and the absolute risk was 41 versus 33 cases per 10,000 women-years, for estrogen plus progestin compared with placebo, respectively.
+The relative risk of invasive breast cancer was 1.24 (95 percent nominal confidence interval [nCI], 1.01 to 1.54), and the absolute risk was 41 versus 33 cases per 10,000 women-years, for estrogen plus progestin compared with placebo, respectively.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE/MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for estrogen plus progestin compared with placebo.
 In the same substudy, invasive breast cancers were larger and diagnosed at a more advanced stage in the CE/MPA group compared with the placebo group.
@@ -76,7 +76,7 @@ Adding a progestin to estrogen therapy has been shown to reduce the risk of endo
 ### c. Ovarian cancer
 
 The estrogen plus progestin substudy of WHI reported that daily CE/MPA increased the risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95 percent nCI, 0.77-3.24) but was not statistically significant.
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95 percent nCI, 0.77 to 3.24) but was not statistically significant.
 The absolute risk for CE/MPA was 4.2 versus 2.7 cases per 10,000 women-years.
 
 ## 3. Dementia
@@ -84,7 +84,7 @@ The absolute risk for CE/MPA was 4.2 versus 2.7 cases per 10,000 women-years.
 In the estrogen plus progestin Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, a population of 4,532 postmenopausal women aged 65 to 79 years was randomized to daily conjugated estrogens (CE 0.625 mg) plus medroxyprogesterone acetate (MPA 2.5 mg) or placebo.
 
 After an average follow-up of 4 years, 40 women in the CE/MPA group and 21 women in the placebo group were diagnosed with probable dementia.
-The relative risk of probable dementia for CE/MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
+The relative risk of probable dementia for CE/MPA versus placebo was 2.05 (95 percent CI, 1.21 to 3.48).
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
 It is unknown whether these findings apply to younger postmenopausal women.
 (See BOXED WARNINGS and PRECAUTIONS, Geriatric Use.)
@@ -152,7 +152,9 @@ Long-term continuous administration of estrogen plus progestin therapy, has show
 
 ## E. Pregnancy
 
-### Pregnancy Category X
+### Teratogenic Effects
+
+#### Pregnancy Category X
 
 Medroxyprogesterone acetate should not be used during pregnancy.
 (See CONTRAINDICATIONS.)
@@ -176,12 +178,12 @@ In women 75 and older compared to women less than 75 years of age, there was a h
 In women greater than 75 years of age, the increased risk of non-fatal stroke and invasive breast cancer observed in the estrogen plus progestin group compared to placebo was 75 versus 24 per 10,000 women-years and 52 versus 12 per 10,000 women-years, respectively.
 
 In the estrogen plus progestin Women’s Health Initiative Memory Study (WHIMS), a substudy of WHI, a population of 4,532 postmenopausal women, aged 65 to 70 years, was randomized to receive daily CE 0.625 mg/MPA 2.5 mg or placebo.
-In the estrogen plus progestin group, after an average follow-up of 4 years, the relative risk (CE/MPA versus placebo) of probable dementia was 2.05 (95 percent CI, 1.21-3.48).
+In the estrogen plus progestin group, after an average follow-up of 4 years, the relative risk (CE/MPA versus placebo) of probable dementia was 2.05 (95 percent CI, 1.21 to 3.48).
 The absolute risk of developing probable dementia with CE/MPA was 45 versus 22 cases per 10,000 women-years compared with placebo.
 
 Eighty-two percent of the cases of probable dementia occurred in women that were older than 70 in the CE/MPA group.
 The most common classification of probable dementia in the estrogen plus progestin and placebo groups was Alzheimer’s disease.
 
-When data from the estrogen alone and estrogen plus progestin WHIMS substudies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
+When data from the estrogen alone and estrogen plus progestin WHIMS substudies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19 to 2.60).
 Since both substudies were conducted in women aged 65 to 79 years, it is unknown whether these findings apply to younger postmenopausal women.
 (See BOXED WARNINGS and WARNINGS, Dementia.)
