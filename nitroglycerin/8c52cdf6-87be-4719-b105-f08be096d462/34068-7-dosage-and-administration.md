@@ -5,9 +5,9 @@ NOT FOR DIRECT INTRAVENOUS INJECTION
 NITROGLYCERIN INJECTION IS A CONCENTRATED, POTENT DRUG WHICH MUST BE DILUTED IN DEXTROSE (5%) INJECTION OR SODIUM CHLORIDE (0.9%) INJECTION PRIOR TO ITS INFUSION.
 NITROGLYCERIN INJECTION SHOULD NOT BE MIXED WITH OTHER DRUGS.
 
-1. Initial Dilution: Aseptically transfer the contents of one nitroglycerin vial (containing 25 mg or 50 mg of nitroglycerin) into a 500 mL glass bottle of either Dextrose (5%) Injection or Sodium Chloride Injection (0.9%).
-   This yields a final concentration of 50 mcg/mL or 100 mcg/mL.
-   Diluting 5 mg nitroglycerin into 100 mL will also yield a final concentration of 50 mcg/mL.
+1. Initial Dilution: Aseptically transfer the contents of one nitroglycerin vial (50 mg of nitroglycerin) into a 500 mL glass bottle of either Dextrose (5%) Injection or Sodium Chloride Injection (0.9%).
+   This yields a final concentration of 100 mcg/mL.
+   Diluting 5 mg nitroglycerin into 100 mL will yield a final concentration of 50 mcg/mL.
 2. Maintenance Dilution: It is important to consider the fluid requirements of the patient as well as the expected duration of infusion in selecting the appropriate dilution of Nitroglycerin Injection.
    After the initial dosage titration, the concentration of the solution may be increased, if necessary, to limit fluids given to the patient.
    The nitroglycerin concentration should not exceed 400 mcg/mL.
@@ -75,8 +75,7 @@ NITROGLYCERIN INJECTION DILUTION TABLE
 
 | Each mL of Nitroglycerin Injection contains 5 mg of nitroglycerin. |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Total Contents: | Each 5 mL vial contains 25 mg of nitroglycerin. |  |  |  |
-|  | Each 10 mL vial contains 50 mg of nitroglycerin. |  |  |  |
+| Total Contents: | Each 10 mL vial contains 50 mg of nitroglycerin. |  |  |  |
 | mL of Nitroglycerin Injection | mg | Final Concentration |  |  |
 | 100 mcg/mL | 200 mcg/mL | 400 mcg/mL |  |  |
 | Volume | q.s. to | q.s. to | q.s. to |  |

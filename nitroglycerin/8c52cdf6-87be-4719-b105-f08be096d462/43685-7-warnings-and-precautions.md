@@ -55,7 +55,7 @@ In patients receiving intravenous nitroglycerin, concomitant heparin therapy sho
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Animal carcinogenesis studies with injectable nitroglycerin have not been performed.
 
 Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
-At high dose, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls, and incidences of testicular tumors were 52% vs. 8% in controls.
+At high doses, the incidences of hepatocellular carcinomas in both sexes were 52% vs. 0% in controls, and incidences of testicular tumors were 52% vs. 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories.
