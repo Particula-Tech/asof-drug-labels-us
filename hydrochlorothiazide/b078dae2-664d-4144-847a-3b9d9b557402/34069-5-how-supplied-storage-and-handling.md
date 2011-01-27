@@ -24,10 +24,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-MICARDIS HCT tablets are covered by U.S. Patent 5,591,762
+Revised: January 2011
 
-Rev: November 2009
-
-IT13006GK0309 10004142/06
+IT13006IA212011 10004142/07

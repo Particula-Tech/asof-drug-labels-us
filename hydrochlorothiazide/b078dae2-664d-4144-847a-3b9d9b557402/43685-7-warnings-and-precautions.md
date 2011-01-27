@@ -57,6 +57,13 @@ Systemic Lupus Erythematosus: Thiazide diuretics have been reported to cause exa
 
 Lithium Interaction: Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
 
+Acute Myopia and Secondary Angle-Closure Glaucoma: Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 # PRECAUTIONS
 
 ## Serum Electrolytes
@@ -146,12 +153,12 @@ Concomitant use of telmisartan and ramipril is not recommended.
 Pregnancy: Female patients of childbearing age should be told about the consequences of second- and third-trimester exposure to drugs that act on the renin-angiotensin system, and they should also be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
 
-Symptomatic Hypotension: A patient receiving MICARDIS HCT tablets should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
+Symptomatic Hypotension: A patient receiving Micardis® HCT (telmisartan and hydrochlorothiazide) tablets should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 The patients should be told that if syncope occurs, MICARDIS HCT tablets should be discontinued until the physician has been consulted.
 
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
-Potassium Supplements: A patient receiving Micardis® HCT (telmisartan and hydrochlorothiazide) tablets should be told not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing physician.
+Potassium Supplements: A patient receiving MICARDIS HCT tablets should be told not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing physician.
 
 ## Drug Interactions
 
