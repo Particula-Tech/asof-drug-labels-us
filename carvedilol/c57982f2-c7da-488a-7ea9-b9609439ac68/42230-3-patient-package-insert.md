@@ -14,9 +14,9 @@ What is COREG?
 COREG is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 COREG is used, often with other medicines, for the following conditions:
 
-- To treat patients with high blood pressure (hypertension)
-- To treat patients who had a heart attack that worsened how well the heart pumps
 - To treat patients with certain types of heart failure
+- To treat patients who had a heart attack that worsened how well the heart pumps
+- To treat patients with high blood pressure (hypertension)
 
 COREG is not approved for use in children under 18 years of age.
 
@@ -49,6 +49,7 @@ Tell your doctor about all of your medical conditions, including if you:
   It is not known if COREG passes into your breast milk.
   You should not breastfeed while using COREG.
 - Are scheduled for surgery and will be given anesthetic agents
+- Are scheduled for cataract surgery and have taken or are currently taking COREG.
 - Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
   COREG and certain other medicines can affect each other and cause serious side effects.
   COREG may affect the way other medicines work.
@@ -126,6 +127,14 @@ Inactive Ingredients: Colloidal silicon dioxide, crospovidone, hypromellose, lac
 
 Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
+What is high blood pressure (hypertension)?
+
+Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too much.
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
+COREG can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
+
 COREG is a registered trademark of GlaxoSmithKline.
 
 Manufactured for
@@ -140,9 +149,9 @@ Patheon Puerto Rico, Inc.
 
 Manati, PR 00674 USA
 
-©2009, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-Revised: June 2009
+January 2011
 
-CRG:3PIL
+CRG:4PIL

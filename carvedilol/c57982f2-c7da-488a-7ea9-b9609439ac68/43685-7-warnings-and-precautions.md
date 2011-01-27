@@ -54,7 +54,7 @@ The dosing recommendations should be followed closely and the dose should be low
 ## 5.6 Glycemic Control in Type 2 Diabetes
 
 In general, β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
-Nonselectiveβ-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
+Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
 Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities.
 
 In heart failure patients with diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
@@ -100,3 +100,10 @@ However, caution should be taken in the administration of carvedilol to patients
 
 While taking β-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+## 5.14 Intraoperative Floppy Iris Syndrome
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (COREG is an alpha/beta blocker).
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient’s ophthalmologist should be prepared for possible modifications to the surgical technique, such as utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.

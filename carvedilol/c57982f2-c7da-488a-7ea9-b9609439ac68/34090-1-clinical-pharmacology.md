@@ -31,7 +31,7 @@ The basis for the beneficial effects of COREG in patients with left ventricular 
 The mechanism by which β-blockade produces an antihypertensive effect has not been established.
 
 β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects; (2) reduces exercise- and/or isoproterenol-induced tachycardia; and (3) reduces reflex orthostatic tachycardia.
-Significantβ-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
+Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
 
 α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine; (2) causes vasodilation; and (3) reduces peripheral vascular resistance.
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.

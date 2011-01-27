@@ -50,4 +50,4 @@ Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring 
 
 ## 7.9 Anesthesia
 
-If treatment with COREG CR is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
+If treatment with COREG is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].

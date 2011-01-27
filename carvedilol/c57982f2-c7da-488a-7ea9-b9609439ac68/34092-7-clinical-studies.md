@@ -96,7 +96,7 @@ Results of COPERNICUS Trial in Patients With Severe Heart Failure
 
 Cardiovascular = CV; Heart failure = HF.
 
-The effect on mortality was principally the result of a reduction in the rate of sudden death among patientswithout worsening heart failure.
+The effect on mortality was principally the result of a reduction in the rate of sudden death among patients without worsening heart failure.
 
 Patients' global assessments, in which carvedilol-treated patients were compared to placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening or no change compared to baseline.
 Patients treated with carvedilol showed significant improvements in global assessments compared with those treated with placebo in COPERNICUS.
