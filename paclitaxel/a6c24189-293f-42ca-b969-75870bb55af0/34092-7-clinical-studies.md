@@ -55,13 +55,13 @@ These adverse events and adverse events from the Phase 3 first-line ovarian carc
 
 ### Second-Line Data
 
-Data from five Phase 1 and 2 clinical studies (189 patients), a multicenter randomized Phase 3 study (407 patients), as well as an interim analysis of data from more than 300 patients enrolled in a treatment referral center program were used in support of the use of paclitaxel in patients who have failed initial or subsequent chemotherapy for metastatic carcinoma of the ovary.
+Data from five, Phase 1 and 2 clinical studies (189 patients), a multicenter randomized Phase 3 study (407 patients), as well as an interim analysis of data from more than 300 patients enrolled in a treatment referral center program were used in support of the use of paclitaxel in patients who have failed initial or subsequent chemotherapy for metastatic carcinoma of the ovary.
 Two of the Phase 2 studies (92 patients) utilized an initial dose of 135 to 170 mg/m2 in most patients (>90%) administered over 24 hours by continuous infusion.
 Response rates in these two studies were 22% (95% Cl: 11% to 37%) and 30% (95% Cl: 18% to 46%) with a total of 6 complete and 18 partial responses in 92 patients.
 The median duration of overall response in these two studies measured from the first day of treatment was 7.2 months (range: 3.5 to 15.8 months) and 7.5 months (range: 5.3 to 17.4 months), respectively.
 The median survival was 8.1 months (range: 0.2 to 36.7 months) and 15.9 months (range: 1.8 to 34.5+ months).
 
-The Phase 3 study had a bifactorial design and compared the efficacy and safety of paclitaxel, administered at two different doses (135 or 175 mg/m2) and schedules (3 or 24-hour infusion).
+The Phase 3 study had a bifactorial design and compared the efficacy and safety of paclitaxel, administered at two different doses (135 or 175 mg/m2) and schedules (3- or 24-hour infusion).
 The overall response rate for the 407 patients was 16.2% (95% Cl: 12.8% to 20.2%), with 6 complete and 60 partial responses.
 Duration of response, measured from the first day of treatment was 8.3 months (range: 3.2 to 21.6 months).
 Median time to progression was 3.7 months (range: 0.1+ to 25.1+ months).
@@ -84,10 +84,10 @@ Table 3: Efficacy in the Phase 3 Second-Line Ovarian Carcinoma Study
 | - 95% Confidence Interval | (8.4-14.4) | (8.9-14.6) | (9.1-14.6) | (8.1-13.6) |
 
 Analyses were performed as planned by the bifactorial study design described in the protocol, by comparing the 2 doses (135 or 175 mg/m2) irrespective of the schedule (3 or 24 hours) and the two schedules irrespective of dose.
-Patients receiving the 175 mg/m2 dose had a response rate similar to that for those receiving the 135 mg/m2 dose: 18% vs. 14% (p=0.28).
-No difference in response rate was detected when comparing the 3-hour with the 24-hour infusion: 15% vs. 17% (p=0.50).
-Patients receiving the 175 mg/m2 dose of paclitaxel had a longer time to progression than those receiving the 135 mg/m2 dose: median 4.2 vs. 3.1 months (p=0.03).
-The median time to progression for patients receiving the 3-hour vs. the 24-hour infusion was 4. months vs. 3.7 months, respectively.
+Patients receiving the 175 mg/m2 dose had a response rate similar to that for those receiving the 135 mg/m2 dose: 18% versus 14% (p=0.28).
+No difference in response rate was detected when comparing the 3-hour with the 24-hour infusion: 15% versus 17% (p=0.50).
+Patients receiving the 175 mg/m2 dose of paclitaxel had a longer time to progression than those receiving the 135 mg/m2 dose: median 4.2 versus 3.1 months (p=0.03).
+The median time to progression for patients receiving the 3-hour versus the 24-hour infusion was 4. months versus 3.7 months, respectively.
 Median survival was 11.6 months in patients receiving the 175 mg/m2 dose of paclitaxel and 11 months in patients receiving the 135 mg/m2 dose (p=0.92).
 Median survival was 11.7 months for patients receiving the 3-hour infusion of paclitaxel and 11.2 months for patients receiving the 24-hour infusion (p=0.91).
 These statistical analyses should be viewed with caution because of the multiple comparisons made.
@@ -165,8 +165,7 @@ The dose of paclitaxel was 200 mg/m2 as a 24-hour infusion with G-CSF support.
 Nine of 30 patients achieved a partial response, for a response rate of 30% (95% CI: 15% to 50%).
 
 Phase 3 randomized study- This multicenter trial was conducted in patients previously treated with one or two regimens of chemotherapy.
-Patients were randomized to receive paclitaxel at a dose of either 175 mg/m2 or 135 mg/m2 given as a 3 hour infusion.
-
+Patients were randomized to receive paclitaxel at a dose of either 175 mg/m2 or 135 mg/m2 given as a 3-hour infusion.
 In the 471 patients enrolled, 60% had symptomatic disease with impaired performance status at study entry, and 73% had visceral metastases.
 These patients had failed prior chemotherapy either in the adjuvant setting (30%), the metastatic setting (39%), or both (31%).
 Sixty-seven percent of the patients had been previously exposed to anthracyclines and 23% of them had disease considered resistant to this class of agents.
@@ -206,7 +205,7 @@ There was no statistically significant difference in survival between paclitaxel
 
 Table 6: Efficacy Parameters in the Phase 3 First-Line NSCLC Study
 
-|  | T135/24 c75(n=198) | T250/24c75(n=201) | VP100Etoposide (VP) 100 mg/m2 was administered I.V. on days 1, 2 and 3.c75(n=200) |
+|  | T135/24 c75(n=198) | T250/24c75(n=201) | VP100Etoposide (VP) 100 mg/m2 was administered IV on days 1, 2 and 3.c75(n=200) |
 | --- | --- | --- | --- |
 | • Response |  |  |  |
 | - rate (percent) | 25 | 23 | 12 |

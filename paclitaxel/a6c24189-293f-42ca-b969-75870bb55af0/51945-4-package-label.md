@@ -1,5 +1,21 @@
-# 63323-763-05 PACLITAXEL INJECTION, USP (semisynthetic) 30mg/5mL
+# PACKAGE LABEL - PRINCIPAL DISPLAY
 
-# 63323-763-16 PACLITAXEL INJECTION, USP (semisynthetic) 100mg/16.7mL
+Paclitaxel 30 mg/5 mL-Vial Carton Label
 
-# 63323-763-50 PACLITAXEL INJECTION, USP (semisynthetic) 300mg/50mL
+NDC 63323-763-05 760305
+
+PACLITAXEL
+
+INJECTION, USP (semisynthetic)
+
+30 mg/5 mL
+
+(6 mg/mL)
+
+MUST BE DILUTED PRIOR
+
+TO IV USE
+
+Cytotoxic Agent
+
+Rx only Multiple Dose Vial

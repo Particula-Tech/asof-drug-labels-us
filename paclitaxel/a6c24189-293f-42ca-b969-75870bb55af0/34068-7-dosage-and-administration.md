@@ -40,13 +40,13 @@ Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week
 The incidence of neurotoxicity and the severity of neutropenia increase with dose.
 
 Hepatic Impairment: Patients with hepatic impairment may be at increased risk of toxicity, particularly grade III-IV myelosuppression (see CLINICAL PHARMACOLOGYand PRECAUTIONS: Hepatic).
-Recommendations for dosage adjustment for the first course of therapy are shown in Table 17 for both 3 and 24-hour infusions.
+Recommendations for dosage adjustment for the first course of therapy are shown in Table 17 for both 3- and 24-hour infusions.
 Further dose reduction in subsequent courses should be based on individual tolerance.
 Patients should be monitored closely for the development of profound myelosuppression.
 
 Table 17: Recommendations for Dosing in Patients With Hepatic Impairment Based on Clinical Trial DataThese recommendations are based on dosages for patients without hepatic impairment of 135 mg/m2 over 24 hours or 175 mg/m2 over 3 hours; data are not available to make dose adjustment recommendations for other regimens (eg, for AIDS-related Kaposi’s sarcoma).
 
-| Transaminase Levels |  | Bilirubin LevelsDifferences in criteria for bilirubin levels between the 3 and 24-hour infusion are due to differences in clinical trial design. |  |
+| Transaminase Levels |  | Bilirubin LevelsDifferences in criteria for bilirubin levels between the 3- and 24-hour infusion are due to differences in clinical trial design. |  |
 | --- | --- | --- | --- |
 | Degree of Hepatic Impairment |  |  | RecommendedPaclitaxel DoseDosage recommendations are for the first course of therapy; further dose reduction in subsequent courses should be based on individual tolerance. |
 | 24-hour infusion |  |  |  |
@@ -60,11 +60,11 @@ Table 17: Recommendations for Dosing in Patients With Hepatic Impairment Based o
 | <10 x ULN | and | 2.01 - 5. x ULN | 90 mg/m2 |
 | ≥10 x ULN | or | > 5. x ULN | Not recommended |
 
-Preparation and Administration Precautions: Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
-The use of gloves is recommended.
-If paclitaxel solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
+Preparation and Administration Precautions: Procedures for proper handling and disposal of anticancer drugs should be considered.
+Several guidelines on this subject have been published.1-4 To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing Paclitaxel Injection, USP.
+If Paclitaxel Injection, USP solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
 Following topical exposure, events have included tingling, burning, and redness.
-If paclitaxel contacts mucous membranes, the membranes should be flushed thoroughly with water.
+If Paclitaxel Injection, USP contacts mucous membranes, the membranes should be flushed thoroughly with water.
 Upon inhalation, dyspnea, chest pain, burning eyes, sore throat, and nausea have been reported.
 
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration (see PRECAUTIONS: Injection Site Reaction).
@@ -75,7 +75,7 @@ The solutions are physically and chemically stable for up to 27 hours at ambient
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Upon preparation, solutions may show haziness, which is attributed to the formulation vehicle.
-No significant losses in potency have been noted following simulated delivery of the solution through I.V. tubing containing an in-line (0.22 micron) filter.
+No significant losses in potency have been noted following simulated delivery of the solution through IV tubing containing an in-line (0.22 micron) filter.
 
 Data collected for the presence of the extractable plasticizer DEHP [di-(2-ethylhexyl)phthalate] show that levels increase with time and concentration when dilutions are prepared in PVC containers.
 Consequently, the use of plasticized PVC containers and administration sets is not recommended.
@@ -89,7 +89,7 @@ The Chemo Dispensing Pin™ device or similar devices with spikes should not be 
 
 Stability: Unopened vials of Paclitaxel injection, USP are stable until the date indicated on the package when stored between 20 °C to 25 °C (68 °F to 77 °F), in the original package.
 Neither freezing nor refrigeration adversely affects the stability of the product.
-Upon refrigeration components in the paclitaxel vial may precipitate, but will redissolve upon reaching room temperature with little or no agitation.
+Upon refrigeration, components in the paclitaxel vial may precipitate, but will redissolve upon reaching room temperature with little or no agitation.
 There is no impact on product quality under these circumstances.
 If the solution remains cloudy or if an insoluble precipitate is noted, the vial should be discarded.
 Solutions for infusion prepared as recommended are stable at ambient temperature (approximately 25 °C) and lighting conditions for up to 27 hours.

@@ -8,7 +8,7 @@ Following intravenous administration of Paclitaxel injection USP, Paclitaxel pla
 The initial rapid decline represents distribution to the peripheral compartment and elimination of the drug.
 The later phase is due, in part, to a relatively slow efflux of paclitaxel from the peripheral compartment.
 
-Pharmacokinetic parameters of paclitaxel following 3 and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table:
+Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table:
 
 Table 1: Summary of Pharmacokinetic Parameters - Mean Values
 
@@ -30,11 +30,11 @@ The pharmacokinetics of paclitaxel in patients with AIDS-related Kaposi’s sarc
 
 In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50 mcg/mL, indicate that between 89% to 98% of drug is bound; the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
 
-After intravenous administration of 15 to 275 mg/m2 doses of Paclitaxel injection, USP as 1, 6, or 24-hour infusions, mean values for cumulative urinary recovery of unchanged drug ranged from 1.3% to 12.6% of the dose, indicating extensive non-renal clearance.
+After intravenous administration of 15 to 275 mg/m2 doses of Paclitaxel injection, USP as 1-, 6-, or 24-hour infusions, mean values for cumulative urinary recovery of unchanged drug ranged from 1.3% to 12.6% of the dose, indicating extensive non-renal clearance.
 In five patients administered a 225 or 250 mg/m2 dose of radiolabeled paclitaxel as a 3-hour infusion, a mean of 71% of the radioactivity was excreted in the feces in 120 hours, and 14% was recovered in the urine.
 Total recovery of radioactivity ranged from 56% to 101% of the dose.
 Paclitaxel represented a mean of 5% of the administered radioactivity recovered in the feces, while metabolites, primarily 6α-hydroxypaclitaxel, accounted for the balance.
-In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6α-hydroxypaclitaxel by the cytochrome P450 isozyme CYP2C8; and to two minor metabolites, 3#-p-hydroxypaclitaxel and 6α, 3#-p-dihydroxypaclitaxel, by CYP3A4.
+In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6α-hydroxypaclitaxel by the cytochrome P450 isozyme CYP2C8; and to two minor metabolites, 3'-p-hydroxypaclitaxel and 6α, 3'-p-dihydroxypaclitaxel, by CYP3A4.
 In vitro, the metabolism of paclitaxel to 6α-hydroxypaclitaxel was inhibited by a number of agents (ketoconazole, verapamil, diazepam, quinidine, dexamethasone, cyclosporin, teniposide, etoposide, and vincristine), but the concentrations used exceeded those found in vivo following normal therapeutic doses.
 Testosterone, 17α-ethinyl estradiol, retinoic acid, and quercetin, a specific inhibitor of CYP2C8, also inhibited the formation of 6α-hydroxypaclitaxel in vitro.
 The pharmacokinetics of paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates, inducers, or inhibitors of CYP2C8 and/or CYP3A4 (see PRECAUTIONS: Drug Interactions).
