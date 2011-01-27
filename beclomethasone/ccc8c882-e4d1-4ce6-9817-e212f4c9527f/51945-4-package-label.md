@@ -14,6 +14,24 @@ CFC FREE
 
 TEVA SPECIALTY PHARMACEUTICALS
 
+# PRINCIPAL DISPLAY PANEL - 40 mcg Carton
+
+NDC 59310-202-40
+
+QVAR® 40mcg
+
+(beclomethasone dipropionate HFA, 40 mcg) INHALATION AEROSOL
+
+For Oral Inhalation with QVAR® Actuator Only
+
+NEW120 Metered Inhalations
+
+120 Metered Inhalations 8.7 g Net Contents
+
+CFC FREE
+
+TEVA TEVA RESPIRATORY
+
 # PRINCIPAL DISPLAY PANEL - 80 mcg Carton
 
 NDC 59310-177-80
@@ -29,3 +47,21 @@ For oral inhalation with QVAR® Actuator only
 CFC FREE
 
 TEVA SPECIALTY PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 80 mcg Carton
+
+NDC 59310-204-80
+
+QVAR® 80mcg
+
+(beclomethasone dipropionate HFA, 80 mcg) INHALATION AEROSOL
+
+For Oral Inhalation with QVAR® Actuator Only
+
+NEW120 Metered Inhalations
+
+120 Metered Inhalations 8.7 g Net Contents
+
+CFC FREE
+
+TEVA TEVA RESPIRATORY

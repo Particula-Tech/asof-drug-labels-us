@@ -2,7 +2,7 @@
 
 QVAR® (beclomethasone dipropionate HFA) INHALATION AEROSOL
 
-Attention Pharmacist: Detach "Patient's Instructions for Use" from package insert and dispense with the product.
+Attention Pharmacist: Detach "PATIENT'S INSTRUCTIONS for Use" from package insert and dispense with the product.
 
 PATIENT'S INSTRUCTIONS
 
@@ -48,7 +48,7 @@ DO NOT WASH OR PUT ANY PART OF YOUR INHALER IN WATER.
 
 9.
 DISCARD THE CANISTER AFTER the date calculated by your physician or pharmacist.
-The correct amount of medication in each inhalation cannot be assured after 100 actuations from the 7.3 g canister even though the canister is not completely empty.
+The correct amount of medication in each inhalation cannot be assured after 100 actuations from the 7.3 g canister or 120 actuations from the 8.7 g canister even though the canister is not completely empty.
 The canister should be discarded when the labeled number of actuations have been used.
 Before the discard date you should consult your physician to determine whether a refill is needed.
 It is advisable to keep track of the number of doses taken from the canister to better predict when a refill is necessary.
@@ -84,12 +84,12 @@ Store at 25°C (77°F).
 For optimal results, the canister should be at room temperature when used.
 Store QVAR Inhalation Aerosol when not being used, so that the product rests on the concave end of the canister with the plastic actuator on top.
 
-Mktd by: Teva Specialty Pharmaceuticals LLC Horsham, PA 19044
+Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 | Developed and Manufactured by: 3M Drug Delivery Systems Northridge, CA 91324 | OR | 3M Health Care, Ltd. Loughborough, UK |
 | --- | --- | --- |
 
-© 2008 Teva Specialty Pharmaceuticals LLC QVAR® is a registered trademark of the IVAX Corporation, a member of the TEVA Group.
+© 2010 Teva Respiratory, LLC QVAR® is a registered trademark of IVAX LLC, a member of the TEVA Group.
 
-634600 Rev.
-08/08
+639300 Rev.
+09/10

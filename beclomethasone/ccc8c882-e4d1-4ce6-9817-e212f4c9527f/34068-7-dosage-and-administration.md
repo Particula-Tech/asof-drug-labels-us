@@ -12,14 +12,17 @@ Improvement in asthma symptoms should be expected within the first or second wee
 For patients who do not respond adequately to the starting dose after 3-4 weeks of therapy, higher doses may provide additional asthma control.
 The safety and efficacy of QVAR when administered in excess of recommended doses has not been established.
 
-Recommended Dosage for QVAR:
+Table 2: Recommended Dosing for Adults and Adolescents
 
-| Previous Therapy | Recommended Starting Dose | Highest Recommended Dose |
+| Patient's Previous Therapy | Recommended Starting Dose | Highest Recommended Dose |
 | --- | --- | --- |
-| Adults and Adolescents: |  |  |
 | Bronchodilators Alone | 40 to 80 mcg twice daily | 320 mcg twice daily |
 | Inhaled Corticosteroids | 40 to 160 mcg twice daily | 320 mcg twice daily |
-| Children 5 to 11 years: |  |  |
+
+Table 3: Recommended Dosing for Children 5 to 11 Years
+
+| Patient's Previous Therapy | Recommended Starting Dose | Highest Recommended Dose |
+| --- | --- | --- |
 | Bronchodilators Alone | 40 mcg twice daily | 80 mcg twice daily |
 | Inhaled Corticosteroids | 40 mcg twice daily | 80 mcg twice daily |
 

@@ -11,7 +11,7 @@ Each unit contains a solution of beclomethasone dipropionate in propellant HFA-1
 QVAR 40 mcg delivers 40 mcg of beclomethasone dipropionate from the actuator and 50 mcg from the valve.
 QVAR 80 mcg delivers 80 mcg of beclomethasone dipropionate from the actuator and 100 mcg from the valve.
 Both products deliver 50 microliters (59 milligrams) of solution formulation from the valve with each actuation.
-Each canister provides 100 inhalations.
+The 40 mcg and the 80 mcg canisters provide either 100 inhalations or 120 inhalations.
 QVAR should be "primed" or actuated twice prior to taking the first dose from a new canister, or when the inhaler has not been used for more than ten days.
 Avoid spraying in the eyes or face while priming QVAR.
 This product does not contain chlorofluorocarbons (CFCs).

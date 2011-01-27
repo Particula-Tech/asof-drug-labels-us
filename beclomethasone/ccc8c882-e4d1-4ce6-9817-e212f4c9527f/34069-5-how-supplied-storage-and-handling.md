@@ -2,10 +2,10 @@
 
 QVAR is supplied in two strengths:
 
-- QVAR 40 mcg is supplied in a 7.3 g canister containing 100 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-175-40
-- QVAR 80 mcg is supplied in a 7.3 g canister containing 100 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-177-80
+- QVAR 40 mcg is supplied either in a 7.3 g canister containing 100 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-175-40 or in an 8.7 g canister containing 120 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-202-40
+- QVAR 80 mcg is supplied either in a 7.3 g canister containing 100 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-177-80 or in an 8.7 g canister containing 120 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-204-80
 
-The correct amount of medication in each inhalation cannot be assured after 100 actuations from the 7.3 g canister even though the canister is not completely empty.
+The correct amount of medication in each inhalation cannot be assured after 100 actuations from the 7.3 g canister or 120 actuations from the 8.7 g canister even though the canister is not completely empty.
 The canister should be discarded when the labeled number of actuations have been used.
 
 Store QVAR Inhalation Aerosol when not being used, so that the product rests on the concave end of the canister with the plastic actuator on top.

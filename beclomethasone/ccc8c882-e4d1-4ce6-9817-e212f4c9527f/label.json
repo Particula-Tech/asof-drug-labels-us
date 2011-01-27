@@ -3,12 +3,14 @@
     "NDA020911"
   ],
   "inn": "beclomethasone",
-  "labeler": "Teva Specialty Pharmaceuticals LLC",
+  "labeler": "Teva Respiratory, LLC",
   "package_ndcs": [
     "59310-175-40",
     "59310-175-41",
     "59310-177-80",
-    "59310-177-81"
+    "59310-177-81",
+    "59310-202-40",
+    "59310-204-80"
   ],
   "products": [
     {
