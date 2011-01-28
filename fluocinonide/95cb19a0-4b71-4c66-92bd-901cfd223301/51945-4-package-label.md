@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
+PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
 
 Vanos® (fluocinonide) cream 0.1%
 

@@ -1,3 +1,3 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Topically applied VANOS Cream can be absorbed in sufficient amounts to produce systemic effects (see PRECAUTIONS).
+Topically applied VANOS Cream can be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions (5.1)].

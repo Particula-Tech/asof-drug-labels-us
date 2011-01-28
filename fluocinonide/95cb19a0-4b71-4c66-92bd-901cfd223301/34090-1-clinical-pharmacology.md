@@ -1,20 +1,21 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Like other topical corticosteroids, VANOS (fluocinonide) Cream, has anti-inflammatory, antipruritic, and vasoconstrictive properties.
-The mechanism of the anti-inflammatory activity of topical corticosteroids, in general, is unclear.
-However, corticosteroids are thought to act by induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachadonic acid.
-Arachadonic acid is released from membrane phospholipids by phospholipase A2.
+## 12.1 Mechanism of Action
 
-## Pharmacokinetics
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of VANOS Cream in corticosteroid responsive dermatoses is unknown.
+
+## 12.2 Pharmacodynamics
+
+Vasoconstrictor studies performed with VANOS Cream in healthy subjects indicate that it is in the super-high range of potency as compared with other topical corticosteroids; however, similar blanching scores do not necessarily imply therapeutic equivalence.
+
+Application of VANOS Cream twice daily for 14 days in 18 adult subjects with plaque-type psoriasis (10–50% BSA, mean 19.6% BSA) and 31 adult subjects (17 treated once daily; 14 treated twice daily) with atopic dermatitis (2–10% BSA, mean 5% BSA) showed demonstrable HPA-axis suppression in 2 subjects with psoriasis (with 12% and 25% BSA) and 1 subject with atopic dermatitis (treated once daily, 4% BSA) where the criterion for HPA-axis suppression is a serum cortisol level of less than or equal to 18 micrograms per deciliter 30 minutes after stimulation with cosyntropin (ACTH1–24) [see Warnings and Precautions (5.1)].
+
+HPA-axis suppression following application of VANOS Cream, 0.1% (once or twice daily) was also evaluated in 123 pediatric patients from 3 months to < 18 years of age with atopic dermatitis (mean BSA range 34.6 % – 40.0 %).
+HPA-axis suppression was observed in 4 patients in the twice daily groups.
+Follow-up testing 14 days after treatment discontinuation demonstrated a normally responsive HPA axis in all 4 suppressed patients [see Warnings and Precautions (5.1) and Use in Specific populations (8.4)].
+
+## 12.3 Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle and the integrity of the epidermal barrier.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
-
-Vasoconstrictor studies performed with VANOS Cream, 0.1% in healthy subjects indicate that it is in the super-high range of potency as compared with other topical corticosteroids; however, similar blanching scores do not necessarily imply therapeutic equivalence.
-
-Application of VANOS Cream, 0.1% twice daily for 14 days in 18 adult patients with plaque-type psoriasis (10–50% BSA, mean 19.6% BSA) showed demonstrable HPA-axis suppression in 2 patients (with 12% and 25% BSA) where the criterion for HPA-axis suppression is a serum cortisol level of less than or equal to 18 micrograms per deciliter 30 minutes after stimulation with cosyntropin (ACTH1–24) (See PRECAUTIONS: General and Pediatric Use).
-
-HPA-axis suppression has not been evaluated in psoriasis patients who are less than 18 years of age.
-HPA-axis suppression has been evaluated in pediatric patients with atopic dermatitis 12 to 18 years of age (See PRECAUTIONS: Pediatric Use).

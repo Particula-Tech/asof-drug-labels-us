@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 VANOS (fluocinonide) Cream, 0.1% contains fluocinonide, a synthetic corticosteroid for topical dermatologic use.
 The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory and antipruritic agents.
@@ -10,4 +10,4 @@ It has the following chemical structure:
 Fluocinonide is an almost odorless white to creamy white crystalline powder.
 It is practically insoluble in water and slightly soluble in ethanol.
 
-Each gram of VANOS Cream contains 1 mg micronized fluocinonide in a cream base of propylene glycol USP, dimethyl isosorbide, glyceryl stearate (and) PEG-100 stearate, glyceryl monostearate NF, purified water USP, carbopol 980 NF, diisopropanolamine, and citric acid USP.
+Each gram of VANOS Cream contains 1 mg micronized fluocinonide in a cream base of propylene glycol USP, dimethyl isosorbide, glyceryl stearate (and) PEG-100 stearate, glyceryl monostearate NF, purified water USP, carbopol 980 NF, diisopropanolamine, and anhydrous citric acid USP.

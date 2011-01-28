@@ -1,23 +1,33 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In clinical trials, a total of 443 adult patients with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks.
-The most commonly observed adverse events in these clinical trials were as follows:
+## 6.1 Clinical Trials Experience
 
-Table 3: Most Commonly Observed Adverse Events in Adult Clinical Trials
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-| Adverse Event | VANOS Cream, once daily (n=216) | VANOS Cream, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
+In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks.
+The most commonly observed adverse reactions in these clinical trials were as follows:
+
+Table 1: Most Commonly Observed Adverse Reactions (≥1%) in Adult Clinical Trials
+
+| Adverse Reaction | VANOS Cream, once daily (n=216) | VANOS Cream, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
 | --- | --- | --- | --- |
-| Headache | 8/216 (3.7%) | 9/227 (4.0%) | 6/211 (2.8%) |
-| Application Site Burning | 5/216 (2.3%) | 4/227 (1.8%) | 14/211 (6.6%) |
-| Nasopharyngitis | 2/216 (0.9%) | 3/227 (1.3%) | 3/211 (1.4%) |
-| Nasal Congestion | 3/216 (1.4%) | 1/227 (0.4%) | 0 |
-| Unspecified Application Site Reaction | 1/216 (0.4%) | 1/227 (0.4%) | 3/211 (1.4%) |
+| Headache | 8 (3.7%) | 9 (4.0%) | 6 (2.8%) |
+| Application Site Burning | 5 (2.3%) | 4 (1.8%) | 14 (6.6%) |
+| Nasopharyngitis | 2 (0.9%) | 3 (1.3%) | 3 (1.4%) |
+| Nasal Congestion | 3 (1.4%) | 1 (0.4%) | 0 |
 
-No other adverse events were reported by more than 1 subject receiving active treatment.
-The incidence of all adverse events was similar between the active treatment groups and the vehicle control groups.
 Safety in patients 12 to 17 years of age was similar to that observed in adults.
 
-The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
-These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
+## 6.2 Postmarketing Experience
 
-Systemic absorption of topical corticosteroids has produced hypothalamic-pituitary-adrenal (HPA) axis suppression manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
+The following adverse reactions have been identified during post approval use of VANOS Cream:
+
+Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated.
+
+Immune System Disorders: hypersensitivity.
+
+Nervous System Disorders: headache and dizziness.
+
+Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness.
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
