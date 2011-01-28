@@ -125,8 +125,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 ## How should I store zonisamide?
 
-- Store zonisamide between 59oF to 86oF (15oC to 30oC)
-- dry and away from light.
+Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature.]
+Store in a dry place and protect from light.
 
 Keep zonisamide and all medicines out of the reach of children.
 
@@ -149,4 +150,28 @@ Active ingredient: zonisamide
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin and colorants.
 
+The printed capsule shell of the different strengths is made from the following ingredients:
+
+25 mg - D&C Red #28, FD&C Blue #1, gelatin and titanium dioxide
+
+50 mg - D&C Yellow #10, FD&C Blue #1, FD&C Red #40, gelatin and titanium dioxide
+
+100 mg - D&C Yellow #10, FD&C Blue #1, FD&C Yellow #6, gelatin and titanium dioxide
+
+The dyes used in the printing ink are FD&C Blue #1, FD&C Blue #2, FD&C Red #40, D&C Yellow #10 aluminium lake and iron oxide black.
+Additionally, the printing ink also contains n-butyl alcohol, ethanol, methanol, propylene glycol and shellac.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+
+Manufactured for:
+
+Glenmark Generics Inc., USA Mahwah, NJ 07430
+
+Questions?
+1 (888)721-7115 www.glenmarkgenerics.com
+
+March 2010

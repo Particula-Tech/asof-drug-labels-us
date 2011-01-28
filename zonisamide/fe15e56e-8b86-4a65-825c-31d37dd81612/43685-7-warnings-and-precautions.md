@@ -15,10 +15,10 @@ Although this rate is greater than background, it is probably an underestimate o
 There were no confirmed cases of SJS or TEN in the US, European, or Japanese development programs.
 
 In the US and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
-Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12.0 events per 1000 patient-years of exposure).
-During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2.0% of patients (27.8 events per 1000 patient years).
+Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
+During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient years).
 Rash usually occurred early in treatment, with 85% reported within 16 weeks in the US and European studies and 90% reported within two weeks in the Japanese studies.
-There was no apparent relationship of dose to the occurrence of rash
+There was no apparent relationship of dose to the occurrence of rash.
 
 ## Serious Hematologic Events:
 
@@ -54,7 +54,7 @@ The practitioner should be aware that the safety and effectiveness of zonisamide
 Antiepileptic drugs (AEDs), including zonisamide, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled, clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% Cl: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled, clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -71,9 +71,9 @@ Table 3: Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events per 1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -83,7 +83,7 @@ Epilepsy and many other illnesses for which AEDs are prescribed are themselves a
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thought, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection below).
+Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/ Neuropsychiatric Adverse Events subsection below).
 
 ## Seizures on Withdrawal:
 
@@ -105,7 +105,7 @@ Use of zonisamide was frequently associated with central nervous system-related 
 The most significant of these can be classified into three general categories: 1) psychiatric symptoms, including depression and psychosis, 2) psychomotor slowing, difficulty with concentration, and speech or language problems, in particular, word-finding difficulties, and 3) somnolence or fatigue.
 
 In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized for depression compared to 0.4% of placebo patients.
-Among all epilepsy patients treated with zonisamide, 1.4% were discontinued and 1.0% were hospitalized because of reported depression or suicide attempts.
+Among all epilepsy patients treated with zonisamide, 1.4% were discontinued and 1% were hospitalized because of reported depression or suicide attempts.
 In placebo-controlled trials, 2.2% of patients discontinued zonisamide or were hospitalized due to psychosis or psychosis-related symptoms compared to none of the placebo patients.
 Among all epilepsy patients treated with zonisamide, 0.9% were discontinued and 1.4% were hospitalized because of reported psychosis or related symptoms.
 
@@ -123,12 +123,12 @@ Patients should be cautioned about this possibility and special care should be t
 
 ## General
 
-Somnolence is commonly reported, especially at higher doses of zonisamide (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection).
+Somnolence is commonly reported, especially at higher doses of zonisamide (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Eventssubsection).
 Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering zonisamide to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
 
 ### Kidney Stones:
 
-Among 991 patients treated during the development of zonisamide, 40 patients (4.0%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
+Among 991 patients treated during the development of zonisamide, 40 patients (4%) with epilepsy receiving zonisamide developed clinically possible or confirmed kidney stones (e.g. clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
 Of these, 12 were symptomatic, and 28 were described as possible kidney stones based on sonographic detection.
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
@@ -160,14 +160,14 @@ Some of the deaths could represent seizure-related deaths in which the seizure w
 
 Estimates of the incidence of treatment emergent status epilepticus in zonisamide-treated patients are difficult because a standard definition was not employed.
 Nonetheless, in controlled trials, 1.1% of patients treated with zonisamide had an event labeled as status epilepticus compared to none of the patients treated with placebo.
-Among patients treated with zonisamide across all epilepsy studies (controlled and uncontrolled), 1.0% of patients had an event reported as status epilepticus.
+Among patients treated with zonisamide across all epilepsy studies (controlled and uncontrolled), 1% of patients had an event reported as status epilepticus.
 
-## Information for patients
+## Information for Patients
 
 Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking zonisamide.
 Patients should be instructed to take zonisamide only as prescribed.
 
-Patients should be advised as follows:
+Patients should be advised as follows: (See Medication Guide)
 
 1. Zonisamide may produce drowsiness, especially at higher doses.
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on zonisamide sufficient to determine whether it affects their performance.
@@ -185,17 +185,17 @@ Patients should be advised as follows:
    To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
 8. Patients should contact their physician immediately if they develop severe muscle pain and/or weakness.
 
-## Laboratory tests
+## Laboratory Tests
 
 In several clinical studies, zonisamide was associated with a mean increase in the concentration of serum creatinine and blood urea nitrogen (BUN) of approximately 8% over the baseline measurement.
-Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Function subsection).
+Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Functionsubsection).
 
 Zonisamide was associated with an increase in serum alkaline phosphatase.
 In the randomized, controlled trials, a mean increase of approximately 7% over baseline was associated with zonisamide compared to a 3% mean increase in placebo-treated patients.
 These changes were not statistically significant.
 The clinical relevance of these changes is unknown.
 
-## Drug interactions
+## Drug Interactions
 
 ### Effects of zonisamide on the pharmacokinetics of other antiepilepsy drugs (AEDs):
 
@@ -213,7 +213,7 @@ Concurrent medication with drugs that either induce or inhibit CYP3A4 would be e
 
 Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
@@ -236,14 +236,14 @@ A variety of external, visceral, and skeletal malformations was produced in anim
 Cardiovascular defects were prominent in both rats and dogs.
 
 Following administration of zonisamide (10, 30, or 60 mg/kg/day) to pregnant dogs during organogenesis, increased incidences of fetal cardiovascular malformations (ventricular septal defects, cardiomegaly, various valvular and arterial anomalies) were found at doses of 30 mg/kg/day or greater.
-The low effect dose for malformations produced peak maternal plasma zonisamide levels (25 µg/mL) about 0.5 times the highest plasma levels measured in patients receiving the maximum recommended human dose (MRHD) of 400 mg/day.
-In dogs, cardiovascular malformations were found in approximately 50% of all fetuses exposed to the high dose, which was associated with maternal plasma levels (44 µg/mL) approximately equal to the highest levels measured in humans receiving the MRHD.
+The low effect dose for malformations produced peak maternal plasma zonisamide levels (25 mcg/mL) about 0.5 times the highest plasma levels measured in patients receiving the maximum recommended human dose (MRHD) of 400 mg/day.
+In dogs, cardiovascular malformations were found in approximately 50% of all fetuses exposed to the high dose, which was associated with maternal plasma levels (44 mcg/mL) approximately equal to the highest levels measured in humans receiving the MRHD.
 Incidences of skeletal malformations were also increased at the high dose, and fetal growth retardation and increased frequencies of skeletal variations were seen at all doses in this study.
-The low dose produced maternal plasma levels (12 µg/mL) about 0.25 times the highest human levels.
+The low dose produced maternal plasma levels (12 mcg/mL) about 0.25 times the highest human levels.
 
 In cynomolgus monkeys, administration of zonisamide (10 or 20 mg/kg/day) to pregnant animals during organogenesis resulted in embryo-fetal deaths at both doses.
 The possibility that these deaths were due to malformations cannot be ruled out.
-The lowest embryolethal dose in monkeys was associated with peak maternal plasma zonisamide levels (5 µg/mL) approximately 0.1 times the highest levels measured in patients at the MRHD.
+The lowest embryolethal dose in monkeys was associated with peak maternal plasma zonisamide levels (5 mcg/mL) approximately 0.1 times the highest levels measured in patients at the MRHD.
 
 In a mouse embryo-fetal development study, treatment of pregnant animals with zonisamide (125, 250, or 500 mg/kg/day) during the period of organogenesis resulted in increased incidences of fetal malformations (skeletal and/or craniofacial defects) at all doses tested.
 The low dose in this study is approximately 1.5 times the MRHD on a mg/m2 basis.
@@ -260,24 +260,24 @@ To provide information regarding the effects of in utero exposure to zonisamide,
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-## Labor and delivery
+## Labor and Delivery
 
 The effect of zonisamide on labor and delivery in humans is not known.
 
-## Nursing mothers
+## Use in Nursing Mothers
 
 It is not known whether zonisamide is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from zonisamide, a decision should be made whether to discontinue nursing or to discontinue drug, taking into account the importance of the drug to the mother.
 Zonisamide should be used in nursing mothers only if the benefits outweigh the risks.
 
-## Pediatric use
+## Pediatric Use
 
 The safety and effectiveness of zonisamide in children under age 16 have not been established.
 Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
 
 ## Geriatric use
 
-Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populations subsection).
+Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populationssubsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

@@ -12,23 +12,23 @@ The relevance of these models to human epilepsy is unknown.
 Zonisamide may produce these effects through action at sodium and calcium channels.
 In vitro pharmacological studies suggest that zonisamide blocks sodium channels and reduces voltage-dependent, transient inward currents (T-type Ca2+ currents), consequently stabilizing neuronal membranes and suppressing neuronal hypersynchronization.
 In vitro binding studies have demonstrated that zonisamide binds to the GABA/benzodiazepine receptor ionophore complex in an allosteric fashion which does not produce changes in chloride flux.
-Other in vitro studies have demonstrated that zonisamide (10–30 µg/mL) suppresses synaptically-driven electrical activity without affecting postsynaptic GABA or glutamate responses (cultured mouse spinal cord neurons) or neuronal or glial uptake of [3H]-GABA (rat hippocampal slices).
+Other in vitro studies have demonstrated that zonisamide (10 to 30 mcg/mL) suppresses synaptically-driven electrical activity without affecting postsynaptic GABA or glutamate responses (cultured mouse spinal cord neurons) or neuronal or glial uptake of [3H]-GABA (rat hippocampal slices).
 Thus, zonisamide does not appear to potentiate the synaptic activity of GABA.
 In vivo microdialysis studies demonstrated that zonisamide facilitates both dopaminergic and serotonergic neurotransmission.
 Zonisamide also has weak carbonic anhydrase inhibiting activity, but this pharmacologic effect is not thought to be a major contributing factor in the antiseizure activity of zonisamide.
 
 ## Pharmacokinetics:
 
-Following a 200–400 mg oral zonisamide dose, peak plasma concentrations (range: 2–5 µg/mL) in normal volunteers occur within 2–6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4–6 hours, but food has no effect on the bioavailability of zonisamide.
+Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
+In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
 Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
-The pharmacokinetics of zonisamide are dose proportional in the range of 200–400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
+The pharmacokinetics of zonisamide are dose proportional in the range of 200 to 400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
 Once a stable dose is reached, steady state is achieved within 14 days.
 The elimination half-life of zonisamide in plasma is about 63 hours.
 The elimination half-life of zonisamide in RBC is approximately 105 hours.
 
 The apparent volume of distribution (V/F) of zonisamide is about 1.45 L/kg following a 400 mg oral dose.
-Zonisamide, at concentrations of 1.0–7.0 µg/mL, is approximately 40% bound to human plasma proteins.
+Zonisamide, at concentrations of 1.0 to 7.0 mcg/mL, is approximately 40% bound to human plasma proteins.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
 ## Metabolism and Excretion:
@@ -54,7 +54,7 @@ Single 300 mg zonisamide doses were administered to three groups of volunteers.
 Group 1 was a healthy group with a creatinine clearance ranging from 70–152 mL/min.
 Group 2 and Group 3 had creatinine clearances ranging from 14.5–59 mL/min and 10–20 mL/min, respectively.
 Zonisamide renal clearance decreased with decreasing renal function (3.42, 2.50, 2.23 mL/min, respectively).
-Marked renal impairment (creatinine clearance < 20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATION section).
+Marked renal impairment (creatinine clearance < 20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATIONsection).
 
 ### Hepatic Disease:
 
@@ -92,10 +92,10 @@ The total daily dose was given as twice a day dosing.
 Statistically significant treatment differences favoring zonisamide were seen for doses of 100, 200, and 400 mg/day.
 
 In the second (n = 152) and third (n = 138) studies, patients had a 2–3 month baseline, then were randomly assigned to placebo or zonisamide for three months.
-Zonisamide was introduced by administering 100 mg/day for the first week, 200 mg/day the second week, then 400 mg/day for two weeks, after which the dose (zonisamide or placebo) could be adjusted as necessary to a maximum dose of 20 mg/kg/day or a maximum plasma level of 40 µg/mL.
+Zonisamide was introduced by administering 100 mg/day for the first week, 200 mg/day the second week, then 400 mg/day for two weeks, after which the dose (zonisamide or placebo) could be adjusted as necessary to a maximum dose of 20 mg/kg/day or a maximum plasma level of 40 mcg/mL.
 In the second study, the total daily dose was given as twice a day dosing; in the third study, it was given as a single daily dose.
 The average final maintenance doses received in the studies were 530 and 430 mg/day in the second and third studies, respectively.
-Both studies demonstrated statistically significant differences favoring zonisamide for doses of 400–600 mg/day, and there was no apparent difference between once daily and twice daily dosing (in different studies).
+Both studies demonstrated statistically significant differences favoring zonisamide for doses of 400 to 600 mg/day, and there was no apparent difference between once daily and twice daily dosing (in different studies).
 Analysis of the data (first 4 weeks) during titration demonstrated statistically significant differences favoring zonisamide at doses between 100 and 400 mg/day.
 The primary comparison in both trials was for any dose over Weeks 5 – 12.
 
@@ -106,11 +106,11 @@ Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy 
 | --- | --- | --- | --- | --- |
 | Zonisamide | Placebo | Zonisamide | Placebo |  |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8-12: | 40.5%p < 0.05 compared to placebo | 9.0% | 41.8% | 22.2% |
+| Weeks 8-12: | 40.5%p < 0.05 compared to placebo | 9% | 41.8% | 22.2% |
 | Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5-12: | 29.6% | -3.2% | 29.0% | 15.0% |
+| Weeks 5-12: | 29.6% | -3.2% | 29% | 15% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5-12: | 27.2%* | -1.1% | 28.0% | 12.0% |
+| Weeks 5-12: | 27.2%* | -1.1% | 28% | 12% |
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -121,9 +121,9 @@ Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in
 | 100-400 mg/day: | n=112 | n=83 | n=112 | n=83 |
 | Weeks 1-12: | 32.3%p < 0.05 compared to placebo | 5.6% | 32.1% | 9.6% |
 | 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1-5: | 24.7% | 8.3% | 25.0% | 11.3% |
+| Weeks 1-5: | 24.7% | 8.3% | 25% | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2-6: | 20.4% | 4.0% | 25.5% | 9.8% |
+| Weeks 2-6: | 20.4% | 4% | 25.5% | 9.8% |
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).
