@@ -28,7 +28,7 @@ The difference in rates between the two products is due to the increased aqueous
 Naproxen has a volume of distribution of 0.16 L/kg.
 At therapeutic levels naproxen is greater than 99% albumin-bound.
 At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
-The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS, Nursing mothers).
+The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS, Nursing Mothers).
 
 ### Metabolism
 

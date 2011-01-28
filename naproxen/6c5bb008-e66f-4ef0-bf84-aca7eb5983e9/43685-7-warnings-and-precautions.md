@@ -12,7 +12,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effect - Risk of Ulceration, Bleeding, and Perforation).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
 
 Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
@@ -139,14 +139,14 @@ Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
 Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, naproxen and naproxen sodium should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
 
-## Information for patients
+## Information for Patients
 
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
 1. Naproxen and naproxen sodium, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
    Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular effects).
+   Patients should be apprised of the importance of this follow-up (see WARNINGS: Cardiovascular Effects).
 2. Naproxen and naproxen sodium, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
    Patients should be apprised of the importance of this follow-up (see WARNINGS: Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation)
@@ -161,15 +161,13 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 7. In late pregnancy, as with other NSAIDs, naproxen and naproxen sodium should be avoided because it may cause premature closure of the ductus arteriosus.
 8. Caution should be exercised by patients whose activities require alertness if they experience drowsiness, dizziness, vertigo or depression during therapy with naproxen.
 
-## Laboratory tests
+## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
 If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (eg, eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, naproxen and naproxen sodium should be discontinued.
 
-## Interactions
-
-### Drug interactions
+### Drug Interactions
 
 #### ACE-inhibitors
 
@@ -230,7 +228,7 @@ Naproxen and other nonsteroidal anti-inflammatory drugs can reduce the antihyper
 
 Probenecid given concurrently increases naproxen anion plasma levels and extends its plasma half-life significantly.
 
-### Drug/laboratory test interactions
+### Drug/Laboratory Test Interactions
 
 Naproxen may decrease platelet aggregation and prolong bleeding time.
 This effect should be kept in mind when bleeding times are determined.
@@ -240,7 +238,7 @@ Although 17-hydroxycorticosteroid measurements (Porter-Silber test) do not appea
 
 Naproxen may interfere with some urinary assays of 5-hydroxy indoleacetic acid (5HIAA).
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis
 
 A 2-year study was performed in rats to evaluate the carcinogenic potential of naproxen at rat doses of 8, 16, and 24 mg/kg/day (50, 100, and 150 mg/m2).
 The maximum dose used was 0.28 times the systemic exposure to humans at the recommended dose.
@@ -248,37 +246,37 @@ No evidence of tumorigenicity was found.
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category C: Reproduction studies have been performed in rats at 20 mg/kg/day (125 mg/m2/day, 0.23 times the human systemic exposure), rabbits at 20 mg/kg/day (220 mg/m2/day, 0.27 times the human systemic exposure), and mice at 170 mg/kg/day (510 mg/m2/day, 0.28 times the human systemic exposure) with no evidence of impaired fertility or harm to the fetus due to the drug.
 However, animal reproduction studies are not always predictive of human response.
 There are no adequate and well-controlled studies in pregnant women.
 Naproxen and naproxen sodium should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic effects
+### Nonteratogenic Effects
 
 There is some evidence to suggest that when inhibitors of prostaglandin synthesis are used to delay preterm labor there is an increased risk of neonatal complications such as necrotizing enterocolitis, patent ductus arteriosus and intracranial hemorrhage.
 Naproxen treatment given in late pregnancy to delay parturition has been associated with persistent pulmonary hypertension, renal dysfunction and abnormal prostaglandin E levels in preterm infants.
 Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
 
-## Labor and delivery
+## Labor and Delivery
 
 In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
 Naproxen-containing products are not recommended in labor and delivery because, through its prostaglandin synthesis inhibitory effect, naproxen may adversely affect fetal circulation and inhibit uterine contractions, thus increasing the risk of uterine hemorrhage.
 The effects of naproxen and naproxen sodium on labor and delivery in pregnant women are unknown.
 
-## Nursing mothers
+## Nursing Mothers
 
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma.
 Because of the possible adverse effects of prostaglandin-inhibiting drugs on neonates, use in nursing mothers should be avoided.
 
-## Pediatric use
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
 Pediatric dosing recommendations for juvenile arthritis are based on well-controlled studies (see DOSAGE AND ADMINISTRATION).
 There are no adequate effectiveness or dose-response data for other pediatric conditions, but the experience in juvenile arthritis and other use experience have established that single doses of 2.5 to 5 mg/kg (as naproxen suspension, see DOSAGE AND ADMINISTRATION), with total daily dose not exceeding 15 mg/kg/day, are well tolerated in pediatric patients over 2 years of age.
 
-## Geriatric use
+## Geriatric Use
 
 Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly.
 Caution is advised when high doses are required and some adjustment of dosage may be required in elderly patients.

@@ -109,7 +109,7 @@ Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 - Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
-  Aspirin can also ccause ulcers in the stomach and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
 - Some of these NSAID medicines are sold in lower doses without a prescription (over- the-counter).
   Talk to your healthcare provider before using over-the- counter NSAIDs for more than 10 days.
 
@@ -123,7 +123,7 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine®, Lodine® XL |
 | Fenoprofen | Nalfon®, Nalfon® 200 |
 | Flurbirofen | Ansaid® |
-| Ibuprofen | Motrin®, Tab-Profen®, Vicoprofen Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.* (combined with hydrocodone), |
+| Ibuprofen | Motrin®, Tab-Profen®, VVicoprofen® Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAID, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke.*(combined with hydrocodone), |
 |  | CombunoxTM (combined with oxycodone) |
 | Indomethacin | Indocin®, Indocin® SR, Indo-Lemmon™, Indomethagan™ |
 | Ketoprofen | Oruvail® |
@@ -145,7 +145,4 @@ Manufactured for:
 
 Glenmark Generics Inc., USA Mahwah, NJ 07430
 
-Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
-
-November 2008
+January 2009
