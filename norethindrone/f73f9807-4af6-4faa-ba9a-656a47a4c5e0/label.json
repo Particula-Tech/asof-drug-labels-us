@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075951"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Barr Laboratories Inc.",
+  "package_ndcs": [
+    "0555-0211-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate",
+      "name": "Norethindrone Acetate"
+    }
+  ],
+  "setid": "f73f9807-4af6-4faa-ba9a-656a47a4c5e0",
+  "source": "dailymed"
+}
