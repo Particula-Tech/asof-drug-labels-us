@@ -23,10 +23,10 @@ There were no adverse reactions leading to discontinuation that occurred at an i
 Bipolar Disorder:
 
 Mania: In a single clinical trial in patients with bipolar mania, 4.6% (7/151) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 8.1% (13/160) on placebo.
-There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in Bipolar Mania trials.
+There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in the Bipolar Mania trial.
 
-Depression: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 4% (5/140) on placebo.
-Somnolence∗ was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in Bipolar Depression trials.
+Depression: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 4% (5/140) on placebo.
+Somnolence∗ was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in the Bipolar Depression trial.
 
 ∗ The adverse reaction term “somnolence” includes both “somnolence” and “sedation.”
 
@@ -39,11 +39,9 @@ In short-term placebo-controlled studies for schizophrenia the most commonly obs
 
 Adverse Reactions Occurring at an Incidence of 1% or More Among SEROQUEL XR Treated Patients in Short-Term, Placebo-Controlled Trials
 
-Table 10 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 1% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
+Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 1% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 10: Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia1
-
-Table 10:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
+Table 11:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
 
 | Cardiac Disorders |  |  |
 | --- | --- | --- |
@@ -83,9 +81,9 @@ Table 10:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Contro
 
 In a 3-week, placebo-controlled study in bipolar mania the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater) and observed at a rate on SEROQUEL XR at least twice that of placebo were somnolence (50%), dry mouth (34%), dizziness (10%), constipation (10%), weight gain (7%), dysarthria (5%), and nasal congestion (5%).
 
-Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of bipolar mania (up to 3 weeks) in 1% or more of patients treated with SEROQUEL XR (doses ranging from 400 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
+Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of bipolar mania (up to 3 weeks) in 1% or more of patients treated with SEROQUEL XR (doses ranging from 400 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 11: Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar ManiaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, peripheral edema, diarrhea, nausea, vomiting, decreased appetite, muscle spasms, musculoskeletal stiffness, myalgia, tremor, akathisia, insomnia, agitation, nightmare, restlessness, erectile dysfunction, pharyngolaryngeal pain, cough, and hypotension.
+Table 12: Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar ManiaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, peripheral edema, diarrhea, nausea, vomiting, decreased appetite, muscle spasms, musculoskeletal stiffness, myalgia, tremor, akathisia, insomnia, agitation, nightmare, restlessness, erectile dysfunction, pharyngolaryngeal pain, cough, and hypotension.
 
 | Cardiac Disorders |  |  |
 | --- | --- | --- |
@@ -131,9 +129,9 @@ Table 11: Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Cl
 
 In the 8-week placebo-controlled bipolar depression study, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater) and observed at a rate on SEROQUEL XR at least twice that of placebo were somnolence (52%), dry mouth (37%), increased appetite (12%), weight gain (7%), dyspepsia (7%), and fatigue (6%).
 
-Table 12: enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of bipolar depression (up to 8 weeks) in 1% or more of patients treated with SEROQUEL XR 300 mg/day where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
+Table 13: enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of bipolar depression (up to 8 weeks) in 1% or more of patients treated with SEROQUEL XR 300 mg/day where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 12: Treatment-Emergent Adverse Reactions in an 8-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar DepressionReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache insomnia, nausea, diarrhea, vomiting, nasopharyngitis, upper respiratory tract infection, influenza, pain in extremity, cough and nasal congestion.
+Table 13: Treatment-Emergent Adverse Reactions in an 8-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar DepressionReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache insomnia, nausea, diarrhea, vomiting, nasopharyngitis, upper respiratory tract infection, influenza, pain in extremity, cough and nasal congestion.
 
 | Ear And Labyrinth Disorders |  |  |
 | --- | --- | --- |
@@ -195,11 +193,11 @@ Table 12: Treatment-Emergent Adverse Reactions in an 8-Week Placebo-Controlled C
 | Vascular Disorders |  |  |
 | Orthostatic Hypotension | 1% | 2% |
 
-In the 6-week placebo-controlled fixed dose adjunctive therapy clinical trials, for MDD, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and observed at a rate on SEROQUEL XR and at least twice that of placebo) were somnolence (150 mg: 37%; 300 mg: 43%), dry mouth (150 mg: 27%; 300 mg: 40%), fatigue (150 mg: 14%; 300 mg: 11%) and constipation (150 mg only: 11%).
+In the 6-week placebo-controlled fixed dose adjunctive therapy clinical trials, for MDD, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and observed at a rate on SEROQUEL XR and at least twice that of placebo) were somnolence (150 mg: 37%; 300 mg: 43%), dry mouth (150 mg: 27%; 300 mg: 40%), fatigue (150 mg: 14%; 300 mg: 11%), constipation (300 mg only: 11%) and weight increased (300 mg only: 5%).
 
-Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during short-term adjunctive therapy of MDD (up to 6 weeks) in 1% or more of patients treated with SEROQUEL XR (at doses of either 150 mg or 300 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
+Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during short-term adjunctive therapy of MDD (up to 6 weeks) in 1% or more of patients treated with SEROQUEL XR (at doses of either 150 mg or 300 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 13: Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Therapy Clinical Trials for the Treatment of MDD by Fixed DoseReactions for which the SEROQUEL XR incidence was 1% or more but equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, nausea, disturbance in attention, dysarthria, paraesthesia, tremor, diarrhea, upper abdominal pain, nightmare, nasopharyngitis, sinusitis, decreased appetite, myalgia, arthralgia, pain in extremity, hyperhidrosis, night sweats and nasal congestion.
+Table 14: Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Therapy Clinical Trials for the Treatment of MDD by Fixed DoseReactions for which the SEROQUEL XR incidence was 1% or more but equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, nausea, disturbance in attention, dysarthria, paraesthesia, tremor, diarrhea, upper abdominal pain, nightmare, nasopharyngitis, sinusitis, decreased appetite, myalgia, arthralgia, pain in extremity, hyperhidrosis, night sweats and nasal congestion.
 
 | Ear And Labyrinth Disorders |  |  |  |
 | --- | --- | --- | --- |
@@ -279,7 +277,7 @@ At the end of treatment, the mean change from baseline in SAS total score and BA
 The use of concomitant anticholinergic medications was infrequent and similar across the treatment groups.
 The incidence of extrapyramidal symptoms was consistent with that seen with the profile of SEROQUEL in schizophrenia patients.
 
-Table 14: Adverse Experiences Associated with Extrapyramidal Symptoms in Placebo-controlled Clinical Trials for Schizophrenia
+Table 15: Adverse Experiences Associated with Extrapyramidal Symptoms in Placebo-controlled Clinical Trials for Schizophrenia
 
 | Preferred term | Placebo(N=319) |  | SEROQUEL XR 300 mg/day (N=91) |  | SEROQUEL XR 400 mg/day (N=227) |  | SEROQUEL XR 600 mg/day (N=310) |  | SEROQUEL XR 800 mg/day (N=323) |  | All Doses (N=951) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -293,7 +291,7 @@ Table 14: Adverse Experiences Associated with Extrapyramidal Symptoms in Placebo
 In a placebo-controlled clinical trial for the treatment of bipolar mania, utilizing the dose range of 400-800 mg/day of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 6.6% for SEROQUEL XR and 3.8% in the placebo group.
 In this study, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dystonia, restlessness, and cogwheel rigidity) did not exceed 2.0% for any adverse reaction.
 
-Table 15: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Mania
+Table 16: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Mania
 
 | Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=160) |  | SEROQUEL XR (N=151) |  |
 | --- | --- | --- | --- | --- |
@@ -306,7 +304,7 @@ Table 15: Adverse Experiences Associated with Extrapyramidal Symptoms in a Place
 In a placebo-controlled clinical trial for the treatment of bipolar depression utilizing 300 mg of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 4.4% for SEROQUEL XR and 0.7% in the placebo group.
 In this study, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dystonia, hypertonia) did not exceed 1.5% for any individual adverse reaction.
 
-Table 16: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Depression
+Table 17: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Depression
 
 | Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=140) |  | SEROQUEL XR (N=137) |  |
 | --- | --- | --- | --- | --- |
@@ -318,9 +316,9 @@ Table 16: Adverse Experiences Associated with Extrapyramidal Symptoms in a Place
 
 In two placebo-controlled short-term adjunctive therapy clinical trials for the treatment of MDD utilizing between 150 mg and 300 mg of SEROQUEL XR, the incidence of any adverse reactions potentially related to EPS was 5.1% for SEROQUEL XR and 4.2% for the placebo group.
 
-Table 17 shows the percentage of patients experiencing adverse reactions potentially associated with EPS in adjunct clinical trials for MDD by dose:
+Table 18 shows the percentage of patients experiencing adverse reactions potentially associated with EPS in adjunct clinical trials for MDD by dose:
 
-Table 17: Adverse Reactions Potentially Associated with EPS in MDD Trials by Dose, Adjunctive Therapy Clinical Trials (6 weeks duration)
+Table 18: Adverse Reactions Potentially Associated with EPS in MDD Trials by Dose, Adjunctive Therapy Clinical Trials (6 weeks duration)
 
 | Preferred term | Placebo (N=309) |  | SEROQUEL XR 150 mg/day (N=315) |  | SEROQUEL XR 300 mg/day (N=312) |  | All Doses (N=627) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -335,9 +333,9 @@ Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been 
 In a short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration), the aggregated incidence of extrapyramidal symptoms was 12.9% for SEROQUEL and 5.3% for placebo, though the incidence of the individual adverse events (eg, akathisia, tremor, extrapyramidal disorder, hypokinesia, restlessness, psychomotor hyperactivity, muscle rigidity, dyskinesia) did not exceed 4.1% in any treatment group.
 In a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration), the aggregated incidence of extrapyramidal symptoms was 3.6% for SEROQUEL and 1.1% for placebo.
 
-Table 18 below presents a listing of patients with adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
+Table 19 below presents a listing of patients with adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-Table 18 Adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
+Table 19 Adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
 | Preferred term | Placebo (N=75) |  | SEROQUEL 400 mg/day (N=73) |  | SEROQUEL 800 mg/day (N=74) |  | All SEROQUEL(N=147) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -348,27 +346,25 @@ Table 18 Adverse experiences potentially associated with EPS in the short-term p
 | Dyskinetic event Patients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
 | Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
 
-Table 19 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
+Table 20 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
-Table 19: Adverse experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
-
-Table 19
+Table 20: Adverse experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
 | Preferred termThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo (N=90) |  | SEROQUEL 400 mg/day (N=95) |  | SEROQUEL 600 mg/day (N=98) |  | All SEROQUEL(N=193) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| n | % | n | % | n | % | n | % |  |
+| en | % | n | % | n | % | n | % |  |
 | Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
 | Akathisia Patients with the following terms were counted in this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
 | Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
 
 Children and Adolescents: Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years.
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of increased appetite was 7.6% for SEROQUEL compared to 2.4% for placebo.
-In a 26-week open-label study that enrolled patients from the above two pediatric trials, the incidence of increased appetite was 10% for SEROQUEL.
+In a 26-week open-label study that enrolled patients from the above two pediatric trials, the incidence of increased appetite was 7% for SEROQUEL.
 
 ## 6.2 Vital Signs and Laboratory Values
 
-Hyperglycemia, hyperlipidemia, weight gain and orthostatic hypotension have been reported with quetiapine.
-Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8 and 5.9)].
+Hyperglycemia, hyperlipidemia, weight gain, orthostatic hypotension and changes in thyroid hormone levels have been reported with quetiapine.
+Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.13)].
 
 Laboratory Changes:
 
@@ -409,4 +405,4 @@ Adverse reactions reported since market introduction which were temporally relat
 
 Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 
-In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol) have been reported.
+In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), dyspnea, palpitations and somnambulism (and other related events) have been reported.

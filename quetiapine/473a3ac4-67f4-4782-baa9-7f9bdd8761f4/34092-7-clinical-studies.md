@@ -87,7 +87,7 @@ SEROQUEL XR was administered as 50 mg/day on Days 1 and 2, and increased to 150 
 On Day 5, the dose was increased to 300 mg/day in the 300 mg/day fixed-dose group.
 Inadequate response was defined as having continued depressive symptoms for the current episode (HAM-D total score of ≥ 20) despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
 The mean HAM-D total score at entry was 24, and 17% of patients scored 28 or greater.
-Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitryptiline) and other (bupropion).
+Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitriptyline) and other (bupropion).
 
 The primary endpoint in these trials was change from baseline to week 6 in the Montgomery-Asberg Depression Rating Scale (MADRS), a 10-item clinician-rated scale used to assess the degree of depressive symptomatology (apparent sadness, reported sadness, inner tension, reduced sleep, reduced appetite, concentration difficulties, lassitude, inability to feel, pessimistic thoughts, and suicidal thoughts) with total scores ranging from 0 (no depressive features) to 60 (maximum score).
 
