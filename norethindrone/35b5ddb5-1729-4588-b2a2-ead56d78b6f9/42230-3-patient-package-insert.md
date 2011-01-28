@@ -29,7 +29,7 @@ The following table will help you compare the efficacy of different methods.
 - If you have breast cancer.
 - If you have bleeding between your periods which has not been diagnosed.
 - If you are taking certain drugs for epilepsy (seizures) or for TB.
-  (See USING POPS WITH OTHER MEDICINESbelow).
+  (See USING POPS WITH OTHER MEDICINES below).
 - If you are hypersensitive or allergic to any component of this product.
 - If you have liver tumors, either benign or cancerous.
 - If you have acute liver disease.
@@ -51,7 +51,7 @@ If this happens, you should contact your doctor or clinic immediately.
    Some studies in women who use combined oral contraceptives that contain both estrogen and a progestin have reported an increase in the risk of developing breast cancer, particularly at a younger age and apparently related to duration of use.
    There is insufficient data to determine whether the use of POPs similarly increases this risk.
    Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
-   However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix
+   However, this finding may be related to factors other than the use of oral contraceptives and there is insufficient data to determine whether the use of POPs increases the risk of developing cancer of the cervix.
 4. Liver tumors.
    In rare cases, combined oral contraceptives can cause benign but dangerous liver tumors.
    These benign liver tumors can rupture and cause fatal internal bleeding.
@@ -198,4 +198,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-February 2010
+March 2010

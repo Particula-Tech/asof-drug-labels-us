@@ -1,18 +1,18 @@
 # INDICATIONS AND USAGE
 
-## Indications
+## 1. Indications
 
 Progestin-only oral contraceptives are indicated for the prevention of pregnancy.
 
-## Efficacy
+## 2. Efficacy
 
 If used perfectly, the first-year failure rate for progestin-only oral contraceptives is 0.5%.
 However, the typical failure rate is estimated to be closer to 5%, due to late or omitted pills.
-The following table lists the pregnancy rates for users of all major methods of contraception
+The following table lists the pregnancy rates for users of all major methods of contraception.
 
 Table 2.
 Percentage of Women Experiencing an Unintended Pregnancy During the First Year of Typical Use and the First Year of Perfect Use of Contraception and the Percentage Continuing Use at the End of the First Year.
-United States
+United States.
 
 |  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One YearAmong couples attempting to avoid pregnancy, the percentage who continue to use a method for one year |
 | --- | --- | --- | --- |

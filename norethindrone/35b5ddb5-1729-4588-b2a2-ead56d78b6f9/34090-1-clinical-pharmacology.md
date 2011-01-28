@@ -1,10 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
-## Mode of Action
+## 1. Mode of Action
 
 HEATHER progestin-only oral contraceptives prevent conception by suppressing ovulation in approximately half of users, thickening the cervical mucus to inhibit sperm penetration, lowering the mid-cycle LH and FSH peaks, slowing the movement of the ovum through the fallopian tubes, and altering the endometrium.
 
-## Pharmacokinetics
+## 2. Pharmacokinetics
 
 ### Absorption:
 
