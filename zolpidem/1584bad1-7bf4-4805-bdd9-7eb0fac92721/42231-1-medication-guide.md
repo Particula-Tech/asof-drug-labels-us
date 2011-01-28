@@ -1,3 +1,5 @@
+Zolpidem Tartrate Tablets, USP C-IV
+
 Read the Medication Guide that comes with zolpidem tartrate tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
@@ -132,7 +134,7 @@ For more information about zolpidem tartrate tablets, call 1-269-544-2299.
 
 What are the ingredients in zolpidem tartrate tablets?
 
-Active Ingredient: Zolpidem tartrate
+Active Ingredient: Zolpidem tartrate, USP
 
 Inactive Ingredients: hypromellose, lactose monohydrate, microcrystalline cellulose, magnesium stearate, polyethylene glycol, sodium starch glycolate, titanium dioxide and ferric oxide red; the 10 mg tablet also contains ferric oxide yellow.
 
@@ -151,4 +153,4 @@ TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40,
 
 Kalamazoo, Michigan 49009.
 
-8023534 Revised May 2010
+8026930 Revised January 2011

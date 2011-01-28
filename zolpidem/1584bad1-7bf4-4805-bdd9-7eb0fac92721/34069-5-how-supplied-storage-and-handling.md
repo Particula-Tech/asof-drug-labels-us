@@ -1,6 +1,6 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-Zolpidem tartrate 5 mg tablets are red colored, capsule shaped tablets with the Torrent logo debossed on one side and ‘5 MG’ debossed on the other side and supplied as:
+Zolpidem tartrate 5 mg tablets, USP are red colored, capsule shaped tablets with the Torrent logo debossed on one side and ‘5 MG’ debossed on the other side and supplied as:
 
 NDC Number Size
 
@@ -18,7 +18,7 @@ NDC Number Size
 
 13668-007-74 carton of 100 unit dose
 
-Zolpidem tartrate 10 mg tablets are peach-yellow colored, capsule shaped tablets with the Torrent logo debossed on one side and ‘10 MG’ debossed on the other side and supplied as:
+Zolpidem tartrate 10 mg tablets, USP are peach-yellow colored, capsule shaped tablets with the Torrent logo debossed on one side and ‘10 MG’ debossed on the other side and supplied as:
 
 NDC Number Size
 
