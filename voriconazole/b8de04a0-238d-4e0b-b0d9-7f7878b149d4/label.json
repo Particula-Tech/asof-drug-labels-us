@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021266"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0925-1",
+    "59762-0930-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "voriconazole",
+      "name": "Voriconazole"
+    }
+  ],
+  "setid": "b8de04a0-238d-4e0b-b0d9-7f7878b149d4",
+  "source": "dailymed"
+}
