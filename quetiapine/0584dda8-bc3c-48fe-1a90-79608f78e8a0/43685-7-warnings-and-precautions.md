@@ -88,6 +88,9 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
+In some patients, a worsening of more than one of the metabolic parameters of weight, blood glucose and lipids was observed in clinical studies.
+Changes in these parameters should be managed as clinically appropriate.
+
 Adults:
 
 Table 2: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies
@@ -111,8 +114,13 @@ No patient in either study with a baseline normal fasting glucose level (<100 mg
 
 ## 5.5 Hyperlipidemia
 
-Adults: Undesirable alterations in lipids have been observed with quetiapine use.
+Undesirable alterations in lipids have been observed with quetiapine use.
 Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using quetiapine is recommended.
+
+In some patients, a worsening of more than one of the metabolic parameters of weight, blood glucose and lipids was observed in clinical studies.
+Changes in these parameters should be managed as clinically appropriate.
+
+Adults:
 
 Table 3 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with SEROQUEL.
 
@@ -164,6 +172,9 @@ Table 4: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 
 Increases in weight have been observed in clinical trials.
 Patients receiving quetiapine should receive regular monitoring of weight [see Patient Counseling Information (17)].
+
+In some patients, a worsening of more than one of the metabolic parameters of weight, blood glucose and lipids was observed in clinical studies.
+Changes in these parameters should be managed as clinically appropriate.
 
 Adults: In clinical trials with SEROQUEL the following increases in weight have been reported.
 
@@ -263,13 +274,30 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 
 ## 5.13 Hypothyroidism
 
-Adults: Clinical trials with SEROQUEL demonstrated a dose-related decrease in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range and was maximal in the first two to four weeks of treatment and maintained without adaptation or progression during more chronic therapy.
-Generally, these changes were of no clinical significance and thyroid stimulating hormone (TSH) was unchanged in most patients and levels of thyroid binding globulin (TBG) were unchanged.
-In nearly all cases, cessation of SEROQUEL treatment was associated with a reversal of the effects on total and free T4, irrespective of the duration of treatment.
+Adults: Clinical trials with quetiapine demonstrated dose-related decreases in thyroid hormone levels.
+The reduction in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range was maximal in the first six weeks of treatment and maintained without adaptation or progression during more chronic therapy.
+In nearly all cases, cessation of quetiapine treatment was associated with a reversal of the effects on total and free T4, irrespective of the duration of treatment.
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
-Six of the patients with TSH increases needed replacement thyroid treatment.
+Some patients with TSH increases needed replacement thyroid treatment.
 In the mania adjunct studies, where SEROQUEL was added to lithium or divalproex, 12% (24/196) of SEROQUEL treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the SEROQUEL treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels.
+
+In all quetiapine trials, the incidence of potentially clinically significant shifts in thyroid hormones and TSH were*: decrease in free T4, 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
+In eight patients, where TBG was measured, levels of TBG were unchanged.
+
+Table 7 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
+
+Table 7: Incidence of potentially clinically significant shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.
+
+| Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
+| 3.4 % (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+
+In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, potentially clinically significant shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
+
+Generally, these changes in thyroid hormone levels were of no clinical significance.
 
 Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
