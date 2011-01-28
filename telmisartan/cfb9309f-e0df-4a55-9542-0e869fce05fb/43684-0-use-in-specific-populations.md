@@ -12,7 +12,7 @@ Because of the potential for adverse effects on the nursing infant, decide wheth
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness in pediatric patients have not been established [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

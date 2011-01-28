@@ -4,7 +4,7 @@
 
 Dosage must be individualized.
 The usual starting dose of MICARDIS tablets is 40 mg once a day.
-Blood pressure response is dose-related over the range of 20-80 mg [see Clinical Studies (14.1)].
+Blood pressure response is dose-related over the range of 20 to 80 mg [see Clinical Studies (14.1)].
 
 Most of the antihypertensive effect is apparent within 2 weeks and maximal reduction is generally attained after 4 weeks.
 When additional blood pressure reduction beyond that achieved with 80 mg MICARDIS is required, a diuretic may be added.

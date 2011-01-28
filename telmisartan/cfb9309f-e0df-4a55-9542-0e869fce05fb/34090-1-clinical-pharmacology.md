@@ -30,13 +30,13 @@ In 30 hypertensive patients with normal renal function treated for 8 weeks with 
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5-1 hour after dosing.
+Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
 The absolute bioavailability of telmisartan is dose dependent.
 At 40 and 160 mg the bioavailability was 42% and 58%, respectively.
-The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20-160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
+The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20 to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
 Telmisartan shows bi-exponential decay kinetics with a terminal elimination half life of approximately 24 hours.
-Trough plasma concentrations of telmisartan with once daily dosing are about 10-25% of peak plasma concentrations.
+Trough plasma concentrations of telmisartan with once daily dosing are about 10 to 25% of peak plasma concentrations.
 Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once daily dosing.
 
 Distribution Telmisartan is highly bound to plasma proteins (>99.5%), mainly albumin and α1 - acid glycoprotein.
@@ -52,10 +52,10 @@ The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan
 Total plasma clearance of telmisartan is >800 mL/min.
 Terminal half-life and total clearance appear to be independent of dose.
 
-Special Populations Renal Insufficiency No dosage adjustment is necessary in patients with decreased renal function.
+Specific Populations Renal Insufficiency No dosage adjustment is necessary in patients with decreased renal function.
 Telmisartan is not removed from blood by hemofiltration [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
 Hepatic Insufficiency In patients with hepatic insufficiency, plasma concentrations of telmisartan are increased, and absolute bioavailability approaches 100% [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
-Gender Plasma concentrations of telmisartan are generally 2-3 times higher in females than in males.
+Gender Plasma concentrations of telmisartan are generally 2 to 3 times higher in females than in males.
 In clinical trials, however, no significant increases in blood pressure response or in the incidence of orthostatic hypotension were found in women.
 No dosage adjustment is necessary.
 Geriatric Patients The pharmacokinetics of telmisartan do not differ between the elderly and those younger than 65 years [see Dosage and Administration (2.1)].

@@ -1,6 +1,6 @@
 Patient Information
 
-MICARDIS® (my-CAR-dis) (telmisartan) Tablets
+MICARDIS®(my-CAR-dis) (telmisartan) Tablets
 
 Read this Patient Information before you start taking MICARDIS tablets and each time you get a refill.
 There may be new information.
@@ -21,6 +21,10 @@ MICARDIS is a prescription medicine used:
 - in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as stroke, heart attack, or death
 
 It is not known if MICARDIS is safe and effective in children.
+
+Who should not take MICARDIS?
+
+You should not take MICARDIS tablets if you are allergic (hypersensitive) to the active ingredient (telmisartan) or any of the other ingredients listed at the end of this leaflet.
 
 What should I tell my doctor before taking MICARDIS tablets?
 
@@ -65,6 +69,11 @@ How should I take MICARDIS tablets?
 - Read the "How to Open the Blister" at the end of this leaflet before you use MICARDIS.
   Talk with your doctor if you do not understand the instructions.
 
+What important safety information should I know about MICARDIS tablets?
+
+- You may experience sleepiness, dizziness, lightheadedness, or fainting when taking medicines such as MICARDIS tablets.
+  Use caution when engaging in activities such as driving a car or operating appliances or machinery.
+
 What are the possible side effects of MICARDIS tablets?
 
 MICARDIS tablets may cause serious side effects, including
@@ -95,6 +104,7 @@ Tell your doctor right away if you get any of these symptoms:
 
 - swelling of the face, tongue, throat
 - difficulty breathing
+- blistering of the skin or rash
 
 The most common side effects of MICARDIS tablets include:
 
@@ -160,12 +170,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-©Copyright 2009 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Micardis Tablets are covered by U.S. Patent No. 5,591,762
+Revised: January 2011
 
-Rev: November 2009
+OT1200LA182011 090340194/7
 
-OT12004KK0309 090340194/7
-
-IT12004GK0309 10005385/4
+IT12004HA182011 10005385/5
