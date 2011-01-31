@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040385"
+  ],
+  "inn": "methotrexate",
+  "labeler": "Duramed Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "51285-366-01",
+    "51285-367-01",
+    "51285-368-01",
+    "51285-369-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "methotrexate",
+      "name": "Trexall"
+    }
+  ],
+  "setid": "e942f8db-510f-44d6-acb5-b822196f5e8c",
+  "source": "dailymed"
+}
