@@ -380,6 +380,14 @@ Reproduction studies have been performed in rats and rabbits at doses of approxi
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, and in view of the desirability of keeping the administration of all drugs to a minimum during pregnancy, this drug should be used only if clearly needed.
 
+### Nonteratogenic Effects
+
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Antipsychotic drugs, including clozapine, should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## Nursing Mothers
 
 Animal studies suggest that clozapine may be excreted in breast milk and have an effect on the nursing infant.

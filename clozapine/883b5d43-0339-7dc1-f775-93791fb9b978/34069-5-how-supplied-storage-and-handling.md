@@ -38,6 +38,6 @@ If a patient is eligible for White Blood Cell (WBC) count and Absolute Neutrophi
 If a patient is eligible for WBC count and ANC testing every 4 weeks, then a 4-week supply of clozapine can be dispensed.
 Dispensing should be contingent upon the WBC count and ANC test results.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED FEBRUARY 2010 CLOZ:R13
+REVISED JANUARY 2011 CLOZ:R14
