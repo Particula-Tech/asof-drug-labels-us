@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-Hypersensitivity to any of the ingredients of this preparation contraindicates its use.
+NASONEX Nasal Spray is contraindicated in patients with known hypersensitivity to mometasone furoate or any of its ingredients.
