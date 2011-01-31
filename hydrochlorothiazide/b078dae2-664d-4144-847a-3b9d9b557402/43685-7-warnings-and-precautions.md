@@ -62,7 +62,7 @@ Symptoms include acute onset of decreased visual acuity or ocular pain and typic
 Untreated angle-closure glaucoma can lead to permanent vision loss.
 The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
-Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see PRECAUTIONS, Information for Patients, Potential Interference with Visual Acuity).
 
 # PRECAUTIONS
 
@@ -159,6 +159,18 @@ The patients should be told that if syncope occurs, MICARDIS HCT tablets should 
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
 Potassium Supplements: A patient receiving MICARDIS HCT tablets should be told not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing physician.
+
+Potential Interference with Mental Alertness and Motor Performance
+
+Telmisartan
+
+Since side effects such as syncope, somnolence, dizziness, or vertigo may occur with use of antihypertensive agents such as MICARDIS HCT tablets, caution patients about engaging in activities such as driving a motor vehicle or operating appliances or machinery (see ADVERSE REACTIONS, Post-Marketing Experience).
+
+Potential Interference with Visual Acuity
+
+Hydrochlorothiazide
+
+Since side effects such as acute myopia or acute angle-closure glaucoma may occur with use of hydrochlorothiazide, caution patients about engaging in activities such as driving a motor vehicle or operating appliances or machinery (see WARNINGS, Hydrochlorothiazide, Acute Myopia and Secondary Angle-Closure Glaucoma).
 
 ## Drug Interactions
 

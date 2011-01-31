@@ -29,7 +29,7 @@ Those patients controlled by 25 mg hydrochlorothiazide but who experience hypoka
 
 ## Patients with Renal Impairment
 
-The usual regimens of therapy with MICARDIS HCT tablets may be followed as long as the patient's creatinine clearance is >30 mL/min.
+The usual regimens of therapy with Micardis® HCT (telmisartan and hydrochlorothiazide) tablets may be followed as long as the patient’s creatinine clearance is >30 mL/min.
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so MICARDIS HCT tablets are not recommended.
 
 ## Patients with Hepatic Impairment

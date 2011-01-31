@@ -7,7 +7,7 @@ The telmisartan layer is marked with the Boehringer Ingelheim logo and H4 for th
 
 Tablets are provided as follows:
 
-Micardis® HCT (telmisartan and hydrochlorothiazide) tablets 40 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0043-37).
+MICARDIS HCT tablets 40 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0043-37).
 
 MICARDIS HCT tablets 80 mg/12.5 mg are individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0044-37).
 
@@ -28,4 +28,4 @@ Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 Revised: January 2011
 
-IT13006IA212011 10004142/07
+IT13006JA242011 10004142/07
