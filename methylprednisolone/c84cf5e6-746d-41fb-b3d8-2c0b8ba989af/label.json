@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040183"
+  ],
   "inn": "methylprednisolone",
   "labeler": "Qualitest Pharmaceuticals",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "0603-4593-28",
     "0603-4593-32"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methylprednisolone",
+      "name": "MethylPREDNISolone"
+    }
+  ],
   "setid": "c84cf5e6-746d-41fb-b3d8-2c0b8ba989af",
   "source": "dailymed"
 }

@@ -11,14 +11,4 @@ The structural formula is represented below:
 
 Each MethylPREDNISolone Tablet for oral administration contains 4 mg methylprednisolone.
 
-### Inactive ingredients:
-
-magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
-
-## CLINICAL PHARMACOLOGY
-
-Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states.
-Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems.
-
-Glucocorticoids cause profound and varied metabolic effects.
-In addition, they modify the body's immune responses to diverse stimuli.
+Inactive ingredients: magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
