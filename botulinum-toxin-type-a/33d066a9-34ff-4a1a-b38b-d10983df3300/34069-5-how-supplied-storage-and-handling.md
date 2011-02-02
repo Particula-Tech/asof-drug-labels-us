@@ -11,7 +11,7 @@ If you do not see the lines of rainbow color or the name “Allergan”, do not 
 
 Storage
 
-Unopened vials of BOTOX should be stored in a refrigerator (2° to 8°C) for up to 36 months for the 100 Unit vial or up to 24 months for the 200 Unit vial.
+Unopened vials of BOTOX should be stored in a refrigerator (2° to 8°C) for up to 36 months for the 100 Units vial or up to 24 months for the 200 Units vial.
 Do not use after the expiration date on the vial.
 Administer BOTOX within 24 hours of reconstitution; during this period reconstituted BOTOX should be stored in a refrigerator (2° to 8°C).
 Reconstituted BOTOX should be clear, colorless, and free of particulate matter.

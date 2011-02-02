@@ -16,7 +16,7 @@ In unapproved uses, including spasticity in children, and in approved indication
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines) or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
 
-No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), or for strabismus at the labeled doses have been reported.
+No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), strabismus, or for chronic migraine at the labeled doses have been reported.
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -55,13 +55,13 @@ Patients with neuromuscular disorders may be at increased risk of clinically sig
 ## 5.6 Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity
 
 Patients with compromised respiratory status treated with BOTOX for upper limb spasticity should be monitored closely.
-In a double-blind, placebo-controlled, parallel group study in patients with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 1).
+In a double-blind, placebo-controlled, parallel group study in patients with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 3).
 
-Table 1: Event rate per patient treatment cycle among patients with reduced lung function who experienced at least a 15% or 20% decrease in forced vital capacity from baseline at Week 1, 6, 12 post-injection with up to two treatment cycles with BOTOX or placebo
+Table 3: Event rate per patient treatment cycle among patients with reduced lung function who experienced at least a 15% or 20% decrease in forced vital capacity from baseline at Week 1, 6, 12 post-injection with up to two treatment cycles with BOTOX or placebo
 
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |
+| ≥15% | ≥20% | ≥15% | ≥20% | ≥15% | ≥20% |  |
 | Week 1 | 4% | 0% | 3% | 0% | 7% | 3% |
 | Week 6 | 7% | 4% | 4% | 2% | 2% | 2% |
 | Week 12 | 10% | 5% | 2% | 1% | 4% | 1% |

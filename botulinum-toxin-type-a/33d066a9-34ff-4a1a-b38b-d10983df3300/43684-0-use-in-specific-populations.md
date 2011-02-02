@@ -24,9 +24,13 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
+Prophylaxis of Headaches in Chronic Migraine
+
+Safety and effectiveness in patients below the age of 18 years have not been established.
+
 Spasticity
 
-Safety and effectiveness of BOTOX for the treatment of spasticity have not been established in patients below the age of 18 years.
+Safety and effectiveness in patients below the age of 18 years have not been established.
 
 Cervical Dystonia
 
@@ -38,7 +42,7 @@ Safety and effectiveness in pediatric patients below the age of 12 years have no
 
 Axillary Hyperhidrosis
 
-Safety and effectiveness in pediatric patients below the age of 18 years have not been established.
+Safety and effectiveness in patients below the age of 18 years have not been established.
 
 ## 8.5 Geriatric Use
 

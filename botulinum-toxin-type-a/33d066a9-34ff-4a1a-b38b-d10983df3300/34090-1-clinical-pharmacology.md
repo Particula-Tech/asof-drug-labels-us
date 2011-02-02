@@ -7,6 +7,7 @@ This inhibition occurs as the neurotoxin cleaves SNAP-25, a protein integral to 
 When injected intramuscularly at therapeutic doses, BOTOX produces partial chemical denervation of the muscle resulting in a localized reduction in muscle activity.
 In addition, the muscle may atrophy, axonal sprouting may occur, and extrajunctional acetylcholine receptors may develop.
 There is evidence that reinnervation of the muscle may occur, thus slowly reversing muscle denervation produced by BOTOX.
+
 When injected intradermally, BOTOX produces temporary chemical denervation of the sweat gland resulting in local reduction in sweating.
 
 ## 12.3 Pharmacokinetics

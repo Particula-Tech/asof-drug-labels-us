@@ -21,23 +21,40 @@ Needle-related pain and/or anxiety may result in vasovagal responses (including 
 Local weakness of the injected muscle(s) represents the expected pharmacological action of botulinum toxin.
 However, weakness of nearby muscles may also occur due to spread of toxin [see Warnings and Precautions (5.2)].
 
+Chronic Migraine
+
+In double-blind placebo controlled chronic migraine pivotal efficacy trials (Study 1 and Study 2), the discontinuation rate was 12% in the BOTOX treated group and 10% in the placebo-treated group.
+Discontinuations due to an adverse event were 4% in the BOTOX group and 1% in the placebo group.
+The most frequent adverse events leading to discontinuation in the BOTOX group were neck pain, headache, worsening migraine, muscular weakness and eyelid ptosis.
+
+The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 4.
+
+Table 4: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Two Chronic Migraine Double-blind, Placebo-controlled Clinical Trials
+
+| Adverse Reactions by Body System | BOTOX 155 Units-195 Units (N=687) | Placebo (N=692) |
+| --- | --- | --- |
+| Nervous system disorders Headache Migraine Facial paresis | 32 (5%) 26 (4%) 15 (2%) | 22 (3%) 18 (3%) 0 (0%) |
+| Eye disorders Eyelid ptosis | 25 (4%) | 2 (<1%) |
+| Infections and Infestations Bronchitis | 17 (3%) | 11 (2%) |
+| Musculoskeletal and connective tissue disorders Neck pain Musculoskeletal stiffness Muscular weakness Myalgia Musculoskeletal pain Muscle spasms | 60 (9%) 25 (4%) 24 (4%) 21 (3%) 18 (3%) 13 (2%) | 19 (3%) 6 (1%) 2 (<1%) 6 (1%) 10 (1%) 6 (1%) |
+| General disorders and administration site conditions Injection site pain | 23 (3%) | 14 (2%) |
+| Vascular Disorders Hypertension | 11 (2%) | 7 (1%) |
+
+Other adverse events that occurred more frequently in the BOTOX group compared to the placebo group at a frequency less than 1% and potentially BOTOX related include: vertigo, dry eye, eyelid edema, dysphagia, eye infection, and jaw pain.
+Severe worsening of migraine requiring hospitalization occurred in approximately 1% of BOTOX treated patients in Study 1 and Study 2, usually within the first week after treatment, compared to 0.3% of placebo-treated patients.
+
 Upper Limb Spasticity
 
-Table 2 below lists the adverse reactions reported by ≥ 2% of BOTOX-treated patients and more frequent than in placebo-treated patients in double-blind, placebo-controlled clinical trials.
+The most frequently reported adverse reactions following injection of BOTOX for adult spasticity appear in Table 5.
 
-Table 2: Adverse Reactions Reported by ≥ 2% of BOTOX-treated Patients and More Frequent than in Placebo-treated Patients in Adult Spasticity Double-blind, Placebo-controlled Clinical Trials
+Table 5: Adverse Reactions Reported by ≥2% of BOTOX treated Patients and More Frequent than in Placebo-treated Patients in Adult Spasticity Double-blind, Placebo-controlled Clinical Trials
 
 | Adverse Reactions by Body System | BOTOX 251 Units- 360 Units (N=115) | BOTOX 150 Units- 250 Units (N=188) | BOTOX <150 Units (N=54) | Placebo (N=182) |
 | --- | --- | --- | --- | --- |
-| Gastrointestinal disorder |  |  |  |  |
-| Nausea | 3 (3%) | 3 (2%) | 1 (2%) | 1 (1%) |
-| General disorders and administration site conditions |  |  |  |  |
-| Fatigue | 4 (3%) | 4 (2%) | 1 (2%) | 0 |
-| Infections and infestations |  |  |  |  |
-| Bronchitis | 4 (3%) | 4 (2%) | 0 | 2 (1%) |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Pain in extremity | 7 (6%) | 10 (5%) | 5 (9%) | 8 (4%) |
-| Muscular weakness | 0 | 7 (4%) | 1 (2%) | 2 (1%) |
+| Gastrointestinal disorder Nausea | 3 (3%) | 3 (2%) | 1 (2%) | 1 (1%) |
+| General disorders and administration site conditions Fatigue | 4 (3%) | 4 (2%) | 1 (2%) | 0 |
+| Infections and infestations Bronchitis | 4 (3%) | 4 (2%) | 0 | 2 (1%) |
+| Musculoskeletal and connective tissue disorders Pain in extremity Muscular weakness | 7 (6%) 0 | 10 (5%) 7 (4%) | 5 (9%) 1 (2%) | 8 (4%) 2 (1%) |
 
 Cervical Dystonia
 
@@ -80,7 +97,7 @@ In a series of 5587 injections, retrobulbar hemorrhage occurred in 0.3% of cases
 
 ## 6.2 Post-Marketing Experience
 
-There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.3,5.4)].
+There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.3, 5.4)].
 
 There have also been reports of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
 Some of these patients had risk factors including cardiovascular disease.
@@ -102,7 +119,7 @@ In a long term, open-label study evaluating 326 cervical dystonia patients treat
 All 4 of these patients responded to BOTOX therapy at the time of the positive antibody test.
 However, 3 of these patients developed clinical resistance after subsequent treatment, while the fourth patient continued to respond to BOTOX therapy for the remainder of the study.
 
-One patient among the 445 hyperhidrosis patients (0.2%) and two patients among the 380 adult upper limb spasticity patients (0.5%) with analyzed specimens showed the presence of neutralizing antibodies.
+One patient among the 445 hyperhidrosis patients (0.2%), two patients among the 380 adult upper limb spasticity patients (0.5%), and no patients among 406 migraine patients with analyzed specimens showed the presence of neutralizing antibodies.
 
 The data reflect the patients whose test results were considered positive or negative for neutralizing activity to BOTOX in a mouse protection assay.
 The results of these tests are highly dependent on the sensitivity and specificity of the assay.

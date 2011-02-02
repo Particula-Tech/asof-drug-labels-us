@@ -1,26 +1,46 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Upper Limb Spasticity
+## 14.1 Chronic Migraine
+
+BOTOX was evaluated in two randomized, multi-center, 24-week, 2 injection cycle, placebo-controlled double-blind studies.
+Study 1 and Study 2 included chronic migraine adults who were not using any concurrent headache prophylaxis, and during a 28-day baseline period had ≥15 headache days lasting 4 hours or more, with ≥50% being migraine/probable migraine.
+In both studies, patients were randomized to receive placebo or 155 Units to 195 Units BOTOX injections every 12 weeks for the 2-cycle, double-blind phase.
+Patients were allowed to use acute headache treatments during the study.
+BOTOX treatment demonstrated statistically significant and clinically meaningful improvements from baseline compared to placebo for key efficacy variables (see Table 6).
+
+Table 6: Week 24 Key Efficacy Variables for Study 1 and Study 2
+
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+| Efficacy per 28 days | BOTOX (N=341) | Placebo (N=338) | BOTOX (N=347) | Placebo (N=358) |
+| Change from baseline in frequency of headache days | -7.8* | -6.4 | -9.2* | -6.9 |
+| Change from baseline in total cumulative hours of headache on headache days | -107* | -70 | -134* | -95 |
+| * Significantly different from placebo (p≤0.05) |  |  |  |  |
+
+Patients treated with BOTOX had a significantly greater mean decrease from baseline in the frequency of headache days at most timepoints from Week 4 to Week 24 in Study 1 (Figure 2), and all timepoints from Week 4 to Week 24 in Study 2 (Figure 3), compared to placebo-treated patients.
+
+Figure 2: Mean Change from Baseline in Number of Headache Days for Study 1
+
+Figure 3: Mean Change from Baseline in Number of Headache Days for Study 2
+
+## 14.2 Upper Limb Spasticity
 
 The efficacy and safety of BOTOX for the treatment of upper limb spasticity were evaluated in three randomized, multi-center, double-blind, placebo-controlled studies.
 
 Study 1 included 126 patients (64 BOTOX and 62 placebo) with upper limb spasticity (Ashworth score of at least 3 for wrist flexor tone and at least 2 for finger flexor tone) who were at least 6 months post-stroke.
-BOTOX (a total dose of 200 Units to 240 Units) and placebo were injected intramuscularly (IM) into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and if necessary into the adductor pollicis and flexor pollicis longus (see Table 3).
+BOTOX (a total dose of 200 Units to 240 Units) and placebo were injected intramuscularly (IM) into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and if necessary into the adductor pollicis and flexor pollicis longus (see Table 7).
 Use of an EMG/nerve stimulator was recommended to assist in proper muscle localization for injection.
 Patients were followed for 12 weeks.
 
-Table 3: Study Medication Dose and Injection Sites in Study 1
+Table 7: Study Medication Dose and Injection Sites in Study 1
 
 | Muscles Injected | Volume (mL) | BOTOX (Units) | Number of Injection Sites |
 | --- | --- | --- | --- |
-| Wrist |  |  |  |
-| Flexor Carpi Radialis | 1 | 50 | 1 |
+| Wrist Flexor Carpi Radialis | 1 | 50 | 1 |
 | Flexor Carpi Ulnaris | 1 | 50 | 1 |
-| Finger |  |  | 1 |
-| Flexor Digitorum Profundus | 1 | 50 |  |
+| Finger Flexor Digitorum Profundus | 1 | 50 | 1 |
 | Flexor Digitorum Sublimis | 1 | 50 | 1 |
-| Thumb |  |  |  |
-| Adductor Pollicisa | 0.4 | 20 | 1 |
+| Thumb Adductor Pollicisa | 0.4 | 20 | 1 |
 | Flexor Pollicis Longusa | 0.4 | 20 | 1 |
 | a injected only if spasticity is present in this muscle |  |  |  |
 
@@ -29,21 +49,13 @@ The Ashworth Scale is a clinical measure of the force required to move an extrem
 
 Possible scores range from 0 to 4:
 
-0 = No increase in muscle tone (none)
-
-1 = Slight increase in muscle tone, giving a 'catch' when the limb was moved in flexion or extension (mild)
-
-2 = More marked increase in muscle tone but affected limb is easily flexed (moderate)
-
-3 = Considerable increase in muscle tone - passive movement difficult (severe)
-
-4 = Limb rigid in flexion or extension (very severe).
+0 = No increase in muscle tone (none) 1 = Slight increase in muscle tone, giving a 'catch' when the limb was moved in flexion or extension (mild) 2 = More marked increase in muscle tone but affected limb is easily flexed (moderate) 3 = Considerable increase in muscle tone - passive movement difficult (severe) 4 = Limb rigid in flexion or extension (very severe).
 
 Key secondary endpoints included Physician Global Assessment, finger flexors muscle tone, and thumb flexors tone at Week 6.
 The Physician Global Assessment evaluated the response to treatment in terms of how the patient was doing in his/her life using a scale from -4 = very marked worsening to +4 = very marked improvement.
-Study 1 results on the primary endpoint and the key secondary endpoints are shown in Table 4.
+Study 1 results on the primary endpoint and the key secondary endpoints are shown in Table 8.
 
-Table 4: Primary and Key Secondary Endpoints by Muscle Group at Week 6 in Study 1
+Table 8: Primary and Key Secondary Endpoints by Muscle Group at Week 6 in Study 1
 
 |  | BOTOX (N=64) | Placebo (N=62) |
 | --- | --- | --- |
@@ -59,29 +71,26 @@ Table 4: Primary and Key Secondary Endpoints by Muscle Group at Week 6 in Study 
 | c BOTOX injected into the adductor pollicis and flexor pollicis longus muscles |  |  |
 
 Study 2 compared 3 doses of BOTOX with placebo and included 91 patients [BOTOX 360 Units (N=21), BOTOX 180 Units (N=23), BOTOX 90 Units (N=21), and placebo (N=26)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone) who were at least 6 weeks post-stroke.
-BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 5).
+BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 9).
 
-Table 5: Study Medication Dose and Injection Sites in Study 2 and Study 3
+Table 9: Study Medication Dose and Injection Sites in Study 2 and Study 3
 
 |  | Total Dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Muscles Injected | BOTOX low dose (90 Units) | BOTOX mid dose (180 Units) | BOTOX high dose (360 Units) | Volume (mL) per site | Injection Sites (n) |
-| Wrist |  |  |  |  |  |
-| Flexor Carpi Ulnaris | 10 Units | 20 Units | 40 Units | 0.4 | 1 |
+| Wrist Flexor Carpi Ulnaris | 10 Units | 20 Units | 40 Units | 0.4 | 1 |
 | Flexor Carpi Radialis | 15 Units | 30 Units | 60 Units | 0.6 | 1 |
-| Finger |  |  |  |  |  |
-| Flexor Digitorum Profundus | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
+| Finger Flexor Digitorum Profundus | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
 | Flexor Digitorum Sublimis | 7.5 Units | 15 Units | 30 Units | 0.3 | 1 |
-| Elbow |  |  |  |  |  |
-| Biceps Brachii | 50 Units | 100 Units | 200 Units | 0.5 | 4 |
+| Elbow Biceps Brachii | 50 Units | 100 Units | 200 Units | 0.5 | 4 |
 
 The primary efficacy variable in Study 2 was the wrist flexor tone at Week 6 as measured by the expanded Ashworth Scale.
 The expanded Ashworth Scale uses the same scoring system as the Ashworth Scale, but allows for half-point increments.
 
 Key secondary endpoints in Study 2 included Physician Global Assessment, finger flexors muscle tone, and elbow flexors muscle tone at Week 6.
-Study 2 results on the primary endpoint and the key secondary endpoints at Week 6 are shown in Table 6.
+Study 2 results on the primary endpoint and the key secondary endpoints at Week 6 are shown in Table 10.
 
-Table 6: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at Week 6 in Study 2
+Table 10: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at Week 6 in Study 2
 
 |  | BOTOX low dose (90 Units) (N=21) | BOTOX mid dose (180 Units) (N=23) | BOTOX high dose (360 Units) (N=21) | Placebo (N=26) |
 | --- | --- | --- | --- | --- |
@@ -98,13 +107,13 @@ Table 6: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at W
 | d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
 
 Study 3 compared 3 doses of BOTOX with placebo and enrolled 88 patients [BOTOX 360 Units (N=23), BOTOX 180 Units (N=23), BOTOX 90 Units (N=23), and placebo (N=19)] with upper limb spasticity (expanded Ashworth score of at least 2 for elbow flexor tone and at least 3 for wrist flexor tone and/or finger flexor tone) who were at least 6 weeks post-stroke.
-BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 5).
+BOTOX and placebo were injected with EMG guidance into the flexor digitorum profundus, flexor digitorum sublimis, flexor carpi radialis, flexor carpi ulnaris, and biceps brachii (see Table 9).
 
 The primary efficacy variable in Study 3 was wrist and elbow flexor tone as measured by the expanded Ashworth score.
 A key secondary endpoint was assessment of finger flexors muscle tone.
-Study 3 results on the primary endpoint at Week 4 are shown in Table 7.
+Study 3 results on the primary endpoint at Week 4 are shown in Table 11.
 
-Table 7: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at Week 4 in Study 3
+Table 11: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at Week 4 in Study 3
 
 |  | BOTOX low dose (90 Units) (N=23) | BOTOX mid dose (180 Units) (N=21) | BOTOX high dose (360 Units) (N=22) | Placebo (N=19) |
 | --- | --- | --- | --- | --- |
@@ -118,7 +127,7 @@ Table 7: Primary and Key Secondary Endpoints by Muscle Group and BOTOX Dose at W
 | c Total dose of BOTOX injected into the flexor digitorum profundus and flexor digitorum sublimis muscles |  |  |  |  |
 | d Dose of BOTOX injected into biceps brachii muscle |  |  |  |  |
 
-## 14.2 Cervical Dystonia
+## 14.3 Cervical Dystonia
 
 A phase 3 randomized, multi-center, double-blind, placebo-controlled study of the treatment of cervical dystonia was conducted.
 This study enrolled adult patients with cervical dystonia and a history of having received BOTOX in an open label manner with perceived good response and tolerable side effects.
@@ -134,9 +143,9 @@ The CDSS quantifies the severity of abnormal head positioning and was newly devi
 CDSS allots 1 point for each 5 degrees (or part thereof) of head deviation in each of the three planes of head movement (range of scores up to theoretical maximum of 54).
 The Physician Global Assessment Scale is a 9 category scale scoring the physician's evaluation of the patients' status compared to baseline, ranging from –4 to +4 (very marked worsening to complete improvement), with 0 indicating no change from baseline and +1 slight improvement.
 Pain is also an important symptom of cervical dystonia and was evaluated by separate assessments of pain frequency and severity on scales of 0 (no pain) to 4 (constant in frequency or extremely severe in intensity).
-Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 8.
+Study results on the primary endpoints and the pain-related secondary endpoints are shown in Table 12.
 
-Table 8: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
+Table 12: Efficacy Outcomes of the Phase 3 Cervical Dystonia Study (Group Means)
 
 |  | Placebo (N=82) | BOTOX (N=88) | 95% CI on Difference |
 | --- | --- | --- | --- |
@@ -160,10 +169,10 @@ There were several randomized studies conducted prior to the phase 3 study, whic
 
 In the phase 3 study the median total BOTOX dose in patients randomized to receive BOTOX (N=88) was 236 Units, with 25th to 75th percentile ranges of 198 Units to 300 Units.
 Of these 88 patients, most received injections to 3 or 4 muscles; 38 received injections to 3 muscles, 28 to 4 muscles, 5 to 5 muscles, and 5 to 2 muscles.
-The dose was divided amongst the affected muscles in quantities shown in Table 9.
+The dose was divided amongst the affected muscles in quantities shown in Table 13.
 The total dose and muscles selected were tailored to meet individual patient needs.
 
-Table 9: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
+Table 13: Number of Patients Treated per Muscle and Fraction of Total Dose Injected into Involved Muscles
 
 | Muscle | Number of Patients Treated in this Muscle (N=88) | Mean % Dose per Muscle | Mid-Range of % Dose per Muscle* |
 | --- | --- | --- | --- |
@@ -176,7 +185,7 @@ Table 9: Number of Patients Treated per Muscle and Fraction of Total Dose Inject
 | Longissimus | 8 | 29 | 17-41 |
 | *The mid-range of dose is calculated as the 25th to 75th percentiles. |  |  |  |
 
-## 14.3 Primary Axillary Hyperhidrosis
+## 14.4 Primary Axillary Hyperhidrosis
 
 The efficacy and safety of BOTOX for the treatment of primary axillary hyperhidrosis were evaluated in two randomized, multi-center, double-blind, placebo-controlled studies.
 Study 1 included adult patients with persistent primary axillary hyperhidrosis who scored 3 or 4 on a Hyperhidrosis Disease Severity Scale (HDSS) and who produced at least 50 mg of sweat in each axilla at rest over 5 minutes.
@@ -192,10 +201,10 @@ Sweat production responders were those patients who demonstrated a reduction in 
 In the three study groups the percentage of patients with baseline HDSS score of 3 ranged from 50% to 54% and from 46% to 50% for a score of 4.
 The median amount of sweat production (averaged for each axilla) was 102 mg, 123 mg, and 114 mg for the placebo, 50 Units and 75 Units groups respectively.
 
-The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 10).
+The percentage of responders based on at least a 2-grade decrease from baseline in HDSS or based on a >50% decrease from baseline in axillary sweat production was greater in both BOTOX groups than in the placebo group (p<0.001), but was not significantly different between the two BOTOX doses (see Table 14).
 
 Duration of response was calculated as the number of days between injection and the date of the first visit at which patients returned to 3 or 4 on the HDSS scale.
-The median duration of response following the first treatment in BOTOX-treated patients with either dose was 201 days.
+The median duration of response following the first treatment in BOTOX treated patients with either dose was 201 days.
 Among those who received a second BOTOX injection, the median duration of response was similar to that observed after the first treatment.
 
 In study 2, 320 adults with bilateral axillary primary hyperhidrosis were randomized to receive either 50 Units of BOTOX (n=242) or placebo (n=78).
@@ -203,7 +212,7 @@ Treatment responders were defined as subjects showing at least a 50% reduction f
 At week 4 post-injection, the percentages of responders were 91% (219/242) in the BOTOX group and 36% (28/78) in the placebo group, p<0.001.
 The difference in percentage of responders between BOTOX and placebo was 55% (95% CI=43.3, 65.9).
 
-Table 10: Study 1 - Study Outcomes
+Table 14: Study 1 - Study Outcomes
 
 | Treatment Response | BOTOX 50 Units (N=104) | BOTOX 75 Units (N=110) | Placebo (N=108) | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -211,7 +220,7 @@ Table 10: Study 1 - Study Outcomes
 | >50% decrease in axillary sweat production % (n) | 81% (84) | 86% (94) | 41% (44) | 40% (28.1, 52.0) | 45% (33.3, 56.1) |
 | a Patients who showed at least a 2-grade improvement from baseline value on the HDSS 4 weeks after both of the first two treatment sessions or had a sustained response after their first treatment session and did not receive re-treatment during the study. |  |  |  |  |  |
 
-## 14.4 Blepharospasm
+## 14.5 Blepharospasm
 
 Botulinum toxin has been investigated for use in patients with blepharospasm in several studies.
 In an open label, historically controlled study, 27 patients with essential blepharospasm were injected with 2 Units of BOTOX at each of six sites on each side.
@@ -224,7 +233,7 @@ The effects of the treatment lasted a mean of 12 weeks.
 
 One thousand six hundred eighty-four patients with blepharospasm who were evaluated in an open label trial showed clinical improvement as evaluated by measured eyelid force and clinically observed intensity of lid spasm, lasting an average of 12 weeks prior to the need for re-treatment.
 
-## 14.5 Strabismus
+## 14.6 Strabismus
 
 Six hundred seventy-seven patients with strabismus treated with one or more injections of BOTOX were evaluated in an open label trial.
 Fifty-five percent of these patients improved to an alignment of 10 prism diopters or less when evaluated six months or more following injection.

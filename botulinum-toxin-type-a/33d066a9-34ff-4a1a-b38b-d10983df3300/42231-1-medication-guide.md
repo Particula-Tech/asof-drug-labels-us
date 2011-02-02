@@ -1,14 +1,4 @@
-MEDICATION GUIDE
-
-BOTOX®
-
-BOTOX® Cosmetic
-
-(Boe-tox)
-
-(onabotulinumtoxinA)
-
-for Injection
+MEDICATION GUIDE BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -46,12 +36,13 @@ These symptoms can happen hours to weeks after you receive an injection of BOTOX
 These problems could make it unsafe for you to drive a car or do other dangerous activities.
 See "What should I avoid while receiving BOTOX or BOTOX Cosmetic?"
 
-There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines.
+There has not been a confirmed serious case of spread of toxin effect away from the injection site when BOTOX has been used at the recommended dose to treat chronic migraine, severe underarm sweating, blepharospasm, or strabismus, or when BOTOX Cosmetic has been used at the recommended dose to treat frown lines.
 
 What are BOTOX and BOTOX Cosmetic?
 
 BOTOX is a prescription medicine that is injected into muscles and used:
 
+- to prevent headaches in adults with chronic migraine who have 15 or more days each month with headache lasting 4 or more hours each day.
 - to treat increased muscle stiffness in elbow, wrist, and finger muscles in adults with upper limb spasticity.
 - to treat the abnormal head position and neck pain that happens with cervical dystonia (CD) in adults.
 - to treat certain types of eye muscle problems (strabismus) or abnormal spasm of the eyelids (blepharospasm) in people 12 years and older.
@@ -60,14 +51,17 @@ BOTOX is also injected into the skin to treat the symptoms of severe underarm sw
 
 BOTOX Cosmetic is a prescription medicine that is injected into muscles and used to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary).
 
-It is not known whether BOTOX is safe or effective in children younger than:
+It is not known whether BOTOX is safe or effective in patients younger than:
 
+- 18 years of age for treatment of chronic migraine
 - 18 years of age for treatment of spasticity
 - 16 years of age for treatment of cervical dystonia
 - 18 years of age for treatment of hyperhidrosis
 - 12 years of age for treatment of strabismus or blepharospasm
 
 BOTOX Cosmetic is not recommended for use in children younger than 18 years of age.
+
+It is not known whether BOTOX and BOTOX Cosmetic are safe or effective to prevent headaches in patients with migraine who have 14 or fewer headache days each month (episodic migraine).
 
 It is not known whether BOTOX and BOTOX Cosmetic are safe or effective for other types of muscle spasms or for severe sweating anywhere other than your armpits.
 
@@ -77,7 +71,7 @@ Do not take BOTOX or BOTOX Cosmetic if you:
 
 - are allergic to any of the ingredients in BOTOX or BOTOX Cosmetic.
   See the end of this Medication Guide for a list of ingredients in BOTOX and BOTOX Cosmetic.
-- had an allergic reaction to any other botulinum toxin product such as Myobloc® or Dysport®
+- had an allergic reaction to any other botulinum toxin product such as Myobloc®, Dysport®, or Xeomin®
 - have a skin infection at the planned injection site
 
 What should I tell my doctor before taking BOTOX or BOTOX Cosmetic?
@@ -108,7 +102,7 @@ Do not start any new medicines until you have told your doctor that you have rec
 Especially tell your doctor if you:
 
 - have received any other botulinum toxin product in the last four months
-- have received injections of botulinum toxin, such as Myobloc® (rimabotulinumtoxinB) or Dysport® (abobotulinumtoxinA) in the past.
+- have received injections of botulinum toxin, such as Myobloc® (rimabotulinumtoxinB), Dysport® (abobotulinumtoxinA), or Xeomin® (incobotulinumtoxinA) in the past.
   Be sure your doctor knows exactly which product you received.
 - have recently received an antibiotic by injection
 - take muscle relaxants
@@ -126,6 +120,7 @@ How should I take BOTOX or BOTOX Cosmetic?
 - BOTOX is injected into your affected muscles or skin.
 - BOTOX Cosmetic is injected into your affected muscles.
 - Your doctor may change your dose of BOTOX or BOTOX Cosmetic, until you and your doctor find the best dose for you.
+- Your doctor will tell you how often you will receive your dose of BOTOX or BOTOX Cosmetic injections.
 
 What should I avoid while taking BOTOX or BOTOX Cosmetic?
 
@@ -173,12 +168,16 @@ Active ingredient: botulinum toxin type A
 
 Inactive ingredients: human albumin and sodium chloride
 
-Issued: 03/2010
+Issued: 10/2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2010 Allergan, Inc. ® mark owned by Allergan, Inc. U.S. Patents 6,974,578; 6,683,049; and 6,896,886
 
-Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
+Myobloc® is a registered trademark of Solstice Neurosciences, Inc.
 
-71580US10B 72284US11B
+Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
+
+Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
+
+71580US11B 72284US12B
