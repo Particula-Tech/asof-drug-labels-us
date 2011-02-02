@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090858"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-222-01",
+    "67877-223-01",
+    "67877-224-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "Gabapentin"
+    }
+  ],
+  "setid": "722de2a9-38b3-4518-b262-ba0d1346d0ba",
+  "source": "dailymed"
+}
