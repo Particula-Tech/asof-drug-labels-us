@@ -27,7 +27,7 @@ Made in India
 A058921 Rev.
 7/08
 
-# Principle Display Panel
+# Principal Display Panel
 
 NDC 0173-0953-96
 
@@ -51,16 +51,16 @@ Store at 15o to 25oC (59o to 77oF).
 
 Dispense in tight container as defined in the USP.
 
-A076757 Rev.
-12/09
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Made in India
 
-# Principle Display Panel
+A076757 Rev.
+12/09
+
+# Principal Display Panel
 
 NDC 0173-0949-55
 
@@ -86,10 +86,10 @@ Research Triangle Park,
 
 NC 27709
 
-10000000043567 Rev.
-6/07
+10000000076613 Rev.
+1/10
 
-# Principle Display Panel
+# Principal Display Panel
 
 NDC 0173-0945-55
 
@@ -111,7 +111,7 @@ Do not use if black printed safety seal under cap is broken or missing.
 
 Dispense in a tight container as defined in the USP.
 
-See package insert for Dosage and Administration.
+See prescribing information for dosage information.
 
 GlaxoSmithKline
 
@@ -119,5 +119,7 @@ Research Triangle Park,
 
 NC 27709
 
-4151518 Rev.
-9/02
+Made in India
+
+10000000076612 Rev.
+1/10
