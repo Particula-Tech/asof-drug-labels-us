@@ -1,4 +1,4 @@
-# Description
+# DESCRIPTION
 
 robaxin®/robaxin®-750 (methocarbamol tablets, USP), a carbamate derivative of guaifenesin, is a central nervous system (CNS) depressant with sedative and musculoskeletal relaxant properties.
 

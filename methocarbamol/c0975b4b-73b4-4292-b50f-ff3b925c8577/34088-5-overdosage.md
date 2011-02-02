@@ -1,4 +1,4 @@
-# Overdosage
+# OVERDOSAGE
 
 Limited information is available on the acute toxicity of methocarbamol.
 Overdose of methocarbamol is frequently in conjunction with alcohol or other CNS depressants and includes the following symptoms: nausea, drowsiness, blurred vision, hypotension, seizures, and coma.

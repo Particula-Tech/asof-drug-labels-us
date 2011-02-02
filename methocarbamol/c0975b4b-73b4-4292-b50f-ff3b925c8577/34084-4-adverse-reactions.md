@@ -1,4 +1,4 @@
-# Adverse Reactions
+# ADVERSE REACTIONS
 
 Adverse reactions reported coincident with the administration of methocarbamol include:
 
