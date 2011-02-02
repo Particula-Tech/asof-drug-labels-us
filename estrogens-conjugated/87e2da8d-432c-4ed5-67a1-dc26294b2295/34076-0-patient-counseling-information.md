@@ -122,17 +122,11 @@ The reconstituted solution is suitable for intravenous or intramuscular injectio
 
 Each Premarin Intravenous (conjugated estrogens, USP) for injection package provides 25 mg of conjugated estrogens, USP, in dry form for intravenous or intramuscular use.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-Wyeth®
-
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
-W10411C013
+W10411C014
 
 ET01
 
-Rev 06/10
+Rev 11/10

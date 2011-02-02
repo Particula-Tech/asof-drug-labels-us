@@ -16,8 +16,6 @@ SECULE® vial
 
 Rx only
 
-Wyeth®
-
 PACKAGE LABEL - PRINCIPAL DISPLAY - 25 MG - CARTON
 
 NDC 0046-0749-05
@@ -38,4 +36,4 @@ of conjugated estrogens, USP, for injection.
 
 Rx only
 
-Wyeth®
+Pfizer
