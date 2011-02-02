@@ -10,7 +10,7 @@ In several dozen published cases, ACE inhibitor use during the second and third 
 
 ## 5.2 Hypotension
 
-Excessive hypotension was seen in 0.4% of patients with uncomplicated hypertension treated with Exforge (amlodipine and valsartan) in placebo-controlled studies.
+Excessive hypotension was seen in 0.4% of patients with uncomplicated hypertension treated with Exforge in placebo-controlled studies.
 In patients with an activated renin-angiotensin system, such as volume-and/or salt-depleted patients receiving high doses of diuretics, symptomatic hypotension may occur in patients receiving angiotensin receptor blockers.
 Volume depletion should be corrected prior to administration of Exforge.
 Treatment with Exforge should start under close medical supervision.

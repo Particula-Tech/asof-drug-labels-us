@@ -7,7 +7,7 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 Studies with Exforge:
 
-Exforge (amlodipine and valsartan) has been evaluated for safety in over 2,600 patients with hypertension; over 1,440 of these patients were treated for at least 6 months and over 540 of these patients were treated for at least one year.
+Exforge has been evaluated for safety in over 2,600 patients with hypertension; over 1,440 of these patients were treated for at least 6 months and over 540 of these patients were treated for at least one year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 
 The overall frequency of adverse reactions was neither dose-related nor related to gender, age, or race.
@@ -59,7 +59,7 @@ Isolated cases of the following clinically notable adverse reactions were also o
 
 Studies with Amlodipine:
 
-Norvasc* has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+Norvasc®* has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 Other adverse events that have been reported <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain were:
 
 Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, peripheral ischemia, syncope, postural hypotension, vasculitis
@@ -115,7 +115,7 @@ Other reported events seen less frequently in clinical trials were: angioedema.
 
 Adverse reactions reported for valsartan for indications other than hypertension may be found in the prescribing information for Diovan.
 
-6.2 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Amlodipine: Gynecomastia has been reported infrequently and a causal relationship is uncertain.
 Jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.

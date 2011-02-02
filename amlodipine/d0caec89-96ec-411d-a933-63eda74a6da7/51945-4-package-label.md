@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 5 mg*/160 mg
 
@@ -10,7 +10,7 @@ EXFORGE® (amlodipine and valsartan) Tablets
 
 *each tablet contains 6.9 mg of amlodipine besylate
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 10 mg*/160 mg
 
@@ -22,7 +22,7 @@ EXFORGE® (amlodipine and valsartan) Tablets
 
 *each tablet contains 13.9 mg of amlodipine besylate
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 5 mg*/320 mg
 
@@ -34,7 +34,7 @@ EXFORGE® (amlodipine and valsartan) Tablets
 
 *each tablet contains 6.9 mg of amlodipine besylate
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 10 mg*/320 mg
 

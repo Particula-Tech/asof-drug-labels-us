@@ -73,8 +73,7 @@ Minimal decreases in plasma aldosterone were observed after administration of va
 In multiple dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic blood pressure, usually with little or no orthostatic change.
-
-Valsartan has indications other than hypertension which can be found in the Diovan® package insert.
+Valsartan has indications other than hypertension which can be found in the Diovan package insert.
 
 Exforge
 

@@ -23,8 +23,6 @@ The estimated likelihood at the right tail of each curve is less reliable due to
 | --- | --- |
 | Figure 3: Probability of Achieving Systolic Blood Pressure <130 mmHg at Week 8 | Figure 4: Probability of Achieving Diastolic Blood Pressure <80 mmHg at Week 8 |
 
-For example, a patient with a baseline blood pressure of 160/100 mmHg has about a 67% likelihood of achieving a goal of <140 mmHg (systolic) and 80% likelihood of achieving <90 mmHg (diastolic) on amlodipine alone, and the likelihood of achieving these goals on valsartan alone is about 47% (systolic) or
-
-62% (diastolic).
+For example, a patient with a baseline blood pressure of 160/100 mmHg has about a 67% likelihood of achieving a goal of <140 mmHg (systolic) and 80% likelihood of achieving <90 mmHg (diastolic) on amlodipine alone, and the likelihood of achieving these goals on valsartan alone is about 47% (systolic) or 62% (diastolic).
 The likelihood of achieving these goals on Exforge rises to about 80% (systolic) or 85% (diastolic).
 The likelihood of achieving these goals on placebo is about 28% (systolic) or 37% (diastolic).

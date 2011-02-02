@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Studies with Amlodipine
 
@@ -22,12 +22,10 @@ These doses in mice and rats are about 2.4 and 6 times, respectively, the MRHD o
 Mutagenicity assays did not reveal any valsartan-related effects at either the gene or chromosome level.
 These assays included bacterial mutagenicity tests with Salmonella and E. coli, a gene mutation test with Chinese hamster V79 cells, a cytogenetic test with Chinese hamster ovary cells, and a rat micronucleus test.
 
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Reproductive Toxicology Studies
-
 Valsartan had no adverse effects on the reproductive performance of male or female rats at oral doses of up to 200 mg/kg/day.
 This dose is about 6 times the maximum recommended human dose on a mg/m2 basis.
+
+## 13.3 Developmental Toxicity Studies
 
 Studies with Amlodipine
 

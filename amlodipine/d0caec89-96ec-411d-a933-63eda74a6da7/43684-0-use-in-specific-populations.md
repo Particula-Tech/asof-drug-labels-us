@@ -55,7 +55,7 @@ No overall differences in the efficacy or safety of Exforge was observed in this
 Amlodipine: Clinical studies of amlodipine besylate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
-Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40-60%, and a lower initial dose may be required [see Dosage and Administration(2.1)].
+Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40-60%, and a lower initial dose may be required [see Dosage and Administration (2.1)].
 
 Valsartan: In the controlled clinical trials of valsartan, 1,214 (36.2%) of hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.

@@ -1,5 +1,5 @@
 # WARNING: AVOID USE IN PREGNANCY
 
-When pregnancy is detected, discontinue Exforge® as soon as possible.
+When pregnancy is detected, discontinue Exforge as soon as possible.
 Drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.
 [See Warnings and Precautions (5.1)]

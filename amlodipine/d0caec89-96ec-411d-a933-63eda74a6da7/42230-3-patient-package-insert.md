@@ -68,9 +68,7 @@ How should I take EXFORGE?
   If it is close to your next dose, do not take the missed dose.
   Just take the next dose at your regular time.
 - If you take too much EXFORGE, call your doctor or Poison Control Center, or go to the emergency room.
-- Tell all your doctors or dentist you are taking EXFORGE if you:
-  - are going to have surgery
-  - go for kidney dialysis
+- Tell all your doctors or dentist you are taking EXFORGE if you: ○ are going to have surgery ○ go for kidney dialysis
 
 What should I avoid while taking Exforge?
 
@@ -168,6 +166,6 @@ Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
 
-©Novartis
+Revised February 2009 T2009-27/T2008-31
 
-Revised February 2009 T2009-27
+©Novartis
