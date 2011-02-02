@@ -54,4 +54,4 @@ There is no clinically meaningful increase in AUC and Cmax with concomitant admi
 
 ## 7.10 Anesthesia
 
-If treatment with COREG CR is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
+If treatment with COREG CR is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].

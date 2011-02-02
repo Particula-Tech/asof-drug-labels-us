@@ -117,7 +117,7 @@ Changes in mean peak plasma levels were less pronounced, approximately 12% to 26
 
 Consistent with its high degree of plasma protein binding, carvedilol does not appear to be cleared significantly by hemodialysis.
 
-## 12.5 Drug-Drug interactions
+## 12.5 Drug-Drug Interactions
 
 Since carvedilol undergoes substantial oxidative metabolism, the metabolism and pharmacokinetics of carvedilol may be affected by induction or inhibition of cytochrome P450 enzymes.
 

@@ -20,9 +20,9 @@ What is COREG CR?
 COREG CR is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 COREG CR is used, often with other medicines, for the following conditions:
 
-- to treat patients with high blood pressure (hypertension)
-- to treat patients who had a heart attack that worsened how well the heart pumps
 - to treat patients with certain types of heart failure
+- to treat patients who had a heart attack that worsened how well the heart pumps
+- to treat patients with high blood pressure (hypertension)
 
 COREG CR is not approved for use in children under 18 years of age.
 
@@ -49,6 +49,7 @@ Tell your doctor about all of your medical conditions, including if you:
 - have a condition called pheochromocytoma.
 - have had severe allergic reactions.
 - are scheduled for surgery and will be given anesthetic agents.
+- are scheduled for cataract surgery and have taken or are currently taking COREG CR.
 - are pregnant or trying to become pregnant.
   It is not known if COREG CR is safe for your unborn baby.
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
@@ -145,15 +146,21 @@ Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegeta
 
 COREG CR capsules come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
 
+What is high blood pressure (hypertension)?Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too much.
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
+COREG CR can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
+
 COREG CR and COREG are registered trademarks of GlaxoSmithKline.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-June 2009
+January 2011
 
-CCR:4PIL
+CCR:5PIL
