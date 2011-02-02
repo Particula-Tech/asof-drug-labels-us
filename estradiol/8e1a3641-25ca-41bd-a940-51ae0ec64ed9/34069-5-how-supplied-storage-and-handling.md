@@ -10,6 +10,9 @@ NDC 18860-480-30.....Package containing one Elestrin® 35 g pump container.
 
 NDC 18860-480-60.....Package containing two Elestrin® 35 g pump containers.
 
+NDC 18860-480-01.....Elestrin® 35 g pump container.
+This package is contained within the Carton (18860-480-60).
+
 KEEP OUT OF THE REACH OF CHILDREN; THE PUMP CONTAINER IS NOT CHILD-RESISTANT.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
