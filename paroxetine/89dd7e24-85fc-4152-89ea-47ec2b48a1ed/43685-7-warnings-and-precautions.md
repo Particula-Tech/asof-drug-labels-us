@@ -185,7 +185,7 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see PRECAUTIONS: Geriatric Use).
 Discontinuation of paroxetine hydrochloride, should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
@@ -198,6 +198,12 @@ Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of paroxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
+
+### Bone Fracture
+
+Epidemiological studies on bone fracture risk following exposure to some antidepressants, including SSRIs, have reported an association between antidepressant treatment and fractures.
+There are multiple possible causes for this observation and it is unknown to what extent fracture risk is directly attributable to SSRI treatment.
+The possibility of a pathological fracture, that is, a fracture produced by minimal trauma in a patient with decreased bone mineral density, should be considered in patients treated with paroxetine who present with unexplained bone pain, point tenderness, swelling or bruising.
 
 ### Use in Patients with Concomitant Illness
 
@@ -290,7 +296,7 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride and the potential for serotonin syndrome, caution is advised when paroxetine hydrochloride is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride and the potential for serotonin syndrome, caution is advised when paroxetine hydrochloride is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, fentanyl, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
 The concomitant use of paroxetine hydrochloride with MAOIs (including linezolid) is contradicated (see CONTRADICATIONS).
 The concomitant use of paroxetine hydrochloride with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions: Tryptophan).
 
@@ -356,7 +362,7 @@ However, due to the risk of serious ventricular arrhythmias and sudden death pot
 Tamoxifen is a pro-drug requiring metabolic activation by CYP2D6.
 Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite and hence reduced efficacy of tamoxifen.
 
-At steady-state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Drug Interactions: Tricyclic Antidepressants).
+At steady-state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Drug Interactions: Tricyclic Antidepressants (TCAs)).
 
 ### Drugs Metabolized by Cytochrome CYP3A4
 
@@ -442,6 +448,8 @@ The relevance of these findings to humans is unknown.
 Paroxetine produced no genotoxic effects in a battery of five in vitro and two in vivo assays that included the following: Bacterial mutation assay, mouse lymphoma mutation assay, unscheduled DNA synthesis assay, and tests for cytogenetic aberrations in vivo in mouse bone marrow and in vitro in human lymphocytes and in a dominant lethal test in rats.
 
 ### Impairment of Fertility
+
+Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
 
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD or 2.4 times the MRHD for OCD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.

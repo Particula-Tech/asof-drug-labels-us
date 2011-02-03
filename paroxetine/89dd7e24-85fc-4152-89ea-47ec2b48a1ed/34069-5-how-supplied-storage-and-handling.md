@@ -39,12 +39,12 @@ NDC 0378-7004-01 bottles of 100 tablets
 NDC 0378-7004-10 bottles of 1000 tablets
 
 Store at 20° to 25 °C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2009 PXTT: R3mc
+REVISED DECEMBER 2010 PXTT: R4mc

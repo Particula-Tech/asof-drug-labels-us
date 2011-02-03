@@ -36,7 +36,7 @@ Panic disorder (DSM-IV) is characterized by recurrent unexpected panic attacks, 
 
 Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
 In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, the physician who prescribes paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Nevertheless, the physician who prescribes paroxetine tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
 ## Social Anxiety Disorder
 

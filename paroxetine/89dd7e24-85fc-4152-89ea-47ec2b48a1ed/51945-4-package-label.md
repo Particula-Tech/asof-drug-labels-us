@@ -2,11 +2,11 @@ PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-7001-93
 
-PAROXETINE TABLETS, USP 10 mg*
+Paroxetine Tablets, USP 10 mg*
 
-PHARMACIST: PLEASE DISPNESE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-30 TABLETS (Rx only)
+Rx only 30 TABLETS
 
 *Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 10 mg of paroxetine.
 
@@ -17,23 +17,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM7001H1
+www.mylan.com
+
+RM7001H2
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-7002-93
 
-PAROXETINE TABLETS, USP 20 mg*
+Paroxetine Tablets, USP 20 mg*
 
-PHARMACIST: PLEASE DISPNESE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-30 TABLETS (Rx only)
+Rx only 30 TABLETS
 
 *Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 20 mg of paroxetine.
 
@@ -44,23 +46,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM7002H1
+www.mylan.com
+
+RM7002H2
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
 NDC 0378-7003-93
 
-PAROXETINE TABLETS, USP 30 mg*
+Paroxetine Tablets, USP 30 mg*
 
-PHARMACIST: PLEASE DISPNESE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-30 TABLETS (Rx only)
+Rx only 30 TABLETS
 
 *Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 30 mg of paroxetine.
 
@@ -71,23 +75,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM7003H1
+www.mylan.com
+
+RM7003H2
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
-NDC 0378-7003-93
+NDC 0378-7004-93
 
-PAROXETINE TABLETS, USP 40 mg*
+Paroxetine Tablets, USP 40 mg*
 
-PHARMACIST: PLEASE DISPNESE WITH MEDICATION GUIDE PROVIDED SEPARATELY.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-30 TABLETS (Rx only)
+Rx only 30 TABLETS
 
 *Each film-coated tablet contains paroxetine hydrochloride, USP equivalent to 40 mg of paroxetine.
 
@@ -98,10 +104,12 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM7004H1
+www.mylan.com
+
+RM7004H2
