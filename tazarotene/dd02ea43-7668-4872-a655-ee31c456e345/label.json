@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021184"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-9155-15",
+    "0023-9155-30",
+    "0023-9155-60",
+    "0023-9156-15",
+    "0023-9156-30",
+    "0023-9156-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tazarotene",
+      "name": "TAZORAC"
+    }
+  ],
+  "setid": "dd02ea43-7668-4872-a655-ee31c456e345",
+  "source": "dailymed"
+}
