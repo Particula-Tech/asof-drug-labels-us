@@ -2,7 +2,7 @@ ALLERGAN
 
 NDC 0023-9321-10 Rx Only
 
-Alphagan® P
+Alphagan ® P
 
 (brimonidine tartrate ophthalmic solution) 0.1%
 
@@ -12,7 +12,7 @@ ALLERGAN
 
 NDC 0023-9321-10
 
-Alphagan® P
+Alphagan ® P
 
 (brimonidine tartrate ophthalmic solution)
 
@@ -26,7 +26,7 @@ ALLERGAN
 
 NDC 0023-9177-10 Rx Only
 
-Alphagan® P
+Alphagan ® P
 
 (brimonidine tartrate ophthalmic solution) 0.15%
 
@@ -36,7 +36,7 @@ ALLERGAN
 
 NDC 0023-9177-10
 
-Alphagan® P
+Alphagan ® P
 
 (brimonidine tartrate ophthalmic solution)
 
