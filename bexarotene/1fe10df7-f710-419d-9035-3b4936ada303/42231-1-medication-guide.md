@@ -107,25 +107,11 @@ Further Information
 
 - You can get more information on Targretin® capsules from your doctor or pharmacist.
 
-* Lopid® (gemfibrozil tablets, USP) is a registered trademark of Parke-Davis, Division of Warner-Lambert Co.
-
-+ Nolvadex® (tamoxifen citrate) is a registered trademark of AstraZeneca LP.
-
-++ Accutane® (isotretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
-
-++ Soriatane® (acitretin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
-
-++ Tegison® (etretinate) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories, Inc.
-
-++ Vesanoid® (tretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
+* Lopid® (gemfibrozil tablets, USP) is a registered trademark of Parke-Davis, Division of Warner-Lambert Co. + Nolvadex® (tamoxifen citrate) is a registered trademark of AstraZeneca LP. ++ Accutane® (isotretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc. ++ Soriatane® (acitretin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc. ++ Tegison® (etretinate) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories, Inc. ++ Vesanoid® (tretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
 
 Targretin® (bexarotene) is a registered trademark of Eisai Inc.
 
-Manufactured for:
+Manufactured for: Eisai Inc. Woodcliff Lake, NJ 07677
 
-Eisai Inc.
-
-Woodcliff Lake, NJ 07677
-
-© 2009 Eisai Inc. NEW (Rev.
-NEW)
+© 2007 Eisai Inc. 200607 (Rev.
+0307)
