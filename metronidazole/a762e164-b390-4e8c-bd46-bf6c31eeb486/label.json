@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050786"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Axcan Pharma US, Inc.",
+  "package_ndcs": [
+    "58914-600-21",
+    "58914-600-24"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bismuth subcitrate potassium, metronidazole, tetracycline hydrochloride (140 mg/125 mg/125 mg)",
+      "name": "Pylera"
+    }
+  ],
+  "setid": "a762e164-b390-4e8c-bd46-bf6c31eeb486",
+  "source": "dailymed"
+}
