@@ -15,3 +15,7 @@ FOSAMAX is indicated for:
   Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
 - Treatment of Paget's disease of bone in men and women
   - Treatment is indicated in patients with Paget's disease of bone having alkaline phosphatase at least two times the upper limit of normal, or those who are symptomatic, or those at risk for future complications from their disease.
+
+The safety and effectiveness of FOSAMAX for the treatment of osteoporosis are based on clinical data of four years duration.
+The optimal duration of use has not been determined.
+All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.

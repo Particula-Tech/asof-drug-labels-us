@@ -132,7 +132,7 @@ Gastric or duodenal ulcers, some severe and with complications have also been re
 
 Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported rarely (see PRECAUTIONS, Dental).
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain); joint swelling; low-energy femoral shaft and subtrochanteric fractures.
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain); joint swelling; low-energy femoral shaft and subtrochanteric fractures (see PRECAUTIONS, Atypical Subtrochanteric and Diaphyseal Femoral Fractures).
 
 Nervous system: dizziness and vertigo.
 

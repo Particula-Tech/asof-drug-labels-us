@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-FOSAMAXRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright ©1995, 1997, 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (alendronate sodium) is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption.
+FOSAMAX® (alendronate sodium) is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption.
 Bisphosphonates are synthetic analogs of pyrophosphate that bind to the hydroxyapatite found in bone.
 
 Alendronate sodium is chemically described as (4-amino-1-hydroxybutylidene) bisphosphonic acid monosodium salt trihydrate.

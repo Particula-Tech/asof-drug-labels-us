@@ -174,11 +174,9 @@ Increases in BMD were evident as early as three months and continued throughout 
 In the two-year extension of these studies, treatment of 147 patients with FOSAMAX 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
 BMD at the femoral neck, forearm and total body were maintained.
 FOSAMAX was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
-Thus, overall FOSAMAX reverses the loss of bone mineral density, a central factor in the progression of osteoporosis.
 
 In patients with postmenopausal osteoporosis treated with FOSAMAX 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
 Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups.
-These data indicate that continued treatment with FOSAMAX is required to maintain the effect of the drug.
 
 The therapeutic equivalence of once weekly FOSAMAX 70 mg (n=519) and FOSAMAX 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 5.1% (4.8, 5.4%; 95% CI) in the 70-mg once-weekly group (n=440) and 5.4% (5.0, 5.8%; 95% CI) in the 10-mg daily group (n=330).

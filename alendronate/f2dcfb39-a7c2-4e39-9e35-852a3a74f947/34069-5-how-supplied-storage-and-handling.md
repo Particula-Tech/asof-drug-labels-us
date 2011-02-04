@@ -55,8 +55,10 @@ Do not freeze.
 
 Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued March 2010
+Issued January 2011
 
 Printed in USA
 
-9635610 9636810
+Copyright © 1995, 1997, 2000, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+6013411

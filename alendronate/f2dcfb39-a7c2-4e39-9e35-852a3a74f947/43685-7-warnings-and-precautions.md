@@ -51,7 +51,21 @@ Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy sh
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
 Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
 
-## Renal insufficency
+## Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+## Renal insufficiency
 
 FOSAMAX is not recommended for patients with renal insufficiency (creatinine clearance <35 mL/min).
 (See DOSAGE AND ADMINISTRATION.)
@@ -77,7 +91,7 @@ The efficacy for prevention of non-vertebral fractures has not been demonstrated
 
 ### General
 
-Physicians should instruct their patients to read the patient package insert before starting therapy with FOSAMAX and to reread it each time the prescription is renewed.
+Physicians should instruct their patients to read the Medication Guide before starting therapy with FOSAMAX and to reread it each time the prescription is renewed.
 
 Patients should be instructed to take supplemental calcium and vitamin D, if daily dietary intake is inadequate.
 Weight-bearing exercise should be considered along with the modification of certain behavioral factors, such as cigarette smoking and/or excessive alcohol consumption, if these factors exist.
@@ -169,7 +183,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 The efficacy and safety of FOSAMAX were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4-18 years, with severe osteogenesis imperfecta.
-One-hundred-and-nine patients were randomized to 5 mg FOSAMAX daily (weight < 40 kg) or 10 mg FOSAMAX daily (weight ≥ 40 kg) and 30 patients to placebo.
+One-hundred-and-nine patients were randomized to 5 mg FOSAMAX daily (weight <40 kg) or 10 mg FOSAMAX daily (weight ≥40 kg) and 30 patients to placebo.
 The mean baseline lumbar spine BMD Z-score of the patients was -4.5.
 The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the FOSAMAX-treated patients and 0.1 in the placebo-treated patients.
 Treatment with FOSAMAX did not reduce the risk of fracture.
