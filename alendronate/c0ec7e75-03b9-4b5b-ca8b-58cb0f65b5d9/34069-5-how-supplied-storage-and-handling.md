@@ -24,8 +24,8 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 By: FROSST IBERICA, S.A.
 28805 Alcalá de Henares Madrid, Spain
 
-Issued June 2010
+Issued January 2011
 
-9664509
+6013310
 
-1Registered Trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2005, 2007 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2005, 2007, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

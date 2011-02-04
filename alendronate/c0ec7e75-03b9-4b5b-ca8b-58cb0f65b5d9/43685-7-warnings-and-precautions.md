@@ -56,7 +56,21 @@ Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy sh
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
 Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
 
-## 5.5 Renal Insufficiency
+## 5.5 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+## 5.6 Renal Insufficiency
 
 FOSAMAX PLUS D is not recommended for patients with renal insufficiency (creatinine clearance <35 mL/min).
 [See Dosage and Administration (2.5).]

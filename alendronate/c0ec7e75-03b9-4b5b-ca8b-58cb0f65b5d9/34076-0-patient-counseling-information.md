@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.3).]
+[See FDA-Approved Medication Guide.]
 
-Physicians should instruct their patients to read the patient package insert before starting therapy with FOSAMAX PLUS D and to reread it each time the prescription is renewed.
+Physicians should instruct their patients to read the Medication Guide before starting therapy with FOSAMAX PLUS D and to reread it each time the prescription is renewed.
 
 ## 17.1 Osteoporosis Recommendations, Including Calcium and Vitamin D Supplementation
 
@@ -24,5 +24,3 @@ Patients should be instructed that if they develop symptoms of esophageal diseas
 
 Patients should be instructed that if they miss a dose of FOSAMAX PLUS D, they should take one tablet on the morning after they remember.
 They should not take two tablets on the same day but should return to taking one tablet once a week, as originally scheduled on their chosen day.
-
-## 17.3 FDA-Approved Patient Labeling
