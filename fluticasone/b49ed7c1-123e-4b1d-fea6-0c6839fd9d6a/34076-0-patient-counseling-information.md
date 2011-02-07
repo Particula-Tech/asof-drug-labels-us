@@ -11,7 +11,7 @@ Rinsing the mouth after inhalation is advised.
 ## 17.2 Status Asthmaticus and Acute Asthma Symptoms
 
 Patients should be advised that FLOVENT HFA is not a bronchodilator and is not intended for use as rescue medication for acute asthma exacerbations.
-Acute asthma symptoms should be treated with an inhaled, short-acting beta-2 agonist such as albuterol.
+Acute asthma symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
 Patients should be instructed to contact their physicians immediately if there is deterioration of their asthma.
 
 ## 17.3 Immunosuppression
@@ -59,11 +59,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-November 2010
+January 2011
 
-FLH:2PI
+FLH:3PI
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT

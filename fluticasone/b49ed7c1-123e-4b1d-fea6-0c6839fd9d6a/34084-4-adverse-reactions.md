@@ -61,6 +61,8 @@ Endocrine and Metabolic: Cushingoid features, growth velocity reduction in child
 
 Eye: Cataracts.
 
+Gastrointestinal Disorders: Dental caries and tooth discoloration.
+
 Psychiatry: Agitation, aggression, anxiety, depression, and restlessness.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 
