@@ -42,7 +42,7 @@ Treatment-Emergent Adverse Event Incidence in the Dose-Response Triala
 | Anorexia | 1 | <1 |
 | Musculoskeletal |  |  |
 | Arthralgia | 4 | 3 |
-| Myalgia | 3 | 1 |
+| Myalgia | 2 | 1 |
 | Nervous system |  |  |
 | Insomnia | 31 | 21 |
 | Dizziness | 8 | 7 |
