@@ -16,7 +16,15 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
 [See Dosage and Administration (2) and Adverse Reactions (6.3)]
 
-## 5.4 Combination Use of PRILOSEC with Amoxicillin
+## 5.4 Diminished Anti-platelet Activity of clopidogrel Due to Impaired CYP2C19 Function by Omeprazole
+
+Clopidogrel is a prodrug.
+Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity.
+Avoid concomitant use of clopidogrel and omeprazole.
+Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Drug Interactions (7)].
+
+## 5.5 Combination Use of PRILOSEC with Amoxicillin
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
@@ -35,7 +43,7 @@ After the diagnosis of pseudomembranous colitis has been established, therapeuti
 Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
 
-## 5.5 Combination Use of PRILOSEC with Clarithromycin
+## 5.6 Combination Use of PRILOSEC with Clarithromycin
 
 Clarithromycin should not be used in pregnant women except in clinical circumstances where no alternative therapy is appropriate.
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.

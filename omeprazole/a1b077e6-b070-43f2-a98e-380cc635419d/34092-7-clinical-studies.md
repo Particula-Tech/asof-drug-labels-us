@@ -6,7 +6,7 @@ Active Duodenal Ulcer— In a multicenter, double-blind, placebo-controlled stud
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | (n=99) | (n=48) |
+|  | (n = 99) | (n = 48) |
 | --- | --- | --- |
 |  | PRILOSEC 20 mg a.m. | Placebo a.m. |
 | Week 2 | (p ≤ 0.01)41 | 13 |
@@ -35,7 +35,7 @@ At 2 and 4 weeks both doses of PRILOSEC were statistically superior (per protoco
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | 20 mg (n=34) | 40 mg (n=36) | 150 mg twice daily (n=35) |
+|  | 20 mg (n = 34) | 40 mg (n = 36) | 150 mg twice daily (n = 35) |
 | --- | --- | --- | --- |
 |  | PRILOSEC |  | Ranitidine |
 | Week 2 | (p ≤ 0.01)83 | 83 | 53 |
@@ -167,7 +167,7 @@ Results to determine maintenance of healing of erosive esophagitis are shown bel
 
 Life Table Analysis
 
-|  | PRILOSEC20 mg once daily(n=138) | PRILOSEC20 mg 3 days per week(n=137) | Placebo(n=131) |
+|  | PRILOSEC20 mg once daily(n = 138) | PRILOSEC20 mg 3 days per week(n = 137) | Placebo(n = 131) |
 | --- | --- | --- | --- |
 | Percent in endoscopic remission at 6 months | (p < 0.01) PRILOSEC 20 mg once daily versus PRILOSEC 20 mg 3 consecutive days per week or placebo.70 | 34 | 11 |
 
@@ -176,7 +176,7 @@ The table below provides the results of this study for maintenance of healing of
 
 Life Table Analysis
 
-|  | PRILOSEC20 mg once daily(n=131) | PRILOSEC10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
+|  | PRILOSEC20 mg once daily(n = 131) | PRILOSEC10 mg once daily(n = 133) | Ranitidine150 mg twice daily(n = 128) |
 | --- | --- | --- | --- |
 | Percent in endoscopic remission at 12 months | (p = 0.01) PRILOSEC 20 mg once daily, versus PRILOSEC 10 mg once daily or Ranitidine.77 | (p = 0.03) PRILOSEC 10 mg once daily, versus Ranitidine.58 | 46 |
 

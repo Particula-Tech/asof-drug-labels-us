@@ -87,3 +87,8 @@ For patients with a nasogastric or gastric tube in place:
 - Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
 - Refill the syringe with an equal amount of water.
 - Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
+
+## 2.9 Use with clopidogrel
+
+Avoid concomitant use of clopidogrel and omeprazole.
+Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].

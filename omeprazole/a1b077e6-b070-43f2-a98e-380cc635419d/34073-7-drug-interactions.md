@@ -52,6 +52,21 @@ Cmax and AUC of one of its active metabolites, 3,4- dihydro-cilostazol, which ha
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
 
+clopidogrel
+
+Omeprazole is an inhibitor of CYP2C19 enzyme.
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.4)].
+
+In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
+The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
+The active metabolite of clopidogrel selectively and irreversibly inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor, thereby inhibiting platelet aggregation.
+The mean inhibition of platelet aggregation at 5 mcM ADP was diminished by 39% (Day 1) and 21% (Day 5) when clopidogrel and omeprazole were administered together.
+
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.4)].
+
+There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
+
 ## 7.4 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.

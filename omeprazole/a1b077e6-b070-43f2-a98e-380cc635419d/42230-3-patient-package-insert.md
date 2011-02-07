@@ -2,9 +2,9 @@
 
 PRILOSEC (pry’-lo-sec) (omeprazole) Delayed-Release Capsules
 
-and
+And
 
-PRILOSEC (pry’-lo-sec) (omeprazole magnesium) Delayed-Release Oral Suspension
+Delayed-Release Oral Suspension
 
 Read the patient information that comes with PRILOSEC before you start taking it and each time you get a refill.
 There may be new information.
@@ -77,6 +77,7 @@ Especially tell your doctor if you take:
 - diazepam (Valium)
 - phenytoin (Dilantin)
 - disulfiram (Antabuse)
+- clopidogrel (Plavix)
 
 HOW SHOULD I TAKE PRILOSEC?
 
@@ -171,7 +172,7 @@ PRILOSEC for Delayed-Release Oral Suspension:
 
 WHAT ARE THE INGREDIENTS IN PRILOSEC?
 
-Active ingredient in PRILOSEC Delayed-Release Capsules: omeprazole, omeprazole magnesium
+Active ingredient in PRILOSEC Delayed-Release Capsules: omeprazole
 
 Inactive ingredients in PRILOSEC Delayed-Release Capsules (including the capsule shells): cellulose, disodium hydrogen phosphate, hydroxypropyl cellulose, hypromellose, lactose, mannitol, sodium lauryl sulfate, gelatin-NF, FD&C Blue #1, FD&C Red #40, D&C Red #28, titanium dioxide, synthetic black iron oxide, isopropanol, butyl alcohol, FD&C Blue #2, D&C Red #7 Calcium Lake, and, in addition, the 10 mg and 40 mg capsule shells also contain D&C Yellow #10.
 
@@ -190,4 +191,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-August 2010
+January 2011

@@ -122,9 +122,9 @@ Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (μg/g)
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
-| Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n=5) |
-| Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
-| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
+| Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n = 5) |
+| Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n = 5) |
+| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n = 4) |
 
 Special Populations
 
