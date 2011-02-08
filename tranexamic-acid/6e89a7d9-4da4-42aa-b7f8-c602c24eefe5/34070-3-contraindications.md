@@ -6,3 +6,4 @@ CYKLOKAPRON Injection is contraindicated:
 2. In patients with subarachnoid hemorrhage.
    Anecdotal experience indicates that cerebral edema and cerebral infarction may be caused by CYKLOKAPRON in such patients.
 3. In patients with active intravascular clotting.
+4. In patients with hypersensitivity to tranexamic acid or any of the ingredients.

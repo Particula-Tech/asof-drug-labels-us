@@ -4,7 +4,7 @@ Each mL of the sterile solution for intravenous injection contains 100 mg tranex
 
 ## FORMULATION
 
-Chemical Name: trans-4-(aminomethyl) cyclohexanecarboxylic acid.
+Chemical Name: trans-4-(aminomethyl)cyclohexanecarboxylic acid
 
 Structural Formula:
 

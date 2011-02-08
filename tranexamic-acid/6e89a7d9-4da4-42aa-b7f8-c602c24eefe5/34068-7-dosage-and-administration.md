@@ -11,7 +11,7 @@ Note: For patients with moderate to severe impaired renal function, the followin
 | 250 to 500 (2.83 to 5.66 mg/dL) | 10 mg/kg daily |
 | >500 (>5.66 mg/dL) | 10 mg/kg every 48 hours or 5 mg/kg every 24 hours |
 
-For intravenous infusion, CYKLOKAPRON Injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions and Dextran solutions.
+For intravenous infusion, CYKLOKAPRON Injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions, and Dextran solutions.
 The mixture should be prepared the same day the solution is to be used.
 Heparin may be added to CYKLOKAPRON Injection.
 CYKLOKAPRON Injection should NOT be mixed with blood.
