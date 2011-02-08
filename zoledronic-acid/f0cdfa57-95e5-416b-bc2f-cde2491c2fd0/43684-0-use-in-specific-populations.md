@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-ZOMETA SHOULD NOT BE USED DURING PREGNANCY.
+Zometa should not be used during pregnancy.
 There are no studies in pregnant women using Zometa.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant [see Warnings And Precautions (5.4)].

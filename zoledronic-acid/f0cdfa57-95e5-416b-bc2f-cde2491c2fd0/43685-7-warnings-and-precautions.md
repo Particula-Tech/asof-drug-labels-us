@@ -44,7 +44,7 @@ Clinical judgment of the treating physician should guide the management plan of 
 
 ## 5.5 Pregnancy
 
-ZOMETA SHOULD NOT BE USED DURING PREGNANCY.
+Zometa should not be used during pregnancy.
 Zometa may cause fetal harm when administered to a pregnant woman.
 In reproductive studies in the pregnant rat, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure (an IV dose if 4 mg based on an AUC comparison) resulted in pre- and postimplantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use In Specific Populations (8.1)].

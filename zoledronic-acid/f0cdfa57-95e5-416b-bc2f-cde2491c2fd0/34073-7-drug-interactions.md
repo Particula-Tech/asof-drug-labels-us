@@ -3,7 +3,6 @@
 In-vitro studies indicate that zoledronic acid is approximately 22% bound to plasma proteins.
 In-vitro studies also indicate that zoledronic acid does not inhibit microsomal CYP450 enzymes.
 In-vivo studies showed that zoledronic acid is not metabolized, and is excreted into the urine as the intact drug.
-However, no in-vivo drug interaction studies have been performed.
 
 ## 7.1 Aminoglycosides
 
@@ -20,4 +19,6 @@ Caution is indicated when Zometa is used with other potentially nephrotoxic drug
 
 ## 7.4 Thalidomide
 
-In multiple myeloma patients, the risk of renal dysfunction may be increased when Zometa is used in combination with thalidomide.
+No dose adjustment for Zometa 4 mg is needed when co-administered with thalidomide.
+In a pharmacokinetic study of 24 patients with multiple myeloma, Zometa 4 mg given as a 15 minute infusion was administered either alone or with thalidomide (100 mg once daily on days 1-14 and 200 mg once daily on days 15-28).
+Co-administration of thalidomide with Zometa did not significantly change the pharmacokinetics of zoledronic acid or creatinine clearance.
