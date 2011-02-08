@@ -29,7 +29,7 @@ Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral
 | --- | --- | --- | --- | --- |
 | SANCTURA XR® 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0-7.5) | 36 ± 22 |
 | a Tmax expressed as median (range). |  |  |  |  |
-| b t ½ was determined following multiple (10) doses. |  |  |  |  |
+| b t½ was determined following multiple (10) doses. |  |  |  |  |
 
 The mean sample concentration-time (+ standard deviation) profile for SANCTURA XR® is shown in Figure 1.
 
@@ -39,12 +39,12 @@ Administration of SANCTURA XR® capsules immediately after a high (50%) fat-cont
 Other pharmacokinetic parameters such as Tmax and t½ were unchanged in the presence of food.
 Co-administration with antacid had inconsistent effects on the oral bioavailability of SANCTURA XR®.
 
-Distribution: Protein binding ranged from 48 to 78%, depending upon the assessment method used, when a range of concentration levels of trospium chloride (0.5-100 μg/L) were incubated in vitro with human serum.
+Distribution: Protein binding ranged from 48 to 78%, depending upon the assessment method used, when a range of concentration levels of trospium chloride (0.5-100 mcg/L) were incubated in vitro with human serum.
 
 The ratio of 3H-trospium chloride in plasma to whole blood was 1.6:1.
-This ratio indicates that the majority of 3H- trospium chloride is distributed in plasma.
+This ratio indicates that the majority of 3H-trospium chloride is distributed in plasma.
 
-Trospium chloride is widely distributed, with an apparent volume of distribution >600 L.
+Trospium chloride is widely distributed, with an apparent volume of distribution greater than 600 L.
 
 Metabolism: The metabolic pathway of trospium in humans has not been fully defined.
 Of the dose absorbed following oral administration, metabolites account for approximately 40% of the excreted dose.
@@ -61,7 +61,7 @@ There may be competition for elimination with other compounds that are also rena
 
 Pharmacokinetics in Specific Populations
 
-Age: In a phase 3 clinical trial of SANCTURA XR®, the observed plasma trospium concentrations were similar in older (≥ 65 years) and younger (< 65 years) OAB patients.
+Age: In a phase 3 clinical trial of SANCTURA XR®, the observed plasma trospium concentrations were similar in older (greater than or equal to 65 years) and younger (less than 65 years) OAB patients.
 
 Pediatric: The pharmacokinetics of SANCTURA XR® were not evaluated in pediatric patients.
 
@@ -74,6 +74,6 @@ Hepatic: There is no information regarding the effect of moderate to severe hepa
 
 Renal Impairment: The pharmacokinetics of SANCTURA XR® in patients with severe renal impairment has not been evaluated.
 
-In a study of an immediate-release formulation of trospium chloride, 4.5-fold and 2-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment (creatinine clearance < 30 mL/minute), compared with healthy subjects, along with the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours).
+In a study of an immediate-release formulation of trospium chloride, 4.5-fold and 2-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment (creatinine clearance less than 30 mL/minute), compared with healthy subjects, along with the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours).
 Use of SANCTURA XR® is not recommended in patients with severe renal impairment (see Dosage and Administration (2)).
 The pharmacokinetics of trospium chloride have not been studied in people with mild or moderate renal impairment (CLcr ranging from 30-80 mL/min).

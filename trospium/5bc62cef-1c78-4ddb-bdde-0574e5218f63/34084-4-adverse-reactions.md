@@ -34,7 +34,8 @@ Table 1: Incidence of treatment-emergent adverse events reported in at least 1% 
 | Constipation aggravated | 3 (0.5) | 7 (1.2) |
 | Abdominal distension | 2 (0.3) | 6 (1.0) |
 | Nasal dryness | 0 (0.0) | 6 (1.0) |
-| Additional adverse events reported in less than 1% of SANCTURA XR®-treated patients and more common for SANCTURA XR® than placebo, judged by the investigator at least possibly related to treatment were: vision blurred, feces hard, back pain, somnolence, urinary retention, and dry skin. |  |  |
+
+Additional adverse events reported in less than 1% of SANCTURA XR® treated patients and more common for SANCTURA XR® than placebo, judged by the investigator at least possibly related to treatment were: vision blurred, feces hard, back pain, somnolence, urinary retention, and dry skin.
 
 Table 2 lists all treatment-emergent adverse events for the trials reported in at least 2% of all SANCTURA XR® patients and more common for the SANCTURA XR® group than for placebo without regard to the investigator's judgment on drug relatedness.
 
@@ -48,7 +49,8 @@ Table 2: Incidence of treatment-emergent adverse events reported in at least 2% 
 | Urinary tract infection | 29 (4.9) | 42 (7.3) |
 | Nasopharyngitis | 10 (1.7) | 17 (2.9) |
 | Influenza | 9 (1.5) | 13 (2.2) |
-| Additional adverse events reported in less than 2% of SANCTURA XR®-treated patients and twice as frequent for SANCTURA XR® compared to placebo, regardless of reported relationship to treatment were: tachycardia, dry eyes, abdominal pain, dyspepsia, abdominal distension, constipation aggravated, nasal dryness, and rash. |  |  |
+
+Additional adverse events reported in less than 2% of SANCTURA XR® treated patients and twice as frequent for SANCTURA XR® compared to placebo, regardless of reported relationship to treatment were: tachycardia, dry eyes, abdominal pain, dyspepsia, abdominal distension, constipation aggravated, nasal dryness, and rash.
 
 In the open-label treatment phase, the most common TEAEs reported in the 769 patients with at least 6 months exposure to SANCTURA XR® were: constipation, and dry mouth.
 Urinary tract infection and rash was also reported in several patients, including one of each judged by the investigator to be possibly related to treatment.
@@ -71,4 +73,4 @@ In the two Phase 3 SANCTURA XR® trials the mean increase in heart rate compared
 
 The following adverse reactions have been identified during European and US postapproval use of trospium chloride 20 mg BID.
 
-Reported events have included: Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
+Reported events have included: Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General – rash.

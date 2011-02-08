@@ -1,8 +1,6 @@
 Patient Information
 
-SANCTURA XR® [SANK-TOUR-AH EKS-AHR]
-
-(trospium chloride extended release capsules)
+SANCTURA XR® [SANK-TOUR-AH EKS-AHR] (trospium chloride extended release capsules)
 
 Read the Patient Information that comes with SANCTURA XR® before you start taking it and each time you get a refill.
 There may be new information.
@@ -41,7 +39,8 @@ Tell your doctor about all of your medical conditions including if you:
   It is not known if SANCTURA XR® can harm your unborn baby.
 - are breastfeeding.
   It is not known if SANCTURA XR® passes into breast milk and if it can harm your baby.
-  You should talk to your doctor about the best way to feed your baby if you are taking SANCTURA XR®.
+
+You should talk to your doctor about the best way to feed your baby if you are taking SANCTURA XR®.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 SANCTURA XR® and certain other medicines can interact and make some side effects worse.
@@ -61,6 +60,10 @@ Take SANCTURA XR® exactly as prescribed.
 
 What are the possible side effects of SANCTURA XR®?
 
+SANCTURA XR® may cause allergic reactions that may be serious.
+Symptoms of a serious allergic reaction may include swelling of the face, lips, throat or tongue.
+If you experience these symptoms, you should stop taking SANCTURA XR® and get emergency medical help right away.
+
 The most common side effects with SANCTURA XR® are:
 
 - dry mouth;
@@ -72,7 +75,8 @@ SANCTURA XR® may cause other less common side effects, including:
 - blurred vision;
 - heat prostration.
   Due to decreased sweating, heat prostration can occur when drugs such as SANCTURA XR® are used in a hot environment.
-  Tell your doctor if you have any side effects that bother you or that do not go away.
+
+Tell your doctor if you have any side effects that bother you or that do not go away.
 
 These are not all possible side effects of SANCTURA XR®.
 For more information, ask your doctor, healthcare professional or pharmacist.
@@ -105,6 +109,6 @@ Manufactured for: Allergan, Inc. Irvine, CA 92612, U.S.A.
 
 Manufactured by: Catalent Pharma Solutions, Inc. Somerset, NJ 08873, U.S.A.
 
-© 2009 Allergan, Inc. Irvine, CA 92612, U.S.A. ® mark owned by Allergan, Inc. Opadry is a registered trademark of BPSI Holdings, Inc.
+© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® mark owned by Allergan, Inc. Opadry is a registered trademark of BPSI Holdings, Inc.
 
-71966US13A 750-04191R2
+71996US14C

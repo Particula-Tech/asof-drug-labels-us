@@ -1,4 +1,4 @@
-# 14 Clinical Studies
+# 14 CLINICAL STUDIES
 
 SANCTURA XR® was evaluated for the treatment of patients with overactive bladder who had symptoms of urinary frequency, urgency and urge urinary incontinence in two 12-week, randomized, double-blind, placebo-controlled studies.
 For both studies, entry criteria required the presence of urge incontinence (predominance of urge), at least one incontinence episode per day, and 10 or more micturitions (voids) per day (assessed by 3-day urinary diary).

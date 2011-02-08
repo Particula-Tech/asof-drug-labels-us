@@ -16,7 +16,7 @@ The effect of SANCTURA XR® capsules on labor and delivery is unknown.
 
 ## 8.3 Nursing Mothers
 
-Trospium chloride (2 mg/kg PO and 50 μg/kg IV) was excreted, to a limited extent (<1%), into the milk of lactating rats (primarily parent compound).
+Trospium chloride (2 mg/kg PO and 50 mcg/kg IV) was excreted, to a limited extent (less than1%), into the milk of lactating rats (primarily parent compound).
 It is not known whether this drug is excreted into human milk.
 Because many drugs are excreted into human milk, SANCTURA XR® should be used during lactation only if the potential benefit justifies the potential risk.
 
@@ -34,7 +34,7 @@ In subjects ages 75 and over, three reported a fall and in one of them a relatio
 
 ## 8.6 Renal Impairment
 
-Severe renal impairment (creatinine clearance < 30 mL/minute) may significantly alter the disposition of SANCTURA XR®.
+Severe renal impairment (creatinine clearance less than 30 mL/minute) may significantly alter the disposition of SANCTURA XR®.
 In a study of immediate-release trospium chloride, 4.5-fold and 2-fold increases in mean AUC and Cmax, respectively, were detected in patients with severe renal impairment.
 Use of SANCTURA XR® is not recommended in patients with severe renal impairment (see Clinical Pharmacology (12)).
 The pharmacokinetics of trospium chloride have not been studied in people with moderate or mild renal impairment (CLcr ranging from 30-80 mL/min).

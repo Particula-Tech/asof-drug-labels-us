@@ -2,6 +2,9 @@
 
 See Patient Information Sheet for additional details
 
+Patients should be informed that SANCTURA XR® may produce angioedema which could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue SANCTURA XR® therapy and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing.
+
 Prior to treatment, patients should fully understand the risks and benefits of SANCTURA XR®.
 In particular, patients should be informed not to take SANCTURA XR® capsules if they:
 
@@ -19,4 +22,4 @@ Patients should be instructed regarding the recommended dosing and administratio
 Patients should be informed that the most common side effects with SANCTURA XR® are dry mouth and constipation and that other less common side effects include trouble emptying the bladder, blurred vision, and heat prostration.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
 
----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
