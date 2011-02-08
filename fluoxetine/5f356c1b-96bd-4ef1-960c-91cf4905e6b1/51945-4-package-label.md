@@ -1,4 +1,4 @@
-PACKAGE LABEL- Prozac 90 mg Pulvules Weekly
+PACKAGE LABEL- Prozac 90 mg Capsules Weekly
 
 2 Blister packs of 2 capsules
 
@@ -10,13 +10,13 @@ PROZAC Weekly
 
 Fluoxetine Delayed-Release Capsules, USP
 
-Delayed release capsules Rx only
+Delayed release capsules
 
-Once weekly
+once weekly
 
-Each capsule
+each capsule
 
-Equivalent to 90 mg
+equivalent to 90 mg
 
 Rx only
 

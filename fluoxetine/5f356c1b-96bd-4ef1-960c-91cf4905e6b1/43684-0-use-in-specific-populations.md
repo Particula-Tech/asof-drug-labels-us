@@ -29,7 +29,7 @@ Physicians should note that in a prospective longitudinal study of 201 women wit
 The physician may consider tapering PROZAC in the third trimester [see Dosage and Administration (2.7)].
 
 Animal Data — In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
-However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
+However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
 There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
 The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
 
