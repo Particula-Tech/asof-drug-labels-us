@@ -12,7 +12,7 @@ FLUOXETINE CAPSULES, USP
 
 Equiv. to 10 mg Fluoxetine
 
-Rx Only
+Rx only
 
 DISTA
 
