@@ -22,7 +22,7 @@ Labetalol hydrochloride injection 200 mg is added to 160 mL of a commonly used i
 The diluted solution should be administered at a rate of 2 mL/min to deliver 2 mg/min.
 
 Alternatively, 200 mg of labetalol hydrochloride injection is added to 250 mL of a commonly used intravenous fluid.
-The resultant solution will contain 200 mgof labetalol hydrochloride, approximately 2 mg/3 mL.
+The resultant solution will contain 200 mg of labetalol hydrochloride, approximately 2 mg/3 mL.
 The diluted solution should be administered at a rate of 3 mL/min to deliver approximately 2 mg/min.
 
 The rate of infusion of the diluted solution may be adjusted according to the blood pressure response, at the discretion of the physician.

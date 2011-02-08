@@ -8,19 +8,19 @@ Increased sweating was noted in 4 of 100 patients, and flushing occurred in 1 of
 
 The following also were reported with labetalol injection with the incidence per 100 patients as noted:
 
-Cardiovascular System Ventricular arrhythmia in 1.
+Cardiovascular System: Ventricular arrhythmia in 1.
 
-Central and Peripheral Nervous Systems Dizziness in 9; tingling of the scalp/skin 7; hypoesthesia (numbness) and vertigo, 1 each.
+Central and Peripheral Nervous Systems: Dizziness in 9; tingling of the scalp/skin 7; hypoesthesia (numbness) and vertigo, 1 each.
 
-Gastrointestinal System Nausea in 13; vomiting 4; dyspepsia and taste distortion, 1 each.
+Gastrointestinal System: Nausea in 13; vomiting 4; dyspepsia and taste distortion, 1 each.
 
-Metabolic Disorders Transient increases in blood urea nitrogen and serum creatinine levels occurred in 8 of 100 patients; these were associated with drops in blood pressure, generally in patients with prior renal insufficiency.
+Metabolic Disorders: Transient increases in blood urea nitrogen and serum creatinine levels occurred in 8 of 100 patients; these were associated with drops in blood pressure, generally in patients with prior renal insufficiency.
 
-Psychiatric Disorders Somnolence/yawning in 3.
+Psychiatric Disorders: Somnolence/yawning in 3.
 
-Respiratory System Wheezing in 1.
+Respiratory System: Wheezing in 1.
 
-Skin Pruritus in 1.
+Skin: Pruritus in 1.
 
 The incidence of adverse reactions depends upon the dose of labetalol.
 The largest experience is with oral labetalol.
@@ -42,11 +42,11 @@ Certain of the side effects increased with increasing oral dose as shown in the 
 
 In addition, a number of other less common adverse events have been reported:
 
-Cardiovascular Hypotension, and rarely, syncope, bradycardia, heart block.
+Cardiovascular: Hypotension, and rarely, syncope, bradycardia, heart block.
 
-Liver and Biliary System Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
+Liver and Biliary System: Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
 
-Hypersensitivity Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
+Hypersensitivity: Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with labetalol during investigational use and extensive foreign marketing experience.
 

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075239"
+  ],
   "inn": "labetalol",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-2339-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
   "setid": "d3579d45-a964-40fe-e3a2-a3a997c8b7b9",
   "source": "dailymed"
 }

@@ -1,6 +1,6 @@
 # WARNINGS
 
-Hepatic Injury Severe hepatocellular injury, confirmed by rechallenge in at least one case, occurs rarely with labetalol therapy.
+Hepatic Injury: Severe hepatocellular injury, confirmed by rechallenge in at least one case, occurs rarely with labetalol therapy.
 The hepatic injury is usually reversible, but hepatic necrosis and death have been reported.
 Injury has occurred after both short- and long-term treatment and may be slowly progressive despite minimal symptomatology.
 Similar hepatic events have been reported with a related compound, dilevalol HCl, including two deaths.
@@ -9,32 +9,32 @@ Thus, for patients taking labetalol, periodic determination of suitable hepatic 
 Laboratory testing should also be done at the very first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, persistent anorexia, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms).
 If the patient has jaundice or laboratory evidence of liver injury, labetalol should be stopped and not restarted.
 
-Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure.
+Cardiac Failure: Sympathetic stimulation is a vital component supporting circulatory function in congestive heart failure.
 Beta-blockade carries a potential hazard of further depressing myocardial contractility and precipitating more severe failure.
 Although beta-blockers should be avoided in overt congestive heart failure, if necessary, labetalol can be used with caution in patients with a history of heart failure, who are well compensated.
 Congestive heart failure has been observed in patients receiving labetalol.
 Labetalol does not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients Without a History of Cardiac Failure In patients with latent cardiac insufficiency, continued depression of the myocardium with beta-blocking agents over a period of time can lead, in some cases, to cardiac failure.
+In Patients Without a History of Cardiac Failure: In patients with latent cardiac insufficiency, continued depression of the myocardium with beta-blocking agents over a period of time can lead, in some cases, to cardiac failure.
 At the first sign or symptom of impending cardiac failure, patients should be fully digitalized and/or be given a diuretic, and the response observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic, labetalol therapy should be withdrawn (gradually if possible).
 
-Ischemic Heart Disease Angina pectoris has not been reported upon labetalol discontinuation.
+Ischemic Heart Disease: Angina pectoris has not been reported upon labetalol discontinuation.
 However, following abrupt cessation of therapy with some beta-blocking agents in patients with coronary artery disease, exacerbations of angina pectoris and, in some cases, myocardial infarction have been reported.
 Therefore, such patients should be cautioned against interruption of therapy without the physician’s advice.
 Even in the absence of overt angina pectoris, when discontinuation of labetalol is planned, the patient should be carefully observed and should be advised to limit physical activity.
 If angina markedly worsens or acute coronary insufficiency develops, labetalol administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken.
 
-Nonallergic Bronchospasm (e.g., chronic bronchitis and emphysema) Since labetalol injection at the usual intravenous therapeutic doses has not been studied in patients with nonallergic bronchospastic disease, it should not be used in such patients.
+Nonallergic Bronchospasm: (e.g., chronic bronchitis and emphysema) Since labetalol injection at the usual intravenous therapeutic doses has not been studied in patients with nonallergic bronchospastic disease, it should not be used in such patients.
 
-Pheochromocytoma Intravenous labetalol has been shown to be effective in lowering the blood pressure and relieving symptoms in patients with pheochromocytoma; higher than usual doses may be required.
+Pheochromocytoma: Intravenous labetalol has been shown to be effective in lowering the blood pressure and relieving symptoms in patients with pheochromocytoma; higher than usual doses may be required.
 However, paradoxical hypertensive responses have been reported in a few patients with this tumor; therefore, use caution when administering labetalol to patients with pheochromocytoma.
 
-Diabetes Mellitus and Hypoglycemia Beta-adrenergic blockade may prevent the appearance of premonitory signs and symptoms (e.g., tachycardia) of acute hypoglycemia.
+Diabetes Mellitus and Hypoglycemia: Beta-adrenergic blockade may prevent the appearance of premonitory signs and symptoms (e.g., tachycardia) of acute hypoglycemia.
 This is especially important with labile diabetics.
 Beta-blockade also reduces the release of insulin in response to hyperglycemia; it may therefore be necessary to adjust the dose of antidiabetic drugs.
 
-Major Surgery The necessity or desirability of withdrawing beta-blocking therapy prior to major surgery is controversial.
+Major Surgery: The necessity or desirability of withdrawing beta-blocking therapy prior to major surgery is controversial.
 Protracted severe hypotension and difficulty in restarting or maintaining a heartbeat have been reported with beta-blockers.
 The effect of labetalol’s alpha-adrenergic activity has not been evaluated in this setting.
 
@@ -42,7 +42,7 @@ Several deaths have occurred when labetalol injection was used during surgery (i
 
 A synergism between labetalol and halothane anesthesia has been shown (see PRECAUTIONS - Drug Interactions).
 
-Rapid Decreases of Blood Pressure Caution must be observed when reducing severely elevated blood pressure.
+Rapid Decreases of Blood Pressure: Caution must be observed when reducing severely elevated blood pressure.
 A number of adverse reactions, including cerebral infarction, optic nerve infarction, angina, and ischemic changes in the electrocardiogram, have been reported with other agents when severely elevated blood pressure was reduced over time courses of several hours to as long as 1 or 2 days.
 The desired blood pressure lowering should therefore be achieved over as long a period of time as is compatible with the patient's status.
 
@@ -50,18 +50,18 @@ The desired blood pressure lowering should therefore be achieved over as long a 
 
 ## General:
 
-Impaired Hepatic Function may diminish metabolism of labetalol injection.
+Impaired Hepatic Function: may diminish metabolism of labetalol injection.
 
-Following Coronary Artery Bypass Surgery In one uncontrolled study, patients with low cardiac indices and elevated systemic vascular resistance following intravenous labetalol experienced significant declines in cardiac output with little change in systemic vascular resistance.
+Following Coronary Artery Bypass Surgery: In one uncontrolled study, patients with low cardiac indices and elevated systemic vascular resistance following intravenous labetalol experienced significant declines in cardiac output with little change in systemic vascular resistance.
 One of these patients developed hypotension following labetalol treatment.
 Therefore, use of labetalol should be avoided in such patients.
 
-High-Dose Labetalol Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients experienced hypotension or bradycardia (see DOSAGE AND ADMINISTRATION).
+High-Dose Labetalol: Administration of up to 3 g/d as an infusion for up to 2 to 3 days has been anecdotally reported; several patients experienced hypotension or bradycardia (see DOSAGE AND ADMINISTRATION).
 
-Hypotension Symptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
+Hypotension: Symptomatic postural hypotension (incidence 58%) is likely to occur if patients are tilted or allowed to assume the upright position within 3 hours of receiving labetalol injection.
 Therefore, the patient's ability to tolerate an upright position should be established before permitting any ambulation.
 
-Jaundice or Hepatic Dysfunction (see WARNINGS).
+Jaundice or Hepatic Dysfunction: (see WARNINGS).
 
 ## Information for Patients:
 
@@ -105,7 +105,7 @@ Care should be taken if labetalol is used concomitantly with calcium antagonists
 When drug products that are alkaline, such as furosemide, have been administered in combination with labetalol, a white precipitate has been noted.
 Therefore, these drugs should not be administered in the same infusion line.
 
-Risk of Anaphylactic Reaction While taking beta-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Drug/Laboratory Test Interactions:
@@ -122,7 +122,7 @@ When patients being treated with labetalol have a positive urine test for amphet
 Long-term oral dosing studies with labetalol for 18 months in mice and for 2 years in rats showed no evidence of carcinogenesis.
 Studies with labetalol, using dominant lethal assays in rats and mice, and exposing microorganisms according to modified Ames tests, showed no evidence of mutagenesis.
 
-## Pregnancy: Teratogenic Effects: Pregnancy Category C
+## Pregnancy: Teratogenic Effects: Pregnancy Category C:
 
 Teratogenic studies have been performed with labetalol in rats and rabbits at oral doses up to approximately 6 and 4 times the maximum recommended human dose (MRHD), respectively.
 No reproducible evidence of fetal malformations was observed.
