@@ -33,6 +33,9 @@ Tell your doctor if you:
 - Are allergic to aspirin.
 - Are allergic to other things, such as foods, preservatives, or dyes.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 ## How should I use CANASA®?
 
 Follow your doctor’s instructions about how often to use CANASA® and how long to use it.
@@ -55,9 +58,8 @@ If you miss a dose of CANASA®, use it as soon as possible, unless it is almost 
 Do not use two CANASA® suppositories at the same time to make up for a missed dose.
 
 Keep using CANASA® as long as your doctor tells you to use it, even if you feel better.
-
 CANASA® can cause stains on things it touches.
-Therefore keep it away from clothing and other fabrics, flooring, painted surfaces, marble, granite, plastics, andenamel.
+Therefore keep it away from clothing and other fabrics, flooring, painted surfaces, marble, granite, plastics, and enamel.
 Be careful since CANASA® may stain clothing.
 
 ## What should I avoid while taking CANASA®?
@@ -82,9 +84,8 @@ If you notice any other side effects, check with your doctor or pharmacist.
 
 ## How should I store CANASA®?
 
-Store CANASA® below 25°C (77°F), do not freeze it.
+Store CANASA® below 25°C (77°F), may be refrigerated.
 Keep it away from direct heat, light, or humidity.
-Keep it out of the reach of children.
 
 ## General advice about prescription medicines
 

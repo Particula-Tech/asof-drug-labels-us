@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021252"
+  ],
   "inn": "mesalamine",
   "labeler": "Axcan Pharma US, Inc.",
   "package_ndcs": [
+    "58914-501-18",
+    "58914-501-33",
     "58914-501-42",
     "58914-501-56"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "mesalamine",
+      "name": "Canasa"
+    }
+  ],
   "setid": "89d91601-152b-4398-bebe-af1c023e9935",
   "source": "dailymed"
 }

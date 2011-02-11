@@ -37,9 +37,7 @@ Mesalamine was not mutagenic in the Ames test, the mouse lymphoma cell (TK±) fo
 No effects on fertility or reproductive performance of the male and female rats were observed at oral mesalamine doses up to 320 mg/kg/day (about 1.7 times the recommended human intra-rectal dose, based on body surface area).
 The oligospermia and infertility in men associated with sulfasalazine have not been reported with mesalamine.
 
-## Pregnancy
-
-### Teratogenic Effects, Pregnancy Category B
+## Pregnancy, Teratogenic Effects, Pregnancy Category B
 
 Teratology studies have been performed in rats at oral doses up to 320 mg/kg/day (about 1.7 times the recommended human intra-rectal dose, based on body surface area) and in rabbits at oral doses up to 495 mg/kg/day (about 5.4 times the recommended human intra-rectal dose, based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to mesalamine.
 There are, however, no adequate and well controlled studies in pregnant women.
