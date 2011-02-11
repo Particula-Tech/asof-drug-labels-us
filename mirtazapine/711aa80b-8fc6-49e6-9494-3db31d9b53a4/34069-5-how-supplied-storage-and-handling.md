@@ -37,7 +37,3 @@ Protect from light and moisture.
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
-
-REVISED SEPTEMBER 2009 MTZP:R14mc

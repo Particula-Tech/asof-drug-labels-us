@@ -5,8 +5,7 @@
 The recommended starting dose for mirtazapine tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
 In the controlled clinical trials establishing the efficacy of mirtazapine in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
 While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
-
-Mirtazapine has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than one to two weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
+Mirtazapine has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than 1 to 2 weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
 
 ## Elderly and Patients with Renal or Hepatic Impairment
 
@@ -22,5 +21,13 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## Switching Patients To or From a Monoamine Oxidase Inhibitor
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with mirtazapine tablets.
+Concomitant use of mirtazapine tablets with MAOIs is contraindicated.
+At least 14 days should lapse between discontinuation of an MAOI and initiation of therapy with mirtazapine tablets.
 In addition, at least 14 days should be allowed after stopping mirtazapine before starting an MAOI.
+
+## Discontinuation of Mirtazapine Treatment
+
+Symptoms associated with the discontinuation or dose reduction of mirtazapine tablets have been reported.
+Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
+A gradual reduction in the dose over several weeks, rather than abrupt cessation, is recommended whenever possible.
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, dose titration should be managed on the basis of the patient’s clinical response (see PRECAUTIONS and ADVERSE REACTIONS).

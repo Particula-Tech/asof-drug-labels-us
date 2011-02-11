@@ -2,7 +2,7 @@
 
 ## Associated with Discontinuation of Treatment
 
-Approximately 16 percent of the 453 patients who received mirtazapine tablets in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7 percent of 361 placebo-treated patients in those studies.
+Approximately 16% of the 453 patients who received mirtazapine tablets in U.S. 6-week controlled clinical trials discontinued treatment due to an adverse experience, compared to 7% of the 361 placebo-treated patients in those studies.
 The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate at least twice that of placebo) included:
 
 Common Adverse Events Associated with Discontinuation of Treatment in 6-Week U.S. Mirtazapine Trials
@@ -35,9 +35,9 @@ Reported adverse events were classified using a standard COSTART-based dictionar
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other investigations involving different treatments, uses and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non drug factors to the side effect incidence rate in the population studied.
+The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo ≥ mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
+INCIDENCE OF ADVERSE CLINICAL EXPERIENCESEvents reported by at least 1% of patients treated with mirtazapine are included, except the following events which had an incidence on placebo greater than or equal to mirtazapine: headache, infection, pain, chest pain, palpitation, tachycardia, postural hypotension, nausea, dyspepsia, diarrhea, flatulence, insomnia, nervousness, libido decreased, hypertonia, pharyngitis, rhinitis, sweating, amblyopia, tinnitus, taste perversion.
 (≥ 1%) IN SHORT-TERM U.S. CONTROLLED STUDIES)
 
 | Body System Adverse Clinical Experience | Mirtazapine (n = 453) | Placebo (n = 361) |
@@ -102,11 +102,11 @@ Endocrine System: rare: goiter, hypothyroidism.
 
 Hemic and Lymphatic System: rare: lymphadenopathy, leukopenia, petechia, anemia, thrombocytopenia, lymphocytosis, pancytopenia.
 
-Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus.
+Metabolic and Nutritional Disorders: frequent: thirst; infrequent: dehydration, weight loss; rare: gout, SGOT increased, healing abnormal, acid phosphatase increased, SGPT increased, diabetes mellitus, hyponatremia.
 
 Musculoskeletal System: frequent: myasthenia, arthralgia; infrequent: arthritis, tenosynovitis; rare: pathologic fracture, osteoporosis fracture, bone pain, myositis, tendon rupture, arthrosis, bursitis.
 
-Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia, stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome.
+Nervous System: frequent: hypesthesia, apathy, depression, hypokinesia, vertigo, twitching, agitation, anxiety, amnesia, hyperkinesia, paresthesia; infrequent: ataxia, delirium, delusions, depersonalization, dyskinesia, extrapyramidal syndrome, libido increased, coordination abnormal, dysarthria, hallucinations, manic reaction, neurosis, dystonia, hostility, reflexes increased, emotional lability, euphoria, paranoid reaction; rare: aphasia, nystagmus, akathisia (psychomotor restlessness), stupor, dementia, diplopia, drug dependence, paralysis, grand mal convulsion, hypotonia, myoclonus, psychotic depression, withdrawal syndrome, serotonin syndrome.
 
 Respiratory System: frequent: cough increased, sinusitis; infrequent: epistaxis, bronchitis, asthma, pneumonia; rare: asphyxia, laryngitis, pneumothorax, hiccup.
 
@@ -121,3 +121,5 @@ Urogenital System: frequent: urinary tract infection; infrequent: kidney calculu
 Adverse events reported since market introduction, which were temporally (but not necessarily causally) related to mirtazapine therapy, include four cases of the ventricular arrhythmia torsades de pointes.
 In three of the four cases, however, concomitant drugs were implicated.
 All patients recovered.
+
+Cases of severe skin reactions, including Stevens-Johnson Syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have also been reported.

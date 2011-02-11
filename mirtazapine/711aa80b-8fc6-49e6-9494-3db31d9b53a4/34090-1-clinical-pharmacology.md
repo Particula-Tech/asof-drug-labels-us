@@ -5,7 +5,7 @@
 The mechanism of action of mirtazapine, as with other drugs effective in the treatment of major depressive disorder, is unknown.
 
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α1 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2 adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
 
 Mirtazapine is a potent antagonist of 5-HT2 and 5-HT3 receptors.
 Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
@@ -74,7 +74,7 @@ Caution is indicated in administering mirtazapine to patients with compromised h
 The efficacy of mirtazapine tablets as a treatment for major depressive disorder was established in four placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
 Patients were titrated with mirtazapine from a dose range of 5 mg up to 35 mg/day.
 Overall, these studies demonstrated mirtazapine to be superior to placebo on at least three of the following four measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).
-Superiority of mirtazapine over placebo was also found for certain factors of the HDRS including anxiety/somatization factor and sleep disturbance factor.
+Superiority of mirtazapine over placebo was also found for certain factors of the HDRS, including anxiety/somatization factor and sleep disturbance factor.
 The mean mirtazapine dose for patients who completed these four studies ranged from 21 to 32 mg/day.
 A fifth study of similar design utilized a higher dose (up to 50 mg) per day and also showed effectiveness.
 
