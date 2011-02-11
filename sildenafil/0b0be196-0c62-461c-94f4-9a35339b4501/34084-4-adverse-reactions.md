@@ -90,3 +90,6 @@ Special Senses: diplopia, temporary vision loss/decreased vision, ocular redness
 Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including VIAGRA.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors (see PRECAUTIONS/Information for Patients).
+
+Hemic and Lymphatic: Vaso-occlusive crisis: In a small, prematurely terminated study of REVATIO in patients with pulmonary hypertension (PH) secondary to sickle cell disease, vaso-occlusive crises requiring hospitalization were more commonly reported in patients who received sildenafil than in those randomized to placebo.
+The clinical relevance of this finding to men treated with VIAGRA for ED is not known.

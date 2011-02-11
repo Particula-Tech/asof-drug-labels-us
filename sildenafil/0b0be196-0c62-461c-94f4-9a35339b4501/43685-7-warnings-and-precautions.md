@@ -13,7 +13,8 @@ There is no controlled clinical data on the safety or efficacy of VIAGRA in the 
 - Patients who have suffered a myocardial infarction, stroke, or life-threatening arrhythmia within the last 6 months;
 - Patients with resting hypotension (BP <90/50) or hypertension (BP >170/110);
 - Patients with cardiac failure or coronary artery disease causing unstable angina;
-- Patients with retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases).
+- Patients with retinitis pigmentosa (a minority of these patients have genetic disorders of retinal phosphodiesterases);
+- Patients with sickle cell or related anemias.
 
 Prolonged erection greater than 4 hours and priapism (painful erections greater than 6 hours in duration) have been reported infrequently since market approval of VIAGRA.
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.

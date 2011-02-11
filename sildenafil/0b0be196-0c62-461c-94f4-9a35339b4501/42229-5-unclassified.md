@@ -1,5 +1,3 @@
-Rx only
+LAB-0221-12.0
 
-LAB-0221-11.0
-
-January 2010
+January 2011
