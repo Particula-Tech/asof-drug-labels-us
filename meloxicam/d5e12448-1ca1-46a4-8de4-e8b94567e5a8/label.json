@@ -1,16 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078008"
+  ],
   "inn": "meloxicam",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-097-01",
     "65862-097-05",
+    "65862-097-61",
     "65862-097-99",
     "65862-098-01",
     "65862-098-05",
+    "65862-098-59",
     "65862-098-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "Meloxicam"
+    }
+  ],
   "setid": "d5e12448-1ca1-46a4-8de4-e8b94567e5a8",
   "source": "dailymed"
 }
