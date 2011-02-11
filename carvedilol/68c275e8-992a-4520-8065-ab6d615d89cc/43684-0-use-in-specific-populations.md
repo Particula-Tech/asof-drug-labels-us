@@ -2,7 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Studies performed in pregnant rats and rabbits given carvedilol revealed increased post-implantation loss in rats at doses of 300 mg/kg/day (50 times the maximum recommended human dose [MRHD] as mg/m2) and in rabbits at doses of 75 mg/kg/day (25 times the MRHD as mg/m2).
+### Teratogenic Effects
+
+#### Pregnancy category C
+
+Studies performed in pregnant rats and rabbits given carvedilol revealed increased post-implantation loss in rats at doses of 300 mg/kg/day (50 times the maximum recommended human dose [MRHD] as mg/m2) and in rabbits at doses of 75 mg/kg/day (25 times the MRHD as mg/m2).
 In the rats, there was also a decrease in fetal body weight at the maternally toxic dose of 300 mg/kg/day (50 times the MRHD as mg/m2), which was accompanied by an elevation in the frequency of fetuses with delayed skeletal development (missing or stunted 13th rib).
 In rats the no-observed-effect level for developmental toxicity was 60 mg/kg/day (10 times the MRHD as mg/m2); in rabbits it was 15 mg/kg/day (5 times the MRHD as mg/m2).
 There are no adequate and well-controlled studies in pregnant women.

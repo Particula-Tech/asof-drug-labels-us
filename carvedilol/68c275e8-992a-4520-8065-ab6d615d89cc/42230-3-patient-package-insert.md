@@ -12,8 +12,8 @@ What are carvedilol tablets?
 Carvedilol tablets are a prescription medicine that belongs to a group of medicines called "beta-blockers".
 Carvedilol tablets are used, often with other medicines, for the following conditions:
 
-- To treat patients with high blood pressure (hypertension)
 - To treat patients who had a heart attack that worsened how well the heart pumps
+- To treat patients with high blood pressure (hypertension)
 
 Carvedilol tablets are not approved for use in children under 18 years of age.
 
@@ -74,8 +74,8 @@ If your doctor decides that you should stop taking carvedilol tablets, your doct
 
 What should I avoid while taking carvedilol tablets?
 
-Carvedilol tablets can cause you to feel dizzy, tired, or faint.
-Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
+- Carvedilol tablets can cause you to feel dizzy, tired, or faint.
+  Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
 
 What are possible side effects of carvedilol tablets?
 
@@ -89,11 +89,10 @@ What are possible side effects of carvedilol tablets?
 - Carvedilol may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
 - Carvedilol may mask the symptoms of hyperthyroidism (overactive thyroid).
 - Worsening of severe allergic reactions.
-- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue and/or throat that may cause difficulty breathing or swallowing) have happened in patients who were on carvedilol.
+- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol.
   These reactions can be life-threatening.
 
 Other side effects of carvedilol tablets include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
-Rare serious allergic reactions have happened in patients who were on carvedilol tablets.
 
 Call your doctor if you have any side effects that bother you or don't go away.
 
@@ -125,6 +124,14 @@ Inactive Ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lac
 
 Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
+What is high blood pressure (hypertension)?
+
+Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too much.
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
+Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
+
 Manufactured In Israel By:
 
 TEVA PHARMACEUTICAL IND.
@@ -139,4 +146,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 1/2010
+E 1/2011
