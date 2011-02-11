@@ -1,10 +1,5 @@
 # 14 CLINICAL STUDIES
 
-The clinical evidence of the efficacy of Plavix is derived from three double-blind trials involving 77,599 patients.
-The CAPRIE study (Clopidogrel vs. Aspirin in Patients at Risk of Ischemic Events) was a comparison of Plavix to aspirin.
-The CURE (Clopidogrel in Unstable Angina to Prevent Recurrent Ischemic Events) and the COMMIT/CCS-2 (Clopidogrel and Metoprolol in Myocardial Infarction Trial / Second Chinese Cardiac Study) studies were comparisons of Plavix to placebo, given in combination with aspirin and other standard therapy.
-The CHARISMA (Clopidogrel for High Atherothrombotic Risk Ischemic Stabilization, Management, and Avoidance) study (n=15,603) also compared Plavix to placebo, given in combination with aspirin and other standard therapy.
-
 ## 14.1 Acute Coronary Syndrome
 
 CURE
@@ -105,7 +100,7 @@ Table 7: Outcome Events in the CAPRIE Primary Analysis
 | Other vascular death | 226 (2.4%) | 226 (2.4%) |
 | Total | 939 (9.8%) | 1020 (10.6%) |
 
-As shown in the table, Plavix was associated with a lower incidence of outcome events, primarily MI.
+As shown in Table 7, Plavix was associated with a lower incidence of outcome events, primarily MI.
 The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the Plavix group.

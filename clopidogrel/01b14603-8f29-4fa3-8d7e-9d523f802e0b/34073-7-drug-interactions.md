@@ -14,7 +14,7 @@ Similar reductions in exposure to the clopidogrel active metabolite and platelet
 There are no adequate studies of a lower dose of omeprazole or a higher dose of Plavix in comparison with the approved dose of Plavix.
 
 A study was conducted using Plavix (300 mg loading dose followed by 75 mg/day) and a high dose (80 mg/day) of pantoprazole, a PPI with less CYP2C19 inhibitory activity than omeprazole.
-The plasma concentrations of the clopidogrel active metabolite and the degree of platelet inhibition were less than observed with Plavix alone but were greater than observed when omeprazole 80 mg was co administered with 300 mg loading dose followed by 75 mg/day of Plavix (Table 3).
+The plasma concentrations of the clopidogrel active metabolite and the degree of platelet inhibition were less than observed with Plavix alone but were greater than observed when omeprazole 80 mg was co-administered with 300 mg loading dose followed by 75 mg/day of Plavix (Table 3).
 
 Table 3.
 Comparison of Clopidogrel Active Metabolite Exposure and Platelet Inhibition with and without Proton Pump Inhibitors, Omeprazole and Pantoprazole
@@ -23,7 +23,7 @@ Comparison of Clopidogrel Active Metabolite Exposure and Platelet Inhibition wit
 | --- | --- | --- | --- | --- | --- | --- |
 |  | % Change from Plavix (300 mg/75 mg) alone |  |  |  |  |  |
 | Plavix plus | Cmax (ng/mL) |  | AUC |  | Platelet InhibitionInhibition of platelet aggregation with 5 mcM ADP (%) |  |
-|  | Day 1 | Day 5 | Day 1 | Day 5AUC at Day 5 is AUC0-24 | Day 1 | Day 5 |
+|  | Day 1 | Day 5 | Day 1 | Day 5AUC at Day 5 is AUC0–24 | Day 1 | Day 5 |
 | Pantoprazole 80 mg | ↓24% | ↓28% | ↓20% | ↓14% | ↓15% | ↓11% |
 
 ## 7.2 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)

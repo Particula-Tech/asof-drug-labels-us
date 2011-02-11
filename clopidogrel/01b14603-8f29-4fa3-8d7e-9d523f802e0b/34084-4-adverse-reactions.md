@@ -24,22 +24,22 @@ The overall incidence of bleeding is described in Table 1.
 
 Table 1: CURE Incidence of Bleeding Complications (% patients)
 
-|  | (n=6259) | (n=6303) |  |
-| --- | --- | --- | --- |
-| Event | Plavix (+ aspirin)Other standard therapies were used as appropriate. | Placebo (+ aspirin) | p-value |
-| Major bleeding Life-threatening and other major bleeding. | 3.7 Major bleeding event rate for Plavix + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100–200 mg = 3.5%; >200 mg = 4.9% Major bleeding event rates for Plavix + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100–200 mg = 2.3%; >200 mg = 4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% | 0.001 |
-| Life-threatening bleeding | 2.2 | 1.8 | 0.13 |
-| Fatal | 0.2 | 0.2 |  |
-| 5 g/dL hemoglobin drop | 0.9 | 0.9 |  |
-| Requiring surgical intervention | 0.7 | 0.7 |  |
-| Hemorrhagic strokes | 0.1 | 0.1 |  |
-| Requiring inotropes | 0.5 | 0.5 |  |
-| Requiring transfusion (≥4 units) | 1.2 | 1.0 |  |
-| Other major bleeding | 1.6 | 1.0 | 0.005 |
-| Significantly disabling | 0.4 | 0.3 |  |
-| Intraocular bleeding with significant loss of vision | 0.05 | 0.03 |  |
-| Requiring 2–3 units of blood | 1.3 | 0.9 |  |
-| Minor bleeding Led to interruption of study medication. | 5.1 | 2.4 | < 0.001 |
+|  | (n=6259) | (n=6303) |
+| --- | --- | --- |
+| Event | Plavix (+ aspirin)Other standard therapies were used as appropriate. | Placebo (+ aspirin) |
+| Major bleeding Life-threatening and other major bleeding. | 3.7 Major bleeding event rate for Plavix + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100–200 mg = 3.5%; >200 mg = 4.9% Major bleeding event rates for Plavix + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% | 2.7 Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2.0%; 100–200 mg = 2.3%; >200 mg = 4.0% Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% |
+| Life-threatening bleeding | 2.2 | 1.8 |
+| Fatal | 0.2 | 0.2 |
+| 5 g/dL hemoglobin drop | 0.9 | 0.9 |
+| Requiring surgical intervention | 0.7 | 0.7 |
+| Hemorrhagic strokes | 0.1 | 0.1 |
+| Requiring inotropes | 0.5 | 0.5 |
+| Requiring transfusion (≥4 units) | 1.2 | 1.0 |
+| Other major bleeding | 1.6 | 1.0 |
+| Significantly disabling | 0.4 | 0.3 |
+| Intraocular bleeding with significant loss of vision | 0.05 | 0.03 |
+| Requiring 2–3 units of blood | 1.3 | 0.9 |
+| Minor bleeding Led to interruption of study medication. | 5.1 | 2.4 |
 
 Ninety-two percent (92%) of the patients in the CURE study received heparin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results.
 
@@ -79,15 +79,15 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP)
-- Gastrointestinal disorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis
+- Eye disorders: Eye (conjunctival, ocular, retinal) bleeding
+- Gastrointestinal disorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever, hemorrhage of operative wound
 - Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
 - Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - Musculoskeletal, connective tissue and bone disorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
-- Nervous system disorders: Taste disorders, fatal intracranial bleeding
-- Eye disorders: Eye (conjunctival, ocular, retinal) bleeding
+- Nervous system disorders: Taste disorders, fatal intracranial bleeding, headache
 - Psychiatric disorders: Confusion, hallucinations
 - Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding
-- Renal and urinary disorders: Glomerulopathy, increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, skin bleeding, lichen planus
+- Renal and urinary disorders: Increased creatinine levels
+- Skin and subcutaneous tissue disorders: Maculopapular or erythematous rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, skin bleeding, lichen planus, generalized pruritus
 - Vascular disorders: Vasculitis, hypotension

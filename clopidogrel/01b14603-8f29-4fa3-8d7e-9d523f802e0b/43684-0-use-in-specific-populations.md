@@ -23,8 +23,7 @@ Safety and effectiveness in the pediatric population have not been established.
 Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with Plavix were 65 years of age and older, and 15% were 75 years and older.
 In COMMIT, approximately 58% of the patients treated with Plavix were 60 years and older, 26% of whom were 70 years and older.
 
-The observed risk of thrombotic events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Figures 2 and 5 for the CURE and COMMIT trials, respectively [see Clinical Studies (14.1)].
-The observed risk of bleeding events with clopidogrel plus aspirin versus placebo plus aspirin by age category is provided in Tables 1 and 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
+The observed risk of bleeding events with Plavix plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively [see Adverse Reactions (6.1)].
 No dosage adjustment is necessary in elderly patients.
 
 ## 8.6 Renal Impairment

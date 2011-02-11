@@ -8,7 +8,7 @@ The metabolism of clopidogrel to its active metabolite can be impaired by geneti
 Avoid concomitant use of Plavix and strong or moderate CYP2C19 inhibitors.
 
 Omeprazole, a moderate CYP2C19 inhibitor, has been shown to reduce the pharmacological activity of Plavix if given concomitantly or if given 12 hours apart.
-Consider using another acid reducing agent with less CYP2C19 inhibitory activity.
+Consider using another acid-reducing agent with less CYP2C19 inhibitory activity.
 Pantoprazole, a weak CYP2C19 inhibitor, had less effect on the pharmacological activity of Plavix than omeprazole [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
 
 ## 5.2 General Risk of Bleeding

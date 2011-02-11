@@ -1,49 +1,31 @@
-PRINCIPAL DISPLAY PANEL - 75 mg 30 Tablets Bottle
+PRINCIPAL DISPLAY PANEL - 75 mg 500 Tablet Bottle Label
 
-List No. 1171-60
+List: No. 1171-50
 
-NDC 63653-1171-6
-
-30 Tablets
+NDC 63653-1171-5 500 Tablets
 
 Plavix® (clopidogrel bisulfate)
 
 75 mg
 
-Rx only
-
-PRINCIPAL DISPLAY PANEL - 75 mg 100 Tablet Blister Pack Carton
-
-List: No. 1171-30
-
-NDC 63653 -1171 -3 100 tablets
-
-Plavix® (clopidogrel bisulfate)
-
-75 mg
+Dispense with Medication Guide
 
 Rx only
 
-PRINCIPAL DISPLAY PANEL - 300 mg 30 Tablet Blister Pack Carton
+PRINCIPAL DISPLAY PANEL - 300 mg 100 Tablet Blister Pack Carton
 
-List No. 1332-20
+List No. 1176-30
 
-NDC 63653-1332-2
+NDC 63653-1332-3
 
 Plavix® (clopidogrel bisulfate)
 
 300 mg
 
+Dispense with Medication Guide
+
 Rx only
 
-30 film-coated tablets
+100 film-coated tablets
 
 Bristol-Myers Squibb Company sanofi aventis
-
-PRINCIPAL DISPLAY PANEL - 300 mg 100 Tablet Blister Pack
-
-300 mg 1 Tablet Rx Only
-
-Plavix® (clopidogrel bisulfate)
-
-Distributed by: Bristol-Myers Squibb/ Sanofi Pharmaceuticals Partnership Bridgewater, NJ 08807 50086441
