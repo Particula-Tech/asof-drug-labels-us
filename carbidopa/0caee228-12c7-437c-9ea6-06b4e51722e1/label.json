@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017555"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-3915-68",
+    "0006-3916-68",
+    "0006-3917-68"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa and levodopa",
+      "name": "SINEMET"
+    }
+  ],
+  "setid": "0caee228-12c7-437c-9ea6-06b4e51722e1",
+  "source": "dailymed"
+}
