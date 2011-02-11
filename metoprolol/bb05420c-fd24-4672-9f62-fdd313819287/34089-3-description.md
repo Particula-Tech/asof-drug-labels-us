@@ -7,5 +7,4 @@ Metoprolol tartrate USP is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl)phenoxy]
 Metoprolol tartrate USP is a white, practically odorless, crystalline powder with a molecular weight of 684.82.
 It is very soluble in water; freely soluble in methylene chloride, in chloroform, and in alcohol; slightly soluble in acetone; and insoluble in ether.
 
-Inactive Ingredients.
-Tablets contain cellulose compounds, colloidal silicon dioxide, D&C Red No. 30 aluminum lake (50-mg tablets), FD&C Blue No. 2 aluminum lake (100-mg tablets), lactose, magnesium stearate, polyethylene glycol, propylene glycol, povidone, sodium starch glycolate, talc, and titanium dioxide.
+Inactive Ingredients: Tablets contain cellulose compounds, colloidal silicon dioxide, D&C Red No. 30 aluminum lake (50-mg tablets), FD&C Blue No. 2 aluminum lake (100-mg tablets), lactose, magnesium stearate, polyethylene glycol, propylene glycol, povidone, sodium starch glycolate, talc, and titanium dioxide.

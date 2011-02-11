@@ -25,7 +25,7 @@ If there is no response to vagal blockade, isoproterenol should be administered 
 
 Hypotension: A vasopressor should be administered, e.g., levarterenol or dopamine.
 
-Bronchospasm: A beta 2-stimulating agent and/or a theophylline derivative should be administered.
+Bronchospasm: A beta2-stimulating agent and/or a theophylline derivative should be administered.
 
 Cardiac Failure: A digitalis glycoside and diuretic should be administered.
 In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.

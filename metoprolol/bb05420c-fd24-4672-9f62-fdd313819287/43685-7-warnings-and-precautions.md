@@ -10,6 +10,22 @@ At the first sign or symptom of impending cardiac failure, patients should be fu
 The response should be observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic therapy, Lopressor should be withdrawn.
 
+Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS, including Lopressor.
+Because of its relative beta1 selectivity, however, Lopressor may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of Lopressor should be used.
+In these circumstances it would be prudent initially to administer Lopressor in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+
+Major Surgery: Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+Diabetes and Hypoglycemia: Lopressor should be used with caution in diabetic patients if a beta-blocking agent is required.
+Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+Pheochromocytoma: If Lopressor is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
+Administration of beta blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
+Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta blockade, which might precipitate a thyroid storm.
+
 ## Myocardial Infarction
 
 Cardiac Failure: Sympathetic stimulation is a vital component supporting circulatory function, and beta blockade carries the potential hazard of depressing myocardial contractility and precipitating or exacerbating minimal cardiac failure.
@@ -33,7 +49,7 @@ Invasive monitoring of central venous, pulmonary capillary wedge, and arterial p
 Appropriate therapy with fluids, positive inotropic agents, balloon counterpulsation, or other treatment modalities should be instituted.
 If hypotension is associated with sinus bradycardia or AV block, treatment should be directed at reversing these (see above).
 
-Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
+Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS, including Lopressor.
 Because of its relative beta1 selectivity, Lopressor may be used with extreme caution in patients with bronchospastic disease.
 Because it is unknown to what extent beta2-stimulating agents may exacerbate myocardial ischemia and the extent of infarction, these agents should not be used prophylactically.
 If bronchospasm not related to congestive heart failure occurs, Lopressor should be discontinued.
@@ -59,22 +75,21 @@ Patients should be advised (1) to avoid operating automobiles and machinery or e
 Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
 Patients treated with Lopressor plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
 
-Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 
-Risk of Anaphylactic Reaction.
-While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+Risk of Anaphylactic Reaction: While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## General Anesthetics
 
-Some inhalation anesthetics may enhance the cardiodepressant effect of beta-blockers (see WARNINGS, Major Surgery).
+Some inhalation anesthetics may enhance the cardiodepressant effect of beta blockers (see WARNINGS, Major Surgery).
 
 ## CYP2D6 Inhibitors
 
 Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of Lopressor.
 Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics section).
-Caution should therefore be exercised when co-administering potent CYP2D6 inhibitors with Lopressor.
+Caution should therefore be exercised when coadministering potent CYP2D6 inhibitors with Lopressor.
 Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluoxetine, paroxetine or bupropion, antipsychotics such as thioridazine, antiarrhythmics such as quinidine or propafenone, antiretrovirals such as ritonavir, antihistamines such as diphenhydramine, antimalarials such as hydroxychloroquine or quinidine, antifungals such as terbinafine and medications for stomach ulcers such as cimetidine.
 
 ## Clonidine
