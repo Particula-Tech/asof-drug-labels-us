@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021806"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "package_ndcs": [
+    "0245-0860-70"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Vandazole"
+    }
+  ],
+  "setid": "27d71471-8f89-4a1e-8c55-020a58961454",
+  "source": "dailymed"
+}
