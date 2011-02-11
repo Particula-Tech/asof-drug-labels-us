@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA200582"
+  ],
+  "inn": "topotecan",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0302-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "topotecan hydrochloride",
+      "name": "Topotecan"
+    }
+  ],
+  "setid": "1d4e1cce-c57e-4a8b-be96-f95a2778e221",
+  "source": "dailymed"
+}
