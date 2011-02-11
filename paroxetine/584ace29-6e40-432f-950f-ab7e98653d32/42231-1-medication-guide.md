@@ -78,7 +78,7 @@ Apotex Corp.
 
 Weston, FL 33326
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-July 2010 PXL-AP:1PI
+February 2011 PXL-AP:2PI
