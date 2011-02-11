@@ -16,10 +16,15 @@ Reclast is indicated for treatment to increase bone mass in men with osteoporosi
 
 ## 1.4 Glucocorticoid-Induced Osteoporosis
 
-Reclast is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoids in a daily dosage equivalent to 7.5 mg or greater of prednisone and who are expected to remain on glucocorticoids for at least 12 months.
-[See Clinical Studies (14.4)].
+Reclast is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoids in a daily dosage equivalent to 7.5 mg or greater of prednisone and who are expected to remain on glucocorticoids for at least 12 months [see Clinical Studies (14.4)].
 
 ## 1.5 Paget's Disease of Bone
 
 Reclast is indicated for treatment of Paget's disease of bone in men and women.
 Treatment is indicated in patients with Paget’s disease of bone with elevations in serum alkaline phosphatase of two times or higher than the upper limit of the age-specific normal reference range, or those who are symptomatic, or those at risk for complications from their disease [see Clinical Studies (14.5)].
+
+## 1.6 Important Limitations of Use
+
+The safety and effectiveness of Reclast for the treatment of osteoporosis is based on clinical data of three years duration.
+The optimal duration of use has not been determined.
+All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.

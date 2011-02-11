@@ -3,9 +3,9 @@
 ## 14.1 Treatment of Postmenopausal Osteoporosis
 
 Study 1: The efficacy and safety of Reclast in the treatment of postmenopausal osteoporosis was demonstrated in Study 1, a randomized, double-blind, placebo-controlled, multinational study of 7736 women aged 65-89 years (mean age of 73) with either: a femoral neck BMD T-score less than or equal to -1.5 and at least two mild or one moderate existing vertebral fracture(s); or a femoral neck BMD T-score less than or equal to -2.5 with or without evidence of an existing vertebral fracture(s).
-Women were stratified into two groups: Stratum I: no concomitant use of osteoporosis therapy or Stratum II: baseline concomitant use of osteoporosis therapies which included calcitonin, raloxifene, tamoxifen, hormone replacement therapy; but excluded other bisphosphonates.
+Women were stratified into two groups: Stratum I: no concomitant use of osteoporosis therapy or Stratum II: baseline concomitant use of osteoporosis therapies which included calcitonin, raloxifene, tamoxifen, and hormone replacement therapy, but excluded other bisphosphonates.
 
-Women enrolled in Stratum I (n= 5661) were evaluated annually for incidence of vertebral fractures.
+Women enrolled in Stratum I (n=5661) were evaluated annually for incidence of vertebral fractures.
 All women (Strata I and II) were evaluated for the incidence of hip and other clinical fractures.
 Reclast was administered once a year for three consecutive years, as a single 5 mg dose in 100 mL solution infused over at least 15 minutes, for a total of three doses.
 All women received 1000 to 1500 mg of elemental calcium plus 400 to 1200 IU of vitamin D supplementation per day.
@@ -23,10 +23,10 @@ Proportion of Patients with New Morphometric Vertebral Fractures
 
 | Outcome | Reclast (%) | Placebo (%) | Absolute Reduction in Fracture Incidence % (95% CI) | Relative Reduction in Fracture Incidence % (95% CI) |
 | --- | --- | --- | --- | --- |
-| At least one new vertebral fracture (0–1 year) | 1.5 | 3.7 | 2.2 (1.4, 3.1) | 60 (43, 72)** |
-| At least one new vertebral fracture (0–2 years) | 2.2 | 7.7 | 5.5 (4.4, 6.6) | 71 (62, 78)** |
-| At least one new vertebral fracture (0–3 years) | 3.3 | 10.9 | 7.6 (6.3, 9.0) | 70 (62, 76)** |
-| ** p <0.0001 |  |  |  |  |
+| At least one new vertebral fracture (0–1 year) | 1.5 | 3.7 | 2.2 (1.4, 3.1) | 60 (43, 72)* |
+| At least one new vertebral fracture (0–2 years) | 2.2 | 7.7 | 5.5 (4.4, 6.6) | 71 (62, 78)* |
+| At least one new vertebral fracture (0–3 years) | 3.3 | 10.9 | 7.6 (6.3, 9.0) | 70 (62, 76)* |
+| * p <0.0001 |  |  |  |  |
 
 The reductions in vertebral fractures over three years were consistent (including new/worsening and multiple vertebral fractures) and significantly greater than placebo regardless of age, geographical region, baseline body mass index, number of baseline vertebral fractures, femoral neck BMD T-score, or prior bisphosphonate usage.
 
@@ -44,7 +44,7 @@ All clinical fractures were verified based on the radiographic and/or clinical e
 A summary of results is presented in Table 6.
 
 Table 6.
-Between –Treatment Comparisons of the Incidence of Clinical Fracture Variables Over 3 Years
+Between–Treatment Comparisons of the Incidence of Clinical Fracture Variables Over 3 Years
 
 | Outcome | Reclast (N= 3875) Event Rate n (%)+ | Placebo (N= 3861) Event Rate n (%)+ | Absolute Reduction in Fracture Incidence % (95% CI)+ | Relative Risk Reduction in Fracture Incidence % (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Between –Treatment Comparisons of the Incidence of Clinical Fracture Variables
 Effect on Bone Mineral Density (BMD)
 
 Reclast significantly increased BMD at the lumbar spine, total hip and femoral neck, relative to treatment with placebo at time points 12, 24, and 36 months.
-Treatment with Reclast resulted in a 6.7% increase in BMD at the lumbar spine, 6.0 % at the total hip, and 5.1% at the femoral neck, over 3 years as compared to placebo.
+Treatment with Reclast resulted in a 6.7% increase in BMD at the lumbar spine, 6.0% at the total hip, and 5.1% at the femoral neck, over 3 years as compared to placebo.
 
 Bone Histology
 
@@ -69,8 +69,8 @@ Qualitative, quantitative and micro CT assessments showed bone of normal archite
 
 Effect on Height
 
-In the 3-year osteoporosis study standing height was measured annually using a stadiometer.
-The Reclast group revealed less height loss compared to placebo (4.2 mm vs. 7.0 mm, respectively (p<0.001)).
+In the 3-year osteoporosis study, standing height was measured annually using a stadiometer.
+The Reclast group revealed less height loss compared to placebo (4.2 mm vs. 7.0 mm, respectively [p<0.001]).
 
 Study 2: The efficacy and safety of Reclast in the treatment of patients with osteoporosis who suffered a recent low-trauma hip fracture was demonstrated in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint study of 2127 men and women aged 50-95 years (mean age of 74.5).
 Concomitant osteoporosis therapies excluding other bisphosphonates and parathyroid hormone were allowed.
@@ -83,7 +83,7 @@ Reclast significantly reduced the incidence of any clinical fracture by 35%.
 There was also a 46% reduction in the risk of a clinical vertebral fracture (Table 7).
 
 Table 7.
-Between - Treatment Comparisons of the Incidence of Key Clinical Fracture Variables
+Between-Treatment Comparisons of the Incidence of Key Clinical Fracture Variables
 
 | Outcome | Reclast (N=1065) Event Rate n (%)+ | Placebo (N=1062) Event Rate n (%)+ | Absolute Reduction in Fracture Incidence % (95% CI) + | Relative Risk Reduction in Fracture Incidence % (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -94,11 +94,11 @@ Between - Treatment Comparisons of the Incidence of Key Clinical Fracture Variab
 Effect on Bone Mineral Density (BMD)
 
 Reclast significantly increased BMD relative to placebo at the hip and femoral neck at all timepoints (12, 24, and 36 months).
-Treatment with Reclast resulted in a 6.4 % increase in BMD at the total hip and a 4.3% increase at the femoral neck over 36 months as compared to placebo.
+Treatment with Reclast resulted in a 6.4% increase in BMD at the total hip and a 4.3% increase at the femoral neck over 36 months as compared to placebo.
 
 ## 14.2 Prevention of Postmenopausal Osteoporosis
 
-The efficacy and safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged > 45 years, who were stratified by years since menopause: Stratum I women < 5 years from menopause (n = 224); Stratum II women > 5 years from menopause (n= 357).
+The efficacy and safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged > 45 years, who were stratified by years since menopause: Stratum I women < 5 years from menopause (n=224); Stratum II women > 5 years from menopause (n=357).
 Patients within Stratum I and II were randomized to one of three treatment groups: (1) Reclast given at randomization and at Month 12 (n=77) in Stratum I and (n=121) in Stratum II; (2) Reclast given at randomization and placebo at Month 12 (n=70) in Stratum I and (n=111) in Stratum II; and (3) Placebo given at randomization and Month 12 (n=202).
 Reclast was administered as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 All women received 500 to 1200 mg elemental calcium plus 400 to 800 IU vitamin D supplementation per day.

@@ -12,7 +12,7 @@ The relatively long duration of action of zoledronic acid is attributable to its
 
 ## 12.2 Pharmacodynamics
 
-In the osteoporosis treatment trial, the effect of Reclast treatment on markers of bone resorption (serum beta-C-telopeptides (b-CTx)) and bone formation (bone specific alkaline phosphatase (BSAP), serum N-terminal propeptide of type I collagen (P1NP)) was evaluated in patients (subsets ranging from 517 to 1246 patients) at periodic intervals.
+In the osteoporosis treatment trial, the effect of Reclast treatment on markers of bone resorption (serum beta-C-telopeptides [b-CTx]) and bone formation (bone specific alkaline phosphatase [BSAP], serum N-terminal propeptide of type I collagen [P1NP]) was evaluated in patients (subsets ranging from 517 to 1246 patients) at periodic intervals.
 Treatment with a 5 mg annual dose of Reclast reduces bone turnover markers to the pre-menopausal range with an approximate 55% reduction in b-CTx, a 29% reduction in BSAP and a 52 % reduction in P1NP over 36 months.
 There was no progressive reduction of bone turnover markers with repeated annual dosing.
 
@@ -21,7 +21,7 @@ There was no progressive reduction of bone turnover markers with repeated annual
 Pharmacokinetic data in patients with osteoporosis and Paget's disease of bone are not available.
 
 Distribution: Single or multiple (q 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
-The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to <1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hours and t1/2β 1.87 hours for the early disposition phases of the drug.
+The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to <1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hour and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post infusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
 The accumulation of zoledronic acid measured over three cycles was low, with mean AUC0-24h ratios for cycles 2 and 3 versus 1 of 1.13 ± 0.30 and 1.16 ± 0.36, respectively.
@@ -34,8 +34,7 @@ Zoledronic acid does not undergo biotransformation in vivo.
 In animal studies, < 3% of the administered intravenous dose was found in the feces, with the balance either recovered in the urine or taken up by bone, indicating that the drug is eliminated intact via the kidney.
 Following an intravenous dose of 20 nCi 14C-zoledronic acid in a patient with cancer and bone metastases, only a single radioactive species with chromatographic properties identical to those of parent drug was recovered in urine, which suggests that zoledronic acid is not metabolized.
 
-Excretion: In 64 patients with cancer and bone metastases on average (± s.d.)
-39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post Day 2.
+Excretion: In 64 patients with cancer and bone metastases on average (± SD) 39 ± 16% of the administered zoledronic acid dose was recovered in the urine within 24 hours, with only trace amounts of drug found in urine post Day 2.
 The cumulative percent of drug excreted in the urine over 0-24 hours was independent of dose.
 The balance of drug not recovered in urine over 0-24 hours, representing drug presumably bound to bone, is slowly released back into the systemic circulation, giving rise to the observed prolonged low plasma concentrations.
 The 0-24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.

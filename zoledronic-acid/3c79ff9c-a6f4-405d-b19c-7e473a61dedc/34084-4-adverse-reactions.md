@@ -14,7 +14,7 @@ The incidence of all-cause mortality was similar between groups: 3.4% in the Rec
 The incidence of serious adverse events was 29.2% in the Reclast group and 30.1% in the placebo group.
 The percentage of patients who withdrew from the study due to adverse events was 5.4% and 4.8% for the Reclast and placebo groups, respectively.
 
-The safety of Reclast in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50-95 years 1065 patients were randomized to Reclast and 1062 patients were randomized to placebo.
+The safety of Reclast in the treatment of osteoporosis patients with a recent (within 90 days) low-trauma hip fracture was assessed in Study 2, a randomized, double-blind, placebo-controlled, multinational endpoint-driven study of 2127 men and women aged 50-95 years; 1065 patients were randomized to Reclast and 1062 patients were randomized to placebo.
 Reclast was administered once annually as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 The study continued until at least 211 patients had a confirmed clinical fracture in the study population who were followed for an average of approximately 2 years on study drug.
 Vitamin D levels were not routinely measured but a loading dose of vitamin D (50,000 to 125,000 IU orally or IM) was given to patients and they were started on 1000 to 1500 mg of elemental calcium plus 800 to 1200 IU of vitamin D supplementation per day for at least 14 days prior to the study drug infusions.
@@ -84,7 +84,7 @@ Overall, there was a transient increase in serum creatinine observed within 10 d
 
 Acute Phase Reaction
 
-The signs and symptoms of acute phase reaction occurred in Study 1 following Reclast infusion including, fever (18%), myalgia (9%), and flu-like symptoms (8%), headache (7%), and arthralgia (7%).
+The signs and symptoms of acute phase reaction occurred in Study 1 following Reclast infusion including fever (18%), myalgia (9%), flu-like symptoms (8%), headache (7%), and arthralgia (7%).
 The majority of these symptoms occurred within the first 3 days following the dose of Reclast and usually resolved within 3 days of onset but resolution could take up to 7-14 days.
 In Study 2, patients without a contraindication to acetaminophen were provided with a standard oral dose at the time of the IV infusion and instructed to use additional acetaminophen at home for the next 72 hours as needed.
 Reclast was associated with fewer signs and symptoms of a transient acute phase reaction in this trial: fever (7%) and arthralgia (3%).
@@ -98,7 +98,7 @@ In Study 2, following pre-treatment with vitamin D, no patients had treatment em
 
 Injection Site Reactions
 
-In the osteoporosis trials, local reactions at the infusion site such as itching, redness and/or pain have been reported in 0 to 0.7% of patients following the administration of Reclast and 0 to 0.5% of patients following administration of placebo.
+In the osteoporosis trials, local reactions at the infusion site such as itching, redness and/or pain have been reported in 0% to 0.7% of patients following the administration of Reclast and 0% to 0.5% of patients following administration of placebo.
 
 Osteonecrosis of the Jaw
 
@@ -123,7 +123,7 @@ In the osteoporosis trials, 1 (<0.1%) to 9 (0.2%) patients treated with Reclast 
 Prevention of Osteoporosis in Postmenopausal Women
 
 The safety of Reclast in postmenopausal women with osteopenia (low bone mass) was assessed in a 2-year randomized, multi-center, double-blind, placebo-controlled study of 581 postmenopausal women aged >45 years.
-Patients were randomized to one of three treatment groups: (1) Reclast given at randomization and Month 12 (n= 198); (2) Reclast given at randomization and placebo at Month 12 (n=181); and (3) placebo given at randomization and Month 12 (n=202).
+Patients were randomized to one of three treatment groups: (1) Reclast given at randomization and Month 12 (n=198); (2) Reclast given at randomization and placebo at Month 12 (n=181); and (3) placebo given at randomization and Month 12 (n=202).
 Reclast was administered as a single 5 mg dose in 100 mL solution infused over at least 15 minutes.
 All women received 500 to 1200 mg elemental calcium plus 400 to 800 IU vitamin D supplementation per day.
 
@@ -134,7 +134,7 @@ Adverse reactions reported in at least 2% of patients with osteopenia and more f
 Table 2.
 Adverse Reactions Occurring in > 2% of Patients with Osteopenia and More Frequently than in Placebo-Treated Patients
 
-| System Organ Class | 5 mg IV Reclast Once Per Year % (N=198) | 5 mg IV Reclast Once % (N=181) | Placebo once per year % (N=202) |
+| System Organ Class | 5 mg IV Reclast Once Per Year % (n=198) | 5 mg IV Reclast Once % (n=181) | Placebo once per year % (n=202) |
 | --- | --- | --- | --- |
 | Metabolism and nutrition disorders |  |  |  |
 | Anorexia | 2.0 | 0.6 | 0.0 |
@@ -193,12 +193,12 @@ In the osteoporosis prevention trial, 4 (1.1%) patients treated with Reclast and
 
 Acute Phase Reaction
 
-In patients given Reclast at randomization and placebo at Month 12, Reclast was associated with signs and symptoms of an acute phase reaction: Myalgia (20.4%), fever (19.3%), chills (18.2%), pain (13.8%), headache (13.3%), fatigue (8.3%), arthralgia (6.1%), pain in extremity (3.9%), influenza-like illness (3.3%), and back pain (1.7%), which occurred within the first 3 days following the dose of Reclast.
+In patients given Reclast at randomization and placebo at Month 12, Reclast was associated with signs and symptoms of an acute phase reaction: myalgia (20.4%), fever (19.3%), chills (18.2%), pain (13.8%), headache (13.3%), fatigue (8.3%), arthralgia (6.1%), pain in extremity (3.9%), influenza-like illness (3.3%), and back pain (1.7%), which occurred within the first 3 days following the dose of Reclast.
 The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
 
 Osteoporosis in Men
 
-The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism, was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25-86 years.
+The safety of Reclast in men with osteoporosis or osteoporosis secondary to hypogonadism was assessed in a two year randomized, multicenter, double-blind, active controlled group study of 302 men aged 25-86 years.
 One hundred fifty three (153) patients were exposed to Reclast administered once annually with a 5 mg dose in 100 mL infused over 15 minutes for up to a total of two doses, and 148 patients were exposed to a commercially-available oral weekly bisphosphonate (active control) for up to two years.
 All participants received 1000 mg of elemental calcium plus 800 to 1000 IU of vitamin D supplementation per day.
 
@@ -209,7 +209,7 @@ The overall safety and tolerability of Reclast was similar to the active control
 Adverse reactions reported in at least 2% of men with osteoporosis and more frequently in the Reclast-treated patients than the active control-treated patients and either (1) not reported in the postmenopausal osteoporosis treatment trial or (2) reported more frequently in the trial of osteoporosis in men are presented in Table 3.
 Therefore, Table 3 should be viewed in conjunction with Table 1.
 
-Table 3: Adverse Reactions Occurring in > 2% of Men with Osteoporosis and More Frequently in the Reclast-Treated Patients than the Active Control -Treated Patients and either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in this Trial
+Table 3: Adverse Reactions Occurring in > 2% of Men with Osteoporosis and More Frequently in the Reclast-Treated Patients than the Active Control-Treated Patients and either (1) Not Reported in the Postmenopausal Osteoporosis Treatment Trial or (2) Reported More Frequently in this Trial
 
 | System Organ Class | 5 mg IV Reclast once per year % (N=153) | Active Control once weekly % (N=148) |
 | --- | --- | --- |
@@ -248,12 +248,11 @@ Table 3: Adverse Reactions Occurring in > 2% of Men with Osteoporosis and More F
 
 Renal Impairment
 
-Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months was comparable in the Reclast and active control groups.
-[See Warnings and Precautions (5.3)].
+Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months was comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
 
 Acute Phase Reaction
 
-Reclast was associated with signs and symptoms of an acute phase reaction: Myalgia (17.1%), fever (15.7%), fatigue (12.4%), arthralgia (11.1%), pain (10.5%), chills (9.8%), headache (9.8%), influenza-like illness (8.5%), malaise (5.2%), and back pain (3.3%), which occurred within the first 3 days following the dose of Reclast.
+Reclast was associated with signs and symptoms of an acute phase reaction: myalgia (17.1%), fever (15.7%), fatigue (12.4%), arthralgia (11.1%), pain (10.5%), chills (9.8%), headache (9.8%), influenza-like illness (8.5%), malaise (5.2%), and back pain (3.3%), which occurred within the first 3 days following the dose of Reclast.
 The majority of these symptoms were mild to moderate and resolved within 3 days of the event onset but resolution could take up to 7-14 days.
 The incidence of these symptoms decreased with subsequent doses of Reclast.
 
@@ -272,8 +271,7 @@ There were 4 patients (2.6%) on Reclast vs. 2 patients (1.4%) on active control 
 
 Osteonecrosis of the Jaw
 
-In this trial there were no cases of osteonecrosis of the jaw.
-[See Warnings and Precautions (5.4)].
+In this trial there were no cases of osteonecrosis of the jaw [see Warnings and Precautions (5.4)].
 
 Glucocorticoid-Induced Osteoporosis
 
@@ -295,8 +293,7 @@ In addition, the following adverse events occurred more frequently than in the p
 
 Renal Impairment
 
-Renal function measured prior to dosing and at the end of the 12 month study was comparable in the Reclast and active control groups.
-[See Warnings and Precautions (5.3)].
+Renal function measured prior to dosing and at the end of the 12 month study was comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
 
 Acute Phase Reaction
 
@@ -318,8 +315,7 @@ There were no local reactions at the infusion site.
 
 Osteonecrosis of the Jaw
 
-In this trial there were no cases of osteonecrosis of the jaw.
-[See Warnings and Precautions (5.4)].
+In this trial there were no cases of osteonecrosis of the jaw [see Warnings and Precautions (5.4)].
 
 Paget’s Disease of Bone
 
@@ -408,7 +404,7 @@ Symptoms may be significant and lead to dehydration.
 Acute Renal Impairment
 
 Transient rise in serum creatinine correctable with intravenous fluids; acute renal failure requiring hospitalization and/or dialysis.
-Increased serum creatinine was reported in patients with underlying renal disease and 1) dehydration secondary to fever, gastrointestinal losses, diuretic therapy or 2) other risk factors such as concomitant nephrotoxic drugs in the post-infusion period.
+Increased serum creatinine was reported in patients with underlying renal disease and dehydration secondary to fever, gastrointestinal losses, diuretic therapy, etc., in the post-infusion period.
 
 Allergic Reactions
 
@@ -417,4 +413,4 @@ Rare cases of anaphylactic reaction/shock have also been reported.
 
 Other
 
-Rare cases of the following events have been reported: hypocalcemia, hypotension in patients with underlying risk factors, osteonecrosis of the jaw, scleritis and orbital inflammation.
+Hypocalcemia

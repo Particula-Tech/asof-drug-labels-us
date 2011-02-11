@@ -12,6 +12,8 @@ Reclast®
 
 Solution for Intravenous Infusion
 
+Dispense the accompanying Medication Guide to each patient.
+
 1 bottle – Sterile Solution
 
 Do not mix with calcium-containing solutions.

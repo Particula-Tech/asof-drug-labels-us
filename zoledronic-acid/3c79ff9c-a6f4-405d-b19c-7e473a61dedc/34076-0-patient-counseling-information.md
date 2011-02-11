@@ -6,9 +6,9 @@ Information for Patients
 
 Patients should be made aware that Reclast contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with Reclast.
 
-Before being given Reclast patients should tell their doctor if they have kidney problems and what medications they are taking.
+Before being given Reclast, patients should tell their doctor if they have kidney problems and what medications they are taking.
 
-Reclast should not be given if the patient is pregnant or plans to become pregnant, or if she is breast-feeding [see Warnings and Precautions (5.5)].
+Reclast should not be given if the patient is pregnant or plans to become pregnant, or if she is breast-feeding [see Warnings and Precautions (5.6)].
 
 There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including Reclast.
 Before being given Reclast, patients should tell their doctor if they are aspirin-sensitive.
@@ -39,3 +39,5 @@ If they experience these symptoms, they should inform their physician or dentist
 
 Severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including Reclast.
 Consider withholding future Reclast treatment if severe symptoms develop.
+
+Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.

@@ -10,9 +10,9 @@ Pre-existing hypocalcemia and disturbances of mineral metabolism (e.g., hypopara
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended for these patients [see Contraindications (4)].
 
 Hypocalcemia following Reclast administration is a significant risk in Paget’s disease.
-All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17.1)].
+All patients should be instructed about the symptoms of hypocalcemia and the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17)].
 
-All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17.1)].
+All osteoporosis patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels [see Dosage and Administration (2), Adverse Reactions (6.1), Information for Patients (17)].
 
 ## 5.3 Renal Impairment
 
@@ -44,14 +44,28 @@ For patients who develop ONJ while on bisphosphonate therapy, dental surgery may
 For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of ONJ.
 The clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment [see Adverse Reactions (6.1)].
 
-## 5.5 Pregnancy
+## 5.5 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+## 5.6 Pregnancy
 
 RECLAST SHOULD NOT BE USED DURING PREGNANCY.
 Reclast may cause fetal harm when administered to a pregnant woman.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant while on Reclast therapy [see Use in Specific Populations (8.1)].
 
-## 5.6 Musculoskeletal Pain
+## 5.7 Musculoskeletal Pain
 
 In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including Reclast.
 The time to onset of symptoms varied from one day to several months after starting the drug.
@@ -59,7 +73,7 @@ Consider withholding future Reclast treatment if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.7 Patients with Asthma
+## 5.8 Patients with Asthma
 
 While not observed in clinical trials with Reclast, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 Use Reclast with caution in aspirin-sensitive patients.

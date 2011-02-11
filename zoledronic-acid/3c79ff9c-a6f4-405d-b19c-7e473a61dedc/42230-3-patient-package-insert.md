@@ -1,184 +1,192 @@
-# FDA-APPROVED PATIENT LABELING
+MEDICATION GUIDE
 
-Reclast® (pronounced RE-klast)
+Reclast® (RE-clast)
 
 (zoledronic acid)
 
 Injection
 
-| IMPORTANT: You should not receive Reclast if you are already receiving Zometa. Reclast and Zometa are the same medicine. They both contain zoledronic acid. |
-| --- |
-
-Read this leaflet carefully before your first infusion of Reclast and before each infusion.
+Read the Medication Guide that comes with Reclast before you start taking it and each time you get a refill.
 There may be new information.
-This leaflet does not replace talking with your healthcare professional.
+This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
+Talk to your doctor if you have any questions about Reclast.
 
 What is the most important information I should know about Reclast?
 
-Patients with severe kidney problems should not receive Reclast Injection.
+You should not receive Reclast if you are already receiving Zometa.
+Both Reclast and Zometa contain zoledronic acid.
 
-Low blood calcium should be corrected prior to receiving Reclast.
-If you are being treated for Paget’s disease of the bone it is important to take 1500 mg of calcium and 800 IU of vitamin D daily, especially during the first 2 weeks after getting Reclast.
-You should take calcium and vitamin D daily as recommended by your healthcare professional.
+Reclast can cause serious side effects including:
+
+1. Low calcium levels in your blood (hypocalcemia)
+2. Severe kidney problems
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint or muscle pain
+5. Unusual thigh bone fractures
+
+1.
+Low calcium levels in your blood (hypocalcemia).
+
+Reclast may lower the calcium levels in your blood.
+If you have low blood calcium before you start taking Reclast, it may get worse during treatment.
+Your low blood calcium must be treated before you take Reclast.
+Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
+Call your doctor right away if you have symptoms of low blood calcium such as:
+
+- Spasms, twitches, or cramps in your muscles
+- Numbness or tingling in your fingers, toes, or around your mouth
+
+Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take Reclast.
+Take calcium and vitamin D as your doctor tells you to.
+
+2.
+Severe kidney problems.
+
+Severe kidney problems may happen when you take Reclast.
+Your risk of kidney problems is higher if you:
+
+- already have kidney problems
+- take a diuretic or “water pill”
+- do not have enough water in your body (dehydrated) before or after you receive Reclast
+
+3.
+Severe jaw bone problems (osteonecrosis).
+
+Severe jaw bone problems may happen when you take Reclast.
+Your doctor should examine your mouth before you start Reclast.
+Your doctor may tell you to see your dentist before you start Reclast.
+It is important for you to practice good mouth care during treatment with Reclast.
+
+4.
+Unusual thigh bone fractures.
+
+Some people have developed unusual fractures in their thigh bone.
+Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+
+5.
+Possible harm to your unborn baby.
+
+Reclast should not be used if you are pregnant.
+Tell your doctor right away if you are pregnant or plan to become pregnant.
+Reclast may harm your unborn baby.
+
+6.
+Bone, joint, or muscle pain
+
+Some people who take bisphosphonates develop severe bone, joint, or muscle pain.
+
+Call your doctor right away if you have any of these side effects.
 
 What is Reclast?
 
 Reclast is a prescription medicine used to:
 
-- Treat osteoporosis in women after menopause, and in patients after a recent hip fracture
-- Prevent osteoporosis in women after menopause
-- Increase bone mass in men with osteoporosis
-- Treat and prevent osteoporosis in men and women caused by treatment with steroid medicines such as prednisone
-- Treat men and women with Paget’s disease of the bone
+- Treat or prevent osteoporosis in women after menopause.
+  Reclast helps reduce the chance of having a hip or spinal fracture (break).
+- Increase bone mass in men with osteoporosis.
+- Treat or prevent osteoporosis in either men or women who will be taking corticosteroid medicines for at least one year.
+- Treat certain men and women who have Paget’s disease of the bone.
 
-Reclast strengthens your bones by increasing bone mass and lowers the chance of breaking bones (fractures).
+It is not known how long Reclast works for the treatment and prevention of osteoporosis.
+You should see your doctor regularly to determine if Reclast is still right for you.
 
-Who should not get Reclast?
+Reclast is not for use in children.
 
-You should not get Reclast if:
+Who should not take Reclast?
 
-- Your blood calcium level is too low.
-- You are allergic to zoledronic acid or any other ingredient in Reclast.
-  See section ‘What are the ingredients in Reclast’ for a complete list of ingredients.
+Do not take Reclast if you:
 
-Talk to your healthcare provider before taking this medication if you have any of these conditions.
+- Have low levels of calcium in your blood
+- Are allergic to zoledronic acid or any of its ingredients.
+  A list of ingredients is at the end of this leaflet.
 
-What should I tell my doctor before getting Reclast?
+What should I tell my doctor before taking Reclast?
 
-Reclast may not be right for you.
-Tell your doctor about all your medical conditions, including if you:
+Before you start Reclast, be sure to talk to your doctor if you:
 
-- have kidney problems
-- have or have had low blood calcium
-- are not able to take daily calcium and vitamin D supplements
-- had parathyroid or thyroid surgery (these glands are located in your neck)
-- have trouble absorbing minerals in your stomach or intestines (“malabsorption syndrome”)
-- had sections of your intestine removed
-- have asthma (wheezing) from taking aspirin
-- have a planned dental surgery such as tooth extraction
-- are pregnant or plan to become pregnant; Reclast may harm your unborn baby
-- are breast-feeding or planning to breast-feed.
-  It is not known if Reclast passes into breast milk.
-- have recent vomiting, diarrhea or decreased appetite
+- Have low blood calcium.
+- Have kidney problems.
+- Had parathyroid or thyroid surgery (glands in your neck).
+- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome) or have had parts of your intestine removed.
+- Have asthma (wheezing) from taking aspirin.
+- Plan to have dental surgery or teeth removed.
+- Are pregnant, or plan to become pregnant.
+  Reclast may harm your unborn baby.
+  Reclast should not be used if you are pregnant.
+- Are breastfeeding or plan to breastfeed.
+  It is not known if Reclast passes into your milk and may harm your baby.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription drugs, vitamins and minerals, and herbal supplements.
-Some medicines may increase your chance for low blood calcium levels or kidney problems when used with Reclast.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Certain medicines may affect how Reclast works.
+
 Especially tell your doctor if you are taking:
 
-- Zometa
-- A diuretic or “water pill”
-- Non-steroidal anti-inflammatory medicines (NSAIDS).
 - An antibiotic.
-  Certain antibiotics called aminoglycosides may increase the effect of Reclast in lowering your blood calcium for a long period of time.
+  Certain antibiotic medicines called aminoglycosides may increase the effect of Reclast in lowering your blood calcium for a long period of time.
+- A diuretic or “water pill”.
+- Non-steroidal anti-inflammatory medicines (NSAIDS).
 
-Ask your healthcare provider or pharmacist to learn if your medicine is one that is listed above.
+Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
 
 Know the medicines you take.
-Keep a list of your medicines and show it to your healthcare provider and pharmacist each time you get a new medicine.
+Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
 
 How will I receive Reclast?
 
-- Reclast is always given to you by a healthcare provider.
-  Reclast is given by infusion into a vein (IV) that should take at least 15 minutes.
-- Before you receive Reclast, drink at least 2 glasses of fluid (such as water) within a few hours as directed by your healthcare provider.
-  You may eat normally before your infusion.
-
-For Osteoporosis:
-
-- To treat osteoporosis Reclast is given once a year
-- To prevent osteoporosis Reclast is given once every 2 years
-- In patients with osteoporosis, the current recommended daily intake of calcium is 1200 mg and vitamin D 800 IU to 1000 IU daily.
-  If you have osteoporosis you should take calcium and vitamin D daily as recommended by your doctor.
-- During treatment with Reclast, your doctor may order a bone mineral density test to check your osteoporosis.
-
-For Paget’s Disease:
-
-- Is given as a single treatment or your doctor may choose to give you more Reclast infusions based on signs or symptoms of your disease.
-- To prevent low blood calcium, it is important to take calcium and vitamin D supplements.
-  If you have Paget’s disease you should take 1500 mg of calcium a day in divided doses (for example, 750 mg two times a day, or 500 mg three times a day) and 800 IU vitamin D a day.
-  It is especially important to take the calcium and vitamin D supplements during the first 2 weeks after getting Reclast.
-- During treatment with Reclast, your doctor may order a blood test to check your Paget’s disease.
+- Your doctor will tell you how often you will receive Reclast.
+- Reclast is given by infusion into your vein (intravenously).
+  Your infusion should last at least 15 minutes.
+- Before you receive Reclast, drink at least 2 glasses of fluid (such as water) within a few hours as directed by your doctor.
+- You may eat before your treatment with Reclast.
+- If you miss a dose of Reclast, call your doctor or healthcare provider to schedule your next dose.
 
 What are the possible side effects of Reclast?
 
 Reclast may cause serious side effects.
-Call your healthcare provider right away if you have any of these symptoms after receiving Reclast:
 
-- Low blood calcium (hypocalcemia).
-  Symptoms may include numbness or tingling feeling (especially in the area around the mouth) or muscle spasms.
-  Call your doctor right away if you notice any of these symptoms after receiving Reclast.
-- Kidney problems.
-  Your doctor may do a blood test to check your kidneys before each dose of Reclast.
-  It is important for you to drink at least 2 glasses of fluid (such as water), within a few hours before receiving Reclast, as directed by your healthcare provider.
-- Jaw-bone problems (Osteonecrosis of the jaw).
-  Jaw-bone problems may occur in some people and include: infection, slower healing after teeth are pulled.
-- Severe muscle, bone and joint pain.
-  Tell your doctor if you have severe muscle, bone, or joint pain after receiving Reclast.
+- See “What is the most important information I should know about Reclast?”
 
-The most common side effects of Reclast include: flu-like illness, fever, pain in your muscles or joints, and headache that can happen over several days after you get Reclast.
-Ask your healthcare provider how to lessen these symptoms.
-Acetaminophen (a mild pain reliever) may reduce these symptoms.
-The side effects lessen each time you receive Reclast.
+The most common side effects of Reclast included:
 
-Tell your healthcare provider about any side effect that bothers you or does not go away.
+- Fever
+- Pain in your bones, joints or muscles
+- Pain in your arms and legs
+- Headache
+- Flu-like illness (fever, chills, bone, joint, or muscle pain, fatigue)
+- Nausea
+- Vomiting
+- Diarrhea
+
+Talk to your doctor about things you can do to help decrease some of these side effects that might happen with a Reclast infusion.
+
+You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of Reclast.
-If you have questions, talk to your healthcare provider.
+For more information, ask your doctor or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General Information about Reclast
+General information about safe and effective use of Reclast.
 
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 
-This leaflet is a summary of the most important information about Reclast.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about Reclast that is written for healthcare professionals.
-For more information, go to www.reclast.com or call 1-866-732-5278.
+This Medication Guide summarizes the most important information about Reclast.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about Reclast that is written for health professionals.
+
+For more information, go to: www.RECLAST.com or call 1-866-732-5278.
 
 What are the ingredients in Reclast?
 
-Active ingredient: zoledronic acid.
-Inactive ingredients: mannitol, USP; sodium citrate, USP; and water for injection, USP.
+Active ingredient: zoledronic acid monohydrate
 
-What is Osteoporosis?
+Inactive ingredients: mannitol and sodium citrate.
 
-Osteoporosis is a disease that involves a thinning and weakening of bones.
-Weaker bone can break more easily.
-Throughout life your body keeps your bones strong and healthy by replacing old bone with new bone.
-In osteoporosis, however, the body removes bone faster than it is formed.
-This causes loss of bone mass and weakening of bones.
-Weak bones are more likely to break.
-Osteoporosis is common in women after menopause, with increasing age, and may also occur in men.
-People who have an increased risk of osteoporosis: 1) are Caucasian (white) or Asian; 2) are thin; 3) have a family member with osteoporosis; 4) do not get enough calcium or vitamin D; 5) do not exercise; 6) smoke or drink alcohol often or 7) take medicines that cause bone loss (like prednisone – a steroid) over a period of time.
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-At first, osteoporosis usually has no symptoms, but people with osteoporosis are more likely to break (fracture) their bones.
-Fractures most often occur at the hip, back (spine), or wrist bones.
-Fractures of the spine may not be painful, but over time they can make you shorter.
-Over time fractures can lead to pain, severe disability, or loss of ability to move around.
-Reclast strengthens your bones and therefore makes them less likely to break.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-What is Paget’s disease of bone?
-
-Normally bone breaks down and is replaced by new bone.
-In Paget’s disease, bone breaks down too much and the new bone made is not normal.
-Bones affected by Paget’s disease like the skull, spine, and legs, become deformed and weaker than normal.
-This can cause problems like bone pain and the bones can bend or break.
-
-REV: JANUARY 2010
-
-T2010-11
-
-Manufactured by:
-
-Novartis Pharma Stein AG
-
-Stein, Switzerland
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-© Novartis
+January 2011 T2011-04/T2011-05

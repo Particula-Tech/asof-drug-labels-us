@@ -28,7 +28,7 @@ An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recomm
 
 ## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
-The recommended regimen is a 5mg infusion once a year given intravenously over no less than 15 minutes.
+The recommended regimen is a 5 mg infusion once a year given intravenously over no less than 15 minutes.
 Patients must be adequately supplemented with calcium and vitamin D if dietary intake is not sufficient.
 An average of at least 1200 mg calcium and 800-1000 IU vitamin D daily is recommended.
 

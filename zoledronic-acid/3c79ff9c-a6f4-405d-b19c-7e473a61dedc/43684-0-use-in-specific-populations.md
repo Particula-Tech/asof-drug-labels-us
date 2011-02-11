@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.5)].
+Pregnancy Category D [see Warnings and Precautions (5.6)].
 
 RECLAST SHOULD NOT BE USED DURING PREGNANCY.
 If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
@@ -24,8 +24,7 @@ These adverse effects included increases in pre- and post-implantation losses, d
 
 In pregnant rabbits given daily subcutaneous doses of zoledronic acid during gestation at doses ≤ 0.4 times the anticipated human systemic exposure following a 5 mg intravenous dose (based on a mg/m2 comparison) no adverse fetal effects were observed.
 Maternal mortality and abortion occurred in all treatment groups (at doses ≥ 0.04 times the human 5 mg intravenous dose, based on a mg/m2 comparison).
-Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia.
-[See NONCLINICAL TOXICOLOGY (13.3)].
+Adverse maternal effects were associated with, and may have been caused by, drug-induced hypocalcemia [see Nonclinical Toxicology (13.3)].
 
 ## 8.3 Nursing Mothers
 
