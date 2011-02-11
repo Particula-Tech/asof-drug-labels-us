@@ -16,7 +16,7 @@ BREVIBLOC DOUBLE STRENGTH INJECTION
 
 NDC 10019-085-01, 100 mg – 5 mL Ready-to-use Vials, Package of 10
 
-Store at 25˚C (77˚F).
-Excursions permitted to 15˚-30˚C (59˚-86˚F).
+Store at 25°C (77°F).
+Excursions permitted to 15°-30°C (59°-86°F).
 [See USP Controlled Room Temperature.]
 PROTECT FROM FREEZING.Avoid excessive heat.
