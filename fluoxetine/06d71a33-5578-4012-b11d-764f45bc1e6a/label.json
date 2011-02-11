@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076001"
+  ],
+  "inn": "fluoxetine",
+  "labeler": "Pliva Inc.",
+  "package_ndcs": [
+    "50111-647-01",
+    "50111-647-02",
+    "50111-647-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fluoxetine",
+      "name": "Fluoxetine"
+    }
+  ],
+  "setid": "06d71a33-5578-4012-b11d-764f45bc1e6a",
+  "source": "dailymed"
+}
