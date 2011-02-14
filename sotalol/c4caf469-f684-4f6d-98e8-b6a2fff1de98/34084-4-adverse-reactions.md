@@ -1,12 +1,12 @@
 # ADVERSE REACTIONS
 
-During premarketing trials, 3186 patients with cardiac arrhythmias (1363 with sustained ventricular tachycardia) received oral BETAPACE, of whom 2451 received the drug for at least two weeks.
+During premarketing trials, 3186 patients with cardiac arrhythmias (1363 with sustained ventricular tachycardia) received oral Betapace, of whom 2451 received the drug for at least two weeks.
 The most important adverse effects are Torsade de Pointes and other serious new ventricular arrhythmias (see WARNINGS), occurring at rates of almost 4% and 1%, respectively, in the VT/VF population.
 Overall, discontinuation because of unacceptable side-effects was necessary in 17% of all patients in clinical trials, and in 13% of patients treated for at least two weeks.
-The most common adverse reactions leading to discontinuation of BETAPACE are as follows: fatigue 4%, bradycardia (less than 50 bpm) 3%, dyspnea 3%, proarrhythmia 3%, asthenia 2%, and dizziness 2%.
+The most common adverse reactions leading to discontinuation of Betapace are as follows: fatigue 4%, bradycardia (less than 50 bpm) 3%, dyspnea 3%, proarrhythmia 3%, asthenia 2%, and dizziness 2%.
 
-Occasional reports of elevated serum liver enzymes have occurred with BETAPACE therapy but no cause and effect relationship has been established.
-One case of peripheral neuropathy which resolved on discontinuation of BETAPACE and recurred when the patient was rechallenged with the drug was reported in an early dose tolerance study.
+Occasional reports of elevated serum liver enzymes have occurred with Betapace therapy but no cause and effect relationship has been established.
+One case of peripheral neuropathy which resolved on discontinuation of Betapace and recurred when the patient was rechallenged with the drug was reported in an early dose tolerance study.
 Elevated blood glucose levels and increased insulin requirements can occur in diabetic patients.
 
 The following table lists as a function of dosage the most common (incidence of 2% or greater) adverse events, regardless of relationship to therapy and the percent of patients discontinued due to the event, as collected from clinical trials involving 1292 patients with sustained VT/VF.
@@ -16,7 +16,7 @@ Incidence (%) of Adverse Events and Discontinuations
 | DAILY DOSE |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Body System |  |  |  |  |  |  | % Patients) |
-| 160 mg | 240 mg | 320 mg | 480 mg | 640 mg | Any DoseBecause patients are counted at each dose level tested, the Any Dose column cannot be determined by adding across the doses. | Discontinued |  |
+| 160mg | 240mg | 320mg | 480mg | 640mg | Any DoseBecause patients are counted at each dose level tested, the Any Dose column cannot be determined by adding across the doses. | Discontinued |  |
 | (n=832) | (n=263) | (n=835) | (n=459) | (n=324) | (n=1292) | (n=1292) |  |
 | Body as a whole |  |  |  |  |  |  |  |
 | infection | 1 | 2 | 2 | 2 | 3 | 4 | <1 |
@@ -93,4 +93,4 @@ Serious adverse events including death, Torsade de Pointes, other proarrhythmias
 Foreign marketing experience with sotalol hydrochloride shows an adverse experience profile similar to that described above from clinical trials.
 Voluntary reports since introduction include rare reports (less than one report per 10,000 patients) of: emotional lability, slightly clouded sensorium, incoordination, vertigo, paralysis, thrombocytopenia, eosinophilia, leukopenia, photosensitivity reaction, fever, pulmonary edema, hyperlipidemia, myalgia, pruritis, alopecia.
 
-The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been associated with BETAPACE during investigational use and foreign marketing experience.
+The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been associated with Betapace during investigational use and foreign marketing experience.

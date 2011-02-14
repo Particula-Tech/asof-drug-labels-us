@@ -1,12 +1,12 @@
 # OVERDOSAGE
 
-Intentional or accidental overdosage with BETAPACE (sotalol hydrochloride) has rarely resulted in death.
+Intentional or accidental overdosage with Betapace (sotalol hydrochloride) has rarely resulted in death.
 
 ## Symptoms and Treatment of Overdosage
 
 The most common signs to be expected are bradycardia, congestive heart failure, hypotension, bronchospasm and hypoglycemia.
-In cases of massive intentional overdosage (2-16 grams) of BETAPACE the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
-If overdosage occurs, therapy with BETAPACE should be discontinued and the patient observed closely.
+In cases of massive intentional overdosage (2-16 grams) of Betapace the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
+If overdosage occurs, therapy with Betapace should be discontinued and the patient observed closely.
 Because of the lack of protein binding, hemodialysis is useful for reducing sotalol plasma concentrations.
 Patients should be carefully observed until QT intervals are normalized and the heart rate returns to levels >50 bpm.
 The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase (half life of 30 hours) thought to be due to a temporary reduction of renal function caused by the hypotension.

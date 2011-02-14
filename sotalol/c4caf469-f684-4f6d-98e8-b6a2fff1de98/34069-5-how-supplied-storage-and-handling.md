@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-BETAPACE (sotalol hydrochloride); capsule-shaped light-blue scored tablets imprinted with the strength and “BETAPACE”, are available as follows:
+Betapace (sotalol hydrochloride); capsule-shaped light-blue scored tablets imprinted with the strength and “Betapace”, are available as follows:
 
 | NDC 50419-105-10 | 80 mg strength, bottle of 100 |
 | --- | --- |

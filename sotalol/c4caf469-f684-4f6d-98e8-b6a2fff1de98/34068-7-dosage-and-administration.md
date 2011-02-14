@@ -1,18 +1,18 @@
 # DOSAGE AND ADMINISTRATION
 
-As with other antiarrhythmic agents, BETAPACE should be initiated and doses increased in a hospital with facilities for cardiac rhythm monitoring and assessment (see INDICATIONS AND USAGE).
-BETAPACE should be administered only after appropriate clinical assessment (see INDICATIONS AND USAGE), and the dosage of BETAPACE must be individualized for each patient on the basis of therapeutic response and tolerance.
+As with other antiarrhythmic agents, Betapace should be initiated and doses increased in a hospital with facilities for cardiac rhythm monitoring and assessment (see INDICATIONS AND USAGE).
+Betapace should be administered only after appropriate clinical assessment (see INDICATIONS AND USAGE), and the dosage of Betapace must be individualized for each patient on the basis of therapeutic response and tolerance.
 Proarrhythmic events can occur not only at initiation of therapy, but also with each upward dosage adjustment.
 
 ## Adults
 
-Dosage of BETAPACE should be adjusted gradually, allowing 3 days between dosing increments in order to attain steady-state plasma concentrations, and to allow monitoring of QT intervals.
+Dosage of Betapace should be adjusted gradually, allowing 3 days between dosing increments in order to attain steady-state plasma concentrations, and to allow monitoring of QT intervals.
 Graded dose adjustment will help prevent the usage of doses which are higher than necessary to control the arrhythmia.
 The recommended initial dose is 80 mg twice daily.
 This dose may be increased, if necessary, after appropriate evaluation to 240 or 320 mg/day (120-160 mg twice daily).
 In most patients, a therapeutic response is obtained at a total daily dose of 160 to 320 mg/day, given in two or three divided doses.
 Some patients with life-threatening refractory ventricular arrhythmias may require doses as high as 480-640 mg/day; however, these doses should only be prescribed when the potential benefit outweighs the increased risk of adverse events, in particular proarrhythmia.
-Because of the long terminal elimination half-life of BETAPACE, dosing on more than a BID regimen is usually not necessary.
+Because of the long terminal elimination half-life of Betapace, dosing on more than a BID regimen is usually not necessary.
 
 ## Children
 
@@ -31,19 +31,19 @@ At least 36 hours should be allowed between dose increments to attain steadystat
 
 ### For children aged about 2 years or younger
 
-For children aged about 2 years or younger, the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph, age plotted on a logarithmic scale in months.
+For children aged about 2 years or younger. the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph, age plotted on a logarithmic scale in months.
 
 For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97)=29.1 mg/m2, administered three times daily.
-For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)= 20 mg/m2, administered three times daily.
+For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)=20 mg/m2, administered three times daily.
 For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3)=9 mg/m2.
 Similar calculations should be made for increased doses as titration proceeds.
 Since the half-life of sotalol decreases with decreasing age (below about 2 years), time to steady-state will also increase.
 Thus, in neonates the time to steady-state may be as long as a week or longer.
 
 In all children, individualization of dosage is required.
-As in adults BETAPACE (sotalol hydrochloride) should be used with particular caution in children if the QTc is greater than 500 msec on therapy, and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
+As in adults Betapace (sotalol hydrochloride) should be used with particular caution in children if the QTc is greater than 500 msec on therapy, and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
 
-## Dosage In Renal Impairment
+## Dosage in Renal Impairment
 
 ### Adults
 
@@ -56,7 +56,7 @@ Because sotalol is excreted predominantly in urine and its terminal elimination 
 | 10-29 | 36-48 |
 | < 10 | Dose should be individualized |
 
-Since the terminal elimination half-life of BETAPACE (sotalol hydrochloride) is increased in patients with renal impairment, a longer duration of dosing is required to reach steady-state.
+Since the terminal elimination half-life of Betapace (sotalol hydrochloride) is increased in patients with renal impairment, a longer duration of dosing is required to reach steady-state.
 Dose escalations in renal impairment should be done after administration of at least 5-6 doses at appropriate intervals (see table above).
 Extreme caution should be exercised in the use of sotalol in patients with renal failure undergoing hemodialysis.
 The half-life of sotalol is prolonged (up to 69 hours) in anuric patients.
@@ -65,25 +65,25 @@ Both safety (heart rate, QT interval) and efficacy (arrhythmia control) must be 
 
 ### Children
 
-The use of BETAPACE (sotalol hydrochloride) in children with renal impairment has not been investigated.
+The use of Betapace (sotalol hydrochloride) in children with renal impairment has not been investigated.
 Sotalol elimination is predominantly via the kidney in the unchanged form.
 Use of sotalol in any age group with decreased renal function should be at lower doses or at increased intervals between doses.
 Monitoring of heart rate and QTc is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
 
-## Transfer to BETAPACE
+## Transfer to Betapace
 
-Before starting BETAPACE, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2-3 plasma half-lives if the patient's clinical condition permits (see Drug Interactions).
+Before starting Betapace, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2-3 plasma half-lives if the patient's clinical condition permits (see Drug Interactions).
 Treatment has been initiated in some patients receiving I.V. lidocaine without ill effect.
-After discontinuation of amiodarone, BETAPACE should not be initiated until the QT interval is normalized (see WARNINGS).
+After discontinuation of amiodarone, Betapace should not be initiated until the QT interval is normalized (see WARNINGS).
 
 ## Preparation of Extemporaneous Oral Solution
 
-BETAPACE Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
+Betapace Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
 
 1. Measure 120 mL of Simple Syrup.
 2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) BETAPACE 120 mg tablets to the bottle.
+3. Add five (5) Betapace 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    NOTE: The addition of the tablets can also be done first.
    The tablets can also be crushed if preferred.
@@ -104,6 +104,6 @@ This is to ensure that the amount of inactive solid particles per dose remains c
 
 Stability studies indicate that the suspension is stable for three months when stored at controlled room temperature (15°-30°C/59°-86°F) and ambient humidity.
 
-## Transfer to BETAPACE AF from BETAPACE
+## Transfer to Betapace AF from Betapace
 
-Patients with a history of symptomatic AFIB/AFL who are currently receiving BETAPACE for the maintenance of normal sinus rhythm should be transferred to BETAPACE AF because of the significant differences in labeling (i.e., patient package insert for BETAPACE AF, dosing administration, and safety information).
+Patients with a history of symptomatic AFIB/AFL who are currently receiving Betapace for the maintenance of normal sinus rhythm should be transferred to Betapace AF because of the significant differences in labeling (i.e., patient package insert for Betapace AF, dosing administration, and safety information).
