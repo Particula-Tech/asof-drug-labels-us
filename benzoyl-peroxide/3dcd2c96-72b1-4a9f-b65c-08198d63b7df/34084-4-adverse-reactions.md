@@ -23,3 +23,9 @@ Combined Results from the Two Phase 3 Trials (N = 773)
 | Itching | 10 | 2 | 0 | 15 | 2 | 0 | 6 | < 1 | 0 |
 | Burning | 3 | < 1 | 0 | 8 | 2 | 0 | 2 | < 1 | 0 |
 | Stinging | 2 | < 1 | 0 | 6 | 1 | 0 | 1 | < 1 | 0 |
+
+## 6.2 Postmarketing Experience
+
+Anaphylaxis, as well as allergic reactions leading to hospitalizations, has been reported in postmarketing use of products containing clindamycin/benzoyl peroxide.
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

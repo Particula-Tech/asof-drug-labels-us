@@ -1,4 +1,4 @@
-PATIENT INFORMATION ACANYA® (AH-CAN΄-YAH) Gel (clindamycin phosphate 1.2% and benzoyl peroxide 2.5%)
+PATIENT INFORMATION ACANYA® (AH-CAN΄-YAH) (clindamycin phosphate and benzoyl peroxide) Gel, 1.2%/2.5%
 
 | IMPORTANT: For use on skin only (topical use). Do not get ACANYA Gel in your mouth, eyes, or vagina, or on your lips. |
 | --- |
@@ -31,6 +31,7 @@ What should I tell my doctor before using ACANYA Gel?
 Before using ACANYA Gel, tell your doctor about all of your medical conditions, including if you:
 
 - have any allergies.
+- have any other medical conditions.
 - are pregnant or planning to become pregnant.
   It is not known if ACANYA Gel will harm your unborn baby.
 - are breastfeeding or plan to breast-feed.
@@ -92,6 +93,11 @@ ACANYA Gel can cause serious side effects including:
 
 - Inflammation of the colon (colitis).
   Stop using ACANYA Gel and call your doctor right away if you have severe watery diarrhea, or bloody diarrhea.
+- Allergic reactions.
+  Stop using ACANYA Gel, call your doctor and get help right away if you have any of the following symptoms:
+  - severe itching
+  - swelling of your face, eyes, lips, tongue or throat
+  - trouble breathing
 
 Common side effects with ACANYA Gel include:
 
@@ -104,12 +110,14 @@ These are not all the possible side effects with ACANYA Gel.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Coria Laboratories, a division of Valeant Pharmaceuticals North America, Fort Worth, TX 76107 at 1-866-321-4576.
+You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+You may also report side effects to CORIA Laboratories at 1-800-321-4576.
 
 How should I store ACANYA Gel?
 
-- Store ACANYA Gel at room temperature at or below 77°F (25°C).
-- The expiration date is 2 months from the date you fill your prescription.
+- Store ACANYA Gel at room temperature at or below 22°C (77°F).
+- The expiration date of ACANYA Gel is 10 weeks from the date you fill your prescription.
 - Safely throw away expired ACANYA Gel.
 - Do not freeze.
 - Keep the container tightly closed.
@@ -127,7 +135,7 @@ This leaflet summarizes the most important information about ACANYA Gel.
 If you would like more information, talk with your doctor.
 You can also ask your doctor or pharmacist for information about ACANYA Gel that is written for healthcare professionals.
 
-For more information about ACANYA Gel, call 1-800-321-4576 or go to www.AcanyaGel.com.
+For more information about ACANYA Gel, call 1-800-321-4576.
 
 What are the ingredients in ACANYA Gel?
 
@@ -135,7 +143,7 @@ Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 2.5%
 
 Inactive Ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide
 
-Issued 04/2010
+Issued 10/2010
 
 Marketed by: Coria Laboratories, a division of Valeant Pharmaceuticals North America, Fort Worth, TX 76107
 

@@ -41,7 +41,7 @@ The results of Study 2 at week 12 are presented in the table below:
 | --- | --- | --- | --- | --- |
 |  | ACANYA Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
 | EGSS Clear or Almost Clear | 113 (28%) | 94 (23%) | 94 (23%) | 21 (11%) |
-| ----------------- |  |  |  |  |
+| ------------------------------- |  |  |  |  |
 | 2 grade reduction from baseline | 147 (37%) | 114 (28%) | 114 (28%) | 27 (14%) |
 | Inflammatory Lesions: |  |  |  |  |
 | Mean absolute change | 13.7 | 11.3 | 11.2 | 5.7 |

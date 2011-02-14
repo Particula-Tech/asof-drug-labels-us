@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.5).
+See FDA-Approved Patient Labeling
 
 ## 17.1 Instructions for Use
 
@@ -27,9 +27,14 @@ Patients should report any signs or symptoms of local skin irritation to their p
 
 In the event a patient treated with ACANYA Gel experiences severe diarrhea or gastrointestinal discomfort, ACANYA Gel should be discontinued and a physician should be contacted.
 
-## 17.4 Ultraviolet Light and Environmental Exposure
+## 17.4 Allergic Reactions
+
+Patients who develop allergic reactions, such as severe swelling or shortness of breath, should discontinue ACANYA Gel and contact their physician immediately.
+In addition, patients should report any signs of local adverse reactions to their physician.
+
+## 17.5 Ultraviolet Light and Environmental Exposure
 
 Patient should minimize exposure to natural and avoid artificial sunlight (tanning beds or UVA/B treatment) while using ACANYA Gel.
 To minimize exposure to sunlight, a wide-brimmed hat or other protective clothing should be worn and a sunscreen with SPF 15 rating or higher should be used.
 
-## 17.5 FDA-Approved Patient Labeling
+## 17.6 FDA-Approved Patient Labeling
