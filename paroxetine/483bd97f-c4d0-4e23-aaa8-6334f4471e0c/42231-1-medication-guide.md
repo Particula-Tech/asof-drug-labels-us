@@ -64,7 +64,7 @@ What else do I need to know about antidepressant medicines?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Month Year PCR-AP:1MG
+August 2010 PCR-AP:1MG
 
 Manufactured by:
 
@@ -78,7 +78,4 @@ Apotex Corp.
 
 Weston, FL 33326
 
-©2010, GlaxoSmithKline.
-All rights reserved.
-
-Month 2010 PCR-AP:1PI
+February 2011 PCR-AP:2PI
