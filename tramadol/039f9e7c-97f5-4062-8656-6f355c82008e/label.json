@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021692"
+  ],
+  "inn": "tramadol",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "50458-653-30",
+    "50458-655-30",
+    "50458-657-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "Ultram ER"
+    }
+  ],
+  "setid": "039f9e7c-97f5-4062-8656-6f355c82008e",
+  "source": "dailymed"
+}
