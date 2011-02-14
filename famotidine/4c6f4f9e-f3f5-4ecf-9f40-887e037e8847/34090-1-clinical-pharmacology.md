@@ -207,7 +207,7 @@ Table 8
 | 0.5 mg/kg, single dose | I.V. | a >2 pH unit increase above baseline in gastric pH for >8 hours | 9 (2 to 13 years) |
 | 0.5 mg/kg b.i.d. | I.V. | gastric pH >5 for 13.5 ±1.8b hours | 4 (6 to 15 years) |
 | 0.5 mg/kg b.i.d. | oral | gastric pH >5 for 5 ±1.1b hours | 4 (11 to 15 years) |
-| a Values reported in published literature.bMeans ± SD.cMean (95% confidence interval). |  |  |  |
+| a Values reported in published literature.b Means ± SD.c Mean (95% confidence interval). |  |  |  |
 
 The duration of effect of famotidine I.V.
 0.5 mg/kg on gastric pH and acid suppression was shown in one study to be longer in pediatric patients <1 month of age than in older pediatric patients.

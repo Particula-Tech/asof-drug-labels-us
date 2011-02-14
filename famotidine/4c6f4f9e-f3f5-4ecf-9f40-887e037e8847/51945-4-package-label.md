@@ -1,10 +1,8 @@
 # PRINCIPAL DISPLAY SECTION
 
-## Famotidine Tabs 20mg 100s Label Text
+## Famotidine 20 mg 100s Label Text
 
 NDC 0172-5728-60
-
-New Product Appearance
 
 FAMOTIDINE
 
@@ -20,11 +18,9 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Famotidine Tabs 40mg 100s Label Text
+## Famotidine 40 mg 100s Label Text
 
 NDC 0172-5729-60
-
-New Product Appearance
 
 FAMOTIDINE
 

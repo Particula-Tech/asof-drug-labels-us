@@ -54,7 +54,7 @@ Tinnitus, taste disorder
 
 Rare cases of impotence and rare cases of gynecomastia have been reported; however, in controlled clinical trials, the incidences were not greater than those seen with placebo.
 
-The adverse reactions reported for famotidine tablets may also occur with famotidine for oral suspension and famotidine orally disintegrating tablets.
+The adverse reactions reported for famotidine tablets may also occur with famotidine for oral suspension.
 
 ## Pediatric Patients
 
