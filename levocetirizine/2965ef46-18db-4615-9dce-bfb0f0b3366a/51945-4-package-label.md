@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
+PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Label
 
 Rx Only
 
 PERRIGO®
 
-NDC 45802-594-65
+NDC 45802-594-75
 
 Levocetirizine Dihydrochloride Tablets
 
@@ -12,4 +12,4 @@ Levocetirizine Dihydrochloride Tablets
 
 For oral administration
 
-30 Tablets
+90 Tablets

@@ -16,9 +16,9 @@ The primary endpoint was the mean total symptom score averaged over the first we
 The three dose-ranging trials were conducted to evaluate the efficacy of levocetirizine dihydrochloride tablets 2.5, 5, and 10 mg once daily in the evening.
 One trial was 2 weeks in duration conducted in patients with seasonal allergic rhinitis, and two trials were 4 weeks in duration conducted in patients with perennial allergic rhinitis.
 In these trials, each of the three doses of levocetirizine dihydrochloride tablets demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in two of the studies.
-Results for two of these trials are shown in Table 3.
+Results for two of these trials are shown in Table 4.
 
-Table 3 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
+Table 4 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
 
 | Estimate | 95% CI | p-value |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,15 +35,15 @@ Table 3 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of ind
 | Placebo | 128 | 7.22 | 5.29 |  |  |  |
 
 One clinical trial was designed to evaluate the efficacy of levocetirizine dihydrochloride tablets 5 mg once daily in the evening compared with placebo in patients with seasonal allergic rhinitis over a 2-week treatment period.
-In this trial, levocetirizine dihydrochloride tablets 5 mg demonstrated a greater decrease from baseline in the reflective and instantaneous total symptom score than placebo, and the difference was statistically significant (see Table 4).
+In this trial, levocetirizine dihydrochloride tablets 5 mg demonstrated a greater decrease from baseline in the reflective and instantaneous total symptom score than placebo, and the difference was statistically significant (see Table 6).
 The results of the instantaneous total symptom score support efficacy at the end of the dosing interval.
 
 One clinical trial evaluated the efficacy of levocetirizine dihydrochloride tablets 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
 Another trial conducted over a 6-month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride tablets 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
-Results of one of these trials are shown in Table 4.
+Results of one of these trials are shown in Table 5.
 
-Table 4 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
+Table 5 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0-3 categorical severity scale. and Instantaneous Total Symptom Score in Allergic Rhinitis Trials
 
 | Estimate | 95% CI | p-value |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,15 +82,15 @@ The primary efficacy endpoint was the mean reflective pruritus severity score ov
 Additional efficacy variables were the instantaneous pruritus severity score, the number and size of wheals, and duration of pruritus.
 
 The dose-ranging trial was conducted to evaluate the efficacy of levocetirizine dihydrochloride tablets 2.5, 5, and 10 mg once daily in the evening.
-In this trial, each of the three doses of levocetirizine dihydrochloride tablets demonstrated greater decrease in the reflective pruritus severity score than placebo and the difference was statistically significant for all three doses (see Table 5).
+In this trial, each of the three doses of levocetirizine dihydrochloride tablets demonstrated greater decrease in the reflective pruritus severity score than placebo and the difference was statistically significant for all three doses (see Table 6).
 
 The single dose level trial evaluated the efficacy of levocetirizine dihydrochloride tablets 5 mg once daily in the evening compared to placebo in patients with chronic idiopathic urticaria over a 4-week treatment period.
 Levocetirizine dihydrochloride tablets 5 mg demonstrated a greater decrease from baseline in the reflective pruritus severity score than placebo and the difference from placebo was statistically significant.
 
 Duration of pruritus, number and size of wheals, and instantaneous pruritus severity score also showed significant improvement over placebo.
-The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 5).
+The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 6).
 
-Table 5 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
+Table 6 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
 | Estimate | 95% CI | p-value |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

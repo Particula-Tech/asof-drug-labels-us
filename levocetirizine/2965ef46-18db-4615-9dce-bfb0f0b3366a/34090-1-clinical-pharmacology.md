@@ -68,7 +68,7 @@ Data from a pediatric pharmacokinetic study with oral administration of a single
 The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
 Pharmacokinetic information in pediatric patients (age 1 to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in pediatric patients.
+However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
 
 - Geriatric Patients
 
