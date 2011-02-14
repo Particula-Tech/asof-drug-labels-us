@@ -5,7 +5,7 @@
 Chronic use of CELEBREX may cause an increased risk of serious adverse cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 In the APC (Adenoma Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of cardiovascular death, MI, or stroke was 3.4 (95% CI 1.4 – 8.5) for CELEBREX 400 mg twice daily and 2.8 (95% CI 1.1 – 7.2) with CELEBREX 200 mg twice daily compared to placebo.
 Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment.
-The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.7)].
+The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of myocardial infarction [see Clinical Studies (14.6)].
 
 All NSAIDs, both COX-2 selective and non-selective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
@@ -24,12 +24,12 @@ As with all NSAIDs, CELEBREX can lead to the onset of new hypertension or worsen
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 NSAIDs, including CELEBREX, should be used with caution in patients with hypertension.
 Blood pressure should be monitored closely during the initiation of therapy with CELEBREX and throughout the course of therapy.
-The rates of hypertension from the CLASS trial in the CELEBREX, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively [see Clinical Studies (14.7)].
+The rates of hypertension from the CLASS trial in the CELEBREX, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively [see Clinical Studies (14.6)].
 
 ## 5.3 Congestive Heart Failure and Edema
 
 Fluid retention and edema have been observed in some patients taking NSAIDs, including CELEBREX [see Adverse Reactions (6.1)].
-In the CLASS study [see Clinical Studies (14.7)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively, and the approved dose for FAP), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
+In the CLASS study [see Clinical Studies (14.6)], the Kaplan-Meier cumulative rates at 9 months of peripheral edema in patients on CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.
 CELEBREX should be used with caution in patients with fluid retention or heart failure.
 
 ## 5.4 Gastrointestinal (GI) Effects
@@ -40,7 +40,7 @@ NSAIDs, including CELEBREX, can cause serious gastrointestinal events including 
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
-Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
+Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.6)].
 With longer duration of use of NSAIDs, there is a trend for increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 
@@ -127,16 +127,10 @@ In controlled clinical trials, elevated BUN occurred more frequently in patients
 This laboratory abnormality was also seen in patients who received comparator NSAIDs in these studies.
 The clinical significance of this abnormality has not been established.
 
-## 5.15 GI Cancer in Familial Adenomatous Polyposis
-
-Treatment with CELEBREX in FAP has not been shown to reduce the risk of gastrointestinal cancer or the need for prophylactic colectomy or other FAP-related surgeries.
-Therefore, the usual care of FAP patients should not be altered because of the concurrent administration of CELEBREX.
-In particular, the frequency of routine endoscopic surveillance should not be decreased and prophylactic colectomy or other FAP-related surgeries should not be delayed.
-
-## 5.16 Inflammation
+## 5.15 Inflammation
 
 The pharmacological activity of CELEBREX in reducing inflammation, and possibly fever, may diminish the utility of these diagnostic signs in detecting infectious complications of presumed noninfectious, painful conditions.
 
-## 5.17 Concomitant NSAID Use
+## 5.16 Concomitant NSAID Use
 
 The concomitant use of CELEBREX with any dose of a non-aspirin NSAID should be avoided due to the potential for increased risk of adverse reactions.

@@ -51,7 +51,7 @@ However, as with other NSAIDs, including those that selectively inhibit COX-2, t
 ## 8.6 Hepatic Insufficiency
 
 The daily recommended dose of CELEBREX capsules in patients with moderate hepatic impairment (Child-Pugh Class B) should be reduced by 50%.
-The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 
@@ -59,7 +59,7 @@ CELEBREX is not recommended in patients with severe renal insufficiency [see War
 
 ## 8.8 Poor Metabolizers of CYP2C9 Substrates
 
-Patients who are known or suspected to be poor CYP2C9 metabolizers based on previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
-Consider starting treatment at half the lowest recommended dose.
+Patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin, phenytoin) should be administered celecoxib with caution.
+Consider starting treatment at half the lowest recommended dose in poor metabolizers (i.e., CYP2C9*3/*3).
 Alternative management should be considered in JRA patients identified to be CYP2C9 poor metabolizers.
-[see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+[see Dosage and Administration (2.6) and Clinical Pharmacology (12.5)].

@@ -22,7 +22,7 @@ Patients on lithium treatment should be closely monitored when CELEBREX is intro
 ## 7.3 Aspirin
 
 CELEBREX can be used with low-dose aspirin.
-However, concomitant administration of aspirin with CELEBREX increases the rate of GI ulceration or other complications, compared to use of CELEBREX alone [see Warnings and Precautions (5.1, 5.4) and Clinical Studies (14.7)].
+However, concomitant administration of aspirin with CELEBREX increases the rate of GI ulceration or other complications, compared to use of CELEBREX alone [see Warnings and Precautions (5.1, 5.4) and Clinical Studies (14.6)].
 Because of its lack of platelet effects, CELEBREX is not a substitute for aspirin for cardiovascular prophylaxis [see Clinical Pharmacology (12.2)].
 
 ## 7.4 ACE-inhibitors and Angiotensin II Antagonists

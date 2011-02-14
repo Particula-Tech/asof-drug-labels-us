@@ -49,12 +49,6 @@ Metabolism: Celecoxib metabolism is primarily mediated via CYP2C9.
 Three metabolites, a primary alcohol, the corresponding carboxylic acid and its glucuronide conjugate, have been identified in human plasma.
 These metabolites are inactive as COX-1 or COX-2 inhibitors.
 
-CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
-Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
-The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
-It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
-[see Dosage and Administration (2.7), Use in Specific Populations (8.8)].
-
 Excretion: Celecoxib is eliminated predominantly by hepatic metabolism with little (<3%) unchanged drug recovered in the urine and feces.
 Following a single oral dose of radiolabeled drug, approximately 57% of the dose was excreted in the feces and 27% was excreted into the urine.
 The primary metabolite in both urine and feces was the carboxylic acid metabolite (73% of dose) with low amounts of the glucuronide also appearing in the urine.
@@ -65,7 +59,7 @@ The apparent plasma clearance (CL/F) is about 500 mL/min.
 Geriatric: At steady state, elderly subjects (over 65 years old) had a 40% higher Cmax and a 50% higher AUC compared to the young subjects.
 In elderly females, celecoxib Cmax and AUC are higher than those for elderly males, but these increases are predominantly due to lower body weight in elderly females.
 Dose adjustment in the elderly is not generally necessary.
-However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Dosage and Administration (2.7) and Use in Specific Populations (8.5)].
+However, for patients of less than 50 kg in body weight, initiate therapy at the lowest recommended dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.5)].
 
 Pediatric: The steady state pharmacokinetics of celecoxib administered as an investigational oral suspension was evaluated in 152 JRA patients 2 years to 17 years of age weighing ≥10 kg with pauciarticular or polyarticular course JRA and in patients with systemic onset JRA.
 Population pharmacokinetic analysis indicated that the oral clearance (unadjusted for body weight) of celecoxib increases less than proportionally to increasing weight, with 10 kg and 25 kg patients predicted to have 40% and 24% lower clearance, respectively, compared with a 70 kg adult RA patient.
@@ -79,7 +73,7 @@ The cause and clinical significance of this finding is unknown.
 Hepatic Insufficiency: A pharmacokinetic study in subjects with mild (Child-Pugh Class A) and moderate (Child-Pugh Class B) hepatic impairment has shown that steady-state celecoxib AUC is increased about 40% and 180%, respectively, above that seen in healthy control subjects.
 Therefore, the daily recommended dose of CELEBREX capsules should be reduced by approximately 50% in patients with moderate (Child-Pugh Class B) hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh Class C) have not been studied.
-The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
+The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 Renal Insufficiency: In a cross-study comparison, celecoxib AUC was approximately 40% lower in patients with chronic renal insufficiency (GFR 35–60 mL/min) than that seen in subjects with normal renal function.
 No significant relationship was found between GFR and celecoxib clearance.
@@ -98,3 +92,11 @@ Fluconazole: Concomitant administration of fluconazole at 200 mg once daily resu
 This increase is due to the inhibition of celecoxib metabolism via P450 2C9 by fluconazole [see Drug Interactions (7.5)].
 
 Other Drugs: The effects of celecoxib on the pharmacokinetics and/or pharmacodynamics of glyburide, ketoconazole, methotrexate [see Drug Interactions (7.7)], phenytoin, and tolbutamide have been studied in vivo and clinically important interactions have not been found.
+
+## 12.5 Pharmacogenomics
+
+CYP2C9 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity, such as those homozygous for the CYP2C9*2 and CYP2C9*3 polymorphisms.
+Limited data from 4 published reports that included a total of 8 subjects with the homozygous CYP2C9*3/*3 genotype showed celecoxib systemic levels that were 3- to 7-fold higher in these subjects compared to subjects with CYP2C9*1/*1 or *I/*3 genotypes.
+The pharmacokinetics of celecoxib have not been evaluated in subjects with other CYP2C9 polymorphisms, such as *2, *5, *6, *9 and *11.
+It is estimated that the frequency of the homozygous *3/*3 genotype is 0.3% to 1.0% in various ethnic groups.
+[see Dosage and Administration (2.6), Use in Specific Populations (8.8)].

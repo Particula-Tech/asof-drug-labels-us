@@ -79,7 +79,7 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 
 ## 6.2 The Celecoxib Long-Term Arthritis Safety Study
 
-[see Special Studies (14.7)]
+[see Special Studies (14.6)]
 
 Hematological Events: The incidence of clinically significant decreases in hemoglobin (>2 g/dL) was lower in patients on CELEBREX 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%.
 The lower incidence of events with CELEBREX was maintained with or without ASA use [see Clinical Pharmacology (12.2)].
@@ -138,12 +138,9 @@ Doses up to 600 mg/day of CELEBREX were studied in primary dysmenorrhea and post
 The types of adverse events in the analgesia and dysmenorrhea studies were similar to those reported in arthritis studies.
 The only additional adverse event reported was post-dental extraction alveolar osteitis (dry socket) in the post-oral surgery pain studies.
 
-Adverse Events from the Familial Adenomatous Polyposis Study: The adverse event profile reported for the 83 patients with familial adenomatous polyposis enrolled in the randomized, controlled clinical trial was similar to that reported for patients in the arthritis-controlled trials.
-Intestinal anastomotic ulceration was the only new adverse event reported in the FAP trial, regardless of causality, and was observed in 3 of 58 patients (one at 100 mg twice daily, and two at 400 mg twice daily) who had prior intestinal surgery.
-
 ## 6.5 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.6)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from CELEBREX pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with CELEBREX were greater as compared to the arthritis pre-marketing trials were as follows:

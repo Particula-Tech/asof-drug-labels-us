@@ -42,19 +42,7 @@ The responder analysis also demonstrated no change in the responder rates beyond
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, CELEBREX relieved pain that was rated by patients as moderate to severe.
 Single doses [see Dosage and Administration (2.5)] of CELEBREX provided pain relief within 60 minutes.
 
-## 14.6 Familial Adenomatous Polyposis
-
-CELEBREX was evaluated to reduce the number of adenomatous colorectal polyps.
-A randomized, double-blind, placebo-controlled study was conducted in patients with FAP.
-The study population included 58 patients with a prior subtotal or total colectomy and 25 patients with an intact colon.
-Thirteen patients had the attenuated FAP phenotype.
-
-One area in the rectum and up to four areas in the colon were identified at baseline for specific follow-up, and polyps were counted at baseline and following six months of treatment.
-The mean reduction in the number of colorectal polyps was 28% for CELEBREX 400 mg twice daily, 12% for CELEBREX 100 mg twice daily and 5% for placebo.
-The reduction in polyps observed with CELEBREX 400 mg twice daily was statistically superior to placebo at the six-month timepoint (p=0.003).
-(See Figure 1)
-
-## 14.7 Special Studies
+## 14.6 Special Studies
 
 Adenomatous Polyp Prevention Studies:
 
@@ -74,7 +62,7 @@ As a result, all NSAIDs are considered potentially associated with this risk.
 Celecoxib Long-Term Arthritis Safety Study (CLASS):
 
 This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients.
-Patients received CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively, and the approved dose for FAP), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
+Patients received CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
 Median exposures for CELEBREX (n = 3,987) and diclofenac (n = 1,996) were 9 months while ibuprofen (n = 1,985) was 6 months.
 The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation or obstruction).
 Patients were allowed to take concomitant low-dose (≤ 325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: CELEBREX, n = 882; diclofenac, n = 445; ibuprofen, n = 412).
@@ -111,11 +99,11 @@ The cumulative rates for myocardial infarction in non-ASA users at nine months i
 There was no placebo group in the CLASS trial, which limits the ability to determine whether the three drugs tested had no increased risk of CV events or if they all increased the risk to a similar degree.
 
 Endoscopic Studies: The correlation between findings of short-term endoscopic studies with CELEBREX and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving CELEBREX in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.7)]
+Serious clinically significant upper GI bleeding has been observed in patients receiving CELEBREX in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.6)]
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking CELEBREX 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
-However, CELEBREX was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.7)].
+However, CELEBREX was not statistically different than diclofenac for clinically relevant GI outcomes in the CLASS trial [see Clinical Studies (14.6)].
 
 The incidence of endoscopic ulcers was studied in two 12-week, placebo-controlled studies in 2157 OA and RA patients in whom baseline endoscopies revealed no ulcers.
 There was no dose relationship for the incidence of gastroduodenal ulcers and the dose of CELEBREX (50 mg to 400 mg twice daily).

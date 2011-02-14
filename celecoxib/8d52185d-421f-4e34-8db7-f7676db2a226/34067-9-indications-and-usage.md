@@ -26,10 +26,3 @@ CELEBREX is indicated for the management of AP in adults [see Clinical Studies (
 ## 1.6 Primary Dysmenorrhea (PD)
 
 CELEBREX is indicated for the treatment of PD [see Clinical Studies (14.5)]
-
-## 1.7 Familial Adenomatous Polyposis (FAP)
-
-CELEBREX is indicated to reduce the number of adenomatous colorectal polyps in FAP, as an adjunct to usual care (e.g., endoscopic surveillance, surgery).
-It is not known whether there is a clinical benefit from a reduction in the number of colorectal polyps in FAP patients.
-It is also not known whether the effects of CELEBREX treatment will persist after CELEBREX is discontinued.
-The efficacy and safety of CELEBREX treatment in patients with FAP beyond six months have not been studied [see Warnings and Precautions (5.15), Clinical Studies (14.6)]

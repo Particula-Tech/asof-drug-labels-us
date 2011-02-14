@@ -57,8 +57,3 @@ Patients should be informed that in late pregnancy CELEBREX should be avoided be
 Patients should be instructed to tell their physicians if they have a history of asthma or aspirin-sensitive asthma because the use of NSAIDs in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
 Patients with this form of aspirin sensitivity should be instructed not to take Celebrex.
 Patients with preexisting asthma should be instructed to seek immediate medical attention if their asthma worsens after taking Celebrex [see Warnings and Precautions (5.13)].
-
-## 17.10 GI Cancer in Familial Adenomatous Polyposis
-
-Patients with FAP should be informed that CELEBREX has not been shown to reduce colorectal, duodenal or other FAP-related cancers, or the need for endoscopic surveillance, prophylactic or other FAP-related surgery.
-Therefore, all patients with FAP should be instructed to continue their usual care while receiving CELEBREX [see Warnings and Precautions (5.15)].

@@ -6,7 +6,7 @@
   All nonsteroidal anti-inflammatory drugs (NSAIDs) may have a similar risk.
   This risk may increase with duration of use.
   Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-  (5.1,14.7)
+  (5.1,14.6)
 - CELEBREX is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery.
   (4, 5.1)
 
