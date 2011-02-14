@@ -67,26 +67,37 @@ Data on patients receiving comparator agents in these trials are included for co
 
 Table 3: Summary of Adverse Events Reported by ≥2% of SPORANOX® Treated Patients in U.S. Clinical Trials (Total)
 
-| Total (n = 350*) % | All controlled studies (n = 272) % | Fluconazole (n = 125†) % | Clotrimazole (n = 81‡) % |  |
+| Total (n = 350Of the 350 patients, 209 were treated for oropharyngeal candidiasis in controlled studies, 63 were treated for esophageal candidiasis in controlled studies and 78 were treated for oropharyngeal candidiasis in an open study.) % | All controlled studies (n = 272) % | Fluconazole (n = 125Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis.) % | Clotrimazole (n = 81All 81 patients were treated for oropharyngeal candidiasis.) % |  |
 | --- | --- | --- | --- | --- |
 | Body System/ Adverse Event | Itraconazole |  |  |  |
 | Gastrointestinal disorders |  |  |  |  |
-| Nausea Diarrhea Vomiting Abdominal pain Constipation | 11 11 7 6 2 | 10 10 6 4 2 | 11 10 8 7 1 | 5 4 1 7 0 |
+| Nausea | 11 | 10 | 11 | 5 |
+| Diarrhea | 11 | 10 | 10 | 4 |
+| Vomiting | 7 | 6 | 8 | 1 |
+| Abdominal pain | 6 | 4 | 7 | 7 |
+| Constipation | 2 | 2 | 1 | 0 |
 | Body as a whole |  |  |  |  |
-| Fever Chest pain Pain Fatigue | 7 3 2 2 | 6 3 2 1 | 8 2 4 2 | 5 0 0 0 |
+| Fever | 7 | 6 | 8 | 5 |
+| Chest pain | 3 | 3 | 2 | 0 |
+| Pain | 2 | 2 | 4 | 0 |
+| Fatigue | 2 | 1 | 2 | 0 |
 | Respiratory disorders |  |  |  |  |
-| Coughing Dyspnea Pneumonia Sinusitis Sputum increased | 4 2 2 2 2 | 4 3 2 2 3 | 10 5 0 4 3 | 0 1 0 0 1 |
+| Coughing | 4 | 4 | 10 | 0 |
+| Dyspnea | 2 | 3 | 5 | 1 |
+| Pneumonia | 2 | 2 | 0 | 0 |
+| Sinusitis | 2 | 2 | 4 | 0 |
+| Sputum increased | 2 | 3 | 3 | 1 |
 | Skin and appendages disorders |  |  |  |  |
-| Rash Increased sweating Skin disorder unspecified | 4 3 2 | 5 4 2 | 4 6 2 | 6 1 1 |
+| Rash | 4 | 5 | 4 | 6 |
+| Increased sweating | 3 | 4 | 6 | 1 |
+| Skin disorder unspecified | 2 | 2 | 2 | 1 |
 | Central/peripheral nervous system |  |  |  |  |
-| Headache Dizziness | 4 2 | 4 2 | 6 4 | 6 1 |
+| Headache | 4 | 4 | 6 | 6 |
+| Dizziness | 2 | 2 | 4 | 1 |
 | Resistance mechanism disorders |  |  |  |  |
 | Pneumocystis carinii infection | 2 | 2 | 2 | 0 |
 | Psychiatric disorders |  |  |  |  |
 | Depression | 2 | 1 | 0 | 1 |
-| * Of the 350 patients, 209 were treated for oropharyngeal candidiasis in controlled studies, 63 were treated for esophageal candidiasis in controlled studies and 78 were treated for oropharyngeal candidiasis in an open study. |  |  |  |  |
-| † Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis. |  |  |  |  |
-| ‡ All 81 patients were treated for oropharyngeal candidiasis. |  |  |  |  |
 
 Adverse events reported by less than 2% of patients in U.S. clinical trials with SPORANOX® included: adrenal insufficiency, asthenia, back pain, dehydration, dyspepsia, dysphagia, flatulence, gynecomastia, hematuria, hemorrhoids, hot flushes, implantation complication, infection unspecified, injury, insomnia, male breast pain, myalgia, pharyngitis, pruritus, rhinitis, rigors, stomatitis ulcerative, taste perversion, tinnitus, upper respiratory tract infection, vision abnormal, and weight decrease.
 Edema, hypokalemia and menstrual disorders have been reported in clinical trials with itraconazole capsules.

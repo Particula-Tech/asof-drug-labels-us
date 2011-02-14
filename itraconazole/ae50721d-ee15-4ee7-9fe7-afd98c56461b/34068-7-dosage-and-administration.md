@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Empiric Therapy in Febrile, Neutropenic Patients with Suspected Fungal Infections (ETFN):
+## Empiric Therapy in Febrile, Neutropenic Patients with Suspected Fungal Infections (ETFN)
 
 The recommended dose of SPORANOX® Injection is 200 mg b.i.d. for four doses, followed by 200 mg once daily for up to 14 days.
 Each intravenous dose should be infused over 1 hour.
@@ -9,7 +9,7 @@ The safety and efficacy of SPORANOX® use exceeding 28 days in ETFN is not known
 
 SPORANOX® Oral Solution is a different preparation than SPORANOX® Capsules and should not be used interchangeably.
 
-## Treatment of Oropharyngeal and Esophageal Candidiasis:
+## Treatment of Oropharyngeal and Esophageal Candidiasis
 
 The solution should be vigorously swished in the mouth (10 mL at a time) for several seconds and swallowed.
 
@@ -29,13 +29,13 @@ SPORANOX® Oral Solution and SPORANOX® Capsules should not be used interchangea
 Patients should be instructed to take SPORANOX® Oral Solution without food, if possible.
 Only SPORANOX® Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
 
-### Use in Patients with Renal Impairment:
+## Use in Patients with Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.
 (See CLINICAL PHARMACOLOGY: Special Populations and PRECAUTIONS.)
 
-### Use in Patients with Hepatic Impairment:
+## Use in Patients with Hepatic Impairment
 
 Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
 Caution should be exercised when this drug is administered in this patient population.
