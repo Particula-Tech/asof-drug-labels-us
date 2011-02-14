@@ -5,8 +5,8 @@
 Rituxan® (rituximab) is indicated for the treatment of patients with:
 
 - Relapsed or refractory, low‑grade or follicular, CD20‑positive, B‑cell NHL as a single agent
-- Previously untreated follicular, CD20‑positive, B‑cell NHL in combination with CVP chemotherapy
-- Non‑progressing (including stable disease), low‑grade, CD20‑positive, B‑cell NHL, as a single agent, after first‑line CVP chemotherapy
+- Previously untreated follicular, CD20‑positive, B‑cell NHL in combination with first line chemotherapy and, in patients achieving a complete or partial response to Rituxan in combination with chemotherapy, as single-agent maintenance therapy.
+- Non‑progressing (including stable disease), low‑grade, CD20‑positive, B‑cell NHL as a single agent after first‑line CVP chemotherapy
 - Previously untreated diffuse large B‑cell, CD20‑positive NHL in combination with CHOP or other anthracycline‑based chemotherapy regimens
 
 ## 1.2 Chronic Lymphocytic Leukemia (CLL)

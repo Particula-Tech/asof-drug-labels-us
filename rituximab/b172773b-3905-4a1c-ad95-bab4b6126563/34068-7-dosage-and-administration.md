@@ -19,7 +19,9 @@ The recommended dose is 375 mg/m2 as an IV infusion according to the following s
 
 - Relapsed or Refractory, Low‑Grade or Follicular, CD20‑Positive, B‑Cell NHL Administer once weekly for 4 or 8 doses.
 - Retreatment for Relapsed or Refractory, Low‑Grade or Follicular, CD20‑Positive, B‑Cell NHL Administer once weekly for 4 doses.
-- Previously Untreated, Follicular, CD20‑Positive, B‑Cell NHL Administer on Day 1 of each cycle of CVP chemotherapy, for up to 8 doses.
+- Previously Untreated, Follicular, CD20‑Positive, B‑Cell NHL Administer on Day 1 of each cycle of chemotherapy, for up to 8 doses.
+  In patients with complete or partial response, initiate Rituxan maintenance eight weeks following completion of Rituxan in combination with chemotherapy.
+  Administer Rituxan as a single-agent every 8 weeks for 12 doses.
 - Non‑progressing, Low‑Grade, CD20‑Positive, B‑cell NHL, after first‑line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy, administer once weekly for 4 doses at 6‑month intervals to a maximum of 16 doses.
 - Diffuse Large B‑Cell NHL Administer on Day 1 of each cycle of chemotherapy for up to 8 infusions.
 

@@ -39,7 +39,9 @@ Table 3: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting
 | Median Duration of Responseb, c, d (Months) [Range] | 11.2 [1.9 to 42.1+] | 13.4 [2.5 to 36.5+] | 6.9 [2.8 to 25.0+] | 15.0 [3.0 to 25.1+] |
 | a Six of these patients are included in the first column. Thus, data from 296 intent‑to‑treat patients are provided in this table. b Kaplan-Meier projected with observed range. c "+" indicates an ongoing response. d Duration of response: interval from the onset of response to disease progression. |  |  |  |  |
 
-## 14.2 Previously Untreated, Follicular, CD20-Positive, B-Cell NHL
+## 14.2 Previously Untreated, Low-Grade or Follicular, CD20-Positive, B-Cell NHL
+
+The safety and effectiveness of Rituxan in previously untreated, low-grade or follicular, CD20+ NHL were demonstrated in 3 randomized, controlled trials enrolling 1,662 patients.
 
 Study 4
 
@@ -60,9 +62,24 @@ Table 4: Efficacy Results in Study 4
 | Hazard ratio (95% CI)b | 0.44 (0.29, 0.65) |  |
 | a p < 0.0001, two-sided stratified log-rank test. b Estimates of Cox regression stratified by center. |  |  |
 
-## 14.3 Non‑Progressing, Low‑Grade, CD20‑Positive, B‑Cell NHL Following First‑Line CVP Chemotherapy
-
 Study 5
+
+An open-label, multicenter, randomized (1:1) study was conducted in 1,018 patients with previously untreated follicular NHL who achieved a response (CR or PR) to Rituxan in combination with chemotherapy.
+Patients were randomized to Rituxan as single-agent maintenance therapy, 375 mg/m2 every 8 weeks for up to 12 doses or to observation.
+Rituxan was initiated at 8 weeks following completion of chemotherapy.
+The main outcome measure of the study was progression-free survival (PFS), defined as the time from randomization in the maintenance/observation phase to progression, relapse, or death, as determined by independent review.
+
+Of the randomized patients, 40% were ≥ 60 years of age, 70% had Stage IV disease, 96% had ECOG performance status (PS) 0−1, and 42% had FLIPI scores of 3–5.
+Prior to randomization to maintenance therapy, patients had received R-CHOP (75%), R-CVP (22%), or R-FCM (3%); 71% had a complete or unconfirmed complete response and 28% had a partial response.
+
+PFS was longer in patients randomized to Rituxan as single agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
+The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
+
+Figure 1
+
+Kaplan-Meier Plot of IRC Assessed PFS
+
+Study 6
 
 A total of 322 patients with previously untreated low‑grade, B‑cell NHL who did not progress after 6 or 8 cycles of CVP chemotherapy were enrolled in an open-label, multicenter, randomized trial.
 Patients were randomized (1:1) to receive Rituxan, 375 mg/m2 intravenous infusion, once weekly for 4 doses every 6 months for up to 16 doses or no further therapeutic intervention.
@@ -71,12 +88,12 @@ Thirty-seven percent of the study population was >60 years of age, 99% had Stage
 
 There was a reduction in the risk of progression, relapse, or death (hazard ratio estimate in the range of 0.36 to 0.49) for patients randomized to Rituxan as compared to those who received no additional treatment.
 
-## 14.4 Diffuse Large B‑Cell NHL (DLBCL)
+## 14.3 Diffuse Large B‑Cell NHL (DLBCL)
 
 The safety and effectiveness of Rituxan were evaluated in three randomized, active‑controlled, open‑label, multicenter studies with a collective enrollment of 1854 patients.
 Patients with previously untreated diffuse large B‑cell NHL received Rituxan in combination with cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) or other anthracycline‑based chemotherapy regimens.
 
-Study 6
+Study 7
 
 A total of 632 patients age ≥ 60 years with DLBCL (including primary mediastinal B‑cell lymphoma) were randomized in a 1:1 ratio to treatment with CHOP or R‑CHOP.
 Patients received 6 or 8 cycles of CHOP, each cycle lasting 21 days.
@@ -89,9 +106,9 @@ Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% ha
 Efficacy results are presented in Table 5.
 These results reflect a statistical approach which allows for an evaluation of Rituxan administered in the induction setting that excludes any potential impact of Rituxan given after the second randomization.
 
-Analysis of results after the second randomization in Study 6 demonstrates that for patients randomized to R-CHOP, additional Rituxan exposure beyond induction was not associated with further improvements in progression‑free survival or overall survival.
+Analysis of results after the second randomization in Study 7 demonstrates that for patients randomized to R-CHOP, additional Rituxan exposure beyond induction was not associated with further improvements in progression‑free survival or overall survival.
 
-Study 7
+Study 8
 
 A total of 399 patients with DLBCL, age ≥ 60 years, were randomized in a 1:1 ratio to receive CHOP or R‑CHOP.
 All patients received up to eight 3‑week cycles of CHOP induction; patients in the R‑CHOP arm received Rituxan 375 mg/m2 on Day 1 of each cycle.
@@ -99,16 +116,16 @@ The main outcome measure of the study was event‑free survival, defined as the 
 Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥ 2, 80% had ECOG performance status scores < 2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
 Efficacy results are presented in Table 5.
 
-Study 8
+Study 9
 
 A total of 823 patients with DLBCL, aged 18—60 years, were randomized in a 1:1 ratio to receive an anthracycline‑containing chemotherapy regimen alone or in combination with Rituxan.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
 Among all enrolled patients, 28% had Stage III—IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
 Efficacy results are presented in Table 5.
 
-Table 5: Efficacy Results in Studies 6, 7, and 8
+Table 5: Efficacy Results in Studies 7, 8, and 9
 
-|  | Study 6 (n=632) |  | Study 7 (n=399) |  | Study 8 (n=823) |  |
+|  | Study 7 (n=632) |  | Study 8 (n=399) |  | Study 9 (n=823) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | R‑CHOP | CHOP | R‑CHOP | CHOP | R‑Chemo | Chemo |  |
 | Main outcome | Progression-free survival (years) |  | Event-free survival (years) |  | Time to treatment failure (years) |  |
@@ -118,24 +135,24 @@ Table 5: Efficacy Results in Studies 6, 7, and 8
 | Hazard ratiod | 0.72a |  | 0.68a |  | 0.40a |  |
 | a Significant at p<0.05, 2‑sided. b NE=Not reliably estimable. c Kaplan‑Meier estimates. d R‑CHOP vs. CHOP. |  |  |  |  |  |  |
 
-In Study 7, overall survival estimates at 5 years were 58% vs. 46% for R‑CHOP and CHOP, respectively.
+In Study 8, overall survival estimates at 5 years were 58% vs. 46% for R‑CHOP and CHOP, respectively.
 
-## 14.5 Chronic Lymphocytic Leukemia (CLL)
+## 14.4 Chronic Lymphocytic Leukemia (CLL)
 
-The safety and effectiveness of Rituxan were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with Rituxan for up to 6 cycles in patients with previously untreated CLL [Study 9 (n = 817)] or previously treated CLL [Study 10 (n = 552)].
+The safety and effectiveness of Rituxan were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with Rituxan for up to 6 cycles in patients with previously untreated CLL [Study 10 (n = 817)] or previously treated CLL [Study 11 (n = 552)].
 Patients received fludarabine 25 mg/m2/day and cyclophosphamide 250 mg/m2/day on days 1, 2 and 3 of each cycle, with or without Rituxan.
 In both studies, seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of Rituxan-based therapy.
 
-In Study 9, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0-1, 74% were male, and 100% were White.
-In Study 10, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0-1, 67% were male and 98% were White.
+In Study 10, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0-1, 74% were male, and 100% were White.
+In Study 11, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0-1, 67% were male and 98% were White.
 
-The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 9) or an independent review committee (Study 10).
-The investigator assessed results in Study 10 were supportive of those obtained by the independent review committee.
+The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 10) or an independent review committee (Study 11).
+The investigator assessed results in Study 11 were supportive of those obtained by the independent review committee.
 Efficacy results are presented in Table 6.
 
-Table 6: Efficacy Results in Studies 9 and 10
+Table 6: Efficacy Results in Studies 10 and 11
 
-|  | Study 9* (Previously untreated) |  | Study 10* (Previously treated) |  |
+|  | Study 10* (Previously untreated) |  | Study 11* (Previously treated) |  |
 | --- | --- | --- | --- | --- |
 | R-FC N = 408 | FC N = 409 | R-FC N = 276 | FC N = 276 |  |
 | Median PFS (months) | 39.8 | 31.5 | 26.7 | 21.7 |
@@ -147,9 +164,9 @@ Table 6: Efficacy Results in Studies 9 and 10
 Across both studies, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older and 100 Rituxan-treated patients (15%) were 70 years of age or older.
 The results of exploratory subset analyses in elderly patients are presented in Table 7.
 
-Table 7: Efficacy Results in Studies 9 and 10 in Subgroups Defined by Agea
+Table 7: Efficacy Results in Studies 10 and 11 in Subgroups Defined by Agea
 
-| Age subgroup | Study 9 |  | Study 10 |  |
+| Age subgroup | Study 10 |  | Study 11 |  |
 | --- | --- | --- | --- | --- |
 | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |  |
 | Age < 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
@@ -158,7 +175,7 @@ Table 7: Efficacy Results in Studies 9 and 10 in Subgroups Defined by Agea
 | Age ≥ 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 | 1.22 (0.73, 2.04) |
 | a From exploratory analyses. |  |  |  |  |
 
-## 14.6 Rheumatoid Arthritis (RA)
+## 14.5 Rheumatoid Arthritis (RA)
 
 Reducing the Signs and Symptoms: Initial and Re‑Treatment Courses
 
@@ -208,12 +225,12 @@ Table 9: Components of ACR Response at Week 24 in Study 1 (Modified Intent‑to�
 | CRP (mg/dL) | 2.4 | 2.5 | 2.6 | 0.9 |
 | a Visual Analogue Scale: 0=best, 100=worst.b Disability Index of the Health Assessment Questionnaire: 0=best, 3=worst. |  |  |  |  |
 
-The time course of ACR 20 response for Study 1 is shown in Figure 1.
+The time course of ACR 20 response for Study 1 is shown in Figure 2.
 Although both treatment groups received a brief course of intravenous and oral glucocorticoids, resulting in similar benefits at Week 4, higher ACR 20 responses were observed for the Rituxan group by Week 8.
 A similar proportion of patients achieved these responses through Week 24 after a single course of treatment (2 infusions) with Rituxan.
 Similar patterns were demonstrated for ACR 50 and 70 responses.
 
-### Figure 1
+### Figure 2
 
 Percent of Patients Achieving ACR 20 Response by Visit* Study 1 (Inadequate Response to TNF Antagonists)
 

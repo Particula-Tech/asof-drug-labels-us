@@ -193,12 +193,8 @@ Inactive ingredients: sodium chloride, sodium citrate dihydrate, polysorbate 80,
 
 Jointly Marketed by: Biogen Idec Inc. and Genentech USA, Inc.
 
-Manufactured by:
-
-Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
-
-©2010 Biogen Idec Inc. and Genentech, Inc.
-
-Revised 10/2010 (4851501)
+| RITUXAN® [rituximab] |  |
+| --- | --- |
+| Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 | 10126776 Initial US Approval: November 1997 Revision Date: January 2011 Rituxan® is a registered trademark of Biogen Idec, Inc. ©2011 Biogen Idec Inc. and Genentech, Inc. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

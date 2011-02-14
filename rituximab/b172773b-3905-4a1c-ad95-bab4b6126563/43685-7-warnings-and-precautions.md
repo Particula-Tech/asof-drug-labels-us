@@ -46,8 +46,8 @@ Discontinue Rituxan and consider discontinuation or reduction of any concomitant
 
 ## 5.5 Hepatitis B Virus (HBV) Reactivation
 
-Hepatitis B virus (HBV) reactivation with fulminant hepatitis, hepatic failure, and death can occur in patients with hematologic malignancies treated with Rituxan.
-The median time to the diagnosis of hepatitis was approximately 4 months after the initiation of Rituxan and approximately one month after the last dose.
+Hepatitis B virus (HBV) reactivation with fulminant hepatitis, hepatic failure, and death can occur in patients treated with Rituxan.
+The median time to the diagnosis of hepatitis among patients with hematologic malignancies was approximately 4 months after the initiation of Rituxan and approximately one month after the last dose.
 
 Screen patients at high risk of HBV infection before initiation of Rituxan.
 Closely monitor carriers of hepatitis B for clinical and laboratory signs of active HBV infection for several months following Rituxan therapy.
@@ -114,4 +114,4 @@ Observe patients closely for signs of infection if biologic agents and/or DMARDs
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 
 While the efficacy of Rituxan was supported in four controlled trials in patients with RA with prior inadequate responses to non‑biologic DMARDs, and in a controlled trial in MTX‑naïve patients, a favorable risk‑benefit relationship has not been established in these populations.
-The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.6)].
+The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.5)].

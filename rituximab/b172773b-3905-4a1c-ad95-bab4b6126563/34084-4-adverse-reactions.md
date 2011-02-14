@@ -20,9 +20,9 @@ The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in cli
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to Rituxan in 2282 patients, with exposures ranging from a single infusion up to 6-8 months.
-Rituxan was studied in both single-agent and active-controlled trials (n = 356 and n = 1926).
-The population included 679 patients with low-grade follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
+The data described below reflect exposure to Rituxan in 2783 patients, with exposures ranging from a single infusion up to 2 years.
+Rituxan was studied in both single-arm and controlled trials (n = 356 and n = 2427).
+The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
 Most NHL patients received Rituxan as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
 CLL patients received Rituxan 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
 Seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of Rituxan-based therapy.
@@ -113,37 +113,41 @@ Table 1: Incidence of Adverse Reactions in ≥ 5% of Patients with Relapsed or R
 
 In these single‑arm Rituxan studies, bronchiolitis obliterans occurred during and up to 6 months after Rituxan infusion.
 
-Previously Untreated Low-Grade NHL
+Previously Untreated, Low-Grade or Follicular, NHL
 
 In Study 4, patients in the R‑CVP arm experienced a higher incidence of infusional toxicity and neutropenia compared to patients in the CVP arm.
 The following adverse reactions occurred more frequently (≥ 5%) in patients receiving R‑CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritus (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
 [See Clinical Studies (14.2).]
 
-In Study 5, the following adverse reactions were reported more frequently (≥ 5%) in patients receiving Rituxan following CVP compared to patients who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato‑biliary toxicity (17% vs. 7%), rash and/or pruritus (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
+In Study 5, detailed safety data collection was limited to serious adverse reactions, Grade ≥ 2 infections, and Grade ≥ 3 adverse reactions.
+In patients receiving Rituxan as single-agent maintenance therapy following Rituxan plus chemotherapy, infections were reported more frequently compared to the observation arm (37% vs. 22%).
+Grade 3-4 adverse reactions occurring at a higher incidence (≥2%) in the Rituxan group were infections (4% vs. 1%) and neutropenia (4% vs. <1%).
+
+In Study 6, the following adverse reactions were reported more frequently (≥ 5%) in patients receiving Rituxan following CVP compared to patients who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato‑biliary toxicity (17% vs. 7%), rash and/or pruritus (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
 Neutropenia was the only Grade 3 or 4 adverse reaction that occurred more frequently (≥ 2%) in the Rituxan arm compared with those who received no further therapy (4% vs. 1%).
 [See Clinical Studies (14.3).]
 
 DLBCL
 
-In Studies 6 and 7, [see Clinical Studies (14.4)], the following adverse reactions, regardless of severity, were reported more frequently (≥ 5%) in patients age ≥ 60 years receiving R‑CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
+In Studies 7 and 8, [see Clinical Studies (14.3)], the following adverse reactions, regardless of severity, were reported more frequently (≥ 5%) in patients age ≥ 60 years receiving R‑CHOP as compared to CHOP alone: pyrexia (56% vs. 46%), lung disorder (31% vs. 24%), cardiac disorder (29% vs. 21%), and chills (13% vs. 4%).
 Detailed safety data collection in these studies was primarily limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
-In Study 7, a review of cardiac toxicity determined that supraventricular arrhythmias or tachycardia accounted for most of the difference in cardiac disorders (4.5% for R‑CHOP vs. 1.0% for CHOP).
+In Study 8, a review of cardiac toxicity determined that supraventricular arrhythmias or tachycardia accounted for most of the difference in cardiac disorders (4.5% for R‑CHOP vs. 1.0% for CHOP).
 
 The following Grade 3 or 4 adverse reactions occurred more frequently among patients in the R‑CHOP arm compared with those in the CHOP arm: thrombocytopenia (9% vs. 7%) and lung disorder (6% vs. 3%).
-Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R‑CHOP were viral infection (Study 7), neutropenia (Studies 7 and 8), and anemia (Study 8).
+Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R‑CHOP were viral infection (Study 8), neutropenia (Studies 8 and 9), and anemia (Study 9).
 
 CLL
 
-The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 9 or Study 10 [see Clinical Studies (14.5)].
+The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 10 or Study 11 [see Clinical Studies (14.4)].
 The age range was 30-83 years and 71% were men.
-Detailed safety data collection in Study 9 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+Detailed safety data collection in Study 10 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
 
-In Study 9, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
+In Study 10, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
 
-In Study 10, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
+In Study 11, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion reaction of any severity.
 
 ## 6.2 Clinical Trials Experience in Rheumatoid Arthritis
@@ -154,10 +158,10 @@ The data presented below reflect the experience in 2578 RA patients treated with
 
 Among all exposed patients, adverse reactions reported in greater than 10% of patients include infusion related reactions, upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis.
 
-In placebo‑controlled studies, patients received 2 × 500 mg or 2 × 1000 mg intravenous infusions of Rituxan or placebo, in combination with methotrexate, during a 24‑week period.
-From these studies, 938 patients treated with Rituxan (2 × 1000 mg) or placebo have been pooled (see Table 2).
+In placebo‑controlled studies, patients received 2 x 500 mg or 2 x 1000 mg intravenous infusions of Rituxan or placebo, in combination with methotrexate, during a 24‑week period.
+From these studies, 938 patients treated with Rituxan (2 x 1000 mg) or placebo have been pooled (see Table 2).
 Adverse reactions reported in ≥ 5% of patients were hypertension, nausea, upper respiratory tract infection, arthralgia, pyrexia and pruritus (see Table 2).
-The rates and types of adverse reactions in patients who received Rituxan 2 × 500 mg were similar to those observed in patients who received Rituxan 2 × 1000 mg.
+The rates and types of adverse reactions in patients who received Rituxan 2 x 500 mg were similar to those observed in patients who received Rituxan 2 x 1000 mg.
 
 Table 2*: Incidence of All Adverse Reactions** Occurring in ≥ 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled)
 
@@ -234,7 +238,7 @@ In the experience with Rituxan in RA patients, 2578 patients have been exposed t
 Most of the patients who received additional courses did so 24 weeks or more after the previous course and none were retreated sooner than 16 weeks.
 The rates and types of adverse reactions reported for subsequent courses of Rituxan were similar to rates and types seen for a single course of Rituxan.
 
-In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.6), and Dosage and Administration (2.5).]
+In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.5), and Dosage and Administration (2.5).]
 
 ## 6.3 Immunogenicity
 
@@ -263,5 +267,5 @@ Decisions to include these reactions in labeling are typically based on one or m
 - Neoplasia: disease progression of Kaposi’s sarcoma.
 - Skin: severe mucocutaneous reactions.
 - Gastrointestinal: bowel obstruction and perforation.
-- Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.
-- Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS).
+- Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease
+- Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
