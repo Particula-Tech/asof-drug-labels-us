@@ -4,7 +4,7 @@ The information included under the “Adverse Findings Observed in Short-Term, P
 Three of these studies were conducted in patients with major depressive disorder, 3 studies were done in patients with panic disorder, 1 study was conducted in patients with social anxiety disorder, and 4 studies were done in female patients with PMDD.
 Two of the studies in major depressive disorder, which enrolled patients in the age range 18 to 65 years, are pooled.
 Information from a third study of major depressive disorder, which focused on elderly patients (60 to 88 years), is presented separately as is the information from the panic disorder studies and the information from the PMDD studies.
-Information on additional adverse events associated with Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrochloride is included in a separate subsection (see Other Events).
+Information on additional adverse events associated with Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrochloride is included in a separate subsection (see Other Event Observed During the Clinical Development of Paroxetine)..
 
 ## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials With Paroxetine Hydrochloride Controlled-Release Tablets:
 
@@ -433,20 +433,21 @@ Treatment-Emergent Adverse Events Occurring in ≥1% of Patients Treated With Pa
 | Menstrual Disorder | - | - | 1% | 0% |
 
 a Adverse events for which the reporting rate of Paroxetine Hydrochloride Controlled-Release Tablets was less than or equal to the placebo rate are not included.
-These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritis, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting.
+These events for continuous dosing are: Abdominal pain, back pain, pain, trauma, weight gain, myalgia, pharyngitis, respiratory disorder, rhinitis, sinusitis, pruritus, dysmenorrhea, menstrual disorder, urinary tract infection, and vomiting.
 The events for luteal phase dosing are: Allergic reaction, back pain, headache, infection, pain, trauma, myalgia, anxiety, pharyngitis, respiratory disorder, cystitis, and dysmenorrhea.
 
 b <1% means greater than zero and less than 1%.
 
 c The luteal phase and continuous dosing PMDD trials were not designed for making direct comparisons between the 2 dosing regimens.
-Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 5 should be avoided.
+Therefore, a comparison between the 2 dosing regimens of the PMDD trials of incidence rates shown in Table 6 should be avoided.
 
 d Mostly anorgasmia or difficulty achieving orgasm.
 
 ### Dose Dependency of Adverse Events
 
-The following table shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets that was at least twice that with 12.5 mg of Paroxetine Hydrochloride Controlled-Release Tablets and with placebo.
+able 6 shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets that was at least twice that with 12.5 mg of Paroxetine Hydrochloride Controlled-Release Tablets and with placebo.
 
+Table 7.
 Incidence of Common Adverse Events in Placebo, 12.5 mg and 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets in a Pool of 3 Fixed-Dose PMDD Trials
 
 |  | Paroxetine Hydrochloride Controlled-Release Tablets25 mg(n = 348) | Paroxetine Hydrochloride Controlled-Release Tablets12.5 mg(n = 333) | Placebo(n = 349) |
@@ -528,7 +529,7 @@ Consequently, it is not possible to provide a meaningful estimate of the proport
 
 In the tabulations that follow, reported adverse events were classified using a COSTART-based dictionary.
 The frequencies presented, therefore, represent the proportion of the 1,627 patients exposed to Paroxetine Hydrochloride Controlled-Release Tablets who experienced an event of the type cited on at least 1 occasion while receiving Paroxetine Hydrochloride Controlled-Release Tablets.
-All reported events are included except those already listed in Tables 2 through 6 and those events where a drug cause was remote.
+All reported events are included except those already listed in Tables 2 through76 and those events where a drug cause was remote.
 If the COSTART term for an event was so general as to be uninformative, it was deleted or, when possible, replaced with a more informative term.
 It is important to emphasize that although the events reported occurred during treatment with paroxetine, they were not necessarily caused by it.
 
@@ -594,6 +595,6 @@ Frequent were dysmenorrhea*; infrequent were albuminuria, amenorrhea*, breast pa
 
 ## Postmarketing Reports
 
-Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
+Voluntary reports of adverse events in patients taking immediate-release paroxetine hydrochloride that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome,Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria,restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsade de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), and vasculitic syndromes (such as Henoch-Schönlein purpura).
 There has been a case report of an elevated phenytoin level after 4 weeks of immediate-release paroxetine and phenytoin coadministration.
 There has been a case report of severe hypotension when immediate-release paroxetine was added to chronic metoprolol treatment.

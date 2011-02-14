@@ -19,7 +19,7 @@ There is no body of evidence available to answer the question of how long the pa
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
 Whether the dose of an antidepressant needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
 
-Systematic evaluation of the efficacy of immediate-release paroxetine hydrochloride has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg, which corresponds to a 37.5-mg dose of Paroxetine Hydrochloride Controlled-Release Tablets, based on relative bioavailability considerations (see CLINICAL PHARMACOLOGY—Pharmacokinetics).
+Systematic evaluation of the efficacy of immediate-release paroxetine hydrochloride has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg, which corresponds to a 37.5-mg dose of Paroxetine Hydrochloride Controlled-Release Tablets, based on relative bioavailability considerations (see CLINICAL PHARMACOLOG: —Pharmacokinetics).
 
 ## Panic Disorder
 
@@ -80,7 +80,7 @@ Patients should be periodically reassessed to determine the need for continued t
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS).
+Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNING: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering paroxetine in the third trimester.
 
@@ -97,7 +97,7 @@ Similarly, at least 14 days should be allowed after stopping Paroxetine Hydrochl
 
 ## Discontinuation of Treatment With Paroxetine Hydrochloride Controlled-Release Tablets
 
-Symptoms associated with discontinuation of immediate-release paroxetine hydrochloride or Paroxetine Hydrochloride Controlled-Release Tablets have been reported (see PRECAUTIONS).
+Symptoms associated with discontinuation of immediate-release paroxetine hydrochloride or Paroxetine Hydrochloride Controlled-Release Tablets have been reported (see PRECAUTION: Discontinuation of Treatment with Paroxetine Hydrochloride Controlled-Release TabletsS).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which Paroxetine Hydrochloride Controlled-Release Tablets is being prescribed.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

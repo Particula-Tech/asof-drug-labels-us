@@ -66,8 +66,16 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 June 2010 PCA-AP:1MG
 
-Manufactured by GlaxoSmithKline, Research Triangle Park, NC 27709
+Manufactured by:
 
-Manufactured for Apotex Corp., Weston, FL33326
+GlaxoSmithKline
 
-June 2010 PCA-AP:1PI
+Research Triangle Park, NC 27709
+
+Manufactured for:
+
+Apotex Corp.
+
+Weston, FL33326
+
+February 2011 PCA-AP:2PI
