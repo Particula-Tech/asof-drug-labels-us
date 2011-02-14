@@ -1,280 +1,156 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## CARDIOVASCULAR EFFECTS
-
-### Cardiovascular Thrombotic Events
+## 5.1 Cardiovascular Thrombotic Events
 
 Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
-To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
+To minimize the potential risk for an adverse CV event in patients treated with an NSAID, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+Inform patients about the signs and/or symptoms of serious CV events and the steps to take if they occur.
+
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke [see Contraindications (4)].
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS).
+The concurrent use of aspirin and NSAIDs, such as diclofenac, does increase the risk of serious GI events [see Warnings and Precautions (5.2)].
 
-Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10-14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+## 5.2 Gastrointestinal Effects – Risk of GI Ulceration, Bleeding, and Perforation
 
-### Hypertension
-
-NSAIDs, including Flector® Patch, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-NSAIDs, including Flector® Patch, should be used with caution in patients with hypertension.
-Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
-
-### Congestive Heart Failure and Edema
-
-Fluid retention and edema have been observed in some patients taking NSAIDs.
-Flector® Patch should be used with caution in patients with fluid retention or heart failure.
-
-## Gastrointestinal Effects- Risk of Ulceration, Bleeding, and Perforation
-
-NSAIDs, including Flector® Patch, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including diclofenac, can cause serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
 These trends continue with longer duration of use, increasing the likelihood of developing a serious GI event at some time during the course of therapy.
 However, even short-term therapy is not without risk.
 
-NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
+Prescribe NSAIDs, including Flector Patch, with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
 Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10-fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
 Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
 Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
 
-To minimize the potential risk for an adverse GI event in patients treated with an NSAID, the lowest effective dose should be used for the shortest possible duration.
-Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
-For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
+To minimize the potential risk for an adverse GI event, use the lowest effective dose for the shortest possible duration.
+Physicians and patients should remain alert for signs and symptoms of GI ulceration and bleeding during diclofenac therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
+For high risk patients, consider alternate therapies that do not involve NSAIDs.
 
-## Renal Effects
+## 5.3 Hepatic Effects
 
-Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
-Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
-In these patients, administration of a nonsteroidal anti-inflammatory drug may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
-Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
-
-## Hepatic Effects
-
-Elevations of one or more liver tests may occur during therapy with Flector® Patch.
-These laboratory abnormalities may progress, may remain unchanged, or may be transient with continued therapy.
-Borderline elevations (i.e., less than 3 times the ULN [ULN = the upper limit of the normal range]) or greater elevations of transaminases occurred in about 15% of diclofenac-treated patients.
+Borderline elevations (less than 3 times the upper limit of the normal [ULN] range) or greater elevations of transaminases occurred in about 15% of oral diclofenac-treated patients in clinical trials of indications other than acute pain.
 Of the markers of hepatic function, ALT (SGPT) is recommended for the monitoring of liver injury.
 
-In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of AST (GOT) (ALT was not measured in all studies) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment.
-In a large, open-label, controlled trial of 3,700 patients treated for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
-Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., more than 8 times the ULN) in about 1% of the 3,700 patients.
-In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+In clinical trials of an oral diclofenac – misoprostol combination product, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) occurred in about 2% of approximately 5,7000 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+
+In an open-label, controlled trial of 3,700 patients treated for 2-6 months, patients with oral diclofenac were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+Meaningful elevations of ALT and/or AST occurred in about 4% of the 3,700 patients and included marked elevations (>8 times the ULN) in about 1% of the 3,700 patients.
+In this open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
-
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
-Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 
+Abnormal tests occurred during the first 2 months of therapy with oral diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
 Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
-Physicians should measure transaminases periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
+Measure transaminases (ALT and AST) periodically in patients receiving long-term therapy with diclofenac, because severe hepatotoxicity may develop without a prodrome of distinguishing symptoms.
 The optimum times for making the first and subsequent transaminase measurements are not known.
-Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac.
+Based on clinical trial data and postmarketing experiences, monitor transaminases within 4 to 8 weeks after initiating treatment with diclofenac.
 However, severe hepatic reactions can occur at any time during treatment with diclofenac.
 
-If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g. eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), Flector® Patch should be discontinued immediately.
-To minimize the possibility that hepatic injury will become severe between transaminase measurements, physicians should inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
+If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g. eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), discontinue Flector Patch immediately.
+To minimize the possibility that hepatic injury will become severe between transaminase measurements, inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms), and the appropriate action patients should take if these signs and symptoms appear.
 
-To minimize the potential risk for an adverse liver related event in patients treated with Flector® Patch, the lowest effective dose should be used for the shortest duration possible.
-Caution should be exercised in prescribing Flector® Patch with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
+To minimize the potential risk for an adverse liver related event in patients treated with Flector Patch, the lowest effective dose should be used for the shortest duration possible.
+Exercise caution when prescribing Flector Patch with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, certain antibiotics, anti-epileptics).
+Caution patients to avoid taking unprescribed acetaminophen while using Flector Patch.
 
-## Advanced Renal Disease
+## 5.4 Hypertension
 
-No information is available from controlled clinical studies regarding the use of Flector® Patch in patients with advanced renal disease.
-Therefore, treatment with Flector® Patch is not recommended in these patients with advanced renal disease.
-If Flector® Patch therapy is initiated, close monitoring of the patient's renal function is advisable.
+NSAIDs, including Flector Patch, can lead to new onset or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+Use Flector Patch, with caution in patients with hypertension.
+Monitor blood pressure (BP) closely during the initiation of treatment and throughout the course of therapy.
 
-## Anaphylactoid Reactions
+Patients taking ACE inhibitors, thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Flector® Patch.
-Flector® Patch should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS - Preexisting Asthma).
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+## 5.5 Congestive Heart Failure and Edema
 
-## Skin Reactions
+Fluid retention and edema have been observed in some patients taking NSAIDs, including Flector Patch.
+Use Flector Patch with caution in patients with fluid retention or heart failure.
 
-NSAIDs, including Flector® Patch, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+## 5.6 Renal Effects
+
+Use caution when initiating treatment with Flector Patch in patients with considerable dehydration.
+
+Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
+In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
+Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+No information is available from controlled clinical studies regarding the use of Flector Patch in patients with advanced renal disease.
+Therefore, treatment with Flector Patch is not recommended in these patients with advanced renal disease.
+If Flector Patch therapy is initiated, close monitoring of the patient's renal function is advisable.
+
+## 5.7 Anaphylactic Reactions
+
+As with other NSAIDs, anaphylactic reactions may occur both in patients with the aspirin triad and in patients without known sensitivity to NSAIDs or prior exposure to Flector Patch.
+Do not prescribe Flector Patch to patients with the aspirin triad.
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
+Anaphylaxis type reactions have been reported with NSAID products, including diclofenac products, such as Flector Patch [see Contraindications (4) and Warnings and Precautions (5.13)].
+Seek emergency help in cases where an anaphylactic reaction occurs.
+
+## 5.8 Skin Reactions
+
+NSAIDs, including Flector Patch, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
-Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
+Inform patients about the signs and symptoms of serious skin manifestations, and discontinue use of the drug at the first appearance of skin rash or any other signs of hypersensitivity.
 
-## Pregnancy
+## 5.9 Pregnancy
 
-In late pregnancy, as with other NSAIDs, Flector® Patch should be avoided because it may cause premature closure of the ductus arteriosus.
+Starting at 30 weeks gestation, Flector Patch, and other NSAIDs, should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur [see Use in Specific Populations (8.1)].
 
-# PRECAUTIONS
+## 5.10 Corticosteroid Monitoring
 
-## General
-
-Flector® Patch cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+Flector Patch cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
-Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
+Slowly taper patients on prolonged corticosteroid therapy if a decision is made to discontinue corticosteroids.
 
-The pharmacological activity of Flector® Patch in reducing inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+## 5.11 Inflammation
 
-## Hematological Effects
+The pharmacological activity of Flector Patch in reducing inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+
+## 5.12 Hematological Effects
 
 Anemia is sometimes seen in patients receiving NSAIDs.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs, including Flector® Patch, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+Patients on long-term treatment with NSAIDs, including Flector Patch, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving Flector® Patch who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
+Carefully monitor patients receiving Flector Patch who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants.
 
-## Preexisting Asthma
+## 5.13 Preexisting Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, Flector® Patch should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
+The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
+Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, do not administer Flector Patch to patients with this form of aspirin sensitivity and use with caution in patients with preexisting asthma.
 
-## Eye Exposure
+## 5.14 Accidental Exposure in Children
 
-Contact of Flector® Patch with eyes and mucosa, although not studied, should be avoided.
-If eye contact occurs, immediately wash out the eye with water or saline.
-Consult a physician if irritation persists for more than an hour.
+Even a used Flector Patch contains a large amount of diclofenac epolamine (as much as 170 mg).
+The potential therefore exists for a small child or pet to suffer serious adverse effects from chewing or ingesting a new or used Flector Patch.
+It is important for patients to store and dispose of Flector Patch out of the reach of children and pets.
 
-## Accidental Exposure in Children
+## 5.15 Eye Exposure
 
-Even a used Flector® Patch contains a large amount of diclofenac epolamine (as much as 170 mg).
-The potential therefore exists for a small child or pet to suffer serious adverse effects from chewing or ingesting a new or used Flector® Patch.
-It is important for patients to store and dispose of Flector® Patch out of the reach of children and pets.
+Avoid contact of Flector Patch with eyes and mucosa.
+Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.
 
-## Information for Patients
+## 5.16 Oral Nonsteroidal Anti-inflammatory Drugs
 
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
+Concomitant use of oral and topical NSAIDs may result in a higher rate of hemorrhage, more frequent abnormal creatinine, urea and hemoglobin.
+Do not use combination therapy with Flector Patch and an oral NSAID unless the benefit outweighs the risk.
 
-1. Flector® Patch, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-2. Flector® Patch, like other NSAIDs, may cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-3. Flector® Patch, like other NSAIDs, may cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should be instructed to promptly report signs or symptoms of unexplained weight gain or edema to their physicians (see WARNINGS, Cardiovascular Effects).
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g. difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, Flector® Patch should be avoided because it may cause premature closure of the ductus arteriosus.
-8. Patients should be advised not to use Flector® Patch if they have an aspirin-sensitive asthma.
-   Flector® Patch, like other NSAIDs, could cause severe and even fatal bronchospasm in these patients (see PRECAUTIONS, Preexisting asthma).
-   Patients should discontinue use of Flector® Patch and should immediately seek emergency help if they experience wheezing or shortness of breath.
-9. Patients should be informed that Flector® Patch should be used only on intact skin.
-10. Patients should be advised to avoid contact of Flector® Patch with eyes and mucosa.
-    Patients should be instructed that if eye contact occurs, they should immediately wash out the eye with water or saline, and consult a physician if irritation persists for more than an hour.
-11. Patients and caregivers should be instructed to wash their hands after applying, handling or removing the patch.
-12. Patients should be informed that, if Flector® Patch begins to peel off, the edges of the patch may be taped down.
-13. Patients should be instructed not to wear Flector® Patch during bathing or showering.
-    Bathing should take place in between scheduled patch removal and application (see DOSAGE AND ADMINISTRATION).
-14. Patients should be advised to store Flector® Patch and to discard used patches out of the reach of children and pets.
-    If a child or pet accidentally ingests Flector® Patch, medical help should be sought immediately (see PRECAUTIONS, Accidental Exposure in Children).
+## 5.17 Monitoring
 
-## Laboratory Tests
-
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, Flector® Patch should be discontinued.
-
-## Drug Interactions
-
-### ACE-inhibitors
-
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
-
-### Aspirin
-
-When Flector® Patch is administered with aspirin, the binding of diclofenac to protein is reduced, although the clearance of free diclofenac is not altered.
-The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac and aspirin is not generally recommended because of the potential of increased adverse effects.
-
-### Diuretics
-
-Clinical studies, as well as post marketing observations, have shown that Flector® Patch may reduce the natriuretic effect-of furosemide and thiazides in some patients.
-This response has been attributed to inhibition of renal prostaglandin synthesis.
-During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
-
-### Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
-The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
-These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
-Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
-
-### Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
-This may indicate that they could enhance the toxicity of methotrexate.
-Caution should be used when NSAIDs are administered concomitantly with methotrexate.
-
-### Warfarin
-
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-### Carcinogenesis
-
-Long-term studies in animals have not been performed to evaluate the carcinogenic potential of either diclofenac epolamine or Flector® Patch.
-
-### Mutagenesis
-
-Diclofenac epolamine is not mutagenic in Salmonella Typhimurium strains, nor does it induce an increase in metabolic aberrations in cultured human lymphocytes, or the frequency of micronucleated cells in the bone marrow micronucleus test performed in rats.
-
-### Impairment of Fertility
-
-Male and female Sprague Dawley rats were administered 1, 3, or 6 mg/kg/day diclofenac epolamine via oral gavage (males treated for 60 days prior to conception and during mating period, females treated for 14 days prior to mating through day 19 of gestation).
-Diclofenac epolamine treatment with 6 mg/kg/day resulted in increased early resorptions and postimplantation losses; however, no effects on the mating and fertility indices were found.
-The 6 mg/kg/day dose corresponds to 3-times the maximum recommended daily exposure in humans based on a body surface area comparison.
-
-## Pregnancy
-
-### Teratogenic Effects. Pregnancy Category C.
-
-Pregnant Sprague Dawley rats were administered 1, 3, or 6 mg/kg diclofenac epolamine via oral gavage daily from gestation days 6-15.
-Maternal toxicity, embryotoxicity, and increased incidence of skeletal anomalies were noted with 6 mg/kg/day diclofenac epolamine, which corresponds to 3-times the maximum recommended daily exposure in humans based on a body surface area comparison.
-Pregnant New Zealand White rabbits were administered 1, 3, or 6 mg/kg diclofenac epolamine via oral gavage daily from gestation days 6-18.
-No maternal toxicity was noted; however, embryotoxicity was evident at 6 mg/kg/day group which corresponds to 6.5-times the maximum recommended daily exposure in humans based on a body surface area comparison.
-
-There are no adequate and well-controlled studies in pregnant women.
-Flector® Patch should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-### Nonteratogenic Effects
-
-Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
-
-Male rats were orally administered diclofenac epolamine (1, 3, 6 mg/kg) for 60 days prior to mating and throughout the mating period, and females were given the same doses 14 days prior to mating and through mating, gestation, and lactation.
-Embryotoxicity was observed at 6 mg/kg diclofenac epolamine (3-times the maximum recommended daily exposure in humans based on a body surface area comparison), and was manifested as an increase in early resorptions, post-implantation losses, and a decrease in live fetuses.
-The number of live born and total born were also reduced as was F1 postnatal survival, but the physical and behavioral development of surviving F1 pups in all groups was the same as the deionized water control, nor was reproductive performance adversely affected despite a slight treatment-related reduction in body weight.
-
-## Labor and Delivery
-
-In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
-The effects of Flector® Patch on labor and delivery in pregnant women are unknown.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human-milk and because of the potential for serious adverse reactions in nursing infants from Flector® Patch, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-Clinical studies of Flector® Patch did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-
-Diclofenac, as with any NSAID, is known to be substantially excreted by the kidney, and the risk of toxic reactions to Flector® Patch may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken when using Flector® Patch in the elderly, and it may be useful to monitor renal function.
+Because serious GI tract ulcerations and bleeding can occur without warning symptoms, monitor for signs or symptoms of GI bleeding.
+Check CBC and a chemistry profile periodically in patients on long-term treatment with NSAIDs.
+Discontinue Flector Patch if abnormal liver tests or renal tests persist or worsen.

@@ -1,6 +1,6 @@
-# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-(See the end of this Medication Guide for a list of prescription NSAID medicines.)
+(See the end of this Guide for a list of prescription NSAID medicines.)
 
 What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -50,15 +50,14 @@ Tell your healthcare provider:
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.
-- if you are pregnant.
-  NSAID medicines should not be used by pregnant women late in their pregnancy.
-- if you are breastfeeding.
-  Talk to your doctor.
+- if you are pregnant, NSAID medicines should not be used past 30 weeks of pregnancy..
+- if you are breastfeeding, talk to your doctor.
 
 What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-| Serious side effects include: heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | Other side effects include: stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
+| Serious side effects include: | Other side effects include: |
 | --- | --- |
+| heart attackstrokehigh blood pressureheart failure from body swelling (fluid retention)kidney problems including kidney failurebleeding and ulcers in the stomach and intestinelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsliver problems including liver failureasthma attacks in people who have asthma | stomach painconstipationdiarrheagasheartburnnauseavomitingdizziness |
 
 Get emergency help right away if you have any of the following symptoms:
 
@@ -121,14 +120,8 @@ NSAID medicines that need a prescription
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-| Distributed by: | King Pharmaceuticals, Inc. 501 Fifth Street Bristol, TN 37620, USA Telephone: 1-888-840-8884 www.FlectorPatch.com |
+| Distributed by: | King Pharmaceuticals Inc. 501 Fifth Street Bristol, TN 37620 USA Telephone: 1-888-840-8884 www.FlectorPatch.com |
 | --- | --- |
 
-Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan
-
-Version October 2009
-
-FI/161 1086
-
-Ed.
-V/10.09
+Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Manufactured by: Teikoku Seiyaku Co., Ltd., Sanbonmatsu, Kagawa 769-2695 Japan FI/165 1086 Ed.
+VI/2.11 Version February, 2011
