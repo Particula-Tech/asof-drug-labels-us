@@ -1,3 +1,8 @@
+# WARNINGS
+
+Angioedema requiring hospitalization and emergency medical treatment has occurred with the first or subsequent doses of oral oxybutynin.
+In the event of angioedema, oxybutynin-containing products should be discontinued and appropriate therapy promptly provided.
+
 # PRECAUTIONS
 
 ## General
@@ -16,6 +21,9 @@ OXYTROL should be used with caution in patients who have gastroesophageal reflux
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin are used in a hot environment.
 Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), dizziness or blurred vision, patients should be advised to exercise caution.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin.
+
+Patients should be informed that angioedema has been reported with oral oxybutynin use.
+Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience symptoms consistent with angioedema.
 
 OXYTROL should be applied to dry, intact skin on the abdomen, hip, or buttock.
 A new application site should be selected with each new system to avoid re-application to the same site within 7 days.

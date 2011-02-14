@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Information for the Patient
+Information for the Patient OXYTROL® Oxybutynin Transdermal System
 
 Read this information carefully before you begin treatment.
 Read the information whenever you get more medicine, there may be something new.
@@ -12,7 +12,6 @@ What is OXYTROL?
 
 OXYTROL is a transdermal system (skin patch) to treat overactive bladder.
 It delivers the active ingredient, oxybutynin, through your skin and into your bloodstream.
-
 Overactive bladder makes it hard to control when you urinate (pass water).
 Overactive bladder can make you urinate more often (increased frequency) or make you feel the need to urinate often (urgency).
 Overactive bladder can also lead to accidental urine loss (leaking or wetting oneself).
@@ -129,8 +128,8 @@ A small amount of baby oil may also be used to remove any excess residue.
 Rings of adhesive that become dirty may require a medical adhesive removal pad that you can get from your pharmacist.
 Alcohol or other dissolving liquids (nail polish remover or other solvents) may cause skin irritation and should not be used.
 
-Store at 20-25°C (68-77°F).
-[See USP controlled room temperature.]
+Store at room temperature, 25°C (77°F).
+Temporary storage between 15 and 30°C (59 to 86°F) is also permitted.
 Keep OXYTROL and all medications in a safe, secure place and out of the reach of children.
 
 General advice about OXYTROL
@@ -144,13 +143,8 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about OXYTROL that is written for health professionals.
 You can get more information about OXYTROL from the product information department at 1-888-OXY-TROL (1-888-699-8765) or by selecting patient information at the OXYTROL Website located at www.OXYTROL.com.
 
-Keep out of reach of children.
+A subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
 
-Rx only
+Revised: January 2011
 
-Address medical inquiries: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
-
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
-
-Revised: August 2010 195564-00
+©2001 Watson Pharma, Inc.

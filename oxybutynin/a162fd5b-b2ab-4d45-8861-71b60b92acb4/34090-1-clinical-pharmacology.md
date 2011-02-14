@@ -31,12 +31,12 @@ Figure 3: Average (SEM) steady-state oxybutynin and N-desethyloxybutynin plasma 
 
 Table 1: Mean (SD) oxybutynin pharmacokinetic parameters from single and multiple dose studies in healthy men and women volunteers after application of OXYTROL on the abdomen.
 
-| Dosing | Cmax (SD) (ng/mL) | Tmax1 (hr) | Cavg (SD) (ng/mL) | AUC (SD) (ng/mLxh) |
+| Cmax (SD) (ng/mL) | Tmax1 (hr) | Cavg (SD) (ng/mL) | AUC (SD) (ng/mLxh) |  |
 | --- | --- | --- | --- | --- |
-|  | Oxybutynin |  |  |  |
+| Dosing | Oxybutynin |  |  |  |
 | Single | 3.0 (0.8) | 48 | — | 245 (59) 2 |
 |  | 3.4 (1.1) | 36 | — | 279 (99) 2 |
-| Multiple | 6.6 (2.4) | 10 | 4.2(1.1) | 408 (108) 3 |
+| Multiple | 6.6 (2.4) | 10 | 4.2 (1.1) | 408 (108) 3 |
 |  | 4.2 (1.0) | 28 | 3.1 (0.7) | 259 (57) 4 |
 
 1 T max given as median 2 AUC inf 3 AUC 0-96 4 AUC 0-84
@@ -110,9 +110,9 @@ Reductions in weekly incontinence episodes, urinary frequency, and urinary void 
 
 Table 2: Mean and median change from baseline to end of treatment (Week 12 or last observation carried forward) in incontinence episodes, urinary frequency, and urinary void volume in patients treated with OXYTROL 3.9 mg/day or placebo for 12 weeks (Study 1).
 
-|  | Mean (SD) | Median | Mean (SD) | Median |
+| Mean (SD) | Median | Mean (SD) | Median |  |
 | --- | --- | --- | --- | --- |
-| Parameter | Placebo (N=127) |  | OXYTROL 3.9 mg/day (N=120) |  |
+| Parameter | Placebo (N = 127) |  | OXYTROL 3.9 mg/day (N = 120) |  |
 | Weekly Incontinence Episodes |  |  |  |  |
 | Baseline | 37.7 (24.0) | 30 | 34.3 (18.2) | 31 |
 | Reduction | 19.2 (21.4) | 15 | 21.0 (17.1) | 19 |
@@ -138,9 +138,9 @@ Reductions in daily incontinence episodes, urinary frequency, and urinary void v
 
 Table 3: Mean and median change from baseline to end of treatment (Week 12 or last observation carried forward) in incontinence episodes, urinary frequency, and urinary void volume in patients treated with OXYTROL 3.9 mg/day or placebo for 12 weeks (Study 2).
 
-|  | Mean (SD) | Median | Mean (SD) | Median |
+| Mean (SD) | Median | Mean (SD) | Median |  |
 | --- | --- | --- | --- | --- |
-| Parameter | Placebo (N=117) |  | OXYTROL 3.9 mg/day (N=121) |  |
+| Parameter | Placebo (N = 117) |  | OXYTROL 3.9 mg/day (N = 121) |  |
 | Daily Incontinence Episodes |  |  |  |  |
 | Baseline | 5.0 (3.2) | 4 | 4.7 (2.9) | 4 |
 | Reduction | 2.1 (3.0) | 2 | 2.9 (3.0) | 3 |
