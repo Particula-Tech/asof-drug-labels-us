@@ -45,11 +45,25 @@ Most patients had relief of symptoms after stopping medication.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate.
 Consider discontinuing use if severe symptoms develop.
 
-## 5.6 Renal Impairment
+## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are traverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+## 5.7 Renal Impairment
 
 Atelvia is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
 
-## 5.7 Laboratory Test Interactions
+## 5.8 Laboratory Test Interactions
 
 Bisphosphonates are known to interfere with the use of bone-imaging agents.
 Specific studies with Atelvia have not been performed.

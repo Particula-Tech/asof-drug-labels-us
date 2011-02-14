@@ -52,7 +52,7 @@ In young healthy subjects, approximately half of the absorbed dose of risedronat
 Based on simultaneous modeling of serum and urine data for the risedronate sodium immediate- release tablets, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
 The renal clearance is not concentration dependent, and there is a linear relationship between renal clearance and creatinine clearance.
 Unabsorbed drug is eliminated unchanged in feces.
-In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV=25%), and mean total clearance was 73 mL/min (CV=15%).
+In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV = 25%), and mean total clearance was 73 mL/min (CV = 15%).
 
 Specific Populations
 

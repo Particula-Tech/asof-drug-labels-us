@@ -1,125 +1,169 @@
-Patient Information
+# Medication Guide
 
-Patient Information
+Medication Guide AtelviaTM (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
 
-AtelviaTM (uh-TEL-v-uh) (risedronate sodium)
-
-delayed-release tablets
-
-Read this Patient Information Leaflet before you start taking Atelvia and each time you get a refill.
+Read this Medication Guide that comes with AtelviaTM before you start taking it and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
+Talk to your doctor if you have any questions about Atelvia.
 
 What is the most important information I should know about Atelvia?
 
-Atelvia may cause serious problems in your stomach and esophagus (the tube that connects your mouth and stomach, such as:
+Atelvia can cause serious side effects including:
 
-- trouble swallowing
-- heartburn
-- ulcers
+1. Esophagus problems
+2. Low calcium levels in your blood (hypocalcemia)
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint, or muscle pain
+5. Unusual thigh bone fractures
 
-You may feel pain in your bones, joints, or muscles
+1.
+Esophagus problems.
 
-Stop taking Atelvia and call your healthcare provider right away if you have:
+Some people who take Atelvia may develop problems in the esophagus (the tube that connects the mouth and the stomach).
+These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
 
-- pain when swallowing
-- trouble swallowing
-- chest pain
-- new or worse heartburn
-- indigestion or heartburn that does not go away
+- It is important that you take Atelvia exactly as prescribed to help lower your chance of getting esophagus problems.
+  (See the section “How should I take Atelvia?”)
+- Stop taking Atelvia and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 
-You must take Atelvia exactly as your healthcare provider tells you to take it for Atelvia to work and to lower your chance of having serious side effects.
+2.
+Low calcium levels in your blood (hypocalcemia).
+
+Atelvia may lower the calcium levels in your blood.
+If you have low blood calcium before you start taking Atelvia, it may get worse during treatment.
+Your low blood calcium must be treated before you take Atelvia.
+Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
+Call your doctor right away if you have symptoms of low blood calcium such as:
+
+- Spasms, twitches, or cramps in your muscles
+- Numbness or tingling in your fingers, toes, or around your mouth
+
+Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you are taking Atelvia.
+Take calcium and vitamin D as your doctor tells you to.
+
+3.
+Severe jaw bone problems (osteonecrosis).
+
+Severe jaw bone problems may happen when you take Atelvia.
+Your doctor should examine your mouth before you start Atelvia.
+Your doctor may tell you to see your dentist before you start Atelvia.
+It is important for you to practice good mouth care during treatment with Atelvia.
+
+4.
+Bone, joint, or muscle pain.
+
+Some people who take Atelvia develop severe bone, joint, or muscle pain.
+
+5.
+Unusual thigh bone fractures.
+
+Some people have developed unusual fractures in their thigh bone.
+Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+
+Call your doctor right away if you have any of these side effects.
 
 What is Atelvia?
 
-Atelvia is a prescription medicine used to:
+Atelvia is a prescription medicine used to treat osteoporosis in women after menopause.
 
-- treat osteoporosis in postmenopausal women
+It is not known how long Atelvia works for the treatment and prevention of osteoporosis.
+You should see your doctor regularly to determine if Atelvia is still right for you.
+
+Atelvia is not for use in children.
 
 Who should not take Atelvia?
 
 Do not take Atelvia if you:
 
-- take a medicine called risedronate sodium (Actonel®).
-  Atelvia and Actonel contain the same medicine
-- have certain problems with your esophagus, the tube that connects your mouth and stomach
-- cannot sit or stand up for at least 30 minutes
-- have low blood calcium (hypocalcemia)
-- have kidney problems
-- are allergic to risedronate sodium or any of the other ingredients in Atelvia.
+- Have certain problems with your esophagus, the tube that connects your mouth and stomach
+- Cannot sit or stand up for at least 30 minutes
+- Have low blood calcium (hypocalcemia)
+- Are allergic to any of the other ingredients in Atelvia.
   See the end of this leaflet for a complete list of ingredients in Atelvia.
 
 What should I tell my healthcare provider before taking Atelvia?
 
 Before you take Atelvia, tell your healthcare provider if you:
 
-- have problems swallowing or other problems with your esophagus (the tube that connect your mouth and stomach)
-- have kidney problems
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
+- Have problems swallowing
+- Have stomach or digestive problems
+- Have low blood calcium
+- Plan to have dental surgery or teeth removed
+- Have kidney problems
+- Have been told you have trouble absorbing mineral in your stomach or intestines (malabsorption syndrome)
+- Are pregnant or plan to become pregnant.
   It is not known if Atelvia can harm your unborn baby.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-- are breastfeeding or plan to breastfeed.
-  It is not known if Atelvia passes into your breast milk.
+- Are breastfeeding or plan to breastfeed.
+  It is not known if Atelvia passes into your breast milk and may harm your baby.
   You and your doctor should decide if you will take Atelvia or breastfeed.
   You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
-Using Atelvia with certain other medicines may affect each other causing side effects.
+Certain medicines may affect how Atelvia works.
 
-Especially tell you healthcare provider if you take:
+Especially tell your doctor if you take:
 
-- Actonel or other medicines to treat osteoporosis
+- Actonel® or other medicines to treat osteoporosis
 - calcium supplements
 - antacids
 - laxatives
 - iron supplements
 
+Ask your doctor or pharmacist for a list of these medications, if you are not sure.
+
 Know the medicines you take.
-Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
 How should I take Atelvia?
 
-- Take Atelvia exactly as your healthcare provider tells you to take it.
+- Take Atelvia exactly as your doctor tells you.
 - Take Atelvia 1 time a week right after breakfast.
   Choose a day of the week to take Atelvia that best fits your schedule.
 - Take Atelvia with at least 4 ounces (about 1-half cup) of plain water.
-- Take Atelvia while you are sitting up or standing.
-  After taking Atelvia you must wait at least 30 minutes before lying down.
 - Swallow Atelvia tablets whole.
   Do not chew, cut, or crush Atelvia tablets before swallowing.
-  If you cannot swallow Atelvia tablets whole, tell your healthcare provider.
+  If you cannot swallow Atelvia tablets whole, tell your doctor.
   You may need a different medicine.
-- If you miss your weekly Atelvia dose, take Atelvia the morning after you remember then return to your usual schedule of 1 tablet on your chosen day of the week.
-- You should not take 2 Atelvia tablets on the same day.
-- If you take too much Atelvia, call your healthcare provider or go to the nearest emergency room right away.
-- Your healthcare provider may tell you to take calcium and vitamin D supplements and to exercise.
-- If you take calcium supplements and antacids they should be taken at a different time of the day from when you take Atelvia.
+
+After swallowing Atelvia wait at least 30 minutes:
+
+- Before you lie down.
+  You may sit, stand or walk, and do normal activities like reading.
+- Before you take other medicines, including antacids, calcium, and other supplements and vitamins.
+
+Do not lie down for at least 30 minutes after you take Atelvia.
+
+If you miss your weekly Atelvia dose, take Atelvia the morning after you remember then return to your normal schedule.
+Do not take 2 doses at the same time.
+
+You should take calcium and vitamin D as directed by your doctor.
+
+If you take too much Atelvia, call your doctor.
+Do not try to vomit.
+Do not lie down.
 
 What are the possible side effects of Atelvia?
 
-Atelvia may cause serious side effects, including:
+Atelvia may cause serious side effects:
 
-See “What is the most important information I should know about Atelvia”.
-
-- low calcium and other mineral changes in your blood.
-- jaw-bone problems (osteonecrosis).
-  This can include infection and slow healing after teeth are pulled.
-  Tell your healthcare providers, including your dentist, right away if you have these symptoms.
+- See “What is the most important information I should know about Atelvia”.
 
 The most common side effects of Atelvia include:
 
 - diarrhea
-- flu like symptoms
+- flu-like symptoms
 - muscle pain
 - back and joint pain
 - upset stomach
-- stomach pain
+- stomach area (abdominal) pain
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+You may get allergic reactions, such as hives or, in rare cases, swelling of your face, lips, tongue, or throat.
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of Atelvia.
-For more information, ask you healthcare provider or pharmacist.
+For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -127,7 +171,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Atelvia?
 
 - Store Atelvia between 68° F to 77° F (20° C to 25° C).
-- Safely throw away medicine that is out of date or no longer needed.
 
 Keep Atelvia and all medicines out of the reach of children.
 
@@ -138,18 +181,22 @@ Do not use Atelvia for a condition for which it was not prescribed.
 Do not give Atelvia to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This leaflet summarizes the most important information about Atelvia.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about Atelvia that is written for health professionals.
+This Medication Guide summarizes the most important information about Atelvia.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about Atelvia that is written for health professionals.
 
-For more information, go to www.atelvia.com
+For more information, go to www.atelvia.com or call 1-800-521-8813.
 
 What are the ingredients in Atelvia?
 
-Active ingredient: risedronate sodium Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate, methacrylic acid copolymer, polysorbate 80, silicified microcrystalline cellulose (ProSolv SMCC90), simethicone, sodium starch glycolate, stearic acid, talc, and triethyl citrate.
+Active ingredient: risedronate sodium
 
-Covered under one or more of U.S. Patent Nos. 5,583,122; 5,622,721; 7,645,459 B2 and 7,645,460 B2, and other patents pending.
+Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate, methacrylic acid copolymer, polysorbate 80, silicified microcrystalline cellulose (ProSolv SMCC90), simethicone, sodium starch glycolate, stearic acid, talc, and triethyl citrate.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Norwich Pharmaceuticals, Inc. North Norwich, NY 13814 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
 
-0979G010
+0979G016
+
+Covered under one or more of U.S. Patent Nos. 5,583,122; 5,622,721; 7,645,459 B2 and 7,645,460 B2, and other patents pending.

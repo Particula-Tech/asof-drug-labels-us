@@ -3,7 +3,7 @@
 ## 14.1 Treatment of Osteoporosis in Postmenopausal Women
 
 The efficacy of Atelvia 35 mg once-a-week in the treatment of postmenopausal osteoporosis was demonstrated in a randomized, double-blind, active-control trial of approximately 900 subjects.
-All patients in this study received supplemental calcium (1000 mg/day) and vitamin D (800 – 1000 IU/day).
+All patients in this study received supplemental calcium (1000 mg/day) and vitamin D (800 to 1000 IU/day).
 The primary efficacy endpoint was percent change in lumbar spine bone mineral density at 1 year.
 
 Atelvia 35 mg once-a-week administered after breakfast was shown to be non-inferior to risedronate sodium immediate-release 5 mg daily.
@@ -45,28 +45,28 @@ The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Ver
 | --- | --- | --- | --- | --- |
 | VERT NA | Placebo N = 678 | Risedronate sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | New and Worsening |  |  |  |  |
-| 0 - 1 Year | 7.2 | 3.9 | 3.3 | 49 |
-| 0 - 2 Years | 12.8 | 8.0 | 4.8 | 42 |
-| 0 - 3 Years | 18.5 | 13.9 | 4.6 | 33 |
+| 0 to 1 Year | 7.2 | 3.9 | 3.3 | 49 |
+| 0 to 2 Years | 12.8 | 8.0 | 4.8 | 42 |
+| 0 to 3 Years | 18.5 | 13.9 | 4.6 | 33 |
 | New |  |  |  |  |
-| 0 - 1 Year | 6.4 | 2.4 | 4.0 | 65 |
-| 0 - 2 Years | 11.7 | 5.8 | 5.9 | 55 |
-| 0 - 3 Years | 16.3 | 11.3 | 5.0 | 41 |
+| 0 to 1 Year | 6.4 | 2.4 | 4.0 | 65 |
+| 0 to 2 Years | 11.7 | 5.8 | 5.9 | 55 |
+| 0 to 3 Years | 16.3 | 11.3 | 5.0 | 41 |
 | VERT MN | Placebo N = 346 | Risedronate sodium 5 mgN = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | New and Worsening |  |  |  |  |
-| 0 - 1 Year | 15.3 | 8.2 | 7.1 | 50 |
-| 0 - 2 Years | 28.3 | 13.9 | 14.4 | 56 |
-| 0 - 3 Years | 34.0 | 21.8 | 12.2 | 46 |
+| 0 to 1 Year | 15.3 | 8.2 | 7.1 | 50 |
+| 0 to 2 Years | 28.3 | 13.9 | 14.4 | 56 |
+| 0 to 3 Years | 34.0 | 21.8 | 12.2 | 46 |
 | New |  |  |  |  |
-| 0 - 1 Year | 13.3 | 5.6 | 7.7 | 61 |
-| 0 - 2 Years | 24.7 | 11.6 | 13.1 | 59 |
-| 0 - 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+| 0 to 1 Year | 13.3 | 5.6 | 7.7 | 61 |
+| 0 to 2 Years | 24.7 | 11.6 | 13.1 | 59 |
+| 0 to 3 Years | 29.0 | 18.1 | 10.9 | 49 |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures
 
 In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
-Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8% vs. 5%; relative risk reduction 39%) and reduced the fracture incidence in VERT MN from 16% to 11%.
+Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8% versus 5%; relative risk reduction 39%) and reduced the fracture incidence in VERT MN from 16% to 11%.
 There was a significant reduction from 11% to 7% when the studies were combined, with a corresponding 36% reduction in relative risk.
 Figure 1 shows the overall results as well as the results at the individual skeletal sites for the combined studies.
 
@@ -91,7 +91,6 @@ Effect on Bone Mineral Density
 
 The results of 4 randomized, placebo-controlled trials in women with postmenopausal osteoporosis (VERT MN, VERT NA, BMD MN, BMD NA) demonstrate that risedronate sodium immediate-release 5 mg daily increases BMD at the spine, hip, and wrist compared to the effects seen with placebo.
 Table 4 displays the significant increases in BMD seen at the lumbar spine, femoral neck, femoral trochanter, and midshaft radius in these trials compared to placebo.
-Thus, overall risedronate sodium immediate-release reverses the loss of BMD, a central factor in the progression of osteoporosis.
 In both VERT studies (VERT MN and VERT NA), risedronate sodium immediate-release 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
 Table 4.

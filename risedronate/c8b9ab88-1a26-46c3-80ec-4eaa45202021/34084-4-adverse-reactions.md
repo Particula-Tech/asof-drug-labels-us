@@ -11,7 +11,7 @@ Once-a-Week Dosing with Atelvia (risedronate sodium) delayed-release tablets
 The safety of Atelvia 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing Atelvia 35 mg once-a-week to risedronate sodium immediate-release 5 mg daily in postmenopausal women 50 years of age or older.
 Atelvia was administered either at least 30 minutes before (N = 308) or immediately following (N = 307) breakfast, and risedronate sodium immediate-release 5 mg daily (N = 307) was administered at least 30 minutes before breakfast.
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
-All women received daily supplementation with 1000 mg of elemental calcium plus 800-1000 IU vitamin D. As treatment with Atelvia resulted in a significantly higher incidence of abdominal pain when administered before breakfast under fasting conditions, safety results that follow refer only to Atelvia 35 mg once-a-week immediately following breakfast and risedronate sodium immediate-release 5 mg daily.
+All women received daily supplementation with 1000 mg of elemental calcium plus 800 to 1000 IU vitamin D. As treatment with Atelvia resulted in a significantly higher incidence of abdominal pain when administered before breakfast under fasting conditions, safety results that follow refer only to Atelvia 35 mg once-a-week immediately following breakfast and risedronate sodium immediate-release 5 mg daily.
 
 The incidence of all-cause mortality was 0.0% in the Atelvia 35 mg once-a-week group and 0.3% in the risedronate sodium immediate-release 5 mg daily group.
 The incidence of serious adverse reactions was 6.5% in the Atelvia 35 mg once-a-week group and 7.2% in the risedronate sodium immediate-release 5 mg daily group.
@@ -55,11 +55,11 @@ The overall incidence of acute phase reaction was 2.3% in the Atelvia 35 mg once
 These incidence rates are based on reporting of one or more pre-specified acute phase reaction-like symptoms within 3 days of the first dose and for a duration of 7 days or less.
 
 Gastrointestinal Adverse Reactions: Adverse reactions related to the upper gastrointestinal tract occurred in 16% of subjects treated with Atelvia 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
-The incidence of upper gastrointestinal tract adverse reactions in the Atelvia 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (5.2% vs. 2.9%), dyspepsia (3.9% vs. 3.9%), upper abdominal pain (2.9% vs. 2.3%), gastritis (1.0% vs. 1.0%), and gastroesophageal reflux disease (1.0% vs. 1.6%).
+The incidence of upper gastrointestinal tract adverse reactions in the Atelvia 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (5.2% versus 2.9%), dyspepsia (3.9% versus 3.9%), upper abdominal pain (2.9% versus 2.3%), gastritis (1.0% versus 1.0%), and gastroesophageal reflux disease (1.0% versus 1.6%).
 Study discontinuation due to abdominal pain occurred in 1.3% of the Atelvia 35 mg once-a-week group and 0.7% of the risedronate sodium immediate-release 5 mg daily group.
 
 Musculoskeletal Adverse Reactions: Selected musculoskeletal adverse reactions were reported in 16% of subjects treated with Atelvia 35 mg once-a-week and 15% of subjects treated with risedronate sodium immediate-release 5 mg daily.
-The incidence of musculoskeletal adverse reactions in the Atelvia 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: arthralgia (6.8% vs. 7.8%), back pain (6.8% vs. 5.9%), musculoskeletal pain (2.0% vs. 1.6%), and myalgia (1.3% vs. 1.0%).
+The incidence of musculoskeletal adverse reactions in the Atelvia 35 mg once-a-week and risedronate sodium immediate-release 5 mg daily groups were: arthralgia (6.8% versus 7.8%), back pain (6.8% versus 5.9%), musculoskeletal pain (2.0% versus 1.6%), and myalgia (1.3% versus 1.0%).
 
 Laboratory Test Findings:
 
@@ -80,11 +80,11 @@ The incidence of serious adverse reactions was 24.6% in the placebo group and 27
 The percentage of patients who withdrew from the study due to adverse reactions was 15.6% in the placebo group and 14.8% in the risedronate sodium immediate-release 5 mg daily group.
 The most common adverse reactions reported in >10% of subjects were: back pain, arthralgia, abdominal pain and dyspepsia.
 
-Gastrointestinal Adverse Reactions: The incidence of adverse reactions in the placebo and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (9.9% vs. 12.2%), diarrhea (10.0% vs. 10.8%), dyspepsia (10.6% vs. 10.8%), and gastritis (2.3% vs. 2.7%).
+Gastrointestinal Adverse Reactions: The incidence of adverse reactions in the placebo and risedronate sodium immediate-release 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10.0% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
 Duodenitis and glossitis have been reported uncommonly in the risedronate sodium immediate-release 5 mg daily group (0.1% to 1%).
 In patients with active upper gastrointestinal disease at baseline, the incidence of upper gastrointestinal adverse reactions was similar between the placebo and risedronate sodium immediate-release 5 mg daily groups.
 
-Musculoskeletal Adverse Reactions: The incidence of adverse reactions in the placebo and risedronate sodium immediate-release 5 mg daily groups were: back pain (26.1% vs. 28.0%), arthralgia (22.1% vs. 23.7%), myalgia (6.2% vs. 6.7%), and bone pain (4.8% vs. 5.3%).
+Musculoskeletal Adverse Reactions: The incidence of adverse reactions in the placebo and risedronate sodium immediate-release 5 mg daily groups were: back pain (26.1% versus 28.0%), arthralgia (22.1% versus 23.7%), myalgia (6.2% versus 6.7%), and bone pain (4.8% versus 5.3%).
 
 Laboratory Test Findings: Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (<1%) and serum phosphate (<3%) and compensatory increases in serum PTH levels (<30%) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium immediate-release 5 mg daily.
 There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium immediate- release 5 mg daily at 3 years.

@@ -35,7 +35,7 @@ Weight-bearing exercise should be considered along with the modification of cert
 Patients should be instructed that if they miss a dose of Atelvia 35 mg once-a-week, they should take 1 tablet on the morning after they remember and return to taking 1 tablet once-a-week, as originally scheduled on their chosen day.
 Patients should not take 2 tablets on the same day.
 
-Physicians should instruct their patients to read the Patient Information before starting therapy with Atelvia and to re-read it each time the prescription is renewed.
+Physicians should instruct their patients to read the Medication Guide before starting therapy with Atelvia and to re-read it each time the prescription is renewed.
 
 Patients should be reminded to give all of their healthcare providers an accurate medication history.
 Instruct patients to tell all of their healthcare providers that they are taking Atelvia.
