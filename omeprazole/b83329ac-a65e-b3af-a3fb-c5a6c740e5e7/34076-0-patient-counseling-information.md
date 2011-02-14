@@ -11,8 +11,13 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
-APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES USP 10 mg, 20 mg and 40 mg
+APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
-Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 USA 33326
+| Manufactured by: | Manufactured for: |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario | Weston, Florida |
+| Canada | 33326 |
+| M9L 1T9 |  |
 
-Revision: 11 Revised: January 2009
+Revision: 12 Revised: December 2010

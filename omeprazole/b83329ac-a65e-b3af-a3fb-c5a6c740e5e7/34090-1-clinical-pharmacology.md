@@ -109,14 +109,14 @@ The steady state plasma concentrations of omeprazole were increased (Cmax, AUC0-
 The observed increases in omeprazole plasma concentration were associated with the following pharmacological effects.
 The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin.
 
-The plasma levels of clarithromycin and 14-hydroxyclarithromycin were increased by the concomitant administration of omeprazole.
+The plasma levels of clarithromycin and 14-hydroxy-clarithromycin were increased by the concomitant administration of omeprazole.
 For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater, and the mean AUC0-8 was 15% greater when clarithromycin was administered with omeprazole than when clarithromycin was administered alone.
-Similar results were seen for 14-hydroxyclarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
+Similar results were seen for 14-hydroxy-clarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
 Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
 
 Table 2
 
-Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (μg/g)
+Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (mcg/g)
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ Asian Population
 In pharmacokinetic studies of single 20 mg omeprazole doses, an increase in AUC of approximately four-fold was noted in Asian subjects compared with Caucasians.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for Asian subjects should be considered.
 
-## 12.4 Microbiology Information in H. pylori
+## 12.4 Microbiology
 
 Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the Indications and Usage section (1.1).
 
@@ -193,7 +193,7 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |
 |  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  | SSusceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL | I | R | No MIC |  |
+|  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies M93-067, M93-100) |  |  |  |  |  |
 | Susceptible 108 | 72 | 1 |  | 26 | 9 |
 | Intermediate 1 |  |  |  | 1 |  |
@@ -209,7 +209,7 @@ Patients with clarithromycin resistant H. pylori should not be treated with any 
 
 Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 µg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy.
+In the triple therapy clinical trials, 84.9% (157/185) of the patients in the omeprazole/clarithromycin/amoxicillin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori and 15.1% (28/185) failed therapy.
 Of the 28 patients who failed triple therapy, 11 had no post-treatment susceptibility test results and 17 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
 Eleven of the patients who failed triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 
@@ -223,18 +223,23 @@ The clarithromycin and amoxicillin MIC values should be interpreted according to
 
 Table 5
 
-| Clarithromycin MIC (µg/mL) These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
+| Clarithromycin MIC (mcg/mL) These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
 | --- | --- |
 | ≤ 0.25 | Susceptible (S) |
 | 0.5 | Intermediate (I) |
 | > 1.0 | Resistant (R) |
-| Amoxicillin MIC (µg/mL),There were not enough organisms with MICs > 0.25 µg/mL to determine a resistance breakpoint. | Interpretation |
+| Amoxicillin MIC (mcg/mL),There were not enough organisms with MICs > 0.25 mcg/mL to determine a resistance breakpoint. | Interpretation |
 | ≤ 0.25 | Susceptible (S) |
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard clarithromycin and amoxicillin powders should provide the following MIC values:
 
-| Microorganism | Antimicrobial Agent | MIC (µg/mL) These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
+| Microorganism | Antimicrobial Agent | MIC (mcg/mL) These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
 | --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (µg/mL) |
-| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (µg/mL) |
+| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (mcg/mL) |
+| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (mcg/mL) |
+
+Effects on Gastrointestinal Microbial Ecology
+
+Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.

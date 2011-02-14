@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076048"
+  ],
   "inn": "omeprazole",
-  "labeler": "Apotex Inc.",
+  "labeler": "Apotex Corp",
   "package_ndcs": [
     "60505-0065-0",
     "60505-0065-1",
@@ -16,9 +18,16 @@
     "60505-0145-7",
     "60505-0146-0",
     "60505-0146-1",
-    "60505-0146-2"
+    "60505-0146-2",
+    "60505-0146-9"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole",
+      "name": "Omeprazole Delayed-Release"
+    }
+  ],
   "setid": "b83329ac-a65e-b3af-a3fb-c5a6c740e5e7",
   "source": "dailymed"
 }

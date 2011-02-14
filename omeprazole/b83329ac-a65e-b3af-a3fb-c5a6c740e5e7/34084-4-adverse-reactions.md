@@ -33,9 +33,34 @@ None of these occurred at a higher frequency than that reported by patients taki
 The following adverse reactions have been identified during post-approval use of omeprazole delayed-release capsules.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema Endocrine: Gynecomastia Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth.
+Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise
+
+Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema
+
+Endocrine: Gynecomastia
+
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
-Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin] Metabolic/Nutritional: Hypoglycemia, hyponatremia, weight gain Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain Nervous System/Psychiatric: Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo Respiratory: Epistaxis, pharyngeal pain Skin: Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis Special Senses: Tinnitus, taste perversion Ocular: Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision Urogenital: Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis
+
+Hepatic:Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
+
+Metabolic/Nutritional: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
+
+Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
+
+Nervous System/Psychiatric: Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo
+
+Respiratory: Epistaxis, pharyngeal pain
+
+Skin: Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
+
+Special Senses: Tinnitus, taste perversion
+
+Ocular: Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision
+
+Urogenital:Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+
+Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leucocytosis

@@ -62,6 +62,7 @@ Alternative administrative options can be used for pediatric patients unable to 
 Omeprazole is available as a delayed-release capsule.
 
 For patients who have difficulty swallowing capsules, the contents of an omeprazole delayed-release capsule can be added to applesauce.
+
 One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
 All of the pellets inside the capsule should be carefully emptied on the applesauce.
 The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.

@@ -8,7 +8,7 @@ Treatment of Active Duodenal Ulcer % of Patients Healed
 
 |  | Omeprazole (n=99) | (n=48) |
 | --- | --- | --- |
-| O | 20 mg a.m. | Placebo a.m. |
+|  | 20 mg a.m. | Placebo a.m. |
 | Week 2 | (p ≤ 0.01)41 | 13 |
 | Week 4 | 75 | 27 |
 
@@ -171,7 +171,7 @@ Life Table Analysis
 
 |  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 6 months | (p < 0.01) Omeprazole 20 mg once daily versus Omperazole 20 mg 3 consecutive days per week or placebo.70 | 34 | 11 |
+| Percent in endoscopic remission at 6 months | (p < 0.01) Omeprazole 20 mg once daily versus Omeprazole 20 mg 3 consecutive days per week or placebo.70 | 34 | 11 |
 
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of erosive esophagitis.
