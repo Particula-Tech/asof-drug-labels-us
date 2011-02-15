@@ -59,7 +59,7 @@ Careful monitoring for abnormal prolongation of the PR interval or other signs o
 
 ### Use in patients with attenuated (decreased) neuromuscular transmission
 
-It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, and that verapamil prolongs recovery from the neuromuscular blocking agent vecuronium.
+It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, prolongs recovery from the neuromuscular blocking agent vecuronium, and causes a worsening of myasthenia gravis.
 It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.
 
 ### Use in patients with impaired renal function
@@ -70,6 +70,25 @@ Until further data are available, verapamil should be administered cautiously to
 These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see OVERDOSAGE).
 
 ## Drug interactions
+
+### Cytochrome inducers/inhibitors
+
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, and CYP2C.
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+
+### Aspirin
+
+In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
+
+### Grapefruit juice
+
+Grapefruit juice may significantly increase concentrations of verapamil.
+Grapefruit juice given to nine healthy volunteers increased S- and R-verapamil AUC0–12 by 36% and 28%, respectively.
+Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively, with grapefruit juice compared to control.
+Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively.
+Grapefruit juice did not affect half-life, nor was there a significant change in AUC0–12 ratio R/S compared to control.
+Grapefruit juice did not cause a significant difference in the PK of norverapamil.
+This increase in verapamil plasma concentration is not expected to have any clinical consequences
 
 ### Alcohol
 
@@ -106,7 +125,7 @@ On discontinuation of CALAN use, the patient should be reassessed to avoid under
 
 ### Antihypertensive agents
 
-Verapamil administered concomitantly with oral antihypertensive agents (eg, vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
 Patients receiving these combinations should be appropriately monitored.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients.
 Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
@@ -161,7 +180,7 @@ Therapy with rifampin may markedly reduce oral verapamil bioavailability.
 
 Phenobarbital therapy may increase verapamil clearance.
 
-#### Cyclosporin
+#### Cyclosporine
 
 Verapamil therapy may increase serum levels of cyclosporin.
 

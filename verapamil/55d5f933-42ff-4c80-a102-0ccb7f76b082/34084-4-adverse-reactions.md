@@ -26,7 +26,7 @@ Digestive system: diarrhea, dry mouth, gastrointestinal distress, gingival hyper
 
 Hemic and lymphatic: ecchymosis or bruising.
 
-Nervous system: cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence.
+Nervous system: cerebrovascular accident, confusion, equilibrium disorders, insomnia, muscle cramps, paresthesia, psychotic symptoms, shakiness, somnolence, extrapyramidal symptoms.
 
 Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweating, urticaria, Stevens-Johnson syndrome, erythema multiforme.
 

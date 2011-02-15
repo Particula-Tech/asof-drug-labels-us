@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0269-5.0 October 2009
+LAB-0269-6.0 November 2010
