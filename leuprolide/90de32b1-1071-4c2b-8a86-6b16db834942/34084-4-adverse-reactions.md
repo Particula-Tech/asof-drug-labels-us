@@ -10,11 +10,11 @@ Therefore, potential exacerbations of signs and symptoms during the first few we
 
 In the above described clinical trials, the following adverse reactions were reported in ≥ 5% of the patients during the treatment period regardless of causality.
 
-|  | N | (%) | N | (%) |
-| --- | --- | --- | --- | --- |
 | Adverse Events Reported in ≥ 5% of Patients Regardless of Causality |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | LUPRON DEPOT-4 Month 30 mg |  |  |  |  |
 |  | Nonorchiectomized, N = 49 Study 013 |  | Orchiectomized, N = 24 Study 012 |  |
+|  | N | (%) | N | (%) |
 | Body As a Whole |  |  |  |  |
 | Asthenia | 6 | (12.2) | 1 | (4.2) |
 | Flu Syndrome | 6 | (12.2) | 0 | (0.0) |
