@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA020517"
+    "NDA020517",
+    "PART333"
   ],
   "inn": "leuprolide",
   "labeler": "Abbott Laboratories",
@@ -9,9 +10,9 @@
   ],
   "products": [
     {
-      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "form": "KIT",
       "generic": "leuprolide acetate",
-      "name": "LUPRON DEPOT"
+      "name": "Lupron Depot"
     }
   ],
   "setid": "f59e8e0b-4359-4669-58a7-f1b201264c6f",

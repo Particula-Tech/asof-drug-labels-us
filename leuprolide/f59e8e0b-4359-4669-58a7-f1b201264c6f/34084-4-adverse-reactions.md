@@ -10,9 +10,9 @@ In two clinical trials of LUPRON DEPOT–3 Month 22.5 mg, the following adverse 
 Often, causality is difficult to assess in patients with metastatic prostate cancer.
 Reactions considered not drug-related are excluded.
 
-|  | N=94 | (%) |
-| --- | --- | --- |
 |  | LUPRON DEPOT–3 Month 22.5 mg |  |
+| --- | --- | --- |
+|  | N=94 | (%) |
 | Body As A Whole |  |  |
 | Asthenia | 7 | (7.4) |
 | General Pain | 25 | (26.6) |
