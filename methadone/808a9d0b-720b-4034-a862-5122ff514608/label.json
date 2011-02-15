@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017116"
+  ],
   "inn": "methadone",
-  "labeler": "Mallinckrodt",
+  "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-0527-10",
     "0406-0527-15",
     "0406-8725-10",
     "0406-8725-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CONCENTRATE",
+      "generic": "methadone hydrochloride",
+      "name": "METHADOSE"
+    }
+  ],
   "setid": "808a9d0b-720b-4034-a862-5122ff514608",
   "source": "dailymed"
 }

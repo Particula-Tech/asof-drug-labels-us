@@ -2,8 +2,8 @@
 
 ## Mechanism of Action
 
-Methadone hydrochloride is a μ agonist; a synthetic opioid analgesic with multiple actions qualitatively similar to those of morphine, the most prominent of which involve the central nervous system and organs composed of smooth muscle.
-The principal actions of therapeutic value are analgesia and sedation and detoxification or maintenance in opioid addiction.
+Methadone hydrochloride is a mu-agonist; a synthetic opioid analgesic with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle.
+The principal therapeutic uses for methadone are analgesia and detoxification or maintenance treatment in opioid addiction.
 The methadone abstinence syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe.
 
 Some data also indicate that methadone acts as an antagonist at the N-methyl-D-aspartate (NMDA) receptor.
@@ -14,26 +14,26 @@ Other NMDA receptor antagonists have been shown to produce neurotoxic effects in
 
 ### Absorption
 
-Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
+Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 and 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
-However, after administration of daily oral doses ranging from 10 to 225 mg the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
+However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
 
 ### Distribution
 
-Methadone is a lipophilic drug and the steady state volume of distribution ranges between 1.0 to 8.0 L/kg.
+Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1.0 to 8.0 L/kg.
 In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
 ### Metabolism
 
 Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1, 5-dimethyl-3, 3-diphenylpyrrolidene (EDDP).
-Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, and CYP2C19 and to a lesser extent CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in urine.
+Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19, and to a lesser extent CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
 
 ### Excretion
 
 The elimination of methadone is mediated by extensive biotransformation, followed by renal and fecal excretion.
-After multiple dose administration the apparent plasma clearance of methadone ranged between 1.4 to 126 L/h and the terminal half-life (T1/2) ranged between 7 to 59 hours.
+Published reports indicate that after multiple dose administration the apparent plasma clearance of methadone ranged between 1.4 and 126 L/h, and the terminal half-life (T1/2) was highly variable and ranged between 8 and 59 hours in different studies.
 Since methadone is lipophilic, it has been known to persist in the liver and other tissues.
 The slow release from the liver and other tissues may prolong the duration of methadone action despite low plasma concentrations.
 
@@ -41,14 +41,12 @@ The slow release from the liver and other tissues may prolong the duration of me
 
 ### Pregnancy
 
-There are no pharmacokinetic studies of parenteral methadone in pregnancy.
-The disposition of oral methadone has been studied in approximately 30 pregnant patients in 2nd and 3rd trimesters.
+The disposition of oral methadone has been studied in approximately 30 pregnant patients in the second and third trimesters.
 Elimination of methadone was significantly changed in pregnancy.
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during second and third trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone.
-(See PRECAUTIONS: Pregnancy,Labor and Delivery, and DOSAGE AND ADMINISTRATION.)
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone (see PRECAUTIONS, Pregnancy, Labor and Delivery and DOSAGE AND ADMINISTRATION).
 
 ### Renal Impairment
 
@@ -56,7 +54,7 @@ Methadone pharmacokinetics have not been extensively evaluated in patients with 
 Unmetabolized methadone and its metabolites are excreted in urine to a variable degree.
 Methadone is a basic (pKa=9.2) compound and the pH of the urinary tract can alter its disposition in plasma.
 Urine acidification has been shown to increase renal elimination of methadone.
-Forced diuresis, peritoneal dialysis, hemodialysis, or charcoal hemoperfusion have not been established as beneficial for increasing methadone or metabolite elimination.
+Forced diuresis, peritoneal dialysis, hemodialysis, or charcoal hemoperfusion have not been established as beneficial for increasing the elimination of methadone or its metabolites.
 
 ### Hepatic Impairment
 
@@ -83,8 +81,9 @@ The pharmacokinetics of methadone have not been evaluated in the pediatric popul
 
 (see PRECAUTIONS, Drug Interactions)
 
-Methadone undergoes hepatic N-demethylation by cytochrome P-450 isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
+Methadone undergoes hepatic N-demethylation by cytochrome P450 isoforms, principally CYP3A4, CYP2B6, CYP2C19, and to a lesser extent by CYP2C9 and CYP2D6.
 Coadministration of methadone with inducers of these enzymes may result in more rapid methadone metabolism, and potentially, decreased effects of methadone.
-Conversely, administration with inhibitors may reduce metabolism and potentiate methadone's effects.
-Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential.
-Clinicians are advised to evaluate individual response to drug therapy.
+Conversely, administration with CYP inhibitors may reduce metabolism and potentiate methadone's effects.
+Pharmacokinetics of methadone may be unpredictable when coadministered with drugs that are known to both induce and inhibit CYP enzymes.
+Although anti-retroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to their CYP induction activity.
+Therefore, drugs administered concomitantly with methadone should be evaluated for interaction potential; clinicians are advised to evaluate individual response to drug therapy before making a dosage adjustment.

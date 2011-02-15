@@ -8,10 +8,10 @@ While methadone's duration of analgesic action (typically 4 to 8 hours) in the s
 Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects.
 Also, with repeated dosing, methadone may be retained in the liver and then slowly released, prolonging the duration of action despite low plasma concentrations.
 For these reasons, steady-state plasma concentrations, and full analgesic effects, are usually not attained until 3 to 5 days of dosing.
-Additionally, incomplete cross-tolerance between μ-opioid agonists makes determination of dosing during opioid conversion complex.
+Additionally, incomplete cross-tolerance between mu-opioid agonists makes determination of dosing during opioid conversion complex.
 
 The complexities associated with methadone dosing can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
-A high degree of "opioid tolerance" does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
+A high degree of “opioid tolerance” does not eliminate the possibility of methadone overdose, iatrogenic or otherwise.
 Deaths have been reported during conversion to methadone from chronic, high-dose treatment with other opioid agonists and during initiation of methadone treatment of addiction in subjects previously abusing high doses of other agonists.
 
 ## Detoxification and Maintenance Treatment of Opiate Dependence
