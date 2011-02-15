@@ -1,9 +1,7 @@
-NDC 0074-3642-03
+NDC 0074–3642–03
 
-For Adult Use 7.5mg
+Single Dose Administration Kit with prefilled dual-chamber syringe
 
-Lupron Depot®
+LupronDepot® leuprolide acetate for depot suspension 7.5 mg
 
-Single Dose Administration Kit with prefilled dual-chamber syringe.
-
-Leuprolide Acetate for depot suspension 7.5mg Rx only
+Rx only Abbott

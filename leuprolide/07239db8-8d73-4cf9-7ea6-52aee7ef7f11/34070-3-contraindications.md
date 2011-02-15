@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS
 
 1. Hypersensitivity to GnRH, GnRH agonist analogs or any of the excipients in LUPRON DEPOT.
-   Reports of anaphylactic reactions to GnRH agonist analogs have been reported in the medical literature.1,2
+   Reports of anaphylactic reactions to GnRH agonist analogs have been reported in the medical literature.
 2. All formulations of LUPRON DEPOT are contraindicated in women who are or may become pregnant while receiving the drug.
    LUPRON DEPOT may cause fetal harm when administered to a pregnant woman.
    Major fetal abnormalities were observed in rabbits but not in rats after administration of LUPRON DEPOT throughout gestation.

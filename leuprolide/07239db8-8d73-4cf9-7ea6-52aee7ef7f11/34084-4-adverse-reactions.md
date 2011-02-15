@@ -8,26 +8,27 @@ Potential exacerbations of signs and symptoms during the first few weeks of trea
 
 In a clinical trial of LUPRON DEPOT 7.5 mg, the following adverse reactions were reported in 5% or more of the patients during the initial 24-week treatment period regardless of causality.
 
-|  | N | (%) |
-| --- | --- | --- |
 | LUPRON DEPOT 7.5 mg (N=56) |  |  |
+| --- | --- | --- |
+|  | N | (%) |
 | Body as a Whole |  |  |
 | General pain | 13 | (23.2) |
 | Infection | 3 | (5.4) |
 | Cardiovascular System |  |  |
-| Hot flashes/sweatsDue to the expected physiologic effect of decreased testosterone levels. | 32 | (57.1) |
+| Hot flashes/sweats* | 32 | (57.1) |
 | Digestive System |  |  |
 | GI disorders | 8 | (14.3) |
 | Metabolic and Nutritional Disorders |  |  |
 | Edema | 8 | (14.3) |
 | Nervous System |  |  |
-| Libido decreased | 3 | (5.4) |
+| Libido decreased* | 3 | (5.4) |
 | Respiratory System |  |  |
 | Respiratory disorder | 6 | (10.7) |
 | Urogenital System |  |  |
 | Urinary disorder | 7 | (12.5) |
-| Impotence | 3 | (5.4) |
-| Testicular atrophy | 3 | (5.4) |
+| Impotence* | 3 | (5.4) |
+| Testicular atrophy* | 3 | (5.4) |
+| * Due to the expected physiologic effect of decreased testosterone levels. |  |  |
 
 In this same study, the following adverse reactions were reported in less than 5% of the patients on LUPRON DEPOT 7.5 mg.
 
