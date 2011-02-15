@@ -3,7 +3,7 @@
 MICROZIDE Capsules are #4 Teal Opaque/Teal Opaque two piece hard gelatin capsules imprinted with MICROZIDE and 12.5 mg in black ink.
 They are supplied in bottles of 100 with child resistant closures (NDC 52544-622-01).
 
-Dispense in a tight, light-resistant container as fefined in the USP.
+Dispense in a tight, light-resistant container as defined in the USP.
 
 Keep out of reach of children.
 
@@ -20,6 +20,4 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
 
-Revised: April 2010
-
-174783-1 S0410
+Revised: February 2011 174783-2
