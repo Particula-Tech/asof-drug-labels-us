@@ -4,6 +4,10 @@ Hydrochlorothiazide Capsules are #4 Teal Opaque/White Opaque two piece hard gela
 They are supplied in bottles of 100 and 500.
 Bottles of 100 are supplied with child resistant closures.
 
+Dispense in a tight, light-resistant container as defined in the USP.
+
+Keep out of reach of children.
+
 Store at 20°- 25°C (68°-77°F).
 [See USP controlled room temperature.]
 Protect from light, moisture, freezing, -20°C (-4°F).
@@ -11,10 +15,11 @@ Keep container tightly closed.
 
 Rx only
 
-Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Address medical inquiries to: WATSON Medical Communications P.O.
+Box 1953 Morristown, NJ 07962-1953 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Revised: March 2009
+Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
 
-174788 S0309
+Revised: February 2011 174788-2
