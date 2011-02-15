@@ -1,15 +1,15 @@
 # ADVERSE REACTIONS
 
-Adverse events that are clearly related to BETAPACE AF are those which are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects.
+Adverse events that are clearly related to Betapace AF are those which are typical of its Class II (beta-blocking) and Class III (cardiac action potential duration prolongation) effects.
 The common documented beta-blocking adverse events (bradycardia, dyspnea, and fatigue) and Class III effects (QT interval prolongation) are dose related.
 
-In a pooled clinical trial population consisting of four placebo-controlled studies with 275 patients with AFIB/AFL treated with 160-320 mg doses of BETAPACE AF, the following adverse events were reported at a rate of 2% or more in the 160-240 mg treated patients and greater than the rate in placebo patients (See Table 8).
-The data are presented by incidence of events in the BETAPACE AF and placebo groups by body system and daily dose.
+In a pooled clinical trial population consisting of four placebo-controlled studies with 275 patients with AFIB/AFL treated with 160-320 mg doses of Betapace AF, the following adverse events were reported at a rate of 2% or more in the 160-240 mg treated patients and greater than the rate in placebo patients (See Table 8).
+The data are presented by incidence of events in the Betapace AF and placebo groups by body system and daily dose.
 No significant irreversible non-cardiac end-organ toxicity was observed.
 
 Table 8 Incidence (%) of Common Adverse Events (≥2% in the 160-240 mg group and more frequent than on placebo) in Four Placebo-Controlled Studies of Patients with AFIB/AFL
 
-|  | Placebo | BETAPACE AF®Total Daily Dose |  |
+|  | Placebo | Betapace AFTotal Daily Dose |  |
 | --- | --- | --- | --- |
 | Body System/Adverse Event (Preferred Term) | N=282 | 160-240N=153 | >240-320N=122 |
 | CARDIOVASCULAR |  |  |  |
@@ -49,7 +49,7 @@ Table 8 Incidence (%) of Common Adverse Events (≥2% in the 160-240 mg group an
 | Disturbance Vision | 0.7 | 2.6 | 0.8 |
 
 Overall, discontinuation because of unacceptable adverse events was necessary in 17% of the patients, and occurred in 10% of patients less than two weeks after starting treatment.
-The most common adverse events leading to discontinuation of BETAPACE AF were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
+The most common adverse events leading to discontinuation of Betapace AF were: fatigue 4.6%, bradycardia 2.4%, proarrhythmia 2.2%, dyspnea 2%, and QT interval prolongation 1.4%.
 
 In clinical trials involving 1292 patients with sustained VT/VF, the common adverse events (occurring in ≥2% of patients) were similar to those described for the AFIB/AFL population.
 
@@ -69,4 +69,4 @@ Serious adverse events including death, Torsades de Pointes, other proarrhythmia
 Foreign marketing experience with sotalol hydrochloride shows an adverse experience profile similar to that described above from clinical trials.
 Voluntary reports since introduction also include rare reports of: emotional liability, slightly clouded sensorium, incoordination, vertigo, paralysis, thrombocytopenia, eosinophilia, leukopenia, photosensitivity reaction, fever, pulmonary edema, hyperlipidemia, myalgia, pruritis, alopecia.
 
-The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been associated with BETAPACE AF during investigational use and foreign marketing experience.
+The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been associated with Betapace AF during investigational use and foreign marketing experience.

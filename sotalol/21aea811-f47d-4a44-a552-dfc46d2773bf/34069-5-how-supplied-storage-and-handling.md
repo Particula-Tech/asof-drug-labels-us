@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-BETAPACE AF (sotalol hydrochloride); capsule-shaped white scored tablets imprinted with the “BHCP” and the strength are available as follows:
+Betapace AF (sotalol hydrochloride); capsule-shaped white scored tablets imprinted with “BHCP” and the strength are available as follows:
 
 | NDC 50419-115-06 | 80 mg strength, bottle of 60 in unit use package |
 | --- | --- |

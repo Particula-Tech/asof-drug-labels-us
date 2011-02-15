@@ -1,7 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of Action: BETAPACE AF (sotalol hydrochloride) has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties.
-BETAPACE AF (sotalol hydrochloride) is a racemic mixture of d- and l-sotalol.
+## Mechanism of Action
+
+Betapace AF (sotalol hydrochloride) has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties.
+Betapace AF (sotalol hydrochloride) is a racemic mixture of d- and l-sotalol.
 Both isomers have similar Class III antiarrhythmic effects, while the l-isomer is responsible for virtually all of the beta-blocking activity.
 The beta-blocking effect of sotalol is non-cardioselective, half maximal at about 80 mg/day and maximal at doses between 320 and 640 mg/day.
 Sotalol does not have partial agonist or membrane stabilizing activity.
@@ -10,20 +12,22 @@ Although significant beta-blockade occurs at oral doses as low as 25 mg, signifi
 In children, a Class III electrophysiological effect can be seen at daily doses of 210 mg/m2 body surface area (BSA).
 A reduction of the resting heart rate due to the beta-blocking effect of sotalol is observed at daily doses ≥90 mg/m2 in children.
 
-Electrophysiology: Sotalol hydrochloride prolongs the plateau phase of the cardiac action potential in the isolated myocyte, as well as in isolated tissue preparations of ventricular or atrial muscle (Class III activity).
+## Electrophysiology
+
+Sotalol hydrochloride prolongs the plateau phase of the cardiac action potential in the isolated myocyte, as well as in isolated tissue preparations of ventricular or atrial muscle (Class III activity).
 In intact animals it slows heart rate, decreases AV nodal conduction and increases the refractory periods of atrial and ventricular muscle and conduction tissue.
 
-In man, the Class II (beta-blockade) electrophysiological effects of BETAPACE AF are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
+In man, the Class II (beta-blockade) electrophysiological effects of Betapace AF are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (where present) in both the anterograde and retrograde directions.
 With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40-100 msec in QT and 10-40 msec in QTc.
-In a study of patients with atrial fibrillation (AFIB)/flutter (AFIB/AFL) receiving three different oral doses of BETAPACE AF given q12h (or q24h in patients with a reduced creatinine clearance), mean increases in QT intervals measured from 12-lead ECGs of 25 msec, 40 msec and 54 msec were found in the 80 mg, 120 mg, and 160 mg dose groups, respectively.
+In a study of patients with atrial fibrillation (AFIB)/flutter (AFIB/AFL) receiving three different oral doses of Betapace AF given q12h (or q24h in patients with a reduced creatinine clearance), mean increases in QT intervals measured from 12-lead ECGs of 25 msec, 40 msec and 54 msec were found in the 80 mg, 120 mg, and 160 mg dose groups, respectively.
 (See WARNINGS for description of relationship between QTc and Torsade de Pointes type arrhythmias.)
 No significant alteration in QRS interval is observed.
 
 In a small study (n=25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2-15 joules) compared to a mean of 16 joules for a non-randomized comparative group primarily receiving amiodarone.
 
-In a dose-response trial comparing three dose levels of BETAPACE AF, 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p<0.017 for each sotalol dose group versus placebo).
-In another placebo controlled trial in which BETAPACE AF was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and BETAPACE AF groups, respectively (p<0.001).
+In a dose-response trial comparing three dose levels of Betapace AF, 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p<0.017 for each sotalol dose group versus placebo).
+In another placebo controlled trial in which Betapace AF was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and Betapace AF groups, respectively (p<0.001).
 
 Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
@@ -33,7 +37,9 @@ The smallest children (BSA<0.33m2) showed a tendency for larger Class III effect
 The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
-Hemodynamics: In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of sotalol produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post dosing at steady-state.
+## Hemodynamics
+
+In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of sotalol produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post dosing at steady-state.
 Concurrently, systemic vascular resistance and stroke volume showed non-significant increases of 25% and 8%, respectively.
 Pulmonary capillary wedge pressure increased significantly from 6.4 mmHg to 11.8 mmHg in the 11 patients who completed the study.
 One patient was discontinued because of worsening congestive heart failure.
@@ -44,13 +50,13 @@ In hypertensive patients, sotalol produces significant reductions in both systol
 Although sotalol is usually well-tolerated hemodynamically, caution should be exercised in patients with marginal cardiac compensation as deterioration in cardiac performance may occur.
 (See WARNINGS: Congestive Heart Failure.)
 
-## Clinical Studies:
+## Clinical Studies
 
 ### Prolongation of Time to Recurrence of Symptomatic Atrial Fibrillation/ Flutter
 
-BETAPACE AF has been studied in patients with symptomatic AFIB/AFL in two principal studies, one in patients with primarily paroxysmal AFIB/AFL, the other in patients with primarily chronic AFIB.
+Betapace AF has been studied in patients with symptomatic AFIB/AFL in two principal studies, one in patients with primarily paroxysmal AFIB/AFL, the other in patients with primarily chronic AFIB.
 
-In one study, a U.S. multicenter, randomized, placebo-controlled, double-blind, dose-response trial of patients with symptomatic primarily paroxysmal AFIB/AFL, three fixed dose levels of BETAPACE AF (80 mg, 120 mg and 160 mg) twice daily and placebo were compared in 253 patients.
+In one study, a U.S. multicenter, randomized, placebo-controlled, double-blind, dose-response trial of patients with symptomatic primarily paroxysmal AFIB/AFL, three fixed dose levels of Betapace AF (80 mg, 120 mg and 160 mg) twice daily and placebo were compared in 253 patients.
 In patients with reduced creatinine clearance (40-60 mL/min) the same doses were given once daily.
 Patients were not randomized for the following reasons: QT >450 msec; creatinine clearance <40 mL/min; intolerance to beta-blockers; bradycardia-tachycardia syndrome in the absence of an implanted pacemaker; AFIB/AFL was asymptomatic or was associated with syncope, embolic CVA or TIA; acute myocardial infarction within the previous 2 months; congestive heart failure; bronchial asthma or other contraindications to beta-blocker therapy; receiving potassium losing diuretics without potassium replacement or without concurrent use of ACE-inhibitors; uncorrected hypokalemia (serum potassium <3.5 meq/L) or hypomagnesemia (serum magnesium <1.5 meq/L); received chronic oral amiodarone therapy for >1 month within previous 12 weeks; congenital or acquired long QT syndromes; history of Torsade de Pointes with other antiarrhythmic agents which increase the duration of ventricular repolarization; sinus rate <50 bpm during waking hours; unstable angina pectoris; receiving treatment with other drugs that prolong the QT interval; and AFIB/AFL associated with the Wolff-Parkinson-White (WPW) syndrome.
 If the QT interval increased to ≥520 msec (or JT ≥430 msec if QRS >100 msec) the drug was discontinued.
@@ -58,14 +64,14 @@ The patient population in this trial was 64% male, and the mean age was 62 years
 No structural heart disease was present in 43% of the patients.
 Doses were administered once daily in 20% of the patients because of reduced creatinine clearance.
 
-BETAPACE AF was shown to prolong the time to the first symptomatic, ECG-documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
+Betapace AF was shown to prolong the time to the first symptomatic, ECG-documented recurrence of AFIB/AFL, as well as to reduce the risk of such recurrence at both 6 and 12 months.
 The 120 mg dose was more effective than 80 mg, but 160 mg did not appear to have an added benefit.
 Note that these doses were given twice or once daily, depending on renal function.
 The results are shown in Figure 1 and Tables 1 and 2.
 
 Table 1 Study 1—Patient Status at 12 Months
 
-|  | Placebo | BETAPACE AF Dose |  |  |
+|  | Placebo | Betapace AF Dose |  |  |
 | --- | --- | --- | --- | --- |
 | 80 mg | 120 mg | 160 mg |  |  |
 | Randomized | 69 | 59 | 63 | 62 |
@@ -78,7 +84,7 @@ Please note that columns do not add up to 100% due to discontinuations (D/C) for
 Table 2 Study 1—Median Time to Recurrence of Symptomatic AFIB/AFL and Relative Risk (vs.
 Placebo) at 12 Months
 
-|  | Placebo | BETAPACE AF Dose |  |  |
+|  | Placebo | Betapace AF Dose |  |  |
 | --- | --- | --- | --- | --- |
 | 80 mg | 120 mg | 160 mg |  |  |
 | p-value vs placebo |  | p=0.325 | p=0.018 | p=0.029 |
@@ -87,12 +93,12 @@ Placebo) at 12 Months
 
 Discontinuation because of adverse events was dose related.
 
-In a second multicenter, randomized, placebo-controlled, double-blind study of 6 months duration in 232 patients with chronic AFIB, BETAPACE AF was titrated over a dose range from 80 mg/day to 320 mg/day.
+In a second multicenter, randomized, placebo-controlled, double-blind study of 6 months duration in 232 patients with chronic AFIB, Betapace AF was titrated over a dose range from 80 mg/day to 320 mg/day.
 The patient population of this trial was 70% male with a mean age of 65 years.
 Structural heart disease was present in 49% of the patients.
 All patients had chronic AFIB for >2 weeks but <1 year at entry with a mean duration of 4.1 months.
 Patients were excluded if they had significant electrolyte imbalance, QTc >460 msec, QRS >140 msec, any degree of AV block or functioning pacemaker, uncompensated cardiac failure, asthma, significant renal disease (estimated creatinine clearance <50 mL/min), heart rate <50 bpm, myocardial infarction or open heart surgery in past 2 months, unstable angina, infective endocarditis, active pericarditis or myocarditis, ≥ 3 DC cardioversions in the past, medications that prolonged QT interval, and previous amiodarone treatment.
-After successful cardioversion patients were randomized to receive placebo (n=114) or BETAPACE AF (n=118), at a starting dose of 80 mg twice daily.
+After successful cardioversion patients were randomized to receive placebo (n=114) or Betapace AF (n=118), at a starting dose of 80 mg twice daily.
 If the initial dose was not tolerated it was decreased to 80 mg once daily, but if it was tolerated it was increased to 160 mg twice daily.
 During the maintenance period 67% of treated patients received a dose of 160 mg twice daily, and the remainder received doses of 80 mg once daily (17%) and 80 mg twice daily (16%).
 
@@ -101,7 +107,7 @@ There was a longer time to ECG-documented recurrence of AFIB and a reduced risk 
 
 Table 3 Study 2—Patient Status at 6 Months
 
-|  | BETAPACE AF | Placebo |
+|  | Betapace AF | Placebo |
 | --- | --- | --- |
 | Randomized | 118 | 114 |
 | On treatment in NSR at 6 months without recurrenceSymptomatic or asymptomatic AFIB/AFL | 45% | 29% |
@@ -112,13 +118,13 @@ Table 3 Study 2—Patient Status at 6 Months
 Table 4 Study 2—Median Time to Recurrence of Symptomatic AFIB/AFL/Death and Relative Risk (vs.
 Placebo) at 6 Months
 
-|  | BETAPACE AF | Placebo |
+|  | Betapace AF | Placebo |
 | --- | --- | --- |
 | p-value vs placebo | p=0.002 |  |
 | Relative Risk (RR) to placebo | 0.55 |  |
 | Median time to recurrence (days) | >180 | 44 |
 
-### Safety in Patients with Structural Heart Disease:
+### Safety in Patients with Structural Heart Disease
 
 In a multicenter double-blind randomized study reported by D. Julian et al, the effect of sotalol 320 mg once daily was compared with that of placebo in 1456 patients (randomized 3:2, sotalol to placebo) surviving an acute myocardial infarction (MI).
 Treatment was started 5-14 days after infarction.
@@ -126,7 +132,7 @@ Patients were followed for 12 months.
 The mortality rate was 7.3% in the sotalol group and 8.9% in the placebo group, not a statistically significant difference.
 Although the results do not show evidence of a benefit of sotalol in this population, they do not show an added risk in post MI patients receiving sotalol.
 
-## Pharmacokinetics:
+## Pharmacokinetics
 
 In healthy subjects, the oral bioavailability of sotalol is 90-100%.
 After oral administration, peak plasma concentrations are reached in 2.5 to 4 hours, and steady-state plasma concentrations are attained within 2-3 days (i.e., after 5-6 doses when administered twice daily).
