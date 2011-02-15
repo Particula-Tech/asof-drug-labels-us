@@ -13,9 +13,10 @@ The study population primarily consisted of Caucasian women (approximately 90%) 
 
 Table 1 lists adverse events, regardless of causality, that were reported in the randomized, double-blind, placebo-controlled 12-week study at an incidence greater than placebo and in greater than 2% of patients treated with GELNIQUE.
 
-| Adverse Event | GELNIQUE 1 gram N=389 n (%) | Placebo N=400 n (%) |
+Table 1: Common Adverse Events in the Randomized, Double-blind, Placebo-controlled 12-Week Study (>2% and > placebo)
+
+| Adverse Event | GELNIQUE 1 gram N = 389 n (%) | Placebo N = 400 n (%) |
 | --- | --- | --- |
-| Table 1: Common Adverse Events in the Randomized, Double-blind, Placebo-controlled 12-Week Study (>2% and > placebo) |  |  |
 | Dry mouth | 29 (7.5) | 11 (2.8) |
 | Urinary tract infection | 27 (6.9) | 17 (4.3) |
 | Application site reactions* | 21 (5.4) | 4 (1.0) |

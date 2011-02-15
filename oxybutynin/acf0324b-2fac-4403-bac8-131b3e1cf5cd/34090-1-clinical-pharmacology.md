@@ -5,7 +5,7 @@
 Oxybutynin acts as a competitive antagonist of acetylcholine at postganglionic muscarinic receptors, resulting in relaxation of bladder smooth muscle.
 In patients with conditions characterized by involuntary detrusor contractions, cystometric studies have demonstrated that oxybutynin increases maximum urinary bladder capacity and increases the volume to first detrusor contraction.
 
-Oxybutynin is a racemic (50:50) mixture of R- and S- isomers.
+Oxybutynin is a racemic (50:50) mixture of R- and S-isomers.
 Antimuscarinic activity resides predominantly with the R-isomer.
 The active metabolite, N-desethyloxybutynin, has pharmacological activity on the human detrusor muscle that is similar to that of oxybutynin in in vitro studies.
 
@@ -20,9 +20,10 @@ Mean plasma concentrations during a randomized, crossover study of the three rec
 
 Average steady-state plasma oxybutynin concentrations were 4.7, 5.2, and 5.5 ng/mL for the abdomen, upper arm/shoulder and thigh application sites, respectively (Table 2).
 
+Table 2: Mean (SD) steady-state pharmacokinetic parameters for oxybutynin following GELNIQUE application to the abdomen, upper arm/shoulder and thigh (N = 39).
+
 | Application Site | AUC0-24 (ng•hr/mL) | Cmax (ng/mL) | Cavg (ng/mL) |
 | --- | --- | --- | --- |
-| Table 2: Mean (SD) steady-state pharmacokinetic parameters for oxybutynin following GELNIQUE application to the abdomen, upper arm/shoulder and thigh (N=39). |  |  |  |
 | Abdomen | 112.7 (58.00) | 6.8 (3.93) | 4.7 (2.39) |
 | Upper Arm/Shoulder | 133.8 (81.58) | 8.3 (5.97) | 5.5 (3.37) |
 | Thigh | 125.1 (84.67) | 7.0 (4.95) | 5.2 (3.50) |
@@ -54,18 +55,18 @@ Less than 0.1% of the administered dose is excreted as the metabolite N-desethyl
 
 Person-to-Person Transference
 
-The potential for dermal transfer of oxybutynin from a treated person to an untreated person was evaluated in a single-dose study where subjects dosed with GELNIQUE engaged in vigorous contact with an untreated partner for 15 minutes, either with (N=14 couples) or without (N=12 couples) clothing covering the application area.
+The potential for dermal transfer of oxybutynin from a treated person to an untreated person was evaluated in a single-dose study where subjects dosed with GELNIQUE engaged in vigorous contact with an untreated partner for 15 minutes, either with (N = 14 couples) or without (N = 12 couples) clothing covering the application area.
 The untreated partners not protected by clothing demonstrated detectable plasma concentrations of oxybutynin (mean Cmax = 0.94 ng/mL).
 Two of the 14 untreated subjects participating in the clothing-to-skin contact regimen had measurable oxybutynin plasma concentrations (Cmax ≤ 0.1 ng/mL) during the 48 hours following contact with treated subjects; oxybutynin was not detectable with the remaining 12 untreated subjects.
 
 Use of Sunscreen
 
-The effect of sunscreen on the absorption of oxybutynin when applied 30 minutes before or 30 minutes after GELNIQUE application was evaluated in a single-dose randomized crossover study (N=16).
+The effect of sunscreen on the absorption of oxybutynin when applied 30 minutes before or 30 minutes after GELNIQUE application was evaluated in a single-dose randomized crossover study (N = 16).
 Concomitant application of sunscreen, either before or after GELNIQUE application, had no effect on the systemic exposure of oxybutynin.
 
 Showering
 
-The effect of showering on the absorption of oxybutynin was evaluated in a randomized, steady-state crossover study under conditions of no shower, or showering 1, 2 or 6 hours after GELNIQUE application (N=20).
+The effect of showering on the absorption of oxybutynin was evaluated in a randomized, steady-state crossover study under conditions of no shower, or showering 1, 2 or 6 hours after GELNIQUE application (N = 20).
 The results of the study indicate that showering after one hour does not affect the overall systemic exposure to oxybutynin.
 
 Race

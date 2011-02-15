@@ -91,36 +91,51 @@ GELNIQUE SHOULD NOT BE TAKEN BY MOUTH.
 
 Important: Avoid contact with eyes, nose, open sores, recently shaved skin, and skin with rashes or other areas not approved for the application of GELNIQUE.
 
-1. Step 1.
-   The approved application sites for GELNIQUE are the shaded areas shown in Figure A. These are the abdomen (stomach area), upper arms/shoulder, and thigh.
-   Select an approved site for the application of GELNIQUE.
-   Changing the approved application sites with each dose is recommended and may help you to find the most comfortable areas for applying GELNIQUE.
-   The approved application sites are shown below.
-   Do not apply GELNIQUE in an area that is not approved.
-   Figure A:
-2. Step 2.
-   Wash your hands with soap and water before applying GELNIQUE.
-3. Step 3.
-   Wash the area where GELNIQUE will be applied with mild soap and water.
-   Allow the area to dry completely.
-4. Step 4.
-   Tear the packet of GELNIQUE open at the indentation just before use.
-   See Figure B. Figure B: Squeeze the entire contents of the packet into the palm of your hand or squeeze directly onto the application site.
-   See Figure C. Squeeze from the bottom of the packet toward the open end.
-   Repeat until the packet is empty.
-   The amount of gel in each packet will be about the size of a nickel on your skin.
-   Figure C:
-5. Step 5.
-   Gently rub GELNIQUE into your skin until it dries.
-   Do not continue rubbing after GELNIQUE has dried.
-   If applying GELNIQUE to the stomach, care should be taken to avoid the area around the navel (belly-button).
-   See Figure D. Figure D:
-6. Step 6.
-   Carefully throw away the open packet of GELNIQUE so that children and pets are not exposed to it.
-7. Step 7.
-   After applying GELNIQUE, immediately wash your hands thoroughly with soap and water.
-   Avoid bathing, swimming, showering, exercising or immersing the application site in water for one hour after application.
-   The application site may be covered with clothing once GELNIQUE has dried.
+Step 1.
+
+The approved application sites for GELNIQUE are the shaded areas shown in Figure A. These are the abdomen (stomach area), upper arms/shoulder, and thigh.
+Select an approved site for the application of GELNIQUE.
+Changing the approved application sites with each dose is recommended and may help you to find the most comfortable areas for applying GELNIQUE.
+The approved application sites are shown below.
+Do not apply GELNIQUE in an area that is not approved.
+Figure A:
+
+Step 2.
+
+Wash your hands with soap and water before applying GELNIQUE.
+
+Step 3.
+
+Wash the area where GELNIQUE will be applied with mild soap and water.
+
+Allow the area to dry completely.
+
+Step 4.
+
+Tear the packet of GELNIQUE open at the indentation just before use.
+See Figure B. Figure B: Squeeze the entire contents of the packet into the palm of your hand or squeeze directly onto the application site.
+See Figure C. Squeeze from the bottom of the packet toward the open end.
+Repeat until the packet is empty.
+The amount of gel in each packet will be about the size of a nickel on your skin.
+Figure C:
+
+Step 5.
+
+Gently rub GELNIQUE into your skin until it dries.
+
+Do not continue rubbing after GELNIQUE has dried.
+If applying GELNIQUE to the stomach, care should be taken to avoid the area around the navel (belly-button).
+See Figure D. Figure D:
+
+Step 6.
+
+Carefully throw away the open packet of GELNIQUE so that children and pets are not exposed to it.
+
+Step 7.
+
+After applying GELNIQUE, immediately wash your hands thoroughly with soap and water.
+Avoid bathing, swimming, showering, exercising or immersing the application site in water for one hour after application.
+The application site may be covered with clothing once GELNIQUE has dried.
 
 What should I do if someone else is exposed to GELNIQUE?
 
