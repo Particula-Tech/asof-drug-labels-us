@@ -113,6 +113,3 @@ Rev.
 9420050-A
 
 # Principal Display Panel
-
-NDC 0029-6092-51 has been discontinued as of 03August2009.
-Current artwork is not available.
