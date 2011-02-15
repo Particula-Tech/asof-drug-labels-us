@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA079198"
+  ],
+  "inn": "octreotide",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-239-01",
+    "67457-245-01",
+    "67457-246-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "octreotide acetate",
+      "name": "Octreotide Acetate"
+    }
+  ],
+  "setid": "2d78d5d1-77b2-4da1-98d4-d9c36e743ce2",
+  "source": "dailymed"
+}
