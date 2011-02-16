@@ -179,7 +179,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How do I store FORADIL AEROLIZER?
 
 - Store FORADIL AEROLIZER at room temperature between 68° F and 77° F (20° C to 25° C). Protect FORADIL AEROLIZER from heat and moisture.
-  Do not remove FORADIL capsules from their foil package until just before use.
+  Do not remove FORADIL capsules from their foil blister package until just before use.
 - Always discard the old AEROLIZER inhaler by the “Use by” date and use the new one provided with each new prescription.
 - Safely discard FORADIL capsules and the Aerolizer inhaler if no longer needed or is out-of-date.
 - Keep FORADIL AEROLIZER and all medicines out of the reach of children.
@@ -213,14 +213,12 @@ If you have any questions, ask your healthcare provider or pharmacist.
 FORADIL AEROLIZER
 
 - FORADIL AEROLIZER consists of FORADIL capsules and a AEROLIZER Inhaler.
-- FORADIL capsules come on blister cards and are wrapped in foil pouches.
-  Do not open a foil pouch until you are ready to use FORADIL AEROLIZER.
+- FORADIL capsules come on blister cards.
 - Keep your FORADIL and AEROLIZER Inhaler dry.
   Handle with DRY hands.
 
-|  | Aluminum pouch covering the foil blister cards |
-| --- | --- |
 |  | Foil blister card |
+| --- | --- |
 |  | The Aerolizer consists of the following parts: 1. A cap to protect the mouthpiece of the base 2. A base that allows the proper release of medicine from the capsule. The base consists of: 3. A mouth piece 4. A capsule chamber 5. A button with “winglets” (projecting side pieces) and pins on each side 6. An air inlet channel. |
 
 With each new prescription of FORADIL AEROLIZER or refill, your pharmacist should have written the “Use by” date on the sticker on the outside of the FORADIL AEROLIZER box.
@@ -234,8 +232,7 @@ Do not use FORADIL capsules with any other capsule inhaler, and do not use the A
 Taking a dose of FORADIL AEROLIZER requires the following steps:
 
 1.
-Open the foil pouch containing a blister card of FORADIL capsules.
-Do not remove a FORADIL capsule until you are ready for a dose.
+Do not remove a FORADIL capsule from the blister card until you are ready for a dose.
 
 2.
 Pull off the AEROLIZER Inhaler cover.
@@ -339,7 +336,7 @@ MERCK & CO., INC.
 
 Whitehouse Station, NJ 08889, USA
 
-Copyright © 2010 Schering Corp.,a subsidiary of MERCK & CO., INC.
+Copyright © 2011 Schering Corp.,a subsidiary of MERCK & CO., INC.
 
 All rights reserved.
 
@@ -347,6 +344,6 @@ FORADIL is a registered trademark of Astellas Pharma Inc.
 
 AEROLIZER is a registered trademark of Novartis AG.
 
-June 2010 XXXXXXX
+February 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
