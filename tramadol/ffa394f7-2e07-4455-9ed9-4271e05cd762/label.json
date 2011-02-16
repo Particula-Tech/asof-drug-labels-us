@@ -1,16 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021745"
+  ],
   "inn": "tramadol",
-  "labeler": "Labopharm Inc.",
+  "labeler": "Purdue Pharma LP",
   "package_ndcs": [
     "59011-334-30",
+    "59011-334-60",
     "59011-334-90",
     "59011-335-30",
+    "59011-335-60",
     "59011-335-90",
     "59011-336-30",
+    "59011-336-60",
     "59011-336-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "RYZOLT"
+    }
+  ],
   "setid": "ffa394f7-2e07-4455-9ed9-4271e05cd762",
   "source": "dailymed"
 }

@@ -1,6 +1,6 @@
 # How Supplied
 
-RYZOLT™ (tramadol hydrochloride extended-release tablets) are supplied in a number of packages and dose strengths:
+RYZOLT® (tramadol hydrochloride extended-release tablets) are supplied in a number of packages and dose strengths:
 
 100-mg, white, beveled edge, round biconvex tablets, plain on one side and printed "PP 100" in black ink on the other side.
 
@@ -25,20 +25,17 @@ Dispense in a tight, light-resistant container.
 
 Warning: keep out of reach of children.
 
-Manufactured by:
+Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
-Confab Laboratories Inc
+February 25, 2010 301397-0B
 
-Saint-Hubert, Quebec, Canada J3Y 3X3
+Manufactured by: Confab Laboratories Inc Saint-Hubert, Quebec, Canada J3Y 3X3
 
-Distributed by:
-
-Purdue Pharma L.P.
-
+Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
 Licensed from Labopharm Europe Limited
 
-U.S. Patent 6,607,748; U.S. Patent 5,591,452; U.S. Patent 6,254,887
+U.S. Patent 6,607,748
 
 RYZOLTTM is a trademark of Purdue Pharma L.P.

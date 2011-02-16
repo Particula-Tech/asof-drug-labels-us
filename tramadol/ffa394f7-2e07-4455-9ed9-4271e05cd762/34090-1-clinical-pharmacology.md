@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-RYZOLT™ is a centrally acting synthetic opioid analgesic.
+RYZOLT® is a centrally acting synthetic opioid analgesic.
 Although its mode of action is not completely understood, at least two complementary mechanisms that demonstrate three different types of activity appear applicable: binding of parent and M1 metabolite to µ-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin.
 
 Opioid activity is due to both low affinity binding of the parent compound and higher affinity binding of the O-demethylated metabolite (M1) to mu-opioid receptors.
@@ -20,42 +20,43 @@ Orthostatic hypotension has been observed.
 
 ## Pharmacokinetics
 
-The analgesic activity of tramadol hydrochloride is due to both parent drug and the M1 metabolite (See CLINICAL PHARMACOLOGY, Mechanism of Action).
+The analgesic activity of tramadol hydrochloride is due to both parent drug and the M1 metabolite (see CLINICAL PHARMACOLOGY, Mechanism of Action).
 
-RYZOLT™ is formulated as a racemate and both tramadol and M1 are detected in the circulation.
+RYZOLT® is formulated as a racemate and both tramadol and M1 are detected in the circulation.
 
 The pharmacokinetics of tramadol and M1 are dose-proportional over a 100 to 300 mg dose range in healthy subjects.
 
 ### Absorption
 
-The median time to peak plasma concentrations of tramadol and M1 after multiple-dose administration of RYZOLT™ 200 mg tablets to healthy subjects are attained at about 4 h and 5 h, respectively (Table 1 and Figure 1).
+The median time to peak plasma concentrations of tramadol and M1 after multiple-dose administration of RYZOLT® 200 mg tablets to healthy subjects are attained at about 4 h and 5 h, respectively (Table 1 and Figure 1).
 
-The pharmacokinetic parameter values for RYZOLT™ 200 mg administered once daily and tramadol immediate-release 50 mg administered every six hours are provided in Table 1.
-The relative bioavailability of a 200 mg RYZOLT™ tablet compared to a 50 mg immediate-release tablet dosed every six hours was approximately 95% in healthy subjects.
+The pharmacokinetic parameter values for RYZOLT® 200 mg administered once daily and tramadol immediate-release 50 mg administered every six hours are provided in Table 1.
+The relative bioavailability of a 200 mg RYZOLT® tablet compared to a 50 mg immediate-release tablet dosed every six hours was approximately 95% in healthy subjects.
 
 Table 1.
 Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=26).
 
 | Pharmacokinetic Parameter | Tramadol |  | M1 Metabolite |  |
 | --- | --- | --- | --- | --- |
-| RYZOLT™ 200 mg Tablet Once-Daily | Immediate-release tramadol 50 mg Tablet Every 6 Hours | RYZOLT™ 200 mg Tablet Once-Daily | Immediate-release tramadol 50 mg Tablet Every 6 Hours |  |
+| RYZOLT® 200 mg Tablet Once-Daily | Immediate-release tramadol 50 mg Tablet Every 6 Hours | RYZOLT® 200 mg Tablet Once-Daily | Immediate-release tramadol 50 mg Tablet Every 6 Hours |  |
 | AUC0-24 (ng∙h/mL) | 5991 (22) | 6399 (28) | 1361 (27) | 1438 (23) |
 | Cmax (ng/mL) | 345 (21) | 423 (23) | 71 (27) | 79 (22) |
 | Cmin (ng/mL) | 157 (31) | 190 (34) | 41 (30) | 50 (29) |
-| Tmax (hr)Tmax is presented as Median (Range) | 4.0 (3.0 – 9.0) | 1.0 (1.0 – 3.0) | 5.0 (3.0 – 20) | 1.5 (1.0 – 3.0) |
+| Tmax (hr)* | 4.0 (3.0 – 9.0) | 1.0 (1.0 – 3.0) | 5.0 (3.0 – 20) | 1.5 (1.0 – 3.0) |
 | Fluctuation (%) | 77 (26) | 91 (22) | 53 (29) | 49 (26) |
+| Tmax is presented as Median (Range) |  |  |  |  |
 
 Steady-state plasma concentrations are reached within approximately 48 hours.
 
-Figure 1.Mean Tramadol Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT™ 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours.
+Figure 1.Mean Tramadol Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT® 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours.
 
 Figure 2.
-Mean M1 Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT™ 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours
+Mean M1 Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT® 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours
 
 ### Food Effect
 
 Co-administration with a high fat meal did not significantly affect AUC (overall exposure to tramadol); however, Cmax (peak plasma concentration) increased 67% following a single 300 mg tablet administration and 54% following a single 200 mg tablet administration.
-RYZOLT™ was administered without regard to food in all clinical trials.
+RYZOLT® was administered without regard to food in all clinical trials.
 
 ### Distribution
 
@@ -70,37 +71,37 @@ Tramadol is extensively metabolized after oral administration.
 The major metabolic pathways appear to be N- and O-demethylation and glucuronidation or sulfation in the liver.
 N-demethylation is mediated by CYP3A4 and CYP2B6.
 One metabolite (O-desmethyltramadol, denoted M1) is pharmacologically active in animal models.
-Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response (See PRECAUTIONS - Drug Interactions).
+Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition and polymorphism, which may affect the therapeutic response (see PRECAUTIONS, Drug Interactions).
 
 ### Elimination
 
 Tramadol is eliminated primarily through metabolism by the liver and the metabolites are eliminated primarily by the kidneys.
 Approximately 30% of the dose is excreted in the urine as unchanged drug, whereas 60% of the dose is excreted as metabolites.
 The remainder is excreted either as unidentified or as unextractable metabolites.
-After single administration of RYZOLT™, the mean terminal plasma elimination half-lives of racemic tramadol and racemic M1 are 6.5 ± 1.5 and 7.5 ± 1.4 hours, respectively.
+After single administration of RYZOLT®, the mean terminal plasma elimination half-lives of racemic tramadol and racemic M1 are 6.5 ± 1.5 and 7.5 ± 1.4 hours, respectively.
 
 ## Special Populations
 
 ### Renal Impairment
 
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1 in patients taking an immediate-release formulation of tramadol.
-RYZOLT™ has not been studied in patients with renal impairment.
-The limited availability of dose strengths and once daily dosing of RYZOLT™ do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, RYZOLT™ should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) (See WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
+RYZOLT® has not been studied in patients with renal impairment.
+The limited availability of dose strengths and once daily dosing of RYZOLT® do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
+Therefore, RYZOLT® should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) (see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
 The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
 
 ### Hepatic Impairment
 
 The metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver, resulting in both a larger area under the concentration time curve (AUC) for tramadol and longer mean tramadol and M1 elimination half-lives (13 hours for tramadol and 19 hours for M1) after the administration of tramadol immediate-release tablets.
-RYZOLT™ has not been studied in patients with hepatic impairment.
-The limited availability of dose strengths and once daily dosing of RYZOLT™ do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
-Therefore, RYZOLT™ should not be used in patients with hepatic impairment (see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
+RYZOLT® has not been studied in patients with hepatic impairment.
+The limited availability of dose strengths and once daily dosing of RYZOLT® do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
+Therefore, RYZOLT® should not be used in patients with hepatic impairment (see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
 
 ### Geriatric Patients
 
 Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years (See DOSAGE AND ADMINISTRATION).
+Adjustment of the daily dose is recommended for patients older than 75 years (see DOSAGE AND ADMINISTRATION).
 
 ### Gender
 
@@ -118,11 +119,11 @@ In vitro drug interaction studies in human liver microsomes indicate that inhibi
 The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown.
 
 Tramadol is also metabolized by CYP3A4.
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with RYZOLT™ may affect the metabolism of tramadol leading to altered tramadol exposure (see PRECAUTIONS).
+Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with RYZOLT® may affect the metabolism of tramadol leading to altered tramadol exposure (see PRECAUTIONS).
 
 Quinidine
 
-Quinidine is a selective inhibitor of CYP2D6, so that concomitant administration of quinidine and RYZOLT™ may result in increased concentrations of tramadol and reduced concentrations of M1.
+Quinidine is a selective inhibitor of CYP2D6, so that concomitant administration of quinidine and RYZOLT® may result in increased concentrations of tramadol and reduced concentrations of M1.
 The clinical consequences of these findings are unknown (see PRECAUTIONS).
 In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
 
@@ -130,9 +131,9 @@ Carbamazepine
 
 Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
 Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
-Because of the seizure risk associated with tramadol, concomitant administration of RYZOLT™ and carbamazepine is not recommended (see PRECAUTIONS).
+Because of the seizure risk associated with tramadol, concomitant administration of RYZOLT® and carbamazepine is not recommended (see PRECAUTIONS).
 
 Cimetidine
 
 Concomitant administration of tramadol immediate-release tablets with cimetidine does not result in clinically significant changes in tramadol pharmacokinetics.
-No alteration of the RYZOLT™ dosage regimen with cimetidine is recommended.
+No alteration of the RYZOLT® dosage regimen with cimetidine is recommended.

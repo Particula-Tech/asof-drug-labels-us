@@ -1,13 +1,13 @@
 # Adverse Reactions
 
-RYZOLT™ was administered to a total of 2707 subjects (2406 patients and 301 healthy volunteers) during clinical studies, including four randomized double-blind studies (treatment ≥ 12 weeks) and two open-label long-term studies (treatment up to 12 months) in patients with moderate to severe pain due to osteoarthritis of the knee.
-A total of 844 patients were exposed to RYZOLT™ for 12 weeks, 493 patients for 6 months and 243 patients for 12 months.
+RYZOLT®was administered to a total of 2707 subjects (2406 patients and 301 healthy volunteers) during clinical studies, including four randomized double-blind studies (treatment ≥ 12 weeks) and two open-label long-term studies (treatment up to 12 months) in patients with moderate to severe pain due to osteoarthritis of the knee.
+A total of 844 patients were exposed to RYZOLT®for 12 weeks, 493 patients for 6 months and 243 patients for 12 months.
 Treatment emergent adverse events increased with dose from 100 mg to 300 mg in the three twelve-week, randomized, double-blind, placebo-controlled studies (Table 2).
 
 Table 2.
 Percentage of Patients with Incidence of Adverse Events ≥2% from Three 12-week Placebo-Controlled Studies (MDT3-002, MDT3-003 and MDT3-005).
 
-| Adverse Events (MEDRA Preferred terms) | RYZOLT™ |  |  |  | Placebo |
+| Adverse Events (MEDRA Preferred terms) | RYZOLT® |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
 | 100 mg | 200 mg | 300 mg | TotalDue to the difference in study design of MDT3-005, only the results of the double-blind phase of the study are presented and the dose specific results include maintenance period data only. |  |  |
 | N=216 | N=311 | N=530 | N=1095 | N=668 |  |
