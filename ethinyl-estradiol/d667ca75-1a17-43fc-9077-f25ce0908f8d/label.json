@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076221"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "TEVA Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-3122-42",
+    "0093-3122-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone acetate and ethinyl estradiol",
+      "name": "Jinteli"
+    }
+  ],
+  "setid": "d667ca75-1a17-43fc-9077-f25ce0908f8d",
+  "source": "dailymed"
+}
