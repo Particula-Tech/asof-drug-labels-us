@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.6)]
+Pregnancy Category D. See ‘Warnings and Precautions' section.
 
 Gemzar can cause fetal harm when administered to a pregnant woman.
 Based on its mechanism of action, Gemzar is expected to result in adverse reproductive effects.
@@ -10,8 +10,7 @@ There are no adequate and well-controlled studies of Gemzar in pregnant women.
 Gemcitabine is embryotoxic causing fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day in mice (about 1/200 the recommended human dose on a mg/m2 basis).
 Gemcitabine is fetotoxic causing fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 1/600 the recommended human dose on a mg/m2 basis).
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-[see Warnings and Precautions (5.6)]
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.6)].
 
 ## 8.3 Nursing Mothers
 
@@ -41,19 +40,19 @@ Overall, there were no other substantial differences in toxicity profile of Gemz
 Hemolytic Uremic Syndrome (HUS) and/or renal failure have been reported following one or more doses of Gemzar.
 Renal failure leading to death or requiring dialysis, despite discontinuation of therapy, has been reported.
 The majority of the cases of renal failure leading to death were due to HUS [see Adverse Reactions (6.1 and 6.2)].
-Gemzar should be used with caution in patients with preexisting renal impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-[see Warnings and Precautions (5.4)]
+
+Gemzar should be used with caution in patients with preexisting renal impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations [see Warnings and Precautions (5.4)].
 
 ## 8.7 Hepatic
 
 Serious hepatotoxicity, including liver failure and death, has been reported in patients receiving Gemzar alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.1 and 6.2)].
+
 Gemzar should be used with caution in patients with preexisting hepatic insufficiency as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-Administration of Gemzar in patients with concurrent liver metastases or a preexisting medical history of hepatitis, alcoholism, or liver cirrhosis may lead to exacerbation of the underlying hepatic insufficiency.
-[see Warnings and Precautions (5.5)]
+Administration of Gemzar in patients with concurrent liver metastases or a preexisting medical history of hepatitis, alcoholism, or liver cirrhosis may lead to exacerbation of the underlying hepatic insufficiency [see Warnings and Precautions (5.5)].
 
 ## 8.8 Gender
 
-Gemzar clearance is affected by gender.
-[see Clinical Pharmacology (12.3)] In the single-agent safety database (N=979 patients), however, there is no evidence that unusual dose adjustments [see Dosage and Administration (2)] are necessary in women.
+Gemzar clearance is affected by gender [see Clinical Pharmacology (12.3)].
+In the single-agent safety database (N=979 patients), however, there is no evidence that unusual dose adjustments [see Dosage and Administration (2)] are necessary in women.
 In general, in single-agent studies of Gemzar, adverse reaction rates were similar in men and women, but women, especially older women, were more likely not to proceed to a subsequent cycle and to experience Grade 3/4 neutropenia and thrombocytopenia.
 There was a greater tendency in women, especially older women, not to proceed to the next cycle.

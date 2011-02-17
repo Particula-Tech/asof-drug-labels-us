@@ -66,24 +66,21 @@ Hematologic — In studies in pancreatic cancer myelosuppression is the dose-lim
 Red blood cell transfusions were required by 19% of patients.
 The incidence of sepsis was less than 1%.
 Petechiae or mild blood loss (hemorrhage), from any cause, was reported in 16% of patients; less than 1% of patients required platelet transfusions.
-Patients should be monitored for myelosuppression during Gemzar therapy and dosage modified or suspended according to the degree of hematologic toxicity.
-[see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)]
+Patients should be monitored for myelosuppression during Gemzar therapy and dosage modified or suspended according to the degree of hematologic toxicity [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].
 
 Gastrointestinal — Nausea and vomiting were commonly reported (69%) but were usually of mild to moderate severity.
 Severe nausea and vomiting (WHO Grade 3/4) occurred in <15% of patients.
 Diarrhea was reported by 19% of patients, and stomatitis by 11% of patients.
 
 Hepatic — In clinical trials, Gemzar was associated with transient elevations of one or both serum transaminases in approximately 70% of patients, but there was no evidence of increasing hepatic toxicity with either longer duration of exposure to Gemzar or with greater total cumulative dose.
-Serious hepatotoxicity, including liver failure and death, has been reported very rarely in patients receiving Gemzar alone or in combination with other potentially hepatotoxic drugs.
-[see Adverse Reactions (6.2)]
+Serious hepatotoxicity, including liver failure and death, has been reported very rarely in patients receiving Gemzar alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.2)].
 
 Renal — In clinical trials, mild proteinuria and hematuria were commonly reported.
 Clinical findings consistent with the Hemolytic Uremic Syndrome (HUS) were reported in 6 of 2429 patients (0.25%) receiving Gemzar in clinical trials.
 Four patients developed HUS on Gemzar therapy, 2 immediately posttherapy.
 The diagnosis of HUS should be considered if the patient develops anemia with evidence of microangiopathic hemolysis, elevation of bilirubin or LDH, reticulocytosis, severe thrombocytopenia, and/or evidence of renal failure (elevation of serum creatinine or BUN).
 Gemzar therapy should be discontinued immediately.
-Renal failure may not be reversible even with discontinuation of therapy and dialysis may be required.
-[see Adverse Reactions (6.2)]
+Renal failure may not be reversible even with discontinuation of therapy and dialysis may be required [see Adverse Reactions (6.2)].
 
 Fever — The overall incidence of fever was 41%.
 This is in contrast to the incidence of infection (16%) and indicates that Gemzar may cause fever in the absence of clinical infection.
@@ -95,8 +92,8 @@ Pruritus was reported for 13% of patients.
 
 Pulmonary — In clinical trials, dyspnea, unrelated to underlying disease, has been reported in association with Gemzar therapy.
 Dyspnea was occasionally accompanied by bronchospasm.
-Pulmonary toxicity has been reported with the use of Gemzar.
-[see Adverse Reactions (6.2)] The etiology of these effects is unknown.
+Pulmonary toxicity has been reported with the use of Gemzar [see Adverse Reactions (6.2)].
+The etiology of these effects is unknown.
 If such effects develop, Gemzar should be discontinued.
 Early use of supportive care measures may help ameliorate these conditions.
 
@@ -268,7 +265,7 @@ Table 6: Selected WHO-Graded Adverse Reactions From Comparative Trial of Gemzar 
 | Paresthesias | 38 | 0 | 0 | 16 | 2 | 0 |
 | a Grade based on criteria from the World Health Organization (WHO). |  |  |  |  |  |  |
 | b N=67-69; all Gemzar plus cisplatin patients with laboratory or non-laboratory data. Gemzar at 1250 mg/m2 on Days 1 and 8 and cisplatin at 100 mg/m2 on Day 1 every 21 days. |  |  |  |  |  |  |
-| c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and IV etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
+| c N=57-63; all cisplatin plus etoposide patients with laboratory or non-laboratory data. Cisplatin at 100 mg/m2 on Day 1 and intravenous etoposide at 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
 | d Regardless of causality. |  |  |  |  |  |  |
 | e Percent of patients receiving transfusions. Percent transfusions are not WHO-graded events. |  |  |  |  |  |  |
 | f Non-laboratory events were graded only if assessed to be possibly drug-related. |  |  |  |  |  |  |
@@ -381,6 +378,7 @@ Severe skin reactions, including desquamation and bullous skin eruptions, have b
 
 Hepatic — Increased liver function tests including elevations in aspartate aminotransferase (AST), alanine aminotransferase (ALT), gamma-glutamyl transferase (GGT), alkaline phosphatase, and bilirubin levels have been reported rarely.
 Serious hepatotoxicity including liver failure and death has been reported very rarely in patients receiving Gemzar alone or in combination with other potentially hepatotoxic drugs.
+Hepatic veno-occlusive disease has been reported.
 
 Pulmonary — Parenchymal toxicity, including interstitial pneumonitis, pulmonary fibrosis, pulmonary edema, and adult respiratory distress syndrome (ARDS), has been reported rarely following one or more doses of Gemzar administered to patients with various malignancies.
 Some patients experienced the onset of pulmonary symptoms up to 2 weeks after the last Gemzar dose.
@@ -390,5 +388,4 @@ Renal — Hemolytic Uremic Syndrome (HUS) and/or renal failure have been reporte
 Renal failure leading to death or requiring dialysis, despite discontinuation of therapy, has been rarely reported.
 The majority of the cases of renal failure leading to death were due to HUS.
 
-Injury, Poisoning, and Procedural Complications — Radiation recall reactions have been reported.
-[see Warnings and Precautions (5.8)]
+Injury, Poisoning, and Procedural Complications — Radiation recall reactions have been reported [see Warnings and Precautions (5.8)].

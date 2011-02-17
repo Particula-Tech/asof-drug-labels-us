@@ -111,17 +111,12 @@ Median time to disease progression was 5.2 months on the Gemzar plus cisplatin a
 The objective response rate on the Gemzar plus cisplatin arm was 26% compared to 10% with cisplatin (Fisher's Exact p<0.0001, two-sided).
 No difference between treatment arms with regard to duration of response was observed.
 
-Gemzar plus cisplatin versus etoposide plus cisplatin: A second, multicenter, study in Stage IIIB or IV NSCLC randomized 135 patients to Gemzar 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to etoposide 100 mg/m2 IV on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle (Table 13).
+Gemzar plus cisplatin versus etoposide plus cisplatin: A second, multicenter, study in Stage IIIB or IV NSCLC randomized 135 patients to Gemzar 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle (Table 13).
 
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
 The median survival was 8.7 months for the Gemzar plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the Gemzar plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the Gemzar plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
-
-Quality of Life (QOL): QOL was a secondary endpoint in both randomized studies.
-In the Gemzar plus cisplatin versus cisplatin study, QOL was measured using the FACT-L, which assessed physical, social, emotional and functional well-being, and lung cancer symptoms.
-In the study of Gemzar plus cisplatin versus etoposide plus cisplatin, QOL was measured using the EORTC QLQ-C30 and LC13, which assessed physical and psychological functioning and symptoms related to both lung cancer and its treatment.
-In both studies no significant differences were observed in QOL between the Gemzar plus cisplatin arm and the comparator arm.
 
 Table 13: Randomized Trials of Combination Therapy With Gemzar Plus Cisplatin in NSCLC
 
@@ -146,7 +141,7 @@ Table 13: Randomized Trials of Combination Therapy With Gemzar Plus Cisplatin in
 | (95%, C.I.) months | 4.2, 5.7 | 3.0, 4.3 |  | 4.2, 6.4 | 2.4, 4.5 |  |
 | Tumor Response | 26% | 10% | p<0.0001e | 33% | 14% | p=0.01e |
 | a 28-day schedule — Gemzar plus cisplatin: Gemzar 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. |  |  |  |  |  |  |
-| b 21-day schedule — Gemzar plus cisplatin: Gemzar 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and IV etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
+| b 21-day schedule — Gemzar plus cisplatin: Gemzar 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. |  |  |  |  |  |  |
 | c N/A Not applicable. |  |  |  |  |  |  |
 | d Karnofsky Performance Status. |  |  |  |  |  |  |
 | e p-value for tumor response was calculated using the two-sided Fisher's Exact test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |  |  |  |
