@@ -24,3 +24,8 @@ Once removed from the foil pouch, use vial(s) within one week.
 Discard the vial if the solution is not colorless.
 
 Keep out of the reach of children.
+
+Dey Pharma, L.P., Napa, CA 94558
+
+03-492-26 SEP 10 U.S. Pat.
+No. 6,702,997

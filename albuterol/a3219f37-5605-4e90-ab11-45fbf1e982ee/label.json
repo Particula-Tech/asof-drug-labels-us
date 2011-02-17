@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020949"
+  ],
   "inn": "albuterol",
-  "labeler": "DEY",
+  "labeler": "Dey Pharma, LP",
   "package_ndcs": [
     "49502-692-03",
     "49502-693-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "albuterol sulfate",
+      "name": "AccuNeb"
+    }
+  ],
   "setid": "a3219f37-5605-4e90-ab11-45fbf1e982ee",
   "source": "dailymed"
 }

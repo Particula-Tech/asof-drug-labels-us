@@ -35,10 +35,6 @@ Efficacy, as measured by the mean percent change from baseline in the area under
 Figures 1 and 2 illustrate the mean percentage change from pre-dose FEV1 on day 1 and day 28, respectively.
 The mean baseline FEV1 for all patients was 1.49 L.
 
-Figure 1 % Change from Pre-Dose FEV1 Intent-to-Treat Population Day 1
-
-Figure 2 % Change from Pre-Dose FEV1 Intent-to-Treat Population Day 28
-
 The onset of a 15% increase in FEV1 over baseline for both doses of AccuNeb was seen at 30 minutes (the first post-dose assessment).
 The mean time to peak effect was approximately 30 to 60 minutes for both doses on day 1 and after 4 weeks of treatment.
 The mean duration of effect, as measured by a >15% increase from baseline in FEV1, was approximately 2.5 hours for both doses on day 1 and approximately 2 hours for both doses after 4 weeks of treatment.
