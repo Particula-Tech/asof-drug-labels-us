@@ -2,15 +2,18 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two-year carcinogenicity studies in mice and rats were conducted with atazanavir.
-At the high dose in female mice, the incidence of benign hepatocellular adenomas was increased at systemic exposures 7.2-fold higher than those in humans at the recommended 400-mg clinical dose.
-There were no increases in the incidence of tumors in male mice at any dose in the study.
-In rats, no significant positive trends in the incidence of neoplasms occurred at systemic exposures up to 5.7-fold higher than those in humans at the recommended 400-mg clinical dose.
-The clinical relevance of the carcinogenic findings in female mice is unknown.
+Carcinogenesis
+
+Long-term carcinogenicity studies in mice and rats were carried out with atazanavir for two years.
+In the mouse study, drug-related increases in hepatocellular adenomas were found in females at 360 mg/kg/day.
+The systemic drug exposure (AUC) at the NOAEL (no observable adverse effect level) in females, (120 mg/kg/day) was 2.8 times and in males (80 mg/kg/day) was 2.9 times higher than those in humans at the clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir, non-pregnant patients).
+In the rat study, no drug-related increases in tumor incidence were observed at doses up to 1200 mg/kg/day, for which AUCs were 1.1 (males) or 3.9 (females) times those measured in humans at the clinical dose.
+
+Mutagenesis
 
 Atazanavir tested positive in an in vitro clastogenicity test using primary human lymphocytes, in the absence and presence of metabolic activation.
 Atazanavir tested negative in the in vitro Ames reverse-mutation assay, in vivo micronucleus and DNA repair tests in rats, and in vivo DNA damage test in rat duodenum (comet assay).
 
-## 13.2 Reproductive Toxicology Studies
+Impairment of Fertility
 
-At the systemic drug exposure levels (AUC) equal to (in male rats) or two times (in female rats) those at the human clinical dose (400 mg once daily), atazanavir did not produce significant effects on mating, fertility, or early embryonic development.
+At the systemic drug exposure levels (AUC) 0.9 (in male rats) or 2.3 (in female rats) times that of the human clinical dose, (300 mg/day atazanavir boosted with 100 mg/day ritonavir) significant effects on mating, fertility, or early embryonic development were not observed.

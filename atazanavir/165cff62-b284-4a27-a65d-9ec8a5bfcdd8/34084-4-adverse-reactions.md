@@ -18,9 +18,9 @@ The safety profile of REYATAZ in treatment-naive adults is based on 1625 HIV-1 i
 
 The most common adverse reactions are nausea, jaundice/scleral icterus, and rash.
 
-Selected clinical adverse reactions of moderate or severe intensity reported in ≥2% of treatment-naive patients receiving combination therapy including REYATAZ 300 mg with ritonavir 100 mg and REYATAZ 400 mg (without ritonavir) are presented in Tables 4 and 5, respectively.
+Selected clinical adverse reactions of moderate or severe intensity reported in ≥2% of treatment-naive patients receiving combination therapy including REYATAZ 300 mg with ritonavir 100 mg and REYATAZ 400 mg (without ritonavir) are presented in Tables 5 and 6, respectively.
 
-Table 4: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Patients,b Study AI424-138
+Table 5: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Patients,b Study AI424-138
 
 |  | (n=441) | (n=437) |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Table 4: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 | c Median time on therapy. |  |  |
 | d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |
 
-Table 5: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Patients,b Studies AI424-034, AI424-007, and AI424-008
+Table 6: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Patients,b Studies AI424-034, AI424-007, and AI424-008
 
 | (n=404) | (n=401) | (n=279) | (n=191) |  |
 | --- | --- | --- | --- | --- |
@@ -71,11 +71,11 @@ The safety profile of REYATAZ in treatment-experienced adults is based on 119 HI
 
 The most common adverse reactions are jaundice/scleral icterus and myalgia.
 
-Selected clinical adverse reactions of moderate or severe intensity reported in ≥2% of treatment-experienced patients receiving REYATAZ/ritonavir are presented in Table 6.
+Selected clinical adverse reactions of moderate or severe intensity reported in ≥2% of treatment-experienced patients receiving REYATAZ/ritonavir are presented in Table 7.
 
-Table 6: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Experienced Patients,b Study AI424-045
+Table 7: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Experienced Patients,b Study AI424-045
 
-| (n=119) | (n=118) |  |
+| (n*119) | (n*118) |  |
 | --- | --- | --- |
 |  | 48 weeksc REYATAZ/ritonavir 300/100 mg once daily + tenofovir + NRTI | 48 weeksc lopinavir/ritonavir 400/100 mg twice dailyd + tenofovir + NRTI |
 | Body as a Whole |  |  |
@@ -96,9 +96,9 @@ Table 6: Selected Treatment-Emergent Adverse Reactionsa of Moderate or Severe In
 
 Laboratory Abnormalities in Treatment-Naive Patients
 
-The percentages of adult treatment-naive patients treated with combination therapy including REYATAZ (atazanavir sulfate) 300 mg with ritonavir 100 mg and REYATAZ 400 mg (without ritonavir) with Grade 3–4 laboratory abnormalities are presented in Tables 7 and 8, respectively.
+The percentages of adult treatment-naive patients treated with combination therapy including REYATAZ (atazanavir sulfate) 300 mg with ritonavir 100 mg and REYATAZ 400 mg (without ritonavir) with Grade 3–4 laboratory abnormalities are presented in Tables 8 and 9, respectively.
 
-Table 7: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Patients,a Study AI424-138
+Table 8: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Patients,a Study AI424-138
 
 | Variable | Limitc | 96 weeksb | 96 weeksb |
 | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ Table 7: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 | c ULN = upper limit of normal. |  |  |  |
 | d As a fixed-dose combination: 300 mg tenofovir, 200 mg emtricitabine once daily. |  |  |  |
 
-Table 8: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Patients,a Studies AI424-034, AI424-007, and AI424-008
+Table 9: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Naive Patients,a Studies AI424-034, AI424-007, and AI424-008
 
 | (n=404) | (n=401) | (n=279) | (n=191) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -146,9 +146,9 @@ Table 8: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 
 Laboratory Abnormalities in Treatment-Experienced Patients
 
-The percentages of adult treatment-experienced patients treated with combination therapy including REYATAZ/ritonavir with Grade 3–4 laboratory abnormalities are presented in Table 9.
+The percentages of adult treatment-experienced patients treated with combination therapy including REYATAZ/ritonavir with Grade 3–4 laboratory abnormalities are presented in Table 10.
 
-Table 9: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Experienced Patients, Study AI424-045a
+Table 10: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatment-Experienced Patients, Study AI424-045a
 
 | (n=119) | (n=118) |  |  |
 | --- | --- | --- | --- |
@@ -173,9 +173,9 @@ Table 9: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatme
 
 Lipids, Change from Baseline in Treatment-Naive Patients
 
-For Study AI424-138 and Study AI424-034, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Tables 10 and 11, respectively.
+For Study AI424-138 and Study AI424-034, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Tables 11 and 12, respectively.
 
-Table 10: Lipid Values, Mean Change from Baseline, Study AI424-138
+Table 11: Lipid Values, Mean Change from Baseline, Study AI424-138
 
 | (n=428e) | (n=372e) | (n=372e) | (n=342e) | (n=342e) | (n=424e) | (n=335e) | (n=335e) | (n=291e) | (n=291e) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -193,7 +193,7 @@ Table 10: Lipid Values, Mean Change from Baseline, Study AI424-138
 | e Number of patients with LDL-cholesterol measured. |  |  |  |  |  |  |  |  |  |  |
 | f Fasting. |  |  |  |  |  |  |  |  |  |  |
 
-Table 11: Lipid Values, Mean Change from Baseline, Study AI424-034
+Table 12: Lipid Values, Mean Change from Baseline, Study AI424-034
 
 | (n=383e) | (n=283e) | (n=272e) | (n=378e) | (n=264e) | (n=253e) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -213,11 +213,11 @@ Table 11: Lipid Values, Mean Change from Baseline, Study AI424-034
 
 Lipids, Change from Baseline in Treatment-Experienced Patients
 
-For Study AI424-045, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Table 12.
+For Study AI424-045, changes from baseline in LDL-cholesterol, HDL-cholesterol, total cholesterol, and triglycerides are shown in Table 13.
 The observed magnitude of dyslipidemia was less with REYATAZ/ritonavir than with lopinavir/ritonavir.
 However, the clinical impact of such findings has not been demonstrated.
 
-Table 12: Lipid Values, Mean Change from Baseline, Study AI424-045
+Table 13: Lipid Values, Mean Change from Baseline, Study AI424-045
 
 | (n=111e) | (n=75e) | (n=74e) | (n=108e) | (n=76e) | (n=73e) |  |
 | --- | --- | --- | --- | --- | --- | --- |

@@ -4,23 +4,67 @@
 
 Pregnancy Category B
 
-There are no adequate and well controlled studies of atazanavir use during pregnancy.
-Cases of lactic acidosis syndrome and symptomatic hyperlactatemia have occurred in pregnant women using REYATAZ in combination with nucleoside analogues.
-In animal reproduction and pre- and post-natal development studies, there was no evidence of adverse fetal effects or teratogenicity.
-Because animal reproduction studies are not always predictive of human response, REYATAZ should be used during pregnancy only if clearly needed.
-
-Cases of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have been reported in patients (including pregnant women) receiving REYATAZ in combination with nucleoside analogues.
-Nucleoside analogues are associated with an increased risk of lactic acidosis syndrome.
-In addition, hyperbilirubinemia occurred frequently during treatment with REYATAZ.
-It is not known whether REYATAZ administered during pregnancy will exacerbate physiological hyperbilirubinemia or increase the risk of kernicterus in neonates and young infants.
-In the prepartum period, additional monitoring and alternative therapy should be considered.
-
-In animal reproduction studies, there was no evidence of teratogenicity in offspring born to animals exposed to atazanavir levels one (in rabbits) to two times (in rats) those observed at the human clinical dose (400 mg once daily).
-In pre- and post-natal development studies in rats, there were no adverse effects on offspring following maternal exposure to atazanavir levels equivalent to those in humans taking 400 mg once daily.
-Weight loss and weight gain suppression occurred in pups with maternal atazanavir exposures two times the human exposure at 400 mg once daily; however, maternal toxicity also occurred at this exposure level.
-
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to REYATAZ, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
+
+Risk Summary
+
+Atazanavir has been evaluated in a limited number of women during pregnancy and postpartum.
+Available human and animal data suggest that atazanavir does not increase the risk of major birth defects overall compared to the background rate.
+However, because the studies in humans cannot rule out the possibility of harm, REYATAZ should be used during pregnancy only if clearly needed.
+
+Cases of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have occurred in pregnant women using REYATAZ in combination with nucleoside analogues.
+Nucleoside analogues are associated with an increased risk of lactic acidosis syndrome.
+
+Hyperbilirubinemia occurs frequently in patients who take REYATAZ, including pregnant women.
+All infants, including neonates exposed to REYATAZ in-utero, should be monitored for the development of severe hyperbilirubinemia during the first few days of life.
+
+Clinical Considerations
+
+Dosing During Pregnancy and the Postpartum Period:
+
+- REYATAZ should not be administered without ritonavir.
+- REYATAZ should only be administered to pregnant women with HIV-1 strains susceptible to atazanavir.
+- For pregnant patients, no dose adjustment is required for REYATAZ with the following exceptions:
+  - For treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
+    There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
+- No dose adjustment is required for postpartum patients.
+  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery.
+  [See Dosage and Administration (2, 2.3), and Clinical Pharmacology (12.3).]
+
+Human Data
+
+Clinical Trials: In clinical trial AI424-182, REYATAZ/ritonavir (300/100 mg or 400/100 mg) in combination with zidovudine/lamivudine was administered to 41 HIV-infected pregnant women during the second or third trimester.
+Among the 39 women who completed the study, 38 women achieved an HIV RNA <50 copies/mL at time of delivery.
+Six of 20 (30%) women on REYATAZ/ritonavir 300/100 mg and 13 of 21 (62%) women on REYATAZ/ritonavir 400/100 mg experienced hyperbilirubinemia (total bilirubin greater than or equal to 2.6 times the upper limit of normal).
+There were no cases of lactic acidosis observed in clinical trial AI424-182.
+
+Atazanavir drug concentrations in fetal umbilical cord blood were approximately 12–19% of maternal concentrations.
+Among the 40 infants born to 40 HIV-infected pregnant women, all had test results that were negative for HIV-1 DNA at the time of delivery and/or during the first 6 months postpartum.
+All 40 infants received antiretroviral prophylactic treatment containing zidovudine.
+No evidence of severe hyperbilirubinemia (total bilirubin levels greater than 20 mg/dL) or acute or chronic bilirubin encephalopathy was observed among neonates in this study.
+However, 10/36 (28%) infants (6 greater than or equal to 38 weeks gestation and 4 less than 38 weeks gestation) had bilirubin levels of 4 mg/dL or greater within the first day of life.
+
+Lack of ethnic diversity was a study limitation.
+In the study population, 33/40 (83%) infants were Black/African American, who have a lower incidence of neonatal hyperbilirubinemia than Caucasians and Asians.
+In addition, women with Rh incompatibility were excluded, as well as women who had a previous infant who developed hemolytic disease and/or had neonatal pathologic jaundice (requiring phototherapy).
+
+Additionally, of the 38 infants who had glucose samples collected in the first day of life, 3 had adequately collected serum glucose samples with values of <40 mg/dL that could not be attributed to maternal glucose intolerance, difficult delivery, or sepsis.
+
+Antiretroviral Pregnancy Registry Data: As of January 2010, the Antiretroviral Pregnancy Registry (APR) has received prospective reports of 635 exposures to atazanavir-containing regimens (425 exposed in the first trimester and 160 and 50 exposed in second and third trimester, respectively).
+Birth defects occurred in 9 of 393 (2.3%) live births (first trimester exposure) and 5 of 212 (2.4%) live births (second/third trimester exposure).
+Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
+There was no association between atazanavir and overall birth defects observed in the APR.
+
+Pharmacokinetics of Atazanavir in Pregnancy
+
+[See Clinical Pharmacology (12.3).]
+
+Animal Data
+
+In animal reproduction studies, there was no evidence of teratogenicity in offspring born to animals at systemic drug exposure levels (AUC) 0.7 (in rabbits) to 1.2 (in rats) times those observed at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir).
+In pre- and post-natal development studies in the rat, atazanavir caused body weight loss or weight gain suppression in the animal offspring with maternal drug exposure (AUC) 1.3 times the human exposure at this clinical dose.
+However, maternal toxicity also occurred at this exposure level.
 
 ## 8.3 Nursing Mothers
 
@@ -59,7 +103,7 @@ In a 4-hour dialysis session, 2.1% of the administered dose was removed.
 When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25 to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
 REYATAZ should not be administered to HIV-treatment experienced patients with end stage renal disease managed with hemodialysis.
-[See Dosage and Administration (2.3).]
+[See Dosage and Administration (2.4).]
 
 ## 8.8 Impaired Hepatic Function
 
@@ -71,4 +115,4 @@ Increased concentrations of atazanavir are expected in patients with moderately 
 The pharmacokinetics of REYATAZ in combination with ritonavir have not been studied in subjects with hepatic impairment.
 REYATAZ should not be administered to patients with severe hepatic impairment.
 REYATAZ/ritonavir is not recommended for use in patients with hepatic impairment.
-[See Dosage and Administration (2.4) and Warnings and Precautions (5.5).]
+[See Dosage and Administration (2.5) and Warnings and Precautions (5.5).]

@@ -2,9 +2,9 @@
 
 ## 5.1 Drug Interactions
 
-See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
+See Table 4 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
 [See Contraindications (4).]
-Please refer to Table 13 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
+Please refer to Table 14 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
 
 ## 5.2 Cardiac Conduction Abnormalities
 
@@ -17,7 +17,7 @@ Because of limited clinical experience in patients with preexisting conduction s
 [See Clinical Pharmacology (12.2).]
 
 Atazanavir in combination with diltiazem increased diltiazem plasma concentration by 2-fold with an additive effect on the PR interval.
-When used in combination with atazanavir, a dose reduction of diltiazem by one half should be considered and ECG monitoring is recommended.
+When used in combination with atazanavir, a dose reduction of diltiazem by one-half should be considered and ECG monitoring is recommended.
 In a pharmacokinetic study between atazanavir 400 mg once daily and atenolol 50 mg once daily, no clinically significant additive effect of atazanavir and atenolol on the PR interval was observed.
 Dose adjustment of atenolol is not required when used in combination with atazanavir.
 [See Drug Interactions (7) and Clinical Pharmacology (12.2).]
@@ -49,7 +49,7 @@ Dose reduction of atazanavir is not recommended since long-term efficacy of redu
 ## 5.5 Hepatotoxicity
 
 Caution should be exercised when administering REYATAZ to patients with hepatic impairment because atazanavir concentrations may be increased.
-[See Dosage and Administration (2.4).]
+[See Dosage and Administration (2.5).]
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
 In these patients, appropriate laboratory testing should be conducted prior to initiating therapy with REYATAZ and these patients should be monitored during treatment.
 [See Adverse Reactions (6.3) and Use in Specific Populations (8.8).]
@@ -77,7 +77,7 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 ## 5.9 Fat Redistribution
 
-Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
+Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 

@@ -16,7 +16,7 @@ This information does not take the place of talking with your healthcare provide
 
 What is REYATAZ?
 
-REYATAZ is a prescription medicine used with other anti-HIV medicines to treat people who are infected with the human immunodeficiency virus (HIV).
+REYATAZ is a prescription medicine used with other anti-HIV medicines to treat people 6 years of age and older who are infected with the human immunodeficiency virus (HIV).
 HIV is the virus that causes acquired immune deficiency syndrome (AIDS).
 REYATAZ is a type of anti-HIV medicine called a protease inhibitor.
 HIV infection destroys CD4+ (T) cells, which are important to the immune system.
@@ -56,11 +56,12 @@ What should I tell my healthcare provider before I take REYATAZ?
 
 Tell your healthcare provider:
 
-- If you are pregnant or planning to become pregnant.
-  It is not known if REYATAZ can harm your unborn baby.
+- If you are pregnant or plan to become pregnant.
+  REYATAZ use during pregnancy has not been associated with an increase in birth defects.
   Pregnant women have experienced serious side effects when taking REYATAZ with other HIV medicines called nucleoside analogues.
   You and your healthcare provider will need to decide if REYATAZ is right for you.
   If you use REYATAZ while you are pregnant, talk to your healthcare provider about the Antiretroviral Pregnancy Registry.
+  - After your baby is born, tell your healthcare provider if your baby's skin or the white part of his/her eyes turns yellow.
 - If you are breast-feeding.
   You should not breast-feed if you are HIV-positive because of the chance of passing HIV to your baby.
   Also, it is not known if REYATAZ can pass into your breast milk and if it can harm your baby.
@@ -81,12 +82,6 @@ How should I take REYATAZ?
 
 - Take REYATAZ once every day exactly as instructed by your healthcare provider.
   Your healthcare provider will prescribe the amount of REYATAZ that is right for you.
-  - For adults who have never taken anti-HIV medicines before, the dose is 300 mg once daily with 100 mg of NORVIR® (ritonavir) once daily taken with food.
-    For adults who are unable to tolerate ritonavir, 400 mg (two 200-mg capsules) once daily (without NORVIR®) taken with food is recommended.
-  - For adults who have taken anti-HIV medicines in the past, the usual dose is 300 mg plus 100 mg of NORVIR® (ritonavir) once daily taken with food.
-- Your dose will depend on your liver function and on the other anti-HIV medicines that you are taking.
-  REYATAZ is always used with other anti-HIV medicines.
-  If you are taking REYATAZ with SUSTIVA® (efavirenz) or with VIREAD® (tenofovir disoproxil fumarate), you should also be taking NORVIR® (ritonavir).
 - Always take REYATAZ with food (a meal or snack) to help it work better.
   Swallow the capsules whole.
   Do not open the capsules.
@@ -105,12 +100,6 @@ How should I take REYATAZ?
   It is important that you do not miss any doses of REYATAZ or your other anti-HIV medicines.
 - If you take more than the prescribed dose of REYATAZ, call your healthcare provider or poison control center right away.
 
-Can children take REYATAZ?
-
-Dosing recommendations are available for children 6 years of age and older for REYATAZ Capsules.
-Dosing recommendations are not available for children from 3 months to less than 6 years of age.
-REYATAZ should not be used in babies under the age of 3 months.
-
 What are the possible side effects of REYATAZ?
 
 The following list of side effects is not complete.
@@ -123,7 +112,7 @@ The following side effects have been reported with REYATAZ:
 - mild rash (redness and itching) without other symptoms sometimes occurs in patients taking REYATAZ, most often in the first few weeks after the medicine is started.
   Rashes usually go away within 2 weeks with no change in treatment.
   Tell your healthcare provider if rash occurs.
-- severe rash: In a small number of patients, a rash can develop that is associated with other symptoms which could be serious and potentially cause death.
+- severe rash: Rash may develop in association with other symptoms which could be serious and potentially cause death.
   If you develop a rash with any of the following symptoms stop using REYATAZ and call your healthcare provider right away:
   - shortness of breath
   - general ill feeling or "flu-like" symptoms
@@ -135,8 +124,7 @@ The following side effects have been reported with REYATAZ:
   - swelling of your face
 - yellowing of the skin or eyes.
   These effects may be due to increases in bilirubin levels in the blood (bilirubin is made by the liver).
-  Call your healthcare provider if your skin or the white part of your eyes turn yellow.
-  Although these effects may not be damaging to your liver, skin, or eyes, it is important to tell your healthcare provider promptly if they occur.
+  Although these effects may not be damaging to your liver, skin, or eyes, call your healthcare provider promptly if your skin or the white part of your eyes turn yellow.
 - a change in the way your heart beats (heart rhythm change).
   Call your healthcare provider right away if you get dizzy or lightheaded.
   These could be symptoms of a heart problem.
@@ -151,6 +139,8 @@ The following side effects have been reported with REYATAZ:
   These changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the trunk.
   Loss of fat from the legs, arms, and face may also happen.
   The cause and long-term health effects of these conditions are not known at this time.
+- immune reconstitution syndrome.
+  In some patients with advanced HIV infection (AIDS) and a history of opportunistic infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment, including REYATAZ, is started.
 
 Other common side effects of REYATAZ taken with other anti-HIV medicines include nausea; headache; stomach pain; vomiting; diarrhea; depression; fever; dizziness; trouble sleeping; numbness, tingling, or burning of hands or feet; and muscle pain.
 
@@ -270,4 +260,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226A7 Rev April 2010
+1246226A9 Rev February 2011

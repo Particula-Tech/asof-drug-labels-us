@@ -1,7 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling.
+
 A statement to patients and healthcare providers is included on the product’s bottle label: ALERT: Find out about medicines that should NOT be taken with REYATAZ.
-FDA-Approved Patient Labeling is available for REYATAZ.
 
 Patients should be informed that REYATAZ is not a cure for HIV infection and that they may continue to develop opportunistic infections and other complications associated with HIV disease.
 Patients should be told that there are currently no data demonstrating that therapy with REYATAZ can reduce the risk of transmitting HIV to others through sexual contact.
