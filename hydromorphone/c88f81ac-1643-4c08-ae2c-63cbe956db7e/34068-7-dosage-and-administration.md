@@ -10,7 +10,7 @@ Should intravenous administration be necessary, the injection should be given sl
 A gradual increase in dose may be required if analgesia is inadequate, tolerance occurs, or if pain severity increases.
 The first sign of tolerance is usually a reduced duration of effect.
 
-Patients with hepatic and renal impairment should be started on a lower starting dose (See CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
+Patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
 
 If DILAUDID INJECTION is substituted for a different opioid analgesic, the equivalency tables below should be used as a guide to determine the appropriate dose of DILAUDID INJECTION.
 
@@ -21,12 +21,11 @@ DILAUDID-HP is indicated for relief of moderate-to-severe pain in opioid-toleran
 Thus, these patients will already have been treated with other opioid analgesics.
 If the patient is being changed from regular DILAUDID to DILAUDID-HP, similar doses should be used, depending on the patient's clinical response to the drug.
 If DILAUDID-HP is substituted for a different opioid analgesic, the following equivalency table should be used as a guide to determine the appropriate dose of DILAUDID-HP.
-Patients with hepatic and renal impairment should be started on a lower starting dose (See CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
+Patients with hepatic and renal impairment should be started on a lower starting dose (see CLINICAL PHARMACOLOGY - Pharmacokinetics and Metabolism).
 
-OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY*
-
-| DRUG SUBSTANCE | IM or SC** DOSE | ORAL DOSE |
+| OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCY* |  |  |
 | --- | --- | --- |
+| DRUG SUBSTANCE | IM or SC** Dose | Oral Dose |
 | Morphine Sulfate | 10 mg | 40 – 60 mg |
 | Hydromorphone HCl | 1.3 – 2 mg | 6.5 – 7.5 mg |
 | Oxymorphone HCl | 1 – 1.1 mg | 6.6 mg |

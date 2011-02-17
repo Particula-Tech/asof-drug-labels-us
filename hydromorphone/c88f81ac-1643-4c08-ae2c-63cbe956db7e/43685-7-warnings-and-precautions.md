@@ -12,11 +12,11 @@ DILAUDID INJECTION and DILAUDID-HP should be used with extreme caution in patien
 In such patients even usual therapeutic doses of opioid analgesics may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
 Alternative non-opioid analgesics should be considered, and DILAUDID should be employed only under careful medical supervision at the lowest effective dose in such patients.
 
-DILAUDID INJECTION and DILAUDID-HP contain hydromorphone, and opioid agonist of the morphine-type, which is a potent Schedule II, controlled substance.
+## Misuse, Abuse, and Diversion of Opioids
+
+DILAUDID INJECTION and DILAUDID-HP contain hydromorphone, an opioid agonist of the morphine-type, which is a potent Schedule II, controlled substance.
 Schedule II opioid agonists, including morphine, oxycodone, oxymorphone, fentanyl and methadone, have the highest potential for abuse and risk of fatal respiratory depression.
 Such drugs are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-
-## Misuse, Abuse, and Diversion of Opioids
 
 DILAUDID INJECTION and DILAUDID-HP can be abused in a manner similar to other opioid agonists, legal or illicit.
 This should be considered when prescribing or dispensing DILAUDID INJECTION or DILAUDID-HP in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
@@ -65,7 +65,7 @@ Therefore, DILAUDID-HP should be used only if the amount of hydromorphone requir
 
 ## Gastrointestinal Effects
 
-DILAUDID INJECTION and DILAUDID-HP should not be administered to patients with gastrointestinal obstruction, especially paralytic ileus because hydromorphone diminishes the propulsive peristaltic wave in the gastrointestinal tract and may prolong the obstruction.
+DILAUDID INJECTION and DILAUDID-HP should not be administered to patients with gastrointestinal obstruction, especially paralytic ileus, because hydromorphone diminishes the propulsive peristaltic wave in the gastrointestinal tract and may prolong the obstruction.
 
 The administration of DILAUDID INJECTION or DILAUDID-HP may obscure the diagnosis or clinical course in patients with acute abdominal condition.
 
