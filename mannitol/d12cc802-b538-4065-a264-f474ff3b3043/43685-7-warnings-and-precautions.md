@@ -46,6 +46,8 @@ Administer intravenously using sterile, filter-type administration set.
 Do not use plastic container in series connection.
 
 If administration is controlled by a pumping device, care must be taken to discontinue pumping action before the container runs dry or air embolism may result.
+If administration is not controlled by a pumping device, refrain from applying excessive pressure (>300mmHg) causing distortion to the container such as wringing or twisting.
+Such handling could result in breakage of the container.
 
 This solution is intended for intravenous administration using sterile equipment.
 It is recommended that intravenous administration apparatus be replaced at least once every 24 hours.
