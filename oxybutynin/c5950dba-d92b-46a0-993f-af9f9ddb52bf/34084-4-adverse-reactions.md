@@ -41,6 +41,6 @@ Infections and infestations: nasopharyngitis, upper respiratory tract infection,
 ## Postmarketing Surveillance
 
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following additional adverse drug reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets: Psychiatric Disorders: psychotic disorder, agitation, hallucinations; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia; tachycardia; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; Injury, poisoning and procedural complications: fall.
+The following additional adverse drug reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets: Psychiatric Disorders: psychotic disorder, agitation, hallucinations; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia; tachycardia; QT interval prolongation, Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.

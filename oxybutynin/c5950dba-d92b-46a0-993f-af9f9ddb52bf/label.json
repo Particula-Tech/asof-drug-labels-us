@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078503"
+  ],
   "inn": "oxybutynin",
-  "labeler": "Kremers Urban, LLC",
+  "labeler": "Kremers Urban Pharmaceuticals Inc.",
   "package_ndcs": [
     "62175-270-32",
     "62175-270-37",
@@ -16,7 +18,13 @@
     "62175-272-41",
     "62175-272-43"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "oxybutynin chloride",
+      "name": "Oxybutynin Chloride"
+    }
+  ],
   "setid": "c5950dba-d92b-46a0-993f-af9f9ddb52bf",
   "source": "dailymed"
 }

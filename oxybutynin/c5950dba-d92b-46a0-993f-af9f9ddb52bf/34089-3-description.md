@@ -27,3 +27,5 @@ The controlled rate of drug delivery into the gastrointestinal lumen is thus ind
 The function of Oxybutynin chloride extended-release tablets depends on the existence of an osmotic gradient between the contents of the core and the fluid in the gastrointestinal tract.
 Since the osmotic gradient remains constant, drug delivery remains essentially constant.
 The biologically inert components of the tablet remain intact during gastrointestinal transit and are eliminated in the feces as an insoluble shell.
+
+USP Drug Release Test 3.

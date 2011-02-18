@@ -4,9 +4,9 @@ Prescribing Information
 
 For Medical Information Contact: Medical Affairs Department Phone: (866) 822-0068 Fax: (770) 970-8859
 
-Distributed by: Kremers Urban, LLC Seymour, IN 47274, USA
+Distributed by: Kremers Urban Pharmaceuticals Inc. Princeton, NJ 08540, USA
 
-for: Osmotica Pharmaceutical Wilmington, NC 28405, USA
+for: Wilmington, NC 28405, USA
 
-4008597 Rev.
-02/08
+L5094E Rev.
+4E 01/2011
