@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071851",
+    "ANDA073449"
+  ],
   "inn": "triamterene",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
@@ -11,7 +14,13 @@
     "0591-0424-05",
     "0591-0424-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "triamterene and hydrochlorothiazide",
+      "name": "Triamterene and Hydrochlorothiazide"
+    }
+  ],
   "setid": "abf2fe45-8b69-4d3c-981e-289c0aa3e98b",
   "source": "dailymed"
 }

@@ -12,6 +12,8 @@ Protect from light.
 
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
-Watson Laboratories, Inc. Corona, CA 92880
+Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-14746 Revised: July 2007 0707B
+Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+
+Revised: December 2008 1208B 174380
