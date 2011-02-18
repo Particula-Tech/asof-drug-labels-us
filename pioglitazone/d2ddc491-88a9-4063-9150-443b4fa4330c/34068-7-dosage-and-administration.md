@@ -1,43 +1,29 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-ACTOS should be taken once daily without regard to meals.
+## 2.1 Recommendations for all patients
 
-The management of antidiabetic therapy should be individualized.
-Ideally, the response to therapy should be evaluated using HbA1c which is a better indicator of long-term glycemic control than FPG alone.
-HbA1c reflects glycemia over the past two to three months.
-In clinical use, it is recommended that patients be treated with ACTOS for a period of time adequate to evaluate change in HbA1c (three months) unless glycemic control deteriorates.
-After initiation of ACTOS or with dose increase, patients should be carefully monitored for adverse events related to fluid retention (see BOXED WARNING and WARNINGS).
+ACTOS should be taken once daily and can be taken without regard to meals.
 
-## Monotherapy
+The recommended starting dose for patients without congestive heart failure is 15 mg or 30 mg once daily.
 
-ACTOS monotherapy in patients not adequately controlled with diet and exercise may be initiated at 15 mg or 30 mg once daily.
-For patients who respond inadequately to the initial dose of ACTOS, the dose can be increased in increments up to 45 mg once daily.
-For patients not responding adequately to monotherapy, combination therapy should be considered.
+The recommended starting dose for patients with congestive heart failure (NYHA Class I or II) is 15 mg once daily.
 
-## Combination Therapy
+The dose can be titrated in increments of 15 mg up to a maximum of 45 mg once daily based on glycemic response as determined by HbA1c.
 
-Sulfonylureas: ACTOS in combination with a sulfonylurea may be initiated at 15 mg or 30 mg once daily.
-The current sulfonylurea dose can be continued upon initiation of ACTOS therapy.
-If patients report hypoglycemia, the dose of the sulfonylurea should be decreased.
+After initiation of ACTOS or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning and Warnings and Precautions (5.2)].
 
-Metformin: ACTOS in combination with metformin may be initiated at 15 mg or 30 mg once daily.
-The current metformin dose can be continued upon initiation of ACTOS therapy.
-It is unlikely that the dose of metformin will require adjustment due to hypoglycemia during combination therapy with ACTOS.
+Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating ACTOS.
+Routine periodic monitoring of liver tests during treatment with ACTOS is not recommended in patients without liver disease.
+Patients who have liver test abnormalities prior to initiation of ACTOS or who are found to have abnormal liver tests while taking ACTOS should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
-Insulin: ACTOS in combination with insulin may be initiated at 15 mg or 30 mg once daily.
-The current insulin dose can be continued upon initiation of ACTOS therapy.
-In patients receiving ACTOS and insulin, the insulin dose can be decreased by 10% to 25% if the patient reports hypoglycemia or if plasma glucose concentrations decrease to less than 100 mg/dL.
-Further adjustments should be individualized based on glucose-lowering response.
+## 2.2 Concomitant use with an insulin secretagogue or insulin
 
-## Maximum Recommended Dose
+If hypoglycemia occurs in a patient co-administered ACTOS and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.
 
-The dose of ACTOS should not exceed 45 mg once daily in monotherapy or in combination with sulfonylurea, metformin, or insulin.
+If hypoglycemia occurs in a patient co-administered ACTOS and insulin, the dose of insulin should be decreased by 10% to 25%.
+Further adjustments to the insulin dose should be individualized based on glycemic response.
 
-Dose adjustment in patients with renal insufficiency is not recommended (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Drug Metabolism).
+## 2.3 Coadministration with strong CYP2C8 inhibitors
 
-Therapy with ACTOS should not be initiated if the patient exhibits clinical evidence of active liver disease or increased serum transaminase levels (ALT greater than 2.5 times the upper limit of normal) at start of therapy (see PRECAUTIONS, General, Hepatic Effects and CLINICAL PHARMACOLOGY, Special Populations, Hepatic Insufficiency).
-Liver enzyme monitoring is recommended in all patients prior to initiation of therapy with ACTOS and periodically thereafter (see PRECAUTIONS, General, Hepatic Effects).
-
-There are no data on the use of ACTOS in patients under 18 years of age; therefore, use of ACTOS in pediatric patients is not recommended.
-
-No data are available on the use of ACTOS in combination with another thiazolidinedione.
+Coadministration of ACTOS and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.
+Therefore, the maximum recommended dose of ACTOS is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

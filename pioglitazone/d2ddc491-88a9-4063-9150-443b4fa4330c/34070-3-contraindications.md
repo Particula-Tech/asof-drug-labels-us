@@ -1,5 +1,5 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Initiation of ACTOS in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated (see BOXED WARNING).
+Do not initiate in patients with NYHA Class III or IV heart failure [see Boxed Warning].
 
-ACTOS is contraindicated in patients with known hypersensitivity to this product or any of its components.
+Do not use in patients with a history of a serious hypersensitivity reaction to ACTOS or any of its ingredients.

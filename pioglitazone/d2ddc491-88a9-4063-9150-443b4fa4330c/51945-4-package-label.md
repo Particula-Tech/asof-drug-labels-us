@@ -1,8 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 15 mg Bottle Label
 
-NDC 64764-151-04
-
-30 Tablets
+NDC 64764-151-06 500 Tablets
 
 actos® (pioglitazone HCl) Tablets
 
@@ -12,13 +10,13 @@ Each tablet contains pioglitazone hydrochloride equivalent to 15 mg pioglitazone
 
 Dispense with Medication Guide available in package insert or at www.actos.com
 
-Takeda Rx Only
+Takeda
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
+Rx Only
 
-NDC 64764-301-14
+PRINCIPAL DISPLAY PANEL - 30 mg Bottle Label
 
-30 Tablets
+NDC 64764-301-16 500 Tablets
 
 actos® (pioglitazone HCl) Tablets
 
@@ -28,13 +26,13 @@ Each tablet contains pioglitazone hydrochloride equivalent to 30 mg pioglitazone
 
 Dispense with Medication Guide available in package insert or at www.actos.com
 
-Takeda Rx Only
+Takeda
 
-# PRINCIPAL DISPLAY PANEL - 45 mg Tablet Bottle Label
+Rx Only
 
-NDC 64764-451-24
+PRINCIPAL DISPLAY PANEL - 45 mg Bottle Label
 
-30 Tablets
+NDC 64764-451-24 30 Tablets
 
 actos® (pioglitazone HCl) Tablets
 
@@ -44,4 +42,6 @@ Each tablet contains pioglitazone hydrochloride equivalent to 45 mg pioglitazone
 
 Dispense with Medication Guide available in package insert or at www.actos.com
 
-Takeda Rx Only
+Takeda
+
+Rx Only
