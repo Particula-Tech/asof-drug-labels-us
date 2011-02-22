@@ -7,11 +7,11 @@ Allowed background therapy included bosentan (maintenance dosing up to 125 mg tw
 The use of prostacyclin or analogue, L-arginine, phosphodiesterase inhibitor, or other chronic PAH medications were not permitted.
 
 Subjects were randomly assigned to 1 of 5 treatment groups (tadalafil 2.5, 10, 20, 40 mg, or placebo) in a 1:1:1:1:1 ratio.
-Subjects had to be at least 12 years of age and had a diagnosis of PAH that was idiopathic, related to collagen vascular disease, anorexigen use, human immunodeficiency virus (HIV) infection, associated with an atrial-septal defect, or associated with surgical repair of a congenital systemic-to-pulmonary shunt of least 1 year in duration (for example, ventricular septal defect, patent ductus arteriosus).
+Subjects had to be at least 12 years of age and had a diagnosis of PAH that was idiopathic, heritable, related to connective tissue disease, anorexigen use, human immunodeficiency virus (HIV) infection, associated with an atrial-septal defect, or associated with surgical repair of a congenital systemic-to-pulmonary shunt of least 1 year in duration (for example, ventricular septal defect, patent ductus arteriosus).
 Patients with a history of left-sided heart disease, severe renal insufficiency, or pulmonary hypertension related to conditions other than specified in the inclusion criteria were not eligible for enrollment.
 
 The mean age of all subjects was 54 years (range 14 - 90 years) with the majority of subjects being Caucasian (81%) and female (78%).
-PAH etiologies were predominantly idiopathic PAH (61%) and related to collagen vascular disease (24%).
+PAH etiologies were predominantly idiopathic or heritable PAH (61%) and related to connective tissue disease (23%).
 More than half (53%) of the subjects in the study were receiving concomitant bosentan therapy.
 The majority of subjects had a World Health Organization (WHO) Functional Class III (65%) or II (32%).
 The mean baseline 6-minute walk distance (6-MWD) was 343 meters.
