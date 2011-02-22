@@ -13,9 +13,9 @@ In a comparative trial of LUPRON INJECTION (leuprolide acetate) versus DES, in 5
 Often, causality is difficult to assess in patients with metastatic prostate cancer.
 Reactions considered not drug related are excluded.
 
-|  | Number of Reports |  |
-| --- | --- | --- |
 |  | LUPRON (N=98) | DES (N=101) |
+| --- | --- | --- |
+|  | Number of Reports |  |
 | Cardiovascular System |  |  |
 | Congestive heart failure | 1 | 5 |
 | ECG changes/ischemia | 19 | 22 |
@@ -28,10 +28,10 @@ Reactions considered not drug related are excluded.
 | Constipation | 7 | 9 |
 | Nausea/vomiting | 5 | 17 |
 | Endocrine System |  |  |
-| Physiologic effect of decreased testosterone.Decreased testicular size | 7 | 11 |
-| Gynecomastia/breast tenderness or pain | 7 | 63 |
-| Hot flashes | 55 | 12 |
-| Impotence | 4 | 12 |
+| *Decreased testicular size | 7 | 11 |
+| *Gynecomastia/breast tenderness or pain | 7 | 63 |
+| *Hot flashes | 55 | 12 |
+| *Impotence | 4 | 12 |
 | Hemic and Lymphatic System |  |  |
 | Anemia | 5 | 5 |
 | Musculoskeletal System |  |  |
@@ -53,6 +53,7 @@ Reactions considered not drug related are excluded.
 | Urinary tract infection | 3 | 7 |
 | Miscellaneous |  |  |
 | Asthenia | 10 | 10 |
+| * Physiologic effect of decreased testosterone. |  |  |
 
 In this same study, the following adverse reactions were reported in less than 5% of the patients on LUPRON.
 

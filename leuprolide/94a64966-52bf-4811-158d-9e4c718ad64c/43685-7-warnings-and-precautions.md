@@ -18,6 +18,14 @@ Patients with metastatic vertebral lesions and/or with urinary tract obstruction
 
 Patients with known allergies to benzyl alcohol, an ingredient of the drug's vehicle, may present symptoms of hypersensitivity, usually local, in the form of erythema and induration at the injection site.
 
+Hyperglycemia and an increased risk of developing diabetes have been reported in men receiving GnRH agonists.
+Hyperglycemia may represent development of diabetes mellitus or worsening of glycemic control in patients with diabetes.
+Monitor blood glucose and/or glycosylated hemoglobin (HbA1c) periodically in patients receiving a GnRH agonist and manage with current practice for treatment of hyperglycemia or diabetes.
+
+Increased risk of developing myocardial infarction, sudden cardiac death and stroke has been reported in association with use of GnRH agonists in men.
+The risk appears low based on the reported odds ratios, and should be evaluated carefully along with cardiovascular risk factors when determining a treatment for patients with prostate cancer.
+Patients receiving a GnRH agonist should be monitored for symptoms and signs suggestive of development of cardiovascular disease and be managed according to current clinical practice.
+
 ## Information for Patients
 
 See INFORMATION FOR PATIENTS which appears after the REFERENCE section.

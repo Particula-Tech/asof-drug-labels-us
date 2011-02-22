@@ -76,41 +76,30 @@ SOME SPECIAL ADVICE
 
 # ADMINISTERING THE INJECTION
 
-- 1.
-  Wash hands thoroughly.
-- 2.
-  Check the liquid in the container.
-  It should look clear.
-  DO NOT USE if it is not clear or if it has particles in it.
-  If using a new bottle, flip off the plastic cover to expose the grey rubber stopper.
-  Use an alcohol swab to cleanse the metal ring and rubber stopper on medication bottle every day, just before you use it.
-- 3.
-  Remove outer wrapping from one syringe.
-- 4.
-  Pull the syringe plunger back until its tip is at the proper mark.
-- 5.
-  Uncover needle.
-  Do not touch the needle.
-- 6.
-  Place the bottle on a clean, flat surface and push the needle through the center of the rubber stopper on the bottle.
-  Push the plunger all the way in to inject air into the bottle.
-- 7.
-  Keep the needle in the bottle.
-  Lift the bottle and turn it straight upside down.
-  Check to see that the needle tip is in the liquid.
-- 8.
-  With the needle tip in the liquid, slowly pull back the plunger until syringe fills to the proper mark.
-  If any bubbles appear in the syringe, remove them by pushing the plunger up slowly.
-  With the needle tip still in the liquid, pull the plunger until it is once more at the proper mark.
-- 9.
-  Choose a different injection site each day.
-  Cleanse the injection site with a new alcohol swab.
-  Hold the skin the way you were instructed.
-  Slide the needle quickly all the way through the skin, into the subcutaneous tissue, at a 90° angle.
-- 10.
-  Push the plunger to inject the medication.
-  Withdraw the needle at the same angle it was inserted (90°).
-  Wipe the skin with an alcohol swab.
-- 11.
-  Dispose of the syringe and alcohol swabs as you were instructed.
-  Remember: use the disposable syringe only once.
+1. Wash hands thoroughly.
+2. Check the liquid in the container.
+   It should look clear.
+   DO NOT USE if it is not clear or if it has particles in it.
+   If using a new bottle, flip off the plastic cover to expose the grey rubber stopper.
+   Use an alcohol swab to cleanse the metal ring and rubber stopper on medication bottle every day, just before you use it.
+3. Remove outer wrapping from one syringe.
+4. Pull the syringe plunger back until its tip is at the proper mark.
+5. Uncover needle.
+   Do not touch the needle.
+6. Place the bottle on a clean, flat surface and push the needle through the center of the rubber stopper on the bottle.
+   Push the plunger all the way in to inject air into the bottle.
+7. Keep the needle in the bottle.
+   Lift the bottle and turn it straight upside down.
+   Check to see that the needle tip is in the liquid.
+8. With the needle tip in the liquid, slowly pull back the plunger until syringe fills to the proper mark.
+   If any bubbles appear in the syringe, remove them by pushing the plunger up slowly.
+   With the needle tip still in the liquid, pull the plunger until it is once more at the proper mark.
+9. Choose a different injection site each day.
+   Cleanse the injection site with a new alcohol swab.
+   Hold the skin the way you were instructed.
+   Slide the needle quickly all the way through the skin, into the subcutaneous tissue, at a 90° angle.
+10. Push the plunger to inject the medication.
+    Withdraw the needle at the same angle it was inserted (90°).
+    Wipe the skin with an alcohol swab.
+11. Dispose of the syringe and alcohol swabs as you were instructed.
+    Remember: use the disposable syringe only once.

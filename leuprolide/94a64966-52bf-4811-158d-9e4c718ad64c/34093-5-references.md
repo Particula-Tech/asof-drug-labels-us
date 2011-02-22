@@ -13,8 +13,7 @@
 4. Polovich, M., White, J.M., & Kelleher, L.O.
    (eds.)
    2005.
-   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd.
-   Ed.)
+   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd Ed.)
    Pittsburgh, PA: Oncology Nursing Society.
 
 # REFERENCES
@@ -32,6 +31,5 @@
 4. Polovich, M., White, J.M., & Kelleher, L.O.
    (eds.)
    2005.
-   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd.
-   Ed.)
+   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd Ed.)
    Pittsburgh, PA: Oncology Nursing Society.

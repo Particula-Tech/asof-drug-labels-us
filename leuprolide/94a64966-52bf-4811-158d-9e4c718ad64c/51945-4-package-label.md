@@ -1,1 +1,1 @@
-No Image Available
+NO IMAGE AVAILABLE
