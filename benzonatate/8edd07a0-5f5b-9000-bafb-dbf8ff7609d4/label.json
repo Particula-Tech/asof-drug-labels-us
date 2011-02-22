@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA011210"
+  ],
+  "inn": "benzonatate",
+  "labeler": "Pfizer Laboratories",
+  "package_ndcs": [
+    "0069-0122-01",
+    "0069-0122-02",
+    "0069-0124-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "benzonatate",
+      "name": "Tessalon"
+    }
+  ],
+  "setid": "8edd07a0-5f5b-9000-bafb-dbf8ff7609d4",
+  "source": "dailymed"
+}

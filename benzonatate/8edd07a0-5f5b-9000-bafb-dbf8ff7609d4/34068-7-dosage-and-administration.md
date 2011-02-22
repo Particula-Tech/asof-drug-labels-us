@@ -1,0 +1,6 @@
+# DOSAGE AND ADMINISTRATION
+
+Adults and Children over 10 years of age: Usual dose is one 100 mg or 200 mg capsule three times a day as needed for cough.
+If necessary to control cough, up to 600 mg daily in three divided doses may be given.
+TESSALON should be swallowed whole.
+TESSALON Capsules and Perles are not to be broken, chewed, dissolved, cut or crushed.
