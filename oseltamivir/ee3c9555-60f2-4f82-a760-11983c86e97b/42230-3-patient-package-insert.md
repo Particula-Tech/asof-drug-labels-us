@@ -19,7 +19,7 @@ TAMIFLU can also reduce the chance of getting the flu if there is a flu outbreak
 What is "Flu"?
 
 "The flu" is an infection caused by the influenza virus.
-Flu symptoms include fever (usually 100ºF to 103ºF in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
+Flu symptoms include fever (usually 100°F to 103°F in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
 Many people use the term "flu" to mean any combination of these symptoms, such as the common cold, but true influenza infection is often worse and may last longer than a cold.
 
 Flu outbreaks happen about once a year, usually in the winter, when the influenza virus spreads widely in the community.
@@ -91,10 +91,10 @@ If you notice any side effects not mentioned in this leaflet, or if you have any
 
 How and where should I store TAMIFLU?
 
-TAMIFLU Capsules should be stored at room temperature, 77ºF (25ºC) and kept in a dry place.
+TAMIFLU Capsules should be stored at room temperature, 77°F (25°C) and kept in a dry place.
 Keep this medication out of reach of children.
 
-TAMIFLU for Oral Suspension should be stored under refrigeration for up to 17 days at 36º to 46ºF (2º to 8ºC).
+TAMIFLU for Oral Suspension should be stored under refrigeration for up to 17 days at 36° to 46°F (2° to 8°C).
 Do not freeze.
 Alternatively, store at room temperature for up to 10 days.
 

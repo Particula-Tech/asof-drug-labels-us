@@ -4,7 +4,7 @@
 
 Adult Subjects
 
-Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100ºF, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
+Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
 In addition, all subjects enrolled in the trials were allowed to take fever-reducing medications.
 
 Of 1355 subjects enrolled in these two trials, 849 (63%) subjects were influenza-infected (age range 18 to 65 years; median age 34 years; 52% male; 90% Caucasian; 31% smokers).
@@ -30,7 +30,7 @@ However, the magnitude of treatment effect varied between studies.
 
 Pediatric Subjects
 
-One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 to 12 years (median age 5 years), who had fever (>100ºF) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
+One double-blind placebo-controlled treatment trial was conducted in pediatric subjects aged 1 to 12 years (median age 5 years), who had fever (>100°F) plus one respiratory symptom (cough or coryza) when influenza virus was known to be circulating in the community.
 Of 698 subjects enrolled in this trial, 452 (65%) were influenza-infected (50% male; 68% Caucasian).
 Of the 452 influenza-infected subjects, 67% were infected with influenza A and 33% with influenza B.
 
@@ -45,7 +45,7 @@ Adult Subjects
 
 The efficacy of TAMIFLU in preventing naturally occurring influenza illness has been demonstrated in three seasonal prophylaxis studies and a postexposure prophylaxis study in households.
 The primary efficacy parameter for all these studies was the incidence of laboratory-confirmed clinical influenza.
-Laboratory-confirmed clinical influenza was defined as oral temperature ≥99.0ºF/37.2ºC plus at least one respiratory symptom (cough, sore throat, nasal congestion) and at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), all recorded within 24 hours, plus either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
+Laboratory-confirmed clinical influenza was defined as oral temperature ≥99.0°F/37.2°C plus at least one respiratory symptom (cough, sore throat, nasal congestion) and at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), all recorded within 24 hours, plus either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
 
 In a pooled analysis of two seasonal prophylaxis studies in healthy unvaccinated adults (aged 13 to 65 years), TAMIFLU 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the TAMIFLU group.
 

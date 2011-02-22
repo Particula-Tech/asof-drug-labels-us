@@ -120,6 +120,10 @@ Table 10 Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatmen
 | R371K | B | Surveillance |
 | G402S | B | Publication |
 
+Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
+The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 and influenza A/H3N2, respectively.
+The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
+
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
 The oseltamivir resistance-associated substitution H275Y was found in >99% of US circulating 2008 H1N1 influenza isolates.
 The 2009 H1N1 influenza ("swine flu") was almost uniformly susceptible to oseltamivir.
