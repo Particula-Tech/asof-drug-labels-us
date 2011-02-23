@@ -219,3 +219,11 @@ Hypertrophic Subaortic Stenosis
 
 In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40-80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.
+
+Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
+
+By Wyeth Pharmaceuticals, Inc. Philadelphia, PA 19101
+
+Marketed and Distributed by Akrimax Pharmaceuticals, LLC Cranford, NJ 07016
+
+447F001 Rev 12/10

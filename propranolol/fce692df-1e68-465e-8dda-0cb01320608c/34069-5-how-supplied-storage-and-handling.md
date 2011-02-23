@@ -19,21 +19,3 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 This product's label may have been updated.
 For current package insert and further product information, please visit www.akrimax.com or call our medical communications department toll-free at 1-888-383-1733
-
-Manufactured for Akrimax Pharmaceuticals, LLC
-
-Cranford, NJ 07016
-
-By Wyeth Pharmaceuticals, Inc.
-
-Philadelphia, PA 19101
-
-Marketed and Distributed by
-
-Akrimax Pharmaceuticals, LLC
-
-Cranford, NJ 07016
-
-447F000
-
-Rev 01/08

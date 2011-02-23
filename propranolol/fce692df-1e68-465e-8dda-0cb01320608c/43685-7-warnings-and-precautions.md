@@ -28,11 +28,8 @@ Propranolol should be administered with caution in this setting since it may pro
 
 Major Surgery
 
-The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
-It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
-
-Propranolol is a competitive inhibitor of beta-receptor agonists and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
+Avoid initiation of high-dose extended release metoprolol in patients undergoing non-cardiac surgery because it has been associated with bradycardia, hypotension, stroke and death.
+Do not routinely withdraw chronic beta blocker therapy prior to surgery.
 
 Diabetes and Hypoglycemia
 
