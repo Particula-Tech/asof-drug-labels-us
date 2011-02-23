@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+Amiodarone HCl Injection 50 mg/mL NDC 0143-9875-10

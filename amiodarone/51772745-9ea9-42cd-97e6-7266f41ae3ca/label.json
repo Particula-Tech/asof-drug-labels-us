@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077234"
+  ],
+  "inn": "amiodarone",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9875-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "amiodarone hydrochloride",
+      "name": "Amiodarone Hydrochloride"
+    }
+  ],
+  "setid": "51772745-9ea9-42cd-97e6-7266f41ae3ca",
+  "source": "dailymed"
+}
