@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
 NDC 0004-1100-20
 
@@ -12,7 +12,7 @@ Each tablet contains 150 mg capecitabine.
 
 Genentech
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
 NDC 0004-1101-50
 

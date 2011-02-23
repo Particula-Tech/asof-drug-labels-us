@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 The manifestations of acute overdose would include nausea, vomiting, diarrhea, gastrointestinal irritation and bleeding, and bone marrow depression.
 Medical management of overdose should include customary supportive medical interventions aimed at correcting the presenting clinical manifestations.
