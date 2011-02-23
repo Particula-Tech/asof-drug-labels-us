@@ -220,9 +220,9 @@ Grade 3–5 adverse events occurring at a higher incidence (≥2%) in 337 patien
 
 Grade 1–5 adverse events occurring at a higher incidence (≥5%) in patients receiving IFN‑α plus Avastin compared to the IFN‑α plus placebo arm are presented in Table 4.
 
-Table 4: NCI‑CTC Grades 1–5 Adverse Events in Study 9 (Occuring at Higher Incidence [≥5%] in IFN‑α + Avastin vs. IFN‑α + Placebo)
+Table 4: NCI‑CTC Grades 1–5 Adverse Events in Study 9 (Occurring at Higher Incidence [≥5%] in IFN‑α + Avastin vs. IFN‑α + Placebo)
 
-| System Organ Class/Preferred termAdverse events were encoded using MedDRA, Version 10.1 | IFN‑α + Placebo (n = 304) | IFN‑α + Avastin (n = 337) |
+| System Organ Class/Preferred terma | IFN‑α + Placebo (n = 304) | IFN‑α + Avastin (n = 337) |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 16% | 21% |
@@ -244,6 +244,7 @@ Table 4: NCI‑CTC Grades 1–5 Adverse Events in Study 9 (Occuring at Higher In
 | Dysphonia | 0% | 5% |
 | Vascular disorders |  |  |
 | Hypertension | 9% | 28% |
+| aAdverse events were encoded using MedDRA, Version 10.1 |  |  |
 
 The following adverse events were reported at a 5‑fold greater incidence in the IFN‑α plus Avastin arm compared to IFN‑α alone and not represented in Table 4: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs.0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs.1); tinnitus (7 vs. 1); tooth abscess (7 vs.0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
 

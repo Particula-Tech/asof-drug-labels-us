@@ -20,7 +20,7 @@ Avastin is not indicated for patients with breast cancer that has progressed fol
 
 ## 1.4 Glioblastoma
 
-Avastin is indicated for the treatment of glioblastoma with progressive disease following prior therapy as a single agent.
+Avastin is indicated for the treatment of glioblastoma with progressive disease in adult patients following prior therapy as a single agent.
 
 The effectiveness of Avastin in glioblastoma is based on an improvement in objective response rate.
 There are no data demonstrating an improvement in disease‑related symptoms or increased survival with Avastin.

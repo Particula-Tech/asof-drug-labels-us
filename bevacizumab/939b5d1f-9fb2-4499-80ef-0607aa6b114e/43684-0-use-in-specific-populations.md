@@ -24,6 +24,9 @@ Because many drugs are secreted in human milk and because of the potential for s
 
 The safety, effectiveness and pharmacokinetic profile of Avastin in pediatric patients have not been established.
 
+Antitumor activity was not observed among eight children with relapsed glioblastoma treated with bevacizumab and irinotecan.
+There is insufficient information to determine the safety and efficacy of Avastin in children with glioblastoma.
+
 Juvenile cynomolgus monkeys with open growth plates exhibited physeal dysplasia following 4 to 26 weeks exposure at 0.4 to 20 times the recommended human dose (based on mg/kg and exposure).
 The incidence and severity of physeal dysplasia were dose‑related and were partially reversible upon cessation of treatment.
 

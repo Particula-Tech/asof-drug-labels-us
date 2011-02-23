@@ -35,7 +35,7 @@ Among the 110 patients enrolled in Arm 3, median OS was 18.3 months, median prog
 
 Study 2
 
-Study 2 was a randomized, open‑label, active‑controlled trial in patients who were previously treated with irinotecan +/- 5‑FU for initial therapy for metastatic disease or as adjuvant therapy.
+Study 2 was a randomized, open‑label, active‑controlled trial in patients who were previously treated with irinotecan ± 5‑FU for initial therapy for metastatic disease or as adjuvant therapy.
 Patients were randomized (1:1:1) to IV FOLFOX4 (Day 1: oxaliplatin 85 mg/m2 and LV 200 mg/m2 concurrently, then 5‑FU 400 mg/m2 bolus followed by 600 mg/m2 continuously; Day 2: LV 200 mg/m2, then 5‑FU 400 mg/m2 bolus followed by 600 mg/m2 continuously; repeated every 2 weeks), FOLFOX4 plus Avastin (10 mg/kg every 2 weeks prior to FOLFOX4 on Day 1), or Avastin monotherapy (10 mg/kg every 2 weeks).
 The main outcome measure was OS.
 
@@ -72,6 +72,13 @@ Based on investigator assessment which was not independently verified, patients 
 
 In an exploratory analyses across patient subgroups, the impact of Avastin on OS was less robust in the following: women [HR = 0.99 (95% CI: 0.79, 1.25)], age ≥ 65 years [HR = 0.91 (95% CI: 0.72, 1.14)] and patients with ≥5% weight loss at study entry [HR = 0.96 (95% CI: 0.73, 1.26)].
 
+The safety and efficacy of Avastin in patients with locally advanced, metastatic or recurrent non‑squamous NSCLC, who had not received prior chemotherapy was studied in another randomized, double‑blind, placebo controlled, three‑arm study of Avastin in combination with cisplatin and gemcitabine (CG) versus placebo and CG.
+A total of 1043 patients were randomized 1:1:1 to receive placebo plus CG, Avastin 7.5 mg/kg plus CG or Avastin 15.0 mg/kg plus CG.
+The median age was 58 years, 36% were female, and 29% were ≥ age 65.
+Eight percent had recurrent disease and 77% had Stage IV disease.
+Progression-free survival, the main efficacy outcome measure, was significantly higher in both Avastin containing arms compared to the placebo arm [HR 0.75 (95% CI 0.62, 0.91), p=0.0026 for the Avastin 7.5 mg/kg plus CG arm and HR 0.82 (95% CI 0.68; 0.98), p=0.0301 for the Avastin 15.0 mg/kg plus CG arm].
+The addition of Avastin to CG chemotherapy failed to demonstrate an improvement in the duration of overall survival, an additional efficacy outcome measure, [HR 0.93 (95% CI 0.78; 1.11), p=0.4203 for the Avastin 7.5 mg/kg plus CG arm and HR 1.03 (95% CI 0.86; 1.23), p=0.7613 for the Avastin 15.0 mg/kg plus CG arm].
+
 ## 14.3 Metastatic Breast Cancer (MBC)
 
 Study 5
@@ -101,8 +108,8 @@ Table 6: Avastin Efficacy Results from Study 5
 | [median, months (95% CI)] | (10.5, 13.3) | (5.4, 8.2) | <0.0001 | (0.39, 0.61) |
 | Overall Survival | 26.5 | 24.8 |  | 0.87 |
 | [median, months (95% CI)] | (23.7, 29.2) | (21.4, 27.4) | 0.14 | (0.72, 1.05) |
-| Partial Response Rate1 (PR) | 48.9% 2 | 22.2% | <0.001 | — |
-| 1 Includes only patients with measurable disease 2 The difference in partial response rates is 26.7% with a 95% CI (18.4%, 35.0%). |  |  |  |  |
+| Partial Response Ratea (PR) | 48.9%b | 22.2% | <0.001 | — |
+| a Includes only patients with measurable disease b The difference in partial response rates is 26.7% with a 95% CI (18.4%, 35.0%). |  |  |  |  |
 
 The addition of Avastin to paclitaxel resulted in an improvement in PFS with no significant improvement in OS.
 Partial response rates in patients with measurable disease were higher with Avastin plus paclitaxel.
