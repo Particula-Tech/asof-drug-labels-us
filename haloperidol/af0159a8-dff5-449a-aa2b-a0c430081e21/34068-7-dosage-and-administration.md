@@ -47,3 +47,11 @@ Haloperidol decanoate is usually administered monthly or every 4 weeks.
 However, variation in patient response may dictate a need for adjustment of the dosing interval as well as the dose (See CLINICAL PHARMACOLOGY).
 
 Clinical experience with haloperidol decanoate at doses greater than 450 mg per month has been limited.
+
+## Instructions for Opening Ampule
+
+| 1.Medication often rests in the top part of the ampule. Before breaking the ampule, lightly tap the top of the ampule with your finger until all fluid moves to the bottom portion of the ampule. The ampule has a colored ring(s) and colored point which aids in the placement of fingers while breaking the ampule. | Step 1 |
+| --- | --- |
+| 2.Hold the ampule between thumb and index finger with the colored point facing you. | Step 2 |
+| 3.Position the index finger of the other hand to support the neck of the ampule. Position the thumb so that it covers the colored point and is parallel to the colored ring(s). | Step 3 |
+| 4.Keeping the thumb on the colored point and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. | Step 4 |
