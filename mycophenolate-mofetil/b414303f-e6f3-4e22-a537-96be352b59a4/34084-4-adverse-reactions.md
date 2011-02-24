@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections, e.g., opportunistic infection (see WARNINGS, Infections and WARNINGS, Progressive Multifocal Leukoencephalopathy (PML)).
+The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections, e.g., opportunistic infection (see WARNINGS, Infections and WARNINGS, Latent Viral Infections).
 The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
 ## Mycophenolate Mofetil Oral
@@ -107,7 +107,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 Severe neutropenia (ANC < 0.5 x 103/µL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS, Neutropenia; PRECAUTIONS, Laboratory Tests; and DOSAGE AND ADMINISTRATION).
 
 All transplant patients are at increased risk of opportunistic infections.
-The risk increases with total immunosuppressive load (see WARNINGS, Infections and WARNINGS, Progressive Multifocal Leukoencephalopathy (PML)).
+The risk increases with total immunosuppressive load (see WARNINGS, Infections and WARNINGS, Latent Viral Infections).
 Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
 Table 9: Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
