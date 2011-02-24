@@ -23,3 +23,11 @@ For an initial approximation of the total daily dose required, the parenteral do
 Since this dose is only an initial estimate, it is recommended that careful monitoring of clinical signs and symptoms, including clinical efficacy, sedation, and adverse effects, be carried out periodically for the first several days following the initiation of switchover.
 In this way, dosage adjustments, either upward or downward, can be quickly accomplished.
 Depending on the patient's clinical status, the first oral dose should be given within 12–24 hours following the last parenteral dose.
+
+## Instructions for Opening Ampule
+
+| 1.Medication often rests in the top part of the ampule. Before breaking the ampule, lightly tap the top of the ampule with your finger until all fluid moves to the bottom portion of the ampule. The ampule has a colored ring(s) and colored point which aids in the placement of fingers while breaking the ampule. | Step 1 |
+| --- | --- |
+| 2.Hold the ampule between thumb and index finger with the colored point facing you. | Step 2 |
+| 3.Position the index finger of the other hand to support the neck of the ampule. Position the thumb so that it covers the colored point and is parallel to the colored ring(s). | Step 3 |
+| 4.Keeping the thumb on the colored point and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. | Step 4 |
