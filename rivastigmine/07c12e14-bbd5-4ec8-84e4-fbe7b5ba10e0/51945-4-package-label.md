@@ -22,6 +22,6 @@ EXELON® Patch
 
 (rivastigmine transdermal system)
 
-Each System Delivers 4.6 mg/24 hours
+Each System Delivers 9.5 mg/24 hours
 
 Contains 30 Systems
