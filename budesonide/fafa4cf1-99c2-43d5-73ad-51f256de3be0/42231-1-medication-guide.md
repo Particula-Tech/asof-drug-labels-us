@@ -17,7 +17,7 @@ What is the most important information I should know about SYMBICORT?
 SYMBICORT can cause serious side effects, including:
 
 1.
-People with asthma who take long-acting beta2-adrenegic agonist (LABA) medicines such as formoterol (one of the medicines in SYMBICORT) have an increased risk of death from asthma problems.
+People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines such as formoterol (one of the medicines in SYMBICORT) have an increased risk of death from asthma problems.
 It is not known whether budesonide, the other medicine in SYMBICORT, reduces the risk of death from asthma problems seen with formoterol.
 
 - Call your healthcare provider if breathing problems worsen over time while using SYMBICORT.
@@ -163,18 +163,11 @@ SYMBICORT can cause serious side effects
 - Serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
   Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.
 - Immune system effects and a higher chance for infections.
-  Tell your healthcare provider about any signs of infection such as:
-- fever
-- pain
-- body aches
-- chills
-- feeling tired
-- nausea
-- vomiting
+  Tell your healthcare provider about any signs of infection such as:· fever · pain· body aches· chills· feeling tired· nausea· vomiting
 - Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines and start inhaled corticosteroid medicine.
-- Using too much of a LABA medicine may cause: chest pain, increased blood pressure, a fast and irregular heartbeat, headache, tremor, and nervousness.
+- Using too much of a LABA medicine may cause:· chest pain· increased blood pressure· a fast and irregular heartbeat· headache· tremor· nervousness
 - Increased wheezing right after taking SYMBICORT.
   Always have a rescue inhaler with you to treat sudden wheezing.
 - Eye problems including glaucoma and cataracts.
@@ -186,11 +179,7 @@ SYMBICORT can cause serious side effects
   A child’s growth should be checked regularly while using SYMBICORT.
 - Swelling of your blood vessels.
   This can happen in people with asthma.
-  Tell your healthcare provider right away if you have:
-- a feeling of pins and needles or numbness of your arms or legs
-- flu like symptoms
-- rash
-- pain and swelling of the sinuses
+  Tell your healthcare provider right away if you have: · a feeling of pins and needles or numbness of your arms or legs· flu like symptoms· rash· pain and swelling of the sinuses
 - Decreases in blood potassium levels (hypokalemia)
 - Increases in blood sugar levels (hyperglycemia)
 
@@ -226,7 +215,7 @@ Ask your healthcare provider or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
-You may also report side effects to ASTRAZENECA at 1-800-236-9933.
+You may also report side effects to AstraZeneca at 1-800-236-9933.
 
 How do I store SYMBICORT?
 
@@ -253,7 +242,7 @@ For more information, call 1-800-236-9933 or go to www.MySymbicort.com.
 
 What are the ingredients in SYMBICORT?
 
-Active ingredient: micronized budesonide and micronized formoterol fumarate dihydrate Inactive ingredients: hydrofluroalkane (HFA 227), povidone K25 USP, and polyethylene glycol 1000 NF
+Active ingredients: micronized budesonide and micronized formoterol fumarate dihydrate Inactive ingredients: hydrofluroalkane (HFA 227), povidone K25 USP, and polyethylene glycol 1000 NF
 
 Upright Position
 
