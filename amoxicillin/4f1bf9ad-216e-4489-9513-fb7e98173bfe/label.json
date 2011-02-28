@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050813"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Victory Pharma, Inc.",
+  "package_ndcs": [
+    "68453-142-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "amoxicillin",
+      "name": "Moxatag"
+    }
+  ],
+  "setid": "4f1bf9ad-216e-4489-9513-fb7e98173bfe",
+  "source": "dailymed"
+}

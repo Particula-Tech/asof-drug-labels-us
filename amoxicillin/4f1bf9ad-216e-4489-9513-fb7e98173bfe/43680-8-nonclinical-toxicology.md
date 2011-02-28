@@ -1,0 +1,11 @@
+# 13. NONCLINICAL TOXICOLOGY
+
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+Studies to detect mutagenic potential of amoxicillin alone have not been conducted; however, the following information is available from tests on a 4:1 mixture of amoxicillin and potassium clavulanate (Augmentin).
+Augmentin was non-mutagenic in the Ames bacterial mutation assay, and the yeast gene conversion assay.
+Augmentin was weakly positive in the mouse lymphoma assay, but the trend toward increased mutation frequencies in this assay occurred at doses that were also associated with decreased cell survival.
+Augmentin was negative in the mouse micronucleus test, and in the dominant lethal assay in mice.
+Potassium clavulanate alone was tested in the Ames bacterial mutation assay and in the mouse micronucleus test, and was negative in each of these assays.
+In a multi-generation reproduction study in rats, no impairment of fertility or other adverse reproductive effects were seen at doses up to 500 mg/kg (approximately 6 times the human dose in mg/m2).
