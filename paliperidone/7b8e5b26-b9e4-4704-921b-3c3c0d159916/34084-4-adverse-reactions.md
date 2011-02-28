@@ -52,7 +52,7 @@ Table 1 enumerates the pooled incidences of adverse reactions reported in the th
 
 Table 1.
 Adverse Reactions Reported by ≥ 2% of INVEGA®-Treated Subjects with Schizophrenia in Three Short-Term, Fixed-Dose, Placebo-Controlled Clinical Trials Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA® dose groups and which occurred at greater incidence than in the placebo group.
-Data are pooled from three studies; one study included once-daily INVEGA® doses of 3 mg and 9 mg, the second study included 6 mg, 9 mg, and 12 mg, and the third study included 6 mg and 12 mg [see Clinical Studies (14)]).
+Data are pooled from three studies; one study included once-daily INVEGA® doses of 3 mg and 9 mg, the second study included 6 mg, 9 mg, and 12 mg, and the third study included 6 mg and 12 mg [see Clinical Studies (14)].
 Extrapyramidal symptoms includes the terms dyskinesia, dystonia, extrapyramidal disorder, hypertonia, muscle rigidity, oculogyration, parkinsonism, and tremor.
 Somnolence includes the terms sedation and somnolence.
 Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
@@ -101,7 +101,7 @@ Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate in
 
 | Dictionary-Derived Term |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo | INVEGA® 3–6 mg once-daily fixed-dose range | INVEGA® 9–12 mg once-daily fixed-dose range | INVEGA® 3–12 mg once-daily flexible-dose |
+|  | Placebo | INVEGA® 3–6 mg once-daily fixed-dose range | INVEGA® 9–12 mg once-daily fixed-dose range | INVEGA® 3–12 mg once-daily flexible dose |
 | Body System or Organ Class | (N=202) | (N=108) | (N=98) | (N=214) |
 | Total percentage of subjects with adverse reactions | 32 | 48 | 50 | 43 |
 | Cardiac disorders |  |  |  |  |
