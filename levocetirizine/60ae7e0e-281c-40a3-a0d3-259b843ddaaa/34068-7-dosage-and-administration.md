@@ -1,0 +1,31 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Levocetirizine dihydrochloride is available as 5 mg breakable (scored) tablets, allowing for the administration of 2.5 mg, if needed.
+Levocetirizine dihydrochloride tablets can be taken without regard to food consumption.
+
+## 2.1 Adults and Children 12 Years of Age and Older
+
+The recommended dose of levocetirizine dihydrochloride tablets is 5 mg (1 tablet) once daily in the evening.
+Some patients may be adequately controlled by 2.5 mg (1/2 tablet) once daily in the evening.
+
+## 2.2 Children 6 to 11 Years of Age
+
+The recommended dose of levocetirizine dihydrochloride is 2.5 mg (1/2 tablet) once daily in the evening.
+The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
+
+## 2.3 Children 6 months to 5 Years of Age
+
+Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
+However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
+
+## 2.4 Dose Adjustment for Renal and Hepatic Impairment
+
+In adults and children 12 years of age and older with:
+
+- Mild renal impairment (creatinine clearance [CLCR] = 50-80 mL/min): a dose of 2.5 mg once daily is recommended;
+- Moderate renal impairment (CLCR = 30-50 mL/min): a dose of 2.5 mg once every other day is recommended;
+- Severe renal impairment (CLCR = 10-30 mL/min): a dose of 2.5 mg twice weekly (administered once every 3-4 days) is recommended;
+- End-stage renal disease patients (CLCR< 10 mL/min) and patients undergoing hemodialysis should not receive levocetirizine dihydrochloride tablets.
+
+No dose adjustment is needed in patients with solely hepatic impairment.
+In patients with both hepatic impairment and renal impairment, adjustment of the dose is recommended.

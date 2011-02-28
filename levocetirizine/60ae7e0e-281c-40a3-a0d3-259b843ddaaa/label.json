@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090385"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Glenmark Generics Inc.,USA",
+  "package_ndcs": [
+    "68462-346-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Levocetirizine Dihydrochloride"
+    }
+  ],
+  "setid": "60ae7e0e-281c-40a3-a0d3-259b843ddaaa",
+  "source": "dailymed"
+}
