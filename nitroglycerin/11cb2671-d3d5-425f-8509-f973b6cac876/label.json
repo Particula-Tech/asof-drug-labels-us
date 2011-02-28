@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018705"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-300-20",
+    "24338-300-65"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "nitroglycerin",
+      "name": "Nitrolingual Pumpspray"
+    }
+  ],
+  "setid": "11cb2671-d3d5-425f-8509-f973b6cac876",
+  "source": "dailymed"
+}
