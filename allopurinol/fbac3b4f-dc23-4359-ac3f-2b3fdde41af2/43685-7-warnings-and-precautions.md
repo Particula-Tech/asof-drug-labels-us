@@ -46,7 +46,7 @@ Bone marrow depression has been reported in patients receiving allopurinol, most
 This has occurred as early as six weeks to as long as six years after the initiation of therapy of allopurinol.
 Rarely a patient may develop varying degrees of bone marrow depression, affecting one or more cell lines, while receiving allopurinol alone.
 
-## Information For Patients
+## Information for Patients
 
 Patients should be informed of the following:
 

@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
 100 mg (white) scored, flat-faced beveled edge round tablets debossed with "2083/V".
-Bottles of 100, 500, 1000 and 3000.
+Bottles of 90, 100, 180, 500, 1000 and 3000.
 
 300 mg (orange) scored, round tablets debossed with "2084/V".
 Bottles of 100, 500 and 1000.
