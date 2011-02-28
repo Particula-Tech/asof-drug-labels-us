@@ -41,9 +41,11 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA Y37-002-354
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
-U.S. Patent Nos. D388,168, D397,789, D402,366, D407,816, 5,176,634, 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
+LD-210-1 Y37-002-384
+
+U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,646,305, and 696,951.
 DUPLEX is a registered trademark of B. Braun Medical Inc.
 
 PRINCIPAL DISPLAY PANEL - 2g / 50mL Container Label
@@ -89,7 +91,9 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA Y37-002-355
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
-U.S. Patent Nos. D388,168, D397,789, D402,366, D407,816, 5,176,634, 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
+LD-211-1 Y37-002-385
+
+U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
 DUPLEX is a registered trademark of B. Braun Medical Inc.

@@ -33,7 +33,7 @@ The following adverse laboratory changes, irrespective of relationship to therap
 
 Table 4: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials – North America
 
-| Incidence equal to or greater than 1% | Positive Coombs' test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%); eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
+| Incidence equal to or greater than 1% | Positive Coombs' Test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%); eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
 | --- | --- |
 | Incidence less than 1% but greater than 0.1% | Increased alkaline phosphatase, BUN, calcium, creatinine, phosphorus, potassium, total bilirubin; decreased calciumHypocalcemia was more common among elderly patients. Clinical consequences from changes in either calcium or phosphorus were not reported., hematocrit, neutrophils, platelets, WBC |
 

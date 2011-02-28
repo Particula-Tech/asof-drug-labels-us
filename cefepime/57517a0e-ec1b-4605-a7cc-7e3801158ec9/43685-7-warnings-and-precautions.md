@@ -52,8 +52,8 @@ It is recommended that glucose tests based on enzymatic glucose oxidase reaction
 
 Coombs' Test
 
-Positive direct Coombs' tests have been reported during treatment with cefepime.
-In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' testing of newborns whose mothers have received cephalosporin antibiotics before parturition, it should be recognized that a positive Coombs' test may be due to the drug.
+Positive direct Coombs' Tests have been reported during treatment with cefepime.
+In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' Testing of newborns whose mothers have received cephalosporin antibiotics before parturition, it should be recognized that a positive Coombs' Test may be due to the drug.
 
 Prothrombin Time
 
