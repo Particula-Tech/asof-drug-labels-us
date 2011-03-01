@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022195"
+  ],
+  "inn": "morphine",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-0235-24",
+    "0054-0235-25",
+    "0054-0236-24",
+    "0054-0236-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "3c847554-3b4b-4d24-a145-2ef7e9b83699",
+  "source": "dailymed"
+}
