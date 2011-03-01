@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide.
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Information for Patients
 
@@ -11,14 +11,14 @@ Inform patients of the following risks and considerations for PROMACTA:
 
 - Therapy with PROMACTA is administered to achieve and maintain a platelet count ≥50 x 109/L as necessary to reduce the risk for bleeding; PROMACTA is not used to normalize platelet counts.
 - Therapy with PROMACTA may be associated with hepatobiliary laboratory abnormalities.
-  Monitor serum liver tests (ALT, AST, and bilirubin) prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
+  Monitor serum liver tests (ALT, AST, and bilirubin) prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
   If bilirubin is elevated, perform fractionation.
 - Inform patients that they should report any of the following signs and symptoms of liver problems to their healthcare provider right away.
-  - yellowing of the skin or the whites of the eyes (jaundice),
-  - unusual darkening of the urine,
-  - unusual tiredness,
-  - right upper stomach area pain.
-- Following discontinuation of PROMACTA, thrombocytopenia and risk of bleeding may develop that is worse than that experienced prior to therapy with PROMACTA, particularly if PROMACTA is discontinued while the patient is on anticoagulants or antiplatelet agents.
+  - yellowing of the skin or the whites of the eyes (jaundice)
+  - unusual darkening of the urine
+  - unusual tiredness
+  - right upper stomach area pain
+- Following discontinuation of PROMACTA, thrombocytopenia and risk of bleeding may reoccur, particularly if PROMACTA is discontinued while the patient is on anticoagulants or antiplatelet agents.
 - Therapy with PROMACTA increases the risk of reticulin fiber formation within the bone marrow, and further fiber formation may progress to marrow fibrosis.
   Detection of peripheral blood cell abnormalities may necessitate a bone marrow examination.
 - Too much PROMACTA may result in excessive platelet counts and a risk for thrombotic/thromboembolic complications.
