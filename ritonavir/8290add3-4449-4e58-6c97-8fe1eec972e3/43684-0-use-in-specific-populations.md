@@ -50,4 +50,4 @@ In general, appropriate caution should be exercised in the administration and mo
 
 ## 8.6 Hepatic Impairment
 
-KALETRA is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because lopinavir concentrations may be increased [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+KALETRA is principally metabolized by the liver; therefore, caution should be exercised when administering this drug to patients with hepatic impairment, because lopinavir concentrations may be increased [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].

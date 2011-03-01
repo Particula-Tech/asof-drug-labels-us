@@ -43,4 +43,4 @@ KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 Abbott Laboratories, North Chicago, IL 60064, U.S.A.
 
 Rev.
-06/2010
+02/2011

@@ -146,8 +146,9 @@ How should I take KALETRA?
 - If KALETRA is being used for your child, tell your doctor if your child’s weight changes.
 - KALETRA should not be given one time each day in children.
   When giving KALETRA to your child, give KALETRA exactly as prescribed.
-- KALETRA oral solution contains a large amount of alcohol.
-  - If a young child drinks more than the recommended dose, it could make them sick from too much alcohol.
+- KALETRA oral solution contains propylene glycol and a large amount of alcohol.
+  KALETRA oral solution should not be given to babies younger than 14 days of age unless your doctor thinks it is right for your baby.
+  - If a young child drinks more than the recommended dose, it could make them sick.
     Contact your local poison control center or emergency room right away.
   - Talk with your doctor if you take or plan to take metronidazole or disulfiram.
     You can have severe nausea and vomiting if you take these medicines with KALETRA.
@@ -208,6 +209,9 @@ KALETRA can cause serious side effects.
 - Allergic reactions.
   Skin rashes, some of them severe, can occur in people who take KALETRA.
   Tell your healthcare provider if you had a rash when you took another medicine for your HIV infection or if you notice any skin rash when you take KALETRA.
+- Babies taking KALETRA oral solution may have side effects.
+  KALETRA oral solution contains alcohol and propylene glycol.
+  Call your doctor right away if your baby appears too sleepy or their breathing has changed.
 
 Common side effects of KALETRA include:
 
@@ -279,16 +283,22 @@ KALETRA oral solution: acesulfame potassium, alcohol, artificial cotton candy fl
 KALETRA oral solution contains 42.4% alcohol (v/v).
 “See How should I take KALETRA?”.
 
-KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617 for Abbott Laboratories, North Chicago, IL 60064, U.S.A.
-
-KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution Abbott Laboratories, North Chicago, IL 60064, U.S.A.
-
-2010, ALL RIGHTS RESERVED
+2011, ALL RIGHTS RESERVED
 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-06/2010
+02/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
+
+Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617
+
+for Abbott Laboratories, North Chicago, IL 60064, U.S.A
+
+KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
+
+Abbott Laboratories, North Chicago, IL 60064, U.S.A.

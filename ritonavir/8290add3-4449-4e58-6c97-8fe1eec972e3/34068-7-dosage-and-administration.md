@@ -14,7 +14,7 @@ KALETRA oral solution must be taken with food.
 
 Once daily administration of KALETRA is not recommended for adult patients with three or more of the following lopinavir resistance-associated substitutions: L10F/I/R/V, K20M/N/R, L24I, L33F, M36I, I47V, G48V, I54L/T/V, V82A/C/F/S/T, and I84V [see Clinical Pharmacology (12.4)].
 
-KALETRA should not be administered once daily in combination with carbamazepine, phenobarbital, or phenytoin [see Drug Interactions (7.0)].
+KALETRA should not be administered once daily in combination with carbamazepine, phenobarbital, or phenytoin [see Drug Interactions (7)].
 
 Concomitant Therapy: Efavirenz, Nevirapine, Amprenavir or Nelfinavir
 
@@ -31,9 +31,14 @@ KALETRA tablets and oral solution should not be administered as a once daily reg
 
 KALETRA tablets and oral solution should not be administered once daily in pediatric patients < 18 years of age.
 
-Healthcare professionals should pay special attention to accurate calculation of the dose of KALETRA, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors, overdose, [see Overdosage (10)] and underdose.
+KALETRA oral solution should not be administered to neonates before a postmenstrual age (first day of the mother’s last menstrual period to birth plus the time elapsed after birth) of 42 weeks and a postnatal age of at least 14 days has been attained [see Warnings and Precautions (5.2)].
 
-Prescribers should calculate the appropriate dose of KALETRA for each individual child based on body weight (kg) or body surface area (BSA) and should not exceed the recommended adult dose.
+KALETRA oral solution contains 42.4% (v/v) alcohol and 15.3% (w/v) propylene glycol.
+Special attention should be given to accurate calculation of the dose of KALETRA, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors, and overdose.
+This is especially important for infants and young children.
+Total amounts of alcohol and propylene glycol from all medicines that are to be given to pediatric patients 14 days to 6 months of age should be taken into account in order to avoid toxicity from these excipients [see Warnings and Precautions (5.2) and Overdosage (10)].
+
+Prescribers should calculate the appropriate dose of KALETRA for each individual child based on body weight (kg) or body surface area (BSA) to avoid underdosing or exceeding the recommended adult dose.
 
 Body surface area (BSA) can be calculated as follows:
 
@@ -79,12 +84,12 @@ Table 1 provides the dosing recommendations for pediatric patients 6 months to 1
 Table 1.
 Pediatric Dosing Recommendations for Patients 6 Months to 18 Years of Age Based on Body Weight or Body Surface Area for KALETRA Tablets Without Concomitant Efavirenz, Nevirapine, Amprenavir, or Nelfinavir
 
-| Body Weight (kg) | Body Surface Area (m2)* |  | Recommended number of 100/25 mg Tablets Twice Daily |
-| --- | --- | --- | --- |
-| 15 to 25 |  | ≥0.6 to < 0.9 | 2 |
-| >25 to 35 |  | ≥0.9 to < 1.4 | 3 |
-| >35 |  | ≥1.4 | 4 (or two 200/50 mg tablets) |
-| * KALETRA oral solution is available for children with a BSA less than 0.6 m2 or those who are unable to reliably swallow a tablet. |  |  |  |
+| Body Weight (kg) | Body Surface Area (m2)* | Recommended number of 100/25 mg Tablets Twice Daily |
+| --- | --- | --- |
+| 15 to 25 | ≥0.6 to < 0.9 | 2 |
+| >25 to 35 | ≥0.9 to < 1.4 | 3 |
+| >35 | ≥1.4 | 4 (or two 200/50 mg tablets) |
+| * KALETRA oral solution is available for children with a BSA less than 0.6 m2 or those who are unable to reliably swallow a tablet. |  |  |
 
 Concomitant Therapy: Efavirenz, Nevirapine, Amprenavir, or Nelfinavir
 
@@ -100,10 +105,10 @@ Table 2 provides the dosing recommendations for pediatric patients 6 months to 1
 Table 2.
 Pediatric Dosing Recommendations for Patients 6 Months to 18 Years of Age Based on Body Weight or Body Surface Area for KALETRA Tablets With Concomitant Efavirenz†, Nevirapine, Amprenavir† or Nelfinavir†
 
-| Body Weight (kg) | Body Surface Area (m2)* |  | Recommended number of 100/25 mg Tablets Twice Daily |
-| --- | --- | --- | --- |
-| 15 to 20 |  | ≥0.6 to < 0.8 | 2 |
-| >20 to 30 |  | ≥0.8 to < 1.2 | 3 |
-| >30 to 45 |  | ≥1.2 to <1.7 | 4 (or two 200/50 mg tablets) |
-| >45 |  | ≥1.7 | 5 [see Dosage and Administration, Adult Patients (2.1)] |
-| * KALETRA oral solution is available for children with a BSA less than 0.6 m2 or those who are unable to reliably swallow a tablet.† Please refer to the individual product labels for appropriate dosing in children. |  |  |  |
+| Body Weight (kg) | Body Surface Area (m2)* | Recommended number of 100/25 mg Tablets Twice Daily |
+| --- | --- | --- |
+| 15 to 20 | ≥0.6 to < 0.8 | 2 |
+| >20 to 30 | ≥0.8 to < 1.2 | 3 |
+| >30 to 45 | ≥1.2 to <1.7 | 4 (or two 200/50 mg tablets) |
+| >45 | ≥1.7 | 5 [see Dosage and Administration, Adult Patients (2.1)] |
+| * KALETRA oral solution is available for children with a BSA less than 0.6 m2 or those who are unable to reliably swallow a tablet. † Please refer to the individual product labels for appropriate dosing in children. |  |  |

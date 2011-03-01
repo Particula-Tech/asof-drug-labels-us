@@ -2,10 +2,10 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling.
 
-- PR Interval Prolongation, QT Interval Prolongation [see Warnings and Precautions (5.5, 5.6)]
+- PR Interval Prolongation, QT Interval Prolongation [see Warnings and Precautions (5.6, 5.7)]
 - Drug Interactions [see Warnings and Precautions (5.1)]
-- Pancreatitis [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Pancreatitis [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -28,9 +28,9 @@ Treatment-emergent clinical adverse reactions of moderate or severe intensity in
 Table 4.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
-|  | KALETRA 400/100 mg Twice Daily + d4T + 3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily2 + d4T + 3TC (N = 100) | KALETRA 800/200 mg Once Daily + TDF +FTC (N=333) | KALETRA 400/100 mg Twice Daily + TDF +FTC (N=331) |
-| --- | --- | --- | --- | --- | --- |
 |  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
+| --- | --- | --- | --- | --- | --- |
+|  | KALETRA 400/100 mg Twice Daily + d4T + 3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily2 + d4T + 3TC (N = 100) | KALETRA 800/200 mg Once Daily + TDF +FTC (N=333) | KALETRA 400/100 mg Twice Daily + TDF +FTC (N=331) |
 | Endocrine Disorders |  |  |  |  |  |
 | Hypogonadism | 0% | 0% | 2% | 0% | 0% |
 | Gastrointestinal Disorders |  |  |  |  |  |
@@ -61,14 +61,14 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 | Rash | 1% | 2% | 5% | <1% | 1% |
 | Vascular Disorders |  |  |  |  |  |
 | Vasodilation | 0% | 0% | 3% | 0% | 0% |
-| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from dose group I (200/100 mg twice daily [N = 16] and 400/100 mg twice daily [N = 16]) and dose group II (400/100 mg twice daily [N = 35] and 400/200 mg twice daily [N = 33]). Within dosing groups, moderate to severe nausea of probable/possible relationship to KALETRA occurred at a higher rate in the 400/200 mg dose arm compared to the 400/100 mg dose arm in group II.Definitions: d4T = Stavudine; 3TC = Lamivudine; TDF = Tenofovir Disoproxil Fumarate; FTC = Emtricitabine |  |  |  |  |  |
+| 1 Includes adverse reactions of possible or probable relationship to study drug. 2 Includes adverse reaction data from dose group I (200/100 mg twice daily [N = 16] and 400/100 mg twice daily [N = 16]) and dose group II (400/100 mg twice daily [N = 35] and 400/200 mg twice daily [N = 33]). Within dosing groups, moderate to severe nausea of probable/possible relationship to KALETRA occurred at a higher rate in the 400/200 mg dose arm compared to the 400/100 mg dose arm in group II. Definitions: d4T = Stavudine; 3TC = Lamivudine; TDF = Tenofovir Disoproxil Fumarate; FTC = Emtricitabine |  |  |  |  |  |
 
 Table 5.
 Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions of Moderate or Severe Intensity Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily + NRTIs (N=299) |
-| --- | --- | --- | --- | --- | --- |
 |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
+| --- | --- | --- | --- | --- | --- |
+|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily + NRTIs (N=299) |
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Diarrhea | 7% | 9% | 23% | 14% | 11% |
 | Nausea | 7% | 16% | 5% | 3% | 7% |
@@ -98,7 +98,7 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 | Rash | 2% | 1% | 2% | 0% | 0% |
 | Vascular Disorders |  |  |  |  |  |
 | Hypertension | 0% | 0% | 2% | 0% | 0% |
-| 1 Includes adverse reactions of possible or probable relationship to study drug.2 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |  |  |
+| 1 Includes adverse reactions of possible or probable relationship to study drug. 2 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz. 3 Includes adverse reaction data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. Definitions: NVP = Nevirapine; NRTI = Nucleoside Reverse Transcriptase Inhibitors; NNRTI = Non-nucleoside Reverse Transcriptase Inhibitors |  |  |  |  |  |
 
 Less Common Adverse Reactions
 
@@ -195,9 +195,9 @@ The percentages of adult patients treated with combination therapy with Grade 3-
 Table 6.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Naïve Patients
 
-| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + d4T +3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily + d4T + 3TC (N = 100) | KALETRA Once Daily + TDF +FTC (N=333) | KALETRA Twice Daily + TDF +FTC (N=331) |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  | Study 863 (48 Weeks) |  | Study 720 (360 Weeks) | Study 730 (48 Weeks) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + d4T +3TC (N = 326) | Nelfinavir 750 mg Three Times Daily + d4T + 3TC (N = 327) | KALETRA Twice Daily + d4T + 3TC (N = 100) | KALETRA Once Daily + TDF +FTC (N=333) | KALETRA Twice Daily + TDF +FTC (N=331) |
 | Chemistry | High |  |  |  |  |  |
 | Glucose | > 250 mg/dL | 2% | 2% | 4% | 0% | <1% |
 | Uric Acid | > 12 mg/dL | 2% | 2% | 5% | <1% | 1% |
@@ -212,14 +212,14 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Antiretroviral-Na
 | Calculated Creatinine Clearance | <50 mL/min | N/A | N/A | N/A | 2% | 2% |
 | Hematology | Low |  |  |  |  |  |
 | Neutrophils | <0.75 x 109/L | 1% | 3% | 5% | 2% | 1% |
-| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Criterion for Study 730 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
+| 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Criterion for Study 730 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
 Table 7.
 Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibitor-Experienced Patients
 
-| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily +NRTIs (N=299) |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily +NRTIs (N=299) |
 | Chemistry | High |  |  |  |  |  |
 | Glucose | >250 mg/dL | 1% | 2% | 5% | 2% | 2% |
 | Total Bilirubin | >3.48 mg/dL | 1% | 3% | 1% | 1% | 1% |
@@ -237,7 +237,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibito
 | Hematology | Low |  |  |  |  |  |
 | Neutrophils | <0.75 x 109/L | 1% | 2% | 4% | 3% | 4% |
 | Hemoglobin | <80 g/L | 1% | 1% | 1% | 1% | 2% |
-| 1 ULN = upper limit of the normal range; N/A = Not Applicable.2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz.3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine.4 Criterion for Study 802 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
+| 1 ULN = upper limit of the normal range; N/A = Not Applicable. 2 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 29) or 533/133 mg twice daily (n = 28) for 84 weeks. Patients received KALETRA in combination with NRTIs and efavirenz. 3 Includes clinical laboratory data from patients receiving 400/100 mg twice daily (n = 36) or 400/200 mg twice daily (n = 34) for 144 weeks. Patients received KALETRA in combination with NRTIs and nevirapine. 4 Criterion for Study 802 was >5x ULN (AST/ALT). |  |  |  |  |  |  |
 
 ## 6.2 Pediatric Patients - Clinical Trials Experience
 
@@ -281,16 +281,16 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% Pediatric Patients in Stud
 | Hematology | Low |  |
 | Platelet Count | < 50 x 109/L | 4% |
 | Neutrophils | < 0.40 x 109/L | 2% |
-| 1 ULN = upper limit of the normal range.2 Subjects with Grade 3-4 amylase confirmed by elevations in pancreatic amylase. |  |  |
+| 1 ULN = upper limit of the normal range. 2 Subjects with Grade 3-4 amylase confirmed by elevations in pancreatic amylase. |  |  |
 
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been reported during postmarketing use of KALETRA.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to KALETRA exposure.
 
-Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.8)].
+Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.9)].
 
 Cardiovascular Bradyarrhythmias.
-First–degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.5,5.6)].
+First–degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.6,5.7)].
 
 Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens Johnson Syndrome and erythema multiforme.
