@@ -19,8 +19,7 @@ Protect from freezing.
 
 Rx only
 
-Rev.
-March 2005
+Prescribing Information as of February 2007
 
 Bentyl Capsules, Bentyl Tablets and Bentyl Syrup Manufactured by:
 
@@ -36,8 +35,8 @@ Decatur, IL 62522
 
 Manufactured for:
 
-Axcan Scandipharm Inc.
+Axcan Pharma US Inc.
 
-Birmingham, AL 35242
+Birmingham, AL 35242 USA
 
 www.axcan.com

@@ -16,7 +16,7 @@ Mean volume of distribution for a 20 mg oral dose is approximately 3.65 L/kg sug
 In controlled clinical trials involving over 100 patients who received drug, 82% of patients treated for functional bowel/irritable bowel syndrome with dicyclomine hydrochloride at initial doses of 160 mg daily (40 mg q.i.d.) demonstrated a favorable clinical response compared with 55% treated with placebo (p<.05).
 In these trials most of the side effects were typically anticholinergic in nature (see table) and were reported by 61% of the patients.
 
-| Side Effect | DicyclomineHydrochloride(40 mg q.i.d.)% | Placebo% |
+| Side Effect | DicyclomineHydrochloride(40mg q.i.d.)% | Placebo% |
 | --- | --- | --- |
 | Dry Mouth | 33 | 5 |
 | Dizziness | 29 | 2 |

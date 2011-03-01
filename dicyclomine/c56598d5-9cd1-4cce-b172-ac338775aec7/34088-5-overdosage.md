@@ -16,6 +16,7 @@ Minimum Human Lethal Dose/Maximum Human Dose Recorded
 
 The amount of drug in a single dose that is ordinarily associated with symptoms of overdosage or that is likely to be life-threatening, has not been defined.
 The maximum human oral dose recorded was 600 mg by mouth in a 10-month-old child and approximately 1500 mg in an adult, each of whom survived.
+
 In three of the infants who died following administration of dicyclomine hydrochloride (see WARNINGS), the blood concentrations of drug were 200, 220, and 505 ng/mL, respectively.
 
 Dialysis

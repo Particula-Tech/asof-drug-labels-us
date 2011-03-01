@@ -49,10 +49,13 @@ BENTYL may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking this drug.
 
 BENTYL is contraindicated in infants less than 6 months of age and in nursing mothers.
-(See CONTRAINDICATIONS,WARNINGS, and PRECAUTIONS: Nursing Mothers and Pediatric Use.)
+(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Nursing Mothers and Pediatric Use.)
 
 In the presence of a high environmental temperature, heat prostration can occur with drug use (fever and heat stroke due to decreased sweating).
 If symptoms occur, the drug should be discontinued and a physician contacted.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 ## Drug Interactions
 
@@ -65,6 +68,7 @@ Anticholinergic drugs in the presence of increased intraocular pressure may be h
 Anticholinergic agents may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentration may result.
 Anticholinergic drugs may antagonize the effects of drugs that alter gastrointestinal motility, such as metoclopramide.
 Because antacids may interfere with the absorption of anticholinergic agents, simultaneous use of these drugs should be avoided.
+
 The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid secretion are antagonized by agents used to treat achlorhydria and those used to test gastric secretion.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -72,6 +76,7 @@ The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid sec
 There are no known human data on long-term potential for carcinogenicity or mutagenicity.
 
 Long-term studies in animals to determine carcinogenic potential are not known to have been conducted.
+
 In studies in rats at doses of up to 100 mg/kg/day, BENTYL produced no deleterious effects on breeding, conception, or parturition.
 
 ## Pregnancy
@@ -86,7 +91,7 @@ Because animal reproduction studies are not always predictive of human response,
 ## Nursing Mothers
 
 Since dicyclomine hydrochloride has been reported to be excreted in human milk, BENTYL IS CONTRAINDICATED IN NURSING MOTHERS.
-(See CONTRAINDICATIONS,WARNINGS, PRECAUTIONS: Pediatric Use and ADVERSE REACTIONS.)
+(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Pediatric Use and ADVERSE REACTIONS.)
 
 ## Pediatric Use
 
@@ -97,7 +102,9 @@ Safety and effectiveness in pediatric patients have not been established.
 ## Geriatric Use
 
 Clinical studies of Bentyl did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+Other reported clinical experience has not identified differences in responses between elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See DOSAGE AND ADMINISTRATION) This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+(See DOSAGE AND ADMINISTRATION)
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

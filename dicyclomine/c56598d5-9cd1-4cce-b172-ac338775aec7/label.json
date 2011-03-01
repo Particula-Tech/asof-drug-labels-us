@@ -1,14 +1,39 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA007409",
+    "NDA007961",
+    "NDA008370"
+  ],
   "inn": "dicyclomine",
-  "labeler": "Axcan Scandipharm Inc.",
+  "labeler": "Axcan Pharma Inc.",
   "package_ndcs": [
     "58914-012-10",
     "58914-013-10",
     "58914-015-16",
     "58914-080-52"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Bentyl"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Bentyl"
+    },
+    {
+      "form": "SYRUP",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Bentyl"
+    },
+    {
+      "form": "TABLET",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Bentyl"
+    }
+  ],
   "setid": "c56598d5-9cd1-4cce-b172-ac338775aec7",
   "source": "dailymed"
 }
