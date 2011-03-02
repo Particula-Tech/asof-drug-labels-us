@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022571"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Shionogi Pharma, Inc.",
+  "package_ndcs": [
+    "59630-206-16",
+    "59630-206-47"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "Cuvposa"
+    }
+  ],
+  "setid": "e4c2273a-b35a-4e75-9758-970b04d01a87",
+  "source": "dailymed"
+}
