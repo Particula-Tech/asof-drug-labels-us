@@ -7,7 +7,7 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 Irbesartan-Hydrochlorothiazide
 
-AVALIDE (irbesartan-hydrochlorothiazide) Tablets have been evaluated for safety in 1694 patients treated for essential hypertension in 6 clinical trials.
+AVALIDE Tablets have been evaluated for safety in 1694 patients treated for essential hypertension in 6 clinical trials.
 In Studies I through IV with AVALIDE, no adverse events peculiar to this combination drug product have been observed.
 Adverse events have been limited to those that were reported previously with irbesartan or hydrochlorothiazide (HCTZ).
 The overall incidence of adverse events was similar with the combination and placebo.

@@ -15,6 +15,5 @@ Its empirical formula is C7H8ClN3O4S2 and its structural formula is:
 Hydrochlorothiazide is a white, or practically white, crystalline powder with a molecular weight of 297.7.
 Hydrochlorothiazide is slightly soluble in water and freely soluble in sodium hydroxide solution.
 
-AVALIDE is available for oral administration in tablets containing either 150 mg or 300 mg of irbesartan combined with 12.5 mg of hydrochlorothiazide or 300 mg of irbesartan combined with 25 mg hydrochlorothiazide.
-Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, ferric oxide red, ferric oxide yellow, silicon dioxide, and magnesium stearate.
-In addition, the 300/25 mg pink film-coated tablet contains ferric oxide black, hypromellose-2910, PEG-3350, titanium dioxide, and carnauba wax.
+AVALIDE is available for oral administration in film-coated tablets containing either 150 mg or 300 mg of irbesartan combined with 12.5 mg of hydrochlorothiazide or 300 mg of irbesartan combined with 25 mg hydrochlorothiazide.
+Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, ferric oxide red, ferric oxide yellow, ferric oxide black, silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, titanium dioxide, and carnauba wax.

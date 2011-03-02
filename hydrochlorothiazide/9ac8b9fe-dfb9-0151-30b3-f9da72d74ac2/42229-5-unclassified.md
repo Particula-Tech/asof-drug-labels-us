@@ -1,5 +1,7 @@
-Manufactured by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, New Jersey 08807
 
 Distributed by: Bristol-Myers Squibb Sanofi-Synthelabo Partnership New York, New York 10016
 
-1243926A2 Rev September 2010
+Origin France
+
+1286434 Rev December 2010
