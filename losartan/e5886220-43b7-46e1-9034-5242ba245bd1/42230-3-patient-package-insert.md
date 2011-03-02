@@ -131,4 +131,4 @@ Manufactured for: Lupin Pharmaceuticals, Inc. Baltimore, Maryland 21202 United S
 
 Manufactured by: Lupin Limited Goa 403 722 INDIA
 
-Revised: September 2010 ID #:213465
+Revised: August 2010 ID #:213465

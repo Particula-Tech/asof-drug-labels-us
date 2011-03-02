@@ -2,6 +2,6 @@ Manufactured for: Lupin Pharmaceuticals, Inc. Baltimore, Maryland 21202 United S
 
 Manufactured by: Lupin Limited Goa 403 722 INDIA
 
-Revised: September 2010 ID#:213464
+Revised: December 15 2010 ID#:223341
 
 DISCLAIMER: **Trademark of Paddock Laboratories, Inc.
