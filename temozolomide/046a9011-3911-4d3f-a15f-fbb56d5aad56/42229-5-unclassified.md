@@ -3,8 +3,10 @@ TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corpora
 TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Copyright© 1999, 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
-U.S. Patent Nos. 5,260,291 and 6,987,108.
-Rev 11/10 XXXXXXXXT
+
+TEMODAR Capsules: U.S. Patent No. 5,260,291 TEMODAR for Injection: US Patent Nos. 5,260,291; 6,987,108; 7,786,118
+
+31850940T Rev 2/11
 
 PHARMACIST:
 
@@ -27,10 +29,10 @@ How might the dose of TEMODAR be modified for Refractory Anaplastic Astrocytoma?
 
 Dosage of TEMODAR must be adjusted according to nadir neutrophil and platelet counts in the previous cycle and neutrophil and platelet counts at the time of initiating the next cycle.
 The initial dose is 150 mg/m2 orally once daily for 5 consecutive days per 28-day treatment cycle.
-If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥1.5 × 109/L (1,500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1,500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
+If both the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil counts (ANC) are ≥1.5 × 109/L (1500/µL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are ≥100 × 109/L (100,000/µL), the TEMODAR dose may be increased to 200 mg/m2/ day for 5 consecutive days per 28-day treatment cycle.
+During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to <1.0 × 109/L (1,000/µL) or the platelet count is <50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 1 below).
+If the ANC falls to <1.0 × 109/L (1000/µL) or the platelet count is <50 × 109/L (50,000/µL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 1 below).
 
 What is the TEMODAR Capsules treatment regimen?
 
@@ -41,8 +43,8 @@ Physicians may alter the treatment regimen for a given patient.
 Newly Diagnosed Concomitant Phase Treatment Schedule
 
 TEMODAR is administered orally at 75 mg/m2 daily for 42 days concomitant with focal radiotherapy (60Gy administered in 30 fractions), followed by maintenance TEMODAR for 6 cycles.
-No dose reductions are recommended, however, dose interruptions may occur based on patient tolerance.
-The TEMODAR dose can be continued throughout the 42 day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity ≤Grade 1 (except for alopecia, nausea and vomiting).
+No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
+The TEMODAR dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count ≥1.5 × 109/L, platelet count ≥100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity ≤Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 2.
 PCP prophylaxis is required during the concomitant administration of TEMODAR and radiotherapy and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade ≤1).
@@ -64,9 +66,9 @@ At the start of Cycle 2, the dose is escalated to 200 mg/m2, if the CTC nonhemat
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 
-During treatment a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1,500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
+During treatment a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
-Dose reductions during the next cycle should be based on the lowest blood counts and worst non-hematologic toxicity during the previous cycle.
+Dose reductions during the next cycle should be based on the lowest blood counts and worst nonhematologic toxicity during the previous cycle.
 Dose reductions or discontinuations during the maintenance phase should be applied according to Tables 3 and 4.
 
 TABLE 3: Temozolomide Dose Levels for Maintenance Treatment
@@ -149,8 +151,8 @@ Remember to order enough TEMODAR for the appropriate cycle.
 
 For example:
 
-- a 5-day course of 360-mg/day would require the following to be ordered: two 5-count packages of 180-mg capsules.
-- a 42-day course of 140-mg/day would require the following to be ordered: three 14-count packages of 140-mg capsules.
+- a 5-day course of 360 mg/day would require the following to be ordered: two 5-count packages of 180-mg capsules.
+- a 42-day course of 140 mg/day would require the following to be ordered: three 14-count packages of 140-mg capsules.
 
 For examples of other dosing regimens, please refer to the full Prescribing Information (Table 10)
 
@@ -168,7 +170,7 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 180-mg capsules (14 count) | 0085-1430-02 |
 | 250-mg capsules (5 count) | 0085-1417-01 |
 
-Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK& CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK& CO., INC., Whitehouse Station, NJ 08889 USA
 
 Copyright© 2005 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 U.S. Patent No. 5,260,291.

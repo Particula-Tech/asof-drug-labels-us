@@ -176,9 +176,10 @@ Do not further dilute the reconstituted solution.
 After reconstitution, store at room temperature (25°C [77°F]).
 Reconstituted product must be used within 14 hours, including infusion time.
 
-Using aseptic technique, withdraw up to 40 mL from each vial to make up the total dose based on Table 5 above and transfer into an empty 250 mL PVC infusion bag.2 Compatibility studies with non-PVC bags have not been conducted.
-TEMODAR for Injection should be infused intravenously using a pump over a period of 90 minutes.
+Using aseptic technique, withdraw up to 40 mL from each vial to make up the total dose based on Table 5 above and transfer into an empty 250 mL infusion bag.2 TEMODAR for Injection should be infused intravenously using a pump over a period of 90 minutes.
 TEMODAR for Injection should be administered only by intravenous infusion.
 Flush the lines before and after each TEMODAR infusion.
+
+TEMODAR for Injection may be administered in the same intravenous line with 0.9% Sodium Chloride injection only.
 
 Because no data are available on the compatibility of TEMODAR for Injection with other intravenous substances or additives, other medications should not be infused simultaneously through the same intravenous line.

@@ -234,7 +234,7 @@ Inactive ingredients: mannitol, L-threonine, polysorbate 80, sodium citrate dihy
 
 Issued: February 2009
 
-TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO. INC., Whitehouse Station, NJ 08889, USA
+TEMODAR Capsules Manufactured by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Germany Distributed by: Schering Corporation, a subsidiary of {corporate logo}MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -295,7 +295,7 @@ The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cy
 
 During treatment a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 × 109/L (1500/µL) and the platelet count exceeds 100 × 109/L (100,000/µL).
 The next cycle of TEMODAR should not be started until the ANC and platelet count exceed these levels.
-Dose reductions during the next cycle should be based on the lowest blood counts and worst non-hematologic toxicity during the previous cycle.
+Dose reductions during the next cycle should be based on the lowest blood counts and worst nonhematologic toxicity during the previous cycle.
 Dose reductions or discontinuations during the maintenance phase should be applied according to Tables 2 and 3 in the Full Prescribing Information under 2.1 Recommended Dosing and Dose Modification Guidelines.
 
 How is TEMODAR for Injection prepared?
@@ -316,8 +316,7 @@ Several guidelines on this subject have been published.
    Inspect vials, and any vial containing visible particulate matter should not be used.
    Do not further dilute the reconstituted solution.
    Upon reconstitution, store at room temperature for up to 14 hours, including infusion time.
-5. Using aseptic technique, withdraw up to 40 mL from each vial to make up the total dose and transfer into an empty 250 mL PVC infusion bag.
-   Studies with non-PVC bags have not been conducted.
+5. Using aseptic technique, withdraw up to 40 mL from each vial to make up the total dose and transfer into an empty 250 mL infusion bag.
 6. Attach the pump tubing to the bag, purge the tubing and then cap.
 
 How is TEMODAR for Injection administered?
@@ -327,6 +326,8 @@ TEMODAR for Injection is administered as an intravenous infusion over 90 minutes
 Bioequivalence has been established only when TEMODAR for Injection was given over 90 minutes.
 TEMODAR for Injection should be administered only by intravenous infusion.
 Flush the lines before and after each TEMODAR infusion.
+
+TEMODAR for Injection may be administered in the same intravenous line with 0.9% Sodium Chloride injection only.
 
 Because no data are available on the compatibility of TEMODAR for Injection with other intravenous substances or additives, other medications should not be infused simultaneously through the same intravenous line.
 
@@ -375,7 +376,7 @@ TEMODAR for Injection Manufactured by: Baxter Oncology GmbH, Halle/Westfalen, Ge
 
 Copyright© 2008 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-U.S. Patent Nos. 5,260,291 and 6,987,108.
+U.S. Patent Nos. 5,260,291, 6,987,108, and 7,786,118.
 
 Rev.
-04/10 30984439T
+2/11 30984447T
