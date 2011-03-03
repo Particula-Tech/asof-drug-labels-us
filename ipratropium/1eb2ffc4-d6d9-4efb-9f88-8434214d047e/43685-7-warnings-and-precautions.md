@@ -39,14 +39,19 @@ At an oral dose of 500 mg/kg (approximately 6,000 times the maximum recommended 
 
 Teratogenic Effects: Pregnancy Category B.
 
-Oral reproduction studies were performed at doses of 10 mg/kg in mice, 1,000 mg/kg in rats and 125 mg/kg in rabbits.
-These doses correspond, in each species respectively, to approximately 60, 12,000, and 3,000 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis.
-Inhalation reproduction studies were conducted in rats and rabbits at doses of 1.5 and 1.8 mg/kg, respectively, (approximately 20 and 45 times, respectively, the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
+There are no adequate and well-controlled studies for ATROVENT in pregnant women.
+Because animal reproduction studies are not always predictive of human response, ATROVENT Nasal Spray 0.06% should be used during pregnancy only if clearly needed.
+
+Oral reproduction studies were performed at ipratropium doses of 10 mg/kg in mice, 1,000 mg/kg in rats and 125 mg/kg in rabbits.
+These doses correspond, in each species respectively, to approximately 60, 12,000, and 3,000 times the maximum recommended daily intranasal dose (MRDID) in adults on a mg/m2 basis.
+Inhalation reproduction studies were conducted in rats and rabbits at doses of 1.5 and 1.8 mg/kg, respectively, (approximately 20 and 45 times, respectively, the MRDID in adults on a mg/m2 basis).
 These studies demonstrated no evidence of teratogenic effects as a result of ipratropium bromide.
-At oral doses 90 mg/kg and above in rats (approximately 1,100 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
+At oral doses 90 mg/kg and above in rats (approximately 1,100 times the MRDID in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
 This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
-However, no adequate or well controlled studies have been conducted in pregnant women.
-Because animal reproduction studies are not always predictive of human response, Atrovent® (ipratropium bromide) Nasal Spray 0.06% should be used during pregnancy only if clearly needed.
+
+## Labor and Delivery
+
+The effect of ipratropium bromide on labor and delivery is unknown.
 
 ## Nursing Mothers
 

@@ -16,8 +16,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH
 
-Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Rev: July 2010
+Revised: March 2011
 
-IT5000DG1710 4042182/08
+IT5000EC012011 4042182/09
