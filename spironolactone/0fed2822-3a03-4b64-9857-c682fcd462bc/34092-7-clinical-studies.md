@@ -39,7 +39,7 @@ Changes in NYHA class were more favorable with spironolactone: In the spironolac
 
 Mortality hazard ratios for some subgroups are shown in Figure 2.
 The favorable effect of spironolactone on mortality appeared similar for both genders and all age groups except patients younger than 55; there were too few non-whites in RALES to draw any conclusions about differential effects by race.
-Spironolactone’s benefit appeared greater in patients with low baseline serum potassium levels and less in patients with ejection fractions <0.2.
+Spironolactone's benefit appeared greater in patients with low baseline serum potassium levels and less in patients with ejection fractions <0.2.
 These subgroup analyses must be interpreted cautiously.
 
 Figure 2.
