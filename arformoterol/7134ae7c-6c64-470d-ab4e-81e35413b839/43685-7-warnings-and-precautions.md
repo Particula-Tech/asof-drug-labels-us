@@ -1,12 +1,14 @@
 # WARNINGS
 
-- ASTHMA RELATED DEATH Long-acting beta2-adrenergic agonists increase the risk of asthma-related death.
+- ASTHMA RELATED DEATHLong-acting beta2-adrenergic agonists increase the risk of asthma-related death.
   The safety and efficacy of BROVANA in patients with asthma have not been established.
-  All LABA, including BROVANA, are contraindicated in patients with asthma without use of a long-term asthma control medication (see CONTRAINDICATIONS).Clinical studies with racemic formoterol (Foradil® Aerolizer™) suggested a higher incidence of serious asthma exacerbations in patients who received racemic formoterol than in those who received placebo.
-  The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+  All LABA, including BROVANA, are contraindicated in patients with asthma without use of a long-term asthma control medication (see CONTRAINDICATIONS).
   - A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
     The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including BROVANA.
     No study adequate to determine whether the rate of asthma related death is increased in patients treated with BROVANA has been conducted.
+  - Clinical studies with racemic formoterol (Foradil® Aerolizer™) suggested a higher incidence of serious asthma exacerbations in patients who received racemic formoterol than in those who received placebo.
+    The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+
 - The studies described above enrolled patients with asthma.
   Data are not available to determine whether the rate of death in patients with COPD is increased by long-acting beta2-adrenergic agonists.
 - BROVANA is indicated for the long term, twice daily (morning and evening) maintenance treatment for bronchoconstriction in chronic obstructive pulmonary disease (COPD), and is not indicated for the treatment of acute episodes of bronchospasm, i.e., rescue therapy.

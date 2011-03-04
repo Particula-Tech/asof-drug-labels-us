@@ -19,12 +19,14 @@ Discard any ready-to-use vial if the solution is not colorless.
 Unopened foil pouches of BROVANA can also be stored at room temperature 68°-77°F, (20°-25°C) for up to 6 weeks.
 If stored at room temperature, discard if not used after 6 weeks or if past the expiration date, whichever is sooner.
 
-SEPRACOR
+SUNOVION
 
-Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA For customer service, call 1-888-394-7377.
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA For customer service, call 1-888-394-7377.
 To report adverse events, call 1-877-737-7226.
 For medical information, call 1-800-739-0565.
 
-June 2010
+BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc.
 
-901005R05
+January 2011
+
+901005R06

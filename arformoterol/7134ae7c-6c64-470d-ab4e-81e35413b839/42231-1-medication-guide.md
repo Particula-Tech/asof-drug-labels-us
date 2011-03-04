@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
-BROVANA [Brō vă -´nah]
+BROVANA® [Brō vă´-nah]
 
 (arformoterol tartrate) Inhalation Solution
 
@@ -91,7 +91,7 @@ Read the step-by-step instructions for using BROVANA at the end of this Medicati
   Your healthcare provider will change your medicines as needed.
 - Do not use BROVANA:
   - more often than prescribed
-  - more medicine than prescribed for you
+  - more medicine than prescribed to you
   - with other LABA medicines
 
 Call your healthcare provider or get emergency medical care right away if:
@@ -105,8 +105,8 @@ What are the possible side effects with BROVANA?
 BROVANA can cause serious side effects, including:
 
 - See “What is the most important information I should know about BROVANA?”
-- Sudden shortness of breath immediately after use of Brovana
-- If your COPD symptoms worsen over time do not increase your dose of Brovana, instead call your healthcare provider.
+- Sudden shortness of breath immediately after use of BROVANA
+- If your COPD symptoms worsen over time do not increase your dose of BROVANA, instead call your healthcare provider.
 - Increased blood pressure
 - Fast or irregular heartbeat
 - serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
@@ -197,8 +197,10 @@ Rx Only
 
 This Medication Guide has been approved by the Food and Drug Administration.
 
-SEPRACOR Manufactured for: Sepracor Inc. Marlborough, MA 01752 USA
+SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
-June 2010
+BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc.
 
-901005R05
+January 2011
+
+901005R06
