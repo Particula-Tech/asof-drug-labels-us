@@ -141,16 +141,25 @@ Prescribers should exercise caution in considering the use of REMICADE in patien
 
 ## 5.9 Use with Anakinra
 
-Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
-Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
+Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
+Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of REMICADE and anakinra is not recommended.
 
-## 5.10 Autoimmunity
+## 5.10 Use with Abatacept
+
+In clinical studies, concurrent administration of TNF-blocking agents and abatacept have been associated with an increased risk of infections including serious infections compared with TNF-blocking agents alone, without increased clinical benefit.
+Therefore, the combination of REMICADE and abatacept is not recommended [see Drug Interactions (7.1)].
+
+## 5.11 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
+
+Care should be taken when switching from one biologic to another, since overlapping biological activity may further increase the risk of infection.
+
+## 5.12 Autoimmunity
 
 Treatment with REMICADE may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with REMICADE, treatment should be discontinued [see Adverse Reactions (6.1)].
 
-## 5.11 Vaccinations
+## 5.13 Vaccinations
 
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.

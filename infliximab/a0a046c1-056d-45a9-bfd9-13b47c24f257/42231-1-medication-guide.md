@@ -34,7 +34,7 @@ Before starting REMICADE, tell your doctor if you:
   These infections may develop or become more severe if you take REMICADE.
   If you do not know if you have lived in an area where histoplasmosis, coccidioidomycosis, or blastomycosis is common, ask your doctor.
 - have or have had hepatitis B
-- use the medicine Kineret (anakinra)
+- use the medicines KINERET (anakinra), ORENCIA (abatacept) or ACTEMRA (tocilizumab)
 
 After starting REMICADE, if you have an infection, any sign of an infection including a fever, cough, flu-like symptoms, or have open cuts or sores on your body, call your doctor right away.
 REMICADE can make you more likely to get infections or make any infection that you have worse.
@@ -127,7 +127,7 @@ How should I receive REMICADE?
 
 What should I avoid while receiving REMICADE?
 
-Do not take REMICADE and the medication KINERET (anakinra) together.
+Do not take REMICADE and the medications KINERET (anakinra), ORENCIA (abatacept) or ACTEMRA (tocilizumab) together.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -290,8 +290,8 @@ Product developed and manufactured by: Centocor Ortho Biotech Inc. 200 Great Val
 
 License # 1821
 
-Revised November 2009
+Revised February 2011
 
-©Centocor Ortho Biotech Inc. 2009
+©Centocor Ortho Biotech Inc. 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

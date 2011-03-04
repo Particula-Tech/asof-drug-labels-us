@@ -80,7 +80,7 @@ Similar proportions of patients in either group developed new fistulas (17% over
 Active Crohn's Disease in Pediatric Patients
 
 The safety and efficacy of REMICADE were assessed in a randomized, open-label study (Study Peds Crohn's) in 112 pediatric patients aged 6 to 17 years old with moderately to severely active Crohn's disease and an inadequate response to conventional therapies.
-The median age was 13 years and the median Pediatric Crohn's Disease Activity Index (PCDAI) was 40 (on a scale of 0 to 100).
+The median age was 13 years and the median Pediatric Crohn's disease Activity Index (PCDAI) was 40 (on a scale of 0 to 100).
 All patients were required to be on a stable dose of 6-MP, AZA, or MTX; 35% were also receiving corticosteroids at baseline.
 
 All patients received induction dosing of 5 mg/kg REMICADE at Weeks 0, 2, and 6.
