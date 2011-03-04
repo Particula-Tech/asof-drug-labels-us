@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019830"
+  ],
   "inn": "lidocaine",
   "labeler": "B. Braun Medical Inc.",
   "package_ndcs": [
@@ -9,7 +11,13 @@
     "0264-9598-10",
     "0264-9598-20"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lidocaine hydrochloride anhydrous and dextrose monohydrate",
+      "name": "Lidocaine Hydrochloride and Dextrose"
+    }
+  ],
   "setid": "7dff29d9-522d-40eb-a9d9-42377912d640",
   "source": "dailymed"
 }

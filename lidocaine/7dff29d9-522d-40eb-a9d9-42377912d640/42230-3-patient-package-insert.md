@@ -21,6 +21,6 @@ NOTE: Before use, perform the following checks:
 
 Preparation for Administration
 
-1. Remove plastic protector from sterile set port a bottom of container.
+1. Remove plastic protector from sterile set port at bottom of container.
 2. Attach administration set.
-   Refer to complete directions accompanying set.
+   Refer to complete directions accompanying set
