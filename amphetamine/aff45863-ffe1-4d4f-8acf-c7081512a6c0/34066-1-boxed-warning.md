@@ -1,7 +1,7 @@
-AMPHETAMINES HAVE A HIGH POTENTIAL FOR ABUSE.
-ADMINISTRATION OF
+WARNING: POTENTIAL FOR ABUSE
 
-AMPHETAMINES FOR PROLONGED PERIODS OF TIME MAY LEAD TO DRUG DEPENDENCE.
-PARTICULAR ATTENTION SHOULD BE PAID TO THE POSSIBILITY OF SUBJECTS OBTAINING AMPHETAMINES FOR NON-THERAPEUTIC USE OR DISTRIBUTION TO OTHERS AND THE DRUGS SHOULD BE PRESCRIBED OR DISPENSED SPARINGLY.
+Amphetamines have a high potential for abuse.
+Administration of amphetamines for prolonged periods of time may lead to drug dependence.
+Pay particular attention to the possibility of subjects obtaining amphetamines for non-therapeutic use or distribution to others and the drugs should be prescribed or dispensed sparingly [see DRUG ABUSE AND DEPENDENCE (9)].
 
-MISUSE OF AMPHETAMINE MAY CAUSE SUDDEN DEATH AND SERIOUS CARDIOVASCULAR ADVERSE EVENTS.
+Misuse of amphetamine may cause sudden death and serious cardiovascular adverse reactions.

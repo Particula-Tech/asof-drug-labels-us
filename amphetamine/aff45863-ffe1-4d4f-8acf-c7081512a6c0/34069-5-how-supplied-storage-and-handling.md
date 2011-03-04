@@ -1,16 +1,16 @@
-# HOW SUPPLIED:
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ADDERALL XR®5 mg Capsules: Clear/blue (imprinted ADDERALL XR 5 mg), bottles of 100, NDC 54092-381-01
+ADDERALL XR 5 mg Capsules: Clear/blue (imprinted ADDERALL XR 5 mg), bottles of 100, NDC 54092-381-01
 
-ADDERALL XR®10 mg Capsules: Blue/blue (imprinted ADDERALL XR 10 mg), bottles of 100, NDC 54092-383-01
+ADDERALL XR 10 mg Capsules: Blue/blue (imprinted ADDERALL XR 10 mg), bottles of 100, NDC 54092-383-01
 
-ADDERALL XR®15 mg Capsules: Blue/white (imprinted ADDERALL XR 15 mg), bottles of 100, NDC 54092-385-01
+ADDERALL XR 15 mg Capsules: Blue/white (imprinted ADDERALL XR 15 mg), bottles of 100, NDC 54092-385-01
 
-ADDERALL XR®20 mg Capsules: Orange/orange (imprinted ADDERALL XR 20 mg), bottles of 100, NDC 54092-387-01
+ADDERALL XR 20 mg Capsules: Orange/orange (imprinted ADDERALL XR 20 mg), bottles of 100, NDC 54092-387-01
 
-ADDERALL XR®25 mg Capsules: Orange/white (imprinted ADDERALL XR 25 mg), bottles of 100, NDC 54092-389-01
+ADDERALL XR 25 mg Capsules: Orange/white (imprinted ADDERALL XR 25 mg), bottles of 100, NDC 54092-389-01
 
-ADDERALL XR®30 mg Capsules: Natural/orange (imprinted ADDERALL XR 30 mg), bottles of 100, NDC 54092-391-01
+ADDERALL XR 30 mg Capsules: Natural/orange (imprinted ADDERALL XR 30 mg), bottles of 100, NDC 54092-391-01
 
 Dispense in a tight, light-resistant container as defined in the USP.
 

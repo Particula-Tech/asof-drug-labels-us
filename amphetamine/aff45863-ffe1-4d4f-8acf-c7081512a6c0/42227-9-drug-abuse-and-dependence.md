@@ -1,6 +1,10 @@
-# DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-ADDERALL XR® is a Schedule II controlled substance.
+## 9.1 Controlled Substance
+
+ADDERALL XR is a Schedule II controlled substance.
+
+## 9.2 Abuse and Dependence
 
 Amphetamines have been extensively abused.
 Tolerance, extreme psychological dependence, and severe social disability have occurred.
