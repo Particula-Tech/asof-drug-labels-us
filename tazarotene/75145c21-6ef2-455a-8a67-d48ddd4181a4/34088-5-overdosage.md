@@ -1,4 +1,4 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 Excessive topical use of TAZORAC® Gel may lead to marked redness, peeling, or discomfort (see PRECAUTIONS: General).
 

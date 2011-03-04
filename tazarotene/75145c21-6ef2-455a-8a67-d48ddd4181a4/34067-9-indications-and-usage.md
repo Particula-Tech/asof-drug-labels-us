@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
 TAZORAC® (tazarotene) Gel 0.05% and 0.1% are indicated for the topical treatment of patients with stable plaque psoriasis of up to 20% body surface area involvement.
 

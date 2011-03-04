@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Tazarotene is a retinoid prodrug which is converted to its active form, the cognate carboxylic acid of tazarotene (AGN 190299), by rapid deesterification in animals and man.
 AGN 190299 (“tazarotenic acid”) binds to all three members of the retinoic acid receptor (RAR) family: RARα, RARβ, and RARγ but shows relative selectivity for RARβ, and RARγ and may modify gene expression.
@@ -16,11 +16,9 @@ However, the basis of tazarotene's therapeutic effect in acne may be due to its 
 Tazarotene inhibited corneocyte accumulation in rhino mouse skin and cross-linked envelope formation in cultured human keratinocytes.
 The clinical significance of these findings is unknown.
 
-## Pharmacokinetics:
-
-Following topical application, tazarotene undergoes esterase hydrolysis to form its active metabolite, tazarotenic acid.
+Pharmacokinetics: Following topical application, tazarotene undergoes esterase hydrolysis to form its active metabolite, tazarotenic acid.
 Little parent compound could be detected in the plasma.
-Tazarotenic acid was highly bound to plasma proteins (>99%).
+Tazarotenic acid was highly bound to plasma proteins (greater than 99%).
 Tazarotene and tazarotenic acid were metabolized to sulfoxides, sulfones and other polar metabolites which were eliminated through urinary and fecal pathways.
 The half-life of tazarotenic acid was approximately 18 hours, following topical application of tazarotene to normal, acne or psoriatic skin.
 
@@ -39,35 +37,31 @@ The Cmax for tazarotenic acid was 12.0 ± 7.6 ng/mL occurring 6 hours after the 
 Systemic absorption was 14.8 ± 7.6% of the applied dose.
 Extrapolation of these results to represent dosing on 20% of total body surface yielded estimates for tazarotenic acid with Cmax of 18.9 ± 10.6 ng/mL and AUC0-24hr of 172 ± 88 ng·hr/mL.
 
-An in vitro percutaneous absorption study, using radiolabeled drug and freshly excised human skin or human cadaver skin, indicated that approximately 4 to 5% of the applied dose was in the stratum corneum (tazarotene: tazarotenic acid= 5:1) and 2 to 4% was in the viable epidermis-dermis layer (tazarotene: tazarotenic acid= 2:1) 24 hours after topical application of the gel.
+An in vitro percutaneous absorption study, using radiolabeled drug and freshly excised human skin or human cadaver skin, indicated that approximately 4 to 5% of the applied dose was in the stratum corneum (tazarotene: tazarotenic acid = 5:1) and 2 to 4% was in the viable epidermis-dermis layer (tazarotene: tazarotenic acid = 2:1) 24 hours after topical application of the gel.
 
-## Clinical Studies:
+## Clinical Studies
 
-### Psoriasis:
-
-In two large vehicle-controlled clinical studies, tazarotene 0.05% and 0.1% gels applied once daily for 12 weeks were significantly more effective than vehicle in reducing the severity of the clinical signs of stable plaque psoriasis covering up to 20% of body surface area.
+Psoriasis: In two large vehicle-controlled clinical studies, tazarotene 0.05% and 0.1% gels applied once daily for 12 weeks were significantly more effective than vehicle in reducing the severity of the clinical signs of stable plaque psoriasis covering up to 20% of body surface area.
 In one of the studies, patients were followed up for an additional 12 weeks following cessation of therapy with TAZORAC® Gel.
-Mean baseline scores and changes from baseline (reductions) after treatment in these two studies are shown in the following Table:
+Mean baseline scores and changes from baseline (reductions) after treatment in these two studies are shown in the following table:
 
-Plaque Elevation, Scaling and Erythema in Two Controlled Clinical Trials for Psoriasis
+Plaque Elevation, Scaling, and Erythema in Two Controlled Clinical Trials for Psoriasis
 
-|  |  | N=108 | N=111 | N=108 | N=111 | N=108 | N=112 | N=108 | N=112 | N=108 | N=113 | N=108 | N=113 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | TAZORAC® 0.05% Gel |  |  |  | TAZORAC® 0.1% Gel |  |  |  | Vehicle Gel |  |  |  |
-|  |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  | Trunk/Arm/ Leg lesions |  | Knee/Elbow lesions |  |
-| Plaque elevation | B* C-12* C-24* | 2.5 -1.4 -1.2 | 2.6 -1.3 | 2.6 -1.3 -1.1 | 2.6 -1.1 | 2.5 -1.4 -1.1 | 2.6 -1.4 | 2.6 -1.5 -1.0 | 2.6 -1.3 | 2.4 -0.8 -0.9 | 2.6 -0.7 | 2.6 -0.7 -0.7 | 2.6 -0.6 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Trunk/Arm/Leg Lesions |  | Knee/Elbow Lesions |  | Trunk/Arm/Leg Lesions |  | Knee/Elbow Lesions |  | Trunk/Arm/Leg Lesions |  | Knee/Elbow Lesions |  |  |  |
+| N=108 | N=111 | N=108 | N=111 | N=108 | N=112 | N=108 | N=112 | N=108 | N=113 | N=108 | N=113 |  |  |
+| Plaque Elevation | B* C-12* C-24* | 2.5 -1.4 -1.2 | 2.6 -1.3 | 2.6 -1.3 -1.1 | 2.6 -1.1 | 2.5 -1.4 -1.1 | 2.6 -1.4 | 2.6 -1.5 -1.0 | 2.6 -1.3 | 2.4 -0.8 -0.9 | 2.6 -0.7 | 2.6 -0.7 -0.7 | 2.6 -0.6 |
 | Scaling | B* C-12* C-24* | 2.4 -1.1 -0.9 | 2.5 -1.1 | 2.5 -1.1 -0.8 | 2.6 -0.9 | 2.4 -1.3 -1.0 | 2.6 -1.3 | 2.5 -1.2 -0.8 | 2.7 -1.2 | 2.4 -0.7 -0.8 | 2.6 -0.7 | 2.5 -0.6 -0.7 | 2.7 -0.6 |
 | Erythema | B* C-12* C-24* | 2.4 -1.0 -1.1 | 2.7 -0.8 | 2.2 -0.9 -0.7 | 2.5 -0.8 | 2.4 -1.0 -0.9 | 2.8 -1.1 | 2.3 -1.0 -0.8 | 2.5 -0.8 | 2.3 -0.6 -0.7 | 2.7 -0.5 | 2.2 -0.5 -0.6 | 2.5 -0.5 |
-| Plaque elevation, scaling and erythema scored on a 0-4 scale with 0=none, 1=mild, 2=moderate, 3=severe and 4=very severe. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *B=Mean Baseline Severity: C-12=Mean Change from Baseline at end of 12 weeks of therapy: |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| C-24=Mean Change from Baseline at week 24 (12 weeks after the end of therapy). |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Plaque elevation, scaling, and erythema scored on a 0-4 scale with 0=none, 1=mild, 2=moderate, 3=severe and 4=very severe. B*=Mean Baseline Severity: C-12*=Mean Change from Baseline at end of 12 weeks of therapy: C-24*=Mean Change from Baseline at week 24 (12 weeks after the end of therapy). |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Global improvement over baseline at the end of 12 weeks of treatment in these two studies is shown in the following Table:
+Global improvement over baseline at the end of 12 weeks of treatment in these two studies is shown in the following table:
 
-|  | N=81 | N=93 | N=79 | N=69 | N=84 | N=91 |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | TAZORAC® 0.05% Gel |  | TAZORAC® 0.1% Gel |  | Vehicle Gel |  |
-| 100% improvement | 2 (2%) | 1(1%) | 0 | 0 | 1 (1%) | 0 |
+| --- | --- | --- | --- | --- | --- | --- |
+| N=81 | N=93 | N=79 | N=69 | N=84 | N=91 |  |
+| 100% improvement | 2 (2%) | 1 (1%) | 0 | 0 | 1 (1%) | 0 |
 | ≥75% improvement | 23 (28%) | 17 (18%) | 30 (38%) | 17 (25%) | 10 (12%) | 9 (10%) |
 | ≥50% improvement | 42 (52%) | 39 (42%) | 51 (65%) | 36 (52%) | 28 (33%) | 21 (23%) |
 | 1-49% improvement | 21 (26%) | 32 (34%) | 18 (23%) | 23 (33%) | 27 (32%) | 32 (35%) |
@@ -75,25 +69,23 @@ Global improvement over baseline at the end of 12 weeks of treatment in these tw
 
 The 0.1% gel was more effective than the 0.05% gel, but the 0.05% gel was associated with less local irritation than the 0.1% gel (see ADVERSE REACTIONS section).
 
-### Acne:
-
-In two large vehicle-controlled studies, tazarotene 0.1% gel applied once daily was significantly more effective than vehicle in the treatment of facial acne vulgaris of mild to moderate severity.
-Percent reductions in lesion counts after treatment for 12 weeks in these two studies are shown in the following Table:
+Acne: In two large vehicle-controlled studies, tazarotene 0.1% gel applied once daily was significantly more effective than vehicle in the treatment of facial acne vulgaris of mild to moderate severity.
+Percent reductions in lesion counts after treatment for 12 weeks in these two studies are shown in the following table:
 
 Reduction in Lesion Counts after Twelve Weeks of Treatment in Two Controlled Clinical Trials for Acne
 
-|  | N=150 | N=149 | N=148 | N=149 |
-| --- | --- | --- | --- | --- |
 |  | TAZORAC® 0.1% Gel |  | Vehicle Gel |  |
+| --- | --- | --- | --- | --- |
+| N=150 | N=149 | N=148 | N=149 |  |
 | Noninflammatory lesions | 55% | 43% | 35% | 27% |
 | Inflammatory lesions | 42% | 47% | 30% | 28% |
 | Total lesions | 52% | 45% | 33% | 27% |
 
-Global improvement over baseline at the end of 12 weeks of treatment in these two studies is shown in the following Table:
+Global improvement over baseline at the end of 12 weeks of treatment in these two studies is shown in the following table:
 
-|  | N=105 | N=117 | N=117 | N=110 |
-| --- | --- | --- | --- | --- |
 |  | TAZORAC® 0.1% Gel |  | Vehicle Gel |  |
+| --- | --- | --- | --- | --- |
+| N=105 | N=117 | N=117 | N=110 |  |
 | 100% improvement | 1 (1%) | 0 | 0 | 0 |
 | ≥75% improvement | 40 (38%) | 21 (18%) | 23 (20%) | 11 (10%) |
 | ≥50% improvement | 71 (68%) | 56 (48%) | 47 (40%) | 32 (29%) |
