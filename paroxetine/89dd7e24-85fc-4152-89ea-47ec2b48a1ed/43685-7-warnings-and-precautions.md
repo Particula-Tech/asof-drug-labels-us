@@ -87,28 +87,23 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 
 ### Teratogenic Effects
 
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
-The findings from these studies are summarized below:
-
-- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
-  No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
-  The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
-  Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
-  This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
-  Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
-  This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
-- Two large case-control studies using separate databases, each with > 9,000 birth defect cases and > 4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
-  In one study the odds ratio was 2.5 (95% confidence interval, 1 to 6, 7 exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
-
-Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
-A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
-While subject to limitations, this meta-analysis suggested an increased occurrence of cardiovascular malformations (prevalence odds ratio [POR] 1.5; 95% confidence interval 1.2 to 1.9) and overall malformations (POR 1.2; 95% confidence interval 1.1 to 1.4) with paroxetine use during the first trimester.
-It was not possible in this meta-analysis to determine the extent to which the observed prevalence of cardiovascular malformations might have contributed to that of overall malformations, nor was it possible to determine whether any specific types of cardiovascular malformations might have contributed to the observed prevalence of all cardiovascular malformations.
-
+Epidemiological studies have shown that infants born to women who had first trimester paroxetine exposure had an increased risk of cardiovascular malformations, primarily ventricular and atrial septal defects (VSDs and ASDs).
+In general, septal defects range from those that are symptomatic and may require surgery to those that are asymptomatic and may resolve spontaneously.
 If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment with Paroxetine).
+Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment with Paroxetine Hydrochloride).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
+
+A study based on Swedish national registry data evaluated infants of 6,896 women exposed to antidepressants in early pregnancy (5,123 women exposed to SSRIs; including 815 for paroxetine).
+Infants exposed to paroxetine in early pregnancy had an increased risk of cardiovascular malformations (primarily VSDs and ASDs) compared to the entire registry population (OR 1.8; 95% confidence interval 1.1 to 2.8).
+The rate of cardiovascular malformations following early pregnancy paroxetine exposure was 2% vs. 1% in the entire registry population.
+Among the same paroxetine exposed infants, an examination of the data showed no increase in the overall risk for congenital malformations.
+
+A separate retrospective cohort study using US United Healthcare data evaluated 5,956 infants of mothers dispensed paroxetine or other antidepressants during the first trimester (n = 815 for paroxetine).
+This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine compared to other antidepressants (OR 1.5; 95% confidence interval 0.8 to 2.9).
+The prevalence of cardiovascular malformations following first trimester dispensing was 1.5% for paroxetine vs. 1% for other antidepressants.
+Nine out of 12 infants with cardiovascular malformations whose mothers were dispensed paroxetine in the first trimester had VSDs.
+This study also suggested an increased risk of overall major congenital malformations (inclusive of the cardiovascular defects) for paroxetine compared to other antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
+The prevalence of all congenital malformations following first trimester exposure was 4% for paroxetine vs. 2% for other antidepressants.
 
 ### Animal Findings
 
@@ -472,7 +467,7 @@ Like many other drugs, paroxetine is secreted in human milk, and caution should 
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
-Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with paroxetine hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
+Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with immediate-release paroxetine hydrochloride, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of paroxetine hydrochloride in a child or adolescent must balance the potential risks with the clinical need.
 
 In placebo-controlled clinical trials conducted with pediatric patients, the following adverse events were reported in at least 2% of pediatric patients treated with paroxetine hydrochloride and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.

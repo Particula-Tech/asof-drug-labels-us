@@ -47,4 +47,4 @@ PHARMACIST: Dispense a Medication Guide with each prescription.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2010 PXTT: R4mc
+REVISED FEBRUARY 2011 PXTT: R5mc
