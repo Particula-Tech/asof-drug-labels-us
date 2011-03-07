@@ -9,7 +9,7 @@ The following potential adverse reactions are described in Warnings and Precauti
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In a 12-week placebo-controlled study (TRIUMPH I) of 235 patients with PAH (WHO Group I and nearly all NYHA Functional Class III), the most commonly reported adverse reactions on Tyvaso included: cough and throat irritation; headache, gastrointestinal effects, muscle, jaw or bone pain, flushing and syncope.
+In a 12-week placebo-controlled study (TRIUMPH I) of 235 patients with PAH (WHO Group 1 and nearly all NYHA Functional Class III), the most commonly reported adverse reactions on Tyvaso included: cough and throat irritation; headache, gastrointestinal effects, muscle, jaw or bone pain, flushing and syncope.
 Table 1 lists the adverse reactions that occurred at a rate of at least 4% and were more frequent in patients treated with Tyvaso than with placebo.
 
 Table 1: Adverse Events in ≥ 4% of PAH Patients Receiving Tyvaso and More FrequentMore than 3% greater than placebo than Placebo

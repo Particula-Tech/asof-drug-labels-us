@@ -117,8 +117,6 @@ Active ingredient: treprostinil Inactive ingredients: sodium chloride, sodium ci
 
 Tyvaso is a trademark of United Therapeutics Corporation.
 
-Tyvaso is jointly marketed by United Therapeutics Corporation and Lung Rx, Inc.
+Literature issued February 2011
 
-Literature issued July 2009
-
-United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2009, United Therapeutics Corp. All rights reserved.
+United Therapeutics Corp. Research Triangle Park, NC 27709 USA Copyright © 2011, United Therapeutics Corp. All rights reserved.

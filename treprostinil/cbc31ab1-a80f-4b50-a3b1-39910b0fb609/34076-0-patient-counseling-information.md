@@ -11,14 +11,8 @@ If Tyvaso comes in contact with the skin or eyes, instruct patients to rinse imm
 
 US Patent No. 5,153,222 US Patent No. 6,765,117 US Patent No. 6,521,212 US Patent No. 6,756,033
 
+©Copyright 2011 United Therapeutics Corp. All rights reserved.
+
+Tyvaso manufactured for:
+
 United Therapeutics Corp. Research Triangle Park, NC 27709
-
-©Copyright 2009 United Therapeutics Corp. All rights reserved.
-
-Tyvaso manufactured by:
-
-Catalent Pharma Solutions Woodstock, IL 60098
-
-For United Therapeutics Corp. Research Triangle Park, NC 27709
-
-July 2009
