@@ -216,6 +216,8 @@ Blood and Lymphatic System Disorders: thrombocytopenia
 
 Gastrointestinal Disorders: diarrhea
 
+Hepatobiliary Disorders: hepatic failure (with and without associated hypersensitivity) in patients with underlying liver disease and/or concomitant medications
+
 Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
 
 Psychiatric Disorders: anxiety, paranoia
