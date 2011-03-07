@@ -1,3 +1,5 @@
+FDA-Approved Patient Labeling
+
 PATIENT INFORMATION
 
 DIOVAN HCT (DYE’-o-van HCT)
@@ -125,6 +127,12 @@ Call your doctor right away.
   If you have heart failure, your doctor should check your kidney function before prescribing DIOVAN HCT.
 - Skin rash.
   Call your doctor right away if you have an unusual skin rash.
+- Eye Problems.
+  One of the medicines in DIOVAN HCT can cause eye problems that may lead to vision loss.
+  Symptoms of eye problems can happen within hours to weeks of starting DIOVAN HCT.
+  Tell your doctor right away if you have:
+  - decrease in vision
+  - eye pain
 
 Other side effects were generally mild and brief.
 They generally have not caused patients to stop taking DIOVAN HCT.
@@ -182,4 +190,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-Revised: APRIL 2010 T2010-06/T2008-20
+T2011-11

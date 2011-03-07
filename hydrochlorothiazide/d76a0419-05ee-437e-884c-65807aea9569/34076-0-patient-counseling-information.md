@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+Information for Patients
 
 Pregnancy: Female patients of childbearing age should be told that use of drugs like Diovan HCT that act on the renin-angiotensin system during pregnancy can cause serious problems in the fetus and infant including: low blood pressure, poor development of skull bones, kidney failure and death.
 Discuss other treatment options with female patients planning to become pregnant.
@@ -12,5 +12,3 @@ The patients should be told that if syncope occurs, Diovan HCT should be discont
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
 Potassium Supplements: A patient receiving Diovan HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
-
-## 17.2 FDA-Approved Patient Labeling
