@@ -86,7 +86,7 @@ Skin and Appendages: angioedema, erythema multiforme, rash erythematous, rash ma
 
 Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus
 
-Urinary System: micturation frequency, micturation disorder, nocturia
+Urinary System: micturition frequency, micturition disorder, nocturia
 
 Autonomic Nervous System: sweating increased
 

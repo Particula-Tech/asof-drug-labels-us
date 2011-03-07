@@ -110,6 +110,12 @@ Call your doctor right away.
 - allergic reactions
 - skin rash.
   Call your doctor right away if you get an unusual skin rash.
+- eye problems.
+  One of the medicines in EXFORGE HCT can cause eye problems that may lead to vision loss.
+  Symptoms of eye problems can happen within hours to weeks of starting EXFORGE HCT.
+  Tell your doctor right away if you have:
+  - decrease in vision
+  - eye pain
 
 The most common side effects of EXFORGE HCT include:
 
@@ -166,7 +172,7 @@ Drugs that lower blood pressure lower your chance of having a stroke or heart at
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
 
-REV: AUGUST 2009 T2009-93/T2009-02
+T2011-10
 
 Distributed by:
 
