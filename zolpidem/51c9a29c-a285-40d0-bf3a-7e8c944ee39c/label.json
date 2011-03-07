@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA078413"
+  ],
+  "inn": "zolpidem",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "16714-621-01",
+    "16714-621-02",
+    "16714-621-10",
+    "16714-621-11",
+    "16714-622-01",
+    "16714-622-02",
+    "16714-622-10",
+    "16714-622-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolpidem tartrate",
+      "name": "Zolpidem Tartrate"
+    }
+  ],
+  "setid": "51c9a29c-a285-40d0-bf3a-7e8c944ee39c",
+  "source": "dailymed"
+}
