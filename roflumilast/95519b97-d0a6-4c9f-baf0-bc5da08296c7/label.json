@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022522"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Forest Laboratories, Inc.",
+  "package_ndcs": [
+    "0456-0095-30",
+    "0456-0095-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "Daliresp"
+    }
+  ],
+  "setid": "95519b97-d0a6-4c9f-baf0-bc5da08296c7",
+  "source": "dailymed"
+}
