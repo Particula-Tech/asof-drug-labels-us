@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090547"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-1626-05",
+    "0378-1626-93",
+    "0378-1640-05",
+    "0378-1640-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "voriconazole",
+      "name": "Voriconazole"
+    }
+  ],
+  "setid": "67c174da-41b8-4738-8a22-dd814b8e96b8",
+  "source": "dailymed"
+}
