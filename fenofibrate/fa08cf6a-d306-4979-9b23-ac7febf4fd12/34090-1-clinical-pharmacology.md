@@ -2,7 +2,7 @@
 
 A variety of clinical studies have demonstrated that elevated levels of total cholesterol (total-C), low density lipoprotein cholesterol (LDL-C), and apolipoprotein B (apo B), an LDL membrane complex, are associated with human atherosclerosis.
 Similarly, decreased levels of high density lipoprotein cholesterol (HDL-C) and its transport complex, apolipoprotein A (apo AI and apo AII) are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with level of total-C, LDL-C, and triglycerides, and inversely with the level of HDL-C.
+Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of total-C, LDL-C, and triglycerides, and inversely with the level of HDL-C.
 The independent effect of raising HDL-C or lowering triglycerides (TG) on the risk of cardiovascular morbidity and mortality has not been determined.
 
 Fenofibric acid, the active metabolite of fenofibrate, produces reductions in total cholesterol, LDL cholesterol, apolipoprotein B, total triglycerides and triglyceride rich lipoprotein (VLDL) in treated patients.
@@ -19,21 +19,21 @@ Fenofibrate also reduces serum uric acid levels in hyperuricemic and normal indi
 
 ## Pharmacokinetics/Metabolism
 
-Plasma concentrations of fenofibric acid after administration of 160 mg tablets are equivalent under fed conditions to 200 mg tablets, respectively.
+Plasma concentrations of fenofibric acid after administration of three 48 mg or one 145 mg tablets are equivalent under fed conditions to one 200 mg capsule.
 
 ### Absorption
 
 The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
 However, fenofibrate is well absorbed from the gastrointestinal tract.
-Following oral administration in healthy volunteers, approximately 60%of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
+Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabelled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid occur within 6 to 8 hours after administration.
 
-The absorption of fenofibrate is increased when administered with food.
-With fenofibrate, the absorption is increased by approximately 35% under fed as compared to fasting conditions.
+Exposure to fenofibric acid in plasma, as measured by Cmax and AUC, is not significantly different when a single 145 mg dose of fenofibrate is administered under fasting or nonfasting conditions.
 
 ### Distribution
 
-In healthy volunteers, steady-state plasma levels of fenofibric acid were shown to be achieved within 5 days of dosing and did not demonstrate accumulation across time following multiple dose administration.
+Upon multiple dosing of fenofibrate, fenofibric acid steady state is achieved within 9 days.
+Plasma concentrations of fenofibric acid at steady state are approximately double those following a single dose.
 Serum protein binding was approximately 99% in normal and hyperlipidemic subjects.
 
 ### Metabolism
@@ -74,9 +74,10 @@ Therefore, inter-ethnic pharmacokinetic differences are very unlikely.
 
 #### Renal Insufficiency
 
-In a study in patients with severe renal impairment (creatinine clearance <50 mL/min), the rate of clearance of fenofibric acid was greatly reduced, and the compound accumulated during chronic dosage.
-However, in patients having moderate renal impairment (creatinine clearance of 50 to 90 mL/min), the oral clearance and the oral volume of distribution of fenofibric acid are increased compared to healthy adults (2.1 L/h and 95 L versus 1.1 L/h and 30 L, respectively).
-Therefore, the dosage of fenofibrate tablets should be minimized in patients who have severe renal impairment, while no modification of dosage is required in patients having moderate renal impairment.
+The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
+Patients with severe renal impairment (creatinine clearance [CrCl] ≤ 30 mL/min) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with mild to moderate renal impairment (CrCl 30 – 80 mL/min) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
+Based on these findings, the use of fenofibrate tablets should be avoided in patients who have severe renal impairment and dose reduction is required in patients having mild to moderate renal impairment.
 
 #### Hepatic Insufficiency
 
@@ -85,28 +86,50 @@ No pharmacokinetic studies have been conducted in patients having hepatic insuff
 #### Drug-drug Interactions
 
 In vitro studies using human liver microsomes indicate that fenofibrate and fenofibric acid are not inhibitors of cytochrome (CYP) P450 isoforms CYP3A4, CYP2D6, CYP2E1, or CYP1A2.
-They are weak inhibitors of CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
+They are weak inhibitors of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhibitors of CYP2C9 at therapeutic concentrations.
 
 Potentiation of coumarin-type anticoagulants has been observed with prolongation of the prothrombin time/INR.
 
 Bile acid sequestrants have been shown to bind other drugs given concurrently.
 Therefore, fenofibrate should be taken at least 1 hour before or 4 to 6 hours after a bile acid binding resin to avoid impeding its absorption (see WARNINGS and PRECAUTIONS).
 
+Concomitant administration of a single dose of fenofibrate (administered as 3 × 67 mg of fenofibrate capsules) with a single dose of pravastatin (40 mg) in 23 healthy subjects increased the mean Cmax and mean AUC for pravastatin by 13%.
+The Cmax and AUC of fenofibrate decreased by 2% and 1%, respectively, after concomitant administration of fenofibrate and pravastatin.
+The mean Cmax and AUC for 3α–hydroxy-iso-pravastatin increased by 29% and 26%, respectively.
+
+Concomitant administration of a single dose of fenofibrate (equivalent to 145 mg fenofibrate tablets) and a single dose of fluvastatin (40 mg) resulted in a small increase (approximately 15 to 16%) in exposure to (+)3R,5S-fluvastatin, the active enantiomer of fluvastatin.
+
+A single dose of either pravastatin or fluvastatin had no clinically important effect on the pharmacokinetics of fenofibric acid.
+
+Concomitant administration of fenofibrate (equivalent to fenofibrate tablets 145 mg) with atorvastatin (20 mg) once daily for 10 days resulted in approximately 17% decrease (range from 67% decrease to 44% increase) in atorvastatin AUC values in 22 healthy males.
+The atorvastatin Cmax values were not significantly affected by fenofibrate.
+The pharmacokinetics of fenofibric acid were not significantly affected by atorvastatin.
+
+Concomitant administration of fenofibrate (equivalent to fenofibrate tablets 145 mg) once daily for 10 days with glimepiride (1 mg tablet) single dose simultaneously with the last dose of fenofibrate resulted in a 35% increase in mean AUC of glimepiride in healthy subjects.
+Glimepiride Cmax was not significantly affected by fenofibrate co-administration.
+There was no statistically significant effect of multiple doses of fenofibrate on glucose nadir or AUC with the baseline glucose concentration as the covariate after glimepiride administration in healthy volunteers.
+However, glucose concentrations at 24 hours remained statistically significantly lower after pretreatment with fenofibrate than with glimepiride alone.
+Glimepiride had no significant effect on the pharmacokinetics of fenofibric acid.
+
+Concomitant administration of fenofibrate (54 mg) and metformin (850 mg) three times a day for 10 days resulted in no significant changes in the pharmacokinetics of fenofibric acid and metformin when compared with the two drugs administered alone in healthy subjects.
+
+Concomitant administration of fenofibrate (equivalent to fenofibrate tablets 145 mg) once daily for 14 days with rosiglitazone tablet (rosiglitazone maleate) (8 mg) once daily for 5 days, Day 10 through Day 14, resulted in no significant changes in the pharmacokinetics of fenofibric acid and rosiglitazone when compared with the two drugs administered alone in healthy subjects.
+
 ## Clinical Trials
 
 ### Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
-The effects of fenofibrate at a dose equivalent to 160 mg fenofibrate tablet per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
+The effects of fenofibrate at a dose equivalent to 145 mg fenofibrate tablet per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
 Fenofibrate tablets therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate tablets therapy also lowered triglycerides and raised HDL-C (see Table 1).
 
-Table 1 Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months
+Table 1 Mean Percent Change in Lipid Parameters at End of TreatmentDuration of study treatment was 3 to 6 months.
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
 | Pooled Cohort |  |  |  |  |
 | Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%p=<0.05 vs. Placebo | -20.6% | +11.0% | -28.9% |
+| All FEN (n=361) | -18.7%p = < 0.05 vs. Placebo | -20.6% | +11.0% | -28.9% |
 | Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
 | Baseline LDL-C >160 mg/dL and TG<150 mg/dL (Type IIa) |  |  |  |  |
 | Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
@@ -124,7 +147,7 @@ Fenofibrate tablets treatment significantly reduced apo B from baseline to endpo
 ### Hypertriglyceridemia (Fredrickson Type IV and V)
 
 The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials1 of 147 hypertriglyceridemic patients (Fredrickson Types IV and V). Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline triglyceride (TG) levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
-In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia (Type IV/V hyperlipidemia), treatment with fenofibrate at dosages equivalent to 160 mg fenofibrate tablet per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
+In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia (Type IV/V hyperlipidemia), treatment with fenofibrate at dosages equivalent to fenofibrate tablet 145 mg per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
 Treatment of patients with Type IV hyperlipoproteinemia and elevated triglycerides often results in an increase of low density lipoprotein (LDL) cholesterol (see Table 2).
 
 Table 2 Effects of Fenofibrate Tablets in Patients With Fredrickson Type IV/V Hyperlipidemia
@@ -132,7 +155,7 @@ Table 2 Effects of Fenofibrate Tablets in Patients With Fredrickson Type IV/V Hy
 | Study 1 | Placebo |  |  |  | Fenofibrate Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Baseline TG levels 350 to 499 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
-| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2= p<0.05 vs. Placebo |
+| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2p = <0.05 vs. Placebo |
 | VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1 |
 | Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1 |
 | HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6 |

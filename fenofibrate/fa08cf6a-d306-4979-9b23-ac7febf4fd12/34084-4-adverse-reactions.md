@@ -1,14 +1,12 @@
 # ADVERSE REACTIONS
 
-## CLINICAL
-
 Adverse events reported by 2% or more of patients treated with fenofibrate during the double-blind, placebo-controlled trials, regardless of causality, are listed in the table below.
 Adverse events led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo.
-Increases in liver function test were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
+Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
 | Adverse Event | (N=439) | (N=365) |
 | --- | --- | --- |
-| BODY SYSTEM | FenofibrateDosage equivalent to 200 mg fenofibrate tablets. | PLACEBO |
+| BODY SYSTEM | FenofibrateDosage equivalent to 145 mg fenofibrate tablets. | Placebo |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
 | Back Pain | 3.4% | 2.5% |
@@ -16,7 +14,7 @@ Increases in liver function test were the most frequent events, causing disconti
 | Asthenia | 2.1% | 3.0% |
 | Flu Syndrome | 2.1% | 2.7% |
 | DIGESTIVE |  |  |
-| Liver Function Test Abnormal | 7.5%Significantly different from Placebo | 1.4% |
+| Liver Function Test Abnormal | 7.5%Significantly different from Placebo. | 1.4% |
 | Diarrhea | 2.3% | 4.1% |
 | Nausea | 2.3% | 1.9% |
 | Constipation | 2.1% | 1.4% |
@@ -28,28 +26,30 @@ Increases in liver function test were the most frequent events, causing disconti
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
 
-Additional adverse events reported by three or more patients in placebo-controlled trials or reported in other controlled or open trials, regardless of causality are listed below.
+Additional adverse events reported during post-marketing surveillance or by three or more patients in placebo-controlled trials or reported in other controlled or open trials, regardless of causality are listed below.
 
-BODY AS A WHOLE: Chest pain, pain (unspecified), infection, malaise, allergic reaction, cyst, hernia, fever, photosensitivity reaction, and accidental injury.
+BODY AS A WHOLE: Accidental injury, allergic reaction, chest pain, cyst, fever, hernia, infection, malaise and pain (unspecified).
 
-CARDIOVASCULAR SYSTEM: Angina pectoris, hypertension, vasodilatation, coronary artery disorder, electrocardiogram abnormal, ventricular extrasystoles, myocardial infarct, peripheral vascular disorder, migraine, varicose vein, cardiovascular disorder, hypotension, palpitation, vascular disorder, arrhythmia, phlebitis, tachycardia, extrasystoles, and atrial fibrillation.
+CARDIOVASCULAR SYSTEM: Angina pectoris, arrhythmia, atrial fibrillation, cardiovascular disorder, coronary artery disorder, electrocardiogram abnormal, extrasystoles, hypertension, hypotension, migraine, myocardial infarct, palpitation, peripheral vascular disorder, phlebitis, tachycardia, varicose vein, vascular disorder, vasodilatation, venous thromboembolic events (deep vein thrombosis, pulmonary embolus) and ventricular extrasystoles.
 
-DIGESTIVE SYSTEM: Dyspepsia, flatulence, nausea, increased appetite, gastroenteritis, cholelithiasis, rectal disorder, esophagitis, gastritis, colitis, tooth disorder, vomiting, anorexia, gastrointestinal disorder, duodenal ulcer, nausea and vomiting, peptic ulcer, rectal hemorrhage, liver fatty deposit, cholecystitis, eructation, gamma glutamyl transpeptidase, and diarrhea.
+DIGESTIVE SYSTEM: Anorexia, cholecystitis, cholelithiasis, colitis, diarrhea, duodenal ulcer, dyspepsia, eructation, esophagitis, flatulence, gastritis, gastroenteritis, gastrointestinal disorder, increased appetite, jaundice, liver fatty deposit, nausea, pancreatitis, peptic ulcer, rectal disorder, rectal hemorrhage, tooth disorder and vomiting.
 
-ENDOCRINE SYSTEM: Diabetes mellitus
+ENDOCRINE SYSTEM: Diabetes mellitus.
 
-HEMIC AND LYMPHATIC SYSTEM: Anemia, leukopenia, ecchymosis, eosinophilia, lymphadenopathy, and thrombocytopenia.
+HEMIC AND LYMPHATIC SYSTEM: Anemia, ecchymosis, eosinophilia, leukopenia, lymphadenopathy, and thrombocytopenia.
 
-METABOLIC AND NUTRITIONAL DISORDERS: Creatinine increased, weight gain, hypoglycemia, gout, weight loss, edema, hyperuricemia, and peripheral edema.
+LABORATORY INVESTIGATIONS: Alkaline phosphatase increased, bilirubin increased, blood urea nitrogen increased, serum creatinine increased, gamma glutamyl transpeptidase increased, lactate dehydrogenase increased, SGOT and SGPT increased.
 
-MUSCULOSKELETAL SYSTEM: Myositis, myalgia, arthralgia, arthritis, tenosynovitis, joint disorder, arthrosis, leg cramps, bursitis, and myasthenia.
+METABOLIC AND NUTRITIONAL DISORDERS: Edema, gout, hyperuricemia, hypoglycemia, peripheral edema, weight gain, and weight loss.
 
-NERVOUS SYSTEM: Dizziness, insomnia, depression, vertigo, libido decreased, anxiety, paresthesia, dry mouth, hypertonia, nervousness, neuralgia, and somnolence.
+MUSCULOSKELETAL SYSTEM: Arthralgia, arthritis, arthrosis, bursitis, joint disorder, leg cramps, myalgia, myasthenia, myositis, rhabdomyolysis and tenosynovitis.
 
-RESPIRATORY SYSTEM: Pharyngitis, bronchitis, cough increased, dyspnea, asthma, pneumonia, laryngitis, and sinusitis.
+NERVOUS SYSTEM: Anxiety or nervousness, depression, dizziness, dry mouth, hypertonia, insomnia, libido decreased, neuralgia, paresthesia, somnolence and vertigo.
 
-SKIN AND APPENDAGES: Rash, pruritus, eczema, herpes zoster, urticaria, acne, sweating, fungal dermatitis, skin disorder, alopecia, contact dermatitis, herpes simplex, maculopapular rash, nail disorder, and skin ulcer.
+RESPIRATORY SYSTEM: Allergic pulmonary alveolitis, asthma, bronchitis, cough increased, dyspnea, laryngitis, pharyngitis, pneumonia and sinusitis.
 
-SPECIAL SENSES: Conjunctivitis, eye disorder, amblyopia, ear pain, otitis media, abnormal vision, cataract specified, and refraction disorder.
+SKIN AND APPENDAGES: Acne, alopecia, contact dermatitis, eczema, fungal dermatitis, herpes simplex, herpes zoster, maculopapular rash, nail disorder, photosensitivity reaction, pruritus, rash, sweating, skin disorder, skin ulcer and urticaria.
 
-UROGENITAL SYSTEM: Urinary frequency, prostatic disorder, dysuria, kidney function abnormal, urolithiasis, gynecomastia, unintended pregnancy, vaginal moniliasis, and cystitis.
+SPECIAL SENSES: Abnormal vision, amblyopia, cataract specified, conjunctivitis, ear pain, eye disorder, otitis media and refraction disorder.
+
+UROGENITAL SYSTEM: Abnormal kidney function, cystitis, dysuria, gynecomastia, prostatic disorder, unintended pregnancy, urinary frequency, urolithiasis and vaginal moniliasis.
