@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-ADCIRCATM (Ad-sur-kuh)
+ADCIRCA® (Ad-sur-kuh)
 
 (tadalafil) tablets
 
@@ -173,14 +173,14 @@ Inactive Ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromello
 
 Rx only
 
-ADCIRCATM (tadalafil) is a trademark of Eli Lilly and Company.
+ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature issued May 22, 2009
+Literature revised February 24, 2011
 
-Eli Lilly and Company Indianapolis, IN 46285, USA Marketed by United Therapeutics Corporation Copyright © 2009, Eli Lilly and Company.
+Eli Lilly and Company Indianapolis, IN 46285, USA Marketed by United Therapeutics Corporation Copyright © 2009, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 6480 AMP
+PV 6481 AMP
