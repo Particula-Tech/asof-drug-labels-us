@@ -9,7 +9,7 @@ In order to prevent gout flares when ULORIC is initiated, concurrent prophylacti
 
 ## 5.2 Cardiovascular Events
 
-In the randomized controlled studies, there was a higher rate of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) in patients treated with ULORIC [0.74 per 100 P-Y (95% CI 0.36-1.37)] than allopurinol [0.60 per 100 P-Y (95% CI 0.16-1.53)] [see Adverse Reactions (6.1)].
+In the randomized controlled studies, there was a higher rate of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) in patients treated with ULORIC [0.74 per 100 P-Y (95% Confidence Interval (CI) 0.36-1.37)] than allopurinol [0.60 per 100 P-Y (95% CI 0.16-1.53)] [see Adverse Reactions (6.1)].
 A causal relationship with ULORIC has not been established.
 Monitor for signs and symptoms of myocardial infarction (MI) and stroke.
 

@@ -1,4 +1,4 @@
-Patient Information ULORIC® (Ū – 'lor – ik) (febuxostat) tablets
+Patient Information ULORIC (Ū – 'lor – ik) (febuxostat) tablets
 
 Read the Patient Information that comes with ULORIC before you start taking it and each time you get a refill.
 There may be new information.
@@ -14,9 +14,8 @@ Who should not take ULORIC?
 
 Do not take ULORIC if you:
 
-- take Azathioprine (Azasan®, Imuran®)
-- take Mercaptopurine (Purinethol®)
-- take Theophylline (Theo-24®, Elixophyllin®, Theochron®, Theolair®, Uniphyl®)
+- take Azathioprine (Azasan, Imuran)
+- take Mercaptopurine (Purinethol)
 
 It is not known if ULORIC is safe and effective in children under 18 years of age.
 
@@ -62,7 +61,7 @@ The most common side effects of ULORIC include:
 - joint pain
 - rash
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+Tell your healthcare provider if you develop a rash, have any side effect that bothers you, or that does not go away.
 These are not all of the possible side effects of ULORIC.
 For more information, ask your healthcare provider or pharmacist.
 
@@ -71,13 +70,13 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store ULORIC?
 
-Store ULORIC between 59°F - 86°F (15°C - 30°C).
+Store ULORIC between 59°F to 86°F (15°C to 30°C).
 
 Keep ULORIC out of the light.
 
 Keep ULORIC and all medicines out of the reach of children.
 
-General information about the safe and effective use of ULORIC
+General information about the safe and effective use of ULORIC.
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use ULORIC for a condition for which it was not prescribed.

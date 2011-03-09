@@ -28,7 +28,7 @@ In addition to the adverse reactions presented in Table 1, dizziness was reporte
 
 Less Common Adverse Reactions
 
-In phase 2 and 3 clinical studies the following adverse reactions occurred in less than 1% of subjects and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
+In Phase 2 and 3 clinical studies the following adverse reactions occurred in less than 1% of subjects and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
 This list also includes adverse reactions (less than 1% of subjects) associated with organ systems from Warnings and Precautions.
 
 Blood and Lymphatic System Disorders: anemia, idiopathic thrombocytopenic purpura, leukocytosis/leukopenia, neutropenia, pancytopenia, splenomegaly, thrombocytopenia.
@@ -81,3 +81,14 @@ In the long-term extension studies, the incidences of adjudicated APTC events we
 Overall, a higher rate of APTC events was observed in ULORIC than in allopurinol-treated patients.
 A causal relationship with ULORIC has not been established.
 Monitor for signs and symptoms of MI and stroke.
+
+## 6.2 Postmarketing Experience
+
+Adverse reactions have been identified during post approval use of ULORIC.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship.
+
+Immune System Disorders: anaphylaxis, anaphylactic reaction.
+Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis.
+Psychiatric Disorders: psychotic behavior including aggressive thoughts.
+Renal and Urinary Disorders: tubulointerstitial nephritis.
+Skin and Subcutaneous Tissue Disorders: generalized rash, Stevens Johnson Syndrome, hypersensitivity skin reactions.

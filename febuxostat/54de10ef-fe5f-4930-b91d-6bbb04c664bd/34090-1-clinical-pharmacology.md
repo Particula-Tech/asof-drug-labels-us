@@ -87,17 +87,16 @@ Drug-Drug Interactions
 Effect of ULORIC on Other Drugs
 
 Xanthine Oxidase Substrate Drugs-Azathioprine, Mercaptopurine, and Theophylline: Febuxostat is an XO inhibitor.
-Drug interaction studies of ULORIC with drugs that are metabolized by XO (e.g., theophylline, mercaptopurine, azathioprine) have not been conducted.
+A drug-drug interaction study evaluating the effect of ULORIC upon the pharmacokinetics of theophylline (an XO substrate) in healthy subjects showed that co-administration of febuxostat with theophylline resulted in an approximately 400-fold increase in the amount of 1-methylxanthine, one of the major metabolites of theophylline, excreted in the urine.
+Since the long-term safety of exposure to 1-methylxanthine in humans is unknown, use with caution when co-administering febuxostat with theophylline.
+
+Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
 Inhibition of XO by ULORIC may cause increased plasma concentrations of these drugs leading to toxicity.
-ULORIC is contraindicated in patients being treated with azathioprine, mercaptopurine, and theophylline [see Contraindications (4) and Drug Interactions (7)].
+ULORIC is contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4) and Drug Interactions (7)].
 
 Azathioprine and mercaptopurine undergo metabolism via three major metabolic pathways, one of which is mediated by XO.
 Although ULORIC drug interaction studies with azathioprine and mercaptopurine have not been conducted, concomitant administration of allopurinol [a xanthine oxidase inhibitor] with azathioprine or mercaptopurine has been reported to substantially increase plasma concentrations of these drugs.
 Because ULORIC is a xanthine oxidase inhibitor, it could inhibit the XO-mediated metabolism of azathioprine and mercaptopurine leading to increased plasma concentrations of azathioprine or mercaptopurine that could result in severe toxicity.
-
-Theophylline is a CYP1A2 and XO substrate.
-Although no ULORIC drug interaction study with theophylline has been conducted, concomitant administration of theophylline with allopurinol, a xanthine oxidase inhibitor at doses ≥ 600 mg per day, has been reported to increase theophylline plasma concentrations.
-Because ULORIC is a xanthine oxidase inhibitor and theophylline is a low therapeutic index drug, ULORIC could inhibit the XO-mediated metabolism of theophylline leading to increased plasma concentrations of theophylline that could induce severe theophylline toxicity.
 
 P450 Substrate Drugs: In vitro studies have shown that febuxostat does not inhibit P450 enzymes CYP1A2, 2C9, 2C19, 2D6, or 3A4 and it also does not induce CYP1A2, 2B6, 2C9, 2C19, or 3A4 at clinically relevant concentrations.
 As such, pharmacokinetic interactions between ULORIC and drugs metabolized by these CYP enzymes are unlikely.
@@ -109,6 +108,13 @@ The relative contribution of each enzyme isoform is not clear.
 Drug interactions between ULORIC and a drug that inhibits or induces one particular enzyme isoform is in general not expected.
 
 In Vivo Drug Interaction Studies
+
+Theophylline: No dose adjustment is necessary for theophylline when co-administered with ULORIC.
+Administration of ULORIC (80 mg once daily) with theophylline resulted in an increase of 6% in Cmax and 6.5% in AUC of theophylline.
+These changes were not considered statistically significant.
+However, the study also showed an approximately 400-fold increase in the amount of 1-methylxanthine (one of the major theophylline metabolites) excreted in urine as a result of XO inhibition by ULORIC.
+The safety of long-term exposure to 1-methylxanthine has not been evaluated.
+This should be taken into consideration when deciding to co-administer Uloric and theophylline.
 
 Colchicine: No dose adjustment is necessary for either ULORIC or colchicine when the two drugs are co-administered.
 Administration of ULORIC (40 mg once daily) with colchicine (0.6 mg twice daily) resulted in an increase of 12% in Cmax and 7% in AUC24 of febuxostat.

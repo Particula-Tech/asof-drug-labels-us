@@ -19,4 +19,4 @@ ULORIC 80 mg tablets are light green to green in color, teardrop shaped, debosse
 | 64764-677-19 | Bottle of 1000 Tablets |
 
 Protect from light.
-Store at 25°C (77°F); excursions permitted to 15°– 30°C (59°– 86°F) [See USP Controlled Room Temperature]
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
