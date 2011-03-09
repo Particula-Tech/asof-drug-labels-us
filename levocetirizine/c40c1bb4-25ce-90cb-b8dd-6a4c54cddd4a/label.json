@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090392"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Dr.Reddy's laboratories Ltd.",
+  "package_ndcs": [
+    "55111-282-01",
+    "55111-282-05",
+    "55111-282-18",
+    "55111-282-30",
+    "55111-282-60",
+    "55111-282-78",
+    "55111-282-79",
+    "55111-282-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "levocetirizine dihydrochloride"
+    }
+  ],
+  "setid": "c40c1bb4-25ce-90cb-b8dd-6a4c54cddd4a",
+  "source": "dailymed"
+}
