@@ -13,7 +13,13 @@ AVELOX should be discontinued if the patient experiences pain, swelling, inflamm
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 [see Adverse Reactions (6.4) and Patient Counseling Information (17.3).]
 
-## 5.2 QT Prolongation
+## 5.2 Exacerbation of Myasthenia Gravis
+
+Fluoroquinolones, including AVELOX, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid AVELOX in patients with known history of myasthenia gravis [see Patient Counseling Information (17.3)].
+
+## 5.3 QT Prolongation
 
 AVELOX has been shown to prolong the QT interval of the electrocardiogram in some patients.
 Following oral dosing with 400 mg of AVELOX the mean (± SD) change in QTc from the pre-dose value at the time of maximum drug concentration was 6 msec (± 26) (n = 787).
@@ -33,7 +39,7 @@ No excess in cardiovascular morbidity or mortality attributable to QTc prolongat
 Elderly patients using IV AVELOX may be more susceptible to drug-associated QT prolongation [see Use In Specific Populations (8.5)].
 In addition, AVELOX should be used with caution in patients with mild, moderate, or severe liver cirrhosis [see Clinical Pharmacology (12.3) and Patient Counseling Information (17.3)].
 
-## 5.3 Hypersensitivity Reactions
+## 5.4 Hypersensitivity Reactions
 
 Serious anaphylactic reactions, some following the first dose, have been reported in patients receiving quinolone therapy, including AVELOX.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
@@ -41,7 +47,7 @@ Serious anaphylactic reactions require immediate emergency treatment with epinep
 AVELOX should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity.
 Oxygen, intravenous steroids, and airway management, including intubation, may be administered as indicated [see Adverse Reactions (6) and Patient Counseling Information (17.3)].
 
-## 5.4 Other Serious and Sometimes Fatal Reactions
+## 5.5 Other Serious and Sometimes Fatal Reactions
 
 Other serious and sometimes fatal events, some due to hypersensitivity, and some due to uncertain etiology, have been reported rarely in patients receiving therapy with quinolones, including AVELOX.
 These events may be severe and generally occur following the administration of multiple doses.
@@ -56,7 +62,7 @@ Clinical manifestations may include one or more of the following:
 
 The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Patient Counseling Information (17.3) and Adverse Reactions (6.4).
 
-## 5.5 Central Nervous System Effects
+## 5.6 Central Nervous System Effects
 
 Quinolones, including AVELOX, may cause central nervous system (CNS) events, including: nervousness, agitation, insomnia, anxiety, nightmares or paranoia [see Adverse Reactions (6.2, 6.4)].
 
@@ -66,7 +72,7 @@ These reactions may occur following the first dose.
 If these reactions occur in patients receiving AVELOX, the drug should be discontinued and appropriate measures instituted.
 As with all quinolones, AVELOX should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.4) Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
 
-## 5.6 Clostridium Difficile-Associated Diarrhea
+## 5.7 Clostridium Difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AVELOX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -79,22 +85,22 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17.3)].
 
-## 5.7 Peripheral Neuropathy
+## 5.8 Peripheral Neuropathy
 
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones [see Adverse Reactions (6.2) and Patient Counseling Information (17.3)].
 
-## 5.8 Arthropathic Effects in Animals
+## 5.9 Arthropathic Effects in Animals
 
 The oral administration of AVELOX caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
 
-## 5.9 Photosensitivity/Phototoxicity
+## 5.10 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolone antibiotics after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if phototoxicity occurs [see Adverse Reactions (6.4) and Pharmacokinetics (12.3)].
 
-## 5.10 Development of Drug Resistant Bacteria
+## 5.11 Development of Drug Resistant Bacteria
 
 Prescribing AVELOX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria [see Patient Counseling Information (17.1)].

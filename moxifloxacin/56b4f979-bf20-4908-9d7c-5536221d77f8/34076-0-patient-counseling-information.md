@@ -16,12 +16,14 @@ Patients should be advised to drink fluids liberally.
 
 AVELOX tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution.
 
-17.3 Serious and Potentially Serious Adverse Reactions
+## 17.3 Serious and Potentially Serious Adverse Reactions
 
 To assure safe and effective use of AVELOX, patients should be informed of the following serious adverse reactions that have been associated with AVELOX and other fluoroquinolone use:
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue AVELOX treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- Exacerbation of Myasthenia Gravis: fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - Prolongation of the QT interval: AVELOX may produce changes in the electrocardiogram (QTc interval prolongation).
   AVELOX should be avoided in patients receiving Class IA (for example quinidine, procainamide) or Class III (for example amiodarone, sotalol) antiarrhythmic agents.
   AVELOX may add to the QTc prolonging effects of other drugs such as cisapride, erythromycin, antipsychotics, and tricyclic antidepressants.

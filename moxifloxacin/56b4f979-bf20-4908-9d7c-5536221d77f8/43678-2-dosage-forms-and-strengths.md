@@ -4,7 +4,7 @@
 
 - Containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin)
 - Oblong, dull red film-coated tablets
-- Imprinted with Bayer on one side and M400 on the other
+- Imprinted with BAYER on one side and M400 on the other
 
 ## 3.2 AVELOX IV
 

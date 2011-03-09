@@ -5,14 +5,14 @@
 The following serious and otherwise important adverse reactions are discussed in greater detail in the warnings and precautions section of the label:
 
 - Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
-- QT Prolongation [see Warnings and Precautions (5.2)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.4)]
-- Central Nervous System Effects [see Warnings and Precautions (5.5)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.7)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.9)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.10)]
+- QT Prolongation [see Warnings and Precautions (5.3)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.5)]
+- Central Nervous System Effects [see Warnings and Precautions (5.6)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.10)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.11)]
 
 ## 6.2 Clinical Trial Experience
 
@@ -54,7 +54,7 @@ Table 3: Less Common (0.1 to <1.0%) Adverse Reactions Reported in Active-Control
 
 | System Organ Class | Adverse ReactionsMedDRA Version 12.0 |
 | --- | --- |
-| Blood and Lymphatic System Disorders | Thrombocythaemia |
+| Blood and Lymphatic System Disorders | Thrombocythemia |
 |  | Eosinophilia |
 |  | Neutropenia |
 |  | Thrombocytopenia |
@@ -183,13 +183,13 @@ Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.4)] |
+| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia [see Warnings and Precautions (5.5) |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
-| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.4)] |
-| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.3, 5.4)] |
+| Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.5)] |
+| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema) [see Warnings and Precautions (5.4, 5.5)] |
 | Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
-| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.5)]Myasthenia gravis (exacerbation of) |
+| Nervous System Disorders | Altered coordinationAbnormal gait [see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of) [see Warnings and Precautions (5.2)] |
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-endangering behavior) |
-| Renal and Urinary Disorders | Renal dysfunctionInterstitial nephritis [see Warnings and Precautions (5.4)] |
-| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.4)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.4)] |
+| Renal and Urinary Disorders | Renal dysfunctionInterstitial nephritis [see Warnings and Precautions (5.5)] |
+| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.5)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis [see Warnings and Precautions (5.5)] |

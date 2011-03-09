@@ -1,10 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-AVELOX is indicated for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcus species [see Clinical Studies (14.7)].
+## 2.1 Dosage in Adult Patients
+
+The dose of AVELOX is 400 mg (orally or as an intravenous infusion) once every 24 hours.
+The duration of therapy depends on the type of infection as described in Table 1.
 
 Table 1: Dosage and Duration of Therapy in Adult Patients
 
-| Type of InfectionDue to the designated pathogens [see Indications and Usage (1),for IV use, seeUse in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days) |
+| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days) |
 | --- | --- | --- |
 | Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |
@@ -17,7 +20,7 @@ Intravenous formulation is indicated when it offers a route of administration ad
 When switching from intravenous to oral formulation, no dosage adjustment is necessary.
 Patients whose therapy is started with AVELOX IV may be switched to AVELOX Tablets when clinically indicated at the discretion of the physician.
 
-## 2.2 Drug interactions with Multivalent Cations
+## 2.2 Drug Interactions with Multivalent Cations
 
 Oral doses of AVELOX should be administered at least 4 hours before or 8 hours after products containing magnesium, aluminum, iron or zinc, including antacids, sucralfate, multivitamins and VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
@@ -46,7 +49,7 @@ If the same intravenous line or a Y-type line is used for sequential infusion of
 | 1M Sodium Chloride Injection | 10% Dextrose for Injection, USP |
 | 5% Dextrose Injection, USP | Lactated Ringer’s for Injection |
 
-2.4 Preparation for Administration of AVELOX IV
+## 2.4 Preparation for Administration of AVELOX IV
 
 To prepare AVELOX IV injection premix in flexible containers:
 

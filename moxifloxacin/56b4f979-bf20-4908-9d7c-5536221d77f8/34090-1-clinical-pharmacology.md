@@ -124,7 +124,7 @@ HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), res
 
 #### Hepatic Insufficiency
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precautions (5.2), Use in Specific Populations (8.7)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precautions (5.3), Use in Specific Populations (8.7)].
 
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
@@ -141,7 +141,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with AVELOX (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of AVELOX were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.9), Adverse Reactions (6.3), and Patient Counseling Information (17.3)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject’s susceptibility to this adverse event such as: a patient’s skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.10), Adverse Reactions (6.3), and Patient Counseling Information (17.3)].
 
 ### Drug-Drug Interactions
 
@@ -256,7 +256,7 @@ Aerobic Gram-positive microorganisms
 - Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
 - Streptococcus pyogenes
 
-*MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+*MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Aerobic Gram-negative microorganisms
 

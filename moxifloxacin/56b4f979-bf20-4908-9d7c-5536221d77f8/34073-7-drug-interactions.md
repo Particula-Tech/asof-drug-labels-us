@@ -14,10 +14,10 @@ Therefore the prothrombin time, International Normalized Ratio (INR), or other s
 
 ## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
-Although not observed with AVELOX in preclinical and clinical trials, the concomitant administration of a nonsteroidal anti-inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.5), and Patient Counseling Information (17.3)].
+Although not observed with AVELOX in preclinical and clinical trials, the concomitant administration of a nonsteroidal anti-inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions [see Warnings and Precautions (5.6), and Patient Counseling Information (17.3)].
 
 ## 7.4 Drugs that Prolong QT
 
 There is limited information available on the potential for a pharmacodynamic interaction in humans between AVELOX and other drugs that prolong the QTc interval of the electrocardiogram.
 Sotalol, a Class III antiarrhythmic, has been shown to further increase the QTc interval when combined with high doses of intravenous (IV) AVELOX in dogs.
-Therefore, AVELOX should be avoided with Class IA and Class III antiarrhythmics [see Warnings and Precautions, (5.2), Nonclinical Toxicology (13.2), and Patient Counseling Information (17.3)].
+Therefore, AVELOX should be avoided with Class IA and Class III antiarrhythmics [see Warnings and Precautions, (5.3), Nonclinical Toxicology (13.2), and Patient Counseling Information (17.3)].

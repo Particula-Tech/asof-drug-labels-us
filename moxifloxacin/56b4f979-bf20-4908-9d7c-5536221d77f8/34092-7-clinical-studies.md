@@ -81,7 +81,7 @@ Table 11: Clinical Success Rates and Microbiological Eradication Rates for Resis
 | Resistant to 5 antimicrobials | 7/7 (100%) | 7/7 (100%) |
 | Bacteremia with MDRSP | 9/9 (100%) | 9/9 (100%) |
 
-14.4 Acute Bacterial Sinusitis
+## 14.4 Acute Bacterial Sinusitis
 
 In a controlled double-blind study conducted in the US, AVELOX Tablets (400 mg once daily for ten days) were compared with cefuroxime axetil (250 mg twice daily for ten days) for the treatment of acute bacterial sinusitis.
 The trial included 457 patients valid for the efficacy analysis.
@@ -108,7 +108,7 @@ This study enrolled 804 patients, 632 of which were valid for the efficacy analy
 Surgical incision and drainage or debridement was performed on 55% of the AVELOX treated and 53% of the comparator treated patients in these studies and formed an integral part of therapy for this indication.
 Success rates varied with the type of diagnosis ranging from 61% in patients with infected ulcers to 90% in patients with complicated erysipelas.
 These rates were similar to those seen with comparator drugs.
-The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 12and 13.
+The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 12 and 13.
 
 Table 12: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
@@ -125,26 +125,6 @@ Table 13: Clinical Success Rates by Pathogen in Patients with Complicated Skin a
 | Escherichia coli | 31/38 (81.6 %) | 28/33 (84.8 %) |
 | Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
-
-## 14.7 Complicated Intra-Abdominal Infections
-
-Two randomized, active controlled trials of cIAI were performed.
-A double-blind trial was conducted primarily in North America to compare the efficacy of sequential IV/PO AVELOX 400 mg QD for 5-14 days to IV/ piperacillin/tazobactam followed by PO amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
-This study enrolled 681 patients, 379 of which were considered clinically evaluable.
-A second open-label international study compared AVELOX 400 mg QD for 5-14 days to IV ceftriaxone plus IV metronidazole followed by PO amoxicillin/clavulanic acid in the treatment of patients with cIAI.
-This study enrolled 595 patients, 511 of which were considered clinically evaluable.
-The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25-50 day follow-up assessment for patients at the Test of Cure visit.
-The overall clinical success rates in the clinically evaluable patients are shown in Table 14.
-
-## 14.7 Complicated Intra-Abdominal Infections
-
-Two randomized, active controlled trials of cIAI were performed.
-A double-blind trial was conducted primarily in North America to compare the efficacy of sequential IV/PO AVELOX 400 mg QD for 5-14 days to IV/ piperacillin/tazobactam followed by PO amoxicillin/clavulanic acid in the treatment of patients with cIAI, including peritonitis, abscesses, appendicitis with perforation, and bowel perforation.
-This study enrolled 681 patients, 379 of which were considered clinically evaluable.
-A second open-label international study compared AVELOX 400 mg QD for 5-14 days to IV ceftriaxone plus IV metronidazole followed by PO amoxicillin/clavulanic acid in the treatment of patients with cIAI.
-This study enrolled 595 patients, 511 of which were considered clinically evaluable.
-The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25-50 day follow-up assessment for patients at the Test of Cure visit.
-The overall clinical success rates in the clinically evaluable patients are shown in Table 14.
 
 ## 14.7 Complicated Intra-Abdominal Infections
 

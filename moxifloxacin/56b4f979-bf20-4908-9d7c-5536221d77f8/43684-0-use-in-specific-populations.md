@@ -25,7 +25,7 @@ Because of the potential for serious adverse reactions in infants who are nursin
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients and adolescents less than 18 years of age have not been established.
-AVELOX causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].
+AVELOX causes arthropathy in juvenile animals [see Boxed Warning, Warnings and Precautions (5.9), and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -42,4 +42,4 @@ No dosage adjustment is necessary in patients with renal impairment, including t
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precaution (5.2), and Clinical Pharmacology, (12.3)].
+No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, AVELOX should be used with caution in these patients [see Warnings and Precaution (5.3), and Clinical Pharmacology, (12.3)].

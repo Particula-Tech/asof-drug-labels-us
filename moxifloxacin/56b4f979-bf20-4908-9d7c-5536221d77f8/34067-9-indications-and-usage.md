@@ -31,7 +31,7 @@ AVELOX is indicated for the treatment of Uncomplicated Skin and Skin Structure I
 
 ## 1.5 Complicated Skin and Skin Structure Infections
 
-AVELOX is indicated for the treatment of Complicated Skin and Skin Structure Infections caused by methicillin-susceptible Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, or Enterobacter cloacae[see Clinical Studies (14.6)].
+AVELOX is indicated for the treatment of Complicated Skin and Skin Structure Infections caused by methicillin-susceptible Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, or Enterobacter cloacae [see Clinical Studies (14.6)].
 
 ## 1.6 Complicated Intra-Abdominal Infections
 
