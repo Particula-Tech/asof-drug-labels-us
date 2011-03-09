@@ -106,7 +106,7 @@ Routine cleaning instructions:
 Manufactured by 3M Health Care Ltd., Loughborough, United Kingdom.
 Manufactured for Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA.
 
-Month Year
+June 2010
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
