@@ -1,7 +1,7 @@
 # Description
 
 Bicillin L-A (penicillin G benzathine injectable suspension) is available for deep intramuscular injection.
-Penicilin G benzathine is prepared by the reaction of dibenzylethylene diamine with two molecules of penicillin G. It is chemically designated as (2S, 5R, 6R)-3,3-Dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid compound with N,N' -dibenzylethylenediamine (2:1), tetrahydrate.
+Penicillin G benzathine is prepared by the reaction of dibenzylethylene diamine with two molecules of penicillin G. It is chemically designated as (2S, 5R, 6R)-3,3-Dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid compound with N,N' -dibenzylethylenediamine (2:1), tetrahydrate.
 It occurs as a white, crystalline powder and is very slightly soluble in water and sparingly soluble in alcohol.
 Its chemical structure is as follows:
 

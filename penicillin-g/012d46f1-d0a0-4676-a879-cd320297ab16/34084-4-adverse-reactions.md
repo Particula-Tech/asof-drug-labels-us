@@ -25,7 +25,7 @@ The following adverse events have been temporally associated with parenteral adm
 
 Body as a Whole: Hypersensitivity reactions including allergic vasculitis, pruritus, fatigue, asthenia, and pain; aggravation of existing disorder; headache.
 
-Cardiovascular: Cardiac arrest; hypotension; tachycardia; palpitations; pulmonary hypertension; pulmonary embolism; vasodilatation; vasovagal reaction; cerebrovascular accident; syncope.
+Cardiovascular: Cardiac arrest; hypotension; tachycardia; palpitations; pulmonary hypertension; pulmonary embolism; vasodilation; vasovagal reaction; cerebrovascular accident; syncope.
 
 Gastrointestinal: Nausea, vomiting; blood in stool; intestinal necrosis.
 

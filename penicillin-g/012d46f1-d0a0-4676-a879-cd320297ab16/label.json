@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050141"
+  ],
   "inn": "penicillin-g",
   "labeler": "King Pharmaceuticals, Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "60793-701-10",
     "60793-702-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "penicillin g benzathine",
+      "name": "BICILLIN L-A"
+    }
+  ],
   "setid": "012d46f1-d0a0-4676-a879-cd320297ab16",
   "source": "dailymed"
 }
