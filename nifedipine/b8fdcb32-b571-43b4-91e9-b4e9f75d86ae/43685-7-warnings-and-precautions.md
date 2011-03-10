@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Excessive Hypotension:
+## Excessive Hypotension
 
 Although in most patients the hypotensive effect of nifedipine is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension.
 These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients using concomitant beta-blockers.
@@ -9,49 +9,51 @@ Severe hypotension and/or increased fluid volume requirements have been reported
 The interaction with high dose fentanyl appears to be due to the combination of nifedipine and a beta-blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
 In nifedipine-treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient’s condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
 
-## Increased Angina and/or Myocardial Infarction:
+## Increased Angina and/or Myocardial Infarction
 
 Rarely, patients, particularly those who have severe obstructive coronary artery disease, have developed well-documented increased frequency, duration and/or severity of angina or acute myocardial infarction upon starting nifedipine or at the time of dosage increase.
 The mechanism of this effect is not established.
 
-## Beta-Blocker Withdrawal:
+## Beta-Blocker Withdrawal
 
 When discontinuing a beta-blocker it is important to taper its dose, if possible, rather than stopping abruptly before beginning nifedipine.
 Patients recently withdrawn from beta blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines.
 Initiation of nifedipine treatment will not prevent this occurrence and on occasion has been reported to increase it.
 
-## Congestive Heart Failure:
+## Congestive Heart Failure
 
 Rarely, patients (usually while receiving a beta-blocker) have developed heart failure after beginning nifedipine.
 Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of nifedipine would be expected to be of less benefit to these patients, owing to their fixed impedance to flow across the aortic valve.
 
 # PRECAUTIONS
 
-## General-Hypotension:
+## General
+
+### Hypotension
 
 Because nifedipine decreases peripheral vascular resistance, careful monitoring of blood pressure during the initial administration and titration of Adalat CC is suggested.
 Close observation is especially recommended for patients already taking medications that are known to lower blood pressure (See WARNINGS).
 
-## Peripheral Edema:
+## Peripheral Edema
 
 Mild to moderate peripheral edema occurs in a dose-dependent manner with Adalat CC.
 The placebo subtracted rate is approximately 8% at 30 mg, 12% at 60 mg and 19% at 90 mg daily.
 This edema is a localized phenomenon, thought to be associated with vasodilation of dependent arterioles and small blood vessels and not due to left ventricular dysfunction or generalized fluid retention.
 With patients whose hypertension is complicated by congestive heart failure, care should be taken to differentiate this peripheral edema from the effects of increasing left ventricular dysfunction.
 
-## Use in Cirrhotic Patients:
+## Use in Cirrhotic Patients
 
 Clearance of nifedipine is reduced and systemic exposure increased in patients with cirrhosis.
 It is unknown how systemic exposure may be altered in patients with moderate or severe liver impairment.
 Careful monitoring and dose reduction may be necessary; consider initiating therapy with the lowest dose available.
 
-## Information for Patients:
+## Information for Patients
 
 Adalat CC is an extended release tablet and should be swallowed whole and taken on an empty stomach.
 It should not be administered with food.
 Do not chew, divide or crush tablets.
 
-## Laboratory Tests:
+## Laboratory Tests
 
 Rare, usually transient, but occasionally significant elevations of enzymes such as alkaline phosphatase, CPK, LDH, SGOT, and SGPT have been noted.
 The relationship to nifedipine therapy is uncertain in most cases, but probable in some.
@@ -71,7 +73,7 @@ Positive direct Coombs’ test with or without hemolytic anemia has been reporte
 Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect in certain cases, rare reversible elevations in BUN and serum creatinine have been reported in patients with pre-existing chronic renal insufficiency.
 The relationship to nifedipine therapy is uncertain in most cases but probable in some.
 
-## Drug Interactions:
+## Drug Interactions
 
 Nifedipine is mainly eliminated by metabolism and is a substrate of CYP3A.
 Inhibitors and inducers of CYP3A can impact the exposure to nifedipine and consequently its desirable and undesirable effects.
@@ -80,7 +82,7 @@ Nifedipine is a vasodilator, and co-administration of other drugs affecting bloo
 
 ### CYP3A inhibitors
 
-CYP3A inhibitors such as ketoconazole, fluconazole, itraconazole, clarithromycin, erythromycin, grapefruit, nefazodone, saquinavir, indinavir, nelfinavir, and ritonavir may result in increased exposure to nifedipine when co-administered.
+CYP3A inhibitors such as ketoconazole, fluconazole, itraconazole, clarithromycin, erythromycin (Azithromycin, although structurally related to the class of macrolide antibiotic is void of clinically relevant CYP3A4 inhibition), grapefruit, nefazodone, fluoxetine, saquinavir, indinavir, nelfinavir, and ritonavir may result in increased exposure to nifedipine when co-administered.
 Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications.
 
 ### Strong CYP3A inducers
@@ -185,6 +187,8 @@ The increase in exposure to nifedipine by cimetidine was accompanied by relevant
 Hypertensive subjects receiving 10 mg q.d. nifedipine alone or in combination with cimetidine 1000 mg q.d. also experienced relevant changes in blood pressure when cimetidine was added to nifedipine.
 The interaction between cimetidine and nifedipine is of clinical relevance and blood pressure should be monitored and a reduction of the dose of nifedipine considered.
 
+Cisapride: Simultaneous administration of cisapride and nifedipine may lead to increased plasma concentrations of nifedipine.
+
 #### Antibacterial Drugs
 
 Quinupristin/Dalfopristin: In vitro drug interaction studies have demonstrated that quinupristin/dalfopristin significantly inhibits the CYP3A metabolism of nifedipine.
@@ -196,7 +200,7 @@ Blood pressure should be monitored and reduction of the dose of nifedipine consi
 
 #### Antitubercular Drugs
 
-Strong CYP3A inducers, such as rifampin, rifapentin, and rifabutin reduce the bioavailability of nifedipine which may reduce the efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
+Rifampin: Strong CYP3A inducers, such as rifampin, rifapentin, and rifabutin reduce the bioavailability of nifedipine which may reduce the efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (See CONTRAINDICATIONS).
 The impact of multiple oral doses of 600 mg rifampin on the pharmacokinetics of nifedipine after a single oral dose of 20 mg nifedipine capsule was evaluated in a clinical study.
 Twelve healthy male volunteers received a single oral dose of 20 mg nifedipine capsule on study Day 1.
 Starting on study Day 2, the subjects received 600 mg rifampin once daily for 14 days.
@@ -264,7 +268,7 @@ Orlistat: In 17 normal-weight subjects receiving orlistat 120 mg t.i.d. for 6 da
 #### Dietary Supplements
 
 Grapefruit Juice: In healthy volunteers, a single dose co-administration of 250 mL double strength grapefruit juice with 10 mg nifedipine increased AUC and Cmax by factors of 1.35 and 1.13, respectively.
-Ingestion of repeated doses of grapefruit juice (5 x 200 mL in 12 hours) after administration of 20 mg nifedipine ER increased AUC and Cmax of nifedipine by a factor of 2.0.
+Ingestion of repeated doses of grapefruit juice (5 x 200 mL in 12 hours) after administration of 20 mg nifedipine ER increased AUC and Cmax of nifedipine by a factor of 2.
 Grapefruit juice should be avoided by patients on nifedipine.
 The intake of grapefruit juice should be stopped at least 3 days prior to initiating patients on nifedipine.
 
@@ -278,14 +282,14 @@ Alternative antihypertensive therapy should be considered in patients in whom St
 Debrisoquine: In healthy volunteers, pretreatment with nifedipine 20 mg t.i.d. for 5 days did not change the metabolic ratio of hydroxydebrisoquine to debrisoquine measured in urine after a single dose of 10 mg debrisoquine.
 Thus, it is improbable that nifedipine inhibits in vivo the metabolism of other drugs that are substrates of CYP2D6.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Nifedipine was administered orally to rats for two years and was not shown to be carcinogenic.
 When given to rats prior to mating, nifedipine caused reduced fertility at a dose approximately 30 times the maximum recommended human dose.
 There is a literature report of reversible reduction in the ability of human sperm obtained from a limited number of infertile men taking recommended doses of nifedipine to bind to and fertilize an ovum in vitro.
 In vivo mutagenicity studies were negative.
 
-## Pregnancy:
+## Pregnancy
 
 ### Pregnancy Category C.
 
@@ -301,7 +305,7 @@ Careful monitoring of blood pressure must be exercised in pregnant women, when a
 
 There are no adequate and well-controlled studies in pregnant women.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 Nifedipine is excreted in human milk.
 Nursing mothers are advised not to breastfeed their babies when taking the drug.
@@ -315,3 +319,7 @@ The safety and effectiveness of Adalat CC in pediatric patients have not been es
 Although small pharmacokinetic studies have identified an increased half-life and increased Cmax and AUC (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism), clinical studies of nifedipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+## Patients with Galactose Intolerance
+
+Since this medicinal product contains lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

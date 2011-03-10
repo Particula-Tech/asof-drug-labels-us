@@ -4,7 +4,7 @@ Nifedipine is a calcium ion influx inhibitor (slow-channel blocker or calcium io
 The contractile processes of vascular smooth muscle and cardiac muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels.
 Nifedipine selectively inhibits calcium ion influx across the cell membrane of vascular smooth muscle and cardiac muscle without altering serum calcium concentrations.
 
-## Mechanism of Action:
+## Mechanism of Action
 
 The mechanism by which nifedipine reduces arterial blood pressure involves peripheral arterial vasodilatation and, consequently, a reduction in peripheral vascular resistance.
 The increased peripheral vascular resistance, an underlying cause of hypertension, results from an increase in active tension in the vascular smooth muscle.
@@ -15,7 +15,7 @@ The binding of nifedipine to voltage-dependent and possibly receptor-operated ch
 Stores of intracellular calcium in vascular smooth muscle are limited and thus dependent upon the influx of extracellular calcium for contraction to occur.
 The reduction in calcium influx by nifedipine causes arterial vasodilation and decreased peripheral vascular resistance which results in reduced arterial blood pressure.
 
-## Pharmacokinetics and Metabolism:
+## Pharmacokinetics and Metabolism
 
 Nifedipine is completely absorbed after oral administration.
 The bioavailability of nifedipine as Adalat CC relative to immediate release nifedipine is in the range of 84%-89%.
@@ -58,7 +58,7 @@ A decreased clearance was also observed in the elderly (348 mL/min) compared to 
 Co-administration of nifedipine with grapefruit juice results in up to a 2-fold increase in AUC and Cmax, due to inhibition of CYP3A related first-pass metabolism.
 Ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
-## Clinical Studies:
+## Clinical Studies
 
 Adalat CC produced dose-related decreases in systolic and diastolic blood pressure as demonstrated in two double-blind, randomized, placebo-controlled trials in which over 350 patients were treated with Adalat CC 30, 60 or 90 mg once daily for 6 weeks.
 In the first study, Adalat CC was given as monotherapy and in the second study, Adalat CC was added to a beta-blocker in patients not controlled on a beta-blocker alone.
@@ -82,7 +82,7 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 
 The trough/peak ratios estimated from 24 hour blood pressure monitoring ranged from 41%-78% for diastolic and 46%-91% for systolic blood pressure.
 
-### Hemodynamics:
+### Hemodynamics
 
 Like other slow-channel blockers, nifedipine exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
@@ -91,7 +91,7 @@ With Adalat CC, these decreases in blood pressure are not accompanied by any sig
 Hemodynamic studies of the immediate release nifedipine formulation in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end-diastolic pressure (LVEDP) or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
-### Electrophysiologic Effects:
+### Electrophysiologic Effects
 
 Although, like other members of its class, nifedipine causes a slight depression of sinoatrial node function and atrioventricular conduction in isolated myocardial preparations, such effects have not been seen in studies in intact animals or in man.
 In formal electrophysiologic studies, predominantly in patients with normal conduction systems, nifedipine administered as the immediate release capsule has had no tendency to prolong atrioventricular conduction or sinus node recovery time, or to slow sinus rate.

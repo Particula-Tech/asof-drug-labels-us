@@ -25,3 +25,5 @@ Significant hyperglycemia was seen initially in this patient, but plasma glucose
 
 A young hypertensive patient with advanced renal failure ingested 280 mg of nifedipine capsules at one time, with resulting marked hypotension responding to calcium infusion and fluids.
 No AV conduction abnormalities, arrhythmias, or pronounced changes in heart rate were noted, nor was there any further deterioration in renal function.
+
+Bradycardiac heart rhythm disturbances may be treated symptomatically with ß-sympathomimetics, and in life-threatening bradycardiac disturbances of heart rhythm temporary pacemaker therapy can be advisable.

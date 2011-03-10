@@ -31,15 +31,15 @@ Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470 Made in Germany
 
 Distributed by:
 
-Schering Corporation Kenilworth, NJ 07033
+Schering Corporation, subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
 Adalat is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
 
 Rx Only
 
-08935206, R.2 3/10
+08935206, R.3 2/11
 
-©2010 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
+©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
 
-The following are representative examples of Adalat labeling.
+The following are representative examples of ADALAT labeling.
 See the "How Supplied" section for a complete listing of all components.

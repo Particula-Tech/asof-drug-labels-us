@@ -1,8 +1,8 @@
-# Adalat 30 mg 100 Tablet Label
+Adalat 30 mg 1000 Tablet Label
 
-08917550 NDC 0085-1701-02
+08917577 NDC 0085-1701-01
 
-Adalat©
+ADALAT© CC
 
 (nifedipine)
 
@@ -10,36 +10,38 @@ Extended Release Tablets
 
 30 mg
 
-100 Tablets Rx Only
-
-# Adalat 30 mg 1000 Tablet Label
-
-08917550 NDC 0085-1701-01
-
-Adalat© (nifedipine)
-
-Extended Release Tablets
-
-30 mg
-
-1000 Tablets
+1000 Tablets Rx Only
 
 Rx Only
 
-# Adalat 30 mg 100 Tablet Unit Dose Carton
+Adalat 60 mg 1000 Tablet Label
 
-03780787 NDC 0085-1701-03
+08917607 NDC 0085-1716-01
+
+ADALAT© CC
 
 (nifedipine)
 
 Extended Release Tablets
 
-30 mg
+60 mg
 
-100 Tablets Unit Dose
+1000 Tablets Rx Only
 
-Each tablet contains 30 mg nifedipine.
+Rx Only
 
-For institutional use only.
+Adalat 90 mg 1000 Tablet Label
 
-RX Only
+08917615 NDC 0085-1722-01
+
+ADALAT© CC
+
+(nifedipine)
+
+Extended Release Tablets
+
+90 mg
+
+100 Tablets Rx Only
+
+Rx Only
