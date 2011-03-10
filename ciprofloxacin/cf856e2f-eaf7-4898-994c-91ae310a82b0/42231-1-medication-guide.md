@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 CIPRO® (Sip-row) (ciprofloxacin hydrochloride) TABLETS
 
@@ -21,17 +21,17 @@ If you get any of the following serious side effects, get medical help right awa
 Talk with your healthcare provider about whether you should continue to take CIPRO.
 
 - Tendon rupture or swelling of the tendon (tendinitis)
-- Tendons are tough cords of tissue that connect muscles to bones.
-- Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including CIPRO.
-  The risk of getting tendon problems is higher if you:
-- are over 60 years of age
-- are taking steroids (corticosteroids)
-- have had a kidney, heart or lung transplant
-- Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-- Other reasons for tendon ruptures can include:
-- physical activity or exercise
-- kidney failure
-- tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+  - Tendons are tough cords of tissue that connect muscles to bones.
+  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including CIPRO.
+    The risk of getting tendon problems is higher if you:
+    - are over 60 years of age
+    - are taking steroids (corticosteroids)
+    - have had a kidney, heart or lung transplant
+  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
+  - Other reasons for tendon ruptures can include:
+    - physical activity or exercise
+    - kidney failure
+    - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking CIPRO until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -42,10 +42,14 @@ Talk with your healthcare provider about whether you should continue to take CIP
 - Tendon rupture can happen while you are taking or after you have finished taking CIPRO.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-- hear or feel a snap or pop in a tendon area
-- bruising right after an injury in a tendon area
-- unable to move the affected area or bear weight
-- See the section “What are the possible side effects of CIPRO?” for more information about side effects.
+  - hear or feel a snap or pop in a tendon area
+  - bruising right after an injury in a tendon area
+  - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+See the section “What are the possible side effects of CIPRO?” for more information about side effects.
 
 What is CIPRO?
 
@@ -80,6 +84,7 @@ See “What is the most important information I should know about CIPRO?”
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
@@ -324,7 +329,7 @@ What are the ingredients in CIPRO?
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
 - CIPRO Oral Suspension:
-- Active ingredient: ciproflxacin
+- Active ingredient: ciprofloxacin
 - Inactive ingredients: The components of the suspension have the following compositions: Microcapsules—ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.
   Diluent—medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
 - CIPRO XR:
@@ -334,21 +339,23 @@ What are the ingredients in CIPRO?
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised October 2008
+Revised February 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
-Distributed by: Schering-Plough Schering Corporation Kenilworth, NJ 07033
+Made in Germany
+
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
 CIPRO is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
 
 Rx Only
 
-81532304, R.1 04/09 Bay o 9867 5202-2-A-U.S.-27 14400
+81532304, R.2 02/11 15833
 
-©2009 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
+©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
 
 CIPRO (ciprofloxacin*) 5% and 10% Oral Suspension Made in Italy
 
