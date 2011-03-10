@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INTUNIV™ is supplied in 1 mg, 2 mg, 3 mg, and 4 mg strength extended-release tablets in 100 count bottles.
+INTUNIV® is supplied in 1 mg, 2 mg, 3 mg, and 4 mg strength extended-release tablets in 100 count bottles.
 
 |  | 1 mg | 2 mg | 3 mg | 4 mg |
 | --- | --- | --- | --- | --- |

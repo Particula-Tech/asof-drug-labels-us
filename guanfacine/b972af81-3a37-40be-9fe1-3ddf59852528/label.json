@@ -10,9 +10,17 @@
     "54092-515-02",
     "54092-515-03",
     "54092-517-02",
-    "54092-519-02"
+    "54092-517-03",
+    "54092-519-02",
+    "54092-520-01",
+    "54092-521-01"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "guanfacine",
+      "name": "Intuniv"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "guanfacine",

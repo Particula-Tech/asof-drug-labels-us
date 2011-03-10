@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-INTUNIV™ is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
-The efficacy of INTUNIV™ was studied for the treatment of ADHD in two controlled clinical trials (8 and 9 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD [see Clinical Studies (14)].
-The effectiveness of INTUNIV™ for long-term use (more than 9 weeks) has not been systematically evaluated in controlled trials.
+INTUNIV® is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) as monotherapy and as adjunctive therapy to stimulant medications.
+The efficacy of INTUNIV® was studied for the treatment of ADHD in two controlled monotherapy clinical trials (8 and 9 weeks in duration) and one controlled adjunctive trial with psychostimulants (9 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD [see Clinical Studies (14)].
+The effectiveness of INTUNIV® for longer-term use (more than 9 weeks) has not been systematically evaluated in controlled trials.
 
 A diagnosis of ADHD implies the presence of hyperactive-impulsive and/or inattentive symptoms that cause impairment and were present before the age of 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in two or more settings, e.g., school (or work) and at home.
@@ -20,8 +20,8 @@ The diagnosis must be based upon a complete history and evaluation of the patien
 
 Need for Comprehensive Treatment Program
 
-INTUNIV™ is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, and social) for patients with this syndrome.
+INTUNIV® is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, and social) for patients with this syndrome.
 Drug treatment may not be indicated for all patients with this syndrome.
-INTUNIV™ is not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
+INTUNIV® is not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational/vocational placement is essential and psychosocial intervention is often helpful.
-When remedial measures alone are insufficient, the decision to prescribe INTUNIV™ will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms and on the level of functional impairment.
+When remedial measures alone are insufficient, the decision to prescribe INTUNIV® will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms and on the level of functional impairment.
