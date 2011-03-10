@@ -2,9 +2,7 @@
 
 The usual dose of FLOXIN® (ofloxacin tablets) Tablets is 200 mg to 400 mg orally every 12 h as described in the following dosing chart.
 These recommendations apply to patients with normal renal function (i.e., creatinine clearance >50 mL/min).
-For patients with altered renal function (i.e., creatinine clearance ≤50 mL/min), see the Patients with Impaired Renal Function subsection.
-
-## Patients with Normal Renal Function
+For patients with altered renal function (i.e., creatinine clearance ≤50 mL/min), see the Patients with Impaired Renal Function Subsection.
 
 | InfectionDUE TO THE DESIGNATED PATHOGENS (See INDICATIONS AND USAGE.) | Unit Dose | Frequency | Duration | Daily Dose |
 | --- | --- | --- | --- | --- |
@@ -14,7 +12,7 @@ For patients with altered renal function (i.e., creatinine clearance ≤50 mL/mi
 | Acute, Uncomplicated Urethral and Cervical Gonorrhea | 400 mg | single dose | 1 day | 400 mg |
 | Nongonococcal Cervicitis/Urethritis due to C. trachomatis | 300 mg | q12h | 7 days | 600 mg |
 | Mixed Infection of the urethra and cervix due to C. trachomatis and N. gonorrhoeae | 300 mg | q12h | 7 days | 600 mg |
-| Acute Pelvic Inflammatory Disease | 400 mg | q12ho | 10–14 days | 800 mg |
+| Acute Pelvic Inflammatory Disease | 400 mg | q12h | 10–14 days | 800 mg |
 | Uncomplicated Cystitis due to E. coli or K. pneumoniae | 200 mg | q12h | 3 days | 400 mg |
 | Uncomplicated Cystitis due to other approved pathogens | 200 mg | q12h | 7 days | 400 mg |
 | Complicated UTI's | 200 mg | q12h | 10 days | 400 mg |
@@ -35,11 +33,10 @@ After a normal initial dose, dosage should be adjusted as follows:
 
 When only the serum creatinine is known, the following formula may be used to estimate creatinine clearance.
 
-Men: Creatinine clearance (mL/min) = Weight (kg) × (140-age)
-
-72× serum creatinine (mg/dL)
-
-Women: 0.85× the value calculated for men.
+| Men: Creatinine clearance (mL/min) = | Weight (kg) × (140-age) |  |
+| --- | --- | --- |
+|  | 72 × serum creatinine (mg/dL) |  |
+| Women: 0.85 × the value calculated for men. |  |  |
 
 The serum creatinine should represent a steady-state of renal function.
 

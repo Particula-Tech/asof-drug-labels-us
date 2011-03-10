@@ -6,22 +6,22 @@ Among patients receiving multiple-dose therapy, 4% discontinued ofloxacin due to
 
 In clinical trials, the following events were considered likely to be drug-related in patients receiving multiple doses of ofloxacin:
 
-- nausea 3%, insomnia 3%, headache 1%, dizziness 1%, diarrhea 1%, vomiting 1%, rash 1%, pruritus 1%, external genital pruritus in women 1%, vaginitis 1%, dysgeusia 1%.
+nausea 3%, insomnia 3%, headache 1%, dizziness 1%, diarrhea 1%, vomiting 1%, rash 1%, pruritus 1%, external genital pruritus in women 1%, vaginitis 1%, dysgeusia 1%.
 
 In clinical trials, the most frequently reported adverse events, regardless of relationship to drug, were:
 
-- nausea 10%, headache 9%, insomnia 7%, external genital pruritus in women 6%, dizziness 5%, vaginitis 5%, diarrhea 4%, vomiting 4%.
+nausea 10%, headache 9%, insomnia 7%, external genital pruritus in women 6%, dizziness 5%, vaginitis 5%, diarrhea 4%, vomiting 4%.
 
 In clinical trials, the following events, regardless of relationship to drug, occurred in 1 to 3% of patients:
 
-- Abdominal pain and cramps, chest pain, decreased appetite, dry mouth, dysgeusia, fatigue, flatulence, gastrointestinal distress, nervousness, pharyngitis, pruritus, fever, rash, sleep disorders, somnolence, trunk pain, vaginal discharge, visual disturbances, and constipation.
+Abdominal pain and cramps, chest pain, decreased appetite, dry mouth, dysgeusia, fatigue, flatulence, gastrointestinal distress, nervousness, pharyngitis, pruritus, fever, rash, sleep disorders, somnolence, trunk pain, vaginal discharge, visual disturbances, and constipation.
 
 Additional events, occurring in clinical trials at a rate of less than 1%, regardless of relationship to drug, were:
 
 | Body as a whole: | asthenia, chills, malaise, extremity pain, pain, epistaxis |
 | --- | --- |
 | Cardiovascular System: | cardiac arrest, edema, hypertension, hypotension, palpitations, vasodilation |
-| Gastrointestinal System: | dyspepsia |
+| Gastrointestinal System: | Dyspepsia |
 | Genital/Reproductive System: | burning, irritation, pain and rash of the female genitalia; dysmenorrhea; menorrhagia; metrorrhagia |
 | Musculoskeletal System: | arthralgia, myalgia |
 | Nervous System: | seizures, anxiety, cognitive change, depression, dream abnormality, euphoria, hallucinations, paresthesia, syncope, vertigo, tremor, confusion |
@@ -44,21 +44,25 @@ It is not known whether these abnormalities were caused by the drug or the under
 
 Additional adverse events, regardless of relationship to drug, reported from worldwide marketing experience with quinolones, including ofloxacin:
 
-| Clinical: |  |
-| --- | --- |
+### Clinical
+
 | Cardiovascular System: | cerebral thrombosis, pulmonary edema, tachycardia, hypotension/shock, syncope, torsades de pointes |
+| --- | --- |
 | Endocrine/Metabolic: | hyper- or hypoglycemia, especially in diabetic patients on insulin or oral hypoglycemic agents (See PRECAUTIONS: General and Drug Interactions.) |
 | Gastrointestinal System: | hepatic dysfunction including: hepatic necrosis, jaundice (cholestatic or hepatocellular), hepatitis; intestinal perforation; hepatic failure (including fatal cases); pseudomembranous colitis (the onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment), GI hemorrhage; hiccough, painful oral mucosa, pyrosis (See WARNINGS.) |
 | Genital/Reproductive System: | vaginal candidiasis |
 | Hematopoietic: | anemia, including hemolytic and aplastic; hemorrhage, pancytopenia, agranulocytosis, leukopenia, reversible bone marrow depression, thrombocytopenia, thrombotic thrombocytopenic purpura, petechiae, ecchymosis/bruising (See WARNINGS.) |
 | Musculoskeletal: | tendinitis/rupture; weakness; rhabdomyolysis (See WARNINGS.) |
-| Nervous System: | nightmares; suicidal thoughts or acts, disorientation, psychotic reactions, paranoia; phobia, agitation, restlessness, aggressiveness/hostility, manic reaction, emotional lability; peripheral neuropathy, ataxia, incoordination; possible exacerbation of: myasthenia gravis and extrapyramidal disorders; dysphasia, lightheadedness (See WARNINGS and PRECAUTIONS.) |
+| Nervous System: | nightmares; suicidal thoughts or acts, disorientation, psychotic reactions, paranoia; phobia, agitation, restlessness, aggressiveness/hostility, manic reaction, emotional lability; peripheral neuropathy, ataxia, incoordination; exacerbation of myasthenia gravis and extrapyramidal disorders; dysphasia, lightheadedness (See WARNINGS and PRECAUTIONS.) |
 | Respiratory System: | dyspnea, bronchospasm, allergic pneumonitis, stridor (See WARNINGS.) |
 | Skin/Hypersensitivity: | anaphylactic (-toid) reactions/shock; purpura, serum sickness, erythema multiforme/Stevens-Johnson Syndrome, erythema nodosum, exfoliative dermatitis, hyperpigmentation, toxic epidermal necrolysis, conjunctivitis, photosensitivity/phototoxicity reaction, vesiculobullous eruption (See WARNINGS and PRECAUTIONS.) |
 | Special Senses: | diplopia, nystagmus, blurred vision, disturbances of: taste, smell, hearing and equilibrium, usually reversible following discontinuation |
 | Urinary System: | anuria, polyuria, renal calculi, renal failure, interstitial nephritis, hematuria (See WARNINGS and PRECAUTIONS.) |
-| Laboratory: |  |
+
+### Laboratory
+
 | Hematopoietic: | prolongation of prothrombin time |
+| --- | --- |
 | Serum chemistry: | acidosis, elevation of: serum triglycerides, serum cholesterol, serum potassium, liver function tests including: GGTP, LDH, bilirubin |
 | Urinary: | albuminuria, candiduria |
 

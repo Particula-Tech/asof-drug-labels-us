@@ -1,12 +1,34 @@
 # WARNINGS
 
+## Tendinopathy and Tendon Rupture
+
+Fluoroquinolones, including FLOXIN®, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
+Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendons have also been reported.
+The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in those taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
+Tendinitis and tendon rupture have been reported in patients taking fluoroquinolones who do not have the above risk factors.
+Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
+FLOXIN® should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+
 THE SAFETY AND EFFICACY OF OFLOXACIN IN PEDIATRIC PATIENTS AND ADOLESCENTS (UNDER THE AGE OF 18 YEARS), PREGNANT WOMEN, AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
+
 (See PRECAUTIONS: Pediatric Use, Pregnancy, and Nursing Mothers Subsections.)
 
 In the immature rat, the oral administration of ofloxacin at 5 to 16 times the recommended maximum human dose based on mg/kg or 1–3 times based on mg/m2 increased the incidence and severity of osteochondrosis.
 The lesions did not regress after 13 weeks of drug withdrawal.
 Other quinolones also produce similar erosions in the weight-bearing joints and other signs of arthropathy in immature animals of various species.
 (See ANIMAL PHARMACOLOGY.)
+
+## Exacerbation of Myasthenia Gravis
+
+Fluoroquinolones, including FLOXIN®, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid FLOXIN® in patients with a known history of myasthenia gravis.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Events.)
+
+## Central Nervous System Effects
 
 Convulsions, increased intracranial pressure, and toxic psychosis have been reported in patients receiving quinolones, including ofloxacin.
 Quinolones, including ofloxacin, may also cause central nervous system stimulation which may lead to: tremors, restlessness/agitation, nervousness/anxiety, lightheadedness, confusion, hallucinations, paranoia and depression, nightmares, insomnia, and rarely suicidal thoughts or acts.
@@ -16,7 +38,7 @@ Insomnia may be more common with ofloxacin than some other products in the quino
 As with all quinolones, ofloxacin should be used with caution in patients with a known or suspected CNS disorder that may predispose to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
 (See PRECAUTIONS: General, Information for Patients, Drug Interactions and ADVERSE REACTIONS.)
 
-Hypersensitivity Reactions:
+## Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity and/or anaphylactic reactions have been reported in patients receiving therapy with quinolones, including ofloxacin.
 These reactions often occur following the first dose.
@@ -36,14 +58,14 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS.)
+The drug should be discontinued immediately at the first appearance of skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
-## Peripheral neuropathy
+## Peripheral Neuropathy
 
 Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ofloxacin.
 Ofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation in order to prevent the development of an irreversible condition.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including FLOXIN and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including FLOXIN®, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -52,18 +74,11 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 (See ADVERSE REACTIONS.)
 
-## Tendon effects
-
-Ruptures of the shoulder, hand, Achilles tendon or other tendons that required surgical repair or resulted in prolonged disability have been reported in patients receiving quinolones, including ofloxacin.
-Post-marketing surveillance reports indicate that the risk is increased in patients receiving corticosteroids, especially the elderly (see PRECAUTIONS).
-Ofloxacin should be discontinued if the patient experiences pain, inflammation, or rupture of a tendon.
-Patients should rest and refrain from exercise until the diagnosis of tendonitis or tendon rupture has been confidently excluded.
-Tendon rupture can occur during or after therapy with quinolones, including ofloxacin.
-
 Ofloxacin has not been shown to be effective in the treatment of syphilis.
+
 Antimicrobial agents used in high doses for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
 All patients with gonorrhea should have a serologic test for syphilis at the time of diagnosis.
 Patients treated with ofloxacin for gonorrhea should have a follow-up serologic test for syphilis after three months and, if positive, treatment with an appropriate antimicrobial should be instituted.
@@ -81,7 +96,7 @@ In patients with known or suspected renal or hepatic insufficiency/impairment, c
 In patients with impaired renal function (creatinine clearance ≤50 mg/mL), alteration of the dosage regimen is necessary.
 (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)
 
-Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
+Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, "V" area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
 Drug therapy should be discontinued if photosensitivity/phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events).
 
@@ -96,7 +111,7 @@ If a hypoglycemic reaction occurs in a patient being treated with ofloxacin, dis
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.
 (See WARNINGS and ADVERSE REACTIONS.)
 
-### Torsades de pointes
+## Torsades de pointes
 
 Some quinolones, including ofloxacin, have been associated with prolongation of the QT interval on the electrocardiogram and infrequent cases of arrhythmia.
 Rare cases of torsades de pointes have been spontaneously reported during post-marketing surveillance in patients receiving quinolones, including ofloxacin.
@@ -106,18 +121,20 @@ Ofloxacin should be avoided in patients with known prolongation of the QT interv
 
 Patients should be advised:
 
-- Patients should be counseled that antibacterial drugs including FLOXIN® (ofloxacin tablets) Tablets should only be used to treat bacterial infections.
-  They donot treat viral infections (e.g., the common cold).
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue FLOXIN® treatment.
+  The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants;
+- that fluoroquinolones like FLOXIN® may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems;
+- that antibacterial drugs including FLOXIN® (ofloxacin tablets) Tablets should only be used to treat bacterial infections.
+  They do not treat viral infections (e.g., the common cold).
   When FLOXIN® (ofloxacin tablets) Tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FLOXIN® (ofloxacin tablets) Tablets or other antibacterial drugs in the future.
+  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by FLOXIN® (ofloxacin tablets) Tablets or other antibacterial drugs in the future;
 - that peripheral neuropathies have been associated with ofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, they should discontinue treatment and contact their physicians;
 - to drink fluids liberally;
 - that mineral supplements, vitamins with iron or minerals, calcium-, aluminum- or magnesium-based antacids, sucralfate or Videx® (didanosine) should not be taken within the two-hour period before or within the two-hour period after taking ofloxacin (See Drug Interactions);
 - that ofloxacin can be taken without regard to meals;
 - that ofloxacin may cause neurologic adverse effects (e.g., dizziness, lightheadedness) and that patients should know how they react to ofloxacin before they operate an automobile or machinery or engage in activities requiring mental alertness and coordination (See WARNINGS and ADVERSE REACTIONS);
-- to discontinue FLOXIN treatment and inform their physician if they experience pain, inflammation, or rupture of a tendon, and to rest and refrain from exercise until the diagnosis of tendonitis or tendon rupture has been excluded.
-  The risk of serious tendon disorders is higher in those over 65 years of age, especially those on steroids;
 - that ofloxacin may be associated with hypersensitivity reactions, even following the first dose, to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (e.g., swelling of the lips, tongue, face; tightness of the throat, hoarseness), or any other symptom of an allergic reaction (See WARNINGS and ADVERSE REACTIONS);
 - that photosensitivity/phototoxicity has been reported in patients receiving quinolone antibiotics.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
@@ -128,7 +145,7 @@ Patients should be advised:
 - that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible;
-- to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any class IA (quinidine, procainamide), or class III (amiodarone, sotalol) antiarrhythmic agents.
+- to inform their physician of any personal or family history of QTc prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Patients should notify their physicians if they have any symptoms of prolongation of the QTc interval including prolonged heart palpitations or a loss of consciousness.
 
 ## Drug Interactions
@@ -162,7 +179,7 @@ This may result in a prolonged half-life for some drugs that are also metabolize
 The extent of this inhibition varies among different quinolones.
 (See other Drug Interactions.)
 
-### Non-steroidal anti-inflammatory drugs:
+### Non-steroidal anti-inflammatory drugs
 
 The concomitant administration of a non-steroidal anti-inflammatory drug with a quinolone, including ofloxacin, may increase the risk of CNS stimulation and convulsive seizures.
 (See WARNINGS and PRECAUTIONS: General.)
@@ -185,12 +202,12 @@ Adverse reactions (including seizures) may occur with or without an elevation in
 Some quinolones have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives.
 Therefore, if a quinolone antimicrobial is administered concomitantly with warfarin or its derivatives, the prothrombin time or other suitable coagulation test should be closely monitored.
 
-### Antidiabetic agents (e.g., insulin, glyburide/glibenclamide)
+### Antidiabetic Agents (e.g., insulin, glyburide/glibenclamide)
 
 Since disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concurrently with quinolones and an antidiabetic agent, careful monitoring of blood glucose is recommended when these agents are used concomitantly.
 (See PRECAUTIONS: General and Information for Patients.)
 
-## Interaction with Laboratory or Diagnostic Testing:
+## Interaction with Laboratory or Diagnostic Testing
 
 Some quinolones, including ofloxacin, may produce false-positive urine screening results for opiates using commercially available immunoassay kits.
 Confirmation of positive opiate screens by more specific methods may be necessary.
@@ -204,8 +221,9 @@ Ofloxacin was positive in the UDS test using rat hepatocytes and Mouse Lymphoma 
 
 ## Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category C.
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Ofloxacin has not been shown to have any teratogenic effects at oral doses as high as 810 mg/kg/day (11 times the recommended maximum human dose based on mg/m2 or 50 times based on mg/kg) and 160 mg/kg/day (4 times the recommended maximum human dose based on mg/m2 or 10 times based on mg/kg) when administered to pregnant rats and rabbits, respectively.
 Additional studies in rats with oral doses up to 360 mg/kg/day (5 times the recommended maximum human dose based on mg/m2 or 23 times based on mg/kg) demonstrated no adverse effect on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
@@ -230,12 +248,18 @@ Ofloxacin causes arthropathy (arthrosis) and osteochondrosis in juvenile animals
 
 ## Geriatric Use
 
+Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as FLOXIN®.
+This risk is further increased in patients receiving concomitant corticosteroid therapy.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Caution should be used when prescribing FLOXIN® to elderly patients especially those on corticosteroids.
+Patients should be informed of this potential side effect and advised to discontinue FLOXIN® and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See Boxed Warning, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+
 In phase 2/3 clinical trials with ofloxacin, 688 patients (14.2%) were ≥ 65 years of age.
 Of these, 436 patients (9.0%) were between the ages of 65 and 74 and 252 patients (5.2%) were 75 years or older.
 There was no apparent difference in the frequency or severity of adverse reactions in elderly adults compared with younger adults.
 The pharmacokinetic properties of ofloxacin in elderly subjects are similar to those in younger subjects.
 Drug absorption appears to be unaffected by age.
-Dosage adjustment is necessary for elderly patients with impaired renal function (creatinine clearance rate≤ 50 mL/min) due to reduced clearance of ofloxacin.
+Dosage adjustment is necessary for elderly patients with impaired renal function (creatinine clearance rate ≤ 50 mL/min) due to reduced clearance of ofloxacin.
 In comparative studies, the frequency and severity of most drug-related nervous system events in patients ≥65 years of age were comparable for ofloxacin and control drugs.
 The only differences identified were an increase in reports of insomnia (3.9% vs 1.5%) and headache (4.7% vs 1.8%) with ofloxacin.
 It is important to note that these geriatric safety data are extracted from 44 comparative studies where the adverse reaction information from 20 different controls (other antibiotics or placebo) were pooled for comparison with ofloxacin.
@@ -243,11 +267,6 @@ The clinical significance of such a comparison is not clear.
 (See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)
 
 Elderly patients may be more sensitive to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using ofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g. class IA or class III antiarrhythmics) or in patients with risk factors for Torsade de pointes (e.g. known QT prolongation, uncorrected hypokalemia).
+Therefore, precaution should be taken when using ofloxacin with concomitant drugs that can result in prolongation of the QT interval (e.g.
+Class IA or Class III antiarrhythmics) or in patients with risk factors for Torsade de pointes (e.g. known QT prolongation, uncorrected hypokalemia).
 (See PRECAUTIONS: General: Torsades de pointes)
-
-Patients over 65 are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as FLOXIN®.
-This risk is further increased with concomitant steroid therapy.
-Tendon rupture usually involves the Achilles, hand or shoulder tendons and can occur during therapy or up to a few months post completion of therapy.
-Caution should be used when prescribing FLOXIN® to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue therapy and inform their physicians if any tendon symptoms occur.

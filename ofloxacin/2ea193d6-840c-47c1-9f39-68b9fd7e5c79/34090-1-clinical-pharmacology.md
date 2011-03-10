@@ -6,7 +6,7 @@ Absorption of ofloxacin after single or multiple doses of 200 to 400 mg is predi
 Ofloxacin has biphasic elimination.
 Following multiple oral doses at steady-state administration, the half-lives are approximately 4–5 hours and 20–25 hours.
 However, the longer half-life represents less than 5% of the total AUC.
-Accumulation at Steady-state can be estimated using a half-life of 9 hours.
+Accumulation at steady-state can be estimated using a half-life of 9 hours.
 The total clearance and volume of distribution are approximately similar after single or multiple doses.
 Elimination is mainly by renal excretion.
 The following are mean peak serum concentrations in healthy 70–80 kg male volunteers after single oral doses of 200, 300, or 400 mg of ofloxacin or after multiple oral doses of 400 mg.
@@ -40,7 +40,7 @@ Studies indicate that less than 5% of an administered dose is recovered in the u
 Four to eight percent of an ofloxacin dose is excreted in the feces.
 This indicates a small degree of biliary excretion of ofloxacin.
 
-The administration of FLOXIN® with food does not affect the Cmax and AUC∞of the drug, but Tmax is prolonged.
+The administration of FLOXIN® with food does not affect the Cmax and AUC∞ of the drug, but Tmax is prolonged.
 
 Clearance of ofloxacin is reduced in patients with impaired renal function (creatinine clearance rate ≤50 mL/min), and dosage adjustment is necessary.
 (See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)
@@ -73,19 +73,19 @@ Fluoroquinolones may, therefore, be active against bacteria resistant to these a
 Resistance to ofloxacin due to spontaneous mutation in vitro is a rare occurrence (range: 10-9 to 10-11).
 Although cross-resistance has been observed between ofloxacin and some other fluoroquinolones, some microorganisms resistant to other fluoroquinolones may be susceptible to ofloxacin.
 
-Ofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
+Ofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE Section:
 
-Aerobic Gram-positive microorganisms
+Aerobic Gram-positive Microorganisms
 
 Staphylococcus aureus (methicillin-susceptible strains) Streptococcus pneumoniae (penicillin-susceptible strains) Streptococcus pyogenes
 
-Aerobic Gram-negative microorganisms
+Aerobic Gram-negative Microorganisms
 
 Citrobacter (diversus) koseri Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Neisseria gonorrhoeae Proteus mirabilis Pseudomonas aeruginosa
 
 As with other drugs in this class, some strains of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with ofloxacin.
 
-Other microorganisms
+Other Microorganisms
 
 Chlamydia trachomatis
 
@@ -93,19 +93,19 @@ The following in vitro data are available, but their clinical significance is un
 
 Ofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 µg/mL or less against most (≥90%) strains of the following microorganisms; however, the safety and effectiveness of ofloxacin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
-Aerobic Gram-positive microorganisms
+Aerobic Gram-positive Microorganisms
 
 Staphylococcus epidermidis (methicillin-susceptible strains) Staphylococcus saprophyticus Streptococcus pneumoniae (penicillin-resistant strains)
 
-Aerobic Gram-negative microorganisms
+Aerobic Gram-negative Microorganisms
 
 Acinetobacter calcoaceticus Bordetella pertussis Citrobacter freundii Enterobacter cloacae Haemophilus ducreyi Klebsiella oxytoca Moraxella catarrhalis Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
 
-Anaerobic microorganisms
+Anaerobic Microorganisms
 
 Clostridium perfringes
 
-Other microorganisms
+Other Microorganisms
 
 Chlamydia pneumoniae Gardnerella vaginalis Legionella pneumophila Mycoplasma hominis Mycoplasma pneumoniae Ureaplasma urealyticum
 
@@ -115,7 +115,7 @@ Many strains of other streptococcal species, Enterococcus species, and anaerobes
 
 ## Susceptibility Tests
 
-### Dilution techniques
+### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC values).
 These MIC values provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -168,13 +168,13 @@ Standard ofloxacin powder should provide the following MIC values:
 | Microorganism |  | MIC Range (µg/mL) |
 | --- | --- | --- |
 | Escherichia coli | ATCC 25922 | 0.015–0.12 |
-| Haemophilus influenzae | ATCC 49247This quality control range is applicable to only H. influenzae ATCC 49247 tested by a microdilution procedure using Haemophilus Test Medium (HTM). | 0.016–0.06 |
+| Haemophilus influenzae | ATCC 49247This quality control range is applicable to only H. influenzae ATCC 49247 tested by a microdilution procedure using Haemophilus Test Medium (HTM)1. | 0.016–0.06 |
 | Neisseria gonorrhoeae | ATCC 49226This quality control range is applicable only to N. gonorrhoeae ATCC 49226 tested by an agar dilution procedure using GC agar base with 1% defined growth supplement incubated in 5% CO2. | 0.004–0.016 |
 | Pseudomonas aeruginosa | ATCC 27853 | 1–8 |
 | Staphylococcus aureus | ATCC 29213 | 0.12–1 |
 | Streptococcus pneumoniae | ATCC 49619This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. | 1–4 |
 
-### Diffusion techniques
+### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
@@ -213,7 +213,7 @@ For testing Streptococcus pneumoniae and Streptococcus pyogenes:These zone diame
 | --- | --- |
 | ≥ 16 | Susceptible (S) |
 | 13–15 | Intermediate (I) |
-| ≥ 12 | Resistant (R) |
+| ≤ 12 | Resistant (R) |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for ofloxacin.

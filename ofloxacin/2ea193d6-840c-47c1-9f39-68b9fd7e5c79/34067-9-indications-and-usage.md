@@ -11,7 +11,7 @@ Acute bacterial exacerbations of chronic bronchitis due to Haemophilus influenza
 
 Community-acquired Pneumonia due to Haemophilus influenzae or Streptococcus pneumoniae.
 
-Uncomplicated skin and skin structure infections due to Staphylococcus aureus, Streptococcus pyogenes, or Proteus mirabilis.
+Uncomplicated skin and skin structure infections due to methicillin-susceptible Staphylococcus aureus, Streptococcus pyogenes, or Proteus mirabilis.
 
 Acute, uncomplicated urethral and cervical gonorrhea due to Neisseria gonorrhoeae.
 (See WARNINGS.)
@@ -29,7 +29,7 @@ NOTE: If anaerobic microorganisms are suspected of contributing to the infection
 
 Uncomplicated cystitis due to Citrobacter diversus, Enterobacter aerogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa.
 
-Complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Citrobacter diversus = Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients. or Pseudomonas aeruginosa.
+Complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Citrobacter diversus = Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients., or Pseudomonas aeruginosa.
 
 Prostatitis due to Escherichia coli.
 

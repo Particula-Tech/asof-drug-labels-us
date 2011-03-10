@@ -13,6 +13,8 @@ These changes, however, were considered to be within normal limits for monkeys.
 
 Crystalluria and ocular toxicity were not observed in any animals treated with ofloxacin.
 
-FLOXIN® is a trademark of ORTHO-McNEIL PHARMACEUTICAL, INC.
+FLOXIN® is a trademark of Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
-U.S. Patent No. 4,382,892
+Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ USA 08869 © Ortho-McNeil-Janssen Pharmaceuticals, Inc. 1998
+
+Issued January 2011
