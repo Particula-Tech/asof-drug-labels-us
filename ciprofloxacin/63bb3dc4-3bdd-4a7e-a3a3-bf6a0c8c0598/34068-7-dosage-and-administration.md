@@ -32,7 +32,7 @@ ADULT DOSAGE GUIDELINES
 |  |  | Not to exceed |  |  |
 |  |  | 24 g/day |  |  |
 | Inhalational anthrax |  |  |  |  |
-| (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, seeINHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. Total duration of ciprofloxacin administration (I.V. or oral) for inhalational anthrax (post-exposure) is 60 days. |  | 400 mg | q12h | 60 Days |
+| (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. Total duration of ciprofloxacin administration (I.V. or oral) for inhalational anthrax (post-exposure) is 60 days. |  | 400 mg | q12h | 60 Days |
 
 CIPRO I.V. should be administered by intravenous infusion over a period of 60 minutes.
 

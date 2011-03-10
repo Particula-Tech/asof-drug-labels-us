@@ -12,6 +12,13 @@ Tendon rupture can occur during or after completion of therapy; cases occurring 
 CIPRO I.V. should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 
+## Exacerbation of Myasthenia Gravis:
+
+Fluoroquinolones, including CIPRO I.V., have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid CIPRO in patients with known history of myasthenia gravis.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Event Reports.)
+
 ## Pregnant Women:
 
 THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
@@ -67,7 +74,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
 ## Pseudomembranous Colitis:
 
@@ -99,7 +106,7 @@ These reactions are more frequent if infusion time is 30 minutes or less or if s
 ## Central Nervous System:
 
 Quinolones, including ciprofloxacin, may also cause central nervous system (CNS) events, including: nervousness, agitation, insomnia, anxiety, nightmares or paranoia.
-(See WARNINGS, Information For Patients:, and Drug Interactions.)
+(See WARNINGS, Information For Patients, and Drug Interactions.)
 
 Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline.
 (See ANIMAL PHARMACOLOGY.)
@@ -128,6 +135,8 @@ Patients should be advised:
 
 - to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO I.V. treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- that fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - that antibacterial drugs including CIPRO I.V. should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When CIPRO I.V. is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.

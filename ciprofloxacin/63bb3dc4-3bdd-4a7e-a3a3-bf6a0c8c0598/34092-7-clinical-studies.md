@@ -61,6 +61,3 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
    Evaluation of a case registry of the European network of teratology information services (ENTIS).
    Eur J Obstet Gynecol Reprod Biol.
    1996;69:83-89.
-
-The following are representative examples of Cipro I.V. labeling.
-See the "How Supplied" section for a complete listing of all components.
