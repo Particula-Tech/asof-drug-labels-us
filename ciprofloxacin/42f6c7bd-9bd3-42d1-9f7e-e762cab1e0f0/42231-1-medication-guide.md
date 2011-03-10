@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 CIPRO® (Sip-row) (ciprofloxacin hydrochloride) TABLETS
 
@@ -45,7 +45,11 @@ Talk with your healthcare provider about whether you should continue to take CIP
 - hear or feel a snap or pop in a tendon area
 - bruising right after an injury in a tendon area
 - unable to move the affected area or bear weight
-- See the section “What are the possible side effects of CIPRO?” for more information about side effects.
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+See the section “What are the possible side effects of CIPRO?” for more information about side effects.
 
 What is CIPRO?
 
@@ -80,6 +84,7 @@ See “What is the most important information I should know about CIPRO?”
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
@@ -154,8 +159,10 @@ How should I take CIPRO?
 - you have tendon effects (see “What is the most important information I should know about CIPRO?”),
 - you have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
 - your healthcare provider tells you to stop.
-- This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
-  If this happens, CIPRO and other antibiotic medicines may not work in the future.
+
+This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
+If this happens, CIPRO and other antibiotic medicines may not work in the future.
+
 - If you miss a dose of CIPRO Tablets or Oral Suspension, take it as soon as you remember.
   Do not take two doses at the same time, and do not take more than two doses in one day.
 - If you miss a dose of CIPRO XR, take it as soon as you remember.
@@ -320,7 +327,7 @@ For more information go to www.CIPRO.com or call 1-800-526-4099.
 
 What are the ingredients in CIPRO?
 
-- CIPRO Tablets:
+- CIPRO Tablets
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
 - CIPRO Oral Suspension:
@@ -334,7 +341,7 @@ What are the ingredients in CIPRO?
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised October 2008
+Revised February 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -342,12 +349,12 @@ Manufactured by: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
 Made in Germany
 
-Distributed by: Schering Plough Schering Corporation Kenilworth, NJ 07033
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
 CIPRO is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
 
 Rx Only
 
-81532274, R.0Bay o 9867/q 393910/0814212
+81532274, R.1 02/11 15831
 
-©2008 Bayer HealthCare Pharmaceuticals Inc.Printed in U.S.A.
+©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.

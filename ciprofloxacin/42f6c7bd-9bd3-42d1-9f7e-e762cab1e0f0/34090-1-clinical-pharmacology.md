@@ -14,10 +14,10 @@ Ciprofloxacin Pharmacokinetics (Mean ± SD) Following CIPRO® and CIPRO XR Admin
 
 |  | Cmax (mg/L) | AUC0-24h (mg•h/L) | T1/2 (hr) | Tmax (hr)median (range) |
 | --- | --- | --- | --- | --- |
-| CIPRO XR 500 mg QD | 1.59 ± 0.43 | 7.97 ± 1.87 | 6.6 ± 1.4 | 1.5 (1.0 – 2.5) |
-| CIPRO 250 mg BID | 1.14 ± 0.23 | 8.25 ± 2.15 | 4.8 ± 0.6 | 1.0 (0.5 – 2.5) |
-| CIPRO XR 1000 mg QD | 3.11 ± 1.08 | 16.83 ± 5.65 | 6.31 ± 0.72 | 2.0 (1 – 4) |
-| CIPRO 500 mg BID | 2.06 ± 0.41 | 17.04 ± 4.79 | 5.66 ± 0.89 | 2.0 (0.5 – 3.5) |
+| CIPRO XR 500 mg QD | 1.59 ± 0.43 | 7.97 ± 1.87 | 6.6 ± 1.4 | 1.5 (1 – 2.5) |
+| CIPRO 250 mg BID | 1.14 ± 0.23 | 8.25 ± 2.15 | 4.8 ± 0.6 | 1 (0.5 – 2.5) |
+| CIPRO XR 1000 mg QD | 3.11 ± 1.08 | 16.83 ± 5.65 | 6.31 ± 0.72 | 2 (1 – 4) |
+| CIPRO 500 mg BID | 2.06 ± 0.41 | 17.04 ± 4.79 | 5.66 ± 0.89 | 2 (0.5 – 3.5) |
 
 Results of the pharmacokinetic studies demonstrate that CIPRO XR may be administered with or without food (e.g. high-fat and low-fat meals or under fasted conditions).
 

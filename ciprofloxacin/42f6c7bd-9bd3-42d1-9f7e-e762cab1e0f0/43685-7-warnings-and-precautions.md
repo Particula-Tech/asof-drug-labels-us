@@ -10,6 +10,11 @@ Tendon rupture can occur during or after completion of therapy; cases occurring 
 CIPRO XR should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 
+Exacerbation of Myasthenia Gravis: Fluoroquinolones, including CIPRO XR, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid CIPRO XR in patients with known history of myasthenia gravis.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Event Reports).
+
 THE SAFETY AND EFFECTIVENESS OF CIPRO XR IN PEDIATRIC PATIENTS AND ADOLESCENTS (UNDER THE AGE OF 18 YEARS), PREGNANT WOMEN, AND NURSING WOMEN HAVE NOT BEEN ESTABLISHED.
 (See PRECAUTIONS: Pediatric Use, Pregnancy, and Nursing Mothers subsections.)
 The oral administration of ciprofloxacin caused lameness in immature dogs.
@@ -49,7 +54,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -92,6 +97,8 @@ Patients should be advised:
 
 - to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO XR treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- that fluoroquinolones like CIPRO XR may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - that antibacterial drugs including CIPRO XR should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When CIPRO XR is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -99,9 +106,9 @@ Patients should be advised:
 - that CIPRO XR may be taken with or without meals and to drink fluids liberally.
   As with other quinolones, concurrent administration with magnesium/aluminum antacids, or sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or with other products containing calcium, iron, or zinc should be avoided.
   CIPRO XR may be taken two hours before or six hours after taking these products.
-  (See CLINICAL PHARMACOLOGY, Drug-drug Interactions,DOSAGE AND ADMINISTRATION, and PRECAUTIONS, Drug Interactions.)
-  CIPRO XR should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, CIPRO XR may be taken with a meal that contains these products.
   (See CLINICAL PHARMACOLOGY, Drug-drug Interactions, DOSAGE AND ADMINISTRATION, and PRECAUTIONS, Drug Interactions.)
+  CIPRO XR should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, CIPRO XR may be taken with a meal that contains these products.
+  (See CLINICAL PHARMACOLOGY, Drug-drug Interactions DOSAGE AND ADMINISTRATION, and RECAUTIONS, Drug Interactions.)
 - if the patient should forget to take CIPRO XR at the usual time, he/she may take the dose later in the day.
   Do not take more than one CIPRO XR tablet per day even if a patient misses a dose.
   Swallow the CIPRO XR tablet whole.
@@ -139,7 +146,7 @@ This may lead to reduced clearance of caffeine and a prolongation of its serum h
 
 Concurrent administration of a quinolone, including ciprofloxacin, with multivalent cation-containing products such as magnesium/aluminum antacids, sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or products containing calcium, iron, or zinc may substantially interfere with the absorption of the quinolone, resulting in serum and urine levels considerably lower than desired.
 CIPRO XR should be administered at least 2 hours before or 6 hours after antacids containing magnesium or aluminum, as well as sucralfate, VIDEX® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, metal cations such as iron, and multivitamin preparations with zinc.
-(See CLINICAL PHARMACOLOGY, Drug-drug Interactions, PRECAUTIONS, Information for Patients, and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY, Drug-drug Interactions, PRECAUTIONS, Information For Patients, and DOSAGE AND ADMINISTRATION.)
 
 Histamine H2-receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin.
 
@@ -151,9 +158,6 @@ Altered serum levels of phenytoin (increased and decreased) have been reported i
 The concomitant administration of ciprofloxacin with the sulfonylurea glyburide has, on rare occasions, resulted in severe hypoglycemia.
 
 Some quinolones, including ciprofloxacin, have been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
-
-Quinolones, including ciprofloxacin, have been reported to enhance the effects of the oral anticoagulant warfarin or its derivatives.
-When these products are administered concomitantly, prothrombin time or other suitable coagulation tests should be closely monitored.
 
 Probenecid interferes with renal tubular secretion of ciprofloxacin and produces an increase in the level of ciprofloxacin in the serum.
 This should be considered if patients are receiving both drugs concomitantly.
