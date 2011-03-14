@@ -1,4 +1,21 @@
-# CLINICAL PHARMACOLOGY
+# 12 Clinical Pharmacology
+
+## 12.1 Mechanism of Action
+
+Ursodiol, a naturally occurring hydrophilic bile acid, derived from cholesterol, is present as a minor fraction of the total human bile acid pool.
+Oral administration of ursodiol increases this fraction in a dose related manner, to become the major biliary acid, replacing/displacing toxic concentrations of endogenous hydrophobic bile acids that tend to accumulate in cholestatic liver disease.
+
+In addition to the replacement and displacement of toxic bile acids, other mechanisms of action include cytoprotection of the injured bile duct epithelial cells (cholangiocytes) against toxic effects of bile acids, inhibition of apotosis of hepatocytes, immunomodulatory effects, and stimulation of bile secretion by hepatocytes and cholangiocytes.
+
+## 12.2 Pharmacodynamics
+
+Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates.
+Ursodiol is 7-dehydroxylated more slowly than chenodiol.
+For equimolar doses of ursodiol and chenodiol, steady state levels of lithocholic acid in biliary bile acids are lower during ursodiol administration than with chenodiol administration.
+Humans and chimpanzees can sulfate lithocholic acid.
+Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals.
+
+## 12.3 Pharmacokinetics
 
 Ursodiol (UDCA) is normally present as a minor fraction of the total bile acids in humans (about 5%).
 Following oral administration, the majority of ursodiol is absorbed by passive diffusion and its absorption is incomplete.
@@ -14,15 +31,8 @@ These metabolites are poorly soluble and excreted in the feces.
 A small portion of lithocholic acid is reabsorbed, conjugated in the liver with glycine, or taurine and sulfated at the 3 position.
 The resulting sulfated lithocholic acid conjugates are excreted in bile and then lost in feces.
 
-Lithocholic acid, when administered chronically to animals, causes cholestatic liver injury that may lead to death from liver failure in certain species unable to form sulfate conjugates.
-Ursodiol is 7-dehydroxylated more slowly than chenodiol.
-For equimolar doses of ursodiol and chenodiol, steady state levels of lithocholic acid in biliary bile acids are lower during ursodiol administration than with chenodiol administration.
-Humans and chimpanzees can sulfate lithocholic acid.
-Although liver injury has not been associated with ursodiol therapy, a reduced capacity to sulfate may exist in some individuals.
-Nonetheless, such a deficiency has not yet been clearly demonstrated and must be extremely rare, given the several thousand patient-years of clinical experience with ursodiol.
-
 In healthy subjects, at least 70% of ursodiol (unconjugated) is bound to plasma protein.
-No information is available on the binding of conjugated ursodiol to plasma protein in healthy subjects or primary biliary cirrhosis (PBC) patients.
+No information is available on the binding of conjugated ursodiol to plasma protein in healthy subjects or PBC patients.
 Its volume of distribution has not been determined, but is expected to be small since the drug is mostly distributed in the bile and small intestine.
 Ursodiol is excreted primarily in the feces.
 With treatment, urinary excretion increases, but remains less than 1% except in severe cholestatic liver disease.
