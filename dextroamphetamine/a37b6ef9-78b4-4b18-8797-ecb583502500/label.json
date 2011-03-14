@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017078"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Amedra Pharmaceuticals",
+  "package_ndcs": [
+    "52054-512-09",
+    "52054-513-09",
+    "52054-514-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate",
+      "name": "DEXEDRINE"
+    }
+  ],
+  "setid": "a37b6ef9-78b4-4b18-8797-ecb583502500",
+  "source": "dailymed"
+}
