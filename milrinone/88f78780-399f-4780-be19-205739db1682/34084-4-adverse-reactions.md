@@ -1,0 +1,34 @@
+# ADVERSE REACTIONS
+
+## Cardiovascular Effects
+
+In patients receiving milrinone lactate in Phase II and III clinical trials, ventricular arrhythmias were reported in 12.1%: Ventricular ectopic activity, 8.5%; nonsustained ventricular tachycardia, 2.8%; sustained ventricular tachycardia, 1% and ventricular fibrillation, 0.2% (2 patients experienced more than one type of arrhythmia).
+Holter recordings demonstrated that in some patients injection of milrinone lactate increased ventricular ectopy, including nonsustained ventricular tachycardia.
+Life-threatening arrhythmias were infrequent and when present have been associated with certain underlying factors such as preexisting arrhythmias, metabolic abnormalities (e.g. hypokalemia), abnormal digoxin levels and catheter insertion.
+Milrinone lactate was not shown to be arrhythmogenic in an electrophysiology study.
+Supraventricular arrhythmias were reported in 3.8% of the patients receiving milrinone lactate.
+The incidence of both supraventricular and ventricular arrhythmias has not been related to the dose or plasma milrinone concentration.
+
+Other cardiovascular adverse reactions include hypotension, 2.9% and angina/chest pain, 1.2%.
+
+In the post-marketing experience, there have been rare cases of “torsades de pointes” reported.
+
+## CNS Effects
+
+Headaches, usually mild to moderate in severity, have been reported in 2.9% of patients receiving milrinone lactate.
+
+## Other Effects
+
+Other adverse reactions reported, but not definitely related to the administration of milrinone lactate include hypokalemia, 0.6%; tremor, 0.4%; and thrombocytopenia, 0.4%.
+
+Isolated spontaneous reports of bronchospasm and anaphylactic shock have been received; and in the post-marketing experience, liver function test abnormalities and skin reactions such as rash have been reported.
+
+## Post-Marketing Adverse Event Reports
+
+In addition to adverse events reported from clinical trials, the following events have been reported from worldwide post-marketing experience with milrinone lactate:
+
+Isolated spontaneous reports of bronchospasm and anaphylactic shock.
+
+Liver function test abnormalities and skin reactions such as rash.
+
+Administration site conditions: Infusion site reaction.
