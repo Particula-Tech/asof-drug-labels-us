@@ -20,7 +20,7 @@ In a study evaluating the effects of mometasone furoate lotion on the hypothalam
 At the end of treatment, the plasma cortisol levels for each of the four patients remained within the normal range and changed little from baseline.
 
 Sixty-five pediatric patients ages 6 to 23 months, with atopic dermatitis, were enrolled in an open-label, hypothalamic-pituitary-adrenal (HPA) axis safety study.
-ELOCON Lotion, 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 40% (range 16%– 90%).
+ELOCON Lotion, 0.1% was applied once daily for approximately 3 weeks over a mean body surface area of 40% (range 16%–90%).
 In approximately 29% of patients who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with ELOCON Lotion, 0.1%.
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the patients, demonstrated suppressed HPA axis function in one patient, using these same criteria.

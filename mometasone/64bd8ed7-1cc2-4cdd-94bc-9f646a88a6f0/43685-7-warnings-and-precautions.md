@@ -109,7 +109,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Since safety and efficacy of ELOCON Lotion, 0.1% have not been established in pediatric patients below 12 years of age, its use in this age group is not recommended.
 
 ELOCON Lotion, 0.1% caused HPA axis suppression in approximately 29% of pediatric patients ages 6 to 23 months, who showed normal adrenal function by Cortrosyn test before starting treatment, and were treated for approximately 3 weeks over a mean body surface area of 40% (range 16%–90%).
-The criteria for suppression were: basal cortisol level of ≤ 5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
+The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the patients, demonstrated suppressed HPA axis function in one patient, using these same criteria.
 Long-term use of topical corticosteroids has not been studied in this population (see CLINICAL PHARMACOLOGY, Pharmacokinetics section).
 
