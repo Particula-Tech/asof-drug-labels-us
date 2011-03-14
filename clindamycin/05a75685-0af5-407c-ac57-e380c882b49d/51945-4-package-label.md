@@ -1,19 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 150 mg/mL Vial Label
-
-150 mg/mL*
-
-NDC 0009-0728-05
-
-60 mL Pharmacy Bulk Package
-
-Cleocin Phosphate® clindamycin injection, USP 150 mg/mL*
-
-For intramuscular or intravenous use Not for direct infusion
-
-Rx only
-
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
-
 # PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Vial Label
 
 300 mg/2 mL*
@@ -26,49 +10,55 @@ For intramuscular or intravenous use
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 300 mg/50 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Carton
 
-12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3381-01
+NDC 0009-0775-26 Contains 25 of NDC 0009-0775-20 Rx only
 
-Cleocin Phosphate® IV Solution clindamycin injection
+25—4 mL Single Dose Vials
 
-Rx only
+Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
+
+For intramuscular or intravenous use
 
 Pfizer Injectables
 
-300 mg/ 50 mL* in 5% Dextrose
+# PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Carton
 
-NDC 0009-3381-02 Code 2G3414
+NDC 0009-0902-18 Contains 25 of NDC 0009-0902-11 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Label
+25—6 mL Single Dose Vials
 
-600 mg/4 mL*
+Cleocin Phosphate® clindamycin injection, USP 900 mg/6 mL* (150 mg/mL)
 
-NDC 0009-3124-01
+For intramuscular or intravenous use
 
-Single Dose 4 mL ADD-Vantage™ Vial
+Pfizer Injectables
 
-Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL*
+# PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Bulk Carton
+
+NDC 0009-0728-09 Contains 5 of NDC 0009-0728-05 Rx only
+
+5—60 mL Pharmacy Bulk Packages
+
+Cleocin Phosphate® clindamycin injection, USP 9,000 mg/60 mL* (150 mg/mL)
+
+For intramuscular or intravenous use
+
+Not for direct infusion
+
+Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Carton
+
+25—4 mL Single Dose ADD-Vantage™ Vials
+
+NDC 0009-3124-03 Contains 25 of NDC 0009-3124-01 Rx only
+
+Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
 
 For intravenous use only
 
-Use only with the ADD-Vantage diluent container.
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 600 mg/50 mL Bag Label
-
-12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3375-01
-
-Cleocin Phosphate® IV Solution clindamycin injection
-
-Rx only
-
 Pfizer Injectables
-
-600 mg/ 50 mL* in 5% Dextrose
-
-NDC 0009-3375-02 Code 2G3415
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -86,7 +76,35 @@ Use only with the ADD-Vantage diluent container.
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 900 mg/50 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Bag Label
+
+12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3381-01
+
+Cleocin Phosphate® IV Solution clindamycin injection
+
+Rx only
+
+Pfizer Injectables
+
+300 mg/ 50 mL* in 5% Dextrose
+
+NDC 0009-3381-02 Code 2G3414
+
+# PRINCIPAL DISPLAY PANEL - 600 mg/ 50 mL Bag Label
+
+12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3375-01
+
+Cleocin Phosphate® IV Solution clindamycin injection
+
+Rx only
+
+Pfizer Injectables
+
+600 mg/ 50 mL* in 5% Dextrose
+
+NDC 0009-3375-02 Code 2G3415
+
+# PRINCIPAL DISPLAY PANEL - 900 mg/ 50 mL Bag Label
 
 12 x 50 mL Single Dose Containers Contains 12 of NDC 0009-3382-01
 
