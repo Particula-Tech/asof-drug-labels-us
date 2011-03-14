@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA079086"
+  ],
+  "inn": "fludeoxyglucose-f-18",
+  "labeler": "PETNET Solutions, Inc.",
+  "package_ndcs": [
+    "40028-511-30",
+    "40028-511-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fludeoxyglucose f 18",
+      "name": "Fludeoxyglucose F 18"
+    }
+  ],
+  "setid": "caaa9ab5-e3f4-489d-9f4c-0ecbee6fca83",
+  "source": "dailymed"
+}
