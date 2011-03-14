@@ -15,8 +15,7 @@ After addition of the diuretic it may be possible to reduce the dose of lisinopr
 Patients whose blood pressures are adequately controlled with 25 mg of daily hydrochlorothiazide, but who experience significant potassium loss with this regimen may achieve similar or greater blood-pressure control without electrolyte disturbance if they are switched to lisinopril/HCTZ 10/12.5.
 
 In patients who are currently being treated with a diuretic, symptomatic hypotension occasionally may occur following the initial dose of lisinopril.
-The diuretic should, if possible, be discontinued for two to three days before beginning therapy with lisinopril to reduce the likelihood of hypotension.
-(See WARNINGS.)
+The diuretic should, if possible, be discontinued for two to three days before beginning therapy with lisinopril to reduce the likelihood of hypotension (See WARNINGS).
 If the patient's blood pressure is not controlled with lisinopril alone, diuretic therapy may be resumed.
 
 If the diuretic cannot be discontinued, an initial dose of 5 mg of lisinopril should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and PRECAUTIONS, Drug Interactions).

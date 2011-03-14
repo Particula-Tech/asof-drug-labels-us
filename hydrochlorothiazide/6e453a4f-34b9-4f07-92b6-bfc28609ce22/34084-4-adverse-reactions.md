@@ -55,7 +55,7 @@ Cough: See PRECAUTIONS - Cough.
 
 ## Clinical Laboratory Test Findings
 
-Serum Electrolytes: (See PRECAUTIONS.)
+Serum Electrolytes: (See PRECAUTIONS).
 
 Creatinine, Blood Urea Nitrogen: Minor reversible increases in blood urea nitrogen and serum creatinine were observed in patients with essential hypertension treated with ZESTORETIC.
 More marked increases have also been reported and were more likely to occur in patients with renal artery stenosis (See PRECAUTIONS).
@@ -66,7 +66,7 @@ Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean de
 In clinical trials, 0.4% of patients discontinued therapy due to anemia.
 
 Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred.
-(See WARNINGS, Hepatic Failure.)
+(See WARNINGS, Hepatic Failure).
 
 Other adverse reactions that have been reported with the individual components are listed below:
 

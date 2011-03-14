@@ -17,19 +17,11 @@ ZESTORETIC is a trademark of the AstraZeneca group of companies.
 
 © AstraZeneca 2009
 
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: AstraZeneca UK Limited
-
-Macclesfield, UK
-
-Made in the United Kingdom
-
-SIC 35366–01
-
 Rev.
-11/2009
+02/2011

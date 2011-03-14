@@ -100,6 +100,13 @@ On a mg/kg basis, the doses used were up to 625 times (in mice), 188 times (in r
 
 ### Hydrochlorothiazide
 
+Acute Myopia and Secondary Angle-Closure Glaucoma: Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 Teratogenic Effects: Reproduction studies in the rabbit, the mouse and the rat at doses up to 100 mg/kg/day (50 times the human dose) showed no evidence of external abnormalities of the fetus due to hydrochlorothiazide.
 Hydrochlorothiazide given in a two-litter study in rats at doses of 4-5.6 mg/kg/day (approximately 1-2 times the usual daily human dose) did not impair fertility or produce birth abnormalities in the offspring.
 Thiazides cross the placental barrier and appear in cord blood.
