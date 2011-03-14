@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION (SEE TABLE BELOW)
 
-Tegretol suspension in combination with liquid chlorpromazine or thioridazine results in precipitate formation, and, in the case of chlorpromazine, there has been a report of a patient passing an orange rubbery precipitate in the stool following coadministration of the two drugs.
-(See PRECAUTIONS, Drug Interactions).
+Tegretol suspension in combination with liquid chlorpromazine or thioridazine results in precipitate formation, and, in the case of chlorpromazine, there has been a report of a patient passing an orange rubbery precipitate in the stool following coadministration of the two drugs (see PRECAUTIONS, Drug Interactions).
 Because the extent to which this occurs with other liquid medications is not known, Tegretol suspension should not be administered simultaneously with other liquid medications or diluents.
 
 Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see PRECAUTIONS, Laboratory Tests).
@@ -21,7 +20,7 @@ Tegretol-XR tablets should be inspected for chips or cracks.
 Damaged tablets, or tablets without a release portal, should not be consumed.
 Tegretol-XR tablet coating is not absorbed and is excreted in the feces; these coatings may be noticeable in the stool.
 
-## Epilepsy (see INDICATIONS AND USAGE)
+## Epilepsy (SEE INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age - Initial: Either 200 mg b.i.d. for tablets and XR tablets, or 1 teaspoon q.i.d. for suspension (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a b.i.d. regimen of Tegretol-XR or a t.i.d. or q.i.d. regimen of the other formulations until the optimal response is obtained.
@@ -43,7 +42,7 @@ No recommendation regarding the safety of carbamazepine for use at doses above 3
 Combination Therapy: Tegretol may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
 
-## Trigeminal Neuralgia (see INDICATIONS AND USAGE)
+## Trigeminal Neuralgia (SEE INDICATIONS AND USAGE)
 
 Initial: On the first day, either 100 mg b.i.d. for tablets or XR tablets, or 1/2 teaspoon q.i.d. for suspension, for a total daily dose of 200 mg.
 This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours for tablets or XR tablets, or 50 mg (1/2 teaspoon) q.i.d. for suspension, only as needed to achieve freedom from pain.
@@ -61,4 +60,6 @@ At least once every 3 months throughout the treatment period, attempts should be
 | Over 12 yr | 200 mg b.i.d. (400 mg/day) | 200 mg b.i.d. (400 mg/day) | 1 tsp q.i.d. (400 mg/day) | Add up to 200 mg/day at weekly intervals, t.i.d. or q.i.d. | Add up to 200 mg/day at weekly intervals, b.i.d. | Add up to 2 tsp (200 mg)/day at weekly intervals, t.i.d. or q.i.d. | 1000 mg/24 hr (12-15 yr) 1200 mg/24 hr (>15 yr) 1600 mg/24 hr (adults, in rare instances) |  |  |
 | Trigeminal Neuralgia | 100 mg b.i.d. (200 mg/day) | 100 mg b.i.d. (200 mg/day) | ½ tsp q.i.d. (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 2 tsp (200 mg)/day in increments of 50 mg (½ tsp) q.i.d. |  | 1200 mg/24 hr |  |
 
-*Tablet = Chewable or conventional tablets †XR = Tegretol®-XR extended-release tablets
+*Tablet = Chewable or conventional tablets
+
+†XR = Tegretol®-XR extended-release tablets

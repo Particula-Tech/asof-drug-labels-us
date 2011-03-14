@@ -1,19 +1,44 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016608",
+    "NDA018281",
+    "NDA018927",
+    "NDA020234"
+  ],
   "inn": "carbamazepine",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
-    "0083-0019-76",
-    "0083-0027-30",
-    "0083-0027-32",
-    "0083-0027-40",
-    "0083-0052-30",
-    "0083-0052-32",
-    "0083-0061-30",
-    "0083-0062-30",
-    "0083-0063-30"
+    "0078-0492-05",
+    "0078-0492-35",
+    "0078-0492-61",
+    "0078-0508-83",
+    "0078-0509-05",
+    "0078-0510-05",
+    "0078-0511-05",
+    "0078-0512-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "carbamazepine",
+      "name": "Tegretol"
+    },
+    {
+      "form": "TABLET",
+      "generic": "carbamazepine",
+      "name": "Tegretol"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "carbamazepine",
+      "name": "Tegretol"
+    },
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "Tegretol"
+    }
+  ],
   "setid": "8d409411-aa9f-4f3a-a52c-fbcb0c3ec053",
   "source": "dailymed"
 }

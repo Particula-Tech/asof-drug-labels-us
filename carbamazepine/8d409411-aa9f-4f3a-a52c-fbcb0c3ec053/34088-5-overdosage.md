@@ -10,7 +10,7 @@ Oral LD50 in animals (mg/kg): mice, 1100-3750; rats, 3850-4025; rabbits, 1500-26
 
 The first signs and symptoms appear after 1-3 hours.
 Neuromuscular disturbances are the most prominent.
-Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (> 60 g) have been ingested.
+Cardiovascular disorders are generally milder, and severe cardiac complications occur only when very high doses (>60 g) have been ingested.
 
 Respiration: Irregular breathing, respiratory depression.
 

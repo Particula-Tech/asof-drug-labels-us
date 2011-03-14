@@ -1,10 +1,18 @@
-T2003-70
+Tegretol®
 
-Tegretol® carbamazepine USP
+carbamazepine USP
 
-Chewable Tablets of 100 mg - red-speckled, pink Tablets of 200 mg – pink Suspension of 100 mg/5 mL
+Chewable Tablets of 100 mg - red-speckled, pink
 
-Tegretol®-XR (carbamazepine extended-release tablets) 100 mg, 200 mg, 400 mg
+Tablets of 200 mg – pink
+
+Suspension of 100 mg/5 mL
+
+Tegretol®-XR
+
+(carbamazepine extended-release tablets)
+
+100 mg, 200 mg, 400 mg
 
 Rx only
 
