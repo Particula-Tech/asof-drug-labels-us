@@ -16,9 +16,9 @@ Bleeding can occur at any site but certain specific hemorrhagic complications ma
    This complication, if unrecognized, may be fatal.
 3. Retroperitoneal hemorrhage.
 
-## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT) and Delayed Onset of HIT and HITT
+## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis).
 
-SeeWARNINGS.
+See WARNINGS.
 
 ## Local Irritation
 
@@ -29,10 +29,7 @@ These complications are much more common after intramuscular use, and such use i
 
 Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar side of the feet, may occur.
-
-Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
-While often mild and of no obvious clinical significance, such thrombocytopenia can be accompanied by severe thromboembolic complications such as skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke, and possibly death.
-(See WARNINGS and PRECAUTIONS.)
+(See Warnings, Precautions.)
 
 Certain episodes of painful, ischemic and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
 Whether these are in fact identical to the thrombocytopenia-associated complications remains to be determined.
