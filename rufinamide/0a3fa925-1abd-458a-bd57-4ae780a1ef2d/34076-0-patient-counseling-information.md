@@ -25,3 +25,8 @@ They should also be encouraged to enroll in the North American Antiepileptic Dru
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Patients should be advised to notify their physician if they are breast-feeding or intend to breast-feed.
+
+Patients who are prescribed the oral suspension should be advised to shake the bottle vigorously before every administration and to use the adaptor and oral dosing syringe.
+
+When applicable patients should be advised that Banzel oral suspension does not contain lactose or gluten and is dye-free.
+The oral suspension does contain carbohydrates.

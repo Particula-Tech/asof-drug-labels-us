@@ -43,7 +43,7 @@ The pharmacokinetics of rufinamide in the pediatric population (age 4-17 years) 
 Clinical studies of BANZEL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Pharmacokinetics of rufinamide in the elderly in similar to that in the young subjects [see Clinical Pharmacology (12.3)]
+Pharmacokinetics of rufinamide in the elderly are similar to that in the young subjects [see Clinical Pharmacology (12.3)]
 
 ## 8.6 Renal Impairment
 

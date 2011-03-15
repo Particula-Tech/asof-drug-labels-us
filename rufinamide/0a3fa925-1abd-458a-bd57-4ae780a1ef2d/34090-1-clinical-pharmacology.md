@@ -11,6 +11,7 @@ Rufinamide (≥1 μM) significantly slowed sodium channel recovery from inactiva
 
 Overview
 
+BANZEL oral suspension is bioequivalent on a mg per mg basis to BANZEL tablets.
 BANZEL is well absorbed after oral administration.
 However, the rate of absorption is relatively slow and the extent of absorption is decreased as dose is increased.
 The pharmacokinetics does not change with multiple dosing.
@@ -23,12 +24,12 @@ Absorption and Distribution
 
 Following oral administration of BANZEL, peak plasma concentrations occur between 4 and 6 hours (Tmax) both under fed and fasted conditions.
 BANZEL tablets display decreasing bioavailability with increasing dose after single and multiple dose administration.
-Based on urinary excretion, the extent of absorption was at least 85% following oral administration of a single dose of 600 mg rufinamide under fed conditions.
+Based on urinary excretion, the extent of absorption was at least 85% following oral administration of a single dose of 600 mg rufinamide tablet under fed conditions.
 
 Multiple dose pharmacokinetics can be predicted from single dose data for both rufinamide and its metabolite.
 Given the dosing frequency of every 12 hours and the half-life of 6 to 10 hours, the observed steady-state peak concentration of about two to three times the peak concentration after a single dose is expected.
 
-Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg, although the Tmax was not elevated.
+Food increased the extent of absorption of rufinamide in healthy volunteers by 34% and increased peak exposure by 56% after a single dose of 400 mg tablet, although the Tmax was not elevated.
 Clinical trials were performed under fed conditions and dosing is recommended with food [see Dosage and Administration (2)].
 
 Only a small fraction of rufinamide (34%) is bound to human serum proteins, predominantly to albumin (27%), giving little risk of displacement drug-drug interactions.

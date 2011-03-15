@@ -1,6 +1,6 @@
 # Medication Guide
 
-BANZEL (ban-'zel) [rufinamide] Tablets
+BANZEL (ban-'zel) [rufinamide] Tablets and Oral Suspension
 
 Read this Medication Guide before you start taking BANZEL and each time you get a refill.
 There may be new information.
@@ -42,9 +42,11 @@ What is BANZEL?
 
 BANZEL is a prescription medicine used with other medicines to treat seizures associated with Lennox-Gastaut syndrome (LGS) in adults and children 4 years of age and older.
 
+It is not known if BANZEL is safe and effective in the treatment of Lennox-Gastaut syndrome in children under 4 years of age.
+
 Who should not take BANZEL?
 
-Do not take BANZEL if you have a genetic condition, familial short QT syndrome, that affects the electrical system of the heart.
+Do not take BANZEL if you have a genetic condition called familial short QT syndrome, a problem that affects the electrical system of the heart.
 
 What should I tell my healthcare provider before taking BANZEL?
 
@@ -82,20 +84,19 @@ How should I take BANZEL?
   Your healthcare provider will tell you how much BANZEL to take.
 - Your healthcare provider may change your dose.
   Do not change your dose of BANZEL without talking to your healthcare provider.
-- Do not stop BANZEL without first talking to a healthcare provider.
-  Stopping BANZEL suddenly can cause serious problems.
-  Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 - Take BANZEL with food.
-- BANZEL can be swallowed whole, cut in half or crushed.
+- BANZEL tablets can be swallowed whole, cut in half or crushed.
+- If you take BANZEL Oral Suspension instead of BANZEL tablets, shake the bottle well before you take each dose.
+  Measure your dose of BANZEL Oral Suspension using the bottle adapter and dosing syringes provided.
+  See the complete Instructions for Use below for information on how to use the dosing syringes and measure your dose of BANZEL Oral Suspension.
 - If you take too much BANZEL, call your local Poison Control Center or get emergency medical help right away.
 
 What should I avoid while taking BANZEL?
 
-Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking BANZEL until you talk to your healthcare provider.
-BANZEL taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-
-Do not drive, operate heavy machinery, or do other dangerous activities until you know how BANZEL affects you.
-BANZEL can slow your thinking and motor skills.
+- Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking BANZEL until you talk to your healthcare provider.
+  BANZEL taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how BANZEL affects you.
+  BANZEL can slow your thinking and motor skills.
 
 What are the possible side effects of BANZEL
 
@@ -140,8 +141,17 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BANZEL?
 
-- Store BANZEL between 59°F to 86°F (15°C to 30°C)
+- Store BANZEL tablets and oral suspension at 59°F to 86°F (15°C to 30°C).
+
+Tablets
+
 - Keep BANZEL tablets in a dry place.
+
+Oral Suspension
+
+- Replace the cap securely after opening.
+- Keep BANZEL Oral Suspension in an upright position.
+- Use BANZEL Oral Suspension within 90 days of first opening the bottle.
 
 Keep BANZEL and all medicines out of the reach of children.
 
@@ -160,16 +170,21 @@ For more information, go to www.banzel.com or call 1-888-274-2378.
 
 What are the ingredients in BANZEL?
 
-Active ingredient: rufinamide
+Tablets
 
-Inactive ingredients: colloidal silicon dioxide, corn starch crosscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulphate, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+Active ingredient: rufinamide Inactive ingredients: colloidal silicon dioxide, corn starch crosscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulphate, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+
+Oral Suspension
+
+Active ingredient: rufinamide Inactive ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, hydroxyethylcellulose, anhydrous citric acid, simethicone emulsion 30%, poloxamer 188, methylparaben, propylparaben, propylene glycol, potassium sorbate, noncrystallizing sorbitol solution 70%, orange flavor.
+
+The oral suspension does not contain lactose or gluten and is dye-free.
+The oral suspension does contain carbohydrates.
 
 Manufactured by Eisai Co., Ltd. Marketed by Eisai Inc. Woodcliff Lake, NJ 07677
 
-Issued October 2010
+Revised March 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-BANZEL® is a trademark of Novartis Pharma AG, used under license.
-
-© 2010 Eisai Inc. Printed in U.S.A.
+© 2011 Eisai Inc. Printed in U.S.A.

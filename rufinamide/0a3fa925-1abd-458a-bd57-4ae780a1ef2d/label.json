@@ -1,14 +1,21 @@
 {
   "application_numbers": [
-    "NDA021911"
+    "NDA021911",
+    "NDA201367"
   ],
   "inn": "rufinamide",
   "labeler": "Eisai Inc.",
   "package_ndcs": [
     "62856-582-30",
-    "62856-583-52"
+    "62856-583-52",
+    "62856-584-46"
   ],
   "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "rufinamide",
+      "name": "Banzel"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "rufinamide",

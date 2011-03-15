@@ -9,3 +9,6 @@ Rufinamide is practically insoluble in water, slightly soluble in tetrahydrofura
 BANZEL is available for oral administration in film-coated tablets, scored on both sides, containing 200 and 400 mg of rufinamide.
 Inactive ingredients are colloidal silicon dioxide, corn starch, crosscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulphate.
 The film coating contains hypromellose, iron oxide red, polyethylene glycol, talc, and titanium dioxide.
+
+BANZEL is also available for oral administration as a liquid containing rufinamide at a concentration of 40 mg/mL.
+Inactive ingredients include microcrystalline cellulose and carboxymethylcellulose sodium, hydroxyethylcellulose, anhydrous citric acid, simethicone emulsion 30%, poloxamer 188, methylparaben, propylparaben, propylene glycol, potassium sorbate, noncrystallizing sorbitol solution 70%, and an orange flavor.

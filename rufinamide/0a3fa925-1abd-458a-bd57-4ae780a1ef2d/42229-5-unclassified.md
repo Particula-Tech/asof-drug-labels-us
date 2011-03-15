@@ -1,5 +1,0 @@
-# PRINCIPAL DISPLAY PANEL - 200 mg
-
-NDC 62856-582-30
-
-BANZEL™ (rufinamide) TABLETS 200 mg 30 tablets
