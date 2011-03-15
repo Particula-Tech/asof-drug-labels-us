@@ -2,7 +2,7 @@
 
 Patient Information HYZAAR® ("HY-zar") (losartan potassium-hydrochlorothiazide tablets) 50-12.5 mg, 100-12.5 mg, 100-25 mg Rx only
 
-Read the Patient Information that comes with HYZAAR before you start taking it and each time you get a refill.
+Read the Patient Information that comes with HYZAAR® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
@@ -148,10 +148,10 @@ microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium st
 HYZAAR 50-12.5 and HYZAAR 100-25 also contain D&C yellow No. 10 aluminum lake.
 HYZAAR 50-12.5, HYZAAR 100-12.5, and HYZAAR 100-25 may also contain carnauba wax.
 
-Manufactured For:
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Issued February 2011
 
-Issued June 2010
+9964303
 
-9964302
+Copyright © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

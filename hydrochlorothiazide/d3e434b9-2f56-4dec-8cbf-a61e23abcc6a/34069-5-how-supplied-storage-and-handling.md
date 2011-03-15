@@ -20,8 +20,10 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 Keep container tightly closed.
 Protect from light.
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued June 2010
+Issued February 2011
 
-9964302
+9964303
+
+Copyright © 1995, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

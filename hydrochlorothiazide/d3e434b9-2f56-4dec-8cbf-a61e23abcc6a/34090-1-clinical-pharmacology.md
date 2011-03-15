@@ -192,7 +192,7 @@ There was no difference in response for men and women or in patients over or und
 Black patients had a larger response to hydrochlorothiazide than non-Black patients and a smaller response to losartan.
 The overall response to the combination was similar for Black and non-Black patients.
 
-### Severe Hypertension (Sitting Diastolic Blood Pressure [SiDBP]≥110 mmHg)
+### Severe Hypertension (Sitting Diastolic Blood Pressure [SiDBP] ≥110 mmHg)
 
 The safety and efficacy of HYZAAR as initial therapy for severe hypertension (defined as a mean SiDBP ≥110 mmHg confirmed on 2 separate occasions off all antihypertensive therapy) was studied in a 6-week double-blind, randomized, multicenter study.
 Patients were randomized to either losartan and hydrochlorothiazide (50-12.5 mg, once daily) or to losartan (50 mg, once daily) and followed for blood pressure response.

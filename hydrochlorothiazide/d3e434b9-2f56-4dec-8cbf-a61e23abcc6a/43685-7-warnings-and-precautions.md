@@ -181,7 +181,7 @@ Other antihypertensive drugs — additive effect or potentiation.
 Cholestyramine and colestipol resins — Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
 Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
 
-Corticosteroids, ACTH — intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH, or glycyrrhizin (found in liquorice) — intensified electrolyte depletion, particularly hypokalemia.
 
 Pressor amines (e.g., norepinephrine) — possible decreased response to pressor amines but not sufficient to preclude their use.
 
