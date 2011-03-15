@@ -2,10 +2,10 @@
 
 ## 2.1 General
 
-Remodulin is supplied in 20 mL vials in concentrations of 1 mg/mL, 2.5 mg/mL, 5 mg/mL and 10 mg/mL.
+Remodulin is supplied in 20 mL vials containing 20, 50, 100, or 200 mg of treprostinil (1 mg/mL, 2.5 mg/mL, 5 mg/mL or 10 mg/mL).
 Remodulin can be administered as supplied or diluted for intravenous infusion with Sterile Water for Injection, 0.9% Sodium Chloride Injection, or Flolan® Sterile Diluent for Injection prior to administration.
 
-## 2.2 Initial Dose for Patients New To Prostacyclin Infusion Therapy
+## 2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
 
 Remodulin is indicated for subcutaneous (SC) or intravenous (IV) use only as a continuous infusion.
 Remodulin is preferably infused subcutaneously, but can be administered by a central intravenous line if the subcutaneous route is not tolerated, because of severe site pain or reaction.
@@ -19,20 +19,21 @@ The goal of chronic dosage adjustments is to establish a dose at which PAH sympt
 The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response.
 Dosage adjustments may be undertaken more often if tolerated.
 There is little experience with doses >40 ng/kg/min.
-Abrupt cessation of infusion should be avoided [see WARNINGS AND PRECAUTIONS (5.4)].
+Abrupt cessation of infusion should be avoided [see Warnings and Precautions (5.4)].
 Restarting a Remodulin infusion within a few hours after an interruption can be done using the same dose rate.
 Interruptions for longer periods may require the dose of Remodulin to be re-titrated.
 
-## 2.4 Patients With Hepatic Insufficiency
+## 2.4 Patients with Hepatic Insufficiency
 
 In patients with mild or moderate hepatic insufficiency, the initial dose of Remodulin should be decreased to 0.625 ng/kg/min ideal body weight and should be increased cautiously.
-Remodulin has not been studied in patients with severe hepatic insufficiency [see WARNINGS AND PRECAUTIONS (5.5), USE IN SPECIFIC POPULATIONS (8.6) and CLINICAL PHARMACOLOGY (12.3)].
+Remodulin has not been studied in patients with severe hepatic insufficiency [see Warnings and Precautions (5.5), Use In Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.5 Patients With Renal Insufficiency
+## 2.5 Patients with Renal Insufficiency
 
 No studies have been performed in patients with renal insufficiency.
 No specific advice about dosing in patients with renal impairment can be given.
-[see CLINICAL PHARMACOLOGY(12.3)].
+
+[see Clinical Pharmacology (12.3)].
 
 ## 2.6 Administration
 
@@ -147,17 +148,17 @@ Step 2
 The Diluted Intravenous Remodulin Concentration for the person in Example 4 would thus be prepared by adding 2.7 mL of 2.5 mg/mL Remodulin Injection to a suitable reservoir along with a sufficient volume of diluent to achieve a total volume of 100 mL in the reservoir.
 The pump flow rate for this example would be set at 2 mL/hr.
 
-## 2.7 Patients Requiring Transition From Flolan
+## 2.7 Patients Requiring Transition from Flolan
 
 Transition from Flolan to Remodulin is accomplished by initiating the infusion of Remodulin and increasing it, while simultaneously reducing the dose of intravenous Flolan.
 The transition to Remodulin should take place in a hospital with constant observation of response (e.g., walk distance and signs and symptoms of disease progression).
-During the transition, Remodulin is initiated at a recommended dose of 10% of the current Flolan dose, and then escalated as the Flolan dose is decreased (see Table 14 for recommended dose titrations).
+During the transition, Remodulin is initiated at a recommended dose of 10% of the current Flolan dose, and then escalated as the Flolan dose is decreased (see Table 1 for recommended dose titrations).
 
 Patients are individually titrated to a dose that allows transition from Flolan therapy to Remodulin while balancing prostacyclin-limiting adverse events.
 Increases in the patient's symptoms of PAH should be first treated with increases in the dose of Remodulin.
 Side effects normally associated with prostacyclin and prostacyclin analogs are to be first treated by decreasing the dose of Flolan.
 
-Table 14: Recommended Transition Dose Changes
+Table 1: Recommended Transition Dose Changes
 
 | Step | Flolan Dose | Remodulin Dose |
 | --- | --- | --- |

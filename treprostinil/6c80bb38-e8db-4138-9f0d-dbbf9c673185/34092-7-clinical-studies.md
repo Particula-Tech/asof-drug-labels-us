@@ -1,9 +1,9 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Trials In Pulmonary Arterial Hypertension (PAH)
+## 14.1 Clinical Trials in Pulmonary Arterial Hypertension (PAH)
 
-Two 12-week, multicenter, randomized, double-blind studies compared continuous subcutaneous infusion of Remodulin to placebo in a total of 470 patients with NYHA Class II-IV pulmonary arterial hypertension (PAH).
-PAH was primary in 58% of patients, associated with collagen vascular disease in 19%, and the result of congenital left to right shunts in 23%.
+Two 12-week, multicenter, randomized, double-blind studies compared continuous subcutaneous infusion of Remodulin to placebo in a total of 470 patients with NYHA Class II (11%), III (81%), or IV (7%) pulmonary arterial hypertension (PAH).
+PAH was idiopathic/heritable in 58% of patients, associated with connective tissue diseases in 19%, and the result of congenital systemic-to-pulmonary shunts in 23%.
 The mean age was 45 (range 9 to 75 years).
 About 81% were female and 84% were Caucasian.
 Pulmonary hypertension had been diagnosed for a mean of 3.8 years.
@@ -19,7 +19,7 @@ Hemodynamic Effects
 
 As shown in Table 4, chronic therapy with Remodulin resulted in small hemodynamic changes consistent with pulmonary and systemic vasodilation.
 
-Table 4: Hemodynamics During Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
+Table 4: Hemodynamics during Chronic Administration of Remodulin in Patients with PAH in 12-Week Studies
 
 | Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |  |
 | --- | --- | --- | --- | --- |

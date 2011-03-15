@@ -1,71 +1,47 @@
-# PRINCIPAL DISPLAY PANEL - 1 mg Vial
+PRINCIPAL DISPLAY PANEL - 1 mg/mL Carton
 
-REMODULIN® (treprostinil sodium) Injection
+REMODULIN® (treprostinil) Injection
 
-equivalent to 1 mg treprostinil per mL
+20 mg/20 mL (1 mg/mL)
 
-United Therapeutics CORPORATION
+For Subcutaneous or Intravenous Infusion Only.
 
-Mfg. for: United Therapeutics Corp., RTP, NC USA 27709.
-
-# PRINCIPAL DISPLAY PANEL - 1 mg Carton
-
-REMODULIN® (treprostinil sodium) Injection
-
-equivalent to 1 mg treprostinil per mL
+20 mL multidose vial
 
 United Therapeutics CORPORATION
 
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Vial
+PRINCIPAL DISPLAY PANEL - 2.5 mg/mL Carton
 
-REMODULIN® (treprostinil sodium) Injection
+REMODULIN® (treprostinil) Injection
 
-equivalent to 2.5 mg treprostinil per mL
+50 mg/20 mL (2.5 mg/mL)
 
-United Therapeutics CORPORATION
+For Subcutaneous or Intravenous Infusion Only.
 
-Mfg. for: United Therapeutics Corp., RTP, NC USA 27709.
-
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Carton
-
-REMODULIN® (treprostinil sodium) Injection
-
-equivalent to 2.5 mg treprostinil per mL
+20 mL multidose vial
 
 United Therapeutics CORPORATION
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Vial
+PRINCIPAL DISPLAY PANEL - 5 mg/mL Carton
 
-REMODULIN® (treprostinil sodium) Injection
+REMODULIN® (treprostinil) Injection
 
-equivalent to 5 mg treprostinil per mL
+100 mg/20 mL (5 mg/mL)
 
-United Therapeutics CORPORATION
+For Subcutaneous or Intravenous Infusion Only.
 
-Mfg. for: United Therapeutics Corp., RTP, NC USA 27709.
-
-# PRINCIPAL DISPLAY PANEL - 5 mg Carton
-
-REMODULIN® (treprostinil sodium) Injection
-
-equivalent to 5 mg treprostinil per mL
+20 mL multidose vial
 
 United Therapeutics CORPORATION
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Vial
+PRINCIPAL DISPLAY PANEL - 10 mg/mL Carton
 
-REMODULIN® (treprostinil sodium) Injection
+REMODULIN® (treprostinil) Injection
 
-equivalent to 10 mg treprostinil per mL
+200 mg/20 mL (10 mg/mL)
 
-United Therapeutics CORPORATION
+For Subcutaneous or Intravenous Infusion Only.
 
-Mfg. for: United Therapeutics Corp., RTP, NC USA 27709.
-
-# PRINCIPAL DISPLAY PANEL - 10 mg Carton
-
-REMODULIN® (treprostinil sodium) Injection
-
-equivalent to 10 mg treprostinil per mL
+20 mL multidose vial
 
 United Therapeutics CORPORATION

@@ -1,18 +1,44 @@
 # 7 DRUG INTERACTIONS
 
-Reduction in blood pressure caused by Remodulin may be exacerbated by drugs that by themselves alter blood pressure, such as diuretics, antihypertensive agents, or vasodilators.
-Since Remodulin inhibits platelet aggregation, there is also a potential for increased risk of bleeding, particularly among patients maintained on anticoagulants.
-During clinical trials, Remodulin was used concurrently with anticoagulants, diuretics, cardiac glycosides, calcium channel blockers, analgesics, antipyretics, nonsteroidal anti-inflammatories, opioids, corticosteroids, and other medications.
+Pharmacokinetic/pharmacodynamic interaction studies have been conducted with treprostinil administered subcutaneously (Remodulin) and orally (treprostinil diethanolamine).
+
+Pharmacodynamics
+
+## 7.1 Antihypertensive Agents or Other Vasodilators
+
+Concomitant administration of Remodulin with diuretics, antihypertensive agents or other vasodilators may increase the risk of symptomatic hypotension.
+
+## 7.2 Anticoagulants
+
+Since treprostinil inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulants.
+
+Pharmacokinetics
+
+## 7.3 Bosentan
+
+In a human pharmacokinetic study conducted with bosentan (250 mg/day) and an oral formulation of treprostinil (treprostinil diethanolamine), no pharmacokinetic interactions between treprostinil and bosentan were observed.
+
+## 7.4 Sildenafil
+
+In a human pharmacokinetic study conducted with sildenafil (60 mg/day) and an oral formulation of treprostinil (treprostinil diethanolamine), no pharmacokinetic interactions between treprostinil and sildenafil were observed.
+
+## 7.5 Effect of Treprostinil on Cytochrome P450 Enzymes
+
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
+Additionally, treprostinil does not induce cytochrome P450 isoenzymes CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A.
+Thus Remodulin is not expected to alter the pharmacokinetics of compounds metabolized by CYP enzymes.
+
+## 7.6 Effect of Cytochrome P450 Inhibitors and Inducers on Treprostinil
+
+Human pharmacokinetic studies with an oral formulation of treprostinil (treprostinil diethanolamine) indicated that co-administration of the cytochrome P450 (CYP) 2C8 enzyme inhibitor gemfibrozil increases exposure (both Cmax and AUC) to treprostinil.
+Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil.
+It has not been determined if the safety and efficacy of treprostinil by the parenteral (subcutaneously or intravenously) route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.6)].
 
 Remodulin has not been studied in conjunction with Flolan or Tracleer® (bosentan).
 
-Effect Of Other Drugs On Remodulin
+## 7.7 Effect of Other Drugs on Treprostinil
 
-In vivo studies: Acetaminophen - Analgesic doses of acetaminophen, 1000 mg every 6 hours for seven doses, did not affect the pharmacokinetics of Remodulin, at a subcutaneous infusion rate of 15 ng/kg/min.
-
-Effect Of Remodulin On Other Drugs
-
-In vitro studies: Remodulin did not significantly affect the plasma protein binding of normally observed concentrations of digoxin or warfarin.
-
-In vivo studies: Warfarin - Remodulin does not affect the pharmacokinetics or pharmacodynamics of warfarin.
-The pharmacokinetics of R- and S- warfarin and the INR in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous Remodulin at an infusion rate of 10 ng/kg/min.
+Drug interaction studies have been carried out with treprostinil (oral or subcutaneous) co-administered with acetaminophen (4 g/day), warfarin (25 mg/day), and fluconazole (200 mg/day), respectively in healthy volunteers.
+These studies did not show a clinically significant effect on the pharmacokinetics of treprostinil.
+Treprostinil does not affect the pharmacokinetics or pharmacodynamics of warfarin.
+The pharmacokinetics of R- and S- warfarin and the INR in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.

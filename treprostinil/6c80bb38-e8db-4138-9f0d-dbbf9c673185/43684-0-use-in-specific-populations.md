@@ -2,14 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B - In pregnant rats, continuous subcutaneous infusions of treprostinil sodium during organogenesis and late gestational development, at rates as high as 900 ng treprostinil/kg/min (about 117 times the starting human rate of infusion, on a ng/m2 basis and about 16 times the average rate achieved in clinical trials), resulted in no evidence of harm to the fetus.
+Pregnancy Category B - In pregnant rats, continuous subcutaneous infusions of treprostinil during organogenesis and late gestational development, at rates as high as 900 ng treprostinil/kg/min (about 117 times the starting human rate of infusion, on a ng/m2 basis and about 16 times the average rate achieved in clinical trials), resulted in no evidence of harm to the fetus.
 In pregnant rabbits, effects of continuous subcutaneous infusions of treprostinil during organogenesis were limited to an increased incidence of fetal skeletal variations (bilateral full rib or right rudimentary rib on lumbar 1) associated with maternal toxicity (reduction in body weight and food consumption) at an infusion rate of 150 ng treprostinil/kg/min (about 41 times the starting human rate of infusion, on a ng/m2 basis, and 5 times the average rate used in clinical trials).
 In rats, continuous subcutaneous infusion of treprostinil from implantation to the end of lactation, at rates of up to 450 ng treprostinil/kg/min, did not affect the growth and development of offspring.
 Because animal reproduction studies are not always predictive of human response, Remodulin should be used during pregnancy only if clearly needed.
 
-## 8.2 Labor And Delivery
+## 8.2 Labor and Delivery
 
-No treprostinil sodium treatment-related effects on labor and delivery were seen in animal studies.
+No treprostinil treatment-related effects on labor and delivery were seen in animal studies.
 The effect of treprostinil sodium on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
@@ -28,14 +28,14 @@ In general, dose selection should be cautious.
 Clinical studies of Remodulin did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6 Patients With Hepatic Insufficiency
+## 8.6 Patients with Hepatic Insufficiency
 
 Remodulin clearance is reduced in patients with hepatic insufficiency.
-In patients with mild or moderate hepatic insufficiency, the initial dose of Remodulin should be decreased to 0.625 ng/kg/min ideal body weight and should be increased cautiously.
-Remodulin has not been studied in patients with severe hepatic insufficiency [see, DOSAGE AND ADMINISTRATION (2.4), WARNINGS AND PRECAUTIONS (5.5) and CLINICAL PHARMACOLOGY (12.3)].
+In patients with mild or moderate hepatic insufficiency, decrease the initial dose of Remodulin to 0.625 ng/kg/min ideal body weight, and monitor closely.
+Remodulin has not been studied in patients with severe hepatic insufficiency [see Dosage and Administration (2.4), Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
-## 8.7 Patients With Renal Insufficiency
+## 8.7 Patients with Renal Insufficiency
 
 No studies have been performed in patients with renal insufficiency.
 No specific advice about dosing in patients with renal impairment can be given.
-[see CLINICAL PHARMACOLOGY (12.3)].
+[see Clinical Pharmacology (12.3)].
