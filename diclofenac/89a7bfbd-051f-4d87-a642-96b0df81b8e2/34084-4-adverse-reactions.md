@@ -5,7 +5,7 @@ Eighty-seven percent (87%) of the Solaraze®-treated patients (183 patients) and
 The majority of these reactions were mild to moderate in severity and resolved upon discontinuation of therapy.
 
 Of the 211 patients treated with Solaraze®, 172 (82%) experienced AEs involving skin and the application site compared to 160 (75%) vehicle-treated patients.
-Application site reactions (ASRs) were the most frequent AEs in both Solaraze®- and vehicle-treated groups.
+Application site reactions (ASRs) were the most frequent AEs in both Solaraze®-and vehicle-treated groups.
 Of note, four reactions, contact dermatitis, rash, dry skin and exfoliation (scaling) were significantly more prevalent in the Solaraze® group than in the vehicle-treated patients.
 
 Eighteen percent of Solaraze®-treated patients and 4% of vehicle-treated patients discontinued from the clinical trials due to adverse events (whether considered related to treatment or not).
@@ -16,9 +16,10 @@ Table 1 below presents the AEs reported at an incidence of >1% for patients trea
 Table 1.
 Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 Clinical Trials Incidences for 60-Day and 90-Day Treatments
 
-|  | Solaraze® (%) N=48 | Gel Vehicle (%) N=49 | Solaraze® (%) N=114 | Gel Vehicle (%) N=114 |
-| --- | --- | --- | --- | --- |
 |  | 60-day Treatment |  | 90-day Treatment |  |
+| --- | --- | --- | --- | --- |
+|  | Solaraze® (%) | Gel Vehicle (%) | Solaraze® (%) | Gel Vehicle (%) |
+|  | N=48 | N=49 | N=114 | N=114 |
 | BODY AS A WHOLE | 21 | 20 | 20 | 18 |
 | Abdominal Pain | 2 | 0 | 1 | 0 |
 | Accidental Injury | 0 | 0 | 4 | 2 |
@@ -73,7 +74,7 @@ Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 C
 | Edema | 4 | 0 | 3 | 0 |
 | Exfoliation | 6 | 4 | 24 | 13 |
 | Hyperesthesia | 0 | 0 | 3 | 1 |
-| Pain | 15 | 22 | 26 | 30 |
+| Pain 15 | 22 | 26 | 30 |  |
 | Paresthesia | 8 | 4 | 20 | 20 |
 | Photosensitivity Reaction | 0 | 2 | 3 | 0 |
 | Pruritus | 31 | 59 | 52 | 45 |
@@ -99,24 +100,24 @@ Adverse Events Reported (>1% in Any Treatment Group) During Solaraze® Phase 3 C
 
 Skin and Appendages Adverse Events Reported for Solaraze® at Less Than 1% Incidence in the Phase 3 Studies: skin hypertrophy, paresthesia, seborrhea, urticaria, application site reactions (skin carcinoma, hypertonia, skin hypertrophy lacrimation disorder, maculopapular rash, purpuric rash, vasodilation).
 
-Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze® Gel):
+Adverse Reactions Reported for Oral Diclofenac Dosage Form (not topical Solaraze® Gel): *Incidence greater than 1% marked with asterisk.
 
-Body as a Whole: abdominal pain or crampsIncidence greater than 1%., headache, fluid retention, abdominal distention, malaise, swelling of lips and tongue, photosensitivity, anaphylaxis, anaphylactoid reactions, chest pain.
+Body as a Whole: abdominal pain or cramps*, headache*, fluid retention*, abdominal distention*, malaise, swelling of lips and tongue, photosensitivity, anaphylaxis, anaphylactoid reactions, chest pain.
 
 Cardiovascular: hypertension, congestive heart failure, palpitations, flushing, tachycardia, premature ventricular contractions, myocardial infarction, hypotension.
 
-Digestive: diarrhea, indigestion, nausea, constipation, flatulence, liver test abnormalities, PUB, i.e., peptic ulcer, with or without bleeding and/or perforation, or bleeding without ulcer, vomiting, jaundice, melena, esophageal lesions, aphthous stomatitis, dry mouth and mucous membranes, bloody diarrhea, hepatitis, hepatic necrosis, cirrhosis, hepatorenal syndrome, appetite change, pancreatitis with or without concomitant hepatitis, colitis, intestinal perforation.
+Digestive: diarrhea*, indigestion*, nausea*, constipation*, flatulence*, liver test abnormalities*, PUB*, i.e., peptic ulcer, with or without bleeding and/or perforation, or bleeding without ulcer, vomiting, jaundice, melena, esophageal lesions, aphthous stomatitis, dry mouth and mucous membranes, bloody diarrhea, hepatitis, hepatic necrosis, cirrhosis, hepatorenal syndrome, appetite change, pancreatitis with or without concomitant hepatitis, colitis, intestinal perforation.
 
 Hemic and Lymphatic: hemoglobin decrease, leukopenia, thrombocytopenia, eosinophilia, hemolytic anemia, aplastic anemia, agranulocytosis, purpura, allergic purpura, bruising.
 
 Metabolic and Nutritional Disorders: azotemia, hypoglycemia, weight loss.
 
-Nervous System: dizziness, insomnia, drowsiness, depression, diplopia, anxiety, irritability, aseptic meningitis, convulsions, paresthesia, memory disturbance, nightmares, tremor, tic, abnormal coordination, disorientation, psychotic reaction.
+Nervous System: dizziness*, insomnia, drowsiness, depression, diplopia, anxiety, irritability, aseptic meningitis, convulsions, paresthesia, memory disturbance, nightmares, tremor, tic, abnormal coordination, disorientation, psychotic reaction.
 
 Respiratory: epistaxis, asthma, laryngeal edema, dyspnea, hyperventilation, edema of pharynx.
 
-Skin and Appendages: rash, pruritus, alopecia, urticaria, eczema, dermatitis, bullous eruption, erythema multiforme major, angioedema, Stevens-Johnson syndrome, excess perspiration, exfoliative dermatitis.
+Skin and Appendages: rash*, pruritus*, alopecia, urticaria, eczema, dermatitis, bullous eruption, erythema multiforme major, angioedema, Stevens-Johnson syndrome, excess perspiration, exfoliative dermatitis.
 
-Special Senses: tinnitus, blurred vision, taste disorder, reversible and irreversible hearing loss, scotoma, vitreous floaters, night blindness, amblyopia.
+Special Senses: tinnitus*, blurred vision, taste disorder, reversible and irreversible hearing loss, scotoma, vitreous floaters, night blindness, amblyopia.
 
 Urogenital: nephrotic syndrome, proteinuria, oliguria, interstitial nephritis, papillary necrosis, acute renal failure, urinary frequency, nocturia, hematuria, impotence, vaginal bleeding.

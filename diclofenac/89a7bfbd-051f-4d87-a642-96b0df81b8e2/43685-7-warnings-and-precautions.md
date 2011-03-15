@@ -1,7 +1,6 @@
 # WARNINGS
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without prior exposure to diclofenac.
-
 Diclofenac sodium should be given with caution to patients with the aspirin triad.
 The triad typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
 
@@ -33,9 +32,9 @@ Although the systemic absorption of Solaraze® is low, concomitant oral administ
 
 There did not appear to be any increase in drug-related neoplasms following daily topical applications of diclofenac sodium gel for 2 years at concentrations up to 0.035% diclofenac sodium and 2.5% hyaluronate sodium in albino mice.
 (Note: Solaraze® contains 3% diclofenac sodium.)
-When administered orally for 2 years, diclofenac showed no evidence of carcinogenic potential in rats given diclofenac sodium at up to 2 mg/kg/day (3 times the estimated systemic human exposureBased on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium).), or in mice given diclofenac sodium at up to 0.3 mg/kg/day in males and 1 mg/kg/day in females (25% and 83%, respectively, of the estimated systemic human exposure).
+When administered orally for 2 years, diclofenac showed no evidence of carcinogenic potential in rats given diclofenac sodium at up to 2 mg/kg/day (3 times the estimated systemic human exposure*), or in mice given diclofenac sodium at up to 0.3 mg/kg/day in males and 1 mg/kg/day in females (25% and 83%, respectively, of the estimated systemic human exposure).
 
-A photococarcinogenicity study with up to 0.035% diclofenac in the Solaraze® vehicle gel was conducted in hairless mice at topical doses up to 2.8 mg/kg/day.
+A photococarcinogenicity study with up to 0.035% diclofenac in the Solaraze® vehicle gel was conducted in hairless mice at topical doses up to 2.8 mg/ kg/day.
 Median tumor onset was earlier in the 0.035% group (Solaraze® contains 3% diclofenac sodium).
 
 Diclofenac was not genotoxic in in vitro point mutation assays in mammalian mouse lymphoma cells and Ames microbial test systems, or when tested in mammalian in vivo assays including dominant lethal and male germinal epithelial chromosomal studies in mice, and nucleus anomaly and chromosomal aberration studies in Chinese hamsters.
@@ -44,15 +43,17 @@ It was also negative in the transformation assay utilizing BALB/3T3 mouse embryo
 Fertility studies have not been conducted with Solaraze® Gel.
 Diclofenac sodium showed no evidence of impairment of fertility after oral treatment with 4 mg/kg/day (7 times the estimated systemic human exposure) in male or female rats.
 
-## Pregnancy
+* Based on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium).
 
-### Teratogenic Effects
+## Pregnancy:
 
-#### Pregnancy Category B
+### Teratogenic Effects: Pregnancy Category B
 
 The safety of Solaraze® (diclofenac sodium) Gel has not been established during pregnancy.
-However, reproductive studies performed with diclofenac sodium alone at oral doses up to 20 mg/kg/day (15 times the estimated systemic human exposureBased on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium).) in mice, 10 mg/kg/day (15 times the estimated systemic human exposure) in rats, and 10 mg/kg/day (30 times the estimated systemic human exposure) in rabbits have revealed no evidence of teratogenicity despite the induction of maternal toxicity.
+However, reproductive studies performed with diclofenac sodium alone at oral doses up to 20 mg/kg/day (15 times the estimated systemic human exposure*) in mice, 10 mg/kg/day (15 times the estimated systemic human exposure) in rats, and 10 mg/kg/day (30 times the estimated systemic human exposure) in rabbits have revealed no evidence of teratogenicity despite the induction of maternal toxicity.
 In rats, maternally toxic doses were associated with dystocia, prolonged gestation, reduced fetal weights and growth, and reduced fetal survival.
+
+* Based on body surface area and assuming 10% bioavailability following topical application of 2 g Solaraze® Gel per day (1 mg/kg diclofenac sodium).
 
 Diclofenac has been shown to cross the placental barrier in mice and rats.
 There are, however, no adequate and well controlled studies in pregnant women.

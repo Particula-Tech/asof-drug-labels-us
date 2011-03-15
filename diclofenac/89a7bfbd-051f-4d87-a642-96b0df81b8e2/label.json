@@ -1,14 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021005"
+  ],
   "inn": "diclofenac",
-  "labeler": "DOAK DERMATOLOGICS",
+  "labeler": "PharmaDerm, A division of Nycomed US Inc.",
   "package_ndcs": [
     "10337-803-01",
-    "10337-803-05",
-    "10337-803-97",
-    "10337-803-99"
+    "10337-803-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "diclofenac sodium",
+      "name": "Solaraze"
+    }
+  ],
   "setid": "89a7bfbd-051f-4d87-a642-96b0df81b8e2",
   "source": "dailymed"
 }

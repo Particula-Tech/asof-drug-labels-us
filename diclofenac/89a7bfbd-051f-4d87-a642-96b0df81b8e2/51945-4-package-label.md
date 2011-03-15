@@ -1,0 +1,27 @@
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 gm TUBE
+
+NDC 10337-803-01
+
+Net Wt.
+100g
+
+Rx Only
+
+SOLARAZE® GEL
+
+Diclofenac Sodium-3%
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 gm CARTON
+
+NDC 10337-803-01
+
+RX Only
+
+SOLARAZE® GEL
+
+Diclofenac Sodium-3%
+
+Net Wt.
+100g
+
+PharamaDerm
