@@ -1,17 +1,21 @@
 # OVERDOSAGE
 
-Overdose may result in death.
+Intentional and unintentional overdose may result in death, particularly in children.
 
 The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology.
-Drugs of this type are generally absorbed after ingestion.
+Drugs of this type are generally well absorbed after ingestion.
 
 ## Signs and Symptoms
 
-If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly.
+The signs and symptoms of overdose of benzonatate have been reported within 15 to 20 minutes.
+If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly, which may cause choking and airway compromise.
+
 CNS stimulation may cause restlessness and tremors which may proceed to clonic convulsions followed by profound CNS depression.
+Convulsions, coma, cerebral edema and cardiac arrest leading to death have been reported within 1 hour of ingestion.
 
 ## Treatment
 
+In case of overdose, seek seek medical attention immediately.
 Evacuate gastric contents and administer copious amounts of activated charcoal slurry.
 Even in the conscious patient, cough and gag reflexes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials.
 Convulsions should be treated with a short-acting barbiturate given intravenously and carefully titrated for the smallest effective dosage.

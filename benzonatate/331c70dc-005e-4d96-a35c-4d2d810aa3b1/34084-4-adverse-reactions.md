@@ -18,4 +18,4 @@ Other
 
 Nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity.
 
-Rare instances of deliberate or accidental overdose have resulted in death.
+Deliberate or accidental overdose has resulted in death, particularly in children.
