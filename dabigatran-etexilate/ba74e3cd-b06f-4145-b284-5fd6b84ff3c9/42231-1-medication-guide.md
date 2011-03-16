@@ -161,12 +161,12 @@ The capsule shell is composed of carrageenan, FD&C Blue No. 2, FD&C Yellow No. 6
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Issued October 2010 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: March 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©Copyright 2010 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-01 IT5060AJ202010
+75461-02 IT5060BC072011
 
-75457-01 IT5400A
+75457-02 IT5400B
 
 Coumadin® is a registered trademark for Bristol-Myers Squibb Jantoven® is a registered trademark for USL Pharma Plavix® is a registered trademark of sanofi aventis Effient® is a registered trademark of Eli Lilly and Company

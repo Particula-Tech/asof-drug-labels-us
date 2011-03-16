@@ -92,6 +92,8 @@ By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
 
+Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone (1.7- to 2-fold).
+
 Ketoconazole: Ketoconazole increased dabigatran AUC0-∞ and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
 
 Verapamil: When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased.

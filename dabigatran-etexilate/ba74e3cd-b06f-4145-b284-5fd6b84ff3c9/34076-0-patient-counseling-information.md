@@ -47,8 +47,8 @@ Ask patients to list all prescription medications, over-the-counter medications,
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-©Copyright 2010 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-01 IT5060AJ202010
+75461-02 IT5060BC072011
 
-75457-01 IT5400A
+75457-02 IT5400B
