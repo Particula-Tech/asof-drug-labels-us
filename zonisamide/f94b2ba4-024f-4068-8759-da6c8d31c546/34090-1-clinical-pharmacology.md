@@ -102,28 +102,30 @@ The primary comparison in both trials was for any dose over Weeks 5-12.
 Table 1.
 Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
 
-|  | ZONEGRAN | Placebo | ZONEGRAN | Placebo |
-| --- | --- | --- | --- | --- |
 | Study | Median % reduction in partial seizures |  | % Responders |  |
+| --- | --- | --- | --- | --- |
+|  | ZONEGRAN | Placebo | ZONEGRAN | Placebo |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8-12: | 40.5%p<0.05 compared to placebo | 9.0% | 41.8% | 22.2% |
+| Weeks 8-12: | 40.5%* | 9.0% | 41.8%* | 22.2% |
 | Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5-12: | 29.6% | -3.2% | 29.0% | 15.0% |
+| Weeks 5-12: | 29.6%* | -3.2% | 29.0% | 15.0% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5-12: | 27.2% | -1.1% | 28.0% | 12.0% |
+| Weeks 5-12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
+| * p<0.05 compared to placebo |  |  |  |  |
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
 
-|  | ZONEGRAN | Placebo | ZONEGRAN | Placebo |
-| --- | --- | --- | --- | --- |
 | Dose Group | Median % reduction in partial seizures |  | % Responders |  |
+| --- | --- | --- | --- | --- |
+|  | ZONEGRAN | Placebo | ZONEGRAN | Placebo |
 | 100-400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1-12: | 32.3%p<0.05 compared to placebo | 5.6% | 32.1% | 9.6% |
+| Weeks 1-12: | 32.3%* | 5.6% | 32.1%* | 9.6% |
 | 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1-5: | 24.7% | 8.3% | 25.0% | 11.3% |
+| Weeks 1-5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2-6: | 20.4% | 4.0% | 25.5% | 9.8% |
+| Weeks 2-6: | 20.4%* | 4.0% | 25.5%* | 9.8% |
+| * p<0.05 compared to placebo |  |  |  |  |
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).

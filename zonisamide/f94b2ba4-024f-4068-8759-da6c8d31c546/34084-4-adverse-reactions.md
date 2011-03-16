@@ -9,7 +9,7 @@ Many of these adverse events were dose-related (see WARNINGS and PRECAUTIONS).
 
 ## Adverse Event Incidence in Controlled Clinical Trials
 
-Table 3 lists treatment-emergent adverse events that occurred in at least 2% of patients treated with ZONEGRAN in controlled clinical trials that were numerically more common in the ZONEGRAN group.
+Table 4 lists treatment-emergent adverse events that occurred in at least 2% of patients treated with ZONEGRAN in controlled clinical trials that were numerically more common in the ZONEGRAN group.
 In these studies, either ZONEGRAN or placebo was added to the patient's current AED therapy.
 Adverse events were usually mild or moderate in intensity.
 
@@ -17,10 +17,10 @@ The prescriber should be aware that these figures, obtained when ZONEGRAN was ad
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescriber with one basis by which to estimate the relative contribution of drug and non-drug factors to the adverse event incidences in the population studied.
 
-Table 3.
+Table 4.
 Incidence (%) of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On Trials (Events that occurred in at least 2% of ZONEGRAN-treated patients and occurred more frequently in ZONEGRAN-treated than placebo-treated patients)
 
-| BODY SYSTEM/PREFERRED TERM | ZONEGRAN(n=269) % | PLACEBO(n=230) % |
+| BODY SYSTEM/PREFERRED TERM | ZONEGRAN (n=269) % | PLACEBO (n=230) % |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Headache | 10 | 8 |
@@ -103,7 +103,7 @@ Nervous System:Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoo
 Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, parathesia, reflexes increased.
 Rare: Circumoral paresthesia, dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
 
-Behavioral Abnormalities —Non-Psychosis-Related:Infrequent: Euphoria.
+Behavioral Abnormalities -Non-Psychosis-Related:Infrequent: Euphoria.
 
 Respiratory:Frequent: Pharyngitis, cough increased.
 Infrequent: Dyspnea.

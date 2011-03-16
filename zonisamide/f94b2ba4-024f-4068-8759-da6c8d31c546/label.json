@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020789"
+  ],
   "inn": "zonisamide",
   "labeler": "Eisai Inc.",
   "package_ndcs": [
     "62856-680-10",
     "62856-681-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "zonisamide",
+      "name": "Zonegran"
+    }
+  ],
   "setid": "f94b2ba4-024f-4068-8759-da6c8d31c546",
   "source": "dailymed"
 }
