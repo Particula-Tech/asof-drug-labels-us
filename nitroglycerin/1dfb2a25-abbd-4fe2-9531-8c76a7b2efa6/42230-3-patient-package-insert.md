@@ -1,6 +1,6 @@
 # Patient Instructions For Use
 
-NitroMist® [nī-trō-mïst] (nitroglycerin) lingual aerosol
+NitroMist® [nī-trō-mĭst] (nitroglycerin) lingual aerosol
 
 Important: for use on or under the tongue.
 Do not inhale.
@@ -50,8 +50,8 @@ by Dynamit Nobel GmbH, Leverkusen, Germany
 
 Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
-0841P001
-
-Revised November/2010
+NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
 
 NDC 24090-410-08
+
+141P003 Revised 03/2011

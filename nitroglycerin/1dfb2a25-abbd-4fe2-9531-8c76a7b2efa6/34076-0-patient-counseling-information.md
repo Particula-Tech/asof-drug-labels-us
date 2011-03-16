@@ -3,7 +3,7 @@
 ## 17.1 Interaction with PDE5 inhibitors
 
 NitroMist should not be used in patients who are using medications for erectile dysfunction such as sildenafil, vardenafil, and tadalafil.
-These products have been shown to increase the hypotensive effects of nitrate drug such as NitroMist.
+These products have been shown to increase the hypotensive effects of nitrate drugs such as NitroMist.
 
 ## 17.2 Administration
 
@@ -38,4 +38,6 @@ Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobe
 
 Marketed and distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
-0841F001 Revised 11/10
+NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
+
+141F004 Revised 03/2011

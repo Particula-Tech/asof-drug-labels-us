@@ -5,7 +5,7 @@
 Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues.
 This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation.
 
-## 12.2 Pharmocodynamics
+## 12.2 Pharmacodynamics
 
 The principal pharmacological action of nitroglycerin is relaxation of vascular smooth muscle.
 Although venous effects predominate, nitroglycerin produces, in a dose-related manner, dilation of both arterial and venous beds.
