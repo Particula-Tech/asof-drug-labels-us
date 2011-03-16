@@ -47,6 +47,7 @@ Tell your doctor about all of your medical conditions, including if you:
   It is not known if carvedilol passes into your breast milk.
   You should not breastfeed while using carvedilol tablets.
 - Are scheduled for surgery and will be given anesthetic agents
+- Are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
 - Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
   Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
   Carvedilol tablets may affect the way other medicines work.
@@ -146,4 +147,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-E 1/2011
+F 2/2011

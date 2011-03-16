@@ -16,6 +16,10 @@ Patients taking carvedilol tablets should be advised of the following:
 - Diabetic patients should report any changes in blood sugar levels to their physician.
 - Contact lens wearers may experience decreased lacrimation.
 
+## 17.2 FDA-Approved Patient Labeling
+
+Patient labeling is provided at the end of this full prescribing information.
+
 Manufactured In Israel By:
 
 TEVA PHARMACEUTICAL IND.
@@ -30,10 +34,8 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-H 1/2011
+J 2/2011
 
 PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
 ---------------------------------------------------------------------------------------------------------------------
-
-## 17.2 FDA-Approved Patient Labeling
