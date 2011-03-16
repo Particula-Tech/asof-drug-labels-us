@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076474"
+  ],
+  "inn": "esmolol",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-182-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "esmolol hydrochloride",
+      "name": "Esmolol Hydrochloride"
+    }
+  ],
+  "setid": "94f069f9-dd52-4a69-a103-ebdb4294f088",
+  "source": "dailymed"
+}
