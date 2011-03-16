@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022428"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0006-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "MOXEZA"
+    }
+  ],
+  "setid": "05248b68-16a9-488d-a39f-5137d2410471",
+  "source": "dailymed"
+}

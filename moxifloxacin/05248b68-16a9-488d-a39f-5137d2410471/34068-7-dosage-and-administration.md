@@ -1,0 +1,3 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Instill 1 drop in the affected eye(s) 2 times daily for 7 days.
