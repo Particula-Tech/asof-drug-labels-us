@@ -71,7 +71,7 @@ Patients receiving immunosuppressive therapies, including cyclosporine and cyclo
 Both generalized and localized infections can occur.
 Pre-existing infections may also be aggravated.
 Fatal outcomes have been reported.
-(See WARNINGS)
+(see Warnings)
 
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
@@ -96,4 +96,4 @@ These effects are reversible upon discontinuation of treatment but are usually n
 ## Postmarketing Experience
 
 BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Sandimmune.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (See WARNINGS).
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS).

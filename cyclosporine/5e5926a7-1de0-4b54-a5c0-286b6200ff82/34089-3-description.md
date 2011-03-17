@@ -35,7 +35,7 @@ Helv. ………………………………………………………………�
 dissolved in an olive oil, Ph.
 Helv./Labrafil M 1944 CS (polyoxyethylated oleic glycerides) vehicle which must be further diluted with milk, chocolate milk, or orange juice before oral administration.
 
-Sandimmune® Injection (cyclosporine injection, USP) is available in a 5 mL sterile ampul for I.V. administration.
+Sandimmune® Injection(cyclosporine injection, USP) is available in a 5 mL sterile ampul for I.V. administration.
 
 Each mL contains:
 

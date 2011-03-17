@@ -246,7 +246,7 @@ Caution is also required when cyclosporine is coadministered with potassium-spar
 Control of potassium levels in these situations is advisable.
 
 Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
-In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
+In 12 healthy male subjects who received two doses of 100mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25mg repaglinide tablet (one half of a 0.5mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 - 3.7 fold) and 2.4 fold (range 1.2 - 5.3 fold), respectively.
 Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
 
 Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
