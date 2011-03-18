@@ -95,13 +95,14 @@ To minimize the possibility that hepatic injury will become severe between trans
 To minimize the potential risk for an adverse liver related event in patients treated with Cataflam, the lowest effective dose should be used for the shortest duration possible.
 Caution should be exercised in prescribing Cataflam with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
-## Anaphylactoid Reactions
+## Anaphylactic Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Cataflam.
+As with other NSAIDs, anaphylactic reactions may occur both in patients with the aspirin triad and in patients without known sensitivity to NSAIDs or known prior exposure to Cataflam.
 Cataflam should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
 (See CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma.)
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Anaphylaxis-type reactions have been reported with NSAID products, including with diclofenac products, such as Cataflam.
+Emergency help should be sought in cases where an anaphylactic reaction occurs.
 
 ## Skin Reactions
 
@@ -156,8 +157,8 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+6. Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
 7. In late pregnancy, as with other NSAIDs, Cataflam should be avoided because it will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
@@ -192,6 +193,10 @@ These effects have been attributed to inhibition of renal prostaglandin synthesi
 Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
 
 Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
+
+CYP2C9 Inhibitors or Inducers: Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9.
+Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of diclofenac.
+Use caution when dosing diclofenac with CYP2C9 inhibitors or inducers, a dosage adjustment may be warranted (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Drug Interactions).
 
 ## Pregnancy
 
