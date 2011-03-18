@@ -109,7 +109,7 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 Table 2.
 Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Elderly (percentage of patients reporting)
 
-|  | 6.25 mg (N=99) | (N=106) |
+| 6.25 mg (N=99) | (N=106) |  |
 | --- | --- | --- |
 | Body System/Adverse Reaction Reactions reported by at least 1% of patients treated with Ambien CR and at greater frequency than in the placebo group. | Ambien CR | Placebo |
 | Infections and infestations |  |  |

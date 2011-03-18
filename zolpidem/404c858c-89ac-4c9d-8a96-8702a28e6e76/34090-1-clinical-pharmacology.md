@@ -2,13 +2,10 @@
 
 ## 12.1 Mechanism of action
 
-Subunit modulation of the GABAA receptor chloride channel macromolecular complex is hypothesized to be responsible for sedative, anticonvulsant, anxiolytic, and myorelaxant drug properties.
-The major modulatory site of the GABAA receptor complex is located on its alpha (α) subunit and is referred to as the benzodiazepine (BZ) receptor.
-
-Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, pyrrolopyrazines, pyrazolopyrimidines, or other drugs with known hypnotic properties.
-In contrast to the benzodiazepines, which nonselectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the alpha1/alpha5 subunits.
-The BZ1 receptor is found primarily on the Lamina IV of the sensorimotor cortical regions, substantia nigra (pars reticulata), cerebellum molecular layer, olfactory bulb, ventral thalamic complex, pons, inferior colliculus, and globus pallidus.
-This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
+Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
+It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
+In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.
+This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.
 
 ## 12.3 Pharmacokinetics
 

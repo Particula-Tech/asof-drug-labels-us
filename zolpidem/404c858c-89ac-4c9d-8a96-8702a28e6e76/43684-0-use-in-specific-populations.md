@@ -5,23 +5,21 @@
 Pregnancy Category C
 
 There are no adequate and well-controlled studies of Ambien CR in pregnant women.
-Ambien CR should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.
+Ambien CR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Oral studies of zolpidem in pregnant rats and rabbits showed adverse effects on the development of offspring only at doses greater than the maximum recommended human dose (MRHD of 12.5 mg/day).
-These doses were also maternally toxic in animals.
-A teratogenic effect was not observed in these studies.
-Administration to pregnant rats during the period of organogenesis produced dose-related maternal toxicity and decreases in fetal skull ossification at doses 20 to 100 times the MRHD.
-The no-effect dose for embryo-fetal toxicity was 4 times the MRHD.
-Treatment of pregnant rabbits during organogenesis resulted in maternal toxicity at all doses studied and increased post-implantation embryo-fetal loss and under-ossification of fetal sternebrae at the highest dose (30 times the MRHD).
-The no-effect level for embryo-fetal toxicity was approximately 8 times the MRHD.
-Administration to rats during the latter part of pregnancy and throughout lactation produced maternal toxicity and decreased pup growth and survival at doses approximately 20 to 100 times the MRHD.
-The no-effect dose for offspring toxicity was approximately 4 times the MRHD.
+Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring development at doses greater than the Ambien CR maximum recommended human dose (MRHD) of 12.5 mg/day (approximately 10 mg/day zolpidem base); however, teratogenicity was not observed.
 
-Studies to assess the effects on children whose mothers took zolpidem during pregnancy have not been conducted.
-There is a published case report documenting the presence of zolpidem in human umbilical cord blood.
-Children born of mothers taking sedative/hypnotic drugs may be at some risk for withdrawal symptoms from the drug during the postnatal period.
-In addition, neonatal flaccidity has been reported in infants born of mothers who received sedative/hypnotic drugs during pregnancy.
-Cases of severe neonatal respiratory depression have been reported when zolpidem was used with other CNS depressants at the end of pregnancy.
+When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg (approximately 4, 20 and 100 times the MRHD on a mg/m2 basis) to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification occurred at all but the lowest dose, which is approximately 4 times the MRHD on a mg/m2 basis.
+In rabbits treated during organogenesis with zolpidem at oral doses of 1, 4, and 16 mg base/kg (approximately 2, 8 and 30 times the MRHD on a mg/m2 basis), increased embryo-fetal death and incomplete fetal skeletal ossification occurred at the highest dose.
+The no-effect dose for embryo-fetal toxicity in rabbits is approximately 8 times the MRHD on a mg/m2 basis.
+Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg (approximately 4, 20 and 100 times the MRHD on a mg/m2 basis) during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 4 times the MRHD on a mg/m2 basis.
+
+Neonatal complications
+
+Studies in children to assess the effects of prenatal exposure to zolpidem have not been conducted; however, cases of severe neonatal respiratory depression have been reported when zolpidem was used at the end of pregnancy, especially when taken with other CNS depressants.
+
+Children born to mothers taking sedative-hypnotic drugs may be at some risk for withdrawal symptoms during the postnatal period.
+Neonatal flaccidity has been reported in infants born to mothers who received sedative-hypnotic drugs during pregnancy.
 
 ## 8.2 Labor and delivery
 
@@ -29,9 +27,9 @@ Ambien CR has no established use in labor and delivery [see Pregnancy (8.1)].
 
 ## 8.3 Nursing mothers
 
-Studies in lactating mothers indicate that the half-life of zolpidem is similar to that in young normal subjects (2.6 ± 0.3 hr). Between 0.004% and 0.019% of the total administered dose is excreted into milk.
-The effect of zolpidem on the nursing infant is not known.
-Caution should be exercised when Ambien CR is administered to a nursing mother.
+Zolpidem is excreted in human milk.
+Studies in lactating mothers indicate that the half-life of zolpidem is similar to that in non-lactating women (2.6 ± 0.3 hr). The effect of zolpidem on the nursing infant is not known.
+Caution should be exercised when Ambien CR is administered to a nursing woman.
 
 ## 8.4 Pediatric use
 

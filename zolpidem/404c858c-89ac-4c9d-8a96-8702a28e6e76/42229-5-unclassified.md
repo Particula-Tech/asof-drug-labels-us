@@ -38,7 +38,7 @@ What are the possible side effects of AMBIEN CR?
 Serious side effects of AMBIEN CR include:
 
 - getting out of bed while not being fully awake and do an activity that you do not know you are doing.
-  (See "What is the most important information I should know about AMBIEN CR?)
+  (See "What is the most important information I should know about AMBIEN CR?")
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
 - memory loss
@@ -93,4 +93,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-September 2009
+October, 2010

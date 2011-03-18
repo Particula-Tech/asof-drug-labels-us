@@ -8,7 +8,8 @@ What is the most important information I should know about AMBIEN CR?
 
 After taking AMBIEN CR, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
 The next morning, you may not remember that you did anything during the night.
-You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with AMBIEN CR.Reported activities include:
+You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with AMBIEN CR.
+Reported activities include:
 
 - driving a car ("sleep-driving")
 - making and eating food

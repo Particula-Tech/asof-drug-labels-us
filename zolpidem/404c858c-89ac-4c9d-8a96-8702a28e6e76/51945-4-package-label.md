@@ -12,6 +12,8 @@ Rx only 100 Tablets
 
 sanofi aventis
 
+PRINCIPAL DISPLAY PANEL - 10 Tablet Blister, Front
+
 A-500 NDC 0024-5501-10 10 Tablets
 
 AMBIEN CR® (ZOLPIDEM TARTRATE EXTENDED-RELEASE) CIV
@@ -44,13 +46,15 @@ A-552 NDC 0024-5521-31
 
 AMBIEN CR® (ZOLPIDEM TARTRATE EXTENDED-RELEASE) CIV
 
-12.50 mg Tablets
+12.5 mg Tablets
 
 Dispense with Medication Guide
 
 Rx only 100 Tablets
 
 sanofi aventis
+
+PRINCIPAL DISPLAY PANEL - 10 Tablet Blister, Front
 
 A-520 NDC 0024-5521-10 10 Tablets
 

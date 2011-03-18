@@ -2,19 +2,14 @@
 
 ## 13.1 Carcinogenesis, mutagenesis, impairment of fertility
 
-Carcinogenesis:
+Carcinogenesis: Zolpidem was administered to mice and rats for 2 years at dietary dosages of 4, 18, and 80 mg base/kg.
+In mice, these doses are approximately 2, 9, and 40 times the maximum recommended human dose (MRHD) of 12.5 mg/day (10 mg zolpidem base) on mg/m2 basis.
+In rats, these doses are approximately 4, 18, and 80 times the MRHD on a mg/m2 basis.
+No evidence of carcinogenic potential was observed in mice.
+In rats, renal tumors (lipoma, liposarcoma) were seen at the mid- and high doses.
 
-Zolpidem tartrate was administered to CD-1 mice and Sprague-Dawley rats for two years at dietary dosages of 4, 18, and 80 mg/kg/day.
-No evidence of carcinogenic potential was observed in either mice or rats at doses up to 80 mg base/kg/day (40 and 80 times the maximum recommended human dose [MRHD] of Ambien CR 12.5 mg [10 mg zolpidem base], respectively, on a mg/m2 basis).
+Mutagenesis: Zolpidem was negative in in vitro (bacterial reverse mutation, mouse lymphoma, and chromosomal aberration) and in vivo (mouse micronucleus) genetic toxicology assays.
 
-Mutagenesis:
-
-Zolpidem did not have mutagenic activity in several tests including an in vitro bacterial reverse mutation (Ames) assay, an in vitro mammalian gene forward mutation assay in mouse lymphoma cells, and an in vitro unscheduled DNA synthesis in rat hepatocytes.
-Zolpidem was not clastogenic in an in vitro chromosomal aberration assay in human lymphocytes or in an in vivo micronucleus test in mice.
-
-Impairment of fertility:
-
-Zolpidem tartrate was administered by oral gavage to Sprague-Dawley rats at doses of 4, 20, or 100 mg base/kg/day.
-Treatment of males began 71 days prior to mating and continued through mating while treatment of females began 14 days prior to mating and continued through mating, gestation, and weaning which occurred on post partum Day 25.
-Zolpidem administered at 100 mg base/kg was associated with irregular estrus cycles and prolonged pre-coital intervals, but did not produce a decline in fertility.
-The no-effect dose was 20 mg base/kg/day (20 times the MRHD of Ambien CR on a mg/m2 basis).
+Impairment of fertility: Oral administration of zolpidem (doses of 4, 20, and 100 mg base/kg or approximately 4, 20, and 100 times the MRHD on a mg/m2 basis) to rats prior to and during mating, and continuing in females through postpartum day 25, resulted in irregular estrus cycles and prolonged precoital intervals.
+The no-effect dose for these findings is approximately 20 times the MRHD on a mg/m2 basis.
+There was no impairment of fertility at any dose tested.
