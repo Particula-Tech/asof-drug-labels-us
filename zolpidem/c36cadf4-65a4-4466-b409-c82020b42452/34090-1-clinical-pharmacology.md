@@ -2,14 +2,10 @@
 
 ## 12.1 Mechanism of action
 
-Subunit modulation of the GABAA receptor chloride channel macromolecular complex is hypothesized to be responsible for sedative, anticonvulsant, anxiolytic, and myorelaxant drug properties.
-The major modulatory site of the GABAA receptor complex is located on its alpha (α) subunit and is referred to as the benzodiazepine (BZ) or omega (ω) receptor.
-At least three subtypes of the (ω) receptor have been identified.
-
-Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, pyrrolopyrazines, pyrazolopyrimidines or other drugs with known hypnotic properties, it interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the (BZ1) receptor preferentially with a high affinity ratio of the alpha1/alpha5 subunits.
-The (BZ1) receptor is found primarily on the Lamina IV of the sensorimotor cortical regions, substantia nigra (pars reticulata), cerebellum molecular layer, olfactory bulb, ventral thalamic complex, pons, inferior colliculus, and globus pallidus.
-This selective binding of zolpidem on the (BZ1) receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
+Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
+It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.
+In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.
+This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,21 +24,21 @@ These results suggest that, for faster sleep onset, Ambien should not be adminis
 
 Special Populations
 
-Elderly
+Elderly:
 
 In the elderly, the dose for Ambien should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2)].
 This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.
 In one study of eight elderly subjects (> 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.
 Ambien did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.
 
-Hepatic Impairment
+Hepatic Impairment:
 
 The pharmacokinetics of Ambien in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.
 Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.
 Tmax did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.6)].
 
-Renal Impairment
+Renal Impairment:
 
 The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.

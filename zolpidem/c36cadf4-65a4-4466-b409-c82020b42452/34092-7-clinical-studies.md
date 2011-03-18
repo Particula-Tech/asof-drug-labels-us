@@ -22,24 +22,16 @@ Increased wakefulness during the last third of the night as measured by polysomn
 
 ## 14.3 Studies pertinent to safety concerns for sedative/hypnotic drugs
 
-### Next-day residual effects:
-
-Next-day residual effects of Ambien were evaluated in seven studies involving normal subjects.
+Next-day residual effects: Next-day residual effects of Ambien were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.
 Studies of Ambien in non-elderly patients with insomnia did not detect evidence of next-day residual effects using the DSST, the Multiple Sleep Latency Test (MSLT), and patient ratings of alertness.
 
-### Rebound effects:
-
-There was no objective (polysomnographic) evidence of rebound insomnia at recommended doses seen in studies evaluating sleep on the nights following discontinuation of Ambien (zolpidem tartrate).
+Rebound effects: There was no objective (polysomnographic) evidence of rebound insomnia at recommended doses seen in studies evaluating sleep on the nights following discontinuation of Ambien (zolpidem tartrate).
 There was subjective evidence of impaired sleep in the elderly on the first post-treatment night at doses above the recommended elderly dose of 5 mg.
 
-### Memory impairment:
-
-Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of Ambien.
+Memory impairment: Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of Ambien.
 However, in one study involving zolpidem doses of 10 and 20 mg, there was a significant decrease in next-morning recall of information presented to subjects during peak drug effect (90 minutes post-dose), i.e., these subjects experienced anterograde amnesia.
 There was also subjective evidence from adverse event data for anterograde amnesia occurring in association with the administration of Ambien, predominantly at doses above 10 mg.
 
-### Effects on sleep stages:
-
-In studies that measured the percentage of sleep time spent in each sleep stage, Ambien has generally been shown to preserve sleep stages.
+Effects on sleep stages: In studies that measured the percentage of sleep time spent in each sleep stage, Ambien has generally been shown to preserve sleep stages.
 Sleep time spent in stages 3 and 4 (deep sleep) was found comparable to placebo with only inconsistent, minor changes in REM (paradoxical) sleep at the recommended dose.

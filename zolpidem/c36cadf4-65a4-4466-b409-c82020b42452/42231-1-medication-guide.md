@@ -1,4 +1,4 @@
-MEDICATION GUIDE AMBIEN® (ām'bē-ən) Tablets C-IV (zolpidem tartrate)
+MEDICATION GUIDE AMBIEN®(ām'bē-ən) Tablets C-IV (zolpidem tartrate)
 
 Read the Medication Guide that comes with AMBIEN before you start taking it and each time you get a refill.
 There may be new information.
@@ -28,7 +28,7 @@ Take AMBIEN exactly as prescribed
 - Take AMBIEN right before you get in bed, not sooner.
 
 2.
-Do not take AMBIEN if you :
+Do not take AMBIEN if you:
 
 - drink alcohol
 - take other medicines that can make you sleepy.
@@ -46,14 +46,10 @@ Symptoms of insomnia include:
 
 AMBIEN is not for children.
 
-AMBIEN is a federally controlled substance (C-IV) because it can be abused or lead to dependence.
-Keep AMBIEN in a safe place to prevent misuse and abuse.
-Selling or giving away AMBIEN may harm others, and is against the law.
-Tell your doctor if you have ever abused or have been dependent on alcohol, prescription medicines or street drugs.
-
 Who should not take AMBIEN?
 
 Do not take AMBIEN if you are allergic to anything in it.
+
 See the end of this Medication Guide for a complete list of ingredients in AMBIEN.
 
 AMBIEN may not be right for you.
@@ -77,7 +73,7 @@ How should I take AMBIEN?
 - Take AMBIEN exactly as prescribed.
   Do not take more AMBIEN than prescribed for you.
 - Take AMBIEN right before you get into bed.
-- Do not take AMBIEN unless you are able to stay in bed a full night (7-8 hours) before you must be active again.
+- Do not take AMBIEN unless you are able to stay in bed a full night (7–8 hours) before you must be active again.
 - For faster sleep onset, AMBIEN should NOT be taken with or immediately after a meal.
 - Call your doctor if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
@@ -140,10 +136,8 @@ Active Ingredient: Zolpidem tartrate
 Inactive Ingredients: hydroxypropyl methylcellulose, lactose, magnesium stearate, micro-crystalline cellulose, polyethylene glycol, sodium starch glycolate, and titanium dioxide.
 In addition, the 5 mg tablet contains FD&C Red No. 40, iron oxide colorant, and polysorbate 80.
 
-Rx Only
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-June 2009
+August 2010

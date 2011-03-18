@@ -51,15 +51,11 @@ Dosage adjustments may be necessary when Ambien is administered with such agents
 
 ## 5.6 Special populations
 
-### Use in the elderly and/or debilitated patients:
-
-Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
+Use in the elderly and/or debilitated patients: Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
 Therefore, the recommended Ambien dosage is 5 mg in such patients to decrease the possibility of side effects [see Dosage and Administration (2.2)].
 These patients should be closely monitored.
 
-### Use in patients with concomitant illness:
-
-Clinical experience with Ambien (zolpidem tartrate) in patients with concomitant systemic illness is limited.
+Use in patients with concomitant illness: Clinical experience with Ambien (zolpidem tartrate) in patients with concomitant systemic illness is limited.
 Caution is advisable in using Ambien in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 
 Although studies did not reveal respiratory depressant effects at hypnotic doses of zolpidem in normal subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with Ambien (10 mg) when compared to placebo.
@@ -72,14 +68,10 @@ No dosage adjustment in renally impaired patients is required; however, these pa
 
 A study in subjects with hepatic impairment did reveal prolonged elimination in this group; therefore, treatment should be initiated with 5 mg in patients with hepatic compromise, and they should be closely monitored [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-### Use in patients with depression:
-
-As with other sedative/hypnotic drugs, Ambien should be administered with caution to patients exhibiting signs or symptoms of depression.
+Use in patients with depression: As with other sedative/hypnotic drugs, Ambien should be administered with caution to patients exhibiting signs or symptoms of depression.
 Suicidal tendencies may be present in such patients and protective measures may be required.
 Intentional over-dosage is more common in this group of patients; therefore, the least amount of drug that is feasible should be prescribed for the patient at any one time.
 
-### Use in pediatric patients:
-
-Safety and effectiveness of zolpidem have not been established in pediatric patients.
+Use in pediatric patients: Safety and effectiveness of zolpidem have not been established in pediatric patients.
 In an 8-week study in pediatric patients (aged 6–17 years) with insomnia associated with ADHD, zolpidem did not decrease sleep latency compared to placebo.
 Hallucinations were reported in 7.4% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Use in Specific Populations (8.4)].

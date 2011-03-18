@@ -20,7 +20,7 @@ Patients should be instructed to report events such as "sleep-driving" and other
 
 ## 17.3 Administration instructions
 
-Patients should be counseled to take Ambien right before they get into bed and only when they are able to stay in bed a full night (7-8 hours) before being active again.
+Patients should be counseled to take Ambien right before they get into bed and only when they are able to stay in bed a full night (7–8 hours) before being active again.
 Ambien tablets should not be taken with or immediately after a meal.
 Advise patients NOT to take Ambien when drinking alcohol.
 
