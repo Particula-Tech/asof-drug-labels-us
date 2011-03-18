@@ -1,82 +1,93 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Secondary hyperparathyroidism (HPT) in patients with chronic kidney disease (CKD) is a progressive disease, associated with increases in parathyroid hormone (PTH) levels and derangements in calcium and phosphorus metabolism.
+Secondary HPT in patients with CKD is a progressive disease, associated with increases in PTH levels and derangements in calcium and phosphorus metabolism.
 Increased PTH stimulates osteoclastic activity resulting in cortical bone resorption and marrow fibrosis.
-The goals of treatment of secondary hyperparathyroidism are to lower levels of PTH, calcium, and phosphorus in the blood, in order to prevent progressive bone disease and the systemic consequences of disordered mineral metabolism.
-In CKD patients on dialysis with uncontrolled secondary HPT, reductions in PTH are associated with a favorable impact on bone-specific alkaline phosphatase (BALP), bone turnover and bone fibrosis.
+The goals of treatment of secondary HPT are to lower the levels of PTH, calcium, and phosphorus in the blood in order to prevent progressive bone disease and the systemic consequences of disordered mineral metabolism.
+Reductions in PTH are associated with a decrease in bone turnover and bone fibrosis in patients with CKD on dialysis and uncontrolled secondary HPT.
 
-The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH secretion.
-Sensipar® directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
+Sensipar directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
+Measurements of PTH during the Sensipar studies were obtained using the Nichols iPTH immunoradiometric assay.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-Absorption and Distribution: After oral administration of cinacalcet, maximum plasma concentration (Cmax) is achieved in approximately 2 to 6 hours.
-A food-effect study in healthy volunteers indicated that the Cmax and area under the curve (AUC(0-inf)) were increased 82% and 68%, respectively, when cinacalcet was administered with a high-fat meal compared to fasting.
-Cmax and AUC(0-inf) of cinacalcet were increased 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared to fasting.
+Reduction in iPTH levels correlated with the plasma cinacalcet concentrations in patients with CKD.
+The nadir in iPTH level occurs approximately 2 to 6 hours postdose, corresponding with the maximum plasma concentration (Cmax) of cinacalcet.
+After steady-state cinacalcet concentrations are reached (which occurs within 7 days of dose change), serum calcium concentrations remain constant over the dosing interval in patients with CKD.
+
+## 12.3 Pharmacokinetics
+
+### Absorption and Distribution
+
+After oral administration of cinacalcet, Cmax is achieved in approximately 2 to 6 hours.
+Cinacalcet Cmax and AUC(0-inf) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.
+The Cmax and AUC(0-inf) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
 
 After absorption, cinacalcet concentrations decline in a biphasic fashion with a terminal half-life of 30 to 40 hours.
-Steady-state drug levels are achieved within 7 days.
-The mean accumulation ratio is approximately 2 with once-daily oral administration.
+Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once-daily oral administration.
 The median accumulation ratio is approximately 2 to 5 with twice-daily oral administration.
 The AUC and Cmax of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
 The pharmacokinetic profile of cinacalcet does not change over time with once-daily dosing of 30 to 180 mg.
-The volume of distribution is high (approximately 1000 L), indicating extensive distribution.
-Cinacalcet is approximately 93 to 97% bound to plasma protein(s).
+The volume of distribution is approximately 1000 L, indicating extensive distribution.
+Cinacalcet is approximately 93% to 97% bound to plasma protein(s).
 The ratio of blood cinacalcet concentration to plasma cinacalcet concentration is 0.80 at a blood cinacalcet concentration of 10 ng/mL.
 
-Metabolism and Excretion: Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6 and CYP1A2.
-After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was rapidly and extensively metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug to form dihydrodiols, which are further conjugated with glucuronic acid.
-The plasma concentrations of the major circulating metabolites including the cinnamic acid derivatives and glucuronidated dihydrodiols markedly exceed parent drug concentrations.
-The hydrocinnamic acid metabolite was shown to be inactive at concentrations up to 10 µM in a cell-based assay measuring calcium-receptor activation.
-The glucuronide conjugates formed after cinacalcet oxidation were shown to have a potency approximately 0.003 times that of cinacalcet in a cell-based assay measuring a calcimimetic response.
+### Metabolism and Excretion
+
+Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6, and CYP1A2.
+After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug forming dihydrodiols, which are further conjugated with glucuronic acid.
+The plasma concentrations of the major circulating metabolites, including the cinnamic acid derivatives and glucuronidated dihydrodiols, markedly exceed the parent drug concentrations.
+The hydrocinnamic acid metabolite and glucuronide conjugates have minimal or no calcimimetic activity.
 Renal excretion of metabolites was the primary route of elimination of radioactivity.
 Approximately 80% of the dose was recovered in the urine and 15% in the feces.
 
-## Special Populations
+### Drug Interactions
 
-Hepatic Insufficiency: The disposition of a 50 mg cinacalcet single dose was compared in patients with hepatic impairment and subjects with normal hepatic function.
-Cinacalcet exposure, AUC(0-inf), was comparable between healthy volunteers and patients with mild hepatic impairment.
-However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures as defined by the AUC(0-inf) were 2.4 and 4.2 times higher, respectively, than that in normals.
-The mean half-life of cinacalcet is prolonged by 33% and 70% in patients with moderate and severe hepatic impairment, respectively.
-Protein binding of cinacalcet is not affected by impaired hepatic function.
-See PRECAUTIONS and DOSAGE AND ADMINISTRATION.
-
-Renal Insufficiency: The pharmacokinetic profile of a 75 mg Sensipar® single dose in patients with mild, moderate, and severe renal insufficiency, and those on hemodialysis or peritoneal dialysis is comparable to that in healthy volunteers.
-
-Geriatric Patients: The pharmacokinetic profile of Sensipar® in geriatric patients (age ≥ 65, n = 12) is similar to that for patients who are < 65 years of age (n = 268).
-
-Pediatric Patients: The pharmacokinetics of Sensipar® have not been studied in patients < 18 years of age.
-
-## Drug Interactions
-
-An in vitro study indicates that cinacalcet is a strong inhibitor of CYP2D6, but not of CYP1A2, CYP2C9, CYP2C19, and CYP3A4.
+In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but not an inhibitor of CYP1A2, CYP2C9, CYP2C19, and CYP3A4.
 In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes.
+Tables 3 and 4 list the findings from in vivo drug-drug interaction studies.
 
-Ketoconazole: Cinacalcet AUC(0-inf) and Cmax increased 2.3 and 2.2 times, respectively, when a single 90 mg cinacalcet dose on Day 5 was administered to subjects treated with 200 mg ketoconazole twice daily for 7 days compared to 90 mg cinacalcet given alone (see DOSAGE AND ADMINISTRATION).
+Table 3.
+Effects of co-administered drugs on cinacalcet
 
-Calcium Carbonate: No significant pharmacokinetic interaction was observed when a single dose of 1500 mg calcium carbonate was coadministered with 100 mg cinacalcet.
+| Coadministered drug and dosing regimen | Cinacalcet |  |  |
+| --- | --- | --- | --- |
+| Dose Single dose | Mean change in AUC | Mean change in Cmax |  |
+| 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑128% | ↑116% |
+| 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |
+| 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
+| 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |
 
-Pantoprazole: No significant pharmacokinetic interaction was observed when cinacalcet 90 mg was administered to subjects treated with 80 mg pantoprazole daily for 3 days.
+Table 4.
+Effect of cinacalcet co-administration on other drugs
 
-Sevelamer HCl: No significant pharmacokinetic interaction was observed when 2400 mg sevelamer HCl was coadministered with 90 mg cinacalcet tablet (subjects subsequently received 2400 mg sevelamer HCl two more times on Day 1 and three more times on Day 2).
+| Cinacalcet dosing regimen | Coadministered drug |  |  |
+| --- | --- | --- | --- |
+| Name and Dose | Mean change in AUC0-∞ | Mean change in Cmax |  |
+| 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time tablet† | ↑1 % for R-warfarin↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
+| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramineSingle dose on day 5 | ↑264% | ↑75% |
+| 90 mg daily for 5 days | 2 mg midazolam | ↑5% | ↓5% |
+| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline↑17-23% for nortriptylineNortriptyline is an active metabolite of amitriptyline | ↑13-21% for amitriptyline↑11-15% for nortriptyline |
 
-Desipramine: The effect of cinacalcet (90 mg) on the pharmacokinetics of desipramine (50 mg) has been studied in healthy subjects who were CYP2D6 extensive metabolizers.
-The AUC and Cmax of desipramine increased by 3.6 (296.5-446.7%) and 1.75 (157.5-194.9%) fold, respectively, in the presence of cinacalcet.
-This indicates that cinacalcet is a strong in vivo inhibitor of CYP2D6 and can increase the blood concentrations of drugs metabolized by CYP2D6.
+### Hepatic Impairment
 
-Amitriptyline: Concurrent administration of 25 mg or 100 mg cinacalcet with 50 mg amitriptyline increased amitriptyline exposure and nortriptyline (active metabolite) exposure by approximately 20% in CYP2D6 extensive metabolizers.
+The disposition of a 50 mg Sensipar single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
+Cinacalcet exposure (AUC(0-inf)) was comparable between healthy volunteers and patients with mild hepatic impairment.
+However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures (AUC(0-inf)) were 2.4 and 4.2 fold higher, respectively, than that in healthy volunteers.
+The mean half-life of cinacalcet increased from 49 hours in healthy volunteers to 65 hours and 84 hours in patients with moderate and severe hepatic impairment, respectively.
+Protein binding of cinacalcet is not affected by impaired hepatic function [see Warnings and Precautions (5.5) and Use in Specific Populations (8.7)].
 
-Warfarin: R- and S-warfarin pharmacokinetics and warfarin pharmacodynamics were not affected in subjects treated with warfarin 25 mg who received cinacalcet 30 mg twice daily.
-The lack of effect of cinacalcet on the pharmacokinetics of R- and S-warfarin and the absence of auto-induction upon multiple dosing in patients indicates that cinacalcet is not an inducer of CYP2C9 in humans.
+### Renal Impairment
 
-Midazolam: There were no significant differences in the pharmacokinetics of midazolam, a CYP3A4 and CYP3A5 substrate, in subjects receiving 90 mg cinacalcet once daily for 5 days and a single dose of 2 mg midazolam on day 5 as compared to those of subjects receiving 2 mg midazolam alone.
-This suggests that cinacalcet would not affect the pharmacokinetics of drugs predominantly metabolized by CYP3A4 and CYP3A5.
+The pharmacokinetic profile of a 75 mg Sensipar single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations (8.6)].
 
-## Pharmacodynamics
+### Geriatric Patients
 
-Reduction in intact PTH (iPTH) levels correlated with cinacalcet concentrations in CKD patients.
-The nadir in iPTH level occurs approximately 2 to 6 hours post dose, corresponding with the Cmax of cinacalcet.
-After steady state is reached, serum calcium concentrations remain constant over the dosing interval in CKD patients.
+The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 years, n = 12) is similar to that for patients who are < 65 years of age (n = 268) [see Use in Specific Populations (8.5)].
+
+### Pediatric Patients
+
+The pharmacokinetics of cinacalcet has not been studied in patients < 18 years of age [see Use in Specific Populations (8.4)].

@@ -1,6 +1,6 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - TABLET, 30 MG
 
-Amgen®
+AMGEN®
 
 NDC 55513-073-30
 
@@ -8,11 +8,11 @@ Sensipar®
 
 (cinacalcet HCI) Tablets
 
+30 mg
+
 Rx Only
 
 30 tablets
-
-30 mg
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 
@@ -26,13 +26,15 @@ Lot
 
 Exp.
 
-LB-5436/S
+LB-5663/S
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
 
+Made in Japan
+
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - TABLET, 60 MG
 
-Amgen®
+AMGEN®
 
 NDC 55513-074-30
 
@@ -40,11 +42,11 @@ Sensipar®
 
 (cinacalcet HCI) Tablets
 
+60 mg
+
 Rx Only
 
 30 tablets
-
-60 mg
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 
@@ -58,13 +60,15 @@ Lot
 
 Exp.
 
-LB-5437/S
+LB-5664/S
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
 
+Made in Japan
+
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - TABLET, 90 MG
 
-Amgen®
+AMGEN®
 
 NDC 55513-075-30
 
@@ -72,11 +76,11 @@ Sensipar®
 
 (cinacalcet HCI) Tablets
 
+90 mg
+
 Rx Only
 
 30 tablets
-
-90 mg
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 
@@ -90,6 +94,8 @@ Lot
 
 Exp.
 
-LB-5438/S
+LB-5665/S
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
+
+Made in Japan
