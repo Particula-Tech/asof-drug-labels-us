@@ -7,7 +7,7 @@ The mechanism of action of Voltaren, like that of other NSAIDs, is not completel
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
 Diclofenac is 100% absorbed after oral administration compared to IV administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available (see Table 1).
@@ -27,7 +27,7 @@ Pharmacokinetic Parameters for Diclofenac
 | Apparent Volume of Distribution (V/F; L/kg) [N = 56] | 1.4 | 58 |
 | Terminal Half-life (hr) [N = 56] | 2.3 | 48 |
 
-### Distribution
+Distribution
 
 The apparent volume of distribution (V/F) of diclofenac sodium is 1.4 L/kg.
 
@@ -38,22 +38,30 @@ Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
 
-### Metabolism
+Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy -diclofenac.
+The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
+The formation of 4’-hydroxy- diclofenac is primarily mediated by CPY2C9.
+Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CPY2C8 may also play a role in diclofenac metabolism.
+CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy- and 3’-hydroxy-diclofenac.
 In patients with renal dysfunction, peak concentrations of metabolites 4'-hydroxy- and 5-hydroxy-diclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
-However, diclofenac metabolites undergo further glucuronidation and sulfation followed by biliary excretion.
 
-One diclofenac metabolite 4'-hydroxy- diclofenac has very weak pharmacologic activity.
-
-### Excretion
+Excretion
 
 Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Little or no free unchanged diclofenac is excreted in the urine.
 Approximately 65% of the dose is excreted in the urine and approximately 35% in the bile as conjugates of unchanged diclofenac plus metabolites.
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 2 hours.
+
+## Drug Interactions
+
+When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS, Drug Interactions).
+
+>
 
 ## Special Populations
 

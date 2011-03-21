@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019201"
+  ],
   "inn": "diclofenac",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0028-0264-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "diclofenac sodium",
+      "name": "Voltaren"
+    }
+  ],
   "setid": "2efea42b-41c7-433d-9bf0-0363855e8965",
   "source": "dailymed"
 }
