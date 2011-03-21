@@ -404,13 +404,25 @@ Symptoms may be significant and lead to dehydration.
 Acute Renal Impairment
 
 Transient rise in serum creatinine correctable with intravenous fluids; acute renal failure requiring hospitalization and/or dialysis.
-Increased serum creatinine was reported in patients with underlying renal disease and dehydration secondary to fever, gastrointestinal losses, diuretic therapy, etc., in the post-infusion period.
+Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as concomitant nephrotoxic drugs in the post-infusion period.
 
 Allergic Reactions
 
 There have been rare reports of allergic reaction with intravenous zoledronic acid including urticaria, angioedema, and bronchoconstriction.
 Rare cases of anaphylactic reaction/shock have also been reported.
 
+Hypocalcemia
+
+Rare cases of hypocalcemia have been reported.
+
+Osteonecrosis of the Jaw
+
+Rare cases of osteonecrosis of the jaw have been reported.
+
+Ocular Adverse Events
+
+Rare cases of the following events have been reported: conjunctivitis, iritis, iridocyclitis, uveitis, episcleritis, scleritis and orbital inflammation/edema.
+
 Other
 
-Hypocalcemia
+Rare cases of hypotension in patients with underlying risk factors have been reported.

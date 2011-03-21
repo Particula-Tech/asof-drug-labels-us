@@ -4,6 +4,8 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Patients must be appropriately hydrated prior to administration of Reclast [see Warnings and Precautions (5.3)].
 
+The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
+
 Administration of acetaminophen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
 
 A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance >35 mL/min [see Warnings and Precautions (5.3)].
@@ -49,6 +51,8 @@ However, re-treatment with Reclast may be considered in patients who have relaps
 ## 2.6 Method of Administration
 
 The Reclast infusion time must not be less than 15 minutes given over a constant infusion rate.
+
+The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 
 Reclast solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate vented infusion line.
 

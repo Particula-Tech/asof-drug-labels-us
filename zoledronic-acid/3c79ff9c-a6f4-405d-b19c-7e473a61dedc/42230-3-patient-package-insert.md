@@ -189,4 +189,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-January 2011 T2011-04/T2011-05
+T2011-41/T2011-05
+
+March 2011/January 2011
