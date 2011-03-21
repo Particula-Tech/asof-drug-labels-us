@@ -1,41 +1,45 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Most Common Adverse Events in All Clinical Studies
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adjunctive Therapy/Monotherapy in Adults Previously Treated with other AEDs: The most commonly observed (≥5%) adverse experiences seen in association with Trileptal® (oxcarbazepine) and substantially more frequent than in placebo-treated patients were: Dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, abdominal pain, tremor, dyspepsia, abnormal gait.
+## 6.1 Clinical Studies Experience
+
+Most Common Adverse Reactions in All Clinical Studies
+
+Adjunctive Therapy/Monotherapy in Adults Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with Trileptal and substantially more frequent than in placebo-treated patients were: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, abdominal pain, tremor, dyspepsia, abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse experience.
-The adverse experiences most commonly associated with discontinuation were: Dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
 
-Monotherapy in Adults Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse experiences seen in association with Trileptal in these patients were similar to those in previously treated patients.
+Monotherapy in Adults Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with Trileptal in these patients were similar to those in previously treated patients.
 
 Approximately 9% of these 295 adult patients discontinued treatment because of an adverse experience.
-The adverse experiences most commonly associated with discontinuation were: Dizziness (1.7%), nausea (1.7%), rash (1.7%), headache (1.4%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), headache (1.4%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with other AEDs: The most commonly observed (≥5%) adverse experiences seen in association with Trileptal in these patients were similar to those seen in adults.
+Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with Trileptal in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse experience.
-The adverse experiences most commonly associated with discontinuation were: Somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
 
-Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse experiences seen in association with Trileptal in these patients were similar to those in adults.
+Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with Trileptal in these patients were similar to those in adults.
 
 Approximately 9.2% of 152 pediatric patients discontinued treatment because of an adverse experience.
-The adverse experiences most commonly associated (≥1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
+The adverse reactions most commonly associated (≥1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse experiences seen in association with Trileptal in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with other AEDs: The most commonly observed (≥5%) adverse reactions seen in association with Trileptal in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse experience.
-The adverse experiences most commonly associated with discontinuation were: Convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
+The adverse reaction most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
 
-Incidence in Controlled Clinical Studies: The prescriber should be aware that the figures in Tables 4, 5, 6 and 7 cannot be used to predict the frequency of adverse experiences in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
+Incidence in Controlled Clinical Studies: The prescriber should be aware that the figures in Tables 3, 4, 5 and 6 cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescriber with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with other AEDs: Table 4 lists treatment-emergent signs and symptoms that occurred in at least 2% of adult patients with epilepsy treated with Trileptal or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of Trileptal.
-Table 5 lists treatment-emergent signs and symptoms in patients converted from other AEDs to either high dose Trileptal or low dose (300 mg) Trileptal.
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with other AEDs: Table 3 lists treatment-emergent signs and symptoms that occurred in at least 2% of adult patients with epilepsy treated with Trileptal or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of Trileptal.
+Table 4 lists treatment-emergent signs and symptoms in patients converted from other AEDs to either high dose Trileptal or low dose (300 mg) Trileptal.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 4: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 3 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Adjunctive Therapy in Adults (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal and Numerically More Frequent than in the Placebo Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -89,7 +93,7 @@ Table 4: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stu
 | Vision Abnormal | 6 | 14 | 13 | 4 |
 | Accommodation Abnormal | 0 | 0 | 2 | 0 |
 
-Table 5: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal® and Numerically More Frequent Than in the Low Dose Control Group)
+Table 4 Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Monotherapy in Adults Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with 2400 mg/day of Trileptal and Numerically More Frequent than in the Low Dose Control Group)
 
 |  | Oxcarbazepine Dosage (mg/day) |  |
 | --- | --- | --- |
@@ -155,9 +159,9 @@ Table 5: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studi
 | Micturition Frequency | 2 | 1 |
 | Vaginitis | 2 | 0 |
 
-Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with other AEDs: Table 6 lists treatment-emergent signs and symptoms in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with Trileptal or placebo and were numerically more common in the patients treated with Trileptal.
+Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with other AEDs: Table 5 lists treatment-emergent signs and symptoms in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with Trileptal or placebo and were numerically more common in the patients treated with Trileptal.
 
-Table 6: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 5 Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ Adverse Event | Oxcarbazepine N=55 % | Placebo N=49 % |
 | --- | --- | --- |
@@ -189,9 +193,9 @@ Table 6: Treatment-Emergent Adverse Event Incidence in a Controlled Clinical Stu
 | Special Senses |  |  |
 | Vision Abnormal | 4 | 0 |
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with other AEDs: Table 7 lists treatment-emergent signs and symptoms that occurred in at least 2% of pediatric patients with epilepsy treated with Trileptal or placebo as adjunctive treatment and were numerically more common in the patients treated with Trileptal.
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with other AEDs: Table 6 lists treatment-emergent signs and symptoms that occurred in at least 2% of pediatric patients with epilepsy treated with Trileptal or placebo as adjunctive treatment and were numerically more common in the patients treated with Trileptal.
 
-Table 7: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal® and Numerically More Frequent Than in the Placebo Group)
+Table 6 Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs (Events in at Least 2% of Patients Treated with Trileptal and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ Adverse Event | Oxcarbazepine N=171 % | Placebo N=139 % |
 | --- | --- | --- |
@@ -228,45 +232,49 @@ Table 7: Treatment-Emergent Adverse Event Incidence in Controlled Clinical Studi
 | Vision Abnormal | 13 | 1 |
 | Vertigo | 2 | 0 |
 
-## Other Events Observed in Association with the Administration of Trileptal
+Other Events Observed in Association with the Administration of Trileptal
 
 In the paragraphs that follow, the adverse events, other than those in the preceding tables or text, that occurred in a total of 565 children and 1,574 adults exposed to Trileptal and that are reasonably likely to be related to drug use are presented.
 Events common in the population, events reflecting chronic illness and events likely to reflect concomitant illness are omitted particularly if minor.
 They are listed in order of decreasing frequency.
 Because the reports cite events observed in open label and uncontrolled trials, the role of Trileptal in their causation cannot be reliably determined.
 
-Body as a Whole: Fever, malaise, pain chest precordial, rigors, weight decrease.
+Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease.
 
-Cardiovascular System: Bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia.
+Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia.
 
-Digestive System: Appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative.
+Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative.
 
-Hemic and Lymphatic System: Leukopenia, thrombocytopenia.
+Hematologic and Lymphatic System: thrombocytopenia.
 
-Laboratory Abnormality: Gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased.
+Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased.
 
-Musculoskeletal System: Hypertonia muscle.
+Musculoskeletal System: hypertonia muscle.
 
-Nervous System: Aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany.
+Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany.
 
-Respiratory System: Asthma, dyspnea, epistaxis, laryngismus, pleurisy.
+Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy.
 
-Skin and Appendages: Acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria.
+Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria.
 
-Special Senses: Accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia.
+Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia.
 
-Surgical and Medical Procedures: Procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
+Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
 
-Urogenital and Reproductive System: Dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
+Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
 
 Other: Systemic lupus erythematosus.
 
-## Post-Marketing and Other Experience
+## 6.2 Post-Marketing and Other Experience
 
 The following adverse events not seen in controlled clinical trials have been observed in named patient programs or post-marketing experience:
 
-Body as a Whole: Multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia (see PRECAUTIONS, Multi-Organ Hypersensitivity subsection).
+Body as a Whole: multi-organ hypersensitivity disorders characterized by features such as rash, fever, lymphadenopathy, abnormal liver function tests, eosinophilia and arthralgia [see Warnings and Precautions (5.8)]
 
-Anaphylaxis (see WARNINGS, Anaphylactic Reactions and Angioedema subsection).
+Anaphylaxis: [see Warnings and Precautions (5.2)]
 
-Skin and Appendages: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (see WARNINGS, Serious Dermatological Reactions subsection).
+Digestive System: pancreatitis and/or lipase and/or amylase increase
+
+Hematologic and Lymphatic Systems: aplastic anemia [see Warnings and Precautions (5.9)]
+
+Skin and Appendages: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)]

@@ -1,12 +1,12 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Overdose Experience
+Human Overdose Experience
 
-Isolated cases of overdose with Trileptal® (oxcarbazepine) have been reported.
+Isolated cases of overdose with Trileptal have been reported.
 The maximum dose taken was approximately 24,000 mg.
 All patients recovered with symptomatic treatment.
 
-## Treatment and Management
+Treatment and Management
 
 There is no specific antidote.
 Symptomatic and supportive treatment should be administered as appropriate.

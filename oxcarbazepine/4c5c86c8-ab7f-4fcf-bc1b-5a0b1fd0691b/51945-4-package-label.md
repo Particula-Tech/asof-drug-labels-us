@@ -8,7 +8,7 @@ Trileptal® (oxcarbazepine)
 
 100 tablets
 
-Dispense in tight container (USP).
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -20,7 +20,7 @@ Trileptal® (oxcarbazepine)
 
 100 tablets
 
-Dispense in tight container (USP).
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
 PRINCIPAL DISPLAY PANEL
 
@@ -32,4 +32,22 @@ Trileptal® (oxcarbazepine)
 
 100 tablets
 
-Dispense in tight container (USP).
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
+
+PRINCIPAL DISPLAY PANEL
+
+Package Label – 300 mg / 5 mL
+
+Rx Only NDC 0078-0357-52
+
+Trileptal® Oral Suspension
+
+(oxcarbazepine)
+
+250 mL
+
+IMPORTANT: Shake well before using.
+
+Each 5 mL contains 300 mg oxcarbazepine.
+
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.

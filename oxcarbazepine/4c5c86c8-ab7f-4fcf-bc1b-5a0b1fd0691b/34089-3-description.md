@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Trileptal® (oxcarbazepine) is an antiepileptic drug available as 150 mg, 300 mg and 600 mg film-coated tablets for oral administration.
+Trileptal is an antiepileptic drug available as 150 mg, 300 mg and 600 mg film-coated tablets for oral administration.
 Trileptal is also available as a 300 mg/5 mL (60 mg/mL) oral suspension.
 Oxcarbazepine is 10,11-Dihydro-10-oxo-5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is
 
