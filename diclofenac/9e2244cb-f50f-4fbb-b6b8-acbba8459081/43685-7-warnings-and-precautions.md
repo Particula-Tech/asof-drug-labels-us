@@ -43,8 +43,8 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+6. Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
 7. In late pregnancy, as with other NSAIDs, Voltaren-XR should be avoided because it will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
@@ -79,6 +79,10 @@ These effects have been attributed to inhibition of renal prostaglandin synthesi
 Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
 
 Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
+
+CYP2C9 Inhibitors or Inducers: Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9.
+Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of diclofenac.
+Use caution when dosing diclofenac with CYP2C9 inhibitors or inducers, a dosage adjustment may be warranted (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Drug Interactions).
 
 ## Pregnancy
 

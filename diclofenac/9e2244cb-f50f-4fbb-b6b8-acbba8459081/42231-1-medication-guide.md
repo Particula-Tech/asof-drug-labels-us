@@ -112,8 +112,9 @@ The brands listed are the trademarks or register marks of their respective owner
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: MARCH 2009.
-T2009-40/T2009-31
+T2011-20/T2009-31
+
+February 2011/March 2009
 
 Manufactured by:
 

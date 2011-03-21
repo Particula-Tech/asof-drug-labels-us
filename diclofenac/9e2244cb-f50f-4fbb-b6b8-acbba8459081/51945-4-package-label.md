@@ -8,4 +8,4 @@ Voltaren® (diclofenac sodium extended-release) tablets, USP
 
 100 tablets
 
-PHARMACIST: Dispense with Medication Guide attached or provided separeately.
+PHARMACIST: Dispense with Medication Guide attached or provided separately.

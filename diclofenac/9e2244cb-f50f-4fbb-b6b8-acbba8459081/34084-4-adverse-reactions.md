@@ -34,7 +34,7 @@ Body as a Whole: anaphylactic reactions, appetite changes, death
 
 Cardiovascular System: arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
 
-Digestive System: colitis, eructation, liver failure, pancreatitis
+Digestive System: colitis, eructation, fulminant hepatitis with and without jaundice, liver failure, liver necrosis, pancreatitis
 
 Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
 

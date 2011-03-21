@@ -93,13 +93,14 @@ To minimize the possibility that hepatic injury will become severe between trans
 To minimize the potential risk for an adverse liver related event in patients treated with Voltaren-XR, the lowest effective dose should be used for the shortest duration possible.
 Caution should be exercised in prescribing Voltaren-XR with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
-## Anaphylactoid Reactions
+## Anaphylactic Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Voltaren-XR.
+As with other NSAIDs, anaphylactic reactions may occur both in patients with the aspirin triad and in patients without known sensitivity to NSAIDs or known prior exposure to Voltaren-XR.
 Voltaren-XR should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs.
 (See CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma.)
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Anaphylaxis-type reactions have been reported with NSAID products, including with diclofenac products, such as Voltaren-XR.
+Emergency help should be sought in cases where an anaphylactic reaction occurs.
 
 Skin Reactions
 
