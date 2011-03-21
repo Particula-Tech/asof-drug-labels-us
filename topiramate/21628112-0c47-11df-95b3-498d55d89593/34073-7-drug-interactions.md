@@ -10,7 +10,7 @@ For other drug interactions, please refer to Clinical Pharmacology (12.5).
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
 Concomitant administration of phenytoin or carbamazepine with topiramate decreased plasma concentrations of topiramate by 48% and 40% respectively when compared to TOPAMAX® given alone [see Clinical Pharmacology (12.5)].
 
-In addition, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Warnings and Precautions (5.8) or Clinical Pharmacology (12.5)].
+In addition, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Warnings and Precautions (5.9) or Clinical Pharmacology (12.5)].
 
 ## 7.2 CNS Depressants
 

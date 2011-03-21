@@ -14,7 +14,7 @@ Patients, especially pediatric patients, treated with TOPAMAX® should be monito
 
 ## 17.3 Suicidal Behavior and Ideation
 
-Patients, their caregivers, and families should be counseled that AEDs, including Topamax, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
+Patients, their caregivers, and families should be counseled that AEDs, including TOPAMAX®, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 17.4 Metabolic Acidosis
@@ -23,7 +23,7 @@ Patients should be warned about the potential, significant risk for metabolic ac
 
 ## 17.5 Interference with Cognitive and Motor Performance
 
-Patients should be warned about the potential for somnolence, dizziness, confusion, difficulty concentrating, visual effects and advised not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.5)].
+Patients should be warned about the potential for somnolence, dizziness, confusion, difficulty concentrating, or visual effects and should be advised not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.5)].
 
 Even when taking TOPAMAX® or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
 Therefore, all patients taking TOPAMAX® for epilepsy should be told to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
@@ -35,16 +35,22 @@ Patients should be warned about the possible development of hyperammonemia with 
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
 
-Patients should be instructed to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.8)].
+Patients should be instructed to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
 
 ## 17.7 Kidney Stones
 
-Patients, particularly those with predisposing factors, should be instructed to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.9)].
+Patients, particularly those with predisposing factors, should be instructed to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.10)].
 
-## 17.8 Use in Pregnancy
+## 17.8 Fetal Toxicity
 
-Patients should be instructed to notify their physician if they become pregnant or intend to become pregnant during therapy and to notify their physician if they are breastfeeding or intend to breastfeed during therapy with TOPAMAX®[see Use in Specific Populations (8.1) and (8.3)].
+Inform pregnant women and women of childbearing potential that use of TOPAMAX® during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+There may also be risks to the fetus from chronic metabolic acidosis with use of TOPAMAX® during pregnancy [see Use in Specific Populations (8.1) and (8.9)].
+When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
+This is particularly important when TOPAMAX® use is considered for a condition not usually associated with permanent injury or death.
 
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Prescribers should advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using TOPAMAX®, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)].
+
+Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number, 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll free number, 1-888-233-2334.
+Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Use in Specific Populations (8.1)].

@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-TOPAMAX® (Toe-pa-max) (topiramate) Tablets and Sprinkle Capsules
+TOPAMAX® (TOE-PA-MAX) (topiramate) Tablets and Sprinkle Capsules
 
 Read this Medication Guide before you start taking TOPAMAX® and each time you get a refill.
 There may be new information.
@@ -17,7 +17,7 @@ What is the most important information I should know about TOPAMAX®?
     You should call your healthcare provider right away if you have any new eye symptoms.
 - TOPAMAX® may cause decreased sweating and increased body temperature (fever).
   People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
-  Some people may need to be hospitalized for this condition
+  Some people may need to be hospitalized for this condition.
 - Like other antiepileptic drugs, TOPAMAX® may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -47,6 +47,21 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+Topamax can harm your unborn baby.
+
+- If you take TOPAMAX® during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+  These defects can begin early in pregnancy, even before you know you are pregnant.
+- Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
+- There may be other medicines to treat your condition that have a lower chance of birth defects.
+- All women of childbearing age should talk to their healthcare providers about using other possible treatments instead of TOPAMAX®.
+  If the decision is made to use TOPAMAX®, you should use effective birth control (contraception) unless you are planning to become pregnant.
+  You should talk to your doctor about the best kind of birth control to use while you are taking TOPAMAX®.
+- Tell your healthcare provider right away if you become pregnant while taking TOPAMAX®.
+  You and your healthcare provider should decide if you will continue to take TOPAMAX® while you are pregnant.
+- Pregnancy Registry: If you become pregnant while taking TOPAMAX®, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  You can enroll in this registry by calling 1-888-233-2334.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
 What is TOPAMAX®?
 
 TOPAMAX® is a prescription medicine used:
@@ -60,7 +75,7 @@ What should I tell my healthcare provider before taking TOPAMAX®?
 Before taking TOPAMAX®, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
-- have kidney problems, kidney stones or are getting kidney dialysis
+- have kidney problems, have kidney stones, or are getting kidney dialysis
 - have a history of metabolic acidosis (too much acid in the blood)
 - have liver problems
 - have osteoporosis, soft bones, or decreased bone density
@@ -71,12 +86,9 @@ Before taking TOPAMAX®, tell your healthcare provider about all your medical co
 - are on a diet high in fat and low in carbohydrates, which is called a ketogenic diet
 - are having surgery
 - are pregnant or plan to become pregnant.
-  It is not known if TOPAMAX® will harm your unborn baby.
-  If you become pregnant while taking TOPAMAX®, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - are breastfeeding.
-  It is not known if TOPAMAX® passes into breast milk and if it can harm your baby.
+  TOPAMAX® passes into breast milk.
+  It is not known if the TOPAMAX® that passes into breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take TOPAMAX®.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -126,7 +138,7 @@ What should I avoid while taking TOPAMAX®?
 - Do not drink alcohol while taking TOPAMAX®.
   TOPAMAX® and alcohol can affect each other causing side effects such as sleepiness and dizziness.
 - Do not drive a car or operate heavy machinery until you know how TOPAMAX® affects you.
-  TOPAMAX® can slow your thinking, motor skills, and/or vision.
+  TOPAMAX® can slow your thinking and motor skills, and may affect vision.
 
 What are the possible side effects of TOPAMAX®?
 
@@ -171,10 +183,12 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
+You may also report side effects to Ortho-McNeil Neurologics at 1-800-526-7736.
+
 How should I store TOPAMAX®?
 
 - Store TOPAMAX® tablets at room temperature, 59°F to 86°F (15°C to 30°C).
-- Store TOPAMAX®® Sprinkle Capsules at or below 25°C (77°F).
+- Store TOPAMAX® Sprinkle Capsules at or below 25°C (77°F).
 - Keep TOPAMAX® in a tightly closed container.
 - Keep TOPAMAX® dry and away from moisture.
 - Keep TOPAMAX® and all medicines out of the reach of children.
@@ -201,14 +215,12 @@ Inactive ingredients:
 - Tablets - lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide and polysorbate 80.
 - Sprinkle Capsules - sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.
 
-Manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778
-
-Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
-
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2009
+Revised March 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-[Insert component code]
+Manufactured by: Janssen Ortho, LLC, Gurabo, Puerto Rico 00778
 
-Revised December 2009
+Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
+
+© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2009

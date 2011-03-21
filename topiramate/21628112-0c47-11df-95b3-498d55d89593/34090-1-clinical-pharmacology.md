@@ -46,7 +46,7 @@ Renal Impairment
 The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73m2) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73m2) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73m2).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.11)].
+In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.12)].
 
 Hemodialysis
 
@@ -69,7 +69,7 @@ Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
 Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
 As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate ≤70 mL/min/1.73 m2) is evident.
-It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.11)].
+It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.12)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -88,7 +88,7 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in the Table 10.
+The effects of these interactions on mean plasma AUCs are summarized in Table 10.
 
 In Table 10, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the coadministration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when TOPAMAX® was given alone.
@@ -106,7 +106,7 @@ Table 10: Summary of AED Interactions with TOPAMAX®
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
 | NC = Less than 10% change in plasma concentration. AED = Antiepileptic drug. NE = Not Evaluated. TPM = Topiramate |  |  |
 
-In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Warnings and Precautions (5.8) and Drug Interactions (7.1)].
+In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy [see Warnings and Precautions (5.9) and Drug Interactions (7.1)].
 
 CNS Depressants
 
@@ -118,7 +118,7 @@ Oral Contraceptives
 In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), TOPAMAX®, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
 In both studies, TOPAMAX® (50 mg/day to 800 mg/day) did not significantly affect exposure to NET.
-Although there was a dose dependent decrease in EE exposure for doses between 200 to 800 mg/day, there was no significant dose dependent change in EE exposure for doses of 50 to 200 mg/day.
+Although there was a dose dependent decrease in EE exposure for doses between 200 and 800 mg/day, there was no significant dose dependent change in EE exposure for doses of 50 to 200 mg/day.
 The clinical significance of the changes observed is not known.
 The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with TOPAMAX®.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
@@ -160,9 +160,9 @@ When TOPAMAX® is added to pioglitazone therapy or pioglitazone is added to TOPA
 
 Glyburide
 
-A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5mg/day) alone and concomitantly with topiramate (150 mg/day).
-There was a 22% decrease in Cmax and 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy-glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, reduced Cmax by 18% and 25%, respectively.
+A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
+There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy-glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
@@ -188,12 +188,12 @@ Risperidone
 When administered concomitantly with topiramate at escalating doses of 100, 250 and 400 mg/day, there was a reduction in risperidone (systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
 Coadministration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
-There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate, therefore this interaction is not likely to be of clinical significance.
+There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore this interaction is not likely to be of clinical significance.
 
 Propranolol
 
 Multiple dosing of topiramate (200 mg/day) in 34 healthy volunteers (17 males, 17 females) did not affect the pharmacokinetics of propranolol following daily 160 mg doses.
-Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate at a dose of 200 mg/day of topiramate.
+Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate, at a dose of 200 mg/day of topiramate.
 
 Dihydroergotamine
 
@@ -202,7 +202,7 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a10% decrease in Cmax and 25% decrease in diltiazem AUC, 27% decrease in Cmax and 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
 Coadministration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine

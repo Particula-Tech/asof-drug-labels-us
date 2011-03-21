@@ -18,7 +18,7 @@ The prescriber should be aware that these data cannot be used to predict the fre
 Similarly, the cited frequencies cannot be directly compared with data obtained from other clinical investigations involving different treatments, uses, or investigators.
 Inspection of these frequencies, however, does provide the prescribing physician with a basis to estimate the relative contribution of drug and non-drug factors to the adverse reactions incidences in the population studied.
 
-Table 2: Incidence of Treatment-Emergent Adverse Reaction in the Monotherapy Epilepsy Trial in AdultsValues represent the percentage of patients reporting a given adverse reaction.
+Table 2: Incidence of Treatment-Emergent Adverse Reactions in the Monotherapy Epilepsy Trial in AdultsValues represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 Where Incidence Was at Least 2% in the 400 mg/day Topiramate Group and Greater Than the Rate in the 50 mg/day Topiramate Group
 
@@ -32,7 +32,7 @@ Where Incidence Was at Least 2% in the 400 mg/day Topiramate Group and Greater T
 | Central & Peripheral Nervous System Disorders |  |  |
 | Paresthesia | 21 | 40 |
 | Dizziness | 13 | 14 |
-| Hypoaesthesia | 4 | 5 |
+| Hypoesthesia | 4 | 5 |
 | Ataxia | 3 | 4 |
 | Hypertonia | 0 | 3 |
 | Gastro-Intestinal System Disorders |  |  |
@@ -126,7 +126,7 @@ This rate appeared to increase at dosages above 400 mg/day.
 Adverse events associated with discontinuing therapy included somnolence, dizziness, anxiety, difficulty with concentration or attention, fatigue, and paresthesia and increased at dosages above 400 mg/day.
 None of the pediatric patients who received topiramate adjunctive therapy at 5 to 9 mg/kg/day in controlled clinical trials discontinued due to adverse reactions.
 
-Approximately 28% of the 1,757 adults with epilepsy who received topiramate at dosages of 200 to 1,600 mg/day in clinical studies discontinued treatment because of adverse reactions; an individual patient could have reported more than one adverse reaction.
+Approximately 28% of the 1757 adults with epilepsy who received topiramate at dosages of 200 to 1,600 mg/day in clinical studies discontinued treatment because of adverse reactions; an individual patient could have reported more than one adverse reaction.
 These adverse reactions were: psychomotor slowing (4.0%), difficulty with memory (3.2%), fatigue (3.2%), confusion (3.1%), somnolence (3.2%), difficulty with concentration/attention (2.9%), anorexia (2.7%), depression (2.6%), dizziness (2.5%), weight decrease (2.5%), nervousness (2.3%), ataxia (2.1%), and paresthesia (2.0%).
 Approximately 11% of the 310 pediatric patients who received topiramate at dosages up to 30 mg/kg/day discontinued due to adverse reactions.
 Adverse reactions associated with discontinuing therapy included aggravated convulsions (2.3%), difficulty with concentration/attention (1.6%), language problems (1.3%), personality disorder (1.3%), and somnolence (1.3%).
@@ -173,7 +173,7 @@ Where Incidence Was > 1% in Any Topiramate Group and Greater Than the Rate in Pl
 | Tremor | 6 | 9 | 9 |
 | Language Problems | 1 | 6 | 10 |
 | Coordination Abnormal | 2 | 4 | 4 |
-| Hypoaesthesia | 1 | 2 | 1 |
+| Hypoesthesia | 1 | 2 | 1 |
 | Gait Abnormal | 1 | 3 | 2 |
 | Muscle Contractions Involuntary | 1 | 2 | 2 |
 | Stupor | 0 | 2 | 1 |
@@ -316,9 +316,9 @@ Table 6: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled
 | Mood problems | 2 | 0 | 6 | 9 |
 | Weight decrease | 3 | 4 | 9 | 13 |
 
-Table 7: Incidence (%) of Treatment-Emergent Adverse Reaction in Placebo-Controlled, Add-On Epilepsy Trials in Pediatric Patients (Ages 2 –16 Years)Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
+Table 7: Incidence (%) of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Add-On Epilepsy Trials in Pediatric Patients (Ages 2 –16 Years)Patients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo.,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
-(Reaction that Occurred in at Least 1% of Topiramate-Treated Patients and Occurred More Frequently in Topiramate-Treated Than Placebo-Treated Patients)
+(Reactions that Occurred in at Least 1% of Topiramate-Treated Patients and Occurred More Frequently in Topiramate-Treated Than Placebo-Treated Patients)
 
 | Body System/ Adverse Reaction | Placebo (N=101) | Topiramate (N=98) |
 | --- | --- | --- |
@@ -406,9 +406,9 @@ Patients may have reported more than one adverse reaction during the study and c
 
 ## 6.6 Other Adverse Reactions Observed During All Epilepsy Clinical Trials
 
-Topiramate has been administered to 2,246 adults and 427 pediatric patients with epilepsy during all clinical studies, only some of which were placebo-controlled.
+Topiramate has been administered to 2246 adults and 427 pediatric patients with epilepsy during all clinical studies, only some of which were placebo-controlled.
 During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
-To provide a meaningful estimate of the proportion of individuals having adverse reaction, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
+To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
 The frequencies presented represent the proportion of patients who experienced a reaction of the type cited on at least one occasion while receiving topiramate.
 Reported reactions are included except those already listed in the previous tables or text, those too general to be informative, and those not reasonably associated with the use of the drug.
 
@@ -422,7 +422,7 @@ Rare: alcohol intolerance.
 
 Cardiovascular Disorders, General: Infrequent: hypotension, postural hypotension, angina pectoris.
 
-Central & Peripheral Nervous System Disorders: Infrequent: neuropathy, apraxia, hyperaesthesia, dyskinesia, dysphonia, scotoma, ptosis, dystonia, visual field defect, encephalopathy, EEG abnormal.
+Central & Peripheral Nervous System Disorders: Infrequent: neuropathy, apraxia, hyperesthesia, dyskinesia, dysphonia, scotoma, ptosis, dystonia, visual field defect, encephalopathy, EEG abnormal.
 Rare: upper motor neuron lesion, cerebellar syndrome, tongue paralysis.
 
 Gastrointestinal System Disorders: Infrequent: hemorrhoids, stomatitis, melena, gastritis, esophagitis.
@@ -474,9 +474,9 @@ Rare: lymphocytosis.
 In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials, most of the adverse reactions with topiramate were mild or moderate in severity.
 Most adverse reactions occurred more frequently during the titration period than during the maintenance period.
 
-Table 8 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 2 % and was greater than that for placebo patients.
+Table 8 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 2% and was greater than that for placebo patients.
 
-Table 8: Incidence of Treatment-Emergent Adverse Reaction in Placebo-Controlled, Migraine Trials Where Incidence Was ≥2 % in Any Topiramate Group and Greater than the Rate in Placebo-Treated Patients Values represent the percentage of patients reporting a given adverse reaction.
+Table 8: Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled, Migraine Trials Where Incidence Was ≥2 % in Any Topiramate Group and Greater than the Rate in Placebo-Treated Patients Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Body System/ Adverse Reaction | Placebo (N=445) | 50 (N=235) | 100 (N=386) | 200 (N=514) |
@@ -492,7 +492,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Central & Peripheral Nervous System Disorders |  |  |  |  |
 | Paresthesia | 6 | 35 | 51 | 49 |
 | Dizziness | 10 | 8 | 9 | 12 |
-| Hypoaesthesia | 2 | 6 | 7 | 8 |
+| Hypoesthesia | 2 | 6 | 7 | 8 |
 | Language Problems | 2 | 7 | 6 | 7 |
 | Involuntary Muscle Contractions | 1 | 2 | 2 | 4 |
 | Ataxia | <1 | 1 | 2 | 1 |
@@ -555,10 +555,10 @@ Patients may have reported more than one adverse reaction during the study and c
 | Renal Calculus | 0 | 0 | 1 | 2 |
 | Vision Disorders |  |  |  |  |
 | Vision Abnormal | <1 | 1 | 2 | 3 |
-| Blurred Vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for > 50 % of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 | 4 |
+| Blurred Vision Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for > 50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 | 4 |
 | Conjunctivitis | 1 | 1 | 2 | 1 |
 
-Of the 1,135 patients exposed to topiramate in the placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo patients.
+Of the 1135 patients exposed to topiramate in the placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo patients.
 The adverse reaction associated with discontinuing therapy in the topiramate-treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
 
 Patients treated with topiramate experienced mean percent reductions in body weight that were dose-dependent.
@@ -569,7 +569,7 @@ Table 9 shows adverse reactions that were dose-dependent.
 Several central nervous system adverse reactions, including some that represented cognitive dysfunction, were dose-related.
 The most common dose-related adverse reactions were paresthesia, fatigue, nausea, anorexia, dizziness, difficulty with memory, diarrhea, weight decrease, difficulty with concentration/attention, and somnolence.
 
-Table 9: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine TrialsThe incidence of the adverse reaction in the 200 mg/day group was ≥ 2% than the incidence in both the placebo group and the 50 mg/day group.
+Table 9: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine TrialsThe incidence of adverse reactions in the 200 mg/day group was ≥ 2% than the incidence in both the placebo group and the 50 mg/day group.
 
 | Adverse Reaction | Placebo (N=445) | 50 (N=235) | 100 (N=386) | 200 (N=514) |
 | --- | --- | --- | --- | --- |
@@ -584,7 +584,7 @@ Table 9: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled
 | Diarrhea | 4 | 9 | 11 | 11 |
 | Difficulty with Concentration/ Attention | 2 | 3 | 6 | 10 |
 | Somnolence | 5 | 8 | 7 | 10 |
-| Hypoaesthesia | 2 | 6 | 7 | 8 |
+| Hypoesthesia | 2 | 6 | 7 | 8 |
 | Anxiety | 3 | 4 | 5 | 6 |
 | Depression | 4 | 3 | 4 | 6 |
 | Mood Problems | 2 | 3 | 6 | 5 |
@@ -596,11 +596,11 @@ Table 9: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled
 
 ## 6.8 Other Adverse Reactions Observed During Migraine Clinical Trials
 
-Topiramate, for the treatment of prophylaxis of migraine headache, has been administered to 1,367 patients in all clinical studies (includes double-blind and open-label extension).
+Topiramate, for the treatment of prophylaxis of migraine headache, has been administered to 1367 patients in all clinical studies (includes double-blind and open-label extension).
 During these studies, all adverse reactions were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse reactions, similar types of reactions were grouped into a smaller number of standardized categories using modified WHOART dictionary terminology.
 
-The following additional adverse reactions that were not described earlier were reported by greater than 1% of the 1,367 topiramate-treated patients in the controlled clinical trials:
+The following additional adverse reactions that were not described earlier were reported by greater than 1% of the 1367 topiramate-treated patients in the controlled clinical trials:
 
 Body as a Whole: Pain, chest pain, allergic reaction.
 

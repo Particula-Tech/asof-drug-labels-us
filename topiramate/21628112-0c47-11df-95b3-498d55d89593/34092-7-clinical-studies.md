@@ -11,8 +11,8 @@ Forty-nine percent of subjects had no prior AED treatment and 17% had a diagnosi
 Any AED therapy used for temporary or emergency purposes was discontinued prior to randomization.
 In the double-blind phase, 470 patients were randomized to titrate up to 50 mg/day or 400 mg/day.
 If the target dose could not be achieved, patients were maintained on the maximum tolerated dose.
-Fifty eight percent of patients achieved the maximal dose of 400 mg/day for >2 weeks, and patients who did not tolerate 150 mg/day were discontinued.
-The primary efficacy assessment was a between group comparison of time to first seizure during the double-blind phase.
+Fifty-eight percent of patients achieved the maximal dose of 400 mg/day for >2 weeks, and patients who did not tolerate 150 mg/day were discontinued.
+The primary efficacy assessment was a between-group comparison of time to first seizure during the double-blind phase.
 Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (p=0.0002, log rank test; Figure 1).
 The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
 
@@ -31,7 +31,7 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In the sixth study (119), the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 11.
+The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 11.
 
 Adjunctive Therapy Epilepsy Controlled Trials in Adults and Pediatric Patients (Ages 2 to 16 Years)
 
@@ -42,7 +42,7 @@ In this study, patients were stabilized on optimum dosages of their concomitant 
 Patients who experienced at least six partial onset seizures, with or without secondarily generalized seizures, during the baseline phase were randomly assigned to placebo or TOPAMAX® tablets in addition to their other AEDs.
 
 Following randomization, patients began the double-blind phase of treatment.
-Patients received active drug beginning at 25 or 50 mg per day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225 or 400 mg/day based on patients' weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
+Patients received active drug beginning at 25 or 50 mg per day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225, or 400 mg/day based on patients' weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
 After titration, patients entered an 8-week stabilization period.
 
 Adjunctive Therapy Controlled Trial in Patients With Primary Generalized Tonic-Clonic Seizures
@@ -54,7 +54,7 @@ Patients were stabilized on optimum dosages of their concomitant AEDs during an 
 Patients who experienced at least three primary generalized tonic-clonic seizures during the baseline phase were randomly assigned to placebo or TOPAMAX® in addition to their other AEDs.
 
 Following randomization, patients began the double-blind phase of treatment.
-Patients received active drug beginning at 50 mg per day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225 or 400 mg/day based on patients' body weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
+Patients received active drug beginning at 50 mg per day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225, or 400 mg/day based on patients' body weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
 After titration, patients entered a 12-week stabilization period.
 
 Adjunctive Therapy Controlled Trial in Patients With Lennox-Gastaut Syndrome
@@ -64,7 +64,7 @@ The effectiveness of topiramate as an adjunctive treatment for seizures associat
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to TOPAMAX® or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
 Following baseline, patients were randomly assigned to placebo or TOPAMAX® in addition to their other AEDs.
-Active drug was titrated beginning at 1 mg/kg per day for a week; the dose was then increased to 3 mg/kg per day for one week then to 6 mg/kg per day.
+Active drug was titrated beginning at 1 mg/kg per day for a week; the dose was then increased to 3 mg/kg per day for one week, then to 6 mg/kg per day.
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
@@ -153,7 +153,7 @@ Treatment was initiated at 25 mg/day for one week, and then the daily dosage was
 Effectiveness of treatment was assessed by the reduction in migraine headache frequency, as measured by the change in 4-week migraine rate from the baseline phase to double-blind treatment period in each TOPAMAX® treatment group compared to placebo in the intent to treat (ITT) population.
 
 In the first study, a total of 469 patients (416 females, 53 males), ranging in age from 13 to 70 years, were randomized and provided efficacy data.
-Two hundred sixty five patients completed the entire 26-week double-blind phase.
+Two hundred sixty-five patients completed the entire 26-week double-blind phase.
 The median average daily dosages were 47.8 mg/day, 88.3 mg/day, and 132.1 mg/day in the target dose groups of TOPAMAX® 50, 100, and 200 mg/day, respectively.
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
@@ -161,14 +161,14 @@ The change in the mean 4-week migraine headache frequency from baseline to the d
 The differences between the TOPAMAX® 100 and 200 mg/day groups versus placebo were statistically significant (p<0.001 for both comparisons).
 
 In the second study, a total of 468 patients (406 females, 62 males), ranging in age from 12 to 65 years, were randomized and provided efficacy data.
-Two hundred fifty five patients completed the entire 26-week double-blind phase.
+Two hundred fifty-five patients completed the entire 26-week double-blind phase.
 The median average daily dosages were 46.5 mg/day, 85.6 mg/day, and 150.2 mg/day in the target dose groups of TOPAMAX® 50, 100, and 200 mg/day, respectively.
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache period frequency from baseline to the double-blind phase was -1.4, -2.1, and -2.4 in the TOPAMAX® 50, 100, and 200 mg/day groups, respectively, versus -1.1 in the placebo group (see Figure 2).
 The differences between the TOPAMAX® 100 and 200 mg/day groups versus placebo were statistically significant (p=0.008 and <0.001, respectively).
 
-In both studies, there were no apparent differences in treatment effect within age or gender, subgroups.
+In both studies, there were no apparent differences in treatment effect within age or gender subgroups.
 Because most patients were Caucasian, there were insufficient numbers of patients from different races to make a meaningful comparison of race.
 
 For patients withdrawing from TOPAMAX®, daily dosages were decreased in weekly intervals by 25 to 50 mg per day.
