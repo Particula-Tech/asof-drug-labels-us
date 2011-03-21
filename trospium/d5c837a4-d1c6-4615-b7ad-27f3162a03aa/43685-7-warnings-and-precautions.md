@@ -1,3 +1,10 @@
+# WARNINGS
+
+Angioedema of the face, lips, tongue and/or larynx has been reported with trospium chloride.
+In one case, angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, trospium chloride should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+
 # PRECAUTIONS
 
 ## General
@@ -16,8 +23,10 @@ Patients with Hepatic Impairment: Caution should be used when administering tros
 
 ## Information for Patients
 
-Patients should be informed that anticholinergic agents, such as trospium chloride, may produce clinically significant adverse effects related to anticholinergic pharmacological activity.
+Patients should be informed that trospium chloride may produce angioedema which could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue trospium chloride and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing.
 
+Patients should be informed that anticholinergic agents, such as trospium chloride, may produce clinically significant adverse effects related to anticholinergic pharmacological activity.
 For example, heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as trospium chloride are used in a hot environment.
 Because anticholinergics such as trospium chloride may also produce dizziness or blurred vision, patients should be advised to exercise caution.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.

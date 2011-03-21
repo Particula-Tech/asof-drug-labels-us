@@ -29,7 +29,7 @@ Mean (SE) change from baseline to end of treatment (Week 12 or last observation 
 
 | Efficacy endpoint | Placebo N=325 | Trospium Chloride N=323 | P-value |
 | --- | --- | --- | --- |
-| Urinary frequency/24 hoursTreatment differences assessed by analysis of variance for ITT:LOCF data set.Denotes co-primary endpoint Mean baseline Mean change from baseline | 13.2 -1.8 (0.2) | 12.9 -2.7 (0.2) | <0.001 |
+| Urinary frequency/24 hoursTreatment differences assessed by analysis of variance for ITT:LOCF data set.Denotes primary endpoint Mean baseline Mean change from baseline | 13.2 -1.8 (0.2) | 12.9 -2.7 (0.2) | <0.001 |
 | Urge incontinence episodes/weekTreatment differences assessed by ranked analysis of variance for ITT:LOCF data set. Mean baseline Mean change from baseline | 27.3 -12.1 (1.0) | 26.9 -16.1 (1.0) | <0.001 |
 | Urinary void volume/toilet void (mL)Placebo N=320, trospium chloride N=319. Mean baseline Mean change from baseline | 154.6 9.4 (2.8) | 154.8 35.6 (2.8) | <1.001 |
 | ITT = intent-to-treat, LOCF = last observation carried forward. |  |  |  |

@@ -35,4 +35,4 @@ During controlled clinical studies, one event of angioneurotic edema was reporte
 
 ## Postmarketing Surveillance
 
-Additional spontaneous adverse events, regardless of relationship to drug, reported from marketing experience with trospium chloride include: Gastrointestinal – gastritis; Cardiovascular − palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological − Stevens-Johnson syndrome, anaphylactic reaction; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General − rash..
+Additional spontaneous adverse events, regardless of relationship to drug, reported from marketing experience with trospium chloride include: Gastrointestinal – gastritis; Cardiovascular − palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological − Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General − rash..

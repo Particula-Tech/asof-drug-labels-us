@@ -11,6 +11,6 @@ A 7-month-old baby experienced tachycardia and mydriasis after administration of
 
 The baby’s weight was reported as 5 kg.
 Following admission into the hospital and about 1 hour after ingestion of the trospium, medicinal charcoal was administered for detoxification.
-While hospitalized, the baby experienced mydriasis and tachycardia up to 230 bpm.
+While hospitalized, the baby experienced mydriasis and tachycardia up to 230 beats/minute.
 Therapeutic intervention was not deemed necessary.
 The baby was discharged as completely recovered the following day.

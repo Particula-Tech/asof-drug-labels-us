@@ -93,7 +93,7 @@ The pharmacokinetics of trospium chloride have not been studied in people with m
 
 #### Hepatic Insufficiency:
 
-There is no information regarding the effect of severe hepatic impairment on exposure to trospium chloride.
+There is no information regarding the effect of moderate to severe hepatic impairment on exposure to trospium chloride.
 Caution should be used when administering trospium chloride to patients with moderate and severe hepatic dysfunction.
 (See PRECAUTIONS: General).
 
@@ -108,7 +108,7 @@ Concomitant use of trospium chloride and digoxin did not affect the pharmacokine
 
 ## Electrophysiology
 
-The effect of 20 mg BID and up to 100 mg BID trospium chloride on QT interval was evaluated in a single-blind, randomized, placebo and active (moxifloxacin 400 mg QD) controlled 5-day parallel trial in 170 male and female healthy volunteer subjects aged 18 to 45 years.
+The effect of 20 mg BID and up to 100 mg BID trospium chloride on QT interval was evaluated in a single-blind, randomized, placebo and active (moxifloxacin 400 mg QD) controlled 5 day parallel trial in 170 male and female healthy volunteer subjects aged 18 to 45 years.
 The QT interval was measured over a 24-hour period at steady state.
 The 100 mg BID dose of trospium chloride was chosen because this achieves the Cmax expected in severe renal impairment.
 Trospium chloride was not associated with an increase in individual corrected (QTcI) or Fridericia corrected (QTcF) QT interval at any time during steady state measurement, while moxifloxacin was associated with a 6.4 msec increase in QTcF.
