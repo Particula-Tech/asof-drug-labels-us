@@ -16,7 +16,7 @@ Contents: Each canister contains a microcrystalline suspension of fluticasone pr
 
 Each actuation of the inhaler delivers 50 mcg of fluticasone propionate from the valve and 44 mcg from the actuator.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
@@ -29,8 +29,8 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000084953 Rev.
-8/10
+10000000090614 Rev.
+1/11
 
 Principal Display Panel
 
@@ -50,7 +50,7 @@ Contents: Each canister contains a microcrystalline suspension of fluticasone pr
 
 Each actuation of the inhaler delivers 125 mcg of fluticasone propionate from the valve and 110 mcg from the actuator.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
@@ -63,8 +63,8 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000084952 Rev.
-8/10
+10000000090612 Rev.
+1/11
 
 Principal Display Panel
 
@@ -84,7 +84,7 @@ Contents: Each canister contains a microcrystalline suspension of fluticasone pr
 
 Each actuation of the inhaler delivers 250 mcg of fluticasone propionate from the valve and 220 mcg from the actuator.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Dosage: Use only as directed by your doctor.
 
@@ -97,5 +97,5 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Scotland
 
-10000000084954 Rev.
-8/10
+10000000090357 Rev.
+1/11
