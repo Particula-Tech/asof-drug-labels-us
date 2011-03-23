@@ -87,6 +87,7 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - have heart problems
 - have high cholesterol or high triglycerides
 - have a history of a stroke
+- have or had depression, suicidal thoughts or behavior
 - have glaucoma
 - have kidney problems
 - have liver problems
@@ -251,7 +252,7 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued November 2010.
+Issued March 2011.
 
 ### Contact Information
 
@@ -266,8 +267,6 @@ Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
 
-W10529C018
+LAB-0452-2.0
 
-ET01
-
-Rev 12/10
+March 2011
