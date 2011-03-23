@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201006"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-463-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanaprost",
+      "name": "Latanaprost"
+    }
+  ],
+  "setid": "68aaacbe-98c5-450b-9bf4-4809d7ad2ca0",
+  "source": "dailymed"
+}
