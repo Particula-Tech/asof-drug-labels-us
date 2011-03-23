@@ -1,5 +1,7 @@
 # WARNINGS
 
+## Hypersensitivity
+
 Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions, including Stevens-Johnson Syndrome and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy.
 Although rare, fatalities have been reported.
 (See CONTRAINDICATIONS.)
@@ -9,6 +11,13 @@ The relationship of these episodes to the long tissue half-life of azithromycin 
 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy should be instituted.
 Physicians should be aware that reappearance of the allergic symptoms may occur when symptomatic therapy is discontinued.
+
+## Hepatotoxicity
+
+Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
+Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
+
+## Clostridium Difficile-associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX (azithromycin for injection), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.

@@ -9,6 +9,6 @@ Licensed from Pliva
 Vial-Mate is a registered trademark of Baxter International Inc., Reg.
 U.S. Pat and TM Off.
 
-LAB-0024-8.0
+LAB-0024-9.0
 
-June 2010
+January 2011

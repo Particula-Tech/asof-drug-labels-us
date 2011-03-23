@@ -39,7 +39,8 @@ Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrh
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (rarely fatal).
 Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
 Hematopoietic: Thrombocytopenia.
-Liver/Biliary: Abnormal liver function including hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure, some of which have resulted in death.
+Liver/Biliary: Adverse reactions related to hepatic dysfunction have been reported in postmarketing experience with azithromycin.
+(See WARNINGS, Hepatotoxicity.)
 Nervous System: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 Psychiatric: Aggressive reaction and anxiety.
 Skin/Appendages: Pruritus, rarely serious skin reactions including, erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis.
