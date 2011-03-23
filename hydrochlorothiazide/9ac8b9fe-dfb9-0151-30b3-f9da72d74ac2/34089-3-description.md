@@ -16,4 +16,5 @@ Hydrochlorothiazide is a white, or practically white, crystalline powder with a 
 Hydrochlorothiazide is slightly soluble in water and freely soluble in sodium hydroxide solution.
 
 AVALIDE is available for oral administration in film-coated tablets containing either 150 mg or 300 mg of irbesartan combined with 12.5 mg of hydrochlorothiazide or 300 mg of irbesartan combined with 25 mg hydrochlorothiazide.
-Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, ferric oxide red, ferric oxide yellow, ferric oxide black, silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, titanium dioxide, and carnauba wax.
+All dosage strengths contain the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, magnesium stearate, silicon dioxide, ferric oxide red, ferric oxide yellow, polyethylene glycol, titanium dioxide, and carnauba wax.
+In addition, the 300/25 mg film-coated tablets contain pregelatinized starch and ferric oxide black.
