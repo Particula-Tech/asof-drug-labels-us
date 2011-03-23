@@ -44,7 +44,7 @@ A total of 243 pediatric patients 6 to 12 years of age received XYZAL 5 mg once 
 The mean age of the patients was 9.8 years, 79 (32%) were 6 to 8 years of age, and 50% were Caucasian.
 Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6 to 12 years exposed to XYZAL 5 mg in placebo-controlled clinical trials and that were more common with XYZAL than placebo.
 
-Table 2 Adverse Reactions in ≥2%Rounded to the closest unit percentage of Subjects Aged 6-12 Years Exposed to XYZAL 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+Table 2 Adverse Reactions Reported in ≥2%Rounded to the closest unit percentage of Subjects Aged 6-12 Years Exposed to XYZAL 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
 | Adverse Reactions | XYZAL 5 mg (n = 243) | Placebo (n = 240) |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ Pediatric Patients 1 to 5 Years of Age
 
 A total of 114 pediatric patients 1 to 5 years of age received XYZAL 1.25 mg twice daily in a two week placebo-controlled double-blind safety trial.
 The mean age of the patients was 3.8 years, 32% were 1 to 2 years of age, 71% were Caucasian and 18% were Black.
-Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to XYZAL 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with XYZAL than placebo
+Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to XYZAL 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with XYZAL than placebo.
 
 Table 3 Adverse Reactions Reported in ≥2%Rounded to the closest unit percentage of Subjects Aged 1-5 Years Exposed to XYZAL 1.25 mg Twice Daily in a 2-Week Placebo-Controlled Clinical Trial
 
@@ -91,7 +91,7 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of XYZAL in other countries.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events of hypersensitivity and anaphylaxis, angioneurotic edema, fixed drug eruption, pruritus, rash, and urticaria, convulsion, aggression and agitation, visual disturbances, palpitations, dyspnea, nausea, hepatitis, and myalgia have been reported.
+Adverse events of hypersensitivity and anaphylaxis, angioedema, fixed drug eruption, pruritus, rash, and urticaria, convulsion, paraesthesia, dizziness, aggression and agitation, hallucinations, depression, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, and myalgia have been reported.
 
 Besides these events reported under treatment with XYZAL, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: hallucinations, suicidal ideation, orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: suicidal ideation, orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.

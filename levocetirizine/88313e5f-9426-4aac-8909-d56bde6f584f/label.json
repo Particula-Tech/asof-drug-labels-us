@@ -6,9 +6,10 @@
   "inn": "levocetirizine",
   "labeler": "Sanofi-Aventis U.S. LLC",
   "package_ndcs": [
-    "0024-5800-32",
     "0024-5800-90",
-    "0024-5801-20"
+    "0024-5801-15",
+    "0024-5801-20",
+    "0024-5801-21"
   ],
   "products": [
     {
