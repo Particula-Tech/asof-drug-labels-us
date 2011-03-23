@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA021306"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Purdue Pharma L.P.",
+  "package_ndcs": [
+    "59011-750-04",
+    "59011-751-04",
+    "59011-752-04",
+    "59011-753-00"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "buprenorphine",
+      "name": "BuTrans"
+    },
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "buprenorphine transdermal system",
+      "name": "BuTrans"
+    }
+  ],
+  "setid": "794aa355-66de-41b8-aedf-f2c40f6bc664",
+  "source": "dailymed"
+}
