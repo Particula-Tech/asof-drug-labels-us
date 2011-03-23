@@ -9,6 +9,8 @@ Levocetirizine Dihydrochloride oral solution is a clear, colorless liquid contai
 
 Oral solution in 5 oz glass bottles (NDC 0955-1026-20)
 
+Oral Solution in 5 oz polypropylene bottles (NDC 0955-1026-21)
+
 Storage:
 
 Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
