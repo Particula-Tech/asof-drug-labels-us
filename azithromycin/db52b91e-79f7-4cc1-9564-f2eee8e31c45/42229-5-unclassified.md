@@ -17,6 +17,6 @@ Rx only
 
 Licensed from Pliva
 
-LAB-0023-8.0
+LAB-0023-10.0
 
-January 2009
+January 2011

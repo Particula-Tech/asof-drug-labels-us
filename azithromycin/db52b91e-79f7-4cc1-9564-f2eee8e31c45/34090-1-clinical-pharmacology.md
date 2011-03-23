@@ -232,16 +232,16 @@ Quantitative methods are used to determine antimicrobial minimum inhibitory conc
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
-The MIC values should be interpreted according to criteria provided in Table 1.
+The MIC values should be interpreted according to criteria provided in Table 3.
 
 #### Diffusion techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 15-µg azithromycin to test the susceptibility of microorganisms to azithromycin.
-The disk diffusion interpretive criteria are provided in Table 1.
+The disk diffusion interpretive criteria are provided in Table 3.
 
-Table 1.
+Table 3.
 Susceptibility Interpretive Criteria for Azithromycin
 
 |  | S | I | RThe current absence of data on resistant strains precludes defining any category other than "susceptible." If strains yield MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. | S | I | R |
@@ -262,15 +262,15 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of "resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound reaches the concentrations usually achievable; other therapy should be selected.
 
-##### QUALITY CONTROL
+##### Quality Control
 
 Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures.
-Standard azithromycin powder should provide the following range of values noted in Table 2.
+Standard azithromycin powder should provide the following range of values noted in Table 4.
 Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
 QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
 The specific strains used for microbiological quality control are not clinically significant.
 
-Table 2.
+Table 4.
 Acceptable Quality Control Ranges for Azithromycin
 
 | QC Strain | Minimum Inhibitory Concentrations (µg/mL) | Disk Diffusion (zone diameters in mm) |

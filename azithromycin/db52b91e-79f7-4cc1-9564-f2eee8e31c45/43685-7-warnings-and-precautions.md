@@ -1,5 +1,7 @@
 # WARNINGS
 
+## Hypersensitivity
+
 Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Stevens Johnson Syndrome and toxic epidermal necrolysis have been reported rarely in patients on azithromycin therapy.
 Although rare, fatalities have been reported.
 (See CONTRAINDICATIONS.)
@@ -10,8 +12,17 @@ The relationship of these episodes to the long tissue half-life of azithromycin 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy should be instituted.
 Physicians should be aware that reappearance of the allergic symptoms may occur when symptomatic therapy is discontinued.
 
+## Hepatotoxicity
+
+Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
+Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
+
+## Treatment of pneumonia
+
 In the treatment of pneumonia, azithromycin has only been shown to be safe and effective in the treatment of community-acquired pneumonia due to Chlamydia pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
 Azithromycin should not be used in patients with pneumonia who are judged to be inappropriate for oral therapy because of moderate to severe illness or risk factors such as any of the following: patients with cystic fibrosis, patients with nosocomially acquired infections, patients with known or suspected bacteremia, patients requiring hospitalization, elderly or debilitated patients, or patients with significant underlying health problems that may compromise their ability to respond to their illness (including immunodeficiency or functional asplenia).
+
+## Clostridium Difficile-associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
