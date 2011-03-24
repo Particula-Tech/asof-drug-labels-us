@@ -5,10 +5,8 @@
   "inn": "calcipotriene",
   "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
-    "0145-2130-01",
     "0145-2130-06",
-    "0145-2130-07",
-    "0145-2130-61"
+    "0145-2130-07"
   ],
   "products": [
     {
