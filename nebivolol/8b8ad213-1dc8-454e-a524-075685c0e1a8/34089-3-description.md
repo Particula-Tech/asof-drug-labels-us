@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11. DESCRIPTION
 
 The chemical name for the active ingredient in BYSTOLIC (nebivolol) tablets is (1RS,1'RS)-1,1'-[(2RS,2'SR)-bis(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)]- 2,2'-iminodiethanol hydrochloride.
 Nebivolol is a racemate composed of d-Nebivolol and l-Nebivolol with the stereochemical designations of [SRRR]-nebivolol and [RSSS]-nebivolol, respectively.

@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021742"
+  ],
   "inn": "nebivolol",
-  "labeler": "Forest Pharmaceuticals Inc.",
+  "labeler": "Forest laboratories, Inc.",
   "package_ndcs": [
     "0456-1402-01",
     "0456-1402-30",
@@ -16,7 +18,13 @@
     "0456-1420-30",
     "0456-1420-63"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nebivolol hydrochloride",
+      "name": "Bystolic"
+    }
+  ],
   "setid": "8b8ad213-1dc8-454e-a524-075685c0e1a8",
   "source": "dailymed"
 }

@@ -1,0 +1,59 @@
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.5 MG LABEL
+
+Rx Only
+
+NDC 0456-1402-30
+
+Bystolic®
+
+(nebivolol) tablets
+
+2.5 mg/tablet
+
+30 Tablets
+
+FOREST PHARMACEUTICALS, INC.
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 5 MG LABEL
+
+Rx Only
+
+NDC 0456-1405-30
+
+Bystolic®
+
+(nebivolol) tablets
+
+5 mg/tablet
+
+30 TABLETS
+
+FOREST PHARMACEUTICALS, INC.
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 MG LABEL
+
+NDC 0456-1410-30
+
+Bystolic®
+
+(nebivolol) tablets
+
+10 mg/tablet
+
+30 TABLETS
+
+FOREST PHARMACEUTICALS, INC.
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 20 MG LABEL
+
+NDC 0456-1420-30
+
+Bystolic®
+
+(nebivolol) tablets
+
+20 mg/tablet
+
+30 TABLETS
+
+FOREST PHARMACEUTICALS, INC.
