@@ -26,7 +26,8 @@ To lower your chances of side effects of ALIMTA, you must also take folic acid a
 Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
 Corticosteroid medicines lower your chances of getting skin reactions with ALIMTA.
 
-ALIMTA has not been studied in children.
+In children, ALIMTA has not been shown to be effective.
+No important differences in side effects were seen in children compared to adults (see “What are the possible side effects of ALIMTA?”).
 
 What should I tell my doctor before taking ALIMTA?
 
@@ -124,10 +125,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised August 9, 2010
+Patient information revised March 17, 2011
 
 Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
 
-| Copyright © 2004, 2010, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6753 AMP |  |
+| PV 6754 AMP |  |

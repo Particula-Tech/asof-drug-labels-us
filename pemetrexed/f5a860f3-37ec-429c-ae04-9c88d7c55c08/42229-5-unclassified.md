@@ -1,7 +1,7 @@
-Literature revised August 9, 2010
+Literature revised March 17, 2011
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
-| Copyright © 2004, 2010, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 5208 AMP |  |
+| PV 5209 AMP |  |

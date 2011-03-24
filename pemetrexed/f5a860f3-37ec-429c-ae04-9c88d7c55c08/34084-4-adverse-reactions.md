@@ -268,11 +268,9 @@ Subpopulations
 
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
 
-## 6.2 Additional Clinical Trials Experience
-
 Across clinical trials, sepsis, which in some cases was fatal, occurred in approximately 1% of patients.
 
-## 6.3 Post-Marketing Experience
+Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of ALIMTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

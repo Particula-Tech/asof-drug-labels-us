@@ -19,7 +19,16 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ALIMTA in pediatric patients have not been established.
+Efficacy of ALIMTA in pediatric patients has not been demonstrated.
+ALIMTA was administered as an intravenous infusion over 10 minutes on Day 1 of a 21 day cycle to pediatric patients with recurrent solid tumors in a Phase 1 study (32 patients) and a Phase 2 study (72 patients).
+All patients received pretreatment with vitamin B12 and folic acid supplementation and dexamethasone.
+The dose escalation in the Phase 1 study determined the maximum tolerated dose was 1910 mg/m2 and this dose (or 60 mg/kg for patients <12 months old) was evaluated in the Phase 2 study of patients with relapsed or refractory osteosarcoma, Ewing sarcoma/peripheral PNET, rhabdomyosarcoma, neuroblastoma, ependymoma, medulloblastoma/supratentorial PNET, or non-brainstem high grade glioma.
+No responses were observed among the 72 patients in this Phase 2 trial.
+The most common toxicities reported were hematological (leukopenia, neutropenia/granulocytopenia, anemia, thrombocytopenia, and lymphopenia), liver function abnormalities (increased ALT/AST), fatigue, and nausea.
+
+The single dose pharmacokinetics of ALIMTA administered in doses ranging from 400 to 2480 mg/m2 were evaluated in the Phase 1 trial in 22 patients (13 males and 9 females) aged 4 to 18 years (average age 12 years).
+Pemetrexed exposure (AUC and Cmax) appeared to increase proportionally with dose.
+The average pemetrexed clearance (2.30 L/h/m2) and half-life (2.3 hours) in pediatric patients were comparable to values reported in adults.
 
 ## 8.5 Geriatric Use
 
@@ -38,7 +47,7 @@ In the non-small cell lung cancer trial after prior chemotherapy, 29.7% patients
 For patients <65 years, the HR for overall survival was 0.95 (95% CI: 0.76, 1.19), and for patients ≥65 years the HR was 1.15 (95% CI: 0.79, 1.68) in the intent to treat population.
 
 The mesothelioma trial included 36.7% patients treated with ALIMTA plus cisplatin that were ≥65 years, and Grade 3/4 fatigue, leukopenia, neutropenia, and thrombocytopenia were greater as compared to patients <65 years.
-For patients <65 years, the HR for overall survival was 0.71(95% CI: 0.53, 0.96) and for patients ≥65 years, the HR was 0.85 (95% CI: 0.59, 1.22) in the intent to treat population.
+For patients <65 years, the HR for overall survival was 0.71 (95% CI: 0.53, 0.96) and for patients ≥65 years, the HR was 0.85 (95% CI: 0.59, 1.22) in the intent to treat population.
 
 ## 8.6 Patients with Hepatic Impairment
 

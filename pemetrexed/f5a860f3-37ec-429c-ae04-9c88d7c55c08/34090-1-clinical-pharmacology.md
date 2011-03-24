@@ -70,10 +70,6 @@ Pharmacokinetic analyses of pemetrexed included 127 patients with reduced renal 
 Plasma clearance of pemetrexed decreases as renal function decreases, with a resultant increase in systemic exposure.
 Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in pemetrexed total systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Warnings and Precautions (5.4) and Dosage and Administration (2.4)].
 
-Pediatric
-
-Pediatric patients were not included in clinical trials.
-
 Effect of Ibuprofen
 
 Ibuprofen doses of 400 mg four times a day reduce pemetrexed's clearance by about 20% (and increase AUC by 20%) in patients with normal renal function.
