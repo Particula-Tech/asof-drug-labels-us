@@ -7,7 +7,7 @@ After observing the response to initial therapy with ibuprofen suspension, the d
 
 ## PEDIATRIC PATIENTS
 
-### Fever reduction
+### Fever Reduction
 
 For reduction of fever in children, 6 months up to 2 years of age, the dosage should be adjusted on the basis of the initial temperature level (see CLINICAL PHARMACOLOGY).
 The recommended dose is 5 mg/kg if the baseline temperature is less than 102.5°F, or 10 mg/kg if the baseline temperature is 102.5°F or greater.
@@ -37,7 +37,7 @@ Pediatric patients receiving doses above 30 mg/kg/day or if abnormal liver funct
 
 For the treatment of primary dysmenorrhea, beginning with the earliest onset of such pain, ibuprofen suspension should be given in a dose of 400 mg every 4 hours, as necessary, for the relief of pain.
 
-### Rheumatoid arthritis and osteoarthritis
+### Rheumatoid Arthritis and Osteoarthritis
 
 Suggested dosage: 1200-3200 mg daily (300 mg q.i.d. or 400 mg, 600 mg or 800 mg t.i.d. or q.i.d.).
 Individual patients may show a better response to 3200 mg daily, as compared with 2400 mg, although in well-controlled clinical trials patients on 3200 mg did not show a better mean response in terms of efficacy.

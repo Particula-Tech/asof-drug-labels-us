@@ -10,4 +10,4 @@ The molecular weight of ibuprofen is 206.28.
 Its molecular formula is C13H1802 and it has the following structural formula:
 
 Ibuprofen suspension is a sweetened, orange colored, berry flavored suspension containing 100 mg of ibuprofen in 5 mL (20 mg/mL).
-Inactive ingredients include: butylparaben, citric acid, corn syrup, D&C red #33, FD&C yellow #6, flavor, glycerin, hypromellose, polysorbate 80, propylene glycol, purified water, sodium benzoate, sorbitol, xanthan gum.
+Inactive ingredients include: anhydrous citric acid, artificial berry flavor, butylparaben,, D&C red #33, FD&C yellow #6, glycerin, high fructose corn syrup, hypromellose, polysorbate 80, propylene glycol, purified water, sodium benzoate, sorbitol solution, xanthan gum.

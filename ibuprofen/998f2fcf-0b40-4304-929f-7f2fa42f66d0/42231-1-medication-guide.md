@@ -1,4 +1,4 @@
-## Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAlDs)
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAlDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 

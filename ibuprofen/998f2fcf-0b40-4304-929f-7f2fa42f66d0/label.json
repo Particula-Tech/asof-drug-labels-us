@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076925"
+  ],
   "inn": "ibuprofen",
-  "labeler": "PERRIGO",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-952-26",
     "45802-952-43"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "ibuprofen",
+      "name": "Ibuprofen"
+    }
+  ],
   "setid": "998f2fcf-0b40-4304-929f-7f2fa42f66d0",
   "source": "dailymed"
 }
