@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020601"
+  ],
+  "inn": "ibuprofen",
+  "labeler": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
+  "package_ndcs": [
+    "50580-207-24"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "ibuprofen",
+      "name": "Motrin"
+    }
+  ],
+  "setid": "7285807f-8196-4f1e-8f10-6b69a8ab250a",
+  "source": "dailymed"
+}
