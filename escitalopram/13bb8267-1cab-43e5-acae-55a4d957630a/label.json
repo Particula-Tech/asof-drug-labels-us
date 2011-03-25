@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021323",
+    "NDA021365"
+  ],
   "inn": "escitalopram",
-  "labeler": "Forest Laboratories Inc.",
+  "labeler": "Forest Laboratories, Inc.",
   "package_ndcs": [
     "0456-2005-01",
     "0456-2010-01",
@@ -10,7 +13,18 @@
     "0456-2020-63",
     "0456-2101-08"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "LIQUID",
+      "generic": "escitalopram oxalate",
+      "name": "Lexapro"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "escitalopram oxalate",
+      "name": "Lexapro"
+    }
+  ],
   "setid": "13bb8267-1cab-43e5-acae-55a4d957630a",
   "source": "dailymed"
 }

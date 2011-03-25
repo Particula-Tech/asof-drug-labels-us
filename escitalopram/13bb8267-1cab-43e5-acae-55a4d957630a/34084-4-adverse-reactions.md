@@ -216,9 +216,16 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ECG Changes
 
-Electrocardiograms from Lexapro (N=625), racemic citalopram (N=351), and placebo (N=527) groups were compared with respect to (1) mean change from baseline in various ECG parameters and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-These analyses revealed (1) a decrease in heart rate of 2.2 bpm for Lexapro and 2.7 bpm for racemic citalopram, compared to an increase of 0.3 bpm for placebo and (2) an increase in QTc interval of 3.9 msec for Lexapro and 3.7 msec for racemic citalopram, compared to 0.5 msec for placebo.
-Neither Lexapro nor racemic citalopram were associated with the development of clinically significant ECG abnormalities.
+Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
+The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
+The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
+
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
+The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
+Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
+Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
+The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
 Other Reactions Observed During the Premarketing Evaluation of Lexapro
 
