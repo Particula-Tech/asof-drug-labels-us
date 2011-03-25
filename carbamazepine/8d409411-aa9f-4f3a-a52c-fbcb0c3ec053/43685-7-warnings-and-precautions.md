@@ -136,7 +136,7 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
 
-Multiorgan hypersensitivity reactions occurring days to weeks or months after initiating treatment have been reported in rare cases (see ADVERSE REACTIONS, Other and PRECAUTIONS, Information for Patients).
+Multiorgan hypersensitivity reactions which can affect the skin, liver, hemopoietic organs and lymphatic system or other organs and occurring days to weeks or months after initiating treatment have been reported in rare cases (see ADVERSE REACTIONS, Other and PRECAUTIONS, Information for Patients).
 
 Discontinuation of carbamazepine should be considered if any evidence of hypersensitivity develops.
 
@@ -144,9 +144,15 @@ Hypersensitivity reactions to carbamazepine have been reported in patients who p
 A history of hypersensitivity reactions should be obtained for a patient and the immediate family members.
 If positive, caution should be used in prescribing carbamazepine.
 
+In patients who have exhibited hypersensitivity reactions to carbamazepine approximately 25 to 30% of these patients may experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
+
 Since a given dose of Tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
+Tegretol suspension contains sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.
+
 ## Information for Patients
+
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking Tegretol.
 
 Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions.
 These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
@@ -155,6 +161,9 @@ In addition, the patient should be advised that these signs and symptoms should 
 
 Patients, their caregivers, and families should be counseled that AEDs, including Tegretol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers
+
+Patients should be advised that serious skin reactions have been reported in association with Tegretol.
+In the event a skin reaction should occur while taking Tegretol, patients should consult with their physician immediately (see WARNINGS).
 
 Tegretol may interact with some drugs.
 Therefore, patients should be advised to report to their doctors the use of any other prescription or nonprescription medications or herbal products.
@@ -204,14 +213,10 @@ Clinically meaningful drug interactions have occurred with concomitant medicatio
 ## Agents That May Affect Tegretol Plasma Levels
 
 CYP 3A4 inhibitors inhibit Tegretol metabolism and can thus increase plasma carbamazepine levels.
-Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include:
-
-cimetidine, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, loratadine, terfenadine, isoniazid, niacinamide, nicotinamide, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole), acetazolamide, verapamil, grapefruit juice, protease inhibitors, valproate.*
+Drugs that have been shown, or would be expected, to increase plasma carbamazepine levels include: cimetidine, danazol, diltiazem, macrolides, erythromycin, troleandomycin, clarithromycin, fluoxetine, fluvoxamine, nefazodone, trazodone, loxapine*, olanzapine, quetiapine*, loratadine, terfenadine, omeprazole, oxybutynin, dantrolene, isoniazid, niacinamide, nicotinamide, ibuprofen, propoxyphene, azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, protease inhibitors, valproate*.
 
 CYP 3A4 inducers can increase the rate of Tegretol metabolism.
-Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include:
-
-cisplatin, doxorubicin HCl, felbamate,† rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline.
+Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include: cisplatin, doxorubicin HCl, felbamate†, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
 
 When carbamazepine is given with drugs that can increase or decrease carbamazepine levels, close monitoring of carbamazepine levels is indicated and dosage adjustment may be required.
 
@@ -223,10 +228,10 @@ When carbamazepine is given with drugs that can increase or decrease carbamazepi
 
 Increased levels: clomipramine HCl, phenytoin, primidone
 
-Tegretol induces hepatic CYP activity.
+Tegretol is a potent inducer of hepatic CYP 3A4 and may therefore reduce plasma concentrations of co-medications mainly metabolized by 3A4 through induction of their metabolism.
 Tegretol causes, or would be expected to cause, decreased levels of the following:
 
-acetaminophen, alprazolam, dihydropyridine calcium channel blockers (e.g., felodipine), cyclosporine, corticosteroids (e.g., prednisolone, dexamethasone), clonazepam, clozapine, dicumarol, doxycycline, ethosuximide,haloperidol, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, theophylline, tiagabine, topiramate, tramadol, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
+acetaminophen, alprazolam, bupropion, dihydropyridine calcium channel blockers (e.g., felodipine), citalopram, cyclosporine, corticosteroids (e.g., prednisolone, dexamethasone), clonazepam, clozapine, dicumarol, doxycycline, ethosuximide, everolimus, haloperidol, imatinib, itraconazole, lamotrigine, levothyroxine, methadone, methsuximide, midazolam, olanzapine, oral and other hormonal contraceptives, oxcarbazepine, phensuximide, phenytoin, praziquantel, protease inhibitors, risperidone, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide.
 
 In concomitant use with Tegretol, dosage adjustment of the above agents may be necessary.
 
@@ -234,6 +239,14 @@ Coadministration of carbamazepine with nefazodone results in insufficient plasma
 Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
 
 Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
+
+Concomitant use of carbamazepine and isoniazid has been reported to increase isoniazid-induced hepatotoxicity.
+
+Concomitant medication with Tegretol and some diuretics (hydrochlorothiazide, furosemide) may lead to symptomatic hyponatremia.
+
+Carbamazepine may antagonize the effects of nondepolarizing muscle relaxants (e.g., pancuronium).
+
+Their dosage may need to be raised, and patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected.
 
 Alterations of thyroid function have been reported in combination therapy with other anticonvulsant medications.
 
