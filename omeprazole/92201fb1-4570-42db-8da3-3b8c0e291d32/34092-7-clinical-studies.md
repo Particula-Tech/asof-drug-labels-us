@@ -144,6 +144,7 @@ Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 Symptomatic GERD
 
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
+
 Results are shown below.
 
 % Successful Symptomatic Outcome
@@ -224,7 +225,7 @@ In an uncontrolled, open-label dose-titration study, healing of erosive esophagi
 Doses were initiated at 0.7 mg/kg/day.
 Doses were increased in increments of 0.7 mg/kg/day (if intraesophageal pH showed a pH of < 4 for less than 6% of a 24-hour study).
 After titration, patients remained on treatment for 3 months.
-Forty-four percent of the patients were healed on a dose of 0.7 mg/kg body weight; most of the remaining patients were healed with 1.4 mg/kg after an additional 3 months’ treatment.
+Forty-four percent of the patients were healed on a dose of 0.7 mg/kg body weight; most of the remaining patients were healed with 1.4 mg/kg after an additional 3 months' treatment.
 Erosive esophagitis was healed in 51 of 57 (90%) children who completed the first course of treatment in the healing phase of the study.
 In addition, after 3 months of treatment, 33% of the children had no overall symptoms, 57% had mild reflux symptoms, and 40% had less frequent regurgitation/vomiting.
 

@@ -18,7 +18,7 @@ When the drug is discontinued, secretory activity returns gradually, over 3 to 5
 The inhibitory effect of omeprazole on acid secretion increases with repeated once-daily dosing, reaching a plateau after four days.
 
 Results from numerous studies of the antisecretory effect of multiple doses of 20 mg and 40 mg of omeprazole in normal volunteers and patients are shown below.
-The “max” value represents determinations at a time of maximum effect (2-6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
+The "max" value represents determinations at a time of maximum effect (2-6 hours after dosing), while "min" values are those 24 hours after the last dose of omeprazole.
 
 Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
 
@@ -60,10 +60,10 @@ As do other agents that elevate intragastric pH, omeprazole administered for 14 
 The pattern of the bacterial species was unchanged from that commonly found in saliva.
 All changes resolved within three days of stopping treatment.
 
-The course of Barrett’s esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of Omeprazole Delayed-Release Capsules 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
-No clinically significant impact on Barrett’s mucosa by antisecretory therapy was observed.
-Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett’s mucosa was not achieved.
-No significant difference was observed between treatment groups in development of dysplasia in Barrett’s mucosa and no patient developed esophageal carcinoma during treatment.
+The course of Barrett's esophagus in 106 patients was evaluated in a U.S. double-blind controlled study of Omeprazole Delayed-Release Capsules 40 mg twice daily for 12 months followed by 20 mg twice daily for 12 months or ranitidine 300 mg twice daily for 24 months.
+No clinically significant impact on Barrett's mucosa by antisecretory therapy was observed.
+Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett's mucosa was not achieved.
+No significant difference was observed between treatment groups in development of dysplasia in Barrett's mucosa and no patient developed esophageal carcinoma during treatment.
 No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [See Clinical Pharmacology (12)].
 
 ## 12.3 Pharmacokinetics
@@ -146,7 +146,7 @@ Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated O
 | Repeated Dosing |  |  |  |
 | Cmax ‡(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
 | AUC‡(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
-| Note: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg.* Data from single and repeated dose studies† Data from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtablets |  |  |  |
+| * Data from single and repeated dose studies† Data from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtabletsNote: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg. |  |  |  |
 
 Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ [See Dosage and Administration (2)].
 
