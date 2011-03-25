@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200272"
+  ],
+  "inn": "phentermine",
+  "labeler": "TAGI Pharma, Inc.",
+  "package_ndcs": [
+    "51224-101-50",
+    "51224-101-70"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phentermine hydrochloride",
+      "name": "Phentermine Hydrochloride"
+    }
+  ],
+  "setid": "1993b181-f4f1-4451-92a0-7ed8f32598ba",
+  "source": "dailymed"
+}

@@ -1,0 +1,12 @@
+# OVERDOSAGE
+
+Manifestations of acute overdosage with phentermine include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states.
+Fatigue and depression usually follow the central stimulation.
+Cardiovascular effects include arrhythmia, hypertension or hypotension, and circulatory collapse.
+Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
+Fatal poisoning usually terminates in convulsions and coma.
+
+Management of acute phentermine intoxication is largely symptomatic and includes lavage and sedation with a barbiturate.
+Experience with hemodialysis or peritoneal dialysis is inadequate to permit recommendations in this regard.
+Acidification of the urine increases phentermine excretion.
+Intravenous phentolamine (Regitine®, CIBA) has been suggested for possible acute, severe hypertension, if this complicates phentermine overdosage.
