@@ -14,7 +14,7 @@ GELNIQUE should be used with caution in patients who have gastroesophageal reflu
 ## 5.3 Angioedema
 
 Angioedema requiring hospitalization and emergency medical treatment has occurred with the first or subsequent doses of oral oxybutynin.
-In the event of angioedema, oxybutynin containing product should be discontinued and appropriate therapy promptly provided.
+In the event of angioedema, oxybutynin-containing product should be discontinued and appropriate therapy promptly provided.
 
 ## 5.4 Skin Hypersensitivity
 

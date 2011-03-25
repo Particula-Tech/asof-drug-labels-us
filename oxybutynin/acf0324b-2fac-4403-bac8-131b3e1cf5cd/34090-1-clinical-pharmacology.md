@@ -3,9 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Oxybutynin acts as a competitive antagonist of acetylcholine at postganglionic muscarinic receptors, resulting in relaxation of bladder smooth muscle.
-In patients with conditions characterized by involuntary detrusor contractions, cystometric studies have demonstrated that oxybutynin increases maximum urinary bladder capacity and increases the volume to first detrusor contraction.
-
-Oxybutynin is a racemic (50:50) mixture of R- and S-isomers.
+Oxybutynin is a racemic (50:50) mixture of R- and S- isomers.
 Antimuscarinic activity resides predominantly with the R-isomer.
 The active metabolite, N-desethyloxybutynin, has pharmacological activity on the human detrusor muscle that is similar to that of oxybutynin in in vitro studies.
 
@@ -73,22 +71,14 @@ Race
 
 The effect of race on the pharmacokinetics of GELNIQUE has not been studied.
 
-Geriatric Patients
+Specific Populations:
 
-Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on geriatric status in patients following administration of GELNIQUE [see Use in Specific Populations (8.5)].
+Geriatric: Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on geriatric status in patients following administration of GELNIQUE [see Use in Specific Populations (8.5)].
 
-Pediatric Patients
+Pediatric: The pharmacokinetics of oxybutynin and N-desethyloxybutynin have not been evaluated in individuals younger than 18 years of age [see Use in Specific Populations (8.4)].
 
-The pharmacokinetics of oxybutynin and N-desethyloxybutynin have not been evaluated in individuals younger than 18 years of age [see Use in Specific Populations (8.4)].
+Gender: Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on gender in healthy volunteers following administration of GELNIQUE.
 
-Gender
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of GELNIQUE has not been studied.
 
-Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on gender in healthy volunteers following administration of GELNIQUE.
-
-Renal Impairment
-
-There is no experience with the use of GELNIQUE in patients with renal insufficiency.
-
-Hepatic Impairment
-
-There is no experience with the use of GELNIQUE in patients with hepatic insufficiency.
+Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of GELNIQUE has not been studied.

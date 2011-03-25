@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling]
+[See FDA-approved patient labeling]
 
 ## 17.1 Instructions for Use
 
@@ -16,7 +16,10 @@ Avoid open fire or smoking until the gel has dried.
 
 ## 17.2 Important Anticholinergic Adverse Reactions
 
-Patients should be informed that anticholinergic (antimuscarinic) agents, such as GELNIQUE, may produce clinically significant adverse reactions related to anticholinergic pharmacological activity including constipation, urinary retention and blurred vision.
-Heat prostration (due to decreased sweating) can occur when anticholinergics such as GELNIQUE are used in a hot environment.
-Because anticholinergic (antimuscarinic) agents, such as GELNIQUE, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until GELNIQUE’s effects have been determined.
-Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic (antimuscarinic) agents such as GELNIQUE.
+Patients should be informed that anticholinergic (antimuscarinic) agents, such as GELNIQUE, may produce clinically significant adverse reactions related to anticholinergic pharmacological activity including:
+
+- Urinary retention and constipation.
+- Heat prostration (due to decreased sweating) when anticholinergics such as GELNIQUE are used in a hot environment.
+- Dizziness or blurred vision.
+  Patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until GELNIQUE’s effects have been determined.
+- Drowsiness that may be worsened by alcohol.

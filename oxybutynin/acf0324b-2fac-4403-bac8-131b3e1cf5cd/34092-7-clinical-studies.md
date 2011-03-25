@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of GELNIQUE were evaluated in a single randomized, double-blind, placebo-controlled, parallel group 12-week study for the treatment of overactive bladder with symptoms of urge incontinence, urgency and frequency.
+The efficacy of GELNIQUE was evaluated in a single randomized, double-blind, placebo-controlled, parallel group 12-week study for the treatment of overactive bladder with symptoms of urge incontinence, urgency and frequency.
 Key entry criteria included adults with symptomatic overactive bladder with an average of ≥ 4 incontinence episodes in a 3-day period and at least 8 micturitions per day.
 Patients were randomized to daily applications of GELNIQUE 1 gram or matching placebo gel.
 A total of 389 patients received GELNIQUE and 400 patients received placebo gel.
 The majority of patients were Caucasian (86.3%) and female (89.2%), with a mean age of 59.4 years (range: 18 to 88 years).
 The average duration of urinary incontinence was approximately 8.5 years and approximately 75% of patients had no prior pharmacological treatment for urinary incontinence.
 
-Patients treated with GELNIQUE experienced a statistically significant decrease in the number of urinary incontinence episodes per day from baseline to endpoint (the primary efficacy endpoint) compared with placebo (p < 0.0001) as well as a decrease in the average daily urinary frequency (p = 0.0017) and an increase in the average urine volume per void (p = 0.0018).
+Patients treated with GELNIQUE experienced a statistically significant decrease in the number of urinary incontinence episodes per day from baseline to endpoint compared with placebo (p < 0.0001) as well as a decrease in the average daily urinary frequency (p = 0.0017) and an increase in the average urine volume per void (p = 0.0018).
 
 Mean and median change from baseline in daily incontinence episodes (primary endpoint), urinary frequency, and urinary void volume (secondary endpoints) between placebo and GELNIQUE are summarized in Table 3.
 

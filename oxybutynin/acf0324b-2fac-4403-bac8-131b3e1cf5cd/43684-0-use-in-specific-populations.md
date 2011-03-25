@@ -21,7 +21,7 @@ Safety and effectiveness of GELNIQUE in pediatric patients have not been establi
 ## 8.5 Geriatric Use
 
 Of the 496 patients exposed to GELNIQUE in the randomized, double-blind, placebo-controlled 12-week study and the 14-week safety extension study, 188 patients (38%) were 65 years of age and older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients.
+No overall differences in safety or effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

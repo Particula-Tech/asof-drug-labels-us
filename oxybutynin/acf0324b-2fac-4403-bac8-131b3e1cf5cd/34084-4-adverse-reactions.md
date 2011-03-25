@@ -11,9 +11,9 @@ In the combined double-blind, placebo-controlled study and the open-label safety
 Four hundred thirty-one (431) patients received at least 12 weeks of GELNIQUE treatment and 85 patients received 26 weeks of GELNIQUE treatment.
 The study population primarily consisted of Caucasian women (approximately 90%) with an average age of 59 years who had overactive bladder with urge urinary incontinence.
 
-Table 1 lists adverse events, regardless of causality, that were reported in the randomized, double-blind, placebo-controlled 12-week study at an incidence greater than placebo and in greater than 2% of patients treated with GELNIQUE.
+Table 1 lists adverse reactions that were reported in the randomized, double-blind, placebo-controlled 12-week study in greater than 2% of patients treated with GELNIQUE and at an incidence greater than placebo.
 
-Table 1: Common Adverse Events in the Randomized, Double-blind, Placebo-controlled 12-Week Study (>2% and > placebo)
+Table 1: Common Adverse Reactions in the Randomized, Double-blind, Placebo-controlled 12-Week Study (> 2% and > placebo)
 
 | Adverse Event | GELNIQUE 1 gram N = 389 n (%) | Placebo N = 400 n (%) |
 | --- | --- | --- |
@@ -27,11 +27,10 @@ Table 1: Common Adverse Events in the Randomized, Double-blind, Placebo-controll
 | Gastroenteritis viral | 8 (2.1) | 7 (1.8) |
 | * Includes application site pruritus, dermatitis, papules, anesthesia, erythema, irritation, pain and papules |  |  |
 
-The most common adverse reactions, defined as adverse events judged by the investigator to be reasonably associated with the use of study drug, that were reported in ≥ 1% of GELNIQUE-treated patients were dry mouth (6.9%), application site reactions (5.4%), dizziness (1.5%), headache (1.5%), constipation (1.3%), and pruritus (1.3%).
+Other common adverse reactions that were reported in ≥ 1% of GELNIQUE-treated patients were headache (1.5%), constipation (1.3%), and pruritus (1.3%).
 Application site pruritus (2.1%) and application site dermatitis (1.8%) were the most commonly reported application site reactions.
-A majority of treatment-related adverse events were described as mild or moderate in intensity, except for two patients reporting severe headache.
+A majority of adverse reactions were described as mild or moderate in intensity, except for two patients reporting severe headache.
 
-No serious adverse events were judged by the investigator to be treatment-related during the randomized, double-blind, placebo-controlled 12-week study.
 The most common adverse reaction leading to drug discontinuation was application site reaction (0.8% with GELNIQUE versus 0.3% with placebo).
 
 The most common adverse reactions reported during the 14-week open-label extension study were application site reactions (6.0%) and dry mouth (1.9%).

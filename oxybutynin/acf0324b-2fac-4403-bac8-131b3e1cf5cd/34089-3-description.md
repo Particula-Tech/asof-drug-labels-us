@@ -2,7 +2,8 @@
 
 Oxybutynin is an antispasmodic, antimuscarinic agent.
 GELNIQUE (oxybutynin chloride) is a clear and colorless hydroalcoholic gel containing 100 mg oxybutynin chloride per gram of gel.
-GELNIQUE is available in a 1 gram (1.14 mL) unit dose that contains 100 mg oxybutynin chloride.
+GELNIQUE is available in a metered-dose pump that dispenses 30 metered 1 gram doses or in a 1 gram (1.14 mL) unit dose.
+Each dose contains 100 mg oxybutynin chloride.
 Oxybutynin is delivered as a racemate of R- and S- isomers.
 Chemically, oxybutynin chloride is d, l (racemic) 4-(Diethylamino)-2-butynyl (±)-α-phenylcyclohexaneglycolate hydrochloride.
 
