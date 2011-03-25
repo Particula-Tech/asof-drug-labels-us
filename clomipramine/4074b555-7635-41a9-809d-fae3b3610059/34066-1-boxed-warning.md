@@ -6,4 +6,4 @@ Short-term studies did not show an increase in the risk of suicidality with anti
 Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Clomipramine hydrochloride is not approved for use in pediatric patients except for patients with obsessive compulsive disorder (OCD) (seeWARNINGS: Clinical Worsening and Suicide Risk,PRECAUTIONS: Information for Patients, andPRECAUTIONS: Pediatric Use).
+Clomipramine hydrochloride is not approved for use in pediatric patients except for patients with obsessive compulsive disorder (OCD) (see WARNINGS, Clinical Worsening and Suicide Risk; PRECAUTIONS, Information for Patients; and PRECAUTIONS, Pediatric Use).

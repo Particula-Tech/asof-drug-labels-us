@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019906"
+  ],
   "inn": "clomipramine",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0406-9907-03",
     "0406-9908-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "ANAFRANIL"
+    }
+  ],
   "setid": "4074b555-7635-41a9-809d-fae3b3610059",
   "source": "dailymed"
 }

@@ -14,7 +14,7 @@ In a dose proportionality study involving multiple CMI doses, steady-state plasm
 The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher Css and AUC even for patients dosed within the recommended range.
 This may pose a potential risk to some patients (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-After a single 50-mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).
+After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).
 After multiple daily doses of 150 mg of Anafranil, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI.
 Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.
 At a dose of Anafranil 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.
@@ -27,9 +27,7 @@ The interaction between CMI and other highly protein-bound drugs has not been fu
 Metabolism - CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.
 DMI is pharmacologically active, but its effects on OCD behaviors are unknown.
 These metabolites are excreted in urine and feces, following biliary elimination.
-After a 25-mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were
-
-recovered in the urine and 32% and 24%, respectively, in feces.
+After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were recovered in the urine and 32% and 24%, respectively, in feces.
 In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered.
 CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.
 
@@ -38,7 +36,7 @@ This fact must be considered in assessing the estimates of the pharmacokinetic p
 If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day).
 Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures (see WARNINGS).
 
-After a 150-mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr). Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI.
+After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr). Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI.
 Plasma concentrations of the metabolite exceed the parent drug on multiple dosing.
 After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6.
 Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI (see DOSAGE AND ADMINISTRATION).

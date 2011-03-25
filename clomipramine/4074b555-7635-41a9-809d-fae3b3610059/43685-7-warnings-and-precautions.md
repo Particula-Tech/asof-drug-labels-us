@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -62,7 +62,7 @@ Nevertheless, prescribers are advised to limit the daily dose to a maximum of 25
 
 Caution should be used in administering Anafranil to patients with a history of seizures or other predisposing factors, e.g., brain damage of varying etiology, alcoholism, and concomitant use with other drugs that lower the seizure threshold.
 
-Rare reports of fatalities in association with seizures have been reported by foreign post-marketing surveillance, but not in U.S. clinical trials.
+Rare reports of fatalities in association with seizures have been reported by foreign postmarketing surveillance, but not in U.S. clinical trials.
 In some of these cases, Anafranil had been administered with other epileptogenic agents; in others, the patients involved had possibly predisposing medical conditions.
 Thus a causal association between Anafranil treatment and these fatalities has not been established.
 
@@ -93,7 +93,7 @@ In the vast majority of instances, these enzyme increases were not associated wi
 Rare reports of more severe liver injury, some fatal, have been recorded in foreign postmarketing experience.
 Caution is indicated in treating patients with known liver disease, and periodic monitoring of hepatic enzyme levels is recommended in such patients.
 
-Hematologic Changes - Although no instances of severe hematologic toxicity were seen in the premarketing experience with Anafranil, there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with Anafranil® (clomipramine hydrochloride capsules USP) use.
+Hematologic Changes - Although no instances of severe hematologic toxicity were seen in the premarketing experience with Anafranil, there have been postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia in association with Anafranil (clomipramine hydrochloride capsules USP) use.
 As is the case with tricyclic antidepressants to which Anafranil is closely related, leukocyte and differential blood counts should be obtained in patients who develop fever and sore throat during treatment with Anafranil.
 
 Central Nervous System - More than 30 cases of hyperthermia have been recorded by nondomestic postmarketing surveillance systems.
@@ -195,7 +195,7 @@ Anafranil should be used during pregnancy only if the potential benefit justifie
 
 ## Nursing Mothers
 
-Anafranil® (clomipramine hydrochloride capsules USP) has been found in human milk.
+Anafranil (clomipramine hydrochloride capsules USP) has been found in human milk.
 Because of the potential for adverse reactions, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use

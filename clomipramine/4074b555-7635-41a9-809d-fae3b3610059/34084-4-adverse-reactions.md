@@ -156,7 +156,7 @@ Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinica
 
 ## Other Events Observed During the Premarketing Evaluation of Anafranil
 
-During clinical testing in the U.S., multiple doses of Anafranil® (clomipramine hydrochloride capsules USP) were administered to approximately 3600 subjects.
+During clinical testing in the U.S., multiple doses of Anafranil (clomipramine hydrochloride capsules USP) were administered to approximately 3600 subjects.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 

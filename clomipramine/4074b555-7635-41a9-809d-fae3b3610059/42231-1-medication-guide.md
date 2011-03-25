@@ -1,4 +1,4 @@
-## Medication Guide Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+# Medication Guide Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with you or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -41,10 +41,17 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child's healthcare provider for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 U.S.A.
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Tyco Healthcare Mallinckrodt
+[05/2009]
 
-Rev 050707 R1
+COVIDIEN™
+
+Mallinckrodt
+
+Rev 06/2009
