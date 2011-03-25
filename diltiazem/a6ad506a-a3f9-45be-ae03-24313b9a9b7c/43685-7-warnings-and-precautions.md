@@ -77,6 +77,20 @@ Since there have been conflicting results regarding the effects of digoxin level
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
 
+Statins: Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
+The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
+When possible, a non-CYP3A4-metabolized statin should be used together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+
+In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
+Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8-9-fold mean increase in simvastatin AUC can be expected.
+If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+
+In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem co-administration.
+Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 A 24-month study in rats and an 18-month study in mice showed no evidence of carcinogenicity.
