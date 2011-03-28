@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Finasteride iscontraindicated in the following:
+Finasteride is contraindicated in the following:
 
 Hypersensitivity to any component of this medication.
 

@@ -53,3 +53,5 @@ The following additional adverse effects have been reported in post-marketing ex
 - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
 
 - testicular pain.
+
+- male breast cancer.

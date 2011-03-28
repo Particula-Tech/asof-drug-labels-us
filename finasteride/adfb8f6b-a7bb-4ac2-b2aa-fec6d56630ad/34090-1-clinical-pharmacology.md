@@ -131,7 +131,7 @@ Results seen in earlier studies were comparable to those seen in a long-term eff
 Although an early improvement in urinary symptoms was seen in some patients, a therapeutic trial of at least 6 months was generally necessary to assess whether a beneficial response in symptom relief had been achieved.
 The improvement in BPH symptoms was seen during the first year and maintained throughout an additional 5 years of open extension studies.
 
-### Effect on Acute Urinary Retention and the Need for Surgery
+### Effect on the Need for Surgery
 
 In a long-term efficacy and safety study, efficacy was also assessed by evaluating treatment failures.
 Treatment failure was prospectively defined as BPH-related urological events or clinical deterioration, lack of improvement and/or the need for alternative therapy.
@@ -154,7 +154,7 @@ Table 1: All Treatment Failures in a long-term efficacy and safety study
 | Discontinuation due to worsening of BPH, lack of improvement, or to receive other medical treatment | 21.8 | 13.3 |  |  |  |
 
 Compared with placebo, finasteride was associated with a significantly lower need for BPH-related surgery [13.2% for placebo vs 6.6% for finasteride; 51% reduction in risk, 95% CI: (34 to 63%)].
-Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)] and with a significantly lower risk of acute urinary retention [6.6% for placebo vs 2.8% for finasteride; 57% reduction in risk, 95% CI: (34 to 72%)]; see Figures 2 and 3.
+Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
 
 ### Effect on Maximum Urinary Flow Rate
 

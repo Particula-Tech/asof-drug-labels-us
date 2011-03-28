@@ -4,7 +4,7 @@ Finasteride tablets USP, 5 mg: blue, 7 mm, round, biconvex, film coated tablets,
 
 They are supplied as follows:
 
-NDC 16729-090-10 Bottles of 30 NDC 16729-090-15 Bottles of 90 NDC 16729-090-01 Bottles of 100 NDC 16729-090-17 Bottles of 1000
+NDC 16729-090-10 Bottles of 30 NDC 16729-090-15 Bottles of 90 NDC 16729-090-01 Bottles of 100 NDC 16729-090-16 Bottles of 500 NDC 16729-090-17 Bottles of 1000
 
 ## Storage and Handling
 
@@ -17,6 +17,6 @@ Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durha
 
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210, INDIA.
 
-10 1499 0 606064
+10 6584 2 626710
 
-Issued January, 2009.
+Issued December, 2010.
