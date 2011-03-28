@@ -3,12 +3,12 @@
 1. Hepatic injury: Fluconazole has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
    In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex or age of the patient has been observed.
    Fluconazole hepatotoxicity has usually, but not always, been reversible on discontinuation of therapy.
-   Patients who develop abnormal liver function tests during Fluconazole Injection therapy should be monitored for the development of more severe hepatic injury.
-   Fluconazole Injection should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
+   Patients who develop abnormal liver function tests during Fluconazole Injection, USP therapy should be monitored for the development of more severe hepatic injury.
+   Fluconazole Injection, USP should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
 2. Anaphylaxis: In rare cases, anaphylaxis has been reported.
 3. Dermatologic: Patients have rarely developed exfoliative skin disorders during treatment with fluconazole.
    In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
-   Patients who develop rashes during treatment with Fluconazole Injection should be monitored closely and the drug discontinued if lesions progress.
+   Patients who develop rashes during treatment with Fluconazole Injection, USP should be monitored closely and the drug discontinued if lesions progress.
 
 # PRECAUTIONS
 
@@ -18,9 +18,9 @@ Some azoles, including fluconazole, have been associated with prolongation of th
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities and concomitant medications that may have been contributory.
 
-Fluconazole Injection should be administered with caution to patients with these potentially proarrhythmic conditions.
+Fluconazole Injection, USP should be administered with caution to patients with these potentially proarrhythmic conditions.
 
-## Drug Interactions
+## Drug Interactions:
 
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies and CONTRAINDICATIONS.)
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
@@ -52,57 +52,57 @@ Short-acting benzodiazepines
 
 Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
 Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
-When Fluconazole Injection is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
+When Fluconazole Injection, USP is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Coumarin-type anticoagulants: Prothrombin time may be increased in patients receiving concomitant fluconazole and coumarin-type anticoagulants.
 In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
-Careful monitoring of prothrombin time in patients receiving Fluconazole Injection and coumarin-type anticoagulants is recommended.
+Careful monitoring of prothrombin time in patients receiving Fluconazole Injection, USP and coumarin-type anticoagulants is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Phenytoin: Fluconazole increases the plasma concentrations of phenytoin.
-Careful monitoring of phenytoin concentrations in patients receiving Fluconazole Injection and phenytoin is recommended.
+Careful monitoring of phenytoin concentrations in patients receiving Fluconazole Injection, USP and phenytoin is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Cyclosporine: Fluconazole may significantly increase cyclosporine levels in renal transplant patients with or without renal impairment.
-Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving Fluconazole Injection and cyclosporine.
+Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving Fluconazole Injection, USP and cyclosporine.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Rifampin: Rifampin enhances the metabolism of concurrently administered fluconazole.
-Depending on clinical circumstances, consideration should be given to increasing the dose of Fluconazole Injection when it is administered with rifampin.
+Depending on clinical circumstances, consideration should be given to increasing the dose of Fluconazole Injection, USP when it is administered with rifampin.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Theophylline: Fluconazole increases the serum concentrations of theophylline.
-Careful monitoring of serum theophylline concentrations in patients receiving Fluconazole Injection and theophylline is recommended.
+Careful monitoring of serum theophylline concentrations in patients receiving Fluconazole Injection, USP and theophylline is recommended.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Terfenadine: Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
 One study at a 200-mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
 Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
-The combined use of Fluconazole Injection at doses of 400 mg or greater with terfenadine is contraindicated.
+The combined use of Fluconazole Injection, USP at doses of 400 mg or greater with terfenadine is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-The coadministration of Fluconazole Injection at doses lower than 400 mg/day with terfenadine should be carefully monitored.
+The coadministration of Fluconazole Injection, USP at doses lower than 400 mg/day with terfenadine should be carefully monitored.
 
 Cisapride: There have been reports of cardiac events, including torsade de pointes in patients to whom fluconazole and cisapride were coadministered.
 A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
-The combined use of Fluconazole Injection with cisapride is contraindicated.
+The combined use of Fluconazole Injection, USP with cisapride is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Astemizole: The use of fluconazole in patients concurrently taking astemizole or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs.
-In the absence of definitive information, caution should be used when coadministering Fluconazole Injection.
+In the absence of definitive information, caution should be used when coadministering Fluconazole Injection, USP.
 Patients should be carefully monitored.
 
 Rifabutin: There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered.
-Patients receiving rifabutin and Fluconazole Injection concomitantly should be carefully monitored.
+Patients receiving rifabutin and Fluconazole Injection, USP concomitantly should be carefully monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Tacrolimus: There have been reports of nephrotoxicity in patients to whom fluconazole and tacrolimus were coadministered.
-Patients receiving tacrolimus and Fluconazole Injection concomitantly should be carefully monitored.
+Patients receiving tacrolimus and Fluconazole Injection, USP concomitantly should be carefully monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Short-acting Benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
 This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
-If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with Fluconazole Injection, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
+If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with Fluconazole Injection, USP, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Fluconazole tablets coadministered with ethinyl estradiol- and levonorgestrel-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels.
@@ -113,7 +113,7 @@ The clinical significance of these effects is presently unknown.
 
 Physicians should be aware that interaction studies with medications other than those listed in the CLINICAL PHARMACOLOGY section have not been conducted, but such interactions may occur.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
 Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5 or 10 mg/kg/day (approximately 2-7x the recommended human dose).
 Male rats treated with 5 and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
@@ -143,13 +143,13 @@ These effects are consistent with the inhibition of estrogen synthesis in rats a
 
 There are no adequate and well controlled studies in pregnant women.
 There have been reports of multiple congenital abnormalities in infants whose mothers were being treated for 3 or more months with high dose (400-800 mg/day) fluconazole therapy for coccidioidomycosis (an unindicated use).
-The relationship between Fluconazole Injection use and these events is unclear.
-Fluconazole should be used in pregnancy only if the potential benefit justifies the possible risk to the fetus.
+The relationship between fluconazole use and these events is unclear.
+Fluconazole Injection, USP should be used in pregnancy only if the potential benefit justifies the possible risk to the fetus.
 
 ## Nursing Mothers
 
 Fluconazole is secreted in human milk at concentrations similar to plasma.
-Therefore, the use of Fluconazole Injection in nursing mothers is not recommended.
+Therefore, the use of Fluconazole Injection, USP in nursing mothers is not recommended.
 
 ## Pediatric Use
 

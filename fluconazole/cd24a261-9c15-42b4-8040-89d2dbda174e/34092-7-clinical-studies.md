@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-Cryptococcal meningitis: In a multicenter study comparing fluconazole (200 mg/day) to amphotericin B (0.3 mg/kg/day) for treatment of cryptococcal meningitis in patients with AIDS, a multivariate analysis revealed three pretreatment factors that predicted death during the course of therapy: abnormal mental status, cerebrospinal fluid cryptococcal antigen titer greater than 1:1024, and cerebrospinal fluid white blood cell count of less than 20 cells/mm 3.
+Cryptococcal meningitis: In a multicenter study comparing fluconazole (200 mg/day) to amphotericin B (0.3 mg/kg/day) for treatment of cryptococcal meningitis in patients with AIDS, a multivariate analysis revealed three pretreatment factors that predicted death during the course of therapy: abnormal mental status, cerebrospinal fluid cryptococcal antigen titer greater than 1:1024, and cerebrospinal fluid white blood cell count of less than 20 cells/mm3.
 Mortality among high risk patients was 33% and 40% for amphotericin B and fluconazole patients, respectively (p=0.58), with overall deaths 14% (9 of 63 subjects) and 18% (24 of 131 subjects) for the 2 arms of the study (p=0.48).
 Optimal doses and regimens for patients with acute cryptococcal meningitis and at high risk for treatment failure remain to be determined.
 (Saag, et al. N Engl J Med 1992; 326:83-9.)

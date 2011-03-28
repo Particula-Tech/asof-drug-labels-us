@@ -5,15 +5,15 @@
 SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF FLUCONAZOLE IS THE SAME FOR ORAL AND INTRAVENOUS ADMINISTRATION.
 In general, a loading dose of twice the daily dose is recommended on the first day of therapy to result in plasma concentrations close to steady-state by the second day of therapy.
 
-The daily dose of Fluconazole Injection for the treatment of infections should be based on the infecting organism and the patient’s response to therapy.
+The daily dose of Fluconazole Injection, USP for the treatment of infections should be based on the infecting organism and the patient’s response to therapy.
 Treatment should be continued until clinical parameters or laboratory tests indicate that active fungal infection has subsided.
 An inadequate period of treatment may lead to recurrence of active infection.
 Patients with AIDS and cryptococcal meningitis or recurrent oropharyngeal candidiasis usually require maintenance therapy to prevent relapse.
 
-Oropharyngeal candidiasis: The recommended dosage of Fluconazole Injection for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
+Oropharyngeal candidiasis: The recommended dosage of Fluconazole Injection, USP for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 Clinical evidence of oropharyngeal candidiasis generally resolves within several days, but treatment should be continued for at least 2 weeks to decrease the likelihood of relapse.
 
-Esophageal candidiasis: The recommended dosage of Fluconazole Injection for esophageal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
+Esophageal candidiasis: The recommended dosage of Fluconazole Injection, USP for esophageal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 Doses up to 400 mg/day may be used, based on medical judgment of the patient’s response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least two weeks following resolution of symptoms.
 
@@ -25,10 +25,10 @@ Urinary tract infections and peritonitis: For the treatment of Candida urinary t
 Cryptococcal meningitis: The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
 A dosage of 400 mg once daily may be used, based on medical judgment of the patient’s response to therapy.
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10-12 weeks after the cerebrospinal fluid becomes culture negative.
-The recommended dosage of Fluconazole Injection for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
+The recommended dosage of Fluconazole Injection, USP for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
 
-Prophylaxis in patients undergoing bone marrow transplantation: The recommended Fluconazole Injection daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
-Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start Fluconazole Injection prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
+Prophylaxis in patients undergoing bone marrow transplantation: The recommended Fluconazole Injection, USP daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
+Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start Fluconazole Injection, USP prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
 
 ## Dosage and Administration in Children:
 
@@ -46,10 +46,10 @@ Based on the prolonged half-life seen in premature newborns (gestational age 26 
 After the first two weeks, these children should be dosed once daily.
 No information regarding fluconazole pharmacokinetics in full-term newborns is available.
 
-Oropharyngeal candidiasis: The recommended dosage of Fluconazole Injection for oropharyngeal candidiasis in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
+Oropharyngeal candidiasis: The recommended dosage of Fluconazole Injection, USP for oropharyngeal candidiasis in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 
-Esophageal candidiasis: For the treatment of esophageal candidiasis, the recommended dosage of Fluconazole Injection in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
+Esophageal candidiasis: For the treatment of esophageal candidiasis, the recommended dosage of Fluconazole Injection, USP in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Doses up to 12 mg/kg/day may be used based on medical judgment of the patient’s response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of 3 weeks and for at least 2 weeks following the resolution of symptoms.
 
@@ -58,12 +58,12 @@ Systemic Candida infections: For the treatment of candidemia and disseminated Ca
 Cryptococcal meningitis: For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient’s response to therapy.
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10-12 weeks after the cerebrospinal fluid becomes culture negative.
-For suppression of relapse of cryptococcal meningitis in children with AIDS, the recommended dose of Fluconazole Injection is 6 mg/kg once daily.
+For suppression of relapse of cryptococcal meningitis in children with AIDS, the recommended dose of Fluconazole Injection, USP is 6 mg/kg once daily.
 
 ## Dosage In Patients With Impaired Renal Function:
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
-In patients with impaired renal function who will receive multiple doses of Fluconazole Injection, an initial loading dose of 50 to 400 mg should be given.
+In patients with impaired renal function who will receive multiple doses of Fluconazole Injection, USP, an initial loading dose of 50 to 400 mg should be given.
 After the loading dose, the daily dose (according to indication) should be based on the following table:
 
 | Creatinine Clearance (mL/min) | Percent of Recommended Dose |
@@ -93,17 +93,17 @@ The following formula may be used to estimate creatinine clearance in children:
 
 ## Administration
 
-Fluconazole Injection is administered by intravenous infusion.
-Fluconazole injection has been used safely for up to fourteen days of intravenous therapy.
-The intravenous infusion of Fluconazole Injection should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
+Fluconazole Injection, USP is administered by intravenous infusion.
+Fluconazole has been used safely for up to fourteen days of intravenous therapy.
+The intravenous infusion of Fluconazole Injection, USP should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 
-Fluconazole Injection in INTRAVIA plastic containers is intended only for intravenous administration using sterile equipment.
+Fluconazole Injection, USP in INTRAVIA plastic containers is intended only for intravenous administration using sterile equipment.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Do not use if the solution is cloudy or precipitated or if the seal is not intact.
 
-## Directions for IV Use of Fluconazole Injection in INTRAVIA Plastic Containers
+## Directions for IV Use of Fluconazole Injection, USP in INTRAVIA Plastic Containers
 
 Do not remove unit from overwrap until ready for use.
 The overwrap is a moisture barrier.

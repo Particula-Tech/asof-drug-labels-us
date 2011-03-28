@@ -43,7 +43,7 @@ About 11% of the dose is excreted in the urine as metabolites.
 
 The pharmacokinetics of fluconazole are markedly affected by reduction in renal function.
 There is an inverse relationship between the elimination half-life and creatinine clearance.
-The dose of Fluconazole Injection may need to be reduced in patients with impaired renal function.
+The dose of Fluconazole Injection, USP may need to be reduced in patients with impaired renal function.
 (See DOSAGE AND ADMINISTRATION.)
 A 3-hour hemodialysis session decreases plasma concentrations by approximately 50%.
 
@@ -222,16 +222,18 @@ Fluconazole has been shown to be active against most strains of the following mi
 
 Candida albicans
 
-Candida glabrata (Many strains are intermediately susceptible)In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
-Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as intermediate (16 to 32 mcg/mL, see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
-For resistant isolates alternative therapy is recommended.
+Candida glabrata (Many strains are intermediately susceptible)*
 
 Candida parapsilosis
 
 Candida tropicalis
 
 Cryptococcus neoformans
+
+*In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 mcg/mL).
+Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
+For an isolate where the MIC is categorized as intermediate (16 to 32 mcg/mL, see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
+For resistant isolates alternative therapy is recommended.
 
 The following in vitro data are available, but their clinical significance is unknown.
 

@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
-Fluconazole Injections: Fluconazole injections for intravenous infusion administration are formulated as sterile iso-osmotic solutions containing 2 mg/mL of fluconazole.
+Fluconazole Injections, USP: Fluconazole Injections, USP for intravenous infusion administration are formulated as sterile iso-osmotic solutions containing 2 mg/mL of fluconazole.
 They are supplied in INTRAVIA plastic containers containing volumes of 100 mL or 200 mL affording doses of 200 mg and 400 mg of fluconazole, respectively.
 
-Fluconazole Injections in INTRAVIA Plastic Containers:
+Fluconazole Injections, USP in INTRAVIA Plastic Containers:
 
 | 2J1446 | NDC 0338-6046-48 | Fluconazole in Sodium Chloride Diluent | 200 mg/100 mL x 10 |
 | --- | --- | --- | --- |
