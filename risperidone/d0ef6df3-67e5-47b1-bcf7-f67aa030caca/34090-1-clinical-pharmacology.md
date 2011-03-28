@@ -91,8 +91,7 @@ Dosing should be modified accordingly in the elderly patients [see DOSAGE AND AD
 
 ### Pediatric
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia, bipolar mania or irritability associated with autistic disorder.
-Pharmacokinetic information for pediatric patients with schizophrenia, 13 to 17 years of age, bipolar mania, 10 to 17 years old, and irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The pharmacokinetics of risperidone and 9-hydroxyrisperidone in children were similar to those in adults after correcting for the difference in body weight..
 
 ### Race and Gender Effects
 

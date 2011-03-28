@@ -31,8 +31,19 @@ Patients receiving risperidone experienced a significantly longer time to relaps
 
 ### Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia.
-Clinical trial information for pediatric patients with schizophrenia, 13 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13 to 17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
+All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
+In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone¨ 1 to 3 mg/day (n = 55, mean modal dose = 2.6 mg), risperidone 4 to 6 mg/day (n = 51, mean modal dose = 5.3 mg), or placebo (n = 54).
+
+In the second trial (study #2), patients were randomized to either risperidone 0.15 to 0.6 mg/day (n = 132, mean modal dose = 0.5 mg) or risperidone 1.5 to 6 mg/day (n = 125, mean modal dose = 4 mg).
+In all cases, study medication was initiated at 0.5 mg/day (with the exception of the 0.15 to 0.6 mg/day group in study #2, where the initial dose was 0.05 mg/day) and titrated to the target dosage range by approximately Day 7.
+Subsequently, dosage was increased to the maximum tolerated dose within the target dose range by Day 14.
+The primary efficacy variable in all studies was the mean change from baseline in total PANSS score.
+
+Results of the studies demonstrated efficacy of risperidone in all dose groups from 1 to 6 mg/day compared to placebo, as measured by significant reduction of total PANSS score.
+The efficacy on the primary parameter in the 1 to 3 mg/day group was comparable to the 4 to 6 mg/day group in study #1, and similar to the efficacy demonstrated in the 1.5 to 6 mg/day group in study #2.
+In study #2, the efficacy in the 1.5 to 6 mg/day group was statistically significantly greater than that in the 0.15 to 0.6 mg/day group.
+Doses higher than 3 mg/day did not reveal any trend towards greater efficacy.
 
 ## 14.2 Bipolar Mania - Monotherapy
 
@@ -50,8 +61,14 @@ The results of the trials follow:
 
 ### Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
-Clinical trial information for pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy of risperidone in the treatment of mania in children or adolescents with Bipolar I disorder was demonstrated in a 3-week, randomized, double-blind, placebo-controlled, multicenter trial including patients ranging in ages from 10 to 17 years who were experiencing a manic or mixed episode of bipolar I disorder.
+Patients were randomized into one of three treatment groups: risperidone 0.5 to 2.5 mg/day (n = 50, mean modal dose = 1.9 mg), risperidone 3 to 6 mg/day (n = 61, mean modal dose = 4.7 mg), or placebo (n = 58).
+In all cases, study medication was initiated at 0.5 mg/day and titrated to the target dosage range by Day 7, with further increases in dosage to the maximum tolerated dose within the targeted dose range by Day 10.
+The primary rating instrument used for assessing efficacy in this study was the mean change from baseline in the total YMRS score.
+
+Results of this study demonstrated efficacy of risperidone in both dose groups compared with placebo, as measured by significant reduction of total YMRS score.
+The efficacy on the primary parameter in the 3 to 6 mg/day dose group was comparable to the 0.5 to 2.5 mg/day dose group.
+Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 
 ## 14.3 Bipolar Mania – Combination Therapy
 
@@ -66,5 +83,29 @@ This trial included patients with or without psychotic features and with or with
 
 ## 14.4 Irritability Associated with Autistic Disorder
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with irritability associated with autistic disorder.
-Clinical trial information for pediatric patients with irritability associated with autistic disorder, 5 to 16 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The efficacy of risperidone in the treatment of irritability associated with autistic disorder was established in two 8-week, placebo-controlled trials in children and adolescents (aged 5 to 16 years) who met the DSM-IV criteria for autistic disorder.
+Over 90% of these subjects were under 12 years of age and most weighed over 20 kg (16 to 104.3 kg).
+
+Efficacy was evaluated using two assessment scales: the Aberrant Behavior Checklist (ABC) and the Clinical Global Impression - Change (CGI-C) scale.
+The primary outcome measure in both trials was the change from baseline to endpoint in the Irritability subscale of the ABC (ABC-I).
+The ABC-I subscale measured the emotional and behavioral symptoms of autism, including aggression towards others, deliberate self-injuriousness, temper tantrums, and quickly changing moods.
+The CGI-C rating at endpoint was a co-primary outcome measure in one of the studies.
+
+The results of these trials are as follows:
+
+(1) In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or risperidone 0.5 to 3.5 mg/day on a weight-adjusted basis.
+Risperidone, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and
+
+≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
+
+(2) In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, risperidone 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
+
+Long-Term Efficacy
+
+Following completion of the first 8-week double-blind study, 63 patients entered an open-label study extension where they were treated with risperidone for 4 or 6 months (depending on whether they received risperidone or placebo in the double-blind study).
+During this open-label treatment period, patients were maintained on a mean modal dose of risperidone of 1.8 to 2.1 mg/day (equivalent to 0.05 to 0.07 mg/kg/day).
+
+Patients who maintained their positive response to risperidone (response was defined as ≥ 25% improvement on the ABC-I subscale and a CGI-C rating of ‘much improved’ or ‘very much improved’) during the 4 to 6 month open-label treatment phase for about 140 days, on average, were randomized to receive risperidone or placebo during an 8-week, double-blind withdrawal study (n=39 of the 63 patients).
+A pre-planned interim analysis of data from patients who completed the withdrawal study (n=32), undertaken by an independent Data Safety Monitoring Board, demonstrated a significantly lower relapse rate in the risperidone group compared with the placebo group.
+Based on the interim analysis results, the study was terminated due to demonstration of a statistically significant effect on relapse prevention.
+Relapse was defined as ≥ 25% worsening on the most recent assessment of the ABC-I subscale (in relation to baseline of the randomized withdrawal phase).
