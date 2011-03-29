@@ -33,7 +33,7 @@ Finally, the following adverse events were reported at a rate of 2% or greater i
 
 Adverse events occurred at approximately the same rates in men and women, older and younger patients, and black and non-black patients.
 
-In controlled trials (n=1017), 0.3% of patients treated with Micardis® HCT (telmisartan and hydrochlorothiazide) tablets 40/12.5 mg, 80/12.5 mg or 80/25 mg discontinued due to orthostatic hypotension, and the incidence of dizziness was 4%, 7%, and 1% respectively.
+In controlled trials (n=1017), 0.3% of patients treated with Micardis® HCT (telmisartan and hydrochlorothiazide) tablets 40/12.5 mg, 80/12.5 mg or 80/25 mg discontinued due to orthostatic hypotension, and the incidence of dizziness was 4%, 7%, and 1%, respectively.
 
 ## Telmisartan
 

@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 The usual starting dose of telmisartan is 40 mg once a day; blood pressure response is dose related over the range of 20-80 mg.
-Patients with depletion of intravascular volume should have the condition corrected or telmisartan tablets should be initiated under close medical supervision (see WARNINGS, Hypotension in Volume Depleted Patients).
+Patients with depletion of intravascular volume should have the condition corrected or telmisartan tablets should be initiated under close medical supervision (see WARNINGS, Hypotension in Volume-Depleted Patients).
 Patients with biliary obstructive disorders or hepatic insufficiency should have treatment started under close medical supervision (see PRECAUTIONS).
 
 Hydrochlorothiazide is effective in doses of 12.5 mg to 50 mg once daily.
