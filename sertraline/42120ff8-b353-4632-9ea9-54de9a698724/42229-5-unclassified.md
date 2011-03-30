@@ -1,0 +1,5 @@
+SERTRALINE HYDROCHLORIDE TABLETS
+
+25 mg, 50 mg and 100 mg
+
+Rx only
