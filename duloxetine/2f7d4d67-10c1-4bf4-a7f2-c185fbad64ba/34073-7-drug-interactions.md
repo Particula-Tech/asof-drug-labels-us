@@ -20,8 +20,10 @@ Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Concomitant administration of warfarin (2-9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
+The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
+Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
 
 ## 7.5 Lorazepam
 
@@ -53,8 +55,8 @@ When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction
 
 ## 7.10 Drugs Metabolized by CYP2C9
 
-Duloxetine does not inhibit the in vitro enzyme activity of CYP2C9.
-Inhibition of the metabolism of CYP2C9 substrates is therefore not anticipated, although clinical studies have not been performed.
+Results of in vitro studies demonstrate that duloxetine does not inhibit activity.
+In a clinical study, the pharmacokinetics of S-warfarin, a CYP2C9 substrate, were not significantly affected by duloxetine [see Drug Interactions (7.4)].
 
 ## 7.11 Drugs Metabolized by CYP3A
 
@@ -94,3 +96,4 @@ Substantial intercurrent ethanol use was present in each of these cases, and thi
 ## 7.18 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of Cymbalta to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
+However, coadministration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].
