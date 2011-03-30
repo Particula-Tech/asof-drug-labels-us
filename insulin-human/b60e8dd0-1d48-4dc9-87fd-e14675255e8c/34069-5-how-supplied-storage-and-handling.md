@@ -1,3 +1,3 @@
 # HOW SUPPLIED
 
-Vials, 500 units/mL, 20 mL (HI–500) (1s), NDC 0002–8501–01
+Vials, 500 units/mL, 20 mL (HI-500) (1s), NDC 0002-8501-01

@@ -1,8 +1,8 @@
-Literature revised September 10, 2007
+Literature revised March 21, 2011
 
-Eli Lilly and Company, Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1996, 2007, Eli Lilly and Company.
+Copyright © 1996, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PA 3053 AMP
+PA 3054 AMP

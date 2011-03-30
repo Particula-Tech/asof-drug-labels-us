@@ -1,14 +1,16 @@
 # CLINICAL PHARMACOLOGY
 
-Adequate insulin dosage permits the diabetic patient to utilize carbohydrates and fats in a comparatively satisfactory manner.
-Regardless of concentration, the action of insulin is basically the same: to enable carbohydrate metabolism to occur and thus to prevent the production of ketone bodies by the liver.
-Although, under usual circumstances, diabetes can be controlled with doses in the vicinity of 40 to 60 units or less, an occasional patient develops such resistance or becomes so unresponsive to the effect of insulin that daily doses of several hundred, or even several thousand, units are required.
-Patients who require doses in excess of 300 to 500 units daily usually have impaired insulin receptor function.
+Regulation of glucose metabolism is the primary activity of insulin.
+Insulin lowers blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
+Insulins inhibit lipolysis, proteolysis, and gluconeogenesis, and enhance protein synthesis and conversion of excess glucose into fat.
 
-Occasionally, a cause of the insulin resistance can be found (such as hemochromatosis, cirrhosis of the liver, some complicating disease of the endocrine glands other than the pancreas, allergy, or infection), but in other cases, no cause of the high insulin requirement can be determined.
+Administered insulin, including Humulin R U-500, substitutes for inadequate endogenous insulin secretion and partially corrects the disordered metabolism and inappropriate hyperglycemia of diabetes mellitus, which are caused by either a deficiency or a reduction in the biologic effectiveness of insulin.
+When administered in appropriate doses at prescribed intervals to patients with diabetes mellitus, Humulin R U-500 restores their ability to metabolize carbohydrates, proteins and fats.
 
-Humulin R (U–500) is unmodified by any agent that might prolong its action; however, clinical experience has shown that it frequently has a time action similar to a repository insulin preparation.
-It takes effect rapidly but has a relatively long duration of activity following a single dose (up to 24 hours) as compared with other Regular insulins.
+As with all insulin preparations, the duration of action of Humulin R U-500 is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+
+Humulin R U-500 is unmodified by any agent that might prolong its action.
+Clinical experience has shown that it frequently has time action characteristics reflecting both prandial and basal activity.
+It takes effect within 30 minutes, has a peak similar to that observed with U-100 regular human insulin and has a relatively long duration of activity following a single dose (up to 24 hours) as compared with U-100 regular insulins.
 This effect has been credited to the high concentration of the preparation.
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
-As with all insulin preparations, the duration of action of Humulin R (U–500) is dependent on dose, site of injection, blood supply, temperature, and physical activity.

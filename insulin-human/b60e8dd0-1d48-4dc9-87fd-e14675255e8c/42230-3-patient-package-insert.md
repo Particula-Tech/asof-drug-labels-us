@@ -1,281 +1,252 @@
-# INFORMATION FOR THE PATIENT HUMULIN® R REGULAR U–500 (CONCENTRATED) INSULIN HUMAN INJECTION, USP (rDNA ORIGIN)
+PATIENT INFORMATION
 
-WARNINGS
+Humulin®(HU-mu-lin) R
 
-THIS LILLY HUMAN INSULIN PRODUCT DIFFERS FROM ANIMAL–SOURCE INSULINS BECAUSE IT IS STRUCTURALLY IDENTICAL TO THE INSULIN PRODUCED BY YOUR BODY’S PANCREAS AND BECAUSE OF ITS UNIQUE MANUFACTURING PROCESS.
+Regular U-500 (Concentrated) insulin human injection, (rDNA origin)
 
-ANY CHANGE OF INSULIN SHOULD BE MADE CAUTIOUSLY AND ONLY UNDER MEDICAL SUPERVISION.
-CHANGES IN PURITY, STRENGTH, BRAND (MANUFACTURER), TYPE (REGULAR, NPH, E.G., LENTE), SPECIES (BEEF, PORK, BEEF–PORK, HUMAN), AND/OR METHOD OF MANUFACTURE (rDNA VERSUS ANIMAL–SOURCE INSULIN) MAY RESULT IN THE NEED FOR A CHANGE IN DOSAGE.
+Read the Patient Information that comes with Humulin® R U-500 before you start taking it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your diabetes or treatment.
 
-SOME PATIENTS TAKING HUMULIN® (HUMAN INSULIN, rDNA ORIGIN, LILLY) MAY REQUIRE A CHANGE IN DOSAGE FROM THAT USED WITH ANIMAL–SOURCE INSULINS.
-IF AN ADJUSTMENT IS NEEDED, IT MAY OCCUR WITH THE FIRST DOSE OR DURING THE FIRST SEVERAL WEEKS OR MONTHS.
+What is the most important information I should know about Humulin R U-500?
 
-This insulin preparation contains 500 units of insulin in each milliliter.
-Extreme caution must be observed in the measurement of dosage because inadvertent overdose may result in irreversible insulin shock.
-Serious consequences may result if it is used other than under constant medical supervision.
+Humulin R U-500 (500 units/mL) contains 5 times as much insulin in 1 mL as standard U-100 (100 units/mL) insulin.
+This means that it is more concentrated than standard U-100 insulin.
 
-DIABETES
+Know your insulin.
+Make sure you know the strength, dose and type of insulin that is prescribed for you.
+Do not change the strength, dose or type of insulin you use unless told to do so by your healthcare provider.
 
-Insulin is a hormone produced by the pancreas, a large gland that lies near the stomach.
-This hormone is necessary for the body’s correct use of food, especially sugar.
-Diabetes occurs when the pancreas does not make enough insulin to meet your body’s needs.
+It is important that you take the right dose of Humulin R U-500.
+Taking too much Humulin R U-500 can cause life-threatening low blood sugar (hypoglycemia) or death.
+Taking too little Humulin R U-500 can cause high blood sugar (hyperglycemia).
 
-To control your diabetes, your doctor has prescribed injections of insulin products to keep your blood glucose at a near–normal level.
-You have been instructed to test your blood and/or your urine regularly for glucose.
-Studies have shown that some chronic complications of diabetes such as eye disease, kidney disease, and nerve disease can be significantly reduced if the blood sugar is maintained as close to normal as possible.
-The American Diabetes Association recommends that if your pre-meal glucose levels are consistently above 130 mg/dL or your hemoglobin A1c (HbA1c) is more than 7%, consult your doctor.
-A change in your diabetes therapy may be needed.
-If your blood tests consistently show below–normal glucose levels you should also let your doctor know.
-Proper control of your diabetes requires close and constant cooperation with your doctor.
-Despite diabetes, you can lead an active and healthy life if you eat a balanced diet, exercise regularly, and take your insulin injections as prescribed.
+There are no special syringes to measure Humulin R U-500.
+It is important that you use only the syringes that your healthcare provider tells you to use.
+Your healthcare provider should tell you how much Humulin R U-500 to take and when to take it.
+Your healthcare provider should show you how to draw up Humulin R U-500.
+The amount of Humulin R U-500 will be less than the amount of standard U-100 insulin which would be drawn up into the syringe.
+See the section, “How should I take Humulin R U-500?”
 
-Always keep an extra supply of insulin as well as a spare syringe and needle on hand.
-Always wear diabetic identification so that appropriate treatment can be given if complications occur away from home.
+What is Humulin R U-500?
 
-REGULAR HUMAN INSULIN
+Humulin R U-500 is a prescription medicine used to treat high blood sugar in people with diabetes mellitus.
+Humulin R U-500 is a man-made insulin that is similar to the insulin produced by the human pancreas.
+Humulin R U-500 is used along with diet and exercise to lower blood sugar in people with:
 
-Description
+- type 1 diabetes.
+- type 2 diabetes whose blood sugars are not controlled well with diabetes medicine taken by mouth.
 
-Humulin is synthesized in a special non–disease–producing laboratory strain of Escherichia coli bacteria that has been genetically altered by the addition of the gene for human insulin production.
-Humulin R (U–500) consists of zinc–insulin crystals dissolved in a clear fluid.
-Humulin R (U–500) has had nothing added to change the speed or length of its action.
-It takes effect rapidly but has a relatively long duration of activity (up to 24 hours) as compared with other Regular insulins.
-The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
-As with all insulin preparations, the duration of action of Humulin R (U–500) is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-Humulin R (U–500), is a sterile solution and is for subcutaneous injection only.
-It should not be used intravenously or intramuscularly.
-The concentration of Humulin R (U–500) is 500 units/mL.
+Humulin R U-500 is useful for the treatment of insulin-resistant patients with diabetes who need more than 200 units of insulin a day.
 
-Identification
+It is not known if Humulin R U-500 is safe and effective in children.
 
-Human insulin by Eli Lilly and Company has the trademark Humulin and is available in 6 formulations — Regular (R), NPH (N), Lente (L), Ultralente® (U), 50% Human Insulin Isophane Suspension [NPH]/50% Human Insulin Injection [regular] (50/50), and 70% Human Insulin Isophane Suspension [NPH]/30% Human Insulin Injection [regular] (70/30).
-Humulin R (U–500) is the only human insulin by Eli Lilly and Company that has a concentration of 500 units/mL.
-Your doctor has prescribed the type of insulin that he/she believes is best for you.
-DO NOT USE ANY OTHER INSULIN EXCEPT ON HIS/HER ADVICE AND DIRECTION.
+Who should not take Humulin R U-500?
 
-Always check the carton and the bottle label for the name and letter designation of the insulin you receive from your pharmacy to make sure it is the same as that your doctor has prescribed.
+Do not take Humulin R U-500 if:
 
-Always examine the appearance of your bottle of insulin before withdrawing each dose.
-Humulin R (U–500) is a clear and colorless liquid with a water–like appearance and consistency.
-Do not use if it appears cloudy, thickened, or slightly colored or if solid particles are visible.
-Always check the appearance of your bottle of insulin before using, and if you note anything unusual in the appearance of your insulin or notice your insulin requirements changing markedly, consult your doctor.
+- your blood sugar is too low (hypoglycemia).
+  See the section, “What are the possible side effects of Humulin R U-500?” for more information on low blood sugar.
+- you are allergic to any of the ingredients in Humulin R U-500.
+  See the end of this leaflet for a complete list of ingredients in Humulin R U-500.
 
-Storage
+What should I tell my healthcare provider before taking Humulin R U-500?
 
-Insulin should be stored in a refrigerator but not in the freezer.
-If refrigeration is not possible, the bottle of insulin that you are currently using can be kept unrefrigerated as long as it is kept as cool as possible (below 30°C [86°F]) and away from heat and light.
-Do not use insulin if it has been frozen.
-Do not use a bottle of Humulin R (U-500) after the expiration date stamped on the label.
+Before you take Humulin R U-500, tell your healthcare provider if you:
 
-INJECTION PROCEDURES
+- have liver or kidney problems or any other medical conditions.
+  Certain medical conditions can affect your insulin needs and your dose of Humulin R U-500.
+- are pregnant, plan to become pregnant, or are breast-feeding.
+  It is not known if Humulin R U-500 will harm your unborn baby or breast-feeding child.
+  You and your healthcare provider should talk about the best way to manage your diabetes while you are pregnant or breast-feeding.
+  It is especially important to keep good control of your blood sugar during pregnancy.
 
-Correct Syringe Type
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Many medicines can affect your blood sugar levels and your insulin needs.
+Your Humulin R U-500 dose may need to change if you take other medicines.
+Especially tell your healthcare provider if you take other medicines to treat your diabetes.
 
-Doses of insulin are measured in units.
-U–500 insulin contains 500 units/mL (1 mL=1 cc).
-With Humulin R (U–500), it is important to use a tuberculin (or similar) syringe as instructed by your doctor.
-Failure to use the proper syringe type can lead to a mistake in dosage, causing serious problems for you, such as a blood glucose level that is too low or too high.
+Know the medicines you take.
+Keep a list of your medicines with you and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-Syringe Use
+How should I take Humulin R U-500?
 
-To help avoid contamination and possible infection, follow these instructions exactly.
+- Take Humulin R U-500 exactly as prescribed.
+- Do not make any changes to your strength, dose or type of insulin unless you are told to do so by your healthcare provider.
+- Check the label carefully to make sure you have the right type and strength of insulin prescribed for you.
+- Your healthcare provider should show you how to prepare and inject Humulin R U-500 before you start taking it.
+- Humulin R U-500 should look clear and colorless.
+  Do not use Humulin R U-500 if it does not look clear, colorless or has particles in it.
+  Talk with your pharmacist or healthcare provider if you have any questions.
+- Follow your healthcare provider's instructions about how often you should check your blood sugar level for hypoglycemia (too low blood sugar) and hyperglycemia (too high blood sugar).
+- Humulin R U-500 starts working about 30 minutes after injection.
+  The effects of Humulin R U-500 may last up to 24 hours.
+- You should eat a meal within 30 minutes of injecting Humulin R U-500.
+- Choose an injection area (upper arm, abdomen, buttocks, or thigh).
+  Change injection sites within the area you choose for each dose.
+  Do not inject into the exact same spot for each injection.
+  Never inject Humulin U-500 into a vein or muscle.
+- Inject Humulin R U-500 under your skin (subcutaneous), as shown to you by your healthcare provider.
+- Your healthcare provider should regularly check your diabetes with blood tests, including your blood sugar levels and hemoglobin A1C.
+- If you take too much Humulin R U-500, your blood sugar may fall too low (hypoglycemia).
+  You can treat mild low blood sugar (hypoglycemia) by drinking or eating something sugary right away.
+  Always carry a quick source of sugar, such as hard candy, fruit juice or glucose tablets.
+- Your healthcare provider may prescribe a glucagon emergency kit so that others can give you an injection if your blood sugar becomes too low (hypoglycemic) and you are unable to take sugar by mouth.
 
-Disposable plastic syringes and needles should be used only once and then discarded in a responsible manner.
-NEEDLES AND SYRINGES MUST NOT BE SHARED.
+There are no special syringes to measure Humulin R U-500.
+It is important that you use only the syringes that your healthcare provider tells you to use to give your injections of Humulin R U-500.
+You should use either a U-100 insulin syringe or tuberculin syringe as instructed by your healthcare provider.
 
-Reusable glass syringes and needles must be sterilized before each injection.
-Follow the package directions supplied with your syringe.
-Described below are 2 methods of sterilizing.
+- If you are using U-100 insulin syringes, your healthcare provider should explain how to use this syringe to give the prescribed dose with the unit markings on the syringe.
+- If you are using tuberculin syringes, your healthcare provider should explain how to use this syringe to give the prescribed dose with volume markings on the syringe.
 
-Boiling
+If you do not use the right syringe type, you may take the wrong dose of Humulin R U-500.
+This can cause you to have too low blood sugar (hypoglycemia) or too high blood sugar (hyperglycemia).
 
-1. Put syringe, plunger, and needle in strainer, place in saucepan, and cover with water.
-   Boil for 5 minutes.
-2. Remove articles from water.
-   When they have cooled, insert plunger into barrel, and fasten needle to syringe with a slight twist.
-3. Push plunger in and out several times until water is completely removed.
+Make sure you know:
 
-Isopropyl Alcohol
+- your prescribed dose of Humulin R U-500.
+- which syringe to use and how to draw up your prescribed dose.
 
-If the syringe, plunger, and needle cannot be boiled, as when you are traveling, they may be sterilized by immersion for at least 5 minutes in Isopropyl Alcohol, 91%.
-Do not use bathing, rubbing, or medicated alcohol for this sterilization.
-If the syringe is sterilized with alcohol, it must be absolutely dry before use.
+If you do not understand your dose, talk with your healthcare provider about how much insulin to take.
 
-Preparing the Dose
+If you are hospitalized or go to an emergency room, make sure to tell the hospital staff the actual dose of Humulin R U-500 that your healthcare provider has prescribed for you.
 
-1. Wash your hands.
-2. Inspect the insulin.
-   Humulin R (U–500) should look clear and colorless.
-   Do not use Humulin R (U–500) if it appears cloudy, thickened, or slightly colored or if solid particles are visible.
-3. If using a new bottle, flip off the plastic protective cap, but do not remove the stopper.
-   When using a new bottle, wipe the top of the bottle with an alcohol swab.
-4. Draw air into the syringe equal to your insulin dose.
-   Put the needle through the rubber top of the insulin bottle and inject the air into the bottle.
-5. Turn the bottle and syringe upside down.
-   Hold the bottle and syringe firmly in one hand.
-6. Making sure the tip of the needle is in the insulin, withdraw the correct dose of insulin into the syringe.
-7. Before removing the needle from the bottle, check your syringe for air bubbles which reduce the amount of insulin in it.
-   If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
-   Push them out with the plunger and withdraw the correct dose.
-8. Remove the needle from the bottle and lay the syringe down so that the needle does not touch anything.
+Your healthcare provider may change your dose of Humulin R U-500 because of:
 
-Injection
+- illness
+- change in diet
+- stress
+- change in physical activity or exercise
+- other medicines you take
+- travel
 
-Once you have chosen an injection site, cleanse the skin with alcohol where the injection is to be made.
-Stabilize the skin by spreading it or pinching up a large area.
-Insert the needle as instructed by your doctor.
-Push the plunger in as far as it will go.
-Pull the needle out and apply gentle pressure over the injection site for several seconds.
-Do not rub the area.
-To avoid tissue damage, give the next injection at a site at least 1/2 inch from the previous site.
+Check your blood sugar and stay on the diet and exercise plan as prescribed by your healthcare provider.
 
-DOSAGE
+- Do not share needles or syringes with others.
+- Place used needles and syringes in a closable, puncture-resistant container.
+  You may use a sharps container (such as a red biohazard container) or a hard plastic container (such as a detergent bottle) or a metal container (such as an empty coffee can).
+  Ask your healthcare provider for instructions on the right way to throw away the container.
+  There may be state and local laws about how you should throw away used needles and syringes.
+- Do not throw the container in household trash and do not recycle.
 
-Your doctor has told you which insulin to use, how much, and when and how often to inject it.
-Because each patient’s case of diabetes is different, this schedule has been individualized for you.
+What should I avoid while taking Humulin R U-500?
 
-Your usual insulin dose may be affected by changes in your food, activity, or work schedule.
-Carefully follow your doctor’s instructions to allow for these changes.
-Other things that may affect your insulin dose are:
+- Alcohol.
+  Drinking alcohol may affect your blood sugar when you take Humulin R U-500.
+- Driving and operating machinery.
+  You may have trouble paying attention or reacting if you have low blood sugar (hypoglycemia).
+  Be careful when you drive a car or operate machinery.
+  Ask your healthcare provider if it is all right for you to drive if you have:
+  - Low blood sugar (hypoglycemia)
+  - Decreased or no warning signs of low blood sugar
 
-Illness
+What are the possible side effects of Humulin R U-500?
 
-Illness, especially with nausea and vomiting, may cause your insulin requirements to change.
-Even if you are not eating, you will still require insulin.
-You and your doctor should establish a sick day plan for you to use in case of illness.
-When you are sick, test your blood glucose/urine glucose and ketones frequently and call your doctor as instructed.
+Humulin R U-500 can cause serious side effects, including:
 
-Pregnancy
+- See the section “What is the most important information I should know about Humulin R U-500?”
+- Low blood sugar (hypoglycemia).
 
-Good control of diabetes is especially important for you and your unborn baby.
-Pregnancy may make managing your diabetes more difficult.
-If you are planning to have a baby, are pregnant, or are nursing a baby, consult your doctor.
-
-Medication
-
-Insulin requirements may be increased if you are taking other drugs with blood–glucose–raising activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy.
-Insulin requirements may be reduced in the presence of drugs that lower blood glucose or affect how your body responds to insulin, such as oral antidiabetic agents, salicylates (for example, aspirin), sulfa antibiotics, alcohol, certain antidepressants and some kidney and blood pressure medicines.
-Your Health Care Professional may be aware of other medications that may affect your diabetes control.
-Therefore, always discuss any medications you are taking with your doctor.
-
-Exercise
-
-Exercise may lower your body’s need for insulin during and for some time after the activity.
-Exercise may also speed up the effect of an insulin dose, especially if the exercise involves the area of injection site (for example, the leg should not be used for injection just prior to running).
-Discuss with your doctor how you should adjust your regimen to accommodate exercise.
-
-Travel
-
-Persons traveling across more than 2 time zones should consult their doctor concerning adjustments in their insulin schedule.
-
-COMMON PROBLEMS OF DIABETES
-
-Hypoglycemia (Low Blood Sugar)
-
-Hypoglycemia (too little glucose in the blood) is one of the most frequent adverse events experienced by insulin users.
-It can be brought about by:
-
-1. Missing or delaying meals.
-2. Taking too much insulin.
-3. Exercising or working more than usual.
-4. An infection or illness (especially with diarrhea or vomiting).
-5. A change in the body’s need for insulin.
-6. Diseases of the adrenal, pituitary, or thyroid gland, or progression of kidney or liver disease.
-7. Interactions with certain drugs, such as oral antidiabetic agents, salicylates (for example, aspirin), sulfa antibiotics, certain antidepressants and some kidney and blood pressure medicines.
-8. Consumption of alcoholic beverages.
-
-Symptoms of mild to moderate hypoglycemia may occur suddenly and can include:
+Symptoms of low blood sugar may happen suddenly with Humulin R U-500.
+Symptoms of mild or moderate low blood sugar may include:
 
 | sweating | drowsiness |
 | --- | --- |
-| dizziness | sleep disturbances |
-| palpitation | anxiety |
+| dizziness | trouble sleeping |
+| fast heart beat | feeling anxious |
 | tremor | blurred vision |
 | hunger | slurred speech |
-| restlessness | depressive mood |
-| tingling in the hands, feet, lips, or tongue | irritability |
+| restlessness | depressed mood |
+| tingling in the hands, feet, lips or tongue | feeling irritable |
 | lightheadedness | abnormal behavior |
-| inability to concentrate | unsteady movement |
+| trouble concentrating | walking unsteady |
 | headache | personality changes |
 
-Signs of severe hypoglycemia can include:
+Humulin R U-500 can cause low blood sugar (hypoglycemia) that is severe and that can last a long time.
 
-| disorientation | seizures |
-| --- | --- |
-| unconsciousness | death |
+- Severe low blood sugar can cause you to become confused, pass out (become unconscious), have seizures or coma, and could cause death.
 
-Therefore, it is important that assistance be obtained immediately.
+Talk to your healthcare provider about how to tell if you have low blood sugar and what to do if this happens while taking Humulin R U-500.
+Know your symptoms of low blood sugar.
+Follow your healthcare provider's instructions for treating your low blood sugar.
 
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, diabetic nerve disease, medications such as beta–blockers, change in insulin preparations, or intensified control (3 or more insulin injections per day) of diabetes.
+Tell your healthcare provider if low blood sugar is a problem for you.
+Your healthcare provider may need to change the amount of Humulin R U-500 that you take, change your meal plans or your exercise program to help you avoid low blood sugar.
 
-A few patients who have experienced hypoglycemic reactions after transfer from animal–source insulin to human insulin have reported that the early warning symptoms of hypoglycemia were less pronounced or different from those experienced with their previous insulin.
+- Serious allergic reactions.
+  Get medical help right away if you have any of these symptoms of a severe allergic reaction:
+  - rash all over your body
+  - shortness of breath
+  - trouble breathing (wheezing)
+  - fast heart beat
+  - sweating
+  - feel faint
+  - Low potassium (hypokalemia) in your blood.
+    Your healthcare provider may do blood tests to check you for low potassium.
 
-Without recognition of early warning symptoms, you may not be able to take steps to avoid more serious hypoglycemia.
-Be alert for all of the various types of symptoms that may indicate hypoglycemia.
-Patients who experience hypoglycemia without early warning symptoms should monitor their blood glucose frequently, especially prior to activities such as driving.
-If the blood glucose is below your normal fasting glucose, you should consider eating or drinking sugar–containing foods to treat your hypoglycemia.
+Common side effects of Humulin R U-500 include:
 
-Mild to moderate hypoglycemia may be treated by eating foods or taking drinks that contain sugar.
-Patients should always carry a quick source of sugar, such as candy mints or glucose tablets.
-More severe hypoglycemia may require the assistance of another person.
-Patients who are unable to take sugar orally or who are unconscious require an injection of glucagon or should be treated with intravenous administration of glucose at a medical facility.
+- Skin thickening or pits at the injection site (lipodystrophy).
+  Change (rotate) where you inject your insulin to help prevent these skin changes from happening.
+  Do not inject insulin into this type of skin.
+  Do not inject into the exact same spot for each injection.
+- Injection site reactions (local allergic reaction).
+  Symptoms may include: redness, swelling and itching at the injection site.
+  Tell your healthcare provider if you have skin reactions that do not go away.
+- Weight gain
+- Swelling due to fluid retention
 
-Hypoglycemia when using Humulin R (U–500) can be prolonged and severe.
-All hypoglycemic episodes should be reported to your doctor.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-You should learn to recognize your own symptoms of hypoglycemia.
-If you are uncertain about these symptoms, you should monitor your blood glucose frequently to help you learn to recognize the symptoms that you experience with hypoglycemia.
+These are not all of the possible side effect of Humulin R U-500.
+For more information, ask your healthcare provider or pharmacist.
 
-If you have frequent episodes of hypoglycemia or experience difficulty in recognizing the symptoms, you should consult your doctor to discuss possible changes in therapy, meal plans, and/or exercise programs to help you avoid hypoglycemia.
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-Hyperglycemia and Diabetic Ketoacidosis (DKA)
+How should I store Humulin R U-500?
 
-Hyperglycemia (too much glucose in the blood) may develop if your body has too little insulin.
-Hyperglycemia can be brought about by:
+Unopened vials of Humulin R U-500:
 
-1. Omitting your insulin or taking less than the doctor has prescribed.
-2. Eating significantly more than your meal plan suggests.
-3. Developing a fever, infection, or other significant stressful situation.
+- Keep unopened vials of Humulin R U-500 in a refrigerator at 36°F to 46°F (2°C to 8°C).
+- Do not freeze.
+  Do not use Humulin R U-500 if it has been frozen.
+- Do not use Humulin R U-500 after the expiration date stamped on the label.
 
-In patients with type 1 or insulin–dependent diabetes, prolonged hyperglycemia can result in DKA.
-The first symptoms of DKA usually come on gradually, over a period of hours or days, and include a drowsy feeling, flushed face, thirst, loss of appetite, and fruity odor on the breath.
-With DKA, urine tests show large amounts of glucose and ketones.
-Heavy breathing and a rapid pulse are more severe symptoms.
-If uncorrected, prolonged hyperglycemia or DKA can lead to nausea, vomiting, dehydration, loss of consciousness or death.
-Therefore, it is important that you obtain medical assistance immediately.
+Opened (in-use) vial of Humulin R U-500:
 
-Lipodystrophy
+- Keep opened vial of Humulin R U-500 in the refrigerator or at room temperature below 86°F (30°C).
+- Keep Humulin R U-500 away from heat and direct sunlight.
+- The opened vial must be used within 31 days of opening.
+  Throw away any opened vial after 31 days of use, even if there is insulin left in the vial.
+- Do not use Humulin R U-500 after the expiration date stamped on the label.
 
-Rarely, administration of insulin subcutaneously can result in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue).
-If you notice either of these conditions, consult your doctor.
-A change in your injection technique may help alleviate the problem.
+Keep Humulin R U-500 and all medicines out of the reach of children.
 
-Allergy to Insulin
+General Information about Humulin R U-500
 
-Local Allergy — Patients occasionally experience redness, swelling, and itching at the site of injection of insulin.
-This condition, called local allergy, usually clears up in a few days to a few weeks.
-In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
-If you have local reactions, contact your doctor.
+Medicines are sometimes prescribed for purposes other than those listed in patient information leaflets.
+Do not use Humulin R U-500 for a condition for which it was not prescribed.
+Do not give Humulin R U-500 to other people, even if they have the same symptoms you have.
+It may harm them.
 
-Systemic Allergy — Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
-Severe cases of generalized allergy may be life threatening.
-If you think you are having a generalized allergic reaction to insulin, notify a doctor immediately.
+This leaflet summarizes the most important information about Humulin R U-500.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about Humulin R U-500 that is written for healthcare professionals.
 
-ADDITIONAL INFORMATION
+For more information about Humulin R U-500 call 1-800-545-5979 or go to www.lilly.com.
 
-Additional information about diabetes may be obtained from your diabetes educator.
+What are the ingredients in Humulin R U-500?
 
-DIABETES FORECAST is a magazine designed especially for people with diabetes and their families.
-It is available by subscription from the American Diabetes Association (ADA), P.O.
-Box 363, Mt.
-Morris, IL 61054-0363, 1-800-DIABETES (1-800-342-2383).
+Active ingredient: human insulin rDNA origin
 
-Another publication, COUNTDOWN, is available from the Juvenile Diabetes Research Foundation International (JDRFI), 120 Wall Street 19th Floor, New York, NY 10005, 1-800-533-CURE (1–800–533–2873).
+Inactive ingredients: glycerin, metacresol, zinc oxide, water for injection, sodium hydroxide or hydrochloric acid.
 
-Additional information about Humulin can be obtained by calling The Lilly Answers Center at 1-800-LillyRx (1-800-545-5979).
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Patient Information revised September 10, 2007
+Patient Information issued March 21, 2011
 
-Eli Lilly and Company, Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-PA 3053 AMP
+PA 8900 AMP

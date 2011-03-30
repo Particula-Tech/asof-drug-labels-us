@@ -1,10 +1,6 @@
 # ADVERSE REACTIONS
 
-As with other human insulin preparations, hypoglycemic reactions may be associated with the administration of Humulin R (U–500).
-However, deep secondary hypoglycemic reactions may develop 18 to 24 hours after the original injection of Humulin R (U–500).
-Consequently, patients should be carefully observed, and prompt treatment of such reactions should be initiated with glucagon injections and/or with glucose by intravenous injection or gavage.
-
-Hypoglycemia
+## Hypoglycemia
 
 Hypoglycemia is one of the most frequent adverse events experienced by insulin users.
 
@@ -16,7 +12,7 @@ Symptoms of mild to moderate hypoglycemia may occur suddenly and can include:
 | palpitation | anxiety |
 | tremor | blurred vision |
 | hunger | slurred speech |
-| restlessness | depressive mood |
+| restlessness | depressed mood |
 | tingling in the hands, feet, lips, or tongue | irritability |
 | lightheadedness | abnormal behavior |
 | inability to concentrate | unsteady movement |
@@ -26,28 +22,62 @@ Signs of severe hypoglycemia can include:
 
 | disorientation | seizures |
 | --- | --- |
-| unconsciousness | death |
+| unconsciousness | coma |
+| death |  |
 
-Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, diabetic nerve disease, medications such as beta–blockers, change in insulin preparations, or intensified control (3 or more insulin injections per day) of diabetes.
-
-A few patients who have experienced hypoglycemic reactions after transfer from animal–source insulin to human insulin have reported that the early warning symptoms of hypoglycemia were less pronounced or different from those experienced with their previous insulin.
+Early warning symptoms of hypoglycemia may be different or less pronounced under certain conditions, such as long duration of diabetes, autonomic diabetic neuropathy, use of medications such as beta-adrenergic blockers, changing insulin preparations, or intensified control (3 or more insulin injections per day) of diabetes.
 
 Without recognition of early warning symptoms, the patient may not be able to take steps to avoid more serious hypoglycemia.
-Patients who experience hypoglycemia without early warning symptoms should monitor their blood glucose frequently, especially prior to activities such as driving.
+Patients who experience hypoglycemia without early warning symptoms should monitor their blood glucose more frequently, especially prior to activities such as driving.
 Mild to moderate hypoglycemia may be treated by eating foods or taking drinks that contain sugar.
-Patients should always carry a quick source of sugar, such as candy mints or glucose tablets.
+Patients should always carry a quick source of sugar, such as hard candy, non-diet carbohydrate-containing drinks or glucose tablets.
 
-Hypoglycemia when using Humulin R (U–500) can be prolonged and severe.
+Hypoglycemia when using Humulin R U-500 can be prolonged and severe.
 
-Lipodystrophy
+## Hypokalemia
 
-Rarely, administration of insulin subcutaneously can result in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue).
+See Precautions
 
-Allergy to Insulin
+## Lipodystrophy
 
-Local Allergy — Patients occasionally experience erythema, local edema, and pruritus at the site of injection of insulin.
-This condition usually is self–limiting.
+Administration of insulin subcutaneously can result in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue).
+
+## Allergy
+
+Local Allergy — Patients occasionally experience erythema, local edema, and pruritus at the site of injection.
+This condition usually is self-limiting.
 In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
 
 Systemic Allergy — Less common, but potentially more serious, is generalized allergy to insulin, which may cause rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
 Severe cases of generalized allergy (anaphylaxis) may be life threatening.
+
+## Weight gain
+
+Weight gain can occur with some insulin therapies and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
+
+## Peripheral Edema
+
+Insulin may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+
+## Drug Interactions
+
+The concurrent use of oral antihyperglycemic diabetes agents with Humulin R U-500 is not recommended since there are limited data to support such use.
+
+A number of substances affect glucose metabolism and may require insulin dose adjustment and particularly close monitoring.
+
+Drugs that may increase the blood-glucose-lowering effect of Humulin R U-500 and susceptibility to hypoglycemia:
+
+- Oral antihyperglycemic diabetes agents, salicylates, sulfa antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors [SSRIs]), pramlintide, disopyramide, fibrates, fluoxetine, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, beta-adrenergic blockers, inhibitors of pancreatic function (e.g., octreotide), and alcohol.
+
+Drugs that may reduce the blood-glucose-lowering effect:
+
+- Corticosteroids, isoniazid, certain lipid-lowering drugs (e.g., niacin), estrogens, oral contraceptives, phenothiazines, danazol, diuretics, sympathomimetic agents, somatropin, atypical antipsychotics, glucagon, protease inhibitors and thyroid replacement therapy.
+
+Drugs that may increase or decrease blood-glucose-lowering effect:
+
+- Beta-adrenergic blockers, clonidine, lithium salts, and alcohol.
+- Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.
+
+Drugs that may mask the signs of hypoglycemia:
+
+- Beta-adrenergic blockers, clonidine, guanethidine, and reserpine.
