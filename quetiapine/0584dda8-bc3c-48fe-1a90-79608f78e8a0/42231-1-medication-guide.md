@@ -94,7 +94,7 @@ Before taking SEROQUEL, tell your healthcare provider if you have or have had:
   You and your healthcare provider should decide if you will take SEROQUEL or breast-feed.
   You should not do both.
 
-Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, non-prescription medicines, herbal supplements and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, nonprescription medicines, herbal supplements and vitamins.
 
 SEROQUEL and other medicines may affect each other causing serious side effects.
 SEROQUEL may affect the way other medicines work, and other medicines may affect how SEROQUEL works.
@@ -283,7 +283,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35534–05
+SIC 35534–06
 
 Rev.
-1/2011
+3/2011

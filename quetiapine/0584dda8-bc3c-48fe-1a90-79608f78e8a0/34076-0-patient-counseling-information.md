@@ -34,7 +34,7 @@ Patients who are diagnosed with diabetes, those with risk factors for diabetes, 
 
 Hyperlipidemia
 
-Patients should be advised that elevations in total cholesterol, LDL— cholesterol and triglycerides and decreases in HDL-cholesterol may occur.
+Patients should be advised that elevations in total cholesterol, LDL–cholesterol and triglycerides and decreases in HDL-cholesterol may occur.
 Patients should have their lipid profile monitored at the beginning of and periodically during treatment [see Warnings and Precautions (5.5)].
 
 Weight Gain

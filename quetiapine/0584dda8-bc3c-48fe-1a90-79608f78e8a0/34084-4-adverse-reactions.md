@@ -450,7 +450,7 @@ Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyr
 
 ## 6.2 Vital Signs and Laboratory Values
 
-Hyperglycemia, hyperlipidemia, weight gain, orthostatic hypotension and changes in thyroid hormone level shave been reported with quetiapine.
+Hyperglycemia, hyperlipidemia, weight gain, orthostatic hypotension and changes in thyroid hormone levels have been reported with quetiapine.
 Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.13)].
 
 Neutrophil Counts
@@ -488,4 +488,4 @@ Adverse reactions reported since market introduction which were temporally relat
 
 Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 
-In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol) and somnambulism (and other related events) have been reported.
+In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), somnambulism (and other related events) and hypothermia have been reported.
