@@ -15,3 +15,8 @@ Such reactions may occur when these drugs are given concurrently or in close pro
 ## 4.3 Narrow Angle Glaucoma
 
 In clinical trials, STRATTERA use was associated with an increased risk of mydriasis and therefore its use is not recommended in patients with narrow angle glaucoma.
+
+## 4.4 Pheochromocytoma
+
+Serious reactions, including elevated blood pressure and tachyarrhythmia, have been reported in patients with pheochromocytoma or a history of pheochromocytoma who received STRATTERA.
+Therefore, STRATTERA should not be taken by patients with pheochromocytoma or a history of pheochromocytoma.

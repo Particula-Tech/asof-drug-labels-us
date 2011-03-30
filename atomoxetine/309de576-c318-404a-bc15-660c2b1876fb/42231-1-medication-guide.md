@@ -99,6 +99,7 @@ STRATTERA should not be taken if you or your child:
 - have an eye problem called narrow angle glaucoma
 - are allergic to anything in STRATTERA.
   See the end of this Medication Guide for a complete list of ingredients.
+- have or have had a rare tumor called pheochromocytoma.
 
 STRATTERA may not be right for you or your child.
 Before starting STRATTERA tell your doctor or your child's doctor about all health conditions (or a family history of) including:
@@ -229,13 +230,13 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised July 29, 2010
+Patient Information revised March 7, 2011
 
 Eli Lilly and Company Indianapolis, IN 46285, USA
 
 www.strattera.com
 
-Copyright © 2003, 2010, Eli Lilly and Company.
+Copyright © 2003, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 5855 AMP
+PV 5856 AMP
