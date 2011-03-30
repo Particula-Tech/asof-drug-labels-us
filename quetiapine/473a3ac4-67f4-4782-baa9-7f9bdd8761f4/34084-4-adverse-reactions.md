@@ -41,7 +41,7 @@ Adverse Reactions Occurring at an Incidence of 1% or More Among SEROQUEL XR Trea
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 1% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 11:Treatment-Emergent Adverse Reaction Incidence in 6- Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
+Table 11:Treatment-Emergent Adverse Reaction Incidence in 6-Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
 
 | Cardiac Disorders |  |  |
 | --- | --- | --- |
@@ -405,4 +405,4 @@ Adverse reactions reported since market introduction which were temporally relat
 
 Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 
-In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), dyspnea, palpitations and somnambulism (and other related events) have been reported.
+In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), dyspnea, palpitations, somnambulism (and other related events) and hypothermia have been reported.

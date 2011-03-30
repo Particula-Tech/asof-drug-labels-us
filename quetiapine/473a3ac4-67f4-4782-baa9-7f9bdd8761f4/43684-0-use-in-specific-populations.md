@@ -60,7 +60,7 @@ The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly pat
 
 ## 8.6 Renal Impairment
 
-Clinical experience with SEROQUEL XR in patients with renal impairment [see Clinical Pharmacology(12.3)] is limited.
+Clinical experience with SEROQUEL XR in patients with renal impairment [see Clinical Pharmacology (12.3)] is limited.
 
 ## 8.7 Hepatic Impairment
 
