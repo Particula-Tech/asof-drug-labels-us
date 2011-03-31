@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077917"
+  ],
+  "inn": "pravastatin",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "package_ndcs": [
+    "68180-485-02",
+    "68180-485-03",
+    "68180-485-09",
+    "68180-486-02",
+    "68180-486-03",
+    "68180-486-09",
+    "68180-487-02",
+    "68180-487-03",
+    "68180-487-09",
+    "68180-488-02",
+    "68180-488-03",
+    "68180-488-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pravastatin sodium",
+      "name": "PRAVASTATIN SODIUM"
+    }
+  ],
+  "setid": "1123d56c-16f0-4f81-b56f-67b1f343ae1e",
+  "source": "dailymed"
+}
