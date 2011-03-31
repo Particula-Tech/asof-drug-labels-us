@@ -24,9 +24,6 @@ The blind loop syndrome may produce deficiency of vitamin B12 or folate.
 V. Inadequate utilization of vitamin B12.
 This may occur if antimetabolites for the vitamin are employed in the treatment of neoplasia.
 
-It may be possible to treat the underlying disease by surgical correction of anatomic lesions leading to small bowel bacterial overgrowth, expulsion of fish tapeworm, discontinuation of drugs leading to vitamin malabsorption (see Drug/Laboratory Test Interactions), use of a gluten free diet in nontropical sprue, or administration of antibiotics in tropical sprue.
-Such measures remove the need for long-term administration of vitamin B12.
-
 Requirements of vitamin B12 in excess of normal (due to pregnancy, thyrotoxicosis, hemolytic anemia, hemorrhage, malignancy, hepatic and renal disease) can usually be met with intranasal or oral supplementation.
 
 Nascobal Nasal Spray is not suitable for vitamin B12 absorption test (Schilling Test).

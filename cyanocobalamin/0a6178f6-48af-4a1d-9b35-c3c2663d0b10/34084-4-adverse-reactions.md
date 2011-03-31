@@ -8,7 +8,7 @@ Adverse Experiences by Body System, Number of Patients and Number of Occurrences
 
 | Body System | Adverse Experience | Number of Patients (Occurrences) |  |
 | --- | --- | --- | --- |
-| Vitamin B12 Nasal Gel, 500 mcgN=24 | Intramuscular Vitamin B12, 100 mcgN=25 |  |  |
+| Vitamin B12 Nasal Gel, 500 mcg N=24 | Intramuscular Vitamin B12, 100 mcg N=25 |  |  |
 | Body as a Whole | Asthenia | 1 (1) | 4 (4) |
 | Back Pain | 0 (0) | 1 (1) |  |
 | Generalized Pain | 0 (0) | 2 (3) |  |
@@ -41,8 +41,6 @@ For the other reported adverse experiences, the relationship to study drug was j
 Of the adverse experiences judged to be of "possible" relationship to the study drug, anxiety, incoordination, and nervousness were reported following intramuscular vitamin B12 and headache, nausea, and rhinitis were reported following dosing with Nascobal (Cyanocobalamin, USP) Gel for Intranasal Administration.
 
 The following adverse reactions have been reported with parenteral vitamin B12:
-
-Generalized: Anaphylactic shock and death (see WARNINGS and PRECAUTIONS).
 
 Cardiovascular: Pulmonary edema and congestive heart failure early in treatment; peripheral vascular thrombosis.
 
