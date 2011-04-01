@@ -216,7 +216,10 @@ Note that caution should be exercised for persons with latex sensitivity, as the
 
 ## Laboratory Tests
 
-None.
+False-positive urine immunoassay screening tests for benzodiazepines have been reported in patients taking sertraline.
+This is due to lack of specificity of the screening tests.
+False-positive test results may be expected for several days following discontinuation of sertraline therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
 
 ## Drug Interactions
 
