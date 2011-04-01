@@ -37,33 +37,21 @@ No significant effect was seen with an MAO-B inhibitor (see CONTRAINDICATIONS, W
 
 ## Special Populations
 
-### Renal Impairment
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
 
-The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
-
-### Hepatic Impairment
-
-The liver plays an important role in the presystemic clearance of orally administered sumatriptan.
+Hepatic Impairment: The liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
 In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared to the healthy subjects (see DOSAGE AND ADMINISTRATION).
 
-### Age
+Age: The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
 
-The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
+Gender: In a study comparing females to males, no pharmacokinetic differences were observed between genders for AUC, Cmax, Tmax, and half-life.
 
-### Gender
-
-In a study comparing females to males, no pharmacokinetic differences were observed between genders for AUC, Cmax, Tmax, and half-life.
-
-### Race
-
-The systemic clearance and Cmax of sumatriptan were similar in black (N = 34) and Caucasian (N = 38) healthy male subjects.
+Race: The systemic clearance and Cmax of sumatriptan were similar in black (N = 34) and Caucasian (N = 38) healthy male subjects.
 
 ## Drug Interactions
 
-### Monoamine Oxidase Inhibitors
-
-Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS).
+Monoamine Oxidase Inhibitors: Treatment with MAO-A inhibitors generally leads to an increase of sumatriptan plasma levels (see CONTRAINDICATIONS and PRECAUTIONS).
 
 Due to gut and hepatic metabolic first-pass effects, the increase of systemic exposure after coadministration of an MAO-A inhibitor with oral sumatriptan is greater than after coadministration of the monoamine oxidase inhibitors (MAOI) with subcutaneous sumatriptan.
 In a study of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan.
@@ -72,6 +60,4 @@ This interaction was not evident with an MAO-B inhibitor.
 
 A small study evaluating the effect of pretreatment with an MAO-A inhibitor on the bioavailability from a 25-mg oral sumatriptan tablet resulted in an approximately 7-fold increase in systemic exposure.
 
-### Alcohol
-
-Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.
+Alcohol: Alcohol consumed 30 minutes prior to sumatriptan ingestion had no effect on the pharmacokinetics of sumatriptan.
