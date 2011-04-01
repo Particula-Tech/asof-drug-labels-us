@@ -1,6 +1,6 @@
 # WARNINGS
 
-Patients being treated with ETOPOPHOS (etoposide phosphate) must be frequently observed for myelosuppression both during and after therapy.
+Patients being treated with ETOPOPHOS must be frequently observed for myelosuppression both during and after therapy.
 Myelosuppression resulting in death has been reported following etoposide administration.
 Dose-limiting bone marrow suppression is the most significant toxicity associated with ETOPOPHOS therapy.
 Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of ETOPOPHOS: platelet count, hemoglobin, white blood cell count, and differential.
@@ -16,8 +16,8 @@ Treatment is symptomatic.
 The infusion should be terminated immediately, followed by the administration of pressor agents, corticosteroids, antihistamines, or volume expanders at the discretion of the physician.
 
 Injection site reactions may occur during the administration of ETOPOPHOS (see ADVERSE REACTIONS).
-Given the possibility of extravasation, it is recommended to closely monitor the infusion site for possible infiltration during drug administration.
-A specific treatment for extravasation reactions is unknown at this time.
+Closely monitor the infusion site for possible infiltration during drug administration.
+No specific treatment for extravasation reactions is known.
 
 ETOPOPHOS can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats, and it is therefore likely that ETOPOPHOS is also teratogenic.

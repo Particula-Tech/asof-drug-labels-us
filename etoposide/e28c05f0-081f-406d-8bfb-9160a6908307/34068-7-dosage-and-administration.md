@@ -8,8 +8,7 @@ Equivalent doses of ETOPOPHOS should be used.
 
 For recommended dosing adjustments in patients with renal impairment, see PRECAUTIONS.
 
-ETOPOPHOS is administered by slow intravenous infusion.
-ETOPOPHOS SHOULD NOT BE GIVEN BY RAPID INTRAVENOUS INJECTION.
+ETOPOPHOS SHOULD NOT BE GIVEN BY BOLUS INTRAVENOUS INJECTION.
 ETOPOPHOS solutions may be administered at infusion rates from 5 to 210 minutes.
 Chemotherapy courses are repeated at 3- to 4-week intervals after adequate recovery from any toxicity.
 

@@ -16,6 +16,4 @@ Procedures for proper handling and disposal of anticancer drugs should be utiliz
 Several guidelines on this subject have been published.1-4
 
 To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing ETOPOPHOS for Injection.
-If ETOPOPHOS for Injection contacts the skin, immediately wash the skin thoroughly with soap and water.
-If contact with mucous membranes occurs, the membranes should be flushed immediately and thoroughly with water.
 More information is available in the references listed below.
