@@ -174,13 +174,13 @@ Inactive ingredients: hydroxypropyl distarch phosphate (Contramid®), hypromello
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Labopharm Europe Limited
+Angelini Labopharm
 
 Unit 5, The Seapoint Building
 
 44/45 Clontarf Road, Dublin 3, IRELAND
 
-© 2010, Labopharm Europe Limited.
+© 2010, Angelini Labopharm.
 
 All rights reserved.
 
@@ -190,4 +190,4 @@ Oleptro™ is a trademark of Labopharm Inc.
 
 Contramid® is a registered trademark of Labopharm Inc.
 
-[June 2010]
+[December 2010]
