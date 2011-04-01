@@ -8,7 +8,7 @@ The usual dose of LEVAQUIN® Injection is 250 mg or 500 mg administered by slow 
 These recommendations apply to patients with creatinine clearance ≥ 50 mL/min.
 For patients with creatinine clearance <50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration (2.3)].
 
-Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearance ≥ 50mL/min)
+Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearance ≥ 50 mL/min)
 
 | Type of InfectionDue to the designated pathogens [see Indications and Usage (1)]. | Dosed Every 24 hours | Duration (days)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
 | --- | --- | --- |
@@ -21,10 +21,11 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7–14 |
 | Uncomplicated SSSI | 500 mg | 7–10 |
 | Chronic Bacterial Prostatitis | 500 mg | 28 |
-| Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP) This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia. | 750 mg | 5 |
+| Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia. | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli. | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of ageDrug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)]., The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. Pediatric patients < 50 kg and ≥ 6 months of age, | 500 mg see Table 2 below (2.2) | 60 60 |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of ageDrug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].,The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. | 500 mg | 60 |
+| Pediatric patients < 50 kg and ≥ 6 months of age, | see Table 2 below (2.2) | 60 |
 
 ## 2.2 Dosage in Pediatric Patients
 
@@ -34,7 +35,7 @@ Table 2: Dosage in Pediatric Patients ≥ 6 months of age
 
 | Type of InfectionDue to Bacillus anthracis [see Indications and Usage (1.13)] | Dose | Freq. Once every | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
 | --- | --- | --- | --- |
-| Inhalational Anthrax (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)],The safety of LEVAQUIN® in pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.9), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. |  |  |  |
+| Inhalational Anthrax (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)],The safety of LEVAQUIN® in pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. |  |  |  |
 | Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days |
 
@@ -91,7 +92,7 @@ Crystalluria and cylindruria have been reported with quinolones [see Adverse Rea
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Because only limited data are available on the compatibility of LEVAQUIN® Injection with other intravenous substances, additives or other medications should not be added to LEVAQUIN® Injection Premix in Single-Use Flexible Containers and LEVAQUIN® Injection in Single-Use Vials, or infused simultaneously through the same intravenous line.
-If the same intravenous line is used for sequential infusion of several different drugs, the line should be flushed before and after infusion of LEVAQUIN® Injection with an infusion solution compatible with LEVAQUIN® Injection and with any other drug(s) administered via this common line
+If the same intravenous line is used for sequential infusion of several different drugs, the line should be flushed before and after infusion of LEVAQUIN® Injection with an infusion solution compatible with LEVAQUIN® Injection and with any other drug(s) administered via this common line.
 
 LEVAQUIN® Injection in Single-Use Vials
 

@@ -63,12 +63,12 @@ ORTHO-McNEIL™ Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
 Rx only.
 
-Manufactured by: Janssen Pharmaceutica, N.V.
+Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
 Manufactured for: Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, New Jersey 08869
 
-PRINCIPAL DISPLAY PANEL - 50 mL Bag
+PRINCIPAL DISPLAY PANEL - 5 mg/mL Bag
 
 NDC 50458-167-01 DIN 02236839
 
@@ -76,14 +76,16 @@ TO OPEN - TEAR AT NOTCH
 
 One Unit
 
-LEVAQUIN® (Ievofloxacin in 5% dextrose) Injection For Intravenous Infusion 250 mg levofloxacin (5mg/mL) INFUSE OVER 60 MINUTES
+50 mL
+
+LEVAQUIN® (levofloxacin in 5% dextrose) Injection For Intravenous Infusion 250 mg levofloxacin (5 mg/mL) INFUSE OVER 60 MINUTES
 
 LEAVE BAG IN OVERWRAP UNTIL USE.
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
 Each 50 mL contains a dilute solution equivalent of 250 mg of levofloxacin (5 mg/mL) in 5% dextrose.
-May contain Hydrochloric Acid, NF and/or Sodium Hydroxide, NF for pH adjustment. pH range 3.8- 5.8.
+May contain Hydrochloric Acid, NF and/or Sodium Hydroxide, NF for pH adjustment. pH range 3.8 - 5.8.
 
 Usual Adult Dosage: See Insert.
 Recommended storage: At or below 25°C (77°F); however, brief exposure up to 40°C (104°F) does not adversely affect the product.

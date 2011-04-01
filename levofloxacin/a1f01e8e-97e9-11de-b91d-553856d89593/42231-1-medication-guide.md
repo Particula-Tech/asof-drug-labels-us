@@ -11,7 +11,7 @@ LEVAQUIN® can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take LEVAQUIN®.
 
-- Tendon rupture or swelling of the tendon (tendinitis)..
+- Tendon rupture or swelling of the tendon (tendinitis).
   - Tendons are tough cords of tissue that connect muscles to bones.
   - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including LEVAQUIN®.
     The risk of getting tendon problems is higher if you:
@@ -36,8 +36,11 @@ Talk with your healthcare provider about whether you should continue to take LEV
     - hear or feel a snap or pop in a tendon area
     - bruising right after an injury in a tendon area
     - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease that causes muscle weakness).
+  Fluoroquinolones like LEVAQUIN® may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-See the section "What are the possible side effects of LEVAQUIN®?" for more information about side effects
+See the section "What are the possible side effects of LEVAQUIN®?" for more information about side effects.
 
 What is LEVAQUIN®?
 
@@ -71,6 +74,7 @@ See "What is the most important information I should know about LEVAQUIN®?"
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called "QT prolongation."
@@ -98,7 +102,7 @@ Especially tell your healthcare provider if you take:
 - an oral anti-diabetes medicine or insulin
 - a blood thinner (warfarin, Coumadin, Jantoven)
 - a medicine to control your heart rate or rhythm (antiarrhythmics).
-  See "What are the possible side effects of LEVAQUIN®".
+  See "What are the possible side effects of LEVAQUIN®?".
 - an anti-psychotic medicine
 - a tricyclic antidepressant
 - a water pill (diuretic)
@@ -178,6 +182,7 @@ Other serious side effects of LEVAQUIN® include:
   - loss of appetite,
   - light colored bowel movements,
   - dark colored urine or yellowing of your skin or the whites of your eyes.
+
 - Central Nervous System Effects.
   Seizures have been reported in people who take fluoroquinolone antibiotics including LEVAQUIN®.
   Tell your healthcare provider if you have a history of seizures.
@@ -220,14 +225,14 @@ Other serious side effects of LEVAQUIN® include:
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 
 - Changes in sensation and possible nerve damage (Peripheral Neuropathy) Damage to the nerves in arms, hands, legs, or feet can happen in people taking fluoroquinolones, including LEVAQUIN®.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:.
+  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
   - pain
   - burning
   - tingling
   - numbness
   - weakness
 
-LEVAQUIN® may need to be stopped to prevent permanent nerve damage
+LEVAQUIN® may need to be stopped to prevent permanent nerve damage.
 
 - Serious heart rhythm changes (QT prolongation and torsades de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   LEVAQUIN® may cause a rare heart problem known as prolongation of the QT interval.
@@ -268,7 +273,7 @@ These are not all the possible side effects of LEVAQUIN®.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1 800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store LEVAQUIN®?
 
@@ -316,13 +321,13 @@ What are the ingredients in LEVAQUIN®?
   - Inactive ingredients: Dextrose (D5W).
     Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-Revised July 2009
+Revised January 2011
 
 Manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
 Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution, Injection Single-Use Vials).
-Hospira, Inc., Lake Forest, IL 60045 (Injection Premix).
+Hospira, Inc., Austin, TX 78728 (Injection Premix).
 
-Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 (Tablets, Oral Solution) Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 (Injection Single-Use Vials, Injection Premix)
+Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Tablets, Oral Solution) Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Injection Single-Use Vials, Injection Premix)
 
 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 

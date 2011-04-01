@@ -5,17 +5,18 @@
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
 - Tendon Effects [see Warnings and Precautions (5.1)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.3)]
-- Hepatotoxicity [see Warnings and Precautions (5.4)]
-- Central Nervous System Effects [see Warnings and Precautions (5.5)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.7)]
-- Prolongation of the QT Interval [see Warnings and Precautions (5.8)]
-- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.9)]
-- Blood Glucose Disturbances [see Warnings and Precautions (5.10)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.11)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.12)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.2)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.4)]
+- Hepatotoxicity [see Warnings and Precautions (5.5)]
+- Central Nervous System Effects [see Warnings and Precautions (5.6)]
+- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- Prolongation of the QT Interval [see Warnings and Precautions (5.9)]
+- Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.10)]
+- Blood Glucose Disturbances [see Warnings and Precautions (5.11)]
+- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.12)]
+- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.13)]
 
 Hypotension has been associated with rapid or bolus intravenous infusion of LEVAQUIN®.
 LEVAQUIN® should be infused slowly over 60 to 90 minutes, depending on dosage [see Dosage and Administration (2.5)].
@@ -46,16 +47,16 @@ Table 6: Common (≥1%) Adverse Reactions Reported in Clinical Trials with LEVAQ
 | System/Organ Class | Adverse Reaction | % (N=7537) |
 | --- | --- | --- |
 | Infections and Infestations | moniliasis | 1 |
-| Psychiatric Disorders | insomniaN=7274 [see Warnings and Precautions (5.5)] | 4 |
-| Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.5)] | 6 3 |
-| Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.2)] | 1 |
+| Psychiatric Disorders | insomniaN=7274 [see Warnings and Precautions (5.6)] | 4 |
+| Nervous System Disorders | headache dizziness [see Warnings and Precautions (5.6)] | 6 3 |
+| Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warnings and Precautions (5.3)] | 1 |
 | Gastrointestinal Disorders | nausea | 7 |
 | diarrhea | 5 |  |
 | constipation | 3 |  |
 | abdominal pain | 2 |  |
 | vomiting | 2 |  |
 | dyspepsia | 2 |  |
-| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.2)] pruritus | 2 1 |
+| Skin and Subcutaneous Tissue Disorders | rash [see Warnings and Precautions (5.3)] pruritus | 2 1 |
 | Reproductive System and Breast Disorders | vaginitis | 1N=3758 (women) |
 | General Disorders and Administration Site Conditions | edema | 1 |
 | injection site reaction | 1 |  |
@@ -66,19 +67,19 @@ Table 7: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
 | Infections and Infestations | genital moniliasis |
-| Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.3)] |
-| Immune System Disorders | allergic reaction [See Warnings and Precautions (5.2,5.3)] |
-| Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.10)] hyperkalemia |
-| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmareN = 7274 [see Warnings and Precautions (5.5)] sleep disorder anorexia abnormal dreaming |
-| Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.5)] paresthesia [see Warnings and Precautions (5.7)] vertigo hypertonia hyperkinesias abnormal gait somnolence syncope |
+| Blood and Lymphatic System Disorders | anemia thrombocytopenia granulocytopenia [see Warnings and Precautions (5.4)] |
+| Immune System Disorders | allergic reaction [See Warnings and Precautions (5.3,5.4)] |
+| Metabolism and Nutrition Disorders | hyperglycemia hypoglycemia [see Warnings and Precautions (5.11)] hyperkalemia |
+| Psychiatric Disorders | anxiety agitation confusion depression hallucination nightmareN = 7274 [see Warnings and Precautions (5.6)] sleep disorder anorexia abnormal dreaming |
+| Nervous System Disorders | tremor convulsions [see Warnings and Precautions (5.6)] paresthesia [see Warnings and Precautions (5.8)] vertigo hypertonia hyperkinesias abnormal gait somnolence syncope |
 | Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
 | Cardiac Disorders | cardiac arrest palpitation ventricular tachycardia ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-| Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembraneous/ C. difficile colitis [see Warnings and Precautions (5.6)] |
+| Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembraneous/ C. difficile colitis [see Warnings and Precautions (5.7)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
-| Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.2)] |
+| Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.3)] |
 | Musculoskeletal and Connective Tissue Disorders | arthralgia tendonitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
-| Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.3)] |
+| Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.4)] |
 
 In clinical trials using multiple-dose therapy, ophthalmologic abnormalities, including cataracts and multiple punctate lenticular opacities, have been noted in patients undergoing treatment with quinolones, including LEVAQUIN®.
 The relationship of the drugs to these events is not presently established.
@@ -92,18 +93,18 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.3)] eosinophilia |
-| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.2,5.3)] |
-| Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.5)] |
-| Nervous System Disorders | anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.7)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia |
+| Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.4)] eosinophilia |
+| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3,5.4)] |
+| Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
-| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.8)] tachycardia |
+| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |
-| Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.3)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.3),(5.4)] |
-| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.3)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.11)] leukocytoclastic vasculitis |
+| Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.4)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.4),(5.5)] |
+| Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.4)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
-| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.3)]. |
+| Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.4)]. |
 | General Disorders and Administration Site Conditions | multi-organ failure pyrexia |
 | Investigations | prothrombin time prolonged international normalized ratio prolonged muscle enzymes increased |

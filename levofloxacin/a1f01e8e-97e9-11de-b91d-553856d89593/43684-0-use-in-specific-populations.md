@@ -17,7 +17,7 @@ Because of the potential for serious adverse reactions from LEVAQUIN® in nursin
 ## 8.4 Pediatric Use
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species.
-[see Warnings and Precautions (5.9) and Animal Toxicology and/or Pharmacology (13.2)].
+[see Warnings and Precautions (5.10) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Inhalational Anthrax (Post-Exposure)
 
@@ -66,10 +66,10 @@ No overall differences in safety or effectiveness were observed between these su
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with LEVAQUIN®.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.4)].
+LEVAQUIN® should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.5)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.8)].
+Therefore, precaution should be taken when using LEVAQUIN® with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.9)].
 
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.

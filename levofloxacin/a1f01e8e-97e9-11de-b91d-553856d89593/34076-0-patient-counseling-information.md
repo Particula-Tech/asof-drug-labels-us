@@ -25,6 +25,8 @@ Patients should be informed of the following serious adverse reactions that have
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue LEVAQUIN® treatment.
   The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- Exacerbation of myasthenia gravis: patients should inform their physician of any history of myasthenia gravis.
+  Patients should notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 - Hypersensitivity Reactions: Patients should be informed that LEVAQUIN® can cause hypersensitivity reactions, even following the first dose.
   Patients should discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (e.g., swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
 - Hepatotoxicity: Severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking LEVAQUIN®.
@@ -39,7 +41,7 @@ Patients should be informed of the following serious adverse reactions that have
 - Prolongation of the QT Interval: Patients should inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Patients should notify their physicians if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Parents should inform their child's physician if their child has a history of joint-related problems before taking this drug.
-  Parents of pediatric patients should also notify their child's physician of any tendon or joint-related problems that occur during or following LEVAQUIN® therapy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.4)].
+  Parents of pediatric patients should also notify their child's physician of any tendon or joint-related problems that occur during or following LEVAQUIN® therapy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.4)].
 - Photosensitivity/Phototoxicity: Patients should be advised that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolone antibiotics.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking fluoroquinolones.
   If patients need to be outdoors when taking fluoroquinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
@@ -56,17 +58,17 @@ Manufactured by:
 
 - Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (for the Tablets).
 - Janssen Pharmaceutica N.V., Beerse, Belgium (for the Oral Solution and Injection, Single-Use Vials).
-- Hospira, Inc., Lake Forest, IL 60045 (for the Injection Pre-Mixed Solution Single-Use in Flexible Container).
+- Hospira, Inc., Austin, TX 78728 (for the Injection Pre-Mixed Solution Single-Use in Flexible Container).
 
 Manufactured for:
 
-- PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 (for the Tablets and Oral Solution)
-- Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 (for the Injection, Single-Use Vials and Injection Pre-Mixed Solution Single-Use in Flexible Container)
+- PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (for the Tablets and Oral Solution)
+- Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (for the Injection, Single-Use Vials and Injection Pre-Mixed Solution Single-Use in Flexible Container)
 
-©Ortho-McNeil-Janssen Pharmaceuticals, Inc
+©Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
 U.S. Patent No. 5,053,407.
 
-Issued July 2009
+Issued January 2011
 
 ## 17.5 FDA-Approved Medication Guide

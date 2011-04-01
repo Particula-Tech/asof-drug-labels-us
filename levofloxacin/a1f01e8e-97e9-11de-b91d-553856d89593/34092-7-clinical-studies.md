@@ -45,17 +45,17 @@ Table 14: Microbiologic Eradication Rates Across 2 Community Acquired Pneumonia 
 
 | Pathogen | No. Pathogens | Microbiologic Eradication Rate (%) |
 | --- | --- | --- |
-| H. influenza | 55 | 98 |
-| S. pneumonia | 83 | 95 |
+| H. influenzae | 55 | 98 |
+| S. pneumoniae | 83 | 95 |
 | S. aureus | 17 | 88 |
 | M. catarrhalis | 18 | 94 |
 | H. parainfluenzae | 19 | 95 |
-| K. pneumonia | 10 | 100.0 |
+| K. pneumoniae | 10 | 100.0 |
 
 Community-Acquired Pneumonia Due to Multi-Drug Resistant Streptococcus pneumoniae
 
 LEVAQUIN® was effective for the treatment of community-acquired pneumonia caused by multi-drug resistant Streptococcus pneumoniae (MDRSP).
-MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/ml), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
+MDRSP isolates are strains resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins (e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole).
 Of 40 microbiologically evaluable patients with MDRSP isolates, 38 patients (95.0%) achieved clinical and bacteriologic success at post-therapy.
 The clinical and bacterial success rates are shown in Table 15.
 
@@ -95,12 +95,12 @@ The microbiological efficacy of the 5-day regimen was documented for infections 
 
 Table 17: Microbiological Eradication Rates (Community-Acquired Pneumonia)
 
-| Penicillin susceptible S. pneumonia | 19/20 |
+| Penicillin susceptible S. pneumonae | 19/20 |
 | --- | --- |
-| Haemophilus influenza | 12/12 |
+| Haemophilus influenzae | 12/12 |
 | Haemophilus parainfluenzae | 10/10 |
-| Mycoplasma pneumonia | 26/27 |
-| Chlamydophila pneumonia | 13/15 |
+| Mycoplasma pneumoniae | 26/27 |
+| Chlamydophila pneumoniae | 13/15 |
 
 ## 14.4 Acute Bacterial Sinusitis: 5-day and 10–14 day Treatment Regimens
 
@@ -219,7 +219,7 @@ Prolonged LEVAQUIN® therapy in adults should only be used when the benefit outw
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
 An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendonopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
-Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
+Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.10), Use in Specific Populations (8.4)].
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 × 106) spores (range 17 – 118 LD50) of B. anthracis (Ames strain) was conducted.
 The minimal inhibitory concentration (MIC) of levofloxacin for the anthrax strain used in this study was 0.125 mcg/mL.

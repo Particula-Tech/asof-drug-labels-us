@@ -8,18 +8,16 @@ LEVAQUIN® Tablets are packaged in bottles and in unit-dose blister strips in th
 - 250 mg tablets are terra cotta pink and are imprinted: "LEVAQUIN" on one side and "250" on the other side.
   - –bottles of 50 (NDC 50458-920-50)
   - –unit-dose/100 tablets (NDC 50458-920-10)
-
 - 500 mg tablets are peach and are imprinted: "LEVAQUIN" on one side and "500" on the other side
   - –bottles of 50 (NDC 50458-925-50)
   - –unit-dose/100 tablets (NDC 50458-925-10)
-
 - 750 mg tablets are white and are imprinted "LEVAQUIN" on one side and "750" on the other side
   - –bottles of 20 (NDC 50458-930-20)
   - –unit-dose/100 tablets (NDC 50458-930-10)
 
 LEVAQUIN® Tablets should be stored at 15° to 30°C (59° to 86°F) in well-closed containers.
 
-LEVAQUIN® Tablets are manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Janssen Ortho LLC, Gurabo, Puerto Rico 00778.
+LEVAQUIN® Tablets are manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 by Janssen Ortho LLC, Gurabo, Puerto Rico 00778.
 
 ## 16.2 LEVAQUIN® Oral Solution
 
@@ -28,7 +26,7 @@ Each bottle contains 480 mL of the 25 mg/mL levofloxacin oral solution
 
 LEVAQUIN® Oral Solution should be stored at 25°C (77°F); excursions permitted to 15° – 30°C (59° to 86°F) [refer to USP controlled room temperature].
 
-LEVAQUIN® Oral Solution is manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Janssen Pharmaceutica N.V, Beerse, Belgium.
+LEVAQUIN® Oral Solution is manufactured for PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 by Janssen Pharmaceutica N.V., Beerse, Belgium.
 
 ## 16.3 LEVAQUIN® Injection, Single-Use Vials
 
@@ -40,7 +38,7 @@ Each vial contains a concentrated solution with the equivalent of 500 mg of levo
 
 LEVAQUIN® Injection in Single-Use Vials should be stored at controlled room temperature and protected from light.
 
-LEVAQUIN® Injection in Single-Use Vials is manufactured for Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Janssen Pharmaceutica N.V., Beerse, Belgium.
+LEVAQUIN® Injection in Single-Use Vials is manufactured for Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 by Janssen Pharmaceutica N.V., Beerse, Belgium.
 
 ## 16.4 LEVAQUIN® Injection Pre-Mixed Solution, Single-Use in Flexible Container
 
@@ -53,4 +51,4 @@ Each bag contains a dilute solution with the equivalent of 250, 500, or 750 mg o
 
 LEVAQUIN® Injection Premix in Flexible Containers should be stored at or below 25°C (77°F); however, brief exposure up to 40°C (104°F) does not adversely affect the product.
 Avoid excessive heat and protect from freezing and light.
-LEVAQUIN® Injection Premix in Flexible Containers is manufactured for Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869 by Hospira, Inc., Lake Forest, IL 60045.
+LEVAQUIN® Injection Premix in Flexible Containers is manufactured for Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 by Hospira, Inc., Austin, TX 78728.
