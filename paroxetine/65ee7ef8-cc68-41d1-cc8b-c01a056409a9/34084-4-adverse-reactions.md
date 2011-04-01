@@ -106,7 +106,7 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 | Special Senses | Blurred Vision | 4% | 1% |
 |  | Taste Perversion | 2% | 0% |
 | Urogenital System | Ejaculatory Disturbance c,d | 13% | 0% |
-|  | Other Male Genital Disordersc,d | 10% | 0% |
+|  | Other Male Genital Disordersc,e | 10% | 0% |
 |  | Urinary Frequency | 3% | 1% |
 |  | Urination Disorderf | 3% | 0% |
 |  | Female Genital Disordersc,g | 2% | 0% |
@@ -233,10 +233,10 @@ b. Percentage corrected for gender.
 
 ### Dose Dependency of Adverse Events
 
-A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of PAXIL with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of PAXIL, as shown inTable 5:
+A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of PAXIL with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of PAXIL, as shown in Table 5:
 
 Table 5.
-Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive Disordea
+Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive Disordera
 
 | Body System/Preferred Term | Placebo | PAXIL |  |  |  |
 | --- | --- | --- | --- | --- | --- |

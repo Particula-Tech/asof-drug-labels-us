@@ -24,10 +24,19 @@ Store tablets between 15° and 30°C (59° and 86°F).
 
 ## Oral Suspension
 
-Orange-colored, orange-flavored, 10 mg/5 mL, in 250 mL white bottles.
+Orange-colored, orange-flavored, 10 mg/5 mL, in white bottles containing 250 mL.
 
 NDC 0029-3215-48
 
 Store suspension at or below 25°C (77°F).
 
 PAXIL is a registered trademark of GlaxoSmithKline.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2011, GlaxoSmithKline.
+All rights reserved.
+
+March 2011 PXL:58PI
