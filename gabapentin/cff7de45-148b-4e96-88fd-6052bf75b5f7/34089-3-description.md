@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Gabapentin Capsules and Gabapentin Tablets supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin and elliptical film-coated tablets containing 600 mg and 800 mg of gabapentin.
+Gabapentin Capsules, Gabapentin Tablets, and Gabapentin Oral Solution are supplied as imprinted hard shell capsules containing 100 mg, 300 mg, and 400 mg of gabapentin, elliptical film-coated tablets containing 600 mg and 800 mg of gabapentin or an oral solution containing 250 mg/5 mL of gabapentin.
 
 The inactive ingredients for the capsules are lactose, cornstarch, and talc.
 The 100 mg capsule shell contains gelatin and titanium dioxide.
@@ -9,6 +9,8 @@ The 400 mg capsule shell contains gelatin, red iron oxide, titanium dioxide, and
 The imprinting ink contains FD&C Blue No. 2 and titanium dioxide.
 
 The inactive ingredients for the tablets are poloxamer 407, copolyvidonum, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax and purified water.
+
+The inactive ingredients for the oral solution are glycerin, xylitol, purified water and artificial cool strawberry anise flavor.
 
 Gabapentin is described as 1-(aminomethyl)cyclohexaneacetic acid with a molecular formula of C9H17NO2 and a molecular weight of 171.24.
 The structural formula of gabapentin is:

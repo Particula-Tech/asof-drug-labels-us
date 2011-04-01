@@ -2,7 +2,7 @@
 
 Gabapentin
 
-Capsules and Tablets
+Capsules, Tablets, and Oral Solution
 
 Read the Medication Guide before you start taking GABAPENTIN and each time you get a refill.
 There may be new information.
@@ -11,14 +11,12 @@ This information does not take the place of talking to your healthcare provider 
 What is the most important information I should know about GABAPENTIN?
 
 Do not stop taking GABAPENTIN without first talking to your healthcare provider.
+
 Stopping GABAPENTIN suddenly can cause serious problems.
 
 GABAPENTIN can cause serious side effects including:
 
-- 1.Like other antiepileptic drugs, GABAPENTIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
-  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Do not stop taking GABAPENTIN without first talking to a healthcare provider.
-  Suicidal thoughts or actions can be caused by things other than medicines.
+- 1.Like other antiepileptic drugs, GABAPENTIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.Do not stop taking GABAPENTIN without first talking to a healthcare provider.Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
   - thoughts about suicide or dying
   - attempts to commit suicide
@@ -98,19 +96,7 @@ What are the possible side effects of GABAPENTIN?
 
 - See "What is the most important information I should know about GABAPENTIN?"
 - The most common side effects of GABAPENTIN include:
-  - dizziness
-  - lack of coordination
-  - viral infection
-  - feeling drowsy
-  - feeling tired
-  - fever
-  - jerky movements
-  - difficulty with speaking
-  - temporary loss of memory (amnesia)
-  - tremor
-  - difficulty with coordination
-  - double vision
-  - unusual eye movement
+  - dizzinesslack of coordinationviral infectionfeeling drowsyfeeling tiredfeverjerky movements difficulty with speakingtemporary loss of memory (amnesia)tremordifficulty with coordinationdouble visionunusual eye movement
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -124,6 +110,7 @@ How should I store GABAPENTIN?
 
 - Store GABAPENTIN Capsules between 59°F to 86°F (15°C to 30°C).
 - Store GABAPENTIN Tablets between 59°F to 86°F (15°C to 30°C).
+- Store GABAPENTIN Oral Solution in the refrigerator between 36°F to 46°F (2°C to 8°C).
 
 Keep GABAPENTIN and all medicines out of the reach of children.
 
@@ -155,6 +142,8 @@ The imprinting ink contains FD&C Blue No. 2 and titanium dioxide.
 
 Inactive ingredients in the tablets: poloxamer 407, copolyvidonum, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax, and purified water.
 
+Inactive ingredients in the oral solution: glycerin, xylitol, purified water, and artificial flavor.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0437-1.0
+LAB-0437-2.0 March 2011

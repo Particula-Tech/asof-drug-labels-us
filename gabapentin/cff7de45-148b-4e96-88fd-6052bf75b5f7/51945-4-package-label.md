@@ -57,3 +57,17 @@ gabapentin tablets
 800 mg
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 470 mL Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-5025-1 470 mL
+
+GREENSTONE® BRAND
+
+gabapentin oral solution
+
+250 mg / 5 mL
+
+Rx only

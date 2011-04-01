@@ -1,13 +1,15 @@
 {
   "application_numbers": [
     "NDA020235",
-    "NDA020882"
+    "NDA020882",
+    "NDA021129"
   ],
   "inn": "gabapentin",
   "labeler": "Greenstone LLC",
   "package_ndcs": [
     "59762-5023-1",
     "59762-5024-1",
+    "59762-5025-1",
     "59762-5026-1",
     "59762-5027-1",
     "59762-5027-2",
@@ -17,12 +19,17 @@
     {
       "form": "CAPSULE",
       "generic": "gabapentin",
-      "name": "Gabapentin"
+      "name": "GABAPENTIN"
+    },
+    {
+      "form": "SUSPENSION",
+      "generic": "gabapentin",
+      "name": "GABAPENTIN"
     },
     {
       "form": "TABLET, FILM COATED",
       "generic": "gabapentin",
-      "name": "Gabapentin"
+      "name": "GABAPENTIN"
     }
   ],
   "setid": "cff7de45-148b-4e96-88fd-6052bf75b5f7",
