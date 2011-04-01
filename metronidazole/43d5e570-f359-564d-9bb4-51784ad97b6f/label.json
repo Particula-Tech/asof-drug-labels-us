@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020531"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-3836-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "metronidazole",
+      "name": "MetroCream"
+    }
+  ],
+  "setid": "43d5e570-f359-564d-9bb4-51784ad97b6f",
+  "source": "dailymed"
+}
