@@ -18,7 +18,7 @@ Similar considerations may apply to patients with ischemic heart or cerebrovascu
 If hypotension occurs, the patient should be placed in the supine position and, if necessary, receive an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further doses, which usually can be given without difficulty once the blood pressure has increased after volume expansion.
 
-#### Anaphylactoid and Possibly Related Reactions:
+Anaphylactoid and Possibly Related Reactions:
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including VASERETIC) may be subject to a variety of adverse reactions, some of them serious.
 
@@ -64,6 +64,15 @@ Sensitivity reactions may occur in patients with or without a history of allergy
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
 
 Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Enalapril Maleate and Hydrochlorothiazide).
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 ### Pregnancy
 

@@ -2,15 +2,13 @@ Rx Only
 
 Vaseretic® is a registered trademark of Biovail Laboratories International SRL.
 
-Manufactured by: Merck Sharp & Dohme Ltd. Cramlington, Northumberland UK NE23 3JU
+Manufactured in Canada by: Biovail Corporation Mississauga, ON Canada L5N 8M5
 
-For: BTA Pharmaceuticals, Inc. Bridgewater, NJ 08807, USA
-
-Tablets made in the United Kingdom.
+For: BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807, USA
 
 BIOVAIL®
 
 Rev.
-03/08
+01/2011
 
-LB0027-05
+LB0083-01
