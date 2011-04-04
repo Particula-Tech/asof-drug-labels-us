@@ -180,7 +180,7 @@ Table 7: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjuncti
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
-The following findings are based on one 6-week placebo-controlled trial in which oral aripiprazole was administered in doses ranging from 2 mg/day to 30 mg/day.
+The following findings are based on one 6-week, placebo-controlled trial in which oral aripiprazole was administered in doses ranging from 2 mg/day to 30 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
@@ -192,7 +192,7 @@ Commonly observed adverse reactions associated with the use of aripiprazole in a
 
 Pediatric Patients (10 to 17 years) with Bipolar Mania
 
-The following findings are based on one 4-week placebo-controlled trial in which oral aripiprazole was administered in doses of 10 mg/day or 30 mg/day.
+The following findings are based on one 4-week, placebo-controlled trial in which oral aripiprazole was administered in doses of 10 mg/day or 30 mg/day.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
@@ -464,7 +464,8 @@ Similarly, there were no aripiprazole/placebo differences in the incidence of di
 In the 6-week trials of aripiprazole as adjunctive therapy for major depressive disorder, there were no clinically important differences between the adjunctive aripiprazole-treated and adjunctive placebo-treated patients in the median change from baseline in prolactin, fasting glucose, HDL, LDL, or total cholesterol measurements.
 The median % change from baseline in triglycerides was 5% for adjunctive aripiprazole-treated patients vs. 0% for adjunctive placebo-treated patients.
 
-In a long-term (26-week), placebo-controlled trial, there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, or total cholesterol measurements.
+In a long-term (26-week), placebo-controlled trial in schizophrenia, there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, or total cholesterol measurements.
+A similar profile was observed in long-term clinical trials of patients with bipolar disorder.
 
 Weight Gain
 
@@ -518,7 +519,7 @@ The adverse reactions reported in a 26-week, double-blind trial comparing oral A
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor infrequently led to discontinuation (<1%) of ABILIFY.
 In addition, in a long-term (52-week), active-controlled study, the incidence of tremor was 5% (40/859) for ABILIFY.
-A similar profile was observed in a long-term study in bipolar disorder.
+A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Aripiprazole
 

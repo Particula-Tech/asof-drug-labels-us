@@ -49,9 +49,11 @@ Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydro
 Aripiprazole is the predominant drug moiety in the systemic circulation.
 At steady-state, dehydro-aripiprazole, the active metabolite, represents about 40% of aripiprazole AUC in plasma.
 
-Approximately 8% of Caucasians lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PM), whereas the rest are extensive metabolizers (EM).
+Approximately 8% of Caucasians and 3–8% of Black/African Americans lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PM), whereas the rest are extensive metabolizers (EM).
 PMs have about an 80% increase in aripiprazole exposure and about a 30% decrease in exposure to the active metabolite compared to EMs, resulting in about a 60% higher exposure to the total active moieties from a given dose of aripiprazole compared to EMs.
 Coadministration of ABILIFY with known inhibitors of CYP2D6, such as quinidine or fluoxetine in EMs, approximately doubles aripiprazole plasma exposure, and dose adjustment is needed [see DRUG INTERACTIONS (7.1)].
+Similarly, PMs have higher exposure to aripiprazole compared to EMs; hence, PMs should have their initial dose reduced by one-half.
+Laboratory tests are available to identify CYP2D6 PMs.
 The mean elimination half-lives are about 75 hours and 146 hours for aripiprazole in EMs and PMs, respectively.
 Aripiprazole does not inhibit or induce the CYP2D6 pathway.
 

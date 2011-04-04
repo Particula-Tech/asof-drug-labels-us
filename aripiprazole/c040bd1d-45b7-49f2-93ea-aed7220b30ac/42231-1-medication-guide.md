@@ -262,6 +262,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A9 03US10L-1018C Rev December 2010
+1287307A1 03US11L-0137C Rev February 2011
 
-© 2010, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+©2011, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

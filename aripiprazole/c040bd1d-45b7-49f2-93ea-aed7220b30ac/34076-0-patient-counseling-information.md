@@ -15,11 +15,11 @@ Clinical Worsening of Depression and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ABILIFY and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
+A patient Medication Guide including information about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for ABILIFY.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that ABILIFY is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
@@ -78,6 +78,6 @@ Marketed by Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1239550A9 03US10L-1018 Rev December 2010
+1287307A1 03US11L-0137 Rev February 2011
 
-© 2010, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+©2011, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

@@ -42,11 +42,13 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 
 ## 14.2 Bipolar Disorder
 
-Monotherapy
+Acute Treatment of Manic and Mixed Episodes
 
 Adults
 
-The efficacy of ABILIFY in the acute treatment of manic episodes was established in four 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
+Monotherapy
+
+The efficacy of ABILIFY as monotherapy in the acute treatment of manic episodes was established in four 3-week, placebo-controlled trials in hospitalized patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
 These studies included patients with or without psychotic features and two of the studies also included patients with or without a rapid-cycling course.
 
 The primary instrument used for assessing manic symptoms was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
@@ -55,23 +57,6 @@ A key secondary instrument included the Clinical Global Impression - Bipolar (CG
 In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=485) which evaluated ABILIFY in a range of 15 mg to 30 mg, once daily (with a starting dose of 15 mg/day in two studies and 30 mg/day in two studies), ABILIFY was superior to placebo in the reduction of Y-MRS total score and CGI-BP Severity of Illness score (mania).
 In the two studies with a starting dose of 15 mg/day, 48% and 44% of patients were on 15 mg/day at endpoint.
 In the two studies with a starting dose of 30 mg/day, 86% and 85% of patients were on 30 mg/day at endpoint.
-
-A trial was conducted in patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode who had been stabilized on open-label ABILIFY and who had maintained a clinical response for at least 6 weeks.
-The first phase of this trial was an open-label stabilization period in which inpatients and outpatients were clinically stabilized and then maintained on open-label ABILIFY (15 mg/day or 30 mg/day, with a starting dose of 30 mg/day) for at least 6 consecutive weeks.
-One hundred sixty-one outpatients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization and maintenance period or placebo and were then monitored for manic or depressive relapse.
-During the randomization phase, ABILIFY was superior to placebo on time to the number of combined affective relapses (manic plus depressive), the primary outcome measure for this study.
-The majority of these relapses were due to manic rather than depressive symptoms.
-There is insufficient data to know whether ABILIFY is effective in delaying the time to occurrence of depression in patients with bipolar I disorder.
-
-An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
-
-Pediatric Patients
-
-The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
-This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
-The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
-Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
-Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 Adjunctive Therapy
 
@@ -83,7 +68,44 @@ At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total s
 In the 6-week, placebo-controlled phase, adjunctive ABILIFY starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 mEq/L to 1.0 mEq/L or 50 μg/mL to 125 μg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium were on 15 mg/day at 6-week endpoint.
 
-Although the efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated, such efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Pediatric Patients
+
+The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
+The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
+Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
+
+Maintenance Treatment of Bipolar I Disorder
+
+Monotherapy Maintenance Therapy
+
+A maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode who had been stabilized on open-label ABILIFY and who had maintained a clinical response for at least 6 weeks.
+The first phase of this trial was an open-label stabilization period in which inpatients and outpatients were clinically stabilized and then maintained on open-label ABILIFY (15 mg/day or 30 mg/day, with a starting dose of 30 mg/day) for at least 6 consecutive weeks.
+One hundred sixty-one outpatients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization and maintenance period or placebo and were then monitored for manic or depressive relapse.
+During the randomization phase, ABILIFY was superior to placebo on time to the number of combined affective relapses (manic plus depressive), the primary outcome measure for this study.
+A total of 55 mood events were observed during the double-blind treatment phase.
+Nineteen were from the ABILIFY group and 36 were from the placebo group.
+The number of observed manic episodes in the ABILIFY group (6) were fewer than that in the placebo group (19), while the number of depressive episodes in the ABILIFY group (9) was similar to that in the placebo group (11).
+
+An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
+
+Adjunctive Maintenance Therapy
+
+An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode.
+Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 μg/mL to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
+Prior to randomization, patients on the combination of single-blind aripiprazole and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
+Three hundred and thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
+ABILIFY was superior to placebo on the primary endpoint, time from randomization to relapse to any mood event.
+A mood event was defined as hospitalization for a manic, mixed or depressive episode, study discontinuation due to lack of efficacy accompanied by Y-MRS score >16 and/or a MADRS >16, or an SAE of worsening disease accompanied by Y-MRS score >16 and/or a MADRS >16.
+A total of 68 mood events were observed during the double-blind treatment phase.
+Twenty-five were from the ABILIFY group and 43 were from the placebo group.
+The number of observed manic episodes in the ABILIFY group (7) were fewer than that in the placebo group (19), while the number of depressive episodes in the ABILIFY group (14) was similar to that in the placebo group (18).
+The Kaplan-Meier curves of the time from randomization to relapse to any mood event during the 52-week double-blind treatment phase for ABILIFY and placebo groups are shown in Figure 1.
+
+Figure 1: Kaplan-Meier Estimation of Proportion of Relapses to Any Mood Event for ABILIFY and Placebo Groups
+
+An examination of population subgroups did not reveal any clear evidence of differential responsiveness on the basis of age and gender; however, there were insufficient numbers of patients in each of the ethnic groups to adequately assess inter-group differences.
 
 ## 14.3 Adjunctive Treatment of Major Depressive Disorder
 

@@ -8,16 +8,16 @@ Maintenance efficacy was demonstrated in one trial in adults and can be extrapol
 
 ## 1.2 Bipolar I Disorder
 
-Monotherapy
+Acute Treatment of Manic and Mixed Episodes
 
-ABILIFY is indicated for the acute and maintenance treatment of manic and mixed episodes associated with bipolar I disorder.
-Efficacy was established in four 3-week monotherapy trials in adults and one 4-week monotherapy trial in pediatric patients (10 to 17 years).
-Maintenance efficacy was demonstrated in a monotherapy trial in adults and can be extrapolated to pediatric patients (10 to 17 years) [see CLINICAL STUDIES (14.2)].
+ABILIFY is indicated for the acute treatment of manic and mixed episodes associated with bipolar I disorder, both as monotherapy and as an adjunct to lithium or valproate.
+Efficacy as monotherapy was established in four 3-week monotherapy trials in adults and one 4-week monotherapy trial in pediatric patients (10 to 17 years).
+Efficacy as adjunctive therapy was established in one 6-week adjunctive trial in adults [see CLINICAL STUDIES (14.2)].
 
-Adjunctive Therapy
+Maintenance Treatment of Bipolar I Disorder
 
-ABILIFY is indicated as an adjunctive therapy to either lithium or valproate for the acute treatment of manic and mixed episodes associated with bipolar I disorder.
-Efficacy was established in one 6-week adjunctive trial in adults and can be extrapolated to pediatric patients (10 to 17 years) [see CLINICAL STUDIES (14.2)].
+ABILIFY is indicated for the maintenance treatment of bipolar I disorder, both as monotherapy and as an adjunct to either lithium or valproate.
+Maintenance efficacy was demonstrated in one monotherapy maintenance trial and in one adjunctive maintenance trial in adults [see CLINICAL STUDIES (14.2)].
 
 ## 1.3 Adjunctive Treatment of Major Depressive Disorder
 
