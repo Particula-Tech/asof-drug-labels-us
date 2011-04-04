@@ -1,0 +1,7 @@
+FOR INTRAVENOUS USE ONLY
+
+Rx only
+
+LAB-0073-8.0
+
+April 2010

@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA050629"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-3030-20",
+    "0069-3031-20",
+    "0069-3032-20",
+    "0069-3033-20",
+    "0069-3034-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "doxorubicin hydrochloride",
+      "name": "Doxorubicin Hydrochloride"
+    }
+  ],
+  "setid": "1fd148fb-0fbc-4b6f-b790-23546fb46a71",
+  "source": "dailymed"
+}
