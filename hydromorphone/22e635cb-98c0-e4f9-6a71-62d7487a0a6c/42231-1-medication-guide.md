@@ -1,6 +1,6 @@
 # 17.10 FDA-Approved Patient Labeling
 
-MEDICATION GUIDE EXALGO™ (eks-al-goh) (hydromorphone HCl) Extended-Release Tablets CII
+MEDICATION GUIDE EXALGO® (eks-al-goh) (hydromorphone HCl) Extended-Release Tablets CII
 
 | IMPORTANT: Keep EXALGO in a safe place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally takes EXALGO, get emergency help right away, even if the child is not having any side effects. |
 | --- |
@@ -274,12 +274,14 @@ What are the ingredients of EXALGO?
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 OROS is a registered trademark of ALZA Corporation.
-EXALGO is a trademark of Mallinckrodt Inc. COVIDIEN, COVIDIEN with logo and Covidien logo are U.S. and/or internationally registered trademarks of Covidien AG.
+EXALGO is a registered trademark of Mallinckrodt Inc. COVIDIEN, COVIDIEN with logo and Covidien logo are U.S. and/or internationally registered trademarks of Covidien AG.
 
 © 2010 Mallinckrodt Inc., a Covidien company
 
 Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
 
-Issued 03/2010-B 10206401
+Issued 11/2010
+
+10206402
 
 Mallinckrodt COVIDIEN™

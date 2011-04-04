@@ -50,7 +50,7 @@ Absorption EXALGO is an extended release formulation of hydromorphone that produ
 Following a single dose administration of EXALGO, plasma concentrations gradually increase over 6 to 8 hours, and thereafter concentrations are sustained for approximately 18 to 24 hours post-dose.
 The median Tmax values ranged from 12 to 16 hours.
 The mean half-life was approximately 11 hours, ranging from 8 to 15 hours in most individual subjects.
-Linear pharmacokinetics has been demonstrated for EXALGO over the dose range 8 to 64 mg, with a dose-proportional increase in Cmax and overall exposure (AUC0-∝) (see Table 3).
+Linear pharmacokinetics has been demonstrated for EXALGO over the dose range 8 to 64 mg, with a dose-proportional increase in Cmax and overall exposure (AUC0-∝) (see Table 4).
 Steady-state plasma concentrations are approximately twice those observed following the first dose, and steady state is reached after 3 to 4 days of once-daily dosing of EXALGO.
 At steady state, EXALGO given once daily maintained hydromorphone plasma concentrations within the same concentration range as the immediate-release tablet given 4 times daily at the same total daily dose, and diminished the fluctuations between peak and trough concentrations seen with the immediate-release tablet (see Figure 1).
 The bioavailability of EXALGO once daily and immediate-release hydromorphone four times daily in adults is comparable as presented in Table 4.

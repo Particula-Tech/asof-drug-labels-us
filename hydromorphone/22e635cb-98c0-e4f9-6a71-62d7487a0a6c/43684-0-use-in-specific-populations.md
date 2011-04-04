@@ -52,7 +52,7 @@ Approaches to the treatment of this syndrome have included supportive care and, 
 
 ## 8.7 Hepatic Impairment
 
-In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∝) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Start patients with moderate hepatic impairment on a reduced dose and closely monitored during dose titration.
+In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∝) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Start patients with moderate hepatic impairment on a reduced dose and closely monitor during dose titration.
 The pharmacokinetics of hydromorphone in severe hepatic impairment patients have not been studied.
 Further increase in Cmax and AUC0-∝ of hydromorphone in this group is expected, therefore, use an even more conservative starting dose [see Dosage and Administration (2.4)].
 
