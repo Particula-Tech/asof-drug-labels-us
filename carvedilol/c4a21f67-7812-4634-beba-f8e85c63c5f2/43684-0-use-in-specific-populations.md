@@ -33,5 +33,5 @@ Of the 975 myocardial infarction patients randomized to carvedilol in the CAPRIC
 Of the 2,065 hypertensive patients in US clinical trials of efficacy or safety who were treated with carvedilol, 21% (436) were 65 years of age or older.
 Of 3,722 patients receiving carvedilol in hypertension clinical trials conducted worldwide, 24% were 65 years of age or older.
 
-With the exception of dizziness in hypertensive patients (incidence 8.8% in the elderly versus 6% in younger patients), no overall differences in the safety or effectiveness (see Figures 2 and 4) were observed between the older subjects and younger subjects in each of these populations.
+With the exception of dizziness in hypertensive patients (incidence 8.8% in the elderly versus 6% in younger patients), no overall differences in the safety or effectiveness (see Figure 2) were observed between the older subjects and younger subjects in each of these populations.
 Similarly, other reported clinical experience has not identified differences in responses between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.

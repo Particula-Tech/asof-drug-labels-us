@@ -12,7 +12,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 
 ## 5.2 Bradycardia
 
-In clinical trials, carvedilol caused bradycardia in about 2% of hypertensive patients, and 6.5% of myocardial infarction patients with left ventricular dysfunction.
+In clinical trials, carvedilol caused bradycardia in about 2% of hypertensive patients and 6.5% of myocardial infarction patients with left ventricular dysfunction.
 If pulse rate drops below 55 beats/minute, the dosage should be reduced.
 
 ## 5.3 Hypotension
@@ -23,13 +23,13 @@ In the CAPRICORN study of survivors of an acute myocardial infarction, hypotensi
 Syncope was reported in 3.9% and 1.9% of patients, respectively.
 These events were a cause for discontinuation of therapy in 2.5% of patients receiving carvedilol, compared to 0.2% of placebo patients.
 
-Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2,2.3)].
+Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)].
 During initiation of therapy, the patient should be cautioned to avoid situations such as driving or hazardous tasks, where injury could result should syncope occur.
 
 ## 5.4 Heart Failure/Fluid Retention
 
 Worsening heart failure or fluid retention may occur during up-titration of carvedilol.
-If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Adminstration (2)].
+If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the carvedilol dose or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to, carvedilol..
 
@@ -51,7 +51,7 @@ Patients subject to spontaneous hypoglycemia, or diabetic patients receiving ins
 
 Studies designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
 
-In a study designed to examine the effects of carvedilol on glycemic control in a 161 population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
+In a study designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
 
 ## 5.7 Peripheral Vascular Disease
 
@@ -90,3 +90,10 @@ However, caution should be taken in the administration of carvedilol to patients
 
 While taking ß-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+## 5.14 Intraoperative Floppy Iris Syndrome
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (carvedilol is an alpha/beta blocker).
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient’s ophthalmologist should be prepared for possible modifications to the surgical technique, such as utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.

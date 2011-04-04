@@ -25,10 +25,10 @@ Although there was no overall difference in discontinuation rates, discontinuati
 The overall incidence of adverse events in US placebo-controlled trials increased with increasing dose of carvedilol.
 For individual adverse events this could only be distinguished for dizziness, which increased in frequency from 2% to 5% as total daily dose increased from 6.25 mg to 50 mg.
 
-Table 2 shows adverse events in US placebo-controlled clinical trials for hypertension that occurred with an incidence of ≥ 1% regardless of causality, and that were more frequent in drug-treated patients than placebo-treated patients.
+Table 1 shows adverse events in US placebo-controlled clinical trials for hypertension that occurred with an incidence of ≥ 1% regardless of causality, and that were more frequent in drug-treated patients than placebo-treated patients.
 
-Table 2.
-Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incidence ≥ 1%, Regardless of Causality
+Table 1.
+Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incidence ≥ 1%, Regardless of CausalityShown are events with rate > 1% rounded to nearest integer.
 
 |  | Carvedilol(n = 1,142) | Placebo(n = 462) |
 | --- | --- | --- |
@@ -45,7 +45,6 @@ Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incid
 | Thrombocytopenia | 1 | - |
 | Metabolic |  |  |
 | Hypertriglyceridemia | 1 | - |
-| Shown are events with rate > 1% rounded to nearest integer. |  |  |
 
 Dyspnea and fatigue were also reported in these studies, but the rates were equal or greater in patients who received placebo.
 
@@ -97,6 +96,6 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Reports of aplastic anemia and severe skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme) have been rare and received only when carvedilol was administered concomitantly with other medications associated with such reactions.
-Rare reports of hypersensitivity reactions (e.g. anaphylactic reaction, angioedema, and urticaria) have been received for Carvedilol tablets, USP.
+Rare reports of hypersensitivity reactions (e.g. anaphylactic reaction, angioedema, and urticaria) have been received for carvedilol.
 
 Urinary incontinence in women (which resolved upon discontinuation of the medication) and interstitial pneumonitis have been reported rarely.

@@ -24,9 +24,9 @@ Mahwah, NJ 07430
 
 PATIENT INFORMATION
 
-Rx only
-
 Carvedilol Tablets, USP
+
+(kar' ve dil ol)
 
 Read the Patient Information that comes with carvedilol before you start taking it and each time you get a refill.
 There may be new information.
@@ -37,7 +37,7 @@ If you have any questions about carvedilol, ask your doctor or pharmacist.
 
 Carvedilol is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 
-#### Carvedilol is used, often with other medicines, for the following conditions:
+Carvedilol is used, often with other medicines, for the following conditions:
 
 - To treat patients with high blood pressure (hypertension)
 - To treat patients who had a heart attack that worsened how well the heart pumps
@@ -45,19 +45,19 @@ Carvedilol is a prescription medicine that belongs to a group of medicines calle
 
 ### Who should not take Carvedilol?
 
-#### Do not take carvedilol if you:
+Do not take carvedilol if you:
 
 - Have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications)
 - Are prone to asthma or other breathing problems
 - Have a slow heartbeat or a heart that skips a beat (irregular heartbeat)
 - Have liver problems
-- Are allergic to any of the ingredients in carvedilol.
+- Are allergic to any of the ingredients in carvedilol tablets.
   The active ingredient is carvedilol.
-  See the end of this leaflet for a list of all the ingredients in carvedilol.
+  See the end of this leaflet for a list of all the ingredients in carvedilol tablets.
 
 ### What should I tell my doctor before taking Carvedilol?
 
-#### Tell your doctor about all of your medical conditions, including if you:
+Tell your doctor about all of your medical conditions, including if you:
 
 - Have asthma or other lung problems (such as bronchitis or emphysema)
 - Have problems with blood flow in your feet and legs (peripheral vascular disease) carvedilol can make some of your symptoms worse.
@@ -72,6 +72,7 @@ Carvedilol is a prescription medicine that belongs to a group of medicines calle
   It is not known if carvedilol passes into your breast milk.
   You should not breastfeed while using carvedilol.
 - Are scheduled for surgery and will be given anesthetic agents
+- Are scheduled for cataract surgery and have taken or are currently taking carvedilol.
 - Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
   Carvedilol and certain other medicines can affect each other and cause serious side effects.
   Carvedilol may affect the way other medicines work.
@@ -113,11 +114,10 @@ Do not drive a car, use machinery, or do anything that needs you to be alert if 
 - Carvedilol may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
 - Carvedilol may mask the symptoms of hyperthyroidism (overactive thyroid).
 - Worsening of severe allergic reactions.
-- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on Carvedilol.
+- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol.
   These reactions can be life-threatening.
 
 Other side effects of carvedilol include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
-Rare serious allergic reactions have happened in patients who were on carvedilol.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
 
@@ -141,9 +141,9 @@ You can ask your doctor or pharmacist for information about carvedilol that is w
 You can also find out more about carvedilol by visiting the website www.glenmarkgenerics.com or calling 1 (888)721-7115.
 This call is free.
 
-### What are the ingredients in Carvedilol?
+### What are the ingredients in Carvedilol Tablets?
 
-Active Ingredient: Carvedilol USP.
+Active Ingredient: Carvedilol, USP.
 
 Inactive Ingredients: Colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone and titanium dioxide.
 
@@ -160,4 +160,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-August 2010
+March 2011

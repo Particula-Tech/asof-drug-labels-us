@@ -90,7 +90,7 @@ Glyburide: In 12 healthy subjects, combined administration of carvedilol (25 mg 
 Hydrochlorothiazide: A single oral dose of carvedilol 25 mg did not alter the pharmacokinetics of a single oral dose of hydrochlorothiazide 25 mg in 12 patients with hypertension.
 Likewise, hydrochlorothiazide had no effect on the pharmacokinetics of carvedilol.
 
-Rifampin: In a pharmacokinetic study conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see DrugInteractions (7.5)].
+Rifampin: In a pharmacokinetic study conducted in 8 healthy male subjects, rifampin (600 mg daily for 12 days) decreased the AUC and Cmax of carvedilol by about 70% [see Drug Interactions (7.5)].
 
 Torsemide: In a study of 12 healthy subjects, combined oral administration of carvedilol 25 mg once daily and torsemide 5 mg once daily for 5 days did not result in any significant differences in their pharmacokinetics compared with administration of the drugs alone.
 
