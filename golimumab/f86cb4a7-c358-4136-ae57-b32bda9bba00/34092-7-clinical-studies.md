@@ -8,9 +8,9 @@ SIMPONI was administered subcutaneously at doses of 50 mg or 100 mg every 4 week
 Double-blinded controlled efficacy data were collected and analyzed through Week 24.
 Patients were allowed to continue stable doses of concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs and patients may have received oral MTX during the trials.
 
-Study RA-1 evaluated 461 patients who were previously treated (at least 8 to 12 weeks prior to administration of study agent) with one or more doses of a biologic TNF-blocker without a serious adverse reaction.
+Study RA-1 evaluated 445 patients who were previously treated (at least 8 to 12 weeks prior to administration of study agent) with one or more doses of a biologic TNF-blocker without a serious adverse reaction.
 Patients may have discontinued the biologic TNF-blocker for a variety of reasons.
-Patients were randomized to receive placebo (n = 155), SIMPONI 50 mg (n = 153), or SIMPONI 100 mg (n = 153).
+Patients were randomized to receive placebo (n = 150), SIMPONI 50 mg (n = 147), or SIMPONI 100 mg (n = 148).
 Patients were allowed to continue stable doses of concomitant MTX, sulfasalazine (SSZ), and/or hydroxychloroquine (HCQ) during the trial.
 The use of other DMARDs including cytotoxic agents or other biologics was prohibited.
 
@@ -34,27 +34,27 @@ In the 3 RA trials, a greater percentage of patients treated with the combinatio
 There was no clear evidence of improved ACR response with the higher SIMPONI dose group (100 mg) compared to the lower SIMPONI dose group (50 mg).
 In Studies RA-2 and RA-3, the SIMPONI monotherapy groups were not statistically different from the MTX monotherapy groups in ACR responses.
 Table 2 shows the proportion of patients with the ACR response for the SIMPONI 50 mg and control groups in Studies RA-1, RA-2, and RA-3.
-In the subset of patients who received SIMPONI in combination with MTX in Study RA-1, the proportion of patients achieving ACR 20, 50 and 70 responses at week 14 were 40%, 18%, and 13%, respectively, in the SIMPONI 50 mg + MTX group (N = 103) compared with 17%, 6%, and 2%, respectively, in the placebo + MTX group (N = 107).
+In the subset of patients who received SIMPONI in combination with MTX in Study RA-1, the proportion of patients achieving ACR 20, 50 and 70 responses at week 14 were 40%, 18%, and 12%, respectively, in the SIMPONI 50 mg + MTX group (N = 101) compared with 17%, 6%, and 2%, respectively, in the placebo + MTX group (N = 103).
 Table 3 shows the percent improvement in the components of the ACR response criteria for the SIMPONI 50 mg + MTX and MTX groups in Study RA-2.
 The percent of patients achieving ACR 20 responses by visit for Study RA-2 is shown in Figure 1.
 ACR 20 responses were observed in 38% of patients in the SIMPONI 50 mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
 
 Table 2.
-Studies RA-1, RA-2, and RA-3 Proportion of Patients with an ACR ResponseApproximately 78% and 58% of the patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and NSAIDs, respectively, during the 3 pooled RA trials.
+Studies RA-1, RA-2, and RA-3 Proportion of Patients with an ACR ResponseApproximately 78% and 58% of the patients received concomitant NSAIDs and low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), respectively, during the 3 pooled RA trials.
 
 |  | Placebo ± DMARDsDMARDs in Study RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ, and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA-1 Active RA previously treated with one or more doses of TNF-blockers |  | Study RA-2 Active RA, despite MTX |  | Study RA-3 Active RA, MTX Naïve |  |
-| NN reflects randomized patients. | 155 | 153 | 133 | 89 | 160 | 159 |
+| NN reflects randomized patients. | 150 | 147 | 133 | 89 | 160 | 159 |
 | ACR 20 |  |  |  |  |  |  |
 | Week 14 | 18% | 35% | 33% | 55% | NANA = Not applicable, as data was not collected at Week 14 in Study RA-3. | NA |
-| Week 24 | 17% | 34% | 28% | 60% | 49% | 62% |
+| Week 24 | 16% | 31% | 28% | 60% | 49% | 62% |
 | ACR 50 |  |  |  |  |  |  |
-| Week 14 | 6% | 16% | 10% | 35% | NA | NA |
-| Week 24 | 5% | 18% | 14% | 37% | 29% | 40% |
+| Week 14 | 7% | 15% | 10% | 35% | NA | NA |
+| Week 24 | 4% | 16% | 14% | 37% | 29% | 40% |
 | ACR 70 |  |  |  |  |  |  |
 | Week 14 | 2% | 10% | 4% | 13% | NA | NA |
-| Week 24 | 3% | 12% | 5% | 20% | 16% | 24%Not significantly different from MTX monotherapy. |
+| Week 24 | 2% | 9% | 5% | 20% | 16% | 24%Not significantly different from MTX monotherapy. |
 
 Table 3.
 Study RA-2 — Median Percent Improvement from Baseline in the Individual ACR Components at Weeks 14In Study RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
@@ -90,8 +90,8 @@ Study RA-2 — Median Percent Improvement from Baseline in the Individual ACR Co
 
 Physical Function Response in Patients with RA
 
-In Studies RA-1 and RA-2, the SIMPONI 50 mg groups demonstrated a greater improvement compared to the control groups in the change in mean Health Assessment Questionnaire Disability Index (HAQ-DI) score from baseline to Week 24: 0.25 vs. 0.05 in RA-1, 0.47 vs. 0.13 in RA-2, respectively.
-Also in Studies RA-1 and RA-2, the SIMPONI 50 mg groups compared to the control groups had a greater proportion of HAQ responders (change from baseline > 0.22) at Week 24: 44% vs. 28%, 65% vs. 35%, respectively.
+In Studies RA-1 and RA-2, the SIMPONI 50 mg groups demonstrated a greater improvement compared to the control groups in the change in mean Health Assessment Questionnaire Disability Index (HAQ-DI) score from baseline to Week 24: 0.23 vs. 0.03 in RA-1, 0.47 vs. 0.13 in RA-2, respectively.
+Also in Studies RA-1 and RA-2, the SIMPONI 50 mg groups compared to the control groups had a greater proportion of HAQ responders (change from baseline > 0.22) at Week 24: 43% vs. 27%, 65% vs. 35%, respectively.
 
 ## 14.2 Psoriatic Arthritis
 

@@ -23,7 +23,7 @@ SIMPONI should be discontinued if a patient develops a serious infection, an opp
 A patient who develops a new infection during treatment with SIMPONI should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
 
 In controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, serious infections were observed in 1.4% of SIMPONI-treated patients and 1.3% of control-treated patients.
-In the controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, the incidence of serious infections per 100 patient-years of follow-up was 5.4 (95% CI: 4.0, 7.2) for the SIMPONI group and 5.3 (95% CI: 3.1, 8.7) for the placebo group.
+In the controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, the incidence of serious infections per 100 patient-years of follow-up was 5.7 (95% CI: 3.8, 8.2) for the SIMPONI group and 4.2 (95% CI: 1.8, 8.2) for the placebo group.
 Serious infections observed in SIMPONI-treated patients included sepsis, pneumonia, cellulitis, abscess, tuberculosis, invasive fungal infections, and hepatitis B infection.
 
 Tuberculosis
@@ -93,7 +93,7 @@ Three of the 6 patients were in the 200 mg SIMPONI group.
 
 ## 5.3 Congestive Heart Failure
 
-Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF-blockers.
+Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF-blockers, including SIMPONI.
 In several exploratory trials of other TNF-blockers in the treatment of CHF, there were greater proportions of TNF-blocker treated patients who had CHF exacerbations requiring hospitalization or increased mortality.
 SIMPONI has not been studied in patients with a history of CHF and SIMPONI should be used with caution in patients with CHF.
 If a decision is made to administer SIMPONI to patients with CHF, these patients should be closely monitored during therapy, and SIMPONI should be discontinued if new or worsening symptoms of CHF appear.
@@ -115,12 +115,17 @@ Therefore, the combination of TNF-blockers including SIMPONI and abatacept is no
 Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
 Therefore, the combination of anakinra with TNF-blockers, including SIMPONI, is not recommended [see Drug Interactions 7.2].
 
-## 5.7 Hematologic Cytopenias
+## 5.7 Switching Between Biological Disease Modifying Antirheumatic Drugs (DMARDs)
+
+Care should be taken when switching from one biologic to another since overlapping biological activity may further increase the risk of infection.
+
+## 5.8 Hematologic Cytopenias
 
 There have been post-marketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
-Although, there were no cases of severe cytopenias seen in the SIMPONI clinical trials, caution should be exercised when using TNF-blockers, including SIMPONI, in patients who have significant cytopenias.
+In clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI-treated patients.
+Caution should be exercised when using TNF-blockers, including SIMPONI, in patients who have or have had significant cytopenias.
 
-## 5.8 Vaccinations
+## 5.9 Vaccinations
 
 Patients treated with SIMPONI may receive vaccinations, except for live vaccines.
 No data are available on the response to live vaccination or the risk of infection, or transmission of infection after the administration of live vaccines to patients receiving SIMPONI.

@@ -29,15 +29,15 @@ Before starting SIMPONI, tell your doctor if you:
   These infections may happen or become more severe if you use SIMPONI.
   Ask your doctor if you do not know if you have lived in an area where these infections are common.
 - have or have had hepatitis B
-- use the medicine Orencia (abatacept), Kineret (anakinra), or Rituxan (rituximab)
+- use the medicine ORENCIA (abatacept), KINERET (anakinra), ACTEMRA (tocilizumab) or RITUXAN (rituximab)
 
 After starting SIMPONI, call your doctor right away if you have any symptoms of an infection.
 SIMPONI can make you more likely to get infections or make worse any infection that you have.
 
 Cancer
 
+- For children and adults taking TNF-blocker medicines, including SIMPONI, the chances of getting cancer may increase.
 - There have been cases of unusual cancers in children and teenage patients taking TNF-blocking agents.
-- For children and adults taking TNF-blocker medicines, including SIMPONI, the chances of getting lymphoma or other cancers may increase.
 - People with inflammatory diseases including rheumatoid arthritis, psoriatic arthritis, or ankylosing spondylitis, especially those with very active disease, may be more likely to get lymphoma.
 
 What is SIMPONI?
@@ -59,7 +59,7 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
 - have an infection (see "What is the most important information I should know about SIMPONI?").
 - have or have had lymphoma or any other type of cancer.
 - have or had heart failure.
-- have or have had a condition that affects your nervous system, such as multiple sclerosis.
+- have or have had a condition that affects your nervous system, such as multiple sclerosis or Guillain-Barré syndrome.
 - have recently received or are scheduled to receive a vaccine.
   People taking SIMPONI should not receive live vaccines.
   People taking SIMPONI can receive non-live vaccines.
@@ -72,13 +72,12 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
   You should not do both without talking to your doctor first.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Especially, tell your doctor if you use:
+Especially, tell your doctor if you:
 
-- ORENCIA (abatacept), KINERET (anakinra), or RITUXAN (rituximab).
-  You should not take SIMPONI while you are also taking ORENCIA or KINERET.
-  Your doctor may not want to give you SIMPONI if you have received RITUXAN recently.
-- Another TNF-blocker medicine.
-  You should not take SIMPONI while you are also taking REMICADE (infliximab), HUMIRA (adalimumab), ENBREL (etanercept), or CIMZIA (certolizumab pegol).
+- use ORENCIA (abatacept), KINERET (anakinra).
+  You should not take SIMPONI while you are also taking ORENCIA (abatacept) or KINERET (anakinra).
+- use other TNF-blocker medicines, including REMICADE (infliximab), HUMIRA (adalimumab), ENBREL (etanercept), or CIMZIA (certolizumab pegol).
+- receive RITUXAN (rituximab) or ACTEMRA (tocilizumab).
 
 Ask your doctor if you are not sure if your medicine is one listed above.
 
@@ -105,23 +104,21 @@ SIMPONI can cause serious side effects, including:
 
 See "What is the most important information I should know about SIMPONI?"
 
-Serious Infections
-
 Hepatitis B infection in people who carry the virus in their blood.
 
 - If you are a carrier of the hepatitis B virus (a virus that affects the liver), the virus can become active while you use SIMPONI.
   Your doctor may do blood tests before you start treatment with SIMPONI and while you are using SIMPONI.
-  Tell your doctor if you have any of the following symptoms of a possible hepatitis B infection: feel very tiredskin or eyes look yellowlittle or no appetitevomitingmuscle achesdark urine clay-colored bowel movementsfeverschillsstomach discomfortskin rash
+  Tell your doctor if you have any of the following symptoms of a possible hepatitis B infection: feel very tireddark urineskin or eyes look yellowlittle or no appetitevomitingmuscle aches clay-colored bowel movementsfeverschillsstomach discomfortskin rash
 
 Heart failure, including new heart failure or worsening of heart failure that you already have.
-New or worse heart failure can happen in people who use TNF-blocker medicines like SIMPONI.
+New or worse heart failure can happen in people who use TNF-blocker medicines including SIMPONI.
 
 - If you have heart failure, your condition should be watched closely while you take SIMPONI.
 - Call your doctor right away if you get new or worsening symptoms of heart failure while taking SIMPONI (such as shortness of breath or swelling of your lower legs or feet).
 
 Nervous System Problems
 
-Rarely, people using TNF-blocker medicines, including SIMPONI, have nervous system problems such as multiple sclerosis.
+Rarely, people using TNF-blocker medicine have nervous system problems such as multiple sclerosis or Guillain-Barré syndrome.
 
 - Tell your doctor right away if you get any of these symptoms:
   - vision changes
@@ -141,15 +138,16 @@ Call your doctor right away if you have any of these symptoms:
 
 Blood Problems
 
-Low blood counts have been seen with other TNF-blockers.
+Low blood counts have been seen with TNF-blockers, including SIMPONI.
 Your body may not make enough blood cells that help fight infections or help stop bleeding.
 Symptoms include fever, bruising or bleeding easily, or looking pale.
 Your doctor will check your blood counts before and during treatment with SIMPONI.
 
 Common side effects with SIMPONI include:
 
-| upper respiratory tract infectionnauseaabnormal liver testsredness at the site of injectionhigh blood pressurebronchitisdizziness | sinus infection (sinusitis)flurunny nosefevercold soresnumbness or tingling |
-| --- | --- |
+- upper respiratory infection (runny nose, sore throat, and hoarseness or laryngitis)
+- reaction at the site of injection (redness, swelling, itching, pain, bruising, or tingling)
+- viral infections such as flu and oral cold sores
 
 Other side effects with SIMPONI include:
 
@@ -161,7 +159,7 @@ Other side effects with SIMPONI include:
   - new joint or muscle pains
   - becoming very tired
   - chest pain or shortness of breath
-  - swelling of the feet, ankles, and/or legs
+  - swelling of the feet, ankles, or legs
 - Psoriasis.
   Some people using SIMPONI had new psoriasis or worsening of psoriasis they already had.
   Tell your doctor if you develop red scaly patches or raised bumps that are filled with pus.
@@ -205,3 +203,7 @@ Active ingredient: golimumab.
 
 Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, sorbitol, polysorbate 80, and water for injection.
 SIMPONI does not contain preservatives.
+
+Revised: 3/2011
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -28,7 +28,7 @@ Since many of the patients in the Phase 3 trials were also taking medications th
 
 Autoimmune Disorders and Autoantibodies
 
-The use of TNF-blockers has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
+The use of TNF-blockers, including SIMPONI, has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
 In the controlled Phase 3 trials in patients with RA, PsA, and AS through Week 14, there was no association of SIMPONI treatment and the development of newly positive anti-dsDNA antibodies.
 
 Injection Site Reactions
@@ -36,16 +36,6 @@ Injection Site Reactions
 In controlled Phase 3 trials through Week 16 in RA, PsA and AS, 6% of SIMPONI-treated patients had injection site reactions compared with 2% of control-treated patients.
 The majority of the injection site reactions were mild and the most frequent manifestation was injection site erythema.
 In controlled Phase 2 and 3 trials in RA, PsA, and AS, no patients treated with SIMPONI developed anaphylactic reactions.
-
-Psoriasis: New-Onset and Exacerbations
-
-Cases of new onset psoriasis, including pustular psoriasis and palmoplantar psoriasis, have been reported with the use of TNF-blockers, including SIMPONI.
-Cases of exacerbation of pre-existing psoriasis have also been reported with the use of TNF-blockers.
-Many of these patients were taking concomitant immunosuppressants (e.g., MTX, corticosteroids).
-Some of these patients required hospitalization.
-Most patients had improvement of their psoriasis following discontinuation of their TNF-blocker.
-Some patients have had recurrences of the psoriasis when they were re-challenged with a different TNF-blocker.
-Discontinuation of SIMPONI should be considered for severe cases and those that do not improve or that worsen despite topical treatments.
 
 Immunogenicity
 
@@ -61,37 +51,40 @@ For these reasons, comparison of the incidence of antibodies to SIMPONI with the
 
 Other Adverse Reactions
 
-Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the combined SIMPONI groups during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with RA, PsA, and AS.
+Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the SIMPONI ± DMARD group and with a higher incidence than in the placebo ± DMARD group during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with RA, PsA, and AS.
 
 Table 1.
-Adverse Drug Reactions Reported by ≥ 1% of Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
+Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and with a Higher Incidence than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
 
-|  | Placebo ± DMARDs | SIMPONI ± DMARDs |
+|  | SIMPONI ± DMARDs | Placebo ± DMARDs |
 | --- | --- | --- |
-| Patients treated | 639 | 1659 |
-| Adverse Reaction (Preferred Term) |  |  |
-| Upper respiratory tract infection | 37 (6%) | 120 (7%) |
-| Nasopharyngitis | 31 (5%) | 91 (6%) |
-| Alanine aminotransferase increased | 18 (3%) | 58 (4%) |
-| Injection site erythema | 6 (1%) | 56 (3%) |
-| Hypertension | 9 (1%) | 48 (3%) |
-| Aspartate aminotransferase increased | 10 (2%) | 44 (3%) |
-| Bronchitis | 9 (1%) | 31 (2%) |
-| Dizziness | 7 (1%) | 32 (2%) |
-| Sinusitis | 7 (1%) | 27 (2%) |
-| Influenza | 7 (1%) | 25 (2%) |
-| Pharyngitis | 8 (1%) | 22 (1%) |
-| Rhinitis | 4 (< 1%) | 20 (1%) |
-| Pyrexia | 4 (< 1%) | 20 (1%) |
-| Oral herpes | 2 (< 1%) | 16 (1%) |
-| Paraesthesia | 2 (< 1%) | 16 (1%) |
+| Patients treated | 1659 | 639 |
+| Adverse Reaction |  |  |
+| Infections and Infestations |  |  |
+| Upper respiratory tract infection (nasopharyngitis, pharyngitis, laryngitis, and rhinitis) | 16% | 13% |
+| Viral infections (such as influenza and herpes) | 5% | 3% |
+| Bronchitis | 2% | 1% |
+| Superficial fungal infections | 2% | 1% |
+| Sinusitis | 2% | 1% |
+| General disorders and administration site conditions |  |  |
+| Injection site reaction (injection site erythema, urticaria, induration, pain, bruising, pruritus, irritation, paresthesia) | 6% | 2% |
+| Investigations |  |  |
+| Alanine aminotransferase increased | 4% | 3% |
+| Aspartate aminotransferase increased | 3% | 2% |
+| Vascular disorders |  |  |
+| Hypertension | 3% | 2% |
+| Nervous system disorders |  |  |
+| Dizziness | 2% | 1% |
+| Paraesthesia | 2% | 1% |
+| Gastrointestinal Disorders |  |  |
+| Constipation | 1% | <1% |
 
 Less common clinical trial adverse drug reactions
 
-Adverse drug reactions that occurred <1% during the SIMPONI clinical trials included the following events listed by system organ class:
+Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the SIMPONI clinical trials that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
 
-Nervous system disorders: central nervous system demyelinating disorders (such as multiple sclerosis), peripheral demyelinating polyneuropathy
+Infections and infestations: Septic shock, atypical mycobacterial infection, pyelonephritis, arthritis bacterial, bursitis infective
 
-Vascular disorders: vasculitis (systemic)
+Skin and subcutaneous tissue disorders: psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
 
-Skin and subcutaneous tissue disorders: vasculitis (cutaneous)
+Vascular disorders: Vasculitis (systemic)

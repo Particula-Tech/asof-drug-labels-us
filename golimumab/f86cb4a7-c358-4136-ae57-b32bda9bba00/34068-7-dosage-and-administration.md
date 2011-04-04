@@ -4,7 +4,7 @@
 
 The SIMPONI dose regimen is 50 mg administered by subcutaneous (SC) injection once a month.
 
-For patients with rheumatoid arthritis (RA), SIMPONI should be given in combination with methotrexate and for patients with psoriatic arthritis (PsA) or ankylosing spondylitis (AS), SIMPONI may be given with or without methotrexate or other non-biologic DMARDs.
+For patients with rheumatoid arthritis (RA), SIMPONI should be given in combination with methotrexate and for patients with psoriatic arthritis (PsA) or ankylosing spondylitis (AS), SIMPONI may be given with or without methotrexate or other non-biologic Disease Modifying Antirheumatic Drugs (DMARDs).
 For patients with RA, PsA, or AS, corticosteroids, non-biologic DMARDs, and/or NSAIDs may be continued during treatment with SIMPONI.
 
 ## 2.2 Monitoring to Assess Safety
@@ -15,7 +15,7 @@ Prior to initiating SIMPONI and periodically during therapy, patients should be 
 
 SIMPONI is intended for use under the guidance and supervision of a physician.
 After proper training in subcutaneous injection technique, a patient may self inject with SIMPONI if a physician determines that it is appropriate.
-Patients should be instructed to follow the directions provided in the Medication Guide [see Medication Guide (17.3)].
+Patients should be instructed to follow the directions provided in the Medication Guide (see Medication Guide).
 To ensure proper use, allow the prefilled syringe or autoinjector to sit at room temperature outside the carton for 30 minutes prior to subcutaneous injection.
 Do not warm SIMPONI in any other way.
 

@@ -171,6 +171,10 @@ Step 4: After the injection
   Do not rub the injection site.
 - You may cover the injection site with a small adhesive bandage, if needed.
 
+Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
+
+Revised: 12/2010
+
 Patient Instructions for Use SIMPONI® Prefilled Syringe
 
 If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
@@ -328,5 +332,3 @@ Step 5: After the injection
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
 
 Revised: 12/2010
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.

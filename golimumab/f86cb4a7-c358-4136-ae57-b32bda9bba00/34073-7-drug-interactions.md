@@ -13,7 +13,7 @@ There is insufficient information to provide recommendations regarding the conco
 
 ## 7.3 Live Vaccines
 
-Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.8)].
+Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.9)].
 
 ## 7.4 Cytochrome P450 Substrates
 

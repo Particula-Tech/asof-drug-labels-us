@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17.3)
+See FDA-Approved Patient Labeling (Medication Guide and Patient Instructions for Use)
 
 ## 17.1 Patient Counseling
 
@@ -27,7 +27,7 @@ Advise patients to report any signs of new or worsening medical conditions such 
 ## 17.2 Instruction on Injection Technique
 
 The first self-injection should be performed under the supervision of a qualified healthcare professional.
-If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI [see Medication Guide (17.3)].
+If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI (see FDA-Approved Patient Labeling (Medication Guide and Patient Instructions for Use)).
 
 Prior to use, remove the prefilled syringe or the prefilled SmartJect autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for 30 minutes and out of the reach of children.
 
@@ -45,7 +45,3 @@ A puncture-resistant container for disposal of needles and syringes should be us
 Patients or caregivers should be instructed in the technique of proper syringe and needle disposal, and be advised not to reuse these items.
 
 Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
-
-Revised: 12/2010
-
-## 17.3 Medication Guide
