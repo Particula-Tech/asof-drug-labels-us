@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+## Clinical Trial Experience
+
 Adverse events reported in >1% of patients receiving AccuNeb and more frequently than in patients receiving placebo in a four-week double-blind study are listed in the following table.
 
 Table 1: Adverse Events with an Incidence of >1% of Patients Receiving AccuNeb and Greater than Placebo (expressed as % of treatment group)
@@ -23,3 +25,8 @@ Table 1: Adverse Events with an Incidence of >1% of Patients Receiving AccuNeb a
 There was one case of ST segment depression in the 1.25 mg AccuNeb treatment group.
 
 No clinically relevant laboratory abnormalities related to AccuNeb administration were seen in this study.
+
+## Postmarketing Experience
+
+Metabolic acidosis has been reported after the use of albuterol sulfate inhalation solution.
+Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate its frequency or establish a causal relationship to drug exposure.

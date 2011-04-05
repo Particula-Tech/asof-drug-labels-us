@@ -25,7 +25,9 @@ Discard the vial if the solution is not colorless.
 
 Keep out of the reach of children.
 
+Dey® A Mylan Company
+
 Dey Pharma, L.P., Napa, CA 94558
 
-03-492-26 SEP 10 U.S. Pat.
+03-492-27 MAR 11 U.S. Pat.
 No. 6,702,997

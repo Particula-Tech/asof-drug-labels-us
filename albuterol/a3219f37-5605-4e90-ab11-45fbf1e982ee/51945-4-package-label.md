@@ -38,6 +38,8 @@ Rx only.
 U.S. Pat.
 No. 6,702,997
 
+Dey® A Mylan Company
+
 Dey Pharma, L.P.
 Napa, CA 94558 ©2001
 
@@ -80,6 +82,8 @@ Rx only.
 
 U.S. Pat.
 No. 6,702,997
+
+Dey® A Mylan Company
 
 Dey Pharma, L.P.
 Napa, CA 94558 ©2001

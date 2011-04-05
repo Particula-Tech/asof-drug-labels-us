@@ -6,7 +6,7 @@ PRESCRIBING INFORMATION
 
 AccuNeb® (albuterol sulfate) Inhalation Solution 1.25 mg*/3 mL and 0.63 mg*/3 mL
 
-*(Potency expressed as albuterol, equivalent to 1.5 mg and 0.75 mg albuterol sulfate)
+(*Potency expressed as albuterol, equivalent to 1.5 mg and 0.75 mg albuterol sulfate)
 
 PATIENT'S INSTRUCTIONS FOR USE
 
@@ -40,7 +40,9 @@ Instructions for Use
    At this point, the treatment is finished.
 7. Clean the nebulizer (see manufacturer's instructions).
 
+Dey® A Mylan Company
+
 Dey Pharma, L.P., Napa, CA 94558
 
-03-492-26 SEP 10 U.S. Pat.
+03-492-27 MAR 11 U.S. Pat.
 No. 6,702,997
