@@ -9,7 +9,7 @@ Table 1: Dosing Table for SOLODYN
 
 | Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
-| 99 – 109 | 45 – 49 | 45 | 1– 0.92 |
+| 99 – 109 | 45 – 49 | 45 | 1 – 0.92 |
 | 110 – 131 | 50 – 59 | 55 | 1.10 – 0.93 |
 | 132 – 157 | 60 – 71 | 65 | 1.08 – 0.92 |
 | 158 – 186 | 72 – 84 | 80 | 1.11 – 0.95 |
@@ -21,4 +21,4 @@ Table 1: Dosing Table for SOLODYN
 SOLODYN Tablets may be taken with or without food [see Clinical Pharmacology (12)].
 Ingestion of food along with SOLODYN may help reduce the risk of esophageal irritation and ulceration.
 
-In patients with renal impairment [see Warnings and Precautions (5.3)], the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses.
+In patients with renal impairment, the total dosage should be decreased by either reducing the recommended individual doses and/or by extending the time intervals between doses [see Warnings and Precautions (5.4)].

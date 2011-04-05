@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trial may not reflect the rates observed in practice.
 
-The following table summarizes selected adverse reactions reported in clinical trials at a rate of ≥1% for SOLODYN.
+The following table summarizes selected adverse reactions reported in clinical trials at a rate of ≥ 1% for SOLODYN.
 
 Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinical Trial Subjects
 
@@ -29,11 +29,11 @@ Table 2: Selected Treatment-Emergent Adverse Reactions in at least 1% of Clinica
 
 Adverse reactions that have been reported with minocycline hydrochloride use in a variety of indications include:
 
-- Skin and hypersensitivity reactions: fixed drug eruptions, balanitis, erythema multiforme, Stevens-Johnson syndrome, anaphylactoid purpura, photosensitivity, pigmentation of skin and mucous membranes, hypersensitivity reactions, angioneurotic edema, anaphylaxis.
+- Skin and hypersensitivity reactions: fixed drug eruptions, balanitis, erythema multiforme, Stevens-Johnson syndrome, anaphylactoid purpura, photosensitivity, pigmentation of skin and mucous membranes, hypersensitivity reactions, angioneurotic edema, anaphylaxis, DRESS syndrome [see Warnings and Precautions (5.9)].
 - Autoimmune conditions: polyarthralgia, pericarditis, exacerbation of systemic lupus, pulmonary infiltrates with eosinophilia, transient lupus-like syndrome.
 - Central nervous system: pseudotumor cerebri, bulging fontanels in infants, decreased hearing.
-- Endocrine: thyroid discoloration, abnormal thyroid function.
-- Oncology: papillary thyroid cancer.
+- Endocrine: brown-black microscopic thyroid discoloration, abnormal thyroid function.
+- Oncology: thyroid cancer.
 - Oral: glossitis, dysphagia, tooth discoloration.
 - Gastrointestinal: enterocolitis, pancreatitis, hepatitis, liver failure.
 - Renal: reversible acute renal failure.

@@ -7,7 +7,7 @@ In two efficacy and safety trials, a total of 924 subjects with non-nodular mode
 
 Table 3: Clinical Studies Dosing Table
 
-| Subject's Weight (lbs) | Subject's Weight (kg) | Available Caplet Strength (mg) | Actual mg/kg Dose |
+| Subject's Weight (lbs.) | Subject's Weight (kg) | Available Caplet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
 | 99 – 131 | 45 – 59 | 45 | 1 – 0.76 |
 | 132 – 199 | 60 – 90 | 90 | 1.5 – 1 |

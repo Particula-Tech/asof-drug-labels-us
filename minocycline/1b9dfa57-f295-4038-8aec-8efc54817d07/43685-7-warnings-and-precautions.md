@@ -2,7 +2,7 @@
 
 ## 5.1 Teratogenic Effects
 
-1. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS ANTIBIOTICS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
+1. MINOCYCLINE, LIKE OTHER TETRACYCLINE-CLASS DRUGS, CAN CAUSE FETAL HARM WHEN ADMINISTERED TO A PREGNANT WOMAN.
    IF ANY TETRACYCLINE IS USED DURING PREGNANCY OR IF THE PATIENT BECOMES PREGNANT WHILE TAKING THESE DRUGS, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS.
    SOLODYN should not be used during pregnancy or by individuals of either gender who are attempting to conceive a child [see Nonclinical Toxicology (13.1) & Use in Specific Populations (8.1)].
 2. THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY, AND CHILDHOOD UP TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
@@ -34,7 +34,7 @@ Post-marketing cases of serious liver injury, including irreversible drug-induce
 ## 5.4 Metabolic Effects
 
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
-While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline-class antibiotics may lead to azotemia, hyperphosphatemia, and acidosis.
+While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline-class drugs may lead to azotemia, hyperphosphatemia, and acidosis.
 If renal impairment exists, even usual oral or parenteral doses may lead to excessive systemic accumulations of the drug and possible liver toxicity.
 Under such conditions, lower than usual total doses are indicated, and if therapy is prolonged, serum level determinations of the drug may be advisable.
 
@@ -51,7 +51,8 @@ Minocycline has been reported to cause or precipitate pseudotumor cerebri, the h
 Clinical manifestations include headache and blurred vision.
 Bulging fontanels have been associated with the use of tetracyclines in infants.
 Although signs and symptoms of pseudotumor cerebri resolve after discontinuation of treatment, the possibility for permanent sequelae such as visual loss that may be permanent or severe exists.
-Patients should be questioned for visual disturbances prior to initiation of treatment with tetracyclines and should be routinely checked for papilledema while on treatment.
+Patients should be questioned for visual disturbances prior to initiation of treatment with tetracyclines.
+If visual disturbance occurs during treatment, patients should be checked for papilledema.
 Concomitant use of isotretinoin and minocycline should be avoided because isotretinoin, a systemic retinoid, is also known to cause pseudotumor cerebri.
 
 ## 5.7 Autoimmune Syndromes
@@ -72,7 +73,12 @@ If patients need to be outdoors while using minocycline, they should wear loose-
 
 ## 5.9 Serious Skin/Hypersensitivity Reaction
 
-Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens-Johnson syndrome and erythema multiforme have been reported with minocycline use in treatment of acne.
+Cases of anaphylaxis, serious skin reactions (e.g.
+Stevens Johnson syndrome), erythema multiforme, and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported postmarketing with minocycline use in patients with acne.
+DRESS syndrome consists of cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, and one or more of the following visceral complications such as: hepatitis, pneumonitis, nephritis, myocarditis, and pericarditis.
+Fever and lymphadenopathy may be present.
+In some cases, death has been reported.
+If this syndrome is recognized, the drug should be discontinued immediately.
 
 ## 5.10 Tissue Hyperpigmentation
 
@@ -81,7 +87,7 @@ Tetracycline therapy may induce hyperpigmentation in many organs, including nail
 Skin and oral pigmentation has been reported to occur independently of time or amount of drug administration, whereas other tissue pigmentation has been reported to occur upon prolonged administration.
 Skin pigmentation includes diffuse pigmentation as well as over sites of scars or injury.
 
-## 5.11 Development of Drug Resistant Bacteria
+## 5.11 Development of Drug-Resistant Bacteria
 
 Bacterial resistance to the tetracyclines may develop in patients using SOLODYN, therefore, the susceptibility of bacteria associated with infection should be considered in selecting antimicrobial therapy.
 Because of the potential for drug-resistant bacteria to develop during the use of SOLODYN, it should be used only as indicated.
@@ -89,9 +95,9 @@ Because of the potential for drug-resistant bacteria to develop during the use o
 ## 5.12 Superinfection
 
 As with other antibiotic preparations, use of SOLODYN may result in overgrowth of nonsusceptible organisms, including fungi.
-If superinfection occurs, the antibiotic should be discontinued and appropriate therapy instituted.
+If superinfection occurs, SOLODYN should be discontinued and appropriate therapy instituted.
 
 ## 5.13 Laboratory Monitoring
 
-Periodic laboratory evaluations of organ systems, including hematopoietic renal and hepatic studies should be performed.
+Periodic laboratory evaluations of organ systems, including hematopoetic renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.
