@@ -1,4 +1,4 @@
-Ansyr® Plastic Syringe
+Ansyr™ Plastic Syringe
 
 Ampul
 

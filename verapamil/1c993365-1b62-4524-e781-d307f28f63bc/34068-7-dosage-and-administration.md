@@ -6,9 +6,9 @@ The recommended intravenous doses of verapamil hydrochloride injection are as fo
 
 Adult:
 
-Initial dose− 5 to 10 mg (0.075 to 0.15 mg/kg body weight) given as an intravenous bolus over at least 2 minutes.
+Initial dose − 5 to 10 mg (0.075 to 0.15 mg/kg body weight) given as an intravenous bolus over at least 2 minutes.
 
-Repeat dose− 10 mg (0.15 mg/kg body weight) 30 minutes after the first dose if the initial response is not adequate.
+Repeat dose − 10 mg (0.15 mg/kg body weight) 30 minutes after the first dose if the initial response is not adequate.
 An optimal interval for subsequent I.V. doses has not been determined, and should be individualized for each patient.
 
 Older patients − The dose should be administered over at least 3 minutes to minimize the risk of untoward drug effects.

@@ -19,7 +19,7 @@ The following reactions have been reported at low frequency: emotional depressio
 | The frequency of these adverse reactions was quite low, and experience with their treatment has been limited. |  |  |
 | Adverse Reaction | Proven Effective Treatment | Supportive Treatment |
 | 1. Symptomatic hypotension requiring treatment | Dopamine I.V. Calcium chloride I.V. Norepinephrine bitartrate I.V. Metaraminol bitartrate I.V. Isoproterenol HCl I.V. | Intravenous fluids Trendelenburg position |
-| 2. Bradycardia, AV block, Asystole | Isoproterenol HCl I.V.Calcium chloride I.V.Norepinephrine bitartrate I.V.Atropine I.V.Cardiac pacing | Intravenous fluids (slow drip) |
+| 2. Bradycardia, AVblock, Asystole | Isoproterenol HCl I.V.Calcium chloride I.V.Norepinephrine bitartrate I.V.Atropine I.V.Cardiac pacing | Intravenous fluids (slow drip) |
 | 3. Rapid ventricular rate (due to antegrade conduction in flutter/fibrillation with W-P-W or L-G-L syndromes) | DC-cardioversion (high energy may be required) Procainamide I.V.Lidocaine I.V. | Intravenous fluids (slow drip) |
 
 *Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.

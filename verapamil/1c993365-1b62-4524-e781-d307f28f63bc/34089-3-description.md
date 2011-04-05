@@ -13,7 +13,7 @@ It has the following structural formula:
 
 Molecular weight: 491.07
 
-Molecular formula: C27H38N2O4• HCl
+Molecular formula: C27H38N2O4 • HCl
 
 Verapamil hydrochloride is not chemically related to other antiarrhythmic drugs.
 

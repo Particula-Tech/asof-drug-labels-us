@@ -1,14 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070737",
+    "ANDA070738",
+    "ANDA075136"
+  ],
   "inn": "verapamil",
-  "labeler": "HOSPIRA, INC.",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-1144-01",
     "0409-1144-02",
+    "0409-1144-05",
     "0409-4011-01",
     "0409-9633-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "verapamil hydrochloride",
+      "name": "Verapamil Hydrochloride"
+    }
+  ],
   "setid": "1c993365-1b62-4524-e781-d307f28f63bc",
   "source": "dailymed"
 }

@@ -46,6 +46,7 @@ Hepatic and Renal Failure: Significant hepatic and renal failure should not incr
 Repeated injections of verapamil hydrochloride injection in such patients may lead to accumulation and an excessive pharmacologic effect of the drug.
 There is no experience to guide use of multiple doses in such patients, and this generally should be avoided.
 If repeated injections are essential, blood pressure and PR interval should be closely monitored and smaller repeat doses should be utilized.
+
 Verapamil cannot be removed by hemodialysis.
 
 Premature Ventricular Contractions: During conversion to normal sinus rhythm, or marked reduction in ventricular rate, a few benign complexes of unusual appearance (sometimes resembling premature ventricular contractions) may be seen after treatment with verapamil hydrochloride.
@@ -98,7 +99,7 @@ There has been one report of hyperkalemia and myocardial depression following th
 
 ## Pregnancy:
 
-Teratogenic Effects:Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral verapamil doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
+Teratogenic Effects: Pregnancy Category C. Reproduction studies have been performed in rabbits and rats at oral verapamil doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
 This oral dose has also been shown to cause hypotension in rats.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -118,7 +119,7 @@ Because of the potential for adverse reactions in nursing infants from verapamil
 ## Pediatric Use:
 
 Controlled studies with verapamil have not been conducted in pediatric patients, but uncontrolled experience with intravenous administration in more than 250 patients, about half under 12 months of age and about 25% newborn, indicates that results of treatment are similar to those in adults.
-In rare instances, however, severe hemodynamic side effects− some of them fatal − have occurred following the intravenous administration of verapamil to neonates and infants.
+In rare instances, however, severe hemodynamic side effects − some of them fatal − have occurred following the intravenous administration of verapamil to neonates and infants.
 Caution should therefore be used when administering verapamil to this group of pediatric patients.
 The most commonly used single doses in patients up to 12 months of age have ranged from 0.1 to 0.2 mg/kg of body weight, while in patients aged 1 to 15 years, the most commonly used single doses ranged from 0.1 to 0.3 mg/kg of body weight.
 Most of the patients received the lower dose of 0.1 mg/kg once, but in some cases, the dose was repeated once or twice every 10 to 30 minutes.

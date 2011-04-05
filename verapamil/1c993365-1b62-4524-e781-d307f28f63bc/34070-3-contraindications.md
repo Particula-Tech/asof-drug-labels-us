@@ -19,7 +19,7 @@ Patients receiving intravenous beta-adrenergic blocking drugs (e.g., propranolol
 Intravenous verapamil and intravenous beta-adrenergic blocking drugs should not be administered in close proximity to each other (within a few hours), since both may have a depressant effect on myocardial contractility and AV conduction.
 
 6.
-Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) are at risk to develop ventricular tachyarrhythmia including ventricular fibrillation if verapamil is administered.
+Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff- Parkinson-White, Lown-Ganong-Levine syndromes) are at risk to develop ventricular tachyarrhythmia including ventricular fibrillation if verapamil is administered.
 Therefore, the use of verapamil in these patients is contraindicated.
 
 7.
