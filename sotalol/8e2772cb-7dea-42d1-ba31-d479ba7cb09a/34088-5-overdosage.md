@@ -9,7 +9,7 @@ In cases of massive intentional overdosage (2 to 16 grams) of sotalol the follow
 If overdosage occurs, therapy with sotalol should be discontinued and the patient observed closely.
 Because of the lack of protein binding, hemodialysis is useful for reducing sotalol plasma concentrations.
 Patients should be carefully observed until QT intervals are normalized and the heart rate returns to levels > 50 bpm.
-The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase (half life of 30 hours) thought to be due to a temporary reduction of renal function caused by hypotension.
+The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase (half life of 30 hours) thought to be due to a temporary reduction of renal function caused by the hypotension.
 In addition, if required, the following therapeutic measures are suggested:
 
 | Bradycardia or Cardiac Asystole: | Atropine, another anticholinergic drug, a beta-adrenergic agonist or transvenous cardiac pacing. |

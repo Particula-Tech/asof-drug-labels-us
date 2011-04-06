@@ -88,6 +88,6 @@ Serious adverse events including death, torsade de pointes, other proarrhythmias
 ## Potential Adverse Effects
 
 Foreign marketing experience with sotalol hydrochloride shows an adverse experience profile similar to that described above from clinical trials.
-Voluntary reports since introduction include rare reports (less than one report per 10,000 patients) of: emotional lability, slighted clouded sensorium, incoordination, vertigo, paralysis, thrombocytopenia, eosinophilia, leukopenia, photosensitivity reaction, fever, pulmonary edema, hyperlipidemia, myalgia, pruritus, alopecia.
+Voluntary reports since introduction include rare reports (less than one report per 10,000 patients) of: emotional lability, slightly clouded sensorium, incoordination, vertigo, paralysis, thrombocytopenia, eosinophilia, leukopenia, photosensitivity reaction, fever, pulmonary edema, hyperlipidemia, myalgia, pruritis, alopecia.
 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been associated with sotalol during investigational use and foreign marketing experience.

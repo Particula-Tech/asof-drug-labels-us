@@ -19,24 +19,24 @@ In intact animals it slows heart rate, decreases AV nodal conduction and increas
 
 In man, the Class II (beta-blockade) electrophysiological effects of sotalol are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (where present) in both the anterograde and retrograde directions.
-With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40 to 100 msec in QT and 10 to 40 msec in QTC.
+With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40 to 100 msec in QT and 10 to 40 msec in QTc.
 (See WARNINGS for description of relationship between QTc and torsade de pointes type arrhythmias.)
 No significant alteration in QRS interval is observed.
 
-In a small study (n = 25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2 to 15 joules) compared to a mean of 16 joules for a non-randomized comparative group primarily receiving amiodarone.
+In a small study (n = 25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2 to 15 joules) compared to a mean of 16 joules for a nonrandomized comparative group primarily receiving amiodarone.
 
 Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA < 0.33 m2) showed a tendency for larger Class III effects (Δ QTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA ≥ 0.33 m2).
+The smallest children (BSA < 0.33 m2) showed a tendency for larger Class III effects (Δ QTc) and an increased frequency of prolongations of the QTc interval as compared with larger children (BSA ≥ 0.33 m2).
 The beta-blocking effects also tended to be greater in the smaller children (BSA < 0.33 m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
 ## Hemodynamics
 
 In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of sotalol produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post dosing at steady-state.
-Concurrently, systemic vascular resistance and stroke volume showed non-significant increases of 25% and 8%, respectively.
+Concurrently, systemic vascular resistance and stroke volume showed nonsignificant increases of 25% and 8%, respectively.
 Pulmonary capillary wedge pressure increased significantly from 6.4 mmHg to 11.8 mmHg in the 11 patients who completed the study.
 One patient was discontinued because of worsening congestive heart failure.
 Mean arterial pressure, mean pulmonary artery pressure and stroke work index did not significantly change.
@@ -46,7 +46,7 @@ In hypertensive patients, sotalol hydrochloride produces significant reductions 
 Although sotalol hydrochloride is usually well-tolerated hemodynamically, caution should be exercised in patients with marginal cardiac compensation as deterioration in cardiac performance may occur.
 (See WARNINGS, Congestive Heart Failure.)
 
-## Clinical Actions
+## Clinical Studies
 
 Sotalol hydrochloride has been studied in life-threatening and less severe arrhythmias.
 In patients with frequent premature ventricular complexes (VPC), sotalol hydrochloride was significantly superior to placebo in reducing VPCs, paired VPCs and non-sustained ventricular tachycardia (NSVT); the response was dose-related through 640 mg/day with 80 to 85% of patients having at least a 75% reduction of VPCs.
@@ -64,7 +64,7 @@ The most commonly used doses of sotalol hydrochloride in this trial were 320 to 
 
 It cannot be determined, however, in the absence of a controlled comparison of sotalol vs. no pharmacologic treatment (e.g., in patients with implanted defibrillators) whether sotalol response causes improved survival or identifies a population with a good prognosis.
 
-In a large double-blind, placebo controlled secondary prevention (post-infarction) trial (n = 1,456), sotalol hydrochloride was given as a non-titrated initial dose of 320 mg once daily.
+In a large double-blind, placebo controlled secondary prevention (postinfarction) trial (n = 1,456), sotalol hydrochloride was given as a non-titrated initial dose of 320 mg once daily.
 Sotalol did not produce a significant increase in survival (7.3% mortality on sotalol vs. 8.9% on placebo, p = 0.3), but overall did not suggest an adverse effect on survival.
 There was, however, a suggestion of an early (i.e., first 10 days) excess mortality (3% on sotalol vs. 2% on placebo).
 In a second small trial (n = 17 randomized to sotalol) where sotalol was administered at high doses (e.g., 320 mg twice daily) to high-risk post-infarction patients (ejection fraction < 40% and either > 10 VPC/hr or VT on Holter), there were 4 fatalities and 3 serious hemodynamic/electrical adverse events within two weeks of initiating sotalol.
@@ -86,7 +86,7 @@ Age per se does not significantly alter the pharmacokinetics of sotalol, but imp
 The absorption of sotalol hydrochloride was reduced by approximately 20% compared to fasting when it was administered with a standard meal.
 Since sotalol hydrochloride is not subject to first-pass metabolism, patients with hepatic impairment show no alteration in clearance of sotalol.
 
-The combined analysis of two unblinded, multicenter trails (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
+The combined analysis of two unblinded, multicenter trials (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
 A daily dose of 30 mg/m2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m2 were administered q 8h in the multi-dose study.
 After rapid absorption with peak levels occurring on average between 2 to 3 hours following administration, sotalol was eliminated with a mean half life of 9.5 hours.
 Steady-state was reached after 1 to 2 days.

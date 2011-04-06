@@ -11,14 +11,14 @@ As compared to placebo treatment, all three active therapies were associated wit
 The longer-term mortality rate associated with moricizine treatment could not be statistically distinguished from that associated with placebo.
 
 The applicability of these results to other populations (e.g., those without recent myocardial infarction) and to other than Class I antiarrhythmic agents is uncertain.
-Sotalol hydrochloride is devoid of Class I effects, and in a large (n = 1,456) controlled trial in patients with a recent myocardial infarction, who did not necessarily have ventricular arrhythmias, sotalol did not produce increased mortality at doses up to 320 mg/day (see Clinical Actions).
-On the other hand, in the large post-infarction study using a non-titrated initial dose of 320 mg once daily and in a second small randomized trial in high-risk post-infarction patients treated with high doses (320 mg BID), there have been suggestions of an excess of early sudden deaths.
+Sotalol hydrochloride is devoid of Class I effects, and in a large (n = 1,456) controlled trial in patients with a recent myocardial infarction, who did not necessarily have ventricular arrhythmias, sotalol did not produce increased mortality at doses up to 320 mg/day (see Clinical Studies).
+On the other hand, in the large postinfarction study using a non-titrated initial dose of 320 mg once daily and in a second small randomized trial in high-risk post-infarction patients treated with high doses (320 mg BID), there have been suggestions of an excess of early sudden deaths.
 
-## Proarrythmia
+## Proarrhythmia
 
 Like other antiarrhythmic agents, sotalol can provoke new or worsened ventricular arrhythmias in some patients, including sustained ventricular tachycardia or ventricular fibrillation, with potentially fatal consequences.
 Because of its effect on cardiac repolarization (QTc interval prolongation), torsade de pointes, a polymorphic ventricular tachycardia with prolongation of the QT interval and a shifting electrical axis is the most common form of proarrhythmia associated with sotalol, occurring in about 4% of high risk (history of sustained VT/VF) patients.
-The risk of torsade de pointes progressively increases with prolongation of QT interval, and is worsened also by reduction in heart rate and reduction in serum potassium (see Electrolyte Disturbances).
+The risk of torsade de pointes progressively increases with prolongation of the QT interval, and is worsened also by reduction in heart rate and reduction in serum potassium (see Electrolyte Disturbances).
 
 Because of the variable temporal recurrence of arrhythmias, it is not always possible to distinguish between a new or aggravated arrhythmic event and the patient’s underlying rhythm disorder.
 (Note, however, that torsade de pointes is usually a drug-induced arrhythmia in people with an initially normal QTc.)
@@ -81,7 +81,7 @@ Both digitalis and sotalol slow AV conduction.
 As with all beta-blockers, caution is advised when initiating therapy in patients with any evidence of left ventricular dysfunction.
 In premarketing studies, new or worsened congestive heart failure (CHF) occurred in 3.3% (n = 3257) of patients and led to discontinuation in approximately 1% of patients receiving sotalol.
 The incidence was higher in patients presenting with sustained ventricular tachycardia/fibrillation (4.6%, n = 1363), or a prior history of heart failure (7.3%, n = 696).
-Based on a life-table analysis, the one-year incidence of new or worsened CHF was 3% in patients without a prior history and 10% in patients with a prior history of CHF.
+Based on a lifetable analysis, the one-year incidence of new or worsened CHF was 3% in patients without a prior history and 10% in patients with a prior history of CHF.
 NYHA Classification was also closely associated to the incidence of new or worsened heart failure while receiving sotalol (1.8% in 1395 Class I patients, 4.9% in 1254 Class II patients and 6.1% in 278 Class III or IV patients).
 
 ## Electrolyte Disturbances
@@ -150,9 +150,9 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 
 ## Renal Impairment
 
-Sotalol hydrochloride is mainly eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
+Sotalol hydrochloride is mainly eliminated via the kidneys through glomerular filtration and to a small degree by tubular secretion.
 There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol.
-Guidance for dosing in conditions of renal impairment can be found under “DOSAGE AND ADMINISTRATION."
+Guidance for dosing in conditions of renal impairment can be found under DOSAGE AND ADMINISTRATION.
 
 ## Drug Interactions
 
@@ -171,6 +171,8 @@ Additive Class II effects would also be anticipated with the use of other beta-b
 
 Single and multiple doses of sotalol do not substantially affect serum digoxin levels.
 Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 
 ### Calcium-Blocking Drugs
 
@@ -208,7 +210,7 @@ Administration of the antacid two hours after sotalol has no effect on the pharm
 
 Sotalol should be administered with caution in conjunction with other drugs known to prolong the QT interval such as Class I and Class III antiarrhythmic agents, phenothiazines, tricyclic antidepressants, astemizole, bepridil, certain oral macrolides, and certain quinolone antibiotics (see WARNINGS).
 
-## DRUG/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
 In screening patients suspected of having a pheochromocytoma and being treated with sotalol, a specific method, such as a high performance liquid chromatographic assay with solid phase extraction (e.g., J. Chromatogr.
@@ -246,4 +248,4 @@ Because of the potential for adverse reactions in nursing infants from sotalol, 
 ## Pediatric Use
 
 The safety and effectiveness of sotalol in children have not been established.
-However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 year old (see CLINICAL PHARMACOLOGY).
+However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old (see CLINICAL PHARMACOLOGY).
