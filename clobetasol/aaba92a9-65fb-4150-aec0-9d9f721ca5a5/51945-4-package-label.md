@@ -10,6 +10,8 @@ Spray
 
 0.05%
 
+For topical use only
+
 4.25 FL OZ (125 mL)
 
 GALDERMA
@@ -17,18 +19,20 @@ GALDERMA
 WARNING: FLAMMABLE.
 AVOID FIRE, FLAME OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
 
-For external use only.
 Not for eye use.
 
 Usual dosage: Apply twice daily, once in the morning and once at night.
 Use only enough to cover the affected areas.
+Do not exceed 26 sprays per application or 52 sprays per day.
 Do not apply to the face, underarms, or groin and avoid contact with eyes and lips.
 See package insert for complete prescribing information.
 
-Each gram contains: Active: clobetasol propionate (0.5 mg).
-Inactive: alcohol, isopropyl myristate, sodium lauryl sulfate, and undecylenic acid
+TO THE PHARMACIST Replace cap with spray pump prior to dispensing.
 
-Store at controlled room temperature 68° to 77°F (15° - 25°C), excursions permitted between 59° and 86°F (15° - 30°C).
+Each gram contains: Active: clobetasol propionate (0.5 mg).
+Inactive: alcohol, isopropyl myristate, sodium lauryl sulfate, and undecylenic acid.
+
+Store at controlled room temperature 68º to 77ºF (20º - 25ºC), excursions permitted between 59º and 86ºF (15º - 30ºC).
 Protect from freezing.
 Keep out of reach of children.
 
@@ -40,5 +44,3 @@ Fort Worth, Texas 76177 USA
 Manufactured by: CPL Mississauga, Ontario, Canada L5N 6L6
 
 GALDERMA is a registered trademark.
-
-Made in Canada. www.clobex.com 2004072-0407

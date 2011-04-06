@@ -1,4 +1,3 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Topically applied CLOBEX® (clobetasol propionate) Spray, 0.05% can be absorbed in sufficient amount to produce systemic effects.
-(See PRECAUTIONS).
+Topically applied CLOBEX® Spray, 0.05% can be absorbed in sufficient amount to produce systemic effects [see Warnings and Precautions (5.1)].
