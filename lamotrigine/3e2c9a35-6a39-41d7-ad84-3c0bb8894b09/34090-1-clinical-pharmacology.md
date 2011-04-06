@@ -122,7 +122,7 @@ The numbers in parentheses below each parameter mean represent the range of indi
 b Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Table 7.
 Details of the drug interaction studies, which were done using immediate-release lamotrigine, are provided following Table 7.
@@ -166,7 +166,7 @@ fSlight decrease, not expected to be clinically relevant.
 
 gNot administered, but an active metabolite of oxcarbazepine.
 
-hSlight increase not expected to be clinically relevant.
+hSlight increase, not expected to be clinically relevant.
 
 ↔ = No significant effect.
 
@@ -258,7 +258,7 @@ Other: Results of in vitro experiments suggest that clearance of lamotrigine is 
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of immediate-release lamotrigine.
+Special Populations:Patients With Renal Impairment: Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min, range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of immediate-release lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 

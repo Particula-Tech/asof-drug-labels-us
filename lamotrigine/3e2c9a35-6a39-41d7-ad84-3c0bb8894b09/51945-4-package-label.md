@@ -198,6 +198,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000045586
+
 Principal Display Panel
 
 NDC 0173-0759-00
@@ -244,6 +246,8 @@ Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
 
+10000000045582
+
 Principal Display Panel
 
 NDC 0173-0760-00
@@ -289,3 +293,46 @@ Weeks / Tablets per day
 Dispense the accompanying Medication Guide to each patient.
 
 GlaxoSmithKline
+
+10000000045590
+
+Principal Display Panel
+
+NDC 0173-0761-00
+
+LAMICTAL® XRTM
+
+(LAMOTRIGINE)
+
+EXTENDED- RELEASE TABLETS
+
+300 mg
+
+Rx only
+
+30 tablets
+
+CAUTION: Verify Product Dispensed
+
+Dispense the accompanying Medication Guide to each patient.
+
+Once A Day
+
+See prescribing information for dosage information.
+
+Do not use if printed safety seal under cap is broken or missing.
+
+Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
+
+Visit www.LAMICTALXR.com
+
+GlaxoSmithKline
+
+RTP, NC 27709
+
+Made in England
+
+Rev.
+10/09
+
+A071527
