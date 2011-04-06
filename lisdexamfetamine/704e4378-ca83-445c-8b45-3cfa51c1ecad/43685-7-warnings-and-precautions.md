@@ -1,4 +1,4 @@
-# 5 WARNINGS and PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Serious Cardiovascular Events
 

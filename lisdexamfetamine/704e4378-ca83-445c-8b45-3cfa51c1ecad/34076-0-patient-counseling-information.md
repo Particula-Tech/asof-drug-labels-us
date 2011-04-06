@@ -54,8 +54,8 @@ For more information call 1-800-828-2088
 
 Vyvanse® is a trademark of Shire LLC
 
-©2010 Shire US Inc.
+©2011 Shire US Inc.
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 11/2010
+Last Modified: 03/2011

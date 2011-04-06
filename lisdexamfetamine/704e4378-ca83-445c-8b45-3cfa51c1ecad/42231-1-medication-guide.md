@@ -138,8 +138,8 @@ The capsule shells contain gelatin, titanium dioxide, and one or more of the fol
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2010 Shire US Inc.
+©2011 Shire US Inc.
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 11/2010
+Last Modified: 03/2011
