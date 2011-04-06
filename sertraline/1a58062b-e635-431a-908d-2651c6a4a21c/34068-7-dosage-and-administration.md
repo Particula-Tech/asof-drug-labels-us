@@ -95,7 +95,7 @@ Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in t
 When treating pregnant women with sertraline hydrochloride during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering sertraline hydrochloride in the third trimester.
 
-### Discontinuation of Treatment with sertraline hydrochloride
+### Discontinuation of Treatment with Sertraline Hydrochloride
 
 Symptoms associated with discontinuation of sertraline hydrochloride and other SSRIs and SNRIs, have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.
@@ -103,15 +103,15 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-### Sertraline hydrochloride Oral Concentrate
+### Sertraline Hydrochloride Oral Concentrate
 
-Sertraline hydrochloride Oral Concentrate contains 20 mg/mL of sertraline (as the hydrochloride) as the active ingredient and 12% alcohol.
-Sertraline hydrochloride Oral Concentrate must be diluted before use.
-Just before taking, use the dropper provided to remove the required amount of sertraline hydrochloride Oral Concentrate and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
-Do not mix sertraline hydrochloride Oral Concentrate with anything other than the liquids listed.
+Sertraline hydrochloride oral concentrate contains 20 mg/mL of sertraline (as the hydrochloride) as the active ingredient and 12% alcohol.
+Sertraline hydrochloride oral concentrate must be diluted before use.
+Just before taking, use the dropper provided to remove the required amount of sertraline hydrochloride oral concentrate and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+Do not mix sertraline hydrochloride oral concentrate with anything other than the liquids listed.
 The dose should be taken immediately after mixing.
 Do not mix in advance.
 At times, a slight haze may appear after mixing; this is normal.
 Note that caution should be exercised for patients with latex sensitivity, as the dropper dispenser contains dry natural rubber.
 
-Sertraline hydrochloride Oral Concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.
+Sertraline hydrochloride oral concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.

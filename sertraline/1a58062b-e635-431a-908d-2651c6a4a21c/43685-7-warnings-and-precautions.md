@@ -202,10 +202,10 @@ Patients should be advised to notify their physician if they are breast feeding 
 
 Sertraline hydrochloride oral concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.
 
-Sertraline hydrochloride Oral Concentrate contains 20 mg/mL of sertraline (as the hydrochloride) as the active ingredient and 12% alcohol.
-Sertraline hydrochloride Oral Concentrate must be diluted before use.
-Just before taking, use the dropper provided to remove the required amount of sertraline hydrochloride Oral Concentrate and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
-Do not mix sertraline hydrochloride Oral Concentrate with anything other than the liquids listed.
+Sertraline hydrochloride oral concentrate contains 20 mg/mL of sertraline (as the hydrochloride) as the active ingredient and 12% alcohol.
+Sertraline hydrochloride oral concentrate must be diluted before use.
+Just before taking, use the dropper provided to remove the required amount of sertraline hydrochloride oral concentrate and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+Do not mix sertraline hydrochloride oral concentrate with anything other than the liquids listed.
 The dose should be taken immediately after mixing.
 Do not mix in advance.
 At times, a slight haze may appear after mixing; this is normal.
@@ -213,7 +213,10 @@ Note that caution should be exercised for persons with latex sensitivity, as the
 
 ## Laboratory Tests
 
-None.
+False-positive urine immunoassay screening tests for benzodiazepines have been reported in patients taking sertraline.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of sertraline therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
 
 ## Drug Interactions
 
