@@ -1,4 +1,4 @@
-Principal Display Panel
+# Principal Display Panel
 
 NDC 0173-0242-55
 
@@ -41,7 +41,7 @@ Made in Germany
 Rev.
 9/08
 
-Principal Display Panel
+# Principal Display Panel
 
 NDC 0173-0249-55
 

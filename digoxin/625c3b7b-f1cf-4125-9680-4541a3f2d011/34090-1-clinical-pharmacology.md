@@ -29,7 +29,7 @@ Comparisons of the Systemic Availability and Equivalent Doses for Oral Preparati
 | LANOXIN Tablets | 60 - 80% | 62.5 | 125 | 250 | 500 |
 | LANOXIN Injection/IV | 100% | 50 | 100 | 200 | 400 |
 
-aFor example, 125-mcg LANOXIN Tablets equivalent to 100-mcg LANOXIN Injection/IV.
+a For example, 125-mcg LANOXIN Tablets equivalent to 100-mcg LANOXIN Injection/IV.
 
 In some patients, orally administered digoxin is converted to inactive reduction products (e.g., dihydrodigoxin) by colonic bacteria in the gut.
 Data suggest that 1 in 10 patients treated with digoxin tablets will degrade 40% or more of the ingested dose.
@@ -89,9 +89,9 @@ Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of LAN
 | LANOXIN Tablets | 0.5 - 2 hours | 2 - 6 hours |
 | LANOXIN Injection/IV | 5 - 30 minutesb | 1 - 4 hours |
 
-aDocumented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
+a Documented for ventricular response rate in atrial fibrillation, inotropic effects and electrocardiographic changes.
 
-bDepending upon rate of infusion.
+b Depending upon rate of infusion.
 
 ### Hemodynamic Effects
 
@@ -133,11 +133,11 @@ Subgroup Analyses of Mortality and Hospitalization During the First 2 Years Foll
 | CTR >0.55 | 2,346 | 687 | 650 | 0.85(0.77-0.94) | 398 | 287 | 0.65(0.57-0.75) |
 | EF >0.45c | 987 | 571 | 585 | 1.04(0.88-1.23) | 179 | 136 | 0.72(0.53-0.99) |
 
-aNumber of patients with an event during the first 2 years per 1,000 randomized patients.
+a Number of patients with an event during the first 2 years per 1,000 randomized patients.
 
-bRelative risk (95% confidence interval).
+b Relative risk (95% confidence interval).
 
-cDIG Ancillary Study.
+c DIG Ancillary Study.
 
 In situations where there is no statistically significant benefit of treatment evident from a trial’s primary endpoint, results pertaining to a secondary endpoint should be interpreted cautiously.
 

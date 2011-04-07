@@ -107,14 +107,14 @@ Usual Daily Maintenance Dose Requirements (mcg) of LANOXIN for Estimated Peak Bo
 | 90 |  | 187.5 | 250 | 250 | 250 | 375 | 500 | 8 |
 | 100 |  | 250 | 250 | 250 | 375 | 375 | 500 | 7 |
 
-aCcr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.
+a Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.
 For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 - Age)/Scr.
 For women, this result should be multiplied by 0.85.
 Note: This equation cannot be used for estimating creatinine clearance in infants or children.
 
-bIf no loading dose administered.
+b If no loading dose administered.
 
-c62.5 mcg = 0.0625 mg.
+c 62.5 mcg = 0.0625 mg.
 
 Example: Based on Table 5, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 250 mcg (0.25 mg) daily of LANOXIN Tablets, usually taken after the morning meal.
 If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days.

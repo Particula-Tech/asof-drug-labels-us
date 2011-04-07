@@ -73,7 +73,7 @@ For discussion of serum digoxin concentrations, see DOSAGE AND ADMINISTRATION se
 
 Potassium-depleting diuretics are a major contributing factor to digitalis toxicity.
 Calcium, particularly if administered rapidly by the intravenous route, may produce serious arrhythmias in digitalized patients.
-Quinidine, verapamil, amiodarone, propafenone, indomethacin, itraconazole, alprazolam, and spironolactone raise the serum digoxin concentration due to a reduction in clearance and/or in volume of distribution of the drug, with the implication that digitalis intoxication may result.
+Quinidine, verapamil, amiodarone, propafenone, indomethacin, itraconazole, alprazolam, and spironolactoneraise the serum digoxin concentration due to a reduction in clearance and/or in volume of distribution of the drug, with the implication that digitalis intoxication may result.
 Erythromycin and clarithromycin (and possibly other macrolide antibiotics) and tetracycline may increase digoxin absorption in patients who inactivate digoxin by bacterial metabolism in the lower intestine, so that digitalis intoxication may result (see CLINICAL PHARMACOLOGY: Absorption).
 Propantheline and diphenoxylate, by decreasing gut motility, may increase digoxin absorption.
 Antacids, kaolin-pectin, sulfasalazine, neomycin, cholestyramine, certain anticancer drugs, and metoclopramide may interfere with intestinal digoxin absorption, resulting in unexpectedly low serum concentrations.
