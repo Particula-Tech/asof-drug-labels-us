@@ -53,6 +53,10 @@ Cardiovascular
 
 Heart block (including third degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [see Warnings and Precautions (5)], requiring intervention with fluids and/or aminophylline have occurred.
 
+Transient QTc prolongation has been reported shortly after Lexiscan administration.
+Available ECGs suggest QTc prolongation occurred in association with Lexiscan-induced rapid increase in heart rate.
+Ventricular arrhythmias or clinically significant outcomes were not reported in association with the QTc prolongation.
+
 Central Nervous System
 
 Tremor, seizure (particularly with a history of seizure)
@@ -61,6 +65,10 @@ Gastrointestinal
 
 Abdominal pain, occasionally severe, has been reported a few minutes after Lexiscan administration, in association with nausea, vomiting, or myalgias; administration of aminophylline, an adenosine antagonist, appeared to lessen the pain.
 Diarrhea and fecal incontinence have also been reported following Lexiscan administration.
+
+Immune System Disorders Hypersensitivity has been reported during Lexiscan MPI.
+Reported hypersensitivity reactions include rashes, urticaria, angioedema, anaphylaxis and/or throat tightness.
+Hypersensitivity reaction may be severe and require resuscitative intervention.
 
 Musculoskeletal
 

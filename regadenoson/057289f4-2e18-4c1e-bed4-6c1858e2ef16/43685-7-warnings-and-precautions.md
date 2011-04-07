@@ -17,7 +17,7 @@ In postmarketing experience, third degree heart block and asystole within minute
 Adenosine receptor agonists, including Lexiscan, induce arterial vasodilation and hypotension.
 In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm Hg) was observed in 4% of patients within 45 min of Lexiscan administration.
 The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency.
-In postmarketing experience, syncope, transient ischemic attacksand seizures have been observed [see 6.2 Post-Marketing Experience].
+In postmarketing experience, syncope, transient ischemic attacks and seizures have been observed [see 6.2 Post-Marketing Experience].
 
 ## 5.4 Hypertension
 

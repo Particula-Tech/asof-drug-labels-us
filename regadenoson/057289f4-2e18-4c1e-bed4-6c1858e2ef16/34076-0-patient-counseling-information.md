@@ -24,6 +24,6 @@ Syringes Manufactured by: Hospira, Inc. Lake Forest, IL 60045 USA
 Only Lexiscan is the trademark of Astellas US, LLC.
 Other trademarks listed belong to their respective owners.
 
-Revised: December 2009
+Revised: April 2011
 
-09F009-LEX-CPI
+11C012-LEX-SPL
