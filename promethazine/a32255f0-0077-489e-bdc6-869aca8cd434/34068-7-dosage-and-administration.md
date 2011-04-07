@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Promethazine Hydrochloride Tablets USP are contraindicated for children under 2 years of age (seeWARNINGS-Black Box Warning and Use in Pediatric Patients).
+Promethazine Hydrochloride Tablets USP are contraindicated for children under 2 years of age (see WARNINGS-Black Box Warning and Use in Pediatric Patients).
 
 ## Allergy
 
 The average oral dose is 25 mg taken before retiring; however, 12.5 mg may be taken before meals and on retiring, if necessary.
 Single 25-mg doses at bedtime or 6.25 to 12.5 mg taken three times daily will usually suffice.
-After initiation of treatment in children or adults, dosage should be adjusted to the smallest amount adequate.
+After initiation of treatment in children or adults, dosage should be adjusted to the smallest amount adequate to relieve symptoms.
 The administration of promethazine HCl in 25-mg doses will control minor transfusion reactions of an allergic nature.
 
 ## Motion Sickness
@@ -23,7 +23,7 @@ Antiemetics should not be used in vomiting of unknown etiology in children and a
 The average effective dose of promethazine hydrochloride for the active therapy of nausea and vomiting in children or adults is 25 mg.
 When oral medication cannot be tolerated, the dose should be given parenterally (cf.
 Promethazine Injection) or by rectal suppository.
-12.5- to 25-mg doses may be repeated, as necessary, at 4-to 6-hour intervals.
+12.5- to 25-mg doses may be repeated, as necessary, at 4- to 6-hour intervals.
 
 For nausea and vomiting in children, the usual dose is 0.5 mg per pound of body weight, and the dose should be adjusted to the age and weight of the patient and the severity of the condition being treated.
 
@@ -43,4 +43,5 @@ For preoperative medication, children require doses of 0.5 mg per pound of body 
 Usual adult dosage is 50 mg promethazine HCl with an appropriately reduced dose of narcotic or barbiturate and the required amount of a belladonna alkaloid.
 
 Postoperative sedation and adjunctive use with analgesics may be obtained by the administration of 12.5 to 25 mg in children and 25- to 50-mg doses in adults.
+
 Promethazine hydrochloride tablets are contraindicated for children under 2 years of age.

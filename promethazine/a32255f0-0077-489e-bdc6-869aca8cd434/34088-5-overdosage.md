@@ -7,7 +7,7 @@ Stimulation may be evident, especially in children and geriatric patients.
 Convulsions may rarely occur.
 A paradoxical-type reaction has been reported in children receiving single doses of 75 mg to 125 mg orally, characterized by hyperexcitability and nightmares.
 
-Atropine-like signs and symptoms – dry mouth, fixed, dilated pupils, flushing, as well as gastrointestinal symptoms – may occur.
+Atropine-like signs and symptoms — dry mouth, fixed, dilated pupils, flushing, as well as gastrointestinal symptoms — may occur.
 
 ## Treatment
 

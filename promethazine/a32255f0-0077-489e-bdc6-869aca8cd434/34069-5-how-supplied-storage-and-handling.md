@@ -8,13 +8,13 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 Keep tightly closed.
 
-Store at controlled room temperature 20 -25°C (68 -77°F).
-[See USP Controlled Room Temperature].
+Store at 20-25°C (68-77°F).
+[See USP controlled room temperature.]
 
 Protect from light.
 
-Watson Laboratories, Inc.
+Manufactured By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
 
-Corona, CA 92880 USA
+Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
 
-Rev: January 2005
+Revised: June 2009 190824 0609B

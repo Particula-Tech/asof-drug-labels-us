@@ -1,9 +1,12 @@
 # WARNINGS
 
+| PROMETHAZINE HYDROCHLORIDE TABLETS USP SHOULD NOT BE USED IN PEDIATRIC PATIENTS LESS THAN 2 YEARS OF AGE BECAUSE OF THE POTENTIAL FOR FATAL RESPIRATORY DEPRESSION. POSTMARKETING CASES OF RESPIRATORY DEPRESSION, INCLUDING FATALITIES, HAVE BEEN REPORTED WITH USE OF PROMETHAZINE HYDROCHLORIDE IN PEDIATRIC PATIENTS LESS THAN 2 YEARS OF AGE. A WIDE RANGE OF WEIGHT-BASED DOSES OF PROMETHAZINE HYDROCHLORIDE HAVE RESULTED IN RESPIRATORY DEPRESSION IN THESE PATIENTS. CAUTION SHOULD BE EXERCISED WHEN ADMINISTERING PROMETHAZINE HYDROCHLORIDE TO PEDIATRIC PATIENTS 2 YEARS OF AGE AND OLDER. IT IS RECOMMENDED THAT THE LOWEST EFFECTIVE DOSE OF PROMETHAZINE HYDROCHLORIDE BE USED IN PEDIATRIC PATIENTS 2 YEARS OF AGE AND OLDER AND CONCOMITANT ADMINISTRATION OF OTHER DRUGS WITH RESPIRATORY DEPRESSANT EFFECTS BE AVOIDED. |  |
+| --- | --- |
+
 ## CNS Depression
 
 Promethazine hydrochloride tablets may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as driving a vehicle or operating machinery.
-The impairment may be amplified by concomitant use of other central-nervous-system depressants such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers; therefore such agents should either be eliminated or given in reduced dosage in the presence of promethazine HCl (see PRECAUTIONSInformation for Patients and Drug Interactions).
+The impairment may be amplified by concomitant use of other central-nervous-system depressants such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers; therefore such agents should either be eliminated or given in reduced dosage in the presence of promethazine HCl (see PRECAUTIONS-Information for Patients and Drug Interactions).
 
 ## Respiratory Depression
 
@@ -11,12 +14,12 @@ Promethazine hydrochloride tablets may lead to potentially fatal respiratory dep
 
 Use of promethazine hydrochloride tablets in patients with compromised respiratory function (e.g., COPD, sleep apnea) should be avoided.
 
-Lower Seizure Threshold
+## Lower Seizure Threshold
 
 Promethazine hydrochloride tablets may lower seizure threshold.
 They should be used with caution in persons with seizure disorders or in persons who are using concomitant medications, such as narcotics or local anesthetics, which may also affect seizure threshold.
 
-Bone-Marrow Depression
+## Bone-Marrow Depression
 
 Promethazine hydrochloride tablets should be used with caution in patients with bone-marrow depression.
 Leukopenia and agranulocytosis have been reported, usually when promethazine HCl has been used in association with other known marrow-toxic agents.
@@ -45,7 +48,7 @@ CONCOMITANT ADMINISTRATION OF PROMETHAZINE PRODUCTS WITH OTHER RESPIRATORY DEPRE
 
 ANTIEMETICS ARE NOT RECOMMENDED FOR TREATMENT OF UNCOMPLICATED VOMITING IN PEDIATRIC PATIENTS, AND THEIR USE SHOULD BE LIMITED TO PROLONGED VOMITING OF KNOWN ETIOLOGY.
 THE EXTRAPYRAMIDAL SYMPTOMS WHICH CAN OCCUR SECONDARY TO PROMETHAZINE HYDROCHLORIDE TABLETS ADMINISTRATION MAY BE CONFUSED WITH THE CNS SIGNS OF UNDIAGNOSED PRIMARY DISEASE, e.g., ENCEPHALOPATHY OR REYE’S SYNDROME.
-THE USE OF PROMETHAZINE HCL TABLETS SHOULD BE AVOIDED IN PEDIATRIC PATIENTS WHOSE SIGNS AND SYMPTOMS MAY SUGGEST REYE’S SYNDROME OR OTHER HEPATIC DISEASES
+THE USE OF PROMETHAZINE HCL TABLETS SHOULD BE AVOIDED IN PEDIATRIC PATIENTS WHOSE SIGNS AND SYMPTOMS MAY SUGGEST REYE’S SYNDROME OR OTHER HEPATIC DISEASES.
 
 Excessively large dosages of antihistamines, including promethazine hydrochloride tablets, in pediatric patients may cause sudden death (see OVERDOSAGE).
 Hallucinations and convulsions have occurred with therapeutic doses and overdoses of promethazine in pediatric patients.
@@ -63,7 +66,7 @@ Drugs having anticholinergic properties should be used with caution in patients 
 
 Promethazine hydrochloride tablets should be used cautiously in persons with cardiovascular disease or with impairment of liver function.
 
-## Information for patients
+## Information for Patients
 
 Promethazine hydrochloride tablets may cause marked drowsiness or impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as driving a vehicle or operating machinery.
 The use of alcohol or other central-nervous-system depressants such as sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers, may enhance impairment (see WARNINGS-CNS Depression and PRECAUTIONS-Drug Interactions).
@@ -73,9 +76,9 @@ Patients should be advised to report any involuntary muscle movements.
 
 Avoid prolonged exposure to the sun.
 
-## Drug interactions
+## Drug Interactions
 
-CNS Depressants - Promethazine hydrochloride tablets may increase, prolong, or intensify the sedative action of other central-nervous-system depressants, such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic anti-depressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine HCl.
+CNS Depressants - Promethazine hydrochloride tablets may increase, prolong, or intensify the sedative action of other central-nervous-system depressants, such as alcohol, sedatives/hypnotics (including barbiturates), narcotics, narcotic analgesics, general anesthetics, tricyclic antidepressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine HCl.
 When given concomitantly with promethazine hydrochloride tablets, the dose of barbiturates should be reduced by at least one-half, and the dose of narcotics should be reduced by one-quarter to one-half.
 Dosage must be individualized.
 Excessive amounts of promethazine HCl relative to a narcotic may lead to restlessness and motor hyperactivity in the patient with pain; these symptoms usually disappear with adequate control of the pain.
@@ -87,19 +90,19 @@ Anticholinergics - Concomitant use of other agents with anticholinergic properti
 Monoamine Oxidase Inhibitors (MAOI) - Drug interactions, including an increased incidence of extrapyramidal effects, have been reported when some MAOI and phenothiazines are used concomitantly.
 This possibility should be considered with promethazine hydrochloride tablets.
 
-## Drug/laboratory test interactions
+## Drug/Laboratory Test Interactions
 
 The following laboratory tests may be affected in patients who are receiving therapy with promethazine hydrochloride:
 
 Pregnancy Tests
 
-Diagnostic pregnancy tests based on immunological reactions between HCG and anti-HCG may result in false-negative or false-positive interpretations.
+Diagnostic pregnancy tests based on immunological reactions between HCG and anti-HCG may result in false-negative or falsepositive interpretations.
 
 Glucose Tolerance Test
 
 An increase in blood glucose has been reported in patients receiving promethazine HCl.
 
-## Carcinogenesis, mutagenesis, impairment of fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal studies have not been performed to assess the carcinogenic potential of promethazine, nor are there other animal or human data concerning carcinogenicity, mutagenicity or impairment of fertility with this drug.
 Promethazine was nonmutagenic in the Salmonella test system of Ames.
@@ -118,29 +121,29 @@ There are no adequate and well-controlled studies of promethazine hydrochloride 
 
 Promethazine hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic effects
+### Nonteratogenic Effects
 
 Promethazine hydrochloride tablets administered to a pregnant woman within two weeks of delivery may inhibit platelet aggregation in the newborn.
 
-## Labor and delivery
+## Labor and Delivery
 
 Promethazine HCl may be used alone or as an adjunct to narcotic analgesics during labor (see DOSAGE AND ADMINISTRATION).
 Limited data suggest that use of promethazine during labor and delivery does not have an appreciable effect on the duration of labor or delivery and does not increase the risk of need for intervention in the newborn.
 The effect on later growth and development of the newborn is unknown.
 (See also Nonteratogenic Effects.)
 
-## Nursing mothers
+## Nursing Mothers
 
 It is not known whether promethazine HCl is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from promethazine hydrochloride tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric use
+## Pediatric Use
 
-PROMETHAZINE HYDROCHLORIDE TABLETS USP ARE CONTRAINDICATED FOR USE IN PEDIATRIC PATIENTS LESS THAN TWO YEARS OF AGE (seeWARNINGS-Black Box Warning and Use in Pediatric Patients).
+PROMETHAZINE HYDROCHLORIDE TABLETS USP ARE CONTRAINDICATED FOR USE IN PEDIATRIC PATIENTS LESS THAN TWO YEARS OF AGE (see WARNINGS-Black Box Warning and Use in Pediatric Patients).
 
 Promethazine hydrochloride tablets should be used with caution in pediatric patients 2 years of age and older (see WARNINGS-Use in Pediatric Patients).
 
-## Geriatric use
+## Geriatric Use
 
 Clinical studies of promethazine formulations did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

@@ -15,7 +15,7 @@ Hematologic - Leukopenia, thrombocytopenia, thrombocytopenic purpura, agranulocy
 Gastrointestinal - Dry mouth, nausea, vomiting, jaundice.
 
 Respiratory - Asthma, nasal stuffiness, respiratory depression (potentially fatal) and apnea (potentially fatal).
-(See WARNINGS-Respiratory Depression.)
+(See WARNINGSRespiratory Depression.)
 
 Other - Angioneurotic edema.
 Neuroleptic malignant syndrome (potentially fatal) has also been reported.

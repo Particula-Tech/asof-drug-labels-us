@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA083426",
+    "ANDA083711"
+  ],
   "inn": "promethazine",
   "labeler": "Watson Laboratories, Inc.",
   "package_ndcs": [
@@ -7,7 +10,13 @@
     "0591-5307-10",
     "0591-5319-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "promethazine hydrochloride",
+      "name": "Promethazine Hydrochloride"
+    }
+  ],
   "setid": "a32255f0-0077-489e-bdc6-869aca8cd434",
   "source": "dailymed"
 }

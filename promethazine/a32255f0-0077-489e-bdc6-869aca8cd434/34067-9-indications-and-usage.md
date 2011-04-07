@@ -20,7 +20,7 @@ Preoperative, postoperative, or obstetric sedation.
 
 Prevention and control of nausea and vomiting associated with certain types of anesthesia and surgery.
 
-Therapy adjunctive to meperidine or other analgesics for control of postoperative pain.
+Therapy adjunctive to meperidine or other analgesics for control of post-operative pain.
 
 Sedation in both children and adults, as well as relief of apprehension and production of light sleep from which the patient can be easily aroused.
 
