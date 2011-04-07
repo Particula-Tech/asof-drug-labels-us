@@ -11,7 +11,7 @@ In recent controlled clinical trials, in patients with predominantly mild to mod
 In a large mortality trial, the incidence of hospitalization for suspected digoxin toxicity was 2% in patients taking LANOXIN Tablets compared to 0.9% in patients taking placebo.
 In this trial, the most common manifestations of digoxin toxicity included gastrointestinal and cardiac disturbances; CNS manifestations were less common.
 
-## Adults:
+## Adults
 
 ### Cardiac
 

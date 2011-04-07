@@ -1,4 +1,4 @@
-Principal Display Panel
+# Principal Display Panel
 
 NDC 0173-0260-10
 
@@ -19,7 +19,7 @@ In a vehicle of 40% propylene glycol and 10% alcohol.
 Dibasic sodium phosphate 0.17%, citric acid anhydrous 0.08%.
 
 See prescribing information for dosage information.
-Store at 25°C (77°F): excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room temperature] and protect from light.
+Store at 25°C (77°F): excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] and protect from light.
 
 Manufactured by Draxis Pharma Inc.
 
@@ -32,3 +32,5 @@ Research Triangle Park, NC 27709
 Made in Germany
 
 ©2008, GlaxoSmithKline
+
+281163
