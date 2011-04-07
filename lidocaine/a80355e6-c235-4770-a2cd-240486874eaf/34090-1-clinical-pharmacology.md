@@ -14,6 +14,7 @@ However, 55% of PLIAGLIS™ treated subjects still reported diminished sensation
 ## Pharmacokinetics
 
 Absorption: The amount of lidocaine and tetracaine systemically absorbed from PLIAGLIS™ is directly related to both the duration of application and the surface area over which it is applied, Table 1.
+
 Application of 59 g of PLIAGLIS™ over 400 cm2 for up to 120 minutes to adults produces peak plasma concentrations of lidocaine of 220 ng/mL.
 Tetracaine plasma levels were not measurable (<0.9 ng/mL).
 Systemic exposure to lidocaine, as measured by Cmax and AUC0-24, was proportional to the application area, and increased with application time up to 60 minutes.
@@ -25,11 +26,11 @@ Absorption of lidocaine and tetracaine following application of PLIAGLIS™
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PLIAGLIS™ | Area | Age Range | n | Application | Drug Content | Mean Cmax | Mean Tmax |
 | 21 | 400 | 18 - 64 | 4 | 30 | Lidocaine, 1.5 | 49 | 4.0 |
-|  |  |  |  |  | Tetracaine, 1.5 | < 0.9 | na |
+| Tetracaine, 1.5 | < 0.9 | na |  |  |  |  |  |
 | 33 | 400 | 18 - 64 | 4 | 60 | Lidocaine, 2.3 | 96 | 2.8 |
-|  |  |  |  |  | Tetracaine, 2.3 | < 0.9 | na |
+| Tetracaine, 2.3 | < 0.9 | na |  |  |  |  |  |
 | 31 | 400 | ≥ 65 | 6 | 60 | Lidocaine, 2.2 | 48 | 3.8 |
-|  |  |  |  |  | Tetracaine, 2.2 | < 0.9 | na |
+| Tetracaine, 2.2 | < 0.9 | na |  |  |  |  |  |
 | na = not applicable |  |  |  |  |  |  |  |
 
 Distribution: When lidocaine is administered intravenously to healthy volunteers, the steady-state volume of distribution is approximately 0.8 to 1.3 L/kg.
@@ -44,7 +45,7 @@ Metabolism: It is not known if lidocaine or tetracaine is metabolized in the ski
 Lidocaine is metabolized rapidly by the liver to a number of metabolites, including monoethylglycinexylidide (MEGX) and glycinexylidide (GX), both of which have pharmacologic activity similar to, but less potent than that of lidocaine.
 The major metabolic pathway of lidocaine, sequential N-deethylation to MEGX and GX, is primarily mediated by CYP1A2 with a minor role of CYP3A4.
 The metabolite, 2,6-xylidine, has unknown pharmacologic activity.
-Following intravenous administration of lidocaine, MEGX and GX concentrations in serum range from 11% to 36% and from 5% to 11% of lidocaine concentrations, respectively.
+Following intravenous administration of lidocaine, MEGX and GX concentrations in serum range from 11% to 36% and from 5% to 11%of lidocaine concentrations, respectively.
 Serum concentrations of MEGX were about one-third the serum lidocaine concentrations.
 
 Tetracaine undergoes rapid hydrolysis by plasma esterases.

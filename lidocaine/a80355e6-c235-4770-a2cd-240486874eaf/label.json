@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021717"
+  ],
   "inn": "lidocaine",
-  "labeler": "GALDERMA LABORATORIES, L.P.",
+  "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "0299-6100-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "lidocaine and tetracaine",
+      "name": "PLIAGLIS"
+    }
+  ],
   "setid": "a80355e6-c235-4770-a2cd-240486874eaf",
   "source": "dailymed"
 }

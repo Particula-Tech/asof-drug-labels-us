@@ -4,4 +4,4 @@ PLIAGLIS™ (lidocaine and tetracaine) Cream 7% / 7% is available as the followi
 Do not freeze.
 
 Manufactured for: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: Janssen Ortho, LLC Manati, Puerto Rico 00674 PLIAGLIS is a trademark of Galderma. © Copyright 2007 Galderma Revised April 2007 10156700-0407
+Fort Worth, Texas 76177 USA Manufactured by: Galderma Production Canada Inc. Baie d’Urfe’, QC H9X 3S4 Canada Made in Canada PLIAGLIS is a trademark of Galderma. © Copyright 2007 Galderma Revised April 2007 10156700-0407

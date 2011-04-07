@@ -21,7 +21,7 @@ However, providers are cautioned to carefully apply PLIAGLIS™ to ensure that t
 
 # PRECAUTIONS
 
-## General
+## General:
 
 PLIAGLIS™ should be used with caution in patients who may be more sensitive to the systemic effects of lidocaine and tetracaine, including the acutely ill or debilitated.
 
@@ -43,19 +43,19 @@ Patients with severe hepatic disease or pseudocholinesterase deficiency, because
 Lidocaine has been shown to inhibit viral and bacterial growth.
 The effect of PLIAGLIS™ on intradermal injections of live vaccines has not been determined.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be advised that topical application of local anesthetics such as PLIAGLIS™ may lead to diminished or blocked sensation in the treated skin.
 For this reason, patients should be instructed to avoid trauma to the treated area.
 Trauma can result from scratching or rubbing before complete sensation has returned, or from exposure to extreme temperatures or to excessive sunlight.
 
-## Drug Interactions
+## Drug Interactions:
 
 Antiarrhythmic Drugs: PLIAGLIS™ should be used with caution in patients receiving Class I antiarrhythmic drugs (such as tocainide and mexiletine) since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
 
 Local Anesthetics: When PLIAGLIS™ is used concomitantly with other products containing local anesthetic agents, the amount absorbed from all formulations should be considered since the systemic toxic effects are thought to be additive and potentially synergistic with lidocaine and tetracaine.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Carcinogenesis: Long-term studies in animals have not been performed to evaluate the carcinogenic potential of either lidocaine or tetracaine.
 
@@ -69,17 +69,13 @@ Although lidocaine treatment of male rats increased the copulatory interval and 
 Tetracaine did not affect fertility in male or female rats when given subcutaneous doses up to 7.5 mg/kg (45 mg/m2 or <1-fold the SDA).
 Multiples of exposure are based on an SDA of 1 g of PLIAGLIS™ applied to 10 cm2 for 60 minutes to a 60 kg person (645 mg/m2).
 
-## Use in Pregnancy
+## Use in Pregnancy:
 
-### Teratogenic Effects
-
-Pregnancy Category B. Lidocaine was not teratogenic in rats at doses up to 60 mg/kg (360 mg/m2 or <1-fold the SDA), nor in rabbits at doses up to 15 mg/kg (180 mg/m2 or <1-fold the SDA).
+Teratogenic Effects: Pregnancy Category B. Lidocaine was not teratogenic in rats at doses up to 60 mg/kg (360 mg/m2 or <1-fold the SDA), nor in rabbits at doses up to 15 mg/kg (180 mg/m2 or <1-fold the SDA).
 Tetracaine was not teratogenic in rats given subcutaneous doses up to 10 mg/kg (60 mg/m2), nor in rabbits at doses up to 5 mg/kg (60 mg/m2 or <1-fold the SDA), or in rabbits up to 5 mg/kg (60 mg/m2 or <1-fold the SDA).
 PLIAGLIS™ active components (lidocaine and tetracaine given as a 1:1 eutectic mixture) was not teratogenic in rats (60 mg/m2 or <1-fold the SDA) or rabbits (120 mg/m2 or <1-fold the SDA).
 
-### Nonteratogenic Effects
-
-Lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (<1-fold the SDA) injected into the masseter muscle of the jaw or into the gum of the lower jaw of Long-Evans hooded pregnant rats on gestation day 11, lead to developmental delays in neonatal behavior among offspring.
+Nonteratogenic Effects: Lidocaine containing 1:100,000 epinephrine at a dose of 6 mg/kg (<1-fold the SDA) injected into the masseter muscle of the jaw or into the gum of the lower jaw of Long-Evans hooded pregnant rats on gestation day 11, lead to developmental delays in neonatal behavior among offspring.
 Developmental delays were observed for negative geotaxis, static righting reflex, visual discrimination response, sensitivity and response to thermal and electrical shock stimuli, and water maze acquisition.
 The developmental delays of the neonatal animals were transient with responses becoming comparable to untreated animals later in life.
 The clinical relevance of the animal data is uncertain.
@@ -89,28 +85,20 @@ Pre- and postnatal maturational, behavioral, or reproductive development was not
 No adequate and well-controlled studies have been conducted in pregnant women.
 Because animal studies are not always predictive of human response, PLIAGLIS™ should be used during pregnancy only if the potential benefit justifies risk to the fetus.
 
-## Labor and Delivery
-
-Neither lidocaine nor tetracaine is contraindicated in labor and delivery.
+Labor and Delivery: Neither lidocaine nor tetracaine is contraindicated in labor and delivery.
 In humans, the use of lidocaine for labor conduction analgesia has not been associated with an increased incidence of adverse fetal effects either during delivery or during the neonatal period.
 Tetracaine has also been used as a conduction anesthetic for cesarean section without apparent adverse effects on offspring.
 Should PLIAGLIS™ be used concomitantly with other products containing lidocaine and/or tetracaine, total doses contributed by all formulations must be considered.
 
-## Nursing Mothers
-
-Lidocaine is excreted into human milk and it is not known if tetracaine is excreted into human milk.
+Nursing Mothers: Lidocaine is excreted into human milk and it is not known if tetracaine is excreted into human milk.
 Therefore, caution should be exercised when PLIAGLIS™ is administered to a nursing mother since the milk:plasma ratio of lidocaine is 0.4 and is not determined for tetracaine.
 In a prior report, when lidocaine was used as an epidural anesthetic for cesarean section in 27 women, a milk:plasma ratio of 1.07 ±0.82 was found by using AUC values.
 Following single dose administration of 20 mg of lidocaine for a dental procedure, the point value milk:plasma ratio was similarly reported as 1.1 at five to six hours after injection.
 Thus, the estimated maximum total daily dose of lidocaine delivered to the infant via breast milk would be approximately 36 mcg/kg.
 Based on these data and the low concentrations of lidocaine and tetracaine found in the plasma after topical administration of PLIAGLIS™ in recommended doses, the small amount of these primary compounds and their metabolites that would be ingested orally by a suckling infant is unlikely to cause adverse effects (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 
-## Pediatric Use
+Pediatric Use: Safety and effectiveness of PLIAGLIS™ in pediatric patients have not been established.
 
-Safety and effectiveness of PLIAGLIS™ in pediatric patients have not been established.
-
-## Use in Geriatric Patients
-
-Of the total number of subjects treated with PLIAGLIS™ in controlled clinical studies, 161 subjects were 65 years and older, while 50 subjects were over 75 years of age.
+Use in Geriatric Patients: Of the total number of subjects treated with PLIAGLIS™ in controlled clinical studies, 161 subjects were 65 years and older, while 50 subjects were over 75 years of age.
 No overall differences in safety and effectiveness were observed between these subjects and younger subjects.
 However, increased sensitivity in individual patients aged 65 years and older cannot be ruled out.
