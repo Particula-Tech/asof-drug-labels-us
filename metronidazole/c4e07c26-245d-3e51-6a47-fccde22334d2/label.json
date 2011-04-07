@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020901"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-3838-02"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "metronidazole",
+      "name": "MetroLotion"
+    }
+  ],
+  "setid": "c4e07c26-245d-3e51-6a47-fccde22334d2",
+  "source": "dailymed"
+}
