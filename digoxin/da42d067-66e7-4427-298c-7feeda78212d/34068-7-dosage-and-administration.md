@@ -107,11 +107,11 @@ Usual Digitalizing and Maintenance Dosages for LANOXIN®Injection Pediatric in C
 | 5 to 10 Years | 15 to 30 |  |
 | Over 10 Years | 8 to 12 |  |
 
-aIV digitalizing doses are 80% of oral digitalizing doses.
+a IV digitalizing doses are 80% of oral digitalizing doses.
 
-bDivided daily dosing is recommended for children under 10 years of age.
+b Divided daily dosing is recommended for children under 10 years of age.
 
-cProjected or actual digitalizing dose providing clinical response.
+c Projected or actual digitalizing dose providing clinical response.
 
 In children with renal disease, digoxin dosing must be carefully titrated based on clinical response.
 

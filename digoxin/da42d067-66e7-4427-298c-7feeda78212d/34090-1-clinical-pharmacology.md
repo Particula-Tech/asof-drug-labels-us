@@ -124,11 +124,11 @@ Subgroup Analyses of Mortality and Hospitalization During the First 2 Years Foll
 | CTR >0.55 | 2,346 | 687 | 650 | 0.85(0.77-0.94) | 398 | 287 | 0.65(0.57-0.75) |
 | EF >0.45c | 987 | 571 | 585 | 1.04(0.88-1.23) | 179 | 136 | 0.72(0.53-0.99) |
 
-aNumber of patients with an event during the first 2 years per 1,000 randomized patients.
+a Number of patients with an event during the first 2 years per 1,000 randomized patients.
 
-bRelative risk (95% confidence interval).
+b Relative risk (95% confidence interval).
 
-cDIG Ancillary Study.
+c DIG Ancillary Study.
 
 In situations where there is no statistically significant benefit of treatment evident from a trial’s primary endpoint, results pertaining to a secondary endpoint should be interpreted cautiously.
 

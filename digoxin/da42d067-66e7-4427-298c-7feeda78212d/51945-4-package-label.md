@@ -1,4 +1,4 @@
-Principal Display Panel
+# Principal Display Panel
 
 NDC 0173-0262-10
 
@@ -36,3 +36,5 @@ Research Triangle Park, NC 27709
 Made in Germany
 
 © 2008, GlaxoSmithKline
+
+10000000056356
