@@ -69,6 +69,16 @@ There is evidence that phenothiazines are excreted in the breast milk of nursing
 
 # PRECAUTIONS
 
+## Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Compro® at the first sign of a decline in WBC in the absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Compro® and have their WBC followed until recovery.
+
 The antiemetic action of prochlorperazine may mask the signs and symptoms of overdosage of other drugs and may obscure the diagnosis and treatment of other conditions such as intestinal obstruction, brain tumor and Reye's Syndrome (see WARNINGS).
 
 When prochlorperazine is used with cancer chemotherapeutic drugs, vomiting as a sign of the toxicity of these agents may be obscured by the antiemetic effect of prochlorperazine.
@@ -132,12 +142,12 @@ These adverse events include hypotension, anticholinergic effects (such as urina
 Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received prochlorperazine.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).
 
-## Leukopenia, Neutropenia and Agranulocytosis
+## Pregnancy:
 
-In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+### Non-teratogenic Effects
 
-Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Compro® at the first sign of a decline in WBC in the absence of other causative factors.
+Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these infants.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases infants have required intensive care unit support and prolonged hospitalization.
 
-Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Compro® and have their WBC followed until recovery.
+Prochlorperazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
