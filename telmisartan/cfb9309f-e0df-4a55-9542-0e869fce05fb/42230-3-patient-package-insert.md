@@ -1,6 +1,6 @@
 Patient Information
 
-MICARDIS®(my-CAR-dis) (telmisartan) Tablets
+MICARDIS® (my-CAR-dis) (telmisartan) Tablets
 
 Read this Patient Information before you start taking MICARDIS tablets and each time you get a refill.
 There may be new information.
@@ -49,6 +49,7 @@ Especially tell your doctor if you take:
 
 - digoxin (Lanoxin®, Lanoxicaps®)
 - lithium (Eskalith®, Lithobid®)
+- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
 - ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
 - water pills (diuretic)
 
@@ -76,7 +77,7 @@ What important safety information should I know about MICARDIS tablets?
 
 What are the possible side effects of MICARDIS tablets?
 
-MICARDIS tablets may cause serious side effects, including
+MICARDIS tablets may cause serious side effects, including:
 
 - Injury or death to your unborn baby.
   See "What is the most important information I should know about MICARDIS tablets?"
@@ -172,8 +173,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2011
+Revised: April 2011
 
-OT1200LA182011 090340194/7
+OT1200MC092011 090340194/8
 
-IT12004HA182011 10005385/5
+IT12004I 10005385/5

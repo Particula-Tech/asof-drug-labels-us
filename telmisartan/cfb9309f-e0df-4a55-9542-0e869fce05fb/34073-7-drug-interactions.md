@@ -6,6 +6,12 @@ Therefore, monitor digoxin levels when initiating, adjusting, and discontinuing 
 Lithium: Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists including MICARDIS.
 Therefore, monitor serum lithium levels during concomitant use.
 
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including telmisartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving telmisartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including telmisartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
 Ramipril and Ramiprilat: Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3- and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4- and 1.5-fold, respectively.
 In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
 When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
