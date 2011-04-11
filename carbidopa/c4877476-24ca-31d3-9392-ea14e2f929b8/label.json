@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017555"
+  ],
   "inn": "carbidopa",
-  "labeler": "Bristol-Myers Squibb",
+  "labeler": "Bristol-Myers Squibb Pharma Company",
   "package_ndcs": [
     "0056-0647-68",
     "0056-0650-68",
     "0056-0654-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa and levodopa",
+      "name": "SINEMET"
+    }
+  ],
   "setid": "c4877476-24ca-31d3-9392-ea14e2f929b8",
   "source": "dailymed"
 }
