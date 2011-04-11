@@ -19,3 +19,5 @@ Do not repackage; dispense and store in original container.
 Each tablet contains 85 mg of sumatriptan and 500 mg of naproxen sodium.
 
 9 Tablets
+
+10000000072136

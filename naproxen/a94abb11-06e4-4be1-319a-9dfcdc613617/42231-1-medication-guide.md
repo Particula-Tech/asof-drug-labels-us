@@ -1,5 +1,3 @@
-# PATIENT INFORMATION
-
 MEDICATION GUIDE
 
 TREXIMET®[trex' i-met] Tablets
