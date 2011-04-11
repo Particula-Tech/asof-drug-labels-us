@@ -24,9 +24,8 @@ Because of the potential for serious adverse reactions in nursing infants from G
 
 ## 8.4 Pediatric Use
 
-Gleevec safety and efficacy have been demonstrated in children with newly diagnosed Ph+ chronic phase CML and in children with Ph+ chronic phase CML with recurrence after stem cell transplantation or resistance to interferon-alpha therapy.
+Gleevec safety and efficacy have been demonstrated in children with newly diagnosed Ph+ chronic phase CML.
 There are no data in children under 2 years of age.
-Follow-up in children with newly diagnosed Ph+ chronic phase CML is limited.
 
 As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2-4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).

@@ -28,8 +28,9 @@ Patients with cardiac disease or risk factors for cardiac failure should be moni
 ## 5.4 Hepatotoxicity
 
 Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.3)].
+Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of Gleevec.
 Liver function (transaminases, bilirubin, and alkaline phosphatase) should be monitored before initiation of treatment and monthly, or as clinically indicated.
-Laboratory abnormalities should be managed with interruption and/or dose reduction of the treatment with Gleevec [see Dosage and Administration (2.10)].
+Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.10)].
 
 When Gleevec is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
@@ -59,6 +60,9 @@ If either is abnormal, the prophylactic use of systemic steroids (1-2 mg/kg) for
 ## 5.8 Dermatologic Toxicities
 
 Bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome, have been reported with use of Gleevec.
+In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon re-challenge.
+Several foreign post-marketing reports have described cases in which patients tolerated the reintroduction of Gleevec therapy after resolution or improvement of the bullous reaction.
+In these instances, Gleevec was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.
 
 ## 5.9 Hypothyroidism
 
@@ -88,3 +92,16 @@ Sexually active female patients taking Gleevec should use adequate contraception
 Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area..
 Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on body surface area.
 [see Use in Specific Populations (8.1)]
+
+## 5.12 Children and Adolescents
+
+Growth retardation has been reported in children and pre-adolescents receiving Gleevec.
+The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
+Therefore, close monitoring of growth in children under Gleevec treatment is recommended.
+[see Postmarketing Experience (6.13)]
+
+## 5.13 Tumor Lysis Syndrome
+
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL and eosinophilic leukemia receiving Gleevec.
+The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
+These patients should be monitored closely and appropriate precautions taken.

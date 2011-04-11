@@ -530,14 +530,8 @@ Gastrointestinal disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor
 
 Skin and subcutaneous tissue disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome
 
-Musculoskeletal and connective tissue disorders: avascular necrosis/hip osteonecrosis
-
-rhabdomyolysis/myopathy
+Musculoskeletal and connective tissue disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children
 
 Reproduction disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
 1Including some fatalities
-
-In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon re-challenge.
-Several foreign post-marketing reports have described cases in which patients tolerated the reintroduction of Gleevec therapy after resolution or improvement of the bullous reaction.
-In these instances, Gleevec was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.

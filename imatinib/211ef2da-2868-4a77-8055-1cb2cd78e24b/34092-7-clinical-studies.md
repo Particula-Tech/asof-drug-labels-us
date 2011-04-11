@@ -138,9 +138,14 @@ Complete hematologic response (CHR) was observed in 78% of patients after 8 week
 The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
+Patients were allowed to be removed from protocol therapy to undergo alternative therapy including hematopoietic stem cell transplantation.
+Thirty one children received stem cell transplantation.
+Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal.
+Twenty five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range 4 to 24).
+Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol therapy.
 
 One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy.
-Patients ranged in age from 3-20 years old; 3 were 3-11 years old, 9 were 12-18 years old, and 2 were >18 years old.
+These patients had not previously received Gleevec and ranged in age from 3-20 years old; 3 were 3-11 years old, 9 were 12-18 years old, and 2 were >18 years old.
 Patients were treated at doses of 260 mg/m2/day (n=3), 340 mg/m2/day (n=4), 440 mg/m2/day (n=5) and 570 mg/m2/day (n=2).
 In the 13 patients for whom cytogenetic data are available, 4 achieved a major cytogenetic response, 7 achieved a complete cytogenetic response, and 2 had a minimal cytogenetic response.
 

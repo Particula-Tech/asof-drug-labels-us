@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 100 mg Tablets
 
@@ -12,7 +12,7 @@ GLEEVEC® (imatinib mesylate)
 
 Each tablet contains 100 mg of imatinib free base
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Package Label – 400 mg Tablets
 

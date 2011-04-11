@@ -21,10 +21,9 @@ The recommended dose of Gleevec is 400 mg/day for adult patients in chronic phas
 
 In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6-12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
 
-## 2.2 Pediatric Patients with Ph+ CML
+## 2.2 Pediatric Patients with Ph+ CML CP
 
 The recommended dose of Gleevec for children with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
-The recommended Gleevec dose is 260 mg/m2/day for children with Ph+ chronic phase CML recurrent after stem cell transplant or who are resistant to interferon-alpha therapy.
 
 ## 2.3 Ph+ ALL
 
@@ -68,7 +67,7 @@ If patients must be co-administered a strong CYP3A4 inducer, based on pharmacoki
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment:Patients with moderate renal impairment (CrCL = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Renal Impairment: Patients with moderate renal impairment (CrCL = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
 Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40-59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
@@ -80,7 +79,7 @@ A dose of 100 mg/day was tolerated in two patients with severe renal impairment.
 
 If elevations in bilirubin >3 x institutional upper limit of normal (IULN) or in liver transaminases >5 x IULN occur, Gleevec should be withheld until bilirubin levels have returned to a <1.5 x IULN and transaminase levels to <2.5 x IULN.
 In adults, treatment with Gleevec may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg).
-In children, daily doses can be reduced under the same circumstances from 340 mg/m2/day to 260 mg/m2/day or from 260 mg/m2/day to 200 mg/m2/day, respectively.
+In children, daily doses can be reduced under the same circumstances from 340 mg/m2/day to 260 mg/m2/day.
 
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), Gleevec should be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
@@ -98,4 +97,3 @@ Table 1 Dose Adjustments for Neutropenia and Thrombocytopenia
 | Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg) Ph+ ALL (starting dose 600 mg) | ANC <0.5 x 109/L and/or platelets <10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy) If cytopenia is unrelated to leukemia, reduce dose of Gleevec to 400 mg If cytopenia persists 2 weeks, reduce further to 300 mg If cytopenia persists 4 weeks and is still unrelated to leukemia, stop Gleevec until ANC ≥1 x 109/L and platelets ≥20 x 109/L and then resume treatment at 300 mg |
 | DFSP (starting dose 800 mg) | ANC <1.0 x 109/L and/or platelets <50 x 109/L | Stop Gleevec until ANC ≥1.5 x 109/L and platelets ≥75 x 109/L Resume treatment with Gleevec at 600 mg In the event of recurrence of ANC <1.0 x 109/L and/or platelets <50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 400 mg |
 | Pediatric newly diagnosed chronic phase CML (starting dose 340 mg/m2) | ANC <1.0 x 109/L and/or platelets <50 x 109/L | Stop Gleevec until ANC ≥1.5 x 109/L and platelets ≥75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) In the event of recurrence of ANC <1.0 x 109/L and/or platelets <50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 260 mg/m2 |
-| Pediatric patients with chronic phase CML recurring after transplant or resistant to Interferon (starting dose 260 mg/m2) | ANC <1.0 x 109/L and/or platelets <50 x 109/L | Stop Gleevec until ANC ≥1.5 x 109/L and platelets ≥75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) In the event of recurrence of ANC <1.0 x 109/L and/or platelets <50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 200 mg/m2 |

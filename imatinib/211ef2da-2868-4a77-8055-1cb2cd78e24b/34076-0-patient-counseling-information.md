@@ -18,12 +18,18 @@ Patients should be advised to tell their doctor if they experience side effects 
 
 ## 17.4 Drug Interactions
 
-Patients should be advised not to take any other medications, including over-the-counter medications such as acetaminophen or herbal products without talking to their doctor or pharmacist first.
+Patients should be advised not to take any other medications, including over-the-counter medications such as herbal products without talking to their doctor or pharmacist first.
 Examples of other medications that should not be taken with Gleevec are warfarin, erythromycin, and phenytoin.
 Patients should also be advised to tell their doctor if they are taking or plan to take iron supplements.
 Patients should also avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking Gleevec.
 
-T2010-21
+## 17.5 Pediatric
+
+Patients should be advised that growth retardation has been reported in children and pre-adolescents receiving Gleevec.
+The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
+Therefore, close monitoring of growth in children under Gleevec treatment is recommended.
+
+T2011-40
 
 Distributed by:
 
