@@ -28,7 +28,7 @@ Each 100 mL contains 1000 mg acetaminophen, USP, 3850 mg mannitol, USP,
 
 25 mg cysteine hydrochloride, monohydrate, USP, 10.4 mg dibasic sodium
 
-phosphate, anhydrous, USP. pH may have been adjusted with hydrochloric acid
+phosphate, USP. pH may have been adjusted with hydrochloric acid
 
 and/or sodium hydroxide.
 
