@@ -6,7 +6,7 @@ When using PROZAC and olanzapine in combination, also refer to the Adverse React
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
 
-Multiple doses of PROZAC had been administered to 10,782 patients with various diagnoses in US clinical trials as of May 8, 1995.
+Multiple doses of PROZAC have been administered to 10,782 patients with various diagnoses in US clinical trials.
 In addition, there have been 425 patients administered PROZAC in panic clinical trials.
 Adverse reactions were recorded by clinical investigators using descriptive terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of reactions into a limited (i.e., reduced) number of standardized reaction categories.
@@ -151,26 +151,33 @@ Reactions are classified by body system using the following definitions: frequen
 
 Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
 
-Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia.
+Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
 
 Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
 
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
-Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, buccoglossal syndrome, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
 Respiratory System — Rare: larynx edema.
 
-Skin and Appendages — Rare: purpuric rash.
+Skin and Appendages — Infrequent: alopecia; Rare: purpuric rash.
 
 Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
+
+Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
+
+1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
+
+2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
+Adjusted for gender.
 
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of PROZAC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Voluntary reports of adverse reactions temporally associated with PROZAC that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsades de pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
+Voluntary reports of adverse reactions temporally associated with PROZAC that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsades de pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
 
 1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.

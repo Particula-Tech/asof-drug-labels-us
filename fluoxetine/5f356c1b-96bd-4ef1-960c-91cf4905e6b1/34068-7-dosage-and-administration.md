@@ -141,11 +141,11 @@ The physician should periodically re-examine the need for continued pharmacother
 
 Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
-PROZAC monotherapy is not indicated for the treatment of treatment resistant depression (Major Depressive Disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode) have not been established.
+PROZAC monotherapy is not indicated for the treatment of treatment resistant depression (Major Depressive Disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of pregnant Women During the Third Trimester — When treating pregnant women with PROZAC during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
+Treatment of Pregnant Women during the Third Trimester — When treating pregnant women with PROZAC during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 The physician may consider tapering PROZAC in the third trimester [see Use in Specific Populations (8.1)].
 

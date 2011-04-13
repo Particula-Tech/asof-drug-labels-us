@@ -1,199 +1,248 @@
 Medication Guide
 
-PROZAC® (PRO-zac) (fluoxetine hydrochloride) Pulvule® and WeeklyTM Capsule
+PROZAC® (PRO-zac)
+
+(fluoxetine hydrochloride)
+
+Pulvule® and Weekly™ Capsule
 
 Read the Medication Guide that comes with PROZAC before you start taking it and each time you get a refill.
 There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your medical condition or treatment.
-Talk with your doctor or pharmacist if there is something you do not understand or you want to learn more about PROZAC.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+Talk with your healthcare provider if there is something you do not understand or want to learn more about.
 
 What is the most important information I should know about PROZAC?
 
-Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
+PROZAC and other antidepressant medicines may cause serious side effects, including:
 
-Talk to your, or your family member's, healthcare provider about:
+1.
+Suicidal thoughts or actions:
 
-- all risks and benefits of treatment with antidepressant medicines
-- all treatment choices for depression or other serious mental illness
+- PROZAC and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Watch for these changes and call your healthcare provider right away if you notice:
+  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - Pay particular attention to such changes when PROZAC is started or when the dose is changed.
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     This is very important when an antidepressant medicine is started or when the dose is changed.
-   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   - Keep all follow-up visits with the healthcare provider as scheduled.
-     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
-- thoughts about suicide or dying
 - attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling very agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
 - acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- or other unusual changes in behavior or mood
+- acting aggressive or violent
+- thoughts about suicide or dying
+- new or worse depression
+- new or worse anxiety or panic attacks
+- feeling agitated, restless, angry or irritable
+- trouble sleeping
+- an increase in activity or talking more than what is normal for you
+- other unusual changes in behavior or mood
 
-What else do I need to know about antidepressant medicines?
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+PROZAC may be associated with these serious side effects:
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
+2.
+Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+This condition can be life-threatening and may include:
+
+- agitation, hallucinations, coma or other changes in mental status
+- coordination problems or muscle twitching (overactive reflexes)
+- racing heartbeat, high or low blood pressure
+- sweating or fever
+- nausea, vomiting, or diarrhea
+- muscle rigidity
+
+3.
+Severe allergic reactions:
+
+- trouble breathing
+- swelling of the face, tongue, eyes or mouth
+- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+
+4.
+Abnormal bleeding: PROZAC and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+
+5.
+Seizures or convulsions
+
+6.
+Manic episodes:
+
+- greatly increased energy
+- severe trouble sleeping
+- racing thoughts
+- reckless behavior
+- unusually grand ideas
+- excessive happiness or irritability
+- talking more or faster than usual
+
+7.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+8.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
+
+Do not stop PROZAC without first talking to your healthcare provider.
+Stopping PROZAC too quickly may cause serious symptoms including:
+
+- anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+- headache, sweating, nausea, dizziness
+- electric shock-like sensations, shaking, confusion
 
 What is PROZAC?
 
-PROZAC is a prescription medicine used:
+PROZAC is a prescription medicine used to treat depression.
+It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
+You should discuss all treatment choices with your healthcare provider.
 
-- for short and long-term treatment of depression in adults and children over the age of 8.
-- for short and long-term treatment of Obsessive Compulsive Disorder (OCD) in adults and children over the age of 7.
-- for short and long-term treatment of Bulimia Nervosa in adults.
-- for short-term treatment of Panic Disorder, with or without agoraphobia, in adults.
-- with the medicine olanzapine (Zyprexa), for the short-term treatment of episodes of depression that happen with Bipolar I Disorder.
-- with the medicine olanzapine (Zyprexa), for the short-term treatment of episodes of depression that do not respond to 2 other medicines, also called treatment resistant depression.
+PROZAC is used to treat:
 
-It is not known if PROZAC and olanzapine (Zyprexa) taken together is safe and works in children under 18 years of age.
+- Major Depressive Disorder (MDD)
+- Obsessive Compulsive Disorder (OCD)
+- Bulimia Nervosa*
+- Panic Disorder*
+- Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)*
+- Treatment Resistant Depression (depression that has not gotten better with at least 2 other treatments), taken with olanzapine (Zyprexa)*
 
-The symptoms of depression (Major Depressive Disorder, Bipolar I Disorder and Treatment Resistant Depression) include decreased mood, decreased interest, increased guilty feelings, decreased energy, decreased concentration, changes in appetite, and suicidal thoughts or behavior.
-With treatment, some of your symptoms of depression may improve.
+*Not approved for use in children
 
-OCD is an anxiety disorder and is characterized by recurrent, unwanted thoughts (obsessions) and/or repetitive behaviors (compulsions).
-With treatment, some of your symptoms of OCD may improve.
-
-Panic Disorder is an anxiety disorder that includes panic attacks, which are sudden feelings of terror for no reason.
-You may also have physical symptoms, such as; fast heartbeat, chest pain, breathing difficulty, dizziness.
-With treatment, some of your symptoms of Panic Disorder may improve.
-
-Bulimia Nervosa, involves periods of overeating followed by purging (e.g. vomiting, excessive laxative use).
-With treatment, some of your symptoms of Bulimia Nervosa may improve.
-
-If you do not think you are getting better, call your doctor.
+Talk to your healthcare provider if you do not think that your condition is getting better with PROZAC treatment.
 
 Who should not take PROZAC?
 
-- Do not take PROZAC if you take a Monoamine Oxidase Inhibitor (MAOI) or if you stopped taking an MAOI in the last 2 weeks.
-- Do not take an MAOI within 5 weeks of stopping PROZAC.
-  People who take PROZAC close in time to an MAOI can have serious and life-threatening side effects, with symptoms including: Ask your doctor or pharmacist if you are not sure if your medicine is an MAOI.
+Do not take PROZAC if you:
+
+- are allergic to fluoxetine hydrochloride or any of the ingredients in PROZAC.
+  See the end of this Medication Guide for a complete list of ingredients in PROZAC.
+- take a Monoamine Oxidase Inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
+  - Do not take an MAOI within 5 weeks of stopping PROZAC.
+  - Do not start PROZAC if you stopped taking an MAOI in the last 2 weeks.
+
+People who take PROZAC close in time to an MAOI may have serious or even life-threatening side effects.
+Get medical help right away if you have any of these symptoms:
+
+- 
   - high fever
-  - continued muscle spasms that you can not control
-  - rigid muscles
-  - changes in heart rate and blood pressure that happen fast
+  - uncontrolled muscle spasms
+  - stiff muscles
+  - rapid changes in heart rate or blood pressure
   - confusion
-  - unconsciousness
-- Do not take PROZAC if you take Mellaril® (thioridazine).
-  Do not take Mellaril within 5 weeks of stopping PROZAC.
-  Mellaril can cause serious heart rhythm problems and you could die suddenly.
-- Do not take PROZAC if you take the antipsychotic medicine pimozide (Orap®).
+  - loss of consciousness (pass out)
 
-What should I tell my doctor before taking PROZAC?
+- take Mellaril® (thioridazine).
+  Do not take Mellaril® within 5 weeks of stopping PROZAC because this can cause serious heart rhythm problems or sudden death.
+- take the antipsychotic medicine pimozide (Orap®) because this can cause serious heart problems.
 
-PROZAC may not be right for you.
-Before starting PROZAC, tell your doctor about all your medical conditions, including if you have or had any of the following:
+What should I tell my healthcare provider before taking PROZAC?
+Ask if you are not sure.
 
-- seizures (convulsions)
-- bipolar disorder (mania)
+Before starting PROZAC, tell your healthcare provider if you:
+
+- Are taking certain drugs or treatments such as:
+  - Triptans used to treat migraine headache
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, MAOI's (including linezolid, an antibiotic), or antipsychotics
+  - Tramadol
+  - Over-the-counter supplements such as tryptophan or St. John's Wort
+  - Electroconvulsive therapy (ECT)
+- have liver problems
+- have kidney problems
+- have heart problems
+- have or had seizures or convulsions
+- have bipolar disorder or mania
+- have low sodium levels in your blood
+- have a history of a stroke
+- have high blood pressure
+- have or had bleeding problems
 - are pregnant or plan to become pregnant.
   It is not known if PROZAC will harm your unborn baby.
+  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
 - are breast-feeding or plan to breast-feed.
-  PROZAC can pass into your breast milk and may harm your baby.
-  You should not breast-feed while taking PROZAC.
-  Talk to your doctor about the best way to feed your baby if you take PROZAC.
+  Some PROZAC may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while taking PROZAC.
 
-Tell your doctor about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-PROZAC and some medicines may interact with each other and may not work as well, or cause possible serious side effects.
-Your doctor can tell you if it is safe to take PROZAC with your other medicines.
-Do not start or stop any medicine while taking PROZAC without talking to your doctor first.
+Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+PROZAC and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
-If you take PROZAC, you should not take any other medicines that contain fluoxetine hydrochloride:
+Your healthcare provider or pharmacist can tell you if it is safe to take PROZAC with your other medicines.
+Do not start or stop any medicine while taking PROZAC without talking to your healthcare provider first.
 
-- Symbyax
-- Sarafem
-- Prozac Weekly
-
-You could take too much medicine (overdose).
+| If you take PROZAC, you should not take any other medicines that contain fluoxetine hydrochloride including: Symbyax Sarafem Prozac Weekly |
+| --- |
 
 How should I take PROZAC?
 
 - Take PROZAC exactly as prescribed.
-  Your doctor may need to change (adjust) the dose of PROZAC until it is right for you.
+  Your healthcare provider may need to change the dose of PROZAC until it is the right dose for you.
+- PROZAC may be taken with or without food.
 - If you miss a dose of PROZAC, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of PROZAC at the same time.
-- To prevent serious side effects, do not stop taking PROZAC suddenly.
-  If you need to stop taking PROZAC, your doctor can tell you how to safely stop taking it.
-- If you take too much PROZAC, call your doctor or poison control center right away, or get emergency treatment.
-- PROZAC can be taken with or without food.
-- PROZAC is usually taken once a day or once weekly, depending on how your doctor prescribes your medicine.
-- If you do not think you are getting better or have any concerns about your condition while taking PROZAC, call your doctor.
+- If you take too much PROZAC, call your healthcare provider or poison control center right away, or get emergency treatment.
 
 What should I avoid while taking PROZAC?
 
-- PROZAC can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
-  You should not drive, operate heavy machinery, or do other dangerous activities until you know how PROZAC affects you.
+PROZAC can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
+You should not drive, operate heavy machinery, or do other dangerous activities until you know how PROZAC affects you.
+Do not drink alcohol while using PROZAC.
 
 What are the possible side effects of PROZAC?
 
-PROZAC may be associated with the following serious risks:
+PROZAC may cause serious side effects, including:
 
-- Serotonin Syndrome: This is a condition that can be life threatening.
-  Call your doctor right away if you become severely ill and have some or all of these symptoms:
-  - agitation
-  - hallucinations
-  - problems with coordination
-  - racing heart beat
-  - over-active reflexes
-  - fever
-  - nausea, vomiting, and diarrhea
-- Severe allergic reactions: Tell your doctor right away if you get red itchy welts (hives) or, a rash alone or with fever and joint pain, while taking PROZAC.
-  Call your doctor right away if you become severely ill and have some or all of these symptoms:
-  - swelling of your face, eyes, or mouth
-  - trouble breathing
-- Abnormal bleeding: Tell your doctor if you notice any increased or unusual bruising or bleeding while taking PROZAC, especially if you take one of these medicines:
-  - the blood thinner warfarin (Coumadin, Jantoven)
-  - a non-steroidal anti-inflammatory drug (NSAID)
-  - aspirin
-- Mania: You may have a high mood, become extremely irritable, have too much energy, feel pressure to keep talking, or have a decreased need for sleep.
-- Seizures
-- Loss of appetite
-- Low salt (sodium) levels in the blood (hyponatremia): Call your doctor right away if you become severely ill and have some or all of these symptoms:
-  - headache
-  - feel weak
-  - confusion
-  - problems concentrating
-  - memory problems
-  - feel unsteady
+- See “What is the most important information I should know about PROZAC?”
+- Problems with blood sugar control.
+  People who have diabetes and take PROZAC may have problems with low blood sugar while taking PROZAC.
+  High blood sugar can happen when PROZAC is stopped.
+  Your healthcare provider may need to change the dose of your diabetes medicines when you start or stop taking PROZAC.
+- Feeling anxious or trouble sleeping
 
-Common possible side effects of PROZAC include: abnormal dreams, orgasm problems, decreased appetite, anxiety, weakness, diarrhea, dry mouth, indigestion, flu, difficulty maintaining an erection for sexual activity, trouble sleeping, decreased sex drive, feeling sick to your stomach, nervousness, sore throat, rash, watery nasal discharge, sleepiness, sweating, tremor (shakes), hot flashes, and yawn.
+Common possible side effects in people who take PROZAC include:
 
-Tell your doctor about any side effect that bothers you or that does not go away.
+- unusual dreams
+- sexual problems
+- loss of appetite, diarrhea, indigestion, nausea or vomiting, weakness, or dry mouth
+- flu symptoms
+- feeling tired or fatigued
+- change in sleep habits
+- yawning
+- sinus infection or sore throat
+- tremor or shaking
+- sweating
+- feeling anxious or nervous
+- hot flashes
+- rash
 
-These are not all the possible side effects with PROZAC.
-For more information, ask your doctor or pharmacist.
+Other side effects in children and adolescents include:
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+- increased thirst
+- abnormal increase in muscle movement or agitation
+- nose bleed
+- urinating more often
+- heavy menstrual periods
+- possible slowed growth rate and weight change.
+  Your child's height and weight should be monitored during treatment with PROZAC.
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+These are not all the possible side effects of PROZAC.
+For more information, ask your healthcare provider or pharmacist.
+
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store PROZAC?
 
-- Store PROZAC at room temperature, between 59°F to 86°F (15°C to 30°C).
+- Store PROZAC at room temperature between 59°F and 86°F (15°C to 30°C).
 - Keep PROZAC away from light.
+- Keep PROZAC bottle closed tightly.
 
 Keep PROZAC and all medicines out of the reach of children.
 
@@ -205,25 +254,32 @@ Do not give PROZAC to other people, even if they have the same condition.
 It may harm them.
 
 This Medication Guide summarizes the most important information about PROZAC.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about PROZAC that was written for healthcare professionals.
-For more information about PROZAC call 1-800-Lilly-Rx (1-800-545-5979) or visit www.prozac.com.
+If you would like more information, talk with your healthcare provider.
+You may ask your healthcare provider or pharmacist for information about PROZAC that is written for healthcare professionals.
+
+For more information about PROZAC call 1-800-Lilly-Rx (1-800-545-5979) or go to www.prozac.com.
 
 What are the ingredients in PROZAC?
 
-Active ingredients: fluoxetine hydrochloride
+Active ingredient: fluoxetine hydrochloride
 
-Inactive ingredients in pulvules: starch, gelatin, silicone, titanium dioxide, iron oxide, and other inactive ingredients.
-The 10 and 20 mg pulvules also contain FD&C Blue No. 1, and the 40 mg pulvules also contains FD&C Blue No. 1 and FD&C Yellow No. 6.
+Inactive ingredients:
 
-Inactive ingredients in PROZAC Weekly™ capsules: D&C Yellow No. 10, FD&C Blue No. 2, gelatin, hypromellose, hypromellose acetate succinate, sodium lauryl sulfate, sucrose, sugar spheres, talc, titanium oxide, triethyl citrate, and other inactive ingredients.
+- PROZAC pulvules: starch, gelatin, silicone, titanium dioxide, iron oxide, and other inactive ingredients.
+  The 10 and 20 mg Pulvules also contain FD&C Blue No. 1, and the 40 mg Pulvules also contains FD&C Blue No. 1 and FD&C Yellow No. 6.
+- PROZAC Weekly™ capsules: D&C Yellow No. 10, FD&C Blue No. 2, gelatin, hypromellose, hypromellose acetate succinate, sodium lauryl sulfate, sucrose, sugar spheres, talc, titanium oxide, triethyl citrate, and other inactive ingredients.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised June 23, 2009
+Medication Guide revised April 4, 2011
 
-Eli Lilly and Company Indianapolis, IN 46285, USA www.prozac.com
+Eli Lilly and Company
 
-Copyright © 2009, Eli Lilly and Company.
+Indianapolis, IN 46285, USA
+
+www.prozac.com
+
+Copyright © 2009, 2011, Eli Lilly and Company.
 All rights reserved.
-PV 7101 AMP
+
+PV 7102 AMP

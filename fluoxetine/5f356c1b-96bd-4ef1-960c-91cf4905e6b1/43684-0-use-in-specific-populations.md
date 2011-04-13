@@ -7,11 +7,14 @@ When using PROZAC and olanzapine in combination, also refer to the Use in Specif
 Pregnancy Category C — PROZAC should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
-Treatment of Pregnant Women During the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
-Results of a number of epidemiological studies assessing the risk of fluoxetine exposure in early pregnancy have been inconsistent and have not provided conclusive evidence of an increased risk of congenital malformations.
-However, one meta-analysis suggests a potential risk of cardiovascular defects in infants of women exposed to fluoxetine during the first trimester of pregnancy compared to infants of women who were not exposed to fluoxetine.
+Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
+More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
+However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1,359) who were not exposed to fluoxetine.
+There was no specific pattern of cardiovascular malformations.
+Overall, however, a causal relationship has not been established.
 
-Treatment of Pregnant Women During the Third Trimester — Neonates exposed to PROZAC, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Treatment of Pregnant Women during the Third Trimester — Neonates exposed to PROZAC, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SNRIs and SSRIs or, possibly, a drug discontinuation syndrome.

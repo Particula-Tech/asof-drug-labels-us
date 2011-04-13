@@ -1,8 +1,8 @@
-Literature revised October 29, 2009
+Literature revised April 4, 2011
 
 Eli Lilly and Company, Indianapolis, IN 46285, USA
 
-Copyright © 1987, 2009, Eli Lilly and Company.
+Copyright © 1987, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 7430 DPP
+PV 7431 DPP
