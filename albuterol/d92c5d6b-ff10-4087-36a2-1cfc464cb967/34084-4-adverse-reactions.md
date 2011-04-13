@@ -17,9 +17,7 @@ The population was 21 female, 25 male and 25 white, 17 black, 3 Hispanic, 1 othe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults and Adolescents 12 Years of Age and Older
-
-The two 12-week, randomized, double-blind studies in 610 adolescent and adult patients with asthma that compared VENTOLIN HFA, a CFC 11/12-propelled albuterol inhaler, and an HFA-134a placebo inhaler.
+Adults and Adolescents 12 Years of Age and Older:The two 12-week, randomized, double-blind studies in 610 adolescent and adult patients with asthma that compared VENTOLIN HFA, a CFC 11/12-propelled albuterol inhaler, and an HFA-134a placebo inhaler.
 Overall, the incidence and nature of the adverse reactions reported for VENTOLIN HFA and a CFC 11/12-propelled albuterol inhaler were comparable.
 Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these studies that occurred at a rate of 3% or greater in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group.
 
@@ -42,9 +40,7 @@ Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trial
 Adverse reactions reported by less than 3% of the adolescent and adult patients receiving VENTOLIN HFA and by a greater proportion of patients receiving VENTOLIN HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to VENTOLIN HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
 Palpitation and dizziness have also been observed with VENTOLIN HFA.
 
-Pediatric Patients
-
-Results from the 2-week pediatric clinical study in patients with asthma 4 to 11 years of age showed that this pediatric population had an adverse reaction profile similar to that of the adolescent and adult populations.
+Pediatric Patients: Results from the 2-week pediatric clinical study in patients with asthma 4 to 11 years of age showed that this pediatric population had an adverse reaction profile similar to that of the adolescent and adult populations.
 
 Three studies have been conducted to evaluate the safety and efficacy of VENTOLIN HFA in patients between birth and 4 years of age.
 The results of these studies did not establish the efficacy of VENTOLIN HFA in this age-group [see Pediatric Use (8.4)].

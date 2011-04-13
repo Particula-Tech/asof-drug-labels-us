@@ -2,9 +2,7 @@
 
 ## 14.1 Bronchospasm Associated With Asthma
 
-Adult and Adolescent Patients 12 Years of Age and Older
-
-The efficacy of VENTOLIN HFA was evaluated in two 12-week, randomized, double-blind, placebo controlled trials in patients 12 years of age and older with mild to moderate asthma.
+Adult and Adolescent Patients 12 Years of Age and Older: The efficacy of VENTOLIN HFA was evaluated in two 12-week, randomized, double-blind, placebo controlled trials in patients 12 years of age and older with mild to moderate asthma.
 These trials included a total of 610 patients (323 males, 287 females).
 In each trial, patients received 2 inhalations of VENTOLIN HFA, CFC 11/12-propelled albuterol, or HFA-134a placebo 4 times daily for 12 weeks’ duration.
 Patients taking the HFA-134a placebo inhaler also took VENTOLIN HFA for asthma symptom relief on an as-needed basis.
@@ -31,9 +29,7 @@ The switching from CFC 11/12-propelled albuterol inhaler to VENTOLIN HFA did not
 In the 2 adult studies, the efficacy results from VENTOLIN HFA were significantly greater than placebo and were clinically comparable to those achieved with CFC 11/12-propelled albuterol, although small numerical differences in mean FEV1 response and other measures were observed.
 Physicians should recognize that individual responses to beta-adrenergic agonists administered via different propellants may vary and that equivalent responses in individual patients should not be assumed.
 
-Pediatric Patients 4 Years of Age
-
-The efficacy of VENTOLIN HFA was evaluated in one 2-week, randomized, double-blind, placebo-controlled trial in 135 pediatric patients 4 to 11 years of age with mild to moderate asthma.
+Pediatric Patients 4 Years of Age: The efficacy of VENTOLIN HFA was evaluated in one 2-week, randomized, double-blind, placebo-controlled trial in 135 pediatric patients 4 to 11 years of age with mild to moderate asthma.
 In this trial, patients received VENTOLIN HFA, CFC 11/12-propelled albuterol, or HFA-134a placebo.
 Serial pulmonary function measurements demonstrated that 2 inhalations of VENTOLIN HFA produced significantly greater improvement in pulmonary function than placebo and that there were no significant differences between the groups treated with VENTOLIN HFA and CFC 11/12-propelled albuterol.
 In the responder population treated with VENTOLIN HFA, the mean time to onset of a 15% increase in peak expiratory flow rate (PEFR) over the pretreatment value was 7.8 minutes, and the mean time to peak effect was approximately 90 minutes.

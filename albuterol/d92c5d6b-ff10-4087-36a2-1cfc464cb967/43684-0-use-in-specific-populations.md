@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
-Pregnancy Category C.
+Teratogenic Effects: Pregnancy Category C.
 
 There are no adequate and well-controlled studies of VENTOLIN HFA or albuterol sulfate in pregnant women.
 During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol.
