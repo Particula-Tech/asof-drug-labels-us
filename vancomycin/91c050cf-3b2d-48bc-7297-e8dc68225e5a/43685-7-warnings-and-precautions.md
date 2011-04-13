@@ -47,7 +47,7 @@ Infusion-related events may be minimized by the administration of vancomycin hyd
 
 The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) routes have not been assessed.
 
-Reports have revealed that administration of sterile vancomycin HCl by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
+Reports have revealed that administration of Vancomycin HCl for Injection, USP by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
 To date, this syndrome has ranged from a cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
 This syndrome appears to be short-lived after discontinuation of intraperitoneal vancomycin.
 
