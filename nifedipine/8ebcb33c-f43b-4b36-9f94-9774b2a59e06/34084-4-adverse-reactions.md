@@ -30,6 +30,9 @@ Adverse experiences which occurred in less than 1 in 1000 patients cannot be dis
 The following adverse experiences, reported in less than 1% of patients, occurred under conditions (e.g., open trials, marketing experience) where a causal relationship is uncertain: gastrointestinal irritation, gastrointestinal bleeding, gynecomastia.
 
 Gastrointestinal obstruction resulting in hospitalization and surgery, including the need for bezoar removal, has occurred in association with PROCARDIA XL, even in patients with no prior history of gastrointestinal disease.
+(See WARNINGS.)
+
+Ulcers in the gastrointestinal wall surrounding the PROCARDIA XL tablet shells have been observed with and without gastrointestinal obstruction by PROCARDIA XL tablets.
 
 In multiple-dose U.S. and foreign controlled studies with nifedipine capsules in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
 Most were expected consequences of the vasodilator effects of nifedipine.
@@ -68,3 +71,4 @@ Atrial or ventricular dysrhythmias each occurred in about one patient in 150.
 
 In post-marketing experience, there have been rare reports of exfoliative dermatitis caused by nifedipine.
 There have been rare reports of exfoliative or bullous skin adverse events (such as erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis) and photosensitivity reactions.
+Acute generalized exanthematous pustulosis also has been reported.

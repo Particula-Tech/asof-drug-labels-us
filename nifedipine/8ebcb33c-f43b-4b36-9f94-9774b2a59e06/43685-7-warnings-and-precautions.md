@@ -34,7 +34,11 @@ Bezoars can occur in very rare cases and may require surgical intervention.
 
 Cases of serious gastrointestinal obstruction have been identified in patients with no known gastrointestinal disease, including the need for hospitalization and surgical intervention.
 
-Risk factors for a gastrointestinal obstruction identified from post-marketing reports of PROCARDIA XL (GITS tablet formulation) include alteration in gastrointestinal anatomy (e.g., severe gastrointestinal narrowing, colon cancer, small bowel obstruction, bowel resection, gastric bypass, vertical banded gastroplasty, and colostomy), hypomotility disorders (e.g., constipation, gastroesophageal reflux disease, ileus, obesity, hypothyroidism, and diabetes) and concomitant medications (e.g., H2-histamine blockers, nonsteroidal anti-inflammatory drugs, laxatives, anticholinergic agents, and levothyroxine).
+Risk factors for a gastrointestinal obstruction identified from post-marketing reports of PROCARDIA XL (GITS tablet formulation) include alteration in gastrointestinal anatomy (e.g., severe gastrointestinal narrowing, colon cancer, small bowel obstruction, bowel resection, gastric bypass, vertical banded gastroplasty, colostomy, diverticulitis, diverticulosis, and inflammatory bowel disease), hypomotility disorders (e.g., constipation, gastroesophageal reflux disease, ileus, obesity, hypothyroidism, and diabetes) and concomitant medications (e.g., H2-histamine blockers, opiates, nonsteroidal anti-inflammatory drugs, laxatives, anticholinergic agents, levothyroxine, and neuromuscular blocking agents).
+
+### Gastrointestinal Ulcers
+
+Ulcers in the gastrointestinal wall surrounding the PROCARDIA XL tablet shells have been observed with and without gastrointestinal obstruction by PROCARDIA XL tablets.
 
 # PRECAUTIONS
 
