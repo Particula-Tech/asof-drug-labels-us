@@ -6,7 +6,7 @@ Propranolol hydrochloride tablets are indicated in the management of hypertensio
 It may be used alone or used in combination with other antihypertensive agents, particularly a thiazide diuretic.
 Propranolol hydrochloride tablets are not indicated in the management of hypertensive emergencies.
 
-## Angina Pectoris due to Coronary Atherosclerosis
+## Angina Pectoris Due to Coronary Atherosclerosis
 
 Propranolol hydrochloride tablets are indicated to decrease angina frequency and increase exercise tolerance in patients with angina pectoris.
 

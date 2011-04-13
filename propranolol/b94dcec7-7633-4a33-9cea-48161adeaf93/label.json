@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070213"
+  ],
   "inn": "propranolol",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -10,9 +12,17 @@
     "0378-0184-01",
     "0378-0184-10",
     "0378-0185-01",
-    "0378-0185-05"
+    "0378-0185-05",
+    "0378-0187-01",
+    "0378-0187-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "propranolol hydrochloride",
+      "name": "Propranolol Hydrochloride"
+    }
+  ],
   "setid": "b94dcec7-7633-4a33-9cea-48161adeaf93",
   "source": "dailymed"
 }

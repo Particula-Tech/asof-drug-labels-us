@@ -5,7 +5,7 @@
 Propranolol is a nonselective beta-adrenergic receptor blocking agent possessing no other autonomic nervous system activity.
 It specifically competes with beta-adrenergic receptor agonist agents for available receptor sites.
 When access to beta-receptor sites is blocked by propranolol, the chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
-At dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
+At dosages greater than required for beta-blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
 ## Mechanism of Action
@@ -20,13 +20,13 @@ Propranolol may increase oxygen requirements by increasing left ventricular fibe
 The net physiologic effect of beta-adrenergic blockade is usually advantageous and is manifested during exercise by delayed onset of pain and increased work capacity.
 
 Propranolol exerts its antiarrhythmic effects in concentrations associated with beta-adrenergic blockade, and this appears to be its principal antiarrhythmic mechanism of action.
-In dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
+In dosages greater than required for beta-blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
 The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
 The mechanism of the antimigraine effect of propranolol has not been established.
 Beta-adrenergic receptors have been demonstrated in the pial vessels of the brain.
 
-The specific mechanism of propranolol's antitremor effects has not been established, but beta-2 (noncardiac) receptors may be involved.
+The specific mechanism of propranolol’s antitremor effects has not been established, but beta-2 (noncardiac) receptors may be involved.
 A central effect is also possible.
 Clinical studies have demonstrated that propranolol is of benefit in exaggerated physiological and essential (familial) tremor.
 
@@ -72,7 +72,7 @@ The plasma half-life of propranolol is from 3 to 6 hours.
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(-).
 The S(-)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta adrenergic receptors.
-In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
+In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40% to 90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
 ## Special Populations
@@ -89,73 +89,75 @@ No correlation was found between age and the partial metabolic clearance to prop
 
 ### Gender
 
-In a study of 9 healthy women and 12 healthy men, neither the administration of testosterone nor the regular course of the menstrual cycle affected the plasma binding of the propranolol enantiomers.
+In a study of nine healthy women and 12 healthy men, neither the administration of testosterone nor the regular course of the menstrual cycle affected the plasma binding of the propranolol enantiomers.
 In contrast, there was a significant, although non-enantioselective diminution of the binding of propranolol after treatment with ethinyl estradiol.
 These findings are inconsistent with another study, in which administration of testosterone cypionate confirmed the stimulatory role of this hormone on propranolol metabolism and concluded that the clearance of propranolol in men is dependent on circulating concentrations of testosterone.
 In women, none of the metabolic clearances for propranolol showed any significant association with either estradiol or testosterone.
 
 ### Race
 
-A study conducted in 12 Caucasian and 13 African-American male subjects taking propranolol, showed that at steady state, the clearance of R(+)- and S(-)-propranolol were about 76% and 53% higher in African-Americans than in Caucasians, respectively.
+A study conducted in 12 Caucasian and 13 African-American male subjects taking propranolol, showed that at steady-state, the clearance of R(+)- and S(-)-propranolol were about 76% and 53% higher in African-Americans than in Caucasians, respectively.
 
 Chinese subjects had a greater proportion (18% to 45% higher) of unbound propranolol in plasma compared to Caucasians, which was associated with a lower plasma concentration of alpha1 acid glycoprotein.
 
 ### Renal Insufficiency
 
-In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2 to 3-fold higher (161±41 ng/mL) than those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
+In a study conducted in five patients with chronic renal failure, six patients on regular dialysis, and five healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161 ± 41 ng/mL) than those observed in the dialysis patients (47 ± 9 ng/mL) and in the healthy subjects (26 ± 1 ng/mL).
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
 Studies have reported a delayed absorption rate and a reduced half-life of propranolol in patients with renal failure of varying severity.
 Despite this shorter plasma half-life, propranolol peak plasma levels were 3 to 4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
 
-Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P450 activity resulting in a lower "first-pass" clearance.
+Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity resulting in a lower “first-pass” clearance.
+
+Propranolol is not significantly dialyzable.
 
 ### Hepatic Insufficiency
 
 Propranolol is extensively metabolized by the liver.
-In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80 mg oral propranolol hydrochloride every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was increased 3-fold in comparison to controls.
+In a study conducted in seven patients with cirrhosis and nine healthy subjects receiving 80 mg oral propranolol hydrochloride every 8 hours for seven doses, the steady-state unbound propranolol concentration in patients with cirrhosis was increased 3-fold in comparison to controls.
 In cirrhosis, the half-life increased to 11 hours compared to 4 hours (see PRECAUTIONS).
 
 ## Drug Interactions
 
 ### Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes
 
-Because propranolol's metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or effect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS: Drug Interactions).
+Because propranolol’s metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), coadministration with drugs that are metabolized by, or effect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS: Drug Interactions).
 
 ### Substrates or Inhibitors of CYP2D6
 
-Blood levels and or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir.
 No interactions were observed with either ranitidine or lansoprazole.
 
 ### Substrates or Inhibitors of CYP1A2
 
-Blood levels and or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan.
 
 ### Substrates or Inhibitors of CYP2C19
 
-Blood levels and or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide.
+Blood levels and/or toxicity of propranolol may be increased by coadministration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide.
 No interaction was observed with omeprazole.
 
 ### Inducers of Hepatic Drug Metabolism
 
-Blood levels of propranolol may be decreased by co-administration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital.
+Blood levels of propranolol may be decreased by coadministration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital.
 Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 77% the clearance of propranolol, resulting in decreased plasma concentrations.
 
 ### Cardiovascular Drugs
 
 #### Antiarrhythmics
 
-The AUC of propafenone is increased by more than 200% by co-administration of propranolol.
+The AUC of propafenone is increased by more than 200% by coadministration of propranolol.
 
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.
+The metabolism of propranolol is reduced by coadministration of quinidine, leading to a 2- to 3-fold increased blood concentration and greater degrees of clinical beta-blockade.
 
-The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
+The metabolism of lidocaine is inhibited by coadministration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 
 #### Calcium Channel Blockers
 
-The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by co-administration of nisoldipine and by 80% and 47%, by co-administration of nicardipine.
+The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine.
 
-The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.
+The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol.
 
 Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.
 Verapamil does not affect the pharmacokinetics of propranolol.
@@ -168,38 +170,42 @@ Administration of zolmitriptan or rizatriptan with propranolol resulted in incre
 
 #### Theophylline
 
-Co-administration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
+Coadministration of theophylline with propranolol decreases theophylline oral clearance by 30% to 52%.
 
 #### Benzodiazepines
 
 Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites.
 Diazepam does not alter the pharmacokinetics of propranolol.
 
-The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by co-administration of propranolol.
+The pharmacokinetics of oxazepam, triazolam, lorazepam, and alprazolam are not affected by coadministration of propranolol.
 
 #### Neuroleptic Drugs
 
-Co-administration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
+Coadministration of long-acting propranolol at doses greater than or equal to 160 mg/day resulted in increased thioridazine plasma concentrations ranging from 55% to 369% and increased thioridazine metabolite (mesoridazine) concentrations ranging from 33% to 209%.
 
-Co-administration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
+Coadministration of chlorpromazine with propranolol resulted in a 70% increase in propranolol plasma level.
 
 #### Anti-Ulcer Drugs
 
-Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and Cmax by 46% and 35%, respectively.
-Co-administration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
+Coadministration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and Cmax by 46% and 35%, respectively.
+Coadministration with aluminum hydroxide gel (1200 mg) may result in a decrease in propranolol concentrations.
 
-Co-administration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol's pharmacokinetics.
+Coadministration of metoclopramide with the long-acting propranolol did not have a significant effect on propranolol’s pharmacokinetics.
 
 #### Lipid Lowering Drugs
 
-Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
+Coadministration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
 
-Co-administration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
+Coadministration of propranolol with lovastatin or pravastatin, decreased 18% to 23% the AUC of both, but did not alter their pharmacodynamics.
 Propranolol did not have an effect on the pharmacokinetics of fluvastatin.
 
 #### Warfarin
 
 Concomitant administration of propranolol and warfarin has been shown to increase warfarin bioavailability and increase prothrombin time.
+
+#### Alcohol
+
+Concomitant use of alcohol may increase plasma levels of propranolol.
 
 ## Pharmacodynamics and Clinical Effects
 
@@ -214,13 +220,13 @@ In a double-blind, placebo-controlled study of 32 patients of both sexes, aged 3
 
 ### Atrial Fibrillation
 
-In a report examining the long-term (5 to 22 months) efficacy of propranolol, 10 patients, aged 27 to 80, with atrial fibrillation and ventricular rate > 120 beats per minute despite digitalis, received propranolol hydrochloride up to 30 mg t.i.d.
+In a report examining the long-term (5 to 22 months) efficacy of propranolol, ten patients, aged 27 to 80, with atrial fibrillation and ventricular rate > 120 beats per minute despite digitalis, received propranolol hydrochloride up to 30 mg t.i.d.
 Seven patients (70%) achieved ventricular rate reduction to < 100 beats per minute.
 
 ### Myocardial Infarction
 
 The Beta-Blocker Heart Attack Trial (BHAT) was a National Heart, Lung and Blood Institute-sponsored multicenter, randomized, double-blind, placebo-controlled trial conducted in 31 U.S. centers (plus one in Canada) in 3,837 persons without history of severe congestive heart failure or presence of recent heart failure; certain conduction defects; angina since infarction, who had survived the acute phase of myocardial infarction.
-Propranolol hydrochloride was administered at either 60 or 80 mg t.i.d. based on blood levels achieved during an initial trial of 40 mg t.i.d.
+Propranolol hydrochloride was administered at either 60 mg or 80 mg t.i.d. based on blood levels achieved during an initial trial of 40 mg t.i.d.
 Therapy with propranolol, begun 5 to 21 days following infarction, was shown to reduce overall mortality up to 39 months, the longest period of follow-up.
 This was primarily attributable to a reduction in cardiovascular mortality.
 The protective effect of propranolol was consistent regardless of age, sex, or site of infarction.
@@ -231,18 +237,18 @@ Although the clinical trials used either t.i.d. or q.i.d. dosing, clinical, phar
 
 ### Migraine
 
-In a 34-week, placebo-controlled, 4-period, dose-finding crossover study with a double-blind randomized treatment sequence, 62 patients with migraine received propranolol hydrochloride 20 to 80 mg 3 or 4 times daily.
+In a 34-week, placebo-controlled, 4-period, dose-finding crossover study with a double-blind randomized treatment sequence, 62 patients with migraine received propranolol hydrochloride 20 mg to 80 mg 3 or 4 times daily.
 The headache unit index, a composite of the number of days with headache and the associated severity of the headache, was significantly reduced for patients receiving propranolol as compared to those on placebo.
 
 ### Essential Tremor
 
-In a 2 week, double-blind, parallel, placebo-controlled study of 9 patients with essential or familial tremor, propranolol hydrochloride, at a dose titrated as needed from 40 to 80 mg t.i.d. reduced tremor severity compared to placebo.
+In a 2-week, double-blind, parallel, placebo-controlled study of nine patients with essential or familial tremor, propranolol hydrochloride, at a dose titrated as needed from 40 mg to 80 mg t.i.d. reduced tremor severity compared to placebo.
 
 ### Hypertrophic Subaortic Stenosis
 
-In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol hydrochloride 40 to 80 mg t.i.d. was administered and patients were followed for up to 17 months.
+In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol hydrochloride 40 mg to 80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.
 
 ### Pheochromocytoma
 
-In an uncontrolled series of 3 patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol hydrochloride at doses of 40 to 80 mg t.i.d. resulted in symptomatic blood pressure control.
+In an uncontrolled series of three patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol hydrochloride at doses of 40 mg to 80 mg t.i.d. resulted in symptomatic blood pressure control.

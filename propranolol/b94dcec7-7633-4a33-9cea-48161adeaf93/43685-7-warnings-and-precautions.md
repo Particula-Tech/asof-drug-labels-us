@@ -3,7 +3,7 @@
 ## Angina Pectoris
 
 There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy.
-Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks and the patient should be cautioned against interruption or cessation of therapy without the physician's advice.
+Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks and the patient should be cautioned against interruption or cessation of therapy without the physician’s advice.
 If propranolol therapy is interrupted and exacerbation of angina occurs, it usually is advisable to reinstitute propranolol therapy and take other measures appropriate for the management of angina pectoris.
 Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications.
 
@@ -15,15 +15,15 @@ Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necroly
 
 ## Cardiac Failure
 
-Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
+Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta-blockade may precipitate more severe failure.
+Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients without a History of Heart Failure, continued use of beta blockers can, in some cases, lead to cardiac failure.
+In Patients without a History of Heart Failure, continued use of beta-blockers can, in some cases, lead to cardiac failure.
 
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
-In general, patients with bronchospastic lung disease should not receive beta blockers.
+In general, patients with bronchospastic lung disease should not receive beta-blockers.
 Propranolol should be administered with caution in this setting since it may provoke a bronchial asthmatic attack by blocking bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors.
 
 ## Major Surgery
@@ -50,13 +50,13 @@ Propranolol may change thyroid-function tests, increasing T4 and reverse T3 and 
 
 ## Wolff-Parkinson-White Syndrome
 
-Beta-adrenergic blockade in patients with Wolf-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
+Beta-adrenergic blockade in patients with Wolf-Parkinson-White Syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker.
 In one case, this result was reported after an initial dose of 5 mg propranolol.
 
 ## Pheochromocytoma
 
 Blocking only the peripheral dilator (beta) action of epinephrine with propranolol leaves its constrictor (alpha) action unopposed.
-In the event of hemorrhage or shock, there is a disadvantage in having both beta and alpha blockade since the combination prevents the increase in heart rate and peripheral vasoconstriction needed to maintain blood pressure.
+In the event of hemorrhage or shock, there is a disadvantage in having both beta- and alpha-blockade since the combination prevents the increase in heart rate and peripheral vasoconstriction needed to maintain blood pressure.
 
 # PRECAUTIONS
 
@@ -69,7 +69,7 @@ Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
 Patients should be told that propranolol may interfere with the glaucoma screening test.
 Withdrawal may lead to a return of increased intraocular pressure.
 
-While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Clinical Laboratory Tests
@@ -80,7 +80,7 @@ In severe heart failure, the use of propranolol has been associated with increas
 ## Drug Interactions
 
 Caution should be exercised when propranolol is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY: Drug Interactions).
+Coadministration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY: Drug Interactions).
 
 ### Cardiovascular Drugs
 
@@ -88,31 +88,32 @@ Co-administration of such drugs with propranolol may lead to clinically relevant
 
 Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol.
 
-Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta blockade and may cause postural hypotension.
+Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.
 
-Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects and has been associated with severe bradycardia, asystole and heart failure when administered with propranolol.
-
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with propranolol.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta-blockers such as propranolol.
 
 The clearance of lidocaine is reduced with administration of propranolol.
-Lidocaine toxicity has been reported following co-administration with propranolol.
+Lidocaine toxicity has been reported following coadministration with propranolol.
 
 Caution should be exercised when administering propranolol with drugs that slow A-V nodal conduction, e.g. digitalis, lidocaine and calcium channel blockers.
 
+#### Digitalis Glycosides
+
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
+
 #### Calcium Channel Blockers
 
-Caution should be exercised when patients receiving a beta blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
+Caution should be exercised when patients receiving a beta-blocker are administered a calcium channel-blocking drug with negative inotropic and/or chronotropic effects.
 Both agents may depress myocardial contractility or atrioventricular conduction.
 
 There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
 
-Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
+Coadministration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.
 
 #### ACE Inhibitors
 
 When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infarction.
-
-Certain ACE inhibitors have been reported to increase bronchial hyperreactivity when administered with propranolol.
 
 The antihypertensive effects of clonidine may be antagonized by beta-blockers.
 Propranolol should be administered cautiously to patients withdrawing from clonidine.
@@ -126,11 +127,10 @@ Postural hypotension has been reported in patients taking both beta-blockers and
 #### Reserpine
 
 Patients receiving catecholamine-depleting drugs, such as reserpine, should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension.
-Administration of reserpine with propranolol may also potentiate depression.
 
 #### Inotropic Agents
 
-Patients on long term therapy with propranolol may experience uncontrolled hypertension if administered epinephrine as a consequence of unopposed alpha-receptor stimulation.
+Patients on long-term therapy with propranolol may experience uncontrolled hypertension if administered epinephrine as a consequence of unopposed alpha-receptor stimulation.
 Epinephrine is therefore not indicated in the treatment of propranolol overdose (see OVERDOSAGE).
 
 #### Isoproterenol and Dobutamine
@@ -148,7 +148,7 @@ Administration of indomethacin with propranolol may reduce the efficacy of propr
 
 #### Antidepressants
 
-The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol.
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
 
 #### Anesthetic Agents
 
@@ -183,9 +183,9 @@ At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the M
 Propranolol hydrochloride also was administered (in the feed) to rabbits (throughout pregnancy and lactation) at doses as high as 150 mg/kg/day (about 5 times the maximum recommended human oral daily dose).
 No evidence of embryo or neonatal toxicity was noted.
 
-There are no adequate and well-controlled studies in pregnant women.
-Intrauterine growth retardation has been reported in neonates whose mothers received propranolol during pregnancy.
-Neonates whose mothers received propranolol at parturition have exhibited bradycardia, hypoglycemia, and respiratory depression.
+There are no adequate and well controlled studies in pregnant women.
+Intrauterine growth retardation, small placentas, and congenital abnormalities have been reported in neonates whose mothers received propranolol during pregnancy.
+Neonates whose mothers received propranolol at parturition have exhibited bradycardia, hypoglycemia, and/or respiratory depression.
 Adequate facilities for monitoring such infants at birth should be available.
 Propranolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
