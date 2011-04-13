@@ -11,7 +11,7 @@ The structural formula is as follows:
 
 Depo-Provera CI for intramuscular (IM) injection is available in vials and prefilled syringes, each containing 1 mL of medroxyprogesterone acetate sterile aqueous suspension 150 mg/mL.
 
-| Each mL contains: |  |
+| For Depo-Provera CI vials, each mL of sterile aqueous suspension contains: |  |
 | --- | --- |
 | Medroxyprogesterone acetate | 150 mg |
 | Polyethylene glycol 3350 | 28.9 mg |
@@ -19,5 +19,16 @@ Depo-Provera CI for intramuscular (IM) injection is available in vials and prefi
 | Sodium chloride | 8.68 mg |
 | Methylparaben | 1.37 mg |
 | Propylparaben | 0.150 mg |
+| Water for injection | quantity sufficient |
+| When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or both. |  |
+
+| For Depo-Provera CI prefilled syringes, each mL of sterile aqueous suspension contains: |  |
+| --- | --- |
+| Medroxyprogesterone acetate | 150 mg |
+| Polyethylene glycol 3350 | 28.5 mg |
+| Polysorbate 80 | 2.37 mg |
+| Sodium chloride | 8.56 mg |
+| Methylparaben | 1.35 mg |
+| Propylparaben | 0.147 mg |
 | Water for injection | quantity sufficient |
 | When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or both. |  |
