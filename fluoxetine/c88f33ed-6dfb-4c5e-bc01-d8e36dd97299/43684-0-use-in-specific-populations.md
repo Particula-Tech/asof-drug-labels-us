@@ -7,11 +7,14 @@ When using PROZAC and olanzapine in combination, also refer to the Use in Specif
 Pregnancy Category C — PROZAC should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 
-Treatment of Pregnant Women During the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
-Results of a number of epidemiological studies assessing the risk of fluoxetine exposure in early pregnancy have been inconsistent and have not provided conclusive evidence of an increased risk of congenital malformations.
-However, one meta-analysis suggests a potential risk of cardiovascular defects in infants of women exposed to fluoxetine during the first trimester of pregnancy compared to infants of women who were not exposed to fluoxetine.
+Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
+Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
+More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
+However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1,359) who were not exposed to fluoxetine.
+There was no specific pattern of cardiovascular malformations.
+Overall, however, a causal relationship has not been established.
 
-Treatment of Pregnant Women During the Third Trimester — Neonates exposed to PROZAC, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Treatment of Pregnant Women during the Third Trimester — Neonates exposed to PROZAC, SNRIs, or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SNRIs and SSRIs or, possibly, a drug discontinuation syndrome.
@@ -26,12 +29,12 @@ The study did not include enough cases with exposure to individual SSRIs to dete
 Clinical Considerations — When treating pregnant women with PROZAC, the physician should carefully consider both the potential risks and potential benefits of treatment, taking into account the risk of untreated depression during pregnancy.
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
-The physician may consider tapering PROZAC in the third trimester [see Dosage and Administration (2.7)]
+The physician may consider tapering PROZAC in the third trimester [see Dosage and Administration (2.7)].
 
 Animal Data — In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
 However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
 There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
-The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2basis).
+The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
 
 ## 8.2 Labor and Delivery
 

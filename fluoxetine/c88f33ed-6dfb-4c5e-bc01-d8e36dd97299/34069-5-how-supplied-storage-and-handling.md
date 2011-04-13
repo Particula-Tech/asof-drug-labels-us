@@ -27,7 +27,7 @@ The 90 mg1 capsule is an opaque green cap and clear body containing discretely v
 
 - NDC 0002-3004-75 (PU3004) – Blister package of 4
 
-1 Fluoxetine base equivalent.
+______________________ 1 Fluoxetine base equivalent.
 
 2 Protect from light.
 
