@@ -58,7 +58,7 @@ Especially tell your doctor if you are taking:
 - narcotic pain medicine
 - sleeping pills and anti-seizure medicines called barbiturates
 - lithium, a medicine used to treat certain kinds of depression
-- medicines used to treat pain or arthritis such as aspirin or non-steroidal anti inflammatory drugs (NSAIDS)
+- medicines used to treat pain or arthritis such as aspirin or non-steroidal anti inflammatory drugs (NSAIDs)
 - steroids
 - cholesterol lowering medicines
 
@@ -114,6 +114,12 @@ Tribenzor may cause serious side effects, including:
   - low or no urine output
   - fast heartbeat
   - nausea and vomiting
+- Eye problems.
+  One of the medicines in Tribenzor can cause eye problems that may lead to vision loss.
+  Symptoms of eye problems can happen within hours to weeks of starting Tribenzor.
+  Tell your doctor right away if you have:
+  - decrease in vision
+  - eye pain
 
 The most common side effects of Tribenzor used to treat people with high blood pressure include:
 

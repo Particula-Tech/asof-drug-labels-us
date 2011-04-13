@@ -12,8 +12,7 @@ After 8 weeks of treatment, the triple combination therapy produced greater redu
 
 The seated blood pressure reductions attributable to the addition of a single high-dose drug to each high-dose dual drug combination are shown in Table 2.
 
-Table 2.
-Additional blood pressure reductions on high-dose Tribenzor compared to high doses of dual combination drugs.
+Table 2 Additional blood pressure reductions on high-dose Tribenzor compared to high doses of dual combination drugs
 
 | Start on | Adding | BP reduction* |
 | --- | --- | --- |

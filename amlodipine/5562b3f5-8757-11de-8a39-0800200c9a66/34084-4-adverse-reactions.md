@@ -16,7 +16,7 @@ Dizziness was one of the most frequently reported adverse reactions with inciden
 
 The other most frequent adverse reactions that occurred in at least 2% of subjects are presented in the table below:
 
-Table 1:
+Table 1
 
 | Adverse Reaction | OM40/ AML10/ HCTZ25 mg (N = 574) n (%) | OM40/ AML10 mg (N = 596) n (%) | OM40/ HCTZ25mg (N = 580) n (%) | AML10/ HCTZ25 mg (N = 552) n (%) |
 | --- | --- | --- | --- | --- |
@@ -42,7 +42,7 @@ Amlodipine Amlodipine has been evaluated for safety in more than 11,000 patients
 
 The following adverse reactions occurred in <1% but >0.1% of patients in controlled clinical trials under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert physicians to a possible relationship: Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo Gastrointestinal: anorexia, constipation, dyspepsia*, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia General: allergic reaction, asthenia*, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease Musculoskeletal System: arthralgia, arthrosis, muscle cramps*, myalgia Psychiatric: sexual dysfunction (male* and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization Respiratory: dyspnea*, epistaxis Skin and Appendages: angioedema, erythema multiforme, pruritus*, rash*, rash erythematous, rash maculopapular Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus Urinary System: micturition frequency, micturition disorder, nocturia Autonomic Nervous System: dry mouth, sweating increased Metabolic and Nutritional: hyperglycemia, thirst Hemopoietic: leukopenia, purpura, thrombocytopenia * = events that occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
 
-The following adverse reactions occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accomodation, and xerophthalmia.
+The following adverse reactions occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
 
 Hydrochlorothiazide Other adverse reactions that have been reported with hydrochlorothiazide, without regard to causality, are listed below: Body as a Whole: weakness Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions Metabolic: hyperglycemia, glycosuria, hyperuricemia Musculoskeletal: muscle spasm Nervous System/Psychiatric: restlessness Renal: renal failure, renal dysfunction, interstitial nephritis Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis Special Senses: transient blurred vision, xanthopsia
 
@@ -52,7 +52,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Olmesartan medoxomil.
-The following adverse reactions have been reported in post marketing experience: Body as a Whole: asthenia, angioedema Gastrointestinal: vomiting Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+The following adverse reactions have been reported in post marketing experience: Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
 
 Amlodipine.
 The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.

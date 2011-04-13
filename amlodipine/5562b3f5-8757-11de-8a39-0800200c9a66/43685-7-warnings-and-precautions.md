@@ -34,7 +34,7 @@ Initiate treatment with Tribenzor under close medical supervision.
 If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
-## 5.3 Increased Angina and Myocardial Infarction
+## 5.3 Increased Angina and/or Myocardial Infarction
 
 Amlodipine.
 Patients, particularly those with severe obstructive coronary artery disease, may develop increased frequency, duration, or severity of angina or acute myocardial infarction upon starting calcium channel blocker therapy or at the time of dosage increase.
@@ -114,13 +114,22 @@ Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or 
 Hydrochlorothiazide.
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-## 5.9 Vasodilation
+## 5.9 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+## 5.10 Vasodilation
 
 Amlodipine.
 Although vasodilation attributable to amlodipine is generally gradual in onset, acute hypotension has rarely been reported after oral administration.
 Patients with severe aortic stenosis may be at particular risk.
 
-## 5.10 Heart Failure
+## 5.11 Heart Failure
 
 Tribenzor.
 Tribenzor has not been studied in patients with heart failure.
@@ -132,12 +141,12 @@ There was no overall adverse effect on survival or cardiac morbidity (as defined
 Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients.
 In these studies, there was no evidence of worsening of heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or left ventricular ejection fraction.
 
-## 5.11 Lithium Interaction
+## 5.12 Lithium Interaction
 
 Hydrochlorothiazide.
 Lithium generally should not be given with thiazides [see Drug Interactions (7.4)].
 
-## 5.12 Laboratory Tests
+## 5.13 Laboratory Tests
 
 Olmesartan medoxomil.
 In post-marketing experience, increased blood creatinine levels and hyperkalemia have been reported.
