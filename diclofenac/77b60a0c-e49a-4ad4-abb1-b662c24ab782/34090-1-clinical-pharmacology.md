@@ -18,15 +18,15 @@ However, there is usually a delay in the onset of absorption and a reduction in 
 
 Table 1: Pharmacokinetic Parameters for Diclofenac
 
-| PK Parameter | Normal Healthy Adults (20 to 52 yrs.) |  |
+| PK Parameter | Normal Healthy Adults(20 to 52 yrs.) |  |
 | --- | --- | --- |
-|  | Mean | Coefficient of Variation (%) |
+| Mean | Coefficient of Variation (%) |  |
 | Absolute Bioavailability (%)[N = 7] | 55 | 40 |
-| Tmax (hr) [N = 65] | 1.0 | 76 |
-| Oral Clearance (CL/F; mL/min) [N = 61] | 622 | 21 |
-| Renal Clearance (% unchanged drug in urine)[N = 7] | < 1 | — |
-| Apparent Volume of Distribution (V/F; L/kg) [N = 61] | 1.3 | 33 |
-| Terminal Half-life (hr) [N = 48] | 1.9 | 29 |
+| Tmax (hr)[N = 65] | 1.0 | 76 |
+| Oral Clearance (CL/F; mL/min)[N = 61] | 622 | 21 |
+| Renal Clearance(% unchanged drug in urine)[N = 7] | < 1 | — |
+| Apparent Volume of Distribution (V/F; L/kg)[N = 61] | 1.3 | 33 |
+| Terminal Half-life (hr)[N = 48] | 1.9 | 29 |
 
 ### Distribution
 
@@ -42,11 +42,13 @@ It is not known whether diffusion into the joint plays a role in the effectivene
 ### Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy-diclofenac.
+The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
+The formation of 4’-hydroxy-diclofenac is primarily mediated by CPY2C9.
+Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CPY2C8 may also play a role in diclofenac metabolism.
+CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy- and 3’-hydroxy-diclofenac.
 In patients with renal dysfunction, peak concentrations of metabolites 4'-hydroxy- and 5-hydroxy-diclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
-However, diclofenac metabolites undergo further glucuronidation and sulfation followed by biliary excretion.
-
-One diclofenac metabolite 4'-hydroxy-diclofenac has very weak pharmacologic activity.
 
 ### Excretion
 
@@ -55,6 +57,10 @@ Little or no free unchanged diclofenac is excreted in the urine.
 Approximately 65% of the dose is excreted in the urine and approximately 35% in the bile as conjugates of unchanged diclofenac plus metabolites.
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 2 hours.
+
+### Drug Interactions
+
+When coadministered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS,Drug Interactions).
 
 ### Special Populations
 

@@ -5,9 +5,9 @@ In a 6 month, double-blind trial comparing diclofenac potassium tablets (N = 196
 
 In patients taking diclofenac potassium tablets or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
-Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), and vomiting.
+Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
 
-Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
+Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
 
 Additional adverse experiences reported occasionally include:
 
@@ -37,7 +37,7 @@ Body as a Whole: anaphylactic reactions, appetite changes, death
 
 Cardiovascular System: arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
 
-Digestive System: colitis, eructation, liver failure, pancreatitis
+Digestive System: colitis, eructation, fulminant hepatitis with and without jaundice, liver failure, liver necrosis, pancreatitis
 
 Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
 

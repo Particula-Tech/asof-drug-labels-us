@@ -12,9 +12,9 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see GI WARNINGS, GI Effects).
+The concurrent use of aspirin and an NSAID does increase the risk of serious GI events (see WARNINGS, GI Effects).
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
+Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of myocardial infarction and stroke (see CONTRAINDICATIONS).
 
 ### Hypertension
 
@@ -40,7 +40,7 @@ However, even short-term therapy is not without risk.
 NSAIDs should be prescribed with extreme caution in those with a prior history of ulcer disease or gastrointestinal bleeding.
 Patients with a prior history of peptic ulcer disease and/or gastrointestinal bleeding who use NSAIDs have a greater than 10 fold increased risk for developing a GI bleed compared to patients with neither of these risk factors.
 Other factors that increase the risk for GI bleeding in patients treated with NSAIDs include concomitant use of oral corticosteroids or anticoagulants, longer duration of NSAID therapy, smoking, use of alcohol, older age, and poor general health status.
-Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore, special care should be taken in treating this population.
+Most spontaneous reports of fatal GI events are in elderly or debilitated patients and therefore special care should be taken in treating this population.
 
 To minimize the potential risk for an adverse GI event in patients treated with an NSAID, the lowest effective dose should be used for the shortest possible duration.
 Patients and physicians should remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
@@ -95,12 +95,13 @@ To minimize the possibility that hepatic injury will become severe between trans
 To minimize the potential risk for an adverse liver related event in patients treated with diclofenac potassium, the lowest effective dose should be used for the shortest duration possible.
 Caution should be exercised in prescribing diclofenac potassium with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
-## Anaphylactoid Reactions
+## Anaphylactic Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to diclofenac potassium tablets.
+As with other NSAIDs, anaphylactic reactions may occur both in patients with the aspirin triad and in patients without known sensitivity to NSAIDs or known prior exposure to diclofenac potassium tablets.
 Diclofenac potassium tablets should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS, Preexisting Asthma).
-Emergency help should be sought in cases where an anaphylactoid reaction occurs.
+Anaphylaxis-type reactions have been reported with NSAID products, including with diclofenac products, such as diclofenac potassium tablets.
+Emergency help should be sought in cases where an anaphylactic reaction occurs.
 
 ## Skin Reactions
 
@@ -136,7 +137,7 @@ Patients receiving diclofenac potassium tablets who may be adversely affected by
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other non-steroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, diclofenac potassium tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in all patients with preexisting asthma.
+Since cross-reactivity, including bronchospasm, between aspirin and other non-steroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, diclofenac potassium tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in all patients with preexisting asthma.
 
 ## Information for Patients
 
@@ -144,19 +145,19 @@ Patients should be informed of the following information before initiating thera
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
 1. Diclofenac potassium tablets, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative signs or symptoms.
+   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
    Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
 2. Diclofenac potassium tablets, like other NSAIDs, can cause GI discomfort and, rarely, more serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative signs or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
-3. Diclofenac potassium tablets, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
+   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal (GI) Effects: Risk of GI Ulceration, Bleeding, and Perforation).
+3. Diclofenac potassium tablets, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
    Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
    Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
 4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy (see WARNINGS, Hepatic Effects).
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+6. Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
 7. In late pregnancy, as with other NSAIDs, diclofenac potassium tablets should be avoided because they will cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
@@ -167,44 +168,34 @@ If clinical signs and symptoms consistent with liver or renal disease develop, s
 
 ## Drug Interactions
 
-### Aspirin
-
-When diclofenac is administered with aspirin, its protein binding is reduced.
+Aspirin: When diclofenac is administered with aspirin, its protein binding is reduced.
 The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac and aspirin is not generally recommended because of the potential of increased adverse effects.
 
-### Methotrexate
-
-NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
+Methotrexate: NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
 This may indicate that they could enhance the toxicity of methotrexate.
 Caution should be used when NSAIDs are administered concomitantly with methotrexate.
 
-### Cyclosporine
-
-Diclofenac potassium tablets, like other NSAIDs, may affect renal prostaglandins and increase the toxicity of certain drugs.
+Cyclosporine: Diclofenac potassium tablets, like other NSAIDs, may affect renal prostaglandins and increase the toxicity of certain drugs.
 Therefore, concomitant therapy with diclofenac potassium tablets may increase cyclosporine’s nephrotoxicity.
 Caution should be used when diclofenac potassium tablets are administered concomitantly with cyclosporine.
 
-### ACE Inhibitors
-
-Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
+ACE Inhibitors: Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
 
-### Furosemide
-
-Clinical studies, as well as postmarketing observations, have shown that diclofenac can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Furosemide: Clinical studies, as well as postmarketing observations, have shown that diclofenac can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 
-### Lithium
-
-NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
+Lithium: NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
 The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
 These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
 Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
 
-### Warfarin
+Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
 
-The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than users of either drug alone.
+CYP2C9 Inhibitors or Inducers: Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9.
+Coadministration of diclofenac with CYP2C9 inhibitors (e.g., voriconazole) may enhance the exposure and toxicity of diclofenac whereas coadministration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of diclofenac.
+Use caution when dosing diclofenac with CYP2C9 inhibitors or inducers, a dosage adjustment may be warranted (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Drug Interactions).
 
 ## Pregnancy
 

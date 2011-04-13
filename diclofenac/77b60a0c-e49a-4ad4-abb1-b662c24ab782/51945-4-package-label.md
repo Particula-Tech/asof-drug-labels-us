@@ -1,6 +1,6 @@
-# CONTAINER LABELS
+# PRINCIPAL DISPLAY PANEL
 
-## 50 mg Label Text
+## Diclofenac K Tablets 50 mg 100s Label Text
 
 NDC 0093-0948-01
 
@@ -18,6 +18,6 @@ SEPARATELY
 
 Rx only
 
-100 CAPSULES
+100 TABLETS
 
 TEVA

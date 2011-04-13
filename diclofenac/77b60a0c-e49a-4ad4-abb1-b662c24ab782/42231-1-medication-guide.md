@@ -1,4 +1,4 @@
-Medication Guidefor Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 Rx only
 
@@ -51,7 +51,7 @@ Do not take an NSAID medicine:
 
 Tell your healthcare provider:
 
-- about all your medical conditions.
+- about all of your medical conditions.
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
   Keep a list of your medicines to show to your healthcare provider and pharmacist.

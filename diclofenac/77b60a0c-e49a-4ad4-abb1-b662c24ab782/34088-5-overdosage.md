@@ -2,7 +2,7 @@
 
 Symptoms following acute NSAID overdoses are usually limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which are generally reversible with supportive care.
 Gastrointestinal bleeding can occur.
-Hypertension, acute renal failure, respiratory depression, and coma may occur, but are rare.
+Hypertension, acute renal failure, respiratory depression and coma may occur, but are rare.
 Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs, and may occur following an overdose.
 
 Patients should be managed by symptomatic and supportive care following an NSAID overdose.
