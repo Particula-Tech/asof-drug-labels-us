@@ -22,8 +22,6 @@ Ceftriaxone is contraindicated in neonates if they require (or are expected to r
 For the treatment of skin and skin structure infections, the recommended total daily dose is 50 to 75 mg/kg given once a day (or in equally divided doses twice a day).
 The total daily dose should not exceed 2 grams.
 
-For the treatment of acute bacterial otitis media, a single intramuscular dose of 50 mg/kg (not to exceed 1 gram) is recommended (see INDICATIONS AND USAGE).
-
 For the treatment of serious miscellaneous infections other than meningitis, the recommended total daily dose is 50 to 75 mg/kg, given in divided doses every 12 hours.
 The total daily dose should not exceed 2 grams.
 
@@ -35,6 +33,7 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
+For infections caused by Staphylococcus aureus (MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.

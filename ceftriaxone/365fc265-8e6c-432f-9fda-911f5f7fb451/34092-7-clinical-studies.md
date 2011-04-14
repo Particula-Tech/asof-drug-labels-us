@@ -12,7 +12,7 @@ Clinical Efficacy in Evaluable Population
 | Study 1 – US |  | amoxicillin/clavulanate |  | Ceftriaxone islower than controlat study day 14and 28. |
 | 14 | 74% (220/296) | 82% (247/302) | (-14.4%, -0.5%) |  |
 | 28 | 58% (167/288) | 67% (200/297) | (-17.5%, -1.2%) |  |
-| Study 2 – US5 |  | TMP-SMZ |  | Ceftriaxone isequivalent tocontrol at studyday 14 and 28. |
+| Study 2 – US7 |  | TMP-SMZ |  | Ceftriaxone isequivalent tocontrol at studyday 14 and 28. |
 | 14 | 54% (113/210) | 60% (124/206) | (-16.4%, 3.6%) |  |
 | 28 | 35% (73/206) | 45% (93/205) | (-19.9%, 0.0%) |  |
 
