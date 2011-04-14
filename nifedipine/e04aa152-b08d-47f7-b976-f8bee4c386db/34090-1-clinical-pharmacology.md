@@ -27,7 +27,7 @@ The drug is detectable in serum 10 minutes after oral administration, and peak b
 Bioavailability is proportional to dose from 10 to 30 mg; half-life does not change significantly with dose.
 There is little difference in relative bioavailability when PROCARDIA capsules are given orally and either swallowed whole, bitten and swallowed, or bitten and held sublingually.
 However, biting through the capsule prior to swallowing does result in slightly earlier plasma concentrations (27 ng/mL 10 minutes after 10 mg) than if capsules are swallowed intact.
-It is highly bound by serum proteins.
+PROCARDIA is highly bound by serum proteins.
 PROCARDIA is extensively converted to inactive metabolites and approximately 80 percent of PROCARDIA and metabolites are eliminated via the kidneys.
 The half-life of nifedipine in plasma is approximately two hours.
 Since hepatic biotransformation is the predominant route for the disposition of nifedipine, the pharmacokinetics may be altered in patients with chronic liver disease.
@@ -35,8 +35,8 @@ Patients with hepatic impairment (liver cirrhosis) have a longer disposition hal
 The degree of serum protein binding of nifedipine is high (92–98%).
 Protein binding may be greatly reduced in patients with renal or hepatic impairment.
 
-In healthy subjects, the elimination half-life of a BID sustained release nifedipine formulation [that was neither Procardia Capsules nor Procardia XL (nifedipine) Extended Release Tablets] was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
-A decreased clearance was also observed in the elderly (348 ml/min) following intravenous administration.
+In healthy subjects, the elimination half-life of a BID sustained release nifedipine formulation [that was neither Procardia capsules nor Procardia XL (nifedipine) extended release tablets] was longer in elderly subjects (6.7 h) compared to young subjects (3.8 h) following oral administration.
+A decreased clearance was also observed in the elderly (348 mL/min) following intravenous administration.
 
 Co-administration of nifedipine with grapefruit juice resulted in approximately a 2-fold increase in nifedipine AUC and Cmax with no change in half-life.
 The increased plasma concentrations are most likely due to inhibition of CYP 3A4 related first-pass metabolism.
@@ -45,9 +45,9 @@ The increased plasma concentrations are most likely due to inhibition of CYP 3A4
 
 Like other slow-channel blockers, PROCARDIA exerts a negative inotropic effect on isolated myocardial tissue.
 This is rarely, if ever, seen in intact animals or man, probably because of reflex responses to its vasodilating effects.
-In man, PROCARDIA causes decreased peripheral vascular resistance and a fall in systolic and diastolic pressure, usually modest (5–10mm Hg systolic), but sometimes larger.
+In man, PROCARDIA causes decreased peripheral vascular resistance and a fall in systolic and diastolic pressure, usually modest (5–10 mm Hg systolic), but sometimes larger.
 There is usually a small increase in heart rate, a reflex response to vasodilation.
-Measurements of cardiac function in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end diastolic pressure (LVEDP) or volume (LVEDV).
+Measurements of cardiac function in patients with normal ventricular function have generally found a small increase in cardiac index without major effects on ejection fraction, left ventricular end diastolic pressure (LVEDP), or volume (LVEDV).
 In patients with impaired ventricular function, most acute studies have shown some increase in ejection fraction and reduction in left ventricular filling pressure.
 
 ## Electrophysiologic Effects

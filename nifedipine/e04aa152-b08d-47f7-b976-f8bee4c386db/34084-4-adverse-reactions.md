@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In multiple-dose U.S. and foreign controlled studies in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
+In multiple-dose United States and foreign controlled studies in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
 Most were expected consequences of the vasodilator effects of PROCARDIA.
 
 | Adverse Effect | (N=226) | (N=235) |
@@ -54,10 +54,10 @@ It remains possible, however, that some or many of these events were drug relate
 Myocardial infarction occurred in about 4% of patients and congestive heart failure or pulmonary edema in about 2%.
 Ventricular arrhythmias or conduction disturbances each occurred in fewer than 0.5% of patients.
 
-In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences was not different from that of the entire group of PROCARDIA (nifedipine) treated patients.
+In a subgroup of over 1000 patients receiving PROCARDIA with concomitant beta blocker therapy, the pattern and incidence of adverse experiences were not different from that of the entire group of PROCARDIA (nifedipine) treated patients.
 (See PRECAUTIONS.)
 
-In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina pectoris (about 10% of the total patient population), dizziness or lightheadedness, peripheral edema, headache or flushing each occurred in one in eight patients.
+In a subgroup of approximately 250 patients with a diagnosis of congestive heart failure as well as angina pectoris (about 10% of the total patient population), dizziness or lightheadedness, peripheral edema, headache, or flushing each occurred in one in eight patients.
 Hypotension occurred in about one in 20 patients.
 Syncope occurred in approximately one patient in 250.
 Myocardial infarction or symptoms of congestive heart failure each occurred in about one patient in 15.
@@ -65,3 +65,4 @@ Atrial or ventricular dysrhythmias each occurred in about one patient in 150.
 
 In post-marketing experience, there have been rare reports of exfoliative dermatitis caused by nifedipine.
 There have been rare reports of exfoliative or bullous skin adverse events (such as erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis) and photosensitivity reactions.
+Acute generalized exanthematous pustulosis also has been reported.

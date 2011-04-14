@@ -10,7 +10,7 @@ PROCARDIA may also be used where the clinical presentation suggests a possible v
 
 PROCARDIA is indicated for the management of chronic stable angina (effort-associated angina) without evidence of vasospasm in patients who remain symptomatic despite adequate doses of beta blockers and/or organic nitrates or who cannot tolerate those agents.
 
-In chronic stable angina (effort-associated angina) PROCARDIA has been effective in controlled trials of up to eight weeks duration in reducing angina frequency and increasing exercise tolerance, but confirmation of sustained effectiveness and evaluation of long-term safety in these patients are incomplete.
+In chronic stable angina (effort-associated angina), PROCARDIA has been effective in controlled trials of up to eight weeks duration in reducing angina frequency and increasing exercise tolerance, but confirmation of sustained effectiveness and evaluation of long-term safety in these patients are incomplete.
 
 Controlled studies in small numbers of patients suggest concomitant use of PROCARDIA and beta-blocking agents may be beneficial in patients with chronic stable angina, but available information is not sufficient to predict with confidence the effects of concurrent treatment, especially in patients with compromised left ventricular function or cardiac conduction abnormalities.
 When introducing such concomitant therapy, care must be taken to monitor blood pressure closely since severe hypotension can occur from the combined effects of the drugs.

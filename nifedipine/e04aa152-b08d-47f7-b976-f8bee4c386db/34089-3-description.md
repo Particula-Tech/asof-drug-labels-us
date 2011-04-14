@@ -5,7 +5,7 @@ Nifedipine is 3,5-pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(2-nitro
 
 Nifedipine is a yellow crystalline substance, practically insoluble in water but soluble in ethanol.
 It has a molecular weight of 346.3.
-PROCARDIA capsules are formulated as soft gelatin capsules for oral administration each containing 10 mg or 20 mg nifedipine.
+PROCARDIA capsules are formulated as soft gelatin capsules for oral administration, each containing 10 mg nifedipine.
 
-Inert ingredients in the formulations are: glycerin; peppermint oil; polyethylene glycol; soft gelatin capsules (which contain Yellow 6, and may contain Red Ferric Oxide and other inert ingredients), and water.
+Inert ingredients in the formulation are: glycerin; peppermint oil; polyethylene glycol; soft gelatin capsules (which contain Yellow 6, and may contain Red Ferric Oxide and other inert ingredients); and water.
 The 10 mg capsules also contain saccharin sodium.
