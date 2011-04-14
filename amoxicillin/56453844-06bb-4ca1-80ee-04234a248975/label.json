@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA050575"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Dr Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-004-51",
+    "43598-004-52",
+    "43598-004-53",
+    "43598-012-51",
+    "43598-012-52",
+    "43598-012-53"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN"
+    }
+  ],
+  "setid": "56453844-06bb-4ca1-80ee-04234a248975",
+  "source": "dailymed"
+}
