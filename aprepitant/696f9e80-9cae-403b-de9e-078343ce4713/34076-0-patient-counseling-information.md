@@ -12,6 +12,7 @@ For the prevention of postoperative nausea and vomiting (PONV), patients should 
 
 Allergic reactions, which may be serious, and may include hives, rash and itching and cause difficulty in breathing or swallowing, have been reported in general use with EMEND.
 Physicians should instruct their patients to stop taking EMEND and call their doctor right away if they experience an allergic reaction.
+In addition, severe skin reactions may occur rarely.
 
 EMEND may interact with some drugs including chemotherapy; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products.
 

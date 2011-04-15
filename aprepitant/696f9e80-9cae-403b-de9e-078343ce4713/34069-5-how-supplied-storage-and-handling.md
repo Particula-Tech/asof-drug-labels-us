@@ -29,6 +29,6 @@ Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
 
 Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9985512
+9988902
 
 U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735

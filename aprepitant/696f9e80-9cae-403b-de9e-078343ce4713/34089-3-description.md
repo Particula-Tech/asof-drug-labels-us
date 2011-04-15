@@ -8,6 +8,6 @@ Aprepitant is a white to off-white crystalline solid, with a molecular weight of
 It is practically insoluble in water.
 Aprepitant is sparingly soluble in ethanol and isopropyl acetate and slightly soluble in acetonitrile.
 
-Each capsule of EMEND for oral administration contains either 40 mg, 80 mg or 125 mg of aprepitant and the following inactive ingredients: sucrose, microcrystalline cellulose, hydroxypropyl cellulose and sodium lauryl sulfate.
+Each capsule of EMEND for oral administration contains either 40 mg, 80 mg, or 125 mg of aprepitant and the following inactive ingredients: sucrose, microcrystalline cellulose, hydroxypropyl cellulose and sodium lauryl sulfate.
 The capsule shell excipients are gelatin, titanium dioxide, and may contain sodium lauryl sulfate and silicon dioxide.
 The 40‑mg capsule shell also contains yellow ferric oxide, and the 125‑mg capsule also contains red ferric oxide and yellow ferric oxide.

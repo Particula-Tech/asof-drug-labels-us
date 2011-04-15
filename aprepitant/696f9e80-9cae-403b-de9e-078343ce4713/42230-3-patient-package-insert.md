@@ -93,6 +93,7 @@ EMEND may cause serious side effects, including:
   - rash
   - itching
   - trouble breathing or swallowing.
+- Severe skin reactions may occur rarely.
 
 In people taking EMEND to prevent nausea and vomiting caused by chemotherapy, the most common side effects of EMEND include:
 
@@ -153,8 +154,8 @@ The brands listed in the above sections “Who should not take EMEND?” and “
 
 EMEND® is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2003, 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Issued March 2010
+Issued March 2011
 
 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-9985410
+9988902

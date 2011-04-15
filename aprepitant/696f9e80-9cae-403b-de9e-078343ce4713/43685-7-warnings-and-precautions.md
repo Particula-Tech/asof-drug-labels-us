@@ -8,7 +8,7 @@ Moderate inhibition of CYP3A4 by aprepitant, 125 mg/80 mg regimen, could result 
 Weak inhibition of CYP3A4 by a single 40 mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
 
 When aprepitant is used concomitantly with another CYP3A4 inhibitor, aprepitant plasma concentrations could be elevated.
-When EMEND is used concomitantly with medications that induce CYP3A4 activity aprepitant plasma concentrations could be reduced and this may result in decreased efficacy of EMEND [see Drug Interactions (7.1)].
+When EMEND is used concomitantly with medications that induce CYP3A4 activity, aprepitant plasma concentrations could be reduced and this may result in decreased efficacy of EMEND [see Drug Interactions (7.1)].
 
 Chemotherapy agents that are known to be metabolized by CYP3A4 include docetaxel, paclitaxel, etoposide, irinotecan, ifosfamide, imatinib, vinorelbine, vinblastine and vincristine.
 In clinical studies, EMEND (125 mg/80 mg regimen) was administered commonly with etoposide, vinorelbine, or paclitaxel.
