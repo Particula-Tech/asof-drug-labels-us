@@ -4,12 +4,6 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Distributed by:
+Rev.: 04/11
 
-Zydus Pharmaceuticals USA Inc.
-
-Princeton, NJ 08540
-
-Rev.: 06/10
-
-Revision date: 06/27/2010
+Revision date: 04/13/2011

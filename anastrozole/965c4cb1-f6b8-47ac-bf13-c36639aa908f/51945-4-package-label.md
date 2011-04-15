@@ -1,11 +1,11 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 68382-209-10 in bottle of 1000 tablets
+NDC 65841-743-06 in bottle of 30 tablets
 
 Anastrozole Tablets, 1 mg
 
 Rx only
 
-1000 tablets
+30 tablets
 
 ZYDUS
