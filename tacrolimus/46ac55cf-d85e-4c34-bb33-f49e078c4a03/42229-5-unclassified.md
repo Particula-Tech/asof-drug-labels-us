@@ -18,7 +18,7 @@ In the second trial, 545 patients were enrolled at 8 clinical sites in Europe; p
 In this study, each center used its local standard CBIR protocol in the active-control arm.
 This trial excluded pediatric patients, but did allow enrollment of subjects with renal dysfunction, fulminant hepatic failure in Stage IV encephalopathy, and cancers other than primary hepatic with metastases.
 
-One-year patient survival and graft survival in the tacrolimus -based treatment groups were equivalent to those in the CBIR treatment groups in both studies.
+One-year patient survival and graft survival in the tacrolimus-based treatment groups were equivalent to those in the CBIR treatment groups in both studies.
 The overall 1-year patient survival (CBIR and tacrolimus-based treatment groups combined) was 88% in the U.S. study and 78% in the European study.
 The overall 1-year graft survival (CBIR and tacrolimus-based treatment groups combined) was 81% in the U.S. study and 73% in the European study.
 In both studies, the median time to convert from IV to oral tacrolimus capsules dosing was 2 days.
@@ -68,10 +68,10 @@ Table 2: Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months 
 |  | N=390 | N=399 | N=401 | N=399 |
 | Overall Failure | 141 (36.2%) | 126(31.6%) | 82 (20.4%) | 185 (46.4%) |
 | Components of efficacy failure |  |  |  |  |
-| BPAR | 113(29%) | 106 (26.6%) | 60 (15%) | 152(38.1%) |
+| BPAR | 113 (29%) | 106 (26.6%) | 60 (15%) | 152 (38.1%) |
 | Graft loss excluding death | 28 (7.2%) | 20 (5%) | 12 (3%) | 30 (7.5%) |
-| Mortality | 13 (3.3%) | 7(1.8%) | 11(2.7%) | 12 (3%) |
-| Lost to follow-up | 5(1.3%) | 7(1.8%) | 5 (1.3%) | 6(1.5%) |
+| Mortality | 13 (3.3%) | 7 (1.8%) | 11 (2.7%) | 12 (3%) |
+| Lost to follow-up | 5 (1.3%) | 7 (1.8%) | 5 (1.3%) | 6 (1.5%) |
 | Treatment Difference of |  |  |  |  |
 | efficacy failure compared to | 15.8% (7.1%, | 11.2% (2.7%, | - | 26% (17.2%, |
 | Group C (99.2% CIa) | 24.3%) | 19.5%) |  | 34.7%) |
@@ -83,8 +83,8 @@ Table 3: Tacrolimus Whole Blood Trough Concentrations (Study 1)
 
 | Time | Median (P10-P90 a) tacrolimus whole blood trough concentrations (ng/mL) |
 | --- | --- |
-| Day 30 (N=366) | 6.9(4.4-11.3) |
-| Day90(N=351) | 6.8(4.1-10.7) |
+| Day 30 (N=366) | 6.9 (4.4-11.3) |
+| Day90(N=351) | 6.8 (4.1-10.7) |
 | Day 180(N=355) | 6.5 (4 - 9.6) |
 | Day 365 (N=346) | 6.5 (3.8 -10) |
 | a) Range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac |  |
@@ -115,12 +115,12 @@ Table 5: Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months 
 |  | Tacrolimus/MMF | Cyclosporine/MMF |
 | --- | --- | --- |
 |  | (n=212) | (n=212) |
-| Overall Failure | 32(15.1%) | 36 (17%) |
+| Overall Failure | 32 (15.1%) | 36 (17%) |
 | Components of efficacy failure |  |  |
 | BPAR | 16 (7.5%) | 29 (13.7%) |
-| Graft loss excluding death | 6 (2.8%) | 4(1.9%) |
+| Graft loss excluding death | 6 (2.8%) | 4 (1.9%) |
 | Mortality | 9 (4.2%) | 5 (2.4%) |
-| Lost to follow-up | 4(1.9%) | 1 (0.5%) |
+| Lost to follow-up | 4 (1.9%) | 1 (0.5%) |
 | Treatment Difference of efficacy failure |  |  |
 | compared |  |  |
 | to tacrolimus/MMF group (95% CIa) | - | 1.9% (-5.2%, 9%) |
@@ -134,10 +134,10 @@ Table 6: Tacrolimus Whole Blood Trough Concentrations (Study 2)
 | Time | Median (P10-P90a) tacrolimus whole blood trough concentrations (ng/mL) |
 | --- | --- |
 | Day 30 (N=174) | 10.5 (6.3 -16.8) |
-| Day 60 (N=179) | 9.2(5.9-15.3) |
+| Day 60 (N=179) | 9.2 (5.9-15.3) |
 | Day 120 (N=176) | 8.3 (4.6 -13.3) |
-| Day 180(N=171) | 7.8 (5.5 -13.2) |
-| Day 365 (N=178) | 7.1(4.2-12.4) |
+| Day 180 (N=171) | 7.8 (5.5 -13.2) |
+| Day 365 (N=178) | 7.1 (4.2-12.4) |
 | a) Range of Ctroughs, Tac that excludes lowest 10% and highest 10% of Ctroughs, Tac |  |
 
 The protocol-specified target cyclosporine whole blood concentrations (Ctrough, CsA) were 125 to 400 ng/mL for the first three months, and 100 to 300 ng/mL thereafter.
@@ -152,7 +152,7 @@ Table 7: MMF Dose Over Time in the tacrolimus/MMF group (Study 2)
 | Time period (Days) | Time-averaged MMF dose (g/day)a |  |  |
 | --- | --- | --- | --- |
 | <2 | 2 | >2 |  |
-| 0-30(N=212) | 25% | 69% | 6% |
+| 0-30 (N=212) | 25% | 69% | 6% |
 | 0-90 (N=212) | 41% | 53% | 6% |
 | 0-180 (N=212) | 52% | 41% | 7% |
 | 0-365 (N=212) | 62% | 34% | 4% |
@@ -237,7 +237,7 @@ Diagnosis may be confirmed by radiological procedure.
 If PRES is suspected or diagnosed, blood pressure control should be maintained and immediate reduction of immunosuppression is advised.
 This syndrome is characterized by reversal of symptoms upon reduction or discontinuation of immunosuppression.
 
-## Malignacy and Lymphoproliferative Disorders
+## Malignancy and Lymphoproliferative Disorders
 
 As in patients receiving other immunosuppressants, patients receiving tacrolimus capsules are at increased risk of developing lymphomas and other malignancies, particularly of the skin.
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
@@ -247,13 +247,13 @@ Because of the danger of oversuppression of the immune system which can increase
 
 ### Latent Viral Infections
 
-Immunosuppressed patients are at increased risk for opportunistic infections, including latent viral infections.
+Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
 These include BK virus associated nephropathy and JC virus associated progressive multifocal leukoencephalopathy (PML) which have been observed in patients receiving tacrolimus.
 These infections may lead to serious, including fatal, outcomes.
 
 # Patient Information
 
-TacrolimusCapsules
+Tacrolimus Capsules
 
 Read this important information before you start using tacrolimus capsules and each time you refill your prescription.
 This summary does not take the place of talking with your transplant team.
@@ -278,7 +278,7 @@ Tacrolimus capsule protects your new organ by slowing down the body's immune sys
 Who Should Not Take TacrolimusCapsules?
 
 Do not take tacrolimus capsules if you are allergic to any of the ingredients in tacrolimus.
-The active ingredient is tacrolimus.
+The active ingredient is tacrolimus capsule.
 Ask your doctor or pharmacist about the inactive ingredients.
 
 Tell your transplant team about all your health conditions, including kidney and /or liver problems.Discuss with your transplant team the use of any other prescription and non-prescription medications, including any herbal or over-the-counter remedies that you make take while on tacrolimus capsule.
@@ -288,15 +288,15 @@ Tell your transplant team if you are pregnant, planning to have a baby, or are b
 Talk with your transplant doctor about possible effects tacrolimus capsule could have on your child.
 Do not nurse a baby while taking tacrolimus capsule since the medicine will be in the breast milk.
 
-How Should I take TacrolimusCapsules?
+How Should I take Tacrolimus Capsules?
 
 Tacrolimus capsules can protect your new kidney or liver only if you take the medicine correctly.
 Your new organ needs around-the-clock protection so your body does not reject it.
 The success of your transplant depends a great deal upon how well you help tacrolimus capsules do its job.
 Here is what you can do to help.
 
-- Take tacrolimuscapsules exactly as prescribed It is important to take tacrolimus capsules exactly as your transplant team tells you to.
-  Tacrolimus capsules comes in several different strength capsules-0.5 mg, 1 mg and 5 mg.
+- Take tacrolimus capsules exactly as prescribed It is important to take tacrolimus capsules exactly as your transplant team tells you to.
+  Tacrolimus capsules come in several different strength capsules-0.5 mg, 1 mg and 5 mg.
   Your transplant team will tell you what dose to take and how often to take it.
   Your transplant team may adjust your dose until they find what works best for you.
   Never change your dose on your own.
@@ -308,17 +308,16 @@ Here is what you can do to help.
   You must take tacrolimus capsules at the same times every day.
   If you decide to take tacrolimus capsules at 7:00 AM and 7:00 PM, take it at these same times every day.
   This will make sure you always have enough medicine in your body to give your new organ the around-the-clock protection it needs.
-- Take Tacrolimuscapsules the same way each daySome people prefer to take tacrolimus capsules with food to help reduce possible stomach upset.
+- Take Tacrolimus capsules the same way each daySome people prefer to take tacrolimus capsules with food to help reduce possible stomach upset.
   Whether you take tacrolimus capsules with or without food, it is important to take tacrolimus capsules the same way every day.
   For example, if you take tacrolimus capsules with food, you should always take it with food.
-  Do not eat grapefruit or drink grapefruit juice in combination with your medicine unless your transplant team approves.
+  Do not eat grapefruit or drink grapefruit juice in combination with your medicine unless your transplant teams approves.
   Do not change the way you take this medicine without telling your transplant team, since this could change the amount of protection you get from tacrolimus capsules.
 
 - Take all your dosesIt is important to take your doses twice a day exactly as prescribed by your doctor.
   If you miss even two doses, your new liver or kidney could lose the protection it needs to defend itself against rejection by your body.
   If you miss one dose, do not try to catch up on your own.
-  Call your transplant team right away for instructions on what to do.
-  If you travel and change time zones, be sure to ask your transplant team how to adjust your dosage schedule so your new organ does not lose its protection.
+  Call your transplant team right away for instructions on what to do.If you travel and change time zones, be sure to ask your transplant team how to adjust your dosage schedule so your new organ does not lose its protection.
 - Plan ahead so that you do not run out of tacrolimuscapsulesMake sure you have your prescription for tacrolimus capsules refilled and at home before you need it.
   Circle the date on a calendar when you need to order your refill.
   Allow extra time if you receive your medicines through the mail.
@@ -341,7 +340,7 @@ After you start taking tacrolimus capsules:
   The vaccination may not work as well as it should.
 - Liver transplant patients, including those taking tacrolimus capsules should not drink alcohol.
 
-What Are the Possible Side Effects of TacrolimusCapsules?
+What Are the Possible Side Effects of Tacrolimus Capsules?
 
 Tell your transplant team right away if you think you might be having a side effect.
 Your transplant team will decide if it is a medicine side effect or a sign that has nothing to do with the medicine but needs to be treated.
@@ -369,13 +368,13 @@ These may be the early signs of high blood sugar or diabetes.
 
 All anti-rejection medicines, including tacrolimus capsules, suppress your body's immune system.
 As a result, they may increase your chances of getting infections and some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high sun protection factor (SPF >15).
+As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high sun protection factor (SPF.15).
 However, getting cancer from taking an anti-rejection medicine is not common.
 Talk with your transplant team about any concerns or questions you have.
 
-How Should I Store TacrolimusCapsules?
+How Should I Store Tacrolimus Capsules?
 
-Tacrolimus capsules should be stored at 20°-25°C (68°-77° F) [see USP Controlled Room Temperature].
+Tacrolimus capsules should be stored at 20° to 25°C (68° to 77° F) [see USP Controlled Room Temperature].
 For instance, do not leave tacrolimus capsules in the glove compartment of your car in the summer or winter.
 Do not keep tacrolimus capsules in a hot or moist place such as the medicine cabinet in the bathroom.
 
@@ -396,5 +395,5 @@ Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc; Princeton NJ 08540
 
-Iss.
-May 2009
+Rev.
+October 2010

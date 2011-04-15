@@ -102,7 +102,7 @@ Whole blood trough concentrations from 31 patients less than 12 years old showed
 
 The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in the following table.
 
-| Population | Dose | AUC0 - t | t1/2 (hr) | V | CI(L/hr/kg) |
+| Population | Dose | AUC0 - t | t1/2(hr) | V | CI(L/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
 | (No. of Patients) |  | (ng±hr/mL) |  | (L/kg) |  |
 | Renal | 0.02 |  |  |  |  |

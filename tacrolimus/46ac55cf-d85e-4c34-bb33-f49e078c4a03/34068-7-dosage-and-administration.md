@@ -3,9 +3,9 @@
 In patients unable to take oral tacrolimus capsules, therapy may be initiated with tacrolimus injection.
 The initial dose of tacrolimus should be administered no sooner than 6 hours after transplantation.
 
-Summary of Initial Oral Dosage Recommendations and Typical Whole Blood Trough Concentrations
+Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations
 
-| Patient Population | Recommended Initial Oral Dose* | Typical Whole Blood Trough Concentrations |
+| Patient Population | Recommended Initial Oral Dosage* | Observed Whole Blood Trough Concentrations |
 | --- | --- | --- |
 | Adult kidney transplant patients In combination with azathioprine | 0.2 mg/kg/day | month 1-3: 7-20 ng/mL month 4-12: 5-15 ng/mL |
 | In combination with MMF/IL-2 receptor antagonist ** | 0.1 mg/kg/day | month 1-12: 4-11 ng/mL |

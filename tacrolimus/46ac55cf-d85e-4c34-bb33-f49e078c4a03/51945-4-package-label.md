@@ -16,7 +16,7 @@ Each capsule contains: Tacrolimus 0.5 mg
 
 Usual Dosage: See package insert.
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20°- 25°C (68° - 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
@@ -44,7 +44,7 @@ Each capsule contains: Tacrolimus 1 mg
 
 Usual Dosage: See package insert.
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
@@ -70,7 +70,7 @@ Each capsule contains: Tacrolimus 5 mg
 
 Usual Dosage: See package insert.
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
