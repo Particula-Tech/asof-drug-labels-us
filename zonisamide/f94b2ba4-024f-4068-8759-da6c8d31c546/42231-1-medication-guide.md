@@ -15,12 +15,13 @@ What is the most important information I should know about ZONEGRAN?
    You should watch for decreased sweating and fever, especially when it is hot and especially in children taking ZONEGRAN.
    Call your health care provider right away if you have:
    - a skin rash
-   - fever
+   - high fever, recurring fever, or long lasting fever
    - less sweat than normal
-3. ZONEGRAN can cause blood cell abnormalities such as reduced red and white blood cell counts.
-   Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
-4. Like other antiepileptic drugs,ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+3. Like other antiepileptic drugs,ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:How can I watch for early symptoms of suicidal thoughts and actions?Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+   Do not stop ZONEGRAN without first talking to a healthcare provider.
+   Stopping ZONEGRAN suddenly can cause serious problems.
+   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
    - thoughts about suicide or dying
    - attempt to commit suicide
    - new or worse depression
@@ -33,18 +34,26 @@ What is the most important information I should know about ZONEGRAN?
    - acting on dangerous impulses
    - an extreme increase in activity and talking (mania)
    - other unusual changes in behavior or mood
+   - Suicidal thoughts or actions can be caused by things other than medicines.
+     If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+   - Keep all follow-up visits with your healthcare provider as scheduled.
+4. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
+   If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
+   Metabolic acidosis can happen with or without symptoms.
+   Sometimes people with metabolic acidosis will:Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
+   - feel tired
+   - not feel hungry (loss of appetite)
+   - feel changes in heartbeat
+   - have trouble thinking clearly
+5. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
+6. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
+   Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
 
-Do not stop ZONEGRAN without first talking to a healthcare provider.
-
-- Stopping ZONEGRAN suddenly can cause serious problems.
-- Suicidal thoughts or actions can be caused by things other than medicines.
-  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-
-How can I watch for early symptoms of suicidal thoughts and actions?
-
-- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-- Keep all follow-up visits with your healthcare provider as scheduled.
-- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+ZONEGRAN can have other serious side effects.
+For more information ask your healthcare provider or pharmacist.
+Tell your healthcare provider if you have any side effect that bothers you.
+Be sure to read the section titled "What are the possible side effects of ZONEGRAN?"
 
 What is ZONEGRAN?
 
@@ -63,13 +72,25 @@ Before taking ZONEGRAN, tell your healthcare provider about all your medical con
 - have or have had depression, mood problems or suicidal thoughts or behavior
 - have kidney problems
 - have liver problems
+- have a history of metabolic acidosis (too much acid in your blood)
+- have weak, brittle bones or soft bones (osteomalacia, osteopenia or osteoporosis)
+- have a growth problem
+- are on a diet high in fat called a ketogenic diet
+- have diarrhea
+
+Tell your healthcare provider if you:
+
 - are pregnant or plan to become pregnant.
-  You and your healthcare provider will have to decide if you should take ZONEGRAN while you are pregnant.
+  ZONEGRAN may harm your unborn baby.
+  Women who can become pregnant should use effective birth control.
+  Tell your healthcare provider right away if you become pregnant while taking ZONEGRAN.
+  You and your healthcare provider should decide if you should take ZONEGRAN while you are pregnant.
   If you become pregnant while taking ZONEGRAN, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- are breastfeeding.
-  It is not known if ZONEGRAN passes into breast milk and if it can harm your baby.
+- are breastfeeding or plan to breastfeed.
+  ZONEGRAN can pass into your breast milk.
+  It is not known if ZONEGRAN in your breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take ZONEGRAN.
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
@@ -88,30 +109,34 @@ How should I take ZONEGRAN?
 - If you take too much ZONEGRAN, call your local Poison Control Center or go to the nearest emergency room right away.
 - Do not stop taking ZONEGRAN without talking to your healthcare provider.
   Stopping ZONEGRAN suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
-- Do not drive a car, work with machines, or do other dangerous activities until you know how ZONEGRAN affects you.
-  ZONEGRAN may make you drowsy.
+
+What should I avoid while taking ZONEGRAN?
+
+- Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking ZONEGRAN until you talk to your health care provider.
+  ZONEGRAN taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how ZONEGRAN affects you.
+  ZONEGRAN can slow your thinking and motor skills.
 
 What are the possible side effects of ZONEGRAN?
 
 ZONEGRAN can cause serious side effects including:
 
 - The side effects mentioned above (see "What is the most important information I should know about ZONEGRAN?")
-- worsening seizures
-- kidney stones (sudden back pain, stomach pain, or blood in your urine)
-- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems)
-
-Call your healthcare provider right away if you have any of the symptoms listed above.
+- kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
+  Drink plenty of fluids while you take ZONEGRAN to lower your chance of getting kidney stones.
+- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
+  Call your healthcare provider right away if you have any of the symptoms listed above.
 
 The most common side effects of ZONEGRAN include:
 
 - drowsiness
 - loss of appetite
 - dizziness
+- problems with concentration or memory
 - trouble with walking and coordination
-- headache
-- nausea
-- agitation
-- irritability
+- agitation or irritability
+
+Side effects can happen at any time, but are more likely to happen during the first several weeks after starting ZONEGRAN.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of ZONEGRAN.

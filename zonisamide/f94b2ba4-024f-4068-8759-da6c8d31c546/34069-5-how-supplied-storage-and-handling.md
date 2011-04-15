@@ -11,4 +11,12 @@ ZONEGRAN is available in bottles of 100 with strengths and colors as follows:
 
 Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature], in a dry place and protected from light.
 
-US Patent #6,342,515.
+Manufactured by: Elan Pharma International Ltd.
+
+Distributed by: Eisai Inc., Woodcliff Lake, NJ 07677
+
+ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co. Ltd. and licensed exclusively to Eisai Inc.
+
+© 2010 Eisai Inc.
+
+Revised April 2009

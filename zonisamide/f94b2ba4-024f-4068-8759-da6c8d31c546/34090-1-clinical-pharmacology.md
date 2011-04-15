@@ -15,7 +15,10 @@ In vitro binding studies have demonstrated that zonisamide binds to the GABA/ben
 Other in vitro studies have demonstrated that zonisamide (10-30 μg/mL) suppresses synaptically-driven electrical activity without affecting postsynaptic GABA or glutamate responses (cultured mouse spinal cord neurons) or neuronal or glial uptake of [3H]-GABA (rat hippocampal slices).
 Thus, zonisamide does not appear to potentiate the synaptic activity of GABA.
 In vivo microdialysis studies demonstrated that zonisamide facilitates both dopaminergic and serotonergic neurotransmission.
-Zonisamide also has weak carbonic anhydrase inhibiting activity, but this pharmacologic effect is not thought to be a major contributing factor in the antiseizure activity of zonisamide.
+
+Zonisamide is a carbonic anhydrase inhibitor.
+The contribution of this pharmacological action to the therapeutic effects of zonisamide is unknown.
+However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 
 ## Pharmacokinetics
 
@@ -74,6 +77,11 @@ Concurrent medication with drugs that either induce or inhibit CYP3A4 may alter 
 Concomitant administration of phenytoin and carbamazepine increases zonisamide plasma clearance from 0.30-0.35 mL/min/kg to 0.35-0.5 mL/min/kg.
 The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
 Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactions subsection).
+
+### Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors
+
+Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
 
 ## Clinical Studies
 

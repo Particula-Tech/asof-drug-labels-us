@@ -87,6 +87,46 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/Neuropsychiatric Adverse Events subsection below).
 
+## Metabolic Acidosis
+
+Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
+This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
+Generally, zonisamide-induced metabolic acidosis occurs early in treatment, but it can develop at any time during treatment.
+Metabolic acidosis generally appears to be dose-dependent and can occur at doses as low as 25 mg daily.
+
+Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet, or specific drugs) may be additive to the bicarbonate lowering effects of zonisamide.
+
+Some manifestations of acute or chronic metabolic acidosis include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
+Chronic, untreated, metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis.
+Nephrolithiasis has been observed in the clinical development program in 4% of adults treated with ZONEGRAN, has also been detected by renal ultrasound in 8% of pediatric treated patients who had at least one ultrasound prospectively collected, and was reported as an adverse event in 3% (4/133) of pediatric patients (see PRECAUTIONS, Kidney Stones subsection).
+
+Chronic, untreated metabolic acidosis may result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fracture.
+Of potential relevance, zonisamide treatment was associated with reductions in serum phosphorus and increases in serum alkaline phosphatase, changes that may be related to metabolic acidosis and osteomalacia (see PRECAUTIONS, Laboratory Tests subsection).
+
+Chronic, untreated metabolic acidosis in pediatric patients may reduce growth rates.
+A reduction in growth rate may eventually decrease the maximal height achieved.
+The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
+
+Measurement of baseline and periodic serum bicarbonate during treatment is recommended.
+If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing zonisamide (using dose tapering).
+If the decision is made to continue patients on zonisamide in the face of persistent acidosis, alkali treatment should be considered.
+
+Serum bicarbonate was not measured in the adjunctive controlled trials of adults with epilepsy.
+However, serum bicarbonate was studied in three clinical trials for indications which have not been approved: a placebo-controlled trial for migraine prophylaxis in adults, a controlled trial for monotherapy in epilepsy in adults, and an open label trial for adjunctive treatment of epilepsy in pediatric patients (3-16 years).
+In adults, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses of 100 mg to nearly 4 mEq/L at daily doses of 300 mg.
+In pediatric patients, mean serum bicarbonate reductions ranged from approximately 2 mEq/L at daily doses from above 100 mg up to 300 mg, to nearly 4 mEq/L at daily doses from above 400 mg up to 600 mg.
+
+In two controlled studies in adults, the incidence of a persistent treatment-emergent decrease in serum bicarbonate to less than 20 mEq/L (observed at 2 or more consecutive visits or the final visit) was dose-related at relatively low zonisamide doses.
+In the monotherapy trial of epilepsy, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 21% for daily zonisamide doses of 25 mg or 100 mg, and was 43% at a daily dose of 300 mg.
+In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150 mg daily, and 34% for 300 mg daily.
+The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L in these controlled trials was 2% or less.
+
+In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52% at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
+The incidence of a persistent markedly abnormally low serum bicarbonate value was 4% at doses up to 100 mg daily, was 18% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
+Some patients experienced moderately severe serum bicarbonate decrements down to a level as low as 10 mEq/L.
+
+The relatively high frequencies of varying severities of metabolic acidosis observed in this study of pediatric patients (compared to the frequency and severity observed in various clinical trial development programs in adults) suggest that pediatric patients may be more likely to develop metabolic acidosis than adults.
+
 ## Seizures on Withdrawal
 
 As with other AEDs, abrupt withdrawal of ZONEGRAN in patients with epilepsy may precipitate increased seizure frequency or status epilepticus.
@@ -98,7 +138,6 @@ Women of child bearing potential who are given zonisamide should be advised to u
 Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 A variety of fetal abnormalities, including cardiovascular defects, and embryo-fetal deaths occurred at maternal plasma levels similar to or lower than therapeutic levels in humans.
 These findings suggest that the use of ZONEGRAN during pregnancy in humans may present a significant risk to the fetus (see PRECAUTIONS, Pregnancy subsection).
-It cannot be said with any confidence, however, that even mild seizures do not pose some hazards to the developing fetus.
 Zonisamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Cognitive/ Neuropsychiatric Adverse Events
@@ -128,30 +167,6 @@ Patients should be cautioned about this possibility and special care should be t
 Somnolence is commonly reported, especially at higher doses of ZONEGRAN (see WARNINGS: Cognitive/ Neuropsychiatric Adverse Events subsection).
 Zonisamide is metabolized by the liver and eliminated by the kidneys; caution should therefore be exercised when administering ZONEGRAN to patients with hepatic and renal dysfunction (see CLINICAL PHARMACOLOGY, Special Populations subsection).
 
-## Metabolic Acidosis
-
-Hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with ZONEGRAN treatment.
-This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
-Such electrolyte imbalance has been observed with the use of ZONEGRAN in placebo-controlled clinical trials and in the post-marketing period.
-Generally, zonisamide-induced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment.
-Bicarbonate decrements are usually mild-moderate (average decrease of approximately 3.5 mEq/L at daily doses of 300 mg in adults); infrequently, patients can experience more severe decrements.
-Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, surgery, ketogenic diet, or drugs) may be additive to the bicarbonate lowering effects of zonisamide.
-
-In adults, the incidence of persistent treatment-emergent decreases in serum bicarbonate (levels of <20 mEq/L at two consecutive visits or at the final visit) in a controlled clinical trial for monotherapy treatment of epilepsy was 43% for 300 mg/day, and 21% for 25 mg/day.
-Serum bicarbonate levels have not been systematically evaluated at daily doses greater than 300 mg/day.
-The incidence of persistent abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5 mEq/L decrease from a pretreatment value of at least 20 mEq/L) was 2% or less across all doses evaluated.
-Similar effects have been observed in clinical trials in pediatric patients.
-
-Some manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
-Chronic metabolic acidosis in pediatric patients may also reduce growth rates.
-A reduction in growth rate may eventually decrease the maximal height achieved.
-The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
-
-Measurement of serum bicarbonate before starting treatment and periodically during treatment with ZONEGRAN is recommended.
-If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing ZONEGRAN (using dose tapering).
-If the decision is made to continue patients on ZONEGRAN in the face of persistent acidosis, alkali treatment should be considered.
-
 ## Kidney Stones
 
 Among 991 patients treated during the development of ZONEGRAN, 40 patients (4.0%) with epilepsy receiving ZONEGRAN developed clinically possible or confirmed kidney stones (e.g., clinical symptomatology, sonography, etc.), a rate of 34 per 1000 patient-years of exposure (40 patients with 1168 years of exposure).
@@ -159,10 +174,13 @@ Of these, 12 were symptomatic, and 28 were described as possible kidney stones b
 In nine patients, the diagnosis was confirmed by a passage of a stone or by a definitive sonographic finding.
 The rate of occurrence of kidney stones was 28.7 per 1000 patient-years of exposure in the first six months, 62.6 per 1000 patient-years of exposure between 6 and 12 months, and 24.3 per 1000 patient-years of exposure after 12 months of use.
 There are no normative sonographic data available for either the general population or patients with epilepsy.
-The clinical significance of the sonographic finding is unknown.
+Although the clinical significance of the sonographic findings may not be certain, the development of nephrolithiasis may be related to metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 The analyzed stones were composed of calcium or urate salts.
 In general, increasing fluid intake and urine output can help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 It is unknown, however, whether these measures will reduce the risk of stone formation in patients treated with ZONEGRAN.
+
+Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of ZONEGRAN treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
+The incidence of kidney stone as an adverse event was 3% (see WARNINGS, Metabolic Acidosis subsection).
 
 ## Effect on Renal Function
 
@@ -207,6 +225,7 @@ Patients should be advised as follows: (See Medication Guide)
 
 1. ZONEGRAN may produce drowsiness, especially at higher doses.
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on ZONEGRAN sufficient to determine whether it affects their performance.
+   Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 2. Patients should contact their physician immediately if a skin rash develops or seizures worsen.
 3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
    Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
@@ -214,22 +233,20 @@ Patients should be advised as follows: (See Medication Guide)
 5. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
 6. Suicidal Thinking and Behavior - Patients, their caregivers, and families should be counseled that AEDs, including Zonegran, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
    Behaviors of concern should be reported immediately to healthcare providers.
-7. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during ZONEGRAN therapy.
+7. Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
+8. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during ZONEGRAN therapy.
    Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
    Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
    This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
    To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
-8. Patients should contact their physician immediately if they develop severe muscle pain and/or weakness.
+9. Patients should contact their physician immediately if they develop severe muscle pain and/or weakness.
 
 ## Laboratory Tests
 
 In several clinical studies, zonisamide was associated with a mean increase in the concentration of serum creatinine and blood urea nitrogen (BUN) of approximately 8% over the baseline measurement.
 Consideration should be given to monitoring renal function periodically (see PRECAUTIONS, Effect on Renal Function subsection).
 
-Zonisamide was associated with an increase in serum alkaline phosphatase.
-In the randomized, controlled trials, a mean increase of approximately 7% over baseline was associated with zonisamide compared to a 3% mean increase in placebo-treated patients.
-These changes were not statistically significant.
-The clinical relevance of these changes is unknown.
+Zonisamide increases serum chloride and alkaline phosphatase and decreases serum bicarbonate (see WARNINGS, Metabolic Acidosis subsection), phosphorus, calcium, and albumin.
 
 ## Drug Interactions
 
@@ -243,22 +260,38 @@ Concurrent medication with drugs that either induce or inhibit CYP3A4 would be e
 
 Interaction with cimetidine: Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
 
+Drug Interactions with CNS Depressants: Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
+Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
+
+Other Carbonic Anhydrase Inhibitors: Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
+
 ## Carcinogenicity, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
 In rats, this dose is 1-2 times the MRHD on a mg/m2 basis.
 
-Zonisamide increased mutation frequency in Chinese hamster lung cells in the absence of metabolic activation.
-Zonisamide was not mutagenic or clastogenic in the Ames test, mouse lymphoma assay, sister chromatid exchange test, and human lymphocyte cytogenetics assay in vitro, and the rat bone marrow cytogenetics assay in vivo.
+Zonisamide was mutagenic in an in vitro chromosomal aberration assay in CHL cells.
+Zonisamide was not mutagenic or clastogenic in other in vitro assays (Ames, mouse lymphoma tk assay, chromosomal aberration in human lymphocytes) or in the in vivo rat bone marrow cytogenetics assay.
 
 Rats treated with zonisamide (20, 60, or 200 mg/kg) before mating and during the initial gestation phase showed signs of reproductive toxicity (decreased corpora lutea, implantations, and live fetuses) at all doses.
 The low dose in this study is approximately 0.5 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
-The effect of zonisamide on human fertility is unknown.
 
 ## Pregnancy
 
-Pregnancy Category C (see WARNINGS, Teratogenicity subsection): Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
+Pregnancy Category C (see WARNINGS, Teratogenicity subsection): Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
+Zonisamide was teratogenic in multiple animal species.
+
+Zonisamide treatment causes metabolic acidosis in humans.
+The effect of zonisamide-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) may be associated with decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
+Pregnant patients should be monitored for metabolic acidosis and treated as in the non-pregnant state.
+(See WARNINGS, Metabolic Acidosis subsection.)
+
+Newborns of mothers treated with zonisamide should be monitored for metabolic acidosis because of transfer of zonisamide to the fetus and possible occurrence of transient metabolic acidosis following birth.
+Transient metabolic acidosis has been reported in neonates born to mothers treated during pregnancy with a different carbonic anhydrase inhibitor.
+
+Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 Fetal abnormalities or embryo-fetal deaths occurred in these species at zonisamide dosage and maternal plasma levels similar to or lower than therapeutic levels in humans, indicating that use of this drug in pregnancy entails a significant risk to the fetus.
 A variety of external, visceral, and skeletal malformations was produced in animals by prenatal exposure to zonisamide.
 Cardiovascular defects were prominent in both rats and dogs.
@@ -284,24 +317,27 @@ The no effect level of 30 mg/kg/day is approximately 0.7 times the MRHD on a mg/
 There are no adequate and well-controlled studies in pregnant women.
 ZONEGRAN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-To provide information regarding the effects of in utero exposure to Zonegran, physicians are advised to recommend that pregnant patients taking Zonegran enroll in the NAAED Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to ZONEGRAN, physicians are advised to recommend that pregnant patients taking ZONEGRAN enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and Delivery
 
-The effect of ZONEGRAN on labor and delivery in humans is not known.
+The effects of ZONEGRAN on labor and delivery in humans are unknown.
 
 ## Use in Nursing Mothers
 
-It is not known whether zonisamide is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from zonisamide, a decision should be made whether to discontinue nursing or to discontinue drug, taking into account the importance of the drug to the mother.
-ZONEGRAN should be used in nursing mothers only if the benefits outweigh the risks.
+Zonisamide is excreted in human milk.
+Because of the potential for serious adverse reactions in nursing infants from ZONEGRAN, a decision should be made whether to discontinue nursing or to discontinue drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
 The safety and effectiveness of ZONEGRAN in children under age 16 have not been established.
 Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
+Zonisamide commonly causes metabolic acidosis in pediatric patients (see WARNINGS, Metabolic Acidosis subsection).
+Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithiasis and/or nephrocalcinosis, osteoporosis and/or osteomalacia (potentially resulting in rickets), and may reduce growth rates.
+A reduction in growth rate may eventually decrease the maximal height achieved.
+The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
 
 ## Geriatric Use
 
