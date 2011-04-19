@@ -7,8 +7,8 @@ Follistim AQ Cartridge is supplied in a box containing disposable, 29 gauge, ult
 - NDC 0052-0316-01 Follistim AQ Cartridge 650 international units per 0.780 mL (delivering 600 international units) with gold crimp-caps and 7 BD Micro-Fine Pen Needles
 - NDC 0052-0326-01 Follistim AQ Cartridge 975 international units per 1.170 mL (delivering 900 international units) with blue crimp-caps and 10 BD Micro-Fine Pen Needles
 
-Store refrigerated 2–8°C (36–46°F) until dispensed.
-Upon dispensing, the product may be stored by the patient at 2–8°C (36–46°F) until the expiration date, or at 25°C (77°F) for 3 months or until expiration date, whichever occurs first.
-Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product can only be stored for a maximum of 28 days at 2–25°C (36–77°F).
+Store refrigerated 2-8°C (36-46°F) until dispensed.
+Upon dispensing, the product may be stored by the patient at 2-8°C (36-46°F) until the expiration date, or at 25°C (77°F) for 3 months or until expiration date, whichever occurs first.
+Once the rubber inlay of the Follistim AQ Cartridge has been pierced by a needle, the product can only be stored for a maximum of 28 days at 2-25°C (36-77°F).
 Protect from light.
 Do not freeze.

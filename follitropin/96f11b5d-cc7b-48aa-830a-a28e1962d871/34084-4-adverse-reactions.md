@@ -8,7 +8,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Ovarian Torsion [see Warnings and Precautions (5.4)]
 - Multi-fetal Gestation [see Warnings and Precautions (5.5)]
 - Congenital Anomalies [see Warnings and Precautions (5.6)]
-- Ectopic Pregnancy [see Warnings and Precautions (5.7)
+- Ectopic Pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous Abortion [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Study Experience
@@ -20,9 +20,9 @@ Ovulation Induction
 In a single cycle, multi-center, assessor-blind, parallel group, comparative study, a total of 172 chronic anovulatory women who had failed to ovulate and/or conceive with clomiphene citrate therapy, were randomized and treated with Follistim (105) or a urofollitropin comparator.
 Adverse reactions with an incidence of greater than 2% in either treatment group are listed in Table 2.
 
-Table 2: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assessor Blind, Comparative Study of Women Receiving Ovulation Induction
+TABLE 2: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assessor-Blind, Comparative Study of Women Receiving Ovulation Induction
 
-|  | Follistim N= 105 n (%) | Comparator N=67 n (%) |
+| Follistim N=105 n (%) | Comparator N=67 n (%) |  |
 | --- | --- | --- |
 | System Organ Class/Adverse Reactions | Treatment Number (%) of Women |  |
 | Gastrointestinal disorders |  |  |
@@ -35,9 +35,9 @@ Table 2: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assess
 | General disorders and administration site conditions |  |  |
 | Pyrexia | 0 (0.0) | 2 (3.0) |
 
-Adverse reactions reported commonly (greater than or equal to 2 % of women treated with Follistim) in other ovulation induction clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, uterine enlargement, vaginal hemorrhage and injection site reaction
+Adverse reactions reported commonly (greater than or equal to 2% of women treated with Follistim) in other ovulation induction clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, uterine enlargement, vaginal hemorrhage and injection site reaction.
 
-The following medical events have been reported subsequent to pregnancies resulting from FOLLISTIM AQ Cartridge therapy:
+The following medical events have been reported subsequent to pregnancies resulting from Follistim AQ Cartridge therapy:
 
 - Ectopic pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous abortion [see Warnings and Precautions (5.8)]
@@ -47,9 +47,9 @@ ART
 In a multiple cycle, multi-center, assessor-blind, parallel group, comparative study, after pituitary suppression with a gonadotropin release hormone (GnRH) agonist, a total of 989 women were randomized and treated with Follistim (N=591) or a urofollitropin comparator as part of in vitro fertilization therapy (IVF).
 Adverse reactions with an incidence of greater than 2% in either treatment group are listed in Table 3.
 
-Table 3: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assessor-Blind, Comparative Study of Women Receiving In Vitro Fertilization (IVF)
+TABLE 3: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assessor-Blind, Comparative Study of Women Receiving In Vitro Fertilization (IVF)
 
-|  | Follistim N= 591 n (%) | Comparator N=398 n (%) |
+| Follistim N=591 n (%) | Comparator N=398 n (%) |  |
 | --- | --- | --- |
 | System Organ Class/Adverse Reactions | Treatment Number (%) of Women |  |
 | Gastrointestinal disorders |  |  |
@@ -57,9 +57,9 @@ Table 3: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assess
 | Reproductive system and breast disorders |  |  |
 | Ovarian hyperstimulation syndrome | 31 (5.2) | 17 (4.3) |
 
-Adverse reactions reported commonly (greater than or equal to 2 % of women treated with Follistim) in other IVF clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage, injection site reaction and rash.
+Adverse reactions reported commonly (greater than or equal to 2% of women treated with Follistim) in other IVF clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage, injection site reaction and rash.
 
-The following medical events have been reported subsequent to pregnancies resulting from FOLLISTIM AQ Cartridge therapy:
+The following medical events have been reported subsequent to pregnancies resulting from Follistim AQ Cartridge therapy:
 
 - Ectopic pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous abortion [see Warnings and Precautions (5.8)]
@@ -68,9 +68,9 @@ Induction of Spermatogenesis
 
 In an open-label, non-comparative clinical trial, 49 men with hypogonadotropic hypogonadism were enrolled to received pretreatment with hCG, followed by combination therapy with hCG and Follistim for induction of spermatogenesis.
 Of the 49 men, 30 received weekly Follistim doses of 450 international units; 24 of these 30 men received a total of 48 weeks of treatment with Follistim.
-Adverse reactions occurring with an incidence of greater than 2% in the 30 men treated with FOLLISTIM are listed in Table 4.
+Adverse reactions occurring with an incidence of greater than 2% in the 30 men treated with Follistim are listed in Table 4.
 
-Table 4: Common Adverse Reactions Reported At a Frequency of ≥ 2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
+TABLE 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
 
 | System Organ Class/Adverse Reactions | Follistim Treatment N=30 n (%) |
 | --- | --- |

@@ -1,4 +1,4 @@
-# 3 DOSAGE FORM AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Follistim AQ Cartridge 175 international units per 0.210 mL
 

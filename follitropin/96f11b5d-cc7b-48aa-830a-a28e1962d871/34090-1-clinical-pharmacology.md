@@ -23,7 +23,7 @@ Administration of follitropin beta with the Follistim Pen resulted an 18% increa
 The 18% difference in serum FSH concentrations resulting from administration of the two formulations was due to differences between the anticipated and actual volume delivered with the conventional syringe.
 The pharmacokinetic parameters for Follistim AQ Cartridge are as follows:
 
-Table 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
+TABLE 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
 
 |  | AUC0–∞ (IU/L*h) | Cmax (IU/L) | tmax (h) | t1/2 (h) | CLapp (L/h/kg) |
 | --- | --- | --- | --- | --- | --- |
