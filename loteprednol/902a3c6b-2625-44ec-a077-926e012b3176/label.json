@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA200738"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Bausch & Lomb Pharmaceuticals",
+  "package_ndcs": [
+    "24208-443-35"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "loteprednol etabonate",
+      "name": "Lotemax"
+    }
+  ],
+  "setid": "902a3c6b-2625-44ec-a077-926e012b3176",
+  "source": "dailymed"
+}
