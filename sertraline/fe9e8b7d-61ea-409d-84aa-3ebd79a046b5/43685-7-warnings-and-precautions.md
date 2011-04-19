@@ -62,23 +62,22 @@ Similarly, at least 14 days should be allowed after stopping ZOLOFT before start
 
 The concomitant use of Zoloft with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors).
 
-### Serotonin Syndrome
+### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome may occur in treatment with SNRIs and SSRIs, including Zoloft, particularly with concomitant use of serotonergic drugs (including triptans) and with drugs which impair metabolism of serotonin (including MAOIs).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Zoloft treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-If concomitant treatment of SNRIs and SSRIs, including Zoloft, with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS – Drug Interactions).
+The concomitant use of Zoloft with MAOIs intended to treat depression is contraindicated.
 
-The concomitant use of SNRIs and SSRIs, including Zoloft, with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS – Drug Interactions).
+If concomitant treatment of Zoloft with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-### Neuroleptic Malignant Syndrome (NMS) or NMS-Like Reactions
+The concomitant use of Zoloft with serotonin precursors (such as tryptophan) is not recommended.
 
-Rare instances of neuroleptic malignant syndrome (NMS) or NMS-like reactions have been reported when a selective serotonin reuptake inhibitor (SSRI) drug, such as sertraline, or a serotonin-norepinephrine reuptake inhibitor (SNRI) was added to antipsychotic drug therapy.
-Additionally, a small number of such cases have been reported with SSRI's and SNRI's in the absence of antipsychotic coadministration.
-These serious and sometimes fatal events can include hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-It is uncertain whether these cases are serotonin syndrome which, in its most severe form, can resemble neuroleptic malignant syndrome.
-As these events may result in potentially life-threatening conditions, patients should be monitored for the emergence of NMS-like signs and symptoms, especially if sertraline and an antipsychotic drug are taken concurrently.
-Treatment with sertraline and any concomitant antipsychotic agent should be discontinued immediately if such events occur and supportive symptomatic treatment should be initiated.
+Treatment with Zoloft and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+Co-administration of Zoloft with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
 
 # PRECAUTIONS
 
@@ -449,3 +448,10 @@ In 354 geriatric subjects treated with ZOLOFT in placebo-controlled trials, the 
 Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
 SSRIS and SNRIs, including ZOLOFT, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+
+## Diabetes/Loss of Glycemic Control
+
+Cases of new onset diabetes mellitus have been reported in patients receiving SSRIs including ZOLOFT.
+Loss of glycemic control including both hyperglycemia and hypoglycemia has also been reported in patients with and without pre-existing diabetes.
+Patients should therefore be monitored for signs and symptoms of glucose fluctuations.
+Diabetic patients especially should have their glycemic control carefully monitored since their dosage of insulin and/or concomitant oral hypoglycemic drug may need to be adjusted.
