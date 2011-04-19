@@ -64,11 +64,28 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+3.
+Lamotrigine tablets may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+Call your healthcare provider right away if you have any of the following symptoms:
+
+- Headache
+- Fever
+- Nausea
+- Vomiting
+- Stiff neck
+- Rash
+- Unusual sensitivity to light
+- Muscle pains
+- Chills
+- Confusion
+- Drowsiness
+
+Meningitis has many causes other than lamotrigine tablets, which your doctor would check for if you developed meningitis while taking lamotrigine tablets.
 Lamotrigine tablets can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of lamotrigine tablets?”
-3.
+4.
 Patients prescribed lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine tablets, so always check that you receive lamotrigine tablets.
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for lamotrigine tablets:
@@ -127,7 +144,7 @@ How should I take lamotrigine tablets?
   Do not take two doses at the same time.
 - You may not feel the full effect of lamotrigine tablets for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
-- Swallow lamotrigine tablets whole
+- Swallow lamotrigine tablets whole.
 - If you have trouble swallowing lamotrigine tablets, there may be another form of lamotrigine tablets you can take.
 - If you receive lamotrigine tablets in a blisterpack, examine the blister pack before use.
   Do not use if blisters are torn, broken, or missing.
@@ -177,4 +194,4 @@ What are the ingredients in lamotrigine tablets?
 Active ingredient: lamotrigine.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only). *DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 03/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2010

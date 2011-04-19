@@ -28,25 +28,31 @@ Patients should be advised of the possibility of blood dyscrasias and/or acute m
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
-Patients should also be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)] .
 
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)] .
-Women should also be advised to promptly notify their physician if they experience adverse events or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)] .
+Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
 
 ## 17.8 Discontinuing Lamotrigine
 
 Patients should be advised to notify their physician if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their physician.
 
-## 17.9 Potential Medication Errors
+## 17.9 Aseptic Meningitis
+
+Patients should be advised that lamotrigine may cause aseptic meningitis.
+Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
+
+## 17.10 Potential Medication Errors
 
 Medication errors involving lamotrigine have occurred.
-In particular the name lamotrigine can be confused with the names of other commonly used medications.
+In particular the names lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)] .
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2010

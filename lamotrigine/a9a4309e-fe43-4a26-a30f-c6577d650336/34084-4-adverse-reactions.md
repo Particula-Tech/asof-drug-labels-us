@@ -7,9 +7,10 @@ The following adverse reactions are described in more detail in the Warnings and
 - Acute multiorgan failure [see Warnings and Precautions (5.3)]
 - Blood dyscrasias [see Warnings and Precautions (5.4)]
 - Suicidal behavior and ideation [see Warnings and Precautions (5.5)]
-- Withdrawal seizures [see Warnings and Precautions (5.9)]
-- Status epilepticus [see Warnings and Precautions (5.10)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
+- Aseptic meningitis [see Warnings and Precautions (5.7)]
+- Withdrawal seizures [see Warnings and Precautions (5.10)]
+- Status epilepticus [see Warnings and Precautions (5.11)]
+- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials
 
@@ -21,7 +22,7 @@ Epilepsy: Most Common Adverse Reactions in All Clinical Studies: Adjunctive Ther
 Dizziness, diplopia, ataxia, blurred vision, nausea, and vomiting were dose-related.
 Dizziness, diplopia, ataxia, and blurred vision occurred more commonly in patients receiving carbamazepine with lamotrigine than in patients receiving other AEDs with lamotrigine.
 Clinical data suggest a higher incidence of rash, including serious rash, in patients receiving concomitant valproate than in patients not receiving valproate [see Warnings and Precautions (5.1)] .
-Approximately 11% of the 3,378 adult patients who received lamotrigine as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse experience.
+Approximately 11% of the 3,378 adult patients who received lamotrigine as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were rash (3%), dizziness (2.8%), and headache (2.5%).
 In a dose-response study in adults, the rate of discontinuation of lamotrigine for dizziness, ataxia, diplopia, blurred vision, nausea, and vomiting was dose-related.
 Monotherapy in Adults With Epilepsy: The most commonly observed (≥5% for lamotrigine and more common on drug than placebo) adverse reactions seen in association with the use of lamotrigine during the monotherapy phase of the controlled trial in adults not seen at an equivalent rate in the control group were vomiting, coordination abnormality, dyspepsia, nausea, dizziness, rhinitis, anxiety, insomnia, infection, pain, weight decrease, chest pain, and dysmenorrhea.
@@ -31,7 +32,7 @@ The adverse reactions most commonly associated with discontinuation were rash (4
 Adjunctive Therapy in Pediatric Patients With Epilepsy: The most commonly observed (≥5% for lamotrigine and more common on drug than placebo) adverse reactions seen in association with the use of lamotrigine as adjunctive treatment in pediatric patients 2 to 16 years of age and not seen at an equivalent rate in the control group were infection, vomiting, rash, fever, somnolence, accidental injury, dizziness, diarrhea, abdominal pain, nausea, ataxia, tremor, asthenia, bronchitis, flu syndrome, and diplopia.
 In 339 patients 2 to 16 years of age with partial seizures or generalized seizures of Lennox-Gastaut syndrome, 4.2% of patients on lamotrigine and 2.9% of patients on placebo discontinued due to adverse reactions.
 The most commonly reported adverse reaction that led to discontinuation of lamotrigine was rash.
-Approximately 11.5% of the 1,081 pediatric patients 2 to 16 years of age who received lamotrigine as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse experience.
+Approximately 11.5% of the 1,081 pediatric patients 2 to 16 years of age who received lamotrigine as adjunctive therapy in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were rash (4.4%), reaction aggravated (1.7%), and ataxia (0.6%).
 Controlled Adjunctive Clinical Studies in Adults With Epilepsy: Table 8 lists treatment-emergent adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with lamotrigine in placebo-controlled trials and were numerically more common in the patients treated with lamotrigine.
 In these studies, either lamotrigine or placebo was added to the patient's current AED therapy.
@@ -40,7 +41,7 @@ Adverse reactions were usually mild to moderate in intensity.
 Table 8.
 Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Adult Patients With Epilepsy* (Adverse reactions in at least 2% of patients treated with lamotrigine and numerically more frequent than in the placebo group.)
 
-| Body System/ Adverse Experience | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Headache | 29 | 19 |
@@ -105,7 +106,7 @@ Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive 
 | Vomiting | 4 | 11 | 18* |
 | * Significantly greater than placebo group (p<0.05). † Significantly greater than group receiving lamotrigine 300 mg (p<0.05). |  |  |  |
 
-The overall adverse experience profile for lamotrigine was similar between females and males, and was independent of age.
+The overall adverse reaction profile for lamotrigine was similar between females and males, and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either lamotrigine as adjunctive therapy or placebo were more likely to report adverse reactions than males.
 The only adverse reaction for which the reports on lamotrigine were greater than 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
@@ -115,7 +116,7 @@ Controlled Monotherapy Trial in Adults With Partial Seizures: Table 10 lists tre
 Table 10.
 Treatment-Emergent Adverse Reaction Incidence in Adults With Partial Seizures in a Controlled Monotherapy Trial* (Adverse reactions in at least 5% of patients treated with lamotrigine and numerically more frequent than in the valproate group.)
 
-| Body System/ Adverse Experience | Percent of Patients Receiving Lamotrigine as Monotherapy† (n = 43) | Percent of Patients Receiving Low-Dose Valproate‡ Monotherapy (n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine as Monotherapy† (n = 43) | Percent of Patients Receiving Low-Dose Valproate‡ Monotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Pain | 5 | 0 |
@@ -151,7 +152,7 @@ Reported adverse reactions were classified using COSTART terminology.
 Table 11.
 Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive Trials in Pediatric Patients With Epilepsy (Adverse reactions in at least 2% of patients treated with lamotrigine and numerically more frequent than in the placebo group.)
 
-| Body System/ Adverse Experience | Percent of Patients Receiving Lamotrigine (n = 168) | Percent of Patients Receiving Placebo (n = 171) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 168) | Percent of Patients Receiving Placebo (n = 171) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Infection | 20 | 17 |
@@ -205,15 +206,15 @@ Treatment-Emergent Adverse Reaction Incidence in Placebo-Controlled Adjunctive T
 
 Bipolar Disorder: The most commonly observed (≥5%) treatment-emergent adverse reactions seen in association with the use of lamotrigine as monotherapy (100 to 400 mg/day) in adult patients (≥18 years of age) with Bipolar Disorder in the 2 double-blind, placebo-controlled trials of 18 months’ duration, and numerically more frequent than in placebo-treated patients are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more common during the dose-escalation phase of lamotrigine in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
-During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse experience.
+During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions which most commonly led to discontinuation of lamotrigine were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
-Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse experience; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
-The overall adverse event profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
+Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
+The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
 Treatment-Emergent Adverse Reaction Incidence in 2 Placebo-Controlled Trials in Adults With Bipolar I Disorder* (Adverse reactions in at least 5% of patients treated with lamotrigine as monotherapy and numerically more frequent than in the placebo group.)
 
-| Body System/ Adverse Experience | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
 | --- | --- | --- |
 | General |  |  |
 | Back pain | 8 | 6 |
@@ -247,7 +248,7 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.9)] .
+However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.10)] .
 Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in Bipolar I Disorder in which patients were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 
