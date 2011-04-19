@@ -2,9 +2,9 @@ Do not admix with other drugs.
 
 Rx only
 
-Revised: July 2008
+Revised: September 2010
 
-EXCEL is a registered trademark of B. Braun Medical Inc. Made in USA
+EXCEL is a registered trademark of B. Braun Medical Inc.
 
 # Directions for Use of EXCEL® Container
 
@@ -30,8 +30,41 @@ If leaks are found, discard solution as sterility may be impaired.
 2. Attach administration set.
    Refer to complete directions accompanying set.
 
-B. Braun Medical Inc. Irvine, CA USA 92614-5895
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
-©2008 B. Braun Medical Inc.
+Y36-002-762 LD-239-1
 
-Y36-002-660
+# PRINCIPAL DISPLAY PANEL - 250 mL Container Label
+
+250 mL
+
+EXCEL® CONTAINER
+
+NDC 0264-9587-20 P5872
+
+HEPARIN SODIUM 25,000 UNITS 100 UNITS/ML in 5% Dextrose Injection
+
+Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 10,000 USP Heparin units Hydrous Dextrose USP 5 g Dibasic Sodium Phosphate•7H2O USP 0.41 g; Citric Acid Anhydrous USP 0.093 g; Sodium Metabisulfite NF (antioxidant) <0.07 g Water for Injection USP qs
+
+pH: 5.6 (4.5-7.0), Calculated Osmolarity: 315 mOsmol/liter
+
+Electrolytes (mEq/liter): Sodium 38 Phosphate (HPO) 30; Citrate 15 Warning: Do not admix with other drugs.
+
+Sterile, nonpyrogenic.
+Single dose container.
+Do not use in series connection.
+For intravenous use only.
+Use only if solution is clear and container and seals are intact.
+Recommended Storage: Room temperature (25ºC).
+Avoid excessive heat.
+Protect from freezing.
+See Package Insert.
+Rx only Latex-free; PVC-free; DEHP-free EXCEL is a registered trademark of B. Braun Medical Inc.
+
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA
+
+Made in USA Y94-002-896
+
+Do not remove overwrap until ready for use.
+After removing the overwrap, check for minute leaks by squeezing container firmly.
+If leaks are found, discard solution as sterility may be impaired.

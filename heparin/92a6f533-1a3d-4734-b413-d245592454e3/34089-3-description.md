@@ -17,9 +17,9 @@ In heparin sodium, the acidic protons of the sulfate units are partially replace
 | Solution | Heparin Sodium USP | Hydrous Dextrose USP | Dibasic Sodium Phosphate Heptahydrate USP | Citric Acid Anhydrous USP | Sodium | Phosphate | Citrate |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Composition – Each 100 mL Contains: |  |  |  |  | Concentration of Electrolytes (mEq/liter) |  |  | pH | Calculated Osmolarity mOsmol/liter |
-| Heparin Sodium 20,000 Units in 5% Dextrose Injection | 4,000 Units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
-| Heparin Sodium 25,000 Units in 5% Dextrose Injection | 5,000 Units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
-| Heparin Sodium 25,000 Units in 5% Dextrose Injection | 10,000 Units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
+| Heparin Sodium 20,000 units in 5% Dextrose Injection | 4,000 units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
+| Heparin Sodium 25,000 units in 5% Dextrose Injection | 5,000 units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
+| Heparin Sodium 25,000 units in 5% Dextrose Injection | 10,000 units | 5 g | 0.41 g | 0.093 g | 38 | 30 | 15 | 5.6 (4.5–7.0) | 315 |
 | Sodium Metabisulfite NF (antioxidant) <0.07 g Water for Injection USP qs |  |  |  |  |  |  |  |  |  |
 
 The formulas of the inactive ingredients are:
