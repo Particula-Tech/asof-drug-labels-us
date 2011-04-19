@@ -64,7 +64,7 @@ The concomitant use of sertraline hydrochloride with MAOIs intended to treat dep
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Sertraline hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Sertraline hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
@@ -76,6 +76,8 @@ If concomitant treatment of Sertraline hydrochloride with a 5-hydroxytryptamine 
 The concomitant use of Sertraline hydrochloride with serotonin precursors (such as tryptophan) is not recommended.
 
 Treatment with Sertraline hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+Co-administration of Zoloft with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
 
 # PRECAUTIONS
 
@@ -447,3 +449,10 @@ In 354 geriatric subjects treated with sertraline hydrochloride in placebo-contr
 Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
 SSRIS and SNRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
+
+### Diabetes/Loss of Glycemic Control
+
+Cases of new onset diabetes mellitus have been reported in patients receiving SSRIs including ZOLOFT.
+Loss of glycemic control including both hyperglycemia and hypoglycemia has also been reported in patients with and without pre-existing diabetes.
+Patients should therefore be monitored for signs and symptoms of glucose fluctuations.
+Diabetic patients especially should have their glycemic control carefully monitored since their dosage of insulin and/or concomitant oral hypoglycemic drug may need to be adjusted.
