@@ -90,9 +90,7 @@ Those patients who were considered non-responders, where response was defined as
 Cymbalta is indicated for the management of chronic musculoskeletal pain.
 This has been established in studies in patients with chronic low back pain and chronic pain due to osteoarthritis.
 
-Studies in Chronic Low Back Pain —
-
-The efficacy of Cymbalta in chronic low back pain (CLBP) was assessed in two double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study CLBP-1 and Study CLBP-2), and one of 12-weeks duration (CLBP-3).
+Studies in Chronic Low Back Pain — The efficacy of Cymbalta in chronic low back pain (CLBP) was assessed in two double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study CLBP-1 and Study CLBP-2), and one of 12-weeks duration (CLBP-3).
 CLBP-1 and CLBP-3 demonstrated efficacy of Cymbalta in the treatment of chronic low back pain.
 Patients in all studies had no signs of radiculopathy or spinal stenosis.
 
@@ -114,9 +112,7 @@ For various degrees of improvement in pain from baseline to study endpoint, Figu
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned the value of 0% improvement.
 
-Studies in Chronic Pain Due to Osteoarthritis —
-
-The efficacy of Cymbalta in chronic pain due to osteoarthritis was assessed in 2 double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study OA-1 and Study OA-2).
+Studies in Chronic Pain Due to Osteoarthritis — The efficacy of Cymbalta in chronic pain due to osteoarthritis was assessed in 2 double-blind, placebo-controlled, randomized clinical trials of 13-weeks duration (Study OA-1 and Study OA-2).
 All patients in both studies fulfilled the ACR clinical and radiographic criteria for classification of idiopathic osteoarthritis of the knee.
 Randomization was stratified by the patients' baseline NSAIDs-use status.
 Patients assigned to Cymbalta started treatment in both studies at a dose of 30 mg once daily for one week.

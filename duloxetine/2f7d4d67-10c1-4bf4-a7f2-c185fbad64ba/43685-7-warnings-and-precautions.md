@@ -62,9 +62,9 @@ Cases of cholestatic jaundice with minimal elevation of transaminase levels have
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
 
 Cymbalta increased the risk of elevation of serum transaminase levels in development program clinical trials.
-Liver transaminase elevations resulted in the discontinuation of 0.3% (89/29,435) of Cymbalta-treated patients.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (91/31,268) of Cymbalta-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.37% (132/9611) of Cymbalta-treated patients compared to 0.49% (35/7182) of placebo-treated patients.
+In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.32% (135/10,244) of Cymbalta-treated patients compared to 0.49% (37/7556) of placebo-treated patients.
 In placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of >3 times the upper limit of normal and >5 times the upper limit of normal, respectively.
 
 Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate pre-existing liver disease, Cymbalta should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
@@ -115,7 +115,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## 5.7 Activation of Mania/Hypomania
 
-In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (2/2,489) of duloxetine-treated patients and 0.1% (1/1,625) of placebo-treated patients.
+In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (3/3007) of duloxetine-treated patients and 0.1% (1/1883) of placebo-treated patients.
 No activation of mania or hypomania was reported in GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, Cymbalta should be used cautiously in patients with a history of mania.
@@ -123,12 +123,12 @@ As with these other agents, Cymbalta should be used cautiously in patients with 
 ## 5.8 Seizures
 
 Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/10,524) of patients treated with duloxetine and 0.01% (1/7699) of patients treated with placebo.
+In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/11,305) of patients treated with duloxetine and 0.01% (1/8224) of patients treated with placebo.
 Cymbalta should be prescribed with care in patients with a history of a seizure disorder.
 
 ## 5.9 Effect on Blood Pressure
 
-In placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.4 mm Hg diastolic in placebo-treated patients.
+In placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
 In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
 At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5.0 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.

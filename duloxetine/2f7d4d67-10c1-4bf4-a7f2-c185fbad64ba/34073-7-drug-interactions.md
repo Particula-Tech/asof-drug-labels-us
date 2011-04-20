@@ -20,9 +20,9 @@ Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
 Concomitant administration of warfarin (2-9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
-The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
+The total warfarin (protein bound plus free drug) pharmacokinetics (AUτ,ss, Cmax,ss, or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
 Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
 
 ## 7.5 Lorazepam
@@ -91,9 +91,9 @@ Substantial intercurrent ethanol use was present in each of these cases, and thi
 
 ## 7.17 CNS Drugs
 
-[see Warnings and Precautions (5.10)].
+[See Warnings and Precautions (5.10)].
 
 ## 7.18 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of Cymbalta to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
-However, coadministration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].
+However, co-administration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].
