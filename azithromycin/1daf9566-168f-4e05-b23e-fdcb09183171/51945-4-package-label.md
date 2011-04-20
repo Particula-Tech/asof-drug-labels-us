@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2 g Bottle Label
+PRINCIPAL DISPLAY PANEL - 2 g Bottle Label
 
 Rx only NDC 0069-4170-21
 
