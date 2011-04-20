@@ -181,7 +181,9 @@ See also PRECAUTIONS: Pediatric Use, for adverse events reported upon discontinu
 ### Tamoxifen
 
 Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see Drug Interactions).
-This risk may increase with longer duration of coadministration.
+However, other studies have failed to demonstrate such a risk.
+It is uncertain whether the coadministration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+One study suggests that the risk may increase with longer duration of coadministration.
 When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
 
 ### Akathisia
@@ -239,7 +241,7 @@ PAXIL CR should not be chewed or crushed, and should be swallowed whole.
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of PAXIL CR and triptans, tramadol, or other serotonergic agents.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with PAXIL CR and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions” is available for PAXIL CR.
+A patient Medication Guide is available for PAXIL CR.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -276,7 +278,7 @@ Although immediate-release paroxetine hydrochloride has not been shown to increa
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic and Nonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
 
 ### Nursing
 
@@ -466,7 +468,7 @@ These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg
 
 ## Pregnancy
 
-Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic and Nonteratogenic Effects.
+Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
 
 ## Labor and Delivery
 
@@ -481,6 +483,8 @@ Like many other drugs, paroxetine is secreted in human milk, and caution should 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with immediate-release PAXIL, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of PAXIL CR in a child or adolescent must balance the potential risks with the clinical need.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as PAXIL CR.
 
 In placebo-controlled clinical trials conducted with pediatric patients, the following adverse events were reported in at least 2% of pediatric patients treated with immediate-release paroxetine hydrochloride and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
 

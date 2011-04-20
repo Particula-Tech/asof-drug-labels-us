@@ -8,3 +8,5 @@ Patients of all ages who are started on antidepressant therapy should be monitor
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 PAXIL CR is not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
+
+If you take PAXIL CR, you should not take any other medicines that contain paroxetine hydrochloride, including PAXIL and PEXEVA® (paroxetine mesylate).

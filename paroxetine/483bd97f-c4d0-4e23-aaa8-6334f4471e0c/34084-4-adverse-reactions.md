@@ -67,20 +67,20 @@ This table also shows those events that were dose dependent (indicated with an a
 |  | PAXIL CR25 mg(n = 348) | PAXIL CR12.5 mg(n = 333) | Placebo(n = 349) |
 | --- | --- | --- | --- |
 | TOTAL | 15% | 9.9% | 6.3% |
-| Nausea* | 6.0% | 2.4% | 0.9% |
+| Nauseaa | 6.0% | 2.4% | 0.9% |
 | Asthenia | 4.9% | 3.0% | 1.4% |
-| Somnolence* | 4.3% | 1.8% | 0.3% |
+| Somnolencea | 4.3% | 1.8% | 0.3% |
 | Insomnia | 2.3% | 1.5% | 0.0% |
-| Concentration Impaired* | 2.0% | 0.6% | 0.3% |
-| Dry mouth* | 2.0% | 0.6% | 0.3% |
-| Dizziness* | 1.7% | 0.6% | 0.6% |
-| Decreased Appetite* | 1.4% | 0.6% | 0.0% |
-| Sweating* | 1.4% | 0.0% | 0.3% |
-| Tremor* | 1.4% | 0.3% | 0.0% |
-| Yawn* | 1.1% | 0.0% | 0.0% |
+| Concentration Impaireda | 2.0% | 0.6% | 0.3% |
+| Dry moutha | 2.0% | 0.6% | 0.3% |
+| Dizzinessa | 1.7% | 0.6% | 0.6% |
+| Decreased Appetitea | 1.4% | 0.6% | 0.0% |
+| Sweatinga | 1.4% | 0.0% | 0.3% |
+| Tremora | 1.4% | 0.3% | 0.0% |
+| Yawna | 1.1% | 0.0% | 0.0% |
 | Diarrhea | 0.9% | 1.2% | 0.0% |
 
-* Events considered to be dose dependent are defined as events having an incidence rate with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR (as well as the placebo group).
+a. Events considered to be dose dependent are defined as events having an incidence rate with 25 mg of PAXIL CR that was at least twice that with 12.5 mg of PAXIL CR (as well as the placebo group).
 
 ## Commonly Observed Adverse Events
 
@@ -223,7 +223,7 @@ Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PA
 | Skin and Appendages |  |  |
 | Sweating | 10% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation c,d |  |  |
+| Abnormal Ejaculation c,d | 17% | 3% |
 | Impotencec | 9% | 3% |
 
 a Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.
@@ -304,7 +304,7 @@ i Based on the number of female patients.
 j Mostly anorgasmia or difficulty achieving orgasm.
 
 Table 5.
-Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With PAXIL CR in a Social Anxiety Disorder Studa,b
+Treatment-Emergent Adverse Effects Occurring in ≥1% of Patients Treated With PAXIL CR in a Social Anxiety Disorder Studya,b
 
 | Body System/Adverse Event | % Reporting Event |  |
 | --- | --- | --- |
