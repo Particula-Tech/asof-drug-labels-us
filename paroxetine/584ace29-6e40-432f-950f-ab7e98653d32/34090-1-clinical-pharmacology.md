@@ -18,6 +18,8 @@ Nonlinearity in pharmacokinetics is observed with increasing doses.
 Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
 
+In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
+
 ### Absorption and Distribution
 
 Paroxetine is equally bioavailable from the oral suspension and tablet.

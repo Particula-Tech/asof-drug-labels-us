@@ -62,7 +62,7 @@ Dosage adjustments should be made to maintain the patient on the lowest effectiv
 PAXIL should be administered as a single daily dose with or without food, usually in the morning.
 The recommended and initial dosage is 20 mg/day.
 In clinical trials the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 to 60 mg/day.
-While the safety of PAXIL has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY—Clinical Trials).
+While the safety of PAXIL has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY: Clinical Trials).
 
 ### Maintenance Therapy
 
@@ -122,7 +122,7 @@ Similarly, at least 14 days should be allowed after stopping PAXIL before starti
 
 ## Discontinuation of Treatment With PAXIL
 
-Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS: Discontinuation of Treatment with PAXIL).
+Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS: Discontinuation of Treatment With PAXIL).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which PAXIL is being prescribed.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
