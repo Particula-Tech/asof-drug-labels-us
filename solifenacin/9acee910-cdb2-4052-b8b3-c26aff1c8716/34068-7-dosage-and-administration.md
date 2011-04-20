@@ -19,4 +19,4 @@ Use of VESIcare in patients with severe hepatic impairment (Child-Pugh C) is not
 
 ## 2.4 Dose Adjustment in Patients Taking CYP3A4 Inhibitors
 
-When administered with potent CYP3A4 inhibitors, such as ketoconazole, a daily dose of VESIcare greater than 5 mg is not recommended [see Drug Interactions (7.1)].
+When administered with potent CYP3A4 inhibitors such as ketoconazole, a daily dose of VESIcare greater than 5 mg is not recommended [see Drug Interactions (7.1)].

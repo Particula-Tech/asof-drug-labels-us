@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 VESIcare has been evaluated for safety in 1811 patients in randomized, placebo-controlled trials.
 Expected adverse reactions of antimuscarinic agents are dry mouth, constipation, blurred vision (accommodation abnormalities), urinary retention, and dry eyes.
@@ -57,6 +57,6 @@ The following events have been reported in association with solifenacin use in w
 
 General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, and urticaria;
 
-Central Nervous: headache, confusion and hallucinations;
+Central Nervous: headache, confusion, hallucinations and somnolence;
 
 Cardiovascular: QT prolongation; Torsade de Pointes.

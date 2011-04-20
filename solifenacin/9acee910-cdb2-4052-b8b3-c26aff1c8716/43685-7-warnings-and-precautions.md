@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Agioedema
+## 5.1 Angioedema
 
 Angioedema of the face, lips, tongue, and/or larynx have been reported with solifenacin.
 In some cases angioedema occurred after the first dose.
 Angioedema associated with upper airway swelling may be life threatening.
-If involvement of the tongue, hypopharynx, or larynx occurs, solifenacin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patient airway should be promptly provided.
+If involvement of the tongue, hypopharynx, or larynx occurs, solifenacin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
 
 ## 5.2 Urinary Retention
 

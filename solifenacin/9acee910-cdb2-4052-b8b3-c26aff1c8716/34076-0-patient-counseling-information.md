@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information)
+See FDA-approved patient labeling (Patient Information).
 
 Patients should be informed that antimuscarinic agents such as VESIcare have been associated with constipation and blurred vision.
 Patients should be advised to contact their physician if they experience severe abdominal pain or become constipated for 3 or more days.
@@ -53,7 +53,7 @@ Before you take VESIcare, tell your doctor if you:
 
 - have any stomach or intestinal problems or problems with constipation
 - have trouble emptying your bladder or you have a weak urine stream
-- have an eye problem called "narrow-angle glaucoma"
+- have an eye problem called "narrow angle glaucoma"
 - have kidney problems
 - have a rare heart problem called "QT prolongation"
 - are pregnant or plan to become pregnant.
@@ -82,7 +82,7 @@ What should I avoid while taking VESIcare?
 VESIcare can cause blurred vision or drowsiness.
 Do not drive or operate heavy machinery until you know how VESIcare affects you.
 
-What are the possible side effects with VESIcare?
+What are the possible side effects of VESIcare?
 
 VESIcare may cause serious side effects including:
 
@@ -122,7 +122,7 @@ How should I store VESIcare?
 • Store VESIcare at 59°F to 86°F (15°C to 30°C).
 Keep the bottle closed.
 
-• Safely throw away medicine that is out of date or that you no longer need
+• Safely throw away medicine that is out of date or that you no longer need.
 
 Keep VESIcare and all medicines out of the reach of children.
 
@@ -180,8 +180,8 @@ Research Triangle Park
 
 North Carolina 27709
 
-© 2010 Astellas Pharma US, Inc.
+© 2011 Astellas Pharma US, Inc.
 
-& GlaxoSmithKline Revised: MARCH 2011
+& GlaxoSmithKline Revised: APRIL 2011
 
-10B005-VES-SPL
+11D024-VES-SPL

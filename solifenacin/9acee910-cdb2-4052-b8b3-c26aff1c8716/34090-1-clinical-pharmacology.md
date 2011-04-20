@@ -45,7 +45,7 @@ The absolute bioavailability of solifenacin is approximately 90%, and plasma con
 Effect of food
 
 VESIcare may be administered without regard to meals.
-A single 10 mg dose administration of VESIcare with food increased Cmax and AUC by 4% and 3% respectively.
+A single 10 mg dose administration of VESIcare with food increased Cmax and AUC by 4% and 3%, respectively.
 
 Distribution
 
