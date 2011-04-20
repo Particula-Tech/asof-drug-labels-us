@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA078790"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "package_ndcs": [
+    "68180-265-01",
+    "68180-265-02",
+    "68180-265-11",
+    "68180-266-01",
+    "68180-266-02",
+    "68180-266-03",
+    "68180-266-11",
+    "68180-267-01",
+    "68180-267-02",
+    "68180-267-03",
+    "68180-267-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "divalproex sodium",
+      "name": "Divalproex Sodium"
+    }
+  ],
+  "setid": "33798a7c-c5a9-49a5-be5d-1312910ef468",
+  "source": "dailymed"
+}
