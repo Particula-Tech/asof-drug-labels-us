@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA062298"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-126-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "erythromycin",
+      "name": "ERY-TAB"
+    }
+  ],
+  "setid": "fda44eb6-7901-4b80-ba0b-216f6cacf3fd",
+  "source": "dailymed"
+}
