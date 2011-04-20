@@ -17,3 +17,17 @@ NDC 60505-3675-3 Bottles of 30
 Store at or below 25°C (77°F) [see USP].
 
 GEOMATRIX is a trademark of Jago Pharma, Muttenz, Switzerland.
+
+Manufactured by:
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+Manufactured for:
+
+Apotex Corp.
+
+Weston, FL 33326
+
+March 2011 PCA-AP:3PI

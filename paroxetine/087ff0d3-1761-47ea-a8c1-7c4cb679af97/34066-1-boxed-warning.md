@@ -8,3 +8,5 @@ Patients of all ages who are started on antidepressant therapy should be monitor
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Paroxetine Hydrochloride Controlled-Release Tablets are not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
+
+If you take Paroxetine Hydrochloride Controlled-Release Tablets, you should not take any other medicines that contain paroxetine, including PAXIL, PAXIL CR, and PEXEVA® (paroxetine mesylate).
