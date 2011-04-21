@@ -85,7 +85,7 @@ Although the relative risks of asthma-related death were similar in Caucasians a
 
 Post-hoc analyses in pediatric patients aged 12 to 18 years were also performed.
 Pediatric patients accounted for approximately 12% of patients in each treatment arm.
-Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]); relative risk: 1.0 [95% CI: 0.1, 7.2]).
+Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
 All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (<1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
 
 The data from the SMART study are not adequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control therapy mitigates the risk of asthma-related death.

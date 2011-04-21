@@ -211,7 +211,7 @@ The “Use by” date is 6 weeks from date of opening the pouch.
 - The DISKUS will be in the closed position when the pouch is opened.
 - The dose indicator on the top of the DISKUS tells you how many doses are left.
   The dose indicator number will decrease each time you use the DISKUS.
-  After you have used 55 doses from the DISKUS, the numbers 5 to 0 will appear in red to warn you that there are only a few doses left (see Figure 1)
+  After you have used 55 doses from the DISKUS, the numbers 5 to 0 will appear in red to warn you that there are only a few doses left (see Figure 1).
 
 Taking a dose from the DISKUS requires the following 3 simple steps: Open, Click, Inhale.
 

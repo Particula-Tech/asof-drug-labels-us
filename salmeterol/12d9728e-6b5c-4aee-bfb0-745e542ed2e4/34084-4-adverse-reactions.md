@@ -113,7 +113,7 @@ In extensive US and worldwide postmarketing experience with salmeterol, serious 
 In most cases, these have occurred in patients with severe asthma and/or in some patients in whom asthma has been acutely deteriorating [see Warnings and Precautions (5.2)], but they have also occurred in a few patients with less severe asthma.
 It was not possible from these reports to determine whether salmeterol contributed to these events.
 
-Cardiovascular: Arrhythmias (including atrial fibrillation, supraventricular tachycardia, extrasystoles), and anaphylaxis.
+Cardiovascular: Arrhythmias (including atrial fibrillation, supraventricular tachycardia, extrasystoles) and anaphylaxis.
 
 Non-Site Specific: Very rare anaphylactic reaction in patients with severe milk protein allergy.
 

@@ -55,7 +55,7 @@ Any change in corticosteroid dosage should be made ONLY after clinical evaluatio
 
 As with other inhaled beta2-adrenergic drugs, SEREVENT DISKUS should not be used more often or at higher doses than recommended, or in conjunction with other medications containing LABA, as an overdose may result.
 Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
-Patients using SEREVENT DISKUS should not use an additional LABA (e.g., formoterol fumarate, arformorterol tartrate) for any reason.
+Patients using SEREVENT DISKUS should not use an additional LABA (e.g., formoterol fumarate, arformoterol tartrate) for any reason.
 
 ## 5.5 Paradoxical Bronchospasm and Upper Airway Symptoms
 

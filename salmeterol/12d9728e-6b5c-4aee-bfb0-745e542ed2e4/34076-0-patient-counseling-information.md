@@ -37,7 +37,7 @@ When patients are prescribed SEREVENT DISKUS, other LABA should not be used.
 
 Patients should be informed of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-## 17.6 Treatment of Exercised-Induced Bronchospasm
+## 17.6 Treatment of Exercise-Induced Bronchospasm
 
 When used for the treatment of EIB, additional doses of SEREVENT should not be used for 12 hours.
 Patients who are receiving SEREVENT DISKUS twice daily should not use additional SEREVENT for prevention of EIB.
@@ -48,9 +48,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-December 2010
+April 2011
 
-SRD:6PI
+SRD:7PI
