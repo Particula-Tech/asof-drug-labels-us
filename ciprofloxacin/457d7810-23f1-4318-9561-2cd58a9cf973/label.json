@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019857"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-759-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "ciprofloxacin",
+      "name": "Cipro"
+    }
+  ],
+  "setid": "457d7810-23f1-4318-9561-2cd58a9cf973",
+  "source": "dailymed"
+}
