@@ -2,6 +2,8 @@
 
 ## 14.1 Schizophrenia
 
+Adults
+
 The acute efficacy of INVEGA® (3 mg to 15 mg once daily) was established in three placebo-controlled and active-controlled (olanzapine), 6-week, fixed-dose trials in non-elderly adult subjects (mean age of 37) who met DSM-IV criteria for schizophrenia.
 Studies were carried out in North America, Eastern Europe, Western Europe, and Asia.
 The doses studied among these three trials included 3 mg/day, 6 mg/day, 9 mg/day, 12 mg/day, and 15 mg/day.
@@ -23,12 +25,29 @@ After the stabilization phase, patients were randomized in a double-blind manner
 Relapse was pre-defined as significant increase in PANSS (or pre-defined PANSS subscales), hospitalization, clinically significant suicidal or homicidal ideation, or deliberate injury to self or others.
 An interim analysis of the data showed a significantly longer time to relapse in patients treated with INVEGA® compared to placebo, and the trial was stopped early because maintenance of efficacy was demonstrated.
 
+Adolescents
+
+The efficacy of INVEGA® in adolescent subjects with schizophrenia was established in a randomized, double-blind, parallel-group, placebo-controlled, 6-week study using a fixed-dose weight-based treatment group design over the dose range of 1.5 to 12 mg/day.
+The study was carried out in the US, India, Romania, Russia, and Ukraine, and involved subjects 12–17 years of age meeting DSM-IV criteria for schizophrenia, with diagnosis confirmation using the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADS-PL).
+
+Eligible subjects were randomly assigned to 1 of 4 treatment groups: a placebo group or INVEGA® Low, Medium, or High dose groups.
+Doses were administered based on body weight to minimize the risk of exposing lower-weight adolescents to high doses of INVEGA®.
+Subjects weighing between 29 kg and less than 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 3 mg (Medium dose), or 6 mg (High dose) of INVEGA® daily, and subjects weighing at least 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 6 mg (Medium dose), or 12 mg (High dose) of INVEGA® daily.
+Dosing was in the morning without regard to meals.
+
+Efficacy was evaluated using PANSS.
+Overall, this study demonstrated the efficacy of INVEGA® in adolescents with schizophrenia in the dose range of 3 to 12 mg/day.
+Doses within this broad range were shown to be effective, however, there was no clear enhancement to efficacy at the higher doses, i.e., 6 mg for subjects weighing less than 51 kg and 12 mg for subjects weighing 51 kg or greater.
+Although paliperidone was adequately tolerated within the dose range of 3 to 12 mg/day, adverse events were dose related.
+
 ## 14.2 Schizoaffective Disorder
 
-The acute efficacy of INVEGA® (3 mg to 12 mg once daily) in the treatment of schizoaffective disorder was established in two placebo-controlled, 6‑week trials in non-elderly adult subjects.
+Adults
+
+The acute efficacy of INVEGA® (3 mg to 12 mg once daily) in the treatment of schizoaffective disorder was established in two placebo-controlled, 6-week trials in non-elderly adult subjects.
 Enrolled subjects 1) met DSM-IV criteria for schizoaffective disorder, as confirmed by the Structured Clinical Interview for DSM-IV Disorders, 2) had a Positive and Negative Syndrome Scale (PANSS) total score of at least 60, and 3) had prominent mood symptoms as confirmed by a score of at least 16 on the Young Mania Rating Scale and/or Hamilton Rating Scale for Depression.
 The population included subjects with schizoaffective bipolar and depressive types.
-In one of these trials, efficacy was assessed in 211 subjects who received flexible doses of INVEGA® (3-12 mg once daily).
+In one of these trials, efficacy was assessed in 211 subjects who received flexible doses of INVEGA® (3–12 mg once daily).
 In the other study, efficacy was assessed in 203 subjects who were assigned to one of two dose levels of INVEGA®: 6 mg with the option to reduce to 3 mg (n = 105) or 12 mg with the option to reduce to 9 mg (n = 98) once daily.
 Both studies included subjects who received INVEGA® either as monotherapy [no mood stabilizers and/or antidepressants (55%)] or as an adjunct to mood stabilizers and/or antidepressants (45%).
 The most commonly used mood stabilizers were valproate and lithium.

@@ -48,16 +48,22 @@ Special Populations
 Renal Impairment
 
 The dose of INVEGA® should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.5)].
-The disposition of a single dose paliperidone 3 mg extended-release tablet was studied in subjects with varying degrees of renal function.
+The disposition of a single dose paliperidone 3 mg extended-release tablet was studied in adult subjects with varying degrees of renal function.
 Elimination of paliperidone decreased with decreasing estimated creatinine clearance.
 Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% on average in mild (CrCl = 50 mL/min to < 80 mL/min), 64% in moderate (CrCl = 30 mL/min to < 50 mL/min), and 71% in severe (CrCl = 10 mL/min to < 30 mL/min) renal impairment, corresponding to an average increase in exposure (AUCinf) of 1.5 fold, 2.6 fold, and 4.8 fold, respectively, compared to healthy subjects.
 The mean terminal elimination half-life of paliperidone was 24 hours, 40 hours, and 51 hours in subjects with mild, moderate, and severe renal impairment, respectively, compared with 23 hours in subjects with normal renal function (CrCl ≥ 80 mL/min).
 
 Hepatic Impairment
 
-In a study in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects, although total paliperidone exposure decreased because of a decrease in protein binding.
+In a study in adult subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects, although total paliperidone exposure decreased because of a decrease in protein binding.
 Consequently, no dose adjustment is required in patients with mild or moderate hepatic impairment.
 INVEGA® has not been studied in patients with severe hepatic impairment.
+
+Adolescents (12–17 years of age)
+
+Paliperidone systemic exposure in adolescents weighing ≥ 51 kg (≥ 112 lbs) was similar to that in adults.
+In adolescents weighing < 51 kg (< 112 lbs), a 23% higher exposure was observed; this is considered not to be clinically significant.
+Age did not influence the paliperidone exposure.
 
 Elderly
 

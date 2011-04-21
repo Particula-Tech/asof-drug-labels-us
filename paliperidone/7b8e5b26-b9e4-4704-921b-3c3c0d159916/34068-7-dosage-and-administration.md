@@ -2,7 +2,9 @@
 
 ## 2.1 Schizophrenia
 
-The recommended dose of INVEGA® (paliperidone) Extended-Release Tablets for the treatment of schizophrenia is 6 mg once daily, administered in the morning.
+Adults
+
+The recommended dose of INVEGA® (paliperidone) Extended-Release Tablets for the treatment of schizophrenia in adults is 6 mg administered once daily.
 Initial dose titration is not required.
 Although it has not been systematically established that doses above 6 mg have additional benefit, there was a general trend for greater effects with higher doses.
 This must be weighed against the dose-related increase in adverse reactions.
@@ -14,9 +16,16 @@ The maximum recommended dose is 12 mg/day.
 In a longer-term study, INVEGA® has been shown to be effective in delaying time to relapse in patients with schizophrenia who were stabilized on INVEGA® for 6 weeks [see Clinical Studies (14)].
 INVEGA® should be prescribed at the lowest effective dose for maintaining clinical stability and the physician should periodically reevaluate the long-term usefulness of the drug in individual patients.
 
+Adolescents (12–17 years of age)
+
+The recommended starting dose of INVEGA® (paliperidone) Extended-Release Tablets for the treatment of schizophrenia in adolescents 12–17 years of age is 3 mg administered once daily.
+Initial dose titration is not required.
+Dose increases, if considered necessary, should be made only after clinical reassessment and should occur at increments of 3 mg/day at intervals of more than 5 days.
+Prescribers should be mindful that, in the adolescent schizophrenia study, there was no clear enhancement to efficacy at the higher doses, i.e., 6 mg for subjects weighing less than 51 kg and 12 mg for subjects weighing 51 kg or greater, while adverse events were dose-related.
+
 ## 2.2 Schizoaffective Disorder
 
-The recommended dose of INVEGA® (paliperidone) Extended-Release Tablets for the treatment of schizoaffective disorder is 6 mg once daily, administered in the morning.
+The recommended dose of INVEGA® (paliperidone) Extended-Release Tablets for the treatment of schizoaffective disorder in adults is 6 mg administered once daily.
 Initial dose titration is not required.
 Some patients may benefit from lower or higher doses within the recommended dose range of 3 to 12 mg once daily.
 A general trend for greater effects was seen with higher doses.
@@ -29,7 +38,6 @@ The maximum recommended dose is 12 mg/day.
 ## 2.3 Administration Instructions
 
 INVEGA® can be taken with or without food.
-Clinical trials establishing the safety and efficacy of INVEGA® were carried out in patients without regard to food intake.
 
 INVEGA® must be swallowed whole with the aid of liquids.
 Tablets should not be chewed, divided, or crushed.
