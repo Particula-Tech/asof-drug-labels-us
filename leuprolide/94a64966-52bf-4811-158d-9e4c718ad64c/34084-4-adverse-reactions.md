@@ -74,7 +74,7 @@ Localized reactions including induration and abscess have been reported at the s
 
 Symptoms consistent with fibromyalgia (e.g., joint and muscle pain, headaches, sleep disorders, gastrointestinal distress, and shortness of breath) have been reported individually and collectively.
 
-Cardiovascular System – Hypotension, Myocardial infarction; Endocrine System - Diabetes; Gastrointestinal System – Hepatic dysfunction; Hemic and Lymphatic System – Decreased WBC; Integumentary System – Hair growth; Central/Peripheral Nervous System – Spinal fracture/paralysis, Hearing disorder; Miscellaneous – Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System – Tenosynovitis-like symptoms; Respiratory System – Respiratory disorders.
+Cardiovascular System – Hypotension, Myocardial infarction; Endocrine System - Diabetes; Gastrointestinal System – Hepatic dysfunction; Hemic and Lymphatic System – Decreased WBC; Integumentary System – Hair growth; Central/Peripheral Nervous System – Convulsion, Spinal fracture/paralysis, Hearing disorder; Miscellaneous – Hard nodule in throat, Weight gain, Increased uric acid; Musculoskeletal System – Tenosynovitis-like symptoms; Respiratory System – Respiratory disorders.
 
 Changes in Bone Density: Decreased bone density has been reported in the medical literature in men who have had orchiectomy or who have been treated with an LH-RH agonist analog.
 In a clinical trial, 25 men with prostate cancer, 12 of whom had been treated previously with leuprolide acetate for at least six months, underwent bone density studies as a result of pain.
