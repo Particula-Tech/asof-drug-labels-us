@@ -23,3 +23,5 @@ Dispense onto a cool surface, and apply to the affected areas using the fingerti
 ## 17.3 Patient Package Insert
 
 -See below-
+
+EXT:2PI

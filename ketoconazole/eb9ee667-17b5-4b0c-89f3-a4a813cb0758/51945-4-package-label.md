@@ -1,22 +1,20 @@
 Principal Display Panel
 
-NDC 63032-051-50
+NDC 63032-051-00
 
 extina®
 
 (ketoconazole) Foam, 2%
 
-50 g Rx only
+100 g Rx only
 
 FOR TOPICAL USE ONLY
 
-NOT FOR OPHTHALMIC, ORAL OR INTRAVAGINAL USE.
+NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
 
-CFC FREE
+Hold the can at an upright angle and then press firmly to dispense
 
-Description: Extina (ketoconazole) Foam, 2% contains 20 mg ketoconazole, USP per gram in a thermolabile hydroethanolic foam vehicle consisting of cetyl alcohol NF, citric acid USP, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60 NF, potassium citrate USP, propylene glycol USP, purified water USP, stearyl alcohol NF pressurized with a hydrocarbon (propane/butane) propellant.
-
-Hold the can at an upright angle and then press firmly to dispense.
+Description: Extina® (ketoconazole) Foam, 2% contains 20 mg ketoconazole per gram in a thermolabile hydroethanolic foam vehicle consisting of cetyl alcohol, citric acid, ethanol (denatured with tert-butyl alcohol and brucine sulfate) 58%, polysorbate 60, potassium citrate, propylene glycol, purified water, stearyl alcohol pressurized with a hydrocarbon (propane/butane) propellant.
 
 Dosage: Use only as prescribed by your physician.
 See package insert for full prescribing information.
@@ -26,42 +24,35 @@ AVOID FIRE, FLAME, OR SMOKING DURING AND IMMEDIATELY FOLLOWING APPLICATION.
 
 Contents under pressure.
 Do not puncture and/or incinerate container.
-Do not expose containers to heat, and/or store at temperatures above 120oF (49oC).
+Do not exposecontainers to heat, and/or store at temperatures above 120oF (49oC).
 Do not store in direct sunlight.
 
 Avoid contact with eyes.
 Keep out of reach of children.
 
 Do not store in the refrigerator.
-
 Store at controlled room temperature, 68o – 77oF (20o - 25oC).
+
+CFC FREE
 
 Manufactured for
 
 Stiefel Laboratories, Inc.
 
-Coral Gables, FL 33134
+Research Triangle Park
 
-USA
+NC 27709
 
 For additional information:
 
-1-888-500-DERM or visit
+1-888-784-3335 (STIEFEL)
 
-www.extina.com
+or visit www.extina.com
 
-DELIVERED IN VersaFoam-HFTM
+©2011 Stiefel Laboratories, Inc.
 
-HYDROETHANOLIC FORMULATION
+EXTINA is a registered trademark of Stiefel Laboratories, Inc.
 
-AW No: AW-0591-r3
+111682
 
-P/N: 128573-0607
-
-©2007, Stiefel Laboratories, Inc.
-
-VersaFoam-HF is a trademark, and Extina, the V logo and Stiefel are registered trademarks, owned by Stiefel Laboratories, Inc.
-
-U.S. Patent Pending
-
-Recyclable Aluminum Container
+10000000092304

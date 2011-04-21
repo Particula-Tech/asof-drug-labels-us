@@ -38,10 +38,8 @@ Never throw the EXTINA® Foam can into a fire, even if the can is empty.
 
 Instructions for applying EXTINA® Foam
 
-|  | 1. Hold the can at an upright angle. |
+|  | 1. Hold the can at an upright angle.2. Push the button to spray EXTINA® Foam directly into the cap of the can or other cool surface. Spray only the amount of EXTINA® Foam that you will need to cover your affected skin.Do not spray EXTINA®Foam directly onto your affected skin or your hands because the foam will begin to melt right away when it touches your skin.3. If your fingers are warm, rinse them in cold water first. Be sure to dry them well before handling the EXTINA® Foam. If the EXTINA® Foam can seems warm or the foam seems runny, place the can under cool running water for a few minutes. |
 | --- | --- |
-| 2. Push the button to spray EXTINA® Foam directly into the cap of the can or other cool surface. Spray only the amount of EXTINA® Foam that you will need to cover your affected skin.Do not spray EXTINA®Foam directly onto your affected skin or your hands because the foam will begin to melt right away when it touches your skin. |  |
-| 3. If your fingers are warm, rinse them in cold water first. Be sure to dry them well before handling the EXTINA® Foam. If the EXTINA® Foam can seems warm or the foam seems runny, place the can under cool running water for a few minutes. |  |
 |  | 4. Using your fingertips, gently massage EXTINA® Foam into the affected areas until the foam disappears. |
 |  | 5. If you are treating skin areas with hair such as your scalp, move any hair away so that the foam can be applied to the affected skin.6. Do not get EXTINA® Foam in your eyes, mouth or vagina. If any EXTINA® Foam gets in your eyes, mouth or vagina, rinse areas well with water.7. Wash your hands well after applying EXTINA® Foam. |
 
@@ -82,7 +80,7 @@ This leaflet summarizes the most important information about EXTINA® Foam.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about EXTINA® Foam that is written for health professionals.
 
-If you have questions about EXTINA® Foam you can also call: 1-888-500-DERM (this is a toll-free number) between 6:00 a.m. and 4:00 p.m.
+If you have questions about EXTINA® Foam you can also call: 1-888-784-3335 (STIEFEL) (this is a toll-free number) between 6:00 a.m. and 4:00 p.m.
 Pacific Standard Time, Monday through Friday.
 
 What are the ingredients in EXTINA® Foam?
@@ -95,18 +93,14 @@ Rx Only
 
 This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
 
-The Patient Information leaflet was last revised: November 2008
+The Patient Information leaflet was last revised: November 2008 EXT:2PIL
 
 Manufactured for
 
-Stiefel Laboratories, Inc., Coral Gables, FL 33134 USA
+Stiefel Laboratories, Inc.
 
-VERSAFOAM-HF, VERSAFOAM-HF and Design, EXTINA®, and V Design, STIEFEL, and STIEFEL and Design are registered trademarks of Stiefel Laboratories, Inc.
+Research Triangle Park, NC 27709
 
-U.S. Patent Pending
+EXTINA is a registered trademark of Stiefel Laboratories, Inc.
 
-©2008 Stiefel Laboratories, Inc.
-
-302418
-
-AW No.: AW-0854
+©2011 Stiefel Laboratories, Inc.
