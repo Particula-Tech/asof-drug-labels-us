@@ -24,9 +24,9 @@ Dose Titration
 Dosing must be individualized and based on serum or plasma iPTH levels, with monitoring of serum calcium and serum phosphorus.
 The following is a suggested approach to dose titration.
 
-| iPTH Level Relative to Baseline | Zemplar Capsule Dose | Daily Dosage | Three Times a Week Dosage* |
-| --- | --- | --- | --- |
 |  |  | Dose Adjustment at 2 to 4 Week Intervals |  |
+| --- | --- | --- | --- |
+| iPTH Level Relative to Baseline | Zemplar Capsule Dose | Daily Dosage | Three Times a Week Dosage* |
 | The same, increased or decreased by < 30% | Increase dose by | 1 mcg | 2 mcg |
 | Decreased by ≥ 30% and ≤ 60% | Maintain dose | - | - |
 | Decreased by > 60% or iPTH < 60 pg/mL | Decrease dose by | 1 mcg | 2 mcg |

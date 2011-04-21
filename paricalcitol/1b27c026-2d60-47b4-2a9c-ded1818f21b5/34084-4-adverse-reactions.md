@@ -8,59 +8,69 @@ CKD Stages 3 and 4
 
 The safety of Zemplar Capsules has been evaluated in three 24-week (approximately six-month), double-blind, placebo-controlled, multicenter clinical studies involving 220 CKD Stages 3 and 4 patients.
 Six percent (6%) of Zemplar Capsules treated patients and 4% of placebo treated patients discontinued from clinical studies due to an adverse event.
-All reported adverse events occurring in at least 2% in either treatment group and more common in the Zemplar group are presented in Table 1.
+Adverse events occurring in the Zemplar Capsules group at a frequency of 2% or greater and more frequently than in the placebo group are presented in Table 1:
 
 Table 1.
 Treatment-Emergent Adverse Events by Body System Occurring in ≥ 2% of Subjects in the Zemplar-Treated Group of Three, Double-Blind, Placebo-Controlled, Phase 3, CKD Stages 3 and 4 Studies; All Treated Patients
 
-| Body Systema COSTART V Term | Zemplar Capsules (n = 107) |  | Placebo (n = 113) |  |
-| --- | --- | --- | --- | --- |
 |  | Number (%) of Subjects |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Eventa | Zemplar Capsules (n = 107) |  | Placebo (n = 113) |  |
 | Overall | 88 | (82%) | 86 | (76%) |
-| Body as a Whole |  |  |  |  |
-| Pain | 8 | (7.5%) | 7 | (6.2%) |
-| Viral Infection | 8 | (7.5%) | 8 | (7.1%) |
-| Allergic Reaction | 6 | (5.6%) | 2 | (1.8%) |
-| Headache | 5 | (4.7%) | 5 | (4.4%) |
-| Abdominal Pain | 4 | (3.7%) | 2 | (1.8%) |
-| Back Pain | 4 | (3.7%) | 1 | (0.9%) |
-| Infection | 4 | (3.7%) | 4 | (3.5%) |
-| Asthenia | 3 | (2.8%) | 2 | (1.8%) |
-| Chest Pain | 3 | (2.8%) | 1 | (0.9%) |
-| Fever | 3 | (2.8%) | 1 | (0.9%) |
-| Infection Fungal | 3 | (2.8%) | 0 | (0.0%) |
-| Cardiovascular |  |  |  |  |
-| Hypertension | 7 | (6.5%) | 4 | (3.5%) |
-| Hypotension | 5 | (4.7%) | 3 | (2.7%) |
-| Syncope | 3 | (2.8%) | 1 | (0.9%) |
-| Digestive |  |  |  |  |
+| Ear and Labyrinth Disorders |  |  |  |  |
+| Vertigo | 5 | (4.7%) | 0 | (0.0%) |
+| Gastrointestinal Disorders |  |  |  |  |
+| Abdominal Discomfort | 4 | (3.7%) | 1 | (0.9%) |
+| Constipation | 4 | (3.7%) | 4 | (3.5%) |
 | Diarrhea | 7 | (6.5%) | 5 | (4.4%) |
 | Nausea | 6 | (5.6%) | 4 | (3.5%) |
-| Vomiting | 6 | (5.6%) | 5 | (4.4%) |
-| Constipation | 4 | (3.7%) | 4 | (3.5%) |
+| Vomiting | 5 | (4.7%) | 5 | (4.4%) |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Chest Pain | 3 | (2.8%) | 1 | (0.9%) |
+| Edema | 6 | (5.6%) | 5 | (4.4%) |
+| Pain | 4 | (3.7%) | 4 | (3.5%) |
+| Immune System Disorders |  |  |  |  |
+| Hypersensitivity | 6 | (5.6%) | 2 | (1.8%) |
+| Infections and Infestations |  |  |  |  |
+| Fungal Infection | 3 | (2.8%) | 0 | (0.0%) |
 | Gastroenteritis | 3 | (2.8%) | 3 | (2.7%) |
-| Metabolic and Nutritional Disorders |  |  |  |  |
-| Edema | 7 | (6.5%) | 5 | (4.4%) |
-| Dehydration | 3 | (2.8%) | 1 | (0.9%) |
-| Musculoskeletal |  |  |  |  |
-| Arthritis | 5 | (4.7%) | 1 | (0.9%) |
-| Leg Cramps | 3 | (2.8%) | 0 | (0.0%) |
-| Nervous |  |  |  |  |
-| Dizziness | 5 | (4.7%) | 5 | (4.4%) |
-| Vertigo | 5 | (4.7%) | 0 | (0.0%) |
-| Depression | 3 | (2.8%) | 0 | (0.0%) |
-| Respiratory |  |  |  |  |
-| Rhinitis | 5 | (4.7%) | 4 | (3.5%) |
-| Bronchitis | 3 | (2.8%) | 1 | (0.9%) |
-| Cough Increased | 3 | (2.8%) | 2 | (1.8%) |
+| Infection | 3 | (2.8%) | 3 | (2.7%) |
 | Sinusitis | 3 | (2.8%) | 1 | (0.9%) |
-| Skin and Appendages |  |  |  |  |
-| Rash | 6 | (5.6%) | 3 | (2.7%) |
-| Pruritus | 3 | (2.8%) | 3 | (2.7%) |
-| Skin Ulcer | 3 | (2.8%) | 0 | (0.0%) |
-| Urogenital System |  |  |  |  |
 | Urinary Tract Infection | 3 | (2.8%) | 1 | (0.9%) |
+| Viral Infection | 8 | (7.5%) | 8 | (7.1%) |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Dehydration | 3 | (2.8%) | 1 | (0.9%) |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Arthritis | 5 | (4.7%) | 0 | (0.0%) |
+| Back Pain | 3 | (2.8%) | 1 | (0.9%) |
+| Muscle Spasms | 3 | (2.8%) | 0 | (0.0%) |
+| Nervous System Disorders |  |  |  |  |
+| Dizziness | 5 | (4.7%) | 5 | (4.4%) |
+| Headache | 5 | (4.7%) | 5 | (4.4%) |
+| Syncope | 3 | (2.8%) | 1 | (0.9%) |
+| Psychiatric Disorders |  |  |  |  |
+| Depression | 3 | (2.8%) | 0 | (0.0%) |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 3 | (2.8%) | 2 | (1.8%) |
+| Oropharyngeal Pain | 4 | (3.7%) | 0 | (0.0%) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Pruritus | 3 | (2.8%) | 3 | (2.7%) |
+| Rash | 4 | (3.7%) | 1 | (0.9%) |
+| Skin Ulcer | 3 | (2.8%) | 0 | (0.0%) |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 7 | (6.5%) | 4 | (3.5%) |
+| Hypotension | 5 | (4.7%) | 3 | (2.7%) |
 | a. Includes only events more common in the Zemplar treatment group. |  |  |  |  |
+
+The following adverse reactions, with a causal relationship to Zemplar, occurred in <2% of the Zemplar treated patients in the above double-blind, placebo-controlled clinical trial data set.
+
+Gastrointestinal Disorders: Dry mouth
+
+Investigations: Hepatic enzyme abnormal
+
+Nervous System Disorders: Dysgeusia
+
+Skin and Subcutaneous Tissue Disorders: Urticaria
 
 CKD Stage 5
 
@@ -74,37 +84,45 @@ Adverse events occurring in the Zemplar Capsules group at a frequency of 2% or g
 Table 2.
 Treatment-Emergent Adverse Events by Body System Occurring in ≥ 2% of Subjects in the Zemplar-Treated Group, Double-Blind, Placebo-Controlled, Phase 3, CKD Stage 5 Study; All Treated Patients
 
-| Body Systema COSTART V Term | Zemplar Capsules (n=61) |  | Placebo (n = 27) |  |
-| --- | --- | --- | --- | --- |
 |  | Number (%) of Subjects |  |  |  |
+| --- | --- | --- | --- | --- |
+| Adverse Eventsa | Zemplar Capsules (n=61) |  | Placebo (n = 27) |  |
 | Overall | 43 | (70%) | 19 | (70%) |
-| Body as a Whole |  |  |  |  |
-| Infection | 9 | (14.8%) | 3 | (11.1%) |
-| Asthenia | 3 | (4.9%) | 0 | (0.0%) |
-| Peritonitis | 3 | (4.9%) | 0 | (0.0%) |
-| Headache | 2 | (3.3%) | 0 | (0.0%) |
-| Digestive |  |  |  |  |
-| Diarrhea | 7 | (11.5%) | 3 | (11.1%) |
+| Gastrointestinal Disorders |  |  |  |  |
 | Constipation | 3 | (4.9%) | 0 | (0.0%) |
-| Nausea and Vomiting | 3 | (4.9%) | 0 | (0.0%) |
-| Dyspepsia | 2 | (3.3%) | 0 | (0.0%) |
-| Hemic and Lymphatic System |  |  |  |  |
-| Hypervolemia | 3 | (4.9%) | 0 | (0.0%) |
-| Ecchymosis | 2 | (3.3%) | 0 | (0.0%) |
-| Metabolic and Nutritional Disorders |  |  |  |  |
-| Hypoglycemia | 2 | (3.3%) | 0 | (0.0%) |
-| Peripheral Edema | 2 | (3.3%) | 0 | (0.0%) |
-| Uremia | 2 | (3.3%) | 0 | (0.0%) |
-| Nervous |  |  |  |  |
-| Dizziness | 4 | (6.6%) | 0 | (0.0%) |
-| Insomnia | 3 | (4.9%) | 0 | (0.0%) |
-| Anxiety | 2 | (3.3%) | 0 | (0.0%) |
-| Respiratory |  |  |  |  |
+| Diarrhea | 7 | (11.5%) | 3 | (11.1%) |
+| Vomiting | 4 | (6.6%) | 0 | (0.0%) |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue | 2 | (3.3%) | 0 | (0.0%) |
+| Edema Peripheral | 2 | (3.3%) | 0 | (0.0%) |
+| Infections and Infestations |  |  |  |  |
+| Nasopharyngitis | 5 | (8.2%) | 2 | (7.4%) |
+| Peritonitis | 3 | (4.9%) | 0 | (0.0%) |
 | Sinusitis | 2 | (3.3%) | 0 | (0.0%) |
-| Urogenital System |  |  |  |  |
 | Urinary Tract Infection | 2 | (3.3%) | 0 | (0.0%) |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Fluid Overload | 3 | (4.9%) | 0 | (0.0%) |
+| Hypoglycemia | 2 | (3.3%) | 0 | (0.0%) |
+| Nervous System Disorders |  |  |  |  |
+| Dizziness | 4 | (6.6%) | 0 | (0.0%) |
+| Headache | 2 | (3.3%) | 0 | (0.0%) |
+| Psychiatric Disorders |  |  |  |  |
+| Anxiety | 2 | (3.3%) | 0 | (0.0%) |
+| Insomnia | 3 | (4.9%) | 0 | (0.0%) |
+| Renal and Urinary Disorders |  |  |  |  |
+| Renal Failure Chronic | 2 | (3.3%) | 0 | (0.0%) |
 | a. Includes only events more common in the Zemplar treatment group. |  |  |  |  |
+
+The following adverse reactions, with a causal relationship to Zemplar, occurred in <2% of the Zemplar treated patients in the above double-blind, placebo-controlled clinical trial data set.
+
+Gastrointestinal Disorders: Gastroesophageal reflux disease
+
+Metabolism and Nutrition Disorders: Decreased appetite, hypercalcemia, hypocalcemia
+
+Reproductive System and Breast Disorders: Breast tenderness
+
+Skin and Subcutaneous Tissue Disorders: Acne
 
 ## 6.2 Postmarketing Experience
 
-Taste perversion, such as metallic taste, and allergic reactions, such as rash, urticaria, pruritus, and angioedema (including laryngeal edema) have been reported with the active ingredient in Zemplar capsules.
+The following additional adverse reactions have been reported during post-approval use with the active ingredient in Zemplar capsules: angioedema (including laryngeal edema).

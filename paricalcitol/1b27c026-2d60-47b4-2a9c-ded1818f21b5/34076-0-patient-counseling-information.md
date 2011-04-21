@@ -2,7 +2,7 @@
 
 Patients should be advised:
 
-- of the most common adverse reactions with use of Zemplar Capsules, which include diarrhea, infection, hypertension and dizziness.
+- of the most common adverse reactions with use of Zemplar Capsules, which include diarrhea, hypertension, dizziness and vomiting.
 - to adhere to instructions regarding diet and phosphorus restriction.
 - to contact a health care provider if you develop symptoms of elevated calcium, (e.g. feeling tired, difficulty thinking clearly, loss of appetite, nausea, vomiting, constipation, increased thirst, increased urination and weight loss).
 - to return to the physician's office for routine monitoring.
@@ -15,6 +15,3 @@ Patients should be advised:
 Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
-
-Rev.
-06/2010

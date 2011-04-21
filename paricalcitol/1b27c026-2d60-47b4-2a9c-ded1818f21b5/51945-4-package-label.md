@@ -1,12 +1,12 @@
 NDC 0074–4314–30
 
-Zemplar® (paracalcitol) capsules 2mcg 30 Capsules
+Zemplar®(paricalcitol) capsules 2mcg 30 Capsules
 
 Rx only Abbott
 
-NDC 0074-4317-73
+NDC 0074–4317–73
 
-Zemplar® (paracalcitol) capsules 1mcg
+Zemplar®(paricalcitol) capsules 1 mcg
 
 For cost savings information on your prescription, call 1•877•ZEMPLAR
 

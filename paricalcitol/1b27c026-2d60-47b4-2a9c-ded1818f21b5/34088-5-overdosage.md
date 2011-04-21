@@ -13,3 +13,5 @@ Discontinuation of supplemental calcium and institution of a low-calcium diet ar
 Due to the relatively short duration of the pharmacological action of paricalcitol, further measures are probably unnecessary.
 If persistent and markedly elevated serum calcium levels occur, there are a variety of therapeutic alternatives that may be considered depending on the patient's underlying condition.
 These include the use of drugs such as phosphates and corticosteroids, as well as measures to induce an appropriate forced diuresis.
+
+Zemplar is not significantly removed by dialysis.

@@ -68,7 +68,7 @@ Paricalcitol Capsule Pharmacokinetic Characteristics in CKD Stages 3, 4, and 5 P
 | CL/F (L/h) | 1.77 ± 0.50 | 1.52 ± 0.36 | 1.82 ± 0.75 | 1.76 ± 0.77 |
 | V/F (L) | 43.7 ± 14.4 | 46.4 ± 12.4 | 38 ± 16.4 | 48.7 ± 15.6 |
 | t1/2 | 16.8 ± 2.65 | 19.7 ± 7.2 | 13.9 ± 5.1 | 17.7 ± 9.6 |
-| * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients.** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
+| * Four mcg paricalcitol capsules were given to CKD Stage 3 patients; three mcg paricalcitol capsules were given to CKD Stage 4 patients. ** CKD Stage 5 HD and PD patients received a 0.24 mcg/kg dose of paricalcitol as capsules. |  |  |  |  |
 
 Specific Populations
 
@@ -88,13 +88,13 @@ Hepatic Impairment
 
 The disposition of paricalcitol (0.24 mcg/kg) was compared in patients with mild (n = 5) and moderate (n = 5) hepatic impairment (as indicated by the Child-Pugh method) and subjects with normal hepatic function (n = 10).
 The pharmacokinetics of unbound paricalcitol was similar across the range of hepatic function evaluated in this study.
-No dosing adjustment is required in patients with mild and moderate hepatic impairment.
+No dose adjustment is required in patients with mild and moderate hepatic impairment.
 The influence of severe hepatic impairment on the pharmacokinetics of paricalcitol has not been evaluated.
 
 Renal Impairment
 
 Following administration of Zemplar Capsules, the pharmacokinetic profile of paricalcitol for CKD Stage 5 on HD or PD was comparable to that in CKD 3 or 4 patients.
-Therefore, no special dosing adjustments are required other than those recommended in the Dosage and Administration section [see Dosage and Administration (2)].
+Therefore, no special dose adjustments are required other than those recommended in the Dosage and Administration section [see Dosage and Administration (2)].
 
 Drug Interactions
 
@@ -103,19 +103,11 @@ Hence, paricalcitol is neither expected to inhibit nor induce the clearance of d
 
 Omeprazole
 
-The effect of omeprazole (40 mg capsule) on paricalcitol (four 4 mcg capsules) pharmacokinetics was investigated in a single dose, crossover study in healthy subjects.
+The effect of omeprazole (40 mg capsule), a strong inhibitor of CYP2C19, on paricalcitol (four 4 mcg capsules) pharmacokinetics was investigated in a single dose, crossover study in healthy subjects.
 The pharmacokinetics of paricalcitol was not affected when omeprazole was administered approximately 2 hours prior to the paricalcitol dose.
 
 Ketoconazole
 
-The effect of multiple doses of ketoconazole administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol (4 mcg capsule) has been studied in healthy subjects.
+The effect of multiple doses of ketoconazole, a strong inhibitor of CYP3A, administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol (4 mcg capsule) has been studied in healthy subjects.
 The Cmax of paricalcitol was minimally affected, but AUC0-∞ approximately doubled in the presence of ketoconazole.
 The mean half-life of paricalcitol was 17.0 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone [see Drug Interactions (7)].
-
-Cholestyramine
-
-Cholestyramine has been reported to reduce intestinal absorption of fat-soluble vitamins; therefore, it may impair intestinal absorption of paricalcitol.
-
-Mineral Oil
-
-The use of mineral oil or other substances that may affect absorption of fat may influence the absorption of paricalcitol.

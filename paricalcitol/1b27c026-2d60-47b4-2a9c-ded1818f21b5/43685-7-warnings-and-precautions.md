@@ -4,13 +4,14 @@ Excessive administration of vitamin D compounds, including Zemplar Capsules, can
 
 ## 5.1 Hypercalcemia
 
-Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention.
+Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention [see Overdosage (10)].
 Acute hypercalcemia may exacerbate tendencies for cardiac arrhythmias and seizures and may potentiate the action of digitalis.
 Chronic hypercalcemia can lead to generalized vascular calcification and other soft-tissue calcification.
+Concomitant administration of high doses of calcium-containing preparations or thiazide diueretics with Zemplar may increase the risk of hypercalcemia.
 High intake of calcium and phosphate concomitant with vitamin D compounds may lead to serum abnormalities requiring more frequent patient monitoring and individualized dose titration.
 Patients also should be informed about the symptoms of elevated calcium, which include feeling tired, difficulty thinking clearly, loss of appetite, nausea, vomiting, constipation, increased thirst, increased urination and weight loss.
 
-Pharmacologic doses of vitamin D and its derivatives should be withheld during Zemplar treatment to avoid hypercalcemia.
+Prescription-based doses of vitamin D and its derivatives should be withheld during Zemplar treatment to avoid hypercalcemia.
 
 ## 5.2 Digitalis Toxicity
 
@@ -23,4 +24,4 @@ During the initial dosing or following any dose adjustment of medication, serum 
 
 ## 5.4 Aluminum Overload and Toxicity
 
-To prevent aluminum toxicity, the regular administration of aluminum should be avoided and the dialysate concentration of aluminum should be maintained at < 10 mcg/L.
+Aluminum-containing preparations (e.g., antacids, phosphate binders) should not be administered chronically with Zemplar, as increased blood levels of aluminum and aluminum bone toxicity may occur.
