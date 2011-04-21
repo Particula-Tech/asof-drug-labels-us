@@ -5,7 +5,8 @@ The source of vitamin D in the body is from synthesis in the skin and from dieta
 Vitamin D requires two sequential hydroxylations in the liver and the kidney to bind to and to activate the vitamin D receptor (VDR).
 The endogenous VDR activator, calcitriol [1,25(OH)2 D3], is a hormone that binds to VDRs that are present in the parathyroid gland, intestine, kidney, and bone to maintain parathyroid function and calcium and phosphorus homeostasis, and to VDRs found in many other tissues, including prostate, endothelium and immune cells.
 VDR activation is essential for the proper formation and maintenance of normal bone.
-In the diseased kidney, the activation of vitamin D is diminished, resulting in a rise of PTH, subsequently leading to secondary hyperparathyroidism, and disturbances in the calcium and phosphorus homeostasis.1 The decreased levels of 1,25(OH)2 D3 and resultant elevated PTH levels, both of which often precede abnormalities in serum calcium and phosphorus, affect bone turnover rate and may result in renal osteodystrophy.
+In the diseased kidney, the activation of vitamin D is diminished, resulting in a rise of PTH, subsequently leading to secondary hyperparathyroidism, and disturbances in the calcium and phosphorus homeostasis.
+The decreased levels of 1,25(OH)2 D3 and resultant elevated PTH levels, both of which often precede abnormalities in serum calcium and phosphorus, affect bone turnover rate and may result in renal osteodystrophy.
 
 ## Mechanism of Action
 
@@ -16,12 +17,12 @@ Vitamin D and paricalcitol have been shown to reduce parathyroid hormone levels 
 ## Pharmacokinetics
 
 Within two hours after administering Zemplar intravenous doses ranging from 0.04 to 0.24 mcg/kg, concentrations of paricalcitol decreased rapidly; thereafter, concentrations of paricalcitol declined log-linearly.
-No accumulation of paricalcitol was observed with multiple dosing.
+No accumulation of paricalcitol was observed with three times a week dosing.
 
 ### Distribution
 
 Paricalcitol is extensively bound to plasma proteins (≥99.8%).
-In healthy subjects, the steady state volume of distribution is approximately 23.8 L. The mean apparent volume of distribution following a 0.24 mcg/kg dose of paricalcitol in CKD Stage 5 subjects requiring hemodialysis (HD) and peritoneal dialysis (PD) is between 31 and 35 L.
+In healthy subjects, the steady state volume of distribution is approximately 23.8 L. The mean volume of distribution following a 0.24 mcg/kg dose of paricalcitol in CKD Stage 5 subjects requiring hemodialysis (HD) and peritoneal dialysis (PD) is between 31 and 35 L.
 
 ### Metabolism
 
@@ -55,7 +56,7 @@ Table 1 Mean ± SD Paricalcitol Pharmacokinetic Parameters in CKD Stage 5 Subjec
 | Vdβ (L) | 30.8 ± 7.5 | 34.9 ± 9.5 |
 | † harmonic mean ± pseudo standard deviation, HD: hemodialysis, PD: peritoneal dialysis |  |  |
 
-The degree of accumulation was consistent with the half-life and dosing frequency.
+No accumulation of paricalcitol was observed with three times a week dosing which is consistent with the observed half-life.
 
 ### Special Populations
 
@@ -75,7 +76,7 @@ The pharmacokinetics of paricalcitol were gender independent.
 
 The disposition of paricalcitol (0.24 mcg/kg) was compared in patients with mild (n=5) and moderate (n=5) hepatic impairment (as indicated by the Child-Pugh method) and subjects with normal hepatic function (n=10).
 The pharmacokinetics of unbound paricalcitol were similar across the range of hepatic function evaluated in this study.
-No dosing adjustment is required in patients with mild and moderate hepatic impairment.
+No dose adjustment is required in patients with mild and moderate hepatic impairment.
 The influence of severe hepatic impairment on the pharmacokinetics of paricalcitol has not been evaluated.
 
 #### Renal Impairment
@@ -94,11 +95,11 @@ Drug interactions with paricalcitol injection have not been studied.
 
 ### Omeprazole
 
-The pharmacokinetic interaction between paricalcitol capsule (16 mcg) and omeprazole (40 mg; oral) was investigated in a single dose, crossover study in healthy subjects.
+The pharmacokinetic interaction between paricalcitol capsule (16 mcg) and omeprazole (40 mg; oral), a strong inhibitor of CYP2C19, was investigated in a single dose, crossover study in healthy subjects.
 The pharmacokinetics of paricalcitol were unaffected when omeprazole was administrated approximately 2 hours prior to the paricalcitol dose.
 
 ### Ketoconazole
 
-Although no data are available for the drug interaction between paricalcitol injection and ketoconazole, the effect of multiple doses of ketoconazole administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol capsule has been studied in healthy subjects.
+Although no data are available for the drug interaction between paricalcitol injection and ketoconazole, a strong inhibitor of CYP3A, the effect of multiple doses of ketoconazole administered as 200 mg BID for 5 days on the pharmacokinetics of paricalcitol capsule has been studied in healthy subjects.
 The Cmax of paricalcitol was minimally affected, but AUC0-∞ approximately doubled in the presence of ketoconazole.
 The mean half-life of paricalcitol was 17.0 hours in the presence of ketoconazole as compared to 9.8 hours, when paricalcitol was administered alone (See PRECAUTIONS).

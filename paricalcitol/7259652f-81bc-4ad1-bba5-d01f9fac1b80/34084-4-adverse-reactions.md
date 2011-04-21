@@ -1,49 +1,114 @@
 # ADVERSE REACTIONS
 
-Zemplar has been evaluated for safety in clinical studies in 454 CKD Stage 5 patients.
+Zemplar has been evaluated for safety in clinical studies in 609 CKD Stage 5 patients.
 In four, placebo-controlled, double-blind, multicenter studies, discontinuation of therapy due to any adverse event occurred in 6.5% of 62 patients treated with Zemplar (dosage titrated as tolerated, see CLINICAL PHARMACOLOGY - Clinical Studies) and 2.0% of 51 patients treated with placebo for 1 to 3 months.
-Adverse events occurring with greater frequency in the Zemplar group at a frequency of 2% or greater, regardless of causality, are presented in the following table:
+Adverse events occurring in the Zemplar group at a frequency of 2% or greater and with an incidence greater than that in the placebo group, regardless of causality, are presented in the following table:
 
 Adverse Event Incidence Rates for All Treated Patients In All Placebo-Controlled Studies
 
 | Adverse Event | Zemplar (n = 62) % | Placebo (n = 51) % |
 | --- | --- | --- |
 | Overall | 71 | 78 |
-| Body as a Whole |  |  |
-| Chills | 5 | 0 |
-| Feeling unwell | 3 | 0 |
-| Fever | 5 | 2 |
-| Flu | 5 | 4 |
-| Sepsis | 5 | 2 |
-| Cardiovascular System |  |  |
-| Palpitation | 3 | 0 |
-| Digestive System |  |  |
-| Dry mouth | 3 | 2 |
-| Gastrointestinal bleeding | 5 | 2 |
-| Nausea | 13 | 8 |
-| Vomiting | 8 | 4 |
-| Metabolic and Nutritional Disorders |  |  |
-| Edema | 7 | 0 |
-| Nervous System |  |  |
-| Light-headedness | 5 | 2 |
-| Respiratory System |  |  |
-| Pneumonia | 5 | 0 |
+| Cardiac Disorders |  |  |
+| Palpitations | 3.2 | 0.0 |
+| Gastrointestinal Disorders |  |  |
+| Dry Mouth | 3.2 | 2.0 |
+| Gastrointestinal Hemorrhage | 4.8 | 2.0 |
+| Nausea | 12.9 | 7.8 |
+| Vomiting | 8.1 | 5.9 |
+| General Disorders and Administration Site Conditions |  |  |
+| Chills | 4.8 | 2.0 |
+| Edema | 6.5 | 0.0 |
+| Malaise | 3.2 | 0.0 |
+| Pyrexia | 4.8 | 2.0 |
+| Infections and Infestations |  |  |
+| Influenza | 4.8 | 3.9 |
+| Pneumonia | 4.8 | 0.0 |
+| Sepsis | 4.8 | 2.0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
+| Arthralgia | 4.8 | 3.9 |
 
 A patient who reported the same medical term more than once was counted only once for that medical term.
 
-Safety parameters (changes in mean Ca, P, Ca × P) in an open-label safety study up to 13 months in duration support the long-term safety of Zemplar in this patient population.
+Safety parameters (changes in mean Ca, P, Ca × P) in an open-label safety study up to 13 months in duration support the long-term safety of Zemplar in this patient population (see CLINICAL STUDIES).
 
-Potential adverse events of Zemplar Injection are, in general, similar to those encountered with excessive vitamin D intake.
-Signs and symptoms of vitamin D intoxication associated with hypercalcemia include:
+## Other Adverse Reactions Observed During Clinical Evaluation of Zemplar Injection
 
-## Early
+The following adverse reactions, with a causal relationship to Zemplar, occurred in <2% of the Zemplar treated patients in the above double-blind, placebo-controlled clinical trial data set.
+In addition, the following also includes adverse reactions reported in Zemplar-treated patients who participated in other studies (non placebo-controlled), including double-blind, active-controlled and open-label studies:
 
-Weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, and metallic taste.
+Blood and Lymphatic System Disorders:
 
-## Late
+Anemia, lymphadenopathy
 
-Anorexia, weight loss, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, hypercholesterolemia, elevated AST and ALT, ectopic calcification, hypertension, cardiac arrhythmias, somnolence, death, and rarely, overt psychosis.
+Cardiac Disorders:
 
-## Adverse Events During Post-marketing Experience
+Arrhythmia, atrial flutter, cardiac arrest
 
-Taste perversion, such as metallic taste, and allergic reactions, such as rash, urticaria, pruritus, and angioedema (including laryngeal edema) have been reported.
+Ear and Labyrinth Disorders:
+
+Ear discomfort
+
+Endocrine Disorders:
+
+Hyperparathyroidism, hypoparathyroidism
+
+Eye Disorders:
+
+Conjunctivitis, glaucoma, ocular hyperemia
+
+Gastrointestinal Disorders:
+
+Abdominal discomfort, constipation, diarrhea, dysphagia, gastritis, intestinal ischemia, rectal hemorrhage
+
+General Disorders and Administration Site Conditions:
+
+Asthenia, chest discomfort, chest pain, condition aggravated, edema peripheral, fatigue, feeling abnormal, gait disturbance, injection site extravasation, injection site pain, pain, swelling, thirst
+
+Infections and Infestations:
+
+Nasopharyngitis, upper respiratory tract infection, vaginal infection
+
+Investigations:
+
+Aspartate aminotransferase increased, bleeding time prolonged, heart rate irregular, laboratory test abnormal, weight decreased
+
+Metabolism and Nutrition Disorders:
+
+Decreased appetite, hypercalcemia, hyperkalemia, hyperphosphatemia, hypocalcemia
+
+Musculoskeletal and Connective Tissue Disorders:
+
+Joint stiffness, muscle twitching, myalgia
+
+Neoplasms Benign, Malignant and Unspecified:
+
+Breast cancer
+
+Nervous System Disorders:
+
+Cerebrovascular accident, dizziness, dysgeusia, headache, hypoesthesia, myoclonus, paresthesia, syncope, unresponsive to stimuli
+
+Psychiatric Disorders:
+
+Agitation, confusional state, delirium, insomnia, nervousness, restlessness
+
+Reproductive System and Breast Disorders:
+
+Breast pain, erectile dysfunction
+
+Respiratory, Thoracic and Mediastinal Disorders:
+
+Cough, dyspnea, orthopnea, pulmonary edema, wheezing
+
+Skin and Subcutaneous Tissue Disorders:
+
+Alopecia, blister, hirsutism, night sweats, rash pruritic, pruritus, skin burning sensation
+
+Vascular Disorders:
+
+Hypertension, hypotension
+
+## Additional Adverse Events Reported During Post-marketing Experience
+
+Allergic reactions, such as rash, urticaria, and angioedema (including laryngeal edema) have been reported.

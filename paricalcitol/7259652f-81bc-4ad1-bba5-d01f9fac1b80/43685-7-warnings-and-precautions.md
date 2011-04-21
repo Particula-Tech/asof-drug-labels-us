@@ -1,14 +1,18 @@
 # WARNINGS
 
-Acute overdose of Zemplar may cause hypercalcemia, and require emergency attention.
+Acute overdose of Zemplar may cause hypercalcemia, and require emergency attention (see OVERDOSAGE).
 During dose adjustment, serum calcium and phosphorus levels should be monitored closely (e.g., twice weekly).
 If clinically significant hypercalcemia develops, the dose should be reduced or interrupted.
 Chronic administration of Zemplar may place patients at risk of hypercalcemia, elevated Ca × P product, and metastatic calcification.
+Chronic hypercalcemia can lead to generalized vascular calcification and other soft-tissue calcification.
 
-Treatment of patients with clinically significant hypercalcemia consists of immediate dose reduction or interruption of Zemplar therapy and includes a low calcium diet, withdrawal of calcium supplements, patient mobilization, attention to fluid and electrolyte imbalances, assessment of electrocardiographic abnormalities (critical in patients receiving digitalis), hemodialysis or peritoneal dialysis against a calcium-free dialysate, as warranted.
-Serum calcium levels should be monitored frequently until normocalcemia ensues.
+Concomitant administration of high doses of calcium-containing preparations or thiazide diueretics with Zemplar may increase the risk of hypercalcemia.
+High intake of calcium and phosphate concomitant with vitamin D compounds may lead to serum abnormalities requiring more frequent patient monitoring and individualized dose titration.
+Patients also should be informed about the symptoms of elevated calcium, which include feeling tired, difficulty thinking clearly, loss of appetite, nausea, vomiting, constipation, increased thirst, increased urination and weight loss.
 
-Phosphate or vitamin D-related compounds should not be taken concomitantly with Zemplar.
+Prescription-based doses of vitamin D and its derivatives should be withheld during Zemplar treatment to avoid hypercalcemia.
+
+Aluminum-containing preparations (e.g., antacids, phosphate binders) should not be administered chronically with Zemplar, as increased blood levels of aluminum and aluminum bone toxicity may occur.
 
 # PRECAUTIONS
 
@@ -20,25 +24,23 @@ Adynamic bone lesions may develop if PTH levels are suppressed to abnormal level
 ## Information for the Patient
 
 The patient should be instructed that, to ensure effectiveness of Zemplar therapy, it is important to adhere to a dietary regimen of calcium supplementation and phosphorus restriction.
-Appropriate types of phosphate-binding compounds may be needed to control serum phosphorus levels in patients with chronic kidney disease (CKD) Stage 5, but excessive use of aluminum containing compounds should be avoided.
-Patients should also be carefully informed about the symptoms of elevated calcium (see ADVERSE REACTIONS).
+Appropriate types of phosphate-binding compounds may be needed to control serum phosphorus levels in patients with chronic kidney disease (CKD) Stage 5, but excessive use of aluminum containing compounds should be avoided (see WARNINGS).
+Patients should also be carefully informed about the symptoms of elevated calcium (see WARNINGS).
 
 ## Laboratory Tests
 
 During the initial phase of medication, serum calcium and phosphorus should be determined frequently (e.g., twice weekly).
 Once dosage has been established, serum calcium and phosphorus should be measured at least monthly.
 Measurements of serum or plasma PTH are recommended every 3 months.
-An intact PTH (iPTH) assay is recommended for reliable detection of biologically active PTH in patients with CKD Stage 5.
 During dose adjustment of Zemplar, laboratory tests may be required more frequently.
 
 ## Drug Interactions
 
+Specific interaction studies were not performed with Zemplar Injection.
 Paricalcitol is not expected to inhibit the clearance of drugs metabolized by cytochrome P450 enzymes CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A nor induce the clearance of drug metabolized by CYP2B6, CYP2C9 or CYP3A.
 
-Specific interaction studies were not performed with Zemplar Injection.
-
 A multiple dose drug-drug interaction study with ketoconazole and paricalcitol capsule demonstrated that ketoconazole approximately doubled paricalcitol AUC0-∞ (see CLINICAL PHARMACOLOGY).
-Since paricalcitol is partially metabolized by CYP3A and ketoconazole is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing paricalcitol with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole.
+Since paricalcitol is partially metabolized by CYP3A and ketoconazole is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while paricalcitol is co-administered with ketoconazole and other strong P450 3A inhibitors including the following drugs but not limited to: atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole.
 
 Digitalis toxicity is potentiated by hypercalcemia of any cause, so caution should be applied when digitalis compounds are prescribed concomitantly with Zemplar.
 

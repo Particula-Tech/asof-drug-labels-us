@@ -1,29 +1,31 @@
 NDC 0074–1658–01
 
-1 mL Single-Dose Fliptop Vial
+1mL Single-Dose Fliptop Vial
 
-Zemplar® (paracalcitol)Injection 5mcg Total (5mcg/mL) For I.V.
+Zemplar® (paricalcitol) Injection 5 mcg Total (5 mcg/mL) For I.V.
 Use
 
 Mfd for: Abbott Labs, N. Chgo, IL 60064 USA
+
+Rx only
 
 NDC 0074–1658–02
 
 2mL Single-Dose Fliptop Vial
 
-Zemplar® (paracalcitol)Injection 10mcg Total (5mcg/mL) For I.V.
-Use Rx only
+Zemplar® (paricalcitol) Injection 10 mcg Total (5 mcg/mL) For I.V.
+Use
 
-Mfd for: Abbott Labs, N. Chgo, IL 60064 USA
+Mfg for: Abbott Labs, N. Chgo IL 60064 USA
+
+Rx only
 
 NDC 0074–1658–05
 
-2mL Multi-Dose Vial
+2 mL Multi-Dose Vial
 
-Zemplar® (paracalcitol)Injection 10mcg/2mL (5mcg/mL) For Intravenous Use Rx only
+Zemplar® (paricalcitol) Injection 10 mcg/2 mL (5 mcg/mL) For Intravenous Use
 
 Mfd for: Abbott Labs, N. Chgo, IL 60064 USA
 
-NDC0074–1658–05
-
-Multi-Dose Vials Zemplar® (paracalcitol)Injection 10mcg/2mL (5mcg/mL) For Intravenous 25 x 2 mL Vials Use Rx only Abbott
+Rx only
