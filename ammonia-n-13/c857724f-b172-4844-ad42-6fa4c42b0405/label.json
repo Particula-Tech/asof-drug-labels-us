@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022119"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "THE FEINSTEIN INSTITUTE FOR MEDICAL RESEARCH",
+  "package_ndcs": [
+    "13267-456-56"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nh3n13",
+      "name": "Ammonia N 13"
+    }
+  ],
+  "setid": "c857724f-b172-4844-ad42-6fa4c42b0405",
+  "source": "dailymed"
+}
