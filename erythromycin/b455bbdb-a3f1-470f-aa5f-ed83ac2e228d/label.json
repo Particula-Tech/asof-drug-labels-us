@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050207"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-134-02"
+  ],
+  "products": [
+    {
+      "form": "GRANULE, FOR SUSPENSION",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "E.E.S"
+    }
+  ],
+  "setid": "b455bbdb-a3f1-470f-aa5f-ed83ac2e228d",
+  "source": "dailymed"
+}
