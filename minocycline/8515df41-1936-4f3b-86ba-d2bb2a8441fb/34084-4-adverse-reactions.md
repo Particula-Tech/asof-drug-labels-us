@@ -4,7 +4,7 @@ The most frequently reported nondental treatment-emergent adverse events in the 
 
 Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial Population of 3 Multicenter US Trials by Treatment Group
 
-|  | SRP Alone N=250 | SRP + Vehicle N=249 | SRP + ARESTIN N=423 |
+|  | SRP Alone N=250 | SRP + Vehicle N=249 | SRP + ARESTIN® N=423 |
 | --- | --- | --- | --- |
 | Number (%) of Patients Treatment-emergent AEs | 62.4% | 71.9% | 68.1% |
 | Total Number of AEs | 543 | 589 | 987 |
@@ -24,4 +24,4 @@ Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial P
 | Infection Dental | 4.0% | 3.6% | 3.8% |
 | Mucous Membrane Disorder | 2.4% | 0.8% | 3.3% |
 
-The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN compromise clinical attachment.
+The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN® compromise clinical attachment.

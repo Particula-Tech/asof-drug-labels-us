@@ -12,47 +12,47 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 # PRECAUTIONS
 
-Hypersensitivity Reactions
+## Hypersensitivity Reactions
 
 - Hypersensitivity reactions that included, but were not limited to anaphylaxis, angioneurotic edema, urticaria, rash, swelling of the face and pruritus have been reported with the use of ARESTIN®.
   Some of these reactions were serious.
 - Post-marketing cases of anaphylaxis and serious skin reactions such as Stevens Johnson syndrome and erythema multiforme have been reported with oral minocycline.
 
-Autoimmune Syndromes
+## Autoimmune Syndromes
 
 - Tetracyclines, including oral minocycline, have been associated with the development of autoimmune syndromes including a Lupus-like syndrome manifested by arthralgia, myalgia, rash, and swelling.
   Sporadic cases of serum sickness have presented shortly after oral minocycline use, manifested by fever, rash, arthralgia, and malaise.
   In symptomatic patients, liver function tests, ANA, CBC, and other appropriate tests should be performed to evaluate the patients.
   No further treatment with ARESTIN® should be administered to the patient.
 
-The use of ARESTIN in an acutely abscessed periodontal pocket has not been studied and is not recommended.
+The use of ARESTIN® in an acutely abscessed periodontal pocket has not been studied and is not recommended.
 
-While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN may result in overgrowth of nonsusceptible microorganisms including fungi.
+While no overgrowth by opportunistic microorganisms, such as yeast, were noted during clinical studies, as with other antimicrobials, the use of ARESTIN® may result in overgrowth of nonsusceptible microorganisms including fungi.
 The effects of treatment for greater than 6 months has not been studied.
 
-ARESTIN should be used with caution in patients having a history of predisposition to oral candidiasis.
-The safety and effectiveness of ARESTIN has not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
+ARESTIN® should be used with caution in patients having a history of predisposition to oral candidiasis.
+The safety and effectiveness of ARESTIN® has not been established for the treatment of periodontitis in patients with coexistent oral candidiasis.
 
-ARESTIN has not been clinically tested in immunocompromised patients (such as those immunocompromised by diabetes, chemotherapy, radiation therapy, or infection with HIV).
+ARESTIN® has not been clinically tested in immunocompromised patients (such as those immunocompromised by diabetes, chemotherapy, radiation therapy, or infection with HIV).
 
 If superinfection is suspected, appropriate measures should be taken.
 
-ARESTIN has not been clinically tested in pregnant women.
+ARESTIN® has not been clinically tested in pregnant women.
 
-ARESTIN has not been clinically tested for use in the regeneration of alveolar bone, either in preparation for or in conjunction with the placement of endosseous (dental) implants or in the treatment of failing implants.
+ARESTIN® has not been clinically tested for use in the regeneration of alveolar bone, either in preparation for or in conjunction with the placement of endosseous (dental) implants or in the treatment of failing implants.
 
 ## Information for Patients
 
 After treatment, patients should avoid chewing hard, crunchy, or sticky foods (i.e., carrots, taffy, and gum) with the treated teeth for 1 week, as well as avoid touching treated areas.
 Patients should also postpone the use of interproximal cleaning devices around the treated sites for 10 days after administration of ARESTIN®.
-Patients should be advised that although some mild to moderate sensitivity is expected during the first week after SRP and administration of ARESTIN, they should notify the dentist promptly if pain, swelling, or other problems occur.
+Patients should be advised that although some mild to moderate sensitivity is expected during the first week after SRP and administration of ARESTIN®, they should notify the dentist promptly if pain, swelling, or other problems occur.
 Patients should be notified to inform the dentist if itching, swelling, rash, papules, reddening, difficulty breathing or other signs and symptoms of possible hypersensitivity occur.
 
 ## Carcinogenicity, Mutagenicity, Impairment of Fertility
 
 Dietary administration of minocycline in long-term tumorigenicity studies in rats resulted in evidence of thyroid tumor production.
 Minocycline has also been found to produce thyroid hyperplasia in rats and dogs.
-In addition, there has been evidence of oncogenic activity in rats in studies with a related antibiotic, oxytetracycline (ie, adrenal and pituitary tumors).
+In addition, there has been evidence of oncogenic activity in rats in studies with a related antibiotic, oxytetracycline (i.e., adrenal and pituitary tumors).
 Minocycline demonstrated no potential to cause genetic toxicity in a battery of assays which included a bacterial reverse mutation assay (Ames test), an in vitro mammalian cell gene mutation test (L5178Y/TK+/- mouse lymphoma assay), an in vitro mammalian chromosome aberration test, and an in vivo micronucleus assay conducted in ICR mice.
 
 Fertility and general reproduction studies have provided evidence that minocycline impairs fertility in male rats.
