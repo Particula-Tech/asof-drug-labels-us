@@ -1,17 +1,17 @@
-# 7 Drug Interactions
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Antihypertensives/Cardiac Glycosides
 
-Because COMBIGAN™ may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with COMBIGAN™ is advised.
+Because COMBIGAN® may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with COMBIGAN® is advised.
 
 ## 7.2 Beta-adrenergic Blocking Agents
 
-Patients who are receiving a beta-adrenergic blocking agent orally and COMBIGAN™ should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Patients who are receiving a beta-adrenergic blocking agent orally and COMBIGAN® should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
 ## 7.3 Calcium Antagonists
 
-Caution should be used in the co-administration of beta-adrenergic blocking agents, such as COMBIGAN™, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
+Caution should be used in the co-administration of beta-adrenergic blocking agents, such as COMBIGAN®, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, co-administration should be avoided.
 
 ## 7.4 Catecholamine-depleting Drugs
@@ -20,7 +20,7 @@ Close observation of the patient is recommended when a beta blocker is administe
 
 ## 7.5 CNS Depressants
 
-Although specific drug interaction studies have not been conducted with COMBIGAN™, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, or anesthetics) should be considered.
+Although specific drug interaction studies have not been conducted with COMBIGAN®, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, or anesthetics) should be considered.
 
 ## 7.6 Digitalis and Calcium Antagonists
 
@@ -33,10 +33,10 @@ Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has 
 ## 7.8 Tricyclic Antidepressants
 
 Tricyclic antidepressants have been reported to blunt the hypotensive effect of systemic clonidine.
-It is not known whether the concurrent use of these agents with COMBIGAN™ in humans can lead to resulting interference with the IOP lowering effect.
+It is not known whether the concurrent use of these agents with COMBIGAN® in humans can lead to resulting interference with the IOP-lowering effect.
 Caution, however, is advised in patients taking tricyclic antidepressants which can affect the metabolism and uptake of circulating amines.
 
-## 7.9 Monoamine oxidase inhibitors
+## 7.9 Monoamine Oxidase Inhibitors
 
 Monoamine oxidase (MAO) inhibitors may theoretically interfere with the metabolism of brimonidine and potentially result in an increased systemic side-effect such as hypotension.
 Caution is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines.

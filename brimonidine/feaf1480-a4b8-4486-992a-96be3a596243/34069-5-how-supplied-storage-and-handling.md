@@ -1,10 +1,8 @@
-# 16 How Supplied/Storage and Handling
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-COMBIGAN™ is supplied sterile, in white opaque plastic LDPE bottles and tips, with blue high impact polystyrene (HIPS) caps as follows:
+COMBIGAN® is supplied sterile, in white opaque plastic LDPE bottles and tips, with blue high impact polystyrene (HIPS) caps as follows:
 
-5 mL in 10 mL bottle NDC 0023-9211-05
+5 mL in 10 mL bottle NDC 0023-9211-05 10 mL in 10 mL bottle NDC 0023-9211-10
 
-10 mL in 10 mL bottle NDC 0023-9211-10
-
-Storage: Store between 15° to 25°C (59° to 77°F).
+Storage: Store between 15°-25°C (59°-77°F).
 Protect from light.

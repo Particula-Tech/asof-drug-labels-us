@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021398"
+  ],
   "inn": "brimonidine",
-  "labeler": "Allergan",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
+    "0023-9211-03",
     "0023-9211-05",
     "0023-9211-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "brimonidine tartrate, timolol maleate",
+      "name": "COMBIGAN"
+    }
+  ],
   "setid": "feaf1480-a4b8-4486-992a-96be3a596243",
   "source": "dailymed"
 }

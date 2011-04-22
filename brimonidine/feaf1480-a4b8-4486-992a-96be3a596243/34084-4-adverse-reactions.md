@@ -1,12 +1,12 @@
-# 6 Adverse Reactions
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Studies Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-COMBIGAN™
+COMBIGAN®
 
-In clinical trials of 12 months duration with COMBIGAN™, the most frequent reactions associated with its use occurring in approximately 5% to 15% of the patients included: allergic conjunctivitis, conjunctival folliculosis, conjunctival hyperemia, eye pruritus, ocular burning, and stinging.
+In clinical trials of 12 months duration with COMBIGAN®, the most frequent reactions associated with its use occurring in approximately 5% to 15% of the patients included: allergic conjunctivitis, conjunctival folliculosis, conjunctival hyperemia, eye pruritus, ocular burning, and stinging.
 The following adverse reactions were reported in 1% to 5% of patients: asthenia, blepharitis, corneal erosion, depression, epiphora, eye discharge, eye dryness, eye irritation, eye pain, eyelid edema, eyelid erythema, eyelid pruritus, foreign body sensation, headache, hypertension, oral dryness, somnolence, superficial punctate keratitis, and visual disturbance.
 
 Other adverse reactions that have been reported with the individual components are listed below.
@@ -17,7 +17,7 @@ Abnormal taste, allergic reaction, blepharoconjunctivitis, blurred vision, bronc
 
 Timolol (Ocular Administration)
 
-Body as a whole: chest pain; Cardiovascular: Arrhythmia, bradycardia, cardiac arrest, cardiac failure, cerebral ischemia, cerebral vascular accident, claudication, cold hands and feet, edema, heart block, palpitation, pulmonary edema, Raynaud's phenomenon, syncope, and worsening of angina pectoris; Digestive: Anorexia, diarrhea, nausea; Immunologic: Systemic lupus erythematosus; Nervous System/Psychiatric: Increase in signs and symptoms of myasthenia gravis, insomnia, nightmares, paresthesia, behavioral changes and psychic disturbances including confusion, hallucinations, anxiety, disorientation, nervousness, and memory loss; Skin: Alopecia, psoriasiform rash or exacerbation of psoriasis; Hypersensitivity: Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, and generalized and localized rash; Respiratory: Bronchospasm (predominantly in patients with pre-existing bronchospastic disease), dyspnea, nasal congestion, respiratory failure; Endocrine: Masked symptoms of hypoglycemia in diabetes patients (see Warnings and Precautions, 5.7); Special Senses: diplopia, choroidal detachment following filtration surgery, cystoid macular edema, decreased corneal sensitivity, pseudopemphigoid, ptosis, refractive changes, tinnitus; Urogenital: Decreased libido, impotence, Peyronie's disease, retroperitoneal fibrosis.
+Body as a whole: chest pain; Cardiovascular: Arrhythmia, bradycardia, cardiac arrest, cardiac failure, cerebral ischemia, cerebral vascular accident, claudication, cold hands and feet, edema, heart block, palpitation, pulmonary edema, Raynaud's phenomenon, syncope, and worsening of angina pectoris; Digestive: Anorexia, diarrhea, nausea; Immunologic: Systemic lupus erythematosus; Nervous System/Psychiatric: Increase in signs and symptoms of myasthenia gravis, insomnia, nightmares, paresthesia, behavioral changes and psychic disturbances including confusion, hallucinations, anxiety, disorientation, nervousness, and memory loss; Skin: Alopecia, psoriasiform rash or exacerbation of psoriasis; Hypersensitivity: Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, and generalized and localized rash; Respiratory: Bronchospasm (predominantly in patients with pre-existing bronchospastic disease), dyspnea, nasal congestion, respiratory failure; Endocrine: Masked symptoms of hypoglycemia in diabetes patients (see WARNINGS AND PRECAUTIONS, 5.7); Special Senses: diplopia, choroidal detachment following filtration surgery, cystoid macular edema, decreased corneal sensitivity, pseudopemphigoid, ptosis, refractive changes, tinnitus; Urogenital: Decreased libido, impotence, Peyronie's disease, retroperitoneal fibrosis.
 
 ## 6.2 Postmarketing Experience
 

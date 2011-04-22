@@ -1,4 +1,4 @@
-# 2 Dosage and Administration
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose is one drop of COMBIGAN™ in the affected eye(s) twice daily approximately 12 hours apart.
+The recommended dose is one drop of COMBIGAN® in the affected eye(s) twice daily approximately 12 hours apart.
 If more than one topical ophthalmic product is to be used, the different products should be instilled at least 5 minutes apart.

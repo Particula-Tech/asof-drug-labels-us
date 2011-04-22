@@ -1,12 +1,12 @@
-# 13 Nonclinical Toxicology
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 With brimonidine tartrate, no compound-related carcinogenic effects were observed in either mice or rats following a 21-month and 24-month study, respectively.
-In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1 mg/kg/day in rats achieved 150 and 210 times, respectively, the plasma Cmax drug concentration in humans treated with one drop COMBIGAN™ into both eyes twice daily, the recommended daily human dose.
+In these studies, dietary administration of brimonidine tartrate at doses up to 2.5 mg/kg/day in mice and 1 mg/kg/day in rats achieved 150 and 210 times, respectively, the plasma Cmax drug concentration in humans treated with one drop of COMBIGAN® into both eyes twice daily, the recommended daily human dose.
 
 In a two-year study of timolol maleate administered orally to rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day [approximately 25,000 times the maximum recommended human ocular dose of 0.012 mg/kg/day on a mg/kg basis (MRHOD)].
-Similar differences were not observed in rats administered oral doses equivalent to approximately 8,300 times the daily dose of COMBIGAN™ in humans.
+Similar differences were not observed in rats administered oral doses equivalent to approximately 8,300 times the daily dose of COMBIGAN® in humans.
 
 In a lifetime oral study of timolol maleate in mice, there were statistically significant increases in the incidence of benign and malignant pulmonary tumors, benign uterine polyps and mammary adenocarcinomas in female mice at 500 mg/kg/day, (approximately 42,000 times the MRHOD), but not at 5 or 50 mg/kg/day (approximately 420 to 4,200 times higher, respectively, than the MRHOD).
 In a subsequent study in female mice, in which post-mortem examinations were limited to the uterus and the lungs, a statistically significant increase in the incidence of pulmonary tumors was again observed at 500 mg/kg/day.
@@ -22,4 +22,4 @@ In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mc
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
-Reproduction and fertility studies in rats with timolol maleate and in rats with brimonidine tartrate demonstrated no adverse effect on male or female fertility at doses up to approximately 100 times the systemic exposure following the maximum recommended human ophthalmic dose of COMBIGAN™.
+Reproduction and fertility studies in rats with timolol maleate and in rats with brimonidine tartrate demonstrated no adverse effect on male or female fertility at doses up to approximately 100 times the systemic exposure following the maximum recommended human ophthalmic dose of COMBIGAN®.
