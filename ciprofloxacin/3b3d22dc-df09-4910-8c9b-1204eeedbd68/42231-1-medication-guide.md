@@ -36,6 +36,9 @@ Tendon rupture or swelling of the tendon (tendinitis)
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like Ciprofloxacin Tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your heallthcare provider right away if you have any worsening muscle weakness or breathing problems.
 - See the section “What are the possible side effects of Ciprofloxacin Tablets?” for more information about side effects.
 
 ## What are Ciprofloxacin Tablets?
@@ -67,6 +70,7 @@ See “What is the most important information I should know about Ciprofloxacin 
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”

@@ -12,6 +12,13 @@ Tendon rupture can occur during or after completion of therapy; cases occurring 
 Ciprofloxacin Tablets should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 
+## Exacerbation of Myasthenia Gravis
+
+Fluoroquinolones, including ciprofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid ciprofloxacin in patients with known history of myasthenia gravis.
+(See PRECAUTIONS/Information for Patients and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+
 ## Pregnant Women
 
 THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
