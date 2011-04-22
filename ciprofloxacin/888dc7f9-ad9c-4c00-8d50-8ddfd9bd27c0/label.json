@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA019537",
+    "NDA020780"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-754-01",
+    "50419-758-01",
+    "50419-773-01",
+    "50419-777-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "ciprofloxacin",
+      "name": "Cipro"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "Cipro"
+    }
+  ],
+  "setid": "888dc7f9-ad9c-4c00-8d50-8ddfd9bd27c0",
+  "source": "dailymed"
+}
