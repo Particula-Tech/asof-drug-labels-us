@@ -16,17 +16,11 @@
     "0071-1016-68",
     "0071-1017-68",
     "0071-1018-68",
-    "0071-1019-68",
-    "0071-1020-01"
+    "0071-1019-68"
   ],
   "products": [
     {
       "form": "CAPSULE",
-      "generic": "pregabalin",
-      "name": "Lyrica"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "pregabalin",
       "name": "Lyrica"
     }

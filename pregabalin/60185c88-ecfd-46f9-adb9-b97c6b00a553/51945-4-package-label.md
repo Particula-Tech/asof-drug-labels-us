@@ -46,6 +46,22 @@ CV
 
 Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
 
+PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0071-1015-68
+
+90 Capsules Rx only
+
+Lyrica® (pregabalin) capsules
+
+CV
+
+100 mg
+
+Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+
 PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
