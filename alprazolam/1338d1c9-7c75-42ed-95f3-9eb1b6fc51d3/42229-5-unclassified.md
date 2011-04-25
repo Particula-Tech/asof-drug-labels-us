@@ -5,4 +5,4 @@ These lesions did not appear until after 11 months of treatment.
 
 Rx only
 
-LAB-0318-3.0 February 2008
+LAB-0318-4.0 April 2011
