@@ -10,7 +10,7 @@ Advise patients who experience diarrhea or vomiting to maintain adequate hydrati
 
 Caution patients not to take aluminum-containing antacids and Exjade simultaneously.
 
-Because auditory and ocular disturbances have been reported with Exjade, conduct auditory testing and ophthalmic testing before starting Exjade treatment and thereafter at regular intervals [see Warnings and Precautions (5.5)].
+Because auditory and ocular disturbances have been reported with Exjade, conduct auditory testing and ophthalmic testing before starting Exjade treatment and thereafter at regular intervals [see Warnings and Precautions (5.8)].
 
 Caution patients experiencing dizziness to avoid driving or operating machinery [see Adverse Reactions (6.1)].
 
@@ -49,4 +49,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2010 - 22
+T2011-67
