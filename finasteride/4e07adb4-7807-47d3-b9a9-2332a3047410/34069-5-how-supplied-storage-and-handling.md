@@ -18,9 +18,9 @@ PROPECIA tablets are coated and will prevent contact with the active ingredient 
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued December 2010
+Issued April 2011
 
-9636007
+9636008
 
 US Patent Nos.: 5,547,957; 5,571,817
 

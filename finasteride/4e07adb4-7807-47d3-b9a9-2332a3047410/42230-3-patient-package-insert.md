@@ -92,7 +92,7 @@ Each of these side effects occurred in less than 2% of men.
 These side effects went away in men who stopped taking PROPECIA.
 They also disappeared in most men who continued taking PROPECIA.
 
-In general use, the following have been reported: breast tenderness and enlargement; depression; allergic reactions including rash, itching, hives and swelling of the lips and face; problems with ejaculation; testicular pain; and, in rare cases, male breast cancer.
+In general use, the following have been reported: breast tenderness and enlargement; depression; allergic reactions including rash, itching, hives and swelling of the lips and face; problems with ejaculation; testicular pain; difficulty in achieving an erection that continued after stopping the medication; and, in rare cases, male breast cancer.
 You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 Tell your doctor promptly about these or any other unusual side effects.
 
@@ -124,9 +124,9 @@ www.propecia.com
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued December 2010
+Issued April 2011
 
-9636007
+9636008
 
 US Patent Nos.: 5,547,957; 5,571,817
 
