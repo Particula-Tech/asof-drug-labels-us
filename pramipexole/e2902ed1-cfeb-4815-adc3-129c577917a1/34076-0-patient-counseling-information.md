@@ -1,6 +1,6 @@
 Patient Information
 
-Mirapex® ER ™ [mîr′-ah-pěx] (pramipexole dihydrochloride) extended-release tablets
+Mirapex® ER® [mîr′-ah-pěx] (pramipexole dihydrochloride) extended-release tablets
 
 Read the Patient Information that comes with MIRAPEX ER tablets before you start taking it and each time you refill your prescription.
 The information may have changed.
