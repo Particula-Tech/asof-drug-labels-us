@@ -37,7 +37,7 @@ There was no significant difference in systemic exposure (AUC∞) in the fed and
 Systemic exposure to abacavir was comparable after administration of ZIAGEN Oral Solution and ZIAGEN Tablets.
 Therefore, these products may be used interchangeably.
 
-Special Populations: Renal Impairment: The pharmacokinetic properties of ZIAGEN have not been determined in patients with impaired renal function.
+Special Populations:Renal Impairment: The pharmacokinetic properties of ZIAGEN have not been determined in patients with impaired renal function.
 Renal excretion of unchanged abacavir is a minor route of elimination in humans.
 
 Hepatic Impairment: The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5 to 6).

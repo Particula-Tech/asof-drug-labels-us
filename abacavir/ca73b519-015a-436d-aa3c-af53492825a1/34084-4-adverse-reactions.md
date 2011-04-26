@@ -7,7 +7,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults: Therapy-Naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
+Adults:Therapy-Naive Adults: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 2.
 
 Table 2.
 Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Naive Adults (CNA30024a) Through 48 Weeks of Treatment
@@ -101,7 +101,7 @@ Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 
-Pediatric Patients: Therapy-Experienced Pediatric Patients: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg/kg twice daily, lamivudine 4 mg/kg twice daily, and zidovudine 180 mg/m2 twice daily compared with lamivudine 4 mg/kg twice daily and zidovudine 180 mg/m2 twice daily from CNA3006 are listed in Table 6.
+Pediatric Patients:Therapy-Experienced Pediatric Patients: Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 8 mg/kg twice daily, lamivudine 4 mg/kg twice daily, and zidovudine 180 mg/m2 twice daily compared with lamivudine 4 mg/kg twice daily and zidovudine 180 mg/m2 twice daily from CNA3006 are listed in Table 6.
 
 Table 6.
 Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intensity (Grades 2-4, ≥5% Frequency) in Therapy-Experienced Pediatric Patients (CNA3006) Through 16 Weeks of Treatment
