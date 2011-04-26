@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
-FazaClo® (clozapine, USP) is available as 12.5-, 25-, 100-, 150-, and 200-mg round, yellow, orally disintegrating tablets packaged in bottles.
-FazaClo® (clozapine, USP) is also available as 25-, 100-, 150-, and 200-mg tablets packaged in blisters.
+FazaClo (clozapine, USP) is available as 12.5, 25, 100, 150, and 200 mg round, yellow, orally disintegrating tablets packaged in bottles.
+FazaClo (clozapine, USP) is also available as 25, 100, 150, and 200 mg tablets packaged in blisters.
 
-## FazaClo® (clozapine, USP) Orally Disintegrating Tablets
+## FazaClo (clozapine, USP) Orally Disintegrating Tablets
 
 12.5 mg
 
@@ -54,27 +54,26 @@ NDC No. 18860-106-01
 
 ### Store and Dispense
 
-Store FazaClo® (clozapine, USP) at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store FazaClo (clozapine, USP) at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
 (See USP Controlled Room Temperature.)
 Protect from moisture.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-FazaClo® (clozapine, USP) tablets must remain in the original package until used by the patient.
+FazaClo (clozapine, USP) tablets must remain in the original package until used by the patient.
 
 Drug dispensing should not ordinarily exceed a weekly supply.
-If a patient is eligible for WBC count and ANC testing every 2 weeks, then a two-week supply of FazaClo® (clozapine, USP) can be dispensed.
-If a patient is eligible for WBC count and ANC testing every 4 weeks, then a 4-week supply of FazaClo® (clozapine, USP) can be dispensed.
+If a patient is eligible for WBC count and ANC testing every 2 weeks, then a 2-week supply of FazaClo (clozapine, USP) can be dispensed.
+If a patient is eligible for WBC count and ANC testing every 4 weeks, then a 4-week supply of FazaClo (clozapine, USP) can be dispensed.
 Dispensing should be contingent upon the WBC count and ANC testing results.
 
-Manufactured for Azur Pharma, Inc. 1818 Market Street, Suite 2350 Philadelphia, PA 19103 by CIMA LABS INC. Eden Prairie, Minnesota 55344
+Distributed by Azur Pharma, Inc. 1818 Market Street, Suite 2350 Philadelphia, PA 19103
 
-CIMA LABS INC.; U.S. Patent Nos. 6,024,981; 6,221,392; 6,155,423
+U.S. Patent Nos. 6,024,981; 6,221,392; 6,155,423
 
-FazaClo® is a registered trademark of Azur Pharma International III Limited.
+FazaClo is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 
-Revised September 2010 Printed in USA Rev.
-15
+Revised December 2010 Printed in USA FZCLw-10-01
 
 Medical Affairs 877-FAZACLO (877-329-2256)

@@ -2,8 +2,8 @@
 
 ## Treatment-Resistant Schizophrenia
 
-FazaClo® (clozapine, USP) is indicated for the management of severely ill schizophrenic patients who fail to respond adequately to standard drug treatment for schizophrenia.
-Because of the significant risk of agranulocytosis and seizure associated with its use, FazaClo® (clozapine, USP) should be used only in patients who have failed to respond adequately to treatment with appropriate courses of standard drug treatments for schizophrenia, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs.
+FazaClo (clozapine, USP) is indicated for the management of severely ill schizophrenic patients who fail to respond adequately to standard drug treatment for schizophrenia.
+Because of the significant risk of agranulocytosis and seizure associated with its use, FazaClo (clozapine, USP) should be used only in patients who have failed to respond adequately to treatment with appropriate courses of standard drug treatments for schizophrenia, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs.
 (See WARNINGS.)
 
 The effectiveness of clozapine in a treatment-resistant schizophrenic population was demonstrated in a 6-week study comparing clozapine and chlorpromazine.
@@ -15,11 +15,11 @@ In addition, the need for continuing treatment in patients exhibiting beneficial
 
 Reduction in the Risk of Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorders
 
-FazaClo® (clozapine, USP) is indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for reexperiencing suicidal behavior, based on history and recent clinical state.
+FazaClo (clozapine, USP) is indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for reexperiencing suicidal behavior, based on history and recent clinical state.
 Suicidal behavior refers to actions by a patient that put him/herself at risk for death.
 
-The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was demonstrated over a two-year treatment period in the InterSePT Trial (see Clinical Trial Data under CLINICAL PHARMACOLOGY).
-Therefore, FazaClo® (clozapine, USP) treatment to reduce the risk of suicidal behavior should be continued for at least two years (see DOSAGE AND ADMINISTRATION).
+The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was demonstrated over a two-year treatment period in the InterSePT™ Trial (see Clinical Trial Data under CLINICAL PHARMACOLOGY).
+Therefore, FazaClo (clozapine, USP) treatment to reduce the risk of suicidal behavior should be continued for at least two years (see DOSAGE AND ADMINISTRATION).
 
-The prescriber should be aware that a majority of patients in both treatment groups in InterSePT received other treatments as well to reduce suicide risk, such as antidepressants and other medications, hospitalization, and/or psychotherapy.
+The prescriber should be aware that a majority of patients in both treatment groups in InterSePT™ received other treatments as well to reduce suicide risk, such as antidepressants and other medications, hospitalization, and/or psychotherapy.
 The contributions of these additional measures are unknown.

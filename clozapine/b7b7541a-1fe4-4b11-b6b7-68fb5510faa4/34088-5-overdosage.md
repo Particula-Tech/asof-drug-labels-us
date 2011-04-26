@@ -16,10 +16,10 @@ Cardiac and vital signs monitoring are recommended along with general symptomati
 Additional surveillance should be continued for several days because of the risk of delayed effects.
 Avoid epinephrine and derivatives when treating hypotension and quinidine and procainamide when treating cardiac arrhythmia.
 
-There are no specific antidotes for FazaClo® (clozapine, USP).
+There are no specific antidotes for FazaClo (clozapine, USP).
 Forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
 
 In managing overdosage, the physician should consider the possibility of multiple-drug involvement.
 
 Up-to-date information about the treatment of overdose can often be obtained from a certified Regional Poison Control Center.
-Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference®, a registered trademark of Thomson PDR.
+Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference, a registered trademark of Thomson PDR.
