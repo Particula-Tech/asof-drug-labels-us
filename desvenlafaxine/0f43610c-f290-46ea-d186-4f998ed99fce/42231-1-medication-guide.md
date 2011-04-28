@@ -215,7 +215,7 @@ Common side effects with PRISTIQ include:
 | • insomnia | • dilated pupils |
 | • constipation | • decreased sex drive |
 | • loss of appetite | • delayed orgasm and ejaculation |
-| • sleepiness |  |
+| • sleepiness | • feeling that your surroundings are spinning or moving |
 
 These are not all the possible side effects of PRISTIQ.
 Tell your healthcare provider about any side effect that bothers you or does not go away.
@@ -252,7 +252,7 @@ For the 100 mg tablet, hypromellose, microcrystalline cellulose, talc, magnesium
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued March 2011.
+Issued April 2011.
 
 ### Contact Information
 
@@ -263,10 +263,12 @@ Please visit our web site at www.pristiq.com, or call our toll-free number 1-888
 
 Wyeth®
 
-Wyeth Pharmaceuticals Inc.
+Distributed by:
+
+Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Philadelphia, PA 19101
 
-LAB-0452-2.0
+LAB-0452-3.0
 
-March 2011
+April 2011
