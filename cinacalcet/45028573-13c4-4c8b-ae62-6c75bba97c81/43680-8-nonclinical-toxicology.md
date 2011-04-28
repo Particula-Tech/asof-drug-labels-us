@@ -6,7 +6,7 @@
 
 Standard lifetime dietary carcinogenicity bioassays were conducted in mice and rats.
 Mice were given cinacalcet at dietary doses of 15, 50, and 125 mg/kg/day in males and 30, 70, and 200 mg/kg/day in females (exposures up to 2 times those resulting with a human oral dose of 180 mg/day based on AUC comparison).
-Rats were given dietary doses of 5, 15, and 35 mg/kg/day in males and 5, 20, 3, and 5 mg/kg/day in females (exposures up to 2 times those resulting with a human oral dose of 180 mg/day based on AUC comparison).
+Rats were given dietary doses of 5, 15, and 35 mg/kg/day in males and 5, 20, and 35 mg/kg/day in females (exposures up to 2 times those resulting with a human oral dose of 180 mg/day based on AUC comparison).
 No increased incidence of tumors was observed following treatment with cinacalcet.
 
 ### Mutagenicity

@@ -6,7 +6,7 @@ Sensipar is indicated for the treatment of secondary hyperparathyroidism (HPT) i
 
 ## 1.2 Parathyroid Carcinoma
 
-Sensipar is indicated for the treatment of hypercalcemia in patients with parathyroid carcinoma [see Clinical Studies (14.2)].
+Sensipar is indicated for the treatment of hypercalcemia in patients with Parathyroid Carcinoma [see Clinical Studies (14.2)].
 
 ## 1.3 Primary Hyperparathyroidism
 

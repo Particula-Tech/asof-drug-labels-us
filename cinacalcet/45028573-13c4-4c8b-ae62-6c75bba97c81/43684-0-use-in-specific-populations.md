@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy: Category C
 
-In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on area under the curve [AUC] comparison).
+In pregnant female rats given oral gavage doses of 2, 25, 50 mg/kg/day cinacalcet during gestation, no teratogenicity was observed at doses up to 50 mg/kg/day (exposure 4 times those resulting with a human oral dose of 180 mg/day based on Area Under the Curve [AUC] comparison).
 Decreased fetal body weights were observed at all doses (less than 1 to 4 times a human oral dose of 180 mg/day based on AUC comparison) in conjunction with maternal toxicity (decreased food consumption and body weight gain).
 
 In pregnant female rabbits given oral gavage doses of 2, 12, 25 mg/kg/day cinacalcet during gestation, no adverse fetal effects were observed (exposures less than with a human oral dose of 180 mg/day based on AUC comparisons).
@@ -16,7 +16,7 @@ There are no adequate and well-controlled studies of Sensipar in pregnant women.
 Sensipar should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Women who become pregnant during Sensipar treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
-Patients or their physicians should call 1-800-772-6436 (1-800-77-AMGEN) to enroll.
+Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
 
 ## 8.3 Nursing Mothers
 

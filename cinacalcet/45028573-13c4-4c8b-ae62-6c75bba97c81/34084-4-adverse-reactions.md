@@ -38,12 +38,12 @@ The incidence and nature of adverse reactions in this long term extension study 
 ### Parathyroid Carcinoma and Primary Hyperparathyroidism
 
 The safety profile of Sensipar in these patient populations is generally consistent with that seen in patients with CKD on dialysis.
-Forty six patients were treated with cinacalcet in a single arm study, 29 with Parathyroid Carcinoma and 17 with intractable PHPT.
+Forty six patients were treated with cinacalcet in a single arm study, 29 with Parathyroid Carcinoma and 17 with intractable pHPT.
 Nine (20%) of the patients withdrew from the study due to adverse events.
 The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were nausea and vomiting.
 Severe or prolonged cases of nausea and vomiting can lead to dehydration and worsening hypercalcemia so careful monitoring of electrolytes is recommended in patients with these symptoms.
 
-Eight patients died while on study, 7 with parathyroid carcinoma (24%) and 1 (6%) with intractable PHPT.
+Eight patients died while on study, 7 with Parathyroid Carcinoma (24%) and 1 (6%) with intractable pHPT.
 Causes of death were cardiovascular (5 patients), multi-organ failure (1 patient), gastrointestinal hemorrhage (1 patient) and metastatic carcinoma (1 patient).
 Adverse events of hypocalcemia were reported in three patients (7%).
 
@@ -71,7 +71,7 @@ Adverse Reactions Occurring in ≥ 10% of Total Subjects
 | Headache | 6 (21) | 0 (0) | 6 (13) |
 | Infection Upper Respiratory | 3 (10) | 2 (12) | 5 (11) |
 | Pain Limb | 3 (10) | 2 (12) | 5 (11) |
-| N=Number of subjects receiving at least one dose of study drug |  |  |  |
+| N=Number of subjects receiving at least one dose of study drug. |  |  |  |
 
 ## 6.2 Postmarketing Experience with Sensipar
 

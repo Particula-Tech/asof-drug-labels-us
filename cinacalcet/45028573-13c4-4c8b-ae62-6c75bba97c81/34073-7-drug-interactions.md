@@ -9,4 +9,4 @@ The iPTH and serum calcium concentrations should be closely monitored in these p
 ## 7.2 CYP2D6 Substrates
 
 Cinacalcet is a strong inhibitor of CYP2D6.
-Dose adjustments may be required for concominant medications that are predominantly metabolized by CYP2D6 (e.g., desipramine, metoprolol, and carvedilol) and particularly those with a narrow therapeutic index (e.g., flecainide and most tricyclic antidepressants) [see Clinical Pharmacology (12.3)].
+Dose adjustments may be required for concomitant medications that are predominantly metabolized by CYP2D6 (e.g., desipramine, metoprolol, and carvedilol) and particularly those with a narrow therapeutic index (e.g., flecainide and most tricyclic antidepressants) [see Clinical Pharmacology (12.3)].

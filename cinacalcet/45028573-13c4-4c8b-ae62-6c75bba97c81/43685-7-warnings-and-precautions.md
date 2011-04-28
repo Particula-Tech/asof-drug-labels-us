@@ -16,15 +16,15 @@ In 26-week studies of patients with CKD on dialysis, 66% of patients receiving S
 Less than 1% of patients in each group permanently discontinued study drug due to hypocalcemia.
 
 Sensipar is not indicated for patients with CKD not on dialysis.
-In patients with secondary HPT and CKD not on dialysis, the long-term safety and efficacy of Sensipar have not been established.
+In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of Sensipar have not been established.
 Clinical studies indicate that Sensipar-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with Sensipar-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.
-In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of Sensipar treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
+In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of Sensipar-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
 
 ## 5.2 Seizures
 
 In three clinical studies of patients with CKD on dialysis, 5% of the patients in both the Sensipar and placebo groups reported a history of seizure disorder at baseline.
-During the studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (9/656) of Sensipar treated patients and 0.4% (2/470) of placebo-treated patients.
-Five of the nine Sensipar-treated patients had a history of a seizure disorder and two were receiving anti-seizure medication at the time of their seizure.
+During the studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (9/656) of Sensipar-treated patients and 0.4% (2/470) of placebo-treated patients.
+Five of the nine Sensipar-treated patients had a history of a seizure disorder and two were receiving antiseizure medication at the time of their seizure.
 Both placebo-treated patients had a history of seizure disorder and were receiving antiseizure medication at the time of their seizure.
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
 Therefore, serum calcium levels should be closely monitored in patients receiving Sensipar, particularly in patients with a history of a seizure disorder [see Warnings and Precautions (5.1)].

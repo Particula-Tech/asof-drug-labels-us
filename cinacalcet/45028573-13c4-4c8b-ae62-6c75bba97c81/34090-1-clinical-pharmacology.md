@@ -10,12 +10,12 @@ Reductions in PTH are associated with a decrease in bone turnover and bone fibro
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
 Sensipar directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
-Measurements of PTH during the Sensipar studies were obtained using the Nichols iPTH immunoradiometric assay.
+Measurements of PTH during the Sensipar studies were obtained using the Nichols IRMA.
 
 ## 12.2 Pharmacodynamics
 
 Reduction in iPTH levels correlated with the plasma cinacalcet concentrations in patients with CKD.
-The nadir in iPTH level occurs approximately 2 to 6 hours postdose, corresponding with the maximum plasma concentration (Cmax) of cinacalcet.
+The nadir in iPTH level occurs approximately 2 to 6 hours post dose, corresponding with the maximum plasma concentration (Cmax) of cinacalcet.
 After steady-state cinacalcet concentrations are reached (which occurs within 7 days of dose change), serum calcium concentrations remain constant over the dosing interval in patients with CKD.
 
 ## 12.3 Pharmacokinetics
@@ -27,10 +27,10 @@ Cinacalcet Cmax and AUC(0-inf) were increased by 82% and 68%, respectively, foll
 The Cmax and AUC(0-inf) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
 
 After absorption, cinacalcet concentrations decline in a biphasic fashion with a terminal half-life of 30 to 40 hours.
-Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once-daily oral administration.
-The median accumulation ratio is approximately 2 to 5 with twice-daily oral administration.
+Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once daily oral administration.
+The median accumulation ratio is approximately 2 to 5 with twice daily oral administration.
 The AUC and Cmax of cinacalcet increase proportionally over the dose range of 30 to 180 mg once daily.
-The pharmacokinetic profile of cinacalcet does not change over time with once-daily dosing of 30 to 180 mg.
+The pharmacokinetic profile of cinacalcet does not change over time with once daily dosing of 30 to 180 mg.
 The volume of distribution is approximately 1000 L, indicating extensive distribution.
 Cinacalcet is approximately 93% to 97% bound to plasma protein(s).
 The ratio of blood cinacalcet concentration to plasma cinacalcet concentration is 0.80 at a blood cinacalcet concentration of 10 ng/mL.
@@ -53,9 +53,9 @@ Tables 3 and 4 list the findings from in vivo drug-drug interaction studies.
 Table 3.
 Effects of co-administered drugs on cinacalcet
 
-| Coadministered drug and dosing regimen | Cinacalcet |  |  |
+| Co-administered drug and dosing regimen | Cinacalcet |  |  |
 | --- | --- | --- | --- |
-| Dose Single dose | Mean change in AUC | Mean change in Cmax |  |
+| Dose Single dose. | Mean change in AUC | Mean change in Cmax |  |
 | 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑128% | ↑116% |
 | 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |
 | 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |
@@ -64,13 +64,13 @@ Effects of co-administered drugs on cinacalcet
 Table 4.
 Effect of cinacalcet co-administration on other drugs
 
-| Cinacalcet dosing regimen | Coadministered drug |  |  |
+| Cinacalcet dosing regimen | Co-administered drug |  |  |
 | --- | --- | --- | --- |
 | Name and Dose | Mean change in AUC0-∞ | Mean change in Cmax |  |
-| 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time tablet† | ↑1 % for R-warfarin↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
-| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramineSingle dose on day 5 | ↑264% | ↑75% |
+| 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time. tablet† | ↑1 % for R-warfarin↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
+| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramineSingle dose on day 5. | ↑264% | ↑75% |
 | 90 mg daily for 5 days | 2 mg midazolam | ↑5% | ↓5% |
-| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline↑17-23% for nortriptylineNortriptyline is an active metabolite of amitriptyline | ↑13-21% for amitriptyline↑11-15% for nortriptyline |
+| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline↑17-23% for nortriptylineNortriptyline is an active metabolite of amitriptyline. | ↑13-21% for amitriptyline↑11-15% for nortriptyline |
 
 ### Hepatic Impairment
 
