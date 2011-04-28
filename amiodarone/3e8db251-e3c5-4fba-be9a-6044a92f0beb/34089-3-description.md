@@ -1,8 +1,7 @@
 # DESCRIPTION
 
-Amiodarone hydrochloride is a member of a new class of antiarrhythmic drugs with predominantly Class III (Vaughan Williams’ classification) effects.
+Amiodarone hydrochloride is a member of a class of antiarrhythmic drugs with predominantly Class III (Vaughan Williams’ classification) effects.
 Amiodarone is a benzofuran derivative: 2-butyl-3-benzofuranyl 4-[2-(diethylamino)-ethoxy]-3,5-diiodophenyl ketone hydrochloride.
-It is not chemically related to any other available antiarrhythmic drug.
 
 The structural formula is as follows:
 

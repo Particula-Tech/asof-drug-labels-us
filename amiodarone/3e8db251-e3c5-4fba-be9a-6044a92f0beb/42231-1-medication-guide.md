@@ -1,5 +1,3 @@
-# SPL MEDGUIDE
-
 Read the Medication Guide that comes with amiodarone hydrochloride tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
