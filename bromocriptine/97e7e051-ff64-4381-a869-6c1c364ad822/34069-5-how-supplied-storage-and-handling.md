@@ -2,9 +2,9 @@
 
 Bromocriptine Mesylate Capsules USP, 5 mg are white to off-white powder filled in size "3" empty hard gelatin capsules with tan colored cap printed with "ZA 17" in black ink and white colored body printed with "5 mg" in black ink and are supplied as follows:
 
-NDC 68382-110-06 in bottle of 30 capsules
+NDC 65841-654-06 in bottle of 30 capsules
 
-NDC 68382-110-01 in bottle of 100 capsules
+NDC 65841-654-01 in bottle of 100 capsules
 
 ## Storage:
 
@@ -21,12 +21,6 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Distributed by:
+Rev.: 04/11
 
-Zydus Pharmaceuticals USA Inc.
-
-Princeton, NJ 08540
-
-Rev.: 01/10
-
-Revision Date: 01/29/2010
+Revision Date: 04/23/2011
