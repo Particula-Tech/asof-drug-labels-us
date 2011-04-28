@@ -30,5 +30,4 @@ NDC 0186-0032-28 unit dose packages of 100.
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-Keep container tightly closed.
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].Keep container tightly closed.

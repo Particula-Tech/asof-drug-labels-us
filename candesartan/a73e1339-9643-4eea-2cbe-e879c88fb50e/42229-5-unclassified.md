@@ -11,7 +11,7 @@ Most of the antihypertensive effect was seen within 2 weeks of initial dosing an
 With once-daily dosing, blood pressure effect was maintained over 24 hours, with trough to peak ratios of blood pressure effect generally over 80%.
 Candesartan cilexetil had an additional blood pressure lowering effect when added to hydrochlorothiazide.
 
-The antihypertensive effects of candesartan cilexetil and losartan potassium at their highest recommended doses administered once daily were compared in two randomized, double-blind trials.
+The antihypertensive effects of candesartan cilexetil and losartan potassium at their highest recommended doses administered once— daily were compared in two randomized, double-blind trials.
 In a total of 1268 patients with mild to moderate hypertension who were not receiving other antihypertensive therapy, candesartan cilexetil 32 mg lowered systolic and diastolic blood pressure by 2 to 3 mm Hg on average more than losartan potassium 100 mg, when measured at the time of either peak or trough effect.
 The antihypertensive effects of twice daily dosing of either candesartan cilexetil or losartan potassium were not studied.
 

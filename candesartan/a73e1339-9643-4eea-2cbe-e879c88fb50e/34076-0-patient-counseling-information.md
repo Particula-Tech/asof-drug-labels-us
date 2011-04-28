@@ -16,8 +16,11 @@ for: AstraZeneca LP, Wilmington, DE 19850
 Made in Sweden
 
 Rev.
-10/09
+04/11
 
 ATACAND is a trademark of the AstraZeneca group of companies.
+
+Rev.
+04/11
 
 ©AstraZeneca 2009
