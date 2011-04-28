@@ -7,7 +7,7 @@ For patients with advanced breast cancer, ARIMIDEX should be continued until tum
 ARIMIDEX can be taken with or without food.
 
 For adjuvant treatment of early breast cancer in postmenopausal women, the optimal duration of therapy is unknown.
-In the ATAC trial ARIMIDEX was administered for five years [see Clinical Studies (14.1)].
+In the ATAC trial, ARIMIDEX was administered for five years [see Clinical Studies (14.1)].
 
 No dosage adjustment is necessary for patients with renal impairment or for elderly patients [see Use in Specific Populations (8.6)].
 

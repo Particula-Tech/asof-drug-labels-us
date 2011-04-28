@@ -4,7 +4,7 @@
 
 A multicenter, double-blind trial (ATAC) randomized 9,366 postmenopausal women with operable breast cancer to adjuvant treatment with ARIMIDEX 1 mg daily, tamoxifen 20 mg daily, or a combination of the two treatments for five years or until recurrence of the disease.
 
-The primary endpoint of the trial was disease-free survival (ie, time to occurrence of a distant or local recurrence, or contralateral breast cancer or death from any cause).
+The primary endpoint of the trial was disease-free survival (i.e., time to occurrence of a distant or local recurrence, or contralateral breast cancer or death from any cause).
 Secondary endpoints of the trial included distant disease-free survival, the incidence of contralateral breast cancer and overall survival.
 At a median follow-up of 33 months, the combination of ARIMIDEX and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor positive subpopulation.
 This treatment arm was discontinued from the trial.
@@ -17,17 +17,17 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 | Demographic Characteristic | ARIMIDEX1 mg(NN=Number of patients randomized to the treatment=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX 1 mgplus Tamoxifen20 mgThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up(N=3125) |
 | --- | --- | --- | --- |
 | Mean age (yrs.) | 64.1 | 64.1 | 64.3 |
-| Age Range (yrs.) | 38.1 - 92.8 | 32.8 - 94.9 | 37 - 92.2 |
+| Age Range (yrs.) | 38.1 - 92.8 | 32.8 - 94.9 | 37.0 - 92.2 |
 | Age Distribution (%) |  |  |  |
 | <45 yrs. | 0.7 | 0.4 | 0.5 |
-| 45-60 yrs. | 34.6 | 35 | 34.5 |
-| >60 <70 yrs. | 38 | 37.1 | 37.7 |
+| 45-60 yrs. | 34.6 | 35.0 | 34.5 |
+| >60 <70 yrs. | 38.0 | 37.1 | 37.7 |
 | >70 yrs. | 26.7 | 27.4 | 27.3 |
 | Mean Weight (kg) | 70.8 | 71.1 | 71.3 |
 | Receptor Status (%) |  |  |  |
-| PositiveIncludes patients who were estrogen receptor (ER) positive or progesterone receptor (PgR) positive, or both positive | 83.5 | 83.1 | 84 |
-| NegativeIncludes patients with both ER negative and PgR negative receptor status | 7.4 | 8 | 7 |
-| OtherIncludes all other combinations of ER and PgR receptor status unknown | 8.8 | 8.6 | 9 |
+| PositiveIncludes patients who were estrogen receptor (ER) positive or progesterone receptor (PgR) positive, or both positive | 83.5 | 83.1 | 84.0 |
+| NegativeIncludes patients with both ER negative and PgR negative receptor status | 7.4 | 8.0 | 7.0 |
+| OtherIncludes all other combinations of ER and PgR receptor status unknown | 8.8 | 8.6 | 9.0 |
 | Other Treatment (%) prior to Randomization |  |  |  |
 | Mastectomy | 47.8 | 47.3 | 48.1 |
 | Breast conservationAmong the patients who had breast conservation, radiotherapy was administered to 95.0% of patients in the ARIMIDEX arm, 94.1% in the tamoxifen arm and 94.5% in the ARIMIDEX plus tamoxifen arm. | 52.3 | 52.8 | 51.9 |
@@ -51,8 +51,12 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 | Not assessed/recorded | 8.7 | 8.4 | 8.5 |
 
 Patients in the two monotherapy arms of the ATAC trial were treated for a median of 60 months (5 years) and followed for a median of 68 months.
-Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.87, 95% CI: 0.78, 0.97, p=0.0127 in the ARIMIDEX arm compared to the tamoxifen arm.
-In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR =0.83, 95% CI: 0.73, 0.94, p=0.0049) in the ARIMIDEX arm compared to the tamoxifen arm.
+Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.87, 95% CI: 0.78, 0.97, p=0.0127] in the ARIMIDEX arm compared to the tamoxifen arm.
+In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.83, 95% CI: 0.73, 0.94, p=0.0049) in the ARIMIDEX arm compared to the tamoxifen arm.
+
+Figure 1 — Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC trial (Intent-to-Treat)
+
+Figure 2 — Disease-free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC Trial
 
 The survival data with 68 months follow-up is presented in Table 9.
 
@@ -87,9 +91,9 @@ Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack 
 |  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
 |  | ARIMIDEX 1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
 | Disease-free Survival | 575 | 651 | 424 | 497 |
-| Hazard ratio | 0.870.78 to 0.970.0127 |  | 0.830.73 to 0.940.0049 |  |
-| 2-sided 95% CI |  |  |  |  |
-| p-value |  |  |  |  |
+| Hazard ratio | 0.87 |  | 0.83 |  |
+| 2-sided 95% CI | 0.78 to 0.97 |  | 0.73 to 0.94 |  |
+| p-value | 0.0127 |  | 0.0049 |  |
 | Distant Disease-free Survival | 500 | 530 | 370 | 394 |
 | Hazard ratio | 0.940.83 to 1.06 |  | 0.930.80 to 1.07 |  |
 | 2-sided 95% CI |  |  |  |  |
@@ -97,35 +101,50 @@ Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack 
 | Hazard ratio | 0.970.85 to 1.12 |  | 0.970.83 to 1.14 |  |
 | 2-sided 95% CI |  |  |  |  |
 
-## 14.2 First Line Therapy in Postmenopausal Women with Advanced Breast Cancer
+10-year median follow-up Efficacy Results from the ATAC Trial
 
-Two double-blind, well-controlled clinical studies of similar design (0030, a North American study and 0027, a predominately European study) were conducted to assess the efficacy of ARIMIDEX compared with tamoxifen as first-line therapy for hormone receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer in postmenopausal women.
+In a subsequent analysis of the ATAC trial, patients in the two monotherapy arms were followed for a median of 120 months (10 years) and have been off trial treatment for a median of 60 months.
+Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.91, 95% CI: 0.83, 0.99, p=0.0365] in the ARIMIDEX arm compared to the tamoxifen arm.
+In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.86, 95% CI: 0.78, 0.95, p=0.0027) in the ARIMIDEX arm compared to the tamoxifen arm.
+As demonstrated in the 5-year treatment analysis, overall survival is similar between the two treatment groups for both the intent-to-treat and hormone receptor-positive populations, Hazard Ratio (HR) = 0.97, 95% CI: 0.88, 1.08, p=0.6249 and Hazard Ratio (HR) = 0.95, 95% CI: 0.84, 1.06, p=0.3468, respectively.
+
+Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)(a)
+
+a The proportion of patients with 120 months’ follow-up was 29.4%.
+
+Figure 4 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC Trial(b)
+
+bThe proportion of patients with 120 months’ follow-up was 29.8%.
+
+## 14.2 First-Line Therapy in Postmenopausal Women with Advanced Breast Cancer
+
+Two double-blind, controlled clinical studies of similar design (0030, a North American study and 0027, a predominately European study) were conducted to assess the efficacy of ARIMIDEX compared with tamoxifen as first-line therapy for hormone receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer in postmenopausal women.
 A total of 1021 patients between the ages of 30 and 92 years old were randomized to receive trial treatment.
 Patients were randomized to receive 1 mg of ARIMIDEX once daily or 20 mg of tamoxifen once daily.
-The primary end points for both trials were time to tumor progression, objective tumor response rate, and safety.
+The primary endpoints for both trials were time to tumor progression, objective tumor response rate, and safety.
 
 Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials.
 The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
 
 Table 10 — Demographic and Other Baseline Characteristics
 
-| Receptor status | ARIMIDEX1 mg(n=171) | Tamoxifen20 mg(n=182) | ARIMIDEX1 mg(n=340) | Tamoxifen20 mg(n=328) |
+| Receptor status | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of subjects |  |  |  |
 |  | Trial 0030 |  | Trial 0027 |  |
 | ERER=Estrogen receptor and/or PgRPgR=Progesterone receptor | 151 (88.3) | 162 (89.0) | 154 (45.3) | 144 (43.9) |
 | ER unknown, PgR Unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
 
-For the primary endpoints, trial 0030 showed ARIMIDEX had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for ARIMIDEX and tamoxifen.
-Trial 0027 showed ARIMIDEX and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 11and Figure 3 and 4).
+For the primary endpoints, trial 0030 showed that ARIMIDEX had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for ARIMIDEX and tamoxifen.
+Trial 0027 showed that ARIMIDEX and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 11 and Figures 5 and 6).
 
 Table 11 below summarizes the results of trial 0030 and trial 0027 for the primary efficacy endpoints.
 
 Table 11– Efficacy Results of First-line Treatment
 
-|  | ARIMIDEX1 mg(n=171) | Tamoxifen20 mg(n=182) | ARIMIDEX1 mg(n=340) | Tamoxifen20 mg(n=328) |
+|  | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
 | --- | --- | --- | --- | --- |
-| End point | Trial 0030 |  | Trial 0027 |  |
+| Endpoint | Trial 0030 |  | Trial 0027 |  |
 | Time to progression (TTP) |  |  |  |  |
 | Median TTP (months) | 11.1 | 5.6 | 8.2 | 8.3 |
 | Number (%) of subjects Who progressed | 114 (67%) | 138 (76%) | 249 (73%) | 247 (75%) |
@@ -136,12 +155,16 @@ Table 11– Efficacy Results of First-line Treatment
 | Number (%) of subjects With CRCR=Complete Response + PRPR=Partial Response | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
 | Odds Ratio (LCL)ARIMIDEX:Tamoxifen | 1.30 (0.83) |  | 1.01 (0.77) |  |
 
+Figure 5 - Kaplan-Meier probability of time to disease progression for all randomized patients (intent-to-treat) in Trial 0030
+
+Figure 6 - Kaplan-Meier probability of time to progression for all randomized patients (intent-to-treat) in Trial 0027
+
 Results from the secondary endpoints were supportive of the results of the primary efficacy endpoints.
 There were too few deaths occurring across treatment groups of both trials to draw conclusions on overall survival differences.
 
-## 14.3 Second Line Therapy in Postmenopausal Women with Advanced Breast Cancer who had Disease Progression following Tamoxifen Therapy
+## 14.3 Second-Line Therapy in Postmenopausal Women with Advanced Breast Cancer who had Disease Progression following Tamoxifen Therapy
 
-Anastrozole was studied in two well-controlled clinical trials (0004, a North American study; 0005, a predominately European study) in postmenopausal women with advanced breast cancer who had disease progression following tamoxifen therapy for either advanced or early breast cancer.
+Anastrozole was studied in two controlled clinical trials (0004, a North American study; 0005, a predominately European study) in postmenopausal women with advanced breast cancer who had disease progression following tamoxifen therapy for either advanced or early breast cancer.
 Some of the patients had also received previous cytotoxic treatment.
 Most patients were ER-positive; a smaller fraction were ER-unknown or ER-negative; the ER-negative patients were eligible only if they had had a positive response to tamoxifen.
 Eligible patients with measurable and non-measurable disease were randomized to receive either a single daily dose of 1 mg or 10 mg of ARIMIDEX or megestrol acetate 40 mg four times a day.
@@ -167,8 +190,8 @@ Table 12 – Efficacy Results of Second-line Treatment
 |  | ARIMIDEX1 mg | ARIMIDEX10 mg | MegestrolAcetate160 mg |
 | --- | --- | --- | --- |
 | Trial 0004 |  |  |  |
-| (N. America) | (n=128) | (n=130) | (n=128) |
-| Median Fol1ow-up (months)Surviving Patients | 31.3 | 30.9 | 32.9 |
+| (N. America) | (N=128) | (N=130) | (N=128) |
+| Median Follow-up (months)Surviving Patients | 31.3 | 30.9 | 32.9 |
 | Median Time to Death (months) | 29.6 | 25.7 | 26.7 |
 | 2 Year Survival Probability (%) | 62.0 | 58.0 | 53.1 |
 | Median Time to Progression (months) | 5.7 | 5.3 | 5.1 |
@@ -176,7 +199,7 @@ Table 12 – Efficacy Results of Second-line Treatment
 | Stable Disease for >24 weeks (%) | 35.2 | 29.2 | 32.8 |
 | Progression (%) | 86.7 | 85.4 | 90.6 |
 | Trial 0005 |  |  |  |
-| (Europe, Australia, S. Africa) | (n=135) | (n=118) | (n=125) |
+| (Europe, Australia, S. Africa) | (N=135) | (N=118) | (N=125) |
 | Median Follow-up (months) | 31.0 | 30.9 | 31.5 |
 | Median Time to Death (months) | 24.3 | 24.8 | 19.8 |
 | 2 Year Survival Probability (%) | 50.5 | 50.9 | 39.1 |
@@ -188,7 +211,7 @@ Table 12 – Efficacy Results of Second-line Treatment
 When data from the two controlled trials are pooled, the objective response rates and median times to progression and death were similar for patients randomized to ARIMIDEX 1 mg and megestrol acetate.
 There is, in this data, no indication that ARIMIDEX 10 mg is superior to ARIMIDEX 1 mg.
 
-Table 13– Pooled Efficacy Results of Second-line Treatment
+Table 13 – Pooled Efficacy Results of Second-line Treatment
 
 | Trials 0004 & 0005(Pooled Data) | ARIMIDEX1 mgN=263 | ARIMIDEX10 mgN=248 | Megestrol Acetate160 mgN=253 |
 | --- | --- | --- | --- |
@@ -196,6 +219,3 @@ Table 13– Pooled Efficacy Results of Second-line Treatment
 | 2 Year SurvivalProbability (%) | 56.1 | 54.6 | 46.3 |
 | Median Time toProgression | 4.8 | 5.3 | 4.6 |
 | Objective Response(all patients) (%) | 12.5 | 12.5 | 12.3 |
-
-Objective response rates and median times to progression and death for ARIMIDEX 1 mg were similar to megestrol acetate for women over or under 65.
-There were too few non-white patients studied to draw conclusions about racial differences in response.

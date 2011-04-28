@@ -1,9 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+“see FDA Approved Patient Labeling”
+
 ## 17.1 Pregnancy
 
 Patients should be advised that ARIMIDEX may cause fetal harm.
-They should also be advised that ARIMIDEX is not for use in premenopausal women; therefore, if they become pregnant they should stop taking ARIMIDEX and immediately contact their doctor.
+They should also be advised that ARIMIDEX is not for use in premenopausal women; therefore, if they become pregnant, they should stop taking ARIMIDEX and immediately contact their doctor.
 
 ## 17.2 Allergic (Hypersensitivity) Reactions
 

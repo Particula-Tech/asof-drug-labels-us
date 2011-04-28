@@ -3,10 +3,10 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A conventional carcinogenesis study in rats at doses of 1.0 to 25 mg/kg/day (about 10 to 243 times the daily maximum recommended human dose on a mg/m2 basis) administered by oral gavage for up to 2 years revealed an increase in the incidence of hepatocellular adenoma and carcinoma and uterine stromal polyps in females and thyroid adenoma in males at the high dose.
-A dose related increase was observed in the incidence of ovarian and uterine hyperplasia in females.
+A dose-related increase was observed in the incidence of ovarian and uterine hyperplasia in females.
 At 25 mg/kg/day, plasma AUC0-24 hr levels in rats were 110 to 125 times higher than the level exhibited in postmenopausal volunteers at the recommended dose.
 A separate carcinogenicity study in mice at oral doses of 5 to 50 mg/kg/day (about 24 to 243 times the daily maximum recommended human dose on a mg/m2 basis) for up to 2 years produced an increase in the incidence of benign ovarian stromal, epithelial and granulosa cell tumors at all dose levels.
-A dose related increase in the incidence of ovarian hyperplasia was also observed in female mice.
+A dose-related increase in the incidence of ovarian hyperplasia was also observed in female mice.
 These ovarian changes are considered to be rodent-specific effects of aromatase inhibition and are of questionable significance to humans.
 The incidence of lymphosarcoma was increased in males and females at the high dose.
 At 50 mg/kg/day, plasma AUC levels in mice were 35 to 40 times higher than the level exhibited in postmenopausal volunteers at the recommended dose.

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Clinical trials have been conducted with ARIMIDEX, up to 60 mg in a single dose given to healthy male volunteers and up to 10 mg daily given to postmenopausal women with advanced breast cancer; these dosages were well tolerated.
+Clinical trials have been conducted with ARIMIDEX, up to 60 mg in a single dose given to healthy male volunteers and up to 10 mg daily given to postmenopausal women with advanced breast cancer; these dosages were tolerated.
 A single dose of ARIMIDEX that results in life-threatening symptoms has not been established.
 There is no specific antidote to overdosage and treatment must be symptomatic.
 In the management of an overdose, consider that multiple agents may have been taken.
