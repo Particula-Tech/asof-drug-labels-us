@@ -9,7 +9,8 @@ The beneficial effects of lisinopril in hypertension and heart failure appear to
 Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
 In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L (See PRECAUTIONS).
+In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L.
+(See PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
@@ -22,7 +23,7 @@ Concomitant administration of lisinopril and hydrochlorothiazide further reduced
 
 ## Pharmacokinetics and Metabolism
 
-Adult Patients
+### Adult Patients
 
 Following oral administration of lisinopril, peak serum concentrations of lisinopril occur within about 7 hours, although there was a trend to a small delay in time taken to reach peak serum concentrations in acute myocardial infarction patients.
 Declining serum concentrations exhibit a prolonged terminal phase which does not contribute to drug accumulation.
@@ -40,7 +41,8 @@ Upon multiple dosing, lisinopril exhibits an effective half-life of accumulation
 Impaired renal function decreases elimination of lisinopril, which is excreted principally through the kidneys, but this decrease becomes clinically important only when the glomerular filtration rate is below 30 mL/min.
 Above this glomerular filtration rate, the elimination half-life is little changed.
 With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged.
-Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients (See DOSAGE AND ADMINISTRATION).
+Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients.
+(See DOSAGE AND ADMINISTRATION).
 Lisinopril can be removed by hemodialysis.
 
 Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly.
@@ -48,9 +50,9 @@ Multiple doses of lisinopril in rats do not result in accumulation in any tissue
 Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
 By whole body autoradiography, radioactivity was found in the placenta following administration of labeled drug to pregnant rats, but none was found in the fetuses.
 
-Pediatric patients
+### Pediatric patients
 
-The pharmacokinetics of lisinopril was studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
+The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
 After doses of 0.1 to 0.2 mg/kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
@@ -96,7 +98,7 @@ In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years 
 At the end of 2 weeks, lisinopril administered once daily lowered trough blood pressure in a dose-dependent manner with consistent antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg/kg).
 This effect was confirmed in a withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than it did in patients who were randomized to remain on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
-In this study, lisinopril was generally well - tolerated.
+In this study, lisinopril was generally well tolerated.
 
 In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form.
 
@@ -104,7 +106,7 @@ In the above pediatric studies, lisinopril was given either as tablets or in a s
 
 During baseline-controlled clinical trials, in patients receiving digitalis and diuretics, single doses of lisinopril resulted in decreases in pulmonary capillary wedge pressure, systemic vascular resistance and blood pressure accompanied by an increase in cardiac output and no change in heart rate.
 
-In two placebo controlled, 12-week clinical studies using doses of lisinopril up to 20 mg, lisinopril as adjunctive therapy to digitalis and diuretics improved the following signs and symptoms due to congestive heart failure: edema, rales, paroxysmal nocturnal dyspnea and jugular venous distention.
+In two placebo controlled, 12-week clinical studies using doses of lisinopril upto 20 mg, lisinopril as adjunctive therapy to digitalis and diuretics improved the following signs and symptoms due to congestive heart failure: edema, rales, paroxysmal nocturnal dyspnea and jugular venous distention.
 In one of the studies, beneficial response was also noted for: orthopnea, presence of third heart sound and the number of patients classified as NYHA Class III and IV.
 Exercise tolerance was also improved in this study.
 The once-daily dosing for the treatment of congestive heart failure was the only dosage regimen used during clinical trial development and was determined by the measurement of hemodynamic response.
@@ -117,7 +119,7 @@ It was designed to examine the effects of short-term (6 week) treatment with lis
 Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either 1) lisinopril alone (n=4841), 2) nitrates alone (n=4869), 3) lisinopril plus nitrates (n=4841), or 4) open control (n=4843).
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 
-The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of lisinopril were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION).
+The protocol excluded patients with hypotension (systolic blood pressure (100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of lisinopril were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION).
 
 Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
 
@@ -125,4 +127,4 @@ The primary outcomes of the trial were the overall mortality at 6 weeks and a co
 Although patients randomized to receive lisinopril for up to six weeks also fared numerically better on the combined end point at 6 months, the open nature of the assessment of heart failure, substantial loss to follow-up echocardiography, and substantial excess use of lisinopril between 6 weeks and 6 months in the group randomized to 6 weeks of lisinopril, preclude any conclusion about this end point.
 
 Patients with acute myocardial infarction, treated with lisinopril, had a higher (9% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) and renal dysfunction (2.4% versus 1.1%) in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).
-See ADVERSE REACTIONS - Acute Myocardial Infarction.
+See ADVERSE REACTIONS Acute Myocardial Infarction.

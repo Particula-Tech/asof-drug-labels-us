@@ -4,7 +4,7 @@
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including lisinopril) may be subject to a variety of adverse reactions, some of them serious.
 
-Head and Neck Angioedema
+## Head and Neck Angioedema
 
 Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin converting enzyme inhibitors, including lisinopril.
 This may occur at any time during treatment.
@@ -15,7 +15,7 @@ Very rarely, fatalities have been reported due to angioedema associated with lar
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
 
-Intestinal Angioedema
+## Intestinal Angioedema
 
 Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -24,12 +24,12 @@ Intestinal angioedema should be included in the differential diagnosis of patien
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-## Anaphylactoid Reactions During Desensitization:
+## Anaphylactoid Reactions During Desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-## Anaphylactoid Reactions During Membrane Exposure:
+## Anaphylactoid Reactions During Membrane Exposure
 
 Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®*) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
@@ -37,7 +37,7 @@ Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-* AN69® is a registered trademark of Hospal Ltd.
+*AN69 is a registered trademark of Hospal Ltd.
 
 ## Hypotension
 
@@ -49,7 +49,8 @@ Discontinuation of therapy because of continuing symptomatic hypotension usually
 (See DOSAGE AND ADMINISTRATION).
 
 Patients at risk of excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
-It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with lisinopril in patients at risk for excessive hypotension who are able to tolerate such adjustments (See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
+It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with lisinopril in patients at risk for excessive hypotension who are able to tolerate such adjustments.
+(See PRECAUTIONS Drug Interactions and ADVERSE REACTIONS).
 
 Patients with acute myocardial infarction in the GISSI-3 trial had a higher (9% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) when treated with lisinopril.
 Treatment with lisinopril must not be initiated in acute myocardial infarction patients at risk of further serious hemodynamic deterioration after treatment with a vasodilator (e.g., systolic blood pressure of 100 mmHg or lower) or cardiogenic shock.
@@ -112,7 +113,7 @@ On a mg/kg basis, the doses used were up to 625 times (in mice), 188 times (in r
 
 ### Aortic Stenosis/ Hypertrophic Cardiomyopathy
 
-As with all vasodilators, lisinopril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
+As with all vasodialators, lisinopril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
 
 ### Impaired Renal Function
 
@@ -131,7 +132,8 @@ Patients with acute myocardial infarction in the GISSI-3 trial treated with lisi
 In acute myocardial infarction, treatment with lisinopril should be initiated with caution in patients with evidence of renal dysfunction, defined as serum creatinine concentration exceeding 2 mg/dL.
 If renal dysfunction develops during treatment with lisinopril (serum creatinine concentration exceeding 3 mg/dL or a doubling from the pre-treatment value) then the physician should consider withdrawal of lisinopril.
 
-Evaluation of patients with hypertension, heart failure, or myocardial infarction should always include assessment of renal function (See DOSAGE AND ADMINISTRATION).
+Evaluation of patients with hypertension, heart failure, or myocardial infarction should always include assessment of renal function.
+(See DOSAGE AND ADMINISTRATION).
 
 ### Hyperkalemia
 
@@ -140,7 +142,7 @@ In most cases these were isolated values which resolved despite continued therap
 Hyperkalemia was a cause of discontinuation of therapy in approximately 0.1% of hypertensive patients; 0.6% of patients with heart failure and 0.1% of patients with myocardial infarction.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes.
 Hyperkalemia can cause serious, sometimes fatal, arrhythmias.
-Lisinopril should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (See PRECAUTIONS, Drug Interactions)
+Lisinopril should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (See PRECAUTIONS, Drug Interactions).
 
 ### Cough
 
@@ -154,12 +156,12 @@ If hypotension occurs and is considered to be due to this mechanism, it can be c
 
 ## Information for Patients
 
-Angioedema
+### Angioedema
 
 Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin-converting enzyme inhibitors, including lisinopril.
 Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 
-Symptomatic Hypotension
+### Symptomatic Hypotension
 
 Patients should be cautioned to report lightheadedness especially during the first few days of therapy.
 If actual syncope occurs, the patient should be told to discontinue the drug until they have consulted with the prescribing physician.
@@ -167,19 +169,20 @@ If actual syncope occurs, the patient should be told to discontinue the drug unt
 All patients should be cautioned that excessive perspiration and dehydration may lead to an excessive fall in blood pressure because of reduction in fluid volume.
 Other causes of volume depletion such as vomiting or diarrhea may also lead to a fall in blood pressure; patients should be advised to consult with their physician.
 
-Hyperkalemia
+### Hyperkalemia
 
 Patients should be told not to use salt substitutes containing potassium without consulting their physician.
 
-Hypoglycemia
+### Hypoglycemia
 
-Diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor should be told to closely monitor for hypoglycemia, especially during the first month of combined use (See PRECAUTIONS, Drug Interactions).
+Diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor should be told to closely monitor for hypoglycemia, especially during the first month of combined use.
+(See PRECAUTIONS, Drug Interactions.)
 
-Leukopenia/Neutropenia
+### Leukopenia/Neutropenia
 
 Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of leukopenia/neutropenia.
 
-Pregnancy
+### Pregnancy
 
 Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors during pregnancy.
 These patients should be asked to report pregnancies to their physicians as soon as possible.
@@ -196,7 +199,8 @@ Patients on diuretics and especially those in whom diuretic therapy was recently
 The possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril.
 If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose until blood pressure has stabilized (See WARNINGS, and DOSAGE AND ADMINISTRATION).
 When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed.
-Studies with ACE inhibitors in combination with diuretics indicate that the dose of the ACE inhibitor can be reduced when it is given with a diuretic (See DOSAGE AND ADMINISTRATION).
+Studies with ACE inhibitors in combination with diuretics indicate that the dose of the ACE inhibitor can be reduced when it is given with a diuretic.
+(See DOSAGE AND ADMINISTRATION).
 
 ### Antidiabetics
 
@@ -206,7 +210,7 @@ In diabetic patients treated with oral antidiabetic agents or insulin, glycemic 
 
 ### Non-steroidal Anti-inflammatory Agents
 
-In some patients with comprised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in further deterioration of renal function.
+In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in further deterioration of renal function.
 These effects are usually reversible.
 In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of lisinopril alone were compared to lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
 
@@ -265,9 +269,9 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 Antihypertensive effects of lisinopril have been established in hypertensive pediatric patients aged 6 to 16 years.
 
-There are no data on the effect of lisinopril on blood pressure in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION).
+There are no data on the effect of lisinopril on blood pressure in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects, and DOSAGE AND ADMINISTRATION.)
 
-## Geriatric Use
+## Geriatic Use
 
 Clinical studies of lisinopril in patients with hypertension did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other clinical experience in this population has not identified differences in responses between the elderly and younger patients.

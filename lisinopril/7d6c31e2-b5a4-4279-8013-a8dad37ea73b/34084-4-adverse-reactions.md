@@ -12,7 +12,7 @@ For adverse experiences occurring in greater than 1% of patients with hypertensi
 
 PERCENT OF PATIENTS IN CONTROLLED STUDIES
 
-|  | Lisinopril(n=1349)Incidence(discontinuation) | Lisinopril/ Hydrochlorothiazide(n=629)Incidence(discontinuation) | Placebo(n=207)Incidence(discontinuation) |
+|  | Lisinopril (n=1349) Incidence (discontinuation) | Lisinopril/ Hydrochlorothiazide (n=629) Incidence (discontinuation) | Placebo (n=207) Incidence (discontinuation) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Fatigue | 2.5 (0.3) | 4.0 (0.5) | 1.0 (0.0) |
@@ -55,15 +55,15 @@ The following table lists those adverse experiences which occurred in greater th
 
 |  | Controlled Trials |  |
 | --- | --- | --- |
-| Lisinopril (n=407)Incidence(discontinuation)12 weeks | Placebo (n=155)Incidence(discontinuation)12 weeks |  |
+|  | Lisinopril (n=407) Incidence (discontinuation) 12 weeks | Placebo (n=155) Incidence (discontinuation) 12 weeks |
 | Body as a Whole |  |  |
-| Chest PainAbdominal Pain | 3.4 (0.2)2.2 (0.7) | 1.3 (0.0)1.9 (0.0) |
+| Chest Pain Abdominal Pain | 3.4 (0.2) 2.2 (0.7) | 1.3 (0.0) 1.9 (0.0) |
 | Cardiovascular |  |  |
 | Hypotension | 4.4 (1.7) | 0.6 (0.6) |
 | Digestive |  |  |
 | Diarrhea | 3.7 (0.5) | 1.9 (0.0) |
 | Nervous/Psychiatric |  |  |
-| DizzinessHeadache | 11.8 (1.2)4.4 (0.2) | 4.5 (1.3)3.9 (0.0) |
+| Dizziness Headache | 11.8 (1.2) 4.4 (0.2) | 4.5 (1.3) 3.9 (0.0) |
 | Respiratory |  |  |
 | Upper Respiratory Infection | 1.5 (0.0) | 1.3 (0.0) |
 | Skin |  |  |
@@ -76,7 +76,7 @@ Worsening of heart failure, anorexia, increased salivation, muscle cramps, back 
 In the two-dose ATLAS trial in heart failure patients, withdrawals due to adverse events were not different between the low and high groups, either in total number of discontinuation (17-18%) or in rare specific events (<1%).
 The following adverse events, mostly related to ACE inhibition, were reported more commonly in the high dose group:
 
-| % of patients Events | High Dose(N=1568) | Low dose(N=1596) |
+| % of patients Events | High Dose (N=1568) | Low dose (N=1596) |
 | --- | --- | --- |
 | Dizziness | 18.9 | 12.1 |
 | Hypotension | 10.8 | 6.7 |
@@ -91,7 +91,7 @@ In the GISSI-3 trial, in patients treated with lisinopril for six weeks followin
 
 Patients treated with lisinopril had a significantly higher incidence of hypotension and renal dysfunction compared with patients not taking lisinopril.
 
-In the GISSI-3 trial, hypotension (9.7%), renal dysfunction (2.0%), cough (0.5%), post infarction angina (0.3%), skin rash and generalized edema (0.01%), and angioedema (0.01%) resulted in withdrawal of treatment.
+In the GISSI-3 trial, hypotension (9.7%), renal dysfunction (2%), cough (0.5%), post infarction angina (0.3%), skin rash and generalized edema (0.01%), and angioedema (0.01%) resulted in withdrawal of treatment.
 In elderly patients treated with lisinopril, discontinuation due to renal dysfunction was 4.2%.
 
 Other clinical adverse experiences occurring in 0.3% to 1.0% of patients with hypertension or heart failure treated with lisinopril in controlled clinical trials and rarer, serious, possibly drug-related events reported in uncontrolled studies or marketing experience are listed below, and within each category are in order of decreasing severity:
@@ -118,9 +118,9 @@ Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, periphera
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
 
 Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma.
-Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson Syndrome; causal relationship has not been established.
+Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson syndrome; causal relationship has not been established.
 
-Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances, olfactory disturbance.
+Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances.
 
 Urogenital System: Acute renal failure, oliguria, anuria, uremia, progressive azotemia, renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION), pyelonephritis, dysuria, urinary tract infection, breast pain.
 
@@ -129,8 +129,7 @@ Rash, photosensitivity or other dermatological manifestations may occur alone or
 
 Angioedema: Angioedema has been reported in patients receiving lisinopril (0.1%) with an incidence higher in Black than in non-Black patients.
 Angioedema associated with laryngeal edema may be fatal.
-If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with lisinopril should be discontinued and appropriate therapy instituted immediately.
-(See WARNINGS).
+If angioedema of the face, extremities, lips, tongue, glottis and/or larynx occurs, treatment with lisinopril should be discontinued and appropriate therapy instituted immediately (See WARNINGS).
 
 In rare cases, intestinal angioedema has been reported in post marketing experience.
 
@@ -138,22 +137,21 @@ Hypotension: In hypertensive patients, hypotension occurred in 1.2% and syncope 
 Hypotension or syncope was a cause of discontinuation of therapy in 0.5% of hypertensive patients.
 In patients with heart failure, hypotension occurred in 5.3% and syncope occurred in 1.8% of patients.
 These adverse experiences were possibly dose-related (see above data from ATLAS Trial) and caused discontinuation of therapy in 1.8% of these patients in the symptomatic trials.
-In patients treated with lisinopril for six weeks after acute myocardial infarction, hypotension (systolic blood pressure ≤100 mmHg) resulted in discontinuation of therapy in 9.7% of the patients.
+In patients treated with lisinopril for six weeks after acute myocardial infarction, hypotension (systolic blood pressure (100 mmHg) resulted in discontinuation of therapy in 9.7% of the patients.
 (See WARNINGS).
 
 Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
 
-Cough: See PRECAUTIONS, Cough.
+Cough: See PRECAUTIONS, Cough
 
 Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 
-## Clinical Laboratory Test Findings
+## CLINICAL LABORATORY TEST FINDINGS
 
 Serum Electrolytes: Hyperkalemia (See PRECAUTIONS), hyponatremia.
 
 Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with essential hypertension treated with lisinopril alone.
-Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis.
-(See PRECAUTIONS).
+Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis (See PRECAUTIONS).
 Reversible minor increases in blood urea nitrogen and serum creatinine were observed in approximately 11.6% of patients with heart failure on concomitant diuretic therapy.
 Frequently, these abnormalities resolved when the dosage of the diuretic was decreased.
 
@@ -161,8 +159,7 @@ Hemoglobin and Hematocrit: Small decreases in hemoglobin and hematocrit (mean de
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
 Hemolytic anemia has been reported; a causal relationship to lisinopril cannot be excluded.
 
-Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred.
-(See WARNINGS, Hepatic Failure).
+Liver Function Tests: Rarely, elevations of liver enzymes and/or serum bilirubin have occurred (See WARNINGS, Hepatic Failure).
 
 In hypertensive patients, 2.0% discontinued therapy due to laboratory adverse experiences, principally elevations in blood urea nitrogen (0.6%), serum creatinine (0.5%) and serum potassium (0.4%).
 
