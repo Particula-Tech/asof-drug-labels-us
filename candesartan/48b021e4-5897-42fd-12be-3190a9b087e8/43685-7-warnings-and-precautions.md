@@ -50,6 +50,15 @@ A transient hypotensive response is not a contraindication to further treatment 
 
 ### Hydrochlorothiazide
 
+#### Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 #### Impaired Hepatic Function
 
 Thiazide diuretics should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
@@ -166,6 +175,12 @@ A patient receiving ATACAND HCT should be told not to use potassium supplements 
 
 No significant drug interactions have been reported in studies of candesartan cilexetil given with other drugs such as glyburide, nifedipine, digoxin, warfarin, hydrochlorothiazide, and oral contraceptives in healthy volunteers.
 Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving candesartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Lithium − Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors, and with some angiotensin II receptor antagonists.
 An increase in serum lithium concentration has been reported during concomitant administration of lithium with candesartan cilexetil, so careful monitoring of serum lithium levels is recommended during concomitant use.
