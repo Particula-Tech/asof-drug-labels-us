@@ -1,28 +1,40 @@
 # HOW SUPPLIED
 
-Bumetanide Tablets, USP are supplied in bottles of 100 and 500 as:
+Bumetanide Tablets USP, for oral administration, are available as:
 
-0.5 mg tablets, green-round, bisected; imprinted E 128
+0.5 mg: Green, round, biconvex, bisected and debossed “E” above and “128” below the bisect on one side and plain on the reverse side and supplied as:
 
-1 mg tablets, yellow-round, bisected; imprinted E 129
+NDC 0185-0128-01 bottles of 100
 
-2 mg tablets, beige to light brown-round, bisected; imprinted E 130
+NDC 0185-0128-05 bottles of 500
 
-## Storage
+1 mg: Yellow, round, biconvex, bisected and debossed “E” above and “129” below the bisect on one side and plain on the reverse side and supplied as:
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+NDC 0185-0129-01 bottles of 100
+
+NDC 0185-0129-05 bottles of 500
+
+2 mg: Beige to light brown, round, biconvex, bisected and debossed “E” above and “130” below the bisect on one side and plain on the reverse side and supplied as:
+
+NDC 0185-0130-01 bottles of 100
+
+NDC 0185-0130-05 bottles of 500
+
+Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense contents in a tight, light-resistant container as defined in the USP with a child-resistant closure, as required.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Sandoz Inc.
 
 Princeton, NJ 08540
 
-Rev.
-03/06
-
-MF0128REV03/06
-
 OS7071
+
+Rev.
+04/11
+
+MF0128REV04/11
 
 MG # 16922
