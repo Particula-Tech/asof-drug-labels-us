@@ -6,14 +6,10 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 Trademark under license from: Boehringer Ingelheim International GmbH
 
-U.S. Patent Nos. 4,886,812; 6,001,861; and 6,194,445.
+©2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-©2009, Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Revised: April 2011
 
-Rev: April 2009
+OT1338MC292011 10003128/10
 
-OT1317PC2409 2001/05
-
-OT1338H 10003128/08
-
-IT1322G 10003129/07
+IT1322L 10003129/09

@@ -185,7 +185,7 @@ Other events reported by 2% or more of RLS patients treated with Mirapex® (pram
 
 Table 6 summarizes data for adverse events that appeared to be dose related in the 12-week fixed dose study.
 
-Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
+Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥ 5% of all Patients in the Treatment Phase)
 
 | Body System/ Adverse Event | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (n=86) % |
 | --- | --- | --- | --- | --- |
@@ -274,4 +274,6 @@ Post-Marketing Experience
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of MIRAPEX tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA dictionary: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+Similar types of events were grouped into a smaller number of standardized categories using the MedDRA dictionary: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+
+In a pharmacoepidemiological study, pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole.

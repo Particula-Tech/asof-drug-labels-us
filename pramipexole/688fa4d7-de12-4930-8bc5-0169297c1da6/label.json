@@ -6,14 +6,11 @@
   "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0101-90",
-    "0597-0183-21",
     "0597-0183-65",
     "0597-0183-90",
-    "0597-0184-21",
     "0597-0184-61",
     "0597-0184-65",
     "0597-0184-90",
-    "0597-0185-21",
     "0597-0185-61",
     "0597-0185-65",
     "0597-0185-90",
@@ -26,7 +23,7 @@
     {
       "form": "TABLET",
       "generic": "pramipexole dihydrochloride",
-      "name": "Mirapex"
+      "name": "MIRAPEX"
     }
   ],
   "setid": "688fa4d7-de12-4930-8bc5-0169297c1da6",
