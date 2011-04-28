@@ -6,11 +6,11 @@ Teratogenic Effects.
 Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women.
 ACTEMRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-An embryo-fetal developmental toxicity study was performed in which pregnant cynomolgus monkeys were treated intravenously with tocilizumab (daily doses of 2, 10, or 50 mg/kg from gestation day 20-50) during organogenesis.
-Although there was no evidence for a teratogenic/dysmorphogenic effect at any dose, tocilizumab produced an increase in the incidence of abortion/embryo-fetal death at 10 mg/kg and 50 mg/kg doses (1.25 and 6.25 times the human dose of 8 mg/kg every 4 weeks based on a mg/kg comparison).
+An embryo-fetal developmental toxicity study was performed in which pregnant cynomolgus monkeys were treated intravenously with tocilizumab (daily doses of 2, 10, or 50 mg per kg from gestation day 20-50) during organogenesis.
+Although there was no evidence for a teratogenic/dysmorphogenic effect at any dose, tocilizumab produced an increase in the incidence of abortion/embryo-fetal death at 10 mg per kg and 50 mg per kg doses (1.25 and 6.25 times the human dose of 8 mg per kg every 2 to 4 weeks based on a mg per kg comparison).
 
 Nonteratogenic Effects.
-Testing of a murine analogue of tocilizumab in mice did not yield any evidence of harm to offspring during the pre- and postnatal development phase when dosed at 50 mg/kg intravenously with treatment every three days from implantation until day 21 after delivery (weaning).
+Testing of a murine analogue of tocilizumab in mice did not yield any evidence of harm to offspring during the pre- and postnatal development phase when dosed at 50 mg per kg intravenously with treatment every three days from implantation until day 21 after delivery (weaning).
 There was no evidence for any functional impairment of the development and behavior, learning ability, immune competence and fertility of the offspring.
 
 Pregnancy Registry: To monitor the outcomes of pregnant women exposed to ACTEMRA, a pregnancy registry has been established.
@@ -23,7 +23,10 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of ACTEMRA in pediatric patients have not been established.
+Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than SJIA have not been established.
+Children under the age of two have not been studied.
+Testing of a murine analogue of tocilizumab did not exert toxicity in juvenile mice.
+In particular, there was no impairment of skeletal growth, immune function and sexual maturation.
 
 ## 8.5 Geriatric Use
 

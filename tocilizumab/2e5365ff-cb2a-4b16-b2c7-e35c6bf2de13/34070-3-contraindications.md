@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-None
+ACTEMRA should not be administered to patients with known hypersensitivity to ACTEMRA [see Warnings and Precautions (5.5)].
