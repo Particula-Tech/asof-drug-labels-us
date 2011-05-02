@@ -109,12 +109,12 @@ Standard ciprofloxacin powder should provide the following MIC values:
 
 | Organism |  | MIC (μg/mL) |  |  |
 | --- | --- | --- | --- | --- |
-| E. faecalis | ATCC 29212 | 0.25 – 2.0 |  |  |
+| E. faecalis | ATCC 29212 | 0.25 – 2 |  |  |
 | E. coli | ATCC 25922 | 0.004 – 0.015 |  |  |
 | H. influenzaeThis quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. | ATCC 49247 | 0.004 – 0.03 |  |  |
 | P. aeruginosa | ATCC 27853 | 0.25 – 1.0 |  |  |
 | S. aureus | ATCC 29213 | 0.12 – 0.5 |  |  |
-| C. jejuni C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5-5% lysed horse blood in a microaerophilic environment at 36-37°C for 48 hours and for 42°C at 24 hours2, respectively. | ATCC 33560 | 0.06 - 0.25 and 0.03- 0.12 |  |  |
+| C. jejuni C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5-5% lysed horse blood in a microaerophilic environment at 36-37°C for 48 hours and for 42°C at 24 hours2, respectively. | ATCC 33560 | 0.06 - 0.25 and 0.03 - 0.12 |  |  |
 | N. gonorrhoeae N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35-37°C for 20-24 hours3. | ATCC 49226 | 0.001 – 0.008 |  |  |
 
 ### Diffusion Techniques:
@@ -185,8 +185,7 @@ Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpo
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 x 105 spores (range 5-30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 μg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected Tmax (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 to 1.69 μg/mL.
-Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL6.
-Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
+Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 μg/mL.6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
 The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.7
 
 More than 9300 persons were recommended to complete a minimum of 60 days of antibiotic prophylaxis against possible inhalational exposure to B. anthracis during 2001.
@@ -200,12 +199,12 @@ Gastrointestinal adverse events (nausea, vomiting, diarrhea, or stomach pain), n
 This higher incidence, in the absence of a control group, could be explained by a reporting bias, concurrent medical conditions, other concomitant medications, emotional stress or other confounding factors, and/or a longer treatment period with ciprofloxacin.
 Because of these factors and limitations in the data collection, it is difficult to evaluate whether the reported symptoms were drug-related.
 
-Manufactured for:
+Distributed by:
 
-Cobalt Laboratories
+Watson Pharma, Inc.
 
-Bonita Springs, Florida, U.S.A., 34134
+Corona, CA 92880 USA
 
-Item Number: 102-834-04
+Item Number: 194741-1
 
-Date: May 2009
+Revised: March 2011

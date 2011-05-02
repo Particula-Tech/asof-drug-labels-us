@@ -12,6 +12,13 @@ Tendon rupture can occur during or after completion of therapy; cases occurring 
 Ciprofloxacin hydrochloride should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 
+## Exacerbation of Myasthenia Gravis:
+
+Fluoroquinolones, including ciprofloxacin hydrochloride, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid ciprofloxacin hydrochloride in patients with known history of myasthenia gravis.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Event Reports.)
+
 ## Pregnant Women:
 
 THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
@@ -39,7 +46,7 @@ Convulsions, increased intracranial pressure, and toxic psychosis have been repo
 Ciprofloxacin may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving ciprofloxacin, the drug should be discontinued and appropriate measures instituted.
-As with all quinolones, ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (e.g. severe cerebral arteriosclerosis, epilepsy), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g. certain drug therapy, renal dysfunction).
+As with all quinolones, ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
 (See PRECAUTIONS: General, Information for Patients, Drug Interactions and ADVERSE REACTIONS.)
 
 ## Theophylline:
@@ -68,7 +75,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
 ## Pseudomembranous Colitis:
 
@@ -119,7 +126,7 @@ Alteration of the dosage regimen is necessary for patients with impairment of re
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/ Post-Marketing Adverse Events).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events).
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 
@@ -131,6 +138,8 @@ Patients should be advised:
 
 - to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin hydrochloride treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- that fluoroquinolones like ciprofloxacin hydrochloride may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - that antibacterial drugs including ciprofloxacin hydrochloride tablets should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When ciprofloxacin hydrochloride tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -246,7 +255,7 @@ The malformation rates among live-born babies exposed to ciprofloxacin and to fl
 No specific patterns of congenital abnormalities were found.
 The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
 
-No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.8,9 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
+No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.8,9 However, these small post-marketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS).
 
 Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.

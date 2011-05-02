@@ -37,6 +37,9 @@ Tendon rupture or swelling of the tendon (tendinitis)
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like ciprofloxacin hydrochloride may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 - See the section “What are the possible side effects of ciprofloxacin hydrochloride tablets?” for more information about side effects.
 
 What are ciprofloxacin hydrochloride tablets?
@@ -70,6 +73,7 @@ See “What is the most important information I should know about ciprofloxacin 
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
@@ -99,7 +103,7 @@ Especially tell your healthcare provider if you take:
 - theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
 - glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
   See “What are the possible side effects of ciprofloxacin hydrochloride tablets?”
-- phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Penytoin Sodium®, Phenytek®)
+- phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
 - products that contain caffeine
 - a medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of ciprofloxacin hydrochloride tablets?”
 - an anti-psychotic medicine
@@ -115,7 +119,7 @@ Especially tell your healthcare provider if you take:
   Take ciprofloxacin hydrochloride tablets either 2 hours before or 6 hours after taking these products:
   - an antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc
   - sucralfate (Carafate®)
-  - didanosine (Videx®, Videx® EC).
+  - didanosine (Videx®, Videx EC®).
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
@@ -233,7 +237,7 @@ Other serious side effects of ciprofloxacin hydrochloride tablets include:
   Your antibiotic medicine may need to be changed.
 - Sensitivity to sunlight (photosensitivity)
 - See “What should I avoid while taking ciprofloxacin hydrochloride tablets?”
-- Joint Problems
+- Joint problems
 - Increased chance of problems with joints and tissues around joints in children under 18 years old.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin hydrochloride tablets.
 
@@ -259,7 +263,7 @@ How should I store ciprofloxacin hydrochloride tablets?
 
 Keep ciprofloxacin hydrochloride tablets and all medicines out of the reach of children.
 
-General Information about ciprofloxacin hydrochloride tablets
+General information about ciprofloxacin hydrochloride tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ciprofloxacin hydrochloride tablets for a condition for which it is not prescribed.
@@ -269,7 +273,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about ciprofloxacin hydrochloride tablets.
 If you would like more information about ciprofloxacin hydrochloride tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ciprofloxacin hydrochloride tablets that is written for healthcare professionals.
-For more information call 1-866-393-2844.
+For more information call 1-800-272-5525.
 
 What are the ingredients in ciprofloxacin hydrochloride tablets?
 
@@ -279,12 +283,12 @@ What are the ingredients in ciprofloxacin hydrochloride tablets?
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for:
+Distributed by:
 
-Cobalt Laboratories
+Watson Pharma, Inc.
 
-Bonita Springs, Florida, U.S.A., 34134
+Corona, CA 92880 USA
 
-Item Number: 104-703-02
+Item Number: 194742-1
 
-Date: May 2009
+Revised: March 2011

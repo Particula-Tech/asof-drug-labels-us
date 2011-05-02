@@ -6,7 +6,7 @@ Ciprofloxacin given as an oral tablet is rapidly and well absorbed from the gast
 The absolute bioavailability is approximately 70% with no substantial loss by first pass metabolism.
 Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range.
 
-| Dose (mg) | Maximum Serum Concentration (μg/mL) | Area Under Curve (AUC) (μg•hr/mL) |
+| Dose (mg) | Maximum Serum Concentration (μg/mL) | Area Under Curve (AUC) |
 | --- | --- | --- |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |

@@ -10,5 +10,5 @@ Its empirical formula is C17H18FN3O3 and its molecular weight is 331.4.
 It is a faintly yellowish to light yellow crystalline substance and its chemical structure is as follows:
 
 Ciprofloxacin film-coated tablets are available in 100 mg, 250 mg, 500 mg and 750 mg (ciprofloxacin equivalent) strengths.
-Ciprofloxacin tablets USP are white to off-white.
+Ciprofloxacin tablets are white to off-white.
 The inactive ingredients are cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide, polyethylene glycol and purified water.

@@ -34,7 +34,7 @@ ADULT DOSAGE GUIDELINES
 | * used in conjunction with metronidazole |  |  |  |  |
 | † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |  |
 | ** Drug administration should begin as soon as possible after suspected or confirmed exposure. |  |  |  |  |
-| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION). |  |  |  |  |
+| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION). |  |  |  |  |
 
 ## Conversion of I.V. to Oral Dosing in Adults:
 
