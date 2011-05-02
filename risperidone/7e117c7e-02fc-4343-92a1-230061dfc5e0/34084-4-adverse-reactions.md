@@ -323,12 +323,14 @@ Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients Treated for
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 11 | 8 |
 
-## 6.4 Other Adverse Reactions Observed During the Premarketing Evaluation of Risperidone
+In another study with patients treated for irritability associated with autistic disorder, headache (6%), epistaxis (6%) and pyrexia (6%) were also observed in RISPERDAL®-treated pediatric subjects.
+
+## 6.4 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
 The following adverse reactions occurred in < 1% of the adult patients and in < 5% of the pediatric patients treated with RISPERDAL® in the above double-blind, placebo-controlled clinical trial data sets.
 In addition, the following also includes adverse reactions reported in RISPERDAL®-treated patients who participated in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar mania studies in pediatric patients with psychiatric disorders other than schizophrenia, bipolar mania, or autistic disorder, and studies in elderly patients with dementia.
 
-Blood and Lymphatic System Disorders: granulocytopenia
+Blood and Lymphatic System Disorders: granulocytopenia, neutropenia
 
 Cardiac Disorders: sinus bradycardia, sinus tachycardia, atrioventricular block first degree, bundle branch block left, bundle branch block right, atrioventricular block
 
@@ -352,7 +354,7 @@ Metabolism and Nutrition Disorders: polydipsia, anorexia
 
 Musculoskeletal and Connective Tissue Disorders: joint swelling, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
 
-Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypersomnia, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
+Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypersomnia, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
 Psychiatric Disorders: agitation, blunted affect, confusional state, middle insomnia, sleep disorder, listlessness, libido decreased, anorgasmia
 
@@ -369,8 +371,6 @@ Vascular Disorders: flushing
 Additional Adverse Reactions Reported with RISPERDAL® CONSTA®
 
 The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of RISPERDAL® CONSTA®, regardless of frequency of occurrence:
-
-Blood and Lymphatic Disorders: neutropenia
 
 Cardiac Disorders: bradycardia
 
@@ -508,6 +508,6 @@ In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), th
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 
 Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pituitary adenoma, pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.
