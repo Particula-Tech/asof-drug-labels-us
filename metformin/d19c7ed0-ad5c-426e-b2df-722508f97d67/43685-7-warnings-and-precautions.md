@@ -58,6 +58,7 @@ Thus, patients with serum creatinine levels above the upper limit of normal for 
 In the elderly, JANUMET should be carefully titrated to establish the minimum dose for adequate glycemic effect, because aging can be associated with reduced renal function.
 [See Warnings and Precautions (5.1); Use in Specific Populations (8.5).]
 
+There have been postmarketing reports of worsening renal function, including acute renal failure, sometimes requiring dialysis.
 Before initiation of therapy with JANUMET and at least annually thereafter, renal function should be assessed and verified as normal.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET discontinued if evidence of renal impairment is present.
 

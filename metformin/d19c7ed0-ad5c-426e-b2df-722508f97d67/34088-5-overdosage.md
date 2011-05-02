@@ -4,7 +4,7 @@ Sitagliptin
 
 During controlled clinical trials in healthy subjects, single doses of up to 800 mg sitagliptin were administered.
 Maximal mean increases in QTc of 8.0 msec were observed in one study at a dose of 800 mg sitagliptin, a mean effect that is not considered clinically important [see Clinical Pharmacology (12.2)].
-There is no experience with doses above 800 mg in humans.
+There is no experience with doses above 800 mg in clinical studies.
 In Phase I multiple-dose studies, there were no dose-related clinical adverse reactions observed with sitagliptin with doses of up to 400 mg per day for periods of up to 28 days.
 
 In the event of an overdose, it is reasonable to employ the usual supportive measures, e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring (including obtaining an electrocardiogram), and institute supportive therapy as indicated by the patient's clinical status.

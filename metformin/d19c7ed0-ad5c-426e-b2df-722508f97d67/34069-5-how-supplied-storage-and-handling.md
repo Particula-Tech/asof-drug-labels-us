@@ -26,7 +26,7 @@ Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F), [See 
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9984501
+9984503
 
 US Patent No.: 6,699,871
 

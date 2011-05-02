@@ -143,7 +143,7 @@ How should I take JANUMET?
 
 What are the possible side effects of JANUMET?
 
-Serious side effects have occurred in people taking JANUMET.
+Serious side effects have happened in people taking JANUMET.
 
 - See "What is the most important information I should know about JANUMET?".
 - Low blood sugar (hypoglycemia).
@@ -158,6 +158,7 @@ Serious side effects have occurred in people taking JANUMET.
   If you have any symptoms of a serious allergic reaction, stop taking JANUMET and call your doctor right away.
   See "Who should not take JANUMET?".
   Your doctor may give you a medicine for your allergic reaction and prescribe a different medicine for your diabetes.
+- Kidney problems, sometimes requiring dialysis.
 
 The most common side effects of JANUMET include:
 
@@ -227,10 +228,12 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised September 2010
+Revised April 2011
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9984501
+9984503
+
+US Patent No.: 6,699,871
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
