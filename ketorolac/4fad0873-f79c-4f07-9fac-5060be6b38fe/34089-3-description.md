@@ -4,15 +4,13 @@ ACULAR LS® (ketorolac tromethamine ophthalmic solution) 0.4% is a member of the
 
 Structural and Molecular Formula:
 
-## Chemical Name:
+Chemical Name: (±)-5-Benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid, compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol (1:1)
 
-(±)-5-Benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid, compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol (1:1)
-
-## Contains
+## Contains:
 
 Active: ketorolac tromethamine 0.4%.
 Preservative: benzalkonium chloride 0.006%.
-Inactives: sodium chloride; edetate disodium 0.015%; octoxynol 40; purified water; and hydrochloric acid and/or sodium hydroxide to adjust the pH.
+Inactives: sodium chloride; edetate disodium 0.015%; octoxynol 40; purified water; and hydrochloric acid and/or sodium hydroxide to adjust pH.
 
 ACULAR LS® ophthalmic solution is supplied as a sterile isotonic aqueous 0.4% solution, with a pH of approximately 7.4.
 ACULAR LS® ophthalmic solution is a racemic mixture of R-(+) and S-(-)- ketorolac tromethamine.

@@ -12,7 +12,7 @@ There have been reports that ocularly applied nonsteroidal anti-inflammatory dru
 
 All topical nonsteroidal anti-inflammatory drugs (NSAIDs), including ketorolac tromethamine ophthalmic solution, may slow or delay healing.
 Topical corticosteroids are also known to slow or delay healing.
-Concomitant use of topical NSAIDS and topical steroids may increase the potential for healing problems.
+Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems.
 
 Use of topical NSAIDs may result in keratitis.
 In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation.
@@ -26,7 +26,7 @@ Postmarketing experience with topical NSAIDs also suggests that use more than 24
 
 It is recommended that ACULAR LS® ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
 
-## Information for Patients
+## Information for Patients:
 
 ACULAR LS® ophthalmic solution should not be administered while wearing contact lenses.
 
@@ -49,7 +49,7 @@ When administered to rats after Day 17 of gestation at oral doses up to 46 times
 There are no adequate and well-controlled studies in pregnant women.
 ACULAR LS® ophthalmic solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ACULAR LS® ophthalmic solution during late pregnancy should be avoided.
 
