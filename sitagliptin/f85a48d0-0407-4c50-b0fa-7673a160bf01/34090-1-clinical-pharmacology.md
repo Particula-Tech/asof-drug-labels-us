@@ -156,7 +156,7 @@ Clinically meaningful interactions would not be expected with other sulfonylurea
 Simvastatin: Single-dose pharmacokinetics of simvastatin, a CYP3A4 substrate, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin.
 Therefore, sitagliptin is not an inhibitor of CYP3A4-mediated metabolism.
 
-Thiazolidinediones: Single-dose pharmacokinetics of rosiglitazone, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin, indicating that JANUVIA is not an inhibitor of CYP2C8-mediated metabolism.
+Thiazolidinediones: Single-dose pharmacokinetics of rosiglitazone was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin, indicating that JANUVIA is not an inhibitor of CYP2C8-mediated metabolism.
 
 Warfarin: Multiple daily doses of sitagliptin did not meaningfully alter the pharmacokinetics, as assessed by measurement of S(-) or R(+) warfarin enantiomers, or pharmacodynamics (as assessed by measurement of prothrombin INR) of a single dose of warfarin.
 Because S(-) warfarin is primarily metabolized by CYP2C9, these data also support the conclusion that sitagliptin is not a CYP2C9 inhibitor.

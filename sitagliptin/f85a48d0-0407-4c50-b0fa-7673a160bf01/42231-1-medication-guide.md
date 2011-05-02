@@ -1,4 +1,4 @@
-Medication Guide JANUVIA ® (jah-NEW-vee-ah) (sitagliptin) Tablets
+Medication Guide JANUVIA® (jah-NEW-vee-ah) (sitagliptin) Tablets
 
 Read this Medication Guide carefully before you start taking JANUVIA and each time you get a refill.
 There may be new information.
@@ -19,6 +19,7 @@ Tell your doctor if you have ever had
 - stones in your gallbladder (gallstones)
 - a history of alcoholism
 - high blood triglyceride levels
+- kidney problems
 
 Stop taking JANUVIA and call your doctor right away if you have pain in your stomach area (abdomen) that is severe and will not go away.
 The pain may be felt going from your abdomen through to your back.
@@ -39,8 +40,7 @@ Do not take JANUVIA if:
 
 - you are allergic to any of the ingredients in JANUVIA.
   See the end of this Medication Guide for a complete list of ingredients in JANUVIA.
-
-- Symptoms of a serious allergic reaction to JANUVIA may include:
+  Symptoms of a serious allergic reaction to JANUVIA may include:
   - rash
   - raised red patches on your skin (hives)
   - swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
@@ -52,7 +52,6 @@ Before you take JANUVIA, tell your doctor if you:
 - have or have had inflammation of your pancreas (pancreatitis).
 - have kidney problems.
 - have any other medical conditions.
-
 - are pregnant or plan to become pregnant.
   It is not known if JANUVIA will harm your unborn baby.
   If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
@@ -90,7 +89,7 @@ How should I take JANUVIA?
 
 What are the possible side effects of JANUVIA?
 
-Serious side effects have occurred in people taking JANUVIA.
+Serious side effects have happened in people taking JANUVIA.
 
 - See "What is the most important information I should know about JANUVIA?".
 - Low blood sugar (hypoglycemia).
@@ -105,6 +104,7 @@ Serious side effects have occurred in people taking JANUVIA.
   If you have any symptoms of a serious allergic reaction, stop taking JANUVIA and call your doctor right away.
   See “Who should not take JANUVIA?”.
   Your doctor may give you a medicine for your allergic reaction and prescribe a different medicine for your diabetes.
+- Kidney problems, sometimes requiring dialysis
 
 The most common side effects of JANUVIA include:
 
@@ -166,13 +166,15 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised September 2010
+Revised April 2011
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-9984402
+9984404
+
+US Patent No.: 6,699,871
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

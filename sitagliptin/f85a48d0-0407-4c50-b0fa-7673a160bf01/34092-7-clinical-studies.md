@@ -10,8 +10,8 @@ In patients with type 2 diabetes, treatment with JANUVIA produced clinically sig
 ## 14.1 Monotherapy
 
 A total of 1262 patients with type 2 diabetes participated in two double-blind, placebo-controlled studies, one of 18-week and another of 24-week duration, to evaluate the efficacy and safety of JANUVIA monotherapy.
-In both monotherapy studies, patients currently on an antihyperglycemic agent discontinued the agent, and underwent a diet, exercise, and drug wash-out period of about 7 weeks.
-Patients with inadequate glycemic control (A1C 7% to 10%) after the wash-out period were randomized after completing a 2-week single-blind placebo run-in period; patients not currently on antihyperglycemic agents (off therapy for at least 8 weeks) with inadequate glycemic control (A1C 7% to 10%) were randomized after completing the 2-week single-blind placebo run-in period.
+In both monotherapy studies, patients currently on an antihyperglycemic agent discontinued the agent, and underwent a diet, exercise, and drug washout period of about 7 weeks.
+Patients with inadequate glycemic control (A1C 7% to 10%) after the washout period were randomized after completing a 2-week single-blind placebo run-in period; patients not currently on antihyperglycemic agents (off therapy for at least 8 weeks) with inadequate glycemic control (A1C 7% to 10%) were randomized after completing the 2-week single-blind placebo run-in period.
 In the 18-week study, 521 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg, and in the 24-week study 741 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg.
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue, added on to placebo or JANUVIA.
 

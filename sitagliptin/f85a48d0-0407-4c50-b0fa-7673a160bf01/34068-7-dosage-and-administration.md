@@ -17,6 +17,7 @@ JANUVIA may be administered without regard to the timing of hemodialysis.
 Because there is a need for dosage adjustment based upon renal function, assessment of renal function is recommended prior to initiation of JANUVIA and periodically thereafter.
 Creatinine clearance can be estimated from serum creatinine using the Cockcroft-Gault formula.
 [See Clinical Pharmacology (12.3).]
+There have been postmarketing reports of worsening renal function in patients with renal insufficiency, some of whom were prescribed inappropriate doses of sitagliptin.
 
 ## 2.3 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 

@@ -40,8 +40,8 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy
 
-9984402
+9984404
 
 US Patent No.: 6,699,871
 
-1Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+1 Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

@@ -2,7 +2,7 @@
 
 During controlled clinical trials in healthy subjects, single doses of up to 800 mg JANUVIA were administered.
 Maximal mean increases in QTc of 8.0 msec were observed in one study at a dose of 800 mg JANUVIA, a mean effect that is not considered clinically important [see Clinical Pharmacology (12.2)].
-There is no experience with doses above 800 mg in humans.
+There is no experience with doses above 800 mg in clinical studies.
 In Phase I multiple-dose studies, there were no dose-related clinical adverse reactions observed with JANUVIA with doses of up to 600 mg per day for periods of up to 10 days and 400 mg per day for up to 28 days.
 
 In the event of an overdose, it is reasonable to employ the usual supportive measures, e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring (including obtaining an electrocardiogram), and institute supportive therapy as dictated by the patient's clinical status.
