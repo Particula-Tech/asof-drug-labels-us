@@ -11,7 +11,7 @@ In placebo-controlled clinical trials, discontinuation of therapy due to a clini
 
 In placebo-controlled clinical trials, the following adverse event experiences reported in at least 1% of patients treated with AVAPRO (n=1965) and at a higher incidence versus placebo (n=641), excluding those too general to be informative and those not reasonably associated with the use of drug because they were associated with the condition being treated or are very common in the treated population, include: diarrhea (3% vs 2%), dyspepsia/heartburn (2% vs 1%), and fatigue (4% vs 3%).
 
-The following adverse events occurred at an incidence of 1% or greater in patients treated with irbesartan, but were at least as frequent or more frequent in patients receiving placebo: abdominal pain, anxiety/nervousness, chest pain, dizziness, edema, headache, influenza, musculoskeletal pain, pharyngitis, nausea/vomiting, rash, rhinitis, sinus abnormality, tachycardia and urinary tract infection.
+The following adverse events occurred at an incidence of 1% or greater in patients treated with irbesartan, but were at least as frequent or more frequent in patients receiving placebo: abdominal pain, anxiety/nervousness, chest pain, dizziness, edema, headache, influenza, musculoskeletal pain, pharyngitis, nausea/vomiting, rash, rhinitis, sinus abnormality, tachycardia, and urinary tract infection.
 
 Irbesartan use was not associated with an increased incidence of dry cough, as is typically associated with ACE inhibitor use.
 In placebo-controlled studies, the incidence of cough in irbesartan-treated patients was 2.8% versus 2.7% in patients receiving placebo.

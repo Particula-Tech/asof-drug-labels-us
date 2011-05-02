@@ -73,6 +73,14 @@ Based on in vitro data, no interaction would be expected with drugs whose metabo
 In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin.
 The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide.
 
+### Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving irbesartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was observed when irbesartan was administered at doses of up to 500/1000 mg/kg/day (males/females, respectively) in rats and 1000 mg/kg/day in mice for up to 2 years.
