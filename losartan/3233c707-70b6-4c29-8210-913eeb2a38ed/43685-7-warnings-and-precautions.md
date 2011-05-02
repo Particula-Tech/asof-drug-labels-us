@@ -61,6 +61,7 @@ Similar effects have been reported with losartan potassium tablets; in some pati
 ## Electrolyte Imbalance:
 
 Electrolyte imbalances are common in patients with renal impairment, with or without diabetes, and should be addressed.
+In a clinical study conducted in type 2 diabetic patients with proteinuria, the incidence of hyperkalemia was higher in the group treated with losartan potassium as compared to the placebo group; however, few patients discontinued therapy due to hyperkalemia (see ADVERSE REACTIONS).
 
 ## Information for Patients:
 
@@ -131,6 +132,7 @@ There are no data on the effect of losartan potassium tablets on blood pressure 
 ## Geriatric Use:
 
 Of the total number of patients receiving losartan potassium tablets in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
+In a controlled clinical study for renal protection in type 2 diabetic patients with proteinuria, 248 patients (33%) were 65 years and over.
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

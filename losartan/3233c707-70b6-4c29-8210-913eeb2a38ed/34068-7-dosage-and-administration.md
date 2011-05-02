@@ -38,3 +38,9 @@ Shake the suspension prior to each use and return promptly to the refrigerator.
 
 The usual starting dose is 50 mg of losartan potassium tablets once daily.
 Hydrochlorothiazide 12.5 mg daily should be added and/or the dose of losartan potassium tablets should be increased to 100 mg once daily followed by an increase in hydrochlorothiazide to 25 mg once daily based on blood pressure response (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects,Reduction in the Risk of Stroke).
+
+## Nephropathy in Type 2 Diabetic Patients
+
+The usual starting dose is 50 mg once daily.
+The dose should be increased to 100 mg once daily based on blood pressure response (see CLINICAL PHARMACOLOGY, Pharmacodynamics and Clinical Effects, Nephropathy in Type 2 Diabetic Patients).
+Losartan potassium may be administered with insulin and other commonly used hypoglycemic agents (e.g., sulfonylureas, glitazones and glucosidase inhibitors).

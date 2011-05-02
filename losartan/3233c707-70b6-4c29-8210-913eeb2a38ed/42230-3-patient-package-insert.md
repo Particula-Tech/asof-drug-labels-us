@@ -19,6 +19,7 @@ It is used:
 - alone or with other blood pressure medicines to lower high blood pressure (hypertension).
 - to lower the chance of stroke in patients with high blood pressure and a heart problem called left ventricular hypertrophy.
   Losartan potassium tablets may not help Black patients with this problem.
+- to slow the worsening of diabetic kidney disease (nephropathy) in patients with type 2 diabetes who have or had high blood pressure.
 
 Losartan potassium tablets have not been studied in children less than 6 years old or in children with certain kidney problems.
 
@@ -33,9 +34,13 @@ Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left ch
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
 
+Type 2 Diabetes with Nephropathy.
+Type 2 diabetes is a type of diabetes that happens mainly in adults.
+If you have diabetic nephropathy it means that your kidneys do not work properly because of damage from the diabetes.
+
 ## Who should not take losartan potassium tablets?
 
-Do not take losartan potassium tablets if you are allergic to any of the ingredients of losartan potassium tablets.
+• Do not take losartan potassium tablets if you are allergic to any of the ingredients of losartan potassium tablets.
 See the end of this leaflet for a complete list of ingredients in losartan potassium tablets.
 
 ## What should I tell my doctor before taking losartan potassium tablets?
@@ -51,13 +56,14 @@ Tell your doctor about all of your medical conditions including if you:
 - have kidney problems
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
 Losartan potassium tablets and certain other medicines may interact with each other.
 Especially tell your doctor if you are taking:
 
 - potassium supplements
 - salt substitutes containing potassium
 - water pills (diuretics)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs or (NSAIDS), including COX-2 inhibitors.
+- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDS), including COX-2 inhibitors.
 
 ## How should I take losartan potassium tablets?
 
@@ -74,13 +80,13 @@ Especially tell your doctor if you are taking:
 Losartan potassium tablets may cause the following side effects that may be serious:
 
 - Injury or death of unborn babies (see "What is the most important information I should know about losartan potassium tablets?").
+- Allergic reaction.
+  Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
+  Get emergency medical help right away and stop taking losartan potassium tablets.
 - Low blood pressure (hypotension).
   Low blood pressure may cause you to feel faint or dizzy.
   Lie down if you feel faint or dizzy.
   Call your doctor right away.
-- Allergic reaction.
-  Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
-  Get emergency medical help right away and stop taking losartan potassium tablets.
 - For people who already have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 
@@ -90,6 +96,15 @@ The most common side effects of losartan potassium tablets in people with high b
 - dizziness
 - stuffy nose
 - back pain
+
+The most common side effects of losartan potassium tablets in people with type 2 diabetes with diabetic kidney disease are:
+
+- diarrhea
+- tiredness
+- low blood sugar
+- chest pain
+- high blood potassium
+- low blood pressure
 
 Tell your doctor if you get any side effect that bothers you or that won’t go away.
 

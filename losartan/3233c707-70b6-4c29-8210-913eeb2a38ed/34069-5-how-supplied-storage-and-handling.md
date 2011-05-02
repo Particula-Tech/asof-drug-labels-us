@@ -36,8 +36,6 @@ NDC 68382-137-01 in bottle of 100 tablets
 
 NDC 68382-137-10 in bottle of 1,000 tablets
 
-NDC 68382-137-40 in bottle of 5,000 tablets
-
 ## Storage:
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

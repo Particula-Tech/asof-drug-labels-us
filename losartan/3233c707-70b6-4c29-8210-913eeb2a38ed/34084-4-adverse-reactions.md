@@ -77,6 +77,55 @@ No relevant differences between the adverse experience profile for pediatric pat
 
 In the LIFE study, adverse events with losartan potassium tablets were similar to those reported previously for patients with hypertension.
 
+## Nephropathy in Type 2 Diabetic Patients
+
+In the RENAAL study involving 1513 patients treated with losartan potassium or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
+Losartan potassium was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan potassium, 24% for placebo).
+The adverse experiences, regardless of drug relationship, reported with an incidence of > 4% of patients treated with losartan potassium and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
+
+|  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
+| --- | --- | --- |
+| Body as a Whole |  |  |
+| Asthenia/Fatigue | 14 | 10 |
+| Chest Pain | 12 | 8 |
+| Fever | 4 | 3 |
+| Infection | 5 | 4 |
+| Influenza-like disease | 10 | 9 |
+| Trauma | 4 | 3 |
+| Cardiovascular |  |  |
+| Hypotension | 7 | 3 |
+| Orthostatic hypotension | 4 | 1 |
+| Digestive |  |  |
+| Diarrhea | 15 | 10 |
+| Dyspepsia | 4 | 3 |
+| Gastritis | 5 | 4 |
+| Endocrine |  |  |
+| Diabetic neuropathy | 4 | 3 |
+| Diabetic vascular disease | 10 | 9 |
+| Eyes, Ears, Nose and Throat |  |  |
+| Cataract | 7 | 5 |
+| Sinusitis | 6 | 5 |
+| Hemic |  |  |
+| Anemia | 14 | 11 |
+| Metabolic and Nutrition |  |  |
+| Hyperkalemia | 7 | 3 |
+| Hypoglycemia | 14 | 10 |
+| Weight gain | 4 | 3 |
+| Musculoskeletal |  |  |
+| Back pain | 12 | 10 |
+| Leg pain | 5 | 4 |
+| Knee pain | 5 | 4 |
+| Muscular weakness | 7 | 4 |
+| Nervous System |  |  |
+| Hypesthesia | 5 | 4 |
+| Respiratory |  |  |
+| Bronchitis | 10 | 9 |
+| Cough | 11 | 10 |
+| Skin |  |  |
+| Cellulitis | 7 | 6 |
+| Urogenital |  |  |
+| Urinary tract infection | 16 | 13 |
+
 ## Post-Marketing Experience:
 
 The following additional adverse reactions have been reported in post-marketing experience:
