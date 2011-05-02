@@ -4,15 +4,9 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Distributed by:
+Rev.: 04/11
 
-Zydus Pharmaceuticals USA Inc.
-
-Princeton, NJ 08540
-
-Rev.: 04/10
-
-Revision Date.: 04/13/2010
+Revision Date.: 04/29/2011
 
 SPL PATIENT PACKAGE INSERT
 
@@ -160,12 +154,6 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Distributed by:
+Rev.: 04/11
 
-Zydus Pharmaceuticals USA Inc.
-
-Princeton, NJ 08540
-
-Rev.: 04/10
-
-Rivision Date:04/13/2010
+Rivision Date: 04/29/2011
