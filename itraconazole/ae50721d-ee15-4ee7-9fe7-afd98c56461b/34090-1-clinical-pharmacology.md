@@ -47,7 +47,7 @@ Itraconazole total plasma clearance averaged 381 ± 95 mL/minute following intra
 
 ## Special Populations
 
-### Pediatrics
+Pediatrics
 
 The pharmacokinetics of SPORANOX® Oral Solution were studied in 26 pediatric patients requiring systemic antifungal therapy.
 Patients were stratified by age: 6 months to 2 years (n=8), 2 to 5 years (n=7) and 5 to 12 years (n=11), and received itraconazole oral solution 5 mg/kg once daily for 14 days.
@@ -60,7 +60,7 @@ Pharmacokinetic parameters at steady-state (Day 14) were not significantly diffe
 | AUC0–24h (ng∙h/mL) | 7706.7 ± 5245.2 | 13356.4 ± 8942.4 |
 | t1/2 (hours) | 35.8 ± 35.6 | 17.7 ± 13.0 |
 
-### Renal Insufficiency
+Renal Insufficiency
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg dose of itraconazole (four 50-mg capsules) was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
@@ -70,7 +70,7 @@ Plasma concentration-versus-time profiles showed wide intersubject variation in 
 Caution should be exercised when the drug is administered in this patient population.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Insufficiency
+Hepatic Insufficiency
 
 Itraconazole is predominantly metabolized in the liver.
 Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
@@ -81,14 +81,14 @@ The prolonged elimination half-life of itraconazole observed in the single oral 
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
-### Decreased Cardiac Contractility
+Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
-In a healthy volunteer study of SPORANOX® Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of SPORANOX® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX® Oral Solution administration.
 (See WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
-### Cystic Fibrosis
+Cystic Fibrosis
 
 Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.

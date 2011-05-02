@@ -31,7 +31,7 @@ If signs or symptoms of CHF appear during administration of SPORANOX® Oral Solu
 
 Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
-In a healthy volunteer study of SPORANOX® Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
 SPORANOX® has been associated with reports of congestive heart failure.
 In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
@@ -52,8 +52,6 @@ If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, 
 
 SPORANOX® Oral Solution as treatment for oropharyngeal and/or esophageal candidiasis was not investigated in severely neutropenic patients.
 Due to its pharmacokinetic properties, SPORANOX® Oral Solution is not recommended for initiation of treatment in patients at immediate risk of systemic candidiasis.
-
-In febrile neutropenic subjects in whom the likelihood of systemic candidiasis is considered high, therapy should be initiated with Sporanox Intravenous formulation.
 
 # PRECAUTIONS
 
@@ -136,7 +134,7 @@ Table 1: Selected Drugs that are Predicted to Alter the Plasma Concentration of 
 | Macrolide Antibiotics | clarithromycin, erythromycin |
 | Protease Inhibitors | indinavir, ritonavir |
 
-### Antiarrhythmics
+Antiarrhythmics
 
 The class IA antiarrhythmic quinidine and class III antiarrhythmic dofetilide are known to prolong the QT interval.
 Coadministration of quinidine or dofetilide with SPORANOX® may increase plasma concentrations of quinidine or dofetilide which could result in serious cardiovascular events.
@@ -148,11 +146,11 @@ Caution is advised when SPORANOX® and disopyramide are administered concomitant
 
 Concomitant administration of digoxin and SPORANOX® has led to increased plasma concentrations of digoxin via inhibition of P-glycoprotein.
 
-### Anticoagulants
+Anticoagulants
 
 SPORANOX® enhances the anticoagulant effect of coumarin-like drugs, such as warfarin.
 
-### Anticonvulsants
+Anticonvulsants
 
 Reduced plasma concentrations of itraconazole were reported when SPORANOX® was administered concomitantly with phenytoin.
 Carbamazepine, phenobarbital, and phenytoin are all inducers of CYP3A4.
@@ -160,7 +158,7 @@ Although interactions with carbamazepine and phenobarbital have not been studied
 In addition, in vivo studies have demonstrated an increase in plasma carbamazepine concentrations in subjects concomitantly receiving ketoconazole.
 Although there are no data regarding the effect of itraconazole on carbamazepine metabolism, because of the similarities between ketoconazole and itraconazole, concomitant administration of SPORANOX® and carbamazepine may inhibit the metabolism of carbamazepine.
 
-### Antimycobacterials
+Antimycobacterials
 
 Drug interaction studies have demonstrated that plasma concentrations of azole antifungal agents and their metabolites, including itraconazole and hydroxyitraconazole, were significantly decreased when these agents were given concomitantly with rifabutin or rifampin.
 In vivo data suggest that rifabutin is metabolized in part by CYP3A4.
@@ -169,18 +167,18 @@ Although no formal study data are available for isoniazid, similar effects shoul
 Therefore, the efficacy of SPORANOX® could be substantially reduced if given concomitantly with one of these agents.
 Coadministration is not recommended.
 
-### Antineoplastics
+Antineoplastics
 
 SPORANOX® may inhibit the metabolism of busulfan, docetaxel, and vinca alkaloids.
 
-### Antipsychotics
+Antipsychotics
 
 Pimozide is known to prolong the QT interval and is partially metabolized by CYP3A4.
 Coadministration of pimozide with SPORANOX® could result in serious cardiovascular events.
 Therefore, concomitant administration of SPORANOX® and pimozide is contraindicated.
 (See BOX WARNING, CONTRAINDICATIONS, and WARNINGS.)
 
-### Benzodiazepines
+Benzodiazepines
 
 Concomitant administration of SPORANOX® and alprazolam, diazepam, oral midazolam, or triazolam could lead to increased plasma concentrations of these benzodiazepines.
 Increased plasma concentrations could potentiate and prolong hypnotic and sedative effects.
@@ -188,7 +186,7 @@ Concomitant administration of SPORANOX® and oral midazolam or triazolam is cont
 (See CONTRAINDICATIONS and WARNINGS.)
 If midazolam is administered parenterally, special precaution and patient monitoring is required since the sedative effect may be prolonged.
 
-### Calcium Channel Blockers
+Calcium Channel Blockers
 
 Edema has been reported in patients concomitantly receiving SPORANOX® and dihydropyridine calcium channel blockers.
 Appropriate dosage adjustment may be necessary.
@@ -198,7 +196,7 @@ Therefore, caution should be used when co-administering itraconazole and calcium
 Concomitant administration of SPORANOX® and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction, therefore the concomitant administration of SPORANOX® and nisoldipine is contraindicated.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
-### Gastric Acid Suppressors/Neutralizers
+Gastric Acid Suppressors/Neutralizers
 
 Reduced plasma concentrations of itraconazole were reported when SPORANOX® Capsules were administered concomitantly with H2-receptor antagonists.
 Studies have shown that absorption of itraconazole is impaired when gastric acid production is decreased.
@@ -208,45 +206,45 @@ In a clinical study, when SPORANOX® Capsules were administered with omeprazole 
 However, as itraconazole is already dissolved in SPORANOX® Oral Solution, the effect of H2-antagonists is expected to be substantially less than with the capsules.
 Nevertheless, caution is advised when the two drugs are coadministered.
 
-### Gastrointestinal Motility Agents
+Gastrointestinal Motility Agents
 
 Coadministration of SPORANOX® with cisapride can elevate plasma cisapride concentrations which could result in serious cardiovascular events.
 Therefore, concomitant administration of SPORANOX® with cisapride is contraindicated.
 (See BOX WARNING, CONTRAINDICATIONS, and WARNINGS.)
 
-### HMG CoA-Reductase Inhibitors
+HMG CoA-Reductase Inhibitors
 
 Human pharmacokinetic data suggest that SPORANOX® inhibits the metabolism of atorvastatin, cerivastatin, lovastatin, and simvastatin, which may increase the risk of skeletal muscle toxicity, including rhabdomyolysis.
 Concomitant administration of SPORANOX® with HMG CoA-reductase inhibitors, such as lovastatin or simvastatin is contraindicated.
 (See CONTRAINDICATIONS and WARNINGS.)
 
-### Immunosuppressants
+Immunosuppressants
 
 Concomitant administration of SPORANOX® and cyclosporine or tacrolimus has led to increased plasma concentrations of these immunosuppressants.
 Concomitant administration of SPORANOX® and sirolimus could increase plasma concentrations of sirolimus.
 
-### Macrolide Antibiotics
+Macrolide Antibiotics
 
 Erythromycin and clarithromycin are known inhibitors of CYP3A4 (See Table 1) and may increase plasma concentrations of itraconazole.
 In a small pharmacokinetic study involving HIV infected patients, clarithromycin was shown to increase plasma concentrations of itraconazole.
 Similarly, following administration of 1 gram of erythromycin ethyl succinate and 200 mg itraconazole as single doses, the mean Cmax and AUC 0–∞ of itraconazole increased by 44% (90% CI: 119–175%) and 36% (90% CI: 108–171%), respectively.
 
-### Oral Hypoglycemic Agents
+Oral Hypoglycemic Agents
 
 Severe hypoglycemia has been reported in patients concomitantly receiving azole antifungal agents and oral hypoglycemic agents.
 Blood glucose concentrations should be carefully monitored when SPORANOX® and oral hypoglycemic agents are coadministered.
 
-### Polyenes
+Polyenes
 
 Prior treatment with itraconazole, like other azoles, may reduce or inhibit the activity of polyenes such as amphotericin B. However, the clinical significance of this drug effect has not been clearly defined.
 
-### Protease Inhibitors
+Protease Inhibitors
 
 Concomitant administration of SPORANOX® and protease inhibitors metabolized by CYP3A4, such as indinavir, ritonavir, and saquinavir, may increase plasma concentrations of these protease inhibitors.
 In addition, concomitant administration of SPORANOX® and indinavir and ritonavir (but not saquinavir) may increase plasma concentrations of itraconazole.
 Caution is advised when SPORANOX® and protease inhibitors must be given concomitantly.
 
-### Reverse Transcriptase Inhibitors
+Reverse Transcriptase Inhibitors
 
 Nevirapine is an inducer of CYP3A4.
 In vivo studies have shown that nevirapine induces the metabolism of ketoconazole, significantly reducing the bioavailability of ketoconazole.
@@ -255,7 +253,7 @@ However, because of the similarities between ketoconazole and itraconazole, conc
 In a clinical study, when 8 HIV-infected subjects were treated concomitantly with SPORANOX® Capsules 100 mg twice daily and the nucleoside reverse transcriptase inhibitor zidovudine 8 ± 0.4 mg/kg/day, the pharmacokinetics of zidovudine were not affected.
 Other nucleoside reverse transcriptase inhibitors have not been studied.
 
-### Other
+Other
 
 - Levacetylmethadol (levomethadyl) is known to prolong the QT interval and is metabolized by CYP3A4.
   Co-administration of levacetylmethadol with SPORANOX® could result in serious cardiovascular events.
