@@ -7,7 +7,7 @@ Severe reactions typically occurred during the first infusion with time to onset
 Rituxan‑induced infusion reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-For RA patients, methylprednisolone 100 mg IV or its equivalent is recommended 30 minutes prior to each infusion.
+For RA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion reactions as needed.
 Depending on the severity of the infusion reaction and the required interventions, temporarily or permanently discontinue Rituxan.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
@@ -30,7 +30,7 @@ These reactions include paraneoplastic pemphigus, Stevens‑Johnson syndrome, li
 The onset of these reactions has varied from 1–13 weeks following Rituxan exposure.
 Discontinue Rituxan in patients who experience a severe mucocutaneous reaction.
 The safety of readministration of Rituxan to patients with severe mucocutaneous reactions has not been determined.
-[See Boxed Warning, Adverse Reactions (6.1, 6.4).]
+[See Boxed Warning, Adverse Reactions (6, 6.1).]
 
 ## 5.4 Progressive Multifocal Leukoencephalopathy (PML)
 
@@ -42,7 +42,7 @@ Most cases of PML were diagnosed within 12 months of their last infusion of Ritu
 Consider the diagnosis of PML in any patient presenting with new‑onset neurologic manifestations.
 Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain MRI, and lumbar puncture.
 Discontinue Rituxan and consider discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy in patients who develop PML.
-[See Boxed Warning, Adverse Reactions (6.4).]
+[See Boxed Warning, Adverse Reactions (6).]
 
 ## 5.5 Hepatitis B Virus (HBV) Reactivation
 
@@ -53,19 +53,19 @@ Screen patients at high risk of HBV infection before initiation of Rituxan.
 Closely monitor carriers of hepatitis B for clinical and laboratory signs of active HBV infection for several months following Rituxan therapy.
 Discontinue Rituxan and any concomitant chemotherapy in patients who develop viral hepatitis, and institute appropriate treatment including antiviral therapy.
 Insufficient data exist regarding the safety of resuming Rituxan in patients who develop hepatitis subsequent to HBV reactivation.
-[See Adverse Reactions (6.4).]
+[See Adverse Reactions (6.5).]
 
 ## 5.6 Infections
 
 Serious, including fatal, bacterial, fungal, and new or reactivated viral infections can occur during and up to one year following the completion of Rituxan-based therapy.
 New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue Rituxan for serious infections and institute appropriate anti-infective therapy.
-[See Adverse Reactions (6.1, 6.4).]
+[See Adverse Reactions (6, 6.1).]
 
 ## 5.7 Cardiovascular
 
 Discontinue infusions for serious or life‑threatening cardiac arrhythmias.
 Perform cardiac monitoring during and after all infusions of Rituxan for patients who develop clinically significant arrhythmias, or who have a history of arrhythmia or angina.
-[See Adverse Reactions (6.4).]
+[See Adverse Reactions (6).]
 
 ## 5.8 Renal
 
@@ -80,7 +80,7 @@ Monitor closely for signs of renal failure and discontinue Rituxan in patients w
 Abdominal pain, bowel obstruction and perforation, in some cases leading to death, can occur in patients receiving Rituxan in combination with chemotherapy.
 In postmarketing reports, the mean time to documented gastrointestinal perforation was 6 (range 1–77) days in patients with NHL.
 Perform a thorough diagnostic evaluation and institute appropriate treatment for complaints of abdominal pain.
-[See Adverse Reactions (6.4).]
+[See Adverse Reactions (6).]
 
 ## 5.10 Immunization
 
@@ -103,15 +103,21 @@ The clinical implications of these findings are not known.
 
 In patients with lymphoid malignancies, during treatment with Rituxan monotherapy, obtain complete blood counts (CBC) and platelet counts prior to each Rituxan course.
 During treatment with Rituxan and chemotherapy, obtain CBC and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
-In patients with RA obtain CBC and platelet counts at two to four month intervals during Rituxan therapy.
+In patients with RA, WG or MPA, obtain CBC and platelet counts at two to four month intervals during Rituxan therapy.
 The duration of cytopenias caused by Rituxan can extend months beyond the treatment period.
 
-## 5.12 Concomitant Use with Biologic Agents and DMARDS other than Methotrexate in RA
+## 5.12 Concomitant Use with Biologic Agents and DMARDS other than Methotrexate in RA, WG and MPA
 
-Limited data are available on the safety of the use of biologic agents or DMARDs other than methotrexate in patients exhibiting peripheral B‑cell depletion following treatment with rituximab.
+Limited data are available on the safety of the use of biologic agents or DMARDs other than methotrexate in RA patients exhibiting peripheral B‑cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
+Use of concomitant immunosuppressants other than corticosteroids has not been studied in WG or MPA patients exhibiting peripheral B-cell depletion following treatment with Rituxan.
 
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 
 While the efficacy of Rituxan was supported in four controlled trials in patients with RA with prior inadequate responses to non‑biologic DMARDs, and in a controlled trial in MTX‑naïve patients, a favorable risk‑benefit relationship has not been established in these populations.
 The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.5)].
+
+## 5.14 Retreatment in Patients with Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+
+Limited data are available on the safety and efficacy of subsequent courses of Rituxan in patients with WG and MPA.
+The safety and efficacy of retreatment with Rituxan have not been established [see Dosage and Administration (2.6), Adverse Reactions (6.3), and Clinical Studies (14.6)].

@@ -17,6 +17,10 @@ Rituxan® (rituximab) is indicated, in combination with fludarabine and cyclopho
 
 Rituxan® (rituximab) in combination with methotrexate is indicated for the treatment of adult patients with moderately‑to severely‑ active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
 
-## 1.4 Limitations of Use
+## 1.4 Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+
+Rituxan® (rituximab), in combination with glucocorticoids, is indicated for the treatment of adult patients with Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA).
+
+## 1.5 Limitations of Use
 
 Rituxan is not recommended for use in patients with severe, active infections.

@@ -10,4 +10,4 @@ Tumor Lysis Syndrome (TLS) Acute renal failure requiring dialysis with instances
 
 Severe Mucocutaneous Reactions Severe, including fatal, mucocutaneous reactions can occur in patients receiving Rituxan [see Warnings and Precautions (5.3), Adverse Reactions (6)].
 
-Progressive Multifocal Leukoencephalopathy (PML) JC virus infection resulting in PML and death can occur in patients receiving Rituxan [see Warnings and Precautions (5.4), Adverse Reactions (6.4)].
+Progressive Multifocal Leukoencephalopathy (PML) JC virus infection resulting in PML and death can occur in patients receiving Rituxan [see Warnings and Precautions (5.4), Adverse Reactions (6)].

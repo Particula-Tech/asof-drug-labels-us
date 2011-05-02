@@ -21,7 +21,7 @@ The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in cli
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described below reflect exposure to Rituxan in 2783 patients, with exposures ranging from a single infusion up to 2 years.
-Rituxan was studied in both single-arm and controlled trials (n = 356 and n = 2427).
+Rituxan was studied in both single-arm and controlled trials (n = 356 and n = 2427=1926).
 The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
 Most NHL patients received Rituxan as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
 CLL patients received Rituxan 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
@@ -183,7 +183,7 @@ Table 2*: Incidence of All Adverse Reactions** Occurring in ≥ 2% and at Least 
 | Anxiety | 5 (1) | 9 (2) |
 | Migraine | 2 (<1) | 9 (2) |
 | Asthenia | 1 (<1) | 9 (2) |
-| *These data are based on 938 patients treated in Phase 2 and 3 studies of Rituxan (2 x 1000 mg) or placebo administered in combination with methotrexate. |  |  |
+| *These data are based on 938 patients treated in Phase 2 and 3 studies of Rituxan (2 × 1000 mg) or placebo administered in combination with methotrexate. |  |  |
 | **Coded using MedDRA. |  |  |
 
 Infusion Reactions
@@ -240,7 +240,64 @@ The rates and types of adverse reactions reported for subsequent courses of Ritu
 
 In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.5), and Dosage and Administration (2.5).]
 
-## 6.3 Immunogenicity
+## 6.3 Clinical Trial Experience in Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The data presented below reflect the experience in 197 patients with WG and MPA treated with Rituxan or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase.
+In the 6-month remission induction phase, 197 patients with WG and MPA were randomized to either Rituxan 375 mg/ m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
+Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
+The Rituxan group did not receive additional therapy to maintain remission.
+The primary analysis was at the end of the 6 month remission induction period and the safety results for this period are described below.
+
+Adverse reactions presented below in Table 3 were adverse events which occurred at a rate of greater than or equal to 10% in the Rituxan group.
+This table reflects experience in 99 WG and MPA patients treated with Rituxan, with a total of 47.6 patient-years of observation and 98 WG and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
+Infection was the most common category of adverse events reported (47-62%) and is discussed below.
+
+Table 3: Incidence of All Adverse Reactions Occurring in ≥ 10% of Rituxan-treated WG and MPA Patients in the Clinical Study Up to Month 6*
+
+| Preferred Term | Rituxan N = 99 n (%) | Cyclophosphamide N = 98 n (%) |
+| --- | --- | --- |
+| Nausea | 18 (18%) | 20 (20%) |
+| Diarrhea | 17 (17%) | 12 (12%) |
+| Headache | 17 (17%) | 19 (19%) |
+| Muscle spasms | 17 (17%) | 15 (15%) |
+| Anemia | 16 (16%) | 20 (20%) |
+| Peripheral edema | 16 (16%) | 6 (6%) |
+| Insomnia | 14 (14%) | 12 (12%) |
+| Arthralgia | 13 (13%) | 9 (9%) |
+| Cough | 13 (13%) | 11 (11%) |
+| Fatigue | 13 (13%) | 21 (21%) |
+| Increased ALT | 13 (13%) | 15 (15%) |
+| Hypertension | 12 (12%) | 5 (5%) |
+| Epistaxis | 11 (11%) | 6 (6%) |
+| Dyspnea | 10 (10%) | 11 (11%) |
+| Leukopenia | 10 (10%) | 26 (27%) |
+| Rash | 10 (10%) | 17 (17%) |
+| *The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period. |  |  |
+
+Infusion Reactions
+
+Infusion-related reactions in the active-controlled, double-blind study were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators.
+Among the 99 patients treated with Rituxan, 12% experienced at least one infusion related reaction, compared with 11% of the 98 patients in the cyclophosphamide group.
+Infusion-related reactions included cytokine release syndrome, flushing, throat irritation, and tremor.
+In the Rituxan group, the proportion of patients experiencing an infusion related reaction was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively.
+Patients were pre-medicated with antihistamine and acetaminophen before each Rituxan infusion and were on background oral corticosteroids which may have mitigated or masked an infusion reaction; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions.
+
+Infections
+
+In the active-controlled, double-blind study, 62% (61/99) of patients in the Rituxan group experienced an infection of any type compared to 47% (46/98) patients in the cyclophosphamide group by Month 6.
+The most common infections in the Rituxan group were upper respiratory tract infections, urinary tract infections, and herpes zoster.
+
+The incidence of serious infections was 11% in the Rituxan-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively.
+The most common serious infection was pneumonia.
+
+Retreatment in Patients with WG and MPA
+
+In the active-controlled, double-blind study, subsequent courses of Rituxan were allowed for patients experiencing a relapse of disease.
+The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with WG and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
+
+## 6.4 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The observed incidence of antibody (including neutralizing antibody) positivity in an assay is highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
@@ -253,9 +310,11 @@ A total of 273/2578 (11%) patients with RA tested positive for HACA at any time 
 HACA positivity was not associated with increased infusion reactions or other adverse reactions.
 Upon further treatment, the proportions of patients with infusion reactions were similar between HACA positive and negative patients, and most reactions were mild to moderate.
 Four HACA positive patients had serious infusion reactions, and the temporal relationship between HACA positivity and infusion reaction was variable.
+
+A total of 23/99 (23%) Rituxan-treated patients with WG and MPA tested positive for HACA by 18 months.
 The clinical relevance of HACA formation in Rituxan‑treated patients is unclear.
 
-## 6.4 Postmarketing Experience
+## 6.5 Postmarketing Experience
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to Rituxan.
@@ -267,5 +326,5 @@ Decisions to include these reactions in labeling are typically based on one or m
 - Neoplasia: disease progression of Kaposi’s sarcoma.
 - Skin: severe mucocutaneous reactions.
 - Gastrointestinal: bowel obstruction and perforation.
-- Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease
-- Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
+- Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.
+- Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS).

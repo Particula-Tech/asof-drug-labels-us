@@ -9,28 +9,28 @@ Study 1
 A multicenter, open label, single arm study was conducted in 166 patients with relapsed or refractory, low grade or follicular, B‑cell NHL who received 375 mg/m2 of Rituxan given as an intravenous infusion weekly for 4 doses.
 Patients with tumor masses >10 cm or with >5000 lymphocytes/µL in the peripheral blood were excluded from the study.
 
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 The median time to onset of response was 50 days.
 Disease‑related signs and symptoms (including B‑symptoms) resolved in 64% (25/39) of those patients with such symptoms at study entry.
 
 Study 2
 
 In a multicenter, single arm study, 37 patients with relapsed or refractory, low‑grade NHL received 375 mg/m2 of Rituxan weekly for 8 doses.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
 Study 3
 
 In a multicenter, single‑arm study, 60 patients received 375 mg/m2 of Rituxan weekly for 4 doses.
 All patients had relapsed or refractory, low‑grade or follicular, B‑cell NHL and had achieved an objective clinical response to Rituxan administered 3.8—35.6 months (median 14.5 months) prior to retreatment with Rituxan.
 Of these 60 patients, 5 received more than one additional course of Rituxan.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
 Bulky Disease
 
 In pooled data from studies 1 and 3, 39 patients with bulky (single lesion >10 cm in diameter) and relapsed or refractory, low‑grade NHL received Rituxan 375 mg/m2 weekly for 4 doses.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
-Table 3: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting
+Table 4: Summary of Rituxan Efficacy Data by Schedule and Clinical Setting
 
 |  | Study 1 Weekly × 4 N=166 | Study 2 Weekly × 8 N=37 | Study 1 and Study 3 Bulky disease, Weekly × 4 N=39a | Study 3 Retreatment, Weekly × 4 N=60 |
 | --- | --- | --- | --- | --- |
@@ -48,12 +48,12 @@ Study 4
 A total of 322 patients with previously untreated follicular NHL were randomized (1:1) to receive up to eight 3-week cycles of CVP chemotherapy alone (CVP) or in combination with Rituxan 375 mg/m2 on Day 1 of each cycle (R-CVP) in an open-label, multicenter study.
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse or death.
 
-Twenty‑six percent of the study population was > 60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score ≥ 2.
-The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 4.
+Twenty‑six percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score ≥2.
+The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 5.
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-Table 4: Efficacy Results in Study 4
+Table 5: Efficacy Results in Study 4
 
 |  | Study Arm |  |
 | --- | --- | --- |
@@ -103,7 +103,7 @@ The main outcome measure of the study was progression‑free survival, defined a
 Responding patients underwent a second randomization to receive Rituxan or no further therapy.
 
 Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III-IV disease, 56% had IPI scores ≥ 2, 86% had ECOG performance status of <2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 These results reflect a statistical approach which allows for an evaluation of Rituxan administered in the induction setting that excludes any potential impact of Rituxan given after the second randomization.
 
 Analysis of results after the second randomization in Study 7 demonstrates that for patients randomized to R-CHOP, additional Rituxan exposure beyond induction was not associated with further improvements in progression‑free survival or overall survival.
@@ -114,16 +114,16 @@ A total of 399 patients with DLBCL, age ≥ 60 years, were randomized in a 1:1 r
 All patients received up to eight 3‑week cycles of CHOP induction; patients in the R‑CHOP arm received Rituxan 375 mg/m2 on Day 1 of each cycle.
 The main outcome measure of the study was event‑free survival, defined as the time from randomization to relapse, progression, change in therapy, or death from any cause.
 Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥ 2, 80% had ECOG performance status scores < 2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 
 Study 9
 
 A total of 823 patients with DLBCL, aged 18—60 years, were randomized in a 1:1 ratio to receive an anthracycline‑containing chemotherapy regimen alone or in combination with Rituxan.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
 Among all enrolled patients, 28% had Stage III—IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 
-Table 5: Efficacy Results in Studies 7, 8, and 9
+Table 6: Efficacy Results in Studies 7, 8, and 9
 
 |  | Study 7 (n=632) |  | Study 8 (n=399) |  | Study 9 (n=823) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -148,9 +148,9 @@ In Study 11, 44% of patients were 65 years or older, 28% had B symptoms, 82% rec
 
 The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 10) or an independent review committee (Study 11).
 The investigator assessed results in Study 11 were supportive of those obtained by the independent review committee.
-Efficacy results are presented in Table 6.
+Efficacy results are presented in Table 7.
 
-Table 6: Efficacy Results in Studies 10 and 11
+Table 7: Efficacy Results in Studies 10 and 11
 
 |  | Study 10* (Previously untreated) |  | Study 11* (Previously treated) |  |
 | --- | --- | --- | --- | --- |
@@ -162,9 +162,9 @@ Table 6: Efficacy Results in Studies 10 and 11
 | * As defined in 1996 National Cancer Institute Working Group guidelines. |  |  |  |  |
 
 Across both studies, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older and 100 Rituxan-treated patients (15%) were 70 years of age or older.
-The results of exploratory subset analyses in elderly patients are presented in Table 7.
+The results of exploratory subset analyses in elderly patients are presented in Table 8.
 
-Table 7: Efficacy Results in Studies 10 and 11 in Subgroups Defined by Agea
+Table 8: Efficacy Results in Studies 10 and 11 in Subgroups Defined by Agea
 
 | Age subgroup | Study 10 |  | Study 11 |  |
 | --- | --- | --- | --- | --- |
@@ -184,14 +184,14 @@ Patients were 18 years of age or older, diagnosed with active RA according to Am
 
 In RA Study 1, patients were randomized to receive either Rituxan 2 × 1000 mg + MTX or placebo + MTX for 24 weeks.
 Further courses of Rituxan 2 × 1000 mg + MTX were administered in an open label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of Rituxan.
-In addition to the IV premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
-The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo‑controlled period are shown in Table 8.
+In addition to the intravenous premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
+The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo‑controlled period are shown in Table 9.
 
 In RA Study 2, all patients received the first course of Rituxan 2 × 1000 mg + MTX.
 Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 × 1000 mg + MTX or placebo + MTX, the majority between Weeks 24–28.
-The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re‑treatment course, and at Week 48, after retreatment, are shown in Table 8.
+The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re‑treatment course, and at Week 48, after retreatment, are shown in Table 9.
 
-Table 8: ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified Intent‑to‑Treat Population)
+Table 9: ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified Intent‑to‑Treat Population)
 
 | Inadequate Response to TNF Antagonists |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -208,9 +208,9 @@ Table 8: ACR Responses in Study 1 and Study 2 (Percent of Patients) (Modified In
 |  |  |  |  | Week 48 | 13% | 14% | 1% (-5%, 8%) |
 | a In Study 2, all patients received a first course of Rituxan 2 x 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either Rituxan 2 x 1000 mg + MTX or placebo + MTX at or after Week 24.b Since all patients received a first course of Rituxan, no comparison between Placebo + MTX and Rituxan + MTX is made at Week 24.c For Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For Study 2, weighted difference stratified by RF status at baseline and ≥ 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). |  |  |  |  |  |  |  |
 
-Improvement was also noted for all components of ACR response following treatment with Rituxan, as shown in Table 9.
+Improvement was also noted for all components of ACR response following treatment with Rituxan, as shown in Table 10.
 
-Table 9: Components of ACR Response at Week 24 in Study 1 (Modified Intent‑to‑Treat Population)
+Table 10: Components of ACR Response at Week 24 in Study 1 (Modified Intent‑to‑Treat Population)
 
 | Inadequate Response to TNF Antagonists |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -230,7 +230,7 @@ Although both treatment groups received a brief course of intravenous and oral g
 A similar proportion of patients achieved these responses through Week 24 after a single course of treatment (2 infusions) with Rituxan.
 Similar patterns were demonstrated for ACR 50 and 70 responses.
 
-### Figure 2
+Figure 2
 
 Percent of Patients Achieving ACR 20 Response by Visit* Study 1 (Inadequate Response to TNF Antagonists)
 
@@ -239,9 +239,9 @@ Percent of Patients Achieving ACR 20 Response by Visit* Study 1 (Inadequate Resp
 Radiographic Response
 
 In RA Study 1, structural joint damage was assessed radiographically and expressed as changes in Genant‑modified Total Sharp Score (TSS) and its components, the erosion score (ES) and the joint space narrowing (JSN) score.
-Rituxan + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 10.
+Rituxan + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 11.
 
-Table 10: Mean Radiographic Change From Baseline to 104 Weeks
+Table 11: Mean Radiographic Change From Baseline to 104 Weeks
 
 | Parameter | Rituxan 2 x 1000 mg + MTXb | Placebo + MTXc | Treatment Difference (Placebo – Rituxan) | 95% CI |
 | --- | --- | --- | --- | --- |
@@ -265,9 +265,9 @@ In their second year of treatment with Rituxan + MTX, more patients had no progr
 
 Lesser Efficacy of 500 Vs. 1000 mg Treatment Courses for Radiographic Outcomes
 
-RA Study 3 is a randomized, double‑blind, placebo‑controlled study which evaluated the effect of placebo + MTX compared to Rituxan 2 x 500 mg + MTX and Rituxan 2 x 1000 mg + MTX treatment courses in MTX‑naïve RA patients with moderately to severely active disease.
+RA Study 3 is a randomized, double‑blind, placebo‑controlled study which evaluated the effect of placebo + MTX compared to Rituxan 2 × 500 mg + MTX and Rituxan 2 × 1000 mg + MTX treatment courses in MTX‑naïve RA patients with moderately to severely active disease.
 Patients received a first course of two infusions of rituximab or placebo on Days 1 and 15.
-MTX was initiated at 7.5 mg/week and escalated up to 20 mg/week by week 8 in all three treatment arms.
+MTX was initiated at 7.5 mg/week and escalated up to 20 mg/week by Week 8 in all three treatment arms.
 After a minimum of 24 weeks, patients with ongoing disease activity were eligible to receive re-treatment with additional courses of their assigned treatment.
 After one year of treatment, the proportion of patients achieving ACR 20/50/70 responses were similar in both Rituxan dose groups and were higher than in the placebo group.
 However, with respect to radiographic scores, only the Rituxan 1000 mg treatment group demonstrated a statistically significant reduction in TSS: a change of 0.36 units compared to 1.08 units for the placebo group, a 67% reduction.
@@ -278,14 +278,49 @@ RA Study 4 is a randomized, double‑blind, placebo‑controlled study in adult 
 Patients were randomized to receive an initial course of Rituxan 500 mg, Rituxan 1000 mg, or placebo in addition to background MTX.
 
 Physical function was assessed at Weeks 24 and 48 using the Health Assessment Questionnaire Disability Index (HAQ‑DI).
-From baseline to Week 24, a greater proportion of Rituxan‑treated patients had an improvement in HAQ‑DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ‑DI improvement compared to placebo, as shown in Table 11.
+From baseline to Week 24, a greater proportion of Rituxan‑treated patients had an improvement in HAQ‑DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ‑DI improvement compared to placebo, as shown in Table 12.
 HAQ‑DI results for the Rituxan 500 mg treatment group were similar to the Rituxan 1000 mg treatment group; however radiographic responses were not assessed (see Dosing Precaution in the Radiographic Responses section above).
 These improvements were maintained at 48 weeks.
 
-Table 11: Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ‑DI) at Week 24 in Study 4
+Table 12: Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ‑DI) at Week 24 in Study 4
 
-|  | Placebo + MTX n = 172 | Rituxan 2 x 1000 mg + MTX n = 170 | Treatment Difference (Rituxan – Placebo)b (95% CI) |
+|  | Placebo + MTX n = 172 | Rituxan 2 × 1000 mg + MTX n = 170 | Treatment Difference (Rituxan – Placebo)b (95% CI) |
 | --- | --- | --- | --- |
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
 | Percent of patients with "Improved" score (Change from Baseline ≥ MCID)a | 48% | 58% | 11% (0%, 21%) |
 | a Minimal Clinically Important Difference: MCID for HAQ = 0.22. b Adjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive ≥ 20 IU/mL, negative < 20 IU/mL) at baseline |  |  |  |
+
+## 14.6 Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+
+A total of 197 patients with active, severe WG and MPA (two forms of ANCA Associated Vasculidities) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
+Patients were 15 years of age or older, diagnosed with WG (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
+All patients had active disease, with a Birmingham Vasculitis Activity Score for Wegener’s Granulomatosis (BVAS/WG) ≥ 3, and their disease was severe, with at least one major item on the BVAS/WG.
+Ninety-six (49%) of patients had new disease and 101 (51%) of patients had relapsing disease.
+
+Patients in both arms received 1000 mg of pulse intravenous methylprednisolone per day for 1 to 3 days within 14 days prior to initial infusion.
+Patients were randomized in a 1:1 ratio to receive either Rituxan 375 mg/m2 once weekly for 4 weeks or oral cyclophosphamide 2 mg/kg daily for 3 to 6 months in the remission induction phase.
+Patients were pre-medicated with antihistamine and acetaminophen prior to Rituxan infusion.
+Following intravenous corticosteroid administration, all patients received oral prednisone (1 mg/kg/day, not exceeding 80 mg/day) with pre-specified tapering.
+Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
+The Rituxan group did not receive additional therapy to maintain remission.
+The main outcome measure for both WG and MPA patients was achievement of complete remission at 6 months defined as a BVAS/WGof 0, and off glucocorticoid therapy.
+The pre-specified non‑inferiority margin was a treatment difference of 20%.
+As shown in Table 13, the study demonstrated non‑inferiority of Rituxan to cyclophosphamide for complete remission at 6 months.
+
+Table 13: Percentage of Patients Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
+
+|  | Rituxan (n = 99) | Cyclophosphamide (n = 98) | Treatment Difference (Rituxan – Cyclophosphamide) |
+| --- | --- | --- | --- |
+| Rate | 64% | 53% | 11% |
+| 95.1%b CI | (54%, 73%) | (43%, 63%) | (-3%, 24%)a |
+| a non-inferiority was demonstrated because the lower bound was higher than the prespecified non-inferiority margin (−3% > −20%). b The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis. |  |  |  |
+
+Complete Remission (CR) at 12 and 18 months
+
+In the Rituxan group, 44% of patients achieved CR at 6 and 12 months, and 38% of patients achieved CR at 6, 12, and 18 months.
+In patients treated with cyclophosphamide (followed by azathioprine for maintenance of CR), 38% of patients achieved CR at 6 and 12 months, and 31% of patients achieved CR at 6, 12, and 18 months.
+
+Retreatment with Rituxan
+
+Based upon investigator judgment, 15 patients received a second course of Rituxan therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the first course of Rituxan.
+The limited data preclude any conclusions regarding the efficacy of subsequent courses of Rituxan in patients with WG and MPA [See Warnings and Precautions (5.14)].

@@ -57,6 +57,7 @@ Rituxan is a prescription medicine used to treat:
 - Non-Hodgkin’s Lymphoma (NHL): alone or with other chemotherapy medicines.
 - Chronic Lymphocytic Leukemia (CLL): with the chemotherapy medicines fludarabine and cyclophosphamide.
 - Rheumatoid Arthritis (RA): with another prescription medicine called methotrexate, to reduce the signs and symptoms of moderate to severe active RA in adults, after treatment with at least one other medicine called a Tumor Necrosis Factor (TNF) antagonist has been used and did not work well enough.
+- Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA): with glucocorticoids, to treat WG and MPA.
 
 People with serious infections should not receive Rituxan.
 
@@ -82,6 +83,7 @@ Before receiving Rituxan, tell your doctor if you:
   You should not receive certain vaccines before or after you receive Rituxan.
   Tell your doctor if anyone in your household is scheduled to receive a vaccination.
   Some types of vaccines can spread to people with a weakened immune system, and cause serious problems.
+- have taken Rituxan for WG or MPA in the past.
 - have any other medical conditions
 - are pregnant or planning to become pregnant.
   Rituxan may affect the white blood cell counts of your unborn baby.
@@ -108,7 +110,7 @@ Do not take any new medicine without talking with your doctor.
 
 How will I receive Rituxan?
 
-- Rituxan is given by infusion through a needle placed in a vein (IV or intravenous infusion), in your arm.
+- Rituxan is given by infusion through a needle placed in a vein (intravenous infusion), in your arm.
   Talk to your doctor about how you will receive Rituxan.
 - Your doctor may prescribe medicines before each infusion of Rituxan to reduce side effects of infusions such as fever and chills.
 - Your doctor should do regular blood tests to check for side effects to Rituxan.
@@ -195,6 +197,6 @@ Jointly Marketed by: Biogen Idec Inc. and Genentech USA, Inc.
 
 | RITUXAN® [rituximab] |  |
 | --- | --- |
-| Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 | 10126776 Initial US Approval: November 1997 Revision Date: January 2011 Rituxan® is a registered trademark of Biogen Idec, Inc. ©2011 Biogen Idec Inc. and Genentech, Inc. |
+| Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 | 10126776 Initial US Approval: November 1997 Med Guide Revision Date: April 2011 Rituxan® is a registered trademark of Biogen Idec, Inc. ©2011 Biogen Idec Inc. and Genentech, Inc. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

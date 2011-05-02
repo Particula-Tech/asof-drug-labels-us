@@ -3,8 +3,8 @@
 ## 2.1 Administration
 
 DO NOT ADMINISTER AS AN INTRAVENOUS PUSH OR BOLUS.
-Premedicate before each infusion [see Dosage and Administration (2.6)].
-Administer only as an intravenous (IV) infusion [see Dosage and Administration (2.6)].
+Premedicate before each infusion [see Dosage and Administration (2.7)].
+Administer only as an intravenous (IV) infusion [see Dosage and Administration (2.7)].
 
 - First Infusion: Initiate infusion at a rate of 50 mg/hr.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
@@ -15,7 +15,7 @@ Administer only as an intravenous (IV) infusion [see Dosage and Administration (
 
 ## 2.2 Recommended Dose for Non‑Hodgkin’s Lymphoma (NHL)
 
-The recommended dose is 375 mg/m2 as an IV infusion according to the following schedules:
+The recommended dose is 375 mg/m2 as an intravenous infusion according to the following schedules:
 
 - Relapsed or Refractory, Low‑Grade or Follicular, CD20‑Positive, B‑Cell NHL Administer once weekly for 4 or 8 doses.
 - Retreatment for Relapsed or Refractory, Low‑Grade or Follicular, CD20‑Positive, B‑Cell NHL Administer once weekly for 4 doses.
@@ -44,15 +44,26 @@ The recommended dose is:
 - Subsequent courses should be administered every 24 weeks or based on clinical evaluation, but not sooner than every 16 weeks.
 - Rituxan is given in combination with methotrexate.
 
-## 2.6 Recommended Concomitant Medications
+## 2.6 Recommended Dose for Wegener’s Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+
+- Administer Rituxan as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
+- Glucocorticoids administered as methylprednisolone 1000 mg intravenously per day for 1 to 3 days followed by oral prednisone 1 mg/kg/day (not to exceed 80 mg/day and tapered per clinical need) are recommended to treat severe vasculitis symptoms.
+  This regimen should begin within 14 days prior to or with the initiation of Rituxan and may continue during and after the 4 week course of Rituximab treatment.
+- Safety and efficacy of treatment with subsequent courses of Rituxan have not been established [see Warnings and Precautions (5.14)].
+
+## 2.7 Recommended Concomitant Medications
 
 Premedicate before each infusion with acetaminophen and an antihistamine.
 
-For RA patients, methylprednisolone 100 mg IV or its equivalent is recommended 30 minutes prior to each infusion.
+For RA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+
+For WG and MPA patients, glucocorticoids are given in combination with Rituxan [see Dosage and Administration (2.6)].
 
 Pneumocystis jiroveci pneumonia (PCP) and anti-herpetic viral prophylaxis is recommended for patients with CLL during treatment and for up to 12 months following treatment as appropriate.
 
-## 2.7 Preparation for Administration
+PCP prophylaxis is also recommended for patients with WG and MPA during treatment and for at least 6 months following the last Rituxan infusion
+
+## 2.8 Preparation for Administration
 
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
