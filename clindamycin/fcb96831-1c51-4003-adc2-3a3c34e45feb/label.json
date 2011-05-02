@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050801"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Stiefel Laboratories Inc",
+  "package_ndcs": [
+    "0145-0061-00",
+    "0145-0061-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "clindamycin phosphate",
+      "name": "EVOCLIN"
+    }
+  ],
+  "setid": "fcb96831-1c51-4003-adc2-3a3c34e45feb",
+  "source": "dailymed"
+}
