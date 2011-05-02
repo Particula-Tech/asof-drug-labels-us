@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202379"
+  ],
+  "inn": "abiraterone",
+  "labeler": "Centocor",
+  "package_ndcs": [
+    "57894-150-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Zytiga"
+    }
+  ],
+  "setid": "4e338e89-3cf2-48eb-b6e2-a06c608c6513",
+  "source": "dailymed"
+}
