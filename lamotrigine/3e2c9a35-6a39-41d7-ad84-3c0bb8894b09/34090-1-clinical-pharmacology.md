@@ -2,20 +2,12 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown.
-In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.
-Lamotrigine also displayed inhibitory properties in the kindling model in rats both during kindling development and in the fully kindled state.
+The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action is unknown.
+In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock and pentylenetetrazol tests, and prevented seizures in the visually and electrically evoked after-discharge tests for antiepileptic activity.
+Lamotrigine also displayed inhibitory properties in a kindling model in rats both during kindling development and in the fully kindled state.
 The relevance of these models to human epilepsy, however, is not known.
-
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
 In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
-
-Although the relevance for human use is unknown, the following data characterize the performance of lamotrigine in receptor binding assays.
-Lamotrigine had a weak inhibitory effect on the serotonin 5-HT3 receptor (IC50 = 18 µM).
-It does not exhibit high affinity binding (IC50>100 µM) to the following neurotransmitter receptors: adenosine A1 and A2; adrenergic α1, α2, and β; dopamine D1 and D2; γ-aminobutyric acid (GABA) A and B; histamine H1; kappa opioid; muscarinic acetylcholine; and serotonin 5-HT2.
-Studies have failed to detect an effect of lamotrigine on dihydropyridine-sensitive calcium channels.
-It had weak effects at sigma opioid receptors (IC50 = 145 µM).
-Lamotrigine did not inhibit the uptake of norepinephrine, dopamine, or serotonin, (IC50>200 µM) when tested in rat synaptosomes and/or human platelets in vitro.
 
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor Mediated Activity: Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
 The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
@@ -29,16 +21,10 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
-Accumulation in Kidneys: Lamotrigine accumulated in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
-These findings are attributed to α-2 microglobulin, a species- and sex-specific protein that has not been detected in humans or other animal species.
-
-Melanin Binding: Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
-It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
-
-Cardiovascular: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongations of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+Cardiovascular:In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
 Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease).
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
 
@@ -48,28 +34,28 @@ Absorption: Lamotrigine is absorbed after oral administration with negligible fi
 The bioavailability of lamotrigine is not affected by food.
 
 In an open-label, crossover study of 44 subjects with epilepsy receiving concomitant AEDs, the steady-state pharmacokinetics of lamotrigine were compared following administration of equivalent total doses of LAMICTAL XR given once daily with those of lamotrigine immediate-release given twice daily.
-In this study, the median time to peak concentration (Tmax) following administration of LAMICTAL XR was 4 to 6 hours in patients taking carbamazepine, phenytoin, phenobarbital, or primidone; 9 to 11 hours in patients taking VPA; and 6 to 10 hours in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or VPA.
+In this study, the median time to peak concentration (Tmax) following administration of LAMICTAL XR was 4 to 6 hours in patients taking carbamazepine, phenytoin, phenobarbital, or primidone; 9 to 11 hours in patients taking valproate; and 6 to 10 hours in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
 In comparison, the median Tmax following administration of immediate-release lamotrigine was between 1 and 1.5 hours.
 
-The steady-state trough concentrations for extended-release lamotrigine were similar to or higher than those of immediate-release lamotrigine depending on concomitant AED (Table 5).
-A mean reduction in the lamotrigine Cmax by 11% to 29% was observed for LAMICTAL XR compared to immediate-release lamotrigine resulting in a decrease in the peak-to-trough fluctuation in serum lamotrigine concentrations.
+The steady-state trough concentrations for extended-release lamotrigine were similar to or higher than those of immediate-release lamotrigine depending on concomitant AED (Table 6).
+A mean reduction in the lamotrigine Cmax by 11% to 29% was observed for LAMICTAL XR compared to immediate-release lamotrigine, resulting in a decrease in the peak-to-trough fluctuation in serum lamotrigine concentrations.
 However, in some subjects receiving enzyme-inducing AEDs, a reduction in Cmax of 44% to 77% was observed.
-The degree of fluctuation was reduced by 17% in patients taking enzyme-inducing AEDs, 34% in patients taking VPA, and 37% in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or VPA.
+The degree of fluctuation was reduced by 17% in patients taking enzyme-inducing AEDs; 34% in patients taking valproate; and 37% in patients taking AEDs other than carbamazepine, phenytoin, phenobarbital, primidone, or valproate.
 LAMICTAL XR and immediate-release lamotrigine regimens were similar with respect to area under the curve (AUC, a measure of the extent of bioavailability) for patients receiving AEDs other than those known to induce the metabolism of lamotrigine.
 The relative bioavailability of extended-release lamotrigine was approximately 21% lower than immediate-release lamotrigine in subjects receiving enzyme-inducing AEDs.
-However, in some subjects in this group a reduction in exposure of up to 70% was observed when switched to LAMICTAL XR.
+However, a reduction in exposure of up to 70% was observed in some subjects in this group when they switched to LAMICTAL XR.
 Therefore, doses may need to be adjusted in some subjects based on therapeutic response.
 
-Table 5.
-Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotrigine at Equivalent Daily Doses (Ratio of XR to IR 90% CI)
+Table 6.
+Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotrigine at Equivalent Daily Doses (Ratio of Extended-Release to Immediate-Release 90% CI)
 
-| Concomitant AED | AUC (0-24ss) | Cmax | Cmin |
+| Concomitant Antiepileptic Drug | AUC (0-24ss) | Cmax | Cmin |
 | --- | --- | --- | --- |
-| EIAEDsa | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
-| VPA | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
-| AEDs other than EIAEDsa or VPA | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
+| Enzyme-inducing antiepileptic drugsa | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
+| Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
+| Antiepileptic drugs other than enzyme-inducing antiepileptic drugsa or valproate | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
 
-a EIAEDs include carbamazepine, phenytoin, phenobarbital, and primidone.
+a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone.
 
 Dose Proportionality: In healthy volunteers not receiving any other medications and given LAMICTAL XR once daily, the systemic exposure to lamotrigine increased in direct proportion to the dose administered over the range of 50 to 200 mg.
 At doses between 25 and 50 mg, the increase was less than dose proportional, with a 2-fold increase in dose resulting in an approximately 1.6-fold increase in systemic exposure.
@@ -88,18 +74,18 @@ The radioactivity in the urine consisted of unchanged lamotrigine (10%), the 2-N
 
 Enzyme Induction: The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
 
-Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in Cl/F at steady state compared with values obtained in the same volunteers following a single dose.
+Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
 Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)].
 
-Elimination: The elimination half-life and apparent clearance of lamotrigine following administration of immediate-release lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 6.
-Half-life and apparent oral clearance vary depending on concomitant AEDs.
+Elimination: The elimination half-life and apparent clearance of lamotrigine following oral administration of immediate-release lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 7.
+Half-life and apparent clearance vary depending on concomitant AEDs.
 
 Since the half-life of lamotrigine following administration of single doses of immediate-release lamotrigine is comparable to that observed following administration of LAMICTAL XR, similar changes in the half-life of lamotrigine would be expected for LAMICTAL XR.
 
-Table 6.
+Table 7.
 Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients With Epilepsy
 
-| Adult Study Population | Number of Subjects | t½: Elimination Half-life(hr) | Cl/F:Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | t½: Elimination Half-life(hr) | CL/F:Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |
 | Single-dose lamotrigine | 179 | 32.8(14.0-103.0) | 0.44(0.12-1.10) |
@@ -115,7 +101,7 @@ Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Vol
 | Single-dose lamotrigine | 24 | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose lamotrigine | 17 | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
+a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
 
@@ -124,18 +110,18 @@ Estrogen-containing oral contraceptives and other drugs such as rifampin that in
 
 Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
 
-The net effects of drug interactions with lamotrigine are summarized in Table 7.
-Details of the drug interaction studies, which were done using immediate-release lamotrigine, are provided following Table 7.
+The net effects of drug interactions with lamotrigine are summarized in Table 8.
+Details of the drug interaction studies, which were done using immediate-release lamotrigine, are provided in Table 8.
 
-Table 7.
+Table 8.
 Summary of Drug Interactions With Lamotrigine
 
 | Drug | Drug Plasma Concentration With Adjunctive Lamotriginea | Lamotrigine Plasma Concentration With Adjunctive Drugsb |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrelc) | ↔d | ↓ |
 | Bupropion | Not assessed | ↔ |
-| Carbamazepine (CBZ) | ↔ | ↓ |
-| CBZ epoxidee | ? |  |
+| Carbamazepine | ↔ | ↓ |
+| Carbamazepine epoxidee | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
@@ -144,12 +130,12 @@ Summary of Drug Interactions With Lamotrigine
 | Oxcarbazepine | ↔ | ↔ |
 | 10-monohydroxy oxcarbazepine metaboliteg | ↔ |  |
 | Phenobarbital/primidone | ↔ | ↓ |
-| Phenytoin (PHT) | ↔ | ↓ |
+| Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
 | Rifampin | Not assessed | ↓ |
 | Topiramate | ↔h | ↔ |
 | Valproate | ↓ | ↑ |
-| Valproate + PHT and/or CBZ | Not assessed | ↔ |
+| Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
 
 aFrom adjunctive clinical trials and volunteer studies.
@@ -175,7 +161,7 @@ hSlight increase, not expected to be clinically relevant.
 Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)]).
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)].
 The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL XR is increased in the few days before or during the pill-free week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 

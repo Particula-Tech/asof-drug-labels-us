@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Skin Rashes [see Boxed Warning]
+## 5.1 Serious Skin Rashes
 
-The risk of serious rash caused by treatment with LAMICTAL XR is not expected to differ from that with the immediate-release formulation of LAMICTAL [see Boxed Warning].
+The risk of serious rash caused by treatment with LAMICTAL XR is not expected to differ from that with immediate-release lamotrigine [see Boxed Warning].
 However, the relatively limited treatment experience with LAMICTAL XR makes it difficult to characterize the frequency and risk of serious rashes caused by treatment with LAMICTAL XR.
 
-Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of the immediate-release formulation of LAMICTAL in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
+Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
 To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
@@ -16,15 +16,15 @@ In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experien
 
 LAMICTAL XR is not approved in patients less than 13 years of age.
 
-Adult Population: Serious rash associated with hospitalization and discontinuation of the immediate-release formulation of LAMICTAL occurred in 0.3% (11 of 3,348) of adult patients who received the immediate-release formulation of LAMICTAL in premarketing clinical trials of epilepsy.
+Adult Population: Serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received immediate-release lamotrigine in premarketing clinical trials of epilepsy.
 In worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and a rash associated with a variable number of the following systemic manifestations: fever, lymphadenopathy, facial swelling, and hematologic and hepatologic abnormalities.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
-Specifically, of 584 patients administered the immediate-release formulation of LAMICTAL with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered the immediate-release formulation of LAMICTAL in the absence of valproate were hospitalized.
+Specifically, of 584 patients administered immediate-release lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered immediate-release lamotrigine in the absence of valproate were hospitalized.
 
-Patients With History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients With History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -38,27 +38,26 @@ Prior to initiation of treatment with LAMICTAL XR, the patient should be instruc
 
 ## 5.3 Acute Multiorgan Failure
 
-Multiorgan failure, which in some cases has been fatal or irreversible, has been observed in patients receiving the immediate-release formulation of LAMICTAL.
-Fatalities associated with multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received the immediate-release formulation of LAMICTAL in epilepsy clinical trials.
+Multiorgan failure, which in some cases has been fatal or irreversible, has been observed in patients receiving immediate-release lamotrigine.
+Fatalities associated with multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received immediate-release lamotrigine in epilepsy clinical trials.
 Rare fatalities from multiorgan failure have been reported in compassionate plea and postmarketing use.
 The majority of these deaths occurred in association with other serious medical events, including status epilepticus and overwhelming sepsis, and hantavirus, making it difficult to identify the initial cause.
-
-Additionally, 3 patients (a 45-year-old woman, a 3.5-year-old boy, and an 11-year-old girl) developed multiorgan dysfunction and disseminated intravascular coagulation 9 to 14 days after the immediate-release formulation of LAMICTAL was added to their AED regimens.
+Additionally, 3 patients (a 45-year-old woman, a 3.5-year-old boy, and an 11-year-old girl) developed multiorgan dysfunction and disseminated intravascular coagulation 9 to 14 days after immediate-release lamotrigine was added to their AED regimens.
 Rash and elevated transaminases were also present in all patients and rhabdomyolysis was noted in 2 patients.
 Both pediatric patients were receiving concomitant therapy with valproate, while the adult patient was being treated with carbamazepine and clonazepam.
-All patients subsequently recovered with supportive care after treatment with the immediate-release formulation of LAMICTAL was discontinued.
+All patients subsequently recovered with supportive care after treatment with immediate-release lamotrigine was discontinued.
 
 ## 5.4 Blood Dyscrasias
 
-There have been reports of blood dyscrasias with the immediate-release formulation of LAMICTAL that may or may not be associated with the hypersensitivity syndrome.
+There have been reports of blood dyscrasias with immediate-release lamotrigine that may or may not be associated with the hypersensitivity syndrome.
 These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytopenia, and, rarely, aplastic anemia and pure red cell aplasia.
 
 ## 5.5 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including LAMICTAL XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+AEDs, including LAMICTAL XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
@@ -69,12 +68,12 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanism of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2.
+Table 3.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients With Events Per 1,000 Patients | Drug Patients With Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events Per 1,000 Patients |
+| Indication | Placebo Patients With Events per 1,000 Patients | Drug Patients With Events per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -92,14 +91,14 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Aseptic Meningitis
 
-Therapy with LAMICTAL increases the risk of developing aseptic meningitis.
+Therapy with lamotrigine increases the risk of developing aseptic meningitis.
 Because of the potential for serious outcomes of untreated meningitis due to other causes, patients should also be evaluated for other causes of meningitis and treated as appropriate.
 
-Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking LAMICTAL for various indications.
+Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking lamotrigine for various indications.
 Symptoms upon presentation have included headache, fever, nausea, vomiting, and nuchal rigidity.
 Rash, photophobia, myalgia, chills, altered consciousness, and somnolence were also noted in some cases.
 Symptoms have been reported to occur within 1 day to one and a half months following the initiation of treatment.
-In most cases, symptoms were reported to resolve after discontinuation of LAMICTAL.
+In most cases, symptoms were reported to resolve after discontinuation of lamotrigine.
 Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
 Some of the patients treated with LAMICTAL who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 
@@ -140,36 +139,36 @@ Valid estimates of the incidence of treatment-emergent status epilepticus among 
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
-## 5.11 Sudden Unexplained Death in Epilepsy (SUDEP)
+## 5.11 Sudden Unexplained Death in Epilepsy
 
-During the premarketing development of the immediate-release formulation of LAMICTAL, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
+During the premarketing development of immediate-release lamotrigine, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
 
 Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
 This represents an incidence of 0.0035 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in patients with epilepsy not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for immediate-release lamotrigine, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon to the cohort receiving immediate-release lamotrigine and the accuracy of the estimates provided.
-Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving immediate-release lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
+Probably most reassuring is the similarity of estimated sudden unexplained death in epilepsy (SUDEP) rates in patients receiving immediate-release lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
 Importantly, that drug is chemically unrelated to lamotrigine.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
 ## 5.12 Addition of LAMICTAL XR to a Multidrug Regimen That Includes Valproate
 
-Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence.
+Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.1, 2.2), Drug Interactions (7)].
 
 ## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
-Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
+Although ophthalmological testing was performed in one controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
 Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
 ## 5.14 Laboratory Tests
 
-The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL XR has not been established.
-Because of the possible pharmacokinetic interactions between lamotrigine and other drugs including AEDs (see Table 4), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
+Plasma Concentrations of Lamotrigine: The value of monitoring plasma concentrations of lamotrigine in patients treated with LAMICTAL XR has not been established.
+Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 6), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
 In general, clinical judgment should be exercised regarding monitoring of plasma levels of lamotrigine and other drugs and whether or not dosage adjustments are necessary.
 
-Treatment with LAMICTAL XR caused an increased incidence of subnormal (below the reference range) values in some hematology analytes (e.g., total white blood cells, monocytes).
+Effect on Leukocytes: Treatment with LAMICTAL XR caused an increased incidence of subnormal (below the reference range) values in some hematology analytes (e.g., total white blood cells, monocytes).
 The treatment effect (LAMICTAL XR % - Placebo %) incidence of subnormal counts was 3% for total white blood cells and 4% for monocytes.

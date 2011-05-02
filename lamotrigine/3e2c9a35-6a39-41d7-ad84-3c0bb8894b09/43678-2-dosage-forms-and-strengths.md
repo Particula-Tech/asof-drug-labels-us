@@ -14,5 +14,5 @@
 
 ## 3.2 Potential Medication Errors
 
-Patients should be strongly advised to visually inspect their tablets to verify that they are receiving LAMICTAL XR, as opposed to other medications, and that they are receiving the correct formulation of LAMICTAL each time they fill their prescription.
+Patients should be strongly advised to visually inspect their tablets to verify that they are receiving LAMICTAL XR, as opposed to other medications, and that they are receiving the correct formulation of lamotrigine each time they fill their prescription.
 Depictions of the LAMICTAL XR tablets can be found in the Medication Guide.

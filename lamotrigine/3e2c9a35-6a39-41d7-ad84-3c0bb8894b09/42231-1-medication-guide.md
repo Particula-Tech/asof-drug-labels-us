@@ -24,7 +24,7 @@ The risk of getting a rash is higher if you:
 - take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
 - increase your dose of LAMICTAL XR faster than prescribed.
 
-LAMICTAL XR can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
+LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
@@ -119,10 +119,12 @@ LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
 What is LAMICTAL XR?
 
-LAMICTAL XR is a prescription medicine used together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people aged 13 years or older.
+LAMICTAL XR is a prescription medicine used:
 
-It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
-Other forms of LAMICTAL can be used in children aged 2 to 12 years.
+- together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years of age and older.
+- alone to treat partial seizures when changing from certain other medicines used in people 13 years and older.
+  It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
+  Other forms of lamotrigine can be used in children aged 2 to 12 years.
 
 Who should not take LAMICTAL XR?
 
@@ -134,7 +136,7 @@ What should I tell my healthcare provider before taking LAMICTAL XR?
 Before taking LAMICTAL XR, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
-- have or have had depression, mood problems or suicidal thoughts or behavior.
+- have or have had depression, mood problems, or suicidal thoughts or behavior.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
@@ -148,7 +150,6 @@ Before taking LAMICTAL XR, tell your healthcare provider about all of your medic
 - are breastfeeding.
   LAMICTAL XR can pass into your breast milk.
   You and your healthcare provider should decide if you should take LAMICTAL XR or breastfeed.
-  Breastfeeding while taking LAMICTAL XR is not recommended.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Using LAMICTAL XR with certain other medicines can affect each other, causing side effects.
@@ -165,13 +166,13 @@ How should I take LAMICTAL XR?
 - If you miss a dose of LAMICTAL XR, take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
-  Do not take two doses at the same time.
+  Do not take 2 doses at the same time.
 - You may not feel the full effect of LAMICTAL XR for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - LAMICTAL XR can be taken with or without food.
 - Do not chew, crush, or divide LAMICTAL XR.
 - Swallow LAMICTAL XR tablets whole.
-- If you have trouble swallowing LAMICTAL XR Tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
+- If you have trouble swallowing LAMICTAL XR Tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
 - If you receive LAMICTAL XR in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
 
@@ -183,15 +184,15 @@ What are possible side effects of LAMICTAL XR?
 
 - See “What is the most important information I should know about LAMICTAL XR?”
   Common side effects of LAMICTAL XR include:
-  - Dizziness
-  - Tremor
-  - Double vision
-  - Nausea
-  - Vomiting
-  - Trouble with balance and coordination
-  - Anxiety
+- Dizziness
+- Tremor
+- Double vision
+- Nausea
+- Vomiting
+- Trouble with balance and coordination
+- Anxiety
 
-Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, blurred vision, runny nose, and rash.
+Other common side effects that have been reported with another form of lamotrigine include headache, sleepiness, blurred vision, runny nose, and rash.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -239,6 +240,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-January 2011
+April 2011
 
-LXR:5MG
+LXR:6MG

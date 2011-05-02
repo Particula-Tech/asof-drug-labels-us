@@ -2,7 +2,7 @@
 
 ## 10.1 Human Overdose Experience
 
-Overdoses involving quantities up to 15 g have been reported for the immediate-release formulation of LAMICTAL, some of which have been fatal.
+Overdoses involving quantities up to 15 g have been reported for immediate-release lamotrigine, some of which have been fatal.
 Overdose has resulted in ataxia, nystagmus, increased seizures, decreased level of consciousness, coma, and intraventricular conduction delay.
 
 ## 10.2 Management of Overdose
