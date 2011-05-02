@@ -9,4 +9,4 @@ It is freely soluble in 1N HCl (300 mg/mL at 25°C) and less soluble in chlorofo
 
 Atenolol tablets, for oral administration, are available as 25 mg, 50 mg and 100 mg tablets.
 
-Inactive Ingredients: Citric acid (anhydrous), colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone.
+Inactive Ingredients: Citric acid (anhydrous), colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose (silicified), povidone.
