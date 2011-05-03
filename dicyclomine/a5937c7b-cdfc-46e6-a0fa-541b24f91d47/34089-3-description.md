@@ -6,6 +6,8 @@ It is soluble in water, freely soluble in alcohol and chloroform, and very sligh
 
 Chemically, it is [Bicyclohexyl]-1-carboxylic acid, 2-(diethyl-amino) ethyl ester, hydrochloride with the following structural formula:
 
+C19H35NO2•HCI 345.95
+
 Each capsule, for oral administration, contains 10 mg of dicyclomine hydrochloride.
 
 Each tablet, for oral administration, contains 20 mg of dicyclomine hydrochloride.
