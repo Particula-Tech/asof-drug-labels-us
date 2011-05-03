@@ -65,7 +65,7 @@ Because it may be more difficult to titrate a patient to adequate analgesia usin
 
 ## Individualization of Dosage
 
-The best use of opioid analgesics in the management of chronic malignant and non-malignant pain is challenging, and is well described in materials published by the World Health Organization and the Agency for Health Care Policy and Research which are available from Alpharma Pharmaceuticals LLC upon request.
+The best use of opioid analgesics in the management of chronic malignant and non-malignant pain is challenging, and is well described in materials published by the World Health Organization and the Agency for Health Care Policy and.
 KADIAN® is a third step drug which is most useful when the patient requires a constant level of opioid analgesia as a "floor" or "platform" from which to manage breakthrough pain.
 When a patient has reached the point where comfort cannot be provided with a combination of non-opioid medications (NSAIDs and acetaminophen) and intermittent use of moderate or strong opioids, the patient's total opioid therapy should be converted into a 24 hour oral morphine equivalent.
 

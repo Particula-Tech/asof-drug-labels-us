@@ -35,7 +35,7 @@ CAUTION: DEA Order Form Required.
 
 KADIAN® is a registered trademark of Actavis Elizabeth LLC
 
-Revised – February 2009
+Revised – February 2010
 
 Distributed by: Actavis Kadian LLC 60 Columbia Rd., Bldg.
 B Morristown, NJ 07960 USA
