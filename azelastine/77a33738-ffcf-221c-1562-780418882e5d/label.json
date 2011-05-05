@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078621"
+  ],
+  "inn": "azelastine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0578-4"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "azelastine hydrochloride",
+      "name": "AZELASTINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "77a33738-ffcf-221c-1562-780418882e5d",
+  "source": "dailymed"
+}
