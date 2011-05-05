@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022309"
+  ],
+  "inn": "testosterone",
+  "labeler": "Abbott Products, Inc.",
+  "package_ndcs": [
+    "0051-8462-02",
+    "0051-8462-33"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "AndroGel"
+    }
+  ],
+  "setid": "8677ba5b-8374-46cb-854c-403972e9ddf3",
+  "source": "dailymed"
+}
