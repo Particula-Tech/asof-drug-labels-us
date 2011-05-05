@@ -110,7 +110,7 @@ During clinical trials, 3-fold the upper limit of normal (ULN) or greater elevat
 Elevations 5-fold the ULN occurred in 2% of patients on GILENYA and 1% of patients on placebo.
 In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
 Recurrence of liver transaminase elevations occurred with rechallenge in some patients, supporting a relationship to drug.
-The majority of elevations occurred within 3-4 months.
+The majority of elevations occurred within 6-9 months.
 Serum transaminase levels returned to normal within approximately 2 months after discontinuation of GILENYA.
 
 Liver enzymes should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.

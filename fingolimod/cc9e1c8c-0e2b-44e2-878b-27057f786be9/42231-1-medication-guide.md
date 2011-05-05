@@ -198,10 +198,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 GILENYA is a trademark of Novartis AG.
 
-Issued September 2010
-
-T2010-81/T2010-82
-
 Manufactured by:
 
 Novartis Pharma Stein AG
@@ -215,3 +211,7 @@ Novartis Pharmaceuticals Corporation
 East Hanover, New Jersey 07936
 
 © Novartis
+
+T2011-77/T2010-82
+
+May 2011/September 2010

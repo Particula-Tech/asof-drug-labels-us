@@ -48,3 +48,5 @@ Advise the patient that if she should nevertheless become pregnant, she should i
 ## 17.8 Persistence of GILENYA effects after drug discontinuation
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to two months following the last dose.
+
+T2011-77
