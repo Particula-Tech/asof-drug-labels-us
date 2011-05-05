@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-Amlodipine is contraindicated in patients with known sensitivity to amlodipine.
+Amlodipine besylate tabets are contraindicated in patients with known sensitivity to amlodipine.
