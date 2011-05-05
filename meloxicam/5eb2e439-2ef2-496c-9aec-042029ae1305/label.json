@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077921"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-050-01",
+    "65841-050-05",
+    "65841-050-16",
+    "65841-050-31",
+    "65841-051-01",
+    "65841-051-05",
+    "65841-051-16",
+    "65841-051-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "meloxicam"
+    }
+  ],
+  "setid": "5eb2e439-2ef2-496c-9aec-042029ae1305",
+  "source": "dailymed"
+}
