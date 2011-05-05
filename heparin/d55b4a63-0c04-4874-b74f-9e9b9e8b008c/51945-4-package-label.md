@@ -94,6 +94,46 @@ For IV or SC Use Rx only
 
 NOT for Lock Flush
 
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Label
+
+NDC 63323-545-09
+
+504509
+
+Heparin Sodium Injection, USP
+
+10,000 USP Units/mL
+
+For IV or SC Use Rx only
+
+(Derived from Porcine Intestinal Mucosa)
+
+Warning: Contains Benzyl Alcohol
+
+4 mL Multiple Dose Vial
+
+NOT for Lock Flush
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Tray Label
+
+NDC 63323-545-09
+
+504509
+
+Heparin Sodium Injection, USP
+
+10,000 USP Units/mL
+
+For IV or SC Use Rx only
+
+(Derived from Porcine Intestinal Mucosa)
+
+Warning: Contains Benzyl Alcohol
+
+4 mL Multiple Dose Vial
+
+NOT for Lock Flush
+
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
 Heparin Sodium Injection, USP

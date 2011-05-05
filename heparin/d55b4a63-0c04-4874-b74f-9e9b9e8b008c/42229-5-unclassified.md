@@ -10,6 +10,6 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 For Product Inquiry: 1-800-551-7176
 
-451209B
+451209C
 
-Revised: November 2010
+Revised: April 2011
