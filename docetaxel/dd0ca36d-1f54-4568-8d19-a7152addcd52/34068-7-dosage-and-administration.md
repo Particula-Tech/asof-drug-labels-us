@@ -188,7 +188,7 @@ Docetaxel Injection Concentrate (20 mg/mL) requires NO prior dilution with a dil
 
 1. Docetaxel vials should be stored between 2 and 25°C (36 and 77°F).
    If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel Injection Concentrate vials to stand at room temperature for approximately 5 minutes before use.
-2. Aseptically withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+2. Using a 21 gauge needle aseptically[Module 1.11.4] withdraw the required amount of docetaxel injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
