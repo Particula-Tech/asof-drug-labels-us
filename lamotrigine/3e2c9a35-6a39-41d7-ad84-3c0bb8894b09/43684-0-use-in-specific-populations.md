@@ -70,6 +70,7 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of immediate-release lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the patients with significant renal impairment [see Clinical Pharmacology (12.3)].
+
 Initial doses of LAMICTAL XR should be based on patients’ AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
 Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
 Because there is inadequate experience in this population, LAMICTAL XR should be used with caution in these patients [see Dosage and Administration (2.1)].

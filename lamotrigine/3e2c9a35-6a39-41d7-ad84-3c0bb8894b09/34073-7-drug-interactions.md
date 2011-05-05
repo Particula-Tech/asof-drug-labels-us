@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Significant drug interactions with lamotrigine are summarized in Table 5.
-Additional details of these drug interaction studies, which were conducted using immediate-release lamotrigine, are provided in the Clinical Pharmacology section [see Clinical Pharmacology(12.3)].
+Additional details of these drug interaction studies, which were conducted using immediate-release lamotrigine, are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].
 
 Table 5.
 Established and Other Potentially Significant Drug Interactions

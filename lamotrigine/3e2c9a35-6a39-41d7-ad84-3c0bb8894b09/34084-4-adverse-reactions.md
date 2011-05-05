@@ -14,7 +14,7 @@ The following adverse reactions are described in more detail in the Warnings and
 
 ## 6.1 Clinical Trial Experience With LAMICTAL XR for Treatment of Primary Generalized Tonic-Clonic and Partial Onset Seizures
 
-Most Common Adverse Reactions in Clinical Studies: Adjunctive Therapy in Patients With Epilepsy: Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Most Common Adverse Reactions in Clinical Studies:Adjunctive Therapy in Patients With Epilepsy: Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 LAMICTAL XR has been evaluated for safety in patients ≥13 years of age with PGTC and partial onset seizures.
 The most commonly observed adverse reactions in these 2 double-blind, placebo-controlled trials of adjunctive therapy with LAMICTAL XR were, in order of decreasing incidence (treatment difference between LAMICTAL XR and placebo ≥4%): dizziness, tremor/intention tremor, vomiting, and diplopia.
@@ -134,7 +134,7 @@ Rare: Gastrointestinal hemorrhage, hemorrhagic colitis, hepatitis, melena and st
 
 Endocrine System:Rare: Goiter, hypothyroidism.
 
-Hematologic and Lymphatic System: Infrequent: Ecchymosis, leukopenia.
+Hematologic and Lymphatic System:Infrequent: Ecchymosis, leukopenia.
 Rare: Anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, petechia, thrombocytopenia.
 
 Metabolic and Nutritional Disorders:Infrequent: Aspartate transaminase increased.
@@ -148,7 +148,7 @@ Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal 
 
 Respiratory System:Rare: Hiccup, hyperventilation.
 
-Special Senses: Frequent: Amblyopia.
+Special Senses:Frequent: Amblyopia.
 Infrequent: Abnormality of accommodation, conjunctivitis, dry eyes, ear pain, photophobia, taste perversion, tinnitus.
 Rare: Deafness, lacrimation disorder, oscillopsia, parosmia, ptosis, strabismus, taste loss, uveitis, visual field defect.
 

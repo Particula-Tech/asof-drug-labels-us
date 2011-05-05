@@ -42,6 +42,7 @@ Multiorgan failure, which in some cases has been fatal or irreversible, has been
 Fatalities associated with multiorgan failure and various degrees of hepatic failure have been reported in 2 of 3,796 adult patients and 4 of 2,435 pediatric patients who received immediate-release lamotrigine in epilepsy clinical trials.
 Rare fatalities from multiorgan failure have been reported in compassionate plea and postmarketing use.
 The majority of these deaths occurred in association with other serious medical events, including status epilepticus and overwhelming sepsis, and hantavirus, making it difficult to identify the initial cause.
+
 Additionally, 3 patients (a 45-year-old woman, a 3.5-year-old boy, and an 11-year-old girl) developed multiorgan dysfunction and disseminated intravascular coagulation 9 to 14 days after immediate-release lamotrigine was added to their AED regimens.
 Rash and elevated transaminases were also present in all patients and rhabdomyolysis was noted in 2 patients.
 Both pediatric patients were receiving concomitant therapy with valproate, while the adult patient was being treated with carbamazepine and clonazepam.
@@ -102,7 +103,7 @@ In most cases, symptoms were reported to resolve after discontinuation of lamotr
 Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
 Some of the patients treated with LAMICTAL who developed aseptic meningitis had underlying diagnoses of systemic lupus erythematosus or other autoimmune diseases.
 
-Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild-to-moderate pleocytosis, normal glucose levels, and mild-to-moderate increase in protein.
+Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
 CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
 Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warnings and Precautions (5.2)].
 

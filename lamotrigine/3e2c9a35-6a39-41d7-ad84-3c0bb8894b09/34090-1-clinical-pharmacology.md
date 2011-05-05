@@ -6,6 +6,7 @@ The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action i
 In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock and pentylenetetrazol tests, and prevented seizures in the visually and electrically evoked after-discharge tests for antiepileptic activity.
 Lamotrigine also displayed inhibitory properties in a kindling model in rats both during kindling development and in the fully kindled state.
 The relevance of these models to human epilepsy, however, is not known.
+
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
 In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
@@ -21,7 +22,7 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
-Cardiovascular:In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
+Cardiovascular: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
 This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
 Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
 However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
@@ -85,7 +86,7 @@ Since the half-life of lamotrigine following administration of single doses of i
 Table 7.
 Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Volunteers and Adult Patients With Epilepsy
 
-| Adult Study Population | Number of Subjects | t½: Elimination Half-life(hr) | CL/F:Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | t½: Elimination Half-life (hr) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |
 | Single-dose lamotrigine | 179 | 32.8(14.0-103.0) | 0.44(0.12-1.10) |
@@ -161,7 +162,7 @@ hSlight increase, not expected to be clinically relevant.
 Estrogen-Containing Oral Contraceptives: In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7)].
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation) [see Drug Interactions (7)].
 The increase in lamotrigine plasma levels will be greater if the dose of LAMICTAL XR is increased in the few days before or during the pill-free week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
