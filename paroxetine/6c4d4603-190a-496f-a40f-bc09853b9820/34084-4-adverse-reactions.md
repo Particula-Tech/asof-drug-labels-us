@@ -24,7 +24,7 @@ The most common events (≥1%) associated with discontinuation and considered to
 | Asthenia | 1.6% | 0.4% | 1.9% | 0.4% | - | - | 1.8% | 0.2% |
 | Abnormal Ejaculation 1 | 1.6% | 0% | 2.1% | 0% | - | - | 2.5% | 0.5% |
 | Sweating | 1.0% | 0.3% | - | - | - | - | 1.1% | 0.2% |
-| Impotence1 | - | - | 1.5% | 0% | - | - | - | - |
+| Impotence 1 | - | - | 1.5% | 0% | - | - | - | - |
 | Where numbers are not provided the incidence of the adverse events in patients treated with paroxetine was not >1% or was not greater than or equal to two times the incidence of placebo. |  |  |  |  |  |  |  |  |
 | 1 Incidence corrected for gender. |  |  |  |  |  |  |  |  |
 
@@ -74,7 +74,7 @@ TABLE 2
 |  | Diarrhea | 12% | 8% |
 |  | Decreased Appetite | 6% | 2% |
 |  | Flatulence | 4% | 2% |
-|  | Oropharynx Disorder2 | 2% | 0% |
+|  | Oropharynx Disorder 2 | 2% | 0% |
 |  | Dyspepsia | 2% | 1% |
 | Musculoskeletal | Myopathy | 2% | 1% |
 |  | Myalgia | 2% | 1% |
@@ -92,7 +92,7 @@ TABLE 2
 | Respiration | Yawn | 4% | 0% |
 | Special Senses | Blurred Vision | 4% | 1% |
 |  | Taste Perversion | 2% | 0% |
-| Urogenital System | Ejaculatory Disturbance3,4 | 13% | 0% |
+| Urogenital System | Ejaculatory Disturbance 3,4 | 13% | 0% |
 |  | Other Male Genital Disorders 3,5 | 10% | 0% |
 |  | Urinary Frequency | 3% | 1% |
 |  | Urination Disorder 6 | 3% | 0% |
@@ -111,7 +111,7 @@ Table 3 enumerates adverse events that occurred at a frequency of 2% or more amo
 
 TABLE 3
 
-| Treatment-Emergent Adverse Experience Incidence in Clinical Trials for Obsessive Compulsive Disorder and Panic Disorder 1 |  |  |  |  |  |
+| Treatment-Emergent Adverse Experience Incidence in Clinical Trials for Obsessive Compulsive Disorder and Panic Disorder1 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Obsessive Compulsive Disorder |  | Panic Disorder |  |
 | Body System | Preferred Term | Paroxetine (n=542) | Placebo (n=265) | Paroxetine (n=469) | Placebo (n=324) |
@@ -146,9 +146,9 @@ TABLE 3
 | Respiratory System | Rhinitis | - | - | 3% | 0% |
 | Special Senses | Abnormal Vision | 4% | 2% | - | - |
 |  | Taste Perversion | 2% | 0% | - | - |
-| Urogenital System | Abnormal Ejaculation2 | 23% | 1% | 21% | 1% |
-|  | Female Genital Disorder2 | 3% | 0% | 9% | 1% |
-|  | Impotence2 | 8% | 1% | 5% | 0% |
+| Urogenital System | Abnormal Ejaculation 2 | 23% | 1% | 21% | 1% |
+|  | Female Genital Disorder 2 | 3% | 0% | 9% | 1% |
+|  | Impotence 2 | 8% | 1% | 5% | 0% |
 |  | Urinary Frequency | 3% | 1% | 2% | 0% |
 |  | Urination Impaired | 3% | 0% | - | - |
 |  | Urinary Tract Infection | 2% | 1% | 2% | 1% |
@@ -185,9 +185,9 @@ TABLE 4
 |  | Sinusitis | 4% | 3% |
 |  | Yawn | 4% | - |
 | Special Senses | Abnormal Vision | 2% | 1% |
-| Urogenital System | Abnormal Ejaculation2 | 25% | 2% |
-|  | Female Genital Disorder2 | 4% | 1% |
-|  | Impotence2 | 4% | 3% |
+| Urogenital System | Abnormal Ejaculation 2 | 25% | 2% |
+|  | Female Genital Disorder 2 | 4% | 1% |
+|  | Impotence 2 | 4% | 3% |
 | 1 Events reported by at least 2% of GAD patients treated with paroxetine are included, except the following events which had an incidence on placebo ≥ paroxetine: abdominal pain, back pain, trauma, dyspepsia, myalgia, and pharyngitis. |  |  |  |
 | 2 Percentage corrected for gender. |  |  |  |
 

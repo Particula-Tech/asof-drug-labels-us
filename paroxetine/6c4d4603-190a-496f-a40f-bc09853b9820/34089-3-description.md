@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 PEXEVA® (paroxetine mesylate) is an orally administered psychotropic drug with a chemical structure related to paroxetine hydrochloride (Paxil®).
-It is the mesylate salt of a phenylpiperidine compound identified chemically as (-)-trans -4R- (4'-fluorophenyl) - 3S - [(3', 4'-methylenedioxyphenoxy) methyl] piperidine mesylate and has the empirical formula of C19H20FNO3•CH3SO3H.
+It is the mesylate salt of a phenylpiperidine compound identified chemically as (-)- trans -4R- (4'-fluorophenyl) - 3S - [(3', 4'-methylenedioxyphenoxy) methyl] piperidine mesylate and has the empirical formula of C19H20FNO3•CH3SO3H.
 The molecular weight is 425.5 (329.4 as free base).
 The structural formula is:
 

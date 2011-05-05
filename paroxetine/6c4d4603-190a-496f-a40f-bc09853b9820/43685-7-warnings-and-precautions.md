@@ -39,11 +39,11 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with PEXEVA® (paroxetine mesylate), for a description of the risks of discontinuation of PEXEVA® (paroxetine mesylate)).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with PEXEVA® (paroxetine mesylate), for a description of the risks of discontinuation of PEXEVA ® (paroxetine mesylate)).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for PEXEVA® (paroxetine mesylate) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for PEXEVA ® (paroxetine mesylate) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -62,18 +62,18 @@ At least 2 weeks should be allowed after stopping PEXEVA® (paroxetine mesylate)
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including PEXEVA® (paroxetine mesylate) treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including PEXEVA ® (paroxetine mesylate) treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of PEXEVA® (paroxetine mesylate) with MAOIs intended to treat depression is contraindicated.
+The concomitant use of PEXEVA ® (paroxetine mesylate) with MAOIs intended to treat depression is contraindicated.
 
-If concomitant treatment of PEXEVA® (paroxetine mesylate) with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment of PEXEVA ® (paroxetine mesylate) with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-The concomitant use of PEXEVA® (paroxetine mesylate) with serotonin precursors (such as tryptophan) is not recommended.
+The concomitant use of PEXEVA ® (paroxetine mesylate) with serotonin precursors (such as tryptophan) is not recommended.
 
-Treatment with PEXEVA® (paroxetine mesylate) and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with PEXEVA ® (paroxetine mesylate) and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Potential Interaction with Thioridazine
 
@@ -159,6 +159,11 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE and ADMINISTRATION).
 
 See also PRECAUTIONS—Pediatric Use for adverse events reported upon discontinuation of treatment with paroxetine in pediatric patients.
+
+Tamoxifen: Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see PRECAUTIONS—Drug Interactions).
+However, other studies have failed to demonstrate such a risk.
+It is uncertain whether the co-administration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
 
 Akathisia: The use of paroxetine or other SSRIs has been associated with the development of akathisia, which is characterized by an inner sense of restlessness and psychomotor agitation such as an inability to sit or stand still usually associated with subjective distress.
 This is most likely to occur within the first few weeks of treatment.
@@ -248,7 +253,7 @@ Consequently, concomitant use of paroxetine with tryptophan is not recommended.
 
 Monoamine Oxidase Inhibitors: See CONTRAINDICATIONS and WARNINGS.
 
-Pimozide: In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, coadministration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and Cmax of 62%, compared to pimozide administered alone.
+Pimozide: In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, coadministration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and C max of 62%, compared to pimozide administered alone.
 Due to the narrow therapeutic index of pimozide and its known ability to prolong the QT interval, concomitant use of pimozide and paroxetine is contraindicated (see CONTRAINDICATIONS).
 
 Serotonergic Drugs: Based on the mechanism of action of paroxetine and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs or agents that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS—Serotonin Syndrome).
@@ -264,18 +269,18 @@ If concomitant use of paroxetine with a triptan is warranted, careful observatio
 
 Drugs Affecting Hepatic Metabolism: The metabolism and pharmacokinetics of paroxetine may be affected by the induction or inhibition of drug-metabolizing enzymes.
 
-Cimetidine—Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
+Cimetidine— Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
 In a study where paroxetine (30 mg qd) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg tid) for the final week.
 Therefore, when these drugs are administered concurrently, dosage adjustment of paroxetine after the 20 mg starting dose should be guided by clinical effect.
 The effect of paroxetine on cimetidine's pharmacokinetics was not studied.
 
-Phenobarbital—Phenobarbital induces many cytochrome P450 (oxidative) enzymes.
+Phenobarbital— Phenobarbital induces many cytochrome P450 (oxidative) enzymes.
 When a single oral 30 mg dose of paroxetine was administered at phenobarbital steady state (100 mg qd for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
 The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
 Since paroxetine exhibits nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed.
 No initial paroxetine dosage adjustment is considered necessary when coadministered with phenobarbital; any subsequent adjustment should be guided by clinical effect.
 
-Phenytoin—When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg qd for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
+Phenytoin— When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg qd for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
 In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady state (30 mg qd for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Since both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed.
 No initial dosage adjustments are considered necessary when these drugs are coadministered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS—Postmarketing Reports).
@@ -283,12 +288,12 @@ No initial dosage adjustments are considered necessary when these drugs are coad
 Drugs Metabolized by Cytochrome CYP2D6: Many drugs, including most drugs effective in the treatment of MDD (paroxetine, other SSRIs, and many tricyclics), are metabolized by the cytochrome P450 isozyme CYP2D6.
 Like other agents that are metabolized by CYP2D6, paroxetine may significantly inhibit the activity of this isozyme.
 In most patients (>90%), this CYP2D6 isozyme is saturated early during paroxetine dosing.
-In one study, daily dosing of paroxetine (20 mg qd) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively.
+In one study, daily dosing of paroxetine (20 mg qd) under steady-state conditions increased single dose desipramine (100 mg) C max, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively.
 Concomitant use of paroxetine with risperidone, a CYP2D6 substrate, has also been evaluated.
 In one study, daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day) increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold.
 The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
 In healthy volunteers who were extensive metabolizers of CYP2D6, paroxetine 20 mg daily was given in combination with 20 mg atomoxetine every 12 hours.
-This resulted in increases in steady state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone.
+This resulted in increases in steady state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine C max values that were 3- to 4-fold greater than when atomoxetine was given alone.
 Dosage adjustment of atomoxetine may be necessary and it is recommended that atomoxetine be initiated at a reduced dose when it is given with paroxetine.
 
 Concomitant use of paroxetine with other drugs metabolized by cytochrome CYP2D6 has not been formally studied but may require lower doses than usually prescribed for either paroxetine or the other drug.
@@ -315,31 +320,31 @@ Epidemiological studies of the case-control and cohort design that have demonstr
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when PEXEVA® (paroxetine mesylate) is initiated or discontinued.
 
-Alcohol—Although paroxetine does not increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking PEXEVA® (paroxetine mesylate).
+Alcohol— Although paroxetine does not increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking PEXEVA® (paroxetine mesylate).
 
-Lithium—A multiple-dose study has shown that there is no pharmacokinetic interaction between paroxetine and lithium carbonate.
+Lithium— A multiple-dose study has shown that there is no pharmacokinetic interaction between paroxetine and lithium carbonate.
 However, since there is little clinical experience, the concurrent administration of paroxetine and lithium should be undertaken with caution.
 
-Digoxin—The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
+Digoxin— The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
 Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine.
 Since there is little clinical experience, the concurrent administration of paroxetine and digoxin should be undertaken with caution.
 
-Diazepam—Under steady-state conditions, diazepam does not appear to affect paroxetine kinetics.
+Diazepam— Under steady-state conditions, diazepam does not appear to affect paroxetine kinetics.
 The effects of paroxetine on diazepam were not evaluated.
 
-Procyclidine—Daily oral dosing of paroxetine (30 mg qd) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral qd) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
+Procyclidine— Daily oral dosing of paroxetine (30 mg qd) increased steady-state AUC0-24, C max, and C min values of procyclidine (5 mg oral qd) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
 If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 
-Beta-Blockers—In a study where propranolol (80 mg bid) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with paroxetine (30 mg qd) for the final 10 days.
+Beta-Blockers— In a study where propranolol (80 mg bid) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during coadministration with paroxetine (30 mg qd) for the final 10 days.
 The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS—Postmarketing Reports).
 
-Theophylline—Reports of elevated theophylline levels associated with paroxetine treatment have been reported.
+Theophylline— Reports of elevated theophylline levels associated with paroxetine treatment have been reported.
 While this interaction has not been formally studied, it is recommended that theophylline levels be monitored when these drugs are concurrently administered.
 
-Fosamprenavir/Ritonavir—Coadministration of fosamprenavir/ ritonavir with paroxetine significantly decreased plasma levels of paroxetine.
+Fosamprenavir/Ritonavir— Coadministration of fosamprenavir/ ritonavir with paroxetine significantly decreased plasma levels of paroxetine.
 Any dose adjustment should be guided by clinical effect (tolerability and efficacy).
 
-Electroconvulsive Therapy (ECT)—There are no clinical studies of the combined use of ECT and paroxetine.
+Electroconvulsive Therapy (ECT)— There are no clinical studies of the combined use of ECT and paroxetine.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -374,6 +379,8 @@ Like many other drugs, paroxetine is secreted in human milk, and caution should 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with paroxetine, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of paroxetine mesylate in a child or adolescent must balance the potential risks with the clinical need.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as PEXEVA®.
 
 In placebo-controlled clinical trials conducted with pediatric patients, the following adverse events were reported in at least 2% of pediatric patients treated with paroxetine and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
 

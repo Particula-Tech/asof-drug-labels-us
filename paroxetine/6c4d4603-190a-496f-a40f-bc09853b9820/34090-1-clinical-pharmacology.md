@@ -13,16 +13,18 @@ Because the relative potencies of paroxetine's major metabolites are at most 1/5
 
 Paroxetine mesylate is completely absorbed after oral dosing of the mesylate salt.
 In a study in which normal male subjects (n=25) received paroxetine 30 mg tablets daily for 24 days, steady-state paroxetine concentrations were achieved by approximately 13 days for most subjects, although it may take substantially longer in an occasional patient.
-At steady state, mean values of Cmax, Tmax, Cmin, and T1/2 were 81.3 ng/ml (CV 41%), 8.1 hr. (CV 56%), 43.2 ng/ml (CV 52%), and 33.2 hr. (CV 52%), respectively.
-The steady-state Cmax and Cmin values were about 7 and 10 times what would be predicted from single dose studies.
+At steady state, mean values of C max, T max, C min, and T1/2 were 81.3 ng/ml (CV 41%), 8.1 hr. (CV 56%), 43.2 ng/ml (CV 52%), and 33.2 hr. (CV 52%), respectively.
+The steady-state C max and C min values were about 7 and 10 times what would be predicted from single dose studies.
 Steady-state drug exposure based on AUC0-24 was about 10 times greater than would have been predicted from single-dose data in these subjects.
 The excess accumulation is a consequence of the fact that one of the enzymes that metabolizes paroxetine is readily saturable.
 
 In steady-state dose proportionality studies involving elderly and nonelderly patients, at doses of 20 to 40 mg daily for the elderly and 20 to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
-In comparison to Cmin values after 20 mg daily, values after 40 mg were only about 2 to 3 times greater than doubled.
+In comparison to C min values after 20 mg daily, values after 40 mg were only about 2 to 3 times greater than doubled.
 
 The effects of food on the bioavailability of paroxetine were studied in subjects administered a single dose with and without food.
-AUC was only slightly increased (6%) when drug was administered with food but the Cmax was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post-dosing to 4.9 hours.
+AUC was only slightly increased (6%) when drug was administered with food but the C max was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post-dosing to 4.9 hours.
+
+In a meta analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
 
 Paroxetine is extensively metabolized after oral administration.
 The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared.
@@ -43,14 +45,14 @@ Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
 
 Renal and Liver Disease: Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
 The mean plasma concentrations in patients with creatinine clearance below 30 ml/min was approximately 4 times greater than seen in normal volunteers.
-Patients with creatinine clearance of 30 to 60 ml/min and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, Cmax).
+Patients with creatinine clearance of 30 to 60 ml/min and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, C max).
 
 The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
 
-Elderly Patients: In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, Cmin concentrations were about 70% to 80% greater than the respective Cmin concentrations in nonelderly subjects.
+Elderly Patients: In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, C min concentrations were about 70% to 80% greater than the respective C min concentrations in nonelderly subjects.
 Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
 
-Drug-Drug Interactions: In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
+Drug-Drug Interactions:In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS—Drug Interactions).
 
 ## Clinical Trials
