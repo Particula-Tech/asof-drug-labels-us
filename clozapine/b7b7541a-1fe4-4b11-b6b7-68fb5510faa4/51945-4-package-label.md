@@ -26,8 +26,9 @@ Dispense: Dispensing should be contingent upon the results of WBC count and ANC;
 
 Distributed by Azur Pharma, Inc., AZUR PHARMA
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo is a registered trademark of Azur Pharma International III Limited.
+1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
+U.S. Patent Nos. 6,024,981; 6,221,392.
+FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 Sep 2010, FZCLtb-10-12a 00017196
 
@@ -59,8 +60,9 @@ Dispense: Dispensing should be contingent upon the results of WBC count and ANC;
 
 Distributed by Azur Pharma, Inc., AZUR PHARMA
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo is a registered trademark of Azur Pharma International III Limited.
+1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
+U.S. Patent Nos. 6,024,981; 6,221,392.
+FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 Sep 2010, FZCLtb-10-22a 00017199
 
@@ -92,8 +94,9 @@ Dispense: Dispensing should be contingent upon the results of WBC count and ANC;
 
 Distributed by Azur Pharma, Inc., AZUR PHARMA
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo is a registered trademark of Azur Pharma International III Limited.
+1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
+U.S. Patent Nos. 6,024,981; 6,221,392.
+FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 Sep 2010, FZCLtb-10-32a 00017195
 
@@ -125,8 +128,9 @@ Dispense: Dispensing should be contingent upon the results of WBC count and ANC;
 
 Distributed by Azur Pharma, Inc., AZUR PHARMA
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
-FazaClo is a registered trademark of Azur Pharma International III Limited.
+1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA.
+U.S. Patent Nos. 6,024,981; 6,221,392.
+FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
 Sep 2010, FZCLtb-10-42a 00017197
 
@@ -156,9 +160,9 @@ KEEP OUT OF REACH OF CHILDREN.
 
 Dispense: Dispensing should be contingent upon the results of WBC count and ANC; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
-Manufactured for Azur Pharma, Inc., AZUR PHARMA
+Distributed by Azur Pharma, Inc., AZUR PHARMA
 
-1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA by CIMA® LABS INC. U.S. Patent Nos. 6,024,981; 6,221,392.
-CIMA® is a registered trademark of CIMA LABS INC. FazaClo is a registered trademark of Azur Pharma International III Limited.
+1818 Market Street, Suite 2350, Philadelphia, PA 19103, USA U.S. Patent Nos. 6,024,981; 6,221,392.
+FazaClo® is a registered trademark of Azur Pharma International III Limited.
 All rights reserved.
-Feb 2010
+Sep 2010, FZCLtb-10-52a 00017198
