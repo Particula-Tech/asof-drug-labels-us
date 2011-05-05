@@ -1,7 +1,7 @@
 # WARNINGS
 
 (1) Hepatic injury: Fluconazole has been associated with rare cases of serious hepatic toxicity, including fatalities primarily in patients with serious underlying medical conditions.
-In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex, or age of the patient has been observed.
+In cases of fluconazole-associated hepatotoxicity, no obvious relationship to total daily dose, duration of therapy, sex or age of the patient has been observed.
 Fluconazole hepatotoxicity has usually, but not always, been reversible on discontinuation of therapy.
 Patients who develop abnormal liver function tests during fluconazole therapy should be monitored for the development of more severe hepatic injury.
 Fluconazole should be discontinued if clinical signs and symptoms consistent with liver disease develop that may be attributable to fluconazole.
@@ -18,7 +18,7 @@ Patients who develop rashes during treatment with fluconazole should be monitore
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
-Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
+Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities and concomitant medications that may have been contributory.
 
 Fluconazole should be administered with caution to patients with these potentially proarrhythmic conditions.
 
@@ -71,22 +71,23 @@ Careful monitoring of serum theophylline concentrations in patients receiving fl
 ### Terfenadine
 
 Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
-One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+One study at a 200-mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
+Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
 
 ### Cisapride
 
-There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
+There have been reports of cardiac events, including torsade de pointes in patients to whom fluconazole and cisapride were coadministered.
 A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
 The combined use of fluconazole with cisapride is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Astemizole
 
-The use of fluconazole in patients concurrently taking astemizole or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs in the absence of definitive information, caution should be used when coadministering fluconazole.
+The use of fluconazole in patients concurrently taking astemizole or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs.
+In the absence of definitive information, caution should be used when coadministering fluconazole.
 Patients should be carefully monitored.
 
 ### Rifabutin
@@ -105,46 +106,42 @@ Patients receiving tacrolimus and fluconazole concomitantly should be carefully 
 
 Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
 This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
-If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
+If short‑acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
-Fluconazole tablets coadministered with ethinyl estradiol- and levonorgestrel-contraining oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels.
+Fluconazole tablets coadministered with ethinyl estradiol- and levonorgestrel-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; however, in some patients there were decreases up to 47% and 33% of ethinyl estradiol and levonorgestrel levels.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 The data presently available indicate that the decreases in some individual ethinyl estradiol and levonorgestrel AUC values with fluconazole treatment are likely the result of random variation.
 While there is evidence that fluconazole can inhibit the metabolism of ethinyl estradiol and levonorgestrel, there is no evidence that fluconazole is a net inducer of ethinyl estradiol or levonorgestrel metabolism.
 The clinical significance of these effects is presently unknown.
 
-### NOTE
-
 Physicians should be aware that interaction studies with medications other than those listed in the CLINICAL PHARMACOLOGY section have not been conducted, but such interactions may occur.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
-Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5, or 10 mg/kg/day (approximately 2–7× the recommended human dose).
-Male rats treated with 5 and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
+Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5 or 10 mg/kg/day (approximately 2-7x the recommended human dose).
+Male rats treated with 5 and 10 mg/‌kg/day had an increased incidence of hepatocellular adenomas.
 
 Fluconazole, with or without metabolic activation, was negative in tests for mutagenicity in 4 strains of S. typhimurium, and in the mouse lymphoma L5178Y system.
-Cytogenetic studies in vivo (murine bone marrow cells, following oral administration of fluconazole) and in vitro (human lymphocytes exposed to fluconazole at 1000 mcg/mL) showed no evidence of chromosomal mutations.
+Cytogenetic studies in vivo (murine bone marrow cells, following oral administration of fluconazole) and in vitro (human lymphocytes exposed to fluconazole at 1000 mcg/‌mL) showed no evidence of chromosomal mutations.
 
-Fluconazole did not affect the fertility of male or female rats treated orally with daily doses of 5, 10, or 20 mg/kg or with parenteral doses of 5, 25, or 75 mg/kg, although the onset of parturition was slightly delayed at 20 mg/kg PO.
-In an intravenous perinatal study in rats at 5, 20, and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5–15× the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
-The disturbances in parturition were reflected by a slight increase in the number of still born pups and decrease of neonatal survival at these dose levels.
+Fluconazole did not affect the fertility of male or female rats treated orally with daily doses of 5, 10 or 20 mg/kg or with parenteral doses of 5, 25 or 75 mg/kg, although the onset of parturition was slightly delayed at 20 mg/kg PO.
+In an intravenous perinatal study in rats at 5, 20 and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5-15x the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
+The disturbances in parturition were reflected by a slight increase in the number of still-born pups and decrease of neonatal survival at these dose levels.
 The effects on parturition in rats are consistent with the species specific estrogen-lowering property produced by high doses of fluconazole.
 Such a hormone change has not been observed in women treated with fluconazole.
 (See CLINICAL PHARMACOLOGY.)
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects. Pregnancy Category C
 
-#### Pregnancy Category C
-
-Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
-Maternal weight gain was impaired at all dose levels, and abortions occurred at 75 mg/kg (approximately 20–60× the recommended human dose); no adverse fetal effects were detected.
+Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies, at 5, 10 and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
+Maternal weight gain was impaired at all dose levels, and abortions occurred at 75 mg/kg (approximately 20-60x the recommended human dose); no adverse fetal effects were detected.
 In several studies in which pregnant rats were treated orally with fluconazole during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
 There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
-At doses ranging from 80 mg/kg (approximately 20–60× the recommended human dose) to 320 mg/kg, embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
-These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
+At doses ranging from 80 mg/kg (approximately 20-60x the recommended human dose) to 320 mg/kg embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate and abnormal cranio-facial ossification.
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis and parturition.
 
 There are no adequate and well controlled studies in pregnant women.
 There have been reports of multiple congenital abnormalities in infants whose mothers were being treated for 3 or more months with high dose (400-800 mg/day) fluconazole therapy for coccidioidomycosis (an unindicated use).
@@ -180,9 +177,9 @@ A small number of patients (29) ranging in age from 1 day to 6 months have been 
 
 ## Geriatric Use
 
-In non-AIDS patients, side effects possibly related to fluconazole treatment were reported in fewer patients aged 65 and older (9%, n =339) than for younger patients (14%, n=2240).
+In non-AIDS patients, side effects possibly related to fluconazole treatment were reported in fewer patients aged 65 and older (9%, n=339) than for younger patients (14%, n=2240).
 However, there was no consistent difference between the older and younger patients with respect to individual side effects.
-Of the most frequently reported (>1%) side effects, rash, vomiting, and diarrhea occurred in greater proportions of older patients.
+Of the most frequently reported (> 1%) side effects, rash, vomiting and diarrhea occurred in greater proportions of older patients.
 Similar proportions of older patients (2.4%) and younger patients (1.5%) discontinued fluconazole therapy because of side effects.
 In post-marketing experience, spontaneous reports of anemia and acute renal failure were more frequent among patients 65 years of age or older than in those between 12 and 65 years of age.
 Because of the voluntary nature of the reports and the natural increase in the incidence of anemia and renal failure in the elderly, it is however not possible to establish a casual relationship to drug exposure.

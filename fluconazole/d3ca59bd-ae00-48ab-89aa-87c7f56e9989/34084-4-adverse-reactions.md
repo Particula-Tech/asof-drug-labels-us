@@ -24,9 +24,9 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking fluconazole concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-#### Post-Marketing Experience
+## Post-Marketing Experience
 
-In addition, the following adverse events have occurred during post-marketing experience.
+In addition, the following adverse events have occurred during postmarketing experience.
 
 Immunologic: In rare cases, anaphylaxis (including angioedema, face edema and pruritus) has been reported.
 
@@ -48,10 +48,10 @@ Other Senses: Taste perversion.
 ## Adverse Reactions in Children
 
 In Phase II/III clinical trials conducted in the United States and in Europe, 577 pediatric patients, ages 1 day to 17 years were treated with fluconazole at doses up to 15 mg/kg/day for up to 1,616 days.
-Thirteen percent of children experienced treatment-related adverse events.
+Thirteen percent of children experienced treatment related adverse events.
 The most commonly reported events were vomiting (5%), abdominal pain (3%), nausea (2%), and diarrhea (2%).
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
-The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
+The majority of treatment‑related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
 
 Percentage of Patients With Treatment-Related Side Effects
 
@@ -62,3 +62,5 @@ Percentage of Patients With Treatment-Related Side Effects
 | Abdominal pain | 2.8 | 1.6 |
 | Nausea | 2.3 | 1.6 |
 | Diarrhea | 2.1 | 2.2 |
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
