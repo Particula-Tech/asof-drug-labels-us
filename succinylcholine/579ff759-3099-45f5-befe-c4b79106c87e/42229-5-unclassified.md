@@ -4,7 +4,7 @@ Manufactured by
 
 Strides Arcolab Limited
 
-Bangalore – 560 076, India for
+Bangalore – 560 105, India for
 
 Sandoz Inc.
 
