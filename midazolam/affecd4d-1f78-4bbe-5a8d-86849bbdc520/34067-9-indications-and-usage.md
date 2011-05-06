@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Midazolam hydrochloride injection is indicated:
+Midazolam injection is indicated:
 
 - intramuscularly or intravenously for preoperative sedation/anxiolysis/amnesia;
 - intravenously as an agent for sedation/anxiolysis/amnesia prior to or during diagnostic, therapeutic or endoscopic procedures, such as bronchoscopy, gastroscopy, cystoscopy, coronary angiography, cardiac catheterization, oncology procedures, radiologic procedures, suture of lacerations and other procedures either alone or in combination with other CNS depressants;

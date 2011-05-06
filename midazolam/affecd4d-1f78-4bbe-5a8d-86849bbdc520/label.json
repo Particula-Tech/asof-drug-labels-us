@@ -1,13 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075293"
+  ],
   "inn": "midazolam",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-2587-05",
+    "0409-2587-53",
     "0409-2596-03",
-    "0409-2596-05"
+    "0409-2596-05",
+    "0409-2596-52",
+    "0409-2596-53"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "midazolam hydrochloride",
+      "name": "Midazolam Hydrochloride"
+    }
+  ],
   "setid": "affecd4d-1f78-4bbe-5a8d-86849bbdc520",
   "source": "dailymed"
 }

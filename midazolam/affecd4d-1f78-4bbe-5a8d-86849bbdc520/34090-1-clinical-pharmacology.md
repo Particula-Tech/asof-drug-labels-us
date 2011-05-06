@@ -2,9 +2,9 @@
 
 Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.
 
-The effects of midazolam hydrochloride on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications.
+The effects of midazolam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications.
 Onset time of sedative effects after IM administration in adults is 15 minutes, with peak sedation occurring 30 to 60 minutes following injection.
-In one adult study, when tested the following day, 73% of the patients who received midazolam hydrochloride intramuscularly had no recall of memory cards shown 30 minutes following drug administration; 40% had no recall of the memory cards shown 60 minutes following drug administration.
+In one adult study, when tested the following day, 73% of the patients who received midazolam intramuscularly had no recall of memory cards shown 30 minutes following drug administration; 40% had no recall of the memory cards shown 60 minutes following drug administration.
 Onset time of sedative effects in the pediatric population begins within 5 minutes and peaks at 15 to 30 minutes depending upon the dose administered.
 In pediatric patients, up to 85% had no recall of pictures shown after receiving intramuscular midazolam compared with 5% of the placebo controls.
 
@@ -13,7 +13,7 @@ Seventy-one percent of the adult patients in endoscopy studies had no recall of 
 In one study of pediatric patients undergoing lumbar puncture or bone marrow aspiration, 88% of patients had impaired recall vs 9% of the placebo controls.
 In another pediatric oncology study, 91% of midazolam treated patients were amnestic compared with 35% of patients who had received fentanyl alone.
 
-When midazolam hydrochloride is given IV as an anesthetic induction agent, induction of anesthesia occurs in approximately 1.5 minutes when narcotic premedication has been administered and in 2 to 2.5 minutes without narcotic premedication or other sedative premedication.
+When midazolam is given IV as an anesthetic induction agent, induction of anesthesia occurs in approximately 1.5 minutes when narcotic premedication has been administered and in 2 to 2.5 minutes without narcotic premedication or other sedative premedication.
 Some impairment in a test of memory was noted in 90% of the patients studied.
 A dose response study of pediatric patients premedicated with 1 mg/kg intramuscular (IM) meperidine found that only 4 out of 6 pediatric patients who received 600 mcg/kg IV midazolam lost consciousness, with eye closing at 108 ±140 seconds.
 This group was compared with pediatric patients who were given thiopental 5 mg/kg IV; 6 out of 6 closed their eyes at 20 ± 3.2 seconds.
@@ -24,19 +24,19 @@ Gross tests of recovery after awakening (orientation, ability to stand and walk,
 When compared with patients who received thiopental, patients who received midazolam generally recovered at a slightly slower rate.
 Recovery from anesthesia or sedation for procedures in pediatric patients depends on the dose of midazolam administered, coadministration of other medications causing CNS depression and duration of the procedure.
 
-In patients without intracranial lesions, induction of general anesthesia with IV midazolam hydrochloride is associated with a moderate decrease in cerebrospinal fluid pressure (lumbar puncture measurements), similar to that observed following IV thiopental.
+In patients without intracranial lesions, induction of general anesthesia with IV midazolam is associated with a moderate decrease in cerebrospinal fluid pressure (lumbar puncture measurements), similar to that observed following IV thiopental.
 Preliminary data in neurosurgical patients with normal intracranial pressure but decreased compliance (subarachnoid screw measurements) show comparable elevations of intracranial pressure with midazolam and with thiopental during intubation.
 No similar studies have been reported in pediatric patients.
 
-The usual recommended intramuscular premedicating doses of midazolam hydrochloride do not depress the ventilatory response to carbon dioxide stimulation to a clinically significant extent in adults.
-Intravenous induction doses of midazolam hydrochloride depress the ventilatory response to carbon dioxide stimulation for 15 minutes or more beyond the duration of ventilatory depression following administration of thiopental in adults.
+The usual recommended intramuscular premedicating doses of midazolam do not depress the ventilatory response to carbon dioxide stimulation to a clinically significant extent in adults.
+Intravenous induction doses of midazolam depress the ventilatory response to carbon dioxide stimulation for 15 minutes or more beyond the duration of ventilatory depression following administration of thiopental in adults.
 Impairment of ventilatory response to carbon dioxide is more marked in adult patients with chronic obstructive pulmonary disease (COPD).
 Sedation with IV midazolam does not adversely affect the mechanics of respiration (resistance, static recoil, most lung volume measurements); total lung capacity and peak expiratory flow decrease significantly but static compliance and maximum expiratory flow at 50% of awake total lung capacity (Vmax) increase.
 In one study of pediatric patients under general anesthesia, intramuscular midazolam (100 or 200 mcg/kg) was shown to depress the response to carbon dioxide in a dose-related manner.
 
-In cardiac hemodynamic studies in adults, IV induction of general anesthesia with midazolam hydrochloride was associated with a slight to moderate decrease in mean arterial pressure, cardiac output, stroke volume and systemic vascular resistance.
+In cardiac hemodynamic studies in adults, IV induction of general anesthesia with midazolam was associated with a slight to moderate decrease in mean arterial pressure, cardiac output, stroke volume and systemic vascular resistance.
 Slow heart rates (less than 65/minute), particularly in patients taking propranolol for angina, tended to rise slightly; faster heart rates (e.g., 85/minute) tended to slow slightly.
-In pediatric patients, a comparison of IV midazolam hydrochloride (500 mcg/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received IV midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
+In pediatric patients, a comparison of IV midazolam (500 mcg/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received IV midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
 
 Pharmacokinetics:
 
