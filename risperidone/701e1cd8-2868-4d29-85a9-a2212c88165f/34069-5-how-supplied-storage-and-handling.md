@@ -37,7 +37,7 @@ Risperidone M-TAB® Orally Disintegrating Tablets 3 mg and 4 mg are packaged in 
 
 4 mg coral, round, biconvex tablets: 28 blisters per box, NDC 50458-605-28.
 
-## Storage and Handling
+Storage and Handling
 
 Risperidone Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
 Protect from light and moisture.
