@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020037"
+  ],
   "inn": "diclofenac",
-  "labeler": "Novartis Pharmaceuticals Corporation",
+  "labeler": "Novartis Ophthalmics",
   "package_ndcs": [
     "58768-100-02",
     "58768-100-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "diclofenac sodium",
+      "name": "Voltaren"
+    }
+  ],
   "setid": "8eee39fe-9948-4d05-bcf9-bc51a87ca3e6",
   "source": "dailymed"
 }
