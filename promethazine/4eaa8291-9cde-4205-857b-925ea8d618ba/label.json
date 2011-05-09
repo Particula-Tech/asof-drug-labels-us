@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA040596"
+  ],
+  "inn": "promethazine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-040-01",
+    "65841-040-05",
+    "65841-040-10",
+    "65841-041-01",
+    "65841-041-05",
+    "65841-041-10",
+    "65841-042-01",
+    "65841-042-05",
+    "65841-042-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "promethazine hydrochloride",
+      "name": "Promethazine Hydrochloride"
+    }
+  ],
+  "setid": "4eaa8291-9cde-4205-857b-925ea8d618ba",
+  "source": "dailymed"
+}

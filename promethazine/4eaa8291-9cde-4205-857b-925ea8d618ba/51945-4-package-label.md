@@ -1,0 +1,31 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 65841-040-01 in bottle of 100 tablets
+
+Promethazine Hydrochloride Tablets USP, 12.5 mg
+
+Rx only
+
+100 tablets
+
+ZYDUS
+
+NDC 65841-041-01 in bottle of 100 tablets
+
+Promethazine Hydrochloride Tablets USP, 25 mg
+
+Rx only
+
+100 tablets
+
+ZYDUS
+
+NDC 65841-042-01 in bottle of 100 tablets
+
+Promethazine Hydrochloride Tablets USP, 50 mg
+
+Rx only
+
+100 tablets
+
+ZYDUS
