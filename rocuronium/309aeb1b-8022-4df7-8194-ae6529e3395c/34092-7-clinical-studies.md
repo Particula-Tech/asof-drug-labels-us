@@ -2,7 +2,7 @@
 
 In U.S. clinical studies, a total of 1137 patients received rocuronium bromide, including 176 pediatric, 140 geriatric, 55 obstetric, and 766 other adults.
 Most patients (90%) were ASA physical status I or II, about 9% were ASA III, and 10 patients (undergoing coronary artery bypass grafting or valvular surgery) were ASA IV.
-In European clinical studies, a total of 1394 patients received rocuronium bromide, including 52 pediatric, 128 geriatric (65 years or greater) and 1214 other adults.
+In European clinical studies, a total of 1394 patients received rocuronium bromide, including 52 pediatric, 128 geriatric (65 years or greater), and 1214 other adults.
 
 ## 14.1 Adult Patients
 
@@ -22,8 +22,8 @@ Rapid Sequence Intubation
 Intubating conditions were assessed in 230 patients in six clinical studies where anesthesia was induced with either thiopental (3 to 6 mg/kg) or propofol (1.5 to 2.5 mg/kg) in combination with either fentanyl (2 to 5 mcg/kg) or alfentanil (1 mg).
 Most of the patients also received a premedication such as midazolam or temazepam.
 Most patients had intubation attempted within 60 to 90 seconds of administration of rocuronium bromide 0.6 mg/kg or succinylcholine 1 to 1.5 mg/kg.
-Excellent or good intubating conditions were achieved in 119/120 (99% [95% confidence interval 95 to 99.9%]) patients receiving rocuronium bromide and in 108/110 (98% [94 to 99.8%]) patients receiving succinylcholine.
-The duration of action of rocuronium bromide 0.6 mg/kg is longer than succinylcholine and at this dose is approximately equivalent to the duration of other intermediate acting neuromuscular blocking drugs.
+Excellent or good intubating conditions were achieved in 119/120 (99% [95% confidence interval 95% to 99.9%]) patients receiving rocuronium bromide and in 108/110 (98% [94% to 99.8%]) patients receiving succinylcholine.
+The duration of action of rocuronium bromide 0.6 mg/kg is longer than succinylcholine and at this dose is approximately equivalent to the duration of other intermediate-acting neuromuscular blocking drugs.
 
 Obese Patients
 
@@ -46,11 +46,11 @@ Therefore, rocuronium bromide is not recommended for rapid sequence induction in
 
 Rocuronium bromide was evaluated in 55 geriatric patients (ages 65 to 80 years) in six clinical studies.
 Doses of 0.6 mg/kg provided excellent to good intubating conditions in a median (range) time of 2.3 (1 to 8) minutes.
-Recovery times from 25 to 75% after these doses were not prolonged in geriatric patients compared to other adult patients [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
+Recovery times from 25% to 75% after these doses were not prolonged in geriatric patients compared to other adult patients [see Dosage and Administration (2.5) and Use in Specific Populations (8.5)].
 
 ## 14.3 Pediatric Patients
 
-Rocuronium bromide 0.6 or 0.8 mg/kg was evaluated for intubation in 75 pediatric patients (n=28; age 3 to 12 months, n=47; age 1 to 12 years) in three studies using halothane (1 to 5%) and nitrous oxide (60 to 70%) in oxygen.
+Rocuronium bromide 0.6 or 0.8 mg/kg was evaluated for intubation in 75 pediatric patients (n=28; age 3 to 12 months, n=47; age 1 to 12 years) in three studies using halothane (1% to 5%) and nitrous oxide (60% to 70%) in oxygen.
 Doses of 0.6 mg/kg provided a median (range) time to maximum block of 1 (0.5 to 3.3) minute(s).
 This dose provided a median (range) time of clinical relaxation of 41 (24 to 68) minutes in 3 month to 1 year-old infants and 26 (17 to 39) minutes in 1 to 12 year-old pediatric patients [see Dosage and Administration (2.5) and Use in Specific Populations (8.4)].
 
