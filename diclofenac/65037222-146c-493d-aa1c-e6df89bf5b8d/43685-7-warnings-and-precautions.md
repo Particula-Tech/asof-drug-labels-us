@@ -19,13 +19,13 @@ Concomitant use of topical NSAIDs and topical steroids may increase the potentia
 
 Use of topical NSAIDs may result in keratitis.
 In some susceptible patients continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal infiltrates, corneal erosion, corneal ulceration, and corneal perforation.
-These events may be sight threatening.
+These events may be sight-threatening.
 Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs and should be closely monitored for corneal health.
 
 Postmarketing experience with topical NSAIDs suggests that patients experiencing complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface disease (e.g., dry eye syndrome), rheumatoid arthritis, or repeat ocular surgeries within a short period-of-time may be at increased risk for corneal adverse events, which may become sight threatening.
 Topical NSAIDs should be used with caution in these patients.
 
-Postmarketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days post surgery may increase patient risk for occurrence and severity of corneal adverse events.
+Postmarketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days postsurgery may increase patient risk for occurrence and severity of corneal adverse events.
 
 It is recommended that Voltaren Ophthalmic, like other NSAIDs, be used with caution in patients with known bleeding tendencies or who are receiving other medications which may prolong bleeding time.
 

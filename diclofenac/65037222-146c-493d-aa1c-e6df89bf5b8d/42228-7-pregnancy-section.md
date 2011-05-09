@@ -13,6 +13,11 @@ Because animal reproduction studies are not always predictive of human response,
 
 Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of Voltaren Ophthalmic during late pregnancy should be avoided.
 
+## Nursing Women
+
+It is not known whether topical ophthalmic administration of Voltaren Ophthalmic could result in sufficient systemic absorption to produce detectable quantities in breast milk.
+Because many drugs are excreted in human milk, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.

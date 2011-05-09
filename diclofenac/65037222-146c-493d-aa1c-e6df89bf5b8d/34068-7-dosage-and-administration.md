@@ -2,7 +2,7 @@
 
 ## Cataract Surgery
 
-One drop of Voltaren Ophthalmic should be applied to the affected eye, 4 times daily beginning 24 hours after cataract surgery and continuing throughout the first 2 weeks of the post operative period.
+One drop of Voltaren Ophthalmic should be applied to the affected eye, 4 times daily beginning 24 hours after cataract surgery and continuing throughout the first 2 weeks of the postoperative period.
 
 ## Corneal Refractive Surgery
 

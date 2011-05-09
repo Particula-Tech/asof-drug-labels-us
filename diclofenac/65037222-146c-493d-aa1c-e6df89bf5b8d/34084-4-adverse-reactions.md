@@ -13,8 +13,8 @@ In cataract surgery studies, keratitis was reported in up to 28% of patients rec
 Elevated intraocular pressure following cataract surgery was reported in approximately 15% of patients undergoing cataract surgery.
 Lacrimation complaints were reported in approximately 30% of case studies undergoing incisional refractive surgery.
 
-The following adverse reactions were reported in approximately 5% or less of the patients: abnormal vision, acute elevated IOP, blurred vision, conjunctivitis, corneal deposits, corneal edema, corneal opacity, corneal lesions, discharge, eyelid swelling, injection, iritis, irritation, itching, lacrimation disorder, and ocular allergy.
+The following adverse reactions were reported in approximately 5% or less of patients: abnormal vision, acute elevated IOP, blurred vision, conjunctivitis, corneal deposits, corneal edema, corneal opacity, corneal lesions, discharge, eyelid swelling, injection (redness), iritis, irritation, itching, lacrimation disorder, and ocular allergy.
 
 ## Systemic
 
-The following adverse reactions were reported in 3% or less of the patients: abdominal pain, asthenia, chills, dizziness, facial edema, fever, headache, insomnia, nausea, pain, rhinitis, viral infection, and vomiting.
+The following adverse reactions were reported in 3% or less of patients: abdominal pain, asthenia, chills, dizziness, facial edema, fever, headache, insomnia, nausea, pain, rhinitis, viral infection, and vomiting.
