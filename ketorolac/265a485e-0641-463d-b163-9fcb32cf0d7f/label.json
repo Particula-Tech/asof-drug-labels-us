@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022382"
+  ],
+  "inn": "ketorolac",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-8880-01",
+    "0517-8880-05"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "ketorolac tromethamine",
+      "name": "SPRIX"
+    }
+  ],
+  "setid": "265a485e-0641-463d-b163-9fcb32cf0d7f",
+  "source": "dailymed"
+}
