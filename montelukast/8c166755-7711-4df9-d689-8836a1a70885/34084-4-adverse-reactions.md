@@ -88,7 +88,7 @@ The safety in patients 6 to 23 months of age is supported by data from pharmacok
 The following adverse reactions have been identified during post-approval use of SINGULAIR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: increased bleeding tendency.
+Blood and lymphatic system disorders: increased bleeding tendency, thrombocytopenia.
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 

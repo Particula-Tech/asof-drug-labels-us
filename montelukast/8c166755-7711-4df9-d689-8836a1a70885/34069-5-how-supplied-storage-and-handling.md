@@ -53,6 +53,6 @@ US Patent No.: 5,565,473
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued July 2010
+Issued April 2011
 
-9989619
+9989620

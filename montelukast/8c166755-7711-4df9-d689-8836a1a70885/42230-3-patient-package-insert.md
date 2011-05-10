@@ -152,7 +152,7 @@ The most common side effects with SINGULAIR include:
 
 Other side effects with SINGULAIR include:
 
-- increased bleeding tendency
+- increased bleeding tendency, low blood platelet count
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
@@ -206,8 +206,8 @@ SINGULAIR is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary o
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued July 2010
+Issued April 2011
 
 US Patent No.: 5,565,473
 
-9989619
+9989620
