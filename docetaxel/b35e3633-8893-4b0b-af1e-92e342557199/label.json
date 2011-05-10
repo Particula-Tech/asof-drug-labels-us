@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022534"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-285-41",
+    "47335-286-41",
+    "47335-287-40",
+    "47335-288-40"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "docetaxel",
+      "name": "DOCEFREZ"
+    }
+  ],
+  "setid": "b35e3633-8893-4b0b-af1e-92e342557199",
+  "source": "dailymed"
+}
