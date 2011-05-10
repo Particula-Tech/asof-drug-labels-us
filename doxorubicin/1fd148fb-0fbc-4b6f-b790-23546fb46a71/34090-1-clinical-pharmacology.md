@@ -55,7 +55,7 @@ However, clearance in infants younger than 2 years of age (813 mL/min/m2) was de
 
 ### Geriatric
 
-While the pharmacokinetics of elderly subjects (65 years of age) have been evaluated, no dosage adjustment is recommended based on age.
+While the pharmacokinetics of elderly subjects (≥65 years of age) have been evaluated, no dosage adjustment is recommended based on age.
 (See PRECAUTIONS, Geriatric Use.)
 
 ### Gender
@@ -98,7 +98,7 @@ Summary of Randomized Trials Comparing Doxorubicin-Containing Regimens Versus CM
 
 | DFS | OS |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study (starting year) | Regimens | No. of Cycles | No. of Patients | Doxorubicin-Containing Regimens vs CMF HR (95% CI) |  |
+| Study (starting year) | Regimens | No. of Cycles | No. of Patients | Doxorubicin-Containing Regimens vs. CMF HR (95% CI) |  |
 | NSABP B-15 (1984) | AC | 4 | 1562Includes pooled data from patients who received either AC alone for 4 cycles, or who were treated with AC for 4 cycles followed by 3 cycles of CMF. | 0.93 (0.82–1.06) | 0.97 (0.83–1.12) |
 | CMF | 6 | 776 |  |  |  |
 | SECSG 2 (1976) | FAC | 6 | 260 | 0.86 (0.66–1.13) | 0.93 (0.69–1.26) |

@@ -19,7 +19,7 @@ Evidence is available that in some types of neoplastic disease, combination chem
 The benefits and risks of such therapy continue to be elucidated.
 When used in combination with other chemotherapy drugs, the most commonly used dosage of doxorubicin is 40 to 60 mg/m2 given as a single intravenous injection every 21 to 28 days.
 
-In a large randomized study (NSABP B-15) of patients with early breast cancer involving axillary lymph nodes (see CLINICAL PHARMACOLOGY, Clinical Studies and ADVERSE REACTIONS, Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy), the combination dosage regimen of AC (doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2) was administered intravenously on day 1 of each 21-day treatment cycle.
+In a large randomized study (NSABP B-15) of patients with early breast cancer involving axillary lymph nodes (see CLINICAL PHARMACOLOGY, CLINICAL STUDIES and ADVERSE REACTIONS, Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy), the combination dosage regimen of AC (doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2) was administered intravenously on day 1 of each 21-day treatment cycle.
 Four cycles of treatment were administered.
 
 ## Dose Modifications

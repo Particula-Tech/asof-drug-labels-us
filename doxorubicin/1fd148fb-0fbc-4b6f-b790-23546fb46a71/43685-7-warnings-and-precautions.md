@@ -90,7 +90,7 @@ Pediatric patients are also at risk of developing secondary AML.
 ## Effects at Site of Injection
 
 Phlebosclerosis may result from an injection into a small vessel or from repeated injections into the same vein.
-Following the recommended administration procedures may minimize the risk of phlebitis/thrombophlebitis at the injection site (see DOSAGE AND ADMINISTRATION, Instruction for Use/Handling).
+Following the recommended administration procedures may minimize the risk of phlebitis/thrombophlebitis at the injection site (see DOSAGE AND ADMINISTRATION, Handling and Disposal).
 
 ## Extravasation
 
