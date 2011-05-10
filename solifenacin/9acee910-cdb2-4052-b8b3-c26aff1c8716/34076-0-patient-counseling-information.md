@@ -29,9 +29,7 @@ talking with your doctor medical condition or treatment.
 
 What is VESIcare?
 
-VESIcare is a prescription medicine for adults used to treat the following symptoms due to a
-
-condition called overactive bladder:
+VESIcare is a prescription medicine for adults used to treat the following symptoms due to a condition called overactive bladder:
 
 - Urge urinary incontinence: a strong need to urinate with leaking or wetting accidents
 - Urgency: a strong need to urinate right away
@@ -40,6 +38,8 @@ condition called overactive bladder:
 It is not known if VESIcare is safe and effective in children.
 
 Who should NOT take VESIcare?
+
+Do not take VESIcare if you:
 
 - are not able to empty your bladder (urinary retention)
 - have delayed or slow emptying of your stomach (gastric retention)
@@ -54,6 +54,7 @@ Before you take VESIcare, tell your doctor if you:
 - have any stomach or intestinal problems or problems with constipation
 - have trouble emptying your bladder or you have a weak urine stream
 - have an eye problem called "narrow angle glaucoma"
+- have liver problems
 - have kidney problems
 - have a rare heart problem called "QT prolongation"
 - are pregnant or plan to become pregnant.
@@ -184,4 +185,4 @@ North Carolina 27709
 
 & GlaxoSmithKline Revised: APRIL 2011
 
-11D024-VES-SPL
+11D031-VES-SPL
