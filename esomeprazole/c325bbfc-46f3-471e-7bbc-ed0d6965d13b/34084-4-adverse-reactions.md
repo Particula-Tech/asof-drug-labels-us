@@ -1,34 +1,84 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Safety Experience with Intravenous NEXIUM
+## 6.1 Clinical Trials Experience with Intravenous NEXIUM
 
-The safety of intravenous esomeprazole is based on results from clinical trials conducted in three different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=206), patients with erosive esophagitis (n=246) and healthy subjects (n=204).
-Adverse experiences occurring in >1% of patients treated with intravenous esomeprazole (n=359) in trials irrespective of the relationship to NEXIUM are listed below by body system:
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Skin and appendages disorders: pruritus (1.1%); Central and peripheral nervous system disorders: dizziness (2.5%), headache (10.9%); Gastrointestinal system disorders: abdominal pain (5.8%), constipation (2.5%), diarrhea (3.9%), dyspepsia (6.4%), flatulence (10.3%), mouth dry (3.9%), nausea (6.4%); Respiratory system disorders: respiratory infection (1.1%), sinusitis (1.7%); Body as a whole − general disorders: AE associated with test procedure (23.1%); and Application site disorders: application site reaction (1.7%) (including mild focal erythema and pruritus at IV insertion site).
+Adults
 
-Intravenous treatment with esomeprazole 20 and 40 mg administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole 20 and 40 mg.
+The safety of intravenous esomeprazole is based on results from clinical trials conducted in three different populations including patients having symptomatic GERD with or without a history of erosive esophagitis (n=199), patients with erosive esophagitis (n=160), and healthy subjects (n=204).
+Adverse experiences occurring in >1% of patients treated with intravenous esomeprazole (n=359) in trials are listed below by body system:
 
-## Safety Experience with Oral NEXIUM
+Symptomatic GERD and Erosive Esophagitis Trials
 
-The safety of oral NEXIUM was evaluated in over 15,000 patients (aged 18-84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
+The data described below reflect exposure to NEXIUM I.V for Injection in 359 patients.
+NEXIUM I.V. for Injection was studied only in actively-controlled trials.
+The population was 18 to 77 years of age; 45% Male, 52% Caucasian, 17% Black, 3% Asian, 28% Other, and had either erosive reflux esophagitis (44%) or GERD (56%).
+Most patients received doses of either 20 or 40 mg either as an infusion or an injection.
+
+Table 2
+
+Adverse reactions occurring at an incidence ≥ 1% in the NEXIUM I.V. group
+
+| Adverse Reactions | % of patients Esomeprazole Intravenous (n=359) |
+| --- | --- |
+| Headache | 10.9 |
+| Flatulence | 10.3 |
+| Nausea | 6.4 |
+| Abdominal pain | 5.8 |
+| Diarrhea | 3.9 |
+| Mouth dry | 3.9 |
+| Dizziness/vertigo | 2.8 |
+| Constipation | 2.5 |
+| Injection site reaction | 1.7 |
+| Pruritus | 1.1 |
+
+Intravenous treatment with esomeprazole 20 and 40 mg administered as an injection or as an infusion was found to have a safety profile similar to that of oral administration of esomeprazole.
+
+Pediatric
+
+In a randomized, open-label, multi-national study to evaluate the pharmacokinetics of repeated intravenous doses of once daily esomeprazole, esomeprazole was well tolerated in pediatric patients 1 month to 17 years old, inclusive.
+The safety results are consistent with the known safety profile of esomeprazole and no unexpected safety signals were identified.
+[See Clinical Pharmacology (12.3)]
+
+## 6.2 Clinical Trials Experience with Oral NEXIUM
+
+Adult
+
+The safety of oral NEXIUM was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
 Over 2,900 patients were treated in long-term studies for up to 6-12 months.
+In general, NEXIUM was well tolerated in both short and long-term clinical trials.
 
 The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on NEXIUM 20 mg, 2,434 patients on NEXIUM 40 mg, and 3,008 patients on omeprazole 20 mg daily.
 The most frequently occurring adverse events (≥1%) in all three groups were headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
 Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
-Additional adverse events that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
+Additional adverse events that were reported as possibly or probably related to NEXIUM with an incidence <1% are listed below by body system:
 
-Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, chest pain substernal, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors; Cardiovascular: flushing, hypertension, tachycardia; Endocrine: goiter; Gastrointestinal: bowel irregularity, constipation aggravated, dyspepsia, dysphagia, dysplasia GI, epigastric pain, eructation, esophageal disorder, frequent stools, gastroenteritis, GI hemorrhage, GI symptoms not otherwise specified, hiccup, melena, mouth disorder, pharynx disorder, rectal disorder, serum gastrin increased, tongue disorder, tongue edema, ulcerative stomatitis, vomiting; Hearing: earache, tinnitus; Hematologic: anemia, anemia hypochromic, cervical lymphoadenopathy, epistaxis, leukocytosis, leukopenia, thrombocytopenia; Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased; Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease; Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica; Nervous System/Psychiatric: anorexia, apathy, appetite increased, confusion, depression aggravated, dizziness, hypertonia, nervousness, hypoesthesia, impotence, insomnia, migraine, migraine aggravated, paresthesia, sleep disorder, somnolence, tremor, vertigo, visual field defect; Reproductive: dysmenorrhea, menstrual disorder, vaginitis; Respiratory: asthma aggravated, coughing, dyspnea, larynx edema, pharyngitis, rhinitis, sinusitis; Skin and Appendages: acne, angioedema, dermatitis, pruritus, pruritus ani, rash, rash erythematous, rash maculo-papular, skin inflammation, sweating increased, urticaria; Special Senses: otitis media, parosmia, taste loss, taste perversion; Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, hematuria, micturition frequency, moniliasis, genital moniliasis, polyuria; Visual: conjunctivitis, vision abnormal.
+Body as a Whole: abdomen enlarged, allergic reaction, asthenia, back pain, chest pain, chest pain substernal, facial edema, peripheral edema, hot flushes, fatigue, fever, flu-like disorder, generalized edema, leg edema, malaise, pain, rigors;Cardiovascular: flushing, hypertension, tachycardia; Endocrine: goiter; Gastrointestinal: bowel irregularity, constipation aggravated, dyspepsia, dysphagia, dysplasia GI, epigastric pain, eructation, esophageal disorder, frequent stools, gastroenteritis, GI hemorrhage, GI symptoms not otherwise specified, hiccup, melena, mouth disorder, pharynx disorder, rectal disorder, serum gastrin increased, tongue disorder, tongue edema, ulcerative stomatitis, vomiting; Hearing: earache, tinnitus; Hematologic: anemia, anemia hypochromic, cervical lymphadenopathy, epistaxis, leukocytosis, leukopenia, thrombocytopenia; Hepatic: bilirubinemia, hepatic function abnormal, SGOT increased, SGPT increased; Metabolic/Nutritional: glycosuria, hyperuricemia, hyponatremia, increased alkaline phosphatase, thirst, vitamin B12 deficiency, weight increase, weight decrease; Musculoskeletal: arthralgia, arthritis aggravated, arthropathy, cramps, fibromyalgia syndrome, hernia, polymyalgia rheumatica; Nervous System/Psychiatric: anorexia, apathy, appetite increased, confusion, depression aggravated, dizziness, hypertonia, nervousness, hypoesthesia, impotence, insomnia, migraine, migraine aggravated, paresthesia, sleep disorder, somnolence, tremor, vertigo, visual field defect; Reproductive: dysmenorrhea, menstrual disorder, vaginitis; Respiratory: asthma aggravated, coughing, dyspnea, larynx edema, pharyngitis, rhinitis, sinusitis; Skin and Appendages: acne, angioedema, dermatitis, pruritus, pruritus ani, rash, rash erythematous, rash maculo-papular, skin inflammation, sweating increased, urticaria; Special Senses: otitis media, parosmia, taste loss, taste perversion; Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, hematuria, micturition frequency, moniliasis, genital moniliasis, polyuria; Visual: conjunctivitis, vision abnormal.
 
 Endoscopic findings that were reported as adverse events include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
 
-The incidence of treatment-related adverse events during 6-month maintenance treatment was similar to placebo.
+The incidence of treatment-related adverse events during 6- month maintenance treatment was similar to placebo.
 There were no differences in types of related adverse events seen during maintenance treatment up to 12 months compared to short-term treatment.
 
 Two placebo-controlled studies were conducted in 710 patients for the treatment of symptomatic gastroesophageal reflux disease.
 The most common adverse events that were reported as possibly or probably related to NEXIUM were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
+
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology, Endocrine Effects (12.2) for further information on thyroid effects].
+Decreases were seen in hemoglobin, white blood cell count,platelets, potassium, sodium, and thyroxine.
+
+Pediatric
+
+The safety of oral NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
+In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
+In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
+No new safety concerns were identified in pediatric patients.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of NEXIUM.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Postmarketing Reports - There have been spontaneous reports of adverse events with postmarketing use of esomeprazole.
 These reports occurred rarely and are listed below by body system:
@@ -36,8 +86,3 @@ These reports occurred rarely and are listed below by body system:
 Blood And Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia; Musculoskeletal And Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal).
 
 Other adverse events not observed with NEXIUM, but occurring with omeprazole can be found in the omeprazole package insert, ADVERSE REACTIONS section.
-
-## Laboratory Events
-
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone (see CLINICAL PHARMACOLOGY, Endocrine Effects for further information on thyroid effects).
-Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.

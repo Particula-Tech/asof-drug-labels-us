@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 The active ingredient in NEXIUM® I.V.
-(esomeprazole sodium) for Injection is (S)-5-methoxy-2[[(4-methoxy-3,5-dimethyl-2-pyridinyl)-methyl]sulfinyl]-1 H-benzimidazole sodium a compound that inhibits gastric acid secretion.
+(esomeprazole sodium) for Injection is (S)-5-methoxy-2[[(4-methoxy-3,5- dimethyl-2-pyridinyl)-methyl]sulfinyl]-1 H-benzimidazole sodium, a proton pump inhibitor that inhibits gastric acid secretion.
 Esomeprazole is the S-isomer of omeprazole, which is a mixture of the S- and R- isomers.
 Its empirical formula is C17H18N3O3SNa with molecular weight of 367.4 g/mol (sodium salt) and 345.4 g/mol (parent compound).
 Esomeprazole sodium is very soluble in water and freely soluble in ethanol (95%).

@@ -1,5 +1,5 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-NEXIUM I.V. for Injection is indicated for the short-term treatment (up to 10 days) of GERD patients with a history of erosive esophagitis as an alternative to oral therapy in patients when therapy with NEXIUM Delayed-Release Capsules is not possible or appropriate.
+## 1.1 Treatment of Gastroesophageal Reflux Disease (GERD) with Erosive Esophagitis
 
-When oral therapy is possible or appropriate, intravenous therapy with NEXIUM I.V. for Injection should be discontinued and the therapy should be continued orally.
+NEXIUM I.V. for Injection is indicated for the short-term treatment of GERD with erosive esophagitis in adults and pediatric patients 1 month to 17 years, inclusively as an alternative to oral therapy when oral NEXIUM is not possible or appropriate.

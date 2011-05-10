@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 The minimum lethal dose of esomeprazole sodium in rats after bolus administration was 310 mg/kg (about 62 times the human dose on a body surface area basis).
 The major signs of acute toxicity were reduced motor activity, changes in respiratory frequency, tremor, ataxia and intermittent clonic convulsions.
