@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA018578"
+  ],
+  "inn": "silver-sulfadiazine",
+  "labeler": "Dr Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-210-25",
+    "43598-210-40",
+    "43598-210-50",
+    "43598-210-55",
+    "43598-210-85"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "silver sulfadiazine",
+      "name": "SSD Cream"
+    }
+  ],
+  "setid": "30d6dc33-e457-466b-9159-d8e7cd791820",
+  "source": "dailymed"
+}
