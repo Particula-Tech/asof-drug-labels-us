@@ -121,9 +121,9 @@ Active ingredient: calcipotriene
 Inactive Ingredients: cetyl alcohol, dibasic sodium phosphate, edetate disodium, isopropyl myristate, light mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, purified water, stearyl alcohol, dl-α-tocopherol, and white petrolatum.
 The foam is dispensed from an aluminum can pressurized with a hydrocarbon (propane/n-butane/isobutane) propellant.
 
-The Patient Information leaflet was last revised: October 2010
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued October 2010
+Issued April 2011
 
 Manufactured for:
 
@@ -139,10 +139,10 @@ DPT Laboratories, Ltd.
 
 San Antonio, TX 78215
 
-SOR:3PIL
+SOR:4PIL
 
 SORILUX is a trademark of Stiefel Laboratories, Inc.
 
-©2010 Stiefel Laboratories, Inc.
+©2011 Stiefel Laboratories, Inc.
 
-October 2010
+April 2011

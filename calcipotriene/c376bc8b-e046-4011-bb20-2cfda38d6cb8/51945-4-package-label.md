@@ -51,6 +51,6 @@ Research Triangle Park, NC 27709
 
 SORILUX is a trademark of Stiefel Laboratories, Inc.
 
-© 2010 Stiefel Laboratories, Inc.
+© 2011 Stiefel Laboratories, Inc.
 
 Made in Israel

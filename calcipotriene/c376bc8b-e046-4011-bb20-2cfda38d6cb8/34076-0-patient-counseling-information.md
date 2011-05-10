@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling.]
+[See FDA-Approved Patient Labeling (Patient Information)]
 
 The patient should be instructed as follows:
 
@@ -11,4 +11,4 @@ The patient should be instructed as follows:
 - Wash their hands after applying SORILUX Foam unless their hands are the affected site.
 - Avoid fire, flame, or smoking during and immediately following application since SORILUX Foam is flammable.
 
-SOR:3PI
+SOR:4PI
