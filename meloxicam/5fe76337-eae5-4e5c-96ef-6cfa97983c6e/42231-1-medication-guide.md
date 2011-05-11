@@ -1,10 +1,8 @@
-Meloxicam Tablets USP 7.5 mg and 15 mg
+Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs.)
 
-Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+(See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
-(See the end of this Medication Guide for a list of prescription NSAID medicines).
-
-What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+What is the most important information I know about medicines called Non - Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
 This chance increases:
@@ -14,8 +12,8 @@ This chance increases:
 
 NSAID medicines should never be used right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
-NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
-Ulcers and bleeding:
+NSAID medicines can cause ulcers and bleeding in the stomach and intestines time during treatment.
+Ulcers bleeding:
 
 - can happen without warning symptoms
 - may cause death
@@ -54,35 +52,38 @@ Tell your healthcare provider:
 - about all of your medical conditions
 - about all of the medicines you take.
   NSAIDs and some other medicines can interact with each other and cause serious side effects.
-  Keep a list of your medicines to show to your healthcare provider and pharmacist
+  Keep a list of your medicines to show to your healthcare provider and pharmacist.
 - if you are pregnant.
-  NSAID medicines should not be used by pregnant women late in their pregnancy
+  NSAID medicines should not be used by pregnant and women late in their pregnancy.
 - if you are breastfeeding.
-  Talk to your doctor
+  Talk to your doctor.
 
-| What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)? |
-| --- |
-| Serious side effects include: |
-| • heart attack |
-| • stroke |
-| • high blood pressure |
-| • heart failure from body swelling (fluid retention) |
-| • kidney problems including kidney failure |
-| • bleeding and ulcers in the stomach and intestine |
-| • low red blood cells (anemia) |
-| • life-threatening skin reactions |
-| • life-threatening allergic reactions |
-| • liver problems including liver failure |
-| • asthma attacks in people who have asthma |
-| Other side effects include: |
-| • stomach pain |
-| • constipation |
-| • diarrhea |
-| • gas |
-| • heartburn |
-| • nausea |
-| • vomiting |
-| • dizziness |
+What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
+
+Serious side effects include:
+
+- heart attack
+- stroke
+- high blood pressure
+- heart failure from body swelling (fluid retention)
+- kidney problems including kidney failure
+- bleeding and ulcers in the stomach and intestine
+- low red blood cells (anemia)
+- life-threatening skin reactions
+- life-threatening allergic reactions
+- liver problems including liver failure
+- asthma attacks in people who have asthma
+
+Other side effects include:
+
+- stomach pain
+- constipation
+- diarrhea
+- gas
+- heartburn
+- nausea
+- vomiting
+- dizziness
 
 Get emergency help right away if you have any of the following symptoms:
 
@@ -90,7 +91,7 @@ Get emergency help right away if you have any of the following symptoms:
 - chest pain
 - weakness in one part or side of your body
 - slurred speech
-- Swelling of the face or throat
+- swelling of the face or throat
 
 Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
 
@@ -102,25 +103,25 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 - flu-like symptoms
 - vomit blood
 - there is blood in your bowel movement or it is black and sticky like tar
-- skin rash or blisters with fever
 - unusual weight gain
+- skin rash or blisters with fever
 - swelling of the arms and legs, hands and feet
 
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1800-FDA-1088.
 
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
-Aspirin can cause bleeding in the brain, stomach, and intestines.
-Aspirin can also cause ulcers in the stomach and intestines.
-Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
-Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
+- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
+  Aspirin can cause bleeding in the brain, stomach, and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
+- Some of these NSAID medicines are sold in lower doses without a prescription (over-the-counter).
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
-NSAID medicines that need a prescription
+NSAID medicines that need prescription
 
 | Generic Name | Tradename |
 | --- | --- |
@@ -130,18 +131,16 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
 | Flurbiprofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with |
-|  | hydrocodone), Combunox (combined with oxycodone) |
-| Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethegan |
+| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with hydrocodone), Combunox (combined with oxycodone) |
+| Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, |
-|  | PREVACID NapraPAC (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC- Naprosyn, Naprelan, Naprapac (co-packaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-| * Vicoprofen contains the same dose of ibuprofen as over-the counter (OTC) NSAIDS, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+| * Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long-term continuous use may increase the risk of heart attack or stroke. |  |

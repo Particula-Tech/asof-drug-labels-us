@@ -1,16 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077927"
+  ],
   "inn": "meloxicam",
   "labeler": "Unichem Pharmaceuticals (USA), Inc.",
   "package_ndcs": [
     "29300-124-01",
     "29300-124-10",
     "29300-124-13",
+    "29300-124-50",
     "29300-125-01",
     "29300-125-10",
-    "29300-125-13"
+    "29300-125-13",
+    "29300-125-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "meloxicam"
+    }
+  ],
   "setid": "5fe76337-eae5-4e5c-96ef-6cfa97983c6e",
   "source": "dailymed"
 }

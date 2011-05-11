@@ -1,12 +1,4 @@
-[Unichem Pharmaceuticals (USA), Inc.]
-
-ATTENTION DISPENSER: Accompanying Medication Guide must be dispensed with this product.
-
-Rx only
-
-Prescribing Information
-
-WARNING
+Please address medical inquiries to 1-866-562-4616
 
 Manufactured by:
 
@@ -21,9 +13,11 @@ Marketed by:
 
 Rochelle Park, NJ 07662
 
-PSEUSA043-00
+13003755
 
-Revised: January 2009
+R-03-03/2011
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -38,8 +32,6 @@ Marketed by:
 
 Rochelle Park, NJ 07662
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+13002550
 
-PSEUSA044A-00
-
-Revised: January 2009
+R-02-09/2010
