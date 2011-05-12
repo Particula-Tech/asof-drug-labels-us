@@ -72,6 +72,24 @@ Dispense with Medication Guide attached or provided separately.
 
 PRINCIPAL DISPLAY PANEL
 
+Package Label – 25 mg
+
+Rx Only NDC 0078-0608-05
+
+Focalin XR®
+
+(dexmethylphenidate HCl)
+
+extended-release capsules
+
+25 mg
+
+100 capsules
+
+Dispense with Medication Guide attached or provided separately.
+
+PRINCIPAL DISPLAY PANEL
+
 Package Label – 30 mg
 
 Rx Only NDC 0078-0433-05
@@ -83,6 +101,24 @@ Focalin XR®
 extended-release capsules
 
 30 mg
+
+100 capsules
+
+Dispense with Medication Guide attached or provided separately.
+
+PRINCIPAL DISPLAY PANEL
+
+Package Label – 35 mg
+
+Rx Only NDC 0078-0609-05
+
+Focalin XR®
+
+(dexmethylphenidate HCl)
+
+extended-release capsules
+
+35 mg
 
 100 capsules
 

@@ -128,7 +128,7 @@ What are the ingredients in FOCALIN XR?
 
 Active Ingredient: dexmethylphenidate hydrochloride
 
-Inactive Ingredients: ammonio methacrylate copolymer, FD&C Blue #2 (5 mg, 15 mg and 40 mg strengths), FDA/E172 yellow iron oxide (10 mg, 15 mg, 30 mg and 40 mg strengths), gelatin, ink Tan SW-8010, methacrylic acid copolymer, polyethylene glycol, sugar spheres, talc, titanium dioxide, and triethyl citrate.
+Inactive Ingredients: ammonio methacrylate copolymer, FD&C Blue #2 (5 mg, 15 mg, 25 mg, 35 mg, and 40 mg strengths), FDA/E172 yellow iron oxide (10 mg, 15 mg, 30 mg, 35 mg, and 40 mg strengths), gelatin, ink Tan SW-8010, methacrylic acid copolymer, polyethylene glycol, sugar spheres, talc, titanium dioxide, and triethyl citrate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -138,7 +138,9 @@ SODAS® is a registered trademark of Elan Pharma International Ltd.
 
 This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398, 6,355,656, and 6,635,284.
 
-T2010-107/T2010-73
+T2011-58/T2010-73
+
+April 2011/November 2010
 
 Manufactured for
 

@@ -8,7 +8,11 @@
 
 20 mg Extended-Release Capsules (NDC 0078-0432-05) white (imprinted NVR D20) supplied in bottles of 100
 
+25 mg Extended-Release Capsules (NDC 0078-0608-05) light-blue and white (imprinted NVR D25) supplied in bottles of 100
+
 30 mg Extended-Release Capsules (NDC 0078-0433-05) light caramel and white (imprinted NVR D30) supplied in bottles of 100
+
+35 mg Extended-Release Capsules (NDC 0078-0609-05) light-blue and light caramel (imprinted NVR D35) supplied in bottles of 100
 
 40 mg Extended-Release Capsules (NDC 0078-0434-05) green and white (imprinted NVR D40) supplied in bottles of 100
 
