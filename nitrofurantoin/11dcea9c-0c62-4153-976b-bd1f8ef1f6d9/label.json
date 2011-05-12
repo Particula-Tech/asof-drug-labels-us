@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201679"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-689-88"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitrofurantoin",
+      "name": "Nitrofurantoin"
+    }
+  ],
+  "setid": "11dcea9c-0c62-4153-976b-bd1f8ef1f6d9",
+  "source": "dailymed"
+}
