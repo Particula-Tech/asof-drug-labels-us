@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-REVLIMID (rev-li-mid)
+REVLIMID®(rev-li-mid)
 
 (lenalidomide)
 
@@ -12,10 +12,10 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about REVLIMID?
 
-- Before you begin taking REVLIMID, you must read and agree to all of the instructions in the RevAssist program.
+- Before you begin taking REVLIMID, you must read and agree to all of the instructions in the RevAssist® program.
 - REVLIMID may cause serious side effects including: Possible birth defects (deformed babies) or death of an unborn baby.
   Females who are pregnant or who plan to become pregnant must not take REVLIMID.
-  REVLIMID is similar to the medicine thalidomide (THALOMID).
+  REVLIMID is similar to the medicine thalidomide (THALOMID®).
   We know thalidomide can cause severe life-threatening birth defects.
   REVLIMID has not been tested in pregnant women.
   REVLIMID has harmed unborn animals in animal testing.
@@ -88,10 +88,13 @@ Keep a list of them to show your healthcare provider and pharmacist.
 How should I take REVLIMID?
 
 Take REVLIMID exactly as prescribed and follow all the instructions of the RevAssist program.
+
 Before prescribing REVLIMID, your healthcare provider will:
 
-- explain the RevAssist program to you
-- have you sign the Patient-Physician Agreement Form
+- 
+  - explain the RevAssist program to you
+  - have you sign the Patient-Physician Agreement Form
+
 - Swallow REVLIMID capsules whole with water once a day.
   Do not break, chew, or open your capsules.
 - Do not open the REVLIMID capsules or handle them any more than needed.
@@ -177,4 +180,11 @@ Summit, NJ 07901
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-RevPlyPI/MG.009 10/10
+REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
+
+U.S. Pat.
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800
+
+©2005-2010 Celgene Corporation, All Rights Reserved.
+
+RevPlyMG.010 10/10

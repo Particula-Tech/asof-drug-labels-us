@@ -30,4 +30,13 @@ REVLIMID is associated with significant neutropenia and thrombocytopenia [see Bo
 
 REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.3)]
 
+REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
+
+U.S. Pat.
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800
+
+©2005-2010 Celgene Corporation, All Rights Reserved.
+
+RevPlyPI.010/MG.010 10/10
+
 ## 17.4 MEDICATION GUIDE
