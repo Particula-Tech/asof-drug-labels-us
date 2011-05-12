@@ -153,7 +153,7 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Cough | 4 | 1 |
 
-## 6.3 Other Adverse Reactions Observed During the Premarketing Evaluation of Risperidone
+## 6.3 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
 The following additional adverse reactions occurred in <2% of the RISPERDAL® CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in <2% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in <4% of the RISPERDAL® CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
 The following also includes additional adverse reactions reported at any frequency in RISPERDAL® CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active controlled and open-label studies in schizophrenia and bipolar disorder.
@@ -200,7 +200,7 @@ Vascular disorders: hypotension, orthostatic hypotension
 
 Additional Adverse Reactions Reported with Oral RISPERDAL®
 
-The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of oral RISPERDAL®, regardless of frequency of occurrence:
+The following is a list of additional adverse reactions that have been reported during the clinical trial evaluation of oral RISPERDAL®, regardless of frequency of occurrence:
 
 Blood and Lymphatic Disorders: granulocytopenia
 
@@ -224,7 +224,7 @@ Metabolism and Nutrition Disorders: polydipsia
 
 Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint stiffness, rhabdomyolysis, torticollis
 
-Nervous System Disorders: hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
+Nervous System Disorders: hypertonia, balance disorder, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypokinesia, parkinsonian rest tremor, transient ischemic attack, cerebrovascular accident, masked facies, speech disorder, loss of consciousness, muscle contractions involuntary, akinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
 Psychiatric Disorders: blunted affect, confusional state, middle insomnia, listlessness, anorgasmia
 
@@ -300,7 +300,7 @@ No moderate or severe reactions were observed in any subject.
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 In addition, the following adverse reactions have been observed during postapproval use of RISPERDAL® CONSTA®: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.
 
 Retinal artery occlusion after injection of RISPERDAL® CONSTA® has been reported during postmarketing surveillance.
