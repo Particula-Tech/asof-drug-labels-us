@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA201280"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0140-10",
+    "0597-0140-30",
+    "0597-0140-70",
+    "0597-0140-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linagliptin",
+      "name": "TRADJENTA"
+    }
+  ],
+  "setid": "c797ea5c-cab7-494b-9044-27eba0cfe40f",
+  "source": "dailymed"
+}
