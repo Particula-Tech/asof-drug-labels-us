@@ -2,7 +2,8 @@
 
 LABAs, such as salmeterol, one of the active ingredients in ADVAIR HFA, increase the risk of asthma-related death.
 Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol (see WARNINGS).
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
+Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
+Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 
 The incidence of common adverse events in Table 4 is based upon 2 placebo-controlled, 12-week, US clinical studies (Studies 1 and 3) and 1 active-controlled, 12-week, US clinical study (Study 2).
 A total of 1,008 adolescent and adult patients with asthma (556 females and 452 males) previously treated with albuterol alone, salmeterol, or inhaled corticosteroids were treated twice daily with 2 inhalations of ADVAIR HFA 45/21 or ADVAIR HFA 115/21, fluticasone propionate CFC inhalation aerosol (44- or 110-mcg doses), salmeterol CFC inhalation aerosol 21 mcg, or placebo HFA inhalation aerosol.

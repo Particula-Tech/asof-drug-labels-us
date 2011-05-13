@@ -59,14 +59,14 @@ A double-blind crossover study was conducted in 13 adult patients with asthma to
 Systemic exposure (AUC) to fluticasone propionate was similar for ADVAIR HFA (274 pg•hr/mL [95% CI: 150, 502]) and ADVAIR DISKUS (338 pg•hr/mL [95% CI: 197, 581]).
 Systemic exposure to salmeterol was also similar for ADVAIR HFA (53 pg•hr/mL [95% CI: 17, 164]) and ADVAIR DISKUS (70 pg•hr/mL [95% CI: 19, 254]).
 
-Special Populations:Hepatic and Renal Impairment: Formal pharmacokinetic studies using ADVAIR HFA have not been conducted to examine gender differences or in special populations, such as elderly patients or patients with hepatic or renal impairment.
+Special Populations: Hepatic and Renal Impairment: Formal pharmacokinetic studies using ADVAIR HFA have not been conducted to examine gender differences or in special populations, such as elderly patients or patients with hepatic or renal impairment.
 However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
 Drug Interactions: In repeat- and single-dose studies, there was no evidence of significant drug interaction on systemic exposure to fluticasone propionate and salmeterol when given alone or in combination via the DISKUS.
 Similar definitive studies have not been performed with ADVAIR HFA.
 
-Fluticasone Propionate:Absorption: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
+Fluticasone Propionate: Absorption: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
 Studies using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
@@ -84,7 +84,7 @@ Other metabolites detected in vitro using cultured human hepatoma cells have not
 Elimination: Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations:Gender: In 19 male and 33 female patients with asthma, systemic exposure was similar from 2 inhalations of fluticasone propionate CFC inhalation aerosol 44, 110, and 220 mcg twice daily.
+Special Populations: Gender: In 19 male and 33 female patients with asthma, systemic exposure was similar from 2 inhalations of fluticasone propionate CFC inhalation aerosol 44, 110, and 220 mcg twice daily.
 
 Drug Interactions: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
@@ -120,7 +120,7 @@ The xinafoate moiety is highly protein bound (>99%) and has a long elimination h
 
 Drug Interactions: Salmeterol is a substrate of CYP3A4.
 
-Inhibitors of Cytochrome P450 3A4:Ketoconazole: In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
+Inhibitors of Cytochrome P450 3A4: Ketoconazole: In a placebo-controlled, crossover drug interaction study in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76; 90% CI: 10.66, 23.31) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
 Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
