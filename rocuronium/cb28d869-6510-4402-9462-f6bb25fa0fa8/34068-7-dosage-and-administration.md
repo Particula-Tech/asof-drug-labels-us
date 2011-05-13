@@ -53,7 +53,7 @@ Infusion solutions of rocuronium bromide can be prepared by mixing rocuronium br
 These infusion solutions should be used within 24 hours of mixing.
 Unused portions of infusion solutions should be discarded.
 
-Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for three different concentrations of rocuronium bromide solution as guidelines:
+Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide solution as guidelines:
 
 Table 1.
 Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)50 mg rocuronium bromide in 100 mL solution
@@ -141,8 +141,8 @@ No differences in duration of neuromuscular blockade following maintenance doses
 ### Patients with Renal or Hepatic Impairment
 
 No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide.
-When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
-Patients with renal failure may have a greater variation in duration of effect [see USE IN SPECIFIC POPULATIONS (8.6, 8.7) and see CLINICAL PHARMACOLOGY (12.3)].
+When compared to patients with normal renal and hepatic and see CLINICAL PHARMACOLOGY (12.3)]. function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
+Patients with renal failure may have a greater variation in duration of effect [see USE IN SPECIFIC POPULATIONS (8.6, 8.7)
 
 ### Obese Patients
 

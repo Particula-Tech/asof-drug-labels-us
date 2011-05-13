@@ -6,9 +6,9 @@ If applicable, inform your patients that certain medical conditions and medicati
 In addition, inform your patient that severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
 Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
 
-12-2008M
+01-2011M
 
-D1007098
+D46061572
 
 Manufactured in Canada by
 

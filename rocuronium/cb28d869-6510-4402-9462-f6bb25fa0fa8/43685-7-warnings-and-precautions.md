@@ -9,8 +9,9 @@ It is recommended that clinicians administering neuromuscular blocking agents su
 ## 5.2 Anaphylaxis
 
 Severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
-These reactions have, in some cases (including cases with rocuronium bromide) been life threatening.
+These reactions have, in some cases (including cases with rocuronium bromide) been life threatening and fatal.
 Due to the potential severity of these reactions, the necessary precautions, such as the immediate availability of appropriate emergency treatment, should be taken.
+Precautions should also be taken in those patients who have had previous anaphylactic reactions to other neuromuscular blocking agents, since cross-reactivity between neuromuscular blocking agents, both depolarizing and nondepolarizing, has been reported.
 
 ## 5.3 Need for Adequate Anesthesia
 
@@ -38,7 +39,7 @@ Therefore, for patients receiving both neuromuscular blocking agents and cortico
 ## 5.6 Malignant Hyperthermia (MH)
 
 Rocuronium bromide has not been studied in MH-susceptible patients.
-Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis and treatment of malignant hyperthermia prior to the start of any anesthetic.
+Because rocuronium bromide is always used with other agents, and the occurrence of malignant hyperthermia during anesthesia is possible even in the absence of known triggering agents, clinicians should be familiar with early signs, confirmatory diagnosis, and treatment of malignant hyperthermia prior to the start of any anesthetic.
 
 In an animal study in MH-susceptible swine, the administration of rocuronium bromide injection did not appear to trigger malignant hyperthermia.
 
@@ -64,7 +65,7 @@ In these or other patients in whom potentiation of neuromuscular block or diffic
 
 Resistance to nondepolarizing agents, consistent with up-regulation of skeletal muscle acetylcholine receptors, is associated with burns, disuse atrophy, denervation, and direct muscle trauma.
 Receptor up-regulation may also contribute to the resistance to nondepolarizing muscle relaxants which sometimes develops in patients with cerebral palsy, patients chronically receiving anticonvulsant agents such as carbamazepine or phenytoin or with chronic exposure to nondepolarizing agents.
-When rocuronium bromide is administered to these patients, shorter durations of neuromuscular block may occur and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
+When rocuronium bromide is administered to these patients, shorter durations of neuromuscular block may occur, and infusion rates may be higher due to the development of resistance to nondepolarizing muscle relaxants.
 
 ### Potentiation or Resistance
 

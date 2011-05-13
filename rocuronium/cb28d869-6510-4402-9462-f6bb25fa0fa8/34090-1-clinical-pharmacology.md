@@ -9,7 +9,7 @@ This action is antagonized by acetylcholinesterase inhibitors, such as neostigmi
 ## 12.2 Pharmacodynamics
 
 The ED95 (dose required to produce 95% suppression of the first [T1] mechanomyographic [MMG] response of the adductor pollicis muscle [thumb] to indirect supramaximal train-of-four stimulation of the ulnar nerve) during opioid/nitrous oxide/oxygen anesthesia is approximately 0.3 mg/kg.
-Patient variability around the ED95 dose suggests that 50% of patients will exhibit T1 depression of 91 to 97%.
+Patient variability around the ED95 dose suggests that 50% of patients will exhibit T1 depression of 91% to 97%.
 
 Table 4 presents intubating conditions in patients with intubation initiated at 60 to 70 seconds.
 
@@ -55,20 +55,20 @@ Labeling describing additional pharmacodynamics in pediatric populations is appr
 
 The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
-The clinical durations for the first five maintenance doses, in patients receiving five or more maintenance doses are represented in Figure 3 [see DOSAGE AND ADMINISTRATION (2.3)].
+The clinical durations for the first 5 maintenance doses, in patients receiving 5 or more maintenance doses are represented in Figure 3 [see DOSAGE AND ADMINISTRATION (2.3)].
 
 Once spontaneous recovery has reached 25% of control T1, the neuromuscular block produced by rocuronium bromide is readily reversed with anticholinesterase agents, e.g., edrophonium or neostigmine.
 
-The median spontaneous recovery from 25 to 75% T1 was 13 minutes in adult patients.
-When neuromuscular block was reversed in 36 adults at a T1 of 22 to 27%, recovery to a T1 of 89 (50 to 132)% and T4/T1 of 69 (38 to 92)% was achieved within 5 minutes.
-Only five of 320 adults reversed received an additional dose of reversal agent.
+The median spontaneous recovery from 25% to 75% T1 was 13 minutes in adult patients.
+When neuromuscular block was reversed in 36 adults at a T1 of 22% to 27%, recovery to a T1 of 89 (50 to 132)% and T4/T1 of 69 (38 to 92)% was achieved within 5 minutes.
+Only 5 of 320 adults reversed received an additional dose of reversal agent.
 The median (range) dose of neostigmine was 0.04 (0.01 to 0.09) mg/kg and the median (range) dose of edrophonium was 0.5 (0.3 to 1.0) mg/kg.
 
-In geriatric patients (n=51) reversed with neostigmine, the median T4/T1 increased from 40 to 88% in 5 minutes.
+In geriatric patients (n=51) reversed with neostigmine, the median T4/T1 increased from 40% to 88% in 5 minutes.
 
 In clinical trials with halothane, pediatric patients (n=27) who received 0.5 mg/kg edrophonium had increases in the median T4/T1 from 37% at reversal to 93% after 2 minutes.
 Pediatric patients (n=58) who received 1 mg/kg edrophonium had increases in the median T4/T1 from 72% at reversal to 100% after 2 minutes.
-Infants (n=10) who were reversed with 0.03 mg/kg neostigmine recovered from 25 to 75% T1 within 4 minutes.
+Infants (n=10) who were reversed with 0.03 mg/kg neostigmine recovered from 25% to 75% T1 within 4 minutes.
 
 There were no reports of less than satisfactory clinical recovery of neuromuscular function.
 
@@ -77,8 +77,8 @@ The neuromuscular blocking action of rocuronium bromide may be enhanced in the p
 ### Hemodynamics
 
 There were no dose-related effects on the incidence of changes from baseline (30% or greater) in mean arterial blood pressure (MAP) or heart rate associated with rocuronium bromide administration over the dose range of 0.12 to 1.2 mg/kg (4 x ED95) within 5 minutes after rocuronium bromide administration and prior to intubation.
-Increases or decreases in MAP were observed in 2 to 5% of geriatric and other adult patients, and in about 1% of pediatric patients.
-Heart rate changes (30% or greater) occurred in 0 to 2% of geriatric and other adult patients.
+Increases or decreases in MAP were observed in 2% to 5% of geriatric and other adult patients, and in about 1% of pediatric patients.
+Heart rate changes (30% or greater) occurred in 0% to 2% of geriatric and other adult patients.
 Tachycardia (30% or greater) occurred in 12 of 127 pediatric patients.
 Most of the pediatric patients developing tachycardia were from a single study where the patients were anesthetized with halothane and who did not receive atropine for induction [see CLINICAL STUDIES (14.3)].
 In U.S. studies, laryngoscopy and tracheal intubation following rocuronium bromide administration were accompanied by transient tachycardia (30% or greater increases) in about one-third of adult patients under opioid/nitrous oxide/oxygen anesthesia.
@@ -95,9 +95,9 @@ Clinical signs of histamine release (flushing, rash, or bronchospasm) associated
 ### Adult and Geriatric Patients
 
 In an effort to maximize the information gathered in the in vivo pharmacokinetic studies, the data from the studies was used to develop population estimates of the parameters for the subpopulations represented (e.g., geriatric, pediatric, renal and hepatic impairment).
-These population based estimates and a measure of the estimate variability are contained in the following section.
+These population-based estimates and a measure of the estimate variability are contained in the following section.
 
-Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three compartment open model.
+Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
 In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged.

@@ -6,10 +6,10 @@
 
 Developmental toxicology studies have been performed with rocuronium bromide in pregnant, conscious, nonventilated rabbits and rats.
 Inhibition of neuromuscular function was the endpoint for high-dose selection.
-The maximum tolerated dose served as the high-dose and was administered intravenously three times a day to rats (0.3 mg/kg, 15 to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
+The maximum tolerated dose served as the high dose and was administered intravenously 3 times a day to rats (0.3 mg/kg, 15% to 30% of human intubation dose of 0.6 to 1.2 mg/kg based on the body surface unit of mg/m2) from day 6 to 17 and to rabbits (0.02 mg/kg, 25% human dose) from day 6 to 18 of pregnancy.
 High-dose treatment caused acute symptoms of respiratory dysfunction due to the pharmacological activity of the drug.
 Teratogenicity was not observed in these animal species.
-The incidence of late embryonic death was increased at the high-dose in rats most likely due to oxygen deficiency.
+The incidence of late embryonic death was increased at the high dose in rats most likely due to oxygen deficiency.
 Therefore, this finding probably has no relevance for humans because immediate mechanical ventilation of the intubated patient will effectively prevent embryo-fetal hypoxia.
 However, there are no adequate and well-controlled studies in pregnant women.
 Rocuronium bromide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
@@ -49,7 +49,7 @@ Since rocuronium bromide is primarily excreted by the liver, it should be used w
 Rocuronium bromide 0.6 mg/kg has been studied in a limited number of patients (n=9) with clinically significant hepatic impairment under steady-state isoflurane anesthesia.
 After rocuronium bromide 0.6 mg/kg, the median (range) clinical duration of 60 (35 to 166) minutes was moderately prolonged compared to 42 minutes in patients with normal hepatic function.
 The median recovery time of 53 minutes was also prolonged in patients with cirrhosis compared to 20 minutes in patients with normal hepatic function.
-Four of eight patients with cirrhosis, who received rocuronium bromide 0.6 mg/kg under opioid/nitrous oxide/oxygen anesthesia, did not achieve complete block.
+Four of 8 patients with cirrhosis, who received rocuronium bromide 0.6 mg/kg under opioid/nitrous oxide/oxygen anesthesia, did not achieve complete block.
 These findings are consistent with the increase in volume of distribution at steady state observed in patients with significant hepatic impairment [see CLINICAL PHARMACOLOGY (12.3)].
 If used for rapid sequence induction in patients with ascites, an increased initial dosage may be necessary to assure complete block.
 Duration will be prolonged in these cases.

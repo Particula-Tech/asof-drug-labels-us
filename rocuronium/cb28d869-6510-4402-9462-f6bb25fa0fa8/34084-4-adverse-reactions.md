@@ -32,7 +32,7 @@ Skin and Appendages: rash, injection site edema, pruritus
 In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the U.S. studies (0.1% and 0.1%).
 Changes in heart rate and blood pressure were defined differently from in the U.S. studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
 
-In a clinical study in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
+In a clinical study in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients, but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
 In some patients, rocuronium bromide was associated with transient increases (30% or greater) in pulmonary vascular resistance.
 In another clinical study of patients undergoing abdominal aortic surgery, transient increases (30% or greater) in pulmonary vascular resistance were observed in about 24% of patients receiving rocuronium bromide 0.6 or 0.9 mg/kg.
 
