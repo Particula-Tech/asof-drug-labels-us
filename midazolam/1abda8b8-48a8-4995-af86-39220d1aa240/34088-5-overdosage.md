@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 The manifestations of midazolam overdosage reported are similar to those observed with other benzodiazepines, including sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma and untoward effects on vital signs.
-No evidence of specific organ toxicity from midazolam hydrochloride overdosage has been reported.
+No evidence of specific organ toxicity from midazolam overdosage has been reported.
 
 Treatment of Overdosage: Treatment of injectable midazolam overdosage is the same as that followed for overdosage with other benzodiazepines.
 Respiration, pulse rate and blood pressure should be monitored and general supportive measures should be employed.
@@ -11,7 +11,7 @@ Should hypotension develop, treatment may include intravenous fluid therapy, rep
 There is no information as to whether peritoneal dialysis, forced diuresis or hemodialysis are of any value in the treatment of midazolam overdosage.
 
 Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazepines and may be used in situations when an overdose with a benzodiazepine is known or suspected.
-There are anecdotal reports of reversal of adverse hemodynamic responses associated with midazolam hydrochloride following administration of flumazenil to pediatric patients.
+There are anecdotal reports of reversal of adverse hemodynamic responses associated with midazolam following administration of flumazenil to pediatric patients.
 Prior to the administration of flumazenil, necessary measures should be instituted to secure the airway, assure adequate ventilation, and establish adequate intravenous access.
 Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 Patients treated with flumazenil should be monitored for resedation, respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment.

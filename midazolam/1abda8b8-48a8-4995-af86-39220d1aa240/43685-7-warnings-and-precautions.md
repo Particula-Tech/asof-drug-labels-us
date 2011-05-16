@@ -1,7 +1,7 @@
 # WARNINGS
 
-Midazolam hydrochloride must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression.
-Prior to the intravenous administration of midazolam hydrochloride in any dose, the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
+Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression.
+Prior to the intravenous administration of midazolam in any dose, the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
 Patients should be continuously monitored with some means of detection for early signs of hypoventilation, airway obstruction, or apnea, i.e., pulse oximetry.
 Hypoventilation, airway obstruction, and apnea can lead to hypoxia and/or cardiac arrest unless effective countermeasures are taken immediately.
 The immediate availability of specific reversal agents (flumazenil) is highly recommended.
@@ -17,29 +17,29 @@ There have also been rare reports of hypotensive episodes requiring treatment du
 Hypotension occurred more frequently in the sedation studies in patients premedicated with a narcotic.
 
 Reactions such as agitation, involuntary movements (including tonic/clonic movements and muscle tremor), hyperactivity and combativeness have been reported in both adult and pediatric patients.
-These reactions may be due to inadequate or excessive dosing or improper administration of midazolam hydrochloride; however, consideration should be given to the possibility of cerebral hypoxia or true paradoxical reactions.
-Should such reactions occur, the response to each dose of midazolam hydrochloride and all other drugs, including local anesthetics, should be evaluated before proceeding.
+These reactions may be due to inadequate or excessive dosing or improper administration of midazolam; however, consideration should be given to the possibility of cerebral hypoxia or true paradoxical reactions.
+Should such reactions occur, the response to each dose of midazolam and all other drugs, including local anesthetics, should be evaluated before proceeding.
 Reversal of such responses with flumazenil has been reported in pediatric patients.
 
 Concomitant use of barbiturates, alcohol or other central nervous system depressants may increase the risk of hypoventilation, airway obstruction, desaturation, or apnea and may contribute to profound and/or prolonged drug effect.
 Narcotic premeditation also depresses the ventilatory response to carbon dioxide stimulation.
 
 Higher risk adult and pediatric surgical patients, elderly patients and debilitated adult and pediatric patients require lower dosages, whether or not concomitant sedating medications have been administered.
-Adult or pediatric patients with COPD are unusually sensitive to the respiratory depressant effect of midazolam hydrochloride.
+Adult or pediatric patients with COPD are unusually sensitive to the respiratory depressant effect of midazolam.
 Pediatric and adult patients undergoing procedures involving the upper airway such as upper endoscopy or dental care, are particularly vulnerable to episodes of desaturation and hypoventilation due to partial airway obstruction.
 Adult and pediatric patients with chronic renal failure and patients with congestive heart failure eliminate midazolam more slowly (see CLINICAL PHARMACOLOGY).
-Because elderly patients frequently have inefficient function of one or more organ systems and because dosage requirements have been shown to decrease with age, reduced initial dosage of midazolam hydrochloride is recommended, and the possibility of profound and/or prolonged effect should be considered.
+Because elderly patients frequently have inefficient function of one or more organ systems and because dosage requirements have been shown to decrease with age, reduced initial dosage of midazolam is recommended, and the possibility of profound and/or prolonged effect should be considered.
 
 Injectable midazolam should not be administered to adult or pediatric patients in shock or coma, or in acute alcohol intoxication with depression of vital signs.
 Particular care should be exercised in the use of intravenous midazolam in adult or pediatric patients with uncompensated acute illnesses, such as severe fluid or electrolyte disturbances.
 
-There have been limited reports of intra-arterial injection of midazolam hydrochloride.
+There have been limited reports of intra-arterial injection of midazolam.
 Adverse events have included local reactions, as well as isolated reports of seizure activity in which no clear causal relationship was established.
 Precautions against unintended intra-arterial injection should be taken.
 Extravasation should also be avoided.
 
 The safety and efficacy of midazolam following nonintravenous and nonintramuscular routes of administration have not been established.
-Midazolam hydrochloride should only be administered intramuscularly or intravenously.
+Midazolam should only be administered intramuscularly or intravenously.
 
 The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 Gross tests of recovery from the effects of midazolam (see CLINICAL PHARMACOLOGY) cannot be relied upon to predict reaction time under stress.
@@ -52,7 +52,7 @@ If this drug is used during pregnancy, the patient should be apprised of the pot
 Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
 Usage In Preterm Infants And Neonates: Rapid injection should be avoided in the neonatal population.
-Midazolam hydrochloride administered rapidly as an intravenous injection (less than 2 minutes) has been associated with severe hypotension in neonates, particularly when the patient has also received fentanyl.
+Midazolam administered rapidly as an intravenous injection (less than 2 minutes) has been associated with severe hypotension in neonates, particularly when the patient has also received fentanyl.
 Likewise, severe hypotension has been observed in neonates receiving a continuous infusion of midazolam who then receive a rapid intravenous injection of fentanyl.
 Seizures have been reported in several neonates following rapid intravenous administration.
 
@@ -62,15 +62,17 @@ The neonate also has reduced and/or immature organ function and is also vulnerab
 
 ## General:
 
-Intravenous doses of midazolam hydrochloride should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Intravenous doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
 
 Midazolam does not protect against the increase in intracranial pressure or against the heart rate rise and/or blood pressure rise associated with endotracheal intubation under light general anesthesia.
 
-Use with Other CNS Depressants: The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
+Use with Other CNS Depressants:
+
+The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects range from mild sedation to deep levels of sedation virtually equivalent to a state of general anesthesia where the patient may require external support of vital functions.
-Care must be taken to individualize and carefully titrate the dose of midazolam hydrochloride to the patient’s underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam hydrochloride and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
-Practitioners administering midazolam hydrochloride must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
+Care must be taken to individualize and carefully titrate the dose of midazolam to the patient’s underlying medical/surgical conditions, administer to the desired effect being certain to wait an adequate time for peak CNS effects of both midazolam and concomitant medications, and have the personnel and size-appropriate equipment and facilities available for monitoring and intervention (see Boxed WARNING, WARNINGS and DOSAGE AND ADMINISTRATION).
+Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
 ## Information for Patients:
@@ -82,7 +84,7 @@ To assure safe and effective use of benzodiazepines, the following information a
 2. Inform your physician if you are pregnant or are planning to become pregnant.
 3. Inform your physician if you are nursing.
 4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
-   The decision as to when patients who have received injectable midazolam hydrochloride, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
+   The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
 
 ## Drug Interactions:
@@ -110,13 +112,13 @@ No interaction was observed in healthy subjects between midazolam and nifedipine
 In a placebo-controlled study, saquinavir administered as a 1200 mg dose, tid, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg IV dose was observed.
 The half-life was approximately doubled.
 
-A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam hydrochloride for premedication in adults.
+A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam for premedication in adults.
 
-The intravenous administration of midazolam hydrochloride decreases the minimum alveolar concentration (MAC) of halothane required for general anesthesia.
-This decrease correlates with the dose of midazolam hydrochloride administered; no similar studies have been carried out in pediatric patients but there is no scientific reason to expect that pediatric patients would respond differently than adults.
+The intravenous administration of midazolam decreases the minimum alveolar concentration (MAC) of halothane required for general anesthesia.
+This decrease correlates with the dose of midazolam administered; no similar studies have been carried out in pediatric patients but there is no scientific reason to expect that pediatric patients would respond differently than adults.
 
 Although the possibility of minor interactive effects has not been fully studied, midazolam and pancuronium have been used together in patients without noting clinically significant changes in dosage, onset or duration in adults.
-Midazolam hydrochloride does not protect against the characteristic circulatory changes noted after administration of succinylcholine or pancuronium and does not protect against the increased intracranial pressure noted following administration of succinylcholine.
+Midazolam does not protect against the characteristic circulatory changes noted after administration of succinylcholine or pancuronium and does not protect against the increased intracranial pressure noted following administration of succinylcholine.
 Midazolam does not cause a clinically significant change in dosage, onset or duration of a single intubating dose of succinylcholine; no similar studies have been carried out in pediatric patients but there is no scientific reason to expect that pediatric patients would respond differently than adults.
 
 No significant adverse interactions with commonly used premedications or drugs used during anesthesia and surgery (including atropine, scopolamine, glycopyrrolate, diazepam, hydroxyzine, d-tubocurarine, succinylcholine and other nondepolarizing muscle relaxants) or topical local anesthetics (including lidocaine, dyclonine HCl and Cetacaine) have been observed in adults or pediatric patients.
@@ -160,7 +162,7 @@ Because midazolam is transferred transplacentally and because other benzodiazepi
 ## Nursing Mothers:
 
 Midazolam is excreted in human milk.
-Caution should be exercised when midazolam hydrochloride is administered to a nursing woman.
+Caution should be exercised when midazolam is administered to a nursing woman.
 
 ## Pediatric Use:
 
@@ -173,7 +175,7 @@ In obese PEDIATRIC PATIENTS, the dose should be calculated based on ideal body w
 When midazolam is given in conjunction with opioids or other sedatives, the potential for respiratory depression, airway obstruction, or hypoventilation is increased.
 The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation.
 
-Midazolam hydrochloride should not be administered by rapid injection in the neonatal population.
+Midazolam should not be administered by rapid injection in the neonatal population.
 Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
 
 ## Geriatric Use:
