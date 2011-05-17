@@ -28,7 +28,7 @@ Because of the potential for serious adverse reactions in nursing infants from A
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see BOXED WARNING and WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk (5.1)].
+Safety and effectiveness in the pediatric population have not been established [see BOXED WARNING and WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders (5.1)].
 Anyone considering the use of Aplenzin in a child or adolescent must balance the potential risks with the clinical need.
 
 ## 8.5 Geriatric Use
@@ -61,5 +61,4 @@ The dose should not exceed 174 mg every other day in these patients.
 Aplenzin should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels.
-
-See DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3).
+[see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].

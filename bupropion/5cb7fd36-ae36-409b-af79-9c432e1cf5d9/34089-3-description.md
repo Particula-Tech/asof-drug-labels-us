@@ -10,7 +10,7 @@ It has a bitter taste and produces the sensation of local anesthesia on the oral
 The structural formula is:
 
 Aplenzin Tablets are supplied for oral administration as 174 mg, 348 mg, and 522 mg white to off white extended-release tablets.
-Each tablet contains the labeled amount of bupropion hydrobromide and the inactive ingredients: ethylcellulose aqueous dispersion, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
+Each tablet contains the labeled amount of bupropion hydrobromide and the inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
 Carnauba wax is included in the 174 mg and 348 mg strengths.
 The tablets are printed with edible black ink.
 

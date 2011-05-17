@@ -3,34 +3,34 @@
 The following risks are discussed in greater detail in other sections of the labeling:
 
 - Clinical worsening and suicide risk [see WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk (5.1)]
-- Activation of Psychosis and/or Mania [see WARNINGS AND PRECAUTIONS: Activation of Psychosis and/or Mania (5.2) and WARNINGS AND PRECAUTIONS: Screening Patients for Bipolar Disorder (5.3)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS: Potential for Hepatotoxicity (5.6)]
-- Agitation and Insomnia [see WARNINGS AND PRECAUTIONS: Agitation and Insomnia (5.7)]
-- Psychosis, confusion and other neuropsychiatric phenomena [see WARNINGS AND PRECAUTIONS: Psychosis, Confusion, and Other Neuropsychiatric Phenomena (5.8)]
-- Altered appetite [see WARNINGS AND PRECAUTIONS: Altered Appetite and Weight (5.9)]
-- Allergic reactions, including anaphylactoid/anaphylactic reactions, erythema multiforme, Stevens-Johnson syndrome and other symptoms suggestive of delayed hypersensitivity [see WARNINGS AND PRECAUTIONS: Allergic Reactions (5.10)]
-- Hypertension [see WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.11)]
+- Activation of Psychosis and/or Mania [see WARNINGS AND PRECAUTIONS: Activation of Psychosis and/or Mania (5.3) and WARNINGS AND PRECAUTIONS: Screening Patients for Bipolar Disorder (5.4)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS: Potential for Hepatotoxicity (5.7)]
+- Agitation and Insomnia [see WARNINGS AND PRECAUTIONS: Agitation and Insomnia (5.8)]
+- Psychosis, confusion and other neuropsychiatric phenomena [see WARNINGS AND PRECAUTIONS: Psychosis, Confusion, and Other Neuropsychiatric Phenomena (5.9)]
+- Altered appetite [see WARNINGS AND PRECAUTIONS: Altered Appetite and Weight (5.10)]
+- Allergic reactions, including anaphylactoid/anaphylactic reactions, erythema multiforme, Stevens-Johnson syndrome and other symptoms suggestive of delayed hypersensitivity [see WARNINGS AND PRECAUTIONS: Allergic Reactions (5.11)]
+- Hypertension [see WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.12)]
 
 ## 6.1 Commonly Observed Adverse Reactions in Controlled Clinical Trials
 
-Adverse reactions from Table 4 occurring in at least 5% of patients treated with the sustained-release formulation of bupropion hydrochloride and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg/day dose groups.
+Adverse reactions from Table 5 occurring in at least 5% of patients treated with the sustained-release formulation of bupropion hydrochloride and at a rate at least twice the placebo rate are listed below for the 300- and 400-mg/day dose groups.
 
 300 mg/day of WELLBUTRIN SR (equivalent to 348 mg/day bupropion HBr): Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
 400 mg/day of WELLBUTRIN SR (equivalent to 464 mg/day bupropion HBr): Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-Aplenzin is bioequivalent to WELLBUTRIN XL®, which has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion.
-The information included under this subsection and under subsections 6.2 and 6.3 is based primarily on data from controlled clinical trials with WELLBUTRIN SR® Tablets, the sustained-release formulation of bupropion hydrochloride.
+Aplenzin is bioequivalent to WELLBUTRIN XL, which has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion.
+The information included under this subsection and under subsections 6.2 and 6.3 is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets, the sustained-release formulation of bupropion hydrochloride.
 
 ## 6.2 Adverse Reactions Leading to Discontinuation of Treatment With WELLBUTRIN or WELLBUTRIN SR
 
 In placebo-controlled clinical trials, 9% and 11% of patients treated with 300 and 400 mg/day, respectively, of the sustained-release formulation of bupropion hydrochloride and 4% of patients treated with placebo discontinued treatment due to adverse reactions.
-The specific adverse reactions in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of WELLBUTRIN SR®, the sustained-release formulation of bupropion hydrochloride, and at a rate at least twice the placebo rate are listed in Table 4.
+The specific adverse reactions in these trials that led to discontinuation in at least 1% of patients treated with either 300 mg/day or 400 mg/day of WELLBUTRIN SR, the sustained-release formulation of bupropion hydrochloride, and at a rate at least twice the placebo rate are listed in Table 4.
 
 Table 4.
 Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials for Major Depressive Disorder
 
-| Adverse Reaction Term | WELLBUTRIN SR® (Bupropion HCl) 300 mg/day Equivalent to 348 mg/day bupropion HBr (n = 376) | WELLBUTRIN SR® (Bupropion HCl) 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n = 114) | Placebo (n = 385) |
+| Adverse Reaction Term | WELLBUTRIN® SR (Bupropion HCl) 300 mg/day Equivalent to 348 mg/day bupropion HBr (n = 376) | WELLBUTRIN® SR (Bupropion HCl) 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n = 114) | Placebo (n = 385) |
 | --- | --- | --- | --- |
 | Rash | 2.4% | 0.9% | 0.0% |
 | Nausea | 0.8% | 1.8% | 0.3% |
@@ -56,7 +56,7 @@ A better perspective on the serious adverse reactions associated with the use of
 Table 5.
 Treatment-Emergent Adverse Reactions in Placebo-Controlled TrialsAdverse reactions that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion hydrochloride, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder. for Major Depressive Disorder
 
-| Body System/Adverse Reaction | WELLBUTRIN SR® (Bupropion HCl) 300 mg/dayEquivalent to 348 mg/day bupropion HBr (n = 376) | WELLBUTRIN SR® (Bupropion HCl) 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n = 114) | Placebo (n = 385) |
+| Body System/Adverse Reaction | WELLBUTRIN® SR (Bupropion HCl) 300 mg/dayEquivalent to 348 mg/day bupropion HBr (n = 376) | WELLBUTRIN® SR (Bupropion HCl) 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n = 114) | Placebo (n = 385) |
 | --- | --- | --- | --- |
 | Body (General) |  |  |  |
 | Headache | 26% | 25% | 23% |
@@ -139,13 +139,13 @@ Body (General)
 Infrequent were chills, facial edema, musculoskeletal chest pain, and photosensitivity.
 Rare was malaise.
 Also observed were arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
-These symptoms may resemble serum sickness [see WARNINGS AND PRECAUTIONS: Allergic Reactions (5.10)].
+These symptoms may resemble serum sickness [see WARNINGS AND PRECAUTIONS: Allergic Reactions (5.11)].
 
 Cardiovascular
 
 Infrequent were postural hypotension, stroke, tachycardia, and vasodilation.
 Rare was syncope.
-Also observed were complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe; [see WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.11)], myocardial infarction, phlebitis, and pulmonary embolism.
+Also observed were complete atrioventricular block, extrasystoles, hypotension, hypertension (in some cases severe); [see WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.12)], myocardial infarction, phlebitis, and pulmonary embolism.
 
 Digestive
 
@@ -175,9 +175,10 @@ Also observed were muscle rigidity/fever/rhabdomyolysis and muscle weakness.
 
 Nervous System
 
-Infrequent were abnormal coordination, decreased libido, depersonalization, dysphoria, emotional lability, hostility, hyperkinesia, hypertonia, hypesthesia, suicidal ideation, and vertigo.
+Frequent were agitation, depression, and irritability.
+Infrequent were abnormal coordination, CNS stimulation, confusion, decreased libido, decreased memory, depersonalization, emotional lability, hostility, hyperkinesia, hypertonia, hypesthesia, paresthesia, suicidal ideation, and vertigo.
 Rare were amnesia, ataxia, derealization, and hypomania.
-Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, and unmasking tardive dyskinesia.
+Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
 Respiratory
 

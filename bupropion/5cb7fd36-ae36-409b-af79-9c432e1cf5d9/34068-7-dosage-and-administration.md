@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Considerations
 
-It is particularly important to administer Aplenzin Tablets in a manner most likely to minimize the risk of seizure [see WARNINGS AND PRECAUTIONS: Seizures (5.4)].
+It is particularly important to administer Aplenzin Tablets in a manner most likely to minimize the risk of seizure [see WARNINGS AND PRECAUTIONS: Seizures (5.5)].
 Gradual escalation in dosage is also important if agitation, motor restlessness, and insomnia, often seen during the initial days of treatment, are to be minimized.
 If necessary, these effects may be managed by temporary reduction of dose or the short-term administration of an intermediate to long-acting sedative hypnotic.
 A sedative hypnotic usually is not required beyond the first week of treatment.
@@ -29,7 +29,7 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## 2.4 Switching Patients from WELLBUTRIN, WELLBUTRIN SR or WELLBUTRIN XL
 
-When switching patients from WELLBUTRIN®, WELLBUTRIN SR® or WELLBUTRIN XL® Tablets to Aplenzin, give the equivalent total daily dose when possible (522 mg bupropion HBr are equivalent to 450 mg bupropion HCl; 348 mg bupropion HBr are equivalent to 300 mg bupropion HCl; 174 mg bupropion HBr are equivalent to 150 mg bupropion HCl).
+When switching patients from WELLBUTRIN, WELLBUTRIN SR or WELLBUTRIN XL Tablets to Aplenzin, give the equivalent total daily dose when possible (522 mg bupropion HBr are equivalent to 450 mg bupropion HCl; 348 mg bupropion HBr are equivalent to 300 mg bupropion HCl; 174 mg bupropion HBr are equivalent to 150 mg bupropion HCl).
 Patients who are currently being treated with WELLBUTRIN Tablets at 300 mg/day (for example, 100 mg 3 times a day) may be switched to Aplenzin 348 mg once daily.
 Patients who are currently being treated with WELLBUTRIN SR Sustained-Release Tablets at 300 mg/day (for example, 150 mg twice daily) may be switched to Aplenzin 348 mg once daily.
 
@@ -37,7 +37,7 @@ Patients who are currently being treated with WELLBUTRIN SR Sustained-Release Ta
 
 Aplenzin should be used with extreme caution in patients with severe hepatic cirrhosis.
 The dose should not exceed 174 mg every other day in these patients.
-Aplenzin should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis [see WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.5), USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].
+Aplenzin should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis [see WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.6), USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].
 
 ## 2.6 Dosage Adjustment for Patients With Impaired Renal Function
 

@@ -18,7 +18,7 @@ Following chronic dosing of Aplenzin 348 mg Tablets, the mean peak steady-state 
 Steady-state plasma concentrations of bupropion were reached within 8 days.
 The elimination half-life (±SD) of bupropion after a single dose is 21.3 (± 6.7) hours.
 
-In a study comparing 10-day dosing with Aplenzin Tablets 348 mg once daily and WELLBUTRIN XL Tablets 300 mg once daily, following a 3-day titration with once daily WELLBUTRIN XL® Tablets 150 mg, Aplenzin peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion) were equivalent to WELLBUTRIN XL Tablets 300 mg, with the average being 8-14% lower.
+In a study comparing 10-day dosing with Aplenzin Tablets 348 mg once daily and WELLBUTRIN XL Tablets 300 mg once daily, following a 3-day titration with once daily WELLBUTRIN XL Tablets 150 mg, Aplenzin peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion) were equivalent to WELLBUTRIN XL Tablets 300 mg, with the average being 8 to 14% lower.
 
 In a single dose study, two Aplenzin Tablets 174 mg once daily and one Aplenzin Tablet 348 mg once daily were evaluated.
 Equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
@@ -85,7 +85,7 @@ For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5), WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.5) and USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7)].
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5), WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.6) and USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7)].
 
 Renal
 

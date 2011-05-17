@@ -28,7 +28,7 @@ In a study of 15 male subjects (ages 19 to 35 years) who were extensive metaboli
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 
-Therefore, co-administration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
+Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
 
 ## 7.2 MAO Inhibitors
@@ -42,12 +42,12 @@ Administration of Aplenzin Tablets to patients receiving either levodopa or aman
 
 ## 7.4 Drugs That Lower Seizure Threshold
 
-Concurrent administration of Aplenzin Tablets and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution [see WARNINGS AND PRECAUTIONS: Seizures (5.4)].
+Concurrent administration of Aplenzin Tablets and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution [see WARNINGS AND PRECAUTIONS: Seizures (5.5)].
 Low initial dosing and gradual dose increases should be employed.
 
 ## 7.5 Nicotine Transdermal System
 
-See WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.11).
+See WARNINGS AND PRECAUTIONS: Cardiovascular Effects (5.12).
 
 ## 7.6 Alcohol
 

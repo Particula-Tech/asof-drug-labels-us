@@ -2,7 +2,7 @@
 
 Aplenzin is contraindicated in patients with a seizure disorder.
 
-Aplenzin is contraindicated in patients treated with ZYBAN® (bupropion hydrochloride) Sustained-Release Tablets; WELLBUTRIN® (bupropion hydrochloride immediate-release formulation); WELLBUTRIN SR® (bupropion hydrochloride sustained-release formulation); WELLBUTRIN XL® (bupropion hydrochloride extended-release formulation); or any other medications that contain bupropion because the incidence of seizure is dose dependent.
+Aplenzin is contraindicated in patients treated with ZYBAN® (bupropion hydrochloride) Sustained-Release Tablets; WELLBUTRIN® (bupropion hydrochloride immediate-release formulation); WELLBUTRIN® SR (bupropion hydrochloride sustained-release formulation); WELLBUTRIN XL® (bupropion hydrochloride extended-release formulation); or any other medications that contain bupropion because the incidence of seizure is dose dependent.
 
 Aplenzin is contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa because of a higher incidence of seizures noted in patients treated for bulimia with the immediate-release formulation of bupropion.
 
