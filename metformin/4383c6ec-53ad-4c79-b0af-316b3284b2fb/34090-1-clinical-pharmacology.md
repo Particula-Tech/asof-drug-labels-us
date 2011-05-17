@@ -1,77 +1,64 @@
-# CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Metformin is an antihyperglycemic agent, which improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
-Its pharmacologic mechanisms of action are different from other classes of oral antihyperglycemic agents.
+Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike sulfonylureas, metformin does not produce hypoglycemia in either patients with type 2 diabetes or normal subjects (except in special circumstances, see PRECAUTIONS) and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances, (see WARNINGS AND PRECAUTIONS (5)) and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability
 
-The following pharmacokinetic studies were performed with the 500 mg dosage form.
-
-Following a single oral dose of 1000 mg (2x500 mg tablets) GLUMETZA after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7-8 hours.
-In both single and multiple-dose studies in healthy subjects, once daily 1000 mg (2x500 mg tablets) dosing provides equivalent systemic exposure, as measured by area-under-the-curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate release given as 500 mg twice daily.
+Following a single oral dose of 1000 mg (2 x 500 mg tablets) GLUMETZA after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7-8 hours.
+In both single and multiple-dose studies in healthy subjects, once daily 1000 mg (2 x 500 mg tablets) dosing provides equivalent systemic exposure, as measured by area-under-the-curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate release given as 500 mg twice daily.
 GLUMETZA tablets must be administered immediately after a meal to maximize therapeutic benefit.
 
-Table 1: Summary Mean (±SD) of Pharmacokinetic Parameters after One Day Dosing
-
-| PK Parameter | Glumetza 2x500 mg | Glumetza 1x500 mg BID | Glucophage 1x500 mg BID |
-| --- | --- | --- | --- |
-| AUC0-36 (ng.hr/mL) | 14182 ± 2415 | 15260 ± 3496 | 15342 ± 3398 |
-| Cmax (ng/mL) | 1301.4 ± 285.7 | 811.9 ± 173.7 | 959.1 ± 204.0 |
-| Tmax (hr) | 7.5 ± 1.2 | 7.1 ± 1.2 | 4.2 ± 1.6 |
-
 Single oral doses of GLUMETZA from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
-The mean Cmax values were 473 ± 145, 868 ± 223, 1171 ± 297, and 1630 ± 399 ng/mL for single doses of 500, 1000, 1500, and 2500 mg, respectively.
-For AUC, the mean values were 3501 ± 796, 6705 ± 1918, 9299 ± 2833, and 14161 ± 4432 ng•hr/mL for single doses of 500, 1000, 1500, and 2500 mg, respectively.
-
 Low-fat and high-fat meals increased the systemic exposure (as measured by AUC) from GLUMETZA tablets by about 38% and 73%, respectively, relative to fasting.
 Both meals prolonged metformin Tmax by approximately 3 hours but Cmax was not affected.
 
-In a two-way, single-dose crossover study in healthy volunteers, the 1000 mg tablet was found to be bioequivalent to two 500 mg tablets under fed conditions based on equivalent Cmax and AUCs for the two formulations (Table 2).
+In a two-way, single-dose crossover study in healthy volunteers, the 1000 mg tablet was found to be bioequivalent to two 500 mg tablets under fed conditions based on equivalent Cmax and AUCs for the two formulations.
 
-Table 2: Mean (±SD) Pharmacokinetic Parameters for Glumetza 1000 mg Tablet and Glumetza 2x500 mg Tablets
-
-| PK Parameters | Glumetza 1000 mg Tablet | Glumetza 2x500 mg Tablets |
-| --- | --- | --- |
-| AUC0-t (ng.hr/mL) | 11706 ± 2520 | 12408 ± 2581 |
-| AUC0-∞ (ng.hr/mL) | 11907 ± 2521 | 12599 ± 2616 |
-| Cmax (ng/mL) | 1238 ± 271 | 1116 ± 254 |
-
-## Distribution
+Distribution
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of 850 mg immediate release metformin hydrochloride averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
 At usual clinical doses and dosing schedules of metformin, steady state plasma concentrations of metformin are reached within 24-48 hours and are generally < 1 μg/mL.
 During controlled clinical trials, which served as the basis of approval for metformin, maximum metformin plasma levels did not exceed 5 μg/mL, even at maximum doses.
 
-## Metabolism and Excretion
+Metabolism
 
-Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
+Intravenous single-dose studies in healthy subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans), nor biliary excretion.
+Metabolism studies with extended-release metformin tablets have not been conducted.
+
+Excretion
+
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
-## Special Populations
+## 12.4 Specific Populations
 
-Renal Impairment: In patients with mild and moderate renal failure (based on measured creatinine clearance) the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively (see WARNINGS).
-Metformin peak and systemic exposure were significantly greater in patients with renal failure relative to healthy volunteers with normal renal function.
-There was a rank-order correlation of metformin AUC and Cmax with degree of renal failure.
-Since metformin can accumulate to toxic levels in patients with renal impairment, administration of GLUMETZA is contraindicated in these patients.
+Renal Impairment: Following a single dose administration of GLUMETZA 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively (see WARNINGS AND PRECAUTIONS (5)).
+Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects.
+Use of metformin in patients with renal impairment increases the risk for lactic acidosis.
+GLUMETZA is contraindicated in patients with renal impairment.
+(See CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.2))
 
-Hepatic Impairment: No pharmacokinetic studies of GLUMETZA have been conducted in subjects with hepatic insufficiency.
+Hepatic Impairment: No pharmacokinetic studies of GLUMETZA have been conducted in subjects with hepatic impairment.
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
+GLUMETZA is not recommended in patients with hepatic impairment.
+(See WARNINGS AND PRECAUTIONS (5.5))
 
-Geriatrics: Limited data from controlled pharmacokinetic studies of metformin hydrochloride in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged and Cmax is increased, compared to healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
-Metformin treatment should not be initiated in patients 80 years of age unless measurement of creatinine clearance demonstrates that renal function is not reduced (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Geriatrics: Limited data from controlled pharmacokinetic studies of metformin hydrochloride in healthy elderly subjects suggest that total plasma clearance of metformin is decreased by 35%, the half-life is prolonged by 64% and Cmax is increased by 76%, compared to healthy young subjects.
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
+Metformin treatment should not be initiated in patients of any age unless measurement of creatinine clearance demonstrates that renal function is normal.
+(See WARNINGS AND PRECAUTIONS (5) and DOSAGE AND ADMINISTRATION (2))
 
-Gender: In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC (males = 268, females = 293) and t1/2 (males = 229, females = 260).
-However, Cmax for metformin were somewhat higher in female subjects (Female/Male Cmax Ratio = 1.4).
+Gender: In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2.
+However, Cmax for metformin was 40% higher in female subjects as compared to males.
 The gender differences for Cmax are unlikely to be clinically important.
 Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin hydrochloride tablets was comparable in males and females.
 
@@ -81,3 +68,39 @@ The differences between the Asian and Caucasian groups are unlikely to be clinic
 In controlled clinical studies of metformin hydrochloride in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n = 249), blacks (n = 51) and Hispanics (n = 24).
 
 Pediatrics: No pharmacokinetic data from studies of GLUMETZA in pediatric subjects are available.
+
+## 12.5 Drug Interactions
+
+Specific pharmacokinetic drug interaction studies with GLUMETZA have not been performed except for one with glyburide.
+However, such studies have been performed on metformin.
+
+Table 2: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
+
+| AUC2 | Cmax |  |  |  |
+| --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug1 | Dose of Metformin1 | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| No dosing adjustments required for the following: |  |  |  |  |
+| Glyburide | 5 mg | 500 mg4 | 0.983 | 0.993 |
+| Furosemide | 40 mg | 850 mg | 1.093 | 1.223 |
+| Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
+| Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
+| Ibuprofen | 400 mg | 850 mg | 1.053 | 1.073 |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination: use with caution. (See WARNINGS AND PRECAUTIONS (5) and DRUG INTERACTIONS (7)) |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis: use with caution (See WARNINGS AND PRECAUTIONS (5) and DRUG INTERACTIONS (7)) |  |  |  |  |
+| Topiramate | 100 mg5 | 500 mg5 | 1.255 | 1.17 |
+| 1. All metformin and coadministered drugs were given as single doses 2. AUC = AUC0-∞ 3. Ratio of arithmetic means 4. GLUMETZA (metformin hydrochloride extended-release tablets) 500 mg 5. At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h |  |  |  |  |
+
+Table 3: Effect of Metformin on Coadministered Drug Systemic Exposure
+
+| AUC2 | Cmax |  |  |  |
+| --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug1 | Dose of Metformin1 | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.00 |  |
+| No dosing adjustments required for the following: |  |  |  |  |
+| Glyburide | 5 mg | 500 mg4 | 0.783 | 0.633 |
+| Furosemide | 40 mg | 850 mg | 0.873 | 0.693 |
+| Nifedipine | 10 mg | 850 mg | 1.104 | 1.08 |
+| Propranolol | 40 mg | 850 mg | 1.014 | 0.94 |
+| Ibuprofen | 400 mg | 850 mg | 0.975 | 1.015 |
+| Cimetidine | 400 mg | 850 mg | 0.954 | 1.01 |
+| 1. All metformin and coadministered drugs were given as single doses 2. AUC = AUC0-∞ 3. Ratio of arithmetic means, p-value of difference < 0.05 4. AUC0-24 hr reported 5. Ratio of arithmetic means |  |  |  |  |

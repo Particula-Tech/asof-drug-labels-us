@@ -1,5 +1,7 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 500 mg Extended-Release Tablets
 
-NDC 13913-002-13 - Bottles of 100 (500 mg Tablets)
+NDC 13913-002-13
 
-NDC 13913-003-16 - Bottles of 90 (1000 mg Tablets)
+Glumetza® (metformin hydrochloride extended-release tablets)
+
+100 Tablets 500 mg ONCE DAILY Rx ONLY
