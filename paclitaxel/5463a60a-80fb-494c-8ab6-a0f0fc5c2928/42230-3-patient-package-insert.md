@@ -130,4 +130,4 @@ Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 *Cremophor® EL is the registered trademark of BASF Aktiengesellschaft.
 Cremophor® EL is further purified by a Bristol-Myers Squibb Company proprietary process before use.
 
-Rev August 2010
+Rev April 2011

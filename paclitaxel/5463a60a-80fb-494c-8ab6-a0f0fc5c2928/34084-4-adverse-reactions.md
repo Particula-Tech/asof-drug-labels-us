@@ -384,7 +384,7 @@ Red cell transfusions were required in 25% of all patients and in 12% of those w
 
 ### Hypersensitivity Reactions (HSRs)
 
-All patients received premedication prior to TAXOL (see WARNINGS and PRECAUTIONS: Hypersensitivity Reactions).
+In clinical trials, all patients received premedication prior to TAXOL administration (see WARNINGS and PRECAUTIONS: Hypersensitivity Reactions).
 The frequency and severity of HSRs were not affected by the dose or schedule of TAXOL administration.
 In the Phase 3 second-line ovarian study, the 3-hour infusion was not associated with a greater increase in HSRs when compared to the 24-hour infusion.
 Hypersensitivity reactions were observed in 20% of all courses and in 41% of all patients.
@@ -488,7 +488,7 @@ Among the patients treated for Kaposi’s sarcoma with TAXOL, 5 patients had ren
 One patient with suspected HIV nephropathy of grade IV severity had to discontinue therapy.
 The other 4 patients had renal insufficiency with reversible elevations of serum creatinine.
 
-Patients with gyneocological cancers treated with TAXOL and cisplatin may have an increased risk of renal failure with the combination therapy of paclitaxel and cisplatin in gynecological cancers as compared to cisplatin alone.
+Patients with gynecological cancers treated with TAXOL and cisplatin may have an increased risk of renal failure with the combination therapy of paclitaxel and cisplatin in gynecological cancers as compared to cisplatin alone.
 
 ### Gastrointestinal (GI)
 
@@ -528,6 +528,8 @@ Edema was most commonly focal and disease-related.
 Edema was observed in 5% of all courses for patients with normal baseline and did not increase with time on study.
 
 Skin abnormalities related to radiation recall as well as maculopapular rash, pruritus, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported.
+In postmarketing experience, diffuse edema, thickening, and sclerosing of the skin have been reported following TAXOL administration.
+TAXOL has been reported to exacerbate signs and symptoms of scleroderma.
 
 Reports of asthenia and malaise have been received as part of the continuing surveillance of TAXOL safety.
 In the Phase 3 trial of TAXOL 135 mg/m2 over 24 hours in combination with cisplatin as first-line therapy of ovarian cancer, asthenia was reported in 17% of the patients, significantly greater than the 10% incidence observed in the control arm of cyclophosphamide/cisplatin.
