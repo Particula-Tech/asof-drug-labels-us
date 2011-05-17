@@ -102,4 +102,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate, or call 1-800-438-1985.
 
-LAB-0342-5.0 December 2010
+LAB-0342-5.0 May 2011
