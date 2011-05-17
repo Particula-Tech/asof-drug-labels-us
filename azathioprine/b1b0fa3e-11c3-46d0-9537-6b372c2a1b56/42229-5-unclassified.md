@@ -8,8 +8,8 @@ Distributed by:
 
 Zydus Pharmaceuticals USA Inc.
 
-Princeton, NJ 08540
+Pennington, NJ 08534
 
-Rev.: 01/10
+Rev.: 05/11
 
-Revision Date: 01/13/2010
+Revision Date: 05/17/2011

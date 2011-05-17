@@ -51,7 +51,7 @@
     JAMA.
     1970; 211: 1854-1855.
 17. Data on file, Prometheus Laboratories Inc.
-18. Saarikoski S, Seppälä M. Immunosuppression during pregnancy: transmission of azathioprine and its metabolites from the mother to the fetus.
+18. Saarikoski S, Seppala M. Immunosuppression during pregnancy: transmission of azathioprine and its metabolites from the mother to the fetus.
     Am J Obstet Gynecol.
     1973; 115:1100-1106.
 19. Coulam CB, Moyer TP, Jiang NS, et al. Breast-feeding after renal transplantation.
