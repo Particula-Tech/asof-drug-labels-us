@@ -39,7 +39,7 @@ Co-administration of NORVASC with warfarin did not change the warfarin prothromb
 
 ## 7.10 CYP3A4 Inhibitors
 
-Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 1.6 fold increase in amlodipine systemic exposure.
+Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
 Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
@@ -47,7 +47,7 @@ Monitor for symptoms of hypotension and edema when amlodipine is co-administered
 ## 7.11 CYP3A4 Inducers
 
 No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
-Patients should be monitored for adequate clinical effect when amlodipine is co-administered with CYP3A4 inducers.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
 
 ## 7.12 Drug/Laboratory Test Interactions
 
