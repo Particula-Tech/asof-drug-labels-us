@@ -4,7 +4,7 @@
 
 Everolimus is an inhibitor of mammalian target of rapamycin (mTOR), a serine-threonine kinase, downstream of the PI3K/AKT pathway.
 The mTOR pathway is dysregulated in several human cancers.
-Everolimus binds to an intracellular protein, FKBP-12, resulting in an inhibitory complex formation (mTORC1) and thus inhibition of mTOR kinase activity.
+Everolimus binds to an intracellular protein, FKBP-12, resulting in an inhibitory complex formation with mTORC1 and thus inhibition of mTOR kinase activity.
 Everolimus reduced the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic elongation factor 4E-binding protein (4E-BP1), downstream effectors of mTOR, involved in protein synthesis.
 In addition, everolimus inhibited the expression of hypoxia-inducible factor (e.g., HIF-1) and reduced the expression of vascular endothelial growth factor (VEGF).
 Inhibition of mTOR by everolimus has been shown to reduce cell proliferation, angiogenesis, and glucose uptake in in vitro and/or in vivo studies.
@@ -36,7 +36,7 @@ Following single doses, Cmax is dose-proportional between 5 mg and 10 mg.
 At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range.
 Steady-state was achieved within 2 weeks following once-daily dosing.
 
-Food effect: In healthy subjects, high fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak plasma concentration Cmax by 54%.
+Food effect: In healthy subjects, high fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
 Light fat meals reduced AUC by 32% and Cmax by 42%.
 Food, however, had no apparent effect on the post absorption phase concentration-time profile.
 
@@ -74,11 +74,11 @@ Patients with Hepatic Impairment
 The average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 AUC was positively correlated with serum bilirubin concentration and with prolongation of prothrombin time and negatively correlated with serum albumin concentration.
 
-For advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), a dose reduction is recommended [see Dosage and Administration (2.2)].
+For advanced PNET and advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), a dose reduction is recommended [see Dosage and Administration (2.2)].
 For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
 However, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
 
-AFINITOR should not be used in patients with severe hepatic impairment (Child-Pugh class C) as the impact of severe hepatic impairment on everolimus exposure has not been assessed [see Dosage and Administration (2.2), Warnings and Precautions (5.6), and Use in Specific Populations (8.7)].
+AFINITOR should not be used in patients with severe hepatic impairment (Child-Pugh class C) as the impact of severe hepatic impairment on everolimus exposure has not been assessed [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Use in Specific Populations (8.7)].
 
 Effects of Age and Gender
 

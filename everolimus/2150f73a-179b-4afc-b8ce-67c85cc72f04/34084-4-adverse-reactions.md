@@ -7,7 +7,114 @@ The following serious adverse reactions are discussed in greater detail in anoth
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
-## 6.1 Clinical Study Experience in Advanced Renal Cell Carcinoma
+## 6.1 Clinical Study Experience in Advanced Pancreatic Neuroendocrine Tumors
+
+In a randomized, controlled trial of AFINITOR (n=204) versus placebo (n=203) in patients with advanced PNET the median age of patients was 58 years (range 20-87), 79% were Caucasian, and 55% were male.
+Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
+
+The most common adverse reactions (incidence ≥ 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
+The most common grade 3/4 adverse reactions (incidence ≥ 5%) were stomatitis and diarrhea.
+The most common laboratory abnormalities (incidence ≥ 50%) were decreased hemoglobin, hyperglycemia, alkaline phosphatase increased, hypercholesterolemia, bicarbonate decreased, and increased aspartate transaminase (AST).
+The most common grade 3/4 laboratory abnormalities (incidence ≥ 3%) were hyperglycemia, lymphopenia, decreased hemoglobin, hypophosphatemia, increased alkaline phosphatase, neutropenia, increased aspartate transaminase (AST), potassium decreased, and thrombocytopenia.
+Deaths during double-blind treatment where an AE was the primary cause occurred in 7 patients on AFINITOR and 1 patient on placebo.
+Causes of death on the AFINITOR arm included one case of each of the following: acute renal failure, acute respiratory distress, cardiac arrest, death (cause unknown), hepatic failure, pneumonia, and sepsis.
+There was 1 death due to pulmonary embolism on the placebo arm.
+After cross-over to open-label AFINITOR, there were 3 additional deaths, one due to hypoglycemia and cardiac arrest in a patient with insulinoma, one due to MI with CHF, and the other due to sudden death.
+The rates of treatment-emergent adverse events resulting in permanent discontinuation were 20% and 6% for the AFINITOR and placebo treatment groups, respectively.
+Dose delay or reduction was necessary in 61% of everolimus patients and 29% of placebo patients.
+Grade 3-4 renal failure occurred in 6 patients in the everolimus arm and 3 patients in the placebo arm.
+Thrombotic events included 5 patients with pulmonary embolus in the everolimus arm and 1 in the placebo arm as well as 3 patients with thrombosis in the everolimus arm and 2 in the placebo arm.
+
+Table 2 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
+
+Table 2: Adverse Reactions Reported ≥ 10% of Patients with Advanced PNET
+
+|  | AFINITOR N=204 |  |  | Placebo N=203 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | % | % | % | % | % | % |
+| Any adverse reaction | 100 | 49 | 13 | 98 | 32 | 8 |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| Stomatitisa | 70 | 7 | 0 | 20 | 0 | 0 |
+| Diarrheab | 50 | 5 | 0.5 | 25 | 3 | 0 |
+| Abdominal pain | 36 | 4 | 0 | 32 | 6 | 1 |
+| Nausea | 32 | 2 | 0 | 33 | 2 | 0 |
+| Vomiting | 29 | 1 | 0 | 21 | 2 | 0 |
+| Constipation | 14 | 0 | 0 | 13 | 0.5 | 0 |
+| Dry mouth | 11 | 0 | 0 | 4 | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| Fatigue/malaise | 45 | 3 | 0.5 | 27 | 2 | 0.5 |
+| Edema (general and peripheral) | 39 | 1 | 0.5 | 12 | 1 | 0 |
+| Fever | 31 | 0.5 | 0.5 | 13 | 0.5 | 0 |
+| Asthenia | 19 | 3 | 0 | 20 | 3 | 0 |
+| Infections and infestations |  |  |  |  |  |  |
+| Nasopharyngitis/rhinitis/URI | 25 | 0 | 0 | 13 | 0 | 0 |
+| Urinary tract infection | 16 | 0 | 0 | 6 | 0.5 | 0 |
+| Investigations |  |  |  |  |  |  |
+| Weight decreased | 28 | 0.5 | 0 | 11 | 0 | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| Decreased appetite | 30 | 1 | 0 | 18 | 1 | 0 |
+| Diabetes mellitus | 10 | 2 | 0 | 0.5 | 0 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
+| Arthralgia | 15 | 1 | 0.5 | 7 | 0.5 | 0 |
+| Back pain | 15 | 1 | 0 | 11 | 1 | 0 |
+| Pain in extremity | 14 | 0.5 | 0 | 6 | 1 | 0 |
+| Muscle spasms | 10 | 0 | 0 | 4 | 0 | 0 |
+| Nervous system disorders |  |  |  |  |  |  |
+| Headache/migraine | 30 | 0.5 | 0 | 15 | 1 | 0 |
+| Dysgeusia | 19 | 0 | 0 | 5 | 0 | 0 |
+| Dizziness | 12 | 0.5 | 0 | 7 | 0 | 0 |
+| Psychiatric disorders |  |  |  |  |  |  |
+| Insomnia | 14 | 0 | 0 | 8 | 0 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
+| Cough/productive cough | 25 | 0.5 | 0 | 13 | 0 | 0 |
+| Epistaxis | 22 | 0 | 0 | 1 | 0 | 0 |
+| Dyspnea/dyspnea exertional | 20 | 2 | 0.5 | 7 | 0.5 | 0 |
+| Pneumonitisc | 17 | 3 | 0.5 | 0 | 0 | 0 |
+| Oropharyngeal pain | 11 | 0 | 0 | 6 | 0 | 0 |
+| Skin and subcutaneous disorders |  |  |  |  |  |  |
+| Rash | 59 | 0.5 | 0 | 19 | 0 | 0 |
+| Nail disorders | 22 | 0.5 | 0 | 2 | 0 | 0 |
+| Pruritus/pruritus generalized | 21 | 0 | 0 | 13 | 0 | 0 |
+| Dry skin/xeroderma | 13 | 0 | 0 | 6 | 0 | 0 |
+| Vascular disorders |  |  |  |  |  |  |
+| Hypertension | 13 | 1 | 0 | 6 | 1 | 0 |
+| Median duration of treatment (wks) | 37 |  |  | 16 |  |  |
+| CTCAE Version 3.0 a Includes stomatitis, aphthous stomatitis, gingival pain/swelling/ulceration, glossitis, glossodynia, lip ulceration, mouth ulceration, tongue ulceration, and mucosal inflammation. b Includes diarrhea, enteritis, enterocolitis, colitis, defecation urgency, and steatorrhea. c Includes pneumonitis, interstitial lung disease, pulmonary fibrosis and restrictive pulmonary disease. |  |  |  |  |  |  |
+
+Key observed laboratory abnormalities are presented in Table 3.
+
+Table 3: Key Laboratory Abnormalities Reported in ≥ 10% of Patients with Advanced PNET
+
+| Laboratory parameter | AFINITOR N=204 |  | Placebo N=203 |  |
+| --- | --- | --- | --- | --- |
+|  | All grades | Grade 3-4 | All grades | Grade 3-4 |
+|  | % | % | % | % |
+| Hematology |  |  |  |  |
+| Hemoglobin decreased | 86 | 15 | 63 | 1 |
+| Lymphocytes decreased | 45 | 16 | 22 | 4 |
+| Platelets decreased | 45 | 3 | 11 | 0 |
+| WBC decreased | 43 | 2 | 13 | 0 |
+| Neutrophils decreased | 30 | 4 | 17 | 2 |
+| Clinical chemistry |  |  |  |  |
+| Alkaline phosphatase increased | 74 | 8 | 66 | 8 |
+| Glucose (fasting) increased | 75 | 17 | 53 | 6 |
+| Cholesterol increased | 66 | 0.5 | 22 | 0 |
+| Bicarbonate decreased | 56 | 0 | 40 | 0 |
+| Aspartate transaminase (AST) increased | 56 | 4 | 41 | 4 |
+| Alanine transaminase (ALT) increased | 48 | 2 | 35 | 2 |
+| Phosphate decreased | 40 | 10 | 14 | 3 |
+| Triglycerides increased | 39 | 0 | 10 | 0 |
+| Calcium decreased | 37 | 0.5 | 12 | 0 |
+| Potassium decreased | 23 | 4 | 5 | 0 |
+| Creatinine increased | 19 | 2 | 14 | 0 |
+| Sodium decreased | 16 | 1 | 16 | 1 |
+| Albumin decreased | 13 | 1 | 8 | 0 |
+| Bilirubin increased | 10 | 1 | 14 | 2 |
+| Potassium increased | 7 | 0 | 10 | 0.5 |
+| CTCAE Version 3.0 |  |  |  |  |
+
+## 6.2 Clinical Study Experience in Advanced Renal Cell Carcinoma
 
 The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137) in a randomized, controlled trial in patients with metastatic renal cell carcinoma who received prior treatment with sunitinib and/or sorafenib.
 The median age of patients was 61 years (range 27-85), 88% were Caucasian, and 78% were male.
@@ -23,10 +130,10 @@ The most common adverse reactions (irrespective of causality) leading to treatme
 Infections, stomatitis, and pneumonitis were the most common reasons for treatment delay or dose reduction.
 The most common medical interventions required during AFINITOR treatment were for infections, anemia, and stomatitis.
 
-Table 2 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
+Table 4 compares the incidence of treatment-emergent adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR 10 mg daily versus placebo.
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
-Table 2: Adverse Reactions Reported in at least 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm
+Table 4: Adverse Reactions Reported in at least 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm
 
 |  | AFINITOR 10 mg/day N=274 |  |  | Placebo N=137 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -92,9 +199,9 @@ Musculoskeletal and connective tissue disorders: Jaw pain (3%)
 
 Hematologic disorders: Hemorrhage (3%)
 
-Key treatment-emergent laboratory abnormalities are presented in Table 3.
+Key laboratory abnormalities are presented in Table 5.
 
-Table 3: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm than the Placebo Arm
+Table 5: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm than the Placebo Arm
 
 | Laboratory parameter | AFINITOR 10 mg/day N=274 |  |  | Placebo N=137 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -116,7 +223,7 @@ Table 3: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher 
 | Bilirubin increased | 3 | <1 | <1 | 2 | 0 | 0 |
 | CTCAE Version 3.0 a Includes reports of anemia, leukopenia, lymphopenia, neutropenia, pancytopenia, thrombocytopenia. |  |  |  |  |  |  |
 
-## 6.2 Clinical Study Experience in Subependymal Giant Cell Astrocytoma
+## 6.3 Clinical Study Experience in Subependymal Giant Cell Astrocytoma
 
 The data described below reflect exposure to AFINITOR (n=28) in an open-label, single-arm trial for the treatment of patients with SEGA.
 The reliability of the frequency of adverse reactions and laboratory abnormalities reported in this trial is limited because of the small number of patients.
@@ -127,10 +234,10 @@ The most common adverse reactions (incidence ≥ 30%) were stomatitis, upper res
 The grade 3 adverse reactions were convulsion, infections (single cases of sinusitis, pneumonia, tooth infection, and bronchitis viral), and single cases of stomatitis, aspiration, cyclic neutropenia, sleep apnea syndrome, vomiting, dizziness, white blood cell count decreased, and neutrophil count decreased.
 A grade 4 convulsion was also reported.
 
-Table 4 summarizes the incidence of treatment-emergent adverse reactions reported with an incidence of ≥ 10%.
+Table 6 summarizes the incidence of treatment-emergent adverse reactions reported with an incidence of ≥ 10%.
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
-Table 4: Adverse Reactions Reported in at least 10% of Patients with SEGA
+Table 6: Adverse Reactions Reported in at least 10% of Patients with SEGA
 
 |  | AFINITOR N=28 |  |  |
 | --- | --- | --- | --- |
@@ -206,7 +313,3 @@ Laboratory abnormalities observed in > 1 patient (and listed in decreasing order
 Most of these laboratory abnormalities were mild (grade 1).
 
 Two cases of neutrophil count decreased and blood immunoglobulin G decreased were reported as adverse reactions.
-
-Information from further clinical trials
-
-In clinical trials, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcomes.

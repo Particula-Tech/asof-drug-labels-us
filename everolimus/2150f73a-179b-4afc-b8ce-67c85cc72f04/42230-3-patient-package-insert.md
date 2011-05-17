@@ -12,14 +12,13 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about AFINITOR?
 
-AFINITOR can cause serious side effects, including:
+AFINITOR can cause serious side effects.
+These serious side effects include:
 
 1.
 You may develop lung or breathing problems.
 In some people lung or breathing problems may be severe, and can even lead to death.
-You may need to stop taking AFINITOR for a while or use a lower dose.
-
-Tell your healthcare provider right away if you have any of these symptoms: • New or worsening cough • Shortness of breath • Difficulty breathing or wheezing
+Tell your healthcare provider right away if you have any of these symptoms: • New or worsening cough • Shortness of breath • Chest pain • Difficulty breathing or wheezing
 
 2.
 You may be more likely to develop an infection, such as pneumonia, or a bacterial, fungal or viral infection.
@@ -29,19 +28,34 @@ You may need to be treated as soon as possible.
 
 Tell your healthcare provider right away if you have a temperature of 100.5˚F or above, chills, or do not feel well.
 
-Symptoms of hepatitis B or infection may include the following: • Fever • Skin rash • Joint pain and inflammation • Tiredness • Loss of appetite • Nausea • Pale stool or dark urine • Yellowing of the skin • Pain in your upper right side
+Symptoms of hepatitis B or infection may include the following:
+
+- Fever
+- Skin rash
+- Joint pain and inflammation
+- Tiredness
+- Loss of appetite
+- Nausea
+- Pale stool or dark urine
+- Yellowing of the skin
+- Pain in your upper right side
+
+If you have any of the serious side effects listed above, you may need to stop taking AFINITOR for a while or use a lower dose.
+Follow your healthcare provider’s instructions.
 
 What is AFINITOR?
 
 AFINITOR is a prescription medicine used to treat:
 
-- people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked
-- subependymal giant cell astrocytoma (SEGA), a brain tumor seen with a genetic condition called tuberous sclerosis (TS)
+- people with a type of pancreatic cancer known as pancreatic neuroendocrine tumor (PNET), that has progressed and can not be treated with surgery.
+  It is not known if AFINITOR is safe and effective in people with carcinoid tumors.
+- people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
+- subependymal giant cell astrocytoma (SEGA), a brain tumor seen with a genetic condition called tuberous sclerosis (TS).
+  It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
 
-AFINITOR may slow the growth and spread of kidney cancer.
+AFINITOR may slow the growth and spread of kidney cancer and pancreatic neuroendocrine tumors.
 
 AFINITOR may reduce the size of SEGA brain tumors that are seen with TS.
-It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
 
 Who should not take AFINITOR?
 
@@ -58,6 +72,7 @@ What should I tell my healthcare provider before taking AFINITOR?
 
 Before taking AFINITOR, tell your healthcare provider about all of your medical conditions, including if you:
 
+- Have or have had kidney problems
 - Have or have had liver problems
 - Have diabetes or high blood sugar
 - Have high blood cholesterol levels
@@ -113,7 +128,7 @@ How should I take AFINITOR?
   Do not take 2 doses to make up for the one that you missed.
   If you are not sure about what to do, call your healthcare provider.
 - You should have regular blood tests before you start AFINITOR and as needed during your treatment.
-  These will include tests to check your kidney and liver function, and blood sugar levels.
+  These will include tests to check your blood cell count, kidney and liver function, and blood sugar levels.
 - If you take AFINITOR to treat SEGA, you will need to have regular blood tests to measure how much AFINITOR is in your blood.
   This will help your doctor decide how much AFINITOR you need to take.
 
@@ -125,9 +140,13 @@ It may make the amount of AFINITOR in your blood increase to a harmful level.
 What are the possible side effects of AFINITOR?
 
 AFINITOR can cause serious side effects.
-See “What is the most important information I should know about AFINITOR?”
 
-Common side effects of AFINITOR in patients with advanced kidney cancer include:
+- See “What is the most important information I should know about AFINITOR?”
+- You may develop kidney failure.
+  In some people this may be severe and can even lead to death.
+  Your doctor should do tests to check your kidney function before and during your treatment with AFINITOR.
+
+Common side effects of AFINITOR in people with advanced pancreatic neuroendocrine tumors and patients with advanced kidney cancer include:
 
 - Mouth ulcers.
   AFINITOR can cause mouth ulcers and sores.
@@ -180,10 +199,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store AFINITOR?
 
-- Store AFINITOR at room temperature, between 59°F to 86°F (15°C to 30°C).
+- Store AFINITOR at room temperature, excursions are allowed between 59°F to 86°F (15°C to 30°C).
 - Keep AFINITOR in the package it comes in.
 - Open the blister package just before taking AFINITOR.
-- Keep the blister package and tablets dry.
+- Keep the blister package and tablets dry prior to taking.
 - Keep AFINITOR out of light.
 - Throw away AFINITOR that is out of date or no longer needed.
 
@@ -208,10 +227,20 @@ Active ingredient: everolimus.
 
 Inactive ingredients: butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone, and lactose anhydrous.
 
-Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
-
-Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
-
-Revised 10/2010 T2010-97/T2010-98
-
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
+
+Manufactured by:
+
+Novartis Pharma Stein AG
+
+Stein, Switzerland
+
+Distributed by:
+
+Novartis Pharmaceuticals Corporation
+
+East Hanover, New Jersey 07936
+
+© Novartis
+
+T2011-78/T2011-79 May 2011/May 2011

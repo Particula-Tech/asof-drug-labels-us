@@ -13,10 +13,10 @@ In healthy subjects, compared to AFINITOR treatment alone there were significant
 - erythromycin (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.0- and 4.4-fold, respectively.
 - verapamil (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
 
-Concomitant strong inhibitors of CYP3A4 should not be used [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.5)].
+Concomitant strong inhibitors of CYP3A4 should not be used [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.6)].
 
 Use caution when AFINITOR is used in combination with moderate CYP3A4 and/or PgP inhibitors.
-If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.5)].
+If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.6)].
 
 ## 7.2 Agents that may Decrease Everolimus Blood Concentrations
 
@@ -29,3 +29,5 @@ St. John’s Wort may decrease everolimus exposure unpredictably and should be a
 ## 7.3 Agents whose Plasma Concentrations may be Altered by Everolimus
 
 Studies in healthy subjects indicate that there are no clinically significant pharmacokinetic interactions between AFINITOR and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate) and pravastatin (a non-CYP3A4 substrate) and population pharmacokinetic analyses also detected no influence of simvastatin (a CYP3A4 substrate) on the clearance of AFINITOR.
+
+Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
