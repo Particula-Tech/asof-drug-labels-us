@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076067"
+  ],
+  "inn": "mometasone",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-119-37",
+    "45802-119-42"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "mometasone furoate",
+      "name": "Mometasone Furoate"
+    }
+  ],
+  "setid": "d986282f-da3c-43b6-a3f6-40886d4a1915",
+  "source": "dailymed"
+}
