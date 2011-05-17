@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA050751"
+  ],
+  "inn": "doxycycline",
+  "labeler": "TOLMAR Inc.",
+  "package_ndcs": [
+    "63646-191-00",
+    "63646-191-01",
+    "63646-191-02",
+    "63646-191-03",
+    "63646-191-04",
+    "63646-191-05",
+    "63646-191-06",
+    "63646-192-07",
+    "63646-193-08"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "doxycycline hyclate",
+      "name": "ATRIDOX"
+    }
+  ],
+  "setid": "2c718fc7-2921-4d02-b273-784e513f8299",
+  "source": "dailymed"
+}

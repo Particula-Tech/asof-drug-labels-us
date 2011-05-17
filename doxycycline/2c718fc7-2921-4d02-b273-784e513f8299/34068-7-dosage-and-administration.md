@@ -1,0 +1,36 @@
+# DOSAGE AND ADMINISTRATION
+
+ATRIDOX® is a variable dose product dependent on the size, shape, and number of pockets being treated.
+
+## Preparation for Use
+
+1. If refrigerated, remove the product from refrigeration at least 15 minutes prior to mixing.
+2. Couple Syringe A (liquid delivery system) and Syringe B (drug powder).
+3. Inject the liquid contents of Syringe A (indicated by red stripe) into Syringe B (doxycycline powder) and then push the contents back into Syringe A. This entire operation is one mixing cycle.
+4. Complete 100 mixing cycles at a pace of one cycle per second using brisk strokes.If immediate use is desired, skip to step 7.
+5. If necessary, the coupled syringes can be stored at room temperature for a maximum of three days.
+   Some of the ATRIDOX® systems are packaged in resealable pouches that can be used for this purpose.
+   If the ATRIDOX® system is packaged in a tray, use an airtight container.
+6. After storage, perform an additional ten mixing cycles just prior to use.Continue with immediate use instructions.
+7. The contents will be in Syringe A (indicated by red stripe).
+   Hold the coupled syringes vertically with Syringe A at the bottom.
+   Pull back on the Syringe A plunger and allow the contents to flow down the barrel for several seconds.
+8. Uncouple the two syringes and attach one of the provided cannulae to Syringe A.Product is now ready for application.
+
+## Product Administration
+
+ATRIDOX® does not require local anesthesia for placement.
+Bend the cannula to resemble a periodontal probe and explore the periodontal pocket in a manner similar to periodontal probing.
+Keeping the cannula tip near the base of the pocket, express the product into the pocket until the formulation reaches the top of the gingival margin.
+Withdraw the cannula tip from the pocket.
+In order to separate the tip from the formulation, turn the tip of the cannula towards the tooth, press the tip against the tooth surface, and pinch the string of formulation from the tip of the cannula.
+Variations on this technique may be needed to achieve separation between ATRIDOX® and cannula.
+
+If desired, using an appropriate dental instrument, ATRIDOX® may be packed into the pocket.
+Dipping the edge of the instrument in water before packing will help keep ATRIDOX® from sticking to the instrument, and will help speed coagulation of ATRIDOX®.
+A few drops of water dripped onto the surface of ATRIDOX® once in the pocket will also aid in coagulation.
+If necessary, add more ATRIDOX® as described above and pack it into the pocket until the pocket is full.
+
+Cover the pockets containing ATRIDOX® with either Coe-Pak™ periodontal dressing or a cyanoacrylate dental adhesive.
+
+Application of ATRIDOX® may be repeated four months after initial treatment.
