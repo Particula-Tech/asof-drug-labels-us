@@ -17,6 +17,6 @@
 
 Revised: January, 2007
 
-| EN-1419 | Printed in USA |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+EN-1419 Printed in USA
+
+Hospira, Inc., Lake Forest, IL 60045 USA

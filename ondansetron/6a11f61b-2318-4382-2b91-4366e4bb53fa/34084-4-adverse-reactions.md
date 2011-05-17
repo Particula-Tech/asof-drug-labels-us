@@ -7,9 +7,9 @@ Most were receiving a diuretic.
 Table 11.
 Principal Adverse Events in Comparative Trials in Adults
 
-|  | OndansetronInjection, USP0.15 mg/kg x 3n = 419 | OndansetronInjection, USP32 mg x 1n = 220 | Metoclopramiden = 156 | Placebon = 34 |
-| --- | --- | --- | --- | --- |
 | Number of Adult Patients With Event |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Ondansetron Injection, USP 0.15 mg/kg x 3 n = 419 | Ondansetron Injection, USP 32 mg x 1 n = 220 | Metoclopramide n = 156 | Placebo n = 34 |
 | Diarrhea | 16% | 8% | 44% | 18% |
 | Headache | 17% | 25% | 7% | 15% |
 | Fever | 8% | 7% | 5% | 3% |
@@ -43,7 +43,7 @@ These patients were receiving multiple concomitant perioperative and postoperati
 Table 12.
 Adverse Events in ≥ 2% of Adults Receiving Ondansetron at a Dosage of 4 mg I.V. over 2 to 5 Minutes in Clinical Trials
 
-|  | OndansetronInjection, USP 4 mg I.V.n = 547 patients | Placebon = 547 patients |
+|  | Ondansetron Injection, USP 4 mg I.V. n = 547 patients | Placebo n = 547 patients |
 | --- | --- | --- |
 | Headache | 92 (17%) | 77 (14%) |
 | Dizziness | 67 (12%) | 88 (16%) |
@@ -71,7 +71,7 @@ These patients were receiving multiple concomitant perioperative and postoperati
 Table 13.
 Frequency of Adverse Events From Controlled Studies in Pediatric Patients 2 to 12 Years of Age
 
-| Adverse Event | Ondansetronn = 755 Patients | Placebon = 731 Patients |
+| Adverse Event | Ondansetron n = 755 Patients | Placebo n = 731 Patients |
 | --- | --- | --- |
 | Wound problem | 80 (11%) | 86 (12%) |
 | Anxiety/agitation | 49 (6%) | 47 (6%) |

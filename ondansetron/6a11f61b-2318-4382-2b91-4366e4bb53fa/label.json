@@ -1,13 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077473",
+    "ANDA077548"
+  ],
   "inn": "ondansetron",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-4755-01",
     "0409-4755-02",
+    "0409-4755-03",
     "0409-4759-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ondansetron hydrochloride",
+      "name": "Ondansetron Hydrochloride"
+    }
+  ],
   "setid": "6a11f61b-2318-4382-2b91-4366e4bb53fa",
   "source": "dailymed"
 }

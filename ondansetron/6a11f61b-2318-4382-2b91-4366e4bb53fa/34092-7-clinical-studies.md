@@ -35,7 +35,7 @@ The results of this study are summarized in Table 4.
 Table 4.
 Prevention of Vomiting Induced by Cisplatin (≥100 mg/m2) Single-Day Therapy* in Adults
 
-|  | OndansetronInjection, USP | Metoclopramide | P Value |
+|  | Ondansetron Injection, USP | Metoclopramide | P Value |
 | --- | --- | --- | --- |
 | Dose | 0.15 mg/kg x 3 | 2 mg/kg x 6 |  |
 | Number of patients in efficacy population | 136 | 138 |  |
@@ -90,7 +90,7 @@ The results are summarized in Table 6.
 Table 6.
 Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-Day Cyclophosphamide Therapy* in Adults
 
-|  | OndansetronInjection, USP | Placebo | P Value† |
+|  | Ondansetron Injection, USP | Placebo | P Value† |
 | --- | --- | --- | --- |
 | Number of patients | 10 | 10 |  |
 | Treatment response |  |  |  |
@@ -126,7 +126,7 @@ The results of these studies are summarized in Table 7.
 Table 7.
 Prevention of Postoperative Nausea and Vomiting in Adult Patients
 
-|  | Ondansetron4 mg I.V. | Placebo | P Value |
+|  | Ondansetron 4 mg I.V. | Placebo | P Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Emetic episodes: |  |  |  |
@@ -134,16 +134,14 @@ Prevention of Postoperative Nausea and Vomiting in Adult Patients
 | Treatment response over 24-h postoperative period |  |  |  |
 | 0 Emetic episodes | 103 (76%) | 64 (46%) | <0.001 |
 | 1 Emetic episode | 13 (10%) | 17 (12%) |  |
-| More than 1 emetic |  |  |  |
-| episode/rescued | 20 (15%) | 58 (42%) |  |
+| More than 1 emetic episode/rescued | 20 (15%) | 58 (42%) |  |
 | Nausea assessments: |  |  |  |
 | Number of patients | 134 | 136 |  |
 | No nausea over 24-h postoperative period | 56 (42%) | 39 (29%) |  |
 | Study 2 |  |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 136 | 143 |  |
-| Treatment response over |  |  |  |
-| 24-h postoperative period |  |  |  |
+| Treatment response over24-h postoperative period |  |  |  |
 | 0 Emetic episodes | 85 (63%) | 63 (44%) | 0.002 |
 | 1 Emetic episode | 16 (12%) | 29 (20%) |  |
 | More than 1 emetic episode/rescued | 35 (26%) | 51 (36%) |  |
@@ -169,7 +167,7 @@ The results of these studies are summarized in Table 8.
 Table 8.
 Prevention of Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
-| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebon (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Number of patients | 205 | 210 |  |
@@ -197,19 +195,16 @@ Adult Studies: Adult surgical patients receiving general balanced anesthesia (ba
 Patients who experienced an episode of postoperative nausea and/or vomiting were given Ondansetron Injection, USP (4 mg) I.V. over 2 to 5 minutes, and this was significantly more effective than placebo.
 The results of these studies are summarized in Table 9.
 
-Table 9.
-Prevention of Further Postoperative Nausea and Vomiting in Adult Patients
-
-|  | Ondansetron4 mg I.V. | Placebo | P Value |
+| Table 9. Prevention of Further Postoperative Nausea and Vomiting in Adult Patients |  |  |  |
 | --- | --- | --- | --- |
+|  | Ondansetron 4 mg I.V. | Placebo | P Value |
 | Study 1 |  |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 104 | 117 |  |
 | Treatment response 24 h after study drug |  |  |  |
 | 0 Emetic episodes | 49 (47%) | 19 (16%) | <0.001 |
 | 1 Emetic episode | 12 (12%) | 9 (8%) |  |
-| More than 1 emetic |  |  |  |
-| episode/rescued | 43 (41%) | 89 (76%) |  |
+| More than 1 emetic episode/rescued | 43 (41%) | 89 (76%) |  |
 | Median time to first emetic episode (min)* | 55.0 | 43.0 |  |
 | Nausea assessments: |  |  |  |
 | Number of patients | 98 | 102 |  |
@@ -240,7 +235,7 @@ The results of the study are summarized in Table 10.
 Table 10.
 Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients 2 to 12 Years of Age
 
-| Treatment ResponseOver 24 Hours | Ondansetronn (%) | Placebon (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
 | --- | --- | --- | --- |
 | Number of patients | 180 | 171 |  |
 | 0 Emetic episodes | 96 (53%) | 29 (17%) | ≤0.001 |

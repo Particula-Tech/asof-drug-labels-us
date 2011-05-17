@@ -39,7 +39,7 @@ In normal adult volunteers, the following mean pharmacokinetic data have been de
 Table 1.
 Pharmacokinetics in Normal Adult Volunteers
 
-| Age group(years) | n | Peak PlasmaConcentration (ng/mL) | Mean EliminationHalf-life (h) | Plasma Clearance(L/h/kg) |
+| Age group (years) | n | Peak Plasma Concentration (ng/mL) | Mean Elimination Half-life (h) | Plasma Clearance (L/h/kg) |
 | --- | --- | --- | --- | --- |
 | 19-40 | 11 | 102 | 3.5 | 0.381 |
 | 61-74 | 12 | 106 | 4.7 | 0.319 |
@@ -74,9 +74,9 @@ Mean terminal half-life was slightly reduced in pediatric patients (range, 2.5 t
 Table 2.
 Pharmacokinetics in Pediatric Surgery Patients 1 Month to 12 Years of Age
 
-|  |  | Geometric Mean |  | Mean |
+| Subjects and Age Group | N | CL (L/h/kg) | Vdss (L/kg) | T1⁄2 (h) |
 | --- | --- | --- | --- | --- |
-| Subjects and Age Group | N | CL(L/h/kg) | Vdss(L/kg) | T1⁄2(h) |
+|  |  | Geometric | Mean | Mean |
 | Pediatric Surgery Patients 3 to 12 years of Age | N = 21 | 0.439 | 1.65 | 2.9 |
 | Pediatric Surgery Patients 5 to 24 months of Age | N = 22 | 0.581 | 2.3 | 2.9 |
 | Pediatric Surgery Patients 1 month to 4 months of Age | N = 19 | 0.401 | 3.5 | 6.7 |
