@@ -4,14 +4,14 @@ Prescribing Information
 
 # DESCRIPTION
 
-The active ingredient in Ipratropium Bromide Nasal Spray is ipratropium bromide monohydrate.
-It is an anticholinergic agent chemically described as 8-azoniabicyclo (3.2.1) octane,3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-, bromide, monohydrate (endo,syn)-, (±)-:a synthetic quaternary ammonium compound, chemically related to atropine.
-Its structural formula is:
+The active ingredient in Ipratropium Bromide Nasal Spray is ipratropium bromide (as the monohydrate).
+It is an anticholin- ergic agent chemically described as 8-azoniabicyclo (3.2.1) octane, 3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1- methylethyl)-, bromide monohydrate (3-endo, 8-syn)-: a synthetic quaternary ammonium compound, chemically related to atropine.
+The structural formula is:
 
-Ipratropium bromide is a white to off-white, crystalline substance.
-It is freely soluble in lower alcohols and water, existing in an ionized state in aqueous solutions, and relatively insoluble in non-polar media.
+Ipratropium bromide is a white to off-white crystalline substance, freely soluble in water and methanol, sparingly soluble in ethanol, and insoluble in non-polar media.
+In aqueous solution, it exists in an ionized state as a quaternary ammonium compound.
 
-Ipratropium Bromide Nasal Spray 0.03% is a metered-dose, manual pump spray unit which delivers 21 mcg (70mcL) ipratropium bromide per spray on an anhydrous basis in an isotonic, aqueous solution with pH adjusted to 4.7.
+Ipratropium Bromide Nasal Spray 0.03% is a metered-dose, manual pump spray unit which delivers 21 mcg (70 mcL) ipratropium bromide per spray on an anhydrous basis in an isotonic, aqueous solution with pH adjusted to 4.7.
 It also contains benzalkonium chloride, edetate disodium, sodium chloride, sodium hydroxide, hydrochloric acid, and purified water.
 Each bottle contains 345 sprays.
 
@@ -19,7 +19,7 @@ Each bottle contains 345 sprays.
 
 ## Mechanism of Action
 
-Ipratropium bromide is an anticholinergic agent that inhibits vagally-mediated reflexes by antagonizing the action of acetylcholine at the cholinergic receptor.
+Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung.
 In humans, ipratropium bromide has anti-secretory properties and, when applied locally, inhibits secretions from the serous and seromucous glands lining the nasal mucosa.
 Ipratropium bromide is a quaternary amine that minimally crosses the nasal and gastrointestinal membrane and the blood-brain barrier, resulting in a reduction of the systemic anticholinergic effects (e.g., neurologic, ophthalmic, cardiovascular, and gastrointestinal effects) that are seen with tertiary anticholinergic amines.
 
@@ -95,33 +95,42 @@ Ipratropium Bromide Nasal Spray 0.03% is contraindicated in patients with a hist
 
 # WARNINGS
 
-Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, and oropharyngeal edema.
+Immediate hypersensitivity reactions may occur after administration of ipratropium bromide, as demonstrated by urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
+If such a reaction occurs, therapy with Ipratropium Bromide Nasal Spray 0.03% should be stopped at once and alternative treatment should be considered.
 
 # PRECAUTIONS
 
 ## General
 
-Ipratropium Bromide Nasal Spray 0.03% should be used with caution in patients with narrow-angle glaucoma, prostatic hypertrophy, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
-Cases of precipitation or worsening of narrow-angle glaucoma and acute eye pain have been reported with direct eye contact of ipratropium bromide administered by oral inhalation.
+1.
+Effects Seen with Anticholinergic Drugs: Ipratropium Bromide Nasal Spray 0.03% should be used with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder neck obstruction, particularly if they are receiving an anticholinergic by another route.
+
+2.
+Use in Hepatic or Renal Disease: Ipratropium Bromide Nasal Spray 0.03% has not been studied in patients with hepatic or renal insufficiency.
+It should be used with caution in those patient populations.
 
 ## Information for Patients
 
-Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma, or eye pain may result if Ipratropium Bromide Nasal Spray 0.03% comes into direct contact with the eyes.
+Patients should be advised that temporary blurring of vision, precipitation or worsening of narrow-angle glaucoma, mydriasis, increased intraocular pressure, acute eye pain or discomfort, visual halos or colored images in association with red eyes from conjunctival and corneal congestion may result if Ipratropium Bromide Nasal Spray 0.03% comes into direct contact with eyes.
 Patients should be instructed to avoid spraying Ipratropium Bromide Nasal Spray 0.03% in or around their eyes.
 Patients who experience eye pain, blurred vision, excessive nasal dryness, or episodes of nasal bleeding should be instructed to contact their doctor.
-Patients should be reminded to carefully read and follow the accompanying Patient’s Instructions for Use.
+To ensure proper dosing, patients should be advised not to alter the size of the nasal spray opening.
+Patients should be reminded to carefully read and follow the accompanying “Patient’s Instructions for Use”.
+
+Since dizziness, accommodation disorder, mydriasis, and blurred vision may occur with use of Ipratropium Bromide Nasal Spray 0.03%, patients should be cautioned about engaging in activities requiring balance and visual acuity such as driving a car or operating appliances, machinery, etc.
 
 ## Drug Interactions
 
-No controlled clinical trials were conducted to investigate drug-drug interactions.
-Ipratropium Bromide Nasal Spray 0.03% is minimally absorbed into the systemic circulation; nonetheless, there is some potential for an additive interaction with other concomitantly administered anticholinergic medications, including Ipratropium Bromide for oral inhalation.
+No controlled clinical trials were conducted to investigate potential drug-drug interactions.
+There is potential for an additive interaction with other concomitantly administered medications with anticholinergic properties, including Ipratropium Bromide Nasal Spray 0.03% for oral inhalation.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In two-year carcinogenicity studies in rats and mice, ipratropium bromide at oral doses up to 6 mg/kg (approximately 190 and 95 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 110 and 60 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis) showed no carcinogenic activity.
+Two-year oral carcinogenicity studies in rats and mice have revealed no carcinogenic activity at doses up to 6 mg/kg.
+This dose corresponds in rats and mice to approximately 190 and 95 times the maximum recommended daily intranasal dose in adults, respectively, and approximately 110 and 55 times the maximum recommended daily intranasal dose in children, respectively, on a mg/m2 basis.
 Results of various mutagenicity studies (Ames test, mouse dominant lethal test, mouse micronucleus test, and chromosome aberration of bone marrow in Chinese hamsters) were negative.
 
-Fertility of male or female rats was unaffected by ipratropium bromide at oral doses up to 50 mg/kg (approximately 1,600 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
+Fertility of male or female rats at oral doses up to 50 mg/kg (approximately 1,600 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis) was unaffected by ipratropium bromide administration.
 At an oral dose of 500 mg/kg (approximately 16,000 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis), ipratropium bromide produced a decrease in the conception rate.
 
 ## Pregnancy
@@ -130,24 +139,28 @@ At an oral dose of 500 mg/kg (approximately 16,000 times the maximum recommended
 
 #### Pregnancy Category B
 
-Oral reproduction studies were performed at doses of 10 mg/kg in mice, 1000 mg/kg in rats and 125 mg/kg in rabbits.
-These doses correspond, in each species respectively, to approximately 160, 32,000, and 8,000 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis.
-Inhalation reproduction studies were conducted in rats and rabbits at doses of 1.5 and 1.8 mg/kg, respectively, (approximately 50 and 120 times, respectively, the maximum recommended daily intranasal dose in adults on a mg/m2 basis).
-These studies demonstrated no evidence of teratogenic effects as a result of ipratropium bromide.
-At oral doses above 90 mg/kg in rats (approximately 2,900 times the maximum recommended daily intranasal dose in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
-This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
-However, no adequate or well controlled studies have been conducted in pregnant women.
+There are no adequate and well-controlled studies for Ipratropium Bromide Nasal Spray 0.03% in pregnant women.
 Because animal reproduction studies are not always predictive of human response, Ipratropium Bromide Nasal Spray 0.03% should be used during pregnancy only if clearly needed.
+
+Oral reproduction studies were performed at ipratropium doses of 10 mg/kg in mice, 1,000 mg/kg in rats and 125 mg/kg in rabbits.
+These doses correspond, in each species respectively, to approximately 160, 32,000, and 8,000 times the maximum recommended daily intranasal dose (MRDID) in adults on a mg/m2 basis.
+Inhalation reproduction studies were conducted in rats and rabbits at doses of 1.5 and 1.8 mg/kg, respectively, (approximately 50 and 120 times, respectively, the MRDID in adults on a mg/m2 basis).
+These studies demonstrated no evidence of teratogenic effects as a result of ipratropium bromide.
+At oral doses 90 mg/kg and above in rats (approximately 2,900 times the MRDID in adults on a mg/m2 basis) embryotoxicity was observed as increased resorption.
+This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
+
+## Labor and Delivery
+
+The effect of ipratropium bromide on labor and delivery is unknown.
 
 ## Nursing Mothers
 
 It is known that some ipratropium bromide is systemically absorbed following nasal administration; however the portion which may be excreted in human milk is unknown.
-Although lipid-insoluble quaternary bases pass into breast milk, the minimal systemic absorption makes it unlikely that ipratropium bromide would reach the infant in an amount sufficient to cause a clinical effect.
-However, because many drugs are excreted in human milk, caution should be exercised when Ipratropium Bromide Nasal Spray 0.03% is administered to a nursing woman.
+Because lipid-insoluble quaternary cations pass into breast milk, caution should be exercised when Ipratropium Bromide Nasal Spray 0.03% is administered to a nursing mother.
 
 ## Pediatric Use
 
-The safety of Ipratropium Bromide Nasal Spray 0.03% at a dose of two sprays (42 mcg) per nostril two or three times daily (total dose 168 to 252 mcg/day) has been demonstrated in 77 pediatric patients 6-12 years of age in placebo-controlled, 4-week trials and in 55 pediatric patients in active-controlled, 6 month trials.
+The safety of Ipratropium Bromide Nasal Spray 0.03% at a dose of two sprays (42 mcg) per nostril two or three times daily (total dose 168 to 252 mcg/day) has been demonstrated in 77 pediatric patients 6 to 12 years of age in placebo-controlled, 4-week trials and in 55 pediatric patients in active-controlled, 6 month trials.
 The effectiveness of Ipratropium Bromide Nasal Spray 0.03% for the treatment of rhinorrhea associated with allergic and nonallergic perennial rhinitis in this pediatric age group is based on an extrapolation of the demonstrated efficacy of Ipratropium Bromide Nasal Spray 0.03% in adults with these conditions and the likelihood that the disease course, pathophysiology, and the drug’s effects are substantially similar to that of the adults.
 The recommended dose for the pediatric population is based on within and cross-study comparisons of the efficacy of Ipratropium Bromide Nasal Spray 0.03% in adults and pediatric patients and on its safety profile in both adults and pediatric patients.
 The safety and effectiveness of Ipratropium Bromide Nasal Spray 0.03% in patients under 6 years of age have not been established.
@@ -160,10 +173,10 @@ In the other trial, Ipratropium Bromide Nasal Spray 0.03% was given to patients 
 Of the 285 patients who entered the open-label, follow-up trial, 232 were treated for 3 months, 200 for 6 months, and 159 up to one year.
 The majority (>86%) of patients treated for one year were maintained on 42 mcg per nostril, two or three times daily, of Ipratropium Bromide Nasal Spray 0.03%.
 
-The following table shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received Ipratropium Bromide Nasal Spray 0.03% at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
+Table 1 shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received Ipratropium Bromide Nasal Spray 0.03% at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
 Only adverse events reported with an incidence of at least 2.0% in the Ipratropium Bromide group and higher in the Ipratropium Bromide group than in the vehicle group are shown.
 
-% of Patients Reporting EventsThis table includes adverse events which occurred at an incidence rate of at least 2.0% in the Ipratropium Bromide group and more frequently in the Ipratropium Bromide group than in the vehicle group.
+Table 1: % of Patients Reporting EventsThis table includes adverse events which occurred at an incidence rate of at least 2.0% in the Ipratropium Bromide group and more frequently in the Ipratropium Bromide group than in the vehicle group.
 
 |  | Incidence% | Discontinued% | Incidence% | Discontinued% |
 | --- | --- | --- | --- | --- |
@@ -187,10 +200,15 @@ There was no evidence of nasal rebound (i.e., a clinically significant increase 
 
 Adverse events reported by less than 2% of the patients receiving Ipratropium Bromide Nasal Spray 0.03% during the controlled clinical trials or during the open-label follow-up trial, which are potentially related to Ipratropium Bromide’s local effects or systemic anticholinergic effects include: dry mouth/throat, dizziness, ocular irritation, blurred vision, conjunctivitis, hoarseness, cough, and taste perversion.
 
-Additional anticholinergic effects noted with other Ipratropium Bromide dosage forms (Ipratropium Bromide Inhalation Solution, Ipratropium Bromide Inhalation Aerosol, and Ipratropium Bromide Nasal Spray 0.06%) include: precipitation or worsening of narrow angle glaucoma, urinary retention, prostatic disorders, tachycardia, constipation, and bowel obstruction.
-
 There were infrequent reports of skin rash in both the controlled and uncontrolled clinical studies.
-Allergic-type reactions such as skin rash, angioedema of the throat, tongue, lips and face, generalized urticaria, laryngospasm, and anaphylactic reactions have been reported with Ipratropium Bromide Nasal Spray 0.03% and other ipratropium bromide products.
+
+## Post-Marketing Experience
+
+Allergic type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with Ipratropium Bromide Nasal Spray 0.03% and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
+
+Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, wheezing, dryness of the oropharynx, sinusitis, tachycardia, palpitations, pain, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
+
+After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma supraventricular tachycardia and atrial fibrillation have been reported.
 
 # OVERDOSAGE
 
@@ -199,46 +217,53 @@ Following administration of a 20 mg oral dose (equivalent to ingesting more than
 Following a 2 mg intravenous infusion over 15 minutes to the same 10 male volunteers, plasma ipratropium concentrations of 22 to 45 ng/mL were observed (>100 times the concentrations observed following intranasal administration).
 Following intravenous infusion these 10 volunteers had a mean increase of heart rate of 50 bpm and less than 20 mmHg change in systolic or diastolic blood pressure at the time of peak ipratropium levels.
 
-Oral median lethal doses of ipratropium bromide were greater than 1,000 mg/kg in mice (approximately 16,000 and 9,500 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis), 1,700 mg/kg in rats (approximately 55,000 and 32,000 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis), and 400 mg/kg in dogs (approximately 43,000 and 25,000 times the maximum recommended daily intranasal dose in adults and children, respectively, on a mg/m2 basis).
-
 # DOSAGE AND ADMINISTRATION
 
 The recommended dose of Ipratropium Bromide Nasal Spray 0.03% is two sprays (42 mcg) per nostril two or three times daily (total dose 168 to 252 mcg/day) for the symptomatic relief of rhinorrhea associated with allergic and nonallergic perennial rhinitis in adults and children age 6 years and older.
 Optimum dosage varies with the response of the individual patient.
+
 Initial pump priming requires seven sprays of the pump.
 If used regularly as recommended, no further priming is required.
 If not used for more than 24 hours, the pump will require two sprays, or if not used for more than seven days, the pump will require seven sprays to reprime.
+Avoid spraying into eyes.
 
 # HOW SUPPLIED
 
 Ipratropium Bromide Nasal Spray 0.03% is supplied in a white high density polyethylene (HDPE) bottle fitted with a white and clear metered nasal spray pump, a green safety clip to prevent accidental discharge of the spray, and a clear plastic dust cap.
-It contains 31.1g of product formulation, 345 sprays, each delivering 21 mcg (70mcL) of ipratropium per spray, or 28 days of therapy at the maximum recommended dose (two sprays per nostril three times a day).
+It contains 31.1 g of product formulation, 345 sprays, each delivering 21 mcg (70 mcL) of ipratropium per spray, or 28 days of therapy at the maximum recommended dose (two sprays per nostril three times a day).
 
-IPRATROPIUM BROMIDE Nasal Solution 0.03% NASAL SPRAY 21 mcg/spray
+IPRATROPIUM BROMIDE Nasal Solution 0.03%
+
+NASAL SPRAY 21 mcg/spray
 
 NDC 0054-0045-44: Bottle of 30 mL (345 metered sprays)
 
 ## Storage
 
-Store at 20º to 25ºC (68º to 77ºF).
+Store tightly closed at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-Patients should be reminded to read and follow the accompanying Patient’s Instructions for Use, which should be dispensed with the product.
+Address medical inquiries to Roxane Laboratories, Inc. at 800-962-8364.
 
-10001011/04
+Patients should be reminded to read and follow the accompanying “Patient’s Instructions for Use”, which should be dispensed with the product.
 
-Revised October 2009
+10001011/05
 
-© RLI, 2009
+Revised March 2011
+
+© RLI, 2011
 
 # IPRATROPIUM BROMIDE Nasal Solution 0.03% NASAL SPRAY 21 mcg/spray
 
+Read complete instructions carefully before using.
+
+In order to ensure proper dosing, do not attempt to change the size of the spray opening.
+
 Ipratropium Bromide Nasal Spray 0.03% is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with allergic and nonallergic perennial rhinitis in adults and children age 6 years and older.
 Ipratropium Bromide Nasal Spray 0.03% does not relieve nasal congestion, sneezing, or postnasal drip associated with allergic or nonallergic perennial rhinitis.
-Read complete instructions carefully and use only as directed.
 
 Read complete instructions carefully and use only as directed.
 
@@ -298,25 +323,26 @@ Some patients may require up to two weeks of treatment to obtain maximum benefit
 
 Do not spray Ipratropium Bromide Nasal Spray 0.03% in your eyes.
 Should this occur, immediately flush your eye with cool tap water for several minutes.
-If you accidentally spray Ipratropium Bromide Nasal Spray 0.03% in your eyes, you may experience a temporary blurring of vision and increased sensitivity to light, which may last a few hours.
-Should eye pain or blurred vision occur, contact your doctor.
+If you accidentally spray Ipratropium Bromide Nasal Spray 0.03% in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light, which may last a few hours.
+Should acute eye pain or blurred vision occur, contact your doctor.
 
 Should you experience excessive nasal dryness or episodes of nasal bleeding contact your doctor.
 
-You should not use this drug if you have glaucoma or difficult urination due to an enlargement of the prostate, unless directed by a physician.
-Ipratropium Bromide Nasal Spray 0.03% should not be used during pregnancy or breast feeding unless directed by a physician.
-It is not known whether ipratropium bromide is excreted in human milk; however, many drugs are excreted in human milk.
+If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using Ipratropium Bromide Nasal Spray 0.03%.
+
+If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using Ipratropium Bromide Nasal Spray 0.03%.
 
 ## Storage
 
-Store at 20º to 25ºC (68º to 77ºF).
+Store tightly closed at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
-Do not spray in the eyes.
 
-10001011/04
+Address medical inquiries to Roxane Laboratories, Inc. at 800-962-8364.
 
-Revised October 2009
+10001011/05
 
-© RLI, 2009
+Revised March 2011
+
+© RLI, 2011
