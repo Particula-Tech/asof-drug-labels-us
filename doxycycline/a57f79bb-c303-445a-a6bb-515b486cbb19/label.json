@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050783"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Galderma Laboratories, L.P.",
+  "package_ndcs": [
+    "0299-5960-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxycycline hyclate",
+      "name": "PERIOSTAT"
+    }
+  ],
+  "setid": "a57f79bb-c303-445a-a6bb-515b486cbb19",
+  "source": "dailymed"
+}
