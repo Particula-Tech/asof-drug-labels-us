@@ -68,7 +68,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Also includes asthenia. |  |  |
 | c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes middle insomnia, terminal insomnia, and initial insomnia. |  |  |
+| d Also includes middle insomnia, early morning awakening, and initial insomnia. |  |  |
 | e Also includes hypersomnia and sedation. |  |  |
 | f Also includes anorexia. |  |  |
 | g Also includes abdominal discomfort,abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
@@ -186,11 +186,11 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP, 
 | f Also includes anorexia |  |  |
 | g Also includes myalgia and neck pain |  |  |
 | h Also includes hypersomnia and sedation |  |  |
-| i Also includes hypoaesthesia, hypoaesthesia facial genital hypoaesthesia and paraethesia oral |  |  |
+| i Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
 | j Also includes middle insomnia, early morning awakening, and initial insomnia |  |  |
 | k Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| l Male patients only (N=885 for duloxetine, 494 for placebo) |  |  |
-| m Male patients only (N=885 for duloxetine, 494 for placebo). Also includes ejaculation failure |  |  |
+| l Male patients only |  |  |
+| m Male patients only. Also includes ejaculation failure |  |  |
 | n Also includes hot flush |  |  |
 
 ## 6.6 Effects on Male and Female Sexual Function
@@ -221,7 +221,7 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 
 ## 6.7 Vital Sign Changes
 
-In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.17 mm Hg in systolic blood pressure and 0.70 mm Hg in diastolic blood pressure compared to mean decreases of 1.16 mm Hg systolic and 0.70 mm Hg diastolic in placebo-treated patients.
+In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.17 mm Hg in systolic blood pressure and 0.70 mm Hg in diastolic blood pressure compared to mean decreases of 1.16 mm Hg systolic and 0.59 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.9)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.36 beats per minute.
