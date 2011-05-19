@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Ipratropium bromide is an anticholinergic agent that inhibits vagally-mediated reflexes by antagonizing the action of acetylcholine at the cholinergic receptor.
+Ipratropium bromide is an anticholinergic (para-sympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung.
 In humans, ipratropium bromide has anti-secretory properties and, when applied locally, inhibits secretions from the serous and seromucous glands lining the nasal mucosa.
 Ipratropium bromide is a quaternary amine that minimally crosses the nasal and gastrointestinal membranes and the blood-brain barrier, resulting in a reduction of the systemic anticholinergic effects (e.g., neurologic, ophthalmic, cardiovascular, and gastrointestinal effects) that are seen with tertiary anticholinergic amines.
 
@@ -32,9 +32,9 @@ The amount of the total dose excreted unchanged in the urine (Ae) within 24 hour
 
 ### Pediatrics
 
-Following administration of 84 mcg of ipratropium bromide per nostril three times a day in patients 5-18 years old (n=42) with a naturally acquired common cold, the mean amount of the total dose excreted unchanged in the urine of 7.8% was comparable to 84 mcg per nostril four times a day in an adult induced common cold population (n=22) of 7.3 to 8.1%.
+Following administration of 84 mcg of ipratropium bromide per nostril three times a day in patients 5 to 18 years old (n=42) with a naturally acquired common cold, the mean amount of the total dose excreted unchanged in the urine of 7.8% was comparable to 84 mcg per nostril four times a day in an adult induced common cold population (n=22) of 7.3 to 8.1%.
 Plasma ipratropium concentrations were relatively low (ranging from undetectable up to 0.62 ng/mL).
-No correlation of the amount of the total dose excreted unchanged in the urine (Ae) with age or gender was observed in the pediatric population.
+No correlation of the amount of the total dose excreted unchanged in the urine (Ae) with age or gen- der was observed in the pediatric population.
 
 ### Special Populations
 

@@ -11,7 +11,7 @@ Table 1 shows adverse events reported for patients who received Ipratropium Brom
 |  | Ipratropium Bromide Nasal Spray 0.06% | Vehicle Control |
 | --- | --- | --- |
 | No. of Patients | 352 | 351 |
-| EpistaxisEpistaxis reported by 5.4% of Ipratropium Bromide patients and 1.4% of vehicle patients, blood tinged nasal mucus by 2.8% ofIpratropium Bromide patients and 0.9% of vehicle patients. | 8.2% | 2.3% |
+| EpistaxisEpistaxis reported by 5.4% of Ipratropium Bromide patients and 1.4% of vehicle patients, blood tinged nasal mucus by 2.8% of Ipratropium Bromide patients and 0.9% of vehicle patients. | 8.2% | 2.3% |
 | Nasal Dryness | 4.8% | 2.8% |
 | Dry Mouth/Throat | 1.4% | 0.3% |
 | Nasal Congestion | 1.1% | 0.0% |
@@ -47,7 +47,12 @@ In common cold trials, URI was the disease under study and not an adverse event.
 | Pain | 1.8% | 0.9% |
 | Diarrhea | 1.8% | 0.5% |
 
-Additional anticholinergic effects noted with other Ipratropium Bromide dosage forms (Ipratropium Bromide Inhalation Solution, Ipratropium Bromide Inhalation Aerosol and Ipratropium Bromide Nasal Spray 0.03%) include: precipitation or worsening of narrow-angle glaucoma, urinary retention, prostate disorders, constipation, and bowel obstruction.
+There were no reports of allergic-type reactions in the controlled clinical common cold and SAR trials.
 
-There were no reports of allergic-type reactions in the controlled clinical trials.
-Allergic-type reactions such as skin rash, angioedema of the throat, tongue, lips and face, generalized urticaria, laryngospasm, and anaphylactic reaction have been reported with Ipratropium Bromide Nasal Spray 0.06% and other ipratropium bromide products.
+## Post-Marketing Experience
+
+Allergic type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with Ipratropium Bromide Nasal Spray 0.06% and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
+
+Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
+
+After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma supraventricular tachycardia and atrial fibrillation have been reported.

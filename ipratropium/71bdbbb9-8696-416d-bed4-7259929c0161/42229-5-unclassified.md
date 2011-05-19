@@ -1,8 +1,12 @@
-# Rx only
+ATTENTION PHARMACISTS: Detach “Patient’s Instructions for Use” from package insert and dispense with product.
 
 Prescribing Information
 
 # IPRATROPIUM BROMIDE Nasal Solution 0.06% NASAL SPRAY 21 mcg/spray
+
+Read complete instructions carefully before using.
+
+In order to ensure proper dosing, do not attempt to change the size of the spray open- ing.
 
 Ipratropium Bromide Nasal Spray 0.06% is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with the common cold or seasonal allergic rhinitis for adults and children age 5 years and older.
 Ipratropium Bromide Nasal Spray 0.06% does not relieve nasal congestion or sneezing, associated with the common cold or seasonal allergic rhinitis.
@@ -50,13 +54,13 @@ Replace the clear plastic dust cap and safety clip.
 10.
 You should not take extra doses or stop using Ipratropium Bromide Nasal Spray 0.06% without consulting your physician.
 
-## To Clean:
+To Clean:
 
 If the nasal tip becomes clogged, remove the clear plastic dust cap and safety clip.
 Hold the nasal tip under running, warm tap water (Figure 4) for about a minute.
 Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the plastic dust cap and safety clip.
 
-## Caution:
+Caution:
 
 Ipratropium Bromide Nasal Spray 0.06% is intended to relieve your rhinorrhea (runny nose) with regular use.
 It is therefore important that you use Ipratropium Bromide Nasal Spray 0.06% as prescribed by your physician.
@@ -76,14 +80,15 @@ If you are pregnant or breast feeding your baby, be sure to tell your physician 
 
 ## Storage
 
-Store at 20º to 25ºC (68º to 77ºF).
+Store tightly closed at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
-Do not spray in the eyes.
 
-10001010/04
+Address medical inquiries to Roxane Laboratories, Inc. at 800-962-8364.
 
-Revised October 2009
+10001010/05
 
-© RLI, 2009
+Revised March 2011
+
+© RLI, 2011

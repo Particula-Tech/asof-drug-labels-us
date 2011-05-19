@@ -17,3 +17,4 @@ The safety and effectiveness of the use of Ipratropium Bromide Nasal Spray 0.06%
 Initial pump priming requires seven sprays of the pump.
 If used regularly as recommended, no further priming is required.
 If not used for more than 24 hours, the pump will require two sprays, or if not used for more than seven days, the pump will require seven sprays to reprime.
+Avoid spraying into eyes.
