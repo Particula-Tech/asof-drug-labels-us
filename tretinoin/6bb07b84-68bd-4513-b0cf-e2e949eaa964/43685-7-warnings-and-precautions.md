@@ -31,10 +31,9 @@ It also is advisable to "rest" a patient's skin until the effects of such prepar
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
-In a life-time dermal study in CD-1 mice with another tretinoin gel, at 100 and 200 times the average recommended human topical clinical dose, a few skin tumors in the female mice and liver tumors in male mice were observed.
-The biological significance of these findings is not clear because they occurred at doses that exceeded the dermal maximally tolerated dose (MTD) of tretinoin and because they were within the background natural occurrence rate for these tumors in this strain of mice.
-There was no evidence of carcinogenic potential when tretinoin was administered topically at a dose 5 times the average recommended human topical clinical dose.
-For purposes of comparisons of the animal exposure to human exposure, the "recommended human topical clinical dose" is defined as 1.0 g of 0.025% AVITA® Gel applied daily to a 50 kg person.
+In a dermal mouse carcinogenicity study with AVITA® Gel, tretinoin was administered to CD-1 mice at topical doses of 0.027 mg/kg (0.003% gel), 0.072 mg/kg (0.008% gel), and 0.225 mg/kg (0.025% gel) for 2 years (5 doses/week).
+No drug-related tumors were noted in this mouse carcinogenicity study up to the highest dose evaluated in this study of 0.225 mg/kg in both male and female mice, which was 2.6 times the recommended human topical clinical dose (based on weekly dose BSA comparison).
+For purposes of comparisons of the animal exposure to human exposure, the “recommended human topical clinical dose” is defined as 1.0 g of 0.025% AVITA® Gel applied daily to a 50 kg person.
 In a chronic, two-year bioassay of vitamin A acid in mice performed by Tsubura and Yamamoto, generalized amyloid deposition was reported in all vitamin A treated groups in the basal layer of the skin.
 In CD-1 mice, a similar study reported hyalinization at the treated skin sites and the incidence of this finding was 0/50, 3/50, 3/50, and 2/50 in male mice and 1/50, 0/50, 4/50, and 2/50 in female mice from the vehicle control, 0.25 mg/kg, 0.5 mg/kg, and 1 mg/kg groups, respectively.
 

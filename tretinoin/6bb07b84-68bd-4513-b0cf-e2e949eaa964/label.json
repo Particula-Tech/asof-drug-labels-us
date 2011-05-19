@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020400"
+  ],
   "inn": "tretinoin",
-  "labeler": "Mylan Bertek Pharmaceuticals Inc.",
+  "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-6140-44",
     "0378-6140-45"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Avita"
+    }
+  ],
   "setid": "6bb07b84-68bd-4513-b0cf-e2e949eaa964",
   "source": "dailymed"
 }

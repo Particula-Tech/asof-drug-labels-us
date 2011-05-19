@@ -115,10 +115,9 @@ Don't stop treatment at the first signs of improvement.
 
 Once your acne is under control, you should continue regular application of AVITA® Gel until your physician instructs otherwise.
 
-Manufactured by: Mylan Bertek Pharmaceuticals Inc. Sugar Land, TX 77478
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED APRIL 2006 022.2PL
-
-Printed in U.S.A
+REVISED SEPTEMBER 2010 Printed in U.S.A 022.4PL Patent #’s: 5,700,483 and 5,650,171
