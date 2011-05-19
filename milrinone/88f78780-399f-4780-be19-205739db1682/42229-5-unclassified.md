@@ -2,7 +2,7 @@ Milrinone Lactate Injection
 
 Rx only
 
-Issued 01/2011
+Revised 04/2011
 
 # PRINCIPAL DISPLAY PANEL
 

@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Milrinone Lactate Injection is contraindicated in patients who are hypersensitive to it.
+Milrinone lactate injection is contraindicated in patients who are hypersensitive to it.

@@ -1,10 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Milrinone Lactate Injection should be administered with a loading dose followed by a continuous infusion (maintenance dose) according to the following guidelines:
+Milrinone Lactate in 5% Dextrose Injection should not be used for administering a loading dose.
+The information regarding loading dose for milrinone is for 1 mg/mL vial only.
+A loading dose of milrinone lactate injection (1 mg [base]/mL) should be administered followed by a continuous infusion (maintenance dose) according to the following guidelines:
 
 | LOADING DOSE — 50 mcg/kg: Administer slowly over 10 minutes |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| The table below shows the loading dose in milliliters (mL) of Milrinone Lactate Injection (1 mg/mL) by patient body weight (kg). |  |  |  |  |  |  |  |  |  |  |
+| The table below shows the loading dose in milliliters (mL) of milrinone (1 mg/mL) by patient body weight (kg). |  |  |  |  |  |  |  |  |  |  |
 | Loading Dose (mL) Using 1 mg/mL Concentration |  |  |  |  |  |  |  |  |  |  |
 | Patient Body Weight kg) |  |  |  |  |  |  |  |  |  |  |
 | kg | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 | 110 | 120 |
@@ -19,7 +21,7 @@ The loading dose may be given undiluted, but diluting to a rounded total volume 
 | Standard | 0.50 mcg/kg/min | 0.77 mg/kg |  |
 | Maximum | 0.75 mcg/kg/min | 1.13 mg/kg |  |
 
-Milrinone Lactate Injection drawn from vials should be diluted prior to maintenance dose administration.
+Milrinone drawn from vials should be diluted prior to maintenance dose administration.
 The diluents that may be used are 0.45% Sodium Chloride Injection, USP; 0.9% Sodium Chloride Injection, USP; or 5% Dextrose Injection, USP.
 The table below shows the volume of diluent in milliliters (mL) that must be used to achieve 200 mcg/mL concentration for infusion, and the resultant total volumes.
 
@@ -38,6 +40,8 @@ Duration of therapy should depend upon patient responsiveness.
 
 The maintenance dose in mL/hr by patient body weight (kg) may be determined by reference to the following table.
 
+Note: Milrinone Lactate in 5% Dextrose Injection supplied in 100 mL and 200 mL Flexible Containers (200 mcg/mL in 5% Dextrose Injection) need not be diluted prior to use.
+
 | Milrinone Infusion Rate(mL/hr) Using 200 mcg/mL Concentration |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Maintenance Dose (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
@@ -50,6 +54,33 @@ The maintenance dose in mL/hr by patient body weight (kg) may be determined by r
 | 0.750 | 6.8 | 9.0 | 11.3 | 13.5 | 15.8 | 18.0 | 20.3 | 22.5 | 24.8 | 27.0 |
 
 When administering milrinone lactate by continuous infusion, it is advisable to use a calibrated electronic infusion device.
+
+The Flexible Container has a concentration of milrinone equivalent to 200 mcg/mL in 5% Dextrose Injection and is more convenient to use than dilutions prepared from the vials.
+To use the Flexible Container, tear the overwrap at the notch and remove the Pre-Mix solution container.
+Squeeze the container firmly to check for leaks.
+Discard the container if leaks are found since the sterility of the product could be affected.
+Do not add supplementary medication.
+
+To prepare the container for administration of milrinone intravenously, use aseptic techniques.
+1.
+The flow control clamp of the administration set is closed.
+2.
+The cover of the outlet port at the bottom of the container is removed.
+3.
+Noting the full directions on the administration set carton, the piercing pin of the set is inserted into the port with a twisting motion until it is firmly sealed.
+4.
+The container is suspended on the hanger.
+5.
+The drop chamber is squeezed and released to establish the fill level.
+6.
+The flow control clamp is opened to expel air from the set and then closed.
+7.
+The set is attached to the venipuncture device, primed, and if not indwelling, the venipuncture is performed.
+8.
+The rate of administration is controlled with the flow control clamp.
+WARNING - DO NOT USE IN SERIES CONNECTIONS.
+Caution: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
 Intravenous drug products should be inspected visually and should not be used if particulate matter or discoloration is present.
 
