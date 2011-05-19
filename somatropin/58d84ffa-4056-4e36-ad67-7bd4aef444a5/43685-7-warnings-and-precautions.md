@@ -2,7 +2,7 @@
 
 ## 5.1 Acute Critical Illness
 
-Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see CONTRAINDICATIONS (4.1)].
+Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4.1)].
 The safety of continuing somatropin treatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
 Therefore, the potential benefit of treatment continuation with somatropin in patients experiencing acute critical illnesses should be weighed against the potential risk.
 
@@ -12,7 +12,7 @@ There have been reports of fatalities after initiating therapy with somatropin i
 Male patients with one or more of these factors may be at greater risk than females.
 Patients with Prader-Willi Syndrome should be evaluated for signs of upper airway obstruction (including onset of or increased snoring) and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with somatropin, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
-All patients with Prader-Willi Syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see CONTRAINDICATIONS (4.2)].
+All patients with Prader-Willi Syndrome treated with somatropin should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4.2)].
 
 ## 5.3 Neoplasms
 
@@ -20,18 +20,18 @@ Patients with preexisting tumors or GHD secondary to an intracranial lesion shou
 In pediatric patients, clinical literature has revealed no relationship between somatropin replacement therapy and central nervous system (CNS) tumor recurrence or new extracranial tumors.
 However, in childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm.
 Intracranial tumors, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
-In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see CONTRAINDICATIONS (4.3)].
+In adults, it is unknown whether there is any relationship between somatropin replacement therapy and CNS tumor recurrence [see Contraindications (4.3)].
 
 Patients should be monitored carefully for potential malignant transformation of skin lesions, i.e. increased growth of preexisting nevi.
 
-## 5.4 Glucose Intolerance
+## 5.4 Glucose Intolerance and Diabetes Mellitus
 
 Treatment with somatropin may decrease insulin sensitivity, particularly at higher doses in susceptible patients.
-As a result, previously undiagnosed impaired glucose tolerance and overt diabetes mellitus may be unmasked during somatropin treatment.
+As a result, previously undiagnosed impaired glucose tolerance and overt diabetes mellitus may be unmasked, and new onset type 2 diabetes mellitus has been reported in patients taking somatropin.
 Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity, Turner Syndrome, or a family history of diabetes mellitus.
 Patients with preexisting type 1 or type 2 diabetes mellitus or impaired glucose tolerance should be monitored closely during somatropin therapy.
 The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients.
-[See DRUG INTERACTIONS (7.5)]
+[See Drug Interactions (7.5)]
 
 ## 5.5 Intracranial Hypertension (IH)
 
@@ -75,12 +75,12 @@ Physicians should be alert to these abnormalities, which may manifest during som
 
 ## 5.11 Confirmation of Childhood Onset Adult GHD
 
-Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in INDICATIONS AND USAGE (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
+Patients with epiphyseal closure who were treated with somatropin replacement therapy in childhood should be reevaluated according to the criteria in Indications and Usage (1.2) before continuation of somatropin therapy at the reduced dose level recommended for GH deficient adults.
 
 ## 5.12 Local and Systemic Reactions
 
 When somatropin is administered subcutaneously at the same site over a long period of time, tissue atrophy may result.
-This can be avoided by rotating the injection site [see DOSAGE AND ADMINISTRATION (2.3)].
+This can be avoided by rotating the injection site [see Dosage and Administration (2.3)].
 
 As with any protein, local or systemic allergic reactions may occur.
 Parents/Patients should be informed that such reactions are possible and that prompt medical attention should be sought if allergic reactions occur.
@@ -93,4 +93,11 @@ Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone 
 
 Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
 Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.
-Pancreatitis should be considered in any somatropin treated patient, especially a child, who develops abdominal pain.
+Pancreatitis should be considered in any somatropin treated patient, especially a child, who develops persistent severe abdominal pain.
+
+## 5.15 Benzyl Alcohol
+
+Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
+The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.

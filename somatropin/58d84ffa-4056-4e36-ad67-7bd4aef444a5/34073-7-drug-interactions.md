@@ -23,8 +23,8 @@ However, formal drug interaction studies have not been conducted.
 
 ## 7.4 Oral Estrogen
 
-In adult women on oral estrogen replacement, a larger dose of somatropin may be required to achieve the defined treatment goal [see DOSAGE AND ADMINISTRATION (2.2)].
+In adult women on oral estrogen replacement, a larger dose of somatropin may be required to achieve the defined treatment goal [see Dosage and Administration (2.2)].
 
 ## 7.5 Insulin and/or Oral Hypoglycemic Agents
 
-In patients with diabetes mellitus requiring drug therapy, the dose of insulin and/or oral agent may require adjustment when somatropin therapy is initiated [see WARNINGS AND PRECAUTIONS (5.4)].
+In patients with diabetes mellitus requiring drug therapy, the dose of insulin and/or oral agent may require adjustment when somatropin therapy is initiated [see Warnings and Precautions (5.4)].

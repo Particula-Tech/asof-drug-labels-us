@@ -10,7 +10,7 @@ Omnitrope® is light sensitive and should be stored in the carton.
 
 ## 16.1 OMNITROPE® Cartridge 5 mg/1.5 mL
 
-Omnitrope® Cartridge (somatropin-[rDNA origin]) 5 mg/1.5 mL (15 IU) is supplied in the following package sizes:
+Omnitrope® Cartridge (somatropin-[rDNA origin]) 5 mg/1.5 mL is supplied in the following package sizes:
 
 - One cartridge (NDC 0781-3001-07)
 - Five cartridges (NDC 0781-3001-26)
@@ -19,7 +19,7 @@ For use only with the Omnitrope® Pen 5 delivery system, which is sold separatel
 
 ## 16.2 OMNITROPE® Cartridge 10 mg/1.5 mL
 
-OMNITROPE® Cartridge 10 mg/1.5 mL Omnitrope® Cartridge (somatropin-[rDNA origin]) 10 mg/1.5 mL (30 IU) is supplied in the following package sizes:
+OMNITROPE® Cartridge 10 mg/1.5 mL Omnitrope® Cartridge (somatropin-[rDNA origin]) 10 mg/1.5 mL is supplied in the following package sizes:
 
 - One cartridge (NDC 0781-3004-07)
 - Five cartridges (NDC 0781-3004-26)
@@ -29,7 +29,7 @@ After the first use the cartridge should remain in the pen and has to be kept in
 
 ## 16.3 OMNITROPE® (somatropin [rDNA origin]) for injection 5.8 mg/vial
 
-After reconstitution, the concentration is 5 mg/mL (approximately 15 IU/mL).
+After reconstitution, the concentration is 5 mg/mL.
 
 - Carton contains 8 vials of Omnitrope® 5.8 mg and 8 vials of diluent (Bacteriostatic Water for Injection containing 1.5% benzyl alcohol as a preservative.)
 

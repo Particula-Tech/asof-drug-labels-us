@@ -46,7 +46,7 @@ Ask your healthcare professional if there is something you do not understand.
 
 2.
 The Omnitrope® Pen 5 is a pen injector.
-It is for use with Omnitrope® cartridges 5 mg/1.5 mL (15 IU) and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
+It is for use with Omnitrope® cartridges 5 mg/1.5 mL and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
 
 3.
 People with very poor vision should not use the Omnitrope® Pen 5 unless someone with good eyesight is able to help.
@@ -344,10 +344,6 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-12-2010M
-
-46048641
-
 # OMNITROPE® PEN 10 INSTRUCTIONS FOR USE
 
 For use with Omnitrope® (Somatropin [rDNA origin] Injection) 10 mg/1.5 mL cartridges
@@ -396,7 +392,7 @@ Ask your healthcare professional if there is something you do not understand.
 
 2.
 The Omnitrope® Pen 10 is a pen injector.
-It is for use with Omnitrope® cartridges 10 mg/1.5 mL (30 IU) and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
+It is for use with Omnitrope® cartridges 10 mg/1.5 mL and BD® pen needles (29G x 12.7 mm or 31G x 8 mm or 31G x 5 mm).
 
 3.
 People with very poor vision should not use the Omnitrope® Pen 10 unless someone with good eyesight is able to help.
@@ -431,7 +427,7 @@ For safety and injection comfort, use a new, sterile pen needle with each inject
 DON’Ts
 
 1.
-Do not share the Omnitrope® Pen 10 even if he needle is changed.
+Do not share the Omnitrope® Pen 10 even if the needle is changed.
 It is made for only one person to use.
 
 2.
@@ -694,10 +690,6 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-12-2010M
-
-46048640
-
 # INSTRUCTIONS FOR OMNITROPE® 5.8 MG/VIAL
 
 The following instructions explain how to inject OMNITROPE® 5.8 mg.
@@ -804,10 +796,14 @@ After Injecting OMNITROPE® 5.8 mg
 
 Omnitrope® is a trademark of Novartis.
 
-12-2010M
-
-46048642
-
 Manufactured in Austria by Sandoz GmbH
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
+
+04-2011M
+
+46061732
+
+46061733
+
+46061734

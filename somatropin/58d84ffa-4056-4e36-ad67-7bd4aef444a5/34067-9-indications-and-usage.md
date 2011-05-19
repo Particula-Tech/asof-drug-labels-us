@@ -5,7 +5,7 @@
 Omnitrope® (somatropin [rDNA origin] injection) is indicated for the treatment of children with growth failure due to inadequate secretion of endogenous growth hormone (GH).
 
 Omnitrope® [somatropin (rDNA origin) injection] is indicated for the treatment of pediatric patients who have growth failure due to Prader-Willi Syndrome (PWS).
-The diagnosis of PWS should be confirmed by appropriate genetic testing [see CONTRAINDICATON (4.2) and WARNINGS AND PRECAUTIONS (5.2)].
+The diagnosis of PWS should be confirmed by appropriate genetic testing [see Contraindications (4.2) and Warnings and Precautions (5.2)].
 
 Omnitrope® [somatropin (rDNA origin) injection] is indicated for the treatment of growth failure in children born small for gestational age (SGA) who fail to manifest catch-up growth by age 2 years.
 

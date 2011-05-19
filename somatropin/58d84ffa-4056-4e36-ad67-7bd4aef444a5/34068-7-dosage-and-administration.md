@@ -17,7 +17,7 @@ Treatment with Omnitrope® for short stature should be discontinued when the epi
 
 ### Pediatric Growth Hormone Deficiency (GHD)
 
-Generally, a dosage of 0.16 - 0.24 mg/kg body weight /week is recommended.
+Generally, a dosage of 0.16 to 0.24 mg/kg body weight /week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 Prader-Willi Syndrome (PWS)
@@ -44,7 +44,7 @@ The dose may be increased at 4- to 8-week intervals according to individual pati
 Clinical response, side effects, and determination of age- and gender-adjusted serum IGF-I levels may be used as guidance in dose titration.
 
 Alternatively, taking into account recent literature, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
-This dose can be increased gradually every 1-2 months by increments of approximately 0.1-0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-I concentrations.
+This dose can be increased gradually every 1-2 months by increments of approximately 0.1 to 0.2 mg/day, according to individual patient requirements based on the clinical response and serum IGF-I concentrations.
 During therapy, the dose should be decreased if required by the occurrence of adverse events and/or serum IGF-I levels above the age- and gender-specific normal range.
 Maintenance dosages vary considerably from person to person.
 

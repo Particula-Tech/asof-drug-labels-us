@@ -2,7 +2,7 @@
 
 See FDA-approved patient labeling.
 
-Patients being treated with Omnitrope® (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment [in particular, see ADVERSE REACTIONS (6.1)for a listing of the most serious and/or most frequently observed adverse reactions associated with somatropin treatment in children and adults].
+Patients being treated with Omnitrope® (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment [in particular, see Adverse Reactions (6.1) for a listing of the most serious and/or most frequently observed adverse reactions associated with somatropin treatment in children and adults].
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
 
 Patients and caregivers who will administer Omnitrope® should receive appropriate training and instruction on the proper use of Omnitrope® from the physician or other suitably qualified health care professional.
@@ -16,8 +16,6 @@ If patients are prescribed Omnitrope® Cartridge 5 mg/1.5 mL or 10 mg/1.5 mL (to
 If patients are prescribed Omnitrope® for injection, physicians should instruct patients to read the INSTRUCTIONS FOR USE leaflets provided with the Omnitrope® for injection 5.8 mg/vial.
 
 Omnitrope® is a trademark of Novartis.
-
-12-2010M
 
 Manufactured in Austria by Sandoz GmbH
 

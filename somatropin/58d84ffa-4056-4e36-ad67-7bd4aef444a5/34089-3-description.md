@@ -8,8 +8,6 @@ Escherichia coli that has been modified by the addition of the gene for human gr
 Omnitrope® Cartridge is a clear, colorless, sterile solution for subcutaneous injection.
 Omnitrope® for Injection is a lyophilized powder that is reconstituted for subcutaneous injection.
 
-The bioidentity of the recombinant protein is measured by comparing its growth inducing effect with the growth inducing effect of a reference preparation calibrated in International Units.
-
 Each Omnitrope® Cartridge or vial contains the following (see Table 4):
 
 Table 4.

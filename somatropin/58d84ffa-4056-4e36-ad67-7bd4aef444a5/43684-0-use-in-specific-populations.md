@@ -27,4 +27,4 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The safety and effectiveness of Omnitrope® in patients aged 65 and over have not been evaluated in clinical studies.
 Elderly patients may be more sensitive to the action of somatropin, and therefore may be more prone to develop adverse reactions.
-A lower starting dose and smaller dose increments should be considered for older patients [see DOSAGE AND ADMINISTRATION (2.2)].
+A lower starting dose and smaller dose increments should be considered for older patients [see Dosage and Administration (2.2)].
