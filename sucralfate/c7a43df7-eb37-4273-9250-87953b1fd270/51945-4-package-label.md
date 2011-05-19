@@ -4,6 +4,8 @@
 
 NDC 0093-2210-98
 
+New Product Appearance
+
 SUCRALFATE
 
 Tablets, USP

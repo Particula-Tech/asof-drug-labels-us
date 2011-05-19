@@ -51,7 +51,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness in children have not been established.
+Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
