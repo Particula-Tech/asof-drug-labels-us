@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 LABAs, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
-Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [seeWarnings and Precautions (5.1)].
+Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [see Warnings and Precautions (5.1)].
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 
