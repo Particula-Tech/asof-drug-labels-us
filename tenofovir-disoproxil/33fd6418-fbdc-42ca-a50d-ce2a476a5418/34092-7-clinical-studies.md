@@ -72,8 +72,6 @@ After 24 weeks of blinded study treatment, all subjects continuing on study were
 Subjects had a mean baseline CD4+ cell count of 427 cells/mm3 (range 23–1385), median baseline plasma HIV-1 RNA of 2340 (range 50–75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
 Mean age of the subjects was 42 years, 85% were male and 69% were Caucasian, 17% Black and 12% Hispanic.
 
-Changes from baseline in log10 copies/mL plasma HIV-1 RNA levels over time up to Week 48 are presented below in Figure 1.
-
 The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 16.
 
 Table 16 Outcomes of Randomized Treatment (Study 907)
@@ -125,18 +123,29 @@ Table 17 Histological, Virological, Biochemical, and Serological Response at Wee
 
 Treatment beyond 48 Weeks
 
-In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects rolled over with no interruption in treatment to open-label VIREAD through Week 96 after receiving double-blind treatment for 48 weeks (either VIREAD or HEPSERA).
-At Week 72 or thereafter, emtricitabine could be added to VIREAD in subjects who had detectable HBV DNA.
+In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects rolled over with no interruption in treatment to open-label VIREAD after receiving double-blind treatment for 48 weeks (either VIREAD or HEPSERA).
 
-In Study 0102, 90% of subjects who were randomized to VIREAD completed 96 weeks of treatment.
-Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 89% had undetectable HBV DNA (< 400 copies/mL), and 71% had ALT normalization at Week 96.
-In the group of subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 88% completed 96 weeks of treatment; 96% of this cohort had undetectable HBV DNA (< 400 copies/mL) and 71% had ALT normalization at Week 96.
-Emtricitabine was added to VIREAD in 2 (<1%) subjects initially randomized to VIREAD and none of those randomized to HEPSERA.
-No subject in either treatment group experienced HBsAg loss/seroconversion through Week 96.
+In Study 0102, 328 of 375 subjects (87%) completed 144 weeks of treatment.
+Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 88% had HBV DNA < 400 copies/mL, and 73% had ALT normalization at Week 144.
+In the group of subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 96% of this cohort had HBV DNA < 400 copies/mL and 73% had ALT normalization at Week 144.
+No subject in either treatment group experienced HBsAg loss/seroconversion through Week 144.
 
-In Study 0103, 82% of subjects randomized to VIREAD completed 96 weeks of treatment.
-Among subjects randomized to VIREAD, 81% had undetectable HBV DNA (< 400 copies/mL), 64% had ALT normalization, 27% had HBeAg loss (23% seroconversion to anti-HBe antibody), and 5% had HBsAg loss (4% seroconversion to anti-HBs antibody) through Week 96.
-Among subjects randomized to HEPSERA followed by up to 48 weeks of open-label treatment with VIREAD, 92% of subjects completed 96 weeks of treatment; 76% had undetectable HBV DNA (< 400 copies/mL), 67% had ALT normalization, 24% had HBeAg loss (21% seroconversion to anti-HBe antibody), and 6% experienced HBsAg loss (5% seroconversion to anti-HBs antibody) through Week 96.
-Emtricitabine was added to VIREAD in 15 (9%) subjects randomized to VIREAD, and in 13 (14%) subjects randomized to HEPSERA.
+In Study 0103, 214 of 266 subjects (80%) completed 144 weeks of treatment.
+Among subjects randomized to VIREAD, 75% had HBV DNA < 400 copies/mL, 57% had ALT normalization, and 28% had HBeAg loss (21% seroconversion to anti-HBe antibody) through Week 144.
+Among subjects randomized to HEPSERA followed by up to 96 weeks of open-label treatment with VIREAD, 74% had HBV DNA < 400 copies/mL, 63% had ALT normalization, and 30% had HBeAg loss (23% seroconversion to anti-HBe antibody) through Week 144.
+HBsAg loss at Week 144 was 8% in both treatment groups, and seroconversion to anti-HBs was 6% for the subjects randomized to VIREAD and 7% for the subjects initially randomized to HEPSERA.
 
 Across the combined HBV treatment studies, the number of subjects with lamivudine- or adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
+
+Patients with Chronic Hepatitis B and Decompensated Liver Disease
+
+VIREAD was studied in a small randomized, double blind, active-controlled trial evaluating the safety of VIREAD compared to other antiviral drugs in subjects with CHB and decompensated liver disease through 48 weeks.
+
+Forty-five adult subjects (37 males and 8 females) were randomized to the VIREAD treatment arm.
+At baseline, 69% subjects were HBeAg-positive, and 31% were HBeAg-negative.
+Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log10 copies/mL and mean serum ALT of 61 U/L at baseline.
+Study endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥ 0.5 mg/dL or confirmed serum phosphorus of < 2 mg/dL.
+[See Adverse Reactions (6.1)].
+
+At 48 weeks, 31/44 (70%) and 12/26 (46%) Viread-treated subjects achieved an HBV DNA < 400 copies/mL, and normalized ALT, respectively.
+The trial was not designed to evaluate treatment impact on clinical endpoints such as progression of liver disease, need for liver transplantation, or death.

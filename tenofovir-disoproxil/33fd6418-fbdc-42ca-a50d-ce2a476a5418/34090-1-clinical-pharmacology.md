@@ -46,9 +46,9 @@ Race: There were insufficient numbers from racial and ethnic groups other than C
 
 Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric Patients: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent subjects (12 to <18 years).
+Pediatric Patients 12 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected pediatric subjects (12 to <18 years).
 Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 µg/mL and 3.39 ± 1.22 µg∙hr/mL, respectively.
-Tenofovir exposure achieved in adolescent subjects receiving oral daily doses of VIREAD 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
+Tenofovir exposure achieved in these pediatric subjects receiving oral daily doses of VIREAD 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
 Pharmacokinetic studies have not been performed in pediatric subjects <12 years of age.
 
@@ -154,7 +154,7 @@ Mechanism of Action
 
 Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate, an obligate chain terminator.
-Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase and HBV polymerase by competing with the natural substrate deoxyadenosine 5'-triphosphate and, after incorporation into DNA, by DNA chain termination.
+Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase and HBV reverse transcriptase by competing with the natural substrate deoxyadenosine 5'-triphosphate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 Activity against HIV
@@ -192,15 +192,12 @@ In Studies 902 and 907 conducted in treatment-experienced subjects (VIREAD + Sta
 Genotypic analysis of the baseline and failure isolates showed the development of the K65R substitution in the HIV-1 reverse transcriptase gene.
 
 The virologic response to VIREAD therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced subjects participating in Studies 902 and 907.
-
 In these clinical studies, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI mutation.
-These included resistance substitutions associated with zidovudine (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), the abacavir/emtricitabine/lamivudine resistance-associated substitution (M184V), and others.
-In addition the majority of participants evaluated had substitutions associated with either PI or NNRTI use.
 Virologic responses for subjects in the genotype substudy were similar to the overall study results.
 
 Several exploratory analyses were conducted to evaluate the effect of specific substitutions and substitutional patterns on virologic outcome.
 Because of the large number of potential comparisons, statistical testing was not conducted.
-Varying degrees of cross-resistance of VIREAD to pre-existing zidovudine resistance-associated substitutions were observed and appeared to depend on the number of specific substitutions.
+Varying degrees of cross-resistance of VIREAD to pre-existing zidovudine resistance-associated substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) were observed and appeared to depend on the type and number of specific substitutions.
 VIREAD-treated subjects whose HIV-1 expressed 3 or more zidovudine resistance-associated substitutions that included either the M41L or L210W reverse transcriptase substitution showed reduced responses to VIREAD therapy; however, these responses were still improved compared with placebo.
 The presence of the D67N, K70R, T215Y/F, or K219Q/E/N substitution did not appear to affect responses to VIREAD therapy.
 Subjects whose virus expressed an L74V substitution without zidovudine resistance associated substitutions (N=8) had reduced response to VIREAD.
@@ -211,8 +208,7 @@ HIV-1 RNA responses among these subjects were durable through Week 48.
 
 Studies 902 and 907 Phenotypic Analyses
 
-The virologic response to VIREAD therapy has been evaluated with respect to baseline phenotype (N=100) in treatment-experienced subjects participating in two controlled trials.
-Phenotypic analysis of baseline HIV-1 from subjects in these studies demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
+Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
 Table 13 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
 
 Table 13 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
@@ -234,30 +230,24 @@ In cell culture combination antiviral activity studies of tenofovir with the nuc
 
 Resistance
 
-Cumulative VIREAD genotypic resistance analysis of paired pre-treatment and on-treatment isolates was performed using an as-treated analysis.
-Subjects remaining viremic with HBV DNA >400 copies/mL at the last evaluable study visit after 96 weeks of cumulative treatment (16%[26/160] of HBeAg positive subjects in Study 103 and 3% [8/234] of HBeAg negative subjects in Study 102) were evaluated for genotypic resistance.
-These 34 subjects with viremia were primarily treatment-naïve and received VIREAD for up to 96 weeks; of these, 65% (17/26) of HBeAg-positive and 13% (1/8) of HBeAg-negative subjects had a baseline viral load of >9 log10 copies/mL.
-
-In addition, 16 of the 84 HBeAg-positive subjects who received 48 weeks of HEPSERA and then switched to VIREAD for up to 48 weeks, and 18 of 53 Hepsera treatment-experienced subjects from an ongoing Phase 2 study who received up to 48 weeks of VIREAD monotherapy and who had plasma HBV DNA >400 copies/mL, were included in the resistance analysis.
-Subjects in the Phase 2 study were previously treated for 24 to 96 weeks with HEPSERA for chronic HBV infection and had plasma HBV DNA levels ≥ 1,000 copies/mL at screening.
-
-In the three VIREAD-treatment studies, paired genotypic data were obtained for 55 of 68 viremic subjects.
-No specific amino acid substitutions in the HBV reverse transcriptase domain occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic or phenotypic analyses).
-
-In the three VIREAD-treatment studies, prior to treatment with VIREAD, 13 and 10 subjects had HBV harboring adefovir resistance-associated substitutions (rtA181T/V and/or rtN236T) or lamivudine resistance-associated substitution (rtM204I/V), respectively.
-Following up to 96 weeks of VIREAD treatment, 11 of the 13 subjects with adefovir-resistant HBV and 8 of the 10 subjects with lamivudine-resistant HBV achieved virologic suppression (HBV DNA <400 copies/mL).
-Two of the 4 subjects harboring both the rtA181T/V and rtN236T substitutions remained viremic following 24 weeks of VIREAD monotherapy.
+Cumulative VIREAD genotypic resistance was evaluated annually with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA ≥400 copies/mL at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
+From four ongoing VIREAD trials (Studies 102, 103, and 106 in subjects with compensated liver disease, and Study 108 in subjects with decompensated liver disease), 10% (69/660) of VIREAD recipients with compensated liver disease receiving up to 144 weeks of VIREAD monotherapy and 18% (7/39) of VIREAD recipients with decompensated liver disease receiving up to 48 weeks of VIREAD monotherapy remained viremic at their last time-point on VIREAD monotherapy.
+In the HEPSERA-naïve HBeAg+ subject population from Study 103, 74% (17/23) of the subjects with HBV DNA ≥400 copies/mL at their last time-point on VIREAD monotherapy had a baseline viral load of >9 log10 copies/mL.
+Treatment emergent amino acid substitutions in the HBV reverse transcriptase were identified in 46% (32/69) of those subjects in Studies 102, 103, 106, and 108 with evaluable paired genotypic data; no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic or phenotypic analyses).
 
 Cross Resistance
 
-Cross-resistance has been observed among HBV reverse transcriptase inhibitors.
+Cross resistance has been observed between HBV nucleoside/nucleotide analogue reverse transcriptase inhibitors.
 
 In cell based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine and telbivudine showed a susceptibility to tenofovir ranging from 0.7 to 3.4-fold that of wild type virus.
 The rtL180M and rtM204I/V double substitutions conferred 3.4-fold reduced susceptibility to tenofovir.
 
 HBV strains expressing the rtL180M, rtT184G, rtS202G/I, rtM204V, and rtM250V substitutions associated with resistance to entecavir showed a susceptibility to tenofovir ranging from 0.6 to 6.9-fold that of wild type virus.
-An HBV strain expressing rtL180M, rtT184G, rtS202I and rtM204V together had a 6.9-fold reduction in susceptibility to tenofovir.
+An HBV strain expressing rtL180M, rtT184G, rtS202I, and rtM204V together had a 6.9-fold reduction in susceptibility to tenofovir.
 
-HBV strains expressing the adefovir resistance-associated substitutions rtA181V and/or rtN236T showed reductions in susceptibility to tenofovir ranging from 2.9 to 10-fold that of wild type virus.
-
+HBV strains expressing the adefovir resistance-associated substitutions rtA181V and/or rtN236T showed reductions in susceptibility to tenofovir ranging from 2.9- to 10-fold that of wild type virus.
 Strains containing the rtA181T substitution showed changes in susceptibility to tenofovir ranging from 0.9 to 1.5-fold that of wild type virus.
+
+In the four VIREAD-treatment studies, prior to treatment with VIREAD, 14, 15, and 2 subjects had HBV harboring either adefovir resistance-associated substitutions (rtA181T/V and/or rtN236T) or lamivudine resistance-associated substitutions (rtM204I/V), or both, respectively.
+Following up to 144 weeks of VIREAD treatment, 11 of the 14 subjects with adefovir-resistant HBV, 12 of the 15 subjects with lamivudine-resistant HBV, and 1 of the 2 subjects with both adefovir- and lamivudine-resistant HBV achieved virologic suppression (HBV DNA <400 copies/mL).
+Two of the 5 subjects whose virus harbored both the rtA181T/V and rtN236T substitutions and one of the 5 subjects whose virus harbored these substitutions and an rtM204I substitution remained viremic following up to 32 weeks of VIREAD monotherapy.

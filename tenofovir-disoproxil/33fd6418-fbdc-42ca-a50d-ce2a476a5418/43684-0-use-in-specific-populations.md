@@ -20,9 +20,9 @@ Because of both the potential for HIV-1 transmission and the potential for serio
 
 ## 8.4 Pediatric Use
 
-Adolescent Patients
+Pediatric Patients 12 Years of Age and Older
 
-The safety of VIREAD in adolescent patients aged 12 to <18 years is supported by data from one randomized study in which VIREAD was administered to HIV-1 infected treatment-experienced subjects.
+The safety of VIREAD in pediatric patients aged 12 to <18 years is supported by data from one randomized study in which VIREAD was administered to HIV-1 infected treatment-experienced subjects.
 In this study, the pharmacokinetic profile of VIREAD was similar to that found to be safe and effective in adult clinical trials.
 
 In Study 321, 87 treatment-experienced subjects 12 to <18 years of age were treated with VIREAD (N=45) or placebo (N=42) in combination with an optimized background regimen (OBR) for 48 weeks.
@@ -31,10 +31,10 @@ At baseline, 90% of subjects harbored NRTI resistance-associated substitutions i
 Overall, the trial failed to show a difference in virologic response between the VIREAD and placebo treatment groups.
 Subgroup analyses suggest the lack of difference in virologic response may be attributable to imbalances between treatment arms in baseline viral susceptibility to VIREAD and OBR.
 
-Although changes in HIV-1 RNA in these highly treatment-experienced adolescent subjects were less than anticipated, the comparability of the pharmacokinetic and safety data to that observed in adults supports the use of VIREAD in patients ≥12 years of age who weigh ≥35 kg and whose HIV-1 isolate is expected to be sensitive to VIREAD.
+Although changes in HIV-1 RNA in these highly treatment-experienced subjects were less than anticipated, the comparability of the pharmacokinetic and safety data to that observed in adults supports the use of VIREAD in pediatric patients ≥12 years of age who weigh ≥35 kg and whose HIV-1 isolate is expected to be sensitive to VIREAD.
 [See Warnings and Precautions (5.6), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
-Safety and effectiveness in patients less than 12 years of age have not been established.
+Safety and effectiveness in pediatric patients less than12 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

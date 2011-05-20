@@ -20,7 +20,7 @@ Tenofovir is principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [See Adverse Reactions (6.2)].
 
 It is recommended that creatinine clearance be calculated in all patients prior to initiating therapy and as clinically appropriate during therapy with VIREAD.
-Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment, including patients who have previously experienced renal events while receiving HEPSERA.
+Routine monitoring of calculated creatinine clearance and serum phosphorus should be performed in patients at risk for renal impairment, including patients who have previously experienced renal events while receiving HEPSERA®.
 
 Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance <50 mL/min [See Dosage and Administration (2.3)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
@@ -31,7 +31,7 @@ VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
 
 VIREAD should not be used in combination with the fixed-dose combination products TRUVADA or ATRIPLA since tenofovir disoproxil fumarate is a component of these products.
 
-VIREAD should not be administered in combination with HEPSERA® (adefovir dipivoxil) [See Drug Interactions (7.4)].
+VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.4)].
 
 ## 5.5 Patients Coinfected with HIV-1 and HBV
 
@@ -42,7 +42,7 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 
 ## 5.6 Decreases in Bone Mineral Density
 
-Assessment of bone mineral density (BMD) should be considered for adults and adolescents who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Assessment of bone mineral density (BMD) should be considered for adults and pediatric patients 12 years of age and older who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
@@ -56,13 +56,13 @@ In addition, there were significant increases in biochemical markers of bone met
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
 Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
 
-In a clinical study of HIV-1 infected adolescent subjects (Study 321), bone effects were similar to adult subjects.
-Under normal circumstances BMD increases rapidly in adolescents.
+In a clinical study of HIV-1 infected pediatric subjects 12 years of age and older (Study 321), bone effects were similar to adult subjects.
+Under normal circumstances BMD increases rapidly in this age group.
 In this study, the mean rate of bone gain was less in the VIREAD-treated group compared to the placebo group.
-Six VIREAD treated adolescents and one placebo treated adolescent had significant (>4%) lumbar spine BMD loss in 48 weeks.
+Six VIREAD treated subjects and one placebo treated subject had significant (>4%) lumbar spine BMD loss in 48 weeks.
 Among 28 subjects receiving 96 weeks of VIREAD, Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
 Skeletal growth (height) appeared to be unaffected.
-Markers of bone turnover in VIREAD-treated adolescents suggest increased bone turnover, consistent with the effects observed in adults.
+Markers of bone turnover in VIREAD-treated pediatric subjects 12 years of age and older suggest increased bone turnover, consistent with the effects observed in adults.
 
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 

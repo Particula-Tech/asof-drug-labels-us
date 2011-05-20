@@ -104,7 +104,7 @@ Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Depression | 9% | 7% |
 | Insomnia | 5% | 7% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
-| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
+| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular. | 7% | 9% |
 
 Laboratory Abnormalities: Laboratory abnormalities observed in this study were generally consistent with those seen in previous studies (Table 5).
 
@@ -186,24 +186,24 @@ Table 7 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated S
 | Serum Glucose (>250 U/L) | 2% | 4% | 3% | 3% |
 | Neutrophils (<750/mm3) | 1% | 1% | 2% | 1% |
 
-Clinical Trials in Adolescent Patients with HIV-1 Infection
+Clinical Trials in Pediatric Subjects 12 Years of Age and Older with HIV-1 Infection
 
-Assessment of adverse reactions is based on one randomized trial (Study 321) in 87 HIV-1 infected adolescent subjects (12 to <18 years of age) who received treatment with VIREAD (N=45) or placebo (N=42) in combination with other antiretroviral agents for 48 weeks.
-The adverse reactions observed in adolescent subjects who received treatment with VIREAD were consistent with those observed in clinical trials in adults.
+Assessment of adverse reactions is based on one randomized trial (Study 321) in 87 HIV-1 infected pediatric subjects (12 to <18 years of age) who received treatment with VIREAD (N=45) or placebo (N=42) in combination with other antiretroviral agents for 48 weeks.
+The adverse reactions observed in subjects who received treatment with VIREAD were consistent with those observed in clinical trials in adults.
 
-Bone effects observed in adolescent subjects were consistent with those observed in adult clinical trials [See Warnings and Precautions(5.6)].
+Bone effects observed in pediatric subjects 12 years of age and older were consistent with those observed in adult clinical trials [See Warnings and Precautions(5.6)].
 
-Clinical Trials in Adult Patients with Chronic Hepatitis B
+Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
 Treatment-Emergent Adverse Reactions: In controlled clinical trials in subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA.
 Other treatment-emergent adverse reactions reported in >5% of subjects treated with VIREAD included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain and skin rash.
 
-No significant change in the tolerability profile (frequency, nature, or severity of adverse reactions) was observed in subjects continuing treatment with VIREAD for up to 96 weeks in these studies.
+No significant change in the tolerability profile (nature or severity of adverse reactions) was observed in subjects continuing treatment with VIREAD for up to 144 weeks in these studies.
 
-Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 8.
+Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities through Week 48 is provided in Table 8.
+Grade 3/4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 144 weeks in these studies.
 
-Table 8.
-Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0-48 Weeks)
+Table 8 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
 
 |  | VIREAD (N=426) | HEPSERA (N=215) |
 | --- | --- | --- |
@@ -214,12 +214,22 @@ Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects 
 | AST (M: >180 U/L; F: >170 U/L) | 4% | 4% |
 | ALT (M: >215 U/L; F: >170 U/L) | 10% | 6% |
 
-The overall incidence of on-treatment ALT elevations (defined as serum ALT >2 × baseline and >10 × ULN, with or without associated symptoms) was similar between VIREAD (2.6%) and HEPSERA (2%).
-ALT elevations generally occurred within the first 4–8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
+The overall incidence of on-treatment ALT flares (defined as serum ALT >2 × baseline and >10 × ULN, with or without associated symptoms) was similar between VIREAD (2.6%) and HEPSERA (2%).
+ALT flares generally occurred within the first 4–8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 
-Grade 3/4 laboratory abnormalities were similar in nature and frequency in subjects continuing treatment for up to 96 weeks in these studies.
+Clinical Trial in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease
+
+In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with VIREAD or other antiviral drugs for up to 48 weeks [see Clinical Studies (14.2)].
+Among the 45 subjects receiving VIREAD, the most frequently reported treatment-emergent adverse reactions of any severity were abdominal pain (22%), nausea (20%), insomnia (18%), pruritus (16%), vomiting (13%), dizziness (13%), and pyrexia (11%).
+Two of 45 (4%) subjects died through Week 48 of the study due to progression of liver disease.
+Three of 45 (7%) subjects discontinued treatment due to an adverse event.
+Four of 45 (9%) subjects experienced a confirmed increase in serum creatinine of 0.5 mg/dL (1 subject also had a confirmed serum phosphorus < 2mg/dL through Week 48).
+Three of these subjects (each of whom had a Child-Pugh score ≥ 10 and MELD score ≥ 14 at entry) developed renal failure.
+Because both VIREAD and decompensated liver disease may have an impact on renal function, the contribution of VIREAD to renal impairment in this population is difficult to ascertain.
+
+One of 45 subjects experienced an on-treatment hepatic flare during the 48 Week study.
 
 ## 6.2 Postmarketing Experience
 

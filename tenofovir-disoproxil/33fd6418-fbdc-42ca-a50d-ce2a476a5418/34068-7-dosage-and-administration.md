@@ -6,11 +6,11 @@ For the treatment of HIV-1 or chronic hepatitis B: The dose is one 300 mg VIREAD
 
 In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
 
-## 2.2 Recommended Dose in Adolescents (≥12 Years of Age and ≥35 kg)
+## 2.2 Recommended Dose in Pediatric Patients (≥12 Years of Age and ≥35 kg)
 
-For the treatment of HIV-1 in adolescents with body weight ≥35 kg (≥77 lb): The dose is one 300 mg VIREAD tablet once daily taken orally, without regard to food.
+For the treatment of HIV-1 in pediatric patients 12 years of age and older with body weight ≥35 kg (≥77 lb): The dose is one 300 mg VIREAD tablet once daily taken orally, without regard to food.
 
-## 2.3 Dose Adjustment for Renal Impairment
+## 2.3 Dose Adjustment for Renal Impairment in Adults
 
 Significantly increased drug exposures occurred when VIREAD was administered to subjects with moderate to severe renal impairment [See Clinical Pharmacology (12.3)].
 Therefore, the dosing interval of VIREAD should be adjusted in patients with baseline creatinine clearance <50 mL/min using the recommendations in Table 1.
@@ -29,4 +29,4 @@ Table 1 Dosage Adjustment for Patients with Altered Creatinine Clearance
 
 The pharmacokinetics of tenofovir have not been evaluated in non-hemodialysis patients with creatinine clearance <10 mL/min; therefore, no dosing recommendation is available for these patients.
 
-No data are available to make dose recommendations in adolescent patients with renal impairment.
+No data are available to make dose recommendations in pediatric patients 12 years of age and older with renal impairment.
