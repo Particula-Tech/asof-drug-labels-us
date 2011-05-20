@@ -1,10 +1,6 @@
 # MEDICATION GUIDE
 
-CIPROFLOXACIN INJECTION, USP
-
-(ciprofloxacin)
-
-For Intravenous Infusion
+CIPROFLOXACIN (sip-row-FLOX-a-sin) INJECTION, USP (ciprofloxacin) For Intravenous Infusion
 
 Read the Medication Guide that comes with CIPROFLOXACIN before you start taking it and each time you get a refill.
 There may be new information.
@@ -17,19 +13,18 @@ CIPROFLOXACIN can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take CIPROFLOXACIN.
 
-Tendon rupture or swelling of the tendon (tendinitis)
-
-- Tendons are tough cords of tissue that connect muscles to bones.
-- Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including CIPROFLOXACIN.
-  The risk of getting tendon problems is higher if you:
-  - - are over 60 years of age
-  - - are taking steroids (corticosteroids)
-  - - have had a kidney, heart, or lung transplant.
-- Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-- Other reasons for tendon ruptures can include:
-  - - physical activity or exercise
-  - - kidney failure
-  - - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+- Tendon rupture or swelling of the tendon (tendinitis)
+  - Tendons are tough cords of tissue that connect muscles to bones.
+  - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including CIPROFLOXACIN.
+    The risk of getting tendon problems is higher if you:
+    - are over 60 years of age
+    - are taking steroids (corticosteroids)
+    - have had a kidney, heart, or lung transplant.
+  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
+  - Other reasons for tendon ruptures can include:
+    - physical activity or exercise
+    - kidney failure
+    - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking CIPROFLOXACIN until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -40,10 +35,14 @@ Tendon rupture or swelling of the tendon (tendinitis)
 - Tendon rupture can happen while you are taking or after you have finished taking CIPROFLOXACIN.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-  - - hear or feel a snap or pop in a tendon area
-  - - bruising right after an injury in a tendon area
-  - - unable to move the affected area or bear weight
-- See the section “What are the possible side effects of CIPROFLOXACIN?” for more information about side effects.
+  - hear or feel a snap or pop in a tendon area
+  - bruising right after an injury in a tendon area
+  - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like CIPROFLOXACIN may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+See the section “What are the possible side effects of CIPROFLOXACIN?” for more information about side effects.
 
 What is CIPROFLOXACIN?
 
@@ -70,11 +69,12 @@ Do not take CIPROFLOXACIN if you:
   Serious side effects from tizanidine are likely to happen.
 
 What should I tell my healthcare provider before taking CIPROFLOXACIN?
-See “ What is the most important information I should know about CIPROFLOXACIN? ”
+See “What is the most important information I should know about CIPROFLOXACIN?”
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
@@ -96,22 +96,22 @@ Especially tell your healthcare provider if you take:
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take CIPROFLOXACIN or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “ What are the possible side effects of CIPROFLOXACIN? ”.
+  See “What are the possible side effects of CIPROFLOXACIN?”.
 - a blood thinner (warfarin, Coumadin®, Jantoven®)
 - tizanidine (Zanaflex®) You should not take CIPROFLOXACIN if you are already taking tizanidine.
-  See “ Who should not take CIPROFLOXACIN? ”
+  See “Who should not take CIPROFLOXACIN?”
 - theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
 - glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
-  See “ What are the possible side effects of CIPROFLOXACIN? ”
+  See “What are the possible side effects of CIPROFLOXACIN?”
 - phenytoin(Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Penytoin Sodium®, Phenytek®)
 - products that contain caffeine
-- a medicine to control your heart rate or rhythm (antiarrhythmics) See “ What are the possible side effects of CIPROFLOXACIN? ”
+- a medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of CIPROFLOXACIN?”
 - an anti-psychotic medicine
 - a tricyclic antidepressant
 - a water pill (diuretic)
 - a steroid medicine.
   Corticosteroids taken by mouth or by injection may increase the chance of tendon injury.
-  See “ What is the most important information I should know about CIPROFLOXACIN? ”
+  See “What is the most important information I should know about CIPROFLOXACIN?”
 - methotrexate (Trexall®)
 - Probenecid (Probalan®, Col-probenecid®)
 - Metoclopromide (Reglan®, Reglan ODT®)
@@ -129,9 +129,9 @@ How should I take CIPROFLOXACIN?
 - CIPROFLOXACIN should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - Drink plenty of fluids while taking CIPROFLOXACIN.
 - Do not skip any doses, or stop taking CIPROFLOXACIN even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - - you have tendon effects (see “ What is the most important information I should know about CIPROFLOXACIN? ”),
-  - - you have a serious allergic reaction (see “ What are the possible side effects of CIPROFLOXACIN? ”), or
-  - - your healthcare provider tells you to stop.
+  - you have tendon effects (see “What is the most important information I should know about CIPROFLOXACIN?”),
+  - you have a serious allergic reaction (see “What are the possible side effects of CIPROFLOXACIN?”), or
+  - your healthcare provider tells you to stop.
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPROFLOXACIN.
   If this happens, CIPROFLOXACIN and other antibiotic medicines may not work in the future.
 - If you take too much, call your healthcare provider or get medical help immediately.
@@ -159,7 +159,7 @@ What should I avoid while taking CIPROFLOXACIN?
 What are the possible side effects of CIPROFLOXACIN?
 
 CIPROFLOXACIN can cause side effects that may be serious or even cause death.
-See “ What is the most important information I should know about CIPROFLOXACIN? ”
+See “What is the most important information I should know about CIPROFLOXACIN?”
 
 Other serious side effects of CIPRO include:
 
@@ -168,70 +168,65 @@ Other serious side effects of CIPRO include:
   Ask your healthcare provider whether taking CIPROFLOXACIN will change your risk of having a seizure.
   Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of CIPROFLOXACIN.
   Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
-  - - feel dizzy
-  - - seizures
-  - - hear voices, see things, or sense things that are not there (hallucinations)
-  - - feel restless
-  - - tremors
-  - - feel anxious or nervous
-  - - confusion
-  - - depression
-  - - trouble sleeping
-  - - nightmares
-  - - feel more suspicious (paranoia)
-  - - suicidal thoughts or acts
+  - feel dizzy
+  - seizures
+  - hear voices, see things, or sense things that are not there (hallucinations)
+  - feel restless
+  - tremors
+  - feel anxious or nervous
+  - confusion
+  - depression
+  - trouble sleeping
+  - nightmares
+  - feel more suspicious (paranoia)
+  - suicidal thoughts or acts
 - Serious allergic reactions: Allergic reactions can happen in people taking fluoroquinolones, including CIPROFLOXACIN, even after only one dose.
   Stop taking CIPROFLOXACIN and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
-  - - hives
-  - - trouble breathing or swallowing
-  - - swelling of the lips, tongue, face
-  - - throat tightness, hoarseness
-  - - rapid heartbeat
-  - - faint
-  - - yellowing of the skin or eyes.
+  - hives
+  - trouble breathing or swallowing
+  - swelling of the lips, tongue, face
+  - throat tightness, hoarseness
+  - rapid heartbeat
+  - faint
+  - yellowing of the skin or eyes.
     Stop taking CIPROFLOXACIN and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
     These can be signs of a serious reaction to CIPROFLOXACIN (a liver problem).
 - Skin rash: Skin rash may happen in people taking CIPROFLOXACIN, even after only one dose.
   Stop taking CIPROFLOXACIN at the first sign of a skin rash and call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to CIPROFLOXACIN.
-- Serious heart rhythm changes (QT prolongation and torsades de pointes): Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
+- Serious heart rhythm changes (QT prolongation and torsade de pointes): Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   CIPROFLOXACIN may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
-  - - who are elderly
-  - - with a family history of prolonged QT interval,
-  - - with low blood potassium (hypokalemia),
-  - - who take certain medicines to control heart rhythm (antiarrhythmics).
+  - who are elderly
+  - with a family history of prolonged QT interval,
+  - with low blood potassium (hypokalemia),
+  - who take certain medicines to control heart rhythm (antiarrhythmics).
 - Intestine infection (Pseudomembranous colitis): Pseudomembranous colitis can happen with most antibiotics, including CIPROFLOXACIN.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
   Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
 - Changes in sensation and possible nerve damage (Peripheral Neuropathy): Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPROFLOXACIN.
-  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
-  - - pain
-  - - burning
-  - - tingling
-  - - numbness
-  - - weakness
-
-CIPROFLOXACIN may need to be stopped to prevent permanent nerve damage.
-
+  Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet: CIPROFLOXACIN may need to be stopped to prevent permanent nerve damage.
+  - pain
+  - burning
+  - tingling
+  - numbness
+  - weakness
 - Low blood sugar (hypoglycemia): People who take CIPROFLOXACIN and other fluoroquinolone medicines with the oral anti-diabetes medicine glyburide (Micronase, Glynase, Diabeta, Glucovance) can get low blood sugar (hypoglycemia) which can sometimes be severe.
   Tell your healthcare provider if you get low blood sugar with CIPROFLOXACIN.
   Your antibiotic medicine may need to be changed.
-- Sensitivity to sunlight (photosensitivity): See “ What should I avoid while taking CIPROFLOXACIN? ”
+- Sensitivity to sunlight (photosensitivity): See “What should I avoid while taking CIPROFLOXACIN?”
 - Joint Problems: Increased chance of problems with joints and tissues around joints in children under 18 years old.
   Tell your child's healthcare provider if your child has any joint problems during or after treatment with CIPROFLOXACIN.
-
-The most common side effects of CIPROFLOXACIN include:
-
-- nausea
-- headache
-- diarrhea
-- vomiting
-- vaginal yeast infection
-- changes in liver function tests
-- pain or discomfort in the abdomen
+  The most common side effects of CIPROFLOXACIN include:
+  - nausea
+  - headache
+  - diarrhea
+  - vomiting
+  - vaginal yeast infection
+  - changes in liver function tests
+  - pain or discomfort in the abdomen
 
 These are not all the possible side effects of CIPROFLOXACIN.
 Tell your healthcare provider about any side effect that bothers you, or that does not go away.
@@ -255,11 +250,13 @@ You can ask your healthcare provider or pharmacist for information about CIPROFL
 What are the ingredients in CIPROFLOXACIN?
 
 - CIPROFLOXACIN INJECTION, USP:
-  - - Active ingredient: ciprofloxacin
-  - - Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
+  - Active ingredient: ciprofloxacin
+  - Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised: July 2009 LMG10USCFX00
+Revised: March 2011 LMG10USCFX01
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2009 Sagent Pharmaceuticals, Inc.
+SAGENT™
+
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2011 Sagent Pharmaceuticals, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

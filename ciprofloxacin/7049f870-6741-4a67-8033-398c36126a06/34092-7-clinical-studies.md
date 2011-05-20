@@ -3,7 +3,6 @@
 ## EMPIRICAL THERAPY IN ADULT FEBRILE NEUTROPENIC PATIENTS
 
 The safety and efficacy of ciprofloxacin, 400 mg I.V. q 8h, in combination with piperacillin sodium, 50 mg/kg I.V. q 4h, for the empirical therapy of febrile neutropenic patients were studied in one large pivotal multicenter, randomized trial and were compared to those of tobramycin, 2 mg/kg I.V. q 8h, in combination with piperacillin sodium, 50 mg/kg I.V. q 4h.
-
 Clinical response rates observed in this study were as follows:
 
 | Outcomes | Ciprofloxacin/Piperacillin N = 233 Success (%) | Tobramycin/Piperacillin N = 237 Success (%) |

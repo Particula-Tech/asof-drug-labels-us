@@ -158,13 +158,11 @@ Standard ciprofloxacin powder should provide the following MIC values:
 
 | Organism |  | MIC (μg/mL) |
 | --- | --- | --- |
-| E. faecalis E. coli H. influenzae a P. aeruginosa S. aureus C. jejuni b N. gonorrhoeae c | ATCC 29212 ATCC 25922 ATCC 49247 ATCC 27853 ATCC 29213 ATCC 33560 ATCC 49226 | 0.25 - 2 0.004 - 0.015 0.004 - 0.03 0.25 - 1.0 0.12 - 0.5 0.06 - 0.25 and 0.03 - 0.12 0.001 - 0.008 |
+| E. faecalis E. coli H. influenzae a P. aeruginosa S. aureus | ATCC 29212 ATCC 25922 ATCC 49247 ATCC 27853 ATCC 29213 | 0.25 - 2.0 0.004 - 0.015 0.004 - 0.03 0.25 - 1.0 0.12 - 0.5 |
 | a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM) 1. |  |  |
-| b C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5 – 5% lysed horse blood in a microaerophilic environment at 36-37°C for 48 hours and for 42°C at 24 hours 2, respectively. |  |  |
-| c N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35-37°C for 20-24 hours 3. |  |  |
 
 Diffusion Techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure3 requires the use of standardized inoculum concentrations.
+One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5-μg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin.
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5-μg ciprofloxacin disk should be interpreted according to the following criteria:
@@ -183,7 +181,7 @@ For testing Haemophilus influenzae and Haemophilus parainfluenzaeb:
 | --- | --- |
 | ≥21 | Susceptible (S) |
 
-bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)3.
+bThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)2.
 
 The current absence of data on resistant strains precludes defining any results other than "Susceptible".
 Strains yielding zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.
@@ -197,4 +195,4 @@ For the diffusion technique, the 5-μg ciprofloxacin disk should provide the fol
 | Organism |  | Zone Diameter (mm) |
 | --- | --- | --- |
 | E. coli H. influenzaea P. aeruginosa S. aureus | ATCC 25922 ATCC 49247 ATCC 27853 ATCC 25923 | 30 - 40 34 - 42 25 - 33 22 - 30 |
-| aThese quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)3. |  |  |
+| aThese quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)2. |  |  |
