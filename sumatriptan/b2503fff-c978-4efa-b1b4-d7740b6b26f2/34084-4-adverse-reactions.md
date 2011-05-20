@@ -78,7 +78,7 @@ Rare were disorders of sclera, mydriasis, blindness and low vision, visual distu
 
 Frequent were diarrhea and gastric symptoms.
 Infrequent were constipation, dysphagia, and gastroesophageal reflux.
-Rare were gastrointestinal bleeding, hematemesis, melena, peptic ulcer, gastrointestinal pain, dyspeptic symptoms, dental pain, feelings of gastrointestinal pressure, gastritis, gastroenteritis, hypersalivation, abdominal distention, oral itching and irritation, salivary gland swelling, and swallowing disorders.
+Rare were gastrointestinal bleeding, hematemesis, melena, peptic ulcer, gastrointestinal pain, dyspeptic symptoms, dental pain, feelings of gastrointestinal pressure, gastroesophageal reflux, gastritis, gastroenteritis, hypersalivation, abdominal distention, oral itching and irritation, salivary gland swelling, and swallowing disorders.
 
 ### Hematological Disorders
 

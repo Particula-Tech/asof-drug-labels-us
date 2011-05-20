@@ -89,10 +89,6 @@ Sumatriptan should be used with caution in patients with a history of epilepsy o
 Care should be taken to exclude other potentially serious neurologic conditions before treating headache in patients not previously diagnosed with migraine headache or who experience a headache that is atypical for them.
 There have been rare reports where patients received sumatriptan for severe headaches that were subsequently shown to have been secondary to an evolving neurologic lesion (see WARNINGS ).
 For a given attack, if a patient does not respond to the first dose of sumatriptan, the diagnosis of migraine should be reconsidered before administration of a second dose.
-
-Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
-Withdrawal of the treatment may be necessary.
-
 Binding to Melanin-Containing Tissues In rats treated with a single subcutaneous dose (0.5 mg/kg) or oral dose (2 mg/kg) of radiolabeled sumatriptan, the elimination half-life of radioactivity from the eye was 15 and 23 days, respectively, suggesting that sumatriptan and/or its metabolites bind to the melanin of the eye.
 Because there could be an accumulation in melanin-rich tissues over time, this raises the possibility that sumatriptan could cause toxicity in these tissues after extended use.
 However, no effects on the retina related to treatment with sumatriptan were noted in any of the oral or subcutaneous toxicity studies.
@@ -103,7 +99,6 @@ While patients were not systematically evaluated for these changes in clinical t
 ## Information for Patients
 
 See PATIENT INFORMATION at the end of this labeling for the text of the detachable leaflet provided for patients.
-
 Patients should be cautioned about the risk of serotonin syndrome with the use of sumatriptan or other triptans, especially during combined use with SSRIs or SNRIs.
 
 ## Laboratory Tests
@@ -113,16 +108,10 @@ No specific laboratory tests are recommended for monitoring patients prior to an
 ## Drug Interactions
 
 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS).
-
-Ergot-Containing Drugs
-
-Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided (see CONTRAINDICATIONS).
-
-Monoamine Oxidase-A Inhibitors
-
-MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
-Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS).
+Ergot-Containing Drugs Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
+Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided (see CONTRAINDICATIONS ).
+Monoamine Oxidase-A Inhibitors MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
+Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated (see CLINICAL PHARMACOLOGY and CONTRAINDICATIONS ).
 
 ## Drug/Laboratory Test Interactions
 
@@ -151,9 +140,9 @@ In a similar study by the subcutaneous route there was no evidence of impaired f
 
 ## Pregnancy
 
-### Teratogenic Effects Pregnancy Category C.
+### Teratogenic Effects
 
-In reproductive toxicity studies in rats and rabbits, oral treatment with sumatriptan was associated with embryolethality, fetal abnormalities, and pup mortality.
+Pregnancy Category C. In reproductive toxicity studies in rats and rabbits, oral treatment with sumatriptan was associated with embryolethality, fetal abnormalities, and pup mortality.
 When administered by the intravenous route to rabbits, sumatriptan has been shown to be embryolethal.
 There are no adequate and well-controlled studies in pregnant women.
 Therefore, sumatriptan should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
