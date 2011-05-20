@@ -41,8 +41,6 @@ DEA Order Form Required.
 
 is a trademark of Mallinckrodt Inc.
 
-COVIDIEN™ Mallinckrodt
+Mallinckrodt Inc. Hazelwood, MO 63042 USA Printed in U.S.A. Rev 09/2010 r1
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA Printed in U.S.A.
-
-Rev 06/2009
+Mallinckrodt COVIDIEN™

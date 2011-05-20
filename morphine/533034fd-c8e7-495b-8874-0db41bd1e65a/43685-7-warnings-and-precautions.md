@@ -137,6 +137,7 @@ Ordinarily, nursing should not be undertaken while a patient is receiving morphi
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
 Morphine sulfate extended-release tablets are not to be chewed, crushed, dissolved, or divided for administration.
 
 ## Geriatric Use

@@ -4,7 +4,6 @@ Morphine sulfate extended-release tablets are mu-agonist opioids with an abuse l
 Morphine sulfate extended-release tablets and other opioids used in analgesia, can be abused and are subject to criminal diversion.
 
 Drug addiction is characterized by compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm.
-
 Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
 
 “Drug-seeking” behavior is very common in addicts and drug abusers.
@@ -22,5 +21,5 @@ Proper assessment of the patient, proper prescribing practices, periodic re-eval
 Morphine sulfate extended-release tablets are intended for oral use only as an intact tablet.
 Abuse of the crushed tablet poses a hazard of overdose and death.
 This risk is increased with concurrent abuse of alcohol and other substances.
-Parenteral abuse in the presence of some excipients such as talc in the tablets can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+Due to the presence of talc as one of the excipients in tablets, parenteral abuse can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.

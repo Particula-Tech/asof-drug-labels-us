@@ -1,7 +1,6 @@
 # SAFETY AND HANDLING
 
 Morphine sulfate extended-release tablets contain morphine sulfate which is a controlled substance under Schedule II of the Controlled Substances Act.
-
 Morphine, like all opioids, is liable to diversion and misuse and should be handled accordingly.
 Patients and their families should be instructed to flush any unneeded morphine sulfate extended-release tablets down the toilet.
 
