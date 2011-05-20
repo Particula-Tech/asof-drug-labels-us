@@ -344,6 +344,8 @@ FORADIL is a registered trademark of Astellas Pharma Inc.
 
 AEROLIZER is a registered trademark of Novartis AG.
 
-February 2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+T2011-82
+
+February 2011

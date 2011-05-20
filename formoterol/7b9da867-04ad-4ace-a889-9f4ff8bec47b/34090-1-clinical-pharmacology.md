@@ -108,7 +108,13 @@ A subset of patients underwent continuous electrocardiographic monitoring during
 No important differences in ventricular or supraventricular ectopy between treatment groups were observed.
 In these two studies, the total number of patients with asthma exposed to any dose of FORADIL AEROLIZER who had continuous electrocardiographic monitoring was about 200.
 
-Continuous electrocardiographic monitoring was not included in the clinical studies of FORADIL AEROLIZER that were performed in COPD patients.
+Continuous electrocardiographic monitoring was performed in an 8-week, randomized, double-blind, placebo controlled trial in 204 COPD patients treated with FORADIL AEROLIZER 12 mcg twice daily or placebo.
+Holter monitoring was used to evaluate predefined proarrhythmic events.
+Non-sustained ventricular tachycardia occurred in 2 (2.2%) of FORADIL AEROLIZER treated patients compared to none in the placebo group.
+An increase in ventricular premature beats (VPB) occurred in 3 (3.3 %) of FORADIL AEROLIZER treated patients compared to 2 (1.9%) in the placebo group.
+There were no events of sustained of ventricular tachycardia, ventricular flutter or fibrillation, or symptomatic runs of VPB.
+One patient in the FORADIL AEROLIZER group had a serious adverse event of atrial flutter.
+
 The electrocardiographic effects of FORADIL AEROLIZER were evaluated versus placebo in a 12-month pivotal double-blind study of patients with COPD.
 An analysis of ECG intervals was performed for patients who participated at study sites in the United States, including 46 patients treated with FORADIL AEROLIZER 12 mcg twice daily, and 50 patients treated with FORADIL AEROLIZER 24 mcg twice daily.
 ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6 and 12 months of treatment.

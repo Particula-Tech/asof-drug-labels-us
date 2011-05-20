@@ -4,7 +4,7 @@
 
 FORADIL AEROLIZER is indicated for the treatment of asthma and in the prevention of bronchospasm only as concomitant therapy with a long-term asthma control medication, such as an inhaled corticosteroid, in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma.
 
-Long acting beta2 adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma related death (see WARNINGS).
+Long-acting beta2-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death (see WARNINGS).
 Use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
 Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
