@@ -2,7 +2,7 @@
 
 ## 1.1 Major Depressive Disorder
 
-Fluoxetine is indicated for the acute and maintenance treatment of Major Depressive Disorder in adult patients and in pediatric patients aged 8 to18 years [see Clinical Studies (14.1)].
+Fluoxetine is indicated for the acute and maintenance treatment of Major Depressive Disorder in adult patients and in pediatric patients aged 8 to 18 years [see Clinical Studies (14.1)].
 
 The usefulness of the drug in adult and pediatric patients receiving fluoxetine for extended periods should periodically be re-evaluated [see Dosage and Administration (2.1)].
 

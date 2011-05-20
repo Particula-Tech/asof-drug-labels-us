@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 10 mg Label Text - 1000 Count
+## Fluoxetine Capsules 10 mg 1000s Label Text
 
 NDC 0093-1042-10
 
@@ -20,11 +20,13 @@ Rx only
 
 TEVA
 
-## PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-## 40 mg Label Text - 500 Count
+## Fluoxetine Capsules 40 mg 500s Label Text
 
 NDC 0093-7198-05
+
+New Product Appearance
 
 FLUOXETINE
 
@@ -32,9 +34,9 @@ Capsules USP
 
 40 mg*
 
-PHARMACIST: PLEASE DISPENSE WITH
+PHARMACIST: Dispense the accompanying
 
-ATTACHED MEDICATION GUIDE
+Medication Guide to each patient.
 
 Rx only
 

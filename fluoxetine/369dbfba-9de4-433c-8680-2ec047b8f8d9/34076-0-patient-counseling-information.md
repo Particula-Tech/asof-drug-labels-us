@@ -82,7 +82,7 @@ Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 
 Manufactured In Canada By:
 
-NOVOPHARM LIMITED
+TEVA CANADA LIMITED
 
 Toronto, Canada M1B 2K9
 
@@ -93,4 +93,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-Z 3/2010
+AB 4/2011

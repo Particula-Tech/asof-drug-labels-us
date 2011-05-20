@@ -7,7 +7,7 @@ As with all drugs, the potential for interaction by a variety of mechanisms (e.g
 There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Therefore, fluoxetine should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI [see Contraindications (4)].
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses should be allowed after stopping fluoxetine before starting an MAOI [see Clinical Pharmacology (12.3)].
+Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should be allowed after stopping fluoxetine before starting an MAOI [see Clinical Pharmacology (12.3)].
 
 ## 7.2 CNS Acting Drugs
 
@@ -43,15 +43,15 @@ There have been rare reports of prolonged seizures in patients on fluoxetine rec
 
 ## 7.8 Potential for Other Drugs to Affect Fluoxetine
 
-Drugs Tightly Bound to Plasma Proteins – Because fluoxetine is tightly bound to plasma protein, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)].
+Drugs Tightly Bound to Plasma Proteins— Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)].
 
 ## 7.9 Potential for Fluoxetine to Affect Other Drugs
 
-Pimozide – Concomitant use in patients taking pimozide is contraindicated.
+Pimozide— Concomitant use in patients taking pimozide is contraindicated.
 Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation.
 While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QTc prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4)].
 
-Thioridazine – Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4)].
+Thioridazine— Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued [see Contraindications (4)].
 
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4 fold higher Cmax and a 4.5 fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
@@ -60,7 +60,7 @@ Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs
 Thioridazine administration produces a dose-related prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsade de pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 
-Drugs Metabolized by CYP2D6 – Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
+Drugs Metabolized by CYP2D6— Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
 Coadministration of fluoxetine with other drugs that are metabolized by CYP2D6, including certain antidepressants (e.g., TCAs), antipsychotics (e.g., phenothiazines and most atypicals), and antiarrhythmics (e.g., propafenone, flecainide, and others) should be approached with caution.
 Therapy with medications that are predominantly metabolized by the CYP2D6 system and that have a relatively narrow therapeutic index (see list below) should be initiated at the low end of the dose range if a patient is receiving fluoxetine concurrently or has taken it in the previous 5 weeks.
 Thus, his/her dosing requirements resemble those of poor metabolizers.
@@ -84,7 +84,7 @@ Lithium — There have been reports of both increased and decreased lithium leve
 Cases of lithium toxicity and increased serotonergic effects have been reported.
 Lithium levels should be monitored when these drugs are administered concomitantly.
 
-Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma protein, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)].
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)].
 
 Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
 

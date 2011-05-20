@@ -99,7 +99,7 @@ Dosage adjustments, if indicated, should be made with the individual components 
 
 Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride CapsulesOlanzapine and fluoxetine hydrochloride capsules are a fixed-dose combination of fluoxetine and olanzapine. and the Combination of Fluoxetine and Olanzapine
 
-| For Olanzapine and Fluoxetine Hydrochloride Capsules | Use in Combination |  |
+| For Olanzapine and Fluoxetine Hydrochloride Capsules(mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
@@ -121,7 +121,7 @@ Treatment of pregnant Women During the Third Trimester — When treating pregnan
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 The physician may consider tapering fluoxetine in the third trimester [see Use in Specific Populations (8.1)].
 
-Geriatrics — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
+Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
 
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 

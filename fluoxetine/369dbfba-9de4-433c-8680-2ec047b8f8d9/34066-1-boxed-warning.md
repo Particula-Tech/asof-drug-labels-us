@@ -1,4 +1,4 @@
-WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+# WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of Major Depressive Disorder (MDD) and other psychiatric disorders.
 Anyone considering the use of fluoxetine capsules or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
@@ -9,3 +9,9 @@ Families and caregivers should be advised of the need for close observation and 
 Fluoxetine is approved for use in pediatric patients with MDD and Obsessive Compulsive Disorder (OCD) [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
 When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+
+If you take fluoxetine capsules USP, you should not take any other medicines that contain fluoxetine hydrochloride including:
+
+- Symbyax®
+- Sarafem®
+- Prozac® Weekly™

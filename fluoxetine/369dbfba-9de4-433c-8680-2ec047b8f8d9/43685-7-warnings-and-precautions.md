@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
 ## 5.1 Clinical Worsening and Suicide Risk
 
@@ -67,7 +67,7 @@ Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic a
 
 ## 5.3 Allergic Reactions and Rash
 
-In U.S. fluoxetine clinical trials as of May 8, 1995, 7% of 10,782 patients developed various types of rashes and/or urticaria.
+In U.S. fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
 Among the cases of rash and/or urticaria reported in premarketing clinical trials, almost a third were withdrawn from treatment because of the rash and/or systemic signs or symptoms associated with the rash.
 Clinical findings reported in association with rash include fever, leukocytosis, arthralgias, edema, carpal tunnel syndrome, respiratory distress, lymphadenopathy, proteinuria, and mild transaminase elevation.
 Most patients improved promptly with discontinuation of fluoxetine and/or adjunctive treatment with antihistamines or steroids, and all patients experiencing these reactions were reported to recover completely.
@@ -103,13 +103,13 @@ Activation of mania/hypomania has also been reported in a small proportion of pa
 
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
 No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
-In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
+In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)].
 
 ## 5.5 Seizures
 
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
 No patients reported convulsions in U.S. placebo-controlled clinical trials for either OCD or bulimia.
-In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.2% of 10,782 patients reported convulsions.
+In U.S. fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
 The percentage appears to be similar to that associated with other marketed drugs effective in the treatment of Major Depressive Disorder.
 Fluoxetine should be introduced with care in patients with a history of seizures.
 
@@ -134,6 +134,7 @@ SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactio
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.6)].
 
 ## 5.8 Hyponatremia
@@ -158,7 +159,7 @@ Anxiety was reported in 14% of patients treated with fluoxetine and in 7% of pat
 In U.S. placebo-controlled clinical trials for Bulimia Nervosa, insomnia was reported in 33% of patients treated with fluoxetine 60 mg, and 13% of patients treated with placebo.
 Anxiety and nervousness were reported, respectively, in 15% and 11% of patients treated with fluoxetine 60 mg and in 9% and 5% of patients treated with placebo.
 
-Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [see Table 5].
+Among the most common adverse reactions associated with discontinuation (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in U.S. placebo-controlled fluoxetine clinical trials were anxiety (2% in OCD), insomnia (1% in combined indications and 2% in bulimia), and nervousness (1% in Major Depressive Disorder) [seeTable 5].
 
 ## 5.10 Use in Patients With Concomitant Illness
 
