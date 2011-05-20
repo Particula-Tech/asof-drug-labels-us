@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020404"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-6141-44",
+    "0378-6141-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin",
+      "name": "Avita"
+    }
+  ],
+  "setid": "302ca95f-5a7e-4971-870a-5cfea618d7a7",
+  "source": "dailymed"
+}
