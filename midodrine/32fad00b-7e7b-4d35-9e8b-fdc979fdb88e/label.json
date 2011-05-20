@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076577"
+  ],
   "inn": "midodrine",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0378-1903-01",
     "0378-1903-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
   "setid": "32fad00b-7e7b-4d35-9e8b-fdc979fdb88e",
   "source": "dailymed"
 }
