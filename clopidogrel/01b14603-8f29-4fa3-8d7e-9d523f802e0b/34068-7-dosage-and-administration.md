@@ -2,7 +2,7 @@
 
 ## 2.1 Acute Coronary Syndrome
 
-Plavix can be administered with or without food [see Clinical Pharmacology (12.3)]
+Plavix can be administered with or without food [see Clinical Pharmacology (12.3)].
 
 - For patients with non-ST-elevation ACS (UA/NSTEMI), initiate Plavix with a single 300 mg oral loading dose and then continue at 75 mg once daily.
   Initiate aspirin (75–325 mg once daily) and continue in combination with Plavix [see Clinical Studies (14.1)].

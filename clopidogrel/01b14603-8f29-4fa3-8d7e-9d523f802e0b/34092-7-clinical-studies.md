@@ -51,7 +51,7 @@ The primary endpoints were death from any cause and the first occurrence of re-i
 
 The patient population included 28% women, 58% age ≥ 60 years (26% age ≥ 70 years), 55% patients who received thrombolytics, 68% who received ACE-inhibitors, and only 3% who underwent PCI.
 
-As shown in Table 6 and Figures 3 and 4 below, Plavix significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
+As shown in Table 6 and Figure 3 and Figure 4 below, Plavix significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
 
 Table 6: Outcome Events in the COMMIT Analysis
 
