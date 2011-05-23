@@ -85,8 +85,8 @@ Step 4: Next select the best position for vaginal insertion of Vagifem (estradio
 See suggested reclining Figure C or standing Figure D position illustrated below:
 
 Step 5: Using the other hand, guide the applicator gently and comfortably through the vaginal opening (see Figures C and D above).
-If the tablet has come out of the applicator prior to insertion, do not attempt to replace it.
-Use a fresh tablet-filled applicator.
+If the tablet has come out of the applicator prior to insertion, carefully put it back into the applicator for insertion.
+Please keep your hands clean while handling the tablet.
 
 Step 6: The applicator should be inserted (without forcing) as far as comfortably possible, or until half of the applicator is inside your vagina, whichever is less.
 
@@ -202,11 +202,11 @@ Do not refrigerate.
 
 Vagifem® is a registered trademark owned by Novo Nordisk FemCare AG.
 
-© 2003-2009 Novo Nordisk A/S
+© 2003-2011 Novo Nordisk
 
-Date of Issue: November 25, 2009
+Date of Issue: May 18, 2011
 
-Version: 6
+Version: 7
 
 For Information contact:
 
