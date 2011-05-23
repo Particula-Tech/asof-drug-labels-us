@@ -72,7 +72,7 @@ See WARNINGS, Skeletal Muscle.
 ### Cytochrome P450 3A4 Inhibitors
 
 In vitro and in vivo data indicate that pravastatin is not metabolized by cytochrome P450 3A4 to a clinically significant extent.
-This has been shown in studies with known cytochrome P450 3A4 inhibitors (see Diltiazem and Itraconazole below).
+This has been shown in studies with known cytochrome P450 3A4 inhibitors (see Diltiazem and Itraconazole).
 Other examples of cytochrome P450 3A4 inhibitors include ketoconazole, mibefradil, and erythromycin.
 
 ### Diltiazem
@@ -94,8 +94,7 @@ Since concomitant administration of pravastatin had no effect on the clearance o
 ### Cholestyramine/Colestipol
 
 Concomitant administration resulted in an approximately 40 to 50% decrease in the mean AUC of pravastatin.
-However, when pravastatin was administered 1 hour before or 4 hours after cholestyramine or 1 hour before colestipol and a standard meal, there was no clinically significant decrease in bioavailability or therapeutic effect.
-(See DOSAGE AND ADMINISTRATION, Concomitant Therapy.)
+However, when pravastatin was administered 1 hour before or 4 hours after cholestyramine or 1 hour before colestipol and a standard meal, there was no clinically significant decrease in bioavailability or therapeutic effect (see DOSAGE AND ADMINISTRATION, Concomitant Therapy).
 
 ### Warfarin
 
@@ -120,8 +119,7 @@ In one single-dose study, pravastatin levels were found to be increased in cardi
 
 In a crossover study in 20 healthy male volunteers given concomitant single doses of pravastatin and gemfibrozil, there was a significant decrease in urinary excretion and protein binding of pravastatin.
 In addition, there was a significant increase in AUC, Cmax, and Tmax for the pravastatin metabolite SQ 31,906.
-Combination therapy with pravastatin and gemfibrozil is generally not recommended.
-(See WARNINGS, Skeletal Muscle).
+Combination therapy with pravastatin and gemfibrozil is generally not recommended (see WARNINGS, Skeletal Muscle).
 
 In interaction studies with aspirin, antacids (1 hour prior to pravastatin), cimetidine, nicotinic acid, or probucol, no statistically significant differences in bioavailability were seen when pravastatin sodium was administered.
 
@@ -158,7 +156,7 @@ At these doses, lung adenomas in females were increased (p = 0.013).
 These effects in mice were observed at approximately 15 times (250 mg/kg/day) and 23 times (500 mg/kg/day) the human dose of 80 mg, based on AUC.
 In another 2 year study in mice with doses up to 100 mg/kg/day (producing drug exposures approximately 2 times the human dose of 80 mg, based on AUC), there were no drug-induced tumors.
 
-No evidence of mutagenicity was observed in vitro, with or without rat-liver metabolic activation, in the following studies: microbial mutagen tests, using mutant strains of Salmonella typhimurium or Escherichia coli; a forward mutation assay in L5178Y TK ± mouse lymphoma cells; a chromosomal aberration test in hamster cells; and a gene conversion assay using Saccharomyces cerevisiae.
+No evidence of mutagenicity was observed in vitro, with or without rat-liver metabolic activation, in the following studies: microbial mutagen tests, using mutant strains of Salmonella typhimurium or Escherichia coli; a forward mutation assay in L5178Y TK ± mouse lymphoma cells; a chromosomal aberration test in hamster cells; and a gene conversion assay using Saccharomycescerevisiae.
 In addition, there was no evidence of mutagenicity in either a dominant lethal test in mice or a micronucleus test in mice.
 
 In a study in rats, with daily doses up to 500 mg/kg, pravastatin did not produce any adverse effects on fertility or general reproductive performance.
@@ -180,7 +178,7 @@ Pravastatin was not teratogenic in rats at doses up to 1000 mg/kg daily or in ra
 These doses resulted in 10X (rabbit) or 120X (rat) the human exposure based on surface area (mg/meter2).
 Rare reports of congenital anomalies have been received following intrauterine exposure to other HMG-CoA reductase inhibitors.
 In a review7 of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions and fetal deaths/stillbirths did not exceed what would be expected in the general population.
-The number of cases is adequate only to exclude a three-to- four-fold increase in congenital anomalies over the background incidence.
+The number of cases is adequate only to exclude a three-to-four-fold increase in congenital anomalies over the background incidence.
 In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
 As safety in pregnant women has not been established and there is no apparent benefit to therapy with pravastatin during pregnancy (see CONTRAINDICATIONS), treatment should be immediately discontinued as soon as pregnancy is recognized.
 Pravastatin sodium should be administered to women of child-bearing potential only when such patients are highly unlikely to conceive and have been informed of the potential hazards.
@@ -193,8 +191,7 @@ Because of the potential for serious adverse reactions in nursing infants, women
 ## Pediatric Use
 
 The safety and effectiveness of pravastatin in children and adolescents from 8 to 18 years of age have been evaluated in a placebo-controlled study of 2 years duration.
-Patients treated with pravastatin had an adverse experience profile generally similar to that of patients treated with placebo with influenza and headache commonly reported in both treatment groups.
-(See ADVERSE REACTIONS, Pediatric Patients.)
+Patients treated with pravastatin had an adverse experience profile generally similar to that of patients treated with placebo with influenza and headache commonly reported in both treatment groups (see ADVERSE REACTIONS, Pediatric Patients).
 Doses greater than 40 mg have not been studied in this population.
 Children and adolescent females of childbearing potential should be counseled on appropriate contraceptive methods while on pravastatin therapy (see CONTRAINDICATIONS and PRECAUTIONS, Pregnancy).
 For dosing information see DOSAGE AND ADMINISTRATION, Adult Patients and Pediatric Patients.

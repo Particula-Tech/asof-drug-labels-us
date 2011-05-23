@@ -6,12 +6,13 @@ These agents are competitive inhibitors of 3-hydroxy-3-methylglutaryl-coenzyme A
 Pravastatin sodium is designated chemically as 1-naphthaleneheptanoic acid, 1,2,6,7,8,8a-hexahydro-β,δ,6-trihydroxy-2-methyl-8-(2-methyl-1-oxobutoxy)-, monosodium salt, [1S-[1α (βS*,δS*),2α,6α,8β(R*),8aα]]-.
 It has the following structural formula:
 
-C23 H35 NaO7 M.W.
+C23H35NaO7 M.W.
 446.52
 
 Pravastatin sodium is an odorless, white to off-white, fine or crystalline powder.
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.0.
 It is soluble in methanol and water (> 300 mg/mL), slightly soluble in isopropanol, and practically insoluble in acetone, acetonitrile, chloroform, and ether.
 
-Pravastatin sodium tablets USP are available for oral administration as 80 mg tablets.
-Inactive ingredients include: calcium phosphate dibasic, crospovidone, lactose, magnesium stearate, microcrystalline cellulose, and povidone.
+Pravastatin sodium tablets, USP are available for oral administration as 10 mg, 20 mg, 40 mg, and 80 mg tablets.
+Inactive ingredients include: calcium phosphate dibasic, crospovidone, lactose, microcrystalline cellulose, and povidone.
+Additionally, the 10 mg tablet contains croscarmellose sodium, ferric oxide red, and sodium stearyl fumarate; the 20 mg tablet contains croscarmellose sodium, ferric oxide yellow, and sodium stearyl fumarate; the 40 mg tablet contains croscarmellose sodium, FD&C Blue No. 1, sodium stearyl fumarate, and Yellow D&C No. 10; and the 80 mg tablet contains magnesium stearate.

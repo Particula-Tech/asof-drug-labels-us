@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-The patient should be placed on a standard cholesterol-lowering diet before receiving pravastatin sodium and should continue on this diet during treatment with pravastatin (see NCEP Treatment Guidelines for details on dietary therapy).
+The patient should be placed on a standard cholesterol-lowering diet before receiving pravastatin sodium tablets, USP and should continue on this diet during treatment with pravastatin sodium tablets, USP (see NCEP Treatment Guidelines for details on dietary therapy).
 
-Pravastatin can be administered orally as a single dose at any time of the day, with or without food.
+Pravastatin sodium tablets, USP can be administered orally as a single dose at any time of the day, with or without food.
 Since the maximal effect of a given dose is seen within 4 weeks, periodic lipid determinations should be performed at this time and dosage adjusted according to the patient’s response to therapy and established treatment guidelines.
 
 ## Adult Patients
@@ -30,6 +30,5 @@ Most patients treated with this combination received a maximum pravastatin sodiu
 
 ## Concomitant Therapy
 
-The lipid-lowering effects of pravastatin on Total- and LDL-cholesterol are enhanced when combined with a bile-acid-binding resin.
-When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin should be given either 1 hour or more before or at least 4 hours following the resin.
-(See also ADVERSE REACTIONS, ConcomitantTherapy.)
+The lipid-lowering effects of pravastatin sodium tablets, USP on Total- and LDL-cholesterol are enhanced when combined with a bile-acid-binding resin.
+When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin sodium tablets, USP should be given either 1 hour or more before or at least 4 hours following the resin (see ADVERSE REACTIONS, Concomitant Therapy).

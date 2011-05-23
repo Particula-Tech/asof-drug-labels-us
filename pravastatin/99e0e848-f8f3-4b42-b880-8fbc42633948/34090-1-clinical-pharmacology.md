@@ -128,10 +128,9 @@ Furthermore, pravastatin attenuated cholestyramine-induced increases in TG level
 ### Hypertriglyceridemia (Fredrickson Type IV)
 
 The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG > 200 mg/dL and LDL-C < 160 mg/dL) was evaluated in a subset of 429 patients.
-For pravastatin-treated subjects, the median (min, max) baseline triglyceride level was 246.0 (200.5, 349.5) mg/dL.
-(See Table 2.)
+For pravastatin-treated subjects, the median (min, max) baseline triglyceride level was 246.0 (200.5, 349.5) mg/dL (see Table 2).
 
-Table 2: Patients with Fredrickson Type IV Hyperlipidemia: Median (25th, 75th percentile) Percent Change from Baseline
+Table 2: Patients With Fredrickson Type IV Hyperlipidemia: Median (25th, 75th Percentile) Percent Change From Baseline
 
 |  | Pravastatin 40 mg (N = 429) | Placebo (N = 430) |
 | --- | --- | --- |
@@ -145,7 +144,7 @@ Table 2: Patients with Fredrickson Type IV Hyperlipidemia: Median (25th, 75th pe
 
 The response to pravastatin in two double-blind crossover studies of 46 patients with genotype E2/E2 and Fredrickson Type III dysbetalipoproteinemia is shown in Table 3.
 
-Table 3: Patients with Fredrickson Type III Dysbetalipoproteinemia: Median (min, max) Percent Change from Baseline
+Table 3: Patients With Fredrickson Type III Dysbetalipoproteinemia: Median (min, max) Percent Change From Baseline
 
 |  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 20) |
 | --- | --- | --- |
@@ -175,9 +174,9 @@ The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (ra
 Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and apolipoprotein B in both children and adolescents (see Table 4).
 The effect of pravastatin treatment in the two age groups was similar.
 
-Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients with Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change from Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
+Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients With Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change From Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
 
-|  | Pravastatin 20 mg (Aged 8 to 13 years)N = 65 | Pravastatin 40 mg (Aged 14 to 18 years) N = 41 | Combined Pravastatin (Aged 8 to 18 years)N = 106 | Combined Placebo (Aged 8 to 18 years)N = 108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
+|  | Pravastatin 20 mg (Aged 8 to 13 years) N = 65 | Pravastatin 40 mg (Aged 14 to 18 years) N = 41 | Combined Pravastatin (Aged 8 to 18 years) N = 106 | Combined Placebo (Aged 8 to 18 years) N = 108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
 | --- | --- | --- | --- | --- | --- |
 | LDL-C | -26.04Significant at p ≤ 0.0001 when compared with placebo. | -21.07 | -24.07 | -1.52 | (-26.74, -18.86) |
 | TC | -20.75 | -13.08 | -17.72 | -0.65 | (-20.40, -13.83) |

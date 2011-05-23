@@ -1,8 +1,7 @@
 # ADVERSE REACTIONS
 
 Pravastatin is generally well tolerated; adverse reactions have usually been mild and transient.
-In 4 month-long placebo-controlled trials, 1.7% of pravastatin-treated patients and 1.2% of placebo-treated patients were discontinued from treatment because of adverse experiences attributed to study drug therapy; this difference was not statistically significant.
-(See also PRECAUTIONS, Geriatric Use).
+In 4 month-long placebo-controlled trials, 1.7% of pravastatin-treated patients and 1.2% of placebo-treated patients were discontinued from treatment because of adverse experiences attributed to study drug therapy; this difference was not statistically significant (see also PRECAUTIONS, Geriatric Use).
 
 ## Adverse Clinical Events
 
@@ -10,11 +9,11 @@ In 4 month-long placebo-controlled trials, 1.7% of pravastatin-treated patients 
 
 All adverse clinical events (regardless of attribution) reported in more than 2% of pravastatin-treated patients in placebo-controlled trials of up to four months duration are identified in Table 6; also shown are the percentages of patients in whom these medical events were believed to be related or possibly related to the drug:
 
-Table 6: Adverse Events in > 2 Percent of Patients Treated with Pravastatin 10 to 40 mg in Short-Term Placebo-Controlled Trials
+Table 6: Adverse Events in > 2 Percent of Patients Treated With Pravastatin 10 to 40 mg in Short-Term Placebo-Controlled Trials
 
 |  | All Events |  | Events Attributed to Study Drug |  |
 | --- | --- | --- | --- | --- |
-| Body System/Event | Pravastatin (N = 900) % of patients | Placebo(N = 411)% of patients | Pravastatin(N = 900)% of patients | Placebo(N = 411)% of patients |
+| Body System/Event | Pravastatin (N = 900) % of patients | Placebo (N = 411) % of patients | Pravastatin (N = 900) % of patients | Placebo (N = 411) % of patients |
 | Cardiovascular |  |  |  |  |
 | Cardiac Chest Pain | 4.0 | 3.4 | 0.1 | 0.0 |
 | Dermatologic |  |  |  |  |
@@ -54,7 +53,7 @@ In these long-term trials, the most common reasons for discontinuation were mild
 Collectively, these trials represent 47,613 patient-years of exposure to pravastatin.
 Events believed to be of probable, possible, or uncertain relationship to study drug, occurring in at least 1% of patients treated with pravastatin in these studies are identified in Table 7.
 
-Table 7: Adverse Events in ≥ 1 Percent of Patients Treated with Pravastatin 40 mg in Long-Term Placebo-Controlled Trials
+Table 7: Adverse Events in ≥ 1 Percent of Patients Treated With Pravastatin 40 mg in Long-Term Placebo-Controlled Trials
 
 | Body System/Event | Pravastatin (N = 10,764) % of patients | Placebo (N = 10,719) % of patients |
 | --- | --- | --- |
@@ -140,10 +139,8 @@ Pravastatin has been administered concurrently with cholestyramine, colestipol, 
 Preliminary data suggest that the addition of either probucol or gemfibrozil to therapy with lovastatin or pravastatin is not associated with greater reduction in LDL-cholesterol than that achieved with lovastatin or pravastatin alone.
 No adverse reactions unique to the combination or in addition to those previously reported for each drug alone have been reported.
 Myopathy and rhabdomyolysis (with or without acute renal failure) have been reported when another HMG-CoA reductase inhibitor was used in combination with immunosuppressive drugs, gemfibrozil, erythromycin, or lipid-lowering doses of nicotinic acid.
-Concomitant therapy with HMG-CoA reductase inhibitors and these agents is generally not recommended.
-(See WARNINGS, Skeletal Muscle and PRECAUTIONS, Drug Interactions.)
+Concomitant therapy with HMG-CoA reductase inhibitors and these agents is generally not recommended (see WARNINGS, Skeletal Muscle and PRECAUTIONS, Drug Interactions).
 
 ## Pediatric Patients
 
-In a two year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH, the safety and tolerability profile of pravastatin was generally similar to that of placebo.
-(See CLINICAL PHARMACOLOGY, Pediatric Clinical Study and PRECAUTIONS, Pediatric Use.)
+In a two year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH, the safety and tolerability profile of pravastatin was generally similar to that of placebo (see CLINICAL PHARMACOLOGY, Pediatric Clinical Study and PRECAUTIONS, Pediatric Use).

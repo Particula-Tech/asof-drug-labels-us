@@ -3,7 +3,7 @@
 1. Shepherd J, et al. Prevention of Coronary Heart Disease with Pravastatin in Men with Hypercholesterolemia (WOS).
    N Engl J Med 1995;333:1301-7.
 2. Pitt B, et al. Pravastatin Limitation of Atherosclerosis in the Coronary Arteries (PLAC I): Reduction in Atherosclerosis Progression and Clinical Events.
-   J Am CollCardiol 1995;26:1133-9.
+   J Am Coll Cardiol 1995;26:1133-9.
 3. Jukema JW, et al. Effects of Lipid Lowering by Pravastatin on Progression and Regression of Coronary Artery Disease in Symptomatic Man With Normal to Moderately Elevated Serum Cholesterol Levels.
    The Regression Growth Evaluation Statin Study (REGRESS).
    Circulation 1995; 91:2528-2540.

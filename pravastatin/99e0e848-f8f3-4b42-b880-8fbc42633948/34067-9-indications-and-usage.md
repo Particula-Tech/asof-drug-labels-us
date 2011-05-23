@@ -27,7 +27,7 @@ Pravastatin sodium tablets are indicated as an adjunct to diet and lifestyle mod
    - there is a positive family history of premature cardiovascular disease or
    - two or more other CVD risk factors are present in the patient.
 
-Lipid-altering agents should be used in addition to a diet restricted in saturated fat and cholesterol when the response to diet and other nonpharmacological measures alone has been inadequate (see NCEP Treatment Guidelines below).
+Lipid-altering agents should be used in addition to a diet restricted in saturated fat and cholesterol when the response to diet and other nonpharmacological measures alone has been inadequate (see NCEP Treatment Guidelines).
 
 Prior to initiating therapy with pravastatin, secondary causes for hypercholesterolemia (e.g., poorly controlled diabetes mellitus, hypothyroidism, nephrotic syndrome, dysproteinemias, obstructive liver disease, other drug therapy, alcoholism) should be excluded, and a lipid profile performed to measure Total-C, HDL-C, and TG.
 For patients with triglycerides (TG) < 400 mg/dL (< 4.5 mmol/L), LDL-C can be estimated using the following equation:
@@ -54,7 +54,7 @@ Table 5: NCEP Treatment Guidelines: LDL-C Goals and Cutpoints for Therapeutic Li
 After the LDL-C goal has been achieved, if the TG is still ≥ 200 mg/dL, non-HDL-C (Total-C minus HDL-C) becomes a secondary target of therapy.
 Non-HDL-C goals are set 30 mg/dL higher than LDL-C goals for each risk category.
 
-At the time of hospitalization for an acute coronary event, consideration can be given to initiating drug therapy at discharge if the LDL-C is ≥ 130 mg/dL (see NCEP Treatment Guidelines, above).
+At the time of hospitalization for an acute coronary event, consideration can be given to initiating drug therapy at discharge if the LDL-C is ≥ 130 mg/dL (see NCEP Treatment Guidelines).
 
 Since the goal of treatment is to lower LDL-C, the NCEP recommends that LDL-C levels be used to initiate and assess treatment response.
 Only if LDL-C levels are not available, should the Total-C be used to monitor therapy.
