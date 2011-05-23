@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202022"
+  ],
+  "inn": "rilpivirine",
+  "labeler": "CENTOCOR ORTHO BIOTECH",
+  "package_ndcs": [
+    "59676-278-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rilpivirine hydrochloride",
+      "name": "EDURANT"
+    }
+  ],
+  "setid": "03880372-2c68-45c6-a53a-f420c49541d6",
+  "source": "dailymed"
+}
