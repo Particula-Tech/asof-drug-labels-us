@@ -27,9 +27,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010
+May 2011
 
-WLT:5PI
+WLT:6PI

@@ -1,4 +1,6 @@
-# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS
+
+(See also WARNINGS and PRECAUTIONS.)
 
 Adverse events commonly encountered in patients treated with WELLBUTRIN are agitation, dry mouth, insomnia, headache/migraine, nausea/vomiting, constipation, and tremor.
 

@@ -1,6 +1,6 @@
 # Principal Display Panel
 
-NDC -173-0177-55
+NDC 0173-0177-55
 
 WELLBUTRIN®
 
@@ -46,7 +46,7 @@ Rev.
 
 # Principal Display Panel
 
-NDC -173-0178-55
+NDC 0173-0178-55
 
 WELLBUTRIN®
 
