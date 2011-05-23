@@ -25,3 +25,9 @@ Protect from light.
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+REVISED AUGUST 2006
+
+TIM:R15

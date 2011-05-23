@@ -12,15 +12,15 @@ The most common signs and symptoms to be expected with overdosage with a beta-ad
 Therapy with timolol should be discontinued and the patient observed closely.
 The following additional therapeutic measures should be considered:
 
-- (1)Gastric lavage.
-- (2)Symptomatic bradycardia: Use atropine sulfate intravenously in a dosage of 0.25 mg to 2 mg to induce vagal blockade.
+- (1) Gastric lavage.
+- (2) Symptomatic bradycardia: Use atropine sulfate intravenously in a dosage of 0.25 mg to 2 mg to induce vagal blockade.
   If bradycardia persists, intravenous isoproterenol hydrochloride should be administered cautiously.
   In refractory cases the use of a transvenous cardiac pacemaker may be considered.
 - (3) Hypotension: Use sympathomimetic pressor drug therapy, such as dopamine, dobutamine or norepinephrine.
   In refractory cases the use of glucagon hydrochloride has been reported to be useful.
-- (4)Bronchospasm: Use isoproterenol hydrochloride.
+- (4) Bronchospasm: Use isoproterenol hydrochloride.
   Additional therapy with aminophylline may be considered.
-- (5)Acute cardiac failure: Conventional therapy with digitalis, diuretics, and oxygen should be instituted immediately.
+- (5) Acute cardiac failure: Conventional therapy with digitalis, diuretics, and oxygen should be instituted immediately.
   In refractory cases the use of intravenous aminophylline is suggested.
   This may be followed if necessary by glucagon hydrochloride which has been reported to be useful.
-- (6)Heart block (second- or third-degree): Use isoproterenol hydrochloride or a transvenous cardiac pacemaker.
+- (6) Heart block (second- or third-degree): Use isoproterenol hydrochloride or a transvenous cardiac pacemaker.
