@@ -6,7 +6,9 @@ The recommended dose is 500 mg to be administered intramuscularly into the butto
 
 ## 2.2 Dose Modification
 
-Hepatic Impairment: A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock slowly (1 - 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
+Hepatic Impairment:
+
+A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock slowly (1 - 2 minutes) as one 5 mL injection on days 1, 15, 29 and once monthly thereafter.
 
 FASLODEX has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 

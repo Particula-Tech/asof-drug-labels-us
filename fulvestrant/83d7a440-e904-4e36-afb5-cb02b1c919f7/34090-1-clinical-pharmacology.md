@@ -21,7 +21,9 @@ These effects on the ER pathway were also associated with a decrease in Ki67 lab
 
 ## 12.3 Pharmacokinetics
 
-Absorption: The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 3.
+Absorption:
+
+The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 3.
 The additional dose of FASLODEX given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing.
 
 Table 3: Summary of fulvestrant pharmacokinetic parameters [gMean (CV%)] in postmenopausal advanced breast cancer patients after intramuscular administration 500 mg + AD dosing regimen
@@ -68,10 +70,6 @@ Race:
 In the advanced breast cancer treatment trials, the potential for pharmacokinetic differences due to race have been evaluated in 294 women including 87.4% Caucasian, 7.8% Black, and 4.4% Hispanic.
 No differences in fulvestrant plasma pharmacokinetics were observed among these groups.
 In a separate trial, pharmacokinetic data from postmenopausal ethnic Japanese women were similar to those obtained in non-Japanese patients.
-
-Pediatric:
-
-The pharmacokinetics of fulvestrant have not been evaluated in pediatric patients.
 
 Drug-Drug Interactions:
 

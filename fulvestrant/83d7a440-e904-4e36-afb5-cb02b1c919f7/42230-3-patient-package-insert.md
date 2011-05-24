@@ -126,4 +126,4 @@ Ravensburg, Germany
 Made in Germany
 
 Rev.
-09/10
+05/11
