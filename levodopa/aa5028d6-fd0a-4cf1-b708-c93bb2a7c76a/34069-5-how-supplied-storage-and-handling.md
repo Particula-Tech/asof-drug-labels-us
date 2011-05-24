@@ -15,3 +15,7 @@ Dispense in a tight container as defined in the USP using a child-resistant clos
 Keep container tightly closed.
 
 DO NOT STORE ABOVE 30°C (86°F).
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+REVISED JULY 2003 CBLVER:R10
