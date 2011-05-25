@@ -65,6 +65,9 @@ Although maintenance efficacy in adolescent patients with Major Depressive Disor
 
 Safety and effectiveness of Lexapro has not been established in pediatric patients less than 18 years of age with Generalized Anxiety Disorder.
 
+Decrease appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as Lexapro.
+
 ## 8.5 Geriatric Use
 
 Approximately 6% of the 1144 patients receiving escitalopram in controlled trials of Lexapro in major depressive disorder and GAD were 60 years of age or older; elderly patients in these trials received daily doses of Lexapro between 10 and 20 mg.
