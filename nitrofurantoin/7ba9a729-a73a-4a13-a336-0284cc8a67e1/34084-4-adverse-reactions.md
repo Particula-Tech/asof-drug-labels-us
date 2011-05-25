@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-In clinical trials of nitrofurantoin monohydrate/macrocrystals capsules, the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
+In clinical trials of nitrofurantoin monohydrate/macrocrystals, the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
 Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency:
 
 Gastrointestinal: Diarrhea, dyspepsia, abdominal pain, constipation, emesis
@@ -19,13 +19,11 @@ The following additional clinical adverse events have been reported with the use
 
 Gastrointestinal: Sialadenitis, pancreatitis.
 There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin.
-The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
-(See WARNINGS.)
+The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment (see WARNINGS).
 
 Neurologic: Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
-Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy.
-(See WARNINGS.)
+Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy (see WARNINGS).
 
 Asthenia, vertigo, and nystagmus also have been reported with the use of nitrofurantoin.
 
@@ -49,15 +47,13 @@ If the symptoms are not recognized as being drug-related and nitrofurantoin ther
 
 Acute pulmonary reactions are commonly manifested by fever, chills, cough, chest pain, dyspnea, pulmonary infiltration with consolidation or pleural effusion on x-ray, and eosinophilia.
 Acute reactions usually occur within the first week of treatment and are reversible with cessation of therapy.
-Resolution often is dramatic.
-(See WARNINGS.)
+Resolution often is dramatic (see WARNINGS).
 
 Changes in EKG (e.g., non-specific ST/T wave changes, bundle branch block) have been reported in association with pulmonary reactions.
 
 Cyanosis has been reported rarely.
 
-Hepatic: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
-(See WARNINGS.)
+Hepatic: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely (see WARNINGS).
 
 Allergic: Lupus-like syndrome associated with pulmonary reaction to nitrofurantoin has been reported.
 Also, angioedema; maculopapular, erythematous, or eczematous eruptions; anaphylaxis; arthralgia; myalgia; drug fever; and chills have been reported.
@@ -69,7 +65,7 @@ Hematologic: Cyanosis secondary to methemoglobinemia has been reported rarely.
 
 Miscellaneous: As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
 
-In clinical trials of nitrofurantoin monohydrate/macrocrystals capsules, the most frequent laboratory adverse events (1-5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
+In clinical trials of nitrofurantoin monohydrate/macrocrystals, the most frequent laboratory adverse events (1% to 5%), without regard to drug relationship, were as follows: eosinophilia, increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus.
 The following laboratory adverse events also have been reported with the use of nitrofurantoin: glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.

@@ -15,4 +15,4 @@ Molecular Weight: 256.17
 
 Inactive Ingredients
 
-Each capsule contains carbomer 934P, colloidal silicon dioxide, corn starch, compressible sugar, D&C Yellow #10, edible white ink, FD&C Blue #1, FD&C Red #40, gelatin, lactose monohydrate, magnesium stearate, povidone, talc and titanium dioxide.
+Each capsule contains carbomer 934P, colloidal silicon dioxide, corn starch, compressible sugar, D&C yellow No. 10, edible white ink, FD&C blue No. 1, FD&C red No. 40, gelatin, lactose monohydrate, magnesium stearate, povidone, talc and titanium dioxide.

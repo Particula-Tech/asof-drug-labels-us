@@ -4,9 +4,9 @@ Each nitrofurantoin monohydrate/macrocrystals capsule contains two forms of nitr
 Twenty-five percent is macrocrystalline nitrofurantoin, which has slower dissolution and absorption than nitrofurantoin monohydrate.
 The remaining 75% is nitrofurantoin monohydrate contained in a powder blend which, upon exposure to gastric and intestinal fluids, forms a gel matrix that releases nitrofurantoin over time.
 Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg nitrofurantoin monohydrate/macrocrystals capsules are similar to those of the 50 mg or 100 mg nitrofurantoin macrocrystals capsules.
-Approximately 20%-25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours.
+Approximately 20% to 25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours.
 
-Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg nitrofurantoin monohydrate/macrocrystals capsule are low, with peak levels usually less than 1 mcg/mL.
+Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg nitrofurantoin monohydrate/macrocrystals capsule are low, with peak levels usually less than 1 µg/mL.
 Nitrofurantoin is highly soluble in urine, to which it may impart a brown color.
 When nitrofurantoin monohydrate/macrocrystals capsules are administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%.
 
@@ -20,7 +20,7 @@ The broad-based nature of this mode of action may explain the lack of acquired b
 Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
 Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin, in the form of nitrofurantoin monohydrate/macrocrystals capsules, has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections: (See INDICATIONS AND USAGE.)
+Nitrofurantoin, in the form of nitrofurantoin monohydrate/macrocrystals capsules, has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
 
 Gram-Positive Aerobes
 

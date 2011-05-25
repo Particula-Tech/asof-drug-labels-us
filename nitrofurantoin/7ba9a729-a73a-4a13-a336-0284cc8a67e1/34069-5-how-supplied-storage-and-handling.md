@@ -1,5 +1,11 @@
 # HOW SUPPLIED
 
-Nitrofurantoin monohydrate/macrocrystals capsules are available as 100 mg black and ivory opaque capsules imprinted “ 122” on the cap and body and supplied in bottles of 100 and 1,000.
+Nitrofurantoin monohydrate/macrocrystals capsules, for oral administration, are available as:
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+100 mg: Black and ivory opaque capsules imprinted “E 122” on the cap and body and supplied as:
+
+NDC 0185-0122-01 bottles of 100
+
+NDC 0185-0122-10 bottles of 1,000
+
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].

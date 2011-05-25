@@ -1,7 +1,7 @@
 # WARNINGS
 
 ACUTE, SUBACUTE, OR CHRONIC PULMONARY REACTIONS HAVE BEEN OBSERVED IN PATIENTS TREATED WITH NITROFURANTOIN.
-IF THESE REACTIONS OCCUR, NITROFURANTOIN MONOHYDRATE/ MACROCRYSTALS CAPSULES SHOULD BE DISCONTINUED AND APPROPRIATE MEASURES TAKEN.
+IF THESE REACTIONS OCCUR, NITROFURANTOIN MONOHYDRATE/ MACROCRYSTALS SHOULD BE DISCONTINUED AND APPROPRIATE MEASURES TAKEN.
 REPORTS HAVE CITED PULMONARY REACTIONS AS A CONTRIBUTING CAUSE OF DEATH.
 
 CHRONIC PULMONARY REACTIONS (DIFFUSE INTERSTITIAL PNEUMONITIS OR PULMONARY FIBROSIS, OR BOTH) CAN DEVELOP INSIDIOUSLY.
@@ -9,10 +9,14 @@ THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX
 CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
 (SEE RESPIRATORY REACTIONS.)
 
+## Hepatotoxicity
+
 Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
 Fatalities have been reported.
 The onset of chronic active hepatitis may be insidious, and patients should be monitored periodically for changes in biochemical tests that would indicate liver injury.
 If hepatitis occurs, the drug should be withdrawn immediately and appropriate measures should be taken.
+
+## Neuropathy
 
 Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
@@ -21,38 +25,46 @@ Patients receiving long-term therapy should be monitored periodically for change
 
 Optic neuritis has been reported rarely in postmarketing experience with nitrofurantoin formulations.
 
+## Nemolytic Anemia
+
 Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin.
 Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients.
 This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin.
 Hemolysis is an indication for discontinuing nitrofurantoin monohydrate/macrocrystals capsules; hemolysis ceases when the drug is withdrawn.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including nitrofurantoin, and may range from mild to life threatening.
-Therefore, it is important to consider this diagnosis in patients with diarrhea subsequent to the administration of antibacterial agents.
+## Clostridium difficile-Associated Diarrhea
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of antibiotic-associated colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
-## General
-
-Prescribing nitrofurantoin monohydrate/macrocrystals capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
 ## Information for Patients
 
-Patients should be advised to take nitrofurantoin monohydrate/macrocrystals capsules with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption.
+Patients should be advised to take nitrofurantoin monohydrate/macrocrystals with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption.
 Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms occur during therapy.
 
-Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking nitrofurantoin monohydrate/macrocrystals capsules.
+Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking nitrofurantoin monohydrate/macrocrystals.
 
-Patients should be counseled that antibacterial drugs including nitrofurantoin monohydrate/macrocrystals capsules should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including nitrofurantoin monohydrate/macrocrystals should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When nitrofurantoin monohydrate/macrocrystals capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin monohydrate/macrocrystals capsules or other antibacterial drugs in the future.
+When nitrofurantoin monohydrate/macrocrystals are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin monohydrate/macrocrystals or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
+## General
+
+Prescribing nitrofurantoin monohydrate/macrocrystals in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Interactions
 
@@ -92,7 +104,7 @@ Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredic
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B.
+#### Pregnancy Category B
 
 Several reproduction studies have been performed in rabbits and rats at doses up to six times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to nitrofurantoin.
 In a single published study conducted in mice at 68 times the human dose (based on mg/kg administered to the dam), growth retardation and a low incidence of minor and common malformations were observed.
@@ -100,7 +112,7 @@ However, at 25 times the human dose, fetal malformations were not observed; the 
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic Effects
+### Non-teratogenic Effects
 
 Nitrofurantoin has been shown in one published transplacental carcinogenicity study to induce lung papillary adenomas in the F1 generation mice at doses 19 times the human dose on a mg/kg basis.
 The relationship of this finding to potential human carcinogenesis is presently unknown.
@@ -113,24 +125,22 @@ See CONTRAINDICATIONS.
 ## Nursing Mothers
 
 Nitrofurantoin has been detected in human breast milk in trace amounts.
-Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-(See CONTRAINDICATIONS.)
+Because of the potential for serious adverse reactions from nitrofurantoin in nursing infants under one month of age, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see CONTRAINDICATIONS).
 
 ## Pediatric Use
 
-Nitrofurantoin monohydrate/macrocrystals capsules are contraindicated in infants below the age of one month.
-(See CONTRAINDICATIONS.)
+Nitrofurantoin monohydrate/macrocrystals are contraindicated in infants below the age of one month (see CONTRAINDICATIONS).
 Safety and effectiveness in pediatric patients below the age of twelve years have not been established.
 
 ## Geriatric Use
 
-Clinical studies of nitrofurantoin monohydrate/macrocrystals capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of nitrofurantoin monohydrate/macrocrystals did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy.
 As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS).
 Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS).
 
-In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing nitrofurantoin monohydrate/macrocrystals capsules.
+In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing nitrofurantoin monohydrate/macrocrystals.
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications (see CONTRAINDICATIONS).
 Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
