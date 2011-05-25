@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020064"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Alvogen Inc.",
+  "package_ndcs": [
+    "47781-303-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitrofurantoin monohydrate/macrocrystalline",
+      "name": "Nitrofurantoin Monohydrate/ Macrocrystalline"
+    }
+  ],
+  "setid": "1a86deef-0887-43b1-bb96-dbc222b15931",
+  "source": "dailymed"
+}

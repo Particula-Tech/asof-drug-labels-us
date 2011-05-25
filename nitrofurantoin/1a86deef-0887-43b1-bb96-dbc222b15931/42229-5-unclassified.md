@@ -1,0 +1,1 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Nitrofurantoin Monohydrate/Macrocrystals Capsules and other antibacterial drugs, Nitrofurantoin Monohydrate/Macrocrystals Capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
