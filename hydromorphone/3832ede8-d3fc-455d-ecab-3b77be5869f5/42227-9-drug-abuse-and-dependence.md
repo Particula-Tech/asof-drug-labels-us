@@ -14,9 +14,10 @@ It is characterized by behaviors that include one or more of the following: impa
 Drug addiction is a treatable disease, utilizing a multidisciplinary approach, but relapse is common.
 
 “Drug seeking” behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with, forging or counterfeiting prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).“Doctor shopping” to obtain additional prescriptions is common among drug abusers, people suffering from untreated addiction and criminals seeking drugs to sell.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with, forging or counterfeiting prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+“Doctor shopping” to obtain additional prescriptions is common among drug abusers, people suffering from untreated addiction and criminals seeking drugs to sell.
 
-Physiciansshould be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
 Since hydromorphone hydrochloride may be diverted for non-medical use, careful record keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
 

@@ -6,9 +6,5 @@ CII
 
 Rx only
 
-WARNING: HYDROMORPHONE HYDROCHLORIDE INJECTION (HIGH POTENCY FORMULATION) IS A HIGHLY CONCENTRATED SOLUTION OF HYDROMORPHONE, A POTENT SCHEDULE II CONTROLLED OPIOID AGONIST, INTENDED FOR USE IN OPIOID-TOLERANT PATIENTS.
-DO NOT CONFUSE HYDROMORPHONE HYDROCHLORIDE INJECTION (HIGH POTENCY FORMULATION) WITH STANDARD PARENTERAL FORMULATIONS OF HYDROMORPHONE HYDROCHLORIDE OR OTHER OPIOIDS.
-OVERDOSE AND DEATH COULD RESULT.
-
-SCHEDULE II OPIOID AGONISTS, INCLUDING MORPHINE, OXYMORPHONE, OXYCODONE, FENTANYL AND METHADONE, HAVE THE HIGHEST POTENTIAL FOR ABUSE AND RISK OF PRODUCING RESPIRATORY DEPRESSION.
-ALCOHOL, OTHER OPIOIDS AND CENTRAL NERVOUS SYSTEM DEPRESSANTS (SEDATIVE-HYPNOTICS) POTENTIATE THE RESPIRATORY DEPRESSANT EFFECTS OF HYDROMORPHONE, INCREASING THE RISK OF RESPIRATORY DEPRESSION THAT MIGHT RESULT IN DEATH.
+| WARNING: Hydromorphone Hydrochloride Injection (high potency, 10 mg/mL vials) is a more concentrated solution of hydromorphone than standard parenteral formulations, and is intended for use only in opioid-tolerant patients. Do not confuse hydromorphone hydrochloride injection (high potency formulation) with standard parenteral formulations of hydromorphone or other opioids, as overdose and death could result.Hydromorphone hydrochloride injection (high potency formulation) contains hydromorphone, a potent Schedule II opioid agonist. Schedule II opioid agonists, including morphine, oxymorphone, hydromorphone, oxycodone, fentanyl and methadone, have the highest potential for abuse and risk of producing respiratory depression. Ethanol, other opioids, and other central nervous system depressants (e.g., sedative-hypnotics, skeletal muscle relaxants) can potentiate the respiratory-depressant effects of hydromorphone and increase the risk of adverse outcome, including death. |
+| --- |
