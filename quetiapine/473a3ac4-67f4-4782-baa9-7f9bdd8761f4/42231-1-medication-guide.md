@@ -1,6 +1,6 @@
 # 17.2 MEDICATION GUIDE
 
-Medication Guide
+MEDICATION GUIDE
 
 SEROQUEL XR (SER-oh-kwell)
 
@@ -277,7 +277,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35537–06
+SIC 35537–07
 
 Rev.
-3/2011
+5/2011
