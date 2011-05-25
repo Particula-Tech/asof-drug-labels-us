@@ -12,7 +12,7 @@ NDC 0378-2042-01 bottles of 100 tablets
 Bromocriptine Mesylate Capsules, USP are available containing 5 mg of bromocriptine (as the mesylate).
 
 The 5 mg capsule is a hard-shell gelatin capsule with light brown opaque cap and ivory opaque body, filled with a white to off-white powder.
-The capsule is axially printed withMYLAN over 7096 in black ink on both the cap and body.
+The capsule is axially printed with MYLAN over 7096 in black ink on both the cap and body.
 They are available as follows:
 
 NDC 0378-7096-93 bottles of 30 capsules
@@ -25,3 +25,7 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+REVISED AUGUST 2006 BROMTC:R3

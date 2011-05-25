@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076962",
+    "ANDA077226"
+  ],
   "inn": "bromocriptine",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -8,7 +11,18 @@
     "0378-7096-01",
     "0378-7096-93"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine Mesylate"
+    },
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine Mesylate"
+    }
+  ],
   "setid": "72d8eefe-c066-41b6-8922-9586f1cf47a1",
   "source": "dailymed"
 }
