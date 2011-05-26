@@ -21,7 +21,7 @@ Victoza 0.6 mg is not effective for glycemic control and is intended only as a s
 In this 52-week trial, 746 patients were randomized to Victoza 1.2 mg, Victoza 1.8 mg, or glimepiride 8 mg.
 Patients who were randomized to glimepiride were initially treated with 2 mg daily for two weeks, increasing to 4 mg daily for another two weeks, and finally increasing to 8 mg daily.
 Treatment with Victoza 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 5).
-The percentage of patients who discontinued due to ineffective therapy was 3.6% in the Victoza 1.8 mg treatment group, 6.0% in the Victoza 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group
+The percentage of patients who discontinued due to ineffective therapy was 3.6% in the Victoza 1.8 mg treatment group, 6.0% in the Victoza 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
 
 Table 5 Results of a 52-week monotherapy trialIntent-to-treat population using last observation on study
 

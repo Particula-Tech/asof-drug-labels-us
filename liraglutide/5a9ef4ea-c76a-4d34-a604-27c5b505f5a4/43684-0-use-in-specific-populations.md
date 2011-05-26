@@ -46,8 +46,9 @@ No overall differences in safety or effectiveness were observed between these pa
 
 ## 8.6 Renal Impairment
 
-There is limited experience in patients with mild, moderate, and severe renal impairment, including end-stage renal disease.
-Therefore, Victoza should be used with caution in this patient population.
+There is limited experience with Victoza in patients with mild, moderate, and severe renal impairment, including end-stage renal disease.
+However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
+Victoza should be used with caution in this patient population.
 No dose adjustment of Victoza is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

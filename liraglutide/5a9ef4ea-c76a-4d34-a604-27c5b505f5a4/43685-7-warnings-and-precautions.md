@@ -56,6 +56,16 @@ In the clinical trials of at least 26 weeks duration, hypoglycemia requiring the
 Six of these 7 patients treated with Victoza were also taking a sulfonylurea.
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea or other insulin secretagogues [see Adverse Reactions (6.1)].
 
-## 5.4 Macrovascular Outcomes
+## 5.4 Renal Impairment
+
+Victoza has not been found to be directly nephrotoxic in animal studies or clinical trials.
+There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis in Victoza-treated patients [see Adverse Reactions (6.2)].
+Some of these events were reported in patients without known underlying renal disease.
+A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration [see Adverse Reactions (6.1)].
+Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status.
+Altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including Victoza.
+Use caution when initiating or escalating doses of Victoza in patients with renal impairment [see Use in Specific Populations (8.6)].
+
+## 5.5 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with Victoza or any other antidiabetic drug.

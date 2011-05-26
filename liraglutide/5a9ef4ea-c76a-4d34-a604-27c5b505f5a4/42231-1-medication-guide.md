@@ -152,6 +152,14 @@ Victoza may cause serious side effects, including:
 Talk to your healthcare provider about how to recognize and treat low blood sugar.
 Make sure that your family and other people who are around you a lot know how to recognize and treat low blood sugar.
 
+- Kidney problems (kidney failure).
+  Victoza may cause nausea, vomiting or diarrhea leading to loss of fluids (dehydration).
+  Dehydration may cause kidney failure which can lead to the need for dialysis.
+  This can happen in people who have never had kidney problems before.
+  Drinking plenty of fluids may reduce your chance of dehydration.
+
+Call your healthcare provider right away if you have nausea, vomiting, or diarrhea that does not go away, or if you cannot drink liquids by mouth.
+
 Common side effects of Victoza include:
 
 - headache
@@ -229,9 +237,9 @@ Princeton, NJ 08540
 
 1-877-484-2869
 
-Issued: January 2010
+Issued: May 18, 2011
 
-Version: 1
+Version: 2
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -241,7 +249,7 @@ Victoza® is covered by US Patent Nos. 6,268,343, 6,458,924 and 7,235,627 and ot
 
 Victoza® pen is covered by US Patent Nos. 6,004,297, 6,235,004, 6,582,404 and other patents pending.
 
-© 2010 Novo Nordisk A/S
+© 2010-2011 Novo Nordisk
 
 PATIENT INSTRUCTIONS FOR USE
 

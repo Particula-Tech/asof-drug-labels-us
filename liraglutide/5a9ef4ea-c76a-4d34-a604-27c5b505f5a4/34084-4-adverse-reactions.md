@@ -176,3 +176,14 @@ Laboratory Tests
 In the five clinical trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of Victoza-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
 The significance of this isolated finding is unknown.
+
+## 6.2 Post-Marketing Experience
+
+The following additional adverse reactions have been reported during post-approval use of Victoza.
+Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal: nausea, vomiting and diarrhea sometimes resulting in dehydration.
+[see Warnings and Precautions (5.4) and Patient Counseling Information (17.2)]
+
+Renal and Urinary Disorders: increased serum creatinine, acute renal failure or worsening of chronic renal failure, which may sometimes require hemodialysis.
+[see Warnings and Precautions (5.4) and Patient Counseling Information (17.2)]
