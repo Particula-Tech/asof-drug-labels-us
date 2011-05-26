@@ -46,16 +46,31 @@ Do not take fluconazole if you take certain medicines.
 They can cause serious problems.
 Therefore, tell your doctor about all the medicines you take including:
 
-- diabetes medicines you take by mouth such as glyburide, tolbutamide, glipizide
+- diabetes medicines such as glyburide, tolbutamide, glipizide
+- blood pressure medicines like hydrochlorothiazide, losartan, amlodipine, nifedipine or felodipine
 - blood thinners such as warfarin
-- cyclosporine (used to prevent rejection of organ transplants)
-- rifampin or rifabutin (used for tuberculosis)
-- astemizole (used for allergies)
-- tacrolimus (used to prevent rejection of organ transplants)
-- phenytoin (used for seizures)
-- theophylline (used for asthma)
-- cisapride (Propulsid®†; used for stomach acid problems)
-- terfenadine (Seldane®‡; used for allergies) Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
+- cyclosporine, tacrolimus or sirolimus (used to prevent rejection of organ transplants)
+- rifampin or rifabutin for tuberculosis
+- astemizole for allergies
+- phenytoin or carbamazepine to control seizures
+- theophylline to control asthma
+- cisapride for heartburn
+- quinidine (used to correct disturbances in heart rhythm)
+- amitriptyline or nortriptyline for depression
+- pimozide for psychiatric illness
+- amphotericin B or voriconazole for fungal infections
+- erythromycin for bacterial infections
+- cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
+- fentanyl, afentanil or methadone for chronic pain
+- halofantrine for malaria
+- lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
+- non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
+- prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
+- antiviral medications used to treat HIV like saquinavir or zidovudine
+- vitamin A nutritional supplement
+
+Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
+
 - are taking any over-the-counter medicines you can buy without a prescription, including natural or herbal remedies
 - have any liver problems.
 - have any other medical conditions
@@ -64,13 +79,13 @@ Therefore, tell your doctor about all the medicines you take including:
 - are breast-feeding.
   Fluconazole can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
-- are allergic to any of the ingredients in fluconazole.
-  The main ingredient of Fluconazole tablet is fluconazole.
+- are allergic to any of the ingredients in fluconazole tablets.
+  The main ingredient of fluconazole tablets is fluconazole.
   If you need to know the inactive ingredients, ask your doctor or pharmacist.
 
 ## Who Should Not Take Fluconazole?
 
-To avoid a possible serious reaction, do NOT take fluconazole if you are taking cisapride (Propulsid®†) since it can cause changes in heartbeat in some people if taken with fluconazole.
+To avoid a possible serious reaction, do NOT take fluconazole if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with fluconazole.
 
 ## How Should I Take Fluconazole
 
@@ -84,7 +99,7 @@ If there is no change in your symptoms after a few days, call your doctor.
 
 Directions: Push tablet through foil and take by mouth
 
-Just swallow 1 Fluconazole tablet to treat your vaginal yeast infection.
+Just swallow 1 fluconazole tablet to treat your vaginal yeast infection.
 
 ## What Should I Avoid While Taking Fluconazole?
 
@@ -128,7 +143,7 @@ Keep fluconazole and all medicines out of the reach of children.
 
 ## General Advice About Prescription Medicines
 
-Medicines are sometimes prescribed for conditions that are mentioned in patient information leaflets.
+Medicines are sometimes prescribed for conditions other than those mentioned in patient information leaflets.
 Do not use fluconazole for a condition for which it was not prescribed.
 Do not give fluconazole to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -136,10 +151,6 @@ It may harm them.
 This leaflet summarizes the most important information about fluconazole.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about fluconazole that is written for health professionals.
-
-† Propulsid is a registered trademark of Janssen Pharmaceutica
-
-‡ Seldane is registered trademark of Hoechst Marion Roussel Inc. (now Aventis Pharmaceuticals)
 
 Manufactured by:
 
@@ -152,4 +163,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-May 2010
+Revised: May 2011

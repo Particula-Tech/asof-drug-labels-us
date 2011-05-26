@@ -33,7 +33,7 @@ A dosage of 400 mg once daily may be used, based on medical judgment of the pati
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10-12 weeks after the cerebrospinal fluid becomes culture negative.
 The recommended dosage of fluconazole for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
 
-Prophylaxis in patients undergoing bone marrow transplantation: The recommended fluconazole daily dosage for the prevention of candidiasis of patients undergoing bone marrow transplantation is 400 mg, once daily.
+Prophylaxis in patients undergoing bone marrow transplantation: The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
 Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
 
 ## Dosage and Administration in Children:
@@ -102,3 +102,5 @@ K x linear length or height (cm) serum creatinine (mg/100 mL)
 ## Administration
 
 Fluconazole may be administered orally.
+
+Fluconazole can be taken with or without food.

@@ -15,7 +15,7 @@ The therapeutic cure rate, defined as a complete resolution of signs and symptom
 | Enrolled | 448 | 422 |
 | Evaluable at Late Follow-up | 347 (77%) | 327 (77%) |
 | Clinical cure | 239/347 (69%) | 235/327 (72%) |
-| Mycologic erad. | 213/347 (61%) | 196/327 (60%) |
+| Mycologic eradication | 213/347 (61%) | 196/327 (60%) |
 | Therapeutic cure | 190/347 (55%) | 179/327 (55%) |
 
 Approximately three-fourths of the enrolled patients had acute vaginitis (<4 episodes/12 months) and achieved 80% clinical cure, 67% mycologic eradication and 59% therapeutic cure when treated with a 150 mg fluconazole tablet administered orally.
@@ -59,4 +59,4 @@ Mycologically, 76% of fluconazole treated patients had the infecting organism er
 | Mycological eradicationSubjects without follow-up cultures for any reason were considered nonevaluable for mycological response. | 55/72 (76%) | 6/54 (11%) |
 
 The proportion of patients with clinical relapse 2 weeks after the end of treatment was 14% for subjects receiving fluconazole and 16% for subjects receiving nystatin.
-At 4 weeks after the end of treatment the percentages of patients with clinical relapse were 22% for fluconazole and 23% for nystatin.
+At 4 weeks after the end of treatment, the percentages of patients with clinical relapse were 22% for fluconazole and 23% for nystatin.

@@ -1,8 +1,6 @@
 # OVERDOSAGE
 
-There have been reports of overdosage with fluconazole.
-A 42-year-old patient infected with human immunodeficiency virus developed hallucinations and exhibited paranoid behavior after reportedly ingesting 8200 mg of fluconazole.
-The patient was admitted to the hospital, and his condition resolved within 48 hours.
+There have been reports of overdose with fluconazole accompanied by hallucination and paranoid behavior.
 
 In the event of overdose, symptomatic treatment (with supportive measures and gastric lavage if clinically indicated) should be instituted.
 

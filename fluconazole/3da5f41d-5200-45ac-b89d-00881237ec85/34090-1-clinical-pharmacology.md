@@ -9,13 +9,17 @@ Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 an
 
 In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 μg/mL (range: 4.12 to 8.08 μg/mL) and after single oral doses of 50 - 400 mg, fluconazole plasma concentrations and AUC (area under the plasma concentration-time curve) are dose proportional.
 
+The Cmax and AUC data from a food-effect study involving administration of fluconazole tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that exposure to the drug is not affected by food.
+Therefore, fluconazole may be taken without regard to meals.
+(see DOSAGE AND ADMINISTRATION.)
+
 Administration of a single oral 150 mg tablet of fluconazole to ten lactating women resulted in a mean Cmax of 2.61 μg/mL (range: 1.57 to 3.65 μg/mL).
 
 Steady-state concentrations are reached within 5 - 10 days following oral doses of 50 - 400 mg given once daily.
 Administration of a loading dose (on day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
 Plasma protein binding is low (11 - 12%).
-Following either single- or multiple-oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see table below).
+Following either single- or multiple oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see table below).
 In normal volunteers, saliva concentrations of fluconazole were equal to or slightly greater than plasma concentrations regardless of dose, route, or duration of dosing.
 In patients with bronchiectasis, sputum concentrations of fluconazole following a single 150 mg oral dose were equal to plasma concentrations at both 4 and 24 hours post dose.
 In patients with fungal meningitis, fluconazole concentrations in the CSF are approximately 80% of the corresponding plasma concentrations.
@@ -29,13 +33,13 @@ A single oral 150 mg dose of fluconazole administered to 14 patients penetrated 
 | Cerebrospinal fluid Independent of degree of meningeal inflammation. | 0.5-0.9 |
 | Saliva | 1 |
 | Sputum | 1 |
-| Blister Fluid | 1 |
+| Blister fluid | 1 |
 | Urine | 10 |
-| Normal Skin | 10 |
+| Normal skin | 10 |
 | Nails | 1 |
-| Blister Skin | 2 |
-| Vaginal Tissue | 1 |
-| Vaginal Fluid | 0.4-0.7 |
+| Blister skin | 2 |
+| Vaginal tissue | 1 |
+| Vaginal fluid | 0.4-0.7 |
 
 In normal volunteers, fluconazole is cleared primarily by renal excretion, with approximately 80% of the administered dose appearing in the urine as unchanged drug.
 About 11% of the dose is excreted in the urine as metabolites.
@@ -85,7 +89,7 @@ Oral contraceptives: Oral contraceptives were administered as a single dose both
 There was no significant difference in ethinyl estradiol or levonorgestrel AUC after the administration of 50 mg of fluconazole.
 The mean increase in ethinyl estradiol AUC was 6% (range: –47 to 108%) and levonorgestrel AUC increased 17% (range: –33 to 141%).
 
-In a second study, twenty-five normal females received daily doses of both 200 mg fluconazole or placebo for two, ten-day periods.
+In a second study, twenty-five normal females received daily doses of both 200 mg fluconazole tablets or placebo for two, ten-day periods.
 The treatment cycles were one month apart with all subjects receiving fluconazole during one cycle and placebo during the other.
 The order of study treatment was random.
 Single doses of an oral contraceptive tablet containing levonorgestrel and ethinyl estradiol were administered on the final treatment day (day 10) of both cycles.
@@ -152,12 +156,12 @@ Fluconazole 200 mg was administered daily from days 9 through 15.
 Fluconazole did not affect terfenadine plasma concentrations.
 Terfenadine acid metabolite AUC increased 36% ± 36% (range: 7 to 102%) from day 8 to day 15 with the concomitant administration of fluconazole.
 There was no change in cardiac repolarization as measured by Holter QTc intervals.
-Another study at a 400-mg and 800-mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 (See CONTRAINDICATIONS and PRECAUTIONS.)
 
 Oral hypoglycemics: The effects of fluconazole on the pharmacokinetics of the sulfonylurea oral hypoglycemic agents tolbutamide, glipizide, and glyburide were evaluated in three placebo-controlled studies in normal volunteers.
 All subjects received the sulfonylurea alone as a single dose and again as a single dose following the administration of fluconazole 100 mg daily for 7 days.
-In these three studies 22/46 (47.8%) of fluconazole treated patients and 9/22 (40.1%) of placebo treated patients experienced symptoms consistent with hypoglycemia.
+In these three studies, 22/46 (47.8%) of fluconazole treated patients and 9/22 (40.1%) of placebo-treated patients experienced symptoms consistent with hypoglycemia.
 (See PRECAUTIONS.)
 
 Tolbutamide: In 13 normal male volunteers, there was significant increase in tolbutamide (500 mg single dose) AUC and Cmax following the administration of fluconazole.
@@ -208,11 +212,18 @@ Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
 Azithromycin: An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
 There was no significant pharmacokinetic interaction between fluconazole and azithromycin.
 
+Voriconazole: Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
+Concurrent administration of oral voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
+Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
+Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
+(See PRECAUTIONS.)
+
 ## Microbiology
 
 ### Mechanism of Action
 
-Fluconazole is a highly selective inhibitor of fungal cytochrome P-450 dependent enzyme lanosterol 14-α-demethylase.
+Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase.
 This enzyme functions to convert lanosterol to ergosterol.
 The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole.
 Mammalian cell demethylation is much less sensitive to fluconazole inhibition.
@@ -231,10 +242,10 @@ Candida tropicalis
 
 Cryptococcus neoformans
 
-* In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16μg/ml).
+* In a majority of the studies, fluconazole MIC90 values against C. glabrata were above the susceptible breakpoint (≥16 μg/mL).
 Resistance in Candida glabrata usually includes upregulation of CDR genes resulting in resistance to multiple azoles.
-For an isolate where the MIC is categorized as intermediate (16 to 32 μg/ml, see Table 1), the highest dose is recommended (see Dosage and Administration).
-For resistant isolates alternative therapy is recommended.
+For an isolate where the MIC is categorized as intermediate (16 to 32 μg/mL, see Table 1), the highest dose is recommended (see DOSAGE AND ADMINISTRATION).
+For resistant isolates, alternative therapy is recommended.
 
 The following in vitro data are available, but their clinical significance is unknown.
 
@@ -287,7 +298,7 @@ The resistant category implies that isolates are not inhibited by the usually ac
 ## Quality Control
 
 Standardized susceptibility test procedures require the use of quality control organisms to control the technical aspects of the test procedures.
-Standardized fluconazole powder and 25 μg disks should provide the following range of values noted in Table 1.
+Standardized fluconazole powder and 25 μg disks should provide the following range of values noted in Table 2.
 NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
 
 Table 2: Acceptable Quality Control Ranges for Fluconazole to be Used in Validation of Susceptibility Test Results
