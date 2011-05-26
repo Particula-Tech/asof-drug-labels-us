@@ -82,7 +82,7 @@ What are the possible side effects of MIRAPEX?
 MIRAPEX may cause serious side effects, including
 
 - falling asleep during normal daily activities.
-  See “What is the most important information I should know about MIRAPEX?”
+  See “What is the most important information I should know about MIRAPEX?"
 - low blood pressure when you sit or stand up quickly.
   You may have dizziness, nausea, fainting, or sweating.
   Sit and stand up slowly after you have been sitting or lying down for a while.
@@ -99,7 +99,7 @@ For more information ask your doctor or pharmacist.
 
 Be sure to talk to your doctor about any side effects that bother you or that do not go away.
 
-Other Information about MIRAPEX Studies of people with Parkinson’s disease show that they may be at an increased risk of developing melanoma, a form of skin cancer, when compared to people without Parkinson’s disease.
+Other information about MIRAPEX Studies of people with Parkinson’s disease show that they may be at an increased risk of developing melanoma, a form of skin cancer, when compared to people without Parkinson’s disease.
 It is not known if this problem is associated with Parkinson’s disease or the medicines used to treat Parkinson’s disease.
 MIRAPEX is one of the medicines used to treat Parkinson’s disease, therefore, patients being treated with MIRAPEX should have periodic skin examinations.
 
@@ -142,8 +142,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: April 2011
+Rev: May 2011
 
-OT1338MC292011 10003128/10
+OT1338NE1811 10003128/10
 
-IT1322L 10003129/09
+IT1322M 10003129/09

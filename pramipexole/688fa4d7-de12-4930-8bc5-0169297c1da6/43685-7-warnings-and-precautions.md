@@ -100,11 +100,15 @@ As described in the literature, such behaviors are generally reversible upon dos
 
 Rebound and Augmentation in RLS
 
-Reports in the literature indicate treatment of RLS with dopaminergic medications can result in a shifting of symptoms to the early morning hours, referred to as rebound.
-Rebound was not reported in the clinical trials of MIRAPEX tablets but the trials were generally not of sufficient duration to capture this phenomenon.
+Reports in the literature indicate treatment of RLS with dopaminergic medications can result in rebound: a worsening of symptoms following treatment cessation with greater intensity than described before starting treatment.
+In a 26 week placebo controlled clinical trial in patients with RLS, a worsening of symptoms scores (IRLS) beyond their untreated baseline levels was reported more frequently by patients suddenly withdrawn from MIRAPEX (up to 0.75 mg once daily) compared to the group assigned to placebo (10% vs. 2%, respectively).
+The worsening of RLS symptoms was considered generally mild.
+
 Augmentation has also been described during therapy for RLS.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
-In a controlled trial of MIRAPEX tablets for RLS, approximately 20% of both the Mirapex- and the placebo-treated patients reported at least a 2-hour earlier onset of symptoms during the day by the end of 3 months of treatment.
+In a 26 week placebo controlled clinical trial in patients with RLS, augmentation was reported with greater frequency by patients treated with MIRAPEX (up to 0.75 mg once daily) compared to patients who received placebo (12% vs. 9%, respectively).
+The incidence of augmentation increased with increasing duration of exposure to MIRAPEX and to placebo.
+
 The frequency and severity of augmentation and/or rebound after longer-term use of MIRAPEX tablets and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.
 
 ## Information for Patients (also see Patient Package Insert)

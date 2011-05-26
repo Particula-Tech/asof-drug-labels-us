@@ -8,8 +8,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: April 2011
+Revised: May 2011
 
-OT1338MC292011 10003128/10
+OT1338NE1811 10003128/10
 
-IT1322L 10003129/09
+IT1322M 10003129/09

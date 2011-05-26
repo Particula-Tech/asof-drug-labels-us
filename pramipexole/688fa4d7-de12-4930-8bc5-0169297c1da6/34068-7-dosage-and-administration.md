@@ -60,12 +60,12 @@ Although the dose of MIRAPEX tablets was increased to 0.75 mg in some patients d
 
 Table 9 Ascending Dosage Schedule of MIRAPEX tablets for RLS
 
-| Titration Step | Duration | Dosage (mg) to be taken once daily, 2-3 hours before bedtime |
-| --- | --- | --- |
-| 1 | 4-7 days | 0.125 |
-| 2* | 4-7 days | 0.25 |
-| 3* | 4-7 days | 0.5 |
-| *if needed |  |  |
+| Titration Step | Duration | Dosage (mg) to be taken once daily, 2-3 hours before bedtime |  |
+| --- | --- | --- | --- |
+| 1 | 4-7 days |  | 0.125 |
+| 2* | 4-7 days |  | 0.25 |
+| 3* | 4-7 days |  | 0.5 |
+| *if needed |  |  |  |
 
 Patients with Renal Impairment
 
@@ -74,3 +74,4 @@ The duration between titration steps should be increased to 14 days in RLS patie
 Discontinuation of Treatment
 
 In clinical trials of patients being treated for RLS with doses up to 0.75 mg once daily, Mirapex® (pramipexole dihydrochloride) tablets were discontinued without a taper.
+In a 26 week placebo-controlled clinical trial, patients reported a worsening of RLS symptom severity as compared to their untreated baseline when MIRAPEX treatment was suddenly withdrawn (see PRECAUTIONS, Events Reported with Dopaminergic Therapy, Rebound and Augmentation in RLS).
