@@ -12,8 +12,9 @@ What are carvedilol tablets?
 Carvedilol tablets are a prescription medicine that belongs to a group of medicines called "beta-blockers".
 Carvedilol tablets are used, often with other medicines, for the following conditions:
 
-- To treat patients who had a heart attack that worsened how well the heart pumps
 - To treat patients with high blood pressure (hypertension)
+- To treat patients who had a heart attack that worsened how well the heart pumps
+- To treat patients with certain types of heart failure
 
 Carvedilol tablets are not approved for use in children under 18 years of age.
 
@@ -147,4 +148,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-F 2/2011
+G 4/2011

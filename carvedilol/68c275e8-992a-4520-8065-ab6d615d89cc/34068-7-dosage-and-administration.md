@@ -2,6 +2,26 @@
 
 Carvedilol tablets USP should be taken with food to slow the rate of absorption and reduce the incidence of orthostatic effects.
 
+## 2.1 Heart Failure
+
+DOSAGE MUST BE INDIVIDUALIZED AND CLOSELY MONITORED BY A PHYSICIAN DURING UP-TITRATION.
+Prior to initiation of carvedilol tablets USP, it is recommended that fluid retention be minimized.
+The recommended starting dose of carvedilol tablets USP is 3.125 mg twice daily for 2 weeks.
+If tolerated, patients may have their dose increased to 6.25, 12.5, and 25 mg twice daily over successive intervals of at least 2 weeks.
+Patients should be maintained on lower doses if higher doses are not tolerated.
+A maximum dose of 50 mg twice daily has been administered to patients with mild-to-moderate heart failure weighing over 85 kg (187 lbs).
+
+Patients should be advised that initiation of treatment and (to a lesser extent) dosage increases may be associated with transient symptoms of dizziness or lightheadedness (and rarely syncope) within the first hour after dosing.
+During these periods, patients should avoid situations such as driving or hazardous tasks, where symptoms could result in injury.
+Vasodilatory symptoms often do not require treatment, but it may be useful to separate the time of dosing of carvedilol tablets USP from that of the ACE inhibitor or to reduce temporarily the dose of the ACE inhibitor.
+The dose of carvedilol tablets USP should not be increased until symptoms of worsening heart failure or vasodilation have been stabilized.
+
+Fluid retention (with or without transient worsening heart failure symptoms) should be treated by an increase in the dose of diuretics.
+
+The dose of carvedilol tablets USP should be reduced if patients experience bradycardia (heart rate < 55 beats/minute).
+
+Episodes of dizziness or fluid retention during initiation of carvedilol tablets USP can generally be managed without discontinuation of treatment and do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
+
 ## 2.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
 DOSAGE MUST BE INDIVIDUALIZED AND MONITORED DURING UP-TITRATION.

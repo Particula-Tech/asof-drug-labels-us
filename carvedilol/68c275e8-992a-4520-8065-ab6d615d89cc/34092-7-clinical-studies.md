@@ -1,5 +1,102 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Heart Failure
+
+A total of 6,975 patients with mild to severe heart failure were evaluated in placebo-controlled studies of carvedilol.
+
+Mild-to-Moderate Heart Failure: Carvedilol was studied in 5 multicenter, placebo-controlled studies, and in 1 active-controlled study (COMET study) involving patients with mild-to-moderate heart failure.
+
+Four U.S. multicenter, double-blind, placebo-controlled studies enrolled 1,094 patients (696 randomized to carvedilol) with NYHA class II to III heart failure and ejection fraction ≤ 0.35.
+The vast majority were on digitalis, diuretics, and an ACE inhibitor at study entry.
+Patients were assigned to the studies based upon exercise ability.
+An Australia-New Zealand double-blind, placebo-controlled study enrolled 415 patients (half randomized to carvedilol) with less severe heart failure.
+All protocols excluded patients expected to undergo cardiac transplantation during the 7.5 to 15 months of double-blind follow-up.
+All randomized patients had tolerated a 2 week course on carvedilol 6.25 mg twice daily.
+
+In each study, there was a primary end point, either progression of heart failure (1 U.S. study) or exercise tolerance (2 U.S. studies meeting enrollment goals and the Australia-New Zealand study).
+There were many secondary end points specified in these studies, including NYHA classification, patient and physician global assessments, and cardiovascular hospitalization.
+Other analyses not prospectively planned included the sum of deaths and total cardiovascular hospitalizations.
+In situations where the primary end points of a trial do not show a significant benefit of treatment, assignment of significance values to the other results is complex, and such values need to be interpreted cautiously.
+
+The results of the U.S. and Australia-New Zealand trials were as follows:
+
+Slowing Progression of Heart Failure: One U.S. multicenter study (366 subjects) had as its primary end point the sum of cardiovascular mortality, cardiovascular hospitalization, and sustained increase in heart failure medications.
+Heart failure progression was reduced, during an average follow-up of 7 months, by 48% (p = 0.008).
+
+In the Australia-New Zealand study, death and total hospitalizations were reduced by about 25% over 18 to 24 months.
+In the 3 largest U.S. studies, death and total hospitalizations were reduced by 19%, 39%, and 49%, nominally statistically significant in the last 2 studies.
+The Australia-New Zealand results were statistically borderline.
+
+Functional Measures: None of the multicenter studies had NYHA classification as a primary end point, but all such studies had it as a secondary end point.
+There was at least a trend toward improvement in NYHA class in all studies.
+Exercise tolerance was the primary end point in 3 studies; in none was a statistically significant effect found.
+
+Subjective Measures: Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 study), was unaffected by carvedilol.
+However, patients’ and investigators’ global assessments showed significant improvement in most studies.
+
+Mortality: Death was not a pre-specified end point in any study, but was analyzed in all studies.
+Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 studies.
+
+COMET Trial: In this double-blind trial, 3,029 patients with NYHA class II to IV heart failure (left ventricular ejection fraction ≤ 35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
+The mean age of the patients was approximately 62 years, 80% were males, and the mean left ventricular ejection fraction at baseline was 26%.
+Approximately 96% of the patients had NYHA class II or III heart failure.
+Concomitant treatment included diuretics (99%), ACE inhibitors (91%), digitalis (59%), aldosterone antagonists (11%), and “statin” lipid-lowering agents (21%).
+The mean duration of follow-up was 4.8 years.
+The mean dose of carvedilol was 42 mg per day.
+
+The study had 2 primary end points: All-cause mortality and the composite of death plus hospitalization for any reason.
+The results of COMET are presented in Table 3 below.
+All-cause mortality carried most of the statistical weight and was the primary determinant of the study size.
+All-cause mortality was 34% in the patients treated with carvedilol and was 40% in the immediate-release metoprolol group (p = 0.0017; hazard ratio = 0.83, 95% CI 0.74 to 0.93).
+The effect on mortality was primarily due to a reduction in cardiovascular death.
+The difference between the 2 groups with respect to the composite end point was not significant (p = 0.122).
+The estimated mean survival was 8.0 years with carvedilol and 6.6 years with immediate-release metoprolol.
+
+Table 3.
+Results of COMET
+
+| End point | CarvedilolN = 1,511 | MetoprololN = 1,518 | Hazard ratio | (95% CI) |
+| --- | --- | --- | --- | --- |
+| All-cause mortality | 34% | 40% | 0.83 | 0.74 to 0.93 |
+| Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86 to 1.02 |
+| Cardiovascular death | 30% | 35% | 0.80 | 0.70 to 0.90 |
+| Sudden death Death due to circulatory failure Death due to stroke | 14%11%0.9% | 17%13%2.5% | 0.810.83 0.33 | 0.68 to 0.970.67 to 1.02 0.18 to 0.62 |
+
+It is not known whether this formulation of metoprolol at any dose or this low dose of metoprolol in any formulation has any effect on survival or hospitalization in patients with heart failure.
+Thus, this trial extends the time over which carvedilol manifests benefits on survival in heart failure, but it is not evidence that carvedilol improves outcome over the formulation of metoprolol (TOPROL-XL®) with benefits in heart failure.
+
+Severe Heart Failure (COPERNICUS): In a double-blind study (COPERNICUS), 2,289 patients with heart failure at rest or with minimal exertion and left ventricular ejection fraction < 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
+Carvedilol was titrated from a starting dose of 3.125 mg twice daily to the maximum tolerated dose or up to 25 mg twice daily over a minimum of 6 weeks.
+Most subjects achieved the target dose of 25 mg.
+The study was conducted in Eastern and Western Europe, the United States, Israel, and Canada.
+Similar numbers of subjects per group (about 100) withdrew during the titration period.
+
+The primary end point of the trial was all-cause mortality, but cause-specific mortality and the risk of death or hospitalization (total, cardiovascular [CV], or heart failure [HF]) were also examined.
+The developing trial data were followed by a data monitoring committee, and mortality analyses were adjusted for these multiple looks.
+The trial was stopped after a median follow-up of 10 months because of an observed 35% reduction in mortality (from 19.7% per patient year on placebo to 12.8% on carvedilol, hazard ratio 0.65, 95% CI 0.52 to 0.81, p = 0.0014, adjusted) (see Figure 1).
+The results of COPERNICUS are shown in Table 4.
+
+Table 4.
+Results of COPERNICUS Trial in Patients With Severe Heart Failure
+
+| End point | Placebo(N = 1,133) | Carvedilol(N = 1,156) | Hazard ratio(95% CI) | %Reduction | Nominalp value |
+| --- | --- | --- | --- | --- | --- |
+| Mortality | 190 | 130 | 0.65 (0.52 to 0.81) | 35 | 0.00013 |
+| Mortality + all hospitalization | 507 | 425 | 0.76(0.67 to 0.87) | 24 | 0.00004 |
+| Mortality + CV hospitalization | 395 | 314 | 0.73(0.63 to 0.84) | 27 | 0.00002 |
+| Mortality + HF hospitalization | 357 | 271 | 0.69(0.59 to 0.81) | 31 | 0.000004 |
+| Cardiovascular = CV; Heart failure = HF. |  |  |  |  |  |
+
+The effect on mortality was principally the result of a reduction in the rate of sudden death among patients without worsening heart failure.
+
+Patients' global assessments, in which carvedilol-treated patients were compared to placebo, were based on pre-specified, periodic patient self-assessments regarding whether clinical status post-treatment showed improvement, worsening or no change compared to baseline.
+Patients treated with carvedilol showed significant improvements in global assessments compared with those treated with placebo in COPERNICUS.
+
+The protocol also specified that hospitalizations would be assessed.
+Fewer patients on carvedilol than on placebo were hospitalized for any reason (372 versus 432, p = 0.0029), for cardiovascular reasons (246 versus 314, p = 0.0003), or for worsening heart failure (198 versus 268, p = 0.0001).
+
+Carvedilol had a consistent and beneficial effect on all-cause mortality as well as the combined end points of all-cause mortality plus hospitalization (total, CV, or for heart failure) in the overall study population and in all subgroups examined, including men and women, elderly and non-elderly, blacks and non-blacks, and diabetics and non-diabetics (see Figure 2).
+
 ## 14.2 Left Ventricular Dysfunction Following Myocardial Infarction
 
 CAPRICORN was a double-blind study comparing carvedilol and placebo in 1,959 patients with a recent myocardial infarction (within 21 days) and left ventricular ejection fraction of ≤ 40%, with (47%) or without symptoms of heart failure.
