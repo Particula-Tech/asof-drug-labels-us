@@ -10,8 +10,8 @@ SEROQUEL may antagonize the effects of levodopa and dopamine agonists.
 
 Caution should be exercised when quetiapine is used concomitantly with drugs known to cause electrolyte imbalance or to increase QT interval [see Warnings and Precautions (5.21)].
 
-There have been reports of false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
-If false positive results are suspected, confirmation by an appropriate chromatographic technique is recommended.
+There have been literature reports suggesting false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
+Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g. chromatographic methods) should be considered.
 
 ## 7.1 The Effect of Other Drugs on Quetiapine
 

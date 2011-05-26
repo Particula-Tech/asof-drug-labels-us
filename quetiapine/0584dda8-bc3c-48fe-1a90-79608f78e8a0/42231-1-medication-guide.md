@@ -1,6 +1,6 @@
 # SPL MEDGUIDE SECTION
 
-Medication Guide
+MEDICATION GUIDE
 
 SEROQUEL (SER-oh-kwell)
 
@@ -283,7 +283,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35534–06
+SIC 35534–07
 
 Rev.
-3/2011
+05/2011
