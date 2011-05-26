@@ -16,4 +16,4 @@ This dose may be given at bedtime.
 The 150 mg capsule strength is intended for maintenance therapy only and is not recommended for initiation of treatment.
 
 Antianxiety effect is apparent before the antidepressant effect.
-Optimal antidepressant effect may not be evident for two to three weeks.
+Optimal antidepressant effect may not be evident for 2 to 3 weeks.

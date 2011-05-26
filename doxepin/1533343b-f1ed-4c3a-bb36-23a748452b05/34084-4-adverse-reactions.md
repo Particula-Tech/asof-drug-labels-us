@@ -8,21 +8,21 @@ If they do not subside with continued therapy or become severe, it may be necess
 
 Central Nervous System Effects: Drowsiness is the most commonly noticed side effect.
 This tends to disappear as therapy is continued.
-Other infrequently reported CNS side effects are confusion, disorientation, hallucinations, numbness, paresthesias, ataxia, extrapyramidal symptoms, seizures, tardive dyskinesia, and tremor.
+Other infrequently reported CNS side effects are confusion, disorientation, hallucinations, numbness, paresthesias, ataxia, extrapyramidal symptoms, seizures, tardive dyskinesia and tremor.
 
-Cardiovascular: Cardiovascular effects including hypotension, hypertension, and tachycardia have been reported occasionally.
+Cardiovascular: Cardiovascular effects including hypotension, hypertension and tachycardia have been reported occasionally.
 
-Allergic: Skin rash, edema, photosensitization, and pruritus have occasionally occurred.
+Allergic: Skin rash, edema, photosensitization and pruritus have occasionally occurred.
 
 Hematologic: Eosinophilia has been reported in a few patients.
-There have been occasional reports of bone marrow depression manifesting as agranulocytosis, leukopenia, thrombocytopenia, and purpura.
+There have been occasional reports of bone marrow depression manifesting as agranulocytosis, leukopenia, thrombocytopenia and purpura.
 
-Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia, and aphthous stomatitis have been reported.
+Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia and aphthous stomatitis have been reported.
 (See Anticholinergic Effects.)
 
 Endocrine: Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
 
-Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma, and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
+Other: Dizziness, tinnitus, weight gain, sweating, chills, fatigue, weakness, flushing, jaundice, alopecia, headache, exacerbation of asthma and hyperpyrexia (in association with chlorpromazine) have been occasionally observed as adverse effects.
 
 ## Withdrawal Symptoms
 

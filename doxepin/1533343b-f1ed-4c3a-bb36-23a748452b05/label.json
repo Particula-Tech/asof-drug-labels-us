@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070791"
+  ],
   "inn": "doxepin",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -14,7 +16,13 @@
     "0378-6410-01",
     "0378-6410-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxepin hydrochloride",
+      "name": "Doxepin Hydrochloride"
+    }
+  ],
   "setid": "1533343b-f1ed-4c3a-bb36-23a748452b05",
   "source": "dailymed"
 }
