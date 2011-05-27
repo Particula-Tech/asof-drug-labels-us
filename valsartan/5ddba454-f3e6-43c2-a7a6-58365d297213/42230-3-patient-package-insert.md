@@ -1,6 +1,8 @@
 Pregnancy: Female patients of childbearing age should be told that use of drugs like Diovan that act on the renin-angiotensin system during pregnancy can cause serious problems in the fetus and infant including: low blood pressure, poor development of skull bones, kidney failure and death.
 Women using Diovan who become pregnant should notify their physician as soon as possible.
 
+T2011-70
+
 DIOVAN (DYE’-o-van)
 
 (valsartan) Tablets
@@ -75,6 +77,8 @@ Especially tell your doctor if you take:
 
 • a salt substitute
 
+• nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
 Talk to your doctor or pharmacist before you start taking any new medicine.
@@ -142,7 +146,7 @@ The most common side effects of DIOVAN used to treat people with heart failure i
 
 • diarrhea
 
-• Joint and back pain
+• joint and back pain
 
 • tiredness
 
@@ -192,8 +196,6 @@ Active ingredient: valsartan
 
 Inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, iron oxides (yellow, black and/or red), magnesium stearate, microcrystalline cellulose, polyethylene glycol 8000, and titanium dioxide
 
-T2010-13/T2007-110
-
 Distributed by:
 
 Novartis Pharmaceuticals Corp.
@@ -201,3 +203,7 @@ Novartis Pharmaceuticals Corp.
 East Hanover, NJ 07936
 
 © Novartis
+
+T2011-70/T2011-71
+
+April 2011/April 2011
