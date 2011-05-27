@@ -4,11 +4,7 @@ PRINCIPAL DISPLAY PANEL - 500 mg Vial
 
 CUBICIN® (daptomycin for injection)
 
-For intravenous infusion only.
-Single-use only.
-Rx only
-
-Cubist Pharmaceuticals, Inc. USA
+For intravenous use only Single use only Rx only
 
 PRINCIPAL DISPLAY PANEL - 1 Vial Carton
 
@@ -18,7 +14,7 @@ One single-use vial 500 mg
 
 CUBICIN® (daptomycin for injection)
 
-For intravenous infusion only
+For intravenous use only
 
 Rx only
 
