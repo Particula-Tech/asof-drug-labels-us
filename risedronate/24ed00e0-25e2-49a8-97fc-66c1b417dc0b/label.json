@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA020835"
+  ],
+  "inn": "risedronate",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-0470-15",
+    "0430-0471-15",
+    "0430-0472-03",
+    "0430-0472-07",
+    "0430-0477-02",
+    "0430-0478-01",
+    "0430-0478-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "risedronate sodium",
+      "name": "Actonel"
+    }
+  ],
+  "setid": "24ed00e0-25e2-49a8-97fc-66c1b417dc0b",
+  "source": "dailymed"
+}
