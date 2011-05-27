@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074910"
+  ],
   "inn": "diltiazem",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0378-6090-01",
     "0378-6120-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Diltiazem Hydrochloride"
+    }
+  ],
   "setid": "ec7e93b8-666c-4d2f-8d08-07931e09f748",
   "source": "dailymed"
 }
