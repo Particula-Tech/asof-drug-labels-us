@@ -98,7 +98,8 @@ MICARDIS tablets may cause serious side effects, including:
 
 - Call your doctor right away if you get any of the symptoms listed above.
 
-- High potassium in the blood (hyperkalemia).Your doctor may check your potassium levels as needed.
+- High potassium in the blood (hyperkalemia).
+  Your doctor may check your potassium levels as needed.
 
 Rare, serious allergic reactions may happen.
 Tell your doctor right away if you get any of these symptoms:
@@ -173,8 +174,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: April 2011
+Revised: May 2011
 
-OT1200MC092011 090340194/8
+OT1200NE182011 090340194/9
 
-IT12004I 10005385/5
+IT12004J 10005385/6

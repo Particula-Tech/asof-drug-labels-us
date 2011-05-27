@@ -21,4 +21,4 @@ MICARDIS tablets may be administered with or without food.
 The recommended dose of MICARDIS tablets is 80 mg once a day and can be administered with or without food.
 It is not known whether doses lower than 80 mg of telmisartan are effective in reducing the risk of cardiovascular morbidity and mortality.
 
-When initiating MICARDIS therapy for cardiovascular risk reduction, monitoring of blood pressure is recommended, and if appropriate adjustment of medications that lower blood pressure may be necessary.
+When initiating MICARDIS therapy for cardiovascular risk reduction, monitoring of blood pressure is recommended, and if appropriate, adjustment of medications that lower blood pressure may be necessary.
