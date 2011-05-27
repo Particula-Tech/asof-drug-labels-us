@@ -18,3 +18,11 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from light and moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+PHARMACIST: Detach Patient Information Leaflet at each perforation and give leaflet to patient.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+REVISED JULY 2007 CYST:R13p
+
+The following information is available for patients and/or guardians in the patient leaflet.

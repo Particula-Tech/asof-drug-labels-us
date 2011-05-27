@@ -1,4 +1,4 @@
-## Patient and Parent Information About CYSTAGON® (SIS-ta-gon) (cysteamine bitartrate) Capsules
+Patient and Parent Information About CYSTAGON® (SIS-ta-gon) (cysteamine bitartrate) Capsules
 
 Read the Patient Information that comes with CYSTAGON® before you or your child starts taking it and each time you get a refill.
 There may be new information.

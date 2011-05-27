@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020392"
+  ],
   "inn": "cysteamine",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
     "0378-9040-05",
     "0378-9045-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cysteamine bitartrate",
+      "name": "Cystagon"
+    }
+  ],
   "setid": "f495b76d-96c6-48e5-8fa3-30a4336628eb",
   "source": "dailymed"
 }
