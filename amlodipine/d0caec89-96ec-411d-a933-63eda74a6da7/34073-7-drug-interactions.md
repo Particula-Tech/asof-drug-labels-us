@@ -30,18 +30,21 @@ The valsartan-atenolol combination was more antihypertensive than either compone
 
 Warfarin: Co-administration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
 
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
 ## 7.2 CYP 450 Interactions
 
-The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isozymes.
-The inhibitory or induction potential of valsartan on CYP 450 is also unknown.
-
+In vitro metabolism studies indicate that CYP 450 mediated drug interactions between valsartan and co-administered drugs are unlikely because of low extent of metabolism [see Pharmacokinetics, Valsartan (12.3)].
 As with other drugs that block angiotensin II or its effects, concomitant use of potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 
-## 7.3 Drug/Food Interactions
+## 7.3 Transporters
 
-Studies with Exforge
-
-The bioavailabilities of amlodipine and valsartan are not altered by the co-administration of food.
+The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Co-administration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.
 
 ## 7.4 Clinical Laboratory Findings
 

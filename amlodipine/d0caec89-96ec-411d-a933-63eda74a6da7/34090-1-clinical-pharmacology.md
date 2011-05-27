@@ -108,7 +108,9 @@ Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 Valsartan shows bi-exponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
 The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
 The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
-The enzyme(s) responsible for valsartan metabolism have not been identified but do not seem to be CYP 450 isoenzymes.
+In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
+Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
+CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
 
 Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
@@ -117,6 +119,7 @@ Exforge
 
 Following oral administration of Exforge in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6-8 hours, respectively.
 The rate and extent of absorption of valsartan and amlodipine from Exforge are the same as when administered as individual tablets.
+The bioavailabilities of amlodipine and valsartan are not altered by the co-administration of food.
 
 Special Populations
 

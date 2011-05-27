@@ -1,4 +1,4 @@
-# FDA-APPROVED PATIENT LABELING
+FDA-APPROVED PATIENT LABELING
 
 PATIENT INFORMATION
 
@@ -53,6 +53,7 @@ Especially tell your doctor if you take:
 - water pills (diuretics)
 - potassium supplements
 - a salt substitute
+- nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -166,6 +167,8 @@ Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
 
-Revised February 2009 T2009-27/T2008-31
+/
 
 ©Novartis
+
+T2011-68/T2011-69 April 2011/April 2011
