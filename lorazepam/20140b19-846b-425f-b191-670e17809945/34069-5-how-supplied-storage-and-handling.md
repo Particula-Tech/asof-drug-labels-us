@@ -28,8 +28,8 @@ Use carton to protect contents from light.
 
 Keep in a refrigerator 2° to 8°C (36° to 46°F).
 
-Revised: March, 2007
+Revised: December, 2008
 
-| Printed in USA | EN-1487 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+Printed in USA EN-1983
+
+Hospira, Inc., Lake Forest, IL 60045 USA

@@ -68,7 +68,7 @@ Pediatrics
 Neonates (Birth to 1 month)
 
 Following a single 0.05 mg/kg (n=4) or 0.1 mg/kg (n=6) intravenous dose of lorazepam, mean total clearance normalized to body weight was reduced by 80% compared to normal adults, terminal half-life was prolonged 3-fold, and volume of distribution was decreased by 40% in neonates with asphyxia neonatorum compared to normal adults.
-All neonates were of ≥ 37 weeks of gestational age.
+All neonates were of ≥37 weeks of gestational age.
 
 Infants (1 month up to 2 years)
 
@@ -110,7 +110,7 @@ Both parameters were 75% higher in patients undergoing hemodialysis than in norm
 Overall, though, in this group of subjects the mean total clearance of lorazepam did not change.
 About 8% of the administered intravenous dose was removed as intact lorazepam during the 6-hour dialysis session.
 
-The kinetics of lorazepam-glucuronide were markedly affectedby renal dysfunction.
+The kinetics of lorazepam-glucuronide were markedly affected by renal dysfunction.
 The mean terminal half-life was prolonged by 55% and 125% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
 The mean metabolic clearance decreased by 75% and 90% in renally impaired patients and patients under hemodialysis, respectively, as compared to normal subjects.
 About 40% of the administered lorazepam intravenous dose was removed as glucuronide conjugate during the 6-hour dialysis session.

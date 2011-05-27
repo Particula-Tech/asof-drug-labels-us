@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074243"
+  ],
   "inn": "lorazepam",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-1539-31",
     "0409-1985-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
   "setid": "20140b19-846b-425f-b191-670e17809945",
   "source": "dailymed"
 }

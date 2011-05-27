@@ -20,36 +20,40 @@ Commonly Observed Adverse Events in a Controlled Dose-Comparison Clinical Trial
 
 Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
-| TABLE 1. NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL |  |
-| --- | --- |
+TABLE 1.
+NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
+
 | Body SystemEvent | Lorazepam Injection(n=130)a |
+| --- | --- |
 | Any Study Event (1 or more)b | 16 (12.3%) |
 | Body as a wholeInfection | 1 (<1%) |
-| Cardiovascular systemHypotension | 2 (1.5%) |
-| Digestive systemLiver function tests abnormalNauseaVomiting | 1 (<1%)1 (<1%)1 (<1%) |
+| Cardiovascular SystemHypotension | 2 (1.5%) |
+| Digestive SystemLiver function tests abnormalNauseaVomiting | 1 (<1%)1 (<1%)1 (<1%) |
 | Metabolic and NutritionalAcidosis | 1 (<1%) |
-| Nervous systemBrain edemaComaConvulsionSomnolenceThinking abnormal | 1 (<1%)1 (<1%)1 (<1%)2 (1.5%)1 (<1%) |
-| Respiratory systemHyperventilationHypoventilationRespiratory failure | 1 (<1%)1 (<1%)2 (1.5%) |
-| Terms not classifiableInjection site reaction | 1 (<1%) |
+| Nervous SystemBrain edemaComaConvulsionSomnolenceThinking abnormal | 1 (<1%)1 (<1%)1 (<1%)2 (1.5%)1 (<1%) |
+| Respiratory SystemHyperventilationHypoventilationRespiratory failure | 1 (<1%)1 (<1%)2 (1.5%) |
+| Terms not ClassifiableInjection site reaction | 1 (<1%) |
 | Urogenital SystemCystitis | 1 (<1%) |
 | a One hundred and thirty (130) patients received Lorazepam Injection.b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |
 
 Commonly Observed Adverse Events in Active-Controlled Clinical Trials
 
 In two studies, patients who completed the course of treatment for status epilepticus were permitted to be reenrolled and to receive treatment for a second status episode, given that there was a sufficient interval between the two episodes.
-Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all“patient-episodes.”
+Safety was determined from all treatment episodes for all intent-to-treat patients, i.e., from all “patient-episodes.”
 Table 2 lists the treatment emergent adverse events that occurred in at least 1% of the patient-episodes in which Lorazepam Injection or diazepam was given.
 The table represents the pooling of results from the two controlled trials.
 
-| TABLE 2. NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL |  |  |
-| --- | --- | --- |
+TABLE 2.
+NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL
+
 | Body SystemEvent | Lorazepam Injection(n=85)a | Diazepam(n=80)a |
+| --- | --- | --- |
 | Any Study Event (1 or more)b | 14 (16.5%) | 11 (13.8%) |
 | Body as a wholeHeadache | 1 (1.2%) | 1 (1.3%) |
-| Cardiovascular systemHypotension | 2 (2.4%) | 0 |
-| Hemic and lymphatic systemHypochromic anemiaLeukocytosisThrombocythemia | 000 | 1 (1.3%)1 (1.3%)1 (1.3%) |
-| Nervous systemComa SomnolenceStupor | 1 (1.2%)3 (3.5%)1 (1.2%) | 1 (1.3%)3 (3.8%)0 |
-| Respiratory systemHypoventilationApneaRespiratory failureRespiratory disorder | 1 (1.2%)1 (1.2%)2 (2.4%)1 (1.2%) | 2 (2.5%)1 (1.3%)1 (1.3%)0 |
+| Cardiovascular SystemHypotension | 2 (2.4%) | 0 |
+| Hemic and Lymphatic SystemHypochromic anemiaLeukocytosisThrombocythemia | 000 | 1 (1.3%)1 (1.3%)1 (1.3%) |
+| Nervous SystemComa SomnolenceStupor | 1 (1.2%)3 (3.5%)1 (1.2%) | 1 (1.3%)3 (3.8%)0 |
+| Respiratory SystemHypoventilationApneaRespiratory failureRespiratory disorder | 1 (1.2%)1 (1.2%)2 (2.4%)1 (1.2%) | 2 (2.5%)1 (1.3%)1 (1.3%)0 |
 | a The number indicates the number of “patient-episodes.” Patient-episodes were used rather than “patients” because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam Injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions.b Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. |  |  |
 
 These trials were not designed or intended to demonstrate the comparative safety of the two treatments.
@@ -62,6 +66,7 @@ Other Events Observed During the Pre-marketing Evaluation of Lorazepam Injection
 
 Lorazepam Injection, active comparators, and Lorazepam Injection in combination with a comparator were administered to 488 individuals during controlled and open-label clinical trials.
 Because of reenrollments, these 488 patients participated in a total of 521 patient-episodes.
+
 Lorazepam Injection alone was given in 69% of these patient-episodes (n=360).
 The safety information below is based on data available from 326 of these patient-episodes in which Lorazepam Injection was given alone.
 
@@ -71,14 +76,19 @@ Study events were classified by body system in descending frequency by using the
 
 Frequent and Infrequent Study Events
 
-| BODY AS A WHOLE - | Infrequent: asthenia, chills, headache, infection. |
-| --- | --- |
-| DIGESTIVE SYSTEM - | Infrequent: abnormal liver function test, increased salivation, nausea, vomiting. |
-| METABOLIC AND NUTRITIONAL - | Infrequent: acidosis, alkaline phosphatase increased. |
-| NERVOUS SYSTEM - | Infrequent: agitation, ataxia, brain edema, coma, confusion, convulsion, hallucinations, myoclonus, stupor, thinking abnormal, tremor. |
-| RESPIRATORY SYSTEM - | Frequent: apnea; Infrequent: hyperventilation, hypoventilation, respiratory disorder. |
-| TERMS NOT CLASSIFIABLE - | Infrequent: injection site reaction. |
-| UROGENITAL SYSTEM - | Infrequent: cystitis. |
+BODY AS A WHOLE - Infrequent: asthenia, chills, headache, infection.
+
+DIGESTIVE SYSTEM - Infrequent: abnormal liver function test, increased salivation, nausea, vomiting.
+
+METABOLIC AND NUTRITIONAL - Infrequent: acidosis, alkaline phosphatase increased.
+
+NERVOUS SYSTEM - Infrequent: agitation, ataxia, brain edema, coma, confusion, convulsion, hallucinations, myoclonus, stupor, thinking abnormal, tremor.
+
+RESPIRATORY SYSTEM - Frequent: apnea; Infrequent: hyperventilation, hypoventilation, respiratory disorder.
+
+TERMS NOT CLASSIFIABLE - Infrequent: injection site reaction.
+
+UROGENITAL SYSTEM - Infrequent: cystitis.
 
 Preanesthetic
 

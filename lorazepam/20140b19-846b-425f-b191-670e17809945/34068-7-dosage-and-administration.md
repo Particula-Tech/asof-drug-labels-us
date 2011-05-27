@@ -44,7 +44,7 @@ Preanesthetic
 Intramuscular Injection
 
 For the designated indications as a premedicant, the usual recommended dose of lorazepam for intramuscular injection is 0.05 mg/kg up to a maximum of 4 mg.
-As with all premedicant drugs, the dose should be individualized (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
+As with all premedicant drugs, the dose should be individualized (see also CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
 Doses of other central-nervous-system depressant drugs ordinarily should be reduced (see PRECAUTIONS).
 For optimum effect, measured as lack of recall, intramuscular lorazepam should be administered at least 2 hours before the anticipated operative procedure.
 Narcotic analgesics should be administered at their usual preoperative time.
@@ -54,7 +54,7 @@ Intravenous Injection
 
 For the primary purpose of sedation and relief of anxiety, the usual recommended initial dose of lorazepam for intravenous injection is 2 mg total, or 0.02 mg/lb (0.044 mg/kg), whichever is smaller.
 This dose will suffice for sedating most adult patients and ordinarily should not be exceeded in patients over 50 years of age.
-In those patients in whom a greater likelihood of lack of recall for perioperative events would be beneficial, larger doses as high as 0.05 mg/kg up to a total of 4 mg may be administered (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
+In those patients in whom a greater likelihood of lack of recall for perioperative events would be beneficial, larger doses as high as 0.05 mg/kg up to a total of 4 mg may be administered (see also CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
 Doses of other injectable central-nervous-system depressant drugs ordinarily should be reduced (see PRECAUTIONS).
 For optimum effect, measured as lack of recall, intravenous lorazepam should be administered 15 to 20 minutes before the anticipated operative procedure.
 

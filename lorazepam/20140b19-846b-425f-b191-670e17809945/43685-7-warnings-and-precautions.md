@@ -171,7 +171,7 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-Teratogenic Effects - Pregnancy Category D (see WARNINGS.)
+Teratogenic Effects - Pregnancy Category D (See WARNINGS.)
 
 ## Labor and Delivery
 
