@@ -19,8 +19,6 @@ Caution: the reconstituted product should not be frozen.
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
 | --- | --- | --- |
 
-Wyeth®
-
 Marketed by Wyeth Pharmaceuticals Inc.
 
 Philadelphia, PA 19101
@@ -31,8 +29,6 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-W10447C020
+LAB-0462-1.0
 
-ET01
-
-Rev 10/10
+Revised May 2011

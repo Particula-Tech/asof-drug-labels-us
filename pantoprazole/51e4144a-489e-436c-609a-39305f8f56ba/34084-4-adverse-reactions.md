@@ -29,7 +29,7 @@ DIGESTIVE SYSTEM: diarrhea, flatulence, abdominal pain, eructation, constipation
 
 HEPATO-BILIARY SYSTEM: liver function tests abnormal, SGPT increased.
 
-METABOLIC AND NUTRITIONAL: hyperglycemia, hyperlipemia.
+METABOLIC AND NUTRITIONAL: hyperglycemia, hyperlipidemia
 
 MUSCULOSKELETAL SYSTEM: arthralgia.
 
@@ -87,6 +87,8 @@ DIGESTIVE SYSTEM: increased salivation, nausea, pancreatitis.
 HEMIC AND LYMPHATIC SYSTEM: pancytopenia.
 
 HEPATO-BILIARY SYSTEM: hepatocellular damage leading to jaundice and hepatic failure.
+
+METABOLISM AND NUTRITIONAL DISORDERS: hypomagnesemia
 
 MUSCULOSKELETAL SYSTEM: elevated CPK (creatine phosphokinase), rhabdomyolysis, bone fracture.
 

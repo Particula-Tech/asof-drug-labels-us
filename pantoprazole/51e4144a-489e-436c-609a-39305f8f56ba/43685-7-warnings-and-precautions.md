@@ -19,6 +19,13 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
 (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS sections).
 
+Hypomagnesemia: Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPI’s for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+(See ADVERSE REACTIONS sections).
+
 As with any other intravenous product containing edetate disodium (the salt form of EDTA) which is a potent chelator of metal ions including zinc, zinc supplementation should be considered in patients treated with PROTONIX I.V. for Injection who are prone to zinc deficiency.
 Caution should be used when other EDTA containing products are also co-administered intravenously.
 
