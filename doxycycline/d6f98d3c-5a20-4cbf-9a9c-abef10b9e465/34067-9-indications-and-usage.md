@@ -12,9 +12,9 @@ Doxycycline is indicated for the treatment of the following infections:
 - Respiratory tract infections caused by Mycoplasma pneumoniae.
 - Lymphogranuloma venereum caused by Chlamydia trachomatis.
 - Psittacosis (ornithosis) caused by Chlamydia psittaci.
-- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated as judged by immunofluorescence.
+- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 - Inclusion conjunctivitis caused by Chlamydia trachomatis.
-- Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis.
+- Uncomplicated urethral, endocervical, or rectal infections in adults caused by Chlamydia trachomatis.
 - Nongonococcal urethritis caused by Ureaplasma urealyticum.
 - Relapsing fever due to Borrelia recurrentis.
 
@@ -43,8 +43,7 @@ Doxycycline is indicated for treatment of infections caused by the following gra
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 - Upper respiratory infections caused by Streptococcus pneumoniae (formerly Diplococcus pneumoniae).
-
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
+- Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
@@ -63,4 +62,4 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 ## Prophylaxis
 
 Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains.
-See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section.
+(See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section.)

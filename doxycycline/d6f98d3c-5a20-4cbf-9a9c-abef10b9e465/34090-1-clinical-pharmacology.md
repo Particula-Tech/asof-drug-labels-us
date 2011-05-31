@@ -4,7 +4,7 @@ Tetracyclines are readily absorbed and are bound to plasma proteins in varying d
 They are concentrated by the liver in the bile, and excreted in the urine and feces at high concentrations and in a biologically active form.
 Doxycycline is virtually completely absorbed after oral administration.
 
-Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours decreasing to 1.45 mcg/mL at 24 hours.
+Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with normal function (creatinine clearance about 75 mL/min.).
 This percentage excretion may fall as low as 1–5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
 Studies have shown no significant difference in serum half-life of doxycycline (range 18–22 hours) in individuals with normal and severely impaired renal function.
@@ -70,7 +70,7 @@ Other Microorganisms
 - Balantidium coli
 - Plasmodium falciparum
 
-Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
+Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum, but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
 ### Susceptibility tests

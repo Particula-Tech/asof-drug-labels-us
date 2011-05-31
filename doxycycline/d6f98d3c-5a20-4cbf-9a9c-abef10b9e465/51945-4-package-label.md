@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 25 mg Oral Suspension Bottle Label
 
 NDC 0069-0970-65
 
@@ -14,7 +14,7 @@ RASPBERRY FLAVORED
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Oral Suspension Bottle Label
 
 NDC 0069-0971-93
 
@@ -22,7 +22,9 @@ NDC 0069-0971-93
 
 Vibramycin® calcium (doxycycline calcium) SYRUP
 
-ORAL SUSPENSION FOR ORAL USE ONLY
+ORAL SUSPENSION
+
+FOR ORAL USE ONLY
 
 IMPORTANT This closure is not child-resistant.
 
@@ -34,7 +36,7 @@ SHAKE WELL BEFORE USING
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Capsules Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
 NDC 0069-0950-50
 
@@ -46,7 +48,7 @@ Vibramycin® (doxycycline hyclate)
 
 Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablets Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 0069-0990-50
 
@@ -56,4 +58,4 @@ Vibra-Tabs® (doxycycline hyclate)
 
 100 mg*
 
-Distributed by Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017

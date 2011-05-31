@@ -2,10 +2,6 @@
 
 Vibramycin Hyclate (doxycycline hyclate) is available in capsules containing doxycycline hyclate equivalent to:
 
-50 mg doxycycline bottles of 50 (NDC 0069-0940-50)
-
-The capsules are white and light blue and are imprinted with "VIBRA" on one half and "PFIZER 094" on the other half.
-
 100 mg doxycycline bottles of 50 (NDC 0069-0950-50)
 
 The capsules are light blue and are imprinted with "VIBRA" on one half and "PFIZER 095" on the other half.
