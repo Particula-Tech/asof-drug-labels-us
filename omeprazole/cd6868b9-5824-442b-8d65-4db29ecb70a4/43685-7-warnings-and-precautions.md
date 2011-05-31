@@ -29,3 +29,12 @@ The risk of fracture was increased in patients who received high-dose, defined a
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to the established treatment guidelines.
 [See Dosage and Administration (2) and Adverse Reactions (6.2)]
+
+## 5.5 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.2)]

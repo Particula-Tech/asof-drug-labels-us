@@ -131,7 +131,7 @@ In rare instances, overt liver disease has occurred, including hepatocellular, c
 
 Metabolic/Nutritional
 
-Hyponatremia, hypoglycemia, and weight gain.
+Hyponatremia, hypoglycemia, hypomagnesemia, and weight gain.
 
 Musculoskeletal
 

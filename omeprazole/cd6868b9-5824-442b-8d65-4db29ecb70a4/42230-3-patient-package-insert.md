@@ -39,8 +39,9 @@ Do not take ZEGERID if you:
 
 What should I tell my doctor before I take ZEGERID?
 
-Tell your doctor about all of your medical conditions, including if you:
+Before you take ZEGERID, tell your doctor if you:
 
+- have been told that you have low magnesium levels in your blood.
 - have any liver problems.
 - have heart failure.
 - have Bartter's syndrome (a rare kidney disorder).
@@ -109,15 +110,35 @@ What are the possible side effects of ZEGERID?
 ZEGERID may cause serious allergic reactions.
 See the end of this leaflet for a complete list of ingredients in ZEGERID.
 
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with ZEGERID.
-
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with ZEGERID.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
 Your doctor may stop ZEGERID if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms:
+
+- 
+  - seizures
+  - dizziness
+  - abnormal or fast heart beat
+  - jitteriness
+  - jerking movements or shaking (tremors)
+  - muscle weakness
+  - spasms of the hands and feet
+  - cramps or muscle aches
+  - spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking ZEGERID, or during treatment if you will be taking ZEGERID for a long period of time.
 
 The most common side effects with ZEGERID include:
 
@@ -182,7 +203,7 @@ Active Ingredients: omeprazole / sodium bicarbonate
 
 For prescription only
 
-Revised August 2010
+Revised May 2011
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 
@@ -192,4 +213,4 @@ ZEGERID® Powder for Oral Suspension is manufactured for Santarus, Inc. by Pathe
 
 For more information call 1-888-778-0887
 
-© 2010 Santarus, Inc.
+© 2011 Santarus, Inc.

@@ -46,6 +46,8 @@ Pregnant women should be advised that a harmful effect of ZEGERID on the fetus c
 Patients should be advised to use this drug with caution if they are regularly taking calcium supplements.
 [See Warnings and Precautions (5.3)]
 
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.[See Warnings and Precautions (5.5)]
+
 SANTARUS,INC.®
 
 ZEGERID® Capsules are manufactured for Santarus, Inc., San Diego, CA 92130 by Norwich Pharmaceuticals, Inc., North Norwich, NY 13814.
@@ -56,6 +58,6 @@ For more information call 1-888-778-0887
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 
-© 2010 Santarus, Inc.
+© 2011 Santarus, Inc.
 
-S0015G
+S0015H
