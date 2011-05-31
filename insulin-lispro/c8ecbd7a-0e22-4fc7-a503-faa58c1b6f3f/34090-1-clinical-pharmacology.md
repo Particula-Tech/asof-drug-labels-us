@@ -1,82 +1,67 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Antidiabetic Activity
+## 12.1 Mechanism of Action
 
-The primary activity of insulin, including Humalog, is the regulation of glucose metabolism.
-In addition, all insulins have several anabolic and anti–catabolic actions on many tissues in the body.
-In muscle and other tissues (except the brain), insulin causes rapid transport of glucose and amino acids intracellularly, promotes anabolism, and inhibits protein catabolism.
-In the liver, insulin promotes the uptake and storage of glucose in the form of glycogen, inhibits gluconeogenesis, and promotes the conversion of excess glucose into fat.
+Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro.
+Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
+Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 
-Humalog has been shown to be equipotent to human insulin on a molar basis.
-One unit of Humalog has the same glucose–lowering effect as one unit of Regular human insulin, but its effect is more rapid and of shorter duration.
-The glucose–lowering activity of Humalog and Regular human insulin is comparable when administered to nondiabetic subjects by the intravenous route.
+## 12.2 Pharmacodynamics
 
-## Pharmacokinetics
+HUMALOG has been shown to be equipotent to human insulin on a molar basis.
+One unit of HUMALOG has the same glucose-lowering effect as one unit of regular human insulin.
+Studies in normal volunteers and patients with diabetes demonstrated that HUMALOG has a more rapid onset of action and a shorter duration of activity than regular human insulin when given subcutaneously.
 
-### Absorption and Bioavailability
+The time course of action of insulin and insulin analogs, such as HUMALOG, may vary considerably in different individuals or within the same individual.
+The parameters of HUMALOG activity (time of onset, peak time, and duration) as designated in Figure 1 should be considered only as general guidelines.
+The rate of insulin absorption, and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.1)].
 
-Humalog is as bioavailable as Regular human insulin, with absolute bioavailability ranging between 55% to 77% with doses between 0.1 to 0.2 U/kg, inclusive.
-Studies in nondiabetic subjects and patients with type 1 (insulin–dependent) diabetes demonstrated that Humalog is absorbed faster than Regular human insulin (U–100) (see Figure 1).
-In nondiabetic subjects given subcutaneous doses of Humalog ranging from 0.1 to 0.4 U/kg, peak serum concentrations were observed 30 to 90 minutes after dosing.
-When nondiabetic subjects received equivalent doses of Regular human insulin, peak insulin concentrations occurred between 50 to 120 minutes after dosing.
-Similar results were seen in patients with type 1 diabetes.
-The pharmacokinetic profiles of Humalog and Regular human insulin are comparable to one another when administered to nondiabetic subjects by the intravenous route.
-Humalog was absorbed at a consistently faster rate than Regular human insulin in healthy male volunteers given 0.2 U/kg Regular human insulin or Humalog at abdominal, deltoid, or femoral subcutaneous sites, the three sites often used by patients with diabetes.
-After abdominal administration of Humalog, serum drug levels are higher and the duration of action is slightly shorter than after deltoid or thigh administration (see DOSAGE AND ADMINISTRATION).
-Humalog has less intra– and inter–patient variability compared with Regular human insulin.
+a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
-### Distribution
+## 12.3 Pharmacokinetics
 
-The volume of distribution following injection of Humalog is identical to that of Regular human insulin, with a range of 0.26 to 0.36 L/kg.
+Absorption and Bioavailability — Studies in healthy volunteers and patients with diabetes demonstrated that HUMALOG is absorbed more quickly than regular human insulin.
+In healthy volunteers given subcutaneous doses of HUMALOG ranging from 0.1 to 0.4 unit/kg, peak serum levels were seen 30 to 90 minutes after dosing.
+When healthy volunteers received equivalent doses of regular human insulin, peak insulin levels occurred between 50 to 120 minutes after dosing.
+Similar results were seen in patients with type 1 diabetes (see Figure 2).
 
-### Metabolism
+a Baseline insulin concentration was maintained by infusion of 0.2 mU/min/kg human insulin.
 
-Human metabolism studies have not been conducted.
-However, animal studies indicate that the metabolism of Humalog is identical to that of Regular human insulin.
+HUMALOG was absorbed at a consistently faster rate than regular human insulin in healthy male volunteers given 0.2 unit/kg at abdominal, deltoid, or femoral subcutaneous sites.
+After HUMALOG was administered in the abdomen, serum drug levels were higher and the duration of action was slightly shorter than after deltoid or thigh administration.
+Bioavailability of HUMALOG is similar to that of regular human insulin.
+The absolute bioavailability after subcutaneous injection ranges from 55% to 77% with doses between 0.1 to 0.2 unit/kg, inclusive.
 
-### Elimination
+Distribution — After subcutaneous administration, the volume of distribution for HUMALOG is identical to that of regular human insulin, with a range of 0.26 to 0.36 L/kg.
+When administered intravenously, the volume of distribution of HUMALOG (range of 0.26 to 0.36 L/kg) was similar to that of regular human insulin (range of 0.32 to 0.67 L/kg).
 
-When Humalog is given subcutaneously, its t1/2 is shorter than that of Regular human insulin (1 versus 1.5 hours, respectively).
-When given intravenously, Humalog and Regular human insulin show identical dose–dependent elimination, with a t1/2 of 26 and 52 minutes at 0.1 U/kg and 0.2 U/kg, respectively.
+Metabolism — Human metabolism studies have not been conducted.
+However, animal studies indicate that the metabolism of HUMALOG is identical to that of regular human insulin.
 
-## Pharmacodynamics
+Elimination — After subcutaneous administration of HUMALOG, the t1/2 is shorter than that of regular human insulin (1 versus 1.5 hours, respectively).
+When administered intravenously, HUMALOG and regular human insulin demonstrated similar dose-dependent elimination, with a t1/2 of 0.44 hours (26 min) and 0.34 hours (20 min), respectively (0.1 unit/kg dose) and 0.86 hours (52 min) and 1.1 hours (66 min), respectively (0.2 unit/kg dose).
 
-Studies in nondiabetic subjects and patients with diabetes demonstrated that Humalog has a more rapid onset of glucose–lowering activity, an earlier peak for glucose–lowering, and a shorter duration of glucose–lowering activity than Regular human insulin (see Figure 2).
-The earlier onset of activity of Humalog is directly related to its more rapid rate of absorption.
-The time course of action of insulin and insulin analogs, such as Humalog, may vary considerably in different individuals or within the same individual.
-The parameters of Humalog activity (time of onset, peak time, and duration) as presented in Figure 2 should be considered only as general guidelines.
-The rate of insulin absorption and consequently the onset of activity is known to be affected by the site of injection, exercise, and other variables (see General under PRECAUTIONS).
+Specific Populations
 
-## Special Populations
+Age — The effect of age on the pharmacokinetics of HUMALOG has not been studied.
+However, in large clinical trials, sub-group analysis based on age did not indicate any difference in postprandial glucose parameters between HUMALOG and regular human insulin.
 
-### Age and Gender
+Gender — The effect of gender on the pharmacokinetics of HUMALOG has not been studied.
+However, in large clinical trials, sub-group analysis based on gender did not indicate any difference in postprandial glucose parameters between HUMALOG and regular human insulin.
 
-Information on the effect of age and gender on the pharmacokinetics of Humalog is unavailable.
-However, in large clinical trials, sub-group analysis based on age and gender did not indicate any difference in postprandial glucose parameters between Humalog and Regular human insulin.
-
-### Smoking
-
-The effect of smoking on the pharmacokinetics and pharmacodynamics of Humalog has not been studied.
-
-### Pregnancy
-
-The effect of pregnancy on the pharmacokinetics and pharmacodynamics of Humalog has not been studied.
-
-### Obesity
-
-The effect of obesity and/or subcutaneous fat thickness on the pharmacokinetics and pharmacodynamics of Humalog has not been studied.
-In large clinical trials, which included patients with Body Mass Index up to and including 35 kg/m2, no consistent differences were observed between Humalog and Humulin® R with respect to postprandial glucose parameters.
-
-### Renal Impairment
-
-Some studies with human insulin have shown increased circulating levels of insulin in patients with renal failure.
-In a study of 25 patients with type 2 diabetes and a wide range of renal function, the pharmacokinetic differences between Humalog and Regular human insulin were generally maintained.
+Renal Impairment — Type 2 diabetic patients with varying degree of renal impairment showed no difference in pharmacokinetics of regular insulin and HUMALOG.
 However, the sensitivity of the patients to insulin did change, with an increased response to insulin as the renal function declined.
-Careful glucose monitoring and dose reductions of insulin, including Humalog, may be necessary in patients with renal dysfunction.
+Some studies with human insulin have shown increased circulating levels of insulin in patients with renal impairment.
+Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with renal dysfunction [see Warnings and Precautions (5.5)].
 
-### Hepatic Impairment
+Hepatic Impairment — Type 2 diabetic patients with impaired hepatic function showed no effect on the pharmacokinetic of HUMALOG as compared to patients with no hepatic dysfunction.
+However, some studies with human insulin have shown increased circulating levels of insulin in patients with liver failure.
+Careful glucose monitoring and dose adjustments of insulin, including HUMALOG, may be necessary in patients with hepatic dysfunction.
 
-Some studies with human insulin have shown increased circulating levels of insulin in patients with hepatic failure.
-In a study of 22 patients with type 2 diabetes, impaired hepatic function did not affect the subcutaneous absorption or general disposition of Humalog when compared with patients with no history of hepatic dysfunction.
-In that study, Humalog maintained its more rapid absorption and elimination when compared with Regular human insulin.
-Careful glucose monitoring and dose adjustments of insulin, including Humalog, may be necessary in patients with hepatic dysfunction.
+Race – The effects of race on the pharmacokinetics and pharmacodynamics of HUMALOG have not been studied.
+
+Obesity – The effect of obesity on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.
+
+Pregnancy – The effect of pregnancy on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied [see Use in Specific Populations (8.1)].
+
+Smoking – The effect of smoking on the pharmacokinetics and pharmacodynamics of HUMALOG has not been studied.

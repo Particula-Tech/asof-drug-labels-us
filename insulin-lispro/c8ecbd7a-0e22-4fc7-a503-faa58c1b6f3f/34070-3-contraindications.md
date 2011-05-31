@@ -1,3 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Humalog is contraindicated during episodes of hypoglycemia and in patients sensitive to Humalog or any of its excipients.
+HUMALOG is contraindicated:
+
+- during episodes of hypoglycemia
+- in patients who are hypersensitive to HUMALOG or to any of its excipients.
