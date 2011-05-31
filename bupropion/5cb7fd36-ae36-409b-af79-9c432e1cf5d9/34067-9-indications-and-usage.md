@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Aplenzin™ (bupropion hydrobromide extended-release tablets) is indicated for the treatment of major depressive disorder.
+Aplenzin® (bupropion hydrobromide extended-release tablets) is indicated for the treatment of major depressive disorder.
 
 The efficacy of bupropion in the treatment of a major depressive episode was established in two 4-week controlled trials of inpatients and in one 6-week controlled trial of outpatients whose diagnoses corresponded most closely to the Major Depression category of the APA Diagnostic and Statistical Manual (DSM) [see CLINICAL STUDIES (14)].
 

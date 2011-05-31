@@ -218,7 +218,7 @@ The tablets are printed with edible black ink.
 
 The following are registered trademarks of their respective manufacturers: WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN®/GlaxoSmithKline
 
-Revised 09/2011
+Revised 09/2009
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
