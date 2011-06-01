@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090686"
+  ],
+  "inn": "donepezil",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-102-05",
+    "13668-102-30",
+    "13668-102-40",
+    "13668-102-74",
+    "13668-102-90",
+    "13668-103-05",
+    "13668-103-26",
+    "13668-103-30",
+    "13668-103-74",
+    "13668-103-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil Hydrochloride"
+    }
+  ],
+  "setid": "76bf638e-dbde-418e-8977-1caf009990bc",
+  "source": "dailymed"
+}
