@@ -1,0 +1,121 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Schizophrenia
+
+Adults
+
+Usual Initial Dose
+
+Risperidone oral solution, USP can be administered once or twice daily.
+Initial dosing is generally 2 mg/day.
+Dose increases should then occur at intervals not less than 24 hours, in increments of 1 to 2 mg/day, as tolerated, to a recommended dose of 4 to 8 mg/day.
+In some patients, slower titration may be appropriate.
+Efficacy has been demonstrated in a range of 4 to 16 mg/day [see Clinical Studies (14.1)].
+However, doses above 6 mg/day for twice daily dosing were not demonstrated to be more efficacious than lower doses, were associated with more extrapyramidal symptoms and other adverse effects, and are generally not recommended.
+In a single study supporting once-daily dosing, the efficacy results were generally stronger for 8 mg than for 4 mg.
+The safety of doses above 16 mg/day has not been evaluated in clinical trials.
+
+Maintenance Therapy
+
+While it is unknown how long a patient with schizophrenia should remain on risperidone oral solution, USP, the effectiveness of risperidone oral solution, USP 2 mg/day to 8 mg/day at delaying relapse was demonstrated in a controlled trial in patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
+Patients should be periodically reassessed to determine the need for maintenance treatment with an appropriate dose.
+
+Adolescents
+
+The dosage of risperidone oral solution, USP should be initiated at 0.5 mg once daily, administered as a single-daily dose in either the morning or evening.
+Dosage adjustments, if indicated, should occur at intervals not less than 24 hours, in increments of 0.5 or 1 mg/day, as tolerated, to a recommended dose of 3 mg/day.
+Although efficacy has been demonstrated in studies of adolescent patients with schizophrenia at doses between 1 and 6 mg/day, no additional benefit was seen above 3 mg/day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg/day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
+
+There are no controlled data to support the longer term use of risperidone oral solution, USP beyond 8 weeks in adolescents with schizophrenia.
+The physician who elects to use risperidone oral solution, USP for extended periods in adolescents with schizophrenia should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+
+Reinitiation of Treatment in Patients Previously Discontinued
+
+Although there are no data to specifically address reinitiation of treatment, it is recommended that after an interval off risperidone oral solution, USP, the initial titration schedule should be followed.
+
+Switching From Other Antipsychotics
+
+There are no systematically collected data to specifically address switching schizophrenic patients from other antipsychotics to risperidone oral solution, USP, or treating patients with concomitant antipsychotics.
+While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some schizophrenic patients, more gradual discontinuation may be most appropriate for others.
+The period of overlapping antipsychotic administration should be minimized.
+When switching schizophrenic patients from depot antipsychotics, initiate risperidone oral solution, USP therapy in place of the next scheduled injection.
+The need for continuing existing EPS medication should be re-evaluated periodically.
+
+## 2.2 Bipolar Mania
+
+Usual Dose
+
+Adults
+
+Risperidone oral solution, USP should be administered on a once-daily schedule, starting with 2 mg to 3 mg per day.
+Dosage adjustments, if indicated, should occur at intervals of not less than 24 hours and in dosage increments/decrements of 1 mg per day, as studied in the short-term, placebo-controlled trials.
+In these trials, short-term (3 week) anti-manic efficacy was demonstrated in a flexible dosage range of 1 to 6 mg per day [see Clinical Studies (14.2, 14.3)].
+Risperidone oral solution, USP doses higher than 6 mg per day were not studied.
+
+Pediatrics
+
+The dosage of risperidone oral solution, USP should be initiated at 0.5 mg once daily, administered as a single-daily dose in either the morning or evening.
+Dosage adjustments, if indicated, should occur at intervals not less than 24 hours, in increments of 0.5 or 1 mg/day, as tolerated, to a recommended dose of 2.5 mg/day.
+Although efficacy has been demonstrated in studies of pediatric patients with bipolar mania at doses between 0.5 and 6 mg/day, no additional benefit was seen above 2.5 mg/day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg/day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
+
+Maintenance Therapy
+
+There is no body of evidence available from controlled trials to guide a clinician in the longer-term management of a patient who improves during treatment of an acute manic episode with risperidone oral solution, USP.
+While it is generally agreed that pharmacological treatment beyond an acute response in mania is desirable, both for maintenance of the initial response and for prevention of new manic episodes, there are no systematically obtained data to support the use of risperidone oral solution, USP in such longer-term treatment (i.e., beyond 3 weeks).
+The physician who elects to use risperidone oral solution, USP for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+
+## 2.3 Irritability Associated with Autistic Disorder – Pediatrics (Children and Adolescents)
+
+The safety and effectiveness of risperidone oral solution, USP in pediatric patients with autistic disorder less than 5 years of age have not been established.
+
+The dosage of risperidone oral solution, USP should be individualized according to the response and tolerability of the patient.
+The total daily dose of risperidone oral solution, USP can be administered once daily, or half the total daily dose can be administered twice daily.
+
+Dosing should be initiated at 0.25 mg per day for patients < 20 kg and 0.5 mg per day for patients ≥ 20 kg.
+After a minimum of four days from treatment initiation, the dose may be increased to the recommended dose of 0.5 mg per day for patients < 20 kg and 1 mg per day for patients ≥ 20 kg.
+This dose should be maintained for a minimum of 14 days.
+In patients not achieving sufficient clinical response, dose increases may be considered at ≥ 2-week intervals in increments of 0.25 mg per day for patients < 20 kg or 0.5 mg per day for patients ≥ 20 kg.
+Caution should be exercised with dosage for smaller children who weigh less than 15 kg.
+
+In clinical trials, 90% of patients who showed a response (based on at least 25% improvement on ABC-I, [see Clinical Studies (14.4)]) received doses of risperidone oral solution, USP between 0.5 mg and 2.5 mg per day.
+The maximum daily dose of risperidone oral solution, USP in one of the pivotal trials, when the therapeutic effect reached plateau, was 1 mg in patients < 20 kg, 2.5 mg in patients ≥ 20 kg, or 3 mg in patients > 45 kg.
+No dosing data is available for children who weighed less than 15 kg.
+
+Once sufficient clinical response has been achieved and maintained, consideration should be given to gradually lowering the dose to achieve the optimal balance of efficacy and safety.
+The physician who elects to use risperidone oral solution, USP for extended periods should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
+
+Patients experiencing persistent somnolence may benefit from a once-daily dose administered at bedtime or administering half the daily dose twice daily, or a reduction of the dose.
+
+## 2.4 Dosage in Special Populations
+
+The recommended initial dose is 0.5 mg twice daily in patients who are elderly or debilitated, patients with severe renal or hepatic impairment, and patients either predisposed to hypotension or for whom hypotension would pose a risk.
+Dosage increases in these patients should be in increments of no more than 0.5 mg twice daily.
+Increases to dosages above 1.5 mg twice daily should generally occur at intervals of at least 1 week.
+In some patients, slower titration may be medically appropriate.
+
+Elderly or debilitated patients, and patients with renal impairment, may have less ability to eliminate risperidone oral solution, USP than normal adults.
+Patients with impaired hepatic function may have increases in the free fraction of risperidone, possibly resulting in an enhanced effect [see Clinical Pharmacology (12.3)].
+Patients with a predisposition to hypotensive reactions or for whom such reactions would pose a particular risk likewise need to be titrated cautiously and carefully monitored [see Warnings and Precautions (5.2,5.7,5.17)].
+If a once-daily dosing regimen in the elderly or debilitated patient is being considered, it is recommended that the patient be titrated on a twice-daily regimen for 2 to 3 days at the target dose.
+Subsequent switches to a once-daily dosing regimen can be done thereafter.
+
+## 2.5 Co-Administration of Risperidone Oral Solution with Certain Other Medications
+
+Co-administration of carbamazepine and other enzyme inducers (e.g., phenytoin, rifampin, phenobarbital) with risperidone oral solution, USP would be expected to cause decreases in the plasma concentrations of the sum of risperidone and 9-hydroxyrisperidone combined, which could lead to decreased efficacy of risperidone oral solution, USP treatment.
+The dose of risperidone oral solution, USP needs to be titrated accordingly for patients receiving these enzyme inducers, especially during initiation or discontinuation of therapy with these inducers [see Drug Interactions (7.11)].
+
+Fluoxetine and paroxetine have been shown to increase the plasma concentration of risperidone 2.5 to 2.8 fold and 3 to 9 fold, respectively.
+Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
+Paroxetine lowered the concentration of 9-hydroxyrisperidone by about 10%.
+The dose of risperidone oral solution, USP needs to be titrated accordingly when fluoxetine or paroxetine is co-administered [see Drug Interactions (7.10)].
+
+## 2.6 Administration of Risperidone Oral Solution
+
+Risperidone oral solution, USP can be administered directly from the calibrated pipette, or can be mixed with a beverage prior to administration.
+Risperidone oral solution, USP is compatible in the following beverages: water, coffee, orange juice, and low-fat milk; it is NOT compatible with either cola or tea.

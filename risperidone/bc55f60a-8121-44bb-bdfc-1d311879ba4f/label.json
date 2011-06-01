@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091384"
+  ],
+  "inn": "risperidone",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-673-84"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "risperidone",
+      "name": "Risperidone"
+    }
+  ],
+  "setid": "bc55f60a-8121-44bb-bdfc-1d311879ba4f",
+  "source": "dailymed"
+}
