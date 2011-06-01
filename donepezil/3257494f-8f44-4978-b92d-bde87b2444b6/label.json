@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA090056"
+  ],
+  "inn": "donepezil",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-325-01",
+    "65862-325-10",
+    "65862-325-30",
+    "65862-325-59",
+    "65862-325-90",
+    "65862-325-99",
+    "65862-326-01",
+    "65862-326-14",
+    "65862-326-30",
+    "65862-326-39",
+    "65862-326-90",
+    "65862-326-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil Hydrochloride"
+    }
+  ],
+  "setid": "3257494f-8f44-4978-b92d-bde87b2444b6",
+  "source": "dailymed"
+}
