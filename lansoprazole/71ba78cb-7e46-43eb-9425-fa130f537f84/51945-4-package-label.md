@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 15 mg Capsules Bottle of 1000
+PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
 NDC 64764-541-19 1000 Capsules
 
@@ -8,9 +8,9 @@ PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 Rx only
 
-Takeda logo
+Takeda
 
-PRINCIPAL DISPLAY PANEL - 30 mg Capsules Bottle of 1000
+PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
 NDC 64764-046-19 1000 Capsules
 
@@ -20,7 +20,7 @@ PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 Rx only
 
-Takeda logo
+Takeda
 
 PRINCIPAL DISPLAY PANEL - 15 mg SoluTab Blister Carton
 

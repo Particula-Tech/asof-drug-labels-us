@@ -1,5 +1,3 @@
-FDA-Approved Patient Labeling
-
 Patient Information
 
 PREVACID (prev-ǎ-sid) (lansoprazole) Delayed-Release Capsules and PREVACID SoluTab (prev-ǎ-sid sol-ū-tab) (lansoprazole) Delayed-Release Orally Disintegrating Tablets
@@ -26,7 +24,8 @@ PREVACID is used in adults:
   This may cause a burning feeling in your chest or throat, sour taste or burping.
   In some cases, acid can damage the lining of your esophagus.
   This damage is called erosive esophagitis.
-- for 8 weeks to heal the acid-related damage to the lining of the esophagus (called erosive esophagitis) and to relieve symptoms, such as heartburn pain, If needed, your doctor may prescribe an additional 8 weeks of PREVACID.
+- for 8 weeks to heal the acid-related damage to the lining of the esophagus (called erosive esophagitis) and to relieve symptoms, such as heartburn pain.
+  If needed, your doctor may prescribe an additional 8 weeks of PREVACID.
 - to stop erosive esophagitis from coming back (studies lasted 12 months).
 - for the long-term treatment of conditions where your stomach makes too much acid.
   This includes a condition called Zollinger-Ellison syndrome.
@@ -34,7 +33,7 @@ PREVACID is used in adults:
 PREVACID is used in children and adolescents (ages 1-17):
 
 - for up to 12 weeks to treat GERD and erosive esophagitis, in children 1 to 11 years old.
-- for up to 8 weeks to treat GERD and erosive esophagitis, in adolescents 12 to17 years old.
+- for up to 8 weeks to treat GERD and erosive esophagitis, in adolescents 12 to 17 years old.
 
 PREVACID is not recommended for children under the age of 1 year.
 
@@ -50,10 +49,11 @@ What should I tell my doctor before taking PREVACID?
 
 Before you take PREVACID, tell your doctor if you:
 
-- have liver problems
+- have been told that you have low magnesium levels in your blood.
+- have liver problems.
 - have phenylketonuria.
   PREVACID SoluTab contains aspartame.
-- have any other medical conditions
+- have any other medical conditions.
 - are pregnant or plan to become pregnant.
   It is not known if PREVACID will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
@@ -82,7 +82,7 @@ How should I take PREVACID?
 - Do not change your dose or stop taking PREVACID without talking to your doctor first.
 - You should take PREVACID before eating.
 - PREVACID capsules can be swallowed whole, do not crush or chew them.
-  They can also be opened and sprinkled into approximately ¼ cup apple, tomato or orange juice, or on 1 tablespoon applesauce, Ensure® pudding, cottage cheese, yogurt or strained pears only.
+  They can also be opened and sprinkled into approximately ¼ cup apple, tomato or orange juice, or on 1 tablespoon applesauce, Ensure pudding, cottage cheese, yogurt or strained pears only.
   See "Patient Instructions for Use" at the end of this leaflet for instructions on how to take PREVACID capsules with these foods, and how to mix and give PREVACID capsules through a nasogastric tube.
 - PREVACID SoluTab is a tablet that melts in your mouth with or without water.
   Do not break, cut or chew the tablets.
@@ -96,15 +96,35 @@ How should I take PREVACID?
 
 What are the possible side effects of PREVACID?
 
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with PREVACID.
-
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with PREVACID.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
 Your doctor may stop PREVACID if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms:
+
+- 
+  - seizures
+  - dizziness
+  - abnormal or fast heartbeat
+  - jitteriness
+  - jerking movements or shaking (tremors)
+  - muscle weakness
+  - spasms of the hands and feet
+  - cramps or muscle aches
+  - spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking PREVACID, or during treatment; if you will be taking PREVACID for a long period of time.
 
 The most common side effects of PREVACID in adults and children include:
 
@@ -149,16 +169,19 @@ PREVACID Delayed-Release Capsules
 - Swallow PREVACID Delayed-Release Capsules whole.
   Do not crush or chew them.
 - If you have trouble swallowing a whole capsule, you can open the capsule and take it with the foods or juices listed below.
-  For taking PREVACID Delayed-Release Capsules with applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears: For taking PREVACID Delayed-Release Capsules with apple juice, orange juice or tomato juice: For giving PREVACID Delayed-Release Capsules through a nasogastric tube (NG tube) ≥16 French, as prescribed by your doctor:
+
+- For taking PREVACID Delayed-Release Capsules with applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears:
   - Open the capsule.
   - Sprinkle the granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
   - Swallow right away.
+- For taking PREVACID Delayed-Release Capsules with apple juice, orange juice or tomato juice:
   - Open the capsule.
   - Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
   - Stir briefly.
   - Swallow right away.
   - To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
     Swallow the juice right away.
+- For giving PREVACID Delayed-Release Capsules through a nasogastric tube (NG tube) ≥16 French, as prescribed by your doctor:
   - Open the capsule and empty the granules into a syringe.
     Do not break or crush the granules.
   - Mix with 40 mL of apple juice.
@@ -174,13 +197,14 @@ PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
   - Put the tablet on the tongue and let it dissolve, with or without water.
     Swallow after the tablet dissolves.
   - The tablet typically dissolves in less than 1 minute.
-
 - Children or other patients who have trouble swallowing tablets can be given PREVACID SoluTab with an oral syringe or through a nasogastric tube (NG tube) ≥8 French, as prescribed by your doctor.
-  For giving PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets with an oral syringe: For giving PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets through a nasogastric tube (NG tube) ≥8 French, as prescribed by your doctor:
+
+- For giving PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets with an oral syringe:
   - Put a 15 mg tablet in an oral syringe and add 4 mL of water, or put a 30 mg tablet in an oral syringe and add 10 mL of water.
   - Shake the syringe gently to let the tablet dissolve quickly.
   - After the tablet has dissolved, give the medicine within 15 minutes.
   - To make sure that the entire dose is taken, refill the syringe with about 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and give the water in the syringe.
+- For giving PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets through a nasogastric tube (NG tube) ≥8 French, as prescribed by your doctor:
   - Put a 15 mg tablet in a syringe and add 4 mL of water, or put a 30 mg tablet in a syringe and add 10 mL of water.
   - Shake the syringe gently to let the tablet dissolve quickly.
   - After the tablet has dissolved, give the medicine in the syringe through the NG tube into the stomach within 15 minutes.
@@ -204,6 +228,8 @@ PREVACID is a trademark registered in the U.S. Patent and Trademark office and S
 
 All other trademark names are the property of their respective owners.
 
-©1995-2010 Takeda Pharmaceuticals America, Inc.
+©1995-2011 Takeda Pharmaceuticals America, Inc.
 
-PRV012 R36 August 2010
+PRV012 R39
+
+May 2011

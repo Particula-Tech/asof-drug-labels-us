@@ -53,8 +53,11 @@ Table 2: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pedia
 
 | GERD | Final VisitAt Week 8 or Week 12 % (n/N) |
 | --- | --- |
-| Symptomatic GERD Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. | 76% (47/62No data were available for 4 pediatric patients.) |
-| Erosive Esophagitis Improvement in Overall GERD Symptoms Healing Rate | 81% (22/27) 100% (27/27) |
+| Symptomatic GERD |  |
+| Improvement in Overall GERD SymptomsSymptoms assessed by patients diary kept by caregiver. | 76% (47/62No data were available for 4 pediatric patients.) |
+| Erosive Esophagitis |  |
+| Improvement in Overall GERD Symptoms | 81% (22/27) |
+| Healing Rate | 100% (27/27) |
 
 In a study of 66 pediatric patients in the age group 1 year to 11 years old after treatment with PREVACID given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
 Median fasting serum gastrin levels increased 89% from 51 pg/mL at baseline to 97 pg/mL [interquartile range (25th to 75th percentile) of 71 to 130 pg/mL] at the final visit.

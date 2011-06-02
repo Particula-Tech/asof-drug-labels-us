@@ -42,7 +42,7 @@ Endocrine System – diabetes mellitus, goiter, hypothyroidism
 
 Hemic and Lymphatic System – anemia, hemolysis, lymphadenopathy
 
-Metabolic and Nutritional Disorders – avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, peripheral edema, weight gain/loss
+Metabolism and Nutritional Disorders – avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, peripheral edema, weight gain/loss
 
 Musculoskeletal System – arthralgia, arthritis, bone disorder, joint disorder, leg cramps, musculoskeletal pain, myalgia, myasthenia, ptosis, synovitis
 
@@ -63,7 +63,7 @@ The majority of these cases are foreign-sourced and a relationship to PREVACID h
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Musculoskeletal System – bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
+Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System – bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
