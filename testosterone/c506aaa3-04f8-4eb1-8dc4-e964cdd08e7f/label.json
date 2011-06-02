@@ -5,15 +5,19 @@
   "inn": "testosterone",
   "labeler": "Abbott Products, Inc.",
   "package_ndcs": [
+    "0051-8425-01",
     "0051-8425-30",
+    "0051-8444-18",
+    "0051-8450-01",
     "0051-8450-30",
+    "0051-8488-33",
     "0051-8488-88"
   ],
   "products": [
     {
       "form": "GEL",
       "generic": "testosterone",
-      "name": "AndroGel"
+      "name": "Androgel"
     }
   ],
   "setid": "c506aaa3-04f8-4eb1-8dc4-e964cdd08e7f",

@@ -129,6 +129,8 @@ How should I use AndroGel?
 - Let the application areas dry for a few minutes before putting on a shirt.
 - To prevent transfer of AndroGel to others, clothes (such as a t-shirt) should always be worn to cover the AndroGel application areas until you have washed the application areas well with soap and water.
 
+- Wait 5 hours before showering or swimming.
+  This will ensure that the greatest amount of AndroGel is absorbed into your system.
 - AndroGel is flammable until dry.
   Let the gel dry before smoking or going near an open flame.
 
@@ -203,16 +205,16 @@ For more information, go to www.ANDROGEL.com or call 1-800-241-1643.
 What are the ingredients in AndroGel?
 Active ingredient: testosterone Inactive ingredients: carbomer 980, ethyl alcohol 67.0%, isopropyl myristate, purified water and sodium hydroxide.
 
-© 2009 Solvay Pharmaceuticals, Inc.
+© 2010 Abbott Laboratories
 
 Marketed by:
 
-Solvay Pharmaceuticals, Inc.
+Abbott Laboratories
 
-Marietta, GA 30062, U.S.A.
+North Chicago, IL 60064, U.S.A.
 
-500122/500127 1E Rev Sep 2009
+500122/500127 3E Rev Mar 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued Sep 2009
+Issued March 2011

@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide (17.5)
+See FDA-Approved Medication Guide
 
-## 17.1 Men with known or suspected prostate or breast cancer should not use AndroGel.
+## 17.1 Men with known or suspected prostate or breast cancer should not use AndroGel
 
 ## 17.2 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
@@ -15,7 +15,7 @@ Cases of secondary exposure to testosterone have been reported in children with 
 - The possibility of secondary exposure to testosterone gel should be brought to the attention of a healthcare provider
 - Testosterone gel should be promptly discontinued until the cause of virilization is identified
 
-Strict adherence to the following precautions is advised to minimize the potential for secondary exposure to testosterone from testosterone gel in men [see FDA-Approved Medication Guide (17.5)]:
+Strict adherence to the following precautions is advised to minimize the potential for secondary exposure to testosterone from testosterone gel in men [see FDA-Approved Medication Guide]:
 
 - Children and women should avoid contact with unwashed or unclothed application site(s) of men using testosterone gel
 - To minimize the potential for transfer to others, patients using AndroGel should apply the product as directed and strictly adhere to the following:
@@ -33,7 +33,7 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Too frequent or persistent erections of the penis.
 - Nausea, vomiting, changes in skin color, or ankle swelling.
 
-## 17.4 Patients Should Be Advised:
+## 17.4 Patients Should Be Advised
 
 - To read the Medication Guide before starting AndroGel therapy and to reread it each time the prescription is renewed
 - Of the appropriate application and use of AndroGel to maximize the benefits and to minimize the risk of secondary exposure in children and women
@@ -41,6 +41,8 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - That AndroGel is an alcohol based product and is flammable; therefore avoid fire, flame or smoking until the gel has dried
 - Of the importance of adhering to all recommended monitoring
 - To report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood
+- To wait 5 hours before showering or swimming.
+  This will ensure that the greatest amount of AndroGel is absorbed into their system.
 
 Marketed By: Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
@@ -48,6 +50,4 @@ U.S. Patent No. 6,503,894
 
 © 2010 Abbott Laboratories
 
-500122/500127 2E Rev Mar 2010
-
-## 17.5 FDA-Approved Medication Guide
+500122/500127 4E Rev Mar 2011

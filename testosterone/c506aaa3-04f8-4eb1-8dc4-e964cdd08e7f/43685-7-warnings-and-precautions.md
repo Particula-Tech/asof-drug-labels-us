@@ -73,6 +73,6 @@ The treatment of hypogonadal men with testosterone products may potentiate sleep
 - Androgens should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
   Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.10 Flammable until Dry
+## 5.10 Flammable Until Dry
 
 - Alcohol Based Products including AndroGel are flammable; therefore avoid fire, flame or smoking until the gel has dried.
