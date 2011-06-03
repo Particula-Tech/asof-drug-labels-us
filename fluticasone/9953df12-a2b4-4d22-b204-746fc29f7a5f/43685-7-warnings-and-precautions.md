@@ -37,6 +37,8 @@ If a favorable response does not occur promptly, use of CUTIVATE® Lotion should
 CUTIVATE® Lotion should not be used in the presence of preexisting skin atrophy and should not be used where infection is present at the treatment site.
 CUTIVATE® Lotion should not be used in the treatment of rosacea and perioral dermatitis.
 
+Patients that apply CUTIVATE® Lotion to exposed portions of the body should avoid excessive exposure to either natural or artificial sunlight (including tanning booths, sun lamps, etc.).
+
 Information for Patients: Patients using CUTIVATE® Lotion should receive the following information and instructions:
 
 1. CUTIVATE® Lotion is to be used as directed by the physician.
@@ -52,16 +54,21 @@ Information for Patients: Patients using CUTIVATE® Lotion should receive the fo
    If no improvement is seen within 2 weeks, contact a physician.
    The safety of the use of CUTIVATE® Lotion for longer than 4 weeks has not been established.
 8. Patients should report to their physician if they are allergic to formaldehyde.
+9. Patients that apply CUTIVATE® Lotion to exposed portions of the body should follow physician advice and routine precautions to avoid excessive or unnecessary exposure to either natural or artificial sunlight (such as sunbathing, tanning booths, sun lamps, etc.).
 
 Laboratory Tests: The cosyntropin (ACTH1·24) stimulation test may be helpful in evaluating patients for HPA axis suppression.
 
-Carcinogenesis, Mutagenesis, and Impairment of Fertility: No studies were conducted to determine the photococarcinogenic potential of CUTIVATE® Lotion.
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 In an oral (gavage) mouse carcinogenicity study, doses of 0.1, 0.3 and 1 mg/kg/day fluticasone propionate were administered to mice for 18 months.
 Fluticasone propionate demonstrated no tumorigenic potential at oral doses up to 1 mg/kg/day (less than the MRHD in adults based on body surface area comparisons) in this study.
 
 In a dermal mouse carcinogenicity study, 0.05% fluticasone propionate ointment (40 μl) was topically administered for 1, 3 or 7 days/week for 80 weeks.
 Fluticasone propionate demonstrated no tumorigenic potential at dermal doses up to 6.7 μg/kg/day (less than the MRHD in adults based on body surface area comparisons) in this study.
+
+In a 52 week dermal photo-carcinogenicity study conducted in hairless albino mice with concurrent exposure to low level ultraviolet radiation (40 weeks of treatment followed by 12 weeks of observation), topically treated lotion vehicle animals and 0.05% fluticasone propionate lotion animals demonstrated shorter time to benign skin tumor formation compared to untreated control animals.
+Lotion vehicle treated animals developed benign skin tumors in a shorter time than 0.05% fluticasone propionate lotion treated animals.
+Although applicability of results to clinical use of CUTIVATE® Lotion in humans is unknown, and enhanced tumor growth in patients treated with CUTIVATE® Lotion has not been reported, patients should exercise general precautions in minimizing UV light exposure by avoiding excessive or unnecessary exposure to either natural or artificial sunlight (including sunbathing, tanning booths, sun lamps, etc.)
 
 Fluticasone propionate revealed no evidence of mutagenic or clastogenic potential based on the results of five in vitro genotoxicity tests (Ames assay, E. coli fluctuation test, S. cerevisiae gene conversion test, Chinese hamster ovary cell chromosome aberration assay and human lymphocyte chromosome aberration assay) and one in vivo genotoxicity test (mouse micronucleus assay).
 
