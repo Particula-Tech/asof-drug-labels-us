@@ -70,6 +70,5 @@ White/orange hard gelatin capsule printed with black ink "Pfizer" on the cap, "P
 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
-For the oral solution, use within 45 days of first opening the bottle.
 
 See FDA-Approved Medication Guide

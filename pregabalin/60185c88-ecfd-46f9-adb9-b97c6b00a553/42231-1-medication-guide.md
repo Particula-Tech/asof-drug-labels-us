@@ -164,7 +164,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store LYRICA?
 
 - Store LYRICA capsules and oral solution at room temperature, 59°F to 86°F (15°C to 30°C) in its original package.
-- LYRICA Oral Solution must be used within 45 days of first opening the bottle.
 - Safely throw away any LYRICA that is out of date or no longer needed.
 - Keep LYRICA and all medicines out of the reach of children.
 
@@ -202,4 +201,4 @@ Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
 
 Oral Solution manufactured by: Pfizer Inc. Kalamazoo, MI 49001
 
-LAB-0299-7.0 December 2009
+LAB-0299-8.0 April 2011

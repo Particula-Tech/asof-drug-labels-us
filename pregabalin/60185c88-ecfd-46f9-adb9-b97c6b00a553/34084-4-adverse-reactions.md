@@ -292,3 +292,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Nervous System Disorders – Headache
 
 Gastrointestinal Disorders – Nausea, Diarrhea
+
+Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
