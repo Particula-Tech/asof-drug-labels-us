@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200300"
+  ],
+  "inn": "clonidine",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9723-01",
+    "0143-9724-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "clonidine hydrochloride",
+      "name": "Clonidine Hydrochloride"
+    }
+  ],
+  "setid": "2a5b46ec-4c16-48a5-9e58-8d28a3f21274",
+  "source": "dailymed"
+}
