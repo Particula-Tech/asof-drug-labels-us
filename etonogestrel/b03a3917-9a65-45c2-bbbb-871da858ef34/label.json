@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021529"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "Organon Pharmaceuticals USA",
+  "package_ndcs": [
+    "0052-0274-01",
+    "0052-0274-80"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "etonogestrel",
+      "name": "Nexplanon"
+    }
+  ],
+  "setid": "b03a3917-9a65-45c2-bbbb-871da858ef34",
+  "source": "dailymed"
+}
