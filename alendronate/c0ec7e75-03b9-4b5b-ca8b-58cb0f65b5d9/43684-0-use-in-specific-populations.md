@@ -53,6 +53,6 @@ There were no statistically significant differences between the alendronate and 
 ## 8.5 Geriatric Use
 
 Of the patients receiving FOSAMAX in the Fracture Intervention Trial (FIT), 71% (n=2302) were ≥65 years of age and 17% (n=550) were ≥75 years of age.
-Of the patients receiving FOSAMAX in the United States and Multinational osteoporosis treatment studies in women, and osteoporosis studies in men [see Clinical Studies (14.1)], 45% and 54%, respectively, were 65 years of age or over.
+Of the patients receiving FOSAMAX in the United States and Multinational osteoporosis treatment studies in women, and osteoporosis studies in men [see Clinical Studies (14.1, 14.2)], 45% and 54%, respectively, were 65 years of age or over.
 No overall differences in efficacy or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Dietary requirements of vitamin D3 are increased in the elderly.

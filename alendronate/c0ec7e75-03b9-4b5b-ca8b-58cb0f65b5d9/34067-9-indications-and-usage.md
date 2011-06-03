@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-FOSAMAX PLUS D® is indicated for:
+FOSAMAX® PLUS D is indicated for:
 
 ## 1.1 Treatment of Osteoporosis in Postmenopausal Women
 

@@ -1,6 +1,6 @@
-MEDICATION GUIDE FOSAMAX PLUS D® (FOSS-ah-max PLUS D) (alendronate sodium/cholecalciferol) Tablets
+MEDICATION GUIDE FOSAMAX® PLUS D (FOSS-ah-max PLUS D) (alendronate sodium/cholecalciferol) Tablets
 
-Read the Medication Guide that comes with FOSAMAX PLUS D® before you start taking it and each time you get a refill.
+Read the Medication Guide that comes with FOSAMAX® PLUS D before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or treatment.
 Talk to your doctor if you have any questions about FOSAMAX PLUS D.
@@ -25,9 +25,7 @@ FOSAMAX PLUS D can cause serious side effects including:
    FOSAMAX PLUS D may lower the calcium levels in your blood.
    If you have low blood calcium before you start taking FOSAMAX PLUS D, it may get worse during treatment.
    Your low blood calcium must be treated before you take FOSAMAX PLUS D. Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-   Call your doctor right away if you have symptoms of low blood calcium such as:Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take FOSAMAX PLUS D. Take calcium and vitamin D as your doctor tells you to.
-   - Spasms, twitches, or cramps in your muscles
-   - Numbness or tingling in your fingers, toes, or around your mouth
+   Call your doctor right away if you have symptoms of low blood calcium such as:
 3. Bone, joint, or muscle pain.
    Some people who take FOSAMAX PLUS D develop severe bone, joint, or muscle pain.
 4. Severe jaw bone problems (osteonecrosis).
@@ -179,8 +177,8 @@ By: FROSST IBERICA, S.A.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised January 2011
+Revised March 2011
 
-6013310
+6013311
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
