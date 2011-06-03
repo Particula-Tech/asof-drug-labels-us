@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA075795"
+  ],
+  "inn": "glipizide",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0141-0",
+    "60505-0141-1",
+    "60505-0141-2",
+    "60505-0141-8",
+    "60505-0142-0",
+    "60505-0142-1",
+    "60505-0142-2",
+    "60505-0142-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glipizide",
+      "name": "Glipizide"
+    }
+  ],
+  "setid": "dcf426b8-bcdc-8214-a1b6-6388bd3399a0",
+  "source": "dailymed"
+}
