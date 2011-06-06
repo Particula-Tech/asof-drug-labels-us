@@ -14,7 +14,7 @@ Several published observational studies suggest that proton pump inhibitor (PPI)
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-[See Dosage and Administration (2) and Adverse Reactions (6.3)]
+[see Dosage and Administration (2) and Adverse Reactions (6.3)]
 
 ## 5.4 Diminished Anti-platelet Activity of clopidogrel Due to Impaired CYP2C19 Function by Omeprazole
 
@@ -53,3 +53,12 @@ Co-administration of omeprazole and clarithromycin has resulted in increases in 
 [See Clinical Pharmacology (12)]
 
 Concomitant administration of clarithromycin with cisapride or pimozide, is contraindicated.
+
+## 5.7 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.3)]

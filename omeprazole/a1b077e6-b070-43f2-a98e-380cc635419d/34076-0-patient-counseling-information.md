@@ -29,10 +29,12 @@ For patients with a nasogastric or gastric tube in place:
 - Refill the syringe with an equal amount of water.
 - Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
 
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
 ©AstraZeneca 2011
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
 
-Rev January 2011
+Rev May 2011

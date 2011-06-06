@@ -51,6 +51,7 @@ WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING PRILOSEC?
 
 Tell your doctor about all your medical conditions, including if you:
 
+- have been told that you have low magnesium levels in your blood
 - have liver problems
 - are pregnant or plan to become pregnant.
   It is not known if PRILOSEC will harm your unborn baby.
@@ -98,15 +99,34 @@ HOW SHOULD I TAKE PRILOSEC?
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF PRILOSEC?
 
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with PRILOSEC.
-
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with PRILOSEC.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
-Your doctor may stop PRILOSEC if these symptoms happen.
+Your doctor may stop PRILOSEC if these symptoms happen;
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms:
+
+- seizures
+- dizziness
+- abnormal or fast heart beat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking PRILOSEC or during treatment if you will be taking PRILOSEC for a long period of time.
 
 The most common side effects with PRILOSEC in adults and children include:
 
@@ -187,8 +207,10 @@ PRILOSEC is a registered trademark of the AstraZeneca group of companies.
 ©2010 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
+Manufactured for:
+
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-January 2011
+May 2011
