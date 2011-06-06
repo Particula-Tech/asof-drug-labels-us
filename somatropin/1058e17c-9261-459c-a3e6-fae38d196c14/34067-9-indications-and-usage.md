@@ -2,13 +2,13 @@
 
 ## 1.1 Pediatric Patients
 
-Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of children with growth failure due to inadequate secretion of endogenous growth hormone (GH).
+Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of pediatric patients with growth failure due to inadequate secretion of endogenous growth hormone (GH).
 
-Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of children with short stature associated with Noonan syndrome.
+Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of pediatric patients with short stature associated with Noonan syndrome.
 
-Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of children with short stature associated with Turner syndrome.
+Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of pediatric patients with short stature associated with Turner syndrome.
 
-Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of children with short stature born small for gestational age (SGA) with no catch-up growth by age 2-4 years.
+Norditropin [somatropin (rDNA origin) injection] is indicated for the treatment of pediatric patients with short stature born small for gestational age (SGA) with no catch-up growth by age 2 to 4 years.
 
 ## 1.2 Adult Patients
 

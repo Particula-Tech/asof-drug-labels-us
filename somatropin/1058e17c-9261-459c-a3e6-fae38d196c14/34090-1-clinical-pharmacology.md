@@ -68,5 +68,3 @@ Following infusion, serum hGH levels had a biexponential decay with a terminal e
 
 In a study conducted in 18 GHD adult patients, where a SC dose of 0.024 mg/kg or 3 IU/m2 was given in the thigh, mean (±SD) Cmax values of 13.8 (±5.8) and 17.1 (±10.0) ng/mL were observed for the 4 and 8 mg Norditropin vials, respectively, at approximately 4 to 5 hr. post dose.
 The mean apparent terminal T1/2 values were estimated to be approximately 7 to 10 hr. However, the absolute bioavailability for Norditropin after the SC route of administration is currently not known.
-
-The aqueous Norditropin cartridge formulation is bioequivalent to the lyophilized Norditropin vial formulation.

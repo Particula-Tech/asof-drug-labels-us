@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling
+See FDA-approved patient labeling.
 
 Patients being treated with Norditropin FlexPro or Norditropin NordiFlex prefilled pens, or Norditropin Cartridges, (and/or their parents) should be informed about the potential risks and benefits associated with somatropin treatment [in particular, see Adverse Reactions (6.1) for a listing of the most serious and/or most frequently observed adverse reactions associated with somatropin treatment in children and adults].
 This information is intended to better educate patients (and caregivers); it is not a disclosure of all possible adverse or intended effects.
@@ -14,15 +14,15 @@ If patients are prescribed Norditropin Cartridges (to be inserted into color-cod
 
 If patients are prescribed Norditropin FlexPro or Norditropin NordiFlex, physicians should instruct patients to read the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets provided with the Norditropin FlexPro and Norditropin NordiFlex prefilled pens.
 
-Date of Issue: March 2, 2010
+Date of Issue: May 25, 2011
 
-Version: 12
+Version: 14
 
 Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
 Norditropin®, FlexPro®, NordiPen® and Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
 
-© 2002-2010 Novo Nordisk Health Care AG
+© 2002-2011 Novo Nordisk Health Care AG
 
 For information contact:
 

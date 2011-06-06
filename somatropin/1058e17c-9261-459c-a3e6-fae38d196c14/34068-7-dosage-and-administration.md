@@ -18,7 +18,7 @@ Treatment with Norditropin for short stature should be discontinued when the epi
 
 Pediatric Growth Hormone Deficiency (GHD)
 
-A dosage of 0.024 - 0.034 mg/kg/day, 6-7 times a week, is recommended.
+A dosage of 0.024 to 0.034 mg/kg/day, 6 to 7 times a week, is recommended.
 
 Pediatric Patients with Short Stature Associated with Noonan Syndrome
 
@@ -31,7 +31,7 @@ Pediatric Patients with Short Stature Associated with Turner Syndrome
 
 A dosage of up to 0.067 mg/kg/day is recommended.
 
-Pediatric Patients with Short Stature Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
+Pediatric Patients with Short Stature Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2 to 4 Years
 
 A dosage of up to 0.067 mg/kg/day is recommended.
 
@@ -46,7 +46,7 @@ Adult Growth Hormone Deficiency (GHD)
 Either of two approaches to Norditropin dosing may be followed: a non-weight-based regimen or a weight-based regimen.
 
 Non-weight based — based on published consensus guidelines, a starting dose of approximately 0.2 mg/day (range, 0.15-0.30 mg/day) may be used without consideration of body weight.
-This dose can be increased gradually every 1-2 months by increments of approximately 0.1-0.2 mg/day, according to individual patient requirements based on the clinical response and serum insulin-like growth factor I (IGF-I) concentrations.
+This dose can be increased gradually every 1 to 2 months by increments of approximately 0.1-0.2 mg/day, according to individual patient requirements based on the clinical response and serum insulin-like growth factor I (IGF-I) concentrations.
 The dose should be decreased as necessary on the basis of adverse events and/or serum IGF-I concentrations above the age- and gender-specific normal range.
 Maintenance dosages vary considerably from person to person, and between male and female patients.
 

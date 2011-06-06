@@ -25,13 +25,14 @@ In adults, it is unknown whether there is any relationship between somatropin re
 
 Patients should be monitored carefully for potential malignant transformation of skin lesions, i.e. increased growth of preexisting nevi.
 
-## 5.4 Glucose Intolerance
+## 5.4 Impaired Glucose Tolerance and Diabetes Mellitus
 
 Treatment with somatropin may decrease insulin sensitivity, particularly at higher doses in susceptible patients.
 As a result, previously undiagnosed impaired glucose tolerance and overt diabetes mellitus may be unmasked during somatropin treatment.
+New onset type 2 Diabetes Mellitus has been reported in patients.
 Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for diabetes mellitus, such as obesity, Turner syndrome, or a family history of diabetes mellitus.
 Patients with preexisting type 1 or type 2 diabetes mellitus or impaired glucose tolerance should be monitored closely during somatropin therapy.
-The doses of antihyperglycemic drugs (i.e., insulin or oral agents) may require adjustment when somatropin therapy is instituted in these patients.
+The doses of antihyperglycemic drugs (i.e., insulin or oral/injectable agents) may require adjustment when somatropin therapy is instituted in these patients.
 
 ## 5.5 Intracranial Hypertension
 
@@ -93,3 +94,9 @@ Parents/Patients should be informed that such reactions are possible and that pr
 ## 5.13 Laboratory Tests
 
 Serum levels of inorganic phosphorus, alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may increase after somatropin therapy.
+
+## 5.14 Pancreatitis
+
+Cases of pancreatitis have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults.
+Published literature indicates that girls who have Turner syndrome may be at greater risk than other somatropin-treated children.
+Pancreatitis should be considered in any somatropin-treated patient, especially a child, who develops persistent severe abdominal pain.

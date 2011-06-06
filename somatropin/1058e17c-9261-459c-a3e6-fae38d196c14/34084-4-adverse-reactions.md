@@ -14,18 +14,11 @@ This list presents the most seriousb and/or most frequently observeda adverse re
 - aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
 - aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.7)]
 - aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
+- Pancreatitis [see Warnings and Precautions (5.14)]
 
 ## 6.2 Clinical Trials Experience
 
 Because clinical trials are conducted under varying conditions, adverse reaction rates observed during the clinical trials performed with one somatropin formulation cannot always be directly compared to the rates observed during the clinical trials performed with a second somatropin formulation, and may not reflect the adverse reaction rates observed in practice.
-
-Clinical Trials in Pediatric GHD Patients
-
-As with all protein drugs, a small percentage of patients may develop antibodies to the protein.
-GH antibodies with binding capacities lower than 2 mg/L have not been associated with growth attenuation.
-In a very small number of patients, when binding capacity was greater than 2 mg/L, interference with the growth response was observed.
-In clinical trials, patients receiving Norditropin for up to 12 months were tested for induction of antibodies, and 0/358 patients developed antibodies with binding capacities above 2 mg/L.
-Amongst these patients, 165 had previously been treated with other somatropin formulations, and 193 were previously untreated naive patients.
 
 Clinical Trials in Children with Noonan Syndrome
 
@@ -126,7 +119,17 @@ Table 1 - Adverse Reactions with ≥5% Overall Incidence in Adult Onset Growth H
 
 The adverse event pattern observed during the open label phase of the study was similar to the one presented above.
 
-## 6.3 Post-Marketing Surveillance
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to Norditropin with the incidence of antibodies to other products may be misleading.
+In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
+In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.
+
+In clinical trials, GHD pediatric patients receiving Norditropin for up to 12 months were tested for induction of antibodies, and 0/358 patients developed antibodies with binding capacities above 2 mg/L.
+Amongst these patients, 165 had previously been treated with other somatropin formulations, and 193 were previously untreated naive patients.
+
+## 6.3 Post-Marketing Experience
 
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
@@ -136,4 +139,6 @@ It is uncertain whether these cases of leukemia are related to GH therapy, the p
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
 The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children).
+The following additional adverse reactions have been observed during the appropriate use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.14)])..
+
+New-onset type 2 diabetes mellitus has been reported.
