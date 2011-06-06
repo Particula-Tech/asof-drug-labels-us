@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077068",
+    "ANDA077156"
+  ],
   "inn": "baclofen",
   "labeler": "Qualitest Pharmaceuticals",
   "package_ndcs": [
@@ -14,7 +17,13 @@
     "0603-2407-28",
     "0603-2407-32"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "baclofen",
+      "name": "Baclofen"
+    }
+  ],
   "setid": "c17527be-661d-42f5-b6f6-56a681ba7870",
   "source": "dailymed"
 }

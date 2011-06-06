@@ -1,16 +1,16 @@
 # WARNINGS
 
-- a.Abrupt Drug Withdrawal: Hallucinations and seizures have occurred on abrupt withdrawal of baclofen.
-  Therefore, except for serious adverse reactions, the dose should be reduced slowly when the drug is discontinued.
-- b.Impaired Renal Function: Because baclofen is primarily excreted unchanged through the kidneys, it should be given with caution, and it may be necessary to reduce the dosage.
-- c.Stroke: Baclofen has not significantly benefitted patients with stroke.
-  These patients have also shown poor tolerability to the drug.
-- d.Pregnancy: Baclofen has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times the maximum dose recommended for human use, at a dose which caused significant reductions in food intake and weight gain in dams.
-  This abnormality was not seen in mice or rabbits.
-  There was also an increased incidence of incomplete sternebral ossification in fetuses of rats given approximately 13 times the maximum recommended human dose, and an increased incidence of unossified phalangeal nuclei of forelimbs and hindlimbs in fetuses of rabbits given approximately 7 times the maximum recommended human dose.
-  In mice, no teratogenic effects were observed, although reductions in mean fetal weight with consequent delays in skeletal ossification were present when dams were given 17 or 34 times the human daily dose.
-  There are no studies in pregnant women.
-  Baclofen should be used during pregnancy only if the benefit clearly justifies the potential risk to the fetus.
+1. Abrupt Drug Withdrawal: Hallucinations and seizures have occurred on abrupt withdrawal of baclofen.
+   Therefore, except for serious adverse reactions, the dose should be reduced slowly when the drug is discontinued.
+2. Impaired Renal Function: Because baclofen is primarily excreted unchanged through the kidneys, it should be given with caution, and it may be necessary to reduce the dosage.
+3. Stroke: Baclofen has not significantly benefitted patients with stroke.
+   These patients have also shown poor tolerability to the drug.
+4. Pregnancy: Baclofen has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times the maximum dose recommended for human use, at a dose which caused significant reductions in food intake and weight gain in dams.
+   This abnormality was not seen in mice or rabbits.
+   There was also an increased incidence of incomplete sternebral ossification in fetuses of rats given approximately 13 times the maximum recommended human dose, and an increased incidence of unossified phalangeal nuclei of forelimbs and hindlimbs in fetuses of rabbits given approximately 7 times the maximum recommended human dose.
+   In mice, no teratogenic effects were observed, although reductions in mean fetal weight with consequent delays in skeletal ossification were present when dams were given 17 or 34 times the human daily dose.
+   There are no studies in pregnant women.
+   Baclofen should be used during pregnancy only if the benefit clearly justifies the potential risk to the fetus.
 
 # PRECAUTIONS
 
