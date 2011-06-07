@@ -125,6 +125,8 @@ Patients should be advised:
 
 - to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue Ciprofloxacin Tablets treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- that fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - that antibacterial drugs including Ciprofloxacin Tablets should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When Ciprofloxacin Tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.

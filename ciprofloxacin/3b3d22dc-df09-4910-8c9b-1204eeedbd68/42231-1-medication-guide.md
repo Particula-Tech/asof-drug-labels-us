@@ -47,9 +47,6 @@ Ciprofloxacin Tablets are a fluoroquinolone antibiotic medicine used to treat ce
 Children less than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking Ciprofloxacin Tablets.
 Ciprofloxacin Tablets should not be used as the first choice of antibiotic medicine in children under 18 years of age.
 Ciprofloxacin Tablets should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
-Sometimes infections are caused by viruses rather than by bacteria.
-Examples include viral infections in the sinuses and lungs, such as the common cold or flu.
-Antibiotics, including Ciprofloxacin Tablets, do not kill viruses.
 
 Call your healthcare provider if you think your condition is not getting better while you are taking Ciprofloxacin Tablets.
 
@@ -286,12 +283,11 @@ Keep Ciprofloxacin Tablets and all medicines out of the reach of children.
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Ciprofloxacin Tablets for a condition for which it is not prescribed.
 Do not give Ciprofloxacin Tablets to other people, even if they have the same symptoms that you have.
-They may harm them.
+It may harm them.
 
 This Medication Guide summarizes the most important information about Ciprofloxacin Tablets.
 If you would like more information about Ciprofloxacin Tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about Ciprofloxacin Tablets that is written for healthcare professionals.
-For more information call 1-866-850-2876.
 
 ## What are the ingredients in Ciprofloxacin Tablets?
 
@@ -299,10 +295,10 @@ Active ingredient: ciprofloxacin
 
 Inactive ingredients: colloidal silicon dioxide, corn starch, hydrogenated vegetable oil, hypromellose, magnesium stearate, microcrystalline cellulose, polyacrylate dispersion (methylacrylate and ethylacrylate copolymer), polyethylene glycol, purified water, simethicone emulsion, sodium starch glycolate, talc, and titanium dioxide.
 
-Revised March 2009
+Revised March 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-West-ward Pharmaceutical Corp. Eatontown, NJ 07724 Distributor
+Distributed by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724
 
 Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
