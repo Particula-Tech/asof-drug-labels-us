@@ -6,7 +6,7 @@ Eyelash changes (increased length, thickness, pigmentation, and number of lashes
 
 ## Controlled Clinical Trials
 
-The ocular adverse events and ocular signs and symptoms reported in 5 to 15% of the patients on XALATAN Sterile Ophthalmic Solution in the three 6-month, multi-center, double-masked, active-controlled trials were blurred vision, burning and stinging, conjunctival hyperemia, foreign body sensation, itching, increased pigmentation of the iris, and punctuate epithelial keratopathy.
+The ocular adverse events and ocular signs and symptoms reported in 5 to 15% of the patients on XALATAN Sterile Ophthalmic Solution in the three 6-month, multi-center, double-masked, active-controlled trials were blurred vision, burning and stinging, conjunctival hyperemia, foreign body sensation, itching, increased pigmentation of the iris, and punctate epithelial keratopathy.
 
 Local conjunctival hyperemia was observed; however, less than 1% of the patients treated with XALATAN required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
