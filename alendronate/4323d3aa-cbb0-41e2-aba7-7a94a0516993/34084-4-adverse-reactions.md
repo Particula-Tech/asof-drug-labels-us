@@ -12,22 +12,42 @@ Alendronate sodium has been evaluated for safety in approximately 8000 postmenop
 In two identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational; n=994), discontinuation of therapy due to any clinical adverse experience occurred in 4.1% of 196 patients treated with alendronate sodium 10 mg/day and 6% of 397 patients treated with placebo.
 In the Fracture Intervention Trial (n=6459), discontinuation of therapy due to any clinical adverse experience occurred in 9.1% of 3236 patients treated with alendronate sodium 5 mg/day for 2 years and 10 mg/day for either one or two additional years and 10.1% of 3223 patients treated with placebo.
 Discontinuations due to upper gastrointestinal adverse experiences were: alendronate sodium, 3.2%; placebo, 2.7%.
-In these study populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54 to 89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies.
+In these study populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54­ to 89% used nonsteroidal anti-inflammatory drugs or aspirin at some time during the studies.
 Adverse experiences from these studies considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients treated with either alendronate sodium or placebo are presented in the following table.
 
 Osteoporosis Treatment Studies in Postmenopausal Women Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥1% of Patients
 
-|  | Alendronate Sodium* % (n=196) | Placebo % (n=397) | Alendronate Sodium** % (n=3236) | Placebo % (n=3223) |
+|  | United States / Multinational Studies |  | Fracture Intervention Trial |  |
 | --- | --- | --- | --- | --- |
-|  | United States/Multinational Studies |  | Fracture Intervention Trial |  |
-| Gastrointestinal abdominal pain nausea dyspepsia constipation diarrhea flatulence acid regurgitation esophageal ulcer vomiting dysphagia abdominal distention gastritis Musculoskeletal musculoskeletal (bone, muscle or joint) pain muscle cramp Nervous System/Psychiatric headache dizziness Special Senses taste perversion | 6.6 3.6 3.6 3.1 3.1 2.6 2 1.5 1 1 1 0.5 4.1 0 2.6 0 0.5 | 4.8 4 3.5 1.8 1.8 0.5 4.3 0 1.5 0 0.8 1.3 2.5 1 1.5 1 1 | 1.5 1.1 1.1 0 0.6 0.2 1.1 0.1 0.2 0.1 0 0.6 0.4 0.2 0.2 0 0.1 | 1.5 1.5 1.2 0.2 0.3 0.3 0.9 0.1 0.3 0.1 0 0.7 0.3 0.1 0.2 0.1 0 |
+|  | Alendronate Sodium* % (n=196) | Placebo % (n=397) | Alendronate Sodium ** % (n=3236) | Placebo % (n=3223) |
+| Gastrointestinal |  |  |  |  |
+| abdominal pain | 6.6 | 4.8 | 1.5 | 1.5 |
+| nausea | 3.6 | 4 | 1.1 | 1.5 |
+| dyspepsia | 3.6 | 3.5 | 1.1 | 1.2 |
+| constipation | 3.1 | 1.8 | 0 | 0.2 |
+| diarrhea | 3.1 | 1.8 | 0.6 | 0.3 |
+| flatulence | 2.6 | 0.5 | 0.2 | 0.3 |
+| acid regurgitation | 2 | 4.3 | 1.1 | 0.9 |
+| esophageal ulcer | 1.5 | 0 | 0.1 | 0.1 |
+| vomiting | 1 | 1.5 | 0.2 | 0.3 |
+| dysphagia | 1 | 0 | 0.1 | 0.1 |
+| abdominal distention | 1 | 0.8 | 0 | 0 |
+| gastritis | 0.5 | 1.3 | 0.6 | 0.7 |
+| Musculoskeletal |  |  |  |  |
+| musculoskeletal (bone, muscle or joint) pain | 4.1 | 2.5 | 0.4 | 0.3 |
+| muscle cramp | 0 | 1 | 0.2 | 0.1 |
+| Nervous System/Psychiatric |  |  |  |  |
+| headache | 2.6 | 1.5 | 0.2 | 0.2 |
+| dizziness | 0 | 1 | 0 | 0.1 |
+| Special Senses |  |  |  |  |
+| taste perversion | 0.5 | 1 | 0.1 | 0 |
 | *10 mg/day for three years **5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
 
 Rarely, rash and erythema have occurred.
 One patient treated with alendronate sodium (10 mg/day), who had a history of peptic ulcer disease and gastrectomy and who was taking concomitant aspirin developed an anastomotic ulcer with mild hemorrhage, which was considered drug related.
 Aspirin and alendronate sodium were discontinued and the patient recovered.
 The adverse experience profile was similar for the 401 patients treated with either 5 or 20 mg doses of alendronate sodium in the United States and Multinational studies.
-The adverse experience profile for the 296 patients who received continued treatment with either 5 or 10 mg doses of alendronate sodium in the two-year extension of these studies (treatment years 4 and 5) was similar to that observed during the three-year placebo-controlled period.
+The adverse The experience profile for the 296 patients who received continued treatment with either 5 or 10 mg doses of alendronate sodium in the two-year extension of these studies (treatment years 4 and 5) was similar to that observed during the three-year placebo-controlled period.
 During the extension period, of the 151 patients treated with alendronate sodium 10 mg/day, the proportion of patients who discontinued therapy due to any clinical adverse experience was similar to that during the first three years of the study.
 In a one-year, double-blind, multicenter study, the overall safety and tolerability profiles of once weekly alendronate sodium 70 mg and alendronate sodium 10 mg daily were similar.
 The adverse experiences considered by the investigators as possibly, probably, or definitely drug related in ≥1% of patients in either treatment group are presented in the following table.
@@ -36,8 +56,19 @@ Osteoporosis Treatment Studies in Postmenopausal Women Adverse Experiences Consi
 
 |  | Once Weekly Alendronate Sodium 70 mg % (n=519) | Alendronate Sodium 10 mg/day % (n=370) |
 | --- | --- | --- |
-| Gastrointestinal abdominal pain dyspepsia acid regurgitation nausea abdominal distention constipation flatulence gastritis gastric ulcer | 3.7 2.7 1.9 1.9 1 0.8 0.4 0.2 0 | 3 2.2 2.4 2.4 1.4 1.6 1.6 1.1 1.1 |
-| Musculoskeletal musculoskeletal (bone, muscle, joint) pain muscle cramp | 2.9 0.2 | 3.2 1.1 |
+| Gastrointestinal |  |  |
+| abdominal pain | 3.7 | 3 |
+| dyspepsia | 2.7 | 2.2 |
+| acid regurgitation | 1.9 | 2.4 |
+| nausea | 1.9 | 2.4 |
+| abdominal distention | 1 | 1.4 |
+| constipation | 0.8 | 1.6 |
+| flatulence | 0.4 | 1.6 |
+| gastritis | 0.2 | 1.1 |
+| gastric ulcer | 0 | 1.1 |
+| Musculoskeletal |  |  |
+| musculoskeletal (bone, muscle, joint) pain | 2.9 | 3.2 |
+| muscle cramp | 0.2 | 1.1 |
 
 #### Men
 
@@ -46,10 +77,18 @@ The adverse experiences considered by the investigators as possibly, probably, o
 
 Osteoporosis Studies in Men Adverse Experiences Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in ≥2% of Patients
 
-|  | Alendronate Sodium 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate Sodium 70 mg % (n=109) | Placebo % (n=58) |
-| --- | --- | --- | --- | --- |
 |  | Two-year Study |  | One-year Study |  |
-| Gastrointestinal acid regurgitation flatulence gastroesophageal reflux disease dyspepsia diarrhea abdominal pain nausea | 4.1 4.1 0.7 3.4 1.4 2.1 2.1 | 3.2 1.1 3.2 0 1.1 1.1 0 | 0 0 2.8 2.8 2.8 0.9 0 | 0 0 0 1.7 0 3.4 0 |
+| --- | --- | --- | --- | --- |
+|  | Alendronate Sodium 10 mg/day % (n=146) | Placebo % (n=95) | Once Weekly Alendronate Sodium 70 mg % (n=109) | Placebo % (n=58) |
+| Gastrointestinal |  |  |  |  |
+| acid regurgitation | 4.1 | 3.2 | 0 | 0 |
+| flatulence | 4.1 | 1.1 | 0 | 0 |
+| gastroesophageal | 0.7 | 3.2 | 2.8 | 0 |
+| reflux disease |  |  |  |  |
+| dyspepsia | 3.4 | 0 | 2.8 | 1.7 |
+| diarrhea | 1.4 | 1.1 | 2.8 | 0 |
+| abdominal pain | 2.1 | 1.1 | 0.9 | 3.4 |
+| nausea | 2.1 | 0 | 0 | 0 |
 
 ### Prevention of osteoporosis in postmenopausal women
 
@@ -64,7 +103,16 @@ Osteoporosis Prevention Studies in Postmenopausal Women Adverse Experiences Cons
 |  | Two/Three-Year Studies |  | One-Year Study |  |
 | --- | --- | --- | --- | --- |
 | Alendronate Sodium 5 mg/day % (n=642) | Placebo % (n=648) | Alendronate Sodium 5 mg/day % (n=361) | Once Weekly Alendronate Sodium 35 mg % (n=362) |  |
-| Gastrointestinal dyspepsia abdominal pain acid regurgitation nausea diarrhea constipation abdominal distention Musculoskeletal musculoskeletal (bone, muscle or joint) pain | 1.9 1.7 1.4 1.4 1.1 0.9 0.2 0.8 | 1.4 3.4 2.5 1.4 1.7 0.5 0.3 0.9 | 2.2 4.2 4.2 2.5 1.1 1.7 1.4 1.9 | 1.7 2.2 4.7 1.4 0.6 0.3 1.1 2.2 |
+| Gastrointestinal |  |  |  |  |
+| dyspepsia | 1.9 | 1.4 | 2.2 | 1.7 |
+| abdominal pain | 1.7 | 3.4 | 4.2 | 2.2 |
+| acid regurgitation | 1.4 | 2.5 | 4.2 | 4.7 |
+| nausea | 1.4 | 1.4 | 2.5 | 1.4 |
+| diarrhea | 1.1 | 1.7 | 1.1 | 0.6 |
+| constipation | 0.9 | 0.5 | 1.7 | 0.3 |
+| abdominal distention | 0.2 | 0.3 | 1.4 | 1.1 |
+| Musculoskeletal |  |  |  |  |
+| musculoskeletal (bone, muscle or joint) pain | 0.8 | 0.9 | 1.9 | 2.2 |
 
 ### Concomitant use with estrogen/hormone replacement therapy
 
@@ -79,7 +127,15 @@ One-Year Studies in Glucocorticoid-Treated Patients Adverse Experiences Consider
 
 |  | Alendronate Sodium 10 mg/day % (n=157) | Alendronate Sodium 5 mg/day % (n=161) | Placebo % (n=159) |
 | --- | --- | --- | --- |
-| Gastrointestinal abdominal pain acid regurgitation constipation melena nausea diarrhea Nervous System/Psychiatric headache | 3.2 2.5 1.3 1.3 0.6 0 0.6 | 1.9 1.9 0.6 0 1.2 0 0 | 0 1.3 0 0 0.6 1.3 1.3 |
+| Gastrointestinal |  |  |  |
+| abdominal pain | 3.2 | 1.9 | 0 |
+| acid regurgitation | 2.5 | 1.9 | 1.3 |
+| constipation | 1.3 | 0.6 | 0 |
+| melena | 1.3 | 0 | 0 |
+| nausea | 0.6 | 1.2 | 0.6 |
+| diarrhea | 0 | 0 | 1.3 |
+| Nervous System/Psychiatric |  |  |  |
+| headache | 0.6 | 0 | 1.3 |
 
 The overall safety and tolerability profile in the glucocorticoid-induced osteoporosis population that continued therapy for the second year of the studies (alendronate sodium: n=147) was consistent with that observed in the first year.
 
@@ -106,16 +162,16 @@ See ADVERSE REACTIONS, Post-Marketing Experience, Body as a Whole .
 In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
 However, the incidences of decreases in serum calcium to <8 mg/dL (2 mM) and serum phosphate to ≤2 mg/dL (0.65 mM) were similar in both treatment groups.
 
-## Post-Marketing Experience
+## Postmarketing Experience
 
-The following adverse reactions have been reported in post-marketing use: Body as a Whole: hypersensitivity reactions including urticaria and rarely angioedema.
+The following adverse reactions have been reported in postmarketing use: Body as a Whole: hypersensitivity reactions including urticaria and rarely angioedema.
 Transient symptoms of myalgia, malaise, asthenia and rarely, fever have been reported with alendronate sodium, typically in association with initiation of treatment.
 Rarely, symptomatic hypocalcemia has occurred, generally in association with predisposing conditions.
 Rarely, peripheral edema.
 Gastrointestinal: esophagitis, esophageal erosions, esophageal ulcers, rarely esophageal stricture or perforation, and oropharyngeal ulceration.
 Gastric or duodenal ulcers, some severe and with complications have also been reported (see WARNINGS, PRECAUTIONS, Information for Patients , and DOSAGE AND ADMINISTRATION ).
-Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported rarely (see PRECAUTIONS, Dental ).
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain ); joint swelling.
+Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported rarely (see PRECAUTIONS, Dental ).
+Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and rarely incapacitating (see PRECAUTIONS, Musculoskeletal Pain ); joint swelling; low-energy femoral shaft and subtrochanteric fractures (see PRECAUTIONS, Atypical Subtrochanteric and Diaphyseal Femoral Fractures ).
 Nervous system: dizziness and vertigo.
 Skin: rash (occasionally with photosensitivity), pruritus, alopecia, rarely severe skin reactions, including Stevens-Johnson syndrome and toxic epidermal necrolysis.
 Special Senses: rarely uveitis, scleritis or episcleritis.

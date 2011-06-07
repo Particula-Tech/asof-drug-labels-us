@@ -1,14 +1,14 @@
 # WARNINGS
 
-Alendronate sodium, like other bisphosphonates, may cause local irritation of the upper gastrointestinal mucosa.
-Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with alendronate sodium.
+Alendronate sodium, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when alendronate sodium is given to patients with active upper gastrointestinal problems (such as known Barrett's esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis, or ulcers).
+Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates including alendronate sodium.
 In some cases these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue alendronate sodium and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking alendronate sodium and/or who fail to swallow it with the recommended amount of water, and/or who continue to take alendronate sodium after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates including alendronate sodium and/or who fail to swallow oral bisphosphonates including alendronate sodium with the recommended full glass (6 to 8 oz) of water, and/or who continue to take oral bisphosphonates including alendronate sodium after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient (see DOSAGE AND ADMINISTRATION ).
 In patients who cannot comply with dosing instructions due to mental disability, therapy with alendronate sodium should be used under appropriate supervision.
-Because of possible irritant effects of alendronate sodium on the upper gastrointestinal mucosa and a potential for worsening of the underlying disease, caution should be used when alendronate sodium is given to patients with active upper gastrointestinal problems (such as dysphagia, esophageal diseases, gastritis, duodenitis, or ulcers).
-There have been post-marketing reports of gastric and duodenal ulcers, some severe and with complications, although no increased risk was observed in controlled clinical trials.
+There have been postmarketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
 
 # PRECAUTIONS
 
@@ -23,7 +23,7 @@ Ensuring adequate calcium and vitamin D intake is especially important in patien
 
 ### Musculoskeletal Pain
 
-In post marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates that are approved for the prevention and treatment of osteoporosis (see ADVERSE REACTIONS ).
+In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates that are approved for the prevention and treatment of osteoporosis (see ADVERSE REACTIONS ).
 This category of drugs includes alendronate.
 Most of the patients were postmenopausal women.
 The time to onset of symptoms varied from one day to several months after starting the drug.
@@ -34,20 +34,32 @@ In placebo-controlled clinical studies of alendronate sodium, the percentages of
 
 ### Dental
 
-Osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection, often with delayed healing, has been reported in patients taking bisphosphonates.
-Most reported cases of bisphosphonate-associated osteonecrosis have been in cancer patients treated with intravenous bisphosphonates, but some have occurred in patients with postmenopausal osteoporosis.
-Known risk factors for osteonecrosis include a diagnosis of cancer, concomitant therapies (e.g., chemotherapy, radiotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., pre-existing dental disease, anemia, coagulopathy, infection).
-Patients who develop osteonecrosis of the jaw (ONJ) while on bisphosphonate therapy should receive care by an oral surgeon.
-Dental surgery may exacerbate the condition.
-For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk for ONJ.
-Clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment.
+Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including alendronate sodium.
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
+Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
+Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
+In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
 
-### Renal insufficiency
+### Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+### Renal Insufficiency
 
 Alendronate sodium is not recommended for patients with renal insufficiency (creatinine clearance <35 mL/min).
 (See DOSAGE AND ADMINISTRATION .)
 
-### Glucocorticoid-induced osteoporosis
+### Glucocorticoid-induced Osteoporosis
 
 The risk versus benefit of alendronate sodium for treatment at daily dosages of glucocorticoids less than 7.5 mg of prednisone or equivalent has not been established (see INDICATIONS AND USAGE ).
 Before initiating treatment, the hormonal status of both men and women should be ascertained and appropriate replacement considered.
@@ -64,7 +76,7 @@ The efficacy for prevention of non-vertebral fractures has not been demonstrated
 
 ### General
 
-Physicians should instruct their patients to read the patient package insert before starting therapy with alendronate sodium and to reread it each time the prescription is renewed.
+Physicians should instruct their patients to read the Medication Guide before starting therapy with alendronate sodium and to reread it each time the prescription is renewed.
 Patients should be instructed to take supplemental calcium and vitamin D, if daily dietary intake is inadequate.
 Weight-bearing exercise should be considered along with the modification of certain behavioral factors, such as cigarette smoking and/or excessive alcohol consumption, if these factors exist.
 
@@ -72,7 +84,7 @@ Weight-bearing exercise should be considered along with the modification of cert
 
 Patients should be instructed that the expected benefits of alendronate sodium tablets may only be obtained when they are taken with plain water the first thing upon arising for the day at least 30 minutes before the first food, beverage, or medication of the day.
 Even dosing with orange juice or coffee has been shown to markedly reduce the absorption of alendronate sodium tablets (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Absorption ).
-To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation patients should be instructed to swallow each alendronate sodium tablet with a full glass of water (6 to 8 oz).
+To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation patients should be instructed to swallow each tablet of alendronate sodium with a full glass of water (6 to 8 oz).
 Patients should be instructed not to lie down for at least 30 minutes and until after their first food of the day.
 Patients should not chew or suck on the tablet because of a potential for oropharyngeal ulceration.
 Patients should be specifically instructed not to take alendronate sodium tablets at bedtime or before arising for the day.

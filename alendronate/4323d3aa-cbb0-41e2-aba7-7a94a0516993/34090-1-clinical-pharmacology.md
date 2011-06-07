@@ -49,9 +49,7 @@ Based on the above, it is estimated that after 10 years of oral treatment with a
 
 ### Pediatric
 
-Alendronate is not indicated for use in children.
-Due to Merck’s marketing exclusivity rights, this generic drug product is not approved with descriptive pharmacokinetic information in pediatric patients.
-Merck’s alendronate sodium tablets and oral solution are approved with that descriptive pharmacokinetic information.
+The oral bioavailability in children was similar to that observed in adults; however, alendronate sodium is not indicated for use in children (see PRECAUTIONS, Pediatric Use ).
 
 ### Gender
 
@@ -161,10 +159,8 @@ Increases in BMD were evident as early as three months and continued throughout 
 In the two-year extension of these studies, treatment of 147 patients with alendronate sodium 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
 BMD at the femoral neck, forearm and total body were maintained.
 Alendronate sodium was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
-Thus, overall alendronate sodium reverses the loss of bone mineral density, a central factor in the progression of osteoporosis.
 In patients with postmenopausal osteoporosis treated with alendronate sodium 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
 Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups.
-These data indicate that continued treatment with alendronate sodium is required to maintain the effect of the drug.
 The therapeutic equivalence of once weekly alendronate sodium 70 mg (n=519) and alendronate sodium 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 5.1% (4.8, 5.4%; 95% CI) in the 70 mg once-weekly group (n=440) and 5.4% (5, 5.8%; 95% CI) in the 10 mg daily group (n=330).
 The two treatment groups were also similar with regard to BMD increases at other skeletal sites.
@@ -183,10 +179,18 @@ Fracture Intervention Trial Three-Year Study (patients with at least one baselin
 
 Effect of Alendronate Sodium on Fracture Incidence in the Three-Year Study of FIT (patients with vertebral fracture at baseline)
 
-|  | Alendronate Sodium (n=1022) | Placebo (n=1005) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
-| --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |
-| Patients with: Vertebral fractures (diagnosed by X-ray) † ≥ 1 new vertebral fracture ≥ 2 new vertebral fractures Clinical (symptomatic) fractures Any clinical (symptomatic) fracture ≥ 1 clinical (symptomatic) vertebral fracture Hip fracture Wrist (forearm) fracture | 7.9 0.5 13.8 2.3 1.1 2.2 | 15 4.9 18.1 5 2.2 4.1 | 7.1 4.4 4.3 2.7 1.1 1.9 | 47*** 90*** 26‡ 54** 51* 48* |
+| --- | --- | --- | --- | --- |
+|  | Alendronate Sodium (n=1022) | Placebo (n=1005) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
+| Patients with: |  |  |  |  |
+| Vertebral fractures (diagnosed by X-ray)† |  |  |  |  |
+| ≥ 1 new vertebral fracture | 7.9 | 15 | 7.1 | 47*** |
+| ≥ 2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90*** |
+| Clinical (symptomatic) fractures |  |  |  |  |
+| Any clinical (symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26‡ |
+| ≥ 1 clinical (symptomatic) vertebral fracture | 2.3 | 5 | 2.7 | 54** |
+| Hip fracture | 1.1 | 2.2 | 1.1 | 51* |
+| Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48* |
 | †Number evaluable for vertebral fractures: alendronate sodium, n=984; placebo, n=966 *p<0.05, **p<0.01, ***p<0.001, ‡p=0.007 |  |  |  |  |
 
 Furthermore, in this population of patients with baseline vertebral fracture, treatment with alendronate sodium significantly reduced the incidence of hospitalizations (25% vs. 30.7%).
@@ -199,10 +203,17 @@ The results are shown in the table below for the patients with osteoporosis.
 
 Effect of Alendronate Sodium on Fracture Incidence in Osteoporotic† Patients in the Four-Year Study of FIT (patients without vertebral fracture at baseline)
 
-|  | Alendronate Sodium (n=1545) | Placebo (n=1521) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
-| --- | --- | --- | --- | --- |
 | Percent of Patients |  |  |  |  |
-| Patients with: Vertebral fractures (diagnosed by X-ray) †† ≥ 1 new vertebral fracture ≥ 2 new vertebral fractures Clinical (symptomatic) fractures Any clinical (symptomatic) fracture ≥ 1 clinical (symptomatic) vertebral fracture Hip fracture Wrist (forearm) fracture | 2.5 0.1 12.9 1 1 3.9 | 4.8 0.6 16.2 1.6 1.4 3.8 | 2.3 0.5 3.3 0.6 0.4 -0.1 | 48*** 78* 22** 41 (NS) ††† 29 (NS) ††† (NS) ††† |
+| --- | --- | --- | --- | --- |
+|  | Alendronate Sodium (n=1545) | Placebo (n=1521) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk (%) |
+| Patients with: Vertebral fractures (diagnosed by X-ray)†† |  |  |  |  |
+| ≥ 1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48*** |
+| ≥ 2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78* |
+| Clinical (symptomatic) fractures |  |  |  |  |
+| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22** |
+| ≥ 1 clinical (symptomatic) vertebral fracture | 1 | 1.6 | 0.6 | 41 (NS)††† |
+| Hip fracture | 1 | 1.4 | 0.4 | 29 (NS)††† |
+| Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS††† |
 | † Baseline femoral neck BMD at least 2 SD below the mean for young adult women †† Number evaluable for vertebral fractures: alendronate sodium, n=1426; placebo, n=1428 ††† Not significant. This study was not powered to detect differences at these sites. *p=0.035, **p=0.01, ***p<0.001 |  |  |  |  |
 
 ##### Fracture results across studies
