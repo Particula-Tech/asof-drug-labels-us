@@ -34,3 +34,11 @@ No significant drug interactions were reported in studies in which olmesartan me
 The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
 
 Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.

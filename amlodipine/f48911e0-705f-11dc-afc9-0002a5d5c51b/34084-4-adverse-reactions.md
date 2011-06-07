@@ -104,4 +104,4 @@ In post-marketing experience, jaundice and hepatic enzyme elevations (mostly con
 Olmesartan medoxomil.
 The following adverse reactions have been reported in post-marketing experience:
 
-Body as a Whole: asthenia, angioedema Gastrointestinal: vomiting Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
+Body as a Whole: asthenia, angioedema, anaphylactic reactions, peripheral edema Gastrointestinal: vomiting, diarrhea Musculoskeletal: rhabdomyolysis Urogenital System: acute renal failure Skin and Appendages: alopecia, pruritus, urticaria
