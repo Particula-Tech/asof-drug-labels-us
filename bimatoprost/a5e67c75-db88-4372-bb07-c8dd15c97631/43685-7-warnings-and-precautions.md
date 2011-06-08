@@ -31,7 +31,7 @@ LUMIGAN® 0.01% and 0.03% should be used with caution in patients with active in
 Macular edema, including cystoid macular edema, has been reported during treatment with bimatoprost ophthalmic solution.
 LUMIGAN® 0.01% and 0.03% should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
 
-## 5.5 Angle-closure, Inflammatory or Neovascular Glaucoma
+## 5.5 Angle-closure, Inflammatory, or Neovascular Glaucoma
 
 LUMIGAN® 0.01% and 0.03% has not been evaluated for the treatment of angle-closure, inflammatory or neovascular glaucoma.
 

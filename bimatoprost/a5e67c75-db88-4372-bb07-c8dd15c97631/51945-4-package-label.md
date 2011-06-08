@@ -2,7 +2,7 @@ ALLERGAN
 
 NDC 0023-3205-05
 
-Rx Only
+Rx only
 
 LUMIGAN®
 
@@ -26,7 +26,7 @@ ophthalmic solution)
 
 0.01%
 
-Rx Only
+Rx only
 
 5 mL sterile
 
@@ -34,7 +34,7 @@ ALLERGAN
 
 NDC 0023-3205-05
 
-Rx Only
+Rx only
 
 LUMIGAN®
 
