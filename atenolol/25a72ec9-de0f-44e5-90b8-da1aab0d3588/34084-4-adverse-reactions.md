@@ -6,9 +6,9 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
 
-|  | Volunteered(U.S. Studies) |  | Total - Volunteered and Elicited(Foreign + U.S. Studies) |  |
+|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign + U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
-| Atenolol(n = 164)% | Placebo(n = 206)% | Atenolol(n = 399)% | Placebo(n = 407)% |  |
+| Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |  |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
@@ -41,7 +41,7 @@ The reported frequency of these and other events occurring during these investig
 
 In a study of 477 patients, the following adverse events were reported during either intravenous and/or oral atenolol administration:
 
-|  | Conventional Therapy Plus Atenolol(n = 244) | Conventional Therapy Alone(n = 233) |
+|  | Conventional Therapy Plus Atenolol (n = 244) | Conventional Therapy Alone (n = 233) |
 | --- | --- | --- |
 | Bradycardia | 43 (18%) | 24 (10%) |
 | Hypotension | 60 (25%) | 34 (15%) |
