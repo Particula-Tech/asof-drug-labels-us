@@ -1,16 +1,28 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020475"
+  ],
   "inn": "tretinoin",
-  "labeler": "OrthoNeutrogena",
+  "labeler": "Ortho-McNeil Pharmaceuticals",
   "package_ndcs": [
+    "0062-0190-01",
     "0062-0190-02",
     "0062-0190-03",
     "0062-0190-11",
+    "0062-0190-15",
+    "0062-0204-01",
     "0062-0204-02",
     "0062-0204-03",
-    "0062-0204-11"
+    "0062-0204-11",
+    "0062-0204-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tretinoin",
+      "name": "Retin-A MICRO"
+    }
+  ],
   "setid": "7e879113-027c-4956-adb2-0a8a2df175ba",
   "source": "dailymed"
 }
