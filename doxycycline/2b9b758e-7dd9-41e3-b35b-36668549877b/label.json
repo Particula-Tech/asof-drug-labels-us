@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050805"
+  ],
   "inn": "doxycycline",
-  "labeler": "CollaGenex Pharmaceuticals, Inc.",
+  "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "64682-009-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "doxycycline",
+      "name": "Oracea"
+    }
+  ],
   "setid": "2b9b758e-7dd9-41e3-b35b-36668549877b",
   "source": "dailymed"
 }
