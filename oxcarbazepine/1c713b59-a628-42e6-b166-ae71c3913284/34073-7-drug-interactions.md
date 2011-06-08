@@ -1,0 +1,53 @@
+# 7 DRUG INTERACTIONS
+
+Oxcarbazepine can inhibit CYP2C19 and induce CYP3A4/5 with potentially important effects on plasma concentrations of other drugs.
+The inhibition of CYP2C19 by oxcarbazepine and MHD can cause increased plasma concentrations of drugs that are substrates of CYP2C19.
+Oxcarbazepine and MHD induce a subgroup of the cytochrome P450 3A family (CYP3A4 and CYP3A5) responsible for the metabolism of dihydropyridine calcium antagonists, oral contraceptives and cyclosporine resulting in a lower plasma concentration of these drugs.
+[see Clinical Pharmacology (12.3)]
+
+In addition, several AEDs that are cytochrome P450 inducers can decrease plasma concentrations of oxcarbazepine and MHD.
+No autoinduction has been observed with oxcarbazepine.
+
+## 7.1 Antiepileptic Drugs
+
+Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 7.
+
+Table 7 Summary of AED Interactions with Oxcarbazepine
+
+| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
+| --- | --- | --- | --- | --- |
+| Carbamazepine | 400-2000 | 900 | ncnc denotes a mean change of less than 10% | 40% decrease[CI: 17% decrease,57% decrease] |
+| Phenobarbital | 100-150 | 600-1800 | 14% increase[CI: 2% increase, 24% increase] | 25% decrease[CI: 12% decrease,51% decrease] |
+| Phenytoin | 250-500 | 600-1800>1200-2400 | ncPediatricsup to 40% increaseMean increase in adults at high oxcarbazepine doses [CI: 12% increase,60% increase] | 30% decrease[CI: 3% decrease,48% decrease] |
+| Valproic acid | 400-2800 | 600-1800 | nc | 18% decrease[CI: 13% decrease,40% decrease] |
+
+In vivo, the plasma levels of phenytoin increased by up to 40% when oxcarbazepine was given at doses above 1200 mg/day.
+Therefore, when using doses of oxcarbazepine greater than 1200 mg/day during adjunctive therapy, a decrease in the dose of phenytoin may be required.
+The increase of phenobarbital level, however, is small (15%) when given with oxcarbazepine.
+
+Strong inducers of cytochrome P450 enzymes (i.e., carbamazepine, phenytoin and phenobarbital) have been shown to decrease the plasma levels of MHD (29%-40%).
+
+No autoinduction has been observed with oxcarbazepine.
+
+## 7.2 Hormonal Contraceptives
+
+Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG).
+The mean AUC values of EE were decreased by 48% [90% CI: 22-65] in one study and 52% [90% CI: 38-52] in another study.
+The mean AUC values of LNG were decreased by 32% [90% CI: 20-45] in one study and 52% [90% CI: 42-52] in another study.
+Therefore, concurrent use of oxcarbazepine with hormonal contraceptives may render these contraceptives less effective.
+Studies with other oral or implant contraceptives have not been conducted.
+
+## 7.3 Calcium Antagonists
+
+After repeated coadministration of oxcarbazepine, the AUC of felodipine was lowered by 28% [90% CI: 20-33].
+Verapamil produced a decrease of 20% [90% CI: 18-27] of the plasma levels of MHD.
+
+## 7.4 Other Drug Interactions
+
+Cimetidine, erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.
+Results with warfarin show no evidence of interaction with either single or repeated doses of oxcarbazepine.
+
+## 7.5 Drug/Laboratory Test Interactions
+
+There are no known interactions of oxcarbazepine with commonly used laboratory tests.
