@@ -1,6 +1,9 @@
-# INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE
 
-Carefully consider the potential benefits and risks of meloxicam and other treatment options before deciding to use meloxicam.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+## 1.1 Osteoarthritis (OA)
 
-Meloxicam is indicated for relief of the signs and symptoms of osteoarthritis and rheumatoid arthritis.
+Meloxicam tablet is indicated for relief of the signs and symptoms of osteoarthritis [See CLINICAL STUDIES (14.1)].
+
+## 1.2 Rheumatoid Arthritis (RA)
+
+Meloxicam tablet is indicated for relief of the signs and symptoms of rheumatoid arthritis [See CLINICAL STUDIES (14.1)].

@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077944"
+  ],
   "inn": "meloxicam",
-  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
   "package_ndcs": [
     "68180-501-01",
     "68180-501-03",
     "68180-502-01",
     "68180-502-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam",
+      "name": "Meloxicam"
+    }
+  ],
   "setid": "06a401f0-4380-4081-86ed-a309a25abf6b",
   "source": "dailymed"
 }
