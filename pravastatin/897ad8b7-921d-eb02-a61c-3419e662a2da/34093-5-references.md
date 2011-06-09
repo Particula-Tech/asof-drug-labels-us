@@ -1,25 +1,37 @@
-# REFERENCES
+# 15 REFERENCES
 
-1. Shepherd J, et al. Prevention of Coronary Heart Disease with Pravastatin in Men with Hypercholesterolemia (WOS).
-   N Engl J Med 1995;333:1301-7.
-2. The Long-term Intervention with Pravastatin in Ischemic Disease Group.
-   Prevention of Cardiovascular Events and Death with Pravastatin in Patients with Coronary Heart Disease and a Broad Range of Initial Cholesterol Levels (LIPID).
-   N Engl J Med 1998;339:1349-1357.
-3. Sacks FM, et al. The Effect of Pravastatin on Coronary Events After Myocardial Infarction in Patients with Average Cholesterol Levels (CARE).
-   N Engl J Med 1996;335:1001-9.
-4. Pitt B, et al. Pravastatin Limitation of Atherosclerosis in the Coronary Arteries (PLAC I): Reduction in Atherosclerosis Progression and Clinical Events.
-   J Am Coll Cardiol 1995;26:1133-9.
-5. Jukema JW, et al. Effects of Lipid Lowering by Pravastatin on Progression and Regression of Coronary Artery Disease in Symptomatic Man With Normal to Moderately Elevated Serum Cholesterol Levels.
-   The Regression Growth Evaluation Statin Study (REGRESS).
-   Circulation 1995;91:2528-2540.
-6. Crouse JR, et al. Pravastatin, Lipids, and Atherosclerosis in the Carotid Arteries: Design Features of a Clinical Trial with Carotid Atherosclerosis Outcome (PLAC II).
-   Controlled Clinical Trials 1992;13:495.
-7. Salonen R, et al. Kuopio Atherosclerosis Prevention Study (KAPS).
-   A Population-based Primary Preventive Trial of the Effect of LDL Lowering on Atherosclerotic Progression in Carotid and Femoral Arteries.
-   Research Institute of Public Health, University of Kuopio, Finland.
-   Circulation 1995;92:1758.
-8. Fredrickson DS, et al. Fat Transport in Lipoproteins-An Integrated Approach to Mechanisms and Disorders.
-   N Engl J Med 1967;276:34-42, 94-102, 148-156, 215-224, 273-281.
-9. Manson JM, Freyssinges C, Ducrocq MB, Stephenson WP.
-   Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy.
-   Reproductive Toxicology 1996;10(6):439-446.
+1. Fredrickson DS, Levy RI, Lees RS.
+   Fat transport in lipoproteins - An integrated approach to mechanisms and disorders.
+   N Engl J Med.
+   1967;276: 34-44, 94-103, 148-156, 215-225, 273-281.
+2. Manson JM, Freyssinges C, Ducrocq MB, Stephenson WP.
+   Postmarketing surveillance of lovastatin and simvastatin exposure during pregnancy.
+   Reprod Toxicol.
+   1996;10(6):439-446.
+3. Shepherd J, Cobbe SM, Ford I, et al, for the West of Scotland Coronary Prevention Study Group (WOS).
+   Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia.
+   N Engl J Med.
+   1995;333:1301-1307.
+4. The Long-term Intervention with Pravastatin in Ischemic Disease Group (LIPID).
+   Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels.
+   N Engl J Med.
+   1998;339:1349-1357.
+5. Sacks FM, Pfeffer MA, Moye LA, et al, for the Cholesterol and Recurrent Events Trial Investigators (CARE).
+   The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels.
+   N Engl J Med.
+   1996;335:1001-1009.
+6. Pitt B, Mancini GBJ, Ellis SG, et al, for the PLAC I Investigators.
+   Pravastatin limitation of atherosclerosis in the coronary arteries (PLAC I): Reduction in atherosclerosis progression and clinical events.
+   J Am Coll Cardiol.
+   1995;26:1133-1139.
+7. Jukema JW, Bruschke AVG, van Boven AJ, et al, for the Regression Growth Evaluation Statin Study Group (REGRESS).
+   Effects of lipid lowering by pravastatin on progression and regression of coronary artery disease in symptomatic man with normal to moderately elevated serum cholesterol levels.
+   Circ.
+   1995;91:2528-2540.
+8. Crouse JR, Byington RP, Bond MG, et al. Pravastatin, lipids, and atherosclerosis in the carotid arteries: Design features of a clinical trial with carotid atherosclerosis outcome (PLAC II).
+   Control Clin Trials.
+   1992;13:495-506.
+9. Salonen R, Nyyssonen K, Porkkala E, et al. Kuopio Atherosclerosis Prevention Study (KAPS).
+   A population-based primary preventive trial of the effect of LDL lowering on atherosclerotic progression in carotid and femoral arteries.
+   Circ.
+   1995;92:1758-1764.
