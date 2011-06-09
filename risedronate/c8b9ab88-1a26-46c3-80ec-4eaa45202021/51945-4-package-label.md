@@ -12,7 +12,7 @@ Once-a-Week
 
 4 tablets
 
-# Principal Display Panel - Dosepak
+# Principal Display Panel - Blister
 
 35 mg
 

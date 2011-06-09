@@ -14,7 +14,9 @@ Calcium supplements, antacids, magnesium-based supplements or laxatives, and iro
 Atelvia is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min or in the elderly.
 
-## 2.1 Treatment of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
+## 2.1 Treatment of Postmenopausal Osteoporosis
+
+[see Indications and Usage (1.1)]
 
 The recommended regimen is:
 

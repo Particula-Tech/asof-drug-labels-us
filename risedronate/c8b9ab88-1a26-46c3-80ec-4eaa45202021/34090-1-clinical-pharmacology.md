@@ -10,7 +10,7 @@ Histomorphometry in rats, dogs, and minipigs showed that risedronate treatment r
 ## 12.2 Pharmacodynamics
 
 Risedronate treatment decreases the elevated rate of bone turnover that is typically seen in postmenopausal osteoporosis.
-In clinical trials, administration of risedronate sodium immediate- release to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
+In clinical trials, administration of risedronate sodium immediate-release to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
 At the 5 mg daily dose, decreases in deoxypyridinoline/creatinine were evident within 14 days of treatment.
 Changes in bone formation markers were observed later than changes in resorption markers, as expected, due to the coupled nature of bone resorption and bone formation; decreases in bone-specific alkaline phosphatase of about 20% were evident within 3 months of treatment.
 Bone turnover markers reached a nadir of about 40% below baseline values by the sixth month of treatment and remained stable with continued treatment for up to 3 years.
@@ -49,7 +49,7 @@ There is no evidence of systemic metabolism of risedronate.
 Excretion
 
 In young healthy subjects, approximately half of the absorbed dose of risedronate was excreted in urine within 24 hours, and 85% of an intravenous dose was recovered in the urine over 28 days.
-Based on simultaneous modeling of serum and urine data for the risedronate sodium immediate- release tablets, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
+Based on simultaneous modeling of serum and urine data for the risedronate sodium immediate-release tablets, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
 The renal clearance is not concentration dependent, and there is a linear relationship between renal clearance and creatinine clearance.
 Unabsorbed drug is eliminated unchanged in feces.
 In osteopenic postmenopausal women, the terminal exponential half-life was 561 hours, mean renal clearance was 52 mL/min (CV = 25%), and mean total clearance was 73 mL/min (CV = 15%).

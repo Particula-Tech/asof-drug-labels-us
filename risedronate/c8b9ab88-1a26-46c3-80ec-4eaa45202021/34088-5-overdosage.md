@@ -2,7 +2,7 @@
 
 Decreases in serum calcium and phosphorus following substantial overdose may be expected in some patients.
 Signs and symptoms of hypocalcemia may also occur in some of these patients.
-While milk or antacids containing calcium may be given to bind risedronate sodium immediate- release and reduce absorption of the drug, the impact of this intervention for Atelvia delayed-release tablets has not been evaluated.
+While milk or antacids containing calcium may be given to bind risedronate sodium immediate-release and reduce absorption of the drug, the impact of this intervention for Atelvia delayed-release tablets has not been evaluated.
 
 In cases of substantial overdose, gastric lavage may be considered to remove unabsorbed drug.
 Standard procedures that are effective for treating hypocalcemia, including the administration of calcium intravenously, would be expected to restore physiologic amounts of ionized calcium and to relieve signs and symptoms of hypocalcemia.
