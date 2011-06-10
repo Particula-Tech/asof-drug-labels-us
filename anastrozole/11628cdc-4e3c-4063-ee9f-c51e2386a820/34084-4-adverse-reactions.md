@@ -18,7 +18,7 @@ The median duration of adjuvant treatment for safety evaluation was 59.8 months 
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
+Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
 | Body system and adverse reactions byCOSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg(NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 | Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
 
-Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (See Table 2).
+Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
 Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
 
@@ -161,7 +161,7 @@ Patients receiving ARIMIDEX had a lower incidence of hot flashes, vaginal bleedi
 
 10-year median follow-up Safety Results from the ATAC Trial
 
-• Results are consistent with previous analyses.
+• Results are consistent with the previous analyses.
 
 • Serious adverse reactions were similar between ARIMIDEX (50%) and tamoxifen (51%).
 
@@ -221,19 +221,19 @@ Table 3 – Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 | Urogenital |  |  |
 | Leukorrhea | 9 (2) | 31 (6) |
 
-Less frequent adverse experiences reported in patients receiving ARIMIDEX l mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
+Less frequent adverse experiences reported in patients receiving ARIMIDEX 1 mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
 
 Based on results from second-line therapy and the established safety profile of tamoxifen, the incidences of 9 pre-specified adverse event categories potentially causally related to one or both of the therapies because of their pharmacology were statistically analyzed.
 No significant differences were seen between treatment groups.
 
 Table 4 – Number of Patients with Pre-specified Adverse Reactions in Trials 0030 and 0027
 
-| Adverse ReactionA patient may have had more than 1 adverse event. | ARIMIDEX1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
+| Adverse ReactionA patient may have had more than 1 adverse reaction. | ARIMIDEX1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
 | --- | --- | --- |
 |  | Number (n) and Percentage of Patients |  |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
-| Tboembolic DiseaseIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
+| Thromboembolic DiseaseIncludes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. | 18 (4) | 33 (6) |
 | Venous | 5 | 15 |
 | Coronary and CerebralIncludes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. | 13 | 19 |
 | Gastrointestinal Disturbance | 170 (34) | 196 (38) |
@@ -245,7 +245,7 @@ Table 4 – Number of Patients with Pre-specified Adverse Reactions in Trials 00
 
 ### Second-Line Therapy
 
-ARIMIDEX was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the ARIMIDEX-treated patients and 4.0% of the megestrol acetatetreated patients withdrawing due to an adverse reaction.
+ARIMIDEX was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the ARIMIDEX-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
 
 The principal adverse reaction more common with ARIMIDEX than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
@@ -254,7 +254,7 @@ Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Tria
 
 | n | % | n | % | n | % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse ReactionA patient may have had more then one adverse reaction. | ARIMIDEX |  | ARIMIDEX |  | Megesterol Acetate |  |
+| Adverse ReactionA patient may have had more then one adverse reaction. | ARIMIDEX |  | ARIMIDEX |  | Megestrol Acetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -285,7 +285,7 @@ Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Tria
 | Sweating | 4 | (2) | 3 | (1) | 16 | (6) |
 | Increased Appetite | 0 | (0) | 1 | (0) | 13 | (5) |
 
-Other less frequent (2% to 5%) adverse reactions reported in patients receiving ARIMIDEX l mg in either Trial 0004 or Trial 0005 are listed below.
+Other less frequent (2% to 5%) adverse reactions reported in patients receiving ARIMIDEX 1 mg in either Trial 0004 or Trial 0005 are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
 
 Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection
@@ -311,13 +311,13 @@ Skin and Appendages: Hair thinning (alopecia); pruritus
 
 Urogenital: Urinary tract infection; breast pain
 
-The incidences of the following adverse event groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
+The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
 Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
-| Adverse Event Group | n | (%) | n | (%) | n | (%) |
+| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | ARIMIDEX |  | ARIMIDEX |  | Megestrol Acetate |  |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
@@ -335,6 +335,6 @@ Hepatobiliary events including increases in alkaline phosphatase, alanine aminot
 
 ARIMIDEX may also be associated with rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
 
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving ARIMIDEX[see Contraindications (4.2)].
+Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving ARIMIDEX [see Contraindications (4.2)].
 
 Trigger finger has been reported (>0.1% and <1%) in patients receiving ARIMIDEX.

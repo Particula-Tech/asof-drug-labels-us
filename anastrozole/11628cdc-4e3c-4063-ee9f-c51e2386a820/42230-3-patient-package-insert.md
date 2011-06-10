@@ -174,3 +174,7 @@ Inactive ingredients: lactose, magnesium stearate, hydroxypropylmethylcellulose,
 
 ARIMIDEX is a registered trademark of the AstraZeneca group of companies. ©2009 AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850.
 All rights reserved.
+
+35303–XX
+
+Rev 04/2011

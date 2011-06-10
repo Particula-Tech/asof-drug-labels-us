@@ -1,4 +1,4 @@
-# 7 Drug Interactions
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Tamoxifen
 

@@ -103,10 +103,22 @@ Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack 
 
 10-year median follow-up Efficacy Results from the ATAC Trial
 
-In a subsequent analysis of the ATAC trial, patients in the two monotherapy arms were followed for a median of 120 months (10 years) and have been off trial treatment for a median of 60 months.
-Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.91, 95% CI: 0.83, 0.99, p=0.0365] in the ARIMIDEX arm compared to the tamoxifen arm.
-In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.86, 95% CI: 0.78, 0.95, p=0.0027) in the ARIMIDEX arm compared to the tamoxifen arm.
-As demonstrated in the 5-year treatment analysis, overall survival is similar between the two treatment groups for both the intent-to-treat and hormone receptor-positive populations, Hazard Ratio (HR) = 0.97, 95% CI: 0.88, 1.08, p=0.6249 and Hazard Ratio (HR) = 0.95, 95% CI: 0.84, 1.06, p=0.3468, respectively.
+In a subsequent analysis of the ATAC trial, patients in the two monotherapy arms were followed for a median of 120 months (10 years).
+Patients received study treatment for a median of 60 months (5 years) (see Table 10).
+
+Table 10 - Efficacy Summary
+
+|  | Number of Events |  | Number of Events |  |
+| --- | --- | --- | --- | --- |
+|  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
+|  | ARIMIDEX 1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+| Disease-free Survival | 953 | 1022 | 735 | 924 |
+| Hazard ratio | 0.91 |  | 0.86 |  |
+| 2-sided 95% CI | 0.83 to 0.99 |  | 0.78 to 0.95 |  |
+| p-value | 0.0365 |  | 0.0027 |  |
+| Overall Survival | 734 | 747 | 563 | 586 |
+| Hazard ratio | 0.910.88 to 1.08 |  | 0.950.84 to 1.06 |  |
+| 2-sided 95% CI |  |  |  |  |
 
 Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)(a)
 
@@ -126,7 +138,7 @@ The primary endpoints for both trials were time to tumor progression, objective 
 Demographics and other baseline characteristics, including patients who had measurable and no measurable disease, patients who were given previous adjuvant therapy, the site of metastatic disease and ethnic origin were similar for the two treatment groups for both trials.
 The following table summarizes the hormone receptor status at entry for all randomized patients in trials 0030 and 0027.
 
-Table 10 — Demographic and Other Baseline Characteristics
+Table 11 — Demographic and Other Baseline Characteristics
 
 | Receptor status | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
 | --- | --- | --- | --- | --- |
@@ -136,11 +148,11 @@ Table 10 — Demographic and Other Baseline Characteristics
 | ER unknown, PgR Unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
 
 For the primary endpoints, trial 0030 showed that ARIMIDEX had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for ARIMIDEX and tamoxifen.
-Trial 0027 showed that ARIMIDEX and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 11 and Figures 5 and 6).
+Trial 0027 showed that ARIMIDEX and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 12 and Figures 5 and 6).
 
-Table 11 below summarizes the results of trial 0030 and trial 0027 for the primary efficacy endpoints.
+Table 12 below summarizes the results of trial 0030 and trial 0027 for the primary efficacy endpoints.
 
-Table 11– Efficacy Results of First-line Treatment
+Table 12 – Efficacy Results of First-line Treatment
 
 |  | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
 | --- | --- | --- | --- | --- |
@@ -182,10 +194,10 @@ In Trial 0004, 62% of patients had measurable disease compared to 79% in Trial 0
 The sites of metastatic disease were similar among treatment groups for each trial.
 On average, 40% of the patients had soft tissue metastases; 60% had bone metastases; and 40% had visceral (15% liver) metastases.
 
-Efficacy results from the two studies were similar as presented in Table 12.
+Efficacy results from the two studies were similar as presented in Table 13.
 In both studies there were no significant differences between treatment arms with respect to any of the efficacy parameters listed in the table below.
 
-Table 12 – Efficacy Results of Second-line Treatment
+Table 13 – Efficacy Results of Second-line Treatment
 
 |  | ARIMIDEX1 mg | ARIMIDEX10 mg | MegestrolAcetate160 mg |
 | --- | --- | --- | --- |
@@ -211,7 +223,7 @@ Table 12 – Efficacy Results of Second-line Treatment
 When data from the two controlled trials are pooled, the objective response rates and median times to progression and death were similar for patients randomized to ARIMIDEX 1 mg and megestrol acetate.
 There is, in this data, no indication that ARIMIDEX 10 mg is superior to ARIMIDEX 1 mg.
 
-Table 13 – Pooled Efficacy Results of Second-line Treatment
+Table 14 – Pooled Efficacy Results of Second-line Treatment
 
 | Trials 0004 & 0005(Pooled Data) | ARIMIDEX1 mgN=263 | ARIMIDEX10 mgN=248 | Megestrol Acetate160 mgN=253 |
 | --- | --- | --- | --- |
