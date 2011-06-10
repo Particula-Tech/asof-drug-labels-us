@@ -34,12 +34,14 @@ Do not take PROTONIX if you are:
 
 What should I tell my doctor before taking PROTONIX?
 
-Before taking PROTONIX, tell your doctor about all your medical conditions, including if you are:
+Before you take PROTONIX, tell your doctor if you:
 
-- pregnant, think you may be pregnant, or are planning to become pregnant.
+- have been told that you have low magnesium levels in your blood
+
+- are pregnant, think you may be pregnant, or are planning to become pregnant.
   It is not known if PROTONIX will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- breastfeeding or planning to breastfeed.
+- are breastfeeding or planning to breastfeed.
   PROTONIX may pass into your milk.
   Talk with your doctor about the best way to feed your baby if you take PROTONIX.
 
@@ -71,18 +73,36 @@ How should I take PROTONIX?
 
 What are the possible side effects of PROTONIX?
 
-PROTONIX can cause serious side effects including:
-
-- Stomach lining weakening with long-term use
-- Vitamin B-12 deficiency
 - Serious allergic reactions.
   Tell your doctor if you get any of the following symptoms with PROTONIX
-  - rash
-  - face swelling
-  - throat tightness
-  - difficult breathing
+- rash
+- face swelling
+- throat tightness
+- difficult breathing
+- Stomach lining weakening with long-term use
+- Vitamin B-12 deficiency
 
 Your doctor may stop PROTONIX if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms:
+
+- seizures
+- dizziness
+- abnormal or fast heartbeat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking PROTONIX or during treatment; if you will be taking PROTONIX for a long period of time.
 
 The most common side effects with PROTONIX in adults include:
 

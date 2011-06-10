@@ -1,19 +1,9 @@
-Wyeth®
-
-Marketed by
-
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
 under license from
 
 Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-W10438C023
+LAB-0459-2.0
 
-ET01
-
-Rev 09/10
+Revised May 2011

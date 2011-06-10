@@ -25,8 +25,17 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 
 Due to the chronic nature of GERD, there may be a potential for prolonged administration of PROTONIX.
 In long-term rodent studies, pantoprazole was carcinogenic and caused rare types of gastrointestinal tumors.
-The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)].
+The relevance of these findings to tumor development in humans is unknown (see Nonclinical Toxicology (13.1).
 
 ## 5.6 Interference with Urine Screen for THC
 
 See Drug Interactions (7.4).
+
+## 5.7 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions 6.2)]
