@@ -5,17 +5,20 @@ In clinical trials, the most common adverse reactions (2%) are transient hypoten
 The following adverse reactions are described, or described in greater detail, in other sections:
 
 - Anaphylaxis [see Warnings and Precautions (5.2)]
+
 - Residual paralysis [see Warnings and Precautions (5.4)]
+
 - Myopathy [see Warnings and Precautions (5.5)]
+
 - Increased pulmonary vascular resistance [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical studies in the U.S. (n=1137) and Europe (n=1394) totaled 2531 patients.
-The patients exposed in the U.S. clinical studies provide the basis for calculation of adverse reaction rates.
-The following adverse reactions were reported in patients administered rocuronium bromide injection (all events judged by investigators during the clinical trials to have a possible causal relationship):
+Clinical studies in the US (n=1137) and Europe (n=1394) totaled 2531 patients.
+The patients exposed in the US clinical studies provide the basis for calculation of adverse reaction rates.
+The following adverse reactions were reported in patients administered rocuronium bromide (all events judged by investigators during the clinical trials to have a possible causal relationship):
 
 Adverse reactions in greater than 1% of patients: None
 
@@ -29,17 +32,17 @@ Respiratory: asthma (bronchospasm, wheezing, or rhonchi), hiccup
 
 Skin and Appendages: rash, injection site edema, pruritus
 
-In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the U.S. studies (0.1% and 0.1%).
-Changes in heart rate and blood pressure were defined differently from in the U.S. studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
+In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the US studies (0.1% and 0.1%).
+Changes in heart rate and blood pressure were defined differently from in the US studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
 
-In a clinical study in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
+In a clinical study in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients, but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
 In some patients, rocuronium bromide was associated with transient increases (30% or greater) in pulmonary vascular resistance.
 In another clinical study of patients undergoing abdominal aortic surgery, transient increases (30% or greater) in pulmonary vascular resistance were observed in about 24% of patients receiving rocuronium bromide 0.6 or 0.9 mg/kg.
 
-In pediatric patient studies worldwide (n=704), tachycardia occurred at an incidence of 5.3% (n=37) and it was judged by the investigator as related in 10 cases (1.4%).
+In pediatric patient studies worldwide (n=704), tachycardia occurred at an incidence of 5.3% (n=37), and it was judged by the investigator as related in 10 cases (1.4%).
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-In clinical practice, there have been reports, of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
+In clinical practice, there have been reports of severe allergic reactions (anaphylactic and anaphylactoid reactions and shock) with rocuronium bromide, including some that have been life-threatening and fatal [see Warnings and Precautions (5.2)].
 
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
