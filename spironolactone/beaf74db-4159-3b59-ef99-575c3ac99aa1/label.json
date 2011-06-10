@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040424"
+  ],
   "inn": "spironolactone",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
@@ -11,7 +13,13 @@
     "0378-2146-01",
     "0378-2146-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "spironolactone",
+      "name": "Spironolactone"
+    }
+  ],
   "setid": "beaf74db-4159-3b59-ef99-575c3ac99aa1",
   "source": "dailymed"
 }

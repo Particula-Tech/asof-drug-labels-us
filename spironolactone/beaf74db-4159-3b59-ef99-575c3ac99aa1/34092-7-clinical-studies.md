@@ -19,7 +19,7 @@ Seventy percent were NYHA class III and 29% class IV.
 The presumed etiology of heart failure was ischemic in 55%, and non-ischemic in 45%.
 There was a history of myocardial infarction in 28%, of hypertension in 24%, and of diabetes in 22%.
 The median baseline serum creatinine was 1.2 mg/dL and the median baseline creatinine clearance was 57 mL/min.
-The mean daily dose at study end for the patients randomized to spironolactone as 26 mg.
+The mean daily dose at study end for the patients randomized to spironolactone was 26 mg.
 
 Concomitant medications included a loop diuretic in 100% of patients and an ACE inhibitor in 97%.
 Other medications used at any time during the study included digoxin (78%), anticoagulants (58%), aspirin (43%), and beta-blockers (15%).

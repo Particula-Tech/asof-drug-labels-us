@@ -6,7 +6,7 @@ Spironolactone tablets may be employed as an initial diagnostic measure to provi
 
 ### Long Test
 
-Spironolactone tablets are administered at a daily dosage of 400 mg for three 3 to 4 weeks.
+Spironolactone tablets are administered at a daily dosage of 400 mg for 3 to 4 weeks.
 Correction of hypokalemia and of hypertension provides presumptive evidence for the diagnosis of primary hyperaldosteronism.
 
 ### Short Test

@@ -34,4 +34,4 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505
 
-REVISED FEBRUARY 2009 SP:R18
+REVISED APRIL 2009 SP:R19
