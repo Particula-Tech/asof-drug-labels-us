@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050783"
+  ],
   "inn": "doxycycline",
-  "labeler": "CollaGenex Pharmaceuticals, Inc.",
+  "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "64682-008-01",
     "64682-008-02",
     "64682-008-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxycycline hyclate",
+      "name": "Periostat"
+    }
+  ],
   "setid": "b0f40bb3-9ef5-449a-845a-c0ebb8e6d7ad",
   "source": "dailymed"
 }
