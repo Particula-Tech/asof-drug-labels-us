@@ -39,6 +39,10 @@ In the clinical trials, antacids were used concomitantly with PREVACID.
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison Syndrome have been treated continuously with PREVACID for more than 4 years. |
 
+Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
+However, if the next scheduled dose is due, the patient should not take the missed dose, and should be instructed to take the next dose on time.
+Patients should be instructed not to take 2 doses at one time to make up for a missed dose.
+
 ## 2.2 Special Populations
 
 Renal impairment patients and geriatric patients do not require dosage adjustment.

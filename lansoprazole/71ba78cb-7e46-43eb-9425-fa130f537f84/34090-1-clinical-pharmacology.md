@@ -116,7 +116,7 @@ A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times dai
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
-Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥2 weeks old).
+Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 × 107 to 1 × 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥2 weeks old).
 The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
 
 After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
