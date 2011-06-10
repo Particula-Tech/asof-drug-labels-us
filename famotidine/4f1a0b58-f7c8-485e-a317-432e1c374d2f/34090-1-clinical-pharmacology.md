@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY IN ADULTS
 
-## GI Effects
+GI Effects
 
 PEPCID is a competitive inhibitor of histamine H2‑receptors.
 The primary clinically important pharmacologic activity of PEPCID is inhibition of gastric secretion.
@@ -21,14 +21,14 @@ When PEPCID was given after breakfast, the basal daytime interdigestive pH at 3 
 PEPCID had little or no effect on fasting or postprandial serum gastrin levels.
 Gastric emptying and exocrine pancreatic function were not affected by PEPCID.
 
-## Other Effects
+Other Effects
 
 Systemic effects of PEPCID in the CNS, cardiovascular, respiratory or endocrine systems were not noted in clinical pharmacology studies.
 Also, no antiandrogenic effects were noted.
 (See ADVERSE REACTIONS.)
 Serum hormone levels, including prolactin, cortisol, thyroxine (T4), and testosterone, were not altered after treatment with PEPCID.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 PEPCID is incompletely absorbed.
 The bioavailability of oral doses is 40‑45%.
@@ -50,9 +50,7 @@ In patients with severe renal insufficiency, i.e., creatinine clearance less tha
 In elderly patients, there are no clinically significant age-related changes in the pharmacokinetics of PEPCID.
 However, in elderly patients with decreased renal function, the clearance of the drug may be decreased (see PRECAUTIONS, Geriatric Use).
 
-## Clinical Studies
-
-### Duodenal Ulcer
+Clinical Studies Duodenal Ulcer
 
 In a U.S. multicenter, double-blind study in outpatients with endoscopically confirmed duodenal ulcer, orally administered PEPCID was compared to placebo.
 As shown in Table 1, 70% of patients treated with PEPCID 40 mg h.s. were healed by week 4.
@@ -79,7 +77,7 @@ In the U.S. study the observed ulcer incidence within 12 months in patients trea
 The 89 patients treated with PEPCID had a cumulative observed ulcer incidence of 23.4% compared to an observed ulcer incidence of 56.6% in the 89 patients receiving placebo (p<0.01).
 These results were confirmed in an international study where the cumulative observed ulcer incidence within 12 months in the 307 patients treated with PEPCID was 35.7%, compared to an incidence of 75.5% in the 325 patients treated with placebo (p<0.01).
 
-### Gastric Ulcer
+Gastric Ulcer
 
 In both a U.S. and an international multicenter, double-blind study in patients with endoscopically confirmed active benign gastric ulcer, orally administered PEPCID, 40 mg h.s., was compared to placebo h.s.
 Antacids were permitted during the studies, but consumption was not significantly different between the PEPCID and placebo groups.
@@ -95,7 +93,7 @@ Table 2 Patients with Endoscopically Confirmed Healed Gastric Ulcers
 
 Time to complete relief of daytime and nighttime pain was statistically significantly shorter for patients receiving PEPCID than for patients receiving placebo; however, in neither study was there a statistically significant difference in the proportion of patients whose pain was relieved by the end of the study (week 8).
 
-### Gastroesophageal Reflux Disease (GERD)
+Gastroesophageal Reflux Disease (GERD)
 
 Orally administered PEPCID was compared to placebo in a U.S. study that enrolled patients with symptoms of GERD and without endoscopic evidence of erosion or ulceration of the esophagus.
 PEPCID 20 mg b.i.d. was statistically significantly superior to 40 mg h.s. and to placebo in providing a successful symptomatic outcome, defined as moderate or excellent improvement of symptoms (Table 3).
@@ -133,7 +131,7 @@ Table 5 % Endoscopic Healing - International Study
 | Week 6 Week 12 | 48 71‡‡‡ | 52 68 | 42 60 |
 | ‡‡‡ p≤0.05 vs Ranitidine 150 mg b.i.d. |  |  |  |
 
-### Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
+Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
 In studies of patients with pathological hypersecretory conditions such as Zollinger-Ellison Syndrome with or without multiple endocrine adenomas, PEPCID significantly inhibited gastric acid secretion and controlled associated symptoms.
 Orally administered doses from 20 to 160 mg q 6 h maintained basal acid secretion below 10 mEq/hr; initial doses were titrated to the individual patient need and subsequent adjustments were necessary with time in some patients.
@@ -141,7 +139,7 @@ PEPCID was well tolerated at these high dose levels for prolonged periods (great
 
 ## CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS
 
-## Pharmacokinetics
+Pharmacokinetics
 
 Table 6 presents pharmacokinetic data from clinical trials and a published study in pediatric patients (<1 year of age; N=27) given famotidine I.V.
 0.5 mg/kg and from published studies of small numbers of pediatric patients (1‑15 years of age) given famotidine intravenously.
@@ -166,7 +164,7 @@ The pharmacokinetic parameters for pediatric patients, ages >3 months‑15 years
 Bioavailability studies of 8 pediatric patients (11‑15 years of age) showed a mean oral bioavailability of 0.5 compared to adult values of 0.42 to 0.49.
 Oral doses of 0.5 mg/kg achieved AUCs of 645 ± 249 ng‑hr/mL and 580 ± 60 ng‑hr/mL in pediatric patients <1 year of age (N=5) and in pediatric patients 11‑15 years of age, respectively, compared to 482 ± 181 ng‑hr/mL in adults treated with 40 mg orally.
 
-## Pharmacodynamics
+Pharmacodynamics
 
 Pharmacodynamics of famotidine were evaluated in 5 pediatric patients 2‑13 years of age using the sigmoid Emax model.
 These data suggest that the relationship between serum concentration of famotidine and gastric acid suppression is similar to that observed in one study of adults (Table 7).

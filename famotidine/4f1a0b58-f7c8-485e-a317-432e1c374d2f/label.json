@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019527"
+  ],
   "inn": "famotidine",
   "labeler": "Salix Pharmaceuticals, Inc",
   "package_ndcs": [
     "65649-211-24"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "famotidine",
+      "name": "PEPCID"
+    }
+  ],
   "setid": "4f1a0b58-f7c8-485e-a317-432e1c374d2f",
   "source": "dailymed"
 }

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Duodenal Ulcer
+Duodenal Ulcer
 
 Acute Therapy: The recommended adult oral dosage for active duodenal ulcer is 40 mg once a day at bedtime.
 Most patients heal within 4 weeks; there is rarely reason to use PEPCID at full dosage for longer than 6 to 8 weeks.
@@ -8,16 +8,16 @@ A regimen of 20 mg b.i.d. is also effective.
 
 Maintenance Therapy: The recommended adult oral dose is 20 mg once a day at bedtime.
 
-## Benign Gastric Ulcer
+Benign Gastric Ulcer
 
 Acute Therapy: The recommended adult oral dosage for active benign gastric ulcer is 40 mg once a day at bedtime.
 
-## Gastroesophageal Reflux Disease (GERD)
+Gastroesophageal Reflux Disease (GERD)
 
 The recommended oral dosage for treatment of adult patients with symptoms of GERD is 20 mg b.i.d. for up to 6 weeks.
 The recommended oral dosage for the treatment of adult patients with esophagitis including erosions and ulcerations and accompanying symptoms due to GERD is 20 or 40 mg b.i.d. for up to 12 weeks (see CLINICAL PHARMACOLOGY IN ADULTS, Clinical Studies).
 
-### Dosage for Pediatric Patients <1year of age Gastroesophageal Reflux Disease (GERD)
+Dosage for Pediatric Patients <1year of age Gastroesophageal Reflux Disease (GERD)
 
 See PRECAUTIONS, Pediatric Patients <1 year of age.
 
@@ -25,11 +25,11 @@ The studies described in PRECAUTIONS, Pediatric Patients < 1 year of age suggest
 Patients should also be receiving conservative measures (e.g., thickened feedings).
 The use of intravenous famotidine in pediatric patients <1 year of age with GERD has not been adequately studied.
 
-### Dosage for Pediatric Patients 1‑16 years of age
+Dosage for Pediatric Patients 1‑16 years of age
 
 See PRECAUTIONS, Pediatric Patients 1‑16 years of age.
 
-The studies described in PRECAUTIONS, Pediatric Patients 1‑16 years of age suggest the following starting doses in pediatric patients 1‑16 years of age:
+The studies described in PRECAUTIONS, Pediatric Patients1‑16 years of age suggest the following starting doses in pediatric patients 1‑16 years of age:
 
 Peptic ulcer - 0.5 mg/kg/day p.o. at bedtime or divided b.i.d. up to 40 mg/day.
 
@@ -37,35 +37,35 @@ Gastroesophageal Reflux Disease with or without esophagitis including erosions a
 
 While published uncontrolled studies suggest effectiveness of famotidine in the treatment of gastroesophageal reflux disease and peptic ulcer, data in pediatric patients are insufficient to establish percent response with dose and duration of therapy.
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.
-Published uncontrolled clinical studies in pediatric patients 1‑16 years of agehave employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
+Published uncontrolled clinical studies in pediatric patients 1‑16 years of age have employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
 
-## Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
+Pathological Hypersecretory Conditions (e.g., Zollinger-Ellison Syndrome, Multiple Endocrine Adenomas)
 
 The dosage of PEPCID in patients with pathological hypersecretory conditions varies with the individual patient.
 The recommended adult oral starting dose for pathological hypersecretory conditions is 20 mg q 6 h. In some patients, a higher starting dose may be required.
 Doses should be adjusted to individual patient needs and should continue as long as clinically indicated.
 Doses up to 160 mg q 6 h have been administered to some adult patients with severe Zollinger-Ellison Syndrome.
 
-## Oral Suspension
+Oral Suspension
 
 PEPCID for Oral Suspension may be substituted for PEPCID Tablets in any of the above indications.
 Each five mL contains 40 mg of famotidine after constitution of the powder with 46 mL of Purified Water as directed.
 
-### Directions for Preparing PEPCID for Oral Suspension
+Directions for Preparing PEPCID for Oral Suspension
 
 Prepare suspension at time of dispensing.
 Slowly add 46 mL of Purified Water.
 Shake vigorously for 5‑10 seconds immediately after adding the water and immediately before use.
 
-### Stability of PEPCID for Oral Suspension
+Stability of PEPCID for Oral Suspension
 
 Unused constituted oral suspension should be discarded after 30 days.
 
-### Concomitant Use of Antacids
+Concomitant Use of Antacids
 
 Antacids may be given concomitantly if needed.
 
-## Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency
+Dosage Adjustment for Patients with Moderate or Severe Renal Insufficiency
 
 In adult patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency, the elimination half-life of PEPCID is increased.
 For patients with severe renal insufficiency, it may exceed 20 hours, reaching approximately 24 hours in anuric patients.

@@ -1,10 +1,10 @@
 # PRECAUTIONS
 
-## General
+General
 
 Symptomatic response to therapy with PEPCID does not preclude the presence of gastric malignancy.
 
-### Patients with Moderate or Severe Renal Insufficiency
+Patients with Moderate or Severe Renal Insufficiency
 
 Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
 
@@ -13,14 +13,14 @@ Since CNS adverse effects have been reported in patients with moderate and sever
 The patient should be instructed to shake the oral suspension vigorously for 5‑10 seconds prior to each use.
 Unused constituted oral suspension should be discarded after 30 days.
 
-## Drug Interactions
+Drug Interactions
 
 No drug interactions have been identified.
 Studies with famotidine in man, in animal models, and in vitro have shown no significant interference with the disposition of compounds metabolized by the hepatic microsomal enzymes, e.g., cytochrome P450 system.
 Compounds tested in man include warfarin, theophylline, phenytoin, diazepam, aminopyrine and antipyrine.
 Indocyanine green as an index of hepatic drug extraction has been tested and no significant effects have been found.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 106 week study in rats and a 92-week study in mice given oral doses of up to 2000 mg/kg/day (approximately 2500 times the recommended human dose for active duodenal ulcer), there was no evidence of carcinogenic potential for PEPCID.
 
@@ -29,7 +29,7 @@ In in vivo studies in mice, with a micronucleus test and a chromosomal aberratio
 
 In studies with rats given oral doses of up to 2000 mg/kg/day or intravenous doses of up to 200 mg/kg/day, fertility and reproductive performance were not affected.
 
-## Pregnancy
+Pregnancy
 
 Pregnancy Category B
 
@@ -38,14 +38,14 @@ While no direct fetotoxic effects have been observed, sporadic abortions occurri
 There are, however, no adequate or well-controlled studies in pregnant women.
 Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+Nursing Mothers
 
 Studies performed in lactating rats have shown that famotidine is secreted into breast milk.
 Transient growth depression was observed in young rats suckling from mothers treated with maternotoxic doses of at least 600 times the usual human dose.
 Famotidine is detectable in human milk.
 Because of the potential for serious adverse reactions in nursing infants from PEPCID, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Patients <1 year of age
+Pediatric Patients <1 year of age
 
 Use of PEPCID in pediatric patients <1 year of age is supported by evidence from adequate and well‑controlled studies of PEPCID in adults, and by the following studies in pediatric patients <1 year of age.
 
@@ -72,7 +72,7 @@ Of the 35 patients enrolled in the study, agitation was observed in 5 patients o
 These studies suggest that a starting dose of 0.5 mg/kg/dose of famotidine oral suspension may be of benefit for the treatment of GERD for up to 4 weeks once daily in patients <3 months of age and twice daily in patients 3 months to <1 year of age; the safety and benefit of famotidine treatment beyond 4 weeks have not been established.
 Famotidine should be considered for the treatment of GERD only if conservative measures (e.g., thickened feedings) are used concurrently and if the potential benefit outweighs the risk.
 
-## Pediatric Patients 1‑16 years of age
+Pediatric Patients 1‑16 years of age
 
 Use of PEPCID in pediatric patients 1‑16 years of age is supported by evidence from adequate and well-controlled studies of PEPCID in adults, and by the following studies in pediatric patients: In published studies in small numbers of pediatric patients 1‑15 years of age, clearance of famotidine was similar to that seen in adults.
 In pediatric patients 11‑15 years of age, oral doses of 0.5 mg/kg were associated with a mean area under the curve (AUC) similar to that seen in adults treated orally with 40 mg.
@@ -88,7 +88,7 @@ While published uncontrolled studies suggest effectiveness of famotidine in the 
 Therefore, treatment duration (initially based on adult duration recommendations) and dose should be individualized based on clinical response and/or pH determination (gastric or esophageal) and endoscopy.
 Published uncontrolled clinical studies in pediatric patients have employed doses up to 1 mg/kg/day for peptic ulcer and 2 mg/kg/day for GERD with or without esophagitis including erosions and ulcerations.
 
-## Geriatric Use
+Geriatric Use
 
 Of the 4,966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
