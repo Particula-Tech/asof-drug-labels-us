@@ -478,7 +478,7 @@ Two methods were used to measure extrapyramidal symptoms (EPS) in an 8 week tria
 
 Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8 week trial comparing 5 fixed doses of risperidone (1, 4, 8, 12, and 16 mg/day):
 
-| Dose Groups | Risperidone 1 mg | Risperidone 4 mg | Risperidone 8 mg | Risperidone 12 mg | Risperidone 16 mg |
+| Dose Groups | Risperidone 1 mg | Risperidone | Risperidone 8 mg | Risperidone 12 mg | Risperidone 16 mg |
 | --- | --- | --- | --- | --- | --- |
 | Parkinsonism | 0.6 | 1.7 | 2.4 | 2.9 | 4.1 |
 | EPS Incidence | 7% | 12% | 17% | 18% | 20% |
