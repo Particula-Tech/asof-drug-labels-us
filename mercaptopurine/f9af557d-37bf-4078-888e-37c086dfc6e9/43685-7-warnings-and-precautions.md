@@ -1,5 +1,9 @@
 # WARNINGS
 
+Mercaptopurine is mutagenic in animals and humans, carcinogenic in animals, and may increase the patient's risk of neoplasia.
+Cases of hepatosplenic T-cell lymphoma have been reported in patients treated with mercaptopurine for inflammatory bowel disease.
+The safety and efficacy of mercaptopurine in patients with inflammatory bowel disease have not been established.
+
 ## Bone Marrow Toxicity
 
 The most consistent, dose-related toxicity is bone marrow suppression.
