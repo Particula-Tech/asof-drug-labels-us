@@ -23,20 +23,18 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Manufactured for: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
 
-By: CIMA® LABS INC. Eden Prairie, MN 55344, USA
+U.S. Patent Nos. 6,024,981 and 6,221,392
 
-U.S. Patent Nos. 6,024,981 and 6,221,392.
+NIRAt-10-12 Rev.
+01/11 2E
 
-NIRAt-09-12 Rev.
-10/09 1E
+NIRAVAM® is a registered trademark of SRZ Properties, Inc.
 
-CIMA® is a registered trademark of CIMA LABS INC. NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+00017323
 
-00016354
-
-Lot: Exp:
+LOT: EXP:
 
 # Principal Display Panel - 0.5 mg Tablets
 
@@ -63,20 +61,18 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Manufactured for: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
 
-By: CIMA® LABS INC. Eden Prairie, MN 55344, USA
+U.S. Patent Nos. 6,024,981 and 6,221,392
 
-U.S. Patent Nos. 6,024,981 and 6,221,392.
+NIRAt-10-12 Rev.
+01/11 2E
 
-NIRAt-09-22 Rev.
-10/09 1E
+NIRAVAM® is a registered trademark of SRZ Properties, Inc.
 
-CIMA® is a registered trademark of CIMA LABS INC. NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+00017322
 
-00016355
-
-Lot: Exp:
+LOT: EXP:
 
 # Principal Display Panel - 1 mg Tablets
 
@@ -103,20 +99,18 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Manufactured for: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
 
-By: CIMA® LABS INC. Eden Prairie, MN 55344, USA
+U.S. Patent Nos. 6,024,981 and 6,221,392
 
-U.S. Patent Nos. 6,024,981 and 6,221,392.
+NIRAt-10-12 Rev.
+01/11 2E
 
-NIRAt-09-32 Rev.
-10/09 1E
+NIRAVAM® is a registered trademark of SRZ Properties, Inc.
 
-CIMA® is a registered trademark of CIMA LABS INC. NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+00017321
 
-00016356
-
-Lot: Exp:
+LOT: EXP:
 
 # Principal Display Panel - 2 mg Tablets
 
@@ -143,17 +137,15 @@ Dispense in a tight container as defined in the USP/NF.
 
 KEEP OUT OF REACH OF CHILDREN.
 
-Manufactured for: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
+Distributed by: AZUR PHARMA, Inc. Philadelphia, PA 19103, USA
 
-By: CIMA® LABS INC. Eden Prairie, MN 55344, USA
+U.S. Patent Nos. 6,024,981 and 6,221,392
 
-U.S. Patent Nos. 6,024,981 and 6,221,392.
+NIRAt-10-12 Rev.
+01/11 2E
 
-NIRAt-09-42 Rev.
-10/09 1E
+NIRAVAM® is a registered trademark of SRZ Properties, Inc.
 
-CIMA® is a registered trademark of CIMA LABS INC. NIRAVAM® is a registered trademark of SRZ Properties, Inc.
+00017320
 
-00016357
-
-Lot: Exp:
+LOT: EXP:
