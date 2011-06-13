@@ -11,23 +11,23 @@ Ciprofloxacin should be administered at least 2 hours before or 6 hours after ma
 | Infection | Severity | Dose | Frequency | Usual Durations† |
 | --- | --- | --- | --- | --- |
 | ADULT DOSAGE GUIDELINES |  |  |  |  |
-| Urinary Tract | Acute Uncomplicated | 250 mg | q 12 h | 3 Days |
-| Mild/Moderate | 250 mg | q 12 h | 7 to 14 Days |  |
-| Severe/Complicated | 500 mg | q 12 h | 7 to 14 Days |  |
-| Chronic Bacterial Prostatitis | Mild/Moderate | 500 mg | q 12 h | 28 Days |
+| Urinary Tract | Acute Uncomplicated | 250 mg | q 12 h | 3 days |
+| Mild/Moderate | 250 mg | q 12 h | 7 to 14 days |  |
+| Severe/Complicated | 500 mg | q 12 h | 7 to 14 days |  |
+| Chronic Bacterial Prostatitis | Mild/Moderate | 500 mg | q 12 h | 28 days |
 | Lower Respiratory Tract | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
 | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |  |
 | Acute Sinusitis | Mild/Moderate | 500 mg | q 12 h | 10 days |
-| Skin and Skin Structure | Mild/Moderate | 500 mg | q 12 h | 7 to 14 Days |
-| Severe/Complicated | 750 mg | q 12 h | 7 to 14 Days |  |
+| Skin and Skin Structure | Mild/Moderate | 500 mg | q 12 h | 7 to 14 days |
+| Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |  |
 | Bone and Joint | Mild/Moderate | 500 mg | q 12 h | ≥4 to 6 weeks |
 | Severe/Complicated | 750 mg | q 12 h | ≥4 to 6 weeks |  |
-| Intra-Abdominal* | Complicated | 500 mg | q 12 h | 7 to 14 Days |
-| Infectious Diarrhea | Mild/Moderate/Severe | 500 mg | q 12 h | 5 to 7 Days |
-| Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 Days |
+| Intra-Abdominal* | Complicated | 500 mg | q 12 h | 7 to 14 days |
+| Infectious Diarrhea | Mild/Moderate/Severe | 500 mg | q 12 h | 5 to 7 days |
+| Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 days |
 | Urethral and Cervical Gonococcal Infections | Uncomplicated | 250 mg | single dose | single dose |
-| Inhalational anthrax (post-exposure)** |  | 500 mg | 12 h | 60 Days |
-| * used in conjunction with metronidazole † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). ** Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. |  |  |  |  |
+| Inhalational anthrax (post-exposure)** |  | 500 mg | 12 h | 60 days |
+| * used in conjunction with metronidazole † Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). ** Drug administration should begin as soon as possible after suspected or confirmed exposure. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION. |  |  |  |  |
 
 Conversion of I.V. to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin I.V. may be switched to ciprofloxacin tablets when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
 

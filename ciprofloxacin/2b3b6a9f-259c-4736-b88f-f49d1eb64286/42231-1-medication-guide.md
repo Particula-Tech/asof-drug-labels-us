@@ -38,8 +38,11 @@ Tendon rupture or swelling of the tendon (tendinitis)
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
+- Worsening of myasthenia gravis (a disease which causes muscle weakness).
+  Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-- See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects.
+See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects.
 
 ## What are ciprofloxacin tablets?
 
@@ -70,6 +73,7 @@ See “What is the most important information I should know about ciprofloxacin 
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
+- have a disease that causes muscle weakness (myasthenia gravis)
 - have central nervous system problems (such as epilepsy)
 - have nerve problems
 - have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
@@ -80,9 +84,9 @@ Tell your healthcare provider about all your medical conditions, including if yo
 - have trouble swallowing pills
 - are pregnant or planning to become pregnant.
   It is not known if ciprofloxacin tablets will harm your unborn child.
-- are breast-feeding or planning to breast-feed.
+- are breastfeeding or planning to breastfeed.
   Ciprofloxacin passes into breast milk.
-  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breast-feed.
+  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breastfeed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
 Ciprofloxacin tablets and other medicines can affect each other causing side effects.
@@ -91,7 +95,7 @@ Especially tell your healthcare provider if you take:
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of ciprofloxacin tablets?”
+  See “What are the possible side effects of ciprofloxacin tablets?”.
 - a blood thinner
 - tizanidine.
   You should not take ciprofloxacin tablets if you are already taking tizanidine.
@@ -118,7 +122,6 @@ Especially tell your healthcare provider if you take:
   - didanosine.
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
-
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
@@ -296,4 +299,4 @@ For more information call 1-866-850-2876.
 
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011

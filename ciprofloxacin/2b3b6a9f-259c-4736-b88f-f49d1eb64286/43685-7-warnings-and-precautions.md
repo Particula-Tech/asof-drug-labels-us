@@ -4,13 +4,17 @@
 
 Fluoroquinolones, including ciprofloxacin, are associated with an increased risk of tendinitis and tendon rupture in all ages.
 This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
-Tendinitis and tendon rupture in the rotater cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
+Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 Factors, in addition to age and corticosteroid use, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
 Tendon rupture can occur during or after completion of therapy; cases occurring up to several months after completion of therapy have been reported.
 Ciprofloxacin should be discontinued if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
+Exacerbation of Myasthenia Gravis Fluoroquinolones, including ciprofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
+Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
+Avoid ciprofloxacin in patients with known history of myasthenia gravis.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Event Reports. )
 
 ## Pregnant Women
 
@@ -66,7 +70,7 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
 
 ## Pseudomembranous Colitis
 
@@ -116,6 +120,8 @@ Patients should be advised:
 
 - to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
+- that fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+  Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
 - that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -187,7 +193,7 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
 An expert review of published data on experiences with ciprofloxacin use during pregnancy by TERIS — the Teratogen Information System — concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (quantity and quality of data=fair), but the data are insufficient to state that there is no risk.
@@ -257,7 +263,7 @@ However, the relationship of this event to the patient’s course of ciprofloxac
 
 Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin.
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
-Tendinitis or tendon rupture can involves the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
+Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential side effect and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See Boxed Warning, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.

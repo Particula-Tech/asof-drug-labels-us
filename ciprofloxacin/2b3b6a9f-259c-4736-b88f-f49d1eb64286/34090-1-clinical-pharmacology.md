@@ -6,7 +6,7 @@ Ciprofloxacin given as an oral tablet is rapidly and well absorbed from the gast
 The absolute bioavailability is approximately 70% with no substantial loss by first pass metabolism.
 Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range.
 
-| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
+| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg.hr/mL) |
 | --- | --- | --- |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |
@@ -56,7 +56,7 @@ After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 2
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
-Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Coadministration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1 to 2% of the dose is recovered from the bile in the form of metabolites.
 Approximately 20 to 35% of an oral dose is recovered from the feces within 5 days after dosing.
@@ -185,7 +185,7 @@ Standard ciprofloxacin powder should provide the following MIC values:
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure 3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of microorganisms to ciprofloxacin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg ciprofloxacin disk should be interpreted according to the following criteria: For testing Enterobacteriaceae , Enterococcus faecalis , methicillin-susceptible Staphylococcus species, penicillin-susceptible Streptococcus pneumoniae , Streptococcus pyogenes , and Pseudomonas aeruginosa a :
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
