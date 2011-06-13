@@ -1,4 +1,6 @@
-# ADVERSE REACTIONS (See also WARNINGS and PRECAUTIONS.)
+# ADVERSE REACTIONS
+
+(See also WARNINGS and PRECAUTIONS.)
 
 The information included under the Incidence in Controlled Trials subsection of ADVERSE REACTIONS is based primarily on data from controlled clinical trials with WELLBUTRIN SR.
 Information on additional adverse events associated with the sustained-release formulation of bupropion in smoking cessation trials, as well as the immediate-release formulation of bupropion, is included in a separate section (see Other Events Observed During the Clinical Development and Postmarketing Experience of Bupropion).
@@ -95,9 +97,9 @@ Treatment-Emergent Adverse Events in Placebo-Controlled Trialsa
 | Vaginal hemorrhageb | 0% | 2% | — |
 | Urinary tract infection | 1% | 0% | — |
 
-aAdverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder.
+a Adverse events that occurred in at least 1% of patients treated with either 300 or 400 mg/day of WELLBUTRIN SR, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder.
 
-bIncidence based on the number of female patients.
+b Incidence based on the number of female patients.
 
 — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of patients.
 

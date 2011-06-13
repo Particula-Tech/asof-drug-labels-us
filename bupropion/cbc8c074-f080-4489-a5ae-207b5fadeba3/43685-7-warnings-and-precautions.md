@@ -214,16 +214,14 @@ The patient should be closely monitored for possible adverse effects that could 
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN SR and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” "Quitting Smoking, Quit-Smoking Medication, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions," and "What Other Important Information Should I Know About WELLBUTRIN SR?" is available for WELLBUTRIN SR.
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medication, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About WELLBUTRIN SR?” is available for WELLBUTRIN SR.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking WELLBUTRIN SR.
 
-### Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
-
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
@@ -233,9 +231,7 @@ Patients should be informed that quitting smoking, with or without ZYBAN, may be
 Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
-### Bupropion-Containing Products:
-
-Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
+Bupropion-Containing Products: Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
 
 As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take WELLBUTRIN SR in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
@@ -262,20 +258,19 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Few systemic data have been collected on the metabolism of bupropion following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of bupropion on the metabolism of other drugs.
-
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
-Following oral administration of two 150-mg WELLBUTRIN SR Tablets with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
+Following oral administration of two 150-mg WELLBUTRIN SR tablets with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
 In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir 400 mg (KALETRA) twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
-This effect is thought to be due to the induction of bupropion metabolism.
-Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
+Similarly, efavirenz 600 mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
+This effect of ritonavir, KALETRA, and efavirenz is thought to be due to the induction of bupropion metabolism.
+Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -296,6 +291,8 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
 
+Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolites.
 
@@ -310,7 +307,7 @@ Administration of WELLBUTRIN SR to patients receiving either levodopa or amantad
 
 ### Drugs That Lower Seizure Threshold
 
-Concurrent administration of WELLBUTRIN SR Tablets and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
+Concurrent administration of WELLBUTRIN SR and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
 Low initial dosing and gradual dose increases should be employed.
 
 ### Nicotine Transdermal System

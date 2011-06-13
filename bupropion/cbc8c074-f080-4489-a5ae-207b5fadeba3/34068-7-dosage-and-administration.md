@@ -8,7 +8,7 @@ If necessary, these effects may be managed by temporary reduction of dose or the
 A sedative hypnotic usually is not required beyond the first week of treatment.
 Insomnia may also be minimized by avoiding bedtime doses.
 If distressing, untoward effects supervene, dose escalation should be stopped.
-WELLBUTRIN SR should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increase risk of adverse effects including seizures.
+WELLBUTRIN SR should be swallowed whole and not crushed, divided, or chewed, as this may lead to an increased risk of adverse effects including seizures.
 
 ## Initial Treatment
 

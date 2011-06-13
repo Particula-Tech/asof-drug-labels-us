@@ -113,7 +113,7 @@ Do not take WELLBUTRIN SR if you
 - are taking ZYBAN® (used to help people stop smoking) or any other medicines that contain bupropion hydrochloride, such as WELLBUTRIN® Tablets or WELLBUTRIN XL® Extended-Release Tablets.
   Bupropion is the same active ingredient that is in WELLBUTRIN SR.
 - drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy) or benzodiazepines and you stop using them all of a sudden.
-- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL®(phenelzine sulfate), PARNATE®(tranylcypromine sulfate), or MARPLAN®(isocarboxazid).
+- have taken within the last 14 days medicine for depression called a monoamine oxidase inhibitor (MAOI), such as NARDIL® (phenelzine sulfate), PARNATE® (tranylcypromine sulfate), or MARPLAN® (isocarboxazid).
 - have or had an eating disorder such as anorexia nervosa or bulimia.
 - are allergic to the active ingredient in WELLBUTRIN SR, bupropion, or to any of the inactive ingredients.
   See the end of this leaflet for a complete list of ingredients in WELLBUTRIN SR.

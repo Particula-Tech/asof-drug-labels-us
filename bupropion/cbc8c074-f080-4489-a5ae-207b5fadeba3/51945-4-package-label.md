@@ -34,8 +34,8 @@ Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000071918 Rev.
-8/09
+10000000083295 Rev.
+8/10
 
 Principal Display Panel
 
@@ -67,13 +67,14 @@ See prescribing information for dosage information.
 
 Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
 
-Mfd.
-By: GlaxoSmithKline, Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc., Greenville, NC 27834
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000071916 Rev.
-8/09
+10000000083293 Rev.
+8/10
 
 Principal Display Panel
 
@@ -107,9 +108,9 @@ Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
 
 GlaxoSmithKline
 
-Research Triangle Park, NC
+Research Triangle Park, NC 27709
 
 Made in Germany
 
-10000000071917 Rev.
-8/09
+10000000083294 Rev.
+8/10
