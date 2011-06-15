@@ -28,6 +28,7 @@ Based on clinical trials with RETISERT, within 3-years post implantation, approx
 ## 5.4 Separation of Implant Components
 
 In vitro stability studies show that the strength of the adhesive bond between the silicone cup reservoir and the suture tab is reduced with prolonged hydration, indicating a potential for the separation of these components.
+The suture tab composition is a silicone elastomer reinforced with a polyester mesh.
 Physicians should periodically monitor the integrity of the implant by visual inspection.
 
 ## 5.5 Other Corticosteroid Induced Adverse Reactions

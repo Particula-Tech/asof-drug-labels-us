@@ -12,9 +12,9 @@ Based on clinical trials with RETISERT, within 3 years post-implantation, approx
 
 Based on clinical trials with RETISERT, during the 3-year post-implantation period, nearly all phakic eyes are expected to develop cataracts and require cataract surgery.
 
-Manufacturer Information
+MANUFACTURER INFORMATION
 
-Revised March 2009
+Revised May 2011
 
 Marketed by: Bausch & Lomb Incorporated Rochester, NY 14609
 
