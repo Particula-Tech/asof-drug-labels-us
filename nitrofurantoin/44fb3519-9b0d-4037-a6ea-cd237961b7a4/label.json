@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA016620"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Almatica Pharma Inc.",
+  "package_ndcs": [
+    "52427-286-01",
+    "52427-287-01",
+    "52427-288-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "macrodantin",
+      "name": "Macrodantin"
+    }
+  ],
+  "setid": "44fb3519-9b0d-4037-a6ea-cd237961b7a4",
+  "source": "dailymed"
+}
