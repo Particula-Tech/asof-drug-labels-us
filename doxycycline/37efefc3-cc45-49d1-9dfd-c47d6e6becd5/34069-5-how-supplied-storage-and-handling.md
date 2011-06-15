@@ -6,4 +6,4 @@ DORYX® (Doxycycline Hyclate Delayed-Release Tablets, USP), 100 mg: Bottles of 1
 
 DORYX® (Doxycycline Hyclate Delayed-Release Tablets, USP), 150 mg: Bottles of 60 tablets N 0430-0113-20
 
-Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) [see USP Controlled Room Temperature]; dispense in a tight, light-resistant container (USP).
+Store at 25° C (77° F); excursions permitted to 15° to 30° C (59° to 86° F) [see USP Controlled Room Temperature]; dispense in a tight, light-resistant container (USP).

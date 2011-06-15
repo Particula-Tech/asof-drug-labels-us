@@ -13,7 +13,7 @@ Most of these patients took medications immediately before going to bed [see DOS
 
 ## 6.2 Skin
 
-Maculopapular and erythematous rashes.
+Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme have been reported.
 Exfoliative dermatitis has been reported but is uncommon.
 Photosensitivity is discussed above [see WARNINGS AND PRECAUTIONS (5.3)].
 

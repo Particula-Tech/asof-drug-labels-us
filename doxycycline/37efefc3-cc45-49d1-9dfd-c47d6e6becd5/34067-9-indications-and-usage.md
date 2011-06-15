@@ -13,17 +13,13 @@ Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, ricket
 ## 1.2 Sexually transmitted infections
 
 Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis.
-
 Nongonococcal urethritis caused by Ureaplasma urealyticum.
-
 Lymphogranuloma venereum caused by Chlamydia trachomatis.
-
 Granuloma inguinale caused by Calymmatobacterium granulomatis.
 
 ## 1.3 Respiratory tract infections
 
 Respiratory tract infections caused by Mycoplasma pneumoniae.
-
 Psittacosis (ornithosis) caused by Chlamydia psittaci.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.

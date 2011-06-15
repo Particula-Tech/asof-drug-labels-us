@@ -36,7 +36,7 @@ For children over 8 years of age, the recommended dose is 2 mg/kg given once dai
 Prophylaxis should begin 1-2 days before travel to the malarious area.
 Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area.
 
-## 2.3 Inhalation anthrax (post-exposure)
+## 2.3 Inhalational anthrax (post-exposure)
 
 ADULTS: 100 mg, of doxycycline, by mouth, twice a day for 60 days.
 

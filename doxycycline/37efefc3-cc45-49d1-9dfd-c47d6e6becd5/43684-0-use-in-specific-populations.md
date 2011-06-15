@@ -23,12 +23,12 @@ Nonteratogenic effects: [see WARNINGS AND PRECAUTIONS (5.1, 5.6)].
 
 Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known.
 Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknown.4 Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-[See WARNINGS AND PRECAUTIONS (5.1, 5.6).]
+[see WARNINGS AND PRECAUTIONS (5.1, 5.6)].
 
 ## 8.4 Pediatric use
 
 Because of the effects of drugs of the tetracycline-class on tooth development and growth, DORYX should not be used in pediatric patients to the age of 8 years, except for inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated.
-[See WARNINGS AND PRECAUTIONS (5.1, 5.6) and DOSAGE AND ADMINISTRATION (2.1, 2.3).]
+[see WARNINGS AND PRECAUTIONS (5.1, 5.6) and DOSAGE AND ADMINISTRATION (2.1, 2.3)].
 
 ## 8.5 Geriatric use
 

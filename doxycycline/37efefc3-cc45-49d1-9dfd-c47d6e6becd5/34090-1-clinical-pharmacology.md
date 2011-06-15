@@ -16,9 +16,9 @@ When DORYX Tablets are sprinkled over applesauce and taken with or without water
 
 Tetracyclines are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min.
-This percentage may fall as low as 1-5%/72 hours in individuals with a creatinine clearance below 10 mL/min.
+This percentage may fall as low as 1 to 5%/72 hours in individuals with a creatinine clearance below 10 mL/min.
 
-Studies have shown no significant difference in the serum half-life of doxycycline (range 18-22 hours) in individuals with normal and severely impaired renal function.
+Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 Hemodialysis does not alter the serum half-life.
 
 ## 12.4 Microbiology
@@ -62,15 +62,16 @@ This procedure uses paper disks impregnated with 30 mcg doxycycline to test the 
 Interpretation involves the correlation of the diameter obtained in the disk test with the MIC for doxycycline.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30 mcg doxycycline disk should be interpreted according to the criteria in Table 1:
 
-| Table 1 Susceptibility Test Interpretive Criteria for Doxycycline |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 1 Susceptibility Test Interpretive Criteria for Doxycycline
+
 |  | Susceptibility Interpretive Criteria |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimal Inhibitory |  |  | Disk Diffusion Zone |  |  |
 |  | Concentration (mcg/mL) |  |  | Diameter (mm) - 30 mcg disk |  |  |
 |  | S | I | R | S | I | R |
-| Acinetobacter spp. | ≤4 | 8 | ≥16 | ≤9 | 10-12 | ≥13 |
-| Enterobacteriaceae | ≤4 | 8 | ≥16 | ≤10 | 11-13 | ≥14 |
-| Enterococcus faecalis and faecium | <4 | 8 | ≥16 | ≤12 | 13-15 | ≥16 |
+| Acinetobacter spp. | ≤4 | 8 | ≥16 | ≤9 | 10 to 12 | ≥13 |
+| Enterobacteriaceae | ≤4 | 8 | ≥16 | ≤10 | 11 to 13 | ≥14 |
+| Enterococcus faecalis and faecium | <4 | 8 | ≥16 | ≤12 | 13 to 15 | ≥16 |
 | Vibrio cholerae | ≤4 | 8 | ≥16 | - | - | - |
 | Yersinia pestis | ≤4 | 8 | ≥16 | - | - | - |
 | Bacillus anthracisThe current absence of resistance isolates precludes defining any results other than “Susceptible”. Isolates yielding results other than susceptible should be subjected to additional testing. | ≤1 | - | - | - | - | - |
@@ -88,18 +89,18 @@ Quality Control
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7 Standard doxycycline powder should provide the MIC values provided in Table 2.
 For the diffusion technique using the 30 mcg tigecycline disk the criteria provided in Table 2 should be achieved.
 
-| Table 2 Acceptable Quality Control Ranges for Doxycycline to be Used for Validation of |  |  |
-| --- | --- | --- |
-| Susceptibility Test Results |  |  |
+Table 2 Acceptable Quality Control Ranges for Doxycycline to be Used for Validation of Susceptibility Test Results
+
 |  | Acceptable Quality Control Ranges |  |
+| --- | --- | --- |
 | Pathogen | Minimal Inhibitory | Disk Diffusion Zone |
 |  | Concentration (mcg/mL) | Diameter (mm) - 30 mcg disk |
-| Enterococcus faecalis ATCC 29212 | 2 - 8 | NONE |
-| Escherichia coli ATCC 25922 | 0.5 - 2 | 18 - 24 |
+| Enterococcus faecalis ATCC 29212 | 2 to 8 | NONE |
+| Escherichia coli ATCC 25922 | 0.5 to 2 | 18 to 24 |
 | Staphylococcus aureus ATCC 25923 |  |  |
-| for Enterococcus spp. | Not Applicable | 23 - 29 |
+| for Enterococcus spp. | Not Applicable | 23 to 29 |
 | Staphylococcus aureus ATCC 29213 |  |  |
-| for Enterococcus spp., B. anthracis | 0.12 - 0.5 | Not Applicable |
+| for Enterococcus spp., B. anthracis | 0.12 to 0.5 | Not Applicable |
 | and F. tularensis |  |  |
 | Streptococcus pneumoniae |  |  |
-| ATCC 49619 for Brucella spp. | 0.015 - 0.12 | Not Applicable |
+| ATCC 49619 for Brucella spp. | 0.015 to 0.12 | Not Applicable |
