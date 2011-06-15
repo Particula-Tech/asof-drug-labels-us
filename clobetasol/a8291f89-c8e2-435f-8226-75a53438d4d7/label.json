@@ -6,7 +6,9 @@
   "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "63032-101-00",
-    "63032-101-50"
+    "63032-101-10",
+    "63032-101-50",
+    "63032-101-61"
   ],
   "products": [
     {
