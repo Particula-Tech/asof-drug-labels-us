@@ -108,62 +108,36 @@ Table 4: Number (%) of Critically Ill Patients with Frequently Occurring (≥ 3%
 The following adverse reactions have been identified during post-approval use of omeprazole.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole
+Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise.
 
-Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise.
+Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
-Cardiovascular
-
-Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
-
-Gastrointestinal
-
-Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
-Hepatic
-
-Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
+Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
 In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
 
-Metabolic/Nutritional
+Metabolism and Nutritional Disorders: Hyponatremia, hypoglycemia, hypomagnesemia, and weight gain.
 
-Hyponatremia, hypoglycemia, hypomagnesemia, and weight gain.
+Musculoskeletal: Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, and leg pain.
 
-Musculoskeletal
+Nervous System/Psychiatric: Psychic disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, tremors, apathy, somnolence, anxiety, dream abnormalities; vertigo; paresthesia; and hemifacial dysesthesia.
 
-Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, and leg pain.
+Respiratory: Epistaxis, pharyngeal pain.
 
-Nervous System/Psychiatric
+Skin: Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
 
-Psychic disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, tremors, apathy, somnolence, anxiety, dream abnormalities; vertigo; paresthesia; and hemifacial dysesthesia.
+Special Senses: Tinnitus, taste perversion.
 
-Respiratory
+Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis and double vision.
 
-Epistaxis, pharyngeal pain.
+Urogenital: Interstitial nephritis (some with positive rechallenge), urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
 
-Skin
-
-Severe generalized skin reactions including toxic epidermal necrolysis (TEN; some fatal), Stevens-Johnson syndrome, and erythema multiforme (some severe); purpura and/or petechiae (some with rechallenge); skin inflammation, urticaria, angioedema, pruritus, photosensitivity, alopecia, dry skin, and hyperhidrosis.
-
-Special Senses
-
-Tinnitus, taste perversion.
-
-Ocular
-
-Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis and double vision.
-
-Urogenital
-
-Interstitial nephritis (some with positive rechallenge), urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
-
-Hematologic
-
-Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leucocytosis, and hemolytic anemia have been reported.
+Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leucocytosis, and hemolytic anemia have been reported.
 
 The incidence of clinical adverse experiences in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
