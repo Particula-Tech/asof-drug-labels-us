@@ -2,7 +2,7 @@
 
 Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Drug therapy is indicated as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
-In patients with coronary heart disease (CHD) or at high risk of CHD, ZOCORRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1999-2008 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reservedcan be started simultaneously with diet.
+In patients with coronary heart disease (CHD) or at high risk of CHD, ZOCORRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1999-2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved can be started simultaneously with diet.
 
 ## 1.1 Reductions in Risk of CHD Mortality and Cardiovascular Events
 

@@ -86,7 +86,7 @@ TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mix
 | ZOCOR 20 mg q.p.m. | 2221 | -28 | -38 | 8 | -19 |
 | Upper Dose Comparative Studymean baseline LDL-C 226 mg/dL and median baseline TG 156 mg/dL (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | ZOCOR 40 mg q.p.m. | 433 | -31 | -41 | 9 | -18 |
-| ZOCOR 80 mg q.p.m.21% and 36% median reduction in TG in patients with TG ≤ 200 mg/dL and TG > 200 mg/dL, respectively. Patients with TG > 350 mg/dL were excluded | 664 | -36 | -47 | 8 | -24 |
+| ZOCOR 80 mg q.p.m.21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively. Patients with TG >350 mg/dL were excluded | 664 | -36 | -47 | 8 | -24 |
 | Multi-Center Combined Hyperlipidemia Studymean baseline LDL-C 156 mg/dL and median baseline TG 391 mg/dL. (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 125 | 1 | 2 | 3 | -4 |
 | ZOCOR 40 mg q.p.m. | 123 | -25 | -29 | 13 | -28 |
@@ -108,7 +108,7 @@ Dysbetalipoproteinemia (Fredrickson type lll)
 
 The results of a subgroup analysis in 7 patients with type lll hyperlipidemia (dysbetalipoproteinemia) (apo E2/2) (VLDL-C/TG>0.25) from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 7.
 
-TABLE 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLD-C = 170, and non-HDL-C = 291.
+TABLE 7: Six-week, Lipid-lowering Effects of Simvastatin in Type lll Hyperlipidemia Median Percent Change (min, max) from BaselineThe median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLDL-C = 170, and non-HDL-C = 291.
 
 | TREATMENT | N | Total-C | LDL-C + IDL | HDL-C | TG | VLDL-C+IDL | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
