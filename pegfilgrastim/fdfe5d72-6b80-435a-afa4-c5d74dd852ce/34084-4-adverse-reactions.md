@@ -59,12 +59,14 @@ The following adverse reactions have been identified during post approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) reported frequency of the reaction, or (3) strength of causal relationship to Neulasta.
 
-Gastro-intestinal disorders: Splenic rupture [See Warnings and Precautions (5.1)]
+Gastro-intestinal disorders: Splenic rupture [see Warnings and Precautions (5.1)]
 
-Blood and lymphatic system disorder: Sickle cell crisis [See Warnings and Precautions (5.4)]
+Blood and lymphatic system disorder: Sickle cell crisis [see Warnings and Precautions (5.4)]
 
-Respiratory, thoracic, and mediastinal disorder: ARDS [See Warnings and Precautions (5.2)]
+Hypersensitivity reactions: Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, and urticaria, generalized erythema and flushing [see Warnings and Precautions (5.3)]
+
+Respiratory, thoracic, and mediastinal disorder: ARDS [see Warnings and Precautions (5.2)]
 
 General disorders and administration site conditions: Injection site reactions
 
-Skin and subcutaneous tissue disorders: Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, and urticaria, Sweet’s syndrome, generalized erythema and flushing [See Warnings and Precautions (5.3)]
+Skin and subcutaneous tissue disorders: Sweet’s syndrome, Cutaneous vasculitis

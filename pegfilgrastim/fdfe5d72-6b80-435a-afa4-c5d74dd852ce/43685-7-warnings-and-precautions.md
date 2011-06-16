@@ -19,7 +19,7 @@ Allergic reactions, including anaphylaxis, can recur within days after the disco
 Permanently discontinue Neulasta in patients with serious allergic reactions.
 Do not administer Neulasta to patients with a history of serious allergic reactions to pegfilgrastim or filgrastim.
 
-## 5.4 Use in Patients with Sickle Cell Disorders
+## 5.4 Use in Patients With Sickle Cell Disorders
 
 Severe sickle cell crises can occur in patients with sickle cell disorders receiving Neulasta.
 Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim, the parent compound of pegfilgrastim.

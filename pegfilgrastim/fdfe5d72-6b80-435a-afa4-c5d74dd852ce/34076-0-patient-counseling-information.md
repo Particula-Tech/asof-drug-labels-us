@@ -21,8 +21,8 @@ Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Th
 
 This product, its production, and/or its use may be covered by one or more US Patents, including US Patent Nos. 5,824,784; 5,582,823; 5,580,755, as well as other patents or patents pending.
 
-© 2010 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
+© 2002-2011 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436)
 
 1xxxxx
 
-v11.0
+v13
