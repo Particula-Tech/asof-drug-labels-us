@@ -3,11 +3,11 @@
 Before instituting treatment with ceftriaxone, appropriate specimens should be obtained for isolation of the causative organism and for determination of its susceptibility to the drug.
 Therapy may be instituted prior to obtaining results of susceptibility testing.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone for Injection and other antibacterial drugs, Ceftriaxone for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Ceftriaxone for Injection is indicated for the treatment of the following infections when caused by susceptible organisms:
+Ceftriaxone for injection is indicated for the treatment of the following infections when caused by susceptible organisms:
 
 ## Lower Respiratory Tract Infections
 
@@ -37,7 +37,7 @@ caused by Neisseria gonorrhoeae, including both penicillinase- and nonpenicillin
 ## Pelvic Inflammatory Disease
 
 caused by Neisseria gonorrhoeae.
-Ceftriaxone, like other cephalosporins, has no activity against Chlamydia trachomatis.
+Ceftriaxone sodium, like other cephalosporins, has no activity against Chlamydia trachomatis.
 Therefore, when cephalosporins are used in the treatment of patients with pelvic inflammatory disease and Chlamydia trachomatis is one of the suspected pathogens, appropriate antichlamydial coverage should be added.
 
 ## Bacterial Septicemia

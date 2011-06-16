@@ -2,7 +2,7 @@
 
 Ceftriaxone in the ADD-Vantage® Vial is intended for intravenous infusion only, after dilution with appropriate volume of ADD-Vantage diluent solution.
 
-Do not use diluents containing calcium, such as Ringer's solution or Hartmann's solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
@@ -11,7 +11,7 @@ There have been no reports of an interaction between ceftriaxone and oral calciu
 
 ## Neonates
 
-Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone for Injection (see CONTRAINDICATIONS).
+Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone for injection (see CONTRAINDICATIONS).
 
 Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
 
@@ -35,6 +35,7 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
+For infections caused by Staphylococcus aureus (MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
@@ -63,8 +64,7 @@ ADD-Vantage Vials for IV Use Only contain ceftriaxone sodium equivalent to 1 gm 
 
 ## Compatibility and Stability
 
-Ceftriaxone has been shown to be compatible with Flagyl®Registered trademark of G.D.
-Searle & Co. IV (metronidazole hydrochloride).
+Ceftriaxone has been shown to be compatible with Flagyl® IV (metronidazole hydrochloride).
 The concentration should not exceed 5 to 7.5 mg/mL metronidazole hydrochloride with ceftriaxone 10 mg/mL as an admixture.
 The admixture is stable for 24 hours at room temperature only in 0.9% sodium chloride injection or 5% dextrose in water (D5W).
 No compatibility studies have been conducted with the Flagyl® IV RTU® (metronidazole) formulation or using other diluents.
@@ -74,12 +74,12 @@ Do not refrigerate the admixture as precipitation will occur.
 Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
 When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
-Do not use diluents containing calcium, such as Ringer's solution or Hartmann's solution, to reconstitute Ceftriaxone for Injection.
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone for injection.
 Particulate formation can result.
 
 Ceftriaxone solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to the possible incompatibility (see WARNINGS).
 
-Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature] and protected from light.
+Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.
 The color of solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
 

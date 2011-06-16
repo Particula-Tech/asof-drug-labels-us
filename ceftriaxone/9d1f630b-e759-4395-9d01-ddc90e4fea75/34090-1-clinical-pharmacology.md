@@ -164,7 +164,7 @@ Peptostreptococcus species
 NOTE: Most strains of Clostridium difficile are resistant.
 
 The following in vitro data are available, but their clinical significance is unknown.
-Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤8 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤1 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-negative microorganisms:
 
@@ -195,15 +195,19 @@ Porphyromonas (Bacteroides) melaninogenicus
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.1 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of ceftriaxone powder.
-The MIC values should be interpreted according to the following criteria2 for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp, including Streptococcus pneumoniae:
+For details of susceptibility test methodologies, the most recent documents of the Clinical and Laboratory Standards Institute (CLSI) for antimicrobial susceptibility testing1-3 should be consulted.
+
+The MIC values for aerobic organisms should be interpreted according to the following criteria:
+
+For Enterobacteriaceae:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤ 8 | (S) Susceptible |
-| 16-32 | (I) Intermediate |
-| ≥ 64 | (R) Resistant |
+| ≤ 1 | (S) Susceptible |
+| 2 | (I) Intermediate |
+| ≥ 4 | (R) Resistant |
 
-The following interpretive criteria2 should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
+The following interpretive criteria should be used when testing Haemophilus species using Haemophilus Test Media (HTM).
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -212,22 +216,62 @@ The following interpretive criteria2 should be used when testing Haemophilus spe
 The absence of resistant strains precludes defining any categories other than Susceptible.
 Strains yielding results suggestive of a Nonsusceptible category should be submitted to a reference laboratory for further testing.
 
-The following interpretive criteria2 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
+The following interpretive criteria should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 0.25 | (S) Susceptible |
 
-The absence of resistant strains precludes defining any categories other than Susceptible.
-Strains yielding results suggestive of a Nonsusceptible category should be submitted to a reference laboratory for further testing.
+The following interpretive criteria4 should be used when testing Neisseria meningitidis on Mueller-Hinton agar with 5% defribrinated sheep blood.
 
-The following interpretive criteria2 should be used when testing Streptococcus spp including Streptococcus pneumoniae using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
+| MIC (mcg/mL) | Interpretation |
+| --- | --- |
+| ≤ 0.12 | (S) Susceptible |
+
+The absence of resistant neisserial strains precludes defining any categories other than “Susceptible”.
+Strains yielding results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing.
+
+When testing Staphylococcus aureus (methicillin-susceptible, MSSA) the following interpretive criteria should be applied:
+
+| MIC (mcg/mL) | Interpretation |
+| --- | --- |
+| ≤ 4 | (S) Susceptible |
+| 8 | (I) Intermediate |
+| ≥ 16 | (R) Resistant |
+
+For staphylococcal infections, a daily dose of 2 to 4 grams should be administered to achieve >90% target attainment (see DOSAGE AND ADMINISTRATION).
+
+The following interpretive criteria should be used when testing Streptococcus pneumoniae using Mueller-Hinton broth with 2 to 5% lysed horse blood:
+
+Meningitis:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 0.5 | (S) Susceptible |
 | 1 | (I) Intermediate |
 | ≥ 2 | (R) Resistant |
+
+Non-meningitis infections:
+
+| MIC (mcg/mL) | Interpretation |
+| --- | --- |
+| ≤ 1 | (S) Susceptible |
+| 2 | (I) Intermediate |
+| ≥ 4 | (R) Resistant |
+
+For β-hemolytic streptococci the following interpretive criteria should be used when testing on cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood:
+
+| MIC (mcg/mL) | Interpretation |
+| --- | --- |
+| ≤ 0.5 | (S) Susceptible |
+
+For the Viridians Group streptococci the following interpretive criteria should be applied:
+
+| MIC (mcg/mL) | Interpretation |
+| --- | --- |
+| ≤ 1 | (S) Susceptible |
+| 2 | (I) Intermediate |
+| ≥ 4 | (R) Resistant |
 
 A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of Intermediate indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -236,13 +280,13 @@ This category also provides a buffer zone which prevents small uncontrolled tech
 A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standardized ceftriaxone powder should provide the following MIC values:2
+Standardized ceftriaxone powder should provide the following MIC values:
 
 | Microorganism | ATCC® # | MIC (mcg/mL) |
 | --- | --- | --- |
 | Escherichia coli | 25922 | 0.03-0.12 |
 | Staphylococcus aureus | 29213 | 1-8A bimodal distribution of MICs results at the extremes of the acceptable range should be suspect and control validity should be verified with data from other control strains. |
-| Pseudomonas aeruginosa | 27853 | 8-32 |
+| Pseudomonas aeruginosa | 27853 | 8-64 |
 | Haemophilus influenzae | 49247 | 0.06-0.25 |
 | Neisseria gonorrhoeae | 49226 | 0.004-0.015 |
 | Streptococcus pneumoniae | 49619 | 0.03-0.12 |
@@ -253,15 +297,17 @@ Quantitative methods that require measurement of zone diameters also provide rep
 One such standardized procedure3 requires the use of standardized inoculum concentrations.
 This procedure uses paper discs impregnated with 30 mcg of ceftriaxone to test the susceptibility of microorganisms to ceftriaxone.
 
-Reports from the laboratory providing results of the standard single-disc susceptibility test with a 30 mcg ceftriaxone disc should be interpreted according to the following criteria for aerobic organisms other than Haemophilus spp, Neisseria gonorrhoeae, and Streptococcus spp:
+Reports from the laboratory providing results of the standard single-disc susceptibility test with a 30 mcg ceftriaxone disc should be interpreted according to the following criteria for aerobic organisms:
+
+For Enterobacteriaceae:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥ 21 | (S) Susceptible |
-| 14-20 | (I) Intermediate |
-| ≤ 13 | (R) Resistant |
+| ≥ 23 | (S) Susceptible |
+| 20-22 | (I) Intermediate |
+| ≤ 19 | (R) Resistant |
 
-The following interpretive criteria3 should be used when testing Haemophilus species when using Haemophilus Test Media (HTM).
+When testing Haemophilus influenzae on Haemophilus Test Media (HTM), the following interpretive criteria should be used:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -270,16 +316,33 @@ The following interpretive criteria3 should be used when testing Haemophilus spe
 The absence of resistant strains precludes defining any categories other than Susceptible.
 Strains yielding results suggestive of a Nonsusceptible category should be submitted to a reference laboratory for further testing.
 
-The following interpretive criteria3 should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement.
+The following interpretive criteria should be used when testing Neisseria gonorrhoeae when using GC agar base and 1% defined growth supplement:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
 | ≥ 35 | (S) Susceptible |
 
-The absence of resistant strains precludes defining any categories other than Susceptible.
-Strains yielding results suggestive of a Nonsusceptible category should be submitted to a reference laboratory for further testing.
+For Neisseria meningitidis, the following disc diffusion criteria apply:5
 
-The following interpretive criteria3 should be used when testing Streptococcus spp other than Streptococcus pneumoniae when using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO2.
+| Zone Diameter (mm) | Interpretation |
+| --- | --- |
+| ≥ 34 | (S) Susceptible |
+
+For Staphylococcus aureus (methicillin-susceptible, MSSA), the following interpretive criteria apply:
+
+| Zone Diameter (mm) | Interpretation |
+| --- | --- |
+| ≥ 21 | (S) Susceptible |
+| 14-20 | (I) Intermediate |
+| ≤ 13 | (R) Resistant |
+
+The following interpretive criteria should be used when testing β-hemolytic streptococci using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO2:
+
+| Zone Diameter (mm) | Interpretation |
+| --- | --- |
+| ≥ 24 | (S) Susceptible |
+
+For the Viridians Group streptococci the following criteria apply:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -300,15 +363,15 @@ For the diffusion technique, the 30 mcg ceftriaxone disc should provide the foll
 | Microorganism | ATCC® # | Zone DiameterRanges (mm) |
 | --- | --- | --- |
 | Escherichia coli | 25922 | 29-35 |
-| Staphylococcus aureus | 25923 | 22-28 |
+| Staphylococcus aureus | 29213 | 22-28 |
 | Pseudomonas aeruginosa | 27853 | 17-23 |
 | Haemophilus influenzae | 49247 | 31-39 |
 | Neisseria gonorrhoeae | 49226 | 39-51 |
 | Streptococcus pneumoniae | 49619 | 30-35 |
 
-### Anaerobic Techniques
+### Anaerobic Susceptibility Testing by Agar Dilution
 
-For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.4 The MIC values obtained should be interpreted according to the following criteria:
+For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determined by standardized test methods.6 The MIC values obtained should be interpreted according to the following criteria:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -317,11 +380,9 @@ For anaerobic bacteria, the susceptibility to ceftriaxone as MICs can be determi
 | ≥ 64 | (R) Resistant |
 
 As with other susceptibility techniques, the use of laboratory control microorganisms is required to control the technical aspects of the laboratory standardized procedures.
-Standardized ceftriaxone powder should provide the following MIC values for the indicated standardized anaerobic dilution4 testing method:
+Standardized ceftriaxone powder should provide the following MIC values for the indicated standardized anaerobic dilution6 testing method:
 
 | Method | Microorganism | ATCC® # | MIC (mcg/mL) |
 | --- | --- | --- | --- |
 | Agar | Bacteroides fragilis | 25285 | 32-128 |
 |  | Bacteroides thetaiotaomicron | 29741 | 64-256 |
-| Broth | Bacteroides thetaiotaomicron | 29741 | 32-128 |
-| ATCC® is a registered trademark of the American Type Culture Collection. |  |  |  |

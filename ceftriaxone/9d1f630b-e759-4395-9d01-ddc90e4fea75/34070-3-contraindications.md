@@ -1,10 +1,10 @@
 # CONTRAINDICATIONS
 
-Ceftriaxone is contraindicated in patients with known allergy to the cephalosporin class of antibiotics.
+Ceftriaxone for injection is contraindicated in patients with known allergy to the cephalosporin class of antibiotics.
 
 ## Neonates (≤28 days)
 
-Hyperbilirubinemic neonates, especially prematures, should not be treated with Ceftriaxone for Injection.
+Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone for injection.
 In vitro studies have shown that ceftriaxone can displace bilirubin from its binding to serum albumin, leading to a possible risk of bilirubin encephalopathy in these patients.
 
 Ceftriaxone is contraindicated in neonates if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, WARNINGS and DOSAGE AND ADMINISTRATION).

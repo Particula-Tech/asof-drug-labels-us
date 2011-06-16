@@ -61,7 +61,7 @@ There have been no similar reports in patients other than neonates.
 
 ### Gastrointestinal
 
-somatitis and glossitis.
+stomatitis and glossitis.
 
 ### Genitourinary
 
@@ -70,7 +70,7 @@ oliguria.
 ### Dermatologic
 
 exanthema, allergic dermatitis, urticaria, edema.
-As with many medications, isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell's syndrome/toxic epidermal necrolysis) have been reported.
+As with many medications, isolated cases of severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis) have been reported.
 
 ## Cephalosporin Class Adverse Reactions
 
@@ -82,7 +82,7 @@ Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction,
 
 ### Altered Laboratory Tests
 
-Positive direct Coombs' test, false-positive test for urinary glucose, and elevated LDH.
+Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH.
 
 Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
 If seizures associated with drug therapy occur, the drug should be discontinued.

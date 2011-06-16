@@ -1,4 +1,4 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ceftriaxone for Injection, and other antibacterial drugs, Ceftriaxone for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ceftriaxone for injection, and other antibacterial drugs, ceftriaxone for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # Instructions For Use of the ADD-Vantage® System
 
@@ -59,7 +59,7 @@ Preparation for Administration (Use Aseptic Technique):
 WARNING: Do not use flexible container in series connections.
 
 STABILITY: The ADD-Vantage System is designed to minimize drug waste by allowing the drug and diluent to be mixed at bedside just prior to administration.
-However, in those rare instances where the admixed unit cannot be administered within the specified time, Ceftriaxone ADD-Vantage units may be safely stored under the following conditions:
+However, in those rare instances where the admixed unit cannot be administered within the specified time, ceftriaxone ADD-Vantage units may be safely stored under the following conditions:
 
 | Diluent | Concentration | Room Temperature(25°C) | Refrigeration(4°C) |
 | --- | --- | --- | --- |
@@ -71,16 +71,19 @@ However, in those rare instances where the admixed unit cannot be administered w
 
 Reconstituted ADD-Vantage units should not be stored in a frozen state (-20°C).
 
-Novation and NOVAPLUS® are trademarks of Novation, LLC.
+Flagyl® is a registered trademark of G.D.
+Searle & Co.
+
+Novation and NOVAPLUS are registered trademarks of Novation, LLC.
 
 ADD-Vantage® is a trademark of Hospira, Inc.
 
 Printed in Austria
 
-06-2010M
+12-2010M
 
-46034966
+46050993
 
-EN-2511
+EN-2719
 
 Manufactured by Sandoz GmbH, Kundl, Austria

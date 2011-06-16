@@ -40,7 +40,7 @@ If a patient develops anemia while on ceftriaxone, the diagnosis of a cephalospo
 
 ## General
 
-Prescribing Ceftriaxone for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing ceftriaxone for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Although transient elevations of BUN and serum creatinine have been observed, at the recommended dosages, the nephrotoxic potential of ceftriaxone is similar to that of other cephalosporins.
 
@@ -58,12 +58,12 @@ Prolonged use of ceftriaxone may result in overgrowth of nonsusceptible organism
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 
-Ceftriaxone for Injection should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
+Ceftriaxone for injection should be prescribed with caution in individuals with a history of gastrointestinal disease, especially colitis.
 
 There have been reports of sonographic abnormalities in the gallbladder of patients treated with ceftriaxone; some of these patients also had symptoms of gallbladder disease.
 These abnormalities appear on sonography as an echo without acoustical shadowing suggesting sludge or as an echo with acoustical shadowing which may be misinterpreted as gallstones.
 The chemical nature of the sonographically detected material has been determined to be predominantly a ceftriaxone-calcium salt.
-The condition appears to be transient and reversible upon discontinuation of Ceftriaxone for Injection and institution of conservative management.
+The condition appears to be transient and reversible upon discontinuation of ceftriaxone for injection and institution of conservative management.
 Therefore, ceftriaxone should be discontinued in patients who develop signs and symptoms suggestive of gallbladder disease and/or the sonographic findings described above.
 
 Cases of pancreatitis, possibly secondary to biliary obstruction, have been reported rarely in patients treated with ceftriaxone.
@@ -72,10 +72,10 @@ A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Ceftriaxone for Injection should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including ceftriaxone for injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ceftriaxone for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ceftriaxone for Injection or other antibacterial drugs in the future.
+When ceftriaxone for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ceftriaxone for injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -129,4 +129,4 @@ Ceftriaxone should not be administered to hyperbilirubinemic neonates, especiall
 Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosage up to 2 grams per day (see CLINICAL PHARMACOLOGY).
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day (see CLINICAL PHARMACOLOGY).
