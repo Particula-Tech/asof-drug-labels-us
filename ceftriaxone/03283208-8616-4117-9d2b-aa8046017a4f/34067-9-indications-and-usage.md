@@ -22,7 +22,8 @@ The potentially lower clinical cure rate of ceftriaxone should be balanced again
 
 ## Skin and Skin Structure Infections
 
-caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii,Efficacy for this organism in this organ system was studied in fewer than ten infections.Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilisEfficacy for this organism in this organ system was studied in fewer than ten infections. or Peptostreptococcus species.
+caused by Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Viridans group streptococci, Escherichia coli, Enterobacter cloacae, Klebsiella oxytoca, Klebsiella pneumoniae, Proteus mirabilis, Morganella morganii,Efficacy for this organism in this organ system was studied in fewer than ten infections.
+Pseudomonas aeruginosa, Serratia marcescens, Acinetobacter calcoaceticus, Bacteroides fragilisEfficacy for this organism in this organ system was studied in fewer than ten infections. or Peptostreptococcus species.
 
 ## Urinary Tract Infections (complicated and uncomplicated)
 

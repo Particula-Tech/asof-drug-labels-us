@@ -33,6 +33,7 @@ The usual duration of therapy is 7 to 14 days.
 ## Adults
 
 The usual adult daily dose is 1 to 2 grams given once a day (or in equally divided doses twice a day) depending on the type and severity of infection.
+For infections caused by Staphylococcus aureus (MSSA), the recommended daily dose is 2 to 4 grams, in order to achieve >90% target attainment.
 The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
@@ -98,12 +99,12 @@ Do not refrigerate the admixture as precipitation will occur.
 Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
 When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
-Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone for injection or to further dilute a reconstituted vial or IV administration.
+Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone for injection or to further dilute a reconstituted vial for IV administration.
 Particulate formation can result.
 
 Ceftriaxone for injection solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see WARNINGS).
 
-Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) (see USP Controlled Room Temperature) and protected from light.
+Ceftriaxone sodium sterile powder should be stored at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.
 The color of solutions ranges from light yellow to amber, depending on the length of storage, concentration and diluent used.
 

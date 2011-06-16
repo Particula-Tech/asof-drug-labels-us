@@ -17,4 +17,4 @@ Package of 10 (0409-7335-03).
 
 ## Storage Prior to Reconstitution
 
-Store at 20°-25°C (68°-77°F) (see USP Controlled Room Temperature).
+Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
