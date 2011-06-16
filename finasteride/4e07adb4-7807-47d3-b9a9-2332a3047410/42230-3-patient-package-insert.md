@@ -98,8 +98,8 @@ Tell your doctor promptly about these or any other unusual side effects.
 
 - PROPECIA can affect a blood test called PSA (Prostate-Specific Antigen) for the screening of prostate cancer.
   If you have a PSA test done, you should tell your doctor(s) that you are taking PROPECIA.
-  Because PROPECIA decreases PSA levels, changes in PSA levels will need to be carefully evaluated by your doctor(s).
-  Any increase in follow-up PSA levels from their lowest point should be carefully evaluated even if the test results are still within the normal range for men not taking PROPECIA.
+  Because PROPECIA decreases PSA levels, changes in PSA levels will need to be evaluated by your doctor(s).
+  Any increase in follow-up PSA levels from their lowest point may signal the presence of prostate cancer and should be evaluated even if the test results are still within the normal range for men not taking PROPECIA.
   You should also tell your doctor if you have not been taking PROPECIA as prescribed because this may affect the PSA test results.
   For more information, talk to your doctor.
 
@@ -124,9 +124,9 @@ www.propecia.com
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued April 2011
+Issued June 2011
 
-9636008
+9636009
 
 US Patent Nos.: 5,547,957; 5,571,817
 

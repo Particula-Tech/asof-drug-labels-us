@@ -59,14 +59,18 @@ The adverse experience profiles in the 1-year, placebo-controlled, Phase III BPH
 There is no evidence of increased adverse experiences with increased duration of treatment with PROSCAR 5 mg.
 New reports of drug-related sexual adverse experiences decreased with duration of therapy.
 
+During the 4- to 6-year placebo- and comparator-controlled Medical Therapy of Prostatic Symptoms (MTOPS) study that enrolled 3047 men, there were 4 cases of breast cancer in men treated with PROSCAR but no cases in men not treated with PROSCAR.
+During the 4-year placebo-controlled PLESS study that enrolled 3040 men, there were 2 cases of breast cancer in placebo-treated men but no cases in men treated with PROSCAR.
+During the 7-year placebo-controlled Prostate Cancer Prevention Trial (PCPT) that enrolled 18,882 men, there was 1 case of breast cancer in men treated with PROSCAR, and 1 case of breast cancer in men treated with placebo.
 The relationship between long-term use of finasteride and male breast neoplasia is currently unknown.
-During a 4- to 6-year placebo- and comparator-controlled study that enrolled 3047 men, there were 4 cases of breast cancer in men treated with PROSCAR but no cases in men not treated with PROSCAR.
-In another 4-year, placebo-controlled study that enrolled 3040 men, there were 2 cases of breast cancer in placebo-treated men, but no cases were reported in men treated with PROSCAR.
 
-In a 7-year placebo-controlled trial that enrolled 18,882 healthy men, 9060 had prostate needle biopsy data available for analysis.
-In the PROSCAR group, 280 (6.4%) men had prostate cancer with Gleason scores of 7-10 detected on needle biopsy vs. 237 (5.1%) men in the placebo group.
-Of the total cases of prostate cancer diagnosed in this study, approximately 98% were classified as intracapsular (stage T1 or T2).
-The clinical significance of these findings is unknown.
-This information from the literature (Thompson IM, Goodman PJ, Tangen CM, et al. The influence of finasteride on the development of prostate cancer.
-N Engl J Med 2003;349:213-22) is provided for consideration by physicians when PROSCAR is used as indicated.
+The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 healthy men ≥55 years of age with a normal digital rectal examination and a PSA ≤3.0 ng/mL.
+Men received either PROSCAR (finasteride 5 mg) or placebo daily.
+Patients were evaluated annually with PSA and digital rectal exams.
+Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or the end of study.
+The incidence of Gleason score 8-10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%).
+In a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor (dutasteride, AVODART), similar results for Gleason score 8-10 prostate cancer were observed (1% dutasteride vs 0.5% placebo).
+The clinical significance of these findings with respect to use of PROPECIA by men is unknown.
+
+No clinical benefit has been demonstrated in patients with prostate cancer treated with PROSCAR.
 PROSCAR is not approved to reduce the risk of developing prostate cancer.
