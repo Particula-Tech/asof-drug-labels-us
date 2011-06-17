@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JALYN (dutasteride and tamsulosin hydrochloride) Capsules contain dutasteride (a selective inhibitor of both the type 1 and type 2 isoforms of steroid 5α-reductase, an intracellular enzyme that converts testosterone to dihydrotestosterone (DHT) and tamsulosin (an antagonist of alpha1A-adrenoceptors in the prostate).
+JALYN (dutasteride and tamsulosin hydrochloride) Capsules contain dutasteride (a selective inhibitor of both the type 1 and type 2 isoforms of steroid 5 alpha-reductase, an intracellular enzyme that converts testosterone to dihydrotestosterone (DHT) and tamsulosin (an antagonist of alpha1A-adrenoceptors in the prostate).
 Each JALYN Capsule contains the following:
 
 - One dutasteride oblong, opaque, dull-yellow soft gelatin capsule, containing 0.5 mg of dutasteride dissolved in a mixture of butylated hydroxytoluene and mono-di-glycerides of caprylic/capric acid.
@@ -15,7 +15,7 @@ The empirical formula of dutasteride is C27H30F6N2O2, representing a molecular w
 Dutasteride is a white to pale yellow powder with a melting point of 242° to 250°C.
 It is soluble in ethanol (44 mg/mL), methanol (64 mg/mL), and polyethylene glycol 400 (3 mg/mL), but it is insoluble in water.
 
-Tamsulosin: Tamsulosin hydrochloride is a synthetic compound chemically designated as (-)-(R)-5-[2-[[2-(o-Ethoxyphenoxy) ethyl]amino]propyl]-2-methoxybenzenesulfonamide, monohydrochloride.
+Tamsulosin: Tamsulosin hydrochloride is a synthetic compound chemically designated as (-)-(R)-5-[2-[[2-(o-Ethoxyphenoxy)ethyl]amino]propyl]-2-methoxybenzenesulfonamide, monohydrochloride.
 
 The empirical formula of tamsulosin hydrochloride is C20H28N2O5S•HCl.
 The molecular weight of tamsulosin hydrochloride is 444.97.

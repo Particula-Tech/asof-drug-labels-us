@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-JALYN is a combination of 2 drugs with different mechanisms of action to improve symptoms in patients with BPH: dutasteride, a 5α-reductase inhibitor (5 ARI), and tamsulosin, an antagonist of alpha1A-adrenoreceptors.
+JALYN is a combination of 2 drugs with different mechanisms of action to improve symptoms in patients with BPH: dutasteride, a 5 alpha-reductase inhibitor, and tamsulosin, an antagonist of alpha1A-adrenoreceptors.
 
 Dutasteride: Dutasteride inhibits the conversion of testosterone to dihydrotestosterone (DHT).
 DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland.
-Testosterone is converted to DHT by the enzyme 5α-reductase, which exists as 2 isoforms, type 1 and type 2.
+Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2.
 The type 2 isoenzyme is primarily active in the reproductive tissues, while the type 1 isoenzyme is also responsible for testosterone conversion in the skin and liver.
 
-Dutasteride is a competitive and specific inhibitor of both type 1 and type 2 5α-reductase isoenzymes, with which it forms a stable enzyme complex.
+Dutasteride is a competitive and specific inhibitor of both type 1 and type 2 5 alpha-reductase isoenzymes, with which it forms a stable enzyme complex.
 Dissociation from this complex has been evaluated under in vitro and in vivo conditions and is extremely slow.
 Dutasteride does not bind to the human androgen receptor.
 
@@ -23,7 +23,7 @@ Tamsulosin is not intended for use as an antihypertensive.
 
 ## 12.2 Pharmacodynamics
 
-Dutasteride:Effect on 5α-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
+Dutasteride:Effect on 5 Alpha-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
 After 1 and 2 weeks of daily dosing with dutasteride 0.5 mg, median serum DHT concentrations were reduced by 85% and 90%, respectively.
 In patients with BPH treated with dutasteride 0.5 mg/day for 4 years, the median decrease in serum DHT was 94% at 1 year, 93% at 2 years, and 95% at both 3 and 4 years.
 The median increase in serum testosterone was 19% at both 1 and 2 years, 26% at 3 years, and 22% at 4 years, but the mean and median levels remained within the physiologic range.
@@ -31,9 +31,9 @@ The median increase in serum testosterone was 19% at both 1 and 2 years, 26% at 
 In patients with BPH treated with 5 mg/day of dutasteride or placebo for up to 12 weeks prior to transurethral resection of the prostate, mean DHT concentrations in prostatic tissue were significantly lower in the dutasteride group compared with placebo (784 and 5,793 pg/g, respectively, P<0.001).
 Mean prostatic tissue concentrations of testosterone were significantly higher in the dutasteride group compared with placebo (2,073 and 93 pg/g, respectively, P<0.001).
 
-Adult males with genetically inherited type 2 5α-reductase deficiency also have decreased DHT levels.
-These 5α-reductase deficient males have a small prostate gland throughout life and do not develop BPH.
-Except for the associated urogenital defects present at birth, no other clinical abnormalities related to 5α-reductase deficiency have been observed in these individuals.
+Adult males with genetically inherited type 2 5 alpha-reductase deficiency also have decreased DHT levels.
+These 5 alpha-reductase deficient males have a small prostate gland throughout life and do not develop BPH.
+Except for the associated urogenital defects present at birth, no other clinical abnormalities related to 5 alpha-reductase deficiency have been observed in these individuals.
 
 Effects on Other Hormones: In healthy volunteers, 52 weeks of treatment with dutasteride 0.5 mg/day (n = 26) resulted in no clinically significant change compared with placebo (n = 23) in sex hormone-binding globulin, estradiol, luteinizing hormone, follicle-stimulating hormone, thyroxine (free T4), and dehydroepiandrosterone.
 Statistically significant, baseline-adjusted mean increases compared with placebo were observed for total testosterone at 8 weeks (97.1 ng/dL, P<0.003) and thyroid-stimulating hormone at 52 weeks (0.4 mcIU/mL, P<0.05).
@@ -117,9 +117,9 @@ Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochlo
 
 Tamsulosin undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/hr).
 
-Specific Populations:Pediatric Patients: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
+Specific Populations:Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
 
-Geriatric Patients: Dutasteride and tamsulosin pharmacokinetics using JALYN have not been studied in geriatric patients.
+Geriatric: Dutasteride and tamsulosin pharmacokinetics using JALYN have not been studied in geriatric patients.
 The following text reflects information for the individual components.
 
 Dutasteride: No dosage adjustment is necessary in the elderly.
@@ -129,7 +129,7 @@ In this single-dose study, dutasteride half-life increased with age (approximate
 Tamsulosin: Cross-study comparison of tamsulosin overall exposure (AUC) and half-life indicate that the pharmacokinetic disposition of tamsulosin may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
 Intrinsic clearance is independent of tamsulosin binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects aged 55 to 75 years compared to subjects aged 20 to 32 years.
 
-Gender:Dutasteride: Dutasteride is contraindicated in pregnancy and women of childbearing potential and is not indicated for use in other women [see Contraindications (4), Warnings and Precautions (5.3)].
+Gender:Dutasteride: Dutasteride is contraindicated in pregnancy and women of childbearing potential and is not indicated for use in other women [see Contraindications (4), Warnings and Precautions (5.6)].
 The pharmacokinetics of dutasteride in women have not been studied.
 
 Tamsulosin: Tamsulosin is not indicated for use in women.
@@ -185,16 +185,8 @@ However, there is a potential for significant increase in tamsulosin exposure wh
 Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 
-Alpha-Adrenergic Antagonists:Dutasteride: In a single-sequence, crossover study in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
+Alpha Adrenergic Antagonists:Dutasteride: In a single-sequence, crossover study in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
 Although the effect of administration of tamsulosin or terazosin on dutasteride pharmacokinetic parameters was not evaluated, the percent change in DHT concentrations was similar for dutasteride, alone or in combination with tamsulosin or terazosin.
-
-Tamsulosin: Tamsulosin-containing products, including JALYN, should not be used in combination with other alpha-adrenergic antagonists.
-The pharmacokinetic and pharmacodynamic interactions between tamsulosin and other alpha-adrenergic antagonists have not been determined.
-However, interactions may be expected [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
-
-PDE-5 Inhibitors: Caution is advised when alpha-adrenergic antagonists, including tamsulosin-containing products such as JALYN, are co-administered with PDE-5 inhibitors.
-Alpha-adrenergic antagonists and PDE-5 inhibitors are both vasodilators that can lower blood pressure.
-Concomitant use of these 2 drug classes can potentially cause symptomatic hypotension.
 
 Warfarin: Dutasteride: In a study of 23 healthy volunteers, 3 weeks of treatment with dutasteride 0.5 mg/day did not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time when administered with warfarin.
 
@@ -202,7 +194,7 @@ Tamsulosin: A definitive drug-drug interaction study between tamsulosin and warf
 Results from limited in vitro and in vivo studies are inconclusive.
 Therefore, caution should be exercised with concomitant administration of warfarin and tamsulosin.
 
-Nifedipine, Atenolol, Enalapril: Tamsulosin: In 3 studies in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per study).
+Nifedipine, Atenolol, Enalapril:Tamsulosin: In 3 studies in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per study).
 Therefore, dosage adjustments are not necessary when tamsulosin is administered concomitantly with nifedipine extended-release, atenolol, or enalapril.
 
 Digoxin and Theophylline:Dutasteride: In a study of 20 healthy volunteers, dutasteride did not alter the steady-state pharmacokinetics of digoxin when administered concomitantly at a dose of 0.5 mg/day for 3 weeks.
@@ -214,7 +206,7 @@ Furosemide:Tamsulosin: The pharmacokinetic and pharmacodynamic interaction betwe
 Tamsulosin had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
 While furosemide produced an 11% to 12% reduction in tamsulosin Cmax and AUC, these changes are expected to be clinically insignificant and do not require dose adjustment for tamsulosin.
 
-Calcium Channel Blockers:Dutasteride: In a population pharmacokinetics analysis, a decrease in clearance of dutasteride was noted when coadministered with the CYP3A4 inhibitors verapamil (-37%, n = 6) and diltiazem (-44%, n = 5).
+Calcium Channel Antagonists:Dutasteride: In a population pharmacokinetics analysis, a decrease in clearance of dutasteride was noted when coadministered with the CYP3A4 inhibitors verapamil (-37%, n = 6) and diltiazem (-44%, n = 5).
 In contrast, no decrease in clearance was seen when amlodipine, another calcium channel antagonist that is not a CYP3A4 inhibitor, was coadministered with dutasteride (+7%, n = 4).
 The decrease in clearance and subsequent increase in exposure to dutasteride in the presence of verapamil and diltiazem is not considered to be clinically significant.
 No dosage adjustment is recommended.

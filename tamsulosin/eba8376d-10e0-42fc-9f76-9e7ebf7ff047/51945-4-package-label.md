@@ -27,8 +27,6 @@ See prescribing information for dosage information.
 
 Store at 25oC (77oF); excursions permitted 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
 
-Dispense in a well-closed container as defined in the USP.
-
 Do not use if printed safety seal under cap is broken or missing.
 
 Jointly Manufactured by
@@ -51,5 +49,5 @@ Made in Germany
 
 JALYN is a trademark of GlaxoSmithKline.
 
-10000000080751 Rev.
+A285187 Rev.
 6/10
