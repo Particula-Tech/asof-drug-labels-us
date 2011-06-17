@@ -83,7 +83,7 @@ This should include laboratory evaluation, particularly serum creatinine.
 
 Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during VFEND treatment.
 
-## 5.13 Dermatological Adverse Events
+## 5.13 Dermatological Reactions
 
 Serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, have been reported during treatment with VFEND.
 If a patient develops an exfoliative cutaneous reaction, VFEND should be discontinued.

@@ -16,7 +16,7 @@ Other aspergillosis infections included disseminated disease, CNS infections and
 Diagnosis of definite or probable invasive aspergillosis was made according to criteria modified from those established by the National Institute of Allergy and Infectious Diseases Mycoses Study Group/European Organisation for Research and Treatment of Cancer (NIAID MSG/EORTC).
 
 Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of seven days.
-Therapy could then be switched to the oral formulation at a dose of 200 mg Q12h.
+Therapy could then be switched to the oral formulation at a dose of 200 mg q12h.
 Median duration of IV voriconazole therapy was 10 days (range 2–90 days).
 After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2–232 days).
 
@@ -78,7 +78,7 @@ Table 15 Combined Response Data in Salvage Patients with Single Aspergillus Spec
 Nineteen patients had more than one species of Aspergillus isolated.
 Success was seen in 4/17 (24%) of these patients.
 
-## 14.2 Candidemia in nonneutropenic patients and other deep tissue Candida infections
+## 14.2 Candidemia in Non-neutropenic Patients and Other Deep Tissue Candida Infections
 
 Voriconazole was compared to the regimen of amphotericin B followed by fluconazole in Study 608, an open label, comparative study in nonneutropenic patients with candidemia associated with clinical signs of infection.
 Patients were randomized in 2:1 ratio to receive either voriconazole (n=283) or the regimen of amphotericin B followed by fluconazole (n=139).

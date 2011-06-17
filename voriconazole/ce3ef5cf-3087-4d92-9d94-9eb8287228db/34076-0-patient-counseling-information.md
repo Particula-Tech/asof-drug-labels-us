@@ -11,7 +11,7 @@ This information does not take the place of talking with your healthcare provide
 What is VFEND?
 
 VFEND is a prescription medicine used to treat certain serious fungal infections in your blood and body.
-These infections are called "aspergillosis," "esophageal candidiasis," "Scedosporium," "Fusarium," and "candidemia.".
+These infections are called "aspergillosis," "esophageal candidiasis," "Scedosporium," "Fusarium," and "candidemia".
 
 It is not known if VFEND is safe and effective in children younger than 12 years old.
 
@@ -23,7 +23,7 @@ Do not take VFEND if you:
   See the end of this leaflet for a complete list of ingredients in VFEND.
 - are taking any of the following medicines:
   - cisapride (Propulsid®)
-  - pimozide (Irao®)
+  - pimozide (Orap®)
   - quinidine (like Quinaglute®)
   - sirolimus (Rapamune®)
   - rifampin (Rifadin®)
@@ -36,7 +36,7 @@ Do not take VFEND if you:
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
-Do not start taking a new medicine without taking to your healthcare provider or pharmacist.
+Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
 
 What should I tell my healthcare provider before taking VFEND?
 
@@ -81,7 +81,7 @@ What should I avoid while taking VFEND?
 
 - You should not drive at night while taking VFEND.
   VFEND can cause changes in your vision such as blurring or sensitivity to light.
-- Do not drive or, operate machinery, or do other dangerous activities until you know how VFEND affects you.
+- Do not drive or operate machinery, or do other dangerous activities until you know how VFEND affects you.
 - Avoid direct sunlight.
   VFEND can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
   You could get a severe sunburn.
@@ -151,7 +151,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VFEND?
 
-- Store VFEND tablets and liquid at room temperature, 59° to 86° F (15°to 30°C).
+- Store VFEND tablets and liquid at room temperature, 59° to 86° F (15° to 30°C).
   Do not refrigerate or freeze.
 - VFEND suspension should be thrown away (discarded) after 14 days.
 - Keep VFEND tablets and oral suspension in a tightly closed container.

@@ -1,6 +1,8 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Use in Pregnancy – Pregnancy Category D
+## 8.1 Use in Pregnancy
+
+Pregnancy Category D
 
 Voriconazole can cause fetal harm when administered to a pregnant woman and should not be taken in pregnancy except in patients where the benefit to the mother clearly outweighs the potential risk to the fetus.
 There are no adequate and well-controlled studies in pregnant women.
@@ -25,7 +27,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
 
 A total of 22 patients aged 12 to 18 years with invasive aspergillosis were included in the therapeutic studies.
-Twelve out of 22 (55%) patients had successful response after treatment with a maintenance dose of voriconazole 4 mg/kg Q12h.
+Twelve out of 22 (55%) patients had successful response after treatment with a maintenance dose of voriconazole 4 mg/kg q12h.
 
 Sparse plasma sampling for pharmacokinetics in adolescents was conducted in the therapeutic studies [see Clinical Pharmacology (12.3)].
 
@@ -42,4 +44,4 @@ However, the overall safety profile of the elderly patients was similar to that 
 
 Women of childbearing potential should use effective contraception during treatment.
 The coadministration of voriconazole with the oral contraceptive, Ortho-Novum® (35 mcg ethinyl estradiol and 1 mg norethindrone), results in an interaction between these two drugs, but is unlikely to reduce the contraceptive effect.
-Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7), Clinical Pharmacology (12.3)]
+Monitoring for adverse events associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7), Clinical Pharmacology (12.3)].

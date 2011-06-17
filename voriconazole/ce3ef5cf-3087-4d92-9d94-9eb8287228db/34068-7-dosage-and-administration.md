@@ -6,7 +6,7 @@ VFEND Tablets or Oral Suspension should be taken at least one hour before or aft
 
 VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
 
-Do not administer as an IV bolus injection
+Do not administer as an IV bolus injection.
 
 ## 2.2 Use of VFEND I.V. with other Parenteral Drug Products
 
@@ -28,10 +28,12 @@ If infused through a multiple-lumen catheter, TPN needs to be administered using
 
 Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
-For the treatment of adults with invasive aspergillosis and infections due to Fusarium spp. and Scedosporium apiospermum, therapy must be initiated with the specified loading dose regimen of intravenous VFEND to achieve plasma concentrations on Day 1 that are close to steady state.
-On the basis of high oral bioavailability, switching between intravenous and oral administration is appropriate when clinically indicated [see Clinical Pharmacology (12)].
-Once the patient can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
-(see Table 1.)
+See Table 1.
+Therapy must be initiated with the specified loading dose regimen of intravenous VFEND on Day 1 followed by the recommended maintenance dose regimen.
+Intravenous treatment should be continued for at least 7 days.
+Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
+The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
+Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see Clinical Pharmacology (12)].
 
 Candidemia in nonneutropenic patients and other deep tissue Candida infections
 
@@ -45,26 +47,28 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1 Recommended Dosing Regimen
 
-|  | IV | IV | OralPatients who weigh 40 kg or more should receive an oral maintenance dose of 200 mg VFEND every 12 hours. Adult patients who weigh less than 40 kg should receive an oral maintenance dose of 100 mg every 12 hours. |
+|  | IV | IV | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
-| Infection | Loading dose | Maintenance Dose |  |
-| Invasive Aspergillosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
-| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3–4 mg/kg q12h In clinical trials, patients with candidemia received 3 mg/kg q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
+| Infection | Loading dose | Maintenance DoseIncrease dose when VFEND is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.7),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
+| Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of IV VFEND therapy was 10 days (range 2–90 days). The median duration of oral VFEND therapy was 76 days (range 2–232 days) [see Clinical Studies (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
+| Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg q12h for the first 24 hours | 3–4 mg/kg q12hIn clinical trials, patients with candidemia received 3 mg/kg IV q12h as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg q12h as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg q12h |
 | Esophageal Candidiasis | Not evaluated in patients with esophageal candidiasis. |  | 200 mg q12h |
 | Scedosporiosis and Fusariosis | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
 
 ## 2.4 Dosage Adjustment
 
-If patient response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours to 300 mg every 12 hours.
+If patient response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg IV q12h) to 300 mg every 12 hours (similar to 4 mg/kg IV q12h).
 For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
 If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral maintenance dose by 50 mg steps to a minimum of 200 mg every 12 hours (or to 100 mg every 12 hours for adult patients weighing less than 40 kg).
 
-If patient is unable to tolerate 4 mg/kg IV, reduce the intravenous maintenance dose to 3 mg/kg every 12 hours.
+If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous maintenance dose to 3 mg/kg q12h.
 
 The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
 
 The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Use in Patients with Hepatic Impairment (2.7)].
-There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C). Duration of therapy should be based on the severity of the patient's underlying disease, recovery from immunosuppression, and clinical response.
+There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
+
+Duration of therapy should be based on the severity of the patient's underlying disease, recovery from immunosuppression, and clinical response.
 
 ## 2.5 Intravenous Administration
 
