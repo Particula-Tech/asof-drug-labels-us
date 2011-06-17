@@ -26,8 +26,6 @@ PACKAGE LABEL – Cialis 5mg tablets, 30 count, bottle
 
 NDC 0002-4462-30
 
-No. 4462
-
 30 Tablets
 
 Cialis®
@@ -46,7 +44,7 @@ NDC 0002-4463-30
 
 30 Tablets
 
-Cialis ®
+Cialis®
 
 (tadalafil) tablets
 
