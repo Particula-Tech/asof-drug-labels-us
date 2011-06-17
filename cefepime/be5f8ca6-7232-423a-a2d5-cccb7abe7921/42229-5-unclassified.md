@@ -1,8 +1,4 @@
-Manufactured by:
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015
+Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc.
 

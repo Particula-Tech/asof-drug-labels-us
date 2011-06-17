@@ -8,6 +8,9 @@ Cefepime Injection is supplied as a frozen, iso-osmotic, sterile, nonpyrogenic s
 
 Store at or below –20°C (-4°F).
 
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
 Thaw frozen container at room temperature 25°C (77°F) or under refrigeration 5°C (41°F).
 Do not force thaw by immersion in water baths or by microwave irradiation.
 

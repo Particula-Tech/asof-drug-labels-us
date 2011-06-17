@@ -32,10 +32,10 @@ The recommended doses of Cefepime Injection in patients with renal impairment ar
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
-| Males: Creatinine Clearance (mL/min) = |  | Weight (kg) × (140 – age) |
+| Males: Creatinine Clearance (mL/min) = |  | Weight (kg) x (140 – age) |
 | --- | --- | --- |
-|  |  | 72 × serum creatinine (mg/dL) |
-| Females: 0.85 × above value |  |  |
+|  |  | 72 x serum creatinine (mg/dL) |
+| Females: 0.85 x above value |  |  |
 
 Table 2: Recommended Dosing Schedule for Cefepime Injection in Adult Patients (Normal Renal Function, Renal Impairment, and Hemodialysis)
 
