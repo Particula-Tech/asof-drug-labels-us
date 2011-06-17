@@ -96,7 +96,7 @@ NOT for Lock Flush
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Label
 
-NDC 63323-545-09
+NDC 63323-459-09
 
 504509
 
@@ -116,7 +116,7 @@ NOT for Lock Flush
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Tray Label
 
-NDC 63323-545-09
+NDC 63323-459-09
 
 504509
 
