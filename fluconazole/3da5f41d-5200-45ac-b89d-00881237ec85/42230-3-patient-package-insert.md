@@ -152,15 +152,17 @@ This leaflet summarizes the most important information about fluconazole.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about fluconazole that is written for health professionals.
 
-Manufactured by:
+Manufactured by
 
 Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
 
-Manufactured for:
+Manufactured for
 
 Glenmark Generics Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115
 
-Revised: May 2011
+www.glenmarkgenerics.com
+
+Revised: June 2011

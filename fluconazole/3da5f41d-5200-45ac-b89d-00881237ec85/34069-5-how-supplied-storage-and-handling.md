@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
 Fluconazole Tablets USP: Pink trapezoidal tablets containing 50, 100 or 200 mg of fluconazole USP are packaged in bottles.
-The 150 mg Fluconazole Tablets USP are pink, oval shaped, packaged in a blister card of 1 tablet.
+Fluconazole tablets USP, 150 mg are pink, oval shaped, packaged in a blister card of 1 tablet.
 
 Fluconazole Tablets USP are supplied as follows:
 

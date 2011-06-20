@@ -1,14 +1,16 @@
 Rx Only
 
-Manufactured by:
+Manufactured by
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403513, India.
+Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
 
-Manufactured for:
+Manufactured for
 
-Glenmark Generics Inc., USA Mahwah, NJ 07430.
+Glenmark Generics Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115
 
-Revised: May 2011
+www.glenmarkgenerics.com
+
+Revised: June 2011
