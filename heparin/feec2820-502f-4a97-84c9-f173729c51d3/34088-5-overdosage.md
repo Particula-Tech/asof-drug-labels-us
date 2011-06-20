@@ -8,7 +8,7 @@ Easy bruising or petechial formations may precede frank bleeding.
 
 ## Treatment
 
-Neutralization of Heparin Effect–When clinical circumstances (bleeding) require reversal of heparinization, protamine sulfate (1% solution) by slow infusion will neutralize heparin sodium.
+Neutralization of Heparin Effect - When clinical circumstances (bleeding) require reversal of heparinization, protamine sulfate (1% solution) by slow infusion will neutralize heparin sodium.
 No more than 50 mg should be administered, very slowly, in any 10 minute period.
 Each mg of protamine sulfate neutralizes approximately 100 USP heparin units.
 The amount of protamine required decreases over time as heparin is metabolized.

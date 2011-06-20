@@ -1,11 +1,13 @@
 # REFERENCES
 
-1. Tahata T, Shigehito M, Kusuhara K, Ueda Y, et al. Delayed-Onset of Heparin Induced Thrombocytopenia – A Case Report – J Jpn Assn Torca Surg.1992;40(3):110-111.
+1. Tahata T, Shigehito M, Kusuhara K, Ueda Y, et al. Delayed-Onset of Heparin Induced Thrombocytopenia – A Case Report– J Jpn Assn Torca Surg.
+   1992;40(3):110-111.
 2. Warkentin T, Kelton J. Delayed-Onset Heparin-Induced Thrombocytopenia and Thrombosis.
    Annals of Internal Medicine.
    2001;135:502-506.
 3. Rice L, Attisha W, Drexler A, Francis J. Delayed-Onset Heparin Induced Thrombocytopenia.
-   Annals of Internal Medicine, 2002;136:210-215.
+   Annals of Internal Medicine.
+   2002;136:210-215.
 4. Dieck J., C. Rizo-Patron, et al. (1990).
    “A New Manifestation and Treatment Alternative for Heparin-Induced Thrombosis.”
    Chest 98(1524-26).
@@ -16,8 +18,8 @@
    Blood.
    2003;102(11):127b.
 
-SAGENT
+SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2009 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2010 Sagent Pharmaceuticals, Inc.
 
-PSGP1838-00 September 2009
+PSLEA-019273-01 Revised: November 2010
