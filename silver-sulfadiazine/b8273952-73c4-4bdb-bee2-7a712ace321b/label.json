@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA018578"
+  ],
+  "inn": "silver-sulfadiazine",
+  "labeler": "Par Pharmaceutical Inc.",
+  "package_ndcs": [
+    "49884-600-36",
+    "49884-600-40",
+    "49884-600-57",
+    "49884-600-58",
+    "49884-600-85",
+    "49884-601-36",
+    "49884-601-40"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "silver sulfadiazine",
+      "name": "SSD"
+    }
+  ],
+  "setid": "b8273952-73c4-4bdb-bee2-7a712ace321b",
+  "source": "dailymed"
+}
