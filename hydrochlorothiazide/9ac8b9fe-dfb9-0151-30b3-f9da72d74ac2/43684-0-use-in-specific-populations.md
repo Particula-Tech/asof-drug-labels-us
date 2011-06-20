@@ -4,7 +4,7 @@
 
 ### Pregnancy Category D
 
-See Warnings and Precautions(5.1).
+See Warnings and Precautions (5.1).
 
 AVALIDE contains both irbesartan (an angiotensin II receptor antagonist) and hydrochlorothiazide (a thiazide diuretic).
 When administered during the second or third trimester of pregnancy, drugs that act directly on the renin-angiotensin system (RAS) can cause fetal and neonatal morbidity and death.

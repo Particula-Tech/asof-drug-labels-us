@@ -98,3 +98,13 @@ There has been no known use of irbesartan in patients with unilateral or bilater
 Thiazides should be used with caution in severe renal disease.
 In patients with renal disease, thiazides may precipitate azotemia.
 Cumulative effects of the drug may develop in patients with impaired renal function.
+
+## 5.9 Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Sulfonamide or sulfonamide derivative drugs, such as hydrochlorothiazide, can cause an idiosyncratic reaction, resulting in transient myopia and acute angle-closure glaucoma.
+Cases of acute angle-closure glaucoma have been reported with hydrochlorothiazide.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue drug intake as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.

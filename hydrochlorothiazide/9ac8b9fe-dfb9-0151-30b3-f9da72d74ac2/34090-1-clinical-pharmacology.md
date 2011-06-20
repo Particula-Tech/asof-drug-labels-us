@@ -134,7 +134,7 @@ No dosage adjustment is necessary in patients with hepatic insufficiency.
 
 No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
 
-In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.
+In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide, and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.
 Concomitant nifedipine or hydrochlorothiazide had no effect on irbesartan pharmacokinetics.
 Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isoenzymes 1A1, 1A2, 2A6, 2B6, 2D6, 2E1, or 3A4.

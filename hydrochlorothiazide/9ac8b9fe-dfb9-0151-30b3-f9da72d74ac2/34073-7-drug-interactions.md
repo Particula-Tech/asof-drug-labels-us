@@ -2,8 +2,16 @@
 
 Irbesartan
 
-No significant drug-drug interactions have been reported with irbesartan.
+No significant drug-drug interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.
 [See Clinical Pharmacology (12.3).]
+
+Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving irbesartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
 Hydrochlorothiazide
 
@@ -29,5 +37,5 @@ Diuretic agents reduce the renal clearance of lithium and add a high risk of lit
 Refer to the package insert for lithium preparations before use of such preparations with AVALIDE.
 [See Warnings and Precautions (5.5).]
 
-Non-steroidal Anti-inflammatory Drugs: in some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal Anti-inflammatory Drugs: in some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
 Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) Tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
