@@ -46,7 +46,7 @@ Allowable psychostimulants in the study were ADDERALL XR®, VYVANSE®, CONCERTA�
 
 Symptoms of ADHD were evaluated on a weekly basis by clinicians using the ADHD Rating Scale (ADHD-RS-IV), which includes both hyperactive/impulsive and inattentive subscales.
 The primary efficacy outcome was the change from baseline to endpoint in ADHD-RS-IV total scores.
-Endpoint was defined as the last post-randomization treatment week prior to dose tapering for which a valid score was obtained (up to week 8).
+Endpoint was defined as the last post-randomization treatment week prior to dose tapering for which a valid score was obtained (up to Week 8).
 
 Mean reductions in ADHD-RS-IV total scores at endpoint were significantly greater for INTUNIV® given in combination with a psychostimulant compared to placebo given with a psychostimulant for Study 3, for both morning and evening INTUNIV® dosing.
 Nearly two-thirds (64.2%) of subjects reached optimal doses in the 0.05-0.12 mg/kg/day range.

@@ -7,7 +7,7 @@ In the monotherapy, pediatric, short-term (8-9 weeks), controlled trials, the ma
 These changes were dose dependent.
 Decreases in blood pressure and heart rate were usually modest and asymptomatic; however, hypotension and bradycardia can occur.
 Hypotension was reported as an adverse event for 7% of the INTUNIV® group and 3% of the placebo group.
-This includes orthostatic hypotension was reported for 1% of the INTUNIV® group and none in the placebo group.
+This includes orthostatic hypotension, which was reported for 1% of the INTUNIV® group and none in the placebo group.
 In the adjunctive trial, hypotension (3%) and bradycardia (2%) were observed in patients treated with INTUNIV® as compared to none in the placebo group.
 In long-term, open label studies, (mean exposure of approximately 10 months), maximum decreases in systolic and diastolic blood pressure occurred in the first month of therapy.
 Decreases were less pronounced over time.

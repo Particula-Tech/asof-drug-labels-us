@@ -23,7 +23,7 @@ Three percent of patients receiving INTUNIV® discontinued from the adjunctive c
 
 Short Term Monotherapy Clinical Studies
 
-Common Adverse Reactions - Two short-term, placebo-controlled, double-blind pivotal studies (Studies 1 and 2) were conducted in children and adolescents with ADHD, using fixed doses of INTUNIV® (1, 2, 3, and 4 mg/day).
+Common Adverse Reactions - Two short-term, placebo-controlled, double-blind pivotal studies (Studies 1 and 2) were conducted in children and adolescents with ADHD, using fixed doses of INTUNIV® (1 mg, 2 mg, 3 mg, and 4 mg/day).
 The most commonly reported adverse reactions (occurring in ≥ 2% of patients) that were considered drug-related and reported in a greater percentage of patients taking INTUNIV® compared to patients taking placebo are shown in Table 1.
 Adverse reactions that were dose-related include: somnolence/sedation, abdominal pain, dizziness, hypotension, dry mouth and constipation.
 
@@ -44,10 +44,10 @@ Adverse reactions that were dose-related include: somnolence/sedation, abdominal
 | Constipation | 3% | 1% |
 | a: The somnolence term includes somnolence, sedation, and hypersomnia. b: The abdominal pain term includes abdominal pain, abdominal pain upper, and abdominal pain lower. c: The hypotension term includes hypotension, orthostatic hypotension, and decreased blood pressure. |  |  |
 
-Short Term ADHD Drug Adjunctive Clinical Study
+Short Term Adjunctive Clinical Study
 
 A 9-week, placebo-controlled, double-blind, dose-optimized pivotal study (Study 3) was conducted in children and adolescents aged 6-17 years with a diagnosis of ADHD who were identified as having a sub-optimal response to psychostimulants.
-Patients received INTUNIV® (1, 2, 3, and 4 mg/day) or placebo, dosed in the morning or in the evening, in combination with their morning dose of psychostimulant.
+Patients received INTUNIV® (1 mg, 2 mg, 3 mg, and 4 mg/day) or placebo, dosed in the morning or in the evening, in combination with their morning dose of psychostimulant.
 The most commonly reported adverse reactions (occurring in ≥ 2% of patients in the overall INTUNIV® group) that were reported in a greater percentage of patients taking INTUNIV® compared to patients taking placebo are shown in Table 2.
 
 | Table 2: Percentage of Patients Experiencing Common (≥ 2%) Adverse Reactions in Short-Term Adjunctive Study 3 |  |  |
@@ -96,8 +96,8 @@ Other Adverse Reactions Observed in Clinical Studies
 Table 3 includes additional adverse reactions observed in short-term, placebo-controlled and long-term, open-label clinical studies not included elsewhere in section 6.1, listed by organ system.
 
 The mean duration of exposure of the 446 patients in two 2-year, open-label long-term studies was approximately 10 months.
-The percentage of patients at each dose upon completion or early withdrawal from the studies was 37% (n-164) for 4 mg, 33% (n=149) for 3 mg, 27% (n=119) for 2 mg, and 3% (n=14) for 1 mg, respectively.
-The number of patients at each dose (prior to tapering) that completed the 2-year studies was n=27 for 4 mg, n=24 for 3 mg, n=14 for 2 mg, and n=2 for 1 mg respectively.
+The percentage of patients at each dose upon completion or early withdrawal from the studies was 37% (n=164) for 4 mg, 33% (n=149) for 3 mg, 27% (n=119) for 2 mg, and 3% (n=14) for 1 mg, respectively.
+The number of patients at each dose (prior to tapering) that completed the 2-year studies was n=27 for 4 mg, n=24 for 3 mg, n=14 for 2 mg, and n=2 for 1 mg, respectively.
 
 | Table 3: Other adverse reactions observed in clinical studies |  |
 | --- | --- |

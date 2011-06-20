@@ -6,7 +6,7 @@ INTUNIV® is an extended-release tablet and should be dosed once daily.
 Tablets should not be crushed, chewed or broken before swallowing because this will increase the rate of guanfacine release.
 Do not administer with high fat meals, due to increased exposure.
 
-Do not substitute for immediate-release guanfacine tablets on a mg-mg basis, because of differing pharmacokinetic profiles.
+Do not substitute for immediate-release guanfacine tablets on a mg-per-mg basis, because of differing pharmacokinetic profiles.
 INTUNIV® has a delayed Tmax, reduced Cmax and lower bioavailability compared to those of the same dose of immediate-release guanfacine [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Dose Selection
@@ -15,7 +15,7 @@ If switching from immediate-release guanfacine, discontinue that treatment, and 
 
 Begin at a dose of 1 mg/day, and adjust in increments of no more than 1 mg/week, for both monotherapy and adjunctive therapy to a psychostimulant.
 
-Maintain the dose within the range of 1-4 mg once daily, depending on clinical response and tolerability, for both monotherapy and adjunctive therapy to a psychostimulant.
+Maintain the dose within the range of 1 mg to 4 mg once daily, depending on clinical response and tolerability, for both monotherapy and adjunctive therapy to a psychostimulant.
 In clinical trials, patients were randomized or dose optomized to doses of 1 mg, 2 mg, 3 mg or 4 mg and received INTUNIV® once daily in the morning in monotherapy trials and once daily in the morning or the evening in the adjunctive therapy trial [see Clinical Studies (14.1)].
 
 In monotherapy trials, clinically relevant improvements were observed beginning at doses in the range 0.05-0.08 mg/kg once daily.

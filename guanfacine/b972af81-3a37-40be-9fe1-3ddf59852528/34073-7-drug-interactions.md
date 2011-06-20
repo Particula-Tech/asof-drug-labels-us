@@ -29,7 +29,7 @@ Caution should be exercised when INTUNIV® is administered concomitantly with CN
 
 ## 7.6 Oral Methylphenidate
 
-In a drug interaction study, (N=35) neither INTUNIV® (4 mg) nor CONCERTA® (methylphenidate HCI) (36 mg) were found to affect the pharmacokinetics of the other drug when co-administered.
+In a drug interaction study, (N=35) neither INTUNIV® (4 mg) nor CONCERTA® (methylphenidate HCl) (36 mg) were found to affect the pharmacokinetics of the other drug when co-administered.
 
 ## 7.7 Lisdexamfetamine Dimesylate
 

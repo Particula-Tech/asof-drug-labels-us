@@ -148,4 +148,4 @@ INTUNIV® is a registered trademark of Shire LLC.
 
 This product is covered by US patents including 5,854,290; 6,287,599; 6,811,794.
 
-Version: 02 2011
+Version: 06 2011
