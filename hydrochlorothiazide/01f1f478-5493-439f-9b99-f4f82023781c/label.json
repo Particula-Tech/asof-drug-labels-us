@@ -1,14 +1,24 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040780"
+  ],
   "inn": "hydrochlorothiazide",
-  "labeler": "Aurobindo Pharma USA, Inc.",
+  "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-133-01",
+    "65862-133-19",
     "65862-133-99",
     "65862-134-01",
+    "65862-134-71",
     "65862-134-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide"
+    }
+  ],
   "setid": "01f1f478-5493-439f-9b99-f4f82023781c",
   "source": "dailymed"
 }

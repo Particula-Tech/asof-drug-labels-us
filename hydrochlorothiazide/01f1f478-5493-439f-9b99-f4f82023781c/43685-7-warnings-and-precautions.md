@@ -17,13 +17,13 @@ All patients receiving diuretic therapy should be observed for evidence of fluid
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
 Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
 Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
+Interference with adequate oral electrolyte intake will also con­tribute to hypokalemia.
 Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
 Hypokalemia may be avoided or treated by potassium sparing diuretics or potassium supplements such as foods with a high potassium content.
 Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
-Hyperuricemia may occur or acute gout may be precipitated in certain patients receiving thiazide.
+Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hypo­natremia is life threatening.
+In actual salt depletion, appropri­ate replacement is the therapy of choice.
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiv­ing thiazide.
 In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
 Hyperglycemia may occur with thiazide diuretics.
 Thus latent diabetes mellitus may become manifest during thiazide therapy.
@@ -34,7 +34,7 @@ Thiazides may decrease urinary calcium excretion.
 Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
 Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
 Thiazides should be discontinued before carrying out tests for parathyroid function.
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy
+Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
 
 ## Laboratory Tests
 
@@ -52,8 +52,8 @@ Corticosteroids, ACTH Intensified electrolyte depletion, particularly hypokalemi
 Pressor amines (e.g., norepinephrine) Possible decreased response to pressor amines but not sufficient to preclude their use.
 Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) Possible increased responsiveness to the muscle relaxant.
 Lithium Generally should not be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
-Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide.
+Diuretic agents reduce the renal clear­ance of lithium and add a high risk of lithium tox­icity.
+Refer to the package insert for lithium preparations before use of such preparations with hydrochloro­thiazide.
 Non-steroidal Anti-inflammatory Drugs In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
@@ -71,11 +71,9 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ## Pregnancy
 
-Pregnancy Category B-
-
 ### Teratogenic effects
 
-Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
+Pregnancy Category B Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
