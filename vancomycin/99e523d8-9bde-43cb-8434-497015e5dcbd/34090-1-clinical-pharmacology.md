@@ -92,10 +92,10 @@ Table 1: Susceptibility Test Interpretive Criteria for Vancomycin
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Diameters (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| Enterococci A ß-lactamase test using an inoculum ≥ 107 CFU/mL or direct colony growth and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance due to ß-lactamase production. | ≤4 | 8 - 16 | ≥32 | ≥17Plates should be held for a full 24 hours and examined using transmitted light. The presence of a haze or any growth within the zone of inhibition indicates resistance. Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method1,2 (broth or agar) or equivalent. | 15 – 16 | ≤14 |
-| Staphylococcus aureus | ≤2 | 4 - 8 | ≥16 | ≥15The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - |
-| Coagulase-negative staphylococci | ≤4 | 8 – 16 | ≥32 | ≥15 | - | - |
-| Streptococci other than S. pneumoniae | ≤1,Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1,2. | - | - | ≥17,Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO23. | - | - |
+| EnterococciA ß-lactamase test using an inoculum ≥ 107 CFU/mL or direct colony growth and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance due to ß-lactamase production. | ≤4 | 8 – 16 | ≥32 | ≥17Plates should be held for a full 24 hours and examined using transmitted light. The presence of a haze or any growth within the zone of inhibition indicates resistance. Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method1,2 (broth or agar) or equivalent. | 15 – 16 | ≤14 |
+| Staphylococcus aureus | ≤2 | 4 – 8 | ≥16 | ≥15The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - |
+| Coagulase- negative staphylococci | ≤4 | 8 – 16 | ≥32 | ≥15 | - | - |
+| Streptococci other than S. pneumoniae | ≤1,Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1,2. | - | - | ≥17,Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO2 3. | - | - |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -112,9 +112,9 @@ For the diffusion technique, the 30 mcg vancomycin disk should provide the follo
 Table 2.
 In Vitro Susceptibility Test Quality Control Ranges for Vancomycin
 
-| Organism (ATCC #) | MIC range (mcg/mL) | Disk diffusion range (mm) |
+| Organism (ATCC#) | MIC range (mcg/mL) | Disk diffusion range (mm) |
 | --- | --- | --- |
 | Enterococcus faecalis (29212) | 1-4 | Not applicable |
 | Staphylococcus aureus (29213) | 0.5-2 | Not applicable |
 | Staphylococcus aureus (25923) | Not applicable | 17 - 21 |
-| Streptococcus pneumoniae (49619) Interpretative criteria applicable only to tests performed using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1. Disk diffusion interpretative criteria applicable only to tests performed using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO22. | 0.12-0.5 | 20 - 27 |
+| Streptococcus pneumoniae (49619)Interpretative criteria applicable only to tests performed using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1. Disk diffusion interpretative criteria applicable only to tests performed using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO22. | 0.12-0.5 | 20 - 27 |

@@ -1,18 +1,16 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-Container Label
-
 Baxter
 
 Vancomycin Injection, USP
 
-500 mg
+750 mg
 
 GALAXY Single-Dose Container
 
-100 mL Iso-osmotic
+150 mL Iso-osmotic
 
-NDC 0338-3551-48 Code 2G3551 Sterile Nonpyrogenic
+NDC 0338-3580-48 Code 2G3580 Sterile Nonpyrogenic
 
 Each 100 mL contains: Vancomycin Hydrochloride, USP equivalent to 500 mg vancomycin with approx. 5 g Dextrose Hydrous, USP. pH may have been adjusted with hydrochloric acid and/or sodium hydroxide. pH range 3.0 to 5.0.
 
@@ -36,24 +34,22 @@ Nos. 4,686,125; 4,779,997 Baxter and GALAXY are trademarks of Baxter Internation
 
 PL 2040 Plastic
 
-07-34-42-531
-
-Carton Label
+07-34-61-824
 
 Baxter
 
 Vancomycin Injection, USP
 
-500 mg
+750 mg
 
-NDC 0338-3551-48 Code 2G3551
+NDC 0338-3580-48 Code 2G3580
 
-6 - 100 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
+3 - 150 mL Single Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
 Do not refreeze.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-*FOR BAR CODE POSITION ONLY (01) 20303383551485
+*FOR BAR CODE POSITION ONLY (01) 50303383580486
 
 GALAXY Container
 
@@ -80,4 +76,4 @@ Baxter and GALAXY are trademarks of Baxter International Inc.
 
 PL 2040 Plastic
 
-07-04-42-528
+07-04-61-825

@@ -82,7 +82,7 @@ Because of the potential for adverse events, a decision should be made whether t
 ## Pediatric Use
 
 In pediatric patients, it may be appropriate to confirm desired vancomycin serum concentrations.
-Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (see ADVERSE REACTIONS).
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (see PRECAUTIONS).
 The potential for toxic effects in pediatric patients from chemicals that may leach from the plastic containers into the single-dose, premixed intravenous preparation has not been determined.
 
 ## Geriatric Use

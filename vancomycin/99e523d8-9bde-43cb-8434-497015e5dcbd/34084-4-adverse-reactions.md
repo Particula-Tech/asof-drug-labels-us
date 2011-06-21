@@ -30,7 +30,7 @@ Vertigo, dizziness, and tinnitus have been reported rarely.
 Reversible neutropenia, usually starting 1 week or more after onset of therapy with vancomycin or after a total dosage of more than 25 g, has been reported for several dozen patients.
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.
 Thrombocytopenia has rarely been reported.
-Although a causal relationship has not been established, reversible agranulocytosis (granulocytes <500/mm 3) has been reported rarely.
+Although a causal relationship has not been established, reversible agranulocytosis (granulocytes <500/mm3) has been reported rarely.
 
 ## Phlebitis
 

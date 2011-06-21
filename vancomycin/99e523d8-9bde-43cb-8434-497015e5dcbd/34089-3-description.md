@@ -6,7 +6,7 @@ The molecular formula is C66H75Cl2N9O24• HCl and the molecular weight is 1,485
 500 mg of the base is equivalent to 0.34 mmol.
 Vancomycin hydrochloride has the following structural formula:
 
-Vancomycin Injection, USP in the GALAXY plastic container (PL 2040) is a frozen, iso-osmotic, sterile, nonpyrogenic premixed 100 mL or 200 mL solution containing 500 mg or 1 g Vancomycin respectively as Vancomycin hydrochloride.
+Vancomycin Injection, USP in the GALAXY plastic container (PL 2040) is a frozen, iso-osmotic, sterile, nonpyrogenic premixed 100 mL, 150 mL, or 200 mL solution containing 500 mg, 750 mg, or 1 g Vancomycin respectively as Vancomycin hydrochloride.
 Each 100 mL of solution contains approximately 5 g of Dextrose Hydrous, USP.
 The pH of the solution may have been adjusted with hydrochloric acid and/or sodium hydroxide.
 Thawed solutions have a pH in the range of 3.0 to 5.0.
