@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019737"
+  ],
   "inn": "metronidazole",
-  "labeler": "GALDERMA LABORATORIES, L.P.",
+  "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
     "0299-3835-45"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "MetroGel"
+    }
+  ],
   "setid": "a9f73057-77c9-445a-8d82-aebe8bec1ced",
   "source": "dailymed"
 }
