@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA201043"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-536-10",
+    "65862-536-22",
+    "65862-536-50",
+    "65862-536-99",
+    "65862-537-10",
+    "65862-537-15",
+    "65862-537-50",
+    "65862-537-99",
+    "65862-538-05",
+    "65862-538-10",
+    "65862-538-20",
+    "65862-538-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levofloxacin",
+      "name": "Levofloxacin"
+    }
+  ],
+  "setid": "529ac72c-c4a0-4001-8cf9-b94f5bf7265c",
+  "source": "dailymed"
+}
