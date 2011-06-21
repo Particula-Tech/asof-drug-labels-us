@@ -8,7 +8,7 @@ The empirical formula is C24H21F2NO3 and its molecular weight is 409.4.
 Ezetimibe is a white, crystalline powder that is freely to very soluble in ethanol, methanol, and acetone and practically insoluble in water.
 Its structural formula is:
 
-Simvastatin, an inactive lactone, is hydrolyzed to the corresponding β-hydroxyacid form, which is an inhibitor of HMGCoA reductase.
+Simvastatin, an inactive lactone, is hydrolyzed to the corresponding β-hydroxyacid form, which is an inhibitor of HMG-CoA reductase.
 Simvastatin is butanoic acid, 2,2-dimethyl-,1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-[2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)-ethyl]-1-naphthalenyl ester, [1S-[1α,3α,7β,8β(2S*,4S*),-8aβ]].
 The empirical formula of simvastatin is C25H38O5 and its molecular weight is 418.57.
 

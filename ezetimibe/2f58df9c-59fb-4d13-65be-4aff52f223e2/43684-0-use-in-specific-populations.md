@@ -95,10 +95,14 @@ No overall differences in safety or effectiveness were observed between these su
 Since advanced age (≥65 years) is a predisposing factor for myopathy, VYTORIN should be prescribed with caution in the elderly.
 [See Clinical Pharmacology (12.3).]
 
+Because advanced age (≥65 years) is a predisposing factor for myopathy, including rhabdomyolysis, VYTORIN should be prescribed with caution in the elderly.
+In a clinical trial of patients treated with simvastatin 80 mg/day, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
+[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+
 ## 8.6 Renal Impairment
 
 Caution should be exercised when VYTORIN is administered to patients with severe renal impairment.
-[See Dosage and Administration (2.4).]
+[See Dosage and Administration (2.6).]
 
 ## 8.7 Hepatic Impairment
 

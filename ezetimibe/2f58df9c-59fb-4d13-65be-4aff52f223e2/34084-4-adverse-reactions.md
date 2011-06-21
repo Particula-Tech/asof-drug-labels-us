@@ -47,6 +47,11 @@ Other adverse reactions reported with ezetimibe in placebo-controlled studies, r
 
 Simvastatin
 
+In a clinical trial in which 12,064 patients with a history of myocardial infarction were treated with simvastatin (mean follow-up 6.7 years), the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) in patients on 80 mg/day was approximately 0.9% compared with 0.02% for patients on 20 mg/day.
+The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in patients on 80 mg/day was approximately 0.4% compared with 0% for patients on 20 mg/day.
+The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
+In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
+
 Other adverse reactions reported with simvastatin in placebo-controlled clinical studies, regardless of causality assessment: Cardiac disorders: atrial fibrillation; Ear and labyrinth disorders: vertigo; Gastrointestinal disorders: abdominal pain, constipation, dyspepsia, flatulence, gastritis; Skin and subcutaneous tissue disorders: eczema, rash; Endocrine disorders: diabetes mellitus; Infections and infestations: bronchitis, sinusitis, urinary tract infections; Body as a whole – general disorders: asthenia, edema/swelling; Psychiatric disorders: insomnia.
 
 Laboratory Tests

@@ -8,14 +8,8 @@ Only your doctor can determine if VYTORIN is right for you.
 
 What is VYTORIN?
 
-VYTORIN contains two cholesterol-lowering medications, ezetimibe and simvastatin, available as a tablet in four strengths:
-
-- VYTORIN 10/10 (ezetimibe 10 mg/simvastatin 10 mg)
-- VYTORIN 10/20 (ezetimibe 10 mg/simvastatin 20 mg)
-- VYTORIN 10/40 (ezetimibe 10 mg/simvastatin 40 mg)
-- VYTORIN 10/80 (ezetimibe 10 mg/simvastatin 80 mg)
-
-VYTORIN is a medicine used to lower levels of total cholesterol, LDL (bad) cholesterol, and fatty substances called triglycerides in the blood.
+VYTORIN contains two cholesterol-lowering medications, ezetimibe and simvastatin.
+VYTORIN is a prescription medicine used to lower levels of total cholesterol, LDL (bad) cholesterol, and fatty substances called triglycerides in the blood.
 In addition, VYTORIN raises levels of HDL (good) cholesterol.
 VYTORIN is for patients who cannot control their cholesterol levels by diet and exercise alone.
 You should stay on a cholesterol-lowering diet while taking this medicine.
@@ -23,13 +17,42 @@ You should stay on a cholesterol-lowering diet while taking this medicine.
 VYTORIN works to reduce your cholesterol in two ways.
 It reduces the cholesterol absorbed in your digestive tract, as well as the cholesterol your body makes by itself.
 VYTORIN does not help you lose weight.
+
 VYTORIN has not been shown to reduce heart attacks or strokes more than simvastatin alone.
+
+The usual dose of VYTORIN is 10/10 mg to 10/40 mg 1 time each day.
+
+VYTORIN 10/80 mg increases your chance of developing muscle damage.
+The 10/80 mg dose should only be used by people who:
+
+- have been taking VYTORIN 10/80 mg chronically (such as 12 months or more) without having muscle damage
+- do not need to take certain other medicines with VYTORIN that would increase your chance of getting muscle damage.
+
+If you are unable to reach your LDL-cholesterol goal using VYTORIN 10/40 mg, your doctor should switch you to another cholesterol-lowering medicine.
 
 For more information about cholesterol, see the section called “What should I know about high cholesterol?”
 
 Who should not take VYTORIN?
 
-Do not take VYTORIN:
+Do not take VYTORIN if you take:
+
+- Certain anti-fungal medicines including:
+  - itraconazole
+  - ketoconazole
+  - posaconazole
+- HIV protease inhibitors (indinavir, nelfinavir, ritonavir, saquinavir, tipranavir, or atazanavir),
+- Certain antibiotics, including:
+  - erythromycin
+  - clarithromycin
+  - telithromycin
+- nefazodone
+- A fibric acid medicine for lowering cholesterol called gemfibrozil
+- cyclosporine
+- danazol
+
+Ask your doctor if you are not sure if your medicine is listed above.
+
+Also do not take VYTORIN:
 
 - If you are allergic to ezetimibe or simvastatin, the active ingredients in VYTORIN, or to the inactive ingredients.
   For a list of inactive ingredients, see the “Inactive ingredients” section at the end of this information sheet.
@@ -41,33 +64,32 @@ VYTORIN has not been studied in children under 10 years of age.
 
 What should I tell my doctor before and while taking VYTORIN?
 
-Tell your doctor right away if you experience unexplained muscle pain, tenderness, or weakness.
-This is because on rare occasions, muscle problems can be serious, including muscle breakdown resulting in kidney damage.
+Tell your doctor right away if you have unexplained muscle pain, tenderness, or weakness while you take VYTORIN.
+Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
 
-The risk of muscle breakdown is greater at higher doses of VYTORIN.
+The risk of muscle breakdown is greater at higher doses of VYTORIN, particularly the 10/80 mg dose.
 
-The risk of muscle breakdown is greater in patients with kidney problems.
+The risk of muscle breakdown is greater in people 65 years of age and older, females, and people with kidney or thyroid problems.
 
 Taking VYTORIN with certain substances can increase the risk of muscle problems.
-It is particularly important to tell your doctor if you are taking any of the following:
+It is especially important to tell your doctor if you take:
 
-- cyclosporine
-- danazol
-- antifungal agents (such as itraconazole or ketoconazole)
-- fibric acid derivatives (such as gemfibrozil, bezafibrate, or fenofibrate)
-- the antibiotics erythromycin, clarithromycin, and telithromycin
-- HIV protease inhibitors (such as indinavir, nelfinavir, ritonavir, and saquinavir)
-- the antidepressant nefazodone
+- fibric acid derivatives (such as fenofibrate)
 - amiodarone (a drug used to treat an irregular heartbeat)
-- verapamil or diltiazem (a drug used to treat high blood pressure, chest pain associated with heart disease, or other heart conditions)
-- large quantities of grapefruit juice (>1 quart daily)
-- large doses (≥1 g/day) of niacin or nicotinic acid
+- verapamil, diltiazem, amlodipine, or ranolazine (drugs used to treat high blood pressure, chest pain associated with heart disease, or other heart conditions)
+- large quantities of grapefruit juice (more than 1 quart daily)
+- colchicine (a medicine used to treat gout)
+- voraconazole (an anti-fungal medicine)
+- large doses of niacin or nicotinic acid
 
 Tell your doctor if you are taking niacin or a niacin-containing product, as this may increase your risk of muscle problems, especially if you are Chinese.
 
 It is also important to tell your doctor if you are taking coumarin anticoagulants (drugs that prevent blood clots, such as warfarin).
 
-Tell your doctor about any prescription and nonprescription medicines you are taking or plan to take, including natural or herbal remedies.
+Tell your doctor about all the medicines you take, including any prescription and nonprescription medicines, vitamins, and herbal supplements.
+
+If you have more than 1 doctor, tell all of your doctors that you take VYTORIN.
+This is especially important when they prescribe a new medicine or increase the dose of your other medicines.
 
 Tell your doctor about all your medical conditions including allergies.
 
@@ -85,13 +107,9 @@ Tell other doctors prescribing a new medication that you are taking VYTORIN.
 
 How should I take VYTORIN?
 
-Your doctor has prescribed your dose of VYTORIN.
-The available doses of VYTORIN are 10/10, 10/20, 10/40, and 10/80.
-The usual daily starting dose is VYTORIN 10/20.
-
+- Take VYTORIN exactly as your doctor tells you to take it.
 - Take VYTORIN once a day, in the evening, with or without food.
-- Try to take VYTORIN as prescribed.
-  If you miss a dose, do not take an extra dose.
+- If you miss a dose, do not take an extra dose.
   Just resume your usual schedule.
 - Continue to follow a cholesterol-lowering diet while taking VYTORIN.
   Ask your doctor if you need diet information.
@@ -149,28 +167,10 @@ Inactive ingredients:
 
 Butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
 
-Issued May 2010
-
-9619517
+9619518
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
 
-By: MSD Technology Singapore Pte.
-Ltd. Singapore 637766
+This patient information has been approved by the U.S. Food and Drug Administration
 
-Or
-
-Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy
-
-Or
-
-Merck Sharp & Dohme Ltd. Cramlington, Northumberland, UK NE23 3JU
-
-Or
-
-Jointly manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy and MSD Technology Singapore Pte.
-Ltd. Singapore 637766
-
-U.S. Patent Nos. 5,846,966 and RE37,721
+Issued June 2011

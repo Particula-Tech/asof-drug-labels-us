@@ -70,9 +70,9 @@ Store in original container until time of use.
 When product container is subdivided, repackage into a tightly-closed, light-resistant container.
 Entire contents must be repackaged immediately upon opening.
 
-Issued May 2010
+Issued June 2011
 
-9619517
+9619518
 
 Manufactured for: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
 

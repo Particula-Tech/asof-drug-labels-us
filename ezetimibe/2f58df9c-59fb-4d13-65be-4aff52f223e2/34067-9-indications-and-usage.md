@@ -14,4 +14,5 @@ VYTORIN is indicated for the reduction of elevated total-C and LDL-C in patients
 ## 1.3 Limitations of Use
 
 No incremental benefit of VYTORIN on cardiovascular morbidity and mortality over and above that demonstrated for simvastatin has been established.
+
 VYTORIN has not been studied in Fredrickson type I, III, IV, and V dyslipidemias.

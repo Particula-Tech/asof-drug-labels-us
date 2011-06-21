@@ -44,7 +44,7 @@ In addition, no evidence of damage to genetic material was noted in an in vitro 
 
 There was decreased fertility in male rats treated with simvastatin for 34 weeks at 25 mg/kg body weight (4 times the maximum human exposure level, based on AUC, in patients receiving 80 mg/day); however, this effect was not observed during a subsequent fertility study in which simvastatin was administered at this same dose level to male rats for 11 weeks (the entire cycle of spermatogenesis including epididymal maturation).
 No microscopic changes were observed in the testes of rats from either study.
-At 180 mg/kg/day, (which produces exposure levels 22 times higher than those in humans taking 80 mg/day based on surface area, mg/m2), seminiferous tubule degeneration (necrosis and loss of spermatogenic epithelium) was observed.
+At 180 mg/kg/day (which produces exposure levels 22 times higher than those in humans taking 80 mg/day based on surface area, mg/m2), seminiferous tubule degeneration (necrosis and loss of spermatogenic epithelium) was observed.
 In dogs, there was drug-related testicular atrophy, decreased spermatogenesis, spermatocytic degeneration and giant cell formation at 10 mg/kg/day (approximately 2 times the human exposure, based on AUC, at 80 mg/day).
 The clinical significance of these findings is unclear.
 
@@ -57,7 +57,7 @@ Optic nerve degeneration was seen in clinically normal dogs treated with simvast
 A chemically similar drug in this class also produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion starting at 60 mg/kg/day, a dose that produced mean plasma drug levels about 30 times higher than the mean plasma drug level in humans taking the highest recommended dose (as measured by total enzyme inhibitory activity).
 This same drug also produced vestibulocochlear Wallerian-like degeneration and retinal ganglion cell chromatolysis in dogs treated for 14 weeks at 180 mg/kg/day, a dose that resulted in a mean plasma drug level similar to that seen with the 60 mg/kg/day dose.
 
-CNS vascular lesions, characterized by perivascular hemorrhage and edema, mononuclear cell infiltration of perivascular spaces, perivascular fibrin deposits and necrosis of small vessels were seen in dogs treated with simvastatin at a dose of 360 mg/kg/day, a dose that produced mean plasma drug levels that were about 14 times higher than the mean plasma drug levels in humans taking 80 mg/day.
+CNS vascular lesions, characterized by perivascular hemorrhage and edema, mononuclear cell infiltration of perivascular spaces, perivascular fibrin deposits and necrosis of small vessels, were seen in dogs treated with simvastatin at a dose of 360 mg/kg/day, a dose that produced mean plasma drug levels that were about 14 times higher than the mean plasma drug levels in humans taking 80 mg/day.
 Similar CNS vascular lesions have been observed with several other drugs of this class.
 
 There were cataracts in female rats after two years of treatment with 50 and 100 mg/kg/day (22 and 25 times the human AUC at 80 mg/day, respectively) and in dogs after three months at 90 mg/kg/day (19 times) and at two years at 50 mg/kg/day (5 times).

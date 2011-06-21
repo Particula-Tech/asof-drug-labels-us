@@ -175,7 +175,7 @@ Table 4: Effect of Coadministered Drugs on Total Ezetimibe
 | Change in AUC | Change in Cmax |  |
 | --- | --- | --- |
 | Coadministered Drug and Dosing Regimen | Total EzetimibeBased on 10 mg-dose of ezetimibe |  |
-| Cyclosporine-stable dose required (75-150 mg BID)Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects., See 7. Drug Interactions | ↑240% | ↑290% |
+| Cyclosporine-stable dose required (75-150 mg BID)Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.,See 7. Drug Interactions | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days | ↑64% | ↑91% |
 | Cholestyramine, 4 g BID, 14 days | ↓55% | ↓4% |
@@ -196,7 +196,7 @@ Table 5: Effect of Ezetimibe Coadministration on Systemic Exposure to Other Drug
 | Warfarin, 25 mg single dose on Day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin)↓4% (S-warfarin) | ↑3% (R-warfarin)↑1% (S-warfarin) |
 | Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
 | Gemfibrozil, 600 mg BID, 7 daysSee 7. Drug Interactions | 10 mg QD, 7 days | ↓1% | ↓11% |
-| Ethinyl estradiol & Levonorgestrel QD, 21 days | 10 mg QD, Days 8-14 of 21 day oral contraceptive cycle | Ethinyl estradiol0%Levonorgestrel0% | Ethinyl estradiol↓9%Levonorgestrel↓5% |
+| Ethinyl estradiol & Levonorgestrel, QD, 21 days | 10 mg QD, Days 8-14 of 21 day oral contraceptive cycle | Ethinyl estradiol0%Levonorgestrel0% | Ethinyl estradiol↓9%Levonorgestrel↓5% |
 | Glipizide, 10 mg on Days 1 and 9 | 10 mg QD, Days 2-9 | ↓3% | ↓5% |
 | Fenofibrate, 200 mg QD, 14 days | 10 mg QD, 14 days | ↑11% | ↑7% |
 | Cyclosporine, 100 mg single dose Day 7 | 20 mg QD, 8 days | ↑15% | ↑10% |
@@ -214,21 +214,23 @@ Table 6: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 |  | AUC | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio(RatioResults based on a chemical assay except results with propranolol as indicated. with / without coadministered drug)No Effect = 1.00 |  |  |
-| Avoid taking with VYTORIN [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Contraindicated with VYTORIN [see Contraindications (4) and Warnings and Precautions (5.1)] |  |  |  |  |  |
 | TelithromycinResults could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acidSimvastatin acid refers to the β-hydroxyacid of simvastatin. simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid simvastatin | 6 | 6.2 |
 | Itraconazole | 200 mg QD for 4 days | 80 mg | simvastatin acid simvastatin |  | 13.113.1 |
+| Posaconazole | 100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days | 40 mg 40 mg | simvastatin acid simvastatin simvastatin acid simvastatin | 7.3 10.3 8.5 10.6 | 9.2 9.4 9.5 11.4 |
+| Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.851.35 | 2.180.91 |
 | Avoid >1 quart of grapefruit juice with VYTORIN [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Grapefruit JuiceThe effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. (high dose) | 200 mL of double-strength TIDDouble-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
 | Grapefruit Juice (low dose) | 8 oz (about 237 mL) of single-strengthSingle-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
-| Avoid taking with VYTORIN. If VYTORIN is used in combination with gemfibrozil, the dose should not exceed 10/10 mg daily, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
-| Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
-| Avoid taking with >10/20 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Avoid taking with >10/10 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1-7 then 240 mg BID on Days 8-10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
-| Avoid taking with >10/40 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.10 | 2.69 2.88 |
 | Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
+| Amiodarone | 400 mg QD for 3 days | 40 mg on Day 3 | simvastatin simvastatin acid | 1.75 1.76 | 1.72 1.79 |
+| Avoid taking with >10/20 mg VYTORIN, based on clinical and/or post-marketing simvastatin experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Amlodipine | 10 mg QD for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
+| Ranolazine SR | 1000 mg BID for 7 days | 80 mg on Day 1 and Days 6-9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Fenofibrate | 160 mg QD x14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
-| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/ml ↓ from 7.0 to 4.7 ng·eq/mL |
+| Fenofibrate | 160 mg QD for 14 days | 80 mg QD on Days 8-14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
+| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |
