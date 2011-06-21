@@ -1,4 +1,7 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
+This is a representative sample of the packaging.
+Please see How Supplied section for a complete list of available packaging.
+
+PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
 
 Proscar® 5 mg (Finasteride)
 

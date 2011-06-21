@@ -1,6 +1,6 @@
-# PATIENT PACKAGE INSERT
+FDA-Approved Patient Labeling
 
-PROSCAR® (Finasteride) Tablets Patient Information about PROSCAR ® (Prahs-car) Generic name: finasteride (fin-AS-tur-eyed)
+PROSCAR® (Finasteride) Tablets Patient Information about PROSCAR® (Prahs-car) Generic name: finasteride (fin-AS-tur-eyed)
 
 PROSCAR is for use by men only.
 
@@ -9,14 +9,14 @@ Also, read it each time you renew your prescription, just in case anything has c
 Remember, this leaflet does not take the place of careful discussions with your doctor.
 You and your doctor should discuss PROSCAR when you start taking your medication and at regular checkups.
 
-## What is PROSCAR?
+What is PROSCAR?
 
 PROSCAR is a medication used to treat symptoms of benign prostatic hyperplasia (BPH) in men with an enlarged prostate.
 PROSCAR may also be used to reduce the risk of a sudden inability to pass urine and the need for surgery related to BPH in men with an enlarged prostate.
 
 PROSCAR may be prescribed along with another medicine, an alpha-blocker called doxazosin, to help you better manage your BPH symptoms.
 
-## Who should NOT take PROSCAR?
+Who should NOT take PROSCAR?
 
 PROSCAR is for use by MEN only.
 
@@ -24,7 +24,7 @@ Do Not Take PROSCAR if you are:
 
 - a woman who is pregnant or may potentially be pregnant.
   PROSCAR may harm your unborn baby.
-  Do not touch or handle crushed or broken PROSCAR tablets (see "A warning about PROSCAR and pregnancy”).
+  Do not touch or handle crushed or broken PROSCAR tablets (see “A warning about PROSCAR and pregnancy”).
 - allergic to finasteride or any of the ingredients in PROSCAR.
   See the end of this leaflet for a complete list of ingredients in PROSCAR.
 
@@ -37,7 +37,7 @@ PROSCAR tablets are coated and will prevent contact with the active ingredient d
 If a woman who is pregnant with a male baby absorbs the active ingredient in PROSCAR after oral use or through the skin, it may cause the male baby to be born with abnormalities of the sex organs.
 If a woman who is pregnant comes into contact with the active ingredient in PROSCAR, a doctor should be consulted.
 
-## How should I take PROSCAR?
+How should I take PROSCAR?
 
 Follow your doctor's instruction.
 
@@ -48,7 +48,9 @@ Follow your doctor's instruction.
 - You may take PROSCAR with or without food.
 - Do not share PROSCAR with anyone else; it was prescribed only for you.
 
-## What are the possible side effects of PROSCAR?
+What are the possible side effects of PROSCAR?
+
+PROSCAR may increase the chance of a more serious form of prostate cancer.
 
 The most common side effects of PROSCAR include:
 
@@ -59,10 +61,12 @@ The most common side effects of PROSCAR include:
 - enlarged or painful breast.
   You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 
-In addition, the following have been reported in general use with PROSCAR:
+The following have been reported in general use with PROSCAR and/or finasteride at lower doses:
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips and face
 - rarely, some men may have testicular pain
+- trouble getting or keeping an erection that continued after stopping the medication
+- depression
 - in rare cases, male breast cancer has been reported.
 
 You should discuss side effects with your doctor before taking PROSCAR and anytime you think you are having a side effect.
@@ -72,7 +76,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at: 1-800-FDA-1088.
 
-## What you need to know while taking PROSCAR:
+What you need to know while taking PROSCAR:
 
 - You should see your doctor regularly while taking PROSCAR.
   Follow your doctor's advice about when to have these checkups.
@@ -82,12 +86,12 @@ You may report side effects to FDA at: 1-800-FDA-1088.
 - About Prostate-Specific Antigen (PSA).
   Your doctor may have done a blood test called PSA for the screening of prostate cancer.
   Because PROSCAR decreases PSA levels, you should tell your doctor(s) that you are taking PROSCAR.
-  Changes in PSA levels will need to be carefully evaluated by your doctor(s).
-  Any increase in follow-up PSA levels from their lowest point should be carefully evaluated, even if the test results are still within the normal range.
+  Changes in PSA levels will need to be evaluated by your doctor(s).
+  Any increase in follow-up PSA levels from their lowest point may signal the presence of prostate cancer and should be evaluated, even if the test results are still within the normal range.
   You should also tell your doctor if you have not been taking PROSCAR as prescribed because this may affect the PSA test results.
   For more information, talk to your doctor.
 
-## How should I store PROSCAR?
+How should I store PROSCAR?
 
 - Store PROSCAR tablets in a dry place at room temperature.
 - Keep PROSCAR in the original container and keep the container closed.PROSCAR tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets are not broken or crushed.
@@ -97,15 +101,15 @@ Keep PROSCAR and all medications out of the reach of children.
 Do not give your PROSCAR tablets to anyone else.
 It has been prescribed only for you.
 
-For more information call 1-800-633-4477.
+For more information call 1-800-622-4477.
 
-## What are the ingredients in PROSCAR?
+What are the ingredients in PROSCAR?
 
 Active ingredients: finasteride
 
 Inactive ingredients: hydrous lactose, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate, hydroxypropyl cellulose LF, hydroxypropyl methylcellulose, titanium dioxide, magnesium stearate, talc, docusate sodium, FD&C Blue 2 aluminum lake and yellow iron oxide.
 
-## What is BPH?
+What is BPH?
 
 BPH is an enlargement of the prostate gland.
 The prostate is located below the bladder.
@@ -120,7 +124,7 @@ This can lead to symptoms such as:
 
 In some men, BPH can lead to serious problems, including urinary tract infections, a sudden inability to pass urine (acute urinary retention), as well as the need for surgery.
 
-## What PROSCAR does:
+What PROSCAR does:
 
 PROSCAR lowers levels of a hormone called DHT (dihydrotestosterone), which is a cause of prostate growth.
 Lowering DHT leads to shrinkage of the enlarged prostate gland in most men.
@@ -134,6 +138,8 @@ However, since each case of BPH is different, you should know that:
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued August 2010
+Issued June 2011
 
-9631305
+9631307
+
+Copyright © 1992, 1995, 1998, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
