@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017391"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Prometheus Laboratories Inc.",
+  "package_ndcs": [
+    "65483-551-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azathioprine",
+      "name": "IMURAN"
+    }
+  ],
+  "setid": "9550b97e-66e6-48a5-af3e-2a1c20106091",
+  "source": "dailymed"
+}

@@ -1,0 +1,131 @@
+# WARNINGS:
+
+## Malignancy
+
+Patients receiving immunosuppressants, including IMURAN, are at increased risk of developing lymphoma and other malignancies, particularly of the skin.
+Physicians should inform patients of the risk of malignancy with IMURAN.
+As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+Post-transplant
+
+Renal transplant patients are known to have an increased risk of malignancy, predominantly skin cancer and reticulum cell or lymphomatous tumors.
+The risk of post-transplant lymphomas may be increased in patients who receive aggressive treatment with immunosuppressive drugs, including IMURAN.
+Therefore, immunosuppressive drug therapy should be maintained at the lowest effective levels.
+
+Rheumatoid Arthritis
+
+Information is available on the risk of malignancy with the use of IMURAN in rheumatoid arthritis (see ADVERSE REACTIONS).
+It has not been possible to define the precise risk of malignancy due to IMURAN.
+The data suggest the risk may be elevated in patients with rheumatoid arthritis, though lower than for renal transplant patients.
+However, acute myelogenous leukemia as well as solid tumors have been reported in patients with rheumatoid arthritis who have received IMURAN.
+
+Inflammatory Bowel Disease
+
+Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with IMURAN.
+These cases have had a very aggressive disease course and have been fatal.
+The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
+Some of the patients were treated with IMURAN as monotherapy and some had received concomitant treatment with a TNFα blocker at or prior to diagnosis.
+The safety and efficacy of IMURAN for the treatment of Crohn's disease and ulcerative colitis have not been established.
+
+## Cytopenias
+
+Severe leukopenia, thrombocytopenia, anemias including macrocytic anemia, and/or pancytopenia may occur in patients being treated with IMURAN.
+Severe bone marrow suppression may also occur.
+Patients with intermediate thiopurine S-methyl transferase (TPMT) activity may be at an increased risk of myelotoxicity if receiving conventional doses of IMURAN.
+Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of IMURAN.
+TPMT genotyping or phenotyping can help identify patients who are at an increased risk for developing IMURAN toxicity.2-9 (See PRECAUTIONS: Laboratory Tests).
+Hematologic toxicities are dose-related and may be more severe in renal transplant patients whose homograft is undergoing rejection.
+It is suggested that patients on IMURAN have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
+Delayed hematologic suppression may occur.
+Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in or persistently low leukocyte count, or other evidence of bone marrow depression.
+Leukopenia does not correlate with therapeutic effect; therefore the dose should not be increased intentionally to lower the white blood cell count.
+
+## Serious infections
+
+Serious infections are a constant hazard for patients receiving chronic immunosuppression, especially for homograft recipients.
+Fungal, viral, bacterial, and protozoal infections may be fatal and should be treated vigorously.
+Reduction of azathioprine dosage and/or use of other drugs should be considered.
+
+## Effect on Sperm in Animals
+
+IMURAN has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;10 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
+11
+
+Pregnancy: Pregnancy Category D. IMURAN can cause fetal harm when administered to a pregnant woman.
+IMURAN should not be given during pregnancy without careful weighing of risk versus benefit.
+Whenever possible, use of IMURAN in pregnant patients should be avoided.
+This drug should not be used for treating rheumatoid arthritis in pregnant women.
+12
+
+IMURAN is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
+Abnormalities included skeletal malformations and visceral anomalies.
+11
+
+Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on IMURAN.
+In a detailed case report, 13 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
+At 10 weeks most features were normalized.
+DeWitte et al reported pancytopenia and severe immune deficiency in a preterm infant whose mother received 125 mg azathioprine and 12.5 mg prednisone daily.
+14 There have been two published reports of abnormal physical findings.
+Williamson and Karp described an infant born with preaxial polydactyly whose mother received azathioprine 200 mg daily and prednisone 20 mg every other day during pregnancy.
+15 Tallent et al described an infant with a large myelomeningocele in the upper lumbar region, bilateral dislocated hips, and bilateral talipes equinovarus.
+The father was on long-term azathioprine therapy.
+16
+
+Benefit versus risk must be weighed carefully before use of IMURAN in patients of reproductive potential.
+There are no adequate and well-controlled studies in pregnant women.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Women of childbearing age should be advised to avoid becoming pregnant.
+
+# PRECAUTIONS:
+
+General: A gastrointestinal hypersensitivity reaction characterized by severe nausea and vomiting has been reported.
+These symptoms may also be accompanied by diarrhea, rash, fever, malaise, myalgias, elevations in liver enzymes, and occasionally, hypotension.
+Symptoms of gastrointestinal toxicity most often develop within the first several weeks of therapy with IMURAN and are reversible upon discontinuation of the drug.
+The reaction can recur within hours after re-challenge with a single dose of IMURAN.
+
+Information for Patients: Patients being started on IMURAN should be informed of the necessity of periodic blood counts while they are receiving the drug and should be encouraged to report any unusual bleeding or bruising to their physician.
+They should be informed of the danger of infection while receiving IMURAN and asked to report signs and symptoms of infection to their physician.
+Careful dosage instructions should be given to the patient, especially when IMURAN is being administered in the presence of impaired renal function or concomitantly with allopurinol (see Drug Interactions subsection and DOSAGE AND ADMINISTRATION).
+Patients should be advised of the potential risks of the use of IMURAN during pregnancy and during the nursing period.
+The increased risk of malignanacy following therapy with IMURAN should be explained to the patient.
+
+Laboratory Tests: Complete Blood Count (CBC) Monitoring: Patients on IMURAN should have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
+
+TPMT Testing: It is recommended that consideration be given to either genotype or phenotype patients for TPMT.
+Phenotyping and genotyping methods are commercially available.
+The most common non-functional alleles associated with reduced levels of TPMT activity are TPMT*2, TPMT*3A and TPMT*3C.
+Patients with two non-functional alleles (homozygous) have low or absent TPMT activity and those with one non-functional allele (heterozygous) have intermediate activity.
+Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
+TPMT testing may also be considered in patients with abnormal CBC results that do not respond to dose reduction.
+Early drug discontinuation in these patients is advisable.
+TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING IMURAN.
+See CLINICAL PHARMACOLOGY, WARNINGS, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections.
+
+Drug Interactions: Use with Allopurinol: One of the pathways for inactivation of azathioprine is inhibited by allopurinol.
+Patients receiving IMURAN and allopurinol concomitantly should have a dose reduction of IMURAN, to approximately 1/3 to 1/4 the usual dose.
+It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving IMURAN and allopurinol because both TPMT and XO inactivation pathways are affected.
+See CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS:Laboratory Tests and ADVERSE REACTIONS sections.
+
+Use with Aminosalicylates: There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
+Concomitant use of these agents with IMURAN should be done with caution.
+
+Use with Other Agents Affecting Myelopoesis: Drugs which may affect leukocyte production, including co-trimoxazole, may lead to exaggerated leukopenia, especially in renal transplant recipients.
+
+Use with Angiotensin-Converting Enzyme Inhibitors: The use of angiotensin-converting enzyme inhibitors to control hypertension in patients on azathioprine has been reported to induce anemia and severe leukopenia.
+
+Use with Warfarin: IMURAN may inhibit the anticoagulant effect of warfarin.
+
+Use with ribavirin: The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
+Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine.
+Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
+Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility: See WARNINGS section.
+
+Pregnancy: Teratogenic Effects: Pregnancy Category D. See WARNINGS section.
+
+Nursing Mothers: The use of IMURAN in nursing mothers is not recommended.
+Azathioprine or its metabolites are transferred at low levels, both transplacentally and in breast milk.
+17, 18, 19 Because of the potential for tumorigenicity shown for azathioprine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+Pediatric Use: Safety and efficacy of azathioprine in pediatric patients have not been established.
