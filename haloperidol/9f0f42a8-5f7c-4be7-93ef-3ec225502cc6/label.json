@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018701"
+  ],
+  "inn": "haloperidol",
+  "labeler": "Patriot Pharmaceuticals LLC",
+  "package_ndcs": [
+    "10147-0921-3",
+    "10147-0922-5"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "haloperidol decanoate",
+      "name": "Haloperidol Decanoate"
+    }
+  ],
+  "setid": "9f0f42a8-5f7c-4be7-93ef-3ec225502cc6",
+  "source": "dailymed"
+}
