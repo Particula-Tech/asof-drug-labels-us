@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078424"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "package_ndcs": [
+    "68180-240-01",
+    "68180-240-02",
+    "68180-240-08",
+    "68180-240-11",
+    "68180-241-01",
+    "68180-241-02",
+    "68180-241-08",
+    "68180-241-11",
+    "68180-242-01",
+    "68180-242-02",
+    "68180-242-11",
+    "68180-242-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levofloxacin",
+      "name": "Levofloxacin"
+    }
+  ],
+  "setid": "4be13bd5-0c39-43c3-9232-b1226ccd4dbc",
+  "source": "dailymed"
+}
