@@ -1,6 +1,8 @@
 # CONTRAINDICATIONS
 
-Concomitant use in patients taking either monoamine oxidase inhibitors (MAOIs), including linezolid, an antibiotic which is a reversible non-selective MAOI, or thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
+Paroxetine tablets should not be used in patients taking monoamine oxidase inhibitors (MAOIs), including linezolid (an antibiotic which is a reversible nonselective MAOI) and methylthioninium chloride (methylene blue) or within 2 weeks of stopping treatment with MAOIs (see WARNINGS).
+
+Concomitant use with thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
 
 Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
 

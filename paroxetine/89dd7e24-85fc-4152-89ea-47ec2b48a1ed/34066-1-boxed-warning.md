@@ -8,3 +8,5 @@ Patients of all ages who are started on antidepressant therapy should be monitor
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Paroxetine tablets are not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
+
+If you take paroxetine tablets, you should not take any other medicines that contain paroxetine hydrochloride, including paroxetine hydrochloride extended-release tablets and PEXEVA®* (paroxetine mesylate).

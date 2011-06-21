@@ -4,7 +4,7 @@ NDC 0378-7001-93
 
 Paroxetine Tablets, USP 10 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 TABLETS
 
@@ -25,7 +25,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM7001H2
+RM7001H3
 
 PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -33,7 +33,7 @@ NDC 0378-7002-93
 
 Paroxetine Tablets, USP 20 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 TABLETS
 
@@ -54,7 +54,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM7002H2
+RM7002H3
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -62,7 +62,7 @@ NDC 0378-7003-93
 
 Paroxetine Tablets, USP 30 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 TABLETS
 
@@ -83,7 +83,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM7003H2
+RM7003H3
 
 PRINCIPAL DISPLAY PANEL - 40 mg
 
@@ -91,7 +91,7 @@ NDC 0378-7004-93
 
 Paroxetine Tablets, USP 40 mg*
 
-PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 TABLETS
 
@@ -112,4 +112,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM7004H2
+RM7004H3

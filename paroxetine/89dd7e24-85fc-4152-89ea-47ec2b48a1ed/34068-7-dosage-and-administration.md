@@ -89,7 +89,7 @@ Nevertheless, patients should be periodically reassessed to determine the need f
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to paroxetine tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS).
+Neonates exposed to paroxetine tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering paroxetine in the third trimester.
 
@@ -106,7 +106,7 @@ Similarly, at least 14 days should be allowed after stopping paroxetine tablets 
 
 ## Discontinuation of Treatment with Paroxetine Tablets
 
-Symptoms associated with discontinuation of paroxetine tablets have been reported (see PRECAUTIONS).
+Symptoms associated with discontinuation of paroxetine tablets have been reported (see PRECAUTIONS: Discontinuation of Treatment with Paroxetine Hydrochloride).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which paroxetine tablets is being prescribed.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

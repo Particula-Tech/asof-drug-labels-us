@@ -44,7 +44,3 @@ Store at 20° to 25 °C (68° to 77°F).
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-REVISED FEBRUARY 2011 PXTT: R5mc
