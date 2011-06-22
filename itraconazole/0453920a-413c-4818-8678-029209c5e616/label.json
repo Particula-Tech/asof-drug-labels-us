@@ -1,13 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020301",
+    "NDA020966"
+  ],
   "inn": "itraconazole",
-  "labeler": "Ortho Biotech Products, L.P.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0409-7984-65",
     "50458-297-10",
     "50458-298-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "itraconazole",
+      "name": "SPORANOX"
+    }
+  ],
   "setid": "0453920a-413c-4818-8678-029209c5e616",
   "source": "dailymed"
 }

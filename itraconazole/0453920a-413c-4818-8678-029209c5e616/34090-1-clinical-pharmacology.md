@@ -21,38 +21,60 @@ Pharmacokinetic parameters for itraconazole and hydroxyitraconazole are presente
 
 The estimated mean ±SD half-life at steady-state of itraconazole after intravenous infusion was 35.4 ± 29.4 hours.
 In previous studies, the mean elimination half-life for itraconazole at steady-state after daily oral administration of 100 to 400 mg was 30–40 hours.
-Approximately 93–101% of hydroxypropyl-β-cyclodextrin was excreted unchanged in the urine within 12 hours after dosing.
 
 The plasma protein binding of itraconazole is 99.8% and that of hydroxyitraconazole is 99.5%.
 Following intravenous administration, the volume of distribution of itraconazole averaged 796 ± 185 L.
 
-Itraconazole is metabolized predominately by the cytochrome P450 3A4 isoenzyme system (CYP3A4), resulting in the formation of several metabolites, including hydroxyitraconazole, the major metabolite.
+Each intravenous dose of 200 mg itraconazole contains 8g hydroxypropyl-β-cyclodextrin to increase the solubility of itraconazole.
+The pharmacokinetic profiles of each are described below.
+(See Special Populations-Renal Insufficiency.)
+
+Itraconazole is metabolized predominately by the cytochrome P450 3A4 isoenzyme system (CYP3A4), resulting in the formation of several metabolites.
+Hydroxyitraconazole, the major metabolite, has in vitro antifungal activity comparable to itraconazole.
 Results of a pharmacokinetics study suggest that itraconazole may undergo saturable metabolism with multiple dosing.
-Fecal excretion of the parent drug varies between 3–18% of the dose.
-Renal excretion of the parent drug is less than 0.03% of the dose.
-About 40% of the dose is excreted as inactive metabolites in the urine.
+Based on an oral dose, fecal excretion of the parent drug varies between 3–18% of the dose.
+Renal excretion of itraconazole and the active metabolite hydroxyitraconazole account for less than 1% of an intravenous dose.
+Itraconazole is excreted mainly as inactive metabolites in urine (35%) and feces (54%) within one week of an oral dose.
 No single excreted metabolite represents more than 5% of a dose.
-Itraconazole total plasma clearance averaged 381 ± 95 mL/min following intravenous administration.
-Approximately 80–90% of hydroxypropyl-β-cyclodextrin is eliminated through the kidneys.
+Itraconazole mean total plasma clearance is 278 ± 79 mL/min following intravenous administration.
+A mean of 89.2% of the administered intravenous dose of hydroxypropyl-β-cyclodextrin is excreted in urine.
 (See CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions for more information.)
 
 ## Special Populations
 
 ### Renal Insufficiency
 
-Plasma concentrations of itraconazole in patients with mild to moderate renal insufficiency were comparable to those obtained in healthy subjects.
-The majority of the 8-gram dose of hydroxypropyl-β-cyclodextrin was eliminated in the urine during the 120-hour collection period in normal subjects and in patients with mild to severe renal insufficiency.
-Following a single intravenous dose of 200 mg to subjects with severe renal impairment (creatinine clearance ≤ 19 mL/minute), clearance of hydroxypropyl-β-cyclodextrin was reduced six-fold compared with subjects with normal renal function.
-SPORANOX® Injection should not be used in patients with creatinine clearance < 30 mL/min.
+A small fraction (<1%) of an intravenous dose of itraconazole is excreted unchanged in urine.
 
-In patients with mild (creatinine clearance 50–80 mL/min) and moderate (creatinine clearance 30–49 mL/min) renal impairment, SPORANOX® Injection should be used with caution.
-Serum creatinine levels should be closely monitored and, if renal toxicity is suspected, consideration should be given to changing to SPORANOX® Capsules, if clinically indicated and consistent with approved indications.
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (CrCl 50–79 mL/min), moderate (CrCl 20–49 mL/min), and severe renal impairment (CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42–49 hr vs 48 hr in renally impaired patients and healthy subjects, respectively).
+Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
+
+Data are not available in renally impaired patients during long-term use of itraconazole.
+Dialysis has no effect on the half-life or clearance of itraconazole or hydroxyitraconazole.
+(See CONTRAINDICATIONS, PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
+
+In patients with normal renal function, the pharmacokinetic profile of hydroxypropyl-β-cyclodextrin, an ingredient of SPORANOX® intravenous formulation, has a short half-life of 1 to 2 hours, and demonstrates no accumulation following successive daily doses.
+In healthy subjects and in patients with mild to severe renal insufficiency, the majority of an 8 g dose of hydroxypropyl-β cyclodextrin (per 200 mg itraconazole) is eliminated in the urine.
+Following a single intravenous dose of itraconazole 200 mg, clearance of hydroxypropyl-β-cyclodextrin was reduced in subjects with mild, moderate, and severe renal impairment, resulting in higher exposure to hydroxypropyl-β-cyclodextrin; in these subjects, half-life values were increased over normal values by approximately two-, four-, and six-fold, respectively.
+In these patients, successive infusions may result in accumulation of hydroxypropyl-β-cyclodextrin until steady state is reached.
+Hydroxypropyl-β-cyclodextrin is removed by hemodialysis.
+
+In patients with mild (defined as creatinine clearance 50–80 mL/min) and moderate (defined as creatinine clearance 30–49 mL/min) renal impairment, SPORANOX® Injection should be used with caution.
+Serum creatinine levels should be closely monitored and, if renal toxicity is suspected, consideration should be given to modifying the antifungal regimen to an alternate medication with similar antimycotic coverage.
+SPORANOX® Injection is contraindicated in patients with severe renal impairment (creatinine clearance <30 mL/min).
+(See CONTRAINDICATIONS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION.)
 
 ### Hepatic Insufficiency
 
+Studies have not been conducted with intravenous itraconazole in patients with hepatic impairment.
+Itraconazole is predominantly metabolized in the liver.
 Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
-The prolonged elimination half-life of itraconazole observed in a clinical trial with itraconazole capsules in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
-(See BOX WARNING, CONTRAINDICATIONS, and PRECAUTIONS: Drug Interactions.)
+A pharmacokinetic study using a single oral 100-mg dose of itraconazole (one 100-mg capsule) was conducted in 6 healthy and 12 cirrhotic subjects.
+A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+However, overall exposure to itraconazole based on AUC, was similar in cirrhotic patients and in healthy subjects.
+The prolonged elimination half-life of itraconazole observed in the single oral dose clinical trial with itraconazole capsules in cirrhotic patients should be considered when deciding to initiate therapy with other medications metabolized by CYP3A4.
+Data are not available in cirrhotic patients during long-term use of itraconazole.
+(See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
 ### Decreased Cardiac Contractility
 

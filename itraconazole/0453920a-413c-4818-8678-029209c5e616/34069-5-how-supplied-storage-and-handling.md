@@ -4,3 +4,5 @@ SPORANOX® (itraconazole) Injection for intravenous infusion is supplied as a ki
 
 Store at or below 25°C (77°F).
 Protect from light and freezing.
+
+Keep out of reach of children.

@@ -4,7 +4,7 @@ SPORANOX® has been associated with rare cases of serious hepatotoxicity, includ
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition.
 If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
 The risks and benefits of SPORANOX® use should be reassessed.
-(See WARNINGS: Hepatic Effects and PRECAUTIONS: General andInformation for Patients.)
+(See WARNINGS: Hepatic Effects and PRECAUTIONS: Hepatotoxicity and Information for Patients.)
 
 ## Adverse Events Reported in Trials in Patients with SPORANOX® Injection
 
@@ -66,8 +66,28 @@ The following adverse events occurred in less than 2% of patients in clinical tr
 
 ## Post-marketing Experience
 
-Worldwide post-marketing experiences with the use of SPORANOX® include adverse events of gastrointestinal origin, such as dyspepsia, nausea, vomiting, diarrhea, abdominal pain and constipation.
-Other reported adverse events include peripheral edema, congestive heart failure and pulmonary edema, headache, dizziness, peripheral neuropathy, menstrual disorders, reversible increases in hepatic enzymes, hepatitis, liver failure, hypokalemia, hypertriglyceridemia, alopecia, allergic reactions (such as pruritus, rash, urticaria, angioedema, anaphylaxis), Stevens-Johnson syndrome, anaphylactic, anaphylactoid and allergic reactions, photosensitivity and neutropenia.
+Adverse drug reactions that have been identified during post-approval use of SPORANOX® (all formulations) are listed in the table below.
+Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
+
+Postmarketing Reports of Adverse Drug Reactions
+
+| Blood and lymphatic system disorders: | Leukopenia, neutropenia, thrombocytopenia |
+| --- | --- |
+| Immune system disorders: | Anaphylaxis; anaphylactic, anaphylactoid and allergic reactions; serum sickness; angioneurotic edema |
+| Metabolism and nutrition disorders: | Hypertriglyceridemia, hypokalemia |
+| Nervous system disorders: | Peripheral neuropathy, paresthesia, hypoesthesia, headache, dizziness |
+| Eye disorders: | Visual disturbances, including vision blurred and diplopia |
+| Ear and labyrinth disorder: | Transient or permanent hearing loss, tinnitus |
+| Cardiac disorders: | Congestive heart failure |
+| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema |
+| Gastrointestinal disorders: | Pancreatitis, abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation, dysgeusia |
+| Hepato-biliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
+| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
+| Musculoskeletal and connective tissue disorders: | Myalgia, arthralgia |
+| Renal and urinary disorders: | Urinary incontinence, pollakiuria |
+| Reproductive system and breast disorders: | Menstrual disorders, erectile dysfunction |
+| General disorders and administration site conditions: | Peripheral edema, pyrexia |
+
 There is limited information on the use of SPORANOX® during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
 A causal relationship with SPORANOX® has not been established.

@@ -49,4 +49,20 @@ The safety and efficacy of SPORANOX® Injection administered for greater than 14
 Total itraconazole therapy (SPORANOX® Injection followed by SPORANOX® Capsules) should be continued for a minimum of 3 months and until clinical parameters and laboratory tests indicate that the active fungal infection has subsided.
 An inadequate period of treatment may lead to recurrence of active infection.
 
-SPORANOX® Injection should not be used in patients with creatinine clearance <30 mL/min.
+## Use in Patients with Renal Impairment
+
+Limited data are available on the use of intravenous itraconazole in patients with renal impairment.
+
+Hydroxypropyl-β-cyclodextrin, a required component of SPORANOX® intravenous formulation, is eliminated through glomerular filtration.
+Therefore, in patients with severe renal impairment (defined as creatinine clearance below 30 mL/min), the use of SPORANOX® IV is contraindicated.
+(See CONTRAINDICATIONS.)
+
+In patients with mild (defined as creatinine clearance 50–80 mL/min) and moderate (defined as creatinine clearance 30–49 mL/min) renal impairment, SPORANOX® Injection should be used with caution.
+Serum creatinine levels should be closely monitored and, if renal toxicity is suspected, consideration should be given to modifying the antifungal regimen to an alternate medication with similar antimycotic coverage.
+(see CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, and PRECAUTIONS.)
+
+## Use in Patients with Hepatic Impairment
+
+Limited data are available on the use of itraconazole in patients with hepatic impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and PRECAUTIONS).

@@ -1,4 +1,6 @@
-# DESCRIPTION For intravenous infusion (NOT FOR IV BOLUS INJECTION)
+# DESCRIPTION
+
+For intravenous infusion (NOT FOR IV BOLUS INJECTION)
 
 SPORANOX® is the brand name for itraconazole, a synthetic triazole antifungal agent.
 Itraconazole is a 1:1:1:1 racemic mixture of four diastereomers (two enantiomeric pairs), each possessing three chiral centers.

@@ -9,8 +9,8 @@ The clinical relevance of these findings is unknown.
 
 SPORANOX® has been associated with rare cases of serious hepatotoxicity, including liver failure and death.
 Some of these cases had neither pre-existing liver disease nor a serious underlying medical condition, and some of these cases developed within the first week of treatment.
-If clinical signs or symptoms develop that are consistent with liver disease, treatment should be=discontinued and liver function testing performed.
-Continued SPORANOX® use or reinstitution of treatment with SPORANOX® is strongly discouraged unless there is a serious or life threatening situation where the expected benefit exceeds the risk.
+If clinical signs or symptoms develop that are consistent with liver disease, treatment should be discontinued and liver function testing performed.
+Continued SPORANOX® use or reinstitution of treatment with SPORANOX® is strongly discouraged unless there is a serious or life-threatening situation where the expected benefit exceeds the risk.
 (See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS.)
 
 ## Cardiac Dysrhythmias
@@ -27,25 +27,39 @@ These risk factors include cardiac disease such as ischemic and valvular disease
 Such patients should be informed of the signs and symptoms of CHF, should be treated with caution, and should be monitored for signs and symptoms of CHF during treatment.
 If signs or symptoms of CHF appear during administration of SPORANOX® Injection, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX® Injection administration.
 
+Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of SPORANOX® Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+
+SPORANOX® has been associated with reports of congestive heart failure.
+In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
+
+Calcium channel blockers can have negative inotropic effects which may be additive to those of itraconazole.
+In addition, itraconazole can inhibit the metabolism of calcium channel blockers.
+Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
+Concomitant administration of SPORANOX® and nisoldipine is contraindicated.
 
 Cases of CHF, peripheral edema, and pulmonary edema have been reported in the post-marketing period among patients being treated for onychomycosis and/or systemic fungal infections.
 (See CLINICAL PHARMACOLOGY: Special Populations, PRECAUTIONS: Drug Interactions, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
 # PRECAUTIONS
 
-## General
+## Hepatotoxicity
 
 Rare cases of serious hepatotoxicity have been observed with SPORANOX® treatment, including some cases within the first week.
 In patients with elevated or abnormal liver enzymes or active liver disease, or who have experienced liver toxicity with other drugs, treatment with SPORANOX® is strongly discouraged unless there is a serious or life threatening situation where the expected benefit exceeds the risk.
 Liver function monitoring should be done in patients with pre-existing hepatic function abnormalities or those who have experienced liver toxicity with other medications and should be considered in all patients receiving SPORANOX®.
 Treatment should be stopped immediately and liver function testing should be conducted in patients who develop signs and symptoms suggestive of liver dysfunction.
 
+## Neuropathy
+
 If neuropathy occurs that may be attributable to SPORANOX® Injection, the treatment should be discontinued.
 
-As severe renal impairment prolongs the elimination rate of hydroxypropyl-β-cyclodextrin, SPORANOX® (itraconazole) Injection should not be used in patients with severe renal dysfunction (creatinine clearance < 30 mL/min).
-(See CLINICAL PHARMACOLOGY: Special Populations.)
+## Hearing Loss
+
+Transient or permanent hearing loss has been reported in patients receiving treatment with itraconazole.
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOX WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
 
 ## Information for Patients
 
@@ -53,6 +67,10 @@ SPORANOX® Injection contains the excipient hydroxypropyl-β-cyclodextrin which 
 These findings were not observed in a similar mouse carcinogenicity study.
 The clinical relevance of these findings is unknown.
 (See PRECAUTIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility.)
+
+Instruct patients that hearing loss can occur with the use of itraconazole.
+The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
+Advise patients to inform their physicians if any hearing loss symptoms occur.
 
 ## Drug Interactions
 
@@ -71,23 +89,23 @@ Therefore, the following drug interactions may occur (See Table 1 below and the 
 3. Other inhibitors of CYP3A4 may increase the plasma concentrations of itraconazole.
    Patients who must take SPORANOX® concomitantly with one of these drugs should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of SPORANOX®.
 
-Table 1 Selected Drugs that are predicted to alter the plasma concentration of itraconazole or have their plasma concentration altered by SPORANOX®This list is not all-inclusive.
+Table 1 Selected Drugs that are Predicted to Alter the Plasma Concentration of Itraconazole or Have Their Plasma Concentration Altered by SPORANOX®This list is not all-inclusive.
 
 | Drug plasma concentration increased by itraconazole |  |
 | --- | --- |
-| Antiarrhythmics | digoxin, dofetilideContraindicated with SPORANOX® based on clinical and/or pharmacokinetics studies. (See WARNINGS and below.), quinidine, disopyramide |
+| Antiarrhythmics | digoxin, dofetilide,Contraindicated with SPORANOX® based on clinical and/or pharmacokinetics studies. (See WARNINGS and below.) quinidine, disopyramide |
 | Anticonvulsants | carbamazepine |
 | Antimycobacterials | rifabutin |
 | Antineoplastics | busulfan, docetaxel, vinca alkaloids |
 | Antipsychotics | pimozide |
 | Benzodiazepines | alprazolam, diazepam, midazolam,,For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. triazolam |
-| Calcium Channel Blockers | dihydropyridines, verapamil |
+| Calcium Channel Blockers | dihydropyridines (including nisoldipine), verapamil |
 | Gastrointestinal Motility Agents | cisapride |
 | HMG CoA-Reductase Inhibitors | atorvastatin, cerivastatin, lovastatin, simvastatin |
 | Immunosuppressants | cyclosporine, tacrolimus, sirolimus |
 | Oral Hypoglycemics | oral hypoglycemics |
 | Protease Inhibitors | indinavir, ritonavir, saquinavir |
-| Other | levacetylmethadol (levomethadyl), ergot alkaloids, halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, trimetrexate, warfarin, cilostazol, eletriptan |
+| Other | levacetylmethadol (levomethadyl), ergot alkaloids, halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, fluticasone, trimetrexate, warfarin, cilostazol, eletriptan, fentanyl |
 | Decrease plasma concentration of itraconazole |  |
 | Anticonvulsants | carbamazepine, phenobarbital, phenytoin |
 | Antimycobacterials | isoniazid, rifabutin, rifampin |
@@ -106,7 +124,7 @@ Therefore, concomitant administration of SPORANOX® and quinidine or dofetilide 
 The class IA antiarrhythmic disopyramide has the potential to increase the QT interval at high plasma concentrations.
 Caution is advised when SPORANOX® and disopyramide are administered concomitantly.
 
-Concomitant administration of digoxin and SPORANOX® has led to increased plasma concentrations of digoxin.
+Concomitant administration of digoxin and SPORANOX® has led to increased plasma concentrations of digoxin via inhibition of P-glycoprotein.
 
 ### Anticonvulsants
 
@@ -150,8 +168,9 @@ Edema has been reported in patients concomitantly receiving SPORANOX® and dihyd
 Appropriate dosage adjustment may be necessary.
 
 Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole; itraconazole can inhibit the metabolism of calcium channel blockers such as dihydropyridines (e.g., nifedipine and felodipine) and verapamil.
-Therefore, caution should be used when co-administering itraconazole and calcium channel blockers.
-(See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
+Concomitant administration of SPORANOX® and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations which cannot be managed by dosage reduction, therefore the concomitant administration of SPORANOX® and nisoldipine is contraindicated.
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
 ### Gastrointestinal Motility Agents
 
@@ -212,12 +231,13 @@ Other nucleoside reverse transcriptase inhibitors have not been studied.
 - In vitro data suggest that alfentanil is metabolized by CYP3A4.
   Administration with SPORANOX® may increase plasma concentrations of alfentanil.
 - Human pharmacokinetic data suggest that concomitant administration of SPORANOX® and buspirone results in significant increases in plasma concentrations of buspirone.
-- SPORANOX® may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone and methylprednisolone.
+- SPORANOX® may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone, fluticasone and methylprednisolone.
 - In vitro data suggest that trimetrexate is extensively metabolized by CYP3A4.
   In vitro animal models have demonstrated that ketoconazole potently inhibits the metabolism of trimetrexate.
   Although there are no data regarding the effect of itraconazole on trimetrexate metabolism, because of the similarities between ketoconazole and itraconazole, concomitant administration of SPORANOX® and trimetrexate may inhibit the metabolism of trimetrexate.
 - Cilostazol and eletriptan are CYP3A4 metabolized drugs that should be used with caution when co-administered with SPORANOX®.
 - SPORANOX® enhances the anticoagulant effect of coumarin-like drugs, such as warfarin.
+- Fentanyl plasma concentrations could be increased or prolonged by concomitant use of SPORANOX® and may cause potentially fatal respiratory depression.
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
@@ -252,7 +272,7 @@ There are no studies in pregnant women.
 SPORANOX® should be used for the treatment of systemic fungal infections in pregnancy only if the benefit outweighs the potential risk.
 
 During post-marketing experience, cases of congenital abnormalities have been reported.
-(See ADVERSE REACTIONS, Post-marketing Experience.)
+(See ADVERSE REACTIONS: Post-marketing Experience.)
 
 ## Nursing Mothers
 
@@ -277,3 +297,24 @@ No such bone toxicity has been reported in adult patients.
 Clinical studies of SPORANOX® Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Transient or permanent hearing loss has been reported in elderly patients receiving treatment with itraconazole.
+Several of these reports included concurrent administration of quinidine which is contraindicated (see BOX WARNING: Drug Interactions, CONTRAINDICATIONS: Drug Interactions and PRECAUTIONS: Drug Interactions).
+Itraconazole should be used with care in elderly patients (see PRECAUTIONS).
+
+## Renal Impairment
+
+Hydroxypropyl-β-cyclodextrin, when administered intravenously, is eliminated through glomerular filtration.
+Therefore, in patients with renal impairment defined as creatinine clearance below 30 mL/min, SPORANOX IV is contraindicated.
+(see CONTRAINDICATIONS).
+
+In patients with mild (defined as creatinine clearance 50–80 mL/min) and moderate (defined as creatinine clearance 30–49 mL/min) renal impairment, SPORANOX IV should be used with caution.
+Serum creatinine levels should be closely monitored and, if renal toxicity is suspected, consideration should be given to modifying the antifungal regimen to an alternate medication with similar antimycotic coverage.
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, and DOSAGE and ADMINISTRATION for further information.)
+
+## Hepatic Impairment
+
+Studies have not been conducted with intravenous itraconazole in patients with hepatic impairment.
+Limited data are available on the use of oral itraconazole in patients with hepatic impairment.
+Caution should be exercised when this drug is administered in this patient population.
+(see CLINICAL PHARMACOLOGY: Special Populations, WARNINGS and DOSAGE AND ADMINISTRATION.)

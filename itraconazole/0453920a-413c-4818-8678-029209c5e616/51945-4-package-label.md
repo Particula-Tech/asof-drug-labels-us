@@ -1,0 +1,11 @@
+# PRINCIPAL DISPLAY PANEL - 10mg/mL Carton
+
+Rx only
+
+NDC 50458-297-10 25 mL
+
+SPORANOX® (ITRACONAZOLE) INJECTION
+
+10mg/mL
+
+One Unit Dose Ampule
