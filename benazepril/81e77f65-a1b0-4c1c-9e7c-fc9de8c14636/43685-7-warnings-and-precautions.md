@@ -190,7 +190,14 @@ Lotensin HCT and lithium should be coadministered with caution, and frequent mon
 
 Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
 
-Other: Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-blocking agents, cimetidine, diuretics, digoxin, hydralazine, and naproxen without evidence of clinically important adverse interactions.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors and thiazide diuretics may be attenuated by NSAIDs.
+The diuretic and natriuretic effects of thiazide diuretics may also be reduced when NSAIDs are coadministered.
+
+Other: Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-blocking agents, cimetidine, diuretics, digoxin, and hydralazine without evidence of clinically important adverse interactions.
 Other ACE inhibitors have had less than additive effects with beta-adrenergic blockers, presumably because drugs of both classes lower blood pressure by inhibiting parts of the renin-angiotensin system.
 
 Interaction studies with warfarin and acenocoumarol have failed to identify any clinically important effects of benazepril on the serum concentrations or clinical effects of these anticoagulants.

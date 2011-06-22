@@ -26,9 +26,9 @@ Storage: Do not store above 30ºC (86ºF).
 Protect from moisture and light.
 Dispense in tight, light-resistant container (USP).
 
-REV: MARCH 2011
+T2011-57
 
-T2011-09
+May 2011
 
 Manufactured by:
 
