@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-## Parkinson's Disease
+Parkinson's Disease
 
 The effectiveness of pramipexole dihydrochloride tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of seven randomized, controlled trials.
 Three were conducted in patients with early Parkinson's disease who were not receiving concomitant levodopa, and four were conducted in patients with advanced Parkinson's disease who were receiving concomitant levodopa.

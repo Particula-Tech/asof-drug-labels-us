@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-## Parkinson's Disease
+Parkinson's Disease
 
 Pramipexole dihydrochloride tablets are indicated for the treatment of the signs and symptoms of idiopathic Parkinson's disease.
 

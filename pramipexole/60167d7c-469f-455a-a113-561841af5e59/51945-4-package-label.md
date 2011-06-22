@@ -10,7 +10,7 @@ NDC 13668-091-05
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Pramipexole Dihydrochloride Tablets
 
@@ -22,7 +22,7 @@ NDC 13668-092-05
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Pramipexole Dihydrochloride Tablets
 
@@ -34,7 +34,7 @@ NDC 13668-093-05
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Pramipexole Dihydrochloride Tablets
 
@@ -46,7 +46,7 @@ NDC 13668-184-05
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Pramipexole Dihydrochloride Tablets
 
@@ -58,7 +58,7 @@ NDC 13668-094-05
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Pramipexole Dihydrochloride Tablets
 

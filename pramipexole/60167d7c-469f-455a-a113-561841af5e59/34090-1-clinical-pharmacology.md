@@ -13,19 +13,19 @@ The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 Pramipexole displays linear pharmacokinetics over the clinical dosage range.
 Its terminal half-life is about 8 hours in young healthy volunteers and about 12 hours in elderly volunteers (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations).Steady-state concentrations are achieved within 2 days of dosing.
 
-Absorption
+## Absorption
 
 Pramipexole is rapidly absorbed, reaching peak concentrations in approximately 2 hours.
 The absolute bioavailability of pramipexole is greater than 90%, indicating that it is well absorbed and undergoes little presystemic metabolism.
 Food does not affect the extent of pramipexole absorption, although the time of maximum plasma concentration (Tmax) is increased by about 1 hour when the drug is taken with a meal.
 
-Distribution
+## Distribution
 
 Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV]=20%).
 It is about 15% bound to plasma proteins.
 Pramipexole distributes into red blood cells as indicated by an erythrocyte-to-plasma ratio of approximately 2.
 
-Metabolism and Elimination
+## Metabolism and Elimination
 
 The terminal half-life of pramipexole is about 8 hours in healthy volunteers and 12 hours in elderly volunteers.
 
@@ -39,12 +39,12 @@ Thus, pramipexole is secreted by the renal tubules, probably by the organic cati
 Because therapy with pramipexole dihydrochloride tablets is initiated at a low dose and gradually titrated upward according to clinical tolerability to obtain the optimum therapeutic effect, adjustment of the initial dose based on gender, weight, or age is not necessary.
 However, renal insufficiency, which can cause a large decrease in the ability to eliminate pramipexole, may necessitate dosage adjustment (see CLINICAL PHARMACOLOGY, Renal Insufficiency).
 
-Gender
+## Gender
 
 Pramipexole clearance is about 30% lower in women than in men, but most of this difference can be accounted for by differences in body weight.
 There is no difference in half-life between males and females.
 
-Age
+## Age
 
 Pramipexole clearance decreases with age as the half-life and clearance are about 40% longer and 30% lower, respectively, in elderly (aged 65 years or older) compared with young healthy volunteers (aged less than 40 years).
 This difference is most likely due to the well-known reduction in renal function with age, since pramipexole clearance is correlated with renal function, as measured by creatinine clearance (see CLINICAL PHARMACOLOGY,Renal Insufficiency).
@@ -55,16 +55,12 @@ A cross-study comparison of data suggests that the clearance of pramipexole may 
 The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
 The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
 
-Pediatric
-
-The pharmacokinetics of pramipexole in the pediatric population have not been evaluated.
-
-Hepatic Insufficiency
+## Hepatic Insufficiency
 
 The influence of hepatic insufficiency on pramipexole pharmacokinetics has not been evaluated.
 Because approximately 90% of the recovered dose is excreted in the urine as unchanged drug, hepatic impairment would not be expected to have a significant effect on pramipexole elimination.
 
-Renal Insufficiency
+## Renal Insufficiency
 
 The clearance of pramipexole was about 75% lower in patients with severe renal impairment (creatinine clearance approximately 20 mL/min) and about 60% lower in patients with moderate impairment (creatinine clearance approximately 40 mL/min) compared with healthy volunteers.
 Also, it took longer to achieve steady state.

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Parkinson's Disease
+Parkinson's Disease
 
 In all clinical studies, dosage was initiated at a subtherapeutic level to avoid intolerable adverse effects and orthostatic hypotension.
 Pramipexole dihydrochloride tablets should be titrated gradually in all patients.

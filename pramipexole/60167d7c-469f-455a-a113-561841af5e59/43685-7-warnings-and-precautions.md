@@ -196,7 +196,7 @@ There were no apparent differences in efficacy or safety between older and young
 
 ADVERSE EVENTS
 
-## Parkinson's Disease
+Parkinson's Disease
 
 During the premarketing development of pramipexole, patients with either early or advanced Parkinson's disease were enrolled in clinical trials.
 Apart from the severity and duration of their disease, the two populations differed in their use of concomitant levodopa therapy.
@@ -282,9 +282,10 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-events incidence rate in the population studied.
 
-Table 2 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with Pramipexole Dihydrochloride Tablets and Numerically More Frequent than in the Placebo Group)
+Table 2 Treatment-Emergent Adverse-EventPatients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category.
+Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with Pramipexole Dihydrochloride Tablets and Numerically More Frequent than in the Placebo Group)
 
-| Body System/ Adverse Event | Pramipexole Dihydrochloride Tablets† N=260 | Placebo† N=264 |
+| Body System/ Adverse Event | Pramipexole Dihydrochloride TabletsPatients received concomitant levodopa. N=260 | Placebo N=264 |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Accidental injury | 17 | 15 |
@@ -337,7 +338,6 @@ Table 2 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Urinary frequency | 6 | 3 |
 | Urinary tract infection | 4 | 3 |
 | Urinary incontinence | 2 | 1 |
-| *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. † Patients received concomitant levodopa. |  |  |
 
 Other events reported by 1% or more of patients with advanced Parkinson's disease and treated with pramipexole dihydrochloride tablets but reported equally or more frequently in the placebo group were nausea, pain, infection, headache, depression, tremor, hypokinesia, anorexia, back pain, dyspepsia, flatulence, ataxia, flu syndrome, sinusitis, diarrhea, myalgia, abdominal pain, anxiety, rash, paresthesia, hypertension, increased saliva, tooth disorder, apathy, hypotension, sweating, vasodilation, vomiting, increased cough, nervousness, pruritus, hypesthesia, neck pain, syncope, arthralgia, dysphagia, palpitations, pharyngitis, vertigo, leg cramps, conjunctivitis, and lacrimation disorders.
 
