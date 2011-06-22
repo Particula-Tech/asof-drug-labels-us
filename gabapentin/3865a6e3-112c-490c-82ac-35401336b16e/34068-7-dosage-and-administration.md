@@ -8,7 +8,7 @@ If gabapentin tablets USP dose is reduced, discontinued or substituted with an a
 
 ## Postherpetic Neuralgia
 
-In adults with postherpetic neuralgia, gabapentin tablets USP therapy may be initiated as a single 300-mg dose on Day 1, 600 mg/day on Day 2 (divided BID), and 900 mg/day on Day 3 (divided TID).
+In adults with postherpetic neuralgia, gabapentin tablets USP therapy may be initiated as a single 300 mg dose on Day 1, 600 mg/day on Day 2 (divided BID), and 900 mg/day on Day 3 (divided TID).
 The dose can subsequently be titrated up as needed for pain relief to a daily dose of 1800 mg (divided TID).
 In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range.
 Additional benefit of using doses greater than 1800 mg/day was not demonstrated.
@@ -38,7 +38,7 @@ The maximum time interval between doses should not exceed 12 hours.
 It is not necessary to monitor gabapentin plasma concentrations to optimize gabapentin tablets USP therapy.
 Further, because there are no significant pharmacokinetic interactions among gabapentin tablets USP and other commonly used antiepileptic drugs, the addition of gabapentin tablets USP does not alter the plasma levels of these drugs appreciably.
 
-If gabapentin tablets USP is discontinued and/or an alternate anticonvulsant medication is added to the therapy, this should be done gradually over a minimum of 1 week.
+If gabapentin tablets USP are discontinued and/or an alternate anticonvulsant medication is added to the therapy, this should be done gradually over a minimum of 1 week.
 
 ## Dosage in Renal Impairment
 

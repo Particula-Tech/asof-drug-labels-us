@@ -3,7 +3,7 @@
 A lethal dose of gabapentin was not identified in mice and rats receiving single oral doses as high as 8000 mg/kg.
 Signs of acute toxicity in animals included ataxia, labored breathing, ptosis, sedation, hypoactivity, or excitation.
 
-Acute oral overdoses of gabapentin tablets up to 49 grams have been reported.
+Acute oral overdoses of gabapentin up to 49 grams have been reported.
 In these cases, double vision, slurred speech, drowsiness, lethargy and diarrhea were observed.
 All patients recovered with supportive care.
 

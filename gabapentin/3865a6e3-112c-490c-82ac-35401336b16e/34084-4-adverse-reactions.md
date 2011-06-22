@@ -2,15 +2,58 @@
 
 ## Postherpetic Neuralgia
 
-The most commonly observed adverse events associated with the use of gabapentin tablets in adults, not seen at an equivalent frequency among placebo-treated patients, were dizziness, somnolence, and peripheral edema.
+The most commonly observed adverse events associated with the use of gabapentin in adults, not seen at an equivalent frequency among placebo-treated patients, were dizziness, somnolence, and peripheral edema.
 
-In the 2 controlled studies in postherpetic neuralgia, 16% of the 336 patients who received gabapentin tablets and 9% of the 227 patients who received placebo discontinued treatment because of an adverse event.
-The adverse events that most frequently led to withdrawal in gabapentin tablets-treated patients were dizziness, somnolence, and nausea.
+In the 2 controlled studies in postherpetic neuralgia, 16% of the 336 patients who received gabapentin and 9% of the 227 patients who received placebo discontinued treatment because of an adverse event.
+The adverse events that most frequently led to withdrawal in gabapentin-treated patients were dizziness, somnolence, and nausea.
 
 ### Incidence in Controlled Clinical Trials
 
-TABLE 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin tablets-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin tablets group than in the placebo group.
+TABLE 3 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 Adverse events were usually mild to moderate in intensity.
+
+TABLE 3.
+Treatment-Emergent Adverse Event Incidence in Controlled Trials in Postherpetic Neuralgia (Events in at least 1% of Gabapentin-Treated Patients and Numerically More Frequent Than in the Placebo Group)
+
+| Body System/ | Gabapentin | Placebo |
+| --- | --- | --- |
+| Preferred Term | N=336 | N=227 |
+|  | % | % |
+| Body as a Whole |  |  |
+| Asthenia | 5.7 | 4.8 |
+| Infection | 5.1 | 3.5 |
+| Headache | 3.3 | 3.1 |
+| Accidental injury | 3.3 | 1.3 |
+| Abdominal pain | 2.7 | 2.6 |
+| Digestive System |  |  |
+| Diarrhea | 5.7 | 3.1 |
+| Dry mouth | 4.8 | 1.3 |
+| Constipation | 3.9 | 1.8 |
+| Nausea | 3.9 | 3.1 |
+| Vomiting | 3.3 | 1.8 |
+| Flatulence | 2.1 | 1.8 |
+| Metabolic and Nutritional Disorders |  |  |
+| Peripheral edema | 8.3 | 2.2 |
+| Weight gain | 1.8 | 0.0 |
+| Hyperglycemia | 1.2 | 0.4 |
+| Nervous System |  |  |
+| Dizziness | 28.0 | 7.5 |
+| Somnolence | 21.4 | 5.3 |
+| Ataxia | 3.3 | 0.0 |
+| Thinking abnormal | 2.7 | 0.0 |
+| Abnormal gait | 1.5 | 0.0 |
+| Incoordination | 1.5 | 0.0 |
+| Amnesia | 1.2 | 0.9 |
+| Hypesthesia | 1.2 | 0.9 |
+| Respiratory System |  |  |
+| Pharyngitis | 1.2 | 0.4 |
+| Skin and Appendages |  |  |
+| Rash | 1.2 | 0.9 |
+| Special Senses |  |  |
+| AmblyopiaReported as blurred vision | 2.7 | 0.9 |
+| Conjunctivitis | 1.2 | 0.0 |
+| Diplopia | 1.2 | 0.0 |
+| Otitis media | 1.2 | 0.0 |
 
 Other events in more than 1% of patients but equally or more frequent in the placebo group included pain, tremor, neuralgia, back pain, dyspepsia, dyspnea, and flu syndrome.
 
@@ -19,33 +62,106 @@ Because there were few patients whose race was reported as other than white, the
 
 ## Epilepsy
 
-The most commonly observed adverse events associated with the use of gabapentin tablets in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
-The most commonly observed adverse events reported with the use of gabapentin tablets in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events).
+The most commonly observed adverse events associated with the use of gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
+The most commonly observed adverse events reported with the use of gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events).
 
-Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin tablets in premarketing clinical trials discontinued treatment because of an adverse event.
+Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse event.
 The adverse events most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
 The adverse events most commonly associated with withdrawal in pediatric patients were emotional lability (1.6%), hostility (1.3%), and hyperkinesia (1.1%).
 
 ### Incidence in Controlled Clinical Trials
 
-TABLE 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin tablets-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin tablets group.
-In these studies, either gabapentin tablets or placebo was added to the patient’s current antiepileptic drug therapy.
+TABLE 4 lists treatment-emergent signs and symptoms that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+In these studies, either gabapentin or placebo was added to the patient’s current antiepileptic drug therapy.
 Adverse events were usually mild to moderate in intensity.
 
-The prescriber should be aware that these figures, obtained when gabapentin tablets was added to concurrent antiepileptic drug therapy, cannot be used to predict the frequency of adverse events in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
+The prescriber should be aware that these figures, obtained when gabapentin was added to concurrent antiepileptic drug therapy, cannot be used to predict the frequency of adverse events in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
-An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.)
+An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and nondrug factors to the adverse event incidences in the population studied.
+
+TABLE 4.
+Treatment-Emergent Adverse Event Incidence in Controlled Add-On Trials In Patients > 12 years of age (Events in at least 1% of gabapentin patients and numerically more frequent than in the placebo group)
+
+| Body System/ Adverse Event | GabapentinPlus background antiepileptic drug therapy N=543 % | PlaceboN=378 % |
+| --- | --- | --- |
+| Body As A Whole |  |  |
+| Fatigue | 11.0 | 5.0 |
+| Weight Increase | 2.9 | 1.6 |
+| Back Pain | 1.8 | 0.5 |
+| Peripheral Edema | 1.7 | 0.5 |
+| Cardiovascular |  |  |
+| Vasodilatation | 1.1 | 0.3 |
+| Digestive System |  |  |
+| Dyspepsia | 2.2 | 0.5 |
+| Mouth or Throat Dry | 1.7 | 0.5 |
+| Constipation | 1.5 | 0.8 |
+| Dental Abnormalities | 1.5 | 0.3 |
+| Increased Appetite | 1.1 | 0.8 |
+| Hematologic and Lymphatic Systems |  |  |
+| Leukopenia | 1.1 | 0.5 |
+| Musculoskeletal System |  |  |
+| Myalgia | 2.0 | 1.9 |
+| Fracture | 1.1 | 0.8 |
+| Nervous System |  |  |
+| Somnolence | 19.3 | 8.7 |
+| Dizziness | 17.1 | 6.9 |
+| Ataxia | 12.5 | 5.6 |
+| Nystagmus | 8.3 | 4.0 |
+| Tremor | 6.8 | 3.2 |
+| Nervousness | 2.4 | 1.9 |
+| Dysarthria | 2.4 | 0.5 |
+| Amnesia | 2.2 | 0.0 |
+| Depression | 1.8 | 1.1 |
+| Thinking Abnormal | 1.7 | 1.3 |
+| Twitching | 1.3 | 0.5 |
+| Coordination Abnormal | 1.1 | 0.3 |
+| Respiratory System |  |  |
+| Rhinitis | 4.1 | 3.7 |
+| Pharyngitis | 2.8 | 1.6 |
+| Coughing | 1.8 | 1.3 |
+| Skin and Appendages |  |  |
+| Abrasion | 1.3 | 0.0 |
+| Pruritus | 1.3 | 0.5 |
+| Urogenital System |  |  |
+| Impotence | 1.5 | 1.1 |
+| Special Senses |  |  |
+| Diplopia | 5.9 | 1.9 |
+| AmblyopiaAmblyopia was often described as blurred vision. | 4.2 | 1.1 |
+| Laboratory Deviations |  |  |
+| WBC Decreased | 1.1 | 0.5 |
 
 Other events in more than 1% of patients >12 years of age but equally or more frequent in the placebo group included: headache, viral infection, fever, nausea and/or vomiting, abdominal pain, diarrhea, convulsions, confusion, insomnia, emotional lability, rash, acne.
 
-Among the treatment-emergent adverse events occurring at an incidence of at least 10% of gabapentin tablets-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
+Among the treatment-emergent adverse events occurring at an incidence of at least 10% of gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
-The overall incidence of adverse events and the types of adverse events seen were similar among men and women treated with gabapentin tablets.
-The incidence of adverse events increased slightly with increasing age in patients treated with either gabapentin tablets or placebo.
+The overall incidence of adverse events and the types of adverse events seen were similar among men and women treated with gabapentin.
+The incidence of adverse events increased slightly with increasing age in patients treated with either gabapentin or placebo.
 Because only 3% of patients (28/921) in placebo-controlled studies were identified as nonwhite (black or other), there are insufficient data to support a statement regarding the distribution of adverse events by race.
 
-TABLE 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin tablets-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin tablets group.
+TABLE 5 lists treatment-emergent signs and symptoms that occurred in at least 2% of gabapentin-treated patients age 3 to 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 Adverse events were usually mild to moderate in intensity.
+
+TABLE 5.
+Treatment-Emergent Adverse Event Incidence in Pediatric Patients Age 3 to 12 Years in a Controlled Add-On Trial (Events in at least 2% of gabapentin patients and numerically more frequent than in the placebo group)
+
+| Body System/ Adverse Event | GabapentinPlus background antiepileptic drug therapy N=119% | Placebo N=128% |
+| --- | --- | --- |
+| Body As A Whole |  |  |
+| Viral Infection | 10.9 | 3.1 |
+| Fever | 10.1 | 3.1 |
+| Weight Increase | 3.4 | 0.8 |
+| Fatigue | 3.4 | 1.6 |
+| Digestive System |  |  |
+| Nausea and/or Vomiting | 8.4 | 7.0 |
+| Nervous System |  |  |
+| Somnolence | 8.4 | 4.7 |
+| Hostility | 7.6 | 2.3 |
+| Emotional Lability | 4.2 | 1.6 |
+| Dizziness | 2.5 | 1.6 |
+| Hyperkinesia | 2.5 | 0.8 |
+| Respiratory System |  |  |
+| Bronchitis | 3.4 | 0.8 |
+| Respiratory Infection | 2.5 | 0.8 |
 
 Other events in more than 2% of pediatric patients 3 to 12 years of age but equally or more frequent in the placebo group included: pharyngitis, upper respiratory infection, headache, rhinitis, convulsions, diarrhea, anorexia, coughing, and otitis media.
 
@@ -53,11 +169,11 @@ Other events in more than 2% of pediatric patients 3 to 12 years of age but equa
 
 ### Clinical Trials in Adults and Adolescents (Except Clinical Trials in Neuropathic Pain)
 
-Gabapentin tablets have been administered to 4717 patients >12 years of age during all adjunctive therapy clinical trials (except clinical trials in patients with neuropathic pain), only some of which were placebo-controlled.
+Gabapentin has been administered to 4717 patients >12 years of age during all adjunctive therapy clinical trials (except clinical trials in patients with neuropathic pain), only some of which were placebo-controlled.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
 These categories are used in the listing below.
-The frequencies presented represent the proportion of the 4717 patients >12 years of age exposed to gabapentin tablets who experienced an event of the type cited on at least one occasion while receiving gabapentin tablets.
+The frequencies presented represent the proportion of the 4717 patients >12 years of age exposed to gabapentin who experienced an event of the type cited on at least one occasion while receiving gabapentin.
 All reported events are included except those already listed in Table 4, those too general to be informative, and those not reasonably associated with the use of the drug.
 
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
@@ -88,7 +204,7 @@ Frequent: arthralgia; Infrequent: tendinitis, arthritis, joint stiffness, joint 
 
 #### Nervous System:
 
-Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction, suicide.
+Frequent: vertigo, hyperkinesia, paresthesia, decreased or absent reflexes, increased reflexes, anxiety, hostility; Infrequent: CNS tumors, syncope, dreaming abnormal, aphasia, hypesthesia, intracranial hemorrhage, hypotonia, dysesthesia, paresis, dystonia, hemiplegia, facial paralysis, stupor, cerebellar dysfunction, positive Babinski sign, decreased position sense, subdural hematoma, apathy, hallucination, decrease or loss of libido, agitation, paranoia, depersonalization, euphoria, feeling high, doped-up sensation, psychosis; Rare: choreoathetosis, orofacial dyskinesia, encephalopathy, nerve palsy, personality disorder, increased libido, subdued temperament, apraxia, fine motor control disorder, meningismus, local myoclonus, hyperesthesia, hypokinesia, mania, neurosis, hysteria, antisocial reaction.
 
 #### Respiratory System:
 
@@ -182,7 +298,7 @@ Infrequent: cough increased, bronchitis, rhinitis, sinusitis, pneumonia, asthma,
 
 Infrequent: pruritus, skin ulcer, dry skin, herpes zoster, skin disorder, fungal dermatitis, furunculosis, herpes simplex, psoriasis, sweating, urticaria, vesiculobullous rash; Rare: acne, hair disorder, maculopapular rash, nail disorder, skin carcinoma, skin discoloration, skin hypertrophy.
 
-#### Special Senses
+#### Special Senses:
 
 Infrequent: abnormal vision, ear pain, eye disorder, taste perversion, deafness; Rare: conjunctival hyperemia, diabetic retinopathy, eye pain, fundi with microhemorrhage, retinal vein thrombosis, taste loss.
 
@@ -192,9 +308,9 @@ Infrequent: urinary tract infection, dysuria, impotence, urinary incontinence, v
 
 ### Postmarketing and Other Experience
 
-In addition to the adverse experiences reported during clinical testing of gabapentin tablets, the following adverse experiences have been reported in patients receiving marketed gabapentin tablets.
+In addition to the adverse experiences reported during clinical testing of gabapentin, the following adverse experiences have been reported in patients receiving marketed gabapentin.
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: angioedema, blood glucose fluctuation, breast hypertrophy, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
+The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.

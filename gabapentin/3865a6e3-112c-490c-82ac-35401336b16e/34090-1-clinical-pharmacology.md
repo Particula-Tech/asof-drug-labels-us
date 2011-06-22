@@ -33,7 +33,7 @@ Food has only a slight effect on the rate and extent of absorption of gabapentin
 
 Less than 3% of gabapentin circulates bound to plasma protein.
 The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58±6 L (Mean ±SD).
-In patients with epilepsy, steadystate predose (Cmin) concentrations of gabapentin in cerebrospinal fluid were approximately 20% of the corresponding plasma concentrations.
+In patients with epilepsy, steady-state predose (Cmin) concentrations of gabapentin in cerebrospinal fluid were approximately 20% of the corresponding plasma concentrations.
 
 ### Elimination:
 
@@ -89,12 +89,12 @@ Gabapentin elimination half-life averaged 4.7 hours and was similar across the a
 A population pharmacokinetic analysis was performed in 253 pediatric subjects between 1 month and 13 years of age.
 Patients received 10 to 65 mg/kg/day given TID.
 Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady state.
-Higher oral clearance valueswere observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
+Higher oral clearance values were observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
 The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
 
-This pharmacokinetic data indicates that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day (see DOSAGE AND ADMINISTRATION).
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day (see DOSAGE AND ADMINISTRATION).
 
 #### Gender:
 
@@ -109,7 +109,7 @@ Because gabapentin is primarily renally excreted and there are no important raci
 
 ### Postherpetic Neuralgia
 
-Gabapentin tablets were evaluated for the management of postherpetic neuralgia (PHN) in 2 randomized, double-blind, placebo-controlled, multicenter studies; N=563 patients in the intent-to-treat (ITT) population (TABLE 1).
+Gabapentin was evaluated for the management of postherpetic neuralgia (PHN) in 2 randomized, double-blind, placebo-controlled, multicenter studies; N=563 patients in the intent-to-treat (ITT) population (TABLE 1).
 Patients were enrolled if they continued to have pain for more than 3 months after healing of the herpes zoster skin rash.
 
 TABLE 1.
@@ -140,53 +140,53 @@ The proportion of responders (those patients reporting at least 50% improvement 
 
 ### Epilepsy
 
-The effectiveness of gabapentin tablets as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
+The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
 
 Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
 The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12-week baseline period (6 weeks in the study of pediatric patients).
-In patients continuing to have at least 2 (or 4 in some studies) seizures per month, gabapentin tablets or placebo was then added on to the existing therapy during a 12-week treatment period.
+In patients continuing to have at least 2 (or 4 in some studies) seizures per month, gabapentin or placebo was then added on to the existing therapy during a 12-week treatment period.
 Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the “responder rate”) and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), where B is the patient’s baseline seizure frequency and T is the patient’s seizure frequency during treatment.
 Response ratio is distributed within the range -1 to +1.
 A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
 A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
 The results given below are for all partial seizures in the intent-to-treat (all patients who received any doses of treatment) population in each study, unless otherwise indicated.
 
-One study compared gabapentin tablets 1200 mg/day divided TID with placebo.
-Responder rate was 23% (14/61) in the gabapentin tablets group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
-Response ratio was also better in the gabapentin tablets group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
+One study compared gabapentin 1200 mg/day divided TID with placebo.
+Responder rate was 23% (14/61) in the gabapentin group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
+Response ratio was also better in the gabapentin group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
 
-A second study compared primarily 1200 mg/day divided TID gabapentin tablets (N=101) with placebo (N=98).
-Additional smaller gabapentin tablets dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
-Responder rate was higher in the gabapentin tablets 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
+A second study compared primarily 1200 mg/day divided TID gabapentin (N=101) with placebo (N=98).
+Additional smaller gabapentin dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
+Responder rate was higher in the gabapentin 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
 The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
-Response ratio was better in the gabapentin tablets 1200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p = 0.224).
-A better response was seen in the gabapentin tablets 600 mg/day group (-0.105) and 1800 mg/day group (-0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
+Response ratio was better in the gabapentin 1200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p = 0.224).
+A better response was seen in the gabapentin 600 mg/day group (-0.105) and 1800 mg/day group (-0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
 
-A third study compared gabapentin tablets 900 mg/day divided TID (N=111) and placebo (N=109).
-An additional gabapentin tablets 1200 mg/day dosage group (N=52) provided dose-response data.
-A statistically significant difference in responder rate was seen in the gabapentin tablets 900 mg/day group (22%) compared to that in the placebo group (10%).
-Response ratio was also statistically significantly superior in the gabapentin tablets 900 mg/day group (-0.119) compared to that in the placebo group (-0.027), as was response ratio in 1200 mg/day gabapentin tablets (-0.184) compared to placebo.
+A third study compared gabapentin 900 mg/day divided TID (N=111) and placebo (N=109).
+An additional gabapentin 1200 mg/day dosage group (N=52) provided dose-response data.
+A statistically significant difference in responder rate was seen in the gabapentin 900 mg/day group (22%) compared to that in the placebo group (10%).
+Response ratio was also statistically significantly superior in the gabapentin 900 mg/day group (-0.119) compared to that in the placebo group (-0.027), as was response ratio in 1200 mg/day gabapentin (-0.184) compared to placebo.
 
-Analyses were also performed in each study to examine the effect of gabapentin tablets on preventing secondarily generalized tonic-clonic seizures.
+Analyses were also performed in each study to examine the effect of gabapentin on preventing secondarily generalized tonic-clonic seizures.
 Patients who experienced a secondarily generalized tonic-clonic seizure in either the baseline or in the treatment period in all three placebo-controlled studies were included in these analyses.
-There were several response ratio comparisons that showed a statistically significant advantage for gabapentin tablets compared to placebo and favorable trends for almost all comparisons.
+There were several response ratio comparisons that showed a statistically significant advantage for gabapentin compared to placebo and favorable trends for almost all comparisons.
 
-Analysis of responder rate using combined data from all three studies and all doses (N=162, gabapentin tablets; N=89, placebo) also showed a significant advantage for gabapentin tablets over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
+Analysis of responder rate using combined data from all three studies and all doses (N=162, gabapentin; N=89, placebo) also showed a significant advantage for gabapentin over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
 
-In two of the three controlled studies, more than one dose of gabapentin tablets was used.
+In two of the three controlled studies, more than one dose of gabapentin was used.
 Within each study the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
 
 In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 
 Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
-There was no consistent pattern indicating that age had any effect on the response to gabapentin tablets.
+There was no consistent pattern indicating that age had any effect on the response to gabapentin.
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
 
-A fourth study in pediatric patients age 3 to 12 years compared 25 – 35 mg/kg/day gabapentin tablets (N=118) with placebo (N=127).
-For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the gabapentin tablets group (-0.146) than for the placebo group (-0.079).
-For the same population, the responder rate for gabapentin tablets (21%) was not significantly different from placebo (18%).
+A fourth study in pediatric patients age 3 to 12 years compared 25 – 35 mg/kg/day gabapentin (N=118) with placebo (N=127).
+For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the gabapentin group (-0.146) than for the placebo group (-0.079).
+For the same population, the responder rate for gabapentin (21%) was not significantly different from placebo (18%).
 
-A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day gabapentin tablets (N=38) with placebo (N=38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).
+A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day gabapentin (N=38) with placebo (N=38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).
 Patients had up to 48 hours of baseline and up to 72 hours of double-blind video EEG monitoring to record and count the occurrence of seizures.
 There were no statistically significant differences between treatments in either the response ratio or responder rate.

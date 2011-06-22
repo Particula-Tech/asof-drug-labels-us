@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-## Gabapentin (GA-ba-PEN´-tin) Tablets USP
+## Gabapentin (gab″ a pen′ tin) Tablets USP
 
 Read the Medication Guide before you start taking gabapentin and each time you get a refill.
 There may be new information.
@@ -10,11 +10,11 @@ This information does not take the place of talking to your healthcare provider 
 
 Do not stop taking gabapentin without first talking to your healthcare provider.
 
-Stopping gabapentin suddenly can cause serious problems
+Stopping gabapentin suddenly can cause serious problems.
 
 Gabapentin can cause serious side effects including:
 
-1. Like other antiepileptic drugs, Gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 50.
+1. Like other antiepileptic drugs, gabapentin may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -46,8 +46,7 @@ Stopping a seizure medicine suddenly in a patient who has epilepsy can cause sei
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-1. Changes in behavior and thinking
-   1. Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+2.Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 
 ## What is gabapentin?
 
@@ -58,8 +57,8 @@ Gabapentin is a prescription medicine used to treat:
 
 ## Who should not take gabapentin?
 
-Do not take gabapentin if you are allergic to gabapentin or any of the other ingredients in gabapentin.
-See the end of this Medication Guide for a complete list of ingredients in gabapentin.
+Do not take gabapentin tablets if you are allergic to gabapentin or any of the other ingredients in gabapentin tablets.
+See the end of this Medication Guide for a complete list of ingredients in gabapentin tablets.
 
 ## What should I tell my healthcare provider before taking gabapentin?
 
@@ -86,7 +85,7 @@ Do not start or stop other medicines without talking to your healthcare provider
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-## How should I take Gabapentin?
+## How should I take gabapentin?
 
 - Take gabapentin exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
@@ -141,15 +140,21 @@ For medical inquiries or to report side effects regarding gabapentin, please cal
 
 Active ingredient: gabapentin USP
 
-Inactive ingredients in the tablets: Corn Starch, Crospovidone, Poloxamer 407, Magnesium Stearate, Polyethylene Glycol, Hypromellose, Titanium Dioxide, Macrogol, Polysorbate 80 and purified water.
+Inactive ingredients in the tablets: corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, talc, hypromellose, titanium dioxide, macrogol, polysorbate 80 and purified water.
 
-Manufactured by: Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
 
 Manufactured for:
 
 Glenmark Generics Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
+1 (888)721-7115
 
-December 2010
+www.glenmarkgenerics.com
+
+June 2011

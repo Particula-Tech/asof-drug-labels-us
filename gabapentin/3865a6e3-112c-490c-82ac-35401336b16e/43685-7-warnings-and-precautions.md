@@ -2,7 +2,7 @@
 
 ## Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including gabapentin tablets, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including gabapentin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -28,7 +28,7 @@ Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing gabapentin tablets or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing gabapentin or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -50,10 +50,10 @@ One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
 Antiepileptic drugs should not be abruptly discontinued because of the possibility of increasing seizure frequency.
 
-In the placebo-controlled studies in patients >12 years of age, the incidence of status epilepticus in patients receiving gabapentin tablets was 0.6% (3 of 543) versus 0.5% in patients receiving placebo (2 of 378).
-Among the 2074 patients >12 years of age treated with gabapentin tablets across all studies (controlled and uncontrolled) 31 (1.5%) had status epilepticus.
+In the placebo-controlled studies in patients >12 years of age, the incidence of status epilepticus in patients receiving gabapentin was 0.6% (3 of 543) versus 0.5% in patients receiving placebo (2 of 378).
+Among the 2074 patients >12 years of age treated with gabapentin across all studies (controlled and uncontrolled) 31 (1.5%) had status epilepticus.
 Of these, 14 patients had no prior history of status epilepticus either before treatment or while on other medications.
-Because adequate historical data are not available, it is impossible to say whether or not treatment with gabapentin tablets is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with gabapentin tablets.
+Because adequate historical data are not available, it is impossible to say whether or not treatment with gabapentin is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with gabapentin.
 
 ## Tumorigenic Potential
 
@@ -62,43 +62,43 @@ In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedl
 The clinical significance of this finding is unknown.
 Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
-In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin tablets.
-Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin tablets, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
+In clinical studies in adjunctive therapy in epilepsy comprising 2085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
+Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
 ## Sudden and Unexplained Death in Patients With Epilepsy
 
-During the course of premarketing development of gabapentin tablets 8 sudden and unexplained deaths were recorded among a cohort of 2203 patients treated (2103 patient-years of exposure).
+During the course of premarketing development of gabapentin 8 sudden and unexplained deaths were recorded among a cohort of 2203 patients treated (2103 patient-years of exposure).
 
 Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
 This represents an incidence of 0.0038 deaths per patient-year.
-Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving gabapentin tablets (ranging from 0.0005 for the general population of epileptics to 0.003 for a clinical trial population similar to that in the gabapentin tablets program, to 0.005 for patients with refractory epilepsy).
-Consequently, whether these figures are reassuring or raise further concern depends on comparability of the populations reported upon to the gabapentin tablets cohort and the accuracy of the estimates provided.
+Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving gabapentin (ranging from 0.0005 for the general population of epileptics to 0.003 for a clinical trial population similar to that in the gabapentin program, to 0.005 for patients with refractory epilepsy).
+Consequently, whether these figures are reassuring or raise further concern depends on comparability of the populations reported upon to the gabapentin cohort and the accuracy of the estimates provided.
 
 # PRECAUTIONS
 
-## Information for patients
+## Information for Patients
 
-Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin tablets USP.
-Instruct patients to take gabapentin tablets USP only as prescribed.
+Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking gabapentin.
+Instruct patients to take gabapentin only as prescribed.
 
-Patients, their caregivers, and families should be counseled that AEDs, including gabapentin tablets, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be counseled that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-Patients should be advised that gabapentin tablets may cause dizziness, somnolence and other symptoms and signs of CNS depression.
-Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin tablets to gauge whether or not it affects their mental and/or motor performance adversely.
+Patients should be advised that gabapentin may cause dizziness, somnolence and other symptoms and signs of CNS depression.
+Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
 
 Patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations.
-Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin tablets or morphine should be reduced appropriately (see Drug Interactions).
+Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of gabapentin or morphine should be reduced appropriately (see Drug Interactions).
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1888-233-2334 (see PRECAUTIONS: Pregnancy).
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
-## Laboratory tests
+## Laboratory Tests
 
-Clinical trials data do not indicate that routine monitoring of clinical laboratory parameters is necessary for the safe use of gabapentin tablets.
+Clinical trials data do not indicate that routine monitoring of clinical laboratory parameters is necessary for the safe use of gabapentin.
 The value of monitoring gabapentin blood concentrations has not been established.
-Gabapentin tablets may be used in combination with other antiepileptic drugs without concern for alteration of the blood concentrations of gabapentin or of other antiepileptic drugs.
+Gabapentin may be used in combination with other antiepileptic drugs without concern for alteration of the blood concentrations of gabapentin or of other antiepileptic drugs.
 
 ## Drug Interactions
 
@@ -112,7 +112,7 @@ The drug interaction data described in this section were obtained from studies i
 
 ### Phenytoin:
 
-In a single (400 mg) and multiple dose (400 mg TID) study of gabapentin tablets in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
+In a single (400 mg) and multiple dose (400 mg TID) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
 
 ### Carbamazepine:
 
@@ -129,14 +129,14 @@ Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabape
 
 ### Naproxen:
 
-Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin tablets (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
 Gabapentin had no effect on naproxen pharmacokinetic parameters.
 These doses are lower than the therapeutic doses for both drugs.
 The magnitude of interaction within the recommended dose ranges of either drug is not known.
 
 ### Hydrocodone:
 
-Coadministration of gabapentin tablets (125 to 500 mg;N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin tablets and 21% to 22% lower, respectively, after administration of 500 mg gabapentin tablets.
+Coadministration of gabapentin (125 to 500 mg;N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
 The mechanism for this interaction is unknown.
 Hydrocodone increases gabapentin AUC values by 14%.
 The magnitude of interaction at other doses is not known.
@@ -144,7 +144,7 @@ The magnitude of interaction at other doses is not known.
 ### Morphine:
 
 A literature article reported that when a 60-mg controlled-release morphine capsule was administered 2 hours prior to a 600-mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS).
-Morphine pharmacokinetic parameter values were not affected by administration of gabapentin tablets 2 hours after morphine.
+Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
 ### Cimetidine:
@@ -207,7 +207,7 @@ In a teratology study in rabbits, an increased incidence of postimplantation fet
 There are no adequate and well-controlled studies in pregnant women.
 This drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-To provide information regarding the effects of in utero exposure to gabapentin tablets, physicians are advised to recommend that pregnant patients taking gabapentin tablets enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -215,23 +215,23 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 Gabapentin is secreted into human milk following oral administration.
 A nursed infant could be exposed to a maximum dose of approximately 1 mg/kg/day of gabapentin.
-Because the effect on the nursing infant is unknown, gabapentin tablets should be used in women who are nursing only if the benefits clearly outweigh the risks.
+Because the effect on the nursing infant is unknown, gabapentin should be used in women who are nursing only if the benefits clearly outweigh the risks.
 
-## Pediatric use
+## Pediatric Use
 
-Safety and effectiveness of gabapentin tablets in the management of postherpetic neuralgia in pediatric patients have not been established.
+Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
 
 Effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established (see CLINICAL PHARMACOLOGY: Clinical Studies).
 
-## Geriatric use
+## Geriatric Use
 
-The total number of patients treated with gabapentin tablets in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
+The total number of patients treated with gabapentin in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
 There was a larger treatment effect in patients 75 years of age and older compared with younger patients who received the same dosage.
 Since gabapentin is almost exclusively eliminated by renal excretion, the larger treatment effect observed in patients ≥75 years may be a consequence of increased gabapentin exposure for a given dose that results from an age-related decrease in renal function.
 However, other factors cannot be excluded.
 The types and incidence of adverse events were similar across age groups except for peripheral edema and ataxia, which tended to increase in incidence with age.
 
-Clinical studies of gabapentin tablets in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
+Clinical studies of gabapentin in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
