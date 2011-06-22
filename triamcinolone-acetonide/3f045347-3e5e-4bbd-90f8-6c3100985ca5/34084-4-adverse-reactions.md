@@ -8,7 +8,7 @@ The most common dose administered within these trials was triamcinolone acetonid
 The most common reported adverse events following administration of triamcinolone acetonide were elevated intraocular pressure and cataract progression.
 These events have been reported to occur in 20-60% of patients.
 
-Less common reactions occurring in up to 2% include endophthalmitis (infectious and non infectious), hypopyon, injection site reactions (described as blurring and transient discomfort), glaucoma, vitreous floaters, and detachment of retinal pigment epithelium, optic disc vascular disorder, eye inflammation, conjunctival hemorrhage and visual acuity reduced.
+Less common reactions occurring in up to 2% include endophthalmitis (infectious and non-infectious), hypopyon, injection site reactions (described as blurring and transient discomfort), glaucoma, vitreous floaters, and detachment of retinal pigment epithelium, optic disc vascular disorder, eye inflammation, conjunctival hemorrhage and visual acuity reduced.
 Cases of exophthalmos have also been reported.
 
 Common adverse reactions for systemically administered corticosteroids include fluid retention, alteration in glucose tolerance, elevation in blood pressure, behavioral and mood changes, increased appetite and weight gain.
@@ -19,7 +19,7 @@ Allergic Reactions: Anaphylactoid reaction, anaphylaxis, angioedema
 
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis
 
-Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scalp, edema, facial erythema, hyper or hypo-pigmentation, impaired wound healing, increased sweating, petechiae and ecchymoses, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria
+Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scalp, edema, facial erythema, hyper or hypopigmentation, impaired wound healing, increased sweating, petechiae and ecchymoses, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria
 
 Endocrine: Abnormal fat deposits, decreased carbohydrate tolerance, development of Cushingoid state, hirsutism, manifestations of latent diabetes mellitus and increased requirements for insulin or oral hypoglycemic agents in diabetics, menstrual irregularities, moon facies, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery or illness), suppression of growth in children
 

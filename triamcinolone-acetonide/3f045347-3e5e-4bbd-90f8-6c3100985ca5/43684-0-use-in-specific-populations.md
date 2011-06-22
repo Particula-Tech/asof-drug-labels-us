@@ -1,8 +1,10 @@
-# 8 USE IN SPECIFIC POPULATIONS SECTION
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category D[See Warnings and Precautions (5.10)]
+Teratogenic Effects: Pregnancy Category D
+
+[See Warnings and Precautions (5.10)]
 
 Multiple cohort and case controlled studies in humans suggest that maternal corticosteroid use during the first trimester increases the rate of cleft lip with or without cleft palate from about 1/1000 infants to 3- 5/1000 infants.
 Two prospective case control studies showed decreased birth weight in infants exposed to maternal corticosteroids in utero.

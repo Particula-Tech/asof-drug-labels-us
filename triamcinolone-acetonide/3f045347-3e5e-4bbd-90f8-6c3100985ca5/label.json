@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022048"
+  ],
   "inn": "triamcinolone-acetonide",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0065-0543-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "triamcinolone acetonide",
+      "name": "TRIESENCE"
+    }
+  ],
   "setid": "3f045347-3e5e-4bbd-90f8-6c3100985ca5",
   "source": "dailymed"
 }

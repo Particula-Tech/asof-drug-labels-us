@@ -2,18 +2,19 @@
 
 ## 5.1 Ophthalmic Effects
 
-Because TRIESENCE™ is a suspension, it should not be administered intravenously.
+TRIESENCE® suspension should not be administered intravenously.
 Strict aseptic technique is mandatory.
 
-### Risk of infection
+Risk of infection
 
 Corticosteroids may mask some signs of infection, and new infections may appear during their use.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
 Corticosteroids may enhance the establishment of secondary ocular infections due to fungi or viruses.
 If an infection occurs during corticosteroid therapy, it should be promptly controlled by suitable antimicrobial therapy.
+
 See also Increased Risks Related to Infection (5.3).
 
-### Elevated Intraocular Pressure
+Elevated Intraocular Pressure
 
 Increases in intraocular pressure associated with triamcinolone acetonide injection have been observed in 20-60% of patients.
 This may lead to glaucoma with possible damage to the optic nerve.
@@ -21,24 +22,24 @@ Effects on intraocular pressure may last up to 6 months following injection and 
 A small percentage of patients may require aggressive non-topical treatment.
 Intraocular pressure as well as perfusion of the optic nerve head should be monitored and managed appropriately.
 
-### Endophthalmitis
+Endophthalmitis
 
 The rate of infectious culture positive endophthalmitis is 0.5%.
 Proper aseptic techniques should always be used when administering triamcinolone acetonide.
 In addition, patients should be monitored following the injection to permit early treatment should an infection occur.
 
-### Cataracts
+Cataracts
 
 Use of corticosteroids may produce cataracts, particularly posterior subcapsular cataracts.
 
-### Patients with Ocular Herpes Simplex
+Patients with Ocular Herpes Simplex
 
 Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
 
 ## 5.2 Alterations in Endocrine Function
 
-Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing’s syndrome, and hyperglycemia.
+Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
 Monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
@@ -56,7 +57,6 @@ The degree to which the dose, route and duration of corticosteroid administratio
 Corticosteroids may mask some signs of infection and may reduce resistance to new infections.
 
 Corticosteroids may exacerbate infections and increase risk of disseminated infection.
-
 The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 Chickenpox and measles can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
@@ -69,7 +69,6 @@ Corticosteroids should be used with great care in patients with known or suspect
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
 Corticosteroids may increase risk of reactivation or exacerbation of latent infection.
-
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
@@ -107,9 +106,9 @@ Special consideration should be given to patients at increased risk of osteoporo
 
 ## 5.8 Vaccination
 
-Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
-Killed or inactivated vaccines may be administered; however, the response to such vaccines can not be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
+Administration of live or live attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered; however, the response to such vaccines cannot be predicted.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
 While on corticosteroid therapy, patients should not be vaccinated against smallpox.
 Other immunization procedures should not be undertaken in patients who are on corticosteroids, especially on high dose, because of possible hazards of neurological complications and a lack of antibody response.
@@ -124,7 +123,7 @@ Growth and development of pediatric patients on prolonged corticosteroid therapy
 Triamcinolone acetonide can cause fetal harm when administered to a pregnant woman.
 Human and animal studies suggest that use of corticosteroids during the first trimester of pregnancy is associated with an increased risk of orofacial clefts, intrauterine growth restriction and decreased birth weight.
 If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus.
-[See Use in Specific Populations (8.1)].
+[See Use inSpecific Populations (8.1)].
 
 ## 5.11 Weight Gain
 
@@ -140,7 +139,7 @@ This acute myopathy is generalized, may involve ocular and respiratory muscles, 
 Elevation of creatine kinase may occur.
 Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
 
-## 5.13 Kaposi’s Sarcoma
+## 5.13 Kaposi's Sarcoma
 
-Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.

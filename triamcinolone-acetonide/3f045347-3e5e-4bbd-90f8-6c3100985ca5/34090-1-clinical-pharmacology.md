@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states.
-Their synthetic analogs such as prednisolone and triamcinolone are primarily used for their anti inflammatory effects in disorders of many organ systems.
+Their synthetic analogs such as prednisolone and triamcinolone are primarily used for their anti-inflammatory effects in disorders of many organ systems.
 
 Triamcinolone acetonide possesses glucocorticoid activity typical of this class of drug, but with little or no mineralocorticoid activity.
 For the purposes of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
