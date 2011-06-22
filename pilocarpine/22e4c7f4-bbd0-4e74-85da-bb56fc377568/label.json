@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA200890"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0998-0203-15",
+    "0998-0204-15",
+    "0998-0206-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "pilocarpine hydrochloride",
+      "name": "ISOPTO CARPINE"
+    }
+  ],
+  "setid": "22e4c7f4-bbd0-4e74-85da-bb56fc377568",
+  "source": "dailymed"
+}
