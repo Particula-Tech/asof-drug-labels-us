@@ -6,12 +6,15 @@ NDC 67386-511-51.
 
 ## Storage
 
-Store below 30°C (86°F).
+Store at 20-25°C (68-77°F).
+See USP controlled room temperature.
 Protect from light.
 Store container in carton until contents have been used.
 
-Manufactured by Merck & Co. Inc., Whitehouse Station, NJ 08889, U.S.A. for:
+Manufactured by: Merck & Co., Inc., Whitehouse Station, NJ 08889, U.S.A.
 
-OVATION Pharmaceuticals, Deerfield, IL 60015, U.S.A.
+For: Lundbeck Inc., Deerfield, IL 60015, U.S.A.
 
-Revised July 2006
+® Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+
+Revised: January 2010

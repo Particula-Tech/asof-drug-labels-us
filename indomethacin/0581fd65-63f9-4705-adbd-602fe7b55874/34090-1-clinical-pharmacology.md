@@ -8,6 +8,7 @@ In fetal and newborn lambs, E type prostaglandins have also been shown to mainta
 Studies in healthy young animals and in premature infants with patent ductus arteriosus indicated that, after the first dose of intravenous indomethacin, there was a transient reduction in cerebral blood flow velocity and cerebral blood flow.
 Similar decreases in mesenteric blood flow and velocity have been observed.
 The clinical significance of these effects has not been established.
+
 In double-blind, placebo-controlled studies of INDOCIN I.V. in 460 small pre-term infants, weighing 1750 g or less, the neonates treated with placebo had a ductus closure rate after 48 hours of 25 to 30 percent, whereas those treated with INDOCIN I.V. had a 75 to 80 percent closure rate.
 In one of these studies, a multicenter study, involving 405 pre-term infants, later re-opening of the ductus arteriosus occurred in 26 percent of neonates treated with INDOCIN I.V., however, 70 percent of these closed subsequently without the need for surgery or additional indomethacin.
 

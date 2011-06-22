@@ -5,7 +5,7 @@
 In the collaborative study, major gastrointestinal bleeding was no more common in those neonates receiving indomethacin than in those neonates on placebo.
 However, minor gastrointestinal bleeding (i.e., chemical detection of blood in the stool) was more commonly noted in those neonates treated with indomethacin.
 Severe gastrointestinal effects have been reported in adults with various arthritic disorders treated chronically with oral indomethacin.
-[For further information, see package insert for Capsules INDOCINRegistered trademark of Merck & Co., Inc., Whitehouse Station, NJ, U.S.A. (Indomethacin).]
+[For further information, see package insert for Capsules INDOCIN® (Indomethacin).]
 
 ## Central Nervous System Effects
 
@@ -60,7 +60,7 @@ When indomethacin is added to anticoagulants, prothrombin time should be monitor
 In post marketing experience, bleeding has been reported in patients on concomitant treatment with anticoagulants and INDOCIN I.V.
 Caution should be exercised when INDOCIN I.V. and anticoagulants are administered concomitantly.
 
-In some patients with compromised renal function, the co-administration of an NSAID and an ACE inhibitor or angiotensin II antagonist may result in further deterioration of renal function,including possible acute renal failure, which is usually reversible.
+In some patients with compromised renal function, the co-administration of an NSAID and an ACE inhibitor or angiotensin II antagonist may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible.
 
 ## Neonatal Effects
 

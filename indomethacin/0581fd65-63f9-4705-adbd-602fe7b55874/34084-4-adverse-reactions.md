@@ -14,7 +14,7 @@ In controlled clinical studies, only electrolyte imbalance and renal dysfunction
 Reactions marked with a single asterisk (*) occurred in 3-9 percent of indomethacin-treated neonates; those marked with a double asterisk (**) occurred in 3-9 percent of both indomethacin- and placebo-treated neonates.
 Unmarked reactions occurred in less than 3 percent of neonates.
 
-Renal: renal dysfunction in 41 percent of neonates, including one or more of the following: reduced urinary output; reduced urine sodium, chloride, or potassium, urine osmolality, free water clearance, or glomerular filtration rate; elevated serum creatinine or BUN; uremia.
+Renal: renal failure, renal dysfunction in 41 percent of neonates, including one or more of the following: reduced urinary output; reduced urine sodium, chloride, or potassium, urine osmolality, free water clearance, or glomerular filtration rate; elevated serum creatinine or BUN; uremia.
 
 Cardiovascular: intracranial bleeding**, pulmonary hypertension.
 
@@ -32,9 +32,11 @@ Respiratory: apnea, exacerbation of pre-existing pulmonary infection.
 
 Metabolic: acidosis/alkalosis.
 
-Hematologic: disseminated intravascular coagulation.
+Hematologic: disseminated intravascular coagulation, thrombocytopenia.
 
 Ophthalmic: retrolental fibroplasia.**
 
-A variety of additional adverse experiences have been reported in adults treated with oral indomethacin for moderate to severe rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, acute painful shoulder and acute gouty arthritis (see package insert for Capsules INDOCIN (Indomethacin) for additional information concerning adverse reactions and other cautionary statements).
+A variety of additional adverse experiences have been reported in adults treated with oral indomethacin for moderate to severe rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, acute painful shoulder and acute gouty arthritis (see package insert for Capsules INDOCIN (indomethacin) for additional information concerning adverse reactions and other cautionary statements).
 Their relevance to the pre-term infant receiving indomethacin for patent ductus arteriosus is unknown, however, the possibility exists that these experiences may be associated with the use of INDOCIN I.V. in pre-term infants.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Lundbeck Inc. at 1-800-455-1141 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

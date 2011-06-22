@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018878"
+  ],
   "inn": "indomethacin",
-  "labeler": "OVATION Pharmaceuticals",
+  "labeler": "Lundbeck Inc.",
   "package_ndcs": [
     "67386-511-51"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "indomethacin",
+      "name": "Indocin"
+    }
+  ],
   "setid": "0581fd65-63f9-4705-adbd-602fe7b55874",
   "source": "dailymed"
 }
