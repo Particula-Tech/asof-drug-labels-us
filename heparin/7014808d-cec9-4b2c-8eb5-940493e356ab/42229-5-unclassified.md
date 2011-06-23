@@ -1,11 +1,7 @@
 Rx only
 
-Baxter, Clear ID and the Diagonal Design are trademarks of Baxter International, Inc.
+Manufactured by: West-Ward Pharmaceuticals Eatontown, NJ 07724 USA
 
-Patents Pending
-
-Baxter Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+Revised January 2011
 
 MLT-01119, E

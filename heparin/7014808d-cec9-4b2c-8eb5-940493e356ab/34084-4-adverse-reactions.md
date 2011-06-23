@@ -9,12 +9,12 @@ An overly prolonged clotting time or minor bleeding during therapy can usually b
 It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
 Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
 
-1. Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
-   Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
-   Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
-2. Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
-   This complication, if unrecognized, may be fatal.
-3. Retroperitoneal hemorrhage.
+- Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
+  Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
+  Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
+- Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
+  This complication, if unrecognized, may be fatal.
+- Retroperitoneal hemorrhage.
 
 ## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis).
 
