@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018741"
+  ],
   "inn": "betamethasone",
   "labeler": "Schering Corporation",
   "package_ndcs": [
     "0085-0575-02",
     "0085-0575-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "betamethasone dipropionate",
+      "name": "DIPROLENE"
+    }
+  ],
   "setid": "b1b60231-b673-47ff-8217-d342d51164fc",
   "source": "dailymed"
 }
