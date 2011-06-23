@@ -30,12 +30,11 @@ Brief exposure up to 35°C/95°F does not adversely affect the product.
 
 ______________________________________________________________________
 
-U.S. Pat.
-Nos. 4,692,361; 4,779,997 Baxter and GALAXY are trademarks of Baxter International Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 PL 2501 Plastic
 
-07-34-47-202 07-34-47-202
+07-34-63-666
 
 Baxter Famotidine Injection
 
