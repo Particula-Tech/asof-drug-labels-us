@@ -12,7 +12,7 @@ U.S. adverse experience data are derived from 350 immunocompromised patients (33
 Table 2 below lists adverse events reported by at least 2% of patients treated with SPORANOX® Oral Solution in U.S. clinical trials.
 Data on patients receiving comparator agents in these trials are included for comparison.
 
-Table2: Summary of Adverse Events Reported by ≥2% of SPORANOX® Treated Patients in U.S. Clinical Trials (Total)
+Table 2: Summary of Adverse Events Reported by ≥2% of SPORANOX® Treated Patients in U.S. Clinical Trials (Total)
 
 | Total (n = 350Of the 350 patients, 209 were treated for oropharyngeal candidiasis in controlled studies, 63 were treated for esophageal candidiasis in controlled studies and 78 were treated for oropharyngeal candidiasis in an open study.) % | All controlled studies (n = 272) % | Fluconazole (n = 125Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis.) % | Clotrimazole (n = 81All 81 patients were treated for oropharyngeal candidiasis.) % |  |
 | --- | --- | --- | --- | --- |
@@ -68,10 +68,10 @@ Postmarketing Reports of Adverse Drug Reactions
 | Eye disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and labyrinth disorders: | Transient or permanent hearing loss, tinnitus |
 | Cardiac disorders: | Congestive heart failure |
-| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema |
+| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema, dyspnea |
 | Gastrointestinal disorders: | Pancreatitis, abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation, dysgeusia |
 | Hepato-biliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
-| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
+| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
 | Musculoskeletal and connective tissue disorders: | Myalgia, arthralgia |
 | Renal and urinary disorders: | Urinary incontinence, pollakiuria |
 | Reproductive system and breast disorders: | Menstrual disorders, erectile dysfunction |

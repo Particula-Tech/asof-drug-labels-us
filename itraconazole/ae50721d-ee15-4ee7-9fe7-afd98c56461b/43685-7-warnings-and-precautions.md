@@ -46,7 +46,7 @@ Cases of CHF, peripheral edema, and pulmonary edema have been reported in the po
 
 ## Cystic Fibrosis
 
-If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy (see CLINICAL PHARMACOLOGY/Special Populations).
+If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy (see CLINICAL PHARMACOLOGY: Special Populations).
 
 ## Treatment of Severely Neutropenic Patients
 
@@ -93,7 +93,7 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 ## Drug Interactions
 
 Itraconazole and its major metabolite, hydroxyitraconazole, are inhibitors of CYP3A4.
-Therefore, the following drug interactions may occur (See Table 1 below and the following drug class subheadings that follow):
+Therefore, the following drug interactions may occur (See Table 1 below and the drug class subheadings that follow):
 
 1. SPORANOX® may decrease the elimination of drugs metabolized by CYP3A4, resulting in increased plasma concentrations of these drugs when they are administered with SPORANOX®.
    These elevated plasma concentrations may increase or prolong both therapeutic and adverse effects of these drugs.
@@ -107,7 +107,7 @@ Therefore, the following drug interactions may occur (See Table 1 below and the 
 3. Other inhibitors of CYP3A4 may increase the plasma concentrations of itraconazole.
    Patients who must take SPORANOX® concomitantly with one of these drugs should be monitored closely for signs or symptoms of increased or prolonged pharmacologic effects of SPORANOX®.
 
-Table 1: Selected Drugs that are Predicted to Alter the Plasma Concentration of Itraconazole or Have Their Plasma Concentration Altered by SPORANOX®This list is not all-inclusive.
+Table 1: Selected Drugs that Are Predicted to Alter the Plasma Concentration of Itraconazole or Have Their Plasma Concentration Altered by SPORANOX®This list is not all-inclusive.
 
 | Drug plasma concentration increased by itraconazole |  |
 | --- | --- |
@@ -184,7 +184,7 @@ Concomitant administration of SPORANOX® and alprazolam, diazepam, oral midazola
 Increased plasma concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant administration of SPORANOX® and oral midazolam or triazolam is contraindicated.
 (See CONTRAINDICATIONS and WARNINGS.)
-If midazolam is administered parenterally, special precaution and patient monitoring is required since the sedative effect may be prolonged.
+If midazolam is administered parenterally, special precaution and patient monitoring are required since the sedative effect may be prolonged.
 
 Calcium Channel Blockers
 
@@ -193,7 +193,8 @@ Appropriate dosage adjustment may be necessary.
 
 Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole; itraconazole can inhibit the metabolism of calcium channel blockers such as dihydropyridines (e.g., nifedipine and felodipine) and verapamil.
 Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
-Concomitant administration of SPORANOX® and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction, therefore the concomitant administration of SPORANOX® and nisoldipine is contraindicated.
+Concomitant administration of SPORANOX® and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction.
+Therefore the concomitant administration of SPORANOX® and nisoldipine is contraindicated.
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
 Gastric Acid Suppressors/Neutralizers
@@ -258,14 +259,14 @@ Other
 - Levacetylmethadol (levomethadyl) is known to prolong the QT interval and is metabolized by CYP3A4.
   Co-administration of levacetylmethadol with SPORANOX® could result in serious cardiovascular events.
   Therefore, concomitant administration of SPORANOX® and levacetylmethadol is contraindicated.
-- Elevated concentrations of ergot alkaloids can cause ergotism, i.e., a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
+- Elevated concentrations of ergot alkaloids can cause ergotism, ie. a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
   Concomitant administration of ergot alkaloids such as dihydroergotamine, ergometrine (ergonovine), ergotamine and methylergometrine (methylergonovine) with SPORANOX® is contraindicated.
 - Halofantrine has the potential to prolong the QT interval at high plasma concentrations.
   Caution is advised when SPORANOX® and halofantrine are administered concomitantly.
 - In vitro data suggest that alfentanil is metabolized by CYP3A4.
   Administration with SPORANOX® may increase plasma concentrations of alfentanil.
 - Human pharmacokinetic data suggest that concomitant administration of SPORANOX® and buspirone results in significant increases in plasma concentrations of buspirone.
-- SPORANOX® may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone, fluticasone, and methylprednisolone.
+- SPORANOX® may inhibit the metabolism of certain glucocorticosteroids such as budesonide, dexamethasone, fluticasone and methylprednisolone.
 - In vitro data suggest that trimetrexate is extensively metabolized by CYP3A4.
   In vitro animal models have demonstrated that ketoconazole potently inhibits the metabolism of trimetrexate.
   Although there are no data regarding the effect of itraconazole on trimetrexate metabolism, because of the similarities between ketoconazole and itraconazole, concomitant administration of SPORANOX® and trimetrexate may inhibit the metabolism of trimetrexate.
@@ -284,7 +285,7 @@ Hydroxypropyl-β-cyclodextrin (HP-β-CD), the solubilizing excipient used in SPO
 Adenocarcinomas of the exocrine pancreas produced in the treated animals were not seen in the untreated group and are not reported in the historical controls.
 Development of these tumors may be related to a mitogenic action of cholecystokinin.
 This finding was not observed in the mouse carcinogenicity study at doses of 500, 2000 or 5000 mg/kg/day for 22–23 months; however, the clinical relevance of these findings is unknown.
-Based on body surface area comparisons, the exposure to humans of HP-β-CD at the recommended clinical dose of SPORANOX® Oral Solution, is approximately equivalent to 1.7 times the exposure at the lowest dose in the rat study.
+Based on body surface area comparisons, the exposure to humans of HP-β-CD at the recommended clinical dose of SPORANOX® Oral Solution is approximately equivalent to 1.7 times the exposure at the lowest dose in the rat study.
 
 Itraconazole produced no mutagenic effects when assayed in a DNA repair test (unscheduled DNA synthesis) in primary rat hepatocytes, in Ames tests with Salmonella typhimurium (6 strains) and Escherichia coli, in the mouse lymphoma gene mutation tests, in a sex-linked recessive lethal mutation (Drosophila melanogaster) test, in chromosome aberration tests in human lymphocytes, in a cell transformation test with C3H/10T½ C18 mouse embryo fibroblasts cells, in a dominant lethal mutation test in male and female mice, and in micronucleus tests in mice and rats.
 
@@ -304,7 +305,7 @@ There are no studies in pregnant women.
 SPORANOX® should be used in pregnancy only if the benefit outweighs the potential risk.
 
 During post-marketing experience, cases of congenital abnormalities have been reported.
-(See ADVERSE REACTIONS, Post-marketing Experience.)
+(See ADVERSE REACTIONS: Post-marketing Experience.)
 
 ## Nursing Mothers
 

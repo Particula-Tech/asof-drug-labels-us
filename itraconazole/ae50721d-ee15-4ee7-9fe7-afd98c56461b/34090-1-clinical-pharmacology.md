@@ -29,7 +29,7 @@ The following table contains pharmacokinetic parameters for itraconazole and hyd
 | Oral Solution fasted | Capsules fed | Oral Solution fasted | Capsules fed |  |
 | --- | --- | --- | --- | --- |
 |  | Itraconazole |  | Hydroxyitraconazole |  |
-| Cmax (ng/mL) | 544 ± 213mean standard deviation | 302 ± 119 | 622 ± 116 | 504 ± 132 |
+| Cmax (ng/mL) | 544 ± 213mean ± standard deviation | 302 ± 119 | 622 ± 116 | 504 ± 132 |
 | Tmax (hours) | 2.2 ± 0.8 | 5 ± 0.8 | 3.5 ± 1.2 | 5 ± 1 |
 | AUC0–24h (ng∙h/mL) | 4505 ± 1670 | 2682 ± 1084 | 9552 ± 1835 | 7293 ± 2144 |
 

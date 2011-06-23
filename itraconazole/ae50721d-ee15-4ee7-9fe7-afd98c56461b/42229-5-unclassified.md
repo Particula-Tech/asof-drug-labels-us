@@ -1,4 +1,4 @@
-Revised April 2011 ©Centocor Ortho Biotech Products, L.P.
+Revised June 2011 ©Centocor Ortho Biotech Products, L.P.
 2003
 
 Manufactured by: Janssen Pharmaceutica N.V.
