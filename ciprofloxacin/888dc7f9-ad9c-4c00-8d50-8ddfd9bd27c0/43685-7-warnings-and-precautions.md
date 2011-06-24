@@ -280,7 +280,7 @@ Inhalational Anthrax (Post-Exposure)
 
 Ciprofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate.
-For information regarding pediatric dosing in inhalational anthrax (post-exposure), see DOSAGE AND ADMINISTRATION and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION).
+For information regarding pediatric dosing in inhalational anthrax (post-exposure), see DOSAGE AND ADMINISTRATION and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION.
 
 Complicated Urinary Tract Infection and Pyelonephritis
 

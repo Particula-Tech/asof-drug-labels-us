@@ -339,7 +339,7 @@ What are the ingredients in CIPRO?
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised February 2011
+Revised June 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -349,7 +349,7 @@ CIPRO is a registered trademark of Bayer Aktiengesellschaft.
 
 Rx Only
 
-4/11
+6/11
 
 ©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
 
