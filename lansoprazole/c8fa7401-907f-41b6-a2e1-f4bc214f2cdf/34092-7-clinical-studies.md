@@ -58,7 +58,7 @@ H. pylori Eradication Rates- Triple Therapy
 
 | (Lansoprazole/amoxicillin/clarithromycin)Percent of Patients Cured[95% Confidence Interval](Number of patients) |  |  |  |
 | --- | --- | --- | --- |
-| Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtext, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple TherapyIntent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| Study | Duration | Triple Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the evaluable analysis as failures of therapy. | Triple TherapyIntent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | M93-131 | 14 days | 92(p < 0.05) versus lansoprazole/amoxicillin and lansoprazole/clarithromycin dual therapy.[80 to 97.7](n = 48) | 86[73.3 to 93.5](n = 55) |
 | M95-392 | 14 days | 86(p < 0.05) versus clarithromycin/amoxicillin dual therapy.[75.7 to 93.6](n = 66) | 83[72 to 90.8](n = 70) |
 | M95-399The 95% confidence interval for the difference in eradication rates, 10-day minus 14-day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85[77 to 91](n = 113) | 82[73.9 to 88.1](n = 126) |
@@ -69,7 +69,7 @@ H. pylori Eradication Rates- 14-Day Dual Therapy
 
 | (Lansoprazole/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |
 | --- | --- | --- |
-| Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failure of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
+| Study | Dual Therapy Evaluable AnalysisBased on evaluable patients with confirmed duodenal ulcer (active or within one year) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest, histology and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. | Dual Therapy Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within one year). All dropouts were included as failures of therapy. |
 | M93-131 | 77(p < 0.05) versus lansoprazole alone. [62.5 to 87.2] (n = 51) | 70 [56.8 to 81.2] (n = 60) |
 | M93-125 | 66(p < 0.05) versus lansoprazole alone or amoxicillin alone. [51.9 to 77.5] (n = 58) | 61 [48.5 to 72.9] (n = 67) |
 
@@ -143,13 +143,13 @@ Risk Reduction of NSAID-Associated Gastric Ulcer
 In one large U.S., multicenter, double-blind, placebo-and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at 4, 8 and 12 weeks was significantly higher with 15 mg or 30 mg of lansoprazole than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
-Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
+Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
 The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 16).
 [See Indications and Usage (1.6).]
 
 Table 16.
-Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate (p < 0.001) Lansoprazole 15 mg daily versus placebo; lansoprazole 30 mg daily versus placebo; and misoprostol 200 mcg q.i.d. versus placebo.
-(p < 0.05) Misoprostol 200 mcg q.i.d. versus lansoprazole 15 mg daily; and misoprostol 200 mcg q.i.d. versus lansoprazole 30 mg daily
+Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate (p < 0.001) Lansoprazole 15 mg daily versus placebo; lansoprazole 30 mg daily versus placebo; and misoprostol 200 mcg 4 times daily versus placebo.
+(p < 0.05) Misoprostol 200 mcg 4 times daily versus lansoprazole 15 mg daily; and misoprostol 200 mcg 4 times daily versus lansoprazole 30 mg daily
 
 |  | Lansoprazole | Lansoprazole | Misoprostol | Placebo |
 | --- | --- | --- | --- | --- |

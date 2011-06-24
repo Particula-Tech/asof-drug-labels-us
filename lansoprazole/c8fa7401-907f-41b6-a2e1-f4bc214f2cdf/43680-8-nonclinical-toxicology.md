@@ -16,8 +16,8 @@ Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75
 
 A 26-week p53 (+/-) transgenic mouse carcinogenicity study was not positive.
 
-Lansoprazole was not genotoxic in the Ames test, the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test, or the rat bone marrow cell chromosomal aberration test.
-It was positive in in vitro human lymphocyte chromosomal aberration assays.
+Lansoprazole was positive in the Ames test and the in vitro human lymphocyte chromosomal abbreation assay.
+Lansoprazole was not genotoxic in the ex vivo rat hepatocyte unscheduled DNA synthesis (UDS) test, the in vivo mouse micronucleus test or the rat bone marrow cell chromosomal aberration test.
 
 Lansoprazole at oral doses up to 150 mg/kg/day (40 times the recommended human dose based on BSA) was found to have no effect on fertility and reproductive performance of male and female rats.
 
