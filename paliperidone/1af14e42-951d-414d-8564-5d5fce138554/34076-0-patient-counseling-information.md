@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA® SUSTENNA®.
-See FDA-approved patient labeling.
+See FDA-approved patient labeling (Information for Patients and Caregivers).
 
 ## 17.1 Orthostatic Hypotension
 
@@ -13,11 +13,11 @@ As INVEGA® SUSTENNA® has the potential to impair judgment, thinking, or motor 
 
 ## 17.3 Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with INVEGA® SUSTENNA®[see Use in Specific Populations (8.1)].
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with INVEGA® SUSTENNA® [see Use in Specific Populations (8.1)].
 
 ## 17.4 Nursing
 
-Patients should be advised not to breast-feed an infant during treatment with INVEGA® SUSTENNA®[see Use in Specific Populations (8.3)].
+Patients should be advised not to breast-feed an infant during treatment with INVEGA® SUSTENNA® [see Use in Specific Populations (8.3)].
 
 ## 17.5 Concomitant Medication
 
@@ -25,7 +25,7 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 ## 17.6 Alcohol
 
-Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA®[see Drug Interactions (7.1)].
+Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA® [see Drug Interactions (7.1)].
 
 ## 17.7 Heat Exposure and Dehydration
 

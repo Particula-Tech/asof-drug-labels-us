@@ -37,6 +37,16 @@ Therefore, women receiving INVEGA® SUSTENNA® should not breast feed infants.
 
 Safety and effectiveness of INVEGA® SUSTENNA® in patients < 18 years of age have not been established.
 
+In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents.
+No other consistent effects on neurobehavioral or reproductive development were seen up to the highest dose tested (2.5 mg/kg/day), which produced plasma levels of paliperidone 2–3 times those in adolescents.
+
+Juvenile dogs were treated for 40 weeks with oral risperidone, which is extensively metabolized to paliperidone in animals and humans, at doses of 0.31, 1.25, or 5 mg/kg/day.
+Decreased bone length and density were seen with a no-effect dose of 0.31 mg/kg/day, which produced plasma levels (AUC) of risperidone plus paliperidone which were similar to those in children and adolescents receiving the maximum recommended human dose of risperidone.
+In addition, a delay in sexual maturation was seen at all doses in both males and females.
+The above effects showed little or no reversibility in females after a 12-week drug-free recovery period.
+
+The long-term effects of paliperidone on growth and sexual maturation have not been fully evaluated in children and adolescents.
+
 ## 8.5 Geriatric Use
 
 Clinical studies of INVEGA® SUSTENNA® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

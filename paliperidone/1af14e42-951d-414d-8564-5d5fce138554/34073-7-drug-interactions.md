@@ -17,6 +17,11 @@ Paliperidone is also not expected to have enzyme inducing properties.
 Paliperidone is a weak inhibitor of P-glycoprotein (P-gp) at high concentrations.
 No in vivo data are available and the clinical relevance is unknown.
 
+Pharmacokinetic interaction between INVEGA® SUSTENNA® and lithium is unlikely.
+
+In a drug interaction study, co-administration of oral paliperidone extended-release tablets (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC24h and Cmax,ss) of valproate in 13 patients stabilized on valproate.
+In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when oral paliperidone extended-release tablets 3–15 mg/day was added to their existing valproate treatment.
+
 ## 7.2 Potential for Other Drugs to Affect INVEGA® SUSTENNA®
 
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.
@@ -36,3 +41,5 @@ The clinical relevance is unknown.
 
 Co-administration of a single dose of an oral paliperidone extended-release 12 mg tablet with divalproex sodium extended-release tablets (two 500 mg tablets once daily at steady-state) resulted in an increase of approximately 50% in the Cmax and AUC of paliperidone.
 Although this interaction has not been studied with INVEGA® SUSTENNA®, a clinically significant interaction would not be expected between divalproex sodium and INVEGA® SUSTENNA® intramuscular injection.
+
+Pharmacokinetic interaction between lithium and INVEGA® SUSTENNA® is unlikely.
