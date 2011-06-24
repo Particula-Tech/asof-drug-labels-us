@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019651"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Warner Chilcott (US), LLC",
+  "package_ndcs": [
+    "0430-0752-27"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "ASACOL"
+    }
+  ],
+  "setid": "d91179bf-48ce-423c-822d-cd06b60caabe",
+  "source": "dailymed"
+}
