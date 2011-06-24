@@ -94,7 +94,7 @@ If chicken pox develops, treatment with antiviral agents should be considered.
 ## Neurologic
 
 Epidural and intrathecal administration of this product is not recommended.
-Reports of serious medical events have been associated with epidural and intrathecal routes of administration (see ADVERSE REACTIONS: Gastrointestinal and Neurologic/Psychiatric).
+Reports of serious medical events, including death, have been associated with epidural and intrathecal routes of corticosteroid administration (see ADVERSE REACTIONS: Gastrointestinal and Neurologic/Psychiatric).
 
 ## Ophthalmic
 
@@ -174,7 +174,7 @@ This acute myopathy is generalized, may involve ocular and respiratory muscles, 
 Elevation of creatinine kinase may occur.
 Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
 
-Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
+Psychiatric derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
 ## Ophthalmic
