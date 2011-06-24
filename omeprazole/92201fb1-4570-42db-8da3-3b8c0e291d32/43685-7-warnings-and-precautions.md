@@ -48,6 +48,14 @@ Clarithromycin should not be used in pregnant women except in clinical circumsta
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
 (See Warnings in prescribing information for clarithromycin.)
 
-Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14-hydroxy-clarithromycin [See Clinical Pharmacology (12)].
+Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14-hydroxy-clarithromycin [see Clinical Pharmacology (12)].
 
 Concomitant administration of clarithromycin with cisapride or pimozide, is contraindicated.
+
+## 5.7 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.3)].

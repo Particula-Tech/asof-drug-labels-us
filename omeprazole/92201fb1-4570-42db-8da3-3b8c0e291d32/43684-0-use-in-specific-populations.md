@@ -18,6 +18,7 @@ The author concluded that both effects may be random.
 A retrospective cohort study reported on 689 pregnant women exposed to either H2–blockers or omeprazole in the first trimester (134 exposed to omeprazole).
 The overall malformation rate was 4.4% (95% CI 3.6–5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5–8.1).
 The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3–2.2).
+
 The study could effectively rule out a relative risk greater than 2.5 for all malformations.
 Rates of preterm delivery or growth retardation did not differ between the groups.
 
@@ -30,7 +31,7 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
 In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.
-In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring [See Animal Toxicology and/or Pharmacology (13.2)].
+In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring [see Animal Toxicology and/or Pharmacology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -42,7 +43,7 @@ Because omeprazole is excreted in human milk, because of the potential for serio
 ## 8.4 Pediatric Use
 
 Use of Omeprazole Delayed-Release Capsules in pediatric and adolescent patients 2 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of Omeprazole Delayed-Release Capsules for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3)and Dosage and Administration (2), Adverse Reactions (6.1) and Clinicial Studies (14.6)].
+[see Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information (12.3)and Dosage and Administration (2), Adverse Reactions (6.1) and Clinicial Studies (14.6)].
 The safety and effectiveness of Omeprazole Delayed-Release Capsules for the treatment of GERD in patients < 1 year of age have not been established.
 The safety and effectiveness of Omeprazole Delayed-Release Capsules for other pediatric uses have not been established.
 
@@ -54,16 +55,16 @@ Other reported clinical experience has not identified differences in response be
 
 Pharmacokinetic studies have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
-However, no dosage adjustment is necessary in the elderly [See Clinical Pharmacology (12.3)].
+However, no dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [See Clinical Pharmacology (12.3)].
+Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-No dosage reduction is necessary [See Clinical Pharmacology (12.3)].
+No dosage reduction is necessary [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Population
 
-Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [See Clinical Pharmacology (12.3)].
+Consider dose reduction, particularly for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].

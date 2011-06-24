@@ -42,7 +42,7 @@ Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks afte
 Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [See Clinical Pharmacology (12)].
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Clinical Pharmacology (12)].
 However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
@@ -64,7 +64,7 @@ The course of Barrett's esophagus in 106 patients was evaluated in a U.S. double
 No clinically significant impact on Barrett's mucosa by antisecretory therapy was observed.
 Although neosquamous epithelium developed during antisecretory therapy, complete elimination of Barrett's mucosa was not achieved.
 No significant difference was observed between treatment groups in development of dysplasia in Barrett's mucosa and no patient developed esophageal carcinoma during treatment.
-No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [See Clinical Pharmacology (12)].
+No significant differences between treatment groups were observed in development of ECL cell hyperplasia, corpus atrophic gastritis, corpus intestinal metaplasia, or colon polyps exceeding 3 mm in diameter [see Clinical Pharmacology (12)].
 
 ## 12.3 Pharmacokinetics
 
@@ -148,7 +148,7 @@ Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated O
 | AUC‡(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 | * Data from single and repeated dose studies† Data from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated microtabletsNote: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg. |  |  |  |
 
-Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ [See Dosage and Administration (2)].
+Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to16 years of age or adults; AUCs of the latter two groups did not differ [see Dosage and Administration (2)].
 
 Hepatic Impairment
 

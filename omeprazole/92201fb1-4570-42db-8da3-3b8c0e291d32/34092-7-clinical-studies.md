@@ -206,13 +206,13 @@ Omeprazole Delayed-Release Capsules were well tolerated at these high dose level
 In most ZE patients, serum gastrin levels were not modified by Omeprazole Delayed-Release Capsules.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with Omeprazole Delayed-Release Capsules developed gastric carcinoids.
-These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of Omeprazole Delayed-Release Capsules [See Adverse Reactions (6)].
+These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of Omeprazole Delayed-Release Capsules [see Adverse Reactions (6)].
 
 ## 14.6 Pediatric GERD
 
 Symptomatic GERD
 
-The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study [See Use in Specific Populations (8.4)].
+The effectiveness of Omeprazole Delayed-Release Capsules for the treatment of nonerosive GERD in pediatric patients 1 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study [see Use in Specific Populations (8.4)].
 
 The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.

@@ -11,12 +11,14 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The microtablets should not be chewed or crushed.
 The microtablets/applesauce mixture should not be stored for future use.
 
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+
 Distributed by:
 
 Kremers Urban, Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599W
+L3599X
 
-Revised: 7E 04/2011
+Revised: 8E 06/2011

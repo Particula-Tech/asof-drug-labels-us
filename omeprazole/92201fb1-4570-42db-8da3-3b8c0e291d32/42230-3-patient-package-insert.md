@@ -48,6 +48,7 @@ WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
 Tell your doctor about all your medical conditions, including if you:
 
+- have been told that you have low magnesium levels in your blood
 - have liver problems
 - are pregnant or plan to become pregnant.
   It is not known if Omeprazole Delayed-Release Capsules will harm your unborn baby.
@@ -95,15 +96,34 @@ If you take too much Omeprazole Delayed-Release Capsules, tell your doctor right
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with Omeprazole Delayed-Release Capsules.
-
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with Omeprazole Delayed-Release Capsules.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
 Your doctor may stop Omeprazole Delayed-Release Capsules if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms;
+
+- seizures
+- dizziness
+- abnormal or fast heart beat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking Omeprazole Delayed-Release Capsules or during treatment if you will be taking Omeprazole Delayed-Release Capsules for a long period of time.
 
 The most common side effects with Omeprazole Delayed-Release Capsules in adults and children include:
 
@@ -167,6 +187,6 @@ Kremers Urban Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599W
+L3599X
 
-Revised: 7E 04/2011
+Revised: 8E 06/2011
