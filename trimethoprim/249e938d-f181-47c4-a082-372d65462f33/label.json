@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091437"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "GAVIS Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "43386-330-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trimethoprim",
+      "name": "Trimethoprim"
+    }
+  ],
+  "setid": "249e938d-f181-47c4-a082-372d65462f33",
+  "source": "dailymed"
+}
