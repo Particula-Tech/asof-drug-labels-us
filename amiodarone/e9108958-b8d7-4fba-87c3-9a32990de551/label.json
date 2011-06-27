@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022325"
+  ],
+  "inn": "amiodarone",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "43066-150-10",
+    "43066-360-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "amiodarone hydrochloride",
+      "name": "Nexterone"
+    }
+  ],
+  "setid": "e9108958-b8d7-4fba-87c3-9a32990de551",
+  "source": "dailymed"
+}
