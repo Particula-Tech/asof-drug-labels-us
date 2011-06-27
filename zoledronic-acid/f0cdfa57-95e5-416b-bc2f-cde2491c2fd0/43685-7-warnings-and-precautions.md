@@ -1,9 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drugs with Same Active Ingredient
+## 5.1 Drugs with Same Active Ingredient or in the Same Drug Class
 
 Zometa contains the same active ingredient as found in Reclast® (zoledronic acid).
-Patients being treated with Zometa should not be treated with Reclast.
+Patients being treated with Zometa should not be treated with Reclast or other bisphosphonates.
 
 ## 5.2 Hydration and Electrolyte Monitoring
 
@@ -22,11 +22,11 @@ Preexisting renal insufficiency and multiple cycles of Zometa and other bisphosp
 Factors predisposing to renal deterioration, such as dehydration or the use of other nephrotoxic drugs, should be identified and managed, if possible.
 
 Zometa treatment in patients with hypercalcemia of malignancy with severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
-In the clinical studies, patients with serum creatinine >400 µmol/L or >4.5 mg/dL were excluded.
+In the clinical studies, patients with serum creatinine greater than 400 µmol/L or greater than 4.5 mg/dL were excluded.
 
 Zometa treatment is not recommended in patients with bone metastases with severe renal impairment.
-In the clinical studies, patients with serum creatinine >265 µmol/L or >3.0 mg/dL were excluded and there were only 8 of 564 patients treated with Zometa 4 mg by 15-minute infusion with a baseline creatinine >2 mg/dL.
-Limited pharmacokinetic data exists in patients with creatinine clearance <30 mL/min [see Clinical Pharmacology (12.3)].
+In the clinical studies, patients with serum creatinine greater than 265 µmol/L or greater than 3.0 mg/dL were excluded and there were only 8 of 564 patients treated with Zometa 4 mg by 15-minute infusion with a baseline creatinine greater than 2 mg/dL.
+Limited pharmacokinetic data exists in patients with creatinine clearance less than 30 mL/min [see Clinical Pharmacology (12.3)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -42,14 +42,7 @@ For patients who develop ONJ while on bisphosphonate therapy, dental surgery may
 For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of ONJ.
 Clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
 
-## 5.5 Pregnancy
-
-Zometa should not be used during pregnancy.
-Zometa may cause fetal harm when administered to a pregnant woman.
-In reproductive studies in the pregnant rat, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure (an IV dose if 4 mg based on an AUC comparison) resulted in pre- and postimplantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use In Specific Populations (8.1)].
-
-## 5.6 Musculoskeletal Pain
+## 5.5 Musculoskeletal Pain
 
 In postmarketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking bisphosphonates.
 This category of drugs includes Zometa.
@@ -58,10 +51,20 @@ Discontinue use if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.7 Patients with Asthma
+## 5.6 Patients with Asthma
 
 While not observed in clinical trials with Zometa, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
 
-## 5.8 Hepatic Impairment
+## 5.7 Hepatic Impairment
 
 Only limited clinical data are available for use of Zometa to treat hypercalcemia of malignancy in patients with hepatic insufficiency, and these data are not adequate to provide guidance on dosage selection or how to safely use Zometa in these patients.
+
+## 5.8 Use in Pregnancy
+
+Bisphosphonates, such as Zometa, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
+There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+
+Zometa may cause fetal harm when administered to a pregnant woman.
+In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post-implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
+There are no adequate and well controlled studies in pregnant women.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].

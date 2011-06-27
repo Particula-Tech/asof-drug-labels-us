@@ -2,18 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Zometa should not be used during pregnancy.
-There are no studies in pregnant women using Zometa.
-If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant [see Warnings And Precautions (5.4)].
+Pregnancy Category D [see Warnings and Precaution (5.8)]
 
-Pregnancy Category D
-
-Bisphosphonates are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
+There are no adequate and well-controlled studies of Zometa in pregnant women.
+Zometa may cause fetal harm when administered to a pregnant woman.
+Bisphosphonates, such as Zometa, are incorporated into the bone matrix and are gradually released over periods of weeks to years.
 The extent of bisphosphonate incorporation into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the total dose and duration of bisphosphonate use.
 Although there are no data on fetal risk in humans, bisphosphonates do cause fetal harm in animals, and animal data suggest that uptake of bisphosphonates into fetal bone is greater than into maternal bone.
 Therefore, there is a theoretical risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been established.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking or after taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (≥0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Adverse maternal effects were observed in all dose groups (with a systemic exposure of ≥0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
@@ -33,8 +31,9 @@ Adverse maternal effects were associated with, and may have been caused by, drug
 
 ## 8.3 Nursing Mothers
 
-It is not known whether Zometa is excreted in human milk.
-Because many drugs are excreted in human milk, and because Zometa binds to bone long term, Zometa should not be administered to a nursing woman.
+It is not known whether zoledronic acid is excreted in human milk.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Zometa, a decision should be made to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Zoledronic acid binds to bone long term and may be released over weeks to years.
 
 ## 8.4 Pediatric Use
 
