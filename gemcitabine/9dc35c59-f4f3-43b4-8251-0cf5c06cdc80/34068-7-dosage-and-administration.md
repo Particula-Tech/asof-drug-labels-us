@@ -20,8 +20,8 @@ Table 1: Day 8 Dosage Reduction Guidelines for Gemzar in Combination with Carbop
 | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- |
 | ≥1500 | And | ≥100,000 | 100 |
-| 1000-1499 | and/or | 75,000-99,999 | 50 |
-| <1000 | and/or | <75,000 | Hold |
+| 1000-1499 | And/or | 75,000-99,999 | 50 |
+| <1000 | And/or | <75,000 | Hold |
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except nausea/vomiting, therapy with Gemzar should be held or decreased by 50% depending on the judgment of the treating physician.
 For carboplatin dosage adjustment, see manufacturer's prescribing information.
