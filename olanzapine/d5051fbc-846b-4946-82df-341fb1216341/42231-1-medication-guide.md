@@ -19,39 +19,41 @@ Talk with your doctor or pharmacist if there is something you do not understand 
 
 What is the most important information I should know about ZYPREXA?
 
-Serious side effects may happen when you take ZYPREXA, including:
+ZYPREXA may cause serious side effects, including:
 
-Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ZYPREXA can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
-ZYPREXA is not approved for treating psychosis in the elderly with dementia.
+1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+2. High blood sugar (hyperglycemia).
+3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
+4. Weight gain, especially in teenagers age 13 to 17.
 
-High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or even if you have never had diabetes.
-In rare cases, this could lead to ketoacidosis (build up of acid in the blood due to ketones), coma, or death.
-Your doctor should do lab tests to check your blood sugar before you start taking ZYPREXA and during treatment.
-In people who do not have diabetes, sometimes high blood sugar goes away when ZYPREXA is stopped.
-People with diabetes and some people who did not have diabetes before taking ZYPREXA need to take medicine for high blood sugar even after they stop taking ZYPREXA.
+These serious side effects are described below.
 
-If you have diabetes, follow your doctor's instructions about how often to check your blood sugar while taking ZYPREXA.
-
-Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking ZYPREXA:
-
-- feel very thirsty
-- need to urinate more than usual
-- feel very hungry
-- feel weak or tired
-- feel sick to your stomach
-- feel confused, or your breath smells fruity.
-
-High cholesterol and triglyceride levels in the blood (fat in the blood) may happen in people treated with ZYPREXA, especially in teenagers (13-17 years old).
-You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA and during treatment.
-
-Increase in weight (weight gain): Weight gain is very common in people who take ZYPREXA.
-Teenagers (13-17 years old) are more likely to gain weight and to gain more weight than adults.
-Some people may gain a lot of weight while taking ZYPREXA, so you and your doctor should check your weight regularly.
-Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
-
-Increased risk in teenagers (13-17 years old): Possible serious risks of weight gain and increases in cholesterol and triglycerides are more common in teenagers than in adults.
-You and your doctor should decide if other available treatments should be used first.
-Before your teenager takes ZYPREXA, talk with your doctor about the possible long-term risks of teenagers taking ZYPREXA.
+1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+   ZYPREXA is not approved for treating psychosis in elderly people with dementia.
+2. High blood sugar (hyperglycemia).
+   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+   High blood sugar could lead to: Your doctor should do tests to check your blood sugar before you start taking ZYPREXA and during treatment.
+   In people who do not have diabetes, sometimes high blood sugar goes away when ZYPREXA is stopped.
+   People with diabetes and some people who did not have diabetes before taking ZYPREXA need to take medicine for high blood sugar even after they stop taking ZYPREXA.
+   If you have diabetes, follow your doctor's instructions about how often to check your blood sugar while taking ZYPREXA.
+   Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking ZYPREXA:
+   - a build up of acid in your blood due to ketones (ketoacidosis)
+   - coma
+   - death
+   - feel very thirsty
+   - need to urinate more than usual
+   - feel very hungry
+   - feel weak or tired
+   - feel sick to your stomach
+   - feel confused or your breath smells fruity
+3. High fat levels in your blood (cholesterol and triglycerides).
+   High fat levels may happen in people treated with ZYPREXA, especially in teenagers (13 to 17 years old).
+   You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA and during treatment.
+4. Weight gain.
+   Weight gain is very common in people who take ZYPREXA.
+   Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+   Some people may gain a lot of weight while taking ZYPREXA, so you and your doctor should check your weight regularly.
+   Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
 What is ZYPREXA?
 
@@ -218,13 +220,13 @@ ZYDIS — gelatin, mannitol, aspartame, sodium methyl paraben, and sodium propyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised December 6, 2010
+Medication Guide revised June 21, 2011
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.zyprexa.com
 
-Copyright © 2009, 2010, Eli Lilly and Company.
+Copyright © 2009, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 6923 AMP
+PV 6924 AMP
