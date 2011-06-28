@@ -1,9 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Use Caution in Patients with Gastrointestinal Disorders
+## 5.1 Gastrointestinal Adverse Events
 
-The safety of Renagel has not been established in patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery.
-Use caution in patients with these GI disorders.
+Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention.
+Consider using sevelamer suspension in patients with a history of swallowing disorders.
+Cases of bowel obstruction and perforation have also been reported with sevelamer use.
+Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery were not included in the Renagel clinical studies.
 
 ## 5.2 Monitor Serum Chemistries
 
