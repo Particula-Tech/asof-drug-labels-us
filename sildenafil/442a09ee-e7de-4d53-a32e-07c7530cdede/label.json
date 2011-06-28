@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020895"
+  ],
+  "inn": "sildenafil",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-421-97",
+    "63539-422-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil citrate",
+      "name": "Viagra"
+    }
+  ],
+  "setid": "442a09ee-e7de-4d53-a32e-07c7530cdede",
+  "source": "dailymed"
+}
