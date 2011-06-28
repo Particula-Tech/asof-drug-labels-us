@@ -2,7 +2,8 @@
 
 ## 5.1 Fibrosing Colonopathy
 
-Fibrosing colonopathy has been reported following treatment with different pancreatic enzyme products.4, 5 Fibrosing colonopathy is a rare, serious adverse reaction initially described in association with high-dose pancreatic enzyme use, usually over a prolonged period of time and most commonly reported in pediatric patients with cystic fibrosis.
+Fibrosing colonopathy has been reported following treatment with different pancreatic enzyme products.
+5, 6 Fibrosing colonopathy is a rare, serious adverse reaction initially described in association with high-dose pancreatic enzyme use, usually over a prolonged period of time and most commonly reported in pediatric patients with cystic fibrosis.
 The underlying mechanism of fibrosing colonopathy remains unknown.
 Doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with colonic stricture in children less than 12 years of age.1 Patients with fibrosing colonopathy should be closely monitored because some patients may be at risk of progressing to stricture formation.
 It is uncertain whether regression of fibrosing colonopathy occurs.1 It is generally recommended, unless clinically indicated, that enzyme doses should be less than 2,500 lipase units/kg of body weight per meal (or less than 10,000 lipase units/kg of body weight per day) or less than 4,000 lipase units/g fat ingested per day [see Dosage and Administration (2.1)].
@@ -13,9 +14,9 @@ Patients receiving higher doses than 6,000 lipase units/kg of body weight per me
 ## 5.2 Potential for Irritation to Oral Mucosa
 
 Care should be taken to ensure that no drug is retained in the mouth.
-CREON should not be crushed or chewed or mixed in foods having a pH greater than 4.
-These actions can disrupt the protective enteric coating resulting in early release of enzymes, irritation of oral mucosa, and/or loss or enzyme activity [see Dosage and Administration (2.2) and Patient Counseling Information (17.4)].
-For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents added to a small amount of acidic soft food with a pH of 4 or less, such as applesauce, at room temperature.
+CREON should not be crushed or chewed or mixed in foods having a pH greater than 4.5.
+These actions can disrupt the protective enteric coating resulting in early release of enzymes, irritation of oral mucosa, and/or loss of enzyme activity [see Dosage and Administration (2.2) and Patient Counseling Information (17.1)].
+For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents added to a small amount of acidic soft food with a pH of 4.5 or less, such as applesauce, at room temperature.
 The CREON-soft food mixture should be swallowed immediately and followed with water or juice to ensure complete ingestion.
 
 ## 5.3 Potential for Risk of Hyperuricemia

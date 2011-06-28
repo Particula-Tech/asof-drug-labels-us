@@ -1,48 +1,69 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions reported with different pancreatic enzyme products of the same active ingredient (pancrelipase) include fibrosing colonopathy [see Warnings and Precautions (5.1)], hyperuricemia [see Warnings and Precautions (5.3)] and allergic reactions [see Warnings and Precautions (5.5)].
+The most serious adverse reactions reported with different pancreatic enzyme products of the same active ingredient (pancrelipase) that are described elsewhere in the label include fibrosing colonopathy, hyperuricemia and allergic reactions [see Warnings and Precautions (5)].
 
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
-The short-term safety of CREON was assessed in a single, randomized, double-blind, placebo-controlled, crossover study of 32 patients, ages 12 to 43 years, with exocrine pancreatic insufficiency due to cystic fibrosis.
-In this study, patients were randomized to receive CREON at a dose of 4,000 lipase units/g fat ingested per day or matching placebo for 5 to 6 days of treatment, followed by crossover to the alternate treatment for an additional 5 to 6 days.
-The mean exposure to CREON during this study was 5 days.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-One patient experienced duodenitis and gastritis of moderate severity reported as a serious adverse event 16 days after completing treatment with CREON.
+The short-term safety of CREON was assessed in clinical trials conducted in 103 patients with exocrine pancreatic insufficiency (EPI): 49 patients with EPI due to cystic fibrosis (CF) and 25 patients with EPI due to chronic pancreatitis or pancreatectomy were treated with CREON.
 
+Cystic Fibrosis
+
+Studies 1 and 2 were randomized, double-blind, placebo-controlled, crossover studies of 49 patients, ages 7 to 43 years, with EPI due to CF.
+Study 1 included 32 patients ages 12 to 43 years and Study 2 included 17 patients ages 7 to 11 years.
+In these studies, patients were randomized to receive CREON at a dose of 4,000 lipase units/g fat ingested per day or matching placebo for 5 to 6 days of treatment, followed by crossover to the alternate treatment for an additional 5 to 6 days.
+The mean exposure to CREON during these studies was 5 days.
+
+In Study 1, one patient experienced duodenitis and gastritis of moderate severity 16 days after completing treatment with CREON.
 Transient neutropenia without clinical sequelae was observed as an abnormal laboratory finding in one patient receiving CREON and a macrolide antibiotic.
 
-The incidence of adverse events (regardless of causality) was higher during placebo treatment (71%) than during CREON treatment (50%).
-Adverse events reported during the study were predominantly gastrointestinal complaints, and the type and incidence of adverse events were similar in adolescents (12 to 18 years) and adults (greater than 18 years).
+In Study 2, adverse reactions that occurred in at least 2 patients (greater than or equal to 12%) treated with CREON were vomiting and headache.
+Vomiting occurred in 2 patients treated with CREON and did not occur in patients treated with placebo; headache occurred in 2 patients treated with CREON and did not occur in patients treated with placebo.
 
-Because clinical trials are conducted under controlled conditions, the observed adverse event rates may not reflect the rates observed in clinical practice.
+The most common adverse reactions (greater than or equal to 4%) were vomiting, dizziness, and cough.
+Table 1 enumerates adverse reactions that occurred in at least 2 patients (greater than or equal to 4%) treated with CREON at a higher rate than with placebo in Studies 1 and 2.
 
-Table 1 enumerates treatment-emergent adverse events that occurred in at least 2 patients (greater than or equal to 6%) treated with either CREON or placebo in the clinical study.
-Adverse events were classified by Medical Dictionary for Regulatory Activities (MedDRA) terminology.
+Table 1: Adverse Reactions Occurring in at Least 2 Patients (greater than or equal to 4%) in Cystic Fibrosis (Studies 1 and 2)
 
-Table 1: Treatment-Emergent Adverse Events Occurring in at least 2 Patients (greater than or equal to 6%) in Either Treatment Group of the Placebo-Controlled, Crossover Clinical Study of CREON
-
-| MedDRA Primary System Organ Class Preferred Term | CREON Capsules n = 32 (%) | Placebo n = 31 (%) |
+| Adverse Reaction | CREON Capsules n = 49 (%) | Placebo n = 47 (%) |
 | --- | --- | --- |
-| Gastrointestinal Disorders |  |  |
-| Abnormal Feces | 1 (3) | 6 (19) |
-| Flatulence | 3 (9) | 8 (26) |
-| Abdominal Pain | 3 (9) | 8 (26) |
-| Abdominal Pain Upper | 0 | 3 (10) |
-| Investigations |  |  |
-| Weight Decreased | 1 (3) | 2 (6) |
-| Nervous System Disorders |  |  |
-| Headache | 2 (6) | 8 (26) |
-| Dizziness | 2 (6) | 0 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Cough | 2 (6) | 0 |
+| Vomiting | 3 (6) | 1 (2) |
+| Dizziness | 2 (4) | 1 (2) |
+| Cough | 2 (4) | 0 |
+
+Chronic Pancreatitis or Pancreatectomy
+
+Study 3 was a randomized, double-blind, placebo-controlled, parallel group study of 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
+Patients received single-blind placebo treatment during a 5-day run-in period followed by an intervening period of up to 16 days of investigator-directed treatment with no restrictions on pancreatic enzyme replacement therapy.
+Patients were then randomized to receive CREON or matching placebo for 7 days.
+The CREON dose was 72,000 lipase units per main meal (3 main meals) and 36,000 lipase units per snack (2 snacks).
+The mean exposure to CREON during this study was 6.8 days in the 25 patients that received CREON.
+
+The most common adverse reactions reported during the study were related to glycemic control and were reported more commonly during CREON treatment than during placebo treatment.
+
+Table 2 enumerates adverse reactions that occurred in at least 1 patient (greater than or equal to 4%) treated with CREON at a higher rate than with placebo in Study 3.
+
+Table 2: Adverse Reactions in at Least 1 Patient (greater than or equal to 4%) in Chronic Pancreatitis or Pancreatectomy (Study 3)
+
+| Adverse Reaction | CREON Capsules n = 25 (%) | Placebo n = 29 (%) |
+| --- | --- | --- |
+| Hyperglycemia | 2 (8) | 2 (7) |
+| Hypoglycemia | 1 (4) | 1 (3) |
+| Abdominal Pain | 1 (4) | 1 (3) |
+| Abnormal Feces | 1 (4) | 0 |
+| Flatulence | 1 (4) | 0 |
+| Frequent Bowel Movements | 1 (4) | 0 |
+| Nasopharyngitis | 1 (4) | 0 |
 
 ## 6.2 Postmarketing Experience
 
-There is no postmarketing experience with this formulation of CREON.
+Postmarketing data from this formulation of CREON have been available since 2009.
+The following adverse reactions have been identified during post approval use of this formulation of CREON.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders (including abdominal pain, diarrhea, flatulence, constipation and nausea), skin disorders (including pruritus, urticaria and rash), blurred vision, myalgia, muscle spasm, and asymptomatic elevations of liver enzymes have been reported with this formulation of CREON.
 
 Delayed- and immediate-release pancreatic enzyme products with different formulations of the same active ingredient (pancrelipase) have been used for the treatment of patients with exocrine pancreatic insufficiency due to cystic fibrosis and other conditions, such as chronic pancreatitis.
 The long-term safety profile of these products has been described in the medical literature.
-The most serious adverse events included fibrosing colonopathy, distal intestinal obstruction syndrome (DIOS), recurrence of pre-existing carcinoma, and severe allergic reactions including anaphylaxis, asthma, hives, and pruritus.
-The most commonly reported adverse events were gastrointestinal disorders, including abdominal pain, diarrhea, flatulence, constipation and nausea, and skin disorders including pruritus, urticaria and rash.
-In general, these products have a well defined and favorable risk-benefit profile in exocrine pancreatic insufficiency.
+The most serious adverse reactions included fibrosing colonopathy, distal intestinal obstruction syndrome (DIOS), recurrence of pre-existing carcinoma, and severe allergic reactions including anaphylaxis, asthma, hives, and pruritus.

@@ -8,14 +8,19 @@ Journal of Pediatrics.
 Journal of Pediatric Gastroenterology Nutrition.
 2002 Sep; 35: 246-259.
 
-3 Stallings VA, Start LJ, Robinson KA, et al. Evidence-based practice recommendations for nutrition-related management of children and adults with cystic fibrosis and pancreatic insufficiency: results of a systematic review.
+3 Stallings VA, Stark LJ, Robinson KA, et al. Evidence-based practice recommendations for nutrition-related management of children and adults with cystic fibrosis and pancreatic insufficiency: results of a systematic review.
 Journal of the American Dietetic Association.
 2008; 108: 832-839.
 
-4 Smyth RL, Ashby D, O'Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
+4 Dominguez-Munoz JE.
+Pancreatic enzyme therapy for pancreatic exocrine insufficiency.
+Current Gastroenterology Reports.
+2007; 9: 116-122.
+
+5 Smyth RL, Ashby D, O'Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
 Lancet.
 1995; 346: 1247-1251.
 
-5 FitzSimmons SC, Burkhart GA, Borowitz DS, et al. High-dose pancreatic-enzyme supplements and fibrosing colonopathy in children with cystic fibrosis.
+6 FitzSimmons SC, Burkhart GA, Borowitz DS, et al. High-dose pancreatic-enzyme supplements and fibrosing colonopathy in children with cystic fibrosis.
 New England Journal of Medicine.
 1997; 336: 1283-1289.

@@ -2,7 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-The pancreatic enzymes in CREON are enteric-coated to resist destruction or inactivation in gastric acid, and to release most of the enzymes in vivo in the duodenum at a pH greater than 5.5.
-In the duodenum and proximal small intestine, the enzymes catalyze the hydrolysis of fats to monoglycerol, glycerol and fatty acids, protein into peptides and amino acids, and starch into dextrins and short chain sugars, thereby acting as a replacement for digestive enzymes physiologically secreted by the pancreas.
+The pancreatic enzymes in CREON catalyze the hydrolysis of fats to monoglyceride, glycerol and free fatty acids, proteins into peptides and amino acids, and starches into dextrins and short chain sugars such as maltose and maltriose in the duodenum and proximal small intestine, thereby acting like digestive enzymes physiologically secreted by the pancreas.
 
-Pancreatic enzymes are not absorbed from the gastrointestinal tract in any appreciable amount, and are not systemically active.
+## 12.3 Pharmacokinetics
+
+The pancreatic enzymes in CREON are enteric-coated to minimize destruction or inactivation in gastric acid.
+CREON is expected to release most of the enzymes in vivo at an approximate pH of 5.5 or greater.
+Pancreatic enzymes are not absorbed from the gastrointestinal tract in appreciable amounts.

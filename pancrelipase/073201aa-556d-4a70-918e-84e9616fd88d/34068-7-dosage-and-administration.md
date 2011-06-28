@@ -1,20 +1,44 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
-
-CREON is not interchangeable with any other pancrelipase product.
+CREON is not interchangeable with other pancrelipase products.
 
 CREON is orally administered.
 Therapy should be initiated at the lowest recommended dose and gradually increased.
-The dosage of CREON should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet (see Limitations on Dosing below).
+The dosage of CREON should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet as described in the Limitations on Dosing below [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
-Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 CREON should be administered in a manner consistent with the recommendations of the Conferences provided in the following paragraphs.
-Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
+## 2.1 Administration
 
 Infants (up to 12 months)
 
-Infants may be given 2,000 to 4,000 lipase units per 120 mL of formula or per breast-feeding.
-Do not mix CREON capsule contents directly into formula or breast milk prior to administration [see Dosage and Administration (2.2)].
+CREON should be administered to infants immediately prior to each feeding, using a dosage of 3,000 lipase units per 120 mL of formula or prior to breast-feeding.
+Contents of the capsule may be administered directly to the mouth or with a small amount of applesauce.
+Administration should be followed by breast milk or formula.
+Contents of the capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
+Care should be taken to ensure that CREON is not crushed or chewed or retained in the mouth, to avoid irritation of the oral mucosa.
+
+Children and Adults
+
+CREON should be taken during meals or snacks, with sufficient fluid.
+CREON capsules and capsule contents should not be crushed or chewed.
+Capsules should be swallowed whole.
+
+For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents added to a small amount of acidic soft food with a pH of 4.5 or less, such as applesauce, at room temperature.
+The CREON-soft food mixture should be swallowed immediately without crushing or chewing, and followed with water or juice to ensure complete ingestion.
+Care should be taken to ensure that no drug is retained in the mouth.
+
+## 2.2 Dosage
+
+Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 CREON should be administered in a manner consistent with the recommendations of the Cystic Fibrosis Foundation Consensus Conferences (also known as Conferences) provided in the following paragraphs, except for infants.
+Although the Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months, CREON is available in a 3,000 lipase unit capsule.
+Therefore, the recommended dose of CREON in infants up to 12 months is 3,000 lipase units per 120 mL of formula or per breast-feeding.
+Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
+
+Additional recommendations for pancreatic enzyme therapy in patients with exocrine pancreatic insufficiency due to chronic pancreatitis or pancreatectomy are based on a clinical trial conducted in these populations.
+
+Infants (up to 12 months)
+
+CREON is available in the strength of 3,000 USP units of lipase thus infants may be given 3,000 lipase units (one capsule) per 120 mL of formula or per breast-feeding.
+Do not mix CREON capsule contents directly into formula or breast milk prior to administration [see Administration (2.1)].
 
 Children Older than 12 Months and Younger than 4 Years
 
@@ -29,6 +53,13 @@ The total daily dose should reflect approximately three meals plus two or three 
 
 Enzyme doses expressed as lipase units/kg of body weight per meal should be decreased in older patients because they weigh more but tend to ingest less fat per kilogram of body weight.
 
+Adults with Exocrine Pancreatic Insufficiency Due to Chronic Pancreatitis or Pancreatectomy
+
+The initial starting dose and increases in the dose per meal should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
+
+In one clinical trial, patients received CREON at a dose of 72,000 lipase units per meal while consuming at least 100 g of fat per day [see Clinical Studies (14.2)].
+Lower starting doses recommended in the literature are consistent with the 500 lipase units/kg of body weight per meal lowest starting dose recommended for adults in the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3, 4 Usually, half of the prescribed CREON dose for an individualized full meal should be given with each snack.
+
 Limitations on Dosing
 
 Dosing should not exceed the recommended maximum dosage set forth by the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3 If symptoms and signs of steatorrhea persist, the dosage may be increased by the healthcare professional.
@@ -39,25 +70,3 @@ If doses are to exceed 2,500 lipase units/kg of body weight per meal, further in
 Doses greater than 2,500 lipase units/kg of body weight per meal (or greater than 10,000 lipase units/kg of body weight per day) should be used with caution and only if they are documented to be effective by 3-day fecal fat measures that indicate a significantly improved coefficient of fat absorption.
 Doses greater than 6,000 lipase units/kg of body weight per meal have been associated with colonic stricture, indicative of fibrosing colonopathy, in children less than 12 years of age [see Warnings and Precautions (5.1)].
 Patients currently receiving higher doses than 6,000 lipase units/kg of body weight per meal should be examined and the dosage either immediately decreased or titrated downward to a lower range.
-
-## 2.2 Administration
-
-CREON should always be taken as prescribed by a healthcare professional.
-
-Infants (up to 12 months)
-
-CREON should be administered to infants immediately prior to each feeding, using a dosage of 2,000 to 4,000 lipase units per 120 mL of formula or per breast-feeding.
-Contents of the capsule may be administered directly to the mouth or with a small amount of applesauce.
-Administration should be followed by breast milk or formula.
-Contents of the capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
-Care should be taken to ensure that CREON is not crushed or chewed or retained in the mouth, to avoid irritation of the oral mucosa.
-
-Children and Adults
-
-CREON should be taken during meals or snacks, with sufficient fluid.
-CREON capsules and capsule contents should not be crushed or chewed.
-Capsules should be swallowed whole.
-
-For patients who are unable to swallow intact capsules, the capsules may be carefully opened and the contents added to a small amount of acidic soft food with a pH of 4 or less, such as applesauce, at room temperature.
-The CREON-soft food mixture should be swallowed immediately without crushing or chewing, and followed with water or juice to ensure complete ingestion.
-Care should be taken to ensure that no drug is retained in the mouth.

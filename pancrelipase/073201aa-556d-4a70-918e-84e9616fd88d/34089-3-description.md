@@ -14,7 +14,9 @@ CREON is dosed by lipase units.
 Other active ingredients include protease and amylase.
 
 CREON contains the following inactive ingredients: cetyl alcohol, dimethicone, hypromellose phthalate, polyethylene glycol, and triethyl citrate.
-The imprinting ink on the capsule contains dimethicone, 2-ethoxyethanol, shellac, soya lecithin, and titanium dioxide.
+
+3,000 USP units of lipase; 9,500 USP units of protease; 15,000 USP units of amylase capsules have a white opaque cap with imprint “CREON 1203” and a white opaque body.
+The shells contain titanium dioxide and hypromellose.
 
 6,000 USP units of lipase; 19,000 USP units of protease; 30,000 USP units of amylase capsules have a Swedish-orange opaque cap with imprint “CREON 1206” and a blue opaque body.
 The shells contain FD&C Blue No. 2, gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
