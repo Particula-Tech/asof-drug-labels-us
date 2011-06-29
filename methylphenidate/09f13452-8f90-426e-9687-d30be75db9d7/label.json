@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
-  "inn": "methylphenidate",
-  "labeler": "Alliant Pharmaceuticals, Inc.",
-  "package_ndcs": [
-    "68188-132-01",
-    "68188-135-01",
-    "68188-137-01"
+  "application_numbers": [
+    "NDA021475"
   ],
-  "products": [],
+  "inn": "methylphenidate",
+  "labeler": "Shionogi Pharma, Inc.",
+  "package_ndcs": [
+    "59630-760-10",
+    "59630-761-10",
+    "59630-762-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "METHYLIN"
+    }
+  ],
   "setid": "09f13452-8f90-426e-9687-d30be75db9d7",
   "source": "dailymed"
 }

@@ -2,7 +2,7 @@
 
 Dosage should be individualized according to the needs and responses of the patient.
 
-Directions– Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
+Directions – Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
 Taking this product without enough liquid may cause choking.
 See choking warning.
 
@@ -16,7 +16,7 @@ Patients who are unable to sleep if medication is taken late in the day should t
 
 ## Children (6 years and over)
 
-Methylin® should be initiated in small doses, with gradual weekly increments.
+Methylin should be initiated in small doses, with gradual weekly increments.
 Daily dosage above 60 mg is not recommended.
 
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
@@ -25,7 +25,7 @@ Chewable Tablets: Start with 5 mg twice daily (before breakfast and lunch) with 
 
 If paradoxical aggravation of symptoms or other adverse effects occur, reduce dosage, or, if necessary, discontinue the drug.
 
-Methylin® should be periodically discontinued to assess the child's condition.
+Methylin should be periodically discontinued to assess the child's condition.
 Improvement may be sustained when the drug is either temporarily or permanently discontinued.
 
 Drug treatment should not and need not be indefinite and usually may be discontinued after puberty.

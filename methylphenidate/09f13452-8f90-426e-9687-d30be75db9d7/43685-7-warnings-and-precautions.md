@@ -4,10 +4,10 @@
 
 ### Sudden Death and Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
-Children and Adolescents– Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
+Children and Adolescents – Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
 
-Adults– Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
+Adults – Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs.
 
@@ -24,16 +24,16 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## Psychiatric Adverse Events
 
-Pre-Existing Psychosis– Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Pre-Existing Psychosis – Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
-Bipolar Illness– Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
+Bipolar Illness – Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
 Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 
-Emergence of New Psychotic or Manic Symptoms– Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
+Emergence of New Psychotic or Manic Symptoms – Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
 In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
 
-Aggression– Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
+Aggression – Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of or worsening of aggressive behavior or hostility.
 
 ## Long-Term Suppression of Growth
@@ -54,7 +54,7 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 USE IN CHILDREN LESS THAN SIX YEARS OF AGE
 
-Methylin® should not be used in children under six years, since safety and efficacy in this age group have not been established.
+Methylin should not be used in children under six years, since safety and efficacy in this age group have not been established.
 
 # PRECAUTIONS
 
@@ -65,44 +65,41 @@ Patients with an element of agitation may react adversely; discontinue therapy i
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.
 
 Drug treatment is not indicated in all cases of this behavioral syndrome and should be considered only in light of the complete history and evaluation of the child.
-The decision to prescribe Methylin® should depend on the physician's assessment of the chronicity and severity of the child's symptoms and their appropriateness for his/her age.
+The decision to prescribe Methylin should depend on the physician's assessment of the chronicity and severity of the child's symptoms and their appropriateness for his/her age.
 Prescription should not depend solely on the presence of one or more of the behavioral characteristics.
 
-When these symptoms are associated with acute stress reactions, treatment with Methylin® is usually not indicated.
+When these symptoms are associated with acute stress reactions, treatment with Methylin is usually not indicated.
 
-Long-term effects of Methylin® in children have not been well established.
+Long-term effects of Methylin in children have not been well established.
 
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with methylphenidate and should counsel them in its appropriate use.
-A patient Medication Guide is available for Methylin® Chewable Tablets.
+A patient Medication Guide is available for Methylin Chewable Tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe Methylin®:
+Physicians are advised to discuss the following issues with patients for whom they prescribe Methylin:
 
-Choking– Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking.
+Choking – Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking.
 Do not take this product if you have difficulty in swallowing.
 If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention.
 
-Directions– Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
+Directions – Take this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid.
 Taking this product without enough liquid may cause choking.
 See choking warning.
 
-Phenylketonurics– Phenylalanine is a component of aspartame.
-Each 2.5 mg Methylin® Chewable Tablet contains 0.42 mg of phenylalanine; each 5.0 mg Methylin® Chewable Tablet contains 0.84 mg of phenylalanine and each 10.0 mg Methylin® Chewable Tablet contains 1.68 mg of phenylalanine.
+Phenylketonurics – Phenylalanine is a component of aspartame.
+Each 2.5 mg Methylin Chewable Tablet contains 0.42 mg of phenylalanine; each 5.0 mg Methylin Chewable Tablet contains 0.84 mg of phenylalanine and each 10.0 mg Methylin Chewable Tablet contains 1.68 mg of phenylalanine.
 
 ## Drug Interactions
 
-Methylin® may decrease the hypotensive effect of guanethidine.
+Methylin may decrease the hypotensive effect of guanethidine.
 Use cautiously with pressor agents.
 
-Human pharmacologic studies have shown that Methylin® may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (phenobarbital, diphenylhydantoin, primidone), phenylbutazone, and tricyclic drugs (imipramine, clomipramine, desipramine).
-Downward dosage adjustments of these drugs may be required when given concomitantly with Methylin®.
-
-Serious adverse events have been reported in concomitant use with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2 agonists has not been systemically evaluated.
+Human pharmacologic studies have shown that Methylin may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (phenobarbital, diphenylhydantoin, primidone), phenylbutazone, and tricyclic drugs (imipramine, clomipramine, desipramine).
+Downward dosage adjustments of these drugs may be required when given concomitantly with Methylin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -112,7 +109,7 @@ Hepatoblastoma is a relatively rare rodent malignant tumor type.
 There was no increase in total malignant hepatic tumors.
 The mouse strain used is sensitive to the development of hepatic tumors, and the significance of these results to humans is unknown.
 
-Methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which approximately 22 times and 4 times the maximum recommended human dose on a mg/kg and mg/m2 basis, respectively.
+Methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 22 times and 4 times the maximum recommended human dose on a mg/kg and mg/m2 basis, respectively.
 
 Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay or in the in vitro mouse lymphoma cell forward mutation assay.
 Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary (CHO) cells.
@@ -120,7 +117,7 @@ The genotoxic potential of methylphenidate has not been evaluated in an in vivo 
 
 ## Usage in Pregnancy
 
-Adequate animal reproduction studies to establish safe use of Methylin® during pregnancy have not been conducted.
+Adequate animal reproduction studies to establish safe use of Methylin during pregnancy have not been conducted.
 However, in a recently conducted study, methylphenidate has been shown to have teratogenic effects in rabbits when given in doses of 200 mg/kg/day, which is approximately 167 times and 78 times the maximum recommended human dose on a mg/kg and a mg/m2 basis, respectively.
 In rats, teratogenic effects were not seen when the drug was given in doses of 75 mg/kg/day, which is approximately 62.5 and 13.5 times the maximum recommended human dose on a mg/kg and a mg/m2 basis, respectively.
 Therefore, until more information is available, methylphenidate should not be prescribed for women of childbearing age unless, in the opinion of the physician, the potential benefits outweigh the possible risks.
