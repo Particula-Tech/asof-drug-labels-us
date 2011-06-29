@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Methylin® should be given cautiously to emotionally unstable patients, such as those with a history of drug dependence or alcoholism, because such patients may increase dosage on their own initiative.
+Methylin should be given cautiously to emotionally unstable patients, such as those with a history of drug dependence or alcoholism, because such patients may increase dosage on their own initiative.
 
 Chronically abusive use can lead to marked tolerance and psychic dependence with varying degrees of abnormal behavior.
 Frank psychotic episodes can occur, especially with parenteral abuse.

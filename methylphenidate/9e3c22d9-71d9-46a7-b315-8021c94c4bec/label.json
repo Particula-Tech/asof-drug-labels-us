@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "methylphenidate",
-  "labeler": "Alliant Pharmaceuticals, Inc.",
-  "package_ndcs": [
-    "68188-881-50",
-    "68188-882-50"
+  "application_numbers": [
+    "NDA021419"
   ],
-  "products": [],
+  "inn": "methylphenidate",
+  "labeler": "Shionogi Pharma, Inc.",
+  "package_ndcs": [
+    "59630-750-50",
+    "59630-755-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Methylin"
+    }
+  ],
   "setid": "9e3c22d9-71d9-46a7-b315-8021c94c4bec",
   "source": "dailymed"
 }
