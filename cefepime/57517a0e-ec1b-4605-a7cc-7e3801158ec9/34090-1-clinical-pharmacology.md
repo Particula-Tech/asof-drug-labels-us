@@ -29,7 +29,7 @@ Table 5: Average Plasma Concentrations (in mcg/mL) of Cefepime and Derived Pharm
 | AUC, h∙mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
 
-Distribution
+### Distribution
 
 The average steady-state volume of distribution of cefepime is 18.0 (±2.0) L. The serum protein binding of cefepime is approximately 20% and is independent of its concentration in serum.
 
@@ -57,32 +57,32 @@ Table 6: Average Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or 
 Data suggest that cefepime does cross the inflamed blood-brain barrier.
 The clinical relevance of these data are uncertain at this time.
 
-Metabolism and Excretion
+### Metabolism and Excretion
 
 Cefepime is metabolized to N-methylpyrrolidine (NMP), which is rapidly converted to the N-oxide (NMP-N-oxide).
 Urinary recovery of unchanged cefepime accounts for approximately 85% of the administered dose.
 Less than 1% of the administered dose is recovered from urine as NMP, 6.8% as NMP-N-oxide, and 2.5% as an epimer of cefepime.
 Because renal excretion is a significant pathway of elimination, patients with renal dysfunction and patients undergoing hemodialysis require dosage adjustment [see Dosage and Administration (2.2)].
 
-Specific Populations
+### Specific Populations
 
-Patients with Renal Impairment
+#### Patients with Renal Impairment
 
 Cefepime pharmacokinetics have been investigated in patients with various degrees of renal impairment (n=30).
 The average half-life in patients requiring hemodialysis was 13.5 (±2.7) hours and in patients requiring continuous peritoneal dialysis was 19 (±2.0) hours.
 Cefepime total body clearance decreased proportionally with creatinine clearance in patients with abnormal renal function, which serves as the basis for dosage adjustment recommendations in this group of patients [see Dosage and Administration (2.2)].
 
-Patients with Hepatic Impairment
+#### Patients with Hepatic Impairment
 
 The pharmacokinetics of cefepime were unaltered in patients with hepatic impairment who received a single 1 g dose (n=11).
 
-Geriatric Patients
+#### Geriatric Patients
 
 Cefepime pharmacokinetics have been investigated in elderly (65 years of age and older) men (n=12) and women (n=12) whose mean (SD) creatinine clearance was 74.0 (±15.0) mL/min.
 There appeared to be a decrease in cefepime total body clearance as a function of creatinine clearance.
 Therefore, dosage administration of cefepime in the elderly should be adjusted as appropriate if the patient's creatinine clearance is 60 mL/min or less [see Dosage and Administration (2.2)].
 
-Pediatric Patients
+#### Pediatric Patients
 
 Cefepime pharmacokinetics have been evaluated in pediatric patients from 2 months to 11 years of age following single and multiple doses on every 8 hours (n=29) and every 12 hours (n=13) schedules.
 Following a single intravenous dose, total body clearance and the steady-state volume of distribution averaged 3.3 (±1.0) mL/min/kg and 0.3 (±0.1) L/kg, respectively.
@@ -93,7 +93,7 @@ The exposure to cefepime following a 50 mg per kg intravenous dose in a pediatri
 
 ## 12.4 Microbiology
 
-Antibacterial Mechanism of Action
+### Antibacterial Mechanism of Action
 
 Cefepime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 Cefepime has a broad spectrum of in vitro activity that encompasses a wide range of gram-positive and gram-negative bacteria.
@@ -144,16 +144,16 @@ Cefepime has been shown to have in vitro activity against most isolates of the f
 - Anaerobic Microorganisms:
   - Cefepime is inactive against most isolates of Clostridium difficile.
 
-Susceptibility Test Methods
+### Susceptibility Test Methods
 
-Dilution Techniques
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized test method (broth and/or agar) 2 {see References (15)].
 The MIC values should be interpreted according to criteria provided in Table 7.
 
-Diffusion Technique
+#### Diffusion Technique
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
@@ -164,11 +164,11 @@ The disk diffusion interpretive criteria are provided in Table 7.
 Table 7.
 Susceptibility Test Interpretive Criteria for Cefepime
 
-| Pathogen | S | I | R |  | S | I | R |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum Inhibitory Concentration (mcg/mL) |  |  |  | Disk Diffusion (Zone diameters in mm) |  |  |
-| Bacteria other than S. pneumoniaeIsolates from these species should be tested for susceptibility using specialized dilution testing methods2 [see References (15)] | ≤8 | 16 | ≥32 |  | ≥18 | 15–17 | ≤14 |
-| S. pneumoniae | ≤0.5 | 1 | ≥2 |  | - | - | - |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | S | I | R | S | I | R |  |
+| Bacteria other than S. pneumoniaeIsolates from these species should be tested for susceptibility using specialized dilution testing methods2 [see References (15)] | ≤8 | 16 | ≥32 | ≥18 | 15–17 | ≤14 |  |
+| S. pneumoniae | ≤0.5 | 1 | ≥2 | - | - | - |  |
 
 A report of "susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -176,7 +176,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of "resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-Quality Control
+### Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 2,3 [see References (15)].
 Standard cefepime powder should provide the following MIC values noted in Table 8.

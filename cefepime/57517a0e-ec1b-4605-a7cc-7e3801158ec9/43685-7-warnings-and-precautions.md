@@ -45,17 +45,17 @@ In those patients in whom meningeal seeding from a distant infection site or in 
 
 ## 5.6 Drug/Laboratory Test Interactions
 
-Urinary Glucose
+### Urinary Glucose
 
 The administration of cefepime may result in a false-positive reaction with glucose in the urine when using CLINITEST® tablets.
 It is recommended that glucose tests based on enzymatic glucose oxidase reactions (e.g., CLINISTIX®) be used.
 
-Coombs' Test
+### Coombs’ Test
 
-Positive direct Coombs' Tests have been reported during treatment with cefepime.
-In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' Testing of newborns whose mothers have received cephalosporin antibiotics before parturition, it should be recognized that a positive Coombs' Test may be due to the drug.
+Positive direct Coombs' tests have been reported during treatment with cefepime.
+In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' testing of newborns whose mothers have received cephalosporin antibiotics before parturition, it should be recognized that a positive Coombs' test may be due to the drug.
 
-Prothrombin Time
+### Prothrombin Time
 
 Many cephalosporins, including cefepime, have been associated with a fall in prothrombin activity.
 Those at risk include patients with renal or hepatic impairment, or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy.

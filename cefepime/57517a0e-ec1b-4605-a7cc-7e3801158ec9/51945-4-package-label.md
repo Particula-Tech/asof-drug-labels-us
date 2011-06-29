@@ -1,13 +1,12 @@
 PRINCIPAL DISPLAY PANEL - 1g / 50 mL Container Label
 
-NDC 0264-3193-11 Cat.
-No. 3193-11
+Cefepime for Injection USP and Dextrose Injection USP 1g*
+
+REF 3193-11 NDC 0264-3193-11
 
 DUPLEX® DRUG DELIVERY SYSTEM
 
 50 mL
-
-Cefepime for Injection USP and Dextrose Injection USP 1g*
 
 Use only after mixing contents of both chambers.
 
@@ -41,23 +40,23 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+B. Braun Medical Inc.
 
-LD-210-1 Y37-002-384
+Y37-002-392 LD-210-2
 
-U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,646,305, and 696,951.
-DUPLEX is a registered trademark of B. Braun Medical Inc.
+LOT EXP
+
+Made in USA
 
 PRINCIPAL DISPLAY PANEL - 2g / 50mL Container Label
 
-NDC 0264-3195-11 Cat.
-No. 3195-11
+Cefepime for Injection USP and Dextrose Injection USP 2g*
+
+REF 3195-11 NDC 0264-3195-11
 
 DUPLEX® DRUG DELIVERY SYSTEM
 
 50 mL
-
-Cefepime for Injection USP and Dextrose Injection USP 2g*
 
 Use only after mixing contents of both chambers.
 
@@ -91,9 +90,10 @@ Do not freeze.
 
 The DUPLEX Container is Latex-free, PVC-free, and DEHP-free Rx only
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+B. Braun Medical Inc.
 
-LD-211-1 Y37-002-385
+Y37-002-393 LD-211-2
 
-U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
-DUPLEX is a registered trademark of B. Braun Medical Inc.
+LOT EXP
+
+Made in USA

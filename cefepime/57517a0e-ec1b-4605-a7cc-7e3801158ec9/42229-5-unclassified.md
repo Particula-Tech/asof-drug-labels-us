@@ -10,3 +10,17 @@ B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA.
 Y36-002-737
 
 LD-107-1
+
+Display Panel - Drug Chamber Barrier
+
+PEEL HERE
+
+Drug Chamber
+
+Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+
+See package insert for complete directions for reconstitution and administration.
+
+LD-336-1 X27-001-485

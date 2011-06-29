@@ -64,11 +64,11 @@ If administration is controlled by a pumping device, care must be taken to disco
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Use only if solution is clear and container and seals are intact.
 
-DUPLEX® Drug Delivery System Storage
+### DUPLEX® Drug Delivery System Storage
 
 - To avoid inadvertent activation, the DUPLEX® Container should remain in the folded position until activation is intended.
 
-Patient Labeling and Drug Powder/Diluent Inspection
+### Patient Labeling and Drug Powder/Diluent Inspection
 
 - Apply patient-specific label on foil side of container.
   Use care to avoid activation.
@@ -81,7 +81,7 @@ Patient Labeling and Drug Powder/Diluent Inspection
   Note: If foil strip is removed, the container should be re-folded and the side tab latched until ready to activate.
   The product must then be used within 7 days, but not beyond the labeled expiration date.
 
-Reconstitution (Activation)
+### Reconstitution (Activation)
 
 - Do not use directly after storage by refrigeration, allow the product to equilibrate to room temperature before patient use.
 - Unfold the DUPLEX® container and point the set port in a downward direction.
@@ -90,7 +90,7 @@ Reconstitution (Activation)
 - Agitate the liquid-powder mixture until the drug powder is completely dissolved.
   Note: Following reconstitution (activation), product must be used within 12 hours if stored at room temperature or within 5 days if stored under refrigeration.
 
-Administration
+### Administration
 
 - Visually inspect the reconstituted solution for particulate matter.
 - Point the set port in a downwards direction.
@@ -101,7 +101,7 @@ Administration
 - Using aseptic technique, peel foil cover from the set port and attach sterile administration set (see Diagram 5).
 - Refer to directions for use accompanying the administration set.
 
-Important Administration Instructions
+### Important Administration Instructions
 
 - Do not use in series connections.
 - Do not introduce additives into the DUPLEX® Container.

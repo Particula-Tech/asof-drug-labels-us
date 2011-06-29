@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+### Pregnancy Category B
 
 Cefepime was not teratogenic or embryocidal when administered during the period of organogenesis to rats at doses up to 1000 mg/kg/day (1.6 times the recommended maximum human dose calculated on a mg/m2 basis) or to mice at doses up to 1200 mg/kg (approximately equal to the recommended maximum human dose calculated on a mg/m2 basis) or to rabbits at a dose level of 100 mg/kg (0.3 times the recommended maximum human dose calculated on a mg/m2 basis).
 
