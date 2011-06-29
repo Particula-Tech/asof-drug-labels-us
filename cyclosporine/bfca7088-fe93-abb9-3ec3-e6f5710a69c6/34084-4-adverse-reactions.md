@@ -1,6 +1,7 @@
 # ADVERSE REACTIONS
 
 The principal adverse reactions of cyclosporine therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
+
 Hypertension, which is usually mild to moderate, may occur in approximately 50% of patients following renal transplantation and in most cardiac transplant patients.
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
@@ -66,9 +67,14 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Other | 0 | 0 | 0.7 |
 | Cyclosporine was discontinued on a temporary basis and then restarted in 18 additional patients. |  |  |  |
 
+Patients receiving immunosuppressive therapies, including cyclosporine and cyclosporine -containing regimens, are at increased risk of infections (viral, bacterial, fungal, parasitic).
+Both generalized and localized infections can occur.
+Pre-existing infections may also be aggravated.
+Fatal outcomes have been reported (see WARNINGS).
+
 | Infectious Complications in the Randomized Renal Transplant Patients |  |  |
 | --- | --- | --- |
-|  | Cyclosporine Treatment | Standard Treatment* |
+|  | Cyclosporine Treatment | Standard TreatmentSome patients also received ALG. |
 |  | (N=227) | (N=228) |
 | Complication | % of Complications | % of Complications |
 | Septicemia | 5.3 | 4.8 |
@@ -81,4 +87,7 @@ The following reactions occurred rarely: anxiety, chest pain, constipation, depr
 | Wound and Skin Infections | 7.0 | 10.1 |
 | Pneumonia | 6.2 | 9.2 |
 
-*Some patients also received ALG.
+## Postmarketing Experience
+
+BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including cyclosporine.
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS).

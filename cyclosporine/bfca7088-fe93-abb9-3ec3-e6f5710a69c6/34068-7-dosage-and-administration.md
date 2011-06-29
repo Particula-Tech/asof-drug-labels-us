@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-## Cyclosporine Capsules USP NON-MODIFIED
+## Cyclosporine Capsules, USP NON-MODIFIED
 
-Cyclosporine Capsules USP (NON-MODIFIED) have decreased bioavailability in comparison to Neoral®* (cyclosporine capsules, USP) MODIFIED.
-Cyclosporine Capsules USP (NON-MODIFIED) and Neoral®* (cyclosporine capsules, USP) MODIFIED are not bioequivalent and cannot be used interchangeably without physician supervision.
+Cyclosporine Capsules, USP (NON-MODIFIED) have decreased bioavailability in comparison to Neoral®* (cyclosporine capsules, USP) MODIFIED.
+Cyclosporine Capsules, USP (NON-MODIFIED) and Neoral®* (cyclosporine capsules, USP) MODIFIED are not bioequivalent and cannot be used interchangeably without physician supervision.
 
-The initial oral dose of Cyclosporine Capsules USP NON-MODIFIED should be given 4 to 12 hours prior to transplantation as a single dose of 15 mg/kg.
+The initial oral dose of Cyclosporine Capsules, USP NON-MODIFIED should be given 4 to 12 hours prior to transplantation as a single dose of 15 mg/kg.
 Although a daily single dose of 14 to 18 mg/kg was used in most clinical trials, few centers continue to use the highest dose, most favoring the lower end of the scale.
 There is a trend towards use of even lower initial doses for renal transplantation in the ranges of 10 to 14 mg/kg/day.
 The initial single daily dose is continued postoperatively for 1 to 2 weeks and then tapered by 5% per week to a maintenance dose of 5 to 10 mg/kg/day.
@@ -22,7 +22,7 @@ Another center started with an initial dose of 200 mg tapered by 40 mg/day until
 After 2 months at this dose, a further reduction to 10 mg/day was made.
 Adjustments in dosage of prednisone must be made according to the clinical situation.
 
-Cyclosporine Capsules USP NON-MODIFIED should be administered on a consistent schedule with regard to time of day and relation to meals.
+Cyclosporine Capsules, USP NON-MODIFIED should be administered on a consistent schedule with regard to time of day and relation to meals.
 
 ## Blood Level Monitoring
 

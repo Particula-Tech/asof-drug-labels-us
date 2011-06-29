@@ -4,6 +4,7 @@ Cyclosporine is a potent immunosuppressive agent which in animals prolongs survi
 Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund's adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
 
 Successful kidney, liver, and heart allogeneic transplants have been performed in man using cyclosporine.
+
 The exact mechanism of action of cyclosporine is not known.
 Experimental evidence suggests that the effectiveness of cyclosporine is due to specific and reversible inhibition of immunocompetent lymphocytes in the G0- or G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
