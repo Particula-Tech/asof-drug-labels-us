@@ -5,12 +5,10 @@
   "inn": "clindamycin",
   "labeler": "Pharmacia and Upjohn Company",
   "package_ndcs": [
-    "0009-0225-01",
     "0009-0225-02",
     "0009-0225-03",
     "0009-0331-02",
     "0009-0395-02",
-    "0009-0395-13",
     "0009-0395-14"
   ],
   "products": [

@@ -2,9 +2,10 @@
 
 If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
 
-Adults: Serious infections—150 to 300 mg every 6 hours.More severe infections—300 to 450 mg every 6 hours.
-Pediatric Patients: Serious infections—8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
-More severe infections—16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
+Adults: Serious infections – 150 to 300 mg every 6 hours.
+More severe infections – 300 to 450 mg every 6 hours.
+Pediatric Patients: Serious infections – 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses.
+More severe infections – 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.
 
 To avoid the possibility of esophageal irritation, CLEOCIN HCl Capsules should be taken with a full glass of water.
 

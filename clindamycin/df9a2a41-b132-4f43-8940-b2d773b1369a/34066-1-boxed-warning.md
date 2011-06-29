@@ -1,15 +1,15 @@
 # WARNING
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN HCL and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C.difficle.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN HCl and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficle.
 
-Because CLEOCIN HCL therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the INDICATIONS AND USAGE section.
+Because CLEOCIN HCl therapy has been associated with severe colitis which may end fatally, it should be reserved for serious infections where less toxic antimicrobial agents are inappropriate, as described in the INDICATIONS AND USAGE section.
 It should not be used in patients with nonbacterial infections such as most upper respiratory tract infections.
 
-C.difficile produces toxins A and B which contribute to the development of CDAD.
+C. difficile produces toxins A and B, which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treamtment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
