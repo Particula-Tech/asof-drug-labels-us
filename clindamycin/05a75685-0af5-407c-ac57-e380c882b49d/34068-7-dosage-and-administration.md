@@ -2,7 +2,9 @@
 
 If diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
 
-Adults: Parenteral (IM or IV Administration): Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
+## Adults
+
+Parenteral (IM or IV Administration): Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
 
 600–1200 mg/day in 2, 3 or 4 equal doses.
 
@@ -25,10 +27,14 @@ Alternatively, drug may be administered in the form of a single rapid infusion o
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-Neonates (less than 1 month): 15 to 20 mg/kg/day in 3 to 4 equal doses.
+## Neonates (less than 1 month)
+
+15 to 20 mg/kg/day in 3 to 4 equal doses.
 The lower dosage may be adequate for small prematures.
 
-Pediatric patients 1 month of age to 16 years: Parenteral (IM or IV) Administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
+## Pediatric patients 1 month of age to 16 years
+
+Parenteral (IM or IV) Administration: 20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
 
@@ -54,7 +60,9 @@ Administration of more than 1200 mg in a single 1-hour infusion is not recommend
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Dilution and Compatibility: Physical and biological compatibility studies monitored for 24 hours at room temperature have demonstrated no inactivation or incompatibility with the use of CLEOCIN PHOSPHATE Sterile Solution (clindamycin phosphate) in IV solutions containing sodium chloride, glucose, calcium or potassium, and solutions containing vitamin B complex in concentrations usually used clinically.
+## Dilution and Compatibility
+
+Physical and biological compatibility studies monitored for 24 hours at room temperature have demonstrated no inactivation or incompatibility with the use of CLEOCIN PHOSPHATE Sterile Solution (clindamycin phosphate) in IV solutions containing sodium chloride, glucose, calcium or potassium, and solutions containing vitamin B complex in concentrations usually used clinically.
 No incompatibility has been demonstrated with the antibiotics cephalothin, kanamycin, gentamicin, penicillin or carbenicillin.
 
 The following drugs are physically incompatible with clindamycin phosphate: ampicillin sodium, phenytoin sodium, barbiturates, aminophylline, calcium gluconate, and magnesium sulfate.
@@ -78,7 +86,7 @@ Frozen solutions should be thawed at room temperature and not refrozen.
 
 ## DIRECTIONS FOR DISPENSING
 
-Pharmacy Bulk Package — Not for Direct Infusion
+### Pharmacy Bulk Package — Not for Direct Infusion
 
 The Pharmacy Bulk Package is for use in a Pharmacy Admixture Service only under a laminar flow hood.
 Entry into the vial should be made with a small diameter sterile transfer set or other small diameter sterile dispensing device, and contents dispensed in aliquots using aseptic technique.
@@ -88,7 +96,7 @@ ANY UNUSED PORTION MUST BE DISCARDED WITHIN 24 HOURS AFTER INITIAL ENTRY.
 
 ## DIRECTIONS FOR USE
 
-CLEOCIN PHOSPHATE IV Solution in Galaxy Plastic Container
+### CLEOCIN PHOSPHATE IV Solution in Galaxy Plastic Container
 
 Premixed CLEOCIN PHOSPHATE IV Solution is for intravenous administration using sterile equipment.
 Check for minute leaks prior to use by squeezing bag firmly.
@@ -100,14 +108,15 @@ Do not use unless solution is clear and seal is intact.
 Caution: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
 
-### Preparation for Administration:
+Preparation for Administration:
 
 1. Suspend container from eyelet support.
 2. Remove protector from outlet port at bottom of container.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-Preparation of CLEOCIN PHOSPHATE in ADD-Vantage System—For IV Use Only.
+### Preparation of CLEOCIN PHOSPHATE in ADD-Vantage System
+
+For IV Use Only.
 CLEOCIN PHOSPHATE 600 mg and 900 mg may be reconstituted in 50 mL or 100 mL, respectively, of dextrose injection 5% or sodium chloride injection 0.9% in the ADD-diluent container.
-Refer to separate instructions for ADD-VantageADD-Vantage is a registered trademark of Abbott Laboratories.
-System.
+Refer to separate instructions for ADD-Vantage‡ System.

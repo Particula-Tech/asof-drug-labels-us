@@ -14,8 +14,8 @@ CLEOCIN PHOSPHATE is supplied in ADD-Vantage vials as follows:
 
 | NDC | Vial Size | Total Clindamycin Phosphate/vial | Amount of Diluent |
 | --- | --- | --- | --- |
-| 0009-3124-03 | 25–4 mL Vials | 600 mg | 50 mL |
-| 0009-3447-03 | 25–6 mL vials | 900 mg | 100 mL |
+| 0009-3124-03 | 25-4 mL Vials | 600 mg | 50 mL |
+| 0009-3447-03 | 25-6 mL vials | 900 mg | 100 mL |
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 

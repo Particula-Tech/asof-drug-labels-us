@@ -1,4 +1,8 @@
-# CLEOCIN PHOSPHATE® clindamycin sterile solution for injection, USP in ADD-Vantage® Vial For Intravenous Use Only NOT FOR INTRAMUSCULAR USE INSTRUCTIONS FOR USE FOR ADD-VANTAGE SYSTEM—FOR IV USE ONLY
+# CLEOCIN PHOSPHATE® clindamycin sterile solution for injection, USP in ADD-Vantage® Vial
+
+For Intravenous Use Only NOT FOR INTRAMUSCULAR USE
+
+INSTRUCTIONS FOR USE FOR ADD-VANTAGE SYSTEM—FOR IV USE ONLY
 
 To Open Diluent Container:
 
@@ -58,8 +62,6 @@ Preparation for Administration: (Use Aseptic Technique)
 
 WARNING: Do not use flexible container in series connections.
 
-ADD-Vantage® is a registered trademark of Abbott Laboratories, Inc.
+ADD-Vantage® is a registered trademark of Abbott Laboratories.
 
-LAB-0050-3.0
-
-April 2010
+LAB-0050-3.0 June 2011

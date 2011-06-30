@@ -51,67 +51,50 @@ Average Peak and Trough Serum Concentrations of Active Clindamycin After Dosing 
 ## Microbiology
 
 Clindamycin inhibits bacterial protein synthesis by binding to the 50S subunit of the ribosome.
-It has activity against Gram-positive aerobes and anaerobes, as well as the Gram-negative anaerobes.
+It has activity against Gram-positive aerobes and anaerobes, as well as some Gram-negative anaerobes.
 Clindamycin is bacteriostatic.
 Cross-resistance between clindamycin and lincomycin is complete.
 Antagonism in vitro has been demonstrated between clindamycin and erythromycin.
 Clindamycin inducible resistance has been identified in macrolide-resistant staphylococci and beta-hemolytic streptococci.
-Macrolide-resistant isolates of these organisms should be screened for clindamycin inducible resistance using the D-test.
+Macrolide-resistant isolates of these organisms should be screened for clindamycin inducible resistance using the D-zone test.
 
 Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections, as described in the INDICATIONS AND USAGE section.
 
 Gram-positive Aerobes
 
-Staphylococcus aureus (methicillin-susceptible strains)
-
-Streptococcus pneumoniae (penicillin-susceptible strains)
-
-Streptococcus pyogenes
+- Staphylococcus aureus (methicillin-susceptible strains)
+- Streptococcus pneumoniae (penicillin-susceptible strains)
+- Streptococcus pyogenes
 
 Anaerobes
 
-Prevotella melaninogenica
-
-Fusobacterium necrophorum
-
-Fusobacterium nucleatum
-
-Peptostreptococcus anaerobius
-
-Clostridium perfringens
+- Prevotella melaninogenica
+- Fusobacterium necrophorum
+- Fusobacterium nucleatum
+- Peptostreptococcus anaerobius
+- Clostridium perfringens
 
 At least 90% of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clindamycin susceptible MIC breakpoint for organisms of a similar type to those shown in Table 2.
 However, the efficacy of clindamycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled clinical trials.
 
-Gram-positive Microorganisms
+Gram-positive aerobes
 
-Staphylococcus epidermidis (methicillin-susceptible strains)
+- Staphylococcus epidermidis (methicillin-susceptible strains)
+- Streptococcus agalactiae
+- Streptococcus anginosus
+- Streptococcus oralis
+- Streptococcus mitis
 
-Streptococcus agalactiae
+Anaerobes
 
-Streptococcus anginosus
-
-Streptococcus oralis
-
-Streptococcus mitis
-
-Anaerobic Microorganisms
-
-Prevotella intermedia
-
-Prevotella bivia
-
-Propionibacterium acnes
-
-Micromonas ("Peptostreptococcus") micros
-
-Finegoldia ("Peptostreptococcus") magna
-
-Actinomyces israelii
-
-Clostridium clostridioforme
-
-Eubacterium lentum
+- Prevotella intermedia
+- Prevotella bivia
+- Propionibacterium acnes
+- Micromonas ("Peptostreptococcus") micros
+- Finegoldia ("Peptostreptococcus") magna
+- Actinomyces israelii
+- Clostridium clostridioforme
+- Eubacterium lentum
 
 ## Susceptibility Testing Methods
 
@@ -152,10 +135,8 @@ A report of "Resistant" indicates that the pathogen is not likely to be inhibite
 
 ### Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.,2,3,4 Standard clindamycin powder should provide the MIC ranges in Table 3.
-For the disk diffusion technique using the 2 mcg clindamycin disk the criteria provided in Table 2 should be
-
-achieved.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.2,3,4,5 Standard clindamycin powder should provide the MIC ranges in Table 3.
+For the disk diffusion technique using the 2 mcg clindamycin disk the criteria provided in Table 2 should be achieved.
 
 Table 3.
 Acceptable Quality Control Ranges for Clindamycin to be Used in Validation of Susceptibility Test Results
