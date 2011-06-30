@@ -73,7 +73,7 @@ The resultant concentration after diluting to a final volume of 50 mL is as foll
 
 Withdraw appropriate amount of volume for desired dose (0.5 mg/kg) and administer as an intravenous infusion over 10 minutes to 30 minutes
 
-Intravenous Infusion (10 mg and 20 mg) over 10 minutes to 30 minutes for Pediatrc Patients, ages 1 year to 17 years of age
+Intravenous Infusion (10 mg and 20 mg) over 10 minutes to 30 minutes for Pediatric Patients, ages 1 year to 17 years of age
 
 40 mg vial
 
