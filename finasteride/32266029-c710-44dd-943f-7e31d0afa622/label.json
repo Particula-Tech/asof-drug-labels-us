@@ -1,14 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078341"
+  ],
   "inn": "finasteride",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
     "65862-149-01",
     "65862-149-05",
     "65862-149-30",
+    "65862-149-61",
     "65862-149-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "finasteride",
+      "name": "Finasteride"
+    }
+  ],
   "setid": "32266029-c710-44dd-943f-7e31d0afa622",
   "source": "dailymed"
 }

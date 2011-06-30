@@ -1,16 +1,20 @@
 # ADVERSE REACTIONS
 
 Finasteride is generally well tolerated; adverse reactions usually have been mild and transient.
-4-Year Placebo-Controlled Study In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
+
+## 4-Year Placebo-Controlled Study
+
+In a long-term efficacy and safety study, 1524 patients treated with finasteride and 1516 patients treated with placebo were evaluated for safety over a period of 4 years.
 The most frequently reported adverse reactions were related to sexual function.
 3.7% (57 patients) treated with finasteride and 2.1% (32 patients) treated with placebo discontinued therapy as a result of adverse reactions related to sexual function, which are the most frequently reported adverse reactions.
-Table 1 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
+Table 2 presents the only clinical adverse reactions considered possibly, probably or definitely drug related by the investigator, for which the incidence on finasteride was ≥1% and greater than placebo over the 4 years of the study.
 In years 2 to 4 of the study, there was no significant difference between treatment groups in the incidences of impotence, decreased libido and ejaculation disorder.
+
+TABLE 2 Drug-Related Adverse Experiences
 
 | Finasteride | Placebo | Finasteride | Placebo |  |
 | --- | --- | --- | --- | --- |
-| TABLE 1 Drug-Related Adverse Experiences |  |  |  |  |
-|  | Year 1(%) |  | Years 2, 3 and 4*(%) |  |
+|  | Year 1 (%) |  | Years 2, 3 and 4* (%) |  |
 | Impotence | 8.1 | 3.7 | 5.1 | 5.1 |
 | Decreased Libido | 6.4 | 3.4 | 2.6 | 2.6 |
 | Decreased Volume of Ejaculate | 3.7 | 0.8 | 1.5 | 0.5 |
@@ -18,7 +22,7 @@ In years 2 to 4 of the study, there was no significant difference between treatm
 | Breast Enlargement | 0.5 | 0.1 | 1.8 | 1.1 |
 | Breast Tenderness | 0.4 | 0.1 | 0.7 | 0.3 |
 | Rash | 0.5 | 0.2 | 0.5 | 0.1 |
-| *Combined Years 2 to 4 N = 1524 and 1516, finasteride vs placebo, respectively |  |  |  |  |
+| * Combined Years 2 to 4 N = 1524 and 1516, finasteride vs placebo, respectively |  |  |  |  |
 
 ## Phase III Studies and 5-Year Open Extensions
 
@@ -41,8 +45,4 @@ Finasteride is not approved to reduce the risk of developing prostate cancer.
 
 ## Post-Marketing Experience
 
-The following additional adverse effects have been reported in post-marketing experience:
-
-- hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
-
-- testicular pain
+The following additional adverse effects have been reported in post-marketing experience: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face. - testicular pain.

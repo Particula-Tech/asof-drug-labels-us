@@ -1,7 +1,10 @@
 # WARNINGS
 
-Finasteride is not indicated for use in pediatric patients (see PRECAUTIONS, Pediatric Use ) or women (see also WARNINGS, EXPOSURE OF WOMEN — RISK TO MALE FETUS ; PRECAUTIONS, Information for Patients and Pregnancy ; and HOW SUPPLIED ).
-EXPOSURE OF WOMEN — RISK TO MALE FETUS Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
+Finasteride is not indicated for use in pediatric patients (see PRECAUTIONS, Pediatric Use ) or women (see also WARNINGS, EXPOSURE OF WOMEN — RISK TO MALE FETUS; PRECAUTIONS , Information for Patients and Pregnancy ; and HOW SUPPLIED ).
+
+## EXPOSURE OF WOMEN — RISK TO MALE FETUS
+
+Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
 Finasteride tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
 (See CONTRAINDICATIONS; PRECAUTIONS, Information for Patients and Pregnancy ; and HOW SUPPLIED .)
 
@@ -19,18 +22,20 @@ Caution should be used in the administration of finasteride in those patients wi
 No clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride.
 Patients with BPH and elevated PSA were monitored in controlled clinical studies with serial PSAs and prostate biopsies.
 In these BPH studies, finasteride did not appear to alter the rate of prostate cancer detection, and the overall incidence of prostate cancer was not significantly different in patients treated with finasteride or placebo.
-Finasteride causes a decrease in serum PSA levels by approximately 50% in patients with BPH, even in the presence of prostate cancer.
+Finasteride causes a decrease in serum PSA levels by approximately 50% in patients with BPH.
 This decrease is predictable over the entire range of PSA values, although it may vary in individual patients.
 Analysis of PSA data from over 3000 patients in a long-term efficacy and safety study confirmed that in typical patients treated with finasteride for six months or more, PSA values should be doubled for comparison with normal ranges in untreated men.
 This adjustment preserves the sensitivity and specificity of the PSA assay and maintains its ability to detect prostate cancer.
-Any sustained increases in PSA levels while on finasteride should be carefully evaluated, including consideration of non-compliance to therapy with finasteride.
+Finasteride may also cause decreases in serum PSA in the presence of prostate cancer.
+Any confirmed increases in PSA levels from nadir while on finasteride may signal the presence of prostate cancer and should be carefully evaluated, even if those values are still within the normal range for men not taking a 5α-reductase inhibitor.
+Non-compliance with finasteride therapy may also affect PSA test results.
 Percent free PSA (free to total PSA ratio) is not significantly decreased by finasteride.
 The ratio of free to total PSA remains constant even under the influence of finasteride.
 If clinicians elect to use percent free PSA as an aid in the detection of prostate cancer in men undergoing finasteride therapy, no adjustment to its value appears necessary.
 
 ## Information for Patients
 
-Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to the male fetus (see CONTRAINDICATIONS; WARNINGS, EXPOSURE OF WOMEN — RISK TO MALE FETUS ; PRECAUTIONS, Pregnancy and HOW SUPPLIED ).
+Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to the male fetus (see CONTRAINDICATIONS ; WARNINGS, EXPOSURE OF WOMEN — RISK TO MALE FETUS; PRECAUTIONS, Pregnancy and HOW SUPPLIED ).
 Physicians should inform patients that the volume of ejaculate may be decreased in some patients during treatment with finasteride.
 This decrease does not appear to interfere with normal sexual function.
 However, impotence and decreased libido may occur in patients treated with finasteride (see ADVERSE REACTIONS ).
@@ -38,23 +43,25 @@ Physicians should instruct their patients to promptly report any changes in thei
 Breast changes including breast enlargement, tenderness and neoplasm have been reported (see ADVERSE REACTIONS ).
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride and to reread it each time the prescription is renewed so that they are aware of current information for patients regarding finasteride.
 
-## Drug Interactions
-
-No drug interactions of clinical importance have been identified.
-Finasteride does not appear to affect the cytochrome P450-linked drug metabolizing enzyme system.
-Compounds that have been tested in man have included antipyrine, digoxin, propranolol, theophylline, and warfarin and no clinically meaningful interactions were found.
-Other Concomitant Therapy: Although specific interaction studies were not performed, finasteride was concomitantly used in clinical studies with acetaminophen, acetylsalicylic acid, α-blockers, angiotensin-converting enzyme (ACE) inhibitors, analgesics, anti-convulsants, beta-adrenergic blocking agents, diuretics, calcium channel blockers, cardiac nitrates, HMG-CoA reductase inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs), benzodiazepines, H 2 antagonists and quinolone anti-infectives without evidence of clinically significant adverse interactions.
-
 ## Drug/Laboratory Test Interactions
 
 In patients with BPH, finasteride has no effect on circulating levels of cortisol, estradiol, prolactin, thyroid-stimulating hormone, or thyroxine.
 No clinically meaningful effect was observed on the plasma lipid profile (i.e., total cholesterol, low density lipoproteins, high density lipoproteins and triglycerides) or bone mineral density.
 Increases of about 10% were observed in luteinizing hormone (LH) and follicle-stimulating hormone (FSH) in patients receiving finasteride, but levels remained within the normal range.
 In healthy volunteers, treatment with finasteride did not alter the response of LH and FSH to gonadotropin-releasing hormone indicating that the hypothalamic-pituitary-testicular axis was not affected.
-
 Treatment with finasteride for 24 weeks to evaluate semen parameters in healthy male volunteers revealed no clinically meaningful effects on sperm concentration, mobility, morphology, or pH.
 A 0.6 mL (22.1%) median decrease in ejaculate volume with a concomitant reduction in total sperm per ejaculate was observed.
 These parameters remained within the normal range and were reversible upon discontinuation of therapy with an average time to return to baseline of 84 weeks.
+
+## Drug Interactions
+
+No drug interactions of clinical importance have been identified.
+Finasteride does not appear to affect the cytochrome P450-linked drug metabolizing enzyme system.
+Compounds that have been tested in man have included antipyrine, digoxin, propranolol, theophylline, and warfarin and no clinically meaningful interactions were found.
+
+### Other Concomitant Therapy
+
+Although specific interaction studies were not performed, finasteride was concomitantly used in clinical studies with acetaminophen, acetylsalicylic acid, α-blockers, angiotensin-converting enzyme (ACE) inhibitors, analgesics, anti-convulsants, beta-adrenergic blocking agents, diuretics, calcium channel blockers, cardiac nitrates, HMG-CoA reductase inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs), benzodiazepines, H 2 antagonists and quinolone anti-infectives without evidence of clinically significant adverse interactions.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -78,7 +85,7 @@ The seminal plug is essential for normal fertility in rats and is not relevant i
 
 ## Pregnancy
 
-Pregnancy Category X- See CONTRAINDICATIONS.
+Pregnancy Category X See CONTRAINDICATIONS.
 Finasteride is not indicated for use in women.
 Administration of finasteride to pregnant rats at doses ranging from 100 mcg/kg/day to 100 mg/kg/day (1 to 1000 times the recommended human dose of 5 mg/day) resulted in dose-dependent development of hypospadias in 3.6 to 100% of male offspring.
 Pregnant rats produced male offspring with decreased prostatic and seminal vesicular weights, delayed preputial separation and transient nipple development when given finasteride at ≥30 mcg/kg/day (≥3/10 of the recommended human dose of 5 mg/day) and decreased anogenital distance when given finasteride at ≥3 mcg/kg/day (≥3/100 of the recommended human dose of 5 mg/day).

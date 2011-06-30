@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS
 
 Finasteride tablets are contraindicated in the following: Hypersensitivity to any component of this medication.
-Pregnancy .
+Pregnancy.
 Finasteride use is contraindicated in women when they are or may potentially be pregnant.
 Because of the ability of Type II 5α-reductase inhibitors to inhibit the conversion of testosterone to DHT, finasteride may cause abnormalities of the external genitalia of a male fetus of a pregnant woman who receives finasteride.
 If this drug is used during pregnancy, or if pregnancy occurs while taking this drug, the pregnant woman should be apprised of the potential hazard to the male fetus.

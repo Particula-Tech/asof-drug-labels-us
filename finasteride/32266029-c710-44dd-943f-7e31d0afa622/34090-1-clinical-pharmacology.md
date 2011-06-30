@@ -48,7 +48,7 @@ Two metabolites, the t-butyl side chain monohydroxylated and monocarboxylic acid
 
 ### Excretion
 
-In healthy young subjects (n=15), mean plasma clearance of finasteride was 165 mL/min (range, 70 to 279 mL/min and mean elimination half-life in plasma was 6 hours (range, 3 to 16 hours).
+In healthy young subjects (n=15), mean plasma clearance of finasteride was 165 mL/min (range, 70 to 279 mL/min) and mean elimination half-life in plasma was 6 hours (range, 3 to 16 hours).
 Following an oral dose of 14 C-finasteride in man (n=6), a mean of 39% (range, 32 to 46%) of the dose was excreted in the urine in the form of metabolites; 57% (range, 51 to 64%) was excreted in the feces.
 The mean terminal half-life of finasteride in subjects ≥70 years of age was approximately 8 hours (range, 6 to 15 hours; n=12), compared with 6 hours (range, 4 to 12 hours; n=12) in subjects 45 to 60 years of age.
 As a result, mean AUC (0-24 hr) after 17 days of dosing was 15% higher in subjects ≥70 years of age than in subjects 45 to 60 years of age (p=0.02).
@@ -67,7 +67,7 @@ Finasteride pharmacokinetics in women are not available.
 
 No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
-See also Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION.
+See also Pharmacokinetics, Excretion, PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION .
 
 ### Race
 
@@ -76,7 +76,7 @@ The effect of race on finasteride pharmacokinetics has not been studied.
 ### Renal Insufficiency
 
 No dosage adjustment is necessary in patients with renal insufficiency.
-In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14C-finasteride were similar to values obtained in healthy volunteers.
+In patients with chronic renal impairment, with creatinine clearances ranging from 9 to 55 mL/min, AUC, maximum plasma concentration, half-life, and protein binding after a single dose of 14 C-finasteride were similar to values obtained in healthy volunteers.
 Urinary excretion of metabolites was decreased in patients with renal impairment.
 This decrease was associated with an increase in fecal excretion of metabolites.
 Plasma concentrations of metabolites were significantly higher in patients with renal impairment (based on a 60% increase in total radioactivity AUC).
@@ -89,35 +89,33 @@ Caution should be used in the administration of finasteride in those patients wi
 
 ## Drug Interactions
 
-(also see PRECAUTIONS, Drug Interactions)
-
-No drug interactions of clinical importance have been identified.
+(also see PRECAUTIONS, Drug Interactions ) No drug interactions of clinical importance have been identified.
 Finasteride does not appear to affect the cytochrome P450-linked drug metabolism enzyme system.
 Compounds that have been tested in man have included antipyrine, digoxin, propranolol, theophylline, and warfarin, and no clinically meaningful interactions were found.
 
-|  | Mean (± SD) |
-| --- | --- |
 | Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15) |  |
+| --- | --- |
+|  | Mean (± SD) |
 | Bioavailability | 63% (34-108%)* |
 | Clearance (mL/min) | 165 (55) |
 | Volume of Distribution (L) | 76 (14) |
 | Half-Life (hours) | 6.2 (2.1) |
 | *Range |  |
 
-| 45-60 years old (n=12) | ≥70 years old (n=12) |  |
-| --- | --- | --- |
 | Mean (SD) Noncompartmental Pharmacokinetic Parameters After Multiple Doses of 5 mg/day in Older Men |  |  |
+| --- | --- | --- |
 |  | Mean (± SD) |  |
+| 45 to 60 years old (n=12) | ≥70 years old (n=12) |  |
 | AUC (ng•hr/mL) | 389 (98) | 463 (186) |
 | Peak Concentration (ng/mL) | 46.2 (8.7) | 48.4 (14.7) |
 | Time to Peak (hours) | 1.8 (0.7) | 1.8 (0.6) |
-| Half-Life (hours)* | 6.0 (1.5) | 8.2 (2.5) |
+| Half-Life (hours)* | 6 (1.5) | 8.2 (2.5) |
 | *First-dose values; all other parameters are last-dose values |  |  |
 
 ## Clinical Studies
 
 Finasteride 5 mg/day was initially evaluated in patients with symptoms of BPH and enlarged prostates by digital rectal examination in two 1-year, placebo-controlled, randomized, double-blind studies and their 5-year open extensions.
-Finasteride was further evaluated in a long term efficacy and safety study, a double-blind, randomized, placebo-controlled, 4-year, multicenter study.
+Finasteride was further evaluated in a long-term efficacy and safety study, a double-blind, randomized, placebo-controlled, 4-year, multicenter study.
 3040 patients between the ages of 45 and 78, with moderate to severe symptoms of BPH and an enlarged prostate upon digital rectal examination, were randomized into the study (1524 to finasteride, 1516 to placebo) and 3016 patients were evaluable for efficacy.
 1883 patients completed the 4-year study (1000 in the finasteride group, 883 in the placebo group).
 
@@ -126,7 +124,7 @@ Finasteride was further evaluated in a long term efficacy and safety study, a do
 Symptoms were quantified using a score similar to the American Urological Association Symptom Score, which evaluated both obstructive symptoms (impairment of size and force of stream, sensation of incomplete bladder emptying, delayed or interrupted urination) and irritative symptoms (nocturia, daytime frequency, need to strain or push the flow of urine) by rating on a 0 to 5 scale for six symptoms and a 0 to 4 scale for one symptom, for a total possible score of 34.
 Patients in a long-term efficacy and safety study had moderate to severe symptoms at baseline (mean of approximately 15 points on a 0 to 34 point scale).
 Patients randomized to finasteride who remained on therapy for 4 years had a mean (± 1 SD) decrease in symptom score of 3.3 (± 5.8) points compared with 1.3 (± 5.6) points in the placebo group.
-(See Figure 1 .)
+(See Figure 1.)
 A statistically significant improvement in symptom score was evident at 1 year in patients treated with finasteride vs placebo (–2.3 vs –1.6), and this improvement continued through Year 4.
 Figure 1 Symptom Score in a Long-Term Efficacy and Safety Study Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Although an early improvement in urinary symptoms was seen in some patients, a therapeutic trial of at least 6 months was generally necessary to assess whether a beneficial response in symptom relief had been achieved.
@@ -138,7 +136,26 @@ In a long-term efficacy and safety study, efficacy was also assessed by evaluati
 Treatment failure was prospectively defined as BPH-related urological events or clinical deterioration, lack of improvement and/or the need for alternative therapy.
 BPH-related urological events were defined as urological surgical intervention.
 Complete event information was available for 92% of the patients.
-The following table (Table 1) summarizes the results
+The following table (Table 1) summarizes the results.
+
+Table 1 All Treatment Failures in a Long-Term Efficacy and Safety Study
+
+| Event | Placebo N=1503 | Finasteride N=1513 | Relative Risk** | 95% CI | P Value** |
+| --- | --- | --- | --- | --- | --- |
+|  | Patients (%)* |  |  |  |  |
+| All Treatment Failures | 37.1 | 26.2 | 0.68 | (0.57 to 0.79) | <0.001 |
+| Surgical Interventions for BPH | 10.1 | 4.6 | 0.45 | (0.32 to 0.63) | <0.001 |
+| Two consecutive symptom scores ≥20 | 9.2 | 6.7 |  |  |  |
+| Bladder Stone | 0.4 | 0.5 |  |  |  |
+| Incontinence | 2.1 | 1.7 |  |  |  |
+| Renal Failure | 0.5 | 0.6 |  |  |  |
+| UTI | 5.7 | 4.9 |  |  |  |
+| Discontinuation due to worsening of BPH, lack of improvement, or to receive other medical treatment | 21.8 | 13.3 |  |  |  |
+| * patients with multiple events may be counted more than once for each type of event ** Hazard ratio based on log rank test |  |  |  |  |  |
+
+Compared with placebo, finasteride was associated with a significantly lower need for BPH-related surgery.
+Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
+Figure 2 Percent of Patients Having Surgery for BPH, Including TURP
 
 ### Effect on Maximum Urinary Flow Rate
 
@@ -151,11 +168,11 @@ In the earlier 1-year studies, increase in maximum urinary flow rate was compara
 In a long-term efficacy and safety study, prostate volume was assessed yearly by magnetic resonance imaging (MRI) in a subset of patients.
 In patients treated with finasteride who remained on therapy, prostate volume was reduced compared with both baseline and placebo throughout the 4-year study.
 Finasteride decreased prostate volume by 17.9% (from 55.9 cc at baseline to 45.8 cc at 4 years) compared with an increase of 14.1% (from 51.3 cc to 58.5 cc) in the placebo group (p<0.001).
-(See Figure 2 .)
+(See Figure 3.)
 Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Mean prostate volume at baseline ranged between 40 to 50 cc.
 The reduction in prostate volume was seen during the first year and maintained throughout an additional five years of open extension studies.
-Figure 2 Prostate Volume in a Long-Term Efficacy and Safety Study
+Figure 3 Prostate Volume in a Long-Term Efficacy and Safety Study
 
 ### Prostate Volume as a Predictor of Therapeutic Response
 
