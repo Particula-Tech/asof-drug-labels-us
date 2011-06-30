@@ -20,19 +20,19 @@ The following additional clinical adverse events have been reported with the use
 Gastrointestinal: Sialadenitis, pancreatitis.
 There have been sporadic reports of pseudomembranous colitis with the use of nitrofurantoin.
 The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
-(See WARNINGS).
+(See WARNINGS.)
 
 Neurologic: Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
 Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating diseases may increase the possibility of peripheral neuropathy.
-(See WARNINGS).
+(See WARNINGS.)
 
 Asthenia, vertigo, and nystagmus also have been reported with the use of nitrofurantoin.
 
 Benign intracranial hypertension (pseudotumor cerebri), confusion, depression, optic neuritis, and psychotic reactions have been reported rarely.
 Bulging fontanels, as a sign of benign intracranial hypertension in infants, have been reported rarely.
 
-Respiratory:
+## Respiratory:
 
 CHRONIC, SUBACUTE, OR ACUTE PULMONARY HYPERSENSITIVITY REACTIONS MAY OCCUR WITH THE USE OF NITROFURANTOIN.
 

@@ -3,111 +3,130 @@
 Each Macrobid capsule contains two forms of nitrofurantoin.
 Twenty-five percent is macrocrystalline nitrofurantoin, which has slower dissolution and absorption than nitrofurantoin monohydrate.
 The remaining 75% is nitrofurantoin monohydrate contained in a powder blend which, upon exposure to gastric and intestinal fluids, forms a gel matrix that releases nitrofurantoin over time.
-Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg Macrobid capsules are similar to those of the 50 mg or 100 mg Macrodantin® (nitrofurantoin macrocrystals).
+Based on urinary pharmacokinetic data, the extent and rate of urinary excretion of nitrofurantoin from the 100 mg Macrobid capsule are similar to those of the 50 mg or 100 mg Macrodantin®(nitrofurantoin macrocrystals) capsule.
 Approximately 20-25% of a single dose of nitrofurantoin is recovered from the urine unchanged over 24 hours.
 
-Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg Macrobid capsuleare low, with peak levels usually less than 1 mcg/mL.
+Plasma nitrofurantoin concentrations after a single oral dose of the 100 mg Macrobid capsule are low, with peak levels usually less than 1 mcg/mL.
 Nitrofurantoin is highly soluble in urine, to which it may impart a brown color.
-When Macrobid are administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%.
+When Macrobid is administered with food, the bioavailability of nitrofurantoin is increased by approximately 40%.
 
-Microbiology: Nitrofurantoin is bactericidal in urine at therapeutic doses.
+## MICROBIOLOGY
+
+Nitrofurantoin is a nitrofuran antimicrobial agent with activity against certain Gram-positive and Gram-negative bacteria.
+
+## Mechanism of Action
+
 The mechanism of the antimicrobial action of nitrofurantoin is unusual among antibacterials.
 Nitrofurantoin is reduced by bacterial flavoproteins to reactive intermediates which inactivate or alter bacterial ribosomal proteins and other macromolecules.
 As a result of such inactivations, the vital biochemical processes of protein synthesis, aerobic energy metabolism, DNA synthesis, RNA synthesis, and cell wall synthesis are inhibited.
+Nitrofurantoin is bactericidal in urine at therapeutic doses.
 The broad-based nature of this mode of action may explain the lack of acquired bacterial resistance to nitrofurantoin, as the necessary multiple and simultaneous mutations of the target macromolecules would likely be lethal to the bacteria.
-Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
-Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin, in the form of Macrobid, has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections: (See INDICATIONS AND USAGE.)
-
-Gram-Positive Aerobes
-
-| Staphylococcus saprophyticus |
-| --- |
-
-Gram-Negative Aerobes
-
-| Escherichia coli |
-| --- |
-
-Nitrofurantoin also demonstrates in vitro activity against the following microorganisms, although the clinical significance of these data with respect to treatment with Macrobid is unknown:
-
-Gram-Positive Aerobes
-
-| Coagulase-negative staphylococci (including Staphylococcus epidermidis) |
-| --- |
-| Enterococcus faecalis |
-| Staphylococcus aureus |
-| Streptococcus agalactiae |
-| Group D streptococci |
-| Viridans group streptococci |
-
-Gram-Negative Aerobes
-
-| Citrobacter amalonaticus Citrobacter diversus |
-| --- |
-| Citrobacter freundii |
-| Klebsiella oxytoca |
-| Klebsiella ozaenae |
-
-Nitrofurantoin is not active against most strains of Proteus species or Serratia species.
-It has no activity against Pseudomonas species.
+## Interactions with Other Antibiotics
 
 Antagonism has been demonstrated in vitro between nitrofurantoin and quinolone antimicrobials.
 The clinical significance of this finding is unknown.
 
-Susceptibility Tests:
+## Development of Resistance
 
-Dilution techniques:
+Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
+Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MIC's).
-These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC's should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of nitrofurantoin powder.
-The MIC values should be interpreted according to the following criteria:
+Nitrofurantoin has been shown to be active against most strains of the following bacteria both
 
-| MIC (μg/mL) | Interpretation |
-| --- | --- |
-| ≤ 32 | Susceptible (S) |
-| 64 | Intermediate (I) |
-| ≥ 128 | Resistant (R) |
+in vitro and in clinical infections [see INDICATIONS AND USAGE):
 
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable; other therapy should be selected.
+## Aerobic and facultative Gram-positive microorganisms:
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard nitrofurantoin powder should provide the following MIC values:
+Staphylococcus saprophyticus
 
-| Microorganism | MIC (μg/mL) |
-| --- | --- |
-| E. coli ATCC 25922 | 4-16 |
-| S. aureus ATCC 29213 | 8-32 |
-| E. faecalis ATCC 29212 | 4-16 |
+## Aerobic and facultative Gram-negative microorganisms:
 
-Diffusion techniques:
+Escherichia coli
+
+At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin.
+However, the efficacy of nitrofurantoin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials.
+
+## Aerobic and facultative Gram-positive microorganisms:
+
+Coagulase-negative staphylococci (including Staphylococcus epidermidis)
+
+Enterococcus faecalis
+
+Staphylococcus aureus
+
+Streptococcus aga/actiae
+
+Group 0 streptococci
+
+Viridans group streptococci
+
+## Aerobic and facultative Gram-negative microorganisms:
+
+Citrobacter ama/onaticus
+
+Citrobacter diversus
+
+Citrobacter freundii
+
+Klebsiella oxytoca
+
+Klebsiella ozaenae
+
+Nitrofurantoin is not active against most strains of Proteus species or Serratia species.
+It has no activity against Pseudomonas species.
+
+## Susceptibility Test Methods:
+
+When available, the clinical microbiology laboratory should provide cumulative results of the
+
+in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting the most effective antimicrobial.
+
+## Dilution techniques:
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MICs should be determined using a standardized procedure.
+Standardized procedures are based on a dilution method (broth or agar) (1) or equivalent with standardized inoculum concentrations and standardized concentrations of nitrofurantoin powder.
+The MIC values should be interpreted according to the criteria provided in Table 1.
+
+## Diffusion technique:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 300 μg nitrofurantoin to test the susceptibility of microorganisms to nitrofurantoin.
+One such standardized procedure (2) requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 300 µg of nitrofurantoin to test the susceptibility of microorganisms to nitrofurantoin.
+The disk diffusion interpretive criteria are provided in Table 1.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 300-μg nitrofurantoin disk should be interpreted according to the following criteria:
+Table 1.
+Susceptibility Interpretive Criteria for Nitrofurantoin
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 17 | Susceptible (S) |
-| 15-16 | Intermediate (I) |
-| ≤ 14 | Resistant (R) |
+| S | I | R | S | I | R |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
+| Minimum Inhibitory Concentrations (µg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |  |
+| Enterobacteriaceae | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
+| Staphylococcus spp. | ≤32 | 64 | ≥128 | ≥17 | 15-16 | ≤14 |
 
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for nitrofurantoin.
+A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable.
+A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
+This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable; other therapy should be selected.
 
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 300 μg nitrofurantoin disk should provide the following zone diameters in these laboratory test quality control strains:
+## Quality Control:
 
-| Microorganism | Zone Diameter (mm) |
-| --- | --- |
-| E. coli ATCC 25922 | 20-25 |
-| S. aureus ATCC 25923 | 18-22 |
+Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures (3).
+Standard nitrofurantoin powder should provide the following range of values noted in Table 2.
+
+Table 2.
+Acceptable Quality Control Ranges for Nitrofurantoin
+
+| Minimum InhibitoryConcentration (µg/mL) | Disk Diffusion(zone diameter in mm) |  |
+| --- | --- | --- |
+| QC Strain | Acceptable Quality Control Ranges |  |
+| Escherichia coli ATCC 25922 | 4 – 16 | 20 -25 |
+| Enterococcus faecalis ATCC 29212 | 4 – 16 | NAa |
+| Staphylococcus aureus ATCC 29213 | 8 – 32 | NAa |
+| Staphylococcus aureus ATCC 25923 | NAa | 18-22 |
+| aNot applicable |  |  |

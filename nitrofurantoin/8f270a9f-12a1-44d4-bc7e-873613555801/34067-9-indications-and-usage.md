@@ -10,7 +10,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 Nitrofurantoins lack the broader tissue distribution of other therapeutic agents approved for urinary tract infections.
 Consequently, many patients who are treated with Macrobid are predisposed to persistence or reappearance of bacteriuria.
-(See CLINICAL STUDIES.)
+(See CLINICAL STUDIES).
 Urine specimens for culture and susceptibility testing should be obtained before and after completion of therapy.
 If persistence or reappearance of bacteriuria occurs after treatment with Macrobid, other therapeutic agents with broader tissue distribution should be selected.
 In considering the use of Macrobid, lower eradication rates should be balanced against the increased potential for systemic toxicity and for the development of antimicrobial resistance when agents with broader tissue distribution are utilized.
