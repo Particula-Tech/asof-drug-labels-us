@@ -24,8 +24,6 @@ QVAR® 40mcg
 
 For Oral Inhalation with QVAR® Actuator Only
 
-NEW120 Metered Inhalations
-
 120 Metered Inhalations 8.7 g Net Contents
 
 CFC FREE
@@ -57,8 +55,6 @@ QVAR® 80mcg
 (beclomethasone dipropionate HFA, 80 mcg) INHALATION AEROSOL
 
 For Oral Inhalation with QVAR® Actuator Only
-
-NEW120 Metered Inhalations
 
 120 Metered Inhalations 8.7 g Net Contents
 
