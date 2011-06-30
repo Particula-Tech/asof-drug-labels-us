@@ -174,6 +174,8 @@ Glycemic Control — In patients with diabetes, PROZAC may alter glycemic contro
 Hypoglycemia has occurred during therapy with PROZAC, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with PROZAC is instituted or discontinued.
 
+Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with PROZAC; therefore, caution should be used when prescribing PROZAC in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
+
 ## 5.11 Potential for Cognitive and Motor Impairment
 
 As with any CNS-active drug, PROZAC has the potential to impair judgment, thinking, or motor skills.

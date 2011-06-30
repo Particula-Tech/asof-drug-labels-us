@@ -6,17 +6,17 @@ NDC 0002-3004-75
 
 Capsules No. 3004
 
-PROZAC Weekly
+PROZAC®WeeklyTM
 
 Fluoxetine Delayed-Release Capsules, USP
 
-Delayed release capsules
+delayed release capsules
 
 once weekly
 
-each capsule
+Each capsule
 
-equivalent to 90 mg
+equivalent to 90 mg fluoxetine
 
 Rx only
 
