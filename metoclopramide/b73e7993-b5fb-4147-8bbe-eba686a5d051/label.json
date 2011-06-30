@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017854"
+  ],
   "inn": "metoclopramide",
-  "labeler": "Schwarz Pharma US",
+  "labeler": "UCB, Inc.",
   "package_ndcs": [
     "0091-6701-63",
     "0091-6701-70",
     "0091-6705-63"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoclopramide hydrochloride",
+      "name": "Reglan"
+    }
+  ],
   "setid": "b73e7993-b5fb-4147-8bbe-eba686a5d051",
   "source": "dailymed"
 }

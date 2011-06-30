@@ -1,0 +1,6 @@
+Rx Only
+
+SCHWARZ PHARMA
+
+PC4445D Rev.
+02/04

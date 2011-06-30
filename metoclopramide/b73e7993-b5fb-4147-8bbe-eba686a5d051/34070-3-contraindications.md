@@ -1,4 +1,4 @@
-# Contraindications
+# CONTRAINDICATIONS
 
 Metoclopramide should not be used whenever stimulation of gastrointestinal motility might be dangerous, e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation.
 

@@ -1,4 +1,4 @@
-# Indications and Usage
+# INDICATIONS AND USAGE
 
 The use of reglan® tablets is recommended for adults only.
 Therapy should not exceed 12 weeks in duration.

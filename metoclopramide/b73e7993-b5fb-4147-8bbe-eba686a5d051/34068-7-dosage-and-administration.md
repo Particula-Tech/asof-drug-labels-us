@@ -5,11 +5,11 @@ Therapy with reglan® tablets should not exceed 12 weeks in duration.
 ## For the Relief of Symptomatic Gastroesophageal Reflux
 
 Administer from 10 mg to 15 mg reglan® (metoclopramide hydrochloride, USP) orally up to q.i.d.
-30 minutes before each meal and at bedtime, depending upon symptoms being treated and clinical response (see Clinical Pharmacology and Indications and Usage).
+30 minutes before each meal and at bedtime, depending upon symptoms being treated and clinical response (see CLINICAL PHARMACOLOGY and INDICATIONS AND USAGE).
 If symptoms occur only intermittently or at specific times of the day, use of metoclopramide in single doses up to 20 mg prior to the provoking situation may be preferred rather than continuous treatment.
 Occasionally, patients (such as elderly patients) who are more sensitive to the therapeutic or adverse effects of metoclopramide will require only 5 mg per dose.
 
-Experience with esophageal erosions and ulcerations is limited, but healing has thus far been documented in one controlled trial using q.i.d. therapy at 15 mg/dose, and this regimen should be used when lesions are present, so long as it is tolerated (see Adverse Reactions).
+Experience with esophageal erosions and ulcerations is limited, but healing has thus far been documented in one controlled trial using q.i.d. therapy at 15 mg/dose, and this regimen should be used when lesions are present, so long as it is tolerated (see ADVERSE REACTIONS).
 Because of the poor correlation between symptoms and endoscopic appearance of the esophagus, therapy directed at esophageal lesions is best guided by endoscopic evaluation.
 
 Therapy longer than 12 weeks has not been evaluated and cannot be recommended.
@@ -25,12 +25,12 @@ However, if severe symptoms are present, therapy should begin with metoclopramid
 Administration of metoclopramide injection up to 10 days may be required before symptoms subside, at which time oral administration may be instituted.
 Since diabetic gastric stasis is frequently recurrent, reglan® therapy should be reinstituted at the earliest manifestation.
 
-# Use in Patients With Renal or Hepatic Impairment
+# USE IN PATIENTS WITH RENAL OR HEPATIC IMPAIRMENT
 
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.
 
-See Overdosage section for information regarding dialysis.
+See OVERDOSAGE section for information regarding dialysis.
 
 Metoclopramide undergoes minimal hepatic metabolism, except for simple conjugation.
 Its safe use has been described in patients with advanced liver disease whose renal function was normal.

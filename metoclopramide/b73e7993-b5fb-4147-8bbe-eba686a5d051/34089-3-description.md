@@ -1,10 +1,12 @@
-# Description
+# DESCRIPTION
 
 For oral administration, reglan® tablets (metoclopramide tablets, USP) 10 mg are white, scored, capsule-shaped tablets engraved REGLAN on one side and SP 10 on the opposite side.
 
 Each tablet contains:
 
-Metoclopramide base10 mg (as the monohydrochloride monohydrate)
+| Metoclopramide base | 10 mg |
+| --- | --- |
+| (as the monohydrochloride monohydrate) |  |
 
 ## Inactive Ingredients
 
@@ -14,7 +16,9 @@ reglan® tablets (metoclopramide tablets, USP) 5 mg are green, elliptical-shaped
 
 Each tablet contains:
 
-Metoclopramide base 5 mg (as the monohydrochloride monohydrate)
+| Metoclopramide base | 5 mg |
+| --- | --- |
+| (as the monohydrochloride monohydrate) |  |
 
 ## Inactive Ingredients
 

@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# CLINICAL PHARMACOLOGY
 
 Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions.
 Its mode of action is unclear.
@@ -18,7 +18,7 @@ The antiemetic properties of metoclopramide appear to be a result of its antagon
 Dopamine produces nausea and vomiting by stimulation of the medullary chemoreceptor trigger zone (CTZ), and metoclopramide blocks stimulation of the CTZ by agents like l-dopa or apomorphine which are known to increase dopamine levels or to possess dopamine-like effects.
 Metoclopramide also abolishes the slowing of gastric emptying caused by apomorphine.
 
-Like the phenothiazines and related drugs, which are also dopamine antagonists, metoclopramide produces sedation and may produce extrapyramidal reactions, although these are comparatively rare (see Warnings).
+Like the phenothiazines and related drugs, which are also dopamine antagonists, metoclopramide produces sedation and may produce extrapyramidal reactions, although these are comparatively rare (see WARNINGS).
 Metoclopramide inhibits the central and peripheral effects of apomorphine, induces release of prolactin and causes a transient increase in circulating aldosterone levels, which may be associated with transient fluid retention.
 
 The onset of pharmacological action of metoclopramide is 1 to 3 minutes following an intravenous dose, 10 to 15 minutes following intramuscular administration, and 30 to 60 minutes following an oral dose; pharmacological effects persist for 1 to 2 hours.
@@ -51,7 +51,7 @@ Adult Pharmacokinetic Data
 | Vd (L/kg) | ~ 3.5 |
 | Plasma Protein Binding | ~ 30% |
 | t½ (hr) | 5 to 6 |
-| Oral Bioavailability | 80% + 15.5% |
+| Oral Bioavailability | 80% ± 15.5% |
 
 In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
 
