@@ -22,8 +22,7 @@ Pitavastatin was absorbed in the small intestine but very little in the colon.
 
 Distribution: Pitavastatin is more than 99% protein bound in human plasma, mainly to albumin and alpha 1-acid glycoprotein, and the mean volume of distribution is approximately 148 L. Association of pitavastatin and/or its metabolites with the blood cells is minimal.
 
-Metabolism:.
-Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8.
+Metabolism: Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8.
 The major metabolite in human plasma is the lactone which is formed via an ester-type pitavastatin glucuronide conjugate by uridine 5'-diphosphate (UDP) glucuronosyltransferase (UGT1A3 and UGT2B7).
 
 Excretion: A mean of 15% of radioactivity of orally administered single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
@@ -65,6 +64,7 @@ Effect of Co-Administered Drugs on Pitavastatin Systemic Exposure
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold † | ↑ 3.6 fold † |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0 fold |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days | ↑ 31% | ↑ 60% |
+| Lopinavir/Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 | ↓ 20% | ↓ 4% |
 | Gemfibrozil | Pitavastatin 4 mg QD + gemfibrozil 600 mg BID for 7 days | ↑ 45% | ↑ 31% |
 | Fenofibrate | Pitavastatin 4 mg QD + fenofibrate 160 mg QD for 7 days | ↑18% | ↑ 11% |
 | Ezetimibe | Pitavastatin 2 mg QD + ezetimibe 10 mg for 7 days | ↓ 2% | ↓0.2% |
@@ -74,6 +74,7 @@ Effect of Co-Administered Drugs on Pitavastatin Systemic Exposure
 | Itraconazole | Pitavastatin 4 mg single dose on Day 4 + itraconazole 200 mg daily for 5 days | ↓ 23% | ↓ 22% |
 | *Data presented as x-fold change represent the ratio between co-administration and pitavastatin alone (i.e., 1-fold = no change). Data presented as % change represent % difference relative to pitavastatin alone (i.e., 0% = no change). |  |  |  |
 | † Considered clinically significant [see Dosage and Administration (2) and Drug Interactions (7)] |  |  |  |
+| BID = twice daily; QD = once daily |  |  |  |
 
 Table 3.
 Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
@@ -81,6 +82,8 @@ Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
 | Co-administered drug | Dose regimen |  | Change in AUC* | Change in Cmax* |
 | --- | --- | --- | --- | --- |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |
+| Lopinavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 |  | ↓ 9% | ↓ 7% |
+| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 |  | ↓ 11% | ↓ 11% |
 | Enalapril | Pitavastatin 4 mg QD + enalapril 20 mg daily for 5 days | Enalapril | ↑ 12% | ↑ 12% |
 | Enalaprilat | ↓ 1% | ↓ 1% |  |  |
 | Warfarin | Individualized maintenance dose of warfarin (2 - 7 mg) for 8 days + pitavastatin 4 mg QD for 9 days | R-warfarin | ↑ 7% | ↑ 3% |
@@ -89,3 +92,4 @@ Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
 | Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |
 | * Data presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). |  |  |  |  |
+| BID = twice daily; QD = once daily |  |  |  |  |

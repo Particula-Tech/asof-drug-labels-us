@@ -31,4 +31,4 @@ LIVALO is a trademark of the Kowa group of companies.
 © Kowa Pharmaceuticals America, Inc. (2009)
 
 Manufactured under license from: Kowa Company, Limited Tokyo 103-8433 Japan Product of Japan Manufactured into tablets by: Patheon, Inc. Cincinnati, OH 45237 USA Marketed by: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117 USA and Lilly USA, LLC.
-Indianapolis, IN 46285 USA To request additional information or if you have questions concerning LIVALO please phone Kowa Pharmaceuticals America, Inc. at 877-8-LIVALO (877-854-8256) or fax your inquiry to 800-689-0244 Rev: [7/2010]
+Indianapolis, IN 46285 USA To request additional information or if you have questions concerning LIVALO please phone Kowa Pharmaceuticals America, Inc. at 877-8-LIVALO (877-854-8256) or fax your inquiry to 800-689-0244 Rev: [6/2011]

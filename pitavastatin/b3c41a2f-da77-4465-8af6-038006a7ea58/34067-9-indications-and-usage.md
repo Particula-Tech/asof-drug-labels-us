@@ -17,7 +17,4 @@ The effect of LIVALO on cardiovascular morbidity and mortality has not been dete
 LIVALO has not been studied in patients with severe renal impairment (glomerular filtration rate < 30 mL/min/1.73 m2) not on hemodialysis.
 LIVALO should not be used in this patient population.
 
-LIVALO has not been studied with the protease inhibitor combination lopinavir/ritonavir.
-LIVALO should not be used with this combination of protease inhibitors.
-
 LIVALO has not been studied in Fredrickson Type I, III, and V dyslipidemias.

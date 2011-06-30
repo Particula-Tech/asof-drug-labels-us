@@ -8,7 +8,7 @@ These risks can occur at any dose level, but increase in a dose-dependent manner
 LIVALO should be prescribed with caution in patients with predisposing factors for myopathy.
 These factors include advanced age (>65 years), renal impairment, and inadequately treated hypothyroidism.
 The risk of myopathy may also be increased with concurrent administration of fibrates or lipid-modifying doses of niacin.
-LIVALO should be administered with caution in patients with impaired renal function, in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see Drug Interactions (7.6), Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)].
+LIVALO should be administered with caution in patients with impaired renal function, in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see Drug Interactions (7.5), Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)].
 
 LIVALO therapy should be discontinued if markedly elevated creatine kinase (CK) levels occur or myopathy is diagnosed or suspected.
 LIVALO therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).

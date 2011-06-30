@@ -15,8 +15,8 @@ LIVALO should not be used in patients with severe renal impairment (glomerular f
 
 ## 2.3 Use with Erythromycin
 
-In patients taking erythromycin, a dose of LIVALO 1 mg once daily should not be exceeded [see Drug Interactions (7.3)].
+In patients taking erythromycin, a dose of LIVALO 1 mg once daily should not be exceeded [see Drug Interactions (7.2)].
 
 ## 2.4 Use with Rifampin
 
-In patients taking rifampin, a dose of LIVALO 2 mg once daily should not be exceeded [see Drug Interactions (7.4)].
+In patients taking rifampin, a dose of LIVALO 2 mg once daily should not be exceeded [see Drug Interactions (7.3)].
