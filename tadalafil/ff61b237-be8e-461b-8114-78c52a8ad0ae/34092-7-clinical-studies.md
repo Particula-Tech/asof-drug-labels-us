@@ -2,7 +2,7 @@
 
 ## 14.1 ADCIRCA for Pulmonary Arterial Hypertension
 
-A randomized, double-blind, 16 week placebo-controlled study was conducted in 405 patients with pulmonary arterial hypertension, defined as a resting mean pulmonary artery pressure (mPAP) ≥25 mmHg, pulmonary capillary wedge pressure (PCWP) ≤15 mmHg, and pulmonary vascular resistance (PVR) ≥3 Wood units via right heart catheterization.
+A randomized, double-blind, 16 week placebo-controlled study was conducted in 405 patients with pulmonary arterial hypertension, defined as a resting mean pulmonary artery pressure (mPAP) ≥25 mm Hg, pulmonary capillary wedge pressure (PCWP) ≤15 mm Hg, and pulmonary vascular resistance (PVR) ≥3 Wood units via right heart catheterization.
 Allowed background therapy included bosentan (maintenance dosing up to 125 mg twice daily) and chronic anticoagulation.
 The use of prostacyclin or analogue, L-arginine, phosphodiesterase inhibitor, or other chronic PAH medications were not permitted.
 

@@ -17,9 +17,9 @@ The overall rates of discontinuation because of an adverse event (AE) in the pla
 The rates of discontinuation because of AEs, other than those related to worsening of PAH, in patients treated with ADCIRCA 40 mg was 4% compared to 5% in placebo-treated patients.
 
 In the placebo-controlled study, the most common AEs were generally transient and mild to moderate in intensity.
-Table 1 presents treatment-emergent adverse events reported by ≥ 9% of patients in the ADCIRCA 40 mg group and occurring more frequently than with placebo.
+Table 1 presents treatment-emergent adverse events reported by ≥9% of patients in the ADCIRCA 40 mg group and occurring more frequently than with placebo.
 
-TABLE 1: Treatment-Emergent Adverse Events Reported by ≥ 9% of Patients in ADCIRCA and More Frequent than Placebo by 2%
+TABLE 1: Treatment-Emergent Adverse Events Reported by ≥9% of Patients in ADCIRCA and More Frequent than Placebo by 2%
 
 | EVENT | Placebo (%) (N=82) | ADCIRCA 20 mg (%) (N=82) | ADCIRCA 40 mg (%) (N=79) |
 | --- | --- | --- | --- |

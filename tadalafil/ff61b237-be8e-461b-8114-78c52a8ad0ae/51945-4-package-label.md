@@ -8,13 +8,13 @@ Rx only
 
 TA 4467
 
-adcircaTM
+adcirca®
 
 tadalafil tablets
 
 20 mg
 
-United Therapeutics Corporation
+LungRx®
 
 Lilly
 
