@@ -149,6 +149,8 @@ Immediately call your pharmacist if you receive a MIRAPEX ER tablet that does no
 | 0.375 mg |  |  |
 | 0.75 mg |  |  |
 | 1.5 mg |  |  |
+| 2.25 mg |  |  |
 | 3 mg |  |  |
+| 3.75 mg |  |  |
 | 4.5 mg |  |  |
 | Tablets not actual size. |  |  |

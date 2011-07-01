@@ -19,6 +19,6 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: April 2011
+Revised: May 2011
 
-OT220011PC302011 74988-06
+OT220011RE062011 74988-06

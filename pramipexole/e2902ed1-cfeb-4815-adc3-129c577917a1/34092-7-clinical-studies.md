@@ -25,13 +25,13 @@ Twenty-two patients treated with placebo (21%) and 15 patients treated with MIRA
 No differences in effectiveness based on age or gender were detected.
 Patients receiving MAOB-I, anticholinergics, or amantadine had responses similar to patients not receiving these drugs.
 
-Advanced Parkinson's Disease The effectiveness of MIRAPEX ER tablets in advanced Parkinson's disease patients (Hoehn & Yahr Stages II-IV at “on” time) who were on concomitant levodopa therapy (at an optimized dose) and who had motor fluctuations (at least 2 cumulative hours of “off” time per day) was established in a randomized, double-blind, placebo-controlled, 3-parallel-group clinical study.
+Advanced Parkinson's Disease The effectiveness of MIRAPEX ER tablets in advanced Parkinson's disease patients (Hoehn & Yahr Stages II-IV at "on" time) who were on concomitant levodopa therapy (at an optimized dose) and who had motor fluctuations (at least 2 cumulative hours of "off" time per day) was established in a randomized, double-blind, placebo-controlled, 3-parallel-group clinical study.
 Patients were treated with MIRAPEX ER tablets, immediate-release pramipexole tablets, or placebo; those treated with MIRAPEX ER tablets or immediate-release pramipexole tablets had a starting dose of 0.375 mg/day followed by a flexible up-titration over 7 weeks, based on efficacy and tolerability, up to 4.5 mg/day, followed by a 26 week maintenance period.
 Levodopa dosage reduction was permitted only in the case of dopaminergic adverse events.
 The primary efficacy endpoint was the adjusted mean change from baseline in the UPDRS Parts II+III score for MIRAPEX ER tablets versus placebo following 18 weeks of treatment.
 
 At 18 weeks of treatment, the adjusted mean improvement from baseline UPDRS Parts II+III score was –11.0 points in patients receiving MIRAPEX ER tablets (n=161) and –6.1 points in patients receiving placebo (n=174), (p=0.0001).
-At week 18, the adjusted mean improvement from baseline in “off” time was –2.1 hours for MIRAPEX ER and –1.4 hours for placebo (p=0.0199).
+At week 18, the adjusted mean improvement from baseline in "off" time was –2.1 hours for MIRAPEX ER and –1.4 hours for placebo (p=0.0199).
 
 At 33-weeks the adjusted mean improvement from baseline UPDRS Parts II+III score was –11.1 points in patients receiving MIRAPEX ER tablets (n=117) and –6.8 points in patients receiving placebo (n=136) (p=0.0135).
 
