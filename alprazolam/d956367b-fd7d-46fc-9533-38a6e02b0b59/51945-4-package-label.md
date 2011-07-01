@@ -6,7 +6,7 @@ NDC 18860-321-01
 
 NIRAVAM® 0.25 mg (alprazolam orally disintegrating tablets)
 
-Rx only
+Rx only CIV
 
 AZUR PHARMA
 
@@ -44,7 +44,7 @@ NDC 18860-322-01
 
 NIRAVAM® 0.5 mg (alprazolam orally disintegrating tablets)
 
-Rx only
+Rx only CIV
 
 AZUR PHARMA
 
@@ -82,7 +82,7 @@ NDC 18860-323-01
 
 NIRAVAM® 1 mg (alprazolam orally disintegrating tablets)
 
-Rx only
+Rx only CIV
 
 AZUR PHARMA
 
@@ -120,7 +120,7 @@ NDC 18860-324-01
 
 NIRAVAM® 2 mg (alprazolam orally disintegrating tablets)
 
-Rx only
+Rx only CIV
 
 AZUR PHARMA
 
