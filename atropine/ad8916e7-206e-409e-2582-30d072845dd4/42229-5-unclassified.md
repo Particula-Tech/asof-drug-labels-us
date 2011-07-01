@@ -2,6 +2,6 @@
 
 0.05 mg/mL (Pediatric)
 
-Ansyr® Plastic Syringe
+Ansyr™ Plastic Syringe
 
 Rx only

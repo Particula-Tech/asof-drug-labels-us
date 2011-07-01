@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021146"
+  ],
   "inn": "atropine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0409-9629-05",
     "0409-9630-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "atropine sulfate",
+      "name": "Atropine Sulfate"
+    }
+  ],
   "setid": "ad8916e7-206e-409e-2582-30d072845dd4",
   "source": "dailymed"
 }

@@ -11,13 +11,13 @@ When smaller doses are required the unused portion should be discarded.
 
 Atropine Sulfate Injection is a parenteral anticholinergic agent and muscarinic antagonist.
 
-Atropine Sulfate, USP is chemically designated 1α H, 5α H-Tropan-3-α-ol (±)-tropate (ester), sulfate (2:1) (salt) monohydrate, (C17H23NO3)2• H2SO4• H2O, colorless crystals or white crystalline powder very soluble in water.
+Atropine Sulfate, USP is chemically designated 1α H, 5α H-Tropan-3-α-ol (±)-tropate (ester), sulfate (2:1) (salt) monohydrate, (C17H23NO3)2• H2SO4 • H2O, colorless crystals or white crystalline powder very soluble in water.
 It has the following structural formula:
 
 Atropine, a naturally occurring belladonna alkaloid, is a racemic mixture of equal parts of d- and 1-hyocyamine, whose activity is due almost entirely to the levo isomer of the drug.
 
 Sodium Chloride, USP is chemically designated NaCl, a white crystalline powder freely soluble in water.
 
-The syringe is molded from a speciallyformulated polypropylene.
+The syringe is molded from a specially formulated polypropylene.
 Water permeates from inside the container at an extremely slow rate which will have an insignificant effect on solution concentration over the expected shelf life.
 Solutions in contact with the plastic container may leach out certain chemical components from the plastic in very small amounts; however, biological testing was supportive of the safety of the syringe material.
