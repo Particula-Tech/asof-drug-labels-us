@@ -5,7 +5,7 @@ Occasional venous irritation has been encountered, but if the infusion is given 
 
 Life-threatening episodes of ventricular tachycardia associated with prolonged QT interval (torsades de pointes) have been reported in some patients after intravenous administration of erythromycin lactobionate.
 
-Susceptibility to the development of torsades de pointes arrhythmias, a rare but serious cardiac condition, is related to electrolyte imbalance, hepatic dysfunction, myocardial ischemia, left ventricular dysfunction, idiopathic Q-T prolongation, and concurrent antiarrhythmic therapy.5 Elderly patients exhibit a greater frequency of decreased hepatic function, cardiac function, and of concomitant disease and other drug therapy, and therefore should be monitored carefully during Erythrocin® therapy.
+Susceptibility to the development of torsades de pointes arrhythmias, a rare but serious cardiac condition, is related to electrolyte imbalance, hepatic dysfunction, myocardial ischemia, left ventricular dysfunction, idiopathic Q-T prolongation, and concurrent antiarrhythmic therapy.6 Elderly patients exhibit a greater frequency of decreased hepatic function, cardiac function, and of concomitant disease and other drug therapy, and therefore should be monitored carefully during Erythrocin® therapy.
 
 Allergic reactions ranging from urticaria to anaphylaxis have occurred.
 Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely.

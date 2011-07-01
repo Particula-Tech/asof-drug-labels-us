@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050609"
+  ],
   "inn": "erythromycin",
-  "labeler": "HOSPIRA, INC.",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-6482-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "erythromycin lactobionate",
+      "name": "Erythrocin Lactobionate"
+    }
+  ],
   "setid": "a96c405f-bd70-4bb4-719e-ac6a79dcc213",
   "source": "dailymed"
 }
