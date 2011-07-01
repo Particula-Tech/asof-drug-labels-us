@@ -1,0 +1,5 @@
+Rx only
+
+Prescribing Information
+
+Before prescribing carbamazepine, the physician should be thoroughly familiar with the details of this prescribing information, particularly regarding use with other drugs, especially those which accentuate toxicity potential.

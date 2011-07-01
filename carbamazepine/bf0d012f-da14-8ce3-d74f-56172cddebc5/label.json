@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075948"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0183-0",
+    "60505-0183-1",
+    "60505-0183-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbamazepine",
+      "name": "CARBAMAZEPINE"
+    }
+  ],
+  "setid": "bf0d012f-da14-8ce3-d74f-56172cddebc5",
+  "source": "dailymed"
+}
