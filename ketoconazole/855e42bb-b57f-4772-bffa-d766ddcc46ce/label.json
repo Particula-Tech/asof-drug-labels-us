@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021946"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Aqua Pharmaceuticals, LLC.",
+  "package_ndcs": [
+    "16110-080-02",
+    "16110-080-45"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "ketoconazole",
+      "name": "Xolegel"
+    }
+  ],
+  "setid": "855e42bb-b57f-4772-bffa-d766ddcc46ce",
+  "source": "dailymed"
+}
