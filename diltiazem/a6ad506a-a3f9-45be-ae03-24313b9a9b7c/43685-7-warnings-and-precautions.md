@@ -79,17 +79,15 @@ When used concomitantly, anesthetics and calcium channel blockers should be titr
 
 Statins: Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, a non-CYP3A4-metabolized statin should be used together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+When possible, use a non-CYP3A4-metabolized statin with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
 
-In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
-Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
-Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8-9-fold mean increase in simvastatin AUC can be expected.
+In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg twice daily diltiazem SR resulted in a 5-fold higher mean simvastatin AUC compared with simvastatin alone.
+High average steady-state exposures of diltiazem would result in a greater increase in simvastatin exposure.
+A daily dose of 480 mg of diltiazem would be expected to result in an 8-fold higher mean simvastatin AUC compared with simvastatin alone.
 If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
-
+In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg twice daily diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold higher mean lovastatin AUC and Cmax values compared with lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem co-administration.
-Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

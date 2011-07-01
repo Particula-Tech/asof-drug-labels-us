@@ -35,4 +35,4 @@ Manufactured for: WATSON Pharma, Inc. A Subsidiary of Watson Pharmaceuticals, In
 
 Manufactured by: SkyePharma Production SAS St-Quentin-Fallavier Cedex, France
 
-Revised: March 2011 14100-04
+Revised: June 2011 14100-05
