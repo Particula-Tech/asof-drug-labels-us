@@ -48,3 +48,12 @@ Clarithromycin should not be used in pregnant women except in clinical circumsta
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
 
 Concomitant administration of clarithromycin with cisapride, pimozide, astemizole, terfenadine, ergotamine, or dihydroergotamine is contraindicated.
+
+## 5.6 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.3)]

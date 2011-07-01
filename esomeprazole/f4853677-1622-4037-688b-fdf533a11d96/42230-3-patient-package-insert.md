@@ -46,6 +46,7 @@ WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING NEXIUM?
 
 Tell your doctor about all your medical conditions, including if you:
 
+- have been told that you have low magnesium levels in your blood
 - have liver problems
 - are pregnant, think you may be pregnant, or are planning to become pregnant.
 - are breastfeeding or planning to breastfeed.
@@ -83,15 +84,32 @@ HOW SHOULD I TAKE NEXIUM?
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF NEXIUM?
 
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with NEXIUM.
-
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with NEXIUM.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
 Your doctor may stop NEXIUM if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+  Tell your doctor right away if you have any of these symptoms:
+  - seizures
+  - dizziness
+  - abnormal or fast heart beat
+  - jitteriness
+  - jerking movements or shaking (tremors)
+  - muscle weakness
+  - spasms of the hands and feet
+  - cramps or muscle aches
+  - spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
@@ -135,7 +153,7 @@ For instructions on taking Delayed-Release Capsules, please see “HOW SHOULD I 
 
 Take NEXIUM Delayed-Release Oral Suspension as follows:
 
-- Empty the contents of a packet into a container with 1 tablespoon (15 mL) of water
+- Empty the contents of a foil packet into a container with 1 tablespoon (15 mL) of water
 - Stir.
 - Leave 2 to 3 minutes to thicken
 - Stir and drink within 30 minutes.
@@ -175,11 +193,11 @@ Inactive granules in NEXIUM Delayed-Release Oral Suspension: dextrose, xanthan g
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2010 AstraZeneca Pharmaceuticals LP.
+©2011 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-August 2010
+06/2011

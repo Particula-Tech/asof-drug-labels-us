@@ -15,6 +15,8 @@ Use with other foods has not been evaluated and is not recommended.
 
 • For patients who are advised to open the NEXIUM Delayed-Release Capsules before taking them or who are prescribed NEXIUM For Delayed-Release Oral Suspension, instruct them in the proper technique for administration [see Dosage and Administration (2)] and tell them to follow the dosing instructions in the PATIENT INFORMATION insert included in the package.
 
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
+
 Distributed by:
 
 AstraZeneca LP
