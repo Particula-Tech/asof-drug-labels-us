@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021359"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "ProStrakan, Inc.",
+  "package_ndcs": [
+    "42747-235-30"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "nitroglycerin",
+      "name": "Rectiv"
+    }
+  ],
+  "setid": "af05dde8-1c06-4cd5-bcd0-8e318874536a",
+  "source": "dailymed"
+}
