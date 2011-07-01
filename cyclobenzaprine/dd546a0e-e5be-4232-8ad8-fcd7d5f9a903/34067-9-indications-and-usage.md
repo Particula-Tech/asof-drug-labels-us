@@ -1,0 +1,8 @@
+# INDICATIONS AND USAGE
+
+Cyclobenzaprine hydrochloride extended-release capsules is indicated as an adjunct to rest and physical therapy for relief of muscle spasm associated with acute, painful musculoskeletal conditions.
+Improvement is manifested by relief of muscle spasm and its associated signs and symptoms, namely, pain, tenderness, and limitation of motion.
+
+Cyclobenzaprine hydrochloride extended-release capsules should be used only for short periods (up to two or three weeks) because adequate evidence of effectiveness for more prolonged use is not available and because muscle spasm associated with acute, painful musculoskeletal conditions is generally of short duration and specific therapy for longer periods is seldom warranted.
+
+Cyclobenzaprine hydrochloride extended-release capsules has not been found effective in the treatment of spasticity associated with cerebral or spinal cord disease or in children with cerebral palsy.

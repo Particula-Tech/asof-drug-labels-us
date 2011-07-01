@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021777"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
+  "package_ndcs": [
+    "0115-1436-13",
+    "0115-1437-13"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "Cyclobenzaprine Hydrochloride"
+    }
+  ],
+  "setid": "dd546a0e-e5be-4232-8ad8-fcd7d5f9a903",
+  "source": "dailymed"
+}
