@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017854"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "ANIP Acquisition Company",
+  "package_ndcs": [
+    "62559-165-01",
+    "62559-166-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoclopramide",
+      "name": "Metoclopramide"
+    }
+  ],
+  "setid": "de55c133-eb08-4a35-91a2-5dc093027397",
+  "source": "dailymed"
+}
