@@ -1,12 +1,12 @@
-# Patient Instructions for Use
+# Instructions for Use
 
 Epogen® (Ee-po-jen) (epoetin alfa)
 
-Use these instructions if you or your caregiver has been trained to give Epogen injections at home.
+Use these Instructions for Use if you or your caregiver has been trained to give Epogen injections at home.
 Do not give yourself the injection unless you have received training from your healthcare provider.
 If you are not sure about giving the injection or you have questions, ask your healthcare provider for help.
 
-Before reading these instructions for use, read the Medication Guide that comes with Epogen for the most important information you need to know.
+Before reading these Instructions for Use, read the Medication Guide that comes with Epogen for the most important information you need to know.
 
 When you receive your Epogen vial and syringes make sure that:
 
@@ -26,10 +26,19 @@ When you receive your Epogen vial and syringes make sure that:
   Do not use a vial of Epogen if the color cap on the top of the vial has been removed or is missing.
 - Use only the type of disposable syringe and needle that your healthcare provider has prescribed.
 - Do not shake Epogen.
-  If shaking has occurred, the solution in the vial may look foamy and should not be used.
+  Shaking could cause Epogen not to work.
+  If you shake Epogen, the solution in the vial may look foamy and should not be used.
 - Do not freeze Epogen.
   Do not use a vial of Epogen that has been frozen.
+- Store Epogen in the refrigerator between 36°F and 46°F (2° to 8°C).
 - Keep Epogen away from light.
+- Single-dose vials of Epogen should be used only one time.
+  Throw the vial away after use even if there is medicine left in the vial.
+- After removing a dose from the multidose vial, store the vial in the refrigerator (but not the freezer).
+  Do not store the vial for more than 21 days.
+- Throw away the multidose vial as directed by your healthcare provider:
+  - if there is not enough medicine left in the multidose vial for another dose, or
+  - if it has been more than 21 days since you first put a needle into the multidose vial.
 
 How should I prepare for an injection of Epogen?
 
@@ -40,36 +49,18 @@ How should I prepare for an injection of Epogen?
   Using the wrong syringe can lead to a mistake in your dose and you could inject too much or too little Epogen.
 
 Only use disposable syringes and needles.
-Use the syringes and needles only one time and thenthrow them away as instructed by your healthcare provider.
+Use the syringes and needles only one time and then throw them away as instructed by your healthcare provider.
 
 What do I need to know about the different types of Epogen vials?
 
 Epogen comes in two different types of vials.
 
-- Single-Use Vials
-- Multidose-Use Vials
+- Single-dose Vials
+- Multidose Vials
 
-Single-Use Vials
-
-If you have been prescribed Epogen vials for single use:
-
-- Single-Use vials of Epogen come in several different strengths (Units per mL).
-  For example, the vial label may say the strength is 2,000 Units/mL, which means the vial contains 2,000 Units of medicine in 1 mL.
-  Injecting 1 mL of this strength means you will receive 2,000 Units of Epogen.
-- Double-check to be sure you are using a vial that contains the correct strength of Epogen.
-- The Single-Use Vials cannot be used more than one time and any unused medicine in the vial should be thrown away as directed by your healthcare provider.
-
-Multidose-Use Vials
-
-If you have been prescribed Epogen vials for use multiple times:
-
-- Multidose vials of Epogen may be used to inject more than one dose of Epogen, as prescribed by your healthcare provider.
-- Multidose vials of Epogen come in 1 mL and 2 mL vials.
-  - 1 mL vials contain 20,000 Units of Epogen in 1 mL of liquid (this means each vial contains a total of 20,000 Units of Epogen).
-  - 2 mL vials contain 10,000 Units of Epogen in each 1 mL of liquid, and since the vials contain a total of 2 mL of liquid, each vial contains a total of 20,000 Units of Epogen.
-- After removing a dose from the vial, store the vial in the refrigerator (but not the freezer).
-  Do not store the vial for more than 21 days.
-- If the vial is stored for more than 21 days, or when a vial no longer contains a full dose of medicine, throw the vial away as directed by your healthcare provider.
+The multidose vial of Epogen contains the preservative benzyl alcohol.
+Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
+Epogen that comes in single-dose vials does not contain benzyl alcohol.
 
 Important: Follow these instructions exactly to help avoid infections.
 
@@ -77,7 +68,7 @@ Preparing the dose:
 
 1. Remove the vial of Epogen from the refrigerator.
    During this time, protect the solution from light.
-2. Do not use a Single-Use vial of Epogen more than one time.
+2. Do not use a single-dose vial of Epogen more than one time.
 3. Do not shake Epogen.
 4. Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
    See Figure 1.
@@ -136,7 +127,7 @@ Subcutaneous Route:
   When giving subcutaneous injections, follow your healthcare provider’s instructions about changing the site for each injection.
   You may wish to write down the site where you have injected.
 - Do not inject Epogen into an area that is tender, red, bruised, hard, or has scars or stretch marks.
-  Recommended sites for injection are presented in Figure 11 below, including:
+  Recommended sites for injection are shown in Figure 11 below, including:
   - The outer area of the upper arms
   - The abdomen (except for the 2-inch area around the navel)
   - The front of the middle thighs
@@ -151,12 +142,7 @@ Subcutaneous Route:
   See Figure 13.
 - Hold the syringe like you would hold a pencil.
   Use a quick “dart-like” motion to insert the needle either straight up and down (90-degree angle) or at a slight angle (45 degrees) into the skin.
-  Let go of the skin and pull the plunger back slightly.
-  If blood comes into the syringe, do not inject Epogen since the needle may have entered a blood vessel; instead, withdraw the syringe, discard it in the puncture-proof container.
-  Prepare a new syringe of Epogen using the instructions above.
-  Clean a new area of skin.
-  In this new area of clean skin, again insert a new needle (as you did before), and again pull the plunger back slightly.
-  If blood does not enter the syringe, inject the Epogen by pushing the plunger all the way down.
+  Inject the prescribed dose subcutaneously as directed by your doctor, nurse or pharmacist.
   See Figure 14.
 - Pull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
   Do not recap the needle.
@@ -166,7 +152,7 @@ Subcutaneous Route:
 2.
 Intravenous Route:
 
-- Epogen can be injected in your vein through a special access port put in by your healthcare provider.
+- Epogen can be injected in your vein through a special access port placed by your healthcare provider.
   This type of Epogen injection is called an intravenous (IV) injection.
   This route is usually for hemodialysis patients.
 - If you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
@@ -179,30 +165,29 @@ Intravenous Route:
   Do not recap the needle.
 - Dispose of the used syringe and needle as described below.
 
-How should I dispose of syringes and needles?
+How should I dispose of the vials, syringes, and needles?
 
-Do not reuse disposable syringes and needles.
-Throw away syringes and needles as instructed by your healthcare provider by following these steps:
+Do not reuse the single-dose vials, syringes, or needles.
+Throw away the vials, syringes and needles as instructed by your healthcare provider or by following these steps:
 
-- Do not throw the needle, syringe, or disposable container in the household trash or recycle.
+- Do not throw the vials, syringes, or needles in the household trash or recycle.
 - Do not put the needle cover back on the needle.
 - Place all used needles and syringes in a puncture-proof disposable container with a lid.
   Do not use glass or clear plastic containers, or any container that will be recycled or returned to a store.
-- Keep the container out of the reach of children.
-- When the container is full, tape around the cap or lid to make sure the cap or lid does not come off.
+- Keep the puncture-proof disposable container out of the reach of children.
+- When the puncture-proof disposable container is full, tape around the cap or lid to make sure the cap or lid does not come off.
   Throw away the puncture-proof disposable container as instructed by your healthcare provider.
   There may be special state and local laws for disposing of used needles and syringes.
-  Do not throw the disposable container in the household trash.
+  Do not throw the puncture-proof disposable container in the household trash.
   Do not recycle.
 
-[Amgen Logo]
+Keep Epogen and all medicines out of reach of children.
 
-Manufactured by:
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
+[Amgen Logo] Manufactured by:
 
-Amgen Manufacturing, Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
+Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
-© 1989-2008 Amgen Inc. All rights reserved.
+Revised: 06/2011 © 1989-2011 Amgen Inc. All rights reserved.
 
-1xxxxxx - v1
-
-Revised: 08/2008
+1xxxxxx - v2

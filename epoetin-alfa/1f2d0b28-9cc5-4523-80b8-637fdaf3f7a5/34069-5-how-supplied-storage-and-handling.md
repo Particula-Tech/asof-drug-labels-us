@@ -1,32 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-EPOGEN®, containing Epoetin alfa, is available in the following packages:
+Store at 36oF to 46oF (2oC to 8oC).
+Do not freeze.
 
-1 mL Single-dose, Preservative-free Solution
+Do not shake.
+Protect from light; store Epogen in the carton until use.
 
-2000 Units/mL (NDC 55513-126-10)
+Do not use Epogen that has been shaken or frozen.
 
-3000 Units/mL (NDC 55513-267-10)
+Single-dose, Preservative-free Vial (in citrate-buffered formulation): 1 mL of solution contains 2000 (NDC 55513-126-10), 3000 (NDC 55513-267-10), 4000 (NDC 55513-148-10), or 10,000 Units (NDC 55513-144-10) of epoetin alfa.
+Each strength is supplied in dispensing packs containing 10 single-dose vials.
 
-4000 Units/mL (NDC 55513-148-10)
+Single-dose, Preservative-free Vial (in phosphate-buffered formulation): 1 mL of solution contains 40,000 Units (NDC 55513-823-10) of epoetin alfa and is supplied in dispensing packs containing 10 single-dose vials.
 
-10,000 Units/mL (NDC 55513-144-10)
+Multidose, Preserved Vial: 2 mL total volume (20,000 Units total; 10,000 Units/mL).
+Each 1 mL of solution contains 10,000 Units (NDC 55513-283-10) of epoetin alfa, and is supplied in dispensing packs containing 10 multidose vials.
 
-40,000 Units/mL (NDC 55513-823-10)
-
-Supplied in dispensing packs containing 10 single-dose vials.
-
-2 mL Multidose, Preserved Solution
-
-10,000 Units/mL (NDC 55513-283-10)
-
-1 mL Multidose, Preserved Solution
-
-20,000 Units/mL (NDC 55513-478-10)
-
-Supplied in dispensing packs containing 10 multidose vials.
-
-## STORAGE
-
-Store at 2° to 8° C (36° to 46° F). Do not freeze or shake.
-Protect from light.
+Multidose, Preserved Vial: 1 mL total volume (20,000 Units/mL).
+Each 1 mL of solution contains 20,000 Units (NDC 55513-478-10) of epoetin alfa and is supplied in dispensing packs containing 10 multidose vials.

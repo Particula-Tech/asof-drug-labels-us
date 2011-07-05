@@ -1,7 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-EPOGEN® is contraindicated in patients with:
+Epogen is contraindicated in patients with:
 
-1. Uncontrolled hypertension.
-2. Known hypersensitivity to mammalian cell-derived products.
-3. Known hypersensitivity to Albumin (Human).
+- Uncontrolled hypertension [see Warnings and Precautions (5.4)]
+- Pure red cell aplasia (PRCA) that begins after treatment with Epogen or other erythropoietin protein drugs [see Warnings and Precautions (5.7)]
+- Serious allergic reactions to Epogen [see Warnings and Precautions (5.8)]
+
+Epogen from multidose vials contains benzyl alcohol and is contraindicated in:
+
+- Neonates, infants, pregnant women, and nursing mothers.
+  Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.
+  When therapy with Epogen is needed in neonates and infants, use single-dose vials; do not admix with bacteriostatic saline containing benzyl alcohol [see Use in Specific Populations (8.1, 8.3, 8.4)].
