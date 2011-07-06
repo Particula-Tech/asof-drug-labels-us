@@ -49,7 +49,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 Positive mutagenicity effects were observed in two genotoxicity assays.
 Halobetasol propionate was positive in a Chinese hamster micronucleus test, and in a mouse lymphoma gene mutation assay in vitro.
 
-Studies in the rat following oral administration at dose levels up to 50 µ g/kg/day indicated no impairment of fertility or general reproductive performance.
+Studies in the rat following oral administration at dose levels up to 50 µg/kg/day indicated no impairment of fertility or general reproductive performance.
 
 In other genotoxicity testing, halobetasol propionate was not found to be genotoxic in the Ames/Salmonella assay, in the sister chromatid exchange test in somatic cells of the Chinese hamster, in chromosome aberration studies of germinal and somatic cells of rodents, and in a mammalian spot test to determine point mutations.
 
@@ -68,7 +68,6 @@ Cleft palate was observed in both rats and rabbits.
 Omphalocele was seen in rats, but not in rabbits.
 
 There are no adequate and well-controlled studies of the teratogenic potential of halobetasol propionate in pregnant women.
-
 Ultravate Cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
