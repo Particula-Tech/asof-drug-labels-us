@@ -1,4 +1,3 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dosage for the induction of remission in adult patients with active, mild to moderate ulcerative colitis is two to four 1.2g tablets to be taken once daily with meal for a total daily dose of 2.4g or 4.8g.
-Treatment duration in controlled clinical trials was up to 8 weeks.
+The recommended dosage for the induction of remission in adult patients with active, mild to moderate ulcerative colitis is two to four 1.2 g tablets to be taken once daily with a meal for a total daily dose of 2.4 g or 4.8 g.
