@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091449"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "package_ndcs": [
+    "61314-547-01",
+    "61314-547-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "latanoprost",
+      "name": "Latanoprost"
+    }
+  ],
+  "setid": "1fba56a6-c8dc-4f34-b05d-efdea75d2fea",
+  "source": "dailymed"
+}
