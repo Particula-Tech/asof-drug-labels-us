@@ -1,4 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
 
 Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye.
 It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid.
@@ -9,6 +11,8 @@ The result is a reduction in intraocular pressure (IOP).
 AZOPT® (brinzolamide ophthalmic suspension) 1% contains brinzolamide, an inhibitor of carbonic anhydrase II (CA-II).
 Following topical ocular administration, brinzolamide inhibits aqueous humor formation and reduces elevated intraocular pressure.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
+
+## 12.3 Pharmacokinetics
 
 Following topical ocular administration, brinzolamide is absorbed into the systemic circulation.
 Due to its affinity for CA-II, brinzolamide distributes extensively into the RBCs and exhibits a long half-life in whole blood (approximately 111 days).
@@ -25,8 +29,3 @@ RBC CA activity was measured to assess the degree of systemic CA inhibition.
 Brinzolamide saturation of RBC CA-II was achieved within 4 weeks (RBC concentrations of approximately 20 μM).
 N-Desethyl brinzolamide accumulated in RBCs to steady-state within 20-28 weeks reaching concentrations ranging from 6-30 μM.
 The inhibition of CA-II activity at steady-state was approximately 70-75%, which is below the degree of inhibition expected to have a pharmacological effect on renal function or respiration in healthy subjects.
-
-In two, three-month clinical studies, AZOPT® (brinzolamide ophthalmic suspension) 1% dosed three times per day (TID) in patients with elevated intraocular pressure (IOP), produced significant reductions in IOPs (4 -5 mmHg).
-These IOP reductions are equivalent to the reductions observed with TRUSOPT* (dorzolamide hydrochloride ophthalmic solution) 2% dosed TID in the same studies.
-
-In two clinical studies in patients with elevated intraocular pressure, AZOPT® (brinzolamide ophthalmic suspension) 1% was associated with less stinging and burning upon instillation than TRUSOPT* 2%.

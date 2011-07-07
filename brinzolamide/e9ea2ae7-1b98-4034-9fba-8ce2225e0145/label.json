@@ -1,14 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020816"
+  ],
   "inn": "brinzolamide",
-  "labeler": "ALCON LABORATORIES, INC.",
+  "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0065-0275-05",
     "0065-0275-10",
-    "0065-0275-15",
-    "0065-0275-25"
+    "0065-0275-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "brinzolamide",
+      "name": "Azopt"
+    }
+  ],
   "setid": "e9ea2ae7-1b98-4034-9fba-8ce2225e0145",
   "source": "dailymed"
 }
