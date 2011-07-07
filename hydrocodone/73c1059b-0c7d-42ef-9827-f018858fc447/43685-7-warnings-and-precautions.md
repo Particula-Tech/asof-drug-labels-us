@@ -1,5 +1,20 @@
 # WARNINGS
 
+Hepatotoxicity – Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
+Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4000 milligrams per day, and often involve more than one acetaminophen-containing product.
+The excessive intake of acetaminophen may be intentional to cause self-harm or unintentional as patients attempt to obtain more pain relief or unknowingly take other acetaminophen-containing products.
+
+The risk of acute liver failure is higher in individuals with underlying liver disease and in individuals who ingest alcohol while taking acetaminophen.
+
+Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
+Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well.
+
+Hypersensitivity/anaphylaxis – There have been post-marketing reports of hypersensitivity and anaphylaxis associated with use of acetaminophen.
+Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
+There were infrequent reports of life-threatening anaphylaxis requiring emergency medical attention.
+Instruct patients to discontinue Hydrocodone Bitartrate and Acetaminophen Tablets USP immediately and seek medical care if they experience these symptoms.
+Do not prescribe Hydrocodone Bitartrate and Acetaminophen Tablets USP for patients with acetaminophen allergy.
+
 Respiratory Depression – At high doses or in sensitive patients, hydrocodone may produce dose-related respiratory depression by acting directly on the brain stem respiratory center.
 Hydrocodone also affects the center that controls respiratory rhythm, and may produce irregular and periodic breathing.
 
@@ -23,7 +38,14 @@ The usual precautions should be observed and the possibility of respiratory depr
 
 Cough Reflex – Hydrocodone suppresses the cough reflex; as with all narcotics, caution should be exercised when hydrocodone bitartrate and acetaminophen tablets are used postoperatively and in patients with pulmonary disease.
 
-Information for Patients – Hydrocodone, like all narcotics, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
+Information for Patients/Caregivers
+
+- Do not take Hydrocodone Bitartrate and Acetaminophen Tablets USP if you are allergic to any of its ingredients.
+- If you develop signs of allergy such as a rash or difficulty breathing stop taking Hydrocodone Bitartrate and Acetaminophen Tablets USP and contact your healthcare provider immediately.
+- Do not take more than 4000 milligrams of acetaminophen per day.
+  Call your doctor if you took more than the recommended dose.
+
+Hydrocodone, like all narcotics, may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery; patients should be cautioned accordingly.
 
 Alcohol and other CNS depressants may produce an additive CNS depression, when taken with this combination product, and should be avoided.
 
