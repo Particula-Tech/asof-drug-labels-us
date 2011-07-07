@@ -151,7 +151,7 @@ Two dietary carcinogenicity studies have been conducted in rats with fenofibrate
 In the first 24-month study, rats were dosed with fenofibrate at 10, 45, and 200 mg/kg/day, approximately 0.3, 1, and 6 times the maximum recommended human dose (MRHD), based on body surface area comparisons (mg/m2).
 At a dose of 200 mg/kg/day (at 6 times the MRHD), the incidence of liver carcinomas was significantly increased in both sexes.
 A statistically significant increase in pancreatic carcinomas was observed in males at 1 and 6 times the MRHD; an increase in pancreatic adenomas and benign testicular interstitial cell tumors was observed at 6 times the MRHD in males.
-In a second 24-month study in a different strain of rats, doses of 10 and 60 mg/kg/day (0.3 and 2 times the MRHD), produced significant increases in the incidence of pancreatic acinar adenomas in both sexes and increases in testicular interstitial cell tumors in males at 2 times the MRHD.
+In a second 24-month rat carcinogenicity study in a different strain of rats, doses of 10 and 60 mg/kg/day (0.3 and 2 times the MRHD), produced significant increases in the incidence of pancreatic acinar adenomas in both sexes and increases in testicular interstitial cell tumors in males at 2 times the MRHD.
 
 A 117-week carcinogenicity study was conducted in rats comparing three drugs: fenofibrate 10 and 60 mg/kg/day (0.3 and 2 times the MRHD), clofibrate (400 mg/kg/day; 2 times the human dose), and gemfibrozil (250 mg/kg/day; 2 times the human dose, based on mg/m2 surface area).
 Fenofibrate increased pancreatic acinar adenomas in both sexes.
