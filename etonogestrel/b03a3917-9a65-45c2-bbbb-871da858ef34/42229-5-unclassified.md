@@ -3,7 +3,7 @@ Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
 Issued: May 2011
 
-37308
+37847
 
 NEXPLANON® (etonogestrel implant) Radiopaque Subdermal Use Only
 
@@ -67,4 +67,4 @@ Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
 Issued: May 2011
 
-37308.2
+37847.2
