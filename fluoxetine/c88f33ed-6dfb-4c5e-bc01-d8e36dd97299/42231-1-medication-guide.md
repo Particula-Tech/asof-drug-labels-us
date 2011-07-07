@@ -271,9 +271,9 @@ Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised April 4, 2011
+Medication Guide revised June 27, 2011
 
-Eli Lilly and Company
+Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
@@ -282,4 +282,4 @@ www.prozac.com
 Copyright © 2009, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 7102 AMP
+PV 7103 AMP
