@@ -13,8 +13,6 @@ Lidocaine Hydrochloride and 5% Dextrose Injection USP is supplied sterile and no
 | 250 mL | 0264-9598-20 | P5982 | 0.8% Lidocaine Hydrochloride |
 | (Canada DIN 01935984) |  |  | and 5% Dextrose Injection USP |
 | 1 g Lidocaine Hydrochloride: |  |  |  |
-| 500 mL | 0264-9592-10 | P5921 | 0.2% Lidocaine Hydrochloride |
-| (Canada DIN 01935968) |  |  | and 5% Dextrose Injection USP |
 | 250 mL | 0264-9594-20 | P5942 | 0.4% Lidocaine Hydrochloride |
 | (Canada DIN 01935976) |  |  | and 5% Dextrose Injection USP |
 
@@ -22,3 +20,6 @@ Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.
 Protect from freezing.
 It is recommended that the product be stored at room temperature (25°C); however, brief exposure up to 40°C does not adversely affect the product.
+
+Storage in automated dispensing machines: Brief exposure up to 2 weeks to ultraviolet or fluorescent light does not adversely affect the product labeling legibility; prolonged exposure can cause fading of the red label.
+Rotate stock frequently.

@@ -10,7 +10,6 @@ Following acute treatment by bolus in patients in whom arrhythmias tend to recur
 |  | mg/min | mL/hr | mL/min |
 | --- | --- | --- | --- |
 |  | Average 70 kg adult |  |  |
-| 0.2% Lidocaine Hydrochloride and 5% Dextrose Injection USP (2 mg lidocaine hydrochloride/mL) | 1–4 | 30–120 | 0.5–2.0 |
 | 0.4% Lidocaine Hydrochloride and 5% Dextrose Injection USP (4 mg lidocaine hydrochloride/mL) | 1–4 | 15–60 | 0.25–1.0 |
 | 0.8% Lidocaine Hydrochloride and 5% Dextrose Injection USP (8 mg lidocaine hydrochloride/mL) | 1–4 | 7.5–30 | 0.12–0.5 |
 

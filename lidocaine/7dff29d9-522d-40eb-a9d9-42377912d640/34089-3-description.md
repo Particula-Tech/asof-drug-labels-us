@@ -9,7 +9,6 @@ Composition - Each 100 mL contains:
 
 | Solution | Lidocaine Hydrochloride Anhydrous USP | Hydrous Dextrose USP | pH | Calculated Osmolarity mOsmol/liter |
 | --- | --- | --- | --- | --- |
-| 0.2% Lidocaine HCl and 5% Dextrose Injection USP | 0.2 g | 5 g | 4.4 (3.0–7.0) | 265 |
 | 0.4% Lidocaine HCl and 5% Dextrose Injection USP | 0.4 g | 5 g | 4.4 (3.0–7.0) | 280 |
 | 0.8% Lidocaine HCl and 5% Dextrose Injection USP | 0.8 g | 5 g | 4.2 (3.0–7.0) | 305 |
 
@@ -20,7 +19,7 @@ The formulas of the active ingredients are:
 | Lidocaine Hydrochloride Anhydrous USP (M.W. 270.80) | Hydrous Dextrose USP (M.W. 198.17) |
 | --- | --- |
 
-The EXCEL Container is Latex-free; PVC-free; and DEHP-free.
+The EXCEL® Container is Latex-free; PVC-free; and DEHP-free.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers and exhibits virtually no leachables.

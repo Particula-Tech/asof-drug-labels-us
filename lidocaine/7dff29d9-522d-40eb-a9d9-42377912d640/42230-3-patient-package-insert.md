@@ -1,4 +1,4 @@
-# Directions for Use of EXCEL Container
+# Directions for Use of EXCEL® Container
 
 Do not admix with other drugs.
 
