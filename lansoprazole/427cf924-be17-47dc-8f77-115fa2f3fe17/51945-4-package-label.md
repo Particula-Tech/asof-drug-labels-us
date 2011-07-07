@@ -8,13 +8,13 @@ LANSOPRAZOLE
 
 DELAYED-RELEASE
 
-Capsules USP
+Capsules USP, 15 mg
 
-15 mg
+PHARMACIST: PLEASE
 
-Do not accept if seal over bottle
+DISPENSE WTH ATTACHED
 
-opening is broken or missing.
+PATIENT INFORMATION LEAFLET
 
 Rx only
 
@@ -32,13 +32,13 @@ LANSOPRAZOLE
 
 DELAYED-RELEASE
 
-Capsules USP
+Capsules USP, 30 mg
 
-30 mg
+PHARMACIST: PLEASE
 
-Do not accept if seal over bottle
+DISPENSE WTH ATTACHED
 
-opening is broken or missing.
+PATIENT INFORMATION LEAFLET
 
 Rx only
 

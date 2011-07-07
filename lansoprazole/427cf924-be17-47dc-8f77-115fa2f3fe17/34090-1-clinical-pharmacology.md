@@ -124,7 +124,7 @@ The clarithromycin and amoxicillin MIC values should be interpreted according to
 
 Table 7
 
-| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods | Interpretation |
+| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
 | --- | --- |
 | ≤ 0.25 | Susceptible (S) |
 | 0.5 to 1.0 | Intermediate (I) |
