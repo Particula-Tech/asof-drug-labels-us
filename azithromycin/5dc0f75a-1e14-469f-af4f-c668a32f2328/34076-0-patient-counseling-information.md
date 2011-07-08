@@ -15,10 +15,10 @@ Invert closed bottle (upside down) and shake once before each use.
 Remove cap with bottle still in the inverted position.
 Tilt head back, and with bottle inverted, gently squeeze bottle to instill one drop into the affected eye (s).
 
-Inspire Pharmaceuticals Inc. Licensee of InSite Vision Incorporated Manufactured by Catalent Pharma Solutions, LLC
+Inspire Pharmaceuticals, Inc. Licensee of InSite Vision Incorporated Manufactured by Catalent Pharma Solutions, LLC
 
-U.S. PAT NO. 5,192,535; 6,239,113; 6,569,443; 6,861,411; 7,056,893; and Patents Pending
+U.S. PAT NO. 6,159,458; 6,239,113; 6,569,443; 6,861,411; 7,056,893; and Patents Pending
 
-AZA-0289
+AZA-0512
 
-ISV06-42-0004
+ISV06-42-0005
