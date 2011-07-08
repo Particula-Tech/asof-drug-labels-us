@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA090343"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-132-81",
+    "25021-132-82",
+    "25021-132-83"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "levofloxacin",
+      "name": "Levofloxacin"
+    }
+  ],
+  "setid": "699fbdb8-a6fd-476a-9b80-08197d869534",
+  "source": "dailymed"
+}
