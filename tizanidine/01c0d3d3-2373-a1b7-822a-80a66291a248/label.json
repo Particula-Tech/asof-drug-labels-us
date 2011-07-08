@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA076533"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0251-1",
+    "60505-0251-2",
+    "60505-0251-3",
+    "60505-0252-1",
+    "60505-0252-2",
+    "60505-0252-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tizanidine",
+      "name": "tizanidine"
+    }
+  ],
+  "setid": "01c0d3d3-2373-a1b7-822a-80a66291a248",
+  "source": "dailymed"
+}
