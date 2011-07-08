@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078398"
+  ],
+  "inn": "cetirizine",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-626-26"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "cetirizine hydrochloride",
+      "name": "Cetirizine Hydrochloride"
+    }
+  ],
+  "setid": "2f47dbc5-dfb4-425c-9fe4-777fa3c4e72e",
+  "source": "dailymed"
+}
