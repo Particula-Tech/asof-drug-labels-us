@@ -6,6 +6,6 @@ Dispense in a tight, light-resistant container.
 
 * norepinephrine bitartrate, Abbott Laboratories. ** phenylephrine hydrochloride, Abbott Laboratories. *** phenytoin, Parke Davis. § metrizamide, Sanofi Pharmaceuticals. ll diphenhydramine hydrochloride, Parke Davis.
 
-Manufactured by: Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA
 
-Revised: 09/10
+Revised: 03/11

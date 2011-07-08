@@ -45,7 +45,9 @@ There have been reported instances of prolonged jaundice, extrapyramidal signs, 
 
 Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.Prochlorperazine Maleate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Prochlorperazine Maleate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Nursing Mothers: There is evidence that phenothiazines are excreted in the breast milk of nursing mothers.
 Caution should be exercised when prochlorperazine is administered to a nursing woman.
@@ -82,7 +84,8 @@ Antihypertensive effects of guanethidine and related compounds may be counteract
 Concomitant administration of propranolol with phenothiazines results in increased plasma levels of both drugs.
 Phenothiazines may lower the convulsive threshold; dosage adjustments of anticonvulsants may be necessary.
 Potentiation of anticonvulsant effects does not occur.
-However, it has been reported that phenothiazines may interfere with the metabolism of Dilantin®*** and thus precipitate Dilantin toxicity.The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.
+However, it has been reported that phenothiazines may interfere with the metabolism of Dilantin®*** and thus precipitate Dilantin toxicity.
+The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.
 
 Long-Term Therapy: Given the likelihood that some patients exposed chronically to antipsychotics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.
 The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
