@@ -54,7 +54,7 @@ If it looks cloudy, thickened, or colored, or if it contains solid particles do 
 NovoLog® comes in:
 
 - 10 mL vials (small bottles) for use with syringe
-- 3 mL PenFill® cartridges for use with the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery devices and NovoTwist® or NovoFine® disposable needles.
+- 3 mL PenFill® cartridges for use with the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery devices and NovoFine® disposable needles.
   The cartridge delivery device can be used with a NovoPen® 3 PenMate®
 - 3 mL NovoLog® FlexPen®
 
@@ -201,11 +201,11 @@ NovoLog® ingredients include:
 
 All NovoLog® vials, PenFill® cartridges and NovoLog® FlexPen® are latex free.
 
-Date of Issue: October 2010
+Date of Issue: June 2011
 
-Version: 10
+Version: 11
 
-Novo Nordisk®, NovoLog®, PenFill®, FlexPen®, NovoPen®, NovoTwist®, NovoFine®, and PenMate® are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, PenFill®, FlexPen®, NovoPen®, NovoFine®, and PenMate® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
@@ -213,7 +213,7 @@ FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004, and othe
 
 PenFill® is covered by US Patent No. 5,693,027.
 
-© 2002-2010 Novo Nordisk A/S
+© 2002-2011 Novo Nordisk
 
 Manufactured by:
 
@@ -402,7 +402,7 @@ How to use the NovoLog® cartridge
 4. Gather your supplies for injecting NovoLog®.
 5. Insert a 3 mL cartridge into your Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
    Wipe the front rubber stopper of the 3 mL PenFill® cartridge with an alcohol swab, then attach a new needle.
-   For NovoTwist® or NovoFine® needles, remove the big outer needle cap and the inner needle cap.
+   For NovoFine® needles, remove the big outer needle cap and the inner needle cap.
    Always use a new needle for each injection to prevent infection.
 
 Giving the airshot before each injection:
@@ -448,17 +448,17 @@ Do not throw used needles and cartridges in household trash or recycling bins.
 11.
 Put the pen cap back on the Novo Nordisk 3 mL PenFill® cartridge compatible insulin delivery device.
 
-Date of Issue: October 2010
+Date of Issue: June 2011
 
-Version: 7
+Version: 8
 
-Novo Nordisk®, NovoLog®, PenFill®, NovoTwist®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, PenFill®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
 PenFill® is covered by US Patent No. 5,693,027.
 
-© 2002-2010 Novo Nordisk A/S
+© 2002-2011 Novo Nordisk
 
 Manufactured by:
 

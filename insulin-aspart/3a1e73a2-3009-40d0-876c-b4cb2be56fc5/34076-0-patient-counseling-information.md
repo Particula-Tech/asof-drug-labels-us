@@ -47,11 +47,13 @@ If these problems cannot be promptly corrected, patients should resume therapy w
 
 ## 17.3 FDA-Approved Patient Labeling
 
-Date of Issue: October 2010
+See separate leaflet.
 
-Version: 18
+Date of Issue: June 2011
 
-Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate®, NovoTwist® and NovoFine® are registered trademarks of Novo Nordisk A/S.
+Version: 19
+
+Novo Nordisk®, NovoLog®, NovoPen® 3, PenFill®, Novolin®, FlexPen®, PenMate®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,618,913, 5,866,538, and other patents pending.
 
@@ -61,7 +63,7 @@ PenFill® is covered by US Patent No. 5,693,027.
 
 †The brands listed are the registered trademarks of their respective owners and are not trademarks of Novo Nordisk A/S.
 
-© 2002-2010 Novo Nordisk A/S
+© 2002-2011 Novo Nordisk
 
 Manufactured by:
 

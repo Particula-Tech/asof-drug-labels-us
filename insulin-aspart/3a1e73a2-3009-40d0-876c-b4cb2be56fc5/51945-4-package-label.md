@@ -32,7 +32,7 @@ Insulin aspart Injection (rDNA origin)
 
 5 cartridges per package
 
-For use with Novo Nordisk 3mL PenFill® cartridge compatible delivery devices, with or without the addition of a NovoPen® 3 PenMate®, and NovoFine® disposable needles.
+For use with Novo Nordisk 3 mL PenFill® cartridge compatible delivery devices, with or without the addition of a NovoPen® 3 PenMate®, and NovoFine® disposable needles.
 
 Keep in a cold place.
 
