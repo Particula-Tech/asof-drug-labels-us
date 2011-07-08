@@ -1,5 +1,24 @@
 # WARNINGS
 
+Hepatotoxicity
+
+Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
+Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4000 milligrams per day, and often involve more than one acetaminophen-containing product.
+The excessive intake of acetaminophen may be intentional to cause self-harm or unintentional as patients attempt to obtain more pain relief or unknowingly take other acetaminophen-containing products.
+
+The risk of acute liver failure is higher in individuals with underlying liver disease and in individuals who ingest alcohol while taking acetaminophen.
+
+Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
+Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well.
+
+Hypersensitivity/Anaphylaxis
+
+There have been post-marketing reports of hypersensitivity and anaphylaxis associated with the use of acetaminophen.
+Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
+There were infrequent reports of life-threatening anaphylaxis requiring emergency medical attention.
+Instruct patients to discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules immediately and seek medical care if they experience these symptoms.
+Do not prescribe Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for patients with acetaminophen allergy.
+
 In the presence of head injury or other intracranial lesions, the respiratory depressant effects of codeine and other narcotics may be markedly enhanced, as well as their capacity for elevating cerebrospinal fluid pressure.
 Narcotics also produce other CNS depressant effects, such as drowsiness, that may further obscure the clinical course of the patients with head injuries.
 
@@ -27,26 +46,25 @@ Data is not available for other ethnic groups.
 When physicians prescribe codeine-containing drugs, they should choose the lowest effective dose for the shortest period of time and should inform their patients about these risks and the signs of morphine overdose.
 (See PRECAUTIONS, Nursing Mothers)
 
-## Information for Patients
+## Information for Patients/Caregivers
 
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
-Such tasks should be avoided while taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
-
-Alcohol and other CNS depressants may produce an additive CNS depression, when taken with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, and should be avoided.
-
-Codeine and butalbital may be habit-forming.
-Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
-
-For information on use in geriatric patients, see PRECAUTIONS, Geriatric Use.
-
-Caution patients that some people have a variation in a liver enzyme and change codeine into morphine more rapidly and completely than other people.
-These people are ultra-rapid metabolizers and are more likely to have higher-than-normal levels of morphine in their blood after taking codeine which can result in overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
-In most cases, it is unknown if someone is an ultra-rapid codeine metabolizer.
-
-Nursing mothers taking codeine can also have higher morphine levels in their breast milk if they are ultra-rapid metabolizers.
-These higher levels of morphine in breast milk may lead to life-threatening or fatal side effects in nursing babies.
-Instruct nursing mothers to watch for signs of morphine toxicity in their infants including increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
-Instruct nursing mothers to talk to the baby's doctor immediately if they notice these signs and, if they cannot reach the doctor right away, to take the baby to an emergency room or call 911 (or local emergency services).
+- Do not take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules if you are allergic to any of its ingredients.
+- If you develop signs of allergy such as a rash or difficulty breathing, stop taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules and contact your healthcare provider immediately.
+- Do not take more than 4000 milligrams of acetaminophen per day.
+  Call your doctor if you took more than the recommended dose.
+- Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
+  Such tasks should be avoided while taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+- Alcohol and other CNS depressants may produce an additive CNS depression, when taken with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, and should be avoided.
+- Codeine and butalbital may be habit-forming.
+  Patients should take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed.
+- For information on use in geriatric patients, see PRECAUTIONS, Geriatric Use.
+- Caution patients that some people have a variation in a liver enzyme and change codeine into morphine more rapidly and completely than other people.
+  These people are ultra-rapid metabolizers and are more likely to have higher-than-normal levels of morphine in their blood after taking codeine which can result in overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
+  In most cases, it is unknown if someone is an ultra-rapid codeine metabolizer.
+- Nursing mothers taking codeine can also have higher morphine levels in their breast milk if they are ultra-rapid metabolizers.
+  These higher levels of morphine in breast milk may lead to life-threatening or fatal side effects in nursing babies.
+  Instruct nursing mothers to watch for signs of morphine toxicity in their infants including increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+  Instruct nursing mothers to talk to the baby's doctor immediately if they notice these signs and, if they cannot reach the doctor right away, to take the baby to an emergency room or call 911 (or local emergency services).
 
 ## Laboratory Tests
 
@@ -60,13 +78,13 @@ Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may enhance 
 
 ## Drug/Laboratory Test Interactions
 
-Codeine
-
-Codeine may increase serum amylase levels.
-
 Acetaminophen
 
 Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
+
+Codeine
+
+Codeine may increase serum amylase levels.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -93,7 +111,7 @@ Use of codeine during labor may lead to respiratory depression in the neonate.
 
 ## Nursing Mothers
 
-Caffeine, barbiturates, acetaminophen and codeine are excreted in breast milk in small amounts, but the significance of their effects on nursing infants is not known.
+Barbiturates, acetaminophen, caffeine, and codeine are excreted in breast milk in small amounts, but the significance of their effects on nursing infants is not known.
 Because of potential for serious adverse reactions in nursing infants from Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 Codeine is secreted into human milk.
@@ -108,7 +126,7 @@ Data is not available for other ethnic groups.
 
 The risk of infant exposure to codeine and morphine through breast milk should be weighed against the benefits of breastfeeding for both the mother and baby.
 Caution should be exercised when codeine is administered to a nursing woman.
-If a codeine containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
+If a codeine-containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
 Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
 Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion or shallow breathing.
 Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding.
@@ -120,7 +138,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical studies of butalbital, acetaminophen, caffeine, and codeine phosphate capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

@@ -6,11 +6,6 @@ Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules is controlle
 
 ## Abuse and Dependence
 
-Codeine
-
-Codeine can produce drug dependence of the morphine type and, therefore, has the potential for being abused.
-Psychological dependence, physical dependence, and tolerance may develop upon repeated administration and it should be prescribed and administered with the same degree of caution appropriate to the use of other oral narcotic medications.
-
 Butalbital
 
 Barbiturates may be habit-forming: Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
@@ -23,3 +18,8 @@ Intensity of withdrawal symptoms gradually declines over a period of approximate
 Treatment of barbiturate dependence consists of cautious and gradual withdrawal of the drug.
 Barbiturate-dependent patients can be withdrawn by using a number of different withdrawal regimens.
 One method involves initiating treatment at the patient’s regular dosage level and gradually decreasing the daily dosage as tolerated by the patient.
+
+Codeine
+
+Codeine can produce drug dependence of the morphine type and, therefore, has the potential for being abused.
+Psychological dependence, physical dependence, and tolerance may develop upon repeated administration and it should be prescribed and administered with the same degree of caution appropriate to the use of other oral narcotic medications.

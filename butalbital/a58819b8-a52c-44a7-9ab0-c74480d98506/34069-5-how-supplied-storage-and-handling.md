@@ -13,8 +13,10 @@ Rx only
 
 Keep out of reach of children.
 
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+
 Watson Laboratories, Inc. Corona, CA 92880 USA
 
-Revised: March 2009
+Revised: June 2011
 
-184181 S0309
+184181-1

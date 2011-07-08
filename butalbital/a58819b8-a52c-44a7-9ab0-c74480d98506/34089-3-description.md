@@ -31,5 +31,5 @@ It has the following structural formula:
 C18H24NO7P anhydrous molecular weight 397.37
 
 Inactive Ingredients: colloidal silicon dioxide, magnesium stearate, pregelatinized starch.
-Gelatin capsules contain D&C Red No. 33, FD&C Blue No.1, gelatin, and titanium dioxide.
+Gelatin capsules contain D&C Red No. 33, FD&C Blue No. 1, gelatin, and titanium dioxide.
 The capsules are printed with edible inks containing D&C Red No. 7 Calcium Lake, FD&C Blue No. 1 Aluminum Lake, and titanium dioxide.
