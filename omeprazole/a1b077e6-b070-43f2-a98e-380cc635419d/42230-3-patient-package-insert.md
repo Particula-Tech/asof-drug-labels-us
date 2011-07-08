@@ -79,6 +79,8 @@ Especially tell your doctor if you take:
 - phenytoin (Dilantin)
 - disulfiram (Antabuse)
 - clopidogrel (Plavix)
+- St. John’s Wort (Hypericum perforatum)
+- rifampin
 
 HOW SHOULD I TAKE PRILOSEC?
 
@@ -204,7 +206,7 @@ Inactive granules in PRILOSEC Delayed-Release Oral Suspension: citric acid, cros
 
 PRILOSEC is a registered trademark of the AstraZeneca group of companies.
 
-©2010 AstraZeneca Pharmaceuticals LP.
+©2011 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
 Manufactured for:
@@ -213,4 +215,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-May 2011
+June 2011

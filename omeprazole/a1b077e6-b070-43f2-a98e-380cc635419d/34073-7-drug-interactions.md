@@ -29,6 +29,9 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 ## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
 Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
+The absorption of digoxin can increase during treatment with omeprazole.
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
 In the clinical trials, antacids were used concomitantly with the administration of PRILOSEC.
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
@@ -50,7 +53,11 @@ Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
 Cmax and AUC of one of its active metabolites, 3,4- dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
+Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
+
+Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
+In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John’s Wort or rifampin with omeprazole.
 
 clopidogrel
 
@@ -70,3 +77,8 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 ## 7.4 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
+
+## 7.5 Interactions With Investigations of Neuroendocrine Tumors
+
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
+[see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
