@@ -10,9 +10,13 @@ PENTASA controlled-release capsules are identified with a pentagonal starburst l
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-Manufactured for Shire US Inc., 725 Chesterbrook Blvd., Wayne, PA 19087, USA 189 0107 008
+Manufactured for Shire US Inc.
 
-Licensed U.S. Patent Nos. B1 4,496,553 and 4,980,173.
+725 Chesterbrook Blvd., Wayne, PA 19087, USA
 
-Licensed from Ferring A/S, Denmark © 2007 Shire US Inc. Rev.
-6/2008
+PENTASA trademark licensed from Ferring A/S, Denmark © 2010 Shire US Inc.
+
+189 0107 010
+
+Rev.
+8/2010

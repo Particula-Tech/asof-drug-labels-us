@@ -1,6 +1,7 @@
 # DESCRIPTION
 
 PENTASA (mesalamine) for oral administration is a controlled-release formulation of mesalamine, an aminosalicylate anti-inflammatory agent for gastrointestinal use.
+
 Chemically, mesalamine is 5-amino-2-hydroxybenzoic acid.
 It has a molecular weight of 153.14.
 
