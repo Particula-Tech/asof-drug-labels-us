@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077563"
+  ],
   "inn": "cyclobenzaprine",
-  "labeler": "Cadista Pharmaceuticals Inc.",
+  "labeler": "JUBILANT CADISTA PHARMACEUTICALS, INC.",
   "package_ndcs": [
     "59746-177-06",
     "59746-177-10",
     "59746-211-06",
     "59746-211-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "cyclobenzaprine hydrochloride"
+    }
+  ],
   "setid": "592871f6-0eb2-4624-9e10-bd8bf767c002",
   "source": "dailymed"
 }

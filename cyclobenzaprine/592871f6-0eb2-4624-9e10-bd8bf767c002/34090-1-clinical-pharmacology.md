@@ -66,7 +66,7 @@ Physician-assessed secondary endpoints also showed that Cyclobenzaprine HCl tabl
 
 Analysis of the data from controlled studies show that Cyclobenzaprine HCl produces clinical improvement whether or not sedation occurs.
 
-Surveillance Program
+## Surveillance Program
 
 A post-marketing surveillance program was carried out in 7607 patients with acute musculoskeletal disorders, and included 297 patients treated with Cyclobenzaprine HCl tablets 10 mg for 30 days or longer.
 The overall effectiveness of Cyclobenzaprine HCl was similar to that observed in the double-blind controlled studies; the overall incidence of adverse effects was less (see ADVERSE REACTIONS).

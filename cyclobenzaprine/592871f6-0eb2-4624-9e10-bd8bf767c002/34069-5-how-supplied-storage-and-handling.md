@@ -18,8 +18,8 @@ Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
 
 Manufactured by:
 
-Cadista Pharmaceuticals Inc.
+Jubilant Cadista Pharmaceuticals Inc.
 
 Salisbury, MD 21801, USA.
 
-Revised 02/07
+Revised 03/11
