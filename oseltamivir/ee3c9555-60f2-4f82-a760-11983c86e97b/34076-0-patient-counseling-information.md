@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling.
+See FDA-approved Patient Labeling (Patient Information)
 
 ## 17.1 Information for Patients
 
@@ -17,6 +17,6 @@ Instruct patients to take any missed doses as soon as they remember, except if i
 TAMIFLU is not a substitute for a flu vaccination.
 Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
 
-A bottle of 13 g TAMIFLU for oral suspension contains approximately 11 g sorbitol.
+A bottle of TAMIFLU for oral suspension contains approximately 11 g sorbitol.
 One dose of 75 mg TAMIFLU for oral suspension delivers 2 g sorbitol.
 For patients with hereditary fructose intolerance, this is above the daily maximum limit of sorbitol and may cause dyspepsia and diarrhea.

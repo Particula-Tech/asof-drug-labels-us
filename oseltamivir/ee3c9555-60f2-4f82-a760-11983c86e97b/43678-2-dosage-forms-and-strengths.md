@@ -9,7 +9,7 @@ Capsules: 30 mg, 45 mg, 75 mg
 - 75-mg capsules (75 mg free base equivalent of the phosphate salt): grey/light yellow hard gelatin capsules.
   "ROCHE" is printed in blue ink on the grey body and "75 mg" is printed in blue ink on the light yellow cap.
 
-For Oral Suspension: 12 mg/mL (final concentration)
+For Oral Suspension: 6 mg/mL (final concentration when constituted)
 
 - White powder blend for constitution to a white tutti-frutti–flavored suspension.
-  Each bottle delivers 25 mL of suspension equivalent to 300 mg oseltamivir base.
+  After constitution, each bottle delivers a usable volume of 60 mL of oral suspension equivalent to 360 mg oseltamivir base (6 mg/mL).

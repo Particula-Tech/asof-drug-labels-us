@@ -4,7 +4,7 @@
 
 Adult Subjects
 
-Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100°F, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
+Two placebo-controlled double-blind clinical trials were conducted: one in the U.S. and one outside the U.S. Subjects were eligible for these trials if they had fever >100ºF, accompanied by at least one respiratory symptom (cough, nasal symptoms, or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue, or headache) and influenza virus was known to be circulating in the community.
 In addition, all subjects enrolled in the trials were allowed to take fever-reducing medications.
 
 Of 1355 subjects enrolled in these two trials, 849 (63%) subjects were influenza-infected (age range 18 to 65 years; median age 34 years; 52% male; 90% Caucasian; 31% smokers).

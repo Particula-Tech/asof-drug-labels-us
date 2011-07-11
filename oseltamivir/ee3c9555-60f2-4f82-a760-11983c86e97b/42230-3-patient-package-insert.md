@@ -19,7 +19,7 @@ TAMIFLU can also reduce the chance of getting the flu if there is a flu outbreak
 What is "Flu"?
 
 "The flu" is an infection caused by the influenza virus.
-Flu symptoms include fever (usually 100°F to 103°F in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
+Flu symptoms include fever (usually 100ºF to 103ºF in adults, and sometimes higher in children) and problems such as cough, sore throat, runny or stuffy nose, headaches, muscle aches, fever, and extreme tiredness.
 Many people use the term "flu" to mean any combination of these symptoms, such as the common cold, but true influenza infection is often worse and may last longer than a cold.
 
 Flu outbreaks happen about once a year, usually in the winter, when the influenza virus spreads widely in the community.
@@ -57,13 +57,12 @@ Follow your healthcare professional's advice on how long to take TAMIFLU.
 You can take TAMIFLU with food or without food.
 There is less chance of stomach upset if you take it with a light snack, milk, or a meal.
 
-If you are taking TAMIFLU for Oral Suspension, your pharmacist will give you a dosing dispenser marked with three possible doses.
-Follow your healthcare professional's instructions on which dose to take or how to combine them for the proper dose for you.
-In order to be sure you receive the proper dose, it is important that you use the dispenser provided.
+If you are taking TAMIFLU for Oral Suspension, your pharmacist will give you a dosing dispenser to measure the proper amount of Oral Suspension for your dose.
+Follow your healthcare professional's instructions on how to measure the proper dose for you.
 Review the instructions below on how to use the dispenser and ask your pharmacist if you have any questions.
 If you lose or damage the dispenser and cannot use it, contact your healthcare professional or pharmacist for advice on the proper dose.
 
-If TAMIFLU for Oral Suspension is not available, your healthcare provider may instruct you to open TAMIFLU Capsules and mix the contents with sweetened liquids such as regular or sugar-free chocolate syrup.
+If TAMIFLU for Oral Suspension is not available, your healthcare provider may instruct you to open TAMIFLU Capsules and mix the contents with sweetened liquids such as regular or sugar-free chocolate syrup, corn syrup, caramel topping, or light brown sugar (dissolved in water).
 Please follow the dosing instructions below.
 
 If you forget to take your medicine, take the missed dose as soon as you remember, except if it is 2 hours or less before your next dose.
@@ -97,6 +96,7 @@ Keep this medication out of reach of children.
 TAMIFLU for Oral Suspension should be stored under refrigeration for up to 17 days at 36° to 46°F (2° to 8°C).
 Do not freeze.
 Alternatively, store at room temperature for up to 10 days.
+Discard any unused portion when you are finished with your prescribed dosing of TAMIFLU.
 
 General advice about prescription medicines:
 
@@ -111,7 +111,7 @@ You can ask your pharmacist or healthcare professional for information about TAM
 
 DOSING INSTRUCTIONS FOR PATIENTS:
 
-How Do I Prepare TAMIFLU for Oral Suspension?
+How Do I Prepare a Dose of TAMIFLU for Oral Suspension?
 
 Please follow instructions carefully to ensure proper dosing of the oral suspension.
 
@@ -121,7 +121,7 @@ Please follow instructions carefully to ensure proper dosing of the oral suspens
   Insert tip firmly into opening of the bottle adapter.
 - Turn the entire unit (bottle and oral dispenser) upside down.
 - Pull the plunger out slowly until the desired amount of medication is withdrawn into the oral dispenser (see figure).
-  The 75 mg dose is obtained by filling the dispenser twice, once to the 30 mg graduation, and a second fill to the 45 mg graduation.
+  The 12.5 mL (75 mg) dose is obtained by filling the dispenser twice, once to the 10 mL graduation, and a second fill to the 2.5 mL graduation.
 
 - Turn the entire unit right side up and remove the oral dispenser slowly from the bottle.
 - Dispense directly into mouth.
@@ -134,7 +134,7 @@ If Directed by My Healthcare Provider, How Do I Mix the Contents of TAMIFLU Caps
 Please follow instructions carefully to ensure proper dosing.
 
 - Holding one capsule over a small bowl, carefully pull the capsule open and pour the complete contents of the capsule into the bowl.
-- Add a small amount of a sweetened liquid such as chocolate syrup (regular or sugar-free) that the child will consume completely.
+- Add to the capsule contents a small amount of a sweetened liquid such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water) that the child will consume completely.
 - Stir the mixture and give the entire dose to the child.
 
 Distributed by:
@@ -145,9 +145,9 @@ Licensor:
 
 Gilead Sciences, Inc. Foster City, California 94404
 
-27899816 TUCOS_640796_PPI_AR2010_N(2)
+TUCOS_640796_PPI_2011_03(K)
 
 Rev.
-April 2010
+March 2011
 
-© 2010 Genentech, Inc. All rights reserved.
+© 2011 Genentech, Inc. All rights reserved.

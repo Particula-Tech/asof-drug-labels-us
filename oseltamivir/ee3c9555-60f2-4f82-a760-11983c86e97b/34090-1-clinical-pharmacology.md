@@ -10,9 +10,9 @@ Absorption and Bioavailability
 
 Oseltamivir is readily absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate and is extensively converted predominantly by hepatic esterases to oseltamivir carboxylate.
 At least 75% of an oral dose reaches the systemic circulation as oseltamivir carboxylate.
-Exposure to oseltamivir is less than 5% of the total exposure after oral dosing (see Table 8).
+Exposure to oseltamivir is less than 5% of the total exposure after oral dosing (see Table 6).
 
-Table 8 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20)
+Table 6 Mean (% CV) Pharmacokinetic Parameters of Oseltamivir and Oseltamivir Carboxylate Following Multiple Dosing of 75 mg Capsules Twice Daily (n=20)
 
 | Parameter | Oseltamivir | Oseltamivir Carboxylate |
 | --- | --- | --- |
@@ -50,15 +50,15 @@ Special Populations
 Renal Impairment
 
 Administration of 100 mg of oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
-Oseltamivir carboxylate exposures in patients with normal and impaired renal function administered various dose regimens of oseltamivir are described in Table 9.
+Oseltamivir carboxylate exposures in patients with normal and impaired renal function administered various dose regimens of oseltamivir are described in Table 7.
 
-Table 9 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Serum Creatinine Clearance
+Table 7 Oseltamivir Carboxylate Exposures in Patients With Normal and Reduced Serum Creatinine Clearance
 
 | 30 mg weekly | 30 mg alternate HD cycle |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Parameter | Normal Renal Function |  |  | Impaired Renal Function |  |  |  |  |
 |  | 75 mg once daily | 75 mg twice daily | 150 mg twice daily | Creatinine Clearance <10 mL/min |  | Creatinine Clearance >10 and <30 mL/min |  |  |
-|  |  |  |  | CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |
+| CAPD | Hemodialysis | 75 mg daily | 75 mg alternate days | 30 mg daily |  |  |  |  |
 | Cmax | 259Observed values. All other values are predicted. | 348 | 705 | 766 | 850 | 1638 | 1175 | 655 |
 | Cmin | 39 | 138 | 288 | 62 | 48 | 864 | 209 | 346 |
 | AUC48AUC normalized to 48 hours. | 7476 | 10876 | 21864 | 17381 | 12429 | 62636 | 21999 | 25054 |
@@ -99,12 +99,12 @@ Resistance
 
 Influenza A virus isolates with reduced susceptibility to oseltamivir carboxylate have been recovered by serial passage of virus in cell culture in the presence of increasing concentrations of oseltamivir carboxylate, from clinical isolates collected during treatment with oseltamivir, and from viral isolates sampled during community surveillance studies.
 Reduced susceptibility of influenza virus to inhibition by oseltamivir carboxylate may be conferred by amino acid substitutions in the viral neuraminidase and/or hemagglutinin proteins.
-Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 10.
+Changes in the viral neuraminidase that have been associated with reduced susceptibility to oseltamivir carboxylate are summarized in Table 8.
 Hemagglutinin substitutions associated with oseltamivir resistance include A28T and R124M in influenza A H3N2 and H154Q in H1N9, a reassortant human/avian virus.
 
-Table 10 Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatment Studies or Community Surveillance
+Table 8 Neuraminidase Amino Acid Substitutions Observed in Oseltamivir Treatment Studies or Community Surveillance
 
-| Amino Acid Substitution | Influenza Type/Sub-type | Source |
+| Amino Acid Substitution | Influenza Type/ Sub-type | Source |
 | --- | --- | --- |
 | Catalytic Residues |  |  |
 | R292K | A N2 | Roche clinical trials, publication, surveillanceSubstitutions identified by surveillance data only; population and use of TAMIFLU are unknown |
