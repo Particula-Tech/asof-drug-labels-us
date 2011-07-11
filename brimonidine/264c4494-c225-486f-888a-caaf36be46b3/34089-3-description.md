@@ -7,7 +7,7 @@ The structural formula of brimonidine tartrate is:
 5-Bromo-6-(2-imidazolidinylideneamino) quinoxaline L-tartrate; MW= 442.24
 
 In solution, ALPHAGAN® P (brimonidine tartrate ophthalmic solution) has a clear, greenish-yellow color.
-It has an osmolality of 250-350 mOsmol/kg and a pH of 7.4-8.0 (0.1%) or 6.6-7.4 (0.15%).
+It has an osmolality of 250-350 mOsmol/kg and a pH of 7.4-8.0 (0.1%) or 6.9-7.4 (0.15%).
 
 Brimonidine tartrate appears as an off-white to pale-yellow powder and is soluble in both water (0.6 mg/mL) and in the product vehicle (1.4 mg/mL) at pH 7.7.
 
