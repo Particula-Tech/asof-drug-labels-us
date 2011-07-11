@@ -5,8 +5,6 @@
 
 Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.4)].
 
-06/2011
-
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
 © AstraZeneca 2011

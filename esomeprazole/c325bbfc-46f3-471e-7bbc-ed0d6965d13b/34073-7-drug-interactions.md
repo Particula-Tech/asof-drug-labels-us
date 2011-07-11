@@ -14,15 +14,20 @@ Coadministration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, result
 Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.
 However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.
 
-Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
-Dose adjustment of esomeprazole is not normally required for the recommended doses.
-However, in patients who may require higher doses, dose adjustment may be considered.
-
 Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
+
+Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
+Dose adjustment of esomeprazole is not normally required for the recommended doses.
+However, in patients who may require higher doses, dose adjustment may be considered.
+
+Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased esomeprazole serum levels.
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s wort, an inducer of CYP3A4.
+In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
 
 Coadministration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
 
@@ -44,4 +49,16 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 
 Esomeprazole inhibits gastric acid secretion.
-Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (eg, ketoconazole, iron salts and digoxin).
+Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (eg, ketoconazole, atazanavir, iron salts, and digoxin).
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Esomeprazole is an enantiomer of omeprazole.
+Coadministration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole.
+
+## 7.1 Interactions With Investigations of Neuroendocrine Tumors
+
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.5)and Clinical Pharmacology (12.2)].
+
+## 7.2 Tacrolimus
+
+Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.

@@ -86,8 +86,7 @@ The resultant concentration after diluting to a final volume of 50 mL is 0.8 mg/
 
 20 mg vial
 
-A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 ml.
-The resultant concentration after diluting to a final volume of 50 mL is 0.4 mg/mL.
+A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 mL The resultant concentration after diluting to a final volume of 50 mL is 0.4 mg/mL.
 
 20 mg dose: Administer the final solution (50 mL) as an intravenous infusion over 10 minutes to 30 minutes
 

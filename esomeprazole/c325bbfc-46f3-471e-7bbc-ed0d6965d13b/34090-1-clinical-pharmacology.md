@@ -33,6 +33,9 @@ In oral studies, the effect of NEXIUM on serum gastrin concentrations was evalua
 The mean fasting gastrin level increased in a dose-related manner.
 This increase reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+
 Enterochromaffin-like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous esomeprazole on ECL cells.
