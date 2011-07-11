@@ -12,7 +12,7 @@ Esomeprazole is the s-isomer of omeprazole.
 In four population-based cohort studies that included 1226 women exposed during the first trimester of pregnancy to omeprazole there was no increased risk of congenital anomalies.
 
 Reproductive studies with esomeprazole have been performed in rats at doses up to 57 times the human dose and in rabbits at doses up to 35 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus.
-See Animal Toxicology and/or Pharmacology (13.2).
+[See Animal Toxicology and/or Pharmacology (13.2)].
 
 Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
 In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.

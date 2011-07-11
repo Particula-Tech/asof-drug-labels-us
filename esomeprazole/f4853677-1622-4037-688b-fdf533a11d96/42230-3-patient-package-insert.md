@@ -64,6 +64,8 @@ Especially tell your doctor if you take:
 - saquinavir (FORTOVASE)
 - products that contain iron
 - digoxin (LANOXIN, LANOXICAPS)
+- St.John’s Wort (Hypericum perforatum)
+- Rifampin
 
 HOW SHOULD I TAKE NEXIUM?
 
@@ -200,4 +202,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-06/2011
+June 2011

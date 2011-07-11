@@ -30,6 +30,10 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 Esomeprazole inhibits gastric acid secretion.
 Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, atazanavir, iron salts, and digoxin).
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Esomeprazole is an enantiomer of omeprazole.
+Coadministration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.
+Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole.
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
 
@@ -45,17 +49,31 @@ Patients treated with proton pump inhibitors and warfarin concomitantly may need
 Esomeprazole may potentially interfere with CYP 2C19, the major esomeprazole metabolizing enzyme.
 Coadministration of esomeprazole 30 mg and diazepam, a CYP 2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
 
-Concomitant administration of esomeprazole and a combined inhibitor of CYP 2C19 and CYP 3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
-Dose adjustment of esomeprazole is not normally required.
-However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-
 Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
 Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69% respectively.
 Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore a dose reduction of cilostazol from 100 mg twice daily. to 50 mg twice daily. should be considered.
+Therefore a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
 
-## 7.4 Combination Therapy with Clarithromycin
+Concomitant administration of esomeprazole and a combined inhibitor of CYP 2C19 and CYP 3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
+Dose adjustment of esomeprazole is not normally required.
+However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
+
+Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
+Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s wort an inducer of CYP3A4.
+In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
+Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
+
+## 7.4 Interactions With Investigations of Neuroendocrine Tumors
+
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
+[see Warnings and Precuations (5.7) and Clinical Pharmacology (12.2)]
+
+## 7.5 Tacrolimus
+
+Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.
+
+## 7.6 Combination Therapy with Clarithromycin
 
 Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].
 

@@ -34,6 +34,9 @@ The effect of NEXIUM on serum gastrin concentrations was evaluated in approximat
 The mean fasting gastrin level increased in a dose-related manner.
 This increase reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+
 Enterochromaffin-like (ECL) Cell Effects
 
 In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
@@ -171,7 +174,7 @@ Dosage adjustment based on gender is not necessary.
 
 Hepatic Insufficiency
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh Class A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
 No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].

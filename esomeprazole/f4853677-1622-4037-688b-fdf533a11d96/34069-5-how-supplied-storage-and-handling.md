@@ -46,4 +46,4 @@ Dispense in a tight container if the NEXIUM Delayed-Release Capsules product pac
 
 NEXIUM and the color purple as applied to the capsule are registered trademarks of the AstraZeneca group of companies.
 
-©AstraZeneca 2010
+©AstraZeneca 2011
