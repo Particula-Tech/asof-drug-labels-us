@@ -85,7 +85,7 @@ Table 16: Clinical Success and Bacteriologic Eradication Rates for Resistant Str
 
 ## 14.3 Community-Acquired Pneumonia: 5-Day Treatment Regimen
 
-To evaluate the safety and efficacy of higher dose and shorter course of LEVAQUIN®, 528 outpatient and hospitalized adults with clinically and radiologically determined mild to severe community-acquired pneumonia were evaluated in a double-blind, randomized, prospective, multicenter study comparing LEVAQUIN® 750 mg, IV or orally, every day for five days or LEVAQUIN® 500 mg IV or orally, every day for 10 days.
+To evaluate the safety and efficacy of the higher dose and shorter course of LEVAQUIN®, 528 outpatient and hospitalized adults with clinically and radiologically determined mild to severe community-acquired pneumonia were evaluated in a double-blind, randomized, prospective, multicenter study comparing LEVAQUIN® 750 mg, IV or orally, every day for five days or LEVAQUIN® 500 mg IV or orally, every day for 10 days.
 
 Clinical success rates (cure plus improvement) in the clinically evaluable population were 90.9% in the LEVAQUIN® 750 mg group and 91.1% in the LEVAQUIN® 500 mg group.
 The 95% CI for the difference of response rates (LEVAQUIN® 750 minus LEVAQUIN® 500) was [-5.9, 5.4].
@@ -95,7 +95,7 @@ The microbiological efficacy of the 5-day regimen was documented for infections 
 
 Table 17: Microbiological Eradication Rates (Community-Acquired Pneumonia)
 
-| Penicillin susceptible S. pneumonae | 19/20 |
+| Penicillin susceptible S. pneumoniae | 19/20 |
 | --- | --- |
 | Haemophilus influenzae | 12/12 |
 | Haemophilus parainfluenzae | 10/10 |
@@ -115,7 +115,7 @@ Table 18: Clinical Success Rate by Pathogen at the TOC in Microbiologically Eval
 
 | Pathogen | LEVAQUIN® 750 mg × 5 days | LEVAQUIN® 500 mg × 10 days |
 | --- | --- | --- |
-| Streptococcus pneumoniaeNote: Forty percent of the subjects in this trial had specimens obtained by sinus endoscopy. The efficacy data for subjects whose specimen was obtained endoscopically were comparable to those presented in the above table | 25/27 (92.6%) | 26/27 (96.3%) |
+| Streptococcus pneumoniaeNote: Forty percent of the subjects in this trial had specimens obtained by sinus endoscopy. The efficacy data for subjects whose specimen was obtained endoscopically were comparable to those presented in the above table. | 25/27 (92.6%) | 26/27 (96.3%) |
 | Haemophilus influenzae | 19/21 (90.5%) | 25/27 (92.6%) |
 | Moraxella catarrhalis | 10/11 (90.9%) | 13/13 (100%) |
 
@@ -124,7 +124,7 @@ Table 18: Clinical Success Rate by Pathogen at the TOC in Microbiologically Eval
 Three hundred ninety-nine patients were enrolled in an open-label, randomized, comparative study for complicated skin and skin structure infections.
 The patients were randomized to receive either LEVAQUIN® 750 mg once daily (IV followed by oral), or an approved comparator for a median of 10 ± 4.7 days.
 As is expected in complicated skin and skin structure infections, surgical procedures were performed in the LEVAQUIN® and comparator groups.
-Surgery (incision and drainage or debridement) was performed on 45% of the LEVAQUIN®-treated patients and 44% of the comparator treated patients, either shortly before or during antibiotic treatment and formed an integral part of therapy for this indication.
+Surgery (incision and drainage or debridement) was performed on 45% of the LEVAQUIN®-treated patients and 44% of the comparator-treated patients, either shortly before or during antibiotic treatment and formed an integral part of therapy for this indication.
 
 Among those who could be evaluated clinically 2–5 days after completion of study drug, overall success rates (improved or cured) were 116/138 (84.1%) for patients treated with LEVAQUIN® and 106/132 (80.3%) for patients treated with the comparator.
 
@@ -183,19 +183,18 @@ Table 21: Microbiological Eradication Rates for Individual Pathogens Recovered F
 | Pathogen | Microbiologic Eradication Rate (n/N) | % |
 | --- | --- | --- |
 | Escherichia coliThe predominant organism isolated from patients with AP was E. coli: 91% (63/69) eradication in AP and 89% (92/103) in patients with cUTI. | 155/172 | 90 |
-| Klebsiella pneumonia | 20/23 | 87 |
+| Klebsiella pneumoniae | 20/23 | 87 |
 | Proteus mirabilis | 12/12 | 100 |
 
 ## 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10-day Treatment Regimen
 
-To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of LEVAQUIN®, 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from June 1993 to January 1995 comparing LEVAQUIN® 250 orally once daily for 10 days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282 patients).
+To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of LEVAQUIN®, 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from June 1993 to January 1995 comparing LEVAQUIN® 250 mg orally once daily for 10 days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282 patients).
 Patients with a resistant pathogen, recurrent UTI, women over age 55 years, and with an indwelling catheter were initially excluded, prior to protocol amendment which took place after 30% of enrollment.
 Microbiological efficacy was measured by bacteriologic eradication of the baseline organism(s) at 1–12 days post-therapy in patients with a pathogen identified at baseline.
 
 The bacteriologic cure rates overall for LEVAQUIN® and control at the test-of-cure (TOC) visit for the group of all patients with a documented pathogen at baseline (modified intent to treat or mITT) and the group of patients in the mITT population who closely followed the protocol (Microbiologically Evaluable) are summarized in Table 22.
 
-Table 22.
-Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Cure1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–12 days posttherapy for 70% of subjects.
+Table 22: Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Cure1–9 days posttherapy for 30% of subjects enrolled prior to a protocol amendment; 5–12 days posttherapy for 70% of subjects.
 
 |  | n/N | % | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -207,7 +206,7 @@ Bacteriologic Eradication Overall (cUTI or AP) at Test-Of-Cure1–9 days postthe
 
 The effectiveness of LEVAQUIN® for this indication is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 LEVAQUIN® has not been tested in humans for the post-exposure prevention of inhalation anthrax.
-The mean plasma concentrations of LEVAQUIN® associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13); Dosage and Administration (2.1), (2.2)].
+The mean plasma concentrations of LEVAQUIN® associated with a statistically significant improvement in survival over placebo in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving the recommended oral and intravenous dosage regimens [see Indications and Usage (1.13); Dosage and Administration (2.1, 2.2)].
 
 Levofloxacin pharmacokinetics have been evaluated in adult and pediatric patients.
 The mean (± SD) steady state peak plasma concentration in human adults receiving 500 mg orally or intravenously once daily is 5.7 ± 1.4 and 6.4 ± 0.8 mcg/mL, respectively; and the corresponding total plasma exposure (AUC0–24) is 47.5 ± 6.7 and 54.6 ± 11.1 mcg.h/mL, respectively.
@@ -218,7 +217,7 @@ However, information pertaining to extended use at 500 mg daily up to 60 days is
 Prolonged LEVAQUIN® therapy in adults should only be used when the benefit outweighs the risk.
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendonopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
+An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
 Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [see Warnings and Precautions (5.10), Use in Specific Populations (8.4)].
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 × 106) spores (range 17 – 118 LD50) of B. anthracis (Ames strain) was conducted.

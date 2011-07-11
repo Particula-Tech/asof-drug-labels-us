@@ -65,7 +65,7 @@ Who should not take LEVAQUIN®?
 
 Do not take LEVAQUIN® if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in LEVAQUIN®.
 Ask your healthcare provider if you are not sure.
-See the list of the ingredients in LEVAQUIN® at end of this Medication Guide.
+See the list of the ingredients in LEVAQUIN® at the end of this Medication Guide.
 
 What should I tell my healthcare provider before taking LEVAQUIN®?
 
@@ -321,7 +321,7 @@ What are the ingredients in LEVAQUIN®?
   - Inactive ingredients: Dextrose (D5W).
     Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-Revised January 2011
+Revised June 2011
 
 Manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
 Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution, Injection Single-Use Vials).
@@ -330,7 +330,5 @@ Hospira, Inc., Austin, TX 78728 (Injection Premix).
 Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Tablets, Oral Solution) Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Injection Single-Use Vials, Injection Premix)
 
 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc.
-
-U.S. Patent No. 5,053,407.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -32,7 +32,7 @@ Adverse Events
 In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous LEVAQUIN®.
 Children 6 months to 5 years of age received LEVAQUIN® 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 
-A subset of children in the clinical trials (1340 LEVAQUIN®-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendonopathy, gait abnormality) during 60 days and 1 year following the first dose of study drug.
+A subset of children in the clinical trials (1340 LEVAQUIN®-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
 Children treated with LEVAQUIN® had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 9.
 
 Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
@@ -40,7 +40,7 @@ Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 | Follow-up Period | LEVAQUIN® N = 1340 | Non-FluoroquinoloneNon-Fluoroquinolone: ceftriaxone, amoxicillin/ clavulanate, clarithromycin N = 893 | p-value2-sided Fisher's Exact Test |
 | --- | --- | --- | --- |
 | 60 days | 28 (2.1%) | 8 (0.9%) | p = 0.038 |
-| 1 yearThere were 1199 LEVAQUIN®-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders were calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
+| 1 yearThere were 1199 LEVAQUIN®-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit. However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completed the 1-year evaluation visit. | 46 (3.4%) | 16 (1.8%) | p = 0.025 |
 
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.

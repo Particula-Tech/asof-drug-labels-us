@@ -30,7 +30,7 @@ LEVAQUIN® Tablets are available as film-coated tablets and contain the followin
 
 LEVAQUIN® Oral Solution
 
-LEVAQUIN® Oral Solution, 25 mg/mL, is a multi-use self-preserving aqueous solution of levofloxacin with pH ranging from 5.0 – 6.0.
+LEVAQUIN® Oral Solution, 25 mg/mL, is a multi-use self-preserving aqueous solution of levofloxacin with pH ranging from 5.0 to 6.0.
 The appearance of LEVAQUIN® Oral Solution may range from clear yellow to clear greenish-yellow.
 This does not adversely affect product potency.
 

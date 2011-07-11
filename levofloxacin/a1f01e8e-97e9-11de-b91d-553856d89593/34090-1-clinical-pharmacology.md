@@ -6,9 +6,9 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of LEVAQUIN® are summarized in Table 10.
+The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of LEVAQUIN® are summarized in Table 10.
 
-Table 10: Mean ±SD Levofloxacin PK Parameters
+Table 10: Mean ± SD Levofloxacin PK Parameters
 
 | (mcg/mL) | (h) | (mcg∙h/mL) | (mL/min) | (L) | (h) | (mL/min) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ Table 10: Mean ±SD Levofloxacin PK Parameters
 | 500 mg oral solutionhealthy males and females 19–55 years of age. | 5.8 ± 1.8 | 0.8 ± 0.7 | 47.8 ± 10.8 | 183 ± 40 | 112 ± 37.2 | 7.0 ± 1.4 | ND |
 | 500 mg IV | 6.2 ± 1.0 | 1.0 ± 0.1 | 48.3 ± 5.4 | 175 ± 20 | 90 ± 11 | 6.4 ± 0.7 | 112 ± 25 |
 | 750 mg oral tablethealthy male and female subjects 18–54 years of age | 9.3 ± 1.6 | 1.6 ± 0.8 | 101 ± 20 | 129 ± 24 | 83 ± 17 | 7.5 ± 0.9 | ND |
-| 750 mg IV | 11.5 ±4.060 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose | ND | 110 ±40 | 126 ±39 | 75 ± 13 | 7.5 ± 1.6 | ND |
+| 750 mg IV | 11.5 ± 4.060 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose | ND | 110 ± 40 | 126 ± 39 | 75 ± 13 | 7.5 ± 1.6 | ND |
 | Multiple dose |  |  |  |  |  |  |  |
 | 500 mg every 24h oral tablet | 5.7 ± 1.4 | 1.1 ± 0.4 | 47.5 ± 6.7 | 175 ± 25 | 102 ± 22 | 7.6 ± 1.6 | 116 ± 31 |
 | 500 mg every 24h IV | 6.4 ± 0.8 | ND | 54.6 ± 11.1 | 158 ± 29 | 91 ± 12 | 7.0 ± 0.8 | 99 ± 28 |
@@ -44,16 +44,16 @@ Absorption
 Levofloxacin is rapidly and essentially completely absorbed after oral administration.
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
 The absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of LEVAQUIN® are both approximately 99%, demonstrating complete oral absorption of levofloxacin.
-Following a single intravenous dose of LEVAQUIN® to healthy volunteers, the mean ±SD peak plasma concentration attained was 6.2 ±1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ±4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
+Following a single intravenous dose of LEVAQUIN® to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ± 1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
 LEVAQUIN® Oral Solution and Tablet formulations are bioequivalent.
 
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ±1.4 and 0.5 ±0.2 mcg/mL after the 500 mg doses, and 8.6 ±1.9 and 1.1 ±0.4 mcg/mL after the 750 mg doses, respectively.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ±0.8 and 0.6 ±0.2 mcg/mL after the 500 mg doses, and 12.1 ±4.1 and 1.3 ±0.71 mcg/mL after the 750 mg doses, respectively.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ± 1.4 and 0.5 ± 0.2 mcg/mL after the 500 mg doses, and 8.6 ± 1.9 and 1.1 ± 0.4 mcg/mL after the 750 mg doses, respectively.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1 and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively.
 Oral administration of a 500 mg dose of LEVAQUIN® with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, LEVAQUIN® Tablets can be administered without regard to food.
-It is recommended that LEVAQUIN® Oral Solution be taken 1 hour before, or 2 hours after eating.
+It is recommended that LEVAQUIN® Oral Solution be taken 1 hour before or 2 hours after eating.
 
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for LEVAQUIN® Tablets when equal doses (mg/mg) are administered.
 Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
@@ -70,7 +70,7 @@ The mean volume of distribution of levofloxacin generally ranges from 74 to 112 
 Levofloxacin reaches its peak levels in skin tissues and in blister fluid of healthy subjects at approximately 3 hours after dosing.
 The skin tissue biopsy to plasma AUC ratio is approximately 2 and the blister fluid to plasma AUC ratio is approximately 1 following multiple once-daily oral administration of 750 mg and 500 mg doses of LEVAQUIN®, respectively, to healthy subjects.
 Levofloxacin also penetrates well into lung tissues.
-Lung tissue concentrations were generally 2- to 5- fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24-hour period after a single 500 mg oral dose.
+Lung tissue concentrations were generally 2- to 5-fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24-hour period after a single 500 mg oral dose.
 
 In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levofloxacin concentrations, levofloxacin is approximately 24 to 38% bound to serum proteins across all species studied, as determined by the equilibrium dialysis method.
 Levofloxacin is mainly bound to serum albumin in humans.
@@ -99,7 +99,7 @@ There are no significant differences in levofloxacin pharmacokinetics between yo
 Following a 500 mg oral dose of LEVAQUIN® to healthy elderly subjects (66 – 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
-LEVAQUIN® dose adjustment based on age alone is not necessary [See Use in Specific Populations (8.5)].
+LEVAQUIN® dose adjustment based on age alone is not necessary [see Use in Specific Populations (8.5)].
 
 Pediatrics
 
@@ -128,7 +128,7 @@ Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is eff
 Hepatic Impairment
 
 Pharmacokinetic studies in hepatically impaired patients have not been conducted.
-Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [See Use in Specific Populations (8.7)].
+Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [see Use in Specific Populations (8.7)].
 
 Bacterial Infection
 
@@ -237,7 +237,7 @@ Quantitative methods that require measurement of zone diameters also provide rep
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 11.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 11.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
 
 Table 11: Susceptibility Interpretive Criteria for LEVAQUIN®
@@ -271,11 +271,11 @@ Table 12: Quality Control for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | Not applicable |
+| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
-| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | Not applicable |
+| Escherichia coliCareful maintenance of this organism is required as the strain may lose its plasmid. | ATCC 35218 | 0.015 – 0.06 | -- |
 | Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 | 32 – 40This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | Not applicable |
-| Staphylococcus aureus | ATCC 25923 | Not applicable | 25 – 30 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
 | Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2–5% lysed horse blood. | 20 – 25This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. |

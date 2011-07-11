@@ -22,7 +22,7 @@ LEVAQUIN® Tablets are manufactured for PriCara, Division of Ortho-McNeil-Jansse
 ## 16.2 LEVAQUIN® Oral Solution
 
 LEVAQUIN® Oral Solution is supplied in a 16 oz. multi-use bottle (NDC 50458-170-01).
-Each bottle contains 480 mL of the 25 mg/mL levofloxacin oral solution
+Each bottle contains 480 mL of the 25 mg/mL levofloxacin oral solution.
 
 LEVAQUIN® Oral Solution should be stored at 25°C (77°F); excursions permitted to 15° – 30°C (59° to 86°F) [refer to USP controlled room temperature].
 
