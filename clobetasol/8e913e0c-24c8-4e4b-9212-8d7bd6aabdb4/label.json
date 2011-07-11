@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021142"
+  ],
   "inn": "clobetasol",
-  "labeler": "Connetics Corporation",
+  "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "63032-031-00",
+    "63032-031-12",
     "63032-031-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "clobetasol propionate",
+      "name": "OLUX"
+    }
+  ],
   "setid": "8e913e0c-24c8-4e4b-9212-8d7bd6aabdb4",
   "source": "dailymed"
 }

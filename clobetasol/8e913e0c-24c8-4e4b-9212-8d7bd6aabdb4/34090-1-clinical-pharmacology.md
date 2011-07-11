@@ -20,13 +20,13 @@ In addition, some corticosteroids and their metabolites are also excreted in the
 CLINICAL STUDIES
 
 A well-controlled clinical study evaluated 188 subjects with moderate to severe scalp psoriasis.
-Subjects were treated twice daily for 2 weeks with one of four treatments: OLUX Foam, Vehicle foam, a commercially available clobetasol propionate solution (Temovate® Scalp Application), or Vehicle solution.
-The efficacy of OLUX Foam in treating scalp psoriasis at the end of the 2 weeks' treatment was superior to that of Vehicle (foam and solution), and was comparable to that of Temovate Scalp Application.
+Subjects were treated twice daily for 2 weeks with one of four treatments: Olux Foam, Vehicle foam, a commercially available clobetasol propionate solution (Temovate® Scalp Application), or Vehicle solution.
+The efficacy of Olux Foam in treating scalp psoriasis at the end of the 2 weeks' treatment was superior to that of Vehicle (foam and solution), and was comparable to that of the commercially available Scalp Application.
 See Table 1 below.
 
 Table 1: Efficacy results from a controlled clinical trial in scalp psoriasis
 
-|  | OLUX Foam n (%) | Vehicle Foam n (%) |
+|  | Olux Foam n (%) | Vehicle Foam n (%) |
 | --- | --- | --- |
 | Total number of subjects | 62 | 31 |
 | Subjects with Treatment SuccessDefined as a composite of an Investigator's Global Assessment of "completely clear " or "almost clear," a plaque thickness score of 0, an erythema score of 0 or 1, and a scaling score of 0 or 1 at Endpoint, scored on a severity scale of 0-4. | 39 (63) | 1 (3) |
@@ -36,14 +36,14 @@ Table 1: Efficacy results from a controlled clinical trial in scalp psoriasis
 | Plaque Thickness - Clear at Endpoint | 41 (66) | 3 (10) |
 
 Another well-controlled clinical study evaluated 279 subjects with mild to moderate plaque-type psoriasis (mean Body Surface Area at baseline was 6.7% with a range from 1% to 20%) of non-scalp regions.
-Subjects were treated twice daily for 2 weeks with OLUX Foam or Vehicle foam.
+Subjects were treated twice daily for 2 weeks with Olux Foam or Vehicle foam.
 The face and intertriginous areas were excluded from treatment.
-The efficacy of OLUX Foam in treating non-scalp psoriasis at the end of 2 weeks’ treatment was superior to that of Vehicle foam.
+The efficacy of Olux Foam in treating non-scalp psoriasis at the end of 2 weeks’ treatment was superior to that of Vehicle foam.
 See Table 2 below.
 
 Table 2: Efficacy results from a controlled clinical trial in non-scalp psoriasis
 
-|  | OLUX Foam n (%) | Vehicle Foam n (%) |
+|  | Olux Foam n (%) | Vehicle Foam n (%) |
 | --- | --- | --- |
 | Total number of subjects | 139 | 140 |
 | Subjects with Treatment SuccessDefined as a composite of a Physician's Static Global Assessment score of 0 or 1, scaling score of 0 or 1, an erythema score of 0 or 1 and a plaque thickness score of 0, based on a severity scale of 0-5 at Endpoint. | 39 (28) | 4 (3) |
