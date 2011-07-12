@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Brimonidine Tartrate Ophthalmic Solution, 0.15% is supplied sterile in opaque white LDPE plastic bottles and natural tips with purple polypropylene caps as follows:
 
@@ -9,25 +9,3 @@ Brimonidine Tartrate Ophthalmic Solution, 0.15% is supplied sterile in opaque wh
 15 mL in 15 mL bottle NDC 61314-144-15
 
 Storage: Store at 15°-25° C (59° - 77°F).
-
-Rx Only
-
-Distributed by:
-
-Falcon Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134
-
-Manufactured by:
-
-Alcon Laboratories, Inc.
-
-Fort Worth, Texas 76134
-
-Printed in USA
-
-*POLYQUAD is a registered trademark of Alcon Research, Ltd.
-
-**ALPHAGAN P is a registered trademark of Allergan, Inc.
-
-349040-1008
