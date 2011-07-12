@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022406"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "50458-580-10",
+    "50458-580-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rivaroxaban",
+      "name": "Xarelto"
+    }
+  ],
+  "setid": "10db92f9-2300-4a80-836b-673e1ae91610",
+  "source": "dailymed"
+}
