@@ -1,11 +1,11 @@
 # CONTRAINDICATIONS
 
-## Congestive Heart Failure:
+## Congestive Heart Failure
 
 Itraconazole Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
 (See CLINICAL PHARMACOLOGY: Special Populations, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, and ADVERSE REACTIONS: Post-marketing Experience.)
 
-## Drug Interactions:
+## Drug Interactions
 
 Concomitant administration of itraconazole and certain drugs metabolized by the cytochrome P450 3A4 isoenzyme system (CYP3A4) may result in increased plasma concentrations of those drugs, leading to potentially serious and/or life-threatening adverse events.
 Cisapride, oral midazolam, nisoldipine, pimozide, quinidine, dofetilide, triazolam and levacetylmethadol (levomethadyl) are contraindicated with itraconazole.

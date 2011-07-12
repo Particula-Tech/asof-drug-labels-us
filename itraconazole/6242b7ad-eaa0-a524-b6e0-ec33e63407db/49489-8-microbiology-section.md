@@ -1,10 +1,10 @@
-# Microbiology
+# MICROBIOLOGY
 
-## Mechanism of Action:
+## Mechanism of Action
 
 In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes.
 
-## Activity In Vitro and In Vivo:
+## Activity In Vitro and In Vivo
 
 Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, Candida albicans, and Cryptococcus neoformans.
 Itraconazole also exhibits varying in vitro activity against Sporothrix schenckii, Trichophyton species, Candida krusei, and other Candida species.
@@ -22,7 +22,7 @@ Itraconazole administered at 2.5 mg/kg and 5 mg/kg via the oral and parenteral r
 Oral itraconazole administered daily at 40 mg/kg and 80 mg/kg increased survival rates in normal rabbits with disseminated disease and in immunosuppressed rats with pulmonary Aspergillus fumigatus infection, respectively.
 Itraconazole has demonstrated antifungal activity in a variety of animal models infected with Candida albicans and other Candida species.
 
-## Resistance:
+## Resistance
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 

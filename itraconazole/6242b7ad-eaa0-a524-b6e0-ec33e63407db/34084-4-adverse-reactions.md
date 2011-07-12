@@ -29,7 +29,7 @@ Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an 
 | Fever | 3 |
 | Malaise | 1 |
 | Skin and Appendages |  |
-| Rash* | 9 |
+| RashRash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. | 9 |
 | Pruritus | 3 |
 | Central/Peripheral Nervous System |  |
 | Headache | 4 |
@@ -47,7 +47,6 @@ Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an 
 | Hepatic Function Abnormal | 3 |
 | Reproductive System, Male |  |
 | Impotence | 1 |
-| *Rash tends to occur more frequently in immunocompromised patients receiving immunosuppressive medications. |  |
 
 Adverse events infrequently reported in all studies included constipation, gastritis, depression, insomnia, tinnitus, menstrual disorder, adrenal insufficiency, gynecomastia, and male breast pain.
 
@@ -104,10 +103,10 @@ Postmarketing Reports of Adverse Drug Reactions
 | Eye disorders: | Visual disturbances, including vision blurred and diplopia |
 | Ear and labyrinth disorders: | Transient or permanent hearing loss, tinnitus |
 | Cardiac disorders: | Congestive heart failure |
-| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema |
+| Respiratory, thoracic and mediastinal disorders: | Pulmonary edema, dyspnea |
 | Gastrointestinal disorders: | Pancreatitis, abdominal pain, vomiting, dyspepsia, nausea, diarrhea, constipation, dysgeusia |
 | Hepato-biliary disorders: | Serious hepatotoxicity (including some cases of fatal acute liver failure), hepatitis, reversible increases in hepatic enzymes |
-| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
+| Skin and subcutaneous tissue disorders: | Toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, exfoliative dermatitis, leukocytoclastic vasculitis, erythema multiforme, alopecia, photosensitivity, rash, urticaria, pruritus |
 | Musculoskeletal and connective tissue disorders: | Myalgia, arthralgia |
 | Renal and urinary disorders: | Urinary incontinence, pollakiuria |
 | Reproductive system and breast disorders: | Menstrual disorders, erectile dysfunction |

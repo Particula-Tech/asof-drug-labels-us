@@ -1,36 +1,10 @@
-Itraconazole Capsules – Front Panel of Pouch
+# PRINCIPAL DISPLAY PANEL - 100 mg Carton
 
-TO OPEN: Fold at line and tear open at slit.
-
-NDC 10147–1700–7
-
-ITRACONAZOLE 100 mg Capsules
-
-Each pouch contains four 100 mg capsules, one complete day of treatment.
-
-Keep out of reach of children.
-
-Rx only
-
-Capsule contents manufactured by: Janssen Pharmaceutica, N.V., Olen, Belgium
-
-Manufactured by: JOLLC, Gurabo, Puerto Rico 00778
-
-Manufactured for: PATRIOT PHARMACEUTICALS LLC Plymouth Meeting, PA 19462
-
-Revised 7/08
-
-(01)10310147170076
-
-10072002
-
-Itraconazole Capsules – Front Carton Panel for Pouch
-
-NDC 10147–1700–7
+NDC 10147-1700-7
 
 Contains 7 pouches x 4 capsules each
 
-Itraconazole 100 mg Capsules DosingPak
+100 mg Itraconazole Capsules DosingPak
 
 Each capsule contains: itraconazole 100 mg
 
@@ -44,11 +18,11 @@ Keep out of reach of children.
 
 Rx only
 
-Capsule contents manufactured by: Janssen Pharmaceutica, N.V.
-Olen, Belgium
+Capsule contents manufactured by: Janssen Pharmaceutica N.V.
+Olen Belgium
 
 Manufactured by: JOLLC Gurabo, Puerto Rico 00778
 
-Manufactured for: Patriot Pharmaceuticals, LLC Plymouth Meeting, PA 19462
+Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
-PATRIOT PHARMACEUTICALSLLC
+PATRIOT PHARMACEUTICALS LLC

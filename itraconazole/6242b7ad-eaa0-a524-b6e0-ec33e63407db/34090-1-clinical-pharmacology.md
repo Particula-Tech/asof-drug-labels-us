@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics and Metabolism:
+## Pharmacokinetics and Metabolism
 
 NOTE: The plasma concentrations reported below were measured by high-performance liquid chromatography (HPLC) specific for itraconazole.
 When itraconazole in plasma is measured by a bioassay, values reported are approximately 3.3 times higher than those obtained by HPLC due to the presence of the bioactive metabolite, hydroxyitraconazole.
@@ -17,30 +17,28 @@ The respective pharmacokinetic parameters for itraconazole are presented in the 
 
 |  | 50 mg (fed) | 100 mg (fed) | 100 mg (fasted) | 200 mg (fed) |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 45 ± 16* | 132 ± 67 | 38 ± 20 | 289 ± 100 |
+| Cmax (ng/mL) | 45 ± 16mean ± standard deviation | 132 ± 67 | 38 ± 20 | 289 ± 100 |
 | Tmax (hours) | 3.2 ± 1.3 | 4.0 ± 1.1 | 3.3 ± 1.0 | 4.7 ± 1.4 |
-| AUC0-∞ (ng·h/mL) | 567 ± 264 | 1899 ± 838 | 722 ± 289 | 5211 ± 2116 |
-| *mean ± standard deviation |  |  |  |  |
+| AUC0–∞ (ng∙h/mL) | 567 ± 264 | 1899 ± 838 | 722 ± 289 | 5211 ± 2116 |
 
 Doubling the itraconazole dose results in approximately a three-fold increase in the itraconazole plasma concentrations.
 
 Values given in the table below represent data from a crossover pharmacokinetics study in which 27 healthy male volunteers each took a single 200-mg dose of Itraconazole Capsules with or without a full meal:
 
-|  | Itraconazole |  | Hydroxyitraconazole |  |
+|  | Fed | Fasted | Fed | Fasted |
 | --- | --- | --- | --- | --- |
-| Fed | Fasted | Fed | Fasted |  |
-| Cmax (ng/mL) | 239 ± 85* | 140 ± 65 | 397 ± 103 | 286 ± 101 |
+|  | Itraconazole |  | Hydroxyitraconazole |  |
+| Cmax (ng/mL) | 239 ± 85mean ± standard deviation | 140 ± 65 | 397 ± 103 | 286 ± 101 |
 | Tmax (hours) | 4.5 ± 1.1 | 3.9 ± 1.0 | 5.1 ± 1.6 | 4.5 ± 1.1 |
-| AUC0-∞ (ng·h/mL) | 3423 ± 1154 | 2094 ± 905 | 7978 ± 2648 | 5191 ± 2489 |
+| AUC0–∞ (ng∙h/mL) | 3423 ± 1154 | 2094 ± 905 | 7978 ± 2648 | 5191 ± 2489 |
 | t1/2 (hours) | 21 ± 5 | 21 ± 7 | 12 ± 3 | 12 ± 3 |
-| *mean ± standard deviation |  |  |  |  |
 
 Absorption of itraconazole under fasted conditions in individuals with relative or absolute achlorhydria, such as patients with AIDS or volunteers taking gastric acid secretion suppressors (e.g., H2 receptor antagonists), was increased when Itraconazole Capsules were administered with a cola beverage.
 Eighteen men with AIDS received single 200-mg doses of Itraconazole Capsules under fasted conditions with 8 ounces of water or 8 ounces of a cola beverage in a crossover design.
-The absorption of itraconazole was increased when Itraconazole Capsules were coadministered with a cola beverage, with AUC0-24 and Cmax increasing 75% ± 121% and 95% ± 128%, respectively.
+The absorption of itraconazole was increased when Itraconazole Capsules were coadministered with a cola beverage, with AUC0–24 and Cmax increasing 75% ± 121% and 95% ± 128%, respectively.
 
 Thirty healthy men received single 200-mg doses of Itraconazole Capsules under fasted conditions either 1) with water; 2) with water, after ranitidine 150 mg b.i.d. for 3 days; or 3) with cola, after ranitidine 150 mg b.i.d. for 3 days.
-When Itraconazole Capsules were administered after ranitidine pretreatment, itraconazole was absorbed to a lesser extent than when Itraconazole Capsules were administered alone, with decreases in AUC0-24 and Cmax of 39% ± 37% and 42% ± 39%, respectively.
+When Itraconazole Capsules were administered after ranitidine pretreatment, itraconazole was absorbed to a lesser extent than when Itraconazole Capsules were administered alone, with decreases in AUC0–24 and Cmax of 39% ± 37% and 42% ± 39%, respectively.
 When Itraconazole Capsules were administered with cola after ranitidine pretreatment, itraconazole absorption was comparable to that observed when Itraconazole Capsules were administered alone.
 (See PRECAUTIONS: Drug Interactions.)
 
@@ -50,38 +48,37 @@ Values given in the table below are data at steady-state from a pharmacokinetics
 
 |  | Itraconazole | Hydroxyitraconazole |
 | --- | --- | --- |
-| Cmax (ng/mL) | 2282 ± 514* | 3488 ± 742 |
+| Cmax (ng/mL) | 2282 ± 514mean ± standard deviation | 3488 ± 742 |
 | Cmin (ng/mL) | 1855 ± 535 | 3349 ± 761 |
 | Tmax (hours) | 4.6 ± 1.8 | 3.4 ± 3.4 |
-| AUC0-12 h (ng·h/mL) | 22569 ± 5375 | 38572 ± 8450 |
+| AUC0–12 h (ng∙h/mL) | 22569 ± 5375 | 38572 ± 8450 |
 | t1/2 (hours) | 64 ± 32 | 56 ± 24 |
-| *mean ± standard deviation |  |  |
 
 The plasma protein binding of itraconazole is 99.8% and that of hydroxyitraconazole is 99.5%.
 Following intravenous administration, the volume of distribution of itraconazole averaged 796 ± 185 liters.
 
 Itraconazole is metabolized predominately by the cytochrome P450 3A4 isoenzyme system (CYP3A4), resulting in the formation of several metabolites, including hydroxyitraconazole, the major metabolite.
 Results of a pharmacokinetics study suggest that itraconazole may undergo saturable metabolism with multiple dosing.
-Fecal excretion of the parent drug varies between 3-18% of the dose.
+Fecal excretion of the parent drug varies between 3–18% of the dose.
 Renal excretion of the parent drug is less than 0.03% of the dose.
 About 40% of the dose is excreted as inactive metabolites in the urine.
 No single excreted metabolite represents more than 5% of a dose.
 Itraconazole total plasma clearance averaged 381 ± 95 mL/minute following intravenous administration.
 (See CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions for more information.)
 
-## Special Populations:
+## Special Populations
 
-### Renal Insufficiency:
+### Renal Insufficiency
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg dose of itraconazole (four 50-mg capsules) was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min. x 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8).
+In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
-Caution should be exercised when the drug is administered in this patient populations.
+Caution should be exercised when the drug is administered in this patient population.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
-### Hepatic Insufficiency:
+### Hepatic Insufficiency
 
 Itraconazole is predominantly metabolized in the liver.
 Patients with impaired hepatic function should be carefully monitored when taking itraconazole.
@@ -92,7 +89,7 @@ The prolonged elimination half-life of itraconazole observed in the single oral 
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See BOX WARNING, CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
 
-### Decreased Cardiac Contractility:
+### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of SPORANOX® (itraconazole) Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
