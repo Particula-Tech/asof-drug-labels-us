@@ -14,17 +14,17 @@ This information does not take the place of discussion between you and your doct
 Only your doctor can decide if SPORANOX® is the right treatment for you.
 If you do not understand some of this information or have any questions, talk with your doctor or pharmacist.
 
-## WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT SPORANOX®?
+WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT SPORANOX®?
 
 SPORANOX® is used to treat fungal nail infections.
 However, SPORANOX® is not for everyone.
 Do not take SPORANOX® for fungal nail infections if you have had heart failure, including congestive heart failure.
 You should not take SPORANOX® if you are taking certain medicines that could lead to serious or life-threatening medical problems.
-(See “Who Should Not Take SPORANOX®?” below.)
+(See "Who Should Not Take SPORANOX®?" below.)
 
 If you have had heart, lung, liver, kidney or other serious health problems, ask your doctor if it is safe for you to take SPORANOX®.
 
-## WHAT HAPPENS IF I HAVE A FUNGAL NAIL INFECTION?
+WHAT HAPPENS IF I HAVE A FUNGAL NAIL INFECTION?
 
 Anyone can have a fungal nail infection, but it is usually found in adults.
 When a fungus infects the tip or sides of a nail, the infected part of the nail may turn yellow or brown.
@@ -32,7 +32,7 @@ If not treated, the fungus may spread under the nail towards the cuticle.
 If the fungus spreads, more of the nail may change color, may become thick or brittle, and the tip of the nail may become raised.
 In some patients, this can cause pain and discomfort.
 
-## WHAT IS SPORANOX®?
+WHAT IS SPORANOX®?
 
 SPORANOX® is a prescription medicine used to treat fungal infections of the toenails and fingernails.
 It is also used to treat some types of fungal infections in other areas of your body.
@@ -47,7 +47,7 @@ The PulsePak® contains 28 capsules for treatment of your fungal nail infection.
 SPORANOX® goes into your bloodstream and travels to the source of the infection underneath the nail so that it can fight the infection there.
 Improved nails may not be obvious for several months after the treatment period is finished because it usually takes about 6 months to grow a new fingernail and 12 months to grow a new toenail.
 
-## WHO SHOULD NOT TAKE SPORANOX®?
+WHO SHOULD NOT TAKE SPORANOX®?
 
 SPORANOX® is not for everyone.
 Your doctor will decide if SPORANOX® is the right treatment for you.
@@ -81,7 +81,7 @@ For example, taking fentanyl, a strong opioid narcotic pain medicine, with SPORA
 Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking.
 Your doctor will decide if SPORANOX® is the right treatment for you.
 
-## WHAT SHOULD I KNOW ABOUT SPORANOX® AND PREGNANCY OR BREAST FEEDING?
+WHAT SHOULD I KNOW ABOUT SPORANOX® AND PREGNANCY OR BREAST FEEDING?
 
 Never take SPORANOX® if you have a fungal nail infection and are pregnant or planning to become pregnant within 2 months after you have finished your treatment.
 
@@ -90,12 +90,12 @@ Ask your doctor about effective types of birth control.
 
 If you are breast-feeding, talk with your doctor about whether you should take SPORANOX®.
 
-## HOW SHOULD I TAKE SPORANOX®?
+HOW SHOULD I TAKE SPORANOX®?
 
 Always take SPORANOX® Capsules during or right after a full meal.
 
 Your doctor will decide the right dose for you.
-Depending on your infection, you will take SPORANOX® once a day for 12 weeks, or twice a day for 1 week in a “pulse” dosing schedule.
+Depending on your infection, you will take SPORANOX® once a day for 12 weeks, or twice a day for 1 week in a "pulse" dosing schedule.
 You will receive either a bottle of capsules or a PulsePak®.
 Do not skip any doses.
 Be sure to finish all your SPORANOX® as prescribed by your doctor.
@@ -105,11 +105,11 @@ If you haven't had liver problems, your doctor may recommend blood tests to chec
 
 If you forget to take or miss doses of SPORANOX®, ask your doctor what you should do with the missed doses.
 
-## THE SPORANOX PulsePak®
+THE SPORANOX PulsePak®
 
 If you use the PulsePak®, you will take SPORANOX® for 1 week and then take no SPORANOX® for the next 3 weeks before repeating the 1-week treatment.
-This is called “pulse dosing.”
-The SPORANOX PulsePak® contains enough medicine for one “pulse” (1 week of treatment).
+This is called "pulse dosing."
+The SPORANOX PulsePak® contains enough medicine for one "pulse" (1 week of treatment).
 
 The SPORANOX PulsePak® comes with special instructions.
 It contains 7 pouches-one for each day of treatment.
@@ -121,20 +121,20 @@ Looking at the back of the card, fold it back along the dashed line and peel awa
   At the end of 7 days, you will have taken all of the capsules in the PulsePak® box.
 - After you finish the PulsePak®, do not take any SPORANOX® for the next 3 weeks.
   Even though you are not taking any capsules during this time, SPORANOX® keeps working inside your nails to help fight the fungal infection.
-- You will need more than one “pulse” to treat your fungal nail infection.
+- You will need more than one "pulse" to treat your fungal nail infection.
   When your doctor prescribes another pulse treatment, be sure to get your refill before the end of week 4.
 
-| SPORANOX® Pulse Dosing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Take 2 SPORANOX® capsules twice a day for 1 week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Day1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
 |  | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SPORANOX® Pulse Dosing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Take 2 SPORANOX® capsules twice a day for 1 week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Day 1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
 | Week 1 | // | // | // | // | // | // | // | // | // | // | // | // | // | // |
-| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 3 | Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## WHAT ARE THE POSSIBLE SIDE EFFECTS OF SPORANOX®?
+WHAT ARE THE POSSIBLE SIDE EFFECTS OF SPORANOX®?
 
 The most common side effects that cause people to stop treatment either for a short time or completely include: skin rash, high triglyceride test results, high liver test results, and digestive system problems (such as nausea, bloating, and diarrhea).
 
@@ -158,17 +158,17 @@ Additional possible side effects include upset stomach, vomiting, abdominal pain
 These are not all the side effects of SPORANOX®.
 Your doctor or pharmacist can give you a more complete list.
 
-## WHAT SHOULD I DO IF I TAKE AN OVERDOSE OF SPORANOX®?
+WHAT SHOULD I DO IF I TAKE AN OVERDOSE OF SPORANOX®?
 
 If you think you took too much SPORANOX®, call your doctor or local poison control center, or go to the nearest hospital emergency room right away.
 
-## HOW SHOULD I STORE SPORANOX®?
+HOW SHOULD I STORE SPORANOX®?
 
 Keep all medicines, including SPORANOX®, out of the reach of children.
 
 Store SPORANOX® Capsules and the PulsePak® at room temperature in a dry place away from light.
 
-## GENERAL ADVICE ABOUT SPORANOX®
+GENERAL ADVICE ABOUT SPORANOX®
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use SPORANOX® for a condition for which it was not prescribed.
@@ -184,10 +184,10 @@ This patient information has been approved by the U.S. Food and Drug Administrat
 The following are registered trademarks of their respective manufacturers:
 
 Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck & Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
-Robins), TikosynTM (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), and Sular® (Sciele Pharma, Inc.)
+Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), and Sular® (Sciele Pharma, Inc.)
 
 Corporate Logo
 
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2001
+© Ortho-McNeil-Janssen Pharmaceuticals, Inc 2001
 
-Printed in USA/ Revised: November 2009
+Printed in USA/ Revised: June 2011

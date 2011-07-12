@@ -18,35 +18,35 @@ Prior to initiating treatment, appropriate nail specimens for laboratory testing
 
 (See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
-## Description of Clinical Studies:
+## Description of Clinical Studies
 
-### Blastomycosis:
+### Blastomycosis
 
 Analyses were conducted on data from two open-label, non-concurrently controlled studies (N=73 combined) in patients with normal or abnormal immune status.
 The median dose was 200 mg/day.
 A response for most signs and symptoms was observed within the first 2 weeks, and all signs and symptoms cleared between 3 and 6 months.
 Results of these two studies demonstrated substantial evidence of the effectiveness of itraconazole for the treatment of blastomycosis compared with the natural history of untreated cases.
 
-### Histoplasmosis:
+### Histoplasmosis
 
 Analyses were conducted on data from two open-label, non-concurrently controlled studies (N=34 combined) in patients with normal or abnormal immune status (not including HIV-infected patients).
 The median dose was 200 mg/day.
 A response for most signs and symptoms was observed within the first 2 weeks, and all signs and symptoms cleared between 3 and 12 months.
 Results of these two studies demonstrated substantial evidence of the effectiveness of itraconazole for the treatment of histoplasmosis, compared with the natural history of untreated cases.
 
-### Histoplasmosis in HIV-infected patients:
+### Histoplasmosis in HIV-infected patients
 
 Data from a small number of HIV-infected patients suggested that the response rate of histoplasmosis in HIV-infected patients is similar to that of non-HIV-infected patients.
 The clinical course of histoplasmosis in HIV-infected patients is more severe and usually requires maintenance therapy to prevent relapse.
 
-### Aspergillosis:
+### Aspergillosis
 
-Analyses were conducted on data from an open-label, “single-patient-use” protocol designed to make itraconazole available in the U.S. for patients who either failed or were intolerant of amphotericin B therapy (N=190).
+Analyses were conducted on data from an open-label, "single-patient-use" protocol designed to make itraconazole available in the U.S. for patients who either failed or were intolerant of amphotericin B therapy (N=190).
 The findings were corroborated by two smaller open-label studies (N=31 combined) in the same patient population.
 Most adult patients were treated with a daily dose of 200 to 400 mg, with a median duration of 3 months.
 Results of these studies demonstrated substantial evidence of effectiveness of itraconazole as a second-line therapy for the treatment of aspergillosis compared with the natural history of the disease in patients who either failed or were intolerant of amphotericin B therapy.
 
-### Onychomycosis of the toenail:
+### Onychomycosis of the toenail
 
 Analyses were conducted on data from three double-blind, placebo-controlled studies (N=214 total; 110 given SPORANOX® Capsules) in which patients with onychomycosis of the toenails received 200 mg of SPORANOX® Capsules once daily for 12 consecutive weeks.
 Results of these studies demonstrated mycologic cure, defined as simultaneous occurrence of negative KOH plus negative culture, in 54% of patients.
@@ -54,7 +54,7 @@ Thirty-five percent (35%) of patients were considered an overall success (mycolo
 The mean time to overall success was approximately 10 months.
 Twenty-one percent (21%) of the overall success group had a relapse (worsening of the global score or conversion of KOH or culture from negative to positive).
 
-### Onychomycosis of the fingernail:
+### Onychomycosis of the fingernail
 
 Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given SPORANOX® Capsules) in which patients with onychomycosis of the fingernails received a 1-week course (pulse) of 200 mg of SPORANOX® Capsules b.i.d., followed by a 3-week period without SPORANOX®, which was followed by a second 1-week pulse of 200 mg of SPORANOX® Capsules b.i.d.
 Results demonstrated mycologic cure in 61% of patients.
