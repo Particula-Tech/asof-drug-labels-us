@@ -3,15 +3,15 @@
     "NDA021980"
   ],
   "inn": "fluorescein",
-  "labeler": "Alcon Research Ltd.",
+  "labeler": "Alcon, Inc.",
   "package_ndcs": [
-    "0065-0092-65"
+    "0065-0092-05"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "fluorescein sodium",
-      "name": "Fluorescite"
+      "name": "FLUORESCITE"
     }
   ],
   "setid": "ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9",

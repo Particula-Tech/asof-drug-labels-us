@@ -9,18 +9,18 @@ In the fundus, the fluorescence of the dye demarcates the retinal and/or choroid
 
 ## Pharmacokinetics
 
-### Distribution:
+Distribution:
 
 Within 7 to 14 seconds after IV administration into antecubital vein, fluorescein usually appears in the central artery of the eye.
 Within a few minutes of IV administration of fluorescein sodium, a yellowish discoloration of the skin occurs, which begins to fade after 6 to 12 hours of dosing.
 Various estimates of volume of distribution indicate that fluorescein distributes well into interstitial space (0.5 L/kg).
 
-### Metabolism:
+Metabolism:
 
 Fluorescein undergoes rapid metabolism to fluorescein monoglucuronide.
 After IV administration of fluorescein sodium (14 mg/kg) to 7 healthy subjects, approximately 80% of fluorescein in plasma was converted to glucuronide conjugate after a period of 1 hour post dose, indicating relatively rapid conjugation.
 
-### Excretion:
+Excretion:
 
 Fluorescein and its metabolites are mainly eliminated via renal excretion.
 After IV administration, the urine remains slightly fluorescent for 24 to 36 hours.

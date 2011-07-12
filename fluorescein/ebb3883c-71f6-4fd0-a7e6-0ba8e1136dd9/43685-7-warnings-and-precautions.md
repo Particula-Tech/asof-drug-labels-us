@@ -33,7 +33,7 @@ There have been no long-term studies done using fluorescein in animals to evalua
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects: Pregnancy Category C
 
 Adequate animal reproduction studies have not been conducted with fluorescein sodium.
 It is also not known whether fluorescein sodium can cause fetal harm when administered to a pregnant woman.
@@ -43,11 +43,3 @@ Fluorescein sodium should be given to a pregnant woman only if clearly needed.
 
 Fluorescein sodium has been demonstrated to be excreted in human milk.
 Caution should be exercised when fluorescein sodium is administered to a nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have been established.
-
-## Geriatric Use
-
-No overall differences in safety or effectiveness have been observed between elderly and other adult patients.
