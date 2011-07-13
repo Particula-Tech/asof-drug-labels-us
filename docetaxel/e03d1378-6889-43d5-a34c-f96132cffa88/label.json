@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA201525"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-050-01",
+    "66758-050-02",
+    "66758-050-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "e03d1378-6889-43d5-a34c-f96132cffa88",
+  "source": "dailymed"
+}
