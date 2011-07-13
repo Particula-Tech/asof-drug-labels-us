@@ -45,7 +45,7 @@ There may be competition for elimination with other compounds that are also rena
 A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of SANCTURA® is provided in Table 1.
 
 Table 1.
-Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® Dose in Healthy Volunteers
+Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® Dose in Healthy Volunteers.
 
 | Cmax (ng/mL) | AUC0-∞ (ng/mL•hr) | Tmax (hr) | t½ (hr) |
 | --- | --- | --- | --- |
@@ -53,11 +53,11 @@ Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg SANCTURA® D
 
 The mean plasma concentration-time (+ SD) profile for SANCTURA® is shown in Figure 1.
 
-Figure 1 - Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose of SANCTURA® in Healthy Volunteers.
+Figure 1 - Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose of SANCTURA® in Healthy Volunteers
 
 ## Pharmacokinetics in Special Populations
 
-Age: Age did not appear to significantly affect the pharmacokinetics of SANCTURA®, however, increased anticholinergic side effects unrelated to drug exposure were observed in patients ≥75 years of age.
+Age: Age did not appear to significantly affect the pharmacokinetics of SANCTURA®, however, increased anticholinergic side effects unrelated to drug exposure were observed in patients greater than or equal to 75 years of age.
 (See PRECAUTIONS: Geriatric Use and DOSAGE AND ADMINISTRATION.)
 
 Pediatric: The pharmacokinetics of SANCTURA® were not evaluated in pediatric patients.
@@ -69,7 +69,7 @@ When 20 mg SANCTURA® was dosed BID for 4 days to 6 elderly males and 6 elderly 
 Race: Pharmacokinetic differences due to race have not been studied.
 
 Renal Insufficiency: Severe renal impairment significantly altered the disposition of SANCTURA®.
-A 4.5-fold and 2-fold increase in mean AUC0-∞ and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hr) was detected in patients with severe renal insufficiency (CLcr < 30 mL/min) compared with healthy, nearly age-matched subjects.
+A 4.5-fold and 2-fold increase in mean AUC0-∞ and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hr) was detected in patients with severe renal insufficiency (CLcr less than 30 mL/min) compared with healthy, nearly age-matched subjects.
 The different pharmacokinetic behavior of SANCTURA® in patients with severe renal insufficiency necessitates adjustment of dosage frequency.
 The pharmacokinetics of SANCTURA® have not been studied in people with moderate or mild renal impairment (CLcr ranging from 30-80 mL/min).
 (See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)

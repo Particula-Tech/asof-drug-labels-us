@@ -12,8 +12,8 @@ Manufactured by: Madaus GmbH Troisdorf, Germany
 
 Address Medical Inquiries to: 1-800-433-8871
 
-© 2010 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc.
+© 2011 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc.
 
-Revised: 06/2010
+Revised: 07/2011
 
-750-02193R6 72157US11A
+72157US12C

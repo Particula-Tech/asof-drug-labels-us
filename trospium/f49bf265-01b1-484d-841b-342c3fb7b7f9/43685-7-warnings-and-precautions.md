@@ -1,3 +1,10 @@
+# WARNINGS
+
+Angioedema of the face, lips, tongue and/or larynx has been reported with trospium chloride.
+In one case, angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, trospium chloride should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+
 # PRECAUTIONS
 
 ## General
@@ -9,12 +16,15 @@ SANCTURA®, like other anticholinergic drugs, may decrease gastrointestinal moti
 
 Controlled Narrow-angle Glaucoma: In patients being treated for narrow-angle glaucoma, SANCTURA® should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring.
 
-Patients with Renal Insufficiency: Dose modification is recommended in patients with severe renal insufficiency (CLcr < 30 mL/min).
+Patients with Renal Insufficiency: Dose modification is recommended in patients with severe renal insufficiency (CLcr less than 30 mL/min).
 In such patients, SANCTURA® should be administered as 20 mg once a day at bedtime (see DOSAGE AND ADMINISTRATION).
 
 Patients with Hepatic Impairment: Caution should be used when administering SANCTURA® in patients with moderate or severe hepatic dysfunction (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations).
 
 ## Information for Patients
+
+Patients should be informed that trospium chloride may produce angioedema which could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue trospium chloride and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing.
 
 Patients should be informed that anticholinergic agents, such as SANCTURA®, may produce clinically significant adverse effects related to anticholinergic pharmacological activity.
 For example, heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as SANCTURA® are used in a hot environment.
@@ -29,10 +39,9 @@ If a dose is skipped, patients are advised to take their next dose 1 hour prior 
 The concomitant use of SANCTURA® with other anticholinergic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.
 Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 
-Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, SANCTURA® has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. procainamide, pancuronium, morphine, vancomycin, metformin and tenofovir).
+Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, SANCTURA® has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g., procainamide, pancuronium, morphine, vancomycin, metformin, and tenofovir).
 Coadministration of SANCTURA® with these drugs may increase the serum concentration of SANCTURA® and/or the coadministered drug due to competition for this elimination pathway.
-Careful patient monitoring is recommended in patients receiving such drugs.
-(See CLINICAL PHARMACOLOGY: Excretion, and CLINICAL PHARMACOLOGY: Drug-Drug Interactions.)
+Careful patient monitoring is recommended in patients receiving such drugs (see CLINICAL PHARMACOLOGY: Excretion, and CLINICAL PHARMACOLOGY: Drug-Drug Interactions).
 
 ## Drug-Laboratory-Test Interactions
 
@@ -61,7 +70,7 @@ SANCTURA® should be used during pregnancy only if the potential benefit justifi
 
 ## Nursing Mothers
 
-Trospium chloride (2 mg/kg PO and 50 μg/kg IV) was excreted, to a limited extent (<1%), into the milk of lactating rats.
+Trospium chloride (2 mg/kg PO and 50 mcg/kg IV) was excreted, to a limited extent (less than 1%), into the milk of lactating rats.
 The activity observed in the milk was primarily from the parent compound.
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when SANCTURA® is administered to a nursing woman.
@@ -74,7 +83,7 @@ The safety and effectiveness of SANCTURA® in pediatric patients have not been e
 ## Geriatric Use
 
 Of the 591 patients with overactive bladder who received treatment with SANCTURA® in the two U.S., placebo-controlled, efficacy and safety studies, 249 patients (42%) were 65 years of age and older.
-Eighty-eight SANCTURA®-treated patients (15%) were ≥ 75 years of age.
+Eighty-eight SANCTURA® treated patients (15%) were greater than or equal to 75 years of age.
 
 In these 2 studies, the incidence of commonly reported anticholinergic adverse events in patients treated with SANCTURA® (including dry mouth, constipation, dyspepsia, UTI, and urinary retention) was higher in patients 75 years of age and older as compared to younger patients.
 This effect may be related to an enhanced sensitivity to anticholinergic agents in this patient population (see CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations and DOSAGE AND ADMINISTRATION).

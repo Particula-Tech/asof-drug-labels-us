@@ -16,7 +16,7 @@ In the two Phase 3 U.S. studies, dry mouth led to discontinuation in 1.9% of pat
 For the patients who reported dry mouth, most had their first occurrence of the event within the first month of treatment.
 
 Table 4.
-Incidence (%) of adverse events judged at least possibly related to treatment with SANCTURA®, reported in ≥ 1% of all patients treated with SANCTURA® and more frequent with SANCTURA® (20 mg BID) than placebo in Studies 1 and 2 combined.
+Incidence (%) of adverse events judged at least possibly related to treatment with SANCTURA®, reported in greater than or equal to 1% of all patients treated with SANCTURA® and more frequent with SANCTURA® (20 mg BID) than placebo in Studies 1 and 2 combined.
 
 | Adverse Event | Placebo (N=590) | SANCTURA® 20 mg BID (N= 591) |
 | --- | --- | --- |
@@ -37,10 +37,10 @@ Incidence (%) of adverse events judged at least possibly related to treatment wi
 | Dry eyes NOS | 2 (0.3) | 7 (1.2) |
 | Abbreviations: BID=twice daily, NOS=not otherwise specified. |  |  |
 
-Other adverse events from the Phase 3, U.S., placebo-controlled trials judged possibly related to treatment with SANCTURA® by the investigator, occurring in ≥0.5% of SANCTURA®-treated patients, and more common with SANCTURA® than placebo are: tachycardia NOS, vision blurred, abdominal distension, vomiting NOS, dysgeusia, dry throat, and dry skin.
+Other adverse events from the Phase 3, U.S., placebo-controlled trials judged possibly related to treatment with SANCTURA® by the investigator, occurring in greater than or equal to 0.5% of SANCTURA® treated patients, and more common with SANCTURA® than placebo are: tachycardia NOS, vision blurred, abdominal distension, vomiting NOS, dysgeusia, dry throat, and dry skin.
 
 During controlled clinical studies, one event of angioneurotic edema was reported.
 
 ## Postmarketing Surveillance
 
-Additional spontaneous adverse events, regardless of relationship to drug, reported from marketing experience with trospium chloride include: Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
+Additional spontaneous adverse events, regardless of relationship to drug, reported from marketing experience with trospium chloride include: Gastrointestinal – gastritis; Cardiovascular – palpitations, supraventricular tachycardia, chest pain, syncope, “hypertensive crisis”; Immunological – Stevens-Johnson syndrome, anaphylactic reaction, angioedema; Nervous System – vision abnormal, hallucinations and delirium; Musculoskeletal – rhabdomyolysis; General – rash.
