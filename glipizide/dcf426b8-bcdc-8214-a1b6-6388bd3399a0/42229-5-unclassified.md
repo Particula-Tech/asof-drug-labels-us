@@ -6,7 +6,7 @@ Dispense in a tight, light-resistant container [see USP].
 
 APOTEX INC.
 
-GLIPIZIDE TABLETS USP
+GLIPIZIDE TABLETS, USP
 
 5 mg and 10 mg
 
@@ -18,7 +18,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 USA 33326
 
-Revised: February 2009
+Revised: October 2010
 
 Rev.
-2
+3

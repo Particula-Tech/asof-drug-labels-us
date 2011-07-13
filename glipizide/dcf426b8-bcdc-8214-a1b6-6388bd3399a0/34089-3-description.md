@@ -7,6 +7,8 @@ The molecular formula is C21H27N5O4S; the molecular weight is 445.55; the struct
 
 Glipizide is a whitish, odorless powder with a pKa of 5.9.
 It is insoluble in water and alcohols, but soluble in 0.1 N NaOH; it is freely soluble in dimethylformamide.
-Glipizide tablets for oral use are available in 5 and 10 mg strengths.
+Glipizide Tablets, USP for oral use are available in 5 and 10 mg strengths.
 
 Inert ingredients are: anhydrous lactose; colloidal silicon dioxide; magnesium stearate; sodium starch glycolate.
+
+USP Drug Release Test 2

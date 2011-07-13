@@ -79,6 +79,7 @@ When such drugs are administered to a patient receiving glipizide, the patient s
 When such drugs are withdrawn from a patient receiving glipizide, the patient should be observed closely for loss of control.
 In vitro binding studies with human serum proteins indicate that glipizide binds differently than tolbutamide and does not interact with salicylate or dicumarol.
 However, caution must be exercised in extrapolating these findings to the clinical situation and in the use of glipizide with these drugs.
+
 Certain drugs tend to produce hyperglycemia and may lead to loss of control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
 When such drugs are administered to a patient receiving glipizide, the patient should be closely observed for loss of control.

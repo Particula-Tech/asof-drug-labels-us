@@ -18,6 +18,7 @@ Alternatively, glipizide may be effective in some patients who have not responde
 ## Other Effects
 
 It has been shown that glipizide therapy was effective in controlling blood sugar without deleterious changes in the plasma lipoprotein profiles of patients treated for NIDDM.
+
 In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity, and, in fact, led to a slight increase in free water clearance.
 
 ## Pharmacokinetics
@@ -32,6 +33,8 @@ Thus glipizide was more effective when administered about 30 minutes before, rat
 Protein binding was studied in serum from volunteers who received either oral or intravenous glipizide and found to be 98 to 99% one hour after either route of administration.
 The apparent volume of distribution of glipizide after intravenous administration was 11 liters, indicative of localization within the extracellular fluid compartment.
 In mice no glipizide or metabolites were detectable autoradiographically in the brain or spinal cord of males or females, nor in the fetuses of pregnant females.
-In another study, however, very small amounts of radioactivity were detected in the fetuses of rats given labeled drug.The metabolism of glipizide is extensive and occurs mainly in the liver.
+In another study, however, very small amounts of radioactivity were detected in the fetuses of rats given labeled drug.
+
+The metabolism of glipizide is extensive and occurs mainly in the liver.
 The primary metabolites are inactive hydroxylation products and polar conjugates and are excreted mainly in the urine.
 Less than 10% unchanged glipizide is found in the urine.
