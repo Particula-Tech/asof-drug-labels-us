@@ -42,6 +42,9 @@ Table 2: Application Sites for AndroGel 1.62%
 
 The prescribed daily dose of AndroGel 1.62% should be applied to the right and left upper arms and shoulders as shown in the shaded areas in Figure 1.
 
+Figure 1.
+Application Sites for AndroGel 1.62%
+
 Once the application site is dry, the site should be covered with clothing [see Clinical Pharmacology (12.3)].
 Wash hands thoroughly with soap and water.
 Avoid fire, flames or smoking until the gel has dried since alcohol based products, including AndroGel 1.62%, are flammable.

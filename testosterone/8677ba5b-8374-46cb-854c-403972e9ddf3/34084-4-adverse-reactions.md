@@ -26,7 +26,7 @@ Table 3: Adverse Reactions Reported in >2% of Patients in the 182-Day, Double-Bl
 
 |  | Number (%) of Patients |  |
 | --- | --- | --- |
-| Adverse Reaction | AndroGel 1.62 % N=234 | Placebo N= 40 |
+| Adverse Reaction | AndroGel 1.62% N=234 | Placebo N= 40 |
 | PSA increased* | 26 (11.1%) | 0% |
 | Emotional lability** | 6 (2.6%) | 0% |
 | Hypertension | 5 (2.1%) | 0% |

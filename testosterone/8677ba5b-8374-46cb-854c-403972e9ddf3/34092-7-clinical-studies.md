@@ -30,16 +30,20 @@ Table 5: Mean (SD) Testosterone Concentrations (Cavg and Cmax) by final dose on 
 | Placebo (n=27) | 20.25 mg (n=12) | 40.5 mg (n=34) | 60.75 mg (n=54) | 81 mg (n=79) | All Active (n=179) |  |
 | Cavg (ng/dL) | 303 (135) | 457 (275) | 524 (228) | 643 (285) | 537 (240) | 561 (259) |
 | Cmax (ng/dL) | 450 (349) | 663 (473) | 798 (439) | 958 (497) | 813 (479) | 845 (480) |
-| Final Dose on Day 364 |  |  |  |  |  |  |
+|  | Final Dose on Day 364 |  |  |  |  |  |
 |  |  | 20.25 mg (n=7) | 40.5 mg (n=26) | 60.75 mg (n=29) | 81 mg (n=74) | Continuing Active (n=136) |
 | Cavg (ng/dL) |  | 386 (130) | 474 (176) | 513 (222) | 432 (186) | 455 (192) |
 | Cmax (ng/dL) |  | 562 (187) | 715 (306) | 839 (568) | 649 (329) | 697 (389) |
 
 Figure 3 summarizes the pharmacokinetic profile of total testosterone in patients completing 112 days of AndroGel 1.62% treatment administered as a starting dose of 40.5 mg of testosterone (2 pump actuations) for the initial 14 days followed by possible titration according to the follow-up testosterone measurements.
 
+Figure 3: Mean (±SD) Steady-State Serum Total Testosterone Concentrations on Day 112
+
 Efficacy was maintained in the group of men that received AndroGel 1.62% for one full year.
 In that group, 78% (106/136) had average serum testosterone concentrations in the normal range at Day 364.
 Figure 4 summarizes the mean total testosterone profile for these patients on Day 364.
+
+Figure 4: Mean (±SD) Steady-State Serum Total Testosterone Concentrations on Day 364
 
 The mean estradiol and DHT concentration profiles paralleled the changes observed in testosterone.
 The levels of LH and FSH decreased with testosterone treatment.

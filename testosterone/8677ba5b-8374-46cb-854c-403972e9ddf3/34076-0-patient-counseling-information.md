@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+See FDA-Approved Medication Guide
 
 Patients should be informed of the following:
 

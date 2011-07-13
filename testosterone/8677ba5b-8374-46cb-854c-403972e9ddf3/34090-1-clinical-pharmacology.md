@@ -23,6 +23,8 @@ AndroGel 1.62% provides continuous transdermal delivery of testosterone for 24 h
 Average serum testosterone concentrations over 24 hours (Cavg) observed when AndroGel 1.62% was applied to the upper arms/shoulders were comparable to average serum testosterone concentrations (Cavg) when AndroGel 1.62% was applied using a rotation method utilizing the abdomen and upper arms/shoulders.
 The rotation of abdomen and upper arms/shoulders was a method used in the pivotal clinical trial [see Clinical Studies (14.1)].
 
+Figure 2: Mean (±SD) Serum Total Testosterone Concentrations on Day 7 in Patients Following AndroGel 1.62% Once-Daily Application of 81 mg of Testosterone (N=33) for 7 Days
+
 Distribution
 
 Circulating testosterone is primarily bound in the serum to sex hormone-binding globulin (SHBG) and albumin.
