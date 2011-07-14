@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA074893"
+  ],
+  "inn": "haloperidol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-469-01",
+    "63323-469-05",
+    "63323-471-01",
+    "63323-471-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "haloperidol decanoate",
+      "name": "Haloperidol Decanoate"
+    }
+  ],
+  "setid": "ca9896e0-fb2e-46a4-8700-20d144c14764",
+  "source": "dailymed"
+}
