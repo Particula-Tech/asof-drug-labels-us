@@ -2,7 +2,7 @@
 
 TOBREX® (tobramycin ophthalmic ointment) 0.3% is a sterile topical ophthalmic antibiotic formulation prepared specifically for topical therapy of external ophthalmic infections.
 
-Each gram of TOBREX (tobramycin ophthalmic ointment) 0.3% contains: Active: tobramycin 0.3% (3 mg).
+Each gram of TOBREX® (tobramycin ophthalmic ointment) 0.3% contains: Active: tobramycin 0.3% (3 mg).
 Preservative: chlorobutanol 0.5%.
 Inactives: mineral oil, white petrolatum.
 
