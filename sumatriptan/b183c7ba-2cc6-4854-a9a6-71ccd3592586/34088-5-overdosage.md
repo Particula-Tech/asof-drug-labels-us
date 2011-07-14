@@ -1,0 +1,11 @@
+# OVERDOSAGE
+
+Patients (N = 269) have received single injections of 8 to 12 mg without significant adverse effects.
+Volunteers (N = 47) have received single subcutaneous doses of up to 16 mg without serious adverse events.
+
+No gross overdoses in clinical practice have been reported.
+Coronary vasospasm was observed after intravenous administration of sumatriptan succinate injection (see CONTRAINDICATIONS).
+Overdoses would be expected from animal data (dogs at 0.1 g/kg, rats at 2 g/kg) to possibly cause convulsions, tremor, inactivity, erythema of the extremities, reduced respiratory rate, cyanosis, ataxia, mydriasis, injection site reactions (desquamation, hair loss, and scab formation), and paralysis.
+The half-life of elimination of sumatriptan is about 2 hours (see CLINICAL PHARMACOLOGY: Pharmacokinetics), and therefore monitoring of patients after overdose with sumatriptan succinate injection should continue while symptoms or signs persist, and for at least 10 hours.
+
+It is unknown what effect hemodialysis or peritoneal dialysis has on the serum concentrations of sumatriptan.

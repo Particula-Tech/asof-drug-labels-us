@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079242"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-273-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sumatriptan",
+      "name": "Sumatriptan Succinate"
+    }
+  ],
+  "setid": "b183c7ba-2cc6-4854-a9a6-71ccd3592586",
+  "source": "dailymed"
+}
