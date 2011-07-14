@@ -1,5 +1,5 @@
 Ampul
 
-Rx only
-
 Fliptop Vial
+
+Rx only

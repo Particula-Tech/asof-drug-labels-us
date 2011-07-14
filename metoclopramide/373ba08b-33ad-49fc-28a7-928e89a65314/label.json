@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073117",
+    "ANDA073118"
+  ],
   "inn": "metoclopramide",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-3413-01",
     "0409-3414-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metoclopramide hydrochloride",
+      "name": "Metoclopramide"
+    }
+  ],
   "setid": "373ba08b-33ad-49fc-28a7-928e89a65314",
   "source": "dailymed"
 }

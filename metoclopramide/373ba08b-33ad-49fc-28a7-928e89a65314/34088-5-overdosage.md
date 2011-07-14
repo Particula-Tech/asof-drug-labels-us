@@ -14,4 +14,4 @@ While there was no consistent pattern to the reports associated with these overd
 
 Methemoglobinemia has occurred in premature and full-term neonates who were given overdoses of metoclopramide (1 to 4 mg/kg/day orally, intramuscularly or intravenously for 1 to 3 or more days).
 Methemoglobinemia can be reversed by the intravenous administration of methylene blue.
-However, methylene blue may cause hemolytic anemia in patients with G6PD deficiency, which may be fatal (see PRECAUTIONS−Other Special Populations).
+However, methylene blue may cause hemolytic anemia in patients with G6PD deficiency, which may be fatal (see PRECAUTIONS–Other Special Populations).

@@ -23,16 +23,18 @@ Metoclopramide inhibits the central and peripheral effects of apomorphine, induc
 
 The onset of pharmacological action of metoclopramide is 1 to 3 minutes following an intravenous dose, 10 to 15 minutes following intramuscular administration, and 30 to 60 minutes following an oral dose, pharmacological effects persist for 1 to 2 hours.
 
-Pharmacokinetics: Metoclopramide is rapidly and well absorbed.
+Pharmacokinetics Metoclopramide is rapidly and well absorbed.
 Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80%±15.5% as demonstrated in a crossover study of 18 subjects.
-Peak plasma concentrations occur at about 1-2 hrs after a single oral dose.
+Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose.
 Similar time to peak is observed after individual doses at steady state.
 
 In a single dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 to 100 mg.
 Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
-The average elimination half-life in individuals with normal renal function is 5-6 hrs. Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
+The average elimination half-life in individuals with normal renal function is 5 to 6 hours.
+Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
 
-Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hrs. Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide.
+Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours.
+Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide.
 
 The drug is not extensively bound to plasma proteins (about 30%).
 The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues.
@@ -47,7 +49,7 @@ The reduction in clearance as a result of renal impairment suggests that adjustm
 | Parameter | Value |
 | Vd (L/kg) | ~ 3.5 |
 | Plasma Protein Binding | ~ 30% |
-| t1/2 (hr) | 5-6 |
+| t1/2 (hr) | 5 to 6 |
 | Oral Bioavailability | 80%±15.5% |
 
 In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
@@ -73,5 +75,5 @@ The mean elimination half-life, clearance, and volume of distribution of metoclo
 | --- | --- | --- | --- | --- | --- |
 | Reference | Dose, Route | t1/2(hr) | CI(L/hr/kg) | Vd(L/kg) | Cmax(mcg/L) |
 | 1. | 0.35 mg/kgIV over 5 min | 4.4 ± 0.56 | 0.56 ± 0.10 | 3.0 ± 0.38(Dose/Cp0) | 152 ± 31 |
-| 2. | 2 mg/kg30 min IVinfusion 4-5 timeswithin 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
+| 2. | 2 mg/kg30 min IVinfusion 4 to 5 timeswithin 9.5 hours | 4.5a | 0.37a | 1.93a | 1060 to 5680a |
 | a. SEM not available.1. Bateman, DN, et al. Br J Clin Pharmac 15:557-559, 1983.2. Ford, C. Clin Pharmac Ther 43:196, 1988. |  |  |  |  |  |
