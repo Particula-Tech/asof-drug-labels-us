@@ -17,4 +17,4 @@ EVOCLIN Foam may cause irritation such as erythema, scaling, itching, burning, o
 
 In the event a patient treated with EVOCLIN Foam experiences severe diarrhea or gastrointestinal discomfort, EVOCLIN Foam should be discontinued and a physician should be contacted.
 
-EVC:1PI
+EVC:2PI

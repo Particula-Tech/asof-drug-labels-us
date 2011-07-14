@@ -6,7 +6,9 @@
   "labeler": "Stiefel Laboratories Inc",
   "package_ndcs": [
     "0145-0061-00",
-    "0145-0061-50"
+    "0145-0061-10",
+    "0145-0061-50",
+    "0145-0061-61"
   ],
   "products": [
     {

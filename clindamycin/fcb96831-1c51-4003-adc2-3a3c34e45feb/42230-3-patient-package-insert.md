@@ -112,7 +112,7 @@ EVOCLIN Foam can cause serious side effects including:
 The most common side effects of EVOCLIN Foam include:
 
 - Skin irritation.
-  EVOCLIN Foam may cause skin irritation such as burning, itching, or dryness
+  EVOCLIN Foam may cause skin irritation such as burning, itching, or dryness.
 - Headache.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -160,7 +160,7 @@ Stiefel Laboratories, Inc.
 
 Research Triangle Park, NC 27709
 
-EVC:1PIL
+EVC:2PIL
 
 EVOCLIN is a registered trademark of Stiefel Laboratories, Inc.
 

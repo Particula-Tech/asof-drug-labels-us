@@ -12,7 +12,8 @@ It is available in the following sizes:
 
 Store at controlled room temperature between 68° to 77°F (20° to 25°C).
 
-Flammable. avoid fire, flame or smoking during and immediately following application.
+Flammable.
+Avoid fire, flame or smoking during and immediately following application.
 
 Contents under pressure.
 Do not puncture or incinerate.

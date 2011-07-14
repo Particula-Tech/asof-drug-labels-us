@@ -24,7 +24,7 @@ In a contact sensitization study, none of the 203 subjects developed evidence of
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of EVOCLIN Foam: application site pain, application site erythema, diarrhea, urticaria, abdominal pain, hypersensitivity, rash, abdominal discomfort, nausea, seborrhea, application site rash,, dizziness, and pain of skin.
+The following adverse reactions have been identified during post approval use of EVOCLIN Foam: application site pain, application site erythema, diarrhea, urticaria, abdominal pain, hypersensitivity, rash, abdominal discomfort, nausea, seborrhea, application site rash, dizziness, and pain of skin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Abdominal pain and gastrointestinal disturbances, as well as gram-negative folliculitis, have also been reported in association with the use of topical formulations of clindamycin.
