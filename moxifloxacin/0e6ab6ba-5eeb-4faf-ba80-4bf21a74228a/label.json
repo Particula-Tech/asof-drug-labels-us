@@ -1,13 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021598"
+  ],
   "inn": "moxifloxacin",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
-    "0065-4013-01",
-    "0065-4013-03",
-    "0065-4013-07"
+    "0065-4013-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "moxifloxacin hydrochloride",
+      "name": "VIGAMOX"
+    }
+  ],
   "setid": "0e6ab6ba-5eeb-4faf-ba80-4bf21a74228a",
   "source": "dailymed"
 }

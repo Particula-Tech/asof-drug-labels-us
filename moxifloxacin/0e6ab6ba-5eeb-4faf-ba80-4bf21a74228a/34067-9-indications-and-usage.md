@@ -4,7 +4,7 @@ VIGAMOX® solution is indicated for the treatment of bacterial conjunctivitis ca
 
 Aerobic Gram-positive microorganisms:
 
-Corynebacteriumspecies*
+Corynebacterium species*
 
 Micrococcus luteus*
 
@@ -20,7 +20,7 @@ Staphylococcus warneri*
 
 Streptococcus pneumoniae
 
-Streptococcusviridans group
+Streptococcus viridans group
 
 Aerobic Gram-negative microorganisms:
 

@@ -30,30 +30,28 @@ Discontinue use immediately and contact your physician at the first sign of a ra
 ## Drug Interactions
 
 Drug-drug interaction studies have not been conducted with VIGAMOX® solution.
-In vitrostudies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes.
+In vitro studies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long term studies in animals to determine the carcinogenic potential of moxifloxacin have not been performed.
 However, in an accelerated study with initiators and promoters, moxifloxacin was not carcinogenic in rats following up to 38 weeks of oral dosing at 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose for a 50 kg person, on a mg/kg basis).
 
-Moxifloxacin was not mutagenic in four bacterial strains used in the Ames Salmonellareversion assay.
+Moxifloxacin was not mutagenic in four bacterial strains used in the Ames Salmonella reversion assay.
 As with other quinolones, the positive response observed with moxifloxacin in strain TA 102 using the same assay may be due to the inhibition of DNA gyrase.
 Moxifloxacin was not mutagenic in the CHO/HGPRT mammalian cell gene mutation assay.
 An equivocal result was obtained in the same assay when v79 cells were used.
 Moxifloxacin was clastogenic in the v79 chromosome aberration assay, but it did not induce unscheduled DNA synthesis in cultured rat hepatocytes.
-There was no evidence of genotoxicity in vivoin a micronucleus test or a dominant lethal test in mice.
+There was no evidence of genotoxicity in vivo in a micronucleus test or a dominant lethal test in mice.
 
 Moxifloxacin had no effect on fertility in male and female rats at oral doses as high as 500 mg/kg/day, approximately 21,700 times the highest recommended total daily human ophthalmic dose.
 At 500 mg/kg orally there were slight effects on sperm morphology (head-tail separation) in male rats and on the estrous cycle in female rats.
 
 ## Pregnancy
 
-### Teratogenic Effects.
+### Teratogenic Effects
 
-#### Pregnancy Category C
-
-Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose); however, decreased fetal body weights and slightly delayed fetal skeletal development were observed.
+Pregnancy Category C: Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose); however, decreased fetal body weights and slightly delayed fetal skeletal development were observed.
 There was no evidence of teratogenicity when pregnant Cynomolgus monkeys were given oral doses as high as 100 mg/kg/day (approximately 4,300 times the highest recommended total daily human ophthalmic dose).
 An increased incidence of smaller fetuses was observed at 100 mg/kg/day.
 
@@ -63,13 +61,3 @@ Since there are no adequate and well-controlled studies in pregnant women, VIGAM
 
 Moxifloxacin has not been measured in human milk, although it can be presumed to be excreted in human milk.
 Caution should be exercised when VIGAMOX® solution is administered to a nursing mother.
-
-## Pediatric Use
-
-The safety and effectiveness of VIGAMOX® solution in infants below 1 year of age have not been established.
-
-There is no evidence that the ophthalmic administration of VIGAMOX® has any effect on weight bearing joints, even though oral administration of some quinolones has been shown to cause arthropathy in immature animals.
-
-## Geriatric Use
-
-No overall differences in safety and effectiveness have been observed between elderly and younger patients.

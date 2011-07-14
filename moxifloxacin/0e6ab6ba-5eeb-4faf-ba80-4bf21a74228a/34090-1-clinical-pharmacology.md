@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Pharmacokinetics:Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of VIGAMOX® 3 times a day.
+Pharmacokinetics: Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of VIGAMOX® solution 3 times a day.
 The mean steady-state Cmax (2.7 ng/mL) and estimated daily exposure AUC (45 ng·hr/mL) values were 1,600 and 1,000 times lower than the mean Cmax and AUC reported after therapeutic 400 mg oral doses of moxifloxacin.
 The plasma half-life of moxifloxacin was estimated to be 13 hours.
 
@@ -16,14 +16,16 @@ Therefore, moxifloxacin may be active against pathogens that are resistant to th
 There is no cross-resistance between moxifloxacin and the aforementioned classes of antibiotics.
 Cross resistance has been observed between systemic moxifloxacin and some other quinolones.
 
-In vitroresistance to moxifloxacin develops via multiple-step mutations.
-Resistance to moxifloxacin occurs in vitroat a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+In vitro resistance to moxifloxacin develops via multiple-step mutations.
+Resistance to moxifloxacin occurs in vitro at a general
 
-Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitroand in clinical infections as described in the INDICATIONS AND USAGE section:
+frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+
+Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
 Aerobic Gram-positive microorganisms:
 
-Corynebacteriumspecies*
+Corynebacterium species*
 
 Micrococcus luteus*
 
@@ -39,7 +41,7 @@ Staphylococcus warneri*
 
 Streptococcus pneumoniae
 
-Streptococcusviridans group
+Streptococcus viridans group
 
 Aerobic Gram-negative microorganisms:
 
@@ -55,12 +57,13 @@ Chlamydia trachomatis
 
 *Efficacy for this organism was studied in fewer than 10 infections.
 
-The following in vitrodata are also available, but their clinical significance in ophthalmic infections is unknown.The safety and effectiveness of VIGAMOX® in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
+The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown.
+The safety and effectiveness of VIGAMOX® solution in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
-However, a correlation between the in vitrosystemic breakpoint and ophthalmological efficacy has not been established.
+However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
-Moxifloxacin exhibits in vitrominimal inhibitory concentrations (MICs) of 2 µg/ml or less (systemic susceptible breakpoint) against most (≥90%) of strains of the following ocular pathogens.
+Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/ml or less (systemic susceptible breakpoint) against most (≥ 90%) of strains of the following ocular pathogens.
 
 Aerobic Gram-positive microorganisms:
 
@@ -74,7 +77,7 @@ Streptococcus mitis
 
 Streptococcus pyogenes
 
-StreptococcusGroup C, G and F
+Streptococcus Group C, G and F
 
 Aerobic Gram-negative microorganisms:
 
@@ -112,9 +115,9 @@ Anaerobic microorganisms:
 
 Clostridium perfringens
 
-Fusobacteriumspecies
+Fusobacterium species
 
-Prevotellaspecies
+Prevotella species
 
 Propionibacterium acnes
 
