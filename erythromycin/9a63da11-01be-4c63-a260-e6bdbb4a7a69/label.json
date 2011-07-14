@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA064126"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-962-72"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "erythromycin",
+      "name": "Ery"
+    }
+  ],
+  "setid": "9a63da11-01be-4c63-a260-e6bdbb4a7a69",
+  "source": "dailymed"
+}
