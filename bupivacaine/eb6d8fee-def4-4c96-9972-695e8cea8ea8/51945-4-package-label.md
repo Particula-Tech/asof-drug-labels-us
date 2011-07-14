@@ -1,32 +1,8 @@
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Label
 
-NDC 63323-461-50
+NDC 63323-461-57
 
-460150
-
-Sensorcaine®
-
-Bupivacaine HCl and Epinephrine Injection, USP)
-
-0.25%
-
-with Epinephrine 1:200,000 (as bitartrate)
-
-For Infiltration and Nerve Block Only.
-
-Not for Caudal, Epidural or Spinal Anesthesia.
-
-Warning: Contains Sulfites
-
-Rx only
-
-50 mL Multiple Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
-
-NDC 63323-461-50
-
-460150
+460157
 
 Sensorcaine®
 
@@ -36,21 +12,45 @@ Sensorcaine®
 
 with Epinephrine 1:200,000 (as bitartrate)
 
-For Infiltration and Nerve Block Only.
+For Infiltration and Nerve Block Only
 
-Not for Caudal, Epidural or Spinal Anesthesia.
+Not for Caudal, Epidural or Spinal Anesthesia
+
+Warning: Contains Sulfites
+
+50 mL Multiple Dose Vial
+
+Rx only
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
+
+NDC 63323-461-57
+
+460157
+
+Sensorcaine®
+
+(Bupivacaine HCl and Epinephrine Injection, USP)
+
+0.25%
+
+with Epinephrine 1:200,000 (as bitartrate)
+
+For Infiltration and Nerve Block Only
+
+Not for Caudal, Epidural or Spinal Anesthesia
 
 Warning: Contains Sulfites
 
 Rx only
 
-50 mL Multiple Dose Vial
+25 Multiple Dose Vials, 50 mL
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 10 mL Single Dose Vial Label
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
 
-NDC 63323-462-10
+NDC 63323-462-37
 
-460210
+460237
 
 Sensorcaine®- MPF
 
@@ -60,121 +60,119 @@ Sensorcaine®- MPF
 
 with Epinephrine 1:200,000 (as bitartrate)
 
-For Nerve Block, Caudal and Epidural Anesthesia.
+For Nerve Block, Caudal and Epidural Anesthesia
 
-Not for Spinal Anesthesia.
-
-Methylparaben Free
-
-Rx only
-
-Warning: Contains Sulfites
-
-10 mL Single Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 10 mL Single Dose Vial Carton Panel
-
-NDC 63323-462-10
-
-460210
-
-E-Z OFF™ vial
-
-Sensorcaine® - MPF
-
-(Bupivacaine HCl and Epinephrine Injection, USP)
-
-0.5%
-
-with Epinephrine 1:200,000 (as bitartrate)
-
-For Nerve Block, Caudal and Epidural Anesthesia.
-
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
 
 Methylparaben Free
 
-Warning: Contains sulfites
-
-Rx only
-
-5 Single Dose Vials, 10 mL
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Label
-
-NDC 63323-463-50
-
-460350
-
-Sensorcaine®
-
-(Bupivacaine HCl and Epinephrine Injection, USP)
-
-0.5%
-
-with Epinephrine 1:200,000 (as bitartrate)
-
-For Nerve Block Only.
-
-Not for Caudal, Epidural or Spinal Anesthesia.
-
 Warning: Contains Sulfites
-
-Rx only
-
-50 mL Multiple Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
-
-NDC 63323-463-50
-
-460350
-
-Sensorcaine®
-
-(Bupivacaine HCl and Epinephrine Injection, USP)
-
-0.5%
-
-with Epinephrine 1:200,000 (as bitartrate)
-
-For Nerve Block Only.
-
-Not for Caudal, Epidural or Spinal Anesthesia.
-
-Warning: Contains Sulfites
-
-Rx only
-
-50 mL Multiple Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
-
-NDC 63323-464-30
-
-460430
-
-Sensorcaine® - MPF
-
-(Bupivacaine HCl Injection, USP)
-
-0.25%
-
-For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
-
-Not for Spinal Anesthesia.
-
-Methylparaben Free
-
-Rx only
 
 30 mL Single Dose Vial
+
+Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
 
-NDC 63323-464-30
+NDC 63323-462-37
 
-460430
+460237
+
+Sensorcaine® - MPF
+
+(Bupivacaine HCl and Epinephrine Injection, USP)
+
+0.5%
+
+with Epinephrine 1:200,000 (as bitartrate)
+
+For Nerve Block, Caudal and Epidural Anesthesia
+
+Not for Spinal Anesthesia
+
+Warning: Contains Sulfites
+
+Methylparaben Free
+
+Rx only
+
+25 Single Dose Vials, 30 mL
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Label
+
+NDC 63323-463-57
+
+460357
+
+Sensorcaine®
+
+(Bupivacaine HCl and Epinephrine Injection, USP)
+
+0.5%
+
+with Epinephrine 1:200,000 (as bitartrate)
+
+For Nerve Block Only
+
+Not for Caudal, Epidural or Spinal Anesthesia
+
+Warning: Contains Sulfites
+
+50 mL Multiple Dose Vial
+
+Rx only
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
+
+NDC 63323-463-57
+
+460357
+
+Sensorcaine®
+
+(Bupivacaine HCl and Epinephrine Injection, USP)
+
+0.5%
+
+with Epinephrine 1:200,000 (as bitartrate)
+
+For Nerve Block Only
+
+Not for Caudal, Epidural or Spinal Anesthesia
+
+Warning: Contains Sulfites
+
+Rx only
+
+25 Multiple Dose Vials, 50 mL
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
+
+NDC 63323-464-37
+
+460437
+
+Sensorcaine® - MPF
+
+(Bupivacaine HCl Injection, USP)
+
+0.25%
+
+For Infiltration, Nerve Block, Caudal and Epidural Anesthesia
+
+Not for Spinal Anesthesia
+
+Methylparaben Free
+
+30 mL Single Dose Vial
+
+Rx only
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
+
+NDC 63323-464-37
+
+460437
 
 Sensorcaine® - MPF
 
@@ -184,67 +182,21 @@ Sensorcaine® - MPF
 
 For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
+
+TO BE SOLD ONLY AS AN UNBROKEN PACKAGE
 
 Methylparaben Free
 
 Rx only
 
-30 mL Single Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY– Sensorcaine 30 mL Single Dose Vial Lidding Label
-
-Sterile-Pak
-
-Contains One Presterilized 30 mL Vial
-
-NDC 63323-464-31
-
-460431
-
-0.25% Sensorcaine®-MPF
-
-(Bupivacaine HCI Injection, USP)
-
-For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
-
-Not for Spinal Anesthesia.
-
-Methylparaben Free
-
-Rx only
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Sterile-Pak Panel
-
-NDC 63323-464-31
-
-460431
-
-Sensorcaine® - MPF
-
-(Bupivacaine HCl Injection, USP)
-
-0.25%
-
-For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
-
-Not for Spinal Anesthesia.
-
-Methylparaben Free
-
-Rx only
-
-Contains Five Presterilized 30 mL Single Dose Vials
-
-Sterile-Pak
-
-Enclosed Vials are Sterile in Unopened, Undamaged Packages.
+25 Single Dose Vials, 30 mL
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Label
 
-NDC 63323-465-50
+NDC 63323-465-57
 
-460550
+460557
 
 Sensorcaine®
 
@@ -252,19 +204,19 @@ Sensorcaine®
 
 0.25%
 
-For Infiltration and Nerve Block Only.
+For Infiltration and Nerve Block Only
 
-Not for Caudal, Epidural or Spinal Anesthesia.
-
-Rx only
+Not for Caudal, Epidural or Spinal Anesthesia
 
 50 mL Multiple Dose Vial
+
+Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
 
-NDC 63323-465-50
+NDC 63323-465-57
 
-460550
+460557
 
 Sensorcaine®
 
@@ -272,19 +224,21 @@ Sensorcaine®
 
 0.25%
 
-For Infiltration and Nerve Block Only.
+For Infiltration and Nerve Block Only
 
-Not for Caudal, Epidural or Spinal Anesthesia.
+Not for Caudal, Epidural or Spinal Anesthesia
+
+TO BE SOLD ONLY AS AN UNBROKEN PACKAGE
 
 Rx only
 
-50 mL Multiple Dose Vial
+25 Multiple Dose Vials, 50 mL
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Ampule Label
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
 
-NDC 63323-466-33
+NDC 63323-466-37
 
-460633
+460637
 
 Sensorcaine® -MPF
 
@@ -292,19 +246,21 @@ Sensorcaine® -MPF
 
 0.5%
 
-For Nerve Block, Caudal and Epidural Anesthesia.
+For Nerve Block, Caudal and Epidural Anesthesia
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
 
 Methylparaben Free
 
+30 mL Single Dose Vial
+
 Rx only
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Ampule Carton Panel
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
 
-NDC 63323-466-33
+NDC 63323-466-37
 
-460633
+460637
 
 Sensorcaine® -MPF
 
@@ -312,21 +268,23 @@ Sensorcaine® -MPF
 
 0.5%
 
-For Nerve Block, Caudal and Epidural Anesthesia.
+For Nerve Block, Caudal and Epidural Anesthesia
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
+
+TO BE SOLD ONLY AS AN UNBROKEN PACKAGE
 
 Methylparaben Free
 
 Rx only
 
-5 Ampules, 30 mL
+25 Single Dose Vials, 30 mL
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Label
 
-NDC 63323-467-50
+NDC 63323-467-57
 
-460750
+460757
 
 Sensorcaine®
 
@@ -334,19 +292,19 @@ Sensorcaine®
 
 0.5%
 
-For Nerve Block Only.
+For Nerve Block Only
 
-Not for Caudal, Epidural or Spinal Anesthesia.
-
-Rx only
+Not for Caudal, Epidural or Spinal Anesthesia
 
 50 mL Multiple Dose Vial
+
+Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 50 mL Multiple Dose Vial Carton Panel
 
-NDC 63323-467-50
+NDC 63323-467-57
 
-460750
+460757
 
 Sensorcaine®
 
@@ -354,19 +312,47 @@ Sensorcaine®
 
 0.5%
 
-For Nerve Block Only.
+For Nerve Block Only
 
-Not for Caudal, Epidural or Spinal Anesthesia.
+Not for Caudal, Epidural or Spinal Anesthesia
+
+TO BE SOLD ONLY AS AN UNBROKEN PACKAGE
 
 Rx only
 
-50 mL Multiple Dose Vial
+25 Multiple Dose Vials, 50 mL
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
 
-NDC 63323-468-30
+NDC 63323-468-37
 
-460830
+460837
+
+Sensorcaine® -MPF
+
+(Bupivacaine HCl and Epinephrine Injection, USP)
+
+0.25%
+
+with Epinephrine 1:200,000 (as bitartrate)
+
+For Infiltration, Nerve Block, Caudal and Epidural Anesthesia
+
+Not for Spinal Anesthesia
+
+Methylparaben Free
+
+Warning: Contains Sulfites
+
+30 mL Single Dose Vial
+
+Rx only
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
+
+NDC 63323-468-37
+
+460837
 
 Sensorcaine® -MPF
 
@@ -378,47 +364,21 @@ with Epinephrine 1:200,000 (as bitartrate)
 
 For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
+
+Warning: Contains Sulfites
 
 Methylparaben Free
 
 Rx only
 
-Warning: Contains Sulfites
-
-30 mL Single Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
-
-NDC 63323-468-30
-
-460830
-
-Sensorcaine® -MPF
-
-(Bupivacaine HCl and Epinephrine Injection, USP)
-
-0.25%
-
-with Epinephrine 1:200,000 (as bitartrate)
-
-For Infiltration, Nerve Block, Caudal and Epidural Anesthesia.
-
-Not for Spinal Anesthesia.
-
-Methylparaben Free
-
-Warning: Contains Sulfites
-
-Rx only
-
-30 mL Single Dose Vial
+25 Single Dose Vials, 30 mL
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
 
-NDC 63323-460-30
+NDC 63323-460-37
 
-461030
+461037
 
 Sensorcaine® -MPF
 
@@ -428,25 +388,25 @@ Sensorcaine® -MPF
 
 with Epinephrine 1:200,000 (as bitartrate)
 
-For Epidural and Retrobulbar Anesthesia.
+For Epidural and Retrobulbar Anesthesia
 
-Not for Obstetric Anesthesia.
+Not for Obstetric Anesthesia
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
 
 Methylparaben Free
-
-Rx only
 
 Warning: Contains Sulfites
 
 30 mL Single Dose Vial
+
+Rx only
 
 PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
 
-NDC 63323-460-30
+NDC 63323-460-37
 
-461030
+461037
 
 Sensorcaine® -MPF
 
@@ -456,11 +416,11 @@ Sensorcaine® -MPF
 
 with Epinephrine 1:200,000 (as bitartrate)
 
-For Epidural and Retrobulbar Anesthesia.
+For Epidural and Retrobulbar Anesthesia
 
-Not for Obstetric Anesthesia.
+Not for Obstetric Anesthesia
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
 
 Methylparaben Free
 
@@ -468,13 +428,37 @@ Warning: Contains Sulfites
 
 Rx only
 
+25 Single Dose Vials, 30 mL
+
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Label
+
+NDC 63323-472-37
+
+470237
+
+Sensorcaine® -MPF
+
+(Bupivacaine HCl Injection, USP)
+
+0.75%
+
+For Epidural and Retrobulbar Anesthesia
+
+Not for Obstetric Anesthesia
+
+Not for Spinal Anesthesia
+
+Methylparaben Free
+
 30 mL Single Dose Vial
 
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 10 mL Single Dose Vial Label
+Rx only
 
-NDC 63323-472-10
+PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 30 mL Single Dose Vial Carton Panel
 
-470210
+NDC 63323-472-37
+
+470237
 
 Sensorcaine® -MPF
 
@@ -482,40 +466,16 @@ Sensorcaine® -MPF
 
 0.75%
 
-For Epidural and Retrobulbar Anesthesia.
+For Epidural and Retrobulbar Anesthesia
 
-Not for Obstetric Anesthesia.
+Not for Obstetric Anesthesia
 
-Not for Spinal Anesthesia.
+Not for Spinal Anesthesia
 
-Methylparaben Free
-
-Rx only
-
-10 mL Single Dose Vial
-
-PACKAGE LABEL – PRINCIPAL DISPLAY – Sensorcaine 10 mL Single Dose Vial Carton Panel
-
-NDC 63323-472-10
-
-470210
-
-Sensorcaine® -MPF
-
-(Bupivacaine HCl Injection, USP)
-
-0.75%
-
-For Epidural and Retrobulbar Anesthesia.
-
-Not for Obstetric Anesthesia.
-
-Not for Spinal Anesthesia.
+TO BE SOLD ONLY AS AN UNBROKEN PACKAGE
 
 Methylparaben Free
 
 Rx only
 
-E-Z OFF™ vial
-
-5 Single Dose Vials, 10 mL
+25 Single Dose Vials, 30 mL

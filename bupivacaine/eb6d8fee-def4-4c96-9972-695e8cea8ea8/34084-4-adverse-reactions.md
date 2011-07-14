@@ -26,7 +26,7 @@ In a survey of studies of epidural anesthesia, overt toxicity progressing to con
 
 ## Cardiovascular System Reactions
 
-High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE sections).
+High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heart block, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 
 ## Allergic
 

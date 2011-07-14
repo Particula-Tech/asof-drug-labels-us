@@ -9,24 +9,24 @@
   "inn": "bupivacaine",
   "labeler": "APP Pharmaceuticals, LLC",
   "package_ndcs": [
-    "63323-460-30",
-    "63323-461-50",
-    "63323-462-10",
-    "63323-462-30",
+    "63323-460-37",
+    "63323-461-57",
+    "63323-462-17",
     "63323-462-31",
-    "63323-463-50",
-    "63323-464-30",
+    "63323-462-37",
+    "63323-463-57",
     "63323-464-31",
     "63323-464-33",
-    "63323-465-50",
-    "63323-466-30",
+    "63323-464-37",
+    "63323-465-57",
     "63323-466-31",
     "63323-466-33",
-    "63323-467-50",
-    "63323-468-10",
-    "63323-468-30",
-    "63323-472-10",
-    "63323-472-30"
+    "63323-466-37",
+    "63323-467-57",
+    "63323-468-17",
+    "63323-468-37",
+    "63323-472-17",
+    "63323-472-37"
   ],
   "products": [
     {
@@ -41,13 +41,13 @@
     },
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "bupivacaine hydrochloride",
-      "name": "SENSORCAINE-MPF"
+      "generic": "bupivacaine hydrochloride, epinephrine bitartrate",
+      "name": "sensorcaine"
     },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "bupivacaine hydrochloride,epinephrine bitartrate",
-      "name": "SENSORCAINE-MPF"
+      "name": "sensorcaine"
     }
   ],
   "setid": "eb6d8fee-def4-4c96-9972-695e8cea8ea8",

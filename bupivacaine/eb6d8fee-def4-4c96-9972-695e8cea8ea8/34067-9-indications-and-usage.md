@@ -22,7 +22,7 @@ caudal 0.25%, 0.5%
 
 epidural test dose (see PRECAUTIONS)
 
-(See DOSAGE AND ADMINISTRATION for additional information.)
+(see DOSAGE AND ADMINISTRATION for additional information).
 
 Standard textbooks should be consulted to determine the accepted procedures and techniques for the administration of Sensorcaine.
 

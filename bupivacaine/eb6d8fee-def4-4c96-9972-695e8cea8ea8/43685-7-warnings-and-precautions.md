@@ -1,8 +1,13 @@
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES.
-(See also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE.)
+LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
 Local anesthetic solutions containing antimicrobial preservatives, ie, those supplied in multiple dose vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentional or unintentional, of such preservatives.
+
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
 It is essential that aspiration for blood or cerebrospinal fluid (where applicable) be done prior to injecting any local anesthetic, both the original dose and all subsequent doses, to avoid intravascular or subarachnoid injection.
 However, a negative aspiration does not ensure against an intravascular or subarachnoid injection.

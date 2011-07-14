@@ -7,6 +7,9 @@ The rapid injection of a large volume of local anesthetic solution should be avo
 
 For specific techniques and procedures, refer to standard textbooks.
 
+There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
+Sensorcaine is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).).
+
 In recommended doses, Sensorcaine (bupivacaine HCl) produces complete sensory block, but the effect on motor function differs among the three concentrations.
 
 0.25%—when used for caudal, epidural, or peripheral nerve block, produces incomplete motor block.
@@ -56,17 +59,17 @@ SENSORCAINE (bupivacaine HCl) INJECTIONS
 | --- | --- | --- | --- | --- |
 | Type of Block | Conc. | (mL) | (mg) | Motor Block1 |
 | Local Infiltration | 0.25%4 | up to max. | up to max. | — |
-| Epidural | 0.75%2,4 | 10-20 | 75-150 | complete |
-|  | 0.5%4 | 10-20 | 50-100 | moderate to complete |
-|  | 0.25%4 | 10-20 | 25-50 | partial to moderate |
-| Caudal | 0.5%4 | 15-30 | 75-150 | moderate to complete |
-|  | 0.25%4 | 15-30 | 37.5-75 | moderate |
+| Epidural | 0.75%2,4 | 10 to 20 | 75 to 150 | complete |
+|  | 0.5%4 | 10 to 20 | 50 to 100 | moderate to complete |
+|  | 0.25%4 | 10 to 20 | 25 to 50 | partial to moderate |
+| Caudal | 0.5%4 | 15 to 30 | 75 to 150 | moderate to complete |
+|  | 0.25%4 | 15 to 30 | 37.5 to 75 | moderate |
 | Peripheral Nerves | 0.5%4 | 5 to max. | 25 to max. | moderate to complete |
 |  | 0.25%4 | 5 to max. | 12.5 to max. | moderate to complete |
-| Retrobulbar3 | 0.75%4 | 2-4 | 15-30 | complete |
-| Sympathetic | 0.25% | 20-50 | 50-125 | — |
-| Epidural3 | 0.5% | 2-3 | 10-15 | — |
-| Test Dose | w/epi |  | 10-15 mcg epinephrine(see PRECAUTIONS) |  |
+| Retrobulbar3 | 0.75%4 | 2 to 4 | 15 to 30 | complete |
+| Sympathetic | 0.25% | 20 to 50 | 50 to 125 | — |
+| Epidural3 | 0.5% | 2 to 3 | 10 to 15 | — |
+| Test Dose | w/epi |  | 10 to 15 mcg epinephrine(see PRECAUTIONS) |  |
 
 1 With continuous (intermittent) techniques, repeat doses increase the degree of motor block.
 The first repeat dose of 0.5% may produce complete motor block.

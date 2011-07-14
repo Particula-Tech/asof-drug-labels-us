@@ -1,5 +1,3 @@
 Rx only
 
-Manufactured for:
-
-451106/Revised: August 2008
+451106D/Revised: September 2010

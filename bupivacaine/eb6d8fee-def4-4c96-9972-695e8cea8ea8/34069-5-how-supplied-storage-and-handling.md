@@ -6,46 +6,48 @@ Sensorcaine-MPF (methylparaben free) is available in the following forms:
 
 With Epinephrine:
 
-| ProductNo. | NDCNo. | Strength | Size |
+| Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 460830 | 63323-468-30 | 0.25% | 30 mL Single Dose Vial packaged individually. |
-| 460810 | 63323-468-10 | 0.25% | 10 mL Single Dose E-Z Off™Vials packaged in fives. |
-| 460210 | 63323-462-10 | 0.5% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
-| 460230 | 63323-462-30 | 0.5% | 30 mL Single Dose Vial packaged individually. |
+| 460837 | 63323-468-37 | 0.25% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
+| 460817 | 63323-468-17 | 0.25% | 10 mL Single Dose Vials packaged in trays of twenty-five. |
+| 460217 | 63323-462-17 | 0.5% | 10 mL Single Dose Vials packaged in trays of twenty-five. |
+| 460237 | 63323-462-37 | 0.5% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
 | 460231 | 63323-462-31 | 0.5% | 30 mL Single Dose Vials packaged in fives. |
-| 461030 | 63323-460-30 | 0.75% | 30 mL Single Dose Vial packaged individually. |
+| 461037 | 63323-460-37 | 0.75% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
 
 Without Epinephrine:
 
-| ProductNo. | NDCNo. | Strength | Size |
+| Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 460410 | 63323-464-10 | 0.25% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
-| 460433 | 63323-464-33 | 0.25% | 30 mL ampules packaged in fives. |
-| 460430 | 63323-464-30 | 0.25% | 30 mL Single Dose Vial packaged individually. |
+| 460417 | 63323-464-17 | 0.25% | 10 mL Single Dose Vials packaged in trays of twenty-five. |
+| 460433* | 63323-464-33 | 0.25% | 30 mL ampules packaged in fives. |
+| 460437 | 63323-464-37 | 0.25% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
 | 460431 | 63323-464-31 | 0.25% | 30 mL Single Dose Vials packaged in fives. |
-| 460610 | 63323-466-10 | 0.5% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
-| 460630 | 63323-466-30 | 0.5% | 30 mL Single Dose Vial packaged individually. |
+| 460617 | 63323-466-17 | 0.5% | 10 mL Single Dose Vials packaged in trays of twenty-five. |
+| 460637 | 63323-466-37 | 0.5% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
 | 460631 | 63323-466-31 | 0.5% | 30 mL Single Dose Vials packaged in fives. |
-| 460633 | 63323-463-33 | 0.5% | 30 mL ampules packaged in fives. |
-| 470210 | 63323-472-10 | 0.75% | 10 mL Single Dose E-Z Off™ Vials packaged in fives. |
-| 470230 | 63323-472-30 | 0.75% | 30 mL Single Dose Vial packaged individually. |
-| 470233 | 63323-472-33 | 0.75% | 30 mL ampules packaged in fives. |
+| 460633* | 63323-466-33 | 0.5% | 30 mL ampules packaged in fives. |
+| 470217 | 63323-472-17 | 0.75% | 10 mL Single Dose Vials packaged in trays of twenty-five. |
+| 470237 | 63323-472-37 | 0.75% | 30 mL Single Dose Vials packaged in trays of twenty-five. |
+| 470233* | 63323-472-33 | 0.75% | 30 mL ampules packaged in fives. |
 
 Sensorcaine (preserved with methylparaben) is available in the following forms:
 
 With Epinephrine:
 
-| ProductNo. | NDCNo. | Strength | Size |
+| Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 460150 | 63323-461-50 | 0.25% | 50 mL Multiple Dose Vial packaged individually. |
-| 460350 | 63323-463-50 | 0.5% | 50 mL Multiple Dose Vial packaged individually. |
+| 460157 | 63323-461-57 | 0.25% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
+| 460357 | 63323-463-57 | 0.5% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
 
 Without Epinephrine:
 
-| ProductNo. | NDCNo. | Strength | Size |
+| Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
-| 460550 | 63323-465-50 | 0.25% | 50 mL Multiple Dose Vial packaged individually. |
-| 460750 | 63323-467-50 | 0.5% | 50 mL Multiple Dose Vial packaged individually. |
+| 460557 | 63323-465-57 | 0.25% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
+| 460757 | 63323-467-57 | 0.5% | 50 mL Multiple Dose Vials packaged in trays of twenty-five. |
+
+* Products manufactured for APP Pharmaceuticals, LLC.
 
 Disinfecting agents containing heavy metals, which cause release of respective ions (mercury, zinc, copper, etc.), should not be used for skin or mucous membrane disinfection since they have been related to incidents of swelling and edema.
 When chemical disinfection of the container surface is desired, either isopropyl alcohol (91%) or ethyl alcohol (70%) is recommended.
