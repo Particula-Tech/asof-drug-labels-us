@@ -82,9 +82,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Ireland
+Made in UK
 
-©2010, ViiV Healthcare
+©2011, ViiV Healthcare
 
 Rev.
-9/10 A083893
+4/11 A094812
