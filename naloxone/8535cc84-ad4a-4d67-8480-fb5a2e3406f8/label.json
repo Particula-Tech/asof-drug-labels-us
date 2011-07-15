@@ -1,5 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070254",
+    "ANDA070256",
+    "ANDA070257"
+  ],
   "inn": "naloxone",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
@@ -7,7 +11,13 @@
     "0409-1215-01",
     "0409-1219-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Naloxone Hydrochloride"
+    }
+  ],
   "setid": "8535cc84-ad4a-4d67-8480-fb5a2e3406f8",
   "source": "dailymed"
 }

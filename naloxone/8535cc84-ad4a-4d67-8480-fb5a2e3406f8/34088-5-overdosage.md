@@ -17,9 +17,9 @@ Although complete information is not available, behavioral symptoms were reporte
 Pediatric Patients
 
 Up to 11 doses of 0.2 mg naloxone (2.2 mg) have been administered to children following overdose of diphenoxylate hydrochloride with atropine sulfate.
-Pediatric reports include a 2 1/2 year-old child who inadvertently received a dose of 20 mg naloxone for treatment of respiratory depression following overdose with diphenoxylate hydrochloride with atropine sulfate.
+Pediatric reports include a 2½ year-old child who inadvertently received a dose of 20 mg naloxone for treatment of respiratory depression following overdose with diphenoxylate hydrochloride with atropine sulfate.
 The child responded well and recovered without adverse sequelae.
-There is also a report of a 4 1/2 year-old child who received 11 doses during a 12-hour period, with no adverse sequelae.
+There is also a report of a 4½ year-old child who received 11 doses during a 12-hour period, with no adverse sequelae.
 
 Patient Management
 
