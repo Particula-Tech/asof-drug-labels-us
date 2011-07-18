@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021260"
+  ],
+  "inn": "morphine",
+  "labeler": "King Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "60793-603-01",
+    "60793-604-01",
+    "60793-605-01",
+    "60793-606-01",
+    "60793-607-01",
+    "60793-608-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "AVINZA"
+    }
+  ],
+  "setid": "3e361ca5-911a-4216-bac4-67ee47cb0e24",
+  "source": "dailymed"
+}
