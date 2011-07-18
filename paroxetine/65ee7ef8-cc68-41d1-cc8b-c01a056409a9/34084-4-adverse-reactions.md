@@ -24,7 +24,7 @@ The most common events (≥1%) associated with discontinuation and considered to
 | Flatulence |  |  |  |  |  |  | 1.0% | 0.3% |  |  | — | — |
 | Other |  |  |  |  |  |  |  |  |  |  |  |  |
 | Asthenia | 1.6% | 0.4% | 1.9% | 0.4% |  |  | 2.5% | 0.6% | 1.8% | 0.2% | 1.6% | 0.2% |
-| Abnormal ejaculationa | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% | — | — |
+| Abnormal Ejaculationa | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% | — | — |
 | Sweating | 1.0% | 0.3% | — |  |  |  | 1.1% | 0% | 1.1% | 0.2% | — | — |
 | Impotencea | — |  | 1.5% | 0% |  |  |  |  |  |  | — | — |
 | LibidoDecreased |  |  |  |  |  |  | 1.0% | 0% |  |  | — | — |
@@ -117,7 +117,7 @@ b Includes mostly “lump in throat” and “tightness in throat.”
 
 c Percentage corrected for gender.
 
-dMostly “ejaculatory delay.”
+d Mostly “ejaculatory delay.”
 
 e Includes “anorgasmia,” “erectile difficulties,” “delayed ejaculation/orgasm,” and “sexual dysfunction,” and “impotence.”
 

@@ -55,12 +55,9 @@ It should be noted that PAXIL is not approved for use in treating bipolar depres
 
 ## Potential for Interaction With Monoamine Oxidase Inhibitors
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
+In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitors (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-While there are no human data showing such an interaction with PAXIL, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that PAXIL not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI), and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
-At least 2 weeks should be allowed after stopping PAXIL before starting an MAOI.
+Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 

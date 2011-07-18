@@ -115,10 +115,17 @@ The recommended initial dose is 10 mg/day for elderly patients, debilitated pati
 Increases may be made if indicated.
 Dosage should not exceed 40 mg/day.
 
-## Switching Patients to or From a Monoamine Oxidase Inhibitor
+## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with PAXIL.
-Similarly, at least 14 days should be allowed after stopping PAXIL before starting an MAOI.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with PAXIL.
+Conversely, at least 14 days should be allowed after stopping PAXIL before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+
+Use of PAXIL With Reversible MAOIs Such as Linezolid or Methylene Blue:Do not start PAXIL in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+In some cases, a patient receiving therapy with PAXIL may require urgent treatment with linezolid or methylene blue.
+If acceptable alternatives to linezolid or methylene blue treatment are not available and the potential benefits of linezolid or methylene blue treatment are judged to outweigh the risks of serotonin syndrome or NMS-like reactions in a particular patient, PAXIL should be stopped promptly, and linezolid or methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome or NMS-like reactions for 2 weeks or until 24 hours after the last dose of linezolid or methylene blue, whichever comes first.
+Therapy with PAXIL may be resumed 24 hours after the last dose of linezolid or methylene blue (see WARNINGS).
 
 ## Discontinuation of Treatment With PAXIL
 
