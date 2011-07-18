@@ -13,7 +13,7 @@ Do not cut Butrans.
 Each Butrans is intended to be worn for 7 days.
 
 Apply Butrans to the upper outer arm, upper chest, upper back or the side of the chest.
-These four sites (each present on both sides of the body) provide 8 possible application sites.
+These 4 sites (each present on both sides of the body) provide 8 possible application sites.
 Rotate Butrans among the 8 described skin sites.
 After Butrans removal, wait a minimum of 21 days before reapplying to the same skin site [see Clinical Pharmacology (12.3)].
 
@@ -62,7 +62,7 @@ Table 1: Dose Estimation for Conversion of Oral Morphine Equivalents to Butrans
 | Current Opioid Analgesic | Current Daily Dose |  |
 | --- | --- | --- |
 | Oral Morphine Equivalent | <30 mg | 30-80 mg |
-| Recommended BuTrans Starting Dose | 5 mcg/hour | 10 mcg/hour |
+| Recommended Butrans Starting Dose | 5 mcg/hour | 10 mcg/hour |
 
 Use caution when prescribing Butrans to opioid-experienced patients requiring high doses of opioids (more than 80 mg/day of oral morphine equivalents).
 Butrans 20 mcg/hour may not provide adequate analgesia for patients requiring greater than 80 mg/day oral morphine equivalents.
@@ -88,7 +88,7 @@ During chronic opioid analgesic therapy with Butrans, reassess the continued nee
 
 ## 2.5 Cessation of Therapy
 
-When the patient no longer requires therapy with Butrans, taper the dose gradually to prevent signs and symptoms of withdrawal in the physically-dependent patient; consider introduction of an appropriate immediate-release opioid medication.
+When the patient no longer requires therapy with Butrans, taper the dose gradually to prevent signs and symptoms of withdrawal in the physically dependent patient; consider introduction of an appropriate immediate-release opioid medication.
 Undertake discontinuation of therapy as part of a comprehensive treatment plan.
 
 ## 2.6 Patients with Hepatic Impairment

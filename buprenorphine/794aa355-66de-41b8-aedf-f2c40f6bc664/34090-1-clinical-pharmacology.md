@@ -35,28 +35,31 @@ Clinical symptoms may be manifest from these hormonal changes.
 
 Buprenorphine causes dose-related miosis and produces urinary retention in some patients.
 
-In-vitro and animal studies indicate various effects of naturally-occurring opioids, such as morphine, on components of the immune system.
+In-vitro and animal studies indicate various effects of naturally occurring opioids, such as morphine, on components of the immune system.
 The clinical significance of these findings is unknown.
 Whether buprenorphine, a semi-synthetic opioid, has immunological effects similar to morphine is unknown.
 
 ## 12.3 Pharmacokinetics
 
-Each Butrans system provides delivery of buprenorphine for 7 days (see Figure 1).
-Steady state was achieved during the first application by Day 3.
+Each Butrans system provides delivery of buprenorphine for 7 days.
+Steady state was achieved during the first application by Day 3 (see Figure 2).
 
-Figure 2 Buprenorphine Plasma Concentrations (pg/mL) Mean (±SE), Butrans 10 mcg/hour Application for 7 Days (N = 23 Healthy Subjects)
+Figure 2 Mean (SD) Buprenorphine Plasma Concentrations Following Three Consecutive Applications of Butrans 10 mcg/hour (N = 36 Healthy Subjects)
 
-Butrans 5, 10, and 20 mcg/hour provide dose-proportional total buprenorphine exposures (AUC) following 7-day applications (see Table 6).
+Butrans 5, 10, and 20 mcg/hour provide dose-proportional total buprenorphine exposures (AUC) following 7-day applications.
+Butrans single 7-day application and steady-state pharmacokinetic parameters are summarized in Table 6.
 Plasma buprenorphine concentrations after titration showed no further change over the 60-day period studied.
-After removal of Butrans, mean buprenorphine concentrations decrease approximately 50% within 10-24 h, followed by decline with an apparent terminal half-life of approximately 26 hours.
+After removal of Butrans, mean buprenorphine concentrations decrease approximately 50% within 10 - 24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
 
-Table 6: Pharmacokinetic Parameters of Butrans in Healthy Subjects (Single 7-day Application) Mean (%CV)
+Table 6: Pharmacokinetic Parameters of Butrans in Healthy Subjects, Mean (%CV)
 
-| Dose (mcg/hour) | AUCinf (pg-h/mL) | Cmax (pg/mL) |
+| Single 7-day Application | AUCinf (pg.h/mL) | Cmax (pg/mL) |
 | --- | --- | --- |
-| Butrans 5 | 12087 (37) | 176 (67) |
-| Butrans 10 | 27035 (29) | 191 (34) |
-| Butrans 20 | 54294 (36) | 471 (49) |
+| Butrans 5 mcg/hour | 12087 (37) | 176 (67) |
+| Butrans 10 mcg/hour | 27035 (29) | 191 (34) |
+| Butrans 20 mcg/hour | 54294 (36) | 471 (49) |
+| Multiple 7-day Applications | AUCtau,ss (pg.h/mL) | Cmax,ss (pg/mL) |
+| Butrans 10 mcg/hour, steady-state | 27543 (33) | 224 (35) |
 
 ### Absorption
 
@@ -120,7 +123,7 @@ The reapplication of Butrans 10 mcg/hour after various rest periods to the same 
 
 #### External Heat
 
-In a study of healthy subjects, application of a heating pad directly on the Butrans 10 mcg/hour system caused a 26 - 55% increase in blood concentrations of buprenorphine.
+In a study of healthy subjects, application of a heating pad directly on the Butrans 10 mcg/hour system caused a 26% - 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
 For this reason, applying heating pads directly to the Butrans system during system wear should be avoided [see Warnings and Precautions (5.11)].
 
@@ -168,4 +171,4 @@ No notable relationship was observed between estimated creatinine clearance rate
 The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of buprenorphine was compared in 8 patients with mild impairment (Child-Pugh A), 4 patients with moderate impairment (Child-Pugh B) and 12 subjects with normal hepatic function.
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
-Butrans has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment [see Dosage and Administration (2.4), Warnings and Precautions (5.1) and Use In Specific Populations (8.6)].
+Butrans has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment [see Dosage and Administration (2.6), Warnings and Precautions (5.8) and Use In Specific Populations (8.6)].

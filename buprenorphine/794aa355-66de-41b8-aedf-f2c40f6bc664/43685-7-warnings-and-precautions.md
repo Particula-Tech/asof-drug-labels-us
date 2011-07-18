@@ -31,7 +31,7 @@ Consider using a lower initial dose of a CNS depressant when given to a patient 
 
 ## 5.4 QTc Prolongation
 
-A positive-controlled study of the effects of Butrans on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a Butrans dose of 10 mcg/hour however, a Butrans dose of 40 mcg/hour (given as two Butrans 20 mcg/hour Transdermal Systems) was observed to prolong the QTc interval [see Clinical Pharmacology (12.2)].
+A positive-controlled study of the effects of Butrans on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a Butrans dose of 10 mcg/hour; however, a Butrans dose of 40 mcg/hour (given as two Butrans 20 mcg/hour Transdermal Systems) was observed to prolong the QTc interval [see Clinical Pharmacology (12.2)].
 
 Consider these observations in clinical decisions when prescribing Butrans to patients with hypokalemia or clinically unstable cardiac disease, including: unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
 Avoid the use of Butrans in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide).

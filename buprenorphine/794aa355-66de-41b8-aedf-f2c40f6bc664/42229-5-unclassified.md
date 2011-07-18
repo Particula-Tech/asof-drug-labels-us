@@ -5,7 +5,7 @@ Butrans™ (BYOO-trans) CIII (buprenorphine) Transdermal System
 Be sure that you read, understand, and follow these Instructions for Use before you use Butrans.
 Talk to your doctor or pharmacist if you have any questions.
 
-Before applying Butrans:
+Before Applying Butrans:
 
 - Do not use soap, alcohol, lotions, oils, or other products to remove any leftover medicine gel from a patch because this may cause more Butrans to pass through the skin.
 - Each patch is sealed in its own protective pouch.
@@ -43,7 +43,7 @@ How to apply Butrans:
 - Each patch is sealed in its own protective pouch.
 - Use scissors to cut open the pouch along the dotted line (See Figure 3) and remove the patch.
   Do not remove the patch from the pouch until you are ready to use it.
-  Do not use patches that have been cut or damaged in any way.
+  Do not use patches that have been cut or damaged in anyway.
 
 - Hold the patch with the protective liner facing you.
 - Gently bend the patch (See Figures 4a and 4b) along the faint line and slowly peel the larger portion of the liner, which covers the sticky surface of the patch.
@@ -63,7 +63,7 @@ How to apply Butrans:
 - After the patch is applied, write down the date and time that the patch is applied.
   Use this to remember when the patch should be removed.
 
-If the patch falls off right away after applying, throw it away and put a new one on at a different skin site (see Disposing of Butrans Patch)
+If the patch falls off right away after applying, throw it away and put a new one on at a different skin site (see Disposing of Butrans Patch).
 
 If a patch falls off, do not touch the sticky side of the patch with your fingers.
 A new patch should be applied to a different site.

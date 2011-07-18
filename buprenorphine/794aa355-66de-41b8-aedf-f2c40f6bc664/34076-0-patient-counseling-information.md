@@ -32,14 +32,10 @@ Provide the following information to patients receiving Butrans or their caregiv
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
-CAUTION DEA Order Form Required.
-
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapie-Systeme AG, Andernach, Germany
 
-U.S. Patent Numbers 6,231,886 (5 and 10 mcg/hour Butrans only); 5,804,215; 5,968,547; 6,264,980; 6,344,211; and 6,344,212.
+U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
 
-302546-0A
+© 2011, Purdue Pharma L.P.
 
-Issued: June 2010
-
-© 2010, Purdue Pharma L.P.
+302546-0B

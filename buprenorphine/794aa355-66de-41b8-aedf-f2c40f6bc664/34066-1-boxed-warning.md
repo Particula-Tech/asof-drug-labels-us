@@ -10,7 +10,7 @@ Consider the abuse potential when prescribing or dispensing Butrans in situation
 
 Persons at increased risk for opioid abuse include those with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 Assess patients for their clinical risks for opioid abuse or addiction prior to being prescribed opioids.
-Routinely monitor all patients receiving opioids for signs of misuse, abuse and addiction.
+Routinely monitor all patients receiving opioids for signs of misuse, abuse, and addiction.
 (2.2)
 
 Limitations of Use Do not exceed a dose of one 20 mcg/hour Butrans system due to the risk of QTc interval prolongation.

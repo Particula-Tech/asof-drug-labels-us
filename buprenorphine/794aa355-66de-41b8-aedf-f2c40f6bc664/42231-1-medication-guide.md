@@ -13,7 +13,7 @@ Talk to your doctor if you have questions.
 
 What is the most important information I should know about Butrans?
 
-- Butrans overdose can cause serious and life-threatening breathing problems.
+- Butrans overdose can cause serious and life threatening breathing problems.
 - Butrans is a skin patch that contains the strong opioid pain medicine (narcotic) buprenorphine.
 - Butrans is used to treat moderate to severe chronic pain that continues around-the-clock and is expected to last for a long period of time.
 - Butrans is not for pain that:
@@ -28,7 +28,8 @@ What is the most important information I should know about Butrans?
     - slow or shallow breathing
     - new or unusual snoring
   - have a slow heartbeat
-  - have severe sleepinesshave cold, clammy skin
+  - have severe sleepiness
+  - have cold, clammy skin
   - feel faint, dizzy, confused, or cannot think, walk, or talk normally
 - Do not place direct heat on Butrans.
   Exposure of Butrans to direct heat may cause too much of the medicine in Butrans to pass into your body.
@@ -61,7 +62,7 @@ Who should not use Butrans?
 
 Do not use Butrans if you:
 
-- have trouble breathing, severe asthma or severe lung problems.
+- have trouble breathing, severe asthma or severe lung problems
 - have a bowel blockage called paralytic ileus.
 - are allergic to any of the ingredients in Butrans.
   See the end of this Medication Guide for a list of the ingredients in Butrans.
@@ -112,7 +113,7 @@ Especially tell your doctor if you take:
 - sedative or tranquilizer medicines (medicines that make you sleepy)
 - a medicine for abnormal heartbeats
 
-You should not take Butrans if you already take a monoamine oxidase inhibitor (MAOI) medicine or within 14 days after you stop taking an MAOI medicine.
+You should not take Butrans if you already take a monoamine oxidase inhibitor medicine (MAOI) or within 14 days after you stop taking an MAOI medicine.
 
 Ask your doctor if you are not sure if your medicine is one listed above.
 
@@ -212,7 +213,7 @@ The most common side effects of Butrans include:
 Constipation (incomplete or hard bowel movements) is a very common side effect of all opioid medicines.
 Talk to your doctor about the use of laxatives (medicines to treat constipation) and stool softeners to prevent or treat constipation while using Butrans.
 
-Talk to your doctor about any side effects that bother you or do not go away.
+Talk to your doctor about any side effect that bother you or do not go away.
 
 These are not all the possible side effects of Butrans.
 For a complete list, ask your doctor or pharmacist.

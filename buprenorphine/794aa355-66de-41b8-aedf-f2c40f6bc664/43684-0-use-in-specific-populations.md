@@ -65,7 +65,7 @@ Although specific dose adjustments on the basis of advanced age are not required
 ## 8.6 Hepatic Impairment
 
 In a study utilizing intravenous buprenorphine, peak plasma levels (Cmax) and exposure (AUC) of buprenorphine in patients with mild and moderate hepatic impairment did not increase as compared to those observed in subjects with normal hepatic function.
-Butrans has not been evaluated in patients with severe hepatic impairment and should be administered with caution [see Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
+Butrans has not been evaluated in patients with severe hepatic impairment and should be administered with caution [see Dosage and Administration (2.6), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

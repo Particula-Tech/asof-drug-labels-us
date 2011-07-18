@@ -9,4 +9,4 @@ Butrans is contraindicated in:
 - the management of acute pain or in patients who require opioid analgesia for a short period of time
 - the management of post-operative pain, including use after out-patient or day surgeries
 - the management of mild pain
-- the management of intermittent pain (e.g., use on an as needed basis [prn])
+- the management of intermittent pain (e.g., use on an as-needed basis [prn])
