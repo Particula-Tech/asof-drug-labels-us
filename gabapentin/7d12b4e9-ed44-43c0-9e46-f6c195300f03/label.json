@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022544"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Depomed, Inc.",
+  "package_ndcs": [
+    "13913-004-13",
+    "13913-005-19",
+    "13913-006-16"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "gabapentin",
+      "name": "Gralise"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gabapentin",
+      "name": "Gralise"
+    }
+  ],
+  "setid": "7d12b4e9-ed44-43c0-9e46-f6c195300f03",
+  "source": "dailymed"
+}
