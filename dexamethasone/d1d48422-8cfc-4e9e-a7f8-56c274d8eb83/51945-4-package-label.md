@@ -2,9 +2,13 @@
 
 NDC 0065-0652-05
 
-TOBRADEX® ST
+TobraDex®ST
 
-(tobramycin / dexamethasone ophthalmic suspension) 0.3%/0.05%
+(tobramycin/dexamethasone
+
+ophthalmic suspension)
+
+0.3%/0.5%
 
 STERILE
 

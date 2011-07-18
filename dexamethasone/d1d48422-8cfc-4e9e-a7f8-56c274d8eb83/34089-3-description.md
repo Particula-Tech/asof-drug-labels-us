@@ -11,7 +11,5 @@ It has a molecular formula of C22H29FO5 and a molecular weight of 392.47.
 The chemical structure is:
 
 Each mL of TOBRADEX® ST contains: Actives: tobramycin 3 mg and dexamethasone 0.5 mg.
-
 Preservative: benzalkonium chloride 0.1 mg.
-
 Inactives: xanthan gum, tyloxapol, edetate disodium, sodium chloride, propylene glycol, sodium sulfate, hydrochloric acid and/or sodium hydroxide (to adjust pH) and purified water.

@@ -12,11 +12,11 @@ Tobramycin is included in this combination product to provide action against sus
 
 ## 12.3 Pharmacokinetics
 
-In a multi-center, double-masked, parallel-group, randomized, single-dose pharmacokinetic study in male and female cataract surgery patients, mean dexamethasone concentrations following administration of TOBRADEX ST were similar to dexamethasone concentrations following administration of TOBRADEX (Tobramycin 0.3%/Dexamethasone 0.1% ophthalmic suspension).
+In a multi-center, double-masked, parallel-group, randomized, single-dose pharmacokinetic study in male and female cataract surgery patients, mean dexamethasone concentrations following administration of TOBRADEX ST were similar to dexamethasone concentrations following administration of TOBRADEX (tobramycin /dexamethasone ophthalmic suspension) 0.3%/0.1%.
 Aqueous humor concentrations reached a mean peak of 33.7 ng/mL 2 hours following single-dose administration of TOBRADEX ST.
 
 No data are available on the extent of systemic absorption of dexamethasone or tobramycin from TOBRADEX ST ophthalmic suspension.
-Following multiple-dose (QID for 2 days) bilateral ocular administration of TOBRADEX (tobramycin/dexamethasone ophthalmic suspension) 0.3%/0.1% in healthy male and female volunteers, peak plasma concentrations of dexamethasone were less than 1 ng/mL and occurred within 2 hours post-dose across all subjects.
+Following multiple-dose (QID for 2 days) bilateral ocular administration of TOBRADEX (Tobramycin 0.3%/Dexamethasone 0.1% ophthalmic suspension) in healthy male and female volunteers, peak plasma concentrations of dexamethasone were less than 1 ng/mL and occurred within 2 hours post-dose across all subjects.
 
 ## 12.4 Microbiology
 

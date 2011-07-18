@@ -12,13 +12,3 @@ Patients should be instructed not to touch dropper tip to any surface, as this m
 ## 17.3 Contact Lens Wear
 
 Contact lenses should not be worn during the use of this product.
-
-Alcon Laboratories, Inc.
-
-Fort Worth, Texas 76134 USA
-
-Printed in USA
-
-©2008 Alcon, Inc.
-
-9002722-0209

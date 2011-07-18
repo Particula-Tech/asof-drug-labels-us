@@ -4,7 +4,6 @@
 
 Instill one drop into the conjunctival sac(s) every four to six hours.
 During the initial 24 to 48 hours, the dosage may be increased to one drop every two hours.
-
 Frequency should be decreased gradually as warranted by improvement in clinical signs.
 Care should be taken not to discontinue therapy prematurely.
 
