@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA075580"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0093-0",
+    "60505-0093-1",
+    "60505-0094-0",
+    "60505-0094-1",
+    "60505-0095-0",
+    "60505-0095-1",
+    "60505-0096-0",
+    "60505-0096-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin",
+      "name": "Doxazosin"
+    }
+  ],
+  "setid": "4fa5c2f7-cda9-56cd-622f-b3d05dc7c94b",
+  "source": "dailymed"
+}
