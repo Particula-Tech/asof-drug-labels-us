@@ -11,4 +11,4 @@ Each spray delivers a mean of 0.137 mL solution containing 137 mcg of azelastine
 Storage: Store at controlled room temperature 20°-25°C (68°-77°F).
 Protect from freezing.
 
-U.S. Patents 5,164,194; D447,419.
+U.S. Patent D447,419.

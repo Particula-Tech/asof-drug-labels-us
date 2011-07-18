@@ -55,7 +55,7 @@ Astelin® Nasal Spray showed significant improvement compared to placebo in the 
 
 Table 1: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting Two Sprays Per Nostril Twice Daily.
 
-|  | Astelin® Nasal Spray | Placebo | Outcomes |  |
+|  | Astelin® Nasal Spray | Placebo Nasal Spray | Outcomes |  |
 | --- | --- | --- | --- | --- |
 | Astelin® vs. Placebo |  |  |  |  |
 | Mean (SD) |  | Difference between Treatments | P value |  |
@@ -82,7 +82,7 @@ The results are shown in Table 2.
 
 Table 2: Summary of Primary Efficacy* Analyses for Pivotal Studies Supporting One Spray Per Nostril Twice Daily.
 
-|  | Astelin® Nasal Spray | Placebo | Outcomes |  |
+|  | Astelin® Nasal Spray | Placebo Nasal Spray | Outcomes |  |
 | --- | --- | --- | --- | --- |
 | Astelin® vs. Placebo |  |  |  |  |
 | LS Mean (SD) |  | Difference between Treatments | P value |  |
