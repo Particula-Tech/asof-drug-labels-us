@@ -70,7 +70,7 @@ Before you take GLUMETZA, tell your doctor if you:
   GLUMETZA should not be used for the treatment of diabetic ketoacidosis.
 - have kidney problems
 - have liver problems
-- have heart problems, including congestive heart failure.
+- have heart problems, including congestive heart failure
 - drink alcohol very often, or drink a lot of alcohol in short-term (binge) drinking
 - are taking insulin
 - have any other medical conditions
