@@ -55,12 +55,9 @@ It should be noted that PAXIL CR is not approved for use in treating bipolar dep
 
 ## Potential for Interaction With Monoamine Oxidase Inhibitors
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with an MAOI, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
+In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitors (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-While there are no human data showing such an interaction with paroxetine hydrochloride, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that PAXIL CR not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI, and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
-At least 2 weeks should be allowed after stopping PAXIL CR before starting an MAOI.
+Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
@@ -464,7 +461,7 @@ Some clinical studies have shown that SSRIs (including paroxetine) may affect sp
 
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
-These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 8 and 4 times the MRHD on a mg/m2 basis)
+These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 8 and 4 times the MRHD on a mg/m2 basis).
 
 ## Pregnancy
 
@@ -497,5 +494,4 @@ SSRIs and SNRIs, including PAXIL CR, have been associated with cases of clinical
 In worldwide premarketing clinical trials with immediate-release paroxetine hydrochloride, 17% of paroxetine-treated patients (approximately 700) were 65 years or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-In a controlled study focusing specifically on elderly patients with major depressive disorder, PAXIL CR was demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder.
-(See CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table 3.)
+In a controlled study focusing specifically on elderly patients with major depressive disorder, PAXIL CR was demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table 3.)

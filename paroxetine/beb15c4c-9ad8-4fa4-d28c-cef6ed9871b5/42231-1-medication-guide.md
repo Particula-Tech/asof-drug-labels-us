@@ -111,12 +111,12 @@ Who should not take PAXIL CR?
 
 Do not take PAXIL CR if you:
 
-- are allergic to paroxetine hydrochloride or any of the ingredients in PAXIL CR.
+- are allergic to paroxetine or any of the ingredients in PAXIL CR.
   See the end of this Medication Guide for a complete list of ingredients in PAXIL CR.
-- take a Monoamine Oxidase Inhibitor (MAOI), such as PARNATE® (tranylcypromine), NARDIL® (phenelzine), or the antibiotic ZYVOX® (linezolid).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-- Do not take an MAOI within 2 weeks of stopping PAXIL CR.
-- Do not start PAXIL CR if you stopped taking an MAOI in the last 2 weeks.
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping PAXIL CR unless directed to do so by your physician..
+- Do not start PAXIL CR if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - People who take PAXIL CR close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
   - high fever
@@ -181,7 +181,7 @@ How should I take PAXIL CR?
 - Take PAXIL CR exactly as prescribed.
   Your healthcare provider may need to change the dose of PAXIL CR until it is the right dose for you.
 - PAXIL CR may be taken with or without food.
-- PAXIL CR Controlled-Release Tablets should not be chewed or crushed and should be swallowed whole.
+- PAXIL CR controlled-release tablets should not be chewed or crushed and should be swallowed whole.
 - If you miss a dose of PAXIL CR, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
   Do not take two doses of PAXIL CR at the same time.
@@ -225,7 +225,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 or 1-800-332-1088.
 How should I store PAXIL CR?
 
 - Store PAXIL CR at or below room temperature (77ºF or 25ºC).
-- Store PAXIL CR away from light.
+- Keep PAXIL CR away from light.
 - Keep bottle of PAXIL CR closed tightly.
 
 Keep PAXIL CR and all medicines out of the reach of children.
@@ -249,7 +249,7 @@ Active ingredient: paroxetine hydrochloride
 
 Inactive ingredients in tablets:hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
 
-PAXIL, PAXIL CR and PARNATE are registered trademarks of GlaxoSmithKline.
+PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
@@ -262,4 +262,4 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-March 2011 PCR:4MG
+July 2011 PCR:5MG
