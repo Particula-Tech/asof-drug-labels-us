@@ -6,9 +6,7 @@ Mannitol is a 6-carbon sugar alcohol prepared commercially by the reduction of d
 Although virtually inert metabolically in humans, it occurs naturally in fruits and vegetables.
 Mannitol is an obligatory osmotic diuretic.
 
-Each 100 mL contains:
-
-Mannitol USP 20 g; Water for Injection USP qs pH: 5.3 (4.5–7.0); Calculated Osmolarity 1100 mOsmol/liter
+Each 100 mL contains: Mannitol USP 20 g; Water for Injection USP qs pH: 5.3 (4.5–7.0); Calculated Osmolarity 1100 mOsmol/liter
 
 Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage.
 Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L.
@@ -19,7 +17,7 @@ The formula of the active ingredient is:
 | --- | --- | --- |
 | Mannitol USP |  | 182.17 |
 
-The EXCEL Container is Latex-free, PVC-free, and DEHP-free.
+The EXCEL® Container is Latex-free, PVC-free, and DEHP-free.
 
 The plastic container is made from a multilayered film specifically developed for parenteral drugs.
 It contains no plasticizers.

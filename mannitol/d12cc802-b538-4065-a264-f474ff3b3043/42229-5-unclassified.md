@@ -2,7 +2,7 @@ For Therapeutic Use Only
 
 Rx only
 
-Rev: December 2009 EXCEL is a registered trademark of B. Braun Medical Inc.
+Revised: December 2009 EXCEL is a registered trademark of B. Braun Medical Inc.
 
 B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
