@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074086"
+  ],
   "inn": "dobutamine",
-  "labeler": "HOSPIRA, INC.",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-2344-88"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "dobutamine hydrochloride",
+      "name": "DOBUTamine Hydrochloride"
+    }
+  ],
   "setid": "89becb0c-da60-4f43-0a98-29ff7a9eca58",
   "source": "dailymed"
 }
