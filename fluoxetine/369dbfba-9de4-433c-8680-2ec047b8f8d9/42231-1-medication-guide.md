@@ -223,9 +223,7 @@ Other side effects in children and adolescents include:
 - urinating more often
 - heavy menstrual periods
 - possible slowed growth rate and weight change.
-  Your child’s height and weight should be
-
-monitored during treatment with fluoxetine capsules USP.
+  Your child’s height and weight should be monitored during treatment with fluoxetine capsules USP.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of fluoxetine capsules USP.

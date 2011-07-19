@@ -52,9 +52,9 @@ Safety and effectiveness of fluoxetine and olanzapine in combination in patients
 
 ## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans), with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of fluoxetine with MAOIs intended to treat depression is contraindicated [see Contraindications (4) and Drug Interactions (7.1)].
@@ -63,7 +63,7 @@ If concomitant treatment of fluoxetine with a 5-hydroxytryptamine receptor agoni
 
 The concomitant use of fluoxetine with serotonin precursors (such as tryptophan) is not recommended [see Drug Interactions (7.3)].
 
-Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur, and supportive symptomatic treatment should be initiated.
+Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Allergic Reactions and Rash
 
@@ -174,6 +174,8 @@ The mean heart rate was reduced by approximately 3 beats/min.
 Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic control.
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
+
+Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with fluoxetine; therefore, caution should be used when prescribing fluoxetine in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 

@@ -117,7 +117,7 @@ Fluoxetine monotherapy is not indicated for the treatment of depressive episodes
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of pregnant Women During the Third Trimester — When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
+Treatment of Pregnant Women during the Third Trimester — When treating pregnant women with fluoxetine during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 The physician may consider tapering fluoxetine in the third trimester [see Use in Specific Populations (8.1)].
 
@@ -127,7 +127,7 @@ Hepatic Impairment — As with many other medications, a lower or less frequent 
 
 Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
 
-Fluoxetine and Olanzapine in Combination – The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, nonsmoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
+Fluoxetine and Olanzapine in Combination – The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
 Dosing modifications may be necessary in patients who exhibit a combination of factors that may slow metabolism.
 When indicated, dose escalation should be performed with caution in these patients.
 Fluoxetine and olanzapine in combination have not been systematically studied in patients over 65 years of age or in patients less than 18 years of age [see Warnings and Precautions (5.14) and Drug Interactions (7.9)].
