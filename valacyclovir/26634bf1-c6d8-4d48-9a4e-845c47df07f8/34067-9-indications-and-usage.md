@@ -25,10 +25,10 @@ The efficacy of valacyclovir hydrochloride tablets when initiated more than 72 h
 ## 1.2 Pediatric Patients
 
 Cold Sores (Herpes Labialis): Valacyclovir hydrochloride tablets are indicated for the treatment of cold sores (herpes labialis) in pediatric patients ≥ 12 years of age.
-The efficacy of valacyclovir hydrochloride tabletsinitiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
+The efficacy of valacyclovir hydrochloride tablets initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer) has not been established.
 
-Chickenpox: Valacyclovir hydrochloride tablets are indicated for the treatment of chickenpox in immunocompetent pediatric patients 2 to < 18 years of age.
-Based on efficacy data from clinical studies with oral acyclovir, treatment with valacyclovir hydrochloride tablets should be initiated within 24 hours after the onset of rash [see Clinical Studies (14.4)].
+Labeling describing use of valacyclovir HCL in pediatric patients with chickenpox (ages 2 to ≤ 18 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that pediatric use is not approved for this valacyclovir HCL tablet product.
 
 ## 1.3 Limitations of Use
 
@@ -36,7 +36,9 @@ The efficacy and safety of valacyclovir hydrochloride tablets have not been esta
 
 - Immunocompromised patients other than for the suppression of genital herpes in HIV-infected patients with a CD4+ cell count ≥ 100 cells/mm3.
 - Patients < 12 years of age with cold sores (herpes labialis).
-- Patients < 2 years of age or ≥ 18 years of age with chickenpox.
 - Patients < 18 years of age with genital herpes.
 - Patients < 18 years of age with herpes zoster.
 - Neonates and infants as suppressive therapy following neonatal herpes simplex virus (HSV) infection.
+
+Labeling describing use of valacyclovir HCL in pediatric patients with chickenpox (ages of 2 to ≤ 18 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that pediatric use is not approved for this valacyclovir HCL tablet product.

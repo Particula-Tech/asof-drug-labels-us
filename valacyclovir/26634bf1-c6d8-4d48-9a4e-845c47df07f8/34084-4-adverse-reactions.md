@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
-- Acute Renal Failure [see Warnings and Precautions (5.2)].
-- Central Nervous System Effects [see Warnings and Precautions (5.3)].
+- Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [seeWarnings and Precautions (5.1)].
+- Acute Renal Failure [seeWarnings and Precautions (5.2)].
+- Central Nervous System Effects [seeWarnings and Precautions (5.3)].
 
 The most common adverse reactions reported in at least 1 indication by > 10% of adult patients treated with valacyclovir hydrochloride and observed more frequently with valacyclovir hydrochloride compared to placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in > 10% of pediatric patients < 18 years of age was headache.
@@ -49,16 +49,13 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 
 ## 6.2 Clinical Trials Experience in Pediatric Patients
 
-The safety profile of valacyclovir hydrochloride has been studied in 177 pediatric patients 1 month to < 18 years of age.
 Sixty-five of these pediatric patients, 12 to < 18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
-The remaining 112 pediatric patients, 1 month to < 12 years of age, participated in 3 pharmacokinetic and safety studies and received valacyclovir oral suspension.
-Fifty-one of these 112 pediatric patients received oral suspension for 3 to 6 days.
 The frequency, intensity, and nature of clinical adverse reactions and laboratory abnormalities were similar to those seen in adults.
 
 Pediatric Patients 12 to < 18 Years of Age (Cold Sores): In clinical studies for the treatment of cold sores, the adverse reactions reported by adolescent patients receiving valacyclovir hydrochloride 2 grams twice daily for 1 day, or valacyclovir hydrochloride 2 grams twice daily for 1 day followed by 1 gram twice daily for 1 day (n = 65, across both dosing groups), or placebo (n = 30), respectively, included headache (17%, 3%) and nausea (8%, 0%).
 
-Pediatric Patients 1 Month to < 12 Years of Age: Adverse events reported in more than 1 subject across the 3 pharmacokinetic and safety studies in pediatricpatients1 month to < 12 years of age were diarrhea (5%), pyrexia (4%), dehydration (2%), herpes simplex (2%), and rhinorrhea (2%).
-No clinically meaningful changes in laboratory values were observed.
+Labeling describing additional clinical trial adverse reactions in pediatric patients (ages of 1 month to ≤ 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those adverse reactions is not approved for this valacyclovir HCL tablet product.
 
 ## 6.3 Postmarketing Experience
 

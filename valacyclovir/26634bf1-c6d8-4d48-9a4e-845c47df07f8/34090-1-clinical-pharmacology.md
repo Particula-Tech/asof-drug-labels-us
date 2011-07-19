@@ -6,7 +6,10 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from 1 month to < 12 years of age.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults.
+
+Labeling describing use of valacyclovir in pediatric patients with chickenpox (ages 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+However, due to GlaxoSmithKline’s marketing exclusivity rights, that additional pediatric information is not approved for this valacyclovir HCL tablet product.
 
 Pharmacokinetics in Adults:Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
@@ -53,7 +56,7 @@ Specific Populations:Renal Impairment: Reduction in dosage is recommended in pat
 Following administration of valacyclovir hydrochloride to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
 Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
-Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m 2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
+Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
 
 Hepatic Impairment: Administration of valacyclovir hydrochloride to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
@@ -64,17 +67,8 @@ Geriatrics: After single-dose administration of 1 gram of valacyclovir hydrochlo
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir hydrochloride in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
 
-Pediatrics: Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (1 month to < 12 years of age) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
-Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are provided in Table 4.
-
-Table 4: Mean (± SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of Valacyclovir Hydrochloride Tablets to Adults
-
-| Parameter | Pediatric Patients (20 mg/kg Oral Suspension) |  |  | Adults 1 gram Solid Dose of Valacyclovir Hydrochloride Tablets* (N = 15) |
-| --- | --- | --- | --- | --- |
-| 1 to < 2 yr (N = 6) | 2 to < 6 yr (N = 12) | 6 to < 12 yr (N = 8) |  |  |
-| AUC (mcg•hr/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.10) |
-| Cmax (mcg/mL) | 4.03 (± 1.37) | 3.75 (± 1.14) | 4.71 (± 1.20) | 4.72 (± 1.37) |
-| *Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
+Labeling describing additional pharmacokinetic studies with valacyclovir HCL in pediatric patients (ages of 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those pharmacokinetic studies is not approved for this valacyclovir HCL tablet product.
 
 Drug Interactions: When valacyclovir hydrochloride is coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when valacyclovir hydrochloride is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
@@ -85,7 +79,7 @@ Cimetidine: Acyclovir Cmax and AUC following a single dose of valacyclovir hydro
 
 Cimetidine Plus Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
 
-Digoxin: The pharmacokinetics of digoxin were not affected by coadministration of valacyclovirhydrochloride1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride(1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
+Digoxin: The pharmacokinetics of digoxin were not affected by coadministration of valacyclovir hydrochloride 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
 
 Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
 
@@ -94,7 +88,7 @@ Thiazide Diuretics: The pharmacokinetics of acyclovir after a single dose of val
 ## 12.4 Microbiology
 
 Mechanism of Action: Valacyclovir is a nucleoside analogue DNA polymerase inhibitor.
-Valacyclovir hydrochloride is rapidly converted to acyclovir which has demonstrated antiviral activity against HSV types 1 (HSV-1) and 2 (HSV-2) and VZV both in cell culture and invivo.
+Valacyclovir hydrochloride is rapidly converted to acyclovir which has demonstrated antiviral activity against HSV types 1 (HSV-1) and 2 (HSV-2) and VZV both in cell culture and in vivo.
 
 The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV.
 This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
@@ -103,7 +97,7 @@ In biochemical assays, acyclovir triphosphate inhibits replication of herpes vir
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 
-Antiviral Activities: The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
+Antiviral Activities: The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
 Using plaque-reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 μM (0.02 to 13.5 mcg/mL) for HSV-1 and from 0.04 to 44 μM (0.01 to 9.9 mcg/mL) for HSV-2.
 The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 μM (0.12 to 10.8 mcg/mL).
