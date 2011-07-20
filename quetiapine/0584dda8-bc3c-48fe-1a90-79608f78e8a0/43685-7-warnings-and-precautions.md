@@ -22,7 +22,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-Table 1:
+Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -266,13 +266,25 @@ Lens changes have also been observed in adults, children and adolescents during 
 Nevertheless, the possibility of lenticular changes cannot be excluded at this time.
 Therefore, examination of the lens by methods adequate to detect cataract formation, such as slit lamp exam or other appropriately sensitive methods, is recommended at initiation of treatment or shortly thereafter, and at 6-month intervals during chronic treatment.
 
-## 5.12 Seizures
+## 5.12 QT Prolongation
+
+In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
+However, the QT effect was not systematically evaluated in a thorough QT study.
+In post marketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7)].
+
+The use of quetiapine should be avoided in combination with other drugs that are known to prolong QTc including Class 1A antiarrythmics (e.g., quinidine, procainamide) or Class III antiarrythmics (e.g., amiodarone, sotalol), antipsychotic medications (e.g., ziprasidone, chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+
+Quetiapine should also be avoided in circumstances that may increase the risk of occurrence of torsade de pointes and/or sudden death including (1) a history of cardiac arrhythmias such as bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
+
+Caution should also be exercised when quetiapine is prescribed in patients with increased risk of QT prolongation (e.g. cardiovascular disease, family history of QT prolongation, the elderly, congestive heart failure and heart hypertrophy).
+
+## 5.13 Seizures
 
 During clinical trials, seizures occurred in 0.5% (20/3490) of patients treated with SEROQUEL compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
 As with other antipsychotics, SEROQUEL should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.13 Hypothyroidism
+## 5.14 Hypothyroidism
 
 Adults: Clinical trials with quetiapine demonstrated dose-related decreases in thyroid hormone levels.
 The reduction in total and free thyroxine (T4) of approximately 20% at the higher end of the therapeutic dose range was maximal in the first six weeks of treatment and maintained without adaptation or progression during more chronic therapy.
@@ -302,7 +314,7 @@ Generally, these changes in thyroid hormone levels were of no clinical significa
 Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts to potentially clinically important thyroid function values at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
-## 5.14 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 Adults: During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
 
@@ -318,7 +330,7 @@ Tissue culture experiments indicate that approximately one-third of human breast
 As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)].
 
-## 5.15 Transaminase Elevations
+## 5.16 Transaminase Elevations
 
 Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
 In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for SEROQUEL compared to 1% (3/194) for placebo.
@@ -326,7 +338,7 @@ In acute bipolar mania trials in adults, the proportions of patients with transa
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with SEROQUEL.
 In bipolar depression trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for SEROQUEL and 2% (6/347) for placebo.
 
-## 5.16 Potential for Cognitive and Motor Impairment
+## 5.17 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse event reported in patients treated with SEROQUEL especially during the 3-5 day period of initial dose-titration.
 In schizophrenia trials, somnolence was reported in 18% (89/510) of patients on SEROQUEL compared to 11% (22/206) of placebo patients.
@@ -336,31 +348,31 @@ In bipolar depression trials, somnolence was reported in 57% (398/698) of patien
 Since SEROQUEL has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that SEROQUEL therapy does not affect them adversely.
 Somnolence may lead to falls.
 
-## 5.17 Priapism
+## 5.18 Priapism
 
 One case of priapism in a patient receiving SEROQUEL has been reported prior to market introduction.
 While a causal relationship to use of SEROQUEL has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that SEROQUEL may share this capacity.
 Severe priapism may require surgical intervention.
 
-## 5.18 Body Temperature Regulation
+## 5.19 Body Temperature Regulation
 
 Although not reported with SEROQUEL, disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing SEROQUEL for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.19 Dysphagia
+## 5.20 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
 SEROQUEL and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.20 Suicide
+## 5.21 Suicide
 
 The possibility of a suicide attempt is inherent in bipolar disorder and schizophrenia; close supervision of high risk patients should accompany drug therapy.
 Prescriptions for SEROQUEL should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 
-In two 8-week clinical studies in patients with bipolar depression (N=1048), the incidence of treatment-emergent suicidal ideation or suicide attempt was low and similar to placebo (SEROQUEL 300 mg, 6/350, 1.7%; SEROQUEL 600 mg, 9/348, 2.6%; Placebo, 7/347, 2.0%).
+In two 8-week clinical studies in patients with bipolar depression (N=1048), the incidence of treatment emergent suicidal ideation or suicide attempt was low and similar to placebo (SEROQUEL 300 mg, 6/350, 1.7%; SEROQUEL 600 mg, 9/348, 2.6%; Placebo, 7/347, 2.0%).
 
-## 5.21 Use in Patients with Concomitant Illness
+## 5.22 Use in Patients with Concomitant Illness
 
 Clinical experience with SEROQUEL in patients with certain concomitant systemic illnesses is limited [see Pharmacokinetics (12.3)].
 
@@ -368,12 +380,7 @@ SEROQUEL has not been evaluated or used to any appreciable extent in patients wi
 Patients with these diagnoses were excluded from premarketing clinical studies.
 Because of the risk of orthostatic hypotension with SEROQUEL, caution should be observed in cardiac patients [see Warnings and Precautions (5.8)].
 
-In clinical trials quetiapine was not associated with a persistent increase in absolute QT intervals.
-However, in post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval [see Drug Interactions (7)].
-Caution should be exercised when quetiapine is prescribed in patients with cardiovascular disease or family history of QT prolongation.
-Also caution should be exercised when quetiapine is prescribed with medicines known to cause electrolyte imbalance or increase QT interval or with concomitant neuroleptics, especially for patients with increased risk of QT prolongation, i.e., the elderly, patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalemia, or hypomagnesemia.
-
-## 5.22 Withdrawal
+## 5.23 Withdrawal
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including SEROQUEL.
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.

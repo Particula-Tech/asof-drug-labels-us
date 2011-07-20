@@ -90,7 +90,7 @@ Before taking SEROQUEL, tell your healthcare provider if you have or have had:
 - pregnancy or plans to become pregnant.
   It is not known if SEROQUEL will harm your unborn baby
 - breast-feeding or plans to breast-feed.
-  It is not known if SEROQUEL will pass into your breast milk.
+  SEROQUEL can pass into your breast milk.
   You and your healthcare provider should decide if you will take SEROQUEL or breast-feed.
   You should not do both.
 
@@ -105,6 +105,7 @@ Especially tell your healthcare provider if you take or plan to take medicines f
 - high blood pressure
 - Parkinson’s disease
 - trouble sleeping
+- abnormal heart beats or rhythm
 
 Also tell your healthcare provider if you take or plan to take any of these medicines:
 
@@ -147,7 +148,7 @@ What should I avoid while taking SEROQUEL?
 Do not drive, operate machinery, or do other dangerous activities until you know how SEROQUEL affects you.
 SEROQUEL may make you drowsy.
 
-- Avoid getting over-heated or dehydrated.
+- Avoid getting overheated or dehydrated.
   - Do not over-exercise.
   - In hot weather, stay inside in a cool place if possible.
   - Stay out of the sun.
@@ -283,7 +284,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35534–07
+SIC 35534–04
 
 Rev.
-05/2011
+07/2011

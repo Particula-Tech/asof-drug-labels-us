@@ -27,7 +27,7 @@ Incidence of Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials:
 
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for SEROQUEL vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% SEROQUEL vs. 0% placebo) and hypotension (0.4% SEROQUEL vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.8 and 5.16)].
+However, discontinuations due to somnolence (0.8% SEROQUEL vs. 0% placebo) and hypotension (0.4% SEROQUEL vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.8 and 5.17)].
 
 Bipolar Disorder:
 
@@ -451,7 +451,7 @@ Endocrine System: Infrequent: hypothyroidism, diabetes mellitus; Rare: hyperthyr
 ## 6.2 Vital Signs and Laboratory Values
 
 Hyperglycemia, hyperlipidemia, weight gain, orthostatic hypotension and changes in thyroid hormone levels have been reported with quetiapine.
-Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.13)].
+Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.14)].
 
 Neutrophil Counts
 

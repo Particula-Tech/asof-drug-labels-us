@@ -6,7 +6,7 @@ In clinical trials, survival has been reported in acute overdoses of up to 30 gr
 Most patients who overdosed experienced no adverse reactions or recovered fully from the reported reactions.
 Death has been reported in a clinical trial following an overdose of 13.6 grams of quetiapine alone.
 In general, reported signs and symptoms were those resulting from an exaggeration of the drugs known pharmacological effects, ie, drowsiness and sedation, tachycardia and hypotension.
-Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5)].
+Patients with pre-existing severe cardiovascular disease may be at an increased risk of the effects of overdose [see Warnings and Precautions (5.12)].
 One case, involving an estimated overdose of 9600 mg, was associated with hypokalemia and first degree heart block.
 In post-marketing experience, there were cases reported of QT prolongation with overdose.
 There were also very rare reports of overdose of SEROQUEL alone resulting in death or coma.
