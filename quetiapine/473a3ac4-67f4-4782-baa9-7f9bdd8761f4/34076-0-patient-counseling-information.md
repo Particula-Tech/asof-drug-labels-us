@@ -60,15 +60,15 @@ Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
 Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-Patients should limit consumption of alcohol during treatment with quetiapine [see Warnings and Precautions (5.16)].
+Patients should limit consumption of alcohol during treatment with quetiapine [see Warnings and Precautions (5.17)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.18)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.19)].
 
 Concomitant Medication
 
-As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Warnings and Precautions (5.21)].
+As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Warnings and Precautions (5.22)].
 
 Pregnancy and Nursing
 

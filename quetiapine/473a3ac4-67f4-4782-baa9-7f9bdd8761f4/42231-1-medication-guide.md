@@ -67,9 +67,9 @@ What is SEROQUEL XR?
 
 - SEROQUEL XR is a prescription medicine used to treat schizophrenia in adults.
 - SEROQUEL XR is a prescription medicine used to treat bipolar disorder in adults, including:
-  - manic episodes associated with bipolar disorder alone or with lithium or divalproex.
-  - depressive episodes associated with bipolar disorder.
-  - long-term treatment of bipolar I disorder with lithium or divalproex.
+  - manic episodes associated with bipolar disorder alone or with lithium or divalproex
+  - depressive episodes associated with bipolar disorder
+  - long-term treatment of bipolar I disorder with lithium or divalproex
 - SEROQUEL XR is a prescription medicine used to treat major depressive disorder as add-on treatment with antidepressant medicines when your doctor determines that one antidepressant alone is not enough to treat your depression.
 
 SEROQUEL XR is not approved for patients under 18 years of age.
@@ -90,9 +90,9 @@ Before taking SEROQUEL XR, tell your healthcare provider if you have or have had
 - liver problems
 - any other medical condition
 - pregnancy or plans to become pregnant.
-  It is not known if SEROQUEL XR will harm your unborn baby.
+  It is not known if SEROQUEL XR will harm your unborn baby
 - breast-feeding or plans to breast-feed.
-  It is not known if SEROQUEL XR will pass into your breast milk.
+  SEROQUEL XR can pass into your breast milk.
   You and your healthcare provider should decide if you will take SEROQUEL XR or breast-feed.
   You should not do both.
 
@@ -107,6 +107,7 @@ Especially tell your healthcare provider if you take or plan to take medicines f
 - high blood pressure
 - Parkinson's disease
 - trouble sleeping
+- abnormal heart beats or rhythm
 
 Also tell your healthcare provider if you take or plan to take any of these medicines:
 
@@ -150,7 +151,7 @@ What should I avoid while taking SEROQUEL XR?
 Do not drive, operate machinery, or do other dangerous activities until you know how SEROQUEL XR affects you.
 SEROQUEL XR may make you drowsy.
 
-- Avoid getting over-heated or dehydrated.
+- Avoid getting overheated or dehydrated.
   - Do not over-exercise.
   - In hot weather, stay inside in a cool place if possible.
   - Stay out of the sun.
@@ -277,7 +278,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35537–07
+SIC 35537–04
 
 Rev.
-5/2011
+07/2011

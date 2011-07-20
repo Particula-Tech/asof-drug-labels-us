@@ -37,7 +37,7 @@ The effect of SEROQUEL XR on labor and delivery in humans is unknown.
 ## 8.3 Nursing Mothers
 
 SEROQUEL XR was excreted into human milk.
-Caution should be exercised when SEROQUEL XR is administered to a nursing woman.
+It is recommended that women receiving SEROQUEL XR should not breast feed.
 
 In published case reports, the level of quetiapine in breast milk ranged from undetectable to 170 μg/L.
 The estimated infant dose ranged from 0.09% to 0.43% of the weight-adjusted maternal dose.

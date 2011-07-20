@@ -41,11 +41,11 @@ Adverse Reactions Occurring at an Incidence of 1% or More Among SEROQUEL XR Trea
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) in 1% or more in patients treated with SEROQUEL XR (doses ranging from 300 to 800 mg/day) where the incidence in patients treated with SEROQUEL XR was greater than the incidence in placebo-treated patients.
 
-Table 11:Treatment-Emergent Adverse Reaction Incidence in 6-Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, and nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
+Table 11: Treatment-Emergent Adverse Reaction Incidence in 6-Week Placebo-Controlled Clinical Trials for the Treatment of SchizophreniaReactions for which the SEROQUEL XR incidence was 1% or more and equal to or less than placebo are not listed in the table, but included the following: headache, insomnia, nausea, vomiting, diarrhea, stomach discomfort, weight increased, diastolic blood pressure decreased, systolic blood pressure decreased, arthralgia, back pain, pain in extremity, extrapyramidal disorder, agitation, psychotic disorder, sleep disorder, nasal congestion, hypertension.
 
 | Cardiac Disorders |  |  |
 | --- | --- | --- |
-| Body System/Preferred Term | PLACEBO | SEROQUEL XR |
+| Body System/Preferred Term | Placebo | SEROQUEL XR |
 |  | (n=319) | (n=951) |
 | Tachycardia | 1% | 3% |
 | Eye Disorders |  |  |
@@ -266,7 +266,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Four methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates parkinsonism and akathisia, (2) Barnes Akathisia Rating Scale (BARS) Global Assessment Score, (3) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (4) use of anticholinergic medications to treat emergent EPS.
+Four methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) Barnes Akathisia Rating Scale (BARS) Global Assessment Score, (3) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (4) use of anticholinergic medications to treat emergent EPS.
 
 Adults: In placebo-controlled clinical trials with quetiapine, utilizing doses up to 800 mg per day, the incidence of any adverse reactions potentially related to EPS ranged from 8% to 11% for quetiapine and 4% to 11% for placebo.
 
@@ -352,7 +352,7 @@ Table 20: Adverse experiences potentially associated with EPS in a short-term pl
 
 | Preferred termThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo (N=90) |  | SEROQUEL 400 mg/day (N=95) |  | SEROQUEL 600 mg/day (N=98) |  | All SEROQUEL(N=193) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| en | % | n | % | n | % | n | % |  |
+| n | % | n | % | n | % | n | % |  |
 | Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
 | Akathisia Patients with the following terms were counted in this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
 | Other extrapyramidal event Patients with the following terms were counted in this category: restlessness; extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
@@ -364,7 +364,7 @@ In a 26-week open-label study that enrolled patients from the above two pediatri
 ## 6.2 Vital Signs and Laboratory Values
 
 Hyperglycemia, hyperlipidemia, weight gain, orthostatic hypotension and changes in thyroid hormone levels have been reported with quetiapine.
-Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.13)].
+Increases in blood pressure have also been reported with quetiapine in children and adolescents [see Warnings and Precautions (5.4, 5.5, 5.6, 5.8, 5.9 and 5.14)].
 
 Laboratory Changes:
 
