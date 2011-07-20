@@ -12,7 +12,7 @@ Some studies do suggest that buspirone may have indirect effects on other neurot
 Buspirone hydrochloride tablets are rapidly absorbed in man and undergo extensive first-pass metabolism.
 In a radiolabeled study, unchanged buspirone in the plasma accounted for only about 1% of the radioactivity in the plasma.
 Following oral administration, plasma concentrations of unchanged buspirone are very low and variable between subjects.
-Peak plasma levels of 1 to 6 ng/mL have been observed 40 to 90 minutes after single oral doses of 20 mg.
+Peak plasma levels of 1 ng/mL to 6 ng/mL have been observed 40 to 90 minutes after single oral doses of 20 mg.
 The single-dose bioavailability of unchanged buspirone when taken as a tablet is on the average about 90% of an equivalent dose of solution, but there is large variability.
 
 The effects of food upon the bioavailability of buspirone hydrochloride tablets have been studied in eight subjects.

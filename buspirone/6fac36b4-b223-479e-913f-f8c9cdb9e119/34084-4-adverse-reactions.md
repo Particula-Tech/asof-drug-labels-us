@@ -63,9 +63,9 @@ TREATMENT-EMERGENT ADVERSE EXPERIENCE INCIDENCE IN PLACEBO-CONTROLLED CLINICAL T
 | Weakness | 2 | - |
 | Sweating/Clamminess | 1 | - |
 
-* Events reported by at least 1% of buspirone patients are included.Events reported by at least 1% of buspirone patients are included
+* Events reported by at least 1% of buspirone patients are included.Events reported by at least 1% of buspirone patients are included.
 
-- Incidence less than 1%.Incidence less than 1%
+- Incidence less than 1%.Incidence less than 1%.
 
 ## Other Events Observed During the Entire Premarketing Evaluation of Buspirone Hydrochloride Tablets
 

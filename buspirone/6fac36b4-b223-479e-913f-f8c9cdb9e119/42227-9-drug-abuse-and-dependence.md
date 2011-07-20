@@ -2,7 +2,7 @@
 
 ## Controlled Substance Class
 
-Buspirone hydrochloride is not a controlled substance
+Buspirone hydrochloride is not a controlled substance.
 
 ## Physical and Psychological Dependence
 

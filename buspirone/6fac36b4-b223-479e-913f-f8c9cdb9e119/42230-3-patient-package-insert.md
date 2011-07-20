@@ -19,12 +19,20 @@ If your doctor prescribed the 15 mg tablet:
 To break a tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown below.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
+Manufactured In Croatia By:
+
+PLIVA HRVATSKA d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
 Rev.
-E 9/2010
+F 2/2011
 
 # PATIENT INFORMATION
 
@@ -47,9 +55,17 @@ If your doctor prescribed the 30 mg tablet:
 To break a tablet accurately and easily, hold the tablet between your thumbs and index fingers close to the appropriate tablet score (groove) as shown below.
 Then, with the tablet score facing you, apply pressure and snap the tablet segments apart (segments breaking incorrectly should not be used).
 
+Manufactured In Croatia By:
+
+PLIVA HRVATSKA d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
 Rev.
-E 9/2010
+F 2/2011

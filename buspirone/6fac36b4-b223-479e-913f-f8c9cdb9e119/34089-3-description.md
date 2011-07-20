@@ -5,6 +5,8 @@ Buspirone hydrochloride tablets USP are an antianxiety agent that is not chemica
 Buspirone hydrochloride is a white crystalline, water soluble compound.
 Chemically, buspirone hydrochloride is N-[4-[4-(2-pyrimidinyl)-1-piperazinyl]butyl]-1,1-cyclopentanediacetamide monohydrochloride, which can be represented by the following structural formula:
 
+- 
+
 C21H31N5O2•HCl M.W.
 421.96
 

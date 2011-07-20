@@ -146,7 +146,7 @@ Coadministration of buspirone with cimetidine was found to increase Cmax (40%) a
 
 ### Protein Binding
 
-In vitro, buspirone does not displace tightly bound drugs like phenytoin, propanolol, and warfarin from serum proteins.
+In vitro, buspirone does not displace tightly bound drugs like phenytoin, propranolol, and warfarin from serum proteins.
 However, there has been one report of prolonged prothrombin time when buspirone was added to the regimen of a patient treated with warfarin.
 The patient was also chronically receiving phenytoin, phenobarbital, digoxin, and levothyroxine sodium.
 In vitro, buspirone may displace less firmly bound drugs like digoxin.

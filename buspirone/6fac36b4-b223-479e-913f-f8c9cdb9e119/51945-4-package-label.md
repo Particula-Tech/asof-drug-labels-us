@@ -4,11 +4,13 @@
 
 NDC 0093-0053-01
 
+New Product Appearance
+
 BusPIRone
 
 HYDROCHLORIDE
 
-Tablets, USP
+Tablets USP
 
 5 mg
 
@@ -24,11 +26,13 @@ TEVA
 
 NDC 0093-0054-01
 
+New Product Appearance
+
 BusPIRone
 
 HYDROCHLORIDE
 
-Tablets, USP
+Tablets USP
 
 10 mg
 
@@ -44,11 +48,13 @@ TEVA
 
 NDC 0093-1003-01
 
+New Product Appearance
+
 BusPIRone
 
 HYDROCHLORIDE
 
-Tablets, USP
+Tablets USP
 
 15 mg
 
@@ -68,17 +74,19 @@ TEVA
 
 NDC 0093-5200-06
 
+New Product Appearance
+
 BusPIRone
 
 HYDROCHLORIDE
 
-Tablets USP, 30 mg
+Tablets USP
 
-PHARMACIST: PLEASE DISPENSE
+30 mg
 
-WITH ATTACHED PATIENT
+PHARMACIST: PLEASE DISPENSE WITH
 
-INFORMATON LEAFLET
+ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
