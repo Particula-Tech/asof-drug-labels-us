@@ -57,25 +57,43 @@ Other CNS Effects
 
 Insomnia, restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations, and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
 
-Body as a Whole: Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with haloperidol (see WARNINGS for further information concerning NMS).
+Body as a Whole
 
-Hematologic Effects: Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
+Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with haloperidol (see WARNINGS for further information concerning NMS).
+
+Hematologic Effects
+
+Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
 Agranulocytosis has rarely been reported to have occurred with the use of haloperidol, and then only in association with other medication.
 
-Liver Effects: Impaired liver function and/or jaundice have been reported.
+Liver Effects
 
-Dermatologic Reactions: Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
+Impaired liver function and/or jaundice have been reported.
 
-Endocrine Disorders: Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
+Dermatologic Reactions
 
-Gastrointestinal Effects: Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
+Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
 
-Autonomic Reactions: Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
+Endocrine Disorders
 
-Respiratory Effects: Laryngospasm, bronchospasm and increased depth of respiration.
+Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
 
-Special Senses: Cataracts, retinopathy and visual disturbances.
+Gastrointestinal Effects
 
-## Postmarketing Events
+Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
+
+Autonomic Reactions
+
+Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
+
+Respiratory Effects
+
+Laryngospasm, bronchospasm and increased depth of respiration.
+
+Special Senses
+
+Cataracts, retinopathy and visual disturbances.
+
+Postmarketing Events
 
 Hyperammonemia has been reported in a 5 ½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with haloperidol.

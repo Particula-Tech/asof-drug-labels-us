@@ -6,6 +6,6 @@ Rx only
 
 The precise mechanism of action has not been clearly established.
 
-45850F
+45850G
 
-Revised: September 2010
+Revised: January 2011

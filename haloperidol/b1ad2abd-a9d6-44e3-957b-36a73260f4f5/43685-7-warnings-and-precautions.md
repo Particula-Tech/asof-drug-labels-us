@@ -7,8 +7,8 @@ Haloperidol Injection is not approved for the treatment of patients with dementi
 
 ## Cardiovascular Effects
 
-Cases of sudden death, QT-prolongation, and Torsade de Pointes have been reported in patients receiving Haloperidol Injection.
-Higher than recommended doses of any formulation and intravenous administration of Haloperidol Injection appear to be associated with a higher risk of QT-prolongation and Torsade de Pointes.
+Cases of sudden death, QT-prolongation, and Torsades de Pointes have been reported in patients receiving Haloperidol Injection.
+Higher than recommended doses of any formulation and intravenous administration of Haloperidol Injection appear to be associated with a higher risk of QT-prolongation and Torsades de Pointes.
 Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QT-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QT, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome).
 HALOPERIDOL INJECTION IS NOT APPROVED FOR INTRAVENUOUS ADMINISTRATION.
 If Haloperidol Injection is administered intravenously, the ECG should be monitored for QT prolongation and arrhythmias.
@@ -33,6 +33,7 @@ The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
+
 (For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS).
 
 ## Neuroleptic Malignant Syndrome (NMS)
@@ -65,6 +66,14 @@ Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
 
+Non-teratogenic Effects
+
+Neonates exposed to antipsychotic drugs, (including Haloperidol), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+
+Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 ## Combined Use of Haloperidol and Lithium
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
@@ -84,6 +93,19 @@ The ambulatory patient should be warned accordingly.
 The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
 
 # PRECAUTIONS
+
+## Leukopenia, Neutropenia, and Agranulocytocis
+
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3 should discontinue haloperidol and have their WBC followed until recovery.
+
+## Other
 
 Haloperidol should be administered cautiously to patients:
 
@@ -109,6 +131,7 @@ In 5 other schizophrenic patients treated with haloperidol and rifampin, discont
 Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
 
 When haloperidol is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
+
 Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
 
 No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay.
@@ -134,16 +157,6 @@ There are reports, however, of cases of limb malformations observed following ma
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
-
-## Pregnancy
-
-Non-teratogenic Effects
-
-Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
-
-Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Pediatric Use
 
