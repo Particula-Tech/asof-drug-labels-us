@@ -8,7 +8,7 @@ Prolonged use of steroids may result in glaucoma, with damage to the optic nerve
 Intraocular pressure should be routinely monitored even though it may be difficult in pediatric patients and uncooperative patients.
 Prolonged use may suppress the host response and thus increase the hazard of secondary ocular infections.
 In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids.
-In acute purulent conditions of the eye, steroids may mask infection or enhance existing infection.
+In acute purulent conditions of the eye, ste roids may mask infection or enhance existing infection.
 
 # PRECAUTIONS
 
@@ -50,12 +50,4 @@ TOBRADEX® (tobramycin and dexamethasone ophthalmic ointment) should be used dur
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when TOBRADEX (tobramycin and dexamethasone ophthalmic ointment) is administered to a nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
-
-## Geriatric Use
-
-No overall clinical differences in safety or effectiveness have been observed between the elderly and other adult patients.
+Because many drugs are excreted in human milk, caution should be exercised when TOBRADEX®(tobramycin and dexamethasone ophthalmic ointment) is administered to a nursing woman.

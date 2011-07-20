@@ -8,8 +8,7 @@ Similar reactions may occur with the topical use of other aminoglycoside antibio
 Other adverse reactions have not been reported; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration.
 The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
 
-## Secondary Infection
-
+Secondary Infection.
 The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials.
 Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids.
 The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used.
