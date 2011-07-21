@@ -2,9 +2,7 @@ PRINCIPAL DISPLAY PANEL - 2.5 mg
 
 NDC 0378-0014-01
 
-METHOTREXATE TABLETS, USP 2.5 mg*
-
-100 TABLETS (Rx only)
+Methotrexate Tablets, USP 2.5 mg* Rx only 100 TABLETS
 
 *Each tablet contains methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.
 
@@ -17,11 +15,13 @@ WARNING: Blood counts should be taken weekly.
 Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea, or marked depression of bone marrow.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.
 
-RM0014A10
+www.mylan.com
+
+RM0014A11
