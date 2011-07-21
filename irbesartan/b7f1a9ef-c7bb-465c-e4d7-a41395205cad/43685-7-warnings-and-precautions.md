@@ -73,6 +73,8 @@ Based on in vitro data, no interaction would be expected with drugs whose metabo
 In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin.
 The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide.
 
+Based on experience with the use of other drugs that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium.
+
 ### Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including irbesartan, may result in deterioration of renal function, including possible acute renal failure.

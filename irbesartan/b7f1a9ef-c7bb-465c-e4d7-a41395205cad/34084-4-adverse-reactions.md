@@ -49,8 +49,14 @@ In this trial, orthostatic symptoms occurred more frequently in the AVAPRO group
 
 ## Post-Marketing Experience
 
-The following have been very rarely reported in post-marketing experience: urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; and hepatitis.
+The following adverse reactions have been identified during post-approval use of AVAPRO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVAPRO.
+
+The following have been very rarely reported: urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); increased liver function tests; jaundice; and hepatitis.
 Hyperkalemia has been rarely reported.
+
+Impaired renal function, including cases of renal failure in patients at risk, has been reported.
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
