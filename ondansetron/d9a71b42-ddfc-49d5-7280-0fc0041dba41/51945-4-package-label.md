@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+Principal Display Panel
 
 NDC 0173-0442-00
 
