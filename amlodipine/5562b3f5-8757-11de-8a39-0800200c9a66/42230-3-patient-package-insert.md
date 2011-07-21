@@ -11,6 +11,7 @@ Talk to your doctor about other treatment options to lower your blood pressure b
 
 What is Tribenzor?
 Tribenzor is a prescription medicine used to lower blood pressure (hypertension).
+Medicines that lower blood pressure lower your chance of having a stroke or heart attack.
 Tribenzor is not for use as the first medicine to treat your high blood pressure.
 
 Tribenzor contains 3 different prescription medications:
@@ -170,7 +171,6 @@ You have high blood pressure when the force is too much.
 
 High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
 Tribenzor can help your blood vessels relax so your blood pressure is lower.
-Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
 Manufactured for Daiichi Sankyo, Inc., Parsippany, New Jersey 07054 Manufactured by Daiichi Sankyo Europe GmbH, Germany
 

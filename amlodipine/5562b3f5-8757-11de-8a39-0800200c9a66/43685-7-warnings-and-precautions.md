@@ -93,7 +93,7 @@ Hyperuricemia may occur or frank gout may be precipitated in certain patients re
 
 In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
 Hyperglycemia may occur with thiazide diuretics.
-The latent diabetes mellitus may become manifest during thiazide therapy.
+Thus, latent diabetes mellitus may become manifest during thiazide therapy.
 
 The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
 

@@ -36,3 +36,5 @@ The blood pressure lowering effects of lower dose strengths of Tribenzor (olmesa
 
 All of the dose strengths of the triple combination are expected to provide superior blood pressure lowering effects compared to their respective mono and dual combination components.
 The order of the blood pressure lowering effects among the different dose strengths of Tribenzor (olmesartan medoxomil /amlodipine /hydrochlorothiazide) is expected to be 20/5/12.5 mg < 40/5/12.5 mg < (40/10/12.5 mg ≈ 40/5/25 mg) < 40/10/25 mg.
+
+There are no trials of Tribenzor demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
