@@ -1,6 +1,8 @@
 # CONTRAINDICATIONS
 
-PAXIL CR should not be used in patients taking monoamine oxidase inhibitors (MAOIs), including linezolid (an antibiotic which is a reversible non-selective MAOI) and methylthioninium chloride (methylene blue), or within 2 weeks of stopping treatment with MAOIs (see WARNINGS).
+The use of MAOIs intended to treat depression with, or within 14 days of treatment with, PAXIL CR is contraindicated (see WARNINGS).
+
+Do not start PAXIL CR in a patient who is being treated with a reversible MAOI such as linezolid or methylene blue because of an increased risk of serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions (see WARNINGS).
 
 Concomitant use with thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
 
