@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019953"
+  ],
   "inn": "heparin",
   "labeler": "B. Braun Medical Inc.",
   "package_ndcs": [
     "0264-9872-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "heparin sodium in sodium chloride",
+      "name": "Heparin Sodium in Sodium Chloride"
+    }
+  ],
   "setid": "a3041c04-0ea8-4d36-81ce-c5091c906316",
   "source": "dailymed"
 }

@@ -2,9 +2,10 @@
 
 Heparin is not intended for intramuscular use.
 
+Do not use Heparin Sodium in 0.9% Sodium Chloride Injection as a “catheter lock flush” product.
+
 ## Fatal Medication Errors
 
-Do not use Heparin Sodium in 0.9% Sodium Chloride Injection as a "catheter lock flush" product.
 Heparin is supplied in a wide range of strengths.
 Fatal hemorrhages have occurred in infants and pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
 Carefully examine all heparin products to ensure that the proper strength is selected for administration.
@@ -39,12 +40,11 @@ If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sod
 
 ## Thrombocytopenia
 
-Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%.
+Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see WARNINGS, Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis, and PRECAUTIONS, General, White Clot Syndrome), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
-If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see WARNINGS, Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 
 ## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
 
@@ -81,11 +81,9 @@ Pediatric patients, including neonates, have died as a result of medication erro
 
 ## General
 
-- a. White Clot Syndrome: It has been reported that patients on heparin may develop new thrombus formation in association with thrombocytopenia resulting from irreversible aggregation of platelets induced by heparin, the so-called "white clot syndrome."
-  The process may lead to severe thromboembolic complications like skin necrosis, gangrene of the extremities that may lead to amputation, myocardial infarction, pulmonary embolism, stroke, and possibly death.
-  Therefore, heparin administration should be promptly discontinued if a patient develops new thrombosis in association with thrombocytopenia.
-- b. Heparin Resistance: Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
-- c.Increased Risk to Older Patients, Especially Women: A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
+1. Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT): (See WARNINGS).
+2. Heparin Resistance: Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
+3. Increased Risk to Older Patients, Especially Women: A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
 
 Clinical evaluation and periodic laboratory determinations are necessary to monitor changes in fluid balance and electrolyte concentrations during prolonged parenteral therapy or whenever the condition of the patient warrants such evaluation.
 

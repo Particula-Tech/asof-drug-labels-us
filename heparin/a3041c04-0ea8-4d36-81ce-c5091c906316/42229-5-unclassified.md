@@ -2,9 +2,9 @@ Do not admix with other drugs.
 
 Rx only
 
-Revised: July 2008
+Revised: September 2010
 
-EXCEL is a registered trademark of B. Braun Medical Inc. Made in USA
+EXCEL is a registered trademark of B. Braun Medical Inc.
 
 # Directions for Use of EXCEL® Container
 
@@ -30,10 +30,6 @@ Preparation for Administration
 2. Attach administration set.
    Refer to complete directions accompanying set.
 
-B. Braun Medical Inc. Irvine, CA USA 92614-5895
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
 
-In Canada, distributed by: B. Braun Medical Inc. Scarborough, Ontario M1H 2W4
-
-© 2008 B. Braun Medical Inc.
-
-Y36-002-661
+Y36-002-763 LD-240-1
