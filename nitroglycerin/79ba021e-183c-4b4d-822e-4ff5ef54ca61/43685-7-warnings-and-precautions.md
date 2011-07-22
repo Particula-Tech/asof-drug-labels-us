@@ -9,7 +9,7 @@ If one elects to use nitroglycerin in these conditions, careful clinical or hemo
 
 Only the smallest dose required for effective relief of the acute anginal attack should be used.
 Excessive use may lead to the development of tolerance.
-Nitrostat tablets are intended for sublingual or buccal administration and should not be swallowed.
+NITROSTAT tablets are intended for sublingual or buccal administration and should not be swallowed.
 
 Severe hypotension, particularly with upright posture, may occur with small doses of nitroglycerin.
 This drug should therefore be used with caution in patients who may be volume-depleted or who, for whatever reason, are already hypotensive.
@@ -22,7 +22,7 @@ As tolerance to other forms of nitroglycerin develops, the effects of sublingual
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance rarely occurs.
 Chest pain, acute myocardial infraction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
 
-Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens which incorporated a 10 to 12 hour nitrate free interval.
+Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens which incorporated a 10- to 12-hour nitrate free interval.
 In some of these trials, an increase in the frequency of anginal attacks during the nitrate free interval was observed in a small number of patients.
 In one trial, patients had decreased exercise tolerance at the end of the nitrate interval.
 Hemodynamic rebound has been observed only rarely; on the other hand, few studies were so designed that rebound, if it had occurred, would have been detected.
@@ -35,8 +35,17 @@ Excessive dosage of nitroglycerin may produce severe headaches.
 
 ## Information for Patients
 
-If possible, patients should sit down when taking Nitrostat tablets.
+NITROSTAT is a sublingual tablet and should not be chewed, crushed, or swallowed.
+
+If possible, patients should sit down when taking NITROSTAT tablets and should use caution when returning to a standing position.
 This eliminates the possibility of falling due to lightheadedness or dizziness.
+
+One tablet should be dissolved under the tongue or in the buccal pouch at the first sign of an acute anginal attack.
+The dose may be repeated approximately every 5 minutes, until relief is obtained.
+
+If chest pain persists after a total of 3 tablets in a 15-minute period, or the pain is different than is typically experienced, prompt medical attention is recommended.
+
+Nitrostat may be used prophylactically 5 to 10 minutes prior to engaging in activities which might precipitate an acute attack.
 
 Nitroglycerin may produce a burning or tingling sensation when administered sublingually; however, the ability to produce a burning or tingling sensation should not be considered a reliable method for determining the potency of the tablets.
 
@@ -46,7 +55,7 @@ In patients who get these headaches, the headaches may be a marker of the activi
 Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
 
-Nitroglycerin should be kept in the original glass container, tightly capped.
+Nitroglycerin should be kept in the original glass container and must be tightly capped after each use to prevent loss of tablet potency.
 
 ## Drug Interactions
 
@@ -78,21 +87,21 @@ A decrease in therapeutic effect of sublingual nitroglycerin may result from use
 
 ## Drug/Laboratory test Interactions
 
-Nitrates may interfere with the Zlatkis-Zak color reaction causing a false report of decreased serum cholesterol.
+Nitrates may interfere with the Zlatkis-Zak color reaction, causing a false report of decreased serum cholesterol.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Animal carcinogenesis studies with sublingually administered nitroglycerin have not been performed.
 
 Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
-At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33% compared to 0% in untreated controls.
+At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33%, compared to 0% in untreated controls.
 Incidences of testicular tumors were 52% vs 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was weakly mutagenic in Ames tests performed in 2 different laboratories.
 Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog tissues.
 
-In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
+In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation, with treatment continuing through successive F1 and F2 generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
 No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
@@ -118,6 +127,6 @@ The safety and effectiveness of nitroglycerin in pediatric patients have not bee
 
 ## Geriatric Use
 
-Clinical studies of Nitrostat did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of NITROSTAT did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

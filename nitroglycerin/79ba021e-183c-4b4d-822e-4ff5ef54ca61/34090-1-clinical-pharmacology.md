@@ -6,7 +6,7 @@ Dilation of postcapillary vessels, including large veins, promotes peripheral po
 Nitroglycerin also produces arteriolar relaxation, thereby reducing peripheral vascular resistance and arterial pressure (afterload), and dilates large epicardial coronary arteries; however, the extent to which this latter effect contributes to the relief of exertional angina is unclear.
 
 Therapeutic doses of nitroglycerin may reduce systolic, diastolic, and mean arterial blood pressure.
-Effective coronary perfusion pressure is usually maintained, but can be compromised if blood pressure falls excessively or increased heart rate decreases diastolic filling time.
+Effective coronary perfusion pressure is usually maintained, but can be compromised if blood pressure falls excessively, or increased heart rate decreases diastolic filling time.
 
 Elevated central venous and pulmonary capillary wedge pressures, and pulmonary and systemic vascular resistance are also reduced by nitroglycerin therapy.
 Heart rate is usually slightly increased, presumably due to a compensatory response to the fall in blood pressure.
@@ -23,18 +23,18 @@ These events lead to dephosphorylation of myosin light chains, which regulate th
 ## Pharmacodynamics
 
 Consistent with the symptomatic relief of angina, digital plethysmography indicates that onset of the vasodilatory effect occurs approximately 1 to 3 minutes after sublingual nitroglycerin administration and reaches a maximum by 5 minutes postdose.
-Effects persist for at least 25 minutes following Nitrostat administration.
+Effects persist for at least 25 minutes following NITROSTAT administration.
 
 ## Pharmacokinetics and Drug Metabolism Absorption
 
-Nitroglycerin is rapidly absorbed following sublingual administration of Nitrostat tablets.
+Nitroglycerin is rapidly absorbed following sublingual administration of NITROSTAT tablets.
 Mean peak nitroglycerin plasma concentrations occur at a mean time of approximately 6 to 7 minutes postdose (Table 1).
-Maximum plasma nitroglycerin concentrations (Cmax) and area under the plasma concentration-time curves (AUC) increase dose-proportionally following 0.3 to 0.6 mg Nitrostat.
-The absolute bioavailability of nitroglycerin from Nitrostat tablets is approximately 40% but tends to be variable due to factors influencing drug absorption such as sublingual hydration and mucosal metabolism.
+Maximum plasma nitroglycerin concentrations (Cmax) and area under the plasma concentration-time curves (AUC) increase dose-proportionally following 0.3 to 0.6 mg NITROSTAT.
+The absolute bioavailability of nitroglycerin from NITROSTAT tablets is approximately 40% but tends to be variable due to factors influencing drug absorption, such as sublingual hydration and mucosal metabolism.
 
 Table 1
 
-| Parameter | Nitrostat Tablets | Nitrostat Tablets |
+| Parameter | NITROSTAT Tablets | NITROSTAT Tablets |
 | --- | --- | --- |
 |  | Mean Nitroglycerin (SD) Values |  |
 |  | 2 × 0.3 mg | 1 × 0.6 mg |
@@ -55,13 +55,13 @@ Known sites of extrahepatic metabolism include red blood cells and vascular wall
 In addition to nitroglycerin, 2 major metabolites 1,2- and 1,3-dinitroglycerin, are found in plasma.
 Mean peak 1,2- and 1,3-dinitroglycerin plasma concentrations occur at approximately 15 minutes postdose.
 The elimination half-life of 1,2- and 1,3-dinitroglycerin is 36 and 32 minutes, respectively.
-The 1,2- and 1,3 dinitroglycerin metabolites have been reported to possess approximately 2% and 10% of the pharmacological activity of nitroglycerin.
+The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess approximately 2% and 10%, respectively, of the pharmacological activity of nitroglycerin.
 Higher plasma concentrations of the dinitro metabolites, along with their nearly 10-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 Glycerol mononitrate metabolites of nitroglycerin are biologically inactive.
 
 ## Elimination
 
-Nitroglycerin plasma concentrations decrease rapidly with a mean elimination half-life of 2 to 3 minutes.
+Nitroglycerin plasma concentrations decrease rapidly, with a mean elimination half-life of 2 to 3 minutes.
 Half-life values range from 1.5 to 7.5 minutes.
 Clearance (13.6 L/min) greatly exceeds hepatic blood flow.
 Metabolism is the primary route of drug elimination.

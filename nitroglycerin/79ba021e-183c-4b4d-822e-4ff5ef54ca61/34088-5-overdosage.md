@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
-HEMODYNAMIC EFFECTS: The effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
-These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; tachycardia; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); dyspnea, later followed by reduced ventilatory effort, diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
+Hemodynamic Effects: The effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
+These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; tachycardia; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
 
 No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose.
 Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume.
@@ -12,7 +12,7 @@ The use of epinephrine or other arterial vasoconstrictors in this setting is lik
 In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard.
 Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
 
-METHEMOGLOBINEMIA: Methemoglobinemia has been rarely reported in association with organic nitrates.
+Methemoglobinemia: Methemoglobinemia has been rarely reported in association with organic nitrates.
 The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial PO2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
