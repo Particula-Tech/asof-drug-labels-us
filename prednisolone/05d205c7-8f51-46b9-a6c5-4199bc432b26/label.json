@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017469"
+  ],
   "inn": "prednisolone",
-  "labeler": "FALCON Pharmaceuticals Ltd.",
+  "labeler": "Falcon Pharmaceuticals",
   "package_ndcs": [
     "61314-637-05",
     "61314-637-10",
     "61314-637-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "prednisolone acetate",
+      "name": "Prednisolone Acetate"
+    }
+  ],
   "setid": "05d205c7-8f51-46b9-a6c5-4199bc432b26",
   "source": "dailymed"
 }

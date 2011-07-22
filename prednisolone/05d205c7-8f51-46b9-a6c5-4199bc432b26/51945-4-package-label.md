@@ -1,0 +1,25 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 61314-637-10 Rx Only
+
+FALCON
+
+PHARMACEUTICALS®
+
+Prednisolone
+
+Acetate
+
+Ophthalmic
+
+Suspension USP
+
+1%
+
+10 mL STERILE
+
+AFFILATE OF QUALITY RX
+
+ALCON
+
+LABORATORIES, INC.
