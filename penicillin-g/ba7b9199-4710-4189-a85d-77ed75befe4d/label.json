@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050138"
+  ],
+  "inn": "penicillin-g",
+  "labeler": "King Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "60793-602-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "penicillin g benzathine and penicillin g procaine",
+      "name": "BICILLIN C-R 900/300"
+    }
+  ],
+  "setid": "ba7b9199-4710-4189-a85d-77ed75befe4d",
+  "source": "dailymed"
+}
