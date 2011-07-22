@@ -135,7 +135,7 @@ Tell your healthcare provider if you are taking any of the following medicines:
 | HMG-CoA Reductase Inhibitors (also known as statins) (to lower cholesterol levels) | atorvastatin (Lipitor®) pravastatin (Pravachol®) rosuvastatin (Crestor®) |
 | Immunosuppressants (to prevent organ transplant rejection) | cyclosporine (Sandimmune®, Neoral®) tacrolimus (Prograf®) sirolimus (Rapamune®) |
 | Inhaled beta agonist | salmeterol (Serevent®) |
-| Narcotic Analgesics/Treatment of Opioid Dependence (to treat narcotic withdrawal and dependence) | Methadone buprenorphine buprenorphine/naloxone |
+| Narcotic Analgesics/Treatment of Opioid Dependence (to treat narcotic withdrawal and dependence) | methadone buprenorphine buprenorphine/naloxone |
 | Neuroleptics (to treat schizophrenia or bipolar disorder) | risperidone (Risperdal®, Risperdal® Consta®, Risperdal® M-TAB®) thioridazine |
 | PDE-5 Inhibitors (to treat erectile dysfunction) | sildenafil (Viagra®) vardenafil (Levitra®) tadalafil (Cialis®) |
 | PDE-5 Inhibitors (to treat pulmonary arterial hypertension) | tadalafil (Adcirca®) |
