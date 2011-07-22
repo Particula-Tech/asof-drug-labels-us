@@ -1,59 +1,15 @@
-Dilaudid
+Box of ten 1 mg/mL ampules NDC 59011-441-10
 
-hydromorphone HCl Injection
+Box of ten 2 mg/mL ampules NDC 59011-442-10
 
-1 mg/mL
+Box of ten 4 mg/mL ampules NDC 59011-444-10
 
-NDC: 59011-441-10
+Box of ten 1mL (10 mg) ampules NDC 59011-445-01
 
-Dilaudid
+One 50 mL (500 mg) single-dose vial with black rubber stopper and white flip-top/tear-off seal.
+NDC 59011-445-50
 
-hydromorphone HCl Injection
+Box of ten 5mL (50 mg) ampules NDC 59011-445-05
 
-2 mg/mL
-
-NDC: 59011-442-10
-
-Dilaudid
-
-hydromorphone HCl Injection
-
-4 mg/mL
-
-NDC: 59011-444-10
-
-Dilaudid
-
-hydromorphone HCl Injection
-
-10 mg/mL
-
-NDC: 59011-445-01
-
-Dilaudid-HP
-
-hydromorphone HCl Injection
-
-10 mg/mL
-
-5 mL ampule
-
-NDC: 59011-445-05
-
-Dilaudid-HP
-
-hydromorphone HCl Injection
-
-10 mg/mL
-
-50 mL ampule
-
-NDC: 59011-445-50
-
-Dilaudid-HP
-
-hydromorphone HCl Injection
-
-Sterile Lyophilized Powder 250 mg
-
-NDC: 59011-446-25
+One 250 mg single-dose vial with black rubber stopper and black flip-top seal.
+NDC 59011-446-25

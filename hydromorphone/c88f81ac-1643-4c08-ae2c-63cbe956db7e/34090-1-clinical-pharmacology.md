@@ -1,28 +1,25 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Hydromorphone hydrochloride is a pure opioid agonist with the principal therapeutic activity of analgesia.
-A significant feature of the analgesia is that it can occur without loss of consciousness.
-Opioid analgesics also suppress the cough reflex and may cause respiratory depression, mood changes, mental clouding, euphoria, dysphoria, nausea, vomiting and electroencephalographic changes.
-Many of the effects described below are common to the class of mu-opioid analgesics, which includes morphine, oxycodone, hydrocodone, codeine, and fentanyl.
-In some instances, data may not exist to demonstrate that DILAUDID INJECTION and DILAUDID-HP possess similar or different effects than those observed with other opioid analgesics.
-However, in the absence of data to the contrary, it is assumed that DILAUDID INJECTION and DILAUDID-HP would possess these effects.
-
-## Central Nervous System
+## 12.1 Mechanism of Action
 
 The precise mode of analgesic action of opioid analgesics is unknown.
 However, specific CNS opiate receptors have been identified.
 Opioids are believed to express their pharmacological effects by combining with these receptors.
 
-Hydromorphone depresses the cough reflex by direct effect on the cough center in the medulla.
+Hydromorphone hydrochloride is a mu-opioid receptor agonist whose principal therapeutic action is analgesia.
+Other members of the class known as opioid agonists include substances such as morphine, oxycodone, fentanyl, codeine, hydrocodone, and oxymorphone.
+
+Central Nervous System
+
+Pharmacological effects of opioid agonists include anxiolysis, euphoria, feelings of relaxation, and cough suppression, as well as analgesia.
 
 Hydromorphone produces respiratory depression by direct effect on brain stem respiratory centers.
 The mechanism of respiratory depression also involves a reduction in the responsiveness of the brain stem respiratory centers to increases in carbon dioxide tension.
 
 Hydromorphone causes miosis.
-Pinpoint pupils are a common sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in the setting of DILAUDID INJECTION or DILAUDID-HP overdose.
+Pinpoint pupils are a common sign of opioid overdose but are not pathognomonic (pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
 
-## Gastrointestinal Tract and Other Smooth Muscle
+Gastrointestinal Tract and Other Smooth Muscle
 
 Gastric, biliary and pancreatic secretions are decreased by opioids such as hydromorphone.
 Hydromorphone causes a reduction in motility associated with an increase in tone in the gastric antrum and duodenum.
@@ -31,63 +28,77 @@ Propulsive peristaltic waves in the colon are decreased, and tone may be increas
 The end result is constipation.
 Hydromorphone can cause a marked increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
 
-## Cardiovascular System
+Cardiovascular System
 
 Hydromorphone may produce hypotension as a result of either peripheral vasodilation, release of histamine, or both.
 Other manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, and red eyes.
 
 Effects on the myocardium after intravenous administration of opioids are not significant in normal persons, vary with different opioid analgesic agents and vary with the hemodynamic state of the patient, state of hydration and sympathetic drive.
 
-## Pharmacokinetics and Metabolism
+Endocrine System
 
-### Distribution
+Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes.
+Some changes that can be seen include an increase in serum prolactin, and decreases in plasma cortisol and testosterone.
+Clinical signs and symptoms may be manifest from these hormonal changes.
+
+Immune System
+
+In vitro and animal studies indicate that opioids have a variety of effects on immune functions.
+The clinical significance of these findings is unknown.
+
+## 12.2 Pharmacokinetics
+
+Distribution
 
 At therapeutic plasma levels, hydromorphone is approximately 8-19% bound to plasma proteins.
-After an intravenous bolus dose, the steady state of volume of distribution [mean (%cv)] is 302.9 (32%) liters.
+After an intravenous bolus dose, the steady state of volume of distribution [mean (%CV)] is 302.9 (32%) liters.
 
-### Metabolism
+Metabolism
 
 Hydromorphone is extensively metabolized via glucuronidation in the liver, with greater than 95% of the dose metabolized to hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 
-### Elimination
+Elimination
 
 Only a small amount of the hydromorphone dose is excreted unchanged in the urine.
 Most of the dose is excreted as hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 The systemic clearance is approximately 1.96 (20%) liters/minute.
 The terminal elimination half-life of hydromorphone after an intravenous dose is about 2.3 hours.
 
-### Special Populations
+Special Populations
 
-#### Hepatic Impairment
+Hepatic Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg Dilaudid IR Tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4 fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
-Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at a lower dose and closely monitored during dose titration.
+After oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
+Patients with moderate hepatic impairment should be started at one-fourth to one-half the recommended starting dose and closely monitored during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
-A further increase in Cmax and AUC of hydromorphone in this group is expected.
-As such, the starting dose should be even more conservative (see DOSAGE AND ADMINISTRATION).
+A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see USE IN SPECIFIC POPULATIONS (8.7)].
 
-#### Renal Impairment
+Renal Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg Dilaudid IR Tablets), mean exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold, in moderate (CLcr = 40 - 60 mL/min) renal impairment and 3-fold in severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
-In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Patients with moderate renal impairment should be started on a lower dose.
-Starting doses for patients with severe renal impairment should be even lower.
-Patients with renal impairment should be closely monitored during dose titration (see DOSAGE AND ADMINISTRATION).
+The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
+Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2-fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
+Patients with renal impairment should be closely monitored during dose titration [see USE IN SPECIFIC POPULATIONS (8.6)].
 
-#### Pediatrics
+Pediatrics
 
 Pharmacokinetics of hydromorphone have not been evaluated in children.
 
-#### Geriatric
+Geriatric
 
-The effect of age on the pharmacokinetics of hydromorphone has not been adequately evaluated.
+In the geriatric population, age has no effect on the pharmacokinetics of hydromorphone.
 
-#### Gender
+Gender
 
 Gender has little effect on the pharmacokinetics of hydromorphone.
 Females appear to have a higher Cmax (25%) than males with comparable AUC0-24 values.
 The difference observed in Cmax may not be clinically relevant.
 
-#### Pregnancy and Nursing Mothers
+Race
+
+The effect of race on hydromorphone pharmacokinetics has not been studied.
+
+Pregnancy and Nursing Mothers
 
 Hydromorphone crosses the placenta.
 Hydromorphone is also found in low levels in breast milk, and may cause respiratory compromise in newborns when administered during labor or delivery.
