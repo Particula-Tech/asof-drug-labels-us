@@ -2,7 +2,9 @@
 
 See Medication Guide.
 
-Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin, or eyes look yellow; dark urine; vomiting; abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately [see Warnings and Precautions (5.1)].
+Patients should be informed that liver problems including life-threatening cases have been reported with SELZENTRY.
+Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin, or eyes look yellow; dark urine; vomiting; abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
+Patients should understand that laboratory tests for liver enzymes and bilirubin will be ordered prior to starting SELZENTRY, at other times during treatment, and if they develop severe rash or signs and symptoms of hepatitis or an allergic reaction on treatment [see Warnings and Precautions (5.1)].
 
 Patients should be informed that SELZENTRY is not a cure for HIV infection and patients may still develop illnesses associated with HIV infection, including opportunistic infections.
 The use of SELZENTRY has not been shown to reduce the risk of transmission of HIV to others through sexual contact, sharing needles, or blood contamination.
@@ -42,6 +44,6 @@ Freiburg, Germany
 ©2011, ViiV Healthcare.
 All rights reserved.
 
-June 2011
+July 2011
 
-SEL: 3PI
+SEL: 4PI

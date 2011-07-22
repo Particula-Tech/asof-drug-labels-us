@@ -145,7 +145,7 @@ Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Caus
 | Joint-related signs and symptoms | 6 | 5 |
 | Nervous System Disorders |  |  |
 | Memory loss (excluding dementia) | 3 | 1 |
-| Paresthesias and dyesthesias | 4 | 3 |
+| Paresthesias and dysesthesias | 4 | 3 |
 | Renal and Urinary Disorders |  |  |
 | Bladder and urethral symptoms | 4 | 3 |
 | Reproductive System and Breast Disorders |  |  |

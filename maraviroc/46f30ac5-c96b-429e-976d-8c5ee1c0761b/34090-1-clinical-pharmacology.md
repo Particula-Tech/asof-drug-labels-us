@@ -197,13 +197,13 @@ Development of Resistance to Maraviroc or Efavirenz and Background Drugs in Anti
 
 |  | Maraviroc | Efavirenz |
 | --- | --- | --- |
-| Total N in Dataset (As-Treated) | 273 | 241 |
-| Total Virologic Failures (As-Treated) | 85 (31%) | 56 (23%) |
-| Evaluable Virologic Failures With Post Baseline Genotypic and Phenotypic Data | 73 | 43 |
-| Lamivudine Resistance | 39 (53%) | 13 (30%) |
-| Zidovudine Resistance | 2 (3%) | 0 |
-| Efavirenz Resistance | -- | 23 (53%) |
-| Phenotypic Resistance to MVCa | 19 (26 %) |  |
+| Total N in dataset (as-treated) | 273 | 241 |
+| Total virologic failures (as-treated) | 85 (31%) | 56 (23%) |
+| Evaluable virologic failures with post baseline genotypic and phenotypic data | 73 | 43 |
+| Lamivudine resistance | 39 (53%) | 13 (30%) |
+| Zidovudine resistance | 2 (3%) | 0 |
+| Efavirenz resistance | -- | 23 (53%) |
+| Phenotypic resistance to maraviroca | 19 (26 %) |  |
 
 aIncludes subjects failing with CXCR4- or dual/mixed-tropism because these viruses are not intrinsically susceptible to maraviroc.
 

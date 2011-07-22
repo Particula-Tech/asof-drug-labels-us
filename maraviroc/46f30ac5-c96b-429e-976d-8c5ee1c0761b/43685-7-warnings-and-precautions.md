@@ -2,12 +2,17 @@
 
 ## 5.1 Hepatotoxicity
 
-A case of possible hepatotoxicity with allergic features induced by SELZENTRY has been reported in a study of healthy volunteers.
+Hepatotoxicity with allergic features including life-threatening events has been reported in clinical trials and postmarketing.
+Severe rash or evidence of systemic allergic reaction including drug-related rash with fever, eosinophilia, elevated IgE, or other systemic symptoms have been reported in conjunction with hepatotoxicity.
+These events occurred approximately 1 month after starting treatment.
+Among reported cases of hepatitis, some were observed in the absence of allergic features or with no pre-existing hepatic disease.
+
+Appropriate laboratory testing including ALS, AST, and bilirubin should be conducted prior to initiating therapy with SELZENTRY and at other time points during treatment as clinically indicated.
+Hepatic laboratory parameters should be obtained in any patient who develops rash, or signs or symptoms of hepatitis, or allergic reaction.
 Discontinuation of SELZENTRY should be considered in any patient with signs or symptoms of hepatitis, or with increased liver transaminases combined with rash or other systemic symptoms.
 
-The safety and efficacy of SELZENTRY have not been specifically studied in patients with significant underlying liver disorders.
+Caution should be used when administering SELZENTRY to patients with pre-existing liver dysfunction or who are coinfected with viral hepatitis B or C. The safety and efficacy of SELZENTRY have not been specifically studied in patients with significant underlying liver disorders.
 In studies of treatment-experienced HIV-infected subjects, approximately 6% of subjects were co-infected with hepatitis B and approximately 6% were co-infected with hepatitis C. Due to the small number of co-infected subjects studied, no conclusions can be drawn regarding whether they are at an increased risk for hepatic adverse events with administration of SELZENTRY.
-However, caution should be used when administering SELZENTRY to patients with pre-existing liver dysfunction or who are co-infected with viral hepatitis B or C.
 
 ## 5.2 Cardiovascular Events
 

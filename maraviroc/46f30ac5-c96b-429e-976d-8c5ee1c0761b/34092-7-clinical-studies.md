@@ -32,19 +32,19 @@ Demographic and Baseline Characteristics of Subjects in Studies A4001027 and A40
 | Region |  |  |
 | U.S. | 276 (64.8%) | 135 (64.6%) |
 | Non-U.S. | 150 (35.2%) | 74 (35.4%) |
-| Subjects with Previous Enfuvirtide Use | 142 (33.3%) | 62 (29.7) |
-| Subjects with Enfuvirtide as Part of OBT | 182 (42.7%) | 91 (43.5%) |
-| Baseline Plasma HIV-1 RNA (log10 copies/mL)Mean (range) | 4.85 (2.96-6.88) | 4.86 (3.46-7.07) |
-| Subjects with ScreeningViral Load >100,000 copies/mL | 179 (42.0%) | 84 (40.2%) |
-| Baseline CD4+ Cell Count (cells/mm3) Median (Range) | 167 (2-820) | 171 (1-675) |
-| Subjects with Baseline CD4+ Cell Count ≤200 cells/mm3) | 250 (58.7%) | 118 (56.5%) |
+| Subjects with previous enfuvirtide use | 142 (33.3%) | 62 (29.7%) |
+| Subjects with enfuvirtide as part of OBT | 182 (42.7%) | 91 (43.5%) |
+| Baseline plasma HIV-1 RNA (log10 copies/mL)Mean (range) | 4.85 (2.96-6.88) | 4.86 (3.46-7.07) |
+| Subjects with screeningviral load >100,000 copies/mL | 179 (42.0%) | 84 (40.2%) |
+| Baseline CD4+ cell count (cells/mm3) Median (range) | 167 (2-820) | 171 (1-675) |
+| Subjects with baseline CD4+ cell count ≤200 cells/mm3) | 250 (58.7%) | 118 (56.5%) |
 | Subjects with Overall Susceptibility Score (OSS):a |  |  |
 | 0 | 57 (13.4%) | 35 (16.7%) |
 | 1 | 136 (31.9%) | 44 (21.1%) |
 | 2 | 104 (24.4%) | 59 (28.2%) |
 | ≥3 | 125 (29.3%) | 66 (31.6%) |
-| Subjects with Enfuvirtide Resistance Mutations | 90 (21.2%) | 45 (21.5%) |
-| Median Number of Resistance-Associated:b |  |  |
+| Subjects with enfuvirtide resistance mutations | 90 (21.2%) | 45 (21.5%) |
+| Median number of resistance-associated:b |  |  |
 | PI mutations | 10 | 10 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 6 | 6 |
@@ -64,8 +64,8 @@ Outcomes of Randomized Treatment at Week 48 Studies A4001027 and A4001028
 | <400 copies/mL at Week 48 | 239 (56%) | 47 (22%) | 34% |
 | <50 copies/mL at Week 48 | 194 (46%) | 35 (17%) | 29% |
 | Discontinuations |  |  |  |
-| Insufficient Clinical Response | 97 (23%) | 113 (54%) |  |
-| Adverse Events | 19 (4%) | 11 (5%) |  |
+| Insufficient clinical response | 97 (23%) | 113 (54%) |  |
+| Adverse events | 19 (4%) | 11 (5%) |  |
 | Other | 27 (6%) | 18 (9%) |  |
 | Subjects with treatment-emergent CDC Category C events | 22 (5%) | 16 (8%) |  |
 | Deaths (during study or within 28 days of last dose) | 9 (2%)a | 1 (0.5%) |  |
@@ -109,8 +109,8 @@ Demographic and Baseline Characteristics of Subjects in Study A4001026
 | Black | 123 (34) | 133 (37) |
 | Asian | 6 (2) | 5 (1) |
 | Other | 27 (8) | 25 (7) |
-| Median (Range) CD4+ cell count (cells/µL) | 241 (5-1,422) | 254 (8-1,053) |
-| Median (Range) HIV-1 RNA (log10 copies/mL | 4.9 (3-7) | 4.9 (3-7) |
+| Median (range) CD4+ cell count (cells/µL) | 241 (5-1,422) | 254 (8-1,053) |
+| Median (range) HIV-1 RNA (log10 copies/mL | 4.9 (3-7) | 4.9 (3-7) |
 
 The treatment outcomes at 96 weeks for Study A4001026 are shown in Table 15.
 Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, Enhanced sensitivity TROFILE HIV tropism assay, which became available after the Week 48 analysis, approximately 15% of the subjects identified as CCR5-tropic in the original analysis had dual/mixed- or CXCR4-tropic virus.
