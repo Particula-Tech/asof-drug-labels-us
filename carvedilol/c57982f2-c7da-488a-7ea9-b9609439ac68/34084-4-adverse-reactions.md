@@ -184,6 +184,12 @@ No clinically relevant changes were noted in fasting serum glucose in hypertensi
 The following adverse reactions have been identified during post-approval use of COREG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Reports of aplastic anemia and severe skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme) have been rare.
-Rare reports of hypersensitivity reactions (e.g., anaphylactic reaction, angioedema, and urticaria) have been received for COREG and COREG CR®, including cases occurring after the initiation of COREG CR in patients previously treated with COREG.
-Urinary incontinence in women (which resolved upon discontinuation of the medication) and interstitial pneumonitis have been reported rarely.
+Blood and Lymphatic System Disorders: Aplastic anemia.
+
+Immune System Disorders: Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
+
+Renal and Urinary Disorders: Urinary incontinence.
+
+Respiratory, Thoracic and Mediastinal Disorders: Interstitial pneumonitis.
+
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.

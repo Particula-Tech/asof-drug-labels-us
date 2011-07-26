@@ -39,9 +39,9 @@ Manati, PR 00674 USA
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-February 2011
+July 2011
 
-CRG:21PI
+CRG:22PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
