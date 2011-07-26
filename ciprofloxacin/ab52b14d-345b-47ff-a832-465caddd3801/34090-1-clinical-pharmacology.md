@@ -1,14 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
-## Systemic Absorption
-
-A systemic absorption study was performed in which Ciprofloxacin Hydrochloride Ophthalmic Solution was administered in each eye every two hours while awake for two days followed by every four hours while awake for an additional 5 days.
+Systemic Absorption: A systemic absorption study was performed in which Ciprofloxacin Hydrochloride Ophthalmic Solution was administered in each eye every two hours while awake for two days followed by every four hours while awake for an additional 5 days.
 The maximum reported plasma concentration of ciprofloxacin was less than 5 ng/mL.
 The mean concentration was usually less than 2.5 ng/mL.
 
-## Microbiology
-
-Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
+Microbiology: Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase which is needed for the synthesis of bacterial DNA.
 
 Ciprofloxacin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections.
@@ -16,65 +12,107 @@ Ciprofloxacin has been shown to be active against most strains of the following 
 
 Gram-Positive:
 
-- Staphylococcus aureus
-- Staphylococcus epidermidis
-- Streptococcus pneumoniae
-- Streptococcus (Viridans Group)
+Staphylococcus aureus
+
+Staphylococcus epidermidis
+
+Streptococcus pneumoniae
+
+Streptococcus (Viridans Group)
 
 Gram-Negative:
 
-- Haemophilus influenzae
-- Pseudomonas aeruginosa
-- Serratia marcescens
+Haemophilus influenzae
+
+Pseudomonas aeruginosa
+
+Serratia marcescens
 
 Ciprofloxacin has been shown to be active in vitro against most strains of the following organisms, however, the clinical significance of these data is unknown:
 
 Gram-Positive:
 
-- Enterococcus faecalis (Many strains are only moderately susceptible)
-- Staphylococcus haemolyticus
-- Staphylococcus hominis
-- Staphylococcus saprophyticus
-- Streptococcus pyogenes
+Enterococcus faecalis (Many strains are only moderately susceptible)
+
+Staphylococcus haemolyticus
+
+Staphylococcus hominis
+
+Staphylococcus saprophyticus
+
+Streptococcus pyogenes
 
 Gram-Negative:
 
-- Acinetobacter calcoaceticus subsp. anitratus
-- Aeromonas caviae
-- Aeromonas hydrophila
-- Brucella melitensis
-- Campylobacter coli
-- Campylobacter jejuni
-- Citrobacter diversus
-- Citrobacter freundii
-- Edwardsiella tarda
-- Enterobacter aerogenes
-- Enterobacter cloacae
-- Escherichia coli
-- Haemophilus ducreyi
-- Haemophilus parainfluenzae
-- Klebsiella pneumoniae
-- Klebsiella oxytoca
-- Legionella pneumophila
-- Moraxella (Branhamella) catarrhalis
-- Morganella morganii
-- Neisseria gonorrhoeae
-- Neisseria meningitidis
-- Pasteurella multocida
-- Proteus mirabilis
-- Proteus vulgaris
-- Providencia rettgeri
-- Providencia stuartii
-- Salmonella enteritidis
-- Salmonella typhi
-- Shigella sonneii
-- Shigella flexneri
-- Vibrio cholerae
-- Vibrio parahaemolyticus
-- Vibrio vulnificus
-- Yersinia enterocolitica
+Acinetobacter calcoaceticus subsp. anitratus
 
-Other Organisms:Chlamydia trachomatis (only moderately susceptible) and Mycobacterium tuberculosis (only moderately susceptible).
+Aeromonas caviae
+
+Aeromonas hydrophila
+
+Brucella melitensis
+
+Campylobacter coli
+
+Campylobacter jejuni
+
+Citrobacter diversus
+
+Citrobacter freundii
+
+Edwardsiella tarda
+
+Enterobacter aerogenes
+
+Enterobacter cloacae
+
+Escherichia coli
+
+Haemophilus ducreyi
+
+Haemophilus parainfluenzae
+
+Klebsiella pneumoniae
+
+Klebsiella oxytoca
+
+Legionella pneumophila
+
+Moraxella (Branhamella) catarrhalis
+
+Morganella morganii
+
+Neisseria gonorrhoeae
+
+Neisseria meningitidis
+
+Pasteurella multocida
+
+Proteus mirabilis
+
+Proteus vulgaris
+
+Providencia rettgeri
+
+Providencia stuartii
+
+Salmonella enteritidis
+
+Salmonella typhi
+
+Shigella sonneii
+
+Shigella flexneri
+
+Vibrio cholerae
+
+Vibrio parahaemolyticus
+
+Vibrio vulnificus
+
+Yersinia enterocolitica
+
+Other Organisms: Chlamydia trachomatis (only moderately susceptible) and Mycobacterium tuberculosis (only moderately susceptible).
 
 Most strains of Pseudomonas cepacia and some strains of Pseudomonas maltophilia are resistant to ciprofloxacin as are most anaerobic bacteria, including Bacteroides fragilis and Clostridium difficile.
 
@@ -83,7 +121,7 @@ Resistance to ciprofloxacin in vitro usually develops slowly (multiple-step muta
 
 Ciprofloxacin does not cross-react with other antimicrobial agents such as beta-lactams or aminoglycosides; therefore, organisms resistant to these drugs may be susceptible to ciprofloxacin.
 
-## Clinical Studies
+Clinical Studies:
 
 Following therapy with Ciprofloxacin Hydrochloride Ophthalmic Solution, 76% of the patients with corneal ulcers and positive bacterial cultures were clinically cured and complete re-epithelialization occurred in about 92% of the ulcers.
 

@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019992"
+  ],
   "inn": "ciprofloxacin",
-  "labeler": "Alcon Laboratories, Inc.",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
   "package_ndcs": [
     "61314-656-05",
     "61314-656-10",
     "61314-656-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "Ciprofloxacin Hydrochloride"
+    }
+  ],
   "setid": "ab52b14d-345b-47ff-a832-465caddd3801",
   "source": "dailymed"
 }

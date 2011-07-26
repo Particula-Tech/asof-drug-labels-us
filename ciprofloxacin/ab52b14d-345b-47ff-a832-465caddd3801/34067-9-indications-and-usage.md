@@ -4,18 +4,26 @@ Ciprofloxacin Hydrochloride Ophthalmic Solution is indicated for the treatment o
 
 Corneal Ulcers:
 
-- Pseudomonas aeruginosa
-- Serratia marcescens*
-- Staphylococcus aureus
-- Staphylococcus epidermidis
-- Streptococcus pneumoniae
-- Streptococcus (Viridans Group)*
+Pseudomonas aeruginosa
+
+Serratia marcescens*
+
+Staphylococcus aureus
+
+Staphylococcus epidermidis
+
+Streptococcus pneumoniae
+
+Streptococcus (Viridans Group)*
 
 Conjunctivitis:
 
-- Haemophilus influenzae
-- Staphylococcus aureus
-- Staphylococcus epidermidis
-- Streptococcus pneumoniae
+Haemophilus influenzae
+
+Staphylococcus aureus
+
+Staphylococcus epidermidis
+
+Streptococcus pneumoniae
 
 *Efficacy for this organism was studied in fewer than 10 infections.

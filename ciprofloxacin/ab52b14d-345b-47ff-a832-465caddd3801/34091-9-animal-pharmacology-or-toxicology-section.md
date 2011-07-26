@@ -8,14 +8,22 @@ Rx Only
 
 Revised: July 2007
 
+**DROP-TAINER is a registered trademark of Alcon Manufacturing, Ltd.
+
+9002761-0707
+
 Dist.
 By:
 
-FALCON Pharmaceuticals, Ltd. Fort Worth, Texas 76134 USA
+FALCON Pharmaceuticals, Ltd.
+
+For t Worth, Texas 76134 USA
 
 Mfd.
 By:
 
-ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
+ALCON LABORATORIES, INC.
 
-9002761-0707
+For t Worth, Texas 76134 USA
+
+Printed in USA

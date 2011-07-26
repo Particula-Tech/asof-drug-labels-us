@@ -1,0 +1,25 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 61314-056-10 Rx Only
+
+FALCON PHARMACEUTICALS®
+
+Ciprofloxacin
+
+Hydrochloride
+
+Ophthalmic
+
+Solution, 0.3%
+
+as base
+
+0.3%
+
+10 mL STERILE
+
+AFFILIATE OF
+
+ALCON LABORATORIES, INC.
+
+QUALITY RX
