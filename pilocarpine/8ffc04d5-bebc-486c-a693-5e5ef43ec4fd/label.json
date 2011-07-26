@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018796"
+  ],
   "inn": "pilocarpine",
-  "labeler": "ALCON LABORATORIES, INC.",
+  "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0065-0215-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "pilocarpine hydrochloride",
+      "name": "PILOPINE HS"
+    }
+  ],
   "setid": "8ffc04d5-bebc-486c-a693-5e5ef43ec4fd",
   "source": "dailymed"
 }

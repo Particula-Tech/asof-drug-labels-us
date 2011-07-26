@@ -15,25 +15,10 @@ Do not touch tube tip to any surface, as this may contaminate the gel.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There have been no long-term studies done using Pilocarpine Hydrochloride in animals to evaluate carcinogenic potential.
+There have been no long-term studies done using pilocarpine hydrochloride in animals to evaluate carcinogenic potential.
 
 ## Pregnancy
 
-### Pregnancy Category C.
-
-Animal reproduction studies have not been conducted with Pilocarpine Hydrochloride.
-It is also not known whether Pilocarpine Hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-PILOPINE HS® Gel should be given to a pregnant woman only if clearly needed.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Pilocarpine Hydrochloride is administered to a nursing woman.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
-
-## Geriatric Use
-
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+Pregnancy Category C. Animal reproduction studies have not been conducted with pilocarpine hydrochloride.
+It is also not known whether pilocarpine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+PILOPINE HS® (pilocarpine hydrochloride ophthalmic gel) 4% should be given to a pregnant woman only if clearly needed.
