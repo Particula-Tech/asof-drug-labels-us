@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA016851"
+  ],
+  "inn": "fluorometholone",
+  "labeler": "Pacific Pharma, Inc.",
+  "package_ndcs": [
+    "60758-880-05",
+    "60758-880-10",
+    "60758-880-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "fluorometholone",
+      "name": "FLUOROMETHOLONE"
+    }
+  ],
+  "setid": "af59c420-789d-4c05-b3fc-c3f855bcac24",
+  "source": "dailymed"
+}

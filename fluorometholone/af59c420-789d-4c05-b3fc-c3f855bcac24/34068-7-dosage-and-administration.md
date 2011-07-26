@@ -1,0 +1,10 @@
+# DOSAGE AND ADMINISTRATION
+
+Instill one drop into the conjunctival sac two to four times daily.
+During the initial 24 to 48 hours, the dosage may be increased to one application every four hours.
+Care should be taken not to discontinue therapy prematurely.
+
+If signs and symptoms fail to improve after two days, the patient should be re-evaluated (see PRECAUTIONS).
+
+The dosing of fluorometholone ophthalmic suspension 0.1% may be reduced, but care should be taken not to discontinue therapy prematurely.
+In chronic conditions, withdrawal of treatment should be carried out by gradually decreasing the frequency of applications.
