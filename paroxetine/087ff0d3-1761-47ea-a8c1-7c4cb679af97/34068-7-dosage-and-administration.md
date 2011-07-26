@@ -19,7 +19,7 @@ There is no body of evidence available to answer the question of how long the pa
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
 Whether the dose of an antidepressant needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
 
-Systematic evaluation of the efficacy of immediate-release paroxetine hydrochloride has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg, which corresponds to a 37.5-mg dose of Paroxetine Hydrochloride Controlled-Release Tablets, based on relative bioavailability considerations (see CLINICAL PHARMACOLOG: —Pharmacokinetics).
+Systematic evaluation of the efficacy of immediate-release paroxetine hydrochloride has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg, which corresponds to a 37.5-mg dose of Paroxetine Hydrochloride Controlled-Release Tablets, based on relative bioavailability considerations (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
 
 ## Panic Disorder
 
@@ -80,7 +80,7 @@ Patients should be periodically reassessed to determine the need for continued t
 
 ### Treatment of Pregnant Women During the Third Trimester
 
-Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNING: Usage in Pregnancy).
+Neonates exposed to Paroxetine Hydrochloride Controlled-Release Tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering paroxetine in the third trimester.
 
@@ -90,14 +90,23 @@ The recommended initial dose of Paroxetine Hydrochloride Controlled-Release Tabl
 Increases may be made if indicated.
 Dosage should not exceed 50 mg/day.
 
-## Switching Patients to or From a Monoamine Oxidase Inhibitor
+## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with Paroxetine Hydrochloride Controlled-Release Tablets.
-Similarly, at least 14 days should be allowed after stopping Paroxetine Hydrochloride Controlled-Release Tablets before starting an MAOI.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with Paroxetine Hydrochloride Controlled-Release Tablets.
+Conversely, at least 14 days should be allowed after stopping Paroxetine Hydrochloride Controlled-Release Tablets before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+
+## Use of Paroxetine Hydrochloride Controlled-Release Tablets With Reversible MAOIs Such as Linezolid or Methylene Blue
+
+Do not start Paroxetine Hydrochloride Controlled-Release Tablets in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+In some cases, a patient receiving therapy with Paroxetine Hydrochloride Controlled-Release Tablets may require urgent treatment with linezolid or methylene blue.
+If acceptable alternatives to linezolid or methylene blue treatment are not available and the potential benefits of linezolid or methylene blue treatment are judged to outweigh the risks of serotonin syndrome or NMS-like reactions in a particular patient, Paroxetine Hydrochloride Controlled-Release Tablets should be stopped promptly, and linezolid or methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome or NMS-like reactions for 2 weeks or until 24 hours after the last dose of linezolid or methylene blue, whichever comes first.
+Therapy with Paroxetine Hydrochloride Controlled-Release Tablets may be resumed 24 hours after the last dose of linezolid or methylene blue (see WARNINGS).
 
 ## Discontinuation of Treatment With Paroxetine Hydrochloride Controlled-Release Tablets
 
-Symptoms associated with discontinuation of immediate-release paroxetine hydrochloride or Paroxetine Hydrochloride Controlled-Release Tablets have been reported (see PRECAUTION: Discontinuation of Treatment with Paroxetine Hydrochloride Controlled-Release TabletsS).
+Symptoms associated with discontinuation of immediate-release paroxetine hydrochloride or Paroxetine Hydrochloride Controlled-Release Tablets have been reported (see PRECAUTIONS: Discontinuation of Treatment with Paroxetine Hydrochloride Controlled-Release Tablets).
 Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which Paroxetine Hydrochloride Controlled-Release Tablets is being prescribed.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

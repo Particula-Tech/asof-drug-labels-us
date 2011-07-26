@@ -4,7 +4,7 @@ The information included under the “Adverse Findings Observed in Short-Term, P
 Three of these studies were conducted in patients with major depressive disorder, 3 studies were done in patients with panic disorder, 1 study was conducted in patients with social anxiety disorder, and 4 studies were done in female patients with PMDD.
 Two of the studies in major depressive disorder, which enrolled patients in the age range 18 to 65 years, are pooled.
 Information from a third study of major depressive disorder, which focused on elderly patients (60 to 88 years), is presented separately as is the information from the panic disorder studies and the information from the PMDD studies.
-Information on additional adverse events associated with Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrochloride is included in a separate subsection (see Other Event Observed During the Clinical Development of Paroxetine)..
+Information on additional adverse events associated with Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrochloride is included in a separate subsection (see Other Events Observed During the Clinical Development of Paroxetine).
 
 ## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials With Paroxetine Hydrochloride Controlled-Release Tablets:
 
@@ -15,7 +15,7 @@ Information on additional adverse events associated with Paroxetine Hydrochlorid
 Ten percent (21/212) of patients treated with Paroxetine Hydrochloride Controlled-Release Tablets discontinued treatment due to an adverse event in a pool of 2 studies of patients with major depressive disorder.
 The most common events (≥1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate approximately twice or greater for Paroxetine Hydrochloride Controlled-Release Tablets compared to placebo) included the following:
 
-|  | Paroxetine HCl Controlled-Release Tablets(n = 212) | Placebo(n = 211) |
+|  | Paroxetine Hydrochloride Controlled-Release Tablets(n = 212) | Placebo(n = 211) |
 | --- | --- | --- |
 | Nausea | 3.7% | 0.5% |
 | Asthenia | 1.9% | 0.5% |
@@ -25,7 +25,7 @@ The most common events (≥1%) associated with discontinuation and considered to
 In a placebo-controlled study of elderly patients with major depressive disorder, 13% (13/104) of patients treated with Paroxetine Hydrochloride Controlled-Release Tablets discontinued due to an adverse event.
 Events meeting the above criteria included the following:
 
-|  | Paroxetine HCl Controlled-Release Tablets(n = 104) | Placebo(n = 109) |
+|  | Paroxetine Hydrochloride Controlled-Release Tablets(n = 104) | Placebo(n = 109) |
 | --- | --- | --- |
 | Nausea | 2.9% | 0.0% |
 | Headache | 1.9% | 0.9% |
@@ -37,7 +37,7 @@ Events meeting the above criteria included the following:
 Eleven percent (50/444) of patients treated with Paroxetine Hydrochloride Controlled-Release Tablets in panic disorder studies discontinued treatment due to an adverse event.
 Events meeting the above criteria included the following:
 
-|  | Paroxetine HCl Controlled-Release Tablets(n = 444) | Placebo(n = 445) |
+|  | Paroxetine Hydrochloride Controlled-Release Tablets(n = 444) | Placebo(n = 445) |
 | --- | --- | --- |
 | Nausea | 2.9% | 0.4% |
 | Insomnia | 1.8% | 0.0% |
@@ -445,7 +445,7 @@ d Mostly anorgasmia or difficulty achieving orgasm.
 
 ### Dose Dependency of Adverse Events
 
-able 6 shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets that was at least twice that with 12.5 mg of Paroxetine Hydrochloride Controlled-Release Tablets and with placebo.
+Table 7 shows results in PMDD trials of common adverse events, defined as events with an incidence of ≥1% with 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets that was at least twice that with 12.5 mg of Paroxetine Hydrochloride Controlled-Release Tablets and with placebo.
 
 Table 7.
 Incidence of Common Adverse Events in Placebo, 12.5 mg and 25 mg of Paroxetine Hydrochloride Controlled-Release Tablets in a Pool of 3 Fixed-Dose PMDD Trials
@@ -529,7 +529,7 @@ Consequently, it is not possible to provide a meaningful estimate of the proport
 
 In the tabulations that follow, reported adverse events were classified using a COSTART-based dictionary.
 The frequencies presented, therefore, represent the proportion of the 1,627 patients exposed to Paroxetine Hydrochloride Controlled-Release Tablets who experienced an event of the type cited on at least 1 occasion while receiving Paroxetine Hydrochloride Controlled-Release Tablets.
-All reported events are included except those already listed in Tables 2 through76 and those events where a drug cause was remote.
+All reported events are included except those already listed in Tables 2 through7 and those events where a drug cause was remote.
 If the COSTART term for an event was so general as to be uninformative, it was deleted or, when possible, replaced with a more informative term.
 It is important to emphasize that although the events reported occurred during treatment with paroxetine, they were not necessarily caused by it.
 

@@ -55,12 +55,9 @@ It should be noted that Paroxetine Hydrochloride Controlled-Release Tablets are 
 
 ## Potential for Interaction With Monoamine Oxidase Inhibitors
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with an MAOI, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
+In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitors (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-While there are no human data showing such an interaction with paroxetine hydrochloride, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that Paroxetine Hydrochloride Controlled-Release Tablets not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible non-selective MAOI, and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI (see CONTRAINDICATIONS).
-At least 2 weeks should be allowed after stopping Paroxetine Hydrochloride Controlled-Release Tablets before starting an MAOI.
+Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
@@ -226,7 +223,7 @@ As with other SSRIs, mydriasis has been infrequently reported in premarketing st
 A few cases of acute angle closure glaucoma associated with therapy with immediate-release paroxetine have been reported in the literature.
 As mydriasis can cause acute angle closure in patients with narrow angle glaucoma, caution should be used when Paroxetine Hydrochloride Controlled-Release Tablets are prescribed for patients with narrow angle glaucoma.
 
-Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrocholoride have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Paroxetine Hydrochloride Controlled-Release Tablets and the immediate-release formulation of paroxetine hydrochloride have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from clinical studies during premarket testing.
 Evaluation of electrocardiograms of 682 patients who received immediate-release paroxetine hydrochloride in double-blind, placebo-controlled trials, however, did not indicate that paroxetine is associated with the development of significant ECG abnormalities.
 Similarly, paroxetine hydrochloride does not cause any clinically important changes in heart rate or blood pressure.
@@ -469,7 +466,7 @@ These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg
 
 ## Pregnancy
 
-Pregnancy Category D. See WARNINGS—Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
+Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
 
 ## Labor and Delivery
 
@@ -498,4 +495,4 @@ SSRIs and SNRIs, including Paroxetine Hydrochloride Controlled-Release Tablets, 
 In worldwide premarketing clinical trials with immediate-release paroxetine hydrochloride, 17% of paroxetine-treated patients (approximately 700) were 65 years or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: —Table3..)
+In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table3.)

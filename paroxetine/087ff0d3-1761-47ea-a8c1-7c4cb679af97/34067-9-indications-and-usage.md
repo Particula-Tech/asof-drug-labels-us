@@ -23,7 +23,7 @@ The efficacy of Paroxetine Hydrochloride Controlled-Release Tablets was establis
 Panic disorder (DSM-IV) is characterized by recurrent unexpected panic attacks, i.e., a discrete period of intense fear or discomfort in which 4 (or more) of the following symptoms develop abruptly and reach a peak within 10 minutes: (1) palpitations, pounding heart, or accelerated heart rate; (2) sweating; (3) trembling or shaking; (4) sensations of shortness of breath or smothering; (5) feeling of choking; (6) chest pain or discomfort; (7) nausea or abdominal distress; (8) feeling dizzy, unsteady, lightheaded, or faint; (9) derealization (feelings of unreality) or depersonalization (being detached from oneself); (10) fear of losing control; (11) fear of dying; (12) paresthesias (numbness or tingling sensations); (13) chills or hot flushes.
 
 Long-term maintenance of efficacy with the immediate-release formulation of paroxetine was demonstrated in a 3-month relapse prevention trial.
-In this trial, patients with panic disorder assigned to immediate-release paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY—Clinical Trials).
+In this trial, patients with panic disorder assigned to immediate-release paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who prescribes Paroxetine Hydrochloride Controlled-Release Tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
 
 ## Social Anxiety Disorder

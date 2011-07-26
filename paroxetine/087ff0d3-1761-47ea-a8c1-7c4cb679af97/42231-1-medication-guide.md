@@ -15,7 +15,7 @@ Paroxetine Hydrochloride and other antidepressant medicines may cause serious si
 Suicidal thoughts or actions:
 
 - Paroxetine Hydrochloride and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment or when the dose is changed.
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
   - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
   - Pay particular attention to such changes when Paroxetine Hydrochloride Controlled-Release Tablets are started or when the dose is changed.
@@ -111,13 +111,13 @@ Who should not take Paroxetine Hydrochloride Controlled-Release Tablets?
 
 Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
 
-- are allergic to paroxetine hydrochloride or any of the ingredients in this product.
+- are allergic to paroxetine or any of the ingredients in this product.
   See the end of this Medication Guide for a complete list of ingredients in Paroxetine Hydrochloride Controlled-Release Tablets.
 
-- take a Monoamine Oxidase Inhibitor (MAOI), such as PARNATE® (tranylcypromine), NARDIL® (phenelzine), or the antibiotic ZYVOX® (linezolid).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-- Do not take an MAOI within 2 weeks of stopping Paroxetine Hydrochloride Controlled-Release Tablets.
-- Do not start Paroxetine Hydrochloride Controlled-Release Tablets if you stopped taking an MAOI in the last 2 weeks.
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping Paroxetine Hydrochloride Controlled-Release Tablets unless directed to do so by your physician.
+- Do not start Paroxetine Hydrochloride Controlled-Release Tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - People who take Paroxetine Hydrochloride Controlled-Release Tablets close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
   - high fever
@@ -140,7 +140,7 @@ Before starting Paroxetine Hydrochloride Controlled-Release Tablets, tell your h
   There is a possibility that Paroxetine Hydrochloride Controlled-Release Tablets may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
   Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
   Your baby may also have certain other symptoms shortly after birth.
-  Premature births have also been reported in some women who used Paroxetine Hydrochloride Controlled-Release Tablets during pregnancy
+  Premature births have also been reported in some women who used Paroxetine Hydrochloride Controlled-Release Tablets during pregnancy.
 - are breastfeeding.
   Paroxetine Hydrochloride Controlled-Release Tablets pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby while taking Paroxetine Hydrochloride Controlled-Release Tablets.
@@ -204,7 +204,6 @@ Common possible side effects in people who take Paroxetine Hydrochloride Control
 
 - nausea
 - sleepiness
-- dizziness
 - feeling anxious or trouble sleeping
 - sexual problems
 - sweating
@@ -243,15 +242,15 @@ This Medication Guide summarizes the most important information about Paroxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about Paroxetine Hydrochloride Controlled-Release Tablets that is written for healthcare professionals.
 
-For more information about Paroxetine Hydrochloride Controlled-Release Tablets ca1-ll 800-706-5575.
+For more information about Paroxetine Hydrochloride Controlled-Release Tablets call 800-706-5575.
 
 What are the ingredients in Paroxetine Hydrochloride Controlled-Release Tablets?
 
 Active ingredient: paroxetine hydrochloride
 
-Inactive ingredients: hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum laknd FD&C Blue No. 2 aluminum lake.
+Inactive ingredients: hypromellose, polyvinylpyrrolidone, lactose monohydrate, magnesium stearate, silicon dioxide, glyceryl behenate, methacrylic acid copolymer type C, sodium lauryl sulfate, polysorbate 80, talc, triethyl citrate, titanium dioxide, polyethylene glycols, and 1 or more of the following colorants: Yellow ferric oxide, red ferric oxide, D&C Red No. 30 aluminum lake, FD&C Yellow No. 6 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake.
 
-PAXIL, PAXIL CR and PARNATE are registered trademarks of GlaxoSmithKline.
+PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
@@ -269,4 +268,4 @@ Apotex Corp.
 
 Weston, FL33326
 
-March 2011 PCA-AP:2MG
+July 2011 PCA-AP:3MG
