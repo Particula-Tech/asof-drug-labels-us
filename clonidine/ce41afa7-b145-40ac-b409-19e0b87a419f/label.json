@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022500"
+  ],
+  "inn": "clonidine",
+  "labeler": "Tris Pharma, Inc.",
+  "package_ndcs": [
+    "27808-030-01",
+    "27808-031-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "Nexiclon"
+    },
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "Nexiclon XR"
+    }
+  ],
+  "setid": "ce41afa7-b145-40ac-b409-19e0b87a419f",
+  "source": "dailymed"
+}
