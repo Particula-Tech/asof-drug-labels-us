@@ -1,6 +1,4 @@
-CIII
-
-Rx only
+Rx Only CIII
 
 # INDIVIDUALIZATION OF DOSAGES
 

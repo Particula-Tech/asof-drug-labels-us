@@ -11,10 +11,10 @@ NDC 0051-0022-21 (Bottle of 60 capsules).
 10 mg orange capsules (Identified UM).
 NDC 0051-0023-21 (Bottle of 60 capsules).
 
-MARINOL is a registered trademark of Unimed Pharmaceuticals, Inc. and is Manufactured by Banner Pharmacaps, Inc. High Point, NC 27265
+Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27265
 
-For: Unimed Pharmaceuticals, Inc. A Solvay Pharmaceuticals, Inc. Company Marietta, GA 30062-2224, USA
+For: Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
-500012 Rev Jul 2006
+500012 1E Rev Mar 2010
 
-© 2006 Solvay Pharmaceuticals, Inc.
+© 2010 Abbott Laboratories
