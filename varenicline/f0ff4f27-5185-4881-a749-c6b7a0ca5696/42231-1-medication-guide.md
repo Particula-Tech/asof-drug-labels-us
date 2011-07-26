@@ -9,7 +9,7 @@ What is the most important information I should know about CHANTIX?
 Some people have had changes in behavior, hostility, agitation, depressed mood, and suicidal thoughts or actions while using CHANTIX to help them quit smoking.
 Some people had these symptoms when they began taking CHANTIX, and others developed them after several weeks of treatment, or after stopping CHANTIX.
 
-If you, your family, or caregiver notice agitation, hostility, depression or changes in behavior or thinking that are not typical for you, or you develop any of the following symptoms, stop taking CHANTIX and call your healthcare provider right away:
+If you, your family, or caregiver notice agitation, hostility, depression or changes in behavior or thinking that are not typical for you, or you develop any of the following symptoms, stop taking CHANTIX and call your doctor right away:
 
 - thoughts about suicide or dying, or attempts to commit suicide
 - new or worse depression, anxiety, or panic attacks
@@ -33,7 +33,7 @@ You should also tell your doctor about any symptoms you had during other times y
 See "What are the possible side effects of CHANTIX?"
 
 Some people can have allergic reactions to CHANTIX.
-Some of these allergic reactions can be life-threatening and include: swelling of the face, mouth, and throat that can cause trouble breathing.
+Some of these allergic reactions can be life-threatening and include: swelling of the face, mouth (tongue, lips), and throat that can cause trouble breathing.
 If you have these symptoms, stop taking CHANTIX and get medical attention right away.
 
 Some people can have serious skin reactions while taking CHANTIX.
@@ -66,6 +66,7 @@ Before you take CHANTIX, tell your doctor if you:
   See "What is the most important information I should know about CHANTIX?"
 - have kidney problems or get kidney dialysis.
   Your doctor may prescribe a lower dose of CHANTIX for you.
+- Have heart or blood vessel problems
 - have any allergies.
   See the end of this Medication Guide for a complete list of ingredients in CHANTIX.
 - have any other medical conditions
@@ -95,16 +96,24 @@ Keep a list of them with you to show your doctor and pharmacist when you get a n
 
 How should I take CHANTIX?
 
-- Take CHANTIX exactly as prescribed by your doctor.
+- There are 2 ways that you can use CHANTIX to help you quit smoking.
+  Talk to your doctor about the following 2 ways to use CHANTIX:
   1. Choose a quit date when you will stop smoking.
-  2. Start taking CHANTIX 1 week (7 days) before your quit date.
+     Start taking CHANTIX 1 week (7 days) before your quit date.
      This lets CHANTIX build up in your body.
      You can keep smoking during this time.
-     Make sure that you try and stop smoking on your quit date.
+     Make sure that you try to stop smoking on your quit date.
      If you slip-up and smoke, try again.
      Some people need to take CHANTIX for a few weeks for CHANTIX to work best.
-  3. Take CHANTIX after eating and with a full glass (8 ounces) of water.
-  4. Most people will take CHANTIX for up to 12 weeks.
+     OR
+  2. You can also start taking CHANTIX before you choose a quit date.
+     Pick a date to quit smoking that is between days 8 and 35 of treatment.
+     Make sure that you try to stop smoking on your quit date.
+     If you slip-up and smoke, try again.
+     Some people need to take CHANTIX for a few weeks for CHANTIX to work best.
+- Take CHANTIX exactly as prescribed by your doctor.
+  1. Take CHANTIX after eating and with a full glass (8 ounces) of water.
+  2. Most people will take CHANTIX for up to 12 weeks.
      If you have completely quit smoking by 12 weeks, your doctor may prescribe CHANTIX for another 12 weeks to help you stay cigarette-free.
 - CHANTIX comes as a white tablet (0.5 mg) and a blue tablet (1 mg).
   You start with the white tablet and then usually go to the blue tablet.
@@ -124,8 +133,16 @@ Some people who use CHANTIX may feel sleepy, dizzy, or have trouble concentratin
 
 What are the possible side effects of CHANTIX?
 
-- Some patients have had new or worse mental health problems.
+Serious side effects of CHANTIX may include:
+
+- New or worse mental health problems, which have been reported in some patients.
   See "What is the most important information I should know about CHANTIX?"
+- New or worse heart or blood vessel (cardiovascular) problems in people who already have cardiovascular problems.
+  Tell your doctor if you have any changes in symptoms during treatment with CHANTIX.
+  Get emergency medical help right away if you have any of the following symptoms of a heart attack, including:
+  - chest discomfort (uncomfortable pressure, squeezing, fullness or pain) that lasts more than a few minutes, or that goes away and comes back
+  - pain or discomfort in one or both arms, back, neck, jaw or stomach
+  - shortness of breath, sweating, nausea, vomiting, or feeling lightheaded associated with chest discomfort
 - The most common side effects of CHANTIX include:
   - nausea
   - sleep problems (trouble sleeping or vivid, unusual, or strange dreams)
@@ -166,10 +183,8 @@ Active ingredient: varenicline tartrate
 
 Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, Opadry ® White (for 0.5 mg), Opadry ® Blue (for 1 mg), and Opadry® Clear (for both 0.5 mg and 1 mg)
 
-Rx only
+LAB-0328-10.0
 
-LAB-0328-9.0
-
-April 2010
+July 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -7,6 +7,7 @@ Provide patients with appropriate educational materials and counseling to suppor
 
 The patient should set a date to stop smoking.
 Begin CHANTIX dosing one week before this date.
+Alternatively, the patient can begin CHANTIX dosing and then quit smoking between days 8 and 35 of treatment.
 
 CHANTIX should be taken after eating and with a full glass of water.
 

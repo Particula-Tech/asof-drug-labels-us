@@ -8,9 +8,11 @@ Most patients enrolled in these trials were white (79–96%).
 All studies enrolled almost equal numbers of men and women.
 The average age of patients in these studies was 43 years.
 Patients on average had smoked about 21 cigarettes per day for an average of approximately 25 years.
+Patients set a date to stop smoking (target quit date) with dosing starting 1 week before this date.
+
+Three additional studies were conducted in patients with cardiovascular disease, in patients with chronic obstructive pulmonary disease [see Clinical Studies (14.4)], and in patients instructed to select their quit date within days 8 and 35 of treatment [see Clinical Studies (14.5)].
 
 In all studies, patients were provided with an educational booklet on smoking cessation and received up to 10 minutes of smoking cessation counseling at each weekly treatment visit according to Agency for Healthcare Research and Quality guidelines.
-Patients set a date to stop smoking (target quit date [TQD]) with dosing starting 1 week before this date.
 
 ## 14.1 Initiation of Abstinence
 
@@ -64,7 +66,7 @@ Table 2: Continuous Abstinence, Weeks 9 through 12 (95% confidence interval)
 
 ## 14.2 Urge to Smoke
 
-Based on responses to the Brief Questionnaire of Smoking Urges and the Minnesota Nicotine Withdrawal scale "urge to smoke" item, CHANTIX reduced urge to smoke compared to placebo in all studies.
+Based on responses to the Brief Questionnaire of Smoking Urges and the Minnesota Nicotine Withdrawal scale "urge to smoke" item, CHANTIX reduced urge to smoke compared to placebo.
 
 ## 14.3 Long-Term Abstinence
 
@@ -94,3 +96,28 @@ In Figure 3 below, the x-axis represents the study week for each observation, al
 The y-axis represents the percentage of patients who had been abstinent for the last week of CHANTIX treatment and remained abstinent at the given timepoint.
 
 Figure 3: Continuous Abstinence Rate during Nontreatment Follow-Up
+
+## 14.4 Subjects with Cardiovascular and Chronic Obstructive Pulmonary Disease
+
+CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged 35 to 75 years with stable, documented cardiovascular disease (diagnoses other than, or in addition to, hypertension) that had been diagnosed for more than 2 months.
+Subjects were randomized to CHANTIX 1 mg twice daily (n=353) or placebo (n=350) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
+Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (47%) compared to subjects treated with placebo (14%) and from week 9 through 52 (20%) compared to subjects treated with placebo (7%).
+
+CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged ≥ 35 years with mild-to-moderate COPD with post-bronchodilator FEV1/FVC <70% and FEV1 ≥ 50% of predicted normal value.
+Subjects were randomized to CHANTIX 1 mg twice daily (N=223) or placebo (N=237) for a treatment of 12 weeks and then were followed for 40 weeks post-treatment.
+Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
+
+Table 4: Continuous Abstinence (95% confidence interval), Studies in Patients with Cardiovascular Disease (CVD) and Chronic Obstructive Pulmonary Disease (COPD)
+
+|  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
+| --- | --- | --- | --- | --- |
+|  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
+| CVD Study | 47% (42%, 53%) | 14% (11%, 18%) | 20% (16%, 24%) | 7% (5%, 10%) |
+| COPD Study | 41% (34%, 47%) | 9% (6%, 13%) | 19% (14%, 24%) | 6% (3%, 9%) |
+| BID = twice daily |  |  |  |  |
+
+## 14.5 Alternative Instructions for Setting a Quit Date
+
+CHANTIX was evaluated in a double-blind, placebo-controlled trial where patients were instructed to select a target quit date between Day 8 and Day 35 of treatment.
+Subjects were randomized 3:1 to CHANTIX 1 mg twice daily (N=486) or placebo (N=165) for 12 weeks of treatment and followed for another 12 weeks post-treatment.
+Patients treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (54%) compared to patients treated with placebo (19%) and from weeks 9 through 24 (35%) compared to subjects treated with placebo (13%).

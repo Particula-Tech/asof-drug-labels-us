@@ -12,5 +12,5 @@ There was no evidence of carcinogenicity in female rats.
 Mutagenesis: Varenicline was not genotoxic, with or without metabolic activation, in the following assays: Ames bacterial mutation assay; mammalian CHO/HGPRT assay; and tests for cytogenetic aberrations in vivo in rat bone marrow and in vitro in human lymphocytes.
 
 Impairment of Fertility: There was no evidence of impairment of fertility in either male or female Sprague-Dawley rats administered varenicline succinate up to 15 mg/kg/day (67 and 36 times, respectively, the maximum recommended human daily exposure based on AUC at 1 mg twice daily).
-However, a decrease in fertility was noted in the offspring of pregnant rats who were administered varenicline succinate at an oral dose of 15 mg/kg/day (36 times the maximum recommended human daily exposure based on AUC at 1 mg BID).
+However, a decrease in fertility was noted in the offspring of pregnant rats who were administered varenicline succinate at an oral dose of 15 mg/kg/day (36 times the maximum recommended human daily exposure based on AUC at 1 mg twice daily.
 This decrease in fertility in the offspring of treated female rats was not evident at an oral dose of 3 mg/kg/day (9 times the maximum recommended human daily exposure based on AUC at 1 mg twice daily).

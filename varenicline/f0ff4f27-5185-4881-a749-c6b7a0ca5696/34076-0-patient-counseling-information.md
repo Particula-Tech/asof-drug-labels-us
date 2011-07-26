@@ -2,9 +2,10 @@
 
 See Medication Guide
 
-## 17.1 Set Quit Date and Continue to Attempt to Quit if Lapse
+## 17.1 Initiate Treatment and Continue to Attempt to Quit if Lapse
 
 Instruct patients to set a date to quit smoking and to initiate CHANTIX treatment one week before the quit date.
+Alternatively, the patient can begin CHANTIX dosing and then set a date to quit smoking between days 8 and 35 of treatment.
 Encourage patients to continue to attempt to quit if they have early lapses after quit day [see Dosage and Administration (2.1)].
 
 ## 17.2 How To Take
@@ -53,14 +54,19 @@ Instruct patients to discontinue CHANTIX and immediately seek medical care if th
 Inform patients that serious skin reactions, such as Stevens-Johnson Syndrome and erythema multiforme, were reported by some patients taking CHANTIX.
 Advise patients to stop taking CHANTIX at the first sign of rash with mucosal lesions or skin reaction and contact a healthcare provider immediately [see Warnings and Precautions (5.3), and Adverse Reactions (6.2)].
 
-## 17.12 Driving or Operating Machinery
+## 17.12 Patients with Cardiovascular Disease
+
+Patients with cardiovascular disease should be instructed to notify their health care providers of symptoms of new or worsening cardiovascular events and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction.
+[see Warnings and Precautions (5.4), and Adverse Reactions (6.1)].
+
+## 17.13 Driving or Operating Machinery
 
 Advise patients to use caution driving or operating machinery until they know how quitting smoking and/or varenicline may affect them [see Warnings and Precautions (5.5)].
 
-## 17.13 Vivid, Unusual, or Strange Dreams
+## 17.14 Vivid, Unusual, or Strange Dreams
 
 Inform patients that they may experience vivid, unusual or strange dreams during treatment with CHANTIX.
 
-## 17.14 Pregnancy and Lactation
+## 17.15 Pregnancy and Lactation
 
 Patients who are pregnant or breastfeeding or planning to become pregnant should be advised of: the risks of smoking to a pregnant mother and her developing baby, the potential risks of CHANTIX use during pregnancy and breastfeeding, and the benefits of smoking cessation with and without CHANTIX [see Use in Specific Populations (8.1 and 8.3)].

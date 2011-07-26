@@ -5,7 +5,7 @@ The following serious adverse reactions were reported in postmarketing experienc
 - Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)
 - Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.2)]
 - Serious skin reactions [see Warnings and Precautions (5.3)]
-- Accidental injury [see Warnings and Precautions (5.4)]
+- Accidental injury [see Warnings and Precautions (5.5)]
 
 In the placebo-controlled studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
@@ -21,7 +21,7 @@ Because clinical trials are conducted under widely varying conditions, the adver
 During the premarketing development of CHANTIX, over 4500 subjects were exposed to CHANTIX, with over 450 treated for at least 24 weeks and approximately 100 for a year.
 Most study participants were treated for 12 weeks or less.
 
-The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.5)].
+The most common adverse event associated with CHANTIX treatment is nausea, occurring in 30% of patients treated at the recommended dose, compared with 10% in patients taking a comparable placebo regimen [see Warnings and Precautions (5.6)].
 
 Table 1 shows the adverse events for CHANTIX and placebo in the 12-week fixed dose studies with titration in the first week [Studies 2 (titrated arm only), 4, and 5].
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 7.1).
@@ -29,7 +29,7 @@ Adverse events were categorized using the Medical Dictionary for Regulatory Acti
 MedDRA High Level Group Terms (HLGT) reported in ≥ 5% of patients in the CHANTIX 1 mg twice daily dose group, and more commonly than in the placebo group, are listed, along with subordinate Preferred Terms (PT) reported in ≥ 1% of CHANTIX patients (and at least 0.5% more frequent than placebo).
 Closely related Preferred Terms such as 'Insomnia', 'Initial insomnia', 'Middle insomnia', 'Early morning awakening' were grouped, but individual patients reporting two or more grouped events are only counted once.
 
-Table 1: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
+Table 1: Common Treatment Emergent AEs (%) in the Fixed-Dose, Placebo-Controlled Studies (HLGTs ≥ 5% of patients in the 1 mg BID CHANTIX Group and more commonly than placebo and PT ≥ 1% in the 1 mg BID CHANTIX Group, and 1 mg BID CHANTIX at least 0.5% more than Placebo)
 
 | SYSTEM ORGAN CLASS High Level Group Term Preferred Term | CHANTIX 0.5 mg BID N=129 | CHANTIX 1 mg BID N=821 | Placebo N=805 |
 | --- | --- | --- | --- |
@@ -97,7 +97,7 @@ Infrequent: thyroid gland disorders.
 
 Eye Disorders.
 Infrequent: conjunctivitis, dry eye, eye irritation, eye pain, vision blurred, visual disturbance.
-Rare: acquired night blindness, blindness transient, cataract subcapsular, ocular vascular disorder, photophobia, vitreous floaters
+Rare: acquired night blindness, blindness transient, cataract subcapsular, ocular vascular disorder, photophobia, vitreous floaters.
 
 Gastrointestinal Disorders.
 Frequent: diarrhea.
@@ -109,7 +109,7 @@ Frequent: chest pain, edema, influenza-like illness.
 Infrequent: chest discomfort, chills, pyrexia.
 
 Hepatobiliary Disorders.
-Infrequent: gall bladder disorder
+Infrequent: gall bladder disorder.
 
 Investigations.
 Frequent: liver function test abnormal, weight increased.
@@ -156,6 +156,18 @@ Rare: photosensitivity reaction.
 Vascular Disorders.
 Frequent: hot flush.
 Infrequent: thrombosis.
+
+CHANTIX has also been studied in a trial conducted in patients with stable cardiovascular disease, a trial conducted in patients with chronic obstructive pulmonary disease (COPD) and a trial conducted in generally healthy patients (similar to those in the premarketing studies) in which they were allowed to select a quit date between days 8 and 35 of treatment ("alternative quit date instruction trial").
+
+In the trial of patients with stable cardiovascular disease, more types and a greater number of cardiovascular events were reported compared to premarketing studies.
+Treatment-emergent (on-treatment or 30 days after treatment) cardiovascular events reported with a frequency ≥ 1% in either treatment group in this study were angina pectoris (3.7% and 2.0% for varenicline and placebo, respectively), chest pain (2.5% vs. 2.3%), peripheral edema (2.0% vs. 1.1%), hypertension (1.4% vs. 2.6%), and palpitations (0.6 % vs. 1.1%).
+Deaths and serious cardiovascular events occurring over the 52 weeks of the study (treatment emergent and non-treatment emergent) were adjudicated by a blinded, independent committee.
+The following treatment-emergent adjudicated events occurred with a frequency ≥1% in either treatment group: nonfatal MI (1.1% vs. 0.3% for varenicline and placebo, respectively), and hospitalization for angina pectoris (0.6% vs. 1.1%).
+During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularization (2.0% vs. 0.6%), hospitalization for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.1% vs. 0.6%).
+Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
+Cardiovascular death occurred in 0.3% of patients in the varenicline arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
+
+Adverse events in the trial of patients with COPD and in the alternative quit date instruction trial were quantitatively and qualitatively similar to those observed in premarketing studies.
 
 ## 6.2 Postmarketing Experience
 

@@ -1,6 +1,6 @@
 # WARNING: SERIOUS NEUROPSYCHIATRIC EVENTS
 
-Serious neuropsychiatric events including, but not limited to, depression, suicidal ideation, suicide attempt and completed suicide have been reported in patients taking CHANTIX.
+Serious neuropsychiatric events including, but not limited to, depression, suicidal ideation, suicide attempt, and completed suicide have been reported in patients taking CHANTIX.
 Some reported cases may have been complicated by the symptoms of nicotine withdrawal in patients who stopped smoking.
 Depressed mood may be a symptom of nicotine withdrawal.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.

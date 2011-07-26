@@ -9,12 +9,12 @@ In animal studies, CHANTIX caused decreased fetal weights, increased auditory st
 CHANTIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 In reproductive and developmental toxicity studies, pregnant rats and rabbits received varenicline succinate during organogenesis at oral doses up to 15 and 30 mg/kg/day, respectively.
-These exposures were 36 (rats) and 50 (rabbits) times the human exposure (based on AUC) at the maximum recommended human dose (MRHD) of 1 mg BID.
+These exposures were 36 (rats) and 50 (rabbits) times the human exposure (based on AUC) at the maximum recommended human dose (MRHD) of 1 mg twice daily.
 While no fetal structural abnormalities occurred in either species, reduced fetal weights occurred in rabbits at the highest dose (exposures 50 times the human exposure at the MRHD based on AUC).
 Fetal weight reduction did not occur at animal exposures 23 times the human exposure at the MRHD based on AUC.
 
 In a pre- and postnatal development study, pregnant rats received up to 15 mg/kg/day of oral varenicline succinate from organogenesis through lactation.
-These resulted in exposures up to 36 times the human exposure (based on AUC) at the MRHD of 1 mg BID.
+These resulted in exposures up to 36 times the human exposure (based on AUC) at the MRHD of 1 mg twice daily.
 Decreased fertility and increased auditory startle response occurred in offspring.
 
 ## 8.3 Nursing Mothers
