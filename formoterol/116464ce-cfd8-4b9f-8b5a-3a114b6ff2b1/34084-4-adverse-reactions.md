@@ -43,3 +43,10 @@ In a long term safety trial in patients 12 years and older treated for 52 weeks 
 No asthma-related deaths were observed.
 Dysphonia was observed at a higher frequency in the longer term treatment trial at a reported incidence of 7/141 (5%) patients receiving DULERA 100 mcg/5 mcg and 5/130 (3.8%) patients receiving DULERA 200 mcg/5 mcg.
 No clinically significant changes in blood chemistry, hematology, or ECG were observed.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use of DULERA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: anaphylactic reaction

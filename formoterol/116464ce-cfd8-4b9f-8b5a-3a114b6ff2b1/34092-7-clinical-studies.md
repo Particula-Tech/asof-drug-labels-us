@@ -59,7 +59,7 @@ Table 4: Trial 1 – Change in trough FEV1 from baseline to Week 12
 The effect of DULERA 100 mcg/5 mcg, two inhalations twice daily on selected secondary efficacy endpoints, including proportion of nights with nocturnal awakenings (-60% vs. -15%), change in total rescue medication use (-0.6 vs. +1.1 puffs/day), change in morning peak flow (+18.1 vs. -28.4 L/min) and evening peak flow (+10.8 vs. -32.1 L/min) further supports the efficacy of DULERA 100 mcg/5 mcg compared to placebo.
 
 The subjective impact of asthma on patients' health-related quality of life was evaluated by the Asthma Quality of Life Questionnaire (AQLQ(S)) (based on a 7-point scale where 1 = maximum impairment and 7 = no impairment).
-A change from baseline >0.5 points is considered a clinically meaningful improvement.
+A change from baseline ≥0.5 points is considered a clinically meaningful improvement.
 The mean difference in AQLQ between patients receiving DULERA 100 mcg/5 mcg and placebo was 0.5 [95% CI 0.32, 0.68].
 
 Trial 2: Clinical Trial With DULERA 200 mcg/5 mcg
