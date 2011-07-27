@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091365"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-686-07",
+    "55111-687-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "gemcitabine",
+      "name": "gemcitabine"
+    }
+  ],
+  "setid": "eafcebc8-ddef-bb6b-fd0a-9d8b9962cdc4",
+  "source": "dailymed"
+}
