@@ -12,8 +12,4 @@ There have been reports in which failure to use aseptic technique when handling 
 
 Manufactured for:
 
-Made in Italy
-
-451094A
-
-Revised: July 2009
+March 2011

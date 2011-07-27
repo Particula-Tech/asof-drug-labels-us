@@ -10,7 +10,7 @@ DIPRIVAN Injectable Emulsion, USP is available as follows:
 
 Propofol undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
 
-Store between 4° to 22°C (40° to 72°F).
+Store between 4° to 25°C (40° to 77°F).
 Do not freeze.
 Shake well before use.
 
