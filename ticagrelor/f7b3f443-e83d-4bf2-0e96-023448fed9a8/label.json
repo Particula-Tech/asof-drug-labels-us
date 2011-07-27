@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022433"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "AstraZeneca LP",
+  "package_ndcs": [
+    "0186-0777-08",
+    "0186-0777-18",
+    "0186-0777-39",
+    "0186-0777-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ticagrelor",
+      "name": "BRILINTA"
+    }
+  ],
+  "setid": "f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+  "source": "dailymed"
+}
