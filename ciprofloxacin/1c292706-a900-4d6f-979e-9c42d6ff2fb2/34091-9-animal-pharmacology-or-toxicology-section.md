@@ -5,6 +5,8 @@ However, a one month topical ocular study using immature Beagle dogs did not dem
 
 Rx Only
 
+ALCON
+
 Manufactured for:
 
 ALCON LABORATORIES, INC.
@@ -18,6 +20,8 @@ ALCON-COUVREUR N.V.
 
 Puurs, Belgium
 
-© 2002 - 2005 Alcon, Inc.
+© 2002, 2008 Alcon, Inc.
 
-44282-1 0705
+44282-2
+
+06-2008

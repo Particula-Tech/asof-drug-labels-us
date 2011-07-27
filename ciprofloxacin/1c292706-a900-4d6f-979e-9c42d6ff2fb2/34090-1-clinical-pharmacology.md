@@ -1,17 +1,17 @@
 # CLINICAL PHARMACOLOGY
 
-## Systemic Absorption
+Systemic Absorption
 
 Absorption studies in humans with the ciprofloxacin ointment have not been conducted, however, based on studies with ciprofloxacin solution, 0.3%, mean maximal concentrations are expected to be less than 2.5 ng/mL.
 
-## Microbiology
+Microbiology
 
 Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase which is needed for the synthesis of bacterial DNA.
 
 Ciprofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections (SEE INDICATIONS AND USAGE section).
 
-## Aerobic gram-positive microorganisms
+Aerobic gram-positive microorganisms:
 
 Staphylococcus aureus (methicillin-susceptible strains)
 
@@ -21,7 +21,7 @@ Streptococcus pneumoniae
 
 Streptococcus Viridans Group
 
-## Aerobic gram-negative microorganisms
+Aerobic gram-negative microorganisms:
 
 Haemophilus influenzae
 
@@ -30,9 +30,9 @@ The safety and effectiveness of ciprofloxacin in treating conjunctivitis due to 
 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
-Ciprofloxacin exhibits in vitro minimal inhibitory concentrations (MIC’s) of 1µg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens.
+Ciprofloxacin exhibits in vitro minimal inhibitory concentrations (MIC's) of 1 μg/mL or less (systemic susceptible breakpoint) against most (≥ 90%) strains of the following ocular pathogens.
 
-## Aerobic gram-positive microorganisms
+Aerobic gram-positive microorganisms:
 
 Bacillus species
 
@@ -42,7 +42,7 @@ Staphylococcus haemolyticus
 
 Staphylococcus hominis
 
-## Aerobic gram-negative microorganisms
+Aerobic gram-negative microorganisms:
 
 Acinetobacter calcoaceticus
 
@@ -68,6 +68,9 @@ Most strains of Burkholderia cepacia and some strains of Stenotrophomonas maltop
 
 The minimal bactericidal concentration (MBC) generally does not exceed the minimal inhibitory concentration (MIC) by more than a factor of 2.
 Resistance to ciprofloxacin in vitro usually develops slowly (multiple-step mutation).
-
 Ciprofloxacin does not cross-react with other antimicrobial agents such as beta-lactams or aminoglycosides; therefore, organisms resistant to these drugs may be susceptible to ciprofloxacin.
-Organisms resistant to ciprofloxacin may be susceptible to beta-lactams or aminogylcosides.
+Organisms resistant to ciprofloxacin may be susceptible to beta-lactams or aminoglycosides.
+
+Clinical Studies
+
+In multicenter clinical trials, approximately 75% of the patients with signs and symptoms of bacterial conjunctivitis and positive conjunctival cultures were clinically cured and approximately 80% had presumed pathogens eradicated by the end of treatment (day 7).

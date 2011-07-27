@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
-  "inn": "ciprofloxacin",
-  "labeler": "ALCON LABORATORIES, INC.",
-  "package_ndcs": [
-    "0065-0654-08"
+  "application_numbers": [
+    "NDA020369"
   ],
-  "products": [],
+  "inn": "ciprofloxacin",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0654-35"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "CILOXAN"
+    }
+  ],
   "setid": "1c292706-a900-4d6f-979e-9c42d6ff2fb2",
   "source": "dailymed"
 }

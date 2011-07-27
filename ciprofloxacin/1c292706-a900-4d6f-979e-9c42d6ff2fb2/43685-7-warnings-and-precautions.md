@@ -18,7 +18,6 @@ If superinfection occurs, appropriate therapy should be initiated.
 Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
 
 Ciprofloxacin should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity reaction.
-
 Ophthalmic ointments may retard corneal healing and cause visual blurring.
 
 Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis.
@@ -67,7 +66,7 @@ After daily oral dosing for up to two years, there is no evidence that ciproflox
 
 ## Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C.
 
 Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
 In rabbits, as with most antimicrobial agents, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion.
@@ -75,18 +74,3 @@ No teratogenicity was observed at either dose.
 After intravenous administration, at doses up to 20 mg/kg, no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 There are no adequate and well controlled studies in pregnant women.
 CILOXAN® (ciprofloxacin hydrochloride ophthalmic ointment) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Nursing Mothers
-
-It is not known whether topically applied ciprofloxacin is excreted in human milk.
-However, it is known that orally administered ciprofloxacin is excreted in the milk of lactating rats and oral ciprofloxacin has been reported in human breast milk after a single 500 mg dose.
-Caution should be exercised when CILOXAN (ciprofloxacin hydrochloride ophthalmic ointment) is administered to a nursing mother.
-
-## Pediatric Use
-
-Safety and effectiveness of CILOXAN (ciprofloxacin hydrochloride ophthalmic ointment) 0.3% in pediatric patients below the age of two years have not been established.
-Although ciprofloxacin and other quinolones may cause arthropathy in immature Beagle dogs after oral administration, topical ocular administration of ciprofloxacin to immature animals did not cause any arthropathy and there is no evidence that the ophthalmic dosage form has any effect on the weight bearing joints.
-
-## Geriatric Use
-
-No overall clinical differences in safety or effectiveness have been observed between the elderly and other adult patients.

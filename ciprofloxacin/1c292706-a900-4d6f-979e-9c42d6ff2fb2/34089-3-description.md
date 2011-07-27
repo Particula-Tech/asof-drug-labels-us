@@ -8,5 +8,5 @@ Its empirical formula is C17H18FN3O3•HCl•H2O and its chemical structure is a
 
 Ciprofloxacin differs from other quinolones in that it has a fluorine atom at the 6-position, a piperazine moiety at the 7-position, and a cyclopropyl ring at the 1-position.
 
-Each gram of CILOXAN (ciprofloxacin hydrochloride ophthalmic ointment) contains: Active: ciprofloxacin HCl 3.33 mg equivalent to 3 mg base.
+Each gram of CILOXAN®(ciprofloxacin hydrochloride ophthalmic ointment) contains: Active: ciprofloxacin HCl 3.33 mg equivalent to 3 mg base.
 Inactives: mineral oil, white petrolatum.
