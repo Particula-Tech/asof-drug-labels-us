@@ -1,1 +1,0 @@
-For oral inhalation only
