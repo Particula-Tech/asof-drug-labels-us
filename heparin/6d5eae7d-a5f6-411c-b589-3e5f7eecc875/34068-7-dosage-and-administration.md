@@ -38,9 +38,12 @@ Although dosage must be adjusted for the individual patient according to the res
 | --- | --- | --- |
 | Deep Subcutaneous (Intrafat) Injection A different site should be used for each injection to prevent the development of massive hematoma | Initial Dose Every 8 hours or Every 12 hours | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously 8,000 to 10,000 units of a concentrated solution 15,000 to 20,000 units of a concentrated solution |
 | Intermittent Intravenous Injection | Initial Dose Every 4 to 6 hours | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
-| Intravenous Infusion | Initial Dose Continuous | 5,000 units by IV injection 20,000 to 40,000 units in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |
+| Intravenous Infusion | Initial Dose Continuous | 5,000 units by IV injection 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |
 
 ## Pediatric Use
+
+Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to neonates and infants (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
+When indicated, Heparin Sodium Injection, USP (porcine), preservative-free, should be used in neonates and infants.
 
 Follow recommendations of appropriate pediatric reference texts.
 In general, the following dosage schedule may be used as a guideline:
@@ -61,7 +64,7 @@ Frequently, a dose of 300 units of heparin sodium per kilogram of body weight is
 ## Low-Dose Prophylaxis of Postoperative Thromboembolism
 
 A number of well-controlled clinical trials have demonstrated that low-dose heparin prophylaxis, given just prior to and after surgery, will reduce the incidence of postoperative deep vein thrombosis in the legs (as measured by the I-125 fibrinogen technique and venography) and of clinical pulmonary embolism.
-The most widely used dosage has been 5,000 units two hours before surgery and 5,000 units every 8 to 12 hours thereafter for seven days or until the patient is fully ambulatory, whichever is longer.
+The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for seven days or until the patient is fully ambulatory, whichever is longer.
 The heparin is given by deep subcutaneous injection in the arm or abdomen with a fine needle (25 to 26 gauge) to minimize tissue trauma.
 A concentrated solution of heparin sodium is recommended.
 Such prophylaxis should be reserved for patients over the age of 40 who are undergoing major surgery.
@@ -81,7 +84,7 @@ Follow equipment manufacturers' operating directions carefully.
 ## Blood Transfusion
 
 Addition of 400 to 600 USP units per 100 mL of whole blood is usually employed to prevent coagulation.
-Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units / 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; and from this sterile solution, 6 to 8 mL are added per 100 mL of whole blood.
+Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units/1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; from this sterile solution, 6 to 8 mL are added per 100 mL of whole blood.
 
 ## Laboratory Samples
 

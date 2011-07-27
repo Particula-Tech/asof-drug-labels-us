@@ -1,13 +1,13 @@
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – VIAL LABEL
 
-NOT FOR LOCK FLUSH
-
 NDC 25021-401-02 Rx only
 
-Heparin Sodium Injection, USP 1,000 USP units per mL – 2 mL (Preservative-free) Single-Dose Vial
+HEPARIN Sodium Injection, USP
 
-LATEX-FREE
+Preservative-free
 
-For Intravenous or Subcutaneous Use
+1,000 USP units per mL
 
-From Porcine Intestines
+2 mL Single-Dose Vial
+
+NOT FOR LOCK FLUSH

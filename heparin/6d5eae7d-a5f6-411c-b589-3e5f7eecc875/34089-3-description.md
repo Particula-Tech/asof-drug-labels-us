@@ -12,7 +12,13 @@ The potency is determined by a biological assay using a USP reference standard b
 
 Structure of Heparin Sodium (representative subunits):
 
-Heparin Sodium Injection, USP (porcine) is available as follows:
+Heparin Sodium Injection, USP (porcine), preservative-free, is available as follows:
 
-Each 1,000 Units per mL contains: 1,000 USP Heparin Units (porcine); 9 mg sodium chloride; Water for Injection q.s.
+Each mL of the 1,000 Units per mL preparation contains: 1,000 USP Heparin Units (porcine); 9 mg sodium chloride; Water for Injection q.s.
+Made isotonic with sodium chloride.
+Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).
+
+Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, is available as follows:
+
+Each mL of the 20,000 Units per mL preparation contains: 20,000 USP Heparin Units (porcine); 0.01 mL benzyl alcohol (as a preservative); Water for Injection q.s.
 Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (5.0-7.5).

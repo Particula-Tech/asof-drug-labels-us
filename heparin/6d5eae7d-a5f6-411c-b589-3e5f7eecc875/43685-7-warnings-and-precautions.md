@@ -19,7 +19,7 @@ Hemorrhage can occur at virtually any site in patients receiving heparin.
 An unexplained fall in hematocrit, fall in blood pressure or any other unexplained symptom should lead to serious consideration of a hemorrhagic event.
 
 Heparin sodium should be used with extreme caution in disease states in which there is increased danger of hemorrhage.
-Some of the conditions in which increased danger of hemorrhage exist are:
+Some of the conditions in which increased danger of hemorrhage exists are:
 
 Cardiovascular - Subacute bacterial endocarditis, severe hypertension.
 
@@ -42,26 +42,21 @@ Thrombocytopenia has been reported to occur in patients receiving heparin with a
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued and, if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 
 ## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
 
 Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
 HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
 Thrombotic events may also be the initial presentation for HITT.
-These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possible death.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
 Thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
 
 ## Delayed Onset of HIT and HITT
 
 Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
-
-## Use in Neonates
-
-Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials (see WARNINGS, Fatal Medication Errors).
 
 # PRECAUTIONS
 
@@ -97,10 +92,13 @@ Since aminotransferase determinations are important in the differential diagnosi
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long-term studies in animals have been performed to evaluate the carcinogenic potential of heparin.
+No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
 Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
 
 ## Pregnancy
+
+Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to pregnant women (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
+Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to pregnant women.
 
 Teratogenic Effects: Pregnancy Category C - Animal reproduction studies have not been conducted with heparin sodium.
 It is also not known whether heparin sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
@@ -110,11 +108,24 @@ Nonteratogenic Effects - Heparin does not cross the placental barrier.
 
 ## Nursing Mothers
 
+Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to nursing mothers (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
+Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to nursing mothers.
+
 Heparin is not excreted in human milk.
 
 ## Pediatric Use
 
 See DOSAGE AND ADMINISTRATION, Pediatric Use.
+
+Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to neonates and infants (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use).
+Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to neonates and infants.
+Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.
+The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birthweight neonates.
+Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birthweight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
+Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 ## Geriatric Use
 
