@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019781"
+  ],
   "inn": "progesterone",
-  "labeler": "Solvay Pharmaceuticals, Inc.",
+  "labeler": "Abbott Products, Inc.",
   "package_ndcs": [
     "0032-1708-01",
     "0032-1711-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "Prometrium"
+    }
+  ],
   "setid": "0224b5a6-25a3-44c9-b94f-90e2e064c164",
   "source": "dailymed"
 }

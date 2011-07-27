@@ -1,11 +1,9 @@
 # HOW SUPPLIED
 
-PROMETRIUM® (progesterone, USP) Capsules 100 mg are round, peach-colored capsules branded with black imprint “SV.”
-
+PROMETRIUM (progesterone, USP) Capsules 100 mg are round, peach-colored capsules branded with black imprint “SV.”
 NDC 0032-1708-01 (Bottle of 100)
 
-PROMETRIUM® (progesterone, USP) Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “SV2.”
-
+PROMETRIUM (progesterone, USP) Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “SV2.”
 NDC 0032-1711-01 (Bottle of 100)
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
@@ -18,10 +16,10 @@ Keep out of reach of children.
 
 Manufactured by: Catalent Pharma Solutions St. Petersburg, FL 33716
 
-Marketed by: Solvay Pharmaceuticals, Inc. Marietta, GA 30062
+Marketed by: Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
-© 2008 Solvay Pharmaceuticals, Inc. All rights reserved.
+© 2010 Abbott Laboratories
 
-500032 Rev Jan 2008
+All rights reserved.
 
-500033 Rev Jan 2008
+500032 3E Rev Mar 2010

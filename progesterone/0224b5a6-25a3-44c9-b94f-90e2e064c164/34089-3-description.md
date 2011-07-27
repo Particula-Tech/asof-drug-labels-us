@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-PROMETRIUM® (progesterone, USP) Capsules contain micronized progesterone for oral administration.
+PROMETRIUM (progesterone, USP) Capsules contain micronized progesterone for oral administration.
 Progesterone has a molecular weight of 314.47 and a molecular formula of C21H30O2.
 Progesterone (pregn-4-ene-3, 20-dione) is a white or creamy white, odorless, crystalline powder practically insoluble in water, soluble in alcohol, acetone and dioxane and sparingly soluble in vegetable oils, stable in air, melting between 126° and 131°C.
 The structural formula is:

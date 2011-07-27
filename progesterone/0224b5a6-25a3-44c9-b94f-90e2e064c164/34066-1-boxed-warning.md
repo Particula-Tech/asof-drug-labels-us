@@ -1,16 +1,12 @@
-# WARNINGS
+# WARNING: CARDIOVASCULAR DISORDERS, BREAST CANCER and PROBABLE DEMENTIA FOR ESTROGEN PLUS PROGESTIN THERAPY
 
-Progestins and estrogens should not be used for the prevention of cardiovascular disease.
-(See WARNINGS, Cardiovascular Disorders.)
+Estrogens plus progestin therapy should not be used for the prevention of cardiovascular disease or dementia.
+(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Dementia.)
 
-The Women's Health Initiative (WHI) study reported increased risks of myocardial infarction, stroke, invasive breast cancer, pulmonary emboli, and deep vein thrombosis in postmenopausal women (50 to 79 years of age) during 5 years of treatment with oral conjugated estrogens (CE 0.625 mg) combined with medroxyprogesterone acetate (MPA 2.5 mg) relative to placebo.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+The Women's Health Initiative (WHI) estrogen plus progestin substudy reported increased risks of stroke, deep vein thrombosis (DVT), pulmonary embolism, and myocardial infarction in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg] combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo.
+(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders.)
 
-The Women's Health Initiative Memory Study (WHIMS), a substudy of WHI, reported increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with oral conjugated estrogens plus medroxyprogesterone acetate relative to placebo.
-It is unknown whether this finding applies to younger postmenopausal women.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+The WHI estrogen plus progestin substudy also demonstrated an increased risk of invasive breast cancer.
+(See CLINICAL STUDIES and WARNINGS, Malignant neoplasms, Breast Cancer.)
 
-Other doses of oral conjugated estrogens with medroxyprogesterone and other combinations and dosage forms of estrogens and progestins were not studied in the WHI clinical trials.
-In the absence of comparable data and product-specific studies, the relevance of the WHI findings to other products has not been established.
-Therefore, the risks should be assumed to be similar for all estrogen and progestin products.
-Because of these risks, estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
+The Women's Health Initiative Memory Study (WHIMS) estrogen plus progestin ancillary study of the WHI reported an increased risk of probable dementia in postmenopausal women 65 years of age or older.
