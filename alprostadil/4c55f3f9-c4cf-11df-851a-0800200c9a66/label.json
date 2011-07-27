@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020700"
+  ],
+  "inn": "alprostadil",
+  "labeler": "Meda Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0037-8110-01",
+    "0037-8110-06",
+    "0037-8120-01",
+    "0037-8120-06",
+    "0037-8130-01",
+    "0037-8130-06",
+    "0037-8140-01",
+    "0037-8140-06"
+  ],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "alprostadil",
+      "name": "MUSE"
+    }
+  ],
+  "setid": "4c55f3f9-c4cf-11df-851a-0800200c9a66",
+  "source": "dailymed"
+}
