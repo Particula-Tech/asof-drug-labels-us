@@ -6,7 +6,7 @@ HYDREA® (hydroxyurea capsules, USP)
 
 Capsule identification number: 830.
 The cap is opaque green and the body is opaque pink.
-They are imprinted on both sections in black ink with “HYDREA” and “830.”
+They are imprinted on both sections in black ink with "HYDREA" and "830".
 
 ## Storage
 

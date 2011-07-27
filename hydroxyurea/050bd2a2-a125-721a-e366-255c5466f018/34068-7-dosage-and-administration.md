@@ -14,6 +14,8 @@ Because of the rarity of melanoma, resistant chronic myelocytic leukemia, carcin
 All dosage should be based on the patient’s actual or ideal weight, whichever is less.
 Concurrent use of HYDREA with other myelosuppressive agents may require adjustment of dosages.
 
+Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
+
 ## Solid Tumors
 
 ### Intermittent Therapy

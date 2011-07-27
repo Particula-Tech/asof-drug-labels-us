@@ -9,7 +9,7 @@ It should be borne in mind that bone marrow depression is more likely in patient
 Patients who have received irradiation therapy in the past may have an exacerbation of postirradiation erythema.
 
 In HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine, fatal and nonfatal pancreatitis have occurred.
-Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
+Hepatotoxicity and hepatic failure resulting in death have been reported during postmarketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
 This combination should be avoided.
 
@@ -112,7 +112,7 @@ Prospective studies on the potential for hydroxyurea to interact with other drug
 Concurrent use of hydroxyurea and other myelosuppressive agents or radiation therapy may increase the likelihood of bone marrow depression or other adverse events.
 (See WARNINGS and ADVERSE REACTIONS.)
 
-Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
+Studies have shown that there is an analytical interference of hydroxyurea with the enzymes (urease, uricase, and lactic dehydrogenase) used in the determination of urea, uric acid and lactic acid, rendering falsely elevated results of these in patients treated with hydroxyurea.
 
 ## Information for Patients
 
