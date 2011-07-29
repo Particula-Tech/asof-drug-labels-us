@@ -1,190 +1,100 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Cholesterol and triglycerides in the bloodstream circulate as part of lipoprotein complexes.
-These complexes can be separated by density ultracentrifugation into high (HDL), intermediate (IDL), low (LDL), and very low (VLDL) density lipoprotein fractions.
-Triglycerides (TG) and cholesterol synthesized in the liver are incorporated into very low density lipoproteins (VLDLs) and released into the plasma for delivery to peripheral tissues.
-In a series of subsequent steps, VLDLs are transformed into intermediate density lipoproteins (IDLs), and cholesterol-rich low density lipoproteins (LDLs).
-High density lipoproteins (HDLs), containing apolipoprotein A, are hypothesized to participate in the reverse transport of cholesterol from tissues back to the liver.
+## 12.1 Mechanism of Action
 
-Pravastatin sodium produces its lipid-lowering effect in two ways.
-First, as a consequence of its reversible inhibition of HMG-CoA reductase activity, it effects modest reductions in intracellular pools of cholesterol.
-This results in an increase in the number of LDL-receptors on cell surfaces and enhanced receptor-mediated catabolism and clearance of circulating LDL.
-Second, pravastatin inhibits LDL production by inhibiting hepatic synthesis of VLDL, the LDL precursor.
+Pravastatin is a reversible inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol.
+In addition, pravastatin reduces VLDL and TG and increases HDL-C.
 
-Clinical and pathologic studies have shown that elevated levels of total cholesterol (Total-C), low density lipoprotein cholesterol (LDL-C), and apolipoprotein B (ApoB – a membrane transport complex for LDL) promote human atherosclerosis.
-Similarly, decreased levels of HDL-cholesterol (HDL-C) and its transport complex, apolipoprotein A, are associated with the development of atherosclerosis.
-Epidemiologic investigations have established that cardiovascular morbidity and mortality vary directly with the level of Total-C and LDL-C and inversely with the level of HDL-C.
-Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including VLDL, IDL, and remnants, can also promote atherosclerosis.
-Elevated plasma TG are frequently found in a triad with low HDL-C levels and small LDL particles, as well as in association with non-lipid metabolic risk factors for coronary heart disease.
-As such, total plasma TG has not consistently been shown to be an independent risk factor for CHD.
-Furthermore, the independent effect of raising HDL or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
-In both normal volunteers and patients with hypercholesterolemia, treatment with pravastatin sodium tablets reduced Total-C, LDL-C, and apolipoprotein B. Pravastatin sodium also reduced VLDL-C and TG and produced increases in HDL-C and apolipoprotein A. The effects of pravastatin on Lp (a), fibrinogen, and certain other independent biochemical risk markers for coronary heart disease are unknown.
-Although pravastatin is relatively more hydrophilic than other HMG-CoA reductase inhibitors, the effect of relative hydrophilicity, if any, on either efficacy or safety has not been established.
+## 12.3 Pharmacokinetics
 
-In one primary (West of Scotland Coronary Prevention Study – WOS)1 prevention study, pravastatin has been shown to reduce cardiovascular morbidity and mortality across a wide range of cholesterol levels (see Clinical Studies).
+General
 
-## Pharmacokinetics/Metabolism
+Absorption: Pravastatin sodium is administered orally in the active form.
+In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
+Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
+While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
 
-Pravastatin sodium is administered orally in the active form.
-In clinical pharmacology studies in man, pravastatin is rapidly absorbed, with peak plasma levels of parent compound attained 1 to 1.5 hours following ingestion.
-Based on urinary recovery of radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
-While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with, or 1 hour prior to, meals.
-
-Pravastatin undergoes extensive first-pass extraction in the liver (extraction ratio 0.66), which is its primary site of action, and the primary site of cholesterol synthesis and of LDL-C clearance.
-In vitro studies demonstrated that pravastatin is transported into hepatocytes with substantially less uptake into other cells.
-In view of pravastatin’s apparently extensive first-pass hepatic metabolism, plasma levels may not necessarily correlate perfectly with lipid-lowering efficacy.
-Pravastatin plasma concentrations [including: area under the concentration-time curve (AUC), peak (Cmax), and steady-state minimum (Cmin)] are directly proportional to administered dose.
+Pravastatin plasma concentrations, including area under the concentration-time curve (AUC), Cmax, and steady-state minimum (Cmin), are directly proportional to administered dose.
 Systemic bioavailability of pravastatin administered following a bedtime dose was decreased 60% compared to that following an AM dose.
 Despite this decrease in systemic bioavailability, the efficacy of pravastatin administered once daily in the evening, although not statistically significant, was marginally more effective than that after a morning dose.
-This finding of lower systemic bioavailability suggests greater hepatic extraction of the drug following the evening dose.
-Steady-state AUCs, Cmax and Cmin plasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin sodium tablets.
-Approximately 50% of the circulating drug is bound to plasma proteins.
-Following single dose administration of 14C-pravastatin, the elimination half-life (t½) for total radioactivity (pravastatin plus metabolites) in humans is 77 hours.
 
-Pravastatin, like other HMG-CoA reductase inhibitors, has variable bioavailability.
 The coefficient of variation (CV), based on between-subject variability, was 50% to 60% for AUC.
-Pravastatin 20 mg was administered under fasting conditions in adults.
-The geometric means of Cmax and AUC ranged from 23.3 to 26.3 ng/mL and from 54.7 to 62.2 ng•hr/mL, respectively.
+The geometric means of pravastatin Cmax and AUC following a 20 mg dose in the fasted state were 26.5 ng/mL and 59.8 ng*hr/mL, respectively.
 
-Approximately 20% of a radiolabeled oral dose is excreted in urine and 70% in the feces.
+Steady-state AUCs, Cmax, and Cmin plasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin sodium tablets.
+
+Distribution: Approximately 50% of the circulating drug is bound to plasma proteins.
+
+Metabolism: The major biotransformation pathways for pravastatin are: (a) isomerization to 6-epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945.
+The 3α-hydroxyisomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound.
+Pravastatin undergoes extensive first-pass extraction in the liver (extraction ratio 0.66).
+
+Excretion: Approximately 20% of a radiolabeled oral dose is excreted in urine and 70% in the feces.
 After intravenous administration of radiolabeled pravastatin to normal volunteers, approximately 47% of total body clearance was via renal excretion and 53% by non-renal routes (i.e., biliary excretion and biotransformation).
-Since there are dual routes of elimination, the potential exists both for compensatory excretion by the alternate route as well as for accumulation of drug and/or metabolites in patients with renal or hepatic insufficiency.
 
-In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N = 7) and normal subjects (N = 7), the mean AUC varied 18 fold in cirrhotic patients and 5 fold in healthy subjects.
-Similarly, the peak pravastatin values varied 47 fold for cirrhotic patients compared to 6 fold for healthy subjects.
+Following single dose oral administration of 14C-pravastatin, the radioactive elimination t½ for pravastatin is 1.8 hours in humans.
 
-Biotransformation pathways elucidated for pravastatin include: (a) isomerization to 6-epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906), (b) enzymatic ring hydroxylation to SQ 31,945, (c) ω-1 oxidation of the ester side chain, (d) β-oxidation of the carboxy side chain, (e) ring oxidation followed by aromatization, (f) oxidation of a hydroxyl group to a keto group, and (g) conjugation.
-The major degradation product is the 3α-hydroxy isomeric metabolite, which has one-tenth to one-fortieth the HMG-CoA reductase inhibitory activity of the parent compound.
+Specific Populations
 
-In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).
+Renal Impairment: A single 20 mg oral dose of pravastatin was administered to 24 patients with varying degrees of renal impairment (as determined by creatinine clearance).
+No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).
+Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmax values, respectively, and a 0.61 hour shorter t½ for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).
+
+Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N = 7) and normal subjects (N = 7), the mean AUC varied 18 fold in cirrhotic patients and 5 fold in healthy subjects.
+Similarly, the peak pravastatin values varied 47 fold for cirrhotic patients compared to 6 fold for healthy subjects [see Warnings and Precautions (5.2)].
+
+Geriatric: In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).
 In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65 to 78 years old) compared with younger women (18 to 38 years old).
-In both studies, Cmax, Tmax and t½ values were similar in older and younger subjects.
+In both studies, Cmax, Tmax, and t½ values were similar in older and younger subjects [see Use in Specific Populations (8.5)].
 
-After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng•hr/mL for children (8 to 11 years, N = 14) and adolescents (12 to 16 years, N = 10), respectively.
+Pediatric: After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N = 14) and adolescents (12 to 16 years, N = 10), respectively.
 The corresponding values for Cmax were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively.
-No conclusion can be made based on these findings due to the small number of samples and large variability.
+No conclusion can be made based on these findings due to the small number of samples and large variability [see Use in Specific Populations (8.4)].
 
-## Clinical Studies
+Drug-Drug Interactions
 
-### Prevention of Coronary Heart Disease
+Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
-In the Pravastatin Primary Prevention Study (West of Scotland Coronary Prevention Study – WOS)1, the effect of pravastatin sodium on fatal and nonfatal coronary heart disease (CHD) was assessed in 6595 men 45 to 64 years of age, without a previous myocardial infarction (MI), and with LDL-C levels between 156 to 254 mg/dL (4 to 6.7 mmol/L).
-In this randomized, double-blind, placebo-controlled study, patients were treated with standard care, including dietary advice, and either pravastatin sodium 40 mg daily (N = 3302) or placebo (N = 3293) and followed for a median duration of 4.8 years.
-Median (25th, 75th percentile) percent changes from baseline after 6 months of pravastatin treatment in Total-C, LDL-C, TG, and HDL-C were -20.3 (-26.9, -11.7), -27.7 (-36.0, -16.9), -9.1 (-27.6, 12.5), and 6.7 (-2.1, 15.6), respectively.
+| Coadministered Drug and Dosing Regimen |  | Pravastatin |  |
+| --- | --- | --- | --- |
+| Dose (mg) | Change in AUC | Change in Cmax |  |
+| Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
+| Clarithromycin 500 mg BID for 9 days | 40 mg OD for 8 days | ↑110% | ↑128% |
+| Colestipol 10 g single dose | 20 mg single dose | ↓47% | ↓53% |
+| Cholestyramine 4 g single dose | 20 mg single dose |  |  |
+| Administered simultaneously |  | ↓40% | ↓39% |
+| Administered 1 hour apart |  | ↑12% | ↑30% |
+| Administered 4 hours apart |  | ↓12% | ↓6.8% |
+| Cholestyramine 24 g OD for 4 weeks | 20 mg BID for 8 weeks | ↓51% | ↑4.9% |
+|  | 5 mg BID for 8 weeks | ↓38% | ↑23% |
+|  | 10 mg BID for 8 weeks | ↓18% | ↓33% |
+| Fluconazole |  |  |  |
+| 200 mg IV for 6 days | 20 mg PO + 10 mg IV | ↓34% | ↓33% |
+| 200 mg PO for 6 days | 20 mg PO + 10 mg IV | ↓16% | ↓16% |
+| Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days | 40 mg single dose | ↑31% | ↑42% |
+| Cimetidine 300 mg QID for 3 days | 20 mg single dose | ↑30% | ↑9.8% |
+| Antacids 15 mL QID for 3 days | 20 mg single dose | ↓28% | ↓24% |
+| Digoxin 0.2 mg OD for 9 days | 20 mg OD for 9 days | ↑23% | ↑26% |
+| Probucol 500 mg single dose | 20 mg single dose | ↑14% | ↑24% |
+| Warfarin 5 mg OD for 6 days | 20 mg BID for 6 days | ↓13% | ↓6.7% |
+| Itraconazole 200 mg OD for 30 days | 40 mg OD for 30 days | ↑11% (compared to Day 1) | ↑17% (compared to Day 1) |
+| Gemfibrozil 600 mg single dose | 20 mg single dose | ↓7.0% | ↓20% |
+| Aspirin 324 mg single dose | 20 mg single dose | ↑4.7% | ↑8.9% |
+| Nicotinic Acid 1 g single dose | 20 mg single dose | ↓3.6% | ↓8.2% |
+| Diltiazem | 20 mg single dose | ↑2.7% | ↑30% |
+| Grapefruit juice | 40 mg single dose | ↓1.8% | ↑3.7% |
 
-Pravastatin sodium significantly reduced the rate of first coronary events (either coronary heart disease [CHD] death or nonfatal MI) by 31% [248 events in the placebo group (CHD death = 44, nonfatal MI = 204) vs 174 events in the pravastatin sodium group (CHD death = 31, nonfatal MI = 143), p = 0.0001 (see figure below)].
-The risk reduction with pravastatin sodium was similar and significant throughout the entire range of baseline LDL cholesterol levels.
-This reduction was also similar and significant across the age range studied with a 40% risk reduction for patients younger than 55 years and a 27% risk reduction for patients 55 years and older.
-The Pravastatin Primary Prevention Study included only men, and therefore it is not clear to what extent these data can be extrapolated to a similar population of female patients.
+BID = twice daily; OD = once daily; QID = four times daily
 
-Pravastatin sodium also significantly decreased the risk for undergoing myocardial revascularization procedures (coronary artery bypass graft [CABG] surgery or percutaneous transluminal coronary angioplasty [PTCA]) by 37% (80 vs 51 patients, p = 0.009) and coronary angiography by 31% (128 vs 90, p = 0.007).
-Cardiovascular deaths were decreased by 32% (73 vs 50, p = 0.03) and there was no increase in death from non-cardiovascular causes.
+Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 
-### Secondary Prevention of Cardiovascular Events
+| Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |
+| --- | --- | --- | --- |
+| 20 mg BID for 6 days | Warfarin 5 mg OD for 6 days | ↑17% | ↑15% |
+|  | Chain in mean prothrombin time | ↑0.4 sec |  |
+| 20 mg OD for 9 days | Digoxin 0.2 mg OD for 9 days | ↑4.6% | ↑5.3% |
+| 20 mg BID for 4 weeks | Antipyrine 1.2 g single dose | ↑3.0% | Not Reported |
+| 10 mg BID for 4 weeks |  | ↑1.6% |  |
+| 5 mg BID for 4 weeks |  | ↑ Less than 1% |  |
 
-In the Pravastatin Limitation of Atherosclerosis in the Coronary Arteries (PLAC I)2 study, the effect of pravastatin therapy on coronary atherosclerosis was assessed by coronary angiography in patients with coronary disease and moderate hypercholesterolemia (baseline LDL-C range: 130 to 190 mg/dL).
-In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at three years in 264 patients.
-Although the difference between pravastatin and placebo for the primary endpoint (per-patient change in mean coronary artery diameter) and one of two secondary endpoints (change in percent lumen diameter stenosis) did not reach statistical significance, for the secondary endpoint of change in minimum lumen diameter, statistically significant slowing of disease was seen in the pravastatin treatment group (p = 0.02).
-
-In the Regression Growth Evaluation Statin Study (REGRESS)3, the effect of pravastatin on coronary atherosclerosis was assessed by coronary angiography in 885 patients with angina pectoris, angiographically documented coronary artery disease and hypercholesterolemia (baseline total cholesterol range: 160 to 310 mg/dL).
-In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at two years in 653 patients (323 treated with pravastatin).
-Progression of coronary atherosclerosis was significantly slowed in the pravastatin group as assessed by changes in mean segment diameter (p = 0.037) and minimum obstruction diameter (p = 0.001).
-
-Analysis of pooled events from PLAC I, the Pravastatin, Lipids and Atherosclerosis in the Carotids Study (PLAC II)4, REGRESS, and the Kuopio Atherosclerosis Prevention Study (KAPS)5 (combined N = 1891) showed that treatment with pravastatin was associated with a statistically significant reduction in the composite event rate of fatal and nonfatal myocardial infarction (46 events or 6.4% for placebo versus 21 events or 2.4% for pravastatin, p = 0.001).
-The predominant effect of pravastatin was to reduce the rate of nonfatal myocardial infarction.
-
-### Primary Hypercholesterolemia (Fredrickson Type IIa and IIb)
-
-Pravastatin sodium is highly effective in reducing Total-C, LDL-C and triglycerides (TG) in patients with heterozygous familial, presumed familial combined and non-familial (non-FH) forms of primary hypercholesterolemia, and mixed dyslipidemia.
-A therapeutic response is seen within 1 week, and the maximum response usually is achieved within 4 weeks.
-This response is maintained during extended periods of therapy.
-In addition, pravastatin sodium is effective in reducing the risk of acute coronary events in hypercholesterolemic patients with and without previous myocardial infarction.
-
-A single daily dose is as effective as the same total daily dose given twice a day.
-In multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin in daily doses ranging from 10 mg to 40 mg consistently and significantly decreased Total-C, LDL-C, TG, and Total-C/HDL-C and LDL-C/HDL-C ratios (see Table 1).
-
-In a pooled analysis of two multicenter, double-blind, placebo-controlled studies of patients with primary hypercholesterolemia, treatment with pravastatin at a daily dose of 80 mg (N = 277) significantly decreased Total-C, LDL-C, and TG.
-The 25th and 75th percentile changes from baseline in LDL-C for pravastatin 80 mg were -43% and -30%.
-The efficacy results of the individual studies were consistent with the pooled data (see Table 1).
-
-Treatment with pravastatin sodium modestly decreased VLDL-C and pravastatin sodium across all doses produced variable increases in HDL-C (see Table 1).
-
-Table 1: Primary Hypercholesterolemia Studies: Dose Response of Pravastatin Once Daily Administration
-
-| Dose | Total-C | LDL-C | HDL-C | TG |
-| --- | --- | --- | --- | --- |
-| Mean Percent Changes From Baseline After 8 Weeksa multicenter, double-blind, placebo-controlled study |  |  |  |  |
-| Placebo (N = 36) | -3% | -4% | +1% | -4% |
-| 10 mg (N = 18) | -16% | -22% | +7% | -15% |
-| 20 mg (N = 19) | -24% | -32% | +2% | -11% |
-| 40 mg (N = 18) | -25% | -34% | +12% | -24% |
-| Mean Percent Changes From Baseline After 6 Weekspooled analysis of 2 multicenter, double-blind, placebo-controlled studies |  |  |  |  |
-| Placebo (N = 162) | 0% | -1% | -1% | +1% |
-| 80 mg (N = 277) | -27% | -37% | +3% | -19% |
-
-In another clinical trial, patients treated with pravastatin in combination with cholestyramine (70% of patients were taking cholestyramine 20 or 24 g per day) had reductions equal to or greater than 50% in LDL-C.
-Furthermore, pravastatin attenuated cholestyramine-induced increases in TG levels (which are themselves of uncertain clinical significance).
-
-### Hypertriglyceridemia (Fredrickson Type IV)
-
-The response to pravastatin in patients with Type IV hyperlipidemia (baseline TG > 200 mg/dL and LDL-C < 160 mg/dL) was evaluated in a subset of 429 patients.
-For pravastatin-treated subjects, the median (min, max) baseline triglyceride level was 246.0 (200.5, 349.5) mg/dL (see Table 2).
-
-Table 2: Patients With Fredrickson Type IV Hyperlipidemia: Median (25th, 75th Percentile) Percent Change From Baseline
-
-|  | Pravastatin 40 mg (N = 429) | Placebo (N = 430) |
-| --- | --- | --- |
-| Triglycerides | -21.1 (-34.8, 1.3) | -6.3 (-23.1, 18.3) |
-| Total-C | -22.1 (-27.1, -14.8) | 0.2 (-6.9, 6.8) |
-| LDL-C | -31.7 (-39.6, -21.5) | 0.7 (-9.0, 10.0) |
-| HDL-C | 7.4 (-1.2, 17.7) | 2.8 (-5.7, 11.7) |
-| Non-HDL-C | -27.2 (-34.0, -18.5) | -0.8 (-8.2, 7.0) |
-
-### Dysbetalipoproteinemia (Fredrickson Type III)
-
-The response to pravastatin in two double-blind crossover studies of 46 patients with genotype E2/E2 and Fredrickson Type III dysbetalipoproteinemia is shown in Table 3.
-
-Table 3: Patients With Fredrickson Type III Dysbetalipoproteinemia: Median (min, max) Percent Change From Baseline
-
-|  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 20) |
-| --- | --- | --- |
-| Study 1 |  |  |
-| Total-C | 386.5 (245.0, 672.0) | -32.7 (-58.5, 4.6) |
-| Triglycerides | 443.0 (275.0, 1299.0) | -23.7 (-68.5, 44.7) |
-| VLDL-CN = 14 | 206.5 (110.0, 379.0) | -43.8 (-73.1, -14.3) |
-| LDL-C | 117.5 (80.0, 170.0) | -40.8 (-63.7, 4.6) |
-| HDL-C | 30.0 (18.0, 88.0) | 6.4 (-45.0, 105.6) |
-| Non-HDL-C | 344.5 (215.0, 646.0) | -36.7 (-66.3, 5.8) |
-|  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) Pravastatin 40 mg (N = 26) |
-| Study 2 |  |  |
-| Total-C | 340.3 (230.1, 448.6) | -31.4 (-54.5, -13.0) |
-| Triglycerides | 343.2 (212.6, 845.9) | -11.9 (-56.5, 44.8) |
-| VLDL-C | 145.0 (71.5, 309.4) | -35.7 (-74.7, 19.1) |
-| LDL-C | 128.6 (63.8, 177.9) | -30.3 (-52.2, 13.5) |
-| HDL-C | 38.7 (27.1, 58.0) | 5.0 (-17.7, 66.7) |
-| Non-HDL-C | 295.8 (195.3, 421.5) | -35.5 (-81.0, -13.5) |
-
-## Pediatric Clinical Study
-
-A double-blind, placebo-controlled study in 214 patients (100 boys and 114 girls) with heterozygous familial hypercholesterolemia (HeFH), aged 8 to 18 years was conducted for two (2) years.
-The children (aged 8 to 13 years) were randomized to placebo (N = 63) or 20 mg of pravastatin daily (N = 65) and the adolescents (aged 14 to 18 years) were randomized to placebo (N = 45) or 40 mg of pravastatin daily (N = 41).
-Inclusion in the study required an LDL-C level > 95th percentile for age and sex and one parent with either a clinical or molecular diagnosis of familial hypercholesterolemia.
-The mean baseline LDL-C value was 239 mg/dL and 237 mg/dL in the pravastatin (range: 151 to 405 mg/dL) and placebo (range: 154 to 375 mg/dL) groups, respectively.
-
-Pravastatin significantly decreased plasma levels of LDL-C, Total-C, and apolipoprotein B in both children and adolescents (see Table 4).
-The effect of pravastatin treatment in the two age groups was similar.
-
-Table 4: Lipid-Lowering Effects of Pravastatin in Pediatric Patients With Heterozygous Familial Hypercholesterolemia: Least-Squares Mean Percent Change From Baseline at Month 24 (Last Observation Carried Forward: Intent-to-Treat)The above least-squares mean values were calculated based on log-transformed lipid values.
-
-|  | Pravastatin 20 mg (Aged 8 to 13 years) N = 65 | Pravastatin 40 mg (Aged 14 to 18 years) N = 41 | Combined Pravastatin (Aged 8 to 18 years) N = 106 | Combined Placebo (Aged 8 to 18 years) N = 108 | 95% CI of the Difference Between Combined Pravastatin and Placebo |
-| --- | --- | --- | --- | --- | --- |
-| LDL-C | -26.04Significant at p ≤ 0.0001 when compared with placebo. | -21.07 | -24.07 | -1.52 | (-26.74, -18.86) |
-| TC | -20.75 | -13.08 | -17.72 | -0.65 | (-20.40, -13.83) |
-| HDL-C | 1.04 | 13.71 | 5.97 | 3.13 | (-1.71, 7.43) |
-| TG | -9.58 | -0.30 | -5.88 | -3.27 | (-13.95, 10.01) |
-| ApoB (N) | -23.16 (61) | -18.08 (39) | -21.11 (100) | -0.97 (106) | (-24.29, -16.18) |
-
-The mean achieved LDL-C was 186 mg/dL (range: 67 to 363 mg/dL) in the pravastatin group compared to 236 mg/dL (range: 105 to 438 mg/dL) in the placebo group.
-
-The safety and efficacy of pravastatin doses above 40 mg daily have not been studied in children.
-The long-term efficacy of pravastatin therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+BID = twice daily; OD = once daily
