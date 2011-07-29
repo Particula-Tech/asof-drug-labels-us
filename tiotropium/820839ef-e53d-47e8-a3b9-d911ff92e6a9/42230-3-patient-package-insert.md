@@ -174,7 +174,7 @@ IT5300B 75740-03
 
 Patient's Instructions for Use
 
-SPIRIVA HandiHaler® (tiotropium bromide inhalation powder)
+SPIRIVA® HandiHaler® (tiotropium bromide inhalation powder)
 
 Important Information: Do not swallow SPIRIVA capsules.
 SPIRIVA capsules should only be used with the HandiHaler device.
