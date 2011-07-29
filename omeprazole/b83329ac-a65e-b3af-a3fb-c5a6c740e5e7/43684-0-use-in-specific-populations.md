@@ -12,18 +12,18 @@ An expert review of published data on experiences with omeprazole use during pre
 
 Three epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2-receptor antagonists or other controls.
 A population-based prospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
-In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50-1.34), low birth weight or low Apgar score.
+In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50 to 1.34), low birth weight or low Apgar score.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in the normal population.
 The author concluded that both effects may be random.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole).
-The overall malformation rate was 4.4% (95% CI 3.6-5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5-8.1).
-The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3-2.2).
+The overall malformation rate was 4.4% (95% CI 3.6 to 5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5 to 8.1).
+The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3 to 2.2).
 The study could effectively rule out a relative risk greater than 2.5 for all malformations.
 Rates of preterm delivery or growth retardation did not differ between the groups.
 
 A controlled prospective observational study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
-The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1-5%).
+The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1 to 5%).
 Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight did not differ between the groups.
 The sample size in this study has 80% power to detect a 5-fold increase in the rate of major malformation.
 

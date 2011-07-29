@@ -58,13 +58,23 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 6
 
-|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
+|  | Per-Protocol † | Intent-to-Treat ‡ | Per-Protocol † | Intent-to-Treat ‡ |
 | --- | --- | --- | --- | --- |
 | Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
-|  | Omeprazole +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
-| Study 1 | (p < 0.05) versus clarithromycin plus amoxicillin.77 [64, 86](n = 64) | 69 [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
-| Study 2 | 78 [67, 88] (n = 65) | 73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
-| Study 3 | 90 [80, 96] (n = 69) | 83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
+|  | Omeprazole + clarithromycin + amoxicillin |  | Clarithromycin + amoxicillin |  |
+| Study 1 | *77 [64, 86] (n = 64) | *69 [57, 79] (n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
+| Study 2 | *78 [67,88] (n = 65) | *73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
+| Study 3 | *90 [80, 96] (n = 69) | *83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
+
+† Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture.
+Patients were included in the analysis if they completed the study.
+Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy.
+The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer.
+
+‡ Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease.
+All dropouts were included as failures of therapy.
+
+* (p < 0.05) versus clarithromycin plus amoxicillin.
 
 Dual Therapy (omeprazole/clarithromycin)
 
@@ -86,12 +96,16 @@ Table 7
 | U.S. Studies |  |  |  |
 | --- | --- | --- | --- |
 | H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |
-|  | Omeprazole +Clarithromycin | Omeprazole | Clarithromycin |
-| Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05) Statistically significantly higher than omeprazole monotherapy (p < 0.05)(n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
-| Study 5 | 64 [51, 76](n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
+|  | Omeprazole + Clarithromycin | Omeprazole | Clarithromycin |
+| Study 4 | 74 [60, 85] †‡(n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
+| Study 5 | 64 [51, 76] †‡(n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
 | Non U.S. Studies |  |  |  |
-| Study 6 | 83 [71, 92] (n=60) | 1[0, 7] (n=74) | N/A |
-| Study 7 | 74 [64, 83](n=86) | 1[0, 6] (n=90) | N/A |
+| Study 6 | 83 [71, 92] ‡(n=60) | 1[0, 7] (n=74) | N/A |
+| Study 7 | 74 [64, 83] ‡(n=86) | 1[0, 6] (n=90) | N/A |
+
+† Statistically significantly higher than clarithromycin monotherapy (p < 0.05)
+
+‡ Statistically significantly higher than omeprazole monotherapy (p < 0.05)
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
 
@@ -99,38 +113,58 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 
 Table 8
 
-| Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence |  |  |
+Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence
+
+|  | H. pylori eradicated # | H. pylori not eradicated # |
 | --- | --- | --- |
-|  | H. pylori eradicated H. pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
-| U.S. StudiesCombined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms 6 months post-treatment |  |  |
-| Study 4 | (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated35 (n=49) | 60 (n=88) |
-| Study 5 | 8 (n=53) | 60 (n=106) |
-| Non U.S. StudiesCombined results for omeprazole + clarithromycin and omeprazole treatment arms 6 months post-treatment |  |  |
-| Study 6 | 5 (n=43) | 46 (n=78) |
-| Study 7 | 6 (n=53) | 43 (n=107) |
+| U.S. Studies 6 months post-treatment † |  |  |
+| Study 4 | *35(n=49) | 60 (n=88) |
+| Study 5 | *8 (n=53) | 60 (n=106) |
+| Non U.S. Studies ‡ |  |  |
+| 6 months post-treatment |  |  |
+| Study 6 | *5 (n=43) | 46 (n=78) |
+| Study 7 | *6 (n=53) | 43 (n=107) |
 | 12 months post-treatment |  |  |
-| Study 6 | 5 (n=39) | 68 (n=71) |
+| Study 6 | *5 (n=39) | 68 (n=71) |
+
+#H. pylori eradication status assessed at same time point as ulcer recurrence
+
+† Combined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms
+
+‡ Combined results for omeprazole + clarithromycin and omeprazole treatment arms
+
+* (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated
 
 ## 14.2 Gastric Ulcer
 
 In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg once daily, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
+Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated)
+
 |  | Omeprazole20 mg once daily(n=202) | Omeprazole40 mg once daily(n=214) | Placebo(n=104) |
-| Week 4 | 47.5 (p < 0.01) Omeprazole 40 mg or 20 mg versus placebo | 55.6 | 30.8 |
-| Week 8 | 74.8 | 82.7 (p < 0.05) Omeprazole 40 mg versus 20 mg | 48.1 |
+| --- | --- | --- | --- |
+| Week 4 | 47.5** | 55.6** | 30.8 |
+| Week 8 | 74.8** | 82.7**,+ | 48.1 |
+
+** (p < 0.01) omeprazole 40 mg or 20 mg versus placebo
+
++(p < 0.05) omeprazole 40 mg versus 20 mg
 
 For the stratified groups of patients with ulcer size less than or equal to 1 cm, no difference in healing rates between 40 mg and 20 mg was detected at either 4 or 8 weeks.
 For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
 
 In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once daily, 20 mg once daily, and ranitidine 150 mg twice a day were evaluated.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
+Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated)
+
 |  | Omeprazole20 mg once daily(n=200) | Omeprazole40 mg once daily(n=187) | Ranitidine 150 mg twice daily.(n=199) |
-| Week 4 | 63.5 | 78.1 (p < 0.01) Omeprazole 40 mg versus ranitidine(p < 0.01) Omeprazole 40 mg versus 20 mg | 56.3 |
-| Week 8 | 81.5 | 91.4 | 78.4 |
+| --- | --- | --- | --- |
+| Week 4 | 63.5 | 78.1**,++ | 56.3 |
+| Week 8 | 81.5 | 91.4**,++ | 78.4 |
+
+** (p < 0.01) omeprazole 40 mg versus ranitidine
+
+++ (p < 0.01) omeprazole 40 mg versus 20 mg
 
 ## 14.3 Gastroesophageal Reflux Disease (GERD)
 
@@ -139,12 +173,18 @@ Symptomatic GERD
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
 Results are shown below.
 
-% Successful Symptomatic Outcome Defined as complete resolution of heartburn
+% Successful Symptomatic Outcome
 
 |  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | PLACEBO a.m. |
 | --- | --- | --- | --- |
-| All patients | 46 (p < 0.005) versus 10 mg(p < 0.005) versus placebo(n=205) | 31(n=199) | 13 (n=105) |
-| Patients with confirmed GERD | 56 (n=115) | 36 (n=109) | 14 (n=59) |
+| All patients | 46*,†(n=205) | 31†(n=199) | 13 (n=105) |
+| Patients with confirmed GERD | 56*,+(n=115) | 36†(n=109) | 14 (n=59) |
+
+a Defined as complete resolution of heartburn
+
+* (p < 0.005) versus 10 mg
+
+† (p < 0.005) versus placebo
 
 ## 14.4 Erosive Esophagitis
 
@@ -152,8 +192,10 @@ In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of
 
 | Week | 20 mgOmeprazole(n=83) | 40 mgOmeprazole (n=87) | Placebo(n=43) |
 | --- | --- | --- | --- |
-| 4 | 39 (p < 0.01) Omeprazole versus placebo. | 45 | 7 |
-| 8 | 74 | 75 | 14 |
+| 4 | 39** | 45** | 7 |
+| 8 | 74** | 75** | 14 |
+
+** ** (p < 0.01) omeprazole versus placebo.
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of omeprazole in the percentage healing rate.
 Other controlled clinical trials have also shown that omeprazole is effective in severe GERD.
@@ -171,7 +213,9 @@ Life Table Analysis
 
 |  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 6 months | (p < 0.01) Omeprazole 20 mg once daily versus Omeprazole 20 mg 3 consecutive days per week or placebo.70 | 34 | 11 |
+| Percent in endoscopic remission at 6 months | *70 | 34 | 11 |
+
+* (p < 0.01) omeprazole 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
 
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of erosive esophagitis.
@@ -180,7 +224,11 @@ Life Table Analysis
 
 |  | Omeprazole20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | ranitidine150 mg twice daily(n=128) |
 | --- | --- | --- | --- |
-| Percent in endoscopic remission at 12 months | (p = 0.01) Omeprazole 20 mg once daily, versus Omeprazole 10 mg- once daily or Ranitidine77 | (p= 0.03) Omeprazole 10 mg once daily, versus Ranitidine58 | 46 |
+| Percent in endoscopic remission at 12 months | *77 | ‡58 | 46 |
+
+* (p = 0.01) omeprazole 20 mg once daily. versus omeprazole 10 mg once daily or Ranitidine
+
+‡ (p = 0.03) omeprazole 10 mg once daily. versus Ranitidine
 
 In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance after healing 20 mg daily of omeprazole was effective, while 10 mg did not demonstrate effectiveness.
 

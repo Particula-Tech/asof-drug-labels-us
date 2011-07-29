@@ -11,6 +11,8 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+
 APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
 | Manufactured by: | Manufactured for: |
@@ -20,4 +22,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-Revision: 12 Revised: December 2010
+Revised: July 2011
+
+Revision: 13

@@ -1,4 +1,4 @@
-Representative sample of labeling (see HOW SUPPLIED section of complete listing):
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 PRINCIPAL DISPLAY PANEL - 10 mg BOTTLE LABEL
 
@@ -12,7 +12,7 @@ Rx
 
 30 count bottle
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing):
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 PRINCIPAL DISPLAY PANEL - 20 mg BOTTLE LABEL
 
@@ -26,7 +26,7 @@ Rx
 
 30 count bottle
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing):
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 PRINCIPAL DISPLAY PANEL - 40 mg BOTTLE LABEL
 

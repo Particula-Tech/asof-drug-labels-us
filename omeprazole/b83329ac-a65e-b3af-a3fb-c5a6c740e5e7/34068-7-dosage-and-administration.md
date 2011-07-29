@@ -23,7 +23,7 @@ In patients with an ulcer present at the time of initiation of therapy, an addit
 
 ## 2.3 Gastric Ulcer
 
-The recommended adult oral dose is 40 mg once daily for 4-8 weeks.
+The recommended adult oral dose is 40 mg once daily for 4 to 8 weeks.
 
 ## 2.4 Gastroesophageal Reflux Disease (GERD)
 
@@ -69,3 +69,8 @@ The pellets should be mixed with the applesauce and then swallowed immediately w
 The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
+
+## 2.9 Use with Clopidogrel
+
+Avoid concomitant use of clopidogrel and omeprazole.
+Coadministration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [seeWarnings and Precautions (5.4) and Drug Interactions (7.3)].

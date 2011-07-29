@@ -16,7 +16,15 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
 [see Dosage and Administration (2) and Adverse Reactions (6.3)]
 
-## 5.4 Combination Use of Omeprazole with Amoxicillin
+## 5.4 Diminished Anti-platelet Activity of clopidogrel due to Impaired CYP2C19 Function by Omeprazole
+
+Clopidogrel is a prodrug.
+Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity.
+Avoid concomitant use of clopidogrel and omeprazole.
+Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Drug Interactions (7)].
+
+## 5.5 Combination Use of Omeprazole with Amoxicillin
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
@@ -35,13 +43,22 @@ After the diagnosis of pseudomembranous colitis has been established, therapeuti
 Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
 
-## 5.5 Combination Use of Omeprazole with Clarithromycin
+## 5.6 Combination Use of Omeprazole with Clarithromycin
 
 Clarithromycin should not be used in pregnant women except in clinical circumstances where no alternative therapy is appropriate.
 If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
 (See Warnings in prescribing information for clarithromycin.)
 
-Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14-hydroxy-clarithromycin.
+Co-administration of omeprazole and clarithromycin has resulted in increases in plasma levels of omeprazole, clarithromycin, and 14hydroxy-clarithromycin.
 [See Clinical Pharmacology (12)]
 
 Concomitant administration of clarithromycin with cisapride or pimozide, is contraindicated.
+
+## 5.7 Hypomagnesemia
+
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
+Serious adverse events include tetany, arrhythmias, and seizures.
+In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
+
+For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
+[See Adverse Reactions (6.3)]
