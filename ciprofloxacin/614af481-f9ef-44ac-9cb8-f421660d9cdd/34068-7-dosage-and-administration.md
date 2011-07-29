@@ -1,12 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-## Corneal Ulcers
-
-The recommended dosage regimen for the treatment of corneal ulcers is two drops into the affected eye every 15 minutes for the first six hours and then two drops into the affected eye every 30 minutes for the remainder of the first day.
+Corneal Ulcers: The recommended dosage regimen for the treatment of corneal ulcers is two drops into the affected eye every 15 minutes for the first six hours and then two drops into the affected eye every 30 minutes for the remainder of the first day.
 On the second day, instill two drops in the affected eye hourly.
 On the third through the fourteenth day, place two drops in the affected eye every four hours.
-Treatment may be continued after 14 days if corneal re-epithelialization has not occurred.
+Treatment may be continued after 14 days if corneal reepithelialization has not occurred.
 
-## Bacterial Conjunctivitis
-
-The recommended dosage regimen for the treatment of bacterial conjunctivitis is one or two drops instilled into the conjunctival sac(s) every two hours while awake for two days and one or two drops every four hours while awake for the next five days.
+Bacterial Conjunctivitis: The recommended dosage regimen for the treatment of bacterial conjunctivitis is one or two drops instilled into the conjunctival sac(s) every two hours while awake for two days and one or two drops every four hours while awake for the next five days.

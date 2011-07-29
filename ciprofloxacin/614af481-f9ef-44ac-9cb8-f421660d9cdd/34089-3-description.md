@@ -10,5 +10,5 @@ Ciprofloxacin differs from other quinolones in that it has a fluorine atom at th
 
 Each mL of CILOXAN Ophthalmic Solution contains: Active: ciprofloxacin HCl 3.5 mg equivalent to 3 mg base.
 Preservative: benzalkonium chloride 0.006%.
-Inactive: sodium acetate, acetic acid, mannitol 4.6%, edetate disodium 0.05%, hydrochloric acid and/or sodium hydroxide (to adjust pH) and purified water.
+Inactives: sodium acetate, acetic acid, mannitol 4.6%, edetate disodium 0.05%, hydrochloric acid and/or sodium hydroxide (to adjust pH) and purified water.
 The pH is approximately 4.5 and the osmolality is approximately 300 mOsm.

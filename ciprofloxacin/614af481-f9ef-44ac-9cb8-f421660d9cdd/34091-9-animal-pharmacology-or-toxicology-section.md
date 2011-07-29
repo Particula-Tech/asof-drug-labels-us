@@ -5,10 +5,14 @@ However, a one-month topical ocular study using immature Beagle dogs did not dem
 
 Rx Only
 
-Rev: March 2006 ©2003, 2004, 2006 Alcon, Inc.
+Revised: March 2006
 
-ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
-
-Printed in USA
+©2003, 2004, 2006 Alcon, Inc.
 
 9001529-0306
+
+ALCON LABORATORIES, INC.
+
+Fort Worth, Texas 76134 USA
+
+Printed in USA

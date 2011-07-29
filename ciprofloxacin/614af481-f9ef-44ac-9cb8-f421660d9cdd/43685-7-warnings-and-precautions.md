@@ -11,7 +11,7 @@ Remove contact lenses before using.
 
 # PRECAUTIONS
 
-## General
+## General:
 
 As with other antibacterial preparations, prolonged use of ciprofloxacin may result in overgrowth of nonsusceptible organisms, including fungi.
 If superinfection occurs, appropriate therapy should be initiated.
@@ -28,31 +28,47 @@ In three patients, outcome information was unavailable.
 The precipitate did not preclude continued use of ciprofloxacin, nor did it adversely affect the clinical course of the ulcer or visual outcome.
 (SEE ADVERSE REACTIONS).
 
-## Information for patients
+## Information for patients:
 
 Do not touch dropper tip to any surface, as this may contaminate the solution.
 
-## Drug Interactions
+## Drug Interactions:
 
 Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin.
 However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below:
 
-Salmonella/Microsome Test (Negative) E. coli DNA Repair Assay (Negative) Mouse Lymphoma Cell Forward Mutation Assay (Positive) Chinese Hamster V79 Cell HGPRT Test (Negative) Syrian Hamster Embryo Cell Transformation Assay (Negative) Saccharomyces cerevisiae Point Mutation Assay (Negative) Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative) Rat Hepatocyte DNA Repair Assay (Positive)
+Salmonella/Microsome Test (Negative)
+
+E. coli DNA Repair Assay (Negative)
+
+Mouse Lymphoma Cell Forward Mutation Assay (Positive)
+
+Chinese Hamster V79 Cell HGPRT Test (Negative)
+
+Syrian Hamster Embryo Cell Transformation Assay (Negative)
+
+Saccharomyces cerevisiae Point Mutation Assay (Negative)
+
+Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
+
+Rat Hepatocyte DNA Repair Assay (Positive)
 
 Thus, two of the eight tests were positive, but the results of the following three in vivo test systems gave negative results:
 
-Rat Hepatocyte DNA Repair Assay Micronucleus Test (Mice) Dominant Lethal Test (Mice)
+Rat Hepatocyte DNA Repair Assay
+
+Micronucleus Test (Mice)
+
+Dominant Lethal Test (Mice)
 
 Long term carcinogenicity studies in mice and rats have been completed.
 After daily oral dosing for up to two years, there is no evidence that ciprofloxacin had any carcinogenic or tumorigenic effects in these species.
 
-## Pregnancy
-
-### Pregnancy Category C
+## Pregnancy - Pregnancy Category C:
 
 Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
 In rabbits, as with most antimicrobial agents, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion.
@@ -60,17 +76,3 @@ No teratogenicity was observed at either dose.
 After intravenous administration, at doses up to 20 mg/kg, no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 There are no adequate and well controlled studies in pregnant women.
 CILOXAN® Ophthalmic Solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-## Nursing Mothers
-
-It is not known whether topically applied ciprofloxacin is excreted in human milk; however, it is known that orally administered ciprofloxacin is excreted in the milk of lactating rats and oral ciprofloxacin has been reported in human breast milk after a single 500 mg dose.
-Caution should be exercised when CILOXAN Ophthalmic Solution is administered to a nursing mother.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients below the age of 1 year have not been established.
-Although ciprofloxacin and other quinolones cause arthropathy in immature animals after oral administration, topical ocular administration of ciprofloxacin to immature animals did not cause any arthropathy and there is no evidence that the ophthalmic dosage form has any effect on the weight bearing joints.
-
-## Geriatric Use
-
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
