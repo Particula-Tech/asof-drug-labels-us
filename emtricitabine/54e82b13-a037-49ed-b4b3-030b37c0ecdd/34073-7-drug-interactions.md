@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies have been conducted using TRUVADA tablets.
-Drug interaction studies have been conducted with emtricitabine and tenofovir disoproxil fumarate, the components of TRUVADA.
+No drug interaction trials have been conducted using TRUVADA tablets.
+Drug interaction trials have been conducted with emtricitabine and tenofovir disoproxil fumarate, the components of TRUVADA.
 This section describes clinically relevant drug interactions observed with emtricitabine and tenofovir disoproxil fumarate [See Clinical Pharmacology (12.3)].
 
 ## 7.1 Didanosine
@@ -14,9 +14,9 @@ The mechanism of this interaction is unknown.
 Higher didanosine concentrations could potentiate didanosine-associated adverse reactions, including pancreatitis, and neuropathy.
 Suppression of CD4+ cell counts has been observed in patients receiving tenofovir DF with didanosine 400 mg daily.
 
-In adults weighing >60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with TRUVADA.
-Data are not available to recommend a dose adjustment of didanosine for patients weighing <60 kg.
-When coadministered, TRUVADA and Videx EC may be taken under fasted conditions or with a light meal (<400 kcal, 20% fat).
+In patients weighing greater than 60 kg, the didanosine dose should be reduced to 250 mg when it is coadministered with TRUVADA.
+Data are not available to recommend a dose adjustment of didanosine for adult or pediatric patients weighing less than 60 kg.
+When coadministered, TRUVADA and Videx EC may be taken under fasted conditions or with a light meal (less than 400 kcal, 20% fat).
 Coadministration of didanosine buffered tablet formulation with TRUVADA should be under fasted conditions.
 
 ## 7.2 Atazanavir

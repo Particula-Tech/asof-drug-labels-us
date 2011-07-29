@@ -27,7 +27,7 @@ Routine monitoring of calculated creatinine clearance and serum phosphorus shoul
 
 Dosing interval adjustment of TRUVADA and close monitoring of renal function are recommended in all patients with creatinine clearance 30–49 mL/min, [See Dosage and Administration (2.2)].
 No safety or efficacy data are available in patients with renal impairment who received TRUVADA using these dosing guidelines, so the potential benefit of TRUVADA therapy should be assessed against the potential risk of renal toxicity.
-TRUVADA should not be administered to patients with creatinine clearance <30 mL/min or patients requiring hemodialysis.
+TRUVADA should not be administered to patients with creatinine clearance below 30 mL/min or patients requiring hemodialysis.
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent.
 
@@ -41,18 +41,27 @@ TRUVADA should not be administered with HEPSERA® (adefovir dipivoxil).
 
 ## 5.5 Decreases in Bone Mineral Density
 
-Bone mineral density (BMD) monitoring should be considered for HIV-1 infected patients who have a history of pathologic bone fracture or are at risk for osteopenia.
+Assessment of bone mineral density (BMD) should be considered for HIV-1 infected adults and pediatric patients 12 years of age and older who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Tenofovir Disoproxil Fumarate: In a 144-week study of treatment-naive subjects, decreases in BMD were seen at the lumbar spine and hip in both arms of the study.
+Tenofovir Disoproxil Fumarate: In a 144-week trial of treatment-naive adult subjects, decreases in BMD were seen at the lumbar spine and hip in both arms of the trial.
 At Week 144, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + lamivudine + efavirenz compared with subjects receiving stavudine + lamivudine + efavirenz.
 Changes in BMD at the hip were similar between the two treatment groups.
-In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the study and this reduction was sustained through 144 weeks.
+In both groups, the majority of the reduction in BMD occurred in the first 24–48 weeks of the trial and this reduction was sustained through 144 weeks.
 Twenty-eight percent of VIREAD-treated subjects vs. 21% of the comparator subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
 Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the VIREAD group and 6 subjects in the comparator group.
 Tenofovir disoproxil fumarate was associated with significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C-telopeptide, and urinary N-telopeptide), suggesting increased bone turnover.
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD.
+
+In a clinical trial of HIV-1 infected pediatric subjects 12 years of age and older (Study 321), bone effects were similar to adult subjects.
+Under normal circumstances BMD increases rapidly in this age group.
+In this trial, the mean rate of bone gain was less in the VIREAD-treated group compared to the placebo group.
+Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss in 48 weeks.
+Among 28 subjects receiving 96 weeks of VIREAD, Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
+Skeletal growth (height) appeared to be unaffected.
+Markers of bone turnover in VIREAD-treated pediatric subjects 12 years of age and older suggest increased bone turnover, consistent with the effects observed in adults.
+
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 For additional information, please consult the VIREAD prescribing information.
 
@@ -71,7 +80,7 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 ## 5.8 Early Virologic Failure
 
-Clinical studies in HIV-infected subjects have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
+Clinical trials in HIV-infected subjects have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
 In particular, early virological failure and high rates of resistance substitutions have been reported.
 Triple nucleoside regimens should therefore be used with caution.
 Patients on a therapy utilizing a triple nucleoside-only regimen should be carefully monitored and considered for treatment modification.

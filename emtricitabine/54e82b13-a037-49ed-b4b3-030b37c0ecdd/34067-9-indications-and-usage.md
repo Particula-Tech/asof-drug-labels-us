@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-TRUVADA®, a combination of EMTRIVA® and VIREAD®, is indicated in combination with other antiretroviral agents (such as non-nucleoside reverse transcriptase inhibitors or protease inhibitors) for the treatment of HIV-1 infection in adults.
+TRUVADA®, a combination of EMTRIVA® and VIREAD®, is indicated in combination with other antiretroviral agents (such as non-nucleoside reverse transcriptase inhibitors or protease inhibitors) for the treatment of HIV-1 infection in adults and pediatric patients 12 years of age and older.
 
 The following points should be considered when initiating therapy with TRUVADA for the treatment of HIV-1 infection:
 

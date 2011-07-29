@@ -13,7 +13,7 @@ TRUVADA: One TRUVADA tablet was bioequivalent to one EMTRIVA capsule (200 mg) pl
 
 Emtricitabine: The pharmacokinetic properties of emtricitabine are summarized in Table 4.
 Following oral administration of EMTRIVA, emtricitabine is rapidly absorbed with peak plasma concentrations occurring at 1–2 hours post-dose.
-In vitro binding of emtricitabine to human plasma proteins is <4% and is independent of concentration over the range of 0.02–200 µg/mL.
+Less than 4% of emtricitabine binds to human plasma proteins in vitro and the binding is independent of concentration over the range of 0.02–200 µg/mL.
 Following administration of radiolabelled emtricitabine, approximately 86% is recovered in the urine and 13% is recovered as metabolites.
 The metabolites of emtricitabine include 3'-sulfoxide diastereomers and their glucuronic acid conjugate.
 Emtricitabine is eliminated by a combination of glomerular filtration and active tubular secretion.
@@ -21,7 +21,7 @@ Following a single oral dose of EMTRIVA, the plasma emtricitabine half-life is a
 
 Tenofovir Disoproxil Fumarate: The pharmacokinetic properties of tenofovir disoproxil fumarate are summarized in Table 4.
 Following oral administration of VIREAD, maximum tenofovir serum concentrations are achieved in 1.0 ± 0.4 hour.
-In vitro binding of tenofovir to human plasma proteins is <0.7% and is independent of concentration over the range of 0.01–25 µg/mL.
+Less than 0.7% of tenofovir binds to human plasma proteins in vitro and the binding is independent of concentration over the range of 0.01–25 µg/mL.
 Approximately 70–80% of the intravenous dose of tenofovir is recovered as unchanged drug in the urine.
 Tenofovir is eliminated by a combination of glomerular filtration and active tubular secretion.
 Following a single oral dose of VIREAD, the terminal elimination half-life of tenofovir is approximately 17 hours.
@@ -42,7 +42,7 @@ Effects of Food on Oral Absorption
 TRUVADA may be administered with or without food.
 Administration of TRUVADA following a high fat meal (784 kcal; 49 grams of fat) or a light meal (373 kcal; 8 grams of fat) delayed the time of tenofovir Cmax by approximately 0.75 hour.
 The mean increases in tenofovir AUC and Cmax were approximately 35% and 15%, respectively, when administered with a high fat or light meal, compared to administration in the fasted state.
-In previous safety and efficacy studies, VIREAD (tenofovir) was taken under fed conditions.
+In previous safety and efficacy trials, VIREAD (tenofovir) was taken under fed conditions.
 Emtricitabine systemic exposures (AUC and Cmax) were unaffected when TRUVADA was administered with either a high fat or a light meal.
 
 Special Populations
@@ -57,17 +57,28 @@ Gender
 
 Emtricitabine and Tenofovir Disoproxil Fumarate: Emtricitabine and tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric and Geriatric Patients
+Pediatric Patients
 
-Pharmacokinetic studies of tenofovir have not been performed in pediatric subjects (<18 years).
-Pharmacokinetics of emtricitabine and tenofovir have not been fully evaluated in the elderly (>65 years).
+TRUVADA should not be administered to pediatric patients less than 12 years of age or weighing less than 35 kg (less than 77 lb).
+
+Emtricitabine: The pharmacokinetics of emtricitabine at steady state were determined in 27 HIV-1-infected pediatric subjects 13 to 17 years of age receiving a daily dose of 6 mg/kg up to a maximum dose of 240 mg oral solution or a 200 mg capsule; 26 of 27 subjects in this age group received the 200 mg EMTRIVA capsule.
+Mean (± SD) Cmax and AUC were 2.7 ± 0.9 μg/mL and 12.6 ± 5.4 μg•hr/mL, respectively.
+Exposures achieved in pediatric subjects 12 to less than 18 years of age were similar to those achieved in adults receiving a once daily dose of 200 mg.
+
+Tenofovir Disoproxil Fumarate: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected pediatric subjects (12 to less than 18 years).
+Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/mL and 3.39 ± 1.22 μg•hr/mL, respectively.
+Tenofovir exposure achieved in these pediatric subjects receiving oral daily doses of VIREAD 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
+
+Geriatric Patients
+
+Pharmacokinetics of emtricitabine and tenofovir have not been fully evaluated in the elderly (65 years of age and older).
 
 Patients with Impaired Renal Function
 
 The pharmacokinetics of emtricitabine and tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
-In subjects with creatinine clearance <50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
+In adult subjects with creatinine clearance below 50 mL/min, Cmax, and AUC0–∞ of emtricitabine and tenofovir were increased.
 It is recommended that the dosing interval for TRUVADA be modified in patients with creatinine clearance 30–49 mL/min.
-TRUVADA should not be used in patients with creatinine clearance <30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.2)].
+TRUVADA should not be used in patients with creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [See Dosage and Administration (2.2)].
 
 Patients with Hepatic Impairment
 
@@ -79,12 +90,12 @@ Assessment of Drug Interactions
 
 The steady state pharmacokinetics of emtricitabine and tenofovir were unaffected when emtricitabine and tenofovir disoproxil fumarate were administered together versus each agent dosed alone.
 
-In vitro and clinical pharmacokinetic drug-drug interaction studies have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
+In vitro studies and clinical pharmacokinetic drug-drug interaction trials have shown that the potential for CYP mediated interactions involving emtricitabine and tenofovir with other medicinal products is low.
 
 No clinically significant drug interactions have been observed between emtricitabine and famciclovir, indinavir, stavudine, tenofovir disoproxil fumarate, and zidovudine (see Tables 5 and 6).
-Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and abacavir, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus in studies conducted in healthy volunteers (see Tables 7 and 8).
+Similarly, no clinically significant drug interactions have been observed between tenofovir disoproxil fumarate and abacavir, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus in trials conducted in healthy volunteers (see Tables 7 and 8).
 
-Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -95,7 +106,7 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Emtricitabi
 | Famciclovir | 500 × 1 | 200 × 1 | 12 |  |  | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 |  |  | NA |
 
-Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of EmtricitabineAll interaction studies conducted in healthy volunteers.
+Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of EmtricitabineAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -106,7 +117,7 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Famciclovir | 500 × 1 | 200 × 1 | 12 |  |  | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 |  |  | NA |
 
-Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirPatients received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -149,7 +160,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 |  |  |  |
 
-Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous studies, indicating lack of clinically significant drug interactions between these agents and VIREAD.
+Following multiple dosing to HIV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous trials, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
 Coadministration of tenofovir disoproxil fumarate with didanosine results in changes in the pharmacokinetics of didanosine that may be of clinical significance.
 Table 9 summarizes the effects of tenofovir disoproxil fumarate on the pharmacokinetics of didanosine.
@@ -204,7 +215,7 @@ Resistance
 Emtricitabine and Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to the combination of emtricitabine and tenofovir have been selected in cell culture.
 Genotypic analysis of these isolates identified the M184V/I and/or K65R amino acid substitutions in the viral RT.
 
-In a clinical study of treatment-naive subjects [Study 934, see Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
+In a clinical trial of treatment-naive subjects [Study 934, see Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with greater than 400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
 Development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the treatment arms.
 The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed subjects isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed subjects isolates in the zidovudine/lamivudine group.
 Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
@@ -216,7 +227,7 @@ Tenofovir Disoproxil Fumarate: HIV-1 isolates with reduced susceptibility to ten
 These viruses expressed a K65R substitution in RT and showed a 2–4 fold reduction in susceptibility to tenofovir.
 
 In treatment-naive subjects, isolates from 8/47 (17%) analyzed subjects developed the K65R substitution in the VIREAD arm through 144 weeks; 7 occurred in the first 48 weeks of treatment and 1 at Week 96.
-In treatment-experienced subjects, 14/304 (5%) isolates from subjects failing VIREAD through Week 96 showed >1.4 fold (median 2.7) reduced susceptibility to tenofovir.
+In treatment-experienced subjects, 14/304 (5%) isolates from subjects failing VIREAD through Week 96 showed greater than 1.4 fold (median 2.7) reduced susceptibility to tenofovir.
 Genotypic analysis of the resistant isolates showed a substitution in the HIV-1 RT gene resulting in the K65R amino acid substitution.
 
 Cross Resistance
@@ -230,6 +241,6 @@ HIV-1 isolates containing the K65R substitution, selected in vivo by abacavir, d
 Viruses harboring substitutions conferring reduced susceptibility to stavudine and zidovudine (M41L, D67N, K70R, L210W, T215Y/F, K219Q/E), or didanosine (L74V) remained sensitive to emtricitabine.
 HIV-1 containing the K103N substitution associated with resistance to NNRTIs was susceptible to emtricitabine.
 
-Tenofovir Disoproxil Fumarate: HIV-1 isolates from patients (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
+Tenofovir Disoproxil Fumarate: HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
 Subjects whose virus expressed an L74V substitution without zidovudine resistance associated substitutions (N=8) had reduced response to VIREAD.
 Limited data are available for patients whose virus expressed a Y115F substitution (N=3), Q151M substitution (N=2), or T69 insertion (N=4), all of whom had a reduced response.

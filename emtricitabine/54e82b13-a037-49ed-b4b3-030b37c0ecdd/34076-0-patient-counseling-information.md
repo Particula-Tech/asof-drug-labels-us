@@ -18,7 +18,7 @@ Patients should be advised that:
 - Severe acute exacerbations of hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued TRUVADA.
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of VIREAD.
   TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
-  Dosing interval of TRUVADA may need adjustment in patients with renal impairment [See Dosage and Administration (2.1)].
+  Dosing interval of TRUVADA may need adjustment in patients with renal impairment [See Dosage and Administration (2.2)].
 - TRUVADA should not be coadministered with ATRIPLA, EMTRIVA, or VIREAD; or with drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.4)].
 - TRUVADA should not be administered with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD.

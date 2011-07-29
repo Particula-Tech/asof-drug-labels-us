@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dose
 
-The dose of TRUVADA is one tablet (containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate) once daily taken orally with or without food.
+The dose of TRUVADA for adults and pediatric patients 12 years of age and older with body weight greater than or equal to 35 kg (greater than or equal to 77 lb) is one tablet (containing 200 mg of emtricitabine and 300 mg of tenofovir disoproxil fumarate) once daily taken orally with or without food.
 
 ## 2.2 Dose Adjustment for Renal Impairment
 
@@ -20,3 +20,5 @@ Table 1 Dosage Adjustment for Patients with Altered Creatinine Clearance
 | --- | --- | --- | --- |
 |  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight |  |  |
 | Recommended Dosing Interval | Every 24 hours | Every 48 hours | TRUVADA should not be administered. |
+
+No data are available to make dose recommendations in pediatric patients 12 years of age and older with renal impairment.

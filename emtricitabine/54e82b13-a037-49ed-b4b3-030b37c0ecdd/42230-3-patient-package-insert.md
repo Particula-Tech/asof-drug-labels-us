@@ -42,8 +42,8 @@ What is TRUVADA?
 TRUVADA is a type of medicine called an HIV-1 (human immunodeficiency virus) nucleoside analog reverse transcriptase inhibitor (NRTI).
 TRUVADA contains 2 medicines, EMTRIVA® (emtricitabine) and VIREAD® (tenofovir disoproxil fumarate, or tenofovir DF) combined in one pill.
 TRUVADA is always used with other anti-HIV-1 medicines to treat people with HIV-1 infection.
-TRUVADA is for adults age 18 and older.
-TRUVADA has not been studied in children under age 18 or adults over age 65.
+TRUVADA is for adults and pediatric patients 12 years of age and older.
+TRUVADA has not been studied in children under age 12 or weighing less than 35 kg (77 lb) or in adults over age 65.
 
 HIV infection destroys CD4+ T cells, which are important to the immune system.
 The immune system helps fight infection.
@@ -215,9 +215,7 @@ The tablets are coated with Opadry II Blue Y-30-10701 containing FD&C Blue #2 al
 
 Rx Only
 
-November 2009
+July 2011
 
 TRUVADA, EMTRIVA, HEPSERA and VIREAD are registered trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
-
-21-752-GS-023
