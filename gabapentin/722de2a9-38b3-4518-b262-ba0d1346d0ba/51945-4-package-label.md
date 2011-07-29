@@ -32,7 +32,7 @@ NDC 67877-224-01
 
 GABAPENTIN CAPSULES, USP
 
-400mg
+400 mg
 
 PHARMACIST: Dispense the enclosed Medication Guide to each Patient.
 

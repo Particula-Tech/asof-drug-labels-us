@@ -143,7 +143,7 @@ There are no adequate and well-controlled studies in pregnant women.
 This drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 To provide information regarding the effects of in utero exposure to gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/
 
 ## Use in Nursing Mothers
 

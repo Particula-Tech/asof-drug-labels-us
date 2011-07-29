@@ -7,6 +7,6 @@ Manufactured by: Alkem Laboratories Limited ALKEM HOUSE, Lower Parel, Mumbai –
 
 Distributed by: Ascend Laboratories, LLC Montvale, NJ 07645
 
-PT1240
+PT1240-01
 
-January, 2011 Maalox® is a trade mark of Novartis Health Care
+April, 2011 Maalox® is a trade mark of Novartis Health Care
