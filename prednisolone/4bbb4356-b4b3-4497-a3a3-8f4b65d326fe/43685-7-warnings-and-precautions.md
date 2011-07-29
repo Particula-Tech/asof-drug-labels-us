@@ -46,13 +46,14 @@ No studies have been conducted in animals or in humans to evaluate the potential
 
 ## Pregnancy
 
-### Teratogenic effects
+## Teratogenic effects
 
 Pregnancy Category C. Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human dose.
+
 Dexamethasone, hydrocortisone and prednisolone were ocularly applied to both eyes of pregnant mice five times per day on days 10 through 13 of gestation.
 A significant increase in the incidence of cleft palate was observed in the fetuses of the treated mice.
 There are no adequate and well controlled studies in pregnant women.
-OMNIPRED™ (prednisolone acetate ophthalmic suspension) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+OMNIPRED® (prednisolone acetate ophthalmic suspension) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
