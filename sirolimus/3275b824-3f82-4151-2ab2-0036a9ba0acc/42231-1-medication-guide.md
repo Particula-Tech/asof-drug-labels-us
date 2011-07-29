@@ -1,12 +1,12 @@
 MEDICATION GUIDE
 
-RAPAMUNE® (RAAP-a-mune)
+RAPAMUNE® /RAAP-a-mune/
 
 (sirolimus)
 
 Tablets
 
-RAPAMUNE® (RAAP-a-mune)
+RAPAMUNE® /RAAP-a-mune/
 
 (sirolimus)
 
@@ -239,42 +239,68 @@ The 0.5 mg and 2 mg dosage strengths also contain yellow iron (ferric) oxide and
 
 For Rapamune Oral Tablets:
 
-Wyeth®
-
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
 For Rapamune Oral Solution:
-
-Wyeth®
-
-Manufactured for:
-
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Issued November 2010.
 
-W10431C045
+INSTRUCTIONS FOR USE
 
-ET01
+RAPAMUNE /RAAP-a-mune/
 
-Rev 12/10
+(sirolimus)
 
-PATIENT INSTRUCTIONS FOR RAPAMUNE (SIROLIMUS) ORAL SOLUTION
+Oral Solution
 
-Bottles
+Be sure that you read and understand the following instructions for the correct way to dilute and take RAPAMUNE Oral Solution.
+Ask your pharmacist or doctor if you are not sure.
+Important:
 
-|  | 1. Open the solution bottle. Remove the safety cap by squeezing the tabs on the cap and twisting counterclockwise. |
+- Always keep the bottle in an upright position.
+- You may store RAPAMUNE Oral Solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36°F to 46°F (2°C to 8°C) for up to 24 hours.
+  See “How should I store RAPAMUNE?” at the end of these Instructions for Use.
+- RAPAMUNE Oral Solution can develop a slight haze when it is refrigerated.
+  If this happens, bring the RAPAMUNE Oral Solution to room temperature and then gently shake the bottle until the haze goes away.
+- Only use a glass or plastic cup to dilute Rapamune Oral Solution.
+
+| Each Rapamune Oral Solution carton contains: |  |
 | --- | --- |
-|  | 2. On first use, insert the adapter assembly (plastic tube with stopper) tightly into the bottle until it is even with the top of the bottle. Do not remove the adapter assembly from the bottle once inserted. |
-|  | 3. For each use, tightly insert one of the amber syringes with the plunger fully depressed into the opening in the adapter. |
-|  | 4. Withdraw the prescribed amount of Rapamune Oral Solution by gently pulling out the plunger of the syringe until the bottom of the black line of the plunger is even with the appropriate mark on the syringe. Always keep the bottle in an upright position. If bubbles form in the syringe, empty the syringe into the bottle and repeat the procedure. |
-|  | 5. You may have been instructed to carry your medication with you. If it is necessary to carry the filled syringe, place a cap securely on the syringe – the cap should snap into place. |
-|  | 6. Then place the capped syringe in the enclosed carrying case. Once in the syringe, the medication may be kept at room temperature or refrigerated and should be used within 24 hours. Extreme temperatures (below 36°F and above 86°F) should be avoided. Remember to keep this medication out of the reach of children. |
-|  | 7. Empty the syringe into a glass or plastic cup containing at least 2 ounces (1/4 cup, 60 mL) of water or orange juice, stir vigorously for one (1) minute and drink immediately. Refill the container with at least 4 ounces (1/2 cup, 120 mL) of water or orange juice, stir vigorously again and drink the rinse solution. Apple juice, grapefruit juice, or other liquids are NOT to be used. Only glass or plastic cups should be used to dilute Rapamune Oral Solution. The syringe and cap should be used once and then discarded. |
-|  | 8. Always store the bottles of medication in the refrigerator. When refrigerated, a slight haze may develop in the solution. The presence of a haze does not affect the quality of the product. If this happens, bring the Rapamune Oral Solution to room temperature and shake until the haze disappears. If it is necessary to wipe clean the mouth of the bottle before returning the product to the refrigerator, wipe with a dry cloth to avoid introducing water, or any other liquid, into the bottle. |
+|  | a) a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL) b) 1 oral syringe adapter for fitting into the neck of the bottle c) enough disposable amber oral syringes and caps for daily dosing d) 1 carrying case |
+| You will also need: • glass or plastic cup • 6 oz. of water or orange juice only |  |
+
+|  | 1. Open the solution bottle. • Remove the safety cap by squeezing the tabs on the cap and twisting counterclockwise (Figure 1). |
+| --- | --- |
+| Figure 1: Opening the bottle |  |
+|  | 2. The first time you use a bottle of RAPAMUNE Oral Solution: • Insert the oral syringe adapter (plastic tube with stopper) tightly into the bottle until it is even with the top of the bottle. • Do not remove the oral syringe adapter from the bottle once inserted (Figure 2) |
+| Figure 2: Inserting adapter |  |
+|  | 3. Use a new disposable amber oral syringe for each dose of RAPAMUNE Oral Solution. • Fully push down (depress) on the plunger of the disposable amber oral syringe. Then, tightly insert the oral syringe into the opening in the adapter (Figure 3). |
+| Figure 3: Inserting syringe |  |
+|  | 4. Withdraw the prescribed amount of Rapamune Oral Solution: • Gently pull back the plunger of the syringe until the bottom of the black line of the plunger is even with the appropriate mark on the syringe. • Always keep the bottle in an upright position. • If bubbles form in the syringe, empty the syringe into the bottle and repeat steps 3 and 4 (Figure 4). |
+| Figure 4: Withdrawing solution |  |
+|  | 5. If your doctor tells you to carry your medicine with you: • If you need to carry your RAPAMUNE Oral Solution in a filled syringe, place a cap securely on the syringe. The cap should snap into place (Figure 5). |
+| Figure 5: Capping syringe |  |
+|  | 6. Place the capped syringe in the enclosed carrying case (Figure 6). |
+| Figure 6: Placing syringe in carrying case |  |
+|  | 7. Taking a dose of RAPAMUNE Oral Solution: • Empty the syringe into a glass or plastic cup containing at least 2 ounces (1/4 cup, 60 mL) of water or orange juice, stir vigorously for 1 minute and drink right away. • Refill the container with at least 4 ounces (1/2 cup, 120 mL) of water or orange juice, stir vigorously again and drink the rinse solution. Do not mix RAPAMUNE Oral Solution with apple juice, grapefruit juice, or other liquids. Only glass or plastic cups should be used to mix Rapamune Oral Solution. • The syringe and cap should be used only one time and then thrown away (Figure 7). |
+| Figure 7: Emptying syringe into glass |  |
+|  | 8. Always store the bottles of medication in the refrigerator. |
+
+How should I store RAPAMUNE?
+
+- Store bottles of RAPAMUNE Oral Solution in the refrigerator at 36°F to 46°F (2°C to 8°C)
+- Protect from light
+- Store RAPAMUNE Oral Solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36°F to 46°F (2°C to 8°C) for up to 24 hours
+- If necessary, bottles of RAPAMUNE Oral Solution can be stored at room temperature up to 77°F (25°C) for up to 15 days
+- When a bottle of RAPAMUNE Oral Solution is opened, it should be used within 1 month
+- Use any diluted RAPAMUNE Oral Solution right away
+
+Keep RAPAMUNE and all medicines out of the reach of children.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised July 2011
+
+LAB-0473-1.0
+
+Revised July 2011

@@ -20,7 +20,7 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Rx only
 
-Wyeth®
+Pfizer
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG/ML ORAL SOLUTION – LABEL
 
