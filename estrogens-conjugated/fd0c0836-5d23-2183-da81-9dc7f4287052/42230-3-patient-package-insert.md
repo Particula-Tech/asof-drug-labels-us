@@ -145,9 +145,9 @@ You can ask for information about PREMPRO and PREMPHASE that is written for heal
 PREMPRO contains the same conjugated estrogens found in Premarin, which are a mixture of sodium estrone sulfate and sodium equilin sulfate and other components, including sodium sulfate conjugates, 17α-dihydroequilin, 17α-estradiol and 17β-dihydroequilin.
 PREMPRO also contains either 1.5, 2.5, or 5 mg of medroxyprogesterone acetate.
 
-PREMPRO 0.3 mg/1.5 mg and 0.45 mg/1.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, povidone, titanium dioxide, yellow iron oxide, and black iron oxide.
+PREMPRO 0.3 mg/1.5 mg, 0.45 mg/1.5 mg, and 0.625 mg/2.5 mg tablets also contain calcium phosphate tribasic, microcrystalline cellulose, lactose monohydrate, hypromellose, magnesium stearate, polyethylene glycol, sucrose, hydroxypropyl cellulose, Eudragit NE 30D, povidone, titanium dioxide, red iron oxide, yellow iron oxide, and black iron oxide.
 
-PREMPRO 0.625 mg/2.5 mg and 0.625 mg/5 mg tablets also contain calcium phosphate tribasic, calcium sulfate, carnauba wax, cellulose, glyceryl monooleate, lactose, magnesium stearate, methylcellulose, pharmaceutical glaze, polyethylene glycol, sucrose, povidone, titanium dioxide, black iron oxide, and FD&C Blue No. 2 or red ferric oxide.
+PREMPRO 0.625 mg/5 mg tablets also contain calcium phosphate tribasic, calcium sulfate, carnauba wax, cellulose, glyceryl monooleate, lactose, magnesium stearate, methylcellulose, pharmaceutical glaze, polyethylene glycol, sucrose, povidone, titanium dioxide, FD&C Blue No. 2, and black iron oxide.
 
 PREMPHASE is two separate tablets.
 One tablet (maroon color) is 0.625 mg of Premarin, which is a mixture of sodium estrone sulfate and sodium equilin sulfate and other components, including sodium sulfate conjugates, 17 α-dihydroequilin, 17 α-estradiol and 17 β-dihydroequilin.
@@ -169,16 +169,12 @@ Each tablet contains 0.45 mg of the conjugated estrogens found in Premarin table
 
 ### PREMPRO 0.625 mg/2.5 mg
 
-EZ DIAL dispenser - Each carton includes 3 EZ DIAL® dispensers containing 28 tablets.
-One EZ DIAL dispenser contains 28 oval, peach tablets.
-Each tablet contains 0.625 mg of the conjugated estrogens found in Premarin tablets and 2.5 mg of medroxyprogesterone acetate for oral administration.
-
 Blister Card - Each carton includes 1 blister card containing 28 oval, peach tablets.
 Each tablet contains 0.625 mg of the conjugated estrogens found in Premarin tablets and 2.5 mg of medroxyprogesterone acetate for oral administration.
 
 ### PREMPRO 0.625 mg/5 mg
 
-EZ DIAL dispenser - Each carton includes 3 EZ DIAL dispensers containing 28 tablets.
+EZ DIAL® dispenser - Each carton includes 3 EZ DIAL dispensers containing 28 tablets.
 One EZ DIAL dispenser contains 28 oval, light-blue tablets.
 Each tablet contains 0.625 mg of the conjugated estrogens found in Premarin tablets and 5 mg of medroxyprogesterone acetate for oral administration.
 
@@ -196,5 +192,3 @@ The appearance of PREMARIN tablets is a trademark of Wyeth Pharmaceuticals.
 The appearance of the conjugated estrogens/medroxyprogesterone acetate combination tablets is a trademark.
 
 Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
-
-United States Patent Number 5,547,948 (PREMPRO).
