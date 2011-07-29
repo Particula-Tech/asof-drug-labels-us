@@ -70,7 +70,7 @@ Pregabalin Dosage Adjustment Based on Renal Function
 
 | Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose (mg/day)Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
 | --- | --- | --- | --- | --- | --- |
-| .60 | 150 | 300 | 450 | 600 | BID or TID |
+| ≥60 | 150 | 300 | 450 | 600 | BID or TID |
 | 30–60 | 75 | 150 | 225 | 300 | BID or TID |
 | 15–30 | 25–50 | 75 | 100–150 | 150 | QD or BID |
 | <15 | 25 | 25–50 | 50–75 | 75 | QD |

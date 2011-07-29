@@ -257,27 +257,27 @@ The listing does not include those events already listed in the previous tables 
 Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 Events of major clinical importance are described in the Warnings and Precautions section (5).
 
-Body as a Whole –Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
+Body as a Whole – Frequent: Abdominal pain, Allergic reaction, Fever, Infrequent: Abscess, Cellulitis, Chills, Malaise, Neck rigidity, Overdose, Pelvic pain, Photosensitivity reaction, Rare: Anaphylactoid reaction, Ascites, Granuloma, Hangover effect, Intentional Injury, Retroperitoneal Fibrosis, Shock
 
-Cardiovascular System –Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
+Cardiovascular System – Infrequent: Deep thrombophlebitis, Heart failure, Hypotension, Postural hypotension, Retinal vascular disorder, Syncope; Rare: ST Depressed, Ventricular Fibrillation
 
-Digestive System –Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
+Digestive System – Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
 
-Hemic and Lymphatic System –Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
+Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
 
-Metabolic and Nutritional Disorders –Rare: Glucose Tolerance Decreased, Urate Crystalluria
+Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate Crystalluria
 
-Musculoskeletal System –Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
+Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System –Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
-Respiratory System –Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
+Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
-Skin and Appendages –Frequent: Pruritus, Infrequent: Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare: Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
+Skin and Appendages – Frequent: Pruritus, Infrequent: Alopecia, Dry skin, Eczema, Hirsutism, Skin ulcer, Urticaria, Vesiculobullous rash; Rare: Angioedema, Exfoliative dermatitis, Lichenoid dermatitis, Melanosis, Nail Disorder, Petechial rash, Purpuric rash, Pustular rash, Skin atrophy, Skin necrosis, Skin nodule, Stevens-Johnson syndrome, Subcutaneous nodule
 
-Special senses –Frequent: Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent: Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare: Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
+Special senses – Frequent: Conjunctivitis, Diplopia, Otitis media, Tinnitus; Infrequent: Abnormality of accommodation, Blepharitis, Dry eyes, Eye hemorrhage, Hyperacusis, Photophobia, Retinal edema, Taste loss, Taste perversion; Rare: Anisocoria, Blindness, Corneal ulcer, Exophthalmos, Extraocular palsy, Iritis, Keratitis, Keratoconjunctivitis, Miosis, Mydriasis, Night blindness, Ophthalmoplegia, Optic atrophy, Papilledema, Parosmia, Ptosis, Uveitis
 
-Urogenital System –Frequent: Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent: Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare: Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
+Urogenital System – Frequent: Anorgasmia, Impotence, Urinary frequency, Urinary incontinence; Infrequent: Abnormal ejaculation, Albuminuria, Amenorrhea, Dysmenorrhea, Dysuria, Hematuria, Kidney calculus, Leukorrhea, Menorrhagia, Metrorrhagia, Nephritis, Oliguria, Urinary retention, Urine abnormality; Rare: Acute kidney failure, Balanitis, Bladder Neoplasm, Cervicitis, Dyspareunia, Epididymitis, Female lactation, Glomerulitis, Ovarian disorder, Pyelonephritis
 
 Comparison of Gender and Race
 

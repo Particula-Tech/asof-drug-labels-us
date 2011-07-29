@@ -7,7 +7,16 @@ If you have any questions about LYRICA, ask your healthcare provider or pharmaci
 
 What is the most important information I should know about LYRICA?
 
-1. 1.LYRICA may cause serious, even life-threatening, allergic reactions.
+LYRICA may cause serious side effects including:
+
+- Serious, even life-threatening, allergic reactions
+- Suicidal thoughts or actions
+- Swelling of your hands, legs and feet
+- Dizziness and sleepiness
+
+These serious side effects are described below:
+
+1. 1.Serious, even life-threatening, allergic reactions.
    - Stop taking LYRICA and call your healthcare provider right away if you have any of these signs of a serious allergic reaction:
      - swelling of your face, mouth, lips, gums, tongue, throat or neck
      - trouble breathing
@@ -36,10 +45,9 @@ What is the most important information I should know about LYRICA?
      - Keep all follow-up visits with your healthcare provider as scheduled.
      - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-1. 3.LYRICA may cause swelling of your hands, legs and feet.
+1. 3.Swelling of your hands, legs and feet.
    This swelling can be a serious problem for people with heart problems.
-2. 4.LYRICA may cause dizziness and sleepiness.
-   Do not drive a car, work with machines, or do other dangerous activities until you know how LYRICA affects you.
+2. 4.Dizziness and sleepiness.Do not drive a car, work with machines, or do other dangerous activities until you know how LYRICA affects you.
    Ask your healthcare provider about when it will be okay to do these activities.
 
 What is LYRICA?
@@ -201,4 +209,4 @@ Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
 
 Oral Solution manufactured by: Pfizer Inc. Kalamazoo, MI 49001
 
-LAB-0299-8.0 April 2011
+LAB-0299-10.0 06/2011

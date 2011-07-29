@@ -80,4 +80,4 @@ Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
 
 Oral Solution manufactured by: Pfizer Inc Kalamazoo, MI 49001
 
-LAB-0294-20.0 05/2011
+LAB-0294-21.0 6/2011

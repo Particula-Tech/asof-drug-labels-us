@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 LYRICA (pregabalin) binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
-Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin's antinociceptive and antiseizure effects in animals.
+Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin's anti-nociceptive and antiseizure effects in animals.
 In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta containing-calcium channel trafficking and/or reducing calcium currents.
 Evidence from other animal models of nerve damage and persistent pain suggest the anti-nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
 
@@ -46,7 +46,7 @@ Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy su
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
 Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.5)].
 
-## 12.4 Pharmacokinetics in Special Populations
+Pharmacokinetics in Special Populations
 
 Race
 
