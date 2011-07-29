@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA017011"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Pacific Pharma, Inc.",
+  "package_ndcs": [
+    "60758-119-05",
+    "60758-119-10",
+    "60758-119-15"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "prednisolone acetate",
+      "name": "PREDNISOLONE ACETATE"
+    }
+  ],
+  "setid": "1474d1df-70b6-4b1e-86d1-3349aa6d42fb",
+  "source": "dailymed"
+}
