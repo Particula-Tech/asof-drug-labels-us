@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA062676",
+    "ANDA062677"
+  ],
   "inn": "doxycycline",
-  "labeler": "Mutual Pharmaceutical",
+  "labeler": "Mutual Pharmaceutical Company, Inc.",
   "package_ndcs": [
     "53489-118-02",
     "53489-118-05",
@@ -10,7 +13,18 @@
     "53489-120-02",
     "53489-120-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    }
+  ],
   "setid": "214a9cfe-a522-4022-81d4-e59f447401fe",
   "source": "dailymed"
 }

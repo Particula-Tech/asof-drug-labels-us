@@ -4,7 +4,7 @@ Tetracyclines are readily absorbed and are bound to plasma proteins in varying d
 They are concentrated by the liver in the bile, and excreted in the urine and feces at high concentrations and in a biologically active form.
 Doxycycline is virtually completely absorbed after oral administration.
 
-Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours decreasing to 1.45 mcg/mL at 24 hours.
+Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with normal function (creatinine clearance about 75 mL/min.).
 This percentage excretion may fall as low as 1–5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
 Studies have shown no significant difference in serum half-life of doxycycline (range 18–22 hours) in individuals with normal and severely impaired renal function.
@@ -19,42 +19,47 @@ The tetracyclines are primarily bacteriostatic and are thought to exert their an
 The tetracyclines, including doxycycline, have a similar antimicrobial spectrum of activity against a wide range of gram-positive and gram-negative organisms.
 Cross-resistance of these organisms to tetracyclines is common.
 
-### Gram-Negative Bacteria
+Gram-Negative Bacteria
 
-Neisseria gonorrhoeae Calymmatobacterium granulomatis Haemophilus ducreyi Haemophilus influenzae Yersinia pestis (formerly Pasteurella pestis) Francisella tularensis (formerly Pasteurella tularensis) Vibrio cholerae (formerly Vibrio comma) Bartonella bacilliformis Brucella species
+- Neisseria gonorrhoeae
+- Calymmatobacterium granulomatis
+- Haemophilus ducreyi
+- Haemophilus influenzae
+- Yersinia pestis (formerly Pasteurella pestis)
+- Francisella tularensis (formerly Pasteurella tularensis)
+- Vibrio cholerae (formerly Vibrio comma)
+- Bartonella bacilliformis
+- Brucella species
 
 Because many strains of the following groups of gram-negative microorganisms have been shown to be resistant to tetracyclines, culture and susceptibility testing are recommended:
 
-Escherichia coli Klebsiella species Enterobacter aerogenes Shigella species Acinetobacter species (formerly Mima species and Herellea species) Bacteroides species
+- Escherichia coli
+- Klebsiella species
+- Enterobacter aerogenes
+- Shigella species
+- Acinetobacter species (formerly Mima species and Herellea species)
+- Bacteroides species
 
-### Gram-Positive Bacteria
+Gram-Positive Bacteria
 
 Because many strains of the following groups of gram-positive microorganisms have been shown to be resistant to tetracycline, culture and susceptibility testing are recommended.
 Up to 44 percent of strains of Streptococcus pyogenes and 74 percent of Streptococcus faecalis have been found to be resistant to tetracycline drugs.
 Therefore, tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
 
-Streptococcus pyogenes Streptococcus pneumoniae Enterococcus group (Streptococcus faecalis and Streptococcus faecium) Alpha-hemolytic streptococci (viridans group)
+- Streptococcus pyogenes
+- Streptococcus pneumoniae
+- Enterococcus group (Streptococcus faecalis and Streptococcus faecium)
+- Alpha-hemolytic streptococci (viridans group)
 
-### Other Microorganisms
+Other Microorganisms
 
-| Rickettsiae | Clostridium species |
+| RickettsiaeChlamydia psittaciChlamydia trachomatisMycoplasma pneumoniaeUreaplasma urealyticumBorrelia recurrentisTreponema pallidumTreponema pertenue | Clostridium speciesFusobacterium fusiformeActinomyces speciesBacillus anthracisPropionibacterium acnesEntamoeba speciesBalantidium coliPlasmodium falciparum |
 | --- | --- |
-| Chlamydia psittaci | Fusobacterium fusiforme |
-| Chlamydia trachomatis | Actinomyces species |
-| Mycoplasma pneumoniae | Bacillus anthracis |
-| Ureaplasma urealyticum | Propionibacterium acnes |
-| Borrelia recurrentis | Entamoeba species |
-| Treponema pallidum | Balantidium coli |
-| Treponema pertenue | Plasmodium falciparum |
 
-Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
+Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum, but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
-### Susceptibility tests
-
-#### Diffusion techniques
-
-Quantitative methods that require measurement of zone diameters give the most precise estimate of the susceptibility of bacteria to antimicrobial agents.
+Susceptibility tests: Diffusion techniques: Quantitative methods that require measurement of zone diameters give the most precise estimate of the susceptibility of bacteria to antimicrobial agents.
 One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to doxycycline uses the 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk.
 Interpretation involves the correlation of the diameter obtained in the disk test with the minimum inhibitory concentration (MIC) for tetracycline or doxycycline, respectively.
 
@@ -80,9 +85,7 @@ The 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk should give th
 | E. coli ATCC 25922 | 18–25 | 18–24 |
 | S. aureus ATCC 25923 | 19–28 | 23–29 |
 
-#### Dilution techniques
-
-Use a standardized dilution method2 (broth, agar, microdilution) or equivalent with tetracycline powder.
+Dilution techniques: Use a standardized dilution method2 (broth, agar, microdilution) or equivalent with tetracycline powder.
 The MIC values obtained should be interpreted according to the following criteria:
 
 | MIC (mcg/mL) | Interpretation |
