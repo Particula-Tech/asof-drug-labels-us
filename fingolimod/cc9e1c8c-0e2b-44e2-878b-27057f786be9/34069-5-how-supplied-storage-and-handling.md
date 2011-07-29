@@ -4,11 +4,9 @@
 
 GILENYA capsules are supplied in blister packs.
 
-Carton of 28 capsules containing 2 folded blister cards of 14 capsules per blister card........
-NDC 0078-0607-51
+Carton of 28 capsules containing 2 folded blister cards of 14 capsules per blister card NDC 0078-0607-51
 
-Carton of 7 capsules containing 1 blister card of 7 capsules per blister card...........
-NDC 0078-0607-89
+Carton of 7 capsules containing 1 blister card of 7 capsules per blister card NDC 0078-0607-89
 
 GILENYA capsules should be stored at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF).
 Protect from moisture.

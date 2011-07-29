@@ -69,26 +69,15 @@ It is not known if GILENYA is safe and effective in children under age 18.
 
 What should I tell my doctor before taking GILENYA?
 
-Before you take GILENYA, tell your doctor about all your medical conditions, including if you had or now have:
+Before you take GILENYA, tell your doctor about all your medical conditions, including if you had or now have: • an irregular or abnormal heartbeat (arrhythmia) • a heart rate less than 55 beats a minute • heart problems • a history of fainting (syncope) • a fever or infection, or you are unable to fight infections.
+Tell your doctor if you have had chicken pox or have received the vaccine for chicken pox.
+Your doctor may do a blood test for chicken pox virus.
+You may need to get the vaccine for chicken pox and then wait 1 month before you start taking GILENYA. • eye problems, especially an inflammation of the eye called uveitis. • diabetes • breathing problems • liver problems • high blood pressure • Are pregnant or plan to become pregnant.
+GILENYA may harm your unborn baby.
+Talk to your doctor if you are pregnant or are planning to become pregnant.
 
-- an irregular or abnormal heartbeat (arrhythmia)
-- a heart rate less than 55 beats a minute
-- heart problems
-- a history of fainting (syncope)
-- a fever or infection, or you are unable to fight infections.
-  Tell your doctor if you have had chicken pox or have received the vaccine for chicken pox.
-  Your doctor may do a blood test for chicken pox virus.
-  You may need to get the vaccine for chicken pox and then wait 1 month before you start taking GILENYA.
-- eye problems, especially an inflammation of the eye called uveitis.
-- diabetes
-- breathing problems
-- liver problems
-- high blood pressure
-- Are pregnant or plan to become pregnant.
-  GILENYA may harm your unborn baby.
-  Talk to your doctor if you are pregnant or are planning to become pregnant.
-  - Tell your doctor right away if you become pregnant while taking GILENYA or if you become pregnant within 2 months after you stop taking GILENYA.
-  - If you are a female who can become pregnant, you should use effective birth control during your treatment with GILENYA and for at least 2 months after you stop taking GILENYA.
+- Tell your doctor right away if you become pregnant while taking GILENYA or if you become pregnant within 2 months after you stop taking GILENYA.
+- If you are a female who can become pregnant, you should use effective birth control during your treatment with GILENYA and for at least 2 months after you stop taking GILENYA.
 
 Pregnancy Registry: There is a registry for women who become pregnant during treatment with GILENYA.
 If you become pregnant while taking GILENYA, talk to your doctor about registering with the GILENYA Pregnancy Registry.
@@ -144,14 +133,7 @@ Serious side effects include:
 - Liver problems.
   GILENYA may cause liver problems.
   Your doctor should do blood tests to check your liver before you start taking GILENYA.
-  Call your doctor right away if you have any of the following symptoms of liver problems:
-  - nausea
-  - vomiting
-  - stomach pain
-  - loss of appetite
-  - tiredness
-  - your skin or the whites of your eyes turn yellow
-  - dark urine
+  Call your doctor right away if you have any of the following symptoms of liver problems: • nausea • vomiting • stomach pain • loss of appetite • tiredness • your skin or the whites of your eyes turn yellow • dark urine
 
 The most common side effects of GILENYA include:
 
@@ -212,6 +194,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-77/T2010-82
-
-May 2011/September 2010
+T2011-104/T2010-82 July 2011/September 2010

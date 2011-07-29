@@ -27,6 +27,7 @@ Table 2 Clinical and MRI Results of Study 1
 | Hazard ratio‡ of disability progression (95% CI) | 0.70 (0.52, 0.96) |  | 0.02 |
 | MRI Endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5(0) | 9.8 (5.0) | <0.001 |
+| Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2(0) | 1.1 (0) | <0.001 |
 
 All analyses of clinical endpoints were intent-to–treat.
 MRI analysis used evaluable dataset.
@@ -61,6 +62,7 @@ Table 3 Clinical and MRI Results of Study 2
 | Hazard ratio‡ of disability progression (95% CI) | 0.71 (0.42, 1.21) |  | 0.21 |
 | MRI Endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 12 months | 1.6 (0) | 2.6 (1.0) | 0.002 |
+| Mean (median) number of T1 Gd-enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | <0.001 |
 
 All analyses of clinical endpoints were intent-to–treat.
 MRI analysis used evaluable dataset.

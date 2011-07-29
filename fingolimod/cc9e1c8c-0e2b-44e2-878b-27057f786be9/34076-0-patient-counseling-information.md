@@ -49,4 +49,4 @@ Advise the patient that if she should nevertheless become pregnant, she should i
 
 Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to two months following the last dose.
 
-T2011-77
+T2011-104
