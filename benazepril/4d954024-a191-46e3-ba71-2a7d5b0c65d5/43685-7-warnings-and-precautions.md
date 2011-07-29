@@ -140,7 +140,13 @@ Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting an
 Anti-diabetics: In rare cases, diabetic patients receiving an ACE inhibitor (including benazepril) concomitantly with insulin or oral anti-diabetics may develop hypoglycemia.
 Such patients should therefore be advised about the possibility of hypoglycemic reactions and should be monitored accordingly.
 
-Other: No clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, naproxen, or cimetidine.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
+
+Other: No clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, or cimetidine.
 
 Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
 Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
