@@ -319,6 +319,13 @@ Low initial dosing and gradual dose increases should be employed.
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN SR.
 The consumption of alcohol during treatment with WELLBUTRIN SR should be minimized or avoided (also see CONTRAINDICATIONS).
 
+### Drug/Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Lifetime carcinogenicity studies were performed in rats and mice at doses up to 300 and 150 mg/kg/day, respectively.

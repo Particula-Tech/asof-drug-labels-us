@@ -32,6 +32,6 @@ Greenville, NC 27834
 ©2011, GlaxoSmithKline.
 All rights reserved
 
-May 2011
+July 2011
 
-WLS:6PI
+WLS:7PI
