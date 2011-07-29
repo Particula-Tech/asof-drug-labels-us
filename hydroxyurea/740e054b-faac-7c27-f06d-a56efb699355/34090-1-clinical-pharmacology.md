@@ -89,13 +89,13 @@ Although patients with 3 or more painful crises during the preceding 12 months w
 
 | EVENT | HYDROXYUREA (N=152) | PLACEBO (N=147) | PERCENT CHANGE VS PLACEBO | P-VALUE |
 | --- | --- | --- | --- | --- |
-| Median yearly rate of painful crises* | 2.5 | 4.6 | -46 | =0.001 |
-| Median yearly rate of painful crises requiring hospitalization | 1.0 | 2.5 | -60 | =0.0027 |
+| Median yearly rate of painful crises* | 2.5 | 4.6 | −46 | =0.001 |
+| Median yearly rate of painful crises requiring hospitalization | 1.0 | 2.5 | −60 | =0.0027 |
 | Median time to first painful crisis (months) | 2.76 | 1.35 | +104 | =0.014 |
 | Median time to second painful crisis (months) | 6.58 | 4.13 | +59 | =0.0024 |
-| Incidence of chest syndrome (# episodes) | 56 | 101 | -45 | =0.003 |
-| Number of patients transfused | 55 | 79 | -30 | =0.002 |
-| Number of units of blood transfused | 423 | 670 | -37 | =0.003 |
+| Incidence of chest syndrome (# episodes) | 56 | 101 | −45 | =0.003 |
+| Number of patients transfused | 55 | 79 | −30 | =0.002 |
+| Number of units of blood transfused | 423 | 670 | −37 | =0.003 |
 | * A painful crisis was defined in the study as acute sickling-related pain that resulted in a visit to a medical facility, that lasted more than 4 hours, and that required treatment with a parenteral narcotic or NSAID. Chest syndrome, priapism, and hepatic sequestration were also included in this definition. |  |  |  |  |
 
 No deaths were attributed to treatment with hydroxyurea, and none of the patients developed neoplastic disorders during the study.

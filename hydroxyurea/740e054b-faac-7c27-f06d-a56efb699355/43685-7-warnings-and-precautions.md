@@ -10,7 +10,7 @@ DROXIA causes macrocytosis, which may mask the incidental development of folic a
 Prophylactic administration of folic acid is recommended.
 
 In HIV-infected patients during therapy with hydroxyurea and didanosine, with or without stavudine, fatal and nonfatal pancreatitis have occurred.
-Hepatotoxicity and hepatic failure resulting in death have been reported during post-marketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
+Hepatotoxicity and hepatic failure resulting in death have been reported during postmarketing surveillance in HIV-infected patients treated with hydroxyurea and other antiretroviral agents.
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
 This combination should be avoided.
 
@@ -92,6 +92,8 @@ Safety and effectiveness in pediatric patients have not been established.
 ## Drug Interactions
 
 Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.
+
+Studies have shown that there is an analytical interference of hydroxyurea with the enzymes (urease, uricase, and lactic dehydrogenase) used in the determination of urea, uric acid and lactic acid, rendering falsely elevated results of these in patients treated with hydroxyurea.
 
 ## Information for Patients
 
