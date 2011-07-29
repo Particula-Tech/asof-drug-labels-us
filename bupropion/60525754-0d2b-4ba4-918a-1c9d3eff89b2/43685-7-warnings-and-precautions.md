@@ -242,10 +242,12 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
+Few systemic data have been collected on the metabolism of bupropion following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of bupropion on the metabolism of other drugs.
+
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
 Therefore, the potential exists for a drug interaction between WELLBUTRIN and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
@@ -303,6 +305,13 @@ Low initial dosing and small gradual dose increases should be employed.
 
 In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN.
 The consumption of alcohol during treatment with WELLBUTRIN should be minimized or avoided (also see CONTRAINDICATIONS).
+
+### Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
