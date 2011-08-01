@@ -1,57 +1,73 @@
-# PRINCIPAL DISPLAY PANEL - 0.25 mg/2 mL Label
+# PRINCIPAL DISPLAY PANEL
 
-NDC 0093-6815-45
+## Budesonide inhalation suspension, 0.25 mg/2 mL Carton Text
 
-Budesonide Inhalation Suspension 0.25 mg/2 mL Rx Only
+NDC 0093-6815-73
 
-FOR ORAL INHALATION ONLY Shake gently using a circular motion prior to use.
-Once a vial is opened, use the contents immediately.
+BUDESONIDE
+
+Inhalation Suspension
+
+0.25 mg/2 mL
+
+Each unit-dose vial delivers 2 mL of a sterile suspension containing
+
+0.25 mg of micronized budesonide.
+
+Steri-Neb tm
+
+brand of
+
+Sterile Unit-Dose Vials
+
+For Oral Inhalation Only
+
+NOT FOR INJECTION
+
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic nebulizer.
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-Do not freeze.
-Store unopened vials in the foil envelope placed upright in the carton.
-Protect from light.
-Use as directed by a physician.
-Follow the Patient Instructions for proper use of budesonide inhalation suspension.
-See package insert for full prescribing information.
-Once the foil envelope is opened, use the vials within 2 weeks.
-Date Opened:_______ Each unit-dose vial delivers 2 mL of a sterile suspension containing 0.25 mg of micronized budesonide Inactive Ingredients: citric acid monohydrate, disodium edetate, polysorbate 80, sodium chloride, tri-sodium citrate dihydrate and water for injection Keep out of reach of children.
-DO NOT DISCARD THE FOIL ENVELOPE UNTIL THE LAST VIAL IS USED.
-1 pouch x five 2 mL vials each Manufactured In England By: IVAX Pharmaceuticals UK, Runcorn, Cheshire WA7 3FA England Manufactured For: TEVA PHARMACEUTICALS USA, Sellersville, PA 18960
+Do NOT use in an ultrasonic
 
-Rev.
-B 12/2007
+nebulizer.
 
-LOT:
+Rx only
 
-EXP:
+6 pouches of five 2 mL vials each (30 unit-dose vials)
 
-## PRINCIPAL DISPLAY PANEL - 0.5 mg/2 mL Label
+TEVA
 
-NDC 0093-6816-45
+# PRINCIPAL DISPLAY PANEL
 
-Budesonide Inhalation Suspension 0.5 mg/2 mL Rx Only
+## Budesonide inhalation suspension, 0.5 mg/2 mL Carton
 
-FOR ORAL INHALATION ONLY Shake gently using a circular motion prior to use.
-Once a vial is opened, use the contents immediately.
+NDC 0093-6816-73
+
+BUDESONIDE
+
+Inhalation Suspension
+
+0.5 mg/2 mL
+
+Each unit-dose vial delivers 2 mL of a sterile suspension containing
+
+0.5 mg of micronized budesonide.
+
+Steri-Neb tm
+
+brand of
+
+Sterile Unit-Dose Vials
+
+For Oral Inhalation Only
+
+NOT FOR INJECTION
+
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic nebulizer.
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-Do not freeze.
-Store unopened vials in the foil envelope placed upright in the carton.
-Protect from light.
-Use as directed by a physician.
-Follow the Patient Instructions for proper use of budesonide inhalation suspension.
-See package insert for full prescribing information.
-Once the foil envelope is opened, use the vials within 2 weeks.
-Date Opened:_______ Each unit-dose vial delivers 2 mL of a sterile suspension containing 0.5 mg of micronized budesonide Inactive Ingredients: citric acid monohydrate, disodium edetate, polysorbate 80, sodium chloride, tri-sodium citrate dihydrate and water for injection Keep out of reach of children.
-DO NOT DISCARD THE FOIL ENVELOPE UNTIL THE LAST VIAL IS USED.
-1 pouch x five 2 mL vials each Manufactured In England By: IVAX Pharmaceuticals UK, Runcorn, Cheshire WA7 3FA England Manufactured For: TEVA PHARMACEUTICALS USA, Sellersville, PA 18960
+Do NOT use in an ultrasonic
 
-Rev.
-B 12/2007
+nebulizer.
 
-LOT:
+Rx only
 
-EXP:
+6 pouches of five 2 mL vials each (30 unit-dose vials)
+
+TEVA
