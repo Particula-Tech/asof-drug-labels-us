@@ -23,7 +23,7 @@ Each tablet contains minocycline hydrochloride equivalent to 65 mg minocycline, 
 | NDC 99207-463-30 | Bottle of 30 |
 | --- | --- |
 
-The 80 mg extended release tablets are gray, unscored, coated, and debossed with "DYN-080" on one side.
+The 80 mg extended release tablets are dark gray, unscored, coated, and debossed with "DYN-080" on one side.
 Each tablet contains minocycline hydrochloride equivalent to 80 mg minocycline, supplied as follows:
 
 | NDC 99207-466-30 | Bottle of 30 |

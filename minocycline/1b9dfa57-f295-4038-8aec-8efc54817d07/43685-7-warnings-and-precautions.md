@@ -99,5 +99,5 @@ If superinfection occurs, SOLODYN should be discontinued and appropriate therapy
 
 ## 5.13 Laboratory Monitoring
 
-Periodic laboratory evaluations of organ systems, including hematopoetic renal and hepatic studies should be performed.
+Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.

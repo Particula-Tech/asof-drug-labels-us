@@ -197,6 +197,6 @@ The 115 mg tablets also contain Opadry II Green which contains: hypromellose typ
 
 The 135 mg tablets also contain Opadry II Pink which contains: hypromellose type 2910, lactose monohydrate, titanium dioxide, polyethylene glycol 3350, iron oxide red, and triacetin.
 
-SOLODYN® is manufactured by WellSpring Pharmaceutical Canada Corp. for Medicis Pharmaceutical Corporation, Scottsdale, Arizona, 85256.
+SOLODYN® is manufactured by WellSpring Pharmaceutical Canada Corp. for Medicis, The Dermatology Company, Scottsdale, Arizona, 85256.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
