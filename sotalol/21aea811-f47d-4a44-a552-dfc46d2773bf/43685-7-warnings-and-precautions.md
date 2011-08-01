@@ -128,10 +128,9 @@ It is prudent, if Betapace AF (sotalol hydrochloride) is to be administered, to 
 While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-## Anesthesia
+## Major Surgery
 
-The management of patients undergoing major surgery who are being treated with beta-blockers is controversial.
-Protracted severe hypotension and difficulty in restoring and maintaining normal cardiac rhythm after anesthesia have been reported in patients receiving beta-blockers.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes
 
