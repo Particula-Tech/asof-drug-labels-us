@@ -6,12 +6,14 @@
   "labeler": "APP Pharmaceuticals, LLC",
   "package_ndcs": [
     "63323-285-64",
-    "63323-285-65"
+    "63323-285-65",
+    "63323-286-00",
+    "63323-286-63"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "ropivacaine hydrochloride monohydrate",
+      "generic": "ropivacaine hydrochloride",
       "name": "Naropin"
     }
   ],

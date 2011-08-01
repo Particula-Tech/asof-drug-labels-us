@@ -2,6 +2,7 @@
 
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
+
 The reported adverse events are derived from clinical studies conducted in the U.S. and other countries.
 The reference drug was usually bupivacaine.
 The studies used a variety of premedications, sedatives, and surgical procedures of varying length.
@@ -10,7 +11,7 @@ Each patient was counted once for each type of adverse event.
 
 ## Incidence ≥5%
 
-For the indications of epidural administration in surgery, cesarean section, post-operative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
+For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
 
 ## Incidence 1 to 5%
 
@@ -22,7 +23,15 @@ The reported adverse events are derived from controlled clinical studies with Na
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of Naropin-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Naropin.
 
-Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Post-Operative Pain Management, Peripheral Nerve Block and Local Infiltration)
+Table 3A
+
+Adverse Events Reported in ≥1% of Adult Patients Receiving
+
+Regional or Local Anesthesia (Surgery, Labor, Cesarean Section,
+
+Postoperative Pain Management, Peripheral Nerve Block
+
+and Local Infiltration)
 
 | Adverse Reaction | Naropintotal N=1661 |  | Bupivacainetotal N=1433 |  |
 | --- | --- | --- | --- | --- |
@@ -47,7 +56,11 @@ Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional o
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+Table 3B
+
+Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers
+
+Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
 | Adverse Reaction | Naropintotal N=639 |  | Bupivacainetotal N=573 |  |
 | --- | --- | --- | --- | --- |
@@ -66,14 +79,54 @@ Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who 
 
 ## Incidence <1%
 
-The following adverse events were reported during the Naropin clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant: Application Site Reactions - injection site pain Cardiovascular System - vasovagal reaction, syncope, postural hypotension, non-specific ECG abnormalities Female Reproductive - poor progression of labor, uterine atony Gastrointestinal System - fecal incontinence, tenesmus, neonatal vomiting General and Other Disorders - hypothermia, malaise, asthenia, accident and/or injury Hearing and Vestibular - tinnitus, hearing abnormalities Heart Rate and Rhythm - extrasystoles, non-specific arrhythmias, atrial fibrillation Liver and Biliary System - jaundice Metabolic Disorders - hypomagnesemia Musculoskeletal System - myalgia Myo/Endo/Pericardium - ST segment changes, myocardial infarction Nervous System - tremor, Horner’s syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor Psychiatric Disorders - agitation, confusion, somnolence, nervousness, amnesia, hallucination, emotional lability, insomnia, nightmares Respiratory System - bronchospasm, coughing Skin Disorders - rash, urticaria Urinary System Disorders - urinary incontinence, micturition disorder Vascular - deep vein thrombosis, phlebitis, pulmonary embolism Vision - vision abnormalities For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of Naropin and bupivacaine.
+The following adverse events were reported during the Naropin clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant:
+
+Application Site Reactions - injection site pain
+
+Cardiovascular System - vasovagal reaction, syncope, postural hypotension, non-specific ECG abnormalities
+
+Female Reproductive - poor progression of labor, uterine atony
+
+Gastrointestinal System - fecal incontinence, tenesmus, neonatal vomiting
+
+General and Other Disorders - hypothermia, malaise, asthenia, accident and/or injury
+
+Hearing and Vestibular - tinnitus, hearing abnormalities
+
+Heart Rate and Rhythm - extrasystoles, non-specific arrhythmias, atrial fibrillation
+
+Liver and Biliary System - jaundice
+
+Metabolic Disorders - hypomagnesemia
+
+Musculoskeletal System - myalgia
+
+Myo/Endo/Pericardium - ST segment changes, myocardial infarction
+
+Nervous System - tremor, Horner’s syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor
+
+Psychiatric Disorders - agitation, confusion, somnolence, nervousness, amnesia, hallucination, emotional lability, insomnia, nightmares
+
+Respiratory System - bronchospasm, coughing
+
+Skin Disorders - rash, urticaria
+
+Urinary System Disorders - urinary incontinence, micturition disorder
+
+Vascular - deep vein thrombosis, phlebitis, pulmonary embolism
+
+Vision - vision abnormalities
+
+For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of Naropin and bupivacaine.
 Table 4 is based on data from trials in the U.S. and other countries where Naropin was administered as an epidural anesthetic for surgery.
 
-Table 4 Common Events (Epidural Administration)
+Table 4
+
+Common Events (Epidural Administration)
 
 | AdverseReaction | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |
+|  | 5 mg/mLtotal N=256 |  | 7.5 mg/mLtotal N=297 |  | 10 mg/mLtotal N=207 |  | 5 mg/mLtotal N=236 |  | 7.5 mg/mLtotal N=174 |  |
 |  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
 | hypotension | 99 | (38.7) | 146 | (49.2) | 113 | (54.6) | 91 | (38.6) | 89 | (51.1) |
 | nausea | 34 | (13.3) | 68 | (22.9) |  |  | 41 | (17.4) | 36 | (20.7) |
@@ -90,20 +143,30 @@ Table 4 Common Events (Epidural Administration)
 Using data from the same studies, the number (%) of patients experiencing hypotension is displayed by patient age, drug and concentration in Table 5.
 In Table 6, the adverse events for Naropin are broken down by gender.
 
-Table 5 Effects of Age on Hypotension (Epidural Administration) Total N: Naropin = 760, bupivacaine = 410
+Table 5
+
+Effects of Age on Hypotension (Epidural Administration)
+
+Total N: Naropin = 760, Bupivacaine = 410
 
 |  | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |
+| AGE | 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |
 |  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
 | <65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
 | ≥65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
-Table 6 Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
+Table 6
+
+Most Common Adverse Events by Gender
+
+(Epidural Administration)
+
+Total N: Females = 405, Males = 355
 
 | Adverse Reaction | Female |  | Male |  |
 | --- | --- | --- | --- | --- |
-|  | N | % | N | % |
+| N | (%) | N | (%) |  |
 | hypotension | 220 | (54.3) | 138 | (38.9) |
 | nausea | 119 | (29.4) | 23 | (6.5) |
 | bradycardia | 65 | (16) | 56 | (15.8) |
@@ -127,6 +190,7 @@ In addition to systemic dose-related toxicity, unintentional subarachnoid inject
 Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia may occur.
 This may lead to secondary cardiac arrest if untreated.
 Factors influencing plasma protein binding, such as acidosis, systemic diseases that alter protein production or competition with other drugs for protein binding sites, may diminish individual tolerance.
+
 Epidural administration of Naropin has, in some cases, as with other local anesthetics, been associated with transient increases in temperature to >38.5°C.
 This occurred more frequently at doses of Naropin >16 mg/h.
 
@@ -137,8 +201,10 @@ Restlessness, anxiety, dizziness, tinnitus, blurred vision or tremors may occur,
 However, excitement may be transient or absent, with depression being the first manifestation of an adverse reaction.
 This may quickly be followed by drowsiness merging into unconsciousness and respiratory arrest.
 Other central nervous system effects may be nausea, vomiting, chills, and constriction of the pupils.
+
 The incidence of convulsions associated with the use of local anesthetics varies with the route of administration and the total dose administered.
 In a survey of studies of epidural anesthesia, overt toxicity progressing to convulsions occurred in approximately 0.1% of local anesthetic administrations.
+
 The incidence of adverse neurological reactions associated with the use of local anesthetics may be related to the total dose and concentration of local anesthetic administered and are also dependent upon the particular drug used, the route of administration, and the physical status of the patient.
 Many of these observations may be related to local anesthetic techniques, with or without a contribution from the drug.
 During lumbar epidural block, occasional unintentional penetration of the subarachnoid space by the catheter or needle may occur.
