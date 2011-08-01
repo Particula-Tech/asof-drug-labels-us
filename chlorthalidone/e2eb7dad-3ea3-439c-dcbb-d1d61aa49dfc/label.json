@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019574"
+  ],
   "inn": "chlorthalidone",
-  "labeler": "Monarch Pharmaceuticals, Inc.",
+  "labeler": "Monarch Pharmaceuticals, Inc",
   "package_ndcs": [
     "61570-024-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "THALITONE"
+    }
+  ],
   "setid": "e2eb7dad-3ea3-439c-dcbb-d1d61aa49dfc",
   "source": "dailymed"
 }
