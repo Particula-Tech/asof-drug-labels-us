@@ -10,14 +10,12 @@ The most serious risks associated with ketorolac tromethamine are:
   Serious gastrointestinal toxicity, such as bleeding, ulceration, and perforation, can occur at any time, with or without warning symptoms, in patients treated with ketorolac tromethamine.
   Studies to date with NSAIDs have not identified any subset of patients not at risk of developing peptic ulceration and bleeding.
   Elderly or debilitated patients seem to tolerate ulceration or bleeding less well than other individuals, and most spontaneous reports of fatal G.I. events are in this population.
-  Postmarketing experience with parenterally administered ketorolac tromethamine suggests that there may be a greater risk of gastrointestinal ulcerations, bleeding and perforation in the elderly.
-  The incidence and severity of gastrointestinal complications increases with increasing dose of, and duration of treatment with ketorolac tromethamine.
-  In a non-randomized, in-hospital postmarketing surveillance study, comparing parenteral ketorolac tromethamine to parenteral opioids, higher rates of clinically serious G.I. bleeding were seen in patients <65 years of age who received an average total daily dose of more than 90 mg of ketorolac tromethamine injection per day (see CLINICAL PHARMACOLOGY − Postmarketing Surveillance Study).
-  The same study showed that elderly (≥65 years of age), and debilitated patients are more susceptible to gastrointestinal complications.
+  Postmarketing experience with parenterally administered ketorolac tromethamine suggests that there may be a greater risk of gastrointestinal ulcerations, bleeding and perforation in the elderly.The incidence and severity of gastrointestinal complications increases with increasing dose of, and duration of treatment with ketorolac tromethamine.
+  In a non-randomized, in-hospital postmarketing surveillance study, comparing parenteral ketorolac tromethamine to parenteral opioids, higher rates of clinically serious G.I. bleeding were seen in patients <65 years of age who received an average total daily dose of more than 90 mg of ketorolac tromethamine injection per day (see CLINICAL PHARMACOLOGY − Postmarketing Surveillance Study).The same study showed that elderly (≥65 years of age), and debilitated patients are more susceptible to gastrointestinal complications.
   A history of peptic ulcer disease was revealed as another risk factor that increases the possibility of developing serious gastrointestinal complications during ketorolac tromethamine therapy (see Tables 3A and B).
 - Impaired Renal Function: Ketorolac tromethamine should be used with caution in patients with impaired renal function, or a history of kidney disease because it is a potent inhibitor of prostaglandin synthesis.
   Renal toxicity with ketorolac tromethamine has been seen in patients with conditions leading to a reduction in blood volume and/or renal blood flow, where renal prostaglandins have a supportive role in the maintenance of renal perfusion.
-  In these patients, administration of ketorolac tromethamine may cause a dose-dependent reductionin renal prostaglandin formation and may precipitate acute renal failure.
+  In these patients, administration of ketorolac tromethamine may cause a dose-dependent reduction in renal prostaglandin formation and may precipitate acute renal failure.
   Patients at greatest risk of this reaction are those with impaired renal function, dehydration, heart failure, liver dysfunction, those taking diuretics and the elderly.
   Discontinuation of ketorolac tromethamine therapy is usually followed by recovery to the pretreatment state.
 
@@ -38,8 +36,7 @@ Hypovolemia should be corrected before treatment with ketorolac tromethamine is 
   The concurrent use of ketorolac tromethamine and prophylactic low-dose heparin (2500-5000 units q12h), warfarin and dextrans have not been studied extensively, but may also be associated with an increased risk of bleeding.
   Until data from such studies are available, physicians should carefully weigh the benefits against the risks, and use such concomitant therapy in these patients only extremely cautiously.
   In patients who receive anticoagulants for any reason, there is an increased risk of intramuscular hematoma formation from administered ketorolac tromethamine IM (see PRECAUTIONS − Drug Interactions).
-  Patients receiving therapy that affects hemostasis should be monitored closely.
-  In postmarking experience, postoperative hematomas and other signs of wound bleeding have been reported in association with the perioperative use of ketorolac tromethamine injection.
+  Patients receiving therapy that affects hemostasis should be monitored closely.In postmarking experience, postoperative hematomas and other signs of wound bleeding have been reported in association with the perioperative use of ketorolac tromethamine injection.
   Therefore, perioperative use of ketorolac tromethamine should be avoided and postoperative use be undertaken with caution when hemostasis is critical (see WARNINGS and PRECAUTIONS).
 - Anaphylactoid Reactions: Anaphylactoid reactions may occur in patients without a known previous exposure or hypersensitivity to aspirin, ketorolac tromethamine, or other NSAIDs, or in individuals with a history of angioedema, bronchospastic reactivity (e.g., asthma), and nasal polyps.
   Anaphylactoid reactions, like anaphylaxis, may have a fatal outcome.
@@ -48,7 +45,7 @@ Hypovolemia should be corrected before treatment with ketorolac tromethamine is 
 
 ## GENERAL
 
-- Hepatic Effects:Ketorolac tromethamine should be used with caution in patients with impaired hepatic function, or a history of liver disease.
+- Hepatic Effects: Ketorolac tromethamine should be used with caution in patients with impaired hepatic function, or a history of liver disease.
   Treatment with ketorolac tromethamine may cause elevations of liver enzymes, and in patients with pre-existing liver dysfunction it may lead to the development of a more severe hepatic reaction.
   The administration of ketorolac tromethamine should be discontinued in patients in whom an abnormal liver test has occurred as a result of ketorolac tromethamine therapy.
 - Hematologic Effects: Ketorolac tromethamine inhibits platelet aggregation and may prolong bleeding time; therefore, it is contraindicated as a preoperative medication and caution should be used when hemostasis is critical.
@@ -69,7 +66,7 @@ Remember that the total duration of ketorolac tromethamine therapy is not to exc
 
 Ketorolac is highly bound to human plasma protein (mean 99.2%).
 
-The in vitro binding ofwarfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to 10 mcg/mL.
+The in vitro binding of warfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to 10 mcg/mL.
 Ketorolac does not alter digoxin protein binding.
 In vitro studies indicate that, at therapeutic concentrations of salicylate (300 mcg/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential two-fold increase in unbound ketorolac plasma levels.
 Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin, and tolbutamide did not alter ketorolac tromethamine protein binding.

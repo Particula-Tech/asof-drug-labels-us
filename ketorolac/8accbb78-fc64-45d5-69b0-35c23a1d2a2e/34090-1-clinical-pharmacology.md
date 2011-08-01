@@ -117,4 +117,4 @@ The AUC∞-ratio of the ketorolac tromethamine enantiomers in healthy subjects a
 
 Hepatic Effects
 
-There was no significant difference in estimates of half-life, AUC∞, Cmax, in 7 patients with liver disease compared to healthy volunteers (see PRECAUTIONS– Hepatic Effects).
+There was no significant difference in estimates of half-life, AUC∞, Cmax, in 7 patients with liver disease compared to healthy volunteers (see PRECAUTIONS – Hepatic Effects).

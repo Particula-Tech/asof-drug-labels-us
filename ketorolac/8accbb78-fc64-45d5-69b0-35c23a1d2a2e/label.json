@@ -1,13 +1,26 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074802"
+  ],
   "inn": "ketorolac",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-3793-01",
+    "0409-3793-49",
     "0409-3795-01",
-    "0409-3796-01"
+    "0409-3795-49",
+    "0409-3795-61",
+    "0409-3796-01",
+    "0409-3796-49",
+    "0409-3796-61"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ketorolac tromethamine",
+      "name": "Ketorolac Tromethamine"
+    }
+  ],
   "setid": "8accbb78-fc64-45d5-69b0-35c23a1d2a2e",
   "source": "dailymed"
 }

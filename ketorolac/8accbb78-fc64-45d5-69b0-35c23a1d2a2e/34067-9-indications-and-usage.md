@@ -7,4 +7,4 @@ Patients should be switched to alternative analgesics as soon as possible, but k
 
 Ketorolac tromethamine injection has been used concomitantly with morphine and meperidine, and has shown an opioid-sparing effect.
 For breakthrough pain, it is recommended to supplement the lower end of the ketorolac tromethamine injection dosage range with low doses of narcotics prn, unless otherwise contraindicated.
-Ketorolac tromethamine injection and narcotics should not be administered in the same syringe (see DOSAGE AND ADMINISTRATION −Pharmaceutical Information for Ketorolac tromethamine injection).
+Ketorolac tromethamine injection and narcotics should not be administered in the same syringe (see DOSAGE AND ADMINISTRATION − Pharmaceutical Information for Ketorolac tromethamine injection).
