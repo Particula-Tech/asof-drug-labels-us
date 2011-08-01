@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090107"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5315-01",
+    "0781-5315-05",
+    "0781-5315-31",
+    "0781-5316-01",
+    "0781-5316-05",
+    "0781-5316-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "zolpidem tartrate",
+      "name": "Zolpidem tartrate"
+    }
+  ],
+  "setid": "b1b0085f-d9fe-430a-9bd5-607f607bf7e1",
+  "source": "dailymed"
+}
