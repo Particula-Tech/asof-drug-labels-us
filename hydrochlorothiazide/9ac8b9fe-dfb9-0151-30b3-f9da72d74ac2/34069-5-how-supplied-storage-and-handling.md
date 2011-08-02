@@ -8,7 +8,6 @@ AVALIDE® (irbesartan-hydrochlorothiazide) film-coated tablets have markings on 
 | --- | --- | --- | --- | --- |
 | 150 mg/12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and “2875” on the reverse | Bottles of 30 Bottles of 90 | 0087-2875-31 0087-2875-32 |
 | 300 mg/12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and “2876” on the reverse | Bottles of 30 Bottles of 90 | 0087-2876-31 0087-2876-32 |
-| 300 mg/25 mg | pink, biconvex, oval-shaped | heart debossed on one side and “2788” on the reverse | Bottles of 30 Bottles of 90 | 0087-2788-31 0087-2788-32 |
 
 ## 16.2 Storage
 

@@ -31,5 +31,5 @@ AVALIDE may be substituted for the titrated components.
 ## 2.4 Initial Therapy
 
 The usual starting dose is AVALIDE 150/12.5 mg once daily.
-The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 300/25 mg tablet once daily as needed to control blood pressure [see Clinical Studies (14.2)].
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of 300/25 mg once daily as needed to control blood pressure [see Clinical Studies (14.2)].
 AVALIDE is not recommended as initial therapy in patients with intravascular volume depletion [see Warnings and Precautions (5.2)].

@@ -4,4 +4,4 @@ Distributed by: Bristol-Myers Squibb Sanofi-Synthelabo Partnership New York, New
 
 Origin France
 
-1286434A2 Rev May 2011
+1286434A2 Rev July 2011
