@@ -23,7 +23,7 @@ Patients should be warned about the potential, significant risk for metabolic ac
 
 ## 17.5 Interference with Cognitive and Motor Performance
 
-Patients should be warned about the potential for somnolence, dizziness, confusion, difficulty concentrating, visual effects and advised not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.5)] .
+Patients should be warned about the potential for somnolence, dizziness, confusion, difficulty concentrating, or visual effects and should be advised not to drive or operate machinery until they have gained sufficient experience on topiramate to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.5)] .
 Even when taking topiramate or other anticonvulsants, some patients with epilepsy will continue to have unpredictable seizures.
 Therefore, all patients taking topiramate for epilepsy should be told to exercise appropriate caution when engaging in any activities where loss of consciousness could result in serious danger to themselves or those around them (including swimming, driving a car, climbing in high places, etc.). Some patients with refractory epilepsy will need to avoid such activities altogether.
 Physicians should discuss the appropriate level of caution with their patients, before patients with epilepsy engage in such activities.
@@ -39,11 +39,16 @@ Patients should be instructed to contact their physician if they develop unexpla
 
 Patients, particularly those with predisposing factors, should be instructed to maintain an adequate fluid intake in order to minimize the risk of kidney stone formatio n [see Warnings and Precautions (5.9)].
 
-## 17.8 Use in Pregnancy
+## 17.8 Fetal Toxicity
 
-Patients should be instructed to notify their physician if they become pregnant or intend to become pregnant during therapy and to notify their physician if they are breastfeeding or intend to breastfeed during therapy with topiramate [see Use in Specific Populations (8.1) and (8.3)] .
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Use in Specific Populations (8.1) and (8.9)].
+When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
+This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
+Prescribers should advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)] .
+Encourage pregnant women using topiramate to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number, 1-888-233-2334 [see Use in Specific Populations (8.1)] .
+To enroll, patients can call the toll free number, 1-888-233-2334.
+Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Use in Specific Populations (8.1)] .
 Cardizem CD ® is a registered trademark of Biovail Laboratories Incorporated.
-Effexor XR ® is a registered trademark of Wyeth Pharmaceuticals Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2010
+Effexor XR ® is a registered trademark of Wyeth Pharmaceuticals Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011

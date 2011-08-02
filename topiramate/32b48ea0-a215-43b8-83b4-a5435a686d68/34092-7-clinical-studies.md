@@ -10,9 +10,9 @@ Forty-nine percent of subjects had no prior AED treatment and 17% had a diagnosi
 Any AED therapy used for temporary or emergency purposes was discontinued prior to randomization.
 In the double-blind phase, 470 patients were randomized to titrate up to 50 mg/day or 400 mg/day.
 If the target dose could not be achieved, patients were maintained on the maximum tolerated dose.
-Fifty eight percent of patients achieved the maximal dose of 400 mg/day for >2 weeks, and patients who did not tolerate 150 mg/day were discontinued.
-The primary efficacy assessment was a between group comparison of time to first seizure during the double-blind phase.
-Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (p=0.0002, log rank test; Figure 1 ).
+Fifty-eight percent of patients achieved the maximal dose of 400 mg/day for >2 weeks, and patients who did not tolerate 150 mg/day were discontinued.
+The primary efficacy assessment was a between-group comparison of time to first seizure during the double-blind phase.
+Comparison of the Kaplan-Meier survival curves of time to first seizure favored the topiramate 400 mg/day group over the topiramate 50 mg/day group (p=0.0002, log rank test; Figure 1).
 The treatment effects with respect to time to first seizure were consistent across various patient subgroups defined by age, sex, geographic region, baseline body weight, baseline seizure type, time since diagnosis, and baseline AED use.
 Adjunctive Therapy Controlled Trials in Patients With Partial Onset Seizures The effectiveness of topiramate as an adjunctive treatment for adults with partial onset seizures was established in six multicenter, randomized, double-blind, placebo controlled trials, two comparing several dosages of topiramate and placebo and four comparing a single dosage with placebo, in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
 Patients in these studies were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
@@ -22,26 +22,26 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In the sixth study (119), the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12­-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 9 .
+The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 9.
 Adjunctive Therapy Epilepsy Controlled Trials in Adults and Pediatric Patients (Ages 2 to 16 Years) The effectiveness of topiramate as an adjunctive treatment for pediatric patients ages 2 to 16 years with partial onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing topiramate and placebo in patients with a history of partial onset seizures, with or without secondarily generalized seizures.
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In this study, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
 Patients who experienced at least six partial onset seizures, with or without secondarily generalized seizures, during the baseline phase were randomly assigned to placebo or topiramate tablets in addition to their other AEDs.
 Following randomization, patients began the double-blind phase of treatment.
-Patients received active drug beginning at 25 or 50 mg per day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225 or 400 mg/day based on patients’ weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
+Patients received active drug beginning at 25 or 50 mg per day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225, or 400 mg/day based on patients’ weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
 After titration, patients entered an 8-week stabilization period.
 Adjunctive Therapy Controlled Trial in Patients With Primary Generalized Tonic-Clonic Seizures The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years old and older was established in a multicenter, randomized, double-blind, placebo-controlled trial, comparing a single dosage of topiramate and placebo.
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
 Patients who experienced at least three primary generalized tonic-clonic seizures during the baseline phase were randomly assigned to placebo or topiramate in addition to their other AEDs.
 Following randomization, patients began the double-blind phase of treatment.
-Patients received active drug beginning at 50 mg per day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225 or 400 mg/day based on patients’ body weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
+Patients received active drug beginning at 50 mg per day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225, or 400 mg/day based on patients’ body weight to approximate a dosage of 6 mg/kg per day was reached, unless intolerance prevented increases.
 After titration, patients entered a 12-week stabilization period.
 Adjunctive Therapy Controlled Trial in Patients With Lennox-Gastaut Syndrome The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome was established in a multicenter, randomized, double-blind, placebo-controlled trial comparing a single dosage of topiramate with placebo in patients 2 years of age and older.
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4­-week baseline phase.
 Following baseline, patients were randomly assigned to placebo or topiramate in addition to their other AEDs.
-Active drug was titrated beginning at 1 mg/kg per day for a week; the dose was then increased to 3 mg/kg per day for one week then to 6 mg/kg per day.
+Active drug was titrated beginning at 1 mg/kg per day for a week; the dose was then increased to 3 mg/kg per day for one week, then to 6 mg/kg per day.
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
@@ -59,7 +59,7 @@ Table 9: Topiramate Dose Summary During the Stabilization Periods of Each of Six
 | a Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Protocol Y1, 4 tablets/day; Protocols YD and Y2, 6 tablets/day; Protocol Y3 and 119, 8 tablets/day; Protocol YE, 10 tablets/day. b Dose-response studies were not conducted for other indications or pediatric partial onset seizures. |  |  |  |  |  |  |  |
 
 In all add-on trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10 .
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
 Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy Trials
@@ -86,7 +86,7 @@ Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Add-On Epilepsy 
 | 119 | N | 91 | 168 | -- | -- | -- | -- | -- |
 |  | Median % Reduction | 20 | 44.2c | -- | -- | -- | -- | -- |
 |  | % Responders | 24 | 45c | -- | -- | -- | -- | -- |
-| Studies i n Pediatric Patients |  |  |  |  |  |  |  |  |
+| Studies in Pediatric Patients |  |  |  |  |  |  |  |  |
 | YP | N | 45 | -- | -- | -- | -- | -- | 41 |
 |  | M edian % Reduction | 10.5 | -- | -- | -- | -- | -- | 33.1d |
 |  | % Responders | 20 | -- | -- | -- | -- | -- | 39 |

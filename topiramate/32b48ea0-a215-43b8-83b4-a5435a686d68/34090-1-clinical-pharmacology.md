@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanism by which topiramate exerts its anticonvulsant and other effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy and other indications.
+The precise mechanisms by which topiramate exerts its anticonvulsant and other effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy and other indications.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -41,7 +41,7 @@ Overall, oral plasma clearance (CL/F) is approximately 20 to 30 mL/min in humans
 Renal Impairment The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73 m 2 ) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73 m 2 ) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73 m 2 ).
 Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
 It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4 and 2.5) and Warnings and Precautions (5.11)] .
+In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.11)] .
 Hemodialysis Topiramate is cleared by hemodialysis.
 Using a high efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
 This high clearance (compared to 20 to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period.
@@ -67,8 +67,8 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 ## 12.5 Drug-Drug Interactions
 
 Antiepileptic Drugs Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in the Table 8 .
-In Table 8 , the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+The effects of these interactions on mean plasma AUCs are summarized in the Table 8.
+In Table 8, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the coadministration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
 
 Table 8: Summary of AED Interactions with Topiramate
@@ -90,7 +90,7 @@ Because of the potential of topiramate to cause CNS depression, as well as other
 Oral Contraceptives In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
 In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET.
-Although there was a dose dependent decrease in EE exposure for doses between 200 to 800 mg/day, there was no significant dose dependent change in EE exposure for doses of 50 to 200 mg/day.
+Although there was a dose dependent decrease in EE exposure for doses between 200 and 800 mg/day, there was no significant dose dependent change in EE exposure for doses of 50 to 200 mg/day.
 The clinical significance of the changes observed is not known.
 The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
@@ -117,8 +117,8 @@ In addition, a 13% and 16% decrease in C max,ss and AUC τ,ss respectively, of t
 The clinical significance of these findings is not known.
 When topiramate is added to pioglitazone therapy or pioglitazone is added to topiramate therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state.
 Glyburide A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
-There was a 22% decrease in C max and 25% reduction in AUC 24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4- trans -hydroxy­glyburide (M1) and 3- cis -hydroxyglyburide (M2), was also reduced by 13% and 15%, reduced C max by 18% and 25%, respectively.
+There was a 22% decrease in C max and a 25% reduction in AUC 24 for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4- trans -hydroxy­glyburide (M1) and 3- cis -hydroxyglyburide (M2), was also reduced by 13% and 15%, and C max was reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 Lithium In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg/day.
 Lithium levels should be monitored when co-administered with high-dose topiramate [see Drug Interactions (7.5)] .
@@ -129,12 +129,13 @@ Sumatriptan Multiple dosing of topiramate (100 mg every 12 hrs) in 24 healthy vo
 Risperidone When administered concomitantly with topiramate at escalating doses of 100, 250 and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
 Coadministration of topiramate 400 mg/day with risperidone resulted in a 14% increase in C max and a 12% increase in AUC 12 of topiramate.
-There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate, therefore this interaction is not likely to be of clinical significance.
+There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore this interaction is not likely to be of clinical significance.
 Propranolol Multiple dosing of topiramate (200 mg/day) in 34 healthy volunteers (17 males, 17 females) did not affect the pharmacokinetics of propranolol following daily 160 mg doses.
-Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate at a dose of 200 mg/day of topiramate.
+Propranolol doses of 160 mg/day in 39 volunteers (27 males, 12 females) had no effect on the exposure to topiramate, at a dose of 200 mg/day of topiramate.
 Dihydroergotamine Multiple dosing of topiramate (200 mg/day) in 24 healthy volunteers (12 males, 12 females) did not affect the pharmacokinetics of a 1 mg subcutaneous dose of dihydroergotamine.
 Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the pharmacokinetics of a 200 mg/day dose of topiramate in the same study.
-Diltiazem Co-administration of diltiazem (240 mg Cardizem CD ® ) with topiramate (150 mg/day) resulted in a 10% decrease in C max and 25% decrease in diltiazem AUC, 27% decrease in C max and 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem, coadministration of topiramate with diltiazem resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
+Diltiazem Co-administration of diltiazem (240 mg Cardizem CD ® ) with topiramate (150 mg/day) resulted in a 10% decrease in C max and a 25% decrease in diltiazem AUC, a 27% decrease in C max and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Coadministration of topiramate with diltiazem resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
 Venlafaxine Multiple dosing of topiramate (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
 Multiple dosing of venlafaxine (150 mg Effexor XR ® ) did not affect the pharmacokinetics of topiramate.
 Other Carbonic Anhydrase Inhibitors Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.

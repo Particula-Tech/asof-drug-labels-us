@@ -46,7 +46,7 @@ In the study of primary generalized tonic-clonic seizures the initial titration 
 
 ## 2.4 Patients with Renal Impairment
 
-In renally impaired subjects (creatinine clearance less than 70 mL/min/1.73 m 2 ), one half of the usual adult dose is recommended.
+In renally impaired subjects (creatinine clearance less than 70 mL/min/1.73 m 2 ), one-half of the usual adult dose is recommended.
 Such patients will require a longer time to reach steady-state at each dose.
 
 ## 2.5 Geriatric Patients (Ages 65 Years and Over)
@@ -62,5 +62,5 @@ The actual adjustment should take into account 1) the duration of dialysis perio
 
 ## 2.7 Patients with Hepatic Disease
 
-In hepatically impaired patients topiramate plasma concentrations may be increased.
+In hepatically impaired patients, topiramate plasma concentrations may be increased.
 The mechanism is not well understood.
