@@ -26,3 +26,7 @@ Protect from light.
 * BLOCADREN is a registered trademark of Merck & Co., Inc.
 
 Rx Only
+
+340048-0604
+
+Revised: June 2004

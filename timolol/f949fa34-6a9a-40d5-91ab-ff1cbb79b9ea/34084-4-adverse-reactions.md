@@ -10,7 +10,7 @@ Headache, asthenia/fatigue, and chest pain.
 
 CARDIOVASCULAR
 
-Bradycardia, arrhythmia, hypotension, hypertension, syncope, heart block, cerebral vascular accident, cerebral ischemia, cardiac failure, worsening of angina pectoris, palpitation, cardiac arrest, pulmonary edema, edema, claudication, Raynaud’s phenomenon, and cold hands and feet.
+Bradycardia, arrhythmia, hypotension, hypertension, syncope, heart block, cerebral vascular accident, cerebral ischemia, cardiac failure, worsening of angina pectoris, palpitation, cardiac arrest, pulmonary edema, edema, claudication, Raynaud's phenomenon, and cold hands and feet.
 
 DIGESTIVE
 
@@ -42,10 +42,10 @@ Masked symptoms of hypoglycemia in diabetic patients (see WARNINGS).
 
 SPECIAL SENSES
 
-Signs and symptoms of ocular irritation including conjunctivitis, blepharitis, keratitis, ocular pain, discharge (e.g., crusting), foreign body sensation, itching and tearing, and dry eyes; ptosis; decreased corneal sensitivity; cystoid macular edema; visual disturbances including refractive changes and diplopia; pseudopemphigoid; choroidal detachment following filtration surgery (see PRECAUTIONS, General); and tinnitus.
+Signs and symptoms of ocular irritation including conjunctivitis, blepharitis, keratitis, ocular pain, discharge (e.g., crusting), foreign body sensation, itching and tearing, and dry eyes; ptosis; decreased corneal sensitivity; cystoids macular edema; visual disturbances including refractive changes and diplopia; pseudopemphigoid; choroidal detachment following filtration surgery (see PRECAUTIONS, General); and tinnitus.
 
 UROGENITAL
 
-Retroperitoneal fibrosis, decreased libido, impotence and Peyronie’s disease.
+Retroperitoneal fibrosis, decreased libido, impotence and Peyronie's disease.
 
 The following additional adverse effects have been reported in clinical experience with ORAL timolol maleate or other ORAL beta-blocking agents and may be considered potential effects of ophthalmic timolol maleate: Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Body as a Whole: Extremity pain, decreased exercise tolerance, weight loss; Cardiovascular: Worsening of arterial insufficiency, vasodilatation; Digestive: Gastrointestinal pain, hepatomegaly, vomiting, mesenteric arterial thrombosis, ischemic colitis; Hematologic: Nonthrombocytopenic purpura; thrombocytopenic purpura, agranulocytosis; Endocrine: Hyperglycemia, hypoglycemia; Skin: Pruritus, skin irritation, increased pigmentation, sweating; Musculoskeletal: Arthralgia, Nervous System/Psychiatric: Vertigo, local weakness, diminished concentration, reversible mental depression progressing to catatonia, an acute reversible syndrome characterized by disorientation for time and place, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics; Respiratory: Rales, bronchial obstruction; Urogenital: Urination difficulties.

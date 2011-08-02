@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074261",
+    "ANDA074262"
+  ],
   "inn": "timolol",
-  "labeler": "FALCON Pharmaceuticals, Ltd.",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
   "package_ndcs": [
     "61314-226-05",
     "61314-226-10",
@@ -10,7 +13,13 @@
     "61314-227-10",
     "61314-227-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "timolol maleate",
+      "name": "Timolol Maleate"
+    }
+  ],
   "setid": "f949fa34-6a9a-40d5-91ab-ff1cbb79b9ea",
   "source": "dailymed"
 }
