@@ -1,14 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019079"
+  ],
   "inn": "fluorometholone",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
-    "0065-0096-04",
-    "0065-0096-05",
-    "0065-0096-10",
-    "0065-0096-25"
+    "0065-0096-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "fluorometholone acetate",
+      "name": "Flarex"
+    }
+  ],
   "setid": "6ae122c0-eb4f-4124-96d7-ba5e9a350d35",
   "source": "dailymed"
 }

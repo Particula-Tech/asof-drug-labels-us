@@ -1,14 +1,12 @@
 # HOW SUPPLIED
 
-2.5 mL, 5mL and 10 mL in plastic DROP-TAINER® dispensers.
-
-2.5 mL: NDC 0065-0096-25
+FLAREX® Suspension is supplied in white low density polyethylene (LDPE) bottles, with natural LDPE dispensing plugs and pink polypropylene closures.
+The product is supplied as 5mL in an 8 mL bottle.
 
 5 mL: NDC 0065-0096-05
 
-10 mL: NDC 0065-0096-10
+STORAGE: Store upright between 2°-25°C (36°-77°F).
 
-STORAGE: Store upright between 2°-27°C (36°-80°F).
-Protect From Freezing.
+Protect from freezing.
 
 Rx Only
