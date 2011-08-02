@@ -18,9 +18,9 @@ The median duration of adjuvant treatment for safety evaluation was 59.8 months 
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either Treatment Group During Treatment, or Within 14 Days of the end of Treatment in the ATAC TrialThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
+Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either Treatment Group During Treatment, or Within 14 Days of the End of Treatment in the ATAC TrialThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.-preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg (NN = Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
+| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | Anastrozole 1 mg (NN = Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -85,7 +85,7 @@ Table 1 - Adverse Reactions Occurring With an Incidence of at Least 5% in Either
 | Vaginal HemorrhageVaginal Hemorrhage without further diagnosis. | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
 
-Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
+Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (seeTable 2).
 
 Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Trial Patients with multiple events in the same category are counted only once in that category.
 
@@ -137,7 +137,7 @@ Cholesterol
 
 During the ATAC trial, more patients receiving anastrozole were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
 
-A post-marketing trial also evaluated any potential effects of anastrozole on lipid profile.
+A postmarketing trial also evaluated any potential effects of anastrozole on lipid profile.
 In the primary analysis population for lipids (anastrozole alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months.
 
 In secondary population for lipids (anastrozole + risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
@@ -160,6 +160,18 @@ Vaginal bleeding occurred more frequently in the tamoxifen-treated patients vers
 
 Patients receiving anastrozole had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
 
+10 Year Median Follow-Up Safety Results From the ATAC Trial
+
+- Results are consistent with the previous analyses.
+- Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
+- Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
+- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
+  This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
+- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7%) compared to the tamoxifen group (13.9%).
+  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8%) compared to the anastrozole group (0.2%).
+- The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+  There were more deaths related to breast cancer in the tamoxifen than in the anastrozole treatment group.
+
 First-Line Therapy
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group of trials 0030 and 0027 during or within 2 weeks of the end of treatment are shown in Table 3.
@@ -170,7 +182,7 @@ Table 3 - Adverse Reactions Occurring With an Incidence of at Least 5% in Trials
 | --- | --- | --- |
 | Adverse ReactionA patient may have had more than 1 adverse event. |  |  |
 |  | Anastrozole | Tamoxifen |
-| (n = 506) | (n = 511) |  |
+| (N = 506) | (N = 511) |  |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -207,7 +219,7 @@ Table 3 - Adverse Reactions Occurring With an Incidence of at Least 5% in Trials
 | Urogenital |  |  |
 | Leukorrhea | 9 (2) | 31 (6) |
 
-Less frequent adverse experiences reported in patients receiving anastrozole l mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
+Less frequent adverse experiences reported in patients receiving anastrozole 1 mg in either Trial 0030 or Trial 0027 were similar to those reported for second-line therapy.
 
 Based on results from second-line therapy and the established safety profile of tamoxifen, the incidences of 9 pre-specified adverse event categories potentially causally related to one or both of the therapies because of their pharmacology were statistically analyzed.
 No significant differences were seen between treatment groups.
@@ -216,9 +228,9 @@ Table 4 - Number of Patients With Pre-Specified Adverse Reactions in Trials 0030
 
 |  | Number (n) and Percentage of Patients |  |
 | --- | --- | --- |
-| Adverse ReactionA patient may have had more than 1 adverse event. | Anastrozole | NOLVADEX® |
+| Adverse ReactionA patient may have had more than 1 adverse reaction. | Anastrozole | NOLVADEX® |
 |  | 1 mg | 20 mg |
-|  | (n = 506) | (n = 511) |
+|  | (N = 506) | (N = 511) |
 |  | n (%) | n (%) |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
@@ -241,7 +253,7 @@ Adverse reactions reported in greater than 5% of the patients in any of the trea
 
 Table 5 - Number (N) and Percentage of Patients With Adverse Reactions in Trials 0004 and 0005
 
-| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole 1 mg (n = 262) |  | Anastrozole 10 mg (n = 246) |  | Megesterol Acetate 160 mg (n = 253) |  |
+| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole 1 mg (N = 262) |  | Anastrozole 10 mg (N = 246) |  | Megesterol Acetate 160 mg (N = 253) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
@@ -272,7 +284,7 @@ Table 5 - Number (N) and Percentage of Patients With Adverse Reactions in Trials
 | Sweating | 4 | (2) | 3 | (1) | 16 | (6) |
 | Increased Appetite | 0 | (0) | 1 | (0) | 13 | (5) |
 
-Other less frequent (2% to 5%) adverse reactions reported in patients receiving anastrozole l mg in either Trial 0004 or Trial 0005 are listed below.
+Other less frequent (2% to 5%) adverse reactions reported in patients receiving anastrozole 1 mg in either Trial 0004 or Trial 0005 are listed below.
 These adverse experiences are listed by body system and are in order of decreasing frequency within each body system regardless of assessed causality.
 
 Body as a Whole: Flu syndrome; fever; neck pain; malaise; accidental injury; infection
@@ -298,7 +310,9 @@ Skin and Appendages: Hair thinning (alopecia); pruritus
 
 Urogenital: Urinary tract infection; breast pain
 
-The incidences of the following adverse event groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
+The incidences of the following adverse reaction
+
+groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
@@ -306,8 +320,8 @@ Table 6 — Number (n) and Percentage of Patients With Pre-Specified Adverse Rea
 
 |  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 1 mg (n = 262) |  | 10 mg (n = 246) |  | 160 mg (n = 253) |  |
-| Adverse Event Group | N | (%) | N | (%) | N | (%) |
+|  | 1 mg (N = 262) |  | 10 mg (N = 246) |  | 160 mg (N = 253) |  |
+| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
 | Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
 | Edema | 19 | (7) | 28 | (11) | 35 | (14) |

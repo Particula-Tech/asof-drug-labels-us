@@ -1,9 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-Approved Patient Labeling.
+
 ## 17.1 Pregnancy
 
 Patients should be advised that anastrozole may cause fetal harm.
-They should also be advised that anastrozole is not for use in premenopausal women; therefore, if they become pregnant they should stop taking anastrozole and immediately contact their doctor.
+They should also be advised that anastrozole is not for use in premenopausal women; therefore, if they become pregnant, they should stop taking anastrozole and immediately contact their doctor.
 
 ## 17.2 Allergic (Hypersensitivity) Reactions
 
@@ -25,6 +27,4 @@ Patients should be informed that an increased level of cholesterol might be seen
 
 ## 17.6 Tamoxifen
 
-Patients should be advised not to take anastrozole with Tamoxifen.
-
-## 17.7 FDA-Approved Patient Labeling
+Patients should be advised not to take anastrozole with tamoxifen.

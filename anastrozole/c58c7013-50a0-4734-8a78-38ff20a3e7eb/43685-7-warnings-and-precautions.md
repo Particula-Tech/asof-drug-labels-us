@@ -8,8 +8,8 @@ Consider risk and benefits of anastrozole therapy in patients with preexisting i
 ## 5.2 Bone Effects
 
 Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
-Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline [see Adverse Reaction (6.1)].
+Patients receiving tamoxifen had a mean increase in both lumbar spine and total hip BMD compared to baseline [see Adverse Reactions (6.1)].
 
 ## 5.3 Cholesterol
 
-During the ATAC trial, more patients receiving anastrozole were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reaction (6.1)].
+During the ATAC trial, more patients receiving anastrozole were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reactions (6.1)].

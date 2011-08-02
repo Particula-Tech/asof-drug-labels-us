@@ -3,13 +3,11 @@
 ## 12.1 Mechanism of Action
 
 The growth of many cancers of the breast is stimulated or maintained by estrogens.
-Treatment of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen levels (ovariectomy, adrenalectomy, hypophysectomy) or inhibit estrogen effects (antiestrogens and progestational agents).
-These interventions lead to decreased tumor mass or delayed progression of tumor growth in some women.
 
 In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol.
 The suppression of estrogen biosynthesis in peripheral tissues and in the cancer tissue itself can therefore be achieved by specifically inhibiting the aromatase enzyme.
 
-Anastrozole is a potent and selective non-steroidal aromatase inhibitor.
+Anastrozole is a selective non-steroidal aromatase inhibitor.
 It significantly lowers serum estradiol concentrations and has no detectable effect on formation of adrenal corticosteroids or aldosterone.
 
 ## 12.2 Pharmacodynamics
@@ -74,7 +72,7 @@ The mean elimination half-life of anastrozole is 50 hours.
 Effect of Gender and Age
 
 Anastrozole pharmacokinetics have been investigated in postmenopausal female volunteers and patients with breast cancer.
-No age related effects were seen over the range < 50 to > 80 years.
+No age-related effects were seen over the range < 50 to > 80 years.
 
 Effect of Race
 
