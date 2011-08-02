@@ -16,7 +16,7 @@ Spring Valley, NY 10977
 OS270-01-01
 
 Rev.
-05/2011
+08/2011
 
 FOR NASAL USE ONLY
 
@@ -24,7 +24,7 @@ KEEP OUT OF REACH OF CHILDREN
 
 Each 0.1 mL contains 500mcg Cyancobalamin USP and the following inactive ingredients: Citric Acid USP, Sodium Citrate USP, Glycerin USP, Benzalkonium Chloride NF and Purified Water USP.
 
-One bottle will deliver eight doses.
+One bottle will deliver four doses.
 
 Read instructions carefully before using.
 

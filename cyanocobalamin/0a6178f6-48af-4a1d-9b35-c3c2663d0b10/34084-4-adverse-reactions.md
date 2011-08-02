@@ -7,7 +7,7 @@ Table Adverse Experiences by Body System, Number of Patients and Number of Occur
 
 |  |  | Number of Patients (Occurrences) |  |
 | --- | --- | --- | --- |
-| Body System | Adverse Experience | Vitamin B12Nasal Gel,500mcgN=24 | IntramuscularVitamin B12,100 mcgN=25 |
+| Body System | Adverse Experience | Vitamin B12Nasal Gel,500mcgN=24 | IntramuscularVitamin B12, 100 mcgN=25 |
 | Body as a Whole | Asthenia | 1 (1) | 4 (4) |
 | Back Pain | 0 (0) | 1 (1) |  |
 | Generalized Pain | 0 (0) | 2 (3) |  |
