@@ -2,4 +2,4 @@ Rx only
 
 Manufactured for: QUALITEST PHARMACEUTICALS Huntsville, AL 35811
 
-8181162 R7/08-R2
+8181162 R6/11-R3
