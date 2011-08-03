@@ -148,4 +148,4 @@ This leaflet summarizes the most important information about FLUCONAZOLE.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLUCONAZOLE that is written for health professionals.
 
-LAB-0367-3.0 January 2010
+LAB-0367-4.0 December 2010
