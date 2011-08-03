@@ -1,13 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - BLISTER LABEL
-
-CARNITOR®
-
-(levocarnitine)
-
-Tablets 330 mg
-
-sigma-tau PHARMACEUTICALS, INC.
-
 # PRINCIPAL DISPLAY PANEL - CARTON LABEL
 
 CARNITOR (levocarnitine) 330 mg tablets
@@ -29,7 +19,7 @@ TC (l)-3 01/08
 
 Distributed by:
 
-GAITHERSBURG, MD 20878
+sigma-tau PHARMACEUTICALS, INC. GAITHERSBURG, MD 20878
 
 Manufactured by: sigma-tau S.p.A.
 
