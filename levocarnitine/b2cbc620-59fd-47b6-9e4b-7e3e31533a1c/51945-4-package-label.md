@@ -21,6 +21,10 @@ NF, Propylparaben NF, Purified Water,
 
 Sucrose Syrup
 
+sigma-tau
+
+PHARMACEUTICALS, INC.
+
 Avoid excess heat.
 Protect from freezing.
 
