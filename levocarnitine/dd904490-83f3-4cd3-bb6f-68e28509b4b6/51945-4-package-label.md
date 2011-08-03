@@ -21,6 +21,10 @@ NF, Propylparaben NF, Purified Water,
 
 Sodium Saccharin USP
 
+sigma-tau
+
+PHARMACEUTICALS, INC.
+
 Avoid excess heat.
 Protect from freezing.
 
