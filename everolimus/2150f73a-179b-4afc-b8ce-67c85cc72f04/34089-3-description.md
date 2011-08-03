@@ -7,4 +7,4 @@ The chemical name of everolimus is (1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28
 The molecular formula is C53H83NO14 and the molecular weight is 958.2.
 The structural formula is:
 
-AFINITOR is supplied as tablets for oral administration containing 2.5 mg, 5 mg, or 10 mg of everolimus together with butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone, and lactose anhydrous as inactive ingredients.
+AFINITOR is supplied as tablets for oral administration containing 2.5 mg, 5 mg, 7.5 mg or 10 mg of everolimus together with butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone, and lactose anhydrous as inactive ingredients.

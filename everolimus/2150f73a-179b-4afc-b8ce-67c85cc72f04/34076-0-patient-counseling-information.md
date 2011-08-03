@@ -63,4 +63,4 @@ If more than 6 hours have elapsed, they should be instructed to skip the dose fo
 The next day, they should take AFINITOR at the usual time.
 Warn patients to not take 2 doses to make up for the one that they missed.
 
-T2011-78
+T2011-98

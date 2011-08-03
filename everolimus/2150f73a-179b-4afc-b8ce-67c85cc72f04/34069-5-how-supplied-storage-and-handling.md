@@ -16,6 +16,14 @@ Blisters of 28 tablets…………………………………………………�
 
 Each carton contains 4 blister cards of 7 tablets each
 
+7.5 mg tablets
+
+White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “7P5” on one side and “NVR” on the other; available in:
+
+Blisters of 28 tablets………………………………………………………………………………NDC 0078-0620-51
+
+Each carton contains 4 blister cards of 7 tablets each
+
 10 mg tablets
 
 White to slightly yellow, elongated tablets with a bevelled edge and no score, engraved with “UHE” on one side and “NVR” on the other; available in:
