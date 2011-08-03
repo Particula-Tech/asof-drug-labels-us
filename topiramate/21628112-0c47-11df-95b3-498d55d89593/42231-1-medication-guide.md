@@ -9,16 +9,33 @@ If you have any questions about TOPAMAX®, talk to your healthcare provider or p
 
 What is the most important information I should know about TOPAMAX®?
 
-- TOPAMAX® may cause eye problems.
-  Serious eye problems include:
-  - any sudden decrease in vision with or without eye pain and redness,
-  - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
-  - These eye problems can lead to permanent loss of vision if not treated.
-    You should call your healthcare provider right away if you have any new eye symptoms.
-- TOPAMAX® may cause decreased sweating and increased body temperature (fever).
-  People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
-  Some people may need to be hospitalized for this condition.
-- Like other antiepileptic drugs, TOPAMAX® may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+TOPAMAX® may cause eye problems.
+Serious eye problems include:
+
+- any sudden decrease in vision with or without eye pain and redness,
+- a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
+- These eye problems can lead to permanent loss of vision if not treated.
+  You should call your healthcare provider right away if you have any new eye symptoms.
+
+TOPAMAX® may cause decreased sweating and increased body temperature (fever).
+People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
+Some people may need to be hospitalized for this condition.
+
+TOPAMAX® can increase the level of acid in your blood (metabolic acidosis).
+If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
+Metabolic acidosis can happen with or without symptoms.
+
+Sometimes people with metabolic acidosis will:
+
+- feel tired
+- not feel hungry (loss of appetite)
+- feel changes in heartbeat
+- have trouble thinking clearly
+
+Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with TOPAMAX®.
+If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
+
+Like other antiepileptic drugs, TOPAMAX® may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -47,7 +64,7 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-Topamax can harm your unborn baby.
+TOPAMAX® can harm your unborn baby.
 
 - If you take TOPAMAX® during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
@@ -58,6 +75,8 @@ Topamax can harm your unborn baby.
   You should talk to your doctor about the best kind of birth control to use while you are taking TOPAMAX®.
 - Tell your healthcare provider right away if you become pregnant while taking TOPAMAX®.
   You and your healthcare provider should decide if you will continue to take TOPAMAX® while you are pregnant.
+- Metabolic acidosis may have harmful effects on your baby.
+  Talk to your healthcare provider if TOPAMAX® has caused metabolic acidosis during your pregnancy.
 - Pregnancy Registry: If you become pregnant while taking TOPAMAX®, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
@@ -66,7 +85,7 @@ What is TOPAMAX®?
 
 TOPAMAX® is a prescription medicine used:
 
-- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in people 10 years and older,
+- to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
 - with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
 - to prevent migraine headaches in adults.
 
@@ -74,18 +93,18 @@ What should I tell my healthcare provider before taking TOPAMAX®?
 
 Before taking TOPAMAX®, tell your healthcare provider about all your medical conditions, including if you:
 
-- have or have had depression, mood problems or suicidal thoughts or behavior
+- have or have had depression, mood problems, or suicidal thoughts or behavior
 - have kidney problems, have kidney stones, or are getting kidney dialysis
 - have a history of metabolic acidosis (too much acid in the blood)
 - have liver problems
-- have osteoporosis, soft bones, or decreased bone density
+- have weak, brittle, or soft bones (osteomalacia, osteoporosis, osteopenia, or decreased bone density)
 - have lung or breathing problems
 - have eye problems, especially glaucoma
 - have diarrhea
 - have a growth problem
 - are on a diet high in fat and low in carbohydrates, which is called a ketogenic diet
 - are having surgery
-- are pregnant or plan to become pregnant.
+- are pregnant or plan to become pregnant
 - are breastfeeding.
   TOPAMAX® passes into breast milk.
   It is not known if the TOPAMAX® that passes into breast milk can harm your baby.
@@ -94,10 +113,10 @@ Before taking TOPAMAX®, tell your healthcare provider about all your medical co
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 TOPAMAX® and other medicines may affect each other causing side effects.
 
-Especially, tell your healthcare provider if you take:
+Especially tell your healthcare provider if you take:
 
-- Valproic acid (DEPAKENE®, DEPAKOTE®)
-- any medicines that impair or decrease your thinking, concentration, or muscle coordination.
+- Valproic acid (such as DEPAKENE® or DEPAKOTE®)
+- any medicines that impair or decrease your thinking, concentration, or muscle coordination
 - birth control pills.
   TOPAMAX® may make your birth control pills less effective.
   Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills and TOPAMAX®.
@@ -113,10 +132,10 @@ How should I take TOPAMAX®?
 - Take TOPAMAX® exactly as prescribed.
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
-- TOPAMAX® tablets should be swallowed whole.
+- TOPAMAX® Tablets should be swallowed whole.
   Do not chew the tablets.
   They may leave a bitter taste.
-- TOPAMAX® sprinkle capsules may be swallowed whole or may be opened and sprinkled on a teaspoon of soft food.
+- TOPAMAX® Sprinkle Capsules may be swallowed whole or may be opened and sprinkled on a teaspoon of soft food.
   Drink fluids right after eating the food and medicine mixture to make sure it is all swallowed.
 - Do not store any medicine and food mixture for later use.
 - TOPAMAX® can be taken before, during, or after a meal.
@@ -126,7 +145,7 @@ How should I take TOPAMAX®?
 - If you miss a single dose of TOPAMAX®, take it as soon as you can.
   However, if you are within 6 hours of taking your next scheduled dose, wait until then to take your usual dose of TOPAMAX®, and skip the missed dose.
   Do not double your dose.
-  If you have missed more than one dose, you should call your healthcare professional for advice.
+  If you have missed more than one dose, you should call your healthcare provider for advice.
 - Do not stop taking TOPAMAX® without talking to your healthcare provider.
   Stopping TOPAMAX® suddenly may cause serious problems.
   If you have epilepsy and you stop taking TOPAMAX® suddenly, you may have seizures that do not stop.
@@ -146,7 +165,7 @@ TOPAMAX® may cause serious side effects including:
 
 See "What is the most important information I should know about TOPAMAX®?"
 
-- Metabolic Acidosis.
+- Metabolic acidosis.
   Metabolic acidosis can cause:
   - tiredness
   - loss of appetite
@@ -155,12 +174,14 @@ See "What is the most important information I should know about TOPAMAX®?"
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
   This has happened when TOPAMAX® is taken with a medicine called valproic acid (DEPAKENE® and DEPAKOTE®).
+- Low body temperature.
+  Taking TOPAMAX® when you are also taking valproic acid can cause a drop in body temperature to less than 95°F, feeling tired, confusion, or coma.
 - Kidney stones.
   Drink plenty of fluids when taking TOPAMAX® to decrease your chances of getting kidney stones.
-- Effects on Thinking and Alertness.
-  TOPAMAX® may affect how you think, and cause confusion, problems with concentration, attention, memory, or speech.
+- Effects on thinking and alertness.
+  TOPAMAX® may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   TOPAMAX® may cause depression or mood problems, tiredness, and sleepiness.
-- Dizziness or Loss of Muscle Coordination.
+- Dizziness or loss of muscle coordination.
 
 Call your healthcare provider right away if you have any of the symptoms above.
 
@@ -183,12 +204,12 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Ortho-McNeil Neurologics at 1-800-526-7736.
+You may also report side effects to Janssen Pharmaceuticals, Inc. at 1-800-JANSSEN (1-800-526-7736).
 
 How should I store TOPAMAX®?
 
-- Store TOPAMAX® tablets at room temperature, 59°F to 86°F (15°C to 30°C).
-- Store TOPAMAX® Sprinkle Capsules at or below 25°C (77°F).
+- Store TOPAMAX® Tablets at room temperature, 59°F to 86°F (15°C to 30°C).
+- Store TOPAMAX® Sprinkle Capsules at or below 77°F (25°C).
 - Keep TOPAMAX® in a tightly closed container.
 - Keep TOPAMAX® dry and away from moisture.
 - Keep TOPAMAX® and all medicines out of the reach of children.
@@ -204,23 +225,23 @@ This Medication Guide summarizes the most important information about TOPAMAX®.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about TOPAMAX® that is written for health professionals.
 
-For more information, go to www.topamax.com or call 1-800-526-7736.
+For more information, go to www.topamax.com or call 1-800-JANSSEN (1-800-526-7736).
 
-What are the ingredients in TOPAMAX?
+What are the ingredients in TOPAMAX®?
 
 Active ingredient: topiramate
 
 Inactive ingredients:
 
-- Tablets - lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide and polysorbate 80.
+- Tablets - lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide, and polysorbate 80.
 - Sprinkle Capsules - sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.
 
-Revised March 2011
+Revised July 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Janssen Ortho, LLC, Gurabo, Puerto Rico 00778
 
-Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560
 
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2009
+© Janssen Pharmaceuticals, Inc. 2009

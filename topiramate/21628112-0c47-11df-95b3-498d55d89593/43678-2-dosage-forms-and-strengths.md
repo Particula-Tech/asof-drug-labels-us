@@ -10,7 +10,7 @@ TOPAMAX® (topiramate) Tablets are available as debossed, coated, round tablets 
 
 200 mg salmon (debossed "OMN" on one side; "200" on the other)
 
-TOPAMAX® (topiramate capsules) Sprinkle Capsules contain small, white to off white spheres.
+TOPAMAX® (topiramate capsules) Sprinkle Capsules contain small, white to off-white spheres.
 The gelatin capsules are white and clear.
 
 They are marked as follows:

@@ -2,22 +2,24 @@
 
 ## 2.1 Epilepsy
 
-In the controlled adjunctive (i.e., add-on) trials, no correlation has been demonstrated between trough plasma concentrations of topiramate and clinical efficacy.
-No evidence of tolerance has been demonstrated in humans.
-Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
+It is not necessary to monitor topiramate plasma concentrations to optimize TOPAMAX® (topiramate) therapy.
 
-It is not necessary to monitor topiramate plasma concentrations to optimize TOPAMAX® therapy.
 On occasion, the addition of TOPAMAX® to phenytoin may require an adjustment of the dose of phenytoin to achieve optimal clinical outcome.
 Addition or withdrawal of phenytoin and/or carbamazepine during adjunctive therapy with TOPAMAX® may require adjustment of the dose of TOPAMAX®.
+
 Because of the bitter taste, tablets should not be broken.
 
 TOPAMAX® can be taken without regard to meals.
 
 Monotherapy Use
 
-The recommended dose for topiramate monotherapy in adults and pediatric patients 10 years of age and older is 400 mg/day in two divided doses.
+Adults and Pediatric Patients 10 Years and Older
+
+The recommended dose for TOPAMAX® monotherapy in adults and pediatric patients 10 years of age and older is 400 mg/day in two divided doses.
 Approximately 58% of patients randomized to 400 mg/day achieved this maximal dose in the monotherapy controlled trial; the mean dose achieved in the trial was 275 mg/day.
-The dose should be achieved by titration according to the following schedule:
+The dose should be achieved by titration according to the following schedule (Table 1):
+
+Table 1: Monotherapy Titration Schedule for Adults and Pediatric Patients 10 years and older
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
@@ -28,30 +30,55 @@ The dose should be achieved by titration according to the following schedule:
 | Week 5 | 150 mg | 150 mg |
 | Week 6 | 200 mg | 200 mg |
 
+Children Ages 2 to <10 Years
+
+Dosing of topiramate as initial monotherapy in children 2 to < 10 years of age with partial onset or primary generalized tonic-clonic seizures was based on a pharmacometric bridging approach [see Clinical Studies (14.1)].
+
+Dosing in patients 2 to <10 years is based on weight.
+During the titration period, the initial dose of TOPAMAX® should be 25 mg/day administered nightly for the first week.
+Based upon tolerability, the dosage can be increased to 50 mg/day (25 mg twice daily) in the second week.
+Dosage can be increased by 25–50 mg/day each subsequent week as tolerated.
+Titration to the minimum maintenance dose should be attempted over 5–7 weeks of the total titration period.
+Based upon tolerability and seizure control, additional titration to a higher dose (up to the maximum maintenance dose) can be attempted at 25–50 mg/day weekly increments.
+The total daily dose should not exceed the maximum maintenance dose for each range of body weight (Table 2).
+
+Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to <10 Years
+
+| Weight (kg) | Total Daily Dose (mg/day)Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| --- | --- | --- |
+| Up to 11 | 150 | 250 |
+| 12 – 22 | 200 | 300 |
+| 23 – 31 | 200 | 350 |
+| 32 – 38 | 250 | 350 |
+| Greater than 38 | 250 | 400 |
+
 Adjunctive Therapy Use
 
-Adults (17 Years of Age and Over) - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
+Adults 17 Years of Age and Over - Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
 The recommended total daily dose of TOPAMAX® as adjunctive therapy in adults with partial onset seizures is 200 to 400 mg/day in two divided doses, and 400 mg/day in two divided doses as adjunctive treatment in adults with primary generalized tonic-clonic seizures.
 It is recommended that therapy be initiated at 25 to 50 mg/day followed by titration to an effective dose in increments of 25 to 50 mg/day every week.
 Titrating in increments of 25 mg/day every week may delay the time to reach an effective dose.
+Doses above 400 mg/day (600, 800 or 1,000 mg/day) have not been shown to improve responses in dose-response studies in adults with partial onset seizures.
 Daily doses above 1,600 mg have not been studied.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
-Pediatric Patients (Ages 2 – 16 Years) – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
+Pediatric Patients Ages 2 – 16 Years – Partial Onset Seizures, Primary Generalized Tonic-Clonic Seizures, or Lennox-Gastaut Syndrome
 
-The recommended total daily dose of TOPAMAX® (topiramate) as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
+The recommended total daily dose of TOPAMAX® as adjunctive therapy for pediatric patients with partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome is approximately 5 to 9 mg/kg/day in two divided doses.
 Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/day) nightly for the first week.
-The dosage should then be increased at 1- or 2 week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
+The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
 
-In the study of primary generalized tonic-clonic seizures the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
+In the study of primary generalized tonic-clonic seizures, the initial titration rate was slower than in previous studies; the assigned dose of 6 mg/kg/day was reached at the end of 8 weeks [see Clinical Studies (14.1)].
 
 ## 2.2 Migraine
 
-The recommended total daily dose of TOPAMAX® as treatment for adults for prophylaxis of migraine headache is 100 mg/day administered in two divided doses.
+The recommended total daily dose of TOPAMAX® as treatment for adults for prophylaxis of migraine headache is 100 mg/day administered in two divided doses (Table 3).
 The recommended titration rate for topiramate for migraine prophylaxis to 100 mg/day is:
+
+Table 3: Migraine Prophylaxis Titration Schedule for Adults
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
