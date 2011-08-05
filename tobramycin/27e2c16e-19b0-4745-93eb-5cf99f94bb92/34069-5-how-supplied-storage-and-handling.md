@@ -7,13 +7,3 @@ Storage: Store at 2° - 25°C (36° - 77°F).
 Rx Only
 
 *DROP-TAINER is a registered trademark of Alcon Manufacturing, Ltd.
-
-Dist. by: FALCON Pharmaceuticals, Ltd Fort Worth, TX 76134
-
-Mfd. by: ALCON LABORATORIES, INC. Fort Worth, TX 76134 USA
-
-Revised: June 2005
-
-Printed in USA
-
-9000857-0605
