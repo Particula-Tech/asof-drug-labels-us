@@ -13,7 +13,7 @@ Rx Only Single use vial.
 
 ## Storage
 
-Unopened vials of BOTOX® Cosmetic should be stored in a refrigerator (2° to 8°C) for up to 36 months for the 100 Unit vial or up to 24 months for the 50 Unit vial.
+Unopened vials of BOTOX® Cosmetic should be stored in a refrigerator (2° to 8°C) for up to 36 months for the 50 Units and 100 Units vials.
 
 Administer BOTOX® Cosmetic within 24 hours of reconstitution; during this period reconstituted BOTOX® Cosmetic should be stored in a refrigerator (2° to 8°C).
 Reconstituted BOTOX® Cosmetic should be clear, colorless and free of particulate matter.
@@ -21,6 +21,6 @@ Reconstituted BOTOX® Cosmetic should be clear, colorless and free of particulat
 Do not use after the expiration date on the vial.
 All vials, including expired vials, or equipment used with the drug should be disposed of carefully as is done with all medical waste.
 
-Revised: 08/2009 © 2009 Allergan, Inc. ® mark owned by Allergan, Inc. U.S. Patents 6,974,578; 6,683,049; and 6,896,886
+Revised: 07/2011 © 2011 Allergan, Inc. ® mark owned by Allergan, Inc. U.S. Patents 6,974,578; 6,683,049; and 6,896,886
 
 Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc., 2525 Dupont Dr., Irvine, CA 92612

@@ -50,8 +50,7 @@ Subject's Assessment of Change in Appearance of Glabellar Lines – Responder Ra
 
 In the subset of patients with resting severity scores of moderate or severe, the investigator assessment of a resting severity of mild or none at day 30 was also achieved by more BOTOX® Cosmetic treated patients (74%, 119/161) than placebo treated patients (20%, 10/49).
 
-Analysis of the limited number of patients 65 years or older suggested a lower treatment-associated response compared to patients less than 65 years of age.
-(Table 3).
+Analysis of the limited number of patients 65 years or older suggested a lower treatment-associated response compared to patients less than 65 years of age (Table 3).
 
 TABLE 3.
 Investigator's and Subject's Assessment – Responder Rates for Subjects < 65 and ≥ 65 Years of Age at Day 30
