@@ -3,14 +3,14 @@
 ## 12.1 Mechanism of Action
 
 Somatropin (as well as endogenous GH) binds to a dimeric GH receptor in the cell membrane of target cells resulting in intracellular signal transduction and a host of pharmacodynamic effects.
-Some of these pharmacodynamic effects are primarily mediated by IGF-1 produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see Clinical Pharmacology (12.2)].
+Some of these pharmacodynamic effects are primarily mediated by IGF-1 produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see Pharmacodynamics (12.2)].
 
 ## 12.2 Pharmacodynamics
 
 ### Tissue Growth
 
 The primary and most intensively studied action of somatropin is the stimulation of linear growth.
-This effect is demonstrated in children with GHD and children who have PWS or were born SGA.
+This effect is demonstrated in children with GHD and children who have PWS, were born SGA, have TS or have ISS.
 
 ### Skeletal Growth
 

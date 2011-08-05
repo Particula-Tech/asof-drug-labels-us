@@ -135,3 +135,44 @@ Final height SDS results for pre-pubertal patients with ISSMean (SD) are observe
 | Baseline heightSDSFinal height SDSminus Baseline | 0.41(0.58) | 0.95 (0.75) | 1.36 (0.64) | +0.53 (0.20, 0.87)p=0.0022 | +0.94 (0.63, 1.26)p<0.0001 |
 | Baselinepredicted htFinal height SDSminus baselinepredicted finalheight SDS | 0.23 (0.66) | 0.73 (0.63) | 1.05 (0.83) | +0.60 (0.09, 1.11)p=0.0217 | +0.90 (0.42, 1.39)p=0.0004 |
 | Least square means based on ANCOVA (final height SDS and final height SDS minus baseline predicted height SDS were adjusted for baseline height SDS) |  |  |  |  |  |
+
+## 14.6 Turner Syndrome
+
+Two randomized, open-label, clinical trials were conducted that evaluated the efficacy and safety of another somatropin product in Turner syndrome patients with short stature.
+Turner syndrome patients were treated with this other somatropin product alone or this other somatropin product plus adjunctive hormonal therapy (ethinylestradiol or oxandrolone).
+A total of 38 patients were treated with this other somatropin product alone in the two studies.
+In Study 1, 22 patients were treated for 12 months, and in Study 2, 16 patients were treated for 12 months.
+Patients received this other somatropin product at a dose between 0.13 to 0.33 mg/kg/week.
+
+SDS for height velocity and height are expressed using either the Tanner (Study 1) or Sempé (Study 2) standards for age-matched normal children as well as the Ranke standard (both studies) for age-matched, untreated Turner syndrome patients.
+As seen in Table 10, height velocity SDS and height SDS values were smaller at baseline and after treatment with this other somatropin product when the normative standards were utilized as opposed to the Turner syndrome standard.
+
+Both studies demonstrated statistically significant increases from baseline in all of the linear growth variables (i.e., mean height velocity, height velocity SDS, and height SDS) after treatment with this other somatropin product (see Table 10).
+The linear growth response was greater in Study 1 wherein patients were treated with a larger dose of this other somatropin product.
+
+Table 10.
+Growth Parameters (mean ± SD) after 12 Months of Treatment with Another Somatropin Product in Pediatric Patients with Turner Syndrome in Two Open Label Studies
+
+|  | Another somatropinproduct0.33 mg/kg/weekStudy 1* n=22 | Another somatropinproduct0.13-0.23 mg/kg/weekStudy 2† n=16 |
+| --- | --- | --- |
+| Height Velocity (cm/yr) |  |  |
+| Baseline | 4.1 ± 1.5 | 3.9 ± 1.0 |
+| Month 12 | 7.8 ± 1.6 | 6.1 ± 0.9 |
+| Change from baseline (95% CI) | 3.7 (3.0, 4.3) | 2.2 (1.5, 2.9) |
+| Height Velocity SDS(Tanner*/Sempé† Standards) (n=20) |  |  |
+| Baseline | -2.3 ± 1.4 | -1.6 ± 0.6 |
+| Month 12 | 2.2 ± 2.3 | 0.7 ± 1.3 |
+| Change from baseline (95% CI) | 4.6 (3.5, 5.6) | 2.2 (1.4, 3.0) |
+| Height Velocity SDS (RankeStandard) |  |  |
+| Baseline | -0.1 ± 1.2 | -0.4 ± 0.6 |
+| Month 12 | 4.2 ± 1.2 | 2.3 ± 1.2 |
+| Change from baseline (95% CI) | 4.3 (3.5, 5.0) | 2.7 (1.8, 3.5) |
+| Height SDS (Tanner*/Sempé†Standards) |  |  |
+| Baseline | -3.1 ± 1.0 | -3.2 ± 1.0 |
+| Month 12 | -2.7 ± 1.1 | -2.9 ± 1.0 |
+| Change from baseline (95% CI) | 0.4 (0.3, 0.6) | 0.3 (0.1, 0.4) |
+| Height SDS (Ranke Standard) |  |  |
+| Baseline | -0.2 ± 0.8 | -0.3 ± 0.8 |
+| Month 12 | 0.6 ± 0.9 | 0.1 ± 0.8 |
+| Change from baseline (95% CI) | 0.8 (0.7, 0.9) | 0.5 (0.4, 0.5) |
+| SDS = Standard Deviation Score Ranke standard based on age-matched, untreated Turner syndrome patients Tanner*/Sempé† standards based on age-matched normal children p<0.05, for all changes from baseline |  |  |

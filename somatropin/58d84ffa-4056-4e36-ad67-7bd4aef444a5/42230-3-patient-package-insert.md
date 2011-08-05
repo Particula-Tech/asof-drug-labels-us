@@ -59,23 +59,26 @@ DOs
 Always keep Omnitrope® cartridges refrigerated.
 
 2.
-After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
+Cartridges should be handled with care at all times.
 
 3.
-When starting a new cartridge, always ready (prime) the pen.
+After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
 
 4.
+When starting a new cartridge, always ready (prime) the pen.
+
+5.
 When making an injection, insert the pen needle into the skin in the way that your healthcare professional teaches you.
 After pen needle insertion, push the injection button in as far as it will go and continue to press firmly for at least five seconds, before you remove the pen needle from the skin.
 If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
 
-5.
+6.
 This device must not be shared with other patients even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 However, if you are giving an injection to another person, be careful when removing the pen needle.
 Accidental pen needle sticks can transmit infections.
 
-6.
+7.
 For safety and injection comfort, use a new, sterile pen needle with each injection.
 
 DON’Ts
@@ -100,7 +103,7 @@ Never recap pen with pen needle on.
 Storing or carrying your Omnitrope® Pen 5 with a pen needle attached may lead to needle pricks and leaves an open passage for:
 
 - Air to enter the cartridge
-- medicine to leak out
+- Medicine to leak out
 
 Both of these conditions can affect the dose of the injection.
 
@@ -274,6 +277,7 @@ TROUBLESHOOTING
 CARE AND STORAGE
 
 Once your Omnitrope® Pen 5 contains a somatropin cartridge, it has to be stored in the refrigerator between 36 and 46°F (2 and 8°C).
+Do not remove the cartridge between injections.
 
 Protect your Omnitrope® Pen 5 and cartridge from light by storing in its pouch or refrigerator storage box.
 
@@ -313,16 +317,6 @@ Date I first used the Omnitrope® Pen 5: (dd/mm/yy)
 Pen log no:
 
 Additional Comments:
-
-SERVICE MATERIALS*
-
-POUCH to store and protect your pen and other components, such as needles
-
-REFRIGERATOR STORAGE BOX to protect the drug from odors and accidental spills
-
-COOLBAG to help maintain Omnitrope® at refrigerator temperature when traveling
-
-*Optional; please check availability with your local Sandoz representative
 
 Omnitrope® is a trademark of Novartis.
 
@@ -405,23 +399,26 @@ DOs
 Always keep Omnitrope® cartridges refrigerated.
 
 2.
-After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
+Cartridges should be handled with care at all times.
 
 3.
-When starting a new cartridge, always ready (prime) the pen.
+After taking a cartridge out of the refrigerator, allow it to reach room temperature (about 30 minutes) before injecting the medicine.
 
 4.
+When starting a new cartridge, always ready (prime) the pen.
+
+5.
 When making an injection, insert the pen needle into the skin in the way that your healthcare professional teaches you.
 After pen needle insertion, push the injection button in as far as it will go and continue to press firmly for at least five seconds, before you remove the pen needle from the skin.
 If medicine continues to drip from the pen needle after injection, hold the pen needle in the skin longer the next time you inject.
 
-5.
+6.
 This device must not be shared with other patients even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 However, if you are giving an injection to another person, be careful when removing the pen needle.
 Accidental pen needle sticks can transmit infections.
 
-6.
+7.
 For safety and injection comfort, use a new, sterile pen needle with each injection.
 
 DON’Ts
@@ -446,7 +443,7 @@ Never recap pen with pen needle on.
 Storing or carrying your Omnitrope® Pen 10 with a pen needle attached may lead to needle pricks and leaves an open passage for:
 
 - Air to enter the cartridge
-- medicine to leak out
+- Medicine to leak out
 
 Both of these conditions can affect the dose of the injection.
 
@@ -620,6 +617,7 @@ TROUBLESHOOTING
 CARE AND STORAGE
 
 Once your Omnitrope® Pen 10 contains a somatropin cartridge, it has to be stored in the refrigerator between 36 and 46°F (2 and 8°C).
+Do not remove the cartridge between injections.
 
 Protect your Omnitrope® Pen 10 and cartridge from light by storing in its pouch or refrigerator storage box.
 
@@ -659,16 +657,6 @@ Date I first used the Omnitrope® Pen 10: (dd/mm/yy)
 Pen log no:
 
 Additional Comments:
-
-SERVICE MATERIALS*
-
-POUCH to store and protect your pen and other components, such as needles
-
-REFRIGERATOR STORAGE BOX to protect the drug from odors and accidental spills
-
-COOLBAG to help maintain Omnitrope® at refrigerator temperature when traveling
-
-*Optional; please check availability with your local Sandoz representative
 
 Omnitrope® is a trademark of Novartis.
 
@@ -800,10 +788,10 @@ Manufactured in Austria by Sandoz GmbH
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-04-2011M
+07-2011M
 
-46061732
+46067363
 
-46061733
+46067349
 
-46061734
+46067362

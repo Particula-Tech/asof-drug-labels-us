@@ -2,7 +2,7 @@
 
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
-Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), those who were born small for gestational age (SGA), Idiopathic Short Stature (ISS) and adult patients with either childhood onset or adult onset GHD.
+Therapy with Omnitrope® should be supervised by a physician who is experienced in the diagnosis and management of pediatric patients with short stature associated with GHD, Prader-Willi Syndrome (PWS), Turner syndrome (TS), those who were born small for gestational age (SGA), Idiopathic Short Stature (ISS) and adult patients with either childhood onset or adult onset GHD.
 
 ## 2.1 Dosing of Pediatric Patients
 
@@ -28,6 +28,11 @@ The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 Small for Gestational Age (SGA)
 
 Generally, a dosage of up to 0.48 mg/kg body weight/week is recommended.
+The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
+
+Turner Syndrome (TS)
+
+Generally, a dose of 0.33 mg/kg body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 Idiopathic Short Stature (ISS)

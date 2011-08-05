@@ -11,7 +11,7 @@ This list presents the most seriousb and/or most frequently observeda adverse re
 - bSignificant diabetic-retinopathy [see Contraindications (4.4)]
 - bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.9)]
 - bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.10)]
-- bPancreatitis [see Warnings and Precautions (5.14)]
+- bPancreatitis [see Warnings and Precautions (5.15)]
 - aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
 - aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.8)]
 - aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
@@ -58,11 +58,16 @@ In two clinical studies in pediatric patients with Prader-Willi Syndrome carried
 
 In clinical studies of 273 pediatric patients born small for gestational age treated with another somatropin product, the following clinically significant events were reported: mild transient hyperglycemia, one patient with benign intracranial hypertension, two patients with central precocious puberty, two patients with jaw prominence, and several patients with aggravation of preexisting scoliosis, injection site reactions, and self-limited progression of pigmented nevi.
 
-### Clinical trials in children with Idiopathic Short Stature
+### Clinical Trials in Children with Idiopathic Short Stature
 
 In two open-label clinical studies conducted with another somatropin product in pediatric patients with ISS, the most commonly encountered adverse events were upper respiratory tract infections, influenza, tonsillitis, nasopharyngitis, gastroenteritis, headaches, increased appetite, pyrexia, fracture, altered mood, and arthralgia.
 In one of the two studies during treatment with this other somatropin product, the mean IGF-1 standard deviation (SD) scores were maintained in the normal range.
 IGF-1 SD scores above +2 SD were observed as follows: 1 subject (3%), 10 subjects (30%) and 16 subjects (38%) in the untreated control, 0.23 and the 0.47 mg/kg/week groups respectively, had at least one measurement; while 0 subjects (0%), 2 subjects (7%) and 6 subjects (14%) had two or more consecutive IGF-1 measurements above +2 SD.
+
+### Clinical Trials in Children with Turner Syndrome
+
+In two clinical studies with another somatropin product in pediatric patients with Turner syndrome, the most frequently reported adverse events were respiratory illnesses (influenza, tonsillitis, otitis, sinusitis), joint pain, and urinary tract infection.
+The only treatment-related adverse event that occurred in more than 1 patient was joint pain.
 
 ### Clinical Trials in Adults with GHD
 
@@ -113,10 +118,8 @@ The adverse events reported during post-marketing surveillance do not differ fro
 Leukemia has been reported in a small number of GH deficient children treated with somatropin, somatrem (methionylated rhGH) and GH of pituitary origin.
 It is uncertain whether these cases of leukemia are related to GH therapy, the pathology of GHD itself, or other associated treatments such as radiation therapy.
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
-The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings and Precautions (5.3)].
+The risk for children with GHD, if any, remains to be established [see Contraindications (4.3) and Warnings And Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.14)].
+The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults [see Warnings and Precautions (5.15)].
 
-### Metabolic
-
-New-onset type 2 diabetes mellitus in patients.
+New-onset type 2 diabetes mellitus has been reported.
