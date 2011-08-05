@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0099-12.0 January 2010
+LAB-0099-13.0 December 2010

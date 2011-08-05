@@ -152,4 +152,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-3.0 January 2010
+LAB-0380-4.0 December 2010

@@ -13,6 +13,12 @@ DIFLUCAN should be discontinued if clinical signs and symptoms consistent with l
 In patients with serious underlying diseases (predominantly AIDS and malignancy), these have rarely resulted in a fatal outcome.
 Patients who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
 
+(4) Use in Pregnancy: There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
+Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
+A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
+These reported anomalies are similar to those seen in animal studies.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus (See PRECAUTIONS, Pregnancy.)
+
 # PRECAUTIONS
 
 ## General
@@ -295,23 +301,41 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 #### Pregnancy Category C
 
-Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
-Maternal weight gain was impaired at all dose levels, and abortions occurred at 75 mg/kg (approximately 20–60× the recommended human dose); no adverse fetal effects were detected.
-In several studies in which pregnant rats were treated orally with fluconazole during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
+##### Single 150 mg tablet use for Vaginal Candidiasis
+
+There are no adequate and well-controlled studies of Diflucan in pregnant women.
+Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
+
+#### Pregnancy Category D
+
+##### All other indications
+
+A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
+These reported anomalies are similar to those seen in animal studies.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
+(See WARNINGS, Use in Pregnancy.)
+
+###### Human Data
+
+Several published epidemiologic studies do not suggest an increased risk of congenital anomalies associated with low dose exposure to fluconazole in pregnancy (most subjects received a single oral dose of 150 mg).
+A few published case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400–800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
+The features seen in these infants include: brachycephaly, abnormal facies, abnormal calvarial development, cleft palate, femoral bowing, thin ribs and long bones, arthrogryposis, and congenital heart disease.
+These effects are similar to those seen in animal studies.
+
+###### Animal Data
+
+Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
+Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on BSA), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
+
+In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
 There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
-At doses ranging from 80 mg/kg (approximately 20–60× the recommended human dose) to 320 mg/kg, embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
-These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
-
-Data from several hundred pregnant women treated with doses <200 mg/day of fluconazole, administered as a single or repeated dosage in the first trimester, show no undesired effects in the fetus.
-
-There have been reports of multiple congenital abnormalities in infants whose mothers were being treated for 3 or more months with high dose (400-800 mg/day) fluconazole therapy for coccidioidomycosis (an unindicated use).
-The relationship between fluconazole use and these events is unclear.
-DIFLUCAN should be used in pregnancy only if the potential benefit justifies the possible risk to the fetus.
+At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition
 
 ## Nursing Mothers
 
-Fluconazole is secreted in human milk at concentrations similar to plasma.
-Therefore, the use of DIFLUCAN in nursing mothers is not recommended.
+Fluconazole is secreted in human milk at concentrations similar to maternal plasma concentrations.
+Caution should be exercised when DIFLUCAN is administered to a nursing woman.
 
 ## Pediatric Use
 
