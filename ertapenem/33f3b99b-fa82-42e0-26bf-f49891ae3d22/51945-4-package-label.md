@@ -1,4 +1,7 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Single Dose Vial Label 1 g
+This is a representative sample of the packaging.
+Please see How Supplied section for a complete list of available packaging.
+
+PRINCIPAL DISPLAY PANEL - Single Dose Vial Label 1 g
 
 1 Single dose vial
 
@@ -16,11 +19,11 @@ Variations of color within this range do not affect the potency of the product.
 
 FOR INTRAVENOUS OR INTRAMUSCULAR USE
 
+9712302
+
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
-
-9712302
 
 NDC 0006-3843-71
 
@@ -32,7 +35,7 @@ Each vial contains 1.046 grams ertapenem sodium, equiv. to 1 gram ertapenem.
 
 Formulated in France.
 
-# PRINCIPAL DISPLAY PANEL - Single Dose ADD-Vantage Vial Label 1 g
+PRINCIPAL DISPLAY PANEL - Single Dose ADD-Vantage Vial Label 1 g
 
 Single dose ADD-Vantage®* vial
 
@@ -49,13 +52,13 @@ Each vial contains 1.046 grams ertapenem sodium, equiv. to 1 gram ertapenem.
 FOR I.V.
 USE ONLY
 
+9785803
+
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
 
 Formulated in France.
-
-9785803
 
 NDC 0006-3845-01
 
