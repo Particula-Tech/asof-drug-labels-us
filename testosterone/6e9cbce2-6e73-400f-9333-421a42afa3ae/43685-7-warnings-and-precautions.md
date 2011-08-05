@@ -15,7 +15,7 @@ Signs and symptoms have included enlargement of the penis or clitoris, developme
 In most cases, these signs and symptoms regressed with removal of the exposure to testosterone.
 In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
 The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the topical testosterone product.
-Children and women should avoid contact with unwashed or unclothed application sites in men using AXIRON [see and Dosage and Administration (2.2), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Children and women should avoid contact with unwashed or unclothed application sites in men using AXIRON [see Dosage and Administration (2.2), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone should also be brought to the attention of a physician.
 Testosterone therapy should be promptly discontinued at least until the cause of virilization has been identified.

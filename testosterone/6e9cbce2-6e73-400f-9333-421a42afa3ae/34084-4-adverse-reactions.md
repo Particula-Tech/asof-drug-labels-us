@@ -22,14 +22,13 @@ Table 2: Adverse Reactions Seen With the Use of AXIRON in either the 120 Day Cli
 | Vomiting | 4 (3%) | 3 (4%) |
 | PSA Increased | 2 (1%) | 3 (4%) |
 
-Other less common adverse reactions reported by at least 2 patients in the 120 day trial included: application site edema, application site warmth, increased hemoglobin, increased blood pressure, increased blood testosterone, increased blood glucose, acne, nasopharyngitis, anger and anxiety.
-Other less common adverse reactions reported in fewer than 1% of patients in the 120 day trial included: asthenia, affect lability, erythema (general), folliculitis, anxiety, increased lacrimation, breast tenderness, hypertension, neoplasm prostate and elevated red blood cell count.
+Other less common adverse reactions reported by at least 2 patients in the 120 day trial included: application site edema, application site warmth, increased hemoglobin, hypertension, erythema (general), increased blood glucose, acne, nasopharyngitis, anger and anxiety.
+Other less common adverse reactions reported in fewer than 1% of patients in the 120 day trial included: asthenia, affect lability, folliculitis, increased lacrimation, breast tenderness, increased blood pressure, increased blood testosterone, neoplasm prostate and elevated red blood cell count.
 
 During the 120 day trial one patient discontinued treatment because of affect lability/anger which was considered possibly related to AXIRON administration.
 
-During the 120 day clinical trial there was an increase in mean PSA values of 0.13 ± 0.68 ng/dL from baseline.
-At the end of the 180 day extension clinical trial, there was an overall increase in mean PSA values of 0.1 ± 0.54 ng/dL.
-Neither change was statistically significant.
+During the 120 day clinical trial there was an increase in mean PSA values of 0.13 ± 0.68 ng/mL from baseline.
+At the end of the 180 day extension clinical trial, there was an overall increase in mean PSA values of 0.1 ± 0.54 ng/mL.
 
 Following the 120 day study, seventy-one (71) patients entered a two-month extension study with AXIRON.
 Two patients (3%) had adverse reactions that led to discontinuation of treatment during the period from Day 120 to Day 180.

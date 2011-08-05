@@ -38,7 +38,7 @@ To dose 120 mg of testosterone, four applications are required alternating left 
 When repeat application to the same axilla is required, the axilla should be allowed to dry completely before more AXIRON is applied.
 
 After use, the applicator should be rinsed under room temperature, running water and then patted dry with a tissue.
-The applicator and cap are then replaced on the bottle for storage
+The applicator and cap are then replaced on the bottle for storage.
 
 When deodorants or antiperspirants are used as part of a regular program for personal hygiene, they should not interfere with the efficacy of AXIRON in treating hypogonadism.
 If patients use an antiperspirant or deodorant (stick or roll-on) then it should be applied prior to the application of AXIRON to avoid contamination of the stick or roll-on product.
