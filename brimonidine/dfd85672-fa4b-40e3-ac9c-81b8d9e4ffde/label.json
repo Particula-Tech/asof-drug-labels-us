@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076254"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "package_ndcs": [
+    "61314-143-05",
+    "61314-143-10",
+    "61314-143-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "brimonidine tartrate",
+      "name": "Brimonidine Tartrate"
+    }
+  ],
+  "setid": "dfd85672-fa4b-40e3-ac9c-81b8d9e4ffde",
+  "source": "dailymed"
+}
