@@ -30,8 +30,8 @@ Dispense in tight, light-resistant container as defined in the USP.
 
 is a trademark of Mallinckrodt Inc.
 
-COVIDIEN™ Mallinckrodt
+Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Mallinckrodt Inc., Hazelwood, MO 63042 USA.
+Rev 06/2011
 
-Rev 012909
+Mallinckrodt COVIDIEN™

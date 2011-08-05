@@ -1,13 +1,5 @@
 # WARNINGS
 
-In the presence of head injury or other intracranial lesions, the respiratory depressant effects of codeine and other narcotics may be markedly enhanced, as well as their capacity for elevating cerebrospinal fluid pressure.
-Narcotics also produce other CNS depressant effects, such as drowsiness, that may further obscure the clinical course of the patients with head injuries.
-
-Codeine or other narcotics may obscure signs on which to judge the diagnosis or clinical course of patients with acute abdominal conditions.
-
-Codeine is habit-forming and potentially abusable.
-Consequently, the extended use of this product is not recommended.
-
 # PRECAUTIONS
 
 ## General
@@ -24,7 +16,12 @@ Data is not available for other ethnic groups.
 
 When physicians prescribe codeine-containing drugs, they should choose the lowest effective dose for the shortest period of time and should inform their patients about these risks and the signs of morphine overdose (see PRECAUTIONS, Nursing Mothers).
 
-## Information for Patients
+## Information for Patients/Caregivers
+
+- Do not take acetaminophen and codeine phosphate tablets USP if you are allergic to any of its ingredients.
+- If you develop signs of allergy such as a rash or difficulty breathing stop taking acetaminophen and codeine phosphate tablets USP and contact your healthcare provider immediately.
+- Do not take more than 4000 milligrams of acetaminophen per day.
+  Call your doctor if you took more than the recommended dose.
 
 Codeine may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
 Such tasks should be avoided while taking this product.
@@ -93,7 +90,7 @@ The effect of codeine, if any, on the later growth, development, and functional 
 ## Nursing Mothers
 
 Acetaminophen is excreted in breast milk in small amounts, but the significance of its effects on nursing infants is not known.
-Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 Codeine is secreted into human milk.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
