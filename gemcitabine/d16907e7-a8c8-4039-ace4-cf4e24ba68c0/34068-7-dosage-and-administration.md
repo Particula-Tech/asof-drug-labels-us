@@ -12,16 +12,16 @@ Patients should have an absolute granulocyte count ≥1500 x 106/L and a platele
 
 Dose Modifications
 
-Gemcitabine dosage adjustments for hematological toxicity within a cycle of treatment is based on the granulocyte and platelet counts taken on Day 8 of therapy.
+Gemcitabine dosage adjustment for hematological toxicity within a cycle of treatment is based on the granulocyte and platelet counts taken on Day 8 of therapy.
 If marrow suppression is detected, gemcitabine dosage should be modified according to guidelines in Table 1.
 
 Table 1: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Carboplatin
 
 | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1500 | and | ≥100,000 | 100 |
-| 1000-1499 | and/or | 75,000-99,999 | 50 |
-| <1000 | and/or | <75,000 | Hold |
+| ≥1500 | And | ≥100,000 | 100 |
+| 1000-1499 | And/or | 75,000-99,999 | 50 |
+| <1000 | And/or | <75,000 | Hold |
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except nausea/vomiting, therapy with gemcitabine should be held or decreased by 50% depending on the judgment of the treating physician.
 For carboplatin dosage adjustment, see manufacturer’s prescribing information.
@@ -46,17 +46,17 @@ Patients should have an absolute granulocyte count ≥1500 x 106/L and a platele
 
 Dose Modifications
 
-Gemcitabine dosage adjustments for hematological toxicity is based on the granulocyte and platelet counts taken on Day 8 of therapy.
+Gemcitabine dosage adjustment for hematological toxicity is based on the granulocyte and platelet counts taken on Day 8 of therapy.
 If marrow suppression is detected, gemcitabine dosage should be modified according to the guidelines in Table 2.
 
 Table 2: Day 8 Dosage Reduction Guidelines for Gemcitabine in Combination with Paclitaxel
 
 | Absolute granulocyte count(x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1200 | and | >75,000 | 100 |
-| 1000-1199 | or | 50,000-75,000 | 75 |
-| 700-999 | and | ≥50,000 | 50 |
-| <700 | or | <50,000 | Hold |
+| ≥1200 | And | >75,000 | 100 |
+| 1000-1199 | Or | 50,000-75,000 | 75 |
+| 700-999 | And | ≥50,000 | 50 |
+| <700 | Or | <50,000 | Hold |
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except alopecia and nausea/vomiting, therapy with gemcitabine should be held or decreased by 50% depending on the judgment of the treating physician.
 For paclitaxel dosage adjustment, see manufacturer’s prescribing information.
@@ -98,9 +98,9 @@ Table 3: Dosage Reduction Guidelines
 
 | Absolute granulocyte count(x 106/L) |  | Platelet count(x 106/L) | % of full dose |
 | --- | --- | --- | --- |
-| ≥1000 | and | ≥100,000 | 100 |
-| 500-999 | or | 50,000-99,999 | 75 |
-| <500 | or | <50,000 | Hold |
+| ≥1000 | And | ≥100,000 | 100 |
+| 500-999 | Or | 50,000-99,999 | 75 |
+| <500 | Or | <50,000 | Hold |
 
 Laboratory evaluation of renal and hepatic function, including transaminases and serum creatinine, should be performed prior to initiation of therapy and periodically thereafter.
 Gemcitabine should be administered with caution in patients with evidence of significant renal or hepatic impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
@@ -126,14 +126,15 @@ Reconstitution at concentrations greater than 40 mg/mL may result in incomplete 
 
 To reconstitute, add 5 mL of 0.9% Sodium Chloride Injection to the 200-mg vial or 25 mL of 0.9% Sodium Chloride Injection to the 1-g vial.
 Shake to dissolve.
-This dilution yields a gemcitabine concentration of 38 mg/mL which includes accounting for the displacement volume of the lyophilized powder (0.26 mL for the 200-mg vial or 1.3 mL for the 1-g vial).
+These dilutions each yield a gemcitabine concentration of 38 mg/mL which includes accounting for the displacement volume of the lyophilized powder (0.26 mL for the 200-mg vial or 1.3 mL for the 1-g vial).
 The total volume upon reconstitution will be 5.26 mL or 26.3 mL, respectively.
 Complete withdrawal of the vial contents will provide 200 mg or 1 g of gemcitabine, respectively.
-The appropriate amount of drug may be administered as prepared or further diluted with 0.9% Sodium Chloride Injection to concentrations as low as 0.1 mg/mL.
+Prior to administration the appropriate amount of drug must be diluted with 0.9% Sodium Chloride Injection.
+Final concentrations may be as low as 0.1 mg/mL.
 
-Reconstituted Gemcitabine for Injection, USP is a clear and colorless to light straw-colored solution.
+Reconstituted Gemcitabine for Injection, USP is a clear, colorless to light straw-colored solution.
 After reconstitution with 0.9% Sodium Chloride Injection, the pH of the resulting solution lies in the range of 2.7 to 3.3.
-The solution should be inspected visually for particulate matter and discoloration, prior to administration, whenever solution or container permit.
+The solution should be inspected visually for particulate matter and discoloration prior to administration, whenever solution or container permit.
 If particulate matter or discoloration is found, do not administer.
 
 When prepared as directed, gemcitabine solutions are stable for 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].

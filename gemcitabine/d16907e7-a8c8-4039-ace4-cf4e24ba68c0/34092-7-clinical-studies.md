@@ -20,12 +20,9 @@ Table 10: Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Ba
 | Median age, years Range | 59 36 to 78 | 58 21 to 81 |
 | Baseline ECOG performance status 0-1a | 94% | 95% |
 | Disease Status Evaluable Bidimensionally measurable | 7.9% 91.6% | 2.8% 95.5% |
-| Platinum-free intervalb6-12 months >12 months | 39.9% 59.0% | 39.9% 59.6% |
-| First-line therapyPlatinum-taxane combination Platinum-non-taxane combination Platinum monotherapy | 70.2% 28.7% 1.1% | 71.3% 27.5% 1.1% |
-
-a Nine patients (5 on the Gemcitabine plus carboplatin arm and 4 on the carboplatin arm) did not have baseline Eastern Cooperative Oncology Group (ECOG) performance status recorded.
-
-b Three patients (2 on the Gemcitabine plus carboplatin arm and 1 on the carboplatin arm) had a platinum-free interval of less than 6 months.
+| Platinum-free intervalb 6-12 months >12 months | 39.9% 59.0% | 39.9% 59.6% |
+| First-line therapy Platinum-taxane combination Platinum-non-taxane combination Platinum monotherapy | 70.2% 28.7% 1.1% | 71.3% 27.5% 1.1% |
+| a Nine patients (5 on the Gemcitabine plus carboplatin arm and 4 on the carboplatin arm) did not have baseline Eastern Cooperative Oncology Group (ECOG) performance status recorded.b Three patients (2 on the Gemcitabine plus carboplatin arm and 1 on the carboplatin arm) had a platinum-free interval of less than 6 months. |  |  |
 
 Table 11: Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Results of Efficacy Analysis
 
@@ -38,18 +35,7 @@ Table 11: Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer - Re
 | Adjusteda Hazard Ratio (95%, C.I.) | 0.86 (0.67, 1.10) |  |  |
 | Investigator Reviewed Overall Response Rate CR PR+PRNMb | 47.2% 14.6% 32.6% | 30.9% 6.2% 24.7% | p=0.0016e |
 | Independently Reviewed Overall Response Ratec,f CR PR+PRNM | 46.3% 9.1% 37.2% | 35.6% 4.0% 31.7% | p=0.11e |
-
-a Treatment adjusted for performance status, tumor area, and platinum-free interval.
-
-b Partial response non-measurable disease
-
-c Independent reviewers could not evaluate disease demonstrated by sonography or physical exam.
-
-d Log Rank, unadjusted
-
-e Chi Square
-
-f Independently reviewed cohort - Gemcitabine/Carboplatin N=121, Carboplatin N=101
+| a Treatment adjusted for performance status, tumor area, and platinum-free interval.b Partial response non-measurable diseasec Independent reviewers could not evaluate disease demonstrated by sonography or physical exam.d Log Rank, unadjustede Chi Squaref Independently reviewed cohort - Gemcitabine/Carboplatin N=121, Carboplatin N=101 |  |  |  |
 
 Figure 1: Kaplan-Meier Curve of Progression Free Survival in Gemcitabine Plus Carboplatin Versus Carboplatin in Ovarian Cancer (N=356)
 
@@ -70,21 +56,16 @@ Table 12: Gemcitabine Plus Paclitaxel Versus Paclitaxel in Breast Cancer
 | Median age, years Range | 5326 to 83 | 5226 to 75 |  |
 | Metastatic disease | 97.0% | 96.9% |  |
 | Baseline KPSa ≥90 | 70.4% | 74.4% |  |
-| Number of tumor sites 1-2 ≥ 3 | 56.6%43.4% | 58.8%41.2% |  |
+| Number of tumor sites 1-2 ≥3 | 56.6%43.4% | 58.8%41.2% |  |
 | Visceral disease | 73.4% | 72.9% |  |
 | Prior anthracycline | 96.6% | 95.8% |  |
 | Overall Survivalb |  |  |  |
 | Median (95%, CI) | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |  |
 | Hazard Ratio (95%, CI) | 0.86 (0.71, 1.04) |  |  |
-| Time to Documented Disease Progressionc Median (95% C.I.), months | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) | p<0.0001 |
-| Hazard Ratio (95% C.I.) | 0.650 (0.524, 0.805) |  | p<0.0001 |
-| Overall Response Ratec (95%,C.I.) | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) | p<0.0001 |
-
-a Karnofsky Performance Status.
-
-b Based on the ITT population
-
-c These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm.
+| Time to Documented Disease Progressionc Median (95%, C.I.), months | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) | p<0.0001 |
+| Hazard Ratio (95%, C.I.) | 0.650 (0.524, 0.805) |  | p<0.0001 |
+| Overall Response Ratec (95%, C.I.) | 40.8% (34.9, 46.7) | 22.1% (17.1, 27.2) | p<0.0001 |
+| a Karnofsky Performance Status.b Based on the ITT populationc These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. |  |  |  |
 
 Figure 2: Kaplan-Meier Curve of Time to Documented Disease Progression in Gemcitabine Plus Paclitaxel Versus Paclitaxel Breast Cancer Study (N=529)
 
@@ -105,25 +86,20 @@ Median time to disease progression was 5.2 months on the gemcitabine plus cispla
 The objective response rate on the gemcitabine plus cisplatin arm was 26% compared to 10% with cisplatin (Fisher’s Exact p<0.0001, two-sided).
 No difference between treatment arms with regard to duration of response was observed.
 
-Gemcitabine plus cisplatin versus etoposide plus cisplatin: A second, multicenter, study in Stage IIIB or IV NSCLC randomized 135 patients to gemcitabine 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to etoposide 100 mg/m2 IV on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle (Table 13).
+Gemcitabine plus cisplatin versus etoposide plus cisplatin: A second, multicenter, study in Stage IIIB or IV NSCLC randomized 135 patients to gemcitabine 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle (Table 13).
 
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
 The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher’s Exact p=0.01, two-sided).
 
-Quality of Life (QOL): QOL was a secondary endpoint in both randomized studies.
-In the gemcitabine plus cisplatin versus cisplatin study, QOL was measured using the FACT-L, which assessed physical, social, emotional and functional well-being, and lung cancer symptoms.
-In the study of gemcitabine plus cisplatin versus etoposide plus cisplatin, QOL was measured using the EORTC QLQ-C30 and LC13, which assessed physical and psychological functioning and symptoms related to both lung cancer and its treatment.
-In both studies no significant differences were observed in QOL between the gemcitabine plus cisplatin arm and the comparator arm.
-
 Figure 3: Kaplan-Meier Survival Curve in Gemcitabine Plus Cisplatin Versus Cisplatin NSCLC Study (N=522)
 
 Table 13: Randomized Trials of Combination Therapy With Gemcitabine Plus Cisplatin in NSCLC
 
-| Trial | 28-day Schedule a |  |  | 28-day Schedule b |  |  |
+| Trial | 28-day Schedulea |  |  | 21-day Scheduleb |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Treatment Arm | Gemcitabine/ Cisplatin | Cisplatin |  | Gemcitabine/ Cisplatin | Cisplatin |  |
+| Treatment Arm | Gemcitabine/ Cisplatin | Cisplatin |  | Gemcitabine/ Cisplatin | Cisplatin/ Etoposide |  |
 | Number of patients | 260 | 262 |  | 69 | 66 |  |
 | Male | 182 | 186 |  | 64 | 61 |  |
 | Female | 78 | 76 |  | 5 | 5 |  |
@@ -134,24 +110,14 @@ Table 13: Randomized Trials of Combination Therapy With Gemcitabine Plus Cisplat
 | Stage IV | 67% | 70% |  | 52% | 49% |  |
 | Baseline KPSd 70 to 80 | 41% | 44% |  | 45% | 52% |  |
 | Baseline KPSd 90 to 100 | 57% | 55% |  | 55% | 49% |  |
-| Survival |  |  | P=0.008 |  |  | P=0.18 |
+| Survival |  |  | p=0.008 |  |  | p=0.18 |
 | Median, months | 9.0 | 7.6 |  | 8.7 | 7.0 |  |
 | (95%, C.I.) months | 8.2, 11.0 | 6.6, 8.8 |  | 7.8, 10.1 | 6.0, 9.7 |  |
-| Time to Disease Progression |  |  | P=0.009 |  |  | P=0.015 |
+| Time to Disease Progression |  |  | p=0.009 |  |  | p=0.015 |
 | Median, months | 5.2 | 3.7 |  | 5.0 | 4.1 |  |
-| (95%, C.I.) months | 4.2, 5.7 | 3.0, 4.3 |  | 4.2, 6.4 | 2.4, 5.4 |  |
-| Tumor Response | 26% | 10% | P<0.0001e | 33% | 14% | P=0.01e |
-
-a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days.
-
-b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and IV etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days.
-
-c N/A - Not applicable
-
-d Karnofsky Performance Status.
-
-e p-value for tumor response was calculated using the two-sided Fisher’s Exact test for difference in binomial proportions.
-All other p-values were calculated using the Log rank test for difference in overall time to an event.
+| (95%, C.I.) months | 4.2, 5.7 | 3.0, 4.3 |  | 4.2, 6.4 | 2.4, 4.5 |  |
+| Tumor Response | 26% | 10% | p<0.0001e | 33% | 14% | p=0.01e |
+| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days.b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days.c N/A Not applicable.d Karnofsky Performance Status.e p-value for tumor response was calculated using the two-sided Fisher’s Exact test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 
@@ -188,19 +154,9 @@ Table 14: Gemcitabine Versus 5-FU in Pancreatic Cancer
 | Stage IV disease | 71.4% | 76.2% |  |
 | Baseline KPSa ≤70 | 69.8% | 68.3% |  |
 | Clinical benefit response | 22.2%(Nc=14) | 4.8%(Nc=3) | p=0.004e |
-| Survival Median 6-month probabilityb 9-month probabilityb 1-year probabilityb Range 95% C.I. of the median | 5.7 months(N=30) 46%(N=14) 24%(N=9) 18%0.2 to 18.6 months4.7 to 6.9 months | 4.2 months(N=19) 29%(N=4) 5%(N=2) 2%0.4 to 15.1+ d months3.1 to 5.1 months | p=0.0009 |
-| Time to Disease Progression Median Range 95% C.I. of the median | 2.1 months0.1+ d to 9.4 months1.9 to 3.4 months | 0.9 months0.1 to 12.0+ d months0.9 to 1.1 months | p=0.0013 |
-
-a Karnofsky Performance Status.
-
-b Kaplan-Meier estimates.
-
-c N=number of patients.
-
-d No progression at last visit; remains alive.
-
-e The p-value for clinical benefit response was calculated using the two-sided test for difference in binomial proportions.
-All other p-values were calculated using the Log rank test for difference in overall time to an event.
+| Survival Median 6-month probabilityb 9-month probabilityb 1-year probabilityb Range 95% C.I. of the median | 5.7 months(N=30) 46%(N=14) 24%(N=9) 18%0.2 to 18.6 months 4.7 to 6.9 months | 4.2 months(N=19) 29%(N=4) 5%(N=2) 2%0.4 to 15.1+d months3.1 to 5.1 months | p=0.0009 |
+| Time to Disease Progression Median Range 95% C.I. of the median | 2.1 months0.1+d to 9.4 months 1.9 to 3.4 months | 0.9 months0.1 to 12.0+d months0.9 to 1.1 months | p=0.0013 |
+| a Karnofsky Performance Status.b Kaplan-Meier estimates.c N=number of patients.d No progression at last visit; remains alive.e The p-value for clinical benefit response was calculated using the two-sided test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |
 
 Clinical benefit response was achieved by 14 patients treated with gemcitabine and 3 patients treated with 5-FU.
 One patient on the gemcitabine arm showed improvement in all 3 primary parameters (pain intensity, analgesic consumption, and performance status).

@@ -9,8 +9,7 @@ Caution - Prolongation of the infusion time beyond 60 minutes and more frequent 
 ## 5.2 Hematology
 
 Gemcitabine can suppress bone marrow function as manifested by leukopenia, thrombocytopenia, and anemia [see Adverse Reactions (6.1)], and myelosuppression is usually the dose-limiting toxicity.
-Patients should be monitored for myelosuppression during therapy.
-[see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)]
+Patients should be monitored for myelosuppression during therapy [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].
 
 ## 5.3 Pulmonary
 
@@ -23,30 +22,26 @@ Hemolytic Uremic Syndrome (HUS) and/or renal failure have been reported followin
 Renal failure leading to death or requiring dialysis, despite discontinuation of therapy, has been reported.
 The majority of the cases of renal failure leading to death were due to HUS [see Adverse Reactions (6.1 and 6.2)].
 
-Gemcitabine should be used with caution in patients with preexisting renal impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-[see Use In Specific Populations (8.6)]
+Gemcitabine should be used with caution in patients with preexisting renal impairment as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations [see Use in Specific Populations (8.6)].
 
 ## 5.5 Hepatic
 
 Serious hepatotoxicity, including liver failure and death, has been reported in patients receiving gemcitabine alone or in combination with other potentially hepatotoxic drugs [see Adverse Reactions (6.1 and 6.2)].
 
 Gemcitabine should be used with caution in patients with preexisting hepatic insufficiency as there is insufficient information from clinical studies to allow clear dose recommendation for these patient populations.
-Administration of gemcitabine in patients with concurrent liver metastases or a preexisting medical history of hepatitis, alcoholism, or liver cirrhosis may lead to exacerbation of the underlying hepatic insufficiency.
-[see Use In Specific Populations (8.7)]
+Administration of gemcitabine in patients with concurrent liver metastases or a preexisting medical history of hepatitis, alcoholism, or liver cirrhosis may lead to exacerbation of the underlying hepatic insufficiency [see Use in Specific Populations (8.7)].
 
 ## 5.6 Pregnancy
 
 Gemcitabine can cause fetal harm when administered to a pregnant woman.
 In pre-clinical studies in mice and rabbits, gemcitabine was teratogenic, embryotoxic, and fetotoxic.
 There are no adequate and well-controlled studies of gemcitabine in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-[see Use In Specific Populations (8.1)]
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 
 ## 5.7 Laboratory Tests
 
 Patients receiving gemcitabine should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet count.
-Suspension or modification of therapy should be considered when marrow suppression is detected.
-[see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)]
+Suspension or modification of therapy should be considered when marrow suppression is detected [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].
 
 Laboratory evaluation of renal and hepatic function should be performed prior to initiation of therapy and periodically thereafter [see Dosage and Administration (2.4)].
 

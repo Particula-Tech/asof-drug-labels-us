@@ -63,8 +63,7 @@ Table 9: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 | 45 | 75.7 | 57.0 | 48 | 57 |
 | 65 | 55.1 | 41.5 | 61 | 73 |
 | 79 | 40.7 | 30.7 | 79 | 94 |
-
-a Half-life for patients receiving a short infusion (<70 min).
+| a Half-life for patients receiving a short infusion (<70 min). |  |  |  |  |
 
 Gemcitabine half-life for short infusions ranged from 42 to 94 minutes, and the value for long infusions varied from 245 to 638 minutes, depending on age and gender, reflecting a greatly increased volume of distribution with longer infusions.
 
