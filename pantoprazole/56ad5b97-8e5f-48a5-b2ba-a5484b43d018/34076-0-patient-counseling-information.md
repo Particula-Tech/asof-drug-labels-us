@@ -7,10 +7,11 @@ Patient Counseling
 - Caution patients that pantoprazole sodium delayed-release tablets should not be split, crushed or chewed.
 - Tell patients that pantoprazole sodium delayed-release tablets should be swallowed whole, with or without food in the stomach.
 - Let patients know that concomitant administration of antacids does not affect the absorption of pantoprazole sodium delayed-release tablets.
+- Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitation, dizziness, seizures and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
 
 FDA-Approved Patient Labeling
 
-PATIENT INFORMATION PANTOPRAZOLE SODIUM DELAYED-RELEASE TABLETS, USP
+PATIENT INFORMATION PANTOPRAZOLE SODIUM DELAYED-RELEASE TABLETS, USP (pan toe′ pra zole soe′dee um) 20 mg and 40 mg
 
 Read the Patient Information that comes with pantoprazole sodium delayed-release tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -44,12 +45,13 @@ Do not take pantoprazole sodium delayed-release tablets if you are:
 
 What should I tell my doctor before taking pantoprazole sodium delayed-release tablets?
 
-Before taking pantoprazole sodium delayed-release tablets, tell your doctor about all your medical conditions, including if you are:
+Before you take pantoprazole sodium delayed-release tablets, tell your doctor if you:
 
-- pregnant, think you may be pregnant, or are planning to become pregnant.
+- have been told that you have low magnesium levels in your blood
+- are pregnant, think you may be pregnant, or are planning to become pregnant.
   It is not known if pantoprazole sodium delayed-release tablets will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- breast-feeding or planning to breast-feed.
+- are breast-feeding or planning to breast-feed.
   Pantoprazole may pass into your milk.
   Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
@@ -79,18 +81,36 @@ How should I take pantoprazole sodium delayed-release tablets?
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
 
-Pantoprazole sodium delayed-release tablets can cause serious side effects including
-
-- Stomach lining weakening with long-term use
-- Vitamin B-12 deficiency
 - Serious allergic reactions.
   Tell your doctor if you get any of the following symptoms with pantoprazole sodium delayed-release tablets:
   - rash
   - face swelling
   - throat tightness
   - difficult breathing
+  - Stomach lining weakening with long-term use
+  - Vitamin B-12 deficiency
 
 Your doctor may stop pantoprazole sodium delayed-release tablets if these symptoms happen.
+
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+
+Tell your doctor right away if you have any of these symptoms:
+
+- seizures
+- dizziness
+- abnormal or fast heartbeat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
+
+Your doctor may check the level of magnesium in your body before you start taking pantoprazole sodium delayed-release tablets or during treatment if you will be taking pantoprazole sodium delayed-release tablets for a long period of time.
 
 The most common side effects with pantoprazole sodium delayed-release tablets in adults include:
 
@@ -151,4 +171,4 @@ Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, 
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED SEPTEMBER 2010 MX:PANTDR:R3ppt/MX:PL:PANTDR:R2
+REVISED JULY 2011 MX:PANTDR:R4ppt/MX:PL:PANTDR:R3

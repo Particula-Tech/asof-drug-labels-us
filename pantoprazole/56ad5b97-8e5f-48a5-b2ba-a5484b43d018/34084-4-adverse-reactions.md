@@ -60,6 +60,8 @@ Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fata
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
+Metabolism and Nutritional Disorders: hypomagnesemia
+
 Renal and Urinary Disorders: interstitial nephritis
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
