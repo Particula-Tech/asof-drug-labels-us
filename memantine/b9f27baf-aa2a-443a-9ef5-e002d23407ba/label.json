@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021487",
+    "NDA021627"
+  ],
   "inn": "memantine",
-  "labeler": "Forest Pharmaceuticals, Inc.",
+  "labeler": "Forest Laboratories, Inc.",
   "package_ndcs": [
     "0456-3200-14",
     "0456-3202-12",
@@ -10,7 +13,23 @@
     "0456-3210-60",
     "0456-3210-63"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "memantine hydrochloride",
+      "name": "Namenda"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "memantine hydrochloride",
+      "name": "Namenda"
+    },
+    {
+      "form": "TABLET",
+      "generic": "memantine hydrochloride",
+      "name": "Namenda"
+    }
+  ],
   "setid": "b9f27baf-aa2a-443a-9ef5-e002d23407ba",
   "source": "dailymed"
 }

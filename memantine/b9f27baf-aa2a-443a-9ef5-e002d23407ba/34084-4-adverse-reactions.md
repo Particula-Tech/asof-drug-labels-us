@@ -61,38 +61,38 @@ All adverse events occurring in at least two patients are included, except for t
 Events are classified by body system and listed using the following definitions: frequent adverse events - those occurring in at least 1/100 patients; infrequent adverse events - those occurring in 1/100 to 1/1000 patients.
 These adverse events are not necessarily related to Namenda treatment and in most cases were observed at a similar frequency in placebo-treated patients in the controlled studies.
 
-Body as a Whole:Frequent: syncope.
+Body as a Whole: Frequent: syncope.
 Infrequent: hypothermia, allergic reaction.
 
-Cardiovascular System:Frequent: cardiac failure.
+Cardiovascular System: Frequent: cardiac failure.
 Infrequent: angina pectoris, bradycardia, myocardial infarction, thrombophlebitis, atrial fibrillation, hypotension, cardiac arrest, postural hypotension, pulmonary embolism, pulmonary edema.
 
-Central and Peripheral Nervous System:Frequent: transient ischemic attack, cerebrovascular accident, vertigo, ataxia, hypokinesia.
+Central and Peripheral Nervous System: Frequent: transient ischemic attack, cerebrovascular accident, vertigo, ataxia, hypokinesia.
 Infrequent: paresthesia, convulsions, extrapyramidal disorder, hypertonia, tremor, aphasia, hypoesthesia, abnormal coordination, hemiplegia, hyperkinesia, involuntary muscle contractions, stupor, cerebral hemorrhage, neuralgia, ptosis, neuropathy.
 
-Gastrointestinal System:Infrequent: gastroenteritis, diverticulitis, gastrointestinal hemorrhage, melena, esophageal ulceration.
+Gastrointestinal System: Infrequent: gastroenteritis, diverticulitis, gastrointestinal hemorrhage, melena, esophageal ulceration.
 
-Hemic and Lymphatic Disorders:Frequent: anemia.
+Hemic and Lymphatic Disorders: Frequent: anemia.
 Infrequent: leukopenia.
 
-Metabolic and Nutritional Disorders:Frequent: increased alkaline phosphatase, decreased weight.
+Metabolic and Nutritional Disorders: Frequent: increased alkaline phosphatase, decreased weight.
 Infrequent: dehydration, hyponatremia, aggravated diabetes mellitus.
 
-Psychiatric Disorders:Frequent: aggressive reaction.
+Psychiatric Disorders: Frequent: aggressive reaction.
 Infrequent: delusion, personality disorder, emotional lability, nervousness, sleep disorder, libido increased, psychosis, amnesia, apathy, paranoid reaction, thinking abnormal, crying abnormal, appetite increased, paroniria, delirium, depersonalization, neurosis, suicide attempt.
 
-Respiratory System:Frequent: pneumonia.
+Respiratory System: Frequent: pneumonia.
 Infrequent: apnea, asthma, hemoptysis.
 
-Skin and Appendages:Frequent: rash.
+Skin and Appendages: Frequent: rash.
 Infrequent: skin ulceration, pruritus, cellulitis, eczema, dermatitis, erythematous rash, alopecia, urticaria.
 
-Special Senses:Frequent: cataract, conjunctivitis.
+Special Senses: Frequent: cataract, conjunctivitis.
 Infrequent: macula lutea degeneration, decreased visual acuity, decreased hearing, tinnitus, blepharitis, blurred vision, corneal opacity, glaucoma, conjunctival hemorrhage, eye pain, retinal hemorrhage, xerophthalmia, diplopia, abnormal lacrimation, myopia, retinal detachment.
 
-Urinary System:Frequent: frequent micturition.
+Urinary System: Frequent: frequent micturition.
 Infrequent: dysuria, hematuria, urinary retention.
 
-## Events Reported Subsequent to the Marketing of Namenda, both US and Ex-US
+Events Reported Subsequent to the Marketing of Namenda, both US and Ex-US
 
 Although no causal relationship to memantine treatment has been found, the following adverse events have been reported to be temporally associated with memantine treatment and are not described elsewhere in labeling: aspiration pneumonia, asthenia, atrioventricular block, bone fracture, carpal tunnel syndrome, cerebral infarction, chest pain, cholelithiasis, claudication, colitis, deep venous thrombosis, depressed level of consciousness (including loss of consciousness and rare reports of coma), dyskinesia, dysphagia, encephalopathy, gastritis, gastroesophageal reflux, grand mal convulsions, intracranial hemorrhage, hepatitis (including increased ALT and AST and hepatic failure), hyperglycemia, hyperlipidemia, hypoglycemia, ileus, increased INR, impotence, lethargy, malaise, myoclonus, neuroleptic malignant syndrome, acute pancreatitis, Parkinsonism, acute renal failure (including increased creatinine and renal insufficiency), prolonged QT interval, restlessness, sepsis, Stevens-Johnson syndrome, suicidal ideation, sudden death, supraventricular tachycardia, tachycardia, tardive dyskinesia, thrombocytopenia, and hallucinations (both visual and auditory).

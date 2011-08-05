@@ -1,8 +1,8 @@
-## PATIENT INSTRUCTIONS FOR NAMENDA® Oral Solution
+# PATIENT INSTRUCTIONS FOR NAMENDA® Oral Solution
 
 Follow the directions below to use your Namenda® Oral Solution dosing device.
 
-IMPORTANT: Read these instructions before using Namenda®Oral Solution.
+IMPORTANT: Read these instructions before using Namenda® Oral Solution.
 
 |  |  | 1. Remove oral dosing syringe along with the green cap and plastic tube from its protective plastic bag. Attach the tube to the green cap if it isn't already attached. |
 | --- | --- | --- |

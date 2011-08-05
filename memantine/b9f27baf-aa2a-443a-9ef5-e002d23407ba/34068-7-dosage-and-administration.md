@@ -17,6 +17,4 @@ Patients/caregivers should be instructed to address any questions on the usage o
 
 A target dose of 5 mg BID is recommended in patients with severe renal impairment (creatinine clearance of 5 – 29 mL/min based on the Cockroft-Gault equation):
 
-For males: CLcr = [140-age (years)]· Weight (kg)/[72 · serum creatinine (mg/dL)]
-
-For females: CLcr = 0.85 · [140-age (years)]· Weight (kg)/[72 · serum creatinine (mg/dL)]
+For males: CLcr = [140-age (years)] · Weight (kg)/[72 · serum creatinine (mg/dL)] For females: CLcr = 0.85 · [140-age (years)] · Weight (kg)/[72 · serum creatinine (mg/dL)]

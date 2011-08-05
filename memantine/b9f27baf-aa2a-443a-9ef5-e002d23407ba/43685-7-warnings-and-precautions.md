@@ -24,7 +24,7 @@ Namenda should be administered with caution to patients with severe hepatic impa
 No dosage adjustment is needed in patients with mild or moderate renal impairment.
 A dosage reduction is recommended in patients with severe renal impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-## Drug-Drug Interactions
+### Drug-Drug Interactions
 
 N-methyl-D-aspartate (NMDA) antagonists: The combined use of Namenda with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.
 
@@ -60,6 +60,7 @@ No impairment of fertility or reproductive performance was seen in rats administ
 ## Pregnancy
 
 Pregnancy Category B: Memantine given orally to pregnant rats and pregnant rabbits during the period of organogenesis was not teratogenic up to the highest doses tested (18 mg/kg/day in rats and 30 mg/kg/day in rabbits, which are 9 and 30 times, respectively, the maximum recommended human dose [MRHD] on a mg/m2 basis).
+
 Slight maternal toxicity, decreased pup weights and an increased incidence of non-ossified cervical vertebrae were seen at an oral dose of 18 mg/kg/day in a study in which rats were given oral memantine beginning pre-mating and continuing through the postpartum period.
 Slight maternal toxicity and decreased pup weights were also seen at this dose in a study in which rats were treated from day 15 of gestation through the post-partum period.
 The no-effect dose for these effects was 6 mg/kg, which is 3 times the MRHD on a mg/m2 basis.
