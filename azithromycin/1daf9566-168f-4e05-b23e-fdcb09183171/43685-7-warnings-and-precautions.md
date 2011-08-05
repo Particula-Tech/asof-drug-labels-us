@@ -11,7 +11,12 @@ The relationship of these episodes to the long tissue half-life of azithromycin 
 If an allergic reaction occurs, appropriate therapy should be instituted.
 Physicians should be aware that reappearance of the allergic symptoms may occur when symptomatic therapy is discontinued.
 
-## 5.2 Clostridium difficile-associated diarrhea
+## 5.2 Hepatotoxicity
+
+Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
+Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
+
+## 5.3 Clostridium difficile-associated diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Zmax, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -24,19 +29,19 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.3 Exacerbation of myasthenia gravis
+## 5.4 Exacerbation of myasthenia gravis
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
-## 5.4 Gastrointestinal Disturbances
+## 5.5 Gastrointestinal Disturbances
 
 A higher incidence of gastrointestinal adverse events (8 of 19 subjects) was observed when Zmax was administered to a limited number of subjects with GFR< 10 mL/min [See USE IN SPECIFIC POPULATIONS (8.6)]
 
-## 5.5 Prolongation of the QT interval
+## 5.6 Prolongation of the QT interval
 
 Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with other macrolides.
 A similar effect with azithromycin cannot be completely ruled out in patients at increased risk for prolonged cardiac repolarization.
 
-## 5.6 Development of drug resistant bacteria
+## 5.7 Development of drug resistant bacteria
 
 Prescribing Zmax in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

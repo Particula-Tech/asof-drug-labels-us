@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NDC 0069-4170-34 for combined adult and pediatric use is supplied in bottles containing 2 g of azithromycin and should be constituted with 60 mL of water.
+NDC 0069-4170-21 for adult use, NDC 0069-4170-02 for pediatric use, and NDC 0069-4170-34 for combined adult and pediatric use are supplied in bottles containing 2 g of azithromycin and should be constituted with 60 mL of water.
 
 Storage
 
