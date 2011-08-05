@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide]
+See FDA-approved patient labeling (Medication Guide)
 
 ## 17.1 Dosing and Administration
 
@@ -11,7 +11,7 @@
   Doses should not be doubled [see Dosage and Administration (2)].
 - Instruct patients and caregivers that CREON should always be taken with food.
   Patients should be advised that CREON delayed-release capsules and the capsule contents must not be crushed or chewed as doing so could cause early release of enzymes and/or loss of enzymatic activity.
-  Patients should swallow intact capsules with adequate amounts of liquid at mealtimes.
+  Patients should swallow the intact capsules with adequate amounts of liquid at mealtimes.
   If necessary, the capsule contents can also be sprinkled on soft acidic foods [see Dosage and Administration (2)].
 
 ## 17.2 Fibrosing Colonopathy
@@ -37,6 +37,6 @@ Marketed By:
 - Abbott Laboratories
 - North Chicago, IL 60064, U.S.A.
 
-1055216 10E Rev Jun 2011
+1055216 12E Rev Jul 2011
 
 © 2011 Abbott Laboratories

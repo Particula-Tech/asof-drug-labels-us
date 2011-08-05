@@ -6,7 +6,7 @@ The most serious adverse reactions reported with different pancreatic enzyme pro
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The short-term safety of CREON was assessed in clinical trials conducted in 103 patients with exocrine pancreatic insufficiency (EPI): 49 patients with EPI due to cystic fibrosis (CF) and 25 patients with EPI due to chronic pancreatitis or pancreatectomy were treated with CREON.
+The short-term safety of CREON was assessed in clinical trials conducted in 121 patients with exocrine pancreatic insufficiency (EPI): 67 patients with EPI due to cystic fibrosis (CF) and 25 patients with EPI due to chronic pancreatitis or pancreatectomy were treated with CREON.
 
 Cystic Fibrosis
 
@@ -21,7 +21,7 @@ Transient neutropenia without clinical sequelae was observed as an abnormal labo
 In Study 2, adverse reactions that occurred in at least 2 patients (greater than or equal to 12%) treated with CREON were vomiting and headache.
 Vomiting occurred in 2 patients treated with CREON and did not occur in patients treated with placebo; headache occurred in 2 patients treated with CREON and did not occur in patients treated with placebo.
 
-The most common adverse reactions (greater than or equal to 4%) were vomiting, dizziness, and cough.
+The most common adverse reactions (greater than or equal to 4%) in Studies 1 and 2 were vomiting, dizziness, and cough.
 Table 1 enumerates adverse reactions that occurred in at least 2 patients (greater than or equal to 4%) treated with CREON at a higher rate than with placebo in Studies 1 and 2.
 
 Table 1: Adverse Reactions Occurring in at Least 2 Patients (greater than or equal to 4%) in Cystic Fibrosis (Studies 1 and 2)
@@ -32,9 +32,14 @@ Table 1: Adverse Reactions Occurring in at Least 2 Patients (greater than or equ
 | Dizziness | 2 (4) | 1 (2) |
 | Cough | 2 (4) | 0 |
 
+An additional open-label, single-arm study assessed the short-term safety and tolerability of CREON in 18 infants and children, ages 4 months to 6 years, with EPI due to cystic fibrosis.
+Patients received their usual pancreatic enzyme replacement therapy (mean dose of 7,000 lipase units/kg/day for a mean duration of 18.2 days) followed by CREON (mean dose of 7,500 lipase units/kg/day for a mean duration of 12.6 days).
+There were no serious adverse reactions.
+Adverse reactions that occurred in patients during treatment with CREON were vomiting, irritability, and decreased appetite, each occurring in 6% of patients.
+
 Chronic Pancreatitis or Pancreatectomy
 
-Study 3 was a randomized, double-blind, placebo-controlled, parallel group study of 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
+A randomized, double-blind, placebo-controlled, parallel group study was conducted in 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
 Patients received single-blind placebo treatment during a 5-day run-in period followed by an intervening period of up to 16 days of investigator-directed treatment with no restrictions on pancreatic enzyme replacement therapy.
 Patients were then randomized to receive CREON or matching placebo for 7 days.
 The CREON dose was 72,000 lipase units per main meal (3 main meals) and 36,000 lipase units per snack (2 snacks).
@@ -42,9 +47,9 @@ The mean exposure to CREON during this study was 6.8 days in the 25 patients tha
 
 The most common adverse reactions reported during the study were related to glycemic control and were reported more commonly during CREON treatment than during placebo treatment.
 
-Table 2 enumerates adverse reactions that occurred in at least 1 patient (greater than or equal to 4%) treated with CREON at a higher rate than with placebo in Study 3.
+Table 2 enumerates adverse reactions that occurred in at least 1 patient (greater than or equal to 4%) treated with CREON at a higher rate than with placebo.
 
-Table 2: Adverse Reactions in at Least 1 Patient (greater than or equal to 4%) in Chronic Pancreatitis or Pancreatectomy (Study 3)
+Table 2: Adverse Reactions in at Least 1 Patient (greater than or equal to 4%) in the Chronic Pancreatitis or Pancreatectomy Trial
 
 | Adverse Reaction | CREON Capsules n = 25 (%) | Placebo n = 29 (%) |
 | --- | --- | --- |

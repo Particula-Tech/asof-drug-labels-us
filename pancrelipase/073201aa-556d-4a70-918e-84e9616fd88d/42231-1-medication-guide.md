@@ -168,8 +168,8 @@ Manufactured for:
 
 Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
-1055216 10E Rev Jun 2011
+1055216 12E Rev Jul 2011
 
 © 2011 Abbott Laboratories
 
-Rev June/2011
+Rev July/2011

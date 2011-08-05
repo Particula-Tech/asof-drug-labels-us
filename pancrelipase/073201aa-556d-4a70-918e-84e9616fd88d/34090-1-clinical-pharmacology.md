@@ -7,5 +7,5 @@ The pancreatic enzymes in CREON catalyze the hydrolysis of fats to monoglyceride
 ## 12.3 Pharmacokinetics
 
 The pancreatic enzymes in CREON are enteric-coated to minimize destruction or inactivation in gastric acid.
-CREON is expected to release most of the enzymes in vivo at an approximate pH of 5.5 or greater.
+CREON is designed to release most of the enzymes in vivo at an approximate pH of 5.5 or greater.
 Pancreatic enzymes are not absorbed from the gastrointestinal tract in appreciable amounts.

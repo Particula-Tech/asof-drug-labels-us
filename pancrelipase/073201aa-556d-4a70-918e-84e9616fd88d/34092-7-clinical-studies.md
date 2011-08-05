@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
-The short-term safety and efficacy of CREON were evaluated in three studies conducted in 103 patients with exocrine pancreatic insufficiency (EPI).
-Studies 1 and 2 were conducted in 49 patients with EPI due to cystic fibrosis (CF); Study 3 was conducted in 54 patients with EPI due to chronic pancreatitis or pancreatectomy.
+The short-term efficacy of CREON was evaluated in three studies conducted in 103 patients with exocrine pancreatic insufficiency (EPI).
+Two studies were conducted in 49 patients with EPI due to cystic fibrosis (CF); one study was conducted in 54 patients with EPI due to chronic pancreatitis or pancreatectomy.
 
 ## 14.1 Cystic Fibrosis
 
@@ -36,7 +36,7 @@ The mean difference in CNA was 35 percentage points in favor of CREON treatment 
 
 ## 14.2 Chronic Pancreatitis or Pancreatectomy
 
-Study 3 was a randomized, double-blind, placebo-controlled, parallel group study of 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
+A randomized, double-blind, placebo-controlled, parallel group study was conducted in 54 adult patients, ages 32 to 75 years, with EPI due to chronic pancreatitis or pancreatectomy.
 The final analysis population was limited to 52 patients; 2 patients were excluded due to protocol violations.
 Ten patients had a history of pancreatectomy (7 were treated with CREON).
 In this study, patients received placebo for 5 days (run-in period), followed by pancreatic enzyme replacement therapy as directed by the investigator for 16 days; this was followed by randomization to CREON or matching placebo for 7 days of treatment (double-blind period).
@@ -47,7 +47,7 @@ All patients consumed a high-fat diet (greater than or equal to 100 grams of fat
 The CFA was determined by a 72-hour stool collection during the run-in and double-blind treatment periods, when both fat excretion and fat ingestion were measured.
 The mean change in CFA from the run-in period to the end of the double-blind period in the CREON and Placebo groups is shown in Table 3.
 
-Table 3: Change in CFA in Study 3 (Run-in Period to End of Double-Blind Period)
+Table 3: Change in CFA in the Chronic Pancreatitis and Pancreatectomy Trial (Run-in Period to End of Double-Blind Period)
 
 |  | CREON n = 24 | Placebo n = 28 |
 | --- | --- | --- |
