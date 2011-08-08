@@ -76,3 +76,7 @@ Advise patients to notify their physician if they are breastfeeding an infant [s
 
 Patients receiving PRISTIQ may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
+
+LAB-0452-4.0
+
+Revised July 2011

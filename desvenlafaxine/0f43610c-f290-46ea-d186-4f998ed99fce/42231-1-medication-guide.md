@@ -261,14 +261,6 @@ Please visit our web site at www.pristiq.com, or call our toll-free number 1-888
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-Wyeth®
+LAB-0539-2.0
 
-Distributed by:
-
-Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
-
-Philadelphia, PA 19101
-
-LAB-0452-3.0
-
-April 2011
+Revised July 2011
