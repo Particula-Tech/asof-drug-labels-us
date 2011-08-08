@@ -2,8 +2,8 @@
 
 The topical corticosteroids constitute a class of primarily synthetic steroids used as anti-inflammatory and antipruritic agents.
 The steroids in this class include triamcinolone acetonide.
-Triamcinolone acetonide is designated chemically as 9-Fluoro-11β, 16α, 17, 21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with acetone.
-Graphic formula:
+Triamcinolone acetonide is designated chemically as 9-fluoro-11β, 16α, 17, 21-tetrahydroxypregna-1, 4-diene-3, 20-dione cyclic 16, 17-acetal with acetone.
+The structural formula is:
 
 A two-second application, which covers an area approximately the size of the hand, delivers an amount of triamcinolone acetonide not exceeding 0.2 mg.
 After spraying, the nonvolatile vehicle remaining on the skin contains approximately 0.2% triamcinolone acetonide.

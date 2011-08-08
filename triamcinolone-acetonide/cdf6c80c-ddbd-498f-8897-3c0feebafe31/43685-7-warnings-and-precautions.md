@@ -2,16 +2,15 @@
 
 ## General
 
-Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary- adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
+Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
 
 Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 
 Therefore, patients receiving a large dose of any potent topical steroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests, and for impairment of thermal homeostasis.
-If HPA axis suppression or elevation of the body temperature occurs, an attempt should be made to withdraw the drug, to reduce the frequency of application, substitute a less potent steroid, or use a sequential approach when utilizing the occlusive technique.
+If HPA axis suppression or elevation of the body temperature occurs, an attempt should be made to withdraw the drug, to reduce the frequency of application, substitute a less potent steroid, or use a sequential approach.
 
 Recovery of HPA axis function and thermal homeostasis are generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
-Occasionally, a patient may develop a sensitivity reaction to a particular occlusive dressing material or adhesive and a substitute material may be necessary.
 
 Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTIONS, Pediatric Use).
 
@@ -22,14 +21,19 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 ## Information for the Patient
 
-Patients using topical corticosteroids should receive the following information and instructions:
+Patients using Kenalog Spray should receive the following information and instructions:
 
 1. This medication is to be used as directed by the physician.
    It is for external use only; avoid contact with the eyes and inhalation of the spray.
 2. Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions especially under occlusive dressing.
+4. Patients should report any signs of local adverse reactions.
 5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+6. Do not use Kenalog Spray on the underarms or groin areas unless directed by your physician.
+7. If no improvement is seen within 2 weeks, contact your physician.
+8. Do not use other corticosteroid-containing products while using Kenalog Spray without first consulting your physician.
+9. Kenalog Spray is flammable.
+   Avoid heat, flames or smoking when applying Kenalog Spray.
 
 ## Laboratory Tests
 
@@ -60,7 +64,7 @@ Nevertheless, caution should be exercised when topical corticosteroids are admin
 Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing’s syndrome than mature patients because of a larger skin surface area to body weight ratio.
 
 HPA axis suppression, Cushing’s syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol ievels, and absence of response to ACTH stimulation.
+Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 Administration of topical corticosteroids to children should be limited to the least amount compatible with an effective therapeutic regimen.

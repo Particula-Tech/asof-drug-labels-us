@@ -11,9 +11,7 @@ There is some evidence to suggest that a recognizable correlation exists between
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 
 Topical corticosteroids can be absorbed from normal intact skin.
-Inflammation and/or other disease processes in’ the skin increase percutaneous absorption.
-Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids.
-Thus, occlusive dressings may be a valuable therapeutic adjunct for treatment of resistant dermatoses (see DOSAGE AND ADMINISTRATION).
+Inflammation and/or other disease processes in the skin increase percutaneous absorption.
 
 Once absorbed through the skin, topical corticosteroids are handled through pharmacokinetic pathways similar to systemically administered corticosteroids.
 Corticosteroids are bound to plasma proteins in varying degrees.
