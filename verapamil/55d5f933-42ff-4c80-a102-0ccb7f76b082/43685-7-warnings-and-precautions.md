@@ -73,7 +73,7 @@ These patients should be carefully monitored for abnormal prolongation of the PR
 
 ### Cytochrome inducers/inhibitors
 
-In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, and CYP2C.
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9, and CYP2C18.
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
 
 ### Aspirin
@@ -82,13 +82,7 @@ In a few reported cases, co-administration of verapamil with aspirin has led to 
 
 ### Grapefruit juice
 
-Grapefruit juice may significantly increase concentrations of verapamil.
-Grapefruit juice given to nine healthy volunteers increased S- and R-verapamil AUC0–12 by 36% and 28%, respectively.
-Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively, with grapefruit juice compared to control.
-Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively.
-Grapefruit juice did not affect half-life, nor was there a significant change in AUC0–12 ratio R/S compared to control.
-Grapefruit juice did not cause a significant difference in the PK of norverapamil.
-This increase in verapamil plasma concentration is not expected to have any clinical consequences
+Grapefruit juice may increase plasma levels of verapamil.
 
 ### Alcohol
 
