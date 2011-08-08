@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Instruct patients not to take LIALDA if they have hypersensitivity to salicylates (e.g., aspirin) or other mesalamines.
+- Instruct patients not to take LIALDA if they have hypersensitivity to salicylates (e.g., aspirin) or other mesalamines.
 
-Doctors should ask their patients to tell them all medications they are taking and if they:
+- Inform patients to let their physcians know all medications they are taking and if they:
 
 - are allergic to sulfasalazine, salicylates or mesalamine;
 - are taking non-steroidal anti-inflammatory drugs (NSAIDs) or other nephrotoxic agents;
@@ -13,17 +13,12 @@ Doctors should ask their patients to tell them all medications they are taking a
 - have a history of stomach blockage;
 - are pregnant, intend to become pregnant or are breast-feeding.
 
-Patients should be instructed to swallow LIALDA tablets whole, taking care not to break the outer coating.
+- Patients should be instructed to swallow LIALDA delayed-release tablets whole, taking care not to break the outer coating.
 The outer coating needs to remain intact so that LIALDA is absorbed properly.
 
-Manufactured for Shire US Inc.,
+Manufactured for Shire US Inc., 725 Chesterbrook Blvd., Wayne, PA 19087, USA by Cosmo S.p.A., Milan, Italy.
+By license of Giuliani S.p.A., Milan Italy.
 
-725 Chesterbrook Blvd., Wayne, PA 19087, USA
+U.S. Patent No. 6,773,720.
 
-© 2010 Shire US Inc.
-
-U.S. Patent No. 6,773,720 by license of Giuliani S.p.A., Milan, Italy
-
-MMX® is a registered trademark of Cosmo Technologies Ltd, Wicklow, Ireland.
-
-MMX Multi Matrix System® is a registered trademark of Cosmo S.p.A., Milan, Italy.
+© 2011 Shire US Inc.

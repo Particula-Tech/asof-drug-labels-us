@@ -1,37 +1,39 @@
 # 6 ADVERSE REACTIONS
 
+The most serious adverse reactions seen in Lialda clinical trials or with other products that contain or are metabolized to mesalamine are:
+
+- Renal impairment, including renal failure [See Warnings and Precautions (5.1)]
+- Mesalamine-induced acute intolerance syndrome [See Warnings and Precautions (5.2)]
+- Hypersensitivity reactions [See Warnings and Precautions (5.3)]
+- Hepatic impairment, including hepatic failure [See Warnings and Precautions (5.4)]
+
 ## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-LIALDA tablets have been evaluated in 655 ulcerative colitis patients in controlled and open-label trials.
+LIALDA has been evaluated in 1368 ulcerative colitis patients in controlled and open-label trials.
+
+Induction of Remission
 
 In two 8-week placebo-controlled clinical trials involving 535 ulcerative colitis patients, 356 received 2.4 g/day or 4.8 g/day LIALDA tablets and 179 received placebo.
-More treatment emergent adverse events occurred in the placebo group (119) than in each of the LIALDA treatment groups (109 in 2.4 g/day, 92 in 4.8 g/day).
-A lower percentage of LIALDA patients discontinued therapy due to adverse events compared to placebo (2.2% vs. 7.3%).
-The most frequent adverse event leading to discontinuation from LIALDA therapy was exacerbation of ulcerative colitis (0.8%).
-
-The majority of adverse events in the double blind, placebo-controlled trials were mild or moderate in severity.
-The percentage of patients with severe adverse events was higher in the placebo group (6.1% in placebo; 1.1% in 2.4 g/day; 2.2% in 4.8 g/day).
-The most common severe adverse events were gastrointestinal disorders which were mainly symptoms associated with ulcerative colitis.
+The most frequent adverse reaction leading to discontinuation from LIALDA therapy was exacerbation of ulcerative colitis (0.8%).
 Pancreatitis occurred in less than 1% of patients during clinical trials and resulted in discontinuation of therapy with LIALDA in patients experiencing this event.
 
-Overall, the percentage of patients who experienced any adverse event was similar across treatment groups.
-Treatment related adverse events occurring in LIALDA or placebo groups at a frequency of at least 1% in two Phase 3, 8-week, double blind, placebo-controlled trials are listed in Table 1.
-The most common treatment related adverse events with LIALDA 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
+Adverse reactions occurring in LIALDA or placebo groups at a frequency of at least 1% in two 8-week, double blind, placebo-controlled trials are listed in Table 1.
+The most common adverse reactions with LIALDA 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
 
-Table 1: Treatment-Emergent Related Adverse Events in Two Phase 3 Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placebo a,b
+Table 1: Adverse Reactions in Two Eight-Week Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than Placeboa
 
-| Event | LIALDA 2.4 g/day (n = 177) | LIALDA 4.8 g/day (n = 179) | Placebo (n = 179) |
+| Adverse Reaction | LIALDA 2.4 g/day (n = 177) | LIALDA 4.8 g/day (n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
 | Headache | 10 (5.6%) | 6 (3.4%) | 1 (0.6%) |
 | Flatulence | 7 (4%) | 5 (2.8%) | 5 (2.8%) |
-| Increased alanine aminotransferase | 1 (0.6%) | 2 (1.1%) | 0 |
+| Liver Function Test Abnormal | 1 (0.6%) | 4(2.2%) | 2 (1.1%) |
 | Alopecia | 0 | 2 (1.1%) | 0 |
 | Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
-| a: Treatment-emergent related adverse events for which the placebo rate equalled or exceeded the rate for at least one of the LIALDA treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. b: Percentages in this table are based on the treatment-emergent adverse event incidences. |  |  |  |
+| a: Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the LIALDA treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
 
-The following treatment-emergent related adverse events, presented by body system, were reported infrequently (less than 1%) by LIALDA-treated ulcerative colitis patients in the two Phase 3 controlled trials.
+The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by LIALDA-treated ulcerative colitis patients in the two controlled trials.
 
 Cardiac Disorder: tachycardia
 
@@ -41,7 +43,7 @@ Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, urticaria
 
 Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, pancreatitis, rectal polyp, vomiting
 
-Investigations: decreased platelet count, elevated total bilirubin
+Investigations: decreased platelet count
 
 Musculoskeletal and Connective Tissue Disorders: arthralgia, back pain
 
@@ -53,10 +55,54 @@ General Disorders and Administrative Site Disorders: asthenia, face edema, fatig
 
 Ear and Labyrinth Disorders: ear pain
 
+Maintenance of Remission of Ulcerative Colitis
+
+The dose evaluated in three studies of LIALDA given for the maintenance of remission in patients with ulcerative colitis was 1.2 g twice daily or 2.4 g/once daily.
+One of these studies was a 6-month double-blind comparator study while two were 12- to 14-month open-label studies.
+
+The most common adverse reactions with LIALDA in the maintenance arms of long-term trials were colitis ulcerative (5.8%), headache (2.9%), liver function test abnormal (2.3%), and abdominal pain (2.2%).
+Of the 1082 subjects in the all maintenance studies pooled, 1.9% had severe adverse reactions.
+The most common severe adverse reactions were gastrointestinal disorders; these were mainly symptoms associated with ulcerative colitis.
+
+Table 2: Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the LIALDA Group (maintenance phases of trials)
+
+|  | All LIALDA (n=1082) |  |
+| --- | --- | --- |
+| Adverse Reaction | n | % |
+| Colitis ulcerative | 63 | (5.8%) |
+| Headache | 31 | (2.9%) |
+| Liver function test abnormal | 25 | (2.3%) |
+| Abdominal pain | 24 | (2.2%) |
+| Diarrhea | 18 | (1.7%) |
+| Abdominal distension | 14 | (1.3%) |
+| Abdominal pain upper | 13 | (1.2%) |
+| Dyspepsia | 13 | (1.2%) |
+| Back pain | 13 | (1.2%) |
+| Rash | 13 | (1.2%) |
+| Arthralgia | 12 | (1.1%) |
+| Fatigue | 11 | (1.0%) |
+| Hypertension | 10 | (1.0%) |
+
+The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by LIALDA-treated ulcerative colitis patients in the three long-term maintenance trials (maintenance phases of these trials):
+
+Cardiac Disorder: tachycardia
+
+Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritis, urticaria
+
+Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
+
+Nervous System Disorders: dizziness
+
+Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain
+
+General Disorders and Administrative Site Disorders: asthenia, pyrexia
+
+Ear and Labyrinth Disorders: ear pain
+
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported above in clinical trials involving LIALDA, the adverse events listed below have been identified during post-approval use of LIALDA and in controlled clinical trials, open label studies, literature reports, or foreign and domestic marketing experience with other products that contain or are metabolized to mesalamine.
-Because many of these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+In addition to the adverse reactions reported above in clinical trials involving LIALDA, the adverse reactions listed below have been identified during post-approval use of LIALDA and other mesalamine-containing products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: lupus-like syndrome, drug fever
 

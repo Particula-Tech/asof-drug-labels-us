@@ -1,3 +1,3 @@
-# 3 DOSAGE FORM AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-Red-brown ellipsoidal tablet debossed on one side imprinted with S476 containing 1.2 g mesalamine.
+The red-brown ellipsoidal delayed-release tablet containing 1.2 g mesalamine is debossed on one side and imprinted with S476.

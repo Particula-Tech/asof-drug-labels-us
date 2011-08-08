@@ -16,7 +16,6 @@ No evidence of mutagenicity was observed in an in vitro Ames test or an in vivo 
 Impairment of Fertility
 
 No effects on fertility or reproductive performance were observed in male or female rats at oral doses of mesalamine up to 400 mg/kg/day (0.7 times the maximum recommended human dose based on a body surface area comparison).
-Semen abnormalities and infertility in men, which have been reported in association with sulfasalazine, have not been seen with other mesalamine products during controlled clinical trials.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
