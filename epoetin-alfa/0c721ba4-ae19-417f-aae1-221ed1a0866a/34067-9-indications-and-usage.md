@@ -1,38 +1,30 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Treatment of Anemia of Chronic Renal Failure Patients
+## 1.1 Anemia Due to Chronic Kidney Disease
 
-PROCRIT® is indicated for the treatment of anemia associated with CRF, including patients on dialysis and patients not on dialysis.
-PROCRIT® is indicated to elevate or maintain the red blood cell level (as manifested by the hematocrit or hemoglobin determinations) and to decrease the need for transfusions in these patients.
+PROCRIT is indicated for the treatment of anemia due to chronic kidney disease (CKD), including patients on dialysis and not on dialysis to decrease the need for red blood cell (RBC) transfusion.
 
-Non-dialysis patients with symptomatic anemia considered for therapy should have a hemoglobin less than 10 g/dL.
+## 1.2 Anemia Due to Zidovudine in HIV-infected Patients
 
-PROCRIT® is not intended for patients who require immediate correction of severe anemia.
-PROCRIT® may obviate the need for maintenance transfusions but is not a substitute for emergency transfusion.
+PROCRIT is indicated for the treatment of anemia due to zidovudine administered at ≤ 4200 mg/week in HIV-infected patients with endogenous serum erythropoietin levels of ≤ 500 mUnits/mL.
 
-Prior to initiation of therapy, the patient's iron stores should be evaluated.
-Transferrin saturation should be at least 20% and ferritin at least 100 ng/mL.
-Blood pressure should be adequately controlled prior to initiation of PROCRIT® therapy, and must be closely monitored and controlled during therapy.
+## 1.3 Anemia Due to Chemotherapy in Patients With Cancer
 
-## Treatment of Anemia in Zidovudine-treated HIV-infected Patients
+PROCRIT is indicated for the treatment of anemia in patients with non-myeloid malignancies where anemia is due to the effect of concomitant myelosuppressive chemotherapy, and upon initiation, there is a minimum of two additional months of planned chemotherapy.
 
-PROCRIT® is indicated for the treatment of anemia related to therapy with zidovudine in HIV-infected patients.
-PROCRIT® is indicated to elevate or maintain the red blood cell level (as manifested by the hematocrit or hemoglobin determinations) and to decrease the need for transfusions in these patients.
-PROCRIT® is not indicated for the treatment of anemia in HIV-infected patients due to other factors such as iron or folate deficiencies, hemolysis, or gastrointestinal bleeding, which should be managed appropriately.
-PROCRIT® use has not been demonstrated in controlled clinical trials to improve symptoms of anemia, quality of life, fatigue, or patient well-being.
+## 1.4 Reduction of Allogeneic Red Blood Cell Transfusions in Patients Undergoing Elective, Noncardiac, Nonvascular Surgery
 
-PROCRIT®, at a dose of 100 Units/kg TIW, is effective in decreasing the transfusion requirement and increasing the red blood cell level of anemic, HIV-infected patients treated with zidovudine, when the endogenous serum erythropoietin level is ≤ 500 mUnits/mL and when patients are receiving a dose of zidovudine ≤ 4200 mg/week.
+PROCRIT is indicated to reduce the need for allogeneic RBC transfusions among patients with perioperative hemoglobin > 10 to ≤ 13 g/dL who are at high risk for perioperative blood loss from elective, noncardiac, nonvascular surgery.
+PROCRIT is not indicated for patients who are willing to donate autologous blood pre-operatively.
 
-## Treatment of Anemia in Cancer Patients on Chemotherapy
+## 1.5 Limitations of Use
 
-PROCRIT® is indicated for the treatment of anemia due to the effect of concomitantly administered chemotherapy based on studies that have shown a reduction in the need for RBC transfusions in patients with metastatic, non-myeloid malignancies receiving chemotherapy for a minimum of 2 months.
-Studies to determine whether PROCRIT® increases mortality or decreases progression-free/recurrence-free survival are ongoing.
+PROCRIT has not been shown to improve quality of life, fatigue, or patient well-being.
 
-- PROCRIT® is not indicated for use in patients receiving hormonal agents, therapeutic biologic products, or radiotherapy unless receiving concomitant myelosuppressive chemotherapy.
-- PROCRIT® is not indicated for patients receiving myelosuppressive therapy when the anticipated outcome is cure due to the absence of studies that adequately characterize the impact of PROCRIT ® on progression-free and overall survival (see WARNINGS: Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence).
-- PROCRIT ® is not indicated for the treatment of anemia in cancer patients due to other factors such as iron or folate deficiencies, hemolysis, or gastrointestinal bleeding (see PRECAUTIONS: Lack or Loss of Response).
-- PROCRIT ® use has not been demonstrated in controlled clinical trials to improve symptoms of anemia, quality of life, fatigue, or patient well-being.
+PROCRIT is not indicated for use:
 
-## Reduction of Allogeneic Blood Transfusion in Surgery Patients
-
-PROCRIT® is indicated for the treatment of anemic patients (hemoglobin > 10 to ≤ 13 g/dL) who are at high risk for perioperative blood loss from elective, noncardiac, nonvascular surgery to reduce the need for allogeneic blood transfusions.17–19 PROCRIT® is not indicated for anemic patients who are willing to donate autologous blood (see BOXED WARNINGS and DOSAGE AND ADMINISTRATION).
+- In patients with cancer receiving hormonal agents, biologic products, or radiotherapy, unless also receiving concomitant myelosuppressive chemotherapy.
+- In patients with cancer receiving myelosuppressive chemotherapy when the anticipated outcome is cure.
+- In patients scheduled for surgery who are willing to donate autologous blood.
+- In patients undergoing cardiac or vascular surgery.
+- As a substitute for RBC transfusions in patients who require immediate correction of anemia [see Clinical Pharmacology (12.2)].

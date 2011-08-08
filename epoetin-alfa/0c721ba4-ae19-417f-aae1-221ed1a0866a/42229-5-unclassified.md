@@ -1,175 +1,211 @@
-# PREPARATION AND ADMINISTRATION OF PROCRIT®
+PROCRIT® (epoetin alfa)
 
-1. Do not shake.
-   It is not necessary to shake PROCRIT®.
-   Prolonged vigorous shaking may denature any glycoprotein, rendering it biologically inactive.
-2. Protect the solution from light.
-   Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
-   Do not use any vials exhibiting particulate matter or discoloration.
-3. Using aseptic techniques, attach a sterile needle to a sterile syringe.
-   Remove the flip top from the vial containing PROCRIT®, and wipe the septum with a disinfectant.
-   Insert the needle into the vial, and withdraw into the syringe an appropriate volume of solution.
-4. Single-dose: 1 mL vial contains no preservative.
-   Use one dose per vial; do not re-enter the vial.
-   Discard unused portions.
-   Multidose: 1 mL and 2 mL vials contain preservative.
-   Store at 2° to 8° C after initial entry and between doses.
-   Discard 21 days after initial entry.
-5. Do not dilute or administer in conjunction with other drug solutions.
-   However, at the time of SC administration, preservative-free PROCRIT® from single-use vials may be admixed in a syringe with bacteriostatic 0.9% sodium chloride injection, USP, with benzyl alcohol 0.9% (bacteriostatic saline) at a 1:1 ratio using aseptic technique.
-   The benzyl alcohol in the bacteriostatic saline acts as a local anesthetic which may ameliorate SC injection site discomfort.
-   Admixing is not necessary when using the multidose vials of PROCRIT® containing benzyl alcohol.
+Manufactured by: Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
-# REFERENCES
+Distributed for: Centocor Ortho Biotech Products, L.P.
+Raritan, New Jersey 08869-0670 ©COBPLP 2000 Printed in U. S. A.
 
-1. Egrie JC, Strickland TW, Lane J, et al. Characterization and Biological Effects of Recombinant Human Erythropoietin.
-   Immunobiol.
-   1986;72:213–224.
-2. Graber SE, Krantz SB.
-   Erythropoietin and the Control of Red Cell Production.
-   Ann Rev Med.
-   1978;29:51–66.
-3. Eschbach JW, Adamson JW.
-   Anemia of End-Stage Renal Disease (ESRD).
-   Kidney Intl.
-   1985;28:1–5.
-4. Eschbach JW, Egrie JC, Downing MR, et al. Correction of the Anemia of End-Stage Renal Disease with Recombinant Human Erythropoietin.
-   NEJM.
-   1987;316:73–78.
-5. Eschbach JW, Abdulhadi MH, Browne JK, et al. Recombinant Human Erythropoietin in Anemic Patients with End-Stage Renal Disease.
-   Ann Intern Med.
-   1989;111:992–1000.
-6. Eschbach JW, Egrie JC, Downing MR, et al. The Use of Recombinant Human Erythropoietin (r-HuEPO): Effect in End-Stage Renal Disease (ESRD).
-   In: Friedman, Beyer, DeSanto, Giordano, eds.
-   Prevention of Chronic Uremia.
-   Philadelphia, PA: Field and Wood Inc. 1989: 148–155.
-7. Egrie JC, Eschbach JW, McGuire T, Adamson JW.
-   Pharmacokinetics of Recombinant Human Erythropoietin (r-HuEPO) Administered to Hemodialysis (HD) Patients.
-   Kidney Intl.
-   1988;33:262.
-8. Paganini E, Garcia J, Ellis P, et al. Clinical Sequelae of Correction of Anemia with Recombinant Human Erythropoietin (r-HuEPO); Urea Kinetics, Dialyzer Function and Reuse.
-   Am J Kid Dis.
-   1988;11:16.
-9. Delano BG, Lundin AP, Golansky R, et al. Dialyzer Urea and Creatinine Clearances Not Significantly Changed in r-HuEPO Treated Maintenance Hemodialysis (MD) Patients.
-   Kidney Intl.
-   1988;33:219.
-10. Stivelman J, Van Wyck D, Ogden D. Use of Recombinant Erythropoietin (r-HuEPO) with High Flux Dialysis (HFD) Does Not Worsen Azotemia or Shorten Access Survival.
-    Kidney Intl.
-    1988;33:239.
-11. Lim VS, DeGowin RL, Zavala D, et al. Recombinant Human Erythropoietin Treatment in Pre-Dialysis Patients: A Double-Blind Placebo Controlled Trial.
-    Ann Int Med.
-    1989;110:108–114.
-12. Stone WJ, Graber SE, Krantz SB, et al. Treatment of the Anemia of Pre-Dialysis Patients with Recombinant Human Erythropoietin: A Randomized, Placebo-Controlled Trial.
-    Am J Med Sci.
-    1988;296:171–179.
-13. Braun A, Ding R, Seidel C, Fies T, Kurtz A, Scharer K. Pharmacokinetics of recombinant human erythropoietin applied subcutaneously to children with chronic renal failure.
-    Pediatr Nephrol.
-    1993;7:61–64.
-14. Geva P, Sherwood JB.
-    Pharmacokinetics of recombinant human erythropoietin (rHuEPO) in pediatric patients on chronic cycling peritoneal dialysis (CCPD).
-    Blood.
-    1991;78 (Suppl 1):91a.
-15. Jabs K, Grant JR, Harmon W, et al. Pharmacokinetics of Epoetin alfa (rHuEPO) in pediatric hemodialysis (HD) patients.
-    J Am Soc Nephrol.
-    1991;2:380.
-16. Kling PJ, Widness JA, Guillery EN, Veng-Pedersen P, Peters C, DeAlarcon PA.
-    Pharmacokinetics and pharmacodynamics of erythropoietin during therapy in an infant with renal failure.
-    J Pediatr.
-    1992;121:822–825.
-17. deAndrade JR and Jove M. Baseline Hemoglobin as a Predictor of Risk of Transfusion and Response to Epoetin alfa in Orthopedic Surgery Patients.
-    Am.
-    J. of Orthoped.
-    1996;25 (8):533–542.
-18. Goldberg MA and McCutchen JW.
-    A Safety and Efficacy Comparison Study of Two Dosing Regimens of Epoetin alfa in Patients Undergoing Major Orthopedic Surgery.
-    Am.
-    J. of Orthoped.
-    1996;25 (8):544–552.
-19. Faris PM and Ritter MA.
-    The Effects of Recombinant Human Erythropoietin on Perioperative Transfusion Requirements in Patients Having a Major Orthopedic Operation.
-    J. Bone and Joint Surgery.
-    1996;78-A:62–72.
-20. Amgen Inc., data on file.
-21. Eschbach JW, Kelly MR, Haley NR, et al. Treatment of the Anemia of Progressive Renal Failure with Recombinant Human Erythropoietin.
-    NEJM.
-    1989;321:158–163.
-22. The US Recombinant Human Erythropoietin Predialysis Study Group.
-    Double-Blind, Placebo-Controlled Study of the Therapeutic Use of Recombinant Human Erythropoietin for Anemia Associated with Chronic Renal Failure in Predialysis Patients.
-    Am J Kid Dis.
-    1991;18:50–59.
-23. Ortho Biologics, Inc., data on file.
-24. Danna RP, Rudnick SA, Abels RI.
-    Erythropoietin Therapy for the Anemia Associated with AIDS and AIDS Therapy and Cancer.
-    In: MB Garnick, ed.
-    Erythropoietin in Clinical Applications - An International Perspective.
-    New York, NY: Marcel Dekker; 1990:301–324.
-25. Fischl M, Galpin JE, Levine JD, et al. Recombinant Human Erythropoietin for Patients with AIDS Treated with Zidovudine.
-    NEJM.
-    1990;322:1488–1493.
-26. Laupacis A. Effectiveness of Perioperative Recombinant Human Erythropoietin in Elective Hip Replacement.
-    Lancet.
-    1993;341:1228–1232.
-27. Campos A, Garin EH.
-    Therapy of renal anemia in children and adolescents with recombinant human erythropoietin (rHuEPO).
-    Clin Pediatr (Phila).
-    1992;31:94–99.
-28. Montini G, Zacchello G, Baraldi E, et al. Benefits and risks of anemia correction with recombinant human erythropoietin in children maintained by hemodialysis.
-    J Pediatr.
-    1990;117:556–560.
-29. Offner G, Hoyer PF, Latta K, Winkler L, Brodehl J, Scigalla P. One year's experience with recombinant erythropoietin in children undergoing continuous ambulatory or cycling peritoneal dialysis.
-    Pediatr Nephrol.
-    1990;4:498–500.
-30. Muller-Wiefel DE, Scigalla P. Specific problems of renal anemia in childhood.
-    Contrib Nephrol.
-    1988;66:71–84.
-31. Scharer K, Klare B, Dressel P, Gretz N. Treatment of renal anemia by subcutaneous erythropoietin in children with preterminal chronic renal failure.
-    Acta Paediatr.
-    1993;82:953–958.
-32. Mueller BU, Jacobsen RN, Jarosinski P, et al. Erythropoietin for zidovudine-associated anemia in children with HIV infection.
-    Pediatr AIDS and HIV Infect: Fetus to Adolesc.
-    1994;5:169–173.
-33. Zuccotti GV, Plebani A, Biasucci G, et al. Granulocyte-colony stimulating factor and erythropoietin therapy in children with human immunodeficiency virus infection.
-    J Int Med Res.
-    1996;24:115–121.
-34. Raskin NH, Fishman RA.
-    Neurologic Disorders in Renal Failure (First of Two Parts).
-    NEJM.
-    1976;294:143–148.
-35. Raskin NH and Fishman RA.
-    Neurologic Disorders in Renal Failure (Second of Two Parts).
-    NEJM.
-    1976;294:204–210.
-36. Messing RO, Simon RP.
-    Seizures as a Manifestation of Systemic Disease.
-    Neurologic Clinics.
-    1986;4:563–584.
-37. Besarab A, Bolton WK, Browne JK, et al. The effects of normal as compared with low hematocrit values in patients with cardiac disease who are receiving hemodialysis and epoetin.
-    NEJM.
-    1998;339:584–90.
-38. Henke, M, Laszig, R, Rübe, C., et al. Erythropoietin to treat head and neck cancer patients with anaemia undergoing radiotherapy: randomized, double-blind, placebo-controlled trial.
-    The Lancet.
-    2003; 362:1255–1260.
-39. Widness JA, Veng-Pedersen P, Peters C, Pereira LM, Schmidt RL, Lowe SL.
-    Erythropoietin Pharmacokinetics in Premature Infants: Developmental, Nonlinearity, and Treatment Effects.
-    J Appl Physiol.
-    1996;80 (1):140–148.
-40. Singh AK, Szczech L, Tang KL, et al. Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease, N Engl j Med.
-    2006; 355:2085–98.
-41. Bohlius J, Wilson J, Seidenfeld J, et at.
-    Recombinant Human Erythropoietins and Cancer Patients: Updated Meta-Analysis of 57 Studies Including 9353 Patients.
-    J Natl Cancer Inst.
-    2006; 98:708–14.
-42. D'Ambra MN, Gray RJ, Hillman R, et al. Effect of Recombinant Human Erythropoietin on Transfusion Risk in Coronary Bypass Patients.
-    Ann Thorac Surg.
-    1997; 64: 1686–93.
-43. Leyland-Jones B, Semiglazov V, Pawlicki M, et al. Maintaining Normal Hemoglobin Levels With Epoetin Alfa in Mainly Nonanemic Patients With Metastatic Breast Cancer Receiving First-Line Chemotherapy: A Survival Study.
-    JCO.
-    2005; 23(25): 1–13.
+This product, the process of its manufacture, or its use, may be covered by one or more U.S. Patents, including U.S. Patent No. 5,441,868; 5,547,933; 5,618,698; 5,756,349; and 5,955,422.
 
-This product's label may have been revised after this insert was used in production.
-For further product information and the current package insert, please visit www.PROCRIT.com or call our Medical Information Group toll-free at 1 888 2ASK OBI (1-888-227-5624).
+Instructions for Use
+
+PROCRIT® (PRO'–KRIT) (epoetin alfa)
+
+Use these Instructions for Use if you or your caregiver has been trained to give PROCRIT injections at home.
+Do not give yourself the injection unless you have received training from your healthcare provider.
+If you are not sure about giving the injection or you have questions, ask your healthcare provider for help.
+
+Before reading these Instructions for Use, read the Medication Guide that comes with PROCRIT for the most important information you need to know.
+
+When you receive your PROCRIT vial and syringes make sure that:
+
+- The name PROCRIT appears on the carton and vial label.
+- The expiration date on the vial label has not passed.
+  Do not use a vial of PROCRIT after the expiration date on the label.
+- The dose strength of the PROCRIT vial (number of Units per mL on the vial label) is the same as your healthcare provider prescribed.
+- You understand what the dose strength of PROCRIT means.
+  PROCRIT vials come in several dose strengths.
+  For example, the dose strength may be described as 10,000 Units/mL on the vial label.
+  This strength means that 10,000 Units of medicine are contained in each 1 mL (milliliter) of liquid.
+  Your healthcare provider may also refer to a mL as a "cc."
+  One mL is the same as one "cc."
+- The PROCRIT liquid in the vial is clear and colorless.
+  Do not use PROCRIT if the liquid in the vial looks discolored or cloudy, or if the liquid has lumps, flakes, or particles.
+- The PROCRIT vial has a color cap on the top of the vial.
+  Do not use a vial of PROCRIT if the color cap on the top of the vial has been removed or is missing.
+- Use only the type of disposable syringe and needle that your healthcare provider has prescribed.
+- Do not shake PROCRIT.
+  Shaking could cause PROCRIT not to work.
+  If you shake PROCRIT, the solution in the vial may look foamy and should not be used.
+- Do not freeze PROCRIT.
+  Do not use a vial of PROCRIT that has been frozen.
+- Store PROCRIT in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep PROCRIT away from light.
+- Single-dose vials of PROCRIT should be used only one time.
+  Throw the vial away after use even if there is medicine left in the vial.
+- After removing a dose from the multidose vial, store the vial in the refrigerator (but not the freezer).
+  Do not store the vial for more than 21 days.
+- Throw away the multidose vial as directed by your healthcare provider:
+  - if there is not enough medicine left in the multidose vial for another dose, or
+  - if it has been more than 21 days since you first put a needle into the multidose vial.
+
+How should I prepare for an injection of PROCRIT?
+
+- Always keep an extra syringe and needle on hand.
+- Follow your healthcare provider's instructions on how to measure your dose of PROCRIT.
+  This dose will be measured in Units per mL or cc (1 mL is the same as 1 cc).
+  Use a syringe that is marked in tenths of mL (for example, 0.2 mL or 0.2 cc).
+  Using the wrong syringe can lead to a mistake in your dose and you could inject too much or too little PROCRIT.
+
+Only use disposable syringes and needles.
+Use the syringes and needles only one time and then throw them away as instructed by your healthcare provider.
+
+What do I need to know about the different types of PROCRIT vials?
+
+PROCRIT comes in two different types of vials.
+
+- Single-dose Vials
+- Multidose Vials
+
+The multidose vial of PROCRIT contains the preservative benzyl alcohol.
+Benzyl alcohol has been shown to cause brain damage, other serious side effects, and death in newborn and premature babies.
+PROCRIT that comes in single-dose vials does not contain benzyl alcohol.
+
+Important: Follow these instructions exactly to help avoid infections.
+
+Preparing the dose:
+
+1. Remove the vial of PROCRIT from the refrigerator.
+   During this time, protect the solution from light.
+2. Do not use a single-dose vial of PROCRIT more than one time.
+3. Do not shake PROCRIT.
+4. Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
+   See Figure 1.
+
+- 5.Check the date on the PROCRIT vial to be sure that the drug has not expired.
+- 6.Wash your hands well with soap and water before preparing the medicine.
+  See Figure 2.
+
+- 7.Flip off the protective color cap on the top of the vial.
+  Do not remove the grey rubber stopper.
+  Wipe the top of the grey rubber stopper with an alcohol wipe.
+  See Figures 3 and 4.
+
+| Figure 3 | Figure 4 |
+| --- | --- |
+
+- 8.Check the package containing the syringe.
+  If the package has been opened or damaged, do not use that syringe.
+  Throw away the syringe in the puncture-proof disposable container.
+  If the syringe package is undamaged, open the package and remove the syringe.
+- 9.Using a syringe and needle that has been recommended by your healthcare provider, carefully remove the needle cover.
+  See Figure 5.
+  Then draw air into the syringe by pulling back on the plunger.
+  The amount of air drawn into the syringe should be equal to the amount (mL or cc) of the PROCRIT dose prescribed by your healthcare provider.
+  See Figure 6.
+
+| Figure 5 | Figure 6 |
+| --- | --- |
+
+- 10.With the vial on a flat work surface, insert the needle straight down through the grey rubber stopper of the PROCRIT vial.
+  See Figure 7.
+- 11.Push the plunger of the syringe down to inject the air from the syringe into the vial of PROCRIT.
+  The air injected into the vial will allow PROCRIT to be easily withdrawn into the syringe.
+  See Figure 7.
+
+- 12.Keep the needle inside the vial.
+  Turn the vial and syringe upside down.
+  Be sure the tip of the needle is in the PROCRIT liquid.
+  Keep the vial upside down.
+  Slowly pull back on the plunger to fill the syringe with PROCRIT liquid to the number (mL or cc) that matches the dose your healthcare provider prescribed.
+  See Figure 8.
+
+- 13.Keep the needle in the vial.
+  Check for air bubbles in the syringe.
+  A small amount of air is harmless.
+  Too large an air bubble will give you the wrong PROCRIT dose.
+  To remove air bubbles, gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe.
+  Slowly push the plunger up to force the air bubbles out of the syringe.
+  Keep the tip of the needle in the PROCRIT liquid.
+  Pull the plunger back to the number on the syringe that matches your dose.
+  Check again for air bubbles.
+  If there are still air bubbles, repeat the steps above to remove them.
+  See Figures 9 and 10.
+
+| Figure 9 | Figure 10 |
+| --- | --- |
+
+- 14.Double-check that you have the correct dose in the syringe.
+  Lay the vial down on its side with the needle still in it until after you have selected and prepared your site for injection.
+
+Selecting and preparing the injection site:
+
+PROCRIT can be injected into your body using two different ways (routes) as described below.
+Follow your healthcare provider's instructions about how you should inject PROCRIT.
+In patients on hemodialysis, the intravenous (IV) route is recommended.
+
+- 1.Subcutaneous Route:
+  - PROCRIT can be injected directly into a layer of fat under your skin.
+    This is called a subcutaneous injection.
+    When giving subcutaneous injections, follow your healthcare provider's instructions about changing the site for each injection.
+    You may wish to write down the site where you have injected.
+  - Do not inject PROCRIT into an area that is tender, red, bruised, hard, or has scars or stretch marks.
+    Recommended sites for injection are shown in Figure 11 below, including:
+    - The outer area of the upper arms
+    - The abdomen (except for the 2-inch area around the navel)
+    - The front of the middle thighs
+    - The upper outer area of the buttocks
+  - Clean the skin with an alcohol wipe where the injection is to be made.
+    Be careful not to touch the skin that has been wiped clean.
+    See Figure 12.
+  - Double-check that the correct amount of PROCRIT is in the syringe.
+  - Remove the prepared syringe and needle from the vial of PROCRIT and hold it in the hand that you will use to inject the medicine.
+  - Use the other hand to pinch a fold of skin at the cleaned injection site.
+    Do not touch the cleaned area of skin.
+    See Figure 13.
+  - Hold the syringe like you would hold a pencil.
+    Use a quick "dart-like" motion to insert the needle either straight up and down (90-degree angle) or at a slight angle (45 degrees) into the skin.
+    Inject the prescribed dose subcutaneously as directed by your doctor, nurse or pharmacist.
+    See Figure 14.
+  - Pull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
+    Do not recap the needle.
+  - Dispose of the used syringe and needle as described below.
+    Do not reuse syringes and needles.
+- 2.Intravenous Route:
+  - PROCRIT can be injected in your vein through a special access port placed by your healthcare provider.
+    This type of PROCRIT injection is called an intravenous (IV) injection.
+    This route is usually for hemodialysis patients.
+  - If you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
+    Be sure to let your healthcare provider know right away if you are having any problems, or if you have any questions.
+  - Wipe off the venous port of the hemodialysis tubing with an alcohol wipe.
+    See Figure 15.
+  - Insert the needle of the syringe into the cleaned venous port and push the plunger all the way down to inject all the PROCRIT.
+    See Figure 16.
+  - Remove the syringe from the venous port.
+    Do not recap the needle.
+  - Dispose of the used syringe and needle as described below.
+
+How should I dispose of the vials, syringes, and needles?
+
+Do not reuse the single-dose vials, syringes, or needles.
+Throw away the vials, syringes, and needles as instructed by your healthcare provider or by following these steps:
+
+- Do not throw the vials, syringes, or needles in the household trash or recycle.
+- Do not put the needle cover back on the needle.
+- Place all used needles and syringes in a puncture-proof disposable container with a lid.
+  Do not use glass or clear plastic containers, or any container that will be recycled or returned to a store.
+- Keep the puncture-proof disposable container out of the reach of children.
+- When the puncture-proof disposable container is full, tape around the cap or lid to make sure the cap or lid does not come off.
+  Throw away the puncture-proof disposable container as instructed by your healthcare provider.
+  There may be special state and local laws for disposing of used needles and syringes.
+  Do not throw the puncture-proof disposable container in the household trash.
+  Do not recycle.
+
+Keep PROCRIT and all medicines out of reach of children.
+
+These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
 
-Manufactured for: Centocor Ortho Biotech Products, L.P.
-Raritan, New Jersey 08869-0670 Revised: 02/2010 xxxxxxx © COBPLP 2000 Printed in U. S. A.
+Distributed by: Centocor Ortho Biotech Products, L.P.
+Raritan, New Jersey 08869-0670 Revised: 06/2011 © COBPLP 2000 Printed in U. S. A.

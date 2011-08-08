@@ -1,188 +1,170 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Immunogenicity
+The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-As with all therapeutic proteins, there is the potential for immunogenicity.
-Neutralizing antibodies to erythropoietin, in association with PRCA or severe anemia (with or without other cytopenias), have been reported in patients receiving PROCRIT® (see WARNINGS: Pure Red Cell Aplasia) during post-marketing experience.
+- Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
+- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Seizures [see Warnings and Precautions (5.5)]
+- PRCA [see Warnings and Precautions (5.7)]
+- Serious allergic reactions [see Warnings and Precautions (5.8)]
 
-There has been no systematic assessment of immune responses, i.e., the incidence of either binding or neutralizing antibodies to PROCRIT®, in controlled clinical trials.
+## 6.1 Clinical Trial Experience
 
-Where reported, the incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies across products within this class (erythropoietic proteins) may be misleading.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
 
-## Chronic Renal Failure Patients
+Patients with Chronic Kidney Disease
 
-In double-blind, placebo-controlled studies involving over 300 patients with CRF, the events reported in greater than 5% of patients treated with PROCRIT® during the blinded phase were:
+Adult Patients
 
-Percent of Patients Reporting Event
+Three double-blind, placebo-controlled studies, including 244 patients with CKD on dialysis, were used to identify the adverse reactions to PROCRIT.
+In these studies, the mean age of patients was 48 years (range: 20 to 80 years).
+One hundred and thirty-three (55%) patients were men.
+The racial distribution was as follows: 177 (73%) patients were white, 48 (20%) patients were black, 4 (2%) patients were Asian, 12 (5%) patients were other, and racial information was missing for 3 (1%) patients.
 
-| Event | (n = 200) | (n = 135) |
+Two double-blind, placebo-controlled studies, including 210 patients with CKD not on dialysis, were used to identify the adverse reactions to PROCRIT.
+In these studies, the mean age of patients was 57 years (range: 24 to 79 years).
+One hundred and twenty-one (58%) patients were men.
+The racial distribution was as follows: 164 (78%) patients were white, 38 (18%) patients were black, 3 (1%) patients were Asian, 3 (1%) patients were other, and racial information was missing for 2 (1%) patients.
+
+The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
+
+Table 3.
+Adverse Reactions in Patients With CKD on Dialysis
+
+| Adverse Reaction | PROCRIT-treated Patients (n = 148) | Placebo-treated Patients (n = 96) |
 | --- | --- | --- |
-|  | Patients Treated With PROCRIT® | Placebo-treated Patients |
-| Hypertension | 24% | 19% |
-| Headache | 16% | 12% |
-| Arthralgias | 11% | 6% |
-| Nausea | 11% | 9% |
-| Edema | 9% | 10% |
-| Fatigue | 9% | 14% |
-| Diarrhea | 9% | 6% |
-| Vomiting | 8% | 5% |
-| Chest Pain | 7% | 9% |
-| Skin Reaction (Administration Site) | 7% | 12% |
-| Asthenia | 7% | 12% |
-| Dizziness | 7% | 13% |
-| Clotted Access | 7% | 2% |
-| Significant adverse events of concern in patients with CRF treated in double-blind, placebo-controlled trials occurred in the following percent of patients during the blinded phase of the studies: |  |  |
-| Seizure | 1.1% | 1.1% |
-| CVA/TIA | 0.4% | 0.6% |
-| MI | 0.4% | 1.1% |
-| Death | 0% | 1.7% |
+| Hypertension | 27.7% | 12.5% |
+| Arthralgia | 16.2% | 3.1% |
+| Muscle spasm | 7.4% | 6.3% |
+| Pyrexia | 10.1% | 8.3% |
+| Dizziness | 9.5% | 8.3% |
+| Medical Device Malfunction (artificial kidney clotting during dialysis) | 8.1% | 4.2% |
+| Vascular Occlusion (vascular access thrombosis) | 8.1% | 2.1% |
+| Upper respiratory tract infection | 6.8% | 5.2% |
 
-In the US PROCRIT® studies in adult patients on dialysis (over 567 patients), the incidence (number of events per patient-year) of the most frequently reported adverse events were: hypertension (0.75), headache (0.40), tachycardia (0.31), nausea/vomiting (0.26), clotted vascular access (0.25), shortness of breath (0.14), hyperkalemia (0.11), and diarrhea (0.11).
-Other reported events occurred at a rate of less than 0.10 events per patient per year.
+An additional serious adverse reaction that occurred in less than 5% of epoetin alfa-treated dialysis patients and greater than placebo was thrombosis (2.7% PROCRIT and 1% placebo) [see Warnings and Precautions (5.1)].
 
-Events reported to have occurred within several hours of administration of PROCRIT® were rare, mild, and transient, and included injection site stinging in dialysis patients and flu-like symptoms such as arthralgias and myalgias.
+The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
-In all studies analyzed to date, PROCRIT® administration was generally well-tolerated, irrespective of the route of administration.
+Table 4.
+Adverse Reactions in Patients With CKD Not on Dialysis
 
-### Pediatric CRF Patients
-
-In pediatric patients with CRF on dialysis, the pattern of most adverse events was similar to that found in adults.
-Additional adverse events reported during the double-blind phase in >10% of pediatric patients in either treatment group were: abdominal pain, dialysis access complications including access infections and peritonitis in those receiving peritoneal dialysis, fever, upper respiratory infection, cough, pharyngitis, and constipation.
-The rates are similar between the treatment groups for each event.
-
-### Hypertension
-
-Increases in blood pressure have been reported in clinical trials, often during the first 90 days of therapy.
-On occasion, hypertensive encephalopathy and seizures have been observed in patients with CRF treated with PROCRIT®.
-When data from all patients in the US phase 3 multicenter trial were analyzed, there was an apparent trend of more reports of hypertensive adverse events in patients on dialysis with a faster rate of rise of hematocrit (greater than 4 hematocrit points in any 2-week period).
-However, in a double-blind, placebo-controlled trial, hypertensive adverse events were not reported at an increased rate in the group treated with PROCRIT® (150 Units/kg TIW) relative to the placebo group.
-
-### Seizures
-
-There have been 47 seizures in 1010 patients on dialysis treated with PROCRIT® in clinical trials, with an exposure of 986 patient-years for a rate of approximately 0.048 events per patient-year.
-However, there appeared to be a higher rate of seizures during the first 90 days of therapy (occurring in approximately 2.5% of patients) when compared to subsequent 90-day periods.
-The baseline incidence of seizures in the untreated dialysis population is difficult to determine; it appears to be in the range of 5% to 10% per patient-year.34–36
-
-### Thrombotic Events
-
-In clinical trials where the maintenance hematocrit was 35 ± 3% on PROCRIT®, clotting of the vascular access (A-V shunt) has occurred at an annualized rate of about 0.25 events per patient-year, and other thrombotic events (eg, myocardial infarction, cerebral vascular accident, transient ischemic attack, and pulmonary embolism) occurred at a rate of 0.04 events per patient-year.
-In a separate study of 1111 untreated dialysis patients, clotting of the vascular access occurred at a rate of 0.50 events per patient-year.
-However, in CRF patients on hemodialysis who also had clinically evident ischemic heart disease or congestive heart failure, the risk of A-V shunt thrombosis was higher (39% vs 29%, p < 0.001), and myocardial infarctions, vascular ischemic events, and venous thrombosis were increased, in patients targeted to a hematocrit of 42 ± 3% compared to those maintained at 30 ± 3% (see WARNINGS).
-
-In patients treated with commercial PROCRIT®, there have been rare reports of serious or unusual thromboembolic events including migratory thrombophlebitis, microvascular thrombosis, pulmonary embolus, and thrombosis of the retinal artery, and temporal and renal veins.
-A causal relationship has not been established.
-
-### Allergic Reactions
-
-There have been no reports of serious allergic reactions or anaphylaxis associated with PROCRIT® administration during clinical trials.
-Skin rashes and urticaria have been observed rarely and when reported have generally been mild and transient in nature.
-
-There have been rare reports of potentially serious allergic reactions including urticaria with associated respiratory symptoms or circumoral edema, or urticaria alone.
-Most reactions occurred in situations where a causal relationship could not be established.
-Symptoms recurred with rechallenge in a few instances, suggesting that allergic reactivity may occasionally be associated with PROCRIT® therapy.
-If an anaphylactoid reaction occurs, PROCRIT® should be immediately discontinued and appropriate therapy initiated.
-
-## Zidovudine-treated HIV-infected Patients
-
-In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated HIV-infected patients, adverse events with an incidence of ≥ 10% in either patients treated with PROCRIT® or placebo-treated patients were:
-
-Percent of Patients Reporting Event
-
-| Event | (n = 144) | (n = 153) |
+| Adverse Reactions | PROCRIT-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
 | --- | --- | --- |
-|  | Patients Treated With PROCRIT® | Placebo-treated Patients |
-| Pyrexia | 38% | 29% |
-| Fatigue | 25% | 31% |
-| Headache | 19% | 14% |
-| Cough | 18% | 14% |
-| Diarrhea | 16% | 18% |
-| Rash | 16% | 8% |
-| Congestion, Respiratory | 15% | 10% |
-| Nausea | 15% | 12% |
-| Shortness of Breath | 14% | 13% |
-| Asthenia | 11% | 14% |
-| Skin Reaction, Medication Site | 10% | 7% |
-| Dizziness | 9% | 10% |
+| Hypertension | 13.7% | 10.1% |
+| Arthralgia | 12.2% | 7.6% |
 
-In the 297 patients studied, PROCRIT® was not associated with significant increases in opportunistic infections or mortality.23 In 71 patients from this group treated with PROCRIT® at 150 Units/kg TIW, serum p24 antigen levels did not appear to increase.25 Preliminary data showed no enhancement of HIV replication in infected cell lines in vitro.23
+Additional serious adverse reactions that occurred in less than 5% of epoetin alfa-treated patients not on dialysis and greater than placebo were erythema (0.8% PROCRIT and 0% placebo) and myocardial infarction (0.8% PROCRIT and 0% placebo) [see Warnings and Precautions (5.1)].
 
-Peripheral white blood cell and platelet counts are unchanged following PROCRIT® therapy.
+Pediatric Patients
 
-### Allergic Reactions
+In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-Two zidovudine-treated HIV-infected patients had urticarial reactions within 48 hours of their first exposure to study medication.
-One patient was treated with PROCRIT® and one was treated with placebo (PROCRIT® vehicle alone).
-Both patients had positive immediate skin tests against their study medication with a negative saline control.
-The basis for this apparent pre-existing hypersensitivity to components of the PROCRIT® formulation is unknown, but may be related to HIV-induced immunosuppression or prior exposure to blood products.
+Zidovudine-treated HIV-infected Patients
 
-### Seizures
+A total of 297 zidovudine-treated HIV-infected patients were studied in 4 placebo-controlled studies.
+A total of 144 (48%) patients were randomly assigned to receive PROCRIT and 153 (52%) patients were randomly assigned to receive placebo.
+PROCRIT was administered at doses between 100 and 200 Units/kg 3 times weekly subcutaneously for up to 12 weeks.
 
-In double-blind and open-label trials of PROCRIT® in zidovudine-treated HIV-infected patients, 10 patients have experienced seizures.23 In general, these seizures appear to be related to underlying pathology such as meningitis or cerebral neoplasms, not PROCRIT® therapy.
+For the combined PROCRIT treatment groups, a total of 141 (98%) men and 3 (2%) women between the ages of 24 and 64 years were enrolled.
+The racial distribution of the combined PROCRIT treatment groups was as follows: 129 (90%) white, 8 (6%) black, 1 (1%) Asian, and 6 (4%) other.
 
-## Cancer Patients on Chemotherapy
+In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated HIV-infected patients, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
 
-In double-blind, placebo-controlled studies of up to 3 months duration involving 131 cancer patients, adverse events with an incidence > 10% in either patients treated with PROCRIT® or placebo-treated patients were as indicated below:
+Table 5.
+Adverse Reactions in Zidovudine-treated HIV-infected Patients
 
-Percent of Patients Reporting Event
-
-| Event | (n = 63) | (n = 68) |
+| Adverse Reaction | PROCRIT (n = 144) | Placebo (n = 153) |
 | --- | --- | --- |
-|  | Patients Treated With PROCRIT® | Placebo-treated Patients |
-| Pyrexia | 29% | 19% |
-| Diarrhea | 21%Statistically significant | 7% |
-| Nausea | 17% | 32% |
-| Vomiting | 17% | 15% |
-| Edema | 17% | 1% |
-| Asthenia | 13% | 16% |
-| Fatigue | 13% | 15% |
-| Shortness of Breath | 13% | 9% |
-| Parasthesia | 11% | 6% |
-| Upper Respiratory Infection | 11% | 4% |
-| Dizziness | 5% | 12% |
-| Trunk Pain | 3% | 16% |
+| Pyrexia | 42% | 34% |
+| Cough | 26% | 14% |
+| Rash | 19% | 7% |
+| Injection site irritation | 7% | 4% |
+| Urticaria | 3% | 1% |
+| Respiratory tract congestion | 1% | Not reported |
+| Pulmonary embolism | 1% | Not reported |
 
-Although some statistically significant differences between patients being treated with PROCRIT® and placebo-treated patients were noted, the overall safety profile of PROCRIT® appeared to be consistent with the disease process of advanced cancer.
-During double-blind and subsequent open-label therapy in which patients (n = 72 for total exposure to PROCRIT®) were treated for up to 32 weeks with doses as high as 927 Units/kg, the adverse experience profile of PROCRIT® was consistent with the progression of advanced cancer.
+Cancer Patients on Chemotherapy
 
-Three hundred thirty-three (333) cancer patients enrolled in a placebo-controlled double-blind trial utilizing Weekly dosing with PROCRIT® for up to 4 months were evaluable for adverse events.
+The data below were obtained in Study C1, a 16-week, double-blind, placebo-controlled study that enrolled 344 patients with anemia secondary to chemotherapy.
+There were 333 patients who were evaluable for safety; 168 of 174 patients (97%) randomized to PROCRIT received at least 1 dose of study drug, and 165 of 170 patients (97%) randomized to placebo received at least 1 placebo dose.
+For the once weekly PROCRIT-treatment group, a total of 76 men (45%) and 92 women (55%) between the ages of 20 and 88 years were treated.
+The racial distribution of the PROCRIT-treatment group was 158 white (94%) and 10 black (6%).
+PROCRIT was administered once weekly for an average of 13 weeks at a dose of 20,000 to 60,000 IU subcutaneously (mean weekly dose was 49,000 IU).
 
-The incidence of adverse events was similar in both the treatment and placebo arms.
+The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
 
-## Surgery Patients
+Table 6.
+Adverse Reactions in Cancer Patients
 
-Adverse events with an incidence of ≥ 10% are shown in the following table:
+| Adverse Reaction | PROCRIT (n = 168) | Placebo (n = 165) |
+| --- | --- | --- |
+| Nausea | 35% | 30% |
+| Vomiting | 20% | 16% |
+| Myalgia | 10% | 5% |
+| Arthralgia | 10% | 6% |
+| Stomatitis | 10% | 8% |
+| Cough | 9% | 7% |
+| Weight decrease | 9% | 5% |
+| Leukopenia | 8% | 7% |
+| Bone pain | 7% | 4% |
+| Rash | 7% | 5% |
+| Hyperglycemia | 6% | 4% |
+| Insomnia | 6% | 2% |
+| Headache | 5% | 4% |
+| Depression | 5% | 4% |
+| Dysphagia | 5% | 2% |
+| Hypokalemia | 5% | 3% |
+| Thrombosis | 5% | 3% |
 
-Percent of Patients Reporting Event
+Surgery Patients
 
-| Event | (n = 112)Study including patients undergoing orthopedic surgery treated with PROCRIT® or placebo for 15 days | (n = 101) | (n = 103) | (n = 73)Study including patients undergoing orthopedic surgery treated with PROCRIT® 600 Units/kg weekly × 4 or 300 Units/kg daily × 15 | (n = 72) |
+Four hundred sixty-one patients undergoing major orthopedic surgery were studied in a placebo-controlled study (S1) and a comparative dosing study (2 dosing regimens, S2).
+A total of 358 patients were randomly assigned to receive PROCRIT and 103 (22%) patients were randomly assigned to receive placebo.
+PROCRIT was administered daily at a dose of 100 to 300 IU/kg subcutaneously for 15 days or at 600 IU/kg once weekly for 4 weeks.
+
+For the combined PROCRIT treatment groups, a total of 90 (25%) and 268 (75%) women between the ages of 29 and 89 years were enrolled.
+The racial distribution of the combined PROCRIT treatment groups was as follows: 288 (80%) white, 64 (18%) black, 1 (< 1%) Asian, and 5 (1%) other.
+
+The adverse reactions with a reported incidence of ≥ 1% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
+
+Table 7.
+Adverse Reactions in Surgery Patients
+
+| (n = 112)Study included patients undergoing orthopedic surgery treated with PROCRIT or placebo for 15 days. | (n = 101) | (n = 103) | (n = 73)Study included patients undergoing orthopedic surgery treated with PROCRIT 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | (n = 72) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Patients Treated With PROCRIT® 300 U/kg | Patients Treated With PROCRIT® 100 U/kg | Placebo-treated Patients | Patients Treated With PROCRIT® 600 U/kg | Patients Treated With PROCRIT® 300 U/kg |
-| Pyrexia | 51% | 50% | 60% | 47% | 42% |
-| Nausea | 48% | 43% | 45% | 45% | 58% |
-| Constipation | 43% | 42% | 43% | 51% | 53% |
-| Skin Reaction, Medication Site | 25% | 19% | 22% | 26% | 29% |
-| Vomiting | 22% | 12% | 14% | 21% | 29% |
-| Skin Pain | 18% | 18% | 17% | 5% | 4% |
-| Pruritus | 16% | 16% | 14% | 14% | 22% |
-| Insomnia | 13% | 16% | 13% | 21% | 18% |
-| Headache | 13% | 11% | 9% | 10% | 19% |
-| Dizziness | 12% | 9% | 12% | 11% | 21% |
-| Urinary Tract Infection | 12% | 3% | 11% | 11% | 8% |
-| Hypertension | 10% | 11% | 10% | 5% | 10% |
-| Diarrhea | 10% | 7% | 12% | 10% | 6% |
-| Deep Venous Thrombosis | 10% | 3% | 5% | 0%Determined by clinical symptoms | 0% |
-| Dyspepsia | 9% | 11% | 6% | 7% | 8% |
-| Anxiety | 7% | 2% | 11% | 11% | 4% |
-| Edema | 6% | 11% | 8% | 11% | 7% |
+| Adverse Reaction | Study S1 |  |  | Study S2 |  |
+| PROCRIT 300 U/kg | PROCRIT 100 U/kg | Placebo | PROCRIT 600 U/kg × 4 weeks | PROCRIT 300 U/kg × 15 days |  |
+| Nausea | 47% | 43% | 45% | 45% | 56% |
+| Vomiting | 21% | 12% | 14% | 19% | 28% |
+| Pruritus | 16% | 16% | 14% | 12% | 21% |
+| Headache | 13% | 11% | 9% | 10% | 18% |
+| Injection site pain | 13% | 9% | 8% | 12% | 11% |
+| Chills | 7% | 4% | 1% | 1% | 0% |
+| Deep vein thrombosis | 6% | 3% | 3% | 0%DVTs were determined by clinical symptoms. | 0% |
+| Cough | 5% | 4% | 0% | 4% | 4% |
+| Hypertension | 5% | 3% | 5% | 5% | 6% |
+| Rash | 2% | 2% | 1% | 3% | 3% |
+| Edema | 1% | 2% | 2% | 1% | 3% |
 
-### Thrombotic/Vascular Events
+## 6.2 Postmarketing Experience
 
-In three double-blind, placebo-controlled orthopedic surgery studies, the rate of deep venous thrombosis (DVT) was similar among Epoetin alfa and placebo-treated patients in the recommended population of patients with a pretreatment hemoglobin of > 10 g/dL to ≤ 13 g/dL.17,19,26 However, in 2 of 3 orthopedic surgery studies the overall rate (all pretreatment hemoglobin groups combined) of DVTs detected by postoperative ultrasonography and/or surveillance venography was higher in the group treated with Epoetin alfa than in the placebo-treated group (11% vs. 6%).
-This finding was attributable to the difference in DVT rates observed in the subgroup of patients with pretreatment hemoglobin > 13 g/dL.
+Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-In the orthopedic surgery study of patients with pretreatment hemoglobin of > 10 g/dL to ≤ 13 g/dL which compared two dosing regimens (600 Units/kg weekly × 4 and 300 Units/kg daily × 15), 4 subjects in the 600 Units/kg weekly PROCRIT® group (5%) and no subjects in the 300 Units/kg daily group had a thrombotic vascular event during the study period.18
+The following adverse reactions have been identified during postmarketing use of PROCRIT:
 
-In a study examining the use of Epoetin alfa in 182 patients scheduled for coronary artery bypass graft surgery, 23% of patients treated with Epoetin alfa and 29% treated with placebo experienced thrombotic/vascular events.
-There were 4 deaths among the Epoetin alfa-treated patients that were associated with a thrombotic/vascular event (see WARNINGS).
+- Seizures [see Warnings and Precautions (5.5)]
+- PRCA [see Warnings and Precautions (5.7)]
+- Serious allergic reactions [see Warnings and Precautions (5.8)]
+- Injection site reactions, including irritation and pain
+- Porphyria
+
+## 6.3 Immunogenicity
+
+As with all therapeutic proteins, there is a potential for immunogenicity.
+Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.7)].
+
+The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to PROCRIT with the incidence of antibodies to other products may be misleading.

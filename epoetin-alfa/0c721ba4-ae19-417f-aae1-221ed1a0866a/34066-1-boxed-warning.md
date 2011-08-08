@@ -1,21 +1,21 @@
-WARNINGS: INCREASED MORTALITY, SERIOUS CARDIOVASCULAR EVENTS, THROMBOEMBOLIC EVENTS, STROKE and INCREASED RISK OF TUMOR PROGRESSION OR RECURRENCE
+# WARNING: ESAs INCREASE THE RISK OF DEATH, MYOCARDIAL INFARCTION, STROKE, VENOUS THROMBOEMBOLISM, THROMBOSIS OF VASCULAR ACCESS AND TUMOR PROGRESSION OR RECURRENCE
 
-Chronic Renal Failure
+Chronic Kidney Disease:
 
-- In clinical studies, patients experienced greater risks for death, serious cardiovascular events, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target hemoglobin levels of 13 g/dL and above.
-- Individualize dosing to achieve and maintain hemoglobin levels within the range of 10 to 12 g/dL.
+- In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
+- No trial has identified a hemoglobin target level, ESA dose, or dosing strategy that does not increase these risks.
+- Use the lowest PROCRIT dose sufficient to reduce the need for red blood cell (RBC) transfusions [see Warnings and Precautions (5.1)].
 
-Cancer
+Cancer:
 
-- ESAs shortened overall survival and/or increased the risk of tumor progression or recurrence in some clinical studies in patients with breast, non-small cell lung, head and neck, lymphoid, and cervical cancers (see WARNINGS: Table 1).
-- To decrease these risks, as well as the risk of serious cardio- and thrombovascular events, use the lowest dose needed to avoid red blood cell transfusion.
-- Because of these risks, prescribers and hospitals must enroll in and comply with the ESA APPRISE Oncology Program to prescribe and/or dispense PROCRIT® to patients with cancer.
-  To enroll in the ESA APPRISE Oncology Program, visit www.esa-apprise.com or call 1-866-284-8089 for further assistance.
-- Use ESAs only for treatment of anemia due to concomitant myelosuppressive chemotherapy.
-- ESAs are not indicated for patients receiving myelosuppressive therapy when the anticipated outcome is cure.
-- Discontinue following the completion of a chemotherapy course.
+- ESAs shortened overall survival and/or increased the risk of tumor progression or recurrence in clinical studies of patients with breast, non-small cell lung, head and neck, lymphoid, and cervical cancers [see Table 2, Warnings and Precautions (5.3)].
+- Because of these risks, prescribers and hospitals must enroll in and comply with the ESA APPRISE Oncology Program to prescribe and/or dispense PROCRIT to patients with cancer.
+  To enroll in the ESA APPRISE Oncology Program, visit www.esa-apprise.com or call 1-866-284-8089 for further assistance [see Warnings and Precautions (5.2)].
+- To decrease these risks, as well as the risk of serious cardiovascular and thromboembolic reactions, use the lowest dose needed to avoid RBC transfusions [see Dosage and Administration (2.4)].
+- Use ESAs only for anemia from myelosuppressive chemotherapy [see Indications and Usage (1.3)].
+- ESAs are not indicated for patients receiving myelosuppressive chemotherapy when the anticipated outcome is cure [see Indications and Usage (1.5)].
+- Discontinue following the completion of a chemotherapy course [see Dosage and Administration (2.4)].
 
-Perisurgery: PROCRIT® increased the rate of deep venous thromboses in atients not receiving prophylactic anticoagulation.
-Consider deep venous thrombosis prophylaxis.
+Perisurgery:
 
-(See WARNINGS: Increased Mortality, Serious Cardiovascular Events, Thromboembolic Events, and Stroke, WARNINGS: Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION.)
+- Due to increased risk of Deep Venous Thrombosis (DVT), DVT prophylaxis is recommended [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
