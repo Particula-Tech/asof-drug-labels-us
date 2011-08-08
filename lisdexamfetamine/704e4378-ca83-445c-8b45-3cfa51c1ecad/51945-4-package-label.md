@@ -1,5 +1,3 @@
-# PRINCIPAL DISPLAY PANEL
-
 NDC 59417-102-10 20 mg bottle of 100 Capsules
 
 NDC 59417-103-10 30 mg bottle of 100 Capsules

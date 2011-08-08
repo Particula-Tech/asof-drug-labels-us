@@ -28,8 +28,8 @@ Weight/Dose normalized AUC and Cmax values were the same in girls and boys follo
 Metabolism and Excretion
 
 After oral administration, lisdexamfetamine is rapidly absorbed from the gastrointestinal tract.
-Lisdexamfetamine is converted to dextroamphetamine and l-lysine, primarily in blood due to the hydrolytic activity of blood cells.
-In vitro data demonstrated that red blood cells have a high capacity for metabolism of lisdexamphetamine; substantial hydrolysis occurred even at low hematocrit levels (33% of normal).
+Lisdexamfetamine is converted to dextroamphetamine and l-lysine primarily in blood due to the hydrolytic activity of red blood cells.
+In vitro data demonstrated that red blood cells have a high capacity for metabolism of lisdexamfetamine; substantial hydrolysis occurred even at low hematocrit levels (33% of normal).
 Lisdexamfetamine is not metabolized by cytochrome P450 enzymes.
 Following the oral administration of a 70 mg dose of radiolabeled lisdexamfetamine dimesylate to 6 healthy subjects, approximately 96% of the oral dose radioactivity was recovered in the urine and only 0.3% recovered in the feces over a period of 120 hours.
 Of the radioactivity recovered in the urine, 42% of the dose was related to amphetamine, 25% to hippuric acid, and 2% to intact lisdexamfetamine.

@@ -4,7 +4,7 @@ The efficacy of Vyvanse in the treatment of ADHD was established on the basis of
 
 Pediatric
 
-A double-blind, randomized, placebo-controlled, parallel-group study was conducted in children aged 6 to12 (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
+A double-blind, randomized, placebo-controlled, parallel-group study was conducted in children aged 6 to 12 (N=290) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Patients were randomized to receive final doses of 30 mg, 50 mg, or 70 mg of Vyvanse or placebo once daily in the morning for a total of four weeks of treatment.
 All subjects receiving Vyvanse were initiated on 30 mg for the first week of treatment.
 Subjects assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.

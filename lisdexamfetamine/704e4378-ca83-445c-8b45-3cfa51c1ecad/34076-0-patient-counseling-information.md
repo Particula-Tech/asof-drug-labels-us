@@ -14,23 +14,23 @@ The complete text of the Medication Guide is attached to the package insert.
 
 Patients should be advised that Vyvanse is a federally controlled substance because it can be abused or lead to dependence.
 Additionally, it should be emphasized that Vyvanse should be stored in a safe place to prevent misuse and/or abuse.
-Patient history (including family history) of abuse or dependence on alcohol, prescription medicines, or illicit drugs should be evaluated [See Drug Abuse and Dependence (9)].
+Patient history (including family history) of abuse or dependence on alcohol, prescription medicines, or illicit drugs should be evaluated [see Drug Abuse and Dependence (9)].
 
 ## 17.3 Serious Cardiovascular Risks
 
 Patients should be advised of serious cardiovascular risk (including sudden death, myocardial infarction, stroke, and hypertension) with Vyvanse.
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during treatment should undergo a prompt cardiac evaluation [See Warning and Precautions (5.1)].
+Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during treatment should undergo a prompt cardiac evaluation [see Warnings and Precautions (5.1)].
 
 ## 17.4 Psychiatric Risks
 
 Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder.
 Such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and/or depression.
-Additionally, stimulant therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [See Warnings and Precautions (5.2)].
+Additionally, stimulant therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.2)].
 
 ## 17.5 Growth
 
 Growth should be monitored during treatment with stimulants, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted.
-[See Warnings and Precautions (5.6)].
+[see Warnings and Precautions (5.6)].
 
 ## 17.6 Pregnancy
 
@@ -38,7 +38,7 @@ Patients should be advised to notify their physicians if they become pregnant or
 
 ## 17.7 Nursing
 
-Patients should be advised not to breast feed if they are taking Vyvanse [see Use in Specific Populations (8.3)].
+Patients should be advised not to breast feed if they are taking Vyvanse [see USE IN SPECIFIC POPULATIONS (8.3)].
 
 ## 17.8 Impairment in Ability to Operate Machinery or Vehicles
 
@@ -58,4 +58,4 @@ Vyvanse® is a trademark of Shire LLC
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 03/2011
+Last Modified: 08/2011

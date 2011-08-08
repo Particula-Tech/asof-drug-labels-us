@@ -1,10 +1,12 @@
-# MEDICATION GUIDE VYVANSE® (lisdexamfetamine dimesylate) CII
+VYVANSE®
+
+(lisdexamfetamine dimesylate) CII
 
 Read the Medication Guide that comes with Vyvanse before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with Vyvanse.
 
-| What is the most important information I should know about Vyvanse? Vyvanse is a stimulant medicine. The following have been reported with use of stimulant medicines. 1. Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Vyvanse. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Vyvanse. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Vyvanse. 2. Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Vyvanse, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| What is the most important information I should know about Vyvanse? Vyvanse is a stimulant medicine. The following have been reported with use of stimulant medicines. 1. Heart-related problems: • sudden death in patients who have heart problems or heart defects • stroke and heart attack in adults • increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Vyvanse. Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with Vyvanse. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Vyvanse. 2. Mental (Psychiatric) problems: All Patients • new or worse behavior and thought problems • new or worse bipolar illness • new or worse aggressive behavior or hostility Children and Teenagers • new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Vyvanse, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
 | --- |
 
 What Is Vyvanse?
@@ -134,7 +136,8 @@ What are the ingredients in Vyvanse?
 Active Ingredient: lisdexamfetamine dimesylate
 
 Inactive Ingredients: microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
-The capsule shells contain gelatin, titanium dioxide, and one or more of the following: D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Green #3, and FD&C Red #40.
+The capsule shells (imprinted with NRP104) contain gelatin, titanium dioxide, and one or more of the following: D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Green #3, and FD&C Red #40.
+The capsule shells (imprinted with S489) contain gelatin, titanium dioxide, and one or more of the following: FD&C Red #3, FD&C Yellow #6, FD&C Blue #1, Black Iron Oxide, Yellow Iron Oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -142,4 +145,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 US Pat No. 7,105,486 and US Pat No. 7,223,735
 
-Last Modified: 03/2011
+Last Modified: 08/2011
