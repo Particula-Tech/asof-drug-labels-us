@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA087508"
+  ],
+  "inn": "codeine",
+  "labeler": "Pharmaceutical Associates, Inc.",
+  "package_ndcs": [
+    "0121-0504-04",
+    "0121-0504-05",
+    "0121-0504-10",
+    "0121-0504-12",
+    "0121-0504-15",
+    "0121-0504-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "acetaminophen and codeine phosphate",
+      "name": "Acetaminophen and Codeine Phosphate"
+    }
+  ],
+  "setid": "95ac6875-6b14-4cde-8efb-80704e39b8d8",
+  "source": "dailymed"
+}
