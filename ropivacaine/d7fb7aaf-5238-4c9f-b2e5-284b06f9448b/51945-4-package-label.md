@@ -1,13 +1,35 @@
-Includes:
+PACKAGE LABEL, PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Label
 
-PACKAGE DISPLAY - 30 mL SINGLE DOSE BOX
+NDC 63323-286-30
 
-PACKAGE DISPLAY - 30 mL SINGLE DOSE BOX LIDDING
+278630
 
-PACKAGE DISPLAY - 30 mL SINGLE DOSE VIAL LABEL
+Naropin® (ropivacaine HCl) Injection
 
-# [PACKAGE LABEL.PRINCIPAL DISPLAY PANEL]
+0.5% (5 mg/mL)
 
-Include:
+For Infiltration, Nerve Block, and Epidural Administration Only.
 
-PACKAGE DISPLAY - BOX OF FIVE PRESTERILIZED 30 mL SINGLE DOSE VIALS
+Not for Intravenous Administration.
+
+30 mL Single Dose Vial
+
+Rx only
+
+PACKAGE LABEL, PRINCIPAL DISPLAY PANEL - Naropin 30 mL Single Dose Vial Carton Label
+
+NDC 63323-286-30
+
+278630
+
+Naropin® (ropivacaine HCl) Injection
+
+0.5% (5 mg/mL)
+
+For Infiltration, Nerve Block, and Epidural Administration Only.
+
+Not for Intravenous Administration.
+
+Rx only
+
+30 mL Single Dose Vial
