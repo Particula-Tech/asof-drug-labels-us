@@ -1,5 +1,3 @@
-# MEDICATION GUIDE ADDERALL XR® (ADD-ur-all X-R) CII
-
 Read the Medication Guide that comes with ADDERALL XR before you or your child starts taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about you or your child's treatment with ADDERALL XR.
@@ -150,9 +148,9 @@ The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron
 
 Manufactured for Shire US Inc., Wayne, PA 19087.
 
-ADDERALL XR is registered in the US Patent and Trademark Office © 2010 Shire US Inc
+ADDERALL XR is registered in the US Patent and Trademark Office © 2011 Shire US Inc
 
 Rev.
-11/2010
+08/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

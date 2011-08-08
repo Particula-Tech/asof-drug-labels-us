@@ -24,7 +24,7 @@ Need for Comprehensive Treatment Program
 
 ADDERALL XR is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social) for patients with this syndrome.
 Drug treatment may not be indicated for all patients with this syndrome.
-Stimulants are not intended for use in the child who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
+Stimulants are not intended for use in the patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe stimulant medication will depend upon the physician's assessment of the chronicity and severity of the child's symptoms.
 

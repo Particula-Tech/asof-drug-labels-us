@@ -3,7 +3,7 @@
 Pediatric Patients
 
 A double-blind, randomized, placebo-controlled, parallel-group study was conducted in children aged 6-12 (N=584) who met DSM-IV® criteria for ADHD (either the combined type or the hyperactive-impulsive type).
-Patients were randomized to fixed dose treatment groups receiving final doses of 10, 20, or 30 mg of ADDERALL XR or placebo once daily in the morning for three weeks.
+Patients were randomized to fixed-dose treatment groups receiving final doses of 10, 20, or 30 mg of ADDERALL XR or placebo once daily in the morning for three weeks.
 Significant improvements in patient behavior, based upon teacher ratings of attention and hyperactivity, were observed for all ADDERALL XR doses compared to patients who received placebo, for all three weeks, including the first week of treatment, when all ADDERALL XR subjects were receiving a dose of 10 mg/day.
 Patients who received ADDERALL XR showed behavioral improvements in both morning and afternoon assessments compared to patients on placebo.
 
@@ -13,7 +13,7 @@ A double-blind, randomized, multi-center, parallel-group, placebo-controlled stu
 The primary cohort of patients (n=287, weighing ≤ 75kg/165lbs) was randomized to fixed-dose treatment groups and received four weeks of treatment.
 Patients were randomized to receive final doses of 10 mg, 20 mg, 30 mg, and 40 mg ADDERALL XR or placebo once daily in the morning.
 Patients randomized to doses greater than 10 mg were titrated to their final doses by 10 mg each week.
-The secondary cohort consisted of 40 subjects weighing >75kg/165lbs who were randomized to fixed dose treatment groups receiving final doses of 50 mg and 60 mg ADDERALL XR or placebo once daily in the morning for 4 weeks.
+The secondary cohort consisted of 40 subjects weighing >75kg/165lbs who were randomized to fixed-dose treatment groups receiving final doses of 50 mg and 60 mg ADDERALL XR or placebo once daily in the morning for 4 weeks.
 The primary efficacy variable was the Attention Deficit Hyperactivity Disorder-Rating Scale IV (ADHD-RS-IV) total score for the primary cohort.
 The ADHD-RS-IV is an 18-item scale that measures the core symptoms of ADHD.
 Improvements in the primary cohort were statistically significantly greater in all four primary cohort active treatment groups (ADDERALL XR 10 mg, 20 mg, 30 mg, and 40 mg) compared with the placebo group.

@@ -24,7 +24,7 @@ Gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid
 Urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts) increase the concentration of the ionized species of the amphetamine molecule, thereby increasing urinary excretion.
 Both groups of agents lower blood levels and efficacy of amphetamines.
 
-## 7.3 Agents Whose Effects May be Reduced by Amphetamines
+## 7.3 Agents whose Effects May be Reduced by Amphetamines
 
 Adrenergic Blockers
 
@@ -54,7 +54,7 @@ Ethosuximide
 
 Amphetamines may delay intestinal absorption of ethosuximide.
 
-## 7.4 Agents Whose Effects May be Potentiated by Amphetamines
+## 7.4 Agents whose Effects May be Potentiated by Amphetamines
 
 Antidepressants, Tricyclic
 
@@ -92,14 +92,14 @@ Propoxyphene Overdosage
 
 In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
 
-## 7.7 Proton Pump Inhibitors (PPI)
+## 7.7 Proton Pump Inhibitors
 
 PPIs act on proton pumps by blocking acid production, thereby reducing gastric acidity.
 When ADDERALL XR (20 mg single-dose) was administered concomitantly with the proton pump inhibitor, omeprazole (40 mg once daily for 14 days), the median Tmax of d-amphetamine was decreased by 1.25 hours (from 4 to 2.75 hours), and the median Tmax of l-amphetamine was decreased by 2.5 hours (from 5.5 to 3 hours), compared to ADDERALL XR administered alone.
 The AUC and Cmax of each moiety were unaffected.
 Therefore, co-administration of ADDERALL XR and proton pump inhibitors should be monitored for changes in clinical effect.
 
-## 7.8 Drug-Laboratory Test Interactions
+## 7.8 Drug/Laboratory Test Interactions
 
 Amphetamines can cause a significant elevation in plasma corticosteroid levels.
 This increase is greatest in the evening.

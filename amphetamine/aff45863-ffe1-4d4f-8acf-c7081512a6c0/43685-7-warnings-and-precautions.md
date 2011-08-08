@@ -15,7 +15,7 @@ Sudden deaths, stroke, and myocardial infarction have been reported in adults ta
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs [seeCONTRAINDICATIONS (4)].
 
-Hypertension and other Cardiovascular Conditions
+Hypertension and Other Cardiovascular Conditions
 
 Stimulant medications cause a modest increase in average blood pressure (about 2-4 mmHg) and average heart rate (about 3-6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
@@ -39,7 +39,7 @@ Prior to initiating treatment with a stimulant, patients with comorbid depressiv
 
 Emergence of New Psychotic or Manic Symptoms
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without prior history of psychotic illness or mania can be caused by stimulants at usual doses.
+Treatment-emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without prior history of psychotic illness or mania can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
 In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
 

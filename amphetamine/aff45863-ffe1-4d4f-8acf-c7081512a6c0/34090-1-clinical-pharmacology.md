@@ -15,7 +15,7 @@ Following administration of ADDERALL (immediate-release), the peak plasma concen
 The time to reach maximum plasma concentration (Tmax) for ADDERALL XR is about 7 hours, which is about 4 hours longer compared to ADDERALL(immediate-release).
 This is consistent with the extended-release nature of the product.
 
-Figure 1 Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and ADDERALL (immediate-release) 10 mg twice daily (8 am and 12 noon) in the Fed State.
+Figure 1 Mean d-amphetamine and l-amphetamine Plasma Concentrations Following Administration of ADDERALL XR 20 mg (8 am) and ADDERALL (immediate-release) 10 mg Twice Daily (8 am and 12 noon) in the Fed State.
 
 A single dose of ADDERALL XR 20 mg capsules provided comparable plasma concentration profiles of both d-amphetamine and l-amphetamine to ADDERALL (immediate-release) 10 mg twice daily administered 4 hours apart.
 
@@ -23,7 +23,7 @@ The mean elimination half-life for d-amphetamine is 10 hours in adults; 11 hours
 For the l-amphetamine, the mean elimination half-life in adults is 13 hours; 13 to 14 hours in adolescents; and 11 hours in children aged 6 to 12 years.
 On a mg/kg body weight basis, children have a higher clearance than adolescents or adults (see Special Populations below).
 
-ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
+ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165 lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
 There is no unexpected accumulation at steady state in children.
 
 Food does not affect the extent of absorption of d-amphetamine and l-amphetamine, but prolongs Tmax by 2.5 hours (from 5.2 hrs at fasted state to 7.7 hrs after a high-fat meal) for d-amphetamine and 2.1 hours (from 5.6 hrs at fasted state to 7.7 hrs after a high fat meal) for l-amphetamine after administration of ADDERALL XR 30 mg.

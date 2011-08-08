@@ -1,5 +1,3 @@
-# PRINCIPAL DISPLAY PANEL
-
 NDC 54092-381-01 5 mg bottle of 100 Capsules
 
 NDC 54092-383-01 10 mg bottle of 100 Capsules

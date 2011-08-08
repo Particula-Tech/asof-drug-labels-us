@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Studies Experience
 
 The premarketing development program for ADDERALL XR included exposures in a total of 1315 participants in clinical trials (635 pediatric patients, 350 adolescent patients, 248 adult patients, and 82 healthy adult subjects).
 Of these, 635 patients (ages 6 to 12) were evaluated in two controlled clinical studies, one open-label clinical study, and two single-dose clinical pharmacology studies (N= 40).
@@ -15,11 +15,11 @@ In the tables and listings that follow, COSTART terminology has been used to cla
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 
-Adverse Reactions Associated with Discontinuation of Treatment
+Adverse Reactions Leading to Discontinuation of Treatment
 
 In two placebo-controlled studies of up to 5 weeks duration among children with ADHD, 2.4% (10/425) of ADDERALL XR-treated patients discontinued due to adverse reactions (including 3 patients with loss of appetite, one of whom also reported insomnia) compared to 2.7% (7/259) receiving placebo.
 
-The most frequent adverse reactions associated with discontinuation of ADDERALL XR in controlled and uncontrolled, multiple-dose clinical trials of children (N=595) were anorexia (loss of appetite) (2.9%), insomnia (1.5%), weight loss (1.2%), emotional lability (1%), and depression (0.7%).
+The most frequent adverse reactions leading to discontinuation of ADDERALL XR in controlled and uncontrolled, multiple-dose clinical trials of children (N=595) were anorexia (loss of appetite) (2.9%), insomnia (1.5%), weight loss (1.2%), emotional lability (1%), and depression (0.7%).
 Over half of these patients were exposed to ADDERALL XR for 12 months or more.
 
 In a separate placebo-controlled 4-week study in adolescents with ADHD, five patients (2.1%) discontinued treatment due to adverse events among ADDERALL XR-treated patients (N=233) compared to none who received placebo (N=54).
@@ -84,7 +84,11 @@ There have been isolated reports of cardiomyopathy associated with chronic amphe
 
 Central Nervous System
 
-Psychotic episodes at recommended doses, overstimulation, restlessness, euphoria, dyskinesia, dysphoria, depression, tremor.
+Psychotic episodes at recommended doses, overstimulation, restlessness, irritability, euphoria, dyskinesia, dysphoria, depression, tremor, tics, aggression, anger, logorrhea, dermatillomania.
+
+Eye Disorders
+
+Vision blurred, mydriasis.
 
 Gastrointestinal
 
@@ -98,3 +102,7 @@ Serious skin rashes, including Stevens-Johnson Syndrome and toxic epidermal necr
 Endocrine
 
 Impotence, changes in libido.
+
+Skin
+
+Alopecia.
