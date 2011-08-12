@@ -230,9 +230,11 @@ The possibility of hypotensive effects with lisinopril can be minimized by eithe
 If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS, and DOSAGE AND ADMINISTRATION).
 When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed (See DOSAGE AND ADMINISTRATION).
 
-Non-steroidal Anti-inflammatory Agents: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in a further deterioration of renal function.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of lisinopril alone were compared to lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
+Monitor renal function periodically in patients receiving lisinopril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 
 Other Agents: Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 No meaningful clinically important pharmacokinetic interactions occurred when lisinopril was used concomitantly with propranolol, digoxin, or hydrochlorothiazide.

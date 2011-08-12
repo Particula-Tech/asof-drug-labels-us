@@ -11,11 +11,11 @@ ZESTORETIC 20-25 Tablets (NDC 0310-0145) Peach, round, biconvex, uncoated tablet
 Store at controlled room temperature, 20-25°C (68-77°F) [see USP].
 Protect from excessive light and humidity.
 
-*AN69 is a registered trademark of Hospal Ltd.
+*AN69 is a registered trademark of HOSPAL Ltd.
 
 ZESTORETIC is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2009
+© AstraZeneca 2011
 
 Distributed by:
 
@@ -23,5 +23,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Rev.
-02/2011
+Revision August 2011
